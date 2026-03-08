@@ -1,0 +1,505 @@
+name: Mirror https://update.kbv.de/ita-update/
+
+on:
+  push:
+    paths:
+      - .github/workflows/mirror.yml
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch: {}
+
+jobs:
+  mirror:
+    permissions:
+      contents: write
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Install dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y \
+            lftp \
+            parallel \
+            p7zip-full \
+            convmv \
+            curl \
+            sqlite3 \
+            xlsx2csv \
+            ghostscript
+
+      - name: Install pdf-oxide
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL https://oxide.fyi/install.sh | sh
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          "$HOME/.local/bin/pdf-oxide" --help >/dev/null
+
+      - name: Initialize repository
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          rm -rf .git
+          git init -b "$GITHUB_REF_NAME"
+
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name "Mirror Bot"
+          git config user.email "bot@example.com"
+          git config advice.defaultBranchName false
+
+          git remote add origin "https://x-access-token:${{ secrets.PUSH2REP }}@github.com/${{ github.repository }}.git"
+          git config remote.origin.promisor true
+          git config remote.origin.partialclonefilter blob:none
+
+          branch="${GITHUB_REF_NAME}"
+
+          if git fetch --depth=1 --filter=blob:none origin "refs/heads/$branch"; then
+            git update-ref "refs/heads/$branch" FETCH_HEAD
+            git symbolic-ref HEAD "refs/heads/$branch"
+            git read-tree HEAD
+          fi
+
+      - name: Restore .github from HEAD
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          rm -rf .github
+
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            git checkout HEAD -- .github
+          else
+            mkdir -p .github/workflows
+          fi
+
+      - name: Download from KBV into staging
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          rm -rf _stage
+          mkdir -p _stage
+
+          lftp -c "set cmd:show-status no; \
+          open https://update.kbv.de/ita-update/; \
+          mirror --parallel=10 \
+                 --use-pget-n=5 \
+                 --continue \
+                 --no-empty-dirs \
+                 --exclude-glob 'index.html*' \
+                 --exclude-glob 'ITA-Update_*.iso' \
+                 --exclude '^Vorquartale(/|$)' \
+                 --verbose=0 \
+                 . _stage"
+
+      - name: Replace workspace contents with staged mirror
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          find . -mindepth 1 -maxdepth 1 \
+            ! -name .git \
+            ! -name .github \
+            ! -name _stage \
+            -exec rm -rf {} +
+
+          cp -a _stage/. ./
+          rm -rf _stage
+
+      - name: Recursive Extraction
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          while true; do
+            archives="$(
+              find . -type f \( \
+                -iname "*.iso" -o \
+                -iname "*.zip" -o \
+                -iname "*.tar" -o \
+                -iname "*.tgz" -o \
+                -iname "*.tar.gz" \
+              \) \
+              -not -path "./.git/*" \
+              -printf '%d\t%p\n' | sort -rn | cut -f2-
+            )"
+
+            if [ -z "$archives" ]; then
+              break
+            fi
+
+            echo "$archives" | parallel --will-cite -j "$(nproc)" '
+              archive={}
+              dir="${archive}.extracted"
+              rm -rf "$dir"
+              mkdir -p "$dir"
+
+              case "$archive" in
+                *.iso|*.ISO|*.zip|*.ZIP)
+                  7z x "$archive" -o"$dir" -y > /dev/null
+                  ;;
+                *.tar|*.TAR)
+                  tar -xf "$archive" -C "$dir"
+                  ;;
+                *.tgz|*.TGZ|*.tar.gz|*.TAR.GZ)
+                  tar -xzf "$archive" -C "$dir"
+                  ;;
+                *)
+                  exit 1
+                  ;;
+              esac &&
+              rm "$archive"
+            '
+          done
+
+      - name: Sanitize Filenames
+        shell: bash
+        run: |
+          set -euo pipefail
+          find . -maxdepth 1 -mindepth 1 -not -name '.git' -not -name '.github' -print0 | \
+            parallel -0 convmv -r -f cp437 -t utf-8 --notest {}
+
+      - name: Replace PDFs with markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          pdf_total="$(
+            find . -type f -iname '*.pdf' -not -path './.git/*' | wc -l
+          )"
+
+          tmp_pdf_successes="$(mktemp)"
+          tmp_pdf_failures="$(mktemp)"
+          export tmp_pdf_successes tmp_pdf_failures
+
+          convert_pdf() {
+            local f="$1"
+            local repaired out tmp err
+
+            repaired="$(mktemp --suffix=.pdf)"
+            out="${f}.md"
+            tmp="${out}.tmp"
+            err="${tmp}.err"
+
+            cleanup() {
+              rm -f "$repaired" "$tmp" "$err"
+            }
+            trap cleanup RETURN
+
+            if pdf-oxide markdown "$f" -o "$tmp" > /dev/null 2>"$err"; then
+              if [ -s "$tmp" ]; then
+                mv "$tmp" "$out"
+                rm -f "$f"
+                printf '%s\n' "$f" >> "$tmp_pdf_successes"
+                return 0
+              else
+                rm -f "$tmp"
+              fi
+            fi
+
+            if ! gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite \
+                 -sOutputFile="$repaired" "$f" >/dev/null 2>&1; then
+              printf '%s\n' "$f" >> "$tmp_pdf_failures"
+              echo "PDF REWRITE FAILED: $f" >&2
+              sed -n '1,20p' "$err" >&2 || true
+              return 0
+            fi
+
+            if [ ! -s "$repaired" ]; then
+              printf '%s\n' "$f" >> "$tmp_pdf_failures"
+              echo "EMPTY REWRITTEN PDF: $f" >&2
+              return 0
+            fi
+
+            if pdf-oxide markdown "$repaired" -o "$tmp" > /dev/null 2>"$err"; then
+              if [ -s "$tmp" ]; then
+                mv "$tmp" "$out"
+                rm -f "$f"
+                printf '%s\n' "$f" >> "$tmp_pdf_successes"
+              else
+                printf '%s\n' "$f" >> "$tmp_pdf_failures"
+                echo "EMPTY PDF OUTPUT AFTER REWRITE: $f" >&2
+                sed -n '1,20p' "$err" >&2 || true
+              fi
+            else
+              printf '%s\n' "$f" >> "$tmp_pdf_failures"
+              echo "PDF CONVERSION FAILED AFTER REWRITE: $f" >&2
+              sed -n '1,20p' "$err" >&2 || true
+            fi
+          }
+
+          export -f convert_pdf
+
+          find . -type f -iname '*.pdf' -not -path './.git/*' -print0 | \
+            parallel --will-cite -0 -j 2 convert_pdf {}
+
+          sort -u "$tmp_pdf_successes" -o "$tmp_pdf_successes"
+          sort -u "$tmp_pdf_failures" -o "$tmp_pdf_failures"
+
+          echo "PDF files found: $pdf_total"
+          echo "PDF files converted: $(wc -l < "$tmp_pdf_successes")"
+          echo "PDF files failed: $(wc -l < "$tmp_pdf_failures")"
+          sed -n '1,50p' "$tmp_pdf_failures" || true
+
+          rm -f "$tmp_pdf_successes" "$tmp_pdf_failures"
+
+      - name: Remove embedded base64 images from markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          find . -type f -name '*.md' -not -path './.git/*' -print0 | \
+            xargs -0 perl -0pi -e 's@!\[[^\]]*\]\(data:image/[^;]+;base64,[^)]+\)@@gs'
+
+      - name: Replace XLSX with textified CSV
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          xlsx_total="$(
+            find . -type f -iname '*.xlsx' -not -path './.git/*' | wc -l
+          )"
+
+          tmp_xlsx_successes="$(mktemp)"
+          tmp_xlsx_failures="$(mktemp)"
+          export tmp_xlsx_successes tmp_xlsx_failures
+
+          find . -type f -iname '*.xlsx' -not -path './.git/*' -print0 | \
+            parallel --will-cite -0 -j "$(nproc)" '
+              bash -c '"'"'
+                set -euo pipefail
+                f="$1"
+                out="${f}.csv"
+                tmpdir="$(mktemp -d)"
+                tmpfile="$(mktemp)"
+
+                cleanup() {
+                  rm -rf "$tmpdir"
+                  rm -f "$tmpfile"
+                }
+                trap cleanup EXIT
+
+                if PYTHONWARNINGS=ignore xlsx2csv -a "$f" "$tmpdir" >/dev/null 2>&1; then
+                  found=0
+                  while IFS= read -r -d "" csv; do
+                    found=1
+                    sheet="$(basename "${csv%.csv}")"
+                    printf "### sheet: %s\n" "$sheet" >> "$tmpfile"
+                    cat "$csv" >> "$tmpfile"
+                    printf "\n\n" >> "$tmpfile"
+                  done < <(find "$tmpdir" -maxdepth 1 -type f -name "*.csv" -print0 | sort -z)
+
+                  if [ "$found" -eq 1 ] && [ -s "$tmpfile" ]; then
+                    mv "$tmpfile" "$out"
+                    rm -f "$f"
+                    printf "%s\n" "$f" >> "$tmp_xlsx_successes"
+                  else
+                    printf "%s\n" "$f" >> "$tmp_xlsx_failures"
+                    echo "EMPTY XLSX OUTPUT: $f" >&2
+                  fi
+                else
+                  printf "%s\n" "$f" >> "$tmp_xlsx_failures"
+                  echo "XLSX CONVERSION FAILED: $f" >&2
+                fi
+              '"'"' _ {}
+            '
+
+          sort -u "$tmp_xlsx_successes" -o "$tmp_xlsx_successes"
+          sort -u "$tmp_xlsx_failures" -o "$tmp_xlsx_failures"
+
+          echo "XLSX files found: $xlsx_total"
+          echo "XLSX files converted: $(wc -l < "$tmp_xlsx_successes")"
+          echo "XLSX files failed: $(wc -l < "$tmp_xlsx_failures")"
+          sed -n "1,50p" "$tmp_xlsx_failures" || true
+
+          if [ -s "$tmp_xlsx_failures" ]; then
+            echo "Some XLSX conversions failed" >&2
+            exit 1
+          fi
+
+          rm -f "$tmp_xlsx_successes" "$tmp_xlsx_failures"
+
+      - name: Replace SQLite DB files with per-table CSV exports
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          db_candidate_total="$(
+            find . -type f \( -iname '*.db' -o -iname '*.sqlite' -o -iname '*.sqlite3' \) \
+              -not -iname 'thumbs.db' \
+              -not -path './.git/*' | wc -l
+          )"
+
+          tmp_db_successes="$(mktemp)"
+          tmp_db_failures="$(mktemp)"
+          tmp_db_skipped="$(mktemp)"
+          export tmp_db_successes tmp_db_failures tmp_db_skipped
+
+          is_sqlite_file() {
+            local f="$1"
+            local sig
+            sig="$(head -c 16 -- "$f" 2>/dev/null || true)"
+            [ "$sig" = "$(printf 'SQLite format 3\0')" ]
+          }
+
+          convert_db() {
+            local f="$1"
+            local outdir
+            local tables=0
+            local safe_table
+            local export_failed=0
+
+            if ! is_sqlite_file "$f"; then
+              printf '%s\n' "$f" >> "$tmp_db_skipped"
+              echo "SKIPPING NON-SQLITE DB-LIKE FILE: $f" >&2
+              return 0
+            fi
+
+            outdir="${f}.tables"
+            rm -rf "$outdir"
+            mkdir -p "$outdir"
+
+            if ! sqlite3 "$f" "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' ORDER BY name;" > "$outdir/.tables.txt" 2>/dev/null; then
+              printf '%s\n' "$f" >> "$tmp_db_failures"
+              echo "SQLITE TABLE LIST FAILED: $f" >&2
+              rm -rf "$outdir"
+              return 0
+            fi
+
+            while IFS= read -r table; do
+              [ -n "$table" ] || continue
+              tables=1
+
+              safe_table="$(printf '%s' "$table" | sed 's|/|_|g')"
+
+              if ! sqlite3 -header -csv "$f" "SELECT * FROM \"$table\";" > "$outdir/${safe_table}.csv" 2>/dev/null; then
+                export_failed=1
+                printf '%s :: %s\n' "$f" "$table" >> "$tmp_db_failures"
+                echo "SQLITE EXPORT FAILED: $f :: $table" >&2
+                rm -f "$outdir/${safe_table}.csv"
+              fi
+            done < "$outdir/.tables.txt"
+
+            rm -f "$outdir/.tables.txt"
+
+            if [ "$tables" -eq 1 ] && find "$outdir" -type f -name '*.csv' | grep -q .; then
+              rm -f "$f"
+              if [ "$export_failed" -eq 0 ]; then
+                printf '%s\n' "$f" >> "$tmp_db_successes"
+              fi
+            else
+              printf '%s\n' "$f" >> "$tmp_db_failures"
+              echo "NO EXPORTABLE TABLES FOUND: $f" >&2
+              rm -rf "$outdir"
+            fi
+          }
+
+          export -f is_sqlite_file
+          export -f convert_db
+
+          find . -type f \( -iname '*.db' -o -iname '*.sqlite' -o -iname '*.sqlite3' \) \
+            -not -iname 'thumbs.db' \
+            -not -path './.git/*' \
+            -print0 | \
+            parallel --will-cite -0 -j 2 convert_db {}
+
+          sort -u "$tmp_db_successes" -o "$tmp_db_successes"
+          sort -u "$tmp_db_failures" -o "$tmp_db_failures"
+          sort -u "$tmp_db_skipped" -o "$tmp_db_skipped"
+
+          echo "DB-like files found: $db_candidate_total"
+          echo "SQLite DB files fully converted: $(wc -l < "$tmp_db_successes")"
+          echo "SQLite DB conversion failures: $(wc -l < "$tmp_db_failures")"
+          echo "Non-SQLite DB-like files skipped: $(wc -l < "$tmp_db_skipped")"
+
+          echo "Failed SQLite exports:"
+          sed -n '1,50p' "$tmp_db_failures" || true
+
+          echo "Skipped non-SQLite DB-like files:"
+          sed -n '1,50p' "$tmp_db_skipped" || true
+
+          if [ -s "$tmp_db_failures" ]; then
+            echo "Some SQLite conversions failed" >&2
+            exit 1
+          fi
+
+          rm -f "$tmp_db_successes" "$tmp_db_failures" "$tmp_db_skipped"
+
+      - name: Delete non-text binaries
+        shell: bash
+        run: |
+          set -euo pipefail
+          export LC_ALL=C
+
+          tmp_all_bin_ext_log="$(mktemp)"
+          export tmp_all_bin_ext_log
+
+          process_batch() {
+            local file mime base ext
+
+            for file in "$@"; do
+              mime="$(file -b --mime-type -- "$file" 2>/dev/null || true)"
+
+              case "$mime" in
+                text/*|application/json|application/xml|application/javascript|image/svg+xml|inode/x-empty)
+                  continue
+                  ;;
+              esac
+
+              base="${file##*/}"
+              if [[ "$base" == *.* && "$base" != .* ]]; then
+                ext="${base##*.}"
+              else
+                ext="[no-extension]"
+              fi
+              ext="${ext,,}"
+
+              printf '%s\n' "$ext" >> "$tmp_all_bin_ext_log"
+              rm -f -- "$file"
+            done
+          }
+
+          export -f process_batch
+
+          find . -type f \
+            -not -path './.git/*' \
+            -print0 | \
+            xargs -0 -r -n 256 -P "$(nproc)" bash -c 'process_batch "$@"' _
+
+          total=0
+          if [ -s "$tmp_all_bin_ext_log" ]; then
+            total="$(wc -l < "$tmp_all_bin_ext_log")"
+          fi
+
+          echo "Total binary files deleted: $total"
+          echo "Deleted binary files by extension:"
+          if [ -s "$tmp_all_bin_ext_log" ]; then
+            sort "$tmp_all_bin_ext_log" | uniq -c | sort -nr | awk '{print $2 ": " $1}'
+          else
+            echo "none"
+          fi
+
+          rm -f "$tmp_all_bin_ext_log"
+
+      - name: Commit and Push
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git add -A
+
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            if git diff-index --cached --quiet HEAD --; then
+              exit 0
+            fi
+          else
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+          fi
+
+          git commit -q -m "Mirror KBV update.kbv.de/ita-update - $(date -I) [skip ci]"
+          git push -q origin HEAD:"$GITHUB_REF_NAME"
