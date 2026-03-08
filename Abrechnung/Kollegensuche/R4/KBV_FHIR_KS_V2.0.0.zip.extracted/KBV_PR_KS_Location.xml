@@ -1,0 +1,219 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_Location" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="Location" />
+  <baseDefinition value="http://hl7.org/fhir/StructureDefinition/Location" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="Location">
+      <path value="Location" />
+      <short value="Position" />
+      <definition value="Diese Ressource beschreibt die geografische Position der Betriebsstätte und hält Zusatzinformationen zu dieser bereit." />
+    </element>
+    <element id="Location.id">
+      <path value="Location.id" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.meta">
+      <path value="Location.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.meta.versionId">
+      <path value="Location.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="Location.meta.lastUpdated">
+      <path value="Location.meta.lastUpdated" />
+      <max value="0" />
+    </element>
+    <element id="Location.meta.source">
+      <path value="Location.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="Location.meta.profile">
+      <path value="Location.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.meta.security">
+      <path value="Location.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="Location.meta.tag">
+      <path value="Location.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="Location.implicitRules">
+      <path value="Location.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="Location.language">
+      <path value="Location.language" />
+      <max value="0" />
+    </element>
+    <element id="Location.text">
+      <path value="Location.text" />
+      <max value="0" />
+    </element>
+    <element id="Location.contained">
+      <path value="Location.contained" />
+      <max value="0" />
+    </element>
+    <element id="Location.extension">
+      <path value="Location.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+	  <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:distanz">
+      <path value="Location.extension" />
+      <sliceName value="distanz" />
+      <max value="1" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationDistance" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:distanz.value[x]">
+      <path value="Location.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:distanz.value[x]:valueString">
+      <path value="Location.extension.value[x]" />
+      <sliceName value="valueString" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit">
+      <path value="Location.extension" />
+      <sliceName value="barrierefreiheit" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]">
+      <path value="Location.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]:valueCodeableConcept">
+      <path value="Location.extension.value[x]" />
+      <sliceName value="valueCodeableConcept" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]:valueCodeableConcept.coding">
+      <path value="Location.extension.value[x].coding" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]:valueCodeableConcept.coding.system">
+      <path value="Location.extension.value[x].coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]:valueCodeableConcept.coding.code">
+      <path value="Location.extension.value[x].coding.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.extension:barrierefreiheit.value[x]:valueCodeableConcept.coding.display">
+      <path value="Location.extension.value[x].coding.display" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.identifier">
+      <path value="Location.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Location.status">
+      <path value="Location.status" />
+      <max value="0" />
+    </element>
+    <element id="Location.operationalStatus">
+      <path value="Location.operationalStatus" />
+      <max value="0" />
+    </element>
+    <element id="Location.name">
+      <path value="Location.name" />
+      <max value="0" />
+    </element>
+    <element id="Location.alias">
+      <path value="Location.alias" />
+      <max value="0" />
+    </element>
+    <element id="Location.description">
+      <path value="Location.description" />
+      <max value="0" />
+    </element>
+    <element id="Location.mode">
+      <path value="Location.mode" />
+      <max value="0" />
+    </element>
+    <element id="Location.type">
+      <path value="Location.type" />
+      <max value="0" />
+    </element>
+    <element id="Location.telecom">
+      <path value="Location.telecom" />
+      <max value="0" />
+    </element>
+    <element id="Location.address">
+      <path value="Location.address" />
+      <max value="0" />
+    </element>
+    <element id="Location.physicalType">
+      <path value="Location.physicalType" />
+      <max value="0" />
+    </element>
+    <element id="Location.position">
+      <path value="Location.position" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.position.longitude">
+      <path value="Location.position.longitude" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.position.latitude">
+      <path value="Location.position.latitude" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Location.position.altitude">
+      <path value="Location.position.altitude" />
+      <max value="0" />
+    </element>
+    <element id="Location.managingOrganization">
+      <path value="Location.managingOrganization" />
+      <max value="0" />
+    </element>
+    <element id="Location.partOf">
+      <path value="Location.partOf" />
+      <max value="0" />
+    </element>
+    <element id="Location.hoursOfOperation">
+      <path value="Location.hoursOfOperation" />
+      <max value="0" />
+    </element>
+    <element id="Location.availabilityExceptions">
+      <path value="Location.availabilityExceptions" />
+      <max value="0" />
+    </element>
+    <element id="Location.endpoint">
+      <path value="Location.endpoint" />
+      <max value="0" />
+    </element>
+  </differential>
+</StructureDefinition>

@@ -1,0 +1,3 @@
+Schlüsseldatei:		Oeffentlich_ADMP_V10.pub
+gültig ab:				01.04.2026
+Verwendung:				Verschlüsselung der a-Datensätze von Dokumentationsdaten

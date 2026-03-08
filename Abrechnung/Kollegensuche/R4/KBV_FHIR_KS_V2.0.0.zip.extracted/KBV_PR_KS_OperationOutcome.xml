@@ -1,0 +1,98 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_OperationOutcome" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_OperationOutcome" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="OperationOutcome" />
+  <baseDefinition value="http://hl7.org/fhir/StructureDefinition/OperationOutcome" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="OperationOutcome.id">
+      <path value="OperationOutcome.id" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.meta">
+      <path value="OperationOutcome.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.meta.versionId">
+      <path value="OperationOutcome.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.meta.lastUpdated">
+      <path value="OperationOutcome.meta.lastUpdated" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.meta.source">
+      <path value="OperationOutcome.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.meta.profile">
+      <path value="OperationOutcome.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_OperationOutcome|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.meta.security">
+      <path value="OperationOutcome.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.meta.tag">
+      <path value="OperationOutcome.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.implicitRules">
+      <path value="OperationOutcome.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.language">
+      <path value="OperationOutcome.language" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.text">
+      <path value="OperationOutcome.text" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.contained">
+      <path value="OperationOutcome.contained" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.issue">
+      <path value="OperationOutcome.issue" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.issue.severity">
+      <path value="OperationOutcome.issue.severity" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.issue.code">
+      <path value="OperationOutcome.issue.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.issue.details">
+      <path value="OperationOutcome.issue.details" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.issue.diagnostics">
+      <path value="OperationOutcome.issue.diagnostics" />
+      <mustSupport value="true" />
+    </element>
+    <element id="OperationOutcome.issue.location">
+      <path value="OperationOutcome.issue.location" />
+      <max value="0" />
+    </element>
+    <element id="OperationOutcome.issue.expression">
+      <path value="OperationOutcome.issue.expression" />
+      <max value="0" />
+    </element>
+  </differential>
+</StructureDefinition>

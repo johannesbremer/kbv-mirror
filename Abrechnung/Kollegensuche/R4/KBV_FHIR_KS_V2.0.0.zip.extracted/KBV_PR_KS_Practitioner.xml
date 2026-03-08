@@ -1,0 +1,829 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_Practitioner" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="Practitioner" />
+  <baseDefinition value="https://fhir.kbv.de/StructureDefinition/KBV_PR_Base_Practitioner" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="Practitioner.id">
+      <path value="Practitioner.id" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.meta">
+      <path value="Practitioner.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.meta.versionId">
+      <path value="Practitioner.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.meta.lastUpdated">
+      <path value="Practitioner.meta.lastUpdated" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.meta.source">
+      <path value="Practitioner.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.meta.profile">
+      <path value="Practitioner.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.meta.security">
+      <path value="Practitioner.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.meta.tag">
+      <path value="Practitioner.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.implicitRules">
+      <path value="Practitioner.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.language">
+      <path value="Practitioner.language" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.text">
+      <path value="Practitioner.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.contained">
+      <path value="Practitioner.contained" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.extension">
+      <path value="Practitioner.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier">
+      <path value="Practitioner.identifier" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="type" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR">
+      <path value="Practitioner.identifier" />
+      <sliceName value="ANR" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type">
+      <path value="Practitioner.identifier.type" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding">
+      <path value="Practitioner.identifier.type.coding" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding.system">
+      <path value="Practitioner.identifier.type.coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding.version">
+      <path value="Practitioner.identifier.type.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding.code">
+      <path value="Practitioner.identifier.type.coding.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding.display">
+      <path value="Practitioner.identifier.type.coding.display" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.coding.userSelected">
+      <path value="Practitioner.identifier.type.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ANR.type.text">
+      <path value="Practitioner.identifier.type.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ANR.system">
+      <path value="Practitioner.identifier.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.value">
+      <path value="Practitioner.identifier.value" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.identifier:ANR.period">
+      <path value="Practitioner.identifier.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ANR.assigner">
+      <path value="Practitioner.identifier.assigner" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:EFN">
+      <path value="Practitioner.identifier" />
+      <sliceName value="EFN" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:ZANR">
+      <path value="Practitioner.identifier" />
+      <sliceName value="ZANR" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.identifier:Telematik-ID">
+      <path value="Practitioner.identifier" />
+      <sliceName value="Telematik-ID" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.active">
+      <path value="Practitioner.active" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.name">
+      <path value="Practitioner.name" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name">
+      <path value="Practitioner.name" />
+      <sliceName value="name" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.use">
+      <path value="Practitioner.name.use" />
+      <fixedCode value="official" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.text">
+      <path value="Practitioner.name.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.name:name.family">
+      <path value="Practitioner.name.family" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension">
+      <path value="Practitioner.name.family.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <max value="3" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:namenszusatz">
+      <path value="Practitioner.name.family.extension" />
+      <sliceName value="namenszusatz" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:namenszusatz.value[x]">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <slicing>
+        <discriminator>
+          <type value="type" />
+          <path value="$this" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:namenszusatz.value[x]:valueString">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <sliceName value="valueString" />
+      <maxLength value="20" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:nachname">
+      <path value="Practitioner.name.family.extension" />
+      <sliceName value="nachname" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:nachname.value[x]">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <slicing>
+        <discriminator>
+          <type value="type" />
+          <path value="$this" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:nachname.value[x]:valueString">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <sliceName value="valueString" />
+      <maxLength value="45" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:vorsatzwort">
+      <path value="Practitioner.name.family.extension" />
+      <sliceName value="vorsatzwort" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:vorsatzwort.value[x]">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <slicing>
+        <discriminator>
+          <type value="type" />
+          <path value="$this" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.family.extension:vorsatzwort.value[x]:valueString">
+      <path value="Practitioner.name.family.extension.value[x]" />
+      <sliceName value="valueString" />
+      <maxLength value="20" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.given">
+      <path value="Practitioner.name.given" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.prefix">
+      <path value="Practitioner.name.prefix" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.prefix.extension">
+      <path value="Practitioner.name.prefix.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <max value="1" />
+    </element>
+    <element id="Practitioner.name:name.prefix.extension:prefix-qualifier">
+      <path value="Practitioner.name.prefix.extension" />
+      <sliceName value="prefix-qualifier" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.prefix.extension:prefix-qualifier.value[x]">
+      <path value="Practitioner.name.prefix.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.prefix.extension:prefix-qualifier.value[x]:valueCode">
+      <path value="Practitioner.name.prefix.extension.value[x]" />
+      <sliceName value="valueCode" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.name:name.suffix">
+      <path value="Practitioner.name.suffix" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.name:name.period">
+      <path value="Practitioner.name.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.name:geburtsname">
+      <path value="Practitioner.name" />
+      <sliceName value="geburtsname" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.telecom">
+      <path value="Practitioner.telecom" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.address">
+      <path value="Practitioner.address" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.address:Strassenanschrift">
+      <path value="Practitioner.address" />
+      <sliceName value="Strassenanschrift" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.address:Postfach">
+      <path value="Practitioner.address" />
+      <sliceName value="Postfach" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.gender">
+      <path value="Practitioner.gender" />
+      <min value="0" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension">
+      <path value="Practitioner.gender.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich">
+      <path value="Practitioner.gender.extension" />
+      <sliceName value="other-amtlich" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x]">
+      <path value="Practitioner.gender.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x].system">
+      <path value="Practitioner.gender.extension.value[x].system" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x].version">
+      <path value="Practitioner.gender.extension.value[x].version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x].code">
+      <path value="Practitioner.gender.extension.value[x].code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x].display">
+      <path value="Practitioner.gender.extension.value[x].display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.gender.extension:other-amtlich.value[x].userSelected">
+      <path value="Practitioner.gender.extension.value[x].userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.birthDate">
+      <path value="Practitioner.birthDate" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.photo">
+      <path value="Practitioner.photo" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification">
+      <path value="Practitioner.qualification" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="code.coding.system" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet">
+      <path value="Practitioner.qualification" />
+      <sliceName value="fachgebiet" />
+	  <short value="Fachgebiete des Arztes" />
+	  <definition value="Das Element gibt an, in welchen Fachgebieten der Arzt tätig ist." />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.identifier">
+      <path value="Practitioner.qualification.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code">
+      <path value="Practitioner.qualification.code" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_FACHGEBIET_FEIN" />
+      </binding>
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding">
+      <path value="Practitioner.qualification.code.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding.system">
+      <path value="Practitioner.qualification.code.coding.system" />
+      <min value="1" />
+      <fixedUri value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FACHGEBIET_FEIN" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding.version">
+      <path value="Practitioner.qualification.code.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding.code">
+      <path value="Practitioner.qualification.code.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding.display">
+      <path value="Practitioner.qualification.code.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.coding.userSelected">
+      <path value="Practitioner.qualification.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.code.text">
+      <path value="Practitioner.qualification.code.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.period">
+      <path value="Practitioner.qualification.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:fachgebiet.issuer">
+      <path value="Practitioner.qualification.issuer" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung">
+      <path value="Practitioner.qualification" />
+      <sliceName value="zusatzbezeichnung" />
+	  <short value="Zusatzbezeichnungen des Arztes" />
+	  <definition value="Das Element gibt die Zusatzbezeichnungen zum Fachgebiet an." />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.identifier">
+      <path value="Practitioner.qualification.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code">
+      <path value="Practitioner.qualification.code" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_ZUSATZBEZEICHNUNGEN" />
+      </binding>
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding">
+      <path value="Practitioner.qualification.code.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding.system">
+      <path value="Practitioner.qualification.code.coding.system" />
+      <min value="1" />
+      <fixedUri value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZUSATZBEZEICHNUNGEN" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding.version">
+      <path value="Practitioner.qualification.code.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding.code">
+      <path value="Practitioner.qualification.code.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding.display">
+      <path value="Practitioner.qualification.code.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.coding.userSelected">
+      <path value="Practitioner.qualification.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.code.text">
+      <path value="Practitioner.qualification.code.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.period">
+      <path value="Practitioner.qualification.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zusatzbezeichnung.issuer">
+      <path value="Practitioner.qualification.issuer" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung">
+      <path value="Practitioner.qualification" />
+      <sliceName value="zweitmeinungsgenehmigung" />
+	  <short value="Zweitmeingungsgenehmigung des Arztes" />
+	  <definition value="Das Element gibt an, für welches Zweitmeingungsgenehmigungsverfahren der Arzt eine Genehmigung hat." />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.identifier">
+      <path value="Practitioner.qualification.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code">
+      <path value="Practitioner.qualification.code" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_ZWEITMEINUNGEN" />
+      </binding>
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding">
+      <path value="Practitioner.qualification.code.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding.system">
+      <path value="Practitioner.qualification.code.coding.system" />
+      <min value="1" />
+      <fixedUri value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZWEITMEINUNGEN" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding.version">
+      <path value="Practitioner.qualification.code.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding.code">
+      <path value="Practitioner.qualification.code.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding.display">
+      <path value="Practitioner.qualification.code.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.coding.userSelected">
+      <path value="Practitioner.qualification.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.code.text">
+      <path value="Practitioner.qualification.code.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.period">
+      <path value="Practitioner.qualification.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:zweitmeinungsgenehmigung.issuer">
+      <path value="Practitioner.qualification.issuer" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung">
+      <path value="Practitioner.qualification" />
+      <sliceName value="kv_genehmigung" />
+	  <short value="KV-Genehmigungen des Arztes" />
+	  <definition value="Das Element gibt an, welche KV-Genehmigungen der Arzt besitzt." />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.identifier">
+      <path value="Practitioner.qualification.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code">
+      <path value="Practitioner.qualification.code" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_KV_GENEHMIGUNGEN" />
+      </binding>
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding">
+      <path value="Practitioner.qualification.code.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding.system">
+      <path value="Practitioner.qualification.code.coding.system" />
+      <min value="1" />
+      <fixedUri value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding.version">
+      <path value="Practitioner.qualification.code.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding.code">
+      <path value="Practitioner.qualification.code.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding.display">
+      <path value="Practitioner.qualification.code.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.coding.userSelected">
+      <path value="Practitioner.qualification.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.code.text">
+      <path value="Practitioner.qualification.code.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.period">
+      <path value="Practitioner.qualification.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:kv_genehmigung.issuer">
+      <path value="Practitioner.qualification.issuer" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung">
+      <path value="Practitioner.qualification" />
+      <sliceName value="Psychotherapiegenehmigung" />
+	  <short value="Psychotherapiegenehmigung des Arztes" />
+	  <definition value="Das Element gibt an, welche Psychotherapiegenehmigung der Arzt besitzt." />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.identifier">
+      <path value="Practitioner.qualification.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code">
+      <path value="Practitioner.qualification.code" />
+      <mustSupport value="true" />
+    </element>
+	<element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension">
+      <path value="Practitioner.qualification.code.extension" />
+      <mustSupport value="true" />
+    </element>
+	<element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting">
+      <path value="Practitioner.qualification.code.extension" />
+      <sliceName value="PT_Setting" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PsychotherapySetting" />
+      </type>
+      <mustSupport value="true" />
+      <isModifier value="false" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]">
+      <path value="Practitioner.qualification.code.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept">
+      <path value="Practitioner.qualification.code.extension.value[x]" />
+      <sliceName value="valueCodeableConcept" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept.coding">
+      <path value="Practitioner.qualification.code.extension.value[x].coding" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept.coding.system">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept.coding.code">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept.coding.display">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.display" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Setting.value[x]:valueCodeableConcept.coding.userSelected">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.userSelected" />
+      <mustSupport value="true" />
+    </element>
+	<element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen">
+      <path value="Practitioner.qualification.code.extension" />
+      <sliceName value="PT_Altersgruppen" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PsychotherapyAgeGroup" />
+      </type>
+      <mustSupport value="true" />
+      <isModifier value="false" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]">
+      <path value="Practitioner.qualification.code.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept">
+      <path value="Practitioner.qualification.code.extension.value[x]" />
+      <sliceName value="valueCodeableConcept" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept.coding">
+      <path value="Practitioner.qualification.code.extension.value[x].coding" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept.coding.system">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept.coding.code">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept.coding.display">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.display" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.extension:PT_Altersgruppen.value[x]:valueCodeableConcept.coding.userSelected">
+      <path value="Practitioner.qualification.code.extension.value[x].coding.userSelected" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding">
+      <path value="Practitioner.qualification.code.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_PT_VERFAHREN" />
+      </binding>
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding.system">
+      <path value="Practitioner.qualification.code.coding.system" />
+      <min value="1" />
+      <fixedUri value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_PT_VERFAHREN" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding.version">
+      <path value="Practitioner.qualification.code.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding.code">
+      <path value="Practitioner.qualification.code.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding.display">
+      <path value="Practitioner.qualification.code.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.coding.userSelected">
+      <path value="Practitioner.qualification.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.code.text">
+      <path value="Practitioner.qualification.code.text" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.period">
+      <path value="Practitioner.qualification.period" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.qualification:Psychotherapiegenehmigung.issuer">
+      <path value="Practitioner.qualification.issuer" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.communication">
+      <path value="Practitioner.communication" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.communication.coding">
+      <path value="Practitioner.communication.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_FREMDSPRACHEN" />
+      </binding>
+    </element>
+    <element id="Practitioner.communication.coding.system">
+      <path value="Practitioner.communication.coding.system" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.communication.coding.version">
+      <path value="Practitioner.communication.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="Practitioner.communication.coding.code">
+      <path value="Practitioner.communication.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.communication.coding.display">
+      <path value="Practitioner.communication.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Practitioner.communication.coding.userSelected">
+      <path value="Practitioner.communication.coding.userSelected" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+  </differential>
+</StructureDefinition>

@@ -1,0 +1,327 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Bundle" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_Bundle" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="Bundle" />
+  <baseDefinition value="http://hl7.org/fhir/StructureDefinition/Bundle" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="Bundle">
+      <path value="Bundle" />
+      <short value="Return-Bundle" />
+      <definition value="Nach diesem Schema werden die Ressourcen der Kollegensuche transportiert." />
+    </element>
+    <element id="Bundle.id">
+      <path value="Bundle.id" />
+      <min value="1" />
+    </element>
+    <element id="Bundle.meta">
+      <path value="Bundle.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.meta.versionId">
+      <path value="Bundle.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.meta.lastUpdated">
+      <path value="Bundle.meta.lastUpdated" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.meta.source">
+      <path value="Bundle.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.meta.profile">
+      <path value="Bundle.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Bundle|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.meta.security">
+      <path value="Bundle.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.meta.tag">
+      <path value="Bundle.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.implicitRules">
+      <path value="Bundle.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.language">
+      <path value="Bundle.language" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.identifier">
+      <path value="Bundle.identifier" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.type">
+      <path value="Bundle.type" />
+      <fixedCode value="searchset" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.timestamp">
+      <path value="Bundle.timestamp" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.total">
+      <path value="Bundle.total" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.total.extension">
+      <path value="Bundle.total.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <max value="1" />
+    </element>
+    <element id="Bundle.total.extension:resultLimit">
+      <path value="Bundle.total.extension" />
+      <sliceName value="resultLimit" />
+      <min value="1" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.total.extension:resultLimit.value[x]">
+      <path value="Bundle.total.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.total.extension:resultLimit.value[x]:valueInteger">
+      <path value="Bundle.total.extension.value[x]" />
+      <sliceName value="valueInteger" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.link">
+      <path value="Bundle.link" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.link.relation">
+      <path value="Bundle.link.relation" />
+      <fixedString value="self" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.link.url">
+      <path value="Bundle.link.url" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry">
+      <path value="Bundle.entry" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="resource.meta.profile" />
+        </discriminator>
+        <rules value="open" />
+      </slicing>
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle">
+      <path value="Bundle.entry" />
+      <sliceName value="Berufsausuebungsstelle" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.link">
+      <path value="Bundle.entry.link" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.fullUrl">
+      <path value="Bundle.entry.fullUrl" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.resource">
+      <path value="Bundle.entry.resource" />
+      <min value="1" />
+      <type>
+        <code value="Resource" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.search">
+      <path value="Bundle.entry.search" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.search.mode">
+      <path value="Bundle.entry.search.mode" />
+      <min value="1" />
+      <fixedCode value="match" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.search.score">
+      <path value="Bundle.entry.search.score" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.request">
+      <path value="Bundle.entry.request" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Berufsausuebungsstelle.response">
+      <path value="Bundle.entry.response" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Kollege">
+      <path value="Bundle.entry" />
+      <sliceName value="Kollege" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Kollege.link">
+      <path value="Bundle.entry.link" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Kollege.fullUrl">
+      <path value="Bundle.entry.fullUrl" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Kollege.resource">
+      <path value="Bundle.entry.resource" />
+      <min value="1" />
+      <type>
+        <code value="Resource" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Kollege.search">
+      <path value="Bundle.entry.search" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Kollege.search.mode">
+      <path value="Bundle.entry.search.mode" />
+      <min value="1" />
+      <fixedCode value="include" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Kollege.search.score">
+      <path value="Bundle.entry.search.score" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Kollege.request">
+      <path value="Bundle.entry.request" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Kollege.response">
+      <path value="Bundle.entry.response" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette">
+      <path value="Bundle.entry" />
+      <sliceName value="Betriebsstaette" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.link">
+      <path value="Bundle.entry.link" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.fullUrl">
+      <path value="Bundle.entry.fullUrl" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.resource">
+      <path value="Bundle.entry.resource" />
+      <min value="1" />
+      <type>
+        <code value="Resource" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Organization" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.search">
+      <path value="Bundle.entry.search" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.search.mode">
+      <path value="Bundle.entry.search.mode" />
+      <min value="1" />
+      <fixedCode value="include" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.search.score">
+      <path value="Bundle.entry.search.score" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.request">
+      <path value="Bundle.entry.request" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Betriebsstaette.response">
+      <path value="Bundle.entry.response" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Standort">
+      <path value="Bundle.entry" />
+      <sliceName value="Standort" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Standort.link">
+      <path value="Bundle.entry.link" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Standort.fullUrl">
+      <path value="Bundle.entry.fullUrl" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Standort.resource">
+      <path value="Bundle.entry.resource" />
+      <min value="1" />
+      <type>
+        <code value="Resource" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Standort.search">
+      <path value="Bundle.entry.search" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Standort.search.mode">
+      <path value="Bundle.entry.search.mode" />
+      <min value="1" />
+      <fixedCode value="include" />
+      <mustSupport value="true" />
+    </element>
+    <element id="Bundle.entry:Standort.search.score">
+      <path value="Bundle.entry.search.score" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Standort.request">
+      <path value="Bundle.entry.request" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.entry:Standort.response">
+      <path value="Bundle.entry.response" />
+      <max value="0" />
+    </element>
+    <element id="Bundle.signature">
+      <path value="Bundle.signature" />
+      <max value="0" />
+    </element>
+  </differential>
+</StructureDefinition>

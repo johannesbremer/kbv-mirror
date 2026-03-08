@@ -1,0 +1,3 @@
+Schlüsseldatei:		Oeffentlich_QSKE_V07.pub
+gültig ab:		01.04.2026
+Verwendung:		QS Kapselendoskopie Verschluesselung

@@ -1,0 +1,497 @@
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="4e3852a2-75c1-4d37-a227-98af7e180019"/>
+	<meta>
+		<lastUpdated value="2026-01-16T07:43:38.795+01:00"/>
+		<profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Bundle|2.0"/>
+	</meta>
+	<type value="searchset"/>
+	<timestamp value="2026-01-16T07:43:38.795+01:00"/>
+	<total value="1">
+		<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit">
+			<valueInteger value="50"/>
+		</extension>
+	</total>
+	<link>
+		<relation value="self"/>
+		<url value="https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128"/>
+	</link>
+	<entry>
+		<fullUrl value="https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/PractitionerRole/7222359009957128"/>
+		<resource>
+			<PractitionerRole xmlns="http://hl7.org/fhir">
+				<id value="7222359009957128"/>
+				<meta>
+					<profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole|2.0"/>
+				</meta>
+				<practitioner>
+					<reference value="Practitioner/7222359009957128"/>
+				</practitioner>
+				<organization>
+					<reference value="Organization/722235900"/>
+				</organization>
+				<specialty>
+					<coding>
+						<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FACHGEBIET_GROB"/>
+						<code value="01"/>
+						<display value="Hausarzt / Allgemeinmedizin"/>
+					</coding>
+				</specialty>
+				<location>
+					<reference value="Location/722235900"/>
+				</location>
+				<telecom>
+					<system value="phone"/>
+					<value value="030 5320221"/>
+					<use value="work"/>
+				</telecom>
+				<telecom>
+					<system value="email"/>
+					<value value="kontakt@praxis-hildemann.berlin"/>
+					<use value="work"/>
+				</telecom>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-23"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-22"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-22"/>
+					</extension>
+					<availableStartTime value="14:00:00"/>
+					<availableEndTime value="19:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-21"/>
+					</extension>
+					<availableStartTime value="14:00:00"/>
+					<availableEndTime value="17:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-21"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-20"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-20"/>
+					</extension>
+					<availableStartTime value="14:00:00"/>
+					<availableEndTime value="19:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-19"/>
+					</extension>
+					<availableStartTime value="14:00:00"/>
+					<availableEndTime value="18:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-19"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+				<availableTime>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+						<valueCodeableConcept>
+							<coding>
+								<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART"/>
+								<code value="02"/>
+								<display value="Allgemeine Sprechstunde ohne Termin"/>
+							</coding>
+						</valueCodeableConcept>
+					</extension>
+					<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+						<valueDate value="2026-01-16"/>
+					</extension>
+					<availableStartTime value="08:00:00"/>
+					<availableEndTime value="13:00:00"/>
+				</availableTime>
+			</PractitionerRole>
+		</resource>
+		<search>
+			<mode value="match"/>
+		</search>
+	</entry>
+	<entry>
+		<fullUrl value="https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/Practitioner/7222359009957128"/>
+		<resource>
+			<Practitioner xmlns="http://hl7.org/fhir">
+				<id value="7222359009957128"/>
+				<meta>
+					<profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner|2.0"/>
+				</meta>
+				<identifier>
+					<use value="official"/>
+					<type>
+						<coding>
+							<system value="http://terminology.hl7.org/CodeSystem/v2-0203"/>
+							<code value="LANR"/>
+						</coding>
+					</type>
+					<system value="https://fhir.kbv.de/NamingSystem/KBV_NS_Base_ANR"/>
+					<value value="995712803"/>
+				</identifier>
+				<name>
+					<use value="official"/>
+					<family value="Hildemann">
+						<extension url="http://hl7.org/fhir/StructureDefinition/humanname-own-name">
+							<valueString value="Hildemann"/>
+						</extension>
+					</family>
+					<given value="Sieglinde"/>
+				</name>
+				<gender value="female"/>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZUSATZBEZEICHNUNGEN"/>
+							<code value="015"/>
+							<display value="Naturheilverfahren"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="075"/>
+							<display value="Langzeit EKG: Aufzeichnung und Auswertung"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="411"/>
+							<display value="DMP Diabetes mellitus Typ 2"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="447"/>
+							<display value="Akupunktur"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="073"/>
+							<display value="Psychosomatische Gespräche"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="430"/>
+							<display value="DMP Diabetes mellitus Typ 1"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="552"/>
+							<display value="Behandlung des diabetischen Fußes"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="431"/>
+							<display value="DMP COPD Chronische Atemwegserkrankung"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="410"/>
+							<display value="DMP Asthma bronchiale"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="452"/>
+							<display value="Hautkrebs-Screening"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="406"/>
+							<display value="Langzeit EKG: nur Aufzeichnung"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="428"/>
+							<display value="DMP Koronare Herz-Krankheit"/>
+						</coding>
+					</code>
+				</qualification>
+				<qualification>
+					<code>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN"/>
+							<code value="088"/>
+							<display value="Autogenes Training"/>
+						</coding>
+					</code>
+				</qualification>
+				<communication>
+					<coding>
+						<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FREMDSPRACHEN"/>
+						<code value="04"/>
+						<display value="Französisch"/>
+						<userSelected value="true"/>
+					</coding>
+				</communication>
+				<communication>
+					<coding>
+						<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FREMDSPRACHEN"/>
+						<code value="14"/>
+						<display value="Russisch"/>
+						<userSelected value="true"/>
+					</coding>
+				</communication>
+			</Practitioner>
+		</resource>
+		<search>
+			<mode value="include"/>
+		</search>
+	</entry>
+	<entry>
+		<fullUrl value="https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/Organization/722235900"/>
+		<resource>
+			<Organization xmlns="http://hl7.org/fhir">
+				<id value="722235900"/>
+				<meta>
+					<profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Organization|2.0"/>
+				</meta>
+				<identifier>
+					<use value="official"/>
+					<type>
+						<coding>
+							<system value="http://terminology.hl7.org/CodeSystem/v2-0203"/>
+							<code value="BSNR"/>
+						</coding>
+					</type>
+					<system value="https://fhir.kbv.de/NamingSystem/KBV_NS_Base_BSNR"/>
+					<value value="722235900"/>
+				</identifier>
+				<address>
+					<use value="work"/>
+					<type value="both"/>
+					<line value="Am Treptower Park 54">
+						<extension url="http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName">
+							<valueString value="Am Treptower Park"/>
+						</extension>
+						<extension url="http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber">
+							<valueString value="54"/>
+						</extension>
+					</line>
+					<city value="Berlin"/>
+					<postalCode value="12435"/>
+				</address>
+			</Organization>
+		</resource>
+		<search>
+			<mode value="include"/>
+		</search>
+	</entry>
+	<entry>
+		<fullUrl value="https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/Location/722235900"/>
+		<resource>
+			<Location xmlns="http://hl7.org/fhir">
+				<id value="722235900"/>
+				<meta>
+					<profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location|2.0"/>
+				</meta>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="302"/>
+							<display value="Kommunikation über SMS, Fax oder E-Mail"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="304"/>
+							<display value="Höhenverstellbare Untersuchungsstühle und Liegen"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="202"/>
+							<display value="bedingt rollstuhlgeeignetes WC vorhanden"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="301"/>
+							<display value="Orientierungshilfen für Sehbehinderte"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="401"/>
+							<display value="Behindertenparkplatz"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+					<valueCodeableConcept>
+						<coding>
+							<system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT"/>
+							<code value="103"/>
+							<display value="Praxisräume für Personen mit Gehhilfe weitgehend zugänglich"/>
+						</coding>
+					</valueCodeableConcept>
+				</extension>
+				<position>
+					<longitude value="13.4693050253899"/>
+					<latitude value="52.4835305731831"/>
+				</position>
+			</Location>
+		</resource>
+		<search>
+			<mode value="include"/>
+		</search>
+	</entry>
+</Bundle>

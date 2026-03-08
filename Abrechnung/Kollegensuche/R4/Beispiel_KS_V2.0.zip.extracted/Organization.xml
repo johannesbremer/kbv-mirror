@@ -1,0 +1,32 @@
+
+<Organization xmlns="http://hl7.org/fhir">
+  <id value="726774900" />
+  <meta>
+    <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Organization|2.0" />
+  </meta>
+  <identifier>
+    <use value="official" />
+    <type>
+      <coding>
+        <system value="http://terminology.hl7.org/CodeSystem/v2-0203" />
+        <code value="BSNR" />
+      </coding>
+    </type>
+    <system value="https://fhir.kbv.de/NamingSystem/KBV_NS_Base_BSNR" />
+    <value value="726774900" />
+  </identifier>
+  <address>
+    <use value="work" />
+    <type value="both" />
+    <line value="Fasanenstraße 3">
+      <extension url="http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-streetName">
+        <valueString value="Fasanenstraße" />
+      </extension>
+      <extension url="http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-houseNumber">
+        <valueString value="3" />
+      </extension>
+    </line>
+    <city value="Berlin" />
+    <postalCode value="10623" />
+  </address>
+</Organization>

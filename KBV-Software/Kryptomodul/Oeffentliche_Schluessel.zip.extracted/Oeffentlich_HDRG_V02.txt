@@ -1,0 +1,3 @@
+Schlüsseldatei:		Oeffentlich_HDRG_V02.pub
+gültig ab:				01.04.2026
+Verwendung:				Hybrid-DRG-Abrechnungsverschlüsselung

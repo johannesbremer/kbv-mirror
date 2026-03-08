@@ -1,0 +1,199 @@
+<PractitionerRole xmlns="http://hl7.org/fhir">
+  <id value="7100000650000065" />
+  <meta>
+    <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole|2.0" />
+  </meta>
+  <practitioner>
+    <reference value="Practitioner/10379" />
+  </practitioner>
+  <organization>
+    <reference value="Organization/710000065" />
+  </organization>
+  <code>
+    <coding>
+      <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_Base_Role_Care" />
+      <version value="1.7.0" />
+      <code value="EAV" />
+      <display value="Ermächtigte/r Ärzt:in (vertragsärztliche Versorgung)" />
+    </coding>
+  </code>
+  <specialty>
+    <coding>
+      <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FACHGEBIET_GROB" />
+      <code value="10" />
+      <display value="Neurologie / Psychiatrie" />
+    </coding>
+  </specialty>
+  <location>
+    <reference value="Location/710000065" />
+  </location>
+  <telecom>
+    <system value="phone" />
+    <value value="0989146003" />
+    <use value="work" />
+  </telecom>
+  <telecom>
+    <system value="phone" />
+    <value value="0938137938" />
+    <use value="mobile" />
+  </telecom>
+  <telecom>
+    <system value="fax" />
+    <value value="0785113135" />
+    <use value="work" />
+  </telecom>
+  <telecom>
+    <system value="email" />
+    <value value="mail@me.de" />
+    <use value="work" />
+  </telecom>
+  <telecom>
+    <system value="url" />
+    <value value="www.kbv.de" />
+    <use value="work" />
+  </telecom>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark">
+      <valueString value="nur bestellte Patienten" />
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-16" />
+    </extension>
+    <availableStartTime value="15:00:00" />
+    <availableEndTime value="18:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-17" />
+    </extension>
+    <availableStartTime value="08:00:00" />
+    <availableEndTime value="12:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark">
+      <valueString value="Am Montag ist die Praxis sehr voll." />
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-18" />
+    </extension>
+    <availableStartTime value="08:00:00" />
+    <availableEndTime value="18:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark">
+      <valueString value="n.V." />
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-19" />
+    </extension>
+    <availableStartTime value="09:00:00" />
+    <availableEndTime value="11:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark">
+      <valueString value="nur bestellte Patienten" />
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-20" />
+    </extension>
+    <availableStartTime value="15:00:00" />
+    <availableEndTime value="18:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-21" />
+    </extension>
+    <availableStartTime value="09:00:00" />
+    <availableEndTime value="13:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark">
+      <valueString value="14-15 Uhr Telefonsprechstunde" />
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-22" />
+    </extension>
+    <availableStartTime value="09:00:00" />
+    <availableEndTime value="13:00:00" />
+  </availableTime>
+  <availableTime>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType">
+      <valueCodeableConcept>
+        <coding>
+          <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR2_SPRECHZEITART" />
+          <code value="01" />
+          <display value="Allgemeine Sprechstunde" />
+        </coding>
+      </valueCodeableConcept>
+    </extension>
+    <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate">
+      <valueDate value="2024-07-23" />
+    </extension>
+    <availableStartTime value="08:00:00" />
+    <availableEndTime value="12:00:00" />
+  </availableTime>
+  <availabilityExceptions value="Ohne Termin bitte immer vorher anrufen!" />
+</PractitionerRole>

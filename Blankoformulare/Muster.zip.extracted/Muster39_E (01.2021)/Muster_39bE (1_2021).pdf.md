@@ -1,0 +1,147 @@
+**Ausfertigung für den zytologisch tätigen Arzt**
+
+## 39
+
+Name, Vorname des Versicherten
+
+geb. am
+
+Kostenträgerkennung Versicherten-Nr. Status
+
+Betriebsstätten-Nr. Arzt-Nr. Datum
+
+Krankenkasse bzw. Kostenträger
+
+## Krebsfrüherkennung Zervix-Karzinom
+
+Gravidität
+
+Ausfluss / pathologische Blutung
+
+IUP
+
+Einnahme von Ovulationshemmer / sonstige Hormonanwendung ***(ggf. bitte in Anmerkungen erläutern)***
+
+Klinischer Befund
+
+nein
+
+Wurde bereits eine Krebsfrüherkennungsuntersuchung durchgeführt?
+
+Gynäkologische OP, Strahlen- oder Chemotherapie des Genitales
+
+Primär- screening Abklärungs- diagnostik
+
+Zytologie Ko-Testung (Zyt.+HPV)HPV-Test
+
+**Anamnese**
+
+**Auftrag** ***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+
+neinja
+
+neinja Letzte Periode
+
+**Jetzt:**
+
+unvollständig
+
+vollständig
+
+keine
+
+unklar
+
+HPV-Impfung
+
+positiv
+
+liegt vor
+
+liegt nicht vor
+
+nicht verwertbar
+
+negativ
+
+unauffälligauffällig
+
+HPV-HR-Testergebnis negativ
+
+nicht verwertbar
+
+nicht differenzierbarjanein
+
+positiv, wenn ja: Liegt HPV-Typ 16 oder HPV-Typ 18 vor?
+
+HPV-HR-Testergebnis
+
+Welche?
+
+Wann?
+
+Eingangsdatum
+
+ja, zuletzt
+
+### Zytologischer Befund / Kombinationsbefund
+
+Endozervikale Zellen
+
+vorhanden
+
+zytologische Kontrolle
+
+HPV-Test
+
+Ko-Test
+
+Abklärungskolposkopie
+
+**Zusammenfassende Empfehlung**
+
+sofort
+
+in
+
+Zeitraum
+
+nicht vorhanden
+
+nach Entzündungsbehandlung
+
+nach Östrogenbehandlung
+
+**Bemerkungen**
+
+**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);** ***Diagnosen; sonstige Anmerkungen*** Monaten
+
+Gruppe
+
+Gruppe
+
+Vertragsarztstempel / Unterschrift des zytologisch tätigen Arztes
+
+Vertragsarztstempel / Unterschrift des Arztes
+
+Mischflora
+
+Candida
+
+Kokkenflora
+
+Gardnerella
+
+Döderleinflora
+
+Trichomonaden
+
+Auftragsnummer des Labors
+
+Proliferationsgrad
+
+20-29 Jahre 30-34 Jahre ab 35 Jahre
+
+Alterskategorie
+
+PRF.NR. Muster 39b/E (1.2021)

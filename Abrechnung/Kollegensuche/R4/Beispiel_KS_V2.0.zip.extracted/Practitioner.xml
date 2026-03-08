@@ -1,0 +1,126 @@
+<Practitioner xmlns="http://hl7.org/fhir">
+  <id value="7267749001869194" />
+  <meta>
+    <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner|2.0" />
+  </meta>
+  <identifier>
+    <type>
+      <coding>
+        <system value="http://terminology.hl7.org/CodeSystem/v2-0203" />
+        <code value="LANR" />
+      </coding>
+    </type>
+    <system value="https://fhir.kbv.de/NamingSystem/KBV_NS_Base_ANR" />
+    <value value="186919468" />
+  </identifier>
+  <name>
+    <use value="official" />
+    <family value="Seise">
+      <extension url="http://fhir.de/StructureDefinition/humanname-namenszusatz">
+        <valueString value="Graf" />
+      </extension>
+      <extension url="http://hl7.org/fhir/StructureDefinition/humanname-own-name">
+        <valueString value="Seise" />
+      </extension>
+      <extension url="http://hl7.org/fhir/StructureDefinition/humanname-own-prefix">
+        <valueString value="von" />
+      </extension>
+    </family>
+    <given value="Jan" />
+    <prefix value="Dr.">
+      <extension url="http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier">
+        <valueCode value="AC" />
+      </extension>
+    </prefix>
+  </name>
+  <gender value="other">
+    <extension url="http://fhir.de/StructureDefinition/gender-amtlich-de">
+      <valueCoding>
+        <system value="http://fhir.de/CodeSystem/gender-amtlich-de" />
+        <code value="X" />
+        <display value="unbestimmt" />
+      </valueCoding>
+    </extension>
+  </gender>
+  <qualification>
+    <code>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FACHGEBIET_FEIN" />
+        <code value="040" />
+        <display value="Allgemeinchirurgie" />
+      </coding>
+    </code>
+  </qualification>
+  <qualification>
+    <code>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZUSATZBEZEICHNUNGEN" />
+        <code value="009" />
+        <display value="Sportmedizin" />
+      </coding>
+    </code>
+  </qualification>
+  <qualification>
+    <code>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZWEITMEINUNGEN" />
+        <code value="523" />
+        <display value="Mandeloperationen (Tonsillektomie, Tonsillotomie)" />
+      </coding>
+    </code>
+  </qualification>
+  <qualification>
+    <code>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_KV_GENEHMIGUNGEN" />
+        <code value="001" />
+        <display value="Allgemeine Röntgendiagnostik" />
+      </coding>
+    </code>
+  </qualification>
+  <qualification>
+    <code>
+      <coding>
+        <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PsychotherapyAgeGroup">
+          <valueCodeableConcept>
+            <coding>
+              <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_PT_ALTERSGRUPPE" />
+              <code value="E" />
+              <display value="Erwachsene" />
+              <userSelected value="true" />
+            </coding>
+          </valueCodeableConcept>
+        </extension>
+        <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PsychotherapySetting">
+          <valueCodeableConcept>
+            <coding>
+              <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_PT_SETTING" />
+              <code value="E" />
+              <display value="Einzeltherapie" />
+              <userSelected value="true" />
+            </coding>
+          </valueCodeableConcept>
+        </extension>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_PT_VERFAHREN" />
+        <code value="A" />
+        <display value="Analytische Psychotherapie" />
+      </coding>
+    </code>
+  </qualification>
+  <communication>
+    <coding>
+      <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR_FREMDSPRACHE" />
+      <code value="03" />
+      <display value="Englisch" />
+      <userSelected value="true" />
+    </coding>
+  </communication>
+  <communication>
+    <coding>
+      <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAR_FREMDSPRACHE" />
+      <code value="16" />
+      <display value="Spanisch" />
+      <userSelected value="true" />
+    </coding>
+  </communication>
+</Practitioner>

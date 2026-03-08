@@ -1,0 +1,84 @@
+**Ausfertigung für den untersuchenden Arzt**
+
+Name, Vorname des Versicherten
+
+geb. am Kostenträgerkennung
+
+Versicherten-Nr.Status Betriebsstätten-Nr.
+
+Arzt-Nr.Datum
+
+Krankenkasse bzw. Kostenträger
+
+## Krebsfrüherkennung Zervix-Karzinom
+
+GraviditätAusfluss / pathologische BlutungIUPEinnahme von Ovulationshemmer /
+
+sonstige Hormonanwendung***(ggf. bitte in Anmerkungen erläutern)***
+
+Klinischer Befund
+
+nein
+
+Wurde bereits eine Krebsfrüherkennungsuntersuchungdurchgeführt?
+
+Gynäkologische OP,Strahlen- oder Chemotherapie des Genitales
+
+Primär-screeningAbklärungs-diagnostik
+
+Zytologie Ko-Testung(Zyt.+HPV) HPV-Test
+
+**Anamnese** **Auftrag**
+
+***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+
+neinja neinja
+
+LetztePeriode**Jetzt:** unvollständig
+
+vollständig
+
+keine
+
+unklar
+
+HPV-Impfung
+
+positiv
+
+liegt vor
+
+liegt nicht vor
+
+nicht verwertbar
+
+negativ
+
+unauffälligauffällig
+
+HPV-HR-Testergebnisnegativnicht verwertbar
+
+| Zytologischer Befund / Kombinationsbefund Eingangsdatum |  |
+|---|---|
+| Endozervikale Zellen nicht vorhanden vorhanden Proliferationsgrad | |
+| Döderleinflora Mischflora Kokkenflora Trichomonaden Candida Gruppe | |
+| HPV-HR-Testergebnis positiv, wenn ja: Liegt HPV-Typ 16 oder ja nein Bemerkungen Zusammenfassende Empfehlung sofort zytologische Kontrolle nach Entzündungsbehandlung nach Östrogenbehandlung HPV-Test Ko-Test Abklärungskolposkopie Zeitraum in Monaten | |
+| Vertragsarztstempel des zytologisch Vertragsarztstempel / PRF.NR. Muster 39a/E (1.2021) | |
+
+Welche?
+
+Wann?
+
+ja, zuletzt
+
+**Erläuterungen*****ggf. gyn. Befunde (Vulva, Vagina, Portio);*** ***Diagnosen; sonstige Anmerkungen***
+
+Gruppe
+
+Auftragsnummer des Labors
+
+20-29
+
+Jahre 30-34 Jahre ab 35Jahre Alterskategorie
+
+## 39

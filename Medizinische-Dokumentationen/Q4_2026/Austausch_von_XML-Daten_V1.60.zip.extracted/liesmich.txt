@@ -1,0 +1,30 @@
+1. Beschreibung "Austausch von XML-Daten"
+   (Version V1.60, 15.01.2026)
+*****************************************************************
+
+Dieses Gesamtpaket beschreibt die Datenstruktur zum
+"Austausch von XML-Daten".
+
+Alle Komponenten des Pakets sind separat versioniert. Es können keine 
+Schlussfolgerungen aus den Versionsnummern des Pakets und der Komponenten 
+untereinander gezogen werden. Die Versionsnummer der Schnittstelle muss 
+auch nicht identisch mit der Versionsnummer der Schnittstellenbeschreibung sein.
+
+
+2. Dokumente und Software
+*************************
+
+- Schnittstellenbeschreibung "Austausch von XML-Daten in der vertragsärztlichen Versorgung" (Version 1.60, Stand: 15.01.2026)
+- Begleitdatei-Schema XSD (Version 1.21, Stand: 15.01.2026)
+- Beispiel-Dateien (Stand: 15.01.2026) - 
+
+
+3. Änderungen zur Gesamtpaket-Vorversion
+****************************************
+- KBV_ITA_VGEX_XML-Schnittstellen: 
+   - Ergänzung Adipositas - Erwachsene
+   - Ergänzung Adipositas - Kinder und Jugendliche
+- Begleitdatei-Schema XSD
+   - Ergänzung Adipositas - Erwachsene
+   - Ergänzung Adipositas - Kinder und Jugendliche
+   - Ergänzung der aktuellen Versionsnummer 1.21

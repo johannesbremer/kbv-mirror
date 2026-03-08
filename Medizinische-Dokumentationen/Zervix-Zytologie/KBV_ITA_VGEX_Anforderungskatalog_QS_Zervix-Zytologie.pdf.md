@@ -1,0 +1,295 @@
+|  | IT in der Arztpraxis |
+|---|---|
+|  | Anforderungskatalog zur Quali- |
+|  | [KBV_ITA_VGEX_Anforderung_QS_Zervix- |
+|  |  |
+|  | Dezernat |
+|  |  |
+|  | 10623 Berlin, Herbert |
+|  |  |
+|  |  |
+|  | Kassenärztliche Bundesvereinigung |
+|  | Version |
+
+© Kassenärztliche Bundesvereinigung, Berlin 2018
+
+
+---
+
+
+
+
+
+---
+
+### DOKUMENTENHISTORIE
+
+Die Änderungen vom 09.08.2012 treten zum 01.10.2012 in Kraft.
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
+|---|---|---|---|---|---|
+| 1.0 | 9 | KBV | Red. Änderungen |  |  |
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite2von8
+
+
+---
+
+
+
+
+
+---
+
+### INHALTSVERZEICHNIS
+
+**INHALTSVERZEICHNIS****_____________________________________________________****3****1**EINLEITUNG**__________________________________________________________****4**
+
+**1.1****Zielbestimmung****..............................................................................................................................4**
+
+**1.2****Pflichtfunktionen und optionale Funktionen der Software****........................................................4****2**ÄRZTLICHES DOKUMENTI**EREN****_________________________________________****5**
+
+**2.1****Allgemeine Vorgaben****.....................................................................................................................5** 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten.............................................................5 2.1.2 Ausgangsbefunde...................................................................................................................5 2.1.3 Präparate................................................................................................................................5 2.1.4 Praxisbesonderheiten.............................................................................................................6 2.1.5 Speichern und Archivieren von Dokumentationsdaten..........................................................6
+
+**2.2****Datenübermittlung****.........................................................................................................................6** 2.2.1 Übermittelung.........................................................................................................................6 2.2.2 Export der Daten.....................................................................................................................6 2.2.3 Verschlüsseln der Daten........................................................................................................6 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel..............................................................7**3**REFERENZIERTE DOKUME**NTE****__________________________________________****8**
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite3von8
+
+
+---
+
+
+
+
+
+---
+
+**1**
+
+### Einleitung
+
+### 1.1
+
+### Zielbestimmung
+
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen derQualitätssicherungsver-einbarung der zervix-zytologischen Untersuchungen eingesetzt wird. Es wird eine Jahressta-tistik der zervix-zytologischen Untersuchungen an die zuständige KV übermittelt.Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:•die zervix-zytologische Jahresstatistik korrekt zu dokumentieren sowie•den jährlichen Datentransfer an die Kassenärztliche Vereinigung zu realisieren.
+
+### 1.2
+
+### Pflichtfunktionen und optionale Funktionen der Software
+
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen unddaneben Optionale Funktionen.
+
+**Pflichtfunktionen**müssenin der Anwendungssoftware implementiert sein.
+
+**Optionale Funktionen**könnenimplementiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind.
+
+Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen istim Rahmen des Gutachterverfahrens nachzuweisen.
+
+**Vorschriftsmäßigkeit**
+
+Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sinne dergültigen Dokumentationsvorschriften.**Erläuterung der Funktionsdarstellung**Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt dieNummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikationüber die Funktionen erleichtert.Pflichtfunktionen sind wie folgt gekennzeichnet:
+
+| PFLICHTFUNKTION |
+|---|
+| P4-10 | Funktionsbezeichnung |
+
+Ident-Nummereiner PflichtfunktionIdent-Nummer einer älteren Versi-onOptionale Funktionen sind wie folgt gekennzeichnet:
+
+| Optionale FUNKTION |
+|---|
+| K8-30 | Funktionsbezeichnung |
+
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi-on
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite4von8
+
+
+---
+
+
+
+
+
+---
+
+**2**
+
+### Ärztliches Dokumentieren
+
+### 2.1
+
+### Allgemeine Vorgaben
+
+**2.1.1****Vollständigkeit der Eingaben aller Bewegungsdaten**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
+
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.Die in derSchnittstellenbeschreibung QS Zervix-Zytologie[KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie] festgelegten Datenelemente müssenvollständig erfassbar sein.
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-20 | Berichtszeiträume |
+
+1.Die Ausgangsbefunde werden vom 01.01-31.12 des Berichtsjahres erfasst.2.Die histologischen Abklärungen zu den Ausgangsbefunden können nur bis 30.06 desFolgejahres angegeben werden. Frauen, die durch zytologische Kontrollenweiter un-tersucht werden, und bei denen aber keine histologische Abklärungsdiagnostik biszum 30.06 des Folgejahres erfolgte, sind nicht aufzuführen.
+
+**2.1.2****Ausgangsbefunde**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-30 | Ausgangsbefunde |
+
+Liegen mehrere Ausgangsbefunde(mit verschiedenen Befundgruppen) einer Frau für denZeitraum (01.01-31.12) vor, entscheidet der zytologisch verantwortliche Arzt, welcher Befundaus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist.
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-40 | Gesamtanzahl der untersuchten Frauen = Anzahl der Ausgangsbefunde |
+
+Die Gesamtanzahl der untersuchten Frauen ist gleich der Anzahl der Ausgangsbefunde.
+
+**2.1.3****Präparate**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-45 | Gesamtanzahl der untersuchten Präparate |
+
+DieGesamtzahl der untersuchten Präparate ist größer als die Summe der Anzahl der nichtverwertbaren Präparate und der Anzahl der untersuchten Frauen. Unabhängig von den nichtverwertbaren Präparaten kann pro Frau mehr als ein untersuchtes Präparat existieren(zumBeispiel bei einer verkürzten Nachbeobachtungszeit eines auffälligen Befundes).
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite5von8
+
+
+---
+
+
+
+
+
+---
+
+**2.1.4****Praxisbesonderheiten**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-50 | Praxisbesonderheit |
+
+Wenn Praxisbesonderheiten vorliegen, welche die Befundgruppenverteilung beeinflussenkönnen, sind diese zu nennen, ansonsten ist kein Eintrag erforderlich.
+
+**2.1.5****Speichern und Archivieren von Dokumentationsdaten**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P1-60 | Speichern der Jahresstatistik |
+
+Das System muss sicherstellen, dass der Anwender die Jahresstatistik speichern kann. Einspäterer Abruf dieser Jahresstatistik zur nachträglichen Bearbeitung muss dem Anwenderermöglicht werden.
+
+### 2.2
+
+### Datenübermittlung
+
+**2.2.1****Übermittelung**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P2-10 | Übermittlung an KV |
+
+Die Jahresstatistik ist ab 01.07 des Folgejahres an die Kassenärztliche Vereinigung (KV) zuübermitteln.
+
+**2.2.2****Export der Daten**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P2-15 | Korrekter Datenexport |
+
+Das System muss,a)die Daten nach denin [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vor-gaben für den Export vorbereiten,b)sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus demDatenarchiv QS Zervix-Zytologie und einer Begleitdatei besteht undc)exportierte Datensätze innerhalb des Systems kennzeichnen.
+
+**2.2.3****Verschlüsseln der Daten**
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P2-20 | Einsatz Kryptomodul (XKM) |
+
+Vor Fertigstellung des vom Anwendereinzureichenden Datenträgers ist das Dokumentations-archiv in Ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichenSchlüssels zur QS-Zyto-Zervix-Datenverschlüsselung (Oeffentlich_QSZZ_Vxy.key) zu ver-schlüsseln. Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKMnicht relevant. Es muss bei allen Datenübertragungen eingesetzt werden. Für nähere Erläute-rungen zur Funktion und Anwendung des XKM ist in[KBV_ITA_AHEX_Handbuch_XKM]nachzulesen.
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite6von8
+
+
+---
+
+
+
+
+
+---
+
+**2.2.4****Datenträgerbeschriftung und Transportbegleitzettel** Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, so sind dieAnforderungen P2-25 und P2-26 einzuhalten.
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P2-25 | Beschriftung der eingesetzten Datenträger |
+
+Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger ge-mäß den Beschreibungen im Kapitel „Beschriftung der Datenträger“ in[KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur Be-druckung entsprechender Aufkleber (oder der direkten Labelbeschriftung) kann angebotenwerden.
+
+| PFLICHTFUNKTION QS Zervix-Zyto |
+|---|
+| P2-30 | Erstellung Transportbegleitzettel |
+
+1.Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreibenvon Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel„Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.2.Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand-schriftlich anzugeben.
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite7von8
+
+
+---
+
+
+
+
+
+---
+
+**3**
+
+## Referenzierte Dokumente
+
+| Referenz | Dokument |
+|---|---|
+| [KBV_ITA_VG | Austausch von XML-Daten in der vertragsärztlichen |
+| [KBV_ITA_VGEX_Schnittstelle_QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
+| [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
+
+**IT in der Arztpraxis**Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie* Version1.03
+
+Seite8von8
+
+
+---
+
+
+

@@ -1,0 +1,59 @@
+**Name, Vorname des Versicherten**
+
+**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn spätestens am Tage der Begutachtung durch den Medizinischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
+
+**Datum der letzten Untersuchung**
+
+**Diagnose**
+
+**Befunde**
+
+**Mitbehandlung**
+
+**Es droht eine Verschlimmerung des Leidens**
+
+**Besondere Hinweise**
+
+**Patientin / Patient kann den Medizinischen Dienst nicht aufsuchen, weil**
+
+**Eine Begutachtung ist voraussichtlich nach**
+
+**Arbeitsfähig ab**
+
+**Voraussichtlich arbeitsfähig ab**
+
+**Folgendes ist mit der Bitte um Rückgabe beigefügt:** **Röntgen-** **befund**
+
+**Labor- Arzt- oder** **befund Krankenhausbericht**
+
+**Sonstiges**
+
+**Für den Bericht des Arztes ist die** **Nr. 01621 EBM berechnungfähig**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+
+**nein**
+
+**Ultraschall-** **befund**
+
+**Kostenträgerkennung**
+
+**ja, im Fachbereich**
+
+**Tagen / Wochen möglich. (Nichtzutreffendes streichen)**
+
+**EKG-** **befund**
+
+**Ausstellungsdatum**
+
+**Versicherten-Nr.**
+
+**oder**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**PRF.NR.** **Muster 11/E (1.2015)**
+
+**Behinderung**
+
+**11**

@@ -1,0 +1,505 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_PractitionerRole" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="PractitionerRole" />
+  <baseDefinition value="https://fhir.kbv.de/StructureDefinition/KBV_PR_Base_PractitionerRole" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="PractitionerRole">
+      <path value="PractitionerRole" />
+      <short value="BehandelnderFunktion" />
+      <definition value="Dieses Profil definiert das ärztliche Angebot, das der Behandelnde in einer Betriebsstätte anbietet." />
+    </element>
+    <element id="PractitionerRole.id">
+      <path value="PractitionerRole.id" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.meta">
+      <path value="PractitionerRole.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.meta.versionId">
+      <path value="PractitionerRole.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.meta.lastUpdated">
+      <path value="PractitionerRole.meta.lastUpdated" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.meta.source">
+      <path value="PractitionerRole.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.meta.profile">
+      <path value="PractitionerRole.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.meta.security">
+      <path value="PractitionerRole.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.meta.tag">
+      <path value="PractitionerRole.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.implicitRules">
+      <path value="PractitionerRole.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.language">
+      <path value="PractitionerRole.language" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.text">
+      <path value="PractitionerRole.text" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.contained">
+      <path value="PractitionerRole.contained" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.identifier">
+      <path value="PractitionerRole.identifier" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.active">
+      <path value="PractitionerRole.active" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.period">
+      <path value="PractitionerRole.period" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.practitioner">
+      <path value="PractitionerRole.practitioner" />
+      <type>
+        <code value="Reference" />
+        <targetProfile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.practitioner.reference">
+      <path value="PractitionerRole.practitioner.reference" />
+      <min value="1" />
+    </element>
+    <element id="PractitionerRole.practitioner.identifier">
+      <path value="PractitionerRole.practitioner.identifier" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.practitioner.display">
+      <path value="PractitionerRole.practitioner.display" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.organization">
+      <path value="PractitionerRole.organization" />
+      <type>
+        <code value="Reference" />
+        <targetProfile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Organization" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.organization.reference">
+      <path value="PractitionerRole.organization.reference" />
+      <min value="1" />
+    </element>
+    <element id="PractitionerRole.organization.identifier">
+      <path value="PractitionerRole.organization.identifier" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.organization.display">
+      <path value="PractitionerRole.organization.display" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.code">
+      <path value="PractitionerRole.code" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding">
+      <path value="PractitionerRole.code.coding" />
+      <max value="1" />
+	  <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung">
+      <path value="PractitionerRole.code.coding" />
+      <sliceName value="RolleDerEinrichtung" />
+      <min value="1" />
+	  <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung.system">
+      <path value="PractitionerRole.code.coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung.version">
+      <path value="PractitionerRole.code.coding.version" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung.code">
+      <path value="PractitionerRole.code.coding.code" />
+      <patternCode value="EAV" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung.display">
+      <path value="PractitionerRole.code.coding.display" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.code.coding:RolleDerEinrichtung.userSelected">
+      <path value="PractitionerRole.code.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.code.text">
+      <path value="PractitionerRole.code.text" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.specialty">
+      <path value="PractitionerRole.specialty" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.specialty.coding">
+      <path value="PractitionerRole.specialty.coding" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:KBV-Fachgruppe">
+      <path value="PractitionerRole.specialty.coding" />
+      <sliceName value="KBV-Fachgruppe" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe">
+      <path value="PractitionerRole.specialty.coding" />
+      <sliceName value="Arztfachgruppe" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+      <binding>
+        <strength value="required" />
+        <valueSet value="https://fhir.kbv.de/ValueSet/KBV_VS_SFHIR_BAS_FACHGEBIET_GROB" />
+      </binding>
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe.system">
+      <path value="PractitionerRole.specialty.coding.system" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe.version">
+      <path value="PractitionerRole.specialty.coding.version" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe.code">
+      <path value="PractitionerRole.specialty.coding.code" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe.display">
+      <path value="PractitionerRole.specialty.coding.display" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.specialty.coding:Arztfachgruppe.userSelected">
+      <path value="PractitionerRole.specialty.coding.userSelected" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.specialty.text">
+      <path value="PractitionerRole.specialty.text" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.location">
+      <path value="PractitionerRole.location" />
+      <max value="1" />
+      <type>
+        <code value="Reference" />
+        <targetProfile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location" />
+      </type>
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.location.reference">
+      <path value="PractitionerRole.location.reference" />
+      <min value="1" />
+    </element>
+    <element id="PractitionerRole.location.identifier">
+      <path value="PractitionerRole.location.identifier" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.location.display">
+      <path value="PractitionerRole.location.display" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.healthcareService">
+      <path value="PractitionerRole.healthcareService" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom">
+      <path value="PractitionerRole.telecom" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="system" />
+        </discriminator>
+        <rules value="open" />
+      </slicing>
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:telefon">
+      <path value="PractitionerRole.telecom" />
+      <sliceName value="telefon" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:telefon.system">
+      <path value="PractitionerRole.telecom.system" />
+      <min value="1" />
+      <fixedCode value="phone" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:telefon.value">
+      <path value="PractitionerRole.telecom.value" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:telefon.rank">
+      <path value="PractitionerRole.telecom.rank" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:telefon.period">
+      <path value="PractitionerRole.telecom.period" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:fax">
+      <path value="PractitionerRole.telecom" />
+      <sliceName value="fax" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:fax.system">
+      <path value="PractitionerRole.telecom.system" />
+      <min value="1" />
+      <fixedCode value="fax" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:fax.value">
+      <path value="PractitionerRole.telecom.value" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:fax.rank">
+      <path value="PractitionerRole.telecom.rank" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:fax.period">
+      <path value="PractitionerRole.telecom.period" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:email">
+      <path value="PractitionerRole.telecom" />
+      <sliceName value="email" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:email.system">
+      <path value="PractitionerRole.telecom.system" />
+      <min value="1" />
+      <fixedCode value="email" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:email.value">
+      <path value="PractitionerRole.telecom.value" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:email.rank">
+      <path value="PractitionerRole.telecom.rank" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:email.period">
+      <path value="PractitionerRole.telecom.period" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:web">
+      <path value="PractitionerRole.telecom" />
+      <sliceName value="web" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:web.system">
+      <path value="PractitionerRole.telecom.system" />
+      <min value="1" />
+      <fixedCode value="url" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:web.value">
+      <path value="PractitionerRole.telecom.value" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.telecom:web.rank">
+      <path value="PractitionerRole.telecom.rank" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.telecom:web.period">
+      <path value="PractitionerRole.telecom.period" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.availableTime">
+      <path value="PractitionerRole.availableTime" />
+      <short value="Öffnungszeiten" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension">
+      <path value="PractitionerRole.availableTime.extension" />
+      <slicing>
+        <discriminator>
+          <type value="value" />
+          <path value="url" />
+        </discriminator>
+        <rules value="closed" />
+      </slicing>
+      <min value="2" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Bemerkung">
+      <path value="PractitionerRole.availableTime.extension" />
+      <sliceName value="Bemerkung" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark" />
+      </type>
+      <mustSupport value="true" />
+      <isModifier value="false" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Bemerkung.value[x]">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <slicing>
+        <discriminator>
+          <type value="type" />
+          <path value="$this" />
+        </discriminator>
+        <ordered value="false" />
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Bemerkung.value[x]:valueString">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <sliceName value="valueString" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart">
+      <path value="PractitionerRole.availableTime.extension" />
+      <sliceName value="Sprechzeitenart" />
+      <min value="1" />
+      <max value="1" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_SurgeryHoursType" />
+      </type>
+      <mustSupport value="true" />
+      <isModifier value="false" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <slicing>
+        <discriminator>
+          <type value="type" />
+          <path value="$this" />
+        </discriminator>
+        <ordered value="false" />
+        <rules value="closed" />
+      </slicing>
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]:valueCodeableConcept">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <sliceName value="valueCodeableConcept" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]:valueCodeableConcept.coding">
+      <path value="PractitionerRole.availableTime.extension.value[x].coding" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]:valueCodeableConcept.coding.system">
+      <path value="PractitionerRole.availableTime.extension.value[x].coding.system" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]:valueCodeableConcept.coding.code">
+      <path value="PractitionerRole.availableTime.extension.value[x].coding.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Sprechzeitenart.value[x]:valueCodeableConcept.coding.display">
+      <path value="PractitionerRole.availableTime.extension.value[x].coding.display" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Kalenderdatum">
+      <path value="PractitionerRole.availableTime.extension" />
+      <sliceName value="Kalenderdatum" />
+      <min value="1" />
+      <max value="1" />
+      <type>
+        <code value="Extension" />
+        <profile value="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_CalendarDate" />
+      </type>
+      <isModifier value="false" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Kalenderdatum.value[x]">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.extension:Kalenderdatum.value[x]:valueDate">
+      <path value="PractitionerRole.availableTime.extension.value[x]" />
+      <sliceName value="valueDate" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.daysOfWeek">
+      <path value="PractitionerRole.availableTime.daysOfWeek" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.availableTime.allDay">
+      <path value="PractitionerRole.availableTime.allDay" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.availableTime.availableStartTime">
+      <path value="PractitionerRole.availableTime.availableStartTime" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.availableTime.availableEndTime">
+      <path value="PractitionerRole.availableTime.availableEndTime" />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.notAvailable">
+      <path value="PractitionerRole.notAvailable" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.availabilityExceptions">
+      <path value="PractitionerRole.availabilityExceptions" />
+      <short value="Freitext" />
+      <definition value="Freitext zu den Sprechzeiten." />
+      <mustSupport value="true" />
+    </element>
+    <element id="PractitionerRole.endpoint">
+      <path value="PractitionerRole.endpoint" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.endpoint.reference">
+      <path value="PractitionerRole.endpoint.reference" />
+      <min value="1" />
+    </element>
+    <element id="PractitionerRole.endpoint.identifier">
+      <path value="PractitionerRole.endpoint.identifier" />
+      <max value="0" />
+    </element>
+    <element id="PractitionerRole.endpoint.display">
+      <path value="PractitionerRole.endpoint.display" />
+      <max value="0" />
+    </element>
+  </differential>
+</StructureDefinition>

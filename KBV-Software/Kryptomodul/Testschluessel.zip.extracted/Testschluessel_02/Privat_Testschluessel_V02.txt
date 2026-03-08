@@ -1,0 +1,3 @@
+Schlüsseldatei:		Privat_Testschluessel_V02.pub
+gültig ab:				01.04.2026
+Verwendung:				TEST-Entschlüsselung ACHTUNG: nur für Testzwecke

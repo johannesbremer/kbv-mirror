@@ -1,0 +1,31 @@
+<Location xmlns="http://hl7.org/fhir">
+  <id value="726774900" />
+  <meta>
+    <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Location|2.0" />
+  </meta>
+  <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationDistance">
+    <valueString value="121 m" />
+  </extension>
+  <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+    <valueCodeableConcept>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT" />
+        <code value="101" />
+        <display value="Praxisräume für Rollstuhlfahrende zugänglich" />
+      </coding>
+    </valueCodeableConcept>
+  </extension>
+  <extension url="https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_LocationAccessibility">
+    <valueCodeableConcept>
+      <coding>
+        <system value="https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_BARRIEREFREIHEIT" />
+        <code value="102" />
+        <display value="Praxisräume für Personen mit Gehhilfe zugänglich" />
+      </coding>
+    </valueCodeableConcept>
+  </extension>
+  <position>
+    <longitude value="13.3279129" />
+    <latitude value="52.5075058" />
+  </position>
+</Location>

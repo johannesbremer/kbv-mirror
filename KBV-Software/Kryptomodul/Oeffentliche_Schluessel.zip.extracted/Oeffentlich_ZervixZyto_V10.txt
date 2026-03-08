@@ -1,0 +1,3 @@
+Schlüsseldatei:		Oeffentlich_ZervixZyto_V10.pub
+gültig ab:				01.04.2026
+Verwendung:				ZervixZyto-Verschlüsselung

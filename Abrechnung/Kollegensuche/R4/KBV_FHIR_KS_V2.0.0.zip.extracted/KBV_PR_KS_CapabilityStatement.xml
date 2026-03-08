@@ -1,0 +1,333 @@
+<StructureDefinition xmlns="http://hl7.org/fhir">
+  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_CapabilityStatement" />
+  <version value="2.0.0" />
+  <name value="KBV_PR_KS_CapabilityStatement" />
+  <status value="active" />
+  <date value="2026-01-12" />
+  <copyright value="Copyright © [2026], Kassenärztliche Bundesvereinigung (KBV). All rights reserved." />
+  <fhirVersion value="4.0.1" />
+  <kind value="resource" />
+  <abstract value="false" />
+  <type value="CapabilityStatement" />
+  <baseDefinition value="http://hl7.org/fhir/StructureDefinition/CapabilityStatement" />
+  <derivation value="constraint" />
+  <differential>
+    <element id="CapabilityStatement.id">
+      <path value="CapabilityStatement.id" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.meta">
+      <path value="CapabilityStatement.meta" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.meta.versionId">
+      <path value="CapabilityStatement.meta.versionId" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.meta.lastUpdated">
+      <path value="CapabilityStatement.meta.lastUpdated" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.meta.source">
+      <path value="CapabilityStatement.meta.source" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.meta.profile">
+      <path value="CapabilityStatement.meta.profile" />
+      <min value="1" />
+      <max value="1" />
+      <fixedCanonical value="https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_CapabilityStatement|2.0" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.meta.security">
+      <path value="CapabilityStatement.meta.security" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.meta.tag">
+      <path value="CapabilityStatement.meta.tag" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.implicitRules">
+      <path value="CapabilityStatement.implicitRules" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.language">
+      <path value="CapabilityStatement.language" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.text">
+      <path value="CapabilityStatement.text" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.contained">
+      <path value="CapabilityStatement.contained" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.url">
+      <path value="CapabilityStatement.url" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.version">
+      <path value="CapabilityStatement.version" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.name">
+      <path value="CapabilityStatement.name" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.title">
+      <path value="CapabilityStatement.title" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.status">
+      <path value="CapabilityStatement.status" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.experimental">
+      <path value="CapabilityStatement.experimental" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.date">
+      <path value="CapabilityStatement.date" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.publisher">
+      <path value="CapabilityStatement.publisher" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.contact">
+      <path value="CapabilityStatement.contact" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.description">
+      <path value="CapabilityStatement.description" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.useContext">
+      <path value="CapabilityStatement.useContext" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.jurisdiction">
+      <path value="CapabilityStatement.jurisdiction" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.purpose">
+      <path value="CapabilityStatement.purpose" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.copyright">
+      <path value="CapabilityStatement.copyright" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.kind">
+      <path value="CapabilityStatement.kind" />
+      <fixedCode value="instance" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.instantiates">
+      <path value="CapabilityStatement.instantiates" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.imports">
+      <path value="CapabilityStatement.imports" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.software">
+      <path value="CapabilityStatement.software" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.software.name">
+      <path value="CapabilityStatement.software.name" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.software.version">
+      <path value="CapabilityStatement.software.version" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.software.releaseDate">
+      <path value="CapabilityStatement.software.releaseDate" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.implementation">
+      <path value="CapabilityStatement.implementation" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.implementation.description">
+      <path value="CapabilityStatement.implementation.description" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.implementation.url">
+      <path value="CapabilityStatement.implementation.url" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.implementation.custodian">
+      <path value="CapabilityStatement.implementation.custodian" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.fhirVersion">
+      <path value="CapabilityStatement.fhirVersion" />
+      <fixedCode value="4.0.1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.format">
+      <path value="CapabilityStatement.format" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.patchFormat">
+      <path value="CapabilityStatement.patchFormat" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.implementationGuide">
+      <path value="CapabilityStatement.implementationGuide" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest">
+      <path value="CapabilityStatement.rest" />
+      <min value="1" />
+      <max value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.mode">
+      <path value="CapabilityStatement.rest.mode" />
+      <fixedCode value="server" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.documentation">
+      <path value="CapabilityStatement.rest.documentation" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.security">
+      <path value="CapabilityStatement.rest.security" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource">
+      <path value="CapabilityStatement.rest.resource" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.type">
+      <path value="CapabilityStatement.rest.resource.type" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.profile">
+      <path value="CapabilityStatement.rest.resource.profile" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.supportedProfile">
+      <path value="CapabilityStatement.rest.resource.supportedProfile" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.documentation">
+      <path value="CapabilityStatement.rest.resource.documentation" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.interaction">
+      <path value="CapabilityStatement.rest.resource.interaction" />
+      <min value="1" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.interaction.code">
+      <path value="CapabilityStatement.rest.resource.interaction.code" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.interaction.documentation">
+      <path value="CapabilityStatement.rest.resource.interaction.documentation" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.versioning">
+      <path value="CapabilityStatement.rest.resource.versioning" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.readHistory">
+      <path value="CapabilityStatement.rest.resource.readHistory" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.updateCreate">
+      <path value="CapabilityStatement.rest.resource.updateCreate" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.conditionalCreate">
+      <path value="CapabilityStatement.rest.resource.conditionalCreate" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.conditionalRead">
+      <path value="CapabilityStatement.rest.resource.conditionalRead" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.conditionalUpdate">
+      <path value="CapabilityStatement.rest.resource.conditionalUpdate" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.conditionalDelete">
+      <path value="CapabilityStatement.rest.resource.conditionalDelete" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.referencePolicy">
+      <path value="CapabilityStatement.rest.resource.referencePolicy" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchInclude">
+      <path value="CapabilityStatement.rest.resource.searchInclude" />
+      <min value="1" />
+      <max value="1" />
+      <fixedString value="*" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchRevInclude">
+      <path value="CapabilityStatement.rest.resource.searchRevInclude" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchParam">
+      <path value="CapabilityStatement.rest.resource.searchParam" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchParam.name">
+      <path value="CapabilityStatement.rest.resource.searchParam.name" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchParam.definition">
+      <path value="CapabilityStatement.rest.resource.searchParam.definition" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchParam.type">
+      <path value="CapabilityStatement.rest.resource.searchParam.type" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.searchParam.documentation">
+      <path value="CapabilityStatement.rest.resource.searchParam.documentation" />
+      <mustSupport value="true" />
+    </element>
+    <element id="CapabilityStatement.rest.resource.operation">
+      <path value="CapabilityStatement.rest.resource.operation" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.interaction">
+      <path value="CapabilityStatement.rest.interaction" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.searchParam">
+      <path value="CapabilityStatement.rest.searchParam" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.operation">
+      <path value="CapabilityStatement.rest.operation" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.rest.compartment">
+      <path value="CapabilityStatement.rest.compartment" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.messaging">
+      <path value="CapabilityStatement.messaging" />
+      <max value="0" />
+    </element>
+    <element id="CapabilityStatement.document">
+      <path value="CapabilityStatement.document" />
+      <max value="0" />
+    </element>
+  </differential>
+</StructureDefinition>
