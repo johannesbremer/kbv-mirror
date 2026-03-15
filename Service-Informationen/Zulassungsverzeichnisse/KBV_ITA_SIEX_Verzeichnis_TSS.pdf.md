@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MÄRZ 2026**
+**14. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -47,7 +47,7 @@
 
 **ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 
@@ -96,7 +96,7 @@ Y/172/2507/36/253
 
 Softwarevariante(n): - x.vianova
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 
@@ -141,7 +141,7 @@ Softwarevariante(n): - psyx
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 
@@ -186,7 +186,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 5/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 5/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 
@@ -229,7 +229,7 @@ Y/172/2601/36/278
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 
@@ -268,7 +268,7 @@ Y/172/2509/36/230
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 7/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 08. März 2026
+Seite 7/ KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 14. März 2026
 
 **Prüfnummer**
 

@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MÄRZ 2026**
+**14. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **amedes Medizinische Dienstleistungen** **GmbH** Anna-Vandenhoeck-Ring 4-8 37081 Göttingen Internet: www.amedes-group.com
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/67631.12.2026 LDT-Befund - Export LDT-Befund - Import
 
@@ -59,7 +59,7 @@ iOS/Android Mac OS Windows
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 X/43/2410/24/525
 
@@ -101,7 +101,7 @@ Windows
 
 **Clinisys Deutschland GmbH** Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2410/24/70430.09.2026 LDT-Befund - Export LDT-Befund - Import LDT-Auftrag - Export
 
@@ -126,7 +126,7 @@ Linux Sonstige
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2601/24/629
 
@@ -163,7 +163,7 @@ Windows
 |---|---|---|
 | Y/43/2501/24/280 | 31.12.2026 | LDT-Befund - Import |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 
 ---
@@ -184,7 +184,7 @@ Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunika
 
 **DGN Deutsches Gesundheitsnetz Service** **GmbH** Hüngert 15 41564 Kaarst Internet: www.dgn.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2410/24/374
 
@@ -229,7 +229,7 @@ Linux Mac OS Windows
 
 **Dr. Axel Stenkamp Consulting &** **SoftwareEngineering** Denglerstraße 55 53173 Bonn
 
-Seite 8/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 8/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2507/36/677
 
@@ -274,7 +274,7 @@ Windows
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
-Seite 9/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 9/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/086
 
@@ -319,7 +319,7 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2304/36/630
 
@@ -364,7 +364,7 @@ iOS/Android Linux Mac OS Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2601/24/473
 
@@ -409,7 +409,7 @@ Mac OS Windows
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2504/24/320
 
@@ -454,7 +454,7 @@ Windows
 
 **Labor Dr. von Froreich GmbH** Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/716
 
@@ -499,7 +499,7 @@ Linux
 
 **Medat Computersysteme GmbH** Albrechtstraße 14 80636 München Internet: www.medat.de
 
-Seite 14/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 14/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 X/43/2501/24/492
 
@@ -540,7 +540,7 @@ Linux Sonstige Windows
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
-Seite 15/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/26631.12.2026LDT-Befund - ImportWindows
 
@@ -558,7 +558,7 @@ Y/43/2501/24/26631.12.2026LDT-Befund - ImportWindows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 16/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 16/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2410/24/25130.09.2026LDT-Befund - ImportWindows
 
@@ -577,7 +577,7 @@ Y/43/2410/24/25130.09.2026LDT-Befund - ImportWindows
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2409/37/04330.09.2027LDT-Befund - ImportWindows
 
@@ -600,7 +600,7 @@ Y/43/2409/37/04330.09.2027LDT-Befund - ImportWindows
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2407/24/345
 
@@ -645,7 +645,7 @@ Linux Mac OS Windows
 |---|---|---|
 |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/475
 
@@ -678,7 +678,7 @@ Windows
 |---|---|---|
 | Y/43/2410/24/412 | 30.09.2026 | Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Auftrag - Export |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2510/24/26130.09.2027LDT-Befund - Import Sonstige Windows
 
@@ -701,7 +701,7 @@ Y/43/2510/24/26130.09.2027LDT-Befund - Import Sonstige Windows
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 X/43/2404/24/675
 
@@ -742,7 +742,7 @@ Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 22/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 08. März 2026
+Seite 22/ KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 14. März 2026
 
 Y/43/2501/24/457
 

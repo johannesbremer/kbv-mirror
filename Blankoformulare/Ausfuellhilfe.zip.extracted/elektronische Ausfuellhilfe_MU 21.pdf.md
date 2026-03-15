@@ -1,8 +1,8 @@
-# MUSTER 21
+# MUSTER
 
 # BESCHEINIGUNG FÜR DEN BEZUG VON
 
-# KRANKENGELD BEI ERKRANKUNG EINES
+# KRANKENGELD BEI
 
 # KINDES
 
@@ -10,15 +10,17 @@
 
 ### AUSFÜLLHILFE
 
-**Seite 1 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung ei** **1. Oktober 20201. Juli 2024**
+Seite 1 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes 1. Oktober 20201. Juli 2024
 
-# – ÄRZTLICHE
+# 21 – ÄRZTLICHE
+
+# ERKRANKUNG EINES
 
 **ABTEILUNG VERANLASSTE LEISTUNGEN**
 
 **DEZERNAT ÄRZTLICHE UND** **VERANLASSTE LEISTUNGEN**
 
-**nes Kindes /**
+/
 
 **1. JULI 2024**
 
@@ -27,13 +29,13 @@
 
 **ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
 
-**1.****„vom“/„ b is einschließlich“**
+**1.****„****vom“/„ b is einschließlich“**
 
 Der Zeitraum der Erkrankung des Kindes ist anzugeben.
 
 **2.****Kita-/Schulunfall/-folgen**
 
-Das Feld ist bei einem Unfall in einer Kita oder Schule (auch auf dem Weg aus der/in die Einrichtung deren Unfallfolgenanzukreuzen.ImPersonalienfeldistderzuständigeUnfallversicherungsträger anzugeben.
+Das Feld ist bei einem Unfall in einer Kita oder Schule (auch auf dem Weg aus der/in die Einrichtung) oder deren Unfallfolgen anzugeben.
 
 **3.****sonstiger Unfall, Unfallfolgen**
 
@@ -41,7 +43,9 @@ Das Feld ist anzukreuzen, wenn kein Kita- oder Schulunfall vorliegt, sondern ein
 
 Seite 2 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes / 1. Juli 2024
 
-) oder
+anzukreuzen.ImPersonalienfeld
+
+istderzuständigeUnfallversicherungsträger
 
 
 ---

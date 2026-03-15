@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MÄRZ 2026**
+**14. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -45,7 +45,7 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **APRIS** APRIS Praxiscomputer GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -64,6 +64,8 @@ x
 x
 
 **elektronische****Dokumentation****(Link)**
+
+x
 
 x
 
@@ -160,7 +162,7 @@ x
 
 **CGM CLINICAL** CGM Clinical Deutschland GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -185,6 +187,8 @@ x
 x
 
 **elektronische****Dokumentation****(Link)**
+
+x
 
 x
 
@@ -287,7 +291,7 @@ x
 
 **eLISA** compt gut hard & software gmbh
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -408,7 +412,7 @@ x
 
 **DMP Form** Data Experts GmbH
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -607,7 +611,7 @@ x
 
 **JPC ZytoLab** Dr. Axel Stenkamp Consulting & SoftwareEngineering
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -725,6 +729,8 @@ x
 
 x
 
+x
+
 **eTerminservice****(Link)**
 
 
@@ -756,7 +762,7 @@ x
 
 **FIDUS** FIDUS Software Entwicklungs-GmbH
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -953,7 +959,7 @@ x
 
 **J-MED** Haase, Dipl.-Ing. Silvia GbR
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1098,7 +1104,7 @@ x
 
 **DynaMed** IMA-Systems Information-Technology ZLN der NEXTCLINICS Austria GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1209,7 +1215,7 @@ x
 
 **LINA** LAB4.0 GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1352,7 +1358,7 @@ x
 
 **H&S Laborsoftware** Limbach Gruppe SE
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)****elektronische Disease-****Management-Programme****(Link)****elektronische****Dokumentation****(Link)****Labordaten-****kommmunikation****(Link)****Arzneimittelverordnung****(Link)**
 
@@ -1427,7 +1433,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1604,7 +1610,7 @@ x
 
 **RadCentre Billing (OPD)** Mesalvo Mannheim GmbH
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1783,7 +1789,7 @@ x
 
 **order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1940,7 +1946,7 @@ x
 
 **RED medical classic** RED Medical Systems GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2107,7 +2113,7 @@ x
 
 **DOCNET** Sonic Healthcare Germany GmbH & Co. KG
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2274,7 +2280,7 @@ x
 
 **data4doc** Vidal MMI Germany GmbH
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2385,7 +2391,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 08. März 2026
+Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2416,6 +2422,8 @@ x
 x
 
 **Heilmittelverordnung****(Link)**
+
+x
 
 x
 

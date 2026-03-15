@@ -1,106 +1,88 @@
-**Krankenkasse bzw.**Zuzah- lungs- frei
+Krankenkasse bzw.KostenträgerZuzah- Name,Vorname des Versichertenlungs-geb.am freiKostenträgerkennungVersicherten-Nr.Status Betriebsstätten-Nr.Arzt-Nr.Datum
 
-Zuzah-**Name, Vorname des Versicherten** lungs- pflicht
+Zuzah- lungs- pflicht
 
 Unfall- folgen
 
-**Kostenträgerkennung Versicherten-Nr.** BVG
+BVG
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+Geschlecht:
 
-**Geschlecht:**
-
-**Kontaktdaten der Personensorgeberechtigten** **Name, Vorname**
+**Kontaktdaten der Personensorgeberechtigten** Name, VornameTelefonnummerAbweichende Adresse von Versichertendaten
 
 ## Förder- und Behandlungsplan für Komplexleistungen gemäß Rahmenvertrag zur Früherkennung
 
-**und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)** **- für Ärztin / Arzt / Frühförderstelle / Personensorgeberechtigte / Kostenträger -**
+und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS) - für Ärztin / Arzt / Frühförderstelle / Personensorgeberechtigte / Kostenträger -
 
-o**Erstausstellung** **voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher Beginn: ________________________ (Datum)**
+oErstausstellung
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
-**Ärztin / Arzt: Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten** **Körperfunktionen und –strukturen):** **________________________________________________________________________________________________________________________________**
+**Ärztin / Arzt: Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten** Körperfunktionen und –strukturen): ________________________________________________________________________________________________________________________________
 
-**________________________________________________________________________________________________________________________________**
+________________________________________________________________________________________________________________________________
 
 **ICD 10 (Bitte stets angeben): _______________________________________________________________________________________________________**
 
-**IFS Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen):** **________________________________________________________________________________________________________________________________**
+**IFS Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen):** ________________________________________________________________________________________________________________________________
 
-**Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an der Gesellschaft im Sinne von §§ 1, 2 SGB IX als Wechselwirkung zwischen** **einstellungs- und umweltbedingten Barrieren und einer**
+Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an der Gesellschaft im Sinne von §§ 1, 2 SGB IX als Wechselwirkung zwischen einstellungs- und umweltbedingten Barrieren und einer
 
-**körperlichen Beeinträchtigung** **geistigen Beeinträchtigung** **seelischen Beeinträchtigung** **Sinnesbeeinträchtigung**
+körperlichen Beeinträchtigung
 
-**Offenes Beratungsangebot wurde durchgeführt** **Komplexleistung ist notwendig**
+Offenes Beratungsangebot wurde durchgeführt
 
-**Form und Umfang der Behandlung:**
+Physiotherapie Stimm-, Sprech-, Sprach- und Schlucktherapieo Ergotherapie
 
-o**Physiotherapie __ BE** o**Stimm-, Sprech-, __ BE** **Sprach- und Schlucktherapie** o**Ergotherapie __ BE**
+psychologische/ heilpädagogische Leistungen (incl. evtl. psychosozialer Leistungen)
 
-o**psychologische/ __ BE** **heilpädagogische Leistungen** **(incl. evtl. psychosozialer Leistungen)**
+* SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
 
-* SIFS = sinnesbehinderungsspezi¿sche, überregionale interdisziplinäre Frühförderstellen
+oFolgeplanung
 
-**Kostenträger**
+Für die Abrechnung
 
-Status
+Gesamt-Brutto
 
-Datum
+oÄnderungsplanungvoraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher**Beginn**: ________________________ (Datum)
 
-**Telefonnummer**
+drohtliegt vor oogeistigen Beeinträchtigung ooseelischen Beeinträchtigung ooSinnesbeeinträchtigung oo
 
-o**Folgeplanung o**
+ojaoneinKomplexleistung ist notwendig ojaoneinForm und Umfang der Behandlung:
 
-**geb.****am**
+ambulanteambulante **Einzel**behandlung**Gruppen**behandlung
 
-**Änderungsplanung**
+__ BEoje Monat__ BEoje Monat __ BEoje Monat__ BEoje Monat
 
-**droht liegt vor** o o o o o o o o
+__ BEoje Monat__ BEoje Monat
 
-o**ja** o**ja**
+__ BE (im Bewilligungszeitraum)__ BE (im Bewilligungszeitraum)
 
-**ambulante ambulante** **Einzel behandlung**
+IK-Kennzeichen Leistungserbringer
 
-o**je Monat __ BE** o**je Monat __ BE**
+oBehandlung SIFS* erforderlich
 
-o**je Monat __ BE**
+Rechnungsnummer
 
-**(im Bewilligungszeitraum) __ BE**
+Faktor/Anzahl
 
-**Für die Abrechnung IK-Kennzeichen Leistungserbringer**
+**mobile** **Einzel**behandlung gemäß § 6a FrühV
 
-**Gesamt-Brutto Rechnungsnummer**
+__ BEoje Monat __ BEoje Monat
 
-**Positionsnummer Faktor/Anzahl**
+__ BEoje Monat
 
-**Abweichende Adresse von Versichertendaten**
+__ BE (im Bewilligungszeitraum)
+
+Beleg Nr. Positionsnummer
 
 o
 
-o**nein** o**nein**
+o
 
-**Gruppen behandlung** **gemäß § 6a FrühV**
+o
 
-o**je Monat __ BE** o**je Monat __ BE**
-
-o**je Monat __ BE**
-
-**(im Bewilligungszeitraum) __ BE**
-
-**Behandlung SIFS* erforderlich**
-
-**mobile kann als** **Einzel behandlung**
-
-o**je Monat** o**je Monat**
-
-o**je Monat**
-
-**(im Bewilligungszeitraum)**
-
-**Beleg Nr.**
-
-**bracht werden** **Doppel-BE er-**
+kann als **Doppel-BE**er- bracht werden
 
 o o
 
@@ -109,68 +91,8 @@ o
 
 ---
 
-**ICF-CY-orientierte Bedarfsermittlung** **Einzeldarstellung der Selbstbestimmung und Teilhabe einschränkenden Faktoren und Wechselwirkungen:**
+___________________________________
 
-**Aktivitäten und Partizipation [Teilhabe]:**
+* SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
 
-***1 Grundlegendes Lernen / Zuschauen / Zuhören / Explorieren / Kognition im Spiel / elementare Sprache / Aufmerksamkeit /*** ***Strategiebildung / Fertigkeiten erlernen*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-***2 Aufgabenbewältigung und Verhaltenssteuerung bei Leistungsanforderungen / Handlungsplanung*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-***3 Kommunikation / Sprachentwicklung rezeptiv und expressiv*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-***4 Mobilität / motorische Entwicklung / Haltungsbewahrung / Fortbewegung / Feinmotorik / Handgeschicklichkeit*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-*5 Selbstversorgung / KörperpÀege / sich altersgemäß waschen / Toilette / Kleidung aus- / anziehen / Hunger und andere* *Bedürfnisse anzeigen / Essen / Trinken* **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-***6 Mitwirken und Helfen im häuslichen Leben / Anderen helfen*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-*7 Interaktionen und Beziehungen innerhalb der Familie (Eltern-Kind, Geschwister, erweiterter Familienkreis), Kontakt- und* ***Distanzverhalten*** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-*8 Bedeutende Lebensbereiche / Bildung / Erziehung (Krippe, KiTa, Vorschule)* **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-*9 Weitere soziale Lebensbereiche (Spielplatz, Freizeitaktivitäten, Geselligkeit mit Freunden und Verwandten)* **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-**Umwelt- bzw. personbezogene Ressourcen und Barrieren (z.B. Unterstützung und Beziehungen, Einstellungen, Dienste,** **Produkte/T** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-**Rehabilitations- und Teilhabeziele der Komplexleistung:** **___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-**Dieser Förder- und Behandlungsplan wurde unter Einbeziehung und Mitwirkung der/des Personensorgeberechtigten und,** **soweit möglich, des Kindes erstellt.**
-
-**Bemerkungen / Sonstiges: _____________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-**___________________________________________________________________________________________________________**
-
-**___________________________________ _______________________________________________________________** **Ärztin / Arzt (Stempel, Unterschrift, Datum)**
-
-* SIFS = sinnesbehinderungsspezi¿sche, überregionale interdisziplinäre Frühförderstellen
-
-**echnologien/Hilfsmittel, T**
-
-**emperament, Persönlichkeitszüge):**
-
-**Interdisziplinäre Frühförderstelle / SIFS* (Stempel, Unterschrift, Datum)**
+_______________________________________________________________**Ärztin / Arzt**(Stempel, Unterschrift, Datum) **Interdisziplinäre Frühförderstelle / SIFS***(Stempel, Unterschrift, Datum)

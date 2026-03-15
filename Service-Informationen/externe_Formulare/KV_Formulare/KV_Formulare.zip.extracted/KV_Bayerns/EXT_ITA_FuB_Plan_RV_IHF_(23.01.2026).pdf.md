@@ -1,79 +1,53 @@
-**Krankenkasse bzw.**Zuzah- lungs- frei
+IK des Leistungserbringers Gesamt-ZuzahlungGesamt-Brutto Heilmittel-Pos.-Nr.Heilmittel-Pos.-Nr.FaktorFaktor
 
-Zuzah-**Name, Vorname des Versicherten** lungs- pflicht
+Rechnungsnummer Belegnummer
 
-Unfall- folgen
+Geschlecht weiblichmännlich
 
-**Kostenträgerkennung Versicherten-Nr.** BVG
+### Förder- und Behandlungsplan gemäß Rahmenvertrag  für medizinisch therapeutische Leistungen
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in**interdisziplinär tätigen heilpädagogischen Fördereinrichtungen (RV IHF)**Diagnose / Befund:
 
-**Kostenträger**
+ICD 10 (Bitte stets angeben):Die Behandlung ist wie folgt durchzuführen:GruppenbehandlungEinzelbehandlungBEBEPhysiotherapieWocheWocheMonatMonatSprachtherapieBEBEWocheWocheMonatMonatBEBEWocheWocheErgotherapieMonatMonatbis:
 
-**Geschlecht weiblich**
+Voraussichtliche Behandlungsdauer von:
 
-### Förder- und Behandlungsplan
+**Der Förder- und Behandlungsplan wurde im Benehmen mit der interdisziplinär tätigen heilpädagogischen****Fördereinrichtung sowie unter Einbeziehung und Mitwirkung der Sorgeberechtigten erstellt.**
 
-**zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in** **interdisziplinär tätigen heilpädagogischen Fördereinrichtungen (RV IHF)**
+Ärztliche Bemerkungen:
 
-**Diagnose / Befund:**
+DatumStempel und Unterschrift des Arztes
 
-**ICD 10 (Bitte stets angeben):**
+Ergänzende Anmerkungen des Therapeuten im Sinne des § 12 Rahmenvertrag vom 01.09.2010
 
-**Die Behandlung ist wie folgt durchzuführen:**
+Krankenkasse bzw.KostenträgerZuzah- Name,Vorname des Versichertenlungs-geb.am frei[ ]KostenträgerkennungVersicherten-Nr.Status Betriebsstätten-Nr.Arzt-Nr.Datum
 
-**Physiotherapie**
+Zuzah- lungs- pflicht[ ]
 
-**Sprachtherapie**
+Unfall- folgen[ ]
 
-**Ergotherapie**
+BVG [ ]
 
-**Voraussichtliche Behandlungsdauer von:**
+[ ]
 
-**Der Förder- und Behandlungsplan wurde im Benehmen m** **Fördereinrichtung sowie unter Einbeziehung und Mitwirkung der Sorge**
+[ ]
 
-**Ärztliche Bemerkungen:**
+[ ]
 
-**Datum**
+Behandlungsplan_162.indd 1
 
-**Ergänzende Anmerkungen des Therapeuten im Sinne des § 12 Rahmenvertrag vom 01.09.2010**
+[ ][ ]
 
-Datum
+[ ] [ ]
 
-Status
+[ ] [ ]
 
-**männlich**
+[ ] [ ]
 
-**Gesamt-Zuzahlung Gesamt-Brutto**
+[ ] [ ]
 
-**geb.****am**
+[ ] [ ]
 
-**Rechnungsnummer**
+[ ] [ ]
 
-**Belegnummer**
-
-**gemäß Rahmenvertrag für medizinisch therapeutische Leistungen**
-
-**Einzelbehandlung Gruppenbehandlung** **BE BEWoche Woche**
-
-**BE BEWoche Woche**
-
-**BE BEWoche Woche**
-
-**Stempel und Unterschrift des Arztes**
-
-**Monat Monat**
-
-**Monat Monat**
-
-**Monat Monat**
-
-**IK des Leistungserbringers**
-
-**it der interdisziplinär tätigen heilpädagogischen**
-
-**Faktor Faktor****Heilmittel-Pos.-Nr.Heilmittel-Pos.-Nr.**
-
-**bis:**
-
-**berechtigten erstellt.**
+04.09.15 07:46

@@ -10,7 +10,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MÄRZ 2026**
+**14. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -40,7 +40,7 @@
 | System mit APK | Y/1/2405/38/677 | 30.06.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 2/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 2/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -58,7 +58,7 @@ Seite 2/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 | System mit APK | Y/1/2509/36/630 | 31.08.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -74,7 +74,7 @@ Seite 3 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/200/2306/36/643 | 31.05.2026 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -90,7 +90,7 @@ Seite 4/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 |---|---|---|---|
 | System mit APK | Y/1/2507/36/626 | 30.06.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 
-Seite 5/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 5/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -108,7 +108,7 @@ Seite 5/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 | System mit APK | Y/1/2501/36/498 Y/500/2501/36/498 | 31.12.2027 31.12.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT |
 |---|---|---|---|
 
-Seite 6/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 6/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -126,7 +126,7 @@ Seite 6/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 
 chili.com
 
-Seite 7/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 7/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -144,7 +144,7 @@ Seite 7/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 | System mit APK | Y/1/2307/36/462 | 30.06.2026 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 8/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 8/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -160,7 +160,7 @@ Seite 8/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 |---|---|---|---|
 | System mit APK | Y/1/2601/36/456 | 31.12.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 
-Seite 9/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 9/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -178,7 +178,7 @@ Seite 9/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche A
 | System mit APK | Y/1/2307/36/422 | 30.06.2026 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 10/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 10/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -196,7 +196,7 @@ Seite 10/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/200/2601/36/395 | 31.12.2028 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 11/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 11/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -214,7 +214,7 @@ Seite 11/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/1/2307/36/348 Y/500/2307/36/348 | 30.06.2026 30.06.2026 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT |
 |---|---|---|---|
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -232,7 +232,7 @@ Seite 12/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/201/2307/36/740 | 30.06.2026 | Satzart: Überweisung Satzart: Notfall/ Notfalldienst |
 |---|---|---|---|
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -252,7 +252,7 @@ healthcare
 | System ohne APK | Y/200/2309/36/475 | 31.08.2026 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -274,7 +274,7 @@ healthcare.com
 | System mit APK | Y/500/2601/36/313 Y/1/2601/36/313 | 31.12.2028 31.12.2028 | SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 15/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -292,7 +292,7 @@ Seite 15/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/200/2307/36/730 | 30.06.2026 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -310,7 +310,7 @@ Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche
 | System ohne APK | Y/200/2501/36/728 | 31.12.2027 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 17/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 17/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 NDT
 
@@ -328,7 +328,7 @@ chili.com
 | System mit APK | Y/1/2407/36/276 | 30.06.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 18/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 18/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -348,7 +348,7 @@ Seite 18/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 
 www.praxiscomputer.de
 
-Seite 19/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 19/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 SADT
 
@@ -372,7 +372,7 @@ swisslab.de
 | System mit APK | Y/1/2507/36/254 | 30.06.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 20/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 20/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -385,7 +385,7 @@ Seite 20/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 |---|---|---|---|
 | System mit APK | Y/1/2507/36/251 | 30.06.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 
-Seite 21/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 21/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -403,7 +403,7 @@ Seite 21/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/201/2407/36/716 | 30.06.2027 | Satzart: Überweisung Satzart: Notfall/ Notfalldienst |
 |---|---|---|---|
 
-Seite 22/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 22/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -421,7 +421,7 @@ Seite 22/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/1/2401/36/231 | 31.12.2026 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 23/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 23/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 Satzart: Notfall / Notfalldienst
 
@@ -441,7 +441,7 @@ Satzart: Notfall / Notfalldienst
 | System mit APK | Y/1/2601/36/226 | 31.12.2028 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 24/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 24/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -457,7 +457,7 @@ Seite 24/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/500/2401/36/210 Y/1/2401/36/210 | 31.12.2026 31.12.2026 | SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 25/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 25/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -475,7 +475,7 @@ Seite 25/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System ohne APK | Y/200/2501/36/473 | 31.12.2027 | Satzart: Überweisung |
 |---|---|---|---|
 
-Seite 26/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 26/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -493,7 +493,7 @@ Seite 26/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/1/2501/36/171 | 31.12.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 27/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 27/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -511,7 +511,7 @@ Seite 27/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/2/2407/36/135 Y/500/2407/36/135 Y/1/2407/36/135 | 30.06.2027 30.06.2027 30.06.2027 | Kurärztliche Behandlung SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 Satzart: Notfall / Notfalldienst
 
@@ -531,7 +531,7 @@ Satzart: Notfall / Notfalldienst
 | System mit APK | Y/1/2501/36/403 | 31.12.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 29 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 29 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -549,7 +549,7 @@ Seite 29 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche
 | System mit APK | Y/500/2401/36/086 Y/1/2401/36/086 | 31.12.2026 31.12.2026 | SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 30/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 30/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -567,7 +567,7 @@ Seite 30/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/1/2410/36/078 | 30.09.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 31/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 31/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026
 
 
 ---
@@ -585,4 +585,4 @@ Seite 31/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche 
 | System mit APK | Y/1/2407/36/043 | 30.06.2027 | Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst |
 |---|---|---|---|
 
-Seite 32/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 08. März 2026
+Seite 32/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 14. März 2026

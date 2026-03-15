@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**08. MÄRZ 2026**
+**14. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -41,7 +41,7 @@
 
 **Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2512/37/031 Y/450/2410/36/031
 
@@ -80,7 +80,7 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 3/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 3/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/450/2412/37/346
 
@@ -112,7 +112,7 @@ Windows
 | Y/451/2601/36/280 Y/450/2407/36/280 | 31.12.2028 30.06.2027 |
 | Y/451/2508/36/060 Y/450/2410/36/060 | 31.07.2028 30.09.2027 |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 
 ---
@@ -133,7 +133,7 @@ Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitale
 
 **Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
-Seite 5/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 5/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2512/37/314 Y/450/2410/36/314
 
@@ -172,7 +172,7 @@ Linux
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
-Seite 6/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 6/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2512/37/295 Y/450/2410/36/295
 
@@ -211,7 +211,7 @@ Windows
 
 **ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA** Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/450/2502/38/616
 
@@ -250,7 +250,7 @@ Windows
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2602/35/210 Y/450/2407/36/210
 
@@ -285,7 +285,7 @@ Windows
 
 **medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
-Seite 9/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 9/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2507/42/030 Y/450/2407/36/030 31.12.2028 30.06.2027 Windows
 
@@ -300,7 +300,7 @@ Y/451/2507/42/030 Y/450/2407/36/030 31.12.2028 30.06.2027 Windows
 |---|---|
 | Y/451/2602/35/015 Y/450/2411/38/015 | 31.12.2028 31.12.2027 |
 
-Seite 10/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 10/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 
 ---
@@ -321,7 +321,7 @@ Seite 10/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitale
 
 **New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/450/2503/37/494
 
@@ -360,7 +360,7 @@ Windows
 
 **psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2512/37/744 Y/450/2407/36/744
 
@@ -399,15 +399,15 @@ Windows
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
-Y/450/2412/37/261
+Y/451/2603/37/261 Y/450/2412/37/261
 
 Y/451/2602/38/343 Y/450/2407/36/343
 
 Y/451/2601/36/171 Y/450/2410/36/171
 
-31.12.2027
+31.03.2029 31.12.2027
 
 31.03.2029 30.06.2027
 
@@ -435,7 +435,7 @@ Windows
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
 
-Seite 14/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 14/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026
 
 Y/451/2509/40/313 Y/450/2407/36/313 31.12.2028 30.06.2027 Windows
 
@@ -446,4 +446,4 @@ Y/451/2509/40/313 Y/450/2407/36/313 31.12.2028 30.06.2027 Windows
 |---|---|
 | Y/451/2509/40/457 Y/450/2407/36/457 | 31.12.2028 30.06.2027 |
 
-Seite 15/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 08. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 14. März 2026

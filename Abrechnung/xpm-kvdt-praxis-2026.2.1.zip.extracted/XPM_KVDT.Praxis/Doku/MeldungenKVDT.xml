@@ -1428,13 +1428,13 @@
 	<meldung>
 		<nummer>KVDT-R899</nummer>
 		<typ>Warnung</typ>
-		<text>Das Datum der FK 5000 darf nicht vor dem Datum der FK 4124 liegen.</text>
+		<text>Das Datum der FK 5000 darf nicht vor dem Datum der FK 4214 liegen.</text>
 		<maxcount>5</maxcount>
 	</meldung>
 	<meldung>
 		<nummer>KVDT-R900</nummer>
 		<typ>Warnung</typ>
-		<text>Das Datum der FK 4214 darf nicht mehr als einen Monat vor dem Datum der FK 5000 liegen.</text>
+		<text>Das Datum der FK 4214 darf nicht mehr als 60 Tage vor dem Datum der FK 5000 liegen.</text>
 		<maxcount>5</maxcount>
 	</meldung>
 	<meldung>
