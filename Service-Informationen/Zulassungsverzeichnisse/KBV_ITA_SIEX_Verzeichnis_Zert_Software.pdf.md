@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. MÄRZ 2026**
+**21. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -29,8 +29,6 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **LIS++** 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner
 
-**AB+M Auftragserfassungs-System** AB+M GmbH
-
 **EVA** Abasoft EDV-Programme GmbH
 
 **ACETOmed** ACETO Softwareentwicklung GmbH
@@ -45,9 +43,13 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **APRIS** APRIS Praxiscomputer GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
+
+x
 
 x
 
@@ -63,7 +65,11 @@ x
 
 x
 
+x
+
 **elektronische****Dokumentation****(Link)**
+
+x
 
 x
 
@@ -89,7 +95,11 @@ x
 
 x
 
+x
+
 **Heilmittelverordnung****(Link)**
+
+x
 
 x
 
@@ -103,7 +113,11 @@ x
 
 x
 
+x
+
 **Digitale Muster****(Link)**
+
+x
 
 x
 
@@ -133,14 +147,14 @@ x
 
 x
 
+x
+
 **eTerminservice****(Link)**
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
 
 **ODSeasy** asthenis GmbH
 
@@ -162,7 +176,9 @@ x
 
 **CGM CLINICAL** CGM Clinical Deutschland GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**CGM MEDICO** CGM Clinical Europe GmbH
+
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -184,19 +200,13 @@ x
 
 x
 
-x
-
 **elektronische****Dokumentation****(Link)**
 
 x
 
 x
 
-x
-
 **Labordaten-****kommmunikation****(Link)**
-
-x
 
 x
 
@@ -266,8 +276,6 @@ x
 ---
 
 **Name der Software und Anbieter**
-
-**CGM MEDICO** CGM Clinical Europe GmbH
 
 **CGM VT** CGM LAB International GmbH
 
@@ -291,7 +299,9 @@ x
 
 **eLISA** compt gut hard & software gmbh
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**Z1** CompuGroup Medical Dentalsysteme GmbH
+
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -355,8 +365,6 @@ x
 
 x
 
-x
-
 **Digitale Muster****(Link)**
 
 x
@@ -379,16 +387,14 @@ x
 
 x
 
-x
-
 **eTerminservice****(Link)**
+
+x
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**Z1** CompuGroup Medical Dentalsysteme GmbH
 
 **TURBOMED** CompuGroup Medical Deutschland AG
 
@@ -412,7 +418,9 @@ x
 
 **DMP Form** Data Experts GmbH
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**InterMediNet KVDT** DBI Informatik, Dirk Blume
+
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -447,6 +455,8 @@ x
 x
 
 **elektronische****Dokumentation****(Link)**
+
+x
 
 x
 
@@ -495,8 +505,6 @@ x
 x
 
 **Heilmittelverordnung****(Link)**
-
-x
 
 x
 
@@ -580,16 +588,14 @@ x
 
 x
 
-**eTerminservice****(Link)**
-
 x
+
+**eTerminservice****(Link)**
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**InterMediNet KVDT** DBI Informatik, Dirk Blume
 
 **ORBIS®** Dedalus HealthCare GmbH
 
@@ -611,7 +617,9 @@ x
 
 **JPC ZytoLab** Dr. Axel Stenkamp Consulting & SoftwareEngineering
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**apraxos** Dr. Claudia Neumann
+
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -632,6 +640,8 @@ x
 x
 
 **elektronische Disease-****Management-Programme****(Link)**
+
+x
 
 x
 
@@ -681,7 +691,11 @@ x
 
 x
 
+x
+
 **Verordnung von DiGAs****(Link)**
+
+x
 
 x
 
@@ -737,8 +751,6 @@ x
 ---
 
 **Name der Software und Anbieter**
-
-**apraxos** Dr. Claudia Neumann
 
 **Limport** Dr. Eissing und Partner GmbH
 
@@ -762,7 +774,9 @@ x
 
 **FIDUS** FIDUS Software Entwicklungs-GmbH
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**PathoFlow** Florian Kaiser
+
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -798,11 +812,7 @@ x
 
 x
 
-x
-
 **elektronische****Dokumentation****(Link)**
-
-x
 
 x
 
@@ -836,8 +846,6 @@ x
 
 x
 
-x
-
 **Heilmittelverordnung****(Link)**
 
 x
@@ -852,11 +860,7 @@ x
 
 x
 
-x
-
 **Verordnung von DiGAs****(Link)**
-
-x
 
 x
 
@@ -882,11 +886,7 @@ x
 
 x
 
-x
-
 **Blankoformular-****bedruckung****(Link)**
-
-x
 
 x
 
@@ -920,8 +920,6 @@ x
 
 x
 
-x
-
 **eTerminservice****(Link)**
 
 x
@@ -936,8 +934,6 @@ x
 ---
 
 **Name der Software und Anbieter**
-
-**PathoFlow** Florian Kaiser
 
 **theHub** Fresenius Medical Care Deutschland GmbH
 
@@ -959,7 +955,9 @@ x
 
 **J-MED** Haase, Dipl.-Ing. Silvia GbR
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**Elefant** HASOMED GmbH
+
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1007,6 +1005,8 @@ x
 
 x
 
+x
+
 **Arzneimittelverordnung****(Link)**
 
 x
@@ -1020,6 +1020,8 @@ x
 x
 
 **Heilmittelverordnung****(Link)**
+
+x
 
 x
 
@@ -1055,7 +1057,11 @@ x
 
 x
 
+x
+
 **Blankoformular-****bedruckung****(Link)**
+
+x
 
 x
 
@@ -1075,14 +1081,14 @@ x
 
 x
 
+x
+
 **eTerminservice****(Link)**
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**Elefant** HASOMED GmbH
 
 **Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
@@ -1104,7 +1110,9 @@ x
 
 **DynaMed** IMA-Systems Information-Technology ZLN der NEXTCLINICS Austria GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+**DAC-Formular 2** IMEDAC GmbH
+
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1118,11 +1126,7 @@ x
 
 x
 
-x
-
 **elektronische Disease-****Management-Programme****(Link)****elektronische****Dokumentation****(Link)****Labordaten-****kommmunikation****(Link)**
-
-x
 
 x
 
@@ -1144,8 +1148,6 @@ x
 
 x
 
-x
-
 **Verordnung von DiGAs****(Link)**
 
 x
@@ -1153,8 +1155,6 @@ x
 x
 
 **Digitale Muster****(Link)**
-
-x
 
 x
 
@@ -1184,16 +1184,12 @@ x
 
 x
 
-x
-
 **eTerminservice****(Link)**
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**DAC-Formular 2** IMEDAC GmbH
 
 **Medical Office** INDAMED EDV-Entwicklung und Vertrieb GmbH
 
@@ -1215,7 +1211,7 @@ x
 
 **LINA** LAB4.0 GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1298,8 +1294,6 @@ x
 x
 
 **Blankoformular-****bedruckung****(Link)**
-
-x
 
 x
 
@@ -1342,6 +1336,8 @@ x
 
 **MELOS MeCom Arzt & Labor** LABLIONS software & solutions GmbH
 
+**AB+M Auftragserfassungs-System** LABLIONS software & solutions GmbH
+
 **MELOS Digital Network (MDN)** LABLIONS software & solutions GmbH
 
 **Melos-Labor-System** LABLIONS software & solutions GmbH
@@ -1356,9 +1352,7 @@ x
 
 **Klinik Dialog Plus** Leopoldina-Krankenhaus GmbH
 
-**H&S Laborsoftware** Limbach Gruppe SE
-
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)****elektronische Disease-****Management-Programme****(Link)****elektronische****Dokumentation****(Link)****Labordaten-****kommmunikation****(Link)****Arzneimittelverordnung****(Link)**
 
@@ -1370,6 +1364,8 @@ xxx
 
 x
 
+x
+
 xx
 
 x
@@ -1379,8 +1375,6 @@ xx
 xx
 
 x
-
-xx
 
 **Heilmittelverordnung****(Link)****Verordnung von DiGAs****(Link)****Digitale Muster****(Link)****Blankoformular-****bedruckung****(Link)****eArztbrief****(Link)**
 
@@ -1392,9 +1386,9 @@ xx
 
 x
 
-xx
-
 x
+
+xx
 
 x
 
@@ -1408,6 +1402,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**H&S Laborsoftware** Limbach Gruppe SE
 
 **lab@ccess** LIMETEC Biotechnologies GmbH
 
@@ -1431,11 +1427,11 @@ x
 
 **eRIS** medavis GmbH
 
-**Ashvins xIS** MedicalCommunications GmbH
-
-Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
+
+x
 
 x
 
@@ -1472,6 +1468,8 @@ x
 x
 
 **Labordaten-****kommmunikation****(Link)**
+
+x
 
 x
 
@@ -1533,9 +1531,9 @@ x
 
 x
 
-x
-
 **Blankoformular-****bedruckung****(Link)**
+
+x
 
 x
 
@@ -1585,6 +1583,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**Ashvins xIS** MedicalCommunications GmbH
 
 **Klinik-Assistent** Medical-Software Frank Savini
 
@@ -1608,13 +1608,9 @@ x
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-**RadCentre Billing (OPD)** Mesalvo Mannheim GmbH
-
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
-
-x
 
 x
 
@@ -1674,11 +1670,7 @@ x
 
 x
 
-x
-
 **Heilmittelverordnung****(Link)**
-
-x
 
 x
 
@@ -1742,11 +1734,7 @@ x
 
 x
 
-x
-
 **eArztbrief****(Link)**
-
-x
 
 x
 
@@ -1766,6 +1754,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**RadCentre Billing (OPD)** Mesalvo Mannheim GmbH
 
 **ClinicCentre Billing (OPD)** Mesalvo Mannheim GmbH
 
@@ -1787,11 +1777,11 @@ x
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-**order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
-
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
+
+x
 
 x
 
@@ -1837,8 +1827,6 @@ x
 
 x
 
-x
-
 **Arzneimittelverordnung****(Link)**
 
 x
@@ -1853,7 +1841,11 @@ x
 
 x
 
+x
+
 **Heilmittelverordnung****(Link)**
+
+x
 
 x
 
@@ -1885,7 +1877,11 @@ x
 
 x
 
+x
+
 **Blankoformular-****bedruckung****(Link)**
+
+x
 
 x
 
@@ -1913,6 +1909,8 @@ x
 
 x
 
+x
+
 **eTerminservice****(Link)**
 
 x
@@ -1921,6 +1919,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
 
 **NEXUS/KIS (international)** NEXUS / REHA GmbH
 
@@ -1944,13 +1944,9 @@ x
 
 **QS-LAB** QS QualitySoft GmbH
 
-**RED medical classic** RED Medical Systems GmbH
-
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
-
-x
 
 x
 
@@ -1972,11 +1968,7 @@ x
 
 x
 
-x
-
 **elektronische****Dokumentation****(Link)**
-
-x
 
 x
 
@@ -2010,11 +2002,7 @@ x
 
 x
 
-x
-
 **Heilmittelverordnung****(Link)**
-
-x
 
 x
 
@@ -2036,11 +2024,7 @@ x
 
 x
 
-x
-
 **Digitale Muster****(Link)**
-
-x
 
 x
 
@@ -2066,11 +2050,7 @@ x
 
 x
 
-x
-
 **eArztbrief****(Link)**
-
-x
 
 x
 
@@ -2088,6 +2068,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**RED medical classic** RED Medical Systems GmbH
 
 **RED Medical** RED Medical Systems GmbH
 
@@ -2111,11 +2093,11 @@ x
 
 **Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
 
-**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
-
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
+
+x
 
 x
 
@@ -2143,7 +2125,11 @@ x
 
 x
 
+x
+
 **elektronische****Dokumentation****(Link)**
+
+x
 
 x
 
@@ -2177,7 +2163,11 @@ x
 
 x
 
+x
+
 **Heilmittelverordnung****(Link)**
+
+x
 
 x
 
@@ -2201,7 +2191,11 @@ x
 
 x
 
+x
+
 **Digitale Muster****(Link)**
+
+x
 
 x
 
@@ -2233,7 +2227,11 @@ x
 
 x
 
+x
+
 **eArztbrief****(Link)**
+
+x
 
 x
 
@@ -2255,6 +2253,8 @@ x
 ---
 
 **Name der Software und Anbieter**
+
+**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
 
 **PalliDoc** Statconsult GmbH
 
@@ -2278,9 +2278,7 @@ x
 
 **AiDKlinik** Universitätsklinikum Heidelberg
 
-**data4doc** Vidal MMI Germany GmbH
-
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2318,9 +2316,9 @@ x
 
 x
 
-**Arzneimittelverordnung****(Link)**
-
 x
+
+**Arzneimittelverordnung****(Link)**
 
 x
 
@@ -2385,13 +2383,15 @@ x
 
 **Name der Software und Anbieter**
 
+**data4doc** Vidal MMI Germany GmbH
+
 **labGate** vireq software solutions GmbH
 
 **tomedo** Zollsoft GmbH
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. März 2026
+Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2416,6 +2416,8 @@ x
 x
 
 **Arzneimittelverordnung****(Link)**
+
+x
 
 x
 

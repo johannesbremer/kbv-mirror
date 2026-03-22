@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. MÄRZ 2026**
+**21. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -39,7 +39,7 @@
 
 **APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2507/24/344
 
@@ -84,7 +84,7 @@ iOS/Android Linux Mac OS Windows
 
 **boos-uttenthaler-garcia RAD+** **Entwicklungsgesellschaft bR** Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/36/754
 
@@ -129,7 +129,7 @@ Linux Mac OS Windows
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2409/24/226
 
@@ -176,7 +176,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2407/24/203
 
@@ -218,7 +218,7 @@ Windows
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2407/24/262
 
@@ -255,7 +255,7 @@ Windows
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2407/24/254
 
@@ -300,7 +300,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/24/602
 
@@ -345,7 +345,7 @@ Linux Mac OS Windows
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2407/24/223
 
@@ -390,7 +390,7 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2502/36/630
 
@@ -431,7 +431,7 @@ iOS/Android Linux Mac OS Windows
 |---|---|---|
 | Y/80/2505/38/767 | 30.06.2028 | eAU |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2507/24/41730.06.2027eAUWindows
 
@@ -454,7 +454,7 @@ Y/80/2507/24/41730.06.2027eAUWindows
 
 **ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/24/195
 
@@ -499,7 +499,7 @@ Windows
 
 **INDAMED EDV-Entwicklung und Vertrieb** **GmbH** Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2505/24/596
 
@@ -544,7 +544,7 @@ Windows
 
 **KHP Kelm & Homberg** **Produktionsgesellschaft GmbH & Co.KG** Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2412/25/406
 
@@ -582,7 +582,7 @@ Windows
 |---|---|---|
 | Y/80/2408/24/243 | 31.07.2026 | eAU |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 
 ---
@@ -599,7 +599,7 @@ Seite 15 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. 
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 16/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 16/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/24/43930.09.2026eAU Linux Mac OS Windows
 
@@ -622,7 +622,7 @@ Y/80/2410/24/43930.09.2026eAU Linux Mac OS Windows
 
 **medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2306/36/746
 
@@ -665,7 +665,7 @@ Windows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2409/24/192
 
@@ -702,7 +702,7 @@ Windows
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2407/24/290
 
@@ -747,7 +747,7 @@ Windows
 
 **New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2507/24/494
 
@@ -792,7 +792,7 @@ Windows
 
 **PEGA Elektronik GmbH** Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/24/487
 
@@ -837,7 +837,7 @@ Windows
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2409/24/348
 
@@ -882,7 +882,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 23 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2409/24/261
 
@@ -924,7 +924,7 @@ Windows
 
 **TeleClinic GmbH** Brienner Str. 45 80333 München Internet: www.teleclinic.com
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2602/11/74731.12.2026eAU
 
@@ -949,7 +949,7 @@ iOS/Android Linux Mac OS Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 25/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 14. März 2026
+Seite 25/ KBV / Verzeichnis zertifizierter Software für Digitale Muster / 21. März 2026
 
 Y/80/2410/24/205
 

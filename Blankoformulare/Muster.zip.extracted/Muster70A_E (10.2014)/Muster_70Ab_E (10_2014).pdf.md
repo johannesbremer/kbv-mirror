@@ -22,14 +22,6 @@
 
 **Ärztliche Behandlung (EBM-Positionen) Ärztliche Behandlung**
 
-| Summe Ärztliche Behandlung | Summe Ärztliche |
-|---|---|
-| (Euro) |  |
-| Sachkosten und Sprechstunden- |  |
-| bedarf (Euro) |  |
-| Gesamtsumme für einmalig im Reproduktionsfall |  |
-| anfallende |  |
-
 | Behandlung |
 |---|
 | (Euro) |
@@ -115,3 +107,11 @@ AblaufeinesJahresseitderGenehmi-**nicht genehmigt** beiÄnderungderBehandlungsme
 **Muster 70Ab/E (10.2014)**
 
 ## 70A
+
+| Summe Ärztliche Behandlung | Summe Ärztliche |
+|---|---|
+| (Euro) |  |
+| Sachkosten und Sprechstunden- |  |
+| bedarf (Euro) |  |
+| Gesamtsumme für einmalig im Reproduktionsfall |  |
+| anfallende |  |

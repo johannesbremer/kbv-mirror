@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. MÄRZ 2026**
+**21. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -39,7 +39,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/52/2501/36/344 Y/60/2501/36/344
 
@@ -84,7 +84,7 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/52/2509/36/525
 
@@ -127,7 +127,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/023
 
@@ -161,7 +161,7 @@ Windows
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2501/36/238
 
@@ -195,7 +195,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/086 Y/58/2402/36/086 Y/56/2401/36/086
 
@@ -232,7 +232,7 @@ Linux Mac OS Windows
 
 **garrio GmbH** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
 
-Seite 7/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 7/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/244 Y/56/2401/36/244 Y/58/2401/36/244
 
@@ -277,7 +277,7 @@ Linux Mac OS Windows
 
 **IOMTech GmbH** Köpenicker Straße 9 10997 Berlin Internet: www.iomtech.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/210 Y/52/2407/36/210 Y/56/2401/36/210
 
@@ -324,7 +324,7 @@ Linux Mac OS Sonstige Windows
 
 Softwarevariante(n): - psyx
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/52/2601/36/721 Y/55/2404/36/721
 
@@ -365,7 +365,7 @@ Windows
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-Seite 10/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 10/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/030 Y/55/2504/36/030 Y/52/2407/36/030 Y/58/2401/36/030 Y/56/2310/36/030
 
@@ -395,7 +395,7 @@ Windows
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
-Seite 11/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 11/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2601/36/04331.12.2028Hautkrebs-ScreeningWindows
 
@@ -418,7 +418,7 @@ Y/53/2601/36/04331.12.2028Hautkrebs-ScreeningWindows
 
 **Pegasus Datensysteme** Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/52/2407/36/441
 
@@ -463,7 +463,7 @@ Windows
 
 **S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/56/2401/36/247
 
@@ -504,7 +504,7 @@ Sonstige Windows
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
 
-Seite 14/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 14/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026
 
 Y/53/2501/36/31331.12.2027Hautkrebs-ScreeningWindows
 
@@ -515,4 +515,4 @@ Y/53/2501/36/31331.12.2027Hautkrebs-ScreeningWindows
 |---|---|---|
 | Y/53/2501/36/457 Y/56/2410/36/457 Y/55/2402/36/457 | 31.12.2027 30.09.2027 31.01.2027 | Hautkrebs-Screening QS Hörgeräteversorgung QS Molekulargenetik |
 
-Seite 15/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 14. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für Dokumentationen / 21. März 2026

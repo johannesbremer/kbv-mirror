@@ -27,11 +27,11 @@ Datenannahmestellen
 
 Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen
 
-### ab 01.01.2026
+### ab 01.04.2026
 
 **,**
 
-### Stand 16.02.2026
+### Stand 11.03.2026
 
 **)**
 
