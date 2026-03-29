@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**21. MÄRZ 2026**
+**28. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -45,7 +45,7 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -178,7 +178,7 @@ x
 
 **CGM MEDICO** CGM Clinical Europe GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -301,7 +301,7 @@ x
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -420,7 +420,7 @@ x
 
 **InterMediNet KVDT** DBI Informatik, Dirk Blume
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -619,7 +619,7 @@ x
 
 **apraxos** Dr. Claudia Neumann
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -776,7 +776,7 @@ x
 
 **PathoFlow** Florian Kaiser
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -902,6 +902,8 @@ x
 
 x
 
+x
+
 **eArztbrief****(Link)**
 
 x
@@ -957,7 +959,7 @@ x
 
 **Elefant** HASOMED GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1112,7 +1114,7 @@ x
 
 **DAC-Formular 2** IMEDAC GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1211,7 +1213,7 @@ x
 
 **LINA** LAB4.0 GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1352,7 +1354,7 @@ x
 
 **Klinik Dialog Plus** Leopoldina-Krankenhaus GmbH
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)****elektronische Disease-****Management-Programme****(Link)****elektronische****Dokumentation****(Link)****Labordaten-****kommmunikation****(Link)****Arzneimittelverordnung****(Link)**
 
@@ -1427,7 +1429,7 @@ x
 
 **eRIS** medavis GmbH
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1608,7 +1610,7 @@ x
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1744,6 +1746,8 @@ x
 
 x
 
+x
+
 **eTerminservice****(Link)**
 
 x
@@ -1777,7 +1781,7 @@ x
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -1944,7 +1948,7 @@ x
 
 **QS-LAB** QS QualitySoft GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2093,7 +2097,7 @@ x
 
 **Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2278,7 +2282,7 @@ x
 
 **AiDKlinik** Universitätsklinikum Heidelberg
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 
@@ -2391,7 +2395,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. März 2026
+Seite 18/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 28. März 2026
 
 **Abrechnung****(Link)**
 

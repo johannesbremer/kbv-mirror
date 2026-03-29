@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**21. MÄRZ 2026**
+**28. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -33,6 +33,6 @@
 |---|---|
 | Y/168/2309/36/756 | 31.08.2026 |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 21. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 28. März 2026
 
 Vertragsärztliche Abrechnungbesitzen, erfüllen ebenfalls diese Anforderung.

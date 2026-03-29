@@ -10,7 +10,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**21. MÄRZ 2026**
+**28. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -43,7 +43,7 @@
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2401/36/081
 
@@ -90,7 +90,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 3/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 3/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2311/36/203
 
@@ -132,7 +132,7 @@ Windows
 
 **DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2312/36/060
 
@@ -169,7 +169,7 @@ Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 5/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 5/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2410/36/602
 
@@ -214,7 +214,7 @@ Linux Mac OS Windows
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Seite 6/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 6/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2312/36/223
 
@@ -259,7 +259,7 @@ Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2311/36/298
 
@@ -306,7 +306,7 @@ Mac OS Windows
 
 Softwarevariante(n): - x.vianova
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2312/36/320
 
@@ -347,7 +347,7 @@ Windows
 |---|---|---|
 | Y/70/2311/36/641 | 31.10.2026 | B2-Schnittstelle |
 
-Seite 9/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 9/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2311/36/26631.10.2026B1-SchnittstelleWindows
 
@@ -368,7 +368,7 @@ Y/70/2311/36/26631.10.2026B1-SchnittstelleWindows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 10/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 10/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2308/36/030
 
@@ -405,7 +405,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 11/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 11/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2311/36/043
 
@@ -450,7 +450,7 @@ Windows
 
 **psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
-Seite 12/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 12/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2401/36/083
 
@@ -495,7 +495,7 @@ Windows
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2312/36/626
 
@@ -538,7 +538,7 @@ Windows
 
 **Vidal MMI Germany GmbH** Monzastraße 4 63225 Langen Internet: www.mmi.de
 
-Seite 14/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 14/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026
 
 Y/70/2312/36/313
 
@@ -563,4 +563,4 @@ Windows
 |---|---|---|
 | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |
 
-Seite 15/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 21. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 28. März 2026

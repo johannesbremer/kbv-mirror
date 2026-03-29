@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**21. MÄRZ 2026**
+**28. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -41,7 +41,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2308/36/062
 
@@ -76,7 +76,7 @@ Windows
 
 **CGM Clinical Deutschland GmbH** Zur Lüre 44 37671 Höxter Internet: www.cgm-clinical.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2402/36/45931.01.2027Windows
 
@@ -99,7 +99,7 @@ Y/63/2402/36/45931.01.2027Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-Seite 4/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 4/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2406/36/706
 
@@ -134,7 +134,7 @@ Windows
 |---|---|
 | Y/63/2309/36/280 | 31.08.2026 |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2402/36/02331.01.2027Linux
 
@@ -157,7 +157,7 @@ Y/63/2402/36/02331.01.2027Linux
 
 **Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
 
-Seite 6/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 6/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2603/36/060
 
@@ -196,7 +196,7 @@ Windows
 
 **Dorner GmbH & Co. KG** Neuenburger Straße 4 79379 Müllheim Internet: www.dorner.de
 
-Seite 7/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 7/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2407/36/488
 
@@ -235,7 +235,7 @@ Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 8/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 8/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2601/36/086
 
@@ -274,7 +274,7 @@ Linux Mac OS Windows
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Seite 9/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 9/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2506/36/223
 
@@ -313,7 +313,7 @@ Windows
 
 **HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2408/36/701
 
@@ -352,7 +352,7 @@ Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2407/36/451
 
@@ -391,7 +391,7 @@ Mac OS Windows
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2402/36/320
 
@@ -426,7 +426,7 @@ Windows
 |---|---|
 | Y/63/2307/36/243 | 30.06.2026 |
 
-Seite 13/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 13/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2309/36/13531.08.2026Windows
 
@@ -445,7 +445,7 @@ Y/63/2309/36/13531.08.2026Windows
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 14/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 14/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2505/36/43930.04.2028 Linux Mac OS Windows
 
@@ -464,40 +464,42 @@ Y/63/2505/36/43930.04.2028 Linux Mac OS Windows
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-**MEDYS**
-
-**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
-
-Seite 15/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 15/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2311/36/030
 
 Y/63/2402/36/192
 
-Y/63/2601/36/015
-
 31.10.2026
 
 31.01.2027
 
-31.12.2028
-
 Windows
 
 Windows
-
-Mac OS Windows
 
 
 ---
 
 | Prüfnummer | Prüfnummer gültig bis |
 |---|---|
-| Y/63/2501/36/276 | 31.12.2027 |
+| Y/63/2603/36/251 | 28.02.2029 |
+| Y/63/2601/36/015 | 31.12.2028 |
 
-**ClinicCentre Billing (OPD)**
+**RadCentre Billing (OPD)**
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
+
+Seite 16/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
+
+Y/63/2501/36/27631.12.2027Windows
+
+
+---
+
+| Prüfnummer | Prüfnummer gültig bis |
+|---|---|
+| Y/63/2505/36/422 | 30.04.2028 |
 
 **Med4WinPlus**
 
@@ -507,19 +509,23 @@ Mac OS Windows
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+**SMARTY**
 
-Y/63/2505/36/422
+**New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
+
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2406/36/494
 
 Y/63/2407/36/043
 
-30.04.2028
+Y/63/2308/36/299
 
 31.05.2027
 
 30.06.2027
+
+31.07.2026
 
 Windows
 
@@ -532,11 +538,7 @@ Windows
 
 | Prüfnummer | Prüfnummer gültig bis |
 |---|---|
-| Y/63/2308/36/299 | 31.07.2026 |
-
-**MEDOS**
-
-**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
+| Y/63/2507/36/278 | 30.06.2028 |
 
 **NEXUS RIS**
 
@@ -546,19 +548,23 @@ Windows
 
 **NEXUS AG** Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de
 
-Seite 17/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+**PegaMed**
 
-Y/63/2507/36/278
+**PEGA Elektronik GmbH** Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de
+
+Seite 18/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2403/36/487
 
 Y/63/2404/36/208
 
-30.06.2028
+Y/63/2601/36/083
 
 28.02.2027
 
 31.03.2027
+
+31.12.2028
 
 Windows
 
@@ -571,11 +577,7 @@ Windows
 
 | Prüfnummer | Prüfnummer gültig bis |
 |---|---|
-| Y/63/2601/36/083 | 31.12.2028 |
-
-**PROFIMED**
-
-**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+| Y/63/2312/37/247 | 31.12.2026 |
 
 **psyprax**
 
@@ -585,23 +587,27 @@ Windows
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-Seite 18/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+**RED Medical**
 
-Y/63/2312/37/247
+**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
+
+Seite 19/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2601/36/348
 
 Y/63/2308/36/456
 
-31.12.2026
+Y/63/2402/36/626
 
 31.12.2028
 
 31.07.2026
 
-Windows
+31.01.2027
 
 Windows
+
+iOS/Android Linux Mac OS Sonstige Windows
 
 iOS/Android Linux Mac OS Sonstige Windows
 
@@ -610,11 +616,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 | Prüfnummer | Prüfnummer gültig bis |
 |---|---|
-| Y/63/2402/36/626 | 31.01.2027 |
-
-**S3-Win**
-
-**S3 Praxiscomputer GmbH / Maximilian Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
+| Y/63/2401/36/261 | 31.12.2026 |
 
 **ARZT 2000**
 
@@ -623,31 +625,18 @@ iOS/Android Linux Mac OS Sonstige Windows
 | Y/63/2407/36/458 | 30.06.2027 |
 |---|---|
 | Y/63/2403/36/231 | 28.02.2027 |
+| Y/63/2507/36/498 | 30.06.2028 |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
-Y/63/2401/36/261
-
-Y/63/2311/36/171
-
-31.12.2026
-
-31.10.2026
-
-Sonstige Windows
-
-Windows
+Y/63/2311/36/17131.10.2026Windows
 
 
 ---
 
 | Prüfnummer | Prüfnummer gültig bis |
 |---|---|
-| Y/63/2507/36/498 | 30.06.2028 |
-
-**Medi10**
-
-**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
+| Y/63/2407/36/313 | 30.06.2027 |
 
 **tomedo**
 
@@ -657,21 +646,15 @@ Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 20/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. März 2026
-
-Y/63/2407/36/313
+Seite 21/ KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 28. März 2026
 
 Y/63/2312/37/457
 
 Y/63/2601/36/768
 
-30.06.2027
-
 31.12.2026
 
 31.12.2028
-
-Windows
 
 Mac OS
 

@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**21. MÄRZ 2026**
+**28. MÄRZ 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -35,7 +35,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2410/36/08130.09.2027Rohdaten MMIWindows
 
@@ -58,7 +58,7 @@ Y/400/2410/36/08130.09.2027Rohdaten MMIWindows
 
 **CGM Clinical Europe GmbH** Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
-Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2601/36/078
 
@@ -103,7 +103,7 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2501/36/332
 
@@ -140,7 +140,7 @@ Windows
 |---|---|---|
 | Y/400/2410/36/280 | 30.09.2027 | ifap praxisCENTER |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 
 ---
@@ -161,7 +161,7 @@ Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
 
 **DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2504/36/262
 
@@ -206,7 +206,7 @@ Windows
 
 **Doctolib GmbH** Mehringdamm 51 10961 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
-Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2304/36/314
 
@@ -251,7 +251,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2510/36/086
 
@@ -296,7 +296,7 @@ Windows
 
 **Fresenius Medical Care Deutschland GmbH** Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com
 
-Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2304/36/421
 
@@ -341,7 +341,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2511/38/616
 
@@ -386,7 +386,7 @@ Windows
 
 **ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2410/36/660
 
@@ -431,7 +431,7 @@ Linux Mac OS Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2303/37/642
 
@@ -476,7 +476,7 @@ Mac OS Windows
 
 Softwarevariante(n): - psyx
 
-Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2510/36/385
 
@@ -519,7 +519,7 @@ Windows
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2506/37/746
 
@@ -557,7 +557,7 @@ Windows
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
 
-Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2410/36/29030.09.2027Rohdaten ABDAMEDWindows
 
@@ -580,7 +580,7 @@ Y/400/2410/36/29030.09.2027Rohdaten ABDAMEDWindows
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2305/36/276
 
@@ -625,7 +625,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2410/36/299
 
@@ -668,7 +668,7 @@ Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2305/36/744
 
@@ -713,7 +713,7 @@ Windows
 
 **RpDoc Solutions GmbH** Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2504/36/456
 
@@ -758,7 +758,7 @@ Linux Mac OS Sonstige Windows
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2510/36/343
 
@@ -790,7 +790,7 @@ Windows
 | Prüfnummer(n) | Prüfnummer(n) gültig bis | zertifizierte Datenbasis |
 |---|---|---|
 | Y/400/2510/36/458 | 30.09.2028 | Rohdaten MMI |
-| Y/400/2304/36/498 | 31.03.2026 | MMI PHARMINDEX |
+| Y/400/2304/36/498 | 31.03.2026 | Rohdaten MMI |
 
 **Medi10**
 
@@ -800,7 +800,7 @@ Windows
 |---|---|---|
 | Y/400/2401/36/672 | 31.12.2026 | Rohdaten MMI |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2504/36/31331.03.2028Rohdaten ABDAMEDWindows
 
@@ -815,6 +815,6 @@ Y/400/2504/36/31331.03.2028Rohdaten ABDAMEDWindows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 22/ KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 21. März 2026
+Seite 22/ KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 28. März 2026
 
 Y/400/2510/36/76830.09.2028 Mac OS Windows
