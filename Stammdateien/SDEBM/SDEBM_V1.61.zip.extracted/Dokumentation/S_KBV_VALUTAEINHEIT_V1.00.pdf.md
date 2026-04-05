@@ -8,11 +8,12 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 0 | unbekannt |
-| 1 | Punkte |
+**Code**
+
+0 1
+
 | 2 | Euro |
+|---|---|
 | 5 | unbewertet |
 
 Schlüsseltabelle: S_KBV_VALUTAEINHEIT
@@ -23,10 +24,6 @@ Schlüsseltabelle: S_KBV_VALUTAEINHEIT
 
 **23.11.2004**
 
-1
+**Bezeichnung**
 
-
----
-
-
-
+unbekannt Punkte 1

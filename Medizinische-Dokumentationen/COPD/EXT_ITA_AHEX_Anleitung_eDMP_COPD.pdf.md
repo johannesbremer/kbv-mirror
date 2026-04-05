@@ -6,156 +6,185 @@
 
 ### COPD
 
-Stand der letzten Bearbeitung:06.09.2023 Version 5 Anzuwenden ab:01.04.2024
+Stand der letzten Bearbeitung: 06.09.2023  Version 5  Anzuwenden ab:   01.04.2024
 
-Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
-
-1
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 1
 
 
 ---
 
-## Anamnese
+## Anamnese- und Befunddaten
 
-**-**
-
-## und Befunddaten
-
-**Aktueller FEV****-Wert (alle sechs bis zwölf Monate)****1**  Genau eine Angabe ist erforderlich. Geben Sie hier bitte den aktuell vor einer Spasmolyse gemessenen FEV1-Wert Ihrer Patientin bzw. Ihres Patienten als Prozent-Wert zum Sollwert mitdrei Stellen vor undeiner Stelle hinter dem Komma (Wertebereich 005,0 – 299,9) oder „N icht durchgeführt“ an.   **Klinische Einschätzung des Osteoporoserisikos durchgeführt**  Genau eine Angabe ist erforderlich. Die individuelle Risikokonstellation bezüglich des Auftretens einer Osteoporose soll einmal jährlich bei allen Patienten klinisch abgeschätzt werden. Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP-Konsultation die Risikofaktoren für das Auftreten einer Osteoporoseabgeschätzt haben. Bei Patientinnen undPatienten mit COPD sinddie Risikofaktorenneben Alter,Geschlecht,Untergewicht,Immobilitätauchdiesystemische Entzündung beischwererCOPD(FEVunter 50%des Sollwertes)unddiemedikamentöse1 Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
+**Aktueller FEV**  Genau eine Angabe ist erforderlich.  Geben Sie hier bitte den aktuell vor einer Spasmolyse gemessenen FEV1-Wert Ihrer Patientin bzw.  Ihres Patienten als Prozent-Wert zum Sollwert mit  Komma (Wertebereich 005,0 – 299,9) oder „ N icht durchgeführt“ an.    **Klinische Einschätzung des Osteoporoserisikos durchgeführt**  Genau eine Angabe ist erforderlich.  Die individuelle Risikokonstellation bezüglich des Auftretens einer Osteoporose soll einmal jährlich  bei allen Patienten klinisch abgeschätzt werden.  Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteoporose  Risikofaktoren  Entzündung bei  Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
 
 ## Relevante Ereignisse
 
-**Häufigkeit von Exazerbationen seit der letzten Dokumentation**  Eine Angabe ist nur im Rahmen einer Folgedokumentation möglich und hier verpflichtend. Als ExazerbationzähltjedeVerschlechterungderSymptomatik,dieeineVeränderungder Medikation im Sinne einer Intensivierung der Therapie erforderlich macht. Geben SiebittedieAnzahl(ohneNachkommastelle)vonExazerbationenseitderletzten Dokumentation an. Sollte keine Exazerbation seitder letzten Dokumentation vorgelegen haben, geben Sie bitte eine „0“ an.   **Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen** **COPD seit der letzten Dokumentation**  Eine Angabe ist nur im Rahmen einer Folgedokumentation möglich und hier verpflichtend. Geben SiebittedieAnzahl(ohne Nachkommastelle)aller Ihnenbekannten ungeplanten Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grundder COPD notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte eine „0“ an.
+**Häufigkeit von Exazerbationen seit der letzten Dokumentation**  Eine Angabe ist nur im Rahmen einer Folgedokumentation möglich und hier verpflichtend.  Als Exazerbation  Medikation im Sinne einer Intensivierung der Therapie erforderlich macht.  Geben Sie  Dokumentation an. Sollte keine Exazerbation seit  geben Sie bitte eine „0“ an.    **Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen**  **COPD seit der letzten Dokumentation**  Eine Angabe ist nur im Rahmen einer Folgedokumentation möglich und hier verpflichtend.  Geben Sie  Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grund notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig  gewesen sein, geben Sie bitte eine „0“ an.
 
 ## Medikamente
 
-Bitte machen Sie zu jeder Wirkstoffgruppe mindestens eine Angabe. Bitte machen Sie bei der Angabe „Keine“- wo möglich - zusätzlich eine Angabe, wenn die Nicht-Verordnung auf eine Kontraindikation gegen dieGabederjeweiligenWirkstoffgruppezurückzuführenist. DieseAngabeistfürdie Qualitätssicherung notwendig. Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.  Die Angaben „B ei Bedarf“ und „Dauermedikation“ sind gemeinsammöglich.  Vorrangig sollenunterBerücksichtigungderKontraindikationenundderPatientenpräferenzen Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen
+Bitte machen Sie zu jeder Wirkstoffgruppe mindestens eine Angabe. Bitte machen Sie bei der Angabe  „Keine“ - wo möglich - zusätzlich eine Angabe, wenn die Nicht gegen die  Qualitätssicherung notwendig.  Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen werden.  Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.   Die Angaben „ B ei Bedarf“ und „Dauermedikation“ sind gemeinsam möglich.   Vorrangig sollen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen
 
-Ausfüllanleitung COPD, Version 5; Stand 06.09.20232
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
+
+Gabe
+
+**-Wert (alle sechs bis zwölf Monate) 1**
+
+drei Stellen vor und einer Stelle hinter dem
+
+-Konsultation die Risikofaktoren für das  abgeschätzt haben. Bei Patientinnen und Patienten mit COPD sind die  neben Alter, Geschlecht, Untergewicht, Immobilität auch die systemische  schwerer COPD (FEV unter 50% des Sollwertes) und die medikamentöse 1
+
+zählt jede Verschlechterung der Symptomatik, die eine Veränderung der
+
+bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der letzten  der letzten Dokumentation vorgelegen haben,
+
+bitte die Anzahl (ohne Nachkommastelle) aller Ihnen bekannten ungeplanten  der COPD
+
+-Verordnung auf eine Kontraindikation  der jeweiligen Wirkstoffgruppe zurückzuführen ist. Diese Angabe ist für die
+
+unter Berücksichtigung der Kontraindikationen und der Patientenpräferenzen 2
 
 
 ---
 
-diejenigen Wirkstoffe/Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich den größten Nutzen erbringen.  Zu den einzelnen Wirkstoffgruppen, die vorrangig zu verordnen sind, zählen für die Bedarfstherapie -Kurz wirksame Beta-2-Sympathomimetika (z. B. Fenoterol, Salbutamol, Terbutalin) -Kurz wirksame Anticholinergika (z. B. Ipratropiumbromid,) -Kombination von kurz wirksamen Beta-2-Sympathomimetikum und Anticholinergikum  -In begründeten Fällen: Bei Schleimretention können erwogen werden: Inhalation von Kochsalzlösung, mukoaktive Substanzen.  Bei akuten Exazerbationen ist primär eine Intensivierung der Therapie mit Bronchodilatatoren sowie ggf. eine kurzfristige Glukokortikosteroiden, erforderlich.  Falls erforderlich zur Dauertherapie -Langwirksames Anticholinergikum (z. B.Tiotropiumbromid) oder -Langwirksame Beta-2-Sympatomimetika (z. B. Formoterol, Salmeterol) -Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2- Sympathomimetikum und Anticholinergikum.  Zusätzlich in begründeten Fällen: -inhalative Glukokortikosteroide (ICS) bei gehäuft (größer gleich 2-mal pro Jahr) auftretenden Exazerbationen oder einer krankenhauspflichtigen Exazerbation trotz Bronchodilatatortherapie oder bei gleichzeitig vorliegenden Charakteristika eines Asthma bronchiale. Die Indikation für eine dauerhafte Therapie mit ICS sollte mindestens jährlich überprüft und dokumentiert werden. Eine Dauertherapie mit systemischen Glukokortikosteroiden soll vermieden werden -Roflumilast in der Subgruppe von Patientinnen und Patienten mit schwerer COPD, ausgeprägten Bronchitis- Zeichen (Husten, Auswurf) und häufigen Exazerbationen (größer gleich 2-mal pro Jahr)  Die medikamentöse Kombinationstherapie aus lang wirksamem Anticholinergikum (LAMA), lang wirksamem Beta-2-Sypathomimetikum (LABA) und inhalativem Glukokortikosteroid (ICS) (sogenannte Triple Therapie) wird empfohlen, wenn Exazerbationen trotz der Kombinationen ICS / LABA, LAMA / LABA oder LAMA-Monotherapie bzw. asthmatischen Begleitsymptomen persistieren. Sollte Ihre Patientin bzw. Ihr Patient eine solche Kombinationstherapie erhalten, kreuzen Sie bitte in diesem Fall die Einzelwirkstoffe an.   **Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika**  Mindestens eine Angabe ist erforderlich. Geben Sie Sympathomimetika und/oder gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic besteht. Diese Angabe ist für die Qualitätssicherung notwendig.   **Lang wirksame Beta-2-Sympathomimetika**  Mindestens eine Angabe ist erforderlich. Geben Sie Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines lang wirksamen Beta Diese Angabe ist für die Qualitätssicherung notwendig.
+diejenigen Wirkstoffe/Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich den  größten Nutzen erbringen.   Zu den einzelnen Wirkstoffgruppen, die vorrangig zu verordnen sind, zählen  für die Bedarfstherapie  - Kurz wirksame Beta-2-Sympathomimetika (z. B. Fenoterol, Salbutamol, Terbutalin)  - Kurz wirksame Anticholinergika (z. B. Ipratropiumbromid,)  - Kombination von kurz wirksamen Beta-2-Sympathomimetikum und Anticholinergikum   - In begründeten Fällen: Bei Schleimretention können erwogen werden: Inhalation von  Kochsalzlösung, mukoaktive Substanzen.   Bei akuten Exazerbationen ist primär eine Intensivierung der Therapie mit Bronchodilatatoren sowie ggf.  eine kurzfristige  Glukokortikosteroiden, erforderlich.   Falls erforderlich zur Dauertherapie  - Langwirksames Anticholinergikum (z. B.Tiotropiumbromid) oder  - Langwirksame Beta-2-Sympatomimetika (z. B. Formoterol, Salmeterol)  - Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2- Sympathomimetikum und Anticholinergikum.   Zusätzlich in begründeten Fällen:  - inhalative Glukokortikosteroide (ICS) bei gehäuft (größer gleich 2-mal pro Jahr) auftretenden  Exazerbationen oder einer krankenhauspflichtigen Exazerbation trotz Bronchodilatatortherapie  oder bei gleichzeitig vorliegenden Charakteristika eines Asthma bronchiale. Die Indikation für eine  dauerhafte Therapie mit ICS sollte mindestens jährlich überprüft und dokumentiert werden. Eine  Dauertherapie mit systemischen Glukokortikosteroiden soll vermieden werden  - Roflumilast in der Subgruppe von Patientinnen und Patienten mit schwerer COPD, ausgeprägten  Bronchitis- Zeichen (Husten, Auswurf) und häufigen Exazerbationen (größer gleich 2-mal pro  Jahr)   Die medikamentöse Kombinationstherapie aus lang wirksamem Anticholinergikum (LAMA), lang  wirksamem Beta-2-Sypathomimetikum (LABA) und inhalativem Glukokortikosteroid (ICS) (sogenannte  Triple Therapie) wird empfohlen, wenn Exazerbationen trotz der Kombinationen ICS / LABA, LAMA /  LABA oder LAMA-Monotherapie bzw. asthmatischen Begleitsymptomen persistieren.  Sollte Ihre Patientin bzw. Ihr Patient eine solche Kombinationstherapie erhalten, kreuzen Sie bitte in  diesem Fall die Einzelwirkstoffe an.    **Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika**  Mindestens eine Angabe ist erforderlich.  Geben Sie  Sympathomimetika und/oder  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic besteht. Diese Angabe ist für die Qualitätssicherung notwendig.    **Lang wirksame Beta-2-Sympathomimetika**   Mindestens eine Angabe ist erforderlich.  Geben Sie  Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta Diese Angabe ist für die Qualitätssicherung notwendig.
 
-Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 (in der
 
-(inderRegelfünftägige
+bitte an,
 
-bittean,obeineBedarfs Anticholinergika
+bitte an,
 
-bittean,obeineBedarfs
+Regel fünftägige
 
-bismaximal
+ob eine Bedarfs Anticholinergika
 
--und/oder Dauertherapie
+ob eine Bedarfs
 
--und/oder Dauertherapie
+bis maximal
 
-14-tägige) Gabevonsystemischen
+- und/oder Dauertherapie  durchgeführt - und/oder Dauertherapie
 
-mitkurzwirksamenBeta durchgeführtwird.Bittegeben holinergikums
+14 -tägige) Gabe
 
-mitlangwirksamenBeta
+mit  wird. Bitte
 
--2-Sympathomimetikums besteht.
+mit -2-Sympathomimetikums besteht.
 
--2- Siebei
+von systemischen
+
+kurzwirksamen Beta geben Sie bei „Keine“  holinergikums
+
+langwirksamen Beta -2-
 
 -2-
 
 3
 
-„Keine“
-
 
 ---
 
-**Lang wirksame Anticholinergika**  Mindestens eine Angabe ist erforderlich. Geben Sie bitte an, ob eine Bedarfs durchgeführt wird. Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ist für die Qualitätssicherung notwendig.   **Inhalationstechnik überprüft**  Genau eine Angabe ist erforderlich. Nach einer initialen Einweisung in die Applikationstechnik soll die Inhalationstechnik in jedem Dokumentationszeitraum mindestens einmal überprüft werden, da die häufig verschlechtert und die Medikamente somit nicht ihre volle Wirkung entfalten können. Dies kann bspw. mittels Simulation geschehen: Die Patientin bzw. der Patient zeigt Ihnen, wie sie bzw. er das Device hält und simuliert das Auslösen eines Hubes. Dabei überprüfen Sie die Inhalationstechnik (Ein-/Ausatemtechnik). Die Simulation kann in ähnlicher Weise auch ohne ein Device durchgeführt werden. Geben Sie hier bitte „Ja“   **Sonstige diagnosespezifische Medikation**  Mindestens eine Angabe ist erforderlich. Sofern Sie „Nein“ angegeben haben, darf keine weitere Angabe erfolgen. Sollte Ihr Patient inhalative oder systemische Glukokortikosteroide weitere Medikamente zur Behandlung der COPD erhalten, geben Sie dies bitte hier an. Der Wirkstoff Theophyllin wird wegen seiner geringen therapeutischen Breite und aufgrund des Nebenwirkungsprofils zur Behandlung der COPD im Rahmen der Bedarfs mehr empfohlen. Für den Fall, dass Sie Patienten haben, die Theophyllin bitte „Andere“ an. Acetylcystein, Ambroxol oder Carbocystein zu erfassen.  Die Angaben zu sowie „Andere“ können einzeln oder gemeinsam erfolgen.
+**Lang wirksame Anticholinergika**  Mindestens eine Angabe ist erforderlich.  Geben Sie bitte an, ob eine Bedarfs durchgeführt wird.  Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ist für die Qualitätssicherung notwendig.    **Inhalationstechnik überprüft**  Genau eine Angabe ist erforderlich.  Nach einer initialen Einweisung in die Applikationstechnik soll die Inhalationstechnik in jedem  Dokumentationszeitraum mindestens einmal überprüft werden, da die  häufig verschlechtert und die Medikamente somit nicht ihre volle Wirkung entfalten können.  Dies kann bspw. mittels Simulation geschehen: Die Patientin bzw. der Patient zeigt Ihnen, wie sie  bzw. er das Device hält und simuliert das Auslösen eines Hubes. Dabei überprüfen Sie die  Inhalationstechnik (Ein-/Ausatemtechnik). Die Simulation kann in ähnlicher Weise auch ohne ein  Device durchgeführt werden.  Geben Sie hier bitte „Ja“ an, wenn Sie dies bei der aktuellen DMP Konsultation getan haben.    **Sonstige diagnosespezifische Medikation**  Mindestens eine Angabe ist erforderlich. Sofern Sie „Nein“ angegeben haben, darf keine weitere  Angabe erfolgen.  Sollte Ihr Patient inhalative oder systemische Glukokortikosteroide weitere Medikamente zur Behandlung der COPD erhalten, geben Sie dies bitte hier an.  Der Wirkstoff Theophyllin wird wegen seiner geringen therapeutischen Breite und aufgrund des  Nebenwirkungsprofils zur Behandlung der COPD im Rahmen der Bedarfs mehr empfohlen. Für den Fall, dass Sie Patienten haben, die Theophyllin bitte „Andere“ an. Unter der Angabe „Andere“ sind ebenfalls z.B. mukoaktive Substanzen wie z. B.  Acetylcystein, Ambroxol oder Carbocystein zu erfassen.   Die Angaben zu  sowie „Andere“ können einzeln oder gemeinsam erfolgen.
 
 ## Schulung
 
-**Schulung empfohlen (bei aktueller Dokumentation)**  Genau eine Angabe ist erforderlich. Wenn Sie Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an. Wurde keine Schulung empfohlen (z. B., weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung wahrgenommen hat), geben Sie dies bitte mit „Nein“ an.   **Schulung schon vor Einschreibung in DMP bereits wahrgenommen**  Bitte geben Sie an, ob Ihr Patient bereits vor seiner Teilnahme am DMP COPD an einer COPD Schulung teilgenommen **Erstdokumentation möglich und ist hier verpflichtend.** Angabe möglich.  Gemeint sind hierbei folgende Schulungsmaßnahmen: a)akkreditierte und für das DMP zugelassene Schulungen, sowie
+**Schulung empfohlen (bei aktueller Dokumentation)**   Genau eine Angabe ist erforderlich.  Wenn Sie  Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die  Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.  Wurde keine Schulung empfohlen (z. B., weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung  wahrgenommen hat), geben Sie dies bitte mit „Nein“ an.    **Schulung schon vor Einschreibung in DMP bereits wahrgenommen**  Bitte geben Sie an, ob Ihr Patient bereits vor seiner Teilnahme am DMP COPD an einer COPD Schulung teilgenommen  **Erstdokumentation möglich und ist hier verpflichtend.**  Angabe möglich.   Gemeint sind hierbei folgende Schulungsmaßnahmen:  a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
 Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
 
 Ihrem
 
-Unter der Angabe „Andere“ sind ebenfalls z.B. mukoaktive Substanzen wie z. B.
+Bitte
 
-„Inhalative Glukokortikosteroide" und/oder „
+„I nhalative Glukokortikosteroide" und/oder „ Systemische Glukokortikosteroide “
 
 Patienten
 
-- und/oder Dauertherapie mit langwirksamen Anticholinergika BittegebenSiebei„Keine“gegebenenfalls ht. Diese Angabe
+- und/oder Dauertherapie mit langwirksamen Anticholinergika  geben Sie bei „Keine“ gegebenenfalls
+
+aktuell (am Tage der Konsultation)
+
+hat. Eine Angabe zu diesem  Bei der Folgedokumentation ist hier keine
+
+Feld
+
+zusätzlich an, ob eine  ht. Diese Angabe
 
 Ausführungstechnik sich
 
-an, wenn Sie dies bei der aktuellen DMP Konsultation getan haben.
-
 oder andere bzw.
 
-- und Dauertherapie nicht erhalten, kreuzen Sie hier
+- und Dauertherapie nicht  erhalten, kreuzen Sie hier
 
-Systemische Glukokortikosteroide “
-
-aktuell(amTagederKonsultation)dieTeilnahme Wenn Sie bereits zuvor
-
-hat.EineAngabezudiesemFeldistnurimRahmen Bei der Folgedokumentation ist hier keine
-
-zusätzlichan,
-
-aneinem
-
-- einer
+die Teilnahme an einem  Wenn Sie bereits zuvor - ist nur im Rahmen einer
 
 4
-
-obeine
 
 
 ---
 
-b)andere Schulungsmaßnahmen, die den Patienten durch den Erwerb von Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der Basis eigener Entscheidungen die COPD bestmöglich in das eigene Leben zu integrieren, akute oder langfristige negative Konsequenzen der COPD zu vermeiden und die Lebensqualität zu erhalten.  Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!  Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen, bitte mit der Angabe „Nein“.   **Empfohlene Schulung(en) wahrgenommen**  Genau eine Angabe ist erforderlich. Sie ist ausschließlich im Rahmen einer Folgedokumentation gültig. Die Angaben zur Schulung beziehen sich hier ausschließlich Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher nur im Rahmen einer Folgedokumentation möglich und verpflichtend. Bei der Erstdokumentation ist hier keine Angabe möglich.  Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie nachvollziehbaren Grund nicht wahrgenommen haben, kreuzen Sie bitte „Nein“ an. **kann bei wiederholter Angabe**  Die Angabe Dokumentationsintervalls (jedes Gründe nicht Schulungskapazität, Krankenhausaufenthalt des Patienten, private Gründe. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und dem Patienten.  Sollten Sie bei der letzten Dokumentation an. Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+b) andere Schulungsmaßnahmen, die den Patienten durch den Erwerb von Kenntnissen und  Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der  Basis eigener Entscheidungen die COPD bestmöglich in das eigene Leben zu integrieren,  akute oder langfristige negative Konsequenzen der COPD zu vermeiden und die  Lebensqualität zu erhalten.   Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute  Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!   Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen,  bitte mit der Angabe „Nein“.    **Empfohlene Schulung(en) wahrgenommen**  Genau eine Angabe ist erforderlich. Sie ist ausschließlich im Rahmen einer Folgedokumentation  gültig.  Die Angaben zur Schulung beziehen sich hier ausschließlich  Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher nur  im Rahmen einer Folgedokumentation möglich und verpflichtend.  Bei der Erstdokumentation ist hier keine Angabe möglich.   Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie  nachvollziehbaren Grund nicht wahrgenommen haben, kreuzen Sie bitte „Nein“ an. Diese Angabe  **kann bei wiederholter Angabe**   Die Angabe  Dokumentationsintervalls (jedes  Gründe nicht  Schulungskapazität, Krankenhausaufenthalt des Patienten, private Gründe. Die Beurteilung, ob die  Gründe nachvollziehbar sind, obliegt alleine Ihnen und dem Patienten.   Sollten Sie bei der letzten Dokumentation  an. Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
 
 ## Behandlungsplanung
 
-**Empfehlung zum Tabakverzicht ausgesprochen**  Genau eine Angabe ist bei allen aktiven Rauchern erforderlich. Der Raucherstatus Ausstiegsbereiten Rauchern soll die Teilnahme an einem Tabakentwöhnungsprogramm empfohlen werden.  Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) einen Tabakverzicht empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.   **Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen**  Genau eine Angabe ist bei allen aktiven Rauchern erforderlich. Wenn Sie Tabakentwöhnungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an.
+**Empfehlung zum Tabakverzicht ausgesprochen**  Genau eine Angabe ist bei allen aktiven Rauchern erforderlich.  Der Raucherstatus  Ausstiegsbereiten Rauchern soll die Teilnahme an einem Tabakentwöhnungsprogramm empfohlen  werden.   Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) einen Tabakverzicht empfohlen  haben, geben Sie dies bitte hier mit „Ja“ an.  Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.    **Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen**  Genau eine Angabe ist bei allen aktiven Rauchern erforderlich.  Wenn Sie  Tabakentwöhnungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an.
 
 Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
 
-bitte„Ja“ Sollte
+bitte
 
-„Waraktuell
+|  | Folgedokumentation | | möglich |
+|---|---|---|---|
+|  | ist | hier | keine Angabe |
+|  | Ihr | Patient im |  |
+|  | an. | Sollte Ihr | Patient |
+|  | Grund nicht |  | wahrgenommen |
+
+„War aktuell
 
 wahrgenommen
 
 sollte
 
-IhremPatienten
+Ihrem Patienten
+
+**zum Ausschluss des Versicherten aus dem Programm führen!**
+
+nicht möglich“  Quartal  werden
+
+bei jedem
+
+aktuell
 
 dokumentieren Sie dies
 
 rückblickend auf eine Schulung, die
 
-an.IhrPatienteineempfohleneSchulungohne einenfürSie **Diese Angabe** **zum Ausschluss des Versicherten aus dem Programm führen!**
+empfohlene Schulung ohne einen für Sie
 
-nichtmöglich“istanzukreuzen,wenndieSchulunginnerhalb QuartaloderjedeszweiteQuartal)wegennachvollziehbarer werdenkonnte.SolcheGründekönnenz.B.sein:Fehlende
+| ist |  | anzukreuzen, | wenn die |
+|---|---|---|---|
+| oder | jedes | zweite | Quartal) |
+| konnte. | | Solche Gründe |  |
+| des | Patienten, | private | Gründe. |
+|  | Ihnen und | dem | Patienten. |
+| keine | Schulung |  | empfohlen |
 
-keine Schulung empfohlen haben, geben Sie dies bitte Schulung
+innerhalb des  nachvollziehbarer  z.B. sein: Fehl ende
 
-beijedemPatientenbeijederKonsultationerfragtwerden
+Schulung
 
-aktuell(amTagederKonsultation)dieTeilnahmeaneinem
+Patienten bei jeder Konsultation erfragt werden
 
-5
+(am Tage der Konsultation) die Teilnahme an einem
 
-des
+„Ja“ wegen können keine Schulung empfohlen haben, geben Sie dies bitte 5
 
 
 ---
 
-Wenn Sie bereits zuvor eine Teilnahme an einem Tabakentwöhnungsprogramm empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.  Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.  Sofern Sie geeignete Tabakentwöhnungsprogramme praevention.de oder auch direkt über die Internetseiten der Krankenkassen. Eine Angabe in diesen Feldern führt nicht zum Ausschluss des Patienten aus dem Programm.   **An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen**  Genau eine Folgedokumentation möglich und hier verpflichtend. Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Taba bisher nicht möglich gewesen sein, machen Sie bitte die Angabe „War aktuell nicht möglich“.  Eine Angabe in diesen Feldern führt nicht zum Ausschluss des Patienten aus dem Programm.   **Empfehlung zum körperlichen Training ausgesprochen**  Genau eine Angabe ist erforderlich. Körperliches Training führt in der Regel zu einer Verringerung der COPD-Symptomatik und der Exazerbationsrate, zur Besserung der Belastbarkeit und kann zur Verbesserung der Lebensqualität oder Verringerung der Morbidität beitragen. Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von körperlichen Aktivitäten motivieren (z. B. im Rahmen ambulanter Rehabilitations- und Funktionssportgruppen, wie z. B. „Lungensportgruppen“). Ein empfohlen werden.  Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) eine Empfehlung zum körperlichen Training ausgesprochen haben, geben Sie dies bitte hier mit „Ja“ an. Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte hier mit „Nein“ an.
+Wenn Sie bereits zuvor eine Teilnahme an einem Tabakentwöhnungsprogramm empfohlen haben,  diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Empfehlung bitte erneut aus und  kreuzen hier „Ja“ an.   Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.   Sofern Sie  geeignete Tabakentwöhnungsprogramme  praevention.de oder auch direkt über die Internetseiten der Krankenkassen.  Eine Angabe in diesen Feldern führt nicht zum Ausschluss des Patienten aus dem Programm.    **An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen**  Genau eine  Folgedokumentation möglich und hier verpflichtend.  Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat  und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt  ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Taba bisher nicht möglich gewesen sein, machen Sie bitte die Angabe „War aktuell nicht möglich“.   Eine Angabe in diesen Feldern führt nicht zum Ausschluss des Patienten aus dem Programm.    **Empfehlung zum körperlichen Training ausgesprochen**  Genau eine Angabe ist erforderlich.  Körperliches Training führt in der Regel zu einer Verringerung der COPD-Symptomatik und der  Exazerbationsrate, zur Besserung der Belastbarkeit und kann zur Verbesserung der Lebensqualität  oder Verringerung der Morbidität beitragen.  Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von  körperlichen Aktivitäten  motivieren (z. B. im Rahmen ambulanter Rehabilitations- und Funktionssportgruppen, wie z. B.  „Lungensportgruppen“). Ein  empfohlen werden.   Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) eine Empfehlung zum körperlichen  Training ausgesprochen haben, geben Sie dies bitte hier mit „Ja“ an.  Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte hier mit „Nein“ an.
 
 Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
 
@@ -163,30 +192,30 @@ nicht
 
 Angabe
 
-selbereinzertifiziertes
+selber ein zertifiziertes
 
-istbeiallenaktiven
+ist bei allen
 
-hinweisenund
+hinweisen
 
 regelmäßiges,
 
-Tabakentwöhnungsprogrammanbieten,finden z.B.imInternetunterwww.zentrale-pruefstelle-
+aktiven
 
-RauchernerforderlichundnurimRahmen
+und
+
+Tabakentwöhnungsprogramm anbieten, finden  z. B. im Internet unter www .zentrale-pruefstelle-
+
+Rauchern erforderlich und nur im Rahmen
 
 kentwöhnungsprogramm
 
-zurTeilnahmeangeeignetenTrainingsmaßnahmen
+zur Teilnahme an geeigneten Trainingsmaßnahmen
 
-mindestenseinmalwöchentliches
+mindestens einmal wöchentliches Training
 
 Sie
 
 einer
 
-Training
-
-6
-
-soll
+soll 6

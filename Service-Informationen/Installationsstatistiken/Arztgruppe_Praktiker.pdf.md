@@ -1,152 +1,140 @@
-135**EL - Elaphe Longissima**
-
-060**Data-AL**
-
-086**DURIA**
-
-498**T2med**
-
-210**Medical Office**
-
-252**CGM M1 PRO**
-
-244**QUINCY WIN**
-
-243**x.concept**
-
-462**medatixx**
-
-203**ALBIS**
-
-280**CGM MEDISTAR BLACK PRO**
-
-216**x.isynet**
-
-266**x.comfort**
-
-112**TURBOMED**
-
-**Id****Praxissoftware**
-
-**Datenstand: 31.03.2025** **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser**
-
 ### TOP 20 Systeme - Praktiker
+
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 30.06.2025**
+
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2 025 | Differenz |
+|---|---|---|---|---|---|
+
+112 **TURBOMED**
+
+266 **x.comfort**
+
+216 **x.isynet**
+
+280 **CGM MEDISTAR BLACK PRO**
+
+203 **ALBIS**
+
+462 **medatixx**
+
+243 **x.concept**
+
+244 **QUINCY WIN**
+
+252 **CGM M1 PRO**
+
+210 **Medical Office**
+
+498 **T2med**
+
+086 **DURIA**
+
+060 **Data-AL**
+
+135 **EL - Elaphe Longissima**
+
+CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
 
-Data-AL GmbH
-
-Duria eG
-
-T2med GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
+medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
 
 Frey ADV GmbH
 
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
-
 CompuGroup Medical Deutschland AG
 
-CompuGroup Medical Deutschland AG
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+T2med GmbH & Co. KG
+
+Duria eG
+
+Data-AL GmbH
 
 medatixx GmbH & Co. KG
 
-medatixx GmbH & Co. KG
+**Fachgruppe mit den höchsten Installationszahlen.**
 
-CompuGroup Medical Deutschland AG
+205
 
-**Anbieter**
+185
 
-1
+171
 
-42
+166
 
-53
+126
 
-62
+109
 
-63
-
-76
-
-79
+99
 
 84
 
-98
+77
 
-107
+72
 
-129
+60
 
-168
+60
 
-179
+51
 
-194
+42
 
-220
+1
 
-**Installationen 1.Q.2025**
+220-15
 
-**Fach****gruppe mit den höchsten Installationszahlen.**
+194-9
 
-43-1
+179-8
 
-57-4
+168-2
 
-63-1
+129-3
 
-603
+1072
 
-77-1
+981
 
-81-2
+840
 
-93-9
+79-2
 
-107-9
+76-4
 
-1070
+63-3
 
-139-10
+62-2
 
-174-6
+53-2
 
-188-9
-
-211-17
-
-227-7
-
-**Installationen 4.Q.2****024****Differenz**
+420
 
 
 ---
 
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
 
+348 **psyprax**psyprax GmbH3133-2
 
+078 **Med7**Bitron GmbH Technologiesysteme25232
 
+081 **Arztpraxis Wiegand**APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH 2425-1
 
----
+457 **tomedo**Zolsoft GmbH24231
 
-261**S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender1924-5
+083 **PegaMed**PEGA Elektronik GmbH21210
 
-083**PegaMed**PEGA Elektronik GmbH2126-5
-
-078**Med7**Bitron GmbH Technologiesysteme2326-3
-
-457**tomedo**Zolsoft GmbH23230
-
-081**Arztpraxis Wiegand**APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH2526-1
-
-348**psyprax**psyprax GmbH3334-1
-
-**Id****Praxissoftware****Anbieter****Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
-
-2
+261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender19190 2

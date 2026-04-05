@@ -7,67 +7,70 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 1.08  DOKUMENTENSTATUS: IN |
 |---|---|
 
-# PRUEFPAKET
-
-# QS-
+# PRUEFPAKET QS-
 
 # KAPSELENDOSKOPIE
 
-## [KBV_ITA_AHEX_PRUEFP
+## [KBV_ITA_AHEX_PRUEFPAKET_QSKE]
 
-## AKET
+Seite 1 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
-_
-
-## QS
-
-## KE
-
-]
-
-Seite 1 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 /  12. August 2021
-
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 
 ---
 
 ## INHALT
 
-**1**ALLGEMEINES**5**
+| 1 |  | ALLGEMEINES |  | 5 |
+|---|---|---|---|---|
+| 1.1 |  | Rechtsgrundlage |  | 5 |
+| 1.2 |  | Zertifizierungsablauf |  | 5 |
+| 1.3 |  | Zertifizierungsportal |  | 6 |
+| 1.4 |  | Zertifizierungsdokumente | | 6 |
+| 1.5 |  | Prüfunterlagen |  | 6 |
+| 1.6 |  | Prüfvorgaben |  | 7 |
+|  | 1.6.1 |  | Prüfstammdaten | 7 |
+|  | 1.6.2 | Praxisdaten/ | Arztstempel | 8 |
 
-1.1Rechtsgrundlage51.2Zertifizierungsablauf51.3Zertifizierungsportal61.4Zertifizierungsdokumente61.5Prüfunterlagen61.6Prüfvorgaben71.6.1Prüfstammdaten71.6.2Praxisdaten/ Arztstempel8**2**PRÜFFÄLLE**9**
+| 2 |  | PRÜFFÄLLE | 9 |
+|---|---|---|---|
+| 2.1 | Prüffall | 1 | 9 |
+| 2.2 | Prüffall | 2 | 11 |
+| 2.3 | Prüffall | 3 | 14 |
 
-2.1Prüffall 192.2Prüffall 2112.3Prüffall 314**3**REFERENZIERTE DOKUME**NTE****15**
+**3 REFERENZIERTE DOKUMENTE 15**
 
-Seite 2 von 15 / KBV / Pruefpaket QS-  Kapselendoskopie / Version: 1.08 / 12. August 2021
+Seite 2 von 15 / KBV / Pruefpaket QS- Kapselendoskopie /
+
+Version: 1.08 / 12. August 2021
+
+Praxisdaten/ Arztstempel Prüffall 1 Prüffall 2 Prüffall 3
 
 
 ---
 
-## ABBILDUNGSVERZEICHNI
+|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |
+|---|---|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische | Verzeichnisstruktur | für | die | Zertifizierung |
+| Seite 3 | von 15 / KBV | / Pruefpaket | QS- Kapselendoskopie | / Version: | 1.08 / | 12. August 2021 |
 
-S
+7
 
-Abbildung 1:Exemplarische Verzeichnisstruktur für die Zertifizierung7
-
-Seite 3 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 /  12. August 2021
-
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Seite 3 von 15  /  KBV  /  Pruefpaket QS- Kapselendoskopie  /  Version: 1.08  /  12. August 2021
 
 ---
 
-D
-
-## OKUMENTENH
-
-## ISTORIE
+## DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.08 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
-| 1. | 2 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
-| 1. |  | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
+| 1.07 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
+| 1.06 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Seite 4 von 15 / KBV / Pruefpaket QS- Kapselendoskopie  / Version: 1.08 / 12. August 2021
+Seite 4 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Layouts Corporate Design auf Zertifizierung Zertifizierungsportals des Prüfpaketes  Zertifizierungsrichtlinie
 
 ---
 
@@ -75,42 +78,82 @@ Seite 4 von 15 / KBV / Pruefpaket QS- Kapselendoskopie  / Version: 1.08 / 12. Au
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung einesZertifizierungsgegenstandes im Bereich derQualitätssicherung „Kapselendoskopie“.Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet denRahmen der Zertifizierung und ist zu beachten.Des Weiteren könnendem Antrag auf Zertifizierungneben Zertifizierungskosten und Laufzeit der Zulassungweitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.**1.1****RECHTSGRUNDLAGE**Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGBV für die Dünndarm-Kapselendoskopie zur Abklärung obskurer gastrointestinaler Blutungen“.**1.2****ZERTIFIZIERU****NGSABLAUF**Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einerErgebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:1.Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren.NachEinleitung des Prüfvorganges wird im Zertifizierungsportalder Antrag auf Zertifizierungmit den der KBVbisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt undunterschrieben alsPDF-Dokument eingescannt über dasZertifizierungsportal bei der KBV eingereichtwerden.Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst denAntrag auf Zertifizierung eingescannt per Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt derZugangsdatenkannderPrüfvorgang im Zertifizierungsportal initiiertund den vorab viaE-Maileingereichten Antrag auf Zertifizierungdorthochgeladenwerden.2.Eine Verzeichnis-bzw. Ordnerstruktur mit den erstelltenund für die Zertifizierung erforderlichenPrüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alleUnterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals alsfehlerfrei erkannt wurden, erfolgt eine manuelle Prüfungdurch das Referat Zertifizierung.3.Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsstellermit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.BeiVorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.4.Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichtenUnterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochenwerden.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Qualitätssicherung „Kapselendoskopie“.
+
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+**1.1 RECHTSGRUNDLAGE**
+
+Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V für die Dünndarm-Kapselendoskopie zur Abklärung obskurer gastrointestinaler Blutungen“.
+
+**1.2 ZERTIFIZIERUNGSABLAUF**
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheitdes Antrages auf Zertifizierungbei der KBV oder desFehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochendie Prüfunterlagen vorliegen.Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 Seite 5 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 
 ---
 
-1.3**ZERTIFIZIERUNGSPORTA**LDas Zertifizierungsportal ist über[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)zu erreichen.Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer darananschließenden manuellen Prüfung.Die Zugangsdaten können direkt über das Portal oder perE-Mail an[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)unter Angabe derSystem-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bittebeachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert undden Antrag aufZertifizierunghochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten derZertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.Alle erforderlichenPrüfunterlagensind für die Zertifizierung zu übermitteln. Vor jedem Upload imZertifizierungsportal muss die komplette vorgegebeneVerzeichnisstrukturzusammen mit den erstelltenPrüfunterlagen in Form einer ZIP-Datei archiviert werden.Die in das Portal integrierte Prüfautomatisierung führtnebeneinerinhaltlichen Prüfung aucheine Prüfungauf Vollständigkeit der eingereichten Prüfunterlagen durch.Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird derAntragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehlerzu beheben bzw. die Lieferung zu vervollständigen.Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechendeFehlermeldungsbenachrichtigungen (sogenannteLog-Dateien im HTML-oder XML-Format) erzeugt unddem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständigeund fehlerfrei eingereichteLieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfreierkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden dieAntragsstelleraufgefordert, eine Korrekturlieferung hochzuladen.1.4**ZERTIFIZIERUNGSDOKUM**ENTEAlle erforderlichen Unterlagen stehen im Internet zum Download unterITA-Updatebereit.In diesemZusammenhang berücksichtigen Sie bitte das KapitelReferenzierte Dokumente.1.5**PRÜFUNTERLAGEN**Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:›Zwei Jahresstatistiken (XML-Dateien), welche in entsprechender Ordnerstruktur in jeweils eine eigeneArchivdatei (*.zip.XKM) verschlüsselt wurden.Die Vorgaben für die Bildung der Dateinamen, dieVerzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:[KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBVvorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (sieheKapitel1.3)hochgeladen und geprüft werden.›Die geforderten Screenshots werden in einem gesonderten Ordner erwartet. Bitte speichern Sie jedenScreenshot in einer pdf-Datei mit folgender Namenskonvention:Screenshot_P_K.pdfWobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beispielsweise lautet der Dateiname fürKonstellation 3 aus Prüffall 2 „Screenshot_2_3.pdf“. Sollte es keine Konstellation in diesem Prüffall
+1.3 ZERTIFIZIERUNGSPORTAL
+
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
+
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+
+1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+
+1.5 PRÜFUNTERLAGEN
+
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   › Zwei Jahresstatistiken (XML-Dateien), welche in entsprechender Ordnerstruktur in jeweils eine eigene  Archivdatei (*.zip.XKM) verschlüsselt wurden. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV  vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe  Kapitel 1.3) hochgeladen und geprüft werden.   › Die geforderten Screenshots werden in einem gesonderten Ordner erwartet. Bitte speichern Sie jeden  Screenshot in einer pdf-Datei mit folgender Namenskonvention:  Screenshot_P_K.pdf  Wobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beispielsweise lautet der Dateiname für  Konstellation 3 aus Prüffall 2 „Screenshot_2_3.pdf“. Sollte es keine Konstellation in diesem Prüffall
 
 Seite 6 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 
 ---
 
-geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte Dateiname bei Prüffall 3„Screenshot_3.pdf“.Diese werden durch den Prüfer begutachtet.›Die Archivdateien müssen um die KV-Connect-Begleitdatei ergänzt werden.Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, bei den abgebildetenDateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM-Dateien nur beispielhaft›Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“)sind in einem zip-Archiv zuübermitteln. DieDokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen undnicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip-Archiv muss wie folgt benannt werden:Zert_60_*SystemID*.zipDie SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte Dateiname bei Prüffall 3  „Screenshot_3.pdf“. Diese werden durch den Prüfer begutachtet.   › Die Archivdateien müssen um die KV-Connect-Begleitdatei ergänzt werden.   Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, bei den abgebildeten  Dateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM- Dateien nur beispielhaft   › Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip-  Archiv muss wie folgt benannt werden:   Zert_60_ SystemID.zip   Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-Abbildung1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-**1.6****PRÜFVORGABEN**Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigenUnterlagen unter Verwendung desjeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.**1.6.1****Prüfstammdaten**Für die Zertifizierung müssen die für die Prüfung speziell entwickeltenPrüfstammdateienverwendetwerden. Zur eindeutigen UnterscheidungderDaten für den Echtbetrieb wird die Dateinamenserweiterungbzw. der Dateiname mit „PRF” gekennzeichnet.
+**1.6 PRÜFVORGABEN**
+
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+
+**1.6.1 Prüfstammdaten**
+
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 Seite 7 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 
 ---
 
+**1.6.2 Praxisdaten/ Arztstempel**
 
-
-
-
----
-
-**1.6.2****Praxisdaten/ Arzt****stempel**Folgende Angaben sind für die Zertifizierung zu verwenden:
+Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -126,38 +169,39 @@ Seite 7 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Aug
 
 Seite 8 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Urologe
 
 ---
 
-| TABELLE 1 - JAHRESSTATISTIK 2014 |
-|---|
-| 1 Anzahl Kapselendoskopien |
+| TABELLE 1 - JAHRESSTATISTIK 2014 | |
+|---|---|
+| 1 Anzahl Kapselendoskopien | |
 | Anzahl Erstuntersuchungen | 16 |
 | Anzahl Wiederholungsuntersuchungen | 5 |
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation |
+| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
 | Nicht zutreffend | 7 |
 | Kapselendoskopien mit Auslassung | 11 |
 | Kapselendoskopien ohne Auslassung | 3 |
-| 3 Auswertung der Kapselendoskopie |
+| 3 Auswertung der Kapselendoskopie | |
 | Selbst ausgewertete | 18 |
 | Auswertung durch anderen Arzt | 3 |
-| 4 Befundklassifikation |
+| 4 Befundklassifikation | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 6 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
-| 5 Beurteilbarkeit des Bildmaterials |
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 1 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
-| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) |
+| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) | |
 | Anzahl vollständiger Untersuchungen | 15 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 2 |
-| 2 2.1 |
+| 2 2.1 | |
 |  |  |
 |  |  |
 |  | Prüffall-ID |
-| 1 |
+| 1 | |
 | Testziel | Erstellen Sie eine Jahresstatistik |
 
 |  |  |
@@ -170,74 +214,76 @@ Seite 8 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Aug
 
 Seite 9 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+(zur Übermittlung an die Datenannahmestelle ) gemäß Tabelle 1 0.03.2015  PRÜFFÄLLE PRÜFFALL 1
 
 ---
 
-|  |
-|---|
-|  |
+|  | |
+|---|---|
+|  | |
 |  |  |
 |  |  |
-|  |
-|  |  |
-|  |  |
-|  |  |
-|  |
-|  |  |
-|  |  |
-|  |
-|  |  |
-|  |  |
-|  |
+|  | |
 |  |  |
 |  |  |
 |  |  |
-|  |
+|  | |
+|  |  |
+|  |  |
+|  | |
+|  |  |
+|  |  |
+|  | |
+|  |  |
+|  |  |
+|  |  |
+|  | |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-| TABELLE 1 - JAHRESSTATISTIK 2014 |
+| TABELLE 1 - JAHRESSTATISTIK 2014 | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 2 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
-| 7 Empfehlungen zur Wiederholungsuntersuchung |
+| 7 Empfehlungen zur Wiederholungsuntersuchung | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 10 |
 
 Seite 10 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+und 6
 
 ---
 
-| KONSTELLATION |
-|---|
-| 1 Anzahl Kapselendoskopien |
+| KONSTELLATION | |
+|---|---|
+| 1 Anzahl Kapselendoskopien | |
 | Anzahl Erstuntersuchungen | 0 |
 | Anzahl Wiederholungsuntersuchungen | 0 |
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation |
+| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
 | Nicht zutreffend | 0 |
 | Kapselendoskopien mit Auslassung | 0 |
 | Kapselendoskopien ohne Auslassung | 0 |
-| 3 Auswertung der Kapselendoskopie |
+| 3 Auswertung der Kapselendoskopie | |
 | Selbst ausgewertete Kapselendoskopie | 0 |
 | Auswertung durch anderen Arzt | 0 |
-| 4 Befundklassifikation |
+| 4 Befundklassifikation | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 0 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 0 |
-| 5 Beurteilbarkeit des Bildmaterials |
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
-| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) |
+| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) | |
 | Anzahl vollständiger Untersuchungen | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 0 |
-| 2.2 |
+| 2.2 | |
 |  |  |
 |  |  |
 |  | Prüffall-ID |
 | 2 | Testziel |
 | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die | KBV_ITA_VGEX_Plausi_QSKE |
-| ) erkannt werden müssen. |
+| ) erkannt werden müssen. | |
 | Voraussetzung | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
 
 |  |  |
@@ -250,64 +296,65 @@ Seite 10 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Au
 
 Seite 11 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2
 
 ---
 
-| 7 Kapselendoskopien mit Auslassung |
-|---|
-| Kapselendoskopien ohne Auslassung |
+| 7 Kapselendoskopien mit Auslassung | |
+|---|---|
+| Kapselendoskopien ohne Auslassung | |
 | 4 |  |
 |  | KONSTELLATION 3 |
-|  |
+|  | |
 | 3 Auswertung der Kapselendoskopie | Selbst ausgewertete Kapselendoskopie |
 | 18 | Auswertung durch anderen Arzt |
 | 2 |  |
-|  |
+|  | |
 | KONSTELLATION 4 |  |
 | 4 Befundklassifikation | Untersuchungen mit Nachweis einer Blutungsquelle |
-| 7 |
+| 7 | |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
 |  |  |
-| KONSTELLATION 5 |
+| KONSTELLATION 5 | |
 |  | 5 Beurteilbarkeit des Bildmaterials |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
-| Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht |
+| Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | |
 | 3 |  |
 |  |  |
-| KONSTELLATION |
+| KONSTELLATION | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
-| 7 Empfehlungen zur Wiederholungsuntersuchung |
+| 7 Empfehlungen zur Wiederholungsuntersuchung | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 0 |
 
 Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
-| KONSTELLATION 2 |
-|---|
-| 2 Auslassungsmöglichkeit blutungsfördernder Medikation |
+und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend 11 | KONSTELLATION 2 | |
+|---|---|
+| 2 Auslassungsmöglichkeit blutungsfördernder Medikation | |
 | Nicht zutreffend | 7 |
 | Kapselendoskopien mit Auslassung | 11 |
 | Kapselendoskopien ohne Auslassung | 4 |
 
-| KONSTELLATION 3 |
-|---|
-| 3 Auswertung der Kapselendoskopie |
+| KONSTELLATION 3 | |
+|---|---|
+| 3 Auswertung der Kapselendoskopie | |
 | Selbst ausgewertete Kapselendoskopie | 18 |
 | Auswertung durch anderen Arzt | 2 |
 
-| KONSTELLATION 4 |
-|---|
-| 4 Befundklassifikation |
+| KONSTELLATION 4 | |
+|---|---|
+| 4 Befundklassifikation | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 7 |
 | Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
 
-| KONSTELLATION 5 |
-|---|
-| 5 Beurteilbarkeit des Bildmaterials |
+| KONSTELLATION 5 | |
+|---|---|
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
@@ -315,16 +362,16 @@ Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Au
 
 ---
 
-| KONSTELLATION 6 |
-|---|
-| 5 Beurteilbarkeit des Bildmaterials |
+| KONSTELLATION 6 | |
+|---|---|
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
 
-| KONSTELLATION |
-|---|
-| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) |
+| KONSTELLATION | |
+|---|---|
+| 6 Status Vollständigkeit der Untersuchung (Zökum erreicht) | |
 | Anzahl vollständiger Untersuchungen | 15 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
@@ -333,43 +380,44 @@ Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Au
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 1 |
 
-| KONSTELLATION |
-|---|
-| 7 Empfehlungen zur Wiederholungsuntersuchung |
+| KONSTELLATION | |
+|---|---|
+| 7 Empfehlungen zur Wiederholungsuntersuchung | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 11 |
 
-| KONSTELLATION 9 |
-|---|
-| 5 Beurteilbarkeit des Bildmaterials |
+| KONSTELLATION 9 | |
+|---|---|
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien | 22 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
-| KONSTELLATION 10 |
-|---|
-| 5 Beurteilbarkeit des Bildmaterials |
+| KONSTELLATION 10 | |
+|---|---|
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 5 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
 Seite 13 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+7 8 und 6  mit nicht eingeschränkter Beurteilbarkeit
 
 ---
 
-| KONSTELLATION 11 |
-|---|
-| 5 Beurteilbarkeit des Bildmaterials |
+| KONSTELLATION 11 | |
+|---|---|
+| 5 Beurteilbarkeit des Bildmaterials | |
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 5 |
 
-| 7 EMPFEHLUNGEN ZUR W |
-|---|
-| 7 Empfehlungen zur Wiederholungsuntersuchung |
+| 7 EMPFEHLUNGEN ZUR W | |
+|---|---|
+| 7 Empfehlungen zur Wiederholungsuntersuchung | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 22 |
 
-2.3**PRÜFFALL**3
+2.3 PRÜFFALL 3
 
 |  |  |
 |---|---|
@@ -381,30 +429,37 @@ Seite 13 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. Au
 
 Seite 14 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+IEDERHOLUNGSUNTERSUC HUNG und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. aussetzung 0.06.2015  Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
 
 ---
 
 3
 
-## REFER
-
-## ENZIERTE
-
-## DOKUMENTE
+## REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_FMEX_AAZ_QSKE | Antrag auf Zertifizierung QSKE |
 | [KBV_ITA_RLEX_Zert ] | Zertifizierungsrichtlinie der KBV |
-| [ Austausch_von_XML ] | KBV_ITA_VGEX_XM |
-| [KBV_ITA_VGEX_Schnittstelle_QSKE ] | Schnittstell |
+| [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XM |
+| [KBV_ITA_VGEX_Schnittstelle_QSKE ] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten und Berechnungsvorschrift QS |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE ] | Anforderungskatalog |
-| [ KBV_ITA_AHEX_Ausfuellhinweise_QSKE ] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE ] | Ausfüllhinweise Qualitätssicherungsvereinbarung |
 | Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
-| KBV | KBV |
+| KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 
-**Ansprechpartner****:**Dezernat Digitalisierung und ITIT in der ArztpraxisTel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)Kassenärztliche BundesvereinigungHerbert-Lewin-Platz 2, 10623 Berlin[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de),www.kbv.de
+**Ansprechpartner:**
 
-Seite 15 von 15 / KBV / Pruefpaket QS- Kapselendoskopie /  Version: 1.08 / 12. August 2021
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 15 von 15 / KBV / Pruefpaket QS- Kapselendoskopie /
+
+Version: 1.08 / 12. August 2021
+
+L-Schnittstellen  - Austausch von XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie Testschlüssel

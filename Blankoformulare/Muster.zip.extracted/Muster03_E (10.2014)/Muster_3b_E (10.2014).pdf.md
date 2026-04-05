@@ -1,8 +1,8 @@
-| Krankenkasse bzw. Kostenträger | | | |
-| Name, Vorname des Versicherten | | | |
-| Kostenträgerkennung | Versicherten-Nr. | |  |
-|---|---|---|---|
-| Betriebsstätten-Nr. | Arzt-Nr. | Datum | |
+| Krankenkasse bzw. Kostenträger | | |
+| Name, Vorname des Versicherten | | |
+| Kostenträgerkennung | Versicherten-Nr. | |
+|---|---|---|
+| Betriebsstätten-Nr. | Arzt-Nr. | |
 
 **Hiermit bescheinige ich,** **dass die oben bezeichnete Versicherte** **voraussichtlich entbinden wird am**
 
@@ -20,4 +20,4 @@
 
 **PRF.NR.** **Muster 3b/E (10.2014)**
 
-**3**
+Kostenträgerkennung Versicherten-Nr. Datum geb. am**3**

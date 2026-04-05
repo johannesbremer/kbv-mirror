@@ -11,13 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-© Kassenärztliche Bundesvereinigung, Berlin 2018
-
-
----
-
-
-
+Arztverzeichnis-Stammdatei ] -Lewin-Platz 2 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
@@ -26,78 +20,62 @@
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.08 |  | KBV | AV • | Anpassung gemäß Anlage | 8  10  10  11 |
+| 1.08 | 01.02.2016 | KBV | AV-Stammsatz • | Anpassung gemäß Anlage | 8 10 10 11 |
 
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-1.08Seite2 13von
-
-
----
-
-
-
+Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnahme Kapitel 5.3  28 BMV-Ä Seite 2 13 von
 
 
 ---
 
 INHALTSVERZEICHNIS
 
-INHALTSVERZEICHNIS3
+INHALTSVERZEICHNIS 3
 
-1GRUNDSÄTZLICHE FESTLEGUNGEN4
+1 GRUNDSÄTZLICHE FESTLEGUNGEN 4
 
-1.1Zielsetzung.....................................................................................................................................4
+1.1 Zielsetzung ..................................................................................................................................... 4
 
-1.2Aufbau derAV-Stammdatei..........................................................................................................4
+1.2 Aufbau der AV-Stammdatei .......................................................................................................... 4
 
-1.3Dateiname der AV-Stammdatei....................................................................................................5
+1.3 Dateiname der AV -Stammdatei .................................................................................................... 5
 
-1.4Zeichensatztabelle ISO 8859 Latin 1............................................................................................5
+1.4 Zeichensatztabelle ISO 8859 Latin 1 ............................................................................................ 5 2 SATZTABELLE 6
 
-2SATZTABELLE6
+2.1 Definition der Satzart: AV -Headersatz “AVS0” .......................................................................... 7
 
-2.1Definition der Satzart: AV-Headersatz “AVS0”..........................................................................7
+2.2 Definition der Satzart: AV -Stammsatz “1450” ............................................................................ 7
 
-2.2Definition der Satzart: AV-Stammsatz “1450”............................................................................7
+2.3 Definition der Satzart: AV -Endesatz “AVS9” .............................................................................. 7 3 FELDTABELLE 8
 
-2.3Definition der Satzart: AV-Endesatz “AVS9”..............................................................................7
+3.1 Feldtabelle: AV -Stammdatei ......................................................................................................... 8 4 REGELTABELLE 9
 
-3FELDTABELLE8
+4.1 Regeltabelle: AV -Stammdatei .................................................................................................... 10 5 BESONDERE HINWEISE 11
 
-3.1Feldtabelle: AV-Stammdatei.........................................................................................................8
+5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR) .......................................................... 11
 
-4REGELTABELLE9
+5.2 Aufbau der (Neben- )Betriebsstättennummer ........................................................................... 11
 
-4.1Regeltabelle: AV-Stammdatei....................................................................................................10
+5.3 Aufbau der (Neben- )Betriebsstättennummer Terminservicestelle (Anlage 28 BMV -Ä) ....... 11
 
-5BESONDERE HINWEISE11
+5.4 Besondere Hinweise ................................................................................................................... 11
 
-5.1Aufbau der lebenslangen Vertragsarztnummer (LANR)..........................................................11
+5.4.1 Historische Betriebsstätten - und Arztnummern ................................ ................................ ... 11
 
-5.2Aufbau der (Neben-)Betriebsstättennummer...........................................................................11
+5.5 Erläuterungen zum systeminternen Feld (FK 9901) ................................................................ 12 6 SCHLUSSBEMERKUNGEN 13
 
-5.3Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle (Anlage 28 BMV-Ä).......11
+IT in der Arztpraxis Datensatzbeschreibung
 
-5.4Besondere Hinweise...................................................................................................................11 5.4.1Historische Betriebsstätten-und Arztnummern...................................................................11
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV
 
-5.5Erläuterungen zum systeminternen Feld (FK 9901)................................................................12
+Arztverzeichnis-Stammdatei
 
-6SCHLUSSBEMERKUNGEN13
+* Version* 1.08*
 
-IT in der ArztpraxisDatensatzbeschreibungArztverzeichnis-Stammdatei
-
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
-
-*1.08*Seite3 13von
-
-
----
-
-
-
+Seite 3 13 von
 
 
 ---
@@ -110,66 +88,99 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ### Zielsetzung
 
-Die vorliegende Satzbeschreibung geht aus der Datensatzbeschreibung mit Stand15.05.2000 (Versionsbezeichnung: SDAV0499.02) hervor. Aus datenschutzrechtlichenGründen wurden die persönlichen und adressbezogenen Daten eliminiert.Die Arztverzeichnisstammdatei dient der QualitätssteigerungvonAbrechnungsdaten. Speziellbei der Abrechnung von Überweisungenist die SDAVin das KBV-Prüfmoduleingebundenund führt eineExistenzprüfungder Betriebsstätten-und Überweiserarztnummern durch.Die Datei wird in der KBV anhand des Bundesarztregisters erzeugt und enthält dieBetriebsstätten-und Arztnummernder zu einem Stichtag zur vertragsärztlichen Abrechnungberechtigten Personen und Einrichtungen,einschließlichder letzten acht Quartaleabrechnungsberechtigt waren.
+Die vorliegende Satzbeschreibung geht aus der Datensatzbeschreibung mit Stand  15.05.2000 (Versionsbezeichnung: SDAV0499.02) hervor. Aus datenschutzrechtlichen  Gründen wurden die persönlichen und adressbezogenen Daten eliminiert.
+
+Die Arztverzeichnisstammdatei dient der Qualitätssteigerung von Abrechnungsdaten. Speziell  bei der Abrechnung von Überweisungen ist die SDAV in das KBV-Prüfmodul eingebunden  und führt eine Existenzprüfung der Betriebsstätten- und Überweiserarztnummern durch.
+
+Die Datei wird in der KBV anhand des Bundesarztregisters erzeugt und enthält die  Betriebsstätten- und Arztnummern der zu einem Stichtag zur vertragsärztlichen Abrechnung  berechtigten Personen und Einrichtungen, einschließlich der letzten acht Quartale  abrechnungsberechtigt waren.
 
 ### 1.2
 
-### Aufbau der AV
+### Aufbau der AV-Stammdatei
 
-**-**
+Eine AV-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)  klassifiziert sind: - AV-Headersatz (SA AVS0)
 
-### Stammdatei
+- AV-Stammsatz (SA 1450)
 
-Eine AV-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)klassifiziert sind:•AV-Headersatz (SA AVS0)•AV-Stammsatz (SA 1450)•AV-Endesatz (SA AVS9)Eine AV-Stammdatei beginnt mit einem AV-Headersatz und endet mit einem AV-Endesatz,dazwischen können eine beliebige Anzahl AV-Stammsätze auftreten.Ein Satz ist unterteilt in Felder, die die kleinsteEinheit einer Arzt-Stammdatei bilden. Ein Feldbesteht aus•der Feldlängenangabe(3 Bytes)•der Feldkennung (FK)(4 Bytes)•dem eigentlichen Feldinhalt(variabel)•Feldendemarkierung (CR, LF)(2 Bytes)Demzufolge ergibt sich für die Längenberechnung eines Feldes:**Feldinhalt + 9**Bytes
+- AV- Endesatz (SA AVS9)
 
-Anmerkung:Die Reihenfolge derBetriebsstätten-/Arztnummernergibt sich aus einem Zeichenkettenvergleich der Nummern,**nicht**durch einen numerischen Vergleich. Hierdurchwird insbesondere dem Umstand Rechnung getragen, dassBetriebsstätten-/Arztnummernführende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass dieDatensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die erstenbeiden Stellen derBetriebsstättennummer diese Kennung darstellen.
+Eine AV-Stammdatei beginnt mit einem AV-Headersatz und endet mit einem AV-Endesatz,  dazwischen können eine beliebige Anzahl AV- Stammsätze auftreten.
 
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
+Ein Satz ist unterteilt in Felder, die die kleinste Einheit einer Arzt-Stammdatei bilden. Ein Feld  besteht aus
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+- der Feldlängenangabe (3 Bytes)
 
-1.08Seite4 13von
+- der Feldkennung (FK) (4 Bytes)
 
+- dem eigentlichen Feldinhalt (variabel)
 
----
+- Feldendemarkierung (CR, LF) (2 Bytes)
 
+Demzufolge ergibt sich für die Längenberechnung eines Feldes:
 
+**Feldinhalt + 9**Bytes
 
+Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, nichtdurch einen numerischen Vergleich. Hierdurch   wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
----
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-### 1.3
-
-### Dateiname der AV
-
--
-
-### Stammdatei
-
-Es gilt folgende Struktur für die Dateinamensbildung:
-
-n n n n a a _ v . q j jwobei die Zeichen als Platzhalter fungieren:nnnn:Name der Datei, SDAV für Stammdatei-Arztverzeichnisaa:Absender, 74 für KBVv:Version der Datenlieferung innerhalb eines Quartalsq:Quartaljj:2-stellige Jahresangabe
-
-Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.:SDAV74_1.304
-
-### 1.4
-
-### Zeichensatztabelle ISO 8859 Latin 1
-
-+-----+--------------------------+--------------------------+-----+| | 0 1 2 3 4 5 6 7 | 8 9 A B C D E F | |+-----+--------------------------+--------------------------+-----+| 0 | 0 @ P ` p |° À Ð à ð | 0 || 1 | ! 1 A Q a q | ¡ ± Á Ñ á ñ | 1 || 2 | " 2 B R b r | ¢ ² Â Ò â ò | 2 || 3 | # 3 C S c s | £ ³ Ã Ó ã ó | 3 || 4 | $ 4 D T d t | ¤ ´ Ä Ô ä ô | 4 || 5 | % 5 E U e u | ¥ µ Å Õ å õ | 5 || 6 | & 6 F V f v | ¦ ¶ Æ Ö æ ö | 6 || 7 | ' 7 G W g w | § · Ç × ç ÷ | 7 || 8 | ( 8 H X h x | ¨ ¸ È Ø è ø | 8 || 9| ) 9 I Y i y | © ¹ É Ù é ù | 9 || A | * : J Z j z | ª º Ê Ú ê ú | A || B | + ; K [ k { | « » Ë Û ë û | B || C | , < L \l | | ¬ ¼ Ì Ü ì ü | C || D | -= M ] m } | ½ Í Ý í ý | D || E | . > N ^ n ~ | ® ¾ Î Þ î þ | E || F | / ? O _ o | ¯ ¿ Ï ß ï ÿ | F |+-----+--------------------------+--------------------------+-----+| | 0 1 2 3 4 5 6 7 | 8 9 A B C D E F | |+-----+--------------------------+--------------------------+-----+Quelle:[http://www.uni-](http://www.uni-)muenster.de/inform/syzisoDie Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen,PositionA0 das feste Leerzeichen und AD den Silbentrennstrich.
-
-IT in der ArztpraxisDatensatzbeschreibungArztverzeichnis-Stammdatei
-
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
-
-*1.08*Seite5 13von
+Seite 4 13 von
 
 
 ---
 
+| 1.3 |  | Dateiname | der | AV |  | -Stammdatei |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Es gilt | folgende | Struktur | für die |  | Dateinamensbildung: | |  |  |  |  |
+| n n n n | a a _ v . q | j j |  |  |  |  |  |  |  |  |
+| wobei | die Zeichen | als | Platzhalter | fungieren: |  |  |  |  |  |  |
+| nnnn: | Name | der Datei, | SDAV | für Stammdatei |  | -Arztverzeichnis |  |  |  |  |
+| aa: | Absender, | 74 | für KBV |  |  |  |  |  |  |  |
+| v: | Version | der | Datenlieferung | innerhalb | eines | Quartals |  |  |  |  |
+| q: | Quartal |  |  |  |  |  |  |  |  |  |
+| jj: | 2-stellige |  | Jahresangabe |  |  |  |  |  |  |  |
+| Für die | erste | Lieferung | des | Quartals | 3/04 ergibt | sich also | z.B.: |  |  |  |
+|  | SDAV74_1.304 | |  |  |  |  |  |  |  |  |
+| 1.4 |  |  | Zeichensatztabelle | | ISO | 8859 | Latin 1 |  |  |  |
+| +-----+ |  |  | --------------------------+ | |  |  | --------------------------+ | |  | -----+ |
+| \| \| 0 | 1 2 3 | 4 5 6 | 7 \| 8 | 9 A B | C D E | F \| \| |  |  |  |  |
+| +-----+ |  |  | --------------------------+ | |  |  | --------------------------+ | |  | -----+ |
+| \| 0 \| | 0 | @ P ` | p \| |  |  |  | ° | À Ð à ð | \| 0 \| |  |
+| \| 1 \| | ! 1 | A Q a | q \| | ¡ ± Á | Ñ á ñ | \| 1 \| |  |  |  |  |
+| \| 2 \| | " 2 | B R b | r \| | ¢ ² Â | Ò â ò | \| 2 \| |  |  |  |  |
+| \| 3 \| | # 3 | C S c | s \| | £ ³ Ã | Ó ã ó | \| 3 \| |  |  |  |  |
+| \| 4 \| | $ 4 | D T d | t \| | ¤ ´ Ä | Ô ä ô | \| 4 \| |  |  |  |  |
+| \| 5 \| | % 5 | E U | e u \| | ¥ µ | Å Õ å õ | \| 5 \| |  |  |  |  |
+| \| 6 \| | & 6 | F V | f v \| | ¦ ¶ | Æ Ö æ ö | \| 6 \| |  |  |  |  |
+| \| 7 \| | ' 7 | G W g | w \| | § · Ç | × ç ÷ | \| 7 \| |  |  |  |  |
+| \| 8 \| | ( 8 | H X h | x \| | ¨ ¸ È | Ø è ø | \| 8 \| |  |  |  |  |
+| \| 9 | \| | ) 9 I | Y i y | \| © | ¹ É Ù | é ù \| 9 \| |  |  |  |  |
+| \| A \| | * : | J Z j | z \| | ª º Ê | Ú ê ú \| | A \| |  |  |  |  |
+| \| B \| | + ; | K [ k | { \| | « » Ë | Û ë û | \| B \| |  |  |  |  |
+| \| C \| | , < | L \ |  |  | l \| \| | ¬ ¼ Ì | Ü ì ü \| C \| |  |  |  |
+| \| D \| | - |  | = M | ] m } | \| | ½ Í Ý í | ý \| D \| |  |  |  |
+| \| E \| | . > | N ^ n | ~ \| | ® ¾ Î | Þ î þ | \| E \| |  |  |  |  |
+| \| F \| | / ? | O _ o | \| | ¯ ¿ Ï ß | ï ÿ \| | F \| |  |  |  |  |
+| +-----+ |  |  | --------------------------+ | |  |  | --------------------------+ | |  | -----+ |
+| \| \| 0 | 1 2 3 | 4 5 6 | 7 \| 8 | 9 A B | C D E | F \| \| |  |  |  |  |
+| +-----+ |  |  | --------------------------+ | |  |  | --------------------------+ | |  | -----+ |
+| Quelle: |  |  |  |  |  |  |  |  |  |  |
+|  | http://www.uni- |  |  | muenster.de/inform/syziso | |  |  |  |  |  |
+| Die | Spalten 0, | 1, 8 und | 9 sowie | Position | 7F | enthalten | Steuerzeichen, |  |  |  |
+| Position |  |  |  |  |  |  |  |  |  |  |
+| A0 das | feste | Leerzeichen | und | AD den |  | Silbentrennstrich. |  |  |  |  |
 
+IT in der Arztpraxis Datensatzbeschreibung
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV
+
+Arztverzeichnis-Stammdatei
+
+* Version* 1.08*
+
+Dateiname der AV Es gilt folgende Struktur für die Dateinamensbildung: n n n n a a _ v . q j j wobei die Zeichen als Platzhalter fungieren: Name der Datei, SDAV für Stammdatei Absender, 74 für KBV Version der Datenlieferung innerhalb eines Quartals 2-stellige Jahresangabe Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.: Zeichensatztabelle ISO 8859 Latin 1 |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | |  0  |           0  @  P  `  p  |           °  À  Ð  à  ð  |  0  | |  1  |        !  1  A  Q  a  q  |        ¡  ±  Á  Ñ  á  ñ  |  1  | |  2  |        "  2  B  R  b  r  |        ¢  ²  Â  Ò  â  ò  |  2  | |  3  |        #  3  C  S  c  s  |        £  ³  Ã  Ó  ã  ó  |  3  | |  4  |        $  4  D  T  d  t  |        ¤  ´  Ä  Ô  ä  ô  |  4  | |  5  |        %  5  E  U  e  u  |        ¥  µ  Å  Õ  å  õ  |  5  | |  6  |        &  6  F  V  f  v  |        ¦  ¶  Æ  Ö  æ  ö  |  6  | |  7  |        '  7  G  W  g  w  |        §  ·  Ç  ×  ç  ÷  |  7  | |  8  |        (  8  H  X  h  x  |        ¨  ¸  È  Ø  è  ø  |  8  | |  9  |        )  9  I  Y  i  y  |        ©  ¹  É  Ù  é  ù  |  9  | |  A  |        *  :  J  Z  j  z  |        ª  º  Ê  Ú  ê  ú  |  A  | |  B  |        +  ;  K  [  k  {  |        «  »  Ë  Û  ë  û  |  B  | |  C  |        ,  <  L  \   l  |  |        ¬  ¼  Ì  Ü  ì  ü  |  C  | |  D  |        -   =  M  ]  m  }  |           ½  Í  Ý  í  ý  |  D  | |  E  |        .  >  N  ^  n  ~  |        ®  ¾  Î  Þ  î  þ  |  E  | |  F  |        /  ?  O  _  o     |        ¯  ¿  Ï  ß  ï  ÿ  |  F  | |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen, A0 das feste Leerzeichen und AD den Silbentrennstrich. Seite 5 13 von
 
 
 ---
@@ -178,7 +189,11 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ## Satztabelle
 
-In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und dieAnordnung der Felder innerhalb eines Satzes festgelegt wird.Die Häufigkeit des Feldes wird in der SpalteVorkommenangegeben, wobei die Angabe ndiejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wirdin der SpalteVorkommenjedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftretendes Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenesFeld, welches in der übergeordneten Hierarchiestufe referenziert wird.Beispiel:
+In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und die  Anordnung der Felder innerhalb eines Satzes festgelegt wir d.
+
+Die Häufigkeit des Feldes wird in der Spalte Vorkommen angegeben, wobei die Angabe n  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+
+Beispiel:
 
 | ... | FK | Vorkommen | ... |  |
 |---|---|---|---|---|
@@ -194,34 +209,46 @@ In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorko
 |  | ... |  | ... |  |
 |  | 0429 | 1 | ... | Feld 0429 kann einmal je Feld 0420 vorkommen |
 
-In der SpalteFeldartwird angegeben, ob ein Feld in einem Satz vorhanden sein muß odernicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in derSpalteBedingungnäher spezifiziert werden).FolgendeFeldartenwerden unterschieden:M = unbedingtes MussfeldEin unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der SpalteVorkommenein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss diesesFeld mindestens einmal in dem Satz vorkommen.m = bedingtes MussfeldBei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.SpalteBedingungen) oder an das Auftreten eines referenzierten Feldes auf einerübergeordneten Hierarchiestufe (s. SpalteVorkommen) gebunden. Ein bedingtesMussfeld muss in einem Satz vorhanden sein, wenn entweder in der SpalteBedingungein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneteHierarchiestufe (s. SpalteVorkommen) referenzierte Feld existiert.K = KannfeldEin Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerleiBedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis überdas Vorhandensein der Informationen-im Gegensatz zu bedingten Mussfeldern-nicht programmtechnisch erfolgen kann.
+In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
 
-IT in der ArztpraxisDatensatzbeschreibungArztverzeichnis-Stammdatei
+Folgende Feldarten werden unterschieden:
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+M = unbedingt es Mussfeld
 
-*1.08*Seite6 13von
+Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte  Vorkommen ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses  Feld mindestens einmal in dem Satz vorkommen.
+
+m = bedingtes Mussfeld
+
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer  übergeordneten Hierarchiestufe (s. Spalte Vorkommen ) gebunden. Ein bedingtes  Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte  Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete  Hierarchiestufe (s. Spalte Vorkommen ) referenzierte Feld existiert.
+
+K = Kannfeld
+
+Ein Kannfeld kann in einem Satz auftreten, wobei das Vork ommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,  muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern -  nicht programmtechnisch erfolgen kann.
+
+IT in der Arztpraxis Datensatzbeschreibung
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV
+
+Arztverzeichnis-Stammdatei
+
+* Version* 1.08*
+
+Seite 6 13 von
 
 
 ---
 
+k = bedingtes Kannfeld
 
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer  übergeordneten Hierarchiestufe (s. Spalte Vorkommen ) gebunden. Ein bedingtes  Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte Bedingung  ein Eintrag vorhanden und erfüllt i st oder das auf der übergeordneten Hierarchiestufe  (s. Spalte Vorkommen) referenzierte Feld existiert.
 
-
-
----
-
-k = bedingtes KannfeldBei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.SpalteBedingungen) oder an das Auftreten eines referenzierten Feldes auf einerübergeordneten Hierarchiestufe (s. SpalteVorkommen) gebunden. Ein bedingtesKannfeld darf in einem Satz vorhanden sein, wenn entweder in der SpalteBedingungein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe(s. SpalteVorkommen) referenzierte Feld existiert.
-
-Grundsätzlich ist die Berücksichtigungaller Felderunabhängig von der Feldart zu realisieren.
+Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
 
 ## 2.1
 
 ## Definition der Satzart: AV
 
--
-
-## Headersatz “AVS0”
+## -Headersatz “AVS0”
 
 | FK | Vorkomme 1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -236,15 +263,13 @@ Grundsätzlich ist die Berücksichtigungaller Felderunabhängig von der Feldart 
 
 ## Definition der Satzart: AV
 
--
-
-## Stammsatz “1450”
+## -Stammsatz “1450”
 
 | FK | Vorkommen 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | 1450=AV |
-| 0201 | 1 | BSNR | M |  | 9-stellige |
-| 0200 |  | NBSNR | K |  |  |
+| 02 01 | 1 | BSNR | M |  | 9-stellige |
+| 02 00 |  | NBSNR | K |  |  |
 | 0212 | n | Lebenslange Arztnummer | K |  |  |
 | 9901 | n | Systeminternes Feld | K |  | sollte beim Import |
 
@@ -252,26 +277,22 @@ Grundsätzlich ist die Berücksichtigungaller Felderunabhängig von der Feldart 
 
 ## Definition der Satzart: AV
 
--
-
-## Endesatz “AVS9”
+## -Endesatz “AVS9”
 
 | FK | Vorkommen 1    2    3    4 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | AVS9 = AV |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
 
-IT in der ArztpraxisDatensatzbeschreibungArztverzeichnis-Stammdatei
+IT in der Arztpraxis Datensatzbeschreibung
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV
 
-*1.08*Seite7 13von
+Arztverzeichnis-Stammdatei
 
+* Version* 1.08*
 
----
-
-
-
+Headersatz Datei erstellt wurde Gültigkeit der AV Stamm datei Datensatzbeschrei -Referenzversion 3 Stammsatz Betriebsstättennu (LANR) überlesen werden Endesatz Betriebsstätten datensätze /Bezirksstelle bzw. KBVSeite 7 13 von
 
 
 ---
@@ -280,43 +301,21 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ## Feldtabelle
 
-In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinauswird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über dieseFelder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Beiweitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.Zu jedem Feld wird in der Spalte
+In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-### Typ
+Zu jedem Feld wird in der Spalte Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt  verwendet werden kann. Folgende Typen werden unterschieden: - num numerischer Zahlenwert
 
-vereinbart , welcherZeichenvorrat für den Feldinhaltverwendet werden kann. Folgende Typen werden unterschieden:•numnumerischer Zahlenwert•alnumalphanumerische Zeichen•datumnumerische Datumsangaben im Format
+- alnum alphanumerische Zeichen
 
-### TTMMJJJJ
+- datum numerische Datumsangaben im Format TTMMJJJJ, wobei TT = 01 - 31, MM =  01 - 12, JJJJ= 0001 -  9999
 
-, wobei
+In der Spalte Länge des Feldinhaltes wird festgelegt, aus wie vielen Zeichen (Bytes) ein  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das ≤ -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine  maximale Länge beschränkt.
 
-### TT
-
-= 01 -31,
-
-### MM
-
-=01-12,
-
-### JJJJ
-
-= 0001 -9999In der Spalte
-
-### Länge des Feldinhaltes
-
-wird festgelegt, aus wie vielen Zeichen (Bytes) einFeldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auchalternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werdenkönnen. Durch das≤-Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf einemaximale Länge beschränkt.Zum besseren Verständnis ist zu jedem Feld in der Spalte
-
-### Beispiel
-
-ein möglicher Feldinhaltaufgeführt. Die einzelnen Beispiel-Inhalte stehenuntereinander in keinem direktenZusammenhang.
+Zum besseren Verständnis ist zu jedem Feld in der Spalte Beispiel ein möglicher Feldinhalt  aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten  Zusammenhang.
 
 ## 3.1
 
-## Feldtabelle: AV
-
-**-**
-
-## Stammdatei
+## Feldtabelle: AV-Stammdatei
 
 | Feld | Feldbezeichnung | Läng | Typ | Regel | erlaubte Inhalte und Beschreibung | Beispiel |
 |---|---|---|---|---|---|---|
@@ -332,17 +331,11 @@ ein möglicher Feldinhaltaufgeführt. Die einzelnen Beispiel-Inhalte stehenunter
 | 9222 | ADT-Referenzversion | ≤ 11 | alnum | 031 |  | ADT0199.01 |
 | 9901 | Systeminternes Feld | ≤ 60 | alnum | 999 |  | abc<de-FG |
 
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-1.08Seite8 13von
-
-
----
-
-
-
+kenn (LANR) Betriebsstättendatensätze Seite 8 13 von
 
 
 ---
@@ -351,67 +344,63 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ### Regeltabelle
 
-In derRegeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.Somit kann mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftretenbestimmter Felder überprüft werden.Folgende Regelklassen lassen sich klassifizieren:000-099Formatprüfungen100-199Inhaltsprüfungen200-299Existenzprüfungen300-499Kontextprüfungen900-999SonderprüfungenDie logischen Beziehungenzwischen Datensatzfeld, Feldtabelle und Regeltabelle beschreibtdas folgende Schema:Feld im Datensatz
+In der Regeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.  Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.  Somit kann mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftreten  bestimmter Felder überprüft werden.
 
-LängeFeldkennungInhalt
+Folgende Regelklassen lassen sich klassifizieren: 000 - 099 Formatprüfungen
 
-FKBez.LängeTypRegelnr.
+100 - 199 Inhaltsprüfungen
 
-RegelnummerRegelinhalt
+200 - 299 Existenzprüfungen
+
+300 - 499 Kontextprüfungen
+
+900 - 999 Sonderprüfungen
+
+Die logischen Beziehungen zwischen Datensatzfeld, Feldtabelle und Regeltabelle beschreibt  das folgende Schema:
+
+Feld im Datensatz
+
+Länge Feldkennung Inhalt
+
+| FK | Bez. | Länge | Typ | Regelnr. |
+|---|---|---|---|---|
+
+Regelnummer Regelinhalt
 
 FeldtabelleRegeltabelle
 
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-1.08Seite9 13von
-
-| FK | Bez. | Länge | Typ |  | |
-|---|---|---|---|---|---|
-
-
----
-
-
-
+Seite 9 13 von
 
 
 ---
 
 ## 4.1
 
-## Regeltabelle: AV
-
-**-**
-
-## Stammdatei
+## Regeltabelle: AV-Stammdatei
 
 | Regel- | Kategorie | Prüfung | Erläuterung |
 |---|---|---|---|
 | 008 | Format | TTMMJJJJ | TT=Tag;MM=Monat; |
 | 016 | Format | QJJJJ | Q=Quartal;JJJJ=Jahr |
 | 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel MM = Monat, JJ = Jahr nn = Unterversionsnummer (01 ≤ MM ≤ 12, 01 ≤ JJ ≤ 88) |
-| 049 | Format | kknnnnnmm mit kk = mm = [undefiniert] |  |
+| 049 | Format | kknnnnnmm mit kk = erlaubter Inhalt gemäß Regel 162 mm = [undefiniert] |  |
 | 050 | Format | nnnnnnmff mit m = Prüfziffer ff = erlaubter Inhalt gemäß Anlage 35 des  Ersatzwerte: |  |
-| 061 | Format | 35kknnnnn mit 35 = kk = nnnnn = Seriennummer | (N)BSNR Terminservicestelle |
+| 061 | Format | 35kknnnnn mit 35 = Krankenhäuser, die Leistungen im kk = erlaubter Inhalt gemäß Regel 162 nnnnn = Seriennummer | (N)BSNR Terminservicestelle |
 | 117 | erlaubter Inhalt | 3 | Zeichensatz |
 | 125 | erlaubter Inhalt | AVS0, AVS9, 1450 | Satzart |
-| 162 | erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37-73,  78 |  |
-| 826 | Kontext | Wenn der Inhalt der Stellen 1 Wenn der Inhalt der Stellen 1 |  |
+| 162 | erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37-73,  78- |  |
+| 826 | Kontext | Wenn der Inhalt der Stellen 1-2 des Feldes Wenn der Inhalt der Stellen 1-2 des Feldes |  |
 | 999 | besondere | sollte beim Import überlesen werden, kann | Für Exportprogramme für interne |
 
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-1.08Seite10 13von
-
-
----
-
-
-
+BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  (Anlage 28 BMV-Ä) 81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. Hinweise mehrfach vorkommen Kennzeichnungszwecke  Seite 10 13von
 
 
 ---
@@ -422,15 +411,7 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ## 5.1
 
-## Aufbau der
-
-## lebenslangen
-
-## Vertragsarztnummer (
-
-**L**
-
-## ANR)
+## Aufbau der lebenslangen Vertragsarztnummer (LANR)
 
 | 1-6 | 7 | 8-9 |  | Lebenslange Arztnummer (LANR) |
 |---|---|---|---|---|
@@ -444,11 +425,7 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ## 5.2
 
-## Aufbau der (Neben
-
-**-**
-
-## )Betriebsstättennummer
+## Aufbau der (Neben-)Betriebsstättennummer
 
 | 1-2 | 3-7 | 8-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
@@ -462,21 +439,9 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ## 5.3
 
-## Aufbau der
+## Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle
 
-## (Neben
-
-**-**
-
-## )Betriebsstättennummer
-
-## Terminservicestelle
-
-## (Anlage 28 BMV
-
-**-**
-
-## Ä)
+## (Anlage 28 BMV-Ä)
 
 | 1-2 | 3-4 | 5-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
@@ -494,66 +459,46 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
 
 ### 5.4.1
 
-### Historische
+### Historische Betriebsstätten- und Arztnummern
 
-### Betriebsstätten
+Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
 
-**-**
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
-### und Arztnummern
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-Die Datei enthält historische(N)BSNR und LANR, die innerhalb der letzten acht Quartaleabgelaufen sind.
-
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
-
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
-
-1.08Seite11 13von
+Terminservicestelle  von § 75 Absatz 1a SGB V erbringen Seite 11 13von
 
 
 ---
 
+| 5.5 |  | Erläuterungen | zum |  |  | systeminternen | | Feld (FK | 9901) |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Das | Feld mit | der Kennung | “9901” | | beinhaltet | | systeminterne |  | Parameter | und muss |
+| Import | im | Allgemeinen | nicht | berücksichtigt | | werden | . Dieses | Feld | kann in | jeder |
+|  | beliebiger | Stelle in | beliebiger | Anzahl |  | übertragen | werden. |  |  |  |
 
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-
----
-
-### 5.5
-
-### Erläuterungen zum systeminternen Feld (FK 9901)
-
-Das Feld mit der Kennung “9901”beinhaltetsysteminterne Parameterund muss für denImport im Allgemeinen nicht berücksichtigt werden. Dieses Feld kann in jeder Satzart anbeliebiger Stelle in beliebiger Anzahl übertragen werden.
-
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
-
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
-
-1.08Seite12 13von
+Erläuterungen zum systeminternen Feld (FK 9901) Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss für den Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder Satzart an beliebiger Stelle in beliebiger Anzahl übertragen werden. Seite 12 13von
 
 
 ---
 
+| 6 |  |  | Schlussbemerkungen | | |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Mit | dem Export | der |  | Datensätze | in ein |  | Softwaresystem | geht | der | amtliche | Charakter |
+| verloren | und | die |  | Kassenärztliche | |  | Bundesvereinigung |  | übernimmt | danach | keine |
+| Richtigkeit | | und | Vollständigkeit | | der | Daten. |  |  |  |  |  |
+| Die | vorliegende | |  | Datensatzbeschreibung | | der |  | Arzt-Stammdatei |  | richtet | sich nach |
+|  | etablierten | Standards | | der |  | xDT-Datensatzbeschreibung. | | Im | Hinblick | | auf gesetzliche |
+|  | vertragliche |  | Bestimmungen | | sowie | Beschlüsse | der | ärztlichen | |  | Selbstverwaltungsorgane |
+| bleiben |  | Änderungen | der |  | vorliegenden | Richtlinien | | vorbehalten. | |  |  |
 
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
 
-
----
-
-**6**
-
-### Schlussbemerkungen
-
-Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Datenverloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für dieRichtigkeit und Vollständigkeit der Daten.Die vorliegende Datensatzbeschreibung der Arzt-Stammdatei richtet sich nach denetablierten Standards derxDT-Datensatzbeschreibung. Im Hinblick auf gesetzliche undvertragliche Bestimmungen sowie Beschlüsse der ärztlichenSelbstverwaltungsorganebleiben Änderungen der vorliegenden Richtlinien vorbehalten.
-
-**IT in der Arztpraxis**DatensatzbeschreibungArztverzeichnis-Stammdatei
-
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV* Version
-
-1.08Seite13 13von
-
-
----
-
-
-
+Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Daten verloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für die Richtigkeit und Vollständigkeit der Daten.  Die vorliegende Datensatzbeschreibung der Arzt-Stammdatei richtet sich nach den etablierten Standards der xDT-Datensatzbeschreibung. Im Hinblick auf gesetzliche und vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwaltungsorgane bleiben Änderungen der vorliegenden Richtlinien vorbehalten. Seite 13 13von

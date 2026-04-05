@@ -11,203 +11,177 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-© Kassenärztliche Bundesvereinigung, Berlin 2020
-
-
----
-
-
-
+SDHMA – Stammdatei -Lewin-Platz 2 1.31 Datum: 03.09.2020 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2020
 
 
 ---
 
 ### DOKUMENTENHISTORIE
 
-Die Änderungen vom10.01.2020treten zum 01.01.2021in Kraft.
+Die Änderungen vom 10.01.2020 treten zum 01.01.2021 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.31 | 9 | KBV | Änderung des Inkrafttretens | Verschiebung des Inkrafttretens | 2 |
-| 1.31 |  | KBV | < | Kennzeichnung des maximal neuer Eintrag in der Kapitelliste geänderte Diagnosegruppen | 14, 18  19 |
-| 1.2 |  | KBV | <icd_code> <geltungsbereich_kv> <kapitel_liste>  Diverse Abbildungen | optionales Element nung regionaler Besonderheiten Max. Anzahl der Kapitel auf vier Überarbeitung der Beschreibungs- | 13, 13  13  18, 19 |
-| 1.1 |  | KBV | Kapitel 5.5 <heilmittel>Element | Max. Anzahl der erlaubten <heil- | 14 |
-| 1.0 | 3 | KBV | neues Dokument |  |  |
+| 1.31 | 03.09.2020 | KBV | Änderung des Inkrafttretens der | Verschiebung des Inkrafttretens | 2 |
+| 1.31 | 10.01.2020 | KBV | <zeitraum_akutereignis> | neues optionales Element zur neuer Eintrag in der Kapitelliste geänderte Diagnosegruppen | 14, 18  18, 19 20 |
+| 1.2 | 14.08.2017 | KBV | <icd_code> <geltungsbereich_kv> <kapitel_liste>  Diverse Abbildungen | optionales Element neues Element zur Kennzeich- Max. Anzahl der Kapitel auf vier Überarbeitung der Beschreibungs- | 13, 13 13  18, 19 |
+| 1.1 | 19.07.2016 | KBV | Kapitel 5.5 <heilmittel>Element | Max. Anzahl der erlaubten <heil- | 14 |
+| 1.0 | 31.03.2016 | KBV | neues Dokument |  |  |
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite2 23von
-
-
----
-
-
-
+Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit Beschlussfassung vom Kennzeichnung des maximal zulässigen Zeitraums nach einem Akutereignis nung regionaler Besonderheiten erhöht für die Maßnahmen der Ernährungstherapie texte  mittel>Elemente unbeschränkt  Seite 2 23 von
 
 
 ---
 
-DOKUMENTENHISTORIE2
+| IT in der | Arztpraxis |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung |  | SD HMA | – | Stammdatei |  |  |  |  |  |  |  |
+|  |  | INHALTSVERZEICHNIS | | | |  |  |  |  |  |  |  |
+|  | DOKUMENTENHISTORIE | | |  |  |  |  |  |  |  |  | 2 |
+|  | INHALTSVERZEICHNIS | | |  |  |  |  |  |  |  |  | 3 |
+|  | ABBILDUNGSVERZEI | |  | CHNIS |  |  |  |  |  |  |  | 5 |
+|  | TABELLENVERZEICHNIS | | |  |  |  |  |  |  |  |  | 6 |
+|  | XML-CODE-VERZEICHNIS | | |  |  |  |  |  |  |  |  | 6 |
+| 1 | EINLEITUNG | |  |  |  |  |  |  |  |  |  | 8 |
+| 2 | KONVENTIONEN | |  |  |  |  |  |  |  |  |  | 8 |
+| 2.1 | Zeichensatz |  |  |  |  |  |  | .................................................................................................................................... | | | | 8 |
+| 2.2 |  |  |  |  |  |  | Namespace..................................................................................................................................... | | | | | 8 |
+| 2.3 | Root-Schema |  |  |  |  |  | ................................................................................................................................. | | | | | 8 |
+| 2.4 | Dateinamen |  |  |  |  |  |  | .................................................................................................................................... | | | | 8 |
+| 2.5 | Semantik | der | verwendeten |  | Diagrammsymbole | |  |  |  | ......................................................................... | | 9 |
+| 2.5.1 | Kardinalität | |  | ................................ |  | ................................ | |  | ................................ |  | ............................. | 9 |
+| 2.5.2 | Strukturel |  | emente | ................................ | |  | ................................ | |  | ................................ | ................... | 9 |
+| 2.5.3 | Sonstige | Symbole |  |  | ................................ |  | ................................ | |  | ................................ | ................ | 10 |
+| 3 EHD | – | ELEMENT |  |  | (ROOT-ELEMENT) | |  |  |  |  |  | 11 |
+| 4 | HEADER |  | (METADATEN) | |  |  |  |  |  |  |  | 11 |
+| 5 | BODY |  | (INHALTSDATEN) | |  |  |  |  |  |  |  | 12 |
+| 5.1 | sdhma_st | ammdaten |  |  |  |  |  | .................................................................................................................... | | | | 12 |
+| 5.2 |  | verordnungsbedarf_liste | |  |  |  |  |  | ............................................................................................................ | | | 12 |
+| 5.3 | verordnungsbedarf | |  |  |  |  |  | ..................................................................................................................... | | | | 13 |
+| 5.4 | icd_code |  |  |  |  |  | ....................................................................................................................................... | | | | | 13 |
+| 5.5 | geltungsbereich_kv | |  |  |  |  |  | ..................................................................................................................... | | | | 13 |
+| 5.6 | heilmittel_liste |  |  |  |  |  |  | ............................................................................................................................. | | | | 14 |
+| 5.7 | heilmittel |  |  |  |  |  | ....................................................................................................................................... | | | | | 14 |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | |  | * Version | 1.31 |  |  |  |  |  | Seite | 3 23 von |
 
-INHALTSVERZEICHNIS3
-
-ABBILDUNGSVERZEICHNIS5
-
-TABELLENVERZEICHNIS6
-
-XML-CODE-VERZEICHNIS6
-
-1EINLEITUNG8
-
-2KONVENTIONEN8
-
-2.1Zeichensatz....................................................................................................................................8
-
-2.2Namespace.....................................................................................................................................8
-
-2.3Root-Schema.................................................................................................................................8
-
-2.4Dateinamen....................................................................................................................................8
-
-2.5Semantik der verwendeten Diagrammsymbole.........................................................................9 2.5.1***Kardinalität***.............................................................................................................................9 2.5.2***Strukturel***emente...................................................................................................................9 2.5.3***Sonstige Symbole***................................................................................................................10
-
-3EHD–ELEMENT (ROOT-ELEMENT)11
-
-4HEADER (METADATEN)11
-
-5BODY (INHALTSDATEN)12
-
-5.1sdhma_stammdaten....................................................................................................................12
-
-5.2verordnungsbedarf_liste............................................................................................................12
-
-5.3verordnungsbedarf.....................................................................................................................13
-
-5.4icd_code.......................................................................................................................................13
-
-5.5geltungsbereich_kv.....................................................................................................................13
-
-5.6heilmittel_liste.............................................................................................................................14
-
-5.7heilmittel.......................................................................................................................................14
-
-*INHALTSVERZEICHNIS*
-
-IT in der ArztpraxisSchnittstellenbeschreibungSDHMA–Stammdatei
-
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
-
-Seite3 23von
-
+.................................................................................................................................... 8 Namespace..................................................................................................................................... 8 Root-Schema ................................................................................................................................. 8 .................................................................................................................................... 8 Semantik der verwendeten Diagrammsymbole ......................................................................... 9  Sonstige Symbole EHD – ELEMENT (ROOT-ELEMENT) HEADER (METADATEN) BODY (INHALTSDATEN) .................................................................................................................... 12 ............................................................................................................ 12  ..................................................................................................................... 13 ....................................................................................................................................... 13 ..................................................................................................................... 13  ............................................................................................................................. 14 ....................................................................................................................................... 14 IT in der Arztpraxis  – Stammdatei Seite 3 23
 
 ---
 
+| IT in der | Arztpraxis |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | SDHMA – | Stammdatei |  |  |
+| 5.8 |  | anlage_heilmittelvereinbarung | |  | .................................................................................................. | 16 |
+| 5.9 | sekundaercode | |  | ............................................................................................................................ | | 16 |
+| 5.10 |  | untere_altersgrenze |  | .................................................................................................................... | | 16 |
+| 5.11 | obere_altersgrenze |  |  | ..................................................................................................................... | | 17 |
+| 5.12 | hinweistext |  |  | ................................................................................................................................... | | 17 |
+| 5.13 | zeitraum_akutereignis |  |  | ................................................................................................................ | | 18 |
+| 5.14 | kapitel_liste |  |  | .................................................................................................................................. | | 18 |
+| 5.15 | kapitel |  |  | ........................................................................................................................................... | | 19 |
+| 5.16 |  | diagnosegruppe_liste |  | ................................................................................................................. | | 19 |
+| 5.17 | diagnosegruppe |  |  | .......................................................................................................................... | | 20 |
+| 6 |  | REFERENZIERTE |  | DOKUMENTE |  | 23 |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 | Seite | 4 23 von |
 
-
-
+.................................................................................................. 16 ............................................................................................................................ 16 5.10 untere_altersgrenze .................................................................................................................... 16 5.11 obere_altersgrenze ..................................................................................................................... 17 5.12 hinweistext ................................................................................................................................... 17 5.13 zeitraum_akutereignis ................................................................................................................ 18 5.14 kapitel_liste .................................................................................................................................. 18 5.15 kapitel ........................................................................................................................................... 19 5.16 diagnosegruppe_liste ................................................................................................................. 19 5.17 diagnosegruppe .......................................................................................................................... 20 REFERENZIERTE DOKUMENTE IT in der Arztpraxis Schnittstellenbeschreibung SDHMA – Stammdatei KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31 Seite 4 23
 
 ---
 
-| IT | in SD – | HMA | der | Stammdatei | | Schnittstellenbeschreibung | Arztpraxis |  |
+| IT in | der Arztpraxis | |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
-| 5.8 |  |  |  |  |  |  | ................................ ................................ .. 16 | ................................ anlage_heilmittelvereinbarung |
-| 5.9 |  |  |  |  |  |  | sekundaercode ................................ ................................ ................................ 16 | ............................ |
-|  | 5.10 |  |  |  |  |  | untere_altersgrenze ................................ ................................ ................................ .................... 16 | |
-|  | 5.11 |  | obe | |  |  | re_altersgrenze ................................ ................................ ................................ ..................... 17 | |
-|  | 5.12 |  |  |  |  | hinweistext | ................................ ................................ ................................ ... 1 7 | ................................ |
-|  | 5.13 |  |  |  |  |  | zeitraum_akutereignis ................................ ................................ ................ 18 | ................................ |
-|  | 5.14 |  |  |  |  | kapitel_liste | ................................ ................................ ................................ .. 18 | ................................ |
-|  | 5.15 |  |  | kapitel | | | ................................ ................................ ................................ ........... 19 | ................................ |
-|  | 5.16 |  |  |  |  |  | diagnosegruppe_liste ................................ ................................ ................. 19 | ................................ |
-|  | 5.17 |  |  |  |  |  | diagnosegruppe ................................ ................................ ................................ .......................... 20 | |
-| 6 |  |  |  |  | NTE | | 23 REFERENZIERTE | DOKUME |
-|  | * | HMA | 1.31 | Version | | 4 | Seite 23 von KBV_ITA_VGEX_Schnittstelle_SD |  |
+|  | Schnittstellenbeschreibung | | SD HMA | – Stammdatei |  |  |  |  |
+|  |  |  | ABBILDUNGSVERZEICHNI | | | S |  |  |
+| Abbildung | 1: | /ehd | (root-Element) |  |  | ........................................................................................... |  | 11 |
+| Abbildung | 2: | sdhma_stammdaten | |  |  | .......................................................................................... |  | 12 |
+| Abbildung | 3: |  | verordnungsbedarf_liste |  |  | .................................................................................... |  | 12 |
+| Abbildung | 4: | verordnungsbedarf | |  |  | ............................................................................................ |  | 13 |
+| Abbildung | 5: | icd-code |  |  |  | ............................................................................................................. |  | 13 |
+| Abbildung | 6: | geltungsbereich_kv | |  |  | ........................................................................................... |  | 14 |
+| Abbildung | 7: | heilmittel_liste |  |  |  | .................................................................................................... |  | 14 |
+| Abbildung | 8: | heilmittel |  |  |  | ............................................................................................................ |  | 15 |
+| Abbildung | 9: |  | anlage_heilmittelvereinbarung | |  | .......................................................................... |  | 16 |
+| Abbildung | 10: |  | untere_altersgrenze |  |  | ........................................................................................ |  | 17 |
+| Abbildung | 11: |  | obere_altersgrenze |  |  | ......................................................................................... |  | 17 |
+| Abbildung | 12: | hinweistext |  |  |  | ....................................................................................................... |  | 18 |
+| Abbildung | 13: |  | zeitraum_akutereignis |  |  | ..................................................................................... |  | 18 |
+| Abbildung | 14: |  |  |  | kapitel_liste...................................................................................................... | |  | 18 |
+| Abbildung | 15: | kapitel |  |  |  | .............................................................................................................. |  | 19 |
+| Abbildung | 16: |  | diagnosegruppe_liste |  |  | ...................................................................................... |  | 20 |
+| Abbildung | 17: |  |  |  | diagnosegruppe............................................................................................... | |  | 20 |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | |  | * Version 1.31 |  |  | Seite | 5 23 von |
 
-
----
-
-
-
-
-
----
-
-|  | IT | in | SD – | der HMA | Stammdatei Schnittstellenbeschreibung | | Arztpraxis |  |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | ABBILDUNGSVERZEICHNI | S |
-|  |  | - /ehd | Abbildung | Element) Abbildung | 1: (root 11 12 | 2: | ........................................................................................... sdhma_stammdaten .......................................................................................... | |
-|  |  |  | Abbildung Abbildung | | 12 13 | 3: 4: | verordnungsbedarf_liste .................................................................................... verordnungsbedarf ............................................................................................ | |
-|  | - |  | code Abbildung Abbildung | | 13 5: 14 | 6: | icd ............................................................................................................. geltungsbereich_kv ........................................................................................... | |
-|  |  |  | Abbildung | | 14 7: |  | heilmittel_liste .................................................................................................... | |
-|  |  |  | Abbildung Abbildung Abbildung | | 15 8: 16 9: 17 | 10: | heilmittel ............................................................................................................ anlage_heilmittelvereinbarung .......................................................................... untere_altersgrenze ........................................................................................ | |
-|  |  |  | Abbildung Abbildung | | 17 18 | 11: 12: | obere_altersgrenze ......................................................................................... hinweistext ....................................................................................................... | |
-|  | g |  | Abbildun 13: | | 18 |  | zeitraum_akutereignis ..................................................................................... |  |
-|  |  |  | Abbildung Abbildung | | 18 14: 19 | 15: | kapitel_liste ...................................................................................................... kapitel .............................................................................................................. | |
-|  |  |  | Abbildung Abbildung | | 20 20 | 16: 17: | diagnosegruppe_liste ...................................................................................... diagnosegruppe ............................................................................................... | |
-|  |  |  | HMA * | 1.31 | Version | 5 KBV_ITA_VGEX_Schnittstelle_SD | Seite 23 von |  |
-
-
----
-
-
-
-
+Abbildung 1: /ehd (root-Element) Abbildung 2: sdhma_stammdaten Abbildung 3: verordnungsbedarf_liste Abbildung 4: verordnungsbedarf Abbildung 5: icd-code Abbildung 6: geltungsbereich_kv Abbildung 7: heilmittel_liste Abbildung 8: heilmittel Abbildung 9: anlage_heilmittelvereinbarung Abbildung 10: untere_altersgrenze Abbildung 11: obere_altersgrenze Abbildung 12: hinweistext Abbildung 13: zeitraum_akutereignis Abbildung 14: kapitel_liste...................................................................................................... Abbildung 15: kapitel Abbildung 16: diagnosegruppe_liste Abbildung 17: diagnosegruppe............................................................................................... IT in der Arztpraxis Seite 5 23
 
 ---
 
 *TABELLENVERZEICHNIS*
 
-Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements...........................................9Tabelle 2: Beschreibung der Strukturelement-Symbole.........................................................10Tabelle 3: Beschreibung sonstiger Symbole..........................................................................10Tabelle 4: Ausprägungen der Attribute des Elements<anlage_heilmittelvereinbarung>.......16Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze>.......................17Tabelle 6: Ausprägungen der Attribute des Elements <kapitel>............................................19Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe>................22
+Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements ........................................... 9
 
-IT in der ArztpraxisSchnittstellenbeschreibungSDHMA–Stammdatei
+Tabelle 2: Beschreibung der Strukturelement- Symbole ......................................................... 10
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+Tabelle 3: Beschreibung sonstiger Symbole .......................................................................... 10
 
-Seite6 23von
+Tabelle 4: Ausprägungen der Attribute des Elements <anlage_heilmittelvereinbarung> ....... 16
 
+Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze> ....................... 17
 
----
+Tabelle 6: Ausprägungen der Attribute des Elements <kapitel> ............................................ 19
 
+Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe> ................ 22
 
+IT in der Arztpraxis  Schnittstellenbeschreibung SD HMA – Stammdatei
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-
----
-
-|  | IT | in | SD – | HMA | der Stammdatei | Schnittstellenbeschreibung | | Arztpraxis |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  | XML | | | - | CODE- | VERZEICHNIS |
-|  | XML - XML - | Code Code | | 1: | 2: | /ehd 11 12 | | sdhma_stammdaten | .................................................................................................................. ......................................................................................... |
-|  | XML - XML - | Code Code | | 3: | 4: | 12 13 |  | verordnungsbedarf | verordnungsbedarf_liste ................................................................................... ........................................................................................... |
-|  | XML -- XML - | Code Code | code | 5: 6: |  | icd 13 14 |  | geltungsbereich_kv | ............................................................................................................ .......................................................................................... |
-|  | XML - XML - | Code Code | | 7: 8: | heilmittel_liste | 14 16 | heilmittel | | ................................................................................................... ........................................................................................................... |
-|  | XML - XML - | Code Code | | 9: | 10: | 16 17 |  | untere_altersgrenze | anlage_heilmittelvereinbarung ......................................................................... ....................................................................................... |
-|  | XML - XML - | Code Code | |  | 11: 12: | 17 18 |  | obere_altersgrenze hinweistext | ........................................................................................ ..................................................................................................... |
-|  | XML - | Code 13: | | |  | 18 |  | zeitraum_akutereignis | .................................................................................... |
-|  | XML - XML - XML - | Code Code Code | | 14: | 15: 16: | 19 19 20 | kapitel | kapitel_liste | .................................................................................................... ............................................................................................................. diagnosegruppe_liste ..................................................................................... |
-|  | XML - | Code | |  | 17: | 20 |  | diagnosegruppe | ............................................................................................. |
-|  |  |  | HMA * | 1.31 | Version | | 7 KBV_ITA_VGEX_Schnittstelle_SD | Seite 23 von |  |
+Seite 6 23 von
 
 
 ---
 
+| IT in der | Arztpraxis |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | SD | HMA – | Stammdatei |  |  |  |
+| XML | - CODE- |  |  | VERZEICHNIS | |  |  |
+| XML - | Code 1: /ehd |  |  |  | .................................................................................................................. |  | 11 |
+| XML -Code | 2: | sdhma_stammdaten | |  | ......................................................................................... |  | 12 |
+| XML - | Code 3: | verordnungsbedarf_liste | |  | ................................................................................... |  | 12 |
+| XML -Code | 4: | verordnungsbedarf |  |  | ........................................................................................... |  | 13 |
+| XML -- | Code 5: icd | code |  |  | ............................................................................................................ |  | 13 |
+| XML -Code | 6: | geltungsbereich_kv |  |  | .......................................................................................... |  | 14 |
+| XML -Code | 7: | heilmittel_liste |  |  | ................................................................................................... |  | 14 |
+| XML -Code | 8: heilmittel |  |  |  | ........................................................................................................... |  | 16 |
+| XML - | Code 9: | anlage_heilmittelvereinbarung | | | ......................................................................... |  | 16 |
+| XML -Code | 10: | untere_altersgrenze | |  | ....................................................................................... |  | 17 |
+| XML -Code | 11: | obere_altersgrenze | |  | ........................................................................................ |  | 17 |
+| XML -Code | 12: | hinweistext |  |  | ..................................................................................................... |  | 18 |
+| XML - | Code 13: | zeitraum_akutereignis | |  | .................................................................................... |  | 18 |
+| XML - | Code 14: | kapitel_liste |  |  | .................................................................................................... |  | 19 |
+| XML -Code | 15: kapitel |  |  |  | ............................................................................................................. |  | 19 |
+| XML - | Code 16: | diagnosegruppe_liste | |  | ..................................................................................... |  | 20 |
+| XML - | Code 17: | diagnosegruppe |  |  | ............................................................................................. |  | 20 |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 |  | Seite | 7 23 von |
 
-
-
+-Code 2: sdhma_stammdaten Code 3: verordnungsbedarf_liste -Code 4: verordnungsbedarf -Code 6: geltungsbereich_kv -Code 7: -Code 8: heilmittel Code 9: anlage_heilmittelvereinbarung -Code 10: untere_altersgrenze -Code 11: obere_altersgrenze -Code 12: hinweistext 13: zeitraum_akutereignis Code 14: kapitel_liste -Code 15: kapitel Code 16: diagnosegruppe_liste Code 17: diagnosegruppe IT in der Arztpraxis SD HMA  – Stammdatei  * Version Seite 7 23
 
 ---
 
 **1**
 
-### Ein
+### Einleitung
 
-### leitung
+Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stellte die Kas- senärztliche Bundesvereinigung die Anlagen zur Heilmittelvereinbarung seit 2015 innerhalb  der ICD- Stammdatei zur Verfügung.
 
-Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschlandstelltedie Kas-senärztliche Bundesvereinigung dieAnlagen zur Heilmittelvereinbarungseit 2015 innerhalbder ICD-Stammdatei zur Verfügung.Ab 2017befindensich diese Anlagenin einer separaten Stammdatei, der**S**tamm**d**atei**H**eil-**m**ittel**A**nlage–SDHMA.Die vorliegende Schnittstellenbeschreibung definiert das Format derSDHMAStammdateiderKBVim XML--Format konform zur ehdRichtlinie[KBV_ITA_VGEX_eHD].Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen-ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzungin der ver-tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wendeman sich über den Servicedesk der KBV (EMail:[KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de)
+Ab 2017 befinden sich diese Anlagen in einer separaten Stammdatei, der S tamm d atei H eil- **m ittel A nlage – SDHMA.**
 
-, Telefon: 030 / 4005-2121) an das Dezernat 4der KBV.
+Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammdatei der  KBV im XML--Format konform zur ehd Richtlinie [KBV_ITA_VGEX_eHD].
+
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  4005- 2121) an das Dezernat 4 der KBV.
 
 **2**
 
@@ -223,17 +197,13 @@ Standard-Zeichensatz ist ISO-8859-15.
 
 ### Namespace
 
-Standard-Namespace ist**urn:ehd/****sd/001****hma**.
+Standard- Namespace ist **urn:ehd/sd/001hma** .
 
 ### 2.3
 
-### Root
+### Root-Schema
 
-**-**
-
-### Schema
-
-Das Root--Schema, worin die abgeleiteten ehdSchemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt**sd****hma****_root.xsd**.
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt sdhma_root.xsd.
 
 ### 2.4
 
@@ -243,30 +213,53 @@ Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
 
 Dateinamenskonvention nach ehd-Richtlinie:
 
-**[ehd.]****dataty****p_vv.vv_sender_tf****+****val_nr****+****val_du+val****.xml**_ .............Trennungszeichen zwischen den Namenselementendatatyp .....Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;Entspricht dem Header-Element
+|  |  |  | [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val | | |
+|---|---|---|---|---|---|
+| _ | ............. |  | Trennungszeichen |  | zwischen |
+| datatyp | ..... | Datentyp, |  | "Satzart", |  |
+|  |  | Entspricht | dem |  | Header-Element |
+| vv.vv | ......... | VersionsNr. | der |  | Datentypbeschreibung; |
+|  |  | Entspricht | dem | Element | < version |
+| sender | ...... | Absender | der | Lieferung, | (nicht |
+|  |  | Daten |  | identisch) | bzw. |
+|  |  | Entspricht | dem | Element | < person |
+|  |  | Elements | < provider | >. |  |
 
-**<****document_type_cd****>**.vv.vv .........VersionsNr. der Datentypbeschreibung;Entspricht dem Element
+. >
 
-**<****version****>**des Header-Elements**<****interface****>**.sender ......Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten derDaten identisch) bzw. wer hat die Daten geliefert;Entsprichtdem Element
+**interface**. >
 
-**<****person****>**oder dem Element**<****organization****>**des Header-Elements **<****provider****>**.
+**organization** des Header**>** -
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite8 23von
+.xml _  .............  Trennungszeichen zwischen den Namenselementen datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; document_type_cd Entspricht dem Header-Element < vv.vv ......... VersionsNr. der Datentypbeschreibung;  des Header-Elements < Entspricht dem Element < sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch) bzw. wer hat die Daten geliefert; oder dem Element < Entspricht dem Element < Elements <Seite 8 23 von
+
+|  |  | Versorgung | in | Deutschland |
+|---|---|---|---|---|
+|  |  |  | Heilmittelvereinbarung | seit |
+|  | separaten |  | Stammdatei, | der S |
+|  |  | das | Format | der SDHMA |
+|  |  |  | [KBV_ITA_VGEX_eHD]. | |
+|  | Arztpraxissoftware | | | herstellen, |
+|  |  |  | ausschließlich | zur Nutzung |
+|  |  | Für alle |  | sonstigen |
+|  |  |  | KBVServiceDesk@KBV.de, | |
 
 
 ---
 
+tf+..………… timeframe (YYYYqQ)
 
+YYYY ........ Jahr
 
+nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere  Lieferungen erfolgen
 
+du+ ............ dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet  werden
 
----
-
-tf+..…………timeframe (YYYYqQ)YYYY ........Jahrnr+............number–optionalNummer der Lieferung, falls zu einem Zeitraum mehrereLieferungen erfolgendu+ ............dummy–optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendetwerdenBeispiel:
+Beispiel:
 
 SDHMA_01.00_74_tf+2013_nr+1.xml
 
@@ -274,9 +267,9 @@ SDHMA_01.00_74_tf+2013_nr+1.xml
 
 ### Semantik der verwendeten Diagrammsymbole
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, derenSymbole in den folgenden Kapiteln kurz erläutert werden.
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
-**2.5.1****Kardinalität**
+**2.5.1 Kardinalität**
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -286,23 +279,17 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | Obligatorische Elemente Elemente, welche als Rechteck mit durchgezogener |
 | n...m |  | Mehrfache Elemente Bei Elementen, welche mehrfach vorkommen kön- |
 
-**Tabelle****1****:**Beschreibung der Kardinalitäten eines XML-Elements
+**Tabelle 1: Beschreibung der Kardinalitäten eines XML**-Elements
 
-**2.5.2****Strukturelemente**
+**2.5.2 Strukturelemente**
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: ***<******xs:choice******>***und ***<******xs:sequence******>***.
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice>  und <xs:sequence>.
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite9 23von
-
-
----
-
-
-
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis ∞ (un- bounded) reichen. Seite 9 23 von
 
 
 ---
@@ -312,11 +299,11 @@ Seite9 23von
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-Tabelle2:Beschreibung der Strukturelement-Symbole
+Tabelle 2: Beschreibung der Strukturelement -Symbole
 
-*2.5.3*Sonstige Symbole
+*2.5.3 Sonstige Symbole*
 
-Es werden außerdem folgende Diagramm-Symbole verwendet:
+Es werden außerdem folgende Diagramm -Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
@@ -325,70 +312,65 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp Ein R |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
-Tabelle3:Beschreibung sonstiger Symbole
+Tabelle 3: Beschreibung sonstiger Symbole
 
-IT in der ArztpraxisSchnittstellenbeschreibungSDHMA–Stammdatei
+IT in der Arztpraxis Schnittstellenbeschreibung
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA
 
-Seite10 23von
+SD HMA
 
+– Stammdatei
 
----
+* Version 1.31
 
+Seite 10 23
 
+von
 
-
+<xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence> beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. echteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
 **3**
 
-### ehd
-
-### –
-
-### Element (root
-
-**-**
+### ehd – Element (root-
 
 ### Element)
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es inAbbildung1:**/ehd (root****-****Element)**dargestellt ist. Im header-Element stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden dieeigentlichen Daten hinterlegt.Für die XML-Dateien ist der Zeichensatz ISO-8859-15vorgeschrieben. Bei allen Elementen,die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zubeachten.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1: **/ehd (root-Element)** dargestellt ist. Im header- Element stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
 
-**Abbildung****1****:**/ehd (root-Element)
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
-Das <***ehd******>***-Elementhat folgenden Aufbau:
+**Abbildung 1: /ehd (root-Element)**
 
-**<?xml version="1.0" encoding="ISO-****8859-****1****5****"?>** **<****ehd:ehd****xmlns="urn:ehd/001"****xmlns="urn:ehd/sdhma/001"** **xmlns:xsi="[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)****instance**"**ehd_version="...">** **<****ehd:header>** **...** **</ehd:header>** **<****ehd:body>** **...** **</ehd:body>** **</ehd:ehd>**
+Das <ehd> - Element hat folgenden Aufbau:
 
-**XML****-****Code****1****:**/ehd
+**<?xml version="1.0" encoding="ISO-8859-15"?>**  **<ehd:ehd xmlns="urn:ehd/001" xmlns="urn:ehd/sdhma/001"**  **xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance") ehd_version="...">**  **<ehd:header>**  **...**  **</ehd:header>**  **<ehd:body>**  **...**  **</ehd:body>**  **</ehd:ehd>**
 
-ehd_version:Im XML--File wird die Versionsnummer zur zugrundeliegenden ehdRichtliniebzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00bis 99.99 festgelegt,anderenfalls wird der Parser Fehler melden.
+**XML-Code 1: /ehd**
 
-Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für dieVersion vorgegeben.
+ehd_version: Im XML--File wird die Versionsnummer zur zugrundeliegenden ehd Richtlinie  bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.  Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
-***<******header******>***Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den imbody liegenden eigentlichen Inhaltsdaten.
+***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im  body liegenden eigentlichen Inhaltsdaten.
 
-***<******body******>***Hier liegen die eigentlichen Inhalte der Datenlieferung.Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„ ***urn:ehd/001 “.***
+***<body>*** Hier liegen die eigentlichen Inhalte der Datenlieferung.
+
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„ urn:ehd/001 “.
 
 **4**
 
 ### header (Metadaten)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen derheader-Elemente wird auf diejeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die  jeweils aktuelle Version der ehd- Schnittstellenbeschreibung [1] verwiesen.
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite11 23von
+Seite 11 23
 
-
----
-
-
-
+von
 
 
 ---
@@ -397,351 +379,280 @@ Seite11 23von
 
 ### body (Inhaltsdaten
 
-) Das***<******body******>***ElementbeinhaltetalleSDHMAStammdaten in einer strukturierten Hierarchie vonKindelementen.Die Hierarchieebenen derSDHMAKodierungen gliedern sich in Kapitel,Gruppe, Diagnose und Diagnosethesaurus.Der Namensraum ist „urn:ehd/sdhma/001“.
+)  Das <body> Element beinhaltet alle SD HMA Stammdaten in einer strukturierten Hierarchie von  Kindelementen . Die Hierarchieebenen der SD HMA Kodierungen gliedern sich in Kapitel,  Gruppe, Diagnose und Diagnosethesaurus.
 
-5.1sdhma_stammdaten
+Der Namensraum ist „urn:ehd/sd hma /001“.
 
-Das Element <sdhma_stammdaten>bildet die oberste Ebene derSDHMA-Stammdaten. Hierbefinden sich dasElement verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba-rung.
+5.1 sdhma_stammdaten
 
-Abbildung2:sdhma_stammdaten
+Das Element <sd hma _stammdaten> bildet die oberste Ebene der SD HMA -Stammdaten. Hier  befinden sich das Element verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba- rung.
 
-Der XML-Code für ein <sdhma_stammdaten> Element hat folgenden Aufbau:
+Abbildung 2: sdhma _stammdaten
 
-*<**sdhma_stammdaten>* *<**verordnungsbedarf_liste>* *...* *</**verordnungsbedarf_liste>* *</sdhma_stammdaten>*
+Der XML -Code für ein <sd hma _stammdaten> Element hat folgenden Aufbau:
 
-XML-Code2:sdhma_stammdaten
+*<sdhma_stammdaten>*  *< verordnungsbedarf_liste>*  *...*  *</ verordnungsbedarf_liste>*  *</sdhma_stammdaten>*
 
-5.2verordnungsbedarf_liste
+XML-Code 2: sdhma _stammdaten 5.2 verordnungsbedarf _liste
 
-Das Element <verordnungsbedarf_liste> umschließt eine Liste von<verordnungsbedarf>Elementen.
+Das Element <verordnungsbedarf_ liste > umschließt eine Liste von <verordnungsbedarf >  Elementen.
 
-Abbildung3:verordnungsbedarf_liste
+Abbildung 3: verordnungsbedarf _liste
 
-Der XML-Code für ein<verordnungsbedarf_liste>Element hat folgenden Aufbau:
+Der XML -Code für ein < verordnungsbedarf_liste > Element hat folgenden Aufbau:
 
-*<**verordnungsbedarf_liste>* *<**verordnungsbedarf>* *...* *</verordnungsbedarf>* *<**verordnungsbedarf>* *</verordnungsbedarf>* *...* *</verordnungsbedarf_liste>*
+*<verordnungsbedarf_liste>*   *<verordnungsbedarf>*  *...*  *</verordnungsbedarf>*  *< verordnungsbedarf>*  *</verordnungsbedarf>*  *...*  *</verordnungsbedarf_liste>*
 
-XML-Code3:verordnungsbedarf_liste
+XML-Code 3: verordnungsbedarf _liste
 
-IT in der ArztpraxisSchnittstellenbeschreibungSDHMA–Stammdatei
+IT in der Arztpraxis Schnittstellenbeschreibung
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA
 
-Seite12 23von
+SD HMA
 
+– Stammdatei
 
----
+* Version 1.31
 
+Seite 12 23
 
-
-
-
-
-
+von
 
 
 ---
 
-### 5.3
+| IT in der | Arztpraxis |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | SDHMA – | Stammdatei |  |  |  |  |  |  |  |  |
+| 5.3 |  | verordnungsbedarf | |  |  |  |  |  |  |  |  |  |
+| Das | Element | <verordnungsbedarf> | | enthält |  | immer das |  | Element | <heilmittel_liste> | | und | kann die |
+| optionalen | Elemente |  | <icd_code> | und |  | <geltungsbereich_kv> | | enthalten. |  |  |  |  |
+| Abbildung | 4: | verordnungsbedarf | |  |  |  |  |  |  |  |  |  |
+| Der | XML-Code für | ein |  | <verordnungsbedarf> | | Element | hat | folgenden | Aufbau: |  |  |  |
+| < | verordnungsbedarf> | |  |  |  |  |  |  |  |  |  |  |
+| < | icd_code V | ="..."/> |  |  |  |  |  |  |  |  |  |  |
+| < | geltungsbereich_kv | | V ="..." |  | DN="..." | S |  | ="1.2.276.0.76.5.233 | " | /> |  |  |
+| < | heilmittel_liste/> |  |  |  |  |  |  |  |  |  |  |  |
+|  | </verordnungsbedarf> | |  |  |  |  |  |  |  |  |  |  |
+| XML-Code | 4: | verordnungsbedarf | |  |  |  |  |  |  |  |  |  |
+| 5.4 | icd_code |  |  |  |  |  |  |  |  |  |  |  |
+| Das | Element | <icd_code> | enthält | die | ICD- | Kodierung | für | die | Heilmittelbedarfe |  | zugeordnet | sind. |
+| Enthalten | sind hier |  | Zeichenketten | nach | dem | Muster: |  |  |  |  |  |  |
+| • | ein Zeichen | A-Z | und | zweistellige |  | Nummer |  |  |  |  |  |  |
+| • | (optional) | '.' und | ein- bis |  | zweistellige | Nummer | und | optional | '*' oder | '+' oder | '-' |  |
+| • | oder Sonderfall | | 'UUU' | (konstant | ohne |  | vorgenanntes | Muster) |  |  |  |  |
+| Abbildung | 5: icd-code |  |  |  |  |  |  |  |  |  |  |  |
+| Der | XML-Code für | ein <icd- | code> | Element | hat |  | folgenden | Aufbau: |  |  |  |  |
+| <icd_code | V ="..."/> |  |  |  |  |  |  |  |  |  |  |  |
+| XML-Code | 5: icd-code |  |  |  |  |  |  |  |  |  |  |  |
+| 5.5 |  | geltungsbereich_kv | |  |  |  |  |  |  |  |  |  |
+| Das | Element |  | <geltungsbereich_kv> | | gibt | an | welchem | KV-Bereich | der |  |  | Schlüsseltabelle |
+| S_KBV_KV | (OID: | 1.2.276.0.76.5.233) | | die |  | entsprechenden | |  | Heilmittelbedarfe |  | zugeordnet | sind. |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 |  |  |  |  |  |  | Seite | 13 23 von |
 
-### verordnungsbedarf
+Das Element <verordnungsbedarf> enthält immer das Element <heilmittel_liste> und kann die optionalen Elemente <icd_code> und <geltungsbereich_kv> enthalten. Abbildung 4: verordnungsbedarf Der XML-Code für ein <verordnungsbedarf> Element hat folgenden Aufbau: " /> XML-Code 4: verordnungsbedarf Das Element <icd_code> enthält die ICD- für die Heilmittelbedarfe zugeordnet sind.  Enthalten sind hier Zeichenketten nach dem Muster: ein Zeichen A-Z und zweistellige Nummer (optional) '.' und ein- bis zweistellige Nummer und optional '*' oder '+' oder '-' oder Sonderfall 'UUU' (konstant ohne vorgenanntes Muster) Abbildung 5: icd-code Der XML-Code für ein <icd- code> Element hat folgenden Aufbau: <icd_code V XML-Code 5: icd-code Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlüsseltabelle S_KBV_KV (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind.  IT in der Arztpraxis Schnittstellenbeschreibung SDHMA – Stammdatei KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31 Seite 13 23
 
-Das Element <verordnungsbedarf> enthältimmer dasElement<heilmittel_liste>und kann dieoptionalen Elemente <icd_code> und <geltungsbereich_kv> enthalten.
+---
 
-**Abbildung****4****:**verordnungsbedarf
+Abbildung 6: geltungsbereich_kv
 
-Der XML-Code für ein<verordnungsbedarf>Element hat folgenden Aufbau:
+Der XML -Code für ei n < geltungsbereich_kv > Element hat folgenden Aufbau:
 
-**<****verordnungsbedarf>** **<****icd_code****V****="..."/>** **<****geltungsbereich_kv****V****="..."****DN="..."*****S******="******1.2.276.0.76.5.233******"*****/>** **<****heilmittel_liste/>** **</verordnungsbedarf>**
+***<geltungsbereich_kv V="... " DN="... " S="1.2.276.0.76.5.233"/>***
 
-**XML****-****Code****4****:**verordnungsbedarf
+XML-Code 6: geltungsbereich_kv 5.6 heilmittel_liste
 
-### 5.4
+Das Element <heilmittel_liste> enthält mindestens ein < heilmittel > Elemente.
 
-### icd_code
+Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD-Codes, welcher  weitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD -Codes die diesem untergeordnet  sind. Wenn jedoch den untergeordneten ICD -Codes das Element <heilmittel_liste> zugeord- net ist, dann gelten nur die dem jeweiligen ICD -Code zugeordneten Heilmittel.
 
-Das Element <icd_code> enthält die ICD-Kodierungfür die Heilmittelbedarfe zugeordnet sind.Enthalten sind hier Zeichenketten nach dem Muster:•ein Zeichen A-Zund zweistellige Nummer•(optional) '.' und ein-bis zweistellige Nummer und optional '*' oder '+' oder '-'•oder Sonderfall 'UUU' (konstant ohnevorgenanntes Muster)
+Abbildung 7: heilmittel_liste
 
-**Abbildung****5****:**icd-code
+Der XML -Code für ein < heilmittel_liste> Element hat folgenden Aufbau:
 
-Der XML-Code für ein <icd-code> Element hat folgenden Aufbau:
+*<heilmittel_liste>*   *<heilmittel>*   *</heilmittel>*  *< heilmittel>*   *</heilmittel>*  *< heilmittel>*   *</heilmittel>*  *</heilmittel_liste>*
 
-***<******icd_code******V******="..."/>***
+XML-Code 7: heilmittel_liste 5.7 heilmittel
 
-**XML****-****Code****5****:**icd-code
+Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen auf die Art  der Anlage der Heilmittelvereinbarung ( besondere Verordnungsbedarfe oder langfristige  Heilmittelbedarfe), die optionale Elemente-nte-Liste, bestehend aus <sekundaercode>, <u re_altersgrenze>, <ob,ere_altersgrenze> und <h>inweistext und <zeitraum_akutereignis>  sowie das Element <kapitel_liste>.
 
-### 5.5
+IT in der Arztpraxis Schnittstellenbeschreibung
 
-### geltungsbereich_kv
+KBV_ITA_VGEX_Schnittstelle_SDHMA
 
-Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der SchlüsseltabelleS_KBV_KV (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind.
+SD HMA
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+– Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+* Version 1.31
 
-Seite13 23von
+Seite 14 23
+
+von
 
 
 ---
 
+| IT in der | Arztpraxis |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | SDHMA – | Stammdatei |  |  |
+| Abbildung | 8: | heilmittel |  |  |  |  |
+| Der | XML-Code für | ein | <heilmittel | > Element | hat | folgenden Aufbau: |
+| < heilmittel> | |  |  |  |  |  |
+| < |  | anlage_heilmittelvereinbarung | | V ="..." | DN="..."/> |  |
+| < | sekundaercode | V | ="..."/> |  |  |  |
+| < | untere_altersgrenze | | V ="..." | U ="..."/> |  |  |
+| < ob | ere_altersgrenze | | V ="..." | U ="..."/> |  |  |
+| < | hinweistext | V ="..."/> |  |  |  |  |
+| < |  | zeitraum_akutereignis | V | ="..." U ="..."/> |  |  |
+| < | kapitel_liste> |  |  |  |  |  |
+| < | kapitel | V ="..." |  | DN="..."> |  |  |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 |  |  |
 
+Seite 15 23
 
+von
 
-
-
-
-
-
----
-
-Abbildung6:geltungsbereich_kv
-
-Der XML-Code für ein <geltungsbereich_kv> Element hat folgenden Aufbau:
-
-***<******geltungsbereich_kv******V******="******...******"******DN="******...******"******S******="******1.2.276.0.76.5.233******"/>***
-
-XML-Code6:geltungsbereich_kv
-
-### 5.6
-
-### heilmittel_liste
-
-Das Element <heilmittel_liste>enthält mindestens ein<heilmittel>Elemente.Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD-Codes, welcherweitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD-Codes die diesem untergeordnetsind.Wenn jedoch den untergeordneten ICD-Codes das Element<heilmittel_liste> zugeord-net ist, dann gelten nur die dem jeweiligen ICD-Code zugeordneten Heilmittel.
-
-Abbildung7:heilmittel_liste
-
-Der XML-Code für ein <heilmittel_liste> Element hat folgenden Aufbau:
-
-*<**heilmittel_liste>* *<**heilmittel>*  *</heilmittel>* *<**heilmittel>*  *</heilmittel>* *<**heilmittel>*  *</heilmittel>* *</heilmittel_liste>*
-
-XML-Code7:heilmittel_liste
-
-### 5.7
-
-### heilmittel
-
-Dieeiner Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen auf die Artder Anlage der Heilmittelvereinbarung (besondere Verordnungsbedarfe oderlangfristigeHeilmittelbedarfe), die optionale Elemente-nte-Liste, bestehend aus <sekundaercode>, <u
-
-re_altersgrenze>, <ob,ere_altersgrenze>und<h>inweistextund <zeitraum_akutereignis> sowiedas Element <kapitel_liste>.
-
-IT in der ArztpraxisSchnittstellenbeschreibungSDHMA–Stammdatei
-
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
-
-Seite14 23von
-
+Abbildung 8: heilmittel Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau: IT in der Arztpraxis Schnittstellenbeschreibung SDHMA – Stammdatei KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
 ---
 
+**< diagnosegruppe>_liste**  **<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38** **<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>**  **<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>**  **</diagnosegruppe_liste>**  **</>kapitel**  **< kapitel V="..." DN="...">**  **< diagnosegruppe>_liste**  **<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38** **</diagnosegruppe_liste>**  **</>kapitel**  **</kapitel>_liste**  **</heilmittel>**
 
-
-
-
-
-
-
-
----
-
-|  | IT | in SD – | der HMA | Stammdatei | Schnittstellenbeschreibung | Arztpraxis |  |  |
-|---|---|---|---|---|---|---|---|---|
-|  | 8 : |  | Abbildung heilmittel | |  |  |  |  |
-|  | Der - | Code > |  | XML für Element | ein | hat | <heilmittel folgenden | Aufbau: |
-|  | < |  | heilmittel> | |  |  |  |  |
-|  |  | < | V ="..." | | DN="..."/> | anlage_heilmittelvereinbarung | |  |
-|  |  | < V | ="..."/> | sekundaercode | | |  |  |
-|  |  | < V | ="..." U | ="..."/> | untere_altersgrenze | | |  |
-|  | ob | < V | ="..." U | ="..."/> ere_altersgrenze | | |  |  |
-|  |  | < V | hinweistext ="..."/> | | |  |  |  |
-|  |  | < V | ="..." U | ="..."/> | zeitraum_akutereignis | | |  |
-|  |  | < | kapitel_liste> | | |  |  |  |
-|  |  | V | < kapitel ="..." | DN="..."> | |  |  |  |
-|  |  | * | HMA 1.31 | Version | 15 | Seite von 23 KBV_ITA_VGEX_Schnittstelle_SD | |  |
-
-
----
-
-
-
-
-
----
-
-**<****diagnosegruppe>****_liste** **<****diagnosegruppe****V****="..."****DN="..."****S****=""/>****1.2.276.0.76.3.1.1.5.2.38** **<****diagnosegruppe****V****="..."****DN="..."****S****="1.2.276.0.76.3.1.1.5.2.38"/>** **<****diagnosegruppe****V****="..."****DN="..."****S****="1.2.276.0.76.3.1.1.5.2.38"/>** **</diagnosegruppe****_****liste>** **</>****kapitel** **<****kapitel****V****="..."****DN="...">** **<****diagnosegruppe>****_liste** **<****diagnosegruppe****V****="..."****DN="..."****S****=""/>****1.2.276.0.76.3.1.1.5.2.38** **</diagnosegruppe****_****liste>** **</>****kapitel** **</kapitel>****_liste** **</heilmittel>**
-
-**XML****-****Code****8****:**heilmittel
+**XML-Code 8: heilmittel**
 
 ### 5.8
 
 ### anlage_heilmittelvereinbarung
 
-Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeichnung der Artder Anlage der Heilmittelvereinbarung (Anlage 1 der Vereinbarung überbesondere Veror-dungsbedarfenach § 84 Abs. 8 SGB V oder Anlage 2 im Sinne von § 32 Abs. 1a).
+Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeichnung der Art  der Anlage der Heilmittelvereinbarung (Anlage 1 der Vereinbarung über besondere Veror- dungsbedarfe nach § 84 Abs. 8 SGB V oder Anlage 2 im Sinne von § 32 Abs. 1a).
 
-**Abbildung****9****:**anlage_heilmittelvereinbarung
+**Abbildung 9: anlage_heilmittelvereinbarung**
 
 Der XML-Code für ein <anlage_heilmittel> Element hat folgenden Aufbau:
 
-**<****anlage_****heilmittelvereinbarung****V****="..."****DN="..."/>**
+**<anlage_heilmittelvereinbarung V="..." DN="..."/>**
 
-**XML****-****Code****9****:**anlage_heilmittelvereinbarung
+**XML-Code 9: anlage_heilmittelvereinbarung**
 
 | Wert ( V | Bedeutung (optional DN |
 |---|---|
 | LHM | Langfristiger Heilmittelbedarf |
 | BVB | Besondere Verordnungsbedarfe |
 
-**Tabelle****4****:**Ausprägungen der Attribute des Elements <anlage_heilmittelvereinbarung>
+**Tabelle 4: Ausprägungen der Attribute des Elements <anlage_heilmittelvereinbarung>**
 
 ### 5.9
 
 ### sekundaercode
 
-vgl.: Abschnitt5.4
+vgl.: Abschnitt 5.4
 
-### 5.10
+### 5.10 untere_altersgrenze
 
-### untere_altersgrenze
+Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs ( V**="..."** ) gibt einen Zahlenwert an, der  Inhalt des U-Attributs ( U**="..."** ) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein- heit ‚Jahr’ ( U**="Jahr") verwendet wird, enthält das V-** Attribut eine Altersangabe in Jahren.  Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  ( U**="Tag") und das V-** Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
 
-Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze,die für eineHeilmittelverordnung gilt.Der Inhalt des V-Attributs (**V****="..."**) gibt einen Zahlenwert an, derInhalt des U-Attributs (**U****="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-heit ‚Jahr’ (**U****="Jahr"**) verwendet wird, enthält das V-Attribut eine Altersangabe inJahren.Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet(**U****="Tag"**) und das V-Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+Seite 16 23
 
-Seite16 23von
+von
 
-
----
-
-
-
-
+="... ") ="... ")
 
 ---
 
-**Abbildung****10****:**untere_altersgrenze
+**Abbildung 10: untere_altersgrenze**
 
 Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
-**<****untere_altersgrenze****V****="..."****U****="..."/>**
+**<untere_altersgrenze V="..." U="..."/>**
 
-**XML****-****Code****10****:****untere_altersgrenze**
+**XML-Code 10: untere_altersgrenze**
 
 | Wert ( V | Zeiteinheit ( U |
 |---|---|
 | ganze Zahl größer 0 | Jahr |
 | ganze Zahl aus Intervall 0 bis 365 | Tag |
 
-**Tabelle****5****:**Ausprägungen der Attribute des Elements <untere_altersgrenze>
+**Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze>**
 
-### 5.11
+### 5.11 obere_altersgrenze
 
-### obere_altersgrenze
+Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze, die für eine  Heilmittelverordnung gilt. Das Format des Inhalts des V-Attributs ( V**="..."** ) und des U- Attributs ( U**="..."** ) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
 
-Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze,die für eineHeilmittelverordnunggilt.Das Format des Inhalts des V-Attributs (**V****="****..."**) und des U-Attributs (**U****="****..."**) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
-
-**Abbildung****11****:**obere_altersgrenze
+**Abbildung 11: obere_altersgrenze**
 
 Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
-**<****obere_altersgrenze****V****="..."****U****="..."/>**
+**<obere_altersgrenze V="..." U="..."/>**
 
-**XML****-****Code****11****:**obere_altersgrenze
+**XML-Code 11: obere_altersgrenze**
 
-### 5.12
+### 5.12 hinweistext
 
-### hinweistext
+Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord- nungsbedarfe bzw. langfristigem Heilmittelbebarf.
 
-Das Element <hinweistext> enthält im V-Attribut einen Hinweistext zubesonderen Verord-nungsbedarfebzw.langfristigemHeilmittelbebarf.
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+Seite 17 23
 
-Seite17 23von
+von
 
-
----
-
-
-
-
-
-
-
-
+="... ") ="... ")
 
 ---
 
-**Abbildung****12****:**hinweistext
+| IT | in der | Arztpraxis |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Schnittstellenbeschreibung | | | SDHMA – | Stammdatei |  |  |  |  |  |  |
+|  | Abbildung | 12: | hinweistext | |  |  |  |  |  |  |  |  |
+| Der | XML-Code | | für ein |  | <hinweistext> |  | Element hat | folgenden | Aufbau: |  |  |  |
+|  | < |  | hinweistext | | V ="..."/> |  |  |  |  |  |  |  |
+|  | XML-Code | 12: | hinweistext | |  |  |  |  |  |  |  |  |
+| 5.13 | |  |  | zeitraum_akutereignis | |  |  |  |  |  |  |  |
+| Das |  | optionale | Element |  |  | <zeitraum_akutereignis> | | enthält | den | maximal | zulässigen | Zeitraum |
+| nach | einem |  | Akutereignis, | | in dem | eine | Verordnung | ausgestellt | werden | kann, | um | einen beson- |
+| deren |  |  | Verordnungsbedarf | zu |  | begründen. | Der Inhalt | des | V-Attributs | ( V ="..." | ) gibt | einen Zah- |
+|  | lenwert | an, der | Inhalt | des | optionalen | | U-Attributs | ( U ="..." | ) bestimmt | die | Zeiteinheit | (‚Jahr’ |
+| oder |  | ‚Monat‘). | Falls | die | Zeiteinheit | ‚Jahr’ | ( U ="" | Jahr ) | verwendet | wird, | enthält das | V-Attribut |
+| eine |  | Zeitraumangabe | | in | Jahren. | Falls die | Zeiteinheit | | ‚Monat’ ( U | ="Monat" | ) | verwendet oder |
+| nicht |  | angegeben | wird, | enthält | das | V-Attribut | eine |  | Zeitraumangabe | in Monaten. |  |  |
+|  | Abbildung | 13: |  | zeitraum_akutereignis | |  |  |  |  |  |  |  |
+| Der | XML-Code | | für ein | < |  | zeitraum_akutereignis | > | Element | hat folgenden | | Aufbau: |  |
+| < |  | zeitraum_akutereignis | | | V =". | .." U | ="..."/> |  |  |  |  |  |
+|  | XML-Code | 13: |  | zeitraum_akutereignis | |  |  |  |  |  |  |  |
+| 5.14 |  | kapitel_liste | |  |  |  |  |  |  |  |  |  |
+| Das | Element |  | <kapitel_liste> | |  | enthält ein | Element | <kapitel> | und das |  | Listenelement | <diagnose- |
+|  | gruppe_liste> | | für die |  | Elemente |  | <diagnosegruppe> | sowie | das Element |  | <hinweistext>. |  |
+|  | Abbildung | 14: | kapitel_liste | |  |  |  |  |  |  |  |  |
+| Der | XML-Code | | für ein |  | <kapitel_liste> | | Element hat | folgenden | Aufbau: |  |  |  |
+|  |  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | | * Version | 1.31 |  |  |  |  |  | Seite 18 23 von |
 
-Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
-
-**<****hinweistext****V****="..."/>**
-
-**XML****-****Code****12****:**hinweistext
-
-### 5.13
-
-### zeitraum_akutereignis
-
-Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson- deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs (**V****="..."**) gibt einen Zah- lenwert an, der Inhalt desoptionalenU-Attributs (**U****="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder‚Monat‘). Falls die Zeiteinheit ‚Jahr’ (**U****=""****Jahr**) verwendet wird, enthält das V-Attribut eineZeitraumangabein Jahren. Falls dieZeiteinheit ‚Monat’ (**U****="Monat"**) verwendetoder nicht angegeben wird, enthält das V-Attribut eineZeitraumangabeinMonaten.
-
-**Abbildung****13****:**zeitraum_akutereignis
-
-Der XML-Code für ein <zeitraum_akutereignis> Element hatfolgenden Aufbau:
-
-**<****zeitraum_akutereignis****V****=".****.."****U****="..."/>**
-
-**XML****-****Code****13****:**zeitraum_akutereignis
-
-### 5.14
-
-### kapitel
-
-### _liste
-
-Das Element <kapitel_liste> enthält ein Element <kapitel>und das Listenelement <diagnose- gruppe_liste> für die Elemente<diagnosegruppe> sowie das Element <hinweistext>.
-
-**Abbildung****14****:**kapitel_liste
-
-Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
-
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
-
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
-
-Seite18 23von
-
+Abbildung 12: hinweistext  Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau: XML-Code 12: hinweistext 5.13 zeitraum_akutereignis Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson- deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs ( V ) gibt einen Zah- lenwert an, der Inhalt des optionalen U-Attributs ( U ) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Monat‘). Falls die Zeiteinheit ‚Jahr’ ( U ) verwendet wird, enthält das V-Attribut eine Zeitraumangabe in Jahren. Falls die Zeiteinheit ‚Monat’ ( U ) verwendet oder nicht angegeben wird, enthält das V-Attribut eine Zeitraumangabe in Monaten.  Abbildung 13: zeitraum_akutereignis Der XML-Code für ein < zeitraum_akutereignis > Element hat folgenden Aufbau: XML-Code 13: zeitraum_akutereignis 5.14 kapitel_liste Das Element <kapitel_liste> enthält ein Element <kapitel> und das Listenelement <diagnose- gruppe_liste> für die Elemente <diagnosegruppe> sowie das Element <hinweistext>.  Abbildung 14: kapitel_liste Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau: IT in der Arztpraxis Schnittstellenbeschreibung SDHMA – Stammdatei KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
 ---
 
+**< kapitel_liste>**  **< kapitel V="I" DN="Maßnahmen der Physiotherapie">**  **...**  **</kapitel>**  **</kapitel_liste>**
 
+**XML-Code 14: kapitel_liste**
 
+### 5.15 kapitel
 
+Das Element <kapitel> enthält das Listenelement <diagnosegruppe_liste> für die Elemente  <diagnosegruppe> und im V-Attribut die Kennzeichnung der Art der Therapiegruppe.
 
-
-
----
-
-**<****kapitel_liste>** **<****kapitel****V****="I****"****DN="Maßnahmen der Physiotherapie">** **...** **</kapitel>** **</kapitel_liste>**
-
-**XML****-****Code****14****:**kapitel_liste
-
-### 5.15
-
-### kapitel
-
-Das Element <kapitel> enthältdas Listenelement <diagnosegruppe_liste> für die Elemente <diagnosegruppe> undim V-Attribut die Kennzeichnung der Art der Therapiegruppe.
-
-**Abbildung****15****:**kapitel
+**Abbildung 15: kapitel**
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-**<****kapitel****V****="..."****DN="..."/>**
+**< kapitel V="..." DN="..."/>**
 
-**XML****-****Code****15****:**kapitel
+**XML-Code 15: kapitel**
 
 | Wert ( V | Bedeutung (optional DN |
 |---|---|
@@ -751,28 +662,21 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 | IV | Maßnahmen der Ergotherapie |
 | V | Maßnahmen der Ernährungstherapie |
 
-**Tabelle****6****:**Ausprägungen der Attribute des Elements <kapitel>
+**Tabelle 6: Ausprägungen der Attribute des Elements <**kapitel>
 
-### 5.16
-
-### diagnosegruppe
-
-### _liste
+### 5.16 diagnosegruppe_liste
 
 Das Element <diagnosegruppe_liste> enthält die Elemente <diagnosegruppe>.
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite19 23von
+Seite 19 23
 
+von
 
----
-
-
-
-
+="... ") ="... ")
 
 ---
 
@@ -793,17 +697,17 @@ Seite19 23von
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
 | GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach Interventioneller / operativer Behandlung) |
-| Abbildung | Der XML |
+| Abbildung 16: diagnosegruppe_liste | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
 | < | < |
 | DN="..." |  |
 | S |  |
 | < |  |
-| </diagnosegruppe_ |  |
-| XML | 5.17 Das Element < |
-|  | Abbildung |
-| Der XML | < |
-| 1.2.276.0.76.3.1.1.5.2.38 | " |
-| XML |  |
+| </diagnosegruppe_liste> |  |
+| XML-Code 16: diagnosegruppe_liste | 5.17 diagnosegruppe  Das Element <diagnosegruppe> enthält im V-Attribut die Kennzeichnung der Art der Thera- |
+|  | Abbildung 17: diagnosegruppe |
+| Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau: | < |
+|  | "/> |
+| XML-Code 17: diagnosegruppe |  |
 | Wert ( V |  |
 |  | Bezeichnung (optional DN |
 |  |  |
@@ -830,23 +734,20 @@ Seite19 23von
 |  |  |
 |  |  |
 |  |  |
-| Abbildung | Der XML |
+| Abbildung 16: diagnosegruppe_liste | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
 | < | < |
 | DN="..." | S |
 | < |  |
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite20 23von
+Seite 20 23
 
+von
 
----
-
-
-
-
+="1.2.276.0.76.3.1.1.5.2.38"/> ="1.2.276.0.76.3.1.1.5.2.38"/> piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). ="AT1 DN="Störungen..." ="1.2.276.0.76.3.1.1.5.2.38 ") " S ="1.2.276.0.76.3.1.1.5.2.38" - und Bewegungsorgane im Säuglings-, Kleinkind- und Kindesalter
 
 ---
 
@@ -909,18 +810,15 @@ Seite20 23von
 | LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite21 23von
+Seite 21 23
 
+von
 
----
-
-
-
-
+Kindheit und Jugend keiten mit körperlichen Störungen oder Faktoren;  Persönlichkeits-und Verhaltensstörun- Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch -perzeptiven Schädigungen) Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit
 
 ---
 
@@ -944,9 +842,9 @@ Seite21 23von
 | WS1 | Wirbelsäulenerkrankungen |
 | WS2 | Wirbelsäulenerkrankungen |
 | ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks |
-| / Neuromuskuläre Erkran- | kungen |
+|  | / Neuromuskuläre Erkran- |
 | ZN2 | ZNS-Erkrankungen einschließlich des Rückenmarks |
-| Tabelle |  |
+| Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe> |  |
 |  |  |
 |  |  |
 |  |  |
@@ -980,20 +878,16 @@ Seite21 23von
 |  |  |
 | WS1 | Wirbelsäulenerkrankungen |
 | WS2 | Wirbelsäulenerkrankungen |
-| ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks  / Neuromuskuläre Erkran- kungen |
+| ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks  / Neuromuskuläre Erkran- |
 | ZN2 | ZNS-Erkrankungen einschließlich des Rückenmarks |
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite22 23von
+Seite 22 23
 
-
----
-
-
-
+von
 
 
 ---
@@ -1006,14 +900,12 @@ Seite22 23von
 |---|---|
 | [KBV_ITA_VGEX_eHD] | ehd – |
 
-**IT in der Arztpraxis**SchnittstellenbeschreibungSDHMA–Stammdatei
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
-KBV_ITA_VGEX_Schnittstelle_SDHMA* Version1.31
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
 
-Seite23 23von
+Seite 23 23
 
+von
 
----
-
-
-
+eHealthData, Richtlinie

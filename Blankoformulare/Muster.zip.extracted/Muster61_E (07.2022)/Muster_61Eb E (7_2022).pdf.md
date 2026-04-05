@@ -10,44 +10,47 @@ Datum
 
 Vertragsarztstempel / Unterschrift des Arztes
 
-Datum Unterschrift der oder des Versicherten (des gesetzlichen Vertreters,des Betreuers, des Bevollmächtigten)
+Datum Unterschrift der oder des Versicherten  (des gesetzlichen Vertreters,  des Betreuers, des Bevollmächtigten)
 
-Für das Ausstellen der ärztlichenVerordnung (Teil B-E)ist die Nr. 01611 EBM berechnungsfähig
+Für das Ausstellen der ärztlichen  Verordnung (Teil B-E)   ist die Nr. 01611 EBM berechnungsfähig
 
-Name, VornamePLZOrt
+Name, Vorname
 
-Straße, Haus-Nr.
+PLZOrtStraße, Haus-Nr.
 
-Name, VornamePLZOrt
+Name, Vorname
 
-Straße, Haus-Nr.
+PLZOrtStraße, Haus-Nr.
 
-Name, VornamePLZOrt
+Name, Vorname
 
-Straße, Haus-Nr.
+PLZOrtStraße, Haus-Nr.
 
-janeinEinwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme
+|  | ja |  |
+|---|---|---|
+|  | Einwilligung | der/des |
+|  | Krankenkasse | an |
+|  | einrichtungen | wurde |
+|  | ja |  |
 
 des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden Vertragsarzt wurde erteilt.
 
-janeinEinwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung derKrankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs-einrichtungen wurde erteilt.
+**A. Erteilte Einwillligungserklärungen**
 
-**A.****Erteilte Einwillligungserklärungen**
+**B. Angaben der/des Versicherten**
 
-**B.**
+Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nach  § 40 Abs. 3 Satz 8 SGB V. Die erteilten Einwilligungen können jederzeit mit Wirkung für die Zukunft bei Ihrer Krankenkasse oder der verordnenden Ärztin / dem verordnenden Arzt widerrufen werden.
 
-**Angaben der/des Versicherten**
+**Hinweis zur Datenübermittlung und zum Widerrufsrecht**
 
-Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nach§40 Abs. 3 Satz 8 SGB V. Die erteilten Einwilligungen können jederzeit mit
+**1. Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme**
 
-Wirkung für die Zukunft bei Ihrer Krankenkasse oder der verordnenden Ärztin / dem verordnenden Arzt widerrufen werden.**Hinweis zur Datenübermittlung und zum Widerrufsrecht**
+**2. Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der**
 
-**1.** **2.**
-
-Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- undBetreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
+Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und  Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
 
 ***Vor der Weiterleitung des Vordrucks an die Krankenkasse von der/dem Versicherten auszufüllen,*** ***sofern die Einwilligung unter VIII. A. 2. erteilt wurde.***
 
 Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung
 
-PRF.NR.Muster 61 Teil Eb/E (7.2022)
+nein nein Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.PRF.NR.  Muster 61 Teil Eb/E (7.2022)

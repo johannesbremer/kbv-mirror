@@ -4,13 +4,15 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr.****Arzt-Nr.**
+**Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **Aufgrund somatischer/psychiatrischer** **indikationen für**
 
 **Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 
-**Für diese**Bescheinigung
+**Für diese** Bescheinigung
 
 **Ausfertigung für die Krankenkasse**
 
@@ -22,9 +24,9 @@
 
 **Aus Datenschutzgründen freibleibend**
 
-Befunde einepsychotherapeutische
+Befunde eine psychotherapeutische
 
-istdieNr.01612EBMberechnungsfä
+ist die Nr. 01612 EBM berechnungsfä
 
 ### Konsiliarbericht
 
@@ -42,7 +44,9 @@ erzeit**d** (B**egründung s.**
 
 **Ausstellungsdatum**
 
-Kontra- o.)
+Kontra-
+
+o.)
 
 **Arztnummer**
 

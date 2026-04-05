@@ -8,111 +8,320 @@ Version:
 
 gültig ab:
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | Hausärztliche Grundvergütung, Ordination, Konsultation |
-| 10 | Laborpauschalen |
-| 11 | Laboratoriumsuntersuchungen |
-| 12 | Strahlendiagnostik und -therapie, Röntgen, CT, MRT |
-| 13 | Wegegebühren |
-| 14 | Pauschalerstattungen/Kosten |
-| 15 | KV-spezifische Verwendung |
-| 16 | KV-spezifische Verwendung |
-| 19 | KV-spezifische Verwendung |
-| 2 | Besuche, Visiten |
-| 20 | Nicht spezifizierte Leistungen |
-| 3 | Beratungs- und Betreuungsleistungen, Ganzkörperstatus |
-| 4 | Allgemeine Leistungen |
-| 40 | KV-spezifische Verwendung |
-| 41 | KV-spezifische Verwendung |
-| 42 | KV-spezifische Verwendung |
-| 43 | KV-spezifische Verwendung |
-| 44 | KV-spezifische Verwendung |
-| 45 | KV-spezifische Verwendung |
+**Code**
+
+1
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+19
+
+2
+
+20
+
+3
+
+4
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
 | 46 | KV-spezifische Verwendung |
+|---|---|
 | 47 | KV-spezifische Verwendung |
 
-Seite 1 von
-
-1.2.276.0.76.5.227
+Seite 1 von 1.2.276.0.76.5.227
 
 1.01
 
 01.10.2025
 
-3/ KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+
+**Bezeichnung**
+
+Hausärztliche Grundvergütung, Ordination, Konsultation
+
+Laborpauschalen
+
+Laboratoriumsuntersuchungen
+
+Strahlendiagnostik und -therapie, Röntgen, CT, MRT
+
+Wegegebühren
+
+Pauschalerstattungen/Kosten
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Besuche, Visiten
+
+Nicht spezifizierte Leistungen
+
+Beratungs- und Betreuungsleistungen, Ganzkörperstatus
+
+Allgemeine Leistungen
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
 
 
 ---
 
+**Code**
 
+48
 
+49
 
+5
 
----
+50
 
-| Code | Bezeichnung |
-|---|---|
-| 48 | KV-spezifische Verwendung |
-| 49 | KV-spezifische Verwendung |
-| 5 | Mutterschaftvorsorge |
-| 50 | KV-spezifische Verwendung |
-| 51 | KV-spezifische Verwendung |
-| 52 | KV-spezifische Verwendung |
-| 53 | KV-spezifische Verwendung |
-| 54 | KV-spezifische Verwendung |
-| 55 | KV-spezifische Verwendung |
-| 56 | KV-spezifische Verwendung |
-| 57 | KV-spezifische Verwendung |
-| 58 | KV-spezifische Verwendung |
-| 59 | KV-spezifische Verwendung |
-| 6 | Früherkennungsuntersuchungen |
-| 61 | KV-spezifische Verwendung |
-| 62 | KV-spezifische Verwendung |
-| 63 | KV-spezifische Verwendung |
-| 64 | KV-spezifische Verwendung |
-| 65 | KV-spezifische Verwendung |
-| 66 | KV-spezifische Verwendung |
-| 67 | KV-spezifische Verwendung |
-| 68 | KV-spezifische Verwendung |
-| 69 | KV-spezifische Verwendung |
-| 7 | Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch |
-| 71 | KV-spezifische Verwendung |
-| 72 | KV-spezifische Verwendung |
-| 73 | KV-spezifische Verwendung |
-| 74 | KV-spezifische Verwendung |
-| 75 | KV-spezifische Verwendung |
-| 76 | KV-spezifische Verwendung |
-| 77 | KV-spezifische Verwendung |
-| 78 | KV-spezifische Verwendung |
-| 79 | KV-spezifische Verwendung |
-| 8 | Sonderleistungen |
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+6
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+7
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+8
+
 | 81 | KV-spezifische Verwendung |
+|---|---|
 | 82 | KV-spezifische Verwendung |
 
-Seite 2 von3/ KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+Seite 2 von
+
+3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+
+**Bezeichnung**
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Mutterschaftvorsorge
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Früherkennungsuntersuchungen
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Sonderleistungen
 
 
 ---
 
-| Code | Bezeichnung |
-|---|---|
-| 83 | KV-spezifische Verwendung |
-| 84 | KV-spezifische Verwendung |
-| 85 | KV-spezifische Verwendung |
-| 86 | KV-spezifische Verwendung |
-| 87 | KV-spezifische Verwendung |
-| 88 | KV-spezifische Verwendung |
-| 89 | KV-spezifische Verwendung |
-| 9 | Physikalisch-medizinische Leistungen |
-| 91 | KV-spezifische Verwendung |
-| 92 | KV-spezifische Verwendung |
-| 93 | KV-spezifische Verwendung |
-| 94 | KV-spezifische Verwendung |
-| 95 | KV-spezifische Verwendung |
-| 96 | KV-spezifische Verwendung |
-| 97 | KV-spezifische Verwendung |
+**Code**
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+9
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
 | 98 | KV-spezifische Verwendung |
+|---|---|
 | 99 | KV-spezifische Verwendung |
 
-Seite 3 von3/ KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+Seite 3 von
+
+3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+
+**Bezeichnung**
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+Physikalisch-medizinische Leistungen
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung
+
+KV-spezifische Verwendung

@@ -11,56 +11,61 @@
 
 # HÖRGERÄTEVERSORGUNG
 
-**-**
+# -KINDER
 
-# KINDER
-
-## [KBV_ITA_AHEX_PRUEFP
-
-## AKET
-
-_
-
-## QSHGV
-
-K]
+## [KBV_ITA_AHEX_PRUEFPAKET_QSHGVK]
 
 Seite 1 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT
 
 ---
 
 ## INHALT
 
-**1**ALLGEMEINES**5**
+| 1 |  | ALLGEMEINES | 5 |
+|---|---|---|---|
+| 1.1 |  | Rechtsgrundlage | 5 |
+| 1.2 |  | Zertifizierungsablauf | 5 |
+| 1.3 |  | Zertifizierungsportal | 6 |
+| 1.4 |  | Zertifizierungsdokumente | 6 |
+| 1.5 |  | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben |  | 7 |
+| 1.7 | Praxisdaten/ | Arztstempel | 7 |
 
-1.1Rechtsgrundlage51.2Zertifizierungsablauf51.3Zertifizierungsportal61.4Zertifizierungsdokumente61.5Prüfunterlagen61.6Prüfvorgaben71.7Praxisdaten/ Arztstempel7**2**PRÜFFÄLLE**8**
+| 2 |  | PRÜFFÄLLE | 8 |
+|---|---|---|---|
+| 2.1 | Prüffall | 5801 | 8 |
+| 2.2 | Prüffall | 5802 | 10 |
+| 2.3 | Prüffall | 5803 | 12 |
+| 2.4 | Prüffall | 5804 | 14 |
+| 2.5 | Prüffall | 5805 | 16 |
+| 2.6 | Prüffall | 5806 | 19 |
+| 2.7 | Prüffall | 5807 (optional) | 20 |
 
-2.1Prüffall 580182.2Prüffall 5802102.3Prüffall 5803122.4Prüffall 5804142.5Prüffall 5805162.6Prüffall 5806192.7Prüffall 5807 (optional)20**3**TESTDATENVALIDIERUNG**21**
+**3 TESTDATENVALIDIERUNG** **21**
 
-**4**REFERENZIERTE DOKUME**NTE****22**
+**4 REFERENZIERTE DOKUMENTE 22**
 
-Seite 2 von 22 / KBV /  Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 2 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung
+
+-Kinder / Version: 3.01 / 12. August 2021
+
+Praxisdaten/ Arztstempel Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional)
 
 
 ---
 
-## ABBILDUNGSVERZEICHNI
+## ABBILDUNGSVERZEICHNIS
 
-S
+Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 7  Abbildung 2: Testdatenvalidierung 21  Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 21
 
-Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien7Abbildung 2: Testdatenvalidierung21Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien21
-
-Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /  12. August 2021
+Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 
 ---
 
-D
-
-## OKUMENTENH
-
-## ISTORIE
+## DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -68,8 +73,9 @@ D
 | 3.00 | 15.08.2019 | KBV | Aktualisierung der  Überarbeitung des | Schnittstellenversion  Überführung ins neue | 8ff |
 | 2.03 | 12.03.2018 | KBV | Einreichung des Antrages | Anpassung des | 8ff |
 
-Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung  -Kinder / Version: 3.01 / 12. August 2021
+Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Servers durch neuen „Update-Server“ der KBV: Prüffälle auf die Schnittstellenversion 1.12 Layouts 1.12 ist ab 01.10.2 019 zu verwenden Corporate Design auf Zertifizierung Zertifizierungsportals
 
 ---
 
@@ -77,33 +83,93 @@ Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung  -Kinder / Version: 3
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung einesZertifizierungsgegenstandes im Bereich der Qualitätssicherung „Hörgeräteversorgung-Kinder“.Die Zertifizierungsrichtlinie derKBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet denRahmen der Zertifizierung und ist zu beachten.Des Weiteren können dem Antrag auf Zertifizierungneben Zertifizierungskostenund Laufzeit der Zulassungweitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.**1.1****RECHTSGRUNDLAGE**Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern“.**1.2****ZERTIFIZIERUNGSABLAU****F**Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einerErgebnisprüfung. Dabei istfolgendes Vorgehen einzuhalten:1.Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. NachEinleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBVbisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt undunterschrieben alsPDF-Dokumentüber das Zertifizierungsportal bei der KBV eingereicht werden.Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst denAntrag auf Zertifizierungeingescannt perE-Mail (pruefstelle@kbv.de)einreichen und erst nach Erhaltder Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorabvia E-Maileingereichten Antrag auf Zertifizierunghochladen.2.Eine Verzeichnis-bzw. Ordnerstruktur mit den erstelltenund für die Zertifizierung erforderlichenPrüfunterlagen muss alsZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alleUnterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals alsfehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.3.Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragstellermit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. BeiVorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.4.Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichtenUnterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand dieentsprechende Zulassung ausgesprochen werden.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Qualitätssicherung „Hörgeräteversorgung-Kinder“.
+
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+**1.1 RECHTSGRUNDLAGE**
+
+Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2  SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern“.
+
+**1.2 ZERTIFIZIERUNGSABLAUF**
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+
+1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail  eingereichten Antrag auf Zertifizierung hochladen.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung bei der KBV oder desFehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
 Seite 5 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 
 ---
 
-1.3**ZERTIFIZIERUNGSPORTA**LDas Zertifizierungsportal ist über[https://z](https://z)ertifizierungsportal2.kbv.de/zu erreichen.Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer darananschließenden manuellen Prüfung durch das Referat Zertifizierung.Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordertwerden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag aufZertifizierunghochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „MeineAufgaben“) die nächstenArbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten derZertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.Alle erforderlichenPrüfunterlagensind für die Zertifizierung zu übermitteln. Vor jedem Upload imZertifizierungsportal muss die komplette vorgegebeneVerzeichnisstrukturmit den von Ihnen erstelltenPrüfunterlagen in Form einer ZIP-Datei archiviert werden.Die in das Portalintegrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfungauf Vollständigkeit der eingereichten Prüfunterlagen durch.Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werdenSie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zubeheben bzw. die Lieferung zu vervollständigen.Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechendeFehlermeldungsbenachrichtigungen (sogenannte Log-Dateien imHTML oder XML-Format) erzeugt undIhnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durchdas Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierungals fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportalsgenutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das ReferatZertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise inKapitel 3berücksichtigt werden.1.4**ZERTIFIZIERUNGSDOKUM**ENTEAlle erforderlichen Unterlagen stehen im Internet zum Download unterITA-Updatebereit. In diesemZusammenhang berücksichtigen Sie bitte das fünfte KapitelReferenzierte Dokumente.1.5**PRÜFUNTERLAGEN**Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:›Eine Archivdatei (*.zip.XKM)
+1.3 ZERTIFIZIERUNGSPORTAL
 
-KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv„Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das 1, welche die einzelnen XML-Dateien im entsprechenden Verzeichnisenthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiterenAngaben entnehmen Sie bitte folgender Quelle: [
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
-1Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.(Namensvergabekonventionen beachten!)
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
+
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML oder XML-Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3  berücksichtigt werden.
+
+1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das fünfte Kapitel Referenzierte Dokumente.
+
+1.5 PRÜFUNTERLAGEN
+
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+
+› Eine Archivdatei (*.zip.XKM)
+
+KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv  „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das
+
+1, welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [
+
+1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
+
+________________
 
 Seite 6 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
-
-________
 
 
 ---
 
-jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über dasZertifizierungsportal(siehe Kapitel1.3)hochgeladen und geprüft werden.›Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.Bitte speichern Sie jeden Screenshot in einerPDF-Datei mit folgender Namenskonvention:*Scr**eenshot_P_K.pdf*wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautetder Dateiname für Konstellation 1 aus Prüffall 5805„Screenshot_5805_1.pdf“. Sollte es keineKonstellation in diesem Prüffall geben, soentfällt dieser Teil des Namens, z.B. lautet der geforderteDateiname bei Prüffall 5801 „Screenshot_5801.pdf“.**Ordnerstruktur**Ihre Prüfunterlagen sind von Ihnen gemäß der nachfolgenden Ordnerstruktur zur Verfügung zu stellen:
+jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft werden.  › Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer PDF-Datei mit folgender Namenskonvention:   *Screenshot_P_K.pdf*   wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte  Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
 
-Abbildung1: Struktur desZIP-Archives für die Zertifizierung anhand von Beispieldateien **1.6****PRÜFVORGABEN**Die geforderten Prüffälle sind zu bearbeiten. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)unter Nutzung des öffentlichen Testschlüsselszu verschlüsseln.Die Angaben für die hier beschriebenen und für die Zertifizierung erforderlichen Unterlagen finden Sie inKapitel 1.4–Zertifizierungsdokumente.Der 5807 ist nur dann verpflichtend zu bearbeiten und einzureichen, wennim Antrag auf Zertifizierungdieoptionalen Funktionen als realisiert angegeben wurden.**1.7****PRAXISDATEN/ ARZTSTE****MPEL**Folgende Angaben sind für die Zertifizierung zu verwenden:
+**Ordnerstruktur**
+
+Ihre Prüfunterlagen sind von Ihnen gemäß der nachfolgenden Ordnerstruktur zur Verfügung zu stellen:
+
+Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien
+
+**1.6 PRÜFVORGABEN**
+
+Die geforderten Prüffälle sind zu bearbeiten. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+
+Die Angaben für die hier beschriebenen und für die Zertifizierung erforderlichen Unterlagen finden Sie in  Kapitel 1.4 – Zertifizierungsdokumente.
+
+Der 5807 ist nur dann verpflichtend zu bearbeiten und einzureichen, wenn im Antrag auf Zertifizierung die  optionalen Funktionen als realisiert angegeben wurden.
+
+**1.7 PRAXISDATEN/ ARZTSTEMPEL**
+
+Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 | BEZEICHNUNNG | INHALT |
 |---|---|
@@ -118,17 +184,11 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 
 ---
 
-
-
-
-
----
-
 2
 
 ## PRÜFFÄLLE
 
-**2.1****PRÜFFALL****58****01**
+**2.1 PRÜFFALL 5801**
 
 |  |  |
 |---|---|
@@ -138,22 +198,22 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1.Anlegen einer Vor Verordnung und einer Verordnung:
+1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5801 |
 | Geburtsjahr des Kindes | 2013 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nein |
 |  |  |
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
@@ -165,19 +225,20 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 
 Seite 8 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+nd einer Nachsorge andere Ursache  andere
 
 ---
 
-2.Anlegen einerNachsorge Dokumentation:
+2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5801 |
 | Geburtsjahr des Kindes | 2013 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) | 20-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
 | Abweichung in Luftleitung |  |
@@ -188,12 +249,14 @@ Seite 8 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit |  |
 
-Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 /12. August 2021
+Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Versorgungskonzept andere Version: 3.01 / 12. August 2021
 
 
 ---
 
-2.2**PRÜFFALL**5802
+2.2 PRÜFFALL 5802
 
 |  |  |
 |---|---|
@@ -203,22 +266,22 @@ Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1.Anlegen einer Vor Verordnung und einer Verordnung:
+1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und |
+| Allgemeine und | |
 | Patienten-ID | 5802 |
 | Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
-| Vor Verordnun |
+| Vor Verordnun | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nicht beurteilbar |
 |  |  |
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | rechts |
 | Kombinierte Schwerhörigkeit |  |
@@ -230,19 +293,20 @@ Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.
 
 Seite 10 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Patientenangaben andere Ursache
 
 ---
 
-2.Anlegen einerNachsorge Dokumentation:
+2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5802 |
 | Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) | 30-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
 | Abweichung in Luftleitung |  |
@@ -253,12 +317,14 @@ Seite 10 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Pädagoge |
 
-Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 /12. August 2021
+Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Versorgungskonzept andere Version: 3.01 / 12. August 2021
 
 
 ---
 
-2.3*PRÜFFALL*5803
+2.3 PRÜFFALL 5803
 
 |  |  |
 |---|---|
@@ -268,22 +334,22 @@ Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1.**Anlegen einer Vor Verordnung und einer Verordnung:**
+1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und |
+| Allgemeine und | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr des Kindes | 2009 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-07-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2012 |
 | Sprachentwicklungsstörung | ja, andere Ursache |
 |  | Andere |
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit | rechts; links |
@@ -295,19 +361,20 @@ Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 Seite 12 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Patientenangaben teilimplantiertes Knochenleitungsgerät
 
 ---
 
-2.Anlegen einerNachsorge Dokumentation:
+2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr des Kindes | 2009 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) | 25-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
 | Abweichung in Luftleitung | HdO; CROS; BiCROS; andere |
@@ -318,12 +385,14 @@ Seite 12 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 | Versorgung erfolgte zuzahlungsfrei | nein |
 | Kooperation erfolgt mit | Logopäde; Pädagoge; |
 
-Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 /12. August 2021
+Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; andere altersgerechte Testverfahren Betreuungseinrichtung Version: 3.01 / 12. August 2021
 
 
 ---
 
-2.4*PRÜFFALL*5804
+2.4 PRÜFFALL 5804
 
 |  |  |
 |---|---|
@@ -333,22 +402,22 @@ Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1.**Anlegen einer Vor Verordnung und einer Verordnung:**
+1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und |
+| Allgemeine und | |
 | Patienten-ID | 5804 |
 | Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2011 |
 | Sprachentwicklungsstörung | ja, audiogen |
 |  |  |
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
@@ -360,19 +429,20 @@ Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 Seite 14 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Patientenangaben andere Ursache andere
 
 ---
 
-2.Anlegen einerNachsorge Dokumentation:
+2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
-| Allgemeine und Patientenangaben |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5804 |
 | Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) | 26-09-2020 |
 | Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
 | Abweichung in Luftleitung | andere |
@@ -383,12 +453,14 @@ Seite 14 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Betreuungseinrichtung |
 
-Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 /12. August 2021
+Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Versorgungskonzept Testverfahren Version: 3.01 / 12. August 2021
 
 
 ---
 
-2.5**PRÜFFALL**5805
+2.5 PRÜFFALL 5805
 
 |  |  |
 |---|---|
@@ -400,7 +472,7 @@ Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 | KONSTELLATION 5805 |  |
 |---|---|
-| Patientenangaben |
+| Patientenangaben | |
 | Patienten-ID | 5805 |
 | Geburtsjahr des Kindes |  |
 | Geburtsmonat des Kindes |  |
@@ -408,7 +480,7 @@ Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 | KONSTELLATION |  |
 |---|---|
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann | 2011 |
@@ -417,7 +489,7 @@ Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 | KONSTELLATION 5805 |  |
 |---|---|
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
@@ -426,19 +498,20 @@ Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+verhindert en sind frei wählbar, sofern diese nicht vorgegeben sind -1 5805 andere Ursache -3 andere Ursache
 
 ---
 
 | KONSTELLATION |  |
 |---|---|
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 
 | KONSTELLATION |  |
 |---|---|
-| Verordnung |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit |  |
@@ -450,7 +523,7 @@ Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 
 | KONSTELLATION |  |
 |---|---|
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) | 17-09-2020 |
 | Der Hörgeräteversorgungsvorschlag entspricht dem |  |
 | Abweichung in Luftleitung |  |
@@ -461,14 +534,18 @@ Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 | Versorgung erfolgte zuzahlungsfrei | nein |
 | Kooperation erfolgt mit |  |
 
-Seite 17 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 / 12. August 2021
+Seite 17 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Version: 3.01 / 12. August 2021
+
+5805-4  5805-5 Taubheit andere  5805-6 aufgestellten Versorgungskonzept andere
 
 
 ---
 
 | KONSTELLATION |  |
 |---|---|
-| Nachsorge |
+| Nachsorge | |
 | Untersuchungsdatum (Nachsorge) |  |
 | Der Hörgeräteversorgungsvorschlag entspricht dem | nein |
 | Abweichung in Luftleitung |  |
@@ -479,12 +556,16 @@ Seite 17 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit | Logopäde |
 
-Seite 18 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3.01 / 12. August 2021
+Seite 18 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Version: 3.01 / 12. August 2021
+
+5805-7 aufgestellten Versorgungskonzept andere
 
 
 ---
 
-**2.6****PRÜFFALL 58****0****6**
+**2.6 PRÜFFALL 5806**
 
 |  |  |
 |---|---|
@@ -507,10 +588,11 @@ Seite 18 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /  Version: 3
 
 Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK egt. Bei Angabe der Patienten -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten -ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. -170 bis P1-190 nach. Es werden Screenshots vom Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneute n Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). PDF-Dokument nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01. 2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20).
 
 ---
 
-2.7*PRÜFFALL 5807*(OPTIONAL)
+2.7 PRÜFFALL 5807 (OPTIONAL)
 
 |  |  |
 |---|---|
@@ -520,22 +602,22 @@ Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 | Prüfunterlagen | Screenshots von den Warnmeldungen sowie die im Anschluss erzeugte XML |
 | Hinweis |  |
 
-1.**Anlegen einer Vor Verordnung und einer Verordnung:**
+1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
-| Allgemeine und |
+| Allgemeine und | |
 | Patienten-ID | 5807 |
 | Geburtsjahr des Kindes | 2017 |
 | Geburtsmonat des Kindes | 01 |
 | Geschlecht | weiblich |
-| Vor Verordnung |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | ja, andere Ursache |
 |  |  |
-| Ve |
+| Ve | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
@@ -547,52 +629,52 @@ Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.
 
 Seite 20 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei  Patientenangaben
 
 ---
 
-3
+| 3 |  |  |  | TESTDATENVALIDIERUNG | |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alle | in | Kapitel | 2 beschriebenen | | Prüffälle, | bei | welchen | eine | XML-Dokumentation | | das | Ergebnis ist, | können |
+| auch | in der |  | Testdatenvalidierung | des |  | Zertifizierungsportals | | | genutzt | werden. | Die | übermittelten | Test daten |
+| werden | auf |  | Vollständigkeit | und | Korrektheit | automatisiert | | geprüft. | Eine | manuelle | Prüfung | der | eingereichten |
+|  | Unterlagen | durch | das Referat |  | Zertifizierung | findet | nicht | statt, | demzufolge | ist | der | Ordner | „Dokumentation“ |
+| im | Gegensatz | zur | Zertifizierung | nicht |  | Gegenstand | der |  | Testvalidierung. | Nach | dem das | Thema | ausgewählt |
+| wurde, | kann | die |  | Verzeichnisstruktur | mit den |  | Prüfunterlagen | | hochgeladen |  | werden. An | die | angegebene E- |
+|  | Mail-Adresse | | werden die | Testergebnisse |  | gesendet. |  |  |  |  |  |  |  |
+|  | Abbildung 2: |  | Testdatenvalidierung |  |  |  |  |  |  |  |  |  |  |
+| Bitte |  | beachten | Sie die | folgende | Verzeichnisstruktur | | des | ZIP-Archives. | |  |  |  |  |
+|  | Abbildung 3: | Struktur | des | ZIP-Archives für | die | Testdatenvalidierung | | anhand | von | Beispieldateien |  |  |  |
+| Seite | 21 von | 22 / | KBV / Pruefpaket | QS | Hörgeräteversorgung-Kinder | | / Version: | 3.01 | / 12. | August 2021 |  |  |  |
 
-## TESTDATENVALIDIERUNG
-
-Alle inKapitel 2beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, könnenauch in der Testdatenvalidierung des Zertifizierungsportals genutztwerden. Die übermittelten Testdatenwerden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichtenUnterlagendurch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewähltwurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebeneE-Mail-Adressewerden die Testergebnisse gesendet.
-
-Abbildung2: Testdatenvalidierung
-
-Bitte beachten Sie die folgende Verzeichnisstruktur desZIP-Archives.
-
-Abbildung3:Struktur desZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
-
-Seite 21 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
-
-
----
-
-
-
-
-
-
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Test werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E- Mail-Adresse werden die Testergebnisse gesendet. Abbildung 2: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien Seite 21 von 22  /  KBV  /  Pruefpaket QS Hörgeräteversorgung-Kinder  /  Version: 3.01  /  12. August 2021
 
 ---
 
 4
 
-## REFER
-
-## ENZIERTE DOKUMENTE
+## REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| KBV_I | Ausfüllhinweise zum Dokumentationsbogen |
-| KBV_ITA_FMEX_AAZ | Antrag auf Zertifizierung QSHGVK |
+| KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise zum Dokumentationsbogen |
+| KBV_ITA_FMEX_AAZ_QSHGVK | Antrag auf Zertifizierung QSHGVK |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung |
 | KBV_ITA_VGEX_Plausi_QSHGVK | Plausibilitäten und Berechnungsvorschrift QS |
 | KBV_ITA_VGEX_Schnittstelle_QSHGVK | Schnittstellenbeschreibung QS |
 | KBV_ITA_VGEX_XML | Austausch von XML-Daten in der Vertragsärztlichen |
-| KBV-Kryptomodul (XKM) und öffentlicher | KBV |
+| KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 
-**Ansprechpartner****:**Dezernat Digitalisierung und ITIT in der ArztpraxisTel.: 030 4005-2077, pruefstelle@kbv.deKassenärztliche BundesvereinigungHerbert-Lewin-Platz 2, 10623 Berlinpruefstelle@kbv.de,www.kbv.de
+**Ansprechpartner:**
 
-Seite 22 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-  Kinder / Version: 3.01 / 12. August 2021
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 22 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
+Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder -Schnittstellen Versorgung Testschlüssel

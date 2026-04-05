@@ -1,60 +1,52 @@
-1
-
-385**CLASSY RT**KHP Kelm & Homberg Produktionsgeselschaft GmbH & Co.KG24240
-
-487**NEXUS RIS**NEXUS / CHILI GmbH25250
-
-203**ALBIS**CompuGroup Medical Deutschland AG2830-2
-
-252**CGM M1 PRO**CompuGroup Medical Deutschland AG30300
-
-417**Centricity RIS-i**GE Healthcare Information Technologies GmbH & Co. KG31301
-
-216**x.isynet**medatixx GmbH & Co. KG37352
-
-314**IMedOne**Deutsche Telekom Clinical Solutions GmbH42411
-
-439**eRIS**Digithurst Bildverarbeitungssysteme GmbH & Co. KG44440
-
-280**CGM MEDISTAR BLACK PRO**CompuGroup Medical Deutschland AG44422
-
-226**CGM MEDICO**CGM Clinical Europe GmbH4647-1
-
-446**WIN-RADIOLOG**medigration GmbH58562
-
-343**SAP Ambulatory Care Management**SAP SE78762
-
-276**RadCentre Billing (OPD)**Mesalvo Mannheim GmbH80800
-
-254**ORBIS®**Dedalus HealthCare GmbH186189-3
-
-256**medavis RIS**medavis GmbH208210-2
-
-**Id****Praxissoftware****Anbieter****Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
-
-**31.03.2025** **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:**
-
 ### TOP 20 Systeme - Radiologen
 
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
+
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
+
+256 **medavis RIS**medavis GmbH2162088
+
+254 **ORBIS®**Dedalus HealthCare GmbH185186-1
+
+276 **RadCentre Billing (OPD)**Mesalvo Mannheim GmbH81801
+
+343 **SAP Ambulatory Care Management** SAP SE80782
+
+446 **WIN-RADIOLOG**medigration GmbH58580
+
+226 **CGM MEDICO**CGM Clinical Europe GmbH47461
+
+439 **eRIS**Digithurst Bildverarbeitungssysteme GmbH & Co. KG4344-1
+
+314 **IMedOne**Deutsche Telekom Clinical Solutions GmbH4142-1
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG4044-4
+
+216 **x.isynet**medatixx GmbH & Co. KG3637-1
+
+252 **CGM M1 PRO**CompuGroup Medical Deutschland AG2830-2
+
+417 **Centricity RIS-i**GE Healthcare Information Technologies GmbH & Co. KG 2831-3
+
+385 **CLASSY RT**KHP Kelm & Homberg Produktionsgeselschaft GmbH & Co.KG 27243
+
+203 **ALBIS**CompuGroup Medical Deutschland AG2628-2
+
+487 **NEXUS RIS**NEXUS / CHILI GmbH2425-1 1
+
 
 ---
 
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
 
+112 **TURBOMED**CompuGroup Medical Deutschland AG2224-2
 
+637 **Xplore RIS**EDL Software Deutschland GmbH17170
 
+447 **CARW**EDL Software Deutschland GmbH17170
 
----
+210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH16160
 
-062**EVA**Abasoft EDV-Programme GmbH16160
-
-243**x.concept**medatixx GmbH & Co. KG1718-1
-
-447**CARW**EDL Software Deutschland GmbH1719-2
-
-637**Xplore RIS**EDL Software Deutschland GmbH17152
-
-112**TURBOMED**CompuGroup Medical Deutschland AG24222
-
-**Id****Praxissoftwar****e****Anbieter****Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
-
-2
+062 **EVA**Abasoft EDV-Programme GmbH1516-1 2

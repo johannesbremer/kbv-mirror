@@ -20,27 +20,27 @@ Ausfluss / pathologische Blutung
 
 IUP
 
-Einnahme von Ovulationshemmer / sonstige Hormonanwendung ***(ggf. bitte in Anmerkungen erläutern)***
+Einnahme von Ovulationshemmer /  sonstige Hormonanwendung  ***(ggf. bitte in Anmerkungen erläutern)***
 
 Klinischer Befund
 
 nein
 
-Wurde bereits eine Krebsfrüherkennungsuntersuchung durchgeführt?
+Wurde bereits eine Krebsfrüherkennungsuntersuchung  durchgeführt?
 
-Gynäkologische OP, Strahlen- oder Chemotherapie des Genitales
+Gynäkologische OP,  Strahlen- oder Chemotherapie des Genitales
 
-Primär- screening Abklärungs- diagnostik
+Primär-  screening Abklärungs-  diagnostik
 
-Zytologie Ko-Testung (Zyt.+HPV)HPV-Test
+Zytologie Ko-Testung  (Zyt.+HPV)HPV-Test
 
 **Anamnese**
 
-**Auftrag** ***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+**Auftrag**  ***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
 
-neinja
+nein ja
 
-neinja Letzte Periode
+nein ja Letzte  Periode
 
 **Jetzt:**
 
@@ -64,13 +64,13 @@ nicht verwertbar
 
 negativ
 
-unauffälligauffällig
+unauffällig auffällig
 
 HPV-HR-Testergebnis negativ
 
 nicht verwertbar
 
-nicht differenzierbarjanein
+nicht  differenzierbarjanein
 
 positiv, wenn ja: Liegt HPV-Typ 16 oder HPV-Typ 18 vor?
 
@@ -114,13 +114,13 @@ nach Östrogenbehandlung
 
 **Bemerkungen**
 
-**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);** ***Diagnosen; sonstige Anmerkungen*** Monaten
+**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);**  ***Diagnosen; sonstige Anmerkungen*** Monaten
 
 Gruppe
 
 Gruppe
 
-Vertragsarztstempel / Unterschrift des zytologisch tätigen Arztes
+Vertragsarztstempel / Unterschrift  des zytologisch tätigen Arztes
 
 Vertragsarztstempel / Unterschrift des Arztes
 
@@ -140,8 +140,8 @@ Auftragsnummer des Labors
 
 Proliferationsgrad
 
-20-29 Jahre 30-34 Jahre ab 35 Jahre
+20-29  Jahre 30-34  Jahre ab 35  Jahre
 
 Alterskategorie
 
-PRF.NR. Muster 39b/E (1.2021)
+PRF.NR.  Muster 39b/E (1.2021)

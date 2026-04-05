@@ -1,176 +1,68 @@
-266**x.comfort**
-
-462**medatixx**
-
-208**NEXUS / KIS**
-
-488**inSuite**
-
-457**tomedo**
-
-244**QUINCY WIN**
-
-254**ORBIS®**
-
-252**CGM M1 PRO**
-
-203**ALBIS**
-
-243**x.concept**
-
-216**x.isynet**
-
-112**TURBOMED**
-
-280**CGM MEDISTAR BLACK PRO**
-
-**Id****Praxissoftware**
-
-### Datenstand: 31.03.2025
-
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in di
-
 ## TOP 20 Systeme - Lungenärzte
 
-medatixx GmbH & Co. KG
+### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
 
-medatixx GmbH & Co. KG
+### Datenstand: 30.06.2025
 
-NEXUS AG
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
 
-Doc Cirrus GmbH
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG
 
-Zollsoft GmbH
+112 **TURBOMED**CompuGroup Medical Deutschland AG
 
-Frey ADV GmbH
+252 **CGM M1 PRO**CompuGroup Medical Deutschland AG
 
-Dedalus HealthCare GmbH
+216 **x.isynet**medatixx GmbH & Co. KG
 
-CompuGroup Medical Deutschland AG
+243 **x.concept**medatixx GmbH & Co. KG
 
-CompuGroup Medical Deutschland AG
+203 **ALBIS**CompuGroup Medical Deutschland AG
 
-medatixx GmbH & Co. KG
+254 **ORBIS®**Dedalus HealthCare GmbH
 
-medatixx GmbH & Co. KG
+244 **QUINCY WIN**Frey ADV GmbH 457 **tomedo**Zollsoft GmbH
 
-CompuGroup Medical Deutschland AG
+488 **inSuite**Doc Cirrus GmbH
 
-CompuGroup Medical Deutschland AG
+462 **medatixx**medatixx GmbH & Co. KG
 
-**Anbieter**
+210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 770
 
-1
+550
 
-1
+431
 
-1
+440
 
-1
+330
 
-1
+330
 
-2
+220
 
-2
+220
 
-2
+220
 
-3
+110
 
-3
+110
 
-3
-
-4
-
-5
-
-7
-
-**Installationen 1.Q.2025**
-
-### eser Fachgruppe mit den höchsten Installationszahlen.
+110
 
 1
-
-1
-
-0
-
-1
-
-2
-
-2
-
-2
-
-3
-
-3
-
-3
-
-4
-
-5
-
-8
-
-**Installationen 4.Q.2024**
-
-0
-
-0
-
-1
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
--1
-
-**Differenz**
 
 
 ---
 
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
 
+266 **x.comfort**medatixx GmbH & Co. KG110
 
+030 **Praxis-Programm**MediSoftware Computersysteme für Ärzte 110
 
+023 **DATA VITAL**CompuGroup Medical Deutschland AG110
 
----
-
-818**proLAB**SysTek GmbH000
-
-716**Melos-Labor-System**LABLIONS software & solutions GmbH000
-
-343**SAP Ambulatory Care Management**SAP SE000
-
-261**S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender101
-
-023**DATA VITAL**CompuGroup Medical Deutschland AG110
-
-030**Praxis-Programm**MediSoftware Computersysteme für Ärzte110
-
-210**Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH110
-
-**Id****Praxissoftware****Anbieter****Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
-
-2
+261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender 110 2

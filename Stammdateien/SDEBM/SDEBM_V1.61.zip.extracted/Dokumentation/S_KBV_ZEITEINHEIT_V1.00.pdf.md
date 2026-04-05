@@ -8,15 +8,12 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | Sekunde |
-| 2 | Minute |
-| 3 | Stunde |
-| 4 | Tag |
-| 5 | Woche |
-| 6 | Monat |
+**Code**
+
+1 2 3 4 5 6
+
 | 7 | Quartal |
+|---|---|
 | 8 | Jahr |
 
 Schlüsseltabelle: S_KBV_ZEITEINHEIT
@@ -27,10 +24,6 @@ Schlüsseltabelle: S_KBV_ZEITEINHEIT
 
 **23.11.2004**
 
-1
+**Bezeichnung**
 
-
----
-
-
-
+Sekunde Minute Stunde Tag Woche Monat 1

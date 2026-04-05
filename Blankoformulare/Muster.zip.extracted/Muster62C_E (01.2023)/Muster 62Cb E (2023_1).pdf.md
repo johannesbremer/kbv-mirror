@@ -1,4 +1,10 @@
-BefeuchtungTrachealkanüleTracheotomie
+Befeuchtung
+
+| Tracheotomie | Trachealkanüle |
+|---|---|
+|  | Innendurch- |
+|  | Hersteller |
+|  | messer in mm , |
 
 ## Behandlungsplan
 
@@ -20,27 +26,34 @@ Notfallmanagement
 
 neinMRE-Besiedelungja, folgender Keim
 
-Logopädie Maßnahmen der Heilmitteltherapie zur Unterstützung der Therapieziele im Rahmen der AKIPhysiotherapie
-
-dilatativchirurgisch
+Logopädie  Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKIPhysiotherapie
 
 Absauggerät
 
-janein
+ja nein
 
-janeinNotfallversorgung
+janein Notfallversorgung
 
-passivaktiv
+passiv aktiv
 
 Ergotherapie
 
-|  | | | Dauer |
-|---|---|---|---|
-| tgl. | wtl. | mtl. | vom |
+### Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
 
 ### Therapieziele
 
 ### Maßnahmen der außerklinischen Intensivpflege
+
+Häufigkeit
+
+Leistung
+
+Dauer
+
+| tgl. | wtl. | mtl. | vom |
+|---|---|---|---|
+
+bis
 
 **Benennung der zu erfassenden und zu bewertenden Vitalparameter**
 
@@ -50,7 +63,7 @@ Ergotherapie
 
 **Dysphagiemanagement**
 
-**Bedienung und Überwachung des Beatmungsgerätes** Beatmungsgeräteinstellungen
+**Bedienung und Überwachung des Beatmungsgerätes**  Beatmungsgeräteinstellungen
 
 Name des Arztes / der Ärztin
 
@@ -60,28 +73,20 @@ Name des Arztes / der Ärztin
 
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
 
-Innendurch- messer in mm,
-
-Häufigkeit pro Tag
+Häufigkeit  pro Tag
 
 Inhalationsgerät
 
-janein Häufigkeit pro Tag Medikament/ Substanz
+ja nein Häufigkeit  pro Tag Medikament/  Substanz
 
-Hersteller
+| mit Beatmung |  | unter Spontanatmung |
+|---|---|---|
+| Dauer |  | Dauer |
+| Flow l/min |  | Flow l/min |
+| h/tgl. |  | h/tgl. |
 
-mit Beatmung
-
-Flow l/min Dauer h/tgl. Dauer h/tgl. Dauer h/tgl.
-
-unter Spontanatmung
-
-Flow l/min
-
-Mobilität
-
-Flow l/min
+Dauer  h/tgl.
 
 ärztliche Unterschrift
 
-PRF.NR. Muster 62Cb/E (1.2023)**Ausfertigung für den Leistungserbringer nach § 132I**
+Flow             l/min Flow             l/min Mobilität Flow             l/min dilatativ chirurgischPRF.NR.  Muster 62Cb/E (1.2023)**Ausfertigung für den Leistungserbringer nach § 132I**

@@ -8,9 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
+**Code**
+
 | false | nicht abrechnungsfähig in der Arztpraxis |
+|---|---|
 | true | abrechnungsfähig in der Arztpraxis |
 
 Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS
@@ -21,10 +22,6 @@ Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS
 
 **01.07.2013**
 
+**Bezeichnung**
+
 1
-
-
----
-
-
-

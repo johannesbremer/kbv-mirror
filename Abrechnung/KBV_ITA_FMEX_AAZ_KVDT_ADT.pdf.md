@@ -17,47 +17,47 @@
 
 Seite 1 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / 15. Mai 2024
 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+
 
 ---
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-## ABRECHNUNGSDATEN-ADT
-
-1
+## ABRECHNUNGSDATEN-ADT 1
 
 ## ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1****ANTRAGSSTELLER**
+**1.1 ANTRAGSSTELLER**
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
-|  |  |
-|---|---|
-| Name des Antragsstellers [bei juristischen Personen ist die |  |
-| Geschäftsbereich [falls vorhanden] |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| Webseite |  |
-| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+|  |  | | |
+|---|---|---|---|
+| Name des Antragsstellers [bei juristischen Personen ist die |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
+| Straße und Hausnummer |  | | |
+| PLZ, Ort |  | | |
+| Telefonnummer |  | | |
+| E-Mail-Adresse |  | | |
+| Webseite |  | | |
+| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Systempfleger [nur anzugeben, wenn der |  | | |
+| Straße und Hausnummer |  | | |
+| PLZ, Ort |  | | |
+| Telefonnummer |  | | |
+| E-Mail-Adresse |  | | |
 
-Seite 2 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]Seite 2 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
 
 ---
 
-**1.2****OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt1.1.
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -66,24 +66,24 @@ Nur anzugeben, wenn abweichend von Abschnitt1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3****ZERTIFIZIERUNGSGEGENSTAND**
+**1.3 ZERTIFIZIERUNGSGEGENSTAND**
 
-Bitte geben Sie die Bezeichnung und Identnummer (fallsvorhanden) des Zertifizierungsgegenstandes an.
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
-|  |  |
-|---|---|
-| Bezeichnung |  |
-| Identnummer [die letzten drei |  |
-| Zertifizierungsgegenstand | ☐  ja, System ist mit Arzt-Patient- | ☐  nein, System ist ohne Arzt- |
+|  |  | |
+|---|---|---|
+| Bezeichnung |  | |
+| Identnummer [die letzten drei |  | |
+| Zertifizierungsgegenstand | ☐ ja, System ist mit Arzt-Patient- Kontakt (APK) | ☐ nein, System ist ohne Arzt- Patient-Kontakt (APK) |
 
-**1.4****BETRIEBSSYSTEME**
+**1.4**  **BETRIEBSSYSTEME**
 
 Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
-|  |  |
-|---|---|
+|  |  | | | | |
+|---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
-| ☐ | iOS/Android | ☐ | Sonstige |
+| ☐ | iOS/Android | ☐ | Sonstige | | |
 
 [ ]
 
@@ -93,6 +93,7 @@ Antragssteller:
 
 [ ]
 
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? [ ] [ ] [ ] [ ] [ ]
 
 ---
 
@@ -100,29 +101,29 @@ Antragssteller:
 
 ## REALISIERUNG VON ANFORDERUNGEN
 
-2.1SATZARTEN UND SCHEINUNTERGRUPPEN
+2.1 SATZARTEN UND SCHEINUNTERGRUPPEN
 
-|  |  |
-|---|---|
+|  |  | | | | | | |
+|---|---|---|---|---|---|---|---|
 | ☐ | Satzart 0101 | ☐ | Satzart 0102 | ☐ | Satzart 0103 | ☐ | Satzart 0104 |
-| ☐ | 20 = Selbstausstellung |
-| ☐ | 21 = Auftragsleistungen (Defaultwert bei Einsendepraxen) |
-| ☐ | 23 = Konsiliaruntersuchung |
-| ☐ | 24 = Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) |
-| ☐ | 26 = Stationäre Mitbehandlung, Vergütung nach ambulanten |
-| ☐ | 27 = Überweisungsschein für Laboratoriumsuntersuchungen als Auftragsleistung |
-| ☐ | 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften |
-| ☐ | 30 = Belegärztliche Behandlung |
-| ☐ | 31 = Belegärztliche Mitbehandlung |
-| ☐ | 32 = Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher Behandlung |
-| ☐ | 41 = Ärztlicher Notfalldienst (Defaultwert) |
-| ☐ | 42 = Urlaubs- /bzw. Krankheitsvertretung |
-| ☐ | 43 = Notfall |
-| ☐ | 44 = Notfalldienst mit Taxi |
-| ☐ | 45 = Notarzt-/Rettungswagen (Rettungsdienst) |
-| ☐ | 46 = Zentraler Notfalldienst |
+| ☐ | 20 = Selbstausstellung | | | | | | |
+| ☐ | 21 = Auftragsleistungen (Defaultwert bei Einsendepraxen) | | | | | | |
+| ☐ | 23 = Konsiliaruntersuchung | | | | | | |
+| ☐ | 24 = Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) | | | | | | |
+| ☐ | 26 = Stationäre Mitbehandlung, Vergütung nach ambulanten | | | | | | |
+| ☐ | 27 = Überweisungsschein für Laboratoriumsuntersuchungen als Auftragsleistung | | | | | | |
+| ☐ | 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften | | | | | | |
+| ☐ | 30 = Belegärztliche Behandlung | | | | | | |
+| ☐ | 31 = Belegärztliche Mitbehandlung | | | | | | |
+| ☐ | 32 = Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher Behandlung | | | | | | |
+| ☐ | 41 = Ärztlicher Notfalldienst (Defaultwert) | | | | | | |
+| ☐ | 42 = Urlaubs- /bzw. Krankheitsvertretung | | | | | | |
+| ☐ | 43 = Notfall | | | | | | |
+| ☐ | 44 = Notfalldienst mit Taxi | | | | | | |
+| ☐ | 45 = Notarzt-/Rettungswagen (Rettungsdienst) | | | | | | |
+| ☐ | 46 = Zentraler Notfalldienst | | | | | | |
 
-2.2BEDRUCKUNG DES PERSONALIENFELDES
+2.2 BEDRUCKUNG DES PERSONALIENFELDES
 
 |  |  |
 |---|---|
@@ -171,12 +172,12 @@ Seite 4 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT
 
 Antragssteller:
 
-/ Version: 4.4 / 15. Mai 2024
+(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst) Grundsätzen [ ] [ ] [ ]/ Version: 4.4 / 15. Mai 2024
 
 
 ---
 
-**2.3****ABRECHNUNGSGEBIET**
+**2.3 ABRECHNUNGSGEBIET**
 
 |  |  |
 |---|---|
@@ -196,7 +197,7 @@ Antragssteller:
 | ☐ | 14 = Ambulantes Operieren |
 | ☐ | 15 = AOP nach § 115b |
 
-**2.4****ANFORDERUNGSDOKUMENTE**
+**2.4 ANFORDERUNGSDOKUMENTE**
 
 |  |  |
 |---|---|
@@ -241,27 +242,28 @@ Seite 5 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version:
 
 Antragssteller:
 
+nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten realisiert mit  › allen Feldern › allen Ausprägungen (erlaubte Inhalte) zu den Feldern › allen Regeln
 
 ---
 
-**2.5****DIGITALE ÜBERMITTLUNG DES ÜBERWEISUNGSSCHEINS (MUSTER 6)**
+**2.5 DIGITALE ÜBERMITTLUNG DES ÜBERWEISUNGSSCHEINS (MUSTER 6)**
 
 |  |  |
 |---|---|
 | ☐ | Alle Funktionen zum Thema „Unterstützung im Rahmen der digitalen Übermittlung des |
 
-**2.6****ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM****-AKTUALISIERUNG**
+**2.6 ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM-AKTUALISIERUNG**
 
 |  |  |
 |---|---|
 | ☐ | Die konditionale Pflichtfunktion KP2-185 wurde im ADT umgesetzt. |
 
-**2.7****REALISIERTE OPTIONALE FUNKTIONEN****ADT**
+**2.7 REALISIERTE OPTIONALE FUNKTIONEN ADT**
 
 Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisiert.
 
-|  |  |
-|---|---|
+|  |  | | | | |
+|---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
 | IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
@@ -279,10 +281,11 @@ Seite 6 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version:
 
 Antragssteller:
 
+Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
 
 ---
 
-**2.8****DEFAULTWERTE/ERSATZWERTE ZU FELDERN DER SATZARTEN**
+**2.8 DEFAULTWERTE/ERSATZWERTE ZU FELDERN DER SATZARTEN**
 
 Folgende Felder werden mit Defaultwerten bzw. Ersatzwerten vorbelegt:
 
@@ -298,7 +301,7 @@ Folgende Felder werden mit Defaultwerten bzw. Ersatzwerten vorbelegt:
 
 Antragssteller:
 
-Seite 7 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+ERSATZWERT Seite 7 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -307,24 +310,24 @@ Seite 7 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version:
 
 ## ANLAGE ZU DEN KONTAKTDATEN
 
-Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die „Geschäftsführung“ zu benennen.
+Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  |
-| Ansprechpartner(in) für das vorliegende Zertifizierungsthema |
-|---|
+|  | |
+| Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
+|---|---|
 | Name* |  |
 | Telefonnummer* |  |
 | E-Mail-Adresse* |  |
-| Ansprechpartner(in): Geschäftsführung |
+| Ansprechpartner(in): Geschäftsführung | |
 | Name* |  |
 | Telefonnummer |  |
 | E-Mail-Adresse* |  |
-| Ansprechpartner(in): Produktmanagement |
+| Ansprechpartner(in): Produktmanagement | |
 | Name |  |
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-*Diese Information ist verpflichtend anzugeben
+* Diese Information ist verpflichtend anzugeben
 
 Antragssteller:
 
@@ -341,55 +344,55 @@ Seite 8 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version:
 
 ## SSTELLER
 
-**I.****Zertifizierungsrahmen** (1)Die Zertifizierung wird im Rahmen einer Sichtprüfung durchgeführt. (2)Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis- oder Sichtprüfung durchgeführt. (3)Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die Zulassung. (4)Die Laufzeit der Zulassung beträgt 36 Monate. (5)Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Sichtprüfung durchgeführt.  (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis- oder Sichtprüfung durchgeführt.  (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (4) Die Laufzeit der Zulassung beträgt 36 Monate.  (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | <K^dE/EΦ |
 |---|---|---|---|
 | ADT | Neu- oder | Sichtprüfung | 1.238,58 [pro Termin] |
 |  | Erweiterungs- | Sicht- oder | 344,05 [pro Satzart] |
 
-**II.****Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
-(1)Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
+(1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2)Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer Antrag auf Zertifizierung eingereicht werden muss.
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 
-(3)Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen der Zulassung führen.
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
 
-(4)Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III.****Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
-(1)Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2 Wochen) zur Verfügung gestellt werden.
+(1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
-(2)Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen Abrechnungsbestimmungen zu umgehen.
+(2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-(3)Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
-(4)Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
+(4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 Antragssteller:
 
-Seite 9 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung Seite 9 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
 
 ---
 
-(5)Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6)Ğƌ!ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐĂƵƐĚĞŵŽŬƵŵĞŶƚͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐʹ Software für Softwarehersteller ʹ͞΀KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Ğƌ!ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐĂƵƐĚĞŵŽŬƵŵĞŶƚͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐʹ  Software für Softwarehersteller ʹ͞΀KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-IV.Sonstiges
+IV. Sonstiges
 
-(1)Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu stellen, soweit dieses erforderlich ist.
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
-(2)Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der Zulassung bewirken.
+(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-(3)Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
+(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
-(4)Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem Antrag aufgeführten Aussagen.
+(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5)Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 Antragssteller:
 
@@ -408,9 +411,9 @@ Seite 10 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version
 
 Dezernat Digitalisierung und IT
 
-IT in der Arztpraxis Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Antragssteller:
 

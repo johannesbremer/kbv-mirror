@@ -8,12 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | Keine Eignung |
-| 2 | Nur Quartalsprofil |
-| 3 | Tages- und Quartalsprofil |
+**Code** 1 2 3
+
 | 4 | nicht ermittelt |
+|---|---|
 | 5 | nicht im Anhang 3 |
 
 Schlüsseltabelle: S_EBM_PROFILZEITART
@@ -24,10 +22,4 @@ Schlüsseltabelle: S_EBM_PROFILZEITART
 
 **01.01.2018**
 
-1
-
-
----
-
-
-
+**Bezeichnung** Keine Eignung Nur Quartalsprofil Tages- und Quartalsprofil 1

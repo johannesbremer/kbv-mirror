@@ -4,21 +4,27 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr.****Arzt-Nr.**
+**Betriebsstätten-Nr.**
 
-**I.****Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A.****Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkra***
+**Arzt-Nr.**
 
-**B.****Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
+**I. Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A. Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkra***
 
-**Vorsorgebedürftigkeit****II.** **A.****Kurze Angaben zur Anamnese**
+**B. Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
 
-**B.****Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress*** ***häusliches Leben organisieren, Familien-/soziale Be***
+**VorsorgebedürftigkeitII.** **A. Kurze Angaben zur Anamnese**
 
-**C.****Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung fehlende Anerkennung** **durch Beruf/Familie**
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress***  ***häusliches Leben organisieren, Familien-/soziale Be***
 
-**mangelnde Unterstützung** **bei der Kindererziehung**
+**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
 
-**Erziehungs-** **schwierigkeiten**
+|  | Erziehungs- |  | Pflege von |  |  |  |
+|---|---|---|---|---|---|---|
+|  | schwierigkeiten |  | Familienangehörigen |  | soziale Isolation |  |
+|  | mangelnde Unterstützung |  | Partner-/ Eheprobleme/ |  | Teenager- |  |
+|  | bei der Kindererziehung |  | Trennung vom Partner |  | schwangerschaft |  |
+|  | Mehrfachbelastung fehlende |  | Anerkennung |  | Tod des Partners/ |  |
+|  | durch Beruf/Familie |  | der Mutter-/Vaterrolle |  | naher Angehöriger | Kind |
 
 **Schwierigkeiten bei der Problembewältigung** **(Alltagsprobleme)**
 
@@ -40,19 +46,7 @@ Status
 
 ***umgehen, auf die eigene Gesundheit und Ernährung ac*** ***ziehungen pflegen, einer Beschäftigung sowie eigene***
 
-**der Mutter-/Vaterrolle**
-
-**Partner-/ Eheprobleme/** **Trennung vom Partner**
-
-**Pflege von** **Familienangehörigen**
-
 **Verordnung medizinischer** **Vorsorge für Mütter oder Väter** **gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
-
-**Tod des Partners/** **naher Angehöriger Kind Beziehung**
-
-**Teenager-** **schwangerschaft**
-
-**soziale Isolation**
 
 **finanzielle Sorgen**
 
@@ -80,4 +74,4 @@ Status
 
 **64 Teil A**
 
-**ICD-10-GM**
+Mehrfachbelastung fehlende Anerkennung naher Angehöriger Kind Beziehung**ICD-10-GM**

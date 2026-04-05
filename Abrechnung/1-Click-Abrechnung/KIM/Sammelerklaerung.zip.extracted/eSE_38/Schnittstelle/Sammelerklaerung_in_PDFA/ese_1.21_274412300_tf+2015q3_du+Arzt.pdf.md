@@ -1,5 +1,5 @@
-| Sammelerklärung 3. Quartal 2015 |
-|---|
+| Sammelerklärung 3. Quartal 2015 | |
+|---|---|
 | Gemeinschaftspraxis Dres. Hans Test Fritz Sauber Dr. med.  Hans  Test Facharzt f. Innere Medizin -Angiologie- Dr. med.  Fritz  Sauber Facharzt für Hals-Nasen-Ohrenheilkunde Facharzt für Phoniatrie u. Pädaudiologie  51371  Leverkusen | BSNR: 274412300 Fallzahl: 2754 |
 
 | Ich versichere/Wir versichern: |
@@ -14,18 +14,18 @@
 | Bitte gegebenenfalls ausfüllen: |
 |---|
 
-|  | Tätigkeit in der Praxis |
-|---|---|
+|  | Tätigkeit in der Praxis | |
+|---|---|---|
 | Name des/der genehmigten Assistenten | von | bis |
 | Prof.  Dr. med.  Hannah  Maria  Marianne  Assistentin  Böcker | 01.09.2015 | 18.09.2015 |
 
-|  | Tätigkeit in der Praxis |
-|---|---|
+|  | Tätigkeit in der Praxis | |
+|---|---|---|
 | Name des/der angestellten Arztes/Ärzte | von | bis |
 | Dr. med.  Sabine  Hannah  Angestellte | 01.08.2015 | 15.08.2015 |
 
-|  | vertreten |
-|---|---|
+|  | vertreten | |
+|---|---|---|
 | Name des/der Vertreters/Vertreter | von | bis |
 | Dr. med.  Eleonore  Hanna  Tester2  Müller | 01.08.2015 | 15.08.2015 |
 | Dr. med.  August  Vertreter  Müller | 16.08.2015 | 20.08.2015 |
@@ -37,12 +37,7 @@
 | 1\|3 Die Abrechnung ist vollständig; die maßgeblichen Regelungen und Bestimmungen, besonders die des von Sozialgesetzbuchs V, des Bundesmantelvertrages (BMV-Ä), des Einheitlichen Bewertungsmaßstabs und des bis Honorarverteilungsmaßstabs, der IT-Richtlinien der KV Nordrhein sowie der Richtlinien des Gemeinsamen Dr. med.  Sabine  Hannah  Angestellte |
 |---|
 
-
----
-
-
-
-
+1|3
 
 ---
 
@@ -57,12 +52,7 @@
 | 2\|3 |
 |---|
 
-
----
-
-
-
-
+2|3
 
 ---
 
@@ -89,8 +79,8 @@ Formularversion 23.06.2022
 | 10. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-| Mir/Uns ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, |
-|---|
+| Mir/Uns ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, | |
+|---|---|
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
@@ -104,12 +94,4 @@ Formularversion 23.06.2022
 | 8. 3\|3 Bei den Kosten für Materialien, die gemäß Abschnitt I Punkt 7.3 der Allgemeinen Bestimmungen des EBM nicht in den berechnungsfähigen Leistungen enthalten sind, sind die tatsächlich realisierten Preise gegenüber der KV |
 |---|
 
-
----
-
-
-
-
-
-
-
+3|3

@@ -10,7 +10,7 @@
 
 **Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 
-**Für diese**Bescheinigung
+**Für diese** Bescheinigung
 
 **Ausfertigung für den Gutachter**
 
@@ -20,27 +20,27 @@ Beschwerden,
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
-**Auf Veranlassung von:****Arztnummer**
+**Auf Veranlassung von:Arztnummer**
 
-**Name des Therapeuten****Betriebsstättennummer**
+**Name des TherapeutenBetriebsstättennummer**
 
 ### Chiffre
 
-**Anfangsbuchstabe****Geburtsdatum** **des Familiennamens**
+**Anfangsbuchstabe Geburtsdatum** **des Familiennamens**
 
-Angabenzumpsychischenundsomatis**chen Befund**(beiKindernundJugendlichen
+Angaben zum psychischen und somatis**chen Befund** (bei Kindern und Jugendlichen
 
-medizinischeDiagnosen,Diffe**renzial- und**Verdachtsdiagnosen,relevante Vor- (z.B.laufendeMedikati**on), ggf.**Befunde,dieeineärztliche/ärztlich veranlasst **- und jugendpsychiatrische Untersuchung erforderlich machen:**
+medizinische Diagnosen, Diffe**renzial- und** Verdachtsdiagnosen, relevante Vor- (z.B. laufende Medikati**on), ggf.** Befunde, die eine ärztliche/ärztlich veranlasst **- und jugendpsychiatrische Untersuchung erforderlich machen:**
 
-**erfolgt****erforderlich****nicht erforderlich**
+**erfolgterforderlich nicht erforderlich**
 
-veranlassteMaßnahmenbzw.Unter**suchungen notwendig**bzw.veranlasstund
+veranlasste Maßnahmen bzw. Unter**suchungen notwendig** bzw. veranlasst und
 
-Befundebestehenerzeit**d**Kontra- einepsychotherapeutischeBehandlung(B**egründung s.**o.)
+Befunde bestehen erzeit**d** Kontra- eine psychotherapeutische Behandlung (B**egründung s.** o.)
 
 **Ausstellungsdatum**
 
-istdieNr.01612EBMberechnungsfä**hig****Vertragsarztstempel / Unterschrift des Arztes**
+ist die Nr. 01612 EBM berechnungsfä**higVertragsarztstempel / Unterschrift des Arztes**
 
 **PRF.NR.** **Muster 22b/E (10.2014)**
 
@@ -54,4 +54,4 @@ und **e Be-**
 
 **veranlasst**
 
-ggf.welche?
+ggf. welche?

@@ -8,116 +8,340 @@ Version:
 
 gültig ab:
 
-| Code | Bezeichnung |
-|---|---|
-| 01 | Schleswig-Holstein |
-| 02 | Hamburg |
-| 03 | Bremen |
-| 06 | Aurich |
-| 07 | Braunschweig |
-| 08 | Göttingen |
-| 09 | Hannover |
-| 10 | Hildesheim |
-| 11 | Lüneburg |
-| 12 | Oldenburg |
-| 13 | Osnabrück |
-| 14 | Stade |
-| 15 | Verden |
-| 16 | Wilhelmshaven |
-| 17 | Niedersachsen |
-| 18 | Dortmund |
-| 19 | Münster |
-| 20 | Westfalen-Lippe |
-| 21 | Aachen |
+**Code**
+
+01
+
+02
+
+03
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
 | 24 | Düsseldorf |
+|---|---|
 | 25 | Duisburg |
 
-Seite 1 von
-
-1.2.276.0.76.5.230
+Seite 1 von 1.2.276.0.76.5.230
 
 1.10
 
 01.01.2024
 
-3/ KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+
+**Bezeichnung**
+
+Schleswig-Holstein
+
+Hamburg
+
+Bremen
+
+Aurich
+
+Braunschweig
+
+Göttingen
+
+Hannover
+
+Hildesheim
+
+Lüneburg
+
+Oldenburg
+
+Osnabrück
+
+Stade
+
+Verden
+
+Wilhelmshaven
+
+Niedersachsen
+
+Dortmund
+
+Münster
+
+Westfalen-Lippe
+
+Aachen
 
 
 ---
 
+**Code**
 
+27
 
+28
 
+31
 
----
+37
 
-| Code | Bezeichnung |
-|---|---|
-| 27 | Köln |
-| 28 | Linker Niederrhein |
-| 31 | Ruhr |
-| 37 | Bergisch-Land |
-| 38 | Nordrhein |
-| 39 | Darmstadt |
-| 40 | Frankfurt |
-| 41 | Gießen |
-| 42 | Kassel |
-| 43 | Limburg |
-| 44 | Marburg |
-| 45 | Wiesbaden |
-| 46 | Hessen |
-| 47 | RLP RZ Koblenz |
-| 48 | RLP RZ Rheinhessen |
-| 49 | RLP RZ Pfalz |
-| 50 | RLP RZ Trier |
-| 51 | Rheinland-Pfalz |
-| 52 | Baden-Württemberg |
-| 53 | Mannheim |
-| 54 | Pforzheim |
-| 55 | BW BD Karlsruhe |
-| 56 | Baden-Baden |
-| 57 | BW BD Freiburg |
-| 58 | BW RB Konstanz |
-| 59 | BW RB Offenburg |
-| 60 | BW BD Freiburg |
-| 61 | BW BD Stuttgart |
-| 62 | BW BD Reutlingen |
-| 63 | München Stadt und Land |
-| 64 | Oberbayern |
-| 65 | Oberfranken |
-| 66 | Mittelfranken |
-| 67 | Unterfranken |
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
 | 68 | Oberpfalz |
+|---|---|
 | 69 | Niederbayern |
 
-Seite 2 von3/ KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+Seite 2 von
+
+3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+
+**Bezeichnung**
+
+Köln
+
+Linker Niederrhein
+
+Ruhr
+
+Bergisch-Land
+
+Nordrhein
+
+Darmstadt
+
+Frankfurt
+
+Gießen
+
+Kassel
+
+Limburg
+
+Marburg
+
+Wiesbaden
+
+Hessen
+
+RLP RZ Koblenz
+
+RLP RZ Rheinhessen
+
+RLP RZ Pfalz
+
+RLP RZ Trier
+
+Rheinland-Pfalz
+
+Baden-Württemberg
+
+Mannheim
+
+Pforzheim
+
+BW BD Karlsruhe
+
+Baden-Baden
+
+BW BD Freiburg
+
+BW RB Konstanz
+
+BW RB Offenburg
+
+BW BD Freiburg
+
+BW BD Stuttgart
+
+BW BD Reutlingen
+
+München Stadt und Land
+
+Oberbayern
+
+Oberfranken
+
+Mittelfranken
+
+Unterfranken
 
 
 ---
 
-| Code | Bezeichnung |
-|---|---|
-| 70 | Schwaben |
-| 71 | Bayerns |
-| 72 | Berlin |
-| 73 | Saarland |
-| 74 | KBV |
-| 78 | Mecklenburg-Vorpommern |
-| 79 | Potsdam |
-| 80 | Cottbus |
-| 81 | Frankfurt-Oder |
-| 83 | Brandenburg |
-| 85 | Magdeburg |
-| 86 | Halle |
-| 87 | Dessau |
-| 88 | Sachsen-Anhalt |
-| 89 | Erfurt |
-| 90 | Gera |
-| 91 | Suhl |
-| 93 | Thüringen |
-| 94 | Chemnitz |
-| 95 | Dresden |
+**Code**
+
+70
+
+71
+
+72
+
+73
+
+74
+
+78
+
+79
+
+80
+
+81
+
+83
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+93
+
+94
+
+95
+
 | 96 | Leipzig |
+|---|---|
 | 98 | Sachsen |
 
-Seite 3 von3/ KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+Seite 3 von
+
+3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+
+**Bezeichnung**
+
+Schwaben
+
+Bayerns
+
+Berlin
+
+Saarland
+
+KBV
+
+Mecklenburg-Vorpommern
+
+Potsdam
+
+Cottbus
+
+Frankfurt-Oder
+
+Brandenburg
+
+Magdeburg
+
+Halle
+
+Dessau
+
+Sachsen-Anhalt
+
+Erfurt
+
+Gera
+
+Suhl
+
+Thüringen
+
+Chemnitz
+
+Dresden

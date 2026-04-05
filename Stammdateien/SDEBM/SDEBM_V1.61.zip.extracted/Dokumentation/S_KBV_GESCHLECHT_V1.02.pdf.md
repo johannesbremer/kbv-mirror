@@ -8,12 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 0 | unbekannt |
-| 1 | männlich |
-| 2 | weiblich |
+**Code** 0 1 2
+
 | 3 | unbestimmt |
+|---|---|
 | 4 | divers |
 
 Schlüsseltabelle: S_KBV_GESCHLECHT
@@ -24,10 +22,4 @@ Schlüsseltabelle: S_KBV_GESCHLECHT
 
 **01.10.2019**
 
-1
-
-
----
-
-
-
+**Bezeichnung** unbekannt männlich weiblich 1

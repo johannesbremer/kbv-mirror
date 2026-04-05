@@ -1,48 +1,149 @@
-|  | |  | |  | 4 5 123 zur | | |  |
-|---|---|---|---|---|---|---|---|---|
-| Grad der Liegt eine | | Patientenverfügung | | | |  |
-| Medikation: Anzahl Wirkstoffe | | | der | |  | |
-| Anschrift/Station/Zimmer | |  | | | | | Wann? Welche? | |
-|  | | Pflegegrad Geriatrisches JN durchgeführt? | | | | |  |  |
+**Angaben zur stationären Pflegeeinrichtung** Anschrift/Station/Zimmer
 
-Institutionskennzeichen
+Institutionskennzeichen **Hausarzt / koordinierender Arzt**  Vor-/Nachname
 
-Vor-/NachnameStraße, Nr.
+Straße, Nr.
 
-PLZ OrtTelefonMobilE-MailBSNR/LANR
+PLZ Ort
 
-**Zahnarzt** Vor-/NachnameApothekennameStraße, Nr.Straße, Nr.PLZ OrtPLZ OrtTelefonTelefonMobilMobilE-MailE-Mail
+Telefon
 
-| Facharzt Facharzt |  | |  | |
-| Fachrichtung Fachrichtung Vor-/Nachname Vor-/Nachname Straße, Nr. Straße, Nr. PLZ Ort PLZ Ort Telefon Telefon Mobil Mobil |  | |  | |
-| E-Mail E-Mail BSNR/LANR BSNR/LANR |  | | Straße, PLZ Telefon | |
-|---|---|---|---|---|
-|  |  | | Straße, | |
+Mobil
 
-| Facharzt Vor-/Nachname PLZ Ort |  | |  | |
-|---|---|---|---|---|
-| Fachrichtung Bsp. Physiotherapie, Ergotherapie Vor-/Nachname Vor-/Nachname Straße, Nr. Straße, Nr. PLZ Ort PLZ Ort Telefon Telefon |  | | Mobil Telefon Mobil | |
-| Mobil Mobil E-Mail E-Mail BSNR/LANR |  | | E-Mail Straße, | |
+E-Mail
 
-Anhang 1 zur Anlage 8Vergütungsvertrag 2019KV Nordrhein – nordrheinische Krankenkassen/-verbände
+BSNR/LANR **Zahnarzt**  Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail **Facharzt** Fachrichtung
+
+Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail
+
+BSNR/LANR **Facharzt** Fachrichtung
+
+Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail
+
+BSNR/LANR
+
+Anhang 1 zur Anlage 8  Vergütungsvertrag 2019  KV Nordrhein – nordrheinische Krankenkassen/-verbände
 
 Anmerkungen:
 
-**Apotheke**
+**Apotheke** Apothekenname
 
-**Anhang 1: Dokumentationsbogen zur****besonderen Förderung der****Pflegeheimversorgung**
+Straße, Nr.
 
-Datum letzte Zahnuntersuchung:Impfstatus überprüft **gesetzlicher Betreuer****JA****NEIN** **JA****NEIN** **nicht-ärztlicher Therapeut**
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail **Facharzt** Fachrichtung
+
+Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail
+
+BSNR/LANR **nicht-ärztlicher Therapeut** Bsp. Physiotherapie, Ergotherapie
+
+Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail
+
+**Anhang 1: Dokumentationsbogen zur**  **besonderen Förderung der**  **Pflegeheimversorgung** Pflegegrad Grad der Behinderung Medikation: Gesamtanzahl der  Wirkstoffe Liegt eine Patientenverfügung vor?
+
+Geriatrisches Assessment  durchgeführt? Wann? Datum letzte Zahnuntersuchung: Heil-/Hilfsmittel benötigt? Welche?
+
+Impfstatus überprüft Grippeschutz vorhanden?
 
 Körperschaft des öffentlichen Rechts
 
-**N****J****Hausarzt / koordinierender Arzt**Grippeschutz vorhanden?**JN**[ ][ ]
+**123 4** 5[ ][ ][ ][ ][ ] Merkzeichenin %
 
-[ ][ ]
+Anzahl
 
-| Bsp. PLZ Telefon Mobil E-Mail | | | | |
-|---|---|---|---|---|
+**JN**[ ][ ]
 
-[ ][ ]
+**JN** [ ][ ]
 
-Impfungen erforderlich. [ ][ ]
+**JN**[ ][ ]
+
+**NJ**[ ][ ] Impfungen erforderlich. **JN**[ ][ ]
+
+**gesetzlicher Betreuer**  **JANEIN**[ ][ ] Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil **Angehörige** **JANEIN**[ ][ ] Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail
+
+**Dienstleister**  Bsp. Physiotherapie, Ergotherapie
+
+Vor-/Nachname
+
+Straße, Nr.
+
+PLZ Ort
+
+Telefon
+
+Mobil
+
+E-Mail

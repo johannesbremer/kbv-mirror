@@ -1,25 +1,17 @@
-|  | - IT 31. 18. |  | ROADMAP IN | | DER | ANBIETERMEETING SEPTEMBER | VERSORGUNG 2025 | DER | KBV |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  | ALEXANDER | |  | BÖRNER |  |  |  |  |
+# ROADMAP
+
+# - IT IN DER VERSORGUNG
+
+# 31. ANBIETERMEETING DER KBV
+
+# 18. SEPTEMBER 2025
+
+ALEXANDER BÖRNER
 
 
 ---
 
-
-
-
-
----
-
-# FHIR
-
-**-**
-
-# Profil
-
-**-**
-
-# Änderungen zum 1. Oktober 2025
+# FHIR-Profil-Änderungen zum 1. Oktober 2025
 
 ## ›-
 
@@ -29,9 +21,7 @@
 
 ## ›
 
-## eRezept in der Version 1.3.2
-
--
+## eRezept in der Version 1.3.2 -
 
 ## Bitte beachten Sie, dass die Nutzung des
 
@@ -41,31 +31,17 @@
 
 ## Kostenträger, welche an der TI teilnehmen, insbesondere der
 
-## BPol
-
-## erst ab dem 1. Januar
+## BPol erst ab dem 1. Januar
 
 ## 2026 ermöglicht werden darf.
 
 ## ›
 
-## eAU
+## eAU in der Version 1.2.0 -
 
-## in der Version 1.2.0
+## Die Nutzung von eAUs für Versicherte der Sonstigen Kostenträger, welche an der TI
 
--
-
-## Die Nutzung von
-
-## eAUs
-
-## für Versicherte der Sonstigen Kostenträger, welche an der TI
-
-## teilnehmen, insbesondere der
-
-## Bpol
-
-## soll ab dem 1. Oktober 2025 ermöglicht werden.
+## teilnehmen, insbesondere der Bpol soll ab dem 1. Oktober 2025 ermöglicht werden.
 
 ## ›
 
@@ -73,9 +49,11 @@
 
 ## in der Version 1.2.0
 
-↗**FHIR**
+↗ FHIR
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE2
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 2
 
 
 ---
@@ -92,27 +70,9 @@
 
 ## Vollständige Kodierung der Alzheimer
 
--
+## -Krankheit im Kreuz
 
-## Krankheit im Kreuz
-
--
-
-## Stern
-
--
-
-## System (G30.
-
--
-
-## 
-
-## /F00.
-
--
-
-## *)
+## -Stern-System (G30.-  /F00.-*)
 
 ## ›
 
@@ -126,42 +86,25 @@
 
 ## Erweiterung im Bereich Wirbelsäulenfrakturen (S12.
 
--)
+## -)
 
 ## ›
 
-## Neuaufnahme von Kodes folgender Bereiche:
-
--
+## Neuaufnahme von Kodes folgender Bereiche: -
 
 ## Schwangerschaft und Geburt (O60.
 
--
-
-## bis O62.
-
--
-
-## , O64.
-
--
-
-## bis O66.
-
--
-
-## , O70.
-
--)
--
+## - bis O62.- , O64.- bis O66.- , O70.-) -
 
 ## Komplikationen nach Infusionen, Transfusionen und Injektionen (T80.
 
--)
+## -)
 
-↗**KODIERREGELN****2026**
+↗ KODIERREGELN 2026
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE3
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 3
 
 
 ---
@@ -212,13 +155,11 @@
 
 ## Es findet keine strukturelle Änderung der Stammdatei statt.
 
-↗**KODIERREGELN****2026**
+↗ **KODIERREGELN 2026**
 
-**ROADMAP****-****IT IN DER VERSORGUNG**
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
-
-SEITE4
+SEITE 4
 
 
 ---
@@ -229,27 +170,27 @@ SEITE4
 
 # (Auszug)
 
-↗**ROADMAP**
+↗ ROADMAP
 
 | Thema | Stand der Spezifikation | Auswirkung für die Praxen |
 |---|---|---|
 | DMP Adipositas Erwachsene und | In Erarbeitung | Adipositas: offen |
 | Implantateregister | Bereitgestellt | 1. Januar 2026 |
-| eVDGA |  | früheste Verpflichtung für Praxen ab |
+| eVDGA | Bereitgestellt | früheste Verpflichtung für Praxen ab |
 | eHKP | In Erarbeitung | Im Jahr 2027 Voraussichtliche startet Ende 2026 |
 | Antragsverfahren Psychotherapie | Erarbeitung begonnen | Pilotierung frühestens 2027 |
-| eVHeilm |  |  |
-| eBTM | in der Finalisierung, Bereitstellung | Q4/2026 |
-| VoS | Im Oktober startet die | Q4/2026 |
+| eVHeilm | Erarbeitung begonnen | Pilotierung frühestens 2027 |
+| eBTM und eT-Rezept | in der Finalisierung, Bereitstellung | Q4/2026 |
+| VoS-Schnittstelle | Im Oktober startet die | Q4/2026 |
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE5
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+Kinder Q1/2026 eine Pilotierung Ende September 2025 geplant Kommentierungsphase SEITE 5
 
 
 ---
 
-# Zertifizierungsverfahren
-
-# eVDGA
+# Zertifizierungsverfahren eVDGA
 
 ## ›
 
@@ -259,17 +200,13 @@ SEITE4
 
 ## Gesundheitsanwendungen (
 
-## eVGDA
-
-## ) umzusetzen.
+## eVGDA) umzusetzen.
 
 ## ›
 
 ## Die aktuellen Vorgaben finden auf unserem Updateserver unter
 
-## https://update.kbv.de/ita
-
--
+## https://update.kbv.de/ita -
 
 ## update/DigitaleMuster/eVDGA/
 
@@ -285,13 +222,13 @@ SEITE4
 
 ## Bitte beachten Sie in diesem Zusammenhang auch die Regelungen des Anlage 2b des BMV
 
--
+## -Ä.
 
-## Ä.
+↗ EVDGA
 
-↗**EVDGA**
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE6
+SEITE 6
 
 
 ---
@@ -304,17 +241,7 @@ SEITE4
 
 ## Aufgrund der anstehenden Einführung des
 
-## eT
-
--
-
-## und
-
-## eBTM
-
--
-
-## Rezeptes im Jahr 2026 hat sich die KBV
+## eT- und eBTM-Rezeptes im Jahr 2026 hat sich die KBV
 
 ## dazu entschieden eine weitere Anpassung des
 
@@ -324,11 +251,7 @@ SEITE4
 
 ## ›
 
-## Aufnahme von T
-
--
-
-## Rezept spezifischen Verordnungsinformationen
+## Aufnahme von T-Rezept spezifischen Verordnungsinformationen
 
 ## ›
 
@@ -340,21 +263,9 @@ SEITE4
 
 ## ›
 
-## Die Nutzung der
+## Die Nutzung der eT- und eBTM-Funktionalitäten ist für das vierte Quartal 2026 geplant:
 
-## eT
-
--
-
-## und
-
-## eBTM
-
--
-
-## Funktionalitäten ist für das vierte Quartal 2026 geplant:
-
-Quelle: gematik GmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf) (gekürzt)
+Quelle: gematik GmbH [https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf) (gekürzt)
 
 ## ›
 
@@ -362,48 +273,28 @@ Quelle: gematik GmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Herstell
 
 ## erhalten, welche zu Ende September 2025 beantwortet werden.
 
-↗**EREZEPT V1.4.0**
+↗ EREZEPT V1.4.0
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE7
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-
----
-
-
-
+SEITE 7
 
 
 ---
 
-# Elektronische Verordnung Heilmittel
+|  |  |  |  |  |  |  |  |  | ↗ EVHEILM |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  | Elektronische | |  |  | Verordnung | Heilmittel |  |  |
+|  | Gemäß | §360 |  | Absatz | › 7 SGB | V ist die |  | elektronische Verordnung von Heilmitteln | zum 1. Januar 2027 |
+|  | zu | ermöglich. | |  |  |  |  |  |  |
+|  |  | Aufgrund | | dieser | › gesetzlichen | | Vorgabe | hat die gematik gemeinsam mit | den betroffenen |
+|  |  | Akteuren | | nun die |  | Erarbeitung | des digitalen | Verordnungsverfahrens | gestartet. |
+| Quelle: |  | gematik | GmbH |  |  |  |  |  |  |
+|  |  |  |  |  |  | https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf | | (gekürzt) |  |
+| ROADMAP | - | IT IN | DER | VERSORGUNG |  |  |  |  | SEITE 8 |
+| 31. |  | ANBIETERMEETING | DER | KBV AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-## ›
-
-## Gemäß
-
-## §
-
-## 360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027
-
-## zu ermöglich.
-
-## ›
-
-## Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen
-
-## Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
-
-↗**EVHEILM**
-
-Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf) (gekürzt)
-
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE8
-
-
----
-
-
-
+Elektronische Verordnung Heilmittel Gemäß §360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027 zu ermöglich. Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet. Quelle: gematik GmbH ROADMAP - IT IN DER VERSORGUNG 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -414,9 +305,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Im Rahmen der Einführung der
 
-## eAU
-
-## wurde von verschiedenen Bereichen der Wunsch geäußert
+## eAU wurde von verschiedenen Bereichen der Wunsch geäußert
 
 ## digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
 
@@ -424,9 +313,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu
 
-## Anfang 2025 das Impulspapier „
-
-## Impulspapier für digitalen Antrag auf ambulante
+## Anfang 2025 das Impulspapier „Impulspapier für digitalen Antrag auf ambulante
 
 ## Psychotherapie
 
@@ -434,11 +321,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## ›
 
-## Die KBV hat nun gemeinsam mit dem GKV
-
--
-
-## SV die konkrete Ausgestaltung eines digitalen
+## Die KBV hat nun gemeinsam mit dem GKV-SV die konkrete Ausgestaltung eines digitalen
 
 ## Antragsverfahrens Psychotherapie gestartet.
 
@@ -452,9 +335,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Psychotherapie
 
--
-
-## Richtlinie sowie eine umfangreiche Kommentierungsphase und
+## -Richtlinie sowie eine umfangreiche Kommentierungsphase und
 
 ## Pilotierung/Erprobung des Verfahrens geplant.
 
@@ -462,16 +343,16 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Derzeit planen wir die Pilotierung des Verfahrens für 2027.
 
-↗**EANTPSYCH**
+↗ EANTPSYCH
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE9
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 9
 
 
 ---
 
-# Erweiterung des
-
-# Implantateregisters
+# Erweiterung des Implantateregisters
 
 # zum 1. Januar 2026
 
@@ -485,9 +366,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## für Gesundheit die neue verbindliche Version 4.1.0 der technischen Spezifikation (
 
-## https://xml.ir
-
--
+## https://xml.ir-
 
 ## d.de/rst/schema/verbindlich/V4.1.0/
 
@@ -503,9 +382,7 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Brustimplantaten, Endoprothesen an Hüfte und Knie sowie
 
-## Aortenklappenprothesen
-
-.
+## Aortenklappenprothesen .
 
 ## ›
 
@@ -521,41 +398,27 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Implantateregister
 
-## Deutschland unter
+## Deutschland unter https://www.bundesgesundheitsministerium.de/implantateregister -
 
-## https://www.bundesgesundheitsministerium.de/implantateregister
-
--
-
-## deutschland.html
-
-.
+## deutschland.html.
 
 ## ›
 
 ## Bei Fragen wenden Sie sich gerne an den unter
 
-## support
+## support-implantateregister@d
 
--
-
-## implantateregister@d
-
--
-
-## trust.net
-
-## oder
+## -trust.net oder
 
 ## telefonisch an +49 030 / 2598
 
--
+## -4316
 
-## 4316
+↗ IMPLANTATEREGISTER
 
-↗**IMPLANTATEREGISTER**
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE10
+SEITE 10
 
 
 ---
@@ -572,50 +435,32 @@ Quelle:gematikGmbH[https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller
 
 ## Die KVen stellen bis Mitte 2027 alle derzeitigen Online
 
--
+## -Anwendungen der KVen auf eine „Zwei -
 
-## Anwendungen der KVen auf eine „Zwei
-
--
-
-## Bein
-
--
-
-## Strategie“ um (Erreichbarkeit über Internet und über SNK).
+## Bein-Strategie“ um (Erreichbarkeit über Internet und über SNK).
 
 ## ›
 
 ## Die KBV stellt bis Mitte 2027 ebenfalls alle derzeitigen Online
 
--
+## -Anwendungen auf eine „Zwei
 
-## Anwendungen auf eine „Zwei
-
--
-
-## Bein
-
--
+## -Bein-
 
 ## Strategie“ um (Erreichbarkeit über Internet und über SNK).
 
-↗**ABSCHALTUNG SNK**
+↗ ABSCHALTUNG SNK
 
-**ROADMAP****-****IT IN DER VERSORGUNG**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE11
+**ROADMAP - IT IN DER VERSORGUNG** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-
----
-
-|  |  |  |  | VIELEN | | |  |  |  | DANK! |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | - IT | ROADMAP IN | DER |  | VERSORGUNG |  |  |  |  |  | SEITE | 4 | VON | 4 |
-|  | 31. |  |  | ANBIETERMEETING | DER | KBV | AM | 18. | SEPTEMBER | 2025 |  |  |  |  |
+SEITE 11
 
 
 ---
 
+|  | VIELEN | |  |  | DANK! |
+|---|---|---|---|---|---|
+| ROADMAP | - IT IN | DER | VERSORGUNG |  |  |
+| 31. | ANBIETERMEETING | DER | KBV AM | 18. SEPTEMBER | 2025 |
 
-
-
-
+VIELEN DANK! ROADMAP - IT IN DER VERSORGUNG 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 4 VON 4

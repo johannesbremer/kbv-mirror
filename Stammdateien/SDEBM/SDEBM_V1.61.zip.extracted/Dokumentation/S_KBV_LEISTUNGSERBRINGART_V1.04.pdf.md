@@ -8,13 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | ambulant |
-| 2 | stationär |
-| 3 | integrierte Versorgung |
-| 4 | sonstige |
+**Code** 1 2 3 4
+
 | 5 | ergänzende Verträge |
+|---|---|
 | 6 | Innovationsfonds |
 
 Schlüsseltabelle: S_KBV_LEISTUNGSERBRINGART
@@ -25,10 +22,4 @@ Schlüsseltabelle: S_KBV_LEISTUNGSERBRINGART
 
 **01.07.2017**
 
-1
-
-
----
-
-
-
+**Bezeichnung** ambulant stationär integrierte Versorgung sonstige 1

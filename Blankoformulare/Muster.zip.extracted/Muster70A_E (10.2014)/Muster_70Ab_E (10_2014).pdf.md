@@ -18,7 +18,7 @@
 
 **Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
-**Kosten für einmalig im Reproduktionsfall****a** **anfallende Leistungen Reproduktionsfall anfallende L**
+**Kosten für einmalig im Reproduktionsfalla** **anfallende Leistungen Reproduktionsfall anfallende L**
 
 **Ärztliche Behandlung (EBM-Positionen) Ärztliche Behandlung**
 
@@ -30,15 +30,7 @@
 | Gesamtsumme für einmalig im Reproduktionsfall |  |
 | anfallende |  |
 
-| Behandlung |
-|---|
-| (Euro) |
-| Medikamenten- kosten |
-| (Euro) |
-| Sachkosten und Sprechstunden- |
-| bedarf (Euro) |
-| Gesamtsumme pro Zyklusfall |
-| (Euro) |
+**Leistungen (Euro)** **Ort Datum**
 
 ### IV Genehmigung durch die
 
@@ -58,11 +50,11 @@
 
 ## Folge-Behandlungsplan
 
-**zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 27a SGB V** **geb. am****sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
+**zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **geb. am sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
 ### Indikation(en)
 
-**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung****Versicherten-Nr.****Status**
+**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche BefruchtungVersicherten-Nr.Status**
 
 Datum
 
@@ -74,19 +66,29 @@ Datum
 
 Status
 
-**Datum****Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
+**DatumAnzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
 
 **räglichen Änderung der diagnostischen und therapeut**
 
 **b Kosten pro Zyklusfall (ohne einmalig im**
 
+| Behandlung |
+|---|
+| (Euro) |
+| Medikamenten- kosten |
+| (Euro) |
+| Sachkosten und Sprechstunden- |
+| bedarf (Euro) |
+| Gesamtsumme pro Zyklusfall |
+| (Euro) |
+
 **Der Behandlungs-/Kostenplan wird**
 
-**für maximal** diejeweilszulässigeHöchstzahl anzurechnenden sindzuberücksichtigenundverringern **nicht genehmigt** **(separate Begründung** dieGesamtzahlderBehandlungen(ein-**anbei)** dienichtzueinerklinisch **Ort Datum**Schwangerschaftgeführthaben,die Höchstzahl erreichthat.
+**für maximal** die jeweils zulässige Höchstzahl anzurechnenden sind zu berücksichtigen und verringern **nicht genehmigt** **(separate Begründung** die Gesamtzahl der Behandlungen (ein- **anbei)** die nicht zu einer klinisch **Ort Datum** Schwangerschaft geführt haben, die Höchstzahl erreicht hat.
 
-27aSGBVsind50%derentstehendenKosten sieheAbschnittIIIb) Patienten.EineabschließendeBerech- Gesamtkostenkann-u.a.inAbhängigkeit desfür maximal PunktwertesinCentbzw.Euro-
+27a SGB V sind 50% der entstehenden Kosten siehe Abschnitt III b) Patienten. Eine abschließende Berech- Gesamtkosten kann - u. a. in Abhängigkeit desfür maximal Punktwertes in Cent bzw. Euro -
 
-AblaufeinesJahresseitderGenehmi-**nicht genehmigt** beiÄnderungderBehandlungsmethodeist**(separate Begründung** **anbei)** **Ort Datum**
+Ablauf eines Jahres seit der Genehmi- **nicht genehmigt** bei Änderung der Behandlungsmethode ist **(separate Begründung** **anbei)** **Ort Datum**
 
 **Insemination im Spontanzyklus (gemäß Nr. 10.1)**
 
@@ -96,7 +98,7 @@ AblaufeinesJahresseitderGenehmi-**nicht genehmigt** beiÄnderungderBehandlungsme
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 10.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
 
 **(EBM-Positionen)**
 
@@ -108,6 +110,8 @@ AblaufeinesJahresseitderGenehmi-**nicht genehmigt** beiÄnderungderBehandlungsme
 
 **ischen Einzelfallerfordernisse.**
 
+**Vertragsarztstempel / Unterschrift des Arztes**
+
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
@@ -115,3 +119,5 @@ AblaufeinesJahresseitderGenehmi-**nicht genehmigt** beiÄnderungderBehandlungsme
 **Muster 70Ab/E (10.2014)**
 
 ## 70A
+
+Summe Ärztliche Summe Ärztliche

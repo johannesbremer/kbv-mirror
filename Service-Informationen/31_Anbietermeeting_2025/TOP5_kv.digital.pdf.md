@@ -1,110 +1,69 @@
-|  |  | Digitalisierung | | | im |  | Gesundheitswesen |  |
-|---|---|---|---|---|---|---|---|---|
-|  | sicher | | . |  |  | verlässlich. |  | flexibel . |
-| Dieses | Dokument | ist |  | öffentlich. | |  |  |  |
+|  |  | Digitalisierung | | im | Gesundheitswesen |  |
+|---|---|---|---|---|---|---|
+|  | sicher | . |  | verlässlich. |  | flexibel . |
+| Dieses | Dokument | ist | öffentlich. |  |  |  |
 
-
----
-
-
-
-
-
-
+. verlässlich. flexibel Dieses Dokument ist öffentlich.
 
 ---
 
-|  |  | Digitalisierung | | |  | im |  | Gesundheitswesen |
-|---|---|---|---|---|---|---|---|---|
-|  | Aktuelles | | |  |  | aus | | der |
-|  |  | kv.digital | | | |  |  | GmbH |
-|  | Berlin, | 18. |  |  | September | | | 2025 |
-| Volker |  |  | Dentel, |  |  |  |  | Geschäftsführer |
-|  |  |  | volker.dentel@kv.digital | | | | | |
+|  | Digitalisierung | | im |  | Gesundheitswesen |
+|---|---|---|---|---|---|
+|  | Aktuelles | |  | aus | der |
+|  | kv.digital | |  | GmbH | |
+| Berlin, | 18. |  | September | | 2025 |
+| Volker |  | Dentel, |  |  | Geschäftsführer |
+|  |  | volker.dentel@kv.digital | | | |
 
-
----
-
-
-
-
-
-
+Digitalisierung im Gesundheitswesen Aktuelles aus der kv.digital GmbH Berlin, 18. September 2025 Volker Dentel, Geschäftsführer
 
 ---
 
-|  |  | Agenda |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 1. |  |  | Schnittstellen | | | 116117 | Terminservice |
-| 2. |  |  |  | KIM-Anwendungen | | |  |
-| 3. |  |  | KV-Connect | – |  |  | Abschaltung |
-| 4. |  | Fragen | und |  |  | Antworten |  |
+|  | Agenda |  |  |  |  |
+|---|---|---|---|---|---|
+| 1. |  | Schnittstellen | | 116117 | Terminservice |
+| 2. |  | KIM-Anwendungen | | |  |
+| 3. |  | KV-Connect | – |  | Abschaltung |
+| 4. | Fragen | und |  | Antworten |  |
 
-
----
-
-|  |  | Agenda |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 1. |  |  | Schnittstellen | | | 116117 | Terminservice |
-| 2. |  |  |  | KIM-Anwendungen | | |  |
-| 3. |  |  | KV-Connect | – |  |  | Abschaltung |
-| 4. |  | Fragen | und |  |  | Antworten |  |
-
+1. Schnittstellen 116117 Terminservice 2. KIM-Anwendungen 3. KV-Connect – Abschaltung  4. Fragen und
 
 ---
 
-# 116117 Terminservice
+|  | Agenda |  |  |  |  |
+|---|---|---|---|---|---|
+| 1. |  | Schnittstellen | | 116117 | Terminservice |
+| 2. |  | KIM-Anwendungen | | |  |
+| 3. |  | KV-Connect | – |  | Abschaltung |
+| 4. | Fragen | und |  | Antworten |  |
 
-Stammdatenimport & Dashboard **für KVen**
-
-(1) FHIR-Schnittstelle **Abrechnungsinformation** (2) FHIR-Schnittstelle **Vermittlungscode**
-
-Webanwendung **für Praxen**
-
-(3) FHIR-Schnittstelle **Terminsynchronisation** nach §370a Absatz 5 SGB V
-
-Webanwendung **für Patienten**
-
-(4) FHIR-Schnittstelle **Dritte** nach §370a Absatz 2 SGB V
-
-Webanwendung **für Terminservicestellen**
-
-**Weitere FHIR-** **Schnittstellen** z.B. „Terminbuchung aus dem PVS“
-
+1. Schnittstellen 116117 Terminservice 2. KIM-Anwendungen 3. KV-Connect – Abschaltung  4. Fragen und
 
 ---
 
+|  | 116117 |  | Terminservice | |
+|---|---|---|---|---|
+|  | Stammdatenimport | & | Dashboard | Webanwendung |
+|  | für KVen |  |  | für Praxen |
+| (1) | FHIR-Schnittstelle |  | (2) | FHIR-Schnittstelle |
+|  | Abrechnungsinformation |  | Vermittlungscode |  |
 
+|  |  |  | Webanwendung |  |  |  |
+|---|---|---|---|---|---|---|
+|  |  |  | für | Patienten |  |  |
+| (3) | FHIR-Schnittstelle | |  | (4) | FHIR-Schnittstelle | |
+|  | Terminsynchronisation | |  |  | Dritte |  |
+| nach | §370a Absatz | 5 SGB V |  | nach | §370a Absatz | 2 SGB V |
 
+|  | Webanwendung |  |
+|---|---|---|
+| für |  | Terminservicestellen |
+|  | Weitere | FHIR- |
+|  |  | Schnittstellen |
+|  | z.B. | „Terminbuchung |
+|  | aus | dem PVS“ |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+116117 Terminservice Stammdatenimport & Dashboard (1) FHIR-Schnittstelle (2) FHIR-Schnittstelle (3) FHIR-Schnittstelle nach §370a Absatz 5 SGB V für Patienten (4) FHIR-Schnittstelle nach §370a Absatz 2 SGB V für Terminservicestellen Weitere FHIR- z.B. „Terminbuchung aus dem PVS“
 
 ---
 
@@ -131,55 +90,29 @@ Webanwendung **für Terminservicestellen**
 
 ---
 
-
-
-
-
----
-
 -
 
 # Abfrage von Vermittlungscodes beim Erstellen einer dringenden
 
-# Überweisung direkt aus dem PVS
+# Überweisung direkt aus dem PVS -
 
--
+# Übergabe folgender Informationen an den 116117 Terminservice -
 
-# Übergabe folgender Informationen an den 116117 Terminservice
+# überweisende Praxis/überweisender Arzt -
 
--
+# ein oder mehrere Leistungsmerkmale -
 
-# überweisende Praxis/überweisender Arzt
-
--
-
-# ein oder mehrere Leistungsmerkmale
-
--
-
-# Dringlichkeit
-
--
+# Dringlichkeit -
 
 # Patientendaten aus dem PVS (nur nach Einwilligung) –
 
-# deutliche Vereinfachung des Buchungsprozesses
-
--
+# deutliche Vereinfachung des Buchungsprozesses -
 
 # bis 30.9.2025 Umsetzung verpflichtend für alle PVS-Hersteller
 
 ## Bitte informieren Sie Ihre Kunden zur Verfügbarkeit im System!
 
 # (2)
-
-
----
-
-
-
-
-
 
 
 ---
@@ -221,9 +154,7 @@ Webanwendung **für Terminservicestellen**
 
 -
 
-# Ermöglicht den Praxen:
-
--
+# Ermöglicht den Praxen: -
 
 # Termine über ihr primäres Kalendersystem (PVS oder separates
 
@@ -231,9 +162,7 @@ Webanwendung **für Terminservicestellen**
 
 -
 
-# den Status der Termine abzufragen und
-
--
+# den Status der Termine abzufragen und -
 
 # alle Informationen zum Terminstatus werden direkt aus dem
 
@@ -244,60 +173,39 @@ Webanwendung **für Terminservicestellen**
 
 ---
 
-
-
-
-
----
-
 # Schnittstelle gemäß §
 
 # Terminsynchronisation
 
 **Arzt / Psychotherapeut** Praxiskalender
 
-Termine können direkt dem Praxiskalender gemeldet werden (gemäß § 75 Abs. 1a SGB V)
+Termine können direkt dem Praxiskalender  gemeldet werden (gemäß § 75 Abs. 1a SGB V)
 
-Praxiskalender prüft **regelmäßig** Terminservice, ob sich der Status bereitgestellter Termine geändert hat – spätestens, wenn der Termin im eigenen System vergeben werden soll
+Praxiskalender prüft  **regelmäßig** Terminservice, ob sich der  Status bereitgestellter  Termine geändert hat – spätestens, wenn der Termin  im eigenen System vergeben  werden soll
 
-116117 Terminservice übergibt Buchungsdaten an den Praxiskalender
+116117 Terminservice  übergibt Buchungsdaten an  den Praxiskalender
 
 beim 116117
 
-# 370a Absatz 5 SGB V
-
-1 aus
+# 370a Absatz 5 SGB V 1 aus
 
 2
 
 4
 
-Termin wird durch Patienten und Patientinnen, durch die Terminservicestellen der KVen oder durch Dritte gebucht bzw. abgesagt
+Termin wird durch Patienten  und Patientinnen, durch die  Terminservicestellen der  KVen oder durch Dritte  gebucht bzw. abgesagt
 
-(nicht Bestandteil der Spezifikation)
+(nicht Bestandteil der Spezifikation) 3
 
-3
+|  | Patientin |  |
+|---|---|---|
+|  | Terminservicestellen | |
+|  | Dritte |  |
+| können | Termine | für ihre Nutzer |
+| suchen | und | buchen, gemäß |
+|  | § 370a | Absatz 2 |
 
-**Patientin**
-
-**Terminservicestellen**
-
-**Dritte** können Termine für ihre Nutzer suchen und buchen, gemäß § 370a Absatz 2
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
+können Termine für ihre Nutzer suchen und buchen, gemäß § 370a Absatz 2
 
 ---
 
@@ -307,13 +215,13 @@ Termin wird durch Patienten und Patientinnen, durch die Terminservicestellen der
 
 **Arzt / Psychotherapeut** Praxiskalender
 
-Termine können direkt dem Praxiskalender gemeldet werden (gemäß § 75 Abs. 1a SGB V)
+Termine können direkt dem Praxiskalender  gemeldet werden (gemäß § 75 Abs. 1a SGB V)
 
-Push-Benachrichtigung an Praxiskalender, dass es Änderungen an dem/den Terminen gibt
+Push-Benachrichtigung an  Praxiskalender, dass es  Änderungen an dem/den  Terminen gibt
 
-Praxiskalender fragt den 116117 Terminservice zu den Änderungen der bereitgestellten Termine ab
+Praxiskalender fragt den  116117 Terminservice zu den  Änderungen der  bereitgestellten Termine ab
 
-116117 Terminservice übergibt Buchungsdaten an den Praxiskalender
+116117 Terminservice  übergibt Buchungsdaten an  den Praxiskalender
 
 # 370a Absatz 5 SGB V
 
@@ -329,31 +237,15 @@ aus 1
 
 5
 
-Termin wird durch Patienten und Patientinnen, durch die Terminservicestellen der KVen oder durch Dritte gebucht bzw. abgesagt
+Termin wird durch Patienten  und Patientinnen, durch die  Terminservicestellen der  KVen oder durch Dritte  gebucht bzw. abgesagt
 
-(nicht Bestandteil der Spezifikation)
-
-2
+(nicht Bestandteil der Spezifikation) 2
 
 **Patientin**
 
 **Terminservicestellen**
 
-**Dritte** können Termine für ihre Nutzer suchen und buchen, gemäß § 370a Absatz 2
-
-
----
-
-
-
-
-
-
-
-
-
-
-
+**Dritte** können Termine für ihre Nutzer  suchen und buchen, gemäß  § 370a Absatz 2
 
 
 ---
@@ -366,7 +258,7 @@ Termin wird durch Patienten und Patientinnen, durch die Terminservicestellen der
 
 **Arzt / Psychotherapeut** Praxiskalender
 
-gemeldete Termine können **direkt**aus dem Praxis- kalender gelöscht werden, solange diese nicht gebucht wurden
+gemeldete Termine können  **direkt** aus dem Praxis- kalender gelöscht werden,  solange diese nicht gebucht  wurden
 
 # 370a Absatz 5 SGB V
 
@@ -374,17 +266,7 @@ gemeldete Termine können **direkt**aus dem Praxis- kalender gelöscht werden, s
 
 # weitere Funktionen:
 
-Termin wird im 116117 Terminservice gelöscht
-
-
----
-
-
-
-
-
-
-
+Termin wird im 116117  Terminservice gelöscht
 
 
 ---
@@ -397,7 +279,7 @@ Termin wird im 116117 Terminservice gelöscht
 
 **Arzt / Psychotherapeut** Praxiskalender
 
-gebuchte Termine können **direkt**aus dem Praxis- kalender abgesagt werden
+gebuchte Termine können  **direkt** aus dem Praxis- kalender abgesagt werden
 
 # 370a Absatz 5 SGB V
 
@@ -405,36 +287,22 @@ gebuchte Termine können **direkt**aus dem Praxis- kalender abgesagt werden
 
 # weitere Funktionen:
 
-Wenn der Termin mit dem Status „Absage durch **Praxis“ abgesagt wird, dann wird dieser im 116117** Terminservice blockiert und kann nicht mehr gebucht werden.
+Wenn der Termin mit dem Status „Absage durch  **Praxis“** abgesagt wird, dann wird dieser im 116117  Terminservice blockiert und kann nicht mehr gebucht  werden.
 
-Wenn der Termin mit dem Status **Patient“** 116117 Terminservice als wieder buchbar gekennzeichnet und kann erneut gebucht werden.
+Wenn der Termin mit dem Status  **Patient“ abgesagt wird, dann wird dieser im**  116117 Terminservice als wieder buchbar  gekennzeichnet und kann erneut gebucht werden.
 
-abgesagt wird, dann wird dieser im **„Absage durch**
-
-
----
-
-
-
-
-
-
-
+**„Absage durch**
 
 
 ---
 
 # Schnittstelle gemäß §
 
-# Terminsynchronisation
-
--
+# Terminsynchronisation -
 
 ## Einvernehmen gemäß
 
-## am 15. August 2025 gegeben
-
--
+## am 15. August 2025 gegeben -
 
 ## Spezifikation wurde am 19. August 2025 in das INA
 
@@ -442,15 +310,11 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ## https://www.ina.gematik.de/detailansicht/standard/schnittstelle
 
-## terminsynchronisation
-
--
+## terminsynchronisation -
 
 ## Implementierung der Schnittstelle durch interessierte Hersteller kann
 
-## beginnen
-
--
+## beginnen -
 
 ## In Referenzumgebung der kv.digital steht Schnittstelle zur Verfügung (aktuell
 
@@ -468,9 +332,7 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ## -gemaess-370a-absatz-5-sgb-v-10472
 
-## -Portal der gematik unter
-
--
+## -Portal der gematik unter -
 
 ## ab sofort
 
@@ -479,9 +341,7 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 # Schnittstellen 116117 Terminservice für Praxen
 
-# Informationen und Testmöglichkeiten
-
--
+# Informationen und Testmöglichkeiten -
 
 ## Alle Informationen zu den Schnittstellen und zur Beantragung von
 
@@ -493,9 +353,7 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ## telematik.de/spaces/TSSSPEC/pages/208575409/116117+Terminservice+
 
-## +Schnittstellen
-
--
+## +Schnittstellen -
 
 
 ---
@@ -520,9 +378,7 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 # ihrem elektronischen System bereitgestellten
 
-# Informationen durch Dritte zu ermöglichen
-
-.
+# Informationen durch Dritte zu ermöglichen .
 
 # Hierzu muss sie eine Schnittstelle auf
 
@@ -535,62 +391,29 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ---
 
--
+| • |  | ermöglicht | Dritten, | wie |  |  | beispielsweise | |  |  |  | Krankenversicherungen, | |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | privaten | Unternehmen |  | etc. | die |  | Buchung | | von |  | Terminen | des | 116117 |
+|  |  | Terminservice | | (telemedizinische | | | | und |  |  | Behandlungstermine) | | |  |
+| • |  | Verfahrensordnung | | vom | BMG |  | genehmigt | | und |  |  | veröffentlicht | |  |
+| • |  | Spezifikation | auf | Plattform | |  | nach § | 385 | SGB | V | (INA) |  | veröffentlicht | |
+| • |  |  | Gebührenverordnung |  | gemäß | | § | 370a | Absatz | | 4 | SGB V | im BGBl. | 2024 I |
+|  | Nr. | 291 vom |  | 30.09.2024 |  |  | veröffentlicht | |  |  |  |  |  |  |
+| • |  |  | Zertifizierungsverfahren | |  | wird | durch | KBV | |  | durchgeführt | |  |  |
+| • | weitere |  | Informationen | im | |  | Partnerportal | | der |  | kv.digital | unter | dem | Link |
 
-# ermöglicht Dritten, wie beispielsweise Krankenversicherungen,
-
-# privaten Unternehmen etc. die Buchung von Terminen des 116117
-
-# Terminservice (telemedizinische und Behandlungstermine)
-
--
-
-# Verfahrensordnung vom BMG genehmigt und veröffentlicht
-
--
-
-# Spezifikation auf Plattform nach §
-
--
-
-# Gebührenverordnung gemäß §
-
-# Nr. 291 vom 30.09.2024
-
--
-
-# Zertifizierungsverfahren wird durch KBV durchgeführt
-
--
-
-# weitere Informationen im Partnerportal der kv.digital unter dem
-
-# 385 SGB V (INA) veröffentlicht
-
-# 370a Absatz 4 SGB V im
-
-# veröffentlicht
-
-# BGBl. 2024 I
-
-# Link
-
+ermöglicht Dritten, wie beispielsweise Krankenversicherungen, privaten Unternehmen etc. die Buchung von Terminen des 116117 Terminservice (telemedizinische und Behandlungstermine) Verfahrensordnung vom BMG genehmigt und veröffentlicht Spezifikation auf Plattform nach § Gebührenverordnung gemäß § Nr. 291 vom 30.09.2024 Zertifizierungsverfahren wird durch KBV durchgeführt weitere Informationen im Partnerportal der kv.digital unter dem 385 SGB V (INA) veröffentlicht 370a Absatz 4 SGB V im BGBl. 2024 I
 
 ---
 
+|  | Agenda |  |  |  |  |
+|---|---|---|---|---|---|
+| 1. |  | Schnittstellen | | 116117 | Terminservice |
+| 2. |  | KIM-Anwendungen | | |  |
+| 3. |  | KV-Connect | – |  | Abschaltung |
+| 4. | Fragen | und |  | Antworten |  |
 
-
-
-
----
-
-|  |  | Agenda |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 1. |  |  | Schnittstellen | | | 116117 | Terminservice |
-| 2. |  |  |  | KIM-Anwendungen | | |  |
-| 3. |  |  | KV-Connect | – |  |  | Abschaltung |
-| 4. |  | Fragen | und |  |  | Antworten |  |
-
+1. Schnittstellen 116117 Terminservice 2. KIM-Anwendungen 3. KV-Connect – Abschaltung  4. Fragen und
 
 ---
 
@@ -601,147 +424,66 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 |  |  | sche-kommunikation/test- | |  |  |
 |  | earztbrief.html | |  |  |  |
 
+Weitere Infos unter: Testmöglichkeit für Praxen
 
 ---
 
+# Spezifikationen für Anwendungen
 
+# der sicheren digitalen Kommunikation
 
+Auftrag
 
+Befund
 
+Veröffentlichungen unter: [https://partnerportal.kv-telematik.de/display/KDK/KIM](https://partnerportal.kv-telematik.de/display/KDK/KIM)-Anwendungenund [https://fachportal.gematik.de/toolkit/dienstkennung-kim-kom-le](https://fachportal.gematik.de/toolkit/dienstkennung-kim-kom-le)
 
-
----
-
-|  |  |  |  |  |  | Spezifikationen | | | für |  | Anwendungen | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  | der |  | sicheren |  |  | digitalen |  |  | Kommunikation |
-|  |  |  |  |  |  |  |  | Auftrag |  |  |  |  |
-|  | Befund |  |  |  |  |  |  |  |  |  |  |  |
-|  | Veröffentlichungen |  | unter: |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | U-Teilnahme |
-|  |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/KIM | | | -Anwendungenund | |  |  |  |  |
-|  |  |  |  | https://fachportal.gematik.de/toolkit/dienstkennung-kim-kom-le | | |  |  |  |  |  |  |
+# U-Teilnahme
 
 
 ---
 
+# in der Referenzumgebung der Telematikinfrastruktur
 
+Befund
 
+Veröffentlichung der Adressen unter: [https://partnerportal.kv-telematik.de/spaces/KDK/pages/84450228/Audits+KIM](https://partnerportal.kv-telematik.de/spaces/KDK/pages/84450228/Audits+KIM) Anwendungen#AuditsKIMAnwendungen
 
+# Testmöglichkeiten
 
+Auftrag
 
+- -AdressenBackendsderkv.digitalf%C3%BCrAuditundTests
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# U-Teilnahme
 
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Testmöglichkeiten | |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | in |  | der |  |  |  |  | Referenzumgebung | |  | der |  | Telematikinfrastruktur |
-|  |  |  |  |  |  |  |  |  |  |  | Auftrag |  |  |  |
-|  |  |  | Befund |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | Veröffentlichung | | der |  | Adressen | unter: |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | U-Teilnahme |
-|  |  |  |  |  |  |  |  | https://partnerportal.kv-telematik.de/spaces/KDK/pages/84450228/Audits+KIM | | | | - |  |  |
-|  |  |  |  |  | Anwendungen#AuditsKIMAnwendungen | | | |  | -AdressenBackendsderkv.digitalf%C3%BCrAuditundTests | | | |  |
+# Auditangebote
+
+# der kv.digital für die Software
+
+**-**
+
+# Hersteller
+
+Auftrag
+
+# In Vorbereitung:
+
+Befund
+
+weitere Informationen unter:  [https://partnerportal.kv-telematik.de/display/KDK/Audits+KIM-Anwendungen](https://partnerportal.kv-telematik.de/display/KDK/Audits+KIM-Anwendungen)
 
 
 ---
 
+|  |  | Interoperabilitätsworkshops | |
+|---|---|---|---|
+| für | eArztbrief | und | eNachricht |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-|  |  |  |  |  |  |  |  | Auditangebote | |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  | der |  | kv.digital |  | für | die |  | Software | - |  | Hersteller |
-|  |  |  |  |  |  |  |  | Auftrag |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | In | Vorbereitung: |
-|  |  | Befund |  |  |  |  |  |  |  |  |  |  |  |
-| weitere |  | Informationen | unter: |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/Audits+KIM-Anwendungen | | | | |  |  |  |  |  |
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-|  |  |  | Interoperabilitätsworkshops | |
-|---|---|---|---|---|
-|  | für | eArztbrief | und | eNachricht |
-
-
----
-
-
-
-
+für eArztbrief und eNachricht
 
 ---
 
@@ -749,35 +491,21 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 # eArztbrief und optional eNachricht
 
-## Erfolgreiche Teilnahme an IOWS ist die Voraussetzung für:
+## Erfolgreiche Teilnahme an IOWS ist die Voraussetzung für: -
 
--
-
-## eArztbrief-Zertifizierung durch die KBV
-
--
+## eArztbrief-Zertifizierung durch die KBV -
 
 ## Abschluss Rahmenvereinbarung gemäß §
 
-## Durchführung:
+## Durchführung: -
 
--
+## Anmeldung jederzeit möglich über iows@kv.digital -
 
-## Anmeldung jederzeit möglich über iows@kv.digital
+## Mindestteilnehmerzahl 3 Systeme aus unterschiedlichen Software -
 
--
+## Einheitliche Checklisten werden abgearbeitet -
 
-## Mindestteilnehmerzahl 3 Systeme aus unterschiedlichen Software
-
--
-
-## Einheitliche Checklisten werden abgearbeitet
-
--
-
-## jedem System wird ein Betreuer zur Seite gestellt
-
--
+## jedem System wird ein Betreuer zur Seite gestellt -
 
 ## Online-Veranstaltung per ZOOM
 
@@ -788,19 +516,39 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ---
 
-|  |  |  |  | Interoperabilitäts-Workshops | | |
-|---|---|---|---|---|---|---|
-|  | eArztbrief | | und |  | optional | eNachricht |
-| Termine |  | 2025 |  |  |  |  |
-|  | 09.10.2025 |  |  | (ausgebucht) |  |  |
-|  | 11.11.2025 |  |  |  |  |  |
-|  | 04.12.2025 |  |  |  |  |  |
-| Termine |  | 2026 |  |  |  |  |
-|  | 15.01.2026 |  |  |  |  | 03.06.2026 |
-|  | 11.02.2026 |  |  |  |  | 23.09.2026 |
-|  | 11.03.2026 |  |  |  |  | 06.10.2026 |
-|  | 08.04.2026 |  |  |  |  | 12.11.2026 |
-|  | 06.05.2026 |  |  |  |  | 02.12.2026 |
+# Interoperabilitäts-Workshops
+
+# eArztbrief und optional eNachricht
+
+## Termine 2025
+
+## 09.10.2025 (ausgebucht)
+
+## 11.11.2025
+
+## 04.12.2025
+
+## Termine 2026
+
+## 15.01.2026
+
+## 11.02.2026
+
+## 11.03.2026
+
+## 08.04.2026
+
+## 06.05.2026
+
+## 03.06.2026
+
+## 23.09.2026
+
+## 06.10.2026
+
+## 12.11.2026
+
+## 02.12.2026
 
 
 ---
@@ -809,12 +557,7 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 |---|---|---|---|---|---|---|
 |  | https://www.kv.digital | |  | /medizinische-kommunikation/iows.html | | |
 
-
----
-
-
-
-
+Weitere Informationen zu unseren IOWS unter:
 
 ---
 
@@ -825,19 +568,14 @@ abgesagt wird, dann wird dieser im **„Absage durch**
 
 ---
 
+|  | Agenda |  |  |  |  |
+|---|---|---|---|---|---|
+| 1. |  | Schnittstellen | | 116117 | Terminservice |
+| 2. |  | KIM-Anwendungen | | |  |
+| 3. |  | KV-Connect | – |  | Abschaltung |
+| 4. | Fragen | und |  | Antworten |  |
 
-
-
-
----
-
-|  |  | Agenda |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 1. |  |  | Schnittstellen | | | 116117 | Terminservice |
-| 2. |  |  |  | KIM-Anwendungen | | |  |
-| 3. |  |  | KV-Connect | – |  |  | Abschaltung |
-| 4. |  | Fragen | und |  |  | Antworten |  |
-
+1. Schnittstellen 116117 Terminservice 2. KIM-Anwendungen 3. KV-Connect – Abschaltung  4. Fragen und
 
 ---
 
@@ -850,47 +588,22 @@ September
 
 ---
 
+| Abschaltung | | KV | -Connect |
+|---|---|---|---|
+| TOP -10 | Systeme | | nach Nutzern – Gesamt (Monat August 2025) |
+| Hersteller | 1 | (898 | Nutzer) |
+| Hersteller | 2 | (753 | Nutzer) |
+| Hersteller | 3 | (589 | Nutzer) |
+| Hersteller | 4 | (506 | Nutzer) |
+| Hersteller | 5 | (391 | Nutzer) |
+| Hersteller | 6 | (376 | Nutzer) |
+| Hersteller | 7 | (298 | Nutzer) |
+| Hersteller | 8 | (263 | Nutzer) |
+| Hersteller | 9 | (235 | Nutzer) |
+| Hersteller | 10 | (233 | Nutzer) |
+|  |  |  | 0 100 200 300 400 500 600 700 800 900 1000 |
 
-
-
-
----
-
-# Abschaltung KV
-
-# TOP
-
-# -10 Systeme nach Nutzern –
-
-Hersteller 1 (898 Nutzer)
-
-Hersteller 2 (753 Nutzer)
-
-Hersteller 3 (589 Nutzer)
-
-Hersteller 4 (506 Nutzer)
-
-Hersteller 5 (391 Nutzer)
-
-Hersteller 6 (376 Nutzer)
-
-Hersteller 7 (298 Nutzer)
-
-Hersteller 8 (263 Nutzer)
-
-Hersteller 9 (235 Nutzer)
-
-Hersteller 10 (233 Nutzer)
-
-# -Connect
-
-# Gesamt
-
-# (Monat August 2025)
-
-01002003004005006007008009001000
-
-30
+Abschaltung KV -10 Systeme nach Nutzern – Hersteller 1 (898 Nutzer) Hersteller 2 (753 Nutzer) Hersteller 3 (589 Nutzer) Hersteller 4 (506 Nutzer) Hersteller 5 (391 Nutzer) Hersteller 6 (376 Nutzer) Hersteller 7 (298 Nutzer) Hersteller 8 (263 Nutzer) Hersteller 9 (235 Nutzer) Hersteller 10 (233 Nutzer)30
 
 
 ---
@@ -909,9 +622,7 @@ Hersteller 10 (233 Nutzer)
 
 ## Kassenärztliche Vereinigungen die 1ClickAbrechnung via
 
-## KIM an
-
--
+## KIM an -
 
 ## Zertifizierung 1Click per KIM durch SW
 
@@ -919,15 +630,7 @@ Hersteller 10 (233 Nutzer)
 
 ## Umstellung der Übertragung der
 
-## -Hersteller
-
-31
-
-
----
-
-
-
+## -Hersteller 31
 
 
 ---
@@ -938,51 +641,31 @@ Hersteller 10 (233 Nutzer)
 
 ## Bitte an Hersteller: Stellen Sie Ihren Kunden die Schnittstelle
 
-## „Vermittlungscode abrufen“
-
--
+## „Vermittlungscode abrufen“ jetzt -
 
 ## Verabschiedung der Spezifikation auf der
 
-## Vertreterversammlung der KBV am 06.12.2024
-
--
+## Vertreterversammlung der KBV am 06.12.2024 -
 
 ## Veröffentlichung der Spezifikationen durch kv.digital und
 
-## KBV
-
--
+## KBV -
 
 ## Umsetzung der Anwendungen in den Software
 
-## durch die Hersteller
-
--
+## durch die Hersteller -
 
 ## Audit seit Januar 2025 als Voraussetzung für Zertifizierung
 
-## möglich
-
--
+## möglich -
 
 ## Seit 01. April 2025 Schnittstellen in Produktivumgebung
 
 ## verfügbar
 
-## jetzt
-
 ## zur Verfügung.
 
-## -Systemen
-
-32
-
-
----
-
-
-
+## -Systemen 32
 
 
 ---
@@ -1019,9 +702,7 @@ Hersteller 10 (233 Nutzer)
 
 # (Monat August 2025)
 
-0100200300400500600700800
-
-33
+0 100 200 300 400 500 600 700 800 33
 
 
 ---
@@ -1036,17 +717,13 @@ Hersteller 10 (233 Nutzer)
 
 -
 
-## Spezifikationen seit 2023 durch die kv.digital veröffentlicht
-
--
+## Spezifikationen seit 2023 durch die kv.digital veröffentlicht -
 
 ## Umstellung von eHKS, QSPB und eDokumentation
 
 ## bis spätestens 30.09.2025 durch KBV/KVen sowie
 
-## Softwarehersteller
-
--
+## Softwarehersteller -
 
 ## alle Annahmestellen nehmen
 
@@ -1056,54 +733,22 @@ Hersteller 10 (233 Nutzer)
 
 ## auf KIM
 
-## via KIM an
-
-34
+## via KIM an 34
 
 
 ---
 
+| Betroffene | Anwendungen |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  | • |  | Spezifikation | | im Mai | 2024 |  | veröffentlicht |  |
+|  | • |  | Umstellung | | von | eDMP auf |  | KIM durch | die |
+|  |  |  |  | Datenannahmestellen | |  | sowie |  | Softwarehersteller bis |
+|  |  |  | spätestens | | 30.09.2025 |  |  | notwendig |  |
+|  | • | Alle |  |  | Datenannahmestellen | | | nehmen | eDMPs via KIM an |
+| Bitte an Hersteller: | Sofortige Umstellung | | | der | Übertragung | | der |  |  |
+| eDMP-Dokumentationen | von KV-Connect | | auf | KIM | bei | Ihren | | Kunden!! |  |
 
-
-
-
----
-
-# Betroffene Anwendungen
-
-## Bitte an Hersteller: Sofortige
-
-## eDMP-Dokumentationen von KV-Connect auf KIM bei Ihren Kunden!!
-
--
-
-## Spezifikation im Mai 2024 veröffentlicht
-
--
-
-## Umstellung von eDMP
-
-## Datenannahmestellen sowie Softwarehersteller bis
-
-## spätestens 30.09.2025 notwendig
-
--
-
-## Alle Datenannahmestellen nehmen eDMPs
-
-## Umstellung der Übertragung der
-
-## auf KIM durch die
-
-## via KIM an
-
-35
-
-
----
-
-
-
+Betroffene Anwendungen Bitte an Hersteller: Sofortige eDMP-Dokumentationen von KV-Connect auf KIM bei Ihren Kunden!! Spezifikation im Mai 2024 veröffentlicht Umstellung von eDMP Datenannahmestellen sowie Softwarehersteller bis spätestens 30.09.2025 notwendig Alle Datenannahmestellen nehmen eDMPs Umstellung der Übertragung der   auf KIM durch die 35
 
 
 ---
@@ -1138,9 +783,7 @@ Hersteller 8 (144 Nutzer)
 
 Hersteller 9 (124 Nutzer)
 
-Hersteller 10 (76 Nutzer)
-
-0100200300400500600
+Hersteller 10 (76 Nutzer) 0100 200 300 400 500 600
 
 36
 
@@ -1151,12 +794,7 @@ Hersteller 10 (76 Nutzer)
 |---|---|---|---|---|
 |  |  | 20.10.2025 | | |
 
-
----
-
-
-
-
+Abschaltung KV -Connect am
 
 ---
 
@@ -1169,10 +807,4 @@ Hersteller 10 (76 Nutzer)
 |---|---|---|---|---|---|
 |  | sicher . |  |  | verlässlich. | flexibel. |
 
-
----
-
-
-
-
-
+Digitalisierung im Gesundheitswesen . verlässlich. flexibel.

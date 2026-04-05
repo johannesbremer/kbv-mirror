@@ -8,31 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 01 | Primärkasse(AOK |
-| 02 | Primärkasse LKK |
-| 03 | Primärkasse IKK |
-| 04 | Primärkasse BKK |
-| 05 | Primärkasse KBS |
-| 06 | Primärkasse ehem. SEE |
-| 11 | Ersatzkasse VdEK |
-| 12 | Ersatzkasse ehem. AEV |
-| 30 | Sonstige Kostenträger BVF |
-| 35 | Sonstige Kostenträger AUS |
-| 59 | Sonstige Kostenträger SHT |
-| 71 | Sonstige Kostenträger BGS |
-| 72 | Sonstige Kostenträger ZIV |
-| 73 | Sonstige Kostenträger PFJ |
-| 75 | Sonstige Kostenträger BW |
-| 76 | Sonstige Kostenträger GSA |
-| 77 | Sonstige Kostenträger MDK |
-| 81 | Sonstige Kostenträger PBA |
-| 82 | Sonstige Kostenträger PBD |
-| 84 | Sonstige Kostenträger DBM |
-| 85 | Sonstige Kostenträger DBD |
-| 86 | Sonstige Kostenträger JAS |
+**Code** 01 02 03 04 05 06 11 12 30 35 59 71 72 73 75 76 77 81 82 84 85 86
+
 | 87 | Sonstige Kostenträger EA |
+|---|---|
 | 88 | Sonstige Kostenträger UV |
 
 Schlüsseltabelle: S_KTS_KTGRUPPE
@@ -43,10 +22,4 @@ Schlüsseltabelle: S_KTS_KTGRUPPE
 
 **01.01.2015**
 
-1
-
-
----
-
-
-
+**Bezeichnung** Primärkasse(AOK Primärkasse LKK Primärkasse IKK Primärkasse BKK Primärkasse KBS Primärkasse ehem. SEE Ersatzkasse VdEK Ersatzkasse ehem. AEV Sonstige Kostenträger BVF Sonstige Kostenträger AUS Sonstige Kostenträger SHT Sonstige Kostenträger BGS Sonstige Kostenträger ZIV Sonstige Kostenträger PFJ Sonstige Kostenträger BW Sonstige Kostenträger GSA Sonstige Kostenträger MDK Sonstige Kostenträger PBA Sonstige Kostenträger PBD Sonstige Kostenträger DBM Sonstige Kostenträger DBD Sonstige Kostenträger JAS 1

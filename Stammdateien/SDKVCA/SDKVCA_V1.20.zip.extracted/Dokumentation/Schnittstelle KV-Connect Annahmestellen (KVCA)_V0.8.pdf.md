@@ -6,132 +6,72 @@
 
 **Herausgeber: kv.digital GmbH**
 
-Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervielfältigung einschließlich Speicherung und Nutzung auf optischen und elektronischen Datenträgern nur mit Zustimmung der kv.digital GmbH.
+Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervielfältigung einschließlich Speicherung und Nutzung  auf optischen und elektronischen Datenträgern nur mit Zustimmung der kv.digital GmbH.
 
 
 ---
 
+|  | Inhaltsverzeichnis | | |
+|---|---|---|---|
+| 1 |  |  | Vorbemerkungen..................................................................................................................6 |
+| 1.1 Zweck | des |  | Dokuments..................................................................................................................................6 |
+| 2 |  |  | Allgemein..................................................................................................................................7 |
+| 2.1 |  |  | Zeichensatz........................................................................................................................................................7 |
+| 2.2 | Namespace |  | ........................................................................................................................................................7 |
+| 2.3 |  |  | Root-Schema.....................................................................................................................................................7 |
+| 2.4 |  |  | Dateinamenskonvention..............................................................................................................................7 |
+| 3 | ehd-Element |  | (root-Element).............................................................................................9 |
+| 4 | header | (Metadaten) | ..........................................................................................................10 |
+| 4.1 | header (Metadaten) |  | ....................................................................................................................................10 |
+| 4.1.1 id |  |  | (Dokument-ID).............................................................................................................................................................................11 |
+| 4.1.2 version_nbr |  |  | (Versionsnummer)..................................................................................................................................................11 |
+| 4.1.3 | document_type_cd | (Bezeichnung | des Datentyps)..............................................................................................................11 |
+| 4.1.4 service_tmr |  |  | (Gültigkeitszeitraum).............................................................................................................................................12 |
+| 4.1.5 | origination_dttm |  | (Erstellungsdatum).......................................................................................................................................12 |
+| 4.1.6 originator |  |  | (Urheber)........................................................................................................................................................................12 |
+|  | organization |  | (Organisationsdaten)...........................................................................................................................................13 |
+|  | organization.nm |  | (Organisationsname)....................................................................................................................................14 |
+| addr | (Adresse der |  | Organisation)................................................................................................................................................14 |
+|  | telecom |  | (Kommunikationsmöglichkeiten).............................................................................................................................16 |
+| 4.1.7 provider |  |  | (Lieferant/Sender).........................................................................................................................................................16 |
+| 4.1.8 state | (Bearbeitungszustand) | | .......................................................................................................................................................17 |
+| 4.1.9 interface | (Beschreibung | der | Schnittstelle)............................................................................................................................18 |
+| id | (Identifikation | der | Schnittstelle)...........................................................................................................................................18 |
+|  | interface.nm (Name | der | Schnittstelle).....................................................................................................................................19 |
+|  | version (Version | der | Schnittstelle)............................................................................................................................................19 |
+| 5 body |  |  | (Datenbereich).........................................................................................................20 |
+| 5.1 | institution_liste | (Liste | der Institutionen)............................................................................................20 |
+| 5.1.1 kv | (Stammsatz | Institution | KV)....................................................................................................................................................20 |
+| id |  |  | (KV-ID).............................................................................................................................................................................................20 |
+|  | anwendungsliste | (Liste der | Anwendungen)..........................................................................................................................21 |
+|  | anwendung |  | (Anwendung).............................................................................................................................................................21 |
 
-
-
-
----
-
-### Inhaltsverzeichnis
-
-1 1.1
-
-2 2.1
-
-2.2
-
-2.3
-
-2.4
-
-3
-
-4 4.1
-
-4.1.1 id (Dokument-ID).............................................................................................................................................................................11
-
-4.1.2 version_nbr (Versionsnummer)..................................................................................................................................................11
-
-4.1.3 document_type_cd (Bezeichnung des Datentyps)..............................................................................................................11
-
-4.1.4 service_tmr (Gültigkeitszeitraum).............................................................................................................................................12
-
-4.1.5 origination_dttm (Erstellungsdatum).......................................................................................................................................12
-
-4.1.6 originator (Urheber)........................................................................................................................................................................12
-
-4.1.7 provider (Lieferant/Sender).........................................................................................................................................................16
-
-4.1.8 state (Bearbeitungszustand) .......................................................................................................................................................17
-
-4.1.9 interface (Beschreibung der Schnittstelle)............................................................................................................................18
-
-5 5.1
-
-5.1.1 kv (Stammsatz Institution KV)....................................................................................................................................................20
-
-Vorbemerkungen..................................................................................................................6 Zweck des Dokuments..................................................................................................................................6
-
-Allgemein..................................................................................................................................7 Zeichensatz........................................................................................................................................................7
-
-Namespace ........................................................................................................................................................7
-
-Root-Schema.....................................................................................................................................................7
-
-Dateinamenskonvention..............................................................................................................................7
-
-ehd-Element (root-Element).............................................................................................9
-
-header (Metadaten) ..........................................................................................................10 header (Metadaten) ....................................................................................................................................10
-
-organization (Organisationsdaten)...........................................................................................................................................13
-
-organization.nm (Organisationsname)....................................................................................................................................14
-
-addr (Adresse der Organisation)................................................................................................................................................14
-
-telecom (Kommunikationsmöglichkeiten).............................................................................................................................16
-
-id (Identifikation der Schnittstelle)...........................................................................................................................................18
-
-interface.nm (Name der Schnittstelle).....................................................................................................................................19
-
-version (Version der Schnittstelle)............................................................................................................................................19
-
-body (Datenbereich).........................................................................................................20 institution_liste (Liste der Institutionen)............................................................................................20
-
-id (KV-ID).............................................................................................................................................................................................20
-
-anwendungsliste (Liste der Anwendungen)..........................................................................................................................21
-
-anwendung (Anwendung).............................................................................................................................................................21
-
+4.1.1 id (Dokument-ID).............................................................................................................................................................................11 4.1.2 version_nbr (Versionsnummer)..................................................................................................................................................11 4.1.3 document_type_cd (Bezeichnung des Datentyps)..............................................................................................................11 4.1.4 service_tmr (Gültigkeitszeitraum).............................................................................................................................................12 4.1.5 origination_dttm (Erstellungsdatum).......................................................................................................................................12 4.1.6 originator (Urheber)........................................................................................................................................................................12 4.1.7 provider (Lieferant/Sender).........................................................................................................................................................16 4.1.8 state (Bearbeitungszustand) .......................................................................................................................................................17 4.1.9 interface (Beschreibung der Schnittstelle)............................................................................................................................18 5.1.1 kv (Stammsatz Institution KV)....................................................................................................................................................20 Zweck des Dokuments..................................................................................................................................6 Namespace ........................................................................................................................................................7 ehd-Element (root-Element).............................................................................................9 header (Metadaten) ..........................................................................................................10 header (Metadaten) ....................................................................................................................................10 organization (Organisationsdaten)...........................................................................................................................................13 organization.nm (Organisationsname)....................................................................................................................................14 addr (Adresse der Organisation)................................................................................................................................................14 telecom (Kommunikationsmöglichkeiten).............................................................................................................................16 id (Identifikation der Schnittstelle)...........................................................................................................................................18 interface.nm (Name der Schnittstelle).....................................................................................................................................19 version (Version der Schnittstelle)............................................................................................................................................19 body (Datenbereich).........................................................................................................20 institution_liste (Liste der Institutionen)............................................................................................20 id (KV-ID).............................................................................................................................................................................................20 anwendungsliste (Liste der Anwendungen)..........................................................................................................................21 anwendung (Anwendung).............................................................................................................................................................21
 
 ---
 
-| 6 |  |  | keytabs | |  |  |  | (Schlüsseltabellen)............................................................................................25 |
-|---|---|---|---|---|---|---|---|---|
-|  | 6.1 |  | keytabs |  |  |  |  | (Schlüsseltabellen)......................................................................................................................25 |
-| 6.1.1 |  | keytab |  |  |  |  |  | (Schlüsseltabelle)...............................................................................................................................................................25 |
-|  |  | key |  | (Schlüssel) | |  |  | ...................................................................................................................................................................................25 |
-| 7 |  |  |  |  |  |  |  | Anhang....................................................................................................................................27 |
-|  | 7.1 |  | Zuordnung | |  | OID | - | Schlüsseltabelle........................................................................................................27 |
+| 6 | keytabs | (Schlüsseltabellen)............................................................................................25 |
+|---|---|---|
+| 6.1 | keytabs | (Schlüsseltabellen)......................................................................................................................25 |
+| 6.1.1 | keytab | (Schlüsseltabelle)...............................................................................................................................................................25 |
+|  | key | (Schlüssel) ...................................................................................................................................................................................25 |
+| 7 |  | Anhang....................................................................................................................................27 |
+| 7.1 | Zuordnung | OID - Schlüsseltabelle........................................................................................................27 |
 
+6.1.1 keytab (Schlüsseltabelle)...............................................................................................................................................................25 keytabs (Schlüsseltabellen)............................................................................................25 keytabs (Schlüsseltabellen)......................................................................................................................25 key (Schlüssel) ...................................................................................................................................................................................25 Zuordnung OID - Schlüsseltabelle........................................................................................................27
 
 ---
 
-**Änderungshistorie**
-
-**Vers.**
-
-0.8
-
-0.7
-
-0.6
-
-0.5
-
-0.5
+|  | Änderungshistorie |
+|---|---|
+| Vers. | Datum |
+| 0.8 | 15.03.2024 |
+| 0.7 | 11.01.2023 |
+| 0.6 | 15.01.2021 |
+| 0.5 | 25.03.2020 |
+| 0.5 | 14.01.2019 |
 
 Seite 4 von 27
-
-**Datum**
-
-15.03.2024
-
-11.01.2023
-
-15.01.2021
-
-25.03.2020
-
-14.01.2019
 
 **Autor**
 
@@ -143,7 +83,7 @@ kv.digital GmbH
 
 kv.digital GmH
 
-KV Telematik GmbH
+KV Telematik  GmbH
 
 **Kap.**
 
@@ -151,48 +91,41 @@ KV Telematik GmbH
 
 5
 
-alle
-
-5
+alle 5
 
 5
 
 7
 
-alle
-
-4
+alle 4
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Änderung**
 
-- Aufnahme Referenz zur Spezifikation 1ClickAbrechnungvia KIM
-- Entfall Referenz zur SDDA
+- Aufnahme Referenz zur  Spezifikation  1ClickAbrechnungvia KIM - Entfall Referenz zur SDDA
 
 - Korrektur Abbildung 11
-- Aufnahme Erläuterung zur Verwendung von <test_email> und <kim_test_email>
+- Aufnahme Erläuterung zur  Verwendung von  <test_email> und  <kim_test_email>
 
 redaktionelle Änderungen
 
-- Aufnahme Element <kim_test_email>
+- Aufnahme Element  <kim_test_email>
 
-- Aufnahme Element <kim_email>
+- Aufnahme Element  <kim_email>
 
-- Änderung Element <anwendungsspezifika>
+- Änderung Element  <anwendungsspezifika>
 
 Anpassung Tabelle 21
 
-Änderungen im Kontext der Umfirmierung der KV Telematik GmbH in kv.digital GmbH
+Änderungen im Kontext der  Umfirmierung der KV  Telematik GmbH in kv.digital  GmbH
 
-- Korrektur OID Schlüsseltabelle S_KBV_Bearbeitungszusta nd
+- Korrektur OID  Schlüsseltabelle  S_KBV_Bearbeitungszusta nd - Anpassung  Abbildung 11
 
-- Anpassung Abbildung 11
+- Anpassung  Abbildung 11
 
-- Anpassung Abbildung 11
-
-- Löschen <dmp_liste>
-- Anpassung Abbildung 12
+- Löschen  <dmp_liste>
+- Anpassung  Abbildung 12
 
 **Status**
 
@@ -219,9 +152,9 @@ außer Kraft
 
 0.1
 
-**Herausgeber:** kv.digital GmbH
+**Herausgeber:**  kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen** **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link: Lizenzbestimmungen** für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH ( [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) pages/viewpage.action?pageId=71075847).
+**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link: Lizenzbestimmungen**  für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH ( [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) pages/viewpage.action?pageId=71075847).
 
 Seite 5 von 27
 
@@ -237,13 +170,13 @@ Seite 5 von 27
 
 **Autor**
 
-KV Telematik GmbH
+KV Telematik  GmbH
 
-KV Telematik GmbH
+KV Telematik  GmbH
 
-KV Telematik GmbH
+KV Telematik  GmbH
 
-KV Telematik GmbH
+KV Telematik  GmbH
 
 **Kap.**
 
@@ -259,20 +192,15 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Änderung**
 
-- Aufnahme Attribut-Gruppe gueltigkeit
+- Aufnahme Attribut-Gruppe  gueltigkeit - <version>
 
-- <version>
+Überarbeitung nach interner  Kommentierung
 
-Überarbeitung nach interner Kommentierung
+redaktionelle Änderungen - Anpassung  Abbildung 11
+- Anpassung Tabelle  16
 
-redaktionelle Änderungen
-
-- Anpassung Abbildung 11
-- Anpassung Tabelle 16
-
-- Angabe von max. 2 Elementen möglich
-- gueltigkeit kann gesetzt werden
-- Anpassung Tabelle 15
+- Angabe von max. 2  Elementen möglich
+- gueltigkeit kann  gesetzt werden - Anpassung Tabelle  15
 
 **Status**
 
@@ -291,16 +219,15 @@ initiale Erstellung
 
 ### 1.1 Zweck des Dokuments
 
-Die vorliegende Schnittstellenbeschreibung gibt den Inhalt der Stammdatei KVCA (KV-Connect Annahmestellen) wieder.
+Die vorliegende Schnittstellenbeschreibung gibt den Inhalt der Stammdatei KVCA (KV-Connect  Annahmestellen) wieder.
 
-Die Stammdatei KVCA im XML-Format wird mit dem Update der KBV zur Verfügung gestellt. Aus dieser Stammdatei sind die Informationen über die korrekte Annahmestelle, abhängig vom KV-Bereich, der Anwendung und der unterstützten Version der Anwendung ablesbar.
+Die Stammdatei KVCA im XML-Format wird mit dem Update der KBV zur Verfügung gestellt. Aus dieser  Stammdatei sind die Informationen über die korrekte Annahmestelle, abhängig vom KV-Bereich, der  Anwendung und der unterstützten Version der Anwendung ablesbar.
 
 Die Schnittstellen für den Datenaustausch liegen im XML-Format vor. Sie sind konform zur ehd-Richtlinie.
 
 ***Referenzen***
 
-- [ehd]: ehd-Richtlinie (ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/)
-- [1-Click]:
+- [ehd]: ehd-Richtlinie (ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) - [1-Click]:
 - Spezifikation 1-Click-Abrechnung via KV-Connect (Tabelle Spezifikation, https:// partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560)
 - *Spezifikation 1ClickAbrechnung via KIM, [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-)* Abrechnung/KIM/
 - [KBV_ITA_VGEX_Schnittstelle_SDDA]: Schnittstellenbeschreibung SDDA (ftp://ftp.kbv.de/ita-update/ Stammdateien/SDDA/)
@@ -373,11 +300,11 @@ Y..Jahreswert, M.. Monatswert, Q.. Quartalswert.
 
 q.. Quartal
 
-Entspricht inhaltlich dem Header-Element <service_tmr>; Für die Stammdatei KVCA ist i.d.R. das Quartal angegeben.
+Entspricht inhaltlich dem Header-Element <service_tmr>; Für die Stammdatei KVCA ist i.d.R. das  Quartal angegeben.
 
 number - Nummer der Lieferung. Entspricht dem Header-Element <ehd:version_nbr>. Optional
 
-Die Nummer muss um 1 hochgezählt werden, wenn der angegebene Zeitraum unter „tf+“ sich bei der nächsten Lieferung nicht ändert. Bei Änderung des Zeitraumes beginnt die Zählung wieder mit 1, i.d.R. wird die 1. Lieferung ohne Nummer ausgeliefert.
+Die Nummer muss um 1 hochgezählt werden, wenn der angegebene Zeitraum unter „tf+“ sich bei  der nächsten Lieferung nicht ändert. Bei Änderung des Zeitraumes beginnt die Zählung wieder  mit 1, i.d.R. wird die 1. Lieferung ohne Nummer ausgeliefert.
 
 dummy - Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden
 
@@ -386,19 +313,24 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 ---
 
-|  |  |  |  |  |  |  | Dokumentation | Schnittstelle | KV-Connect |  |  |  | Annahmestellen | (KVCA) |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Namepart |  |  |  | Erläuterung |  |  |  |  |  |  |  |  |  |
-|  | <val> |  | value | - | Erwarteter | Wert |  |  |  |  |  |  |  |  |
-| 1 | Tabelle: |  |  | Dateinamenskonvention | |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Seite | 8 | von | 27 |  |
+| Namepart |  | Erläuterung |  |
+|---|---|---|---|
+| <val> |  | value - | Erwarteter Wert |
+| 1 Tabelle: |  | Dateinamenskonvention | |
 
+Seite 8 von 27
+
+| Dokumentation | Schnittstelle | KV-Connect | Annahmestellen | (KVCA) |
+|---|---|---|---|---|
+|  |  |  | Seite 8 von 27 |  |
+
+1 Tabelle: Dateinamenskonvention value - Erwarteter Wert Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 ---
 
 ## 3 ehd-Element (root-Element)
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt. Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“,  wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen zur  Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt. Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
 Das Element hat folgenden Aufbau:
 
@@ -410,19 +342,13 @@ Das Element hat folgenden Aufbau:
 
 Seite 9 von 27
 
-Im XML-File wird die Versionsnummer der zugrunde liegenden ehd-Richtlinie bzw. des verwendeten ehd- Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version vorgegeben.
+Im XML-File wird die Versionsnummer der zugrunde liegenden ehd-Richtlinie bzw. des verwendeten ehd- Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser  Fehler melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version vorgegeben.
 
-Der „header“ ist ein Pflichtelement, hier befinden sich die Metadaten zu den im „body“ liegenden eigentlichen Inhaltsdaten.
+Der „header“ ist ein Pflichtelement, hier befinden sich die Metadaten zu den im „body“ liegenden  eigentlichen Inhaltsdaten.
 
-Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann der Schnittstellenentwickler seine eigenen Strukturen definieren.
+Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann der  Schnittstellenentwickler seine eigenen Strukturen definieren.
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
-
-
----
-
-
-
 
 
 ---
@@ -431,7 +357,7 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 ### 4.1 header (Metadaten)
 
-Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten und hat folgende Struktur:
+Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten und hat folgende  Struktur:
 
 **2 Abbildung: header**
 
@@ -442,15 +368,9 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 ---
 
-
-
-
-
----
-
 4.1.1 id (Dokument-ID)
 
-Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument bzw. jede XML- Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id. D.h., dass auch bei Korrekturen eine neue id vergeben werden muss.
+Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument bzw. jede XML- Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id. D.h., dass auch bei Korrekturen  eine neue id vergeben werden muss.
 
 Das Element hat folgenden Aufbau:
 
@@ -474,7 +394,7 @@ example
 
 4.1.3 document_type_cd (Bezeichnung des Datentyps)
 
-Das Element <document_type_cd> beschreibt den Dokumenttype, d.h. um welche Schnittstelle bzw. Satzart es sich handelt.
+Das Element <document_type_cd> beschreibt den Dokumenttype, d.h. um welche Schnittstelle bzw. Satzart es  sich handelt.
 
 Das Element hat folgenden Aufbau:
 
@@ -532,13 +452,13 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Erläuterung**
 
-(„extension“=“Erweiterung“ zu dem RT-Attribut) dieses Attribut enthält eine OID bzw. Nummer des Objektes, welches das Objekt innerhalb der Organisation bzw. eines Bereichs eindeutig identifiziert. Zusammen mit dem RT-Attribut ergibt sich ein weltweit einmaliger Identifikator.
+(„extension“=“Erweiterung“ zu dem RT-Attribut)  dieses Attribut enthält eine OID bzw. Nummer des  Objektes, welches das Objekt innerhalb der  Organisation bzw. eines Bereichs eindeutig  identifiziert. Zusammen mit dem RT-Attribut ergibt  sich ein weltweit einmaliger Identifikator.
 
-(„root“=“Wurzel“) dieses Attribut enthält eine OID/ Nummer der Organisation oder der Person, der das Dokument erzeugt/versendet. In dieser Schnittstelle hat das Attribut den Wert "1.2.276.0.76.3.1.64".
+(„root“=“Wurzel“) dieses Attribut enthält eine OID/ Nummer der Organisation oder der Person, der das  Dokument erzeugt/versendet. In dieser Schnittstelle  hat das Attribut den Wert "1.2.276.0.76.3.1.64".
 
 **Erläuterung**
 
-Im V-Attribut steht die Versionsnummer, bei der Erstlieferung erhält das V-Attribut die Ziffer „1“. Für jede nachfolgende Austausch-, Korrektur-Lieferung wird die Versionsnummer um eins hochgezählt.
+Im V-Attribut steht die Versionsnummer, bei der  Erstlieferung erhält das V-Attribut die Ziffer „1“. Für  jede nachfolgende Austausch-, Korrektur-Lieferung  wird die Versionsnummer um eins hochgezählt.
 
 **Erläuterung**
 
@@ -627,7 +547,7 @@ Hier wird der Gültigkeitszeitraum angegeben.
 
 **Erläuterung**
 
-Hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben.
+Hier wird das Erstellungsdatum der Datei im Format  „YYYY-MM-DD“ angegeben.
 
 
 ---
@@ -643,12 +563,6 @@ Das Element hat folgende Struktur:
 Seite 13 von 27
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
-
-
----
-
-
-
 
 
 ---
@@ -694,17 +608,9 @@ Angabe zum Organisationsnamen
 
 ---
 
-
-
-
-
----
-
 **5 Abbildung: addr**
 
-In der Stammdatei werden nur die folgenden Kindelemente verwendet:
-
-- STR (Straße)
+In der Stammdatei werden nur die folgenden Kindelemente verwendet: - STR (Straße)
 - HNR (Hausnummer)
 - ZIP (Postleitzahl)
 - CTY (Stadt)
@@ -725,7 +631,7 @@ Seite 15 von 27
 
 V
 
-<ehd:STR V="Herbert-Lewin-Platz"/> <ehd:HNR V="2"/> <ehd:ZIP V="10623"/> <ehd:CTY V="Berlin"/>
+<ehd:STR V="Herbert-Lewin-Platz"/>  <ehd:HNR V="2"/>  <ehd:ZIP V="10623"/>  <ehd:CTY V="Berlin"/>
 
 **Type**
 
@@ -744,15 +650,9 @@ Entsprechende Werte für STR, HNR, ZIP sowie CTY.
 
 ---
 
-
-
-
-
----
-
 telecom (Kommunikationsmöglichkeiten)
 
-Dieses Element dient dazu, Telefon- und Faxnummern, Emailadressen und Homepages aufzunehmen. Werte werden im V-Attribut angegeben.
+Dieses Element dient dazu, Telefon- und Faxnummern, Emailadressen und Homepages aufzunehmen. Werte  werden im V-Attribut angegeben.
 
 Jedes Kommunikations-Element hat folgenden Aufbau:
 
@@ -786,9 +686,7 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Erläuterung**
 
-Angaben für
-
-- tel (Telefon)
+Angaben für - tel (Telefon)
 - fax (Fax)
 - mailto (E-Mail-Adresse)
 - http (Homepage)
@@ -797,7 +695,7 @@ Angaben für
 
 ---
 
-**6 Abbildung: provider** Bei der Stammdatei KVCA wird nur das Kindelement organization genutzt (siehe organization (Organisationsdaten)).
+**6 Abbildung: provider** Bei der Stammdatei KVCA wird nur das Kindelement organization genutzt (siehe organization  (Organisationsdaten)).
 
 4.1.8 state (Bearbeitungszustand)
 
@@ -837,15 +735,9 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 Angaben zum Bearbeitungszustand
 
-OID der entsprechenden Schlüsseltabelle. In dieser Schnittstelle wird das S-Attribut mit dem Wert "1.2.276.0.76.3.1.135.108" (S_KBV_BEARBEITUNGSZU STAND) belegt.
+OID der entsprechenden Schlüsseltabelle. In dieser  Schnittstelle wird das S-Attribut mit dem Wert  "1.2.276.0.76.3.1.135.108" (S_KBV_BEARBEITUNGSZU STAND) belegt.
 
 Menschenlesbarer Klartextname der Schlüsseltabelle.
-
-
----
-
-
-
 
 
 ---
@@ -872,7 +764,7 @@ Seite 18 von 27
 
 **Name**
 
-<ehd:state S=" 1.2.276.0.76.5.108" V="TEST" DN="Testdaten - nur für Testverfahren" SN="S_KBV_BEARBEITUNGSZUSTAND"/>
+<ehd:state S=" 1.2.276.0.76.5.108" V="TEST" DN="Testdaten - nur für Testverfahren"  SN="S_KBV_BEARBEITUNGSZUSTAND"/>
 
 **Name**
 
@@ -897,12 +789,6 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 **Erläuterung**
 
 Identifikation der Schnittstelle
-
-
----
-
-
-
 
 
 ---
@@ -991,7 +877,7 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Erläuterung**
 
-Bei der Stammdatei wird das EX-Attribut mit dem Wert "KVCA" und das RT-Attribut mit dem Wert "1.2.276.0.76.5.109" (S_KBV_SCHNITTSTELLE) belegt.
+Bei der Stammdatei wird das EX-Attribut mit dem  Wert "KVCA" und das RT-Attribut mit dem Wert  "1.2.276.0.76.5.109" (S_KBV_SCHNITTSTELLE) belegt.
 
 Versionsnummer der Schnittstelle
 
@@ -1012,7 +898,7 @@ Im Bereich <body> liegen die eigentlichen Inhalte der Datenlieferung. Der Namens
 
 ### 5.1 institution_liste (Liste der Institutionen)
 
-Innerhalb dieses Elements werden die einzelnen Stammsätze der Institutionen angegeben, die KV-Connect Anwendungen unterstützen.
+Innerhalb dieses Elements werden die einzelnen Stammsätze der Institutionen angegeben, die KV-Connect  Anwendungen unterstützen.
 
 Das Element hat folgende Struktur:
 
@@ -1020,7 +906,7 @@ Das Element hat folgende Struktur:
 
 5.1.1 kv (Stammsatz Institution KV)
 
-Das Element <kv> enthält jeweils einen Stammsatz einer KV (Kassenärztliche Vereinigung) und hat folgende Struktur:
+Das Element <kv> enthält jeweils einen Stammsatz einer KV (Kassenärztliche Vereinigung) und hat folgende  Struktur:
 
 **9 Abbildung: kv**
 
@@ -1033,14 +919,6 @@ Das Element hat folgenden Aufbau:
 Seite 20 von 27
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
-
-
----
-
-
-
-
-
 
 
 ---
@@ -1059,7 +937,7 @@ Das Element <anwendungsliste> gibt eine Liste der Anwendungen an, die eine KV un
 
 anwendung (Anwendung)
 
-Das Element <anwendung> gibt die konkrete Anwendung und dessen aktuelle Spezifika an. Das Element hat folgende Struktur:
+Das Element <anwendung> gibt die konkrete Anwendung und dessen aktuelle Spezifika an. Das Element hat  folgende Struktur:
 
 Seite 21 von 27
 
@@ -1089,18 +967,12 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 Dieses Attribut enthält die ID der KV.
 
-Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.5.233" (S_KBV_KV) belegt.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert  "1.2.276.0.76.5.233" (S_KBV_KV) belegt.
 
 
 ---
 
-
-
-
-
----
-
-**11 Abbildung 11: anwendung** Das Element enthält die Kindelemente id, version, email sowie die optionalen Elemente test_email, kim_email, *kim_test_email und anwendungsspezifika.*
+**11 Abbildung 11: anwendung** Das Element enthält die Kindelemente id, version, email sowie die optionalen Elemente test_email, kim_email,  *kim_test_email und anwendungsspezifika.*
 
 **id (Anwendungs-ID)**
 
@@ -1142,16 +1014,16 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 Dieses Attribut enthält die ID der Anwendung.
 
-Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.3.1.64.5.1" (S_KBV_DIENST) belegt.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert  "1.2.276.0.76.3.1.64.5.1" (S_KBV_DIENST) belegt.
 
 
 ---
 
 **version (Version der Anwendung)**
 
-Das Element <version> gibt die Versionsnummer der jeweiligen Anwendungsspezifikation wieder. Hierbei ist jedoch nur die Major-Release relevant (siehe [Versionierung]).
+Das Element <version> gibt die Versionsnummer der jeweiligen Anwendungsspezifikation wieder. Hierbei ist  jedoch nur die Major-Release relevant (siehe [Versionierung]).
 
-Zusätzlich kann noch die Gültigkeit angegeben werden, bspw. wenn eine neue Anwendungsspezifikation erst im Laufe eines Quartals in Kraft tritt.
+Zusätzlich kann noch die Gültigkeit angegeben werden, bspw. wenn eine neue Anwendungsspezifikation erst  im Laufe eines Quartals in Kraft tritt.
 
 Das Element hat folgenden Aufbau:
 
@@ -1163,7 +1035,7 @@ example
 
 **email (KV-Connect Adresse)**
 
-Das Element <email> enthält die entsprechende KV-Connect Adresse unter der eine KV Nachrichten für die Anwendung entgegen nimmt.
+Das Element <email> enthält die entsprechende KV-Connect Adresse unter der eine KV Nachrichten für die  Anwendung entgegen nimmt.
 
 Das Element hat folgenden Aufbau:
 
@@ -1175,19 +1047,19 @@ example
 
 **test_email (KV-Connect Adresse Test)**
 
-Das Element <test_email> enthält eine KV-Connect Adresse unter der eine KV Testnachrichten für die Anwendung entgegen nimmt.
+Das Element <test_email> enthält eine KV-Connect Adresse unter der eine KV Testnachrichten für die  Anwendung entgegen nimmt.
 
 Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connect Adresse)).
 
 **kim_email (KIM Emailadresse)**
 
-Das Element <kim_email> enthält eine KIM Emailadresse unter der eine KV die Anwendung in der Telematikinfrastruktur entgegen nimmt.
+Das Element <kim_email> enthält eine KIM Emailadresse unter der eine KV die Anwendung in der  Telematikinfrastruktur entgegen nimmt.
 
 Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connect Adresse)).
 
 **kim_test_email (KIM Emailadresse)**
 
-Das Element <kim_test_email> enthält eine KIM Emailadresse unter der eine KV Testnachrichten zur Anwendung in der Telematikinfrastruktur entgegen nimmt.
+Das Element <kim_test_email> enthält eine KIM Emailadresse unter der eine KV Testnachrichten zur  Anwendung in der Telematikinfrastruktur entgegen nimmt.
 
 Seite 23 von 27
 
@@ -1257,7 +1129,7 @@ Dieses Attribut gibt das Ende der Gültigkeit an.
 
 Dieses Attribut enthält die KV-Connect Adresse.
 
-Dieses Attribut enthält Angaben zur Gültigkeit, d.h. ab wann die Adresse gültig ist.
+Dieses Attribut enthält Angaben zur Gültigkeit, d.h. ab  wann die Adresse gültig ist.
 
 Dieses Attribut gibt das Ende der Gültigkeit an.
 
@@ -1268,11 +1140,11 @@ Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connec
 
 **Umgang mit den Elementen <test_email> und <kim_test_email>**
 
-*Sofern eine KV bei der Anwendung 1ClickAbrechnung die Annahme von Testabrechnungen oder Testpaketen* *(Funktionen 1, 3 und 5) unterstützt und in <test_email> bzw. <kim_test_email> eine Adresse angegeben ist, so ist* *die Testabrechnung oder das Testpaket an diese Adresse zu senden. Ist in <test_email> bzw. <kim_test_email>* *keine Adresse angegeben bzw. fehlen diese Elemente, so ist die Testabrechnung oder das Testpaket an die Adresse* *zu senden, die in <email> bzw. <kim_email> hinterlegt ist.*
+*Sofern eine KV bei der Anwendung 1ClickAbrechnung die Annahme von Testabrechnungen oder Testpaketen*  *(Funktionen 1, 3 und 5) unterstützt und in <test_email> bzw. <kim_test_email> eine Adresse angegeben ist, so ist*  *die Testabrechnung oder das Testpaket an diese Adresse zu senden. Ist in <test_email> bzw. <kim_test_email>*  *keine Adresse angegeben bzw. fehlen diese Elemente, so ist die Testabrechnung oder das Testpaket an die Adresse*  *zu senden, die in <email> bzw. <kim_email> hinterlegt ist.*
 
 **anwendungsspezifika**
 
-Das Element <anwendungsspezifika> gibt die spezifischen Merkmale der Anwendung an. Das Element hat folgende Struktur:
+Das Element <anwendungsspezifika> gibt die spezifischen Merkmale der Anwendung an. Das Element hat  folgende Struktur:
 
 **12 Abbildung: anwendungsspezifika** Das Element enthält entweder das Kindelement anwendungsfunktion oder dmp_liste.
 
@@ -1316,13 +1188,7 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 Dieses Attribut enthält den Namen der Funktion.
 
-Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.3.1.1.5.2.34" (S_1CLK_FUNKTION) belegt.
-
-
----
-
-
-
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert  "1.2.276.0.76.3.1.1.5.2.34" (S_1CLK_FUNKTION)  belegt.
 
 
 ---
@@ -1331,7 +1197,7 @@ Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle. In dieser
 
 ### 6.1 keytabs (Schlüsseltabellen)
 
-Das Element <keytabs> beinhaltet Schlüsseltabellen, welche für die Referenzierung innerhalb der XML-Datei (hier: body (Datenbereich)) verwendet werden.
+Das Element <keytabs> beinhaltet Schlüsseltabellen, welche für die Referenzierung innerhalb der XML-Datei  (hier: body (Datenbereich)) verwendet werden.
 
 Das Element hat folgende Struktur:
 
@@ -1339,7 +1205,7 @@ Das Element hat folgende Struktur:
 
 6.1.1 keytab (Schlüsseltabelle)
 
-Das Element <keytab> beinhaltet jeweils eine einzelne Schlüsseltabelle, welche in den Attributen S, SN, und SV näher beschrieben wird.
+Das Element <keytab> beinhaltet jeweils eine einzelne Schlüsseltabelle, welche in den Attributen S, SN, und SV  näher beschrieben wird.
 
 Das Element hat folgenden Aufbau:
 
@@ -1351,7 +1217,7 @@ example
 
 key (Schlüssel)
 
-Eine Schlüsseltabelle enthält mehrere Schlüsseln (<key>), welche in den Attributen S, DN und SV beschrieben werden.
+Eine Schlüsseltabelle enthält mehrere Schlüsseln (<key>), welche in den Attributen S, DN und SV beschrieben  werden.
 
 Das Element <key> hat folgenden Aufbau:
 
@@ -1413,7 +1279,7 @@ Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
 **Erläuterung**
 
-Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle.
 
 Menschenlesbarer Klartextname der Schlüsseltabelle.
 
@@ -1421,17 +1287,11 @@ Versionsnummer der Schlüsseltabelle
 
 **Erläuterung**
 
-Dieses Attribut enthält die OID der entsprechenden Schlüsseltabelle.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle.
 
 Menschenlesbarer Wert
 
 Versionsnummer der Schlüsseltabelle
-
-
----
-
-
-
 
 
 ---
@@ -1446,7 +1306,9 @@ Seite 26 von 27
 
 <key V="1CLICK" DN="1Click Abrechnung" S="1.2.276.0.76.3.1.64.5.1" SV="1.05"/>
 
-**Type****Use**
+**Type**
+
+**Use**
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 

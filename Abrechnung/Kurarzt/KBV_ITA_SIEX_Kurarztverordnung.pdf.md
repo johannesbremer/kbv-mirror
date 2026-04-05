@@ -1,40 +1,58 @@
-Gebührpfl.
+Krankenkasse bzw. Kostenträger Gebühr pfl.
 
-Krankenkasse bzw. Kostenträger Name, Vorname des Versichertengeb. amGebührfrei KostenträgerkennungVersicherten-Nr.Status Betriebsstätten-Nr.Arzt-Nr.Datum
+Name, Vorname des Versicherten Gebühr frei
 
-Unfall/Unfall-folgen
+Unfall/ Unfall- folgen
 
-BVG
+BVG Kostenträgerkennung Versicherten-Nr.
 
-**Diagnose/Vorsorgeziel** **Ggf. Hinweise zur Therapie**
+Betriebsstätten-Nr.
 
-Verordnungs-mengeHeilmittel
+**Diagnose/Vorsorgeziel**
+
+**Ggf. Hinweise zur Therapie**
+
+Verordnungs- menge
 
 **Maßnahmen der Gesundheitsförderung**
 
-Patienten-GesprächsseminarVerhaltenstherapeutisches ErnährungsseminarSeminar RaucherentwöhnungSeminar EntspannungstechnikenSeminar Bewegungstraining
+Arzt-Nr.
 
-Pos.-Nr.
+Heilmittel
 
-Pos.-Nr.
+Patienten-Gesprächsseminar
+
+Verhaltenstherapeutisches Ernährungsseminar
+
+Seminar Raucherentwöhnung
+
+Seminar Entspannungstechniken
+
+Seminar Bewegungstraining
 
 **Freigabe 05.11.2014**
 
-Anzahl
+Status
 
-Anzahl
+Datum
+
+Pos.-Nr.Anzahl
+
+Pos.-Nr.Anzahl
+
+geb. am
 
 Pos.-Nr.
 
 Pos.-Nr.
 
-**Verordnung****des Kurarztes**
-
-**Ambulante Vorsorgeleistung in anerkannten****Kurorten nach § 23 Abs. 2 SGB V**
+**Verordnung** **des Kurarztes** **Ambulante Vorsorgeleistung in anerkannten** **Kurorten nach § 23 Abs. 2 SGB V**
 
 Gesamt-Zuzahlung
 
-Rechnungs-Nummer Beleg-Nummer
+Rechnungs-Nummer
+
+Beleg-Nummer
 
 Anzahl
 
@@ -56,7 +74,7 @@ Anzahl
 
 Anzahl
 
-Anzahlpro Wo.
+Anzahl pro Wo.
 
 (1.2015)
 
@@ -67,19 +85,57 @@ Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quit
 
 Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
 
-DatumMaßnahme(n)
+Datum Maßnahme(n)
 
-**1****2****3****4****5****6****7****8****9****10****11****12****13****14****15****16****17****18****19****20**
+**1**
+
+**2**
+
+**3**
+
+**4**
+
+**5**
+
+**6**
+
+**7**
+
+**8**
+
+**9**
+
+**10**
+
+**11**
+
+**12**
+
+**13**
+
+**14**
+
+**15**
+
+**16**
+
+**17**
+
+**18**
+
+**19**
+
+**20**
 
 Behandlungsabbruch am:
 
-Dieses Formular bitte nach Beendigung der Behandlungder jeweiligen Krankenkasse zusenden.
-
-Patienten-Unterschrift
+Dieses Formular bitte nach Beendigung der Behandlung der jeweiligen Krankenkasse zusenden.
 
 **Empfangsbestätigung durch den Versicherten**
 
 Datum
+
+Patienten-Unterschrift
 
 **Freigabe 05.11.2014**
 

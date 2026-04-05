@@ -1,4 +1,4 @@
-|  | IT in der Arztpraxis Plausibilitätenkatalog Prävent [ |
+|  | IT in der Arztpraxis Plausibilitätenkatalog Prävent [KBV_ITA_VGEX_Plausi_Praevention_eHKS] |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -7,13 +7,7 @@
 |  | Version |
 |  |  |
 
-© KBV Kassenärztliche Bundesvereinigung, Berlin 2019
-
-
----
-
-
-
+i- on (eHKS) -Lewin-Platz 2 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2019
 
 
 ---
@@ -25,36 +19,31 @@
 | 1.04 | 12.08.2019 | KBV | Erweiterung des Wertebereichs |  | 5 |
 | 1.03 | 02.08.2012 | KBV | Red. Änderungen | entfällt | alle |
 
-**IT in der Arztpraxis**Plausibilitätenkatalog Prävention (eHKS)
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
-KBV_ITA_VGEX_Plausi_Praevention_eHKS]4*Version 1.0Seite2 6von
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0
 
-
----
-
-
-
+für den Parameter „Geschlecht der/des Versicherten“ Seite 2 6 von
 
 
 ---
 
-**INHALTSVERZEICHNIS**
+| IT in | der Arztpraxis |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Plausibilitätenkatalog | Prävention | (eHKS) |  |  |  |
+|  |  |  | INHALTSVERZEICHNIS | | |  |
+| 1 | EINLEITUNG | |  |  |  |  |
+| 2 | GRUNDLAGEN | |  |  |  |  |
+| 3 |  | PLAUSIBILITÄTSPRÜFUN | | GEN | ALLGEMEINER | DATENSATZ |
+|  |  | KBV_ITA_VGEX_Plausi_Praevention_eHKS] | | 4 *Version | 1.0 |  |
 
-**1**EINLEITUNG**4**
+**4**
 
-**2**GRUNDLAGEN**4**
+**4**
 
-**3**PLAUSIBILITÄTSPRÜFUN**GEN ALLGEMEINER DATE****NSATZ****5**
+**5**
 
-**IT in der Arztpraxis**Plausibilitätenkatalog Prävention (eHKS)
-
-KBV_ITA_VGEX_Plausi_Praevention_eHKS]4*Version 1.0Seite3 6von
-
-
----
-
-
-
+GEN ALLGEMEINER DATENSATZ IT in der Arztpraxis Plausibilitätenkatalog Prävention (eHKS)  KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0Seite 3 6 von
 
 
 ---
@@ -63,80 +52,82 @@ KBV_ITA_VGEX_Plausi_Praevention_eHKS]4*Version 1.0Seite3 6von
 
 ### Einleitung
 
-Der vorliegende Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ konkretisiertdie enthaltenenPlausibilitätendesGemeinsamen Bundesausschuss (GBA)im Hinblick aufdie technische Umsetzung−seitens des Praxissoftwareherstellerssowie−im Rahmen des Prüfmoduls.Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi-bilität eingegebener Werte durchzuführen und den Anwender ggf. aufVerstöße gegen diePlausibilitäten hinzuweisen.Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieserUnterlage noch nicht abgebildet waren, so können diese ergänzt werden.Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys-temanbieter verteilt.
+Der vorliegende Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ konkretisiert  die enthaltenen Plausibilitäten des Gemeinsamen Bundesausschuss (GBA) im Hinblick auf  die technische Umsetzung
+
+− seitens des Praxissoftwareherstellers sowie
+
+− im Rahmen des Prüfmoduls.
+
+Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
+
+Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt werden.
+
+Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys- temanbieter verteilt.
 
 **2**
 
 ### Grundlagen
 
-DerPlausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt denEntwicklernvon PVS--,Systemen oder WebAnwendungssystemen ein Hilfsmittel zur Verfügungwelchesdie Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen imRahmen derPräventions-eDokumentationspezifiziert.Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass derAnwenderbei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemachtwird.Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung er-folgen soll.Weitere Sachverhalte sindinden entsprechendenAnforderungskatalogender jeweiligen Prä-ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertfizierung der Anwendung.Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesenwerden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+Der Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt den Entwicklern  von PVS--, Systemen oder Web Anwendungssystemen ein Hilfsmittel zur Verfügung welches  die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen im  Rahmen der Präventions-eDokumentation spezifiziert.
 
-**IT in der Arztpraxis**Plausibilitätenkatalog Prävention (eHKS)
+Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung er- folgen soll.
 
-KBV_ITA_VGEX_Plausi_Praevention_eHKS]4*Version 1.0Seite4 6von
+Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweiligen Prä- ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zert fizierung der Anwendung.
 
+Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
----
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0
 
-
+Seite 4 6 von
 
 
 ---
 
 | Feld- | Dokumentationsparameter | Ausprägung/Datenformat | Plausibilitätenregel |
 |---|---|---|---|
-| 1.1 | Administrative Daten |
+| 1.1 | Administrative Daten | | |
 | 1.1.1 | Lebenslange Arztnummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
 | 1.1.2 | Betriebsstättennummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
-| 1.2 | Personenstammdaten |
-| 1.2.1 | Geburtsdatum der/des Versi- Alternativ | TT.MM.JJJJ | Pflichtfeld Geburtsdatum |
-| 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/U | Pflichtfeld Es ist genau eine Angabe erforderlich. |
-| 1.2.3 | Name des Kostenträgers |  | Pflichtfeld D |
+| 1.2 | Personenstammdaten | | |
+| 1.2.1 | Geburtsdatum der/des Versi- Alternativ | TT.MM.JJJJ | Pflichtfeld Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
+| 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/Unbestimmt/Divers | Pflichtfeld Es ist genau eine Angabe erforderlich. |
+| 1.2.3 | Name des Kostenträgers |  | Pflichtfeld Der Name des Kostenträgers muss der Kostenträ- |
 | 1.2.4 | Institutionskennzeichen des | Nummerisch 7-stellig | Pflichtfeld Stammdateiprüfung |
-| 1.3 | Untersuchungsdatum |
-|  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld  Das |
-| 1.4 | Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde |
+| 1.3 | Untersuchungsdatum | | |
+|  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld  Das Untersuchungsdatum (1.3) muss kleiner gleich |
+| 1.4 | Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde | | |
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
-| 3 |
+| 3 | | | |
 
-**IT in der Arztpraxis**
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
-Plausibilitätenkatalog Prävention (eHKS)
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
 
-KBV_ITA_VGEX_Plausi_Praevention_eHKS]3*Version 1.0Seite5 6von
-
-
----
-
-
-
+Plausibilitätsprüfungen Allgemeiner Datensatz Nr. (LANR) (BSNR) cherten  zum Geburtsdatum der/des Versicherten kann auch das Alter der/des cherten angegeben werden tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-Seite 5 6 von
 
 
 ---
 
 |  |  |  |  |
 |---|---|---|---|
-|  |  |
+|  |  | | |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |
+|  |  | | |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |
+|  |  | | |
 |  |  |  |  |
-|  |  |
+|  |  | | |
 |  |  |  |  |
-| ventionsmaßnahme "Hautkrebs-Screening" nicht |
+| ventionsmaßnahme "Hautkrebs-Screening" nicht | | | |
 
-**IT in der Arztpraxis**Plausibilitätenkatalog Prävention (eHKS)
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
-KBV_ITA_VGEX_Plausi_Praevention_eHKS]3*Version 1.0Seite6 6von
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
 
-
----
-
-
-
+möglich. Ausnahme: Ergänzende Verträge z.B. nach § 73c SGB V  Seite 6 6 von

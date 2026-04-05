@@ -4,73 +4,65 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: DOKUMENTENSTATUS: IN |
+|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 2.10  DOKUMENTENSTATUS: IN |
 |---|---|
 
-# PRUEFPAKET
+# PRUEFPAKET QS-ZERVIX-ZYTOLOGIE
 
-# QS-
+## [KBV_ITA_AHEX_PRUEFPAKET_QS_ZERVIX-ZYTOLOGIE]
 
-# ZERVIX
+Seite 1 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
-**-**
-
-# ZYTOLOGIE
-
-## [KBV_ITA_AHEX_PRUEFP
-
-## AKET
-
-_
-
-## QS
-
-_
-
-## ZERVIX
-
--
-
-## ZYTOLOGIE
-
-]
-
-Seite 1 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie /  Version: 2.10 / 12. August 2021
-
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 
 ---
 
 ## INHALT
 
-**1**ALLGEMEINES**5**
+| 1 |  | ALLGEMEINES |  | 5 |
+|---|---|---|---|---|
+| 1.1 |  | Rechtsgrundlage |  | 5 |
+| 1.2 |  | Zertifizierungsablauf |  | 5 |
+| 1.3 |  | Zertifizierungsportal |  | 6 |
+| 1.4 |  | Zertifizierungsdokumente | | 6 |
+| 1.5 |  | Prüfunterlagen |  | 6 |
+| 1.6 |  | Prüfvorgaben |  | 7 |
+|  | 1.6.1 |  | Prüfstammdaten | 7 |
+|  | 1.6.2 | Praxisdaten/ | Arztstempel | 8 |
 
-1.1Rechtsgrundlage51.2Zertifizierungsablauf51.3Zertifizierungsportal61.4Zertifizierungsdokumente61.5Prüfunterlagen61.6Prüfvorgaben71.6.1Prüfstammdaten71.6.2Praxisdaten/ Arztstempel8**2**PRÜFFÄLLE**9**
+| 2 |  | PRÜFFÄLLE | 9 |
+|---|---|---|---|
+| 2.1 | Prüffall | 1 | 9 |
+| 2.2 | Prüffall | 2 | 11 |
+| 2.3 | Prüffall | 3 | 13 |
 
-2.1Prüffall 192.2Prüffall 2112.3Prüffall 313**3**TESTDATENVALIDIERUNG**14**
+**3 TESTDATENVALIDIERUNG** **14**
 
-**4**REFERENZ**IERTE DOKUMENTE****15**
+**4 REFERENZIERTE DOKUMENTE 15**
 
-Seite 2 von 15 / KBV / Pruefpaket QS-Zervix-  Zytologie / Version: 2.10 / 12. August 2021
+Seite 2 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie /
+
+Version: 2.10 / 12. August 2021
+
+Praxisdaten/ Arztstempel Prüffall 1 Prüffall 2 Prüffall 3
 
 
 ---
 
-## ABBILDUNGSVERZEICHNI
+|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für | die | Zertifizierung |
+| Abbildung | 2: |  | Testdatenvalidierung |  |  |  |  |
+| Abbildung | 3: | Exemplarische |  | Verzeichnisstruktur | für | die | Testdatenvalidierung |
+| Seite 3 | von 15 / KBV | / Pruefpaket | QS-Zervix-Zytologie | / | Version: 2.10 | / 12. | August 2021 |
 
-S
+7  14  14
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für dieZertifizierung7Abbildung 2: Testdatenvalidierung14Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung14
-
-Seite 3 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
-
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Testdatenvalidierung Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 15  /  KBV  /  Pruefpaket QS-Zervix-Zytologie  /  Version: 2.10  /  12. August 2021
 
 ---
 
-D
-
-## OKUMENTENH
-
-## ISTORIE
+## DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -80,6 +72,7 @@ D
 
 Seite 4 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+Layouts Corporate Design auf Zertifizierung Zertifizierungsportals des Prüfpaketes Zertifizierungsrichtlinie
 
 ---
 
@@ -87,52 +80,94 @@ Seite 4 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Augu
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung einesZertifizierungsgegenstandes im Bereich der e-DokumentationQualitätssicherung „Zervix-Zytologie“.Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet denRahmen der Zertifizierung und ist zu beachten.Des Weiteren könnendem Antrag auf Zertifizierungneben Zertifizierungskosten und Laufzeit der Zulassungweitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.**1.1****RECHTSGRUNDLAGE**Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGBV zur Erbringung von molekulargenetischen Untersuchungen bei monogenen Erkrankungen“.**1.2****ZERTIFIZIERUNGSABLAU****F**Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einerErgebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:1.Der Antragssteller muss imZertifizierungsportal den entsprechenden Prüfvorgang initiieren. NachEinleitung des Prüfvorganges wird im Zertifizierungsportalder Antrag auf Zertifizierungmit den der KBVbisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt undunterschrieben alsPDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereichtwerden.Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst denAntrag auf Zertifizierung eingescanntper Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt derZugangsdatenkannderPrüfvorgang im Zertifizierungsportal initiiertund den vorab viaE-Maileingereichten Antrag auf Zertifizierungdorthochgeladenwerden.2.Eine Verzeichnis-bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichenPrüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alleUnterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals alsfehlerfrei erkannt wurden, erfolgt eine manuelle Prüfungdurch das Referat Zertifizierung.3.Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsstellermit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.BeiVorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.4.Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuellePrüfung der eingereichtenUnterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochenwerden.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der e-Dokumentation Qualitätssicherung „Zervix-Zytologie“.
+
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+**1.1 RECHTSGRUNDLAGE**
+
+Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zur Erbringung von molekulargenetischen Untersuchungen bei monogenen Erkrankungen“.
+
+**1.2 ZERTIFIZIERUNGSABLAUF**
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheitdes Antrages auf Zertifizierungbei der KBV oder desFehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 Seite 5 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
 
 ---
 
-1.3**ZERTIFIZIERUNGSPORTA**LDas Zertifizierungsportal ist über[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)zu erreichen.Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer darananschließenden manuellen Prüfung.Die Zugangsdatenkönnen direkt über das Portal oder perE-Mail an[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)unter Angabe derSystem-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bittebeachten Sie, dass pro Systembzw. System-ID nur ein Account vergeben wird.Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert undden Antrag aufZertifizierunghochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten derZertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.Alle erforderlichenPrüfunterlagensind für die Zertifizierung zu übermitteln. Vor jedem Upload imZertifizierungsportal muss die komplette vorgegebeneVerzeichnisstrukturzusammen mit den erstelltenPrüfunterlagen in Form einer ZIP-Datei archiviert werden.Die in das Portal integrierte Prüfautomatisierung führtnebeneinerinhaltlichen Prüfung aucheine Prüfungauf Vollständigkeit der eingereichten Prüfunterlagen durch.Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird derAntragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehlerzu beheben bzw. die Lieferung zu vervollständigen.Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechendeFehlermeldungsbenachrichtigungen (sogenannteLog-Dateien im HTML-oder XML-Format) erzeugt unddem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständigeund fehlerfrei eingereichteLieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfreierkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden dieAntragsstelleraufgefordert, eine Korrekturlieferung hochzuladen.Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportalsgenutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. DesWeiteren müssen für die Testdatenvalidierung die Hinweise inKapitel3berücksichtigt werden.1.4**ZERTIFIZIERUNGSDOKUM**ENTEAlle erforderlichen Unterlagen stehen im Internet zum Download unterITA-Updatebereit.In diesemZusammenhang berücksichtigen Sie bitte das KapitelReferenzierteDokumente.1.5**PRÜFUNTERLAGEN**Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:›Zervix Zytologie Unterlagen bestehend aus XML DateienEs wirdeine Begleitdatei undeine Archivdatei (*.zip.XKM), welche die einzelnenXML-Dateien imentsprechenden Verzeichnis enthält, erwartet.Entsprechende Vorgabenfür die Bildung der Dateinamenundweitere Angaben entnehmen Sie bitteKBV_ITA_VGEX_XML-Schnittstellen.Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbarsein. Die Daten können nur über das Zertifizierungsportal (sieheKapitel 1.3hochgeladen und geprüftwerden.
+1.3 ZERTIFIZIERUNGSPORTAL
+
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
+
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
+
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
+
+1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+
+1.5 PRÜFUNTERLAGEN
+
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   › Zervix Zytologie Unterlagen bestehend aus XML Dateien  Es wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im  entsprechenden Verzeichnis enthält, erwartet. Entsprechende Vorgaben für die Bildung der Dateinamen  und weitere Angaben entnehmen Sie bitte KBV_ITA_VGEX_XML-Schnittstellen.  Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar  sein. Die Daten können nur über das Zertifizierungsportal (siehe Kapitel 1.3 hochgeladen und geprüft  werden.
 
 Seite 6 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
 
 ---
 
-›**Videodateien un****d/oder Screenshots ausgewählter Anforderungen****:**Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner„Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werdendurch den Prüfer begutachtet.*PrüffallNr*.
+› **Videodateien und/oder Screenshots ausgewählter Anforderungen:**  Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.   *PrüffallNr.* 1_[lfdNr.] 2.3.*
 
-1_[lfdNr.] 2.* 3
+1 Nummer des Prüffalls  2 Laufende Nr.
 
-1Nummer des Prüffalls 2Laufende Nr.
+3 Gängiges Bild- bzw. Videoformat
 
-3Gängiges Bild-bzw. Videoformat
+› Alle Prüfunterlagen [XML-Datei und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip-  Archiv muss wie folgt benannt werden:   Zert_52_ SystemID.zip   Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
-›Alle Prüfunterlagen [XML-Dateiund der Ordner „Dokumentation“] sind in einem zip-Archiv zuübermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen undnicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip-Archiv muss wie folgt benannt werden:Zert_52_*SystemID*.zipDie SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-Abbildung1: ExemplarischeVerzeichnisstruktur für die Zertifizierung
+**1.6 PRÜFVORGABEN**
 
-**1.6****PRÜFVORGABEN**Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung desjeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei derDokumentation angegeben ist.**1.6.1****Prüfstammdaten**Für die Zertifizierung müssen die für diePrüfung speziell entwickeltenPrüfstammdateienverwendetwerden. Zur eindeutigen UnterscheidungderDaten für den Echtbetrieb wird die Dateinamenserweiterungbzw. der Dateiname mit „PRF” gekennzeichnet.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-________
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
+
+**1.6.1 Prüfstammdaten**
+
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+
+________________
 
 Seite 7 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
 
 ---
 
+**1.6.2 Praxisdaten/ Arztstempel**
 
-
-
-
----
-
-**1.6.2****Praxisdaten/ Ar****ztstempel**Folgende Angaben sind für die Zertifizierung zu verwenden:
+Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -148,26 +183,26 @@ Seite 7 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Augu
 | Dokumentationsdatum (Kopfdatum): | 27.02.2016 |
 | Zu verwendende Prüfnummer: | Y/52/9712/36/000 |
 
-**Hinweis:**Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie diesesDokumentationsdatum auch als (Datei-) Erstellungs-und Einreichungsdatum und berücksichtigen Sie esinsbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisiertenVerarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen.
+**Hinweis: Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses**  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen.
 
 Seite 8 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
 
 ---
 
-| ANLAGE 2 QS-VEREINBA |
-|---|
-| 1 |
-| Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 |
-| 2 |
-| dabei untersuchte Frauen | 852 |
-| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres |
-| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V |
+| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | | | | | | | | | | | | |
+| Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | | | | | | | | | | | | | | | | |
+| 2 | | | | | | | | | | | | | | | | | | | |
+| dabei untersuchte Frauen | 852 | | | | | | | | | | | | | | | | | | |
+| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | | | | | | | | | | | | | | | | | | | |
+| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
-| 2 2.1 |
+| 2 2.1 | | | | | | | | | | | | | | | | | | | |
 |  |  |  |  |  | Prüffall-ID | 1 | Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Pflichtfunktion P1-40 des Anforderungskataloges QS Zervix- | Zytologie. |  | Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 | Prüfunterlagen | Nachweis ist für die nachstehend beschriebene Jahresstatistik ein Screenshot einzureichen, welcher das geforderte | Hinweis |  |  | Jahresstatistik Zervixzytologie für das Berichtsjahr 2015 | Zytologische Befunde (Cervix Uteri) und histologische Abklärungsdiagnostik |
-| Zeitraum 01.01.2015 |  | ANLAGE 2 QS-VEREINBA |  | 1 | Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | 2 | dabei untersuchte Frauen | 852 | Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) | Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV |
-| Gruppe V |
+| Zeitraum 01.01.2015 – 31.12.2015 des |  | ANLAGE 2 QS-VEREINBA |  | 1 | Gesamtzahl der untersuchten | 942 | Davon Gruppe 0 | 36 | 2 | dabei untersuchte Frauen | 852 | Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Frau aus dem Zeitraum 01.01 – 31.12 des Berichtjahres) | Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV |
+| Gruppe V | | | | | | | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -176,9 +211,9 @@ Seite 8 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Augu
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |
-|  |
-|  |
+|  | | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
 
 |  |  |
 |---|---|
@@ -190,22 +225,23 @@ Seite 8 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Augu
 
 Seite 9 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+Systemverhalten aufzeigt. PRÜFFÄLLE PRÜFFALL 1 Berichtjahres: RUNG ZERVIX-ZYTOLOGIE Präparate:
 
 ---
 
-|  |
-|---|
-|  |
-|  |  |  |  |
-|  |
-|  |  |
-|  |
-|  |  |  |  |  |  | 4 Davon bis 30.06 des Folgejahres histologisch geklärt: |
+|  | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
+|  |  | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  |  |  | 4 Davon bis 30.06 des Folgejahres histologisch geklärt: | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 21 | 33 | 5 | 2 | 11 | 2 | 27 | 17 | 24 | 2 | 16 | 9 | 1 | 23 | 3 | 0 | 2 | 4 | 2 |
-| ANLAGE 2 QS-VEREINBA |
+| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
 | Anzahl der Frauen | 35 | 163 | 44 | 22 | 34 | 55 | 89 | 66 | 78 | 10 | 45 | 56 | 4 | 88 | 15 | 4 | 5 | 8 | 12 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 Davon bis 30.06 des Folgejahres histologisch geklärt: |
+| 4 Davon bis 30.06 des Folgejahres histologisch geklärt: | | | | | | | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 21 | 33 | 5 | 2 | 11 | 2 | 27 | 17 | 24 | 2 | 16 | 9 | 1 | 23 | 3 | 0 | 2 | 4 | 2 |
 | CIN I | 2 | 18 | 6 | 5 | 3 | 14 | 16 | 6 | 12 | 0 | 0 | 14 | 0 | 14 | 0 | 0 | 0 | 0 | 0 |
 | CIN II | 3 | 6 | 3 | 0 | 2 | 8 | 6 | 0 | 5 | 1 | 8 | 6 | 1 | 3 | 2 | 2 | 0 | 0 | 6 |
@@ -214,39 +250,40 @@ Seite 9 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Augu
 | Plattenepithalkarzinom der Cervix uteri | 3 | 0 | 11 | 6 | 0 | 12 | 16 | 14 | 9 | 3 | 11 | 13 | 2 | 20 | 1 | 0 | 1 | 0 | 0 |
 | Adenokarzinom der  Cervix uteri | 4 | 9 | 12 | 4 | 6 | 5 | 8 | 18 | 0 | 2 | 0 | 2 | 0 | 0 | 3 | 1 | 1 | 0 | 3 |
 | Endometriumkarzinom und andere Malignome | 2 | 38 | 3 | 3 | 5 | 3 | 5 | 0 | 8 | 0 | 0 | 4 | 0 | 11 | 0 | 0 | 0 | 1 | 0 |
-| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): |
-|  |
-| Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix Zeile 3: für jede im Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahre Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier |
+| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): | | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
+| Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer Frau aus diesem Zeitra Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
 Seite 10 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+RUNG ZERVIX-ZYTOLOGIE uteri und die Anzahl der dabei untersuchten Frauen um vor, entscheidet der zytologische Arzt, welcher Befund aus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist (immer die höchste Gruppe). durch zytologische Kontrollen weiter untersucht wurden (z.B. bei Gruppe III und IIID) und bei denen keine histologische Abklärungsdiagnostik bis zum 30.06 des Folgejahres erfolgte, sind unter Zeile 4ff nicht aufzuführen). erforderlich
 
 ---
 
-| ANLAGE 2 QS |
-|---|
-| 1 |
-| Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 |
-| 2 |
-| dabei untersuchte Frauen | 1750 |
-| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres |
-| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V |
+| ANLAGE 2 QS | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | | | | | | | | | | | | |
+| Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 | | | | | | | | | | | | | | | | |
+| 2 | | | | | | | | | | | | | | | | | | | |
+| dabei untersuchte Frauen | 1750 | | | | | | | | | | | | | | | | | | |
+| Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | | | | | | | | | | | | | | | | | | | |
+| 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V | | | | | | | | | | | | | |
 |  | Gruppe I | Gruppe II-a | II-p | II-g | II-e | III-p | III-g | III-e | III-x | IIID1 | IIID2 | IVa-p | IVa-g | IVb-p | IVb-g | V-p | V-g | V-e | V-x |
 | Anzahl der Frauen | 75 | 112 | 137 | 107 | 98 | 196 | 120 | 239 | 78 | 50 | 116 | 56 | 66 | 92 | 45 | 21 | 52 | 32 | 58 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 |
+| 4 | | | | | | | | | | | | | | | | | | | |
 | Kein Hinweis auf CA-Vorstufe oder CA | 15 | 25 | 36 | 19 | 17 | 13 | 38 | 112 | 24 | 12 | 22 | 9 | 15 | 31 | 5 | 5 | 0 | 5 | 19 |
-| 2.2 |
-|  |  |  |  | Prüffall-ID | 2 | Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der | QS Zervix-Zytologie. |  | Voraussetzung |  | Prüfunterlagen | Für den korrekten Nachweis ist eine XML | Hinweis |  |  | Jahresstatistik Zervixzytologie für das Berichtsjahr 2015 | Zeitraum |  |
+| 2.2 | | | | | | | | | | | | | | | | | | | |
+|  |  |  |  | Prüffall-ID | 2 | Testziel | Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der | QS Zervix-Zytologie. |  | Voraussetzung |  | Prüfunterlagen | Für den korrekten Nachweis ist eine XML | Hinweis |  |  | Jahresstatistik Zervixzytologie für das Berichtsjahr 2015 | Zeitraum 01.01.2015 – 31.12.2015 des Berichtjahres: |  |
 | ANLAGE 2 QS |  | 1 | Gesamtzahl der untersuchten | 1952 | Davon Gruppe 0 | 71 | 2 | dabei untersuchte Frauen | 1750 | Befundgruppen der Münchner Nomenklatur III (ein Ausgangsbefund pro | Histologische Abklärung zu diesem Ausgangsbefund bis 30.06 des Folgejahres | 3 Ausgangsbefunde | Gruppe 0 (Negativ) | Gruppe II | Gruppe III | Gruppe IIID | Gruppe IV | Gruppe V |  |
 | Gruppe I | Gruppe II-a II-p | II-e III-p | III-e III-x | IIID2 IVa-p | IVb-p IVb-g | V-g V-e | Anzahl der Frauen 75 | 137 107 | 196 120 | 78 50 | 56 66 | 45 21 | 32 58 |  |  |  |  |  |  |
 |  | 4 Kein Hinweis auf CA-Vorstufe oder CA | 25 36 | 17 13 | 112 24 | 22 9 | 31 5 | 0 5 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |
-|  |
-|  |
+|  | | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
+|  | | | | | | | | | | | | | | | | | | | |
 
 |  |  |
 |---|---|
@@ -258,23 +295,24 @@ Seite 10 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Aug
 
 Seite 11 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+Anforderungen P1 -1 0 und P1 -20  des Anforderungskataloges -Datei einzureichen. Es sind keine Screenshots notwendig. PRÜFFALL -VEREINBA RUNG ZERVIX -ZYTOLOGI Präparate: Frau aus dem Zeitraum 01.01 31.12 des Berichtjahres) n bis 30.06 des Folgejahres histologisch geklärt:
 
 ---
 
-| 16 CIN II |
-|---|
-| 9 |
-| 33 | 33 | 16 | 34 |
-| 6 |
-| 38 | 5 |
-| 4 7 |
-| 6 | 9 | 4 | 3 | 1 | 7 | 8 |
+| 16 CIN II | | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 9 | | | | | | | | | | | | | | | | | | | |
+| 33 | 33 | 16 | 34 | | | | | | | | | | | | | | | | |
+| 6 | | | | | | | | | | | | | | | | | | | |
+| 38 | 5 | | | | | | | | | | | | | | | | | | |
+| 4 7 | | | | | | | | | | | | | | | | | | | |
+| 6 | 9 | 4 | 3 | 1 | 7 | 8 | | | | | | | | | | | | | |
 | 2 | CIN III, plattenepithales Ca in situ | 3 |  |  | 56 |  |  | 7 |  |  | 0 |  |  | 9 |  |  | 87 |  |  |
 | 19 |  |  | 5 |  |  | 5 |  |  | 8 |  |  | 58 |  |  | 8 |  |  | 17 |  |
 |  | 9 |  |  | 9 |  |  | 6 |  |  | 11 |  |  | 4 |  |  | 14 |  |  | Adenocarcinoma in situ |
-| 4 |
+| 4 | | | | | | | | | | | | | | | | | | | |
 |  |  | 2 |  |  | 25 |  |  | 24 |  |  | 2 |  |  | 0 |  |  | 2 |  |  |
-| ANLAGE 2 QS-VEREINBA |
+| ANLAGE 2 QS-VEREINBA | | | | | | | | | | | | | | | | | | | |
 | CIN I | 21 | 12 | 14 | 12 | 35 | 21 | 29 | 41 | 12 | 23 | 11 | 14 | 11 | 24 | 1 | 0 | 2 | 3 | 16 |
 | CIN II | 12 | 9 | 33 | 33 | 16 | 34 | 6 | 38 | 5 | 4 | 7 | 6 | 9 | 4 | 3 | 1 | 7 | 8 | 2 |
 | CIN III, plattenepithales Ca in situ | 3 | 56 | 7 | 0 | 9 | 87 | 19 | 5 | 5 | 8 | 58 | 8 | 17 | 9 | 9 | 6 | 11 | 4 | 14 |
@@ -282,16 +320,17 @@ Seite 11 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Aug
 | Plattenepithalkarzinom der Cervix uteri | 9 | 6 | 12 | 16 | 7 | 27 | 19 | 13 | 9 | 0 | 0 | 13 | 4 | 7 | 13 | 1 | 17 | 6 | 0 |
 | Adenokarzinom der  Cervix uteri | 11 | 0 | 8 | 0 | 12 | 12 | 6 | 11 | 0 | 0 | 6 | 2 | 1 | 6 | 2 | 4 | 3 | 2 | 5 |
 | Endometriumkarzinom und andere Malignome | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 5 | 8 | 2 | 9 | 4 | 1 | 0 | 2 | 1 | 6 | 0 | 2 |
-| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): |
-| Hoher Anteil kurativer Fälle |
-| Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix uteri und die Anzahl Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer F Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahre Zeile 5: Wenn |
+| 5 Praxisbesonderheit (z. B. hoher Anteil kurativer Abstriche): | | | | | | | | | | | | | | | | | | | |
+| Hoher Anteil kurativer Fälle | | | | | | | | | | | | | | | | | | | |
+| Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix uteri und die Anzahl Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer Frau aus diesem Zeitraum vor, Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
 Seite 12 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+RUNG ZERVIX-ZYTOLOGIE der dabei untersuchten Frauen entscheidet der zytol ogische Arzt, welcher Befund aus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist (immer die höchste Gruppe). durch zytologische Kontrollen weiter untersucht wurden (z.B. bei Gruppe III und IIID) und bei denen keine histologische Abklä rungsdiagnostik bis zum 30.06 des Folgejahres erfolgte, sind unter Zeile 4ff nicht aufzuführen). erforderlich
 
 ---
 
-**2.3****PRÜFFALL****3**
+**2.3 PRÜFFALL 3**
 
 |  |  |
 |---|---|
@@ -306,62 +345,62 @@ Seite 12 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. Aug
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es liegt ein Ausgangsbefund des Jahres 2015 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich KBV_ITA_VGEX ) |
+| Es liegt ein Ausgangsbefund des Jahres 2015 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich Zytologie). |
 | Szenario 2 |
-| Es liegt ein Ausgangsbefund des Jahres 2014 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich KBV_ITA_VGE ). |
+| Es liegt ein Ausgangsbefund des Jahres 2014 einer beliebigen Patientin vor. Das Berichtsjahr erstreckt sich KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix-Zytologie). |
 | Szenario 3 |
-| Es liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Patientin vor. Zeigen Sie KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix ). |
+| Es liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Patientin vor. Zeigen Sie - |
 | Szenario 4 |
-| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix ) |
+| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung - |
 
 Seite 13 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
 
+ng von Teilen des Anforderungskataloges QS Zervix-Zytologie. die das geforderte Systemverhalten aufzeigen, einzureichen. auf den Zeitraum 01.01.2015 - 31.12.2015. Es erfolgt eine histologische Abklärung bis zum 31.05.2016. Zeigen Sie mittels Hardcopies auf, dass eine Übernahme des Ausgangsbefundes für das Berichtsjahr möglich ist. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-20 des Anforderungskataloges QS Zervix- Zytologie (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix- auf den Zeitraum 01.01.2015 - 31.12.2015. Zeigen Sie mittels Hardcopies auf, dass eine Aus wahl des Ausgangsbefundes für das Berichtsjahr nicht möglich ist. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-20 des Anforderungskataloges QS Zervix-Zytologie (siehe mittels Hardcopies auf, dass eine Auswahl eines Befundes durch den zytologisch verantwortlichen Arzt getroffen werden kann. Dieser Prüffall dient zur Kontrolle der korrekten Umsetzung der Anforderung P1-30 des Anforderungskataloges QS Zervix-Zytologie (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix bezüglich der Datenträgerbeschriftung und druckt einen Transport-begleitzettel aus. Hier soll die Umsetzung der Anforderungen P2-25 und P2-26 (siehe KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix Zytologie) nachgewiesen werden.
 
 ---
 
-3T
+| 3 |  |  | TESTDATENVALIDIERUNG | | |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alle | in | Kapitel | 2 beschriebenen | | Prüffälle, bei | welchen | eine |  | XML-Dokumentation | das | Ergebnis | ist, können |
+| auch | in der |  | Testdatenvalidierung | des |  | Zertifizierungsportals | | genutzt | werden. |  |  |  |
+| Die |  | übermittelten | Testdaten | werden | auf | Vollständigkeit | und | Korrektheit | | automatisiert | | geprüft. Eine |
+|  | manuelle | Prüfung | der | eingereichten | Unterlagen | durch das | Referat | | Zertifizierung | findet | nicht | statt, |
+|  | demzufolge | ist | der Ordner | „Dokumentation | “ im | Gegensatz | | zur | Zertifizierung | nicht | Gegenstand | der |
+|  |  | Testdatenvalidierung. | Nach | dem das | Thema | ausgewählt | wurde, | kann | das | ZIP-Archiv | mit den | Prüfunterlagen |
+|  | hochgeladen |  | werden. An | die angegebene | E | -Mail-Adresse | | werden | die | Testergebnisse |  | gesendet. |
+|  | Abbildung 2: |  | Testdatenvalidierung |  |  |  |  |  |  |  |  |  |
+| Bitte |  | beachten | Sie die | folgende | Verzeichnisstruktur | | des | ZIP-Archives. |  |  |  |  |
+|  | Abbildung 3: |  | Exemplarische | Verzeichnisstruktur | für die |  | Testdatenvalidierung | |  |  |  |  |
+| Seite | 14 von | 15 / KBV | / Pruefpaket | QS-Zervix-Zytologie | / Version: | 2.10 | / 12. | August 2021 |  |  |  |  |
 
-## ESTDATENVALIDIERUNG
-
-Alle inKapitel 2beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, könnenauch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft.Einemanuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand derTestdatenvalidierung. Nach dem das Thema ausgewählt wurde, kanndasZIP-Archivmit den Prüfunterlagenhochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
-
-Abbildung2: Testdatenvalidierung
-
-Bitte beachten Sie die folgende Verzeichnisstruktur desZIP-Archives.
-
-Abbildung3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
-Seite 14 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
-
-
----
-
-
-
-
-
-
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation “ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen hochgeladen werden. An die angegebene E -Mail-Adresse werden die Testergebnisse gesendet. Abbildung 2: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 14 von 15  /  KBV  /  Pruefpaket QS-Zervix-Zytologie  /  Version: 2.10  /  12. August 2021
 
 ---
 
 4
 
-## REFER
-
-## ENZIERTE DOKUMENTE
+## REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
 | Referenz | Dokument |
 | KBV_ITA_FMEX_AAZ_QSZZ | Antrag auf Zertifizierung QSZZ |
 | [KBV_ITA_RLEX_Zert ] | Zertifizierungsrichtlinie der KBV |
-| [KBV_ITA_VGEX_Schnittstelle_QSZervixZyto ] | Schnittstellenbeschreibung QS |
+| [KBV_ITA_VGEX_Schnittstelle_QSZervixZyto ] | Schnittstellenbeschreibung QS Zervix-Zytologie |
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Schnittstellenbeschreibung eDoku Header |
-| [KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix - | Anforderungskatalog QS Zervix |
+| [KBV_ITA_VGEX_Anforderungskatalog_QS_Zervix - | Anforderungskatalog QS Zervix-Zytologie |
 | Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
-| Austausch_von_XML | KBV_ITA_VGEX_XML |
-| KBV | KBV |
+| Austausch_von_XML-Daten_V(n.nn ).ZIP | KBV_ITA_VGEX_XML |
+| KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel | KBV-Kryptomodul |
 
-**Ansprechpartner****:**Dezernat Digitalisierung und ITIT in der ArztpraxisTel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)Kassenärztliche BundesvereinigungHerbert-Lewin-Platz 2, 10623 Berlin[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de),www.kbv.de
+**Ansprechpartner:**
 
-Seite 15 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2  .10 / 12. August 2021
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 15 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
+
+Zytologie] -Schnittstellen  - Austausch von XML Daten in der Vertragsärztlichen Versorgung

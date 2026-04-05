@@ -1,14 +1,4 @@
-| Versicherten-Nr. |
-|---|
-| Arzt-Nr. Folge- verordnung Klinischer Status seit |
-| Beatmungsform |
-| invasiv |
-|
-| Tracheostoma, seit |
-| Trachealkanüle |
-| geblockt |
-|
-|
+### I.  Klinischer Status
 
 ### III.Weitere Hinweise
 
@@ -20,51 +10,38 @@
 
 Verordnungsrelevante Diagnose(n) (ICD-10-Code)
 
+Erst-  verordnung Folge-  verordnung Unfall
+
 bisvom
 
 Name, Vorname des Versicherten
 
 geb. am
 
+Kostenträgerkennung Versicherten-Nr. Status
+
+Betriebsstätten-Nr. Arzt-Nr. Datum
+
 Krankenkasse bzw. Kostenträger
 
 ## 62B
 
+Voraussichtliches Entlassdatum  ***(nur durch Krankenhaus anzugeben)***
+
+Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10  Abs. 4 Satz 1 AKI-Richtlinie (fakultativ I bis III)
+
 **Bewusstseinsstörung, Art**
 
-uneingeschränkt
-
-eingeschränkt
-
-nicht möglich
-
-uneingeschränkt
-
-eingeschränkt
-
-nicht möglich
-
-Ort
-
-Zeit
-
-Person
-
-Situation nicht vor handen
-
-uneingeschränkt bis an die Bettkante in den Rollstuhl
-
-stehfähig, gehfähig
-
-immobil
-
-Nackengriff
-
-Schürzengriff
-
-Faustschluss
-
-Pinzettengriff
+|  | Kommunikation | Orientierung |  |
+|---|---|---|---|
+| Mitwirkung bei AKI |  |  | Mobilität vorhanden |
+|  | Verständigung | vorhanden, zu |  |
+| uneingeschränkt | uneingeschränkt |  | uneingeschränkt Nackengriff |
+|  |  |  | bis an die Bettkante |
+| eingeschränkt | eingeschränkt |  | Schürzengriff |
+|  |  |  | in den Rollstuhl |
+| nicht möglich | nicht möglich |  | stehfähig, gehfähig Faustschluss |
+|  |  |  | immobil Pinzettengriff |
 
 nein
 
@@ -72,24 +49,52 @@ ja
 
 teilweise
 
-Mitwirkung bei AKIKommunikation Verständigung Orientierung vorhanden, zuMobilität vorhandenOrale Ernährung
+Orale  Ernährung
 
 Sonstige Hinweise (z.B. zu Kommunikation, Mitwirkung, Mobilität, Ernährung)
 
-Konsilpartner bei nicht beatmungspflichtigen oder nicht trachealkanülierten Versicherten, wenn die Verordnung durch eine nicht auf die Erkrankung spezialisierte Fachärztin oder Facharzt erfolgt
+Konsilpartner bei nicht beatmungspflichtigen oder nicht trachealkanülierten Versicherten,  wenn die Verordnung durch eine nicht auf die Erkrankung spezialisierte Fachärztin oder  Facharzt erfolgt
 
 Weitere Erläuterungen
 
-Erhebungen nach Muster 62A zum Zwecke der Therapieoptimierung und zur Verbesserung der Lebensqualität
+Erhebungen nach Muster 62A zum Zwecke der Therapieoptimierung und zur Verbesserung  der Lebensqualität
 
-Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest- gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
+Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest- gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs-  bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
 
-sind weiterhin angezeigt sind nicht mehr angezeigt werden durch den Patienten nicht mehr gewünscht
+| Beatmungsform | Beatmungsdauer |
+|---|---|
+|  | Stunden |
+| invasiv |  |
+|  | pro Tag |
+| nicht | Stunden |
+| invasiv, Maskentyp | pro Nacht |
+
+**Tracheostoma, seit**
+
+**Endotracheale Absaugpflicht** durchschnittliche tgl.  Absaugfrequenz
+
+**Beatmung, seit**
+
+geblocktungeblocktSprechventil
+
+zu regelmäßigen  Zeiten zu unregelmäßigen  Zeiten
+
+**Sonstige vitale Funktionseinschränkungen, Art und Häufigkeit**
+
+Entblockungszeiten
+
+Stunden  pro Tag
+
+Stunden  pro Nacht
+
+Spontanatmungszeit
+
+Trachealkanüle
+
+sind weiterhin  angezeigt sind nicht mehr  angezeigt werden durch den Patienten  nicht mehr gewünscht
 
 Stunden je Tag
 
-Vertragsarztstempel/Unterschrift des verordnenden Arztes
+Vertragsarztstempel/Unterschrift  des verordnenden Arztes
 
-**Ausfertigung für die Krankenkasse (rückseitig der Antrag des Versicherten)** PRF.NR. Muster 62Ba.1/E (1.2023)Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.
-
--
+Ort Zeit Person Situation nicht vor**Ausfertigung für die Krankenkasse (rückseitig der Antrag des Versicherten)** PRF.NR.  Muster 62Ba.1/E (1.2023) Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.

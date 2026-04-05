@@ -1,5 +1,5 @@
-| Sammelerklärung 3. Quartal 2015 \| Krankenhäuser |
-|---|
+| Sammelerklärung 3. Quartal 2015 \| Krankenhäuser | |
+|---|---|
 | Städtisches Krankenhaus Leverkusen Dr. med.  Hans  Krankenhausarzt Facharzt f. Innere Medizin -Angiologie- Willy-Brandt-Ring  25 51371  Leverkusen | BSNR: 274433300 Fallzahl: 641 |
 
 | Ich versichere: |
@@ -38,19 +38,14 @@
 | 1\|2 2. Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen erbracht. |
 |---|
 
-
----
-
-
-
-
+Sammelerklärung 3. Quartal 2015 | Krankenhäuser 1|2
 
 ---
 
 Formularversion 23.06.2022
 
-| Mir ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, |
-|---|
+| Mir ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, | |
+|---|---|
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
@@ -64,12 +59,4 @@ Formularversion 23.06.2022
 | 2\|2 |
 |---|
 
-
----
-
-
-
-
-
-
-
+2|2

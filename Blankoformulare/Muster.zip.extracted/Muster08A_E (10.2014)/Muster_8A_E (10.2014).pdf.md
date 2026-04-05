@@ -1,68 +1,103 @@
-**Versicherten-Nr.**  **Arzt-Nr.**  **Bestkorrigierter**  **Fernvisus links**  **Brille**  **Kontaktlinsen**  **Euro**  **Ersatz**  **Zylinder**  **Achse**  **Prisma**  **Basis**  **Hilfsmittelpositionsnummer**  **L** **Kostenträgerkennung**
-
-**Betriebsstätten-Nr.**
-
-**Status**
-
-**Datum****Belegnummer**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
-
-**Menge und Art der Verordnung:**
-
 **8A**
+
+| Unterschrift | des Versicherten |
+|---|---|
+| Erstversorgung | oder Verlust der |
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 
-**dass meine bisherige Sehhilfe verlorengegangen ist**
+**dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
 
-**Ich erkläre,****Datum**
+**Ich erkläre,Erklärung des VersichertenDatum**
 
-**Verordnung von** **vergrößernden Sehhilfen**
+**RechnungsnummerIK des Leistungserbringersvergrößernden SehhilfenVerordnung von**
 
-**geb. am**
+**geb. am** **Status**
 
-**Krankenkasse bzw. Kostenträger****Name, Vorname des Versicherten**
+**Versicherten-Nr.**
 
-| Sehhilfe | | |
-|---|---|---|
-|  | Entscheidung Die noch | |
+**Krankenkasse bzw. KostenträgerKostenträgerkennungName, Vorname des Versicherten**
 
-**Rechnungsnummer**
+**Entscheidung der Krankenkasse**
+
+**Belegnummer**
+
+**Datum**
+
+**Arzt-Nr.**
+
+**Betriebsstätten-Nr.**
 
 **Stempel der Krankenkasse und Unterschrift**
 
-**vergrößernde Sehhilfen**
+**Euro**
 
-**Empfangsbestätigung****Unterschrift des Versicherten****Datum**
+**in Höhe des geltenden Festbetragesin Höhe von**
 
-**Reparatur**
+**Die Kosten werden übernommenDatum**
 
-| Versicherten | | | | des |  | Leistungserbringers |
-|---|---|---|---|---|---|---|
+**Folge-**
 
-**Erklärung des Versicherten**
+**versorgungleiden (BVG)fachVersorgungs-**
 
-|  | ° |  |  |  | | | | |
-|---|---|---|---|---|---|---|---|---|
-|  | ° | ° |  |  | | | | |
-|  | ° |  |  |  | | | | |
-| Sphäre | |  |  |  | | | | |
-|  | R |  | L |  | | | | |
-|  | F L |  | N |  | | | | |
+**Ersatz**
 
-**Sehbehinderung****Bestkorrigierter****mit****Fernvisus rechts****Diagnose/Begründung:****Befund:****mindestens WHO 1** **IK des Leistungserbringers**
+**Erst-** **Unfall, bedarf** **Reparatur** **versorgungUnfallfolgen**
+
+**Vergrößerungs-**
+
+**Kontaktlinsen**
+
+**Brille**  **mit**
+
+**BestkorrigierterFernvisus links**
+
+**Sehbehinderung** **Bestkorrigierter** **Fernvisus rechts Menge und Art der Verordnung:Befund: mindestens WHO 1**
+
+| und Unterschrift | Unterschrift des | Empfängers (Vor- |
+|---|---|---|
+|  | vergrößernde Sehhilfen |  |
+|  | Empfangsbestätigung |  |
+|  | Datum |  |
+
+**Diagnose/Begründung:**
 
 **Stempel und Unterschrift des Leistungserbringers**
 
-**Die vergrößernde Sehhilfe wurde gemäß** **Bescheinigung des Leistungserbringers****vorstehender Empfangsbestätigung****Sehhilfe der Verordnung entspricht.****Datum****Unterschrift des Empfängers (Vor- und Zuname)****Zur Beachtung für den Versicherten****Diese Verordnung ist kein Gutschein für einen bestimmten Betrag.** **abgegeben und angepasst.****Die Lieferung anderer Ware anstelle der verordneten vergrößernden Sehhilfen i** **Ich versichere, dass die gelieferte vergrößernde**
-
-**versorgung****versorgung** **R**
-
-**PRF.NR.** **Muster 8A/E (10.2014)**
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**vorstehender Empfangsbestätigungabgegeben und angepasst.Ich versichere, dass die gelieferte vergrößerndeSehhilfe der Verordnung entspricht.**
 
 **Betrag Euro**
 
-**st nicht gestattet.**
+**Kostenrechnung des Leistungserbringers10-stellige** **Hilfsmittelpositionsnummer**
+
+**abstandScheitel-**
+
+**Basis**
+
+**Prisma**  **° ° ° °**
+
+**Achse**
+
+**Zylinder**
+
+**Sphäre** **L LR R** **F N**
+
+**Datum**
+
+**L**  **R**
+
+**nicht gestattet.** **st**
+
+**Muster 8A/E (10.2014)PRF.NR.**
+
+**mmten Betrag.**
+
+**sbaren Daten.**
+
+**anstelle der verordneten vergrößernden Sehhilfen i**
+
+**Lieferung anderer Ware** **Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
+
+**Rechnungsbetrag**
+
+Unterschrift des Empfängers (Vor- und Zuname) Bescheinigung des Leistungserbringers Die vergrößernde Sehhilfe wurde gemäß Unterschrift des Versicherten**Vertragsarztstempel / Unterschrift des Arztes**

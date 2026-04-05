@@ -6,85 +6,55 @@
 
 Kassenärztliche Bundesvereinigung
 
-Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2
+Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
-Berlin, 2024       Version:3.2.19 Datum:30.05.2024 Status:In Kraft ab 01.07.2025
+Berlin, 2024        Version: 3.2.19  Datum: 30.05.2024  Status: In Kraft ab 01.07.2025
 
-LDT 3 Use Cases, Version 3.2.19Seite 1 von 66
-
-
----
-
-
-
+LDT 3 Use Cases, Version 3.2.19 Seite 1 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-**D**
+### D O K U M E N
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 3.2.19 | 30.05.2025 | KBV | Änderungen LDT 3.2.19 eingearbeitet | Aktualisierung | Alle |
+|  |  |  | Änderungen LDT 3.2.19 |  |  |
+| 3.2.19 | 30.05.2025 | KBV |  | Aktualisierung | Alle |
+|  |  |  | eingearbeitet |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**O****K**
+T E N H I S T O
+
+R I E
 
 Seite 2 von 66
 
-**U****M****E****N****T****E****N****H****I****S****T****O****R****I****E**
-
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
-
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### Inhaltsverzeichnis
-
-**1.****USE CASE 1 – LABORAUFTRAG KAPITEL 32.2/32.3**
-
-**2.****USE CASE 2 – LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL**
-
-**3.****USE CASE 3 – LABORAUFTRAG FÜR PRIVATPATIENT**
-
-**4.****USE CASE 4 – LABORAUFTRAG IM RAHMEN DER ASV**
-
-**5.****USE CASE 5 – BEFUND ZU USE CASE 1**
-
-**6.****USE CASE 6 – BEFUND MIT ANTIBIOGRAMM**
-
-**7.****USE CASE 7 – ÜBERGABE “STAMMDATEN”**
-
-**8.****USE CASE 8 – BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL**
-
-**9.****USE CASE 9 – BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT**
-
-**10. USE CASE 12 – STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN**
-
-**11. USE CASE 13 – LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND**
-
-**12. USE CASE 14 – BEFUND MOLEKULARGENETIK**
-
-**13. USE CASE 15 – BEFUND (KONVENTIONELLE UND SI-EINHEITEN)**
-
-**14. USE CASE 16 – DARSTELLUNG DES INHALTES OBJ_0068**
-
-**15. USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM**
+|  | Inhaltsverzeichnis | |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 1. USE | CASE | 1 – | LABORAUFTRAG | | KAPITEL | 32.2/32.3 | |  |
+| 2. USE | CASE | 2 – | LABORAUFTRAG | | KAPITEL | 32.2/32.3 | UND | IGEL |
+| 3. USE | CASE | 3 – |  | LABORAUFTRAG | FÜR | PRIVATPATIENT | |  |
+| 4. USE | CASE | 4 – |  | LABORAUFTRAG | IM | RAHMEN | DER ASV |  |
+| 5. USE | CASE | 5 – | BEFUND | ZU USE | CASE 1 |  |  |  |
+| 6. USE | CASE | 6 – | BEFUND | MIT | ANTIBIOGRAMM | |  |  |
+| 7. USE | CASE | 7 – | ÜBERGABE |  | “STAMMDATEN” | |  |  |
+| 8. USE | CASE | 8 – | BEFUND | ZU | LABORAUFTRAG |  | KAPITEL | 32.2/32.3/IGEL |
+| 9. USE | CASE | 9 – | BEFUND | ZU | LABORAUFTRAG | | FÜR | PRIVATPATIENT |
+| 10. | USE CASE | 12 | – | STORNIERUNG |  |  | UNTERSUCHUNGSANFORDERUNGEN | |
+| 11. | USE CASE | 13 | – | LABORAUFTRAG | MIT |  | ÜBERMITTLUNG | VORBEFUND |
+| 12. | USE CASE | 14 | – BEFUND |  | MOLEKULARGENETIK | |  |  |
+| 13. | USE CASE | 15 – | BEFUND |  | (KONVENTIONELLE | UND |  | SI-EINHEITEN) |
+| 14. | USE CASE | 16 – |  | DARSTELLUNG | DES | INHALTES | OBJ_0068 | |
+| 15. | USE CASE | 17 | – BEFUND |  |  | KREBSFRÜHERKENNUNG | | ZERVIX-KARZINOM |
 
 LDT 3 Use Cases, Version 3.2.19
 
@@ -118,245 +88,138 @@ Seite 3 von 66
 
 **63**
 
-**65**
+USE CASE 1 – LABORAUFTRAG KAPITEL 32.2/32.3 USE CASE 2 – LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL USE CASE 3 – LABORAUFTRAG FÜR PRIVATPATIENT USE CASE 4 – LABORAUFTRAG IM RAHMEN DER ASV USE CASE 5 – BEFUND ZU USE CASE 1 USE CASE 6 – BEFUND MIT ANTIBIOGRAMM USE CASE 7 – ÜBERGABE “STAMMDATEN” USE CASE 8 – BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL USE CASE 9 – BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT 10. USE CASE 12 – STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN 11. USE CASE 13 – LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND 12. USE CASE 14 – BEFUND MOLEKULARGENETIK 13. USE CASE 15 – BEFUND (KONVENTIONELLE UND SI-EINHEITEN) 14. USE CASE 16 – DARSTELLUNG DES INHALTES OBJ_0068 15. USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM **65**
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 1. Use Case
-
-**1.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-ID: Labor27/12
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-Größe: 185 cm gemessen am JJJJMMTT um HHmm
-
-Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm
-
-**DIAGNOSE:**
-
-(für Abrechnung Laborfacharzt) C00.1 G
-
-(für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm entnommen
+| 1. | Use | Case | 1 – |  | Laborauftrag | Kapitel | | 32.2/32.3 |  |
+|---|---|---|---|---|---|---|---|---|---|
+| 1.1. |  | Beschreibung | |  |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |
+|  | Praxis | Dr. | Musterarzt | BSNR |  | 123456789 | (Arztpraxis, | | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus |  | Musterarzt | LANR | 991234567 |  |  |
+| ID: |  | Arzt123456, | | Kundennummer | | 4711 |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |
+|  | Vorderhaus |  | links |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | angegeben |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |
+| ID: |  | Labor27/12 |  |  |  |  |  |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient |  | (Patienten-ID | im | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |
+|  | Siegburger | | Straße | 425 b |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |
+|  | Geschlecht: | | männlich |  |  |  |  |  |  |
+|  | Geb.-Datum: | | 05.12.1960 | |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 |  |  |  |  |  |  |
+|  | Kasse: |  | Musterkasse |  |  |  |  |  |  |
+|  | VKNR: | 78945 |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | |  | 123456789 |  |  |  |  |
+|  | Größe: | 185 | cm | gemessen | am | JJJJMMTT | um | HHmm |  |
+|  | Gewicht: | 98,6 | kg | gemessen | am | JJJJMMTT | um | HHmm |  |
+|  | DIAGNOSE: | |  |  |  |  |  |  |  |
+| (für |  | Abrechnung |  | Laborfacharzt) |  | C00.1 G |  |  |  |
+| (für |  | Abrechnung |  | Laborgemeinschaft | | – | Muster | 10A) C00.2 | V |
+|  | MATERIAL: | |  |  |  |  |  |  |  |
+|  | Probengefäß | | mit | Nummer | 1234567802 |  | enthält | Serum | (gefroren) |
+|  | Probengefäß | | mit | Nummer | 1234567803 | enthält |  | Citrat-Blut |  |
+|  | Patient | hat | während | der | Probenentnahme | |  | Arzneimittel | XYZ verabreicht |
+|  | Material |  | wurde am | JJJJMMTT | | um HHmm |  | entnommen |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**1**
-
-### –
-
-### Laborauftrag Kapitel 32.2/32.3
-
-Seite 4 von 66
+1. Use Case 1 – Laborauftrag Kapitel 32.2/32.3 Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben ID: Labor27/12 Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Größe: 185 cm gemessen am JJJJMMTT um HHmm Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm (für Abrechnung Laborfacharzt) C00.1 G (für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm entnommen Seite 4 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+|  |  |  | UNTERSUCHUNGSANFORDERUNG: | | |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Eilige |  | Untersuchung |  | Hepatitis-B-Antigen | | aus | Serum |  | (Probengefäß |
+|  | Laborfacharzt |  |  |  |  |  |  |  |  |
+|  | Untersuchung | Quick | aus | Citrat-Blut |  | (Probengefäß | | 1234567803) | durch |
+| schaft |  | (digitales | Muster 10A | in | Obj_0010 |  | eingefügt) |  |  |
+|  |  | ABRECHNUNGSINFORMATION: | | |  |  |  |  |  |
+| Auftrag | für | Laborfacharzt, | | kurativ |  |  |  |  |  |
+|  | Anforderung | für | Laborgemeinschaft, | | kurativ | |  |  |  |
+|  |  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |  |
+| Patient | war | in Afrika |  |  |  |  |  |  |  |
+|  | BEISPIELDATEI | |  |  |  |  |  |  |  |
+|  |  |  | Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt | | | | |  |  |
 
+LDT 3 Use Cases, Version 3.2.19
 
-
----
-
-**IT in der Arztpraxis** LDT 3  **UNTERSUCHUNGSANFORDERUNG:**
-
-Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Laborfacharzt
-
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt)
-
-**ABRECHNUNGSINFORMATION:**
-
-Auftrag für Laborfacharzt, kurativ
-
-Anforderung für Laborgemeinschaft, kurativ
-
-**ZUSATZINFORMATIONEN:**
-
-Patient war in Afrika
-
-**BEISPIELDATEI**
-
-Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 5 von 66
+Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt) Auftrag für Laborfacharzt, kurativ Anforderung für Laborgemeinschaft, kurativ Patient war in Afrika Seite 5 von 66
 
 
 ---
 
+| IT in der | Arztpraxis |  |  |  |
+|---|---|---|---|---|
+| LDT 3 |  |  |  |  |
+| LDT 3 Use | Cases, Version | 3.2.19 | Seite 6 | von 66 |
 
-
-
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19 Seite 6 von 66
 
 ---
 
-| IT |  | in | der |  | Arztpraxis |  |  |  |  |  |
+**IT in der Arztpraxis**  LDT 3
+
+| 2. | Use | Case | 2 – | Laborauftrag | | Kapitel | | 32.2/32.3 | und | IGeL |
 |---|---|---|---|---|---|---|---|---|---|---|
-|  | LDT | 3 |  |  |  |  |  |  |  |  |
-| LDT |  | 3 | Use | Cases, | Version | 3.2.19 | Seite | 6 | von | 66 |
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 2. Use Case 2
-
-**2.1.**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-ID: Labor27/12
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-Größe: 185 cm gemessen am JJJJMMTT um HHmm
-
-Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm
-
-Rechnungsanschrift für IGeL:
-
-Dr. med. Graf Karl von Musterpatient, Postfach 1234, 23456 Musterstadt
-
-**DIAGNOSE:**
-
-(für Abrechnung Laborfacharzt) C001.1 G
-
-(für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm abgenommen
+| 2.1. |  | Beschreibung | | Use Case | 2 |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |  |
+|  | Praxis | Dr. | Musterarzt | BSNR | 123456789 |  | (Arztpraxis, |  |  | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus | Musterarzt | | LANR | 991234567 |  |  |  |
+| ID: |  | Arzt123456, | | Kundennummer | 4711 |  |  |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |  |
+|  | Vorderhaus |  | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen |  |  |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im Datensatz | | angegeben |  |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |  |
+| ID: |  | Labor27/12 |  |  |  |  |  |  |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient |  | (Patienten-ID | im |  | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |  |
+|  | Siegburger | | Straße | 425 b |  |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |  |
+|  | Geschlecht: | | männlich |  |  |  |  |  |  |  |
+|  | Geb.-Datum: | | 05.12.1960 | |  |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 |  |  |  |  |  |  |  |
+|  | Kasse: |  | Musterkasse |  |  |  |  |  |  |  |
+|  | VKNR: | 78945 |  |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | |  | 123456789 |  |  |  |  |  |
+|  | Größe: | 185 | cm | gemessen | am | JJJJMMTT | um | HHmm |  |  |
+|  | Gewicht: | 98,6 | kg | gemessen | am | JJJJMMTT | um | HHmm |  |  |
+|  |  | Rechnungsanschrift | | für IGeL: |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient, | | Postfach | 1234, | 23456 | Musterstadt |
+|  | DIAGNOSE: | |  |  |  |  |  |  |  |  |
+| (für |  | Abrechnung |  | Laborfacharzt) |  | C001.1 G |  |  |  |  |
+| (für |  | Abrechnung |  | Laborgemeinschaft | | – | Muster 10A) | C00.2 | V |  |
+|  | MATERIAL: | |  |  |  |  |  |  |  |  |
+|  | Probengefäß | | mit | Nummer | 1234567802 | enthält | Serum |  | (gefroren) |  |
+|  | Probengefäß | | mit | Nummer | 1234567803 | enthält |  | Citrat-Blut |  |  |
+|  | Patient | hat | während | der | Probenentnahme | | Arzneimittel | | XYZ | verabreicht |
+|  | Material |  | wurde am | JJJJMMTT | um | HHmm |  | abgenommen |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**Beschreibung Use Case 2**
-
-### –
-
-### Laborauftrag
-
-### Kapitel 32.2/32.3
-
-Seite 7 von 66
-
-### und IGeL
+2. Use Case 2 – Laborauftrag Kapitel 32.2/32.3 und IGeL Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben ID: Labor27/12 Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Größe: 185 cm gemessen am JJJJMMTT um HHmm Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm Rechnungsanschrift für IGeL: Dr. med. Graf Karl von Musterpatient, Postfach 1234, 23456 Musterstadt (für Abrechnung Laborfacharzt) C001.1 G (für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm abgenommen Beschreibung Use Case 2 Seite 7 von 66
 
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### UNTERSUCHUNGSANFORDERUNG:
 
-Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Laborfacharzt
+Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch  Laborfacharzt
 
 Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
 
@@ -378,233 +241,146 @@ Patient war in Afrika
 
 ### Muster LDT mit Beschreibung der Feldkennungen
 
-**Feldlänge****FK****Feldinhalt** 01380008230 0188132Kopfdaten 0178002Obj_0032 0170001LDT3.2.19 0258151Sendendes_System 0178002Obj_0051 0198315Labor27/12 0198316Arzt123456 0250105a/nn/JJMM/MM/aaa 0190103Muster PVS 01801328.12.0.95 0178003Obj_0051 Timestamp_Erstellung _Daten- 0398218 satz 0178002Obj_0054 0177278JJJJMMTT 0187279HHmmss(ms) 0147273UTC+1 0298235Person_zum_Timestamp 0178002Obj_0047 011742002 0193101Musterarzt 0143102Klaus 0173104Dr. med. 0178003Obj_0047 0178003Obj_0054 0178003Obj_0032 01072651 0328122Einsenderidentifikation 0178002Obj_0022 010732101 01383124711
-
-LDT 3 Use Cases, Version 3.2.19Seite 8 von 66
-
-**Beschreibung** Satzart Objektattribut ObjektIdent Version der Datensatzbeschreibung Objektattribut ObjektIdent ID des Empfängers ID des Senders KBV-Prüfnummer Software/Name der Software Version/Releasestand der Software Objektende
-
-Objektattribut
-
-ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Objektende Objektende Objektende Absender des Datensatzes Objektattribut ObjektIdent Status Einsender Kunden-(Arzt)Nummer
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0278114ArztidentifikationObjektattribut 0178002Obj_0014ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742002Status der Person 0193101MusterarztNachname 0143102KlausVorname 0173104Dr. med.Titel 0128990KMuNamenskürzel / Namenszeichen Geschaeftliche _Kommunikati- 0438233Objektattribut onsdaten 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0047Objektende 0180212991234567Lebenslange Arztnummer (LANR) 0178003Obj_0014Objektende 0248119BetriebsstaetteObjektattribut 0178002Obj_0019ObjektIdent 01002041Status der Betriebsstätte 01002045Status der Betriebsstätte 0300203Praxis Dr. Musterarzt(N)BSNR-Bezeichnung Betriebs- (BSNR) oder 0180201123456789 Nebenbetriebsstättennummer (NBSNR) 0218143OrganisationObjektattribut 0178002Obj_0043ObjektIdent 0301250Praxis Dr. MusterarztOrganisation / Firma
-
-0328229Anschrift_ArbeitsstelleObjektattribut
-
-0178002Obj_0007ObjektIdent
-
-014311212345PLZ
-
-0213113MusterhausenOrt
-
-0253107MusterarztstraßeStraße
-
-011310926Hausnummer
-
-0253115Vorderhaus linksAnschriftenzusatz
-
-0103114DWohnsitzländercode
-
-0178003Obj_0007Objektende
-
-0288131KommunikationsdatenObjektattribut
-
-0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 0178003Obj_0022Objektende 01380018230Satzende 01380008215Satzart
-
-LDT 3 Use Cases, Version 3.2.19Seite 9von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**Feldlänge FK Feldinhalt**  013 8000 8230  018 8132 Kopfdaten  017 8002 Obj_0032  017 0001 LDT3.2.19  025 8151 Sendendes_System  017 8002 Obj_0051  019 8315 Labor27/12  019 8316 Arzt123456  025 0105 a/nn/JJMM/MM/aaa  019 0103 Muster PVS  018 0132 8.12.0.95  017 8003 Obj_0051  Timestamp_Erstellung _Daten- 039 8218  satz  017 8002 Obj_0054  017 7278 JJJJMMTT  018 7279 HHmmss(ms)  014 7273 UTC+1  029 8235 Person_zum_Timestamp  017 8002 Obj_0047  011 7420 02  019 3101 Musterarzt  014 3102 Klaus  017 3104 Dr. med.  017 8003 Obj_0047  017 8003 Obj_0054  017 8003 Obj_0032  010 7265 1  032 8122 Einsenderidentifikation  017 8002 Obj_0022  010 7321 01  013 8312 4711
 
 LDT 3 Use Cases, Version 3.2.19
 
-016 017 015 017 011 013 012 022 013 017 017 010 022 017 014 018 026 014 022 010 017 017 019 023 017 028 017
+Seite 8 von 66
 
-012
-
-011
-
-026
-
-017
-
-017
-
-018
-
-014
-
-017
-
-013
-
-011
-
-026 017 017 018 014 017 017 028 017 020 020 010 015 017 011 019
-
-8145 8002 8147 8002 7420 3100 3120 3101 3102 3103 3104 3110 8228 8002 3112 3113 3107 3109 3115 3114 8003 8003 3119 3000 8003 8169 8002
-
-3622
-
-8421
-
-8225
-
-8002
-
-7278
-
-7279
-
-7273
-
-8003
-
-3623
-
-8421
-
-8225 8002 7278 7279 7273 8003 8003 8113 8002 8310 8311 8611 8147 8002 7420 3101
-
-Patient Obj_0045 Person Obj_0047 12 Graf von Musterpatient Karl 19600512 Dr. med. M Wohnanschrift Obj_0007 23456 Musterort Siegburger Straße 425 b 3. Hinterhaus D Obj_0007 Obj_0047 S040464113 KAMUPA47112015 Obj_0045 Koerperkenngroessen Obj_0069
-
-185
-
-cm
-
-Timestamp_Messung
-
-Obj_0054
-
-JJJJMMTT
-
-HHmmss(ms)
-
-UTC+1
-
-Obj_0054
-
-98.6
-
-kg
-
-Timestamp_Messung Obj_0054 JJJJMMTT HHmmss(ms) UTC+1 Obj_0054 Obj_0069 Auftragsinformation Obj_0013 47112345678 47112345678 2 Person Obj_0047 10 Zusatzarzt
-
-Seite 10 von 66
-
-Objektattribut ObjektIdent Objektattribut ObjektIdent Status Person Namenszusatz Vorsatzwort Nachname Vorname Geburtsdatum Titel Geschlecht Objektattribut ObjektIdent PLZ Ort Straße Hausnummer Anschriftenzusatz Wohnsitzländercode Objektende Objektende Versicherten-ID Patientennummer Objektende Objektattribut ObjektIdent
-
-Größe der Person
-
-Einheit des Meßwertes
+**Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
 Objektattribut
 
-ObjektIdent
-
-Datum des Timestamp
-
-Uhrzeit des Timestamp
-
-Zeitzone
-
-Objektende
-
-Gewicht der Person
-
-Einheit des Meßwertes
-
-Objektattribut ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektende Objektende Objektattribut ObjektIdent Auftragsnummer des Einsenders ID Auftragsnummer des Labors zusätzlicher Befundweg Objektattribut ObjektIdent Status Person Nachname
+ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektattribut  ObjektIdent  Status der Person  Nachname  Vorname  Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattribut  ObjektIdent  Status Einsender  Kunden-(Arzt)Nummer
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3   027 8114 Arztidentifikation Objektattribut  017 8002 Obj_0014 ObjektIdent  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 02 Status der Person  019 3101 Musterarzt Nachname  014 3102 Klaus Vorname  017 3104 Dr. med. Titel  012 8990 KMu Namenskürzel / Namenszeichen  Geschaeftliche _Kommunikati- 043 8233 Objektattribut  onsdaten  017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  018 0212 991234567 Lebenslange Arztnummer (LANR)  017 8003 Obj_0014 Objektende  024 8119 Betriebsstaette Objektattribut  017 8002 Obj_0019 ObjektIdent  010 0204 1 Status der Betriebsstätte  010 0204 5 Status der Betriebsstätte  030 0203 Praxis Dr. Musterarzt (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder  018 0201 123456789  Nebenbetriebsstättennummer (NBSNR)  021 8143 Organisation Objektattribut  017 8002 Obj_0043 ObjektIdent  030 1250 Praxis Dr. Musterarzt Organisation / Firma
 
+032 8229 Anschrift_Arbeitsstelle Objektattribut 017 8002 Obj_0007 ObjektIdent
 
+014 3112 12345 PLZ
 
+021 3113 Musterhausen Ort
 
----
+025 3107 Musterarztstraße Straße 011 3109 26 Hausnummer
 
-**IT in der Arztpraxis** LDT 3  0153102ThomasVorname 0233104Prof. Dr. med.Titel Geschaeftliche _Kommunikati- 0428233Objektattribut onsdaten 0178002Obj_0031ObjektIdent 0307333+LK_Vorwahl_RufnummerFaxnummer 0178003Obj_0031Objektende 0178003Obj_0047Objektende Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0187279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0013Objektende 0278127VeranlassungsgrundObjektattribut 0178002Obj_0027ObjektIdent 01073031Abrechnungsinfo zur Untersuchung 0218200AkutdiagnoseObjektattribut 0178002Obj_0100ObjektIdent 0146001C00.1ICD Code 0106003GDiagnosesicherheit 0106004RLokalisation
+025 3115 Vorderhaus links Anschriftenzusatz 010 3114 D Wohnsitzländercode
 
-0178003Obj_0100Objektende
+017 8003 Obj_0007 Objektende
 
-01073032Abrechnungsinfo zur Untersuchung
+028 8131 Kommunikationsdaten Objektattribut
 
-0218200AkutdiagnoseObjektattribut
+017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0043 Objektende  017 8003 Obj_0019 Objektende  017 8003 Obj_0022 Objektende  013 8001 8230 Satzende  013 8000 8215 Satzart
 
-0178002Obj_0100ObjektIdent
-
-0146001C00.2ICD Code
-
-0106003VDiagnosesicherheit 0106004LLokalisation 0178003Obj_0100Objektende 0178003Obj_0027Objektende 0318101AbrechnungsinformationObjektattribut 0178002Obj_0001ObjektIdent 0238102Abrechnung_GKVObjektattribut
-
-0178002Obj_0002ObjektIdent
-
-011423927Scheinuntergruppe
-
-0204134MusterkasseKostenträgername
-
-014410478945Abrechnungs-VKNR
-
-011410600Kostenträger-Abrechnungsbereich (KTAB)
-
-011311600WOP
-
-01031081Versichertenart
-
-0184111123456789Kostenträgerkennung
-
-011412200Abrechnungsgebiet
-
-01042211Kurativ / Präventiv / ESS / bei belegärztl. Behandlung
-
-0178003Obj_0002Objektende
-
-0238102Abrechnung_GKVObjektattribut
-
-0178002Obj_0002ObjektIdent
-
-011423928Scheinuntergruppe
-
-0204134MusterkasseKassenname
-
-014410478945Abrechnungs-VKNR
-
-LDT 3 Use Cases, Version 3.2.19Seite 11von 66
+LDT 3 Use Cases, Version 3.2.19 Seite 9 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 016 | 8145 | Patient |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0045 |  |  |  |  | ObjektIdent |  |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 12 |  |  |  | Status | Person |  |
+|  | 013 | 3100 | Graf |  |  |  |  | Namenszusatz |  |
+|  | 012 | 3120 | von |  |  |  |  | Vorsatzwort |  |
+|  | 022 | 3101 |  | Musterpatient |  |  | Nachname |  |  |
+|  | 013 | 3102 | Karl |  |  |  | Vorname |  |  |
+|  | 017 | 3103 | 19600512 |  |  |  |  | Geburtsdatum |  |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel |  |  |
+|  | 010 | 3110 | M |  |  |  |  | Geschlecht |  |
+|  | 022 | 8228 |  | Wohnanschrift |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  |  | ObjektIdent |  |
+|  | 014 | 3112 | 23456 |  |  |  | PLZ |  |  |
+|  | 018 | 3113 | Musterort |  |  |  | Ort |  |  |
+|  | 026 | 3107 | Siegburger | Straße |  |  | Straße |  |  |
+|  | 014 | 3109 | 425 b |  |  |  |  | Hausnummer |  |
+|  | 022 | 3115 | 3. | Hinterhaus |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode |  |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |
+|  | 019 | 3119 |  | S040464113 |  |  |  | Versicherten-ID |  |
+|  | 023 | 3000 |  | KAMUPA47112015 |  |  |  | Patientennummer |  |
+|  | 017 | 8003 | Obj_0045 |  |  |  |  | Objektende |  |
+|  | 028 | 8169 |  | Koerperkenngroessen | |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0069 |  |  |  |  | ObjektIdent |  |
+|  | 012 | 3622 | 185 |  |  |  | Größe | der Person |  |
+|  | 011 | 8421 | cm |  |  |  | Einheit | des | Meßwertes |
+|  | 026 | 8225 |  | Timestamp_Messung | |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |
+|  | 013 | 3623 | 98.6 |  |  |  | Gewicht | der | Person |
+|  | 011 | 8421 | kg |  |  |  | Einheit | des | Meßwertes |
+|  | 026 | 8225 |  | Timestamp_Messung | |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0069 |  |  |  |  | Objektende |  |
+|  | 028 | 8113 |  | Auftragsinformation |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0013 |  |  |  |  | ObjektIdent |  |
+|  | 020 | 8310 |  | 47112345678 |  |  |  | Auftragsnummer | des Einsenders |
+|  | 020 | 8311 |  | 47112345678 |  |  | ID | Auftragsnummer | des Labors |
+|  | 010 | 8611 | 2 |  |  |  |  | zusätzlicher | Befundweg |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 10 |  |  |  | Status | Person |  |
+|  | 019 | 3101 | Zusatzarzt |  |  |  |  | Nachname |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 10 von | 66 |  |  |
 
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19 Dr. med. Siegburger Straße 3. Hinterhaus Seite 10 von 66 Status Person Größe der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Gewicht der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Auftragsnummer des Einsenders ID Auftragsnummer des Labors zusätzlicher Befundweg Status Person
 
+---
+
+**IT in der Arztpraxis**  LDT 3   015 3102 Thomas Vorname  023 3104 Prof. Dr. med. Titel  Geschaeftliche _Kommunikati- 042 8233 Objektattribut  onsdaten  017 8002 Obj_0031 ObjektIdent  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  Timestamp_Erstellung _Unter- 054 8213 Objektattribut  suchungsanforderung  017 8002 Obj_0054 ObjektIdent  017 7278 JJJJMMTT Datum des Timestamp  018 7279 HHmmss(ms) Uhrzeit des Timestamp  014 7273 UTC+1 Zeitzone  017 8003 Obj_0054 Objektende  017 8003 Obj_0013 Objektende  027 8127 Veranlassungsgrund Objektattribut  017 8002 Obj_0027 ObjektIdent  010 7303 1 Abrechnungsinfo zur Untersuchung  021 8200 Akutdiagnose Objektattribut  017 8002 Obj_0100 ObjektIdent  014 6001 C00.1 ICD Code  010 6003 G Diagnosesicherheit  010 6004 R Lokalisation 017 8003 Obj_0100 Objektende
+
+010 7303 2 Abrechnungsinfo zur Untersuchung
+
+021 8200 Akutdiagnose Objektattribut 017 8002 Obj_0100 ObjektIdent
+
+014 6001 C00.2 ICD Code
+
+010 6003 V Diagnosesicherheit  010 6004 L Lokalisation  017 8003 Obj_0100 Objektende  017 8003 Obj_0027 Objektende  031 8101 Abrechnungsinformation Objektattribut  017 8002 Obj_0001 ObjektIdent  023 8102 Abrechnung_GKV Objektattribut 017 8002 Obj_0002 ObjektIdent
+
+011 4239 27 Scheinuntergruppe
+
+020 4134 Musterkasse Kostenträgername
+
+014 4104 78945 Abrechnungs-VKNR
+
+011 4106 00 Kostenträger-Abrechnungsbereich (KTAB) 011 3116 00 WOP
+
+010 3108 1 Versichertenart
+
+018 4111 123456789 Kostenträgerkennung 011 4122 00 Abrechnungsgebiet
+
+010 4221 1 Kurativ / Präventiv / ESS / bei belegärztl. Behandlung 017 8003 Obj_0002 Objektende
+
+023 8102 Abrechnung_GKV Objektattribut 017 8002 Obj_0002 ObjektIdent
+
+011 4239 28 Scheinuntergruppe
+
+020 4134 Musterkasse Kassenname
+
+014 4104 78945 Abrechnungs-VKNR
+
+LDT 3 Use Cases, Version 3.2.19 Seite 11 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-LDT 3 Use Cases, Version 3.2.19
-
-011
+LDT 3 Use Cases, Version 3.2.19 011
 
 011
 
@@ -640,9 +416,7 @@ LDT 3 Use Cases, Version 3.2.19
 
 017
 
-011 013 012 022 013 017 010 027 017 014 020 013 010 009 017 036 017 030 017 017 017 017 017 017 017 017 019 011 011
-
-014
+011  013  012  022  013  017  010  027  017  014  020  013  010  009  017  036  017  030  017  017  017  017  017  017  017  017  019  011  011 014
 
 017
 
@@ -686,9 +460,7 @@ LDT 3 Use Cases, Version 3.2.19
 
 8002
 
-7420 3100 3120 3101 3102 3104 3110 8230 8002 3121 3122 3123 3124 1202 8003 8232 8002 7330 8003 8003 8003 8003 8003 8003 8137 8002 7364 8429 8428
-
-8430
+7420  3100  3120  3101  3102  3104  3110  8230  8002  3121  3122  3123  3124  1202  8003  8232  8002  7330  8003  8003  8003  8003  8003  8003  8137  8002  7364  8429  8428 8430
 
 8431
 
@@ -710,17 +482,13 @@ Obj_0002
 
 Abrechnung_IGEL
 
-Obj_0004
-
-3
+Obj_0004 3
 
 1
 
 RgEmpfaenger
 
-Obj_0048
-
-47112345678
+Obj_0048 47112345678
 
 12
 
@@ -732,13 +500,11 @@ Person
 
 Obj_0047
 
-05 Graf von Musterpatient Karl Dr. med. M Rechnungsanschrift Obj_0007 23456 Musterstadt 1234 D 2 Obj_0007 Private_Kommunikations Obj_0031 +LK_Vorwahl_Rufnummer Obj_0031 Obj_0047 Obj_0008 Obj_0048 Obj_0004 Obj_0001 Material Obj_0037 1234567802 02 SE
+05  Graf  von  Musterpatient  Karl  Dr. med.  M  Rechnungsanschrift Obj_0007  23456  Musterstadt  1234  D  2  Obj_0007  Private_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0004  Obj_0001  Material  Obj_0037  1234567802  02  SE
 
 Serum
 
-gefroren
-
-1
+gefroren 1
 
 Medikament
 
@@ -782,197 +548,155 @@ Objektattribut
 
 ObjektIdent
 
-Status Person Namenszusatz Vorsatzwort Nachname Vorname Titel Geschlecht Objektattribut ObjektIdent PostfachPLZ Postfach Ort / Stadt Postfach Postfach Wohnsitzländercode Adresstyp Objektende Objektattribut ObjektIdent Telefonnummer Objektende Objektende Objektende Objektende Objektende Objektende Objektattribut ObjektIdent Probengefäß-Ident Probenmaterial Index Probenmaterial-Ident
+Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stadt  Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende  Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme Objektattribut
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme  Objektattribut
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3 017 8002 Obj_0070 ObjektIdent
 
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
 
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme  042 8219 Objektattribut  _entnahme  017 8002 Obj_0054 ObjektIdent
 
+017 7278 JJJJMMTT Datum des Timestamp
 
----
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-**IT in der Arztpraxis** LDT 3
+017 8003 Obj_0054 Objektende
 
-0178002Obj_0070ObjektIdent
+017 8003 Obj_0037 Objektende
 
-0256208Arzneimittel XYZHandelsname des Arzneimittels
+017 8137 Material Objektattribut 017 8002 Obj_0037 ObjektIdent
 
-0178003Obj_0070Objektende Timestamp_Materialabnahme 0428219Objektattribut _entnahme 0178002Obj_0054ObjektIdent
+019 7364 1234567803 Probengefäß-Ident
 
-0177278JJJJMMTTDatum des Timestamp
+011 8429 03 Probenmaterial Index
 
-0187279HHmmss(ms)Uhrzeit des Timestamp
+011 8428 CB Probenmaterial-Ident
 
-0147273UTC+1Zeitzone
+014 8430 Citrat-Blut Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent- 010 8504 1  nahme  019 8170 Medikament Objektattribut 017 8002 Obj_0070 ObjektIdent
 
-0178003Obj_0054Objektende
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
 
-0178003Obj_0037Objektende
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme  042 8219 Objektattribut  _entnahme  017 8002 Obj_0054 ObjektIdent
 
-0178137MaterialObjektattribut
+017 7278 JJJJMMTT Datum des Timestamp
 
-0178002Obj_0037ObjektIdent
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-01973641234567803Probengefäß-Ident
+017 8003 Obj_0054 Objektende
 
-011842903Probenmaterial Index
+017 8003 Obj_0037 Objektende
 
-0118428CBProbenmaterial-Ident
+033 8159 Untersuchungsanforderung Objektattribut 017 8002 Obj_0059 ObjektIdent
 
-0148430Citrat-BlutProbenmaterial-Bezeichnung Medikamenteneinnahme zum Zeitpunkt der Materialent- 01085041 nahme 0198170MedikamentObjektattribut
+015 8410 HBs-Ag Test-Ident
 
-0178002Obj_0070ObjektIdent
+028 8411 Hepatitis B Antigen Testbezeichnung
 
-0256208Arzneimittel XYZHandelsname des Arzneimittels
+010 7303 1 Abrechnungsinfo zur Untersuchung 010 8501 1 Dringlichkeit
 
-0178003Obj_0070Objektende Timestamp_Materialabnahme 0428219Objektattribut _entnahme 0178002Obj_0054ObjektIdent
+019 7364 1234567802 Probengefäß-Ident
 
-0177278JJJJMMTTDatum des Timestamp
+011 8428 SE Probenmaterial-Ident
 
-0187279HHmmss(ms)Uhrzeit des Timestamp
+011 8429 02 Probenmaterial-Index  Timestamp_Erstellung _Unter- 054 8213 Objektattribut  suchungsanforderung  017 8002 Obj_0054 ObjektIdent
 
-0147273UTC+1Zeitzone
+017 7278 JJJJMMTT Datum des Timestamp
 
-0178003Obj_0054Objektende
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-0178003Obj_0037Objektende
+017 8003 Obj_0054 Objektende
 
-0338159UntersuchungsanforderungObjektattribut
+017 8003 Obj_0059 Objektende
 
-0178002Obj_0059ObjektIdent
+033 8159 Untersuchungsanforderung Objektattribut 017 8002 Obj_0059 ObjektIdent
 
-0158410HBs-AgTest-Ident
-
-0288411Hepatitis B AntigenTestbezeichnung
-
-01073031Abrechnungsinfo zur Untersuchung
-
-01085011Dringlichkeit
-
-01973641234567802Probengefäß-Ident
-
-0118428SEProbenmaterial-Ident
-
-011842902Probenmaterial-Index Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0059Objektende
-
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-LDT 3 Use Cases, Version 3.2.19Seite 13 von 66
+LDT 3 Use Cases, Version 3.2.19 Seite 13 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3 011 8410 Qu
 
+014 8411 Quick
 
+010 7303 2
 
+019 7364 1234567803
 
----
+011 8428 CB
 
-**IT in der Arztpraxis** LDT 3
+011 8429 03  Timestamp_Erstellung _Unter- 054 8213  suchungsanforderung  017 8002 Obj_0054 017 7278 JJJJMMTT
 
-0118410Qu
+018 7279 HHmmss(ms)
 
-0148411Quick
+014 7273 UTC+1
 
-01073032
+017 8003 Obj_0054
 
-01973641234567803
+017 8003 Obj_0059
 
-0118428CB
+033 8159 Untersuchungsanforderung 017 8002 Obj_0059
 
-011842903 Timestamp_Erstellung _Unter- 0548213 suchungsanforderung 0178002Obj_0054
+015 8410 PSA
 
-0177278JJJJMMTT
+028 8411 PSA
 
-0187279HHmmss(ms)
+010 7303 3
 
-0147273UTC+1
+019 7364 1234567802
 
-0178003Obj_0054
+011 8428 SE
 
-0178003Obj_0059
+011 8429 02  Timestamp_Erstellung _Unter- 054 8213  suchungsanforderung  017 8002 Obj_0054 017 7278 JJJJMMTT
 
-0338159Untersuchungsanforderung
+018 7279 HHmmss(ms)
 
-0178002Obj_0059
+014 7273 UTC+1
 
-0158410PSA
+017 8003 Obj_0054
 
-0288411PSA
+017 8003 Obj_0059
 
-01073033
+036 8167 Zusaetzliche_Informationen 017 8002 Obj_0068
 
-01973641234567802
+031 3564 Patient war in Afrika!
 
-0118428SE
+017 8003 Obj_0068
 
-011842902 Timestamp_Erstellung _Unter- 0548213 suchungsanforderung 0178002Obj_0054
+015 8110 Anhang
 
-0177278JJJJMMTT
+017 8002 Obj_0010
 
-0187279HHmmss(ms)
+012 9970 999
 
-0147273UTC+1
+013 6303 JPEG
 
-0178003Obj_0054
+032 6327 Bild der Entnahmestelle 012 9908 URL
 
-0178003Obj_0059
+017 8003 Obj_0010
 
-0368167Zusaetzliche_Informationen
+013 8001 8215
 
-0178002Obj_0068
+013 8000 8231
 
-0313564Patient war in Afrika!
+025 9300 errechneter Wert
 
-0178003Obj_0068
-
-0158110Anhang
-
-0178002Obj_0010
-
-0129970999
-
-0136303JPEG
-
-0326327Bild der Entnahmestelle
-
-0129908URL
-
-0178003Obj_0010
-
-01380018215
-
-01380008231
-
-0259300errechneter Wert
-
-01380018231
+013 8001 8231
 
 *Hinweis:*
 
-0158110Anhang
+015 8110 Anhang
 
-0178002Obj_0010
+017 8002 Obj_0010
 
-0178003Obj_0010
+017 8003 Obj_0010
 
 LDT 3 Use Cases, Version 3.2.19
 
@@ -1062,24 +786,18 @@ Prüfsumme/Elektronische Freigabe
 
 Satzende
 
-*Nach einem Objektattribut folgt immer das* *ObjektIdent des Objektes, auf welches das Objektattribut* *verweist!* *Objektende des bezeichneten Objektes.*
+*Nach einem Objektattribut folgt immer das*  *ObjektIdent des Objektes, auf welches das Objektattribut*  *verweist!*  *Objektende des bezeichneten Objektes.*
 
-Seite 14von 66
-
-
----
-
-
-
+Seite 14 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-### 3. Use Case
+### 3. Use Case 3 – Laborauftrag für Privatpatient
 
-**3.1.****Beschreibung Use Case 3**
+**3.1. Beschreibung Use Case 3**
 
 **EINSENDER:**
 
@@ -1103,7 +821,7 @@ ID: Labor27/12
 
 **PATIENT:**
 
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
+Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem:  KAMUPA47112015)
 
 Siegburger Straße 425 b
 
@@ -1123,7 +841,7 @@ Dr. med. Graf Karl von Musterpatient, Postfach 1234, 23456 Musterstadt
 
 **DIAGNOSE:**
 
-Verdacht auf……, C00.1 gesichert, rechts,
+Verdacht auf……, C00.1 gesichert, rechts, Infektion?
 
 **MATERIAL:**
 
@@ -1137,403 +855,495 @@ Material wurde am JJJJMMTT um HHmm abgenommen
 
 **UNTERSUCHUNGSANFORDERUNG:**
 
-Auf Grundlage bor\lvz01.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 5896 Antigen) aus Serum (Probengefäß 1234567802) beim Laborfacharzt angefordert.
+Auf Grundlage des Kataloges „Katalog Labor Muster“, der unter www.musterla- bor\lvz01.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 5896 (Hepatitis-B- Antigen) aus Serum (Probengefäß 1234567802) beim Laborfacharzt angefordert.
 
-LDT 3 Use Cases, Version 3.2.19
-
-**3**
-
-### –
-
-### Laborauftrag für Privat
-
-desKataloges
-
-### patient
-
-Infektion?
-
-„KatalogLabor
-
-Seite 15 von 66
-
-Muster“,derunter (Hepatitis-B- www.musterla-
+LDT 3 Use Cases, Version 3.2.19 Seite 15 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Auf | Grundlage | | des | Kataloges | „Katalog |  | Basis Labor | Muster“, | der | unter | www.musterla- | |
+|  | bor\lvz02.de |  | veröffentlicht | | ist, wird | die | Untersuchung | mit | dem Kürzel | 25K28 | (Quick) | aus |
+|  | Citrat-Blut |  | (Probengefäß |  | 1234567803) | bei | der | Privatärztlichen | | La-borgemeinschaft | | an- |
+|  | gefordert. |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | ABRECHNUNGSINFORMATION: | | |  |  |  |  |  |  |  |
+|  | Abrechnung | erfolgt | nach | GOÄ |  |  |  |  |  |  |  |  |
+|  | (Leistungen | MII | an | einsendenden | | Arzt, | MIII/MIV | – Leistungen | an | Patienten) |  |  |
+|  |  | ZUSATZINFORMATIONEN: | | |  |  |  |  |  |  |  |  |
+| - |  | Zusätzlicher |  | Befund | an Prof. | Dr. | med. | Thomas | Zusatzarzt | per E-Mail | an | zusatz- |
+|  |  | arzt@mail.de |  |  |  |  |  |  |  |  |  |  |
+| - | Das |  | Auftragsformular | | im Format | PDF | wird | als | base64-kodierte | Anlage | mit | über- |
+|  |  | tragen. |  |  |  |  |  |  |  |  |  |  |
+| - | Patient | war | in | Afrika. |  |  |  |  |  |  |  |  |
+| - | Ein | Bild | der | Entnahmestelle | | liegt | als JPEG | unter | einer URL | vor. |  |  |
+| 3.2. | Muster | LDT | mit |  | Beschreibung | der |  | Feldkennungen |  |  |  |  |
+|  | Feldlänge | FK |  | Feldinhalt |  |  |  |  | Beschreibung |  |  |  |
+|  | 013 | 8000 | 8230 |  |  |  |  | Satzart |  |  |  |  |
+|  | 018 | 8132 |  | Kopfdaten |  |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 |  | Obj_0032 |  |  |  |  | ObjektIdent |  |  |  |
+|  | 017 | 0001 |  | LDT3.2.19 |  |  |  | Version | der | Datensatzbeschreibung | |  |
+|  | 025 | 8151 |  | Sendendes_System | |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 |  | Obj_0051 |  |  |  |  | ObjektIdent |  |  |  |
+|  | 019 | 8315 |  | Labor27/12 |  |  |  | ID des | Empfängers |  |  |  |
+|  | 019 | 8316 |  | Arzt123456 |  |  |  | ID des | Senders |  |  |  |
+|  | 025 | 0105 |  | a/nn/JJMM/MM/aaa | |  |  |  | KBV-Prüfnummer |  |  |  |
+|  | 019 | 0103 |  | Muster PVS |  |  |  |  | Software/Name | der Software |  |  |
+|  | 018 | 0132 |  | 8.12.0.95 |  |  |  |  | Version/Releasestand | der | Software |  |
+|  | 017 | 8003 |  | Obj_0051 |  |  |  |  | Objektende |  |  |  |
+|  | 039 | 8218 |  |  | Timestamp_Erstellung |  | _Daten-satz |  | Objektattribut |  |  |  |
+|  | 017 | 8002 |  | Obj_0054 |  |  |  |  | ObjektIdent |  |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  |  | Datum | des | Timestamp |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  |  | Uhrzeit | des | Timestamp |  |  |
+|  | 014 | 7273 |  | UTC+1 |  |  |  | Zeitzone |  |  |  |  |
+|  | 029 | 8235 |  |  | Person_zum_Timestamp | |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 |  | Obj_0047 |  |  |  |  | ObjektIdent |  |  |  |
+|  | 011 | 7420 | 02 |  |  |  |  | Status | der Person |  |  |  |
+|  | 019 | 3101 |  | Musterarzt |  |  |  | Nachname |  |  |  |  |
+|  | 014 | 3102 | Klaus |  |  |  |  | Vorname |  |  |  |  |
+|  | 017 | 3104 | Dr. | med. |  |  |  | Titel |  |  |  |  |
+|  | 017 | 8003 |  | Obj_0047 |  |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 |  | Obj_0054 |  |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 |  | Obj_0032 |  |  |  |  | Objektende |  |  |  |
+|  | 010 | 7265 | 1 |  |  |  |  | Absender | des | Datensatzes |  |  |
+|  | 032 | 8122 |  |  | Einsenderidentifikation |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 |  | Obj_0022 |  |  |  |  | ObjektIdent |  |  |  |
+|  | 010 | 7321 | 01 |  |  |  |  | Status | Einsender |  |  |  |
+|  | 013 | 8312 | 4711 |  |  |  |  |  | Kunden-(Arzt)Nummer | |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  |  | Seite | 16 von 66 |  |  |  |  |  |
 
+IT in der Arztpraxis Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla- bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an- Abrechnung erfolgt nach GOÄ (Leistungen MII an einsendenden Arzt, MIII/MIV – Leistungen an Patienten) Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz- Das Auftragsformular im Format PDF wird als base64-kodierte Anlage mit über- Patient war in Afrika. Ein Bild der Entnahmestelle liegt als JPEG unter einer URL vor. Muster LDT mit Beschreibung der Feldkennungen LDT 3 Use Cases, Version 3.2.19 Timestamp_Erstellung _Daten-satz  Dr. med.  Seite 16 von 66 Version der Datensatzbeschreibung ID des Empfängers  ID des Senders  Software/Name der Software Version/Releasestand der Software Datum des Timestamp Uhrzeit des Timestamp Status der Person Absender des Datensatzes Status Einsender
 
+---
+
+**IT in der Arztpraxis**  LDT 3   027 8114 Arztidentifikation Objektattribut  017 8002 Obj_0014 ObjektIdent  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 02 Status der Person  019 3101 Musterarzt Nachname  014 3102 Klaus Vorname  017 3104 Dr. med. Titel  012 8990 KMu Namenskürzel / Namenszeichen  Geschaeftliche _Kommunikationsda- 043 8233 Objektattribut  ten  017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  018 0212 991234567 Lebenslange Arztnummer (LANR)  017 8003 Obj_0014 Objektende  024 8119 Betriebsstaette Objektattribut  017 8002 Obj_0019 ObjektIdent  010 0204 1 Status der Betriebsstätte  010 0204 5 Status der Betriebsstätte  030 0203 Praxis Dr. Musterarzt (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder  018 0201 123456789  Nebenbetriebsstättennummer (NBSNR)  021 8143 Organisation Objektattribut  017 8002 Obj_0043 ObjektIdent  030 1250 Praxis Dr. Musterarzt Organisation / Firma
+
+032 8229 Anschrift_Arbeitsstelle Objektattribut 017 8002 Obj_0007 ObjektIdent
+
+014 3112 12345 PLZ
+
+021 3113 Musterhausen Ort
+
+025 3107 Musterarztstraße Straße 011 3109 26 Hausnummer
+
+025 3115 Vorderhaus links Anschriftenzusatz 010 3114 D Wohnsitzländercode
+
+017 8003 Obj_0007 Objektende
+
+028 8131 Kommunikationsdaten Objektattribut
+
+017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0043 Objektende  017 8003 Obj_0019 Objektende  017 8003 Obj_0022 Objektende  013 8001 8230 Satzende  013 8000 8215 Satzart
+
+LDT 3 Use Cases, Version 3.2.19 Seite 17 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla- bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an- gefordert.
+| IT in | der | Arztpraxis |  |  |  |  |
+|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |
+|  | 016 | 8145 | Patient |  |  |  |
+|  | 017 | 8002 | Obj_0045 |  |  |  |
+|  | 015 | 8147 | Person |  |  |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |
+|  | 011 | 7420 | 12 |  |  |  |
+|  | 013 | 3100 | Graf |  |  |  |
+|  | 012 | 3120 | von |  |  |  |
+|  | 022 | 3101 |  | Musterpatient |  |  |
+|  | 013 | 3102 | Karl |  |  |  |
+|  | 017 | 3103 | 19600512 |  |  |  |
+|  | 017 | 3104 | Dr. | med. |  |  |
+|  | 010 | 3110 | M |  |  |  |
+|  | 022 | 8228 |  | Wohnanschrift |  |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  |
+|  | 014 | 3112 | 23456 |  |  |  |
+|  | 018 | 3113 | Musterort |  |  |  |
+|  | 026 | 3107 | Siegburger | Straße |  |  |
+|  | 014 | 3109 | 425 b |  |  |  |
+|  | 022 | 3115 | 3. | Hinterhaus |  |  |
+|  | 010 | 3114 | D |  |  |  |
+|  | 017 | 8003 | Obj_0007 |  |  |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |
+|  | 019 | 3119 |  | S040464113 |  |  |
+|  | 023 | 3000 |  | KAMUPA47112015 |  |  |
+|  | 017 | 8003 | Obj_0045 |  |  |  |
+|  | 028 | 8169 |  | Koerperkenngroessen | |  |
+|  | 017 | 8002 | Obj_0069 |  |  |  |
+|  | 012 | 3622 | 185 |  |  |  |
+|  | 011 | 8421 | cm |  |  |  |
+|  | 026 | 8225 |  | Timestamp_Messung |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |
+|  | 013 | 3623 | 98.6 |  |  |  |
+|  | 011 | 8421 | kg |  |  |  |
+|  | 026 | 8225 |  | Timestamp_Messung |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |
+|  | 017 | 8003 | Obj_0069 |  |  |  |
+|  | 028 | 8113 |  | Auftragsinformation |  |  |
+|  | 017 | 8002 | Obj_0013 |  |  |  |
+|  | 020 | 8310 |  | 47112345678 |  |  |
+|  | 020 | 8311 |  | 47112345678 |  |  |
+|  | 010 | 8611 | 3 |  |  |  |
+|  | 015 | 8147 | Person |  |  |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |
+|  | 011 | 7420 | 10 |  |  |  |
+|  | 019 | 3101 | Zusatzarzt |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 18 von 66 |
 
-### ABRECHNUNGSINFORMATION:
+|  | Objektattribut |  |
+|---|---|---|
+|  | ObjektIdent |  |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| Status | Person |  |
+|  | Namenszusatz |  |
+|  | Vorsatzwort |  |
+| Nachname |  |  |
+| Vorname |  |  |
+|  | Geburtsdatum |  |
+| Titel |  |  |
+|  | Geschlecht |  |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| PLZ |  |  |
+| Ort |  |  |
+| Straße |  |  |
+|  | Hausnummer |  |
+|  | Anschriftenzusatz |  |
+|  | Wohnsitzländercode |  |
+|  | Objektende |  |
+|  | Objektende |  |
+|  | Versicherten-ID |  |
+|  | Patientennummer |  |
+|  | Objektende |  |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| Größe | der Person |  |
+| Einheit | des | Meßwertes |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| Datum | des | Timestamp |
+| Uhrzeit | des | Timestamp |
+| Zeitzone |  |  |
+|  | Objektende |  |
+| Gewicht | der | Person |
+| Einheit | des | Meßwertes |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| Datum | des | Timestamp |
+| Uhrzeit | des | Timestamp |
+| Zeitzone |  |  |
+|  | Objektende |  |
+|  | Objektende |  |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+|  | Auftragsnummer | des Einsenders |
+| ID | Auftragsnummer | des Labors |
+|  | zusätzlicher | Befundweg |
+|  | Objektattribut |  |
+|  | ObjektIdent |  |
+| Status | Person |  |
+|  | Nachname |  |
 
-Abrechnung erfolgt nach GOÄ
+IT in der Arztpraxis Dr. med. Siegburger Straße 3. Hinterhaus LDT 3 Use Cases, Version 3.2.19 Seite 18 von 66 Status Person Größe der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Gewicht der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Auftragsnummer des Einsenders ID Auftragsnummer des Labors zusätzlicher Befundweg Status Person
 
-(Leistungen MII an einsendenden Arzt, MIII/MIV – Leistungen an Patienten)
+---
 
-### ZUSATZINFORMATIONEN:
+**IT in der Arztpraxis**  LDT 3   015 3102 Thomas Vorname  023 3104 Prof. Dr. med. Titel  Geschaeftliche _Kommunikationsda- 042 8233 Objektattribut  ten  017 8002 Obj_0031 ObjektIdent  027 7335 [zusatzarzt@mail.de](mailto:zusatzarzt@mail.de) E-Mailadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  Timestamp_Erstellung _Untersu- 054 8213 Objektattribut  chungsanforderung  017 8002 Obj_0054 ObjektIdent  017 7278 JJJJMMTT Datum des Timestamp  018 7279 HHmmss(ms) Uhrzeit des Timestamp  014 7273 UTC+1 Zeitzone  017 8003 Obj_0054 Objektende  017 8003 Obj_0013 Objektende  027 8127 Veranlassungsgrund Objektattribut  017 8002 Obj_0027 ObjektIdent  010 7303 3 Abrechnungsinfo zur Untersuchung  011 8417 06 Anlass der Untersuchung  011 8427 04 Spezifizierung des Veranlassungsgrundes  021 8200 Akutdiagnose Objektattribut  017 8002 Obj_0100 ObjektIdent  014 6001 C00.1 ICD Code  010 6003 G Diagnosesicherheit  010 6004 R Lokalisation
 
--Zusätzlicher Befund an Prof. Dr. med. Thomas Zusatzarzt per E-Mail an zusatz- [arzt@mail.de](mailto:arzt@mail.de)
+017 8003 Obj_0100 Objektende  017 8003 Obj_0027 Objektende  031 8101 Abrechnungsinformation Objektattribut  017 8002 Obj_0001 ObjektIdent  023 8103 Abrechnung_PKV Objektattribut 017 8002 Obj_0003 ObjektIdent
 
--Das Auftragsformular im Format PDF wird als base64-kodierte Anlage mit über- tragen.
+010 7362 1 Abrechnungsart PKV
 
--Patient war in Afrika.
+010 4121 3 Gebührenordnung
 
--Ein Bild der Entnahmestelle liegt als JPEG unter einer URL vor.
+021 8148 RgEmpfaenger Objektattribut 017 8002 Obj_0048 ObjektIdent
 
-### 3.2.
+020 8310 47112345678 Auftragsnummer des Einsenders
 
-### Muster LDT mit Beschreibung der Feldkennungen
+011 7421 12 Status Rechnungsempfänger
 
-**Feldlänge** 013 018 017 017 025 017 019 019 025 019 018 017 039 017 017 018 014 029 017 011 019 014 017 017 017 017 010 032 017 010 013
+017 8108 Adressat Objektattribut 017 8002 Obj_0008 ObjektIdent
 
-LDT 3 Use Cases, Version 3.2.19
+015 8147 Person Objektattribut
 
-**FK** 8000 8132 8002 0001 8151 8002 8315 8316 0105 0103 0132 8003 8218 8002 7278 7279 7273 8235 8002 7420 3101 3102 3104 8003 8003 8003 7265 8122 8002 7321 8312
+017 8002 Obj_0047 ObjektIdent
 
-**Feldinhalt** 8230 Kopfdaten Obj_0032 LDT3.2.19 Sendendes_System Obj_0051 Labor27/12 Arzt123456 a/nn/JJMM/MM/aaa Muster PVS 8.12.0.95 Obj_0051 Timestamp_Erstellung _Daten-satz Obj_0054 JJJJMMTT HHmmss(ms) UTC+1 Person_zum_Timestamp Obj_0047 02 Musterarzt Klaus Dr. med. Obj_0047 Obj_0054 Obj_0032 1 Einsenderidentifikation Obj_0022 01 4711
+011 7420 05 Status Person  013 3100 Graf Namenszusatz  012 3120 von Vorsatzwort  022 3101 Musterpatient Nachname  013 3102 Karl Vorname  017 3104 Dr. med. Titel  010 3110 M Geschlecht  027 8230 Rechnungsanschrift Objektattribut  017 8002 Obj_0007 ObjektIdent  014 3121 23456 PostfachPLZ  020 3122 Musterstadt Postfach Ort / Stadt
 
-Seite 16 von 66
-
-**Beschreibung** Satzart Objektattribut ObjektIdent Version der Datensatzbeschreibung Objektattribut ObjektIdent ID des Empfängers ID des Senders KBV-Prüfnummer Software/Name der Software Version/Releasestand der Software Objektende Objektattribut ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Objektende Objektende Objektende Absender des Datensatzes Objektattribut ObjektIdent Status Einsender Kunden-(Arzt)Nummer
+LDT 3 Use Cases, Version 3.2.19 Seite 19 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 013 | 3123 | 1234 |  |  |  |  | Postfach |  |
+|  | 010 | 3124 | D |  |  |  |  | Postfach | Wohnsitzländercode |
+|  | 009 | 1202 | 2 |  |  |  |  | Adresstyp |  |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 036 | 8232 |  | Private_Kommunikationsdaten | | |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0031 |  |  |  |  | ObjektIdent |  |
+|  | 030 | 7330 |  | +LK_Vorwahl_Rufnummer | |  |  | Telefonnummer |  |
+|  | 017 | 8003 | Obj_0031 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0008 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0048 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0003 |  |  |  |  | Objektende |  |
+|  | 023 | 8103 |  | Abrechnung_PKV |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0003 |  |  |  |  | ObjektIdent |  |
+|  | 010 | 7362 | 2 |  |  |  |  | Abrechnungsart | PKV |
+|  | 010 | 4121 | 3 |  |  |  |  | Gebührenordnung |  |
+|  | 021 | 8148 |  | RgEmpfaenger |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0048 |  |  |  |  | ObjektIdent |  |
+|  | 020 | 8310 |  | 47112345678 |  |  |  | Auftragsnummer | des Einsenders |
+|  | 011 | 7421 | 02 |  |  |  | Status |  | Rechnungsempfänger |
+|  | 017 | 8108 | Adressat |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0008 |  |  |  |  | ObjektIdent |  |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 02 |  |  |  | Status | Person |  |
+|  | 022 | 3101 | Musterarzt |  |  |  |  | Nachname |  |
+|  | 013 | 3102 | Klaus |  |  |  | Vorname |  |  |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel |  |  |
+|  | 010 | 3110 | M |  |  |  |  | Geschlecht |  |
+|  | 027 | 8230 |  | Rechnungsanschrift |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  |  | ObjektIdent |  |
+|  | 014 | 3112 | 12345 |  |  |  | PLZ |  |  |
+|  | 021 | 3113 |  | Musterhausen |  |  | Ort |  |  |
+|  | 025 | 3107 |  | Musterarztstraße |  |  | Straße |  |  |
+|  | 011 | 3109 | 26 |  |  |  |  | Hausnummer |  |
+|  | 025 | 3115 | Vorderhaus | links |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode | |
+|  | 009 | 1202 | 2 |  |  |  |  | Adresstyp |  |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 036 | 8233 |  |  | Geschaeftliche_Kommunikations | | daten | Objektattribut |  |
+|  | 017 | 8002 | Obj_0031 |  |  |  |  | ObjektIdent |  |
+|  | 030 | 7330 |  | +LK_Vorwahl_Rufnummer | |  |  | Telefonnummer |  |
+|  | 017 | 8003 | Obj_0031 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0008 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0048 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0003 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0001 |  |  |  |  | Objektende |  |
+|  | 017 | 8137 | Material |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0037 |  |  |  |  | ObjektIdent |  |
+|  | 019 | 7364 |  | 1234567802 |  |  |  | Probengefäß-Ident | |
+|  | 011 | 8429 | 02 |  |  |  |  | Probenmaterial | Index |
+|  | 011 | 8428 | SE |  |  |  |  | Probenmaterial-Ident | |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 20 von 66 |  |  |  |
 
+IT in der Arztpraxis Postfach Wohnsitzländercode  Abrechnungsart PKV Auftragsnummer des Einsenders Status Rechnungsempfänger Status Person Dr. med.  Vorderhaus links Probenmaterial Index LDT 3 Use Cases, Version 3.2.19 Seite 20
 
+---
+
+**IT in der Arztpraxis**  LDT 3
+
+014 8430 Serum Probenmaterial-Bezeichnung
+
+017 8431 gefroren Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- 010 8504 1  nahme  019 8170 Medikament Objektattribut 017 8002 Obj_0070 ObjektIdent
+
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
+
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme _ent- 042 8219 Objektattribut  nahme  017 8002 Obj_0054 ObjektIdent
+
+017 7278 JJJJMMTT Datum des Timestamp
+
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
+
+017 8003 Obj_0054 Objektende
+
+017 8003 Obj_0037 Objektende
+
+017 8137 Material Objektattribut 017 8002 Obj_0037 ObjektIdent
+
+019 7364 1234567803 Probengefäß-Ident
+
+011 8429 03 Probenmaterial Index
+
+011 8428 CB Probenmaterial-Ident
+
+014 8430 Citrat-Blut Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent- 010 8504 1  nahme  019 8170 Medikament Objektattribut 017 8002 Obj_0070 ObjektIdent
+
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
+
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme _ent- 042 8219 Objektattribut  nahme  017 8002 Obj_0054 ObjektIdent
+
+017 7278 JJJJMMTT Datum des Timestamp
+
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
+
+017 8003 Obj_0054 Objektende
+
+017 8003 Obj_0037 Objektende
+
+033 8159 Untersuchungsanforderung Objektattribut 017 8002 Obj_0059 ObjektIdent
+
+010 7260 4 ID Katalog anforderbare Leistungen
+
+033 7352 www.musterlabor\lvz01.de URL Kataloge
+
+029 7251 Katalog Labor Muster Bezeichnung des verwendeten Kataloges 013 7365 5896 Analysen-ID
+
+028 7366 Hepatitis B Antigen Langbezeichnung der angeforderten Leistung
+
+010 7303 3 Abrechnungsinfo zur Untersuchung
+
+019 7364 1234567802 Probengefäß-Ident
+
+011 8428 SE Probenmaterial-Ident
+
+011 8429 02 Probenmaterial-Index  Timestamp_Erstellung _Untersu- 054 8213 Objektattribut  chungsanforderung  017 8002 Obj_0054 ObjektIdent
+
+017 7278 JJJJMMTT Datum des Timestamp
+
+LDT 3 Use Cases, Version 3.2.19 Seite 21 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  0278114ArztidentifikationObjektattribut 0178002Obj_0014ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742002Status der Person 0193101MusterarztNachname 0143102KlausVorname 0173104Dr. med.Titel 0128990KMuNamenskürzel / Namenszeichen Geschaeftliche _Kommunikationsda- 0438233Objektattribut ten 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0047Objektende 0180212991234567Lebenslange Arztnummer (LANR) 0178003Obj_0014Objektende 0248119BetriebsstaetteObjektattribut 0178002Obj_0019ObjektIdent 01002041Status der Betriebsstätte 01002045Status der Betriebsstätte 0300203Praxis Dr. Musterarzt(N)BSNR-Bezeichnung Betriebs- (BSNR) oder 0180201123456789 Nebenbetriebsstättennummer (NBSNR) 0218143OrganisationObjektattribut 0178002Obj_0043ObjektIdent 0301250Praxis Dr. MusterarztOrganisation / Firma
+| IT in | der | Arztpraxis |  |  |  |  |
+|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |
+|  | 017 | 8003 | Obj_0059 |  |  |  |
+|  | 033 | 8159 |  | Untersuchungsanforderung | |  |
+|  | 017 | 8002 | Obj_0059 |  |  |  |
+|  | 010 | 7260 | 4 |  |  |  |
+|  | 033 | 7352 |  | www.musterlabor\lvz02.de | |  |
+|  | 035 | 7251 | Katalog | Basis | Labor Muster |  |
+|  | 014 | 7365 | 25K28 |  |  |  |
+|  | 014 | 7366 | Quick |  |  |  |
+|  | 010 | 7303 | 4 |  |  |  |
+|  | 019 | 7364 |  | 1234567803 |  |  |
+|  | 011 | 8428 | CB |  |  |  |
+|  | 011 | 8429 | 03 |  |  |  |
+|  |  |  |  | Timestamp_Erstellung |  | _Untersu- |
+|  | 054 | 8213 |  |  |  |  |
+|  |  |  |  | chungsanforderung |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |
+|  | 017 | 8003 | Obj_0059 |  |  |  |
+|  | 036 | 8167 |  | Zusaetzliche_Informationen | |  |
+|  | 017 | 8002 | Obj_0068 |  |  |  |
+|  | 031 | 3564 | Patient | war in | Afrika! |  |
+|  | 017 | 8003 | Obj_0068 |  |  |  |
+|  | 015 | 8110 | Anhang |  |  |  |
+|  | 017 | 8002 | Obj_0010 |  |  |  |
+|  | 012 | 9970 | 999 |  |  |  |
+|  | 013 | 6303 | JPEG |  |  |  |
+|  | 032 | 6327 | Bild | der Entnahmestelle |  |  |
+|  | 012 | 9908 | URL |  |  |  |
+|  | 017 | 8003 | Obj_0010 |  |  |  |
+|  | 013 | 8001 | 8215 |  |  |  |
+|  | 013 | 8000 | 8231 |  |  |  |
+|  | 025 | 9300 |  | errechneter Wert |  |  |
+|  | 013 | 8001 | 8231 |  |  |  |
+| Hinweis: | |  |  |  |  |  |
+|  | 015 | 8110 | Anhang |  |  |  |
+|  | 017 | 8002 | Obj_0010 |  |  |  |
+|  | 017 | 8003 | Obj_0010 |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite 22 | von 66 |
 
-0328229Anschrift_ArbeitsstelleObjektattribut
+Uhrzeit des Timestamp
 
-0178002Obj_0007ObjektIdent
+Zeitzone
 
-014311212345PLZ
+Objektende
 
-0213113MusterhausenOrt
+Objektende
 
-0253107MusterarztstraßeStraße
+Objektattribut
 
-011310926Hausnummer
+ObjektIdent
 
-0253115Vorderhaus linksAnschriftenzusatz
+ID Katalog anforderbare Leistungen
 
-0103114DWohnsitzländercode
+URL Kataloge
 
-0178003Obj_0007Objektende
+Bezeichnung des verwendeten Kataloges
 
-0288131KommunikationsdatenObjektattribut
+Analysen-ID
 
-0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 0178003Obj_0022Objektende 01380018230Satzende 01380008215Satzart
+Langbezeichnung der angeforderten Leistung
 
-LDT 3 Use Cases, Version 3.2.19Seite 17von 66
+Abrechnungsinfo zur Untersuchung
+
+Probengefäß-Ident
+
+Probenmaterial-Ident
+
+Probenmaterial-Index
+
+Objektattribut
+
+ObjektIdent
+
+Datum des Timestamp
+
+Uhrzeit des Timestamp
+
+Zeitzone
+
+Objektende
+
+Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Text
+
+Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Dokumententyp
+
+Dateiformat
+
+Bildinhalt / Dokumentinhalt (Beschreibung)
+
+Originaldokument: Pfad/Speicherort
+
+Objektende
+
+Satzende
+
+Satzart
+
+Prüfsumme/Elektronische Freigabe
+
+Satzende
+
+IT in der Arztpraxis Katalog Basis Labor Muster Timestamp_Erstellung _Untersu- Patient war in Afrika! Bild der Entnahmestelle LDT 3 Use Cases, Version 3.2.19 *Nach einem Objektattribut folgt immer das*  *ObjektIdent des Objektes, auf welches das Objektattribut*  *verweist!*  *Objektende des bezeichneten Objektes.*
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+### 4. Use Case 4 – Laborauftrag im Rahmen der ASV
 
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0168145PatientObjektattribut 0178002Obj_0045ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742012Status Person 0133100GrafNamenszusatz 0123120vonVorsatzwort 0223101MusterpatientNachname 0133102KarlVorname 017310319600512Geburtsdatum 0173104Dr. med.Titel 0103110MGeschlecht 0228228WohnanschriftObjektattribut 0178002Obj_0007ObjektIdent 014311223456PLZ 0183113MusterortOrt 0263107Siegburger StraßeStraße 0143109425 bHausnummer 02231153. HinterhausAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende 0178003Obj_0047Objektende 0193119S040464113Versicherten-ID 0233000KAMUPA47112015Patientennummer 0178003Obj_0045Objektende 0288169KoerperkenngroessenObjektattribut 0178002Obj_0069ObjektIdent
-
-0123622185Größe der Person
-
-0118421cmEinheit des Meßwertes
-
-0268225Timestamp_MessungObjektattribut
-
-0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-013362398.6Gewicht der Person
-
-0118421kgEinheit des Meßwertes
-
-0268225Timestamp_MessungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0187279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0069Objektende 0288113AuftragsinformationObjektattribut 0178002Obj_0013ObjektIdent 020831047112345678Auftragsnummer des Einsenders 020831147112345678ID Auftragsnummer des Labors 01086113zusätzlicher Befundweg 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742010Status Person 0193101ZusatzarztNachname
-
-LDT 3 Use Cases, Version 3.2.19Seite 18 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0153102ThomasVorname 0233104Prof. Dr. med.Titel Geschaeftliche _Kommunikationsda- 0428233Objektattribut ten 0178002Obj_0031ObjektIdent 0277335[zusatzarzt@mail.de](mailto:zusatzarzt@mail.de)E-Mailadresse 0178003Obj_0031Objektende 0178003Obj_0047Objektende Timestamp_Erstellung _Untersu- 0548213Objektattribut chungsanforderung 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0187279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0013Objektende 0278127VeranlassungsgrundObjektattribut 0178002Obj_0027ObjektIdent 01073033Abrechnungsinfo zur Untersuchung 011841706Anlass der Untersuchung 011842704Spezifizierung des Veranlassungsgrundes 0218200AkutdiagnoseObjektattribut 0178002Obj_0100ObjektIdent 0146001C00.1ICD Code 0106003GDiagnosesicherheit 0106004RLokalisation
-
-0178003Obj_0100Objektende 0178003Obj_0027Objektende 0318101AbrechnungsinformationObjektattribut 0178002Obj_0001ObjektIdent 0238103Abrechnung_PKVObjektattribut
-
-0178002Obj_0003ObjektIdent
-
-01073621Abrechnungsart PKV
-
-01041213Gebührenordnung
-
-0218148RgEmpfaengerObjektattribut
-
-0178002Obj_0048ObjektIdent
-
-020831047112345678Auftragsnummer des Einsenders
-
-011742112Status Rechnungsempfänger
-
-0178108AdressatObjektattribut
-
-0178002Obj_0008ObjektIdent
-
-0158147PersonObjektattribut
-
-0178002Obj_0047ObjektIdent
-
-011742005Status Person 0133100GrafNamenszusatz 0123120vonVorsatzwort 0223101MusterpatientNachname 0133102KarlVorname 0173104Dr. med.Titel 0103110MGeschlecht 0278230RechnungsanschriftObjektattribut 0178002Obj_0007ObjektIdent 014312123456PostfachPLZ 0203122MusterstadtPostfach Ort / Stadt
-
-LDT 3 Use Cases, Version 3.2.19Seite 19von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  01331231234Postfach 0103124DPostfach Wohnsitzländercode 00912022Adresstyp 0178003Obj_0007Objektende 0368232Private_KommunikationsdatenObjektattribut 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0178003Obj_0031Objektende 0178003Obj_0047Objektende 0178003Obj_0008Objektende 0178003Obj_0048Objektende 0178003Obj_0003Objektende 0238103Abrechnung_PKVObjektattribut
-
-0178002Obj_0003ObjektIdent
-
-01073622Abrechnungsart PKV
-
-01041213Gebührenordnung
-
-0218148RgEmpfaengerObjektattribut
-
-0178002Obj_0048ObjektIdent
-
-020831047112345678Auftragsnummer des Einsenders
-
-011742102Status Rechnungsempfänger
-
-0178108AdressatObjektattribut
-
-0178002Obj_0008ObjektIdent
-
-0158147PersonObjektattribut
-
-0178002Obj_0047ObjektIdent
-
-011742002Status Person 0223101MusterarztNachname 0133102KlausVorname 0173104Dr. med.Titel 0103110MGeschlecht 0278230RechnungsanschriftObjektattribut 0178002Obj_0007ObjektIdent 014311212345PLZ 0213113MusterhausenOrt 0253107MusterarztstraßeStraße 011310926Hausnummer 0253115Vorderhaus linksAnschriftenzusatz 0103114DWohnsitzländercode 00912022Adresstyp 0178003Obj_0007Objektende 0368233Geschaeftliche_KommunikationsdatenObjektattribut 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0178003Obj_0031Objektende 0178003Obj_0047Objektende 0178003Obj_0008Objektende 0178003Obj_0048Objektende 0178003Obj_0003Objektende 0178003Obj_0001Objektende 0178137MaterialObjektattribut 0178002Obj_0037ObjektIdent 01973641234567802Probengefäß-Ident 011842902Probenmaterial Index 0118428SEProbenmaterial-Ident
-
-LDT 3 Use Cases, Version 3.2.19Seite 20von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-0148430SerumProbenmaterial-Bezeichnung
-
-0178431gefrorenProbenmaterial-Spezifikation Medikamenteneinnahme zum Zeitpunkt der Materialent- 01085041 nahme 0198170MedikamentObjektattribut
-
-0178002Obj_0070ObjektIdent
-
-0256208Arzneimittel XYZHandelsname des Arzneimittels
-
-0178003Obj_0070Objektende Timestamp_Materialabnahme_ent- 0428219Objektattribut nahme 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0037Objektende
-
-0178137MaterialObjektattribut
-
-0178002Obj_0037ObjektIdent
-
-01973641234567803Probengefäß-Ident
-
-011842903Probenmaterial Index
-
-0118428CBProbenmaterial-Ident
-
-0148430Citrat-BlutProbenmaterial-Bezeichnung Medikamenteneinnahme zum Zeitpunkt der Materialent- 01085041 nahme 0198170MedikamentObjektattribut
-
-0178002Obj_0070ObjektIdent
-
-0256208Arzneimittel XYZHandelsname des Arzneimittels
-
-0178003Obj_0070Objektende Timestamp_Materialabnahme_ent- 0428219Objektattribut nahme 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0037Objektende
-
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-01072604ID Katalog anforderbare Leistungen
-
-0337352www.musterlabor\lvz01.deURL Kataloge
-
-0297251Katalog Labor MusterBezeichnung des verwendeten Kataloges
-
-01373655896Analysen-ID
-
-0287366Hepatitis B AntigenLangbezeichnung der angeforderten Leistung
-
-01073033Abrechnungsinfo zur Untersuchung
-
-01973641234567802Probengefäß-Ident
-
-0118428SEProbenmaterial-Ident
-
-011842902Probenmaterial-Index Timestamp_Erstellung _Untersu- 0548213Objektattribut chungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-LDT 3 Use Cases, Version 3.2.19Seite 21 von66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0059Objektende
-
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-01072604ID Katalog anforderbare Leistungen
-
-0337352www.musterlabor\lvz02.deURL Kataloge
-
-0357251Katalog Basis Labor MusterBezeichnung des verwendeten Kataloges
-
-014736525K28Analysen-ID
-
-0147366QuickLangbezeichnung der angeforderten Leistung
-
-01073034Abrechnungsinfo zur Untersuchung
-
-01973641234567803Probengefäß-Ident
-
-0118428CBProbenmaterial-Ident
-
-011842903Probenmaterial-Index Timestamp_Erstellung _Untersu- 0548213Objektattribut chungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0059Objektende
-
-0368167Zusaetzliche_InformationenObjektattribut
-
-0178002Obj_0068ObjektIdent
-
-0313564Patient war in Afrika!Text
-
-0178003Obj_0068Objektende
-
-0158110AnhangObjektattribut
-
-0178002Obj_0010ObjektIdent
-
-0129970999Dokumententyp
-
-0136303JPEGDateiformat
-
-0326327Bild der EntnahmestelleBildinhalt / Dokumentinhalt (Beschreibung)
-
-0129908URLOriginaldokument: Pfad/Speicherort
-
-0178003Obj_0010Objektende
-
-01380018215Satzende
-
-01380008231Satzart
-
-0259300errechneter WertPrüfsumme/Elektronische Freigabe
-
-01380018231Satzende
-
-*Hinweis:*
-
-0158110Anhang*Nach einem Objektattribut folgt immer das* *ObjektIdent des Objektes, auf welches das Objektattribut* 0178002Obj_0010 *verweist!* 0178003Obj_0010*Objektende des bezeichneten Objektes.*
-
-LDT 3 Use Cases, Version 3.2.19Seite 22von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 4. Use
-
-**4.1.**
+**4.1. Beschreibung**
 
 **EINSENDER:**
 
@@ -1561,9 +1371,7 @@ ID: Labor27/12
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345
 
-Siegburger Straße 425 b
-
-3. Hinterhaus
+Siegburger Straße 425 b 3. Hinterhaus
 
 D-23456 Musterort
 
@@ -1603,16 +1411,6 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 LDT 3 Use Cases, Version 3.2.19
 
-### Case 4
-
-**Beschreibung**
-
-### –
-
-### Laborauftrag
-
-### im Rahmen der ASV
-
 Seite 23 von 66
 
 )
@@ -1620,13 +1418,7 @@ Seite 23 von 66
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  Material wurde am JJJJMMTT um HHmm entnommen
+**IT in der Arztpraxis**  LDT 3   Material wurde am JJJJMMTT um HHmm entnommen
 
 Probengefäß mit Nummer 1234567804 enthält Abstrich Vagina
 
@@ -1636,11 +1428,11 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 ### UNTERSUCHUNGSANFORDERUNG:
 
-Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Laborfacharzt (ASV)
+Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch  Laborfacharzt (ASV)
 
 Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
 
-Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter bor\lvz001.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre- ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor- dert (ASV)
+Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter www.musterla- bor\lvz001.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre- ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor- dert (ASV)
 
 ### ABRECHNUNGSINFORMATION:
 
@@ -1650,15 +1442,13 @@ Anforderung für Laborgemeinschaft, kurativ
 
 ### ZUSATZINFORMATIONEN:
 
--Zusätzlicher Befundweg per Fax
+- Zusätzlicher Befundweg per Fax - Patientin war in Afrika!
 
--Patientin war in Afrika!
-
--Ein Bild der Entnahmestelle liegt als JPEG unter URL vor
+- Ein Bild der Entnahmestelle liegt als JPEG unter URL vor
 
 ### HINWEIS:
 
-Sobald ein Labor zu einem ASV-Team gehört, ist diesem der Umfang der Leistungen, die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge- rechnet, wird zusätzlich zu der GOP die ASV Teamnummer im Abrechnungsdatensatz mit übermittelt.
+Sobald ein Labor zu einem ASV-Team gehört, ist diesem der Umfang der Leistungen,  die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge- rechnet, wird zusätzlich zu der GOP die ASV Teamnummer im Abrechnungsdatensatz  mit übermittelt.
 
 Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinausge- hen, werden wie alle anderen GKV Leistungen gegenüber der KV abgerechnet.
 
@@ -1666,161 +1456,177 @@ Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinau
 
 ### Muster LDT mit Beschreibung der Feldkennungen
 
-**Feldlänge** 013 018 017 017 025 017 019 019 025 019 018 017
+**Feldlänge**  013  018  017  017  025  017  019  019  025  019  018  017
 
 LDT 3 Use Cases, Version 3.2.19
 
-**FK** 8000 8132 8002 0001 8151 8002 8315 8316 0105 0103 0132 8003
+**FK**  8000  8132  8002  0001  8151  8002  8315  8316  0105  0103  0132  8003
 
-**Feldinhalt** 8230 Kopfdaten Obj_0032 LDT3.2.19 Sendendes_System Obj_0051 Labor27/12 Arzt123456 a/nn/JJMM/MM/aaa Muster PVS 8.12.0.95 Obj_0051
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051
 
 Seite 24 von 66
 
-**Beschreibung** Satzart Objektattribut ObjektIdent Version der Datensatzbeschreibung Objektattribut ObjektIdent ID des Empfängers ID des Senders KBV-Prüfnummer Software/Name der Software Version/Releasestand der Software Objektende
-
-www.musterla-
+**Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | Timestamp_Erstellung | _Daten | - |  |  |  |
+|  | 039 | 8218 |  |  |  |  | Objektattribut |  |  |
+|  |  |  | satz |  |  |  |  |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  | ObjektIdent |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  | Datum | des | Timestamp |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  | Uhrzeit | des | Timestamp |  |
+|  | 014 | 7273 | UTC+1 |  |  | Zeitzone |  |  |  |
+|  | 029 | 8235 |  | Person_zum_Timestamp | |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  | ObjektIdent |  |  |
+|  | 011 | 7420 | 02 |  |  | Status | der | Person |  |
+|  | 019 | 3101 | Musterarzt |  |  | Nachname |  |  |  |
+|  | 014 | 3102 | Klaus |  |  | Vorname |  |  |  |
+|  | 017 | 3104 | Dr. med. |  |  | Titel |  |  |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0032 |  |  |  | Objektende |  |  |
+|  | 010 | 7265 | 1 |  |  | Absender | des | Datensatzes |  |
+|  | 032 | 8122 |  | Einsenderidentifikation |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0022 |  |  |  | ObjektIdent |  |  |
+|  | 010 | 7321 | 01 |  |  | Status | Einsender |  |  |
+|  | 013 | 8312 | 4711 |  |  |  | Kunden-(Arzt)Nummer | |  |
+|  | 027 | 8114 |  | Arztidentifikation |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0014 |  |  |  | ObjektIdent |  |  |
+|  | 015 | 8147 | Person |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  | ObjektIdent |  |  |
+|  | 011 | 7420 | 02 |  |  | Status | der | Person |  |
+|  | 019 | 3101 | Musterarzt |  |  | Nachname |  |  |  |
+|  | 014 | 3102 | Klaus |  |  | Vorname |  |  |  |
+|  | 017 | 3104 | Dr. med. |  |  | Titel |  |  |  |
+|  | 012 | 8990 | KMu |  |  |  | Namenskürzel | / | Namenszeichen |
+|  |  |  |  | Geschaeftliche | _Kommunikati- |  |  |  |  |
+|  | 043 | 8233 |  |  |  |  | Objektattribut |  |  |
+|  |  |  | onsdaten |  |  |  |  |  |  |
+|  | 017 | 8002 | Obj_0031 |  |  |  | ObjektIdent |  |  |
+|  | 030 | 7330 |  | +LK_Vorwahl_Rufnummer | |  | Telefonnummer |  |  |
+|  | 030 | 7331 |  | +LK_Vorwahl_Rufnummer | |  | Mobiltelefonnummer | |  |
+|  | 030 | 7333 |  | +LK_Vorwahl_Rufnummer | |  | Faxnummer |  |  |
+|  | 030 | 7335 |  | dr.musterarzt@mail.de | |  | E-Mailadresse |  |  |
+|  | 026 | 7334 |  | www.musterarzt.de |  |  | Webadresse |  |  |
+|  | 017 | 8003 | Obj_0031 |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  | Objektende |  |  |
+|  | 018 | 0212 | 991234567 |  |  |  | Lebenslange | Arztnummer | (LANR) |
+|  | 018 | 0222 | 00123456P |  |  |  | ASV-Teamnummer | |  |
+|  | 017 | 8003 | Obj_0014 |  |  |  | Objektende |  |  |
+|  | 024 | 8119 |  | Betriebsstaette |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0019 |  |  |  | ObjektIdent |  |  |
+|  | 010 | 0204 | 1 |  |  | Status | der | Betriebsstätte |  |
+|  | 010 | 0204 | 5 |  |  | Status | der | Betriebsstätte |  |
+|  | 030 | 0203 | Praxis | Dr. Musterarzt |  |  | (N)BSNR-Bezeichnung | |  |
+|  |  |  |  |  |  | Betriebs- | (BSNR) | oder |  |
+|  | 018 | 0201 | 123456789 |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | Nebenbetriebsstättennummer | (NBSNR) |
+|  | 021 | 8143 | Organisation |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0043 |  |  |  | ObjektIdent |  |  |
+|  | 030 | 1250 | Praxis | Dr. Musterarzt |  |  | Organisation / | Firma |  |
+|  | 032 | 8229 |  | Anschrift_Arbeitsstelle |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  | ObjektIdent |  |  |
+|  | 014 | 3112 | 12345 |  |  | PLZ |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite 25 | von 66 |  |  |  |
 
+IT in der Arztpraxis Timestamp_Erstellung _Daten Geschaeftliche _Kommunikati- Praxis Dr. Musterarzt Praxis Dr. Musterarzt LDT 3 Use Cases, Version 3.2.19 Datum des Timestamp Uhrzeit des Timestamp Status der Person Absender des Datensatzes Status Einsender Status der Person Namenskürzel / Namenszeichen Lebenslange Arztnummer (LANR) Status der Betriebsstätte Status der Betriebsstätte Betriebs- (BSNR) oder  Nebenbetriebsstättennummer (NBSNR)  Organisation / Firma
 
+---
+
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 021 | 3113 |  | Musterhausen |  |  | Ort |  |  |
+|  | 025 | 3107 |  | Musterarztstraße |  |  | Straße |  |  |
+|  | 011 | 3109 | 26 |  |  |  |  | Hausnummer |  |
+|  | 025 | 3115 | Vorderhaus | links |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode | |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 028 | 8131 |  | Kommunikationsdaten | |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0031 |  |  |  |  | ObjektIdent |  |
+|  | 030 | 7330 |  | +LK_Vorwahl_Rufnummer | |  |  | Telefonnummer |  |
+|  | 030 | 7331 |  | +LK_Vorwahl_Rufnummer | |  |  | Mobiltelefonnummer | |
+|  | 030 | 7333 |  | +LK_Vorwahl_Rufnummer | |  |  | Faxnummer |  |
+|  | 030 | 7335 |  | dr.musterarzt@mail.de | |  |  | E-Mailadresse |  |
+|  | 026 | 7334 |  | www.musterarzt.de |  |  |  | Webadresse |  |
+|  | 017 | 8003 | Obj_0031 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0043 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0019 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0022 |  |  |  |  | Objektende |  |
+|  | 013 | 8001 | 8230 |  |  |  |  | Satzende |  |
+|  | 013 | 8000 | 8215 |  |  |  | Satzart |  |  |
+|  | 016 | 8145 | Patient |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0045 |  |  |  |  | ObjektIdent |  |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 12 |  |  |  | Status | Person |  |
+|  | 022 | 3101 |  | Musterpatientin |  |  |  | Nachname |  |
+|  | 013 | 3102 | Karla |  |  |  |  | Vorname |  |
+|  | 017 | 3103 | 19600512 |  |  |  |  | Geburtsdatum |  |
+|  | 010 | 3110 | W |  |  |  |  | Geschlecht |  |
+|  | 022 | 8228 |  | Wohnanschrift |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  |  | ObjektIdent |  |
+|  | 014 | 3112 | 23456 |  |  |  | PLZ |  |  |
+|  | 018 | 3113 | Musterort |  |  |  | Ort |  |  |
+|  | 026 | 3107 | Siegburger | Straße |  |  | Straße |  |  |
+|  | 014 | 3109 | 425 b |  |  |  |  | Hausnummer |  |
+|  | 022 | 3115 | 3. | Hinterhaus |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode | |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |
+|  | 019 | 3119 |  | S040464113 |  |  |  | Versicherten-ID |  |
+|  | 021 | 3000 |  | PMUFR2312345 |  |  |  | Patientennummer |  |
+|  | 017 | 8003 | Obj_0045 |  |  |  |  | Objektende |  |
+|  | 017 | 8150 |  | Schwangerschaft |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0050 |  |  |  |  | ObjektIdent |  |
+|  | 012 | 8511 | 235 |  |  |  |  | Schwangerschaftsdauer | |
+|  | 017 | 8512 | 20151015 |  |  |  | 1.Tag | des | letzten Zyklus |
+|  | 017 | 8003 | Obj_0050 |  |  |  |  | Objektende |  |
+|  | 017 | 8140 |  | Mutterschaft |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0040 |  |  |  |  | ObjektIdent |  |
+|  | 011 | 3668 | 03 |  |  |  | Anzahl |  | Schwangerschaften |
+|  | 011 | 3664 | 02 |  |  |  | Anzahl | Geburten |  |
+|  | 011 | 3666 | 02 |  |  |  | Anzahl | Kinder |  |
+|  | 017 | 8003 | Obj_0040 |  |  |  |  | Objektende |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 26 von | 66 |  |  |
+
+IT in der Arztpraxis Vorderhaus links Status Person Siegburger Straße 3. Hinterhaus 1.Tag des letzten Zyklus Anzahl Schwangerschaften Anzahl Geburten Anzahl Kinder LDT 3 Use Cases, Version 3.2.19 Seite 26  von 66
+
+---
+
+**IT in der Arztpraxis**  LDT 3   028 8113 Auftragsinformation Objektattribut  017 8002 Obj_0013 ObjektIdent  020 8310 47112345678 Auftragsnummer des Einsenders  020 8311 47112345678 ID Auftragsnummer des Labors  010 8611 2 zusätzlicher Befundweg  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 02 Status der Person  019 3101 Musterarzt Nachname  014 3102 Klaus Vorname  017 3104 Dr. med. Titel  Geschaeftliche _Kommunikati- 043 8233 Objektattribut  onsdaten  017 8002 Obj_0031 ObjektIdent  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  Timestamp_Erstellung _Unter- 054 8213 Objektattribut  suchungsanforderung  017 8002 Obj_0054 ObjektIdent  017 7278 JJJJMMTT Datum des Timestamp  018 7279 HHmmss(ms) Uhrzeit des Timestamp  014 7273 UTC+1 Zeitzone  017 8003 Obj_0054 Objektende  017 8003 Obj_0013 Objektende  027 8127 Veranlassungsgrund Objektattribut  017 8002 Obj_0027 ObjektIdent  011 7303 11 Abrechnungsinfo zur Untersuchung  011 8417 06 Anlass der Untersuchung  011 8427 04 Spezifizierung des Veranlassungsgrundes  021 8200 Akutdiagnose Objektattribut  017 8002 Obj_0100 ObjektIdent  014 6001 C00.1 ICD Code  010 6003 G Diagnosesicherheit  010 6004 R Lokalisation
+
+017 8003 Obj_0100 Objektende  017 8003 Obj_0027 Objektende  031 8101 Abrechnungsinformation Objektattribut  017 8002 Obj_0001 ObjektIdent  023 8102 Abrechnung_GKV Objektattribut 017 8002 Obj_0002 ObjektIdent
+
+011 4239 27 Scheinuntergruppe
+
+020 4134 Musterkasse Kostenträgername
+
+014 4104 78945 Abrechnungs-VKNR
+
+011 4106 00 Kostenträger-Abrechnungsbereich (KTAB) 011 3116 00 WOP
+
+010 3108 1 Versichertenart
+
+018 4111 123456789 Kostenträgerkennung 011 4122 00 Abrechnungsgebiet
+
+010 4221 1 Kurativ / Präventiv / ESS / bei belegärztl. Behandlung 017 8003 Obj_0002 Objektende
+
+023 8102 Abrechnung_GKV Objektattribut 017 8002 Obj_0002 ObjektIdent
+
+LDT 3 Use Cases, Version 3.2.19 Seite 27 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  Timestamp_Erstellung _Daten 0398218 satz 0178002Obj_0054 0177278JJJJMMTT 0187279HHmmss(ms) 0147273UTC+1 0298235Person_zum_Timestamp 0178002Obj_0047 011742002 0193101Musterarzt 0143102Klaus 0173104Dr. med. 0178003Obj_0047 0178003Obj_0054 0178003Obj_0032 01072651 0328122Einsenderidentifikation 0178002Obj_0022 010732101 01383124711 0278114Arztidentifikation 0178002Obj_0014 0158147Person 0178002Obj_0047 011742002 0193101Musterarzt 0143102Klaus 0173104Dr. med. 0128990KMu Geschaeftliche _Kommunikati- 0438233 onsdaten 0178002Obj_0031 0307330+LK_Vorwahl_Rufnummer 0307331+LK_Vorwahl_Rufnummer 0307333+LK_Vorwahl_Rufnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) 0267334www.musterarzt.de 0178003Obj_0031 0178003Obj_0047 0180212991234567 018022200123456P 0178003Obj_0014 0248119Betriebsstaette 0178002Obj_0019 01002041 01002045 0300203Praxis Dr. Musterarzt
+**IT in der Arztpraxis**  LDT 3
 
-0180201123456789
-
-0218143Organisation 0178002Obj_0043 0301250Praxis Dr. Musterarzt
-
-0328229Anschrift_Arbeitsstelle
-
-0178002Obj_0007
-
-014311212345
-
-LDT 3 Use Cases, Version 3.2.19
-
-- Objektattribut
-
-ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Objektende Objektende Objektende Absender des Datensatzes Objektattribut ObjektIdent Status Einsender Kunden-(Arzt)Nummer Objektattribut ObjektIdent Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Namenskürzel / Namenszeichen
-
-Objektattribut
-
-ObjektIdent Telefonnummer Mobiltelefonnummer Faxnummer E-Mailadresse Webadresse Objektende Objektende Lebenslange Arztnummer (LANR) ASV-Teamnummer Objektende Objektattribut ObjektIdent Status der Betriebsstätte Status der Betriebsstätte (N)BSNR-Bezeichnung Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR) Objektattribut ObjektIdent Organisation / Firma
-
-Objektattribut
-
-ObjektIdent
-
-PLZ
-
-Seite 25von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-0213113MusterhausenOrt
-
-0253107MusterarztstraßeStraße
-
-011310926Hausnummer
-
-0253115Vorderhaus linksAnschriftenzusatz
-
-0103114DWohnsitzländercode
-
-0178003Obj_0007Objektende
-
-0288131KommunikationsdatenObjektattribut
-
-0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 0178003Obj_0022Objektende 01380018230Satzende 01380008215Satzart 0168145PatientObjektattribut 0178002Obj_0045ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742012Status Person 0223101MusterpatientinNachname 0133102KarlaVorname 017310319600512Geburtsdatum 0103110WGeschlecht 0228228WohnanschriftObjektattribut 0178002Obj_0007ObjektIdent 014311223456PLZ 0183113MusterortOrt 0263107Siegburger StraßeStraße 0143109425 bHausnummer 02231153. HinterhausAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende 0178003Obj_0047Objektende 0193119S040464113Versicherten-ID 0213000PMUFR2312345Patientennummer 0178003Obj_0045Objektende Schwangerschaft0178150Objektattribut 0178002Obj_0050ObjektIdent
-
-0128511235Schwangerschaftsdauer
-
-0178512201510151.Tag des letzten Zyklus
-
-0178003Obj_0050Objektende
-
-0178140MutterschaftObjektattribut
-
-0178002Obj_0040ObjektIdent
-
-011366803Anzahl Schwangerschaften
-
-011366402Anzahl Geburten
-
-011366602Anzahl Kinder
-
-0178003Obj_0040Objektende
-
-LDT 3 Use Cases, Version 3.2.19Seite 26von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0288113AuftragsinformationObjektattribut 0178002Obj_0013ObjektIdent 020831047112345678Auftragsnummer des Einsenders 020831147112345678ID Auftragsnummer des Labors 01086112zusätzlicher Befundweg 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742002Status der Person 0193101MusterarztNachname 0143102KlausVorname 0173104Dr. med.Titel Geschaeftliche _Kommunikati- 0438233Objektattribut onsdaten 0178002Obj_0031ObjektIdent 0307333+LK_Vorwahl_RufnummerFaxnummer 0178003Obj_0031Objektende 0178003Obj_0047Objektende Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0187279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0013Objektende 0278127VeranlassungsgrundObjektattribut 0178002Obj_0027ObjektIdent 011730311Abrechnungsinfo zur Untersuchung 011841706Anlass der Untersuchung 011842704Spezifizierung des Veranlassungsgrundes 0218200AkutdiagnoseObjektattribut 0178002Obj_0100ObjektIdent 0146001C00.1ICD Code 0106003GDiagnosesicherheit 0106004RLokalisation
-
-0178003Obj_0100Objektende 0178003Obj_0027Objektende 0318101AbrechnungsinformationObjektattribut 0178002Obj_0001ObjektIdent 0238102Abrechnung_GKVObjektattribut
-
-0178002Obj_0002ObjektIdent
-
-011423927Scheinuntergruppe
-
-0204134MusterkasseKostenträgername
-
-014410478945Abrechnungs-VKNR
-
-011410600Kostenträger-Abrechnungsbereich (KTAB)
-
-011311600WOP
-
-01031081Versichertenart
-
-0184111123456789Kostenträgerkennung
-
-011412200Abrechnungsgebiet
-
-01042211Kurativ / Präventiv / ESS / bei belegärztl. Behandlung
-
-0178003Obj_0002Objektende
-
-0238102Abrechnung_GKVObjektattribut
-
-0178002Obj_0002ObjektIdent
-
-LDT 3 Use Cases, Version 3.2.19Seite 27von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-LDT 3 Use Cases, Version 3.2.19
-
-011
+LDT 3 Use Cases, Version 3.2.19 011
 
 020
 
@@ -1836,9 +1642,7 @@ LDT 3 Use Cases, Version 3.2.19
 
 010
 
-017 017 017 017 019 011 011
-
-014
+017  017  017  017  019  011  011 014
 
 017
 
@@ -1918,9 +1722,7 @@ LDT 3 Use Cases, Version 3.2.19
 
 4221
 
-8003 8003 8137 8002 7364 8429 8428
-
-8430
+8003  8003  8137  8002  7364  8429  8428 8430
 
 8431
 
@@ -1986,9 +1788,7 @@ LDT 3 Use Cases, Version 3.2.19
 
 28
 
-Musterkasse
-
-78945
+Musterkasse 78945
 
 00
 
@@ -2000,13 +1800,11 @@ Musterkasse
 
 1
 
-Obj_0002 Obj_0001 Material Obj_0037 1234567802 02 SE
+Obj_0002  Obj_0001  Material  Obj_0037  1234567802  02  SE
 
 Serum
 
-gefroren
-
-1
+gefroren 1
 
 Medikament
 
@@ -2014,7 +1812,7 @@ Obj_0070
 
 Arzneimittel XYZ
 
-Obj_0070 Timestamp_Materialab _entnahme Obj_0054
+Obj_0070  Timestamp_Materialab _entnahme  Obj_0054
 
 JJJJMMTT
 
@@ -2026,17 +1824,13 @@ Obj_0054
 
 Fehlermeldung_Aufmerksamkeit
 
-Obj_0026
-
-5
+Obj_0026 5
 
 1
 
 Person
 
-Obj_0047
-
-02
+Obj_0047 02
 
 Musterarzt
 
@@ -2052,9 +1846,7 @@ Obj_0037
 
 Material
 
-Obj_0037
-
-1234567803
+Obj_0037 1234567803
 
 03
 
@@ -2078,17 +1870,17 @@ Abrechnungsgebiet
 
 Kurativ / Präventiv / ESS / bei belegärztl. Behandlung
 
-Objektende Objektende Objektattribut ObjektIdent Probengefäß-Ident Probenmaterial Index Probenmaterial-Ident
+Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme Objektattribut
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme  Objektattribut
 
 ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende nahme Objektattribut
+Objektende  nahme  Objektattribut
 
 ObjektIdent
 
@@ -2138,341 +1930,223 @@ Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Seite 28von 66
+Seite 28 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3   Medikamenteneinnahme zum Zeitpunkt der Materialent- 010 8504 1  nahme  019 8170 Medikament Objektattribut 017 8002 Obj_0070 ObjektIdent
 
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
 
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme  042 8219 Objektattribut  _entnahme  017 8002 Obj_0054 ObjektIdent
 
+017 7278 JJJJMMTT Datum des Timestamp
 
----
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-**IT in der Arztpraxis** LDT 3  Medikamenteneinnahme zum Zeitpunkt der Materialent- 01085041 nahme 0198170MedikamentObjektattribut
+017 8003 Obj_0054 Objektende
 
-0178002Obj_0070ObjektIdent
+017 8003 Obj_0037 Objektende
 
-0256208Arzneimittel XYZHandelsname des Arzneimittels
+017 8137 Material Objektattribut 017 8002 Obj_0037 ObjektIdent
 
-0178003Obj_0070Objektende Timestamp_Materialabnahme 0428219Objektattribut _entnahme 0178002Obj_0054ObjektIdent
+019 7364 1234567804 Probengefäß-Ident
 
-0177278JJJJMMTTDatum des Timestamp
+011 8429 04 Probenmaterial Index
 
-0187279HHmmss(ms)Uhrzeit des Timestamp
+011 8428 AB Probenmaterial-Ident
 
-0147273UTC+1Zeitzone
+014 8430 Abstrich Probenmaterial-Bezeichnung
 
-0178003Obj_0054Objektende
+015 7292 Vagina Lokalisation Probenmaterial  Medikamenteneinnahme zum Zeitpunkt der Materialent- 010 8504 1  nahme  019 8170 Medikament Objektattribut 017 8002 Obj_0070 ObjektIdent
 
-0178003Obj_0037Objektende
+025 6208 Arzneimittel XYZ Handelsname des Arzneimittels
 
-0178137MaterialObjektattribut
+017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme  042 8219 Objektattribut  _entnahme  017 8002 Obj_0054 ObjektIdent
 
-0178002Obj_0037ObjektIdent
+017 7278 JJJJMMTT Datum des Timestamp
 
-01973641234567804Probengefäß-Ident
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-011842904Probenmaterial Index
+017 8003 Obj_0054 Objektende
 
-0118428ABProbenmaterial-Ident
+017 8003 Obj_0037 Objektende
 
-0148430AbstrichProbenmaterial-Bezeichnung
+033 8159 Untersuchungsanforderung Objektattribut 017 8002 Obj_0059 ObjektIdent
 
-0157292VaginaLokalisation Probenmaterial Medikamenteneinnahme zum Zeitpunkt der Materialent- 01085041 nahme 0198170MedikamentObjektattribut
+015 8410 HBs-Ag Test-Ident
 
-0178002Obj_0070ObjektIdent
+028 8411 Hepatitis B Antigen Testbezeichnung
 
-0256208Arzneimittel XYZHandelsname des Arzneimittels
+010 7303 8 Abrechnungsinfo zur Untersuchung 010 8501 1 Dringlichkeit
 
-0178003Obj_0070Objektende Timestamp_Materialabnahme 0428219Objektattribut _entnahme 0178002Obj_0054ObjektIdent
+019 7364 1234567802 Probengefäß-Ident
 
-0177278JJJJMMTTDatum des Timestamp
+011 8428 SE Probenmaterial-Ident
 
-0187279HHmmss(ms)Uhrzeit des Timestamp
+011 8429 02 Probenmaterial-Index  Timestamp_Erstellung _Unter- 054 8213 Objektattribut  suchungsanforderung  017 8002 Obj_0054 ObjektIdent
 
-0147273UTC+1Zeitzone
+017 7278 JJJJMMTT Datum des Timestamp
 
-0178003Obj_0054Objektende
+018 7279 HHmmss(ms) Uhrzeit des Timestamp 014 7273 UTC+1 Zeitzone
 
-0178003Obj_0037Objektende
+017 8003 Obj_0054 Objektende
 
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-0158410HBs-AgTest-Ident
-
-0288411Hepatitis B AntigenTestbezeichnung
-
-01073038Abrechnungsinfo zur Untersuchung
-
-01085011Dringlichkeit
-
-01973641234567802Probengefäß-Ident
-
-0118428SEProbenmaterial-Ident
-
-011842902Probenmaterial-Index Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-LDT 3 Use Cases, Version 3.2.19Seite 29 von 66
+LDT 3 Use Cases, Version 3.2.19 Seite 29 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |  |  |
+|  | 017 | 8003 | Obj_0059 | |  |  |  | Objektende |  |  |  |
+|  | 033 | 8159 |  |  | Untersuchungsanforderung | |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0059 | |  |  |  | ObjektIdent |  |  |  |
+|  | 011 | 8410 | Qu |  |  |  | Test-Ident |  |  |  |  |
+|  | 014 | 8411 | Quick |  |  |  |  | Testbezeichnung |  |  |  |
+|  | 010 | 7303 | 2 |  |  |  |  | Abrechnungsinfo | zur | Untersuchung |  |
+|  | 019 | 7364 |  | 1234567803 |  |  |  | Probengefäß-Ident |  |  |  |
+|  | 011 | 8428 | CB |  |  |  |  | Probenmaterial-Ident | |  |  |
+|  | 011 | 8429 | 03 |  |  |  |  | Probenmaterial-Index | |  |  |
+|  |  |  |  | Timestamp_Erstellung | | _Unter- |  |  |  |  |  |
+|  | 054 | 8213 |  |  |  |  |  | Objektattribut |  |  |  |
+|  |  |  |  | suchungsanforderung | |  |  |  |  |  |  |
+|  | 017 | 8002 | Obj_0054 | |  |  |  | ObjektIdent |  |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  | Datum | des | Timestamp |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |  |  |
+|  | 017 | 8003 | Obj_0054 | |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 | Obj_0059 | |  |  |  | Objektende |  |  |  |
+|  | 033 | 8159 |  |  | Untersuchungsanforderung | |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0059 | |  |  |  | ObjektIdent |  |  |  |
+|  | 010 | 7260 | 4 |  |  |  | ID | Katalog | anforderbare | Leistungen |  |
+|  | 033 | 7352 |  |  | www.musterlabor\lvz01.de | | URL | Kataloge |  |  |  |
+|  | 027 | 7251 | LVZ | Musterlabor | 01 |  |  | Bezeichnung des | verwendeten | | Kataloges |
+|  | 016 | 7365 | 8954B47 |  |  |  |  | Analysen-ID |  |  |  |
+|  | 028 | 7366 |  | Erreger+Resistenz | |  |  | Langbezeichnung | der | angeforderten | Leistung |
+|  | 010 | 7303 | 8 |  |  |  |  | Abrechnungsinfo | zur | Untersuchung |  |
+|  | 019 | 7364 |  | 1234567804 |  |  |  | Probengefäß-Ident |  |  |  |
+|  | 011 | 8428 | AB |  |  |  |  | Probenmaterial-Ident | |  |  |
+|  | 011 | 8429 | 04 |  |  |  |  | Probenmaterial-Index | |  |  |
+|  |  |  |  | Timestamp_Erstellung | | _Unter- |  |  |  |  |  |
+|  | 054 | 8213 |  |  |  |  |  | Objektattribut |  |  |  |
+|  |  |  |  | suchungsanforderung | |  |  |  |  |  |  |
+|  | 017 | 8002 | Obj_0054 | |  |  |  | ObjektIdent |  |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  | Datum | des | Timestamp |  |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |  |  |
+|  | 017 | 8003 | Obj_0054 | |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 | Obj_0059 | |  |  |  | Objektende |  |  |  |
+|  | 036 | 8167 |  |  | Zusaetzliche_Informationen | |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0068 | |  |  |  | ObjektIdent |  |  |  |
+|  | 033 | 3564 | Patientin | war | in Afrika! |  | Text |  |  |  |  |
+|  | 017 | 8003 | Obj_0068 | |  |  |  | Objektende |  |  |  |
+|  | 015 | 8110 | Anhang |  |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0010 | |  |  |  | ObjektIdent |  |  |  |
+|  | 012 | 9970 | 999 |  |  |  |  | Dokumententyp |  |  |  |
+|  | 013 | 6303 | JPEG |  |  |  |  | Dateiformat |  |  |  |
+|  | 032 | 6327 | Bild | der | Entnahmestelle |  | Bildinhalt | / | Dokumentinhalt |  | (Beschreibung) |
+|  | 012 | 9908 | URL |  |  |  |  | Originaldokument: |  | Pfad/Speicherort |  |
+|  | 017 | 8003 | Obj_0010 | |  |  |  | Objektende |  |  |  |
+|  | 013 | 8001 | 8215 |  |  |  | Satzende |  |  |  |  |
+|  | 013 | 8000 | 8231 |  |  |  | Satzart |  |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  |  | Seite 30 | von 66 |  |  |  |  |
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-0178003Obj_0059Objektende
-
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-0118410QuTest-Ident
-
-0148411QuickTestbezeichnung
-
-01073032Abrechnungsinfo zur Untersuchung
-
-01973641234567803Probengefäß-Ident
-
-0118428CBProbenmaterial-Ident
-
-011842903Probenmaterial-Index Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0059Objektende
-
-0338159UntersuchungsanforderungObjektattribut
-
-0178002Obj_0059ObjektIdent
-
-01072604ID Katalog anforderbare Leistungen
-
-0337352www.musterlabor\lvz01.deURL Kataloge
-
-0277251LVZ Musterlabor 01Bezeichnung des verwendeten Kataloges
-
-01673658954B47Analysen-ID
-
-0287366Erreger+ResistenzLangbezeichnung der angeforderten Leistung
-
-01073038Abrechnungsinfo zur Untersuchung
-
-01973641234567804Probengefäß-Ident
-
-0118428ABProbenmaterial-Ident
-
-011842904Probenmaterial-Index Timestamp_Erstellung _Unter- 0548213Objektattribut suchungsanforderung 0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-0178003Obj_0059Objektende
-
-0368167Zusaetzliche_InformationenObjektattribut
-
-0178002Obj_0068ObjektIdent
-
-0333564Patientin war in Afrika!Text
-
-0178003Obj_0068Objektende
-
-0158110AnhangObjektattribut
-
-0178002Obj_0010ObjektIdent
-
-0129970999Dokumententyp
-
-0136303JPEGDateiformat
-
-0326327Bild der EntnahmestelleBildinhalt / Dokumentinhalt (Beschreibung)
-
-0129908URLOriginaldokument: Pfad/Speicherort
-
-0178003Obj_0010Objektende
-
-01380018215Satzende
-
-01380008231Satzart
-
-LDT 3 Use Cases, Version 3.2.19Seite 30von 66
-
+IT in der Arztpraxis Abrechnungsinfo zur Untersuchung Timestamp_Erstellung _Unter- Datum des Timestamp Uhrzeit des Timestamp ID Katalog anforderbare Leistungen URL Kataloge LVZ Musterlabor 01 Bezeichnung des verwendeten Kataloges Langbezeichnung der angeforderten Leistung Abrechnungsinfo zur Untersuchung Timestamp_Erstellung _Unter- Datum des Timestamp Uhrzeit des Timestamp Patientin war in Afrika! Bild der Entnahmestelle Bildinhalt / Dokumentinhalt (Beschreibung) Originaldokument: Pfad/Speicherort LDT 3 Use Cases, Version 3.2.19
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-0259300errechneter WertPrüfsumme/Elektronische Freigabe
-
-01380018231Satzende
+025 9300 errechneter Wert Prüfsumme/Elektronische Freigabe 013 8001 8231 Satzende
 
 *Hinweis:*
 
-0158110Anhang*Nach einem Objektattribut folgt immer das* *ObjektIdent des Objektes, auf welches das Objektattribut* 0178002Obj_0010 *verweist!* 0178003Obj_0010*Objektende des bezeichneten Objektes.*
+015 8110 Anhang *Nach einem Objektattribut folgt immer das*  *ObjektIdent des Objektes, auf welches das Objektattribut*  017 8002 Obj_0010  *verweist!*  017 8003 Obj_0010 *Objektende des bezeichneten Objektes.*
 
-LDT 3 Use Cases, Version 3.2.19Seite 31 von 66
-
-
----
-
-
-
+LDT 3 Use Cases, Version 3.2.19 Seite 31 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-### 5. Use Case 5
-
-### –
-
-### Befund zu Use
-
-**5.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte)
-
-ID: Labor27/12
-
-Laborstraße 24
-
-Eingang links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm entnommen
+| 5. | Use | Case | 5 – | Befund | zu | Use Case | 1 |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| 5.1. |  | Beschreibung | |  |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |
+| Praxis | Dr. |  | Musterarzt | BSNR | 123456789 | | (Arztpraxis, |  | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus | Musterarzt | | LANR | 991234567 |  |  |
+| ID: |  | Arzt123456, |  | Kundennummer | 4711 |  |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |
+|  | Vorderhaus | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen |  |  |  |  |  |  |
+| Tel.-, |  | Fax-, | Mobilnummer | im | Datensatz | | angegeben |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |
+|  | Laborarztpraxis | |  | Mueller/Meier | BSNR | 234567891 | | (Laborarztpraxis, | |
+| ID: | Labor27/12 | |  |  |  |  |  |  |  |
+|  | Laborstraße | 24 |  |  |  |  |  |  |  |
+| Eingang |  | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen |  |  |  |  |  |  |
+| Tel.-, |  | Fax-, | Mobilnummer | im | Datensatz | | angegeben |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient |  | (Patienten-ID | im | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |
+|  | Siegburger | Straße | 425 | b |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |
+|  | Geschlecht: |  | männlich |  |  |  |  |  |  |
+|  | Geb.-Datum: |  | 05.12.1960 | |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 |  |  |  |  |  |  |
+| Kasse: |  | Musterkasse | |  |  |  |  |  |  |
+| VKNR: |  | 78945 |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | |  | 123456789 |  |  |  |  |
+|  | MATERIAL: |  |  |  |  |  |  |  |  |
+|  | Probengefäß | mit |  | Nummer | 1234567802 | enthält | Serum |  | (gefroren) |
+|  | Probengefäß | mit | Nummer |  | 1234567803 | enthält |  | Citrat-Blut |  |
+|  | Patient | hat | während | der | Probenentnahme | | Arzneimittel | | XYZ verabreicht |
+|  | Material | wurde | am | JJJJMMTT | um | HHmm | entnommen |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-### Case 1
-
 Seite 32 von 66
 
+5. Use Case 5 – Befund zu Use Case 1 Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte) ID: Labor27/12 Laborstraße 24 Eingang links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm entnommen
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+|  | UNTERSUCHUNGSERGEBNISSE: | | |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| Untersuchung | | Hepatitis-B-Antigen | | aus | Serum |  | (Probengefäß | 1234567802) |
+| Methode1 | durchgeführt | und | hat ein |  | Ergebnis | mit Wert | ergeben. | Der |
+| ist „++“. | Der | Normalwert wird |  | beschrieben. | Die | GOP wird |  | mitgeteilt. Die |
+| geschlossen. |  |  |  |  |  |  |  |  |
+| Untersuchung | Quick | aus | Citrat-Blut | | (Probengefäß | | 1234567803) | wurde |
+| durchgeführt | und hat | ein | Ergebnis | mit | Wert | ergeben. Der |  | Grenzwertindikator |
+| Normalwert | wird | beschrieben. | Die | GOP | wird | mitgeteilt. | Die | Analytik ist |
+|  |  | FEHLERMELDUNG/AUFMERKSAMKEIT: | | | |  |  |  |
+| Material | Serum | unvollständig, |  | Hinweis | von Dr. | Zusatzarzt | auf | „Materialmenge |
+| wertig“ |  |  |  |  |  |  |  |  |
+|  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |  |
+| Der | Befund im Format | PDF | wird als |  | base64-kodierte | | Anlage | mit übermittelt |
+|  | BEISPIELDATEI: |  |  |  |  |  |  |  |
+|  | Z01_UseCase05_Befund_mitPDF.ldt | | | |  |  |  |  |
 
+LDT 3 Use Cases, Version 3.2.19
 
-
----
-
-**IT in der Arztpraxis** LDT 3  **UNTERSUCHUNGSERGEBNISSE:**
-
-Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt.Die Analytik ist ab- geschlossen.
-
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „- “. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
-
-**FEHLERMELDUNG/AUFMERKSAMKEIT:**
-
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
-
-**ZUSATZINFORMATIONEN:**
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-**BEISPIELDATEI:**
-
-Z01_UseCase05_Befund_mitPDF.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 33 von 66
-
-
----
-
-
-
+Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ - “. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen. Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Seite 33 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-### 6. Use Case
+### 6. Use Case 6 – Befund mit Antibiogramm
 
-**6.1.****Beschreibung**
+**6.1. Beschreibung**
 
 **EINSENDER:**
 
@@ -2510,9 +2184,7 @@ Tel.-, Fax-, Mobilnummer im Datensatz angegeben
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345)
 
-Siegburger Straße 425 b
-
-3. Hinterhaus
+Siegburger Straße 425 b 3. Hinterhaus
 
 D-23456 Musterort
 
@@ -2540,62 +2212,50 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 LDT 3 Use Cases, Version 3.2.19
 
-**6**
-
-### –
-
-### Befund
-
-### mit Antibiogramm
-
 Seite 34 von 66
 
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  Material wurde am JJJJMMTT um HHmm entnommen
+**IT in der Arztpraxis**  LDT 3   Material wurde am JJJJMMTT um HHmm entnommen
 
 Probengefäß mit Nummer 1234567804 enthält Abstrich Vagina
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
-**UNTERSUCHUNGSERGEBNISSE:**
+### UNTERSUCHUNGSERGEBNISSE:
 
-Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Testmethode „CLIA“ mit Wert „negativ“ gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen.
+Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform  mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser- gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ wertindikator ist „ mitgeteilt. Die Analytik ist abgeschlossen.
+Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert „60%“ ergeben. Der Grenz- wertindikator ist „ - “. Der Normalwert wird beschrieben. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende Keime identifiziert:
+Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
 
--Keim 01: Enterococcus Faecalis (Keim ID 13591 des Katalog DMSZ), nachweis- bar, Wachstum reichlich, Hinweistext „ *sämtliche Cephalosporine resistent. Ampicillin-sensible Stämme sind auch emp-* *findlich gegen Piperacillin, Aminopenicillin plus ß-Laktamaseinhibitor sowie* *Piperacillin/Tazobactam. “*
+- Keim 01: Enterococcus Faecalis (Keim ID 13591 des Katalog DMSZ), nachweis- bar, Wachstum reichlich, Hinweistext „ Enterokokken sind natürlicherweise gegen  *sämtliche Cephalosporine resistent. Ampicillin-sensible Stämme sind auch emp-* *findlich gegen Piperacillin, Aminopenicillin plus ß-Laktamaseinhibitor sowie*  *Piperacillin/Tazobactam. “*
 
--Keim 02: Enterobacter aerogenes, nachweisbar, Wachstum reichlich
+- Keim 02: Enterobacter aerogenes, nachweisbar, Wachstum reichlich
 
--Keim 03: vergrünende Streptokokken, nachweisbar, Wachstum reichlich, Hin- weistext „Streptokokken sind erfahrungsgemäß empfindlich gegen *Antibiotika. Eine Resistenztestung ist daher in der Regel nicht erforderlich. Peni-* *cilline gelten als Therapeutika der ersten Wahl.“*
+- Keim 03: vergrünende Streptokokken, nachweisbar, Wachstum reichlich, Hin- weistext „Streptokokken sind erfahrungsgemäß empfindlich gegen Betalaktam- *Antibiotika. Eine Resistenztestung ist daher in der Regel nicht erforderlich. Peni-* *cilline gelten als Therapeutika der ersten Wahl.“*
 
 Mittels der Resistenz- Methode „Agardilution“ wurde nachfolgendes Antibiogramm:
+
+**Keim** Enterococcus Faecalis
 
 ***Wirkstoff***
 
 Handelsname
 
-***Ampicil-*** ***lin/Amoxy***
+***Ampicil-***Sensitivität: s  ***lin/Amoxy***
 
 ***Piperacillin***
 
 Pipril
 
-***Cefotiam***
+***Cefotiam*** Sensitivität: r
 
 Spizef
 
-***Ciprofloxacin***
+***Ciprofloxacin*** Sensitivität: i
 
 Cibrobay
 
@@ -2603,27 +2263,9 @@ Cibrobay
 
 Refobacin
 
-LDT 3 Use Cases, Version 3.2.19
+LDT 3 Use Cases, Version 3.2.19 Seite 35 von 66
 
-durchgeführt und hat ein semiquantitatives Ergebnis in Textform ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
-
-durchgeführt und hat ein Ergebnis mit Wert „60%“ - “. Der Normalwert wird beschrieben.
-
-**Keim**
-
-Sensitivität: s
-
-Sensitivität: r
-
-Sensitivität: i
-
-Enterococcus Faecalis
-
-Seite 35 von 66
-
-*Enterokokken sind natürlicherweise gegen*
-
-Die GOP und die Kosten werden
+Enterobacter aerogenes
 
 Sensitivität: r
 
@@ -2639,303 +2281,261 @@ MHK Breakpoint: 0.047
 
 MHK Einheit: mg/l
 
-Enterobacter aerogenes
-
-ergeben. Der Grenz-
-
-*Betalaktam-*
-
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  mit folgendem Ergebnis-Text: „Gentamicin kann bei dem*o.g. Erreger trotz des Tester-* *gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi-* *otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist* *zu erwarten.“*erstellt.
-
-Zusätzlich wird folgendes Ergebnis festgestellt: „Anaerobier kulturell nicht nachweisbar.“
-
-Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen.
-
-**ZUSATZINFORMATIONEN:**
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-**BEISPIELDATEI:**
-
-Z01_UseCase06_Befund_mitPDF.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 36 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 7. Use Case
-
-**7.1.**
-
-Die Stammdaten des Patienten und des Einsenders inklusive der Angaben zum Veranlassungs- grund werden vom Primärsystem für die Komplettierung des Laborauftrages durch angeschlos- sene Systeme zur Verfügung gestellt.
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-Größe: 185 cm gemessen am JJJJMMTT um HHmm
-
-Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm
-
-**DIAGNOSE:**
-
-(für Abrechnung Laborfacharzt) C001.1 G
-
-(für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V
-
-**ABRECHNUNGSINFORMATION:**
-
-Auftrag für Laborfacharzt, kurativ
-
-Anforderung für Laborgemeinschaft, kurativ
+| mit | folgendem | Ergebnis-Text: | | „Gentamicin | kann | bei | dem | o.g. | Erreger trotz |
+|---|---|---|---|---|---|---|---|---|---|
+| gebnisses | "r" im | Rahmen | einer |  | Kombinationstherapie | | mit | wirksamen |  |
+| otika | (z.B. Penicillin | oder |  | Ceftriaxon) | eingesetzt |  | werden. | Eine | synergistische |
+| zu | erwarten.“ | erstellt. |  |  |  |  |  |  |  |
+| Zusätzlich | wird | folgendes |  | Ergebnis | festgestellt: |  | „Anaerobier | kulturell | nicht |
+| Die GOP | und die | Kosten | werden | mitgeteilt. | Die |  | Analytik | ist | abgeschlossen. |
+|  | ZUSATZINFORMATIONEN: | | |  |  |  |  |  |  |
+| Der | Befund im | Format | PDF wird | als | base64-kodierte | | Anlage | mit | übermittelt |
+|  | BEISPIELDATEI: |  |  |  |  |  |  |  |  |
+|  |  | Z01_UseCase06_Befund_mitPDF.ldt | | |  |  |  |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**Beschreibung**
-
-**7**
-
-### –
-
-### Übergabe
-
-### “
-
-### Stammdaten
-
-Seite 37 von 66
-
-### ”
+mit folgendem Ergebnis-Text: „Gentamicin kann bei dem o.g. Erreger trotz des Tester- gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi- otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist zu erwarten.“ erstellt. Zusätzlich wird folgendes Ergebnis festgestellt: „Anaerobier kulturell nicht nachweisbar.“ Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen. Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Seite 36 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 7.2.
-
-### Muster LDT mit Beschreibung der Feldkennungen
-
-**Feldlänge****FK****Feldinhalt** 01380008230 0188132Kopfdaten 0178002Obj_0032 0170001LDT3.2.19 0258151Sendendes_System 0178002Obj_0051 0198315Labor27/12 0198316Arzt123456 0250105a/nn/JJMM/MM/aaa 0190103Muster PVS 01801328.12.0.95 0178003Obj_0051 Timestamp_Erstellung _Daten 0398218 satz 0178002Obj_0054 0177278JJJJMMTT 0187279HHmmss(ms) 0147273UTC+1 0298235Person_zum_Timestamp 0178002Obj_0047 011742002 0193101Musterarzt 0143102Klaus 0173104Dr. med. 0178003Obj_0047 0178003Obj_0054 0178003Obj_0032 01072651 0328122Einsenderidentifikation 0178002Obj_0022 010732101 01383124711 0278114Arztidentifikation 0178002Obj_0014 0158147Person 0178002Obj_0047 011742002 0193101Musterarzt 0143102Klaus 0173104Dr. med. 0128990KMu Geschaeftliche _Kommunikati- 0438233 onsdaten 0178002Obj_0031 0307330+LK_Vorwahl_Rufnummer 0307331+LK_Vorwahl_Rufnummer 0307333+LK_Vorwahl_Rufnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) 0267334www.musterarzt.de 0178003Obj_0031 0178003Obj_0047 0180212991234567 0178003Obj_0014
+| 7. | Use | Case | 7 | – | Übergabe |  |  | “Stammdaten” |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 7.1. |  | Beschreibung | |  |  |  |  |  |  |  |  |
+| Die |  | Stammdaten | des | Patienten | | und des | Einsenders | | inklusive | der | Angaben zum |
+| grund |  | werden | vom | Primärsystem | | für die |  | Komplettierung | des | Laborauftrages | |
+| sene | Systeme | | zur | Verfügung | gestellt. | |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |  |  |
+|  | Praxis | Dr. | Musterarzt |  | BSNR | 123456789 | | (Arztpraxis, | | Hauptbetriebsstätte) | |
+| Herr | Dr. | med. | Klaus |  | Musterarzt |  | LANR | 991234567 |  |  |  |
+| ID: |  | Arzt123456, | |  | Kundennummer | 4711 |  |  |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |  |  |
+|  | Vorderhaus |  | links |  |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient | |  | (Patienten-ID | im | Primärsystem: |  |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |  |  |
+|  | Siegburger | | Straße | 425 b |  |  |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |  |  |
+|  | Geschlecht: | | männlich |  |  |  |  |  |  |  |  |
+|  | Geb.-Datum: | | 05.12.1960 | |  |  |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 | |  |  |  |  |  |  |  |
+|  | Kasse: |  | Musterkasse |  |  |  |  |  |  |  |  |
+|  | VKNR: | 78945 |  |  |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | | | 123456789 | |  |  |  |  |  |
+|  | Größe: | 185 | cm | gemessen | am |  | JJJJMMTT | um | HHmm |  |  |
+|  | Gewicht: | 98,6 | kg |  | gemessen | am | JJJJMMTT | um | HHmm |  |  |
+|  | DIAGNOSE: | |  |  |  |  |  |  |  |  |  |
+| (für |  | Abrechnung |  | Laborfacharzt) | | C001.1 | G |  |  |  |  |
+| (für |  | Abrechnung |  |  | Laborgemeinschaft | | – Muster | 10A) | C00.2 | V |  |
+|  |  |  | ABRECHNUNGSINFORMATION: | | | |  |  |  |  |  |
+|  | Auftrag | für | Laborfacharzt, | | kurativ |  |  |  |  |  |  |
+|  | Anforderung | | für |  | Laborgemeinschaft, | | kurativ |  |  |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**Beschreibung** Satzart Objektattribut ObjektIdent Version der Datensatzbeschreibung Objektattribut ObjektIdent ID des Empfängers ID des Senders KBV-Prüfnummer Software/Name der Software Version/Releasestand der Software Objektende - Objektattribut
-
-ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Objektende Objektende Objektende Absender des Datensatzes Objektattribut ObjektIdent Status Einsender Kunden-(Arzt)Nummer Objektattribut ObjektIdent Objektattribut ObjektIdent Status der Person Nachname Vorname Titel Namenskürzel / Namenszeichen
-
-Objektattribut
-
-ObjektIdent Telefonnummer Mobiltelefonnummer Faxnummer E-Mailadresse Webadresse Objektende Objektende Lebenslange Arztnummer (LANR) Objektende
-
-Seite 38von 66
+7. Use Case 7 – Übergabe “Stammdaten” Die Stammdaten des Patienten und des Einsenders inklusive der Angaben zum Veranlassungs- grund werden vom Primärsystem für die Komplettierung des Laborauftrages durch angeschlos- sene Systeme zur Verfügung gestellt. Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Größe: 185 cm gemessen am JJJJMMTT um HHmm Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm (für Abrechnung Laborfacharzt) C001.1 G (für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V Auftrag für Laborfacharzt, kurativ Anforderung für Laborgemeinschaft, kurativ Seite 37 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+| 7.2. | Muster | LDT | mit |  | Beschreibung | der | Feldkennungen | |  |
+|  | Feldlänge | FK |  | Feldinhalt |  |  |  | Beschreibung |  |
+|  | 013 | 8000 | 8230 |  |  |  | Satzart |  |  |
+|  | 018 | 8132 |  | Kopfdaten |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0032 |  |  |  | ObjektIdent |  |
+|  | 017 | 0001 |  | LDT3.2.19 |  |  | Version | der | Datensatzbeschreibung |
+|  | 025 | 8151 |  | Sendendes_System | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0051 |  |  |  | ObjektIdent |  |
+|  | 019 | 8315 |  | Labor27/12 |  |  | ID des | Empfängers |  |
+|  | 019 | 8316 |  | Arzt123456 |  |  | ID des | Senders |  |
+|  | 025 | 0105 |  | a/nn/JJMM/MM/aaa | |  |  | KBV-Prüfnummer |  |
+|  | 019 | 0103 | Muster | PVS |  |  |  | Software/Name der | Software |
+|  | 018 | 0132 |  | 8.12.0.95 |  |  |  | Version/Releasestand | der Software |
+|  | 017 | 8003 |  | Obj_0051 |  |  |  | Objektende |  |
+|  |  |  |  | Timestamp_Erstellung | | _Daten | - |  |  |
+|  | 039 | 8218 |  |  |  |  |  | Objektattribut |  |
+|  |  |  | satz |  |  |  |  |  |  |
+|  | 017 | 8002 |  | Obj_0054 |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  | Datum | des Timestamp |  |
+|  | 018 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 029 | 8235 |  |  | Person_zum_Timestamp | |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0047 |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 02 |  |  |  | Status | der Person |  |
+|  | 019 | 3101 |  | Musterarzt |  |  | Nachname |  |  |
+|  | 014 | 3102 | Klaus |  |  |  | Vorname |  |  |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel |  |  |
+|  | 017 | 8003 |  | Obj_0047 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0054 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0032 |  |  |  | Objektende |  |
+|  | 010 | 7265 | 1 |  |  |  | Absender | des | Datensatzes |
+|  | 032 | 8122 |  | Einsenderidentifikation | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0022 |  |  |  | ObjektIdent |  |
+|  | 010 | 7321 | 01 |  |  |  | Status | Einsender |  |
+|  | 013 | 8312 | 4711 |  |  |  |  | Kunden-(Arzt)Nummer |  |
+|  | 027 | 8114 |  | Arztidentifikation | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0014 |  |  |  | ObjektIdent |  |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0047 |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 02 |  |  |  | Status | der Person |  |
+|  | 019 | 3101 |  | Musterarzt |  |  | Nachname |  |  |
+|  | 014 | 3102 | Klaus |  |  |  | Vorname |  |  |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel |  |  |
+|  | 012 | 8990 | KMu |  |  |  |  | Namenskürzel / | Namenszeichen |
+|  |  |  |  | Geschaeftliche |  | _Kommunikati- |  |  |  |
+|  | 043 | 8233 |  |  |  |  |  | Objektattribut |  |
+|  |  |  |  | onsdaten |  |  |  |  |  |
+|  | 017 | 8002 |  | Obj_0031 |  |  |  | ObjektIdent |  |
+|  | 030 | 7330 |  |  | +LK_Vorwahl_Rufnummer | |  | Telefonnummer |  |
+|  | 030 | 7331 |  |  | +LK_Vorwahl_Rufnummer | |  | Mobiltelefonnummer |  |
+|  | 030 | 7333 |  |  | +LK_Vorwahl_Rufnummer | |  | Faxnummer |  |
+|  | 030 | 7335 |  | dr.musterarzt@mail.de | | |  | E-Mailadresse |  |
+|  | 026 | 7334 |  | www.musterarzt.de | |  |  | Webadresse |  |
+|  | 017 | 8003 |  | Obj_0031 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0047 |  |  |  | Objektende |  |
+|  | 018 | 0212 |  | 991234567 |  |  |  | Lebenslange | Arztnummer (LANR) |
+|  | 017 | 8003 |  | Obj_0014 |  |  |  | Objektende |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  |  | Seite 38 | von 66 |  |  |
 
+IT in der Arztpraxis Muster LDT mit Beschreibung der Feldkennungen Muster PVS Timestamp_Erstellung _Daten Dr. med.  Dr. med.  Geschaeftliche _Kommunikati- LDT 3 Use Cases, Version 3.2.19 Version der Datensatzbeschreibung ID des Empfängers  ID des Senders  Software/Name der Software Version/Releasestand der Software Datum des Timestamp Uhrzeit des Timestamp Status der Person Absender des Datensatzes Status Einsender Status der Person Namenskürzel / Namenszeichen Lebenslange Arztnummer (LANR)
 
+---
+
+**IT in der Arztpraxis**  LDT 3   024 8119 Betriebsstaette Objektattribut  017 8002 Obj_0019 ObjektIdent  010 0204 1 Status der Betriebsstätte  010 0204 5 Status der Betriebsstätte  030 0203 Praxis Dr. Musterarzt (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder  018 0201 123456789  Nebenbetriebsstättennummer (NBSNR)  021 8143 Organisation Objektattribut  017 8002 Obj_0043 ObjektIdent  030 1250 Praxis Dr. Musterarzt Organisation / Firma
+
+032 8229 Anschrift_Arbeitsstelle Objektattribut 017 8002 Obj_0007 ObjektIdent
+
+014 3112 12345 PLZ
+
+021 3113 Musterhausen Ort
+
+025 3107 Musterarztstraße Straße 011 3109 26 Hausnummer
+
+025 3115 Vorderhaus links Anschriftenzusatz 010 3114 D Wohnsitzländercode
+
+017 8003 Obj_0007 Objektende
+
+028 8131 Kommunikationsdaten Objektattribut
+
+017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0043 Objektende  017 8003 Obj_0019 Objektende  017 8003 Obj_0022 Objektende  013 8001 8230 Satzende  013 8000 8215 Satzart  016 8145 Patient Objektattribut  017 8002 Obj_0045 ObjektIdent  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 12 Status Person  013 3100 Graf Namenszusatz  012 3120 von Vorsatzwort  022 3101 Musterpatient Nachname  013 3102 Karl Vorname  017 3103 19600512 Geburtsdatum  017 3104 Dr. med. Titel  010 3110 M Geschlecht  022 8228 Wohnanschrift Objektattribut  017 8002 Obj_0007 ObjektIdent  014 3112 23456 PLZ  018 3113 Musterort Ort  026 3107 Siegburger Straße Straße  014 3109 425 b Hausnummer  022 3115 3. Hinterhaus Anschriftenzusatz  010 3114 D Wohnsitzländercode  017 8003 Obj_0007 Objektende
+
+LDT 3 Use Cases, Version 3.2.19 Seite 39 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  0248119BetriebsstaetteObjektattribut 0178002Obj_0019ObjektIdent 01002041Status der Betriebsstätte 01002045Status der Betriebsstätte 0300203Praxis Dr. Musterarzt(N)BSNR-Bezeichnung Betriebs- (BSNR) oder 0180201123456789 Nebenbetriebsstättennummer (NBSNR) 0218143OrganisationObjektattribut 0178002Obj_0043ObjektIdent 0301250Praxis Dr. MusterarztOrganisation / Firma
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  | Objektende |  |  |
+|  | 019 | 3119 | S040464113 |  |  |  | Versicherten-ID |  |  |
+|  | 023 | 3000 | KAMUPA47112015 |  |  |  | Patientennummer |  |  |
+|  | 017 | 8003 | Obj_0045 |  |  |  | Objektende |  |  |
+|  | 028 | 8169 | Koerperkenngroessen |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0069 |  |  |  | ObjektIdent |  |  |
+|  | 012 | 3622 | 185 |  |  | Größe | der Person |  |  |
+|  | 011 | 8421 | cm |  |  | Einheit | des | Meßwertes |  |
+|  | 026 | 8225 | Timestamp_Messung |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  | ObjektIdent |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  | Datum | des | Timestamp |  |
+|  | 018 | 7279 | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |
+|  | 014 | 7273 | UTC+1 |  |  | Zeitzone |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  | Objektende |  |  |
+|  | 013 | 3623 | 98.6 |  |  | Gewicht | der | Person |  |
+|  | 011 | 8421 | kg |  |  | Einheit | des | Meßwertes |  |
+|  | 026 | 8225 | Timestamp_Messung |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  | ObjektIdent |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  | Datum | des | Timestamp |  |
+|  | 018 | 7279 | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |
+|  | 014 | 7273 | UTC+1 |  |  | Zeitzone |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0069 |  |  |  | Objektende |  |  |
+|  | 027 | 8127 | Veranlassungsgrund |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0027 |  |  |  | ObjektIdent |  |  |
+|  | 010 | 7303 | 1 |  |  |  | Abrechnungsinfo | zur | Untersuchung |
+|  | 021 | 8200 | Akutdiagnose |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0100 |  |  |  | ObjektIdent |  |  |
+|  | 014 | 6001 | C00.1 |  |  | ICD | Code |  |  |
+|  | 010 | 6003 | G |  |  |  | Diagnosesicherheit |  |  |
+|  | 010 | 6004 | R |  |  |  | Lokalisation |  |  |
+|  | 017 | 8003 | Obj_0100 |  |  |  | Objektende |  |  |
+|  | 010 | 7303 | 2 |  |  |  | Abrechnungsinfo | zur | Untersuchung |
+|  | 021 | 8200 | Akutdiagnose |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0100 |  |  |  | ObjektIdent |  |  |
+|  | 014 | 6001 | C00.2 |  |  | ICD | Code |  |  |
+|  | 010 | 6003 | V |  |  |  | Diagnosesicherheit |  |  |
+|  | 010 | 6004 | L |  |  |  | Lokalisation |  |  |
+|  | 017 | 8003 | Obj_0100 |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0027 |  |  |  | Objektende |  |  |
+|  | 031 | 8101 |  | Abrechnungsinformation |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0001 |  |  |  | ObjektIdent |  |  |
+|  | 023 | 8102 | Abrechnung_GKV |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0002 |  |  |  | ObjektIdent |  |  |
+|  | 011 | 4239 | 27 |  |  |  | Scheinuntergruppe |  |  |
+|  | 020 | 4134 | Musterkasse |  |  |  | Kostenträgername |  |  |
+|  | 014 | 4104 | 78945 |  |  |  | Abrechnungs-VKNR | |  |
+|  | 011 | 4106 | 00 |  |  |  | Kostenträger- | Abrechnungsbereich | (KTAB) |
+|  | 011 | 3116 | 00 |  |  | WOP |  |  |  |
+|  | 010 | 3108 | 1 |  |  |  | Versichertenart |  |  |
+|  | 018 | 4111 | 123456789 |  |  |  | Kostenträgerkennung | |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 | Seite | 40 von | 66 |  |  |  |
 
-0328229Anschrift_ArbeitsstelleObjektattribut
-
-0178002Obj_0007ObjektIdent
-
-014311212345PLZ
-
-0213113MusterhausenOrt
-
-0253107MusterarztstraßeStraße
-
-011310926Hausnummer
-
-0253115Vorderhaus linksAnschriftenzusatz
-
-0103114DWohnsitzländercode
-
-0178003Obj_0007Objektende
-
-0288131KommunikationsdatenObjektattribut
-
-0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 0178003Obj_0022Objektende 01380018230Satzende 01380008215Satzart 0168145PatientObjektattribut 0178002Obj_0045ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742012Status Person 0133100GrafNamenszusatz 0123120vonVorsatzwort 0223101MusterpatientNachname 0133102KarlVorname 017310319600512Geburtsdatum 0173104Dr. med.Titel 0103110MGeschlecht 0228228WohnanschriftObjektattribut 0178002Obj_0007ObjektIdent 014311223456PLZ 0183113MusterortOrt 0263107Siegburger StraßeStraße 0143109425 bHausnummer 02231153. HinterhausAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende
-
-LDT 3 Use Cases, Version 3.2.19Seite 39von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0178003Obj_0047Objektende 0193119S040464113Versicherten-ID 0233000KAMUPA47112015Patientennummer 0178003Obj_0045Objektende 0288169KoerperkenngroessenObjektattribut 0178002Obj_0069ObjektIdent
-
-0123622185Größe der Person
-
-0118421cmEinheit des Meßwertes
-
-0268225Timestamp_MessungObjektattribut
-
-0178002Obj_0054ObjektIdent
-
-0177278JJJJMMTTDatum des Timestamp
-
-0187279HHmmss(ms)Uhrzeit des Timestamp
-
-0147273UTC+1Zeitzone
-
-0178003Obj_0054Objektende
-
-013362398.6Gewicht der Person
-
-0118421kgEinheit des Meßwertes
-
-0268225Timestamp_MessungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0187279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0069Objektende 0278127VeranlassungsgrundObjektattribut 0178002Obj_0027ObjektIdent 01073031Abrechnungsinfo zur Untersuchung 0218200AkutdiagnoseObjektattribut 0178002Obj_0100ObjektIdent 0146001C00.1ICD Code 0106003GDiagnosesicherheit 0106004RLokalisation
-
-0178003Obj_0100Objektende
-
-01073032Abrechnungsinfo zurUntersuchung
-
-0218200AkutdiagnoseObjektattribut
-
-0178002Obj_0100ObjektIdent
-
-0146001C00.2ICD Code
-
-0106003VDiagnosesicherheit 0106004LLokalisation 0178003Obj_0100Objektende 0178003Obj_0027Objektende 0318101AbrechnungsinformationObjektattribut 0178002Obj_0001ObjektIdent 0238102Abrechnung_GKVObjektattribut
-
-0178002Obj_0002ObjektIdent
-
-011423927Scheinuntergruppe
-
-0204134MusterkasseKostenträgername
-
-014410478945Abrechnungs-VKNR
-
-011410600Kostenträger-Abrechnungsbereich (KTAB)
-
-011311600WOP
-
-01031081Versichertenart
-
-0184111123456789Kostenträgerkennung
-
-LDT 3 Use Cases, Version 3.2.19Seite 40 von 66
-
+IT in der Arztpraxis Größe der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Gewicht der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Abrechnungsinfo zur Untersuchung ICD Code Abrechnungsinfo zur ICD Code Abrechnungsbereich (KTAB) LDT 3 Use Cases, Version 3.2.19 Seite 40 von 66
 
 ---
 
+**IT in der Arztpraxis**  LDT 3 011 4122 00
 
+010 4221 1
 
+017 8003 Obj_0002
 
+023 8102 Abrechnung_GKV
 
----
+017 8002 Obj_0002
 
-**IT in der Arztpraxis** LDT 3
+011 4239 28
 
-011412200
+020 4134 Musterkasse
 
-01042211
+014 4104 78945
 
-0178003Obj_0002
+011 4106 00
 
-0238102Abrechnung_GKV
+011 3116 00
 
-0178002Obj_0002
+018 4111 123456789
 
-011423928
+011 4122 00
 
-0204134Musterkasse
+010 4221 1
 
-014410478945
+017 8003 Obj_0002  017 8003 Obj_0001  013 8001 8215 013 8000 8231
 
-011410600
+025 9300 errechneter Wert
 
-011311600
-
-0184111123456789
-
-011412200
-
-01042211
-
-0178003Obj_0002 0178003Obj_0001 01380018215
-
-01380008231
-
-0259300errechneter Wert
-
-01380018231
+013 8001 8231
 
 *Hinweis:*
 
-0158110Anhang
+015 8110 Anhang
 
-0178002Obj_0010
+017 8002 Obj_0010
 
-0178003Obj_0010
+017 8003 Obj_0010
 
 LDT 3 Use Cases, Version 3.2.19
 
@@ -2965,7 +2565,7 @@ Abrechnungsgebiet
 
 Kurativ / Präventiv / ESS / bei belegärztl. Behandlung
 
-Objektende Objektende Satzende
+Objektende  Objektende  Satzende
 
 Satzart
 
@@ -2973,300 +2573,417 @@ Prüfsumme/Elektronische Freigabe
 
 Satzende
 
-*Nach einem Objektattribut folgt immer das* *ObjektIdent des Objektes, auf welches das Objektattribut* *verweist!* *Objektende des bezeichneten Objektes.*
+*Nach einem Objektattribut folgt immer das*  *ObjektIdent des Objektes, auf welches das Objektattribut*  *verweist!*  *Objektende des bezeichneten Objektes.*
 
-Seite 41von 66
-
-
----
-
-
-
+Seite 41 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-### 8. Use Case 8
-
-### –
-
-### Befund zu
-
-### Laborauftrag
-
-### Kapitel 32.2/32.3/
-
-**8.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte)
-
-ID: Labor27/12
-
-Laborstraße 24
-
-Eingang links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm entnommen
-
-LDT 3 Use Cases, Version 3.2.19Seite 42 von 66
-
-### IGeL
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### UNTERSUCHUNGSERGEBNISSE:
-
-Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- geschlossen.
-
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
-
-Untersuchung PSA aus Serum (Probengefäß 1234567802) wurde nach Methode7 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien- ten direkt. Die Analytik ist abgeschlossen.
-
-### FEHLERMELDUNG/AUFMERKSAMKEIT:
-
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
-
-### ZUSATZINFORMATIONEN:
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-### 8.2.
-
-### Muster LDT mit Beschreibung der Feldkennungen
-
-**Feldlänge** 013 018 017 017 025 017 019 019 025 018 018 017 039 017 017 019 014 017 017 021 017 025 017 038 038 015
+| 8. | Use | Case | 8 – | Befund | zu | Laborauftrag | | Kapitel | 32.2/32.3/IGeL |
+|---|---|---|---|---|---|---|---|---|---|
+| 8.1. |  | Beschreibung | |  |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |
+| Praxis | Dr. |  | Musterarzt | BSNR | 123456789 |  | (Arztpraxis, |  | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus |  | Musterarzt | LANR | 991234567 |  |  |
+| ID: |  | Arzt123456, |  | Kundennummer | | 4711 |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |
+|  | Vorderhaus | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |
+| Tel.-, |  | Fax-, | Mobilnummer | | im | Datensatz | angegeben |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |
+|  | Laborarztpraxis | |  | Mueller/Meier | BSNR | 234567891 | | (Laborarztpraxis, | |
+| ID: | Labor27/12 | |  |  |  |  |  |  |  |
+|  | Laborstraße | 24 |  |  |  |  |  |  |  |
+| Eingang |  | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |
+| Tel.-, |  | Fax-, | Mobilnummer | | im | Datensatz | angegeben |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von | Musterpatient |  | (Patienten-ID | im | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |
+|  | Siegburger | Straße | 425 | b |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |
+|  | Geschlecht: |  | männlich |  |  |  |  |  |  |
+|  | Geb.-Datum: |  | 05.12.1960 | |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 |  |  |  |  |  |  |
+| Kasse: |  | Musterkasse | |  |  |  |  |  |  |
+| VKNR: |  | 78945 |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | |  | 123456789 |  |  |  |  |
+|  | MATERIAL: |  |  |  |  |  |  |  |  |
+|  | Probengefäß |  | mit | Nummer | 1234567802 | enthält | Serum |  | (gefroren) |
+|  | Probengefäß | mit |  | Nummer | 1234567803 | enthält |  | Citrat-Blut |  |
+|  | Patient | hat | während | der | Probenentnahme | | Arzneimittel | | XYZ verabreicht |
+|  | Material | wurde | am |  | JJJJMMTT um | HHmm | entnommen | |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-**FK** 8000 8132 8002 0001 8151 8002 8315 8316 0105 0103 0132 8003 8218 8002 7278 7279 7273 8003 8003 8136 8002 8239 8002 1250 1252 8147
+Seite 42 von 66
 
-**Feldinhalt** 8220 Kopfdaten Obj_0032 LDT3.2.19 Sendendes_System Obj_0051 Arzt123456 Labor27/12 a/nn/JJMM/MM/aaa MusterLIS 5.12.15.1 Obj_0051 Timestamp_Erstellung_Datensatz Obj_0054 JJJJMMTT HHmmss(ms) UTC+1 Obj_0054 Obj_0032 Laborkennung Obj_0036 Laborbezeichnung Obj_0043 Laborarztpraxis Mueller/Meier Abteilungsleiter Klin. Chemie Person
+8. Use Case 8 – Befund zu Laborauftrag Kapitel 32.2/32.3/IGeL Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte) ID: Labor27/12 Laborstraße 24 Eingang links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm entnommen
 
-Seite 43 von 66
+---
 
-**Beschreibung** Satzart Objektattribut ObjektIdent Version der Datensatzbeschreibung Objektattribut ObjektIdent ID des Empfängers ID des Senders KBV-Prüfnummer Software/Name der Software Version/Releasestand der Software Objektende Objektattribut ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektende Objektende Objektattribut ObjektIdent Objektattribut ObjektIdent Organisation / Firma Funktionsbezeichnung der Person Objektattribut
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | UNTERSUCHUNGSERGEBNISSE: | | |  |  |  |  |  |  |  |
+|  | Untersuchung |  | Hepatitis-B-Antigen | | aus | Serum |  | (Probengefäß |  | 1234567802) | | wurde nach |
+| Methode1 | | durchgeführt | und | hat | ein | Ergebnis | mit Wert | ergeben. | | Der |  | Grenzwertindikator |
+| ist | „++“. Der |  | Normalwert | wird | beschrieben. | Die | GOP | wird | mitgeteilt. | Die | Analytik | ist ab- |
+|  | geschlossen. |  |  |  |  |  |  |  |  |  |  |  |
+|  | Untersuchung | Quick | aus | Citrat-Blut | | (Probengefäß | | 1234567803) | | wurde | nach | Methode5 |
+|  | durchgeführt | und | hat ein | Ergebnis | mit | Wert | ergeben. Der |  | Grenzwertindikator | | ist | „ - “. Der |
+|  | Normalwert | wird | beschrieben. | Die | GOP | wird | mitgeteilt. | Die | Analytik | ist |  | abgeschlossen. |
+|  | Untersuchung | PSA | aus | Serum | (Probengefäß | | 1234567802) | | wurde | nach |  | Methode7 |
+|  | durchgeführt | und | hat ein | Ergebnis | mit | Wert ergeben. | Der |  | Grenzwertindikator | | ist | „ -- “. Der |
+|  | Normalwert | wird | beschrieben. | Die |  | Rechnungslegung | | des | Labors | erfolgt | an | den Patien- |
+| ten | direkt. | Die | Analytik | ist | abgeschlossen. | |  |  |  |  |  |  |
+|  |  |  | FEHLERMELDUNG/AUFMERKSAMKEIT: | | | |  |  |  |  |  |  |
+| Material | | Serum | unvollständig, |  | Hinweis | von Dr. | Zusatzarzt | | auf | „Materialmenge | | grenz- |
+| wertig“ |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |  |  |  |  |
+| Der | Befund | im | Format PDF | wird | als | base64-kodierte | | Anlage | mit | übermittelt | |  |
+| 8.2. | Muster | LDT | mit | Beschreibung | | der | Feldkennungen | |  |  |  |  |
+|  | Feldlänge | FK | Feldinhalt |  |  |  |  | Beschreibung | |  |  |  |
+|  | 013 | 8000 | 8220 |  |  |  | Satzart |  |  |  |  |  |
+|  | 018 | 8132 | Kopfdaten |  |  |  |  | Objektattribut |  |  |  |  |
+|  | 017 | 8002 | Obj_0032 |  |  |  |  | ObjektIdent |  |  |  |  |
+|  | 017 | 0001 | LDT3.2.19 |  |  |  |  | Version der |  |  | Datensatzbeschreibung | |
+|  | 025 | 8151 |  | Sendendes_System | |  |  | Objektattribut |  |  |  |  |
+|  | 017 | 8002 | Obj_0051 |  |  |  |  | ObjektIdent |  |  |  |  |
+|  | 019 | 8315 | Arzt123456 |  |  |  | ID | des | Empfängers |  |  |  |
+|  | 019 | 8316 | Labor27/12 |  |  |  | ID | des | Senders |  |  |  |
+|  | 025 | 0105 |  | a/nn/JJMM/MM/aaa | |  |  | KBV-Prüfnummer | |  |  |  |
+|  | 018 | 0103 | MusterLIS |  |  |  |  | Software/Name | | der | Software |  |
+|  | 018 | 0132 | 5.12.15.1 |  |  |  |  |  | Version/Releasestand | | der Software |  |
+|  | 017 | 8003 | Obj_0051 |  |  |  |  | Objektende |  |  |  |  |
+|  | 039 | 8218 |  |  | Timestamp_Erstellung_Datensatz | |  | Objektattribut |  |  |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |  |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des |  | Timestamp |  |  |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  |  | Uhrzeit des |  | Timestamp |  |  |
+|  | 014 | 7273 | UTC+1 |  |  |  |  | Zeitzone |  |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |  |  |  |
+|  | 017 | 8003 | Obj_0032 |  |  |  |  | Objektende |  |  |  |  |
+|  | 021 | 8136 |  | Laborkennung |  |  |  | Objektattribut |  |  |  |  |
+|  | 017 | 8002 | Obj_0036 |  |  |  |  | ObjektIdent |  |  |  |  |
+|  | 025 | 8239 |  | Laborbezeichnung |  |  |  | Objektattribut |  |  |  |  |
+|  | 017 | 8002 | Obj_0043 |  |  |  |  | ObjektIdent |  |  |  |  |
+|  | 038 | 1250 |  | Laborarztpraxis |  | Mueller/Meier |  | Organisation | / | Firma |  |  |
+|  | 038 | 1252 |  | Abteilungsleiter | Klin. | Chemie |  |  | Funktionsbezeichnung | | der Person |  |
+|  | 015 | 8147 | Person |  |  |  |  | Objektattribut |  |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  |  | Seite 43 von | 66 |  |  |  |  |  |
 
-- “. Der
+IT in der Arztpraxis Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ - “. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen. Untersuchung PSA aus Serum (Probengefäß 1234567802) wurde nach Methode7 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ -- “. Der Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien- ten direkt. Die Analytik ist abgeschlossen. Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Muster LDT mit Beschreibung der Feldkennungen Laborarztpraxis Mueller/Meier Abteilungsleiter Klin. Chemie LDT 3 Use Cases, Version 3.2.19 Seite 43 von 66 Version der Datensatzbeschreibung ID des Empfängers  ID des Senders  Software/Name der Software Version/Releasestand der Software Datum des Timestamp Uhrzeit des Timestamp Organisation / Firma Funktionsbezeichnung der Person
 
--- “. Der
+---
+
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 017 | 8002 |  | Obj_0047 |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 07 |  |  |  | Status | Person |  |
+|  | 018 | 3101 |  | Laborarzt |  |  | Name | der Person |  |
+|  | 016 | 3102 |  | Manfred |  |  | Vorname | der | Person |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel | der Person |  |
+|  | 017 | 8003 |  | Obj_0047 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0043 |  |  |  | Objektende |  |
+|  | 010 | 7266 | 1 |  |  |  | Laborart |  |  |
+|  | 017 | 8003 |  | Obj_0036 |  |  |  | Objektende |  |
+|  | 024 | 8119 |  | Betriebsstaette |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0019 |  |  |  | ObjektIdent |  |
+|  | 010 | 0204 | 2 |  |  |  | Status | der | Betriebsstätte |
+|  | 010 | 0204 | 5 |  |  |  | Status | der | Betriebsstätte |
+|  | 028 | 0203 | Labor | Mueller | Meier |  |  | (N)BSNR-Bezeichnung | |
+|  |  |  |  |  |  |  |  | Betriebs- (BSNR) | oder Nebenbetriebsstättennummer |
+|  | 018 | 0201 |  | 234567891 |  |  |  |  |  |
+|  |  |  |  |  |  |  | (NBSNR) |  |  |
+|  | 021 | 8143 |  | Organisation |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0043 |  |  |  | ObjektIdent |  |
+|  | 038 | 1250 |  | Laborarztpraxis |  | Mueller/Meier |  | Organisation / | Firma |
+|  | 032 | 8229 |  | Anschrift_Arbeitsstelle | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0007 |  |  |  | ObjektIdent |  |
+|  | 014 | 3112 | 12345 |  |  |  | PLZ |  |  |
+|  | 021 | 3113 |  | Musterhausen |  |  | Ort |  |  |
+|  | 020 | 3107 |  | Laborstraße |  |  | Straße |  |  |
+|  | 011 | 3109 | 24 |  |  |  |  | Hausnummer |  |
+|  | 022 | 3115 |  | Eingang links |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode |  |
+|  | 017 | 8003 |  | Obj_0007 |  |  |  | Objektende |  |
+|  | 028 | 8131 |  | Kommunikationsdaten | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0031 |  |  |  | ObjektIdent |  |
+|  | 030 | 7330 |  |  | +LK_Vorwahl_Rufnummer |  |  | Telefonnummer |  |
+|  | 030 | 7331 |  |  | +LK_Vorwahl_Rufnummer |  |  | Mobiltelefonnummer |  |
+|  | 030 | 7333 |  |  | +LK_Vorwahl_Rufnummer |  |  | Faxnummer |  |
+|  | 031 | 7335 |  |  | dr.musterlabor@mail.de |  |  | E-Mailadresse |  |
+|  | 027 | 7334 |  | www.musterlabor.de | |  |  | Webadresse |  |
+|  | 017 | 8003 |  | Obj_0031 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0043 |  |  |  | Objektende |  |
+|  | 017 | 8003 |  | Obj_0019 |  |  |  | Objektende |  |
+|  | 013 | 8001 | 8220 |  |  |  | Satzende |  |  |
+|  | 013 | 8000 | 8205 |  |  |  | Satzart |  |  |
+|  | 033 | 8122 |  | Einsenderidentifikation | |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0022 |  |  |  | ObjektIdent |  |
+|  | 011 | 7321 | 01 |  |  |  | Status | Einsender |  |
+|  | 013 | 8312 | 4711 |  |  |  |  | Kunden-(Arzt)Nummer | |
+|  | 028 | 8114 |  | Arztidentifikation |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0014 |  |  |  | ObjektIdent |  |
+|  | 015 | 8147 |  | Person |  |  |  | Objektattribut |  |
+|  | 017 | 8002 |  | Obj_0047 |  |  |  | ObjektIdent |  |
+|  | 011 | 7420 | 02 |  |  |  | Status | der Person |  |
+|  | 019 | 3101 |  | Musterarzt |  |  |  | Nachname |  |
+|  | 014 | 3102 | Klaus |  |  |  | Vorname |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  |  | Seite 44 von 66 |  |  |  |
+
+IT in der Arztpraxis Status Person Name der Person  Vorname der Person  Dr. med. Titel der Person  Status der Betriebsstätte Status der Betriebsstätte Labor Mueller Meier Betriebs- (BSNR) oder Nebenbetriebsstättennummer Laborarztpraxis Mueller/Meier Organisation / Firma Status Einsender Status der Person LDT 3 Use Cases, Version 3.2.19
+
+---
+
+**IT in der Arztpraxis**  LDT 3   018 3104 Dr. med. Titel  012 8990 KMu Namenskürzel / Namenszeichen  Geschaeftliche_Kommunikations- 044 8233 Objektattribut  daten  017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0047 Objektende  018 0212 991234567 Lebenslange Arztnummer (LANR)  017 8003 Obj_0014 Objektende  025 8119 Betriebsstaette Objektattribut  017 8002 Obj_0019 ObjektIdent  010 0204 1 Status der Betriebsstätte  010 0204 5 Status der Betriebsstätte  030 0203 Praxis Dr. Musterarzt (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder Nebenbetriebsstättennummer  018 0201 123456789  (NBSNR)  021 8143 Organisation Objektattribut  017 8002 Obj_0043 ObjektIdent  030 1250 Praxis Dr. Musterarzt Organisation / Firma  032 8229 Anschrift_Arbeitsstelle Objektattribut  017 8002 Obj_0007 ObjektIdent  014 3112 12345 PLZ  021 3113 Musterhausen Ort  025 3107 Musterarztstraße Straße  011 3109 26 Hausnummer  025 3115 Vorderhaus links Anschriftenzusatz  010 3114 D Wohnsitzländercode  017 8003 Obj_0007 Objektende  028 8131 Kommunikationsdaten Objektattribut  017 8002 Obj_0031 ObjektIdent  030 7330 +LK_Vorwahl_Rufnummer Telefonnummer  030 7331 +LK_Vorwahl_Rufnummer Mobiltelefonnummer  030 7333 +LK_Vorwahl_Rufnummer Faxnummer  030 7335 [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de) E-Mailadresse  026 7334 www.musterarzt.de Webadresse  017 8003 Obj_0031 Objektende  017 8003 Obj_0043 Objektende  017 8003 Obj_0019 Objektende  017 8003 Obj_0022 Objektende  016 8145 Patient Objektattribut  017 8002 Obj_0045 ObjektIdent  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 12 Status Person  013 3100 Graf Namenszusatz  012 3120 von Vorsatzwort  022 3101 Musterpatient Nachname
+
+LDT 3 Use Cases, Version 3.2.19 Seite 45 von 66
 
 
 ---
 
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |
+|  | 013 | 3102 | Karl |  |  |  | Vorname |  |  |
+|  | 017 | 3103 | 19600512 |  |  |  |  | Geburtsdatum |  |
+|  | 017 | 3104 | Dr. | med. |  |  | Titel |  |  |
+|  | 010 | 3110 | M |  |  |  |  | Geschlecht |  |
+|  | 022 | 8228 |  | Wohnanschrift |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0007 |  |  |  |  | ObjektIdent |  |
+|  | 014 | 3112 | 23456 |  |  |  | PLZ |  |  |
+|  | 018 | 3113 | Musterort |  |  |  | Ort |  |  |
+|  | 026 | 3107 | Siegburger | Straße |  |  | Straße |  |  |
+|  | 014 | 3109 | 425 b |  |  |  |  | Hausnummer |  |
+|  | 022 | 3115 | 3. | Hinterhaus |  |  |  | Anschriftenzusatz |  |
+|  | 010 | 3114 | D |  |  |  |  | Wohnsitzländercode |  |
+|  | 017 | 8003 | Obj_0007 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |
+|  | 019 | 3119 |  | S040464113 |  |  |  | Versicherten-ID |  |
+|  | 023 | 3000 |  | KAMUPA47112015 |  |  |  | Patientennummer |  |
+|  | 017 | 8003 | Obj_0045 |  |  |  |  | Objektende |  |
+|  | 029 | 8169 |  | Koerperkenngroessen | |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0069 |  |  |  |  | ObjektIdent |  |
+|  | 012 | 3622 | 185 |  |  |  | Größe | der Person |  |
+|  | 011 | 8421 | cm |  |  |  | Einheit | des | Meßwertes |
+|  | 027 | 8225 |  | Timestamp_Messung |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |
+|  | 013 | 3623 | 98.6 |  |  |  | Gewicht | der | Person |
+|  | 011 | 8421 | kg |  |  |  | Einheit | des | Meßwertes |
+|  | 027 | 8225 |  | Timestamp_Messung |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |
+|  | 017 | 8003 | Obj_0069 |  |  |  |  | Objektende |  |
+|  | 028 | 8117 |  | Befundinformationen |  |  |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0017 |  |  |  |  | ObjektIdent |  |
+|  | 020 | 8310 |  | 47112345678 |  |  |  | Auftragsnummer | des Einsenders |
+|  | 036 | 8214 |  | Timestamp_Auftragserteilung | | |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |
+|  | 020 | 8311 |  | 47112345678 |  |  | ID | Auftragsnummer | des Labors |
+|  | 023 | 7305 |  | 47112345678001 |  |  | Befund-ID |  |  |
+|  | 010 | 8401 | 2 |  |  |  | Status | (Befund/Bericht) | |
+|  | 035 | 8216 |  | Timestamp_Befunderstellung | | |  | Objektattribut |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |
+|  | 017 | 7278 | JJJJMMTT |  |  |  | Datum | des | Timestamp |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 46 von 66 |  |  |  |
 
+IT in der Arztpraxis Dr. med. Siegburger Straße 3. Hinterhaus Größe der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Gewicht der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Auftragsnummer des Einsenders Datum des Timestamp Uhrzeit des Timestamp ID Auftragsnummer des Labors Status (Befund/Bericht) Datum des Timestamp LDT 3 Use Cases, Version 3.2.19 Seite 46 von 66
 
+---
+
+**IT in der Arztpraxis**  LDT 3   019 7279 HHmmss(ms) Uhrzeit des Timestamp  014 7273 UTC+1 Zeitzone  017 8003 Obj_0054 Objektende  037 8126 Fehlermeldung_Aufmerksamkeit Objektattribut  017 8002 Obj_0026 ObjektIdent  010 7280 5 Grund der Benachrichtigung  015 8147 Person Objektattribut  017 8002 Obj_0047 ObjektIdent  011 7420 07 Status Person  019 3101 Zusatzarzt Nachname  015 3102 Thomas Vorname  012 3104 Dr. Titel  017 8003 Obj_0047 Objektende  035 8167 Zusaetzliche_Informationen Objektattribut  017 8002 Obj_0068 ObjektIdent  Eingesandte Menge Probenmate- 066 3564 Text  rial „Serum“ war grenzwertig.  038 3564  Leerzeile  Bitte senden Sie uns bei zukünfti- 100 3564 gen Aufträgen Probenmaterial ent- Text  sprechend der Vorgaben zu.  017 8003 Obj_0068 Objektende  017 8003 Obj_0026 Objektende  017 8003 Obj_0017 Objektende  017 8137 Material Objektattribut  017 8002 Obj_0037 ObjektIdent  019 7364 1234567802 Probengefäß-Ident  010 8429 2 Probenmaterial Index  011 8428 SE Probenmaterial-Ident  014 8430 Serum Probenmaterial-Bezeichnung  017 8431 gefroren Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der  010 8504 1  Materialentnahme  019 8170 Medikament Objektattribut  017 8002 Obj_0070 ObjektIdent  025 6208 Arzneimittel XYZ Handelsname des Arzneimittels  017 8003 Obj_0070 Objektende  Timestamp_Materialabnahme_ent- 043 8219 Objektattribut  nahme  017 8002 Obj_0054 ObjektIdent  017 7278 JJJJMMTT Datum des Timestamp  019 7279 HHmmss(ms) Uhrzeit des Timestamp  014 7273 UTC+1 Zeitzone   017 8003 Obj_0054 Objektende  017 8003 Obj_0037 Objektende  017 8137 Material Objektattribut  017 8002 Obj_0037 ObjektIdent  019 7364 1234567803 Probengefäß-Ident  010 8429 3 Probenmaterial Index  011 8428 CB Probenmaterial-Ident  020 8430 Citrat-Blut Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der  010 8504 1  Materialentnahme
+
+LDT 3 Use Cases, Version 3.2.19 Seite 47 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  0178002Obj_0047ObjektIdent 011742007Status Person 0183101LaborarztName der Person 0163102ManfredVorname der Person 0173104Dr. med.Titel der Person 0178003Obj_0047Objektende 0178003Obj_0043Objektende 01072661Laborart 0178003Obj_0036Objektende 0248119BetriebsstaetteObjektattribut 0178002Obj_0019ObjektIdent 01002042Status der Betriebsstätte 01002045Status der Betriebsstätte 0280203Labor Mueller Meier(N)BSNR-Bezeichnung Betriebs- (BSNR) oder Nebenbetriebsstättennummer 0180201234567891 (NBSNR) 0218143OrganisationObjektattribut 0178002Obj_0043ObjektIdent 0381250Laborarztpraxis Mueller/MeierOrganisation / Firma 0328229Anschrift_ArbeitsstelleObjektattribut 0178002Obj_0007ObjektIdent 014311212345PLZ 0213113MusterhausenOrt 0203107LaborstraßeStraße 011310924Hausnummer 0223115Eingang linksAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende 0288131KommunikationsdatenObjektattribut 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0317335[dr.musterlabor@mail.de](mailto:dr.musterlabor@mail.de)E-Mailadresse 0277334www.musterlabor.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 01380018220Satzende 01380008205Satzart 0338122EinsenderidentifikationObjektattribut 0178002Obj_0022ObjektIdent 011732101Status Einsender 01383124711Kunden-(Arzt)Nummer 0288114ArztidentifikationObjektattribut 0178002Obj_0014ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742002Status der Person 0193101MusterarztNachname 0143102KlausVorname
-
-LDT 3 Use Cases, Version 3.2.19Seite 44von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0183104Dr. med.Titel 0128990KMuNamenskürzel / Namenszeichen Geschaeftliche_Kommunikations- 0448233Objektattribut daten 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0047Objektende 0180212991234567Lebenslange Arztnummer (LANR) 0178003Obj_0014Objektende 0258119BetriebsstaetteObjektattribut 0178002Obj_0019ObjektIdent 01002041Status der Betriebsstätte 01002045Status der Betriebsstätte 0300203Praxis Dr. Musterarzt(N)BSNR-Bezeichnung Betriebs- (BSNR) oder Nebenbetriebsstättennummer 0180201123456789 (NBSNR) 0218143OrganisationObjektattribut 0178002Obj_0043ObjektIdent 0301250Praxis Dr. MusterarztOrganisation / Firma 0328229Anschrift_ArbeitsstelleObjektattribut 0178002Obj_0007ObjektIdent 014311212345PLZ 0213113MusterhausenOrt 0253107MusterarztstraßeStraße 011310926Hausnummer 0253115Vorderhaus linksAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende 0288131KommunikationsdatenObjektattribut 0178002Obj_0031ObjektIdent 0307330+LK_Vorwahl_RufnummerTelefonnummer 0307331+LK_Vorwahl_RufnummerMobiltelefonnummer 0307333+LK_Vorwahl_RufnummerFaxnummer 0307335[dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)E-Mailadresse 0267334www.musterarzt.deWebadresse 0178003Obj_0031Objektende 0178003Obj_0043Objektende 0178003Obj_0019Objektende 0178003Obj_0022Objektende 0168145PatientObjektattribut 0178002Obj_0045ObjektIdent 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742012Status Person 0133100GrafNamenszusatz 0123120vonVorsatzwort 0223101MusterpatientNachname
-
-LDT 3 Use Cases, Version 3.2.19Seite 45von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0133102KarlVorname 017310319600512Geburtsdatum 0173104Dr. med.Titel 0103110MGeschlecht 0228228WohnanschriftObjektattribut 0178002Obj_0007ObjektIdent 014311223456PLZ 0183113MusterortOrt 0263107Siegburger StraßeStraße 0143109425 bHausnummer 02231153. HinterhausAnschriftenzusatz 0103114DWohnsitzländercode 0178003Obj_0007Objektende 0178003Obj_0047Objektende 0193119S040464113Versicherten-ID 0233000KAMUPA47112015Patientennummer 0178003Obj_0045Objektende 0298169KoerperkenngroessenObjektattribut 0178002Obj_0069ObjektIdent 0123622185Größe der Person 0118421cmEinheit des Meßwertes 0278225Timestamp_MessungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 013362398.6Gewicht der Person 0118421kgEinheit des Meßwertes 0278225Timestamp_MessungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0069Objektende 0288117BefundinformationenObjektattribut 0178002Obj_0017ObjektIdent 020831047112345678Auftragsnummer des Einsenders 0368214Timestamp_AuftragserteilungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 020831147112345678ID Auftragsnummer des Labors 023730547112345678001Befund-ID 01084012Status (Befund/Bericht) 0358216Timestamp_BefunderstellungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp
-
-LDT 3 Use Cases, Version 3.2.19Seite 46 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0378126Fehlermeldung_AufmerksamkeitObjektattribut 0178002Obj_0026ObjektIdent 01072805Grund der Benachrichtigung 0158147PersonObjektattribut 0178002Obj_0047ObjektIdent 011742007Status Person 0193101ZusatzarztNachname 0153102ThomasVorname 0123104Dr.Titel 0178003Obj_0047Objektende 0358167Zusaetzliche_InformationenObjektattribut 0178002Obj_0068ObjektIdent Eingesandte Menge Probenmate- 0663564Text rial „Serum“ war grenzwertig. 0383564Leerzeile Bitte senden Sie uns bei zukünfti- 1003564gen Aufträgen Probenmaterial ent-Text sprechend der Vorgaben zu. 0178003Obj_0068Objektende 0178003Obj_0026Objektende 0178003Obj_0017Objektende 0178137MaterialObjektattribut 0178002Obj_0037ObjektIdent 01973641234567802Probengefäß-Ident 01084292Probenmaterial Index 0118428SEProbenmaterial-Ident 0148430SerumProbenmaterial-Bezeichnung 0178431gefrorenProbenmaterial-Spezifikation Medikamenteneinnahme zum Zeitpunkt der01085041 Materialentnahme 0198170MedikamentObjektattribut 0178002Obj_0070ObjektIdent 0256208Arzneimittel XYZHandelsname des Arzneimittels 0178003Obj_0070Objektende Timestamp_Materialabnahme_ent-0438219Objektattribut nahme 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0037Objektende 0178137MaterialObjektattribut 0178002Obj_0037ObjektIdent 01973641234567803Probengefäß-Ident 01084293Probenmaterial Index 0118428CBProbenmaterial-Ident 0208430Citrat-BlutProbenmaterial-Bezeichnung Medikamenteneinnahme zum Zeitpunkt der01085041 Materialentnahme
-
-LDT 3 Use Cases, Version 3.2.19Seite 47 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0198170Medikament 0178002Obj_0070 0256208Arzneimittel XYZ 0178003Obj_0070 Timestamp_Materialabnahme_ent- 0438219 nahme 0178002Obj_0054 0177278JJJJMMTT 0197279HHmmss(ms) 0147273UTC+1 0178003Obj_0054 0178003Obj_0037 0298135Laborergebnisbericht 0178002Obj_0035 0288160UE_Klinische_Chemie 0178002Obj_0060 0267304ErgebnisIDKC12345 01973641234567802 0158410HBs-Ag 0288411Hepatitis B Antigen 010841806 0177302Methode1 011730601 0178420Ergebnis 01084192 0168421Einheit 0198142Normalwert 0178002Obj_0042 011842420 0218460TextTextText 0148461uWert 01084192 0168421Einheit 0148462oWert 01084192 0168421Einheit 0118422++ 0378126Fehlermeldung_Aufmerksamkeit 0178002Obj_0026 01072801 0158147Person 0178002Obj_0047 011742007 0193101Zusatzarzt 0153102Thomas 0123104Dr. 0178003Obj_0047 0358167Zusaetzliche_Informationen 0178002Obj_0068 0373564Achtung!! Wert stark erhöht. 0178003Obj_0068
+**IT in der Arztpraxis**  LDT 3   019 8170 Medikament  017 8002 Obj_0070  025 6208 Arzneimittel XYZ  017 8003 Obj_0070  Timestamp_Materialabnahme_ent- 043 8219  nahme  017 8002 Obj_0054  017 7278 JJJJMMTT  019 7279 HHmmss(ms)  014 7273 UTC+1  017 8003 Obj_0054  017 8003 Obj_0037  029 8135 Laborergebnisbericht  017 8002 Obj_0035  028 8160 UE_Klinische_Chemie  017 8002 Obj_0060  026 7304 ErgebnisIDKC12345  019 7364 1234567802  015 8410 HBs-Ag  028 8411 Hepatitis B Antigen  010 8418 06  017 7302 Methode1  011 7306 01  017 8420 Ergebnis  010 8419 2  016 8421 Einheit  019 8142 Normalwert  017 8002 Obj_0042  011 8424 20  021 8460 TextTextText  014 8461 uWert  010 8419 2  016 8421 Einheit  014 8462 oWert  010 8419 2  016 8421 Einheit  011 8422 ++  037 8126 Fehlermeldung_Aufmerksamkeit 017 8002 Obj_0026  010 7280 1  015 8147 Person  017 8002 Obj_0047  011 7420 07  019 3101 Zusatzarzt  015 3102 Thomas  012 3104 Dr.  017 8003 Obj_0047  035 8167 Zusaetzliche_Informationen  017 8002 Obj_0068  037 3564 Achtung!! Wert stark erhöht. 017 8003 Obj_0068
 
 LDT 3 Use Cases, Version 3.2.19
 
-Objektattribut ObjektIdent Handelsname des Arzneimittels Objektende
+Objektattribut  ObjektIdent  Handelsname des Arzneimittels  Objektende
 
 Objektattribut
 
-ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektende Objektende Objektattribut ObjektIdent Objektattribut ObjektIdent Ergebnis ID Probengefäß-Ident Test-Ident Testbezeichnung Ergebnisstatus Testmethode Darstellung Ergebniswerte Ergebnis-Wert Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Objektattribut ObjektIdent Normalwertspezifikation Normalwert-Text Normalwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Grenzwertindikator des Laborwerts Objektattribut ObjektIdent Grund der Benachrichtigung Objektattribut ObjektIdent Status Person Nachname Vorname Titel Objektende Objektattribut ObjektIdent Text Objektende
+ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident  Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut  ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut  ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent  Status Person  Nachname  Vorname  Titel  Objektende  Objektattribut  ObjektIdent  Text  Objektende
 
-Seite 48von 66
-
-
----
-
-
-
+Seite 48 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3  0178003Obj_0026 0178003Obj_0042 0268225Timestamp_Messung 0178002Obj_0054 0177278JJJJMMTT 0197279HHmmss(ms) 0147273UTC+1 0178003Obj_0054 0228141Namenskennung 0178002Obj_0041 011742007 0247358Paul Musterarzt 0118990PM 0178003Obj_0041 0328158Untersuchungsabrechnung 0178002Obj_0058 01073031 01041210 014500132xxx 011840625 01086141 0178003Obj_0058 0178003Obj_0060 0288160UE_Klinische_Chemie 0178002Obj_0060 0267304ErgebnisIDKC12302 01973641234567803 0118410Qu 0148411Quick 010841803 0177302Methode5 011730601 0178420Ergebnis 01084192 0168421Einheit 0198142Normalwert 0178002Obj_0042 011842420 0218460TextTextText 0148461uWert 01084192 0168421Einheit 0148462oWert 01084192 0168421Einheit 0108422- 0378126Fehlermeldung_Aufmerksamkeit 0178002Obj_0026 01072801 0158147Person 0178002Obj_0047
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |  |
+|  | 017 | 8003 | Obj_0026 |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 | Obj_0042 |  |  |  | Objektende |  |  |  |
+|  | 026 | 8225 |  | Timestamp_Messung |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  | ObjektIdent |  |  |  |
+|  | 017 | 7278 | JJJJMMTT |  |  | Datum | des | Timestamp |  |  |
+|  | 019 | 7279 | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |  |
+|  | 014 | 7273 | UTC+1 |  |  | Zeitzone |  |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  | Objektende |  |  |  |
+|  | 022 | 8141 | Namenskennung |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0041 |  |  |  | ObjektIdent |  |  |  |
+|  | 011 | 7420 | 07 |  |  | Status | Person |  |  |  |
+|  | 024 | 7358 | Paul Musterarzt |  |  | Name | im Klartext |  |  |  |
+|  | 011 | 8990 | PM |  |  |  | Namenskürzel | / Namenszeichen | |  |
+|  | 017 | 8003 | Obj_0041 |  |  |  | Objektende |  |  |  |
+|  | 032 | 8158 |  | Untersuchungsabrechnung |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0058 |  |  |  | ObjektIdent |  |  |  |
+|  | 010 | 7303 | 1 |  |  |  | Abrechnungsinfo | zur | Untersuchung | |
+|  | 010 | 4121 | 0 |  |  |  | Gebührenordnung |  |  |  |
+|  | 014 | 5001 | 32xxx |  |  |  | Gebührennummer | (GNR) |  |  |
+|  | 011 | 8406 | 25 |  |  | Kosten | in € | -Cent |  |  |
+|  | 010 | 8614 | 1 |  |  | bereits |  | abgerechnet |  |  |
+|  | 017 | 8003 | Obj_0058 |  |  |  | Objektende |  |  |  |
+|  | 017 | 8003 | Obj_0060 |  |  |  | Objektende |  |  |  |
+|  | 028 | 8160 |  | UE_Klinische_Chemie |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0060 |  |  |  | ObjektIdent |  |  |  |
+|  | 026 | 7304 | ErgebnisIDKC12302 |  |  | Ergebnis | ID |  |  |  |
+|  | 019 | 7364 | 1234567803 |  |  |  | Probengefäß-Ident | |  |  |
+|  | 011 | 8410 | Qu |  |  |  | Test-Ident |  |  |  |
+|  | 014 | 8411 | Quick |  |  |  | Testbezeichnung |  |  |  |
+|  | 010 | 8418 | 03 |  |  |  | Ergebnisstatus |  |  |  |
+|  | 017 | 7302 | Methode5 |  |  |  | Testmethode |  |  |  |
+|  | 011 | 7306 | 01 |  |  |  | Darstellung | Ergebniswerte |  |  |
+|  | 017 | 8420 | Ergebnis |  |  |  | Ergebnis-Wert |  |  |  |
+|  | 010 | 8419 | 2 |  |  |  | Einheitensystem | des | Messwertes | / Wertes |
+|  | 016 | 8421 | Einheit |  |  |  | Maßeinheit des | Messwertes | / | Wertes |
+|  | 019 | 8142 | Normalwert |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0042 |  |  |  | ObjektIdent |  |  |  |
+|  | 011 | 8424 | 20 |  |  |  | Normalwertspezifikation | |  |  |
+|  | 021 | 8460 | TextTextText |  |  |  | Normalwert-Text |  |  |  |
+|  | 014 | 8461 | uWert |  |  |  | Normalwert | untere Grenze |  |  |
+|  | 010 | 8419 | 2 |  |  |  | Einheitensystem | des | Messwertes | / Wertes |
+|  | 016 | 8421 | Einheit |  |  |  | Maßeinheit des | Messwertes | / | Wertes |
+|  | 014 | 8462 | oWert |  |  |  | Normalwert | obere Grenze |  |  |
+|  | 010 | 8419 | 2 |  |  |  | Einheitensystem | des | Messwertes | / Wertes |
+|  | 016 | 8421 | Einheit |  |  |  | Maßeinheit des | Messwertes | / | Wertes |
+|  | 010 | 8422 | - |  |  |  | Grenzwertindikator | des | Laborwerts |  |
+|  | 037 | 8126 |  | Fehlermeldung_Aufmerksamkeit | |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0026 |  |  |  | ObjektIdent |  |  |  |
+|  | 010 | 7280 | 1 |  |  | Grund | der | Benachrichtigung |  |  |
+|  | 015 | 8147 | Person |  |  |  | Objektattribut |  |  |  |
+|  | 017 | 8002 | Obj_0047 |  |  |  | ObjektIdent |  |  |  |
+| LDT 3 | Use Cases, | Version | 3.2.19 | Seite | 49 von 66 |  |  |  |  |  |
+
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19 Datum des Timestamp Uhrzeit des Timestamp Status Person Name im Klartext Namenskürzel / Namenszeichen Abrechnungsinfo zur Untersuchung Gebührennummer (GNR) Kosten in € -Cent bereits abgerechnet Ergebnis ID  Darstellung Ergebniswerte Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Grenzwertindikator des Laborwerts Grund der Benachrichtigung Seite 49
+
+---
+
+| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| LDT 3 |  |  |  |  |  |  |  |  |  |  |
+|  | 011 | 7420 | 07 |  |  |  | Status | Person |  |  |
+|  | 019 | 3101 |  | Zusatzarzt |  |  |  | Nachname |  |  |
+|  | 015 | 3102 | Thomas |  |  |  | Vorname |  |  |  |
+|  | 012 | 3104 | Dr. |  |  |  | Titel |  |  |  |
+|  | 017 | 8003 | Obj_0047 |  |  |  |  | Objektende |  |  |
+|  | 035 | 8167 |  | Zusaetzliche_Informationen | |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0068 |  |  |  |  | ObjektIdent |  |  |
+|  | 035 | 3564 | Achtung!! | Wert | zu niedrig. |  | Text |  |  |  |
+|  | 017 | 8003 | Obj_0068 |  |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0026 |  |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0042 |  |  |  |  | Objektende |  |  |
+|  | 026 | 8225 |  | Timestamp_Messung | |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  | Datum | des | Timestamp |  |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |  |
+|  | 022 | 8141 |  | Namenskennung |  |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0041 |  |  |  |  | ObjektIdent |  |  |
+|  | 011 | 7420 | 07 |  |  |  | Status | Person |  |  |
+|  | 024 | 7358 | Paul | Musterarzt |  |  | Name | im Klartext |  |  |
+|  | 011 | 8990 | PM |  |  |  |  | Namenskürzel | / Namenszeichen |  |
+|  | 017 | 8003 | Obj_0041 |  |  |  |  | Objektende |  |  |
+|  | 032 | 8158 |  | Untersuchungsabrechnung | |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0058 |  |  |  |  | ObjektIdent |  |  |
+|  | 010 | 7303 | 2 |  |  |  |  | Abrechnungsinfo | zur | Untersuchung |
+|  | 010 | 4121 | 0 |  |  |  |  | Gebührenordnung |  |  |
+|  | 014 | 5001 | 32xxx |  |  |  |  | Gebührennummer | (GNR) |  |
+|  | 011 | 8406 | 36 |  |  |  | Kosten | in € -Cent |  |  |
+|  | 010 | 8614 | 1 |  |  |  | bereits | abgerechnet | |  |
+|  | 017 | 8003 | Obj_0058 |  |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0060 |  |  |  |  | Objektende |  |  |
+|  |  |  |  |  | Timestamp_Erstellung_Laborer- | |  |  |  |  |
+|  | 050 | 8221 |  |  |  |  |  | Objektattribut |  |  |
+|  |  |  |  | gebnisbericht |  |  |  |  |  |  |
+|  | 017 | 8002 | Obj_0054 |  |  |  |  | ObjektIdent |  |  |
+|  | 017 | 7278 |  | JJJJMMTT |  |  | Datum | des | Timestamp |  |
+|  | 019 | 7279 |  | HHmmss(ms) |  |  | Uhrzeit | des | Timestamp |  |
+|  | 014 | 7273 | UTC+1 |  |  |  | Zeitzone |  |  |  |
+|  | 017 | 8003 | Obj_0054 |  |  |  |  | Objektende |  |  |
+|  | 017 | 8003 | Obj_0035 |  |  |  |  | Objektende |  |  |
+|  | 028 | 8160 |  | UE_Klinische_Chemie | |  |  | Objektattribut |  |  |
+|  | 017 | 8002 | Obj_0060 |  |  |  |  | ObjektIdent |  |  |
+|  | 026 | 7304 |  | ErgebnisIDKC12303 | |  | Ergebnis | ID |  |  |
+|  | 019 | 7364 |  | 1234567802 |  |  |  | Probengefäß-Ident |  |  |
+|  | 012 | 8410 | PSA |  |  |  | Test-Ident |  |  |  |
+|  | 012 | 8411 | PSA |  |  |  |  | Testbezeichnung |  |  |
+|  | 010 | 8418 | 06 |  |  |  |  | Ergebnisstatus |  |  |
+|  | 017 | 7302 | Methode7 |  |  |  |  | Testmethode |  |  |
+|  | 011 | 7306 | 01 |  |  |  |  | Darstellung | Ergebniswerte |  |
+|  | 017 | 8420 | Ergebnis |  |  |  |  | Ergebnis-Wert |  |  |
+|  | 010 | 8419 | 2 |  |  |  |  | Einheitensystem | des | Messwertes / Wertes |
+| LDT 3 | Use Cases, | Version | 3.2.19 |  | Seite | 50 von 66 |  |  |  |  |
+
+IT in der Arztpraxis Status Person Achtung!! Wert zu niedrig. Datum des Timestamp Uhrzeit des Timestamp Status Person Paul Musterarzt Name im Klartext Namenskürzel / Namenszeichen Abrechnungsinfo zur Untersuchung Gebührennummer (GNR) Kosten in € -Cent bereits abgerechnet Datum des Timestamp Uhrzeit des Timestamp Ergebnis ID  Darstellung Ergebniswerte Einheitensystem des Messwertes / Wertes LDT 3 Use Cases, Version 3.2.19 Seite 50
+
+---
+
+**IT in der Arztpraxis**  LDT 3   016 8421 Einheit  019 8142 Normalwert  017 8002 Obj_0042  011 8424 20  021 8460 TextTextText  014 8461 uWert  010 8419 2  016 8421 Einheit  014 8462 oWert  010 8419 2  016 8421 Einheit  011 8422 --  037 8126 Fehlermeldung_Aufmerksamkeit 017 8002 Obj_0026  010 7280 1  015 8147 Person  017 8002 Obj_0047  011 7420 07  019 3101 Zusatzarzt  015 3102 Thomas  012 3104 Dr.  017 8003 Obj_0047  035 8167 Zusaetzliche_Informationen  017 8002 Obj_0068  035 3564 Achtung!! Wert zu niedrig.  017 8003 Obj_0068  017 8003 Obj_0026  017 8003 Obj_0042  026 8225 Timestamp_Messung  017 8002 Obj_0054  017 7278 JJJJMMTT  019 7279 HHmmss(ms)  014 7273 UTC+1  017 8003 Obj_0054  022 8141 Namenskennung  017 8002 Obj_0041  011 7420 07  024 7358 Paul Musterarzt  011 8990 PM  017 8003 Obj_0041  032 8158 Untersuchungsabrechnung  017 8002 Obj_0058  010 7303 6  017 8003 Obj_0058  017 8003 Obj_0060  Timestamp_Erstellung_Laborer- 050 8221  gebnisbericht  017 8002 Obj_0054  017 7278 JJJJMMTT  019 7279 HHmmss(ms)  014 7273 UTC+1
 
 LDT 3 Use Cases, Version 3.2.19
 
-Objektende Objektende Objektattribut ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektende Objektattribut ObjektIdent Status Person Name im Klartext Namenskürzel / Namenszeichen Objektende Objektattribut ObjektIdent Abrechnungsinfo zur Untersuchung Gebührenordnung Gebührennummer (GNR) Kosten in €-Cent bereits abgerechnet Objektende Objektende Objektattribut ObjektIdent Ergebnis ID Probengefäß-Ident Test-Ident Testbezeichnung Ergebnisstatus Testmethode Darstellung Ergebniswerte Ergebnis-Wert Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Objektattribut ObjektIdent Normalwertspezifikation Normalwert-Text Normalwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Grenzwertindikator des Laborwerts Objektattribut ObjektIdent Grund der Benachrichtigung Objektattribut ObjektIdent
-
-Seite 49von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  011742007Status Person 0193101ZusatzarztNachname 0153102ThomasVorname 0123104Dr.Titel 0178003Obj_0047Objektende 0358167Zusaetzliche_InformationenObjektattribut 0178002Obj_0068ObjektIdent 0353564Achtung!! Wert zu niedrig.Text 0178003Obj_0068Objektende 0178003Obj_0026Objektende 0178003Obj_0042Objektende 0268225Timestamp_MessungObjektattribut 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0228141NamenskennungObjektattribut 0178002Obj_0041ObjektIdent 011742007Status Person 0247358Paul MusterarztName im Klartext 0118990PMNamenskürzel / Namenszeichen 0178003Obj_0041Objektende 0328158UntersuchungsabrechnungObjektattribut 0178002Obj_0058ObjektIdent 01073032Abrechnungsinfo zur Untersuchung 01041210Gebührenordnung 014500132xxxGebührennummer (GNR) 011840636Kosten in €-Cent 01086141bereits abgerechnet 0178003Obj_0058Objektende 0178003Obj_0060Objektende Timestamp_Erstellung_Laborer- 0508221Objektattribut gebnisbericht 0178002Obj_0054ObjektIdent 0177278JJJJMMTTDatum des Timestamp 0197279HHmmss(ms)Uhrzeit des Timestamp 0147273UTC+1Zeitzone 0178003Obj_0054Objektende 0178003Obj_0035Objektende 0288160UE_Klinische_ChemieObjektattribut 0178002Obj_0060ObjektIdent 0267304ErgebnisIDKC12303Ergebnis ID 01973641234567802Probengefäß-Ident 0128410PSATest-Ident 0128411PSATestbezeichnung 010841806Ergebnisstatus 0177302Methode7Testmethode 011730601Darstellung Ergebniswerte 0178420ErgebnisErgebnis-Wert 01084192Einheitensystem des Messwertes / Wertes
-
-LDT 3 Use Cases, Version 3.2.19Seite 50von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  0168421Einheit 0198142Normalwert 0178002Obj_0042 011842420 0218460TextTextText 0148461uWert 01084192 0168421Einheit 0148462oWert 01084192 0168421Einheit 0118422-- 0378126Fehlermeldung_Aufmerksamkeit 0178002Obj_0026 01072801 0158147Person 0178002Obj_0047 011742007 0193101Zusatzarzt 0153102Thomas 0123104Dr. 0178003Obj_0047 0358167Zusaetzliche_Informationen 0178002Obj_0068 0353564Achtung!! Wert zu niedrig. 0178003Obj_0068 0178003Obj_0026 0178003Obj_0042 0268225Timestamp_Messung 0178002Obj_0054 0177278JJJJMMTT 0197279HHmmss(ms) 0147273UTC+1 0178003Obj_0054 0228141Namenskennung 0178002Obj_0041 011742007 0247358Paul Musterarzt 0118990PM 0178003Obj_0041 0328158Untersuchungsabrechnung 0178002Obj_0058 01073036 0178003Obj_0058 0178003Obj_0060 Timestamp_Erstellung_Laborer- 0508221 gebnisbericht 0178002Obj_0054 0177278JJJJMMTT 0197279HHmmss(ms) 0147273UTC+1
-
-LDT 3 Use Cases, Version 3.2.19
-
-Maßeinheit des Messwertes / Wertes Objektattribut ObjektIdent Normalwertspezifikation Normalwert-Text Normalwert untere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Normalwert obere Grenze Einheitensystem des Messwertes / Wertes Maßeinheit des Messwertes / Wertes Grenzwertindikator des Laborwerts Objektattribut ObjektIdent Grund der Benachrichtigung Objektattribut ObjektIdent Status Person Nachname Vorname Titel Objektende Objektattribut ObjektIdent Text Objektende Objektende Objektende Objektattribut ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone Objektende Objektattribut ObjektIdent Status Person Name im Klartext Namenskürzel / Namenszeichen Objektende Objektattribut ObjektIdent Abrechnungsinfo zur Untersuchung Objektende Objektende
+Maßeinheit des Messwertes / Wertes  Objektattribut  ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut  ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent  Status Person  Nachname  Vorname  Titel  Objektende  Objektattribut  ObjektIdent  Text  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Objektende  Objektende
 
 Objektattribut
 
-ObjektIdent Datum des Timestamp Uhrzeit des Timestamp Zeitzone
+ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone
 
-Seite 51von 66
-
-
----
-
-
-
+Seite 51 von 66
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 *Hinweis:*
 
 LDT 3 Use Cases, Version 3.2.19
 
-017 017 015 017 012 031 017 027 017 012 017 013 013 025 013
-
-015
+017  017  015  017  012  031  017  027  017  012  017  013  013  025  013 015
 
 017
 
 017
 
-8003 8003 8110 8002 9970 8242 8002 6329 8003 6303 8003 8001 8000 9300 8001
-
-8110
+8003  8003  8110  8002  9970  8242  8002  6329  8003  6303  8003  8001  8000  9300  8001 8110
 
 8002
 
 8003
 
-Obj_0054 Obj_0035 Anhang Obj_0010 100 base64-kodierte_Anlage Obj_0068 InhaltInhaltInhalt Obj_0068 PDF Obj_0010 8205 8221 errechneter Wert 8221
+Obj_0054  Obj_0035  Anhang  Obj_0010  100  base64-kodierte_Anlage  Obj_0068  InhaltInhaltInhalt  Obj_0068  PDF  Obj_0010  8205  8221  errechneter Wert  8221
 
 Anhang
 
@@ -3276,150 +2993,92 @@ Obj_0010
 
 Seite 52 von 66
 
-Objektende Objektende Objektattribut ObjektIdent Dokumententyp Objektattribut ObjektIdent Inhalt der Datei als base64-kodierte Anlage Objektende Dateiformat Objektende Satzende Satzart Prüfsumme Satzende
+Objektende  Objektende  Objektattribut  ObjektIdent  Dokumententyp  Objektattribut  ObjektIdent  Inhalt der Datei als base64-kodierte Anlage  Objektende  Dateiformat  Objektende  Satzende  Satzart  Prüfsumme  Satzende
 
-*Nach einem Objektattribut folgt immer das* *ObjektIdent des Objektes, auf welches* *das Objektattribut verweist!* *Objektende des bezeichneten Objektes.*
-
-
----
-
-
-
+*Nach einem Objektattribut folgt immer das*  *ObjektIdent des Objektes, auf welches*  *das Objektattribut verweist!*  *Objektende des bezeichneten Objektes.*
 
 
 ---
 
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
-### 9. Use Case
+| 9. | Use | Case | 9 – | Befund | | zu | Laborauftrag | | für | Privatpatient |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 9.1. |  | Beschreibung | |  |  |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |  |
+|  | Praxis | Dr. | Musterarzt | | BSNR | 123456789 |  | (Arztpraxis, |  | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus |  | Musterarzt | | LANR | 991234567 |  |  |
+| ID: |  | Arzt123456, | |  | Kundennummer | 4711 |  |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |  |
+|  | Vorderhaus |  | links |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |  |
+|  | Laborarztpraxis | |  | Mueller/Meier | | BSNR | 234567891 |  | (Laborarztpraxis, | |
+| ID: |  | Labor27/12 |  |  |  |  |  |  |  |  |
+|  | Laborstraße | 24 |  |  |  |  |  |  |  |  |
+|  | Eingang | links |  |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von |  | Musterpatient |  | (Patienten-ID | im | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |  |
+|  | Siegburger | | Straße | 425 b |  |  |  |  |  |  |
+|  | D-23456 |  | Musterort |  |  |  |  |  |  |  |
+|  | Geschlecht: | | männlich |  |  |  |  |  |  |  |
+|  | Geb.-Datum: | | 05.12.1960 | |  |  |  |  |  |  |
+|  | Größe: | 185 | cm | gemessen | | am | JJJJMMTT | um HHmm |  |  |
+|  | Gewicht: | 98,6 | kg |  | gemessen | am | JJJJMMTT | um | HHmm |  |
+|  |  | Rechnungsanschrift: | |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von |  | Musterpatient, | Postfach | | 1234, | 23456 Musterstadt |
+|  | MATERIAL: | |  |  |  |  |  |  |  |  |
+|  | Probengefäß | | mit | Nummer |  | 1234567802 | enthält | Serum |  | (gefroren) |
+|  | Probengefäß | | mit | Nummer |  | 1234567803 | enthält |  | Citrat-Blut |  |
+|  | Patient | hat | während | der |  | Probenentnahme | | Arzneimittel | XYZ | verabreicht |
+|  | Material |  | wurde | am | JJJJMMTT | um | HHmm | entnommen | |  |
+|  | DIAGNOSE: | |  |  |  |  |  |  |  |  |
+|  | Verdacht | auf……, |  | C00.1 | gesichert, | | rechts, | Infektion? |  |  |
 
-**9**
+LDT 3 Use Cases, Version 3.2.19
 
-### –
-
-### Befund
-
-### zu
-
-### Laborauftrag für Privat
-
-**9.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte)
-
-ID: Labor27/12
-
-Laborstraße 24
-
-Eingang links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-Größe: 185 cm gemessen am JJJJMMTT um HHmm
-
-Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm
-
-Rechnungsanschrift:
-
-Dr. med. Graf Karl von Musterpatient, Postfach 1234, 23456 Musterstadt
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm entnommen
-
-**DIAGNOSE:**
-
-Verdacht auf……, C00.1 gesichert, rechts,Infektion?
-
-LDT 3 Use Cases, Version 3.2.19Seite 53 von 66
-
-### patient
+9. Use Case 9 – Befund zu Laborauftrag für Privatpatient Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte) ID: Labor27/12 Laborstraße 24 Eingang links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 Größe: 185 cm gemessen am JJJJMMTT um HHmm Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm Dr. med. Graf Karl von Musterpatient, Postfach 1234, 23456 Musterstadt Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm entnommen Verdacht auf……, C00.1 gesichert, rechts, Infektion? Seite 53 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+|  | UNTERSUCHUNGSERGEBNISSE: | | |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Untersuchung | | Hepatitis-B-Antigen | | aus | Serum |  | (Probengefäß | | 1234567802) |
+| Methode1 | durchgeführt | und | hat ein |  | Ergebnis | mit | Wert | ergeben. | Der |
+| ist „++“. | Der | Normalwert wird |  | beschrieben. | | Die GOP | wird |  | mitgeteilt. Die |
+| geschlossen. |  |  |  |  |  |  |  |  |  |
+| Untersuchung | Quick | aus | Citrat-Blut | |  | (Probengefäß |  | 1234567803) | wurde |
+| durchgeführt | und hat | ein | Ergebnis | mit Wert |  | ergeben. | Der |  | Grenzwertindikator |
+| Normalwert | wird | beschrieben. | Die | GOP | wird | mitgeteilt. | | Die | Analytik ist |
+|  |  | FEHLERMELDUNG/AUFMERKSAMKEIT: | | | |  |  |  |  |
+| Material | Ser um | unvollständig, |  | Hinweis | von | Dr. | Zusatzarzt | auf | „Materialmenge |
+| wertig“ |  |  |  |  |  |  |  |  |  |
+|  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |  |  |
+| Der | Befund im Format | PDF | wird als |  | base64-kodierte | | Anlage | mit | übermittelt |
+|  | BEISPEILDATEI: |  |  |  |  |  |  |  |  |
+|  |  | Z01_UseCase09_Befund_mitPDF_ohneUnterschrift.ldt | | | | | |  |  |
 
+LDT 3 Use Cases, Version 3.2.19
 
-
----
-
-**IT in der Arztpraxis** LDT 3  **UNTERSUCHUNGSERGEBNISSE:**
-
-Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- geschlossen.
-
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
-
-**FEHLERMELDUNG/AUFMERKSAMKEIT:**
-
-Material Ser um unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
-
-**ZUSATZINFORMATIONEN:**
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-**BEISPEILDATEI:**
-
-Z01_UseCase09_Befund_mitPDF_ohneUnterschrift.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 54 von 66
-
-- “. Der
+Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ - “. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen. Material Ser um unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Seite 54 von 66
 
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### 10.
 
-### Use Case 1
+### Use Case 12 – Stornierung Untersuchungsanforderungen
 
-**10.1.****Beschreibung**
+**10.1. Beschreibung**
 
 **EINSENDER:**
 
@@ -3443,7 +3102,7 @@ ID: Labor27/12
 
 **PATIENT:**
 
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
+Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem:  KAMUPA47112015)
 
 Siegburger Straße 425 b
 
@@ -3477,286 +3136,166 @@ Z01_UseCase12_Storno_Auftrag.ldt
 
 Hinweis:
 
-Hier wird nur die technische Möglichkeit einer Stornierung beschrieben! Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
+Hier wird nur die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
 
 LDT 3 Use Cases, Version 3.2.19
-
-**2**
-
-### –
-
-### Stornie
-
-### rung Untersuchungsanforderungen
 
 Seite 55 von 66
 
 
 ---
 
+| IT in der | Arztpraxis |  |  |  |
+|---|---|---|---|---|
+| LDT 3 |  |  |  |  |
+| LDT 3 Use | Cases, Version | 3.2.19 | Seite | 56 von 66 |
 
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19 Seite 56 von 66
 
+---
+
+**IT in der Arztpraxis**  LDT 3
+
+| 11. | Use | Case | 13 | – |  | Laborauftrag | | mit | Übermittlung | | Vorbefund |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 11.1. |  | Beschreibung | |  |  |  |  |  |  |  |  |
+|  | EINSENDER: | |  |  |  |  |  |  |  |  |  |
+|  | Praxis | Dr. | Musterarzt |  | BSNR | 123456789 | | (Arztpraxis, | |  | Hauptbetriebsstätte) |
+| Herr | Dr. | med. | Klaus |  | Musterarzt | | LANR | 991234567 |  |  |  |
+| ID: |  | Arzt123456, | |  | Kundennummer | 4711 |  |  |  |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |  |  |  |
+|  | Vorderhaus |  | links |  |  |  |  |  |  |  |  |
+|  | D-12345 |  | Musterhausen | |  |  |  |  |  |  |  |
+|  | Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |  |  |
+|  | LABOR: |  |  |  |  |  |  |  |  |  |  |
+| ID: |  | Labor27/12 |  |  |  |  |  |  |  |  |  |
+|  | PATIENT: |  |  |  |  |  |  |  |  |  |  |
+| Dr. | med. | Graf | Karl | von |  | Musterpatient |  | (Patienten-ID | im |  | Primärsystem: |
+|  |  | KAMUPA47112015) | |  |  |  |  |  |  |  |  |
+|  | Siegburger | | Straße | 425 b |  |  |  |  |  |  |  |
+|  | D-23456 | Musterort | |  |  |  |  |  |  |  |  |
+|  | Geschlecht: | | männlich |  |  |  |  |  |  |  |  |
+|  | Geb.-Datum: | | 05.12.1960 | |  |  |  |  |  |  |  |
+|  | eGK-Nr.: |  | S040464113 |  |  |  |  |  |  |  |  |
+|  | Kasse: | Musterkasse | |  |  |  |  |  |  |  |  |
+|  | VKNR: | 78945 |  |  |  |  |  |  |  |  |  |
+|  |  | Kostenträgerkennung: | |  | 123456789 | |  |  |  |  |  |
+|  | Größe: | 185 | cm | gemessen | | am | JJJJMMTT | um | HHmm |  |  |
+|  | Gewicht: | 98,6 | kg |  | gemessen | am | JJJJMMTT | um | HHmm |  |  |
+|  | DIAGNOSE: | |  |  |  |  |  |  |  |  |  |
+| (für |  | Abrechnung |  | Laborfacharzt) | | C001.1 | G |  |  |  |  |
+| (für |  | Abrechnung |  |  | Laborgemeinschaft | | – Muster | 10A) | C00.2 | V |  |
+|  | MATERIAL: | |  |  |  |  |  |  |  |  |  |
+|  | Probengefäß | | mit | Nummer |  | 1234567802 | enthält |  | Serum | (gefroren) | |
+|  | Probengefäß | | mit | Nummer |  | 1234567803 | enthält |  | Citrat-Blut |  |  |
+|  | Patient | hat | während | der |  | Probenentnahme | | Arzneimittel | | XYZ | verabreicht |
+|  | Material |  | wurde am |  | JJJJMMTT | um | HHmm | entnommen | |  |  |
+
+LDT 3 Use Cases, Version 3.2.19
+
+Use Case 13 – Laborauftrag mit Übermittlung Vorbefund Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. med. Klaus Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben ID: Labor27/12 Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Größe: 185 cm gemessen am JJJJMMTT um HHmm Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm (für Abrechnung Laborfacharzt) C001.1 G (für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V Probengefäß mit Nummer 1234567802 enthält Serum (gefroren) Probengefäß mit Nummer 1234567803 enthält Citrat-Blut Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen Material wurde am JJJJMMTT um HHmm entnommen Seite 57 von 66
 
 
 ---
 
-| IT |  | in | der |  | Arztpraxis |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | LDT | 3 |  |  |  |  |  |  |  |  |
-| LDT |  | 3 | Use | Cases, | Version | 3.2.19 | Seite | 56 | von | 66 |
+**IT in der Arztpraxis**  LDT 3
+
+|  |  |  | UNTERSUCHUNGSANFORDERUNG: | | |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Eilige |  | Untersuchung |  | Hepatitis-B-Antigen | | aus | Serum | (Probengefäß | |
+|  | Laborfacharzt |  | (digitales | Muster 10 | in | Obj_0010 |  | eingefügt) |  |
+|  | Untersuchung | Quick | aus | Citrat-Blut | | (Probengefäß | | 1234567803) | durch |
+| schaft |  | (digitales | Muster 10A | in | Obj_0010 |  | eingefügt) |  |  |
+|  |  | ABRECHNUNGSINFORMATION: | | |  |  |  |  |  |
+| Auftrag | für | Laborfacharzt, | | kurativ |  |  |  |  |  |
+|  | Anforderung | für | Laborgemeinschaft, | | kurativ | |  |  |  |
+|  | VORBEFUND: | |  |  |  |  |  |  |  |
+| Ein | bereits | vorhandener |  | Vorbefund | im | LDT-Format | wird | im | Datensatz mit |
+|  |  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |  |
+| Befund |  | zusätzlich an | Prof. | Dr. med. | Thomas | | Zusatzarzt | per | Fax (Faxnummer) |
+| Patient | war | in Afrika |  |  |  |  |  |  |  |
+|  | BEISPIELDATEI: | |  |  |  |  |  |  |  |
+|  |  | Z01_UseCase13_Auftrag323_323.ldt | | | |  |  |  |  |
+
+LDT 3 Use Cases, Version 3.2.19
+
+Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Laborfacharzt (digitales Muster 10 in Obj_0010 eingefügt) Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt) Auftrag für Laborfacharzt, kurativ Anforderung für Laborgemeinschaft, kurativ Ein bereits vorhandener Vorbefund im LDT-Format wird im Datensatz mit übermittelt.  Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer) Patient war in Afrika Seite 58 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+| 12. | Use | Case | 14 – | Befund | |  | Molekulargenetik | |
+|---|---|---|---|---|---|---|---|---|
+| 12.1. |  | Beschreibung |  |  |  |  |  |  |
+|  | EINSENDER: |  |  |  |  |  |  |  |
+| Praxis | Dr. | Musterarzt | | BSNR | 123456789 | | (Arztpraxis, | Hauptbetriebsstätte) |
+| Herr | Dr. | Musterarzt | | LANR | 991234567 |  |  |  |
+| ID: | Arzt123456, | |  | Kundennummer | | 4711 |  |  |
+|  | Musterarztstraße | | 26 |  |  |  |  |  |
+|  | Vorderhaus | links |  |  |  |  |  |  |
+| D-12345 |  | Musterhausen | |  |  |  |  |  |
+| Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |
+| LABOR: |  |  |  |  |  |  |  |  |
+|  | Laborarztpraxis | |  | Mueller/Meier | BSNR | 234567891 | | (Laborarztpraxis, |
+| ID: | Labor27/12 |  |  |  |  |  |  |  |
+|  | Laborstraße | 24 |  |  |  |  |  |  |
+| Eingang | links |  |  |  |  |  |  |  |
+| D-12345 |  | Musterhausen | |  |  |  |  |  |
+| Tel.-, | Fax-, |  | Mobilnummer | im | Datensatz | | angegeben |  |
+|  | PATIENT: |  |  |  |  |  |  |  |
+| Dr. | med. Graf | Karl | von |  | Musterpatient |  | (Patienten-ID | im Primärsystem: |
+|  | KAMUPA47112015) | |  |  |  |  |  |  |
+|  | Siegburger | Straße | 425 | b |  |  |  |  |
+| D-23456 |  | Musterort |  |  |  |  |  |  |
+|  | Geschlecht: | männlich |  |  |  |  |  |  |
+|  | Geb.-Datum: |  | 05.12.1960 |  |  |  |  |  |
+|  | eGK-Nr.: | S040464113 | |  |  |  |  |  |
+| Kasse: |  | Musterkasse |  |  |  |  |  |  |
+| VKNR: | 78945 |  |  |  |  |  |  |  |
+|  | Kostenträgerkennung: | | | 123456789 | |  |  |  |
+|  | MATERIAL: |  |  |  |  |  |  |  |
+|  | Probengefäß | mit | Nummer |  | 1234567802 | enthält | DNA |  |
+|  | Material | wurde | am | JJJJMMTT | um | HHmm | entnommen |  |
+|  |  | UNTERSUCHUNGSERGEBNISSE: | | | |  |  |  |
+|  | Untersuchung | des |  | CYP21A2-Gens | | und der |  | CYP21A2-Genregion |
+|  |  | Fehlermeldung/Aufmerksamkeit: | | | Text | Text | Text |  |
+|  | Ergebnis: | Ergebnistext | |  |  | ErgebnistextErgebnistext | |  |
 
+LDT 3 Use Cases, Version 3.2.19
 
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 11.
-
-### Use Case
-
-### 13
-
-### –
-
-### Laborauftrag mit Übermittlung Vorbefund
-
-**11.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. med. Klaus Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-ID: Labor27/12
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-Größe: 185 cm gemessen am JJJJMMTT um HHmm
-
-Gewicht: 98,6 kg gemessen am JJJJMMTT um HHmm
-
-**DIAGNOSE:**
-
-(für Abrechnung Laborfacharzt) C001.1 G
-
-(für Abrechnung Laborgemeinschaft – Muster 10A) C00.2 V
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält Serum (gefroren)
-
-Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
-
-Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
-
-Material wurde am JJJJMMTT um HHmm entnommen
-
-LDT 3 Use Cases, Version 3.2.19Seite 57 von 66
+Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte) Herr Dr. Musterarzt LANR 991234567 ID: Arzt123456, Kundennummer 4711 Musterarztstraße 26 Vorderhaus links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte) ID: Labor27/12 Laborstraße 24 Eingang links D-12345 Musterhausen Tel.-, Fax-, Mobilnummer im Datensatz angegeben Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: Siegburger Straße 425 b D-23456 Musterort Geschlecht: männlich Geb.-Datum: 05.12.1960 eGK-Nr.: S040464113 Kasse: Musterkasse VKNR: 78945 Kostenträgerkennung: 123456789 Probengefäß mit Nummer 1234567802 enthält DNA Material wurde am JJJJMMTT um HHmm entnommen  Untersuchung des CYP21A2-Gens und der CYP21A2-Genregion Fehlermeldung/Aufmerksamkeit: Text Text Text Ergebnis: Ergebnistext ErgebnistextErgebnistext Use Case 14 – Befund Molekulargenetik Seite 59 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+| Zusätzliche |  | Informationen: | Text | Text Text |  |  |  |
+|---|---|---|---|---|---|---|---|
+| Die GOP | und die | Kosten werden |  | mitgeteilt. | Die | Analytik | ist abgeschlossen. |
+|  | ZUSATZINFORMATIONEN: | |  |  |  |  |  |
+| Der | Befund im Format | PDF | wird als |  | base64-kodierte | Anlage | mit übermittelt |
+|  | BEISPIELDATEI: |  |  |  |  |  |  |
+|  |  | Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt | | | |  |  |
 
+LDT 3 Use Cases, Version 3.2.19
 
-
----
-
-**IT in der Arztpraxis** LDT 3  **UNTERSUCHUNGSANFORDERUNG:**
-
-Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch Laborfacharzt (digitales Muster 10 in Obj_0010 eingefügt)
-
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt)
-
-**ABRECHNUNGSINFORMATION:**
-
-Auftrag für Laborfacharzt, kurativ
-
-Anforderung für Laborgemeinschaft, kurativ
-
-**VORBEFUND:** Ein bereits vorhandener Vorbefund im LDT-Format wird im Datensatz mit übermittelt.
-
-**ZUSATZINFORMATIONEN:**
-
-Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
-
-Patient war in Afrika
-
-**BEISPIELDATEI:**
-
-Z01_UseCase13_Auftrag323_323.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 58 von 66
+Zusätzliche Informationen: Text Text Text Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen. Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Seite 60 von 66
 
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
-
-### 12.
-
-### Use Case
-
-### 14
-
-### –
-
-### Befund
-
-### Molekulargenetik
-
-**12.1.****Beschreibung**
-
-**EINSENDER:**
-
-Praxis Dr. Musterarzt BSNR 123456789 (Arztpraxis, Hauptbetriebsstätte)
-
-Herr Dr. Musterarzt LANR 991234567
-
-ID: Arzt123456, Kundennummer 4711
-
-Musterarztstraße 26
-
-Vorderhaus links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**LABOR:**
-
-Laborarztpraxis Mueller/Meier BSNR 234567891 (Laborarztpraxis, Hauptbetriebsstätte)
-
-ID: Labor27/12
-
-Laborstraße 24
-
-Eingang links
-
-D-12345 Musterhausen
-
-Tel.-, Fax-, Mobilnummer im Datensatz angegeben
-
-**PATIENT:**
-
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
-
-Siegburger Straße 425 b
-
-D-23456 Musterort
-
-Geschlecht: männlich
-
-Geb.-Datum: 05.12.1960
-
-eGK-Nr.: S040464113
-
-Kasse: Musterkasse
-
-VKNR: 78945
-
-Kostenträgerkennung: 123456789
-
-**MATERIAL:**
-
-Probengefäß mit Nummer 1234567802 enthält DNA
-
-Material wurde am JJJJMMTT um HHmm entnommen
-
-**UNTERSUCHUNGSERGEBNISSE:**
-
-Untersuchung des CYP21A2-Gens und der CYP21A2-Genregion
-
-Fehlermeldung/Aufmerksamkeit: Text Text Text
-
-Ergebnis: Ergebnistext ErgebnistextErgebnistext
-
-LDT 3 Use Cases, Version 3.2.19Seite 59 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  Zusätzliche Informationen: Text Text Text
-
-Die GOP und die Kosten werden mitgeteilt. Die Analytik ist abgeschlossen.
-
-**ZUSATZINFORMATIONEN:**
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-**BEISPIELDATEI:**
-
-Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 60 von 66
-
-
----
-
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### 13.
 
-### Use Case 15
+### Use Case 15 – Befund (konventionelle und SI-Einheiten)
 
-**13.1.****Beschreibung**
+**13.1. Beschreibung**
 
-In diesem UseCase wird die Ausgabe von Ergebniswerten und dazugehörigen Normalwerten im LDT 3 mit konventionellen Maßeinheiten und SI che sind in dem Beispieldatensatz grün hinterlegt hervorgehoben.
+In diesem UseCase wird die Ausgabe von Ergebniswerten und dazugehörigen Normalwerten im  LDT 3 mit konventionellen Maßeinheiten und SI che sind in dem Beispieldatensatz grün hinterlegt hervorgehoben.
 
 **EINSENDER:**
 
@@ -3790,7 +3329,7 @@ Tel.-, Fax-, Mobilnummer im Datensatz angegeben
 
 **PATIENT:**
 
-Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem: KAMUPA47112015)
+Dr. med. Graf Karl von Musterpatient (Patienten-ID im Primärsystem:  KAMUPA47112015)
 
 Siegburger Straße 425 b
 
@@ -3816,89 +3355,62 @@ Material wurde am JJJJMMTT um HHmm entnommen
 
 LDT 3 Use Cases, Version 3.2.19
 
-### –
-
-### Befund (
-
-### konventionelle und SI
-
 -Maßeinheiten beispielhaft dargestellt. Die Berei-
 
 Seite 61 von 66
 
-**-**
-
-### Einheiten
-
-**)**
-
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3  **UNTERSUCHUNGSERGEBNISSE:**
-
-Untersuchung Glucose im Plasma (Probengefäß 1234567801) wurde durchgeführt und hat ein Ergebnis ergeben. Der Ergebniswert wird sowohl als konventionelle Einheit und SI-Einheit ausgegeben. Die Normalwerte zu beiden Einheitensystemen werden be- schrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
-
-**ZUSATZINFORMATIONEN:**
-
-Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
-
-**BEISPIELDATEI:**
-
-Z01_UseCase15_Befund_mit_PDF.ldt
+|  |  | UNTERSUCHUNGSERGEBNISSE: | | | |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Untersuchung | | Glucose | im | Plasma |  | (Probengefäß |  | 1234567801) | wurde |
+| hat ein | Ergebnis | ergeben. | | Der | Ergebniswert | wird | sowohl | als | konventionelle |
+| SI-Einheit |  | ausgegeben. | Die |  | Normalwerte | zu | beiden |  | Einheitensystemen |
+| schrieben. | Die | GOP wird |  | mitgeteilt. | Die | Analytik | ist |  | abgeschlossen. |
+|  | ZUSATZINFORMATIONEN: | | |  |  |  |  |  |  |
+| Der | Befund im | Format | PDF | wird als |  | base64-kodierte | | Anlage | mit übermittelt |
+|  | BEISPIELDATEI: |  |  |  |  |  |  |  |  |
+|  |  | Z01_UseCase15_Befund_mit_PDF.ldt | | | |  |  |  |  |
 
 LDT 3 Use Cases, Version 3.2.19
 
-Seite 62 von 66
+Untersuchung Glucose im Plasma (Probengefäß 1234567801) wurde durchgeführt und hat ein Ergebnis ergeben. Der Ergebniswert wird sowohl als konventionelle Einheit und SI-Einheit ausgegeben. Die Normalwerte zu beiden Einheitensystemen werden be- schrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen. Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt Seite 62 von 66
 
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### 14.
 
-### Use Case 1
+### Use Case 16 – Darstellung des Inhaltes Obj_0068
 
-In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die Anzeige im empfangenden System dargestellt.
+In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die Anzeige im empfangenden  System dargestellt.
 
-**14.1.****Reiner Fließtext ohne vordefinierte Formatierung**
+**14.1. Reiner Fließtext ohne vordefinierte Formatierung**
 
 Beispiel:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, co dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
 
 Darstellung im Obj_0068:
 
-0218237Ergebnistext 0178002Obj_0068 9993564 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen) 0178003Obj_0068
+0218237Ergebnistext  0178002Obj_0068  9993564 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen)  0178003Obj_0068
 
 Darstellung im empfangenden System:
 
 Fließtext je nach Breite der Anzeige
 
-Lorem ipsumdolorsitamet, consectetur adipisici elit, sed ei- usmod tempor incidunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse- quat. Quis aute iure reprehenderit in voluptate velit esse cillum do- lore eufugiatnullapariatur. Excepteur sint obcaecat cupiditatnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim adminimveniam,quis nostrud exercitation ullamco la-boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipi- sici elit, sed eiusmod tempor inci- dunt ut labore et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea com- modi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt inculpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet,  consectetur adipisici elit, sed ei- usmod tempor incidunt ut labore  et dolore magna aliqua. Ut enim  ad minim veniam, quis nostrud  exercitation ullamco laboris nisi ut     aliquid ex ea commodi conse- quat. Quis aute iure reprehenderit  in voluptate velit esse cillum do- lore eu fugiat nulla pariatur.  Excepteur sint obcaecat cupiditat  non proident, sunt in culpa qui  officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit   amet, consectetur adipisici elit,  sed eiusmod tempor incidunt ut  labore et dolore magna aliqua. Ut   enim ad minim veniam, quis  nostrud exercitation ullamco la- boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure  reprehenderit in voluptate velit   esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  cupiditat non proident, sunt in   culpa qui officia deserunt mollit  anim id est laborum. Lorem ipsum  dolor sit amet, consectetur adipi- sici elit, sed eiusmod tempor inci- dunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco  laboris nisi ut aliquid ex ea com-  modi consequat. Quis aute iure  reprehenderit in voluptate velit  esse cillum dolore eu fugiat nulla   pariatur. Excepteur sint obcaecat  cupiditat non proident, sunt in  culpa qui officia deserunt mollit  anim id est laborum.
 
 LDT 3 Use Cases, Version 3.2.19
 
-**6**
+oder
 
-### –
-
-### Darstellung des Inhaltes Obj_0068
-
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut al quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iureoder reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut al quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint  obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor  sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad  minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non  proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur  adipisici elit, sed eiusmod tempor incidunt ut labore et dolore nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in  culpa qui officia deserunt mollit anim id est laborum.
 
 nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
 
@@ -3915,13 +3427,7 @@ ea
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### 14.2.
 
@@ -3929,13 +3435,13 @@ ea
 
 Beispiel:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia: deserunt mollit anim id est laborum orem ipsum dolor sit amet consectetur adipisici.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  Quis aute iure reprehenderit  Excepteur sint
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur.   Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  deserunt mollit anim  id est laborum  orem ipsum dolor  sit amet  consectetur adipisici.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  aliquid ex ea commodi consequat.   Quis aute iure reprehenderit   Excepteur sint
 
 Darstellung im Obj_0068:
 
-0218237Ergebnistext 0178002Obj_0068 0833564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor 0813564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat 0243564nulla pariatur. 0093564 0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia: 02903564deserunt mollit anim 0233564id est laborum 0253564orem ipsum dolor 0173564sit amet 0313564consectetur adipisici. 0093564 0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 0413564aliquid ex ea commodi consequat. 0093564 0373564Quis aute iure reprehenderit 0093564 0233564Excepteur sint 0093564 0178003Obj_0068  Darstellung im empfangenden System:
+0218237Ergebnistext  0178002Obj_0068  0833564Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  0813564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  0243564nulla pariatur.  0093564  0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  02903564deserunt mollit anim  0233564id est laborum  0253564orem ipsum dolor  0173564sit amet  0313564consectetur adipisici.  0093564  0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  0413564aliquid ex ea commodi consequat.  0093564  0373564Quis aute iure reprehenderit  0093564  0233564Excepteur sint  0093564  0178003Obj_0068   Darstellung im empfangenden System:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia: deserunt mollit anim id est laborum orem ipsum dolor sit amet consectetur adipisici.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  Quis aute iure reprehenderit  Excepteur sint
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur.   Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  deserunt mollit anim  id est laborum  orem ipsum dolor  sit amet  consectetur adipisici.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  aliquid ex ea commodi consequat.   Quis aute iure reprehenderit   Excepteur sint
 
 LDT 3 Use Cases, Version 3.2.19
 
@@ -3944,25 +3450,15 @@ Seite 64 von 66
 
 ---
 
-
-
-
-
----
-
-**IT in der Arztpraxis** LDT 3
+**IT in der Arztpraxis**  LDT 3
 
 ### 15.
 
-### Use Case 17
+### Use Case 17 – Befund Krebsfrüherkennung Zervix-
 
-### –
+### Karzinom
 
-### Befund Krebsfrü
-
-### herkennung Zervix
-
-**15.1.****Beschreibung**
+**15.1. Beschreibung**
 
 **EINSENDER:**
 
@@ -3998,9 +3494,7 @@ Tel.-, Fax-, Mobilnummer im Datensatz angegeben
 
 Karla Musterpatientin (Patienten-ID im Primärsystem: PMUFR2312345)
 
-Siegburger Straße 425 b
-
-3. Hinterhaus
+Siegburger Straße 425 b 3. Hinterhaus
 
 D-23456 Musterort
 
@@ -4024,51 +3518,27 @@ Material wurde am JJJJMMTT um HHmm entnommen
 
 **UNTERSUCHUNGSERGEBNISSE:**
 
-Endozervikale Zellen vorhanden, Proliferationsgrad 3 – 4, Döderleinflora vorhanden, Gruppe IIID1, HPV-HR-Testergebnis negativ
+Endozervikale Zellen vorhanden, Proliferationsgrad 3 – 4, Döderleinflora vorhanden,  Gruppe IIID1, HPV-HR-Testergebnis negativ
 
 Bemerkungen: Döderlein-Zytolyse
 
-LDT 3 Use Cases, Version 3.2.19Seite 65 von 66
-
-**-**
-
-### Karzinom
+LDT 3 Use Cases, Version 3.2.19 Seite 65 von 66
 
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
 
+| Empfohlen | wird | eine |  | Abklärungskolposkopie | in | 3 Monaten |  |  |
+|---|---|---|---|---|---|---|---|---|
+| Die | unten | dargestellten | Angaben | aus | dem Muster | 39 | (linker | Teil des |
+| ebenfalls | im Befund | mit | übermittelt: | |  |  |  |  |
+|  |  |  | 0 0 | 1 8 |  |  |  |  |
+|  | 0 2 0 2 | 2 0 |  |  |  |  |  |  |
+|  | ZUSATZINFORMATIONEN: | | |  |  |  |  |  |
+| Das | Muster 39 | wird als | Digitales | Muster | 39 im | Format | PDF als | base64-kodierte |
+| mit | übermittelt. |  |  |  |  |  |  |  |
+|  | BEISPIELDATEI: |  |  |  |  |  |  |  |
+|  | Z01_UseCase17_Muster39.ldt | | |  |  |  |  |  |
 
-
-
----
-
-**IT in der Arztpraxis** LDT 3  Empfohlen wird eine Abklärungskolposkopie in 3 Monaten
-
-Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden ebenfalls im Befund mit übermittelt:
-
-0 0 1 8
-
-0 2 0 2 2 0
-
-**ZUSATZINFORMATIONEN:**
-
-Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anlage mit übermittelt.
-
-**BEISPIELDATEI:**
-
-Z01_UseCase17_Muster39.ldt
-
-LDT 3 Use Cases, Version 3.2.19Seite 66 von 66
-
-
----
-
-
-
-
-
-
-
-
-
+Empfohlen wird eine Abklärungskolposkopie in 3 Monaten Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden ebenfalls im Befund mit übermittelt: 0 0 1 8 0 2 0 2 2 0 Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anlage mit übermittelt. LDT 3 Use Cases, Version 3.2.19 Seite 66 von 66

@@ -10,17 +10,23 @@
 
 Nähere Angaben zu den Empfehlungen
 
-Diagnose(n)/Verdachtsdiagnose(n)
+Diagnose(n)/Verdachtsdiagnose(n) (im Klartext), weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
 
-***(im Klartext), weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen***
+***Diese Information enthält Ihren vorläufigen Befund***  ***und Empfehlungen zum weiteren Vorgehen.***
 
-***Diese Information enthält Ihren vorläufigen Befund******und Empfehlungen zum weiteren Vorgehen.******Bitte legen Sie diese Information bei einer Weiterbehandlung vor.***
+***Bitte legen Sie diese Information bei einer Weiterbehandlung vor.***
 
 Ausstellungsdatum
 
 Stempel / Unterschrift Therapeut*in
 
-Datum oder ggf. Daten der letzten 50 Minuten der Sprechstunde,**Ergebnis der Psychotherapeutischen Sprechstunde**Bei Ihnen wurde(n) folgende Diagnose(n)/Verdachtsdiagnose(n) festgestellt
+Datum oder ggf. Daten der letzten 50 Minuten der Sprechstunde
+
+,
+
+**Ergebnis der Psychotherapeutischen Sprechstunde**
+
+Bei Ihnen wurde(n) folgende Diagnose(n)/  Verdachtsdiagnose(n) festgestellt
 
 **Empfehlungen zum weiteren Vorgehen**
 
@@ -30,11 +36,11 @@ keine Maßnahme notwendig
 
 Präventionsmaßnahme
 
-ambulante PsychotherapeutischeAkutbehandlung
+ambulante Psychotherapeutische  Akutbehandlung
 
 stationäre Behandlung
 
-ambulantePsychotherapie
+ambulante  Psychotherapie
 
 Krankenhausbehandlung
 
@@ -54,29 +60,31 @@ Weitervermittlungzeitnah erforderlich
 
 Verhaltenstherapie
 
-Bei Ihnen wurden keine Anhaltspunkte für einebehandlungsbedürftige psychische Störung festgestellt
+Bei Ihnen wurden keine Anhaltspunkte für eine  behandlungsbedürftige psychische Störung festgestellt
 
-Die psychotherapeutische Behandlung kann in dieser Praxisdurchgeführt werden
+Die psychotherapeutische Behandlung kann in dieser Praxis  durchgeführt werden
 
-Die psychotherapeutische Behandlung kann**NICHT**in dieser Praxis durchgeführt werden
+Die psychotherapeutische Behandlung kann NICHT in  dieser Praxis durchgeführt werden
 
-andere Maßnahmen außerhalb der gesetzlichenKrankenversicherung
+andere Maßnahmen außerhalb der gesetzlichen  Krankenversicherung
 
 ICD-10 - GM endständig
 
 Fachgebiet
 
-ICD-10 - GM endständigICD-10 - GM endständig
+ICD-10 - GM endständig ICD-10 - GM endständig
 
-DatumUhrzeit,:
+DatumUhrzeit
+
+:,
 
 Name, Vorname des Versicherten
 
-geb. am Kostenträgerkennung
+geb. am
 
-Versicherten-Nr.Status Betriebsstätten-Nr.
+Kostenträgerkennung Versicherten-Nr.Status
 
-Arzt-Nr.Datum
+Betriebsstätten-Nr. Arzt-Nr.Datum
 
 Krankenkasse bzw. Kostenträger
 
@@ -84,8 +92,12 @@ PRF.NR. Muster PTV 11b/E (7.2020)
 
 Datum
 
-Unterschrift Patient*in,ggf. der gesetzlichen Vertreter*innen
+Unterschrift Patient*in,  ggf. der gesetzlichen Vertreter*innen
 
-PLZOrtStraßeName mitbehandelnde*r Ärztin/Arzt, Hausärztin/Hausarzt
+PLZOrt
 
-**Erklärung Patient*in**Eine Kopie dieser Information darf erhalten:
+Straße
+
+Name mitbehandelnde*r Ärztin/Arzt, Hausärztin/Hausarzt
+
+**Erklärung Patient*in**  Eine Kopie dieser Information darf erhalten:

@@ -1,99 +1,176 @@
-Schema KVTA_Einlieferung_eDoku_2_0_0.xsd   element einlieferung
+Schema KVTA_Einlieferung_eDoku_2_0_0.xsd   element einlieferung  diagram
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
-| type | extension of Einlieferung_typ |
-|---|---|
+namespace
+
+type
+
 | children | quartal anhang version guid bsnr testdaten lieferungs_zeitpunkt dokumenten_typ |
+|---|---|
+|  | documentation |
+| annotation |  |
+|  | Einliefungsdokument für eDoku. |
 
-annotation
+[http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0](http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0)
 
-documentation Einliefungsdokument für eDoku.
+extension of Einlieferung_typ
 
 
 ---
 
-element einlieferung/bsnr
+element einlieferung/bsnr  diagram
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
+|  | Name Type Use Default Fixed Annotation |
 |---|---|
-| attributes | Name Type Use Default Fixed Annotation V required derived by: |
-| xs:string |
+| attributes |  |
+|  | V required derived by: |
+|  | xs:string |
 
 attribute einlieferung/bsnr/@V
 
-| type | restriction of xs:string |
+|  | Kind Value Annotation |
 |---|---|
-| facets | Kind Value Annotation maxLength 9 whiteSpace collapse |
+| facets |  |
+|  | maxLength 9 |
+|  | whiteSpace collapse |
 
-element einlieferung/testdaten
+element einlieferung/testdaten  diagram
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
+namespace
+
+attributes
+
+attribute einlieferung/testdaten/@V  type    element einlieferung/lieferungs_zeitpunkt  diagram
+
+namespace
+
+attributes
+
+| attribute | einlieferung/lieferungs_zeitpunkt/@V |
 |---|---|
-| attributes | Name Type Use Default Fixed Annotation xs:boolean V required |
+| type | xs:dateTime |
 
-attribute einlieferung/testdaten/@V type   element einlieferung/lieferungs_zeitpunkt
+[http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0](http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0)
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
-|---|---|
-| attributes | Name Type Use Default Fixed Annotation xs:dateTime V required |
-
-attribute einlieferung/lieferungs_zeitpunkt/@V type
+Name  V
 
 **xs:boolean**
 
-**xs:dateTime**
+[http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0](http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0)
 
+Name  V
+
+Type  **xs:boolean**
+
+Type  **xs:dateTime**
+
+Use  required
+
+Use  required
+
+Default
+
+Default
+
+Fixed
+
+Fixed
+
+Annotation
+
+Annotation
+
+namespace http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 type restriction of xs:string attribute einlieferung/lieferungs_zeitpunkt/@V
 
 ---
 
-element einlieferung/dokumenten_typ
+element einlieferung/dokumenten_typ  diagram
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
+|  | Name Type Use Default Fixed Annotation |
 |---|---|
-| attributes | Name Type Use Default Fixed Annotation V required derived by: |
-| Abstrakt_dokumententyp_typ |
-| annotation | documentation QSMG, QSHGV, QSHGVK, QSHLT oder QSKE (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen). |
+| attributes |  |
+|  | V required derived by: |
+|  | Abstrakt_dokumententyp_typ |
+
+|  | documentation |
+|---|---|
+| annotation |  |
+|  | QSMG, QSHGV, QSHGVK, QSHLT oder QSKE (Wird als Schlüssel benutzt um das Dokument einer Gruppe von |
+|  | Dokumenten zuzuordnen). |
 
 attribute einlieferung/dokumenten_typ/@V
 
-| type | restriction of Abstrakt_dokumententyp_typ |
+|  | Kind Value Annotation |
 |---|---|
-| facets | Kind Value Annotation enumeration QSMG enumeration QSHGV enumeration QSHGVK enumeration QSHLT enumeration QSKE |
+| facets |  |
+|  | enumeration QSMG |
+|  | enumeration QSHGV |
+|  | enumeration QSHGVK |
+|  | enumeration QSHLT |
+|  | enumeration QSKE |
 
-element einlieferung/quartal
+element einlieferung/quartal  diagram
 
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
+|  | Name Type Use Default Fixed Annotation |
 |---|---|
-| attributes | Name Type Use Default Fixed Annotation V required appinfo derived by: |
-| xs:string <altova:exampleValues> <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> |
-| annotation | documentation 1 zu übermitteln Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 - |
+| attributes |  |
+|  | V required appinfo derived by: |
+|  | xs:string <altova:exampleValues> |
+|  | <altova:example |
+|  | value="2011-1"/> |
+|  | <altova:example |
+|  | value="2011-2"/> |
+|  | <altova:example |
+|  | value="2011-3"/> |
+|  | <altova:example |
+|  | value="2011-4"/> |
+|  | </altova:exampleValues> |
 
-attribute einlieferung/quartal/@V typerestriction of xs:string
+annotation
+
+| attribute | einlieferung/quartal/@V |
+|---|---|
+| type | restriction of xs:string |
+
+documentation  Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011
+
+namespace http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 type restriction of Abstrakt_dokumententyp_typ namespace http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 attribute einlieferung/quartal/@V -1 zu übermitteln
 
 
 ---
 
-| facets | Kind Value Annotation length 6 |
-|---|---|
-| annotation | appinfo <altova:exampleValues> <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> |
+facets
 
-element einlieferung/anhang
-
-| diagram |  |
-| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
+|  | appinfo |
 |---|---|
-| attributes | Name Type Use Default Annotation Fixed xs:string V required |
+| annotation |  |
+|  | <altova:exampleValues> |
+|  | <altova:example value="2011-1"/> |
+|  | <altova:example value="2011-2"/> |
+|  | <altova:example value="2011-3"/> |
+|  | <altova:example value="2011-4"/> |
+|  | </altova:exampleValues> |
+
+element einlieferung/anhang  diagram
+
+|  | Name Type Use Default Annotation |
+|---|---|
+| attributes | Fixed |
+|  | xs:string V required |
 
 annotation
 
-attribute einlieferung/anhang/@V type    XML Schema documentation generated by XMLSpy Schema Editor [http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)
+| attribute | einlieferung/anhang/@V |
+|---|---|
+| type | xs:string |
 
-documentation eDoku Dokumente eines Types.
+XML Schema documentation generated by XMLSpy Schema Editor [http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)
 
-**xs:string**
+Kind  length
+
+documentation  eDoku Dokumente eines Types.
+
+Value  6
+
+Annotation
+
+namespace http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 attribute einlieferung/anhang/@V

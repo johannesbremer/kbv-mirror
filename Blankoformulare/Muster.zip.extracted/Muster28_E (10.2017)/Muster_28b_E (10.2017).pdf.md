@@ -48,7 +48,9 @@
 
 **Datum**
 
-**wird** **vermieden**
+|  | wird |  | wird |  |
+|---|---|---|---|---|
+|  | vermieden |  | verkürzt |  |
 
 **Geldinstitut**
 
@@ -63,8 +65,6 @@
 **Diagnose** ***(ICD-10-Code)***
 
 **Erkrankung besteht seit (falls bekannt)**
-
-**wird** **verkürzt**
 
 **Datum**
 

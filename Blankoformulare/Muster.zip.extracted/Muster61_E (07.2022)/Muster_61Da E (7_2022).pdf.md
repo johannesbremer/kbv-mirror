@@ -2,33 +2,33 @@ ja eingeschränkt, hinsichtlich (z. B. Erreichbarkeit ***in der vorgesehenen Zei
 
 **Die beantragte Leistung ist vor Ablauf der gesetzlichen Wartefrist von 4 Jahren medizinisch notwendig aufgrund**
 
-Begleitperson erforderlichöffentlicheVerkehrsmittel
+Begleitperson erforderlich öffentliche  Verkehrsmittel
 
 neuer IndikationVerschlimmerung bei gleicher Indikation
 
-**Versorgung der/des Pflegebedürftigen während der stationären Rehabilitation der/des pflegenden Angehörigen**Mitaufnahme der/des Pflegebedürftigen in derselben Einrichtung gewünscht
+**Versorgung der/des Pflegebedürftigen während der stationären Rehabilitation der/des pflegenden Angehörigen**
 
-***(sofern medizinische Gründe dagegen sprechen, sind diese unter Sonstiges anzugeben)***
+Mitaufnahme der/des Pflegebedürftigen in derselben Einrichtung gewünscht  ***(sofern medizinische Gründe dagegen sprechen, sind diese unter Sonstiges anzugeben)***
 
-Koordination der Versorgung der/des Pflegebedürftigen in einer anderen Einrichtungdurch Krankenkasse/Pflegekasse gewünscht
+Koordination der Versorgung der/des Pflegebedürftigen in einer anderen Einrichtung  durch Krankenkasse/Pflegekasse gewünscht
 
 PKW erforderlich
 
 **Die zeitweise Entlastung und Distanzierung vom sozialen Umfeld ist nötig**
 
-**Im Falle einer ambulanten Rehabilitation ist die häusliche Versorgung gesichert****Reisefähigkeit** **Sonstiges**
+**Im Falle einer ambulanten Rehabilitation ist die häusliche Versorgung gesichert**
 
-***(z. B. besondere Hinweise zur Reisefähigkeit, Schwangerschaft) / Rückruf erbeten unter***
+**Reisefähigkeit**
 
-**A.**
+**Sonstiges (z. B. besondere Hinweise zur Reisefähigkeit, Schwangerschaft) / Rückruf erbeten unter**
 
-**Rehabilitationsziele in Bezug auf die oben genannten Schädigungen und Beeinträchtigungen**
+**A. Rehabilitationsziele in Bezug auf die oben genannten Schädigungen und Beeinträchtigungen**
 
-**B.****Inhaltliche Schwerpunkte/Indikationen (z.B. orthopädisch, kardiologisch, geriatrisch, Kinder-Jugend)**
+**B. Inhaltliche Schwerpunkte/Indikationen (z.B. orthopädisch, kardiologisch, geriatrisch, Kinder-Jugend)**
 
-**B.****Rehabilitationsziele aus Sicht der Patientin / des Patienten, sofern ABWEICHEND von den zuvor genannten**
+**B. Rehabilitationsziele aus Sicht der Patientin / des Patienten, sofern ABWEICHEND von den zuvor genannten**
 
-Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen bestehteine**positive Prognose**für die unter IV. A. und IV. B. benannten Rehabilitationsziele
+Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen besteht  eine positive Prognose für die unter IV. A. und IV. B. benannten Rehabilitationsziele
 
 ambulant
 
@@ -40,36 +40,28 @@ Väter-Leistung
 
 stationär
 
-als Mutter-Kind-Leistungals Vater-Kind-Leistung
+als Mutter-Kind-Leistung als Vater-Kind-Leistung
 
-geriatr. Rehabilitation **A.**
+geriatr. Rehabilitation
 
-**Empfohlene Rehabilitationsform** **C.**
+**A. Empfohlene Rehabilitationsform**
 
-**Weitere Bemerkungen/Begründungen (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder** ***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, beson******dere******Therapieformen)***
+**C. Weitere Bemerkungen/Begründungen (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder** ***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, besondere***  ***Therapieformen)*** pflegende/r  Angehörige/randere
 
-pflegende/rAngehörige/r andere
-
-### IV.
-
-### Rehabilitationsziele
+### IV.Rehabilitationsziele
 
 ### V.
 
 ### Rehabilitationsprognose
 
-### VI.
+### VI. Zuweisungsempfehlungen
 
-Zuweisungsempfehlungen
-
-### VII.
-
-Sonstige Angaben
+### VII. Sonstige Angaben
 
 **Ausfertigung für die Krankenkasse**
 
 ## 61 Teil D
 
-PRF.NR.Muster 61 Teil Da/E (7.2022)
+PRF.NR.  Muster 61 Teil Da/E (7.2022)
 
 Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung

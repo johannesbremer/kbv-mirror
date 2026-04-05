@@ -1,5 +1,5 @@
-| Sammelerklärung 3. Quartal 2015 |
-|---|
+| Sammelerklärung 3. Quartal 2015 | |
+|---|---|
 | Gemeinschaftspraxis Dres. Hans Test Fritz Sauber Dr. med.  Hans  Test Facharzt f. Innere Medizin -Angiologie- Dr. med.  Fritz  Sauber Facharzt für Hals-Nasen-Ohrenheilkunde Facharzt für Phoniatrie u. Pädaudiologie Hahnenweg  4 51371  Leverkusen | BSNR: 274412400 Fallzahl: 2453 |
 
 | Ich versichere/Wir versichern: |
@@ -14,19 +14,19 @@
 | Bitte gegebenenfalls ausfüllen: |
 |---|
 
-|  | Tätigkeit in der Praxis |
-|---|---|
+|  | Tätigkeit in der Praxis | |
+|---|---|---|
 | Name des/der genehmigten Assistenten | von | bis |
 |  |  |  |
 
-|  | Tätigkeit in der Praxis |
-|---|---|
+|  | Tätigkeit in der Praxis | |
+|---|---|---|
 | Name des/der angestellten Arztes/Ärzte | von | bis |
 | Dr. med.  Sabine  Hannah  Angestellte | 01.07.2015 | 15.07.2015 |
 | Dr. med.  Oskar  Angestellter | 16.07.2015 | 20.07.2015 |
 
-|  | vertreten |
-|---|---|
+|  | vertreten | |
+|---|---|---|
 | Name des/der Vertreters/Vertreter | von | bis |
 |  |  |  |
 
@@ -43,12 +43,7 @@
 | 1\|3 Facharzt f. Innere Medizin -Angiologie- von Dr. med.  Fritz  Sauber bis Facharzt für Hals-Nasen-Ohrenheilkunde Dr. med.  Sabine  Hannah  Angestellte |
 |---|
 
-
----
-
-
-
-
+1|3
 
 ---
 
@@ -59,12 +54,7 @@
 | 2\|3 |
 |---|
 
-
----
-
-
-
-
+2|3
 
 ---
 
@@ -91,8 +81,8 @@ Formularversion 23.06.2022
 | 10. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-| Mir/Uns ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, |
-|---|
+| Mir/Uns ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, | |
+|---|---|
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
@@ -106,12 +96,4 @@ Formularversion 23.06.2022
 | Für alle qualitätsgebundenen Leistungen liegen die erforderlichen Genehmigungen bzw. Nachweise im Rahmen 3\|3 der erfolgreichen Teilnahme an den Ringversuchen vor. Es wurden nur die Materialien (Serum und/oder Urin und/oder Liquor) abgerechnet, für die ein gültiger Nachweis einer erfolgreichen Ringversuchsteilnahme vorliegt. |
 |---|
 
-
----
-
-
-
-
-
-
-
+3|3

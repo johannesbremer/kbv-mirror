@@ -1,71 +1,133 @@
-Krankenkasse bzw. Kostenträger Name, Vorname des Versichertengeb. am KostenträgerkennungVersicherten-Nr.Status Betriebsstätten-Nr.Arzt-Nr.Datum
+Krankenkasse bzw. Kostenträger
 
-| Von der | Krankenkasse | auszufüllen | |
-|---|---|---|---|
-|
-|
+Name, Vorname des Versicherten
 
-Kurort:
+Kostenträgerkennung Versicherten-Nr.
 
-| Zur Beachtung | | | | !! |
-|---|---|---|---|---|
-|
+Betriebsstätten-Nr. Arzt-Nr.
 
-| unbedingt die | | | |
-|---|---|---|---|
+Von der Krankenkasse auszufüllen
+
+Ambulante Vorsorgeleistung zur Krankheitsverhütung
+
+Ambulante Vorsorgeleistung bei bestehenden Krankheiten
+
+Ambulante Vorsorgeleistung für Kinder
+
+Durchführung als Kompaktkur Kurort:
+
+**Zur Beachtung für den Versicherten!** Bitte den Kurarztschein ca. 1 Woche vor Beginn vom behandelnden Arzt ausfüllen lassen
+
+# !!
+
+Bitte unbedingt die Krankenversichertenkarte für den Kurarzt mitnehmen
 
 Datum
 
 **Freigabe 05.11.2014**
 
+Status
+
+Datum
+
 Krankenkassenstempel und Unterschrift
 
-Dauer inWochen:
+geb. am
+
+Dauer in Wochen:
 
 Behandlungsausweis für kurärztliche Behandlung
 
-**Relevante Diagnosen**/Schädigungen/Funktionsstörungen/Befunde/Risikofak**-****Original****Mitgegebene**RöSonoKeineEKG**Unterlagen:****Auswertung****toren**/Regulations-/Befindlichkeitsstörungen
+**Mitgegebene** **Unterlagen:**
 
-**Dauermedikation:****Nein**Ja - welche:
+**Relevante Diagnosen / Schädigungen / Funktionsstörungen / Befunde / Risikofak**  **toren / Regulations- / Befindlichkeitsstörungen**
 
-- **Dauermedikamente sind ausreichend zu verordnen!**●
+**Dauermedikation:**
+
+**Nein Ja - welche:**
+
+- **Dauermedikamente sind ausreichend zu verordnen! ●**
 
 In Behandlung seit:
 
-JaNein
+Hinweise/Risiken/Einschränkungen:
+
+Verhaltenspräventive Maßnahmen empfohlen?
+
+Ja Nein
 
 ### - Kurarztschein -
 
+**Original**
+
+**Auswertung**
+
+EKG
+
+Der Patient ist vorsorgefähig:
+
 Datum
+
+Rö Sono
 
 **Verbindliches Muster**
 
 Vertragsarztstempel / Unterschrift des Arztes
 
-JaNein
+Keine
+
+Ja Nein
+
+**-**
 
 (1.2015)
 
 
 ---
 
-Anreise amAbreise amAbbruch amVerlängerungbewilligt für Wochen per
+Anreise am
 
-| 7 | 8 | 9 | 10 11 12 |
-|---|---|---|---|
-| Funktionsstörungen, Befunde, | | | |
+Abreise am
 
-Verhaltenspräventive Maßnahmenangeregt
+Abbruch am
 
-**Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes****gemäß § 14 des Kurarztvertrages**
+Verlängerung bewilligt für Wochen per
 
-| 1 | 2 | 3 | 4 | 5 |
+Tel. Brief
+
+am
+
+**Diagnosen, Schädigungen, Funktionsstörungen, Befunde, Risikofaktoren, Regulations-/Befindlichkeitsstörungen**
+
+Verhaltenspräventive Maßnahmen angeregt
+
+Fax
+
+**Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes**
+
+**1**
+
+| 7 | 8 | 9 | 10 11 | 12 |
 |---|---|---|---|---|
+
+**2**
 
 durchgeführt
 
+**gemäß § 14 des Kurarztvertrages**
+
+**3**
+
 **Freigabe 05.11.2014**
 
-Durchführung alsKompaktkur nicht möglich **Verbindliches Muster**
+Durchführung als Kompaktkur nicht möglich
+
+**4**
+
+**5**
+
+**Verbindliches Muster**
+
+**6**
 
 Kurarztstempel

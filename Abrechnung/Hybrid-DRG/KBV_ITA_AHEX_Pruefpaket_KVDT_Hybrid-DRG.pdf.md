@@ -17,22 +17,28 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_HYBRID-DRG]
 
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
 ## INHALT
 
-**1****ALLGEMEINES****4**
+**1 ALLGEMEINES 4**
 
-**2****TESTDATENVALIDIERUNG****4**
+**2 TESTDATENVALIDIERUNG 4**
 
-**3****PRÜFVORGABEN****4**
+| 3 |  | PRÜFVORGABEN |  | 4 |
+|---|---|---|---|---|
+| 3.1 |  | Prüfstammdateien |  | 4 |
+| 3.2 |  | Versichertendaten | | 4 |
+|  | 3.2.1.1 |  | [XML_49] | 5 |
+|  | 3.2.1.2 |  | [XML_48] | 5 |
+| 3.3 |  | Praxisdaten |  | 6 |
+| 3.4 |  | XPM-Prüfmodul | und Verschlüsselung | 6 |
 
-3.1Prüfstammdateien4 3.2Versichertendaten4 3.2.1.1[XML_49]5 3.2.1.2[XML_48]5 3.3Praxisdaten6 3.4XPM-Prüfmodul und Verschlüsselung6
+**4 PRÜFFÄLLE 8**
 
-**4****PRÜFFÄLLE****8**
-
-Seite 2 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG /Version: 1.5 / 13. Januar 2025
+XPM-Prüfmodul und VerschlüsselungSeite 2 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 
 ---
@@ -50,6 +56,7 @@ Seite 2 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG /Version: 1.5 / 13. Januar 202
 
 Seite 3 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
+korrigiert · Änderung der Vorgaben in Pruffall 1 und 2  · Löschung von Prüffall 3
 
 ---
 
@@ -57,38 +64,38 @@ Seite 3 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 
 ## ALLGEMEINES
 
-Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem Dokument beschriebenen Prüffälle, die Umsetzung derKVDT-Anforderungen bezüglich der Abrechnung von Hybrid-DRG zu testen.
+Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichkeit mit Hilfe der in diesem  Dokument beschriebenen Prüffälle, die Umsetzung der KVDT-Anforderungen bezüglich der Abrechnung von  Hybrid-DRG zu testen.
 
 2
 
 ## TESTDATENVALIDIERUNG
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)zu erreichen. Für die Überprüfung der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungenmuss das Thema „ Hybrid-DRG “ ausgewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisiert auf Vollständigkeit und Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.  Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung „test_**HDRG_<SystemID > “.zip** hochgeladen werden.
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen. Für die Überprüfung  der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungen muss das Thema  „ Hybrid-DRG “ aus gewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der  verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisiert auf Vollständigkeit und  Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV  findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.   Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung „test_ HDRG_<SystemID > “.zip  hochgeladen werden.
 
 3
 
 ## PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zuverpflichtenden Feldkennungen (FK) der aktuellgültigen Hybrid- DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns der Leistung).In denPrüffällennichtgenanntebzw.nichtfürdenPrüffallnotwendigeoptionale Feldkennungen sind nicht zu übertragen.
+Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell gültigen Hybrid- DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
 
 Als Patientennummer ( FK 3000) muss die Prüffall-ID (siehe Tabellen in Kapitel 4) eingetragen werden
 
-**3.1****PRÜFSTAMMDATEIEN**
+**3.1 PRÜFSTAMMDATEIEN**
 
-Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Diese sind zu finden unter: [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
+Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwenden. Diese sind zu finden  unter: [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) .
 
-**3.2****VERSICHERTENDATEN**
+**3.2 VERSICHERTENDATEN**
 
-Die Versichertendaten der Testpatienten enthalten alle fürjeden Prüffall die nötigen Angaben zu den Daten des Versichertenundwerdenauchals XML-Dateien zurVerfügunggestellt.DieArchivdatei (VSD_5.2.0_Testfaelle_Vn.n.zip)enthältfürdie Prüffälledie folgendenXML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten  des Versicherten und werden auch als XML -Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält fü r die Prüffälle die folgenden XML -Dateien mit  Versichertenstammdaten:
 
-›EF.VD= allgemeine Versicherungsdaten ›EF.PD= persönliche Versichertendaten ›EF.GVD= geschützte Versichertendaten Die Erfassung der Patientendatenin den einzelnen Prüffällen kann entweder über das Einlesen (mit einer sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im Ersatzverfahren bzw. händisch erfasst werden.
+› EF.VD = allgemeine Versicherungsdaten  › EF.PD = persönliche Versichertendaten  › EF.GVD = geschützte Versichertendaten  Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
 
 Seite 4 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 
 ---
 
-3.2.1.1[XML_49]
+3.2.1.1 [XML_49]
 
 | FELDER | INHALT |
 |---|---|
@@ -108,7 +115,7 @@ Seite 4 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 | Versicherungsschutz Ende | 31.12.2040 |
 | Kostentraegerkennung | 108939385 |
 
-3.2.1.2[XML_48]
+3.2.1.2 [XML_48]
 
 | FELDER | INHALT |
 |---|---|
@@ -127,7 +134,9 @@ Seite 4 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 | Versicherungsschutz Beginn | 20.10.2024 |
 | Versicherungsschutz Ende | 31.12.2040 |
 
-Seite 5 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 /  13. Januar 2025
+Seite 5 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 /
+
+13. Januar 2025
 
 
 ---
@@ -136,12 +145,12 @@ Seite 5 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 /  13. Januar 2
 |---|---|
 | Kostentraegerkennung | 108939385 |
 
-**3.3****PRAXISDATEN**
+**3.3 PRAXISDATEN**
 
-Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten verwendet werden. Eine Abweichung von den hier abgebildeten Daten ist möglich.
+Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Eine Abweichung von den hier abgebildeten Daten ist möglich.
 
-| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) |
-|---|
+| PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
+|---|---|
 | Betriebsstättennummer (BSNR) | 198212400 |
 | BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
 | Lebenslange Arztnummer (LANR) | 776299002 |
@@ -165,43 +174,49 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | Strasse: | Herbert-Lewin-Platz 2 |
 | PLZ Ort: | 10623 Berlin |
 
-**3.4****XPM-PRÜFMODUL UND VERSCHLÜSSELUNG**
+**3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG**
 
-Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
+Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
 
 Seite 6 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 
 ---
 
-verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus*TEST_Verschluesselung*vorgenommen. Hierfür ist der dazu bestimmte Testschlüssel zu verwenden.
+| verschlüsseln. | | Die | Verschlüsselung | wird im | Arbeitsmodus | TEST_Verschluesselung | vorgenommen. | Hierfür | ist |
+|---|---|---|---|---|---|---|---|---|---|
+| der dazu | bestimmte |  | Testschlüssel | zu verwenden. |  |  |  |  |  |
+| Seite 7 von | 10 / KBV | / Prüfpaket | KVDT | Hybrid-DRG / Version: | 1.5 / 13. | Januar 2025 |  |  |  |
 
-Seite 7 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
-
-
----
-
-4
-
-## PRÜFFÄLLE
-
-Durch das Feld „Versichertendaten“jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die Feldkennungen unter „ Vorgaben “ sindzu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet.In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
-
-Bei Verwenden eines Groupers wird –abweichend von Regelungen für Krankenhäuser –die Grouperversion für den vertragsärztlichen Bereichmit der Jahreszahl des Tags der Durchführung der Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am 09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
-
-Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
-
-Die Prüffälle wurden mit dem Webgrouper der DRG-Research-Group getestet ([https://www.drg-research-](https://www.drg-research-) group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112).
-
-Seite 8 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
-
+verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus vorgenommen. Hierfür ist der dazu bestimmte Testschlüssel zu verwenden.  Seite 7 von 10  /  KBV /  Prüfpaket KVDT Hybrid-DRG  /  Version: 1.5  /  13. Januar 2025
 
 ---
 
-|  |  |
-|---|---|
-| Prüffall-ID (FK 3000) | Prüffall 1 |
-| Versichertendaten | [XML_49] Emil Müller |
+| 4 | PRÜFFÄLLE | |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Durch | das Feld |  | „Versichertendaten“ | jedes | Prüffalls | wird | auf die | zu | verwendende | | XML-Datei | verwiesen. | Die |
+|  | Versichertendaten | sind | in der | XML-Datei | bzw. in | den | Tabellen | unter | Kapitel | 3.2 | vorgegeben. | Die |  |
+| Feldkennungen | | unter „ | Vorgaben “ | sind zu | erfassen. | Die | Feldinhalt | sind | in Spalte | drei | angegeben. | | Einige |
+| Felder | sind dabei | frei | wählbar, | diese sind |  | entsprechend |  | gekennzeichnet. | In | den | Prüffällen | nicht | genannte |
+| bzw. | nicht für | den Prüffall |  | notwendige | optionale |  | Feldkennungen | sind | nicht zu |  | übertragen. |  |  |
+| Bei | Verwenden | eines | Groupers wird | – | abweichend | von | Regelungen | für | Kranken | häuser | – die |  |  |
+|  | Grouperversion | für den | vertragsärztlichen | | Bereich | mit | der | Jahreszahl | des Tags | der | Durchführung | der |  |
+| Leistung | gemäß | Anlage 1 | zur Hybrid |  | -DRG-Vereinbarung | | bestimmt. | Wenn |  | beispielsweise | die | Operation | am |
+| 09.01.2025 |  | erfolgt, wäre | die | Grouperversion | 2025 | zu | verwenden. |  |  |  |  |  |  |
+| Falls | die | verwendete | Groupersoftware |  | alternativ | zu den |  | Datumsangaben | für | Beginn | und | Ende der | Leistung |
+| die | Verweildauer | (in | ganzzahligen | Tagen) | verarbeitet, | | sollte diese | auf 1 | gesetzt |  | werden. |  |  |
+| Die | Prüffälle | wurden | mit dem | Webgrouper | der | DRG | -Research-Group |  | getestet |  |  | (https://www.drg-research- | |
+|  |  |  |  | group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112 | | | | | | ). |  |  |  |
+| Seite 8 | von 10 / | KBV / Prüfpaket | KVDT | Hybrid-DRG / | Version: 1.5 | / 13. | Januar 2025 |  |  |  |  |  |  |
+
+Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die Feldkennungen unter „ Vorgaben “ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet.  In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen. Bei Verwenden eines Groupers wird – abweichend von Regelungen für Kranken häuser – die Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der Leistung gemäß Anlage 1 zur Hybrid -DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am 09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden. Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden. Die Prüffälle wurden mit dem Webgrouper der DRG -Research-Group getestet (https://www.drg-research- Seite 8 von 10  /  KBV /  Prüfpaket KVDT Hybrid-DRG  /  Version: 1.5  /  13. Januar 2025
+
+---
+
+|  |  | |
+|---|---|---|
+| Prüffall-ID (FK 3000) | Prüffall 1 | |
+| Versichertendaten | [XML_49] Emil Müller | |
 | Vorgaben | Feldbezeichnung | Feldinhalt |
 | FK 0104 | Grouper-Software | Testgrouper |
 | FK 5027 | Hybrid-DRG | G24M |
@@ -216,17 +231,18 @@ Seite 8 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 | FK 5099 | Lebenslange Arztnummer (LANR) des Vertragspsychotherapeuten | 776299002 |
 | FK 6009 | Hauptdiagnose | K40.90 |
 | FK 6010 | Seitenlokalisation Hauptdiagnose | L |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
+| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Seite 9 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
+Leistungserbringung Vertragsarztes/ Prüfunterlagen
 
 ---
 
-|  |  |
-|---|---|
-| Prüffall-ID (FK 3000) | Prüffall 2 |
-| Versichertendaten | [XML_48] Florian Müller |
+|  |  | |
+|---|---|---|
+| Prüffall-ID (FK 3000) | Prüffall 2 | |
+| Versichertendaten | [XML_48] Florian Müller | |
 | Vorgaben | Feldbezeichnung | Feldinhalt |
 | FK 0104 | Grouper-Software | Testgrouper |
 | FK 5027 | Hybrid-DRG | G24N |
@@ -238,6 +254,8 @@ Seite 9 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 | FK 5098 | (N)BSNR des Ortes der | 198212400 |
 | FK 5099 | Lebenslange Arztnummer (LANR) des | 776299002 |
 | FK 6009 | Hauptdiagnose | K40.20 |
-| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
+| Einzureichende | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
 Seite 10 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
+
+Leistungserbringung Vertragsarztes/Vertragspsychotherapeut Prüfunterlagen

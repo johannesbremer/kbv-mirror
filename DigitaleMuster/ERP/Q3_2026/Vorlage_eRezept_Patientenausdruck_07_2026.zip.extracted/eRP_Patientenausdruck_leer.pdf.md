@@ -2,12 +2,15 @@ Weitere Informationen zur Einlösung finden Sie unter: gesund.bund.de/digital-ve
 
 **Sammelcode zur Einlösung aller Verordnungen**
 
-**Ausdruck zur Einlösung Ihrer Verordnung:**
+| Ausdruck | zur | Einlösung Ihrer | Verordnung: |
+|---|---|---|---|
+| für |  |  |  |
+| ausgestellt von |  |  |  |
 
 Patientenausdruck DIN A5 (7.2026)
 
-**ausgestellt von****ausgestellt am**
+**ausgestellt am**
 
-**für****geboren am**
+**geboren am**
 
-**Versichertennummer**
+Ausdruck zur Einlösung Ihrer Verordnung:**Versichertennummer**

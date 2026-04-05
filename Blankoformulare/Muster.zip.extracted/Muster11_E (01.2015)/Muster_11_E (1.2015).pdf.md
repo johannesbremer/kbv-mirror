@@ -22,7 +22,11 @@
 
 **Voraussichtlich arbeitsfähig ab**
 
-**Folgendes ist mit der Bitte um Rückgabe beigefügt:** **Röntgen-** **befund**
+**Folgendes ist mit der Bitte um Rückgabe beigefügt:**
+
+|  | Röntgen- |  | Ultraschall- |  |
+|---|---|---|---|---|
+|  | befund |  | befund |  |
 
 **Labor- Arzt- oder** **befund Krankenhausbericht**
 
@@ -33,8 +37,6 @@
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 **nein**
-
-**Ultraschall-** **befund**
 
 **Kostenträgerkennung**
 

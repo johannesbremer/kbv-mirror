@@ -48,7 +48,9 @@ Hausnummer,
 
 **Kostenträgerkennung**
 
-PLZ,Wohnort)/ggf.
+PLZ, Wohnort)
+
+/ ggf.
 
 ***arf besteht***
 

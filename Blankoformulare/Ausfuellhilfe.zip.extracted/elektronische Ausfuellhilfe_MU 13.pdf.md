@@ -1,6 +1,4 @@
-### MUSTER 13 –
-
-### HEILMITTELVERORDNUNG
+### MUSTER 13 – HEILMITTELVERORDNUNG
 
 ### HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN
 
@@ -11,45 +9,39 @@ Seite 1 von 3 / KBV / Muster 13 – Heilmittelverordnung / 25. Juli 2022
 
 ---
 
-
-
-
-
----
-
 **ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
 
-**1.****Auswahl des Heilmittelbereichs** Bitte geben Sie hier den Heilmittelbereich an **2.****Behandlungsrelevante Diagnose(n)**
+**1. Auswahl des Heilmittelbereichs** Bitte geben Sie hier den Heilmittelbereich an **2. Behandlungsrelevante Diagnose(n)**
 
 Bitte geben Sie den therapierelevanten ICD nur notwendig, wenn ein besonderer Verordnungsbedarf geltend gemacht
 
-**3.****Diagnosegruppe**
+**3. Diagnosegruppe**
 
 Bitte geben Sie eine Diagnosegruppe nach Maßgabe des Heilmittelkataloges
 
-**4.****Leitsymptomatik gemäß Heilmittelkatalog**
+**4. Leitsymptomatik gemäß Heilmittelkatalog**
 
-Bitte geben Sie eine oder mehrere buchstabencodierte Maßgabe des Heilmittelkataloges an. Alternativ kann eine patient angegeben werden.
+Bitte geben Sie eine oder mehrere buchstabencodierte  Maßgabe des Heilmittelkataloges an. Alternativ kann eine patient angegeben werden.
 
-**5.****Heilmittel nach Maßgabe des Kataloges**
+**5. Heilmittel nach Maßgabe des Kataloges**
 
 Bitte geben Sie Heilmittel nach Maßgabe des Heilmittelkataloges an. rangige Heilmittel verordnet werden. mal ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
 
-**6.****Behandlungseinheiten**
+**6. Behandlungseinheiten**
 
-Bei Angabe der Verordnungsmenge darf der Wert der Höchstmenge je Verordnung gemäß Heilmi nicht überschritten werden. Nur bei Verordnungen aufgrund eines „besonderer Verordnungsbedarfs“ oder „langfristigen Heilmittelbedarfs“ erfolgen.
+Bei Angabe der Verordnungsmenge darf der Wert der Höchstmenge je Verordnung gemäß Heilmi nicht überschritten werden. Nur bei Verordnungen aufgrund eines „besonderer Verordnungsbedarfs“ oder  „langfristigen Heilmittelbedarfs“ kann die Bemessung der Behandlungseinheiten je Verordnung erfolgen.
 
 Bei Verordnung mehrerer vorrangiger Heilmittel sind ordnungsmenge für ergänzende Heilmittel verordneten Behandlungseinheiten der vorrangigen Heilmittel.
 
-**7.****Therapiefrequenz**
+**7. Therapiefrequenz**
 
-Bitte geben Sie hier eine Therapiefrequenz oder eine Frequenzspanne an. Die Frequenzempfehlungen gemäß Heilmittelkatalog ist bereits voreingestellt. Für die Ernährungstherapie und Nagelspangenbehandlung ( gie) ist die Angabe nicht zwingend erforderlich.
+Bitte geben Sie hier eine Therapiefrequenz oder eine Frequenzspanne an. Die Frequenzempfehlungen gemäß  Heilmittelkatalog ist bereits voreingestellt. Für die Ernährungstherapie und Nagelspangenbehandlung ( gie) ist die Angabe nicht zwingend erforderlich.
 
-**8.****Therapiebericht**
+**8. Therapiebericht**
 
 Auf Wunsch kann ein Therapiebericht angefordert werden.
 
-**9.****Hausbesuch ja/nein**
+**9. Hausbesuch ja/nein**
 
 Ein Hausbesuch kann verordnet werden, wenn der Patient aus medizinischen Gründen d aufsuchen kann oder dies aus medizinischen Gründen zwingend notwendig ist.
 
@@ -65,19 +57,15 @@ Dieses Feld kann ausgefüllt werden, um das Therapieziel zu spezifizieren oder w
 
 Dieses Feld ist ausschließlich für Heilmittelerbringer vorgesehen und ist nicht durch die verordnende Vertrags- ärztin oder den verordnenden Vertragsarzt zu befüllen.
 
-Seite 2 von 3 / KBV / Muster 13 – Heilmittelverordnung / 25. Juli 2022
-
-.
+Seite 2 von 3 / KBV / Muster 13 – Heilmittelverordnung / 25. Juli 2022 .
 
 -10-GM-Code an. Die Angabe eines weiteren ICD
 
 Soweit medizinisch erforderlich, kann zu vorrangigen Heilmitteln maxi-
 
-kann die Bemessung der Behandlungseinheiten je Verordnung
-
 richtet sich nach dem vorrangigen Heilmittel bzw. der Summe der
 
-verordnungsbegründende Leitsymptomatik/en nach enindividuelle Leitsymptomatik
+verordnungsbegründende Leitsymptomatik/en nach  enindividuelle Leitsymptomatik
 
 Es können auch mehrere (bis zu drei
 
@@ -87,9 +75,7 @@ werden soll.
 
 an.
 
-den spätestens innerhalb von 14
-
--10-GM-Codes ist
+den spätestens innerhalb von 14 -10-GM-Codes ist
 
 als Freitext
 
@@ -110,6 +96,6 @@ Podolo-
 
 Themenseite Heilmittel: [http://www.kbv.de/html/heilmittel.php](http://www.kbv.de/html/heilmittel.php)
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 2,52 MB): www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 2,52 MB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
 
 Seite 3 von 3 / KBV / Muster 13 – Heilmittelverordnung / 25. Juli 2022

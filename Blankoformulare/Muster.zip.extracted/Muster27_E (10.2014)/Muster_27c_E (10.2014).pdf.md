@@ -1,20 +1,36 @@
-| Krankenkasse bzw. Kostenträger | | | | |
-|---|---|---|---|---|
-| Name, Vorname des Versicherten | | | | |
-| Kostenträgerkennung | Versicherten-Nr. | | Status | |
-| Betriebsstätten-Nr. Therapieziele | Arzt-Nr. (Nah- und Fernziele | Datum | | |
+**Krankenkasse bzw. Kostenträger**
 
-| Verordnete 1. | | | | |
-| 2. | | | | |
-| 3. | | | | |
-|---|---|---|---|---|
-| 4. | | | | |
-| 5. | | | | |
-| 6. | | | | |
-| 7. | | | | |
-| 8. | | | | |
-| 9. Durchführung | | | | |
-| Art der | | | | Frequenz pro Woche / Monat |
+**Name, Vorname des Versicherten**
+
+**Kostenträgerkennung**
+
+**Betriebsstätten-Nr.**
+
+**Therapieziele (Nah- und Fernziele definieren)**
+
+**Verordnete und empfohlene Maßnahmen, deren Inanspruchnahme zu koordinieren ist**
+
+**1.**
+
+**2.**
+
+**3.**
+
+**4.**
+
+**5.**
+
+**6.**
+
+**7.**
+
+**8.**
+
+**9.**
+
+**Durchführung der soziotherapeutischen Maßnahmen**
+
+**Art der Maßnahmen**
 
 **Ausstellungsdatum**
 
@@ -22,7 +38,27 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
+**Versicherten-Nr.**
+
+**Arzt-Nr.**
+
+**geb. am**
+
+**Status**
+
+**Datum**
+
 **Vertragsarztstempel / Unterschrift des Arztes**
+
+## Soziotherapeutischer Betreuungsplan
+
+## gem. § 37a SGB V
+
+***(als Anlage zur Verordnung und zur*** ***Weiterleitung an die Krankenkasse)***
+
+**IK des Leistungserbringers**
+
+**Frequenz pro Woche / Monat**
 
 **Datum**
 
@@ -30,4 +66,8 @@
 
 **Muster 27c/E (10.2014) PRF.NR.**
 
+**Zeitraum**
+
 **Unterschrift des Therapeuten**
+
+## 27

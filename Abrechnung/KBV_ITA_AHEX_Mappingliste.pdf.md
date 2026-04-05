@@ -1,73 +1,91 @@
 Kassenärztliche Bundesvereinigung Dezernat 3 -Vergütung, Gebührenordnung und Morbiditätsorientierung
 
-| Neustrukturierung 35.2 Einzeltherapie Juli | |
-| alt (2. Quartal) | neu (ab dem 3. Quartal) |
-| Tiefenpsychologisch | |
-|---|---|
-|  | |
-| 35200 | KZT 1: 35401 1. bis 12. Sitzung |
-| KZT 2: 35402 13. bis 24. Sitzung |
-|  | LZT |
-| 35201 | 35405 |
+### Neustrukturierung Abschnitt
 
-| Analytische | |
-|  | |
-|---|---|
-| 35210 | KZT 1: 35411 1. bis 12. Sitzung |
-| KZT 2: 35412 13. bis 24. Sitzung |
-|  | LZT |
-| 35210 | 35415 |
+### 35.2 Einzeltherapie ab 1.
 
-| Verhaltenstherapie | |
-|  | |
-|---|---|
-|  | KZT 1: 35421 1. bis 12. Sitzung |
-| KZT 2: 35422 13. bis 24. Sitzung |
-|  | LZT |
-| 35221 | 35425 |
+### Juli 2017
 
-| Neustrukturierung 35.2 Gruppentherapie Juli | |
-| alt (2. Quartal) | neu (ab dem 3. Quartal) |
-| Tiefenpsychologisch | |
-|---|---|
-|  | |
-| 35202 große Gruppe | 35505 35506 35507 35508 35509 |
-| 35205 kleine Gruppe, Kinder/Jugendl. | 35503 35504 |
-|  | LZT |
-| 35203 große Gruppe | 35515 35516 35517 35518 35519 |
-| 35208 kleine Gruppe, Kinder/Jugendl. | 35513 35514 |
+**neu (ab dem 3.**  **alt (2. Quartal)** **Quartal)** **Tiefenpsychologisch fundierte PT** **KZT**
 
-| Analytische | |
-|  | |
-| 35211 große Gruppe | 35525 35526 35527 35528 35529 |
-|---|---|
-| 35212 kleine Gruppe, Kinder./Jugendl. | 35523 35524 |
-|  | LZT |
-| 35211 große Gruppe | 35535 35536 35537 35538 35539 |
-| 35212 kleine Gruppe Kinder/Jugendl. | 35533 35534 |
+KZT 1: 35401 1. bis 12. Sitzung 35200
 
-| Verhaltenstherapie | |
-|  | |
-| 35222 kleine Gruppe | 35543 35544 |
-|---|---|
-| 35224 große Gruppe | 35545 35546 35547 35548 35549 |
-|  | LZT |
-| 35223 kleine Gruppe | 35553 35554 |
-| 35225 große Gruppe | 35555 35556 35557 35558 35559 |
+KZT 2: 35402 13. bis 24.  Sitzung
 
-|  | |
-|---|---|
-| **35222 KZT kleine Gruppe (2 Teilnehmer) | 80542 |
-| **35223 LZT kleine Gruppe (2 Teilnehmer) | 80552 |
+**LZT**
 
-** Besonderheit bei Gruppen mit 2 Teilnehmern - Antrag vor 01.04.17
+3520135405
 
-| Neustrukturierung 35.3 Testverfahren | |
-|---|---|
-| alt (2. Quartal) | neu (ab dem 3. Quartal) |
+**Analytische Psychotherapie** **KZT**
 
-35300 35301 35302
+KZT 1: 35411  1. bis 12. Sitzung 35210
 
-35600 35601 35602
+KZT 2: 35412 13. bis 24.  Sitzung
 
-15.08.2017
+**LZT**
+
+3521035415
+
+**Verhaltenstherapie** **KZT**
+
+KZT 1: 35421 1. bis 12. Sitzung
+
+35220 KZT 2: 35422 13. bis 24.  Sitzung
+
+**LZT**
+
+3522135425
+
+### Neustrukturierung Abschnitt
+
+### 35.2 Gruppentherapie ab 1.
+
+### Juli 2017
+
+**neu (ab dem 3.**  **alt (2. Quartal)** **Quartal)** **Tiefenpsychologisch fundierte PT** **KZT** 35505 35506 35202  35507 große Gruppe  35508 35509
+
+35205  35503 kleine Gruppe,  35504 Kinder/Jugendl.
+
+**LZT** 35515 35516 35203  35517 große Gruppe 35518 35519
+
+35208  35513 kleine Gruppe,  35514 Kinder/Jugendl.
+
+**Analytische Psychotherapie** **KZT** 35525 35526 35211  35527 große Gruppe  35528 35529
+
+35212 35523 kleine Gruppe,  35524 Kinder./Jugendl.
+
+**LZT** 35535 35536 35211 35537 große Gruppe  35538 35539
+
+35212 35533 kleine Gruppe  35534 Kinder/Jugendl.
+
+**Verhaltenstherapie** **KZT**
+
+3522235543 kleine Gruppe 35544
+
+35545 35546 35224 35547 große Gruppe 35548 35549 **LZT**
+
+35223 35553 kleine Gruppe 35554
+
+35555 35556 35225  35557 große Gruppe 35558 35559
+
+**Pseudoziffern**
+
+**35222 KZT  kleine Gruppe 80542 (2 Teilnehmer)
+
+**35223 LZT  kleine Gruppe 80552 (2 Teilnehmer)
+
+** Besonderheit bei Gruppen  mit 2 Teilnehmern - Antrag vor  01.04.17
+
+|  | Neustrukturierung |  | Abschnitt |
+|---|---|---|---|
+| 35.3 |  | Psychodiagnostische | |
+|  | Testverfahren | ab 1. | Juli |
+|  | 2017 |  |  |
+|  |  | neu (ab | dem 3. |
+| alt (2. | Quartal) |  |  |
+|  |  | Quartal) |  |
+| 35300 |  | 35600 |  |
+| 35301 |  | 35601 |  |
+| 35302 |  | 35602 |  |
+
+Neustrukturierung Abschnitt 35.3 Psychodiagnostische Testverfahren ab 1. Juli alt (2. Quartal) neu (ab dem 3. 15.08.2017

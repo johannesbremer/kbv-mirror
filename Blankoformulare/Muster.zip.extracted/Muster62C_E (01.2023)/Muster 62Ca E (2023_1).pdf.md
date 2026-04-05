@@ -1,14 +1,20 @@
-BefeuchtungTrachealkanüleTracheotomie
+| Tracheotomie | Trachealkanüle | Befeuchtung |
+|---|---|---|
+|  | Innendurch- |  |
+|  | Hersteller |  |
+|  | messer in mm , |  |
 
 ## Behandlungsplan
 
 Name, Vorname des Versicherten
 
-geb. am Kostenträgerkennung
+geb. am
 
-| Versicherten-Nr. Krankenkasse | |
-|---|---|
-| Arzt-Nr. | Datum |
+Kostenträgerkennung Versicherten-Nr.Status
+
+Betriebsstätten-Nr. Arzt-Nr.Datum
+
+Krankenkasse bzw. Kostenträger
 
 ## 62C
 
@@ -18,17 +24,13 @@ Notfallmanagement
 
 neinMRE-Besiedelungja, folgender Keim
 
-LogopädieMaßnahmen der Heilmitteltherapie zur Unterstützung derTherapieziele im Rahmen der AKIPhysiotherapie
+Logopädie  Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKIPhysiotherapie
 
-dilatativchirurgisch
+Absauggerät
 
-Absauggerätja
+ja nein
 
-nein
-
-janeinNotfallversorgung
-
-passivaktiv
+janein Notfallversorgung
 
 Ergotherapie
 
@@ -38,7 +40,16 @@ Ergotherapie
 
 ### Maßnahmen der außerklinischen Intensivpflege
 
-HäufigkeitLeistungDauertgl.wtl.mtl.vombis
+Häufigkeit
+
+Leistung
+
+Dauer
+
+| tgl. | wtl. | mtl. | vom |
+|---|---|---|---|
+
+bis
 
 **Benennung der zu erfassenden und zu bewertenden Vitalparameter**
 
@@ -48,7 +59,7 @@ HäufigkeitLeistungDauertgl.wtl.mtl.vombis
 
 **Dysphagiemanagement**
 
-**Bedienung und Überwachung des Beatmungsgerätes**Beatmungsgeräteinstellungen
+**Bedienung und Überwachung des Beatmungsgerätes**  Beatmungsgeräteinstellungen
 
 Name des Arztes / der Ärztin
 
@@ -58,26 +69,18 @@ Name des Arztes / der Ärztin
 
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
 
-Innendurch-messer in mm, Häufigkeitpro Tag
+Häufigkeit  pro Tag
 
-Inhalationsgerätja
+Inhalationsgerät
 
-nein Häufigkeit pro Tag Medikament/Substanz
+ja nein Häufigkeit pro Tag Medikament/  Substanz
 
-Hersteller
-
-mit BeatmungFlow
-
-l/minDauer h/tgl.Dauerh/tgl.Dauerh/tgl.
-
-unter SpontanatmungFlow
-
-l/min
-
-MobilitätFlow
-
-l/min
+| mit Beatmung |  | unter Spontanatmung |  | Mobilität |
+|---|---|---|---|---|
+| Dauer |  | Dauer |  | Dauer |
+| l/min Flow |  | l/min Flow |  | l/min Flow |
+| h/tgl. |  | h/tgl. |  | h/tgl. |
 
 ärztliche Unterschrift
 
-**Ausfertigung für die Krankenkasse** PRF.NR.Muster 62Ca/E (1.2023)
+dilatativ chirurgisch passiv aktiv**Ausfertigung für die Krankenkasse** PRF.NR.  Muster 62Ca/E (1.2023)

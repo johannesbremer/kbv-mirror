@@ -8,11 +8,12 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 0 | Einheitlicher Bewertungsmaßstab |
-| 1 | Bewertungsmaßstab Ärzte |
+**Code**
+
+0 1
+
 | 2 | Ersatzkassengebührenordnung |
+|---|---|
 | 3 | Gebührenordnung Ärzte |
 
 Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG
@@ -23,10 +24,6 @@ Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG
 
 **01.04.2005**
 
-1
+**Bezeichnung**
 
-
----
-
-
-
+Einheitlicher Bewertungsmaßstab Bewertungsmaßstab Ärzte 1

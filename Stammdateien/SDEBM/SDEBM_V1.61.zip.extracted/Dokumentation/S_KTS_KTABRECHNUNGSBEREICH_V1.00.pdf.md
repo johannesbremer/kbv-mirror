@@ -8,18 +8,12 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 00 | Primärabrechnung |
-| 01 | Sozialversicherungsabkommen |
-| 02 | Bundesversorgungsgesetz |
-| 03 | Bundesentschädigungsgesetz |
-| 04 | Grenzgänger |
-| 05 | Rheinschiffer |
-| 06 | Sozialhilfeträger |
-| 07 | Bundesvertriebenengesetz |
-| 08 | Asylstelle |
+**Code**
+
+00 01 02 03 04 05 06 07 08
+
 | 09 | Schwangerschaftsabbruch |
+|---|---|
 | 11 | Wohnausländer |
 
 Schlüsseltabelle: S_KTS_KTABRECHNUNGSBEREICH
@@ -30,10 +24,6 @@ Schlüsseltabelle: S_KTS_KTABRECHNUNGSBEREICH
 
 **12.02.2003**
 
-1
+**Bezeichnung**
 
-
----
-
-
-
+Primärabrechnung Sozialversicherungsabkommen Bundesversorgungsgesetz Bundesentschädigungsgesetz Grenzgänger Rheinschiffer Sozialhilfeträger Bundesvertriebenengesetz Asylstelle 1

@@ -1,49 +1,51 @@
-**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT** gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12.20 21
+**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT**  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12.20 21
 
-Name, Vorname, Geburtsdatum der Patientin / des Patientendennummer:
+Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-Kun
+Kundennummer: ___________________
 
-BGL-Nummer:
+Liquidations-ID:
 
-Liquidations-ID:ient/in befindet sich seit
+Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
 
-Patregelmäßiggelegentlichnicht in meiner Behandlung te Behandlung am Letz
+Letzte Behandlung am _________________
 
-**Relevante****Diagnose****(n****) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im** **Rahmen der Wohnungsfürsorge nach § 22 SGB II)****:**
+**Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im**  **Rahmen der Wohnungsfürsorge nach § 22 SGB II):**
 
-**Aktuelle Beschwerden****:**
+**Aktuelle Beschwerden:**
 
-**Sofern zutreffend****–****je nach Fragestellung im Anschreiben:** **Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend** **erforderlich ist****(z****.B. Könnt****e durch einen Umzug die Erkrankung****deutlich verschlechtert werden?****Ist der** **Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?****)?**
+**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend**  **erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der**  **Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?)?**
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2 1. 12
 
-_______________________________________
+[ ]
 
-_____________
+BGL-Nummer: ____________________
 
-_________________ [ ][ ][ ]
+[ ]
+
+[ ]
 
 
 ---
 
-**Sofern zutreffend****–****je nach Fragestellung im Anschreiben:** **Liegen aus ärztlicher Sicht G****ründe vor, weshalb ein Umzug in eine andere Wohnung notwendig ist?**
+**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb ein Umzug in eine andere Wohnung notwendig ist?**
 
-**Sofern zutreffend****–****je nach Fragestellung im Anschreiben:** **Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.** **Barrierefreiheit, Vorhandensein****eines Aufzugs; nur EG möglich, etc.) erfüllen muss?**
+**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.**  **Barrierefreiheit, Vorhandensein eines Aufzugs; nur EG möglich, etc.) erfüllen muss?**
 
-**Bitte fügen Sie diesem Befundbericht****relevante****medizinische Unterlagen (Arztbriefe, Befundberichte,** **Laborbefunde, Krankenhaus****-****Entlassungsberichte, Reha****-****Entlassungsberichte, Gutachten u****. ä.) al****s****Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________Ort, DatumStempel und Unterschrift
+___________________________  Ort, Datum  Stempel und Unterschrift
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2 1. 12
 
-Rückruf erbeten[ ]
+Rückruf erbeten [ ]
 
-Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 [ ]
 
@@ -54,39 +56,37 @@ __________________________
 
 ---
 
-**Arzt / Ärztin****(****Rechnungssteller****)****Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
 
-en
-
-And
+An den
 
 | ¹Rechnungsnummer: |  |
 |---|---|
-|  |  |
+| Rechnungsdatum: |  |
 | Steuernummer/  Ust-Id-Nr.: |  |
-| ¹ |  |
+| ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen DienstderAgentur für Arbeit
+Ärztlichen Dienst der  Agentur für Arbeit
 
-### dation
+### Liquidation
 
-### Liqui
+Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| okopierkosten: 0,50 € | ____  Seiten á ten á | = = | ________  € ________  € |
+| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: |  | = | € |
-| Portokosten: |  | = |  |
-| Gesamt |  | = |  |
+| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
+| Portokosten: |  | = | € |
+| Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisungauf das folgende Konto:
+Ich bitte um Überweisung auf das folgende Konto:
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 
-| Ko |
+| Kontoinhaber/in |
 |---|
-| D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
+| IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
 | BIC: |
 | Bank/Sparkasse: |
 
-¹Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

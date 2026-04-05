@@ -1,129 +1,81 @@
-|  | - | PA: KBV 31. 18. | |  |  | UPDATE RECHTSFRAGEN SEPTEMBER | | ANBIETERMEETING | | DER 2025 | E | DER |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | DR. | LEITER |  | CHRISTOPH DES | | STABSBEREICHS | WEINRICH, | RECHT, |  | RECHTSANWALT KBV |  |  |
+|  |  |  | RECHTSFRAGEN | | DER | E | -PA: | UPDATE |
+|---|---|---|---|---|---|---|---|---|
+|  | 31. |  |  | ANBIETERMEETING | | | DER | KBV |
+|  | 18. |  | SEPTEMBER | | 2025 |  |  |  |
+| DR. |  | CHRISTOPH | WEINRICH, |  | RECHTSANWALT |  |  |  |
+|  | LEITER | DES | STABSBEREICHS | RECHT, | KBV |  |  |  |
+
+RECHTSFRAGEN DER E -PA: UPDATE 31. ANBIETERMEETING DER KBV 18. SEPTEMBER 2025 DR. CHRISTOPH WEINRICH, RECHTSANWALT LEITER DES STABSBEREICHS RECHT, KBV
+
+---
+
+|  |  | Verbindlichkeit | | | der | ePA -Nutzung zum | 1.10.2025 |
+|---|---|---|---|---|---|---|---|
+| › | Wegen | der | fehlenden | | Umsetzung | wurde die | „Verbindlichkeit“ der ePA - Nutzung durch BM |
+|  | Lauterbach | | für | den | 1.10. | angesetzt. |  |
+| Das › |  | bedeutet: | Ab | dem | 1.10. | greifen die | Befüllungspflichten des § 347 SGB V. |
+| RECHTSFRAGEN | DER | E-PA: | UPDATE |  |  |  |  |
+| 31. | ANBIETERMEETING | DER | KBV | AM 18. | SEPTEMBER | 2025 |  |
+
+Verbindlichkeit der -Nutzung zum 1.10.2025 Wegen der fehlenden Umsetzung wurde die „Verbindlichkeit“ der Lauterbach für den 1.10. angesetzt. Das bedeutet: Ab dem 1.10. greifen die RECHTSFRAGEN DER E-PA: UPDATE 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 2
 
 
 ---
 
+# Reminder: Befüllungspflicht
 
+# – Wirksam ab 1.10.2025
 
-
-
----
-
-# Verbindlichkeit der
-
-# ePA
-
-**-**
-
-# Nutzung zum 1.10.2025
-
-## ›
-
-## Wegen der fehlenden Umsetzung wurde die „Verbindlichkeit“ der
-
-## ePA
-
--
-
-## Nutzung durch BM
-
-## Lauterbach für den 1.10. angesetzt.
-
-## ›
-
-## Das bedeutet: Ab dem 1.10. greifen die
-
-## Befüllungspflichten
-
-## des
-
-## §
-
-## 347 SGB V.
-
-**RECHTSFRAGEN DER E****-****PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE2
-
-
----
-
-
-
-
-
----
-
-# Reminder
-
-:
-
-# Befüllungspflicht
-
-# –
-
-# Wirksam ab 1.10.2025
-
-RECHTSFRAGEN DER E-PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025**
+RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025**
 
 ## Arzt/Psychotherapeut hat die Daten
 
-## selbst erhoben
-
-## Daten stammen aus der
-
-## aktuellen Behandlung
-
-## Daten stehen in
-
 ## Es liegt kein Widerspruch des Patienten vor
-
-## –
-
-## weder gegen die
-
-## ePA
 
 ## insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ## Ausnahme: Dringende therapeutische Gründe (KBV
 
-**-**
+## Daten stammen aus der
 
-## Richtlinie)
+## Daten stehen in
 
 ## elektronischer Form
 
+## aktuellen Behandlung
+
+## selbst erhoben
+
 ## bereit
 
-**SEITE****3**
+## –
+
+## weder gegen die
+
+## -Richtlinie)
+
+## ePA
+
+**SEITE**
+
+**3**
 
 
 ---
 
-# Befüllung der
+# Befüllung der ePA
 
-# ePA
-
--
-
-# Pflichtdaten
+# - Pflichtdaten
 
 ## ›
 
 ## Daten zu Anwendungsfällen nach
 
-## §
-
-## 342 Abs. 2a, 2b, 2c SGB V (
+## § 342 Abs. 2a, 2b, 2c SGB V (
 
 ## §
 
-## 347 Abs. 1
-
-## ),
-
-## soweit diese Daten
+## 347 Abs. 1), soweit diese Daten
 
 ## im semantisch und syntaktisch interoperabler Form verarbeitet werden
 
@@ -133,11 +85,7 @@ RECHTSFRAGEN DER E-PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 ## ›
 
-## Daten nach
-
-## §
-
-## 347 Abs. 2 SGB V (Aktuell wesentliche
+## Daten nach § 347 Abs. 2 SGB V (Aktuell wesentliche
 
 ## Befüllungspflicht
 
@@ -163,137 +111,57 @@ RECHTSFRAGEN DER E-PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 ## aus invasiven/chirurgischen und nicht
 
-**-**
-
-## invasiven/konservativen Maßnahmen
+## -invasiven/konservativen Maßnahmen
 
 ## ›
 
 ## eArztbriefe
 
-## /Entlassbriefe
+**/**
 
-RECHTSFRAGEN DER E-PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025****SEITE****4**
+## Entlassbriefe
 
+RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025**
 
----
+**SEITE**
 
-# Befüllung der
-
-# ePA
-
--
-
-# Weitere Daten (Wunschdaten)
-
-## ›
-
-## Einstellung auf Verlangen des Versicherten (
-
-## §
-
-## 347 Abs. 4)
-
-## ›
-
-## Medizinische Informationen über den Versicherten (Daten zu Befunden, Therapiemaßnahmen,
-
-## Früherkennungsuntersuchungen, Behandlungsberichte und sonstige untersuchungs
-
-**-**
-
-## und
-
-## behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte,
-
-## eArztbriefe
-
-**)**
-
-## ›
-
-## Ebenso z.B.
-
-## eKinderuntersuchungsheft
-
-**,**
-
-## eImpfpass
-
-**,**
-
-## eMutterpass
-
-## , Daten zur pflegerischen
-
-## Versorgung, Medikationsplan/Liste, AU
-
-**-**
-
-## Bescheinigung, DMP
-
-**-**
-
-## Daten
-
-RECHTSFRAGEN DER E-PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025****SEITE****5**
+**4**
 
 
 ---
 
-# Informationspflichten des Leistungserbringers
+|  | Befüllung | | der | ePA | - | Weitere |  | Daten |  | (Wunschdaten) | | |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| › | Einstellung | | auf | Verlangen | des | Versicherten | | ( § 347 | Abs. | 4) |  |  |  |  |
+|  |  | Medizinische | | › | Informationen | über den |  | Versicherten |  | (Daten | zu |  | Befunden, | Therapiemaßnahmen, |
+|  |  |  |  | Früherkennungsuntersuchungen, | |  |  | Behandlungsberichte | |  | und | sonstige | untersuchungs | - und |
+|  |  |  | behandlungsbezogene | |  | medizinische |  | Informationen, | |  | Medikationsplan, | | Patientenkurzakte, | |
+|  |  | eArztbriefe | ) |  |  |  |  |  |  |  |  |  |  |  |
+|  | Ebenso |  | z.B. | › | eKinderuntersuchungsheft | | , | eImpfpass | , | eMutterpass | | , | Daten zur | pflegerischen |
+|  |  | Versorgung, | |  | Medikationsplan/Liste, | AU |  | -Bescheinigung, | | DMP |  | -Daten |  |  |
+|  | RECHTSFRAGEN | DER E-PA: | UPDATE | |  |  |  |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER | KBV | AM 18. SEPTEMBER | 2025 |  |  |  |  |  |  |  |  |  |
 
-## Information über
+**SEITE**
 
-## einzustellende Daten
-
-## Hinweis auf
-
-## Widerspruchsrecht
-
-## bei
-
-## sensiblen Daten
-
-## Information über Anspruch
-
-## auf Einstellung
-
-## weiterer Daten
-
-## Information
-
-## über
-
-## Anspruch auf Notfalldaten und Medikationsplan
-
-RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025** **SEITE****6**
-
-- **§**
-
-## 347 Abs. 3 Satz 2
-
-**-****3**
-
-- **§**
-
-## 347 Abs. 1 Satz 4
-
-- **§**
-
-## 347 Abs. 4 Satz 4
+Befüllung der ePA  - Weitere Daten (Wunschdaten) Einstellung auf Verlangen des Versicherten ( § 347 Abs. 4) Medizinische Informationen über den Versicherten (Daten zu Befunden, Therapiemaßnahmen, Früherkennungsuntersuchungen, Behandlungsberichte und sonstige untersuchungs behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte, Ebenso z.B. , eImpfpass , eMutterpass , Daten zur pflegerischen Versorgung, Medikationsplan/Liste, AU -Bescheinigung, DMP RECHTSFRAGEN DER E-PA: UPDATE 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025**5**
 
 
 ---
 
+|  |  | Informationspflichten | | | | des |  | Leistungserbringers | |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  | Information | über |  | einzustellende | | Daten |  |  |  |
+|  |  | • | § 347 | Abs. | 3 Satz | 2- 3 |  |  |  |  |  |  |
+|  |  |  | Hinweis | | auf | Widerspruchsrecht | | bei |  | sensiblen | Daten |  |
+|  |  | • | § 347 | Abs. | 1 Satz | 4 |  |  |  |  |  |  |
+|  |  |  |  | Information |  | über | Anspruch auf |  | Einstellung |  | weiterer | Daten |
+|  |  | • | § 347 | Abs. | 4 Satz | 4 |  |  |  |  |  |  |
+|  |  |  |  | Information | über | Anspruch | auf |  | Notfalldaten | und |  | Medikationsplan |
+| RECHTSFRAGEN | DER | E-PA: | UPDATE |  |  |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER | 2025 |  |  |  |  |  |  |  |
 
-
-
-
-
-
-
-
+Informationspflichten des Leistungserbringers Information über einzustellende Daten Hinweis auf Widerspruchsrecht sensiblen Daten Information über Anspruch auf Einstellung weiterer Daten Anspruch auf Notfalldaten und Medikationsplan RECHTSFRAGEN DER E-PA: UPDATE 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 § 347 Abs. 3 Satz 2- § 347 Abs. 1 Satz 4 § 347 Abs. 4 Satz 4**SEITE 6**
 
 
 ---
@@ -308,84 +176,40 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## Protokollierung der Einwilligung bei zusätzlichen Daten
 
-RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025** **SEITE****7**
+RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025**
+
+**SEITE**
+
+**7**
 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
----
-
-# Der Abrechnungsausschluss nach
-
-# §
-
-# 372 Abs. 3 SGB V
+# Der Abrechnungsausschluss nach § 372 Abs. 3 SGB V
 
 ## „Vertragsärzte und Vertragszahnärzte
 
-## dürfen nur
+## Dokumentation verwenden, die ein Konformitätsbewertungsverfahren nach § 387 erfolgreich
+
+## durchlaufen haben. Das Kompetenzzentrum veröffentlicht auf derselben Plattform eine Liste der
+
+## bestätigten Systeme.“
 
 ## ›
 
 ## Bedeutet: Abrechnungsausschluss, so kein KOB
 
--
+## Aber: „Allgemeine“ KBV-Richtlinie gewährt Übergangsfrist bis zum 31.12.2025
 
-## Zertifziertes
+**RECHTSFRAGEN DER E-PA: UPDATE** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+## dürfen nur solche IT-Systeme für die abrechnungsrelevante
+
+## -Zertifziertes
 
 ## System genutzt wird
 
-## Aber: „Allgemeine“ KBV
-
--
-
-## Richtlinie gewährt Übergangsfrist bis zum 31.12.2025
-
-**RECHTSFRAGEN DER E****-****PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE8
-
-## verwenden,
-
-## die ein Konformitätsbewertungsverfahren
-
-## . Das Kompetenzzentrum veröffentlicht auf derselben Plattform eine Liste der
-
-## bestätigten Systeme.“
-
-## solche IT-
-
-## Systeme
-
-## für die
-
-## abrechnungsrelevante
-
-## Dokumentation
-
-## nach
-
-## §
-
-## 387
-
-## durchlaufen haben
-
-## erfolgreich
-
-
----
-
-
-
+SEITE 8
 
 
 ---
@@ -396,9 +220,7 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## Da sich KOB
 
--
-
-## Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine
+## -Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine
 
 ## Übergangsfrist geboten, um den Grundsatz der Verhältnismäßigkeit zu wahren:
 
@@ -410,23 +232,13 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## Darüber hinaus wird das Problem der Arztgruppen, die keinen Arzt
 
--
+## -/Patientenkontakt haben,
 
-## /Patientenkontakt haben,
+## über eine KBV-RL gelöst werden.
 
-## über eine KBV
+**RECHTSFRAGEN DER E-PA: UPDATE** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
--
-
-## RL gelöst werden.
-
-**RECHTSFRAGEN DER E****-****PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE9
-
-
----
-
-
-
+SEITE 9
 
 
 ---
@@ -437,15 +249,9 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## ›
 
-## Die
+## Die Befüllungspflichten
 
-## Befüllungspflichten
-
-## des
-
-## §
-
-## 347 SGB V sehen neben dem Widerspruch des Patienten keine
+## des § 347 SGB V sehen neben dem Widerspruch des Patienten keine
 
 ## Ausnahmen vor.
 
@@ -457,11 +263,7 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## ›
 
-## Lösung über KBV
-
--
-
-## Richtlinie, die in bestimmten Konstellationen (Kindeswohlgefährdung,
+## Lösung über KBV-Richtlinie, die in bestimmten Konstellationen (Kindeswohlgefährdung,
 
 ## dringende therapeutische Gründe) eine Ausnahme von den
 
@@ -477,13 +279,9 @@ RECHTSFRAGEN DER E-PA: UPDATE **31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 202
 
 ## Wichtig ist: Immer Dokumentation im Primärsystem erforderlich.
 
-**RECHTSFRAGEN DER E****-****PA: UPDATE**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE10
+**RECHTSFRAGEN DER E-PA: UPDATE** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-
----
-
-
-
+SEITE 10
 
 
 ---

@@ -8,12 +8,12 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 0 | Unbekannt |
-| 1 | Hausarzt |
-| 2 | Facharzt |
+**Code**
+
+0 1 2
+
 | 3 | HausFacharzt |
+|---|---|
 | 9 | Ermächtigter Arzt |
 
 Schlüsseltabelle: S_KBV_VERSORGUNGSBEREICH
@@ -24,10 +24,6 @@ Schlüsseltabelle: S_KBV_VERSORGUNGSBEREICH
 
 **23.11.2004**
 
-1
+**Bezeichnung**
 
-
----
-
-
-
+Unbekannt Hausarzt Facharzt 1

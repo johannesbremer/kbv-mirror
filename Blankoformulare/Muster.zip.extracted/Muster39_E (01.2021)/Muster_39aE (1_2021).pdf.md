@@ -2,39 +2,47 @@
 
 Name, Vorname des Versicherten
 
-geb. am Kostenträgerkennung
+geb. am
 
-Versicherten-Nr.Status Betriebsstätten-Nr.
+Kostenträgerkennung Versicherten-Nr.Status
 
-Arzt-Nr.Datum
+Betriebsstätten-Nr. Arzt-Nr.Datum
 
 Krankenkasse bzw. Kostenträger
 
 ## Krebsfrüherkennung Zervix-Karzinom
 
-GraviditätAusfluss / pathologische BlutungIUPEinnahme von Ovulationshemmer /
+Gravidität
 
-sonstige Hormonanwendung***(ggf. bitte in Anmerkungen erläutern)***
+Ausfluss / pathologische Blutung
+
+IUP
+
+Einnahme von Ovulationshemmer /  sonstige Hormonanwendung  ***(ggf. bitte in Anmerkungen erläutern)***
 
 Klinischer Befund
 
 nein
 
-Wurde bereits eine Krebsfrüherkennungsuntersuchungdurchgeführt?
+Wurde bereits eine Krebsfrüherkennungsuntersuchung  durchgeführt?
 
-Gynäkologische OP,Strahlen- oder Chemotherapie des Genitales
+Gynäkologische OP,  Strahlen- oder Chemotherapie des Genitales
 
-Primär-screeningAbklärungs-diagnostik
+Primär-  screening Abklärungs-  diagnostik
 
-Zytologie Ko-Testung(Zyt.+HPV) HPV-Test
+Zytologie Ko-Testung  (Zyt.+HPV)HPV-Test
 
-**Anamnese** **Auftrag**
+**Anamnese**
 
-***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+**Auftrag**  ***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
 
-neinja neinja
+nein ja
 
-LetztePeriode**Jetzt:** unvollständig
+nein ja Letzte  Periode
+
+**Jetzt:**
+
+unvollständig
 
 vollständig
 
@@ -54,31 +62,86 @@ nicht verwertbar
 
 negativ
 
-unauffälligauffällig
+unauffällig auffällig
 
-HPV-HR-Testergebnisnegativnicht verwertbar
+HPV-HR-Testergebnis negativ
 
-| Zytologischer Befund / Kombinationsbefund Eingangsdatum |  |
-|---|---|
-| Endozervikale Zellen nicht vorhanden vorhanden Proliferationsgrad | |
-| Döderleinflora Mischflora Kokkenflora Trichomonaden Candida Gruppe | |
-| HPV-HR-Testergebnis positiv, wenn ja: Liegt HPV-Typ 16 oder ja nein Bemerkungen Zusammenfassende Empfehlung sofort zytologische Kontrolle nach Entzündungsbehandlung nach Östrogenbehandlung HPV-Test Ko-Test Abklärungskolposkopie Zeitraum in Monaten | |
-| Vertragsarztstempel des zytologisch Vertragsarztstempel / PRF.NR. Muster 39a/E (1.2021) | |
+nicht verwertbar
+
+nicht  differenzierbarjanein
+
+positiv, wenn ja: Liegt HPV-Typ 16 oder HPV-Typ 18 vor?
+
+HPV-HR-Testergebnis
 
 Welche?
 
 Wann?
 
+Eingangsdatum
+
 ja, zuletzt
 
-**Erläuterungen*****ggf. gyn. Befunde (Vulva, Vagina, Portio);*** ***Diagnosen; sonstige Anmerkungen***
+### Zytologischer Befund / Kombinationsbefund
+
+Endozervikale Zellen
+
+vorhanden
+
+zytologische Kontrolle
+
+HPV-Test
+
+Ko-Test
+
+Abklärungskolposkopie
+
+**Zusammenfassende Empfehlung**
+
+sofort
+
+in
+
+Zeitraum
+
+nicht vorhanden
+
+nach Entzündungsbehandlung
+
+nach Östrogenbehandlung
+
+**Bemerkungen**
+
+**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);**  ***Diagnosen; sonstige Anmerkungen*** Monaten
 
 Gruppe
 
+Gruppe
+
+Vertragsarztstempel / Unterschrift  des zytologisch tätigen Arztes
+
+Vertragsarztstempel / Unterschrift des Arztes
+
+Mischflora
+
+Candida
+
+Kokkenflora
+
+Gardnerella
+
+Döderleinflora
+
+Trichomonaden
+
 Auftragsnummer des Labors
 
-20-29
+Proliferationsgrad
 
-Jahre 30-34 Jahre ab 35Jahre Alterskategorie
+20-29 Jahre 30-34 Jahre ab 35  Jahre
+
+Alterskategorie
 
 ## 39
+
+PRF.NR.  Muster 39a/E (1.2021)

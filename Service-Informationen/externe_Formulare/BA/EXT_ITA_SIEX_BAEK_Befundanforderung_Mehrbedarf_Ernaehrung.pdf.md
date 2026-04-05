@@ -1,70 +1,70 @@
-**ehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i.****S. d. § 21 Abs. 5****SGB II)****–****BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR****ARBEIT** **M**
+**Mehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i. S. d. § 21 Abs. 5**  **SGB II) – BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR**  **ARBEIT**
 
-Name, Vorname, Geburtsdatum der Patientin / des Patientenundennummer:
+Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-K
+Kundennummer: ___________________
 
-BGL-Nummer:
+Liquidations-ID:
 
-Liquidations-ID:atient/in befindet sich seit
+Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
 
-Pregelmäßiggelegentlichnicht in meiner Behandlung zte Behandlung am Let
+Letzte Behandlung am _________________
 
-**Relevante****Diagnose****(n****) in Bezug auf ernährungsbedingten Mehrbedarf****:**
+**Relevante Diagnose(n) in Bezug auf ernährungsbedingten Mehrbedarf:**
 
-**Krankheitsverlauf****(insbesondere bei Mangelernährung)****:**
+**Krankheitsverlauf (insbesondere bei Mangelernährung):**
 
-**röße:** **G** cm**ewicht:**
+**Größe: _______________cm**
 
-**G**
+**Gewicht: ______________kg vom (Datum):**
 
-kgvom (Datum):**BMI:**kg/m²
+**BMI: ________kg/m²**
 
 **Gewichtsverlauf (in den letzten 12 Monaten):**
 
 AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
-___________________________________
+[ ]
 
 _____________
 
-_________________
+BGL-Nummer: ________________
 
-__________________________________________________
+[ ]
 
-[ ][ ][ ]
+[ ]
 
 
 ---
 
 **Medizinisch indizierte Ernährungsweise/Kostform:**
 
-**Er****fordert die Erkrankung eine über dem üblichen Bedarf liegende Energiezufuhr und/oder****Proteinzufuhr** **und/oder Fettzufuhr?** **Wenn ja, geben Sie bitte nach Möglichkeit ca. den individuellen Bedarf pro Tag an (in kcal/kg KG/Tag** **bzw. g/kg KG/Tag bzw. Energieprozent En%)****.**
+**Erfordert die Erkrankung eine über dem üblichen Bedarf liegende Energiezufuhr und/oder Proteinzufuhr**  **und/oder Fettzufuhr?**  **Wenn ja, geben Sie bitte nach Möglichkeit ca. den individuellen Bedarf pro Tag an (in kcal/kg KG/Tag**  **bzw. g/kg KG/Tag bzw. Energieprozent En%).**
 
-**Ist es aufgrund der Erkrankung aus medizinischen Gründen erforderlich bestimmte Lebensmittel zu** **meiden und diese durch teurere Lebensmittel bzw. nicht verordnungsfähige diätetische Spezialprodukte** **(z.B. eiweißreduzierte Diätnahrung, phenylalaninfreie Fertigprodukte, etc.) zu ersetzen, um den** **individuellen Energie****-****und Nährstoffbedarf zu decken****?** **Wenn ja, um welche Lebensmittel/Spezialprodukte handelt es sich dabei?**
+**Ist es aufgrund der Erkrankung aus medizinischen Gründen erforderlich bestimmte Lebensmittel zu**  **meiden und diese durch teurere Lebensmittel bzw. nicht verordnungsfähige diätetische Spezialprodukte**  **(z.B. eiweißreduzierte Diätnahrung, phenylalaninfreie Fertigprodukte, etc.) zu ersetzen, um den**  **individuellen Energie- und Nährstoffbedarf zu decken?**  **Wenn ja, um welche Lebensmittel/Spezialprodukte handelt es sich dabei?**
 
-**Ist es aufgrund der Erkrankung medizinisch notwendig den individuellen Nährstoffbedarf zusätzlich** **durch nicht verordnungsfähige Nahrungsergänzungsmit****tel zu decken?** **Wenn ja, um welche(s) Nahrungsergänzungsmittel, in welcher Dosierung, handelt es sich?**
+**Ist es aufgrund der Erkrankung medizinisch notwendig den individuellen Nährstoffbedarf zusätzlich**  **durch nicht verordnungsfähige Nahrungsergänzungsmittel zu decken?**  **Wenn ja, um welche(s) Nahrungsergänzungsmittel, in welcher Dosierung, handelt es sich?**
 
 AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
 
 ---
 
-**Liegt aufgrund der Erkrankung eine Schluckstörung vor, welche eine Andickung von Getränken mit** **sog****. Andickungspulvern medizinisch erforderlich macht?** **Wenn ja, geben Sie bitte die monatlich benötigte Menge des Andickungspulvers, entsprechend der** **individuell benötigten Flüssigkeitszufuhr und Konsistenzstufe an.**
+**Liegt aufgrund der Erkrankung eine Schluckstörung vor, welche eine Andickung von Getränken mit**  **sog. Andickungspulvern medizinisch erforderlich macht?**  **Wenn ja, geben Sie bitte die monatlich benötigte Menge des Andickungspulvers, entsprechend der**  **individuell benötigten Flüssigkeitszufuhr und Konsistenzstufe an.**
 
-**Bitte fügen Sie diesem Befundber****icht****relevante****medizinische Unterlagen (Arztbriefe, Befundberichte,** **Laborbefunde, Krankenhaus****-****Entlassungsberichte, Reha****-****Entlassungsberichte, Gutachten u****. ä.) als****Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
-Medizinische Unterlagen liegen in Kopiebei
+Medizinische Unterlagen liegen in Kopie bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________Ort, DatumStempel und Unterschrift
+___________________________  Ort, Datum  Stempel und Unterschrift
 
 AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
-Rückruf erbeten[ ]
+Rückruf erbeten [ ]
 
-Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 [ ]
 
@@ -75,39 +75,37 @@ __________________________
 
 ---
 
-**Arzt / Ärztin****(****Rechnungssteller****)****Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
 
-en
-
-And
+An den
 
 | ¹Rechnungsnummer: |  |
 |---|---|
-|  |  |
+| Rechnungsdatum: |  |
 | Steuernummer/  Ust-Id-Nr.: |  |
-| ¹ |  |
+| ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen DienstderAgentur für Arbeit
+Ärztlichen Dienst der  Agentur für Arbeit
 
-### dation
+### Liquidation
 
-### Liqui
+Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| okopierkosten: 0,50 € | ____  Seiten á ten á | = = | ________  € ________  € |
+| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: |  | = | € |
-| Portokosten: |  | = |  |
-| Gesamt |  | = |  |
+| Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
+| Portokosten: |  | = | € |
+| Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisungauf das folgende Konto:
+Ich bitte um Überweisung auf das folgende Konto:
 
 A M 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 
-| Ko |
+| Kontoinhaber/in |
 |---|
-| D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
+| IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
 | BIC: |
 | Bank/Sparkasse: |
 
-¹Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

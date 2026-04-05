@@ -1,24 +1,61 @@
-Krankenkasebzw.Kostenträger Name,VornamedesVersichertengeb.am KostenträgerkenungVersicherten-Nr.Status Betriebstäten-Nr.Arzt-Nr.Datum
+Krankenkasse bzw. Kostenträger
 
-| r m o g e n s |  |  |  |  |  |  | i e d k a m e n t e n - Ä n d e r u n gM e r ä n d e r u n g e n e r f o l g t J a / N e i nV | M e d i k a t i o n E n t l a s u n g n a c h A b g l e i c h i t | m A u f n a h m e m e d i k a t i o n | i t m a g s a b e n d s n a c h t s |
-|---|---|---|---|---|---|---|---|---|---|---|
+Name, Vorname des Versicherten
 
-|  |  |  | | |  |  |  | |  | | nL a b o rS o n oE c h oD o p l e rC |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | | | | | | | | | | | |
-| e U n t e r l a g e n p e r s ö l i . n c h e z e s | | | | | | | | | | | |
-|  | | | | | | | | | | | |
+geb. am
 
-DatumName/UnterschriftPatientin/Patient/gesetzl.Vertreterin/gesetzl.Vertreter
+Kostenträgerkennung Versicherten-Nr.Status
 
-## Ä
+Betriebsstäten-Nr. Arzt-Nr.Datum
 
-**r****z****t****l****i****c****h****e****r****K****u****r****z****b****e****r****i****c****h****t** **P****a****t****i****e****n****t****e****n**
+**Adresse der weiterbehandelnden Praxis/Einrichtung:**
 
-### ü
+**Diagnosen mit ICD-10:**
 
-**b****e****r****l****e****i****t****u****n****g****N****o****r****d****r****h****e****i****n** **5****0****3****A****n****l****a****g****e****7****a**
+**Medikation Aufnahme**
 
-AusführlicherBerichtfolgt:janeinBehandelnderArzt/Krankenhaus: Station:Name:Telefon,Fax:Krankenhausaufenthaltvon:bis:Aufnahmegrund:
+**Medikament morgens mittags abends**
 
-DiesesFormularwurdemitelsLaserdruckerinderArztpraxiserzeugt.
+| Labor |  | Sono | Echo |  | | MRT | |  |
+|---|---|---|---|---|---|---|---|---|
+| Labor | | | | | | | | |
+| wurde der keine | | | | | | | | |
+| / Unterschrift o.g. Daten werden an: Durchführung der der | | | | | | | | |
+
+DatumName / Unterschrift Patientin / Patient /  gesetzl. Vertreterin / gesetzl. Vertreter
+
+## Ärztlicher Kurzbericht
+
+### Patientenüberleitung Nordrhein
+
+Ausführlicher Bericht folgt:
+
+Behandelnder Arzt / Krankenhaus:
+
+Station:
+
+Name:
+
+Telefon, Fax:
+
+Krankenhausaufenthalt von:
+
+Aufnahmegrund:
+
+**Änderungnachts Ja / Nein**
+
+**Medikation Entlassung nach Abgleich mit Aufnahmemedikation** **Medikamenten-** **Veränderungen erfolgt**
+
+ja nein
+
+**morgens**
+
+### 503 Anlage 7
+
+bis:
+
+**mittags abends**
+
+**a**
+
+Befunde: EKG Röntgen Sonstige: Vorberichte Mitgegebene Unterlagen: Der Überleitungsbogen wurde der Patientin / dem Patienten mitgegeben. Patientin / Patient übergibt die Unterlagen persönlich. Pflegestufe beantragt Beantragte Leistungen: Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen. Datum Name / Unterschrift der Ärztin / des Arztes Patientenerklärung Ich bin mit der Weitergabe der o.g. Daten zur Durchführung der erforderlichen Behandlung Die Daten solen übersandt werden an: Pflegeeinrichtung zur Durchführung der erforderlichen Pflege MDK zum Zweck der Feststelung der Pflegebedürftigkeit Bilder Reha beantragt / eingeleitet Krankenhaus Bezugsperson Doppler CT Arztbrief Sonstiges: (z.B. Anlage MRE) Name / Unterschrift der Pflegefachkraft (wenn Daten aus Pflegedokumentation übernommen) einverstanden behandelnden Arzt Sonstige: nicht einverstanden Hausarzt Endoskopie gesetzes OP**nachts** .t g u ezr e  si x ar ptzr A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D

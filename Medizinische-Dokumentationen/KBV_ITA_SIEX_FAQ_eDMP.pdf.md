@@ -13,7 +13,11 @@
 
 ## [KBV_ITA_SIEX_FAQ_EDMP]
 
-Seite 1 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen  / 15. August 2023
+Seite 1 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen
+
+/ 15. August 2023
+
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 
 ---
@@ -22,14 +26,18 @@ Seite 1 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen  / 1
 |---|---|---|---|---|---|
 | 1.0 | 15.08.2023 | KBV | Erstellung des FAQ-Dokumentes | Konkretisierung der Beantwortung | alle |
 
-Seite 2 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen  / 15. August 2023
+Seite 2 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen
+
+/ 15. August 2023
+
+neuen Anforderungen häufig gestellter Fragen
 
 
 ---
 
 ## EINFÜHRUNG
 
-Dieses Dokument enthält die Antworten der KBV für häufig gestellte Fragen rund um die Anforderungen zu den eDMPs.
+Dieses Dokument enthält die Antworten der KBV für häufig gestellte Fragen rund um die Anforderungen zu  den eDMPs.
 
 ## FRAGEN UND ANTWORTEN ZU DEN ANFORDERUNGEN (KP2-210,
 
@@ -49,7 +57,7 @@ UND
 
 UND
 
-[ 3. weiteres Risiko für Ulcus: „Fußdeformität“ ODER„Hyperkeratose mit Einblutung“ ODER „Z. n. Ulkus“ ODER „Z .n. Amputation“ ODER „ ja“ ODER „nein“ ]
+[ 3. weiteres Risiko für Ulcus: „Fußdeformität“ ODER „Hyperkeratose mit Einblutung“ ODER „Z. n. Ulkus“  ODER „Z .n. Amputation“ ODER „ ja“ ODER „nein“ ]
 
 UND
 
@@ -61,41 +69,45 @@ UND
 
 Zusammenfassend:
 
-Innerhalb einer Dokumentation in dem betrachteten Zeitraum muss in allen fünf Fragen eine Angabe gemacht worden sein, die nicht „nicht untersucht“lautet, damit eine komplette Untersuchung vorliegt.
+Innerhalb einer Dokumentation in dem betrachteten Zeitraum muss in allen fünf Fragen eine Angabe  gemacht worden sein, die nicht „nicht untersucht“ lautet, damit eine komplette Untersuchung vorliegt.
 
-Bei KP2-210, Akzeptanzkriterium 2b) muss die Hinweismeldung angezeigt werden, wenn im betrachteten Zeitraum (umfasst die aktuelle Dokumentation und die Dokumentationen der vorangegangenen 6 Monate vor diesem Dokumentationszeitraum)keine komplette Fußuntersuchung stattgefunden hat.
+Bei KP2-210, Akzeptanzkriterium 2b) muss die Hinweismeldung angezeigt werden, wenn im betrachteten  Zeitraum (umfasst die aktuelle Dokumentation und die Dokumentationen der vorangegangenen 6 Monate  vor diesem Dokumentationszeitraum) keine komplette Fußuntersuchung stattgefunden hat.
 
-**Frage: Unter welchen zeitlichen Voraussetzungen sollen die Hinweistexte der Anforderungen KP2-210** **KP2-215 und KP2-220 angezeigt werden?**
+**Frage: Unter welchen zeitlichen Voraussetzungen sollen die Hinweistexte der Anforderungen KP2-210**  **KP2-215 und KP2-220 angezeigt werden?**
 
 Antwort der KBV:
 
-Die Anzeige der Hinweismeldungen soll erst erfolgen, wenn der jeweils angegebeneZeitraum bspw. „ aktuellen Dokumentation und den Dokumentationen der vorangegangenen 12 Monate “verstrichen ist und somit entsprechende vorangegangene Verlaufsdokumentationen existieren.
+Die Anzeige der Hinweismeldungen soll erst erfolgen, wenn der jeweils angegebene Zeitraum bspw.  „ aktuellen Dokumentation und den Dokumentationen der vorangegangenen 12 Monate “ verstrichen ist  und somit entsprechende vorangegangene Verlaufsdokumentationen existieren.
 
-Wenn die Zeitbedingung noch nicht erfüllt ist, - beispielsweise im Falle einer Neueinschreibung(welche noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinweismeldung nicht angezeigt werden.
+Wenn die Zeitbedingung noch nicht erfüllt ist, - beispielsweise im Falle einer Neueinschreibung (welche  noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinweismeldung nicht angezeigt  werden.
 
-Seite 3 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen  / 15. August 2023
+Seite 3 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen
+
+/ 15. August 2023
 
 
 ---
 
 Beispiele:
 
-1.Es liegt ein halbjähriges Dokumentationsintervall vor. Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben. In der aktuellen und den 2 vorhergehenden Dokumentationen (die erste Dokumentation liegt mehr als 12 Monate zurück) ist bei der augenärztlichen Untersuchungdie Angabe „Nicht durchgeführt“ erfolgt. Es wird eine Hinweismeldung angezeigt.
+1. Es liegt ein halbjähriges Dokumentationsintervall vor.   Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben.   In der aktuellen und den 2 vorhergehenden Dokumentationen (die erste Dokumentation liegt mehr  als 12 Monate zurück) ist bei der augenärztlichen Untersuchung die Angabe „Nicht durchgeführt“  erfolgt.  Es wird eine Hinweismeldung angezeigt.
 
-2.Es liegt ein halbjähriges Dokumentationsintervall vor. Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da. Es erfolgt die Angabe „Nicht durchgeführt“ bei deraugenärztlichen Untersuchung. Es wird keine Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren Verlaufsdokumentationen existieren.
+2. Es liegt ein halbjähriges Dokumentationsintervall vor.   Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da.   Es erfolgt die Angabe „Nicht durchgeführt“ bei der augenärztlichen Untersuchung.  Es wird keine Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem  Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren  Verlaufsdokumentationen existieren.
 
 **Frage: Warum werden die Zeiträume in den Hinweistexten in Monaten aufgeführt?**
 
 Antwort der KBV:
 
-Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und entspricht den Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs- bzw. Dokumentationsinhalte.
+Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und entspricht den  Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs-  bzw. Dokumentationsinhalte.
 
 **Kontakt:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis
+Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
 Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-Seite 4 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen  / 15. August 2023
+Seite 4 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen
+
+/ 15. August 2023

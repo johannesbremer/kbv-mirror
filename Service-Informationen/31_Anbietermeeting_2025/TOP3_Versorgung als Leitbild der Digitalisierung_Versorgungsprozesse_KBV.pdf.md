@@ -1,56 +1,29 @@
-|  |  | Versorgung | | |  | als |  | Leitbild | der |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  |  | Digitalisierung | | | |  | & |  |
-|  |  |  |  |  |  | Versorgungsprozesse | | |  |
-|  | Steffi |  | Neumann | |  |  |  |  |  |
-|  | Leiterin | KIG |  |  |  |  |  |  |  |
-| Dr. |  | Florian |  |  |  | Fuhrmann |  |  |  |
-|  | Vorsitzender | |  | der |  |  | Geschäftsführung | |  |
+|  |  |  | Versorgung | | als | Leitbild | der |
+|---|---|---|---|---|---|---|---|
+|  |  |  | Digitalisierung | | | & |  |
+|  |  |  |  | Versorgungsprozesse | | |  |
+|  | Steffi |  | Neumann |  |  |  |  |
+|  | Leiterin | KIG |  |  |  |  |  |
+| Dr. |  | Florian |  | Fuhrmann | |  |  |
+|  |  | Vorsitzender | der |  |  | Geschäftsführung |  |
 
-
----
-
-
-
-
-
-
+Versorgung als Leitbild der Digitalisierung & Steffi Neumann Leiterin KIG Dr. Florian Fuhrmann Vorsitzender der Geschäftsführung
 
 ---
 
-# Was erwartet Sie heute?
+|  | Was |  |  | erwartet | | Sie |  | heute? | |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| • |  |  | 10:45-11:05 | | Uhr |  |  |  |  |  |
+|  |  | Zukunft |  | Ausrichtung | | | KIG |  |  |  |
+|  |  | Steffi |  | Neumann | & |  | Josephine | Weiß |  |  |
+| • |  |  | 11:05-11:20 | | Uhr |  |  |  |  |  |
+|  |  | Zukunft | der |  | gematik | |  |  |  |  |
+|  | Dr. |  | Florian |  | Fuhrmann | |  |  |  |  |
+| • |  |  | 11:20-11:30 | | Uhr |  |  |  |  |  |
+|  |  | Dialog | – Q | & A |  |  |  |  |  |  |
+|  |  |  |  |  |  | gematik | \| KBV | Anbietermeeting | 18.09.2025 | \| öffentlich |
 
--
-
-## 10:45-11:05 Uhr
-
-## Zukunft Ausrichtung KIG
-
-## Steffi Neumann & Josephine Weiß
-
--
-
-## 11:05-11:20 Uhr
-
-## Zukunft der gematik
-
-## Dr. Florian Fuhrmann
-
--
-
-## 11:20-11:30 Uhr
-
-## Dialog –
-
-## Q & A
-
-gematik | KBV Anbietermeeting 18.09.2025 | öffentlich2
-
-
----
-
-
-
+Was erwartet Sie heute? 10:45-11:05 Uhr Zukunft Ausrichtung KIG Steffi Neumann & Josephine Weiß 11:05-11:20 Uhr Zukunft der gematik Dr. Florian Fuhrmann 11:20-11:30 Uhr Dialog – Q & A gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich2
 
 
 ---
@@ -74,48 +47,25 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich2
 
 ---
 
-
-
-
-
-
-
----
-
 # KIG
 
 # 2025
 
-**Gemeinsam wirksamer: Das Kompetenzzentrum für**
+|  | Gemeinsam | |  | wirksamer: | | Das |  | Kompetenzzentrum | | | für |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Interoperabilität | | | im |  | Gesundheitswesen |  | (KIG) |  | verfolgt |  | grundlegend | |
+| das |  | Ziel, | durch |  | verbindliche | |  | Standards | einen |  |  | reibungslosen | |  |
+|  | Datenfluss | | und | ein |  | besseres |  | Nutzererlebnis | | | für |  | Mediziner:innen | |
+| und |  |  | Forscher:innen | | zu |  | ermöglichen. |  | Dieses | Ziel | hat | das | KIG | im |
+|  |  | Transformationsjahr | | | 2024 |  | schrittweise | | weiter |  |  | vorangetrieben. | |  |
+| Zu | den |  | wichtigsten | |  |  | Entwicklungen | | gehören: | |  |  |  |  |
+| 1. |  | Erste | eML | -Empfehlung | |  | innerhalb | von | 4 |  | Monaten |  |  |  |
+| 2. |  | Errichtung | | eines |  | neuen |  |  |  | Konformitätsbewertungsverfahrens | | | |  |
+|  | zur |  | Gewährleistung | | | einer | größeren |  |  | Interoperabilität | |  | zwischen | |
+|  |  | Systemen | |  | innerhalb | von | 5 | Monaten | |  |  |  |  |  |
+| 3. |  |  | Einvernehmen | |  | 116117 | mit kv | digital | |  |  |  |  |  |
 
-Interoperabilität im Gesundheitswesen (KIG) verfolgt grundlegend
-
-das Ziel, durch verbindliche Standards einen reibungslosen
-
-**Datenfluss und ein besseres Nutzererlebnis für Mediziner:innen**
-
-**und Forscher:innen**zu ermöglichen. Dieses Ziel hat das KIG im
-
-Transformationsjahr 2024 schrittweise weiter vorangetrieben.
-
-**Zu den wichtigsten Entwicklungen gehören:**
-
-1.Erste eML-Empfehlung**innerhalb von 4 Monaten**
-
-2.Errichtung eines neuen Konformitätsbewertungsverfahrens
-
-zur Gewährleistung einer größeren Interoperabilität zwischen
-
-Systemen innerhalb von 5 Monaten
-
-**3.****Einvernehmen 116117**mit kv digital
-
-
----
-
-
-
-
+Gemeinsam wirksamer: Das Kompetenzzentrum für Interoperabilität im Gesundheitswesen (KIG) verfolgt grundlegend das Ziel, durch verbindliche Standards einen reibungslosen Datenfluss und ein besseres Nutzererlebnis für Mediziner:innen und Forscher:innen zu ermöglichen. Dieses Ziel hat das KIG im Transformationsjahr 2024 schrittweise weiter vorangetrieben. Zu den wichtigsten Entwicklungen gehören: Erste eML innerhalb von 4 Monaten Errichtung eines neuen Konformitätsbewertungsverfahrens zur Gewährleistung einer größeren Interoperabilität zwischen Systemen innerhalb von 5 Monaten Einvernehmen 116117 mit kv digital
 
 ---
 
@@ -123,57 +73,47 @@ Systemen innerhalb von 5 Monaten
 
 **5**
 
-Eigenentwicklung, Beauftragen
+**IOP Expertengremium & Kreis ***
 
-**IOP Expertengremium & Kreis *** Beratung und Unterstützung in den neuen Aufgaben, IOP-Arbeitskreise
+Beratung und Unterstützung in den  neuen Aufgaben, IOP-Arbeitskreise
 
-**Wissensplattform INA** KOB-Antragsdaten, PVS-Positivliste, KOB-Beschwerdestelle, C5-
+KOB-Antragsdaten, PVS-Positivliste,  KOB-Beschwerdestelle, C5-
 
 - Eintrittskriterium auf 3 Jahre Berufserfahrung abgesenkt
+
+Eigenentwicklung, Beauftragen
+
+**Wissensplattform INA**
 
 Verbindliche Festlegungen
 
 **Spezifikationen**
 
-Testate
-
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
+Testate
 
 **Aufgaben und Prozesse des KIGs**
 
-**Operationalisierung +** **Prozessoptimierung in**
+**Operationalisierung +**  **Prozessoptimierung in**
 
-**Verfahrensordnung auf** **Geschäfts-**
+**Verfahrensordnung auf**
+
+**Geschäfts-**
 
 **Anlagen**
 
 **und**
 
-Gesetzliche Spezifikationsaufträge der IOP-Governance
+Gesetzliche Spezifikationsaufträge  der IOP-Governance
 
 **Regelungsprozess** Einheitliches Kommentierungsverfahren Vorschlag zur Verbindlichmachung
 
-**Konformitätsbewertungsverfahren** Antrag, Zertifikat, Anzeigepflichten, Beschwerdemöglichkeiten
+**Konformitätsbewertungsverfahren** Antrag, Zertifikat, Anzeigepflichten,  Beschwerdemöglichkeiten
 
-**Strategische Entwicklung** Unterstützung Bundesregierung, Kompetenzbildung Reporting
+**Strategische Entwicklung** Unterstützung Bundesregierung,  Kompetenzbildung Reporting
 
-Verordnung
-
-5
-
-
----
-
-
-
-
-
-
-
-
-
-
-
+Verordnung 5
 
 
 ---
@@ -190,13 +130,13 @@ Verordnung
 
 **&**
 
-**IOP-Community** (Verbände, Start-ups, SDOs, Industrie etc.)
+**IOP-Community** (Verbände, Start-ups,  SDOs, Industrie etc.)
 
 **Betreibt**
 
 ### IOP-Arbeitskreise
 
-gematik| KBV Anbietermeeting 18.09.2025 | öffentlich
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 = K ompetenzzentrum für
 
@@ -216,148 +156,70 @@ im G esundheitswesen
 
 **Abstimmungsrelevante Akteure** (hier beispielhaft)
 
-**setzt ein,** **benennt &** **kooperiert**
+**setzt ein,**  **benennt &**  **kooperiert**
 
-**KBV****mio42**
+**KBV mio42**
 
-### Interop Council
-
-(Expertengremium)
+### Interop Council (Expertengremium)
 
 6
 
 
 ---
 
+## Fehlende Verbindlichkeit
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-| Fehlende | Verbindlichkeit |  |  |
-|---|---|---|---|
-|  |  | Konformitätsbewertungsverfahren |  |
-|  |  |  | 7 |
-
-
----
-
-
-
-
-
+## Konformitätsbewertungsverfahren 7
 
 
 ---
 
 # Welchen Mehrwert bietet die KOB?
 
-## Short & Crisp
-
-## Ansatz
-
-### Prüfung,
-
-### Autorisierung &
-
-### Transparenz
-
-### aktueller IOP-
-
-### Standards
-
-### Industrie
-
-Erhöhung der Produktqualität
-
-durch Sicherung aktueller IOP-
-
-Standards
-
-Bewegung im Markt &
-
-Innovationskraft
-
-### Leistungs-
-
-### erbringende
-
-Rückversicherung über
-
-Einhaltung von IOP-Standards
-
-Harmonisierte
-
-Versorgungsabläufe
-
-### Patient:innen
-
-Sicherheit des Daten-
-
-austauschs
-
-Mündigkeit über
-
-Datenqualität
+| Short & Crisp |  |
+|---|---|
+| Ansatz |  |
+|  | Leistungs- |
+|  | Industrie Patient:innen |
+|  | erbringende |
+|  | Erhöhung der Produktqualität |
+| Prüfung, | Sicherheit des Daten- Rückversicherung über |
+|  | durch Sicherung aktueller IOP- |
+|  | austauschs Einhaltung von IOP-Standards |
+|  | Standards |
+| Autorisierung & |  |
+| Transparenz |  |
+|  | Mündigkeit über Harmonisierte |
+|  | Bewegung im Markt & |
+|  | Datenqualität Versorgungsabläufe |
+|  | Innovationskraft |
+| aktueller IOP- |  |
+| Standards |  |
 
 8
 
-
----
-
-
-
-
-
-
-
----
-
-gematik| KBV Anbietermeeting 18.09.2025 | öffentlich
-
-## 63
-
-## Praxisverwaltungssysteme
-
-## bestehen die KOB –
-
-## Marktabdeckung
-
-## 96%
-
-9
+|  | erbringende |  |
+|---|---|---|
+| Erhöhung der Produktqualität |  |  |
+|  | Rückversicherung über | Sicherheit des Daten- |
+| durch Sicherung aktueller IOP- |  |  |
+|  | Einhaltung von IOP-Standards | austauschs |
+| Standards |  |  |
+|  | Harmonisierte | Mündigkeit über |
+| Bewegung im Markt & |  |  |
 
 
 ---
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
+| 63 |  |  | Praxisverwaltungssysteme | | |
+|---|---|---|---|---|---|
+|  | bestehen | die | KOB | – 96% |  |
+|  |  | Marktabdeckung | |  |  |
+|  |  |  |  |  | 9 |
 
-
+bestehen die KOB –
 
 ---
 
@@ -367,23 +229,23 @@ gematik| KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ### Was & Wie
 
-- Instrument, um neu **festgelegte IOP-Standards ob ihrer** **korrekten Anwendung in** **Primärsystemen zu prüfen und** diese zu autorisieren
+- Instrument, um neu  **festgelegte IOP-Standards ob ihrer**  **korrekten Anwendung in**  **Primärsystemen zu prüfen und**  diese zu autorisieren
 
 - Langfristig werden mit Hilfe dieses
 
-Verfahrens Versorgungsprozesse **interoperabel gestaltet**
+Verfahrens Versorgungsprozesse  **interoperabel gestaltet**
 
-- **Niedrigschwelliges Verfahren** durchetabliertes System zum KOB Zertifikat
+- **Niedrigschwelliges Verfahren**  durch etabliertes System zum KOB  Zertifikat
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ### Ergebnisse & Learnings
 
-- **Regulatorik: Verbindliche Frist für** Umsetzung von Primärsystemen
+- **Regulatorik: Verbindliche Frist für**  Umsetzung von Primärsystemen
 
-- **Prozess: Integration war ein Erfolg 62%** berichteten, dass der Prozess ohne größere Probleme durchlief
+- **Prozess: Integration war ein Erfolg 62%**  berichteten, dass der Prozess ohne  größere Probleme durchlief
 
-- **Kommunikation: Sprechstundenformat** mit Herstellern als gutes Instrument
+- **Kommunikation: Sprechstundenformat**  mit Herstellern als gutes Instrument
 
 gaben 67% der Befragten an
 
@@ -391,50 +253,26 @@ Standards in
 
 ### Informieren & Melden
 
-- **Stand: 16.09.2025: 129****bestätigte** **Primärsysteme**
+- **Stand: 16.09.2025: 129 bestätigte**  **Primärsysteme**
 
 63
 
 31
 
-1412 7 2
+14 12 7 2
 
 10
 
 
 ---
 
-
-
-
-
-
-
-
-
----
-
-## Use-Case-Fit
-
-## KOB & Praxisverfügbarkeit
-
-## Entwickeln
-
-## Von Standard zu Abrechnung –
-
-## „läuft in der Praxis“ gemeinsame Aufgabe
-
-11
-
-
----
-
-
-
-
-
-
-
+|  | Use-Case-Fit |
+|---|---|
+|  | KOB & Praxisverfügbarkeit |
+|  | Entwickeln |
+|  | Von Standard zu Abrechnung – |
+|  | „läuft in der Praxis“ gemeinsame Aufgabe |
+|  | 11 |
 
 
 ---
@@ -447,22 +285,20 @@ Standards in
 
 **Vorbereitungen für KOB zur ePA**
 
-- **Identifikation der Anforderungen, die in Empfehlungsprozess dem BMG zur** Verbindlichmachung
+- **Identifikation der Anforderungen, die in Empfehlungsprozess dem BMG zur**  Verbindlichmachung
 
-- Fokus: erweiterter digital gestützter Medikationsprozess
-
-- **Identifikation**
+- Fokus: erweiterter digital gestützter Medikationsprozess - **Identifikation**
 
 - **Empfehlungsdokument**
 
 - Anschließend: Notifizierungsverfahren (mind. 3 Monate)
 - Timeline wird noch bekannt gegeben
 
-- Nach erfolgreicher Notifizierung: Aktualisierung der Anlage 1 **Gesundheits-IT-Interoperabilitäts-Governance**
+- Nach erfolgreicher Notifizierung: Aktualisierung der Anlage 1  **Gesundheits-IT-Interoperabilitäts-Governance**
 
 - **KOB für ePA** kommende KOB für ePA
 
-- Operativer Prozess bleibt bestehen: Bereitstellung der Testsuite **über GitHub, Einreichung der Testberichte und Nachweise** über Titus
+- Operativer Prozess bleibt bestehen: Bereitstellung der Testsuite  **über GitHub, Einreichung der Testberichte und Nachweise**  über Titus
 
 übergeben werden
 
@@ -487,215 +323,127 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ---
 
-
-
-
-
----
-
 # Alles Wissenswerte zur KOB…
 
 **Gemeinschaft & Co-Creation**
 
-- Gemeinschaft stärken & gemeinsam effektiver sein mit einem neuen Format als Ergänzung zu bestehenden
+- Gemeinschaft stärken & gemeinsam  effektiver sein mit einem neuen  Format als Ergänzung zu  bestehenden
 
-- Relevante Akteure bündeln ihre Kräfte 18.09.2025 -KommenSie vorbeiheuteAbend!joinforces
+- Relevante Akteure bündeln ihre  Kräfte 18.09.2025 - Kommen Sie  vorbei heute Abend!join forces
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 **Interoperabilitäts**
 
-- Erste Anlaufstelle für IOP im Gesundheitsbereich
+- Erste Anlaufstelle für IOP im  Gesundheitsbereich
 
-- Dynamische Wissensplattform, Grundlagen, Informations- Partizipationsmöglichkeiten, Publikationen zu Verbindlichkeiten (KOB)
+- Dynamische Wissensplattform,  Grundlagen, Informations- Partizipationsmöglichkeiten,  Publikationen zu Verbindlichkeiten  (KOB)
 
 **Navigator**
 
 und
 
-**Learning**
+|  | Learning | | INA |  |
+|---|---|---|---|---|
+| ▪ | interaktive | Lernplattform | für |  |
+|  | Interoperabilität | im |  |  |
+|  | Gesundheitswesen |  |  |  |
+| ▪ | Entscheidungshilfe, | | umfassende |  |
+|  | Lernressourcen, | Experten | |  |
+|  | gesteuerte | Inhalte, | kollaborative |  |
+|  | Lernumgebung |  |  |  |
+|  |  |  |  | 13 |
 
-- interaktive Lernplattform für Interoperabilität im Gesundheitswesen
+interaktive Lernplattform für Interoperabilität im Entscheidungshilfe, umfassende Lernressourcen, Experten gesteuerte Inhalte, kollaborative
 
-- Entscheidungshilfe, umfassende Lernressourcen, Experten gesteuerte Inhalte, kollaborative Lernumgebung
+---
 
-**INA**
+| Hier | geht | es | zur | Umfrage |
+|---|---|---|---|---|
+|  | an den |  |  | Expertenkreis |
 
-13
+## Interoperabilitäts
+
+## Roadmap
+
+credits:istock.com/CoreDesignKEY
+
+Hier geht es zur Umfrage an den Expertenkreis14
 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
----
-
-|  | Hier | geht |  | es | zur | Umfrage |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | an | den |  |  |  | Expertenkreis |  |  |  |
-|  |  |  |  |  |  |  |  | Interoperabilitäts |  |
-|  |  |  |  |  |  |  | Roadmap |  |  |
-|  |  |  |  |  |  |  |  | credits:istock.com/CoreDesignKEY |  |
-|  |  |  |  |  |  |  |  |  | 14 |
-
-
----
-
-
-
-
-
-
-
----
-
-|  | Zukunft |  | der | gematik |
+|  | Zukunft | | der | gematik |
 |---|---|---|---|---|
 | Dr. | Florian |  | Fuhrmann | |
 |  | Vorsitzender |  | Ge | schäftsführung |
 
+Zukunft der gematik Dr. Florian Fuhrmann Vorsitzender Ge
 
 ---
 
+|  | Unser | |  |  | gemeinsames | Ziel | ist |
+|---|---|---|---|---|---|---|---|
+|  | eine |  |  | bessere |  | Versorgung | in |
+|  |  |  | Deutschland. | |  |  |  |
+| gematik | \| KBV | Anbietermeeting | 18.09.2025 | \| öffentlich |  |  |  |
 
-
-
-
-
-
----
-
-|  |  | Unser | | |  |  |  |  | gemeinsames | Ziel |  | ist |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | eine | |  |  |  | bessere | |  | Versorgung |  | in |  |
-|  |  |  |  |  | Deutschland. | | | |  |  |  |  |  |
-| gematik | \| | KBV |  | Anbietermeeting | | 18.09.2025 | \| | öffentlich |  |  |  |  | 16 |
-
-
----
-
-
-
-
-
+Unser gemeinsames Ziel ist eine bessere Versorgung in | KBV Anbietermeeting 18.09.2025 |  öffentlich16
 
 
 ---
 
 ## Top
 
-## Mittelfeld
-
-17
+## Mittelfeld 17
 
 
 ---
 
+|  |  | Versorgung | auf |
+|---|---|---|---|
+|  | dem |  | Land |
+|  |  | Bürokratie | |
 
+## Demographie
 
+## Personalmangel
 
+## Komplexität
 
+## Kostendruck
 
-
----
-
-|  |  | Versorgung | auf |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | Demographie | Komplexität |  |
-|  | dem |  | Land |  |  |  |  |
-|  |  | Bürokratie | |  | Personalmangel | Kostendruck |  |
-|  |  |  |  |  |  |  | 18 |
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
+Versorgung auf dem Land18
 
 
 ---
 
 ## Regulatorik
 
-## Digitalisierung
-
-19
-
-
----
-
-
-
-
-
+## Digitalisierung 19
 
 
 ---
 
 ## organisationszentriert
 
-## patientenzentriert
-
-20
+## patientenzentriert 20
 
 
 ---
 
+| Analoge | Prozesse |  |  |
+|---|---|---|---|
+|  |  | Digitale | Journeys |
 
-
-
-
-
-
----
-
-| Analoge | Prozesse |  |  |  |
-|---|---|---|---|---|
-|  |  | Digitale | Journeys |  |
-|  |  |  |  | 21 |
-
-
----
-
-
-
-
-
+Analoge Prozesse Digitale Journeys21
 
 
 ---
 
 ## Technologieperspektive
 
-## Versorgungszentrierung
-
-22
-
-
----
-
-
-
-
-
+## Versorgungszentrierung 22
 
 
 ---
@@ -704,37 +452,29 @@ und
 
 # ohne Digitalisierung schwer lösbar
 
-**Unzureichende** **Patient:innen-** **sicherheit**
+**Unzureichende**  **Patient:innen-** **sicherheit**
 
 **Daten-** **austausch**
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
-**Zeit für** **Patient:innen** **Individuelle** **Medizin** **Attraktivität** **medizinischer Berufe**
+**Zeit für**  **Patient:innen**
+
+**Individuelle**  **Medizin**
+
+**Attraktivität**  **medizinischer Berufe**
 
 23
 
 
 ---
 
+| Was |  |  | haben | | wir |
+|---|---|---|---|---|---|
+|  | bereits | |  |  | erreicht? |
+|  | gematik | \| KBV | Anbietermeeting 18.09.2025 | \| öffentlich |  |
 
-
-
-
-
-
-
-
-
-
-
-
----
-
-| Was |  |  |  |  | haben | | |  | wir |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | bereits | | | |  |  |  |  | erreicht? |  |
-|  | gematik | \| | KBV |  | Anbietermeeting | 18.09.2025 | \| |  | öffentlich | 24 |
+Was haben wir bereits erreicht? gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich24
 
 
 ---
@@ -749,9 +489,9 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
-**Elektronisches Melde-** **und Informationssystem** **für den Infektionsschutz**
+**Elektronisches Melde-** **und Informationssystem**  **für den Infektionsschutz**
 
-**Kommunikation** **im Medizinwesen** **(KIM)**
+**Kommunikation**  **im Medizinwesen**  **(KIM)**
 
 **Deutsches**
 
@@ -759,63 +499,25 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 **E-Rezept**
 
-**Elektronische** **Medikationsliste** **(eML)**
+**Elektronische**  **Medikationsliste**  **(eML)**
 
-**Elektronische** **Patientenakte**
+**Elektronische**  **Patientenakte**
 
 **TI-Messenger**
 
 **(ePA)**
 
-## 2025
-
-25
+## 2025 25
 
 
 ---
 
+| Die |  | Anwendungen | | der |  |  | Telematikinfrastruktur |
+|---|---|---|---|---|---|---|---|
+|  | Digitale | Lösungen |  | der | gematik | |  |
+|  |  |  | gematik | \| KBV | Anbietermeeting | 18.09.2025 | \| öffentlich |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-| Die |  | Anwendungen | | |  |  | der |  |  |  | Telematikinfrastruktur |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Digitale | Lösungen |  |  | der | |  | gematik | |  |  |  |
-|  |  |  |  | gematik | \| | KBV |  | Anbietermeeting | 18.09.2025 | \| | öffentlich | 26 |
-
-
----
-
-
-
+Die Anwendungen der Telematikinfrastruktur Digitale Lösungen der gematik gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich26
 
 
 ---
@@ -842,25 +544,7 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ## fast
 
-## versendete
-
-27
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
+## versendete 27
 
 
 ---
@@ -887,19 +571,7 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ## Dokumenten-
 
-## uploads
-
-28
-
-
----
-
-
-
-
-
-
-
+## uploads 28
 
 
 ---
@@ -928,54 +600,34 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ## ausgestellte
 
-## E-Rezepte
-
-29
+## E-Rezepte 29
 
 
 ---
 
+|  |  |  |  |  | Nutzungsverpflichtung | |
+|---|---|---|---|---|---|---|
+| der |  |  | ePA |  | zum | 1.10. |
+|  |  | gematik | \| KBV | Anbietermeeting 18.09.2025 | \| öffentlich |  |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-|  |  |  |  |  |  |  |  |  | Nutzungsverpflichtung | |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| der |  |  | ePA | | |  |  | zum | | 1.10. |  |
-|  |  | gematik | \| | KBV |  | Anbietermeeting | 18.09.2025 | \| | öffentlich |  | 30 |
+der ePA zum 1.10. gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich30
 
 
 ---
 
 # Meilensteine des
 
-Konzeption Implementierung **Vorbereitungsphase**
+Konzeption  Implementierung **Vorbereitungsphase**
 
 # ePA
 
 # Roll Outs
 
-GoLive 15.01.25 ePA-Einführung in **Modellregionen**
+GoLive 15.01.25 ePA-Einführung in  **Modellregionen**
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
-Seit 29.04.25 Start bundesweiter **Roll Out**
+Seit 29.04.25 Start bundesweiter  **Roll Out**
 
 **heute**
 
@@ -986,64 +638,16 @@ Seit 29.04.25 Start bundesweiter **Roll Out**
 
 ---
 
+| Status quo |  | ePA |  | Bundesweiter | |  | Roll | Out vor |  | 01.10.25 | |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Letzten | Wochen | (Ø) |  |  | Spitzenwert | | |  |  | Roll | Out |  |
+| 81 | Tausend | | | >1,7 |  |  | Mio. |  | ~ |  | 83% |  |
+| Telematik | IDs | Zugriff | = |  | Hochgeladene | | |  | Marktanteil |  | der | PVS-Hersteller |
+| Nutzung | der | ePA |  | Dokumente | | pro | Woche | die | ePA | -Update | bereitgestellt |  |
+|  |  |  |  |  |  |  |  |  |  |  | haben |  |
+|  |  | gematik | \| KBV | Anbietermeeting 18.09.2025 | \| | öffentlich |  |  |  |  |  | 32 |
 
-
-
-
-
-
-
-
----
-
-# Status quo ePA
-
-## Letzten Wochen (Ø)
-
-# 81 Tausend
-
-## Telematik IDs Zugriff =
-
-## Nutzung der ePA
-
-# Bundesweiter Roll Out vor
-
-gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
-
-## Spitzenwert
-
-## >1,7 Mio.
-
-## Hochgeladene
-
-## Dokumente pro Woche
-
-## Marktanteil der PVS-Hersteller
-
-## die ePA
-
-# 01.10.25
-
-## Roll Out
-
-# ~ 83%
-
-## -Update bereitgestellt
-
-## haben
-
-32
-
-
----
-
-
-
-
-
-
-
-
+Status quo ePA Letzten Wochen (Ø) 81 Tausend Telematik IDs Zugriff = Nutzung der ePA Bundesweiter Roll Out vor gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich >1,7 Mio. Dokumente pro Woche Marktanteil der PVS-Hersteller die ePA Roll Out ~ 83% -Update bereitgestellt
 
 ---
 
@@ -1055,7 +659,7 @@ gemäß Sozialgesetzbuch (SGB) Fünftes Buch (V)
 
 Beauftragte Dienstleister
 
-**Anbieter**haben den störungsfreien Betrieb
+**Anbieter** haben den störungsfreien Betrieb
 
 der TI-Produkte zu gewährleisten.
 
@@ -1063,7 +667,7 @@ der TI-Produkte zu gewährleisten.
 
 oder zugelassene
 
-gematik| KBV Anbietermeeting 18.09.2025 | öffentlich
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 Die gematik
 
@@ -1071,9 +675,7 @@ der Betriebsverantwortung vor allem eine
 
 nimmt zur Wahrnehmung
 
-Governance-Rolle ein
-
-33
+Governance-Rolle ein 33
 
 
 ---
@@ -1082,7 +684,9 @@ Governance-Rolle ein
 
 # Versorgungsrelevanz viel mehr im Fokus
 
-**Beteiligte bei Anwendungen** **und Diensten der TI**
+**Beteiligte bei Anwendungen**
+
+**und Diensten der TI**
 
 ~ 70 Mio. Versicherte
 
@@ -1110,7 +714,9 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 +95%
 
-**1****Produktinstanzen (PU)**
+**1**
+
+**Produktinstanzen (PU)**
 
 224
 
@@ -1121,33 +727,15 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ---
 
-
-
-
-
----
-
-# Digitalisierung als Schlüssel –
-
-# Reformen nachhaltig zum Erfolg bringen
-
-## Krankenhausreform
-
-## Notfallreform
+|  |  | Digitalisierung |  | als |  | Schlüssel | | – |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  | Reformen |  | nachhaltig | |  | zum |  | Erfolg | bringen |
+|  |  | Krankenhausreform | |  |  |  |  |  | Notfallreform |
+|  |  |  | gematik | \| KBV | Anbietermeeting |  | 18.09.2025 | \| öffentlich |  |
 
 ## Primärarztversorgung
 
-gematik | KBV Anbietermeeting 18.09.2025 | öffentlich35
-
-
----
-
-
-
-
-
-
-
+Digitalisierung als Schlüssel – Reformen nachhaltig zum Erfolg bringen gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich35
 
 
 ---
@@ -1168,34 +756,16 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
 
 ## Notfallreform
 
-## Primärarztversorgung
-
-36
+## Primärarztversorgung 36
 
 
 ---
 
+| Alle | Infos | an |  | einem | Ort, |  | wenn | Sie | benötigt | werden |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | gematik | \| KBV | Anbietermeeting | 18.09.2025 | \| | öffentlich |  |  |
 
-
-
-
-
-
-
-
----
-
-# Alle Infos an einem Ort, wenn Sie benötigt werden
-
-gematik | KBV Anbietermeeting 18.09.2025 | öffentlich37
-
-
----
-
-
-
-
-
+Alle Infos an einem Ort, wenn Sie benötigt werden gematik | KBV Anbietermeeting 18.09.2025 |  öffentlich37
 
 
 ---
@@ -1205,19 +775,12 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich37
 
 ---
 
+# gematik.
 
+# Gesunde Aussichten.
 
+## Dr. Florian Fuhrmann
 
+Geschäftsführer Friedrichstraße 136 10117 Berlin
 
-
-
----
-
-|  |  | gematik. | |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Gesunde | |  |  |  |  | Aussichten. | | | |  |
-| Dr. |  | Florian |  | Fuhrmann |  |  |  |  |  |  |  |  |
-|  | Geschäftsführer |  |  |  |  |  |  |  |  |  |  |  |
-|  | Friedrichstraße | 136 |  |  |  |  |  |  |  |  |  |  |
-| 10117 | Berlin |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | gematik | \| | KBV | Anbietermeeting | 18.09.2025 | \| | öffentlich | 39 |
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 39

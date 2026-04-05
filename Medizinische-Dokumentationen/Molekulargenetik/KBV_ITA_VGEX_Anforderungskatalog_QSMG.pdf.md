@@ -11,112 +11,72 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-© KBV Kassenärztliche Bundesvereinigung, Berlin 2025
+kulargenetik ] Digitalisierung und IT Herbert-Lewin-Platz 2 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
 
-
-
-
-
----
-
-Die Änderungen vom14.11.2025treten zum01.01.2026in Kraft.
+Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.16 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1   Umwandlung K | Abschaltung KV |  |
+| 1.16 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in kon- | Abschaltung KV-Connect | 15 |
 | 1.15 | 14.02.2025 | KBV | - | KIM als Übertragungsweg | 15 |
-| 1.14 | 07.05.2018 | KBV | - - | Aktualisierung der KV |  |
+| 1.14 | 07.05.2018 | KBV | - - | Aktualisierung der KV- | 15 |
 | 1.13 | 09.04.2014 | KBV | Dokument redaktionell bzgl. |  |  |
-| 1.12 | 05.09.2013 | KBV | Der Arzt darf sich nicht über | Änderung Plausibilitäten |  |
-| 1.11 | 29.10.2012 | KBV | KV-Connect: Vorgaben zur  Nur GKV | Einsatz KV-Connect | 7 |
+| 1.12 | 05.09.2013 | KBV | Der Arzt darf sich nicht über | Änderung Plausibilitäten | 13 |
+| 1.11 | 29.10.2012 | KBV | KV-Connect: Vorgaben zur  Nur GKV-Versicherte sind zu | Einsatz KV-Connect | 7 |
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an das neue |  |
 | 1.00 | 25.04.2012 | KBV | Neues Dokument |  |  |
 
 ### DOKUMENTENHISTORIE
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite2von19
-
-
----
-
-
-
+ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- Connect Spezifikation veralteter Links überarbeitet Pflichtfelder hinwegsetzen (P1-210). Übermittlung. berücksichtigen (P1-35). Layout KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 2 von 19
 
 
 ---
 
-### DOKUMENTENHISTORIE
+| IT in der | Arztpraxis |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |  |  |
+|  |  | INHALTSVERZEICHNIS | | | |  |  |  |  |
+|  | DOKUMENTENHISTORIE | | |  |  |  |  |  | 2 |
+|  | INHALTSVERZEICHNIS | |  |  |  |  |  |  | 3 |
+|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  | 4 |
+| 1 |  |  | QUALITÄTSSICHERUNGSVEREINBARUNG | | | | MOLEKULARGENETIK |  | 5 |
+| 1.1 | Zielbestimmung | |  |  |  |  | ............................................................................................................................. | | 5 |
+| 1.2 | Pflichtfunktionen | | und | optionale | Funktionen | der | Software | ....................................................... | 5 |
+| 2 | ÄRZTLICHES |  | DOKUMENTIEREN | |  |  |  |  | 6 |
+| 2.1 | Allgemeine | Vorgaben |  |  |  |  | .................................................................................................................... | | 6 |
+|  | 2.1.1 | Vollständigkeit | der | Eingaben | aller | Bewegungsdaten |  | ............................................................ | 6 |
+|  | 2.1.2 | Behandlungsfälle | nach |  | EBM-Unterabschnitt |  | ......................................................................... | | 7 |
+|  | 2.1.3 LANR | und BSNR | des | Einsenders |  |  | ....................................................................................... | | 11 |
+|  | 2.1.4 Externe |  |  |  |  | Qualitätssicherung.................................................................................................. | | | 12 |
+|  | 2.1.5 | Plausibilitäten |  |  |  |  | ....................................................................................................................... | | 13 |
+|  | 2.1.6 | Darstellung |  |  |  |  | ........................................................................................................................... | | 14 |
+|  | 2.1.7 Speichern |  |  |  |  |  | ............................................................................................................................. | | 14 |
+| 2.1.8 | Ändern |  |  |  |  | ................................................................................................................................. | | | 14 |
+| 2.2 | Datenübermittlung | |  |  |  |  | ....................................................................................................................... | | 15 |
+| 2.2.1 |  |  |  |  |  | Übermittlung......................................................................................................................... | | | 15 |
+|  | 2.2.2 Export | der Daten |  |  |  |  | .................................................................................................................. | | 17 |
+|  | 2.2.3 | Verschlüsseln | der Daten |  |  |  | ...................................................................................................... | | 18 |
+| 3 | REFERENZIERTE | |  | DOKUMENTE |  |  |  |  | 19 |
+|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 |  |  | Seite | 3 von 19 |
 
-**2**
-
-### INHALTSVERZEICHNIS
-
-**3**
-
-### ABBILDUNGSVERZEICHNIS
-
-**4**
-
-**1**
-
-### QUALITÄTSSICHERUNGSVEREINBARUNG MOLEKULARGENETIK
-
-**5**
-
-**1.1****Zielbestimmung****.............................................................................................................................****5**
-
-**1.2****Pflichtfunktionen und optionale Funktionen der Software****.......................................................****5**
-
-**2**
-
-### ÄRZTLICHES DOKUMENTIEREN
-
-**6**
-
-**2.1****Allgemeine Vorgaben****....................................................................................................................****6** 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten............................................................6 2.1.2 Behandlungsfälle nach EBM-Unterabschnitt.........................................................................7 2.1.3 LANR und BSNR des Einsenders.......................................................................................11 2.1.4 Externe Qualitätssicherung..................................................................................................12 2.1.5 Plausibilitäten.......................................................................................................................13 2.1.6 Darstellung...........................................................................................................................14 2.1.7 Speichern.............................................................................................................................14 2.1.8 Ändern.................................................................................................................................14
-
-**2.2****Datenübermittlung****.......................................................................................................................****15** 2.2.1 Übermittlung.........................................................................................................................15 2.2.2 Export der Daten..................................................................................................................17 2.2.3 Verschlüsseln der Daten......................................................................................................18
-
-**3**
-
-### REFERENZIERTE DOKUMENTE
-
-### 19
-
-### INHALTSVERZEICHNIS
-
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite3von19
-
+QUALITÄTSSICHERUNGSVEREINBARUNG MOLEKULARGENETIK ............................................................................................................................. 5 Pflichtfunktionen und optionale Funktionen der Software ....................................................... 5 ÄRZTLICHES DOKUMENTIEREN Allgemeine Vorgaben .................................................................................................................... 6 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten ............................................................ 6 2.1.2 Behandlungsfälle nach EBM-Unterabschnitt ......................................................................... 7 2.1.3 LANR und BSNR des Einsenders ....................................................................................... 11 2.1.4 Externe Qualitätssicherung.................................................................................................. 12 2.1.5 Plausibilitäten ....................................................................................................................... 13 2.1.6 Darstellung ........................................................................................................................... 14 ............................................................................................................................. 14 2.1.8 Ändern ................................................................................................................................. 14 ....................................................................................................................... 15 2.2.1 Übermittlung......................................................................................................................... 15 2.2.2 Export der Daten .................................................................................................................. 17 2.2.3 Verschlüsseln der Daten ...................................................................................................... 18 REFERENZIERTE DOKUMENTE IT in der Arztpraxis Anforderungskatalog QS Molekulargenetik KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 3 von 19
 
 ---
 
+| IT in | der Arztpraxis |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |
+|  |  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
+| A BBILDUNG | :1 B ERICHTSZEITRÄUME |  |  |  |  |  | 6 ................................................................................................................................ |
+|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 | Seite 4 | von 19 |
 
-
-
-
----
-
-ABBILDUNG1:BERICHTSZEITRÄUME**................................................................................................................................****6**
-
-### ABBILDUNGSVERZEICHNIS
-
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite4von19
-
-
----
-
-
-
-
+1: IT in der Arztpraxis Anforderungskatalog QS Molekulargenetik KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 4 von 19
 
 ---
 
@@ -128,39 +88,52 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite4von19
 
 ### Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarungMolekulargenetik[1]eingesetzt wird. Es wird einebetriebsstättenbezogeneJah-resstatistik der molekulargenetischen Untersuchungen an die zuständigeDatenannahmestel-leübermittelt.Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:•die molekulargenetische Jahresstatistik korrekt zu dokumentieren sowie•den jährlichen Datentransfer an dieDatenannahmestellezu realisieren.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Molekulargenetik [1] eingesetzt wird. Es wird eine betriebsstättenbezogene Jah- resstatistik der molekulargenetischen Untersuchungen an die zuständige Datenannahmestel- le übermittelt.
+
+Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
+- die molekulargenetische Jahresstatistik korrekt zu dokumentieren sowie
+
+- den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
 
 ### 1.2
 
 ### Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen unddanebenoptionale Funktionen.**Pflichtfunktionen**müssenin der Anwendungssoftware implementiert sein.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-**Optionale Funktionen**könnenimplementiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind.Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen istim Rahmen des Gutachterverfahrens nachzuweisen.**Vorschriftsmäßigkeit**
+**Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein.**
 
-Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sinne dergültigen Dokumentationsvorschriften.**Erläuterung der Funktionsdarstellung**Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt dieNummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikationüber die Funktionen erleichtert.Pflichtfunktionen sind wie folgt gekennzeichnet:
+**Optionale Funktionen können implementiert werden, wenn alle genannten Bedingungen zu**  dieser Funktion erfüllt sind.
 
-| PFLICHTFUNKTION |
-|---|
+Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
+
+**Vorschriftsmäßigkeit**
+
+Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sinne der  gültigen Dokumentationsvorschriften.
+
+**Erläuterung der Funktionsdarstellung**
+
+Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die  Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation  über die Funktionen erleichtert.
+
+Pflichtfunktionen sind wie folgt gekennzeichnet:
+
+| PFLICHTFUNKTION | |
+|---|---|
 | P4-10 | Funktionsbezeichnung |
 
-Ident-Nummer einer PflichtfunktionIdent-Nummer einer älteren VersionOptionale Funktionen sind wie folgt gekennzeichnet:
+Ident-Nummer einer Pflichtfunktion  Ident-Nummer einer älteren Version
 
-| Optionale FUNKTION |
-|---|
+Optionale Funktionen sind wie folgt gekennzeichnet:
+
+| Optionale FUNKTION | |
+|---|---|
 | K8-30 | Funktionsbezeichnung                                                                            (2 |
 
 Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite5von19
-
-
----
-
-
-
+(2-70) -80) KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 5 von 19
 
 
 ---
@@ -173,330 +146,356 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite5von19
 
 ### Allgemeine Vorgaben
 
-**2.1.1****Vollständigkeit der Eingaben aller Bewegungsdaten**
+**2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. derMolekulargenetischenJahresstatistik ermöglichen.Die in der SchnittstellenbeschreibungQS Molekulargenetik[KBV_ITA_VGEX_Schnittstelle_QSMG]festgelegten Datenelemente müssen vollständig er-fassbar sein.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Molekulargenetischen Jahresstatistik ermöglichen.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+Die in der Schnittstellenbeschreibung QS Molekulargenetik  [KBV_ITA_VGEX_Schnittstelle_QSMG] festgelegten Datenelemente müssen vollständig er- fassbar sein.
+
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-20 | Berichtszeiträume |
 
-Die Behandlungsfälle werdenerstmalsvom 01.04.2012-31.12.2012erfasst,danach jährlichvom 01.01.-31.12.desUntersuchungsjahres.
+Die Behandlungsfälle werden erstmals vom 01.04.2012 - 31.12.2012 erfasst, danach jährlich  vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr:01.01.-.31.12Das Kalenderjahr, in dem die molekulargenetischenUntersuchungen durchgeführt werden.Meldequartal:01.01.-.31.03Das sich an das Untersuchungsjahr anschließendeQuartal.Prüfquartal:01.04.-.30.06Das sich an das Meldequartal anschließende Quartaldient den Korrekturen.
+Untersuchungsjahr: 01.01.-.31.12 Das Kalenderjahr, in dem die molekulargenetischen  Untersuchungen durchgeführt werden.
 
-**Abbildung****1****: Berichtszeiträume**
+Meldequartal: 01.01.-.31.03 Das sich an das Untersuchungsjahr anschließende  Quartal.
 
-31.0331.1230.0601.01
+Prüfquartal: 01.04.-.30.06 Das sich an das Meldequartal anschließende Quartal  dient den Korrekturen.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**Abbildung 1: Berichtszeiträume**
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16
+31.03 31.12 30.06 01.01
 
-### Untersuchungsjahr
-
-Seite6von19
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 ### Melde
 
 **-**
 
-### quartal
-
 ### Prüfquartal
 
+### Untersuchungsjahr
+
+### quartal
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 6 von 19
+
 
 ---
 
-
-
-
-
----
-
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-30 | Betriebsstättenbezug |
 
-Die Jahresstatistik QS Molekulargenetikumfasst Dateneiner Betriebsstätte.D.h. arbeitenmehrere Ärzte in einer Gemeinschaftspraxis,enthältdie Statistik aufsummiert alle Behand-lungsfälle nach EBM-Abschnitt (s. P1-40) von allen Ärzten dieser Betriebsstätte.Pro Betrieb-stätte ist nur eine Jahresstatistik möglich.Arbeitetein Arzt in mehreren Betriebsstätten, ist die Jahresstatistik weiterhin nur pro Be-triebsstätte zu erstellen.So ist auch für jede Nebenbetriebsstätte eine separate Jahresstatis-tik erforderlich.DieBetriebsstättennummer(BSNR) und die lebenslange Arztnummer (LANR) des Anwen-derssindzu erfassen und in der Jahresstatistik anzuzeigen.
+Die Jahresstatistik QS Molekulargenetik umfasst Daten einer Betriebsstätte. D.h. arbeiten  mehrere Ärzte in einer Gemeinschaftspraxis, enthält die Statistik aufsummiert alle Behand- lungsfälle nach EBM-Abschnitt (s. P1-40) von allen Ärzten dieser Betriebsstätte. Pro Betrieb- stätte ist nur eine Jahresstatistik möglich.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+Arbeitet ein Arzt in mehreren Betriebsstätten, ist die Jahresstatistik weiterhin nur pro Be- triebsstätte zu erstellen. So ist auch für jede Nebenbetriebsstätte eine separate Jahresstatis- tik erforderlich.
+
+Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind zu erfassen und in der Jahresstatistik anzuzeigen.
+
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-35 | Patienten der QSMG Dokumentation |
 
-Für die Dokumentation der QS Molekulargenetik werden nur Patientender gesetzlichenKrankenversicherung berücksichtigt.
+Für die Dokumentation der QS Molekulargenetik werden nur Patienten der gesetzlichen  Krankenversicherung berücksichtigt.
 
-**2.1.2****Behandlungsfälle****nach EBM****-****Unterabschnitt**
+**2.1.2 Behandlungsfälle nach EBM-Unterabschnitt**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-40 | Behandlungsfälle nach EBM-Unterabschnitt 11.4.2 |
 
-Es werden nurabgeschlosseneBehandlungsfälleberücksichtigt,für die mind. eine Leistungaus demEBM Unterabschnitt 11.4.2 erbracht wurdeund zu denen ein Endbefundvorliegt,vgl.: Ausfüllhinweise[KBV_ITA_AHEX_Ausfuellhinweise_QSMG].Ein Behandlungsfall istdefiniert gemäß demBundesmantelvertrag Ärzte (BMV-Ä).
+Es werden nur abgeschlossene Behandlungsfälle berücksichtigt, für die mind. eine Leistung  aus dem EBM Unterabschnitt 11.4.2 erbracht wurde und zu denen ein Endbefund vorliegt,  vgl.: Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Ein Behandlungsfall ist  definiert gemäß dem Bundesmantelvertrag Ärzte (BMV-Ä).
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-50 | Gesamtanzahl der Behandlungsfälle nach EBM-Unterabschnitt |
 
-DieAnzahl allerBehandlungsfälle (mit mind. einerLeistung ausdemEBMUnterabschnitt11.4.2) istfür die Betriebsstättezu berechnen undin der Jahresstatistik anzuzeigen.
+Die Anzahl aller Behandlungsfälle (mit mind. einer Leistung aus dem EBM Unterabschnitt  11.4.2) ist für die Betriebsstätte zu berechnen und in der Jahresstatistik anzuzeigen.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite7von19
-
-
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 7 von 19
 
 
 ---
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-60 | Art der Fragestellung je Behandlungsfall |
 
-Die Art der Fragestellung zum Behandlungsfall ist zu erfassen. DieAnzahlder Behandlungs-fälle differenziert nach Art der Fragestellung ist zu bilden, wie esin der Berechnungsvorschrift[KBV_ITA_VGEX_Plausi_QSMG]vorgegeben ist. DiejeweiligeAnzahlist in der Jahresstatis-tik anzuzeigen.EinBehandlungsfallkann folgende Arten derFragestellunghaben:•diagnostische Fragestellung•prädiktive Fragestellung•vorgeburtliche FragestellungDieunterschiedlichenFragestellungensindin den Ausfüllhinweisenbeschrieben[KBV_ITA_AHEX_Ausfuellhinweise_QSMG].Liegen mehrere Behandlungen (Überweisungs-scheine)zu einem Fallvor, ist dennoch nur eine Art der Fragestellung möglich.Beispiel:
+Die Art der Fragestellung zum Behandlungsfall ist zu erfassen. Die Anzahl der Behandlungs- fälle differenziert nach Art der Fragestellung ist zu bilden, wie es in der Berechnungsvorschrift  [KBV_ITA_VGEX_Plausi_QSMG] vorgegeben ist. Die jeweilige Anzahl ist in der Jahresstatis- tik anzuzeigen.
 
-| 20 40 Behandlungsfälle mit prädiktiver Fragestellung. 50 Behandlungsfälle mit vorgeburtlicher Fragestellung. |
+Ein Behandlungsfall kann folgende Arten der Fragestellung haben: - diagnostische Fragestellung
+
+- prädiktive Fragestellung
+
+- vorgeburtliche Fragestellung
+
+Die unterschiedlichen Fragestellungen sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs- scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
+
+Beispiel:
+
+| 20 Behandlungsfälle mit diagnostischer Fragestellung. 40 Behandlungsfälle mit prädiktiver Fragestellung. 50 Behandlungsfälle mit vorgeburtlicher Fragestellung. |
 |---|
 
-Beispiel1Art der Fragestellung
+Beispiel 1 Art der Fragestellung
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-70 | Art des Befunds je Behandlungsfall |
 
-Die Art des Befundes zum Behandlungsfall ist zu erfassen. DieAnzahlder Befunde differen-ziert nachderArt der Fragestellung des Behandlungsfalles undnach derArt des Befundes istin der Jahresstatistik anzuzeigen.Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel-lung, dieser Befund kannfolgende Arten desBefundeshaben:•pathologischerBefund•unauffälligerB•nicht beurteilbarerBefund
+Die Art des Befundes zum Behandlungsfall ist zu erfassen. Die Anzahl der Befunde differen- ziert nach der Art der Fragestellung des Behandlungsfalles und nach der Art des Befundes ist  in der Jahresstatistik anzuzeigen.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel- lung, dieser Befund kann folgende Arten des Befundes haben: - pathologischer Befund
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite8von19
+- unauffälliger Befund
+
+- nicht beurteilbarer Befund
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 8 von 19
 
 
 ---
 
+Die unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
 
-
-
-
----
-
-Dieunterscheidenden Befundesind in den Ausfüllhinweisenbeschrieben[KBV_ITA_AHEX_Ausfuellhinweise_QSMG].Beispiel:
+Beispiel:
 
 | 60 Behandlungsfälle mit diag. Fragestellung, davon 20 mit pathologischem Befund 60 Behandlungsfälle mit diag. Fragestellung, davon 10 mit unauffälligem Befund 60 Behandlungsfälle mit diag. Fragestellung, davon 30 mit nicht beurteilbarem Befund  70 Behandlungsfälle mit präd. Fragestellung, davon 40 mit pathologischem Befund 70 Behandlungsfälle mit präd. Fragestellung, davon 20 mit unauffälligem Befund 70 Behandlungsfälle mit präd. Fragestellung, davon 10 mit nicht beurteilbarem Befund  210 Behandlungsfälle mit vorgeb. Fragestellung, davon 60 mit pathologischem Befund 210 Behandlungsfälle mit vorgeb. Fragestellung, davon 80 mit unauffälligem Befund 210 Behandlungsfälle mit vorgeb. Fragestellung, davon 70 mit nicht beurteilbarem Befund |
 |---|
 
-Beispiel2Art des Befunds
+Beispiel 2 Art des Befunds
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-80 | Anzahl der Leistungen je GOP |
 
-Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP aufsum-miert. DieAnzahl istje GOPin der Jahresstatistik anzuzeigen.
+Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP aufsum- miert. Die Anzahl ist je GOP in der Jahresstatistik anzuzeigen.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-90 | Art des Befundes je Leistung |
 
-Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung istdieAnzahlder Befunde differenziert nach der Art des Befundes zu bilden. Diejeweilige An-zahlist in der Jahresstatistik anzuzeigen.Eine durchgeführteLeistung (nach EBMUnterabschnitt 11.4.2)kannim Sinne der einzelnenAnalysefolgende Arten des Befundeshaben:-pathologischer Befund-unauffälliger Befund-nicht beurteilbarer BefundDiezu unterscheidenden Befundesind in den Ausfüllhinweisenbeschrieben[KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
+Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die jeweilige An- zahl ist in der Jahresstatistik anzuzeigen.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+Eine durchgeführte Leistung (nach EBM Unterabschnitt 11.4.2) kann im Sinne der einzelnen  Analyse folgende Arten des Befundes haben: - pathologischer Befund
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite9von19
+- unauffälliger Befund
+
+- nicht beurteilbarer Befund
+
+Die zu unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 9 von 19
 
 
 ---
 
-
-
-
-
----
-
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-100 | Quotient differenziert nach Art des Befundes |
 
-Für jede Art desBefundesim Sinne der Fragestellungist ein Quotient zu berechnen. DerQuotient wirdaus folgenden zwei Größengebildet:Quotient 1:DieAnzahlder Leistungen(GOPs)bei Behandlungsfällen mit pathologischemBefundDieder Behandlungsfällemit pathologischemBefundQuotient 2:Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit unauffälligem BefundDie Anzahl der Behandlungsfälle mit unauffälligem BefundQuotient 3:Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit nichtbeurteilbarem BefundDie Anzahl der Behandlungsfälle mit nicht beurteilbarem BefundDieZähler und Nenner, sowie dieerrechneten Quotienten sind inder Jahresstatistik anzuzei-gen.Beispiel
+Für jede Art des Befundes im Sinne der Fragestellung ist ein Quotient zu berechnen. Der  Quotient wird aus folgenden zwei Größen gebildet:
+
+Quotient 1:
+
+Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit pathologischem Befund
+
+Die Anzahl der Behandlungsfälle mit pathologischem Befund
+
+Quotient 2:
+
+Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit unauffälligem Befund
+
+Die Anzahl der Behandlungsfälle mit unauffälligem Befund
+
+Quotient 3:
+
+Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit nicht beurteilbarem Befund
+
+Die Anzahl der Behandlungsfälle mit nicht beurteilbarem Befund
+
+Die Zähler und Nenner, sowie die errechneten Quotienten sind in der Jahresstatistik anzuzei- gen.
+
+Beispiel
 
 | Es gibt 25 Behandlungsfälle mit pathologischem Befund. Bei diesen Behandlungsfällen  Es gibt 10 Behandlungsfälle mit unauffälligem Befund. Bei diesen Behandlungsfällen wur-  Es gibt 20 Behandlungsfälle mit nicht beurteilbarem Befund. Bei diesen Behandlungsfällen |
 |---|
 
-Beispiel3Quotient differenziert nach Art des Befundes
+Beispiel 3 Quotient differenziert nach Art des Befundes
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite10von19
-
-
----
-
-
-
+wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5 KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 10 von 19
 
 
 ---
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-110 | Unterauftrag |
 
-Wurdemindestensein Unterauftrag (Überweisung) für einenBehandlungsfall erstellt, ist dieszu erfassen und die Gesamtanzahl der BehandlungsfällemiterteiltemUnterauftragin derJahresstatistik anzuzeigen.
+Wurde mindestens ein Unterauftrag (Überweisung) für einen Behandlungsfall erstellt, ist dies  zu erfassen und die Gesamtanzahl der Behandlungsfälle mit erteiltem Unterauftrag in der  Jahresstatistik anzuzeigen.
 
-**2.1.3****LANR und BSNR des****Einsenders**
+**2.1.3 LANR und BSNR des Einsenders**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-120 | LANR des Einsenders |
 
-Dielebenslange Arztnummer (LANR)desEinsenders(nachMuster 10 und 10a), der die Pro-ben zur genetischen Analyse geschickt hat,istjeBehandlungsfall zu erfassen.Wenn keinEinsender existiert, dann ist das Feld optional.Die Definition des Einsenders ist in den Ausfüllhinweisen[KBV_ITA_AHEX_Ausfuellhinweise_QSMG]definiert.DieAnzahl dererfasstenEinsender-LANRs ist zuermitteln, wobei nur dieunterschiedlichenLANRsberücksichtigtwerden. D.h.identischeLANRs werdensomit nur einmal gezählt. DieAnzahlistinder Jahresstatistik anzuzeigen.
+Die lebenslange Arztnummer (LANR) des Einsenders (nach Muster 10 und 10a), der die Pro- ben zur genetischen Analyse geschickt hat, ist je Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+Die Definition des Einsenders ist in den Ausfüllhinweisen  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] definiert.
+
+Die Anzahl der erfassten Einsender - LANRs ist zu ermitteln, wobei nur die unterschiedlichen  LANRs berücksichtigt werden. D.h. identische LANRs werden somit nur einmal gezählt. Die  Anzahl ist in der Jahresstatistik anzuzeigen.
+
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-130 | BSNR des Einsenders |
 
-Die Betriebsstättennummer(BSNR) desEinsenders(nachMuster 10 und 10a), der die Pro-ben zur genetischen Analyse geschickt hat,ist proBehandlungsfall zu erfassen.Wenn keinEinsender existiert, dann ist das Feld optional.Die Definition des Einsenders ist in den Ausfüllhinweisen[KBV_ITA_AHEX_Ausfuellhinweise_QSMG]beschrieben.DieAnzahl dererfasstenEinsender-BSNRnist zu bilden, wobei nurdieunterschiedlichenBSNRnberücksichtigtwerden. D.h.identischeBSNRs werdensomit nur einmal gezählt. DieAnzahlistin der Jahresstatistik anzuzeigen.
+Die Betriebsstättennummer (BSNR) des Einsenders (nach Muster 10 und 10a), der die Pro- ben zur genetischen Analyse geschickt hat, ist pro Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+Die Definition des Einsenders ist in den Ausfüllhinweisen  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] beschrieben.
+
+Die Anzahl der erfassten Einsender - BSNRn ist zu bilden, wobei nur die unterschiedlichen  BSNRn berücksichtigt werden. D.h. identische BSNRs werden somit nur einmal gezählt. Die  Anzahl ist in der Jahresstatistik anzuzeigen.
+
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-140 | Facharztgruppe des Einsenders |
 
-Aus der erfassten LANRdesEinsenders(nachMuster 10 und 10a) je Behandlungsfallwirddie Facharztgruppe (8-9 Stelle der LANR) ermittelt.DieAnzahlder Einsendungen differen-ziert nachFacharztgruppeistin der Jahresstatistik anzuzeigen.Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß der Tabelle[2]gemappt.
+Aus der erfassten LANR des Einsenders (nach Muster 10 und 10a) je Behandlungsfall wird  die Facharztgruppe (8-9 Stelle der LANR) ermittelt. Die Anzahl der Einsendungen differen- ziert nach Facharztgruppe ist in der Jahresstatistik anzuzeigen.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß der Tabelle [2]  gemappt.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite11von19
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 11 von 19
 
 
 ---
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-150 | Facharztgruppe des Einsenders je GOP > 150 |
 
-Für jede Leistung(GOP), die >150-maldurchgeführt wurde,istnur für diese LeistungdieAnzahlder Einsendungen differenziert nach Facharztgruppezu bildenund in der Jahressta-tistik anzuzeigen.Für dieAnzeigeder Facharztgruppe im PVSwirddemAnwenderdie 8.-9.-Stelle der LANRgemäß der Tabelle[2]gemappt.
+Für jede Leistung (GOP), die > 150-mal durchgeführt wurde, ist nur für diese Leistung die  Anzahl der Einsendungen differenziert nach Facharztgruppe zu bilden und in der Jahressta- tistik anzuzeigen.
 
-**2.1.4****Externe Qualitätssicherung**
+Für die Anzeige der Facharztgruppe im PVS wird dem Anwender die 8.-9.-Stelle der LANR  gemäß der Tabelle [2] gemappt.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+**2.1.4 Externe Qualitätssicherung**
+
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-160 | Gesamtanzahl der Untersuchungen |
 
-Ärzte sind verpflichtet an externen Qualitätssicherungsmaßnahmen teilzunehmen.Jede ring-versuchspflichtige Untersuchung unddie Anzahl der Teilnahmehäufigkeitfür jede Untersu-chung in dem Jahr ist zu erfassen.Das Produkt der beiden Größen ist zu bilden und die Summe der Produkte ist zu erstellen.DieSummeistin der Jahresstatistik anzuzeigen.Beispiel
+Ärzte sind verpflichtet an externen Qualitätssicherungsmaßnahmen teilzunehmen. Jede ring- versuchspflichtige Untersuchung und die Anzahl der Teilnahmehäufigkeit für jede Untersu- chung in dem Jahr ist zu erfassen.
 
-| Untersuchung: BRCA1 Teilnahmehäufigkeit: 2x  Untersuchung: FraX Teilnahmehäufigkeit: 1x  Gesamtanzahl = 3 |
+Das Produkt der beiden Größen ist zu bilden und die Summe der Produkte ist zu erstellen.  Die Summe ist in der Jahresstatistik anzuzeigen.
+
+Beispiel
+
+| Untersuchung: BRCA1 Teilnahmehäufigkeit: 2x   Untersuchung: FraX Teilnahmehäufigkeit: 1x   Gesamtanzahl = 3 |
 |---|
 
-Beispiel4Gesamtanzahl der Untersuchungen
+Beispiel 4 Gesamtanzahl der Untersuchungen
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite12von19
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 12 von 19
 
 
 ---
 
-
-
-
-
----
-
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-170 | Gesamtanzahl der Zertifikate |
 
-Für jede Untersuchung ist die Anzahl der erteilten Zertifikate[3]in dem Jahr zu erfassen.Die Summe über das Produkt aus ringversuchspflichtiger Untersuchung und erteilter Zertifika-te im Jahr ist zu erstellen. Die Summe istin der Jahresstatistik anzuzeigen.Beispiel
+Für jede Untersuchung ist die Anzahl der erteilten Zertifikate [3] in dem Jahr zu erfassen.
 
-| Untersuchung: BRCA1 Zertifikate: 2x  Untersuchung: FraX Zertifikate: 2x  Gesamtanzahl = 4 |
+Die Summe über das Produkt aus ringversuchspflichtiger Untersuchung und erteilter Zertifika- te im Jahr ist zu erstellen. Die Summe ist in der Jahresstatistik anzuzeigen.
+
+Beispiel
+
+| Untersuchung: BRCA1 Zertifikate: 2x   Untersuchung: FraX Zertifikate: 2x   Gesamtanzahl = 4 |
 |---|
 
-Beispiel5Gesamtanzahl der Zertifikate
+Beispiel 5 Gesamtanzahl der Zertifikate
 
-**2.1.5****Plausibilitäten**
+**2.1.5 Plausibilitäten**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-200 | Plausibilitäten |
 
-Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten[KBV_ITA_VGEX_Plausi_QSMG]entsprechen.
+Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten  [KBV_ITA_VGEX_Plausi_QSMG] entsprechen.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-210 | Fehlerbehandlung bei Plausibilitäten |
 
-Die Jahresstatistik wird gegen die Plausibilitäten[KBV_ITA_VGEX_Plausi_QSMG]geprüftund Warnungen und ggf. Fehlermeldungen werden demAnwenderangezeigt.Das Einreichen einer unvollständigen (nicht alle Felder wurden gefüllt) und/oder nicht plausib-len und/oder nicht validen Dokumentation an die Datenannahmestelle kann vom Anwendersomit nur nach entsprechender Kenntnisnahme durchgeführt werden.Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen. BedingtePflichtfelder hingegen sind optional, d.h. der Anwender kann sich über Warnungen zu diesenFeldern hinwegsetzen.
+Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSMG] geprüft  und Warnungen und ggf. Fehlermeldungen werden dem Anwender angezeigt.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+Das Einreichen einer unvollständigen (nicht alle Felder wurden gefüllt) und/oder nicht plausib- len und/oder nicht validen Dokumentation an die Datenannahmestelle kann vom Anwender   somit nur nach entsprechender Kenntnisnahme durchgeführt werden.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite13von19
+Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen. Bedingte  Pflichtfelder hingegen sind optional, d.h. der Anwender kann sich über Warnungen zu diesen  Feldern hinwegsetzen.
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 13 von 19
 
 
 ---
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-220 | Behandlungsfälle ohne Art des Befundes |
 
-Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befundim Sinne der Fra-gestellung(s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen.
+Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra- gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen.
 
-**2.1.6****Darstellung**
+**2.1.6 Darstellung**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-300 | Anzeige der Jahresstatistik |
 
-DerAnwendermussdie Möglichkeithabendie generierte Jahresstatistik anzuschauen.
+Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-310 | Drucken der Jahresstatistik |
 
-Der Anwender muss die Möglichkeit haben die generierteJahresstatistik auszudrucken.
+Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-**2.1.7****Speichern**
+**2.1.7 Speichern**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-400 | Speichern der Jahresstatistik |
 
-Das System muss sicherstellen, dass der Anwenderauch unvollständige oder fehlerhafteDaten zur Jahresstatistik speichern kann. Einspäterer Abruf dieser Daten zur nachträglichenBearbeitung muss dem Anwenderbis Ende desPrüfquartalsermöglicht werden.
+Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-**2.1.8****Ändern**
+**2.1.8 Ändern**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-500 | Ändern der Jahresstatistik |
 
-Das System muss sicherstellen, dass der AnwenderalleDaten zur JahresstatistikbisEndedesPrüfquartalsändern kann.
+Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite14von19
-
-
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 14 von 19
 
 
 ---
@@ -505,149 +504,133 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite14von19
 
 ### Datenübermittlung
 
-**2.2.1****Übermittlung**
+**2.2.1 Übermittlung**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P2-10 | Übermittlung an die Datenannahmestelle |
 
-DieJahresstatistik istim Meldequartalan dieDatenannahmestellezu übermitteln.Die Statis-tik mussdabeibiszum31.03.(Ende des Meldequartals)bei der Datenannahmestelle vorlie-gen.DerAnwenderkannanschließendbiszum30.06.(Ende des Prüfquartals)auf Aufforde-rung der KVveränderte und überarbeiteteDaten andieDatenannahmestelle senden.
+Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P2-15 | Korrekturlieferung |
 
-Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss dies in derelektronischen Dokumentation gemäß der Schnittstellenbeschreibung[KBV_ITA_VGEX_Schnittstelle_QSMG]kenntlich gemacht werden.
+Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSMG] kenntlich gemacht werden.
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-265 | QSMG auf Basis von KV-Connect |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationenauf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung:**
 
-Zum 01.10.2018besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei der Einreichung der QSMG-Dokumentation auf Basis von KV-Connect.
+Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KV-Connect.
 
 **Akzeptanzkriterium:**
 
-(1)Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß der folgenden Anforderungsdokumente bereit:
+(1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
-- „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in der stets aktuellen Version[Spezifikation_eDoku]
+- „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
 
-- „KV-Connect–Anbindung an KV-Connect“ in der stets aktuellen Version [Anbindung_KV_Connect]
+- „KV-Connect – Anbindung an KV-Connect“ in der stets aktuellen Version  [Anbindung_KV_Connect]
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P1-266 | QSMG auf Basis von KIM |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
-Zum 01.10.2025 besteht eine verbindlicheUmsetzungspflicht der PVS zur Unterstützung bei der Einreichung der QSMG-Dokumentation auf Basis von KIM.
+Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KIM.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite15von19
-
-
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 15 von 19
 
 
 ---
 
 **Akzeptanzkriterium:**
 
-(1)Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
+(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
 
-- "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM] **Bedingung:**
+- "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]  **Bedingung:**
 
-(1)Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig. (2)Ab dem 1.Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend. **Hinweis:**
+(1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.  (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.  **Hinweis:**
 
-Wenn eine KV für das Verfahren QSMGdas KIM-Verfahren gemäß der [Spezifikation_eDoku_KIM]unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
+Wenn eine KV für das Verfahren QSMG das KIM-Verfahren gemäß der  [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
 
-| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | K KP2-264 | E-Mail Rückmeldung Importstatus von der Datenannahmestelle |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über denVersand
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM] an  den Absender der Dokumentationsdaten. E-Mail-Versand.  Beim Importieren wird die Verordnungs-Datei geprüft und eine E-Mail KIM-Nachricht mit dem  Import-Status und ggf. Fehlermeldungen wird erstellt.
 
-einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM]an den Absender der Dokumentationsdaten.E-Mail-Versand. Beim Importieren wird die Verordnungs-Datei geprüft und eineE-MailKIM-Nachrichtmit dem Import-Status und ggf. Fehlermeldungen wird erstellt.Es sind folgende Import-Statusmöglich:
+Es sind folgende Import-Status möglich:
 
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
 | OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
-| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht P1 ) |
+| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
-DieE-MailKIM-Nachrichtmit der Rückmeldung wird an die Absender–Adresse geschickt, von der aus der Anwender (Arzt) die exportierten Dateien überKV-ConnectKIMübermittelt hat.
+Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
-Das PVSkannmussdem Anwenderden Importstatusdiese Rückmeldungs-E-Mailin geeig- neter Weise anzeigen.
+Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig- neter Weise anzeigen.
 
 **Bedingung:**
 
-(1)Bis zum 31.März2026ist die Umsetzung dieser Anforderung für die Software freiwillig. (2)Ab dem 1.April2026ist die Umsetzung dieser Anforderung für die Software verpflichtend.
+(1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.  (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite16von19
-
-
----
-
-
-
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 16 von 19
 
 
 ---
 
-**2.2.2****Export der Daten**
+**2.2.2 Export der Daten**
 
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P2-60 | Korrekter Datenexport |
 
-Das System mussa)die festgelegten Datenelemente vollständignach Vorgabe der Schnittstellenbeschrei-bung[KBV_ITA_VGEX_Schnittstelle_QSMG]exportieren,b)die Daten nach den in[KBV_ITA_VGEX_XML-Schnittstellen]beschriebenen Vorga-ben für den Export vorbereiten,c)sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem
+Das System muss
 
-Datenarchiv QS MolekulargenetikundderKV-ConnectKIMBegleitdateibesteht,
+a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSMG] exportieren,
 
-d)exportierte Datensätze innerhalb des Systems kennzeichnenunde)denPfad zur Exportdatei dem Anwender bekannt machen.
+b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga- ben für den Export vorbereiten,
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Molekulargenetik und der KV-Connect KIM Begleitdatei besteht,
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite17von19
+d) exportierte Datensätze innerhalb des Systems kennzeichnen und
+
+e) den Pfad zur Exportdatei dem Anwender bekannt machen.
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 17 von 19
 
 
 ---
 
+**2.2.3 Verschlüsseln der Daten**
 
-
-
-
----
-
-**2.2.3****Verschlüsseln der Daten**
-
-| PFLICHTFUNKTION QS Molekulargenetik |
-|---|
+| PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
 | P2-70 | Einsatz Kryptomodul (XKM) |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv inderGesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichenSchlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs-seln.Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.Es muss bei allen Datenübertragungen eingesetzt werden.Nähere Erläuterungen zur Funkti-on und Anwendung des XKMsindin[KBV_ITA_AHEX_Handbuch_Kryptomodul]nachzule-sen.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs- seln.
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite18von19
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-
----
-
-
-
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 18 von 19
 
 
 ---
@@ -658,22 +641,16 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite18von19
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_XML | Austausch von XML-Daten in der vertragsärztlichen |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Schnittstelle_QSMG] | Schnittstellenbeschreibung QS Molekulargenetik |
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise zur betriebsstättenbezogenen Jahres- |
 | [KBV_ITA_VGEX_Plausi_QSMG] | Berechnungsvorschriften zur betriebsstättenbezoge- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
-| [ | Qualitätssicherungsvereinbarung Molekulargenetik http://www.kbv.de/html/themen_2846.php |
+| [1] | Qualitätssicherungsvereinbarung Molekulargenetik http://www.kbv.de/html/themen_2846.php |
 | [2] | Schlüsseltabelle S_BAR2_ARZTNRFACHGRUPPE |
 | [3] | Richtlinie der Bundesärztekammer zur Qualitätssiche- |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-**IT in der Arztpraxis**Anforderungskatalog QS Molekulargenetik
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG* Version1.16Seite19von19
-
-
----
-
-
-
+Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che) KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 19 von 19

@@ -2,10 +2,15 @@
 
 ## Antrag auf Psychotherapie
 
-| Name, Vorname | | | |
-|  | | Versicherten-Nr. Krankenkasse | |
-|---|---|---|---|
-|  | | Arzt-Nr. | Datum |
+Name, Vorname des Versicherten
+
+geb. am
+
+Kostenträgerkennung Versicherten-Nr.Status
+
+Betriebsstätten-Nr. Arzt-Nr.Datum
+
+Krankenkasse bzw. Kostenträger
 
 **Ausfertigung Krankenkasse**
 
@@ -19,42 +24,52 @@ Systemische Therapie
 
 Tiefenpsychologisch fundierte Psychotherapie
 
-Verhaltenstherapie Wurden bei Ihnen innerhalb der letzten 12 Monatemindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt?und ggf. am
+Verhaltenstherapie
 
-ja, und zwar am
+Wurden bei Ihnen innerhalb der letzten 12 Monate  mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt?
+
+und ggf. amja, und zwar am
 
 nein (Wenn nein, bitte Folgendes angeben)
 
-Wurde vor dem jetzigen Antrag in den letzten 2 Jahrenbereits eine ambulante psychotherapeutische Behandlung durchgeführt?
+Wurde vor dem jetzigen Antrag in den letzten 2 Jahren  bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
 
-ja ja
+ja
 
-nein
-
-Waren Sie in den letzten 12 Monaten aufgrund einer psychischen Erkrankungin stationärer oder rehabilitativer Behandlung?
+ja
 
 nein
 
-**Ich beantrage die Feststellung der Leistungspflicht****für**
+Waren Sie in den letzten 12 Monaten aufgrund einer psychischen Erkrankung  in stationärer oder rehabilitativer Behandlung?
 
-**als**
+nein
+
+**Ich beantrage die Feststellung der Leistungspflicht**  **fürals**
 
 Erstantrag
 
 ***Bei Erstanträgen bitte angeben:***
 
-Folgeantrag (während einer laufenden Behandlung)**Ich beantrage die Psychotherapie als**
+Folgeantrag (während einer laufenden Behandlung)
 
-EinzeltherapieGruppentherapie
+**Ich beantrage die Psychotherapie als**
 
-Kombinationsbehandlungaus Einzel- und Gruppentherapie
+Einzeltherapie
 
-Bei mir ist ggf. ein anderer Kostenträger zuständig(z. B. Unfallversicherung).
+Gruppentherapie
 
-Unterschrift Versicherte*r,ggf. der gesetzlichen Vertreter*innen
+Kombinationsbehandlung  aus Einzel- und Gruppentherapie
 
-Um sachgerecht über Ihren Antrag entscheiden zu können,benötigt die Krankenkasse von Ihnen einige wichtigeInformationen. Ihre Mitwirkung ist in den Paragraphen 60 bis 65Erstes Buch Sozialgesetzbuch (SGB I) ausdrücklich vorgesehen.Bitte füllen Sie daher alle Felder sorgfältig aus, da bei fehlenderMitwirkung die Leistung ganz oder teilweise versagtwerden kann (§ 66 SGB I). Ihr*e Therapeut*in und IhreKrankenkasse unterstützen Sie gerne bei der Antragstellung. In bestimmten Fällen übernimmt nicht dieKrankenkasse, sondern ein anderer Kostenträger diePsychotherapie (z. B. bei Folgen eines Unfalls).
+Bei mir ist ggf. ein anderer Kostenträger zuständig  (z. B. Unfallversicherung).
 
-**Hinweise zur Mitwirkungspflicht** **Kostenträger**
+Unterschrift Versicherte*r,   ggf. der gesetzlichen Vertreter*innen
+
+Um sachgerecht über Ihren Antrag entscheiden zu können,  benötigt die Krankenkasse von Ihnen einige wichtige  Informationen. Ihre Mitwirkung ist in den Paragraphen 60 bis 65  Erstes Buch Sozialgesetzbuch (SGB I) ausdrücklich vorgesehen.  Bitte füllen Sie daher alle Felder sorgfältig aus, da bei fehlender  Mitwirkung die Leistung ganz oder teilweise versagt  werden kann (§ 66 SGB I). Ihr*e Therapeut*in und Ihre  Krankenkasse unterstützen Sie gerne bei der Antragstellung.
+
+In bestimmten Fällen übernimmt nicht die  Krankenkasse, sondern ein anderer Kostenträger die  Psychotherapie (z. B. bei Folgen eines Unfalls).
+
+**Hinweise zur Mitwirkungspflicht**
+
+**Kostenträger**
 
 PRF.NR. Muster PTV 1a/E (7.2020)

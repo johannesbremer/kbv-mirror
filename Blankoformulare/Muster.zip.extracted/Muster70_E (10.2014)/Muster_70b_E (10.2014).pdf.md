@@ -18,7 +18,7 @@
 
 **Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
-**Kosten für einmalig im Reproduktionsfall****a** **anfallende Leistungen Reproduktionsfall anfallende L**
+**Kosten für einmalig im Reproduktionsfalla** **anfallende Leistungen Reproduktionsfall anfallende L**
 
 **Ärztliche Behandlung (EBM-Positionen) Ärztliche Behandlung**
 
@@ -30,15 +30,7 @@
 | Gesamtsumme für einmalig im Reproduktionsfall |  |
 | anfallende |  |
 
-| Behandlung |
-|---|
-| (Euro) |
-| Medikamenten- kosten |
-| (Euro) |
-| Sachkosten und Sprechstunden- |
-| bedarf (Euro) |
-| Gesamtsumme pro Zyklusfall |
-| (Euro) |
+**Leistungen (Euro)** **Ort Datum**
 
 ### IV Genehmigung durch die
 
@@ -58,11 +50,11 @@
 
 ## Behandlungsplan
 
-**für Maßnahmen zur künstlichen Befruchtung gemäß § 27a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten** **geb. am**
+**für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten** **geb. am**
 
 ### Indikation(en)
 
-**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung****Versicherten-Nr.****Status**
+**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche BefruchtungVersicherten-Nr.Status**
 
 Datum
 
@@ -80,15 +72,25 @@ Status
 
 **b Kosten pro Zyklusfall (ohne einmalig im**
 
+| Behandlung |
+|---|
+| (Euro) |
+| Medikamenten- kosten |
+| (Euro) |
+| Sachkosten und Sprechstunden- |
+| bedarf (Euro) |
+| Gesamtsumme pro Zyklusfall |
+| (Euro) |
+
 **Der Behandlungs-/Kostenplan wird**
 
-**für maximal** diejeweilszulässigeHöchstzahl anzurechnenden sindzuberücksichtigenundverringern
+**für maximal** die jeweils zulässige Höchstzahl anzurechnenden sind zu berücksichtigen und verringern
 
-**nicht genehmigt** Genehmigung für3IVF-oder ICSI-Zyklensteht **(separate Begründung** **anbei)**2BehandlungszykleneineBefruchtungstatt- BeiInseminationen imSpontanzyklus kann**Ort Datum** fürbiszu8inFolgegeplanteZyklen
+**nicht genehmigt** Genehmigung für 3 IVF- oder ICSI-Zyklen steht **(separate Begründung** **anbei)** 2 Behandlungszyklen eine Befruchtung statt- Bei Inseminationen im Spontanzyklus kann **Ort Datum** für bis zu 8 in Folge geplante Zyklen
 
-27aSGBVsind50%derentstehendenKosten sieheAbschnittIIIb) Patienten.EineabschließendeBerech-**für maximal** Gesamtkostenkann-u.a.inAbhängigkeit des PunktwertesinCentbzw.Euro-
+27a SGB V sind 50% der entstehenden Kosten siehe Abschnitt III b) Patienten. Eine abschließende Berech- **für maximal** Gesamtkosten kann - u. a. in Abhängigkeit des Punktwertes in Cent bzw. Euro -
 
-**nicht genehmigt** **(separate Begründung** spätestensnachAblaufeinesJahresseitder **anbei)** **Ort Datum**
+**nicht genehmigt** **(separate Begründung** spätestens nach Ablauf eines Jahres seit der **anbei)** **Ort Datum**
 
 **Insemination im Spontanzyklus (gemäß Nr. 10.1)**
 
@@ -98,7 +100,7 @@ Status
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 10.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
 
 **(EBM-Positionen)**
 
@@ -110,6 +112,8 @@ Status
 
 **ischen Einzelfallerfordernisse.**
 
+**Vertragsarztstempel / Unterschrift des Arztes**
+
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
@@ -117,3 +121,5 @@ Status
 **Muster 70b/E (10.2014)**
 
 ## 70
+
+Summe Ärztliche Summe Ärztliche

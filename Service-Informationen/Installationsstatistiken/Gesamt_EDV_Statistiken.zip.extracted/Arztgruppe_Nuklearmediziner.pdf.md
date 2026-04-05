@@ -1,94 +1,80 @@
-1
-
-062**EVA**Abasoft EDV-Programme GmbH56-1
-
-343**SAP Ambulatory Care Management**SAP SE550
-
-276**RadCentre Billing (OPD)**Mesalvo Mannheim GmbH651
-
-439**eRIS**Digithurst Bildverarbeitungssysteme GmbH & Co. KG660
-
-216**x.isynet**medatixx GmbH & Co. KG770
-
-252**CGM M1 PRO**CompuGroup Medical Deutschland AG78-1
-
-203**ALBIS**CompuGroup Medical Deutschland AG880
-
-210**Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH1012-2
-
-112**TURBOMED**CompuGroup Medical Deutschland AG10100
-
-254**ORBIS®**Dedalus HealthCare GmbH12111
-
-446**WIN-RADIOLOG**medigration GmbH13130
-
-280**CGM MEDISTAR BLACK PRO**CompuGroup Medical Deutschland AG21192
-
-256**medavis RIS**medavis GmbH3031-1
-
-**Id****Praxissoftware****Anbieter****Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
-
-### Datenstand: 31.03.2025
+### TOP 20 Systeme - Nuklearmediziner
 
 ### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
 
-### TOP 20 Systeme - Nuklearmediziner
+### Datenstand: 30.06.2025
+
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
+
+256 **medavis RIS**medavis GmbH2930-1
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG21210
+
+446 **WIN-RADIOLOG**medigration GmbH14131
+
+254 **ORBIS®**Dedalus HealthCare GmbH12120
+
+210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 11101
+
+112 **TURBOMED**CompuGroup Medical Deutschland AG910-1
+
+203 **ALBIS**CompuGroup Medical Deutschland AG880
+
+252 **CGM M1 PRO**CompuGroup Medical Deutschland AG770
+
+216 **x.isynet**medatixx GmbH & Co. KG67-1
+
+439 **eRIS**Digithurst Bildverarbeitungssysteme GmbH & Co. KG 660
+
+343 **SAP Ambulatory Care Management** SAP SE550
+
+276 **RadCentre Billing (OPD)**Mesalvo Mannheim GmbH56-1
+
+062 **EVA**Abasoft EDV-Programme GmbH550 1
 
 
 ---
 
+| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+|---|---|---|---|---|---|
 
+023 **DATA VITAL**
 
+462 **medatixx**
 
+243 **x.concept**
 
----
+457 **tomedo**
 
-230**QMED.PRAXIS**
+314 **IMedOne**
 
-314**IMedOne**
+498 **T2med**
 
-375**H&S Laborsoftware**
-
-457**tomedo**
-
-243**x.concept**
-
-462**medatixx**
-
-023**DATA VITAL**
-
-**Id****Praxissoftware**
-
-Schwerdtner Medizin-Software GmbH
-
-Deutsche Telekom Clinical Solutions Gmb
-
-Limbach Gruppe SE
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
+230 **QMED.PRAXIS**
 
 CompuGroup Medical Deutschland AG
 
-**Anbieter**
+medatixx GmbH & Co. KG
 
-330
+medatixx GmbH & Co. KG
 
-H330
+Zollsoft GmbH
 
-321
+Deutsche Telekom Clinical Solutions Gmb
 
-330
+T2med GmbH & Co. KG
+
+Schwerdtner Medizin-Software GmbH 440
 
 440
 
-45-1
+440
 
-431
+330
 
-**Installationen 1.Q.2025****Installationen 4.Q.2024****Differenz**
+H330 321
+
+330
 
 2

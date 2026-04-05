@@ -1,195 +1,292 @@
-# Begegnung
-
-| Therapie (Procedure ) Untersuchung (Procedure ) Begegnung:: -Behandelnder | -Organisation -Medikament -Patient Begegnung (Encounter ) | | | _Psychotherapie (EligibilityRequest ) Sonstige :: Leistungsanfrage -Patient |
+|  |  |  | Begegnung | |
 |---|---|---|---|---|
-| -Betriebsstaette -Diagnose | | | | |
-| -Anamnese Unfall (Condition ) -Allergie | | | | |
-| -Termin Arzneimittel (Medicationrequest ) | | Sonstige :: Hausbesuch _Ort (Location ) | | |
-|
-|
-| Krankenversicherungsverhaeltnis | |
-|
-|
-|
-|
-|
+|  | Begegnung:: | Kurgenehmigung, |  | Kurverlaengerung(EligibilityResponse) |
+|  |  | -Krankenversicherungsverhaeltnis | |  |
+|  |  | Begegnung:: | Krankenbefoederung | _Befoerderungsmittel_Lokation( |
+|  |  |  | Location) |  |
+|  |  | Begegnung:: | Krebsfrueherkennung | _Frauen_Zytologischer_Befund_Diverse( |
+|  |  |  |  | Observation) |
+|  | Begegnung:: | Krebsfrueherkennung |  | _Frauen_Zytologischer_Befund_Endozervikal |
+|  |  |  | e_Zellen(Observation) | |
+|  |  | Begegnung:: | Krebsfrueherkennung | _Frauen_Zytologischer_Befund_Gruppe( |
+|  |  |  |  | Observation) |
+|  | Begegnung:: | Krebsfrueherkennung |  | _Frauen_Zytologischer_Befund_Bemerkungen( |
+|  |  |  | Oberservation) | |
+|  |  | Begegnung:: | Krebsfrueherkennung | _Frauen_Zytologischer_Befund_Kontrolle( |
+|  |  |  |  | Observation) |
+|  | Begegnung:: | Krebsfrueherkennung | | _Frauen_Zytologischer_Befund_Kontrolle_na |
+|  |  |  | ch_EntzuendungsBehandlung | (Observation) |
+|  | Begegnung:: | Krebsfrueherkennung | | _Frauen_Zytologischer_Befund_Kontrolle_na |
+|  |  |  | ch | _Freitext(Observation) |
+|  | Begegnung:: | Krebsfrueherkennung | | _Frauen_Zytologischer_Befund_Kontrolle_na |
+|  |  |  | ch_OestrogenBehandlung | (Observation) |
+|  | Begegnung:: | Krebsfrueherkennung | | _Frauen_Zytologischer_Befund_histologisch |
+|  |  |  |  | e_Klaerung(Observation) |
 
-Begegnung:: Krebsfrueherkennung
+Begegnung:: Medikament(Medication)
 
-Begegnung:: Krebsfrueherkennung
+Begegnung:: Hilfsmittel(Device)
 
-Begegnung:: Krebsfrueherkennung
+Begegnung:: Kur_Antrag(EligibilityRequest) -Patient -Begegnung
 
-Begegnung:: Krebsfrueherkennung
+Begegnung:: Krankenbefoederung _Befoerderungsmittel(Device)
 
-Begegnung:: Krebsfrueherkennung **ch_EntzuendungsBehandlung**
+Begegnung:: Krebsfrueherkennung _Frauen_Auftrag(ServiceRequest) -Patient -Begegnung
 
-Begegnung:: Krebsfrueherkennung
+| Begegnung:: Krebsfrueherkennung _Frauen_Anamese_Diverse( | -Abrechnung_vertragsaerztlich |
+|---|---|
+| Observation) | -Behandlungsbaustein_Textvorlage |
+| -Patient |  |
+| Begegnung:: Krebsfrueherkennung _Frauen_Gynaekologische_Operation( |  |
+| Procedure) |  |
+| -Patient |  |
+|  | -Abrechnung_BG |
+|  | -Organisation |
+|  | -Abrechnung_HzV_BesondereVersorgung _Selektiv Begegnung:: Krebsfrueherkennung _Befund_Rektum_Kolon(Observation) |
 
-Begegnung:: Krebsfrueherkennung **ch_OestrogenBehandlung**
+Begegnung:: Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung( **Observation)** -Patient
 
-Begegnung:: Krebsfrueherkennung
+Begegnung:: Krebsfrueherkennung _Frauen_Befund_Diverse( **Observation)** -Patient
 
-**_Frauen****_Zytologischer****_Befund****_Endozervikal** **e_Zellen****(Observation****)**
+Begegnung:: Krebsfrueherkennung _Frauen_Befund_Diverse_Ab30( **Observation)** -Patient
 
-**_Frauen****_Zytologischer****_Befund****_Gruppe****(** **Observation****)**
+Begegnung:: Krebsfrueherkennung _Frauen_Gynaekologische_Diagnose( **Observation)** -Patient
 
-**_Frauen****_Zytologischer****_Befund****_Bemerkungen****(** **Oberservation****)**
+Begegnung:: Zytologischer_Befund(DiagnosticReport)
 
-**_Frauen****_Zytologischer****_Befund****_Kontrolle****(** **Observation****)**
+Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Empfehlung(Se -Patient
 
-**_Frauen****_Zytologischer****_Befund****_Kontrolle****_na** **(Observation****)**
+Begegnung:: Krebsfrueherkennung _Frauen_HPV_Testergebnis_2020 (Observation) -Patient
 
-**_Frauen****_Zytologischer****_Befund****_Kontrolle****_na** **ch****_Freitext****(Observation****)**
+| Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Bemerkungen( |  | Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Endozervikal |
+|---|---|---|
+| Oberservation) |  | e_Zellen(Observation) |
 
-**_Frauen****_Zytologischer****_Befund****_Kontrolle****_na** **(Observation****)**
+**rviceRequest)**
 
-**_Frauen****_Zytologischer****_Befund****_histologisch** **e_Klaerung****(Observation****)**
+# Achtung: Die Attribute in den Klassen bezeichnen Referenzen
 
-# Achtung
+| Begegnung:: Koerpergewicht(KBV-Basis), Koerpergroesse | (KBV-Basis), Koerpertemperatur, |
+|---|---|
+| Hueftumfang,Bauchumfang,Raucherstatus,Puls, |  |
+| Blutdruck(Observation) |  |
+| -Patient |  |
 
-# : Die Attribute in den Klassen bezeichnen Referenzen
+Begegnung:: Befund(Observation) -Patient
 
-Begegnung:: Behandlung**_im_Auftrag_Überweisung (ServiceRequest )**
+Begegnung:: Ueberweisung_KH-Einweisung (ServiceRequest)
+
+-Betriebsstaette -Organisation -Patient -Behandelnder -Diagnose
+
+Begegnung::Therapie(Procedure) -Diagnose -Patient
+
+Begegnung:: Untersuchung(Procedure) -Patient
+
+Begegnung::Unfall(Condition) -Patient
+
+Begegnung:: Verordnung Arzneimittel (Medicationrequest) -Patient
+
+Begegnung:: Verordnung Heilmittel (ServiceRequest) -Diagnose -Patient
+
+Begegnung:: Verordnung Hilfsmittel (ServiceRequest) -Patient
+
+Begegnung:: Verordnung Arbeitsunfähigkeit (ServiceRequest) -Patient
+
+Begegnung:: Kur(Procedure) -Patient
+
+Begegnung:: Krankenbefoerderung , Krankenbefoerderung - **42019 (ServiceRequest)** -Patient
+
+Begegnung:: Schwangerschaft(Observation) -Patient
+
+Begegnung:: Krebsfrüherkennung_Frauen(Composition) -Patient -Blutdruck
+
+Begegnung:: Zytologischer_Befund_2020 (DiagnosticReport)
+
+Begegnung:: Allergie(AllergyIntolerance) -Patient
+
+Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Gruppe(
+
+Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Diverse(
+
+Begegnung:: Behandlung_im_Auftrag_Überweisung(ServiceRequest)
 
 -Patient -Behandelnder -Betriebsstaette -Medikament
 
-Begegnung:: Koerpergewicht**(KBV****-Basis****), Koerpergroesse****(KBV-Basis), Koerpertemperatur****,** **Hueftumfang****,Bauchumfang****,Raucherstatus****,Puls,** **Blutdruck (Observation****)** -Patient
+| Begegnung:: Krebsfrüherkennung_Frauen_2020 (Composition) |  |  |
+|---|---|---|
+| -Patient |  | Begegnung:: Krebsfrueherkennung_Frauen_Gynaekologische_Operation( |
+| -Blutdruck |  | Procedure) |
+|  |  | -Patient |
 
-Begegnung:: Allergie**(AllergyIntolerance****)**
+**Observation)**
+
+**Observation)**
+
+Begegnung:: Begegnung(Encounter)
+
+-Behandelnder -Betriebsstaette -Diagnose -Anamnese -Allergie -Termin
+
+Begegnung:: Krebsfrueherkennung _Maenner_Auftrag(ServiceRequest)
+
+Begegnung:: Krebsfrueherkennung _Maenner_Anamese_Diverse(
+
+Begegnung:: Krebsfrueherkennung _Maenner_Befund_Diverse(
+
+Begegnung:: Diagnose(Condition) -Patient
+
+Begegnung:: Anamnese(Observation) -Patient
+
+Begegnung:: Notfall(ServiceRequest)
+
+-BehandelnderFunktion -Behandelnder -Betriebsstaette -Organisation -Medikament -Patient
+
+Begegnung:: Hausbesuch(Encounter) -Patient
+
+Begegnung:: Hausbesuch_Ort(Location)
+
+Begegnung:: Genetische Untersuchung (Procedure)
+
+-Patient -Vertragsaerztliche Abrechnung -Privatabrechnung -HzV_BesondereVersorgung _Selektiv -BG-Abrechnung
+
+Begegnung:: Ambulante_Operation_General(Procedure) -Patient
+
+|  | -Organisation |  |
+|---|---|---|
+| Begegnung:: Ambulante_Operation(Procedure) |  | Sonstige:: Bezugsperson(RelatedPerson) |
+| -Patient |  |  |
+
+Begegnung:: Impfung(Immunization)
+
+**Observation)**
+
+**Observation)**
+
+Begegnung:: Krebsfrueherkennung _Frauen_Auftrag_2020 (ServiceRequest) -Patient -Begegnung
+
+Begegnung:: Krebsfrueherkennung _Frauen_HPV_Testergebnis_2020 (Observation) -Patient
+
+Begegnung:: Krebsfrueherkennung _Frauen_HPV_Impfung_2020 (Observation) -Patient
+
+Begegnung:: Krebsfrueherkennung _Frauen_Anamese_Diverse(
 
 -Patient
 
-Begegnung :: Befund**(Observation****)**
+Begegnung:: Krebsfrueherkennung _Frauen_Anamese_Hormonanwendung(
 
 -Patient
 
-Begegnung:: Ueberweisung**_KH-Einweisung (ServiceRequest )**
-
--Betriebsstaette
-
-Begegnung:: Zytologischer**_Befund****(DiagnosticReport****)**
-
-Begegnung:: Krebsfrüherkennung
-
--Patient -Blutdruck
-
-Begegnung:: Zytologischer**_Befund****_2020****(DiagnosticReport****)**
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Zytologischer****_Befund****_Empfehlung****(Se**Begegnung:: Krebsfrueherkennung**_Frauen****_Zytologischer****_Befund** **rviceRequest )****Observation****)** -Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_HPV****_Testergebnis****_2020****(Observation****)**Begegnung:: Krebsfrueherkennung**_Frauen****_Zytologischer****_Befund** **Observation****)**-Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Zytologischer****_Befund****_Bemerkungen****(**Begegnung:: Krebsfrueherkennung**_Frauen****_Zytologischer****_Befund** **Oberservation****)****e_Zellen****(Observation****)**
-
-Begegnung:: Diagnose**(Condition****)**
+Begegnung:: Krebsfrueherkennung _Frauen_Befund_Diverse(
 
 -Patient
 
-Begegnung:: Anamnese**(Observation****)**
+**Observation)**
 
--Patient
+**Observation)**
 
-Begegnung:: Notfall**(ServiceRequest****)** Begegnung:: Abrechnung**_vorläufig** -BehandelnderFunktion -Patient -Behandelnder
+**Observation)**
 
-Begegnung:: Krebsfrueherkennung**_Frauen****_Auftrag****_2020****(ServiceRequest****)**
+|  | Sonstige:: Abrechnung_BG(Claim) Claim) |  |
+|---|---|---|
+| Begegnung:: Abrechnung_vorläufig(Claim) |  | Sonstige:: Abrechnung_Vertragsaerztlich(Claim) |
+| -Patient |  |  |
+|  |  | -Patient |
 
--Patient -Begegnung
+Begegnung:: Krebsfrüherkennung_Männer(Composition)
 
-Begegnung:: Krebsfrueherkennung**_Frauen****_HPV****_Testergebnis****_2020****(Observation****)**
+-Patient -Behandelnder -Blutdruck
 
--Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_HPV****_Impfung****_2020****(Observation****)**
-
--Patient
-
-**_Frauen****_2020****(Composition****)**
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Gynaekologische****_Operation****(** **Procedure****)** -Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Anamese****_Diverse****(** **Observation****)** -Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Anamese****_Hormonanwendung****(** **Observation****)** -Patient
-
-Begegnung:: Krebsfrueherkennung**_Frauen****_Befund****_Diverse****(** **Observation****)** -Patient
-
-**_Gruppe****(**
-
-**_Diverse****(**
-
-**_Endozervikal**
-
-**(Claim****)**
+Begegnung:: Material_Sache(Device
 
 # Zielklasse.
 
-Sonstige
+**)**
 
--Organisation
+Sonstige::
 
-:: Abrechnung
+-Observation_Bauchumfang -Observation_Befund -Observation_Blutdruck -Observation_Hueftumfang -Observation_Koerpergewicht -Observation_Koerpergroesse -Observation_Koerpertemperatur -Observation_Puls -Observation_Raucherstatus -Observation_Schwangerschaft -Diagnose -Allergie -Behandlung_im_Auftrag_Ueberweisung -Unfall -Ueberweisung_KH-Einweisung -Notfall -Therapie -Untersuchung -Verordnung_Arbeitsunfaehigkeit -Verordnung_Arzneimittel -Verordnung_Heilmittel -Verordnung_Hilfsmittel -Kur -Krankenbefoerderung -Krebsfrueherkennung _Frauen -Krebsfrueherkennung _Maenner -Hausbesuch -Genetische_untersuchung -Ambulante_Operation_Genereal -Ringversuchszertifikat
 
-# *In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt
+Anlage(DocumentReference) -Patient -Behandelnder
 
-**_Privat**
+# *In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt,
 
 # . Der Name des Attributs ist die
 
-**(Claim****)**
+Sonstige:: Behandlungsbaustein _Definition(PlanDefinition)
 
-# jedoch könnte jedes beliebige KBV
+# jedoch könnte jedes beliebige KBV-Profil referenziert werden.
 
-Sonstige:: Abrechnung
+Sonstige:: Vorsorgevollmacht(Consent) -Organisation -Bezugsperson
 
--Organisation -Betriebsstaette
+Sonstige:: Notfallberechtigter(Consent) -Bezugsperson
 
-Sonstige
+Sonstige:: Patientenverfügung(Consent) -Bezugsperson
 
--Behandelnder -Betriebsstaette -... -Jedes KBV
+Sonstige:: Provenienz(Provenance)
+
+-Behandelnder -Betriebsstaette -... -Jedes KBV-Profil*
+
+|  |  | Sonstige:: Leistungsanfrage_Psychotherapie(EligibilityRequest) |  | Sonstige:: Leistungsanfrage_Heilmittel(EligibilityRequest) |
+|---|---|---|---|---|
+| Sonstige:: Weiterbehandlung_durch(ServiceRequest) |  | -Patient |  | -Patient |
+
+-Behandelnder -Organisation -Betriebsstaette -Patient
 
 # Abrechnung
 
-Sonstige :: Abrechnung**_HzV****_BesondereVersorgung****_Selektiv****(** **_BG(Claim)****Claim****)** Sonstige:: Abrechnung**_Vertragsaerztlich** -Organisation -Weiterbehandlung_durch-Betriebsstaette -Patient
+# Provenienz -Patient
+
+# Krankenversicherungsverhaeltnis
+
+Sonstige:: Mitarbeiter(Practitioner)
+
+Sonstige:: Ringversuchszertifikat (Device)
+
+# Ringversuchs-
+
+# zertifikate
+
+Sonstige:: Krankenversicherungsverhaeltnis (Coverage)
+
+# Patient
+
+Sonstige:: Patient(Patient) -Organisation -Behandelnder
+
+Sonstige:: Behandlungsbaustein_Baustein_Diagnose, Leistungsziffer, **OMIM_G_Code, Sonstige(ActivityDefinition)**
+
+Sonstige:: Behandlungsbaustein _Baustein_Verordnung(ActivityDefinition) -Medikament
+
+Sonstige:: Behandlungsbaustein _Baustein_Textvorlage( **ActivityDefinition)**
 
 # Behandelnder
 
-:: Provenienz**(Provenance****)**
+Sonstige:: Behandelnder(Practitioner)
 
-Sonstige:: Mitarbeiter**(Practitioner****)**
+Sonstige:: Dauermedikation (MedicationStatement ) -Medikament
 
--Profil*
+Sonstige:: Gesundheitspass(DocumentReference) -Person
 
-# Provenienz
+Sonstige:: Selektivvertrag(Contract) -Organisation -Bezugsperson
 
-# -Profil referenziert werden
+Sonstige:: Leistungsgenehmigung _Psychotherapie(Eligibilityresponse)
 
-**(Claim****)**
-
-.
-
-Sonstige:: Leistungsgenehmigung**_Psychotherapie**
-
-,
+Sonstige:: BehandeldnerFunktion (PractitionerRole)
 
 # Leistungsgenehmigung
 
-**(Eligibilityresponse**
-
-Sonstige:: Personen
-
-**)**
-
-**(Person****)**
+Sonstige:: Personen(Person)
 
 # Adressbuch
 
-Sonstige:: Leistungsgenehmigung
+Sonstige:: Leistungsgenehmigung _Heilmittel(Eligibilityresponse)
 
-Sonstige:: Organisation
+Sonstige:: Organisation(Organization)
 
-**_Heilmittel****(Eligibilityresponse**
+Sonstige:: Betriebsstaette(Organization)
 
-**(Organization****)**
+Sonstige:: Anforderung_Sprechstundenbedarf (SupplyRequest) -Behandelnder -Medikament
 
-**)**
+# Termin
+
+# Betriebsstätte
+
+-Begegnung -Betriebsstaette -Abrechnung_privat -Observation_Anamnese Sonstige:: Termin(Appointment) Sonstige:: Abrechnung_Privat(Claim) -Organisation -Organisation -Betriebsstaette Sonstige:: Abrechnung_HzV_BesondereVersorgung _Selektiv( -Organisation -Betriebsstaette -Weiterbehandlung_durch -Weiterbehandlung_durch Begegnung:: Koerpergewicht(KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur, Begegnung:: Kurgenehmigung, Kurverlaengerung(EligibilityResponse) Begegnung:: Krankenbefoederung _Befoerderungsmittel_Lokation( Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Diverse( Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Endozervikal Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Gruppe( Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Bemerkungen( Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Kontrolle( Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Kontrolle_na Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Kontrolle_na Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_Kontrolle_na Begegnung:: Krebsfrueherkennung _Frauen_Zytologischer_Befund_histologisch ch_EntzuendungsBehandlung (Observation) ch_OestrogenBehandlung (Observation)Sonstige:: Betriebsstaette_Ort(Location)

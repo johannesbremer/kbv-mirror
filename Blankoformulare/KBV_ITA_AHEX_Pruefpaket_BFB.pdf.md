@@ -13,55 +13,102 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_BFB]
 
-Seite 1 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 1 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 
 ---
 
 ## INHALT
 
-**1****ALLGEMEINES****6**
+| 1 |  | ALLGEMEINES |  |  |  |  |  | 6 |
+|---|---|---|---|---|---|---|---|---|
+| 1.1 |  | Rechtsgrundlage | |  |  |  |  | 6 |
+| 1.2 |  | Zertifizierungsablauf | |  |  |  |  | 6 |
+| 1.3 |  | Zertifizierungsportal | |  |  |  |  | 7 |
+| 1.4 |  | Zertifizierungsdokumente | | |  |  |  | 7 |
+| 1.5 |  | Prüfunterlagen |  |  |  |  |  | 8 |
+|  | 1.5.1 |  | Verzeichnisstruktur | |  |  |  | 8 |
+|  | 1.5.2 |  | Einreichen | von Prüfunterlagen | als | PDF-Dokumente |  | 9 |
+| 1.6 |  | Prüfvorgaben |  |  |  |  |  | 10 |
+|  | 1.6.1 |  | Prüfstammdateien | |  |  |  | 10 |
+|  | 1.6.2 |  | Vorbereitungen | |  |  |  | 10 |
+|  | 1.6.3 |  | Versichertendaten | |  |  |  | 10 |
+|  | 1.6.4 |  | Auflistung | der Prüffälle |  |  |  | 11 |
+|  | 1.6.5 |  |  | Praxisdaten/Arztstempel |  |  |  | 11 |
+|  | 1.6.6 | Malta | (Siehe | XML | Verzeichnisname: XML_36) |  |  | 12 |
+|  | 1.6.7 |  |  | Schimmelpfennig-Hammerschmidt | Federmannssohn | (Siehe | XML Verzeichnisname: |  |
+|  |  |  | XML_37) |  |  |  |  | 13 |
+|  | 1.6.8 |  |  |  | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg | (Siehe | XML Verzeichnisname: |  |
+|  |  |  | XML_40) |  |  |  |  | 14 |
 
-1.1Rechtsgrundlage6 1.2Zertifizierungsablauf6 1.3Zertifizierungsportal7 1.4Zertifizierungsdokumente7 1.5Prüfunterlagen8 1.5.1Verzeichnisstruktur8 1.5.2Einreichen von Prüfunterlagen als PDF-Dokumente9 1.6Prüfvorgaben10 1.6.1Prüfstammdateien10 1.6.2Vorbereitungen10 1.6.3Versichertendaten10 1.6.4Auflistung der Prüffälle11 1.6.5Praxisdaten/Arztstempel11 1.6.6Malta (Siehe XML Verzeichnisname: XML_36)12 1.6.7Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)13 1.6.8Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: XML_40)14
+**2 PRÜFFÄLLE 15**
 
-**2****PRÜFFÄLLE****15**
+2.1 Muster 02 – Verordnung von Krankenhausbehandlung 15  2.2 Muster 03 – Zeugnis über den mutmaßlichen Tag der Entbindung 15  2.3 Muster 04 – Verordnung einer Krankenbeförderung 15  2.4 Muster 05 – Abrechnungsschein 16  2.5 Muster 06 – Überweisungsschein 18  2.6 Muster 07 – Überweisung: Vor Aufnahme einer Psychotherapie zur Abklärung somatischer  Ursachen 18  2.7 Muster 08 – Sehhilfenverordnung 19  2.8 Muster 08A – Verordnung einer vergrößernden Sehhilfe 19  2.9 Muster 09 – Ärztliche Bescheinigung für die Gewährung von Mutterschaftsgeld bei Frühge- burten 19  2.10 Muster 10 und 10L - Überweisungsschein für Auftragsleistungen 20  2.11 Muster 10A – Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften 21  2.12 Muster 11 – Bericht für den medizinischen Dienst 21  2.13 Muster 12 – Verordnung häuslicher Krankenpflege 22  2.14 Muster 13 – Heilmittelverordnung 24  2.15 Muster 15 – Ohrenärztliche Verordnung einer Hörhilfe 25  2.16 Muster 19 – Notfall-/Vertretungsschein 26  2.17 Muster 20 – Wiedereingliederung in das Erwerbsleben 26  2.18 Muster 21 – Krankengeld bei Erkrankung eines Kindes 26  2.19 Muster 22 – Konsiliarbericht vor Aufnahme einer Psychotherapie 27  2.20 Muster 25 - Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten gem. § 23  Abs. 2 SGB V 27  2.21 Muster 26 – Verordnung Soziotherapie gem. § 37a SGB V 27  2.22 Muster 27 – Soziotherapeutischer Betreuungspl. gem. § 37a SGB V 28  2.23 Muster 28 – Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie 28  2.24 Muster 36 – Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V 28  2.25 Muster 39 – Krebsfrüherkennung Zervix-Karzinom 29
 
-2.1Muster 02 –Verordnung von Krankenhausbehandlung15 2.2Muster 03 –Zeugnis über den mutmaßlichen Tag der Entbindung15 2.3Muster 04 –Verordnung einer Krankenbeförderung15 2.4Muster 05 –Abrechnungsschein16 2.5Muster 06 –Überweisungsschein18 2.6Muster 07 –Überweisung: Vor Aufnahme einer Psychotherapie zur Abklärung somatischer Ursachen18 2.7Muster 08 –Sehhilfenverordnung19 2.8Muster 08A –Verordnung einer vergrößernden Sehhilfe19 2.9Muster 09 –Ärztliche Bescheinigung für die Gewährung von Mutterschaftsgeld bei Frühge- burten19 2.10Muster 10 und 10L - Überweisungsschein für Auftragsleistungen20 2.11Muster 10A –Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften21 2.12Muster 11 –Bericht für den medizinischen Dienst21 2.13Muster 12 –Verordnung häuslicher Krankenpflege22 2.14Muster 13 –Heilmittelverordnung24 2.15Muster 15 –Ohrenärztliche Verordnung einer Hörhilfe25 2.16Muster 19 –Notfall-/Vertretungsschein26 2.17Muster 20 –Wiedereingliederung in das Erwerbsleben26 2.18Muster 21 –Krankengeld bei Erkrankung eines Kindes26 2.19Muster 22 –Konsiliarbericht vor Aufnahme einer Psychotherapie27 2.20Muster 25 - Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten gem. § 23 Abs. 2 SGB V27 2.21Muster 26 –Verordnung Soziotherapie gem. § 37a SGB V27 2.22Muster 27 –Soziotherapeutischer Betreuungspl. gem. § 37a SGB V28 2.23Muster 28 –Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie28 2.24Muster 36 –Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V28 2.25Muster 39 –Krebsfrüherkennung Zervix-Karzinom29
+Seite 2 von 56 / KBV / Prüfpaket Blankoformularbedruckung
 
-Seite 2 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+/ Version: 3.41 / 4. Oktober 2024
 
-
----
-
-2.26Muster 50 –Anfrage Zuständigkeit einer anderen Kasse30 2.27Muster 51 –Anfrage Zuständigkeit eines Sonstigen Kostenträgers30 2.28Muster 52 –Anfrage bei Fortbestehen der Arbeitsunfähigkeit30 2.29Muster 53 –Anfrage zum Zusammenhang von Arbeitsunfähigkeiten30 2.30Muster 55 –Bescheinigung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V30 2.31Muster 56 –Antrag auf Kostenübernahme31 2.32Muster 61 –Verordnung von medizinischer Rehabilitation / Prüfung des zuständigen Rehabi- litationsträgers31 2.33Muster 62A –Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA31 2.34Muster 62B –Verordnung außerklinischer Intensivpflege32 2.35Muster 62C –Behandlungsplan für außerklinische Intensivpflege33 2.36Muster 63 –Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)34 2.37Muster 64 –Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V35 2.38Muster 65 –Ärztliches Attest Kind36 2.39Muster 70 –Behandlungsplan36 2.40Muster 70 A –Folge-Behandlungsplan37
-
-**3****MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)****38**
-
-3.1Muster PTV 1 –Antrag auf Psychotherapie38 3.2Muster PTV2 –Angaben Therapeut*in38 3.3Muster PTV 11 –Ihre Individuelle information zur Psychotherapeutischen Sprechstunde40 3.4Muster PTV12 –Anzeige einer Akutbehandlung41
-
-**4****MUSTER DER KV NORDRHEIN****42**
-
-4.1Muster KV5 –Aerztlicher_Kurzbericht42 4.2Muster KV6 –AAPV_Anlage_3a42 4.3Muster KV7 –AAPV_Anlage_3b42 4.4Muster KV9 –AAPV_Anlage_243 4.5Muster KV10 –AAPV_Anlage_343
-
-**5****ÜBERGREIFENDE PRÜFFÄLLE****44**
-
-5.1Übergreifender Prüffall –Nr. 10 –Helga Aufgelöst45 5.2Übergreifender Prüffall –Nr. 11 –Peter Pan46 5.3Übergreifender Prüffall –Nr. 12 –Sam Schulte47 5.4Übergreifender Prüffall –Nr. 13 –Angelika Schnell48 5.5Übergreifender Prüffall –Nr. 14 –Erna Mueller49 5.6Übergreifender Prüffall –Nr. 15 –Eike flüchtling50 5.7Übergreifender Prüffall –Nr. 16 –Andrea lanz51 5.8Übergreifender Prüffall –Nr. 17 –Viktor Werner52 5.9Übergreifender Prüffall –Nr. 18 –Jonathan Ramirez-Sanchéz-Leon53
-
-**6****TESTDATENVALIDIERUNG****54**
-
-**7****REFERENZIERTE DOKUMENTE****55**
-
-Seite 3 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Einreichen von Prüfunterlagen als PDF-Dokumente Auflistung der Prüffälle Malta (Siehe XML Verzeichnisname: XML_36) Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+2.26 Muster 50 – Anfrage Zuständigkeit einer anderen Kasse 30  2.27 Muster 51 – Anfrage Zuständigkeit eines Sonstigen Kostenträgers 30  2.28 Muster 52 – Anfrage bei Fortbestehen der Arbeitsunfähigkeit 30  2.29 Muster 53 – Anfrage zum Zusammenhang von Arbeitsunfähigkeiten 30  2.30 Muster 55 – Bescheinigung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V 30  2.31 Muster 56 – Antrag auf Kostenübernahme 31  2.32 Muster 61 – Verordnung von medizinischer Rehabilitation / Prüfung des zuständigen Rehabi- litationsträgers 31  2.33 Muster 62A – Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw.  Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA 31  2.34 Muster 62B – Verordnung außerklinischer Intensivpflege 32  2.35 Muster 62C – Behandlungsplan für außerklinische Intensivpflege 33  2.36 Muster 63 – Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) 34  2.37 Muster 64 – Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V 35  2.38 Muster 65 – Ärztliches Attest Kind 36  2.39 Muster 70 – Behandlungsplan 36  2.40 Muster 70 A – Folge-Behandlungsplan 37
 
-Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster8 Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L9 Abbildung 3: Testdatenvalidierung –Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L54
+| 3 |  | MUSTER |  | PSYCHOTHERAPIEVEREINBARUNG | | (PTV) |  |  | 38 |
+|---|---|---|---|---|---|---|---|---|---|
+| 3.1 | Muster | PTV | 1 – Antrag | auf | Psychotherapie |  |  |  | 38 |
+| 3.2 | Muster | PTV2 | – Angaben |  | Therapeut*in |  |  |  | 38 |
+| 3.3 | Muster | PTV | 11 – Ihre | Individuelle | | information | zur Psychotherapeutischen | Sprechstunde | 40 |
+| 3.4 | Muster | PTV12 | – | Anzeige einer | Akutbehandlung | |  |  | 41 |
 
-Seite 4 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+| 4 | MUSTER | DER | KV NORDRHEIN | 42 |
+|---|---|---|---|---|
+| 4.1 | Muster | KV5 | – Aerztlicher_Kurzbericht | 42 |
+| 4.2 | Muster | KV6 | – AAPV_Anlage_3a | 42 |
+| 4.3 | Muster | KV7 | – AAPV_Anlage_3b | 42 |
+| 4.4 | Muster | KV9 | – AAPV_Anlage_2 | 43 |
+| 4.5 | Muster | KV10 | – AAPV_Anlage_3 | 43 |
 
+| 5 |  | ÜBERGREIFENDE | PRÜFFÄLLE |  |  | 44 |
+|---|---|---|---|---|---|---|
+| 5.1 | Übergreifender | Prüffall | – Nr. | 10 – | Helga Aufgelöst | 45 |
+| 5.2 | Übergreifender | Prüffall | – Nr. | 11 – | Peter Pan | 46 |
+| 5.3 | Übergreifender | Prüffall | – Nr. | 12 – | Sam Schulte | 47 |
+| 5.4 | Übergreifender | Prüffall | – Nr. | 13 – | Angelika Schnell | 48 |
+| 5.5 | Übergreifender | Prüffall | – Nr. | 14 – | Erna Mueller | 49 |
+| 5.6 | Übergreifender | Prüffall | – Nr. | 15 – Eike | flüchtling | 50 |
+| 5.7 | Übergreifender | Prüffall | – Nr. | 16 – | Andrea lanz | 51 |
+| 5.8 | Übergreifender | Prüffall | – Nr. | 17 – | Viktor Werner | 52 |
+| 5.9 | Übergreifender | Prüffall | – Nr. | 18 – | Jonathan Ramirez-Sanchéz-Leon | 53 |
+
+**6 TESTDATENVALIDIERUNG 54**
+
+**7 REFERENZIERTE DOKUMENTE** **55**
+
+Seite 3 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV) Muster PTV 1 – Antrag auf Psychotherapie Muster PTV2 – Angaben Therapeut*in Muster PTV 11 – Ihre Individuelle information zur Psychotherapeutischen Sprechstunde Muster PTV12 – Anzeige einer Akutbehandlung MUSTER DER KV NORDRHEIN Muster KV5 – Aerztlicher_Kurzbericht Muster KV6 – AAPV_Anlage_3a Muster KV7 – AAPV_Anlage_3b Muster KV9 – AAPV_Anlage_2 Muster KV10 – AAPV_Anlage_3 ÜBERGREIFENDE PRÜFFÄLLE Übergreifender Prüffall – Nr. 10 – Helga Aufgelöst Übergreifender Prüffall – Nr. 11 – Peter Pan Übergreifender Prüffall – Nr. 12 – Sam Schulte Übergreifender Prüffall – Nr. 13 – Angelika Schnell Übergreifender Prüffall – Nr. 14 – Erna Mueller Übergreifender Prüffall – Nr. 15 – Eike flüchtling Übergreifender Prüffall – Nr. 16 – Andrea lanz Übergreifender Prüffall – Nr. 17 – Viktor Werner Übergreifender Prüffall – Nr. 18 – Jonathan Ramirez-Sanchéz-Leon
+
+
+---
+
+|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | bei | Einreichung | | aller | Muster |  |  |  | 8 |
+| Abbildung | 2: | Exemplarische |  | Verzeichnisstruktur | bei | Einreichung | der | Muster | 2, | 4, 10 | und 10L |  | 9 |
+| Abbildung | 3: | Testdatenvalidierung | | – | Exemplarische |  | Verzeichnisstruktur | bei |  | Einreichung | der | Muster 2, | 4, 10 |
+| und 10L |  |  |  |  |  |  |  |  |  |  |  |  | 54 |
+| Seite 4 | von 56 / | KBV / | Prüfpaket | Blankoformularbedruckung | / Version: | 3.41 | / 4. | Oktober 2024 |  |  |  |  |  |
+
+Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L Abbildung 3: Testdatenvalidierung – Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2,  4, 10 Seite 4 von 56  /  KBV  /  Prüfpaket Blankoformularbedruckung   /  Version: 3.41  /  4. Oktober 2024
 
 ---
 
@@ -76,7 +123,11 @@ Seite 4 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4.
 | 3.37 | 06.01.2023 | KBV | Anpassung der Prüffälle für  Klarstellung der Prüffälle für | Änderung an den Mustern | 31   30 |
 | 3.36 | 15.12.2022 | KBV | Aktualisierung der Grafik zur | Fehlerhafte Ausweisung des | 8, 32 |
 
-Seite 5 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 5 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Systemdatums sowie der Datumsangaben Systemdatums Muster 12 und 21 Muster 10 der Verzeichnisstruktur Muster 02, 13, 64 und 65 Muster 56 Muster 53 Einreichung der PDF- Dokumente Muster 62Ba
 
 
 ---
@@ -85,174 +136,172 @@ Seite 5 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4.
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines Zertifizierungsgegenstandes im Bereich der Blankoformularbedruckung.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Blankoformularbedruckung.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen werden, die nicht Bestandteildieses Prüfpaketes sind.
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1****RECHTSGRUNDLAGE**
+**1.1 RECHTSGRUNDLAGE**
 
-Die Rechtsgrundlage für die Zertifizierung der Blankoformularbedruckung ergibt sich aus § 42 Abs. 1 S. 1 des BMV-Ä.
+Die Rechtsgrundlage für die Zertifizierung der Blankoformularbedruckung ergibt sich aus § 42 Abs. 1 S. 1  des BMV-Ä.
 
-**1.2****ZERTIFIZIERUNGSABLAUF**
+**1.2 ZERTIFIZIERUNGSABLAUF**
 
-Die Blankoformularbedruckung umfasstmehrere Muster, die im Rahmen einerErgebnisprüfung zertifiziert werden. Welche dieser Muster der Zertifizierungsgegenstand zur Unterstützung der Blankoformularbedruckung beinhalten muss, ist vom Einsatzgebiet des Zertifizierungsgegenstandes abhängig und demzufolge dem Antragsteller freigestellt. Allerdings sind alle Anforderungen zu den jeweiligen Mustern, die mit dem Antrag auf Zertifizierungbeantragt wurden, vollständig und fehlerfrei umzusetzen.
+Die Blankoformularbedruckung umfasst mehrere Muster, die im Rahmen einer Ergebnisprüfung zertifiziert  werden. Welche dieser Muster der Zertifizierungsgegenstand zur Unterstützung der  Blankoformularbedruckung beinhalten muss, ist vom Einsatzgebiet des Zertifizierungsgegenstandes  abhängig und demzufolge dem Antragsteller freigestellt. Allerdings sind alle Anforderungen zu den  jeweiligen Mustern, die mit dem Antrag auf Zertifizierung beantragt wurden, vollständig und fehlerfrei  umzusetzen.
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach Einleitung des Prüfvorganges wird im Zertifizierungsportal derAntrag auf Zertifizierung (Ergänzende Erklärung) mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden.
+1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung (Ergänzende  Erklärung) mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig  ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV  eingereicht werden.
 
-2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung. 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern. 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden.
+2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) hochladen.
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen  und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den  vorab via Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) hochladen.
 
-Seite 6 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 6 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen. Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen. Zur Klärung der meistgestellten Fragen zur Zertifizierung in der Blankoformular-bedruckung haben wir ein FAQ-Dokument erstellt. Dieses finden Sie auf unserem FTP-Server unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Blankoformulare/KBV_ITA_VGEX_FAQ_BFB.pdf
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen. Zur Klärung der  meistgestellten Fragen zur Zertifizierung in der Blankoformular-bedruckung haben wir ein FAQ-Dokument  erstellt. Dieses finden Sie auf unserem FTP-Server unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Blankoformulare/KBV_ITA_VGEX_FAQ_BFB.pdf
 
-**1.3****ZERTIFIZIERUNGSPORTAL**
+**1.3 ZERTIFIZIERUNGSPORTAL**
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)zu erreichen.
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf Zertifizierung (Ergänzende Erklärung) hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnendurchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung (Ergänzende Erklärung) hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben  (Menüpunkt: „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn  Aktivitäten der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im Zertifizierungsportal muss die komplette vorgegebeneVerzeichnisstruktur mit den von Ihnen erstellten Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung keine Prüfung auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung keine Prüfung auf  Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu beheben bzw. die Lieferung zu vervollständigen.
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 6 berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 6  berücksichtigt werden.
 
-**1.4****ZERTIFIZIERUNGSDOKUMENTE**
+**1.4 ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter[https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) bereit. In diesem Zusammenhang berücksichtigen Sie bitte das vierte Kapitel Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)  bereit. In diesem Zusammenhang berücksichtigen Sie bitte das vierte Kapitel Referenzierte Dokumente.
 
-Seite 7 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 7 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**1.5****PRÜFUNTERLAGEN**
+**1.5 PRÜFUNTERLAGEN**
 
-In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, die in diesem Abschnitt beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
+In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
-**›**Der Antrag auf Zertifizierung [Unterschrieben (ohne Zugangsdaten: per Mail) ] **›**Die zu zertifizierenden Muster [Muster] **›**Die übergreifenden Prüffälle [Muster und Screenshot]
+**›** Der Antrag auf Zertifizierung [Unterschrieben (ohne Zugangsdaten: per Mail) ]  **›** Die zu zertifizierenden Muster [Muster]  **›** Die übergreifenden Prüffälle [Muster und Screenshot]
 
-**1.5.1****Verzeichnisstruktur**
+**1.5.1 Verzeichnisstruktur**
 
-Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung 1„Zert_9_<SystemID>“ erhalten. Die Struktur des ZIP-Archives sollte alle Muster beinhalten, für die im 2Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung angestrebt, sollte das Paket die folgende Form aufweisen:
+Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und  Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung  1„Zert _9_<SystemID> “ erhalten. Die Struktur des ZIP -Archives sollte alle Muster beinhalten, für die im  2Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung angestrebt,  sollte das Paket die folgende Form aufweisen:
 
-1Die SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. 2Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20,21, 22, 25, 26, 27, 28, 36, 39, 50, 51, 52, 53, 55, 56, 61, 62, 63, 64, 65, 70, 70A, KV5, KV6, KV7, KV9, KV10, PTV1, PTV2, PTV11 und PTV12
+1 Die SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer.  2 Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20, 21, 22, 25, 26, 27, 28,  36, 39, 50, 51, 52, 53, 55, 56, 61, 62, 63, 64, 65, 70, 70A, KV5, KV6, KV7, KV9, KV10, PTV1, PTV2, PTV11 und PTV12
 
 Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster
 
 ________________
 
-Seite 8 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 8 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-
-
-
-
----
-
-›<MusterNr.>.pdf Beispiel: „20a.pdf“, „20b.pdf“, „20c.pdf“ und„20d.pdf“ für das Muster„20“
+› <MusterNr.>.pdf Beispiel: „20a.pdf“, „20b.pdf“, „20c.pdf“ und „20d.pdf“ für das Muster „20“
 
 Muster, für die keine Prüfung beantragt wurde, dürfen nicht in der zip-Datei vorkommen.
 
-Beispiel einer gültigen ZIP- Datei mit den beantragten Mustern „02, 04, 10 und 10L“:
+Beispiel einer gültigen ZIP- Datei mit den beantragten Mustern „ 02, 04, 10 und 10L“:
 
-Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster2, 4, 10 und 10L
+Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
 
-**1.5.2****Einreichen von Prüfunterlagen als PDF****-Dokumente**
+**1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente**
 
-Jede Seite eines jeden Musters wird als separate PDF-Datei erwartet. Die übergreifenden Prüffälle im Ordner „Uebergreifend“ sind für jede Zertifizierung Pflichtprüffälle, unabhängig von der Zertifizierungsart. Die geforderten PDF-Dokumente müssen für jedes Muster direkt in dem Hauptverzeichnis abgelegt werden. Die erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Folgende Dateinamenskonvention ist für die PDF-Dokumente verbindlich:
+Jede Seite eines jeden Musters wird als separate PDF-Datei erwartet. Die übergreifenden Prüffälle im  Ordner „Uebergreifend“ sind für jede Zertifizierung Pflichtprüffälle, unabhängig von der Zertifizierungsart.  Die geforderten PDF-Dokumente müssen für jedes Muster direkt in dem Hauptverzeichnis abgelegt  werden. Die erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene,  Prüfschema validierbar sein.  Folgende Dateinamenskonvention ist für die PDF-Dokumente verbindlich:
 
-Der Parameter „MusterNr.“ entspricht dem Kürzel für das jeweilige Muster (siehe dazu Abbildung 1; „20a.pdf“ entspricht Muster 20a, „20b.pdf “ entspricht Muster 20b, usw.). Die PDF-Dateien aus Abbildung 1, welche mit „_1“ bzw. „_2“ gekennzeichnet sind, enthalten die einzelnenSeiten der mehrseitigen Muster (bspw. Muster 13).
+Der Parameter „MusterNr.“ entspricht dem Kürzel für das jew eilige Muster (siehe dazu Abbildung 1;  „20a.pdf“ entspricht Muster 20a, „20 b.pdf “ entspricht Muster 20 b, usw.). Die PDF-Dateien aus Abbildung 1,  welche mit „_1“ bzw. „_2“ gekennzeichnet sind, enthalten die einzelnen Seiten der mehrseitigen Muster  (bspw. Muster 13).
 
 **HINWEIS**
 
-›p<Prüffall>.pdf Beispiel: „p11.pdf“ für den übergreifenden Prüffall 11
+› p<Prüffall>.pdf Beispiel: „p11.pdf“ für den übergreifenden Prüffall 11
 
 Die eingereichten PDF-Dateien sind exakt so zu benennen, wie in Abbildung 1 zu sehen.
 
-Folgende Dateinamenskonvention ist für dieübergreifenden Prüffälle (siehe Kapitel 5) verbindlich:
+Folgende Dateinamenskonvention ist für die übergreifenden Prüffälle (siehe Kapitel 5) verbindlich:
 
 **HINWEIS**
 
-Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für denZertifizierungsgegenstand kein Muster 10 zertifiziert ist/wird, verwenden Sie bitte das Muster 6. Sollte dies auch nicht vorliegen, verwenden Sie für die übergreifenden Prüffälle bitte das Muster2a.
+Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für den Zertifizierungsgegenstand  kein Muster 10 zertifiziert ist/wird, verwenden Sie bitte das Muster 6. Sollte dies auch nicht vorliegen,  verwenden Sie für die übergreifenden Prüffälle bitte das Muster 2a.
 
-Bei Verwendung der PCL- oder PCX-Dateien können die entsprechenden Mustermit einer Scan-Qualität von mindestens 600 dpi über das Zertifizierungsportal eingereicht werden.
+Bei Verwendung der PCL- oder PCX-Dateien können die entsprechenden Muster mit einer Scan-Qualität  von mindestens 600 dpi über das Zertifizierungsportal eingereicht werden.
 
-Seite 9 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 9 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
+› Das Systemdatum wird auf den 15.11.2024 04.07.2024 gestellt, sofern bei den einzelnen Prüffällen kein  anderes Datum angegeben wird.  › Als KBV-Prüfnummer verwenden Sie für das Zertifizierungsverfahren bitte die Folgende:  „ Y/9/2407/36/001 “.
 
+**1.6 PRÜFVORGABEN**
 
+**1.6.1 Prüfstammdateien**
 
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
----
+**1.6.2 Vorbereitungen**
 
-›Das Systemdatum wird auf den 15.11.2024 04.07.2024 gestellt, sofern bei den einzelnen Prüffällen kein anderes Datum angegeben wird. ›Als KBV-Prüfnummer verwenden Sie für das Zertifizierungsverfahren bitte die Folgende: „ Y/9/2407/36/001 “.
+Die musterspezifischen Prüffälle und die übergreifenden Prüffälle des Prüfpaketes müssen bearbeitet  werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder 2a  eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei  fehlerhafter Eingabe erwartet.  Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich,  bewusst eine Fehleingabe zu produzieren oder einen Muss-Eintrag im ersten Schritt nicht vorzunehmen. Im  zweiten Schritt müssen die hervorgerufenen Fehler korrigiert werden.  Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und formular-spezifische  Angaben vorgegeben. Diese Angaben müssen in den dafür bestimmten Feldern auf dem BFB-Formular bzw.  3gemäß Vorgabe im Barcode enthalten sein.
 
-**1.6****PRÜFVORGABEN**
+3 Siehe Vordruck-Vereinbarung Blankoformularbedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] und Technisches Handbuch  Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB].
 
-**1.6.1****Prüfstammdateien**
+› EF.VD = allgemeine Versicherungsdaten  › EF.PD = persönliche Versichertendaten  › EF.GVD = geschützte Versichertendaten
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickeltenPrüfstammdateien verwendet werden. Zur eindeutigen Unterscheidungder Daten für den Echtbetrieb wird die Dateinamenserweiterung bzw. der Dateiname mit „PRF” gekennzeichnet.
+**1.6.3 Versichertendaten**
 
-**1.6.2****Vorbereitungen**
-
-Die musterspezifischen Prüffälle und dieübergreifenden Prüffälle des Prüfpaketes müssen bearbeitet werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder2a eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei fehlerhafter Eingabe erwartet. Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich, bewusst eine Fehleingabe zu produzieren oder einen Muss-Eintrag im ersten Schritt nicht vorzunehmen. Im zweiten Schritt müssen die hervorgerufenenFehler korrigiert werden. Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und formular-spezifische Angaben vorgegeben. Diese Angaben müssen in den dafür bestimmten Feldern auf dem BFB-Formular bzw. 3gemäß Vorgabeim Barcode enthalten sein.
-
-3Siehe Vordruck-Vereinbarung Blankoformularbedruckung[EXT_ITA_VGEX_Vordruckvereinbarung_BFB]und Technisches Handbuch Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB].
-
-›EF.VD=allgemeine Versicherungsdaten ›EF.PD= persönliche Versichertendaten ›EF.GVD=geschützte Versichertendaten
-
-**1.6.3****Versichertendaten**
-
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n.zip)enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten:
 
 **HINWEIS**
 
-Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall-ID der XML-Datei wird von der Prüffall-ID des Prüffalls abweichen.
+Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall-ID der XML-Datei  wird von der Prüffall-ID des Prüffalls abweichen.
 
 ________________
 
-Seite 10 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 10 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**1.6.4****Auflistung der Prüffälle**
+**1.6.4 Auflistung der Prüffälle**
 
 Prüffälle als XML-Dateien
 
 | PRÜFFALL NR. | NAME | VERZEICHNISNAME |
-| Musterspezifische Prüffälle |
-|---|
+| Musterspezifische Prüffälle | | |
+|---|---|---|
 | 1 | Lija Malta | XML_36 |
 | 2 | Ingrid Schimmelpfennig-Hammerschmidt | XML_37 |
 | 3 | Schaumbërg-von-und-zu-Schaumburg-und- | XML_40 |
-| Übergreifende Prüffälle |
+| Übergreifende Prüffälle | | |
 |  | Helga Aufgelöst | XML_38 |
 | 11 | Peter Pan | XML_39 |
 | 12 | Sam Schulte | Ersatzverfahren |
@@ -263,7 +312,7 @@ Prüffälle als XML-Dateien
 | 17 | Viktor Werner | Ersatzverfahren |
 | 18 | Jonathan Leon Ramirez-Sanchéz | XML_41 |
 
-**1.6.5****Praxisdaten/Arztstempel**
+**1.6.5 Praxisdaten/Arztstempel**
 
 | DATEN DER ARZTPRAXIS |  |
 |---|---|
@@ -278,12 +327,16 @@ Prüffälle als XML-Dateien
 | Telefon: | 06151 / 1111111 |
 | Telefax: | 06151 / 2222222 |
 
-Seite 11 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 11 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Federmannssohn Radëberg
 
 
 ---
 
-**1.6.6****Malta (Siehe XML Verzeichnisname: XML_36)**
+**1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)**
 
 | FELDNR. | FELDBEZEICHNUNG | INHALT |
 |---|---|---|
@@ -305,12 +358,14 @@ Seite 11 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 | 4111 | Kostentraegerkennung | 100609049 |
 | 4134 | Kostentraegername | LKK Mittel- und Ostdeutschland |
 
-Seite 12 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 12 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**1.6.7****Schimmelpfennig-****Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)**
+**1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)**
 
 | FELDNR. | FELDBEZEICHNUNG | INHALT |
 |---|---|---|
@@ -340,12 +395,16 @@ Seite 12 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 | 4134 | Kostentraegername | AOK Bayern |
 | 4132 | DMP_Kennzeichnung | 06 |
 
-Seite 13 von 56 / KBV / Prüfpaket Blankoformularbedruckung  /Version: 3.41 / 4. Oktober 2024
+Seite 13 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Federmannssohn Plaetzchen
 
 
 ---
 
-**1.6.8****Schaumbërg-von-und-zu-Schaumburg****-und-Radëberg (Siehe XML Verzeichnisname: XML_40)**
+**1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: XML_40)**
 
 | FELDNR. | FELDBEZEICHNUNG | INHALT |
 |---|---|---|
@@ -375,7 +434,11 @@ Seite 13 von 56 / KBV / Prüfpaket Blankoformularbedruckung  /Version: 3.41 / 4.
 | 4134 | Kostentraegername | LKK Schlesw-Holst. und Hamburg |
 | 4132 | DMP_Kennzeichnung | 02 |
 
-Seite 14 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 14 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Radëberg
 
 
 ---
@@ -384,7 +447,7 @@ Seite 14 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 ## PRÜFFÄLLE
 
-**2.1****MUSTER 02 –****VERORDNUNG VON KRANKENHAUSBEHANDLUNG**
+**2.1 MUSTER 02 – VERORDNUNG VON KRANKENHAUSBEHANDLUNG**
 
 Prüffälle: 02a, 02b und 02c
 
@@ -400,7 +463,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.2****MUSTER 03 –****ZEUGNIS ÜBER DEN MUTMAßLICHEN TAG DER ENTBINDUNG**
+**2.2 MUSTER 03 – ZEUGNIS ÜBER DEN MUTMAßLICHEN TAG DER ENTBINDUNG**
 
 Prüffälle: 03a und 03b
 
@@ -414,7 +477,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.3****MUSTER 04 –****VERORDNUNG EINER KRANKENBEFÖRDERUNG**
+**2.3 MUSTER 04 – VERORDNUNG EINER KRANKENBEFÖRDERUNG**
 
 Prüffall: 04
 
@@ -431,7 +494,9 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 | Rückfahrt | nein |
 | voll-/Teilstationäre Krankenhausbehandlung | nein |
 
-Seite 15 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 15 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -464,7 +529,7 @@ Seite 15 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.4****MUSTER 05 –****ABRECHNUNGSSCHEIN**
+**2.4 MUSTER 05 – ABRECHNUNGSSCHEIN**
 
 Prüffall: 05
 
@@ -475,7 +540,11 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 | Quartal \| Jahr | <automatisch> |
 | Geschlecht | <automatisch> |
 
-Seite 16 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 16 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Strahlen Ausnahmefall vergleichbar mit b) und …  und/oder Einrichtung notwendig ist wegen Quartal | Jahr
 
 
 ---
@@ -484,14 +553,16 @@ Seite 16 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 **Formularspezifische Angaben:**
 
-Im Rahmen der Blankoformularbedruckung von Muster 5/E dürfen nur die Daten im Personalienfeld und im Feld für den Vertragsarztstempel ausgedruckt werden. Die abrechnungsrelevanten Felder müssen leer bleiben, da das Formular ausschließlich zum Verbleib in der Arztpraxis bestimmt ist. Die Abrechnung muss weiterhin elektronisch erfolgen. Das Muster 5/E enthält keinen Barcode.
+Im Rahmen der Blankoformularbedruckung von Muster 5/E dürfen nur die Daten im Personalienfeld und im  Feld für den Vertragsarztstempel ausgedruckt werden. Die abrechnungsrelevanten Felder müssen leer  bleiben, da das Formular ausschließlich zum Verbleib in der Arztpraxis bestimmt ist. Die Abrechnung muss  weiterhin elektronisch erfolgen. Das Muster 5/E enthält keinen Barcode.
 
-Seite 17 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 17 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**2.5****MUSTER 06 –****ÜBERWEISUNGSSCHEIN**
+**2.5 MUSTER 06 – ÜBERWEISUNGSSCHEIN**
 
 Prüffall: 06
 
@@ -518,7 +589,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.6****MUSTER 07 –****ÜBERWEISUNG: VOR AUFNAHME EINER PSYCHOTHERAPIE ZUR ABKLÄRUNG** **SOMATISCHER URSACHEN**
+**2.6 MUSTER 07 – ÜBERWEISUNG: VOR AUFNAHME EINER PSYCHOTHERAPIE ZUR ABKLÄRUNG**  **SOMATISCHER URSACHEN**
 
 Prüffall: 07
 
@@ -530,12 +601,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 18 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 18 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Quartal | Jahr 3a SGB V
 
 
 ---
 
-**2.7****MUSTER 08 –****SEHHILFENVERORDNUNG**
+**2.7 MUSTER 08 – SEHHILFENVERORDNUNG**
 
 Prüffall: 08
 
@@ -548,7 +623,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.8****MUSTER 08A –****VERORDNUNG EINER VERGRÖßERNDEN SEHHILFE**
+**2.8 MUSTER 08A – VERORDNUNG EINER VERGRÖßERNDEN SEHHILFE**
 
 Prüffall: 08A
 
@@ -561,7 +636,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.9****MUSTER 09 –****ÄRZTLICHE BESCHEINIGUNG FÜR DIE GEWÄHRUNG VON MUTTERSCHAFTSGELD BEI** **FRÜHGEBURTEN**
+**2.9 MUSTER 09 – ÄRZTLICHE BESCHEINIGUNG FÜR DIE GEWÄHRUNG VON MUTTERSCHAFTSGELD BEI**  **FRÜHGEBURTEN**
 
 Prüffall: 09
 
@@ -577,12 +652,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 19 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 19 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+geprüft werden  geprüft werden  wesentliche erweiterte Pflegebedürftigkeit wegen verfrühter Beendigung der Schwangerschaft a) oder b)
 
 
 ---
 
-**2.10****MUSTER 10 UND 10L - ÜBERWEISUNGSSCHEIN FÜR****AUFTRAGSLEISTUNGEN**
+**2.10 MUSTER 10 UND 10L - ÜBERWEISUNGSSCHEIN FÜR AUFTRAGSLEISTUNGEN**
 
 Prüffälle: 10 und 10L
 
@@ -611,16 +690,20 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 Verwendung von Muster 10-L/E (10.2014)
 
-Das Muster 10-L/E kann nur für den Fall genutzt werden, dass der erstbeauftragte Arzt den Auftrag auch mittels eines Barcodes kodiert und der ausführende Arzt mittels EDV abrechnet.
+Das Muster 10-L/E kann nur für den Fall genutzt werden, dass der erstbeauftragte Arzt den Auftrag auch  mittels eines Barcodes kodiert und der ausführende Arzt mittels EDV abrechnet.
 
-Bei Nutzung von Muster 10-L/E kann zusätzlich zum Barcode, der durch dieKBV im Technischen Handbuch Blankoformularbedruckung vorgegeben ist, ein durch die Laborauftragssysteme generierter Barcode im Bereich links vom Vertragsarztstempel aufgedruckt werden. Die Angaben für die Felder Diagnose/Verdachtsdiagnose, Befund/Medikation und Auftrag müssen im Klartext lesbar über den Barcode des Anforderungssystems gedruckt werden. Um im Klartext die richtige Zuordnung zu gewährleisten, wird dem Text für Diagnose/Verdachtsdiagnose ein „D:“ vorangestellt, für Befund/Medikation ein „B:“ und dem Auftragstext ein „A:“.
+Bei Nutzung von Muster 10-L/E kann zusätzlich zum Barcode, der durch die KBV im Technischen Handbuch  Blankoformularbedruckung vorgegeben ist, ein durch die Laborauftragssysteme generierter Barcode im  Bereich links vom Vertragsarztstempel aufgedruckt werden. Die Angaben für die Felder  Diagnose/Verdachtsdiagnose, Befund/Medikation und Auftrag müssen im Klartext lesbar über den Barcode  des Anforderungssystems gedruckt werden. Um im Klartext die richtige Zuordnung zu gewährleisten, wird  dem Text für Diagnose/Verdachtsdiagnose ein „D:“ vorangestellt, für Befund/Medikation ein „B:“ un d dem  Auftragstext ein „A:“.
 
-Seite 20 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 20 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Quartal | Jahr
 
 
 ---
 
-**2.11****MUSTER 10A –****ANFORDERUNGSSCHEIN FÜR LABORATORIUMSUNTERSUCHUNGEN BEI** **LABORGEMEINSCHAFTEN**
+**2.11 MUSTER 10A – ANFORDERUNGSSCHEIN FÜR LABORATORIUMSUNTERSUCHUNGEN BEI**  **LABORGEMEINSCHAFTEN**
 
 Prüffall: 10A
 
@@ -641,7 +724,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.12****MUSTER 11 –****BERICHT FÜR DEN MEDIZINISCHEN DIENST**
+**2.12 MUSTER 11 – BERICHT FÜR DEN MEDIZINISCHEN DIENST**
 
 Prüffall: 11
 
@@ -656,12 +739,14 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 21 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 21 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**2.13****MUSTER 12 –****VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
+**2.13 MUSTER 12 – VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
 
 Prüffälle: 12a_1, 12a_2, 12b und 12c
 
@@ -699,7 +784,11 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Kompressionsverbände (Häufigkeit/Dauer) | Nein |
 | Kompressionsverbände (Häufigkeit) | Mtl. „42“ |
 
-Seite 22 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 22 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+erforderlich machen Hüftbereich
 
 
 ---
@@ -735,7 +824,11 @@ Seite 22 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 | Grundpflege (Häufigkeit) | Tgl. „03“ |
 | Grundpflege (Dauer) | 1711 bis 1512 |
 
-Seite 23 von 56 / KBV / Prüfpaket Blankoformularbedruckung  /Version: 3.41 / 4. Oktober 2024
+Seite 23 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+anziehen und säubern des Patienten Patient/Angehörige
 
 
 ---
@@ -750,7 +843,7 @@ Seite 23 von 56 / KBV / Prüfpaket Blankoformularbedruckung  /Version: 3.41 / 4.
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.14****MUSTER 13 –****HEILMITTELVERORDNUNG**
+**2.14 MUSTER 13 – HEILMITTELVERORDNUNG**
 
 Prüffälle: 13_1 und 13_2
 
@@ -778,12 +871,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 24 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 24 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+(Häufigkeit/Dauer) (Häufigkeit) (jeder Teil) (buchstabencodiert) (Freitext) Schädigung/Störung der Muskelfunktion Hinweise
 
 
 ---
 
-**2.15****MUSTER 15 –****OHRENÄRZTLICHE VERORDNUNG EINER HÖRHILFE**
+**2.15 MUSTER 15 – OHRENÄRZTLICHE VERORDNUNG EINER HÖRHILFE**
 
 Prüffälle: 15_1 und 15_2
 
@@ -797,14 +894,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Unfall/ Unfallfolgen | nein |
 | BVG | nein |
 
-Alle weiteren Formularfelder können beliebigausgefüllt werden.
+Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 25 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 25 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**2.16****MUSTER 19 –****NOTFALL-/VERTRETUNGSSCHEIN**
+**2.16 MUSTER 19 – NOTFALL-/VERTRETUNGSSCHEIN**
 
 Prüffälle: 19a, 19b und 19c
 
@@ -821,7 +920,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.17****MUSTER 20 –****WIEDEREINGLIEDERUNG IN DAS ERWERBSLEBEN**
+**2.17 MUSTER 20 – WIEDEREINGLIEDERUNG IN DAS ERWERBSLEBEN**
 
 Prüffälle: 20a, 20b, 20c und 20d
 
@@ -834,7 +933,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.18****MUSTER 21 –****KRANKENGELD BEI ERKRANKUNG EINES KINDES**
+**2.18 MUSTER 21 – KRANKENGELD BEI ERKRANKUNG EINES KINDES**
 
 Prüffälle: 21
 
@@ -850,12 +949,16 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 26 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 26 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Krankheit vom Krankheit bis einschließlich
 
 
 ---
 
-**2.19****MUSTER 22 –****KONSILIARBERICHT VOR AUFNAHME EINER PSYCHOTHERAPIE**
+**2.19 MUSTER 22 – KONSILIARBERICHT VOR AUFNAHME EINER PSYCHOTHERAPIE**
 
 Prüffälle: 22a, 22b, 22c und 22d
 
@@ -863,7 +966,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.20****MUSTER 25 - ANREGUNG EINER AMBULANTEN VORSORGELEISTUNG IN ANERKANNTEN KURORTEN** **GEM. § 23 ABS. 2 SGB V**
+**2.20 MUSTER 25 - ANREGUNG EINER AMBULANTEN VORSORGELEISTUNG IN ANERKANNTEN KURORTEN**  **GEM. § 23 ABS. 2 SGB V**
 
 Prüffall: 25
 
@@ -882,7 +985,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.21****MUSTER 26 –****VERORDNUNG SOZIOTHERAPIE GEM. § 37A SGB V**
+**2.21 MUSTER 26 – VERORDNUNG SOZIOTHERAPIE GEM. § 37A SGB V**
 
 Prüffälle: 26a, 26b und 26c
 
@@ -895,12 +998,16 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 27 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 27 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Krankheiten
 
 
 ---
 
-**2.22****MUSTER 27 –****SOZIOTHERAPEUTISCHER BETREUUNGSPL. GEM. § 37A SGB V**
+**2.22 MUSTER 27 – SOZIOTHERAPEUTISCHER BETREUUNGSPL. GEM. § 37A SGB V**
 
 Prüffälle: 27a, 27b und 27c
 
@@ -908,7 +1015,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.23****MUSTER 28 –****VERORDNUNG BEI ÜBERWEISUNG ZUR INDIKATIONSSTELLUNG FÜR SOZIOTHERAPIE**
+**2.23 MUSTER 28 – VERORDNUNG BEI ÜBERWEISUNG ZUR INDIKATIONSSTELLUNG FÜR SOZIOTHERAPIE**
 
 Prüffälle: 28a, 28b und 28c
 
@@ -921,7 +1028,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.24****MUSTER 36 –****EMPFEHLUNG ZUR VERHALTENSBEZOGENEN PRIMÄRPRÄVENTION GEM. § 20 ABS. 5** **SGB V**
+**2.24 MUSTER 36 – EMPFEHLUNG ZUR VERHALTENSBEZOGENEN PRIMÄRPRÄVENTION GEM. § 20 ABS. 5**  **SGB V**
 
 Prüffall: 36
 
@@ -932,14 +1039,18 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 | Bewegungsgewohnheit/Ernährung Sonstiges | Ernährung Sonstiges: „Handlungsfeld“ |
 | Hinweise des behandelnden Arztes | Weitere Information für die Behandlung |
 
-Alle weiteren Formularfelder können beliebig ausgefülltwerden.
+Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 28 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 28 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+/Stressmanagement/Suchtmittelkonsum/
 
 
 ---
 
-**2.25****MUSTER 39 –****KREBSFRÜHERKENNUNG ZERVIX****-KARZINOM**
+**2.25 MUSTER 39 – KREBSFRÜHERKENNUNG ZERVIX-KARZINOM**
 
 Prüffall: 39
 
@@ -969,12 +1080,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 29 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 29 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+(vollständig/unvollständig/keine/unklar) Genitales - Welche? Genitales - Wann? Hormonanwendung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht
 
 
 ---
 
-**2.26****MUSTER 50 –****ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE**
+**2.26 MUSTER 50 – ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE**
 
 Prüffall: 50
 
@@ -982,7 +1097,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.27****MUSTER 51 –****ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS**
+**2.27 MUSTER 51 – ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS**
 
 Prüffall: 51
 
@@ -990,7 +1105,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.28****MUSTER 52 –****ANFRAGE BEI FORTBESTEHEN DER ARBEITSUNFÄHIGKEIT**
+**2.28 MUSTER 52 – ANFRAGE BEI FORTBESTEHEN DER ARBEITSUNFÄHIGKEIT**
 
 Prüffall: 52
 
@@ -998,15 +1113,15 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.29****MUSTER 53 –****ANFRAGE ZUM ZUSAMMENHANG VON ARBEITSUNFÄHIGKEITEN**
+**2.29 MUSTER 53 – ANFRAGE ZUM ZUSAMMENHANG VON ARBEITSUNFÄHIGKEITEN**
 
 Prüffall: 53_2
 
-Personalien Malta(Siehe XML Verzeichnisname: XML_36)
+Personalien Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.30****MUSTER 55 –****BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. §** **62 SGB V**
+**2.30 MUSTER 55 – BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. §**  **62 SGB V**
 
 Prüffall: 55
 
@@ -1020,12 +1135,16 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 30 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 30 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+genannten Erkrankung ist weiterhin erforderlich bis voraussichtlich
 
 
 ---
 
-**2.31****MUSTER 56 –****ANTRAG AUF KOSTENÜBERNAHME**
+**2.31 MUSTER 56 – ANTRAG AUF KOSTENÜBERNAHME**
 
 Prüffall: 56_1, 56_2
 
@@ -1033,7 +1152,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.32****MUSTER 61 –****VERORDNUNG VON MEDIZINISCHER REHABILITATION / PRÜFUNG DES ZUSTÄNDIGEN** **REHABI-LITATIONSTRÄGERS**
+**2.32 MUSTER 61 – VERORDNUNG VON MEDIZINISCHER REHABILITATION / PRÜFUNG DES ZUSTÄNDIGEN**  **REHABI-LITATIONSTRÄGERS**
 
 Prüffälle: 61Aa, 61Ab, 61Ba, 61Bb, 61Ca, 61Cb, 61Da, 61Db, 61Ea und 61Eb
 
@@ -1057,7 +1176,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.33****MUSTER 62A –****ERGEBNIS DER ERHEBUNG DES BEATMUNGSENTWÖHNUNGS****- BZW.** **DEKANÜLIERUNGSPOTENZIALS GEMÄß AKI****-RICHTLINIE DES G-BA**
+**2.33 MUSTER 62A – ERGEBNIS DER ERHEBUNG DES BEATMUNGSENTWÖHNUNGS- BZW.**  **DEKANÜLIERUNGSPOTENZIALS GEMÄß AKI-RICHTLINIE DES G-BA**
 
 Prüffälle: 62Aa, 62Ab und 62Ac
 
@@ -1069,7 +1188,11 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Befunde der ärztlichen Schluckdiagnostik | Frosch im Hals, Sekret- Speichelmanagement |
 | Ergebnis der Erhebung (Potenzial liegt vor) | zur Beatmungsentwöhnung |
 
-Seite 31 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 31 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+en “ Therapieoptimierung
 
 
 ---
@@ -1083,7 +1206,7 @@ Seite 31 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.34****MUSTER 62B –****VERORDNUNG AUßERKLINISCHER INTENSIVPFLEGE**
+**2.34 MUSTER 62B – VERORDNUNG AUßERKLINISCHER INTENSIVPFLEGE**
 
 Prüffälle: 62Ba_1, 62Ba_2, 62Bb und 62Bc
 
@@ -1109,7 +1232,11 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Klinischer Status (Kommunikation Verständigung) | eingeschränkt |
 | Klinischer Status (Orientierung vorhanden, zu) | Ort, Zeit, Person, Situation |
 
-Seite 32 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 32 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+perspektivisch vorliegen) festgestellt am) am) Entlassung gemäß § 10 Abs. 4 Satz 1 AKI -Richtlinie Funktionseinschränkungen)
 
 
 ---
@@ -1124,7 +1251,7 @@ Seite 32 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.35****MUSTER 62C –****BEHANDLUNGSPLAN FÜR AUßERKLINISCHE INTENSIVPFLEGE**
+**2.35 MUSTER 62C – BEHANDLUNGSPLAN FÜR AUßERKLINISCHE INTENSIVPFLEGE**
 
 Prüffälle: 62Ca, 62Cb und 62Cc
 
@@ -1143,7 +1270,11 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 | Maßnahmen der außerklinischen Intensivpflege pro Tag) | 3 |
 | Maßnahmen der außerklinischen Intensivpflege | Atrovent |
 
-Seite 33 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 33 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung festgestellt, dass keine Aussicht …) zum Zwecke der Therapieoptimierung und zur Verbesserung der Lebensqualität) zur Unterstützung der Therapieziele im Rahmen der AKI) (Benennung der zu erfassenden und zu bewertenden Vitalparameter) Sauerstoffsättigung im Blut, CO2 Gehalt im Blut, (Tracheostoma/Trachealkanülenmanagement) (Sekretmanagement) (Sekretmanagement Absauggerät) (Sekretmanagement Inhalationsgerät) (Sekretmanagement Inhalationsgerät Häufigkeit (Sekretmanagement Inhalationsgerät Medikament/Substanz)
 
 
 ---
@@ -1160,7 +1291,7 @@ Seite 33 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.36****MUSTER 63 –****VERORDNUNG SPEZIALISIERTER AMBULANTER****PALLIATIVVERSORGUNG (SAPV)**
+**2.36 MUSTER 63 – VERORDNUNG SPEZIALISIERTER AMBULANTER PALLIATIVVERSORGUNG (SAPV)**
 
 Prüffalle 63a_1, 63a_2
 
@@ -1168,12 +1299,16 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-Seite 34 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 34 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+(Dysphagiemanagement) strumpfhosen
 
 
 ---
 
-**2.37****MUSTER 64 –****VERORDNUNG MEDIZINISCHER VORSORGE FÜR MÜTTER ODER VÄTER GEMÄß § 24** **SGB V**
+**2.37 MUSTER 64 – VERORDNUNG MEDIZINISCHER VORSORGE FÜR MÜTTER ODER VÄTER GEMÄß § 24**  **SGB V**
 
 Prüffalle: 64Aa, 64Ab, 64Ba und 64Bb
 
@@ -1208,12 +1343,16 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 35 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 35 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Ausmaß nicht näher bezeichnet Schule, Erziehungsschwierigkeiten, finanzielle Sorgen, allein erziehend Kontextfaktoren) -/)
 
 
 ---
 
-**2.38****MUSTER 65 –****ÄRZTLICHES ATTEST KIND**
+**2.38 MUSTER 65 – ÄRZTLICHES ATTEST KIND**
 
 Prüffall: 65a, 65b
 
@@ -1233,7 +1372,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.39****MUSTER 70 –****BEHANDLUNGSPLAN**
+**2.39 MUSTER 70 – BEHANDLUNGSPLAN**
 
 Prüffälle: 70a und 70b
 
@@ -1243,14 +1382,18 @@ Alle Formularfelder können beliebig ausgefüllt werden.
 
 **HINWEIS**
 
-In den Barcode werden die Angaben des jeweiligen Personalienfeldescodiert, welches zum Zeitpunkt der Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhal te des ersten Personalienfeldes (Frau Malta) in den Barcode zu codieren.
+In den Barcode werden die Angaben des jeweiligen Personalienfeldes codiert, welches zum Zeitpunkt der  Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhal te des ersten Personalienfeldes (Frau Malta) in  den Barcode zu codieren.
 
-Seite 36 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 36 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+gende)
 
 
 ---
 
-**2.40****MUSTER 70 A –****FOLGE-BEHANDLUNGSPLAN**
+**2.40 MUSTER 70 A – FOLGE-BEHANDLUNGSPLAN**
 
 Prüffälle: 70Aa und 70Ab
 
@@ -1260,9 +1403,11 @@ Alle Formularfelder können beliebig ausgefüllt werden.
 
 **HINWEIS**
 
-In den Barcode werden die Angaben des jeweiligen Personalienfeldescodiert, welches zum Zeitpunkt der Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhal te des ersten Personalienfeldes (Frau Malta) in den Barcode zu codieren.
+In den Barcode werden die Angaben des jeweiligen Personalienfeldes codiert, welches zum Zeitpunkt der  Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhal te des ersten Personalienfeldes (Frau Malta) in  den Barcode zu codieren.
 
-Seite 37 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 37 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1271,20 +1416,18 @@ Seite 37 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 ## MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)
 
-Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV]zu beachten. Die Musterbeispiele sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt werden.
+Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch  Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV] zu beachten. Die Musterbeispiele  sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt  werden.
 
 **HINWEIS**
 
-Über die hier aufgeführten Prüffälle hinaus sind die übergreifenden Prüffälle [Kapitel5] ebenfalls zu bearbeiten.
+Über die hier aufgeführten Prüffälle hinaus sind die übergreifenden Prüffälle [Kapitel 5] ebenfalls zu  bearbeiten.
 
-Die folgenden Muster zur PTV können zertifiziert werden:
-
-- PTV 1
+Die folgenden Muster zur PTV können zertifiziert werden: - PTV 1
 - PTV 2
 - PTV 11
 - PTV 12
 
-**3.1****MUSTER PTV 1 –****ANTRAG AUF PSYCHOTHERAPIE**
+**3.1 MUSTER PTV 1 – ANTRAG AUF PSYCHOTHERAPIE**
 
 Prüffälle: PTV1a, PTV1b, PTV1c_1 und PTV1c_2
 
@@ -1299,15 +1442,19 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 | Wurde vor dem jetzigen Antrag in den letzten 2 | Ja |
 | Ausstellungsdatum | 15.11.24 |
 
-Alle weiteren Formularfelder können beliebigausgefüllt werden.
+Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**3.2****MUSTER PTV2 –****ANGABEN THERAPEUT*IN**
+**3.2 MUSTER PTV2 – ANGABEN THERAPEUT*IN**
 
 Prüffälle: PTV2a, PTV2b und PTV2c
 
 Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
-Seite 38 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 38 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+für / als sbehandlung aus Einzel- und Gruppentherapie mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt? Jahren bereits ein bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
 
 
 ---
@@ -1331,12 +1478,16 @@ Seite 38 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 39 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 39 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Einzeltherapie Bewilligungsschritt werden beantragt 35203 Bewilligungsschritt werden beantragt 35203 als Einzelbehandlung  35401, 35402, 35405, 35415
 
 
 ---
 
-**3.3****MUSTER PTV 11 –****IHRE INDIVIDUELLE INFORMATION ZUR PSYCHOTHERAPEUTISCHEN** **SPRECHSTUNDE**
+**3.3 MUSTER PTV 11 – IHRE INDIVIDUELLE INFORMATION ZUR PSYCHOTHERAPEUTISCHEN**  **SPRECHSTUNDE**
 
 Prüffälle: PTV11a und PTV11b
 
@@ -1358,12 +1509,16 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 40 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 40 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen Hausärztin/Hausarzt
 
 
 ---
 
-**3.4****MUSTER PTV12 –****ANZEIGE EINER AKUTBEHANDLUNG**
+**3.4 MUSTER PTV12 – ANZEIGE EINER AKUTBEHANDLUNG**
 
 Prüffälle: PTV12a und PTV12b
 
@@ -1382,7 +1537,9 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 41 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 41 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1391,7 +1548,7 @@ Seite 41 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 ## MUSTER DER KV NORDRHEIN
 
-**4.1****MUSTER KV5 –****AERZTLICHER_KURZBERICHT**
+**4.1 MUSTER KV5 – AERZTLICHER_KURZBERICHT**
 
 Prüffall: KV05
 
@@ -1402,9 +1559,9 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 | Befunde | Röntgen, CT (Anzukreuzen) Sonstiges: Allgemeine Untersuchung |
 | Mitgegebene Unterlagen | Bilder, Arztbrief |
 
-Alle weiteren Formularfelder können beliebigausgefüllt werden.
+Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.2****MUSTER KV6 –****AAPV_ANLAGE_3A**
+**4.2 MUSTER KV6 – AAPV_ANLAGE_3A**
 
 Prüffall: KV06
 
@@ -1417,7 +1574,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.3****MUSTER KV7 –****AAPV_ANLAGE_3B**
+**4.3 MUSTER KV7 – AAPV_ANLAGE_3B**
 
 Prüffall: KV07
 
@@ -1431,12 +1588,16 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 42 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 42 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+/Stressmanagement/Suchtmittelkonsum/
 
 
 ---
 
-**4.4****MUSTER KV9 –****AAPV_ANLAGE_2**
+**4.4 MUSTER KV9 – AAPV_ANLAGE_2**
 
 Prüffall: KV09
 
@@ -1449,7 +1610,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.5****MUSTER KV10 –****AAPV_ANLAGE_3**
+**4.5 MUSTER KV10 – AAPV_ANLAGE_3**
 
 Prüffall: KV10
 
@@ -1461,7 +1622,9 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Seite 43 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 43 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1472,13 +1635,13 @@ Seite 43 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 Die folgenden Prüffälle sind zusätzlich bei jedem Zertifizierungsverfahren mit einzureichen.
 
-Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für den Zertifizierungsgegenstand kein Muster 10 zertifiziert ist/wird, verwenden Sie bittedas Muster 6. Sollte dies auch nicht vorliegen, verwenden Sie für die übergreifenden Prüffälle bitte das Muster2a.
+Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für den Zertifizierungsgegenstand kein  Muster 10 zertifiziert ist/wird, verwenden Sie bitte das Muster 6. Sollte dies auch nicht vorliegen, verwenden  Sie für die übergreifenden Prüffälle bitte das Muster 2a.
 
-Jegliche Fehler-, Warn- und Hinweismeldungen sind durch Screenshots zu dokumentieren (siehe Kapitel2).
+Jegliche Fehler-, Warn- und Hinweismeldungen sind durch Screenshots zu dokumentieren (siehe Kapitel 2).
 
-Wenn es sich bei Ihrem System um ein System ohne Arztpatientenkontakt (APK) handelt, dann erfassen Sie bitte alle folgenden Prüffälle ausschließlich im Ersatzverfahren.
+Wenn es sich bei Ihrem System um ein System ohne Arztpatientenkontakt (APK) handelt, dann erfassen Sie  bitte alle folgenden Prüffälle ausschließlich im Ersatzverfahren.
 
-Sofern es bei den einzelnen Prüffällen nicht anders angegeben ist, gelten die nachstehenden Annahmen für die folgenden Prüffälle:
+Sofern es bei den einzelnen Prüffällen nicht anders angegeben ist, gelten die nachstehenden Annahmen für  die folgenden Prüffälle:
 
 | FELDER | INHALT |
 |---|---|
@@ -1486,14 +1649,16 @@ Sofern es bei den einzelnen Prüffällen nicht anders angegeben ist, gelten die 
 
 **HINWEIS**
 
-Der Kostenträger-Abrechnungsbereich (KTAB) mit der Feldkennung 4106 ist 00(Primärabrechnung), außer bei Prüffall 13.
+Der Kostenträger-Abrechnungsbereich (KTAB) mit der Feldkennung 4106 ist 00 (Primärabrechnung), außer  bei Prüffall 13.
 
-Seite 44 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 44 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**5.1****ÜBERGREIFENDER PRÜFFALL –****NR. 10 –****HELGA AUFGELÖST**
+**5.1 ÜBERGREIFENDER PRÜFFALL – NR. 10 – HELGA AUFGELÖST**
 
 | FELDER | INHALT |
 |---|---|
@@ -1520,12 +1685,16 @@ Personalien: Aufgelöst (Siehe XML Verzeichnisname: XML_38)
 | 4111 | Kostentraegerkennung | 101389294 |
 | 4134 | Kostentraegername | Braunschweiger Kasse |
 
-Seite 45 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 45 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Fehlermeldung, dass der Kostenträger aufgelöst ist.
 
 
 ---
 
-**5.2****ÜBERGREIFENDER PRÜFFALL –****NR. 11 –****PETER PAN**
+**5.2 ÜBERGREIFENDER PRÜFFALL – NR. 11 – PETER PAN**
 
 | FELDER | INHALT |
 |---|---|
@@ -1552,12 +1721,16 @@ Personalien: Pan (Siehe XML Verzeichnisname: XML_39)
 | 4111 | Kostentraegerkennung | 101377508 |
 | 4134 | Kostentraegername | Techniker-Krankenkasse LV Schlesw.-H. |
 
-Seite 46 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 46 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+dass das vorliegende IK ungültig ist.) und
 
 
 ---
 
-**5.3****ÜBERGREIFENDER PRÜFFALL –****NR. 12 –****SAM SCHULTE**
+**5.3 ÜBERGREIFENDER PRÜFFALL – NR. 12 – SAM SCHULTE**
 
 | FELDER | INHALT |
 |---|---|
@@ -1586,12 +1759,16 @@ Personalien: Im Ersatzverfahren zu erfassen
 |  | Bedruckungsname | BKK zum Testen |
 | 4121 | Gebührenordnung | BMÄ (2006 = 1) |
 
-Seite 47 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 47 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+275 erstellen und Muster mit Personalienfeld
 
 
 ---
 
-**5.4****ÜBERGREIFENDER PRÜFFALL –****NR. 13 –****ANGELIKA SCHNELL**
+**5.4 ÜBERGREIFENDER PRÜFFALL – NR. 13 – ANGELIKA SCHNELL**
 
 | FELDER | INHALT |
 |---|---|
@@ -1615,12 +1792,16 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4111 | Kostentraegerkennung | 103121013 |
 | 4106 | KTAB | 07 |
 
-Seite 48 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 48 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
+Fehlermeldung, dass der Kostenträger aufgelöst ist.
 
 
 ---
 
-**5.5****ÜBERGREIFENDER PRÜFFALL –****NR. 14 –****ERNA MUELLER**
+**5.5 ÜBERGREIFENDER PRÜFFALL – NR. 14 – ERNA MUELLER**
 
 | FELDER | INHALT |
 |---|---|
@@ -1642,12 +1823,14 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 3110 | Geschlecht | W |
 | 4111 | Kostentraegerkennung | 100013805 |
 
-Seite 49 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 49 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**5.6****ÜBERGREIFENDER PRÜFFALL –****NR. 15 –****EIKE FLÜCHTLING**
+**5.6 ÜBERGREIFENDER PRÜFFALL – NR. 15 – EIKE FLÜCHTLING**
 
 | FELDER | INHALT |
 |---|---|
@@ -1673,12 +1856,14 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4111 | Kostentraegerkennung | 109577507 |
 | 4131 | BesonderePersonengruppe | 09 |
 
-Seite 50 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 50 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**5.7****ÜBERGREIFENDER PRÜFFALL –****NR. 16 –****ANDREA LANZ**
+**5.7 ÜBERGREIFENDER PRÜFFALL – NR. 16 – ANDREA LANZ**
 
 | FELDER | INHALT |
 |---|---|
@@ -1701,12 +1886,14 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4131 | BesonderePersonengruppe | 07 |
 | 4124 | SKT-Zusatzangabe | AL00001960 |
 
-Seite 51 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 51 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**5.8****ÜBERGREIFENDER PRÜFFALL –****NR. 17 –****VIKTOR WERNER**
+**5.8 ÜBERGREIFENDER PRÜFFALL – NR. 17 – VIKTOR WERNER**
 
 | FELDER | INHALT |
 |---|---|
@@ -1737,12 +1924,14 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4123 | Personenkreis | 01 |
 | 4124 | SKT-Zusatzangabe | 123456789012345 |
 
-Seite 52 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 52 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
 
-**5.9****ÜBERGREIFENDER PRÜFFALL –****NR. 18 –****JONATHAN RAMIREZ-SANCHÉZ-LEON**
+**5.9 ÜBERGREIFENDER PRÜFFALL – NR. 18 – JONATHAN RAMIREZ-SANCHÉZ-LEON**
 
 | FELDER | INHALT |
 |---|---|
@@ -1768,7 +1957,9 @@ Personalien: Jonathan Ramirez-Sanchéz-Leon (Siehe XML Verzeichnisname: XML_41)
 | 4111 | Kostentraegerkennung | 109519005 |
 | 4134 | Kostentraegername | AOK Nordost - Die Gesundheitskasse |
 
-Seite 53 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 53 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1777,21 +1968,17 @@ Seite 53 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 ## TESTDATENVALIDIERUNG
 
-Alle in den vorherigen Kapiteln beschriebenen Prüffälle können in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Übergreifend“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Alle in den vorherigen Kapiteln beschriebenen Prüffälle können in der Testdatenvalidierung des  Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  Zertifizierung findet nicht statt, demzufolge ist der Ordner „Übergreifend“ im Gegensatz zur Zertifizierung  nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse  werden die Testergebnisse gesendet.
 
-Das zip-Arc hiv muss mit „Test_9_<SystemID>“ benannt werden. Die Struktur des zip-Archives sollte alle zu testenden Muster beinhalten. Wird eine vollständige Prüfung angestrebt, muss die Verzeichnisstruktur die folgende Form aufweisen:
+Das zip-Arc hiv muss mit „Test_9_<SystemID>“ benannt werden. Die Struktur des zip -Archives sollte alle zu  testenden Muster beinhalten. Wird eine vollständige Prüfung angestrebt, muss die Verzeichnisstruktur die  folgende Form aufweisen:
 
-Abbildung 3: Testdatenvalidierung – Exemplarische Verzeichnisstruktur bei Einreichung der Muster2, 4, 10 und 10L
+Abbildung 3: Testdatenvalidierung – Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
 
 Bereiche, die nicht getestet werden, dürfen nicht in der .zip-Datei vorkommen.
 
-Seite 54 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4. Oktober 2024
+Seite 54 von 56 / KBV / Prüfpaket Blankoformularbedruckung
 
-
----
-
-
-
+/ Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1800,24 +1987,24 @@ Seite 54 von 56 / KBV / Prüfpaket Blankoformularbedruckung  / Version: 3.41 / 4
 
 ## REFERENZIERTE DOKUMENTE
 
-Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendig sind, stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) bereit. Sie benötigen grundsätzlich die folgenden Dateien und Unterlagen in der jeweils aktuellen Version:
+Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendig sind, stehen im Internet  zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) bereit. Sie benötigen grundsätzlich die folgenden  Dateien und Unterlagen in der jeweils aktuellen Version:
 
 |  |  |
-| Allgemeine Informationen |
-|---|
+| Allgemeine Informationen | |
+|---|---|
 | KBV_ITA_RLEX_RiLi_Zert | Zertifizierungsrichtlinie der KBV |
-| Datensatz- und Schnittstellenbeschreibung |
+| Datensatz- und Schnittstellenbeschreibung | |
 | KBV_ITA_VGEX_Datensatzbeschreibung_KVDT | Datensatzbeschreibung KVDT |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDKV | Datensatzbeschreibung KV-Spezifika- |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ | Datensatzbeschreibung PLZ- |
 | KBV_ITA_VGEX_Schnittstelle_SDICD | Datensatzbeschreibung ICD- |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung Kostenträger- |
-| Stammdateien (nur für Prüfverfahren geeignet) |
+| Stammdateien (nur für Prüfverfahren geeignet) | |
 | 74E15101.sdicd.prf.zip | modifizierte ICD-10-GM-Stammdatei |
 | 74E13101.sdkv.prf.zip | modifizierte KV-Spezifika-Stammdatei |
 | 74E16101.sdkt.prf.zip | modifizierte Kostenträger- |
 | 74E13101.sdplz.prf.zip | modifizierte PLZ-Stammdatei |
-| Blankoformularbedruckung (BFB) |
+| Blankoformularbedruckung (BFB) | |
 | KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch |
 | KBV_ITA_VGEX_Handbuch_BFB_PTV | Handbuch |
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung | Anforderungskatalog |
@@ -1825,7 +2012,7 @@ Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendi
 | Erläuterungen zur Vordruck-Vereinbarung | Erläuterungen zur Vereinbarung über |
 | KBV_ITA_VGEX_Mapping_KVK | Technische Anlage zu Anlage 4a |
 
-Seite 55 von 56 / KBV / Prüfpaket Blankoformularbedruckung/ Version: 3.41 /4. Oktober 2024
+(KV Hessen) Blankoformularbedruckung PTV Blankoformularbedruckung Anlage 2a Vordrucke für die vertragsärztliche Versorgung (BMV-Ä/EKV)  Seite 55 von 56 / KBV / Prüfpaket Blankoformularbedruckung / Version: 3.41 / 4. Oktober 2024
 
 
 ---
@@ -1835,20 +2022,20 @@ Seite 55 von 56 / KBV / Prüfpaket Blankoformularbedruckung/ Version: 3.41 /4. O
 | KBV_ITA_FMEX_AAZ_BFB | Antrag auf Zertifizierung |
 | Muster.zip.XKM | PCL- / PCX - Dateien der BFB- |
 | 4 | eGK-XML Dateien |
-| Kassenärztliche Vereinigung-Datentransfer (KVDT) |
+| Kassenärztliche Vereinigung-Datentransfer (KVDT) | |
 | KBV_ITA_VGEX_Anforderungskatalog_ICD-10 | Anforderungskatalog zur Anwendung |
 | KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT |
 
-4n.n= in der jeweils aktuellen Version
+4 n.n= in der jeweils aktuellen Version
 
 **Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 
-IT in der Arztpraxis Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 ________________
 
-Seite 56 von 56 / KBV / Prüfpaket Blankoformularbedruckung/ Version: 3.41 /4. Oktober 2024
+Blankoformularbedruckung Formulare VSD_5.2.0_Testfaelle_Vn.n der ICD-10-GM Seite 56 von 56 / KBV / Prüfpaket Blankoformularbedruckung / Version: 3.41 / 4. Oktober 2024

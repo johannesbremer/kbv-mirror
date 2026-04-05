@@ -1,67 +1,45 @@
-| 31. AM |  | AKTUELLE 18. | |  | ANBIETERMEETING | SEPTEMBER |  | GESUNDHEITSPOLITIK 2025 |
-|---|---|---|---|---|---|---|---|---|
-| ROBERT LEITER |  | SCHNEIDER | STABSBEREICH |  | STRATEGIE, | POLITIK | UND | KOMMUNIKATION |
+|  | AKTUELLE | |  |  |  | GESUNDHEITSPOLITIK |
+|---|---|---|---|---|---|---|
+| 31. |  |  |  | ANBIETERMEETING | | |
+| AM | 18. |  |  | SEPTEMBER | | 2025 |
+| ROBERT |  | SCHNEIDER |  |  |  |  |
+| LEITER |  | STABSBEREICH | STRATEGIE, | POLITIK |  | UND KOMMUNIKATION |
+
+AKTUELLE GESUNDHEITSPOLITIK 31. ANBIETERMEETING AM 18. SEPTEMBER 2025 ROBERT SCHNEIDER LEITER STABSBEREICH STRATEGIE, POLITIK UND KOMMUNIKATION
+
+---
+
+| ↗ |  |  |  | KOALITIONSVERTRAG |  |  |
+|---|---|---|---|---|---|---|
+| ↗ |  |  |  | KBV-POSITIONSPAPIERE |  |  |
+| ↗ |  | AKTUELLE | | BUNDESGESETZGEBUNG | UND | AUSBLICK |
+|  | AKTUELLE | BUNDESGESETZGEBUNG | |  |  |  |
+| 31. | ANBIETERMEETING | AM | 18. | SEPTEMBER 2025 |  |  |
+
+AKTUELLE BUNDESGESETZGEBUNG UND AUSBLICK AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 2
 
 
 ---
 
+| ↗ |  |  |  | KOALITIONSVERTRAG | 21. | WP |
+|---|---|---|---|---|---|---|
+|  | AKTUELLE | BUNDESGESETZGEBUNG | |  |  |  |
+| 31. | ANBIETERMEETING | AM | 18. SEPTEMBER | 2025 |  |  |
 
-
-
-
----
-
-# ↗
-
-# KOALITIONSVERTRAG
-
-# ↗
-
-# KBV
-
-**-**
-
-# POSITIONSPAPIERE
-
-# ↗
-
-# AKTUELLE BUNDESGESETZGEBUNG UND AUSBLICK
-
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE2
-
-
----
-
-
-
-
-
----
-
-|  | ↗ |  |  |  |  |  |  | KOALITIONSVERTRAG | 21. | WP |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 31. | AKTUELLE | | ANBIETERMEETING | SEITE 3 | BUNDESGESETZGEBUNG AM | 18. | SEPTEMBER | 2025 |  |  |
-
-
----
-
-
-
+KOALITIONSVERTRAG 21. WP AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 3
 
 
 ---
 
 # Timeline Koalitionsvertrag
 
-↗**KOALITIONSVERTRAG**
+| ↗ | KOALITIONSVERTRAG |  |
+|---|---|---|
+|  | SEITE | 4 |
 
 ## 06.11.2024
 
-## Bruch „Ampel
-
--
-
-## Koalition“
+## Bruch „Ampel-Koalition“
 
 ## 24.03.2025
 
@@ -71,28 +49,24 @@
 
 ## „geeinter“ Koalitionsvertrag CDU/CSU & SPD
 
-## 06.05.2025
-
-## Kanzlerwahl, Vereidigung Bundeskabinett
-
 ## 04.05.2025
 
 ## Unterzeichnung Koalitionsvertrag
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE4
+## 06.05.2025
+
+## Kanzlerwahl, Vereidigung Bundeskabinett
+
+↗ KOALITIONSVERTRAG SEITE 4**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
 
+↗ KOALITIONSVERTRAG
 
-
-
-
----
-
-↗**KOALITIONSVERTRAG**
-
-31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+| AKTUELLE |  | BUNDESGESETZGEBUNG | |  |
+|---|---|---|---|---|
+| 31. | ANBIETERMEETING | AM | 18. SEPTEMBER | 2025 |
 
 # 
 
@@ -110,126 +84,70 @@
 
 # war mutiger und verbindlicher.
 
-**AKTUELLE BUNDESGESETZGEBUNG**SEITE5
+AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 5
 
 
 ---
 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | ↗ KOALITIONSVERTRAG |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | Kapitel |  |  | „Gesundheit | |  | und |  | Pflege“ | | des | Koalitionsvertrages |  |  |
+| Was |  | wollen | CDU/CSU | | und | | SPD? (S. |  | 105) |  |  |  |  |  |
+| „Wir |  | wollen | eine | gute, |  |  | bedarfsgerechte | | | und | bezahlbare | medizinische und | pflegerische | Versorgung |
+| für | die | Menschen | | im | Land | sichern. | |  | Dafür | wagen | wir | tiefgreifende | strukturelle | Reformen, |
+|  | stabilisieren | | die | Beiträge, | | sorgen |  | für | einen | | schnellen | Zugang zu Terminen | und | verbessern die |
+|  |  | Arbeitsbedingungen | |  | für | die |  | Beschäftigten | | | im | Gesundheitswesen.“ |  |  |
+| › | Ergo: | Die |  | eierlegende | |  | Wollmilchsau | |  | für | das | Gesundheitswesen |  |  |
+|  | AKTUELLE | BUNDESGESETZGEBUNG | |  |  |  |  |  |  |  |  |  |  | SEITE 6 |
+| 31. | ANBIETERMEETING | AM | 18. | SEPTEMBER | 2025 |  |  |  |  |  |  |  |  |  |
 
-
-
-
----
-
-# Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages
-
-↗**KOALITIONSVERTRAG**
-
-## Was wollen CDU/CSU und SPD? (S. 105)
-
-## „Wir wollen eine gute, bedarfsgerechte und bezahlbare medizinische und pflegerische Versorgung
-
-## für die Menschen im Land sichern. Dafür wagen wir
-
-## tiefgreifende strukturelle Reformen,
-
-## stabilisieren die Beiträge,
-
-## sorgen für einen
-
-## schnellen Zugang zu Terminen
-
-## und
-
-## verbessern die
-
-## Arbeitsbedingungen für die Beschäftigten im Gesundheitswesen.“
-
-## ›
-
-## Ergo:
-
-## Die eierlegende Wollmilchsau für das Gesundheitswesen
-
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025
-
-SEITE6
-
-
----
-
-
-
-
-
+Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages Was wollen CDU/CSU und SPD? (S. 105) „Wir wollen eine gute, bedarfsgerechte und bezahlbare medizinische und pflegerische Versorgung für die Menschen im Land sichern. Dafür wagen wir tiefgreifende strukturelle Reformen, stabilisieren die Beiträge, Arbeitsbedingungen für die Beschäftigten im Gesundheitswesen.“ Ergo: Die eierlegende Wollmilchsau für das Gesundheitswesen AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025 sorgen für einen schnellen Zugang zu Terminen  und verbessern die
 
 
 ---
 
 # Was steckt drin im Koalitionsvertrag?
 
-↗**AMBULANTE VERSORGUNG**
+↗ AMBULANTE VERSORGUNG
 
 ## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine
 
-## schnellere Terminvergabe
+## schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier
 
-## setzen wir auf ein
-
-## verbindliches Primärarztsystem
-
-## bei freier
-
-## Arztwahl durch Haus
-
-*-*
-
-## und Kinderärzte in der Hausarztzentrierten Versorgung und im
+## Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im
 
 ## Kollektivvertrag.“
+
+## „Wir verpflichten die KV, diese Termine zu vermitteln
+
+## Facharztzugang im Krankenhaus ambulant für diese Patientinnen und Patienten ermöglicht
+
+**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 ## „Die Primärärztinnen und Primärärzte oder die von den Kassenärztlichen Vereinigungen (KV)
 
 ## betriebene Rufnummer 11 6 11 7 stellen den medizinisch notwendigen Bedarf für einen
 
-## Facharzttermin fest und legen den dafür notwendigen Zeitkorridor (
+## Facharzttermin fest und legen den dafür notwendigen Zeitkorridor ( Termingarantie) fest.“
 
-## Termingarantie
+## „Zudem schaffen wir die flächendeckende Möglichkeit einer strukturierten Ersteinschätzung
 
-## ) fest.“
-
-## „Wir
-
-## verpflichten die KV, diese Termine zu vermitteln
+## über digitale Wege in Verbindung mit Telemedizin.“
 
 ## . Gelingt dies nicht, wird der
 
-## Facharztzugang im Krankenhaus ambulant für diese Patientinnen und Patienten ermöglicht
-
 ## .“
 
-## „Zudem schaffen wir die
-
-## flächendeckende Möglichkeit einer strukturierten Ersteinschätzung
-
-## über digitale Wege in Verbindung mit Telemedizin
-
-## .“
-
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE7
+SEITE 7
 
 
 ---
 
 # Was steckt drin im Koalitionsvertrag?
 
-↗**AMBULANTE VERSORGUNG**
+↗ AMBULANTE VERSORGUNG
 
-## „Noch 2025 rollen wir die
-
-## elektronische Patientenakte
-
-## stufenweise aus, von einer
+## „Noch 2025 rollen wir die elektronische Patientenakte stufenweise aus, von einer
 
 ## bundesweiten Testphase zu einer verpflichtenden sanktionsbewehrten Nutzung. Wir
 
@@ -237,88 +155,48 @@ SEITE6
 
 ## Ärzten. Doppeldokumentationen vermeiden wir.“
 
-## „Rahmenbedingungen und
+## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und
 
-## Honorierung für Videosprechstunden, Telemonitoring und
+## Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
 
-## Telepharmazie
+## „Wir verändern das Honorarsystem im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
 
-## verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
+## bedarfsgerechter Arztkontakte zu reduzieren ( Jahrespauschalen).“
 
-## „Wir verändern das
+## „Wir schaffen einen Fairnessausgleich zwischen über- und unterversorgten Gebieten: Wir
 
-## Honorarsystem
+## prüfen eine Entbudgetierung von Fachärztinnen und Fachärzten in unterversorgten Gebieten.“
 
-## im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
+**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
-## bedarfsgerechter Arztkontakte zu reduzieren (
-
-## Jahrespauschalen
-
-## ).“
-
-## „Durch
-
-## Flexibilisierung des Quartalsbezugs
-
-## ermöglichen wir neuen Patientinnen und
+## „Durch Flexibilisierung des Quartalsbezugs ermöglichen wir neuen Patientinnen und
 
 ## Patienten einen besseren Zugang und die Vergütung von Praxis
 
-*-*
+## -Patienten
 
-## Patienten
+## -Kontakten.“
 
-*-*
-
-## Kontakten.“
-
-## „Wir schaffen einen
-
-## Fairnessausgleich zwischen über
-
-***-***
-
-## und unterversorgten Gebieten
-
-## : Wir
-
-## prüfen eine Entbudgetierung von Fachärztinnen und Fachärzten in unterversorgten Gebieten
-
-## .“
-
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE8
+SEITE 8
 
 
 ---
 
-# Gesundheits
-
-**-**
-
-# Etat
+# Gesundheits-Etat
 
 ## ›
 
-## Keine
-
-## nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
+## Keine nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
 
 ## Refinanzierung der Gesundheitsversorgung von Bürgergeld
 
--
-
-## Beziehenden durch den Bund
+## -Beziehenden durch den Bund
 
 ## ›
 
-## Keine
+## Keine vollständige Erstattung der vorgestreckten Corona
 
-## vollständige Erstattung der vorgestreckten Corona
-
--
-
-## Kosten
+## -Kosten
 
 ## ›
 
@@ -326,11 +204,7 @@ SEITE6
 
 ## ›
 
-## Wie im Koa
-
--
-
-## Vertrag angekündigt:
+## Wie im Koa-Vertrag angekündigt:
 
 ## Einrichtung einer Kommission
 
@@ -342,28 +216,21 @@ SEITE6
 
 ## Sozialstaatsreform
 
-↗**HAUSHALT**
+↗ **HAUSHALT**
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE9
+**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
-
----
-
-
-
+SEITE 9
 
 
 ---
 
-|  | ↗ | - | KBV | |  | POSITIONEN | | |
-|---|---|---|---|---|---|---|---|---|
-| 31. | AKTUELLE | | ANBIETERMEETING | SEITE 10 | BUNDESGESETZGEBUNG AM | 18. | SEPTEMBER | 2025 |
+| ↗ |  |  | KBV-POSITIONEN | |
+|---|---|---|---|---|
+|  | AKTUELLE | BUNDESGESETZGEBUNG | |  |
+| 31. | ANBIETERMEETING | AM | 18. SEPTEMBER | 2025 |
 
-
----
-
-
-
+AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 10
 
 
 ---
@@ -400,42 +267,25 @@ SEITE6
 
 ## ›
 
-## Entbudgetierung für mit
-
--
-
-## und weiterbehandelnde
+## Entbudgetierung für mit- und weiterbehandelnde
 
 ## Fachärzte
 
-↗**STEUERUNG**
+|  | ↗ | STEUERUNG |  |
+|---|---|---|---|
+|  | Veröffentlicht | am | 26.05. |
+|  |  |  | SEITE 11 |
 
-**Veröffentlicht am 26.05.**
-
-31. ANBIETERMEETING AM 18. SEPTEMBER 2025
-
-**AKTUELLE BUNDESGESETZGEBUNG**SEITE11
-
-
----
-
-
-
+↗ STEUERUNG Veröffentlicht am 26.05.**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
 
-# Not
-
-**-**
-
-# und Akutversorgung außerhalb der Praxisöffnungszeiten
+# Not- und Akutversorgung außerhalb der Praxisöffnungszeiten
 
 ## ›
 
-## Wichtig:
-
-## verpflichtender Einsatz standardisierter Ersteinschätzungssysteme
+## Wichtig: verpflichtender Einsatz standardisierter Ersteinschätzungssysteme
 
 ## ; Patienten ohne
 
@@ -445,15 +295,7 @@ SEITE6
 
 ## Weiterentwicklung und Ausbau der 116117
 
-## als „digitale Multi
-
--
-
-## Channel
-
--
-
-## Versorgungsplattform“;
+## als „digitale Multi-Channel-Versorgungsplattform“;
 
 ## mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
@@ -461,89 +303,49 @@ SEITE6
 
 ## Für die ambulante Akut
 
--
+## - und Notdienstversorgung bedarf es einer angemessenen
 
-## und Notdienstversorgung bedarf es einer angemessenen
-
-## Vorhaltefinanzierung, inkl. digitaler Zugänge
-
-.
+## Vorhaltefinanzierung, inkl. digitaler Zugänge.
 
 ## ›
 
 ## Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
 
-↗**NOTFALLVERSORGUNG**
+↗ NOTFALLVERSORGUNG
 
-31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
-**AKTUELLE BUNDESGESETZGEBUNG**SEITE12
-
-
----
-
-
-
+SEITE 12
 
 
 ---
 
-# Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
+|  |  |  | ↗ DIGITAL UND NAH |
+|---|---|---|---|
+|  |  | Positionspapier Digitalisierung | beschlossen auf der VV im Mai 2025 |
+|  |  |  | SIEBEN THEMENFELDER |
+| Erarbeitet in | einem | gemeinsamen |  |
+| Prozess mit | der VV | 12/24-05/25 |  |
+| Weitere | Informationen | unter www.kbv.de/digitalisierung |  |
+|  |  |  | Plus FÜNF KERNFORDERUNGEN |
+| AKTUELLE | | BUNDESGESETZGEBUNG | SEITE 13 |
+| 31. | ANBIETERMEETING | AM 18. SEPTEMBER 2025 |  |
 
-↗**DIGITAL UND NAH**
-
-Plus**FÜNF KERNFORDERUNGEN**
-
-*Erarbeitet in einem gemeinsamen**Prozess mit der VV 12/24**-**05/25*
-
-Weitere Informationen unterwww.kbv.de/digitalisierung
-
-## SIEBEN THEMENFELDER
-
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE13
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 Erarbeitet in einem gemeinsamen Prozess mit der VV 12/24-05/25 Weitere Informationen unter www.kbv.de/digitalisierung AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
 
-# Digital und nah
+|  | Digital |  | und | nah |  |
+|---|---|---|---|---|---|
+| AKTUELLE |  |  | BUNDESGESETZGEBUNG | |  |
+| 31. | ANBIETERMEETING | | AM | 18. | SEPTEMBER 2025 |
 
-↗**DIGITAL UND NAH**
+↗ **DIGITAL UND NAH**
 
 Hier online abrufbar
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE14
-
-
----
-
-
-
-
-
+Digital und nah AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 14
 
 
 ---
@@ -552,7 +354,7 @@ Hier online abrufbar
 
 # Künstliche Intelligenz: Hinweise zum Einsatz in Praxen
 
-↗**KI****-****LEITFADEN**
+↗ KI-LEITFADEN
 
 ## ANFORDERUNGEN BEI DER
 
@@ -560,27 +362,21 @@ Hier online abrufbar
 
 ## DEM BETRIEB
 
-## Das
-
-## PraxisWissen
-
-## der KBV gibt einen
-
-## Überblick zu den wichtigsten
+## Das PraxisWissen der KBV gibt einen Überblick zu den wichtigsten
 
 ## Regelungen und Anforderungen
 
 ## beim Einsatz von KI
 
--
-
-## basierten
+## -basierten
 
 ## Lösungen in Praxen.
 
 **Veröffentlicht am 26.05.**
 
-Weitere Informationen unterwww.kbv.de/digitalisierung
+Weitere Informationen unter www.kbv.de/digitalisierung
+
+**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 ## ALLGEMEINE ANFORDERUNGEN
 
@@ -588,103 +384,82 @@ Weitere Informationen unterwww.kbv.de/digitalisierung
 
 ## ANFORDERUNGEN
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE15
+SEITE 15
 
 
 ---
 
+| ↗ |  | AUSBLICK | |  |
+|---|---|---|---|---|
+|  | AKTUELLE | BUNDESGESETZGEBUNG | |  |
+| 31. | ANBIETERMEETING | AM | 18. SEPTEMBER | 2025 |
 
-
-
-
-
-
----
-
-|  | ↗ |  |  |  | AUSBLICK | | |  |
-|---|---|---|---|---|---|---|---|---|
-| 31. | AKTUELLE | | ANBIETERMEETING | SEITE 16 | BUNDESGESETZGEBUNG AM | 18. | SEPTEMBER | 2025 |
-
-
----
-
-
-
+AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025SEITE 16
 
 
 ---
 
 # „Politische Zeitschiene“ 2025
 
-**-**
+# -2026
 
-# 2026
+**Landtagswahl**
 
-**Landtagswahl****Baden****-****Württemberg &****Rheinland****-****Pfalz**
+**Baden-Württemberg &** **Rheinland-Pfalz**
 
-Parteitag CSU12.-13. Dezember 2025 (München)
+Parteitag CSU 12.-13. Dezember 2025 (München)
 
-BundesparteitagBündnis 90/Die Grünen28.-30. November 2025 (Hannover)
+Bundesparteitag  Bündnis 90/Die Grünen  28.-30. November 2025 (Hannover)
 
-**Landtagswahl****Sachsen****-****Anhalt &****Berlin**
+**Landtagswahl**
 
-**Landtagswahl****Mecklenburg****-****Vorpommern**
+**Sachsen-Anhalt &**  **Berlin** **Landtagswahl**
 
-Bundesparteitag CDU20.-21. Februar 2026 (Stuttgart)
+**Mecklenburg-** **Vorpommern**Bundesparteitag CDU 20.-21. Februar 2026 (Stuttgart)
 
-Gesetz zur Reform derNotfallversorgung / Rettungsdienst**?**
+Gesetz zur Reform der  Notfallversorgung / Rettungsdienst?
 
-Primärarztsystem**?**
+Primärarztsystem?
 
 Pflegefachassistenzgesetz *(Kabinettbeschluss August)*
 
 Weiterentwicklung Krankenhausreform *(Kabinettbeschluss?)*
 
-GesetzzurBefugniserweiterungundEntbürokratisierung in der Pflege
+Gesetz zur Befugniserweiterung und  Entbürokratisierung in der Pflege
 
-Entbürokratisierung**?**Stabilisierung GKV-Finanzen**?**
+Entbürokratisierung? Stabilisierung GKV-Finanzen?
+
+**Q1 2026Q2 2026Q4 2026Q3 2026**
 
 ## Q3
 
 ### 2025
 
-JulSepAug
-
-**Q1 2026****Q2 2026****Q4 2026****Q3 2026**
-
 ## Q4
 
 ### 2025
 
-JanFebMarNovAugAprSeptDezDezOktNovJunMaiOktJul
+| Nov | Dez | Jan | Feb | Mar |  | Apr | Mai | Jun | Jul | Aug | Sept | Okt | Nov | Dez |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+OktJulSepAug
 
-17
-
-
----
-
-
-
-
-
+17**AKTUELLE BUNDESGESETZGEBUNG** 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
 
-↗**BEREICH POLITIK** Das Bild kann nicht angezeigt werden.
+| ↗ BEREICH |  | POLITIK |  |
+|---|---|---|---|
+|  |  | SEITE | 18 |
 
-**AKTUELLE BUNDESGESETZGEBUNG**31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+Das Bild kann nicht angezeigt werden.
 
-SEITE18
+| AKTUELLE |  | BUNDESGESETZGEBUNG | |  |
+|---|---|---|---|---|
+| 31. | ANBIETERMEETING | AM | 18. SEPTEMBER | 2025 |
 
-
----
-
-
-
-
+AKTUELLE BUNDESGESETZGEBUNG 31. ANBIETERMEETING AM 18. SEPTEMBER 2025 ↗ BEREICH POLITIK SEITE 18
 
 ---
 

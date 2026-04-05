@@ -8,28 +8,20 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 00 | ambulante Behandlung |
-| 0101 | ambulante Behandlung |
-| 0102 | Überweisung |
-| 0103 | Belegärztliche Behandlung |
-| 0104 | Notfall/Vertretung |
-| 20 | Selbstausstellung |
-| 21 | Auftragsleistungen |
-| 23 | Konsiliaruntersuchung |
+**Code** 00 0101 0102 0103 0104 20 21 23
+
 | 24 | Mit-/Weiterbehandlung |
-| 26 | Stationäre Mitbehandlung, Vergütung nach ambulanten Grundsätzen |
-| 27 | Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung |
-| 28 | Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften |
-| 30 | Belegärztliche Behandlung |
-| 31 | Belegärztliche Mitbehandlung |
-| 32 | Urlaubs-/Krankheitsvertretung bei belegärztlicher |
-| 41 | Ärztlicher Notfalldienst |
-| 42 | Urlaubs-/Krankheitsvertretung |
-| 43 | Notfall |
-| 44 | Notfalldienst mit Taxi |
+|---|---|
+| 26 | Stationäre Mitbehandlung, Vergütung nach ambulanten |
+
+27
+
+28
+
+30 31 32 41 42 43 44
+
 | 45 | Notarzt-/Rettungswagen |
+|---|---|
 | 46 | Zentraler Notfalldienst |
 
 Schlüsseltabelle: S_KBV_SCHEINART
@@ -40,10 +32,6 @@ Schlüsseltabelle: S_KBV_SCHEINART
 
 **01.10.2008**
 
-1
+**Bezeichnung** ambulante Behandlung ambulante Behandlung Überweisung Belegärztliche Behandlung Notfall/Vertretung Selbstausstellung Auftragsleistungen Konsiliaruntersuchung
 
-
----
-
-
-
+Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung Belegärztliche Mitbehandlung Urlaubs-/Krankheitsvertretung bei belegärztlicher Behandlung Ärztlicher Notfalldienst Urlaubs-/Krankheitsvertretung Notfall Notfalldienst mit Taxi 1

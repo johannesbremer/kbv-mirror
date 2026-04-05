@@ -3,7 +3,7 @@
 
 | Hauptbetriebsstätte | Lebenslange Arzt-Nr. | *A 999991234567425 * |
 |---|---|---|
-| 019999900 | 123456789 |
+| 019999900 | 123456789 | |
 
 | Diese Erklärung ist Bestandteil Ihrer Quartalsabrechnung und gilt für die Hauptbetriebsstätte inklusive aller Nebenbetriebsstätten. Soweit in dieser Sammelerklärung die Bezeichnung Arzt/Ärztin verwendet wird, ist auch der Psychotherapeut / die Psychotherapeutin gemeint. |
 |---|
@@ -46,9 +46,3 @@
 
 | Version A 10.12.25 |
 |---|
-
-
----
-
-
-

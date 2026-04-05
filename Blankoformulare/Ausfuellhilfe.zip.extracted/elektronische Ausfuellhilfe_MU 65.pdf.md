@@ -1,59 +1,47 @@
-**Elektronische**
+|  |  | Elektronische |  | Ausfüllhilfe | | Muster | 65 |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | Hinweistexte | | für | die | Erstellung |  | Ärztliches | Attest | Kind | zur | Verordnung | einer | medizi- | |
+|  | nischen |  | Vorsorge | / | Rehabilitation | für |  | Mütter oder | Väter | gemäß | §§ | 24, 41 | SGB V |  |
+|  | (Muster | 65) |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Erläuterungen | | zu den | einzelnen | Feldern |  |  |  |  |  |  |  |  |  |
+| 1. | Kurze |  | Angaben | zur | Anamnese |  |  |  |  |  |  |  |  |  |
+| Geben | Sie | hier | die | Anamnese | und ggf. | den | bisherigen | Verlauf | der | Krankenbehandlung | |  | einschließlich | der |
+|  | Beschwerden | des | Kindes | an. |  |  |  |  |  |  |  |  |  |  |
+| Stand: | | August | 2018 |  |  |  |  |  |  |  |  |  |  | 1 |
 
-**Hinweistexte für die Erstellung Ärztliches Attest Kind zur Verordnung einer medizi-** **nischen Vorsorge / Rehabilitation für Mütter oder Väter gemäß §§ 24, 41 SGB V** **(Muster 65)**
-
-**Erläuterungen zu den einzelnen Feldern**
-
-**1.****Kurze Angaben zur Anamnese**
-
-Geben Sie hier die Anamnese und ggf. den bisherigen Verlauf der Krankenbehandlung einschließlich der Beschwerden des Kindes an.
-
-Stand: August 2018
-
-**Ausfüllhilfe****Muster 65**
-
-1
-
-
----
-
-
-
-
-
-
+Hinweistexte für die Erstellung Ärztliches Attest Kind zur Verordnung einer medizi- nischen Vorsorge / Rehabilitation für Mütter oder Väter gemäß §§ 24, 41 SGB V (Muster 65) Erläuterungen zu den einzelnen Feldern Kurze Angaben zur Anamnese Geben Sie hier die Anamnese und ggf. den bisherigen Verlauf der Krankenbehandlung einschließlich der Beschwerden des Kindes an. Stand: August 2018  Muster 65
 
 ---
 
 ### Elektronische
 
-**2.****Gesundheitsstörungen**
+**2. Gesundheitsstörungen**
 
 Geben Sie hier die Gesundheitsstörungen des Kindes an (z.B. Übergewicht, psychische Auffälligkeiten).
 
-**3.****Erkrankungen**
+**3. Erkrankungen**
 
-Geben Sie nach ICD-10-GM zu verschlüsseln. Zusätzlich kann die Diagnose als den.
+Geben Sie  nach ICD-10-GM zu verschlüsseln. Zusätzlich kann die Diagnose als  den.
 
-**4.****Weitere relevante Informationen**
+**4. Weitere relevante Informationen**
 
-Hier können weitere Informationen, z.B. zu Behinderungen und graden angegeben werden.
+Hier können weitere Informationen, z.B. zu Behinderungen und  graden angegeben werden.
 
-**5.****Bisherigen Krankenbehandlung und andere Maßnahmen**
+**5. Bisherigen Krankenbehandlung und andere Maßnahmen**
 
-Hier sollen che/psychotherapeutische Interventionen, Arzneimittel führt werden.
+Hier sollen  che/psychotherapeutische Interventionen, Arzneimittel führt werden.
 
-**6.****Empfohlene Interventionen während der Maßnahme**
+**6. Empfohlene Interventionen während der Maßnahme**
 
-Geben Sie die empfohlenen Interventionen für das Kind während der nahme an (z.B. Ernährungsberatung, Mutter-Kind-Interaktion, Sport und Gesundheitstraining).
+Geben Sie die empfohlenen Interventionen für das Kind während der  nahme an (z.B. Ernährungsberatung, Mutter-Kind-Interaktion, Sport und Gesundheitstraining).
 
-**7.****Anforderungen an die Einrichtung**
+**7. Anforderungen an die Einrichtung**
 
 Geben Sie hier an, welche Anforder (z.B. Klima, Barrierefreiheit, spezialisierte Therapieangebote, besondere Kostformen).
 
 **Mehr Informationen**
 
-Themenseite Vorsorge/Kur: [http://www.kbv.de/320215](http://www.kbv.de/320215) Erläuterungen zur [http://www.kbv.de/873744](http://www.kbv.de/873744)
+Themenseite Vorsorge/Kur: [http://www.kbv.de/320215](http://www.kbv.de/320215)  Erläuterungen zur  [http://www.kbv.de/873744](http://www.kbv.de/873744)
 
 Stand: August 2018
 
@@ -75,40 +63,30 @@ durchgeführten Leistungen
 
 ungen an die Vorsorge- oder Rehabilitationseinrichtung gestellt werden
 
-überVordrucke
+über Vordrucke
 
 -/Heilmitteltherapie und andere Maßnahmen aufg e-
 
-fürdie
+für die
 
 Klartext oder Freitext angegeben wer-
 
 Entwicklungsverzögerungen sowie Pflege-
 
-derKrankenbehandlung
+der Krankenbehandlung
 
 Vorsorge- und Rehabilitationsmaß-
 
-vertragsärztlicheVersorgung
+vertragsärztliche
+
+Versorgung
 
 an. Die Diagnosen sind
 
-wie
+wie (PDF,
 
-(PDF,
-
-ärztl
-
-5 MB
+ärztl 5 MB
 
 i-
 
-):
-
-2
-
-
----
-
-
-
+): 2

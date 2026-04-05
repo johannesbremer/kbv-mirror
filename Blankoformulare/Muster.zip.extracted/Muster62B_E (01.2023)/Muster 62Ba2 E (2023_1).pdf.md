@@ -6,7 +6,7 @@ Ich beantrage außerklinische Intensivpflege für die Zeit vombis
 
 Bevollmächtige/r bzw. Betreuer/in
 
-Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege durch An- und Zugehörige angestrebt:
+Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
 
 Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt?
 
@@ -14,9 +14,9 @@ Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Lei
 
 Die außerklinische Intensivpflege wird täglich in der Zeit
 
-Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege durch An- und Zugehörige angestrebt.
+Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt.
 
-Unterschrift des Versicherten oder des gesetzlichen Vertreters
+Unterschrift des Versicherten  oder des gesetzlichen Vertreters
 
 Datum
 
@@ -66,11 +66,11 @@ Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung
 
 in meinem Haushaltim Haushalt einer sonstigen Person
 
-in einer Schule, Kindergarten in einer vollstationären Pflegeeinrichtung
+in einer Schule, Kindergarten in einer vollstationären  Pflegeeinrichtung
 
 in einer betreuten Wohnform
 
-in einer Werkstatt für behinderte Menschen
+in einer Werkstatt für  behinderte Menschen
 
 in einer Wohneinheit
 
@@ -78,4 +78,4 @@ in einer sonstigen Einrichtung
 
 vom bisim Umfang von Stunden erbracht.
 
-PRF.NR. Muster 62Ba.2/E (1.2023)
+PRF.NR.  Muster 62Ba.2/E (1.2023)

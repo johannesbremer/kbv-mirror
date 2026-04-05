@@ -8,15 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | 15 |
-| 2 | 30 |
-| 3 | 45 |
-| 4 | 60 |
-| 5 | 90 |
-| 6 | 120 |
+**Code** 1 2 3 4 5 6
+
 | 7 | über 120 |
+|---|---|
 | 9 | 30 |
 
 Schlüsseltabelle: S_EBM_SCHNITTNAHTZEIT
@@ -27,10 +22,4 @@ Schlüsseltabelle: S_EBM_SCHNITTNAHTZEIT
 
 **01.10.2014**
 
-1
-
-
----
-
-
-
+**Bezeichnung** 15 30 45 60 90 120 1

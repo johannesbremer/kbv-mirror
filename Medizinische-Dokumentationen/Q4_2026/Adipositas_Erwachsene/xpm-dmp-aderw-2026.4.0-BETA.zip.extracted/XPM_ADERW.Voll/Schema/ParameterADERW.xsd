@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Mit XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) von Kassenärztliche Bundesvereinigung (Kassenärztliche Bundesvereinigung) bearbeitet -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="urn::sciphox-org/sciphox" targetNamespace="urn::sciphox-org/sciphox" elementFormDefault="qualified">
+	<!-- Schema -->
+	<xs:simpleType name="AdministrativeDaten">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Einschreibung wegen"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Anamnese">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Körpergröße"/>
+			<xs:enumeration value="Körpergewicht"/>
+			<xs:enumeration value="Blutdruck systolisch"/>
+			<xs:enumeration value="Blutdruck diastolisch"/>
+			<xs:enumeration value="Raucher"/>
+			<xs:enumeration value="Begleiterkrankungen"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TherapeutischeMaßnahmen">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/>
+			<xs:enumeration value="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/>
+			<xs:enumeration value="Regelmäßige körperliche Alltagsaktivität"/>
+			<xs:enumeration value="Regelmäßiges körperliches Training"/>
+			<xs:enumeration value="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/>
+			<xs:enumeration value="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation"/>
+			<xs:enumeration value="Adäquat geändertes Ernährungsverhalten"/>
+			<xs:enumeration value="Prädiabetes bei Einschreibung"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Schulung">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/>
+			<xs:enumeration value="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/>
+			<xs:enumeration value="Adipositas-Schulung wahrgenommen"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="RelevanteEreignisseseitderletztenDokumentation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Manifester Diabetes mellitus Typ 2"/>
+			<xs:enumeration value="Beendigung der DMP-Teilnahme"/>
+		</xs:restriction>
+	</xs:simpleType>
+		<xs:simpleType name="Behandlungsplanung">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/>
+			<xs:enumeration value="Dokumentationsintervall"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

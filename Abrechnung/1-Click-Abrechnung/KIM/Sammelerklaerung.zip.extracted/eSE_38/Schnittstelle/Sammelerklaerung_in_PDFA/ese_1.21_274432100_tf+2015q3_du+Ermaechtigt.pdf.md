@@ -1,5 +1,5 @@
-| Sammelerklärung 3. Quartal 2015 \| Ermächtigte Ärzte |
-|---|
+| Sammelerklärung 3. Quartal 2015 \| Ermächtigte Ärzte | |
+|---|---|
 | Klinik für Orthopädie und Orthopädische Chirurgie mit Sportmedizin Städtisches Krankenhaus Dr. med.  Hans  Schloedermann Facharzt für Orthopädie und Unfallchirurgie Hahnenweg  4 51371  Leverkusen | BSNR: 274432100 Fallzahl: 1302 |
 
 | Ich versichere: |
@@ -35,19 +35,14 @@
 | 1\|2 Bundesausschusses in der jeweils geltenden Fassung wurden beachtet. 2. Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
 |---|
 
-
----
-
-
-
-
+Sammelerklärung 3. Quartal 2015 | Ermächtigte Ärzte 1|2
 
 ---
 
 Formularversion 23.06.2022
 
-| Mir ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, |
-|---|
+| Mir ist bekannt, dass Honorarrückforderungen seitens der KV Nordrhein entstehen, | |
+|---|---|
 |  | wenn die Abrechnung nicht den genannten Bestimmungen entspricht und/oder |
 |  | wenn durch die Beschäftigung eines nicht genehmigten Assistenten/Vertreters Leistungen abgerechnet wurden. |
 
@@ -61,12 +56,4 @@ Formularversion 23.06.2022
 | 2\|2 |
 |---|
 
-
----
-
-
-
-
-
-
-
+2|2

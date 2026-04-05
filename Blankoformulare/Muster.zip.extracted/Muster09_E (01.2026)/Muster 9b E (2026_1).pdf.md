@@ -1,4 +1,4 @@
-**9****Bescheinigung** **einer Fehlgeburt**
+**9Bescheinigung**  **einer Fehlgeburt**
 
 Die oben bezeichnete Versicherte befand sich mindestens in der
 
@@ -22,4 +22,4 @@ Vertragsarztstempel / ärztliche Unterschrift **Ausfertigung zur Vorlage beim Ar
 
 **1. Fehlgeburt am**
 
-PRF.NR. Muster 9b /E (1.2026)
+PRF.NR.  Muster 9b /E (1.2026)

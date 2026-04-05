@@ -8,10 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 1 | Regelfall |
+**Code** 1
+
 | 2 | Preis für unterversorgtes Gebiet |
+|---|---|
 | 3 | Preis für überversorgtes Gebiet |
 
 Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET
@@ -22,10 +22,4 @@ Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET
 
 **01.01.2009**
 
-1
-
-
----
-
-
-
+**Bezeichnung** Regelfall 1

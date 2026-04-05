@@ -1,48 +1,92 @@
-Name, Vorname der des Versicherten
+| Name, Vorname | * der des | Versicherten |  |  |
+|---|---|---|---|---|
+|  |  |  |  | geb. am |
+|  |  |  |  | Datum |
+| Ich empfehle | Ihrem | Kind: |  |  |
+| mehr | Alltagsbewegung |  |  |  |
+| B. (z. | zu Fuß, mit | dem Rad zur | Kita, zur | Schule), |
+|  | regelmäßige Bewegung | durch | ein |  |
+| Sport- | und | Bewegungsangebot, |  |  |
+|  | regelmäßiges | Schwimmen |  |  |
+| zur | Absicherung | der Schwimmfähigkeit. | |  |
+| Hinweise | an den | Sportverein: |  |  |
 
-**Ich empfehle Ihrem Kind:**
+|  | REZEPT | | FÜR |
+|---|---|---|---|
+|  |  | BEWEGUNG | |
+|  | Regelmäßige |  | Bewegung ist |
+|  | wichtig für | eine | gesunde und |
+|  | ganzheitliche | | Entwicklung von |
+|  | Kindern | und | Jugendlichen! |
+|  | Regelmäßige | Bewegung | hilft |
+| dabei, |  | Muskeln, | Knochen, Herz |
+| und | Kreislauf | stark | zu machen. |
+|  | Bewegung | ist auch | gut für die |
+|  | Entwicklung | Ihres | Kindes und |
+| fördert | die |  | Selbstwirksamkeit |
+| und | das | Selbstvertrauen. | Kinder, |
+| die | sich | regelmäßig | bewegen, |
+| können | sich | besser | konzentrieren, |
+| sind |  | entspannter | und trainieren |
+| soziale |  | Kompetenzen. |  |
+| Stempel | und | Unterschrift |  |
+| * Arzt | Ärztin |  |  |
 
-mehr Alltagsbewegung(z.. zu Fuß, mit dem Rad zur Kita, zur Schule),regelmäßige Bewegung durch einSport- und Bewegungsangebot,[ ]regelmäßiges Schwimmenzur Absicherung der Schwimmfähigkeit.B
-
-[ ]
-
-[ ]
-
-**Hinweise an den Sportverein:**
-
-* geb. am Datum
-
-# REZEPT FÜR
-
-# BEWEGUNG
-
-Regelmäßige Bewegung istwichtig für eine gesunde undganzheitliche Entwicklung vonKindern und Jugendlichen!
-
-Regelmäßige Bewegung hilftdabei, Muskeln, Knochen, Herzund Kreislauf stark zu machen.Bewegung ist auch gut für dieEntwicklung Ihres Kindes undfördert die Selbstwirksamkeitund das Selbstvertrauen. Kinder,die sich regelmäßig bewegen,können sich besser konzentrieren,sind entspannter und trainierensoziale Kompetenzen.
-
-Stempel und UnterschriftArzt *Ärztin
-
+Name, Vorname der des Versicherten Ich empfehle Ihrem Kind: mehr Alltagsbewegung  [ ] B. zu Fuß, mit dem Rad zur Kita, zur Schule), regelmäßige Bewegung durch ein  [ ] Sport- und Bewegungsangebot, regelmäßiges Schwimmen  [ ] zur Absicherung der Schwimmfähigkeit. Hinweise an den Sportverein: REZEPT FÜR  Regelmäßige Bewegung ist wichtig für eine gesunde und ganzheitliche Entwicklung von Kindern und Jugendlichen! Regelmäßige Bewegung hilft dabei, Muskeln, Knochen, Herz und Kreislauf stark zu machen. Bewegung ist auch gut für die Entwicklung Ihres Kindes und fördert die Selbstwirksamkeit und das Selbstvertrauen. Kinder, die sich regelmäßig bewegen, können sich besser konzentrieren, sind entspannter und trainieren soziale Kompetenzen. Stempel und Unterschrift Arzt Ärztin
 
 ---
 
-Sie haben die ärztliche Empfehlung, dass Ihr Kind an einemBewegungsangebot teilnimmt. Angebote in Ihrer Nähe finden Sieim Internet unter:www.bewegungslandkarte.deBei Fragen wenden Sie sich bitte an:tjugendDeutscher Olympischer Sportbundwww.dosb.de/rezept-fuer-bewegungE-Mail:[gesundheit@dosb.de](mailto:gesundheit@dosb.de)
+Sie haben die ärztliche Empfehlung, dass Ihr Kind an einem  Bewegungsangebot teilnimmt. Angebote in Ihrer Nähe finden Sie  im Internet unter:
+
+www.bewegungslandkarte.de
+
+Bei Fragen wenden Sie sich bitte an:
+
+Deutscher Olympischer Sportbund
+
+E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)
 
 ### BEWEGUNGSEMPFEHLUNG FÜR KINDER UND JUGENDLICHE
 
-Grundsätzlich gilt:So viel Alltags- und kindgerechte Bewegung wie möglich!Bewegungsarme Kinder schrittweise an Bewegung heranführen!
+Grundsätzlich gilt: So viel Alltags- und kindgerechte Bewegung wie möglich!  Bewegungsarme Kinder schrittweise an Bewegung heranführen!
 
-| Säuglinge und Kleinkinder | Soviel wie möglich Alle Arten kindgemäßer Bewegung |
+**Säuglinge und**  **Kleinkinder**
+
+|  | Alle Arten von Alltagsaktivität, Spiel ≥ 180 |
 |---|---|
-| Kindergarten- kinder | Alle Arten von Alltagsaktivität, Spiel ≥ 180 und Sport, die etwas anstrengend bis anstrengend sind Minuten pro Tag |
-| Grundschul- kinder und Jugendliche | ≥ 90 Bewegungszeiten mit Beanspruchung größerer Muskelgruppen Minuten pro Tag Kraft und Ausdauer stärken 2-3 Mal pro Woche |
+| Kindergarten- |  |
+|  | und Sport, die etwas anstrengend bis |
+| kinder | Minuten |
+|  | anstrengend sind pro Tag |
 
-| Sitzzeiten sollten auf Sitzen brauchen Ruhe kommen | – insbesondere vor Bildschirmmedien – ein Minimum reduziert werden. Kinder jedoch Räume und Zeiten, in denen sie zur und sich erholen können. |
+| Grundschul- |  |
 |---|---|
-| Quelle: modifiziert nach BZgA: Mitteilung des Sportvereins | |
-|  | |
+| kinder und |  |
+| Jugendliche |  |
+|  | Sitzzeiten – insbesondere vor Bildschirmmedien – |
+|  | sollten auf ein Minimum reduziert werden. Kinder |
+| Sitzen |  |
+|  | brauchen jedoch Räume und Zeiten, in denen sie zur |
+|  | Ruhe kommen und sich erholen können. |
 
-/Deutsche Spor
+Quelle: modifiziert nach BZgA: Menschen in Bewegung bringen, 2019
 
-Internet:
+**Mitteilung des Sportvereins an den die Arzt Ärztin:**
+
+Soviel  wie möglich
+
+*****
+
+/ Deutsche Sportjugend
+
+Internet: www.dosb.de/rezept-fuer-bewegung
+
+Alle Arten kindgemäßer Bewegung
+
+*****
+
+***Ihr e Patient in hat an unserem** **Bewegungsangebot teilgenommen.**
 
 Stempel und Unterschrift des Vereins
+
+≥ 90 Minuten pro Tag 2-3 Mal pro Woche Bewegungszeiten mit Beanspruchung größerer Muskelgruppen Kraft und Ausdauer stärken*****

@@ -1,67 +1,65 @@
-**Versicherten-Nr.**  **Arzt-Nr.**  **Euro**  **Ersatz**  **Zylinder**  **Achse**  **Prisma**  **Basis**  **Hilfsmittelpositionsnummer**  **L**  **nein** **Kostenträgerkennung**
-
-**Betriebsstätten-Nr.**
-
-**Status**
-
-**Datum****Belegnummer**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
-
-**Menge und Art der Verordnung:**
-
 **8**
+
+| Unterschrift | des Versicherten |
+|---|---|
+| Erstversorgung | oder Verlust der |
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 
-**dass meine bisherige Sehhilfe verlorengegangen ist**
+**dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
 
-**Ich erkläre,****Datum**
+**Ich erkläre,Erklärung des VersichertenDatum**
 
-**Sehhilfenverordnung**
+**RechnungsnummerIK des LeistungserbringersSehhilfenverordnung**
 
-**Änderung um mindestens** **geb. am****0,5 Dioptrien**
+**geb. am** **Status**
 
-**Krankenkasse bzw. Kostenträger****Name, Vorname des Versicherten**
+|  | Versicherten-Nr. |
+|---|---|
+|  | Arzt-Nr. |
+| Versicherten | Kostenträgerkennung |
 
-| Sehhilfe | | |
-|---|---|---|
-|  | Entscheidung Die noch | |
+**Krankenkasse bzw. KostenträgerName, Vorname des Versicherten**
 
-**Rechnungsnummer**
+**Entscheidung der Krankenkasse**
+
+**Belegnummer**
+
+**Datum**
 
 **Stempel der Krankenkasse und Unterschrift**
 
-**Die Sehhilfe wurde gemäß vorstehender**
+**Euro**
 
-**ang**
+**in Höhe des geltenden Festbetragesin Höhe von**
 
-**Glas / Gläser bzw. Kontaktlinsen**
+**Die Kosten werden übernommenDatum**
 
-**Empfangsbestätigung****Unterschrift des Versicherten****Sonstiges:****Datum**
+**Folge-**
 
-**Reparatur**
+**versorgungleiden (BVG)** **Versorgungs-**
+
+**Ersatz**
+
+**Erst-** **Unfall,**
+
+**Reparatur** **versorgungUnfallfolgen**
 
 **Sehbehinderung** **mindestens WHO 1**
 
-| Versicherten | | | | des |  | Leistungserbringers |
-|---|---|---|---|---|---|---|
+**nein**  **jaja**
 
-**Erklärung des Versicherten**
+**0,5 Dioptrien**
 
-**ja****ja**
+**Menge und Art der Verordnung:Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
 
-|  |  |  | ° |  |  |  | | | |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  | ° | ° |  |  | | | |
-|  |  | ° |  |  |  | | | |
-|  | Sphäre | |  |  |  | | | |
-|  |  | R |  | L |  | | | |
-|  | F L |  | N |  | | | |
+|  | Unterschrift | des Empfängers |
+|---|---|---|
+| und Unterschrift |  |  |
+|  | Gläser bzw. |  |
+|  | Empfangsbestätigung Sonstiges: Datum |  |
 
-**Diagnose/Begründung:****Befund:****Wenn nein, wird eine Verbesserung der Seh-****schärfe um mindestens 20% erzielt?** **IK des Leistungserbringers**
-
-**PRF.NR.** **Muster 8/E (10.2014)**
+**Diagnose/Begründung:**
 
 **Stempel und Unterschrift des Leistungserbringers**
 
@@ -69,10 +67,40 @@
 
 **igung ab**
 
-**passt.** **e** **Ich versichere, dass die gelieferte Sehhilfe** **Bescheinigung des Leistungserbringers****Empfangsbestät****der Verordnung entspricht.****Datum****Unterschrift des Empfängers (Vor- und Zuname)****Zur Beachtung für den Versicherten****Diese Verordnung ist kein Gutschein für einen besti****Die Lieferung anderer Ware anstelle der verordneten Sehhilfen ist** **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**passt.** **e**
 
-**versorgung****versorgung** **R**
+**angIch versichere, dass die gelieferte SehhilfeEmpfangsbestätder Verordnung entspricht.**
 
 **Betrag Euro**
 
-**mmten Betrag.****nicht gestattet.**
+**Kostenrechnung des Leistungserbringers10-stellige** **Hilfsmittelpositionsnummer**
+
+**abstandScheitel-**
+
+**Basis**
+
+**Prisma**  **° ° ° °**
+
+**Achse**
+
+**Zylinder**
+
+**Sphäre** **L LR R** **F N**
+
+**Datum**
+
+**L**  **R**
+
+**nicht gestattet.** **Muster 8/E (10.2014)PRF.NR.**
+
+**mmten Betrag.**
+
+**sbaren Daten.**
+
+**anstelle der verordneten Sehhilfen ist**
+
+**Lieferung anderer Ware** **Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
+
+**Rechnungsbetrag**
+
+Betriebsstätten-Nr. Änderung um mindestens Befund: Unterschrift des Empfängers (Vor- und Zuname) Glas / Gläser bzw. Kontaktlinsen Die Sehhilfe wurde gemäß vorstehender Bescheinigung des Leistungserbringers Unterschrift des Versicherten**Vertragsarztstempel / Unterschrift des Arztes**

@@ -8,25 +8,10 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 01 | Schleswig-Holstein |
-| 02 | Hamburg |
-| 03 | Bremen |
-| 17 | Niedersachsen |
-| 20 | Westfalen-Lippe |
-| 38 | Nordrhein |
-| 46 | Hessen |
-| 51 | Rheinland-Pfalz |
-| 52 | Baden-Württemberg |
-| 71 | Bayerns |
-| 72 | Berlin |
-| 73 | Saarland |
-| 74 | KBV |
-| 78 | Mecklenburg-Vorpommern |
-| 83 | Brandenburg |
-| 88 | Sachsen-Anhalt |
+**Code** 01 02 03 17 20 38 46 51 52 71 72 73 74 78 83 88
+
 | 93 | Thüringen |
+|---|---|
 | 98 | Sachsen |
 
 Schlüsseltabelle: S_KBV_KV
@@ -37,10 +22,4 @@ Schlüsseltabelle: S_KBV_KV
 
 **01.01.2010**
 
-1
-
-
----
-
-
-
+**Bezeichnung** Schleswig-Holstein Hamburg Bremen Niedersachsen Westfalen-Lippe Nordrhein Hessen Rheinland-Pfalz Baden-Württemberg Bayerns Berlin Saarland KBV Mecklenburg-Vorpommern Brandenburg Sachsen-Anhalt 1

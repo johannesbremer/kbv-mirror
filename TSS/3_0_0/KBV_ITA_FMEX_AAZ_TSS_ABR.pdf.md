@@ -4,68 +4,59 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. FEBRUAR 2025 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
+|  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 27. FEBRUAR 2025 VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# 116117
+# ANTRAG AUF ZERTIFIZIERUNG 116117
 
 # ABRECHNUNGSINFORMATION
 
-## [KBV_ITA_
-
-## FMEX_
-
-## AAZ_
-
-## 116117_ABRECHNUNGSINFORMATION
-
-]
+## [KBV_ITA_FMEX_AAZ_116117_ABRECHNUNGSINFORMATION]
 
 Seite 1 von 6 / KBV / Antrag auf Zertifizierung 116117 Abrechnungsinformation / 27. Februar 2025
+
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 
 ---
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-## 116117
+## 116117 ABRECHUNGSINFORMATION 1
 
-## ABRECHUNGSINFORMATION
+## ALLGEMEINE ANGABEN
 
-1
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-## ALLGEMEINE AN
+**1.1 ANTRAGSSTELLER**
 
-G
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
-## ABEN
-
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch dieÜbergabedieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.**1.1****ANTRAG****S****STELLER**Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antragbezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
-
-|  |  |
-|---|---|
-| Name des Antragstellers [bei juristischen Personen ist die Rechtsform |  |
-| Geschäftsbereich [falls vorhanden] |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
-| Webseite |  |
+|  |  | | |
+|---|---|---|---|
+| Name des Antragstellers [bei juristischen Personen ist die Rechtsform anzugeben] |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
+| Straße und Hausnummer |  | | |
+| PLZ, Ort |  | | |
+| Telefonnummer |  | | |
+| E-Mail-Adresse |  | | |
+| Webseite |  | | |
 | Der Antragsteller | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
-| Systempfleger [nur anzugeben, wenn der Systempfleger vom Antragsteller abweicht] |  |
-| Straße und Hausnummer |  |
-| PLZ, Ort |  |
-| Telefonnummer |  |
-| E-Mail-Adresse |  |
+| Systempfleger [nur anzugeben, wenn der Systempfleger vom Antragsteller abweicht] |  | | |
+| Straße und Hausnummer |  | | |
+| PLZ, Ort |  | | |
+| Telefonnummer |  | | |
+| E-Mail-Adresse |  | | |
 
 Seite 2 von 6 / KBV / Antrag auf Zertifizierung 116117 Abrechnungsinformation / Version: 1.0 / 27. Februar 2025
 
+[ ] [ ] [ ]
 
 ---
 
-**1.2**OPTIONALE ANGABEN FÜR KOSTENBESCHEIDENur anzugeben, wenn abweichend von Abschnitt1.1.
+**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -74,29 +65,33 @@ Seite 2 von 6 / KBV / Antrag auf Zertifizierung 116117 Abrechnungsinformation / 
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3**ZERTIFIZIERUNGSGEGENSTANDBitte geben Sie dieBezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
+**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  |
 |---|---|
 | Bezeichnung |  |
 | Identnummer [die letzten drei Stellen der Prüfnummer, falls vorhanden] |  |
 
-**1.4**BETRIEBSSYSTEMEBitte geben Sie im Folgenden an, welcheClient-Betriebssysteme unterstützt werden.
+**1.4**  **BETRIEBSSYSTEME**
 
-|  |  |
-|---|---|
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+
+|  |  | | | | |
+|---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
-| ☐ | iOS/ Android | ☐ | Sonstige |
+| ☐ | iOS/ Android | ☐ | Sonstige | | |
 
 2
 
 ## REALISIERUNG VON ANFORDERUNGEN
 
-**2.1**ZERTIFIZIERUNGSGEGENSTAND
+**2.1 ZERTIFIZIERUNGSGEGENSTAND**
 
 |  |  |
 |---|---|
-| ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der Der Antragsteller nimmt |
+| ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der Der Antragsteller nimmt die Anforderungen K2-512, KP2-512, KP2-513 und P6-804 des |
 
 [ ]
 
@@ -108,6 +103,7 @@ Antragssteller:
 
 [ ]
 
+[ ] [ ] Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS S] umgesetzt sind. Anforderungskataloges KVDT [ KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zur Kenntnis. [ ]
 
 ---
 
@@ -115,24 +111,24 @@ Antragssteller:
 
 ## ANLAGE ZU DEN KONTAKTDATEN
 
-Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die„Geschäftsführung“ zu benennen.
+Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
-|  |
-|---|
-| Ansprechpartner(in) für das vorliegende Zertifizierungsthema |
+|  | |
+|---|---|
+| Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 | Name* |  |
 | Telefonnummer* |  |
 | E-Mail-Adresse* |  |
-| Ansprechpartner(in): Geschäftsführung |
+| Ansprechpartner(in): Geschäftsführung | |
 | Name* |  |
 | Telefonnummer |  |
 | E-Mail-Adresse* |  |
-| Ansprechpartner(in): Produktmanagement |
+| Ansprechpartner(in): Produktmanagement | |
 | Name |  |
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-*Diese Information ist verpflichtend anzugeben
+* Diese Information ist verpflichtend anzugeben
 
 ________________
 
@@ -147,34 +143,71 @@ Antragssteller:
 
 ## KENNTNISNAHME DURCH DEN ANTRAG
 
-S
+## SSTELLER
 
-## STELLER
-
-**I.****Zertifizierungsrahmen**(1)Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.(2)Bei erfolgreichem Abschlussbestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer dieZulassung.(3)Die Laufzeit der Zulassung beträgt 36 Monate.(4)Die Kosten der Zertifizierung könnender folgenden Tabelle entnommen werden.
+**I. Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
 | 116117 | Neu- oder Rezertifizierung | Ergebnisprüfung | 481,67 |
 
-**II.****Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**(1)Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung desZertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.(2)Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vorAuslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt derAntragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommenwurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuerAntrag auf Zertifizierung eingereicht werden muss.(3)Bei weiteren Änderungen, dienicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschender Zulassung führen.(4)Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigenund in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.**III.****Update und weitere Vereinbarungen**(1)Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2Wochen) zur Verfügung gestellt werden.(2)Der Zertifizierungsgegenstand darf keine Applikationen enthalten, dievertragsärztlichenAbrechnungsbestimmungen zu umgehen.(3)Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinieder KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.(4)Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss derAntragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version denAnwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesemZusammenhang den Antragsteller zu einer Stellungnahme auffordern.(5)Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisiertenAnforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zurVerfügung gestelltwerden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBVveröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.(6)Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung–Software für Softwarehersteller-“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
+**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+
+(1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
+
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
+
+(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+
+**III. Update und weitere Vereinbarungen**
+
+(1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
+
+(2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
+
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+
+(4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
+
+(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller-“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 Seite 5 von 6 / KBV / Antrag auf Zertifizierung 116117 Abrechnungsinformation / Version: 1.0 / 27. Februar 2025
 
 Antragssteller:
 
+Abrechnungsinformation
 
 ---
 
-**IV.****Sonstiges**(1)Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen denKassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zustellen, soweit dieses erforderlich ist.(2)Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme derZulassung bewirken.(3)Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen undKostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.(4)Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesemAntrag aufgeführten Aussagen.(5)Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller-undzertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+**IV. Sonstiges**
+
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+
+(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
+
+(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
+
+(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
+
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 |  |  |  |
 |---|---|---|
-| Ort, Datum | Unterschrift |  |
+| Ort, Datum |  | Unterschrift |
 |  |  |  |
-|  | Name in Druckbuchstaben |  |
+|  |  | Name in Druckbuchstaben |
 
-**Ansprechpartner****:**Dezernat Digitalisierung und ITIT in derArztpraxisTel.: 0304005-2077,pruefstelle@kbv.deKassenärztliche BundesvereinigungHerbert-Lewin-Platz 2, 10623 Berlinpruefstelle@kbv.de,www.kbv.de
+**Ansprechpartner:**
+
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Seite 6 von 6 / KBV / Antrag auf Zertifizierung 116117 Abrechnungsinformation / Version: 1.0 / 27. Februar 2025
 

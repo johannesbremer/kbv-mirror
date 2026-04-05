@@ -74,7 +74,7 @@ Status
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Ausfertigung für den spezialisierten Leistungserbri nger**
+**Ausfertigung für den spezialisierten Leistungserbringer**
 
 **PRF.NR.** **Muster 63b/E (10.2014)**
 

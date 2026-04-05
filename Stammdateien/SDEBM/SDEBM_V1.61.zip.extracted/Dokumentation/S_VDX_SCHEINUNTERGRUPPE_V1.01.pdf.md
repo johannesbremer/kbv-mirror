@@ -8,24 +8,26 @@
 
 **gültig ab:**
 
-| Code | Bezeichnung |
-|---|---|
-| 00 | Ambulante Behandlung (Defaultwert) |
-| 20 | Selbstausstellung |
-| 21 | Auftragsleistungen (Defaultwert bei Einsendepraxen) |
-| 23 | Konsiliaruntersuchung |
+**Code** 00 20 21 23
+
 | 24 | Mit-/Weiterbehandlung (Defaultwert; außer bei |
-| 26 | Stationäre Mitbehandlung, Vergütung nach ambulanten Grundsätzen |
-| 27 | Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung |
-| 28 | Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften |
-| 30 | Belegärztliche Behandlung (Defaultwert) |
+|---|---|
+| 26 | Stationäre Mitbehandlung, Vergütung nach ambulanten |
+
+27
+
+28
+
+30
+
 | 31 | Belegärztliche Mitbehandlung |
-| 32 | Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher Behandlung |
-| 41 | Ärztlicher Notfalldienst (Defaultwert) |
-| 42 | Urlaubs-/bzw. Krankheitsvertretung |
-| 43 | Notfall |
-| 44 | Notfalldienst mit Taxi |
+|---|---|
+| 32 | Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher |
+
+41 42 43 44
+
 | 45 | Notarzt-/Rettungswagen (Rettungsdienst) |
+|---|---|
 | 46 | Zentraler Notfalldienst |
 
 Schlüsseltabelle: S_VDX_SCHEINUNTERGRUPPE
@@ -36,10 +38,10 @@ Schlüsseltabelle: S_VDX_SCHEINUNTERGRUPPE
 
 **01.10.2008**
 
-1
+**Bezeichnung** Ambulante Behandlung (Defaultwert) Selbstausstellung Auftragsleistungen (Defaultwert bei Einsendepraxen) Konsiliaruntersuchung
 
+Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung (Defaultwert)
 
----
+Behandlung Ärztlicher Notfalldienst (Defaultwert) Urlaubs-/bzw. Krankheitsvertretung Notfall Notfalldienst mit Taxi
 
-
-
+Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen)1

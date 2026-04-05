@@ -4,10 +4,13 @@ Weitere Informationen zur Einlösung finden Sie unter: gesund.bund.de/digital-ve
 
 Patientenausdruck DIN A5 (7.2026)
 
-**ausgestellt von****ausgestellt am**
+| Ausdruck | zur | Einlösung Ihrer | Verordnung: |
+|---|---|---|---|
+| für |  |  |  |
+| ausgestellt von |  |  |  |
 
-**Ausdruck zur Einlösung Ihrer Verordnung:**
+**ausgestellt am**
 
-**für****geboren am**
+**geboren am**
 
-**Versichertennummer**
+Ausdruck zur Einlösung Ihrer Verordnung:**Versichertennummer**

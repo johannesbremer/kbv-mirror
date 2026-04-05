@@ -6,7 +6,7 @@ Seite 1 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**KASSENÄRZTLICHE** **BUNDESVEREINIGUNG**
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **IT IN DER VERSORGUNG**
 
@@ -19,36 +19,39 @@ Seite 1 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
 ## INHALT
 
-**1**
-
-1.1
+| 1 | EINLEITUNG |  |  |  |  | 4 |
+|---|---|---|---|---|---|---|
+| 1.1 | Definition | der Prüfnummern | der KBV | zur Zertifizierung | von Praxsisoftware | 4 |
 
 **2**
 
 Seite 2 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
-**EINLEITUNG**
-
-Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware
-
 **REFERENZIERTE DOKUMENTE**
-
-**4**
-
-4
 
 **6**
 
+Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware
 
 ---
 
 **DOKUMENTENSTATUS**
 
-| Datum | Autor | Änderung | Begründung |
-|---|---|---|---|
-| 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der Definition von Prüfnummern |
+**Version**
+
+1.0
 
 Seite 3 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+
+| Datum | Autor | Änderung | Begründung |
+|---|---|---|---|
+| 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der |
+|  |  |  | Definition von |
+|  |  |  | Prüfnummern |
+
+**Seite**
+
+alle
 
 
 ---
@@ -57,9 +60,9 @@ Seite 3 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
 ## EINLEITUNG
 
-Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten Monate und müssen dann über Rezertifizierung
+Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf  Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten  Monate und müssen dann über Rezertifizierung
 
-**1.1****DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE**
+**1.1 DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE**
 
 Die Bedeutung der einzelnen Stellen der Prüfnummern
 
@@ -71,11 +74,11 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Softwareklasse:**
 
-**WERT** X Y Z E
+**WERT**  X  Y  Z  E
 
 **Komponente:**
 
-**WERT** 1 2 7 9 43 50-60 63 64 70 71 80 100-110 167 168 169 200-216 400 450 495 500 806-808
+**WERT**  1  2  7  9  43  50-60  63  64  70  71  80  100-110  167  168  169  200-216  400  450  495  500  806-808
 
 Seite 4 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
@@ -83,9 +86,9 @@ en erneuert werden.
 
 ist:
 
-**BEDEUTUNG** System Praxisverwaltungssystem Subsystem Entlassmanagement (Zertifikate vergibt die Deutsche Krankenhausgesellschaft
+**BEDEUTUNG**  System  Praxisverwaltungssystem  Subsystem  Entlassmanagement (Zertifikate vergibt die  Deutsche Krankenhausgesellschaft
 
-**NAME** KVDT ADT KVDT KADT NDT Blankoformularbedruckung Labordatenkommunikation eDokumentation eArztbrief SMC-B VoS-SST AW-SST Digitale Muster DMPs eTerminsevice Kodierunterstützung 1Click mit KIM KVDT-Satzarten und Kombinationen Arzneimittelverordnung VDGA Heilmittelverordnung KVDT SADT KV-SafeNet Versionen 3.1-3.3
+**NAME**  KVDT ADT  KVDT KADT  NDT  Blankoformularbedruckung  Labordatenkommunikation  eDokumentation  eArztbrief  SMC-B  VoS-SST  AW-SST  Digitale Muster  DMPs  eTerminsevice  Kodierunterstützung  1Click mit KIM  KVDT-Satzarten und Kombinationen Arzneimittelverordnung  VDGA  Heilmittelverordnung  KVDT SADT  KV-SafeNet Versionen 3.1-3.3
 
 **-ID**
 
@@ -96,7 +99,7 @@ in der Regel für 36
 
 ---
 
-**WERT** 820-821
+**WERT**  820-821
 
 **Gültigkeitsbeginn:**
 
@@ -114,37 +117,29 @@ Diese identifizieren das System des Herstellers bei der KBV.
 
 Seite 5 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
-**NAME** Richtlinie KV 1.0-1.1
+**NAME**  Richtlinie KV 1.0-1.1
 
 -SafeNet (Netzkopplung) Versionen
 
 
 ---
 
-2
+| 2 |  |  | REFERENZIERTE | | DOKUMENTE |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  | Referenz |  |  |  |  | Dokument | |  |  |
+|  |  | Zertifizierungsrichtlinie | |  |  | Auf | dem | Update-Server | der KBV |
+|  |  |  |  |  |  |  | https://update.kbv.de/ita-up- | | |
+|  |  |  |  |  |  |  |  | date/Allgemein/KBV_ITA_RLEX_Zert.pdf | |
+|  | Zulassungslisten | | für | Praxisverwaltungssysteme | | Auf | der Homepage | der KBV |  |
+|  |  |  |  |  |  |  |  | https://www.kbv.de/html/5614.php | |
+|  |  | Zertifizierungsportal | der | KBV |  | ZPORT | im Internet |  |  |
+|  |  |  |  |  |  |  |  | https://zertifizierungsportal2.kbv.de/zport/ | |
+| Kontakt: | |  |  |  |  |  |  |  |  |
+| Dezernat | | Digitalisierung | | und IT |  |  |  |  |  |
+| IT in | der | Versorgung, | Tel.: | 030 4005-0, | ita@kbv.de |  |  |  |  |
+|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |  |  |
+|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |  |
+|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |  |  |
+| Seite | 6 von 6 | / KBV | / KBV | Prüfnummern Definition | / 15. November | 2023 |  |  |  |
 
-## REFERENZIERTE DOKUMENTE
-
-**Referenz**
-
-Zertifizierungsrichtlinie
-
-Zulassungslisten für Praxisverwaltungssysteme
-
-Zertifizierungsportal der KBV
-
-**Kontakt:**
-
-Dezernat Digitalisierung und IT IT in der Versorgung, Tel.: 030 4005-0, [ita@kbv.de](mailto:ita@kbv.de)
-
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-Seite 6 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
-
-Dokument
-
-Auf dem Update-Server der KBV [https://update.kbv.de/ita-up-](https://update.kbv.de/ita-up-) date/Allgemein/KBV_ITA_RLEX_Zert.pdf
-
-Auf der Homepage der KBV [https://www.kbv.de/html/5614.php](https://www.kbv.de/html/5614.php)
-
-ZPORT im Internet [https://zertifizierungsportal2.kbv.de/zport/](https://zertifizierungsportal2.kbv.de/zport/)
+REFERENZIERTE DOKUMENTE Zulassungslisten für Praxisverwaltungssysteme Zertifizierungsportal der KBV Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, ita@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 6 von 6  /  KBV  /  KBV Prüfnummern Definition  /  15. November 2023 Auf dem Update-Server der KBV Auf der Homepage der KBV ZPORT im Internet

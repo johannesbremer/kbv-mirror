@@ -1,220 +1,112 @@
-| AM | 31. |  |  | 18. | INTEROPERABILITÄT ANBIETERMEETING SEPTEMBER | | DER 2025 | KBV |
+|  |  |  | INTEROPERABILITÄT | |  |  |
+|---|---|---|---|---|---|---|
+| 31. |  |  | ANBIETERMEETING | | DER | KBV |
+|  | AM | 18. | SEPTEMBER |  | 2025 |  |
+|  | MAXIMILIAN |  | REITH |  |  |  |
+| TEAM |  |  | INTEROPERABILITÄT |  |  |  |
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 MAXIMILIAN REITH TEAM INTEROPERABILITÄT
+
+---
+
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
 |---|---|---|---|---|---|---|---|---|
-| TEAM | MAXIMILIAN | | | REITH | INTEROPERABILITÄT |  |  |  |
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
+
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 2
 
 
 ---
 
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
+|---|---|---|---|---|---|---|---|---|
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 3
 
 
 ---
 
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
+|  |  |  |  |  |  |  |  |  |  |  | ↗ SCHLÜSSELTABELLEN | AUF | SIMPILIFER |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 2 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
+|  |  | Schlüsseltabellen | | | auf |  | Simpilifer | |  |  |  |  |  |  |
+|  | Abbildung | der |  |  | KBV-Schlüsseltabellen | | in | FHIR |  |  |  |  |  |  |
+|  | Es gibt | immer | 3 | › Packages | | | | |  |  |  |  |  |  |
+|  |  | kbv.all.st |  | › | | | | |  |  |  |  |  |  |
+|  | ▪ | immer alle |  | aktuell |  | gültigen |  | Schlüsseltabellen | |  |  |  |  |  |
+|  |  | kbv.all.st -rc |  | › | | | | |  |  |  |  |  |  |
+|  | ▪ | immer alle |  | noch | nicht | gültigen | |  | Schlüsseltabellen |  |  |  |  |  |
+|  |  | kbv.all.st | -combined | › | | | | |  |  |  |  |  |  |
+|  | ▪ | immer | alle | gültigen | | und noch | nicht | gültigen | Schlüsseltabellen |  | kombiniert |  |  |  |
+| › |  |  |  |  | https://simplifier.net/kbvschluesseltabellen | | | |  |  |  |  |  |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |  |  |  |  | SEITE | 4 |
+| 31. | ANBIETERMEETING | DER | KBV AM | 18. | SEPTEMBER | 2025 |  |  |  |  |  |  |  |  |
+
+Schlüsseltabellen auf Abbildung der KBV-Schlüsseltabellen in FHIR Es gibt immer 3 Packages immer alle aktuell gültigen Schlüsseltabellen immer alle noch nicht gültigen Schlüsseltabellen immer alle gültigen und noch nicht gültigen Schlüsseltabellen kombiniert SCHLÜSSELTABELLEN AUF SIMPILIFER 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 SEITE 4
 
 
 ---
 
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
+|---|---|---|---|---|---|---|---|---|
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-
-
-
----
-
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 3 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 5
 
 
 ---
 
+|  | KBV.Basis | |  | Update | |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| › | Was | ist | die |  | KBV.Basis | ? |  |  |  |
+|  |  |  | Einheitliche | | Standards | | für alle | Schnittstellen › | der |
+|  | ▪ | KBV |  |  |  |  |  |  |  |
+|  | ▪ |  | mio42 |  |  |  |  |  |  |
+|  | ▪ |  | kv.digital |  |  |  |  |  |  |
+|  |  |  |  | Sektorübergreifend | |  | synchronisiert | › | |
+| › |  | Anpassungen | | für |  | Version | 1.8.0 |  |  |
+|  |  |  | Integration |  | ASV | Template | | › | |
+|  |  |  | Terminabbildung | | |  |  | › | |
+|  |  | Update | |  | Terminologie | |  | › | |
+|  |  |  |  | Konkretisierungen | |  |  | › | |
+|  | › | … |  |  |  |  |  |  |  |
+|  | INTEROPERABILITÄT | |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | | DER KBV | AM 18. | SEPTEMBER | 2025 |  |  |  |
 
+| ↗ | KBV.BASIS |  |
+|---|---|---|
+|  | SEITE | 6 |
 
-
-
----
-
-# Schlüsseltabellen auf
-
-# Simpilifer
-
-## Abbildung der KBV
-
--
-
-## Schlüsseltabellen in FHIR
-
-## ›
-
-## Es gibt immer 3 Packages
-
-## ›
-
-## kbv.all.st
-
--
-
-## immer alle
-
-## aktuell
-
-## gültigen
-
-## Schlüsseltabellen
-
-## ›
-
-## kbv.all.st
-
--
-
-## rc
-
--
-
-## immer alle noch
-
-## nicht
-
-## gültigen
-
-## Schlüsseltabellen
-
-## ›
-
-## kbv.all.st
-
--
-
-## combined
-
--
-
-## immer
-
-## alle gültigen
-
-## und noch
-
-## nicht gültigen
-
-## Schlüsseltabellen kombiniert
-
-## ›
-
-## https://simplifier.net/kbvschluesseltabellen
-
-↗**SCHLÜSSELTABELLEN AUF****SIMPILIFER**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE4
+Was ist die Einheitliche Standards für alle Schnittstellen der Sektorübergreifend synchronisiert Anpassungen für Version 1.8.0 Integration ASV Template Update Terminologie 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 ↗ KBV.BASIS SEITE 6
 
 
 ---
 
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 5 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
+|---|---|---|---|---|---|---|---|---|
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-
----
-
-
-
-
-
----
-
-# KBV.Basis
-
-# Update
-
-## ›
-
-## Was ist die
-
-## KBV.Basis
-
-**?**
-
-## ›
-
-## Einheitliche Standards für alle Schnittstellen der
-
--
-
-## KBV
-
--
-
-## mio42
-
--
-
-## kv.digital
-
-## ›
-
-## Sektorübergreifend synchronisiert
-
-## ›
-
-## Anpassungen für Version 1.8.0
-
-## ›
-
-## Integration ASV Template
-
-## ›
-
-## Terminabbildung
-
-## ›
-
-## Update Terminologie
-
-## ›
-
-## Konkretisierungen
-
-## ›
-
-## …
-
-↗**KBV.BASIS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE6
-
-
----
-
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 7 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
-
-
----
-
-
-
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 7
 
 
 ---
@@ -235,13 +127,7 @@
 
 ## Integration der KBV
 
--
-
-## Basis
-
--
-
-## Profile in der Version 1.7.0 (zur Verbesserung der
+## -Basis-Profile in der Version 1.7.0 (zur Verbesserung der
 
 ## Interoperabilität)
 
@@ -249,11 +135,7 @@
 
 ## Integration der
 
-## eRP
-
--
-
-## Profile in der Version 1.3.2 oder höher (zur Verbesserung der
+## eRP-Profile in der Version 1.3.2 oder höher (zur Verbesserung der
 
 ## Interoperabilität)
 
@@ -269,66 +151,61 @@
 
 ## Anpassungen bezüglich „Digital gestützter Medikationsprozess (
 
-## dgMP
-
-## )“
+## dgMP)“
 
 ## ›
 
 ## Alle Anforderungen bzgl. der KBV
 
--
+## -Zertifizierung wurden aus den Dokumenten entfernt.
 
-## Zertifizierung wurden aus den Dokumenten entfernt.
+↗ VERORDNUNGSSOFTWARESCHNITTSTELLE
 
-↗**VERORDNUNGSSOFTWARESCHNITTSTELLE**
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE8
+SEITE 8
 
 
 ---
 
 # Verordnungssoftwareschnittstelle Update
 
-↗**VERORDNUNGSSOFTWARESCHNITTSTELLE**
+|  | ↗ | VERORDNUNGSSOFTWARESCHNITTSTELLE | |  |
+|---|---|---|---|---|
+| Umsetzung | Mitte | März 2026- |  |  |
+|  | 01.10.2026 |  |  |  |
+|  |  |  | SEITE | 9 |
 
-AnkündigungKommentierungszeitraumHeuteKommentierung 20.10.2025-01.11.2025 inkl.KommentierungsworkshopsBenehmensherstellungDezember-Januar Einvernehmen KIG,Vorstandsbeschluss Januar-März
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+Ankündigung  Kommentierungszeitraum  Heute
 
-Umsetzung Mitte März 2026-01.10.2026
+Kommentierung 20.10.2025- 01.11.2025 inkl.  Kommentierungsworkshops
 
-SEITE9
+Benehmensherstellung  Dezember - Januar
 
-
----
-
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 10 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
+Umsetzung Mitte März 2026- SEITE 9Einvernehmen KIG,  Vorstandsbeschluss Januar -  März
 
 
 ---
 
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
+|---|---|---|---|---|---|---|---|---|
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 10
 
 
 ---
 
 # Arbeitskreis Kernprofile
 
-## Ergebnisse des Arbeitskreises
-
-## Governance
-
-## für Kernprofile
-
-## (Ende März 2025)
+## Ergebnisse des Arbeitskreises Governance für Kernprofile (Ende März 2025)
 
 ## ›
 
@@ -362,9 +239,11 @@ SEITE9
 
 ## Datenelemente sicherstellen.
 
-↗**ARBEITSKREIS KERNPROFILE**
+↗ ARBEITSKREIS KERNPROFILE
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE11
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 11
 
 
 ---
@@ -379,9 +258,7 @@ SEITE9
 
 ## ›
 
-## Implementierung einer
-
-## Governancestruktur
+## Implementierung einer Governancestruktur
 
 ## ›
 
@@ -413,26 +290,25 @@ SEITE9
 
 ## Übernahme Kernprofile in GIGV
 
-↗**ARBEITSKREIS KERNPROFILE**
+↗ ARBEITSKREIS KERNPROFILE
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE12
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
-
----
-
-|  | ↗ |  |  |  |  | SIMPILIFER | | SCHLÜSSELTABELLEN | | | |  | AUF |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ |  |  | UPDATE | KBV.BASIS | | | |  |  |  |  |  |  |
-|  | ↗ |  |  |  |  |  |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
-|  | ↗ |  |  |  |  | ARBEITSKREIS | | | | |  |  | KERNPROFILE |  |
-|  | ↗ |  |  |  | ÜBERBLICK | | | |  |  | EUROPA |  | EHDS |  |
-| 31. |  |  | INTEROPERABILITÄT | SEITE 13 ANBIETERMEETING | DER | KBV | AM | 18. |  | SEPTEMBER | 2025 |  |  |  |
+SEITE 12
 
 
 ---
 
+| ↗ |  |  | SCHLÜSSELTABELLEN | | | AUF | SIMPILIFER |  |
+|---|---|---|---|---|---|---|---|---|
+| ↗ |  | KBV.BASIS | |  | UPDATE |  |  |  |
+| ↗ |  |  |  |  |  | VERORDNUNGSSOFTWARESCHNITTSTELLE | | UPDATE |
+| ↗ |  | ARBEITSKREIS | | |  | KERNPROFILE | |  |
+| ↗ |  | ÜBERBLICK | |  | EUROPA | EHDS | |  |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER KBV | AM | 18. SEPTEMBER | 2025 |  |  |  |
 
-
+SCHLÜSSELTABELLEN AUF VERORDNUNGSSOFTWARESCHNITTSTELLE UPDATE ARBEITSKREIS KERNPROFILE ÜBERBLICK EUROPA EHDS 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 13
 
 
 ---
@@ -441,19 +317,13 @@ SEITE9
 
 ## ›
 
-## WP 5
-
-## Current status of play in EHR and interoperability requirements
+## WP 5 Current status of play in EHR and interoperability requirements
 
 ## ›
 
-## WP 5.1
+## WP 5.1 Technical Requirements for Electronic Health Record (EHR) systems and key system
 
-## Technical Requirements for Electronic Health Record (EHR) systems and key system
-
-## interfaces
-
--
+## interfaces -
 
 ## Kommentierung
 
@@ -463,21 +333,17 @@ SEITE9
 
 ## WP 5.2 Technical Requirements for European Electronic Health Record Exchange
 
-## Format(
-
-## EEHRxF
-
-## ) metadata
-
--
+## Format(EEHRxF) metadata -
 
 ## Kommentierung
 
 ## abgeschlossen
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE14
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 14
 
 
 ---
@@ -494,15 +360,11 @@ SEITE9
 
 ## Implementationguides
 
-## on
-
-## EEHRxF
+## on EEHRxF
 
 ## , functional and technical
 
-## requirements and specifications for EHR systems
-
--
+## requirements and specifications for EHR systems -
 
 ## Kommentierung
 
@@ -516,17 +378,17 @@ SEITE9
 
 ,
 
-## functional and technical requirements and specifications for EHR systems
-
--
+## functional and technical requirements and specifications for EHR systems -
 
 ## Kommentierung
 
 ## abgeschlossen
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE15
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 15
 
 
 ---
@@ -535,17 +397,11 @@ SEITE9
 
 ## ›
 
-## WP 7 Services for the
-
-## ElectronicHealth
+## WP 7 Services for the ElectronicHealth
 
 ## Record
 
-(
-
-## EH
-
-## R)
+## (EHR)
 
 ## ›
 
@@ -555,9 +411,7 @@ SEITE9
 
 ## , functional and
 
-## technical requirements and specifications for EHR systems
-
--
+## technical requirements and specifications for EHR systems -
 
 ## Kommentierung
 
@@ -573,9 +427,7 @@ SEITE9
 
 ## , functional
 
-## and technical requirements and specifications for EHR systems
-
--
+## and technical requirements and specifications for EHR systems -
 
 ## Kommentierung
 
@@ -589,135 +441,58 @@ SEITE9
 
 ## , functional and technical
 
-## requirements and specifications for EHR systems
-
--
+## requirements and specifications for EHR systems -
 
 ## Kommentierung
 
 ## beendet
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE16
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 16
 
 
 ---
 
-# Überblick Europa EHDS
+|  |  | Überblick | |  | Europa |  | EHDS | |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  | WP | 8 |  | Certification | › and | | labelling | | network |
+|  | WP | 8.1 |  | Guidelines | › | for |  | classification | and functional profiles of EHR systems |
+|  | ▪ |  |  | Kommentierung |  |  | verschoben | |  |
+|  | WP | 8.2 |  | EHR | › Conformity | | | Assessment | Scheme-Assertion document |
+|  | ▪ |  |  | Kommentierung |  |  | beendet |  |  |
+|  | WP | 8.3 |  | EHDS | › Guidelines | | | for | manufacturers of wellness applications in Europe |
+|  | ▪ |  |  | Kommentierung |  |  | beendet |  |  |
+|  | INTEROPERABILITÄT | |  |  |  |  |  |  |  |
+| 31. |  | ANBIETERMEETING | | DER KBV AM | 18. | SEPTEMBER | 2025 |  |  |
 
-## ›
+| ↗ ÜBERBLICK | EUROPA | EHDS |  |
+|---|---|---|---|
+|  |  |  | SEITE 17 |
 
-## WP 8 Certification and labelling network
-
-## ›
-
-## WP 8.1 Guidelines for classification and functional profiles of EHR systems
-
--
-
-## Kommentierung
-
-## verschoben
-
-## ›
-
-## WP 8.2 EHR Conformity Assessment Scheme
-
--
-
-## Assertion document
-
--
-
-## Kommentierung
-
-## beendet
-
-## ›
-
-## WP 8.3 EHDS Guidelines for manufacturers of wellness applications in Europe
-
--
-
-## Kommentierung
-
-## beendet
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE17
+Überblick Europa EHDS WP 8 Certification and labelling network WP 8.1 Guidelines for classification and functional profiles of EHR systems WP 8.2 EHR Conformity Assessment Scheme-Assertion document WP 8.3 EHDS Guidelines for manufacturers of wellness applications in Europe 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 ↗ ÜBERBLICK EUROPA EHDS
 
 
 ---
 
-# Überblick Europa EHDS
+|  |  |  |  |  |  |  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Überblick | | Europa | |  | EHDS |  |  |  |  |
+|  | WP 9 |  | Cross-border | › | | telemedicine | |  | services | |  |
+|  | WP | 9.1 |  | Requirements | › | | and | use | cases | on | the availability of health data incross-border |
+|  |  |  | telemedicine |  | services |  |  |  |  |  |  |
+|  | ▪ |  | Kommentierung | |  |  | abgeschlossen | |  |  |  |
+|  | WP |  | 9.2-Technical |  | › | specifications | |  | on the |  | availability of health data incross-border telemedicine |
+|  |  | services | |  |  |  |  |  |  |  |  |
+|  | ▪ |  | Kommentierung | |  |  | abgeschlossen | |  |  |  |
+|  | WP | 9.3 |  | Requirements | › | | for | Large | -Scale |  | Uptake of Telemedicine Service |
+|  | ▪ |  | Kommentierung | |  |  | abgeschlossen | |  |  |  |
+|  | INTEROPERABILITÄT | |  |  |  |  |  |  |  |  | SEITE 18 |
+| 31. |  | ANBIETERMEETING | DER | KBV AM 18. |  | SEPTEMBER | 2025 |  |  |  |  |
 
-## ›
-
-## WP 9 Cross
-
--
-
-## border telemedicine services
-
-## ›
-
-## WP 9.1 Requirements and use cases on the availability of health data
-
-## incross
-
--
-
-## border
-
-## telemedicine services
-
--
-
-## Kommentierung
-
-## abgeschlossen
-
-## ›
-
-## WP 9.2
-
--
-
-## Technical specifications on the availability of health data
-
-## incross
-
--
-
-## border telemedicine
-
-## services
-
--
-
-## Kommentierung
-
-## abgeschlossen
-
-## ›
-
-## WP 9.3 Requirements for Large
-
--
-
-## Scale Uptake of Telemedicine Service
-
--
-
-## Kommentierung
-
-## abgeschlossen
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE18
+Überblick Europa EHDS WP 9 Cross-border telemedicine services WP 9.1 Requirements and use cases on the availability of health data telemedicine services WP 9.2-Technical specifications on the availability of health data WP 9.3 Requirements for Large -Scale Uptake of Telemedicine Service 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -736,13 +511,9 @@ SEITE9
 
 ## Allgemeine Anforderungen
 
--
+## - betreffen die Leistung der Systeme, die Zugangs
 
-## betreffen die Leistung der Systeme, die Zugangs
-
--
-
-## und
+## - und
 
 ## Kontrollrechte natürlicher Personen, die Sicherheit, die Integrität und die Anweisungen für die
 
@@ -750,11 +521,7 @@ SEITE9
 
 ## ›
 
-## Interoperabilitätsanforderungen
-
--
-
-## spezifizieren das Design und die technischen Fähigkeiten,
+## Interoperabilitätsanforderungen - spezifizieren das Design und die technischen Fähigkeiten,
 
 ## die für den sicheren Austausch und Empfang personenbezogener elektronischer
 
@@ -762,35 +529,25 @@ SEITE9
 
 ## Verhinderung unzulässiger Zugangs
 
--
-
-## oder Exportbeschränkungen.
+## - oder Exportbeschränkungen.
 
 ## ›
 
-## Sicherheits
-
-**-**
-
-## und Protokollierungsanforderungen
-
--
-
-## Festlegung robuster Mechanismen für die
+## Sicherheits- und Protokollierungsanforderungen - Festlegung robuster Mechanismen für die
 
 ## Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
 ## Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und
 
--
-
-## analyse
+## -analyse
 
 ## erforderlichen Instrumente.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE19
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 19
 
 
 ---
@@ -803,13 +560,9 @@ SEITE9
 
 ## Allgemeine Anforderungen
 
--
+## - betreffen die Leistung der Systeme, die Zugangs
 
-## betreffen die Leistung der Systeme, die Zugangs
-
--
-
-## und
+## - und
 
 ## Kontrollrechte natürlicher Personen, die Sicherheit, die Integrität und die Anweisungen für die
 
@@ -819,11 +572,7 @@ SEITE9
 
 ## Beispiele für
 
-v
-
-## erpflichtende Anforderungen(Übersetzt)
-
--
+## verpflichtende Anforderungen(Übersetzt) -
 
 ## Das System muss so konstruiert und hergestellt sein, dass es bei bestimmungsgemäßer
 
@@ -835,42 +584,32 @@ v
 
 ## elektronischen personenbezogenen Gesundheitsdaten im EHR
 
--
-
-## System ermöglichen. Eine
+## -System ermöglichen. Eine
 
 ## solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen
 
 ## werden und muss protokolliert werden.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE20
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 20
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.1
+## WP 5.1 - Allgemeine Anforderungen
 
--
-
-## Allgemeine Anforderungen
-
--
-
-## Beispiele für verpflichtende Anforderungen übersetzt
-
--
+## - Beispiele für verpflichtende Anforderungen übersetzt -
 
 ## Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten
 
 ## elektronischen personenbezogenen Gesundheitsdaten im EHR
 
--
-
-## System ermöglichen. Eine
+## -System ermöglichen. Eine
 
 ## solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen
 
@@ -890,15 +629,7 @@ v
 
 ## failure
 
-## maps
-
-## , alert
-
-## override
-
-## analytics
-
-## und
+## maps, alert override analytics und
 
 ## Interoperabilitätsmatrizen einreichen.
 
@@ -908,9 +639,11 @@ v
 
 ## noch ihre Leistungsfähigkeit einbüßen.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE21
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 21
 
 
 ---
@@ -921,11 +654,7 @@ v
 
 ## ›
 
-## Interoperabilitätsanforderungen
-
--
-
-## spezifizieren das Design und die technischen Fähigkeiten, die
+## Interoperabilitätsanforderungen - spezifizieren das Design und die technischen Fähigkeiten, die
 
 ## für den sicheren Austausch und Empfang personenbezogener elektronischer Gesundheitsdaten
 
@@ -933,15 +662,11 @@ v
 
 ## unzulässiger Zugangs
 
--
-
-## oder Exportbeschränkungen.
+## - oder Exportbeschränkungen.
 
 ## ›
 
-## Beispiele für verpflichtende Anforderungen(Übersetzt)
-
--
+## Beispiele für verpflichtende Anforderungen(Übersetzt) -
 
 ## Interoperabilitätsfunktionen dürfen die beabsichtigte Leistung des Systems oder die
 
@@ -951,66 +676,40 @@ v
 
 ## Das System muss eine Schnittstelle (API) bieten, die die Datenausgabe im
 
-## EEHRxF
-
--
-
-## Format
+## EEHRxF-Format
 
 ## unterstützt.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE22
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 22
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.1
+## WP 5.1 - Interoperabilitätsanforderungen
 
--
-
-## Interoperabilitätsanforderungen
-
--
-
-## Beispiele für verpflichtende Anforderungen übersetzt
-
--
+## - Beispiele für verpflichtende Anforderungen übersetzt -
 
 ## Das System muss die europäische Interoperabilitäts
 
--
+## -Softwarekomponenten integrieren, um
 
-## Softwarekomponenten integrieren, um
-
-## die Einhaltung der EU
+## die Einhaltung der EU-weiten Standards sicherzustellen.
 
 -
 
-## weiten Standards sicherzustellen.
+## Das EHR-System muss HL7 FHIR und DICOM/
 
--
-
-## Das EHR
-
--
-
-## System muss HL7 FHIR und DICOM/
-
-## DICOMweb
-
-## sowie anerkannte Terminologien für
+## DICOMweb sowie anerkannte Terminologien für
 
 ## den strukturierten Datenaustausch der priorisierten Datenkategorien übernehmen, um sich
 
-## an den
-
-## EEHRxF
-
-## (…) anzupassen.
+## an den EEHRxF (…) anzupassen.
 
 -
 
@@ -1022,9 +721,11 @@ v
 
 ## eingefügt wurden (EHDS, Artikel 5)
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE23
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 23
 
 
 ---
@@ -1035,23 +736,13 @@ v
 
 ## ›
 
-## Sicherheits
-
-**-**
-
-## und Protokollierungsanforderungen
-
--
-
-## Festlegung robuster Mechanismen für die
+## Sicherheits- und Protokollierungsanforderungen - Festlegung robuster Mechanismen für die
 
 ## Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
 ## Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und
 
--
-
-## analyse
+## -analyse
 
 ## erforderlichen Instrumente.
 
@@ -1063,9 +754,7 @@ v
 
 ## Das System muss Authentifizierungsmittel (z. B. die EUDI
 
--
-
-## Wallet) verwenden, die gemäß
+## -Wallet) verwenden, die gemäß
 
 ## eIDAS
 
@@ -1073,36 +762,24 @@ v
 
 ## Gesundheitsberufe anerkannt sind (siehe EHDS Art. 12).
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE24
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 24
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.1
-
--
-
-## Sicherheits
-
-**-**
-
-## und Protokollierungsanforderungen
-
-**-**
-
-## Beispiele für verpflichtende
+## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende
 
 ## Anforderungen(Übersetzt)
 
 ## ›
 
-## Das Protokoll muss mindestens folgende Angaben enthalten:
-
--
+## Das Protokoll muss mindestens folgende Angaben enthalten: -
 
 ## Die Kennung des Gesundheitsdienstleisters und der Person, die auf die Daten zugegriffen
 
@@ -1114,9 +791,7 @@ v
 
 ## (d. h. Patienten
 
--
-
-## ID).
+## -ID).
 
 -
 
@@ -1134,213 +809,95 @@ v
 
 ## ›
 
-## ii. Breaking
+## ii. Breaking the glass: Wenn ein „Breaking
 
-## the
-
-## glass
-
-## : Wenn ein „Breaking
-
-## the
-
-## glass
-
-## ”
-
--
-
-## Szenario eingetreten ist, muss das Ereignis
+## the glass”-Szenario eingetreten ist, muss das Ereignis
 
 ## als solches gekennzeichnet werden.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE25
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 25
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.1
-
--
-
-## Sicherheits
-
-**-**
-
-## und Protokollierungsanforderungen
-
-**-**
-
-## Beispiele für verpflichtende
+## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende
 
 ## Anforderungen(Übersetzt)
 
 ## ›
 
-## Das EHR
-
--
-
-## System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren
+## Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren
 
 ## Mitgliedstaaten berücksichtigen
 
-## –
-
-## insbesondere für primäre Kategorien personenbezogener
+## – insbesondere für primäre Kategorien personenbezogener
 
 ## elektronischer Gesundheitsdaten.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE26
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 26
+
+
+---
+
+|  |  |  |  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|---|---|---|
+|  |  | Überblick | |  | Europa | | EHDS |  |
+| WP |  | 5.2 |  |  |  |  |  |  |
+| › |  | Technische | |  | Anforderungen | |  | für EEHRxF-Metadaten |
+|  |  |  |  | Metadaten-Framework | | › | zur | Unterstützung des European Electronic Health Record Exchange |
+|  |  | Format |  | (EEHRxF) |  |  |  |  |
+| › |  | Ziele: |  |  |  |  |  |  |
+|  | ▪ |  |  | Auffindbarkeit |  |  |  |  |
+|  | ▪ |  |  | Interoperabilität | |  |  |  |
+|  | ▪ |  |  | Zugangskontrolle | |  |  |  |
+|  | ▪ |  |  | Wiederverwendbarkeit | | | |  |
+|  | ▪ |  | Überwachung | | der |  | Einhaltung | von Vorschriften |
+|  |  | INTEROPERABILITÄT |  |  |  |  |  | SEITE 27 |
+| 31. |  | ANBIETERMEETING | | DER KBV | AM 18. | SEPTEMBER | 2025 |  |
+
+Überblick Europa EHDS WP 5.2 Technische Anforderungen für Metadaten-Framework zur Unterstützung des European Electronic Health Format (EEHRxF) Überwachung der Einhaltung von Vorschriften 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+
+---
+
+|  |  |  |  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|---|---|---|
+|  |  | Überblick | |  | Europa | | EHDS |  |
+| WP |  | 5.2 |  |  |  |  |  |  |
+| › |  | Technische | |  | Anforderungen | |  | für EEHRxF-Metadaten |
+|  |  |  |  | Metadaten-Framework | | › | zur | Unterstützung des European Electronic Health Record Exchange |
+|  |  | Format |  | (EEHRxF) |  |  |  |  |
+| › |  | Ziele: |  |  |  |  |  |  |
+|  | ▪ |  |  | Auffindbarkeit |  |  |  |  |
+|  | ▪ |  |  | Interoperabilität | |  |  |  |
+|  | ▪ |  |  | Zugangskontrolle | |  |  |  |
+|  | ▪ |  |  | Wiederverwendbarkeit | | | |  |
+|  | ▪ |  | Überwachung | | der |  | Einhaltung | von Vorschriften |
+|  |  | INTEROPERABILITÄT |  |  |  |  |  | SEITE 28 |
+| 31. |  | ANBIETERMEETING | | DER KBV | AM 18. | SEPTEMBER | 2025 |  |
+
+Überblick Europa EHDS WP 5.2 Technische Anforderungen für Metadaten-Framework zur Unterstützung des European Electronic Health Format (EEHRxF) Überwachung der Einhaltung von Vorschriften 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.2
-
-## ›
+## WP 5.2 -
 
 ## Technische Anforderungen für
 
-## EEHRxF
-
-**-**
-
-## Metadaten
-
-## ›
-
-## Metadaten
-
--
-
-## Framework zur Unterstützung des European Electronic Health
-
-## Record
-
-## Exchange
-
-## Format (
-
-## EEHRxF
-
-)
-
-## ›
-
-## Ziele:
-
--
-
-## Auffindbarkeit
-
--
-
-## Interoperabilität
-
--
-
-## Zugangskontrolle
-
--
-
-## Wiederverwendbarkeit
-
--
-
-## Überwachung der Einhaltung von Vorschriften
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE27
-
-
----
-
-# Überblick Europa EHDS
-
-## WP 5.2
-
-## ›
-
-## Technische Anforderungen für
-
-## EEHRxF
-
-**-**
-
-## Metadaten
-
-## ›
-
-## Metadaten
-
--
-
-## Framework zur Unterstützung des European Electronic Health
-
-## Record
-
-## Exchange
-
-## Format (
-
-## EEHRxF
-
-)
-
-## ›
-
-## Ziele:
-
--
-
-## Auffindbarkeit
-
--
-
-## Interoperabilität
-
--
-
-## Zugangskontrolle
-
--
-
-## Wiederverwendbarkeit
-
--
-
-## Überwachung der Einhaltung von Vorschriften
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE28
-
-
----
-
-# Überblick Europa EHDS
-
-## WP 5.2
-
--
-
-## Technische Anforderungen für
-
-## EEHRxF
-
-**-**
-
-## Metadaten
+## EEHRxF-Metadaten
 
 ## ›
 
@@ -1368,9 +925,7 @@ v
 
 ## ur Unterstützung von
 
-## Governance
-
-## , Zugriff und Lebenszyklusmanagement.
+## Governance, Zugriff und Lebenszyklusmanagement.
 
 ## ›
 
@@ -1382,146 +937,63 @@ v
 
 ## Fallmanagements.
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE29
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 29
+
+
+---
+
+|  | Überblick |  |  | Europa | EHDS |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| WP 5.2 | - | Technische | |  | Anforderungen | für |  |  | EEHRxF-Metadaten | |  |
+| › | Beschreibende | |  | Metadaten | |  |  |  |  |  |  |
+|  | Document | | Type | › (e.g., | discharge |  | summary, |  | laboratory | report) |  |
+|  | Title | and |  | › Beschreibung | | | |  |  |  |  |
+|  | Autoren | and |  | › | Organisationen |  |  |  |  |  |  |
+|  | Erstellungs | - | and | › | Anpassungsdatum | |  |  |  |  |  |
+|  | Sprache | und |  | › Format | | | |  |  |  |  |
+|  |  | Versionsinformationen | | › | | | |  |  |  |  |
+|  | Sicherheits- | | und | › | | Vertraulichkeitsstufen | |  |  |  |  |
+|  |  |  |  | › Dokumentenklassifizierungsschemata | | | (z. | B. | FHIR | DocumentReference | ) |
+| INTEROPERABILITÄT | |  |  |  |  |  |  |  |  |  |  |
+| 31. | ANBIETERMEETING | DER | KBV AM | 18. | SEPTEMBER 2025 |  |  |  |  |  |  |
+
+| ↗ ÜBERBLICK | EUROPA | EHDS |  |
+|---|---|---|---|
+|  |  |  | SEITE 30 |
+
+Überblick Europa EHDS Technische Anforderungen für Beschreibende Metadaten Document Type (e.g., discharge summary, laboratory report) Title and Beschreibung and Organisationen and Anpassungsdatum Sprache und Format Sicherheits- und Vertraulichkeitsstufen Dokumentenklassifizierungsschemata (z. B. FHIR 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 ↗ ÜBERBLICK EUROPA EHDS
+
+
+---
+
+|  |  |  |  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|---|---|---|
+|  | Überblick | |  | Europa |  | EHDS |  |  |
+| WP | 5.2 - |  | Technische |  |  | Anforderungen | für | EEHRxF-Metadaten |
+| › | Strukturelle | |  | Metadaten | |  |  |  |
+|  |  |  | Dokumentenschema | | › oder | Template | ID |  |
+|  |  |  | Abschnittsüberschriften | | › | und | Hierarchien | |
+|  | FHIR |  | Ressourcen | | ›- | | | |
+|  |  | Verknüpfung | | mit | › | Terminologien | und | Codesystemen (z. B. SNOMED CT, LOINC) |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  | SEITE 31 |
+| 31. | ANBIETERMEETING | DER | KBV | AM 18. | SEPTEMBER | 2025 |  |  |
+
+Überblick Europa EHDS WP 5.2 Technische Anforderungen für Strukturelle Metadaten Dokumentenschema oder Template ID Abschnittsüberschriften und Hierarchien Verknüpfung mit Terminologien und Codesystemen (z. B. SNOMED CT, LOINC) 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
 
 # Überblick Europa EHDS
 
-## WP 5.2
-
--
+## WP 5.2 -
 
 ## Technische Anforderungen für
 
-## EEHRxF
-
-**-**
-
-## Metadaten
-
-## ›
-
-## Beschreibende Metadaten
-
-## ›
-
-## Document Type (e.g., discharge summary, laboratory report)
-
-## ›
-
-## Title and
-
-## Beschreibung
-
-## ›
-
-## Autoren
-
-## and
-
-## Organisationen
-
-## ›
-
-## Erstellungs
-
--
-
-## and
-
-## Anpassungsdatum
-
-## ›
-
-## Sprache und Format
-
-## ›
-
-## Versionsinformationen
-
-## ›
-
-## Sicherheits
-
--
-
-## und Vertraulichkeitsstufen
-
-## ›
-
-## Dokumentenklassifizierungsschemata (z. B. FHIR
-
-## DocumentReference
-
-)
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE30
-
-
----
-
-# Überblick Europa EHDS
-
-## WP 5.2
-
--
-
-## Technische Anforderungen für
-
-## EEHRxF
-
-**-**
-
-## Metadaten
-
-## ›
-
-## Strukturelle Metadaten
-
-## ›
-
-## Dokumentenschema oder Template ID
-
-## ›
-
-## Abschnittsüberschriften und Hierarchien
-
-## ›-
-
-## FHIR
-
-## Ressourcen
-
-## ›
-
-## Verknüpfung mit Terminologien und Codesystemen (z. B. SNOMED CT, LOINC)
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE31
-
-
----
-
-# Überblick Europa EHDS
-
-## WP 5.2
-
--
-
-## Technische Anforderungen für
-
-## EEHRxF
-
-**-**
-
-## Metadaten
+## EEHRxF-Metadaten
 
 ## ›
 
@@ -1549,74 +1021,30 @@ v
 
 ## Datenaufbewahrung)
 
-↗**ÜBERBLICK EUROPA EHDS**
+↗ ÜBERBLICK EUROPA EHDS
 
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE32
+**INTEROPERABILITÄT** 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+SEITE 32
 
 
 ---
 
-# Überblick Europa EHDS
+|  |  |  |  |  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|---|---|---|---|
+|  | Überblick | |  | Europa | EHDS | |  |  |  |
+| WP | 5.2 - | Technische | |  | Anforderungen | | für |  | EEHRxF-Metadaten |
+| › | Metadaten | | zu | klinischen |  | Inhalten | |  |  |
+|  |  |  | Patientenidentifikatoren | › | | | (einschließlich | | pseudonymisierter oder grenzüberschreitender IDs) |
+|  |  | Arztkontakt |  | › und | | Episodenidentifikatoren | | | |
+|  |  | Mitglieder | und | › Rollen | des |  |  | Behandlungsteams | |
+|  | Zeitliche |  |  | › Markierungen | | (z. B. | Beginn, | | Aufnahme, Entlassungsdaten) |
+|  | Klinische |  | Konzepte | › | und | Diagnosen | |  |  |
+|  |  | Kontextuelle | | › | Beziehungen | (z. | B. | Eltern | -Kind-Dokumentenbeziehungen) |
+|  | INTEROPERABILITÄT |  |  |  |  |  |  |  | SEITE 33 |
+| 31. | ANBIETERMEETING | DER | KBV | AM 18. | SEPTEMBER | 2025 |  |  |  |
 
-## WP 5.2
-
--
-
-## Technische Anforderungen für
-
-## EEHRxF
-
-**-**
-
-## Metadaten
-
-## ›
-
-## Metadaten zu klinischen Inhalten
-
-## ›
-
-## Patientenidentifikatoren
-
-## (einschließlich pseudonymisierter oder grenzüberschreitender IDs)
-
-## ›
-
-## Arztkontakt und
-
-## Episodenidentifikatoren
-
-## ›
-
-## Mitglieder und Rollen des
-
-## Behandlungs
-
-## teams
-
-## ›
-
-## Zeitliche Markierungen (z. B. Beginn, Aufnahme, Entlassungsdaten)
-
-## ›
-
-## Klinische Konzepte und Diagnosen
-
-## ›
-
-## Kontextuelle Beziehungen (z. B. Eltern
-
--
-
-## Kind
-
--
-
-## Dokumentenbeziehungen)
-
-↗**ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE33
+Überblick Europa EHDS WP 5.2 Technische Anforderungen für Metadaten zu klinischen Inhalten  (einschließlich pseudonymisierter oder grenzüberschreitender IDs) Arztkontakt und Mitglieder und Rollen des Zeitliche Markierungen (z. B. Beginn, Aufnahme, Entlassungsdaten) Klinische Konzepte und Diagnosen Kontextuelle Beziehungen (z. B. Eltern 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---

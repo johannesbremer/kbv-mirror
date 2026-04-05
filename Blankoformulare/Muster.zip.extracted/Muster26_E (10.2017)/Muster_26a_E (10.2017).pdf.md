@@ -54,7 +54,9 @@
 
 **Datum**
 
-**wird** **vermieden verkürzt**
+|  | wird |  | wird ist nicht |  |
+|---|---|---|---|---|
+|  | vermieden verkürzt |  | ausführbar |  |
 
 ## Verordnung Soziotherapie
 
@@ -78,8 +80,6 @@
 
 ***e vorlegen!***
 
-**wird ist nicht**
-
 **Angaben des nächsten Angehörigen** **Name**
 
 **Straße**
@@ -93,8 +93,6 @@
 **PLZ**
 
 **Telefonnummer**
-
-ausführbar
 
 **Datum**
 
