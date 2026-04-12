@@ -57,42 +57,74 @@ Seite 3 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-| 2. |  | KONVENTIONEN | ZU | SDOPS |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 2.1 | ZEICHENSATZ | |  |  |  |  |  |  |  |  |  |  |
-| Der | Standard-Zeichensatz | | ist | ISO-8859-15. |  |  |  |  |  |  |  |  |
-| 2.2 | NAMESPACE |  |  |  |  |  |  |  |  |  |  |  |
-| Der | Standard-Namespace | | ist | urn:ehd/sdops/001. |  |  |  |  |  |  |  |  |
-| 2.3 | ROOT-SCHEMA | |  |  |  |  |  |  |  |  |  |  |
-| Das | Root-Schema, | worin | die | abgeleiteten | ehd-Schemata | sowie | die |  | projektbezogenen | body-Schemata | | inkludiert |
-| sind, | heißt | sdops_root_V1.00.xsd. | |  |  |  |  |  |  |  |  |  |
-| 2.4 | DATEINAMEN | |  |  |  |  |  |  |  |  |  |  |
-| Die | Vergabe der | Dateinamen | erfolgt | nach | ehd-Richtlinie. |  |  |  |  |  |  |  |
-|  | Dateinamenskonvention | | nach | ehd-Richtlinie: |  |  |  |  |  |  |  |  |
-| [ |  |  | ehd.]datatyp_vv.vv_sender_[tf+val]_[nr+val]_[du+val].xml | | | |  |  |  |  |  |  |
-| Zeichen |  |  |  | Erläuterung |  |  |  |  |  |  |  |  |
-| _ |  |  |  | Trennungszeichen |  | zwischen | den | Namenselementen | |  |  |  |
-| datatyp |  |  |  | Datentyp, | "Satzart", | "ehd." ist | optional | als | Vorsatz | erlaubt; | Entspricht dem |  |
-|  |  |  |  | Header-Element |  | <document_type_cd>. | |  |  |  |  |  |
-| vv.vv |  |  |  | VersionsNr. der |  | Datentypbeschreibung; | |  | Entspricht dem | Element | <version> | des |
-|  |  |  |  | Header-Elements |  | <interface>. |  |  |  |  |  |  |
-| sender |  |  |  | Absender der | Lieferung | (nicht | immer | mit | Erzeuger bzw. |  | Erstlieferanten | der Daten |
-|  |  |  |  | identisch) bzw. | wer hat | die | Daten | geliefert; | Entspricht | dem | Element | <person> |
-|  |  |  | oder | dem | Element | <organization> | des |  | Header-Elements | <provider>. |  |  |
-| tf+ |  |  |  | timeframe | (YYYYqQ) |  |  |  |  |  |  |  |
-| YYYY |  |  | Jahr |  |  |  |  |  |  |  |  |  |
-| nr+ |  |  |  | number – | optional | Nummer | der | Lieferung, | falls zu | einem Zeitraum | mehrere | |
-|  |  |  |  | Lieferungen | erfolgen |  |  |  |  |  |  |  |
-| du+ |  |  | dummy | – | optionaler | Platzhalter | z.B. | für Tests, | kann | auch mehrmals |  | verwendet |
-|  |  |  | werden |  |  |  |  |  |  |  |  |  |
-| Beispiel: |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | SDOPS_01.00_74_tf+2019_nr+1.xml | |  |  |  |  |  |  |  |  |  |
-| 2.5 | SEMANTIK | DER | VERWENDETEN |  | DIAGRAMMSYMBOLE | |  |  |  |  |  |  |
-| Zur | Visualisierung | der | verwendeten | XML-Schemata | | werden | Diagramme | | verwendet, | deren | Symbole in | den |
-| folgenden | Kapiteln | kurz | erläutert | werden. |  |  |  |  |  |  |  |  |
-| Seite 4 | von 12 / | KBV / | Stammdateien der KBV | - SDOPS | (Operationen- und |  | Prozedurenschlüsselstammdatei) | | / Version | 1.00 |  |  |
+## 2.
 
-KONVENTIONEN ZU SDOPS Der Standard-Zeichensatz ist ISO-8859-15. Der Standard-Namespace ist urn:ehd/sdops/001. Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt sdops_root_V1.00.xsd. Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie. Dateinamenskonvention nach ehd-Richtlinie: [ ehd.]datatyp_vv.vv_sender_[tf+val]_[nr+val]_[du+val].xml SEMANTIK DER VERWENDETEN DIAGRAMMSYMBOLE Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den folgenden Kapiteln kurz erläutert werden. Seite  4  von  12  / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 Trennungszeichen zwischen den Namenselementen Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem Header-Element <document_type_cd>. VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> des Header-Elements <interface>. Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. timeframe (YYYYqQ) number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen erfolgen dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet
+## KONVENTIONEN ZU SDOPS 2.1 ZEICHENSATZ
+
+Der Standard-Zeichensatz ist ISO-8859-15.
+
+2.2 NAMESPACE
+
+Der Standard-Namespace ist urn:ehd/sdops/001.
+
+2.3 ROOT-SCHEMA
+
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt sdops_root_V1.00.xsd.
+
+2.4 DATEINAMEN
+
+Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
+
+Dateinamenskonvention nach ehd-Richtlinie:
+
+[ ehd.]datatyp_vv.vv_sender_[tf+val]_[nr+val]_[du+val].xml
+
+Zeichen
+
+_
+
+datatyp
+
+vv.vv
+
+sender
+
+tf+
+
+YYYY
+
+nr+
+
+du+
+
+Beispiel:
+
+SDOPS_01.00_74_tf+2019_nr+1.xml
+
+2.5 SEMANTIK DER VERWENDETEN DIAGRAMMSYMBOLE
+
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den folgenden Kapiteln kurz erläutert werden.
+
+Seite 4 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
+
+Erläuterung
+
+Trennungszeichen zwischen den Namenselementen
+
+Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem Header-Element <document_type_cd>.
+
+VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> des Header-Elements <interface>.
+
+Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>.
+
+timeframe (YYYYqQ)
+
+Jahr
+
+number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen erfolgen
+
+dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden
+
 
 ---
 
@@ -187,13 +219,14 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 ---
 
-| 4. |  | HEADER |  | (METADATEN) | | IN | SDOPS |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Für | die | Beschreibung | | der Inhalte | und | deren | Ausprägungen | der header-Elemente | wird | auf | die jeweils | aktuelle |
-|  | Version | der |  | ehd-Schnittstellenbeschreibung | | [1] | verwiesen. |  |  |  |  |  |
-| Seite | 8 von | 12 / | KBV / | Stammdateien | der KBV - SDOPS | (Operationen- | und | Prozedurenschlüsselstammdatei) | / Version | 1.00 |  |  |
+## 4.
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.  Seite  8  von  12  / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 HEADER (METADATEN) IN SDOPS
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
+
+Seite 8 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
+
+## HEADER (METADATEN) IN SDOPS
+
 
 ---
 

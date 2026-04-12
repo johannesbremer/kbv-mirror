@@ -79,38 +79,18 @@ Allgemeine Festlegungen Style Guide Service Base URL & Type Logische ID, Metadat
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Systemarchitektur | |  |  |  |  |  |
-|  | Abbildung 2: | genereller | Ablauf |  |  |  |  |  |
-|  |  | TABELLENVEREZEICHNIG | |  |  |  |  |  |
-| Tabelle | 1: | 74_PR_KS_Behandelnder | |  |  |  |  |  |
-| Tabelle | 2: |  | 74_PR_KS_BehandelnderFunktion | |  |  |  |  |
-| Tabelle | 3: |  | 74_PR_KS_Betriebsstaette |  |  |  |  |  |
-| Tabelle | 4: | 74_PR_KS_Bundle | |  |  |  |  |  |
-| Tabelle | 5: | 74_PR_KS_Position | |  |  |  |  |  |
-| Tabelle | 6: |  | 74_EX_KS_Position_Distanz |  |  |  |  |  |
-| Tabelle | 7: |  | 74_EX_KS_Position_Zusatzinformation | | |  |  |  |
-| Tabelle | 8: | 74_EX_KS_Resultlimit | |  |  |  |  |  |
-| Tabelle | 9: |  |  | 74_EX_KS_BehandelnderFunktion_Bemerkung | | |  |  |
-| Tabelle | 10: |  | 74_EX_KS_Fremdsprache |  |  |  |  |  |
-| Tabelle | 11: |  | 74_CS_SFHIR_BAR2_BARRIEREFREIHEIT | | |  |  |  |
-| Tabelle | 13: |  | 74_CS_SFHIR_BAR2_WBO |  |  |  |  |  |
-| Tabelle | 14: |  | 74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG | | |  |  |  |
-| Tabelle | 15: |  | 74_CS_SFHIR_BAR_FREMDSPRACHE | | |  |  |  |
-| Tabelle | 16: |  | 74_CS_SFHIR_BAS_ARZTGRUPPE_ALT | | |  |  |  |
-| Tabelle | 17: | unveränderte |  | FHIR®-Ressourcen |  |  |  |  |
-| Tabelle | 18: | Suchparameter | für | PractitionerRole | |  |  |  |
-| Tabelle | 19: | Statuscode | und | Antworten in | der search | -Interaktion |  |  |
-| Tabelle | 20: | Statuscode | und Antworten | in der | capabilites | | -Interaktion |  |
-| Tabelle | 21: | Interaktionen | auf den |  | FHIR®-Ressourcen |  |  |  |
-| SEITE | 3 VON 28 / | KBV / | WEBSERVICE-KOLLEGENSUCHE | DER | KBV / | VERSION: 1.05 | 15. / | AUGUST 2023 |
+## ABBILDUNGSVERZEICHNIS
 
-6  19
+Abbildung 1: Systemarchitektur 6  Abbildung 2: genereller Ablauf 19
 
-7  7  8  8  8  8  8  8  8  9  9  9  9  9  9  10  14  15  16  17
+## TABELLENVEREZEICHNIG
 
-Abbildung 1: Systemarchitektur Abbildung 2: genereller Ablauf Tabelle 1: 74_PR_KS_Behandelnder Tabelle 2: 74_PR_KS_BehandelnderFunktion Tabelle 3: 74_PR_KS_Betriebsstaette Tabelle 4: 74_PR_KS_Bundle Tabelle 5: 74_PR_KS_Position Tabelle 6: 74_EX_KS_Position_Distanz Tabelle 7: 74_EX_KS_Position_Zusatzinformation Tabelle 8: 74_EX_KS_Resultlimit Tabelle 9: 74_EX_KS_BehandelnderFunktion_Bemerkung Tabelle 10: 74_EX_KS_Fremdsprache Tabelle 11: 74_CS_SFHIR_BAR2_BARRIEREFREIHEIT Tabelle 13: 74_CS_SFHIR_BAR2_WBO Tabelle 14: 74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG Tabelle 15: 74_CS_SFHIR_BAR_FREMDSPRACHE Tabelle 16: 74_CS_SFHIR_BAS_ARZTGRUPPE_ALT Tabelle 17: unveränderte FHIR®-Ressourcen Tabelle 18: Suchparameter für PractitionerRole Tabelle 19: Statuscode und Antworten in der search Tabelle 20: Statuscode und Antworten in der capabilites Tabelle 21: Interaktionen auf den FHIR®-Ressourcen SEITE 3 VON 28  /  KBV  /  WEBSERVICE-KOLLEGENSUCHE DER KBV  / VERSION: 1.05  /  15. AUGUST 2023
+Tabelle 1: 74_PR_KS_Behandelnder 7  Tabelle 2: 74_PR_KS_BehandelnderFunktion 7  Tabelle 3: 74_PR_KS_Betriebsstaette 8  Tabelle 4: 74_PR_KS_Bundle 8  Tabelle 5: 74_PR_KS_Position 8  Tabelle 6: 74_EX_KS_Position_Distanz 8  Tabelle 7: 74_EX_KS_Position_Zusatzinformation 8  Tabelle 8: 74_EX_KS_Resultlimit 8  Tabelle 9: 74_EX_KS_BehandelnderFunktion_Bemerkung 8  Tabelle 10: 74_EX_KS_Fremdsprache 9  Tabelle 11: 74_CS_SFHIR_BAR2_BARRIEREFREIHEIT 9  Tabelle 13: 74_CS_SFHIR_BAR2_WBO 9  Tabelle 14: 74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG 9  Tabelle 15: 74_CS_SFHIR_BAR_FREMDSPRACHE 9  Tabelle 16: 74_CS_SFHIR_BAS_ARZTGRUPPE_ALT 9  Tabelle 17: unveränderte FHIR®-Ressourcen 10  Tabelle 18: Suchparameter für PractitionerRole 14  Tabelle 19: Statuscode und Antworten in der search-Interaktion 15  Tabelle 20: Statuscode und Antworten in der capabilites-Interaktion 16  Tabelle 21: Interaktionen auf den FHIR®-Ressourcen 17
+
+SEITE 3 VON 28 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 1.05 /
+
+15. AUGUST 2023
+
 
 ---
 
@@ -559,18 +539,18 @@ SEITE 17 VON 28 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 1.05 / 15. A
 
 ---
 
-| 4.4 | SICHERHEIT |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Der | Datenaustausch | über | die REST-Schnittstelle | sollte |  | abgesichert | werden | können. |  |  |  |
-| Aus | diesem Grund | verwenden | der | Webservice | -Kollegensuche | und das | PVS das |  | nachstehende |  |  |
-|  | Kommunikationsniveau. | |  |  |  |  |  |  |  |  |  |
-|  | Kommunikationsniveau | |  |  |  |  |  |  |  |  |  |
-| Nachrichten |  | zwischen dem |  | Webservice-Kollegensuche | und dem |  | Praxisverwaltungssystem | | sind | nur | über |
-| eine | verschlüsselte | Verbindung | auszutauschen. | Für | diese | Transportverschlüsselung | | ist | die | TLS | Version 1.2 |
-| zu | verwenden. |  |  |  |  |  |  |  |  |  |  |
-| SEITE 18 | VON 28 / | KBV / | WEBSERVICE-KOLLEGENSUCHE | DER KBV / | VERSION: 1.05 | / 15. | AUGUST 2023 |  |  |  |  |
+**4.4 SICHERHEIT**
 
-Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können. Aus diesem Grund verwenden der Webservice -Kollegensuche und das PVS das nachstehende Nachrichten zwischen dem Webservice-Kollegensuche und dem Praxisverwaltungssystem sind nur über eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung ist die TLS Version 1.2 zu verwenden. SEITE 18 VON 28  /  KBV  /  WEBSERVICE-KOLLEGENSUCHE DER KBV  / VERSION: 1.05  /  15. AUGUST 2023
+Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können.
+
+Aus diesem Grund verwenden der Webservice-Kollegensuche und das PVS das nachstehende  Kommunikationsniveau.
+
+**Kommunikationsniveau**
+
+Nachrichten zwischen dem Webservice-Kollegensuche und dem Praxisverwaltungssystem sind nur über  eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung ist die TLS Version 1.2  zu verwenden.
+
+SEITE 18 VON 28 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 1.05 / 15. AUGUST 2023
+
 
 ---
 

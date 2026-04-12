@@ -58,14 +58,14 @@ aktualisierten G-BA Richtlinie
 
 ---
 
-| 1 |  | EINLEITUNG | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Dieses |  | Dokument | beschreibt | die | Zustandsbedingungen | für | die | Entscheidung | über den | Zustand der |
-|  | Asthmakontrolle | | im Rahmen | des | eDMP Asthma | bronchiale. | Auf dieses | Dokument | bezieht | sich die |
-|  | Anforderung | O1-74 | des |  | Anforderungskatalogs | eDMP. |  |  |  |  |
-| Seite | 4 von | 8 / KBV | / | ZUSTANDSBEDINGUNGEN | ASTHMAKONTROLLE | / Version: | 1.1 / 22. | August 2024 |  |  |
+1
 
-Dieses Dokument beschreibt die Zustandsbedingungen für die Entscheidung über den Zustand der Asthmakontrolle im Rahmen des eDMP Asthma bronchiale. Auf dieses Dokument bezieht sich die Anforderung O1-74 des Anforderungskatalogs eDMP. Seite 4 von 8  /  KBV  /  ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE  /  Version: 1.1  /  22. August 2024
+## EINLEITUNG
+
+Dieses Dokument beschreibt die Zustandsbedingungen für die Entscheidung über den Zustand der  Asthmakontrolle im Rahmen des eDMP Asthma bronchiale. Auf dieses Dokument bezieht sich die  Anforderung O1-74 des Anforderungskatalogs eDMP.
+
+Seite 4 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 
 ---
 

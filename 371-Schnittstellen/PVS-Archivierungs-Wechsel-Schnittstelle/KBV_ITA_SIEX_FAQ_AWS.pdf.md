@@ -349,15 +349,16 @@ Seite 12 von 17
 
 ---
 
-| Fall | Nr. 2: | Das | System verfügt | über | weder | eine | Versionierung | / | Historis | ierung, noch | über | eine |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Benutzerverwaltung. | Jede | Ressource | existiert | nur | in seiner | aktuellen | Form, | ggf. mit | der | dazugehörigen |
-|  | Versionsnummer | und | der | Information | über | die letzte |  | Änderung. |  |  |  |  |
-| Fall | Nr. 3: | Das System | verfügt | über | eine | Versionierung, | | aber keine |  | Benutzerverwaltung. | Die | einzelnen |
-|  | Versionen | der | Ressourcen | sind | vorhanden, | die | dazugehörigen | Änderungen | der | Benutzer | jedoch | nicht. |
-| Seite | 13 von | 17 / KBV | / FAQS ZUR | ARCHIVIERUNGS | - UND |  | WECHSELSCHNITTSTELLE | / | 13. Mai 2022 |  |  |  |
+**Fall Nr. 2: Das System verfügt über weder eine Versionierung / Historis**ierung, noch über eine  Benutzerverwaltung. Jede Ressource existiert nur in seiner aktuellen Form, ggf. mit der dazugehörigen  Versionsnummer und der Information über die letzte Änderung.
 
-Fall Nr. 2: Das System verfügt über weder eine Versionierung / Historis ierung, noch über eine Benutzerverwaltung. Jede Ressource existiert nur in seiner aktuellen Form, ggf. mit der dazugehörigen Versionsnummer und der Information über die letzte Änderung. Fall Nr. 3: Das System verfügt über eine Versionierung, aber keine Benutzerverwaltung. Die Versionen der Ressourcen sind vorhanden, die dazugehörigen Änderungen der Benutzer jedoch nicht. Seite 13 von 17  /  KBV  /  FAQS ZUR ARCHIVIERUNGS - UND WECHSELSCHNITTSTELLE
+**Fall Nr. 3: Das System verfügt über** eine Versionierung, aber keine Benutzerverwaltung. Die einzelnen  Versionen der Ressourcen sind vorhanden, die dazugehörigen Änderungen der Benutzer jedoch nicht.
+
+Seite 13 von 17
+
+/ KBV / FAQS ZUR ARCHIVIERUNGS - UND WECHSELSCHNITTSTELLE
+
+/ 13. Mai 2022
+
 
 ---
 

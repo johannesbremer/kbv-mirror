@@ -73,15 +73,12 @@ BODY DER VERLAUFSDOKUMENTATION Sektion (section) Abschnitt „Administrative Dat
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | | 16 |
-| Seite | 4 von 32 / KBV | / | Schnittstellenbeschreibung | Rheumatoide | Arthritis | / Version: | 1.01 / | 14. November | 2025 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 32  /  KBV  /  Schnittstellenbeschreibung Rheumatoide Arthritis  /  Version: 1.01  /  14. November 2025
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 12  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 13  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 14  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 16
+
+Seite 4 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.01 / 14. November 2025
+
 
 ---
 
@@ -148,23 +145,26 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen)
 
 ---
 
-| 1 |  | EINLEITUNG | |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Diese |  |  | Schnittstellenbeschreibung | | beschreibt | die | Datenstruktur | | der | Dokumentationen | | des | Disease |  |
-|  | Management | Programms | (DMP) |  | Rheumatoide |  | Arthritis . |  |  |  |  |  |  |  |
-| Diese |  | Schnittstellenbeschreibung | | wird |  | ausschließlich | für | die | elektronische |  | Dokumentation | | benutzt. |  |
-| In | den | weiteren | Kapiteln dieses |  | Dokuments | werden | die | einzelnen |  | Abschnitte der |  | Dokumentationen | |  |
-|  | erläutert | und es wird | erklärt, | welcher |  | Schnittstellencode | | zu | erzeugen ist. |  |  |  |  |  |
-| Diese |  | Schnittstellenbeschreibung | | ist | so angelegt, | dass |  | prinzipiell | alle | Ausfüllvarianten | | abbildbar | sind. | Dies |
-|  | schließt | auch | fehlerhafte | Varianten | ein. Zur |  | Plausibilisierung | | des | Datensatzes | muss das | KBV | -Prüfmodul | XPM |
-|  | eingesetzt | werden. | Nur formal | und | inhaltlich |  | korrekte | Daten | dürfen | übermittelt | werden. |  |  |  |
-| Die | Regeln | zur | Plausibilisierung | sind | in der | jeweiligen |  |  | Plausibilitätsrichtlinie |  | hinterlegt |  |  |  |
-|  |  |  | [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | | | ] und |  |  |  | [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide_Arthritis | | | | ]. |
-|  | Herausgeber | und | Verantwortlicher | | für diese |  | Merkblätter | sind | die | Spitzenverbände | der |  | Krankenkassen. |  |
-| Das | zugehörige |  | KBV-Prüfmodul | prüft | lediglich | die | zu diesem | eDMP | gehörigen |  | Plausibilitäten. | |  |  |
-| Seite | 8 von | 32 / KBV / |  | Schnittstellenbeschreibung |  | Rheumatoide | Arthritis | / Version: | 1.01 / | 14. November | 2025 |  |  |  |
+1
 
-Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease Management Programms (DMP) Rheumatoide Arthritis Diese Schnittstellenbeschreibung wird ausschließlich für die elektronische Dokumentation benutzt. In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte der Dokumentationen erläutert und es wird erklärt, welcher Schnittstellencode zu erzeugen ist. Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüllvarianten abbildbar sind. Dies schließt auch fehlerhafte Varianten ein. Zur Plausibilisierung des Datensatzes muss das KBV -Prüfmodul XPM eingesetzt werden. Nur formal und inhaltlich korrekte Daten dürfen übermittelt werden. Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt ] und [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide_Arthritis Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen. Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten. Seite 8 von 32  /  KBV  /  Schnittstellenbeschreibung Rheumatoide Arthritis  /  Version: 1.01  /  14. November 2025
+## EINLEITUNG
+
+Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease  Management Programms (DMP) Rheumatoide Arthritis.
+
+Diese Schnittstellenbeschreibung wird ausschließlich für die elektronische Dokumentation benutzt.
+
+In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte der Dokumentationen  erläutert und es wird erklärt, welcher Schnittstellencode zu erzeugen ist.
+
+Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüllvarianten abbildbar sind. Dies  schließt auch fehlerhafte Varianten ein. Zur Plausibilisierung des Datensatzes muss das KBV-Prüfmodul XPM  eingesetzt werden. Nur formal und inhaltlich korrekte Daten dürfen übermittelt werden.
+
+Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlinie hinterlegt  [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide_Arthritis].
+
+Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
+
+Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.01 / 14. November 2025
+
 
 ---
 
@@ -314,18 +314,16 @@ Seite 13 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Versi
 
 ---
 
-| 6.1 |  | SEKTION | (SECTION) |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Das |  | <section>-Element | | setzt sich | aus fünf |  |  | <paragraph>-Elementen | | zusammen. | Ein | <paragraph>-Element |
-|  | beinhaltet | die | Kindelemente | | <caption> | und | <content>. | Die | Grundstruktur | des | <section>-Elements | ist in |
-|  | Abbildung | 3 | dargestellt. |  |  |  |  |  |  |  |  |  |
-|  | Abbildung | 3: | Grundstruktur |  | section |  |  |  |  |  |  |  |
-| Eine | Sektion |  | enthält die | Abschnitte |  | „Administrative | | Daten“, | „Anamnese | - und | Befunddaten“, |  |
-|  | „Medikamentöse | | und | sonstige | Maßnahmen“, |  | „Schulung“ | und |  | „Behandlungsplanung“, | die | jeweils in einem |
-|  |  | <paragraph>-Element |  | untergebracht | sind. |  |  |  |  |  |  |  |
-|  | Seite 14 von | 32 / | KBV / | Schnittstellenbeschreibung | | Rheumatoide | Arthritis | / | Version: 1.01 | / 14. November | 2025 |  |
+**6.1 SEKTION (SECTION)**
 
-SEKTION (SECTION) Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 dargestellt. Abbildung 3: Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“, „Medikamentöse und sonstige Maßnahmen“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind. Seite 14 von 32  /  KBV  /  Schnittstellenbeschreibung Rheumatoide Arthritis  /  Version: 1.01  /  14. November 2025
+Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element  beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Abbildung 3 dargestellt.
+
+**Abbildung 3: Grundstruktur section**
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“,  „Medikamentöse und sonstige Maßnahmen“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem  <paragraph>-Element untergebracht sind.
+
+Seite 14 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.01 / 14. November 2025
+
 
 ---
 

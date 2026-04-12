@@ -1,19 +1,27 @@
-|  |  |  |  |  | Ausfüllanleitung | |  |  |
-|---|---|---|---|---|---|---|---|---|
-|  | zum |  |  | diagnoseübergreifenden | |  | allgemeinen | Datensatz |
-|  | für | die |  | strukturierten | |  | Behandlungsprogramme | |
-|  |  |  | KHK, | Diabetes | mellitus | Typ | 1 und | 2, |
-|  |  |  |  | Asthma | bronchiale, | | COPD, |  |
-|  |  |  |  | chronische |  | Herzinsuffizienz, | |  |
-|  |  |  |  | chronischer |  | Rückenschmerz, | |  |
-|  |  |  |  | Depression, | | Osteoporose | |  |
-|  |  |  | und |  | rheumatoide |  | Arthritis |  |
-| Gültig | ab: |  |  |  | 01.10.2023 |  |  |  |
-| Stand | der | letzten | Bearbeitung: |  | 22.02.2023 |  |  |  |
-|  |  |  |  | Version | 9 |  |  |  |
-|  | Ausfüllanleitung |  | indikationsübergreifender | | Datensatz, | Version | 9; | Stand 22.02.2023 |
+Gültig ab:  Stand der letzten Bearbeitung:
 
-Gültig ab:  Stand der letzten Bearbeitung: Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand zum diagnoseübergreifenden allgemeinen Datensatz für die strukturierten Behandlungsprogramme KHK, Diabetes mellitus Typ 1 und 2, Asthma bronchiale, COPD, chronische Herzinsuffizienz, chronischer Rückenschmerz, Depression, Osteoporose und rheumatoide Arthritis Version 9
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand
+
+### Ausfüllanleitung
+
+### zum diagnoseübergreifenden allgemeinen Datensatz
+
+### für die strukturierten Behandlungsprogramme
+
+### KHK, Diabetes mellitus Typ 1 und 2,
+
+### Asthma bronchiale, COPD,
+
+### chronische Herzinsuffizienz,
+
+### chronischer Rückenschmerz,
+
+### Depression, Osteoporose
+
+### und rheumatoide Arthritis
+
+01.10.2023  22.02.2023  Version 9 22.02.2023
+
 
 ---
 
@@ -87,12 +95,10 @@ Die vollständige und plausible Dokumentation muss inklusive 22.02.2023
 
 ---
 
-| Wenn | Sie | noch Fragen | zum | Ausfüllen | oder | zur | Handhabung | der | Dokumentation | haben, |
-|---|---|---|---|---|---|---|---|---|---|---|
-| wenden | Sie | sich bitte | an die | zuständige | Stelle | (z. | B. Ihre | KV oder | die zuständige | Datenstelle). |
-|  | Ausfüllanleitung |  |  | indikationsübergreifender | | Datensatz, | | Version 9; | Stand | 22.02.2023 |
+Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,  wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle).
 
-Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben, wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle). Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+
 
 ---
 

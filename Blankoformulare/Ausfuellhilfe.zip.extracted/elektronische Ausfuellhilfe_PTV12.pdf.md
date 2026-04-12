@@ -1,9 +1,8 @@
-|  | AUSFÜLLHILFE: | | FORMBLATT | PTV | 12 | – | ANZEIGE | EINER |
-|---|---|---|---|---|---|---|---|---|
-|  |  | AKUTBEHANDLUNG | |  |  |  |  |  |
-| Seite 1 | von 2 / KBV | / | Ausfüllhilfe: Formblatt | PTV 12 – Anzeige | einer | Akutbehandlung | / 1. | Januar 2025 |
+## AUSFÜLLHILFE: FORMBLATT PTV 12 – ANZEIGE EINER
 
-AUSFÜLLHILFE: FORMBLATT PTV 12 – ANZEIGE EINER Seite 1 von 2  /  KBV  /  Ausfüllhilfe: Formblatt PTV 12 – Anzeige einer Akutbehandlung   /  1. Januar 2025
+## AKUTBEHANDLUNG
+
+Seite 1 von 2 / KBV / Ausfüllhilfe: Formblatt PTV 12 – Anzeige einer Akutbehandlung / 1. Januar 2025
 
 
 ---

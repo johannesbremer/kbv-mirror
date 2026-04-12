@@ -1733,29 +1733,40 @@ TRANSAKTI Observation KBV_PR_VoS_Observation_Breast feeding_Status KBV_PR_VoS_Ob
 
 ---
 
-| 4.4 | SICHERHEIT |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Der | Datenaustausch | über die |  | REST-Schnittstelle | sollte | abgesichert | werden | können. |  |  |  |
-| Daher | bieten PVS | und | Verordnungssoftware | die | beiden | nachstehenden | |  | Kommunikationsniveaus | | an. PVS und |
-|  | Verordnungssoftware |  | ermöglichen dem | Anwender | das |  | Kommunikationsniveau | sowie | die | dafür | notwendigen |
-| Einstellungen |  | vorzunehmen. |  |  |  |  |  |  |  |  |  |
-| Niveau 1: |  |  |  |  |  |  |  |  |  |  |  |
-| Verwendung | von | http ohne | Absicherung | der T | ransportebene | und | keiner | Authentifizierung | | von | Server sowie |
-| Client. |  |  |  |  |  |  |  |  |  |  |  |
-| Niveau 2: |  |  |  |  |  |  |  |  |  |  |  |
-| 1. | Nachrichten | zwischen | PVS und | Verordnungssoftware | | sind nur | über | eine | verschlüsselte | | Verbindung |
-|  | auszutauschen. | Für diese |  | Transportverschlüsselung | ist | die TLS | Version | 1.2 zu | verwen | den. |  |
-| 2. Die | Authentifizierung | | des PVS erfolgt | über ein |  | Serverzertifikat. | Das | Zertifikat | muss | für die | jeweilige |
-| Installation | vom |  | Anwender | erzeugt werden |  | können. | Das | Verwenden | von |  | mitgelieferten |
-|  | Serverzertifikaten, | die | in allen | Installationen | gleich sind, | ist n icht | zulässig. |  |  |  |  |
-| 3. Die | Authentifizierung | | der | Verordnungssoftware | erfolgt | über |  | Benutzername/ | Passwort. |  | Benutzername |
-| und | Passwort | dürfen nur | über eine | mit TLS | gesicherte | Verbindung |  | übertragen | werden. | Das PVS | darf die |
-| Passwörter | nicht | im | Klartext speichern. | Für die | Übertragung | | von | Benutzername | und | Passwort | ist Basic |
-|  | Authentication | nach RFC | 7235 | Hypertext Transfer |  | Protocol | (HTTP/1.1): |  | Authentication | zu | verwenden. |
-|  | Benutzername | und | Passwort können | vom Anwender |  | festgelegt | werden. |  |  |  |  |
-| Seite 28 von | 33 / KBV | / Festlegung | der | Schnittstellen nach § | 371 Absatz 1 | Nummer 2 | SGB V / Version | 2.1.0 | / 1. Februar | 2023 |  |
+**4.4 SICHERHEIT**
 
-Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können. Daher bieten PVS und Verordnungssoftware ermöglichen dem Anwender das Kommunikationsniveau sowie die dafür notwendigen Einstellungen vorzunehmen. Verwendung von http ohne Absicherung der T 1. Nachrichten zwischen PVS und Verordnungssoftware sind nur über eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung ist die TLS Version 1.2 zu verwen 2. Die Authentifizierung des PVS erfolgt über ein Serverzertifikat. Das Zertifikat muss für die jeweilige Installation vom Serverzertifikaten, die in allen Installationen gleich sind, ist n 3. Die Authentifizierung der Verordnungssoftware erfolgt über Benutzername/ Passwort. Benutzername und Passwort dürfen nur über eine mit TLS gesicherte Verbindung übertragen werden. Das PVS darf die Passwörter nicht im Klartext speichern. Für Authentication nach RFC 7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication zu verwenden. Benutzername und Passwort können vom Anwender festgelegt werden. Seite 28 von 33  /  KBV  /  Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V Verordnungssoftware die beiden nachstehenden Kommunikationsniveaus an. PVS und ransportebene und keiner Authentifizierung von Server sowie die Übertragung von Benutzername und Passwort ist Basic icht zulässig.   /  Version 2.1.0  /  1. Februar 2023
+Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können.   Daher bieten PVS und  Verordnungssoftware ermöglichen dem Anwender das Kommunikationsniveau sowie die dafür notwendigen  Einstellungen vorzunehmen.
+
+**Niveau 1:**
+
+Verwendung von http ohne Absicherung der T Client.
+
+**Niveau 2:**
+
+1. Nachrichten zwischen PVS und Verordnungssoftware sind nur über eine verschlüsselte Verbindung  auszutauschen. Für diese Transportverschlüsselung ist die TLS Version 1.2 zu verwen 2. Die Authentifizierung des PVS erfolgt über ein Serverzertifikat. Das Zertifikat muss für die jeweilige  Installation vom  Serverzertifikaten, die in allen Installationen gleich sind, ist n 3. Die Authentifizierung der Verordnungssoftware erfolgt über Benutzername/ Passwort. Benutzername  und Passwort dürfen nur über eine mit TLS gesicherte Verbindung übertragen werden. Das PVS darf die  Passwörter nicht im Klartext speichern. Für  Authentication nach RFC 7235 Hypertext Transfer Protocol (HTTP/1.1): Authentication zu verwenden.  Benutzername und Passwort können vom Anwender festgelegt werden.
+
+Seite 28 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V
+
+Verordnungssoftware die beiden nachstehenden Kommunikationsniveaus an. PVS und
+
+Anwender
+
+erzeugt
+
+ransportebene und keiner Authentifizierung von Server sowie
+
+werden können.
+
+die Übertragung von Benutzername und Passwort ist Basic
+
+Das Verwenden  icht zulässig.
+
+/ Version 2.1.0 / 1. Februar 2023
+
+den.
+
+von mitgelieferten
+
 
 ---
 

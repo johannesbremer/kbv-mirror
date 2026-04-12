@@ -96,15 +96,12 @@ Vom Patienten gewünschte Informationsangebote der Krankenkasse BODY DER VERLAUF
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  | .................................................................................................................. | | | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  | ..................................................................................................................... | | | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | | 16 |
-| Seite | 4 von 35 / | KBV / | Schnittstellenbeschreibung | | Chronischer Rückenschmerz | / Version: | 1.02 / | 14. November | 2025 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 35  /  KBV  /  Schnittstellenbeschreibung Chronischer Rückenschmerz  /  Version: 1.02  /  14. November 2025
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 12  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 13  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 14  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 16
+
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 
 ---
 

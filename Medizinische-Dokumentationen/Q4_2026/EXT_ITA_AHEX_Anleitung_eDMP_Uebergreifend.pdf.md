@@ -1,22 +1,33 @@
-|  |  |  |  |  | Ausfüllanleitung | | |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | zum |  | diagnoseübergreifenden | | | |  | allgemeinen | Datensatz |
-|  | für | die |  | strukturierten | |  |  | Behandlungsprogramme | |
-|  |  | KHK, |  | Diabetes |  | mellitus | Typ | 1 und | 2, |
-|  |  |  | Asthma |  |  | bronchiale, | | COPD, |  |
-|  |  |  |  | chronische |  |  | Herzinsuffizienz, | |  |
-|  |  |  |  | chronischer |  |  | Rückenschmerz, | |  |
-|  |  |  |  | Depression, | |  | Osteoporose, | |  |
-|  |  |  |  | rheumatoide | |  | Arthritis, |  |  |
-|  |  |  |  | Adipositas | - |  | Erwachsene | |  |
-|  |  |  | und | Adipositas | | - | Kinder | und |  |
-|  |  |  |  |  | Jugendliche | |  |  |  |
-| Gültig | ab: |  |  |  | 01.10.2026 |  |  |  |  |
-| Stand | der | letzten | Bearbeitung: |  | 04.11.2025 |  |  |  |  |
-|  |  |  |  | Version | 10 |  |  |  |  |
-|  | Ausfüllanleitung |  | indikationsübergreifender | |  | Datensatz, | Version | 10; | Stand 04.11.2025 |
+Gültig ab:  Stand der letzten Bearbeitung:
 
-Gültig ab:  Stand der letzten Bearbeitung: Ausfüllanleitung indikationsübergreifender Datensatz, Version zum diagnoseübergreifenden allgemeinen Datensatz für die strukturierten Behandlungsprogramme KHK, Diabetes mellitus Typ 1 und 2, Asthma bronchiale, COPD, chronische Herzinsuffizienz, chronischer Rückenschmerz, Depression, Osteoporose, rheumatoide Arthritis, Adipositas - Erwachsene und Adipositas - Kinder und Version 10 10; Stand 04.11.2025
+Ausfüllanleitung indikationsübergreifender Datensatz, Version
+
+### zum diagnoseübergreifenden allgemeinen Datensatz
+
+### Ausfüllanleitung
+
+### für die strukturierten Behandlungsprogramme
+
+### KHK, Diabetes mellitus Typ 1 und 2,
+
+### Asthma bronchiale, COPD,
+
+### chronische Herzinsuffizienz,
+
+### chronischer Rückenschmerz,
+
+### Depression, Osteoporose,
+
+### rheumatoide Arthritis,
+
+### Adipositas - Erwachsene
+
+### und Adipositas - Kinder und
+
+### Jugendliche
+
+01.10.2026  04.11.2025  Version 10 10; Stand 04.11.2025
+
 
 ---
 
@@ -88,14 +99,10 @@ Die vollständige und plausible Dokumentation muss inklusive 10; Stand 04.11.202
 
 ---
 
-|  | abgeschlossener | |  | Korrektur | bzw. | Vervollständigung | | der | zuständigen | Datenstelle | innerhalb | von |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 52 |  | Kalendertagen | | nach | Ablauf des |  | Dokumentationszeitraumes | | | vorliegen. |  |  |
-| Wenn | Sie | noch | Fragen | zum | Ausfüllen | oder | zur | Handhabung | | der | Dokumentation | haben, |
-|  | wenden | Sie sich | bitte | an die | zuständige | Stelle | (z. | B. Ihre | KV oder | die zuständige |  | Datenstelle). |
-|  |  | Ausfüllanleitung |  |  | indikationsübergreifender | | Datensatz, | | Version 10; | Stand | 04.11.2025 |  |
+abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.  Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,  wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle).
 
-abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von 52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen. Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben, wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle). Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
 
 ---
 

@@ -572,20 +572,28 @@ versetzt werden, den quartalsweisen 1
 
 ---
 
-| 1.3 |  | ANGABEN | ZUR |  | DATENÜBERMITTLUNG | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Die | in | diesem | Katalog |  | angegebenen |  | Feldkennungen für | den | Abrechnungsdatensatz | | beziehen sich | auf die |
-|  |  | Datensatzbeschreibung | | des | KV | Datentransfers | (KVDT). |  |  |  |  |  |
-|  | Sofern ein | anderer |  | Standard | der | elektronischen |  | Abrechnung bspw. | für die | Direktabrechnung | gemäß | § 115b, |
-| 116b | und | 120 Abs. | 3 | SGB V | zutrifft, | gelten | die | entsprechenden | Anforderungen | für die | dort | definierten |
-|  | gleichbedeutenden | |  | Datenfelder |  | analog. |  |  |  |  |  |  |
-| 1.4 |  | BEGRIFFE | „VERT | R | AGSÄRZTE“ | UND | „VE RTRAGSPS |  | YCHOTHERAPEUTEN“ |  |  |  |
-| Die | Begriffe |  | „Vertragsärzte“ | | und |  | „Vertragspsychotherapeuten“ | | ergeben sich | aus dem | Wortlaut | des § 295 |
-| Abs. | 1 SGB | V. Aus |  |  | Vereinfachungsgründen | | werden in | diesem Dokument | ausschließlich | diese | Begriffe | auch für |
-| die | weiteren |  | unter § | 295 | Abs. 4 | SGB V | genannten Ärzte | und | Psychotherapeuten | verwendet. |  |  |
-|  | Seite 14 | von 166 / | KBV / |  |  | KBV_ITA_VGEX_Anforderungskatalog_KVDT | / | Version 6.06 / | 9. März 2026 |  |  |  |
+**1.3 ANGABEN ZUR DATENÜBERMITTLUNG**
 
-ANGABEN ZUR DATENÜBERMITTLUNG Die in diesem Katalog angegebenen Feldkennungen für den Abrechnungsdatensatz beziehen Datensatzbeschreibung des KV Datentransfers (KVDT). Sofern ein anderer Standard der elektronischen Abrechnung 116b und 120 Abs. 3 SGB V zutrifft, gelten die gleichbedeutenden Datenfelder analog. BEGRIFFE „VERT R AGSÄRZTE“ UND „VE RTRAGSPS YCHOTHERAPEUTEN“ Die Begriffe „Vertragsärzte“ und „Vertragspsychotherapeuten“ Abs. 1 SGB V. Aus Vereinfachungsgründen werden in diesem Dokument ausschließlich diese Begriffe auch für die weiteren unter § 295 Abs. 4 SGB V genannten Ärzte und Psychotherapeuten verwendet. Seite 14 von 166  /  KBV /  KBV_ITA_VGEX_Anforderungskatalog_KVDT  bspw. für die Direktabrechnung gemäß § 115b, entsprechenden Anforderungen für die ergeben sich aus dem Wortlaut des § 295   / Version 6.06 /  9. März 2026 sich auf die dort definierten
+Die in diesem Katalog angegebenen Feldkennungen für den Abrechnungsdatensatz beziehen  Datensatzbeschreibung des KV Datentransfers (KVDT).
+
+Sofern ein anderer Standard der elektronischen Abrechnung 116b und 120 Abs. 3 SGB V zutrifft, gelten die  gleichbedeutenden Datenfelder analog.
+
+**1.4 BEGRIFFE „VERT R AGSÄRZTE“ UND „VE RTRAGSPS YCHOTHERAPEUTEN“**
+
+Die Begriffe „Vertragsärzte“ und „Vertragspsychotherapeuten“  Abs. 1 SGB V. Aus Vereinfachungsgründen werden in diesem Dokument ausschließlich diese Begriffe auch für  die weiteren unter § 295 Abs. 4 SGB V genannten Ärzte und Psychotherapeuten verwendet.
+
+Seite 14 von 166 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT
+
+bspw. für die Direktabrechnung gemäß § 115b,  entsprechenden Anforderungen für die
+
+ergeben sich aus dem Wortlaut des § 295
+
+/ Version 6.06 / 9. März 2026
+
+sich auf die
+
+dort definierten
+
 
 ---
 
@@ -9804,14 +9812,12 @@ Diese gematik Spezifikation  definiert die Anforderungen zu  Herstellung, Test u
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |
-| Seite | 166 von | 166 / KBV | / | KBV_ITA_VGEX_Anforderungskatalog_KVDT | / Version | 6.06 / 9. | März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 166 von 166  /  KBV /    / Version 6.06 /  9. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 166 von 166 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.06 / 9. März 2026

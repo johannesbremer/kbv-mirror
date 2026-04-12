@@ -11,19 +11,24 @@ www.kbv.de
 
 ---
 
-| Inhalt |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| 1 | ANFORDERUNGEN | AN | DIE | SOFTWARE-SYSTEME | DER |  | LEISTUNGSERBRINGER | ...........4 |
-| 2 | VERBINDLICHKEIT | VON |  |  |  | ANFORDERUNGEN..................................................................5 | | |
-| 3 |  |  |  |  | VORAUSSETZUNGEN...................................................................................................6 | | | |
-| 4 | ANFORDERUNGEN | AN DEN | REQUEST |  | "VERMITTLUNGSCODE |  |  | ANFORDERN"................7 |
-| 5 | ANFORDERUNGEN | AN | DEN | REQUEST | "VERMITTLUNGSCODE | | ANFORDERN" | FÜR |
-|  | MUSTER |  |  |  | 6....................................................................................................................9 | | | |
-| 6 | ANFORDERUNGEN | AN | DEN | REQUEST | "VERMITTLUNGSCODE | | ANFORDERN" | FÜR |
-|  |  |  |  |  | PTV11........................................................................................................................10 | | | |
-| 7 |  |  |  |  | REFERENZEN..............................................................................................................11 | | | |
+**Inhalt**
 
-ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER VERBINDLICHKEIT VON ANFORDERUNGEN..................................................................5 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN"................7 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN" FÜR MUSTER 6....................................................................................................................9 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN" FÜR
+**1 ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER**
+
+**2 VERBINDLICHKEIT VON ANFORDERUNGEN..................................................................5**
+
+**3 VORAUSSETZUNGEN...................................................................................................6**
+
+**4 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN"................7**
+
+**5 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN" FÜR**  **MUSTER 6....................................................................................................................9**
+
+**6 ANFORDERUNGEN AN DEN REQUEST "VERMITTLUNGSCODE ANFORDERN" FÜR**  **PTV11........................................................................................................................10**
+
+**7 REFERENZEN..............................................................................................................11**
+
+**...........4**
+
 
 ---
 
@@ -76,12 +81,12 @@ Seite 5 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 ---
 
-| 3 |  | VORAUSSETZUNGEN | |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Für | die | Nutzung die | Schnittstelle wird die | Authentisierung | gemäß | [TSS_Auth] | vorausgesetzt. |
-| Seite | 6 von | 11 / KBV / Spezifikation | 116117 | Terminservice - | Vermittlungscode |  |  |
+## 3 VORAUSSETZUNGEN
 
-3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt. Seite  6  von 11  / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
+Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.
+
+Seite 6 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
+
 
 ---
 
@@ -211,16 +216,11 @@ Seite 10 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 ---
 
-| 7 | REFERENZEN | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| • [TSSVCA]: | Technische | Anlage | zur | Spezifikation | "116117 | | Terminservice - | Vermittlungscode"; https:// |
-|  |  |  |  |  | partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen | | |  |
-| • [TSS_Auth]: | Spezifikation | | 116117 | Terminservice |  | Authentisierung; |  | https://partnerportal.kv-telematik.de/ |
-|  |  |  | display/TSSSPEC/116117+Terminservice+-+Schnittstellen | | | |  |  |
-| • FHIR-Profile | zu | Vermittlungscode: | |  |  | https://simplifier.net/Vermittlungscode-abrufen-PVS | |  |
-| • | [Implementation | Guide]: | Implementation | Guide |  |  | https://simplifier.net/guide/implementierungsleitfaden- | |
-|  |  | vermittlungscode-anfordern-fuer-pvs?version=current | | | |  | https://simplifier.net/guide/ |  |
-|  |  |  | implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs | | | |  |  |
-| Seite 11 | von 11 / KBV / | Spezifikation | 116117 | Terminservice | - | Vermittlungscode |  |  |
+# 7 REFERENZEN
 
-7 REFERENZEN [TSSVCA]: Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode";  https:// [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; https://partnerportal.kv-telematik.de/ FHIR-Profile zu Vermittlungscode: https://simplifier.net/Vermittlungscode-abrufen-PVS [Implementation Guide]: Implementation Guide  https://simplifier.net/guide/implementierungsleitfaden- vermittlungscode-anfordern-fuer-pvs?version=current https://simplifier.net/guide/ Seite  11  von 11  / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
+- [TSSVCA]: Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"; https:// partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+- [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+- FHIR-Profile zu Vermittlungscode: [https://simplifier.net/Vermittlungscode-abrufen-PVS](https://simplifier.net/Vermittlungscode-abrufen-PVS)
+- [Implementation Guide]: Implementation Guide [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-) vermittlungscode-anfordern-fuer-pvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs
+
+Seite 11 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode

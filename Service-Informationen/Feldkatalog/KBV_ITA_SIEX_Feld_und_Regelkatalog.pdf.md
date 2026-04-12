@@ -1,17 +1,21 @@
-| IT | in | der | Arztpraxis |  |
-|---|---|---|---|---|
-|  | Feld- | und | Regelkatalog | |
-|  |  | [KBV_ITA_SIEX_Feld_Regelkatalog | | ] |
-|  | Dezernat | Digitalisierung | und IT |  |
-| 10623 |  | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | | Bundesvereinigung | |
-| Version |  | 1.35 |  |  |
-| Datum: |  | 14.02.2025 |  |  |
-|  | Kennzeichnung: | Öffentlich |  |  |
-| Status: |  | In Kraft |  |  |
-| © | Kassenärztliche |  | Bundesvereinigung, Berlin | 202 5 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Feld- und Regelkatalog Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung © Kassenärztliche Bundesvereinigung, Berlin 202 5
+## Feld- und Regelkatalog
+
+[KBV_ITA_SIEX_Feld_Regelkatalog
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung Version  Datum:  Kennzeichnung:  Status:
+
+© Kassenärztliche Bundesvereinigung, Berlin 202 5
+
+1.35  14.02.2025  Öffentlich  In Kraft
+
+]
+
 
 ---
 

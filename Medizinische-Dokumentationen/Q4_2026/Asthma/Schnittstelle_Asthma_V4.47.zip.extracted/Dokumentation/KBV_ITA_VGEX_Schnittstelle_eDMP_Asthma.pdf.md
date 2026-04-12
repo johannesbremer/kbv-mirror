@@ -73,15 +73,12 @@ BODY DER VERLAUFSDOKUMENTATION Sektion (section) Abschnitt „Relevante Ereignis
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | | 13 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  |  | .......................................................................................................................... | | 14 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | | 15 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION | |  |  |  | ..................................................................................................... | 17 |
-| Seite | 4 von 38 / KBV | / | Schnittstellenbeschreibung | Asthma | bronchiale | / Version: | 4.47 / | 14. November | 2025 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 38  /  KBV  /  Schnittstellenbeschreibung Asthma bronchiale  /  Version: 4.47  /  14. November 2025
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 13  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 14  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 15  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 17
+
+Seite 4 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+
 
 ---
 

@@ -1,18 +1,33 @@
-|  |  |  |  |  |  |  | - | Anlage | 20* | - |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  | Plausibilitätsrichtlinie | | |
-|  |  |  |  |  | zur | Prüfung | der |  |  | Dokumentationsdaten |
-|  |  |  |  | des |  | strukturierten | |  |  | Behandlungsprogramms |
-|  |  |  |  |  |  |  |  | Osteoporose | | |
-|  | Grundlage: |  |  |  |  |  | Anlage | 20 der | DMP-A-RL | |
-|  |  |  |  |  |  |  | gültig ab | 01.07.2020 | |  |
-|  |  |  |  |  |  |  | Version: | 1.1 |  |  |
-| Stand | der | Bearbeitung: |  |  |  |  | 17.09.2021 |  |  |  |
-| Version | | anzuwenden | ab: |  |  |  | 01.07.2021 |  |  |  |
-| * Die | Anlagenbezifferung | | bezieht sich | auf die | Anlagenbenennung | gemäß | den | Ausführungen | der | DMP-A-RL |
-|  | Plausibilitätsprüfung | Osteoporose | Version | 1.1 / | letzte Bearbeitung: | 17.09.2021 | |  |  |  |
+**Grundlage:**
 
-Stand der Version anzuwenden ab: * Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL Plausibilitätsprüfung Osteoporose Version 1.1 / letzte Bearbeitung: 17.09.2021 - Anlage 20* - zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms Anlage 20 der DMP-A-RL gültig ab 01.07.2020
+**Stand der**
+
+**Version anzuwenden ab:**
+
+* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Osteoporose Version 1.1 / letzte Bearbeitung: 17.09.2021
+
+## - Anlage
+
+## 20* -
+
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
+
+## des strukturierten Behandlungsprogramms
+
+# Osteoporose
+
+**Anlage 20 der DMP-A-RL**
+
+**gültig ab 01.07.2020**
+
+**Version:** **1.1**
+
+**Bearbeitung:**     **17.09.2021**
+
+**01.07.2021**
+
 
 ---
 

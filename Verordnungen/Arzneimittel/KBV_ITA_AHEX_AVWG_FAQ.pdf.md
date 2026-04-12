@@ -554,39 +554,43 @@ Seite 33 von 38 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 
 
 ---
 
-|  |  | GESAMTPROZESS: | |  | ANZEIGE VON |  | BESCHLÜSSEN | NACH | § 35A | SGB | V |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Seite | 34 von | 38 / KBV | / Fragen | und Antworten | zum | Anforderungskatalog | nach § 73 SGB | V für | Verordnungssoftware / |  |  |
-|  | Version: 5.12 | / 2. | September 2025 |  |  |  |  |  |  |  |  |
+## GESAMTPROZESS: ANZEIGE VON BESCHLÜSSEN NACH §
 
-GESAMTPROZESS: ANZEIGE VON BESCHLÜSSEN NACH § SGB V Seite 34 von 38  /  KBV  /  Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12   /  2. September 2025
+## 35A
 
----
+## SGB V
 
-|  |  | TEILPROZESS: |  | MANUELLE | ANZEIGE | DER |  |  | BESCHLUSSÜBERSICHT |
-|---|---|---|---|---|---|---|---|---|---|
-| Seite | 35 von | 38 / KBV | / Fragen | und Antworten | zum | Anforderungskatalog nach | § 73 SGB | V für | Verordnungssoftware / |
-|  | Version: 5.12 | / 2. | September 2025 |  |  |  |  |  |  |
+Seite 34 von 38 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12 / 2. September 2025
 
-TEILPROZESS: MANUELLE ANZEIGE DER BESCHLUSSÜBERSICHT Seite 35 von 38  /  KBV  /  Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12   /  2. September 2025
+/
+
 
 ---
 
-|  |  | TEILPROZESS: |  |  | AUTOMATISCHE |  | ANZEIGE | VON | NEUEN | BESCHLÜSSEN |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Seite | 36 von | 38 / KBV | / Fragen | und Antworten | zum | Anforderungskatalog | nach | § 73 SGB V | für | Verordnungssoftware / |
-|  | Version: 5.12 | / 2. | September 2025 |  |  |  |  |  |  |  |
+## TEILPROZESS: MANUELLE ANZEIGE DER BESCHLUSSÜBERSICHT
 
-TEILPROZESS: AUTOMATISCHE ANZEIGE VON NEUEN BESCHLÜSSEN Seite 36 von 38  /  KBV  /  Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12   /  2. September 2025
+Seite 35 von 38 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12 / 2. September 2025
+
+/
+
 
 ---
 
-|  | TEILPROZESS: | |  | ANZEIGE | DER INHALTE | EINES | BESCHLUSSES | |
-|---|---|---|---|---|---|---|---|---|
-| Seite | 37 von | 38 / KBV | / Fragen | und Antworten | zum Anforderungskatalog | nach § 73 | SGB V für | Verordnungssoftware / |
-|  | Version: 5.12 | / 2. | September 2025 |  |  |  |  |  |
+## TEILPROZESS: AUTOMATISCHE ANZEIGE VON NEUEN BESCHLÜSSEN
 
-TEILPROZESS: ANZEIGE DER INHALTE EINES BESCHLUSSES Seite 37 von 38  /  KBV  /  Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12   /  2. September 2025
+Seite 36 von 38 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12 / 2. September 2025
+
+/
+
+
+---
+
+### TEILPROZESS: ANZEIGE DER INHALTE EINES BESCHLUSSES
+
+Seite 37 von 38 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware Version: 5.12 / 2. September 2025
+
+/
+
 
 ---
 

@@ -510,12 +510,10 @@ Schein eines Patienten
 
 ---
 
-|  | Parametern | Nachname | und | Vorname kann | eine | Phonetische | Suche | verwendet | und | alle potentielle | Treffer |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| angezeigt | werden. |  |  |  |  |  |  |  |  |  |  |
-| Seite | 14 von 16 / | KBV / | Anforderungskatalog | Terminservice | / | Version: 3.0.0 | / 19. | Dezember 2024 |  |  |  |
+Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle potentielle Treffer  angezeigt werden.
 
-Parametern Nachname und Vorname kann eine Phonetische Suche verwendet und alle potentielle Treffer angezeigt werden.  Seite 14 von 16  /  KBV  /  Anforderungskatalog Terminservice  /  Version: 3.0.0  /  19. Dezember 2024
+Seite 14 von 16 / KBV / Anforderungskatalog Terminservice / Version: 3.0.0 / 19. Dezember 2024
+
 
 ---
 

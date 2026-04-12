@@ -1,15 +1,23 @@
-|  |  | Umsetzungskonzept | |  |  |
-|---|---|---|---|---|---|
-|  | Abbildung |  | des HA-EBM | auf | die EBM- |
-|  | Schnittstelle | | (GOS) |  |  |
-|  | Dezernat 3, | 6 |  |  |  |
-| 10623 | Berlin, |  | Herbert-Lewin-Platz | 2 |  |
-| Version: | 1.40 |  |  |  |  |
-| Datum: |  | 08.08.2013 |  |  |  |
-| Freigabe: | extern |  |  |  |  |
-| © KBV | Kassenärztliche | | Bundesvereinigung, | Berlin | 2013 |
+## Umsetzungskonzept
 
-Abbildung des HA-EBM auf die Schnittstelle (GOS) Dezernat 3, 6 10623 Berlin, Herbert-Lewin-Platz 2 Datum:      08.08.2013 © KBV Kassenärztliche Bundesvereinigung, Berlin  2013
+## Abbildung des HA-EBM auf die
+
+## Schnittstelle (GOS)
+
+Dezernat 3, 6
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Version:  1.40
+
+Datum: 08.08.2013
+
+Freigabe:  extern
+
+© KBV Kassenärztliche Bundesvereinigung, Berlin 2013
+
+## EBM-
+
 
 ---
 

@@ -1029,14 +1029,14 @@ Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allg
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Dezernat | | Digitalisierung | | und IT |  |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de |  |  |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |  |
-| Seite | 31 von 31 | / KBV | / Pruefpaket | eDMP- | Chronischer Rueckenschmerz | / Version: | 1.03 / | 31. März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 31 von 31  /  KBV  /  Pruefpaket eDMP- Chronischer Rueckenschmerz  /  Version: 1.03  /  31. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 31 von 31 / KBV / Pruefpaket eDMP-
+
+Chronischer Rueckenschmerz / Version: 1.03 / 31. März 2026

@@ -50,12 +50,12 @@ Im Personalienfeld ist der zuständige Unfallversicherungsträger
 
 ---
 
-| 4. SER |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | Leistungsanspruch | nach | SGB | XIV ist hier | zu | kennzeichnen. |  |  |  |
-| Mehr | Informationen | |  |  |  |  |  |  |  |
-| Erläuterungen | | zur | Vereinbarung | über | Vordrucke für | die | vertragsärztliche | Versorgung | (PDF, 15,5 MB): |
-|  |  |  | www.kbv.de/media/sp/02_Erlaeuterungen.pdf | | |  |  |  |  |
-| Seite 3 | von 3 / KBV | / Muster | 21 – | Ärztliche | Bescheinigung für den | Bezug von | Krankengeld bei Erkrankung | eines Kindes | / 1. Juli 2024 |
+**4. SER**
 
-Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen. Mehr Informationen Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB): Seite 3 von 3  /  KBV  /  Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes  /  1. Juli 2024
+Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen.
+
+**Mehr Informationen**
+
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB): www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+
+Seite 3 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes / 1. Juli 2024

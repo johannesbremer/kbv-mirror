@@ -1221,14 +1221,14 @@ ________________
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de | |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |
-| Seite | 39 von 39 | / KBV | / Pruefpaket | eDMP-DM1 | / Version: | 1.24 / | 31. März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 39 von 39  /  KBV  /  Pruefpaket eDMP-DM1  /  Version: 1.24  /  31. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 39 von 39 / KBV / Pruefpaket eDMP-DM1 /
+
+Version: 1.24 / 31. März 2026

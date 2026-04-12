@@ -69,17 +69,12 @@ Praxisdaten / Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung d
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | Struktur | des | zip-Archives | | für | die Zertifizierung |  |  |
-| Abbildung | 2: | Exemplarische |  | Struktur der |  | Archivdatei | mit | den Prüfunterlagen |  |  |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |  |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | | für | die | Testdatenvalidierung | ohne | Prüffall TDV7518 |
-| Seite 3 | von 32 / KBV | / | Pruefpaket eDMP-KHK | / | Version: 1.21 | / 31. | März 2026 |  |  |  |
+## ABBILDUNGSVERZEICHNIS
 
-8  8  27  27
+Abbildung 1: Exemplarische Struktur des zip-Archives für die Zertifizierung 8  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen 8  Abbildung 3: Testdatenvalidierung 27  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518 27
 
-Abbildung 1: Exemplarische Struktur des zip-Archives  für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518 Seite 3 von 32  /  KBV  /  Pruefpaket eDMP-KHK  /  Version: 1.21  /  31. März 2026
+Seite 3 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.21 / 31. März 2026
+
 
 ---
 

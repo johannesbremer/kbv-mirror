@@ -1556,12 +1556,14 @@ Seite 41 von 72 / KBV / Anforderungskatalog eDMP / Version: 2.48 / 15. Mai 2025
 
 ---
 
-|  |  | Geschwollene | Gelenke | (sw28) |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Erfassung | der Anzahl | der | geschwollenen | Gelenke | (sw28) |  |
-| Seite | 42 von | 72 / KBV | / | Anforderungskatalog | eDMP / | Version: 2.48 | / 15. | Mai 2025 |
+**Geschwollene Gelenke (sw28)**
 
-Geschwollene Gelenke (sw28) Abbildung 1: Erfassung der Anzahl der geschwollenen Gelenke (sw28) Seite 42 von 72  /  KBV  /  Anforderungskatalog eDMP  /  Version: 2.48  /  15.
+Abbildung 1: Erfassung der Anzahl der geschwollenen Gelenke (sw28)
+
+Seite 42 von 72 / KBV / Anforderungskatalog eDMP / Version: 2.48 / 15.
+
+Mai 2025
+
 
 ---
 

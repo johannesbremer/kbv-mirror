@@ -1,17 +1,19 @@
-| IT in | der | Arztpraxis |  |  |  |
-|---|---|---|---|---|---|
-|  | Handbuch | KBV-Prüfmodul | KVDT | XPM |  |
-|  |  |  | [KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT] | | |
-| Dezernat |  | Digitalisierung | und IT |  |  |
-| 10623 | Berlin, |  | Herbert-Lewin-Platz | 2 |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |
-| Version | 1.18 |  |  |  |  |
-| Datum: |  | 06.08.2024 |  |  |  |
-|  | Kennzeichnung: |  | Öffentlich |  |  |
-| Status: | In | Kraft |  |  |  |
-| © | Kassenärztliche |  | Bundesvereinigung, | Berlin | 202 4 |
+IT in der Arztpraxis
 
-IT in der Arztpraxis Handbuch KBV-Prüfmodul KVDT XPM Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Version  1.18 In Kraft © Kassenärztliche Bundesvereinigung, Berlin 202 4
+Handbuch KBV-Prüfmodul KVDT XPM
+
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT]
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung
+
+Version 1.18  Datum: 06.08.2024  Kennzeichnung: Öffentlich  Status: In Kraft
+
+© Kassenärztliche Bundesvereinigung, Berlin 202 4
+
 
 ---
 

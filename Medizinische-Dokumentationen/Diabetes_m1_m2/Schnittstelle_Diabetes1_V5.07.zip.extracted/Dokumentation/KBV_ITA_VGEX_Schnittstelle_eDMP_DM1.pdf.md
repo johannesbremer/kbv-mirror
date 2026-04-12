@@ -108,15 +108,16 @@ Abschnitt „Relevante Ereignisse“  Relevante Ereignisse  Schwere Hypoglykämi
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | 14 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  |  | .......................................................................................................................... | 15 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | 16 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION | |  |  | ..................................................................................................... | 19 |
-| Seite | 4 von 47 / KBV | / | Schnittstellenbeschreibung | Diabetes | mellitus | Typ 1 / | Version: 5.07 | / 4. Mai 2023 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 47  /  KBV  /  Schnittstellenbeschreibung Diabetes mellitus Typ 1   /  Version: 5.07  /  4. Mai 2023
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................**  **ABBILDUNG 2: GRUNDSTRUKTUR BODY**  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION**  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION**
+
+Seite 4 von 47 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 1
+
+..........................................................................................................................  .....................................................................................................................  .....................................................................................................
+
+/ Version: 5.07 / 4. Mai 2023 14  15  16  19
+
 
 ---
 
@@ -232,11 +233,16 @@ XML-CODE 1: LEVELONE XML-CODE 2: BODY ..........................................
 
 ---
 
-| XML-CODE | 49: | OPHTHALMOLOGISCHE |  | NETZHAUTUNTERSUCHUNG | SEIT | LETZTER | DOKUMENT | ATION | ......................... | 45 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Seite | 7 von 47 / | KBV / | Schnittstellenbeschreibung | Diabetes mellitus | Typ 1 / Version: | 5.07 / 4. | Mai 2023 |  |  |  |
+**XML-CODE 49: OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT LETZTER DOKUMENT**
 
-XML-CODE 49: OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT LETZTER DOKUMENT Seite 7 von 47  /  KBV  /  Schnittstellenbeschreibung Diabetes mellitus Typ 1   /  Version: 5.07  /  4. Mai 2023
+Seite 7 von 47 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 1
+
+/ Version: 5.07 / 4. Mai 2023
+
+ATION .........................
+
+45
+
 
 ---
 

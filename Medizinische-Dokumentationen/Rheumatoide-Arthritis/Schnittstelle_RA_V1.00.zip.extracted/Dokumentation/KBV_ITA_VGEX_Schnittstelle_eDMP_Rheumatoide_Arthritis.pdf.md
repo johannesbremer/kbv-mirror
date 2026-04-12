@@ -112,15 +112,18 @@ BODY DER VERLAUFSDOKUMENTATION Sektion (section) Abschn itt „Administrative Da
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | 16 |
-| Seite | 4 von 32 / KBV | / | Schnittstellenbeschreibung | Rheumatoide | Arthritis | / Version: | 1.00 / 12. | August 2022 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 32  /  KBV  /  Schnittstellenbeschreibung Rheumatoide Arthritis  /  Version: 1.00  /  12. August 2022
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................**  **ABBILDUNG 2: GRUNDSTRUKTUR BODY**  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION**  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION**
+
+Seite 4 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+..........................................................................................................................  .....................................................................................................................
+
+.....................................................................................................
+
+12  13  14  16
+
 
 ---
 
@@ -410,18 +413,18 @@ Seite 13 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Versi
 
 ---
 
-| 6.1 | SEKTION | (SECTION) |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Das | <section>-Element | | setzt sich | aus | fünf | <paragraph>-Elementen | | zusammen. | Ein | <paragraph>-Element | |
-| beinhaltet | die | Kindelemente |  | <caption> und | <content>. | Die | Grundstruktur | des |  | <section>-Elements | ist in |
-| Abbildung | 3 dargestellt. | |  |  |  |  |  |  |  |  |  |
-| Abbildung | 3: | Grundstruktur | section |  |  |  |  |  |  |  |  |
-| Eine | Sektion enthält | die | Abschnitte |  | „Administrative | Daten“, | „Anamnese | - und |  | Befunddaten“, |  |
-| „ | Medikamentöse | und | sonstige | Maßnahmen | “, „Schulung“ | und |  | „Behandlungsplanung“, | | die jeweils | in einem |
-|  | <paragraph>-Element |  | untergebracht | sind. |  |  |  |  |  |  |  |
-| Seite 14 | von 32 / KBV | / | Schnittstellenbeschreibung | | Rheumatoide | Arthritis / | Version: 1.00 | / 12. | August 2022 |  |  |
+**6.1**
 
-Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 dargestellt. Abbildung 3: Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“, „ Medikamentöse und sonstige Maßnahmen “, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind. Seite 14 von 32  /  KBV  /  Schnittstellenbeschreibung Rheumatoide Arthritis  /  Version: 1.00  /  12. August 2022 SEKTION (SECTION)
+Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element  beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Abbildung 3 dargestellt.
+
+**Abbildung 3: Grundstruktur section**
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“,  „ Medikamentöse und sonstige Maßnahmen “, „Schulung“ und „Behandlungsplanung“, die jeweils in einem  <paragraph>-Element untergebracht sind.
+
+Seite 14 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+**SEKTION (SECTION)**
+
 
 ---
 

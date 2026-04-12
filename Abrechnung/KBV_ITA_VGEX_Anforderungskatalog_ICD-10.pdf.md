@@ -1076,14 +1076,12 @@ Seite 31 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD
 
 ---
 
-| „ Bestimmte |  | Laboruntersuchungen | im | Zusammenhang | mit | Diagnosen | dieses |  | ICD-10-GM-Kodes | | können |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| gemäß | Infektionsschutzgesetz | | (IfSG) und | EBM | außerhalb | des | Budgets | abgerechnet | werden | . Dies | wird mit |
-| der | Kennnummer 32006 | des EBM | automatisch |  | gekennzeichnet. | Die | Regelungen | des | EBM | sind zu |  |
-| beachten. | “ |  |  |  |  |  |  |  |  |  |  |
-| Seite 32 von | 75 / KBV / | Anforderungskatalog | zur Anwendung | der ICD | -10-GM / | Version: 3.10 | / 15. | August 2025 |  |  |  |
+*„ Bestimmte Laboruntersuchungen im Zusammenhang mit Diagnosen dieses ICD-10-GM-Kodes können*  *gemäß Infektionsschutzgesetz (IfSG) und EBM außerhalb des Budgets abgerechnet werden. Dies wird mit*  *der Kennnummer 32006 des EBM automatisch gekennzeichnet. Die Regelungen des EBM sind zu*  *beachten. “*
 
-„ Bestimmte Laboruntersuchungen im Zusammenhang mit Diagnosen dieses ICD-10-GM-Kodes können gemäß Infektionsschutzgesetz (IfSG) und EBM außerhalb des Budgets abgerechnet werden . Dies wird mit der Kennnummer 32006 des EBM automatisch gekennzeichnet. Die Regelungen des EBM sind zu beachten. “ Seite 32 von 75  /  KBV /  Anforderungskatalog zur Anwendung der ICD -10-GM  /  Version: 3.10 /  15. August 2025
+Seite 32 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD
+
+-10-GM / Version: 3.10 / 15. August 2025
+
 
 ---
 
@@ -2458,28 +2456,31 @@ Seite 68 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD
 
 ---
 
-| 7 |  | ABLAUFDIAGRAMME | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Behandlungsfallbezogene | Kodierregeln | bei | Kodierung |  |  |  |
-| Seite | 69 von 75 | / KBV / | Anforderungskatalog | zur Anwendung | der ICD -10-GM | / Version: | 3.10 / 15. | August 2025 |
+7
 
-Abbildung 1: Behandlungsfallbezogene Kodierregeln  bei Kodierung Seite 69 von 75  /  KBV /  Anforderungskatalog zur Anwendung der ICD -10-GM  /  Version: 3.10 /  15. August 2025
+### ABLAUFDIAGRAMME
 
----
+Abbildung 1: Behandlungsfallbezogene Kodierregeln bei Kodierung
 
-| Abbildung | 2: | Behandlungsfallbezogene | Kodierregeln | bei | Abrechnung |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Seite | 70 von 75 | / KBV / | Anforderungskatalog | zur Anwendung | der ICD -10-GM | / Version: | 3.10 / 15. | August 2025 |
+Seite 69 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD
 
-Abbildung 2: Behandlungsfallbezogene Kodierregeln bei Abrechnung Seite 70 von 75  /  KBV /  Anforderungskatalog zur Anwendung der ICD -10-GM  /  Version: 3.10 /  15. August 2025
+-10-GM / Version: 3.10 / 15. August 2025
+
 
 ---
 
-| Abbildung | 3: | Ausführung quartalsübergreifender | Kodierregeln |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Seite | 71 von 75 | / KBV / | Anforderungskatalog zur Anwendung | der ICD | -10-GM / Version: | 3.10 / 15. | August 2025 |
+Abbildung 2: Behandlungsfallbezogene Kodierregeln bei Abrechnung
 
-Abbildung 3: Ausführung quartalsübergreifender Kodierregeln Seite 71 von 75  /  KBV /  Anforderungskatalog zur Anwendung der ICD -10-GM  /  Version: 3.10 /  15. August 2025
+Seite 70 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD
+
+-10-GM / Version: 3.10 / 15. August 2025
+
+
+---
+
+Abbildung 3: Ausführung quartalsübergreifender Kodierregeln
+
+Seite 71 von 75 / KBV / Anforderungskatalog zur Anwendung der ICD-10-GM / Version: 3.10 / 15. August 2025
 
 
 ---

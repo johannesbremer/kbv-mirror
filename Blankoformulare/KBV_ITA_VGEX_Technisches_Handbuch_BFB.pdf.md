@@ -110,65 +110,94 @@ Barcode Inhalt Muster 13/E
 
 ---
 
-| 3.12 | Muster | 15 |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | 3.12.1 | Barcode | Inhalt | Muster | 15.1/E |  |  |  |  |
-| 3.13 | Muster | 19 |  |  |  |  |  |  |  |
-|  | 3.13.1 | Barcode | Inhalt | Muster | 19a/E |  |  |  |  |
-|  | 3.13.2 | Barcode | Inhalt | Muster | 19b/E |  |  |  |  |
-| 3.14 | Muster | 20 |  |  |  |  |  |  |  |
-|  | 3.14.1 | Barcode | Inhalt | Muster | 20b/E |  |  |  |  |
-| 3.15 | Muster | 21 |  |  |  |  |  |  |  |
-|  | 3.15.1 | Barcode | Inhalt | Muster | 21/E |  |  |  |  |
-| 3.16 | Muster | 25 |  |  |  |  |  |  |  |
-|  | 3.16.1 | Barcode | Inhalt | Muster | 25/E |  |  |  |  |
-| 3.17 | Muster | 26 |  |  |  |  |  |  |  |
-|  | 3.17.1 | Barcode | Inhalt | Muster | 26a/E |  |  |  |  |
-|  | 3.17.2 | Barcode | Inhalt | Muster | 26b/E |  |  |  |  |
-|  | 3.17.3 | Barcode | Inhalt | Muster | 26c/E |  |  |  |  |
-| 3.18 | Muster | 27 |  |  |  |  |  |  |  |
-|  | 3.18.1 | Barcode | Inhalt | Muster | 27a/E |  |  |  |  |
-|  | 3.18.2 | Barcode | Inhalt | Muster | 27b/E |  |  |  |  |
-|  | 3.18.3 | Barcode | Inhalt | Muster | 27c/E |  |  |  |  |
-| 3.19 | Muster | 28 |  |  |  |  |  |  |  |
-|  | 3.19.1 | Barcode | Inhalt | Muster | 28a/E |  |  |  |  |
-|  | 3.19.2 | Barcode | Inhalt | Muster | 28b/E |  |  |  |  |
-|  | 3.19.3 | Barcode | Inhalt | Muster | 28c/E |  |  |  |  |
-| 3.20 | Muster | 36 |  |  |  |  |  |  |  |
-|  | 3.20.1 | Barcode | Inhalt | Muster | 36/E |  |  |  |  |
-| 3.21 | Muster | 39 |  |  |  |  |  |  |  |
-|  | 3.21.1 | Barcode | Inhalt | Muster | 39a/E |  |  |  |  |
-|  | 3.21.2 | Barcode | Inhalt | Muster | 39b/E |  |  |  |  |
-| 3.22 | Muster | 50 |  |  |  |  |  |  |  |
-|  | 3.22.1 | Barcode | Inhalt | Muster | 50.2/E |  |  |  |  |
-| 3.23 | Muster | 51 |  |  |  |  |  |  |  |
-|  | 3.23.1 | Barcode | Inhalt | Muster | 51.2/E |  |  |  |  |
-| 3.24 | Muster | 52 |  |  |  |  |  |  |  |
-|  | 3.24.1 | Barcode | Inhalt | Muster | 52.2/E |  |  |  |  |
-| 3.25 | Muster | 53 |  |  |  |  |  |  |  |
-|  | 3.25.1 | Barcode | Inhalt | Muster | 53.2/E |  |  |  |  |
-| 3.26 | Muster | 55 |  |  |  |  |  |  |  |
-|  | 3.26.1 | Barcode | Inhalt | Muster | 55/E |  |  |  |  |
-| 3.27 | Muster | 56 |  |  |  |  |  |  |  |
-|  | 3.27.1 | Barcode | Inhalt | Muster | 56.2/E |  |  |  |  |
-| 3.28 | Muster | 61 |  |  |  |  |  |  |  |
-|  | 3.28.1 | Barcode | Inhalt | Muster | 61Ab/E |  |  |  |  |
-|  | 3.28.2 | Barcode | Inhalt | Muster | 61Ea /E |  |  |  |  |
-| 3.29 | Muster | 62 |  |  |  |  |  |  |  |
-|  | 3.29.1 | Barcode | Inhalt | Muster | 62Aa.1/E |  |  |  |  |
-|  | 3.29.2 | Barcode | Inhalt | Muster | 62Ba.1/E |  |  |  |  |
-| 3.30 | Muster | 63 |  |  |  |  |  |  |  |
-|  | 3.30.1 | Barcode | Inhalt | Muster | 63a.1/E |  |  |  |  |
-|  | 3.30.2 | Barcode | Inhalt | Muster | 63b/E |  |  |  |  |
-|  | 3.30.3 | Barcode | Inhalt | Muster | 63c/E |  |  |  |  |
-|  | 3.30.4 | Barcode | Inhalt | Muster | 63d/E |  |  |  |  |
-| 3.31 | Muster | 64 |  |  |  |  |  |  |  |
-|  | 3.31.1 | Barcode | Inhalt | Muster | 64/E |  |  |  |  |
-| Seite | 3 von | 143 / KBV | / Technisches | Handbuch | Blankoformularbedruckung | / Version: | 4.72 / | 14. November | 2025 |
+3.12
+
+3.13
+
+3.14
+
+3.15
+
+3.16
+
+3.17
+
+3.18
+
+3.19
+
+3.20
+
+3.21
+
+3.22
+
+3.23
+
+3.24
+
+3.25
+
+3.26
+
+3.27
+
+3.28
+
+3.29
+
+3.30
+
+3.31
+
+Seite 3 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
+
+Muster 15  3.12.1  Muster 19  3.13.1  3.13.2  Muster 20  3.14.1  Muster 21  3.15.1  Muster 25  3.16.1  Muster 26  3.17.1  3.17.2  3.17.3  Muster 27  3.18.1  3.18.2  3.18.3  Muster 28  3.19.1  3.19.2  3.19.3  Muster 36  3.20.1  Muster 39  3.21.1  3.21.2  Muster 50  3.22.1  Muster 51  3.23.1  Muster 52  3.24.1  Muster 53  3.25.1  Muster 55  3.26.1  Muster 56  3.27.1  Muster 61  3.28.1  3.28.2  Muster 62  3.29.1  3.29.2  Muster 63  3.30.1  3.30.2  3.30.3  3.30.4  Muster 64  3.31.1
+
+Barcode Inhalt Muster 15.1/E
+
+Barcode Inhalt Muster 19a/E  Barcode Inhalt Muster 19b/E
+
+Barcode Inhalt Muster 20b/E
+
+Barcode Inhalt Muster 21/E
+
+Barcode Inhalt Muster 25/E
+
+Barcode Inhalt Muster 26a/E  Barcode Inhalt Muster 26b/E  Barcode Inhalt Muster 26c/E
+
+Barcode Inhalt Muster 27a/E  Barcode Inhalt Muster 27b/E  Barcode Inhalt Muster 27c/E
+
+Barcode Inhalt Muster 28a/E  Barcode Inhalt Muster 28b/E  Barcode Inhalt Muster 28c/E
+
+Barcode Inhalt Muster 36/E
+
+Barcode Inhalt Muster 39a/E  Barcode Inhalt Muster 39b/E
+
+Barcode Inhalt Muster 50.2/E
+
+Barcode Inhalt Muster 51.2/E
+
+Barcode Inhalt Muster 52.2/E
+
+Barcode Inhalt Muster 53.2/E
+
+Barcode Inhalt Muster 55/E
+
+Barcode Inhalt Muster 56.2/E
+
+Barcode Inhalt Muster 61Ab/E  Barcode Inhalt Muster 61Ea /E
+
+Barcode Inhalt Muster 62Aa.1/E  Barcode Inhalt Muster 62Ba.1/E
+
+Barcode Inhalt Muster 63a.1/E  Barcode Inhalt Muster 63b/E  Barcode Inhalt Muster 63c/E  Barcode Inhalt Muster 63d/E
+
+Barcode Inhalt Muster 64/E
+
+/ Version: 4.72 / 14. November 2025
 
 61  61  62  62  63  65  65  66  66  67  67  68  68  69  70  71  71  72  73  74  74  75  76  77  77  78  78  82  86  86  87  87  88  88  89  89  90  90  91  91  92  92  93  94  94  95  96  96  97  98  99  100  100
 
-Seite 3 von 143  /  KBV  /  Technisches Handbuch Blankoformularbedruckung Muster 15 Muster 19 Muster 20 Muster 21 Muster 25 Muster 26 Muster 27 Muster 28 Muster 36 Muster 39 Muster 50 Muster 51 Muster 52 Muster 53 Muster 55 Muster 56 Muster 61 Muster 62 Muster 63 Muster 64 Barcode Inhalt Muster 15.1/E Barcode Inhalt Muster 19a/E Barcode Inhalt Muster 19b/E Barcode Inhalt Muster 20b/E Barcode Inhalt Muster 21/E Barcode Inhalt Muster 25/E Barcode Inhalt Muster 26a/E Barcode Inhalt Muster 26b/E Barcode Inhalt Muster 26c/E Barcode Inhalt Muster 27a/E Barcode Inhalt Muster 27b/E Barcode Inhalt Muster 27c/E Barcode Inhalt Muster 28a/E Barcode Inhalt Muster 28b/E Barcode Inhalt Muster 28c/E Barcode Inhalt Muster 36/E Barcode Inhalt Muster 39a/E Barcode Inhalt Muster 39b/E Barcode Inhalt Muster 50.2/E Barcode Inhalt Muster 51.2/E Barcode Inhalt Muster 52.2/E Barcode Inhalt Muster 53.2/E Barcode Inhalt Muster 55/E Barcode Inhalt Muster 56.2/E Barcode Inhalt Muster 61Ab/E Barcode Inhalt Muster 61Ea /E Barcode Inhalt Muster 62Aa.1/E Barcode Inhalt Muster 62Ba.1/E Barcode Inhalt Muster 63a.1/E Barcode Inhalt Muster 63b/E Barcode Inhalt Muster 63c/E Barcode Inhalt Muster 63d/E Barcode Inhalt Muster 64/E   /  Version: 4.72  /  14. November 2025
 
 ---
 
@@ -12417,30 +12446,34 @@ Seite 126 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 
 ---
 
-| 5.6.3 | Zeichensatz |  | PC437 | (veraltet) |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | Zeichensatz | PC437, der | bis 4/2009 | als | Default -Zeichensatz | im | BC-Mode | diente. |  |
-| Seite | 127 von 143 | / KBV / | Technisches | Handbuch | Blankoformularbedruckung | / Version: | 4.72 / | 14. November | 2025 |
+**5.6.3 Zeichensatz PC437 (veraltet)**
 
-Zeichensatz PC437 (veraltet) Zeichensatz PC437, der bis 4/2009 als Default -Zeichensatz im BC-Mode diente. Seite 127 von 143  /  KBV  /  Technisches Handbuch Blankoformularbedruckung   /  Version: 4.72  /  14. November 2025
+Zeichensatz PC437, der bis 4/2009 als Default-Zeichensatz im BC-Mode diente.
+
+Seite 127 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.72 / 14. November 2025
+
+
+---
+
+**5.6.4**
+
+Im Bedarfsfall, z.B. bei Umlauten/Sonderzeichen, kann auf BC geschaltet werden.
+
+Seite 128 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
+
+**TC-Sub-Mode-Zeichensatz**
+
+/ Version: 4.72 / 14. November 2025
 
 
 ---
 
-| 5.6.4 |  |  | TC-Sub-Mode-Zeichensatz | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Im | Bedarfsfall, | z.B. | bei | Umlauten/Sonderzeichen, | | kann | auf BC | geschaltet werden. |  |
-| Seite | 128 von | 143 / | KBV / | Technisches Handbuch |  | Blankoformularbedruckung | / Version: | 4.72 / 14. | November 2025 |
+**5.6.5 Kodiertabelle von PDF417-Codewörtern**
 
-Im Bedarfsfall, z.B. bei Umlauten/Sonderzeichen, kann auf BC geschaltet werden. Seite 128 von 143  /  KBV  /  Technisches Handbuch Blankoformularbedruckung   /  Version: 4.72  /  14. November 2025
+Seite 129 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
----
+/ Version: 4.72 / 14. November 2025
 
-| 5.6.5 |  | Kodiertabelle | von |  | PDF417-Codewörtern |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Seite | 129 von | 143 / KBV | / | Technisches | Handbuch Blankoformularbedruckung | / Version: | 4.72 / | 14. November | 2025 |
-
-Kodiertabelle von PDF417-Codewörtern Seite 129 von 143  /  KBV  /  Technisches Handbuch Blankoformularbedruckung   /  Version: 4.72  /  14. November 2025
 
 ---
 

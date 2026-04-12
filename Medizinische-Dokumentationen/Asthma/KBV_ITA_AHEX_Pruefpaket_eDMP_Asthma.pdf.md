@@ -68,17 +68,12 @@ Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung de
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für | die | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | Archivdatei | mit | den Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für | die | Testdatenvalidierung |
-| Seite 3 | von 36 / KBV | / | Pruefpaket eDMP-Asthma | / Version: | 1.23 / | 31. März | 2026 |
+## ABBILDUNGSVERZEICHNIS
 
-8  8  30  30
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen 8  Abbildung 3: Testdatenvalidierung 30  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 30
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 36  /  KBV  /  Pruefpaket eDMP-Asthma  /  Version: 1.23  /  31. März 2026
+Seite 3 von 36 / KBV / Pruefpaket eDMP-Asthma / Version: 1.23 / 31. März 2026
+
 
 ---
 
@@ -1317,14 +1312,14 @@ ________________
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat | | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de | |  |  |
-|  | Kassenärztliche | | Bundesvereinigung | |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |
-| Seite | 36 von 36 | / KBV | / Pruefpaket | eDMP-Asthma | / Version: | 1.23 / | 31. März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 36 von 36  /  KBV  /  Pruefpaket eDMP-Asthma  /  Version: 1.23  /  31. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 36 von 36 / KBV / Pruefpaket eDMP-Asthma /
+
+Version: 1.23 / 31. März 2026

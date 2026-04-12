@@ -1,15 +1,21 @@
-|  |  | VERZEICHNIS | |  | ZERTIFIZIERTER |  | SOFTWARE | |  |
-|---|---|---|---|---|---|---|---|---|---|
-| FÜR | DIE | |  |  | VERORDNUNGSSOFTWARE- | | |  |  |
-|  |  | SCHNITTSTELLE | | GEMÄß | § | 291D | ABSATZ | | 1A |
-| SATZ | 1 | NR. | 1 | SGB V |  |  |  |  |  |
-| IT IN | DER | ARZTPRAXIS | |  |  |  |  |  |  |
-|  |  |  |  |  |  | DEZERNAT |  | DIGITALISIERUNG | UND IT |
-|  |  |  |  |  |  |  |  | 04. | APRIL 2026 |
-|  |  |  |  |  |  |  | KENNZEICHNUNG: |  | ÖFFENTLICH |
-|  |  |  |  |  |  |  |  | STATUS: | IN KRAFT |
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
 
-VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE VERORDNUNGSSOFTWARE- SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A SATZ 1 NR. 1 SGB V IT IN DER ARZTPRAXIS DEZERNAT DIGITALISIERUNG UND IT 04. APRIL 2026 KENNZEICHNUNG: ÖFFENTLICH STATUS: IN KRAFT
+# FÜR DIE VERORDNUNGSSOFTWARE-
+
+# SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A
+
+# SATZ 1 NR. 1 SGB V
+
+### IT IN DER ARZTPRAXIS
+
+**DEZERNAT DIGITALISIERUNG UND IT**
+
+**11. APRIL 2026**
+
+**KENNZEICHNUNG: ÖFFENTLICH**
+
+**STATUS: IN KRAFT**
+
 
 ---
 
@@ -30,7 +36,7 @@ VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE VERORDNUNGSSOFTWARE- SCHNITTSTELLE 
 |---|---|---|---|---|
 |  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2312/36/031
 
@@ -66,7 +72,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 |---|---|---|---|---|
 |  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/112
 
@@ -104,7 +110,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|---|
 |  | Y/70/2409/36/238 | 31.08.2027 | B1-Schnittstelle |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/280
 
@@ -140,7 +146,7 @@ Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Inter
 |---|---|---|---|---|
 |  | Y/70/2311/36/295 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/488
 
@@ -176,7 +182,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/70/2408/36/034 | 31.07.2027 | B1-Schnittstelle |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/253
 
@@ -212,7 +218,7 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 |---|---|---|---|---|
 |  | Y/70/2312/36/136 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/244
 
@@ -248,7 +254,7 @@ ifap VoS ifap Service-Institut für Ärzte und Apotheker GmbH Bunsenstraße 7 82
 |---|---|---|---|---|
 |  | Y/70/2308/36/216 | 31.07.2026 | B1-Schnittstelle |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/406
 
@@ -284,7 +290,7 @@ CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Eber
 |---|---|---|---|---|
 |  | Y/70/2311/36/641 | 31.10.2026 | B2-Schnittstelle |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/243
 
@@ -316,7 +322,7 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 |---|---|---|---|---|
 |  | Y/70/2312/36/251 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2403/36/439 28.02.2027
 
@@ -344,7 +350,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |---|---|---|---|---|
 |  | Y/70/2410/36/487 | 30.09.2027 | B1-Schnittstelle |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2312/36/276
 
@@ -380,7 +386,7 @@ SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: w
 |---|---|---|---|---|
 |  | Y/70/2402/36/348 | 31.01.2027 | B1-Schnittstelle |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2307/36/744
 
@@ -416,7 +422,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 |---|---|---|---|---|
 |  | Y/70/2310/36/230 | 30.09.2026 | B1-Schnittstelle |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2311/36/456
 
@@ -456,7 +462,7 @@ S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Wein
 |---|---|---|---|---|
 |  | Y/70/2406/36/672 | 31.05.2027 | B2-Schnittstelle |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026
 
 Y/70/2312/36/458
 
@@ -489,4 +495,4 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 |  |  | gültig bis |  | Betriebssysteme |
 |  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OSSeite 15 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. April 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OSSeite 15 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 11. April 2026

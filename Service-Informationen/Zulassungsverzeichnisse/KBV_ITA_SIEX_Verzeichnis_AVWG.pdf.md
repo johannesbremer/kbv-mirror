@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**04. APRIL 2026**
+**11. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 |  | Y/400/2410/36/081 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/062
 
@@ -72,7 +72,7 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 **CGM Clinical Europe GmbH** Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
-Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2409/37/754
 
@@ -124,7 +124,7 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2504/36/203 | 31.03.2028 | ifap praxisCENTER |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2602/35/346
 
@@ -156,7 +156,7 @@ TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet
 |---|---|---|---|---|
 |  | Y/400/2410/36/280 | 30.09.2027 | ifap praxisCENTER |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2510/36/023 30.09.2028
 
@@ -188,7 +188,7 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 **DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2412/37/752
 
@@ -240,7 +240,7 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2507/36/677 | 30.06.2028 | MMI PHARMINDEX |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2410/36/254
 
@@ -276,7 +276,7 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |---|---|---|---|---|
 |  | Y/400/2510/36/253 | 30.09.2028 | ifap praxisCENTER |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2410/36/602
 
@@ -312,7 +312,7 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|---|
 |  | Y/400/2502/38/630 | 31.03.2028 | ifap praxisCENTER |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/223
 
@@ -348,7 +348,7 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|---|
 |  | Y/400/2601/36/195 | 31.12.2028 | ifap praxisCENTER |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2510/36/244
 
@@ -384,7 +384,7 @@ garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.
 |---|---|---|---|---|
 |  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 X/400/2410/36/617
 
@@ -420,7 +420,7 @@ IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.i
 |---|---|---|---|---|
 |  | Y/400/2504/36/136 | 31.03.2028 |  |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2506/37/596
 
@@ -456,7 +456,7 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |---|---|---|---|---|
 |  | Y/400/2510/36/462 | 30.09.2028 | Rohdaten ABDAMED |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/320
 
@@ -492,7 +492,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|---|
 |  | Y/400/2510/36/192 | 30.09.2028 | Rohdaten ABDAMED |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2602/38/641
 
@@ -526,7 +526,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/400/2410/36/290 | 30.09.2027 | Rohdaten ABDAMED |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2410/36/251 30.09.2027
 
@@ -558,7 +558,7 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2510/36/387
 
@@ -610,7 +610,7 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2507/36/487 | 30.06.2028 |  |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/043
 
@@ -646,7 +646,7 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 |---|---|---|---|---|
 |  | Y/400/2410/36/247 | 30.09.2027 | MMI PHARMINDEX |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/208
 
@@ -682,7 +682,7 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |---|---|---|---|---|
 |  | Y/400/2405/38/759 | 30.06.2027 | Rohdaten ABDAMED |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2510/36/348
 
@@ -718,7 +718,7 @@ RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken I
 |---|---|---|---|---|
 |  | Y/400/2504/36/230 | 31.03.2028 | Rohdaten MMI |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2504/36/261
 
@@ -758,7 +758,7 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|---|
 |  | Y/400/2401/36/672 | 31.12.2026 | Rohdaten MMI |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
 
 Y/400/2510/36/458
 
@@ -794,4 +794,4 @@ AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelb
 |---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 04. April 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026

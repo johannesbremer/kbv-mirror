@@ -72,17 +72,12 @@ Prüffall 2621  Prüffall 2640 14. August 2024
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für die | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | Archivdatei | mit den Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |
-| Seite 3 | von 44 / KBV | / Pruefpaket | DMP-Brustkrebs | / Version: | 4.28 / 14. | August 2024 |
+## ABBILDUNGSVERZEICHNIS
 
-8  8  38  39
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen  Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 44  /  KBV  /  Pruefpaket DMP-Brustkrebs  /  Version: 4.28  /  14. August 2024
+Seite 3 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024 8  8  38  39
+
 
 ---
 
@@ -2491,14 +2486,14 @@ Prüfmodul Brustkrebs 14. August 2024
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Dezernat | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  |  | pruefstelle@kbv.de, | | www.kbv.de |  |  |  |
-| Seite | 44 von 44 | / KBV | / Pruefpaket | DMP-Brustkrebs | / Version: | 4.28 / 14. | August 2024 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, www.kbv.de Seite 44 von 44  /  KBV  /  Pruefpaket DMP-Brustkrebs  /  Version: 4.28  /  14. August 2024
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 44 von 44 / KBV / Pruefpaket DMP-Brustkrebs /
+
+Version: 4.28 / 14. August 2024

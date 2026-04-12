@@ -128,22 +128,14 @@ In welchem Rhythmus sind die Dokumentationen zu erstellen? Die Dokumentation sol
 
 ---
 
-|  |  | Bearbeitungshinweis | | zur | Dokumentation | Brustkrebs | | Version 4, | Stand | .06.05.2024 | |  | 3 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Wie | werden | | die | Dokumentationen | | weitergeleitet | | und | honoriert? |  |  |  |  |
-| Nach | der |  | Erstellung | der | Dokumentation | | ist diese | innerhalb | von | 10 | Kalendertagen | | nach Ab- |
-| lauf | des |  |  | Dokumentationszeitraumes | an | die | Datenstelle | zu | übermitteln. | | Sollten | die von | Ihnen |
-|  | vorgenommenen | | Angaben | in der |  | Dokumentation |  | unvollständig | oder |  | unplausibel | sein, | wird sie |
-| in | Kopie | an | Sie zur | Korrektur |  | zurückgeschickt. | | Die | vollständige | und | plausible | | Dokumenta- |
-| tion | muss |  | inklusive | abgeschlossener | | Korrektur | | bzw. | Vervollständigung | | erneut | von Ihnen | unter |
-|  | Angabe | des | Korrekturdatums | | zurückgesandt | | werden | und der |  | vertraglich |  | vereinbarten | Daten- |
-|  | stelle | innerhalb | von | 52 | Kalendertagen | | nach Ende | des | Quartals, | in | dem die |  | Dokumentation |
-|  | erstellt | wurde, | vorliegen. |  |  |  |  |  |  |  |  |  |  |
-| Wenn | Sie | noch | Fragen | zum | Ausfüllen | oder | zur | Handhabung | der |  | Dokumentation | haben, | wen- |
-| den | Sie | sich | bitte an | die | zuständige | Stelle. |  |  |  |  |  |  |  |
-| *Die | Angaben | zu | den | Dokumentationsfeldern | bezieht | sich | auf die | Feldnummerierung | in | der Anlage | 4 der | DMP -A-RL |  |
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
-Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 Wie werden die Dokumentationen weitergeleitet und honoriert? Nach der Erstellung der Dokumentation ist diese innerhalb von 10 Kalendertagen nach Ab- lauf des Dokumentationszeitraumes an die Datenstelle zu übermitteln. Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder unplausibel sein, wird sie in Kopie an Sie zur Korrektur zurückgeschickt. Die vollständige und plausible Dokumenta- tion muss inklusive abgeschlossener Korrektur bzw. Vervollständigung erneut von Ihnen unter Angabe des Korrekturdatums zurückgesandt werden und der vertraglich vereinbarten Daten- stelle innerhalb von 52 Kalendertagen nach Ende des Quartals, in dem die Dokumentation erstellt wurde, vorliegen.  Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben, wen- den Sie sich bitte an die zuständige Stelle. *Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP
+*Wie werden die Dokumentationen weitergeleitet und honoriert?*  Nach der Erstellung der Dokumentation ist diese innerhalb von 10 Kalendertagen nach Ab- lauf des Dokumentationszeitraumes an die Datenstelle zu übermitteln. Sollten die von Ihnen  vorgenommenen Angaben in der Dokumentation unvollständig oder unplausibel sein, wird sie  in Kopie an Sie zur Korrektur zurückgeschickt. Die vollständige und plausible Dokumenta- tion muss inklusive abgeschlossener Korrektur bzw. Vervollständigung erneut von Ihnen unter  Angabe des Korrekturdatums zurückgesandt werden und der vertraglich vereinbarten Daten- stelle innerhalb von 52 Kalendertagen nach Ende des Quartals, in dem die Dokumentation  erstellt wurde, vorliegen.   Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben, wen- den Sie sich bitte an die zuständige Stelle.
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP 3
+
+-A-RL
+
 
 ---
 
@@ -531,17 +523,26 @@ Dokumentati-
 
 ---
 
-|  | Bearbeitungshinweis | | zur | Dokumentation |  | Brustkrebs | Version | 4, Stand | .06.05.2024 | |  | 14 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Wurde | in der | zuständigen | Stelle |  | festgestellt, | dass | die | Angaben in | der | Dokumentation | an | einer oder |
-| mehreren | Stellen |  | unvollständig | oder | unplausibel | | sind, | erhalten Sie | einen | Ausdruck | der | Dokumentation |
-| zurück | und werden | | aufgefordert, | diese | n | zu | korrigieren | und erneut | mit | dem | aktuellen | Datum der |
-| Korrektur | zu | versehen. | Die | vollständige | | und | plausible | Dokumentation | muss | der | vertraglich | vereinbar- |
-| ten | Datenstelle |  | einschließlich | der |  | abgeschlossenen | Korrektur |  | innerhalb | von 52 | Tagen nach | Ablauf |
-| des | Quartals, | in dem | die | Dokumentation | | erstellt | wurde, | vorliegen. |  |  |  |  |
-| *Die | Angaben zu | den | Dokumentationsfeldern | | bezieht | sich auf | die | Feldnummerierung | in der | Anlage 4 der | DMP -A-RL |  |
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
-Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 Wurde in der zuständigen Stelle festgestellt, dass die Angaben mehreren Stellen unvollständig oder unplausibel sind, erhalten Sie einen Ausdruck der Dokumentation zurück und werden aufgefordert, diese Korrektur zu versehen. Die vollständige und plausible Dokumentation muss der vertraglich vereinbar- ten Datenstelle einschließlich der abgeschlossenen Korrektur des Quartals, in dem die Dokumentation erstellt wurde, vorliegen. *Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP n zu korrigieren und erneut mit dem aktuellen Datum in der Dokumentation an einer innerhalb von 52 Tagen nach Ablauf
+Wurde in der zuständigen Stelle festgestellt, dass die Angaben  mehreren Stellen unvollständig oder unplausibel sind, erhalten Sie einen Ausdruck der Dokumentation  zurück und werden aufgefordert, diese **Korrektur zu versehen. Die vollständige und plausible Dokumentation muss der vertraglich vereinbar-** ten Datenstelle einschließlich der abgeschlossenen Korrektur  **des Quartals, in dem die Dokumentation erstellt wurde, vorliegen.**
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP
+
+n zu korrigieren und erneut mit dem aktuellen Datum
+
+in der Dokumentation an einer
+
+**innerhalb von 52 Tagen nach Ablauf**
+
+14
+
+oder
+
+**der**
+
+-A-RL
+
 
 ---
 
@@ -789,18 +790,22 @@ Dokumentati-
 
 ---
 
-| 7 | Datum |  |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 7.1 | Datum | der | Erstellung |  | (entspricht |  | Erstdokumentation | | | Abschnitt | 8.1) |  |  |
-| Für | den Verbleib | de r | Patientin | im | DMP ist | das Datum |  | relevant, | an dem | die | Dokumentation | | vollständig |
-|  | ausgefüllt | wurde. Daher |  | müssen Sie | das | Datum | eintragen. | Die |  | Dokumentation | muss | innerhalb | von |
-| 10 | Tagen nach | Ablauf | des |  | Dokumentationszeitraumes | | | an | die | vertraglich | vereinbarte | | Datenstelle |
-|  | übermittelt | werden. |  |  |  |  |  |  |  |  |  |  |  |
-| Wurde | in der | zuständigen | Stelle |  | festgestellt, | dass | die | Angaben | in der |  | Dokumentation | an einer | oder |
-| mehreren | Stellen |  | unvollständig | oder | unplausibel | | sind, | erhalten | Sie | einen | Ausdruck | der | Dokumentation |
-| zurück | und | werden | aufgefordert, | | diese zu | korrigieren | | und | erneut mit | dem | aktuellen | Datum | der Kor- |
-| rektur | zu | versehen. Die |  | vollständige | und | plausible |  | Dokumentation | muss | der | vertraglich |  | vereinbarten |
-|  | Datenstelle | einschließlich | | der | abgeschlossenen |  | Korrektur | innerhalb | von | 52 | Tagen | nach | Ablauf des |
-| Quartals, | in | dem die | Dokumentation | | erstellt | wurde, |  | vorliegen. |  |  |  |  |  |
+***7***
 
-Datum der Erstellung (entspricht Erstdokumentation Abschnitt Für den Verbleib de r Patientin im DMP ist das Datum relevant, an dem die Dokumentation ausgefüllt wurde. Daher müssen Sie das Datum eintragen. Die Dokumentation muss 10 Tagen nach Ablauf des Dokumentationszeitraumes übermittelt werden. Wurde in der zuständigen Stelle festgestellt, dass die Angaben mehreren Stellen unvollständig oder unplausibel sind, erhalten Sie einen Ausdruck der Dokumentation zurück und werden aufgefordert, diese zu korrigieren und erneut mit dem aktuellen Datum rektur zu versehen. Die vollständige und plausible Dokumentation muss der vertraglich vereinbarten Datenstelle einschließlich der abgeschlossenen Korrektur innerhalb von 52 Tagen Quartals, in dem die Dokumentation erstellt wurde, vorliegen.  an die vertraglich vereinbarte Datenstelle in der Dokumentation an einer innerhalb von nach Ablauf des
+### Datum
+
+***7.1 Datum der Erstellung (entspricht Erstdokumentation Abschnitt***   Für den Verbleib der Patientin im DMP ist das Datum relevant, an dem die Dokumentation **ausgefüllt wurde. Daher müssen Sie das Datum eintragen. Die Dokumentation muss**  **10 Tagen nach Ablauf des Dokumentationszeitraumes** übermittelt werden.   Wurde in der zuständigen Stelle festgestellt, dass die Angaben  mehreren Stellen unvollständig oder unplausibel sind, erhalten Sie einen Ausdruck der Dokumentation  zurück und werden aufgefordert, diese zu korrigieren und erneut mit dem aktuellen Datum  **rektur zu versehen. Die vollständige und plausible Dokumentation muss der vertraglich vereinbarten**  Datenstelle einschließlich der abgeschlossenen Korrektur innerhalb von 52 Tagen  **Quartals, in dem die Dokumentation erstellt wurde, vorliegen.**
+
+an die vertraglich vereinbarte Datenstelle
+
+in der Dokumentation an einer
+
+***8.1)***
+
+**vollständig**  **innerhalb von**
+
+oder
+
+**der Kor-**
+
+**nach Ablauf des**

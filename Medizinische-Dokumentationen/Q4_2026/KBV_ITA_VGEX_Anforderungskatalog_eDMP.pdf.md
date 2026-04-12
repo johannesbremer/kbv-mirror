@@ -2240,15 +2240,13 @@ und Folgedokumentation)
 
 ---
 
-| Die | folgenden |  | schematischen | Darstellungen | dienen | der Erfassung | der | Anzahl der | geschwollenen | Gelenke | von |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 28 | definierten |  | Gelenken | (Abb. 1) sowie | der | Anzahl der | druckschmerzhaften | Gelenke | von | 28 | definierten |
-| Gelenken | | (Abb. 2). |  |  |  |  |  |  |  |  |  |
-|  |  | Geschwollene | Gelenke | (sw28) |  |  |  |  |  |  |  |
-| Abbildung | 1: | Erfassung | der Anzahl | der | geschwollenen Gelenke | (sw28) |  |  |  |  |  |
-| Seite | 54 von 84 | / KBV | / | Anforderungskatalog eDMP | / Version: | 2.49 / 13. | Februar 2026 |  |  |  |  |
+Die folgenden schematischen Darstellungen dienen der Erfassung der Anzahl der geschwollenen Gelenke von  28 definierten Gelenken (Abb. 1) sowie der Anzahl der druckschmerzhaften Gelenke von 28 definierten  Gelenken (Abb. 2).
 
-Die folgenden schematischen Darstellungen dienen der Erfassung der Anzahl der geschwollenen Gelenke von 28 definierten Gelenken (Abb. 1) sowie der Anzahl der druckschmerzhaften Gelenke von 28 definierten Gelenken (Abb. Geschwollene Gelenke (sw28) Abbildung 1: Erfassung der Anzahl der geschwollenen Gelenke (sw28) Seite 54 von 84  /  KBV  /  Anforderungskatalog eDMP  /  Version: 2.49  /  13. Februar 2026
+**Geschwollene Gelenke (sw28)**
+
+Abbildung 1: Erfassung der Anzahl der geschwollenen Gelenke (sw28)
+
+Seite 54 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.49 / 13. Februar 2026
 
 
 ---

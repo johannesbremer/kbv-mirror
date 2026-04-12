@@ -1,9 +1,11 @@
-|  | AUSFÜLLHILFE: | | FORMBLATT | PTV | 11 | – | INDIVIDUELLE | |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  | PATIENTENINFORMATION | | ZUR |  | SPRECHSTUNDE | |  |  |
-| Seite 1 | von 3 / KBV | / | Ausfüllhilfe: Formblatt | PTV 11 – | Individuelle | Patienteninformation | zur Sprechstunde | / 1. | Januar 2025 |
+## AUSFÜLLHILFE: FORMBLATT PTV 11 – INDIVIDUELLE
 
-AUSFÜLLHILFE: FORMBLATT PTV 11 – INDIVIDUELLE PATIENTENINFORMATION ZUR SPRECHSTUNDE Seite 1 von 3  /  KBV  /  Ausfüllhilfe: Formblatt PTV 11 – Individuelle Patienteninformation zur Sprechstunde 1. Januar 2025
+## PATIENTENINFORMATION ZUR SPRECHSTUNDE
+
+Seite 1 von 3 / KBV / Ausfüllhilfe: Formblatt PTV 11 – Individuelle Patienteninformation zur Sprechstunde
+
+/ 1. Januar 2025
+
 
 ---
 

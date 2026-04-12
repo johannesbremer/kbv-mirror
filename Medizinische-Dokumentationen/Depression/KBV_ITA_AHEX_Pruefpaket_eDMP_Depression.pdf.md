@@ -69,17 +69,12 @@ Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung de
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | | Verzeichnisstruktur | für die | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | Archivdatei | mit den Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |
-| Seite 3 | von 34 / KBV | / Prüfpaket | eDMP-Depression | / Version: | 1.04 / 31. | März 2026 |
+## ABBILDUNGSVERZEICHNIS
 
-7  7  28  28
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen 7  Abbildung 3: Testdatenvalidierung 28  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 34  /  KBV  /  Prüfpaket eDMP-Depression  /  Version: 1.04  /  31. März 2026
+Seite 3 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 
 ---
 
@@ -1138,13 +1133,12 @@ der Depression daten des indikationsübergreifenden allgemeinen Daten satzes dat
 
 ---
 
-| Dezernat | | Digitalisierung | | und IT |  |  |  |
-|---|---|---|---|---|---|---|---|
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, | | pruefstelle@kbv.de |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |
-| Seite | 34 von 34 | / KBV | / Prüfpaket | eDMP-Depression | / Version: | 1.04 / | 31. März 2026 |
+Dezernat Digitalisierung und IT
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 34 von 34  /  KBV  /  Prüfpaket eDMP-Depression  /  Version: 1.04  /  31. März 2026
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 34 von 34 / KBV / Prüfpaket eDMP-Depression /
+
+Version: 1.04 / 31. März 2026

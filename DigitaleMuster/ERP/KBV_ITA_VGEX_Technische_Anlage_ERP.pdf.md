@@ -91,49 +91,12 @@ Dateiname FHIR-Profile Formularübergreifende Profile spezifische ERP-Profile sp
 
 ---
 
-|  |  | TABELLENVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Tabelle | 1: | KBV_PR_ERP_Bundle |  |  |  |  |  |  | 10 |
-| Tabelle | 2: | KBV_PR_ERP_Composition | |  |  |  |  |  | 10 |
-| Tabelle | 3: | KBV_PR_ERP_Prescription | |  |  |  |  |  | 11 |
-| Tabelle | 4: | KBV_PR_ERP_PracticeSupply | |  |  |  |  |  | 11 |
-| Tabelle | 5: | KBV_PR_ERP_Medication_PZN | | |  |  |  |  | 11 |
-| Tabelle | 6: |  | KBV_PR_ERP_Medication_Ingredient | |  |  |  |  | 11 |
-| Tabelle | 7: |  | KBV_PR_ERP_Medication_Compounding | |  |  |  |  | 11 |
-| Tabelle | 8: |  | KBV_PR_ERP_Medication_FreeText | |  |  |  |  | 12 |
-| Tabelle | 10: |  | KBV_EX_ERP_EmergencyServicesFee | |  |  |  |  | 12 |
-| Tabelle | 11: | KBV_EX_ERP_DosageFlag | |  |  |  |  |  | 12 |
-| Tabelle | 12: |  | KBV_EX_ERP_PracticeSupply_Payor | |  |  |  |  | 12 |
-| Tabelle | 13: |  | KBV_EX_ERP_Medication_Vaccine | |  |  |  |  | 13 |
-| Tabelle | 14: |  | KBV_EX_ERP_Medication_Category | |  |  |  |  | 13 |
-| Tabelle | 15: |  | KBV_EX_ERP_Medication_Packaging | |  |  |  |  | 13 |
-| Tabelle | 16: |  |  | KBV_EX_ERP_Medication_CompoundingInstruction | |  |  |  | 13 |
-| Tabelle | 17: |  | KBV_EX_ERP_Medication_Ingredient_Form | | |  |  |  | 14 |
-| Tabelle | 18: |  | KBV_EX_ERP_Medication_Ingredient_Amount | | |  |  |  | 14 |
-| Tabelle | 19: |  | KBV_EX_ERP_Medication_PackagingSize | |  |  |  |  | 14 |
-| Tabelle | 20: |  | KBV_EX_ERP_Multiple_Prescription | |  |  |  |  | 14 |
-| Tabelle | 21: | KBV_EX_ERP_Prescriber_ID | |  |  |  |  |  | 14 |
-| Tabelle | 22: |  | KBV_CS_ERP_Medication_Category | |  |  |  |  | 15 |
-| Tabelle | 23: |  | KBV_VS_ERP_Medication_Category | |  |  |  |  | 15 |
-| Tabelle | 24: | KBV_CS_ERP_Medication_Type | | |  |  |  |  | 15 |
-| Tabelle | 25: | KBV_CS_ERP_Section_Type | |  |  |  |  |  | 15 |
-| Tabelle | 26: | KBV_VS_ERP_StatusCoPayment | | |  |  |  |  | 15 |
-| Tabelle | 27: | KBV_VS_ERP_Accident_Type | | |  |  |  |  | 16 |
-| Tabelle | 28: | Mapping |  | KBV_PR_ERP_Medication_PZN |  |  |  |  | 21 |
-| Tabelle | 29: Mapping |  |  | KBV_PR_ERP_Medication_Ingredient | |  |  |  | 23 |
-| Tabelle | 30: | Mapping |  | KBV_PR_ERP_Medication_Compounding | |  |  |  | 25 |
-| Tabelle | 31: | Mapping |  | KBV_PR_ERP_Medication_FreeText | |  |  |  | 26 |
-| Tabelle | 32: Mapping |  | KBV_PR_ERP_Prescription | |  |  |  |  | 29 |
-| Tabelle | 33: | Referenzierte | Instanzen |  | KBV_PR_ERP_Prescription |  |  |  | 30 |
-| Tabelle | 34: Mapping |  | KBV_PR_ERP_PracticeSupply | |  |  |  |  | 31 |
-| Tabelle | 35: | Referenzierte | Instanzen |  | KBV_PR_ERP_PracticeSupply |  |  |  | 32 |
-| Tabelle | 36: | Mapping | KBV_PR_ERP_Composition | |  |  |  |  | 33 |
-| Tabelle | 37: | Referenzierte | Instanzen |  | KBV_PR_ERP_Composition |  |  |  | 34 |
-| Tabelle | 38: | Mapping | KBV_PR_ERP_Bundle | |  |  |  |  | 35 |
-| Tabelle | 39: Auflistung | der | abzubildenden | Felder | für das ERP |  |  |  | 88 |
-| SEITE | 3 VON 90 / | KBV / TECHNISCHE | ANLAGE | ZUR | ELEKTRONISCHEN | ARZNEIMITTELVERORDNUNG (E16A) | / 18. DEZEMBER | 2025 / | VERSION: 1.69 |
+## TABELLENVERZEICHNIS
 
-Tabelle 1: KBV_PR_ERP_Bundle Tabelle 2: KBV_PR_ERP_Composition Tabelle 3: KBV_PR_ERP_Prescription Tabelle 4: KBV_PR_ERP_PracticeSupply Tabelle 5: KBV_PR_ERP_Medication_PZN Tabelle 6: KBV_PR_ERP_Medication_Ingredient Tabelle 7: KBV_PR_ERP_Medication_Compounding Tabelle 8: KBV_PR_ERP_Medication_FreeText Tabelle 10: KBV_EX_ERP_EmergencyServicesFee Tabelle 11: KBV_EX_ERP_DosageFlag Tabelle 12: KBV_EX_ERP_PracticeSupply_Payor Tabelle 13: KBV_EX_ERP_Medication_Vaccine Tabelle 14: KBV_EX_ERP_Medication_Category Tabelle 15: KBV_EX_ERP_Medication_Packaging Tabelle 16: KBV_EX_ERP_Medication_CompoundingInstruction Tabelle 17: KBV_EX_ERP_Medication_Ingredient_Form Tabelle 18: KBV_EX_ERP_Medication_Ingredient_Amount Tabelle 19: KBV_EX_ERP_Medication_PackagingSize Tabelle 20: KBV_EX_ERP_Multiple_Prescription Tabelle 21: KBV_EX_ERP_Prescriber_ID Tabelle 22: KBV_CS_ERP_Medication_Category Tabelle 23: KBV_VS_ERP_Medication_Category Tabelle 24: KBV_CS_ERP_Medication_Type Tabelle 25: KBV_CS_ERP_Section_Type Tabelle 26: KBV_VS_ERP_StatusCoPayment Tabelle 27: KBV_VS_ERP_Accident_Type Tabelle 28: Mapping KBV_PR_ERP_Medication_PZN Tabelle 29: Mapping KBV_PR_ERP_Medication_Ingredient Tabelle 30: Mapping KBV_PR_ERP_Medication_Compounding Tabelle 31: Mapping KBV_PR_ERP_Medication_FreeText Tabelle 32: Mapping KBV_PR_ERP_Prescription Tabelle 33: Referenzierte Instanzen KBV_PR_ERP_Prescription Tabelle 34: Mapping KBV_PR_ERP_PracticeSupply Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply Tabelle 36: Mapping KBV_PR_ERP_Composition Tabelle 37: Referenzierte Instanzen KBV_PR_ERP_Composition Tabelle 38: Mapping KBV_PR_ERP_Bundle Tabelle 39: Auflistung der abzubildenden Felder für das ERP SEITE 3 VON 90  /  KBV  /  TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)   /  18. DEZEMBER 2025  /  VERSION: 1.69
+Tabelle 1: KBV_PR_ERP_Bundle 10  Tabelle 2: KBV_PR_ERP_Composition 10  Tabelle 3: KBV_PR_ERP_Prescription 11  Tabelle 4: KBV_PR_ERP_PracticeSupply 11  Tabelle 5: KBV_PR_ERP_Medication_PZN 11  Tabelle 6: KBV_PR_ERP_Medication_Ingredient 11  Tabelle 7: KBV_PR_ERP_Medication_Compounding 11  Tabelle 8: KBV_PR_ERP_Medication_FreeText 12  Tabelle 10: KBV_EX_ERP_EmergencyServicesFee 12  Tabelle 11: KBV_EX_ERP_DosageFlag 12  Tabelle 12: KBV_EX_ERP_PracticeSupply_Payor 12  Tabelle 13: KBV_EX_ERP_Medication_Vaccine 13  Tabelle 14: KBV_EX_ERP_Medication_Category 13  Tabelle 15: KBV_EX_ERP_Medication_Packaging 13  Tabelle 16: KBV_EX_ERP_Medication_CompoundingInstruction 13  Tabelle 17: KBV_EX_ERP_Medication_Ingredient_Form 14  Tabelle 18: KBV_EX_ERP_Medication_Ingredient_Amount 14  Tabelle 19: KBV_EX_ERP_Medication_PackagingSize 14  Tabelle 20: KBV_EX_ERP_Multiple_Prescription 14  Tabelle 21: KBV_EX_ERP_Prescriber_ID 14  Tabelle 22: KBV_CS_ERP_Medication_Category 15  Tabelle 23: KBV_VS_ERP_Medication_Category 15  Tabelle 24: KBV_CS_ERP_Medication_Type 15  Tabelle 25: KBV_CS_ERP_Section_Type 15  Tabelle 26: KBV_VS_ERP_StatusCoPayment 15  Tabelle 27: KBV_VS_ERP_Accident_Type 16  Tabelle 28: Mapping KBV_PR_ERP_Medication_PZN 21  Tabelle 29: Mapping KBV_PR_ERP_Medication_Ingredient 23  Tabelle 30: Mapping KBV_PR_ERP_Medication_Compounding 25  Tabelle 31: Mapping KBV_PR_ERP_Medication_FreeText 26  Tabelle 32: Mapping KBV_PR_ERP_Prescription 29  Tabelle 33: Referenzierte Instanzen KBV_PR_ERP_Prescription 30  Tabelle 34: Mapping KBV_PR_ERP_PracticeSupply 31  Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply 32  Tabelle 36: Mapping KBV_PR_ERP_Composition 33  Tabelle 37: Referenzierte Instanzen KBV_PR_ERP_Composition 34  Tabelle 38: Mapping KBV_PR_ERP_Bundle 35  Tabelle 39: Auflistung der abzubildenden Felder für das ERP 88
+
+SEITE 3 VON 90 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 18. DEZEMBER 2025 / VERSION: 1.69
+
 
 ---
 

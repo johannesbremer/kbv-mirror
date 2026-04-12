@@ -430,49 +430,46 @@ Alle 48
 
 ---
 
-| 1 |  | GRUNDLAGEN | |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1.1 | ZIELSETZUNG |  |  |  |  |  |  |  |  |  |  |
-| Diese |  | KVDT-Satzbeschreibung | | ermöglicht | die | gebündelte | Übertragung | von |  |  |  |
-| › | Abrechnungsdaten | | (ADT), |  |  |  |  |  |  |  |  |
-| › | Kurärztlichen |  | Abrechnungsdaten | | (KADT), |  |  |  |  |  |  |
-| › | Abrechnungsdaten | | zum |  | Schwangerschaftsabbruch | NRW | (SADT) |  |  |  |  |
-| von einer | Arztpraxis | zur | jeweils | zuständigen |  | Kassenärztlichen |  | Vereinigung. Die |  | Satzbeschreibung | ist so an- |
-| gelegt, | dass bei | Bedarf | weitere | Datenpakete | in | das ”Container | - Modell” |  | hinzugefügt | werden können. |  |
-| Im Hinblick | auf | gesetzliche | | und | vertragliche | Bestimmungen | sowie | Beschlüsse | der | ärztlichen | Selbstverwal- |
-| tungsorgane |  | bleiben | Änderungen | der | vorliegenden |  | Richtlinien | vorbehalten. |  |  |  |
-| 1.2 | STRUKTUR | DER | SPEICHERUNG | |  |  |  |  |  |  |  |
-| Eine Datei | besteht | aus |  | Datenpaketen | und aus | Container-Sätzen. | | Folgende | Datenpakete | sind | definiert: |
-| › ADT – |  | Abrechnungs-Datenpaket | |  |  |  |  |  |  |  |  |
-| › KADT | – | Kurärztliches |  | Abrechnungs-Datenpaket | |  |  |  |  |  |  |
-| › SADT | – |  | Schwangerschaftsabbruch-Datenpaket | | |  |  |  |  |  |  |
-| Ein | Datenpaket ist | in | Sätze | unterteilt. | Folgende | Sätze sind | definiert: |  |  |  |  |
-| › | Container-Sätze |  |  |  |  |  |  |  |  |  |  |
-| · | Container-Header | |  |  |  | ”con0” |  |  |  |  |  |
-| · | Container-Abschluss | | |  |  | ”con9” |  |  |  |  |  |
-| · | Betriebsstättendaten | | |  |  | ”besa” |  |  |  |  |  |
-| · |  | Ringversuchszertifikate | |  |  | ”rvsa” |  |  |  |  |  |
-| › | ADT-Datenpaket |  |  |  |  |  |  |  |  |  |  |
-| · |  | ADT-Datenpaket-Header | |  |  | ”adt0” |  |  |  |  |  |
-| · |  | ADT-Datenpaket-Abschluss | |  |  | ”adt9” |  |  |  |  |  |
-| · | Ambulante |  | Behandlung |  |  | ”0101” |  |  |  |  |  |
-| · | Überweisung |  |  |  |  | ”0102” |  |  |  |  |  |
-| · | Belegärztliche |  | Behandlung |  |  | ”0103” |  |  |  |  |  |
-| · |  | Notfalldienst/Vertretung/Notfall | | |  | ”0104” |  |  |  |  |  |
-| › | KADT-Datenpaket | |  |  |  |  |  |  |  |  |  |
-| · |  | KADT-Datenpaket-Header | |  |  | ”kad0” |  |  |  |  |  |
-| · |  | KADT-Datenpaket-Abschluss | |  |  | ”kad9” |  |  |  |  |  |
-| · | Abrechnung | von | kurärztlicher | | Behandlung | ”0109” |  |  |  |  |  |
-| › | SADT-Datenpaket | |  |  |  |  |  |  |  |  |  |
-| · |  | SADT-Datenpaket-Header | |  |  | ”sad0” |  |  |  |  |  |
-| · |  | SADT-Datenpaket-Abschluss | |  |  | ”sad9” |  |  |  |  |  |
-| · | SADT-Ambulante | | Behandlung | |  | ”sad1” |  |  |  |  |  |
-| · | SADT-Überweisung | |  |  |  | ”sad2” |  |  |  |  |  |
-| · |  | SADT-Belegärztliche | | Behandlung |  | ”sad3” |  |  |  |  |  |
-| › | HDRG-Datenpaket | |  |  |  |  |  |  |  |  |  |
-| Seite 8 von | 203 / | KBV / | Datensatzbeschreibung | KVDT | / Version | 6.02 / 9. | März 2026 |  |  |  |  |
+1
 
-Diese KVDT-Satzbeschreibung ermöglicht die gebündelte Übertragung von Abrechnungsdaten (ADT),  Kurärztlichen Abrechnungsdaten (KADT), Abrechnungsdaten zum Schwangerschaftsabbruch NRW (SADT) von einer Arztpraxis zur jeweils zuständigen Kassenärztlichen Vereinigung. Die Satzbeschreibung ist so an- gelegt, dass bei Bedarf weitere Datenpakete in das ”Container - Im Hinblick auf gesetzliche und vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwal- tungsorgane bleiben Änderungen der vorliegenden Richtlinien vorbehalten. STRUKTUR DER SPEICHERUNG Eine Datei besteht aus Datenpaketen und aus Container-Sätzen. Folgende ADT – Abrechnungs-Datenpaket KADT – Kurärztliches Abrechnungs-Datenpaket SADT – Schwangerschaftsabbruch-Datenpaket Ein Datenpaket ist in Sätze unterteilt. Folgende Sätze sind definiert: Ambulante Behandlung  Belegärztliche Behandlung  Abrechnung von kurärztlicher Behandlung SADT-Ambulante Behandlung  SADT-Belegärztliche Behandlung Seite 8 von 203  /  KBV /  Datensatzbeschreibung KVDT  / Version 6.02 /  9. März 2026 Modell” hinzugefügt werden können. sind definiert:
+## GRUNDLAGEN
+
+**1.1 ZIELSETZUNG**
+
+Diese KVDT-Satzbeschreibung ermöglicht die gebündelte Übertragung von
+
+› Abrechnungsdaten (ADT),  › Kurärztlichen Abrechnungsdaten (KADT),  › Abrechnungsdaten zum Schwangerschaftsabbruch NRW (SADT)
+
+von einer Arztpraxis zur jeweils zuständigen Kassenärztlichen Vereinigung. Die Satzbeschreibung ist so an- gelegt, dass bei Bedarf weitere Datenpakete in das ”Container -
+
+**Im Hinblick auf gesetzliche und vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwal-** **tungsorgane bleiben Änderungen der vorliegenden Richtlinien vorbehalten.**
+
+**1.2**  **STRUKTUR DER SPEICHERUNG**
+
+Eine Datei besteht aus Datenpaketen und aus Container-Sätzen. Folgende
+
+› ADT – Abrechnungs-Datenpaket  › KADT – Kurärztliches Abrechnungs-Datenpaket  › SADT – Schwangerschaftsabbruch-Datenpaket
+
+Ein Datenpaket ist in Sätze unterteilt. Folgende Sätze sind definiert:
+
+› **Container-Sätze**  **·** Container-Header  **·** Container-Abschluss  **·** Betriebsstättendaten  **·** Ringversuchszertifikate  › **ADT-Datenpaket**  **·** ADT-Datenpaket-Header  **·** ADT-Datenpaket-Abschluss  **·** Ambulante Behandlung  **·** Überweisung  **·** Belegärztliche Behandlung  **·** Notfalldienst/Vertretung/Notfall  › **KADT-Datenpaket**  **·** KADT-Datenpaket-Header  **·** KADT-Datenpaket-Abschluss  **·** Abrechnung von kurärztlicher Behandlung  › **SADT-Datenpaket**  **·** SADT-Datenpaket-Header  **·** SADT-Datenpaket-Abschluss  **·** SADT-Ambulante Behandlung  **·** SADT-Überweisung  **·** SADT-Belegärztliche Behandlung  › **HDRG-Datenpaket**
+
+Seite 8 von 203 / KBV / Datensatzbeschreibung KVDT / Version 6.02 / 9. März 2026
+
+”con0”        ”con9”       ”besa”       ”rvsa”
+
+”adt0”     ”adt9”       ”0101”          ”0102”      ”0103”    ”0104”
+
+”kad0”     ”kad9”  ”0109”
+
+”sad0”     ”sad9”     ”sad1”        ”sad2”     ”sad3”
+
+Modell” hinzugefügt werden können.
+
+**Datenpakete**
+
+sind definiert:
+
 
 ---
 
@@ -13333,11 +13330,12 @@ Kontext Wenn die FK 4112 vorhanden ist, W
 
 ---
 
-| Rückseite |  | Kurarztschein |  |  |  |
-|---|---|---|---|---|---|
-| Seite | 146 von 203 | / KBV / Datensatzbeschreibung | KVDT / Version | 6.02 / 9. | März 2026 |
+Rückseite Kurarztschein
 
-Rückseite Kurarztschein Seite 146 von 203  /  KBV /  Datensatzbeschreibung KVDT  / Version 6.02 /  9. März 2026
+Seite 146 von 203 / KBV /
+
+Datensatzbeschreibung KVDT / Version 6.02 / 9. März 2026
+
 
 ---
 
@@ -18426,14 +18424,14 @@ Richtlinie der Bundesärztekammer zur Qua- litätssicherung laboratoriumsmedizin
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat | | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |
-| Seite | 203 von | 203 / | KBV / | Datensatzbeschreibung | KVDT / Version | 6.02 / 9. | März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 203 von 203  /  KBV /  Datensatzbeschreibung KVDT   / Version 6.02 /  9. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 203 von 203 / KBV / Datensatzbeschreibung KVDT
+
+/ Version 6.02 / 9. März 2026

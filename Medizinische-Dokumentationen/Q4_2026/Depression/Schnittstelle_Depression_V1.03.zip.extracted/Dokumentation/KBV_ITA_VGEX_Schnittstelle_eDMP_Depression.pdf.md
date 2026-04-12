@@ -66,15 +66,12 @@ Seite 3 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 1
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  |  | .......................................................................................................................... | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | 16 |
-| Seite | 4 von 35 / KBV | / | Schnittstellenbeschreibung | Depression | / Version: | 1.03 / | 14. November | 2025 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 35  /  KBV  /  Schnittstellenbeschreibung Depression  /  Version: 1.03  /  14. November 2025
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 12  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 13  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 14  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 16
+
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 
 ---
 
@@ -286,18 +283,16 @@ Seite 13 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 
 
 ---
 
-| 6.1 |  | SEKTION | (SECTION) |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Das |  | <section>-Element | | setzt sich | aus | fünf | <paragraph>-Elementen | | zusammen. | Ein | <paragraph>-Element | |
-|  | beinhaltet | die | Kindelemente | | <caption> | und | <content>. Die | Grundstruktur | des | <section>-Elements | | ist in |
-|  | Abbildung | 3 | dargestellt. |  |  |  |  |  |  |  |  |  |
-|  | Abbildung | 3: | Grundstruktur |  | section |  |  |  |  |  |  |  |
-| Eine | Sektion |  | enthält die | Abschnitte | | „Administrative | | Daten“, „Anamnese | - und | Befunddaten“, | „Nicht- |  |
-|  | medikamentöse | und |  | medikamentöse |  | Behandlung“, | „Schulung“ | und | „Behandlungsplanung“, | | die | jeweils in |
-| einem |  | <paragraph>-Element | |  | untergebracht | sind. |  |  |  |  |  |  |
-|  | Seite 14 von | 35 / KBV | / | Schnittstellenbeschreibung | | Depression | / Version: | 1.03 / 14. | November 2025 |  |  |  |
+**6.1 SEKTION (SECTION)**
 
-SEKTION (SECTION) Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 dargestellt. Abbildung 3: Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“, „Nicht- medikamentöse und medikamentöse Behandlung“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind. Seite 14 von 35  /  KBV  /  Schnittstellenbeschreibung Depression  /  Version: 1.03  /  14. November 2025
+Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element  beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Abbildung 3 dargestellt.
+
+**Abbildung 3: Grundstruktur section**
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Nicht- medikamentöse und medikamentöse Behandlung“, „Schulung“ und „Behandlungsplanung“, die jeweils in  einem <paragraph>-Element untergebracht sind.
+
+Seite 14 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 
 ---
 

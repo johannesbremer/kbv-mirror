@@ -1,20 +1,21 @@
-| IT in | der | Arztpraxis |  |
-|---|---|---|---|
-| FAQ | für | Softwarehersteller | zur |
-|  | Labordatenkommunikation | | |
-| [ |  | KBV_ITA_VGEX_FAQ_LDK] | |
-| Dezernat | Digitalisierung | und IT |  |
-| 10623 | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | Bundesvereinigung | |
-| Version | 1.04 |  |  |
-| Datum: | 15.11.2023 |  |  |
-| Kennzeichnung: | Öffentlich |  |  |
-| Status: | In Kraft |  |  |
-| © | Kassenärztliche | Bundesvereinigung, Berlin | 2023 |
+## IT in der Arztpraxis
+
+## FAQ für Softwarehersteller zur
+
+## Labordatenkommunikation
 
 ## [ KBV_ITA_VGEX_FAQ_LDK]
 
-IT in der Arztpraxis FAQ für Softwarehersteller zur Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung © Kassenärztliche Bundesvereinigung, Berlin 2023
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung Version   Datum:  Kennzeichnung:  Status:
+
+© Kassenärztliche Bundesvereinigung, Berlin 2023
+
+1.04  15.11.2023  Öffentlich  In Kraft
+
 
 ---
 

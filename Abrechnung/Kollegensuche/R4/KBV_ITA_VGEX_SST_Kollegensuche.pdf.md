@@ -152,24 +152,22 @@ SEITE 5 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JA
 
 ---
 
-| 2 |  | ÜBERBLICK |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Bei | der | Festlegung | für | den | Webservice | geht | die KBV | von | nachstehender |  | Systemarchitektur | | aus. |
-|  | Abbildung 1: | Systemarchitektur | |  |  |  |  |  |  |  |  |  |  |
-| Im |  | Praxisverwaltungssystem | | | werden | die | Patienten | -, Arzt-, | und | Betriebsstättendaten | | verwaltet | und |
-|  | gespeichert. | Neben | dem | Einlesen | von |  | Versichertenkarten | | übernimmt | das PVS | die | Speicherung | aller |
-|  | patientenbezogenen | | Daten. |  |  |  |  |  |  |  |  |  |  |
-| Der |  | Webservice-Kollegensuche | | | enthält | die | Kontaktdaten | der | im ambulanten |  | Bereich | tätigen | Ärzte. Diese |
-|  | Informationen | | sollen die | Ärzte | auf | einfache | Weise | im Rahmen | der | Vermittlung | von | Terminen | bei anderen |
-| Ärzten |  | unterstützen. |  |  |  |  |  |  |  |  |  |  |  |
-| Der |  | Datenaustausch | zwischen | den |  | beteiligten | Systemen | erfolgt | auf | Basis des | HL7 FHIR® | Standards. | Die |
-| hierfür | | erforderlichen |  | Datenstrukturen | | sind | in Kapitel | 3 „FHIR® | - | Definitionen“ | festgelegt. | Aus | dem vierten |
-|  | Kapitel | können die |  | Regelungen | für | den | Datenaustausch | via | REST -Service | zwischen | dem |  |  |
-|  |  | Praxisverwaltungssystem | | und | dem | Webservice | | -Kollegensuche | entnommen |  | werden. Im | Kapitel | 5 sind |
-|  | weitere | Informationen | zur |  | Integration | des | Webservices | in | den | Praxisverwaltungssystemen | | | beschrieben. |
-| SEITE | 6 VON | 31 / KBV | / |  | WEBSERVICE-KOLLEGENSUCHE | DER | KBV / | VERSION: 2.00 | / 16. | JANUAR 2026 |  |  |  |
+2
 
-Bei der Festlegung für den Webservice geht die KBV von nachstehender Systemarchitektur aus. Abbildung 1: Systemarchitektur Im Praxisverwaltungssystem werden die Patienten -, Arzt-, und Betriebsstättendaten verwaltet und gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung aller patientenbezogenen Daten. Der Webservice-Kollegensuche enthält die Kontaktdaten der im ambulanten Bereich tätigen Ärzte. Diese Informationen sollen die Ärzte auf einfache Weise im Rahmen der Vermittlung von Terminen bei anderen Ärzten unterstützen. Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die hierfür erforderlichen Datenstrukturen sind in Kapitel 3 „FHIR® - Definitionen“ festgelegt. Aus dem vierten Kapitel können die Regelungen für den Datenaustausch via REST -Service zwischen dem Praxisverwaltungssystem und dem Webservice -Kollegensuche entnommen werden. Im Kapitel 5 sind weitere Informationen zur Integration des Webservices in den Praxisverwaltungssystemen beschrieben. SEITE 6 VON 31  /  KBV  /  WEBSERVICE-KOLLEGENSUCHE DER KBV  / VERSION: 2.00  /  16. JANUAR 2026
+## ÜBERBLICK
+
+Bei der Festlegung für den Webservice geht die KBV von nachstehender Systemarchitektur aus.
+
+Abbildung 1: Systemarchitektur
+
+Im Praxisverwaltungssystem werden die Patienten-, Arzt-, und Betriebsstättendaten verwaltet und  gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung aller  patientenbezogenen Daten.
+
+Der Webservice-Kollegensuche enthält die Kontaktdaten der im ambulanten Bereich tätigen Ärzte. Diese  Informationen sollen die Ärzte auf einfache Weise im Rahmen der Vermittlung von Terminen bei anderen  Ärzten unterstützen.
+
+Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die  hierfür erforderlichen Datenstrukturen sind in Kapitel 3 „FHIR® - Definitionen“ festgelegt. Aus dem vierten  Kapitel können die Regelungen für den Datenaustausch via REST-Service zwischen dem  Praxisverwaltungssystem und dem Webservice-Kollegensuche entnommen werden. Im Kapitel 5 sind  weitere Informationen zur Integration des Webservices in den Praxisverwaltungssystemen beschrieben.
+
+SEITE 6 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 

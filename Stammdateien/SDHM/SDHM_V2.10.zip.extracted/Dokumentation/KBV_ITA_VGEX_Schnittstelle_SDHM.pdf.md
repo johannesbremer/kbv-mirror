@@ -1,18 +1,23 @@
-| IT | in | der | Arztpraxis |  |
-|---|---|---|---|---|
-|  |  |  | Schnittstellenbeschreibung | |
-|  | SDHM |  | (Heilmittelstammdatei) | |
-|  |  | [KBV_ITA_VGEX_Schnittstelle_SD | | HM] |
-|  | Dezernat | Digitalisierung | und IT |  |
-| 10623 |  | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | | Bundesvereinigung | |
-| Version |  | 2.10 |  |  |
-| Datum: |  | 15.05.2024 |  |  |
-|  | Kennzeichnung: | Öffentlich |  |  |
-| Status: |  | In Kraft |  |  |
-| © | Kassenärztliche | | Bundesvereinigung, Berlin | 202 4 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis SDHM (Heilmittelstammdatei) Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung © Kassenärztliche Bundesvereinigung, Berlin 202 4
+## Schnittstellenbeschreibung
+
+## SDHM (Heilmittelstammdatei)
+
+[KBV_ITA_VGEX_Schnittstelle_SD
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung
+
+Version 2.10  Datum: 15.05.2024  Kennzeichnung: Öffentlich  Status: In Kraft
+
+© Kassenärztliche Bundesvereinigung, Berlin 202 4
+
+HM]
+
 
 ---
 

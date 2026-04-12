@@ -172,18 +172,16 @@ Seite 7 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP
 
 ---
 
-| 7. | Anonymisieren | | von | BMPs |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| FRAGE: | Wie | kann | ich | einen | BMP | unkenntlich |  | machen/anonymisieren? | |  |  |  |  |  |
-| ANTWORT: | | Wird ein | MP | zur | Fehlerprüfung | o.ä. | an | Dritte | weitergegeben, | kann | es | notwendig | sein, die |  |
-|  | Patientendaten | | unkenntlich | zu | machen. | Das |  | Unkenntlich | machen | durch | (vollständiges) |  | Durchstreichen | des |
-|  | Vornamens, | des | Nachnamens | und | des | Geburtsdatums | | ist nicht |  | ausreichend. | Wichtig | ist, dass | auch | der 2D - |
-| Barcode |  | unkenntlich |  | gemacht | wird, | denn | dieser | enthält die | genannten | Daten | nochmals. | Hierzu | ist es |  |
-|  | erforderlich, | dass | grob | mindestens | die | Hälfte | des | Barcodes | zerstört | wird. | Besser ist | das | komplette |  |
-|  | Unkenntlich | machen | der |  | Barcodefläche | mit | einem | idealerweise | | schwarzen | Stift. |  |  |  |
-| Seite | 8 von 16 | / KBV | / | Handlungsempfehlungen | | für | Hersteller | von BMP -Software | / | Version: 1.42 / | 26. März | 2025 |  |  |
+**7. Anonymisieren von BMPs**
 
-7. Anonymisieren von BMPs FRAGE: Wie kann ich einen BMP unkenntlich machen/anonymisieren? ANTWORT: Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die Patientendaten unkenntlich zu machen. Das Unkenntlich  machen durch (vollständiges) Durchstreichen des Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette Unkenntlich machen der Barcodefläche mit einem  idealerweise schwarzen Stift. Seite 8 von 16  /  KBV  /  Handlungsempfehlungen für Hersteller von BMP -Software  /  Version: 1.42  /  26. März 2025
+**FRAGE: Wie kann ich einen BMP unkenntlich machen/anonymisieren?**
+
+**ANTWORT: Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die**  Patientendaten unkenntlich zu machen. Das Unkenntlich machen durch (vollständiges) Durchstreichen des  Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D- Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
+
+Seite 8 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP
+
+-Software / Version: 1.42 / 26. März 2025
+
 
 ---
 

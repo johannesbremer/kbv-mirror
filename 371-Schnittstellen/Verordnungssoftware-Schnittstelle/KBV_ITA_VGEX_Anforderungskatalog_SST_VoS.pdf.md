@@ -92,26 +92,24 @@ Gültigkeit der Version des Anforderungskatalogs GRUNDLAGEN DER UMSETZUNG Verord
 
 ---
 
-|  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: VoS-SST |  |  |  |  |  |  |  |
-| Abbildung | 2: | Verordnungsprozess |  |  |  |  |  |  |
-| Abbildung | 3: Fehler | im | Verordnungsprozess |  |  |  |  |  |
-| Abbildung | 4: | Verordnungsprozess |  |  |  |  |  |  |
-| Abbildung | 5: | Zuordnung der | KBV-Profile |  |  |  |  |  |
-|  | TABELLENVERZEICHNIS |  |  |  |  |  |  |  |
-| Tabelle | 1 Einzusetzende | Profile |  |  |  |  |  |  |
-| Tabelle | 2 Aufrufkontext | der | VoS-Schnittstelle |  |  |  |  |  |
-| Tabelle | 3 Ressourcen | pro | Aufrufkontext |  |  |  |  |  |
-| Tabelle | 4 | Mindestumfang der | Daten an | der B1 | -Schnittstelle |  |  |  |
-| Seite | 3 von 48 / KBV | / Anforderungskatalog |  | Verordnungssoftware | - Schnittstelle | nach § 371 | Absatz 1 Nummer | 2 SGB V / |
-| Version | 2.1.2 / 15. | September 2023 |  |  |  |  |  |  |
+**ABBILDUNGSVERZEICHNIS**
+
+Abbildung 1: VoS-SST  Abbildung 2: Verordnungsprozess  Abbildung 3: Fehler im Verordnungsprozess Abbildung 4: Verordnungsprozess  Abbildung 5: Zuordnung der KBV-Profile
+
+**TABELLENVERZEICHNIS**
+
+Tabelle 1 Einzusetzende Profile Tabelle 2 Aufrufkontext der VoS-Schnittstelle  Tabelle 3 Ressourcen pro Aufrufkontext Tabelle 4 Mindestumfang der Daten an der B1
+
+Seite 3 von 48 / KBV / Anforderungskatalog Verordnungssoftware Version 2.1.2 / 15. September 2023 -Schnittstelle
+
+-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V
+
+/
 
 9  10  11  12  16
 
 15  18  27  37
 
-Abbildung 1: VoS-SST Abbildung 2: Verordnungsprozess Abbildung 3: Fehler im Verordnungsprozess Abbildung 4: Verordnungsprozess Abbildung 5: Zuordnung der KBV-Profile Tabelle 1 Einzusetzende Profile Tabelle 2 Aufrufkontext der VoS-Schnittstelle Tabelle 3 Ressourcen pro Aufrufkontext Tabelle 4 Mindestumfang der Daten an der B1 Seite 3 von 48  /  KBV  /  Anforderungskatalog Verordnungssoftware Version 2.1.2  /  15. September 2023 Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V
 
 ---
 
@@ -2912,15 +2910,12 @@ Schnittstellenfestlegung_Verordnungssoftw are  [https://update.kbv.de](https://u
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Dezernat | | Digitalisierung | | und IT |  |  |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |  |  |
-| Seite | 48 von | 48 / | KBV / | Anforderungskatalog |  | Verordnungssoftware -Schnittstelle | nach § 371 | Absatz 1 Nummer | 2 SGB V / |
-| Version | 2.1.2 | / 15. | September | 2023 |  |  |  |  |  |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 48 von 48  /  KBV  /  Anforderungskatalog Verordnungssoftware -Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V Version 2.1.2  /  15. September 2023
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 48 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /   Version 2.1.2 / 15. September 2023

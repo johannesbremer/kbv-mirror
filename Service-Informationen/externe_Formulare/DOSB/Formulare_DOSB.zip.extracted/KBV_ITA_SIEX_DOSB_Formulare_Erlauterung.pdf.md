@@ -68,13 +68,12 @@ Seite 4 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
 
 ---
 
-| Dezernat | | Digitalisierung | | und IT |  |  |
-|---|---|---|---|---|---|---|
-| IT in | der | Arztpraxis |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |
-| Seite | 5 von 5 / | KBV / | Erläuterung | der DOSB- | Formulare / 13. | Februar 2026 |
+Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de  Seite 5 von 5  /  KBV  /  Erläuterung der DOSB- Formulare  /  13. Februar 2026
+Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 5 von 5 / KBV / Erläuterung der DOSB-
+
+Formulare / 13. Februar 2026

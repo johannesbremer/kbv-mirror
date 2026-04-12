@@ -71,17 +71,12 @@ Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung de
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | | Verzeichnisstruktur | | für die |  | Zertifizierung |
-| Abbildung | 2: | Exemplarische | Struktur | der | Archivdatei | | mit den | Prüfunterlagen |
-| Abbildung | 3: |  | Testdatenvalidierung |  |  |  |  |  |
-| Abbildung | 4: | Exemplarische |  | Verzeichnisstruktur | | für die |  | Testdatenvalidierung |
-| Seite 3 | von 29 / KBV | / Pruefpaket |  | eDMP-Herzinsuffizienz | / | Version: 1.05 | / 31. | März 2026 |
+## ABBILDUNGSVERZEICHNIS
 
-7  7  24  24
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen 7  Abbildung 3: Testdatenvalidierung 24  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 24
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 29  /  KBV  /  Pruefpaket eDMP-Herzinsuffizienz  /  Version: 1.05  /  31. März 2026
+Seite 3 von 29 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.05 / 31. März 2026
+
 
 ---
 
@@ -167,45 +162,34 @@ Seite 6 von 29 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.05 / 31. M�
 
 ---
 
-| › | Videodateien, | |  | Screenshots | ausgewählter | | Anforderungen | und |  | Teilnahmeerklärung: | |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Die | geforderten |  | Videomitschnitte | , | Screenshots | sowie | die | Teilnahmeerklärung | | (Prüffall | 4540) | müssen in |
-|  | einem | gesonderten | | Ordner | „Dokumentation“ | |  | übermittelt | werden | und | folgender | Namenskonvention | |
-|  | entsprechen. | | Diese | werden | durch den | Prüfer |  | begutachtet. |  |  |  |  |  |
-| · |  | [PrüffallNr.] | 1 _[lfdNr.] | 2.3 .* |  |  |  |  |  |  |  |  |  |
-| · |  | Teilnahmeerklärung | | (Prüffall | 4540): |  | TE_EWE_HI.pdf |  |  |  |  |  |  |
-| › | Alle | Prüfunterlagen | | (HI-Unterlagen | | und der | Ordner | „Dokumentation“) | | sind in | einem | ZIP-Archiv | zu |
-|  | übermitteln. | | Die HI | -Unterlagen | werden | direkt | in dem |  | Hauptverzeichnis |  | übertragen und | nicht | gesondert |
-| in | einem |  | Unterordner | abgelegt. | Diese | Dateien | werden |  | automatisiert | geprüft. | Der | Ordner |  |
-|  |  | „Dokumentation“ | | enthält |  | Videoaufzeichnungen | , | ggf. Screenshots | sowie | die |  | Teilnahmeerklärung | und |
-|  | wird | ebenfalls | direkt | in dem | Hauptverzeichnis | |  | übertragen. Das | ZIP- | Archiv | muss wie | folgt | benannt |
-|  | werden: |  |  |  |  |  |  |  |  |  |  |  |  |
-| · |  |  | Zert_106_SystemID.zip | |  |  |  |  |  |  |  |  |  |
-| Die | SystemID | ergibt | sich | aus den | letzten | drei | Stellen | der | Prüfnummer. |  |  |  |  |
-| Das | zip-Archiv | | kann je | nach | Komponentenzulassung | | | (COPD) | unterschiedliche | | Strukturen | aufweisen. | Im |
-| Folgenden | | wird | beispielhaft | die |  | Verzeichnisstruktur | | ohne zusätzliche |  | Zulassungen | (die | alleinige | Umsetzung |
-| von | HI) | dargestellt. |  |  |  |  |  |  |  |  |  |  |  |
-|  | Dokumentation | |  |  |  |  |  | Dateiordner |  |  |  |  |  |
-|  |  |  |  | 391234511_20261031101010_1_HI_104.idx | |  |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  | 391234511_20261031101010_1_HI_104.idx.XKM | | |  | XKM-Datei |  |  |  |  |  |
-|  |  |  |  | 856215715_20261031101010_1_HI_104.idx | |  |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  | 856215715_20261031101010_1_HI_104.idx.XKM | | |  | XKM-Datei |  |  |  |  |  |
-| Abbildung | 1: | Exemplarische | | Verzeichnisstruktur | für | die | Zertifizierung |  |  |  |  |  |  |
-|  |  |  | 391234511_20250631101010_1_HI_104.zip.XKM | | |  | XKM-Datei |  |  |  |  |  |  |
-|  |  | Herzinsuffizienz | |  |  |  | Dateiordner | |  |  |  |  |  |
-|  |  | Dokumentation | |  |  |  | Dateiordner | |  |  |  |  |  |
-| Abbildung | 2: |  | Exemplarische | Struktur der | Archivdatei | mit | den | Prüfunterlagen |  |  |  |  |  |
-| 1.6 |  | PRÜFVORGABEN | |  |  |  |  |  |  |  |  |  |  |
-| Es | sind alle |  | geforderten | Prüffälle | zu | bearbeiten | und | alle | dazugehörigen | Unterlagen | | unter | Verwendung des |
-| jeweils |  | gültigen | XPM-Pakets | | einzureichen. | Die | Daten | sind | anschließend | mit | dem | KBV-Kryptomodul | (XKM) |
-| unter | Nutzung | des |  | öffentlichen | Testschlüssels | zu |  | verschlüsseln. |  |  |  |  |  |
-|  | ________________ | | |  |  |  |  |  |  |  |  |  |  |
-| 1 Nummer | des | Prüffalls |  |  |  |  |  |  |  |  |  |  |  |
-| 2 Laufende | Nr. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 Gängiges | Bild- | bzw. | Videoformat |  |  |  |  |  |  |  |  |  |  |
-| Seite 7 | von 29 | / KBV | / Pruefpaket |  | eDMP-Herzinsuffizienz | / | Version: 1.05 | / 31. März | 2026 |  |  |  |  |
+› **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 4540) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  **·** [PrüffallNr.] 1_[lfdNr.] 2.3.*  **·** Teilnahmeerklärung (Prüffall 4540): TE_EWE_HI.pdf
 
-Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung: Die geforderten Videomitschnitte , Screenshots sowie die Teilnahmeerklärung (Prüffall 4540) einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet. Teilnahmeerklärung (Prüffall 4540): TE_EWE_HI.pdf  Nummer des Prüffalls  Laufende Nr.  Gängiges Bild- bzw. Videoformat Alle Prüfunterlagen (HI-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu übermitteln. Die HI -Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“ enthält Videoaufzeichnungen , ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer. Das zip-Archiv kann je nach Komponentenzulassung (COPD) unterschiedliche Strukturen aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung von HI) dargestellt. Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 391234511_20250631101010_1_HI_104.zip.XKM   XKM-Datei Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln. Seite 7 von 29  /  KBV  /  Pruefpaket eDMP-Herzinsuffizienz  /  Version: 1.05  /  31. März 2026
+1 Nummer des Prüffalls  2 Laufende Nr.  3 Gängiges Bild- bzw. Videoformat
+
+**›** Alle Prüfunterlagen (HI-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die HI-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  **·** Zert_106_SystemID.zip   Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.   Das zip-Archiv kann je nach Komponentenzulassung (COPD) unterschiedliche Strukturen aufweisen. Im  Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung  von HI) dargestellt.
+
+Dokumentation        Dateiordner
+
+391234511_20261031101010_1_HI_104.idx  IDX-Datei
+
+391234511_20261031101010_1_HI_104.idx.XKM XKM-Datei
+
+856215715_20261031101010_1_HI_104.idx  IDX-Datei
+
+856215715_20261031101010_1_HI_104.idx.XKM XKM-Datei
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung   391234511_20250631101010_1_HI_104.zip.XKM XKM-Datei  Herzinsuffizienz        Dateiordner  Dokumentation       Dateiordner
+
+Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
+
+**1.6 PRÜFVORGABEN**
+
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+
+________________
+
+Seite 7 von 29 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.05 / 31. März 2026
+
 
 ---
 
@@ -992,14 +976,14 @@ Datensatz für das strukturierte Behandlungsprogramm HI Dokumentationsdaten des 
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Dezernat | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | pruefstelle@kbv.de, | | | www.kbv.de |  |  |  |
-| Seite | 29 von 29 | / KBV | / Pruefpaket | eDMP-Herzinsuffizienz | / Version: | 1.05 / | 31. März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, www.kbv.de Seite 29 von 29  /  KBV  /  Pruefpaket eDMP-Herzinsuffizienz  /  Version: 1.05  /  31. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 29 von 29 / KBV / Pruefpaket eDMP-Herzinsuffizienz /
+
+Version: 1.05 / 31. März 2026

@@ -1,18 +1,23 @@
-| IT | in | der |  | Arztpraxis |  |
-|---|---|---|---|---|---|
-|  |  |  | Plausibilitätenkatalog | | Haut- |
-|  |  | krebs-Screening | |  | (eHKS) |
-|  |  | [KBV_ITA_VGEX_Plausi | | _eHKS] |  |
-|  | Dezernat |  | Digitalisierung | und IT |  |
-| 10623 |  | Berlin, |  | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |
-| Version |  | 1.04 |  |  |  |
-| Datum: |  |  | 29.01.2019 |  |  |
-|  | Kennzeichnung: |  | Öffentlich |  |  |
-| Status: |  | In | Kraft |  |  |
-| © | KBV | Kassenärztliche |  | Bundesvereinigung, | Berlin 20 19 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Plausibilitätenkatalog Haut- krebs-Screening (eHKS) Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Kennzeichnung: Öffentlich In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 20 19
+## Plausibilitätenkatalog Haut-
+
+## krebs-Screening (eHKS)
+
+*[KBV_ITA_VGEX_Plausi*
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung
+
+Version 1.04  Datum: 29.01.2019  Kennzeichnung: Öffentlich  Status: In Kraft
+
+© KBV Kassenärztliche Bundesvereinigung, Berlin 20 19
+
+*_eHKS]*
+
 
 ---
 

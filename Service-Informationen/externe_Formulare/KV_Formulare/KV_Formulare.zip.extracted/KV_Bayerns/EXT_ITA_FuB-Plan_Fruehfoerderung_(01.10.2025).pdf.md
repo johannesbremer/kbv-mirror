@@ -111,9 +111,8 @@ o
 
 ---
 
-|  |  |  | ___________________________________ | | |  |  | _______________________________________________________________ | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Ärztin | / | Arzt (Stempel, |  | Unterschrift, | Datum) | Interdisziplinäre | Frühförderstelle | / SIFS* | (Stempel, | Unterschrift, | Datum) |
-| * SIFS | = |  | sinnesbehinderungsspezifische, | überregionale |  | interdisziplinäre Frühförderstellen |  |  |  |  |  |
+___________________________________  **Ärztin / Arzt (Stempel, Unterschrift, Datum)**
 
-Ärztin / Arzt (Stempel, Unterschrift, Datum)	 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen Interdisziplinäre Frühförderstelle / SIFS* (Stempel, Unterschrift, Datum)
+* SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
+
+_______________________________________________________________ **Interdisziplinäre Frühförderstelle / SIFS* (Stempel, Unterschrift, Datum)**

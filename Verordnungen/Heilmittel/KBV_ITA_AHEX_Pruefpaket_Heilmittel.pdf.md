@@ -16,30 +16,33 @@ PRÜFPAKET HEILMITTEL  Seite 1 von 25  /  KBV  /  Prüfpaket Heilm
 
 ---
 
-|  | INHALT |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| 1 |  | ALLGEMEINES |  |  |  |  |  |
-| 1.1 |  | Rechtsgrundlage |  |  |  |  |  |
-| 1.2 |  | Zertifizierungsablauf | |  |  |  |  |
-| 1.3 |  | Zertifizierungsportal | |  |  |  |  |
-| 1.4 |  | Zertifizierungsdokumente | | |  |  |  |
-| 1.5 |  | Prüfunterlagen |  |  |  |  |  |
-| 1.6 |  | Prüfvorgaben |  |  |  |  |  |
-|  | 1.6.1 |  | Prüfstammdaten | |  |  |  |
-|  | 1.6.2 |  | Versichertendaten | |  |  |  |
-|  | 1.6.3 |  | Patientendaten | für | Prüffälle | 01, 06 | und 07 [XML_22] |
-|  | 1.6.4 |  | Patientendaten | für | Prüffälle | 02 bis | 05 [XML_05] |
-|  | 1.6.5 |  | Praxisdaten | / | Arztstempel |  |  |
-|  | 1.6.6 |  | Heilmittelpreise | |  |  |  |
-|  | 1.6.7 |  | Falldarstellung | |  |  |  |
-| 2 |  | PRÜFFÄLLE |  |  |  |  |  |
-| 2.1 |  | Maßnahmen der |  | Physiotherapie | |  |  |
-| 2.2 |  | Maßnahmen der |  | Podologischen |  | therapie |  |
-| 2.3 | Maßnahmen | der | Stimm | ‐, Sprech | ‐, | Sprach ‐ | und Schlucktherapie |
-| 2.4 |  | Maßnahmen | der | Ergotherapie |  |  |  |
-| 2.5 |  | Maßnahmen | der | Ernährungstherapie | |  |  |
-| 3 |  | REFERENZIERTE |  | DOKUMENTE |  |  |  |
-| Seite | 2 von 25 | / KBV / | Prüfpaket | Heilmittel | / Version: | 2.4 / 13. | Januar 2023 |
+## INHALT
+
+**1**
+
+1.1  1.2  1.3  1.4  1.5  1.6
+
+**2**
+
+2.1  2.2  2.3  2.4  2.5
+
+**3**
+
+Seite 2 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+
+**ALLGEMEINES**
+
+Rechtsgrundlage  Zertifizierungsablauf  Zertifizierungsportal  Zertifizierungsdokumente  Prüfunterlagen  Prüfvorgaben  1.6.1  1.6.2  1.6.3  1.6.4  1.6.5  1.6.6  1.6.7
+
+**PRÜFFÄLLE**
+
+Maßnahmen der Physiotherapie  Maßnahmen der Podologischen therapie  Maßnahmen der Stimm ‐, Sprech ‐, Sprach ‐ und Schlucktherapie  Maßnahmen der Ergotherapie  Maßnahmen der Ernährungstherapie
+
+**REFERENZIERTE**
+
+Prüfstammdaten  Versichertendaten  Patientendaten für Prüffälle 01, 06 und 07 [XML_22]  Patientendaten für Prüffälle 02 bis 05 [XML_05]  Praxisdaten / Arztstempel  Heilmittelpreise  Falldarstellung
+
+**DOKUMENTE**
 
 **4**
 
@@ -49,7 +52,7 @@ PRÜFPAKET HEILMITTEL  Seite 1 von 25  /  KBV  /  Prüfpaket Heilm
 
 11  15  17  18  23
 
-Seite 2 von 25  /  KBV  /  Prüfpaket Heilmittel  /  Version: 2.4  /  13. Januar 2023 Maßnahmen der Physiotherapie  Maßnahmen der Podologischen therapie  Maßnahmen der Stimm ‐, Sprech ‐, Sprach ‐  und Schlucktherapie  Maßnahmen der Ergotherapie  Maßnahmen der Ernährungstherapie  Patientendaten für Prüffälle 01, 06 und 07 [XML_22]  Patientendaten für Prüffälle 02 bis 05 [XML_05]  Praxisdaten / Arztstempel **25**
+**25**
 
 
 ---
@@ -572,13 +575,12 @@ X1501
 
 ---
 
-| Liste | der | betroffenen | Pflichtfunktionen | des | Anforderungskatalogs |  |
-|---|---|---|---|---|---|---|
-| Die | Pflichtfunktionen, | | die insbesondere | von | den zugeordneten | Anweisungen des Prüffalls betroffen sind, |
-| werden | mit Nummer | und Titel | gelistet | (z.B.: P3 | ‐ 08 | Leitsymptomatik, […]). |
-|  | Seite 10 | von | 25 / | KBV / |  | Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023 |
+**Liste der betroffenen Pflichtfunktionen des Anforderungskatalogs**
 
-Liste der betroffenen Pflichtfunktionen des Anforderungskatalogs  Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 ‐ 08 Leitsymptomatik, […]).  Seite 10 von 25  /  KBV  /  Prüfpaket Heilmittel  /  Version: 2.4  /  13. Januar 2023
+Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 ‐ 08 Leitsymptomatik, […]).
+
+Seite 10 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+
 
 ---
 

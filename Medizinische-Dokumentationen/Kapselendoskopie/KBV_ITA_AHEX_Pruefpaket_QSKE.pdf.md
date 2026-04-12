@@ -49,14 +49,12 @@ Praxisdaten/ Arztstempel Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |
-|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische | Verzeichnisstruktur | für | die | Zertifizierung |
-| Seite 3 | von 15 / KBV | / Pruefpaket | QS- Kapselendoskopie | / Version: | 1.08 / | 12. August 2021 |
+## ABBILDUNGSVERZEICHNIS
 
-7
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Seite 3 von 15  /  KBV  /  Pruefpaket QS- Kapselendoskopie  /  Version: 1.08  /  12. August 2021
+Seite 3 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
 
 ---
 

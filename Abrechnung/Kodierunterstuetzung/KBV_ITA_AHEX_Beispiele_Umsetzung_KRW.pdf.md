@@ -1243,14 +1243,14 @@ Seite 31 von 32 / KBV / Beispiele für die Umsetzung / Version: 1.02 / 15. April
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |  |
-|  | Kassenärztliche | | Bundesvereinigung | |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |
-| Seite | 32 von 32 | / KBV | / Beispiele | für die | Umsetzung / Version: | 1.02 / 15. | April 2023 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 32 von 32  /  KBV  /  Beispiele für die Umsetzung  /  Version: 1.02  /  15. April 2023
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 32 von 32 / KBV / Beispiele für die Umsetzung /
+
+Version: 1.02 / 15. April 2023

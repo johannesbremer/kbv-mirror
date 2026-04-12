@@ -633,21 +633,20 @@ Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten er
 
 ---
 
-| 3 |  |  |  | TESTDATENVALIDIERUNG | |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | in | Kapitel | 2 beschriebenen | | Prüffälle, | bei | welchen | eine | XML-Dokumentation | | das | Ergebnis ist, | können |
-| auch | in der |  | Testdatenvalidierung | des |  | Zertifizierungsportals | | | genutzt | werden. | Die | übermittelten | Test daten |
-| werden | auf |  | Vollständigkeit | und | Korrektheit | automatisiert | | geprüft. | Eine | manuelle | Prüfung | der | eingereichten |
-|  | Unterlagen | durch | das Referat |  | Zertifizierung | findet | nicht | statt, | demzufolge | ist | der | Ordner | „Dokumentation“ |
-| im | Gegensatz | zur | Zertifizierung | nicht |  | Gegenstand | der |  | Testvalidierung. | Nach | dem das | Thema | ausgewählt |
-| wurde, | kann | die |  | Verzeichnisstruktur | mit den |  | Prüfunterlagen | | hochgeladen |  | werden. An | die | angegebene E- |
-|  | Mail-Adresse | | werden die | Testergebnisse |  | gesendet. |  |  |  |  |  |  |  |
-|  | Abbildung 2: |  | Testdatenvalidierung |  |  |  |  |  |  |  |  |  |  |
-| Bitte |  | beachten | Sie die | folgende | Verzeichnisstruktur | | des | ZIP-Archives. | |  |  |  |  |
-|  | Abbildung 3: | Struktur | des | ZIP-Archives für | die | Testdatenvalidierung | | anhand | von | Beispieldateien |  |  |  |
-| Seite | 21 von | 22 / | KBV / Pruefpaket | QS | Hörgeräteversorgung-Kinder | | / Version: | 3.01 | / 12. | August 2021 |  |  |  |
+3
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Test werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E- Mail-Adresse werden die Testergebnisse gesendet. Abbildung 2: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien Seite 21 von 22  /  KBV  /  Pruefpaket QS Hörgeräteversorgung-Kinder  /  Version: 3.01  /  12. August 2021
+## TESTDATENVALIDIERUNG
+
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten  werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“  im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt  wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E- Mail-Adresse werden die Testergebnisse gesendet.
+
+Abbildung 2: Testdatenvalidierung
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
+
+Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
+
+Seite 21 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 
 ---
 

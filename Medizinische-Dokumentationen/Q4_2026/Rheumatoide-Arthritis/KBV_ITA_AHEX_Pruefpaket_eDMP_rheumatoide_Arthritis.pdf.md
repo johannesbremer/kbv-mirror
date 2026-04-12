@@ -808,23 +808,20 @@ Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Einwilligungse
 
 ---
 
-|  |  | TESTDATENVALIDIERUNG | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | in Kapitel | 2 beschriebenen | | Prüffälle, | bei welchen | eine XML | -Dokumentation | das | Ergebnis | ist, können |
-| auch | in der | Testdatenvalidierung | des |  | Zertifizierungsportals | | genutzt werden. | Eine | Ausnahme | bildet der |
-|  | multimorbide | Fall „Prüffall | 7220“. |  |  |  |  |  |  |  |
-| Die | übermittelten | Testdaten | werden | auf | Vollständigkeit | und | Korrektheit | automatisiert | | geprüft. Eine |
-| manuelle | Prüfung | der | eingereichten | Unterlagen | durch | Mitarbeitende | der | KBV | findet nicht | statt, |
-|  | demzufolge ist | der Ordner | „Dokumentation“ | | im Gegensatz | zur | Zertifizierung | nicht | Gegenstand | der |
-|  | Testdatenvalidierung. | | Nach dem das | Thema | ausgewählt | wurde, | kann das | zip-Archiv | mit | den Prüfunterlagen |
-|  | hochgeladen | werden. An | die angegebene |  | E-Mail-Adresse | werden | die | Testergebnisse | | gesendet. |
-| Abbildung | 3: | Testdatenvalidierung |  |  |  |  |  |  |  |  |
-| Bitte | beachten | Sie die | folgende | Verzeichnisstruktur | | des ZIP -Archives. |  | Beachten | Sie, dass | der Dateinamen |
-| des | Archivs mit | „ Test | _110“ beginnen | muss, | sonst schlägt | die | Validierung | fehl. |  |  |
-| Abbildung | 4: | Exemplarische | Verzeichnisstruktur | für | die | Testdatenvalidierung |  |  |  |  |
-| Seite | 27 von 30 / | KBV / Prüfpaket | eDMP-rheumatoide | Arthritis | / Version: | 1.04 / | 31. März 2026 |  |  |  |
+## TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML -Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide Fall „Prüffall 7220“. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV  findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet. Abbildung 3: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP -Archives. Beachten Sie, dass der Dateinamen des Archivs mit „ Test _110“ beginnen muss, sonst schlägt die Validierung fehl. Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 27 von 30  /  KBV  /  Prüfpaket eDMP-rheumatoide Arthritis  /  Version: 1.04  /  31. März 2026
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 7220“.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+
+Abbildung 3: Testdatenvalidierung
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „ Test _110“ beginnen muss, sonst schlägt die Validierung fehl.
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 27 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.04 / 31. März 2026
+
 
 ---
 
@@ -896,14 +893,14 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes daten
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de |  |  |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |  |
-| Seite | 30 von 30 | / KBV | / Prüfpaket | eDMP-rheumatoide | Arthritis | / Version: | 1.04 / 31. | März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 30 von 30  /  KBV  /  Prüfpaket eDMP-rheumatoide Arthritis   /  Version: 1.04  /  31. März 2026
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 30 von 30 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
+
+/ Version: 1.04 / 31. März 2026

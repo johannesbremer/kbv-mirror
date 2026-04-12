@@ -1,12 +1,12 @@
-|  |  |  |  |  | Ausfüllanleitung |  |
-|---|---|---|---|---|---|---|
-|  |  | zum |  |  | indikationsspezifischen | Datensatz |
-|  |  | für | das | strukturierte | | Behandlungsprogramm |
-|  |  |  |  |  | KHK |  |
-| Stand | der | letzten | Bearbeitung: |  | 27.08.2025 |  |
-|  |  |  |  | Version | 7.0 |  |
+### zum indikationsspezifischen Datensatz
 
-zum indikationsspezifischen Datensatz für das strukturierte Behandlungsprogramm Stand der letzten Bearbeitung: Version 7.0
+### für das strukturierte Behandlungsprogramm
+
+Stand der letzten Bearbeitung:
+
+### Ausfüllanleitung
+
+### KHK 27.08.2025  Version 7.0
 
 
 ---

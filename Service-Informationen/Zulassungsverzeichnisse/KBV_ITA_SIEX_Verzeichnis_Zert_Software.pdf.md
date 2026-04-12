@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**04. APRIL 2026**
+**11. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -40,7 +40,7 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x | x | x | x | x | x | x | x | x | x |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -94,7 +94,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice EVA A
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  |  |  | x | x | x | x | x | x |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -158,7 +158,7 @@ Med7 Bitron GmbH Technologiesysteme CGM CLINICAL CGM Clinical Deutschland GmbH C
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -228,7 +228,8 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice Praxi
 
 |  | x |  | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | x |  |  |  |  |  |  |  |  |  |
+
+**CGM DMP-ASSIST** CompuGroup Medical Deutschland AG
 
 **CGM Praxis** CompuGroup Medical Deutschland AG
 
@@ -247,7 +248,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice Praxi
 
 **InterMediNet KVDT** DBI Informatik, Dirk Blume
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -269,7 +270,11 @@ x
 
 x
 
-CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL Data-AL GmbH elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice TURBOMED CompuGroup Medical Deutschland AG ALBIS CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM DMP-ASSIST CompuGroup Medical Deutschland AGx
+x
+
+x
+
+elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice TURBOMED CompuGroup Medical Deutschland AG ALBIS CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL Data-AL GmbHx
 
 
 ---
@@ -304,7 +309,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG DS-WIN-PLUS (DS-WIN-MED
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x | x | x |  | x | x | x | x | x | x |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -361,7 +366,7 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH inSuite Doc Cirrus GmbH Doctoli
 
 **PathoFlow** Florian Kaiser
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -422,7 +427,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice DURIA
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  |  | x |  | x |  | x | x | x |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -473,7 +478,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice theHu
 
 **DAC-Formular 2** IMEDAC GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -538,7 +543,7 @@ IFA-AUGENARZT ifa systems AG ifa|NX-NEXT Generation AIS ifa systems AG elektroni
 
 **LINA** LAB4.0 GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -594,7 +599,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice Medic
 
 **Klinik Dialog Plus** Leopoldina-Krankenhaus GmbH
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -668,7 +673,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice MELOS
 
 Seite 12
 
-/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -727,7 +732,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice EL - 
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -806,7 +811,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice Praxi
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -874,7 +879,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice RadCe
 
 **QS-LAB** QS QualitySoft GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -955,7 +960,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice NEXUS
 
 **Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -1013,7 +1018,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice RED m
 
 **AiDKlinik** Universitätsklinikum Heidelberg
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 
@@ -1058,7 +1063,7 @@ elektronische Disease- Verordnung von DiGAs Digitale Muster eTerminservice MEDI_
 
 Seite 18
 
-/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 04. April 2026
+/ KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 11. April 2026
 
 x
 

@@ -1011,12 +1011,12 @@ Antrag -B
 
 ---
 
-| Abbildung | 1: | Gesamtübersicht | zu | Antrags- | und | SM-B-Status |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Seite 17 von | 57 / KBV / | Anforderungskatalog | | SM-B Anbieter | - Anforderungen | an TSP im | Rahmen der Ausgabe | von SM -B |
-| für das | KV-System / | Version: 2.0 / | 15 September | 2025 |  |  |  |  |
+**Abbildung 1: Gesamtübersicht zu Antrags- und SM-B-Status**
 
-Abbildung 1: Gesamtübersicht zu Antrags- und SM-B-Status Seite 17 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - für das KV-System  /  Version: 2.0  /  15 September 2025 Anforderungen an TSP im Rahmen der Ausgabe von SM
+Seite 17 von 57 / KBV / Anforderungskatalog SM-B Anbieter -  für das KV-System / Version: 2.0 / 15 September 2025
+
+Anforderungen an TSP im Rahmen der Ausgabe von SM -B
+
 
 ---
 
@@ -1877,24 +1877,23 @@ sie klickt auf einen Link in der -Verbindung zu.
 
 ---
 
-| 4.3.2 | Ablauf |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Der Ablauf | für | die Freigabe | über | das | Freigabeportal und | die SOAP | ergibt | sich aus | den folgenden |
-| Abbildungen: | |  |  |  |  |  |  |  |  |
-| Abbildung | 4: | Freigabe | über das | Freigabeportal |  |  |  |  |  |
-| Seite 33 | von 57 / | KBV / | Anforderungskatalog | SM-B Anbieter | - Anforderungen | an | TSP im Rahmen | der Ausgabe | von SM -B |
-| für das | KV-System / | Version: 2.0 | / 15 | September 2025 |  |  |  |  |  |
+**4.3.2 Ablauf**
 
-Der Ablauf für die Freigabe über das Freigabeportal und die SOAP ergibt sich aus den folgenden Abbildung 4: Freigabe über das Freigabeportal Seite 33 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System  /  Version: 2.0  /  15 September 2025
+Der Ablauf für die Freigabe über das Freigabeportal und die SOAP ergibt sich aus den folgenden  Abbildungen:
+
+**Abbildung 4: Freigabe über das Freigabeportal**
+
+Seite 33 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System / Version: 2.0 / 15 September 2025 -B
+
 
 ---
 
-| Abbildung | 5: Freigabe | über SOAP |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Seite 34 von | 57 / KBV / | Anforderungskatalog | SM-B Anbieter | - Anforderungen | an TSP im | Rahmen der Ausgabe | von SM -B |
-| für das | KV-System / Version: | 2.0 / 15 | September 2025 |  |  |  |  |
+**Abbildung 5: Freigabe über SOAP**
 
-Abbildung 5: Freigabe über SOAP Seite 34 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - für das KV-System  /  Version: 2.0  /  15 September 2025 Anforderungen an TSP im Rahmen der Ausgabe von SM
+Seite 34 von 57 / KBV / Anforderungskatalog SM-B Anbieter -  für das KV-System / Version: 2.0 / 15 September 2025
+
+Anforderungen an TSP im Rahmen der Ausgabe von SM -B
+
 
 ---
 
@@ -2199,14 +2198,14 @@ SM-B bzw.
 
 ---
 
-| 4.4.2 | Ablauf |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Der Ablauf | einer | Lieferung | (pro SM-B) | ergibt | sich | aus der | folgenden | | Abbildung: |  |
-| Abbildung | 6: Lieferung |  |  |  |  |  |  |  |  |  |
-| Seite 39 | von 57 / KBV | / Anforderungskatalog | | SM-B | Anbieter - | Anforderungen | an TSP | im Rahmen | der Ausgabe | von SM -B |
-| für das | KV-System / Version: | 2.0 / | 15 September | 2025 |  |  |  |  |  |  |
+**4.4.2 Ablauf**
 
-Der Ablauf einer Lieferung (pro SM-B) ergibt sich aus der folgenden Abbildung: Abbildung 6: Lieferung Seite 39 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System  /  Version: 2.0  /  15 September 2025
+Der Ablauf einer Lieferung (pro SM-B) ergibt sich aus der folgenden Abbildung:
+
+**Abbildung 6: Lieferung**
+
+Seite 39 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System / Version: 2.0 / 15 September 2025 -B
+
 
 ---
 
@@ -2396,15 +2395,18 @@ zu -
 
 ---
 
-| 4.5.2 |  | Ablauf |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Der | Ablauf | für | die Sperrung | einer | SM -B durch | den | Antragsteller bzw. | durch einen | Mitarbeiter | der KV ergibt |
-| sich | aus | den | folgenden | Abbildungen: |  |  |  |  |  |  |
-|  | Abbildung | 7: | Sperrung | durch | Antragsteller |  |  |  |  |  |
-| Seite | 43 | von 57 / | KBV / | Anforderungskatalog | SM-B | Anbieter - Anforderungen | an TSP im | Rahmen der Ausgabe | von SM -B |  |
-| für | das | KV-System / | Version: 2.0 | / 15 | September 2025 |  |  |  |  |  |
+**4.5.2**
 
-Der Ablauf für die Sperrung einer SM sich aus den folgenden Abbildungen: Abbildung 7: Sperrung durch Antragsteller Seite 43 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System  /  Version: 2.0  /  15 September 2025 -B durch den Antragsteller bzw. durch einen Mitarbeiter der KV ergibt
+Der Ablauf für die Sperrung einer SM sich aus den folgenden Abbildungen:
+
+**Abbildung 7: Sperrung durch Antragsteller**
+
+Seite 43 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System / Version: 2.0 / 15 September 2025
+
+**Ablauf**
+
+-B durch den Antragsteller bzw. durch einen Mitarbeiter der KV ergibt -B
+
 
 ---
 
@@ -2566,14 +2568,18 @@ Keine -B
 
 ---
 
-| 4.6.2 | Ablauf | Monitoring |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Der Ablauf | für das | Monitoring | ergibt | sich aus | der folgenden |  | Abbildung: |  |  |
-| Abbildung | 9: | Monitoring |  |  |  |  |  |  |  |
-| Seite 47 | von 57 / KBV | / | Anforderungskatalog | SM-B | Anbieter - Anforderungen | an TSP | im Rahmen | der Ausgabe | von SM -B |
-| für das | KV-System / | Version: 2.0 | / 15 | September 2025 |  |  |  |  |  |
+**4.6.2**
 
-Der Ablauf für das Monitoring ergibt sich aus der Abbildung 9: Monitoring Seite 47 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System  /  Version: 2.0  /  15 September 2025 Ablauf Monitoring folgenden Abbildung:
+Der Ablauf für das Monitoring ergibt sich aus der
+
+**Abbildung 9: Monitoring**
+
+Seite 47 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM für das KV-System / Version: 2.0 / 15 September 2025
+
+**Ablauf Monitoring**
+
+folgenden Abbildung: -B
+
 
 ---
 
@@ -3078,43 +3084,32 @@ Praxisname abzufragen.
 
 ---
 
-| 7 | ANHANG |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| 7.1 |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |
-| Abbildung | 1: | Gesamtübersicht | zu | Antrags | - und | SM-B-Status |  |  |
-| Abbildung | 2: | Vorbefüllung |  |  |  |  |  |  |
-| Abbildung | 3: | Antragstellung |  |  |  |  |  |  |
-| Abbildung | 4: | Freigabe über | das | Freigabeportal | |  |  |  |
-| Abbildung | 5: | Freigabe über | SOAP |  |  |  |  |  |
-| Abbildung | 6: | Lieferung |  |  |  |  |  |  |
-| Abbildung | 7: | Sperrung durch |  | Antragsteller |  |  |  |  |
-| Abbildung | 8: | Sperrung durch | KV |  |  |  |  |  |
-| Abbildung | 9: | Monitoring |  |  |  |  |  |  |
-| Abbildung | 10: | Benachrichtigungen | |  |  |  |  |  |
-| 7.2 |  | TABELLENVERZEICHNIS |  |  |  |  |  |  |
-| Tabelle | 1: Akteure | und Rollen |  |  |  |  |  |  |
-| Tabelle | 2: Löschfristen |  |  |  |  |  |  |  |
-| Tabelle | 3: Antrags- | und | SM-B-Status |  |  |  |  |  |
-| Tabelle | 4: | TUC_Vorbefüllung |  |  |  |  |  |  |
-| Tabelle | 5: | TUC_Antragsstellung | |  |  |  |  |  |
-| Tabelle | 6: | Notwendige Daten | eines | Antrags |  |  |  |  |
-| Tabelle | 7: Liste | der KVen |  |  |  |  |  |  |
-| Tabelle | 8: | TUC_Freigabe |  |  |  |  |  |  |
-| Tabelle | 9: | Prüfinformationen | im | Rahmen | der Freigabe |  |  |  |
-| Tabelle | 10: | TUC_Lieferung |  |  |  |  |  |  |
-| Tabelle | 11: | TUC_Sperrung |  |  |  |  |  |  |
-| Tabelle | 12: | TUC_Monitoring |  |  |  |  |  |  |
-| Tabelle | 13: Anzeige | im | Freigabeportal |  |  |  |  |  |
-| Tabelle | 14: TUC | Benachrichtigungen | |  |  |  |  |  |
-| Tabelle | 15: | Zertifikatsinhalte |  |  |  |  |  |  |
-| Seite | 56 von 57 / | KBV / | Anforderungskatalog | SM-B Anbieter | - Anforderungen | an TSP im | Rahmen der Ausgabe | von SM - B |
-| für das | KV-System / | Version: 2.0 | / 15 September | 2025 |  |  |  |  |
+7
+
+**7.1**
+
+**Abbildung 1: Gesamtübersicht zu Antrags** **Abbildung 2: Vorbefüllung**  **Abbildung 3: Antragstellung** **Abbildung 4: Freigabe über das Freigabeportal** **Abbildung 5: Freigabe über SOAP**  **Abbildung 6: Lieferung**  **Abbildung 7: Sperrung durch Antragsteller** **Abbildung 8: Sperrung durch KV**  **Abbildung 9: Monitoring**  **Abbildung 10: Benachrichtigungen**
+
+**7.2**
+
+**Tabelle 1: Akteure und Rollen**  **Tabelle 2: Löschfristen**  **Tabelle 3: Antrags- und SM-B-Status**  **Tabelle 4: TUC_Vorbefüllung**  **Tabelle 5: TUC_Antragsstellung** **Tabelle 6: Notwendige Daten eines Antrags** **Tabelle 7: Liste der KVen**  **Tabelle 8: TUC_Freigabe**  **Tabelle 9: Prüfinformationen im Rahmen der Freigabe** **Tabelle 10: TUC_Lieferung**  **Tabelle 11: TUC_Sperrung**  **Tabelle 12: TUC_Monitoring**  **Tabelle 13: Anzeige im Freigabeportal** **Tabelle 14: TUC Benachrichtigungen** **Tabelle 15: Zertifikatsinhalte**
+
+Seite 56 von 57 / KBV / Anforderungskatalog SM-B Anbieter -  für das KV-System / Version: 2.0 / 15 September 2025
+
+## ANHANG
+
+**ABBILDUNGSVERZEICHNIS**
+
+**TABELLENVERZEICHNIS**
+
+**- und SM-B-Status**
+
+Anforderungen an TSP im Rahmen der Ausgabe von SM -B
 
 17  19  23  33  34  39  43  44  47  52
 
 8  14  15  18  21  24  26  31  36  37  41  46  49  51  55
 
-Abbildung 1: Gesamtübersicht zu Antrags Abbildung 2: Vorbefüllung Abbildung 3: Antragstellung Abbildung 4: Freigabe über das Freigabeportal Abbildung 5: Freigabe über SOAP Abbildung 6: Lieferung Abbildung 7: Sperrung durch Antragsteller Abbildung 8: Sperrung durch KV Abbildung 9: Monitoring Abbildung 10: Benachrichtigungen Tabelle 1: Akteure und Rollen Tabelle 2: Löschfristen Tabelle 3: Antrags- und SM-B-Status Tabelle 4: TUC_Vorbefüllung Tabelle 5: TUC_Antragsstellung Tabelle 6: Notwendige Daten eines Antrags Tabelle 7: Liste der KVen Tabelle 8: TUC_Freigabe Tabelle 9: Prüfinformationen im Rahmen der Freigabe Tabelle 10: TUC_Lieferung Tabelle 11: TUC_Sperrung Tabelle 12: TUC_Monitoring Tabelle 13: Anzeige im Freigabeportal Tabelle 14: TUC Benachrichtigungen Tabelle 15: Zertifikatsinhalte Seite 56 von 57  /  KBV / Anforderungskatalog SM-B Anbieter - für das KV-System  /  Version: 2.0  /  15 September 2025 - und SM-B-Status Anforderungen an TSP im Rahmen der Ausgabe von SM
 
 ---
 

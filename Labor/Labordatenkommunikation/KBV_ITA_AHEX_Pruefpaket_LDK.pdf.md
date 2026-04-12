@@ -83,17 +83,14 @@ Seite 2 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation  /  Version: 1.23 
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 1: Struktur | des ZIP-Archives |  |  |  |  |  |
-| Abbildung | 2: Struktur | des ZIP-Archives | für |  | DigitalesMuster10A | -Export |  |
-| Abbildung | 3: Struktur | des ZIP-Archives |  |  |  |  |  |
-| Abbildung | 4: Struktur | des ZIP-Archives | mit |  | LDT-Befund-Export |  |  |
-| Seite | 3 von 41 / KBV | / Prüfpaket | Labordatenkommunikation | / Version: | 1.23 | / 15. | November 2023 |
+## ABBILDUNGSVERZEICHNIS
+
+Abbildung 1: Struktur des ZIP-Archives  Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A Abbildung 3: Struktur des ZIP-Archives  Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export
+
+Seite 3 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023 -Export
 
 7  7  32  32
 
-Abbildung 1: Struktur des ZIP-Archives Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A Abbildung 3: Struktur des ZIP-Archives Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export Seite 3 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation  /  Version: 1.23  /  15. November 2023
 
 ---
 
@@ -226,48 +223,56 @@ LDT3.1.0
 
 ---
 
-| 1 |  | ALLGEMEINES | |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Dieses | Dokument |  | beschreibt | das | allgemeine | Vorgehen | und |  | beinhaltet | Prüffälle | für | die | Zertifizierung | eines |
-|  |  | Zertifizierungsgegenstandes | | im | Bereich | der |  | Labordatenkommunikation. | | |  |  |  |  |
-| Die |  | Zertifizierungsrichtlinie | | der | KBV, welche | die | Rechte | und | Pflichten | des | Antrags | tellers | definiert, | bildet den |
-| Rahmen | der | Zertifizierung | | und ist | zu | beachten. |  |  |  |  |  |  |  |  |
-| Des | Weiteren | können | dem | Antrag | auf | Zertifizierung | | neben |  | Zertifizierungskosten | | und | Laufzeit | der Zulassung |
-| weitere |  | wichtige | Informationen | | entnommen | | werden, | die | nicht | Bestandteil | die ses | Prüfpaketes | | sind. |
-| 1.1 |  | RECHTSGRUNDLAGE | |  |  |  |  |  |  |  |  |  |  |  |
-| Die | Rechtsgrundlage | | für die |  | Zertifizierung | der |  | Labordatenkommunikation | | | ergibt | sich aus | §§ 72, | 73, und 75 |
-| SGB | V sowie | Anlage | 2b zum |  | Bundesmantelvertrag | | -Ärzte |  | (BMV-Ä). |  |  |  |  |  |
-| 1.2 |  | ZERTIFIZIERUNGSABLAUF | | |  |  |  |  |  |  |  |  |  |  |
-| Die |  | Labordatenkommunikation | | | umfasst | die | Funktionen | LDT | -Auftrag, |  | LDT-Befund, | digitales | Muster | (DiMus) |
-| 10 und | digitales | | Muster 10A | jeweils | für | den | Export | und Import | dieser | Daten. | Welche |  | dieser | Funktionen der |
-|  |  | Zertifizierungsgegenstand | | zur | Unterstützung | | der Labord |  | atenkommunikation | |  | beinhalten | muss, | ist vom |
-|  | Einsatzgebiet | des | Zertifizierungs | | gegenstandes | | abhängig | und | demzufolge | dem |  | Antragsteller |  | freigestellt. |
-|  | Allerdings | sind alle |  | Anforderungen | zu den |  | jeweiligen | Funktionen, | | die mit | dem | Antrag auf |  | Zertifizierung |
-| beantragt | | wurden, | vollständig | und | fehlerfrei | | umzusetzen. | |  |  |  |  |  |  |
-| Die | Zertifizierung | | erfolgt | mit | Unterstützung | des |  |  | Zertifizierungsportals | der | KBV im | Rahmen | einer |  |
-|  | Ergebnisprüfung. | | Dabei ist | folgendes |  | Vorgehen | einzuhalten. | |  |  |  |  |  |  |
-| 1. Der |  | Antragsteller | muss | im | Zertifizierungsportal | | den |  | entsprechenden |  | Prüfvorgang |  | initiieren. | Nach |
-|  | Einleitung | des | Prüfvorganges | | wird im |  | Zertifizierungsportal | | der | Antrag auf |  | Zertifizierung | mit | den der KBV |
-|  | bisher | bekannten | Daten | vorausgefüllt | |  | bereitgestellt. | Dieser | muss | vollständig | | ausgefüllt | und |  |
-|  | unterschrieben | | als | PDF-Dokument |  | eingescannt | über | das |  | Zertifizierungsportal | | bei der | KBV | eingereicht |
-|  | werden. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Antragssteller, | | die keine |  | Benutzerdaten | für | das |  | Zertifizierungsportal | | besitzen, | müssen | zunächst | den |
-|  | Antrag auf |  | Zertifizierung |  | eingescannt | per Mail | ( | pruefstelle@kbv.de) | |  | einreichen. | Erst | nach | Erhalt der |
-|  | Zugangsdaten | kann | der | Prüfvorgang | im |  | Zertifizierungsportal | | initiier | t und | den | vorab | via Mail |  |
-|  | eingereichten | | Antrag | auf | Zertifizierung | dort |  | hochgeladen | werden. |  |  |  |  |  |
-| 2. | Eine | Verzeichnis- | bzw. | Ordnerstruktur | | mit den | erstellten | | und für | die | Zertifizierung | | erforderlichen | |
-|  | Prüfunterlagen | | muss als | ZIP-Datei | über | das |  | Zertifizierungsportal | |  | hochgeladen | werden. | Erst | wenn alle |
-|  | Unterlagen |  | vollständig | eingereicht | und | von | der |  | Prüfautomatisierung | des |  | Zertifizierungsportals | | als |
-|  | fehlerfrei | erkannt | wurden, |  | erfolgt eine |  | manuelle | Prüfung. |  |  |  |  |  |  |
-| 3. | Werden bei | der | Prüfung | Fehler | in den |  | eingereichten |  | Prüfunterlagen |  | festgestellt, | wird | der | Antrag ssteller |
-| mit | einem | Fehlerbrief | | aufgefordert, | | eine | Korrekturlieferung | | im |  | Zertifizierungsportal | | hochzuladen. | Bei |
-|  | Vorliegen | von | schwerwiegenden | | Fehlern | kann | die | KBV den |  | Antragsteller | zur | Sichtprüfung | | auffordern. |
-| 4. | Erst nach | einem | fehlerfreien | | Prüflauf | (dieser | schließt | die | manuelle |  | Prüfung der |  | eingereichten |  |
-|  | Unterlagen | mit | ein) kann | dem |  | Zertifizierungsgegenstand | | | die | entsprechende | | Zulassung |  | ausgesprochen |
-|  | werden. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Seite | 5 von 41 | / KBV / | Prüfpaket |  | Labordatenkommunikation | / | Version: | 1.23 | / 15. | November 2023 |  |  |  |  |
+1
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines Zertifizierungsgegenstandes im Bereich der Labordatenkommunikation. Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antrags Rahmen der Zertifizierung und ist zu beachten. Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen werden, die nicht Bestandteil die Die Rechtsgrundlage für die Zertifizierung der Labordatenkommunikation ergibt sich aus §§ 72, 73, und 75 SGB V sowie Anlage 2b zum Bundesmantelvertrag Die Labordatenkommunikation umfasst die Funktionen LDT 10 und digitales Muster 10A jeweils für den Export und Import dieser Daten. Welche dieser Funktionen der Zertifizierungsgegenstand zur Unterstützung der Labord Einsatzgebiet des Zertifizierungs Allerdings sind alle Anforderungen zu den jeweiligen Funktionen, die mit dem Antrag auf Zertifizierung beantragt wurden, vollständig und fehlerfrei umzusetzen. Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten. 1. Der Antragsteller muss im Zertifizierungsportal den Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag auf Zertifizierung eingescannt per Mail ( Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier eingereichten Antrag auf Zertifizierung 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle Unterlagen vollständig eingereicht und von fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung. 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern. 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen Seite 5 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation  /  Version: 1.23  /  15. November 2023 gegenstandes abhängig und demzufolge dem Antragsteller freigestellt. -Ärzte (BMV-Ä). -Auftrag, LDT-Befund, digitales Muster (DiMus) atenkommunikation beinhalten muss, ist vom  entsprechenden Prüfvorgang initiieren. Nach pruefstelle@kbv.de) einreichen. Erst nach Erhalt der dort hochgeladen werden.  der Prüfautomatisierung des Zertifizierungsportals als t und den vorab via Mail tellers definiert, bildet den ses Prüfpaketes sind. bei der KBV eingereicht
+## ALLGEMEINES
+
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Labordatenkommunikation.
+
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antrags Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil die
+
+**1.1 RECHTSGRUNDLAGE**
+
+Die Rechtsgrundlage für die Zertifizierung der Labordatenkommunikation ergibt sich aus §§ 72, 73, und 75  SGB V sowie Anlage 2b zum Bundesmantelvertrag
+
+**1.2 ZERTIFIZIERUNGSABLAUF**
+
+Die Labordatenkommunikation umfasst die Funktionen LDT 10 und digitales Muster 10A jeweils für den Export und Import dieser Daten. Welche dieser Funktionen der  Zertifizierungsgegenstand zur Unterstützung der Labord Einsatzgebiet des Zertifizierungs Allerdings sind alle Anforderungen zu den jeweiligen Funktionen, die mit dem Antrag auf Zertifizierung  beantragt wurden, vollständig und fehlerfrei umzusetzen.
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+
+1. Der Antragsteller muss im Zertifizierungsportal den Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ( Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier eingereichten Antrag auf Zertifizierung  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung. 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern. 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+
+Seite 5 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+gegenstandes abhängig und demzufolge dem Antragsteller freigestellt.
+
+-Ärzte (BMV-Ä).
+
+-Auftrag, LDT-Befund, digitales Muster (DiMus)
+
+atenkommunikation beinhalten muss, ist vom
+
+entsprechenden Prüfvorgang initiieren. Nach
+
+[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
+
+dort hochgeladen werden.
+
+der Prüfautomatisierung des Zertifizierungsportals als
+
+t und den vorab via Mail
+
+tellers definiert, bildet den
+
+ses Prüfpaketes sind.
+
+bei der KBV eingereicht
+
+ssteller  Bei
+
 
 ---
 
@@ -334,27 +339,26 @@ Kapitel 3
 
 ---
 
-| 1.5 |  | PRÜFUNTERLAGEN |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| In | diesem | Kapitel werden | alle | notwendigen | Vorgaben | | definiert, | die bei | der | Erstellung | der | einzureichenden |
-|  | Prüfunterlagen | einzuhalten | sind. | Für die |  | Zertifizierung | werden | als Nachweis | die | in | diesem | Abschnitt |
-|  | beschriebenen | Unterlagen | über das |  | Zertifizierungsportal | | erwartet. |  |  |  |  |  |
-| 1.5.1 |  | Verzeichnisstruktur |  |  |  |  |  |  |  |  |  |  |
-| Die |  | Übertragungswege | und die | entsprechenden | | digitalen | Muster | mit dem |  | Unterordner |  | „Dokumentation“ |
-| sind | in einem | ZIP-Archiv | zu | übermitteln. | Das | ZIP- | Archiv muss | mit | „Zert_43_<SystemID> | | “ | benannt werden. |
-| Die | Struktur | des ZIP-Archives | sollte | alle | Themen | aus | dem Antrag | auf | Zertifizierung |  | beinhalten. | Wird eine |
-|  | vollständige | Zertifizierung | angestrebt | ( |  | „DigitalesMuster6 | - Export“, |  | „DigitalesMuster6 | - | Import“, |  |
-|  | „DigitalesMuster10A | - | Export“, | „DigitalesMuster10A | | - | Import“, | „DigitalesMuster10 | - | Export“, | |  |
-| „Digita |  | lesMuster10- | Import“, | „DigitalesMuster39 | | - Export“, |  | „DigitalesMuster39 | - | Import“, | „LDT | -Auftrag- |
-| Export“, | „LDT | -Auftrag- | Import“, | „LDT | -Befund- | Export“, | „LDT | -Befund-Export- | ZZ“ | und „LDT | -Befund- | Import“), |
-| sollte | das | Paket die | folgende Form | aufweisen: | |  |  |  |  |  |  |  |
-| Abbildung | 1: | Struktur des | ZIP-Archives |  |  |  |  |  |  |  |  |  |
-|  | Bereiche, die | nicht | zertifiziert | werden, | dürfen | nicht in | der . | ZIP-Datei | vorkommen. |  |  |  |
-| Beispiel | einer | gültigen | .ZIP- Datei | mit dem | Bereich |  | „DigitalesMuster10A | - | Export“: |  |  |  |
-| Abbildung | 2: | Struktur des | ZIP-Archives für |  | DigitalesMuster10A-Export | |  |  |  |  |  |  |
-| Seite | 7 von 41 | / KBV / | Prüfpaket | Labordatenkommunikation | | / Version: | 1.23 / | 15. November | 2023 |  |  |  |
+**1.5 PRÜFUNTERLAGEN**
 
-In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt beschriebenen Unterlagen über das Zertifizierungsportal erwartet. Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“ sind in einem ZIP-Archiv zu übermitteln. Das ZIP- Archiv muss mit „Zert_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine vollständige Zertifizierung angestrebt ( „DigitalesMuster6 - Export“, „DigitalesMuster6 - Import“, „DigitalesMuster10A - Export“, „DigitalesMuster10A - Import“, „DigitalesMuster10 - Export“, „Digita lesMuster10- Import“, „DigitalesMuster39 - Export“, „DigitalesMuster39 - Import“, „LDT -Auftrag- Export“, „LDT -Auftrag- Import“, „LDT -Befund- Export“, „LDT -Befund-Export- ZZ“ und „LDT -Befund- Import“), sollte das Paket die folgende Form aufweisen: Abbildung 1: Struktur des ZIP-Archives Bereiche, die nicht zertifiziert werden, dürfen nicht in der . Beispiel einer gültigen .ZIP- Datei mit dem Bereich „DigitalesMuster10A - Export“: Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A-Export Seite 7 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation  /  Version: 1.23  /  15. November 2023 ZIP-Datei vorkommen.
+In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
+
+**1.5.1 Verzeichnisstruktur**
+
+Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“  sind in einem ZIP-Archiv zu übermitteln. Das ZIP- Archiv muss mit „Zert_43_<SystemID> “ benannt werden.  Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine  vollständige Zertifizierung angestrebt ( „DigitalesMuster6 - Export“, „DigitalesMuster6 - Import“,  „DigitalesMuster10A - Export“, „DigitalesMuster10A - Import“, „DigitalesMuster10 - Export“,  „Digita lesMuster10- Import“, „DigitalesMuster39 - Export“, „DigitalesMuster39 - Import“, „LDT -Auftrag- Export“, „LDT -Auftrag- Import“, „LDT -Befund- Export“, „LDT -Befund-Export- ZZ“ und „LDT -Befund- Import“),  sollte das Paket die folgende Form aufweisen:
+
+Abbildung 1: Struktur des ZIP-Archives
+
+Bereiche, die nicht zertifiziert werden, dürfen nicht in der .
+
+Beispiel einer gültigen .ZIP- Datei mit dem Bereich „DigitalesMuster10A - Export“:
+
+Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A-Export
+
+Seite 7 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+ZIP-Datei vorkommen.
+
 
 ---
 
@@ -2237,25 +2241,28 @@ Großes Blutbild, Blutsenkung, Quick, Bilirubin  gesamt, IgG, Glukose, Sonstiges
 
 ---
 
-| 3 |  |  |  | TESTDATENVALIDIERUNG | | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | die in | diesem | Kapitel |  | beschriebenen | Prüffäl | le | können in der |  | Testdatenvalidierung | des |  |
-|  |  | Zertifizierungsportals | | genutzt | werden. | Die | übermittelten | Testdaten | werden | auf | Vollständigkeit | und |
-|  | Korrektheit |  | automatisiert | geprüft. | Eine |  | manuelle | Prüfung der | eingereichten | Unterlagen | durch | das Referat |
-|  | Zertifizieru | ng | findet | nicht | statt, | demzufolge | ist der | Ordner | „Dokumentation“ | im | Gegensatz | zur |
-|  | Zertifizierung | | nicht | Gegenstand | der |  | Testvalidierung. | Nach dem | das Thema | ausgewählt | wurde, | kann die |
-|  | Verzeichnisstruktur | | mit | den | Prüfunterlagen | | hochgeladen | w erden. | An die | angegebene |  | E-Mail-Adresse |
-| werden | die |  | Testergebnisse |  | gesendet. |  |  |  |  |  |  |  |
-| Das | zip- | Archiv | muss mit |  | „Test_43_<SystemID> | | “ benannt | werden. | Die Struktur | des | ZIP-Archives | sollte alle |
-| zu | testenden | Bereiche | | beinhalten. | Wird | eine | vollständige | Prüfung | angestrebt |  | („DigitalesMuster6 | - Export“, |
-|  | „DigitalesMuster10A | | - | Export“, |  | „DigitalesMuster10 | - | Export“, | „DigitalesMuster39 | - | Export“, „LDT | -Auftrag- |
-| Export“ | und | „LDT | -Befund- | Export“), | | muss die |  | Verzeichnisstruktur | die | folgende Form | aufweisen: |  |
-| Abbildung | 3: | Struktur des | ZIP-Archives | |  |  |  |  |  |  |  |  |
-|  | Bereiche, | die nicht | getestet |  | werden, | dürfen | nicht in der | .zip -Datei |  | vorkommen. |  |  |
-| Abbildung | 4: | Struktur | des | ZIP-Archives mit |  | LDT-Befund-Export |  |  |  |  |  |  |
-| Seite | 32 von | 41 / KBV | / | Prüfpaket | Labordatenkommunikation | | / Version: | 1.23 / | 15. November | 2023 |  |  |
+3
 
-Alle die in diesem Kapitel beschriebenen Prüffäl Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizieru ng findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen w werden die Testergebnisse gesendet. Das zip- Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung „DigitalesMuster10A - Export“, „DigitalesMuster10 - Export“, „DigitalesMuster39 - Export“, „LDT -Auftrag- Export“ und „LDT -Befund- Export“), muss die Verzeichnisstruktur die folgende Form aufweisen: Abbildung 3: Struktur des ZIP-Archives Bereiche, die nicht getestet werden, dürfen nicht in der .zip Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export Seite 32 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation  /  Version: 1.23  /  15. November 2023 le können in der Testdatenvalidierung des erden. An die angegebene E-Mail-Adresse -Datei vorkommen. angestrebt („DigitalesMuster6 - Export“,
+## TESTDATENVALIDIERUNG
+
+Alle die in diesem Kapitel beschriebenen Prüffäl Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  Zertifizieru ng findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur  Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen w werden die Testergebnisse gesendet.
+
+Das zip- Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle  zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung  „DigitalesMuster10A - Export“, „DigitalesMuster10 - Export“, „DigitalesMuster39 - Export“, „LDT -Auftrag- Export“ und „LDT -Befund- Export“), muss die Verzeichnisstruktur die folgende Form aufweisen:
+
+Abbildung 3: Struktur des ZIP-Archives
+
+Bereiche, die nicht getestet werden, dürfen nicht in der .zip
+
+Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export
+
+Seite 32 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+le können in der Testdatenvalidierung des
+
+erden. An die angegebene E-Mail-Adresse -Datei vorkommen.
+
+angestrebt („DigitalesMuster6 - Export“,
+
 
 ---
 
@@ -2928,14 +2935,12 @@ eGK-XML Dateien XML_21 und  Optional XML_20 1
 
 ---
 
-|  | Ansprechpartner: |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | und IT |  |  |  |  |
-| IT in | der Arztpraxis |  |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, | pruefstelle@kbv.de |  |  |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung |  |  |  |  |
-|  | Herbert-Lewin-Platz | 2, | 10623 Berlin |  |  |  |  |
-|  | pruefstelle@kbv.de, | | www.kbv.de |  |  |  |  |
-| Seite | 41 von 41 / | KBV / | Prüfpaket Labordatenkommunikation | / Version: | 1.23 / | 15. November | 2023 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, www.kbv.de Seite 41 von 41  /  KBV  /  Prüfpaket Labordatenkommunikation   /  Version: 1.23  /  15. November 2023
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 41 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023

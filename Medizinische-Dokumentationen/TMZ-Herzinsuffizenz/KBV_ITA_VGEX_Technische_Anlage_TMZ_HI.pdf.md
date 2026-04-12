@@ -46,18 +46,13 @@ Pflichtfunktionen und optionale Funktionen der Software3
 
 ---
 
-|  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 1 - | Workflow | Jahresstatistik | für | Telemonitoring | bei | Herzinsuffizienz |
-|  | TABELLENVERZEICHNIS |  |  |  |  |  |  |
-| Tabelle | 1 - Erfassung | der |  | behandlungsbezogenen | Daten | pro Patient | (P1 -100) |
-| Tabelle | 2 - | Satzartbeschreibung |  | Jahresstatistik |  | Telemonitoring bei | Herzinsuffizienz |
+**ABBILDUNGSVERZEICHNIS**
 
-6
+Abbildung 1 - Workflow Jahresstatistik für Telemonitoring bei Herzinsuffizienz 6
 
-9  16
+**TABELLENVERZEICHNIS**
 
-Abbildung 1 - Workflow Jahresstatistik für Telemonitoring bei Herzinsuffizienz Tabelle 1 - Erfassung der behandlungsbezogenen Daten pro Patient (P1 Tabelle 2 - Satzartbeschreibung Jahresstatistik Telemonitoring bei Herzinsuffizienz4
+Tabelle 1 - Erfassung der behandlungsbezogenen Daten pro Patient (P1-100) 9  Tabelle 2 - Satzartbeschreibung Jahresstatistik Telemonitoring bei Herzinsuffizienz 16 4
 
 
 ---
@@ -433,13 +428,6 @@ BESCHREIBUNG rade Wertezahl tierung der zu betrachten- den Datenwerte nach der G
 
 ---
 
-|  | Ansprechpartner: |  |  |
-|---|---|---|---|
-| Dezernat |  | Digitalisierung | und IT |
-|  | Geschäftsbereich | IT in | der Versorgung |
-| Tel.: | 030 4005-2077 |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung |
-|  | Herbert-Lewin-Platz | 2, | 10623 Berlin |
-|  | ita@kbv.de, | www.kbv.de |  |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT Geschäftsbereich IT in der Versorgung Tel.: 030 4005-2077 Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de 31
+Dezernat Digitalisierung und IT  Geschäftsbereich IT in der Versorgung  Tel.: 030 4005-2077  Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de 31

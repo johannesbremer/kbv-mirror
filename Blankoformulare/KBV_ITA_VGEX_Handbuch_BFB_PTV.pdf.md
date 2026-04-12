@@ -69,24 +69,14 @@ ANFORDERUNGEN ZUR BFB (PTV) Erstellung von Vordrucken Beschriftung der Vordrucke
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: PTV | 1a, Original: | DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 2: PTV | 1b, Original: | DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 3: PTV | 1c.1, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 4: PTV | 1c.2, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 5: PTV | 2a, Original: | DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 6: PTV | 2b, Original: | DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 7: PTV | 2c, Original: | DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 8: PTV | 11a, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 9: PTV | 11bc, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 10: | PTV 12a, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Abbildung | 11: | PTV 12b, | Original: DIN | A4 hoch |  |  |  |  |  |
-| Seite | 3 von 21 / | KBV / Handbuch |  | Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. | Februar 2021 |
+## ABBILDUNGSVERZEICHNIS
 
-10  11  12  13  14  15  16  17  18  19  20
+Abbildung 1: PTV 1a, Original: DIN A4 hoch 10  Abbildung 2: PTV 1b, Original: DIN A4 hoch 11  Abbildung 3: PTV 1c.1, Original: DIN A4 hoch 12  Abbildung 4: PTV 1c.2, Original: DIN A4 hoch 13  Abbildung 5: PTV 2a, Original: DIN A4 hoch 14  Abbildung 6: PTV 2b, Original: DIN A4 hoch 15  Abbildung 7: PTV 2c, Original: DIN A4 hoch 16  Abbildung 8: PTV 11a, Original: DIN A4 hoch 17  Abbildung 9: PTV 11bc, Original: DIN A4 hoch 18  Abbildung 10: PTV 12a, Original: DIN A4 hoch 19  Abbildung 11: PTV 12b, Original: DIN A4 hoch 20
 
-Abbildung 1: PTV 1a, Original: DIN A4 hoch Abbildung 2: PTV 1b, Original: DIN A4 hoch Abbildung 3: PTV 1c.1, Original: DIN A4 hoch Abbildung 4: PTV 1c.2, Original: DIN A4 hoch Abbildung 5: PTV 2a, Original: DIN A4 hoch Abbildung 6: PTV 2b, Original: DIN A4 hoch Abbildung 7: PTV 2c, Original: DIN A4 hoch Abbildung 8: PTV 11a, Original: DIN A4 hoch Abbildung 9: PTV 11bc, Original: DIN A4 hoch Abbildung 10: PTV 12a, Original: DIN A4 hoch Abbildung 11: PTV 12b, Original: DIN A4 hoch Seite 3 von 21  /  KBV  /  Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)   /  Version: 1.36  /  18. Februar 2021
+Seite 3 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)
+
+/ Version: 1.36 / 18. Februar 2021
+
 
 ---
 
@@ -343,13 +333,12 @@ Seite 11 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapi
 
 ---
 
-| 3.1.3 | PTV | 1c .1 | (7.2020) |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 3: PTV | 1c.1, Original: | DIN A4 hoch |  |  |  |  |
-| Seite | 12 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
-| 2021 |  |  |  |  |  |  |  |
+**3.1.3 PTV 1c .1 (7.2020)**
 
-PTV 1c .1 (7.2020) Abbildung 3: PTV 1c.1, Original: DIN A4 hoch Seite 12 von 21  /  KBV  /  Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)  /  Version: 1.36  /  18. Februar
+Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
+
+Seite 12 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar   2021
+
 
 ---
 
@@ -373,13 +362,12 @@ Seite 14 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapi
 
 ---
 
-| 3.2.2 | PTV | 2b | (7.2020) |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 6: PTV | 2b, Original: | DIN A4 hoch |  |  |  |  |
-| Seite | 15 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / 18. Februar |
-| 2021 |  |  |  |  |  |  |  |
+**3.2.2 PTV 2b (7.2020)**
 
-PTV 2b (7.2020) Abbildung 6: PTV 2b, Original: DIN A4 hoch Seite 15 von 21  /  KBV  /  Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)  /  Version: 1.36  /  18. Februar
+Abbildung 6: PTV 2b, Original: DIN A4 hoch
+
+Seite 15 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar   2021
+
 
 ---
 
@@ -392,15 +380,14 @@ Seite 16 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapi
 
 ---
 
-| 3.3 | PTV | 11: | INDIVIDUELLE | PATIENTENINFORMATION | ZUR | AMBULANTEN |  | PSYCHOTHERAPEUTISCHEN |
-|---|---|---|---|---|---|---|---|---|
-|  |  | SPRECHSTUNDE |  |  |  |  |  |  |
-| 3.3.1 | PTV | 11a (7.2020) |  |  |  |  |  |  |
-| Abbildung | 8: PTV | 11a, Original: | DIN A4 hoch |  |  |  |  |  |
-| Seite | 17 von 21 | / KBV / | Handbuch Blankoformularbedruckung | für die | Psychotherapie (PTV) | / Version: | 1.36 / | 18. Februar |
-| 2021 |  |  |  |  |  |  |  |  |
+**3.3 PTV 11: INDIVIDUELLE PATIENTENINFORMATION ZUR AMBULANTEN PSYCHOTHERAPEUTISCHEN**  **SPRECHSTUNDE**
 
-PTV 11: INDIVIDUELLE PATIENTENINFORMATION ZUR AMBULANTEN PSYCHOTHERAPEUTISCHEN PTV 11a (7.2020) Abbildung 8: PTV 11a, Original: DIN A4 hoch Seite 17 von 21  /  KBV  /  Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)  /  Version: 1.36  /  18. Februar
+**3.3.1 PTV 11a (7.2020)**
+
+Abbildung 8: PTV 11a, Original: DIN A4 hoch
+
+Seite 17 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar  2021
+
 
 ---
 

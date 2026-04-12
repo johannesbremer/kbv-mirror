@@ -71,46 +71,20 @@ Semantik der verwendeten Diagrammsymbole Sonstige Symbole BODY (INHALTSDATEN) -D
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | /ehd | (root-Element) |  |  |  |  |
-| Abbildung | 2: |  | sdhdrg_stammdaten |  |  |  |  |
-| Abbildung | 3: |  | leistungsbereich_liste |  |  |  |  |
-| Abbildung | 4: | leistungsbereich | |  |  |  |  |
-| Abbildung | 5: | hybrid_drg_liste | |  |  |  |  |
-| Abbildung | 6: | hybrid_drg |  |  |  |  |  |
-| Abbildung | 7: | bezeichnung |  |  |  |  |  |
-| Abbildung | 8: | bewertung |  |  |  |  |  |
-| Abbildung | 9: |  | ohne_postoperativ |  |  |  |  |
-| Abbildung | 10: |  | mit_postoperativ |  |  |  |  |
-| Abbildung | 11: | ops_liste |  |  |  |  |  |
-| Abbildung | 12: | ops |  |  |  |  |  |
-| Abbildung | 13: | hinweis |  |  |  |  |  |
-|  |  | TABELLENVERZEICHNIS | |  |  |  |  |
-| Tabelle | 1: | Beschreibung | der | Kardinalitäten | eines | XML - Elements |  |
-| Tabelle | 2: | Beschreibung | der | Strukturelement | -Symbole |  |  |
-| Tabelle | 3: | Beschreibung | sonstiger | Symbole |  |  |  |
-|  |  | XML-CODE-VERZEICHNIS | | |  |  |  |
-| XML-Code | 1: | /ehd |  |  |  |  |  |
-| XML-Code | 2: |  | sdhdrg_stammdaten |  |  |  |  |
-| XML-Code | 3: |  | leistungsbereich_liste |  |  |  |  |
-| XML-Code | 4: | leistungsbereich | |  |  |  |  |
-| XML-Code | 5: | hybrid_drg_liste | |  |  |  |  |
-| XML-Code | 6: | hybrid_drg |  |  |  |  |  |
-| XML-Code | 7: | name |  |  |  |  |  |
-| XML-Code | 8: | bewertung |  |  |  |  |  |
-| XML-Code | 9: |  | ohne_postoperativ |  |  |  |  |
-| XML-Code | 10: |  | mit_postoperativ |  |  |  |  |
-| XML-Code | 11: | ops_liste |  |  |  |  |  |
-| XML-Code | 12: | ops |  |  |  |  |  |
-| XML-Code | 13: | hinweis |  |  |  |  |  |
-| Seite 3 | von 15 / | KBV / | Schnittstellenbeschreibung | | SDHDRG (Hybrid | -DRG) / 14. | November 2025 |
+## ABBILDUNGSVERZEICHNIS
 
-8  9  10  10  11  11  12  12  13  13  14  14  14 6  7  7
+Abbildung 1: /ehd (root-Element) 8  Abbildung 2: sdhdrg_stammdaten 9  Abbildung 3: leistungsbereich_liste 10  Abbildung 4: leistungsbereich 10  Abbildung 5: hybrid_drg_liste 11  Abbildung 6: hybrid_drg 11  Abbildung 7: bezeichnung 12  Abbildung 8: bewertung 12  Abbildung 9: ohne_postoperativ 13  Abbildung 10: mit_postoperativ 13  Abbildung 11: ops_liste 14  Abbildung 12: ops 14  Abbildung 13: hinweis 14
 
-8  9  10  10  11  11  12  12  13  13  14  14  14
+## TABELLENVERZEICHNIS
 
-Abbildung 1: /ehd (root-Element) Abbildung 2: sdhdrg_stammdaten Abbildung 3: leistungsbereich_liste Abbildung 4: leistungsbereich Abbildung 5: hybrid_drg_liste Abbildung 6: hybrid_drg Abbildung 7: bezeichnung Abbildung 8: bewertung Abbildung 9: ohne_postoperativ Abbildung 10: mit_postoperativ Abbildung 11: ops_liste Abbildung 12: ops Abbildung 13: hinweis Tabelle 1: Beschreibung der Kardinalitäten eines XML Tabelle 2: Beschreibung der Strukturelement Tabelle 3: Beschreibung sonstiger Symbole XML-Code 1: /ehd XML-Code 2: sdhdrg_stammdaten XML-Code 3: leistungsbereich_liste XML-Code 4: leistungsbereich XML-Code 5: hybrid_drg_liste XML-Code 6: hybrid_drg XML-Code 7: name XML-Code 8: bewertung XML-Code 9: ohne_postoperativ XML-Code 10: mit_postoperativ XML-Code 11: ops_liste XML-Code 12: ops XML-Code 13: hinweis Seite 3 von 15  /  KBV  /  Schnittstellenbeschreibung SDHDRG (Hybrid -DRG)  /  14. November 2025
+Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements 6  Tabelle 2: Beschreibung der Strukturelement-Symbole 7  Tabelle 3: Beschreibung sonstiger Symbole 7
+
+## XML-CODE-VERZEICHNIS
+
+XML-Code 1: /ehd 8  XML-Code 2: sdhdrg_stammdaten 9  XML-Code 3: leistungsbereich_liste 10  XML-Code 4: leistungsbereich 10  XML-Code 5: hybrid_drg_liste 11  XML-Code 6: hybrid_drg 11  XML-Code 7: name 12  XML-Code 8: bewertung 12  XML-Code 9: ohne_postoperativ 13  XML-Code 10: mit_postoperativ 13  XML-Code 11: ops_liste 14  XML-Code 12: ops 14  XML-Code 13: hinweis 14
+
+Seite 3 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid -DRG) / 14. November 2025
+
 
 ---
 

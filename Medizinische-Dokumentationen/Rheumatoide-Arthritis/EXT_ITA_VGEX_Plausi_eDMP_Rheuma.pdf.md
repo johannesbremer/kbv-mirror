@@ -1,18 +1,27 @@
-|  |  |  |  |  |  |  | - | Anlage | 22* | - |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  | Plausibilitätsrichtlinie | | |
-|  |  |  |  |  | zur | Prüfung | der |  |  | Dokumentationsdaten |
-|  |  |  |  | des |  | strukturierten | |  |  | Behandlungsprogramms |
-|  |  |  |  |  |  |  | Rheumatoide | |  | Arthritis |
-|  |  | Grundlage: |  |  |  |  |  | Anlage 22 | der | DMP-A-RL |
-|  |  |  |  |  |  |  |  | gültig ab | 01.04.2022 | |
-|  |  |  |  |  |  |  |  | Version: |  | 1.0 |
-|  | Stand | der | Bearbeitung: | |  |  |  | 15.09.2021 |  |  |
-|  | Version |  | anzuwenden | ab: |  |  |  | 01.04.2023 |  |  |
-| * Die | Anlagenbezifferung | | bezieht sich | auf die | Anlagenbenennung | gemäß | den | Ausführungen | der | DMP-A-RL |
-|  | Plausibilitätsprüfung | Rheumatoide | Arthritis |  | Version 1.0 letzte | Bearbeitung: | 15.09.2021 | |  |  |
+**Grundlage:**
 
-Stand der Bearbeitung: Version anzuwenden ab: * Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL Plausibilitätsprüfung Rheumatoide Arthritis  Version 1.0 letzte Bearbeitung: 15.09.2021 - Anlage 22* - zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms Rheumatoide Arthritis Anlage 22 der DMP-A-RL gültig ab 01.04.2022
+**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+
+* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Rheumatoide Arthritis Version 1.0 letzte Bearbeitung: 15.09.2021
+
+## - Anlage 22* -
+
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
+
+## des strukturierten Behandlungsprogramms
+
+# Rheumatoide Arthritis
+
+**Anlage 22 der DMP-A-RL**
+
+**gültig ab 01.04.2022**
+
+**Version: 1.0**
+
+**15.09.2021**    **01.04.2023**
+
 
 ---
 
@@ -143,8 +152,4 @@ Erstdokumentation ist
 
 ---
 
-| * Die | Anlagenbezifferung | bezieht sich | auf die | Anlagenbenennung | gemäß | den Ausführungen | der DMP -A-RL |
-|---|---|---|---|---|---|---|---|
-| Plausibilitätsprüfung | Rheumatoide | Arthritis | Version | 1.0 letzte | Bearbeitung: | 15.09.2021 |  |
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung Rheumatoide Arthritis  Version 1.0 letzte Bearbeitung: 15.09.2021
+* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung Rheumatoide Arthritis Version 1.0 letzte Bearbeitung: 15.09.2021 -A-RL

@@ -54,15 +54,16 @@ Prüffälle  Nachweises des Audits der kv.digital Prüffällen 02 und 03 Behandl
 
 ---
 
-| 1 |  | ALLGEMEINES |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Im | Folgenden wird | die | Prüfung der | Schnittstelle | | gemäß § | 370A, | Abs. 2 | Fünften | Buches | Sozialgesetzbuch | (SGB |
-| V) | beschrieben. | Der | Zertifizierungsprozess | | wird nach | der | Version | 1.0 des |  | Anforderungskataloges |  | dargestellt. |
-| Im | Anforderungskatalog | sind | die | Anforderungen | an die | Software |  | festgelegt. | Bei der | Zertifizierung | erfolgt | eine |
-| Überprüfung, | ob | die | Anforderungen | vom | jeweiligen | Nutzer | der | Schnittstelle | korrekt | umgesetzt |  | wurden. |
-| Seite 4 | von 7 / KBV | / Prüfpaket | Schnittstelle | für Dritte | gemäß § 370A | Abs. 2 SGB | V / | Version: 1.3 | / 23. März | 2026 |  |  |
+1
 
-Im Folgenden wird die Prüfung der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB V) beschrieben. Der Zertifizierungsprozess wird nach der Version 1.0 des Anforderungskataloges dargestellt. Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine Überprüfung, ob die Anforderungen vom jeweiligen Nutzer der Schnittstelle  korrekt umgesetzt wurden. Seite 4 von 7  /  KBV /  Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V  /  Version: 1.3  /  23. März 2026
+## ALLGEMEINES
+
+Im Folgenden wird die Prüfung der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB  V) beschrieben. Der Zertifizierungsprozess wird nach der Version 1.0 des Anforderungskataloges dargestellt.
+
+Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Überprüfung, ob die Anforderungen vom jeweiligen Nutzer der Schnittstelle korrekt umgesetzt wurden.
+
+Seite 4 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.3 / 23. März 2026
+
 
 ---
 
@@ -103,17 +104,14 @@ Seite 5 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 
 
 ---
 
-| Der |  | Zertifizierungsprozess | | beginnt, | sobald | Sie | das | Zertifizierungsthema | und | den Antrag | auf | Zertifizierung |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| hochgeladen | | haben. | Das | Portal | zeigt | Ihnen in | Form | von Aufgaben | (Menüpunkt: | „Meine | Aufgaben“) | die |
-| nächsten | Arbeiten | an, | die | von Ihnen |  | durchzuführen | sind. | Immer wenn | Aktivitäten | der | Zertifizierungsstelle | |
-|  | abgeschlossen | wurden, | wird | für Sie | eine | neue | Aufgabe | generiert. |  |  |  |  |
-| Alle | erforderlichen | | Prüfunterlagen | | sind für | die | Zertifizierung | zu | übermitteln. |  |  |  |
-| Die | Übermittlung | erfolgt | mit | dem | Upload einer | einzigen | | Datei. Erstellen | Sie hierfür | bitte | ein neues | ZIP-Archiv, |
-| und | fassen Sie | in | diesem alle |  | Prüfunterlagen | (Ihre | einzelnen | | ZIP-Archive) | zusammen. |  |  |
-| Seite 6 | von 7 / | KBV / | Prüfpaket | Schnittstelle | für Dritte | gemäß § | 370A Abs. 2 | SGB V / | Version: 1.3 / 23. | März 2026 |  |  |
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die  nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle  abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert. Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen. Seite 6 von 7  /  KBV /  Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V  /  Version: 1.3  /  23. März 2026
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln.
+
+Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,  und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
+
+Seite 6 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.3 / 23. März 2026
+
 
 ---
 

@@ -535,12 +535,14 @@ Seite 18 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigu
 
 ---
 
-| Bitte | beachten | Sie | die | folgende | Verzeichnisstruktur | des | zip-Archivs. |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Abbildung | 3: | Exemplarische |  | Verzeichnisstruktur | für die | Testdatenvalidierung |  |  |  |  |
-| Seite | 19 von | 20 / KBV | / Prüfpaket | elektronische |  | Arbeitsunfähigkeitsbescheinigung | / | Version: 1.62 | / 9. | September 2025 |
+Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 19 von 20  /  KBV  /  Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung   /  Version: 1.62  /  9. September 2025
+**Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
+
+Seite 19 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung
+
+/ Version: 1.62 / 9. September 2025
+
 
 ---
 

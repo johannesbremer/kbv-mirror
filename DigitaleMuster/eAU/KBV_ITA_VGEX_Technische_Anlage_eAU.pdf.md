@@ -90,36 +90,16 @@ Dateiname FHIR-Profile Formularübergreifende Profile spezifische EAU-Profile f�
 
 ---
 
-|  |  | TABELLENVEREZEICHNIS | |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Tabelle | 1: | KBV_PR_EAU_Bundle |  |  |  |  |  |
-| Tabelle | 2: | KBV_PR_EAU_Composition | |  |  |  |  |
-| Tabelle | 3: | KBV_PR_EAU_Condition_ICD | |  |  |  |  |
-| Tabelle | 4: | KBV_PR_EAU_Condition_Text | |  |  |  |  |
-| Tabelle | 5: | KBV_PR_EAU_Condition_AU | |  |  |  |  |
-| Tabelle | 6: |  | KBV_PR_EAU_ServiceRequest_steps | |  |  |  |
-| Tabelle | 7: | KBV_PR_EAU_Storno |  |  |  |  |  |
-| Tabelle | 8: | KBV_PR_EAU_Storno_Bundle | |  |  |  |  |
-| Tabelle | 9: |  | KBV_PR_EAU_Storno_Composition | |  |  |  |
-| Tabelle | 10: |  | KBV_PR_EAU_health_insurance_Practitioner | | |  |  |
-| Tabelle | 11: | KBV_EX_EAU_7_weeks | |  |  |  |  |
-| Tabelle | 12: | KBV_EX_EAU_unemployability | |  |  |  |  |
-| Tabelle | 13: | KBV_EX_EAU_admission_date | |  |  |  |  |
-| Tabelle | 14: | KBV_EX_EAU_discharge_date | |  |  |  |  |
-| Tabelle | 15: |  | KBV_EX_EAU_partially_employable | |  |  |  |
-| Tabelle | 16: |  | KBV_EX_EAU_reintegration_date | |  |  |  |
-| Tabelle | 17: |  |  | KBV_EX_EAU_health_insurance_Practitioner_Identifier | | |  |
-| Tabelle | 18: | KBV_VS_EAU_AU_Type | |  |  |  |  |
-| Tabelle | 19: | KBV_VS_EAU_Ursache_Type | |  |  |  |  |
-| Tabelle | 20: |  | KBV_VS_EAU_WeitereSchritte_Type | |  |  |  |
-| Tabelle | 21: | KBV_CS_EAU_Identifier_types | |  |  |  |  |
-| Tabelle | 22: | Satztabelle für | die | Zusammensetzung | des | PDF417-Barcode- | Inhaltes |
-| Tabelle | 23: Auflistung | der | abzubildenden | Felder | für die eAU |  |  |
-| SEITE | 3 VON 91 / | KBV / TECHNISCHE | ANLAGE ZUR | EAU / VERSION: | 1.26 / | 24. NOVEMBER | 2025 |
+## TABELLENVEREZEICHNIS
+
+Tabelle 1: KBV_PR_EAU_Bundle  Tabelle 2: KBV_PR_EAU_Composition  Tabelle 3: KBV_PR_EAU_Condition_ICD  Tabelle 4: KBV_PR_EAU_Condition_Text  Tabelle 5: KBV_PR_EAU_Condition_AU  Tabelle 6: KBV_PR_EAU_ServiceRequest_steps  Tabelle 7: KBV_PR_EAU_Storno  Tabelle 8: KBV_PR_EAU_Storno_Bundle  Tabelle 9: KBV_PR_EAU_Storno_Composition  Tabelle 10: KBV_PR_EAU_health_insurance_Practitioner  Tabelle 11: KBV_EX_EAU_7_weeks  Tabelle 12: KBV_EX_EAU_unemployability  Tabelle 13: KBV_EX_EAU_admission_date  Tabelle 14: KBV_EX_EAU_discharge_date  Tabelle 15: KBV_EX_EAU_partially_employable  Tabelle 16: KBV_EX_EAU_reintegration_date  Tabelle 17: KBV_EX_EAU_health_insurance_Practitioner_Identifier  Tabelle 18: KBV_VS_EAU_AU_Type  Tabelle 19: KBV_VS_EAU_Ursache_Type  Tabelle 20: KBV_VS_EAU_WeitereSchritte_Type  Tabelle 21: KBV_CS_EAU_Identifier_types  Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode- Tabelle 23: Auflistung der abzubildenden Felder für die eAU
+
+SEITE 3 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
+Inhaltes
 
 10  10  10  11  11  11  11  11  12  12  12  12  13  13  13  13  14  14  14  14  15  58  63
 
-Tabelle 1: KBV_PR_EAU_Bundle Tabelle 2: KBV_PR_EAU_Composition Tabelle 3: KBV_PR_EAU_Condition_ICD Tabelle 4: KBV_PR_EAU_Condition_Text Tabelle 5: KBV_PR_EAU_Condition_AU Tabelle 6: KBV_PR_EAU_ServiceRequest_steps Tabelle 7: KBV_PR_EAU_Storno Tabelle 8: KBV_PR_EAU_Storno_Bundle Tabelle 9: KBV_PR_EAU_Storno_Composition Tabelle 10: KBV_PR_EAU_health_insurance_Practitioner Tabelle 11: KBV_EX_EAU_7_weeks Tabelle 12: KBV_EX_EAU_unemployability Tabelle 13: KBV_EX_EAU_admission_date Tabelle 14: KBV_EX_EAU_discharge_date Tabelle 15: KBV_EX_EAU_partially_employable Tabelle 16: KBV_EX_EAU_reintegration_date Tabelle 17: KBV_EX_EAU_health_insurance_Practitioner_Identifier Tabelle 18: KBV_VS_EAU_AU_Type Tabelle 19: KBV_VS_EAU_Ursache_Type Tabelle 20: KBV_VS_EAU_WeitereSchritte_Type Tabelle 21: KBV_CS_EAU_Identifier_types Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode- Tabelle 23: Auflistung der abzubildenden Felder für die eAU SEITE 3 VON 91  /  KBV  /  TECHNISCHE ANLAGE ZUR EAU  / VERSION: 1.26 /  24. NOVEMBER 2025
 
 ---
 
@@ -1645,14 +1625,16 @@ Darstellung der xHTML-Repräsentation vor Signierung
 
 ---
 
-| 5 |  | EINSATZ | DES |  | KOMMUNIKATIONSDIENSTES | | | KIM | VOM | ARZT | / VON |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | DER | PRAXIS | | ZUR | KRANKENKASSE |  |  |  |  |  |  |
-| Die | nachfolgende | | Grafik stellt | schematisch | dar, | wie die | Kommunikation | zu | einer eAU | grundlegend | erfolgt |
-| und | ab wann | eine eAU | als | erfolgreich | übermittelt gilt. |  |  |  |  |  |  |
-|  | SEITE 31 VON | 91 / KBV | / TECHNISCHE | ANLAGE ZUR | EAU / VERSION: | 1.26 / | 24. NOVEMBER | 2025 |  |  |  |
+5
 
-Die nachfolgende Grafik stellt schematisch dar, wie die Kommunikation zu einer eAU grundlegend erfolgt und ab wann eine eAU als erfolgreich übermittelt gilt.  SEITE 31 VON 91  /  KBV  /  TECHNISCHE ANLAGE ZUR EAU  / VERSION: 1.26 /  24. NOVEMBER 2025 EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON DER PRAXIS ZUR KRANKENKASSE
+Die nachfolgende Grafik stellt schematisch dar, wie die Kommunikation zu einer eAU grundlegend erfolgt  und ab wann eine eAU als erfolgreich übermittelt gilt.
+
+SEITE 31 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
+## EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON
+
+## DER PRAXIS ZUR KRANKENKASSE
+
 
 ---
 

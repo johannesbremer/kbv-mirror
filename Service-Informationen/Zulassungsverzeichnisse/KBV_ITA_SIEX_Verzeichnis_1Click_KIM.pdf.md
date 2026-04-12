@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**04. APRIL 2026**
+**11. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 |---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/395
 
@@ -66,7 +66,7 @@ MAP Software für Laborärzte Andaco Consulting & Trading GmbH Emkendorfstraße 
 |---|---|---|---|
 |  | Y/169/2411/36/525 | 31.10.2027 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2402/36/081
 
@@ -98,7 +98,7 @@ RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augusti
 |---|---|---|---|
 |  | Y/169/2504/36/466 | 31.03.2028 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/323
 
@@ -130,7 +130,7 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/169/2410/36/729 | 30.09.2027 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2408/36/706
 
@@ -162,7 +162,7 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 |---|---|---|---|
 |  | Y/169/2407/36/112 | 30.06.2027 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2501/36/702
 
@@ -194,7 +194,7 @@ Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: 
 |---|---|---|---|
 |  | Y/169/2603/36/774 | 28.02.2029 |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2410/36/203
 
@@ -228,7 +228,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|
 |  | Y/169/2312/37/060 | 31.12.2026 |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2501/36/280
 
@@ -260,7 +260,7 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 |---|---|---|---|
 |  | Y/169/2409/36/314 | 31.08.2027 |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2411/36/238
 
@@ -292,7 +292,7 @@ Opus::L Labormanagementsystem Dedalus Labor GmbH Ruhrallee 201 45136 Essen Inter
 |---|---|---|---|
 |  | Y/169/2406/36/673 | 31.05.2027 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2408/36/488
 
@@ -324,7 +324,7 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 |---|---|---|---|
 |  | Y/169/2407/36/561 | 30.06.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2408/36/602
 
@@ -356,7 +356,7 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 |---|---|---|---|
 |  | Y/169/2409/36/223 | 31.08.2027 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2507/36/769
 
@@ -388,7 +388,7 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 |---|---|---|---|
 |  | Y/169/2505/36/478 | 30.04.2028 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2408/36/421
 
@@ -420,7 +420,7 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|
 |  | Y/169/2312/36/701 | 30.11.2026 |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2504/36/630
 
@@ -452,7 +452,7 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |---|---|---|---|
 |  | Y/169/2404/36/400 | 31.03.2027 |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/417
 
@@ -484,7 +484,7 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 |---|---|---|---|
 |  | Y/169/2503/36/642 | 29.02.2028 |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2409/36/451
 
@@ -516,7 +516,7 @@ imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berli
 |---|---|---|---|
 |  | Y/169/2408/36/320 | 31.07.2027 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2409/36/210
 
@@ -548,7 +548,7 @@ esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen 
 |---|---|---|---|
 |  | Y/169/2408/36/703 | 31.07.2027 |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/385
 
@@ -580,7 +580,7 @@ smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22
 |---|---|---|---|
 |  | Y/169/2503/36/493 | 29.02.2028 |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2412/36/065
 
@@ -612,7 +612,7 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2409/36/375
 
@@ -644,7 +644,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|
 |  | Y/169/2408/36/256 | 31.07.2027 |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2406/36/243
 
@@ -676,7 +676,7 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 |---|---|---|---|
 |  | Y/169/2311/36/030 | 31.10.2026 |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/439
 
@@ -704,7 +704,7 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 |---|---|---|---|
 |  | Y/169/2410/36/192 | 30.09.2027 |  |
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 23 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2412/36/087 30.11.2027
 
@@ -728,7 +728,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2312/37/251 31.12.2026
 
@@ -754,7 +754,7 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 |---|---|---|---|
 |  | Y/169/2407/36/494 | 30.06.2027 |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/276
 
@@ -786,7 +786,7 @@ LabCentre Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: htt
 |---|---|---|---|
 |  | Y/169/2412/36/487 | 30.11.2027 |  |
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2404/36/043
 
@@ -818,7 +818,7 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 |---|---|---|---|
 |  | Y/169/2502/36/725 | 31.01.2028 |  |
 
-Seite 27 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 27 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2412/36/345
 
@@ -850,7 +850,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |---|---|---|---|
 |  | Y/169/2401/36/247 | 31.12.2026 |  |
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2311/36/083
 
@@ -882,7 +882,7 @@ GenLAB8 projodis GmbH Gebrüder-Freitag-Straße 1 35510 Butzbach Internet: http:
 |---|---|---|---|
 |  | Y/169/2503/36/308 | 29.02.2028 |  |
 
-Seite 29 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 29 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2403/36/348
 
@@ -914,7 +914,7 @@ RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.
 |---|---|---|---|
 |  | Y/169/2502/36/230 | 31.01.2028 |  |
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2411/36/261
 
@@ -950,7 +950,7 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|
 |  | Y/169/2501/36/818 | 31.12.2027 |  |
 
-Seite 31 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 31 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2407/36/458
 
@@ -988,7 +988,7 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB Sys
 |---|---|---|---|
 |  | Y/169/2311/36/457 | 31.10.2026 |  |
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026
 
 Y/169/2410/36/498
 
@@ -1009,4 +1009,4 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 |  |  | gültig bis | Betriebssysteme |
 |  | Y/169/2509/36/768 | 31.08.2028 |  |
 
-tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. April 2026
+tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. April 2026

@@ -1,8 +1,11 @@
-|  | AUSFÜLLHILFE: | |  | FORMBLATT | PTV | 1 – | ANTRAG | | AUF PSYCHOTHERAPIE |
-|---|---|---|---|---|---|---|---|---|---|
-| Seite 1 | von 2 / KBV | / | Ausfüllhilfe: Formblatt | PTV 1 – | Antrag auf | Psychotherapie | / 1. | Januar 2025 |  |
+### AUSFÜLLHILFE: FORMBLATT PTV 1 –
 
-AUSFÜLLHILFE: FORMBLATT PTV 1 – Seite 1 von 2  /  KBV  /  Ausfüllhilfe: Formblatt PTV 1 – Antrag auf Psychotherapie ANTRAG AUF PSYCHOTHERAPIE   /  1. Januar 2025
+Seite 1 von 2 / KBV / Ausfüllhilfe: Formblatt PTV 1 – Antrag auf Psychotherapie
+
+### ANTRAG AUF PSYCHOTHERAPIE
+
+/ 1. Januar 2025
+
 
 ---
 

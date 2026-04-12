@@ -6593,10 +6593,6 @@ Implementation Guide ePA Medication Service
 
 ---
 
-|  | Kassenärztliche | | Bundesvereinigung | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | Herbert-Lewin-Platz | | 2, 10623 | Berlin |  |  |  |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |  |  |  |
-| SEITE | 119 VON | 119 / | KBV / | TECHNISCHE ANLAGE | ZUR | ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG | (E16A) | / 9. FEBRUAR | 2026 / | VERSION: 1.72 |
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de SEITE 119 VON 119  /  KBV  /  TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)   /  9. FEBRUAR 2026  /  VERSION: 1.72
+SEITE 119 VON 119 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 9. FEBRUAR 2026 / VERSION: 1.72

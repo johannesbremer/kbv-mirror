@@ -7,29 +7,46 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 ---
 
-|  | Inhaltsverzeichnis | |  |
-|---|---|---|---|
-| 1 |  |  | Einführung................................................................................................................................4 |
-| 1.1 |  |  | Geltungsbereich..............................................................................................................................................4 |
-| 1.2 |  |  | Abgrenzung.......................................................................................................................................................4 |
-| 2 |  |  | Allgemein..................................................................................................................................5 |
-| 2.1 | Aufbau und |  | Struktur......................................................................................................................................6 |
-| 2.1.1 Das | Element |  | version..........................................................................................................................................................................6 |
-| 2.1.2 Das | Element |  | guid.................................................................................................................................................................................6 |
-|  |  |  | GUID-Generierung.............................................................................................................................................................................6 |
-| 2.1.3 Das | Element |  | bsnr................................................................................................................................................................................7 |
-| 2.1.4 Das | Element |  | testdaten......................................................................................................................................................................7 |
-| 2.1.5 Das | Element |  | lieferungs_zeitpunkt...............................................................................................................................................7 |
-| 2.1.6 Das | Element |  | dokumenten_typ.......................................................................................................................................................7 |
-| 2.1.7 Das | Element |  | quartal...........................................................................................................................................................................7 |
-| 2.1.8 Das | Element vollstaendig |  | ................................................................................................................................................................8 |
-| 2.1.9 Das | Element anhang |  | ..........................................................................................................................................................................8 |
-| 2.2 | Anforderungen | an die | Software-Systeme.............................................................................................8 |
-| 2.2.1 | Anforderungen | an die | Software-Systeme der Leistungserbringer.................................................................................8 |
-| 2.2.2 | Anforderungen an | die Software-Systeme | der KVen............................................................................................................9 |
-| 3 |  |  | Referenzen............................................................................................................................10 |
+### Inhaltsverzeichnis 1 1.1
 
-2.1.1 Das Element version..........................................................................................................................................................................6 2.1.2 Das Element guid.................................................................................................................................................................................6 2.1.3 Das Element bsnr................................................................................................................................................................................7 2.1.4 Das Element testdaten......................................................................................................................................................................7 2.1.5 Das Element lieferungs_zeitpunkt...............................................................................................................................................7 2.1.6 Das Element dokumenten_typ.......................................................................................................................................................7 2.1.7 Das Element quartal...........................................................................................................................................................................7 2.1.8 Das Element vollstaendig ................................................................................................................................................................8 2.1.9 Das Element anhang ..........................................................................................................................................................................8 2.2.1 Anforderungen an die Software-Systeme der Leistungserbringer.................................................................................8 2.2.2 Anforderungen an die Software-Systeme der KVen............................................................................................................9 Aufbau und Struktur......................................................................................................................................6 Anforderungen an die Software-Systeme.............................................................................................8
+1.2
+
+2 2.1
+
+2.1.1 Das Element version..........................................................................................................................................................................6
+
+2.1.2 Das Element guid.................................................................................................................................................................................6
+
+2.1.3 Das Element bsnr................................................................................................................................................................................7
+
+2.1.4 Das Element testdaten......................................................................................................................................................................7
+
+2.1.5 Das Element lieferungs_zeitpunkt...............................................................................................................................................7
+
+2.1.6 Das Element dokumenten_typ.......................................................................................................................................................7
+
+2.1.7 Das Element quartal...........................................................................................................................................................................7
+
+2.1.8 Das Element vollstaendig ................................................................................................................................................................8
+
+2.1.9 Das Element anhang ..........................................................................................................................................................................8 2.2
+
+2.2.1 Anforderungen an die Software-Systeme der Leistungserbringer.................................................................................8
+
+2.2.2 Anforderungen an die Software-Systeme der KVen............................................................................................................9 3
+
+Einführung................................................................................................................................4 Geltungsbereich..............................................................................................................................................4
+
+Abgrenzung.......................................................................................................................................................4
+
+Allgemein..................................................................................................................................5 Aufbau und Struktur......................................................................................................................................6
+
+GUID-Generierung.............................................................................................................................................................................6
+
+Anforderungen an die Software-Systeme.............................................................................................8
+
+Referenzen............................................................................................................................10
+
 
 ---
 
@@ -192,48 +209,52 @@ Begleitdatei V1.0
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  |  | Begleitdatei V1.0 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 2.1 | Aufbau und |  | Struktur |  |  |  |  |  |  |  |  |
-| Das | Grundgerüst | der | Begleitdatei | sieht wie | folgt aus | (Beispiel | für die | Anwendung |  | 1ClickAbrechnung): |  |
-| <?xml | version="1.0" | | encoding="UTF-8"?> | |  |  |  |  |  |  |  |
-|  | <einlieferung |  |  |  |  | xsi:schemaLocation="http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 | | | | | ../ |
-|  |  |  | Schema/KVTA_Einlieferung_Abrechnung_2_0_0.xsd" | | |  |  | xmlns="http://www.kv-telematik.de/1-Click/ | | |  |
-|  |  | Meldung_Einlieferung/2.0.0" | |  |  |  | xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> | | | |  |
-|  | <version | V=" "/> |  |  |  |  |  |  |  |  |  |
-|  | <guid V=" | "/> |  |  |  |  |  |  |  |  |  |
-|  | <bsnr V=" | "/> |  |  |  |  |  |  |  |  |  |
-|  | <testdaten | V=" "/> |  |  |  |  |  |  |  |  |  |
-|  |  | <lieferungs_zeitpunkt | V=" "/> |  |  |  |  |  |  |  |  |
-|  | <dokumenten_typ | | V=" "/> |  |  |  |  |  |  |  |  |
-|  | <quartal | V=" "/> |  |  |  |  |  |  |  |  |  |
-|  | <vollstaendig | V=" | "/> |  |  |  |  |  |  |  |  |
-|  | <anhang | V=" "/> |  |  |  |  |  |  |  |  |  |
-|  | </einlieferung> |  |  |  |  |  |  |  |  |  |  |
-| Abbildung: | Grundgerüst | | Begleitdatei |  |  |  |  |  |  |  |  |
-| 2.1.1 Das | Element |  | version |  |  |  |  |  |  |  |  |
-| Dieses | Element | beinhaltet | eine | fortlaufende | Nummer, | um die | vom Absender | | gewollte | Reihenfolge | der |
-| Datenpakete | beim | Empfänger |  | nachvollziehen | zu können, | d.h. | neue Daten | von | ersetzenden | Daten |  |
-|  | (Korrekturlieferung) | zu | unterscheiden. |  |  |  |  |  |  |  |  |
-| Das Element | hat | den | Datentyp " | positiv | integer | " und muss | genau | einmal | vorhanden | sein. Die |  |
-|  | Versionsnummern | beginnen | mit " 1 | ". Im | V-Attribut | wird der | Elementinhalt |  | übertragen. |  |  |
-| Die | Versionsnummer | wird | ergänzend | zum | Element | guid genutzt, | um |  | Korrekturlieferungen |  | unterscheiden zu |
-| können. | Für jede |  | Korrekturlieferung | ist die | Versionsnummer | | hochzuzählen. | |  |  |  |
-| 2.1.2 Das | Element | guid |  |  |  |  |  |  |  |  |  |
-| Dieses | Element | beinhaltet | einen | Globally Unique |  | Identifier. Es | muss gemäß | der | [GUID] | (UUID) Definition |  |
-| gefüllt | werden. |  |  |  |  |  |  |  |  |  |  |
-| Das Element | hat | den | Datentyp " | string " und | muss | genau | einmal | vorhanden sein. | Im | V-Attribut | wird der |
-| Elementinhalt |  | übertragen. |  |  |  |  |  |  |  |  |  |
-| Der GUID | wird | gemeinsam | mit dem | Element | version | verwendet, | um | neue | Datenpakete | von | ersetzenden |
-| Datenpaketen |  | unterscheiden | zu | können. |  |  |  |  |  |  |  |
-|  | GUID-Generierung | |  |  |  |  |  |  |  |  |  |
-| Für die | Datenlieferungen | | ist es | notwendig, | neue Daten | von | ersetzenden | (korrigierenden) | | Daten zu |  |
-| unterscheiden. | |  |  |  |  |  |  |  |  |  |  |
-| Das | Software-System | muss | für jede | Datenlieferung | eine | GUID | gemäß | Definition |  | [http://de.wikipedia.org/wiki/ | |
-|  | Globally_Unique_Identifier] | | generieren. | Es | wird eine |  | 32-Zeichen-kodierte |  | hexadezimale | Zeichenkette | mit |
-|  |  |  |  |  |  |  |  |  |  | Seite 6 von 10 |  |
+### 2.1 Aufbau und Struktur
 
-2.1 Aufbau und Struktur Das Grundgerüst der Begleitdatei sieht wie folgt aus (Beispiel für die Anwendung 1ClickAbrechnung): <?xml version="1.0" encoding="UTF-8"?> <einlieferung xsi:schemaLocation="http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 ../ Schema/KVTA_Einlieferung_Abrechnung_2_0_0.xsd" xmlns="http://www.kv-telematik.de/1-Click/ Meldung_Einlieferung/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">        <version V=" "/>        <guid V=" "/>        <bsnr V=" "/>        <testdaten V=" "/>        <lieferungs_zeitpunkt V=" "/>        <dokumenten_typ V=" "/>        <quartal V=" "/>        <vollstaendig V=" "/>        <anhang V=" "/> Abbildung: Grundgerüst Begleitdatei Dieses Element beinhaltet eine fortlaufende Nummer, um die vom Absender gewollte Reihenfolge der Datenpakete beim Empfänger nachvollziehen zu können, d.h. neue Daten von ersetzenden Daten (Korrekturlieferung) zu unterscheiden.  Das Element hat den Datentyp " Versionsnummern beginnen mit " Die Versionsnummer wird ergänzend zum Element können. Für jede Korrekturlieferung ist die Versionsnummer hochzuzählen.  Dieses Element beinhaltet einen Globally Unique Identifier. Es muss gemäß der [GUID]  (UUID) Definition gefüllt werden. Das Element hat den Datentyp " Elementinhalt übertragen. Der GUID wird gemeinsam mit dem Element Datenpaketen unterscheiden zu können. Für die Datenlieferungen ist es notwendig, neue Daten von ersetzenden (korrigierenden) Daten zu Das Software-System muss für jede Datenlieferung eine GUID gemäß Definition [http://de.wikipedia.org/wiki/ Globally_Unique_Identifier] generieren. Es wird eine 32-Zeichen-kodierte hexadezimale Zeichenkette mit                                                                                                                                                                                                                Seite  6  von  10 positiv integer " und muss genau einmal vorhanden sein. Die ". Im V-Attribut wird der Elementinhalt übertragen.  genutzt, um Korrekturlieferungen unterscheiden zu " und muss genau einmal vorhanden sein. Im V-Attribut wird der  verwendet, um neue Datenpakete von ersetzenden
+Das Grundgerüst der Begleitdatei sieht wie folgt aus (Beispiel für die Anwendung 1ClickAbrechnung):
+
+<?xml version="1.0" encoding="UTF-8"?> <einlieferung xsi:schemaLocation="[http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0](http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0) ../ Schema/KVTA_Einlieferung_Abrechnung_2_0_0.xsd" xmlns="[http://www.kv-telematik.de/1-Click/](http://www.kv-telematik.de/1-Click/) Meldung_Einlieferung/2.0.0" xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance")> <version V=" "/> <guid V=" "/> <bsnr V=" "/> <testdaten V=" "/> <lieferungs_zeitpunkt V=" "/> <dokumenten_typ V=" "/> <quartal V=" "/> <vollstaendig V=" "/> <anhang V=" "/> </einlieferung>
+
+Abbildung: Grundgerüst Begleitdatei 2.1.1 Das Element
+
+Dieses Element beinhaltet eine fortlaufende Nummer, um die vom Absender gewollte Reihenfolge der  Datenpakete beim Empfänger nachvollziehen zu können, d.h. neue Daten von ersetzenden Daten  (Korrekturlieferung) zu unterscheiden.
+
+Das Element hat den Datentyp "
+
+Versionsnummern beginnen mit "
+
+Die Versionsnummer wird ergänzend zum Element  können. Für jede Korrekturlieferung ist die Versionsnummer hochzuzählen.
+
+2.1.2 Das Element
+
+Dieses Element beinhaltet einen Globally Unique Identifier. Es muss gemäß der [GUID] (UUID) Definition  gefüllt werden.
+
+Das Element hat den Datentyp " Elementinhalt übertragen.
+
+Der GUID wird gemeinsam mit dem Element  Datenpaketen unterscheiden zu können.
+
+**GUID-Generierung**
+
+Für die Datenlieferungen ist es notwendig, neue Daten von ersetzenden (korrigierenden) Daten zu  unterscheiden. Das Software-System muss für jede Datenlieferung eine GUID gemäß Definition [[http://de.wikipedia.org/wiki/](http://de.wikipedia.org/wiki/) Globally_Unique_Identifier] generieren. Es wird eine 32-Zeichen-kodierte hexadezimale Zeichenkette mit
+
+Seite 6 von 10
+
+version
+
+guid
+
+positiv integer " und muss genau einmal vorhanden sein. Die
+
+1 ". Im V-Attribut wird der Elementinhalt übertragen.
+
+guid genutzt, um Korrekturlieferungen unterscheiden zu
+
+string " und muss genau einmal vorhanden sein. Im V-Attribut wird der
+
+version verwendet, um neue Datenpakete von ersetzenden
+
+Begleitdatei V1.0
+
 
 ---
 

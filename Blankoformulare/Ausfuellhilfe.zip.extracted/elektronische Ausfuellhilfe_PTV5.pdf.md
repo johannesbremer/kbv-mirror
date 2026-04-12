@@ -1,8 +1,8 @@
-|  | AUSFÜLLHILFE: | |  | FORMBLATT | PTV 5 | – GUTACHTEN |
-|---|---|---|---|---|---|---|
-| Seite 1 | von 2 / KBV | / | Ausfüllhilfe: Formblatt | PTV 5 – Gutachten | / 1. | Januar 2025 |
+## AUSFÜLLHILFE: FORMBLATT PTV 5 –
 
-AUSFÜLLHILFE: FORMBLATT PTV 5 – Seite 1 von 2  /  KBV  /  Ausfüllhilfe: Formblatt PTV 5 – Gutachten  /  1. Januar 2025
+## GUTACHTEN
+
+Seite 1 von 2 / KBV / Ausfüllhilfe: Formblatt PTV 5 – Gutachten / 1. Januar 2025
 
 
 ---

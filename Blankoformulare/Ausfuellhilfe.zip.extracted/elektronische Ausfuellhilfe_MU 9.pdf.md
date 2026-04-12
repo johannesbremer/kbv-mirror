@@ -26,11 +26,10 @@ Seite 1 von 3 / KBV / Muster 9 – Bescheinigung einer Fehlgeburt, Frühgeburt o
 
 ---
 
-| Seite 2 | von 3 / | KBV / Muster | 9 – Bescheinigung | einer | Fehlgeburt, Frühgeburt | oder Behinderung | des Kindes | / 8. August |
-|---|---|---|---|---|---|---|---|---|
-| 2025 |  |  |  |  |  |  |  |  |
+Seite 2 von 3 / KBV / Muster 9 – Bescheinigung einer Fehlgeburt, Frühgeburt oder Behinderung des Kindes 2025
 
-Seite 2 von 3  /  KBV /  Muster 9 – Bescheinigung einer Fehlgeburt, Frühgeburt oder Behinderung des Kindes   /  8. August
+/ 8. August
+
 
 ---
 

@@ -1,19 +1,19 @@
-| IT | in | der | Arztpraxis |  |
-|---|---|---|---|---|
-|  | Merkblatt | |  |  |
-|  |  |  | Krankenversichertenkarte | |
-|  |  |  | [KBV_ITA_VGEX_Merkblatt_KVK] | |
-|  | Dezernat | 6 |  |  |
-|  |  | Informationstechnik, | Telematik | und Telemedizin |
-|  | 10623 | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | | Bundesvereinigung | |
-| Version | 2.05 |  |  |  |
-| Datum: |  | 20.07.2012 |  |  |
-|  | Klassifizierung: | Extern |  |  |
-| Status: |  | In | Kraft |  |
-| © | Kassenärztliche | | Bundesvereinigung, | Berlin 2012 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Dezernat 6 Informationstechnik, Telematik und Telemedizin 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Version  2.05 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2012
+## Merkblatt
+
+## Krankenversichertenkarte
+
+[KBV_ITA_VGEX_Merkblatt_KVK]
+
+Dezernat 6  Informationstechnik, Telematik und Telemedizin
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung  Version 2.05  Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
+
+© Kassenärztliche Bundesvereinigung, Berlin 2012
+
 
 ---
 

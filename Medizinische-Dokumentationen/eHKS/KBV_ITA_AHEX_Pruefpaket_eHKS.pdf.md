@@ -860,21 +860,22 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 ---
 
-| 3 |  |  | TESTDATENVALIDIERUNG | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | in Kapitel | 2 beschriebenen | | Prüffälle, | bei | welchen eine |  | XML-Dokumentation | das | Ergebnis | ist, können |
-| auch | in der | Testdatenvalidierung | des |  | Zertifizierungsportals | | genutzt | werden. |  |  |  |
-| Die | übermittelten | Testdaten | werden | auf | Vollständigkeit | und | Korrektheit | | automatisiert | | geprüft. Eine |
-| manuelle | Prüfung | der | eingereichten | Unterlagen | durch | das | Referat | Zertifizierung | findet | nicht | statt, |
-|  | demzufolge ist | der Ordner |  | „Dokumentation | “ im | Gegensatz | zur | Zertifizierung | nicht | Gegenstand | der |
-|  | Testdatenvalidierung. | | Nach dem das | Thema | ausgewählt | wurde, | kann | das | ZIP-Archiv | mit den | Prüfunterlagen |
-|  | hochgeladen | werden. An | die | angegebene | E | -Mail-Adresse | werden | die | Testergebnisse |  | gesendet. |
-| Abbildung | 2: | Testdatenvalidierung |  |  |  |  |  |  |  |  |  |
-| Bitte | beachten | Sie die | folgende |  | Verzeichnisstruktur | des | ZIP-Archives. |  |  |  |  |
-| Abbildung | 3: | Exemplarische | Verzeichnisstruktur | für | die | Testdatenvalidierung | |  |  |  |  |
-| Seite | 23 von 27 / | KBV / Pruefpaket |  | Hautkrebs-Screening | / Version: | 3.03 / | 30. Mai 2025 |  |  |  |  |
+3
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation “ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen hochgeladen werden. An die angegebene E -Mail-Adresse werden die Testergebnisse gesendet. Abbildung 2: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 23 von 27  /  KBV  /  Pruefpaket Hautkrebs-Screening  /  Version: 3.03  /  30. Mai 2025
+## TESTDATENVALIDIERUNG
+
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+
+Abbildung 2: Testdatenvalidierung
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
+
+Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 23 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 
 ---
 

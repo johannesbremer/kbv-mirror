@@ -1,20 +1,23 @@
-| IT | in der | Arztpraxis |  |  |
-|---|---|---|---|---|
-|  |  | Datensatzbeschreibung | | EBM- |
-|  | Stammdatei | - | Satzarten | 850, |
-| 851, | 852, | 853 |  |  |
-|  |  | [KBV_ITA_VGEX_Datensatz_SDEBM | | ] |
-| Dezernat | 6 |  |  |  |
-|  | Informationstechnik, | | Telematik und | Telemedizin |
-| 10623 | Berlin, | Herbert-Lewin-Platz | 2 |  |
-|  | Kassenärztliche |  | Bundesvereinigung |  |
-| Version | 1.61 |  |  |  |
-| Datum: |  | 31.10.2025 |  |  |
-| Klassifizierung: | Extern |  |  |  |
-| Status: | In | Kraft |  |  |
-| © KBV | Kassenärztliche | Bundesvereinigung, | Berlin | 202 5 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Datensatzbeschreibung EBM- Stammdatei - Satzarten 850, 851, 852, 853 Dezernat 6 Informationstechnik, Telematik und Telemedizin 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Klassifizierung: Extern  In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 202 5
+## Datensatzbeschreibung EBM-
+
+## Stammdatei - Satzarten 850,
+
+## 851, 852, 853
+
+[KBV_ITA_VGEX_Datensatz_SDEBM]
+
+Dezernat 6  Informationstechnik, Telematik und Telemedizin
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung
+
+Version 1.61  Datum: 31.10.2025  Klassifizierung: Extern  Status: In Kraft
+
+© KBV Kassenärztliche Bundesvereinigung, Berlin 202 5
+
 
 ---
 

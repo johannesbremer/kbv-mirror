@@ -64,15 +64,12 @@ Seite 3 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Vers
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | | 14 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | | 15 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  | ..................................................................................................................... | | | 16 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION | |  |  | ..................................................................................................... | | 19 |
-| Seite | 4 von 48 / KBV | / | Schnittstellenbeschreibung | Diabetes | mellitus | Typ 2 / Version: | 6.08 / | 14. November | 2025 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 48  /  KBV  /  Schnittstellenbeschreibung Diabetes mellitus Typ 2  /  Version: 6.08  /  14. November 2025
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 14  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 15  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 16  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 19
+
+Seite 4 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 
 ---
 

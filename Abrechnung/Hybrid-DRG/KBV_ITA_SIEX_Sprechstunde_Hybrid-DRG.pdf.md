@@ -843,22 +843,24 @@ Seite 19 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
-| Antwort | der | KBV: |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Nein, | die | Anforderung | ist | so zu | verstehen, dass |  | grundsätzlich | alle | Leistungen |  | aufgelistet | werden. | Der Arzt |
-| hat | jedoch die |  | Möglichkeit, | einzelne | Leistungen |  | abzuwählen. |  |  |  |  |  |  |
-| Hinweis |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| In | diesem Fall | sollte | in | der | Patientenquittung | ein | Hinweis | auf | die mögliche |  |  | Unvollständigkeit | aufgenommen |
-| werden. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Frage: |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Bei | den | Hybrid-DRGs | gab | es eine | neue | Anforderung | zu den | Feldern | „Datum | Beginn | der | Leistung“ | (FK |
-| 5028) | und | „Datum | Ende der | Leistung“ | (FK | 5029) . | Allerdings | gibt | es dazu | keine | Regeln. | Warum? |  |
-| Antwort | der | KBV: |  |  |  |  |  |  |  |  |  |  |  |
-| Aus | fachlicher | Sicht | ist die | Definition | spezifischer | | Prüfregeln |  | hierfür | derzeit nicht |  | vorgesehen | bzw. nicht |
-|  | erforderlich. |  |  |  |  |  |  |  |  |  |  |  |  |
-| Seite | 20 von 26 | / KBV / | Sprechstunde | Hybrid-DRG | / 18. | August 2025 |  |  |  |  |  |  |  |
+Antwort der KBV:
 
-Antwort der KBV:  Nein, die Anforderung ist so zu verstehen, dass grundsätzlich alle Leistungen aufgelistet werden. Der Arzt hat jedoch die Möglichkeit, einzelne Leistungen abzuwählen. In diesem Fall sollte in der Patientenquittung ein Hinweis auf die mögliche Unvollständigkeit aufgenommen Bei den Hybrid-DRGs gab es eine neue Anforderung zu den Feldern „Datum Beginn der Leistung“ (FK 5028) und „Datum Ende der Leistung“ (FK 5029) . Allerdings gibt es dazu keine Regeln. Warum? Antwort der KBV:  Aus fachlicher Sicht ist die Definition spezifischer Prüfregeln hierfür derzeit nicht vorgesehen bzw. nicht Seite 20 von 26  /  KBV  /  Sprechstunde Hybrid-DRG  /  18. August 2025
+Nein, die Anforderung ist so zu verstehen, dass grundsätzlich alle Leistungen aufgelistet werden. Der Arzt  hat jedoch die Möglichkeit, einzelne Leistungen abzuwählen.
+
+**Hinweis**
+
+In diesem Fall sollte in der Patientenquittung ein Hinweis auf die mögliche Unvollständigkeit aufgenommen  werden.
+
+**Frage:**
+
+**Bei den Hybrid-DRGs gab es eine neue Anforderung zu den Feldern „Datum Beginn der Leistung“ (FK**  **5028) und „Datum Ende der Leistung“ (FK 5029). Allerdings gibt es dazu keine Regeln. Warum?**
+
+Antwort der KBV:
+
+Aus fachlicher Sicht ist die Definition spezifischer Prüfregeln hierfür derzeit nicht vorgesehen bzw. nicht  erforderlich.
+
+Seite 20 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
 
 ---
 
@@ -960,16 +962,14 @@ Seite 22 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
-| somit | besteht | | keine | Möglichkeit der | Prüfung, | ob | es sich | um einen | Sonstigen |  | Kostenträger | handelt. | Wie |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| kann | in | solchen | Fällen | dennoch eine | Prüfung | erfolgen? | |  |  |  |  |  |  |
-|  | Antwort der | KBV: |  |  |  |  |  |  |  |  |  |  |  |
-|  | Temporäre | Datensätze | sollten | möglichst |  | schlank | gehalten | werden. | Eine | Prüfung | des | Kostenträgers | kann |
-| über | die | VKNR | erfolgen. | SKT-Zusatzangaben | | sind aktuell |  | nicht | prüfbar, da in | den | KV-Spezifika | (noch) | nicht |
-|  | vorgesehen. |  |  |  |  |  |  |  |  |  |  |  |  |
-| Seite | 23 von | 26 / KBV | / Sprechstunde | Hybrid-DRG | / 18. | August | 2025 |  |  |  |  |  |  |
+**somit besteht keine Möglichkeit der Prüfung, ob es sich um einen Sonstigen Kostenträger handelt. Wie**  **kann in solchen Fällen dennoch eine Prüfung erfolgen?**
 
-somit besteht keine Möglichkeit der Prüfung, ob es sich um einen Sonstigen Kostenträger handelt. Wie kann in solchen Fällen dennoch eine Prüfung erfolgen? Antwort der KBV:  Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung des Kostenträgers kann über die VKNR erfolgen. SKT-Zusatzangaben sind aktuell nicht prüfbar, da in den KV-Spezifika (noch) nicht Seite 23 von 26  /  KBV  /  Sprechstunde Hybrid-DRG  /  18. August 2025
+Antwort der KBV:
+
+Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung des Kostenträgers kann  über die VKNR erfolgen. SKT-Zusatzangaben sind aktuell nicht prüfbar, da in den KV-Spezifika (noch) nicht  vorgesehen.
+
+Seite 23 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
 
 ---
 
@@ -1039,14 +1039,14 @@ Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
-| Kontakt: | |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| Dezernat |  | Digitalisierung | | und IT |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | ita@kbv.de |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |
-| Seite | 26 von | 26 / KBV | / | Sprechstunde Hybrid-DRG | / 18. | August 2025 |
+Kontakt:
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de  Seite 26 von 26  /  KBV  /  Sprechstunde Hybrid-DRG  /  18. August 2025
+Dezernat Digitalisierung und IT  IT in der Arztpraxis
+
+Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Seite 26 von 26 / KBV / Sprechstunde Hybrid-DRG /
+
+18. August 2025

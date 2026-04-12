@@ -1,9 +1,10 @@
-|  |  | Muster 62A: | Ergebnis | der | Erhebung des | Beatmungsentwöhnungs - bzw. | Dekanülierungspotenzials |
-|---|---|---|---|---|---|---|---|
-| Muster | 62A: |  | Ergebnis der | Erhebung | des | Beatmungsentwöhnungs- bzw. | Dekanülierungs- |
-|  | potenzials | gemäß | AKI-Richtlinie | des | G-BA |  |  |
+**Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungs-** **potenzials gemäß AKI-Richtlinie des G-BA**
 
-Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungs- potenzials gemäß AKI-Richtlinie des G-BA Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs - bzw. Dekanülierungspotenzials 1
+**Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs**
+
+**- bzw. Dekanülierungspotenzials**
+
+1
 
 
 ---

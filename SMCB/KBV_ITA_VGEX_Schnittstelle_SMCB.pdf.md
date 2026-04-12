@@ -1117,14 +1117,14 @@ Sperraufträge (Variante 3), von der eine nicht erfolgreich „<Number>;<InstID>
 
 ---
 
-|  | Ansprechpartner: | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-|  | Dezernat | Digitalisierung | | und IT |  |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |  |
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de | |  |  |  |
-|  | Kassenärztliche | | Bundesvereinigung | |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |  |
-| Seite | 33 von 33 | / KBV | / Schnittstelle | LEO-TSP | im KV-System | / Version: | 1.7 / 18. | Juli 2023 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, www.kbv.de Seite 33 von 33  /  KBV  /  Schnittstelle LEO-TSP im KV-System  /  Version: 1.7  /  18. Juli 2023
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 33 von 33 / KBV / Schnittstelle LEO-TSP im KV-System /
+
+Version: 1.7 / 18. Juli 2023

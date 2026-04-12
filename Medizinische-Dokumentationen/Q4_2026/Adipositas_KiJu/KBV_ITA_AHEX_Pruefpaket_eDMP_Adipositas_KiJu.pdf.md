@@ -148,47 +148,24 @@ Seite 5 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Ve
 
 ---
 
-| › | Videodateien | / |  | Videomitschnitte | | oder | Screenshots | ausgewählter | | Anforderungen | und |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Teilnahmeerklärung: | |  |  |  |  |  |  |  |  |  |  |
-| Die |  | geforderten |  | Videomitschnitte | , | Screenshots | sowie | die | Teilnahmeerklärung | | (Prüffall | 2240) | müssen in |
-|  | einem | gesonderten |  | Ordner „ | Dokumentation | | “ übermittelt | | werden und | folgender | | Namenskonvention | |
-|  | entsprechen. | | Diese | werden | durch den | Prüfer | begutachtet. | |  |  |  |  |  |
-| · | PrüffallNr. | 1 | _[lfdNr.] | 2.3 .* |  |  |  |  |  |  |  |  |  |
-| · |  | Teilnahmeerklärung | | (Prüffall | | 2240): | TE_EWE_ADKJ.pdf | |  |  |  |  |  |
-| › | Alle | Prüfunterlagen | |  | (ADKJ-Unterlagen | und | der Ordner |  | „Dokumentation“ | ) sind | in einem | ZIP-Archiv | zu |
-|  | übermitteln. | Die |  | ADKJ-Unterlagen | | werden direkt | in | dem | Hauptverzeichnis |  | übertragen | und nicht |  |
-|  | gesondert | in | einem | Unterordner |  | abgelegt. | Diese Dateien | werden |  | automatisiert | geprüft. | Der | Ordner |
-|  | „Dokumentation“ | | enthält |  |  | Videoaufzeichnungen | , ggf. | Screenshots | sowie | die |  | Teilnahmeerklärung | und |
-|  | wird | ebenfalls | direkt | in dem |  | Hauptverzeichnis | übertragen. | Das | ZIP- | Archiv muss | wie | folgt benannt |  |
-|  | werden: |  |  |  |  |  |  |  |  |  |  |  |  |
-| · |  | Zert_112_SystemID.zip | |  |  |  |  |  |  |  |  |  |  |
-| Die | SystemID | ergibt | sich | aus den | letzten | drei | Stellen der | Prüfnummer. | |  |  |  |  |
-| Im | Folgenden | wird | beispielhaft | die |  | Verzeichnisstruktur | | ohne | zusätzliche | Zulassungen | (die | alleinige |  |
-| Umsetzung | von |  | Adipositas - | Kinder | und | Jugendliche) |  | dargestellt. |  |  |  |  |  |
-| Name |  |  |  |  |  |  |  | Typ |  |  |  |  |  |
-|  | Zert_112_SystemID.zip | |  |  |  |  |  |  | ZIP-komprimierter | | Ordner |  |  |
-|  |  |  |  | 391234511_20261031101010_1_ADKJ_100.zip.XKM | | |  |  | XKM-Datei |  |  |  |  |
-|  |  | Dokumentation |  |  |  |  |  | Dateiordner |  |  |  |  |  |
-|  |  |  |  | 391234511_20261015101010_1_ADKJ_100.idx | | |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  |  | 391234511_20261015101010_1_ADKJ_100.idx.XKM | | |  | XKM-Datei |  |  |  |  |
-|  |  |  |  | 856215715_20261015101010_1_ADKJ_100.idx | | |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  |  | 856215715_20261015101010_1_ADKJ_100.idx.XKM | | |  | XKM-Datei |  |  |  |  |
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | | für die | Zertifizierung |  |  |  |  |  |  |
-| Name |  |  |  |  |  |  | Typ |  |  |  |  |  |  |
-|  |  |  | 391234511_20261031101010_1_ADKJ_100.zip.XKM | | | |  | XKM-Datei |  |  |  |  |  |
-|  |  | Adipositas_Kinder |  |  |  |  |  | Dateiordner |  |  |  |  |  |
-|  |  | Dokumentation |  |  |  |  |  | Dateiordner |  |  |  |  |  |
-|  |  | 391234511_2210 | | 11_2026 | 15.EEADKJ |  |  | EEADKJ-Datei |  |  |  |  |  |
-|  |  |  | 391234511_2261030 | 11_202 | .EVADKJ |  |  | EVADKJ-Datei |  |  |  |  |  |
-| Abbildung | 2: | Exemplarische |  | Struktur der | Archivdatei | mit | den | Prüfunterlagen |  |  |  |  |  |
-|  | ________________ | |  |  |  |  |  |  |  |  |  |  |  |
-| 1 Nummer | des | Prüffalls |  |  |  |  |  |  |  |  |  |  |  |
-| 2 Laufende | Nr. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 Gängiges | Bild- | bzw. | Videoformat |  |  |  |  |  |  |  |  |  |  |
-| Seite | 6 von 27 | / KBV / | Prüfpaket | eDMP- | Adipositas | - Kinder und | Jugendliche | / Version: | 1.00 / | 31. März 2026 |  |  |  |
+› **Videodateien / Videomitschnitte oder Screenshots ausgewählter Anforderungen und**  **Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2240) müssen in  einem gesonderten Ordner „ Dokumentation “ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  **·** PrüffallNr. 1_[lfdNr.] 2.3 .*  **·** Teilnahmeerklärung (Prüffall 2240): TE_EWE_ADKJ.pdf
 
-Videodateien / Videomitschnitte oder Screenshots ausgewählter Anforderungen und Die geforderten Videomitschnitte , Screenshots sowie die Teilnahmeerklärung (Prüffall 2240) müssen in einem gesonderten Ordner „ Dokumentation “ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet. Teilnahmeerklärung (Prüffall 2240): TE_EWE_ADKJ.pdf  Nummer des Prüffalls  Laufende Nr.  Gängiges Bild- bzw. Videoformat Alle Prüfunterlagen (ADKJ-Unterlagen und der Ordner „Dokumentation“ ) sind in einem ZIP-Archiv zu übermitteln. Die ADKJ-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“ enthält Videoaufzeichnungen , ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung von Adipositas - Kinder und Jugendliche) dargestellt. ZIP-komprimierter Ordner 391234511_20261015101010_1_ADKJ_100.idx.XKM    XKM-Datei 856215715_20261015101010_1_ADKJ_100.idx.XKM    XKM-Datei Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Seite 6 von 27  /  KBV  /  Prüfpaket eDMP- Adipositas - Kinder und Jugendliche  /  Version: 1.00  /  31. März 2026
+**1 Nummer des Prüffalls**  **2 Laufende Nr.**  **3 Gängiges Bild- bzw. Videoformat**
+
+› Alle Prüfunterlagen (ADKJ-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die ADKJ-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  **·** Zert_112_SystemID.zip
+
+Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+
+Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige  Umsetzung von Adipositas - Kinder und Jugendliche) dargestellt.
+
+Name                 Typ  Zert_112_SystemID.zip            ZIP-komprimierter Ordner  391234511_20261031101010_1_ADKJ_100.zip.XKM   XKM-Datei  Dokumentation             Dateiordner    391234511_20261015101010_1_ADKJ_100.idx  IDX-Datei    391234511_20261015101010_1_ADKJ_100.idx.XKM XKM-Datei   856215715_20261015101010_1_ADKJ_100.idx  IDX-Datei    856215715_20261015101010_1_ADKJ_100.idx.XKM XKM-Datei   Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+Name               Typ  391234511_20261031101010_1_ADKJ_100.zip.XKM  XKM-Datei  Adipositas_Kinder          Dateiordner    Dokumentation          Dateiordner    391234511_221011_2026 15.EEADKJ   EEADKJ-Datei    391234511_226103011_202 .EVADKJ   EVADKJ-Datei   Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
+
+________________
+
+Seite 6 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 
 ---
 
@@ -682,28 +659,22 @@ eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP und Einwilligungserklärung  7-10 (A
 
 ---
 
-| 3 |  |  | TESTDATENVALIDIERUNG | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | in Kapitel | 2 beschriebenen | | Prüffälle, | bei welchen | eine XML | -Dokumentation | das | Ergebnis | ist, können |
-| auch | in der | Testdatenvalidierung | des |  | Zertifizierungsportals | genutzt | werden. |  |  |  |
-| Die | übermittelten | Testdaten | werden | auf | Vollständigkeit | und | Korrektheit | automatisiert | | geprüft. Eine |
-| manuelle | Prüfung | der | eingereichten | Unterlagen | durch | Mitarbeitende | der | KBV | findet nicht | statt, |
-|  | demzufolge ist | der Ordner | „Dokumentation“ | | im Gegensatz | zur | Zertifizierung | nicht | Gegenstand | der |
-|  | Testdatenvalidierung. | | Nach dem das | Thema | ausgewählt | wurde, kann | das | zip-Archiv | mit | den Prüfunterlagen |
-|  | hochgeladen | werden. An | die angegebene | | E-Mail-Adresse | werden | die | Testergebnisse | | gesendet. |
-| Abbildung | 3: | Testdatenvalidierung |  |  |  |  |  |  |  |  |
-| Bitte | beachten | Sie die | folgende | Verzeichnisstruktur | | des ZIP -Archives. |  | Beachten | Sie, dass | der Dateinamen |
-| des | Archivs mit | „ Test _112“ | beginnen | muss, | sonst schlägt | die | Validierung | fehl. |  |  |
-| Name |  |  |  |  |  | Typ |  |  |  |  |
-| Test_112 |  | _SystemID.zip |  |  |  |  | ZIP-komprimierter | | Ordner |  |
-|  |  |  | 391234511_20261015101010_1_ADKJ_100.zip.XKM | | |  | XKM-Datei |  |  |  |
-|  | Dokumentation | |  |  |  |  | Dateiordner |  |  |  |
-|  |  |  | 391234511_20261015101010_1_ADKJ_100.idx | | |  | IDX-Datei |  |  |  |
-|  |  |  | 391234511_20261015101010_1_ADKJ_100.idx.XKM | | |  | XKM-Datei |  |  |  |
-| Abbildung | 4: | Exemplarische | Verzeichnisstruktur | für | die | Testdatenvalidierung |  |  |  |  |
-| Seite | 22 von 27 / | KBV / Prüfpaket | eDMP- | Adipositas - | Kinder und | Jugendliche / Version: | 1.00 / | 31. März | 2026 |  |
+3
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML -Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.  Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV  findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet. Abbildung 3: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP -Archives. Beachten Sie, dass der Dateinamen des Archivs mit „ Test _112“ beginnen muss, sonst schlägt die Validierung fehl. ZIP-komprimierter Ordner Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 22 von 27  /  KBV  /  Prüfpaket eDMP- Adipositas - Kinder und Jugendliche  /  Version: 1.00  /  31. März 2026
+## TESTDATENVALIDIERUNG
+
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+
+Abbildung 3: Testdatenvalidierung
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „ Test _112“ beginnen muss, sonst schlägt die Validierung fehl.
+
+Name                  Typ  Test_112 _SystemID.zip             ZIP-komprimierter Ordner  391234511_20261015101010_1_ADKJ_100.zip.XKM    XKM-Datei  Dokumentation              Dateiordner    391234511_20261015101010_1_ADKJ_100.idx   IDX-Datei    391234511_20261015101010_1_ADKJ_100.idx.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 22 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 
 ---
 
@@ -851,12 +822,10 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Adipo
 
 ---
 
-| IT in | der | Arztpraxis |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Tel.: | 030 | 4005-2077, |  | pruefstelle@kbv.de |  |  |  |  |  |
-|  | Kassenärztliche |  | Bundesvereinigung | |  |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |  |  |
-| Seite | 27 von 27 | / KBV | / Prüfpaket | eDMP- | Adipositas - Kinder | und Jugendliche | / Version: | 1.00 / | 31. März 2026 |
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin Seite 27 von 27  /  KBV  /  Prüfpaket eDMP- Adipositas - Kinder und Jugendliche  /  Version: 1.00  /  31. März 2026
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 27 von 27 / KBV / Prüfpaket eDMP- Adipositas -
+
+Kinder und Jugendliche / Version: 1.00 / 31. März 2026

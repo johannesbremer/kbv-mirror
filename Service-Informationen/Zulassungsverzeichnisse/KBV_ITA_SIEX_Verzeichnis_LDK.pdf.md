@@ -1,13 +1,17 @@
-|  |  | VERZEICHNIS | ZERTIFIZIERTER |  | SOFTWARE | |  |  |
-|---|---|---|---|---|---|---|---|---|
-| FÜR | DIE |  |  | LABORDATENKOMMUNIKATION | | | |  |
-| IT IN | DER | ARZTPRAXIS |  |  |  |  |  |  |
-|  |  |  |  | DEZERNAT |  | DIGITALISIERUNG | | UND IT |
-|  |  |  |  |  |  | 04. | APRIL | 2026 |
-|  |  |  |  |  | KENNZEICHNUNG: | | ÖFFENTLICH | |
-|  |  |  |  |  |  | STATUS: | IN | KRAFT |
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
 
-VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE LABORDATENKOMMUNIKATION IT IN DER ARZTPRAXIS DEZERNAT DIGITALISIERUNG UND IT 04. APRIL 2026 KENNZEICHNUNG: ÖFFENTLICH STATUS: IN KRAFT
+# FÜR DIE LABORDATENKOMMUNIKATION
+
+## IT IN DER ARZTPRAXIS
+
+**DEZERNAT DIGITALISIERUNG UND IT**
+
+**11. APRIL 2026**
+
+**KENNZEICHNUNG: ÖFFENTLICH**
+
+**STATUS: IN KRAFT**
+
 
 ---
 
@@ -32,7 +36,7 @@ VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE LABORDATENKOMMUNIKATION IT IN DER A
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/395
 
@@ -88,7 +92,7 @@ Windows
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 X/43/2410/24/525
 
@@ -142,7 +146,7 @@ Linux Windows
 |  |  |  | LDT-Auftrag - Export |  |
 |  | Y/43/2410/24/729 | 30.09.2026 | LDT-Befund - Export |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2407/36/263
 
@@ -178,7 +182,7 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 |---|---|---|---|---|
 |  | Y/43/2501/24/023 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2601/24/629
 
@@ -212,7 +216,7 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|---|
 |  | Y/43/2501/24/060 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/252 31.12.2026
 
@@ -244,7 +248,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2410/24/374
 
@@ -300,7 +304,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Dr. Eissing und Partner GmbH** Prälat-van-Acken-Str. 14 50931 Köln Internet: www.dreipa.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2507/36/677
 
@@ -352,7 +356,7 @@ Windows
 |---|---|---|---|---|
 |  | Y/43/2401/36/034 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/086
 
@@ -388,7 +392,7 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 |---|---|---|---|---|
 |  | Y/43/2310/36/298 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2604/21/630
 
@@ -424,7 +428,7 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |---|---|---|---|---|
 |  | Z/43/2509/37/817 | 30.09.2028 | Digitales Muster 10 - Export |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2601/24/473
 
@@ -464,7 +468,7 @@ InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven I
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2504/24/320
 
@@ -518,7 +522,7 @@ Linux Mac OS Sonstige Windows
 |  | Y/43/2501/24/730 | 31.12.2026 | Digitales Muster 10 - Import |  |
 |  |  |  | LDT-Befund - Export |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2410/24/607
 
@@ -558,7 +562,7 @@ ELLA Labor Dr. Heidrich & Kollegen MVZ GmbH Klinikweg 23 22081 Hamburg Internet:
 
 **Medat Computersysteme GmbH** Albrechtstraße 14 80636 München Internet: www.medat.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2507/24/493
 
@@ -612,7 +616,7 @@ Softwarevariante(n): - x.vianova
 |---|---|---|---|---|
 |  | Y/43/2501/24/266 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/135
 
@@ -648,7 +652,7 @@ Softwarevariante(n): - psyx
 |  |  |  | Digitales Muster 39 - Export |  |
 |  | Y/43/2410/24/251 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/462 31.12.2026
 
@@ -676,7 +680,7 @@ medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 7613
 |---|---|---|---|---|
 |  | Y/43/2409/37/043 | 30.09.2027 | LDT-Befund - Import |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/015
 
@@ -712,7 +716,7 @@ Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Hug
 |---|---|---|---|---|
 |  | Y/43/2501/24/692 | 31.12.2026 | Digitales Muster 39 - Export |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/299
 
@@ -752,7 +756,7 @@ dc-pathos/dc-ross NEXUS / DIGITAL PATHOLOGY GmbH Irmastraße 1 78166 Donaueschin
 
 **QS QualitySoft GmbH** Tempowerkring 21a 21079 Hamburg Internet: www.qualitysoft.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2501/24/083
 
@@ -808,7 +812,7 @@ Windows
 
 **Sonic Healthcare Germany GmbH & Co. KG** Mecklenburgische Straße 28 14197 Berlin Internet: www.sonichealthcare.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2504/24/456
 
@@ -860,7 +864,7 @@ Linux Mac OS Windows
 |---|---|---|---|---|
 |  | Y/43/2410/24/313 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Z/43/2410/24/804
 
@@ -892,7 +896,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Med
 |---|---|---|---|---|
 |  | Y/43/2509/37/768 | 30.09.2028 | LDT-Befund - Import |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. April 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 X/43/2410/24/529 30.09.2026
 

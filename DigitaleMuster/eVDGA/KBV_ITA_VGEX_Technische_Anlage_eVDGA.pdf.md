@@ -942,21 +942,10 @@ SEITE 31 VON 53 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALE
 
 ---
 
-| 3. Die | Software muss | als | Schriftart | für den | Ausdruck | einheitlich | Courier | (ggf. |  | artverwandt, d.h. | nicht pro- |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| portional | und | mit Serifen) |  | verwenden. |  |  |  |  |  |  |  |
-| 4. Die | Software muss | als | Schriftschnitt | | für die | aufzudruckenden |  | Informationen | | standardmäßig | „normal“ |
-| vorsehen, | sofern | gemäß | den | Vorgaben | der | [Vorlage | Patientenausdruck] |  | oder in | dem Kapitel | 4.2 keine |
-| anderen | Vorgaben | definiert | sind. |  |  |  |  |  |  |  |  |
-| 5. Die | Software muss |  | sicherstellen, | dass | für die | in der | [Vorlage | Patientenausdruck] | | vorgegebenen | Texte |
-| eine | proportionale | Schriftart | ohne | Serifen | und | der | Schriftschnitt | fett | genutzt | werden. |  |
-| 6. Die | Software muss |  | sicherstellen, | dass | die | aufzudruckenden | Informationen | | innerhalb | des | Bereiches „für“, |
-| innerhalb | des | Bereiches | „ausgestellt | | von“ und | die | aufzudruckenden |  |  | Verordnungsinformationen | nach |
-| P62-09 | jeweils | dieselbe | Schriftgröße | | haben. |  |  |  |  |  |  |
-| SEITE 32 | VON 53 / | KBV / | TECHNISCHE | ANLAGE | ZUR | ELEKTRONISCHEN | VERORDNUNG | DIGITALER |  | GESUNDHEITSANWENDUNGEN | (E16D) |
-| 18. DEZEMBER | 2025 / | VERSION: 1.08 |  |  |  |  |  |  |  |  |  |
+3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden.  4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine  anderen Vorgaben definiert sind.  5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.  6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben.
 
-3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden. 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“ vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine anderen Vorgaben definiert sind. 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden. 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“, innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach P62-09 jeweils dieselbe Schriftgröße haben. SEITE 32 VON 53  /  KBV  /  TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D) 18. DEZEMBER 2025  /  VERSION: 1.08
+SEITE 32 VON 53 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)  18. DEZEMBER 2025 / VERSION: 1.08
+
 
 ---
 

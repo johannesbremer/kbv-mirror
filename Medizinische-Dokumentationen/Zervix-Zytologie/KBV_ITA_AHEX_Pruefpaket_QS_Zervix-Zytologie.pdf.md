@@ -49,16 +49,12 @@ Praxisdaten/ Arztstempel Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | für | die | Zertifizierung |
-| Abbildung | 2: |  | Testdatenvalidierung |  |  |  |  |
-| Abbildung | 3: | Exemplarische |  | Verzeichnisstruktur | für | die | Testdatenvalidierung |
-| Seite 3 | von 15 / KBV | / Pruefpaket | QS-Zervix-Zytologie | / | Version: 2.10 | / 12. | August 2021 |
+## ABBILDUNGSVERZEICHNIS
 
-7  14  14
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7  Abbildung 2: Testdatenvalidierung 14  Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 14
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Testdatenvalidierung Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 15  /  KBV  /  Pruefpaket QS-Zervix-Zytologie  /  Version: 2.10  /  12. August 2021
+Seite 3 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
+
 
 ---
 
@@ -359,21 +355,22 @@ ng von Teilen des Anforderungskataloges QS Zervix-Zytologie. die das geforderte 
 
 ---
 
-| 3 |  |  | TESTDATENVALIDIERUNG | | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Alle | in | Kapitel | 2 beschriebenen | | Prüffälle, bei | welchen | eine |  | XML-Dokumentation | das | Ergebnis | ist, können |
-| auch | in der |  | Testdatenvalidierung | des |  | Zertifizierungsportals | | genutzt | werden. |  |  |  |
-| Die |  | übermittelten | Testdaten | werden | auf | Vollständigkeit | und | Korrektheit | | automatisiert | | geprüft. Eine |
-|  | manuelle | Prüfung | der | eingereichten | Unterlagen | durch das | Referat | | Zertifizierung | findet | nicht | statt, |
-|  | demzufolge | ist | der Ordner | „Dokumentation | “ im | Gegensatz | | zur | Zertifizierung | nicht | Gegenstand | der |
-|  |  | Testdatenvalidierung. | Nach | dem das | Thema | ausgewählt | wurde, | kann | das | ZIP-Archiv | mit den | Prüfunterlagen |
-|  | hochgeladen |  | werden. An | die angegebene | E | -Mail-Adresse | | werden | die | Testergebnisse |  | gesendet. |
-|  | Abbildung 2: |  | Testdatenvalidierung |  |  |  |  |  |  |  |  |  |
-| Bitte |  | beachten | Sie die | folgende | Verzeichnisstruktur | | des | ZIP-Archives. |  |  |  |  |
-|  | Abbildung 3: |  | Exemplarische | Verzeichnisstruktur | für die |  | Testdatenvalidierung | |  |  |  |  |
-| Seite | 14 von | 15 / KBV | / Pruefpaket | QS-Zervix-Zytologie | / Version: | 2.10 | / 12. | August 2021 |  |  |  |  |
+3
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation “ im Gegensatz zur Zertifizierung nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen hochgeladen werden. An die angegebene E -Mail-Adresse werden die Testergebnisse gesendet. Abbildung 2: Testdatenvalidierung Bitte beachten Sie die folgende Verzeichnisstruktur des Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 14 von 15  /  KBV  /  Pruefpaket QS-Zervix-Zytologie  /  Version: 2.10  /  12. August 2021
+## TESTDATENVALIDIERUNG
+
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+
+Abbildung 2: Testdatenvalidierung
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
+
+Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 14 von 15 / KBV / Pruefpaket QS-Zervix-Zytologie / Version: 2.10 / 12. August 2021
+
 
 ---
 

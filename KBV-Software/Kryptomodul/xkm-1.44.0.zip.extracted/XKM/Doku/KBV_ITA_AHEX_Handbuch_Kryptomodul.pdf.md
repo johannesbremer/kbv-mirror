@@ -1,18 +1,21 @@
-| IT in | der | Arztpraxis | |  |  |
-|---|---|---|---|---|---|
-| Handbuch | |  | KBV-Kryptomodul | | |
-| XKM |  |  |  |  |  |
-|  |  | [KBV_ITA_AHEX_Handbuch_Kryptomodul | | | ] |
-| Dezernat | Digitalisierung | und | IT |  |  |
-| 10623 | Berlin, | Herbert-Lewin-Platz | | 2 |  |
-|  | Kassenärztliche | Bundesvereinigung | | |  |
-| Version | 1.42 |  |  |  |  |
-| Datum: | 1.02.2026 |  |  |  |  |
-| Kennzeichnung: | Öffentlich |  |  |  |  |
-| Status: | In Kraft |  |  |  |  |
-| © KBV | Kassenärztliche | Bundesvereinigung, | | Berlin 202 | 6 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Handbuch KBV-Kryptomodul Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Kennzeichnung: Öffentlich © KBV Kassenärztliche Bundesvereinigung, Berlin 202 6
+## Handbuch KBV-Kryptomodul
+
+## XKM
+
+[KBV_ITA_AHEX_Handbuch_Kryptomodul]
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung
+
+Version 1.42  Datum: 1.02.2026  Kennzeichnung: Öffentlich  Status: In Kraft
+
+© KBV Kassenärztliche Bundesvereinigung, Berlin 202 6
+
 
 ---
 

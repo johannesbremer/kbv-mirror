@@ -141,15 +141,18 @@ Abschn itt „Relevante Ereignisse“  Ungeplante ambulante oder stationäre kre
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  | .................................................................................................................. | | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  | ..................................................................................................................... | | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | 16 |
-| Seite | 4 von 35 / KBV | / | Schnittstellenbeschreibung | Chronischer | Rückenschmerz | / Version: | 1.01 / 12. | August 2022 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 35  /  KBV  /  Schnittstellenbeschreibung Chronischer Rückenschmerz  /  Version: 1.01  /  12. August 2022
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................**  **ABBILDUNG 2: GRUNDSTRUKTUR BODY**  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION**  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION**
+
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.01 / 12. August 2022
+
+..........................................................................................................................  .....................................................................................................................
+
+.....................................................................................................
+
+12  13  14  16
+
 
 ---
 

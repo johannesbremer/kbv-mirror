@@ -105,15 +105,18 @@ BODY DER VERLAUFSDOKUMENTATION Sektion (section) Abschnitt „Relevante Ereignis
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | 13 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  |  | .......................................................................................................................... | 14 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR | SECTION |  |  |  |  | ..................................................................................................................... | 15 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | 17 |
-| Seite | 4 von 38 / KBV | / | Schnittstellenbeschreibung | Asthma | bronchiale | / Version: | 4.46 / 12. | August 2022 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION Seite 4 von 38  /  KBV  /  Schnittstellenbeschreibung Asthma bronchiale  /  Version: 4.46  /  12. August 2022
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................**  **ABBILDUNG 2: GRUNDSTRUKTUR BODY**  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION**  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION**
+
+Seite 4 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.46 / 12. August 2022
+
+..........................................................................................................................  .....................................................................................................................
+
+.....................................................................................................
+
+13  14  15  17
+
 
 ---
 
@@ -458,18 +461,16 @@ Seite 14 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 
 
 ---
 
-| 6.1 |  | SEKTION | (SECTION) |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Das |  | <section>-Element | | setzt | sich | aus fünf | oder | sechs |  | <paragraph>-Elementen | zusammen. | Ein <paragraph>- |
-|  | Element | beinhaltet | die |  | Kindelemente |  | <caption> und | <content>. | Die |  | Grundstruktur des | <section>-Elements |
-| ist | in | Abbildung 3 |  | dargestellt. |  |  |  |  |  |  |  |  |
-|  | Abbildung | 3: | Grundstruktur | | section |  |  |  |  |  |  |  |
-| Eine | Sektion |  | enthält | die | Abschnitte |  | „Administrative | Daten“, |  | „Anamnese - | und Befunddaten“, | |
-|  | „Medikamente“, | | „Schulung“ | | und |  | „Behandlungsplanung“ | und | kann | den Abschnitt | „Relevante | Ereignisse“ |
-|  | enthalten, | die | jeweils | in | einem |  | <paragraph>-Element |  | untergebracht | sind. |  |  |
-| Seite | 15 von | 38 / KBV | / |  | Schnittstellenbeschreibung | Asthma | bronchiale | / | Version: 4.46 | / 12. August | 2022 |  |
+**6.1 SEKTION (SECTION)**
 
-SEKTION (SECTION) Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 dargestellt. Abbildung 3: Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“, „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“ enthalten, die jeweils in einem <paragraph>-Element untergebracht sind. Seite 15 von 38  /  KBV  /  Schnittstellenbeschreibung Asthma bronchiale  /  Version: 4.46  /  12. August 2022
+Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+
+**Abbildung 3: Grundstruktur section**
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“,  „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind.
+
+Seite 15 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.46 / 12. August 2022
+
 
 ---
 

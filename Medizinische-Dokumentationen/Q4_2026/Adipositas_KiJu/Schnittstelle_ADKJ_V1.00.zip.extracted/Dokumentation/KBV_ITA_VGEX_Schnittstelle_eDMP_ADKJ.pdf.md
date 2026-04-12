@@ -66,16 +66,12 @@ Seite 3 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugend
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| ABBILDUNG | 1: GRUNDSTRUKTUR | LEVELONE |  |  |  |  | .................................................................................................................. | | | | 12 |
-| ABBILDUNG | 2: | GRUNDSTRUKTUR | BODY |  |  |  | .......................................................................................................................... | | | | 13 |
-| ABBILDUNG | 3: | GRUNDSTRUKTUR |  | SECTION |  |  |  | ..................................................................................................................... | | | 14 |
-| ABBILDUNG | 4: | AUFBAU | SCIPHOX-SSU | OBSERVATION |  |  |  | ..................................................................................................... | | | 16 |
-| ABBILDUNG | 5: | GRUNDSTRUKTUR SECTION |  | (VERLAUFSDOKUMENTATION) | |  |  | ................................................................... | | | 29 |
-| Seite | 4 von 38 / KBV | / | Schnittstellenbeschreibung | Adipositas | - Kinder | und Jugendliche | / Version: | 1.00 / | 13. Februar | 2026 |  |
+## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE .................................................................................................................. ABBILDUNG 2: GRUNDSTRUKTUR BODY ABBILDUNG 3: GRUNDSTRUKTUR SECTION ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION ABBILDUNG 5: GRUNDSTRUKTUR SECTION (VERLAUFSDOKUMENTATION) ................................................................... Seite 4 von 38  /  KBV  /  Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche  /  Version: 1.00  /  13. Februar 2026
+**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 12  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 13  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 14  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 16  **ABBILDUNG 5: GRUNDSTRUKTUR SECTION (VERLAUFSDOKUMENTATION) ...................................................................** 29
+
+Seite 4 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 
 ---
 

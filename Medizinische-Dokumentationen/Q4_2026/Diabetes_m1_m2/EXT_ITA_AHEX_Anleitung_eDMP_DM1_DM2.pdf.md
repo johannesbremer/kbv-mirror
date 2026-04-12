@@ -435,9 +435,6 @@ Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom 10
 
 ---
 
-| Sollte | keine | Behandlung | in | einer für | das Diabetische | Fußsyndrom | qualifizierte | Einrichtung |  | erfolgen, |
-|---|---|---|---|---|---|---|---|---|---|---|
-| geben | Sie | dies bitte | mit „Nein“ | an. |  |  |  |  |  |  |
-|  | Ausfüllanleitung | Diabetes | mellitus | Typ 1 | und 2, Version | 8.0; | Stand 22.01.2026 |  |  | 11 |
+Sollte keine Behandlung in einer für das Diabetische Fußsyndrom qualifizierte Einrichtung erfolgen,  geben Sie dies bitte mit „Nein“ an.
 
-Sollte keine Behandlung in einer für das Diabetische Fußsyndrom qualifizierte Einrichtung erfolgen, geben Sie dies bitte mit „Nein“ an. Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 11

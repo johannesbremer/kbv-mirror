@@ -183,33 +183,27 @@ Seite 6 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 20
 
 ---
 
-| verschlüsseln. | | Die | Verschlüsselung | wird im | Arbeitsmodus | TEST_Verschluesselung | vorgenommen. | Hierfür | ist |
-|---|---|---|---|---|---|---|---|---|---|
-| der dazu | bestimmte |  | Testschlüssel | zu verwenden. |  |  |  |  |  |
-| Seite 7 von | 10 / KBV | / Prüfpaket | KVDT | Hybrid-DRG / Version: | 1.5 / 13. | Januar 2025 |  |  |  |
+verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus *TEST_Verschluesselung* vorgenommen. Hierfür ist  der dazu bestimmte Testschlüssel zu verwenden.
 
-verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus vorgenommen. Hierfür ist der dazu bestimmte Testschlüssel zu verwenden.  Seite 7 von 10  /  KBV /  Prüfpaket KVDT Hybrid-DRG  /  Version: 1.5  /  13. Januar 2025
+Seite 7 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
+
 
 ---
 
-| 4 | PRÜFFÄLLE | |  |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Durch | das Feld |  | „Versichertendaten“ | jedes | Prüffalls | wird | auf die | zu | verwendende | | XML-Datei | verwiesen. | Die |
-|  | Versichertendaten | sind | in der | XML-Datei | bzw. in | den | Tabellen | unter | Kapitel | 3.2 | vorgegeben. | Die |  |
-| Feldkennungen | | unter „ | Vorgaben “ | sind zu | erfassen. | Die | Feldinhalt | sind | in Spalte | drei | angegeben. | | Einige |
-| Felder | sind dabei | frei | wählbar, | diese sind |  | entsprechend |  | gekennzeichnet. | In | den | Prüffällen | nicht | genannte |
-| bzw. | nicht für | den Prüffall |  | notwendige | optionale |  | Feldkennungen | sind | nicht zu |  | übertragen. |  |  |
-| Bei | Verwenden | eines | Groupers wird | – | abweichend | von | Regelungen | für | Kranken | häuser | – die |  |  |
-|  | Grouperversion | für den | vertragsärztlichen | | Bereich | mit | der | Jahreszahl | des Tags | der | Durchführung | der |  |
-| Leistung | gemäß | Anlage 1 | zur Hybrid |  | -DRG-Vereinbarung | | bestimmt. | Wenn |  | beispielsweise | die | Operation | am |
-| 09.01.2025 |  | erfolgt, wäre | die | Grouperversion | 2025 | zu | verwenden. |  |  |  |  |  |  |
-| Falls | die | verwendete | Groupersoftware |  | alternativ | zu den |  | Datumsangaben | für | Beginn | und | Ende der | Leistung |
-| die | Verweildauer | (in | ganzzahligen | Tagen) | verarbeitet, | | sollte diese | auf 1 | gesetzt |  | werden. |  |  |
-| Die | Prüffälle | wurden | mit dem | Webgrouper | der | DRG | -Research-Group |  | getestet |  |  | (https://www.drg-research- | |
-|  |  |  |  | group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112 | | | | | | ). |  |  |  |
-| Seite 8 | von 10 / | KBV / Prüfpaket | KVDT | Hybrid-DRG / | Version: 1.5 | / 13. | Januar 2025 |  |  |  |  |  |  |
+4
 
-Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die Feldkennungen unter „ Vorgaben “ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet.  In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen. Bei Verwenden eines Groupers wird – abweichend von Regelungen für Kranken häuser – die Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der Leistung gemäß Anlage 1 zur Hybrid -DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am 09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden. Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden. Die Prüffälle wurden mit dem Webgrouper der DRG -Research-Group getestet (https://www.drg-research- Seite 8 von 10  /  KBV /  Prüfpaket KVDT Hybrid-DRG  /  Version: 1.5  /  13. Januar 2025
+## PRÜFFÄLLE
+
+Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die  Feldkennungen unter „ Vorgaben “ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige  Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. In den Prüffällen nicht genannte  bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
+
+Bei Verwenden eines Groupers wird – abweichend von Regelungen für Krankenhäuser – die  Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der  Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am  09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
+
+Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung  die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
+
+Die Prüffälle wurden mit dem Webgrouper der DRG-Research-Group getestet ([https://www.drg-research-](https://www.drg-research-) group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112).
+
+Seite 8 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
+
 
 ---
 

@@ -7,38 +7,68 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 ---
 
-|  | Inhaltsverzeichnis |  |  |  |  |
-|---|---|---|---|---|---|
-| 1 |  |  |  |  | Einführung................................................................................................................................4 |
-| 1.1 |  |  |  |  | Geltungsbereich..............................................................................................................................................4 |
-| 1.2 Abgrenzung |  |  |  |  | .......................................................................................................................................................4 |
-| 2 Arten | der übermittelten | Nachrichten | |  | ..........................................................................5 |
-| 3 | Anforderungen an | die |  |  | Software-Systeme...................................................................6 |
-| 3.1 | Übergreifende | Anforderungen an |  |  | eDokumentation........................................................................6 |
-| 3.2 | Anforderungen an | eDokumention |  |  | "Lieferung"...................................................................................7 |
-| 3.2.1 Anforderungen | an den |  |  |  | Nachrichten-Header...........................................................................................................................7 |
-| 3.2.2 Anforderungen | an den |  |  |  | Nachrichten-Body...............................................................................................................................7 |
-| 3.2.3 Anforderungen | an die |  |  |  | Anhänge....................................................................................................................................................7 |
-| 3.2.4 Beispiel | einer |  |  |  | eDokumentation-Lieferung...............................................................................................................................9 |
-| 3.3 | Anforderungen an | die |  |  | eDokumentation-Eingangsbestätigung................................................10 |
-| 3.3.1 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................10 |
-| 3.3.2 Anforderungen | an den |  |  |  | Nachrichten-Body............................................................................................................................10 |
-| 3.3.3 Beispiel | für |  |  |  | eDokumentation-Eingangsbestätigung..........................................................................................................11 |
-| 3.4 | Anforderungen an den |  |  |  | eDokumentation-Importstatus...............................................................12 |
-| 3.4.1 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................12 |
-| 3.4.2 Anforderungen | an den |  |  |  | Nachrichten-Body............................................................................................................................12 |
-| 3.4.3 Beispiel | für |  |  |  | eDokumentation-Importstatus..........................................................................................................................13 |
-| 3.5 | Anforderungen | zum Versand | und | Empfang | von eDokumentation-Nachrichten..............15 |
-| 3.5.1 Anforderungen | an das | Software-System der | Leistungserbringer |  | ...............................................................................15 |
-|  | Anforderungen an den | Versand von |  |  | eDokumentation-Lieferungen..........................................................................15 |
-|  | Anforderungen an den | Empfang von |  |  | eDokumentation-Eingangsbestätigungen..................................................16 |
-|  | Anforderungen an den | Empfang von |  |  | eDokumentation-Importstatus.......................................................................16 |
-| 3.5.2 | Anforderungen an das | Software-System | der |  | Datenannahmestelle............................................................................18 |
-|  | Anforderungen an den | Empfang von |  |  | eDokumentation-Lieferung..............................................................................18 |
-|  | Anforderungen an den | Versand von |  |  | eDokumentation-Importstatus........................................................................19 |
-| 4 |  |  |  |  | Referenzen............................................................................................................................20 |
+### Inhaltsverzeichnis 1 1.1
 
-3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................7 3.2.2 Anforderungen an den Nachrichten-Body...............................................................................................................................7 3.2.3 Anforderungen an die Anhänge....................................................................................................................................................7 3.2.4 Beispiel einer eDokumentation-Lieferung...............................................................................................................................9 3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................10 3.3.2 Anforderungen an den Nachrichten-Body............................................................................................................................10 3.3.3 Beispiel für eDokumentation-Eingangsbestätigung..........................................................................................................11 3.4.1 Anforderungen an den Nachrichten-Header........................................................................................................................12 3.4.2 Anforderungen an den Nachrichten-Body............................................................................................................................12 3.4.3 Beispiel für eDokumentation-Importstatus..........................................................................................................................13 3.5.1 Anforderungen an das Software-System der Leistungserbringer ...............................................................................15 3.5.2 Anforderungen an das Software-System der Datenannahmestelle............................................................................18 Abgrenzung .......................................................................................................................................................4 Arten der übermittelten Nachrichten ..........................................................................5 Anforderungen an die Software-Systeme...................................................................6 Übergreifende Anforderungen an eDokumentation........................................................................6 Anforderungen an eDokumention "Lieferung"...................................................................................7 Anforderungen an die eDokumentation-Eingangsbestätigung................................................10 Anforderungen an den eDokumentation-Importstatus...............................................................12 Anforderungen zum Versand und Empfang von eDokumentation-Nachrichten..............15 Anforderungen an den Versand von eDokumentation-Lieferungen..........................................................................15 Anforderungen an den Empfang von eDokumentation-Eingangsbestätigungen..................................................16 Anforderungen an den Empfang von eDokumentation-Importstatus.......................................................................16 Anforderungen an den Empfang von eDokumentation-Lieferung..............................................................................18 Anforderungen an den Versand von eDokumentation-Importstatus........................................................................19
+1.2
+
+2
+
+3 3.1
+
+3.2
+
+3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................7
+
+3.2.2 Anforderungen an den Nachrichten-Body...............................................................................................................................7
+
+3.2.3 Anforderungen an die Anhänge....................................................................................................................................................7
+
+3.2.4 Beispiel einer eDokumentation-Lieferung...............................................................................................................................9 3.3
+
+3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................10
+
+3.3.2 Anforderungen an den Nachrichten-Body............................................................................................................................10
+
+3.3.3 Beispiel für eDokumentation-Eingangsbestätigung..........................................................................................................11 3.4
+
+3.4.1 Anforderungen an den Nachrichten-Header........................................................................................................................12
+
+3.4.2 Anforderungen an den Nachrichten-Body............................................................................................................................12
+
+3.4.3 Beispiel für eDokumentation-Importstatus..........................................................................................................................13 3.5
+
+3.5.1 Anforderungen an das Software-System der Leistungserbringer ...............................................................................15
+
+3.5.2 Anforderungen an das Software-System der Datenannahmestelle............................................................................18 4
+
+Einführung................................................................................................................................4 Geltungsbereich..............................................................................................................................................4
+
+Abgrenzung .......................................................................................................................................................4
+
+Arten der übermittelten Nachrichten ..........................................................................5
+
+Anforderungen an die Software-Systeme...................................................................6 Übergreifende Anforderungen an eDokumentation........................................................................6
+
+Anforderungen an eDokumention "Lieferung"...................................................................................7
+
+Anforderungen an die eDokumentation-Eingangsbestätigung................................................10
+
+Anforderungen an den eDokumentation-Importstatus...............................................................12
+
+Anforderungen zum Versand und Empfang von eDokumentation-Nachrichten..............15
+
+Anforderungen an den Versand von eDokumentation-Lieferungen..........................................................................15
+
+Anforderungen an den Empfang von eDokumentation-Eingangsbestätigungen..................................................16
+
+Anforderungen an den Empfang von eDokumentation-Importstatus.......................................................................16
+
+Anforderungen an den Empfang von eDokumentation-Lieferung..............................................................................18
+
+Anforderungen an den Versand von eDokumentation-Importstatus........................................................................19
+
+Referenzen............................................................................................................................20
+
 
 ---
 
@@ -213,39 +243,66 @@ eDokumentation V2.0
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  | eDokumentation | V2.0 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 3.2 | Anforderungen | an |  | eDokumention |  | "Lieferung" |  |  |  |  |  |
-| 3.2.1 | Anforderungen | an | den | Nachrichten-Header | |  |  |  |  |  |  |
-|  | [eDoku0110] |  |  |  |  |  |  |  |  |  |  |
-| Das | Header-Element |  | X-KIM-Dienstkennung | |  | MUSS genau | den Inhalt |  | "eDokumentation- |  |  |
-|  | <Typ>;Lieferung;V2.0" | | aufweisen. |  |  |  |  |  |  |  |  |
-|  | [eDoku0111] |  |  |  |  |  |  |  |  |  |  |
-| Der | Inhalt des | Header-Elements | | Subject | MUSS | genau dem | Inhalt | der | X-KIM-Dienstkennung | |  |
-| entsprechen. | |  |  |  |  |  |  |  |  |  |  |
-|  | [eDoku0112] |  |  |  |  |  |  |  |  |  |  |
-| Sofern | für die | zu versendende | | eDokumentation |  | "Lieferung" | eine MDN | angefordert | werden soll, | MÜSSEN |  |
-| MUSS in | der zu | versendenden |  | eDokumentation | "Lieferung" | d as | ie | Header-Felder | Disposition- |  |  |
-|  | Notification-To | und | Return-Path | | gesetzt | werden | [MDN]. |  |  |  |  |
-| Anmerkung: |  |  |  |  |  |  |  |  |  |  |  |
-| • Das | Header-Feld |  | Return-Path | wird vom | letzten | System | auf der | Übertragungsstrecke | der | KIM-Nachricht | |
-|  | gesetzt und | sollte daher | nicht vom | versendenden | | System gesetzt | werden. |  |  |  |  |
-| 3.2.2 | Anforderungen | an | den | Nachrichten-Body | |  |  |  |  |  |  |
-| Die | Anforderungen | an den | Nachrichten-Body | | sind in der | Spezifikation | | [SPKA] beschrieben. |  |  |  |
-| 3.2.3 | Anforderungen | an | die Anhänge |  |  |  |  |  |  |  |  |
-|  | [eDoku0130] |  |  |  |  |  |  |  |  |  |  |
-| Jede | eDokumentation |  | "Lieferung" | MUSS genau | ein | MIME-Segment | mit der | Begleitdatei | enthalten. |  |  |
-|  | [eDoku0131] |  |  |  |  |  |  |  |  |  |  |
-| Die | Begleitdatei | MUSS den | geltenden | Vorgaben | gemäß | [BGD] | entsprechen. |  |  |  |  |
-|  | [eDoku0132] |  |  |  |  |  |  |  |  |  |  |
-| Jede | eDokumentation | | "Lieferung" | MUSS genau | ein | MIME-Segment | mit | dem | Dokumentationsarchiv |  |  |
-| enthalten. |  |  |  |  |  |  |  |  |  |  |  |
-|  | [eDoku0133] |  |  |  |  |  |  |  |  |  |  |
-| Die |  | Dokumentationsarchiv-Datei | | und der | dazugehörige | | Dateiname | MUSS den | geltenden Vorgaben |  | gemäß |
-| [Med_Dok] | sowie |  | [eDokumentation-KBV-XML] | |  | entsprechen. |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  | Seite 7 von | 20 |  |
+### 3.2 Anforderungen an eDokumention "Lieferung"
 
-3.2 Anforderungen an eDokumention "Lieferung" 3.2.1 Anforderungen an den Nachrichten-Header Das Header-Element  <Typ>;Lieferung;V2.0" aufweisen. Der Inhalt des Header-Elements Sofern für die zu versendende eDokumentation "Lieferung" eine MDN angefordert werden soll, MÜSSEN MUSS in der zu versendenden eDokumentation "Lieferung" d as ie Header-Felder Das Header-Feld gesetzt und sollte daher nicht vom versendenden System gesetzt werden.  3.2.2 Anforderungen an den Nachrichten-Body Die Anforderungen an den Nachrichten-Body sind in der Spezifikation [SPKA] beschrieben. 3.2.3 Anforderungen an die Anhänge Jede eDokumentation "Lieferung" MUSS genau ein MIME-Segment mit der Begleitdatei enthalten.  Die Begleitdatei MUSS den geltenden Vorgaben gemäß [BGD] entsprechen. Jede eDokumentation "Lieferung" MUSS genau ein MIME-Segment mit dem Dokumentationsarchiv Die Dokumentationsarchiv-Datei und der dazugehörige Dateiname MUSS den geltenden Vorgaben gemäß [Med_Dok] sowie [eDokumentation-KBV-XML] entsprechen.                                                                                                                                                                                                                Seite  7  von  20   MUSS genau den Inhalt "eDokumentation-  MUSS genau dem Inhalt der  gesetzt werden [MDN].  wird vom letzten System auf der Übertragungsstrecke der KIM-Nachricht eDokumentation V2.0
+3.2.1 Anforderungen an den Nachrichten-Header
+
+**[eDoku0110]**
+
+Das Header-Element  <Typ>;Lieferung;V2.0" aufweisen.
+
+**[eDoku0111]**
+
+Der Inhalt des Header-Elements  entsprechen.
+
+**[eDoku0112]**
+
+Sofern für die zu versendende eDokumentation "Lieferung" eine MDN angefordert werden soll, MÜSSEN  ***MUSS in der zu versendenden eDokumentation "Lieferung" d as ie Header-Felder***
+
+Notification-To
+
+*Anmerkung:*
+
+- *Das Header-Feld*  *gesetzt und sollte daher nicht vom versendenden System gesetzt werden.*
+
+3.2.2 Anforderungen an den Nachrichten-Body
+
+Die Anforderungen an den Nachrichten-Body sind in der Spezifikation [SPKA] beschrieben.
+
+3.2.3 Anforderungen an die Anhänge
+
+**[eDoku0130]**
+
+Jede eDokumentation "Lieferung" MUSS genau ein MIME-Segment mit der Begleitdatei enthalten.
+
+**[eDoku0131]**
+
+Die Begleitdatei MUSS den geltenden Vorgaben gemäß [BGD] entsprechen.
+
+**[eDoku0132]**
+
+Jede eDokumentation "Lieferung" MUSS genau ein MIME-Segment mit dem Dokumentationsarchiv  enthalten.
+
+**[eDoku0133]**
+
+Die Dokumentationsarchiv-Datei und der dazugehörige Dateiname MUSS den geltenden Vorgaben gemäß  [Med_Dok] sowie [eDokumentation-KBV-XML] entsprechen.
+
+Seite 7 von 20
+
+X-KIM-Dienstkennung MUSS genau den Inhalt "eDokumentation-
+
+Subject  MUSS genau dem Inhalt der
+
+und Return-Path gesetzt werden [MDN].
+
+Return-Path* wird vom letzten System auf der Übertragungsstrecke der KIM-Nachricht*
+
+X-KIM-Dienstkennung
+
+Disposition-
+
+eDokumentation V2.0
+
 
 ---
 
@@ -698,34 +755,20 @@ eDokumentation V2.0
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  | eDokumentation | V2.0 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4 | Referenzen |  |  |  |  |  |  |  |  |  |  |
-| • | [SPKA]: Spezifikation |  | übergreifende | | Anforderungen |  |  | https://partnerportal.kv-telematik.de/x/C888B | | |  |
-|  |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen | | | |  |  |  |  |
-| • [BGD]: | Spezifikation |  | Begleitdatei |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/KIM- | | |  |  |
-|  | Anwendungen |  |  |  |  |  |  |  |  |  |  |
-| • [MDN]: | Spezifikation | MDN |  | (anwendungsübergreifend) | | MDN V1.0 | - | anwendungsübergreifend | |  | https:// |
-|  |  |  |  | partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen | | |  |  |  |  |  |
-| • | [Med_Dok]: | Anforderungskataloge, | |  | Schnittstellenbeschreibung, | | Plausibilitäten, | | Ausfüllhinweise | | für die |
-|  | jeweiligen |  | Qualitätssicherungsvereinbarungen, | |  |  |  | https://update.kbv.de/ita-update/Medizinische- | | |  |
-|  | Dokumentationen/ |  |  |  |  |  |  |  |  |  |  |
-| • | [SDKVCA]: |  |  | https://update.kbv.de/ita-update/Stammdateien/SDKVCA/ | | | |  |  |  |  |
-| • | [eDokumentation-KBV-XML] | |  |  |  | https://update.kbv.de/ita-update/Medizinische-Dokumentationen/ | | | | |  |
-|  | Leitfaeden/ |  |  |  |  |  |  |  |  |  |  |
-| • QSHLT |  | (Qualitätssicherung | in | der | Holmium-Laser-Therapie) |  |  | https://update.kbv.de/ita-update/ | | |  |
-|  |  |  | Medizinische-Dokumentationen/Holmium-Laser-Therapie/ | | |  |  |  |  |  |  |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSHLT.pdf | | |  |  |  |  |  |  |  |
-| • QSKE | (Qualitätssicherung | | in der | Kapselendoskopie) |  |  |  | https://update.kbv.de/ita-update/Medizinische- | | | |
-|  |  |  |  |  | Dokumentationen/Kapselendoskopie/KBV_ITA_VGEX_Anforderungskatalog_QSKE.pdf | | | | |  |  |
-| • QSMG | (Qualitätssicherung | | in der | Molekulargenetik) |  |  |  | https://update.kbv.de/ita-update/Medizinische- | | | |
-|  |  |  |  |  | Dokumentationen/Molekulargenetik/KBV_ITA_VGEX_Anforderungskatalog_QSMG.pdf | | | | |  |  |
-| • QSHGV |  | (Qualitätssicherung | in | der | Hörgeräteversorgung | von | Jugendlichen | und | Erwachsenen) |  | https:// |
-|  |  |  |  | update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung/ | | | | |  |  |  |
-|  |  |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGV.pdf | |  |  |  |  |  |  |  |
-| • QSHGVK |  | (Qualitätssicherung | in | der | Hörgeräteversorgung | von | Säuglingen, | Kleinkindern | und |  | Kindern) |
-|  |  |  |  |  | https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung-Kinder/ | | | | | | |
-|  |  |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK.pdf | | |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  | Seite 20 von | 20 |  |
+## 4 Referenzen
 
-4 Referenzen [SPKA]: Spezifikation übergreifende Anforderungen https://partnerportal.kv-telematik.de/x/C888B [BGD]: Spezifikation Begleitdatei  https://partnerportal.kv-telematik.de/display/KDK/KIM- [MDN]: Spezifikation MDN (anwendungsübergreifend) MDN V1.0 - anwendungsübergreifend https:// [Med_Dok]: Anforderungskataloge, Schnittstellenbeschreibung, Plausibilitäten, Ausfüllhinweise für die jeweiligen Qualitätssicherungsvereinbarungen, https://update.kbv.de/ita-update/Medizinische- [SDKVCA]: https://update.kbv.de/ita-update/Stammdateien/SDKVCA/  [eDokumentation-KBV-XML] https://update.kbv.de/ita-update/Medizinische-Dokumentationen/ QSHLT (Qualitätssicherung in der Holmium-Laser-Therapie) https://update.kbv.de/ita-update/ QSKE (Qualitätssicherung in der Kapselendoskopie) https://update.kbv.de/ita-update/Medizinische- QSMG (Qualitätssicherung in der Molekulargenetik) https://update.kbv.de/ita-update/Medizinische- QSHGV (Qualitätssicherung in der Hörgeräteversorgung von Jugendlichen und Erwachsenen) https:// QSHGVK (Qualitätssicherung in der Hörgeräteversorgung von Säuglingen, Kleinkindern und Kindern)                                                                                                                                                                                                                Seite  20  von  20 eDokumentation V2.0
+- [SPKA]: Spezifikation übergreifende Anforderungen [https://partnerportal.kv-telematik.de/x/C888B](https://partnerportal.kv-telematik.de/x/C888B)  [https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen](https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen)
+- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-) Anwendungen
+- [MDN]: Spezifikation MDN (anwendungsübergreifend) MDN V1.0 - anwendungsübergreifend https:// partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen
+- [Med_Dok]: Anforderungskataloge, Schnittstellenbeschreibung, Plausibilitäten, Ausfüllhinweise für die  jeweiligen Qualitätssicherungsvereinbarungen, [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/
+- [SDKVCA]: [https://update.kbv.de/ita-update/Stammdateien/SDKVCA/](https://update.kbv.de/ita-update/Stammdateien/SDKVCA/)
+- [eDokumentation-KBV-XML] [https://update.kbv.de/ita-update/Medizinische-Dokumentationen/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/) Leitfaeden/
+- QSHLT (Qualitätssicherung in der Holmium-Laser-Therapie) [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) Medizinische-Dokumentationen/Holmium-Laser-Therapie/ KBV_ITA_VGEX_Anforderungskatalog_QSHLT.pdf
+- QSKE (Qualitätssicherung in der Kapselendoskopie) [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/Kapselendoskopie/KBV_ITA_VGEX_Anforderungskatalog_QSKE.pdf
+- QSMG (Qualitätssicherung in der Molekulargenetik) [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/Molekulargenetik/KBV_ITA_VGEX_Anforderungskatalog_QSMG.pdf
+- QSHGV (Qualitätssicherung in der Hörgeräteversorgung von Jugendlichen und Erwachsenen) https:// update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung/ KBV_ITA_VGEX_Anforderungskatalog_QSHGV.pdf
+- QSHGVK (Qualitätssicherung in der Hörgeräteversorgung von Säuglingen, Kleinkindern und Kindern)  [https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung-Kinder/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung-Kinder/) KBV_ITA_VGEX_Anforderungskatalog_QSHGVK.pdf
+
+Seite 20 von 20
+
+eDokumentation V2.0

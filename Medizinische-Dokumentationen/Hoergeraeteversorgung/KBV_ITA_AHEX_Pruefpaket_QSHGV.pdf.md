@@ -52,16 +52,12 @@ Praxisdaten/ Arztstempel Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 
 
 ---
 
-|  |  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | Abbildung | 1: | Struktur des | ZIP-Archives | für | die | Zertifizierung | anhand | von | Beispieldateien |
-|  | Abbildung | 2: | Testdatenvalidierung | |  |  |  |  |  |  |
-|  | Abbildung | 3: | Struktur des | ZIP-Archives | für | die |  | Testdatenvalidierung | anhand | von Beispieldateien |
-| Seite | 3 von | 28 / KBV | / Pruefpaket | QS | Hörgeräteversorgung | / | Version: 3.01 | / 12. | August 2021 |  |
+## ABBILDUNGSVERZEICHNIS
 
-7  27  27
+Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 7  Abbildung 2: Testdatenvalidierung 27  Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 27
 
-Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien Abbildung 2: Testdatenvalidierung Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien Seite 3 von 28  /  KBV  /  Pruefpaket QS Hörgeräteversorgung  /  Version: 3.01  /  12. August 2021
+Seite 3 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+
 
 ---
 

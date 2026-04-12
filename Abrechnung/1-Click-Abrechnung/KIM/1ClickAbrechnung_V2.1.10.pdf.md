@@ -7,57 +7,93 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 ---
 
-|  | Inhaltsverzeichnis | |  |  |  |
-|---|---|---|---|---|---|
-| 1 |  |  |  |  | Einführung................................................................................................................................6 |
-| 1.1 |  |  |  |  | Geltungsbereich..............................................................................................................................................6 |
-| 1.2 Abgrenzung |  |  |  |  | .......................................................................................................................................................6 |
-| 2 Arten | der | übermittelten | Nachrichten |  | ..........................................................................7 |
-| 3 | Anforderungen | an die |  |  | Software-Systeme...................................................................8 |
-| 3.1 | Übergreifende | Anforderungen | an | 1ClickAbrechnung | ....................................................................8 |
-| 3.2 | Anforderungen an |  |  |  | 1ClickAbrechnung-Lieferung..............................................................................9 |
-| 3.2.1 Anforderungen | an den |  |  |  | Nachrichten-Header...........................................................................................................................9 |
-| 3.2.2 Anforderungen | an den |  |  |  | Nachrichten-Body...............................................................................................................................9 |
-| 3.2.3 Anforderungen | an die |  |  |  | Anhänge....................................................................................................................................................9 |
-| 3.2.4 Beispiel | für eine |  |  |  | 1ClickAbrechnung-Lieferung....................................................................................................................12 |
-| 3.3 | Anforderungen | an die |  |  | 1ClickAbrechnung-Eingangsbestätigung.............................................13 |
-| 3.3.1 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................13 |
-| 3.3.2 Anforderungen | an den |  |  |  | Nachrichten-Body............................................................................................................................13 |
-| 3.3.3 Anforderungen | an die |  |  |  | Anhänge.................................................................................................................................................13 |
-| 3.3.4 Beispiel | für eine |  |  |  | 1ClickAbrechnung-Eingangsbestätigung.............................................................................................14 |
-| 3.4 | Anforderungen an | die |  |  | 1ClickAbrechnung-Rückmeldung............................................................15 |
-| 3.4.1 Allgemeine | Anforderungen | an die |  | 1ClickAbrechnung-Rückmeldung | .......................................................................15 |
-| 3.4.2 Anforderungen | an den |  |  |  | Nachrichten-Header........................................................................................................................15 |
-| 3.4.3 Anforderungen | an den |  |  |  | Nachrichten-Body............................................................................................................................15 |
-| 3.4.4 Anforderungen | an die |  |  |  | Anhänge.................................................................................................................................................15 |
-| 3.4.5 Beispiel | für eine | 1ClickAbrechnung-Rückmeldung | |  | ...........................................................................................................17 |
-| 3.5 | Anforderungen | zum Versand | und Empfang | von | Nachrichten...................................................18 |
-| 3.5.1 | Anforderungen an die | Software-Systeme | der |  | Leistungserbringer..............................................................................18 |
-| 3.5.2 Anforderungen | an die | Software-Systeme | der |  | KVen.........................................................................................................22 |
-| 4 |  |  |  |  | Referenzen............................................................................................................................24 |
-| 5 |  |  |  |  | Anhang....................................................................................................................................25 |
-| 5.1 Zulässige |  |  |  |  | Datenpakete..............................................................................................................................25 |
-| 5.1.1 Zulässige | Datenpakete | der |  |  | 1ClickAbrechnung-Lieferung..............................................................................................25 |
-| Funktion | 1: 1ClickAbrechnung | als |  |  | Testabrechnung..........................................................................................................25 |
-| Funktion | 2: 1ClickAbrechnung | als | Echtabrechnung |  | .........................................................................................................25 |
-| Funktion | 3: | Sammelerklärung (ohne | Abrechnungsdatei) | als | Testpaket....................................................................25 |
+### Inhaltsverzeichnis 1 1.1
 
-3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................9 3.2.2 Anforderungen an den Nachrichten-Body...............................................................................................................................9 3.2.3 Anforderungen an die Anhänge....................................................................................................................................................9 3.2.4 Beispiel für eine 1ClickAbrechnung-Lieferung....................................................................................................................12 3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................13 3.3.2 Anforderungen an den Nachrichten-Body............................................................................................................................13 3.3.3 Anforderungen an die Anhänge.................................................................................................................................................13 3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung.............................................................................................14 3.4.1 Allgemeine Anforderungen an die 1ClickAbrechnung-Rückmeldung .......................................................................15 3.4.2 Anforderungen an den Nachrichten-Header........................................................................................................................15 3.4.3 Anforderungen an den Nachrichten-Body............................................................................................................................15 3.4.4 Anforderungen an die Anhänge.................................................................................................................................................15 3.4.5 Beispiel für eine 1ClickAbrechnung-Rückmeldung ...........................................................................................................17 3.5.1 Anforderungen an die Software-Systeme der Leistungserbringer..............................................................................18 3.5.2 Anforderungen an die Software-Systeme der KVen.........................................................................................................22 5.1.1 Zulässige Datenpakete der 1ClickAbrechnung-Lieferung..............................................................................................25 Abgrenzung .......................................................................................................................................................6 Arten der übermittelten Nachrichten ..........................................................................7 Anforderungen an die Software-Systeme...................................................................8 Übergreifende Anforderungen an 1ClickAbrechnung ....................................................................8 Anforderungen an 1ClickAbrechnung-Lieferung..............................................................................9 Anforderungen an die 1ClickAbrechnung-Eingangsbestätigung.............................................13 Anforderungen an die 1ClickAbrechnung-Rückmeldung............................................................15 Anforderungen zum Versand und Empfang von Nachrichten...................................................18 Zulässige Datenpakete..............................................................................................................................25 Funktion 1: 1ClickAbrechnung als Testabrechnung..........................................................................................................25 Funktion 2: 1ClickAbrechnung als Echtabrechnung .........................................................................................................25 Funktion 3: Sammelerklärung (ohne Abrechnungsdatei) als Testpaket....................................................................25
+1.2
+
+2
+
+3 3.1
+
+3.2
+
+3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................9
+
+3.2.2 Anforderungen an den Nachrichten-Body...............................................................................................................................9
+
+3.2.3 Anforderungen an die Anhänge....................................................................................................................................................9
+
+3.2.4 Beispiel für eine 1ClickAbrechnung-Lieferung....................................................................................................................12 3.3
+
+3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................13
+
+3.3.2 Anforderungen an den Nachrichten-Body............................................................................................................................13
+
+3.3.3 Anforderungen an die Anhänge.................................................................................................................................................13
+
+3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung.............................................................................................14 3.4
+
+3.4.1 Allgemeine Anforderungen an die 1ClickAbrechnung-Rückmeldung .......................................................................15
+
+3.4.2 Anforderungen an den Nachrichten-Header........................................................................................................................15
+
+3.4.3 Anforderungen an den Nachrichten-Body............................................................................................................................15
+
+3.4.4 Anforderungen an die Anhänge.................................................................................................................................................15
+
+3.4.5 Beispiel für eine 1ClickAbrechnung-Rückmeldung ...........................................................................................................17 3.5
+
+3.5.1 Anforderungen an die Software-Systeme der Leistungserbringer..............................................................................18
+
+3.5.2 Anforderungen an die Software-Systeme der KVen.........................................................................................................22 4
+
+5 5.1
+
+5.1.1 Zulässige Datenpakete der 1ClickAbrechnung-Lieferung..............................................................................................25
+
+Einführung................................................................................................................................6 Geltungsbereich..............................................................................................................................................6
+
+Abgrenzung .......................................................................................................................................................6
+
+Arten der übermittelten Nachrichten ..........................................................................7
+
+Anforderungen an die Software-Systeme...................................................................8 Übergreifende Anforderungen an 1ClickAbrechnung ....................................................................8
+
+Anforderungen an 1ClickAbrechnung-Lieferung..............................................................................9
+
+Anforderungen an die 1ClickAbrechnung-Eingangsbestätigung.............................................13
+
+Anforderungen an die 1ClickAbrechnung-Rückmeldung............................................................15
+
+Anforderungen zum Versand und Empfang von Nachrichten...................................................18
+
+Referenzen............................................................................................................................24
+
+Anhang....................................................................................................................................25 Zulässige Datenpakete..............................................................................................................................25
+
+Funktion 1: 1ClickAbrechnung als Testabrechnung..........................................................................................................25
+
+Funktion 2: 1ClickAbrechnung als Echtabrechnung .........................................................................................................25
+
+Funktion 3: Sammelerklärung (ohne Abrechnungsdatei) als Testpaket....................................................................25
+
 
 ---
 
-| Funktion | 4: | Sammelerklärung | (ohne | Abrechnungsdatei) | als |  |  | Echtpaket....................................................................25 | |
-|---|---|---|---|---|---|---|---|---|---|
-| Funktion | 5: | 1ClickAbrechnung | und | Sammelerklärung | als |  |  | Testabrechnung............................................................26 | |
-| Funktion | 6: | 1ClickAbrechnung | und | Sammelerklärung | als | Echtabrechnung |  |  | ...........................................................26 |
-| 5.1.2 Zulässige |  | Datenpakete der |  |  |  |  | 1ClickAbrechnung-Eingangsbestätigung.......................................................................26 | | |
-| 5.1.3 Zulässige | Datenpakete | der |  |  |  |  | 1ClickAbrechnung-Rückmeldung.....................................................................................26 | | |
-|  | Funktion 9: | Fachliche |  | Rückmeldung | zu einer | Testabrechnung, | einem | Testpaket | oder einer |
-|  | 1ClickAbrechnung | und | Sammelerklärung | als |  |  |  | Testabrechnung....................................................................................26 | |
-|  | Funktion 10: | Fachliche |  | Rückmeldung | zu einer | Echtabrechnung, |  | einem Echtpaket | oder einer |
-|  | 1ClickAbrechnung | und | Sammelerklärung | als |  |  |  | Echtabrechnung....................................................................................27 | |
+5.1.2 Zulässige Datenpakete der 1ClickAbrechnung-Eingangsbestätigung.......................................................................26
 
-5.1.2 Zulässige Datenpakete der 1ClickAbrechnung-Eingangsbestätigung.......................................................................26 5.1.3 Zulässige Datenpakete der 1ClickAbrechnung-Rückmeldung.....................................................................................26 Funktion 4: Sammelerklärung (ohne Abrechnungsdatei) als Echtpaket....................................................................25 Funktion 5: 1ClickAbrechnung und Sammelerklärung als Testabrechnung............................................................26 Funktion 6: 1ClickAbrechnung und Sammelerklärung als Echtabrechnung ...........................................................26 Funktion 9: Fachliche Rückmeldung zu einer Testabrechnung, einem Testpaket oder einer 1ClickAbrechnung und Sammelerklärung als Testabrechnung....................................................................................26 Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer 1ClickAbrechnung und Sammelerklärung als Echtabrechnung....................................................................................27
+5.1.3 Zulässige Datenpakete der 1ClickAbrechnung-Rückmeldung.....................................................................................26
+
+Funktion 4: Sammelerklärung (ohne Abrechnungsdatei) als Echtpaket....................................................................25
+
+Funktion 5: 1ClickAbrechnung und Sammelerklärung als Testabrechnung............................................................26
+
+Funktion 6: 1ClickAbrechnung und Sammelerklärung als Echtabrechnung ...........................................................26
+
+Funktion 9: Fachliche Rückmeldung zu einer Testabrechnung, einem Testpaket oder einer  1ClickAbrechnung und Sammelerklärung als Testabrechnung....................................................................................26
+
+Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer  1ClickAbrechnung und Sammelerklärung als Echtabrechnung....................................................................................27
+
 
 ---
 
@@ -556,73 +592,89 @@ Seite 13 von 27
 
 ---
 
-| 3.3.4 | Beispiel | für | eine | 1ClickAbrechnung-Eingangsbestätigung |
-|---|---|---|---|---|
-| Date: | Wed, | 24 Mar | 2021 | 10:30:37 +0100 |
-| From: |  |  | KV123@xyz.kim.telematik |  |
-| To: |  | ArztABC@xyz.kim.telematik | |  |
-|  | Message-ID: |  | <Message-ID> |  |
-|  | Subject: |  |  | 1ClickAbrechnung-Eingangsbestaetigung |
-|  | In-Reply-To: |  | <Original-Message-ID> | |
-|  |  | X-KIM-Dienstkennung: | | 1ClickAbrechnung;Eingangsbestaetigung;V2.0 |
-|  |  | X-KIM-Sendersystem: |  | Beispiel-KV;V20.21 |
-|  | Content-Type: | | multipart/report; | report-type=disposition-notification; |
-|  |  |  |  | boundary="--------------mdn050609000308010900000100" |
-|  |  |  | --------------mdn050609000308010900000100 | |
-|  | Content-Type: | | text/plain; | charset=utf-8 |
-|  |  | Content-Transfer-Encoding: | | 8bit |
-|  | <menschenlesbarer | | Teil> |  |
-|  |  |  | --------------mdn050609000308010900000100 | |
-|  | Content-Type: | |  | message/disposition-notification |
-|  |  | Original-Message-ID: |  | <Original-Message-ID> |
-|  | Disposition: |  |  | automatic-action/MDN-sent-automatically;displayed |
-|  |  |  | --------------mdn050609000308010900000100-- | |
+3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung
 
-Seite
+Date: Wed, 24 Mar 2021 10:30:37 +0100 From: [KV123@xyz.kim.telematik](mailto:KV123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; boundary="--------------mdn050609000308010900000100"
 
-|  | 1ClickAbrechnung | V2.1 |
-|---|---|---|
-| Seite | 14 von 27 |  |
+--------------mdn050609000308010900000100 Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit
 
-3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung Date: Wed, 24 Mar 2021 10:30:37 +0100 From: KV123@xyz.kim.telematik To: ArztABC@xyz.kim.telematik Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit <menschenlesbarer Teil> Content-Type: message/disposition-notification Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed 1ClickAbrechnung V2.1 14  von  27
+<menschenlesbarer Teil>
+
+--------------mdn050609000308010900000100 Content-Type: message/disposition-notification
+
+Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed
+
+--------------mdn050609000308010900000100--
+
+Seite 1ClickAbrechnung V2.1
+
+14 von 27
+
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  | 1ClickAbrechnung | V2.1 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 3.4 | Anforderungen | | an die |  |  | 1ClickAbrechnung-Rückmeldung | | |  |  |  |
-| 3.4.1 | Allgemeine |  | Anforderungen | an | die |  | 1ClickAbrechnung-Rückmeldung | |  |  |  |
-| [1Click0300] | |  |  |  |  |  |  |  |  |  |  |
-| Die |  | 1ClickAbrechnung-Rückmeldung | | MUSS | die | Prüfungsergebnisse | | der | eingesendeten | Datenpakete |  |
-| enthalten. | Die | Darstellung | der |  | Prüfungsergebnisse | MUSS |  |  |  |  |  |
-| • | als | menschenlesbarer | Text | im | Nachrichten-Body | | oder |  |  |  |  |
-| • | als eine oder | mehrere | | PDF-Dateien | im | Nachrichten-Anhang | | oder |  |  |  |
-| • | als | menschenlesbarer | Text | im | Nachrichten-Body | | und als | eine oder | mehrere | PDF-Dateien | im |
-|  |  | Nachrichten-Anhang |  |  |  |  |  |  |  |  |  |
-| erfolgen. |  |  |  |  |  |  |  |  |  |  |  |
-| Anmerkungen: |  |  |  |  |  |  |  |  |  |  |  |
-| • Die | jeweilige | KV legt | selbst | fest, | welche | Form der |  | 1ClickAbrechnung-Rückmeldung | | genutzt | wird. |
-| • In | jedem Fall | enthält | die |  | 1ClickAbrechnung-Rückmeldung | | die |  | Prüfungsergebnisse | der | eingesendeten |
-|  | Datenpakete. |  |  |  |  |  |  |  |  |  |  |
-| 3.4.2 | Anforderungen | an | den |  | Nachrichten-Header |  |  |  |  |  |  |
-| [1Click0310] | |  |  |  |  |  |  |  |  |  |  |
-| Das | Header-Element |  |  | X-KIM-Dienstkennung | | MUSS | genau den |  |  |  |  |
-| Inhalt " |  |  | 1ClickAbrechnung;Rueckmeldung;V2.0 | | | " | aufweisen. |  |  |  |  |
-| [1Click0311] | |  |  |  |  |  |  |  |  |  |  |
-| Das | Header-Element |  | Subject | MUSS | genau den | Inhalt | " |  | 1ClickAbrechnung-Rueckmeldung | | " |
-| aufweisen. |  |  |  |  |  |  |  |  |  |  |  |
-| 3.4.3 | Anforderungen | an | den |  | Nachrichten-Body |  |  |  |  |  |  |
-| Die | Anforderungen | an den |  | Nachrichten-Body | sind | in [SPKA] | beschrieben. | |  |  |  |
-| 3.4.4 | Anforderungen | an | die | Anhänge |  |  |  |  |  |  |  |
-| [1Click0330] | |  |  |  |  |  |  |  |  |  |  |
-| Jede |  | 1ClickAbrechnung-Rückmeldung | | MUSS | die | Begleitdatei | enthalten, | die | der Einsender | in der |  |
-|  | 1ClickAbrechnung-Lieferung | | | gesendet | hat. |  |  |  |  |  |  |
-| Anmerkung: |  |  |  |  |  |  |  |  |  |  |  |
-| • Der | in der | Begleitdatei |  | enthaltene | GUID | (Global Unique | | Identifier) dient | der | eindeutigen | Zuordnung |
-|  | zwischen | versendeter |  |  | 1ClickAbrechnung-Lieferung | | und | zugehöriger |  | 1ClickAbrechnung-Rückmeldung. | |
-|  |  |  |  |  |  |  |  |  |  | Seite 15 von 27 |  |
+### 3.4 Anforderungen an die 1ClickAbrechnung-Rückmeldung
 
-3.4 Anforderungen an die 1ClickAbrechnung-Rückmeldung 3.4.1 Allgemeine Anforderungen an die 1ClickAbrechnung-Rückmeldung Die 1ClickAbrechnung-Rückmeldung MUSS die Prüfungsergebnisse der eingesendeten Datenpakete enthalten. Die Darstellung der Prüfungsergebnisse  MUSS als menschenlesbarer Text im Nachrichten-Body oder als eine oder mehrere PDF-Dateien im Nachrichten-Anhang oder als menschenlesbarer Text im Nachrichten-Body und als eine oder mehrere PDF-Dateien im Die jeweilige KV legt selbst fest, welche Form der 1ClickAbrechnung-Rückmeldung genutzt wird. In jedem Fall enthält die 1ClickAbrechnung-Rückmeldung die Prüfungsergebnisse der eingesendeten 3.4.2 Anforderungen an den Nachrichten-Header Das Header-Element  Inhalt " Das Header-Element  3.4.3 Anforderungen an den Nachrichten-Body Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.  3.4.4 Anforderungen an die Anhänge Jede 1ClickAbrechnung-Rückmeldung MUSS die Begleitdatei enthalten, die der Einsender in der 1ClickAbrechnung-Lieferung gesendet hat. Der in der Begleitdatei enthaltene GUID (Global Unique Identifier) dient der eindeutigen Zuordnung zwischen versendeter 1ClickAbrechnung-Lieferung und zugehöriger 1ClickAbrechnung-Rückmeldung.                                                                                                                                                                                                                Seite  15  von  27  MUSS genau den Inhalt "   MUSS genau den " aufweisen. 1ClickAbrechnung V2.1
+3.4.1 Allgemeine Anforderungen an die 1ClickAbrechnung-Rückmeldung
+
+**[1Click0300]**
+
+Die 1ClickAbrechnung-Rückmeldung MUSS die Prüfungsergebnisse der eingesendeten Datenpakete  enthalten. Die Darstellung der Prüfungsergebnisse MUSS
+- als menschenlesbarer Text im Nachrichten-Body oder
+- als eine oder mehrere PDF-Dateien im Nachrichten-Anhang oder
+- als menschenlesbarer Text im Nachrichten-Body und als eine oder mehrere PDF-Dateien im  Nachrichten-Anhang
+
+erfolgen.
+
+Anmerkungen:
+
+- Die jeweilige KV legt selbst fest, welche Form der 1ClickAbrechnung-Rückmeldung genutzt wird.
+- In jedem Fall enthält die 1ClickAbrechnung-Rückmeldung die Prüfungsergebnisse der eingesendeten  Datenpakete.
+
+3.4.2 Anforderungen an den Nachrichten-Header
+
+**[1Click0310]**
+
+Das Header-Element
+
+Inhalt " 1ClickAbrechnung;Rueckmeldung;V2.0
+
+**[1Click0311]**
+
+Das Header-Element  aufweisen.
+
+3.4.3 Anforderungen an den Nachrichten-Body
+
+Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
+
+3.4.4 Anforderungen an die Anhänge
+
+**[1Click0330]**
+
+Jede 1ClickAbrechnung-Rückmeldung MUSS die Begleitdatei enthalten, die der Einsender in der  1ClickAbrechnung-Lieferung gesendet hat.
+
+Anmerkung:
+
+- Der in der Begleitdatei enthaltene GUID (Global Unique Identifier) dient der eindeutigen Zuordnung  zwischen versendeter 1ClickAbrechnung-Lieferung und zugehöriger 1ClickAbrechnung-Rückmeldung.
+
+Seite 15 von 27
+
+X-KIM-Dienstkennung
+
+Subject
+
+MUSS genau den Inhalt "
+
+MUSS genau den
+
+" aufweisen.
+
+1ClickAbrechnung-Rueckmeldung
+
+1ClickAbrechnung V2.1
+
+"
+
 
 ---
 
@@ -878,42 +930,32 @@ Seite 22 von 27 1ClickAbrechnung V2.1
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  | 1ClickAbrechnung | V2.1 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | • | XSD-Validierung | |  |  |  |  |  |  |  |
-|  | Abhängig | vom | Verarbeitungsprozess | | können | dabei | Fehler | auftreten, die | dem Absender | der | 1ClickAbrechnung- |
-|  | Lieferung | mitzuteilen | sind. | Da Fehler |  | zeitlich | versetzt auftreten | können, | kann die KV: |  |  |
-|  | • die |  | Prüfungsergebnisse | | sammeln | und genau | eine | 1ClickAbrechnung-Rückmeldung | | zurücksenden | oder |
-|  | • die |  | Prüfungsergebnisse | nach | jedem |  | Verarbeitungsschritt | in Form | der | 1ClickAbrechnung-Rückmeldung | |
-|  |  | versenden. |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Seite 23 von 27 |  |
+- XSD-Validierung
 
-Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absender der 1ClickAbrechnung- Lieferung mitzuteilen sind. Da Fehler zeitlich versetzt auftreten können, kann die KV: die Prüfungsergebnisse sammeln und genau eine 1ClickAbrechnung-Rückmeldung zurücksenden oder die Prüfungsergebnisse nach jedem Verarbeitungsschritt in Form der 1ClickAbrechnung-Rückmeldung                                                                                                                                                                                                                Seite  23  von  27 1ClickAbrechnung V2.1
+Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absender der 1ClickAbrechnung- Lieferung mitzuteilen sind. Da Fehler zeitlich versetzt auftreten können, kann die KV:
+
+- die Prüfungsergebnisse sammeln und genau eine 1ClickAbrechnung-Rückmeldung zurücksenden oder
+- die Prüfungsergebnisse nach jedem Verarbeitungsschritt in Form der 1ClickAbrechnung-Rückmeldung  versenden.
+
+Seite 23 von 27 1ClickAbrechnung V2.1
+
 
 ---
 
-|  |  |  |  |  |  |  |  |  |  |  | 1ClickAbrechnung | V2.1 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4 | Referenzen |  |  |  |  |  |  |  |  |  |  |  |
-| • [MDN]: |  | Spezifikation | MDN |  |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen | | | | |
-| • | [SPKA]: | Spezifikation |  | übergreifende |  | Anforderungen |  |  | https://partnerportal.kv-telematik.de/display/ | | | |
-|  |  | KDK/KIM-Anwendungen | |  |  |  |  |  |  |  |  |  |
-| • |  | [KVCA_Dienste_Adressen] | | Stammdatei | | KVCA |  |  | https://update.kbv.de/ita-update/Stammdateien/ | | |  |
-|  | SDKVCA/ |  |  |  |  |  |  |  |  |  |  |  |
-| • | [KVDT]: |  | Datensatzbeschreibung | | KVDT und |  | Anforderungskatalog | KVDT |  | https://update.kbv.de/ita- | | |
-|  | update/Abrechnung/ | |  |  |  |  |  |  |  |  |  |  |
-| • | [UeZuDP]: | Übersicht | der | zulässigen | | Datenpakete |  |  |  |  |  |  |
-| • [BGD]: |  | Spezifikation |  | Begleitdatei |  |  |  | https://partnerportal.kv-telematik.de/display/KDK/KIM- | | | |  |
-|  | Anwendungen | |  |  |  |  |  |  |  |  |  |  |
-| • [eSE]: |  | Spezifikation |  | Sammelerklärung | |  |  | https://update.kbv.de/ita-update/Abrechnung/1-Click- | | | |  |
-|  |  | Abrechnung/Sammelerklaerung.zip | | |  |  |  |  |  |  |  |  |
-| • | [eSE_<KV>]: |  | Dokumentation | und | Stylesheet | zur | kv-spezifischen | | Sammelerklärung | der | einzelnen | KVen |
-|  |  |  |  |  |  | https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/Sammelerklaerung.zip | | | | | ) |  |
-| • | [gemSpec_Kon]: | | Spezifikation | | Konnektor | der | gematik GmbH | in der | aktuell gültigen | Version |  | https:// |
-|  |  | fachportal.gematik.de/ | |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Seite | 24 von 27 |  |
+## 4 Referenzen
 
-4 Referenzen [MDN]: Spezifikation MDN  https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen [SPKA]: Spezifikation übergreifende Anforderungen https://partnerportal.kv-telematik.de/display/ [KVCA_Dienste_Adressen] Stammdatei KVCA  https://update.kbv.de/ita-update/Stammdateien/ [KVDT]: Datensatzbeschreibung KVDT und Anforderungskatalog KVDT  https://update.kbv.de/ita- [UeZuDP]: Übersicht der zulässigen Datenpakete [BGD]: Spezifikation Begleitdatei  https://partnerportal.kv-telematik.de/display/KDK/KIM- [eSE]: Spezifikation Sammelerklärung https://update.kbv.de/ita-update/Abrechnung/1-Click- [eSE_<KV>]: Dokumentation und Stylesheet zur kv-spezifischen Sammelerklärung der einzelnen KVen https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/Sammelerklaerung.zip ) [gemSpec_Kon]: Spezifikation Konnektor der gematik GmbH in der aktuell gültigen Version https://                                                                                                                                                                                                                Seite  24  von  27 1ClickAbrechnung V2.1
+- [MDN]: Spezifikation MDN [https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen](https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen)
+- [SPKA]: Spezifikation übergreifende Anforderungen [https://partnerportal.kv-telematik.de/display/](https://partnerportal.kv-telematik.de/display/) KDK/KIM-Anwendungen
+- [KVCA_Dienste_Adressen] Stammdatei KVCA [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) SDKVCA/
+- [KVDT]: Datensatzbeschreibung KVDT und Anforderungskatalog KVDT [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Abrechnung/
+- [UeZuDP]: Übersicht der zulässigen Datenpakete
+- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-) Anwendungen
+- [eSE]: Spezifikation Sammelerklärung [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-) Abrechnung/Sammelerklaerung.zip
+- [eSE_<KV>]: Dokumentation und Stylesheet zur kv-spezifischen Sammelerklärung der einzelnen KVen  [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/Sammelerklaerung.zip](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/Sammelerklaerung.zip) )
+- [gemSpec_Kon]: Spezifikation Konnektor der gematik GmbH in der aktuell gültigen Version https:// fachportal.gematik.de/
+
+Seite 24 von 27 1ClickAbrechnung V2.1
+
 
 ---
 
@@ -1002,17 +1044,14 @@ Seite 26 von 27 1ClickAbrechnung V2.1
 
 ---
 
-|  |  |  |  |  |  |  |  |  | 1ClickAbrechnung | V2.1 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Funktion | 10: Fachliche | Rückmeldung | zu | einer | Echtabrechnung, | einem | Echtpaket | oder einer |  |  |
-|  | 1ClickAbrechnung | und | Sammelerklärung | als | Echtabrechnung |  |  |  |  |  |
-| Die Fachliche | Rückmeldung | zu einer | Echtabrechnung, | | einem Echtpaket | oder | einer | 1ClickAbrechnung | und |  |
-| Sammelerklärung | als | Echtabrechnung | hat | mindestens die | Begleitdatei | – als Bezug | zum | eingesendeten |  |  |
-| Datenpaket | – im Anhang. | Zusätzlich | können ein | oder | mehrere | PDF-Dateien | enthalten sein. |  |  |  |
-| Sie wird | bei den folgenden | Funktionen | versendet. |  |  |  |  |  |  |  |
-| • | Funktion 2 |  |  |  |  |  |  |  |  |  |
-| • | Funktion 4 |  |  |  |  |  |  |  |  |  |
-| • | Funktion 6 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  | Seite 27 von | 27 |  |
+Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer  1ClickAbrechnung und Sammelerklärung als Echtabrechnung
 
-Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer 1ClickAbrechnung und Sammelerklärung als Echtabrechnung Die Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer 1ClickAbrechnung und Sammelerklärung als Echtabrechnung hat mindestens die Begleitdatei – als Bezug zum eingesendeten Datenpaket – im Anhang. Zusätzlich können ein oder mehrere PDF-Dateien enthalten sein. Sie wird bei den folgenden Funktionen versendet.                                                                                                                                                                                                                Seite  27  von  27 1ClickAbrechnung V2.1
+Die Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer 1ClickAbrechnung und  Sammelerklärung als Echtabrechnung hat mindestens die Begleitdatei – als Bezug zum eingesendeten  Datenpaket – im Anhang. Zusätzlich können ein oder mehrere PDF-Dateien enthalten sein.
+
+Sie wird bei den folgenden Funktionen versendet.
+
+- Funktion 2
+- Funktion 4
+- Funktion 6
+
+Seite 27 von 27 1ClickAbrechnung V2.1

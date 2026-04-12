@@ -100,15 +100,14 @@ MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV) Muster PTV 1 – Antrag auf Psychotherap
 
 ---
 
-|  |  | ABBILDUNGSVERZEICHNIS | | |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | bei | Einreichung | | aller | Muster |  |  |  | 8 |
-| Abbildung | 2: | Exemplarische |  | Verzeichnisstruktur | bei | Einreichung | der | Muster | 2, | 4, 10 | und 10L |  | 9 |
-| Abbildung | 3: | Testdatenvalidierung | | – | Exemplarische |  | Verzeichnisstruktur | bei |  | Einreichung | der | Muster 2, | 4, 10 |
-| und 10L |  |  |  |  |  |  |  |  |  |  |  |  | 54 |
-| Seite 4 | von 56 / | KBV / | Prüfpaket | Blankoformularbedruckung | / Version: | 3.41 | / 4. | Oktober 2024 |  |  |  |  |  |
+## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L Abbildung 3: Testdatenvalidierung – Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2,  4, 10 Seite 4 von 56  /  KBV  /  Prüfpaket Blankoformularbedruckung   /  Version: 3.41  /  4. Oktober 2024
+Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster 8  Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L 9  Abbildung 3: Testdatenvalidierung – Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10  und 10L 54
+
+Seite 4 von 56 / KBV / Prüfpaket Blankoformularbedruckung
+
+/ Version: 3.41 / 4. Oktober 2024
+
 
 ---
 

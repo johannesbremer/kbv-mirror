@@ -1,18 +1,21 @@
-| IT | in | der | Arztpraxis |  |
-|---|---|---|---|---|
-|  |  | Schnittstelle |  | Datenannahme- |
-|  |  | stellen-Stammdatei | | (SDDA) |
-|  |  | [KBV_ITA_VGEX_Schnittstelle_SDDA] | | |
-|  | Dezernat | Digitalisierung | und IT |  |
-| 10623 |  | Berlin, | Herbert-Lewin-Platz | 2 |
-|  | Kassenärztliche | | Bundesvereinigung | |
-| Version |  | 1.14 |  |  |
-| Datum: |  | 22.11.2024 |  |  |
-|  | Kennzeichnung: | Öffentlich |  |  |
-| Status: |  | In Kraft |  |  |
-| © | Kassenärztliche |  | Bundesvereinigung, Berlin | 2024 |
+## IT in der Arztpraxis
 
-IT in der Arztpraxis Schnittstelle Datenannahme- stellen-Stammdatei (SDDA) Dezernat Digitalisierung und IT 10623 Berlin, Herbert-Lewin-Platz 2 Kassenärztliche Bundesvereinigung Kennzeichnung: Öffentlich © Kassenärztliche Bundesvereinigung, Berlin 2024
+## Schnittstelle Datenannahme-
+
+## stellen-Stammdatei (SDDA)
+
+[KBV_ITA_VGEX_Schnittstelle_SDDA]
+
+Dezernat Digitalisierung und IT
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+Kassenärztliche Bundesvereinigung  Version  Datum:  Kennzeichnung: Öffentlich  Status:
+
+© Kassenärztliche Bundesvereinigung, Berlin 2024 1.14  22.11.2024
+
+In Kraft
+
 
 ---
 

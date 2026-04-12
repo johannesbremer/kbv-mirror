@@ -1803,20 +1803,18 @@ e-
 
 ---
 
-| Bei | Mustern, | die | nicht mit | einem | Vertragsarztstempel | | versehen | werden | müssen, | ist | dieses PDF | -Feld nicht |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| vorhanden. | |  |  |  |  |  |  |  |  |  |  |  |
-| 2.10.7 |  | Prüfnummer |  |  |  |  |  |  |  |  |  |  |
-| Auf | Basis der | Anlage | 2b des | BMV-Ä ist | auf den | digitalen | Mustern | die | Prüfnummer |  | aufzubringen | (siehe: [ An- |
-| lage | 2b]). |  |  |  |  |  |  |  |  |  |  |  |
-| Für die |  | Prüfnummer | ist die | Formatierung | Courier | mit | Schriftgröße | 5 pt | festgelegt. | Die | Prüfnummer | ist durch |
-| das PVS | zu | setzen, | welche das | Formular | erstellt. | Es | ist die | Prüfnummer | anzugeben, | die | der | Softwareherstel- |
-| ler bei | der | Zertifizierung | digitaler | Muster |  | erhalten hat. | Die | Prüfnummer | ist bei | den | digitalen | Mustern 10, |
-| 10A | sowie 39 | in das | Feld | „0000_Pruefnummer“ | | und beim | digitalen | Mustern | 6 | in das Feld | „0000_KBV | -Pruef- |
-| nummer“ | zu | setzen. |  |  |  |  |  |  |  |  |  |  |
-| SEITE | 28 VON | 102 / KBV | / | TECHNISCHES | HANDBUCH | DIGITALE | VORDRUCKE / 9. | FEBRUAR | 2026 / | VERSION: 2.31 |  |  |
+Bei Mustern, die nicht mit einem Vertragsarztstempel versehen werden müssen, ist dieses PDF vorhanden.
 
-Bei Mustern, die nicht mit einem Vertragsarztstempel versehen werden müssen, ist dieses PDF Auf Basis der Anlage 2b des BMV-Ä ist auf den digitalen Mustern die Prüfnummer aufzubringen (siehe: [ lage 2b]).  Für die Prüfnummer ist die Formatierung Courier mit Schriftgröße 5 pt festgelegt. Die Prüfnummer ist durch das PVS zu setzen, welche das Formular erstellt. Es ist die Prüfnummer anzugeben, die der Softwareherstel- ler bei der Zertifizierung digitaler Muster erhalten hat. Die Prüfnummer ist bei den digitalen Mustern 10, 10A sowie 39 in das Feld „0000_Pruefnummer“ und beim digitalen Mustern 6 in das Feld „0000_KBV -Pruef- nummer“ zu setzen. SEITE 28 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE   /  9. FEBRUAR 2026  /  VERSION: 2.31
+**2.10.7 Prüfnummer**
+
+Auf Basis der Anlage 2b des BMV-Ä ist auf den digitalen Mustern die Prüfnummer aufzubringen (siehe: [ lage 2b]).
+
+Für die Prüfnummer ist die Formatierung Courier mit Schriftgröße 5 pt festgelegt. Die Prüfnummer ist durch  das PVS zu setzen, welche das Formular erstellt. Es ist die Prüfnummer anzugeben, die der Softwareherstel- ler bei der Zertifizierung digitaler Muster erhalten hat. Die Prüfnummer ist bei den digitalen Mustern 10,  10A sowie 39 in das Feld „0000_Pruefnummer“ und beim digitalen Mustern 6 in das Feld „0000_KBV -Pruef- nummer“ zu setzen.
+
+SEITE 28 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE / 9. FEBRUAR 2026 / VERSION: 2.31 -Feld nicht
+
+An-
+
 
 ---
 
@@ -2600,47 +2598,70 @@ nn
 
 ---
 
-| 3.2.2.8 |  | M10_8: |  | 4229_Knappschaftskennziffer | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 5). | Demnach | kann | in dem | Feld die | entsprechende | EBM | - | Kennnummer | für die | „Knapp- |
-|  | schaftskennziffer“ | | angegeben | werden, | falls die | Voraussetzung | | einer |  | Ausnahmeindikation | vorliegt. |  |
-| 3.2.2.9 | M10_9: |  | 3110_Geschlecht | |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 7). | Demnach | ist je | nach | Geschlecht | des Patienten | das | PDF - | Formularfeld | „ M10_9: |  |
-|  | 3110_Geschlecht | “ mit | dem | entsprechenden | | Kennzeichen | zu befüllen. | Das | Feld | darf mit | den | Inhalten gemäß |
-| Tabelle | 11 | befüllt | werden. |  |  |  |  |  |  |  |  |  |
-| 3.2.2.10 |  | M10_10: |  |  | 4231_Kontrolluntersuchung_bekannte_Infektion | | |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 8). |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.11 |  | M10_11: | 0000_SER |  |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 9). |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.12 |  | M10_12: | 4221_ESS |  |  |  |  |  |  |  |  |  |
-| Es | gelten die | Ausführungen | | aus Kapitel | 3.2.2.1 | „ M10_1: | 4221_Kurativ | “. |  |  |  |  |
-| 3.2.2.13 |  | M10_13: |  |  | 4204_eingeschraenkter_Leistungsanspruch | | |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 10). |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.14 |  | M10_14: |  | 0000_Erstveranlasser_BSNR | |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 13). | Demnach | ist | hier die | BSNR bzw. | die ASV | -Teamnummer | des |  | erstveranlassenden | Arz- |
-| tes | einzutragen. |  |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.15 |  | M10_15: |  | 0000_Erstveranlasser_LANR | |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterun- | |
-| gen]), | Muster | 10, | Punkt 13). | Demnach | ist hier | die | lebenslange | Arztnummer | | (LANR) des |  | erstveranlassenden |
-| Arztes | einzutragen. | |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.16 |  | M10_16: |  | 8219_Abnahmedatum |  |  |  |  |  |  |  |  |
-| Das | PDF- | Formularfeld | „ | M10_16: | 8219_Abnahmedatum | “ | ist ein | Datumsfeld |  | entsprechend | der | Definition |
-| aus | Kapitel | 2.10.4.1 „ | Datumsfelder | “. |  |  |  |  |  |  |  |  |
-| Der | Inhalt des | sichtbaren | | Teils | entspricht den | Regelungen | aus | den | Erläuterungen | zur |  | Vordruckvereinbarung |
-| (siehe |  | [Vordruckerläuterungen | | ], Muster | 10, | Punkt 11). | Dort wird |  | festgelegt, | dass das | Abnahmedatum | in der |
-| Form | TTMMJJ zu | erstellen | ist. | Bei der | Jahresangabe | sind | die letzten | beiden |  | Stellen der | Jahreszahl | zu nutzen. |
-| Der | Inhalt des | rein |  | maschinenlesbaren | Teils | ist das | Abnahmedatum | in | der Form | JJJJMMTT. |  |  |
-| Sowohl | im | sichtbaren | als auch | im rein |  | maschinenlesbaren | Teil | werden | bei | einstelligen | Tages - | und Monats- |
-| angaben | führende |  | Nullen | gesetzt. |  |  |  |  |  |  |  |  |
-| SEITE | 39 VON | 102 / KBV | / | TECHNISCHES | HANDBUCH DIGITALE | VORDRUCKE | / 9. | FEBRUAR 2026 | / VERSION: | 2.31 |  |  |
+3.2.2.8 M10_8: 4229_Knappschaftskennziffer
 
-M10_8: 4229_Knappschaftskennziffer Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 5). Demnach kann in dem Feld die entsprechende EBM schaftskennziffer“ angegeben werden, falls die Voraussetzung einer Ausnahmeindikation vorliegt. M10_9: 3110_Geschlecht Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 7). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht “ mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß Tabelle 11 befüllt werden. M10_10: 4231_Kontrolluntersuchung_bekannte_Infektion Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 8). M10_11: 0000_SER Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 9). M10_12: 4221_ESS Es gelten die Ausführungen aus Kapitel M10_13: 4204_eingeschraenkter_Leistungsanspruch Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 10). M10_14: 0000_Erstveranlasser_BSNR Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 13). Demnach ist hier die BSNR bzw. die ASV tes einzutragen. M10_15: 0000_Erstveranlasser_LANR Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ gen]), Muster 10, Punkt 13). Demnach ist hier die lebenslange Arztnummer (LANR) des erstveranlassenden Arztes einzutragen. M10_16: 8219_Abnahmedatum Das PDF- Formularfeld „ M10_16: 8219_Abnahmedatum “ ist ein Datumsfeld entsprechend der Definition aus Kapitel 2.10.4.1 „ Datumsfelder “. Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen Form TTMMJJ zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen. Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form JJJJMMTT. Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages angaben führende Nullen gesetzt. SEITE 39 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 3.2.2.1 „ M10_1: 4221_Kurativ “. ], Muster 10, Punkt 11). Dort wird festgelegt, dass das Abnahmedatum in der - Kennnummer für die „Knapp- - Formularfeld „ M10_9: -Teamnummer des erstveranlassenden Arz-   /  9. FEBRUAR 2026  /  VERSION: 2.31 - und Monats-
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 5). Demnach kann in dem Feld die entsprechende EBM schaftskennziffer“ angegeben werden, falls die Voraussetzung einer Ausnahmeindikation vorliegt.
+
+3.2.2.9 M10_9: 3110_Geschlecht
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 7). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht “ mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß  Tabelle 11 befüllt werden.
+
+3.2.2.10 M10_10: 4231_Kontrolluntersuchung_bekannte_Infektion
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 8).
+
+3.2.2.11 M10_11: 0000_SER
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 9).
+
+3.2.2.12 M10_12: 4221_ESS
+
+Es gelten die Ausführungen aus Kapitel
+
+3.2.2.13 M10_13: 4204_eingeschraenkter_Leistungsanspruch
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 10).
+
+3.2.2.14 M10_14: 0000_Erstveranlasser_BSNR
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 13). Demnach ist hier die BSNR bzw. die ASV tes einzutragen.
+
+3.2.2.15 M10_15: 0000_Erstveranlasser_LANR
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ gen]), Muster 10, Punkt 13). Demnach ist hier die lebenslange Arztnummer (LANR) des erstveranlassenden  Arztes einzutragen.
+
+3.2.2.16 M10_16: 8219_Abnahmedatum
+
+Das PDF- Formularfeld „ M10_16: 8219_Abnahmedatum “ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 „ Datumsfelder “.
+
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen Form TTMMJJ zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen.
+
+Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form JJJJMMTT.
+
+Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages angaben führende Nullen gesetzt.
+
+SEITE 39 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+
+3.2.2.1 „ M10_1: 4221_Kurativ “.
+
+], Muster 10, Punkt 11). Dort wird festgelegt, dass das Abnahmedatum in der
+
+Vordruckerläuterungen],  - Kennnummer für die „Knapp-
+
+Vordruckerläuterungen],  - Formularfeld „ M10_9:
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],  -Teamnummer des erstveranlassenden Arz-
+
+Vordruckerläuterun-
+
+/ 9. FEBRUAR 2026 / VERSION: 2.31 - und Monats-
+
 
 ---
 
@@ -3166,12 +3187,16 @@ Eine vom Einsender vergebene Identi- fikation für den Auftrag. Die Befüllung  
 
 ---
 
-| 3.4.2 |  | Formularfelder | | digitales Muster | 39 |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| Abbildung | 8: | Formularfelder | des digitalen | Musters | 39 |  |  |  |  |
-| SEITE | 49 VON | 102 / KBV | / | TECHNISCHES HANDBUCH | DIGITALE | VORDRUCKE | / 9. FEBRUAR | 2026 / | VERSION: 2.31 |
+**3.4.2 Formularfelder digitales Muster 39**
 
-Formularfelder digitales Muster 39 Abbildung 8: Formularfelder des digitalen Musters 39 SEITE 49 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE   /  9. FEBRUAR 2026  /
+**Abbildung 8: Formularfelder des digitalen Musters 39**
+
+SEITE 49 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+
+/ 9. FEBRUAR 2026 /
+
+VERSION: 2.31
+
 
 ---
 
@@ -4219,14 +4244,16 @@ Qualifikation der ausstel- lenden/ verschreibenden  Person
 
 Typ der ausstellenden/  verschreibenden Person
 
-|  | 49 | qualification: |  |
-|---|---|---|---|
-|  |  | Berufsbezeichnung.code.text |  |
-| ASV-Fachgruppennummer | 147 | qualification:ASV- |  |
-| der ausstellenden/ ver- |  | Fachgruppennummer.code.codi |  |
-| schreibenden Person |  | ng.code |  |
+Berufsbezeichnung der  ausstellenden/ verschrei- benden Person
 
-Identifikator der ausstel- lenden/ verschreibenden  Person
+| ASV-Fachgruppennummer | 147 | qualification:ASV- |  |  |
+|---|---|---|---|---|
+| der ausstellenden/ ver- |  | Fachgruppennummer.code.codi |  |  |
+| schreibenden Person |  | ng.code |  |  |
+
+| Identifikator der ausstel- | 42 | identifier |  |  |
+|---|---|---|---|---|
+| lenden/ verschreibenden |  |  |  |  |
 
 SEITE 63 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
@@ -4236,17 +4263,15 @@ SEITE 63 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 41
 
-42
+49
 
 qualification:Typ.code
 
-identifier
+qualification:  Berufsbezeichnung.code.text
 
 / 9. FEBRUAR 2026
 
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist und das Feld  41 gemäß Tabelle 52 gleich „00“  oder „01“ oder „04“ ist und das  Feld 147 gemäß Tabelle 52 nicht  vorhanden ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  das Feld 7 gemäß Tabelle 52 gleich  „GKV“ oder „BG“ oder „SKT“ oder  „UK“ oder „PKV“ ist und das Feld  41 gemäß Tabelle 52 gleich „03“ ist  und der Block 50 gemäß Tabelle 52  nicht vorhanden ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  das Feld 41 gemäß Tabelle 52  gleich „02“ ist oder das Feld 147  gemäß Tabelle 52 vorhanden ist,  DANN  darf dieses Feld nicht angegeben  werden.  ANSONSTEN  ist dieses Feld optional.
-
-Berufsbezeichnung der ausstellenden/ verschrei- WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. / VERSION: 2.31
+Person WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 147 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 7 gemäß Tabelle 52 gleich „GKV“ oder „BG“ oder „SKT“ oder „UK“ oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „03“ ist und der Block 50 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 41 gemäß Tabelle 52 gleich „02“ ist oder das Feld 147 gemäß Tabelle 52 vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. / VERSION: 2.31
 
 
 ---
@@ -4319,12 +4344,12 @@ Qualifikation der verant- wortlichen Person
 
 Typ der verantwortlichen  Person
 
-Berufsbezeichnung der  verantwortlichen Person
-
-| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |  |
-|---|---|---|---|---|
-| der verantwortlichen Per- |  | ummer.code.coding.code |  |  |
-| son |  |  |  |  |
+|  | 58 | qualification:Berufsbezeichnung |  |
+|---|---|---|---|
+|  |  | .code.text |  |
+| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |
+| der verantwortlichen Per- |  | ummer.code.coding.code |  |
+| son |  |  |  |
 
 | Identifikator der verant- | 52 | Identifier |  |  |
 |---|---|---|---|---|
@@ -4338,7 +4363,7 @@ SEITE 65 VON 102 / KBV /
 
 51 qualification:Typ.code
 
-58 qualification:Berufsbezeichnung .code.text 52a identifier:ANR
+52a identifier:ANR
 
 TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
@@ -4346,7 +4371,7 @@ TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 gleich „03“ ist und das Feld 42 vor- handen ist und das Feld 51 gemäß  Tabelle 52 gleich „00“ oder „01“  oder „04“ ist oder das Feld 41 ge- mäß Tabelle 52 gleich „04“ ist und  wenn das Feld 51 gemäß Tabelle 52  gleich „00“ oder „01“ oder „04“ ist,  DANN  kann dieser Block vorhanden  sein.  ANSONSTEN  darf dieser Block nicht vorhanden  sein.
 
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. Berufsbezeichnung der verantwortlichen Person WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
 
 
 ---
@@ -4886,14 +4911,17 @@ VersichertenID 19a identifier:versichertenId WENN der Versicherte sich elektroni
 
 **KBV_PR_FOR_PATIENT**
 
-| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |  |
-|---|---|---|---|---|
+| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |
+|---|---|---|---|
+| cherten |  | Mapping | in diesem Feld ein Datum angege- |
+|  |  | birthDate | ben wird, |
+|  |  | Wenn Wert nicht vorhanden, | DANN |
+|  |  | gilt Mapping | darf das Datum nicht nach dem |
+|  |  | birthDate.extension:data-absen | Ausstellungsdatum liegen. |
+|  |  | t-reason.value[x]:valueCode = |  |
+|  |  | unknown |  |
 
-cherten
-
-| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
-|---|---|---|---|---|
-| cherten |  |  |  |  |
+Straßenadresse des Versi- cherten
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -4909,7 +4937,9 @@ Anschriftenzusatz der Ver- sichertenanschrift
 
 SEITE 74 VON 102 / KBV /
 
-TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 28
+TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 27
+
+28
 
 29
 
@@ -4921,7 +4951,7 @@ TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 28
 
 33
 
-Mapping  birthDate  Wenn Wert nicht vorhanden,  gilt Mapping  birthDate.extension:data-absen t-reason.value[x]:valueCode =  unknown
+address:Strassenanschrift
 
 address:Strassenanschrift.coun try
 
@@ -4937,17 +4967,18 @@ Wenn Straßenname und/oder  Hausnummer vorhanden, gilt  Mapping
 
 / 9. FEBRUAR 2026 / VERSION: 2.31
 
-in diesem Feld ein Datum angege- ben wird,  DANN  darf das Datum nicht nach dem  Ausstellungsdatum liegen.
+WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.  ANSONSTEN  darf dieser Block nicht angegeben  werden.
 
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 28  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
-WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
 **KBV_PR_FOR_PATIENT**
 
-Postfachanschrift des Ver- sicherten
+| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
+|---|---|---|---|---|
+| sicherten |  |  |  |  |
 
 Wohnsitzländercode der  Versicherten-Postfachan- schrift
 
@@ -4961,9 +4992,7 @@ Postfach der Versicher- ten-Postfachanschrift
 
 2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.
 
-SEITE 75 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 34
-
-35
+SEITE 75 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 35
 
 36
 
@@ -4972,8 +5001,6 @@ SEITE 75 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 34
 38
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
-
-address:Postfach
 
 address:Postfach.country
 
@@ -4985,10 +5012,9 @@ address:Postfach.line.extension :Postfach.value[x]:valueString
 
 / 9. FEBRUAR 2026 / VERSION: 2.31
 
-WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.  ANSONSTEN  darf dieser Block nicht angegeben  werden.
-
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 35  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
+WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
@@ -5108,17 +5134,22 @@ KBV_ITA_VGEX_Techni-
 
 ---
 
-| 5 |  |  | ÜBERTRAGUNGSWEG | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Die | Softwarenutzer | | und | somit auch | der | Softwarehersteller | müssen | einen | Übertragungsweg |  | einsetzen, wel- |
-| cher | den | Anforderungen | | der Anlage | 2b des | BMV -Ä | entspricht | (siehe: [Anlage | 2b]) bzw. | einen | Übertragungs- |
-| weg aus | den |  | entsprechenden |  | Technischen | Anlagen, sofern | diese | Übertragungswege | | vorhanden | sind. |
-| Da | digitale | Muster |  | ausschließlich | mit einem | PVS erstellt | werden, | muss die | Übergabe | bzw. | Entgegennahme |
-| des | digitalen | Musters | zum | bzw. | aus dem | Übertragungsweg | mit der | entsprechenden | | Praxissoftware | möglich |
-| sein. | Diese | Möglichkeit | ist | im Rahmen | der | Zertifizier ung | nachzuweisen. |  |  |  |  |
-| SEITE | 78 VON 102 | / | KBV / | TECHNISCHES | HANDBUCH | DIGITALE VORDRUCKE | / 9. FEBRUAR | 2026 / | VERSION: 2.31 |  |  |
+5
 
-Die Softwarenutzer und somit auch der Softwarehersteller müssen einen Übertragungsweg einsetzen, wel- cher den Anforderungen der Anlage 2b des BMV weg aus den entsprechenden Technischen Anlagen, sofern diese Übertragungswege vorhanden sind. Da digitale Muster ausschließlich mit einem PVS erstellt werden, muss die Übergabe bzw. Entgegennahme des digitalen Musters zum bzw. aus dem Übertragungsweg mit der entsprechenden Praxissoftware möglich sein. Diese Möglichkeit ist im Rahmen der Zertifizier SEITE 78 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE -Ä entspricht (siehe: [Anlage 2b]) bzw. einen Übertragungs- ung nachzuweisen.   /  9. FEBRUAR 2026  /  VERSION: 2.31
+## ÜBERTRAGUNGSWEG
+
+Die Softwarenutzer und somit auch der Softwarehersteller müssen einen Übertragungsweg einsetzen, wel- cher den Anforderungen der Anlage 2b des BMV weg aus den entsprechenden Technischen Anlagen, sofern diese Übertragungswege vorhanden sind.
+
+Da digitale Muster ausschließlich mit einem PVS erstellt werden, muss die Übergabe bzw. Entgegennahme  des digitalen Musters zum bzw. aus dem Übertragungsweg mit der entsprechenden Praxissoftware möglich  sein. Diese Möglichkeit ist im Rahmen der Zertifizier
+
+SEITE 78 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+
+-Ä entspricht (siehe: [Anlage 2b]) bzw. einen Übertragungs-
+
+ung nachzuweisen.
+
+/ 9. FEBRUAR 2026 / VERSION: 2.31
+
 
 ---
 

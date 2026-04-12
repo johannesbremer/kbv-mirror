@@ -4206,12 +4206,10 @@ nein ja
 
 ---
 
-| Tabelle | 4: | Bezeichnung | und | Bedeutung der | konkreten Felder | des Medikationsplans | mit ihrer |
-|---|---|---|---|---|---|---|---|
-|  | Verwendung | im | Ausdruck und | Carriersegment. |  |  |  |
-| Anlage | 3 – | Spezifikation | BMP Version | 2.7 vom | 15.07.2022 69 |  |  |
+Tabelle 4: Bezeichnung und Bedeutung der konkreten Felder des Medikationsplans mit ihrer  Verwendung im Ausdruck und Carriersegment.
 
-Tabelle 4: Bezeichnung und Bedeutung der konkreten Felder des Medikationsplans mit ihrer Verwendung im Ausdruck und Carriersegment. Anlage 3 – Spezifikation BMP Version 2.7 vom 15.07.2022 69
+Anlage 3 – Spezifikation BMP Version 2.7 vom 15.07.2022 69
+
 
 ---
 
@@ -4819,22 +4817,16 @@ enthalten, kein Serverzugriff notwendig
 
 ---
 
-| genutzte |  | Standards: | ISO 3166-1 |  | (Länderkennzeichen) | |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-| ISO | 639-1 |  | (Sprachkennzeichen) |  |  |  |  |  |  |
-| ISO/IEC | 15415 |  | (Druckqualität) |  |  |  |  |  |  |
-|  | ISO/IEC | 16022 | (Datamatrix-Barcode) | |  |  |  |  |  |
-| ISO | 8601 | (Datumswerte) | |  |  |  |  |  |  |
-| ISO/IEC | 15434 | (ggf. | zur | Einbettung | des | Carriersegments) | |  |  |
-|  | ISO/IEC | 8859-1(Latin-1, | | Zeichensatz | des |  |  |  |  |
-|  |  |  |  |  | Carriersegments) | |  |  |  |
-| RFC | 5322 | (E-Mail-Adresse) | |  |  |  |  |  |  |
-|  | Langzeitdokumentation: | | Der | Medikationsplan | | muss für | maximal | 1 | Jahr eingelesen |
-|  |  |  |  |  | werden | können und | ist nicht | für |  |
-|  |  |  |  |  |  | Langzeitarchivierungszwecke | | | konzipiert. |
-| Anlage | 3 – | Spezifikation | BMP Version | 2.7 vom | 15.07.2022 | 82 |  |  |  |
+genutzte Standards: ISO 3166-1 (Länderkennzeichen)  ISO 639-1 (Sprachkennzeichen)  ISO/IEC 15415 (Druckqualität)  ISO/IEC 16022 (Datamatrix-Barcode)  ISO 8601 (Datumswerte)  ISO/IEC 15434 (ggf. zur Einbettung des Carriersegments)  ISO/IEC 8859-1(Latin-1, Zeichensatz des
 
-genutzte Standards: ISO 3166-1 (Länderkennzeichen)   ISO 639-1 (Sprachkennzeichen)  ISO/IEC 15415 (Druckqualität)  ISO/IEC 16022 (Datamatrix-Barcode)  ISO 8601 (Datumswerte)  ISO/IEC 15434 (ggf. zur Einbettung des Carriersegments)  ISO/IEC 8859-1(Latin-1, Zeichensatz des  RFC 5322 (E-Mail-Adresse) Langzeitdokumentation: Der Medikationsplan muss für maximal 1 Jahr eingelesen Anlage 3 – Spezifikation BMP Version 2.7 vom 15.07.2022 82 werden können und ist nicht für Langzeitarchivierungszwecke konzipiert.
+RFC 5322 (E-Mail-Adresse)   Langzeitdokumentation: Der Medikationsplan muss für maximal 1 Jahr eingelesen
+
+Anlage 3 – Spezifikation BMP Version 2.7 vom 15.07.2022 82
+
+Carriersegments)
+
+werden können und ist nicht für  Langzeitarchivierungszwecke konzipiert.
+
 
 ---
 

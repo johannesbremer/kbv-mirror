@@ -1,13 +1,18 @@
-|  | Elektronische | |  | Sammelerklä - |
-|---|---|---|---|---|
-| rung | (eSE) |  |  |  |
-|  |  | Schnittstellenbeschreibung | |  |
-| © | kv.digital | GmbH |  |  |
-|  | Berlin 2020 |  |  |  |
-| Version | 1.21 |  |  |  |
-| Datum | 10.02.2020 |  |  |  |
+## Elektronische Sammelerklä
 
-Elektronische Sammelerklä rung (eSE) © kv.digital GmbH Version 1.21 Datum 10.02.2020
+## rung (eSE)
+
+## Schnittstellenbeschreibung
+
+© kv.digital GmbH
+
+Berlin 2020
+
+Version 1.21
+
+Datum 10.02.2020
+
+***-***
 
 
 ---
