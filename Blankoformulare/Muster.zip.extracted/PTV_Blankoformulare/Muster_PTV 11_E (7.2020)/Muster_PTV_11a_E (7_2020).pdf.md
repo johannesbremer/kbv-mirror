@@ -1,12 +1,8 @@
-## Ihre individuelle Information
-
-## zur Psychotherapeutischen
-
-## Sprechstunde
+## Ihre individuelle Information  zur Psychotherapeutischen  Sprechstunde
 
 Nähere Angaben zu den Empfehlungen
 
-Diagnose(n)/Verdachtsdiagnose(n) (im Klartext), weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
+Diagnose(n)/Verdachtsdiagnose(n)*** (im Klartext)***, weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
 
 **Ausfertigung Patient*in**
 
@@ -21,8 +17,6 @@ Unterschrift Patient*in,  ggf. der gesetzlichen Vertreter*innen Ausstellungsdatu
 Stempel / Unterschrift Therapeut*in
 
 Datum oder ggf. Daten der letzten 50 Minuten der Sprechstunde
-
-,
 
 **Ergebnis der Psychotherapeutischen Sprechstunde**
 
@@ -64,7 +58,7 @@ Bei Ihnen wurden keine Anhaltspunkte für eine  behandlungsbedürftige psychisch
 
 Die psychotherapeutische Behandlung kann in dieser Praxis  durchgeführt werden
 
-Die psychotherapeutische Behandlung kann NICHT in  dieser Praxis durchgeführt werden
+Die psychotherapeutische Behandlung kann **NICHT** in  dieser Praxis durchgeführt werden
 
 andere Maßnahmen außerhalb der gesetzlichen  Krankenversicherung
 
@@ -83,8 +77,6 @@ Name mitbehandelnde*r Ärztin/Arzt, Hausärztin/Hausarzt
 **Erklärung Patient*in**  Eine Kopie dieser Information darf erhalten:
 
 DatumUhrzeit
-
-:,
 
 ## PTV 11
 

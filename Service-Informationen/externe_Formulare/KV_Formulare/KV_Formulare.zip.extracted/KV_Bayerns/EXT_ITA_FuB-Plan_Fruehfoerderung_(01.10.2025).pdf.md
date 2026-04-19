@@ -1,80 +1,78 @@
-Krankenkasse bzw. KostenträgerZuzah- lungs- frei
+Krankenkasse bzw. KostenträgerZuzah- lungs-
 
-Zuzah- Name, Vorname des Versicherten lungs- pflicht
+frei
+
+Zuzah- Name, Vorname des Versicherten lungs-
+
+pflicht
 
 Unfall- folgen
 
 Kostenträgerkennung Versicherten-Nr. BVG
 
-Betriebsstätten-Nr. Arzt-Nr.
+geb. am
+
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.Datum
 
 Geschlecht:
 
-**Kontaktdaten der Personensorgeberechtigten** Name, Vorname
+### Kontaktdaten der Personensorgeberechtigten
 
-## Förder- und Behandlungsplan für Komplexleistungen gemäß Rahmenvertrag zur Früherkennung
+Name, Vorname Telefonnummer
 
-und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für Ärztin / Arzt / Frühförderstelle / Personensorgeberechtigte / Kostenträger -
+## Förder- und Behandlungsplan für Komplexleistungen
 
-o Erstausstellung  voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher Beginn: ________________________ (Datum)
+und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für
+
+### Ärztin / Arzt
+
+/ Frühförderstelle / Personensorgeberechtigte / Kostenträger
+
+oErstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
-**Ärztin / Arzt: Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten**  Körperfunktionen und –strukturen):  ________________________________________________________________________________________________________________________________
+**Ärztin / Arzt:** Diagnose/Befund (unter Angabe der Leitsymptomatik und Beschreibung der betroffenen/relevanten  Körperfunktionen und –strukturen):  ________________________________________________________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________
 
-**ICD 10 (Bitte stets angeben): _______________________________________________________________________________________________________**
+**ICD 10** (Bitte stets angeben): _______________________________________________________________________________________________________
 
-**IFS Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen):**  ________________________________________________________________________________________________________________________________
+**IFS** Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen): ________________________________________________________________________________________________________________________________
 
 Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an der Gesellschaft im Sinne von §§ 1, 2 SGB IX als Wechselwirkung zwischen  einstellungs- und umweltbedingten Barrieren und einer
 
-körperlichen Beeinträchtigung  geistigen Beeinträchtigung  seelischen Beeinträchtigung  Sinnesbeeinträchtigung
+drohtliegt vor körperlichen Beeinträchtigung oo geistigen Beeinträchtigung oo ooseelischen Beeinträchtigung  Sinnesbeeinträchtigung oo
 
-Offenes Beratungsangebot wurde durchgeführt  Komplexleistung ist notwendig
+Offenes Beratungsangebot wurde durchgeführt oja Komplexleistung ist notwendig oja
 
-Form und Umfang der Behandlung:
+Form und Umfang der Behandlung:  ambulante  **Einzel**behandlung
 
-Physiotherapieo o Stimm-, Sprech-, Sprach- und Schlucktherapie o Ergotherapie
+Physiotherapie__ BE o je Monat o
+
+o Stimm-, Sprech-, Sprach- und Schlucktherapie o Ergotherapie
 
 o psychologische/  heilpädagogische Leistungen  (incl. evtl. psychosozialer Leistungen)
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
 
-o Folgeplanung o Änderungsplanung
-
-geb. am
-
-Status
-
-Datum
-
-Telefonnummer
-
-droht o o o o
-
-o ja o ja
-
-ambulante  **Einzel behandlung**
-
-__ BE o je Monat  __ BE o je Monat
-
 __ BE o je Monat
 
-__ BE (im Bewilligungszeitraum)
+__ BE o je Monat (im Bewilligungszeitraum)__ BE
 
-Für die Abrechnung
+Für die Abrechnung IK-Kennzeichen Leistungserbringer
 
 Gesamt-Brutto
 
 Positionsnummer
 
-liegt vor o o o o
+**Beginn**
 
-o nein o nein
+onein onein
 
-ambulante  **Gruppen behandlung**
+ambulante  **Gruppen**behandlung
 
 __ BE o je Monat  __ BE o je Monat
 
@@ -82,17 +80,19 @@ __ BE o je Monat
 
 __ BE (im Bewilligungszeitraum)
 
-IK-Kennzeichen Leistungserbringer
-
-Rechnungsnummer
+Rechnungsnummer Beleg Nr.
 
 Faktor/Anzahl
 
 Abweichende Adresse von Versichertendaten
 
+gemäß Rahmenvertrag zur Früherkennung
+
+: ________________________ (Datum)
+
 o Behandlung SIFS* erforderlich
 
-**mobile**  **Einzel behandlung**  gemäß § 6a FrühV
+**mobile**  **Einzel**behandlung  gemäß § 6a FrühV
 
 __ BE o je Monat  __ BE o je Monat
 
@@ -100,9 +100,7 @@ __ BE o je Monat
 
 __ BE (im Bewilligungszeitraum)
 
-Beleg Nr.
-
-kann als  **Doppel-BE er-** bracht werden
+kann als  **Doppel-BE** er- bracht werden
 
 o o
 
@@ -111,8 +109,8 @@ o
 
 ---
 
-___________________________________  **Ärztin / Arzt (Stempel, Unterschrift, Datum)**
+___________________________________  **Ärztin / Arzt** (Stempel, Unterschrift, Datum)
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
 
-_______________________________________________________________ **Interdisziplinäre Frühförderstelle / SIFS* (Stempel, Unterschrift, Datum)**
+_______________________________________________________________ **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum)

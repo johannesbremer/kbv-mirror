@@ -48,13 +48,11 @@ gültig ab:
 |---|---|
 | 9303 | Haus-/ Facharzt |
 
-Seite 1 von 1.2.276.0.76.3.1.1.5.2.31
+Seite 1 von 1 / KBV / SCHLÜSSELTABELLE - S_GOS_KV_MS_VBEREICH 1.2.276.0.76.3.1.1.5.2.31
 
 1.03
 
 01.10.2025
-
-1 / KBV / SCHLÜSSELTABELLE - S_GOS_KV_MS_VBEREICH
 
 **Bezeichnung**
 

@@ -1,6 +1,4 @@
-# SPEZIFIKATION 116117 TERMINSERVICE
-
-# AUTHENTISIERUNG
+# SPEZIFIKATION 116117 TERMINSERVICE  AUTHENTISIERUNG
 
 **Kassenärztliche Bundesvereinigung**
 
@@ -13,60 +11,92 @@ www.kbv.de
 
 **Inhalt**
 
-**1 EINLEITUNG...............................................................................................................4**
+**1 EINLEITUNG ............................................................................................................... 4**
 
-**2 GRUNDSÄTZLICHES...................................................................................................5**
+**2 GRUNDSÄTZLICHES................................................................................................... 5**
 
-**3 VORAUSSETZUNG......................................................................................................6**
+**3 VORAUSSETZUNG...................................................................................................... 6**
 
-**4 USE CASES.................................................................................................................7**
+**4 USE CASES................................................................................................................. 7**
 
 **4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7**
 
 **4.2 Online-Dienst ........................................................................................................................................7**
 
-**5 ANFORDERUNGEN**
+**5 ANFORDERUNGEN ..................................................................................................... 8**
 
 **5.1 Grundlage..............................................................................................................................................8**
 
-**5.2 Übergreifende Festlegung.....................................................................................................................8**
+**5.2 Übergreifende Festlegung .....................................................................................................................8**
 
 **5.3 Änderungen...........................................................................................................................................8**
 
-**6 REFERENZEN............................................................................................................14**
-
-**.....................................................................................................8**
+**6 REFERENZEN............................................................................................................ 14**
 
 
 ---
 
-**Änderungshistorie:**
+### Änderungshistorie
 
-**VERSION DATUM AUTOR KAPITEL ÄNDERUNGSTATUS**
+**VERSION**
 
-1.0 06.12.2024 kv.digital alle redaktionelle Änderungen nach in Kraft Kommentierung
+1.0
 
-3Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway
+0.1
 
-4Ergänzung Use Cases um Praxisausweis  (SMC-B oder SMB) und TI-Gateway
+Seite 3 von 14
 
-0.1 14.10.2024 kv.digital alle Initiale ErstellungEntwurf
+**DATUM**
 
-Seite 3 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+06.12.2024
+
+14.10.2024
+
+/ KBV / Spezifikation 116117 Terminservice Authentisierung
+
+**AUTOR**
+
+kv.digital
+
+kv.digital
+
+**KAPITEL**
+
+alle 3
+
+4
+
+alle
+
+**ÄNDERUNG**
+
+redaktionelle Änderungen nach  Kommentierung
+
+Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway
+
+Ergänzung Use Cases um Praxisausweis  (SMC-B oder SMB) und TI-Gateway
+
+Initiale Erstellung
+
+**STATUS**
+
+in Kraft
+
+Entwurf
 
 
 ---
 
-# 1 EINLEITUNG
+1 EINLEITUNG
 
 Dieses Dokument spezifiziert das Authentisierungsverfahren für externe Systeme zur Nutzung von Diensten  des 116117 Terminservice.
 
-Seite 4 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+4 14
 
 
 ---
 
-# 2 GRUNDSÄTZLICHES
+2 GRUNDSÄTZLICHES
 
 Das in dieser Spezifikation beschriebene Authentisierungsverfahren orientiert sich am Verfahren für die  Anmeldung von Primärsystemen von Leistungserbringern am E-Rezept-Fachdienst. Dieses Verfahren ist  durch die gematik u.a. im Dokument "Spezifikation Implementierungsleitfaden Primärsysteme - E-Rezept"  beschrieben.
 
@@ -76,72 +106,74 @@ Der in der [gemILF_PS_eRp] beschriebene Identity Provider (Zentraler IDP, vormal
 
 Es werden in dem hier beschriebenen Authentisierungsverfahren Praxen anhand der telematikID sowie  domainID und keine Personen authentisiert.
 
-Seite 5 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+5 14
 
 
 ---
 
-# 3 VORAUSSETZUNG
+3 VORAUSSETZUNG
 
 Praxen müssen folgende Voraussetzungen für die Nutzung des Authentisierungsverfahrens erfüllen:
 
 die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis benötigt einen gültigen Praxisausweis (SMC-B oder SMB), der Praxisausweis muss im Verzeichnisdienst der TI mit telematikID beginnend mit "1-20" und ihre BSNR  als domainID hinterlegt sein, die Praxis muss Zugriff auf ihren Konnektor oder ihr TI-Gateway haben und die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
 
-Seite 6 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+6 14
 
 
 ---
 
-# 4 USE CASES
+4 USE CASES
 
 Für die Authentisierung und Nutzung des 116117 Terminservice werden grundsätzlich 2 Use Cases  unterstützt.
 
-### 4.1 PRAXISVERWALTUNGSSYSTEM (PRIMÄRSYSTEM)
+**4.1 PRAXISVERWALTUNGSSYSTEM (PRIMÄRSYSTEM)**
 
 Das erste Use Case ist, dass in einer Praxis ein Praxisverwaltungssystem (Primärsystem) installiert ist und  direkten Zugriff auf den Konnektor oder das TI-Gateway und damit auch auf den Praxisausweis (SMC-B oder  SMB) hat. Das Praxisverwaltungssystem kommuniziert direkt mit dem 116117 Terminservice.
 
 **1 Use Case Praxisverwaltungssystem**
 
-### 4.2 ONLINE-DIENST
+**4.2 ONLINE-DIENST**
 
 Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen Browser. Der Online-Dienst  hat keinen direkten Zugriff auf den Konnektor oder das TI-Gateway der Praxis und damit auch keinen direkten  Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen der Praxis" direkt mit  dem 116117 Terminservice kommunizieren.
 
 **2 Use Case Online-Dienst**
 
-Seite 7 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+7 14
 
 
 ---
 
-# 5 ANFORDERUNGEN
+5 ANFORDERUNGEN
 
-### 5.1 GRUNDLAGE
+**5.1**
+
+## GRUNDLAGE
 
 Die Grundlage für die Spezifikation des hier beschriebenen Authentisierungsverfahrens sind das Kapitel "5.1  Allgemein" und seine Unterkapitel in [gemILF_PS_eRp]. Alle nachfolgenden Angaben beziehen sich auf die  Version 1.10.0.
 
-### 5.2 ÜBERGREIFENDE FESTLEGUNG
+**5.2 ÜBERGREIFENDE FESTLEGUNG**
 
 Es gelten alle Anforderungen aus "Kapitel 5.1 Allgemein" und seinen Unterkapiteln, sofern nachfolgend keine  Änderungen oder Ergänzungen dokumentiert sind.
 
-### 5.3 ÄNDERUNGEN
+**5.3 ÄNDERUNGEN**
 
 In allen Anforderungen wird "E-Rezept" durch "116117 Terminservice" ersetzt.
 
-**SPEZIFIKATION** **SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
 
 5.1.1  Kommunikation  zu den Diensten  der TI
 
-Seite 8 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
-
-**ANFORDERUNG**
-
 A_19451-01 -  PS:  Lokalisierung E- Rezept- Fachdienst
 
-A_19744 - PS:  Endpunkt  Schnittstelle E- Rezept
+A_19744 - PS:  Endpunkt
+
+Schnittstelle E- Rezept
 
 A_19234 - PS:  Kommunikation  über TLS- Verbindung
 
-A_19235 - PS:  Unzulässige  TLS- Verbindungen  ablehnen
+A_19235 - PS:
+
+Unzulässige  TLS- Verbindungen  ablehnen 8 14
 
 **ÄNDERUNGEN**
 
@@ -168,106 +200,244 @@ Text ausgetauscht mit:
 
 **SPEZIFIKATION** **SKAPITEL**
 
-5.1.2  Verschlüsselte  Kommunikation  zur VAU des E- Rezept  Fachdienstes
-
-Seite 9 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+5.1.2  Verschlüsselte  Kommunikation  zur VAU des E- Rezept  Fachdienstes 9 14
 
 **ANFORDERUNG**
 
-A_21568 - PS:  HTTP-Header X- erp-user
-
-A_21569 - PS:  HTTP-Header X- erp-resource
-
-A_19741 - PS:  Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
+A_21568 - PS:  HTTP-Header X-
 
 **ÄNDERUNGEN**
 
 Anforderung entfällt und muss nicht umgesetzt werden.
 
-Anforderung entfällt und muss nicht umgesetzt werden.
+erp-user
 
-Anforderung entfällt und muss nicht umgesetzt werden.
+A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X- erp-resource
+
+A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
 
 
 ---
 
-**SPEZIFIKATION ANFORDERUNG ÄNDERUNGEN** **SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
 
-5.1.3 Text geändert Zertifikatsprüfun von: g
+5.1.3  Zertifikatsprüfun g
 
-**AKTIVITÄT ZERTIFIKAT ZERTIFIKAT ROLLEN- NUTZU** **DER TI STYP OID NG**
+10 14
 
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum E-Rezept- Fachdienst
+**ÄNDERUNGEN**
 
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum  Verzeichnisdien st der TI
+Text geändert
 
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum IDP
+von:
 
-Aufbau sicherer jaC.FD.ENC oid_erp- aktiv Kanalvau zur VAU des E- Rezept- Fachdienstes
+**AKTIVITÄT**
 
-Nur für PS der jaC.FD.SIG oid_ereze aktiv abgebenden LEI:pt Signaturzertifika t Fachdienst
+TLS- Verbindungsauf bau zum E-Rezept- Fachdienst
+
+TLS- Verbindungsauf bau zum  Verzeichnisdien st der TI
+
+TLS- Verbindungsauf bau zum IDP
+
+Aufbau sicherer  Kanal zur VAU des E- Rezept- Fachdienstes
+
+Nur für PS der abgebenden LEI: Signaturzertifika t Fachdienst
 
 zu:
 
-**AKTIVITÄT ZERTIFIKAT ZERTIFIKAT ROLLEN- NUTZU** **DER TI STYP OID NG**
+**AKTIVITÄT**
 
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum 116117  Terminservice  Dienst
+TLS- Verbindungsauf bau zum 116117  Terminservice  Dienst
 
-Seite 10 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+**ZERTIFIKAT**  **DER TI**
+
+nein
+
+nein
+
+nein
+
+ja
+
+ja
+
+**ZERTIFIKAT**  **DER TI**
+
+nein
+
+**ZERTIFIKAT** **STYP**
+
+TLS Internet Zertifikat
+
+TLS Internet Zertifikat
+
+TLS Internet Zertifikat
+
+C.FD.ENC
+
+C.FD.SIG
+
+**ZERTIFIKAT** **STYP**
+
+TLS Internet Zertifikat
+
+**ROLLEN-** **OID**
+
+n/a
+
+n/a
+
+n/a
+
+oid_erp- vau
+
+oid_ereze pt
+
+**ROLLEN-** **OID**
+
+n/a
+
+**NUTZU** **NG**
+
+aktiv
+
+aktiv
+
+aktiv
+
+aktiv
+
+aktiv
+
+**NUTZU** **NG**
+
+aktiv
 
 
 ---
 
-**SPEZIFIKATION ANFORDERUNG ÄNDERUNGEN** **SKAPITEL**
-
-**AKTIVITÄT ZERTIFIKAT ZERTIFIKAT ROLLEN- NUTZU** **DER TI STYP OID NG**
-
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum  Verzeichnisdien st der TI
-
-TLS-neinTLS Internet n/a aktiv VerbindungsaufZertifikat bau zum IDP der  kv.digital
-
-Aufbau sicherer jaC.FD.ENC oid_erp- aktiv Kanalvau zur VAU des E- Rezept- Fachdienstes
-
-Nur für PS der jaC.FD.SIG oid_ereze aktiv abgebenden LEI:pt Signaturzertifika t Fachdienst
+**SPEZIFIKATION** **SKAPITEL**
 
 5.1.3.1  Zertifikatsprüfun g von  Zertifikaten der  TI
 
-A_20764 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Prüfung TI- Zertifikate
+5.1.4  Authentifizierun g der LEI 11 14
 
-5.1.4 Text geändert Authentifizierun von: g der LEI "Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
+**ANFORDERUNG**
+
+A_20764 - PS:  Prüfung TI- Zertifikate
+
+**ÄNDERUNGEN**
+
+**AKTIVITÄT**
+
+TLS- Verbindungsauf bau zum  Verzeichnisdien st der TI
+
+TLS- Verbindungsauf bau zum IDP der  kv.digital
+
+**ZERTIFIKAT**  **DER TI**
+
+nein
+
+nein
+
+Aufbau sicherer  Kanal zur VAU des E- Rezept- Fachdienstes
+
+Nur für PS der abgebenden LEI: Signaturzertifika
+
+ja
+
+ja
+
+t Fachdienst
+
+Anforderung entfällt und muss nicht umgesetzt werden.
+
+Text geändert
+
+von:
+
+"Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
 
 zu:
 
 "Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
 
-Seite 11 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+**ZERTIFIKAT** **STYP**
+
+TLS Internet Zertifikat
+
+TLS Internet Zertifikat
+
+C.FD.ENC
+
+C.FD.SIG
+
+**ROLLEN-** **OID**
+
+n/a
+
+n/a
+
+oid_erp- vau
+
+oid_ereze pt
+
+**NUTZU** **NG**
+
+aktiv
+
+aktiv
+
+aktiv
+
+aktiv
 
 
 ---
 
-**SPEZIFIKATION ANFORDERUNG ÄNDERUNGEN** **SKAPITEL**
+**SPEZIFIKATION** **SKAPITEL**
 
-5.1.4.1  Übergreifende  Festlegungen  zur Nutzung des  IDP-Dienstes
+5.1.4.1  Übergreifende  Festlegungen  zur Nutzung des  IDP-Dienstes 12 14
 
-A_20654 - Anforderung entfällt und muss nicht umgesetzt werden. Registrierung  des  Primärsystems
+**ANFORDERUNG**
 
-A_20655 - Text geändert Regelmäßiges  von: Einlesen des  Discovery "Der Downloadpunkt wird als Teil der organisatorischen Registrierung des  Document Primärsystems beim IDP-Dienst übergeben."
+A_20654 -  Registrierung  des  Primärsystems
+
+A_20655 -  Regelmäßiges  Einlesen des  Discovery  Document
+
+A_20656-01 -  Prüfung der  Signatur des  Discovery  Document
+
+A_20657 -  Prüfung der  Signatur des  Discovery  Document
+
+A_20658 -  Sicheres  Löschen der  Token
+
+**ÄNDERUNGEN**
+
+Anforderung entfällt und muss nicht umgesetzt werden.
+
+Text geändert
+
+von:
+
+"Der Downloadpunkt wird als Teil der organisatorischen Registrierung des  Primärsystems beim IDP-Dienst übergeben."
 
 zu:
 
 "Der Downloadpunkt wird von der kv.digital GmbH veröffentlicht."
 
-A_20656-01 - Anforderung entfällt und muss nicht umgesetzt werden. Prüfung der  Signatur des  Discovery  Document
+Anforderung entfällt und muss nicht umgesetzt werden.
 
-A_20657 - Anforderung entfällt und muss nicht umgesetzt werden. Prüfung der  Signatur des  Discovery  Document
+Anforderung entfällt und muss nicht umgesetzt werden.
 
-A_20658 - Text geändert Sicheres  von: Löschen der  Token"Das Primärsystem MUSS, wenn es absichtlich gestoppt oder deaktiviert  wird, vorhandene "ACCESS_TOKEN", "ID_TOKEN" und  "AUTHORIZATION_CODE"-Objekte sicher aus dem RAM löschen."
+Text geändert
+
+von:
+
+"Das Primärsystem MUSS, wenn es absichtlich gestoppt oder deaktiviert  wird, vorhandene "ACCESS_TOKEN", "ID_TOKEN" und  "AUTHORIZATION_CODE"-Objekte sicher aus dem RAM löschen."
 
 zu:
 
 "Das Primärsystem MUSS, wenn es absichtlich gestoppt oder deaktiviert  wird, vorhandene "ACCESS_TOKEN", "ID_TOKEN" und  "AUTHORIZATION_CODE"-Objekte sicher aus dem RAM löschen."
-
-Seite 12 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -275,8 +445,6 @@ Seite 12 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 **SPEZIFIKATION** **SKAPITEL**
 
 5.1.4.2 Abruf  von Token beim  IDP-Dienst
-
-Seite 13 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ANFORDERUNG**
 
@@ -290,7 +458,9 @@ A_20672-01 -  Annahme des  ID_TOKEN
 
 A_20674 -  Formale Prüfung  der Signatur des  ID_TOKEN
 
-A_20675 -  Gültigkeitsprüfu ng der Signatur  des ID_TOKEN  innerhalb der TI
+A_20675 -  Gültigkeitsprüfu
+
+ng der Signatur  des ID_TOKEN  innerhalb der TI 13 14
 
 **ÄNDERUNGEN**
 
@@ -333,11 +503,9 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 
 ---
 
-# 6 REFERENZEN
+6 REFERENZEN
 
 - [gemILF_PS_eRp]: Spezifikation Implementierungsleitfaden Primärsysteme - E-Rezept,
 - aktuelle Version: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/)
 - Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/
-- Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1
-
-Seite 14 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+- Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1 14 14

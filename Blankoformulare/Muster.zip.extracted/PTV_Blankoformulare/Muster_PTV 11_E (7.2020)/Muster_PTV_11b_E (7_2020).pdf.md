@@ -1,16 +1,10 @@
 **Ausfertigung Therapeut*in**
 
-## PTV 11
-
-## Ihre individuelle Information
-
-## zur Psychotherapeutischen
-
-## Sprechstunde
+## PTV 11Ihre individuelle Information  zur Psychotherapeutischen  Sprechstunde
 
 Nähere Angaben zu den Empfehlungen
 
-Diagnose(n)/Verdachtsdiagnose(n) (im Klartext), weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
+Diagnose(n)/Verdachtsdiagnose(n)*** (im Klartext)***, weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
 
 ***Diese Information enthält Ihren vorläufigen Befund***  ***und Empfehlungen zum weiteren Vorgehen.***
 
@@ -21,8 +15,6 @@ Ausstellungsdatum
 Stempel / Unterschrift Therapeut*in
 
 Datum oder ggf. Daten der letzten 50 Minuten der Sprechstunde
-
-,
 
 **Ergebnis der Psychotherapeutischen Sprechstunde**
 
@@ -64,7 +56,7 @@ Bei Ihnen wurden keine Anhaltspunkte für eine  behandlungsbedürftige psychisch
 
 Die psychotherapeutische Behandlung kann in dieser Praxis  durchgeführt werden
 
-Die psychotherapeutische Behandlung kann NICHT in  dieser Praxis durchgeführt werden
+Die psychotherapeutische Behandlung kann **NICHT** in  dieser Praxis durchgeführt werden
 
 andere Maßnahmen außerhalb der gesetzlichen  Krankenversicherung
 
@@ -75,8 +67,6 @@ Fachgebiet
 ICD-10 - GM endständig ICD-10 - GM endständig
 
 DatumUhrzeit
-
-:,
 
 Name, Vorname des Versicherten
 

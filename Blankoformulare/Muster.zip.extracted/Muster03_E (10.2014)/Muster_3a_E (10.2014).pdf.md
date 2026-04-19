@@ -1,8 +1,8 @@
-| Krankenkasse bzw. Kostenträger | | |
-| Name, Vorname des Versicherten | | |
-| Kostenträgerkennung | Versicherten-Nr. | |
+| **Krankenkasse bzw. Kostenträger** | | |
+| **Name, Vorname des Versicherten** | | |
+| **Kostenträgerkennung** | **Versicherten-Nr.** | |
 |---|---|---|
-| Betriebsstätten-Nr. | Arzt-Nr. | |
+| **Betriebsstätten-Nr.** | **Arzt-Nr.** | |
 
 **Zum Nachweis gegenüber der Krankenkasse** **(Beantragung von Mutterschaftsgeld) bescheinige ich** **dass die oben bezeichnete Versicherte** **voraussichtlich entbinden wird am**
 
@@ -36,17 +36,13 @@
 
 **Anschrift des Arbeitgebers**
 
-**,**
-
-**Straße, Haus-Nr.**
-
 **Erklärung:** **Änderungen meiner Angaben teile ich der Krankenkasse umgehend mit.** **Sofern sich der mutmaßliche Entbindungstermin verschiebt, informiere ich** **meine Krankenkasse und meinen Arbeitgeber bzw. die**
 
 **Datum**
 
-**BIC**
+**Straße, Haus-Nr.**
 
-**Zeugnis über den** **mutmaßlichen Tag** **der Entbindung**
+**Zeugnis über den 3** **mutmaßlichen Tag** **der Entbindung**
 
 **Ausfertigung für die Krankenkasse**
 
@@ -54,12 +50,12 @@
 
 **Geburtsdatum**
 
+**BIC**
+
 **gekündigt / befristet zum**
-
-**Unterschrift der Versicherten**
-
-**PRF.NR.** **Muster 3a/E (10.2014)**
 
 **Agentur für Arbeit.**
 
-Kostenträgerkennung Versicherten-Nr. geb. am Status Datum**3**
+**Unterschrift der Versicherten**
+
+Datum geb. am Status**PRF.NR.** **Muster 3a/E (10.2014)**

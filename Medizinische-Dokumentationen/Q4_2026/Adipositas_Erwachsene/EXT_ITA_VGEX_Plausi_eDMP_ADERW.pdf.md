@@ -1,8 +1,6 @@
-## - Anlage 24* -
+- Anlage 24* -
 
-## Plausibilitätsrichtlinie
-
-## zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
 
 ## des strukturierten Behandlungsprogramms
 
@@ -12,208 +10,119 @@
 
 **gültig ab 01.10.2025**
 
-**Version:** **1.0**
+### Version:
+
+**1.0**
 
 **Stand der Bearbeitung: 02.06.2025**
 
 **Version anzuwenden ab: 01.10.2026**
 
-* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Adipositas - Erwachsene Version 1.0 letzte Bearbeitung: 02.06.2025
-
 
 ---
 
-|  | Lfd. Nr. | Parameter | Ausprägung |  |  | Plausibilitätsregeln |  |
-|---|---|---|---|---|---|---|---|
-
-1a
-
-1b
-
-2
-
-3
-
-* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Adipositas - Erwachsene Version 1.0 letzte Bearbeitung: 02.06.2025
-
-Ziele zur regelmäßigen körperlichen  Alltagsaktivität und körperlichem  Training
-
-Ziele zur regelmäßigen körperlichen  Alltagsaktivität und körperlichem  Training seit der letzten  Dokumentation
-
-Regelmäßige körperliche  Alltagsaktivität
-
-Regelmäßiges körperliches Training 1
-
-2
-
-Therapeutische Maßnahmen
-
-Ziele vereinbart /  Keine Ziele vereinbart
-
-Ziele vereinbart oder überprüft /  Keine Ziele vereinbart oder überprüft
-
-Ja / Nein
-
-Ja / Nein
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig.
-
-Eine Angabe ist erforderlich, wenn die  Anlage 24* im Rahmen einer  Erstdokumentation auszufüllen ist.
-
-Eine Angabe im Rahmen einer  Folgedokumentation ist nicht zulässig.
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig.
-
-Eine Angabe ist erforderlich, wenn die  Anlage 24* im Rahmen einer  Folgedokumentation auszufüllen ist.
-
-Eine Angabe im Rahmen einer  Erstdokumentation ist nicht zulässig.
-
-Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-
----
-
-4a
-
-4b
-
-5
-
-6
-
-7
-
-* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Adipositas - Erwachsene Version 1.0 letzte Bearbeitung: 02.06.2025
-
-Ziele zur Ernährungsumstellung  oder zur Aufrechterhaltung der  Ernährungsänderung
-
-Ziele zur Ernährungsumstellung  oder zur Aufrechterhaltung der  Ernährungsänderung seit der  letzten Dokumentation
-
-Adäquat geändertes  Ernährungsverhalten
-
-Prädiabetes bei Einschreibung
-
-Bereits vor  DMP an  Adipositas-Schulung teilgenommen
-
-Einschreibung  einer
-
-Ziele vereinbart /  Keine Ziele vereinbart 1
-
-Ziele vereinbart oder überprüft /  Keine Ziele vereinbart oder überprüft 2
-
-Ja / Nein
-
-Ja / Nein  3
-
-Schulung
-
-in das Ja / Nein  multimodalen  1
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig.
-
-Eine Angabe ist erforderlich, wenn die  Anlage 24* im Rahmen einer  Erstdokumentation auszufüllen ist.
-
-Eine Angabe im Rahmen einer  Folgedokumentation ist nicht zulässig.
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig.
-
-Eine Angabe ist erforderlich, wenn die  Anlage 24* im Rahmen einer  Folgedokumentation auszufüllen ist.
-
-Eine Angabe im Rahmen einer  Erstdokumentation ist nicht zulässig.
-
-Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-Pflichtfeld
-
-Genau eine Angabe ist zulässig.
-
-Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig   Eine Angabe ist erforderlich, wenn die
-
-
----
-
-8
-
-9
-
-10
-
-* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Adipositas - Erwachsene Version 1.0 letzte Bearbeitung: 02.06.2025
-
-Adipositas-Schulung empfohlen (bei  aktueller Dokumentation)
-
-Adipositas-Schulung  wahrgenommen
-
-Manifester Diabetes mellitus Typ 2 2
-
-Relevante Ereignisse seit der letzten Dokumentation
-
-Ja / Nein
-
-Ja / Nein / War aktuell nicht möglich / Bei  Dokumentation keine Schulung empfohlen 4 Ja / Nein
-
-letzter  2
-
-Anlage 24* im Rahmen einer  Erstdokumentation auszufüllen ist.   Eine Angabe im Rahmen einer  Folgedokumentation ist nicht zulässig.  Pflichtfeld;  Genau eine Angabe ist zulässig
-
-Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig   Eine Angabe ist erforderlich, wenn die  Anlage 24* im Rahmen einer  Folgedokumentation auszufüllen ist.   Eine Angabe im Rahmen einer  Erstdokumentation ist nicht zulässig.
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-Eine Angabe ist erforderlich, wenn die  Anlage 24 Folgedokumentation auszufüllen  und  Angabe „ J a“ vorhanden ist.
-
-Eine Angabe ist nicht zulässig, wenn die  Anlage 24*
-
-wenn
-
-* im Rahmen
-
-gleichzeitig
-
-im Rahmen
-
-einer  ist  in Feld 6 die
-
-einer
-
-
----
-
-| 11 | 5 Beendigung der DMP-Teilnahme | Ja / Nein | Bedingtes Pflichtfeld; Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 24 * im Rahmen einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht zulässig. |
+|  |  | | |
 |---|---|---|---|
+| Lfd. Nr. | Parameter | Ausprägung | Plausibilitätsregeln |
+| Therapeutische Maßnahmen |  | | |
+| 1a | Ziele zur regelmäßigen körperlichen | Ziele vereinbart / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 1b | Ziele zur regelmäßigen körperlichen | Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 2 | Regelmäßige körperliche | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
+| 3 | Regelmäßiges körperliches Training | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
+|  |  |  | Lfd. Nr. Parameter |
+| Ausprägung | Plausibilitätsregeln |  | Therapeutische Maßnahmen   1a |
+| Ziele zur regelmäßigen körperlichen | Ziele vereinbart / | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 1b | Ziele zur regelmäßigen körperlichen | Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die |
+| Eine Angabe im Rahmen einer 2 | Regelmäßige körperliche Ja / Nein | | |
+| Pflichtfeld | Genau eine Angabe ist zulässig | 3 | Regelmäßiges körperliches Training Ja / Nein Pflichtfeld Genau eine Angabe ist zulässig |
+|  |  |  |  |
+|  |  | Lfd. Nr. | Parameter Ausprägung Plausibilitätsregeln |
+|  | Therapeutische Maßnahmen |  | 1a Ziele zur regelmäßigen körperlichen Ziele vereinbart /  Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die |
+| Eine Angabe im Rahmen einer 1b | Ziele zur regelmäßigen körperlichen Ziele vereinbart oder überprüft / | | |
+| Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer 2 Regelmäßige körperliche Ja / Nein |
+|  |  |  |  |
+|  | Lfd. Nr. Parameter | | |
+| Ausprägung Plausibilitätsregeln | Therapeutische Maßnahmen |  | 1a Ziele zur regelmäßigen körperlichen Ziele vereinbart /  Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die |
 
-1 Hinweis für die Ausfüllanleitung: Die Angabe ist nur bei der Erstdokumentation auszufüllen.  2 Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten und allen folgenden Dokumentationen (Folgedokumentation) zu machen.  3Hinweis für die Ausfüllanleitung: Der Prädiabetes wird wie folgt definiert: HbA1c 5,7% bis kleiner 6,5%, bei Patientinnen und Patienten ohne Diabetestherapie.
+Alltagsaktivität und körperlichem Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Alltagsaktivität Keine Ziele vereinbart  Keine Ziele vereinbart oder überprüft Anlage 24* im Rahmen einer Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig. Anlage 24* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
 
-Die Angabe, die im Rahmen einer Erstdokumentation erfolgt, wird als Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen. Kann im  Rahmen der Folgedokumentation keine Angabe aus der Erstdokumentation übernommen werden, wird das Feld mit „Nein“ unveränderbar vorbelegt.  4Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten Dokumentation und allen folgenden Dokumentationen (Folgedokumentation) zu machen und nur wenn  in Feld 6 (Prädiabetes) die Angabe „Ja“ vorhanden ist. Wenn in Feld 10 erstmalig „Ja“ angegeben wird, muss diese Antwortausprägung für alle weiteren Folgedokumentationen  unveränderbar übernommen werden.
+---
 
-5 Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP -Teilnahme durch die Krankenkasse “
+| Ziele zur Ernährungsumstellung Ziele vereinbart / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. | | |
+|---|---|---|---|
+| Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer | 4b | Ziele zur Ernährungsumstellung |
+| Ziele vereinbart oder überprüft /  Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die | | |
+| Eine Angabe im Rahmen einer | 5 | Adäquat geändertes | Ja / Nein Pflichtfeld Genau eine Angabe ist zulässig |
+| 6 | 3 | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig. |
+| Schulung |  |  | 7 Bereits vor Einschreibung in das |
+| Ja / Nein | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die |
+| 4a | Ziele zur Ernährungsumstellung | Ziele vereinbart / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 4b | Ziele zur Ernährungsumstellung | Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 5 | Adäquat geändertes | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
+| 6 | 3 | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig. |
+| Schulung |  | | |
+| 7 | Bereits vor Einschreibung in das | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die |
+|  |  |  | 4a Ziele zur Ernährungsumstellung Ziele vereinbart / |
+| Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer 4b Ziele zur Ernährungsumstellung |
+| Ziele vereinbart oder überprüft / | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer 5 Adäquat geändertes Ja / Nein Pflichtfeld Genau eine Angabe ist zulässig |
+| 6 | 3 Ja / Nein | | |
+| Pflichtfeld | Genau eine Angabe ist zulässig. |  | Schulung |
+|  |  |  | 4a Ziele zur Ernährungsumstellung Ziele vereinbart / |
+| Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer | | |
+| 4b Ziele zur Ernährungsumstellung | Ziele vereinbart oder überprüft /  Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer 5 Adäquat geändertes Ja / Nein Pflichtfeld Genau eine Angabe ist zulässig |
 
-* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Adipositas - Erwachsene Version 1.0 letzte Bearbeitung: 02.06.2025
+oder zur Aufrechterhaltung der 1 Ernährungsänderung oder zur Aufrechterhaltung der Ernährungsänderung seit der 2 letzten Dokumentation  Ernährungsverhalten Prädiabetes bei Einschreibung DMP an Adipositas-Schulung teilgenommen multimodalen Keine Ziele vereinbart  Keine Ziele vereinbart oder überprüft 1 Anlage 24* im Rahmen einer Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig. Anlage 24* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
 
-Folgedokumentation auszufüllen  und gleichzeitig in Feld 6 die Angabe  „Nein“ vorhanden ist.
+---
 
-Eine Angabe  Erstdokumentation ist nicht zulässig.
+|  | 8 Adipositas-Schulung empfohlen (bei | | |
+|---|---|---|---|
+| Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |  |
+| 9 Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei Bedingtes Pflichtfeld; | | |
+| Genau eine Angabe ist zulässig |  | Eine Angabe ist erforderlich, wenn die |  |
+| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 Manifester Diabetes mellitus Typ 2 Ja / Nein Bedingtes Pflichtfeld |
+| Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die | Eine Angabe ist nicht zulässig, wenn die |  |
+|  |  |  |  |
+| Anlage 24* im Rahmen einer |  |  | 8 Adipositas-Schulung empfohlen (bei Ja / Nein Pflichtfeld; |
+| Genau eine Angabe ist zulässig |  | 9 | Adipositas-Schulung Ja / Nein / War aktuell nicht möglich / Bei Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig |
+|  | Eine Angabe ist erforderlich, wenn die |  |  |
+| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 Manifester Diabetes mellitus Typ 2 Ja / Nein |
+| Bedingtes Pflichtfeld Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die Eine Angabe ist nicht zulässig, wenn die | | |
+|  |  |  |  |
+|  |  |  | Anlage 24* im Rahmen einer |
+| 8 | Adipositas-Schulung empfohlen (bei | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
+| 9 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die |
+| Relevante Ereignisse seit der letzten Dokumentation |  | | |
+| 10 | Manifester Diabetes mellitus Typ 2 | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Eine Angabe ist nicht zulässig, wenn die |
+|  |  |  | Anlage 24* im Rahmen einer |
+| 8 Adipositas-Schulung empfohlen (bei | Ja / Nein Pflichtfeld; | | |
+| Genau eine Angabe ist zulässig | 9 Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die |
 
-im Rahmen
+aktueller Dokumentation)  wahrgenommen Dokumentation keine Schulung empfohlen  Erstdokumentation auszufüllen ist.  Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. letzter Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht zulässig. Folgedokumentation auszufüllen und wenn gleichzeitig in Feld 6 die Angabe „ Ja“ vorhanden ist.
 
-ist
+---
 
-einer
+| Eine Angabe |  | | |
+|---|---|---|---|
+|  |  |  | 11 |
+| 5 | Ja / Nein Bedingtes Pflichtfeld; | | |
+| Genau eine Angabe ist zulässig |  | Eine Angabe ist erforderlich, wenn die | Eine Angabe  1 |
+| 2 | 3 | Die Angabe, die im Rahmen einer Erstdokumentation erfolgt, wird als Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen. Kann im | 4 5 |
+|  |  |  |  |
+|  |  |  |  |
+| Folgedokumentation auszufüllen | Eine Angabe |  |  |
+|  | 11 | 5 | Ja / Nein Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig |
+|  | Eine Angabe ist erforderlich, wenn die |  | Eine Angabe  1 |
+| 2 | 3 | Die Angabe, die im Rahmen einer Erstdokumentation erfolgt, wird als Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen. Kann im | 4 5 |
+|  |  | | |
+|  |  |  |  |
+|  |  |  | Folgedokumentation auszufüllen Eine Angabe |
+|  |  |  | 11 |
+| 5 |  | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die  Eine Angabe |
+| 1 2 | 3 Die Angabe, die im Rahmen einer Erstdokumentation erfolgt, wird als Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen. Kann im | | |
+| 4 | 5 |  |  |
+|  |  |  | Folgedokumentation auszufüllen Eine Angabe |
+|  |  | | |
+| 11 | 5 | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die  Eine Angabe |
+
+Beendigung der DMP-Teilnahme    Hinweis für die Ausfüllanleitung: Die Angabe ist nur bei der Erstdokumentation auszufüllen.  Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten und allen folgenden Dokumentationen (Folgedokumentation) zu machen. Hinweis für die Ausfüllanleitung: Der Prädiabetes wird wie folgt definiert: HbA1c 5,7% bis kleiner 6,5%, bei Patientinnen und Patienten ohne Diabetestherapie. Rahmen der Folgedokumentation keine Angabe aus der Erstdokumentation übernommen werden, wird das Hinweis für die Ausfüllanleitung: Diese Angabe ist erst bei der zweiten Dokumentation und allen folgenden Dokumentationen (Folgedokumentation) zu machen und nur wenn in Feld 6 (Prädiabetes) die Angabe „Ja“ vorhanden ist. Wenn in Feld 10 erstmalig „Ja“ angegeben wird, muss diese Antwortausprägung für alle weiteren Folgedokumentationen unveränderbar übernommen werden. Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP und gleichzeitig in Feld 6 die Angabe „Nein“ vorhanden ist. Erstdokumentation ist nicht zulässig. Anlage 24 Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Feld mit „Nein“ unveränderbar vorbelegt. -Teilnahme durch die Krankenkasse

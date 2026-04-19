@@ -1,4 +1,4 @@
-**Name, Vorname des Versicherten**
+**Name, Vorname des VersichertenKostenträgerkennung**
 
 ### Antrag des Versicherten
 
@@ -12,7 +12,7 @@
 
 **Name des Leistungserbringers / ggf. Stempel**
 
-**Anschrift (Straße,**
+**Anschrift** **(Straße,** **Hausnummer,** **PLZ,** **Wohnort)**  **ggf.**
 
 **Institutionskennzeichen des Leistungserbringers**
 
@@ -34,9 +34,9 @@
 
 **Die Genehmigung der Krankenkasse ist der Abrechnung beizufügen. Endet die Notwendigkeit vor Ablauf des** **angegebenen Zeitraums, so erlischt damit auch die Kostenverpflichtung.**
 
-**Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist rechtzeitig vor Ablauf des genehmigten** **Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen.**
+**Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist**  **Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen.**
 
-***Auszufüllen, soweit von Seiten der Krankenkasse Bed*** **Name, Vorname des Versicherten**
+***Auszufüllen, soweit von Seiten der Krankenkasse Bedarf besteht*** **Name, Vorname des Versicherten**
 
 **Straße, Hausnummer, PLZ, Wohnort**
 
@@ -44,23 +44,13 @@
 
 **Geburtsdatum**
 
-Hausnummer,
-
-**Kostenträgerkennung**
-
-PLZ, Wohnort)
-
-/ ggf.
-
-***arf besteht***
-
 **Versicherten-Nr.**
+
+**Datum**
 
 **vom**
 
-Stempel
-
-**Datum**
+**Stempel**
 
 **Datum**
 
@@ -68,12 +58,12 @@ Stempel
 
 **Unterschrift des Versicherten / Vertretungsberechtigten**
 
-**bis**
+**biserbracht.**
 
 **Stempel / Unterschrift des SAPV-Leistungserbringers**
+
+**rechtzeitig vor Ablauf des genehmigten**
 
 **Stempel / Unterschrift der Krankenkasse**
 
 **PRF.NR.** **Muster 63a.2/E (10.2014)**
-
-**erbracht.**

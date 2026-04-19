@@ -1,208 +1,104 @@
-# EPA
+# EPA FÜR ALLE – STAND DER EINFÜHRUNG KBV-ANBIETERMEETING,
 
-# FÜR ALLE – STAND DER EINFÜHRUNG
-
-# KBV-ANBIETERMEETING,
-
-# 18. SEPTEMBER 2025
+18. SEPTEMBER 2025
 
 DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 
 ---
 
-| ↗ |  |  | AKTUELLER | |  | STAND | | EPA |  | -ROLLOUT |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ | STAND | PVS |  | -ROLLOUT | | AUS | SICHT | DER | KBV |
-|  | ↗ | DATEN |  | DER | GEMATIK | |  |  |  |  |
-|  | ↗ | KOB |  |  |  |  |  |  |  |  |
-| ↗ |  | BLICK | IN |  | DIE |  |  | ARZTPRAXIS | |  |
-|  | ↗ |  | ANFORDERUNGEN | | |  | AN | DAS PVS |  |  |
-| EPA | FÜR | ALLE - | STAND DER | EINFÜHRUNG |  |  |  |  |  |  |
-|  |  | KBV-ANBIETERMEETING, | 18. | SEPTEMBER | 2025 |  |  |  |  |  |
+# AKTUELLER STAND EPA -ROLLOUT
 
-AKTUELLER STAND STAND PVS -ROLLOUT AUS SICHT DER KBV DATEN DER GEMATIK BLICK IN DIE ARZTPRAXIS ANFORDERUNGEN AN DAS PVS EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025SEITE 2
+## STAND PVS -ROLLOUT AUS SICHT DER KBV
+
+## DATEN DER GEMATIK KOB
+
+# BLICK IN DIE ARZTPRAXIS
+
+## ANFORDERUNGEN AN DAS PVS
 
 
 ---
 
-| ↗ |  |  | AKTUELLER | |  | STAND | | EPA |  | -ROLLOUT |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ | STAND | PVS |  | -ROLLOUT | | AUS | SICHT | DER | KBV |
-|  | ↗ | DATEN |  | DER | GEMATIK | |  |  |  |  |
-|  | ↗ | KOB |  |  |  |  |  |  |  |  |
-| ↗ |  | BLICK | IN |  | DIE |  |  | ARZTPRAXIS | |  |
-|  | ↗ |  | ANFORDERUNGEN | | |  | AN | DAS PVS |  |  |
-| EPA | FÜR | ALLE - | STAND DER | EINFÜHRUNG |  |  |  |  |  |  |
-|  |  | KBV-ANBIETERMEETING, | 18. | SEPTEMBER | 2025 |  |  |  |  |  |
+# AKTUELLER STAND EPA -ROLLOUT
 
-AKTUELLER STAND STAND PVS -ROLLOUT AUS SICHT DER KBV DATEN DER GEMATIK BLICK IN DIE ARZTPRAXIS ANFORDERUNGEN AN DAS PVS EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025SEITE 3
+## STAND PVS -ROLLOUT AUS SICHT DER KBV
+
+## DATEN DER GEMATIK KOB
+
+# BLICK IN DIE ARZTPRAXIS
+
+## ANFORDERUNGEN AN DAS PVS
 
 
 ---
 
 # Stand PVS
 
-# -Rollout aus Sicht der KBV
-
-## ›
+**-Rollout aus Sicht der KBV**
 
 ## Ca. 90% der Hersteller (gemessen am Marktanteil) haben der KBV Informationen geliefert
 
-## ›
+77% haben das ePA -Modul bereits ausgerollt oder planen es bis zum Start der
 
-## 77%  haben das ePA
+## Nutzungsverpflichtung auszurollen Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
-## -Modul bereits ausgerollt oder planen es bis zum Start der
-
-## Nutzungsverpflichtung auszurollen
-
-##  Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
-
-↗ STAND PVS-ROLLOUT
-
-**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
-SEITE 4
+**STAND PVS-ROLLOUT**
 
 
 ---
 
-|  | Daten | der |  | gematik | – | Aktuelle Nutzungszahlen |
+|  | **Daten** | **der** |  | **gematik** | **–** | **Aktuelle Nutzungszahlen** |
 |---|---|---|---|---|---|---|
-| EPA | FÜR ALLE | - STAND | DER | EINFÜHRUNG |  |  |
+| **EPA** | **FÜR ALLE** | **- STAND** | **DER** | **EINFÜHRUNG** |  |  |
 |  | KBV-ANBIETERMEETING, | | 18. | SEPTEMBER 2025 |  |  |
 
-|  |  |  | ↗ DATEN |  | GEMATIK |  |
-|---|---|---|---|---|---|---|
-|  |  |  |  |  | SEITE | 5 |
-| Quelle: | gematik | – | Statusupdate am | 16.09.2025 |  |  |
-
-Daten der gematik – EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025 ↗ DATEN GEMATIK Quelle: gematik – Statusupdate am 16.09.2025 SEITE 5
+Daten der gematik – **DATEN GEMATIK**
 
 
 ---
 
-# Stand – KOB
+# Stand – KOB Zertifizierung
 
-# –
+# Entspricht: 113.926 Installationen in den Praxen mit  KOB zertifizierten Systemen
 
-# Zertifizierung
+**KOB**
 
-## ›
+96%
 
-## Entspricht: 113.926 Installationen in den Praxen mit
+# KOB-zertifiziert 4%
 
-## KOB zertifizierten Systemen
+# NICHT KOB -zertifiziert
 
-↗ KOB
-
-# 96%
-
-# KOB-zertifiziert
-
-# 4%
-
-# NICHT KOB
-
-# -zertifiziert
-
-**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
-## ›
-
-## Entspricht: 4.375 Installationen in den Praxen ohne
-
-## KOB zertifiziertes System
-
-SEITE 6
+# › Entspricht: 4.375 Installationen in den Praxen ohne
 
 
 ---
 
-| ↗ |  |  | AKTUELLER | |  | STAND | EPA |  | -ROLLOUT |
-|---|---|---|---|---|---|---|---|---|---|
-|  | ↗ | STAND | PVS |  | -ROLLOUT | AUS | SICHT | DER | KBV |
-|  | ↗ | DATEN |  | DER | GEMATIK |  |  |  |  |
-|  | ↗ | KOB |  |  |  |  |  |  |  |
-| ↗ |  | BLICK | IN | DIE |  | PRAXIS | |  | ARZTPRAXIS |
-|  | ↗ |  | ANFORDERUNGEN | | | AN DAS | PVS |  |  |
-| EPA | FÜR | ALLE - | STAND DER | EINFÜHRUNG |  |  |  |  |  |
-|  |  | KBV-ANBIETERMEETING, | 18. | SEPTEMBER | 2025 |  |  |  |  |
+# AKTUELLER STAND EPA -ROLLOUT
 
-AKTUELLER STAND STAND PVS -ROLLOUT AUS SICHT DER KBV DATEN DER GEMATIK BLICK IN DIE PRAXIS ARZTPRAXIS ANFORDERUNGEN AN DAS PVS EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025SEITE 7
+## STAND PVS -ROLLOUT AUS SICHT DER KBV
+
+## DATEN DER GEMATIK KOB
+
+# BLICK IN DIE PRAXIS ARZTPRAXIS
+
+## ANFORDERUNGEN AN DAS PVS
 
 
 ---
 
-↗ BLICK IN DIE ARZTPRAXIS
+**1.**
 
-|  | 1. |  |  | Arztbrief |  | erstellen |
-|---|---|---|---|---|---|---|
-|  | 2. |  |  | Arztbrief | über KIM | versenden |
-|  | 3. |  |  | BMP | öffnen | |
-|  | 4. |  | BMP | als | PDF | abspeichern |
-|  | 5. |  |  | ePA | öffnen | |
-|  | 6. |  |  | Arztbrief | | suchen |
-| EPA | FÜR ALLE | - STAND | DER | EINFÜHRUNG |  |  |
-|  | KBV-ANBIETERMEETING, | | 18. | SEPTEMBER 2025 |  |  |
+**2.**
 
-## Metadaten des Arztbriefes ausfüllen
+**3.**
 
-## Arztbrief in die ePA einstellen
+**4.**
 
-## BMP suchen
+**5.**
 
-## Metadaten BMP ausfüllen
-
-## BMP in ePA einstellen
-
-## GOP 01647/01648 zusetzen
-
-## 7.
-
-## 8.
-
-## 9.
-
-## 10.
-
-## 11.
-
-## 12.
-
-Arztbrief erstellen Arztbrief über KIM versenden BMP öffnen BMP als PDF abspeichern ePA öffnen Arztbrief suchen EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025SEITE 8
-
-
----
-
-↗ BLICK IN DIE **ARZTPRAXIS**
-
-## ePA öffnen
-
-## Arztbrief suchen
-
-## 2.
-
-## 3.
-
-## 4.
-
-## 5.
-
-## 6.
-
-## 7.
-
-## 8.
-
-## 9.
-
-## 10.
-
-## 11.
-
-## 12.
+**6.**
 
 ## Arztbrief erstellen
 
@@ -212,6 +108,24 @@ Arztbrief erstellen Arztbrief über KIM versenden BMP öffnen BMP als PDF abspei
 
 ## BMP als PDF abspeichern
 
+## ePA öffnen
+
+## Arztbrief suchen
+
+**7.**
+
+**8.**
+
+**9.**
+
+**10.**
+
+**11.**
+
+**12.**
+
+**BLICK IN DIE ARZTPRAXIS**
+
 ## Metadaten des Arztbriefes ausfüllen
 
 ## Arztbrief in die ePA einstellen
@@ -224,63 +138,86 @@ Arztbrief erstellen Arztbrief über KIM versenden BMP öffnen BMP als PDF abspei
 
 ## GOP 01647/01648 zusetzen
 
-## 7.
 
-## 8.
+---
 
-## 9.
+**1.**
 
-## 10.
+**2.**
 
-## 11.
+**3.**
 
-## 12.
+**4.**
 
-# 7-
+**5.**
 
-# 8 Minuten
+**6.**
 
-## 1.
+## Arztbrief erstellen
 
-**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+## Arztbrief über KIM versenden
 
-SEITE 9
+## BMP öffnen 7-8 Minuten
+
+## BMP als PDF abspeichern
+
+## ePA öffnen
+
+## Arztbrief suchen
+
+**7.**
+
+**8.**
+
+**9.**
+
+**10.**
+
+**11.**
+
+**12.**
+
+## Metadaten des Arztbriefes ausfüllen
+
+**7.**
+
+## Arztbrief in die ePA einstellen
+
+**8.**
+
+**9.**
+
+## Metadaten BMP ausfüllen
+
+**10.**
+
+**11.**
+
+## GOP 01647/01648 zusetzen
+
+**12.**
+
+## BMP suchen
+
+## BMP in ePA einstellen
+
+**BLICK IN DIE ARZTPRAXIS**
 
 
 ---
 
-# Prozesse der
+# Prozesse der ePA -Nutzung in der Praxis
 
-# ePA
+**BLICK IN DIE ARZTPRAXIS**
 
-**-**
-
-# Nutzung in der Praxis
-
-↗ BLICK IN DIE ARZTPRAXIS
-
-## Status Quo
-
-## Soll-Status
-
-# 7-8
+## Status Quo Soll-Status 7-8
 
 # Minuten
 
-**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
-# Max. 1
-
-# Minute
-
-SEITE 10
-
 
 ---
 
-| Anforderungen | aus |  | Ärztlicher | & |
-|---|---|---|---|---|
-|  | Psychotherapeutischer | |  | Perspektive |
+**Anforderungen aus Ärztlicher &**  **Psychotherapeutischer Perspektive**
 
 | Aus |  | ärztlicher | und |
 |---|---|---|---|
@@ -288,79 +225,40 @@ SEITE 10
 |  | Perspektive |  | sind das |
 |  |  | „Anforderungen“ | |
 
-Anforderungen aus Ärztlicher & Psychotherapeutischer Perspektive Aus ärztlicher und Perspektive sind das
-
+Aus ärztlicher und Perspektive sind das
 
 ---
 
-# Wichtige Punkte der KBV
+# Wichtige Punkte der KBV Einstellen von Dokumenten (1)
 
-# –
+## So wenig Interaktionen  für den Benutzer wie  möglich
 
-# Einstellen von Dokumenten (1)
+**ANFORDERUNGEN AN DAS PVS**
 
-## So wenig Interaktionen
-
-## für den Benutzer wie
-
-## möglich
-
-↗ ANFORDERUNGEN AN DAS PVS
-
-QUELLE: KBV-ANBIETERMEETING, 11.09.2024
-
-## Wichtige Punkte: -
-
-## Unkomplizierte Übernahme der Metadaten -
-
-## Möglichkeit das Dokument direkt nach
-
-## Fertigstellung in die ePA hochzuladen -
-
-## Kein vollautomatisches Hochladen von
-
-## Dokumenten in die
-
-## einem Klick“
+QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
+-
 
 -
 
-## Für Anwender so konfigurierbar, dass: -
+## Bestätigung mit „
+
+-
+-
 
 ## Bei bestimmten Dokumententypen oder -
 
-## Bestimmten Patienten ein vollautomatisches
-
-## Hochladen erfolgen kann
-
-**EPA für Alle - Stand der Einführung** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
-## ePA  Bestätigung mit „ mit
-
-SEITE 12
+## Bestimmten Patienten ein vollautomatisches  Hochladen erfolgen kann
 
 
 ---
 
-# Wichtige Punkte der KBV
+# Wichtige Punkte der KBV Einstellen von Dokumenten (2)
 
-# –
+## Schnelle und einfache  Kennzeichnung von  Dokumenten
 
-# Einstellen von Dokumenten (2)
+**ANFORDERUNGEN AN DAS PVS**
 
-## Schnelle und einfache
-
-## Kennzeichnung von
-
-## Dokumenten
-
-↗ ANFORDERUNGEN AN DAS PVS
-
-QUELLE: KBV-ANBIETERMEETING, 11.09.2024
-
-**EPA für Alle - Stand der Einführung** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
-## Wichtige Punkte: -
+QUELLE: KBV-ANBIETERMEETING, 11.09.2024 -
 
 -
 
@@ -369,93 +267,64 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 -
 
 -
-
-## Mehrere Behandlungsdokumentationen
-
-## gleichzeitig in die ePA hochladen
-
-## Dokumente mit „nicht für die ePA-einstellbar“
-
-## kennzeichnen  Unmittelbar mit einem Klick
-
-## möglich
-
-## Gekennzeichnete Dokumente in der
-
-## Behandlungsdokumentation abspeichern
-
-## Versuch des Einstellens eines solchen Dokuments
-
-## ist durch das PVS zu unterbinden
-
-## Aufwandsarme Dokumentation der: -
 -
 
-## Einwilligung oder
+## Einwilligung oder -
 
 ## Des Widerspruchs des(der) Patient(in)
 
-SEITE 13
+## Unmittelbar mit einem Klick
 
 
 ---
 
-|  |  | Allgemeine | |  |  | Anforderungen |
-|---|---|---|---|---|---|---|
-|  |  |  |  |  | Einfache | Handhabung |
-|  |  | Patient | | Journey |  |  |
-|  |  |  | beachten | |  |  |
-|  | • | Stecken | der | eGK |  |  |
-|  | • | Suchen, |  | Lesen | und |  |
-|  |  |  | Herunterladen | | von |  |
-|  |  | Inhalten |  |  |  |  |
-|  | • | Einstellen | | von |  |  |
-|  |  |  | Dokumenten |  |  |  |
-| EPA | für Alle | - Stand | der | Einführung |  |  |
-|  | KBV-ANBIETERMEETING, | | 18. | SEPTEMBER | 2025 |  |
+# Allgemeine Anforderungen
 
-|  |  | Allgemeine | |
+## Einfache Handhabung
+
+## Patient Journey  beachten -
+
+## Stecken der eGK -
+
+## Suchen, Lesen und  Herunterladen von  Inhalten -
+
+Einstellen von  Dokumenten
+
+|  |  | **Allgemeine** | |
 |---|---|---|---|
-|  |  | Anforderungen | zur |
-|  | Nutzung | der | ePA |
+|  |  | **Anforderungen** | **zur** |
+|  | **Nutzung** | **der** | **ePA** |
 |  | Ladevorgänge | | dürfen |
 | die |  | Arbeitsprozesse | |
 |  | nicht |  | stören |
 
-## Möglichst
-
-## automatisierter
-
-## Workflow
-
-## Zeit für
+## Möglichst  automatisierter  Workflow
 
 ## Patientenversorgung ist
 
-## relevant
-
-↗ ANFORDERUNGEN AN DAS PVS
-
 QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
-Allgemeine Anforderungen Stecken der eGK Suchen, Lesen und Herunterladen von Einstellen von Einfache Handhabung Patient Journey EPA für Alle - Stand der Einführung KBV-ANBIETERMEETING, 18. SEPTEMBER 2025 Anforderungen zur Nutzung der ePA Ladevorgänge dürfen die Arbeitsprozesse nicht störenSEITE 14
+**ANFORDERUNGEN AN DAS PVS**
+
+## Zeit für
+
+Anforderungen zur Nutzung der ePA Ladevorgänge dürfen die Arbeitsprozesse nicht stören## relevant
 
 
 ---
 
-|  |  |  |  |  | ↗ DIGITAL UND NAH |
+|  |  |  |  |  | ↗ **DIGITAL UND NAH** |
 |---|---|---|---|---|---|
-|  |  |  | Positionspapier | Digitalisierung | beschlossen auf der VV im Mai 2025 |
-|  |  |  |  |  | SIEBEN THEMENFELDER |
-| Erarbeitet in | einem |  | gemeinsamen | |  |
-| Prozess mit | der | VV | 12/24-05/25 | |  |
+|  |  |  | **Positionspapier** | **Digitalisierung** | **beschlossen auf der VV im Mai 2025** |
+|  |  |  |  |  | **SIEBEN THEMENFELDER** |
+| *Erarbeitet in* | *einem* |  | *gemeinsamen* | |  |
+| *Prozess mit* | *der* | *VV* | *12/24-05/25* | |  |
 |  | Weitere | Informationen | unter | www.kbv.de/digitalisierung |  |
-|  |  |  |  |  | Plus FÜNF KERNFORDERUNGEN |
-| EPA | für Alle | - Stand | der | Einführung | SEITE 15 |
+|  |  |  |  |  | Plus **FÜNF KERNFORDERUNGEN** |
+| **EPA** | **für Alle** | **- Stand** | **der** | **Einführung** | SEITE 15 |
 |  |  | KBV-ANBIETERMEETING, | 18. | SEPTEMBER 2025 |  |
 
-Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 Erarbeitet in einem gemeinsamen Prozess mit der VV 12/24-05/25 Weitere Informationen unter www.kbv.de/digitalisierung EPA für Alle - Stand der Einführung KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
-
+Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025 Erarbeitet in einem gemeinsamen Prozess mit der VV 12/24-05/25
 
 ---
 

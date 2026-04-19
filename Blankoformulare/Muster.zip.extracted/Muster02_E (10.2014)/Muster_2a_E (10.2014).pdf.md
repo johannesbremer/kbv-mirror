@@ -2,15 +2,15 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung**
+**Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr.**
+**Betriebsstätten-Nr. Arzt-Nr.**
 
 **Diagnose**
 
-**Die Kostenverpflichtungserklärung** **der Krankenkasse** **des Krankenhauses**
+**Die** **Kostenverpflichtungserklärung** **der** **Krankenkasse** **vorbehalten;** **des** **Krankenhauses** **der**
 
-**Geschieht das** **abgelehnt werden;** **Leistungsanspruch besteht.**
+**Geschieht** **das** **nicht,** **so** **kann** **abgelehnt** **werden;** **es** **sei**  **Leistungsanspruch** **besteht.**
 
 **Vom Krankenhaus auszufüllen:**
 
@@ -18,30 +18,36 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Versicherten-Nr.**
+**geb. am**
 
-**Arzt-Nr.**
-
-vorbehalten; der
-
-nicht, so kann es sei
-
-**Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
-
-**geb. am** **Belegarzt-** **Notfallbehandlung**
-
-**Unfall, Versorgungs-** **Unfallfolgen leiden (BVG)** **Status** **Nächsterreichbare, geeignete Krankenhäuser**
+**Status**
 
 **Datum**
 
+**gegenüber** **deshalb** **bitte** **zuständigen**
+
+**die** **Kostenübernahme** **denn,** **es** **liegt**
+
+**Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
+
+**Belegarzt-**
+
+**behandlung**
+
+**Unfall,**  **Unfallfolgen** **Nächsterreichbare, geeignete Krankenhäuser**
+
+**2**
+
+**Notfall**
+
+**Versorgungs-** **leiden (BVG)**
+
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-gegenüber dem Krankenhaus bleibt deshalb bitte diese Verordn**ung vor** Aufsuchen zuständigen Krankenkasse vorlegen.
+**dem** **Krankenhaus** **bleibt** **diese** **Verordnung** **vor** **Aufsuchen** **Krankenkasse** **vorlegen.**
 
-die Kostenübernahme durch die**rankenkasse** K denn, es liegt ein Notfall vor, und**in e**
+**durch** **dierankenkasse** **K** **ein** **Notfall** **vor,** **undin** **e**
 
 **Stempel des Krankenhauses und Unterschrift**
 
 **Muster 2a/E (10.2014)** **PRF.NR.**
-
-**2**

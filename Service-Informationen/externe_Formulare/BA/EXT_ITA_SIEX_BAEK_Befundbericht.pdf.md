@@ -1,4 +1,6 @@
-**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT**  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12. 2021
+### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
+
+gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -6,52 +8,42 @@ Kundennummer: ___________________
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
+Patient/in befindet sich seit _____________
 
-Letzte Behandlung am
+Letzte Behandlung am _________________
 
 **Diagnosen:**
+
+regelmäßig [ ]
 
 **Aktuelle Beschwerden und Funktionseinschränkungen:**
 
 **Aktuelle Therapie:**
 
-Physiotherapie  Psychotherapie
+Physiotherapie [ ]
 
-Medikation (Medikamente bitte angeben):
+Medikation (Medikamente bitte angeben): [ ]
 
-Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.):
+Psychotherapie [ ]
 
-Hilfsmittel:
+Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.): [ ]
 
-AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
+**Hilfsmittel:** [ ]
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-_________________
-
-[ ]
-
-[ ]
+AM 6 ÄD – 1900.8_Befundbericht_BÄK_21.12
 
 BGL-Nummer: ______________
 
-[ ]
+gelegentlich  nicht in meiner Behandlung [ ][ ]
 
-[ ]
+17 12 2021
 
 
 ---
 
 **Arbeitsunfähigkeit:**
 
-längere AU-Zeiten (> 4 Wochen) oder mehr als 5 AU-Fälle innerhalb der letzten 12 Monate
+längere AU-Zeiten (> 4 Wochen) oder mehr als 5 AU -Fälle innerhalb der letzten 12 Monate
 
 derzeit besteht Arbeitsunfähigkeit
 
@@ -69,7 +61,7 @@ Sonstiges:
 
 **Spezielle Maßnahmen erforderlich? (fakultativ):**
 
-**Bitte fügen Sie diesem Befundbericht relevante Umedizinische nterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**medizinischeBitte fügen Sie diesem Befundbericht relevante Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **, vielen Dank.** **Kopie bei**
 
 Medizinische Unterlagen liegen bei
 
@@ -77,9 +69,7 @@ Ich bitte um Rücksendung der medizinischen Unterlagen
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift
-
-AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
+___________________________  Ort, Datum  Stempel und Unterschrift 12
 
 [ ]
 
@@ -95,9 +85,9 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
 
 [ ]
 
-Rückruf erbeten [ ]
+**Rückruf erbeten** [ ]
 
-Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 [ ]
 
@@ -122,20 +112,18 @@ An den
 
 Ärztlichen Dienst der  Agentur für Arbeit
 
-### Liquidation
+## Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
 | Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisung auf das folgende Konto:
-
-A M 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
+Ich bitte um Überweisung auf das folgende Konto: 12
 
 | Kontoinhaber/in |
 |---|
@@ -143,4 +131,4 @@ A M 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
 | BIC: |
 | Bank/Sparkasse: |
 
-für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

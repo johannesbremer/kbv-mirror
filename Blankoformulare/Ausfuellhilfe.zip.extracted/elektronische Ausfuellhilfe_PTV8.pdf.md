@@ -1,44 +1,36 @@
-|  | AUSFÜLLHILFE: | |  | FORMBLATT | PTV | 8 | – BRIEFUMSCHLAG |
-|---|---|---|---|---|---|---|---|
-|  | UNTERLAGEN | | FÜR | DAS |  |  | GUTACHTENVERFAHREN |
-| Seite 1 | von 2 / KBV | / Ausfüllhilfe: | Formblatt | PTV 8 – | Briefumschlag | / 1. | Januar 2025 |
+|  |
+|---|
 
-AUSFÜLLHILFE: FORMBLATT PTV 8 – BRIEFUMSCHLAG UNTERLAGEN FÜR DAS GUTACHTENVERFAHREN Seite 1 von 2  /  KBV  /  Ausfüllhilfe: Formblatt PTV 8 – Briefumschlag /  1. Januar 2025
+|  |
+|---|
+
+## BRIEFUMSCHLAGAUSFÜLLHILFE: FORMBLATT PTV 8
+
+## UNTERLAGEN FÜR DAS GUTACHTENVERFAHREN
+
 
 ---
 
 **ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
 
-**1. Chiffre Patient*in**  Geben Sie hier bitte die Chiffre der Patientin oder des Patienten an, die  der Unterlagen an die Gutachterin oder den Gutachter gewährleistet. Di fangsbuchstaben des Familien- bzw. Nachnamens der Patientin oder des Patienten sowie dem Geburtsda- tum im Format TTMMJJ.  **2. Begutachtung einer**  Geben Sie hier an, welche Psychotherapie die Krankenkasse die Unterlagen an eine passende Gutachterin bzw. einen passenden Gutachter übermit- teln kann. Für eine Analytisc eine Tiefenpsychologisch fundierte Psychothe rapie „TP“ oder für eine Verhaltenstherapie „VT“ an. Geben  Sie auch an, ob es sich um eine Kinder- und Jugendlichenpsychotherapie (KiJu)  pie für Erwachsene (Erw) handelt und in welchem Setting die Psychotherapie stattfinden soll (Einz handlung oder Gruppenbehand oder Psychotherapeuten auf Ausschluss von bestimmten Gutachterinnen oder Gutachtern besteht nicht.  Die zuständige Krankenkasse der Patientin oder des Patienten weist in Abhängigkeit von der beantragten  Psychotherapie eine hierfür bestellte Gutachterin bzw. einen hierfür bestellten Gutach nen und Gutachter dürfen in mehreren Bereichen be KiJu).  **3. Antragsart**  Geben Sie hier an, um welche Antragsart es sich handelt. Die Abkürzung „ LZT “ steht für Langzeittherapie,  die Abkürzung „ KZT “ für Kurzzeittherapie. Sie können hier
+**1.** **Chiffre Patient*in**
 
-**4. Inhalt**  Bestätigen Sie hier, dass alle erforderlichen Unterlagen entsprechend des Leitfadens PTV 3 vollständig im  Briefumschlag enthalten sind. Die Vollständigkeit der Unterlagen hilft, Rückfragen und Verzögerungen  Antrags- und Gutachtenverfahren zu vermeiden. **5. Erklärung Therapeut*in**  Bestätigen Sie hier, dass Sie den Bericht an die Gutachterin oder den Gutac fasst haben. Der im Briefumschlag enthaltene Bericht muss mit Datum und Unterschrift versehen sein.
+**2.** **Begutachtung einer**
+
+**3.** **Antragsart**
+
+**4.** **Inhalt**
+
+**5.** **Erklärung Therapeut*in**
+
+die pseudonymisierte Weitergabe Geben Sie hier bitte die Chiffre der Patientin oder des Patienten an, die  der Unterlagen an die Gutachterin oder den Gutachter gewährleistet. Die Chiffre besteht aus dem 1. An- fangsbuchstaben des Familien- bzw. Nachnamens der Patientin oder des Patienten sowie dem Geburtsda- tum im Format TTMMJJ.
+
+von der Patientin oder vom Patienten beantragt wurde, damit Geben Sie hier an, welche Psychotherapie die Krankenkasse die Unterlagen an eine passende Gutachterin bzw. einen passenden Gutachter übermit- he Psychotherapie“ geben Sie „AP“, für eine Systemische Therapie „ST“, für teln kann. Für eine Analytisc eine Tiefenpsychologisch fundierte Psychotherapie „TP“ oder für eine Verhaltenstherapie „VT“ an. Geben  Sie auch an, ob es sich um eine Kinder- und Jugendlichenpsychotherapie (KiJu) oder um eine Psychothera- pie für Erwachsene (Erw) handelt und in welchem Setting die Psychotherapie stattfinden soll (Einzelbe- handlung oder Gruppenbehandlung/Kombinationsbehandlung). Ein Anspruch durch Psychotherapeutinnen  oder Psychotherapeuten auf Ausschluss von bestimmten Gutachterinnen oder Gutachtern besteht nicht.  Die zuständige Krankenkasse der Patientin oder des Patienten weist in Abhängigkeit von der beantragten  ter zu. Gutachterin-Psychotherapie eine hierfür bestellte Gutachterin bzw. einen hierfür bestellten Gutach nen und Gutachter dürfen in mehreren Bereichen bestellt sein (z. B. AP Erw und TP Erw oder VT Erw und VT  KiJu).
+
+LZT steht für Langzeittherapie, Geben Sie hier an, um welche Antragsart es sich handelt. Die Abkürzung  die Abkürzung KZT für Kurzzeittherapie. Sie können hier nur ein Feld auswählen.
+
+Bestätigen Sie hier, dass alle erforderlichen Unterlagen entsprechend des Leitfadens PTV 3 vollständig im  im Briefumschlag enthalten sind. Die Vollständigkeit der Unterlagen hilft, Rückfragen und Verzögerungen  Antrags- und Gutachtenverfahren zu vermeiden.
+
+hter vollständig persönlich ver-Bestätigen Sie hier, dass Sie den Bericht an die Gutachterin oder den Gutac fasst haben. Der im Briefumschlag enthaltene Bericht muss mit Datum und Unterschrift versehen sein.
 
 **MEHR INFORMATIONEN**  Themenseite Psychotherapie: www.kbv.de/psychotherapie  Formulare & Ausfüllhilfen zum Download: www.kbv.de/html/formulare.php
-
-Seite 2 von 2 / KBV / Ausfüllhilfe: Formblatt PTV 8 – Briefumschlag / 1. Januar 2025
-
-he Psychothera pie“ geben Sie „AP“, für eine Systemische Therapie „ST“, für
-
-lung/Kombinationsbehandlung). Ein Anspruch durch
-
-von der Patientin oder vom Patienten
-
-stellt sein (z. B. AP Erw und TP Erw oder VT Erw und VT
-
-nur ein Feld auswählen.
-
-die pseudonymisierte Weitergabe  e Chiffre besteht aus dem 1. An-
-
-beantragt wurde, damit
-
-oder um eine Psychothera-
-
-Psychotherapeutinnen
-
-ter zu. Gutachterin-
-
-hter vollständig persönlich ver-
-
-elbe-
-
-im

@@ -1,18 +1,17 @@
-|  |  | PRÜFPAKET | |  | HEILMITTEL | |
+|  |  | **PRÜFPAKET** | |  | **HEILMITTEL** | |
 |---|---|---|---|---|---|---|
 |  |  |  |  | [KBV_ITA_AHEX_PRUEFPAKET_HEILMITTEL] | | |
-| Seite 1 | von 25 / KBV | / | Prüfpaket Heilmittel | / Version: | 2.4 / 13. | Januar 2023 |
+| Seite 1 | von 25 / | KBV / | Prüfpaket Heilmittel | / Version: | 2.4 / 13. | Januar 2023 |
 
-|  |  |  |  | KASSENÄRZTLICHE |
-|---|---|---|---|---|
-|  |  |  | BUNDESVEREINIGUNG | |
-| DEZERNAT |  | DIGITALISIERUNG | | UND IT |
-|  |  | IT IN | DER | ARZTPRAXIS |
-|  |  |  | 13. JANUAR | 2023 |
-|  |  |  | VERSION: | 2.4 |
-|  |  | DOKUMENTENSTATUS: | IN | KRAFT |
+|  |  | **KASSENÄRZTLICHE** | |
+|---|---|---|---|
+|  |  | **BUNDESVEREINIGUNG** | |
+| **DEZERNAT** |  | **DIGITALISIERUNG** | **UND IT** |
+|  | **IT IN** | **DER** | **ARZTPRAXIS** |
+|  |  | **13. JANUAR** | **2023** |
+|  |  |  | **VERSION: 2.4** |
+|  | **DOKUMENTENSTATUS:** | | **IN KRAFT** |
 
-PRÜFPAKET HEILMITTEL  Seite 1 von 25  /  KBV  /  Prüfpaket Heilmittel  /  Version: 2.4  /  13. Januar 2023 DEZERNAT DIGITALISIERUNG UND IT IT IN DER ARZTPRAXIS 13. JANUAR 2023 VERSION: 2.4 DOKUMENTENSTATUS: IN KRAFT
 
 ---
 
@@ -24,25 +23,25 @@ PRÜFPAKET HEILMITTEL  Seite 1 von 25  /  KBV  /  Prüfpaket Heilm
 
 **2**
 
-2.1  2.2  2.3  2.4  2.5
+2.1  2.2  2.3  2.4
+
+2.5
 
 **3**
 
-Seite 2 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+2
 
 **ALLGEMEINES**
 
-Rechtsgrundlage  Zertifizierungsablauf  Zertifizierungsportal  Zertifizierungsdokumente  Prüfunterlagen  Prüfvorgaben  1.6.1  1.6.2  1.6.3  1.6.4  1.6.5  1.6.6  1.6.7
+Rechtsgrundlage  Zertifizierungsablauf  Zertifizierungsportal  Zertifizierungsdokumente  Prüfunterlagen  Prüfvorgaben  1.6.1 Prüfstammdaten  1.6.2 Versichertendaten  1.6.3 Patientendaten für Prüffälle 01, 06 und 07 [XML_22]  1.6.4 Patientendaten für Prüffälle 02 bis 05 [XML_05]  1.6.5 Praxisdaten  Arztstempel  1.6.6 Heilmittelpreise  1.6.7 Falldarstellung
 
 **PRÜFFÄLLE**
 
-Maßnahmen der Physiotherapie  Maßnahmen der Podologischen therapie  Maßnahmen der Stimm ‐, Sprech ‐, Sprach ‐ und Schlucktherapie  Maßnahmen der Ergotherapie  Maßnahmen der Ernährungstherapie
+Maßnahmen der Physiotherapie  Maßnahmen der Podologischen therapie  Maßnahmen der Stimm Sprech Sprach und Schlucktherapie  Maßnahmen der Ergotherapie  Maßnahmen der Ernährungstherapie
 
-**REFERENZIERTE**
+**REFERENZIERTE** **DOKUMENTE**
 
-Prüfstammdaten  Versichertendaten  Patientendaten für Prüffälle 01, 06 und 07 [XML_22]  Patientendaten für Prüffälle 02 bis 05 [XML_05]  Praxisdaten / Arztstempel  Heilmittelpreise  Falldarstellung
-
-**DOKUMENTE**
+25            2023
 
 **4**
 
@@ -71,9 +70,9 @@ Prüfstammdaten  Versichertendaten  Patientendaten für Prüffälle 01, 06 und 0
 
 2.0
 
-Seite 3 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+3
 
-| Datum | Autor | Änderung | Begründung |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
 | 13.01.2023 | KBV | Anpassung Prüffall 01 | Erweiterung der |
 
@@ -84,17 +83,17 @@ Seite 3 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
 | 13.03.2020 | KBV | Konkretisierung des Prüfpakets |  |
 |---|---|---|---|
 | 15.01.2020 | KBV | Neufassung des Prüfpaketes | Änderung der |
-|  |  |  | Heilmittel ‐ Richtlinie |
+|  |  |  | Heilmittel‐Richtlinie |
 
 KBV
 
-KBV
+KBV 25
 
 Anweisung 8 und 9
 
 Konkretisierung des Prüfpakets
 
-Konkretisierung des Prüfpakets
+Konkretisierung des Prüfpakets 2023
 
 Solldaten
 
@@ -108,7 +107,7 @@ Solldaten
 
 5, 9,  15, 19
 
-Anpassung Prüffall 01  Erweiterung der  Konkretisierung des Prüfpakets   Neufassung des Prüfpaketes   Änderung der Alle
+Alle
 
 
 ---
@@ -123,114 +122,104 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1 RECHTSGRUNDLAGE**
+**1.1** **RECHTSGRUNDLAGE**
 
-Vertragsärzte sollen für die Verordnung von Heilmitteln in die Lage versetzt werden, die durch das GKV ‐ Versorgungsstärkungsgesetz im § 73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+Vertragsärzte sollen für die Verordnung von Heilmitteln in die Lage versetzt werden, die durch das GKV Versorgungsstärkungsgesetz im  73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
 
-**1.2 ZERTIFIZIERUNGSABLAUF**
+**1.2** **ZERTIFIZIERUNGSABLAUF**
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF ‐ Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E ‐ Mail  eingereichten Antrag auf Zertifizierung hochladen.  2. Eine Verzeichnis ‐ bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP ‐ Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E Mail  eingereichten Antrag auf Zertifizierung hochladen.  2. Eine Verzeichnis bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-Seite 4 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+4  25            2023
 
 
 ---
 
-**1.3 ZERTIFIZIERUNGSPORTAL**
+**ZERTIFIZIERUNGSPORTAL**
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System ‐ ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System ‐ ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  Stellen der Prüfnummer) oder des Systemnamens angefordert unter Angabe der System ID (die letzten drei  werden. Bitte beachten Sie, dass pro System bzw. System ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP ‐ Datei archiviert werden.
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log ‐ Dateien im .html oder .xml ‐ Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log Dateien im .html oder .xml Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-**1.4 ZERTIFIZIERUNGSDOKUMENTE**
+**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ftp://ftp.kbv.de/ita ‐ update/ bereit.  In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel ‐ Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ftp://ftp.kbv.de/ita update/ bereit.  In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel Referenzierte Dokumente.
 
-**1.5 PRÜFUNTERLAGEN**
+**1.5** **PRÜFUNTERLAGEN**
 
 Das Prüfpaket umfasst Prüffälle zur Verordnung von Heilmitteln in der vertragsärztlichen Versorgung.
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-› Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist.  › Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner  Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
+Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist.  Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner  Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
 
-Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF ‐ Format bereitzustellen  und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien  werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF ‐ Datei bereitgestellt  werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der  Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor  der dokumentierten Verordnung anzuordnen sind.
+Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF Format bereitzustellen  und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien  werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF Datei bereitgestellt  werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der  Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor  der dokumentierten Verordnung anzuordnen sind.  1<PrüffallNr.> .pdf  z.B. **PF01.pdf**
 
-<PrüffallNr.>
-
-________________  1 Nr. des Prüffalls
-
-Seite 5 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023 1 .pdf – z.B. PF01.pdf
+________________  1 Nr. des Prüffalls 5  25            2023
 
 
 ---
 
 Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermittelt werden und sollen  folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
-<PrüffallNr.> _[AnweisungsNr.]
+<PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01_1.mp4**
 
-Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP ‐ Archiv zu  übermitteln. Das ZIP ‐ Archiv muss mit „Zert_495_<SystemID>“ benannt werden. Die SystemID ergibt sich  aus den letzten drei Stellen der Prüfnummer.
+Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP Archiv zu  übermitteln. Das ZIP Archiv muss mit „Zert_495_<SystemID>“ benannt werden. Die SystemID ergibt sich  aus den letzten drei Stellen der Prüfnummer.
 
-Die Struktur des ZIP ‐ Archives sollte folgende Form aufweisen:
+Die Struktur des ZIP Archives sollte folgende Form aufweisen:
 
 **HINWEIS**
 
-Die Gesamtheit der im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe  von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung  zu erstellen.
+Die Gesamtheit der von 500 MB nicht  zu erstellen.
 
-**1.6**
+im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe  überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung
 
-**1.6.1**
+**1.6** **PRÜFVORGABEN**
+
+**1.6.1** **Prüfstammdaten**
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF”[PRF_Stammdaten] gekennzeichnet.
 
-**1.6.2**
+**1.6.2** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML ‐ Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML ‐ Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML Dateien mit Versichertenstammdaten:
 
-________________  2 Nr. der Anweisung  3 Gängiges Bild ‐ bzw. Videoformat
+________________  2 Nr. der Anweisung
 
-Seite 6 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+3 Gängiges Bild bzw. Videoformat 6  25
 
-**PRÜFVORGABEN**
-
-**Prüfstammdaten**
-
-**Versichertendaten**
-
-2.3.* – z.B. PF01_1.mp4
+2023
 
 
 ---
 
-› EF.VD  › EF.PD  › EF.GVD
+EF.VD  allgemeine EF.PD  persönliche EF.GVD  geschützte
 
-Die Erfassung der Patientendaten in den einzelnen Prüffälle kann entweder über das Einlesen (mit einer  sogenannten Import ‐ Schnittstelle) der XML ‐ Datei realisiert werden oder die Daten können im  Ersatzverfahren erfasst werden.
+Die Erfassung der Patientendaten sogenannten Import Schnittstelle) Ersatzverfahren erfasst werden.
 
 **HINWEIS**
 
-Die Verwendung einer Import ‐ Schnittstelle ist nur für Prüfzwecke erlaubt und muss im Produktivbetrieb  unterbunden werden.
+Die Verwendung einer Import unterbunden werden.
 
-**1.6.3**
+**1.6.3** **Patientendaten** **für**
 
 **FELDER**
 
@@ -268,7 +257,7 @@ Die Verwendung einer Import ‐ Schnittstelle ist nur für Prüfzwecke erlaubt u
 
 **DMP_Kennzeichnung**
 
-**1.6.4**
+**1.6.4** **Patientendaten**
 
 **FELDER**
 
@@ -276,17 +265,21 @@ Die Verwendung einer Import ‐ Schnittstelle ist nur für Prüfzwecke erlaubt u
 
 **Vorname**
 
-Seite 7 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**für**
 
-= allgemeine Versicherungsdaten  = persönliche Versichertendaten  = geschützte Versichertendaten
+7  25
 
-**Patientendaten für Prüffälle 01, 06 und 07 [XML_22]**
+Versicherungsdaten  Versichertendaten  Versichertendaten
 
-**Patientendaten für Prüffälle 02 bis 05 [XML_05]**
+in den einzelnen  der XML Datei realisiert
+
+Schnittstelle ist nur für
+
+**Prüffälle** **01,** **06** **und** **07**
 
 **INHALT**
 
-Schimmelpfennig ‐ Hammerschmidt Federmannssohn
+Schimmelpfennig Hammerschmidt
 
 Ingrid
 
@@ -298,7 +291,7 @@ von und zu der 31.01.2010
 
 M310119802
 
-Anneliese ‐ und Georg ‐ von ‐ Groscurth ‐ Plaetzchen 149 ‐ C
+Anneliese und Georg 149 C
 
 12489
 
@@ -312,11 +305,23 @@ W 108416214
 
 6
 
+**Prüffälle** **02** **bis** **05** **[XML_05]**
+
 **INHALT**
 
 Althaus
 
 Brigitte
+
+Prüffälle kann entweder über das Einlesen (mit einer  werden oder die Daten können im
+
+Prüfzwecke erlaubt und muss im Produktivbetrieb
+
+**[XML_22]**
+
+Federmannssohn
+
+von Groscurth Plaetzchen 2023
 
 
 ---
@@ -337,6 +342,22 @@ Brigitte
 
 **Ort**
 
+**INHALT**
+
+12.07.1978
+
+A120778335
+
+Potsdamer 19
+
+10117
+
+D
+
+Berlin
+
+Platz
+
 **WOP**
 
 **Versichertenart**
@@ -345,31 +366,43 @@ Brigitte
 
 **Kostentraegerkennung**
 
-**1.6.5**
+**1.6.5** **Praxisdaten**
 
-**Betriebsstättennummer (BSNR):**
+**Arztstempel**
 
-**BSNR ‐ Bezeichnung:**
+**Betriebsstättennummer**
 
-**Lebenslange Arztnummer (LANR):**
+**BSNR Bezeichnung:**
+
+**Lebenslange** **Arztnummer**
 
 **Arztname:**
 
 **Vorname:**
 
-**Straße und Hausnummer:**
+**Straße** **und** **Hausnummer:**
 
 **PLZ/Ort:**
 
 **Telefon:**
 
+72
+
+1
+
+W 109723913
+
+**(BSNR):**
+
+**(LANR):**
+
 **Telefax:**
 
-**E ‐ Mail ‐ Adresse:**
+**E Mail Adresse:**
 
-**1.6.6**
+**1.6.6** **Heilmittelpreise**
 
-Die Software verwendet im Rahmen des Zertifizierungsverfahren die folgenden Heilmittelpreise.
+Die Software verwendet im Rahmen des Zertifizierungsverfahren
 
 **HEILMITTEL**
 
@@ -379,35 +412,31 @@ Die Software verwendet im Rahmen des Zertifizierungsverfahren die folgenden Heil
 
 **KG**
 
-**KG ‐ Gerät**
+**KG Gerät**
 
-**KG im Bewegungsbad**
+**KG** **im** **Bewegungsbad**
 
-**KG ‐ ZNS**
+**KG ZNS**
 
-Seite 8 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+8  25
 
-**Praxisdaten / Arztstempel**
+391234511
 
-**Heilmittelpreise**
+Dr. med. Hans Topp Glücklich 838382202
 
-**INHALT**
+Topp Glücklich
 
-12.07.1978
+Hans
 
-A120778335
+Musterstr. 1 64283 Darmstadt
 
-Potsdamer Platz 19
+0211  1111111
 
-10117
+0211  2222222
 
-D
+[KM@Testpraxis.de](mailto:KM@Testpraxis.de)
 
-Berlin 72
-
-1
-
-W 109723913
+die folgenden Heilmittelpreise.
 
 **POSITIONSNUMMER**
 
@@ -421,23 +450,9 @@ X0507
 
 X0902
 
-X0710 391234511
+X0710 2023
 
-Dr. med. Hans Topp ‐ Glücklich 838382202
-
-Topp ‐ Glücklich
-
-Hans
-
-Musterstr. 1 64283 Darmstadt
-
-0211 / 1111111
-
-0211 / 2222222
-
-[KM@Testpraxis.de](mailto:KM@Testpraxis.de)
-
-**PREIS IN €**
+**PREIS** **IN**
 
 6,06
 
@@ -456,61 +471,17 @@ Musterstr. 1 64283 Darmstadt
 
 **HEILMITTEL**
 
-**KG ‐ ZNS ‐ Kinder**
+**KG ZNS Kinder**
 
 **KMT**
 
-**Motorisch ‐ funkt. Beh.**
+**Motorisch funkt.** **Beh.**
 
-**Motorisch ‐ funkt. Beh. Gruppe**
+**Motorisch funkt.** **Beh.** **Gruppe**
 
 **MT**
 
 **Nagelbearbeitung**
-
-**Standardisierte Heilmittelkombination**
-
-**Stimmtherapie ‐ 30**
-
-**Stimmtherapie ‐ 45**
-
-**Thermische Anwendungen**
-
-**Wärmetherapie**
-
-**Wärmetherapie mittels heiße Rolle**
-
-**Wärmetherapie mittels Ultraschall**
-
-**Warmpackung**
-
-Die Anzeige der Heilmittelpreisen im Verordnungsvorgang muss aktiviert sein.
-
-**1.6.7**
-
-Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
-
-**Überschrift des Prüffalls**
-
-Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel: 01) ist für den Dateinamen  der einzureichenden PDF ‐ bzw. Video ‐ Dateien (PDF ‐ Datei) zu verwenden.
-
-**Anweisungen**
-
-Zur Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Hierzu können die Festlegung  eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung gehören. Einem Prüffall  können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
-
-Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen sind. Falls  eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
-
-**HINWEIS**
-
-Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung, Fehlermeldung und  Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im Screenshot abgebildet werden.
-
-Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende  Kennzeichnung/Überschrift.
-
-Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit den vorgegebenen Daten  erstellt werden können.
-
-Seite 9 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-**Falldarstellung**
 
 **POSITIONSNUMMER**
 
@@ -526,23 +497,47 @@ X1201
 
 X8002
 
-X2001
+**Standardisierte** **Heilmittelkombination** X2001
 
-X3102
+**Stimmtherapie 30** X3102
 
-X3103
+**Stimmtherapie 45** X3103
 
-X4301
+**Thermische** **Anwendungen** X4301
 
-X1530
+**Wärmetherapie** X1530
 
-X1530
+**Wärmetherapie** **mittels** **heiße** **Rolle** X1530
 
-X1531
+**Wärmetherapie** **mittels** **Ultraschall** X1531
 
-X1501
+**Warmpackung** X1501
 
-**PREIS IN €**
+Die Anzeige der Heilmittelpreisen im Verordnungsvorgang muss aktiviert sein.
+
+**1.6.7** **Falldarstellung**
+
+Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
+
+**Überschrift** **des** **Prüffalls**
+
+Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel: 01) ist der einzureichenden PDF bzw. Video Dateien (PDF Datei) zu verwenden.
+
+**Anweisungen**
+
+Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen ErkennenZur können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Hierzu können eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung gehören. können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
+
+Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
+
+**HINWEIS**
+
+Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung, Fehlermeldung Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im Screenshot
+
+Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende Kennzeichnung/Überschrift.
+
+Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit den können. erstellt werden 9  25            2023
+
+**PREIS** **IN**
 
 41,41
 
@@ -572,14 +567,26 @@ X1501
 
 11,11
 
+für den Dateinamen
+
+von Fehleingaben  die Festlegung  Einem Prüffall
+
+sind. Falls
+
+und  abgebildet werden.
+
+vorgegebenen Daten
+
 
 ---
 
-**Liste der betroffenen Pflichtfunktionen des Anforderungskatalogs**
+**Liste** **der** **betroffenen** **Pflichtfunktionen** **des** **Anforderungskatalogs**
 
-Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 ‐ 08 Leitsymptomatik, […]).
+Die Pflichtfunktionen, die insbesondere  den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 08 Leitsymptomatik, […]).
 
-Seite 10 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+10  25
+
+2023
 
 
 ---
@@ -588,43 +595,53 @@ Seite 10 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
 
 ## PRÜFFÄLLE
 
-**2.1 MAßNAHMEN DER PHYSIOTHERAPIE**
+**MAßNAHMEN**
 
-**PRÜFFALL 01**
+**PRÜFFALL** **01**
 
-**Anweisung 1:**
+**DER** **PHYSIOTHERAPIE**
 
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Das Heilmittel gemäß  der Heilmittel ‐ Stammdatei muss per Freitext ergänzt werden. Dokumentieren Sie den vollständigen  Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein Video. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+**Anweisung** **1:**
 
-**FELDER MUSTER 13**   **Patient/Patientin**
+Erstellen Sie eine Verordnung mit folgenden Daten der Heilmittel Stammdatei muss per Freitext ergänzt Erfassungsdialog einschließlich möglicher Hinweissteuerung ausgedruckte Verordnung, sofern dies nach den
+
+**FELDER** **MUSTER** **13**   **Patient/Patientin**
 
 **Heilmittelbereich**
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-| Diagnose(n) | Fraktur des Tibiaschaftes mit Fraktur der Teil) |
-|---|---|
-|  | EX |
-| Heilmittelkatalog | a) b) |
-| Leitsymptomatik |  |
-| Heilmittelkatalog | Schädigung/Störung der Gelenkfunktion; Schädigung/Störung der Muskelfunktion |
-| Behandlungseinheiten | KMT als Doppelbehandlung |
+**Behandlungsrelevante** **Diagnose(n)**
 
-| Behandlungseinheiten | Wärmetherapie |
-|---|---|
-|  | 1 ‐ 3x wöch. |
-|  | Nein |
-|  | Ja |
-| innerhalb von | Nein |
-| weitere med. Befunde |  |
+**Diagnosegruppe**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
 
-› P3 ‐ 06 ICD ‐ 10 ‐ Code
+**patientenindividuelle** **Leitsymptomatik**
 
-Seite 11 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Ergänzendes** **Behandlungseinheiten** **Heilmittel**
+
+**Therapiefrequenz**
+
+**Therapiebericht**
+
+**Hausbesuch** **ja/nein**
+
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 06 ICD 10 Code 11  25
+
+(siehe Tabelle dieser Anweisung). Das Heilmittel gemäß  werden. Dokumentieren Sie den vollständigen  durch ein Video. Dokumentieren Sie die  Vorgaben möglich ist.
 
 **DATEN**
 
@@ -632,162 +649,188 @@ XML Verzeichnisname: XML_22
 
 S82.21
 
-Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  Fraktur des Tibiaschaftes mit Fraktur der Fibula (jeder  a) b)  Schädigung/Störung der Gelenkfunktion;  Schädigung/Störung der Muskelfunktion  KMT  als Doppelbehandlung  6  Ergänzendes  Heilmittel  Therapiefrequenz  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise  1 ‐ 3x wöch.  6
+Fraktur des Tibiaschaftes mit Fraktur der Fibula (jeder  Teil)
+
+EX
+
+a) b)
+
+Schädigung/Störung der Gelenkfunktion;  Schädigung/Störung der Muskelfunktion
+
+KMT *als* *Doppelbehandlung* 6
+
+Wärmetherapie 6 1 3x wöch.
+
+Nein
+
+Ja
+
+Nein
+
+**betroffen:**
+
+2023
+
 
 ---
 
-› P3 ‐ 07 Diagnosegruppe  › P3 ‐ 08 Leitsymptomatik  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 12 Behandlungsrelevante Diagnose(n)  › P3 ‐ 13 Therapiefrequenz  › P3 ‐ 14 Hausbesuch  › P3 ‐ 19 Heilmittel nach Maßgabe des Kataloges  › P3 ‐ 21 Verordnung von „vorrangigen Heilmitteln“  › P3 ‐ 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“  › P3 ‐ 25 Sortierte Auswahlliste der Heilmittel  › P3 ‐ 35 Einbindung von Heilmittelpreisen durch den Software ‐ Hersteller
+P3 07 Diagnosegruppe  P3 08 Leitsymptomatik  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge P3 12 Behandlungsrelevante Diagnose(n)  P3 13 Therapiefrequenz  P3 14 Hausbesuch  P3 19 Heilmittel nach Maßgabe des Kataloges  P3 21 Verordnung von „vorrangigen Heilmitteln“  P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“ P3 25 Sortierte Auswahlliste der Heilmittel  P3 35 Einbindung von Heilmittelpreisen durch den Software Hersteller
 
-**Anweisung 2:**
+**Anweisung** **2:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1). Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende folgende Einträge (siehe Tabelle dieser Anweisung).
 
-Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich einer möglichen  Hinweissteuerung durch Screenshots und die ausgedruckte Verordnung, sofern dies nach den Vorgaben  möglich ist.
+Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels Hinweissteuerung durch Screenshots und die ausgedruckte Verordnung, möglich ist.
 
-**FELDER MUSTER 13**
+**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten**
 
-**Heilmittel**
+**Ergänzendes** **Behandlungseinheiten** Wärmetherapie mittels **Heilmittel**
 
-**Ergänzendes**  **Heilmittel**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+P3 23 Eigenständige Verordnung eines „ergänzenden Heilmittels“ P3 04 Rückgriff auf Vorverordnung
 
-› P3 ‐ 23 Eigenständige Verordnung eines „ergänzenden Heilmittels“  › P3 ‐ 04 Rückgriff auf Vorverordnung
+**Anweisung** **3:**
 
-**Anweisung 3:**
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren durch Screenshots sowie die ausgedruckte Verordnung, sofern dies
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2). Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren Sie den Dialog der Heilmittelauswahl  durch Screenshots sowie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+**FELDER** **MUSTER** **13** **DATEN**
 
-**FELDER MUSTER 13**
+**Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination
 
-**Heilmittel**
+**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
 
-**Ergänzendes**  **Heilmittel**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+P3 24 Standardisierte Heilmittelkombination 12  25            2023
 
-› P3 ‐ 24 Standardisierte Heilmittelkombination
+Verordnung (Anweisung 1). Ändern Sie
 
-Seite 12 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+einschließlich einer möglichen  sofern dies nach den Vorgaben
 
-**Behandlungseinheiten**
+Ultraschall 6
 
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**DATEN**
-
-Wärmetherapie mittels Ultraschall
-
-**DATEN**
-
-Standardisierte Heilmittelkombination 6
+Verordnung (Anweisung 2). Ändern Sie  Sie den Dialog der Heilmittelauswahl  nach den Vorgaben möglich ist.
 
 6
 
 
 ---
 
-**Anweisung 4:**
+**Anweisung** **4:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 3). Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).  Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein  Video.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).  Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung Video.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
-**FELDER MUSTER 13**   **Heilmittel**
+**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im Bewegungsbad)
 
-**Ergänzendes**  **Heilmittel**
+**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
 
-|  | Pflichtfunktionen sind |
-|---|---|
-|  | Heilmittelkombination |
-|  | Verordnung durch Zugriff auf |
-|  | Tabelle dieser Anweisung). |
-|  | ausgedruckte Verordnung, |
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-**Heilmittel**
+P3 24 Standardisierte Heilmittelkombination
 
-**Ergänzendes**  **Heilmittel**
+**Anweisung** **5:**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).
 
-› P3 ‐ 24 Standardisierte Heilmittelkombination
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
-**Anweisung 6:**
+**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im  Bewegungsbad;MT;Wärmetherapie)
 
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 5) mit  denselben Einträgen. Dokumentieren Sie die möglichen Hinweistexte durch Screenshots und die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-› P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 24 Standardisierte Heilmittelkombination
+P3 24 Standardisierte Heilmittelkombination
 
-Seite 13 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**Anweisung** **6:**
 
-**Behandlungseinheiten**
+Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung denselben Einträgen. Dokumentieren Sie die möglichen Hinweistexte durch Screenshots ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
-**Behandlungseinheiten**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-**Behandlungseinheiten**
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 24 Standardisierte Heilmittelkombination 13  25            2023
 
-**Behandlungseinheiten**
+3). Ändern Sie
 
-**DATEN**
+möglich ist.
 
-Standardisierte Heilmittelkombination  (KG;KG im Bewegungsbad)
+6
 
-Standardisierte Heilmittelkombination  (KG;KG im  Bewegungsbad;MT;Wärmetherapie) 6
+durch ein 3). Ändern Sie
 
-Insbesondere folgende Pflichtfunktionen sind betroffen:  › P3 ‐ 24 Standardisierte Heilmittelkombination  Anweisung 5:  Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 3). Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.   FELDER MUSTER 13  DATEN 6
+möglich ist.
+
+6
+
+(Anweisung und die
+
+5) mit
 
 
 ---
 
-**Anweisung 7:**
+**Anweisung** **7:**
 
-Erstellen Sie fünf Mal eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 5).  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren Sie den vollständigen  Erfassungsdialog der fünften Verordnung einschließlich möglicher Hinweissteuerung durch ein Video.
+Erstellen Sie **fünf** Mal eine Verordnung durch Zugriff auf die zurückliegende Verordnung Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren Sie den Erfassungsdialog der **fünften** Verordnung einschließlich möglicher Hinweissteuerung durch
 
-Dokumentieren Sie die ausgedruckten Verordnungen, sofern dies nach den Vorgaben möglich ist.
+Dokumentieren Sie die ausgedruckten Verordnungen, sofern dies nach den Vorgaben möglich
 
-**FELDER MUSTER 13**   **Heilmittel**
-
-**Ergänzendes**  **Heilmittel**
-
-|  | Pflichtfunktionen sind |
-|---|---|
-|  | je Verordnung, orientierende |
-|  | von „vorrangigen Heilmitteln“ |
-|  | Verordnung eines „ergänzenden |
-|  | Verordnung durch Zugriff |
-|  | Tabelle dieser Anweisung). |
-|  | 1 Jahr vor dem verwendeten |
-|  | vollständigen Erfassungsdialog |
-|  | Sie die ausgedruckte |
-|  | Heilmittelkatalog |
-|  | Leitsymptomatik |
-|  | Heilmittelkatalog |
-
-**Heilmittel**
-
-**Therapiefrequenz**
-
-Seite 14 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**DATEN**
-
-KG
+**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** KG
 
 KG im Bewegungsbad
 
-Warmpackung (z. B. Fango)
+**Ergänzendes** **Behandlungseinheiten** Warmpackung (z. B. Fango)  **Heilmittel**
 
-KG ‐ ZNS ‐ Kinder 1 ‐ 3x wöch.
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
+
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 21 Verordnung von „vorrangigen Heilmitteln“  P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“
+
+**Anweisung** **8:**
+
+Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).  Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst
+
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13** **DATEN**
+
+**ICD 10 Code**
+
+**ICD 10 Code**
+
+**Diagnosegruppe**
+
+**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+
+**patientenindividuelle** **Leitsymptomatik**
+
+**Heilmittelkatalog**
+
+M47.0
+
+G99.2
+
+ZN
+
+a) b)
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Therapiefrequenz**
+
+14  25
+
+Schädigung/Störung der Bewegungs Sinnesfunktion;  Schädigung/Störung der Muskelfunktion
+
+KG ZNS Kinder 1 3x wöch.
+
+2023
+
+(Anweisung 5).  vollständigen  ein Video.
+
+ist.
 
 3
 
@@ -795,365 +838,601 @@ KG ‐ ZNS ‐ Kinder 1 ‐ 3x wöch.
 
 6
 
-Insbesondere folgende Pflichtfunktionen sind betroffen:  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 21 Verordnung von „vorrangigen Heilmitteln“  › P3 ‐ 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“  Anweisung 8:  Erstellen Sie eine neue Verordnung durch Zugriff auf die  fünfte  Verordnung Anweisung 7. Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).   Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst werden.   Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein  Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.  FELDER MUSTER 13  ICD ‐ 10  ‐  Code  ICD ‐ 10  ‐  Code  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  DATEN  M47.0 ‐  G99.2  ZN   a) b)  Schädigung/Störung der Bewegungs ‐  und  Sinnesfunktion;  Schädigung/Störung der Muskelfunktion 37
+7. Ändern Sie
+
+werden.
+
+durch ein  möglich ist.
+
+und 37
 
 
 ---
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-› P3 ‐ 06 ICD ‐ 10 ‐ Code  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 06 ICD 10 Code  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
 
-**Anweisung 9:**
+**Anweisung** **9:**
 
-Erstellen Sie eine neue Verordnung durch Zugriff auf die fünfte Verordnung der Anweisung 7. Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).  Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst werden.
+Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung der Anweisung 7. Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).  Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst werden.
 
 Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch  Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
-|  | |
-|---|---|
-|  | M47.0 ‐ |
-|  | G99.2 |
-|  | ZN |
-| Heilmittelkatalog | a) b) |
-| Leitsymptomatik |  |
-| Heilmittelkatalog | Schädigung/Störung der Bewegungs ‐ und Sinnesfunktion; Schädigung/Störung der Muskelfunktion |
-| Behandlungseinheiten | KG ‐ ZNS ‐ Kinder |
+**FELDER** **MUSTER** **13** **DATEN**
+
+**ICD 10 Code**
+
+**ICD 10 Code**
+
+**Diagnosegruppe**
+
+**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+
+**patientenindividuelle** **Leitsymptomatik**
+
+**Heilmittelkatalog**
+
+M47.0
+
+G99.2
+
+ZN
+
+a) b)
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
 
 **Therapiefrequenz**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-› P3 ‐ 06 ICD ‐ 10 ‐ Code  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+Schädigung/Störung der Bewegungs und  Sinnesfunktion;  Schädigung/Störung der Muskelfunktion
 
-**2.2 MAßNAHMEN DER PODOLOGISCHEN THERAPIE**
+KG ZNS Kinder 1 3x wöch.
 
-**PRÜFFALL 02**
+36
+
+P3 06 ICD 10 Code  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+
+**2.2** **MAßNAHMEN**
+
+**PRÜFFALL** **02**
+
+**DER** **PODOLOGISCHEN** **THERAPIE**
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie die Verordnung, wenn  möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher
+Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie die Verordnung, wenn  möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher 15  25
 
-Seite 15 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-FELDER MUSTER 13  ICD ‐ 10  ‐  Code  ICD ‐ 10  ‐  Code  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  DATEN  a) b)  Schädigung/Störung der Bewegungs ‐  und  Schädigung/Störung der Muskelfunktion  36  1 ‐ 3x wöch.
+2023
 
 
 ---
 
-Hinweissteuerung durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach  den Vorgaben möglich ist.
+Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
-| DATEN |
+| **DATEN** |
 |---|
 | XML Verzeichnisname: XML_05 |
 | Podologie |
 | E10.20 |
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-| Diagnose(n) | Diabetes mellitus vom Typ 1 mit [N08.3*], nicht als entgleist bezeichnet |
-|---|---|
-|  | DF |
-| Heilmittelkatalog | b) |
-| Leitsymptomatik |  |
-| Heilmittelkatalog | Pathologisches Nagelwachstum |
-| Behandlungseinheiten | Nagelbearbeitung |
+**Behandlungsrelevante** **Diagnose(n)**
 
-| Behandlungseinheiten |  |
-|---|---|
-|  | alle 4 ‐ 6 Wochen |
-|  | Ja |
-|  | Nein |
-| innerhalb von | Nein |
-| weitere med. Befunde |  |
+**Diagnosegruppe**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
 
-› P3 ‐ 08 Leitsymptomatik  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 13 Therapiefrequenz  › P3 ‐ 21 Verordnung von „vorrangigen Heilmitteln“
+**patientenindividuelle** **Leitsymptomatik**
 
-Seite 16 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**Leitsymptomatik** **gemäß**
 
-FELDER MUSTER 13  Patient/Patientin  Heilmittelbereich  ICD ‐ 10  ‐  Code  XML Verzeichnisname: XML_05  Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  Diabetes mellitus vom Typ 1 mit Nierenkomplikationen  [N08.3*], nicht als entgleist bezeichnet   Pathologisches Nagelwachstum  6  Ergänzendes  Heilmittel  Therapiefrequenz  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise  alle 4 ‐ 6 Wochen
+**(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Heilmittelkatalog**
+
+**Heilmittelkatalog**
+
+**Ergänzendes**  **Heilmittel**
+
+**Therapiefrequenz**
+
+**Therapiebericht**
+
+**Hausbesuch** **ja/nein**
+
+**Dringlicher** **Behandlungsbedarf** **14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **und** **Hinweise**
+
+**Behandlungseinheiten**
+
+**innerhalb** **von**
+
+**med.** **Befunde**
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 08 Leitsymptomatik  P3 11 Höchstmenge je Verordnung, orientierende P3 13 Therapiefrequenz  P3 21 Verordnung von „vorrangigen Heilmitteln“
+
+16  25
+
+Sie die ausgedruckte Verordnung, sofern dies nach
+
+Diabetes mellitus vom Typ 1 mit Nierenkomplikationen  [N08.3*], nicht als entgleist bezeichnet
+
+DF
+
+b)
+
+Pathologisches Nagelwachstum
+
+Nagelbearbeitung 6
+
+alle 4 6 Wochen
+
+Ja
+
+Nein
+
+Nein
+
+**betroffen:**
+
+Behandlungsmenge
+
+FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD Code2023
+
 
 ---
 
-**2.3 MAßNAHMEN DER STIMM ‐, SPRECH ‐, SPRACH ‐ UND SCHLUCKTHERAPIE**
+**MAßNAHMEN** **DER** **STIMM** **SPRECH** **SPRACH**
 
-**PRÜFFALL 03**
+**PRÜFFALL** **03**
 
-**Anweisung 1:**
+**Anweisung** **1:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Der ICD ‐ 10 ‐ Klartext  gemäß der ICD ‐ Stammdatei wird um einen Freitext ergänzt. Dokumentieren Sie mögliche Hinweise durch  Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Erstellen Sie eine Verordnung mit folgenden Daten gemäß der ICD Stammdatei wird um einen Freitext Screenshots. Dokumentieren Sie die ausgedruckte
 
-| DATEN |
+| **DATEN** |
 |---|
 | XML Verzeichnisname: XML_05 |
-| Stimm ‐, Sprech, ‐ Sprach ‐ und Schlucktherapie |
+| Stimm‐, Sprech,‐ Sprach‐ und Schlucktherapie |
 | F44.4 |
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-| Diagnose(n) | Dissoziative Bewegungsstörungen; Psychogene |
-|---|---|
-|  | ST3 |
-| Heilmittelkatalog |  |
-| Leitsymptomatik |  |
-| Heilmittelkatalog |  |
-| Behandlungseinheiten | Stimmtherapie ‐ 30 |
-| Stimmtherapie ‐ 45 | |
+**Behandlungsrelevante** **Diagnose(n)**
 
-| Behandlungseinheiten |  |
-|---|---|
-|  | 1 ‐ 3x tägl. |
-|  | Ja |
-|  | Nein |
-| innerhalb von | Nein |
-| weitere med. Befunde |  |
+**Diagnosegruppe**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
 
-› P3 ‐ 05 Grundsatz der Vollständigkeit  › P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 12 Behandlungsrelevante Diagnose(n)  › P3 ‐ 13 Therapiefrequenz  › P3 ‐ 21 Verordnung von „vorrangigen Heilmitteln“
+**patientenindividuelle** **Leitsymptomatik**
 
-Seite 17 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
 
-FELDER MUSTER 13  Patient/Patientin  Heilmittelbereich  ICD ‐ 10  ‐  Code  XML Verzeichnisname: XML_05  Stimm ‐, Sprech, ‐  Sprach ‐  und Schlucktherapie  Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  Dissoziative Bewegungsstörungen; Psychogene Aphonie  Ergänzendes  Heilmittel  Therapiefrequenz  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise  1 ‐ 3x tägl.
+**Heilmittel** **Behandlungseinheiten**
 
----
+**Ergänzendes** **Behandlungseinheiten**  **Heilmittel**
 
-**Anweisung 2:**
+**Therapiefrequenz**
 
-Auf Basis der Verordnung aus Anweisung 1 wurde ein langfristiger Heilmittelbedarf bei der Krankenkasse  beantragt und genehmigt. Dieser soll nun im System erfasst werden.  Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1). Im  Rahmen des Verordnungsvorgangs ist die patientenspezifische Genehmigung gemäß folgender Tabelle zu  erfassen (gleiche Krankenkasse).
+**Therapiebericht**
 
-Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein  Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+**Hausbesuch** **ja/nein**
 
-**FELDER MUSTER 13**   ICD ‐ 10 ‐ Code
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
 
-Diagnosegruppe
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
 
-Gültigkeitsdatum
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-genehmigtes Heilmittel
+P3 05 Grundsatz der Vollständigkeit  P3 11 Höchstmenge je Verordnung, orientierende P3 12 Behandlungsrelevante Diagnose(n)  P3 13 Therapiefrequenz  P3 21 Verordnung  „vorrangigen Heilmitteln“
 
-Freitext
+17  25
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**UND** **SCHLUCKTHERAPIE**
 
-› P3 ‐ 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  › P3 ‐ 37 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs – Eingabedialog  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+(siehe Tabelle dieser Anweisung). ergänzt. Dokumentieren Sie mögliche Verordnung, sofern dies nach den
 
-**Anweisung 3:**
-
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)  innerhalb des Gültigkeitsdatums der Genehmigung.  Dokumentieren Sie den Erfassungsdialog, aus dem ersichtlich wird, dass die Verordnung als langfristig  genehmigt im Erfassungsdialog sichtbar gekennzeichnet ist per Screenshots.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
-
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
-
-› P3 ‐ 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
-
-**2.4 MAßNAHMEN DER ERGOTHERAPIE**
-
-**PRÜFFALL 04**
-
-**Anweisung:**
-
-Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegruppe ist der  Heilmittelbereich und die Diagnose (ICD ‐ 10 ‐ Code) zu erfassen, sofern dies möglich ist Wenn der  Heilmittelbereich nicht separat ausgewählt werden kann, dann ist dies im Rahmen der Dokumentation des  Prüffalls mitzuteilen. Dokumentieren Sie anschließend den vollständigen Erfassungsdialog der  Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
-
-Seite 18 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-**DATEN**
-
-F44.4
+Dissoziative Bewegungsstörungen
 
 ST3
 
-Bis 31.12.2025
+Stimmtherapie 30
 
-*Antrag vom 1.1.2020*
+Stimmtherapie 45 1 3x tägl.
 
+Ja
 
----
+Nein
 
-| DATEN |
-|---|
-| XML Verzeichnisname: XML_05 |
-| Ergotherapie |
-| M45.0 ‐ |
+Nein
 
-**ICD ‐ 10 ‐ Code**
+**betroffen:**
 
-| Diagnose(n) | Spondylitis ankylosans |
-|---|---|
-|  | SB1 |
-| Heilmittelkatalog |  |
-| Leitsymptomatik | ja |
-| Heilmittelkatalog | Kyphose der BWS |
-| Behandlungseinheiten | Motorisch ‐ funkt. Beh. |
-| Motorisch ‐ funkt. Beh. Gruppe | |
+Behandlungsmenge 2023
 
-| Behandlungseinheiten | Thermische Anwendungen |
-|---|---|
-|  | 2 ‐ 3x wöch. |
-|  | Ja |
-|  | Nein |
-| innerhalb von | Ja |
-| weitere med. Befunde | Verbesserung der Beweglichkeit |
+Der ICD 10 Klartext  Hinweise durch  Vorgaben möglich ist.
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+*Psychogene* *Aphonie*
 
-› P3 ‐ 08 Leitsymptomatik  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs  › P3 ‐ 20 ggf. Therapieziele / weitere med. Befunde und Hinweise   **PRÜFFALL 05**
+5
 
-**Anweisung:**
+FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code5
 
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung).  Erfassen Sie ein Akutereignis zu dieser Erkrankung, dass innerhalb von 3 Wochen vor dem  Verordnungsdatum liegt.
-
-Seite 19 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-FELDER MUSTER 13  Patient/Patientin  Heilmittelbereich  ICD ‐ 10  ‐  Code  XML Verzeichnisname: XML_05  Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  Spondylitis ankylosans  Kyphose der BWS  Motorisch ‐ funkt. Beh.  Motorisch ‐ funkt. Beh. Gruppe  5  5  Ergänzendes  Heilmittel  Therapiefrequenz  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise  Thermische Anwendungen  2 ‐ 3x wöch.  Verbesserung der Beweglichkeit  10
 
 ---
 
-Dokumentieren Sie den vollständigen Erfassungsdialog des Akutereignisses sowie die ggf. erfolgende  Kennzeichnung eines besonderen Verordnungsbedarfs bzw. eines langfristigen Heilmittelbedarfs und  mögliche Hinweise im Rahmen des Verordnungsvorgangs durch ein Video.
+**Anweisung** **2:**
 
-Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
-
-|  | |
-|---|---|
-|  | XML Verzeichnisname: XML_05 |
-|  | Physiotherapie |
-|  | Z98.8 |
-|  | Z96.64 |
-| Diagnose(n) | Sonstige näher bezeichnete Zustände nach Eingriffen; Vorhandensein einer Hüftgelenkprothese |
-|  | EX |
-| Heilmittelkatalog | a) |
-| Leitsymptomatik | nein |
-| Heilmittelkatalog | Schädigung/Störung der Gelenkfunktion |
-| Behandlungseinheiten | KG ‐ Gerät |
-| KG | |
-
-| Behandlungseinheiten | Elektrotherapie |
-|---|---|
-|  | 2x wöch. |
-|  | Ja |
-|  | Nein |
-| innerhalb von | Ja |
-| weitere med. Befunde |  |
-
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
-
-› P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
-
-Seite 20 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-FELDER MUSTER 13  Patient/Patientin  Heilmittelbereich  ICD ‐ 10  ‐  Code  ICD ‐ 10  ‐  Code  Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  DATEN  XML Verzeichnisname: XML_05  Sonstige näher bezeichnete Zustände nach chirurgischen  Eingriffen; Vorhandensein einer Hüftgelenkprothese  Schädigung/Störung der Gelenkfunktion  10  10  Ergänzendes  Heilmittel  Therapiefrequenz  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise  2x wöch.  10
-
----
-
-**PRÜFFALL 06**
-
-**Anweisung 1:**
-
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Die Verordnung soll  als Blankoverordnung ausgestellt werden.
+Auf Basis der Verordnung aus Anweisung 1 wurde ein langfristiger Heilmittelbedarf bei der Krankenkasse  beantragt und genehmigt. Dieser soll nun im System erfasst werden.  Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1). Im  Rahmen des Verordnungsvorgangs ist die patientenspezifische Genehmigung gemäß folgender Tabelle zu  erfassen (gleiche Krankenkasse).
 
 Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein  Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
-|  | |
-|---|---|
-|  | XML Verzeichnisname: XML_22 |
-|  | Physiotherapie |
-|  | M54.0 ‐ |
-|  | Z98.8 |
-| Diagnose(n) | Pannikulitis in der Nacken ‐ und Rückenregion; näher bezeichnete Zustände nach chirurgischen Eingriffen |
-|  | WS |
-| Heilmittelkatalog | a) b) |
-| Leitsymptomatik |  |
-| Heilmittelkatalog | Schädigung der Bewegungssegmente; Schädigung/Störung der Muskelfunktion |
-| Behandlungseinheiten |  |
+**FELDER** **MUSTER** **13** **DATEN**   ICD 10 Code F44.4
 
-**Ergänzendes**  **Heilmittel**
+Diagnosegruppe ST3
 
-**Therapiefrequenz**
+Gültigkeitsdatum Bis 31.12.2025
 
-|  | Ja |
-|---|---|
-|  | nein |
-| innerhalb von | Nein |
-| weitere med. Befunde |  |
+genehmigtes Heilmittel
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+Freitext *Antrag* *vom* *1.1.2020*
 
-› P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 16 Blankoverordnung
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-Seite 21 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  P3 37 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  Eingabedialog  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
 
-**Behandlungseinheiten**
+**Anweisung** **3:**
 
-FELDER MUSTER 13  Patient/Patientin  Heilmittelbereich  ICD ‐ 10  ‐  Code  ICD ‐ 10  ‐  Code  Behandlungsrelevante Diagnose(n)  Diagnosegruppe  Leitsymptomatik gemäß Heilmittelkatalog  (buchstabencodiert)  patientenindividuelle Leitsymptomatik   Leitsymptomatik gemäß Heilmittelkatalog  (Freitext)  DATEN  XML Verzeichnisname: XML_22  Pannikulitis in der Nacken ‐  und Rückenregion; Sonstige  näher bezeichnete Zustände nach chirurgischen  a) b)  Schädigung der Bewegungssegmente;  Schädigung/Störung der Muskelfunktion  Therapiebericht  Hausbesuch ja/nein  Dringlicher Behandlungsbedarf innerhalb von  14 Tagen  ggf. Therapieziele / weitere med. Befunde  und Hinweise
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)  innerhalb des Gültigkeitsdatums der Genehmigung.  Dokumentieren Sie den Erfassungsdialog, aus dem ersichtlich wird, dass die Verordnung als langfristig  genehmigt im Erfassungsdialog sichtbar gekennzeichnet ist per Screenshots.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
+
+P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+
+**2.4** **MAßNAHMEN** **DER** **ERGOTHERAPIE**
+
+**PRÜFFALL** **04**
+
+**Anweisung:**
+
+Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegruppe ist der  Heilmittelbereich und die Diagnose (ICD 10 Code) zu erfassen, sofern dies möglich ist Wenn der  Heilmittelbereich nicht separat ausgewählt werden kann, dann ist dies im Rahmen der Dokumentation des  Prüffalls mitzuteilen. Dokumentieren Sie anschließend den vollständigen Erfassungsdialog der  Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+18  25
+
+2023
+
 
 ---
 
-**Anweisung 2:**
+| **DATEN** |
+|---|
+| XML Verzeichnisname: XML_05 |
+| Ergotherapie |
+| M45.0‐ |
 
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1).  Diese soll entgegen der der zurückliegenden Verordnung nicht als Blankoverordnung ausgestellt werden.  Ändern Sie daher folgende Einträge (siehe Tabelle dieser Anweisung).
+**ICD 10 Code**
 
-Dokumentieren Sie den vollständigen Änderungsdialog einschließlich möglicher Hinweissteuerung durch  ein Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+**Behandlungsrelevante** **Diagnose(n)**
 
-**FELDER MUSTER 13**
+**Diagnosegruppe**
 
-**Heilmittel**
+**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
 
-**Ergänzendes**  **Heilmittel**
+**patientenindividuelle** **Leitsymptomatik**
 
-**Therapiefrequenz**
+**Leitsymptomatik** **gemäß** **(Freitext)**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Heilmittel** **Behandlungseinheiten**
 
-› P3 ‐ 16 Blankoverordnung
+**Heilmittelkatalog**
 
-**Anweisung 3:**
-
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2).  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht als  Blankoverordnung ausgestellt werden.
-
-Dokumentieren Sie mögliche Hinweise und Abfragen durch Screenshots. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
-
-**FELDER MUSTER 13**
-
-**Heilmittel**
+**Heilmittelkatalog**
 
 **Ergänzendes**  **Heilmittel**
 
 **Therapiefrequenz**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Therapiebericht**
 
-› P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+**Hausbesuch** **ja/nein**
 
-**Anweisung 4:**
+**Dringlicher** **Behandlungsbedarf** **14** **Tagen**
 
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 3).  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht als  Blankoverordnung ausgestellt werden. Dokumentieren Sie mögliche Hinweise im Rahmen der Erfassung der  Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies  nach den Vorgaben möglich ist.
-
-Seite 22 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
+**ggf.** **Therapieziele**  **weitere** **und** **Hinweise**
 
 **Behandlungseinheiten**
 
-**Behandlungseinheiten**
+**innerhalb** **von**
 
-**Behandlungseinheiten**
+**med.** **Befunde**
 
-**Behandlungseinheiten**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 08 Leitsymptomatik  P3 18 Kriterien für Verordnungen aufgrund Heilmittelbedarfs  P3 20 ggf. Therapieziele  weitere med. Befunde
+
+**PRÜFFALL** **05**
+
+**Anweisung:**
+
+Erstellen Sie eine Verordnung mit folgenden Daten Erfassen Sie ein Akutereignis zu dieser Erkrankung, Verordnungsdatum liegt.
+
+19  25
+
+Spondylitis ankylosans
+
+SB1
+
+ja
+
+Kyphose der BWS
+
+Motorisch funkt. Beh. 5
+
+Motorisch funkt. Beh. Gruppe 5
+
+Thermische Anwendungen 10 2 3x wöch.
+
+Ja
+
+Nein
+
+Ja
+
+*Verbesserung* *der* *Beweglichkeit*
+
+**betroffen:**
+
+eines besonderen Verordnungsbedarfs/eines langfristigen
+
+und Hinweise
+
+(siehe Tabelle dieser Anweisung).  dass innerhalb von 3 Wochen vor dem
+
+FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code2023
+
+
+---
+
+Dokumentieren Sie den vollständigen Erfassungsdialog des Akutereignisses sowie Kennzeichnung eines besonderen Verordnungsbedarfs bzw. eines langfristigen mögliche Hinweise im Rahmen des Verordnungsvorgangs durch ein Video.
+
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13** **DATEN**   **Patient/Patientin** XML Verzeichnisname: XML_05
+
+**Heilmittelbereich** Physiotherapie
+
+**ICD 10 Code** Z98.8
+
+**ICD 10 Code**
+
+**Behandlungsrelevante** **Diagnose(n)**
+
+**Diagnosegruppe**
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog** **(buchstabencodiert)**
+
+Z96.64
+
+Sonstige näher bezeichnete Zustände Eingriffen; Vorhandensein einer
+
+EX
+
+a)
+
+**patientenindividuelle** **Leitsymptomatik**
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Ergänzendes** **Behandlungseinheiten**  **Heilmittel**
+
+**Therapiefrequenz**
+
+**Therapiebericht**
+
+**Hausbesuch** **ja/nein**
+
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**  **14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 18 Kriterien für Verordnungen aufgrund  Heilmittelbedarfs 20  25
+
+nein
+
+Schädigung/Störung der Gelenkfunktion
+
+KG Gerät
+
+KG
+
+Elektrotherapie 2x wöch.
+
+Ja
+
+Nein
+
+Ja
+
+**betroffen:**
+
+eines besonderen Verordnungsbedarfs/eines 2023
+
+die ggf. erfolgende  Heilmittelbedarfs und
+
+möglich ist.
+
+nach chirurgischen  Hüftgelenkprothese 10
+
+10
+
+10
+
+langfristigen
+
+
+---
+
+**PRÜFFALL** **06**
+
+**Anweisung** **1:**
+
+Erstellen Sie eine Verordnung mit folgenden Daten als Blankoverordnung ausgestellt werden.
+
+Dokumentieren Sie den vollständigen Erfassungsdialog Video. Dokumentieren Sie die ausgedruckte Verordnung,
+
+**FELDER** **MUSTER** **13**   **Patient/Patientin**
+
+**Heilmittelbereich**
+
+**ICD 10 Code**
+
+**ICD 10 Code**
+
+**Behandlungsrelevante** **Diagnose(n)**
+
+**Diagnosegruppe**
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
+
+**patientenindividuelle** **Leitsymptomatik**
+
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Ergänzendes** **Behandlungseinheiten** **Heilmittel**
+
+**Therapiefrequenz**
+
+**Therapiebericht**
+
+**Hausbesuch** **ja/nein**
+
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 11 Höchstmenge je Verordnung, orientierende P3 16 Blankoverordnung 21  25
+
+(siehe Tabelle dieser Anweisung). Die Verordnung soll
+
+einschließlich möglicher Hinweissteuerung durch ein  sofern dies nach den Vorgaben möglich ist.
 
 **DATEN**
+
+XML Verzeichnisname: XML_22
+
+Physiotherapie
+
+M54.0
+
+Z98.8
+
+Pannikulitis in der Nacken näher bezeichnete Zustände Eingriffen
+
+WS
+
+und nach
+
+Rückenregion; Sonstige  chirurgischen
+
+a) b)
+
+Schädigung der Bewegungssegmente;  Schädigung/Störung der Muskelfunktion
+
+Ja
+
+nein
+
+Nein
+
+**betroffen:**
+
+Behandlungsmenge 2023
+
+
+---
+
+**Anweisung** **2:**
+
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Diese soll entgegen der der zurückliegenden Verordnung nicht als Blankoverordnung ausgestellt Ändern Sie daher folgende Einträge (siehe Tabelle dieser Anweisung).
+
+Dokumentieren Sie den vollständigen Änderungsdialog einschließlich möglicher Hinweissteuerung ein Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13** **DATEN**
+
+**Heilmittel** **Behandlungseinheiten**
+
+**Ergänzendes** **Behandlungseinheiten**
+
+**Heilmittel**
+
+**Therapiefrequenz**
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind**
+
+P3 16 Blankoverordnung
+
+**betroffen:**
 
 KG
 
 MT
 
-Wärmetherapie mittels heiße Rolle 1 ‐ 3x wöch.
+Wärmetherapie mittels heiße Rolle 1 3x wöch.
 
-**DATEN**
+**Anweisung** **3:**
 
-KG
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht Blankoverordnung ausgestellt werden.
+
+Dokumentieren Sie mögliche Hinweise und Abfragen durch Screenshots. Dokumentieren ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**FELDER** **MUSTER** **13** **DATEN**
+
+**Heilmittel** **Behandlungseinheiten** KG
+
+**Ergänzendes** **Behandlungseinheiten**
 
 MT
 
-Wärmetherapie mittels heiße Rolle 1 ‐ 3x wöch.
+Wärmetherapie mittels heiße Rolle
+
+**Heilmittel**
+
+**Therapiefrequenz** 1 3x wöch.
+
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
+
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+**Anweisung** **4:**
+
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht Blankoverordnung ausgestellt werden. Dokumentieren Sie mögliche Hinweise im Rahmen Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, nach den Vorgaben möglich ist.
+
+22  25
+
+2023
+
+(Anweisung 1).  werden.
+
+durch  möglich ist.
 
 3
 
@@ -1161,74 +1440,88 @@ Wärmetherapie mittels heiße Rolle 1 ‐ 3x wöch.
 
 6
 
-4
+(Anweisung als
+
+Sie die 4
 
 4
+
+2).
 
 8
+
+(Anweisung 3).  als  der Erfassung der  sofern dies
 
 
 ---
 
-**FELDER MUSTER 13**   **Heilmittel**
+**FELDER** **MUSTER** **13**   **Behandlungseinheiten**
 
 **Ergänzendes**  **Heilmittel**
 
 **Therapiefrequenz**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+**Insbesondere** **folgende**
 
-› P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+P3 11 Höchstmenge
 
-**2.5 MAßNAHMEN DER ERNÄHRUNGSTHERAPIE**
+**2.5** **MAßNAHMEN** **DER**
 
-**PRÜFFALL 07**
+**PRÜFFALL** **07**
+
+**Behandlungseinheiten**
+
+**Pflichtfunktionen** **sind**
+
+je Verordnung, orientierende
+
+**ERNÄHRUNGSTHERAPIE**
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung).
+Erstellen Sie eine Verordnung mit folgenden Daten
 
-Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Dokumentieren Sie die ausgedruckte Verordnung,
 
-**FELDER MUSTER 13**   **Patient/Patientin**
+**FELDER** **MUSTER** **13**   **Patient/Patientin**
 
-**Datum der Verordnung**
+**Datum** **der** **Verordnung**
 
 **Heilmittelbereich**
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-**ICD ‐ 10 ‐ Code**
+**ICD 10 Code**
 
-**Behandlungsrelevante Diagnose(n)**
+**Behandlungsrelevante** **Diagnose(n)**
 
 **Diagnosegruppe**
 
-**Leitsymptomatik gemäß Heilmittelkatalog**  **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
 
-**patientenindividuelle Leitsymptomatik**
+**patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik gemäß Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
 
-**Heilmittel**
+**Heilmittel** **Behandlungseinheiten**
 
-**Ergänzendes**  **Heilmittel**
+**Ergänzendes** **Behandlungseinheiten**
 
-Seite 23 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
-
-**Behandlungseinheiten**
+23  25
 
 **DATEN**
 
-KG
+KG 7
 
-Wärmetherapie mittels heiße Rolle 1 ‐ 3x wöch.
+Wärmetherapie mittels heiße Rolle 7 1 3x wöch.
+
+**betroffen:**
+
+Behandlungsmenge
+
+(siehe Tabelle dieser Anweisung).
+
+sofern dies nach den Vorgaben möglich ist.
 
 **DATEN**
 
@@ -1238,104 +1531,118 @@ Maßnahmen der Ernährungstherapie
 
 E71.0
 
-Ahornsirup ‐ (Harn ‐) Krankheit
+Ahornsirup (Harn Krankheit
 
 SAS
 
 c)
 
-Störung des Fett ‐ / Energiestoffwechsels;  *tagesformabhängige Appetitlosigkeit* *Nahrungsverweigerung*
+Störung des Fett Energiestoffwechsels;  *tagesformabhängige* *Appetitlosigkeit* *und* *zeitweise* *Nahrungsverweigerung*
 
-Ernährungstherapie
-
-*und zeitweise*
-
-7
-
-7
+Ernährungstherapie 2023
 
 100
 
 
 ---
 
-**FELDER MUSTER 13**
+**FELDER** **MUSTER** **13** **DATEN**   **Therapiefrequenz**
 
-**Therapiefrequenz**
+**Therapiebericht** Ja
 
-**Therapiebericht**
+**Hausbesuch** **ja/nein** Ja
 
-**Hausbesuch ja/nein**
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** Nein  **14** **Tagen**
 
-**Dringlicher Behandlungsbedarf innerhalb von**  **14 Tagen**
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
 
-**ggf. Therapieziele / weitere med. Befunde**  **und Hinweise**
+**Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen:**
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 13 Therapiefrequenz  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
 
-› P3 ‐ 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  › P3 ‐ 13 Therapiefrequenz  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+**PRÜFFALL** **08**
 
-**PRÜFFALL 08**
+**Anweisung** **1:**
 
-**Anweisung 1:**
+Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle 01 07 erstellten Verordnungen per Screenshot(s).
 
-Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle 01 ‐  07 erstellten Verordnungen per Screenshot(s).
+**Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
-**Insbesondere folgende Pflichtfunktionen werden in diesem Prüffall geprüft:**
+P3 34 Verordnungsstatistik
 
-› P3 ‐ 34 Verordnungsstatistik
+**Anweisung** **2:**
 
-**Anweisung 2:**
+Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall  Sie die Darstellung per Screenshot(s). 04 aus. Dokumentieren
 
-Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall  04 aus. Dokumentieren Sie die Darstellung per Screenshot(s).
+**Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
-**Insbesondere folgende Pflichtfunktionen werden in diesem Prüffall geprüft:**
+P3 34 Verordnungsstatistik  P3 02 Verordnungsdokumentation
 
-› P3 ‐ 34 Verordnungsstatistik  › P3 ‐ 02 Verordnungsdokumentation
-
-**Anweisung 3:**
+**Anweisung** **3:**
 
 Filtern Sie die Übersicht nach Anweisung 1, unter Anwendung der Filterkriterien „Kennzeichnung eines  besonderen Verordnungsbedarfs“ und „Kennzeichnung eines langfristigen Heilmittelbedarfs“.  Dokumentieren Sie das Ergebnis als Screenshot.
 
-**Insbesondere folgende Pflichtfunktionen werden in diesem Prüffall geprüft:**
+**Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
-› P3 ‐ 34 Verordnungsstatistik  › P3 ‐ 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
-
-Seite 24 von 25 / KBV / Prüfpaket Heilmittel / Version: 2.4 / 13. Januar 2023
-
-**DATEN**
-
-Ja
-
-Ja
-
-Nein
+P3 34 Verordnungsstatistik  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs 24  25            2023
 
 
 ---
 
-| 3 |  |  | REFERENZIERTE | |  | DOKUMENTE |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Referenz |  |  |  |  |  |  | Dokument |  |  |  |
-|  | KBV_ITA_RLEX_Zert | |  |  |  |  |  | Zertifizierungsrichtlinie | | der | KBV |
-|  |  | KBV_ITA_FMEX_AAZ_HMV | |  |  |  | Antrag | auf | Zertifizierung | |  |
-|  |  | VSD_5.2.0_Testfaelle_VX.X | |  |  |  |  | Patientendaten | für | Prüffälle |  |
-|  |  | KBV_ITA_VGEX_Mapping_KVK | | |  |  |  | Technische | Anlage | zu Anlage | 4a (BM |
-|  |  |  | KBV_ITA_VGEX_Anforderungskatalog_Heilmittel | | | |  | Anforderungskatalog | |  | Heilmittelvero |
-|  |  | KBV_ITA_VGEX_Schnittstelle_SDHM | | | |  |  | Datensatzbeschreibung | |  | Heilmittelk |
-|  |  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | | |  |  | Datensatzbeschreibung | |  | Heilmittel A |
-|  |  | KBV_ITA_VGEX_Schnittstelle_SDICD | | | |  |  | Datensatzbeschreibung | | ICD ‐ | 10 ‐ GM |
-|  |  |  | KBV_ITA_VGEX_Schnittstelle_SDHMBV | | |  |  | Datensatzbeschreibung | |  | Heilmittel |
-|  |  |  |  |  |  |  |  | Blankoverordnung | |  |  |
-|  | PRF_Stammdaten | |  |  |  |  |  | Teststammdateien | für | die | Zertifizie |
-|  |  |  |  |  |  |  |  | Verfahrens |  |  |  |
-|  | Ansprechpartner: | |  |  |  |  |  |  |  |  |  |
-|  | Dezernat | Digitalisierung | | und IT |  |  |  |  |  |  |  |
-| IT in | der | Arztpraxis |  |  |  |  |  |  |  |  |  |
-| Tel.: | 030 | 4005 ‐ | 2077, | pruefstelle@kbv.de | |  |  |  |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung | |  |  |  |  |  |  |
-| Herbert | ‐ | Lewin ‐ Platz | 2, | 10623 | Berlin |  |  |  |  |  |  |
-|  | pruefstelle@kbv.de, | |  | www.kbv.de |  |  |  |  |  |  |  |
-| Seite | 25 von 25 | / KBV / | Prüfpaket | Heilmittel | / Version: | 2.4 / 13. | Januar 2023 |  |  |  |  |
+3
 
-Dezernat Digitalisierung und IT  IT in der Arztpraxis  Tel.: 030 4005 ‐ 2077, pruefstelle@kbv.de   Kassenärztliche Bundesvereinigung  Herbert ‐ Lewin ‐ Platz 2, 10623 Berlin  pruefstelle@kbv.de, www.kbv.de  Seite 25 von 25  /  KBV  /  Prüfpaket Heilmittel  /  Version: 2.4  /  13. Januar 2023  REFERENZIERTE DOKUMENTE  Zertifizierungsrichtlinie der KBV  Antrag auf Zertifizierung  Patientendaten für Prüffälle  Technische Anlage zu Anlage 4a (BM Anforderungskatalog Heilmittelvero Datensatzbeschreibung Heilmittelk Datensatzbeschreibung Heilmittel A Datensatzbeschreibung ICD ‐ 10 ‐ GM Datensatzbeschreibung Heilmittel  Teststammdateien für die Zertifizie
+## REFERENZIERTE
+
+## DOKUMENTE
+
+**Referenz**
+
+KBV_ITA_RLEX_Zert
+
+KBV_ITA_FMEX_AAZ_HMV
+
+VSD_5.2.0_Testfaelle_VX.X
+
+KBV_ITA_VGEX_Mapping_KVK
+
+KBV_ITA_VGEX_Anforderungskatalog_Heilmittel
+
+KBV_ITA_VGEX_Schnittstelle_SDHM
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA
+
+KBV_ITA_VGEX_Schnittstelle_SDICD
+
+KBV_ITA_VGEX_Schnittstelle_SDHMBV
+
+PRF_Stammdaten
+
+**Ansprechpartner:**
+
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert Lewin Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de 25  25
+
+**Dokument**
+
+Zertifizierungsrichtlinie der KBV
+
+Antrag auf Zertifizierung
+
+Patientendaten für Prüffälle
+
+Technische Anlage zu Anlage 4a (BM
+
+Anforderungskatalog Heilmittelvero
+
+Datensatzbeschreibung Heilmittelk
+
+Datensatzbeschreibung Heilmittel A
+
+Datensatzbeschreibung ICD 10 GM
+
+Datensatzbeschreibung Heilmittel  Blankoverordnung
+
+Teststammdateien für die Zertifizie Verfahrens 2023

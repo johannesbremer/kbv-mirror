@@ -1,3 +1,11 @@
+## PTV 10
+
+Information für Patient*innen und Patient*en
+
+## Ambulante Psychotherapie in der Gesetzlichen Krankenversicherung
+
+Versicherte der Gesetzlichen Krankenversicherung haben Anspruch auf psychotherapeutische Behandlung.
+
 ### Was ist Psychotherapie?
 
 Psychotherapie ist eine Behandlung von psychischen („seelischen“) Erkrankungen mithilfe von wissenschaftlich  anerkannten Verfahren, Methoden und Techniken. Psychische Erkrankungen können das Erleben, das Verhalten  sowie das geistige und körperliche Wohlbefinden stark beeinträchtigen und mit Leid, Angst, Verunsicherung und  Einschränkungen der Lebensqualität einhergehen. Eine Psychotherapie ist dann ratsam, wenn psychische  Probleme zu Krankheitserscheinungen führen und die alltäglichen Anforderungen des Lebens nicht mehr bewältigt  werden können.  Vor Beginn einer Psychotherapie ist eine Abklärung durch eine Ärztin oder einen Arzt zur Frage notwendig,  ob körperliche Ursachen für die psychische Erkrankung verantwortlich oder mitverantwortlich sein können.
@@ -18,31 +26,25 @@ Vor Beginn einer Psychotherapie finden Probegespräche, sogenannte probatorische
 
 Psychotherapeutische Behandlungen dürfen im Rahmen der Gesetzlichen Krankenversicherung nur von  Psychologischen Psychotherapeutinnen und Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeutinnen  und -psychotherapeuten und psychotherapeutisch tätigen Ärztinnen und Ärzten durchgeführt werden, wenn diese  über eine Kassenzulassung verfügen. Neben der psychotherapeutischen Behandlung von psychischen  Erkrankungen kann zusätzlich eine medikamentöse Behandlung sinnvoll sein, die jedoch nur von Ärztinnen und  Ärzten durchgeführt werden darf.
 
-Information für Patient*innen und Patient*en
-
-Versicherte der Gesetzlichen Krankenversicherung haben Anspruch auf psychotherapeutische Behandlung.
-
-### Ambulante Psychotherapie in der Gesetzlichen Krankenversicherung
-
-### PTV 10
+### gültig ab 01.07.2020
 
 Formblatt PTV 10  Seite 1 von 2   Muster PTV 10 (7.2020)
-
-**gültig ab 01.07.2020**
 
 
 ---
 
 ### Welche psychotherapeutischen Behandlungsmöglichkeiten gibt es?
 
-**Psychotherapeutische Sprechstunde**  Die Psychotherapeutische Sprechstunde dient der Abklärung, ob ein Verdacht auf eine krankheitswertige Störung  vorliegt und weitere fachspezifische Hilfen im System der Gesetzlichen Krankenversicherung notwendig sind.  Bei Verdacht auf eine seelische Krankheit findet im Rahmen der Sprechstunde eine Orientierende Diagnostische  Abklärung statt; bei Patientinnen und Patienten, bei denen von keiner seelischen Krankheit ausgegangen wird,  werden niedrigschwellige Hilfen empfohlen.
+### Psychotherapeutische Sprechstunde
 
-**Psychotherapeutische Akutbehandlung**  Bei besonders dringendem Behandlungsbedarf kann eine Psychotherapeutische Akutbehandlung im Umfang von  bis zu 12 Behandlungen zu je 50 Minuten Dauer in Frage kommen. Eine Akutbehandlung dient der  Krisenintervention und kann – falls erforderlich – in eine Kurzzeitpsychotherapie oder in eine Langzeit-  psychotherapie überführt werden. Bereits durchgeführte Therapieeinheiten der Akutbehandlung werden auf die  nachfolgende Psychotherapie angerechnet. Für eine Akutbehandlung ist nur das Einzelgespräch vorgesehen.
+Die Psychotherapeutische Sprechstunde dient der Abklärung, ob ein Verdacht auf eine krankheitswertige Störung  vorliegt und weitere fachspezifische Hilfen im System der Gesetzlichen Krankenversicherung notwendig sind.  Bei Verdacht auf eine seelische Krankheit findet im Rahmen der Sprechstunde eine Orientierende Diagnostische  Abklärung statt; bei Patientinnen und Patienten, bei denen von keiner seelischen Krankheit ausgegangen wird,  werden niedrigschwellige Hilfen empfohlen.
 
-**Ambulante Psychotherapie**  Ambulante Psychotherapie kann in allen Psychotherapieverfahren als Einzeltherapie, in einer Gruppe oder als  Kombination von Einzel- und Gruppenpsychotherapie durchgeführt werden, in der Systemischen Therapie auch im  Mehrpersonensetting (z. B. durch Einbeziehung der Familie). Die Häufigkeit der Sitzungen kann je nach Verfahren  und Behandlungsverlauf variieren und wird individuell von Patientin oder Patient und Therapeutin oder Therapeut  vereinbart. Die Gruppenpsychotherapie nutzt zusätzlich Beziehungserfahrungen und das wechselseitige Lernen  zwischen Patientinnen und Patienten in der Gruppe für die Psychotherapie.
+### Psychotherapeutische Akutbehandlung
+
+Bei besonders dringendem Behandlungsbedarf kann eine Psychotherapeutische Akutbehandlung im Umfang von  bis zu 12 Behandlungen zu je 50 Minuten Dauer in Frage kommen. Eine Akutbehandlung dient der  Krisenintervention und kann – falls erforderlich – in eine Kurzzeitpsychotherapie oder in eine Langzeit-  psychotherapie überführt werden. Bereits durchgeführte Therapieeinheiten der Akutbehandlung werden auf die  nachfolgende Psychotherapie angerechnet. Für eine Akutbehandlung ist nur das Einzelgespräch vorgesehen.
+
+### Ambulante Psychotherapie
+
+Ambulante Psychotherapie kann in allen Psychotherapieverfahren als Einzeltherapie, in einer Gruppe oder als  Kombination von Einzel- und Gruppenpsychotherapie durchgeführt werden, in der Systemischen Therapie auch im  Mehrpersonensetting (z. B. durch Einbeziehung der Familie). Die Häufigkeit der Sitzungen kann je nach Verfahren  und Behandlungsverlauf variieren und wird individuell von Patientin oder Patient und Therapeutin oder Therapeut  vereinbart. Die Gruppenpsychotherapie nutzt zusätzlich Beziehungserfahrungen und das wechselseitige Lernen  zwischen Patientinnen und Patienten in der Gruppe für die Psychotherapie.
 
 Der Gemeinsame Bundesausschuss (www.g-ba.de) entscheidet, welche psychotherapeutischen  Behandlungsverfahren als Leistungen der Gesetzlichen Krankenversicherung anerkannt sind. Dies sind derzeit:  **Analytische Psychotherapie**  Die Analytische Psychotherapie nimmt an, dass Krankheitssymptome durch konflikthafte unbewusste Verarbeitung  von frühen oder später im Leben erworbenen Lebens- und Beziehungserfahrungen verursacht und aufrechterhalten  werden. In der therapeutischen Beziehung zwischen Patientin oder Patient und Therapeutin oder Therapeut spielt  das Erkennen und Bewusstmachen von verdrängten Gefühlen, Erinnerungen und Beziehungsmustern, die  gegenwärtig Krankheitssymptome verursachen, eine zentrale Rolle. Dadurch kann in der Gegenwart zunächst  unverständlich erscheinendes Fühlen und Handeln in der therapeutischen Beziehungsarbeit verstanden und  verändert werden.  **Systemische Therapie**  Die Systemische Therapie versteht psychische Störungen unter besonderer Berücksichtigung von Beziehungen.  Neben der Sicht auf Belastendes stehen die Nutzung eigener Kompetenzen und Fähigkeiten der Patientin oder des  Patienten bzw. ihres oder seines Umfeldes im Mittelpunkt. Die Therapie orientiert sich an den Aufträgen und  Anliegen der Patientinnen und Patienten. Ziel ist es, symptomfördernde Verhaltensweisen, Interaktionsmuster und  Bewertungen umwandeln zu helfen und neue, gesundheitsfördernde Lösungsansätze zu entwickeln.  In die Therapie können Lebenspartnerinnen und Lebenspartner oder andere wichtige Bezugspersonen einbezogen  werden. Die Systemische Therapie im Mehrpersonensetting, die dann beispielsweise gemeinsam mit der  Kernfamilie oder der erweiterten Familie stattfindet, nutzt die Angehörigen als Ressource für die Behandlung und  die Veränderung von bedeutsamen Beziehungen und Interaktionen.  **Tiefenpsychologisch fundierte Psychotherapie**  Die Tiefenpsychologisch fundierte Psychotherapie sieht Krankheitssymptome als Folge von aktuellen Konflikten in  Beziehungen oder von nicht bewältigten Beziehungserfahrungen und Konflikten aus früheren Lebensphasen. Diese  Konflikte und Erfahrungen können das spätere Leben bestimmen und psychische Erkrankungen zur Folge haben.  Ziel der Behandlung ist es, die zugrundeliegenden unbewussten Motive und Konflikte der aktuellen Symptome zu  erkennen und sich mit diesen auseinanderzusetzen. Patientin oder Patient werden in der Psychotherapie dabei  unterstützt, durch Einsichten in die Zusammenhänge und Ursachen der aktuellen Symptome Veränderungen im  Erleben oder Verhalten zu erreichen.  **Verhaltenstherapie**  Die Verhaltenstherapie geht davon aus, dass psychische Beschwerden das Ergebnis von bewussten und  nichtbewussten Lernprozessen sind. Zu Beginn der Behandlung wird gemeinsam mit der Patientin oder dem  Patienten erarbeitet, welche Bedingungen ihrer oder seiner Lebensgeschichte und der aktuellen Lebenssituation  zur Entstehung und Aufrechterhaltung der psychischen Symptomatik beigetragen haben und weiter wirksam sind.  Auf dieser Grundlage werden gemeinsam die Therapieziele und der Behandlungsplan festgelegt. In der  Verhaltenstherapie wird die Patientin oder der Patient zur aktiven Veränderung ihres oder seines Handelns,  Denkens und Fühlens motiviert und angeleitet. Dabei werden die bereits vorhandenen Stärken und Fähigkeiten  herausgearbeitet und für den Veränderungsprozess nutzbar gemacht.
-
-Formblatt PTV 10  Seite 2 von 2
-
-**gültig ab 01.07.2020**

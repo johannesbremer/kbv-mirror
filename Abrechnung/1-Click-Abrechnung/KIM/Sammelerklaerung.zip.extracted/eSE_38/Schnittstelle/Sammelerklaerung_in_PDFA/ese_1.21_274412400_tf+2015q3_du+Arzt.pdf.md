@@ -54,7 +54,6 @@
 | 2\|3 |
 |---|
 
-2|3
 
 ---
 
@@ -95,5 +94,3 @@ Formularversion 23.06.2022
 
 | Für alle qualitätsgebundenen Leistungen liegen die erforderlichen Genehmigungen bzw. Nachweise im Rahmen 3\|3 der erfolgreichen Teilnahme an den Ringversuchen vor. Es wurden nur die Materialien (Serum und/oder Urin und/oder Liquor) abgerechnet, für die ein gültiger Nachweis einer erfolgreichen Ringversuchsteilnahme vorliegt. |
 |---|
-
-3|3

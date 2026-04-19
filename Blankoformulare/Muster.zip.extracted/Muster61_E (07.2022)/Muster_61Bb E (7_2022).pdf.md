@@ -1,6 +1,6 @@
 **Ausfertigung für den Vertragsarzt**
 
-## 61 Teil B
+**61 Teil B**
 
 ## Verordnung von medizinischer
 
@@ -14,17 +14,15 @@ Bei gleichrangiger Zuständigkeit  ***(z. B. Kinder-Rehabilitation, onkologische
 
 Versicherte/r wünscht eine medizinische Rehabilitation  zu Lasten der GKV
 
-**A. Kurze Angaben zur Anamnese (insbesondere Beginn und Verlauf) und zu Krankenhaus- und Facharztbehandlung**
+**A. Kurze Angaben zur Anamnese***** (insbesondere Beginn und Verlauf)*** **und zu Krankenhaus- und Facharztbehandlung**
 
-**B. Rehabilitationsrelevante Schädigungen und Befunde (relevante Untersuchungsergebnisse / aktuelle Assessmentergebnisse)**
+**B. Rehabilitationsrelevante Schädigungen und Befunde***** (relevante Untersuchungsergebnisse / aktuelle Assessmentergebnisse)***
 
-### I.
+**I.**
 
 ### Rehabilitationsbegründende und weitere Diagnosen
 
-### II.
-
-### Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
+**II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung**
 
 Diagnoseschlüssel  ICD-10-GM Ursache *
 
@@ -44,7 +42,7 @@ Diagnoseschlüssel  ICD-10-GM Ursache *
 
 **B. Weitere rehabilitationsrelevante/geriatrietypische Diagnosen**
 
-**** Mögliche Ursache*** ***der Erkrankung*** ***(nur anzugeben,***  ***wenn eine der folgenden*** ***Ursachen zutrifft)***
+***Mögliche Ursache*** ***der Erkrankung*** ***(nur anzugeben,***  ***wenn eine der folgenden*** ***Ursachen zutrifft)***
 
 ***1 = Arbeitsunfall einschl.***  ***Wegeunfall*** ***2 = Berufskrankheit***  ***3 = Schädigungsfolge***  ***durch Einwirken***  ***Dritter***  ***(z. B. Unfallfolgen)***  ***4 = Folgen von Kriegs-,***  ***Zivil- oder Wehrdienst***  ***5 = Meldepflichtige***  ***Erkrankung***  ***(z. B. IfSG)***
 
@@ -56,7 +54,7 @@ neinja, welche?
 
 **C. Bei geriatrischer Rehabilitation** ***mind. zwei Funktionstests folgender unterschiedlicher Schädigungsbereiche***
 
-**D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen (z. B. Patientenschulungen, Reha-**  ***bilitationssport/Funktionstraining, Beratungs- und Selbsthilfeangebote); einschließlich Heilmittelverordnung (in den letzten 6 Monaten)***
+**D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen***** (z. B. Patientenschulungen, Reha-***  ***bilitationssport/Funktionstraining, Beratungs- und Selbsthilfeangebote)*****; einschließlich Heilmittelverordnung***** (in den letzten 6 Monaten)***
 
 PRF.NR.  Muster 61 Teil Bb/E (7.2022)
 
@@ -70,16 +68,14 @@ Betriebsstätten-Nr. Arzt-Nr.Datum
 
 Krankenkasse bzw. Kostenträger
 
-| Mobilität | Kognition | Schmerz | Herz-/Lungenfunktion |
+| **Mobilität** | **Kognition** | **Schmerz** | **Herz-/Lungenfunktion** |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
-| TUG sek + sek | MMST / 30 | / 10 | Ergometrie Watt |
+| TUGsek **+**sek | MMST / 30 | / 10 | ErgometrieWatt |
 | Rise |  | skala |  |
 | Hand- |  |  |  |
-| kg oder kpa | / 15 GDS 15 |  | FEV1 % + VK % |
+| kg **oder**kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
 | kraft |  |  |  |
 |  | Uhren- |  | NYHA- |
-| / 100 Tinetti / 28 DEMMI | / 7 |  |  |
+| DEMMI / 100 Tinetti / 28 | / 7 |  |  |
 |  | test |  | Stadium |
-
-kg  oder

@@ -1,16 +1,14 @@
-**9Bescheinigung**  **einer Fehlgeburt**
-
-Die oben bezeichnete Versicherte befand sich mindestens in der
+Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
-
-geb. am
 
 Kostenträgerkennung Versicherten-Nr. Status
 
 Betriebsstätten-Nr. Arzt-Nr. Datum
 
-Krankenkasse bzw. Kostenträger
+**1. Fehlgeburt** am
+
+Die oben bezeichnete Versicherte befand sich mindestens in der
 
 13. Schwangerschaftswoche (Schutzfrist 2 Wochen)
 
@@ -18,8 +16,12 @@ Krankenkasse bzw. Kostenträger
 
 20. Schwangerschaftswoche (Schutzfrist 8 Wochen)
 
-Vertragsarztstempel / ärztliche Unterschrift **Ausfertigung zur Vorlage beim Arbeitgeber**
+**Ausfertigung zur Vorlage beim Arbeitgeber**
 
-**1. Fehlgeburt am**
+geb. am
+
+**Bescheinigung 9** **einer Fehlgeburt**
+
+Vertragsarztstempel / ärztliche Unterschrift
 
 PRF.NR.  Muster 9b /E (1.2026)

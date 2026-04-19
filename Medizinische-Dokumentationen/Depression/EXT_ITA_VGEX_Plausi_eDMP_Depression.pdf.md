@@ -1,18 +1,12 @@
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
+# zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
 
 **Grundlage:**
 
-**Stand der**  **Version anzuwenden ab:**
+**Stand der Bearbeitung:**  **Version anzuwenden ab:**
 
-**Bearbeitung:**
+- Anlage
 
-## zur Prüfung der Dokumentationsdaten
-
-## des strukturierten Behandlungsprogramms
-
-## - Anlage
-
-## Plausibilitätsrichtlinie
+# Plausibilitätsrichtlinie 18* -
 
 # Depression
 
@@ -20,143 +14,54 @@
 
 **gültig ab 01.01.2020**
 
-**Version:**
+**Version:** **1.0**
 
-**30.04.2020**  **01.04.2021**
-
-## 18* -
-
-**1.0**
+**30.04.2020**    **01.04.2021**
 
 
 ---
 
 **Anlage 18* Depression**
 
-| Laufende Nummer | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß | | | |
 |---|---|---|---|
-| Ist in den sind die | | | |
-|  | | |  |
-| 1 | Aktuelle Symptomatik – PHQ-9 Summenwert | Zahl (0 – 27, ganzzahlig) | Pflichtfeld Nummerische Angabe Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und kleiner oder gleich „ 27 “ sein. |
-| 2 | Schweregrad zu Beginn der aktuellen depressiven Episode | Leicht / Mittelgradig / Schwer | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig . Eine Angabe ist erforderlich, wenn die Anlage 18* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig . |
-| 3 | Schweregrad zu Beginn der aktuellen depressiven Episode | Aktuell keine depressive Episode / Leicht / Mittelgradig / Schwer | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig . |
+| Anamnese- und Befunddaten |  | | |
+| 1 | Aktuelle | – | Pflichtfeld Nummerische Angabe Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ |
+| 2 | Schweregrad | Leicht / Mittelgradig / Schwer | Bedingtes Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Eine Angabe |
+| 3 | Schweregrad | Aktuell keine depressive Episode / Leicht / Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig |
 
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
-
-**– Datensatz für die indikationsspezifische**
-
-**Dokumentation**
-
-Ist in den indikationsübergreifenden Dokumentationsparametern gemäß sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Anamnese- und Befunddaten Aktuell keine depressive Episode / Leicht / Bedingtes Pflichtfeld Anlage 2* in Feld 10 mindestens die Angabe „ Depression“  erfolgt,
+sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Symptomatik Summenwert PHQ-9 Zahl (0 Beginn aktuellen depressiven Episode Anlage 2* in Feld 10 mindestens die Angabe „  27, ganzzahlig) Beginn aktuellen depressiven Episode Depression“  erfolgt, und kleiner  oder gleich 27  sein. Anlage 18* im Rahmen Erstdokumentation auszufüllen ist. im Rahmen Folgedokumentation ist nicht zulässig einer einer ** Datensatz für die indikationsspezifische Dokumentation**
 
 
 ---
 
-**Laufende** **Nummer**
+| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+|---|---|---|---|
+|  |  |  | Eine Angabe ist erforderlich, Eine Angabe |
+| 4 | Dauer | Mehr als zwei Jahre persistierend / Weniger | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist immer erforderlich, Eine Angabe ist erforderlich, wenn die Eine Angabe |
+| 5 | Suizidalität eingeschätzt | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 
-4
-
-5
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
-
-**Dokumentationsparameter**
-
-Dauer der aktuellen  Episode
-
-Suizidalität eingeschätzt
-
-depressiven
-
-Mehr als zwei Jahre persistierend / Weniger  als zwei Jahre
-
-Ja / Nein
-
-**Ausprägung**
-
-persistierend
-
-Eine Angabe  Anlage  Folgedokumentation auszufüllen ist.
-
-Eine Angabe  Erstdokumentation ist nicht zulässig
-
-Bedingtes Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-Eine Angabe ist  die Anlage  Erstdokumentation auszufüllen ist
-
-Eine Angabe  Anlage  Folgedokumentation auszufüllen ist und in  Feld 3  „ Mittelgradig “ oder
-
-Eine Angabe  Anlage  Folgedokumentation auszufüllen ist  Feld 3  depressive Episode“
-
-Pflichtfeld
-
-Genau eine Angabe ist zulässig
-
-**Plausibilitäten**
-
-ist erforderlich, wenn die  18* im Rahmen einer
-
-im Rahmen einer  .
-
-.
-
-immer erforderlich, wenn  18* im Rahmen einer  .
-
-ist erforderlich, wenn die  18* im Rahmen einer
-
-die Angabe „ Leicht “ oder  „ Schwer “ erfolgt ist.
-
-ist nicht zulässig, wenn die  18* im Rahmen einer  und in  die Angabe „Aktuell ke ine  erfolgt ist.
-
-.
-
+Nummer Anlage 18* Rahmen einer Folgedokumentation auszufüllen ist. Rahmen einer Erstdokumentation ist nicht zulässig aktuellen depressiven Episode die Anlage 18* Rahmen einer Erstdokumentation auszufüllen ist Anlage 18* Rahmen einer Folgedokumentation auszufüllen ist und in Feld 3 Leicht “ oder Mittelgradig “ oder Schwer “ erfolgt ist ist nicht zulässig, wenn die Anlage 18* Rahmen einer Folgedokumentation auszufüllen ist und in Feld 3 „Aktuell ke depressive Episode“  erfolgt ist.
 
 ---
 
-| Laufende Nummer | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-|  | | |  |
+| Nicht-medikamentöse und medikamentöse Behandlung |  | | |
 | 6 | Aktuelle Psychotherapie | Ja / Nein / Geplant / Nicht gewünscht | Pflichtfeld Genau eine Angabe ist zulässig. |
-| 7 | Aktuelle medikamentöse Therapie mit Antidepressiva | Aktuell andauernd, seit weniger als 9 Monaten / Aktuell andauernd, Fortführung über neun Monate hinaus / Nein / Vor Ablauf von neun Monaten abgebrochen / Nach mehr als neun Monaten abgeschlossen / Kontraindikation / Nicht gewünscht | Pflichtfeld Genau eine Angabe ist zulässig. |
-| Schulungen | | |  |
-| 8 | Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig . Eine Angabe ist erforderlich, wenn die Anlage 18* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig . |
-| 9 | Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig . |
+| 7 | Aktuelle | Aktuell andauernd, seit weniger als | Pflichtfeld |
+| Schulungen |  | | |
+| 8 | Bereits | Ja / Nein | Bedingtes Pflichtfeld . Eine Angabe ist erforderlich, Eine Angabe |
+| 9 | Depressionsspezifische | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 
-Nicht-medikamentöse und medikamentöse Behandlung* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
-
+Nummer medikamentöse Therapie mit Antidepressiva vor Einschreibung in das DMP depressionsspezifischen teilgenommen einer empfohlen (bei aktueller Dokumentation) Monaten / Aktuell andauernd, Fortführung über neun Monate hinaus / Nein / Vor Ablauf von neun Monaten abgebrochen Nach mehr abgeschlossen neun / Kontraindikation / Nicht Monaten Anlage 18* im Rahmen Erstdokumentation auszufüllen ist. im Rahmen Folgedokumentation ist nicht zulässig wenn die einer einer
 
 ---
 
-**Laufende** **Nummer**
+| Laufende | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+|---|---|---|---|
+|  |  |  |  |
+| 10 | Depressionsspezifische | Digitales | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
 
-10
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
-
-**Dokumentationsparameter**
-
-Depressionsspezifische  wahrgenommen
-
-Schulung
-
-Digitales  Präsenzgruppenschulung  aktuell  Dokumentation keine Schulung empfohlen
-
-Selbstmanagement
-
-nicht
-
-**Ausprägung**
-
-möglich
-
--Programm/ Bedingtes Pflichtfeld / Nein / War  / Bei letzter
-
-Nur eine Angabe ist möglich
-
-Eine Angabe ist erforderlich, wenn die   Anlage 1 Folgedokumentation auszufüllen ist.
-
-Eine Angabe im Rahmen einer  Erstdokumentation ist nicht zulässig 8* im Rahmen einer
-
-**Plausibilitäten**
+Nummer Schulung wahrgenommen Selbstmanagement Präsenzgruppenschulung aktuell nicht möglich Dokumentation keine Schulung empfohlen -Programm/ Bedingtes Pflichtfeld Nein / War Nur eine Angabe ist möglich Bei letzter Anlage 1 8* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig

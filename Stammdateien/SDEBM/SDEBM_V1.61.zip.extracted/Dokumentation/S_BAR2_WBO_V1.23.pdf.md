@@ -8,7 +8,7 @@ Version:
 
 gültig ab:
 
-| Code | Bezeichnung |
+| **Code** | **Bezeichnung** |
 |---|---|
 | 001 | Praktische Ärztin/Praktischer Arzt (altes Recht vor 1987 bzw. EWG-Recht ab |
 
@@ -27,6 +27,12 @@ gültig ab:
 041
 
 042
+
+1.2.276.0.76.5.114
+
+1.23
+
+01.12.2025
 
 043
 
@@ -50,13 +56,7 @@ gültig ab:
 |---|---|
 | 063 | TG Phoniatrie; neue Bundesländer |
 
-Seite 1 von 1.2.276.0.76.5.114
-
-1.23
-
-01.12.2025
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 1 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 86/457/EWG) Ärztin/Arzt (ohne Facharzt-Weiterbildung ab 1986 bis 1991)
 
@@ -167,10 +167,6 @@ TG Phoniatrie und Pädaudiologie
 
 145
 
-Seite 2 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
 **Bezeichnung**
 
 FÄ/FA Haut- und Geschlechtskrankheiten
@@ -241,8 +237,6 @@ FÄ/FA Psychiatrie
 
 
 ---
-
-**Code**
 
 146
 
@@ -316,12 +310,6 @@ FÄ/FA Psychiatrie
 |---|---|
 | 308 | FÄ/FA Physiologie |
 
-Seite 3 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
-**Bezeichnung**
-
 TG Kinderneuropsychiatrie; neue Bundesländer
 
 FÄ/FA Psychiatrie und Psychotherapie
@@ -393,8 +381,6 @@ Medizinische Informatik
 
 ---
 
-**Code**
-
 309
 
 310
@@ -465,12 +451,6 @@ Medizinische Informatik
 |---|---|
 | 372 | Fachwissenschaftlerin/Fachwissenschaftler Genetik |
 
-Seite 4 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
-**Bezeichnung**
-
 FÄ/FA Physiotherapie; neue Bundesländer
 
 FÄ/FA Psychotherapie; neue Bundesländer
@@ -527,8 +507,6 @@ Fachzahnärztin/Fachzahnarzt für Mikrobiologie 2 BMV-Ä)
 
 
 ---
-
-**Code**
 
 373
 
@@ -600,12 +578,6 @@ Fachzahnärztin/Fachzahnarzt für Mikrobiologie 2 BMV-Ä)
 |---|---|
 | 531 | SP Neuropädiatrie |
 
-Seite 5 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
-**Bezeichnung**
-
 Fachwissenschaftlerin/Fachwissenschaftler Immunologie
 
 Fachwissenschaftlerin/Fachwissenschaftler Zytologie/Histologie
@@ -666,8 +638,6 @@ TG Kardiologie und Angiologie; kammerindividuell
 
 
 ---
-
-**Code**
 
 532
 
@@ -739,12 +709,6 @@ TG Kardiologie und Angiologie; kammerindividuell
 |---|---|
 | 566 | FÄ/FA Mikrobiologie |
 
-Seite 6 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
-**Bezeichnung**
-
 FÄ/FA Mikrobiologie, Virologie und Infektionsepidemiologie
 
 SP Forensische Psychiatrie
@@ -806,8 +770,6 @@ TG Kinderkardiologie
 
 ---
 
-**Code**
-
 567
 
 568
@@ -854,16 +816,9 @@ TG Kinderkardiologie
 |---|---|
 | 990 | Code zur internen Verwendung in den Landesarztregistern. Keine Meldung an |
 
-|  | das Bundesarztregister |
-|---|---|
-| 992 | Code zur internen Verwendung in den Landesarztregistern. Keine Meldung an |
-|  | das Bundesarztregister |
+991
 
-Seite 7 von
-
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
-
-**Bezeichnung**
+992
 
 FÄ/FA Oralchirurgie; kammerindividuell
 
@@ -905,4 +860,6 @@ SP Kinder- und Jugend-Gastroenterologie
 
 SP Kinder- und Jugend-Nephrologie
 
-SP Kinder- und Jugend-Pneumologie 991das Bundesarztregister
+SP Kinder- und Jugend-Pneumologie
+
+das Bundesarztregister Code zur internen Verwendung in den Landesarztregistern. Keine Meldung an das Bundesarztregister Code zur internen Verwendung in den Landesarztregistern. Keine Meldung an das Bundesarztregister

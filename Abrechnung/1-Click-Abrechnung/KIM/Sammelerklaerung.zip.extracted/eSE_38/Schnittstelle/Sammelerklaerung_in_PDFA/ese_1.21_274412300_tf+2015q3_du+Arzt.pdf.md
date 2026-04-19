@@ -52,7 +52,6 @@
 | 2\|3 |
 |---|
 
-2|3
 
 ---
 
@@ -93,5 +92,3 @@ Formularversion 23.06.2022
 
 | 8. 3\|3 Bei den Kosten für Materialien, die gemäß Abschnitt I Punkt 7.3 der Allgemeinen Bestimmungen des EBM nicht in den berechnungsfähigen Leistungen enthalten sind, sind die tatsächlich realisierten Preise gegenüber der KV |
 |---|
-
-3|3

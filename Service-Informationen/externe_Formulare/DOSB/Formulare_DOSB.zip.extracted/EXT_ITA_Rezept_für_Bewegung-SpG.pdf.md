@@ -1,4 +1,4 @@
-| Name, Vorname | * der des Versicherten |  |  |
+| Name, Vorname | *der des Versicherten |  |  |
 |---|---|---|---|
 |  |  |  | geb. am |
 |  |  |  | Datum |
@@ -12,22 +12,22 @@
 |  | REZEPT | | FÜR |
 |---|---|---|---|
 |  |  | BEWEGUNG | |
-|  | Regelmäßige |  | körperliche |
-|  | Aktivität tut | Ihnen | und Ihrer |
-|  | Gesundheit | gut! |  |
+|  | **Regelmäßige** |  | **körperliche** |
+|  | **Aktivität tut** | **Ihnen** | **und Ihrer** |
+|  | **Gesundheit** | **gut!** |  |
 |  | Bewegung | kann | Krankheiten |
 | des | Herz-Kreislauf- | | und des Stoff- |
-|  | wechselsystems | sowie | des Bewe- |
-|  | gungsapparates |  | verhindern. Zudem |
+|  | wechselsystems | sowie | des Bewe - |
+|  | gungsapparates | | verhindern. Zudem |
 | reduziert | | Bewegung | das Risiko für |
 | Krebs, | Diabetes | Typ II | und Demenz |
 | und | trägt zur | Entspannung | bei. |
 | Daher | empfehle | ich | Ihnen die |
-|  | Teilnahme an | einem | Bewegungs - |
+|  | Teilnahme an | einem | Bewegungs- |
 | angebot | in | einem | Sportverein. Das |
 | kann | ein | Angebot sein, | dass mit |
-| dem | Qualitätssiegel | | SPORT PRO |
-| GESUNDHEIT | | zertifiziert | ist, oder ein |
+| dem | Qualitätssiegel | | **SPORT PRO** |
+|  | **GESUNDHEIT** | zertifiziert | ist, oder ein |
 | anderes |  | gesundheitsorientiertes, | |
 | auch |  | sportartspezifisches | Angebot. |
 | Teilweise |  | besteht die | Möglichkeit |
@@ -37,9 +37,9 @@
 | täglich | mehr | Bewegung | in |
 | Ihren | Alltag | zu integrieren! | |
 | Stempel | und | Unterschrift |  |
-| * Arzt | Ärztin |  |  |
+| *Arzt | Ärztin |  |  |
 
-Name, Vorname der des Versicherten Ich empfehle Ihnen ein Training mit folgendem Schwerpunkt: [ ] Haltungs- und Bewegungssystem [ ] Stressbewältigung und Entspannung [ ] Allgemeines Gesundheitstraining [ ] Hinweise an die Übungsleitung: REZEPT FÜR Regelmäßige körperliche Aktivität tut Ihnen und Ihrer Gesundheit gut! Bewegung kann Krankheiten des Herz-Kreislauf- und des Stoff- wechselsystems sowie des Bewe- gungsapparates verhindern. Zudem reduziert Bewegung das Risiko für Krebs, Diabetes Typ II und Demenz und trägt zur Entspannung bei. Daher empfehle ich Ihnen die Teilnahme an einem Bewegungs angebot in einem Sportverein. Das kann ein Angebot sein, dass mit dem Qualitätssiegel SPORT PRO GESUNDHEIT zertifiziert ist, oder ein anderes gesundheitsorientiertes, auch sportartspezifisches Angebot. Teilweise besteht die Möglichkeit der finanziellen Förderung durch die Darüber hinaus empfehle ich,  täglich mehr Bewegung in  Ihren Alltag zu integrieren! Stempel und Unterschrift Arzt Ärztin
+Name, Vorname der des Versicherten Ich empfehle Ihnen ein Training mit folgendem Schwerpunkt: [ ] Haltungs- und Bewegungssystem [ ] Stressbewältigung und Entspannung [ ] Allgemeines Gesundheitstraining [ ] Hinweise an die Übungsleitung: REZEPT FÜR Regelmäßige körperliche Aktivität tut Ihnen und Ihrer Gesundheit gut! Bewegung kann Krankheiten des Herz-Kreislauf- und des Stoff- wechselsystems sowie des Bewe - gungsapparates verhindern. Zudem reduziert Bewegung das Risiko für Krebs, Diabetes Typ II und Demenz und trägt zur Entspannung bei. Daher empfehle ich Ihnen die Teilnahme an einem Bewegungs angebot in einem Sportverein. Das kann ein Angebot sein, dass mit dem Qualitätssiegel  zertifiziert ist, oder ein anderes gesundheitsorientiertes, auch sportartspezifisches Angebot. Teilweise besteht die Möglichkeit der finanziellen Förderung durch die Darüber hinaus empfehle ich,  täglich mehr Bewegung in  Ihren Alltag zu integrieren! Stempel und Unterschrift Arzt Ärztin
 
 ---
 
@@ -51,52 +51,46 @@ Bei Fragen wenden Sie sich bitte an:
 
 Deutscher Olympischer Sportbund  Ressort Breiten- und Gesundheitssport
 
-**Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene**
+### Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene
 
 **Ausdauer**
 
-| Kraft |  | Koordination |
+***150 – 300*** Minuten pro Woche
+
+***75 – 150*** Minuten pro Woche
+
+| **Kraft** |  | **Koordination** |
 |---|---|---|
 | pro Woche |  | pro Woche |
 | Muskelkräftigende |  | Gleichge­wichts­übungen, |
-| Tage B. funktions­ Aktivitäten, z. |  | Tage für ältere Erwachsene |
-| gymnastische Übungen |  | - ab 65 Jahren zur Sturz­ |
-| oder Bewegen von Lasten |  | ntion ­ve prä |
+| TageB. funktions­Aktivitäten, z. |  | Tage für ältere Erwachsene |
+| gymnastische Übungen |  | -ab 65 Jahren zur Sturz­ |
+| oder Bewegen von Lasten |  | ntion­veprä |
 
 Lange Sitzphasen vermeiden und Sitzen durch körperliche Aktivitäten unterbrechen – z. Quelle: modifiziert nach WHO: Bull et al., 2020
 
 Mitteilung der Übungsleitung an den
 
-# 150
-
-# – 300
-
-Minuten pro Woche
-
-# 75 –
-
-# 150
-
-Minuten pro Woche
-
 ZUSÄTZLICH
 
-Ausdauerorientierte Bewegung,  die etwas anstrengend ist, z.. Nordic Walking, Tanzen,  B Skilanglauf
-
-ODER EINE KOMBINATION
-
-Ausdauerorientierte Bewegung,  ­ gend ist, die anstren . Laufen, schnelles Rad Bz. schnelles Schwimmen
-
-**die Arzt Ärztin:
+die Arzt Ärztin:
 
 E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)  Internet: gesundheit.dosb.de
 
-­fahren,
+Ausdauerorientierte Bewegung,  die etwas anstrengend ist,  z.. Nordic Walking, Tanzen,  B Skilanglauf
+
+ODER EINE KOMBINATION
+
+Ausdauerorientierte Bewegung,  gend ist, die anstren . Laufen, schnelles Rad Bfahren, z.
+
+schnelles Schwimmen
+
+B. kleine Spaziergänge, Arbeiten im Stehen
+
+Ihr e Patient in hat an unserem  Bewegungsangebot teilgenommen.
+
+Stempel und Unterschrift des Vereins
 
 ZUSÄTZLICH
 
-B. kleine Spaziergänge, Arbeiten im Stehen Piktogramme: © DOSB/Sportdeutschland
-
-**Ihr e Patient in hat an unserem  Bewegungsangebot teilgenommen.
-
-Stempel und Unterschrift des Vereins
+Piktogramme: © DOSB/Sportdeutschland

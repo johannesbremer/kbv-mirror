@@ -2,23 +2,7 @@ Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
-Kassen-Nr.
-
-Vertragsarzt-Nr.
-
-### Anweisung:
-
-Bitte wählen nächsten kommt. erlebt haben, Situation antworten
-
-### Zeitpunkt
-
-## Nach
-
 ## Fragebogen
-
-## zur
-
-## Bestimmung
 
 geb. am
 
@@ -26,167 +10,299 @@ geb. am
 
 ## Hörbehinderung
 
-## (APHAB)
+Kassen-Nr.Versicherten-Nr.Status.
 
-Versicherten-Nr.Status.
+Bearbeiter Vertragsarzt-Nr.VK gültig bisDatum
 
-Bearbeiter VK gültig bisDatum
+### Anweisung:
 
-**A** Immer (99%) **B** Fast immer (87%) **C** Häufig (75%) Sie die Anwort, die Ihrer alltäglichen Erfahrung am **D** In der Hälfte der Fälle (50%) Wenn Sie eine bestimmte Situation nicht **E** Gelegentlich (25%) stellen Sie sich vor, wie Sie in einer ähnlichen **F** Selten (12%) würden. **G** Nie (1%)
+Bitte wählen Sie die Anwort, die Ihrer alltäglichen Erfahrung am nächsten kommt. Wenn Sie eine bestimmte Situation nicht erlebt haben, stellen Sie sich vor, wie Sie in einer ähnlichen Situation antworten würden.
 
-Fälle
+### Zeitpunkt
 
 ### der
 
 ### Befragung:
 
-der  te
+## Nach
 
 ## der
 
-## Hörgeräte-Versorgung
+## Hörgeräte-Versorgung 99% 87% 75% 50% 25% 12% 1%
 
-Hälf  immer  der  Häufig NieSeltenInFastImmer Gelegentlich 99% 87% 75% 50% 25% 12% 1%
+**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft** **mit** **der** **Kassiererin** **spreche,** **kann** **ich** **dem**1 **Gespräch** **folgen.**
 
-**Wenn ich in einem belebten Lebensmittelgeschäft** **mit der Kassiererin spreche, kann ich dem** BG1
+**Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen** 2 **Vortrag** **anhöre.**
 
-### CD
+**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder** **oder** **eine** **Alarmanlage,** **empfinde** **ich** **als**3 **unangenehm** **laut.**
 
-A
+**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem** **Gespräch** **mit** **einem** **Familienangehörigen** **zu**4 **folgen.**
 
-### EF
+**Ich** **habe** **Mühe,** **den** **Dialog** **in** **einem** **Film** **oder** **im** 5 **Theater** **zu** **verstehen.**
 
-**Gespräch folgen.**
+**Wenn** **ich** **am** **Autoradio** **die** **Nachrichten** **höre** **und** **sich** **Familienmitglieder** **dabei** **unterhalten**6 **habe** **ich** **Mühe,** **die** **Nachrichten** **zu** **verstehen.**
 
-**Es entgeht mir viel Information, wenn ich einen** 2BG
+**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,** **und** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**7 **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
 
-### CD
+**Verkehrslärm** **ist** **mir** **zu** **laut.**8
 
-A
-
-### EF
-
-**Vortrag** anhöre.
-
-**Unerwartete Geräusche, wie einen Rauchmelder** **oder eine Alarmanlage, empfinde ich als**3B
-
-### CD
-
-A
-
-### EFG
-
-**unangenehm laut.**
-
-**Ich habe Schwierigkeiten, zu Hause einem** **Gespräch mit einem Familienangehörigen zu**4B
-
-### CD
-
-A
-
-### EFG
-
-**folgen.**
-
-**Ich habe Mühe, den Dialog in einem Film oder im** B
-
-### CD
-
-A
-
-### EFG 5 **Theater zu verstehen.**
-
-**Wenn ich am Autoradio die Nachrichten höre** **und sich Familienmitglieder dabei unterhalten**6B
-
-### CD
-
-A
-
-### EFG
-
-**habe ich Mühe, die Nachrichten zu verstehen.**
-
-**Wenn ich mit mehreren Personen beim Essen sitze,** **und ich mich mit einer Person unterhalten möchte,**7B
-
-### CD
-
-A
-
-### EFG
-
-**ist es für mich schwierig, zu verstehen.**
-
-**Verkehrslärm** ist mir zu laut.B
-
-### CD
-
-A
-
-### EFG 8
-
-**Wenn ich mit jemanden spreche, der sich am** **anderen Ende eines großen leeren Raumes** BG
-
-### CD
-
-A
-
-### EF
-
-9 **befindet, verstehe ich seine Worte.**
+**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am** **anderen** **Ende** **eines** **großen** **leeren** **Raumes**9 **befindet,** **verstehe** **ich** **seine** **Worte.**
 
 **- Bitte wenden -**
+
+## zur
+
+**A** **B** **C**
+
+**D**
+
+**E**
+
+**F** **G**
+
+immer
+
+HäufigFastImmer
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+### B CD
+
+A
+
+## Bestimmung
+
+## (APHAB)
+
+Immer (99%) Fast immer (87%) Häufig (75%) In der Hälfte der Fälle (50%)
+
+Gelegentlich (25%)
+
+Selten (12%) Nie (1%)
+
+Fälle
+
+der  te
+
+Hälf
+
+der  In Gelegentlich
+
+### EF
+
+### EF
+
+### EFG
+
+### EFG
+
+### EFG
+
+### EFG
+
+### EFG
+
+### EFG
+
+### EF
+
+NieSelten
+
+G
+
+G
+
+G
 
 
 ---
 
-| Wenn ich in einem kleinen Büroraum Fragen stelle |  |
-|---|---|
-| oder beantworte, habe ich Schwierigkeiten, 10 | B CD A EFG |
-| dem Gespräch zu folgen. |  |
-| Wenn ich im Kino oder Theater bin und die Leute |  |
-| um mich herum flüstern und mit Papier rascheln, 11 | B CD A EFG |
-| kann ich dem Dialog immer noch folgen. |  |
-| Wenn ich mich mit einem Freund in einer ruhigen |  |
-| 12 Umgebung unterhalte, habe ich Schwierigkeiten, | B CD A EFG |
-| zu verstehen. |  |
-| Die Geräusche von fließendem Wasser, wie eine |  |
-| 13 Toilettenspülung oder Dusche, sind mir | B CD A EFG |
-| unangenehm laut. |  |
-| Wenn ein Sprecher zu einer kleinen Gruppe spricht |  |
-| 14 | B G CD A EF |
-| und alle ruhig zuhören, muss ich mich anstrengen, |  |
-| um zu verstehen. |  |
-| Wenn ich mit meinem Arzt im |  |
-| 15 Untersuchungszimmer spreche, fällt es mir schwer | B CD A EFG |
-| dem Gespräch zu folgen. |  |
-| Ich kann einer Unterhaltung folgen, auch wenn |  |
-| 16 | B CD A EFG |
-| mehrere Personen gleichzeitig sprechen. |  |
-| 17 Baulärm ist mir unangenehm laut. | B G CD A EF |
-| Es ist für mich schwierig, zu verstehen, was bei |  |
-| 18 | B CD A EFG |
-| Vorträgen oder in der Kirche gesprochen wird. |  |
-| Ich kann mich mit anderen unterhalten, |  |
-| 19 | B G CD A EF |
-| wenn wir in einer Menschenmenge sind. |  |
-| Die Sirene eines nahen Feuerwehrfahrzeugs |  |
-| 20 | B CD A EFG |
-| ist so laut, dass ich meine Ohren zuhalten muss. |  |
-| Im Gottesdienst kann ich die Worte |  |
-| 21 | B CD A EFG |
-| der Predigt verstehen. |  |
-|  | B CD A EFG |
-|  | B CD A EFG |
-|  | B CD A EFG |
-|  | 99% 87% 75% 50% 25% 12% 1% |
-|  | Fälle |
-|  | der |
-|  | te |
-|  | Hälf |
-|  | immer |
-|  | der |
-|  | Häufig Nie Selten In Fast Immer Gelegentlich |
+### in
 
-Datum
+### einem
 
-Das Geräusch von quietschenden Bremsen 22 Ich muss den Gesprächspartner bitten, sich zu wiederholen, wenn wir uns zu zweit 23 in einem ruhigen Raum unterhalten. Ich habe Mühe, andere zu verstehen, wenn gleichzeitig eine Klimaanlage oder 24 ein Ventilator läuft. StempelUnterschrift des Patienten
+### kleinen
+
+### Büroraum
+
+### Fragen
+
+### stelle oder
+
+### beantworte,
+
+### habe
+
+### Schwierigkeiten,
+
+10
+
+### dem
+
+### Gespräch
+
+### zu
+
+### folgen.
+
+**im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute** **um** **mich** **herum** **flüstern** **und**  **Papier** **rascheln,**11 **kann**  **dem** **Dialog** **immer** **noch** **folgen.**
+
+**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen** **Umgebung** **unterhalte,** **habe** **ich** **Schwierigkeiten,**12 **zu** **verstehen.**
+
+**Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine** 13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir** **unangenehm** **laut.**
+
+**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht** **und** **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**14 **um** **zu** **verstehen.**
+
+**Wenn** **ich** **mit** **meinem** **Arzt** **im** **Untersuchungszimmer** **spreche,** **fällt** **es** **mir** **schwer**15 **dem** **Gespräch** **zu** **folgen.**
+
+**Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn** 16 **mehrere** **Personen** **gleichzeitig** **sprechen.**
+
+**Baulärm** **ist** **mir** **unangenehm** **laut.**17
+
+**Es** **ist** **für** **mich** **schwierig,** **zu** **verstehen,** **was** **bei**18 **Vorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
+
+**Ich** **kann** **mich** **mit** **anderen** **unterhalten,** 19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
+
+**Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs** 20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
+
+**Im** **Gottesdienst** **kann** **ich** **die** **Worte**21 **der** **Predigt** **verstehen.**
+
+**Das** **Geräusch** **von** **quietschenden** **Bremsen**22 **ist** **mir** **unangenehm** **laut.**
+
+**Ich** **muss** **den** **Gesprächspartner** **bitten,** **sich** **zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**23 **in** **einem** **ruhigen** **Raum** **unterhalten.**
+
+**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,** **wenn** **gleichzeitig** **eine** **Klimaanlage** **oder**24 **ein** **Ventilator** **läuft.**
+
+**Stempel**
+
+Unterschrift des PatientenDatum
+
+A
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A
+
+## B CD
+
+A 99% 87% 75% 50% 25% 12% 1%
+
+## EFG
+
+## EFG
+
+## EFG
+
+## EFG
+
+G
+
+## EF
+
+## EFG
+
+## EFG
+
+G
+
+## EF
+
+## EFG
+
+G
+
+## EF
+
+## EFG
+
+## EFG
+
+## EFG
+
+## EFG
+
+## EFG
+
+Fälle
+
+der  te
+
+Hälf
+
+immer   HäufigInFastImmer GelegentlichNieSelten

@@ -52,13 +52,11 @@ gültig ab:
 |---|---|
 | 35 | DMP COPD |
 
-Seite 1 von 1.2.276.0.76.5.257
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART 1.2.276.0.76.5.257
 
 1.23
 
 01.10.2025
-
-2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART
 
 **Bezeichnung**
 
@@ -118,10 +116,6 @@ DMP Diabetes mellitus Typ 1
 | 90 | Sonstige Anerkennungsvereinbarungen |
 |---|---|
 | 99 | Kennziffern (GOP ohne Wert) im FKZ |
-
-Seite 2 von
-
-2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART
 
 **Bezeichnung**
 

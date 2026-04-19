@@ -1,6 +1,4 @@
-## INHALTSVERZEICHNIS ZUM UPDATE
-
-## II/2026 VOM 13. FEBRUAR 2026
+INHALTSVERZEICHNIS ZUM UPDATE
 
 | ABRECHNUNG |  |  |
 |---|---|---|
@@ -18,7 +16,7 @@
 | EXT_ITA_AHEX_PTV10 | Information für Patient*innen und Patient*en zur ambulanten |  |
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung | Anforderungskatalog zur Formularbedruckung |  |
 
-Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung Seite 1 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
+Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 II/2026 VOM 13. FEBRUAR 2026
 
 
 ---
@@ -43,10 +41,7 @@ Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertrags�
 | 74E20401.sdhm.prf.zip | mod. Heilmittel-Stammdatei |  |
 | KBV_ITA_AHEX_Pruefpaket_KVDT | Prüfpaket KVDT |  |
 
-Seite 2 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219 – Konkretisierung der Erläuterung Aufnahme der Regel 706 Umsetzung des Updates 35.00 / 13. Februar 2026
-
+FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219  Konkretisierung der Erläuterung Aufnahme der Regel 706 Umsetzung des Updates
 
 ---
 
@@ -71,8 +66,7 @@ FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219 – Konkretisierung der
 | 1ClickHybridDRG_V1.0 | Spezifikation der 1-Click Abrechnung Hybrid-DRG via KIM |  |
 | Kollegensuche |  |  |
 
-der TI-Pauschalen Konkretisierung P41-01 Korrektur P44-01 Korrektur P43-03 Seite 3 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+der TI-Pauschalen Konkretisierung P41-01 Korrektur P44-01 Korrektur P43-03
 
 ---
 
@@ -95,8 +89,6 @@ der TI-Pauschalen Konkretisierung P41-01 Korrektur P44-01 Korrektur P43-03 Seite
 |---|---|---|
 | Dokument | Erläuterung | Hinweise auf Änderungen |
 | PVS-Archivierungs-Wechsel-Schnittstelle |  |  |
-
-Seite 4 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
 
 
 ---
@@ -125,20 +117,19 @@ Seite 4 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - 
 | Dokument | Erläuterung | Hinweise auf |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |  |
 
-Kommentierungsversion) Änderungen Seite 5 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
-
+Kommentierungsversion) Änderungen
 
 ---
 
 | KBV_ITA_FMEX_Softwarevarianten | Nutzung zur Meldung von Softwarevarianten |  |
 |---|---|---|
-| KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | - |
+| KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | Inhalt zum Update |
 | KBV_ITA_SIEX_Liesmich_Update | Rundschreiben der KBV | - |
 
 | BLANKOFORMULARE |  |  |
 |---|---|---|
 | Dokument | Erläuterung | Hinweise auf Änderungen |
-| KBV_ITA_AHEX_Kodiertabelle_BFB | „Kodiertabelle von PDF417 - Codewörtern“ |  |
+| KBV_ITA_AHEX_Kodiertabelle_BFB | - |  |
 | KBV_ITA_AHEX_Pruefpaket_BFB | Prüfpaket Blankoformularbedruckung |  |
 | KBV_ITA_FMEX_AAZ_BFB | Antrag auf Zertifizierung für Blankoformularbedruckung |  |
 | KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch |  |
@@ -154,10 +145,7 @@ Kommentierungsversion) Änderungen Seite 5 von 29 / IT in der Arztpraxis / INHAL
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke im PDF/A-Format und |  |
 | DigitaleMuster.zip | Muster für Digitale Vordrucke im PDF/A-Format |  |
 
-Seite 6 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Inhalt zum Update  Besonderheiten zum Update von Zervixkarzinomen FHIR 35.00 / 13. Februar 2026
-
+Besonderheiten zum Update „Kodiertabelle von PDF417 von Zervixkarzinomen Codewörtern“ FHIR
 
 ---
 
@@ -182,10 +170,7 @@ Inhalt zum Update  Besonderheiten zum Update von Zervixkarzinomen FHIR 35.00 / 1
 | KBV_FHIR_eRP_V1.3.3_zur_Validierung.zip | Beispielhafte Verzeichnis zur Nutzung der Validierung |  |
 | KBV_FHIR_eRP_V1.3.3.zip | FHIR Profile zur eRezept |  |
 
-Seite 7 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-von Zervixkarzinomen 35.00 / 13. Februar 2026
-
+von Zervixkarzinomen
 
 ---
 
@@ -207,8 +192,7 @@ von Zervixkarzinomen 35.00 / 13. Februar 2026
 | eVDGA_Stylesheet_V1.2 | Stylesheets zur Visualisierung der eVDGA-Daten |  |
 | KBV_FHIR_eVDGA_V1.2.2_zur_Validierung | Beispielhafte Verzeichnis zur Nutzung der Validierung |  |
 
-Aktualisierung wegen BugFix-Release Version 1.4.1 Aktualisierung wegen BugFix-Release Version 1.4.1 Aktualisierung wegen BugFix-Release Version 1.4.1 sowie neuer Patientenausdruck Aktualisierung wegen BugFix-Release Version 1.3.1 Seite 8 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Aktualisierung wegen BugFix-Release Version 1.4.1 Aktualisierung wegen BugFix-Release Version 1.4.1 Aktualisierung wegen BugFix-Release Version 1.4.1 sowie neuer Patientenausdruck Aktualisierung wegen BugFix-Release Version 1.3.1
 
 ---
 
@@ -233,8 +217,7 @@ Aktualisierung wegen BugFix-Release Version 1.4.1 Aktualisierung wegen BugFix-Re
 |  | Lies_mich_Pruefassistent.txt | Hinweise zur Installation |
 |  | ReleaseNotes_Pruefassistent.html | Verzeichnis der Änderungen |
 
-Verordnung Aktualisierung aller Schlüssel Aktualisierung des Schlüssels Bereitstellung neuer Schlüssel Umsetzung des Updates Seite 9 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Verordnung Aktualisierung aller Schlüssel Aktualisierung des Schlüssels Bereitstellung neuer Schlüssel Umsetzung des Updates
 
 ---
 
@@ -260,8 +243,6 @@ Verordnung Aktualisierung aller Schlüssel Aktualisierung des Schlüssels Bereit
 | MEDIZINISCHE DOKUMENTATION |  |  |
 |---|---|---|
 
-Seite 10 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
 
 ---
 
@@ -280,22 +261,21 @@ Seite 10 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 -
 | KBV_ITA_SIEX_FAQ_eDMP | FAQ-Dokument zum Anforderungskatalog eDMP |  |
 | VSD_Testfaelle_DMP_V1.0.zip | Testdaten für Zertifzierung |  |
 | eDokumentation_KIM |  |  |
-| eDokumentation_V2.0.8.pdf | KIM Spezifikation für den Dienst eDokumentation |  |
+| e | KIM Spezifikation für den Dienst eDokumentation |  |
 | Begleitdatei_V1.0.3 | Schnittstellenbeschreibung für die Begleitdatei |  |
 | Begleitdatei.zip | Schema für die Begleitdatei |  |
 | Q4_2026 |  | Inkrafttreten 01.10.2026 |
 | Austausch_von_XML-Daten_V1.60 | Austausch von XML-Daten in der ärztl. Versorgung | - |
 | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend | Teilnahmeerklärung zum Behandlungsprogramm | - |
 
-Initiale Bereitstellung Initiale Bereitstellung Seite 11 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
-
+Dokumentation_V2.0.8.pdf Initiale Bereitstellung Initiale Bereitstellung
 
 ---
 
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP | - |
 |---|---|---|
-| EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | - |
-| EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz | - |
+| EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
+| EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |  |
 | Adipositas_Erwachsene |  | Inkrafttreten 01.10.2026 |
 | EXT_ITA_AHEX_Anleitung_eDMP_ADERW | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | - |
 | EXT_ITA_VGEX_Plausi_eDMP_ADERW | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | - |
@@ -310,8 +290,7 @@ Initiale Bereitstellung Initiale Bereitstellung Seite 11 von 29 / IT in der Arzt
 | Schnittstelle_Asthma_V4.47.zip | Schnittstelle Asthma bronchiale | - |
 | COPD |  | Inkrafttreten 01.10.2026 |
 
-Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Seite 12 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung
 
 ---
 
@@ -334,12 +313,7 @@ Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale
 | Schnittstelle_OST_V1.02.zip | Schnittstelle Osteoporose | - |
 | Herzinsuffizienz |  | Inkrafttreten 01.10.2026 |
 
-Seite 13 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung 35.00 / *13. Februar 2026*
-
+Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung
 
 ---
 
@@ -365,12 +339,7 @@ Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Initiale
 | EXT_ITA_VGEX_Plausi_BK_Folgedoku | Plausibilitäten zur Prüfung der Dokumentation FD |  |
 | KBV_ITA_AHEX_Pruefpaket_DMP_Brustkrebs | Prüfpaket DMP Brustkrebs |  |
 
-Seite 14 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Aktualisierung  35.00 / 13. Februar 2026
-
+Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Aktualisierung
 
 ---
 
@@ -398,12 +367,7 @@ Initiale Bereitstellung Initiale Bereitstellung Initiale Bereitstellung Aktualis
 | xpm-dmp-osteoporose-A-2026.2.0.zip | Prüfmodul Osteoporose für Teildatensatz | - |
 | xpm-dmp-ruecken-A-2026.2.0.zip | Prüfmodul Ruecken für Teildatensatz | - |
 
-Seite 15 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Aktualisierung  Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung 35.00 / *13. Februar 2026*
-
+Aktualisierung  Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktualisierung
 
 ---
 
@@ -431,12 +395,7 @@ Aktualisierung  Aktualisierung Aktualisierung Aktualisierung Aktualisierung Aktu
 | KBV_ITA_FMEX_AAZ_eHKS | Antrag auf Zertifizierung für eHKS |  |
 | xpm-hks-2026.2.0.zip | Prüfmodul Hautkrebs-Screening | - |
 
-Seite 16 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Aktualisierung Aktualisierung  Aktualisierung  Aktualisierung  35.00 / 13. Februar 2026
-
+Aktualisierung Aktualisierung  Aktualisierung  Aktualisierung
 
 ---
 
@@ -462,12 +421,7 @@ Aktualisierung Aktualisierung  Aktualisierung  Aktualisierung  35.00 / 13. Febru
 | Hoergeraeteversorgung-Kinder |  |  |
 | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |  |
 
-Seite 17 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Aktualisierung  Aktualisierung des einzusetzenden Schlüssels   35.00 / *13. Februar 2026*
-
+Aktualisierung  Aktualisierung des einzusetzenden Schlüssels
 
 ---
 
@@ -494,12 +448,7 @@ Aktualisierung  Aktualisierung des einzusetzenden Schlüssels   35.00 / *13. Feb
 | EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspez. Datensatz KHK |  |
 | EXT_ITA_VGEX_Plausi_eDMP_KHK | Plausibilitätsrichtlinie zur Prüfung Dokumentationsdaten |  |
 
-Seite 18 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Aktualisierung des einzusetzenden Schlüssels   35.00 / *13. Februar 2026*
-
+Aktualisierung des einzusetzenden Schlüssels
 
 ---
 
@@ -525,8 +474,7 @@ Aktualisierung des einzusetzenden Schlüssels   35.00 / *13. Februar 2026*
 | xpm-dmp-ruecken-2026.2.0.zip | XPM eDMP Rückenschmerz | - |
 | Depression |  |  |
 
-Aktualisierung  Aktualisierung  Aktualisierung  Seite 19 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Aktualisierung  Aktualisierung  Aktualisierung
 
 ---
 
@@ -553,12 +501,7 @@ Aktualisierung  Aktualisierung  Aktualisierung  Seite 19 von 29 / IT in der Arzt
 | KBV_ITA_VGEX_Plausi_QSMG | Berechnungsvorschriften zur Jahresstatistik QS MG |  |
 | Schnittstelle_QSMG_V1.11.zip | Schnittstelle QS Molekulargenetik |  |
 
-Seite 20 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version
-
-Aktualisierung  Aktualisierung  35.00 / 13. Februar 2026
-
+Aktualisierung  Aktualisierung
 
 ---
 
@@ -586,8 +529,6 @@ Aktualisierung  Aktualisierung  35.00 / 13. Februar 2026
 | KBV_ITA_SIEX_Verzeichnis_Zert_Software | Zulassungsübersicht |  |
 | KBV_ITA_SIEX_Verzeichnis_eArztbrief | Zulassungsliste eArztbrief |  |
 
-Seite 21 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
-
 
 ---
 
@@ -612,8 +553,7 @@ Seite 21 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 -
 | TOP4_1_Rechtsfragen_ePA.pdf | TOP 4 |  |
 | TOP4_2_ePAfuer_alle_Stand_der_Einfuehrung.pdf | TOP 4 |  |
 
-Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf unabweisbare_Bedarfe (1).pdf Ergänzung des Formulars „ Formular für den Förder- und Behandlungsplan (RV IHF) “ Initiale Bereitstellung Digitalisierung_Versorgungsprozesse_KBV.pdf Seite 22 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf unabweisbare_Bedarfe (1).pdf Digitalisierung_Versorgungsprozesse_KBV.pdf Ergänzung des Formulars „ Formular für den Förder- und Behandlungsplan (RV IHF) Initiale Bereitstellung
 
 ---
 
@@ -631,8 +571,7 @@ Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf unabw
 | SDARV | ARV-Stammdaten der teilnehmenden KVen |  |
 | Gesamtpaket_ARV_V4.02.zip | Datensatzbeschreibung ARV (Arzneimittelvereinbarungen) |  |
 
-74E26104.sdhma.01.zip   74E26203.sdops.zip   74E26104.sdicd.zip   74E26104.sdkrw.zip   74E26201.sdav.zip    74E26201.sdarv.zip   74E26204.sdkh.zip    74E25404.sdda.01.zip 74E25404.sdhm.01.zip 74E26201.sdhgnc.zip  74E26201.sdebm.zip   74E26201.sdkt.zip    74E26201.sdkv.zip    74E26201.sdkvca.zip  74E26201.sdplz.zip   74E26104.sdva.zip    74E26101.sdhdrg.01.zip  74E26201.sdarv.zip 74E26201.sdav.zip 74E26201.sdebm.zip 74E26201.sdhgnc.zip 74E26204.sdkh.zip 74E26201.sdkt.zip 74E26201.sdkv.zip 74E26201.sdkvca.zip 74E26203.sdops.zip 74E26201.sdplz.zip Seite 23 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+74E26104.sdhma.01.zip   74E26203.sdops.zip   74E26104.sdicd.zip   74E26104.sdkrw.zip   74E26201.sdav.zip    74E26201.sdarv.zip   74E26204.sdkh.zip    74E25404.sdda.01.zip 74E25404.sdhm.01.zip 74E26201.sdhgnc.zip  74E26201.sdebm.zip   74E26201.sdkt.zip    74E26201.sdkv.zip    74E26201.sdkvca.zip  74E26201.sdplz.zip   74E26104.sdva.zip    74E26101.sdhdrg.01.zip 74E26201.sdarv.zip 74E26201.sdav.zip 74E26201.sdebm.zip 74E26201.sdhgnc.zip 74E26204.sdkh.zip 74E26201.sdkt.zip 74E26201.sdkv.zip 74E26201.sdkvca.zip 74E26203.sdops.zip 74E26201.sdplz.zip
 
 ---
 
@@ -641,23 +580,22 @@ Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf unabw
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDAV | Datensatzbeschreibung SDAV (Arztverzeichnis) |  |
 | SDDA | Stammdatei Datenannahmestellen |  |
 | SDDA_V1.14.zip | Datensatzbeschreibung SDDA (Datenannahmestellen) |  |
-| SDEBM | EBM-Stammdatei |  |
+| SDEBM |  |  |
 | SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | - |
 | KBV_ITA_SIEX_Codierung_EBM_Zusatznummern | Codierungsziffern zu den Versichertenpauschalen |  |
 | KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos | Codierungsziffern zu den EBM Zusatznummern Narkosen |  |
 | GOP_Suffix_tf2026q2_nr1.csv | Mit dieser Datei werden weitere Informationen zu abgleiteten | - |
 | SDHM | Stammdatei Heilmittelkatalog |  |
 | SDHM_V2.10.zip | Datensatzbeschreibung SDHM (Version 2.10) |  |
-| SDHMA | Stammdatei BVB/LHM |  |
+| SDHMA |  |  |
 | SDHMA_V1.30.zip | Datensatzbeschreibung SDHMA |  |
 | SDICD | ICD-10-GM-Stammdatei |  |
 | SDICD_V2.4.0.zip | Datensatzbeschreibung SDICD (ICD-Stammdatei) |  |
-| SDKH | SDKH: Kodierhilfe |  |
+| SDKH |  |  |
 | SDKH_V1.01.zip | Datensatzbeschreibung SDKH (Kodierhilfe Stammdatei) |  |
-| SDKRW | KRW-Stammdatei |  |
+| SDKRW |  |  |
 
-Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BAR2_WBO GOPen und deren Bedeutung bereitgestellt (Q2/2026)  Aktualisierung Seite 24 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+GOPen und deren Bedeutung bereitgestellt (Q2/2026)  Stammdatei BVB/LHM SDKH: Kodierhilfe KRW-Stammdatei Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BAR2_WBO Aktualisierung
 
 ---
 
@@ -665,15 +603,15 @@ Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BA
 |---|---|---|
 | SDKT | Kostenträgerstammdatei |  |
 | SDKT_V1.05.zip | Datensatzbeschreibung KTS (Kostenträgerstammdatei) |  |
-| SDKV | KV-Spezifika-Stammdateien |  |
+|  |  |  |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDKV | Datensatzbeschreibung SDKV (KV-Spezifika-Stammdatei) |  |
-| SDKVCA | Stammdatei Empfängeradressen für KV-Connect |  |
+|  |  |  |
 | SDKVCA_V1.20.zip | Schnittstellenbeschreibung für die SDKVCA |  |
-| SDOPS | Stammdatei der OPS-Kodes |  |
+|  |  |  |
 | SDOPS_V1.00.zip | Datensatzbeschreibung der OPS-Stammdatentabelle |  |
-| SDPLZ | PLZ-Stammdatei |  |
+|  |  |  |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ | Datensatzbeschreibung SDPLZ (Postleitzahlen) |  |
-| SDVA | SDVA-Stammdatei |  |
+|  |  |  |
 | SDVA_V1.0.zip | Schnittstellenbeschreibung SDVA |  |
 | SDHDRG | SDHDRG-Stammdatei |  |
 | SDHDRG_V2.0.0.zip | Schnittstellenbeschreibung SDHDRG |  |
@@ -684,10 +622,7 @@ Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BA
 | KBV_ITA_AHEX_Pruefpaket_SMCB | Prüfpaket SMCB |  |
 | KBV_ITA_FMEX_AAZ_SMCB.pdf | Antrag auf Zertifizierung |  |
 
-Seite 25 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE I
-
-I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
-
+KV-Spezifika-Stammdateien Stammdatei Empfängeradressen für KV-Connect Stammdatei der OPS-Kodes PLZ-Stammdatei SDVA-Stammdatei
 
 ---
 
@@ -710,8 +645,7 @@ I/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / *13. Februar 2026*
 | Spezifikation 116117 Terminservice - Vermittlungscode_V1.0.2 | Spezifikation zum Verfahren 116 117 Vermittlungscode |  |
 | Spezifikation 116117 Terminservice Authentisierung_V1.0 | Spezifikation zum Verfahren 116 117 Authentisierung |  |
 
-Ergänzung Prüffall zu Behandlungsterminen Abs. 2 SGB V für dritte gemäß § 370a Abs. 2 SGB V und Abrechnungsinformationen Abrechnungsinformation_V1.0.2 Seite 26 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Ergänzung Prüffall zu Behandlungsterminen Abs. 2 SGB V für dritte gemäß § 370a Abs. 2 SGB V und Abrechnungsinformationen Abrechnungsinformation_V1.0.2
 
 ---
 
@@ -735,8 +669,7 @@ Ergänzung Prüffall zu Behandlungsterminen Abs. 2 SGB V für dritte gemäß § 
 | BMP |  |  |
 | EXT_ITA_VGEX_BMP_Anlage3 | Spezifikation für einen bundeseinheitlichen Medikationsplan |  |
 
-Abrechnungsinformation_V1.0.1 Abrechnungsinformationen Vermittlungscode_V1.0.1 (BMP) Seite 27 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
-
+Abrechnungsinformation_V1.0.1 Vermittlungscode_V1.0.1 Abrechnungsinformationen (BMP)
 
 ---
 
@@ -761,39 +694,61 @@ Abrechnungsinformation_V1.0.1 Abrechnungsinformationen Vermittlungscode_V1.0.1 (
 
 ### Legende zum Inhaltsverzeichnis
 
-Als eindeutiges Identifikationsmerkmal dient der Referenztitel. Er setzt sich aus insgesamt vier Stellen zusammen, die jeweils mit einem Unterstrich separiert sind.  Folgende Stellen des Referenztitels sind definiert:
+Als eindeutiges Identifikationsmerkmal dient der Referenztitel. Er setzt sich aus insgesamt vier Stellen
 
-(BMP) mit Änderungsmarkierung (BMP) mit Änderungsmarkierung von DiGA Seite 28 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
+### Folgende Stellen des Referenztitels sind definiert:
+
+(BMP) mit Änderungsmarkierung (BMP) mit Änderungsmarkierung von DiGA ### zusammen, die jeweils mit einem Unterstrich separiert sind.
 
 
 ---
 
 1. Organisation (Eigentümer) des Dokuments:
 
-a. Kassenärztliche Bundesvereinigung KBV
+a. Kassenärztliche Bundesvereinigung
 
-b. Externe          EXT
+b. Externe
 
-2. Thema: IT in der Arztpraxis      ITA
+2. Thema: *IT in der Arztpraxis*
 
 3. Kennzeichnung der Dokumentenart und Klassifizierung:
 
-a. Richtlinie:         RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines                     grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
+a. Richtlinie:
 
-b. Vorgabe:         VGEX (verbindliche technische oder fachliche Dokumentationen)
+b. Vorgabe:
 
-c. Anhang:          AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
+c. Anhang:
 
-d. Formular:         FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
+d. Formular:
 
-e. Service Informationen     SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
+e. Service Informationen
 
 4. Kurzform des Dokumententitels
 
-Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT - (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
+Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 ## HINWEISE ZUM DATENSCHUTZ
 
-Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV übernimmt keine Verantwortung für  Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten  (VSD_5.2.0_Testfaelle_VX.X.zip) unter [https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/). Weitere Informationen finden Sie unter  [http://www.kbv.de/html/datenschutz.php](http://www.kbv.de/html/datenschutz.php).
+Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten (VSD_5.2.0_Testfaelle_VX.X.zip) unter [https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](http://www.kbv.de/html/datenschutz.php)
 
-Seite 29 von 29 / IT in der Arztpraxis / INHALTSVERZEICHNIS ZUM UPDATE II/2026 - KBV_ITA_SIEX_Inhalt_Update * Version 35.00 / 13. Februar 2026
+KBV
+
+EXT
+
+ITA
+
+RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
+
+VGEX (verbindliche technische oder fachliche Dokumentationen)
+
+AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
+
+FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
+
+SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
+
+- (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
+
+. Weitere Informationen finden Sie unter
+
+mmt keine Verantwortung für

@@ -1,74 +1,254 @@
 ## TOP 20 Systeme - Psychotherapeuten
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-298 **Elefant**HASOMED GmbH
+2.98
 
-348 **psyprax**psyprax GmbH
+3.48
 
-295 **Epikur**Epikur Software GmbH & Co. KG
+2.95
 
-299 **SMARTY**New Media Company GmbH & Co. KG 253 **PsychoDat**ergosoft GmbH
+2.99
 
-462 **medatixx**medatixx GmbH & Co. KG 457 **tomedo**Zollsoft GmbH
+2.53
 
-216 **x.isynet**medatixx GmbH & Co. KG
+4.62
 
-456 **RED medical classic**RED Medical Systems GmbH
+4.57
 
-626 **RED Medical**RED Medical Systems GmbH
+2.16
 
-078 **Med7**Bitron GmbH Technologiesysteme
+4.56
 
-244 **QUINCY WIN**Frey ADV GmbH 10.65210.667-15
+6.26
 
-10.28310.339-56
+0.78
 
-5.5945.49995
+2.44
 
-4.4404.37565
+**Elefant**
 
-1.7091.7036
+**psyprax**
 
-49844058
+**Epikur**
 
-45139853
+**SMARTY**
 
-365378-13
+**PsychoDat**
 
-2722639
+**medatixx**
 
-16512441
+**tomedo**
 
-96100-4
+**x.isynet**
 
-87852
+**RED medical classic**
 
-1
+**RED Medical**
+
+**Med7**
+
+**QUINCY WIN**
+
+HASOMED GmbH
+
+psyprax GmbH
+
+Epikur Software GmbH & Co. KG
+
+New Media Company GmbH & Co. KG
+
+ergosoft GmbH
+
+medatixx GmbH & Co. KG
+
+Zollsoft GmbH
+
+medatixx GmbH & Co. KG
+
+RED Medical Systems GmbH
+
+RED Medical Systems GmbH
+
+Bitron GmbH Technologiesysteme
+
+Frey ADV GmbH 1
+
+1.0.652
+
+1.0.283
+
+5.594
+
+4.440
+
+1.709
+
+4.98
+
+4.51
+
+3.65
+
+2.72
+
+1.65
+
+9.6
+
+8.7
+
+1.0.667
+
+1.0.339
+
+5.499
+
+4.375
+
+1.703
+
+4.40
+
+3.98
+
+3.78
+
+2.63
+
+1.24
+
+1.00
+
+8.5
+
+-15
+
+-56
+
+9.5
+
+6.5
+
+6
+
+5.8
+
+5.3
+
+-13
+
+9
+
+4.1
+
+-4
+
+2
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG7477-3
+1.12
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 62566
+2.10
 
-203 **ALBIS**CompuGroup Medical Deutschland AG4647-1
+2.03
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG4350-7
+2.80
 
-266 **x.comfort**medatixx GmbH & Co. KG34331
+2.66
 
-083 **PegaMed**PEGA Elektronik GmbH3033-3
+0.83
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG26251 015 **MEDYS**MEDYS GmbH2427-3
+2.52
 
-2
+0.15
+
+**TURBOMED**
+
+**Medical Office**
+
+**ALBIS**
+
+**CGM MEDISTAR BLACK PRO**
+
+**x.comfort**
+
+**PegaMed**
+
+**CGM M1 PRO**
+
+**MEDYS**
+
+CompuGroup Medical Deutschland AG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+PEGA Elektronik GmbH
+
+CompuGroup Medical Deutschland AG
+
+MEDYS GmbH 2
+
+7.4
+
+6.2
+
+4.6
+
+4.3
+
+3.4
+
+3.0
+
+2.6
+
+2.4
+
+7.7
+
+5.6
+
+4.7
+
+5.0
+
+3.3
+
+3.3
+
+2.5
+
+2.7
+
+-3
+
+6
+
+-1
+
+-7
+
+1
+
+-3
+
+1
+
+-3

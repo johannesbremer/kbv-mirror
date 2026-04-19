@@ -1,6 +1,6 @@
 **Ausfertigung für den zytologisch tätigen Arzt**
 
-## 39
+**39**
 
 Name, Vorname des Versicherten
 
@@ -114,7 +114,7 @@ nach Östrogenbehandlung
 
 **Bemerkungen**
 
-**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);**  ***Diagnosen; sonstige Anmerkungen*** Monaten
+**Erläuterungen** ***ggf. gyn. Befunde (Vulva, Vagina, Portio);***  ***Diagnosen; sonstige Anmerkungen*** Monaten
 
 Gruppe
 

@@ -1,6 +1,8 @@
-**Name, Vorname des Versicherten**
+**Name, Vorname des VersichertenKostenträgerkennung**
 
-**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn spätestens am Tage der Begutachtung durch den Medizinischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
+**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.***
+
+***Dieser Vordruck ist dann nicht auszufüllen, wenn spätestens am Tage der Begutachtung durch den Medizinischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
 
 **Datum der letzten Untersuchung**
 
@@ -8,9 +10,9 @@
 
 **Befunde**
 
-**Mitbehandlung**
+**Mitbehandlung nein ja, im Fachbereich**
 
-**Es droht eine Verschlimmerung des Leidens**
+**Es droht** **eine Verschlimmerung des Leidens**
 
 **Besondere Hinweise**
 
@@ -24,11 +26,11 @@
 
 **Folgendes ist mit der Bitte um Rückgabe beigefügt:**
 
-|  | Röntgen- |  | Ultraschall- |  |
+|  | **Röntgen-** |  | **Ultraschall-** |  |
 |---|---|---|---|---|
-|  | befund |  | befund |  |
+|  | **befund** |  | **befund** |  |
 
-**Labor- Arzt- oder** **befund Krankenhausbericht**
+**Labor-** **Arzt- oder** **befund** **Krankenhausbericht**
 
 **Sonstiges**
 
@@ -36,13 +38,7 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**nein**
-
-**Kostenträgerkennung**
-
-**ja, im Fachbereich**
-
-**Tagen / Wochen möglich. (Nichtzutreffendes streichen)**
+**Tagen / Wochen möglich.**
 
 **EKG-** **befund**
 
@@ -52,10 +48,12 @@
 
 **oder**
 
+***(Nichtzutreffendes streichen)***
+
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **PRF.NR.** **Muster 11/E (1.2015)**
 
-**Behinderung**
-
 **11**
+
+**Behinderung**

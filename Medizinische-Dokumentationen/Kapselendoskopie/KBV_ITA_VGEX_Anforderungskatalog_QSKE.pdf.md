@@ -9,56 +9,86 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version |
+|  | Version  1.03 |
 
-selendoskopie KE] Herbert-Lewin-Platz 2 1.03 Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
+selendoskopie KE] Herbert-Lewin-Platz 2 Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
+
+Dokumentenhistorie
 
 Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.03 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in konditiona- | Abschaltung KV-Connect | 9 |
-| 1.02 | 14.02.2025 | KBV | • | KIM als Übertragungs- | 9 |
+| 1.02 | 14.02.2025 | KBV | • | weg | 9 |
 | 1.01 | 07.05.2018 | KBV | • • | Aktualisierung der KV- | 9 |
 | 1.00 | 31.07.2014 | KBV | Neues Dokument |  |  |
 
-Dokumentenhistorie
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen weg P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen Connect Spezifikation KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 2 von 12
-
+le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen KIM als Übertragungs- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen Connect Spezifikation
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS | Kapselendoskopie | |  |  |  |  |  |  |
-|  | INHALTSVERZEICHNIS | | |  |  |  |  |  |  |  |
-|  | DOKUMENTENHISTORIE | | |  | FEHLER! |  | TEXTMARKE | NICHT | DEFINIERT. | |
-|  | INHALTSVERZEICHNIS | | |  |  |  |  |  |  | 3 |
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  |  | 4 |
-| 1 |  |  | QUALITÄTSSICHERUNGSVEREINBARUNG | | |  |  | KAPSELENDOSKOPIE | 5 |  |
-| 1.1 | Zielbestimmung | |  |  |  | ............................................................................................................................. | | | | 5 |
-| 1.2 | Pflichtfunktionen | | und | optionale | Funktionen der | Software |  |  | ....................................................... | 5 |
-| 2 | ÄRZTLICHES |  |  | DOKUMENTIEREN |  |  |  |  |  | 6 |
-| 2.1 | Allgemeine | Vorgaben |  |  |  |  | .................................................................................................................... | | | 6 |
-|  | 2.1.1 | Vollständigkeit | der | Eingaben | aller | Bewegungsdaten |  | ............................................................ | | 6 |
-|  | 2.1.2 | Plausibilitäten |  |  |  | ......................................................................................................................... | | | | 7 |
-|  | 2.1.3 | Darstellung |  |  |  | ............................................................................................................................. | | | | 7 |
-|  | 2.1.4 | Speichern |  |  |  | ............................................................................................................................... | | | | 8 |
-|  | 2.1.5 Ändern |  |  |  |  | ................................................................................................................................... | | | | 8 |
-| 2.2 | Datenübermittlung | |  |  |  | ......................................................................................................................... | | | | 9 |
-|  | 2.2.1 |  |  |  |  | Übermittlung........................................................................................................................... | | | | 9 |
-|  | 2.2.2 Export | der | Daten |  |  |  | .................................................................................................................. | | | 11 |
-|  | 2.2.3 | Verschlüsseln | der | Daten |  |  | ...................................................................................................... | | | 11 |
-| 3 | REFERENZIERTE | |  | DOKUMENTE |  |  |  |  |  | 12 |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSKE | | * Version | 1.03 |  |  |  | Seite | 3 von 12 |
+INHALTSVERZEICHNIS
 
-FEHLER! TEXTMARKE NICHT DEFINIERT. QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5 ............................................................................................................................. 5 Pflichtfunktionen und optionale Funktionen der Software ....................................................... 5 ÄRZTLICHES DOKUMENTIEREN Allgemeine Vorgaben .................................................................................................................... 6 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten ............................................................ 6 2.1.2 Plausibilitäten ......................................................................................................................... 7 2.1.3 Darstellung ............................................................................................................................. 7 2.1.4 Speichern ............................................................................................................................... 8 2.1.5 Ändern ................................................................................................................................... 8 ......................................................................................................................... 9 2.2.1 Übermittlung........................................................................................................................... 9 2.2.2 Export der Daten .................................................................................................................. 11 2.2.3 Verschlüsseln der Daten ...................................................................................................... 11 REFERENZIERTE DOKUMENTE IT in der Arztpraxis Anforderungskatalog QS Kapselendoskopie KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 3 von 12
+### DOKUMENTENHISTORIE
+
+### INHALTSVERZEICHNIS
+
+### ABBILDUNGSVERZEICHNIS
+
+**1**
+
+### QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5
+
+**1.1** **Zielbestimmung ............................................................................................................................. 5**
+
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software**
+
+**2**
+
+### ÄRZTLICHES DOKUMENTIEREN
+
+**2.1** **Allgemeine Vorgaben .................................................................................................................... 6**
+
+2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten
+
+2.1.2 Plausibilitäten ......................................................................................................................... 7
+
+2.1.3 Darstellung ............................................................................................................................. 7
+
+2.1.4 Speichern ............................................................................................................................... 8
+
+2.1.5 Ändern ................................................................................................................................... 8
+
+**2.2** **Datenübermittlung ......................................................................................................................... 9**
+
+2.2.1 Übermittlung........................................................................................................................... 9
+
+2.2.2 Export der Daten .................................................................................................................. 11
+
+2.2.3 Verschlüsseln der Daten ...................................................................................................... 11
+
+**3**
+
+### REFERENZIERTE DOKUMENTE
+
+### FEHLER! TEXTMARKE NICHT DEFINIERT.
+
+**3**
+
+**4**
+
+**....................................................... 5**
+
+**6**
+
+............................................................ 6
+
+**12**
+
 
 ---
 
@@ -66,13 +96,12 @@ FEHLER! TEXTMARKE NICHT DEFINIERT. QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSK
 |---|---|---|---|---|---|
 |  | Anforderungskatalog | QS | Kapselendoskopie |  |  |
 |  | Abbildungsverzeichnis | |  |  |  |
-| A BBILDUNG | :1 B | ERICHTSZEITRÄUME | ................................................................................................................................ |  |  |
+| *ABBILDUNG* | *:1 B ERICHTSZEITRÄUME* |  | ................................................................................................................................ |  |  |
 |  |  | KBV_ITA_VGEX_Anforderungskatalog_QS | | KE * | Version 1.03 |
 
 6
 
-1: IT in der Arztpraxis Anforderungskatalog QS Kapselendoskopie KE * Version 1.03Seite 4 von 12
-
+1: KE * Version 1.03
 
 ---
 
@@ -80,25 +109,21 @@ FEHLER! TEXTMARKE NICHT DEFINIERT. QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSK
 
 ### Qualitätssicherungsvereinbarung Kapselendoskopie
 
-### 1.1
-
-### Zielbestimmung
+**1.1 Zielbestimmung**
 
 Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Kapselendoskopie (QSKE) [1] eingesetzt wird. Es wird eine arztbezogene Jahres- statistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
-- die Kapselendoskopie Jahresstatistik korrekt zu dokumentieren sowie
-- den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
+-  die Kapselendoskopie Jahresstatistik korrekt zu dokumentieren sowie
+-  den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
 
-### 1.2
-
-### Pflichtfunktionen und optionale Funktionen der Software
+**1.2 Pflichtfunktionen und optionale Funktionen der Software**
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-**Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein.**
+müssen in der Anwendungssoftware implementiert sein. **Pflichtfunktionen**
 
-**Optionale Funktionen können implementiert werden, wenn alle genannten Bedingungen zu**  dieser Funktion erfüllt sind.
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -116,7 +141,7 @@ Erläuterung der Funktionsdarstellung
 |---|---|
 | P4-10 | Funktionsbezeichnung |
 
-Ident-Nummer einer Pflichtfunktion  Ident-Nummer einer älteren Version
+Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
@@ -126,10 +151,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-(2-70) Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation über die Funktionen erleichtert.  Pflichtfunktionen sind wie folgt gekennzeichnet: KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 5 von 12
-
+(2-70) Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation über die Funktionen erleichtert.  Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 ---
 
@@ -137,9 +159,7 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 ### Ärztliches Dokumentieren
 
-### 2.1
-
-### Allgemeine Vorgaben
+**2.1 Allgemeine Vorgaben**
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
@@ -149,7 +169,7 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Kapselendoskopie Jahresstatistik ermöglichen.
 
-Die in der Schnittstellenbeschreibung QS Kapselendoskopie  [KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er- fassbar sein.
+Die in der Schnittstellenbeschreibung QS  [KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er- fassbar sein.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -157,23 +177,25 @@ Die in der Schnittstellenbeschreibung QS Kapselendoskopie  [KBV_ITA_VGEX_Schnitt
 
 Die Behandlungsfälle werden erstmals drei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge- führt werden.
+Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-
+
+führt werden.
 
 Meldequartal: 01.01.-31.03. Das sich an das Untersuchungsjahr anschließende Quartal.
 
 Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal dient den  Korrekturen.
 
-Abbildung 1: Berichtszeiträume 31.03 31.12 30.06 01.01
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-Melde- Prüfquartal
+01.01 31.12 31.03
 
 ### Untersuchungsjahr
 
-quartal
+Abbildung 1: Berichtszeiträume
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 6 von 12
+### Melde- quartal
+
+Kapselendoskopie 30.06
+
+### Prüfquartal
 
 
 ---
@@ -182,7 +204,9 @@ KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 6 von 12
 |---|---|
 | P1-30 | Arztbezug |
 
-Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel- len.
+Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel-
+
+len.
 
 Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSKE-Dokumentation zu erfassen.
 
@@ -190,7 +214,9 @@ Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwe
 |---|---|
 | P1-35 | Patienten der QSKE Dokumentation |
 
-Für die Dokumentation der QS Kapselendoskopie werden nur Patienten der gesetzlichen  Krankenversicherung berücksichtigt.
+Für die Dokumentation der QS Kapselendoskopie werden nur Patienten Krankenversicherung berücksichtigt.
+
+der gesetzlichen
 
 **2.1.2 Plausibilitäten**
 
@@ -216,10 +242,6 @@ Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE] g
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 7 von 12
-
 
 ---
 
@@ -229,7 +251,7 @@ KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 7 von 12
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-**2.1.4 Speichern**
+**Speichern 2.1.4**
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -237,7 +259,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudru
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-**2.1.5 Ändern**
+**Ändern 2.1.5**
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -245,16 +267,10 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 8 von 12
-
 
 ---
 
-### 2.2
-
-### Datenübermittlung
+**2.2 Datenübermittlung**
 
 **2.2.1 Übermittlung**
 
@@ -276,7 +292,7 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dokumentationen auf Basis von KV-Connect bereitstellen.
 
-**Begründung:**
+**Begründung**
 
 Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSKE-Dokumentation auf Basis von KV-Connect.
 
@@ -284,9 +300,9 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
-- „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
+-  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
 
-- „KV-Connect – Anbindung an KV-Connect“ in der stets aktuellen Version  [Anbindung_KV_Connect]
+Anbindung an KV-Connect“ in der stets aktuellen Version -  „KV-Connect  [Anbindung_KV_Connect]
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -298,10 +314,6 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dok
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSKE-Dokumentation auf Basis von KIM.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 9 von 12
-
 
 ---
 
@@ -309,7 +321,7 @@ KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 9 von 12
 
 (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
 
-- "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]  **Bedingung:**
+-  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]   **Bedingung:**
 
 (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.  (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.  **Hinweis:**
 
@@ -337,10 +349,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.  (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 10 von 12
-
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
 
 ---
 
@@ -372,27 +381,21 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 11 von 12
-
 
 ---
 
 **3**
 
-### Referenzierte Dokumente
+## Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
-| [KBV_ITA_VGEX_Schnittstelle_QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
+| [KBV_ITA_VGEX_Schnittstelle_ QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise zur Jahresstatistik für |
-| [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für Kap- |
+| [KBV_ITA_VGEX_Plausi_QSKE ] | Berechnungsvorschriften zur Jahresstatistik für Kap- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-Versorgung Kapselendosko-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 Seite 12 von 12
+Versorgung Kapselendosko-

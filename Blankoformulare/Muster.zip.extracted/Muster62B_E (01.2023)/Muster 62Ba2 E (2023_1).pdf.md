@@ -1,50 +1,54 @@
-### Antrag des Versicherten auf außerklinische Intensivpflege (Nicht auszufüllen bei Vorabinformation aus Krankenhaus)
+Name, Vorname des Versicherten
 
-### Angaben des Leistungserbringers nach § 132l Abs. 5 SGB V (Nicht auszufüllen bei Vorabinformation aus Krankenhaus)
+### Antrag des Versicherten auf außerklinische Intensivpflege
 
-Ich beantrage außerklinische Intensivpflege für die Zeit vombis
+Ich beantrage außerklinische Intensivpflege für die Zeit vom
 
-Bevollmächtige/r bzw. Betreuer/in
+in meinem Haushalt in einer vollstationären  Pflegeeinrichtung
 
-Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
+Leistungsort Name des Leistungortes
 
-Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt?
+Kostenträgerkennung
 
-Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer (§ 132l Abs. 5 SGB V)
+im Haushalt einer sonstigen Person
 
-Die außerklinische Intensivpflege wird täglich in der Zeit
+in einer Schule, Kindergarten
+
+in einer betreuten Wohnform
+
+Straße, Haus-Nr
+
+PLZ Ort
+
+Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt? Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
 
 Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt.
 
-Unterschrift des Versicherten  oder des gesetzlichen Vertreters
+An der Versorgung beteiligte An- und Zugehörige Name
 
-Datum
-
-Datum
+Straße, Haus-Nr
 
 PLZ Ort
 
-Straße, Haus-Nr
+Bevollmächtige/r bzw. Betreuer/in
 
 Name
 
-Telefonnummer (freiwillige Angabe)
-
-An der Versorgung beteiligte An- und Zugehörige
+Straße, Haus-Nr
 
 PLZ Ort
 
+Telefonnummer ***(freiwillige Angabe)***
+
+### Angaben des Leistungserbringers nach § 132l Abs. 5 SGB V
+
+Die außerklinische Intensivpflege wird täglich in der Zeit
+
+vom bisim Umfang von Stunden erbracht.
+
+Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer Name
+
 Straße, Haus-Nr
-
-Name
-
-Leistungsort
-
-PLZ Ort
-
-Straße, Haus-Nr
-
-Name des Leistungortes
 
 PLZ Ort
 
@@ -52,23 +56,15 @@ Institutionskennzeichen
 
 Ansprechpartner (Name)
 
-Straße, Haus-Nr
-
-Name
-
 Telefonnummer Fax-Nr.
 
 E-Mail-Adresse
 
-Stempel / Unterschrift des Leistungserbringers
+Versicherten-Nr.
 
-Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung
+***(Nicht auszufüllen bei Vorabinformation aus Krankenhaus)***
 
-in meinem Haushaltim Haushalt einer sonstigen Person
-
-in einer Schule, Kindergarten in einer vollstationären  Pflegeeinrichtung
-
-in einer betreuten Wohnform
+bis
 
 in einer Werkstatt für  behinderte Menschen
 
@@ -76,6 +72,16 @@ in einer Wohneinheit
 
 in einer sonstigen Einrichtung
 
-vom bisim Umfang von Stunden erbracht.
+Datum
+
+Unterschrift des Versicherten  oder des gesetzlichen Vertreters
+
+***(Nicht auszufüllen bei Vorabinformation aus Krankenhaus)***
+
+***(§ 132l Abs. 5 SGB V)***
+
+Datum
+
+Stempel / Unterschrift des Leistungserbringers
 
 PRF.NR.  Muster 62Ba.2/E (1.2023)

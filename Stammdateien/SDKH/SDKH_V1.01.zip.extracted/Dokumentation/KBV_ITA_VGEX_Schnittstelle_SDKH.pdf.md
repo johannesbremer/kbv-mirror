@@ -11,7 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnung: Öffentlich Status: In Kraft  © Kassenärztliche Bundesvereinigung, Berlin 2018
+SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
@@ -23,60 +23,98 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 | 1.01 | 30.07.2012 | KBV | redaktionelle Überarbeitung |  |  |
 | 1.00 | 01.02.2011 | KBV | neues Dokument |  |  |
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 2 14 von
+* Version 1.01
 
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | | SDKH | (Kodierhilfe-Stammdatei) | |  |  |
-|  |  | INHALTSVERZEICHNIS | | |  |  |  |
-|  | DOKUMENTENHISTORIE | | |  |  |  | 2 |
-|  | INHALTSVERZEICHNIS | |  |  |  |  | 3 |
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  | 4 |
-|  | TABELLENVERZEICHNIS | | |  |  |  | 5 |
-|  | XML-CODE-VERZEICHNIS | | |  |  |  | 6 |
-| 1 | EINLEITUNG |  |  |  |  |  | 7 |
-| 2 | DATEINAMEN |  |  |  |  |  | 7 |
-| 3 | SEMANTIK | DER |  | VERWENDETEN | DIAGRAMM-SYMBOLE |  | 7 |
-| 3.1 | Kardinalität |  |  |  | ..................................................................................................................................... | | 7 |
-| 3.2 | Strukturelemente | |  |  | ........................................................................................................................... | | 8 |
-| 3.3 | Sonstige | Symbole |  |  | ......................................................................................................................... | | 8 |
-| 4 | BESCHREIBUNG | | VON | EHD |  |  | 9 |
-| 4.1 | Element | header |  |  | .............................................................................................................................. | | 9 |
-| 4.2 | body | (Datenbereich) |  |  | .................................................................................................................... | | 11 |
-| 4.3 | diagnosen_liste |  |  |  | ........................................................................................................................... | | 11 |
-|  | 4.3.1 diagnose |  |  |  | .............................................................................................................................. | | 11 |
-| 4.3.2 | icd_code |  |  |  | .............................................................................................................................. | | 12 |
-|  | 4.3.3 | hinweis_liste/hinweis | |  | ........................................................................................................... | | 12 |
-|  | 4.3.4 | kriterien_liste/kriterium | |  | ......................................................................................................... | | 12 |
-|  | 4.3.4.1 | id |  |  | ........................................................................................................................... | | 12 |
-|  | 4.3.4.2 | notwendig |  |  | ............................................................................................................. | | 12 |
-|  | 4.3.4.3 | text |  |  | ........................................................................................................................ | | 12 |
-| 5 | REFERENZIERTE | |  | DOKUMENTE |  |  | 14 |
-|  | KBV_ITA_VGEX_Schnittstelle_SDKH | | * | Version 1.01 |  | Seite | 3 14 von |
+**INHALTSVERZEICHNIS**
 
-SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE ..................................................................................................................................... 7 ........................................................................................................................... 8 Sonstige Symbole ......................................................................................................................... 8 BESCHREIBUNG VON EHD Element header .............................................................................................................................. 9 body (Datenbereich) .................................................................................................................... 11 ........................................................................................................................... 11 .............................................................................................................................. 11 4.3.2 icd_code .............................................................................................................................. 12 4.3.3 hinweis_liste/hinweis ........................................................................................................... 12 4.3.4 kriterien_liste/kriterium ......................................................................................................... 12 ........................................................................................................................... 12 notwendig ............................................................................................................. 12 ........................................................................................................................ 12 REFERENZIERTE DOKUMENTE IT in der Arztpraxis Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei) KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01 Seite 3 14
+**DOKUMENTENHISTORIE**
+
+**INHALTSVERZEICHNIS**
+
+**ABBILDUNGSVERZEICHNIS**
+
+**TABELLENVERZEICHNIS**
+
+**XML-CODE-VERZEICHNIS**
+
+**1** **EINLEITUNG**
+
+**2** **DATEINAMEN**
+
+**3** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
+
+**3.1** **Kardinalität ..................................................................................................................................... 7**
+
+**3.2** **Strukturelemente ........................................................................................................................... 8**
+
+**3.3** **Sonstige Symbole ......................................................................................................................... 8**
+
+**4** **BESCHREIBUNG VON EHD**
+
+**4.1** **Element header .............................................................................................................................. 9**
+
+**4.2** **body (Datenbereich) .................................................................................................................... 11**
+
+**4.3** **diagnosen_liste ........................................................................................................................... 11**
+
+4.3.1 diagnose .............................................................................................................................. 11
+
+4.3.2 icd_code .............................................................................................................................. 12
+
+4.3.3 hinweis_liste/hinweis ........................................................................................................... 12
+
+4.3.4 kriterien_liste/kriterium ......................................................................................................... 12 *4.3.4.1* *id ........................................................................................................................... 12* *4.3.4.2* *notwendig ............................................................................................................. 12* *4.3.4.3* *text ........................................................................................................................ 12*
+
+**5** **REFERENZIERTE DOKUMENTE**
+
+**2**
+
+**3**
+
+**4**
+
+**5**
+
+**6**
+
+**7**
+
+**7**
+
+**7**
+
+**9**
+
+**14**
+
 
 ---
 
-| IT in | der Arztpraxis |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | SDKH |  | (Kodierhilfe-Stammdatei) | |  |  |  |
-|  |  |  | ABBILDUNGSVERZEICHNI | | | S |  |  |
-| Abbildung | 1 | Grundstruktur |  | ehd |  | ................................................................................................ |  | 9 |
-| Abbildung | 2 Element | id |  |  |  | ............................................................................................................ |  | 9 |
-| Abbildung | 3 | Element | document_type_cd | |  | ............................................................................... |  | 10 |
-| Abbildung | 4 Element | provider |  |  |  | ................................................................................................ |  | 10 |
-| Abbildung | 5 Element | interface |  |  |  | ............................................................................................... |  | 11 |
-|  | KBV_ITA_VGEX_Schnittstelle_SDKH | | * | Version | 1.01 |  | Seite | 4 14 von |
+*ABBILDUNGSVERZEICHNI S*
 
-Abbildung 1 Grundstruktur Abbildung 2 Element id Abbildung 3 Element document_type_cd Abbildung 4 Element provider Abbildung 5 Element interface IT in der Arztpraxis Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei) KBV_ITA_VGEX_Schnittstelle_SDKH * Version Seite 4 14
+Abbildung 1 Grundstruktur ehd ................................................................................................
+
+Abbildung 2 Element id ............................................................................................................
+
+Abbildung 3 Element document_type_cd ...............................................................................
+
+Abbildung 4 Element provider ................................................................................................
+
+Abbildung 5 Element interface ...............................................................................................
+
+* Version 1.01 9
+
+9
+
+10
+
+10
+
+11
+
 
 ---
 
@@ -86,11 +124,7 @@ Tabelle 2 Beschreibung der Strukturelement- Symbole ............................
 
 Tabelle 3 Beschreibung sonstiger Symbole ............................................................................. 8
 
-IT in der Arztpraxis  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01
-
-Seite 5 14 von
+* Version 1.01
 
 
 ---
@@ -99,15 +133,11 @@ Seite 5 14 von
 
 XML -Code 1 ehd Beispiel ......................................................................................................... 9
 
-XML --headerCode 2 ehd ........................................................................................................ 11
+Code 2 ehdXML --header ........................................................................................................ 11
 
 XML --bodyCode 3 ehd ........................................................................................................... 13
 
-IT in der Arztpraxis  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01
-
-Seite 6 14 von
+* Version 1.01
 
 
 ---
@@ -128,11 +158,13 @@ Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie 
 
 Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
-**sdkh ...** Datentyp der ehd-Schnittstelle
+**sdkh** ... Datentyp der ehd-Schnittstelle
 
-**vv.vv .........** Version der Schnittstelle; Entspricht dem Element <version> des Header- Elements <interface>.   **sender ......** Absender der Lieferung, entspricht der KV 74.
+**vv.vv** ......... Version der Schnittstelle; Entspricht dem Element  Elements ***<interface>***
 
-Beispiel: - sdkh_1.00_74.xml
+**sender** ...... Absender der Lieferung, entspricht der KV 74.
+
+Beispiel: -  sdkh_1.00_74.xml
 
 **3**
 
@@ -140,9 +172,7 @@ Beispiel: - sdkh_1.00_74.xml
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
-### 3.1
-
-### Kardinalität
+**3.1 Kardinalität**
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -154,18 +184,13 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1 Beschreibung der Kardinalitäten**
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
+***<version>*** des Header-
 
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. ∞ drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. Seite 7 14 von
-
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B.
 
 ---
 
-### 3.2
-
-### Strukturelemente
+**3.2 Strukturelemente**
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
@@ -176,9 +201,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 Beschreibung der Strukturelement-Symbole**
 
-### 3.3
-
-### Sonstige Symbole
+**3.3 Sonstige Symbole**
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -191,11 +214,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3 Beschreibung sonstiger Symbole**
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 8 14 von
+elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst.
 
 
 ---
@@ -206,25 +225,23 @@ elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgef
 
 Die Schnittstelle Stammdatei Kodierhilfe basiert auf der EHD-Richtlinie V1.40  [KBV_ITA_VGEX_EHD]. Damit entspricht die XML-u Struktur vom header und keytabs gena den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden eigene Elemente definiert, die im  Kapitel 4.2 beschrieben werden.
 
-Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e-/Kleinschreibung zu b achten.
+Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  /Kleinschreibung zu bdie in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement ehd, welches sich aus  den beiden Kindelementen header und body zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
 
 **Abbildung 1 Grundstruktur ehd**
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben:   <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd xmlns="urn:ehd/001" xmlns:dib="urn:ehd/sdkh/001" ehd_version="1.40" >  <header>   ...  <header>  <body>   ...  </body>  </ehd>
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:   <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd xmlns="urn:ehd/001" xmlns:dib="urn:ehd/sdkh/001" ehd_version="1.40" > <header>   ...  <header>  <body>   ...  </body>  </ehd>
 
 **XML-Code 1 ehd Beispiel**
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_EHD] auf  der diese Schnittstelle aufbaut an.
 
-### 4.1
+**4.1 Element header**
 
-### Element header
+Spezifikation. Die genaue BeschreDer header ist eine Untermenge vom header der EHD-i- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
 
-Der header ist eine Untermenge vom header der EHD-i-Spezifikation. Die genaue Beschre bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
-
-- Id-Element: Der Herausgeber der XML--Stammdatei ist die KBV, in das Dokument id Element sind folgende Daten anzugeben:
+Stammdatei ist die KBV, in das Dokument -  Id-Element: Der Herausgeber der XML-- id Element sind folgende Daten anzugeben:
 
 o id-Element im EX-Attribut steht eine eindeutige id (GUID)
 
@@ -232,52 +249,38 @@ o id-Element im RT-Attribut steht die KBV-OID „1.2.276.0.76.5.3.1.1“.
 
 **Abbildung 2 Element id**
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 9 14 von
-
 
 ---
 
-- Im document_type_cd-lElement wurde der Dokumenttyp festgeegt:
+-  Im document_type_cd-lElement wurde der Dokumenttyp festgeegt:
 
 o document_type_cd im V-Attribut ist der Wert: „SDKH“ fest vorgeschrieben.
 
 **Abbildung 3 Element document_type_cd**
 
-- das Element service_tmr ist Pflicht und gibt den Gültigkeitszeitraum an. Das Ende der  Gültigkeit ist normalerweise unbekannt, d.h. es wird kein Wert angegeben.
+-  das Element service_tmr ist Pflicht und gibt den Gültigkeitszeitraum an. Das Ende der  Gültigkeit ist normalerweise unbekannt, d.h. es wird kein Wert angegeben.
 
 z.B. “2010-01-01..“
 
-- Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or- ganisation (KBV). Die Vorgaben im organization-Element enthalten:
+-  Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or- ganisation (KBV). Die Vorgaben im organization-Element enthalten:
 
-o organization.id-:Element EX- Attribut enthält die Nummer „74“, RT-t-Attribut en hält den String „“) 1.2.276.0.76.5.233
+Element EX- Attribut enthält die Nummer „74“, RT-t-o organization.id-:Attribut en 1.2.276.0.76.5.233hält den String „“)
 
 o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes- vereinigung”)
 
 o (optional) organization.addr-Element Adresse der Organisation („Herbertle- winstr 2, 10623 Berlin“)
 
-o (optional) organization.telecom- Element Telefonnummer der Organisation  („03040052121“)
+Element Telefonnummer der Organisation o (optional) organization.telecom-  („03040052121“)
 
 **Abbildung 4 Element provider**
 
-- Im Interface- Element werden die Schnittstellendaten eingegeben:
+-  Im Interface- Element werden die Schnittstellendaten eingegeben:
 
 o id-Element im EX-Attribut ist der Wert „SDKH“ fest vorgeschrieben. RT-Attribut  enthält den Wert: „1.2.276.0.76.5.109“.
 
 o interface.nm-Element im V-Attribut ist der Wert: „Stammdatei Kodierhilfe“ fest  vorgeschrieben.
 
-o version im V-- Attribut wird die Version der Kodierhilfe Schemata eingetragen  (z.B. „1.00“).
-
-**IT in der Arztpraxis** Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 10 14
-
-von
+Attribut wird die Version der Kodierhilfe Schemata eingetragen o version im V--  (z.B. „1.00“).
 
 
 ---
@@ -286,84 +289,57 @@ Abbildung 5 Element interface
 
 XML -Beispiel
 
-| </organization>       </header |
+| EX=" ag111105-       </ organization>       </ header > |
 |---|
 
 XML-Code 2 ehd-header 4.2 body (Datenbereich)
 
-Im Bereich ***<body> liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann***  der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh /001“.  4.3 diagnose n_liste
+Im Bereich ***<body>*** liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann  der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh /001“.  4.3 diagnose n_liste
 
-Das Element ***<diagnosen_liste> beinhaltet*** eine Liste der Diagnosen.
-
-| diagram |  |
-|---|---|
-| namespace | urn:ehd/evl/001 |
-
-*4.3.1 diagnose*
-
-Eine Diagnose enthält einen ICD -e-10 Kode, eine Liste mit Hinweisen und eine Liste mit Krit rien.
-
-IT in der Arztpraxis  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01
-
-<header <id RT ="1.2.276.0.76.5.3.1.1"  EX=" ag111105- 2d51- 4016- 831e- cbd9e1a318h9"/> document_type_cd V="SDKH "/> <service_tmr  V="2011- 01- 01.."/> <origination_dttm  V="2011- 02- 02"/> <provider <organization <id EX ="74" RT ="1.2.276.0.76.5.233"/> </provider <> interface <id EX ="SDKH " RT ="1.2.276.0.76.5.109"/> <interface.nm  V="Stammdatei Kodierhilfe"/> version V="1.0 0"/> </interface>Seite 11 14von
-
-
----
+beinhaltet eine Liste der Diagnosen. Das Element ***<diagnosen_liste>***
 
 | diagram |  |
 |---|---|
 | namespace | urn:ehd/evl/001 |
 
+*4.3.1* *diagnose*
+
+-e-10 Kode, eine Liste mit Hinweisen und eine Liste mit KritEine Diagnose enthält einen ICD rien.
+
+* Version 1.01
+
+<header > 2d51- 4016- 831e- cbd9e1a318h9"/> <id RT =" 1.2.276.0.76.5.3.1.1" document_type_cd V =" SDKH "/> <service_tmr  V =" 2011- 01- 01.."/> <origination_dttm  V =" 2011- 02- 02"/> <provider <organization <id EX =" 74" RT =" 1.2.276.0.76.5.233"/> </ provider interface <id EX =" SDKH " RT =" 1.2.276.0.76.5.109"/> <interface.nm  V =" Stammdatei Kodierhilfe"/> version V =" 1.0 0"/> </ interface>
+
+---
+
+| diagram |  |
+|---|---|
+| namespace urn:ehd/evl/001 |  |
+
 |  |
 |---|
-| diagram  namespace urn:ehd/evl/001  4.3.2 icd_code Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- Im V-Attribut steht formatiert der ICD--Z]( Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei. Z.B.   4.3.3 hinweis_liste/hinweis Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut 4.3.4 kriterien_liste/kriterium Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert 4.3.4.1 Das Element <id> enthält die Kriteriennummer. Im EX-n- 4.3.4.2 Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom 4.3.4.3 Im Element <text>, im V- |
+| diagram  namespace urn:ehd/evl/001  4.3.2 Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- 10 Kode Das Format: ([A Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei. Z.B.   4.3.3 Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut 4.3.4 Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert 4.3.4.1 id Das Element <id> enthält die Kriteriennummer. Im EX-n- 4.3.4.2 notwendig Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom 4.3.4.3 text Im Element <text>, im V- |
 
-**IT in der Arztpraxis** Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 12 14
-
-von
-
-10 Kode sind Hinweise und Kriterien zugeordnet.  10 Kode Das Format: ([A \d{1,2})?(\.)?(\d)?(\d|[\*\+\- ])?)|UUU  - (z.B. A00.0, A00. usw.) ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384 ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388 steht. Eine Diagnose kann mehrere Hinweise haben.  weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben. Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.  Datentyp boolean.  Attribut steht der Kriterientext. XML-Beispiel <ehd:body> <> diagnosen_liste <diagnose> icd_codeV="I21.0"/> <hinweis_liste> <> <text V="Akute Notfallsituation"/>
+10 Kode sind Hinweise und Kriterien zugeordnet.  Im V-Attribut steht formatiert der ICD--Z]( \d{1,2})?(\.)?(\d)?(\d|[\*\+\- usw.) ])?)|UUU  - (z.B. A00.0, A00. ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384 ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388 hinweis_liste/hinweis steht. Eine Diagnose kann mehrere Hinweise haben.  kriterien_liste/kriterium weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben. Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.  Datentyp boolean.  Attribut steht der Kriterientext. XML-Beispiel <ehd:body> diagnosen_liste <diagnose> icd_code V="I21.0"/> <hinweis_liste> <text V="Akute Notfallsituation"/>
 
 ---
 
 |  |
 |---|
-|  |
+| "/> |
 
-**XML-Code 3 ehd-body**
+### XML-Code 3 ehd-body
 
-**IT in der Arztpraxis** Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 13 14
-
-von
-
-</hinweis> <> hinweis <text V="Akute Brustschmerzen"/> </hinweis> </hinweis_liste> <> kriterien_liste <kriterium> <id EX="231141" RT="1.2.276.0.76.3.1.1.5.4.4"/>  < notwendigV="true"/>  <text V="Akut oder bis zu vier Wochen (28 Tage) zurückliegend "/> </kriterium> <kriterium> <id EX="231242" RT="1.2.276.0.76.3.1.1.5.4.4"/> < notwendigV="true"/>  <text V="ST-Anhebung, Lokalisation im EKG"/> </kriterium> </kriterien_liste> </diagnose> </diagnosen_liste> </ehd:body>
+</hinweis> hinweis <text V="Akute Brustschmerzen"/> </hinweis> </hinweis_liste> kriterien_liste <kriterium> <id EX="231141" RT="1.2.276.0.76.3.1.1.5.4.4"/>  notwendig V="true"/>  <text V="Akut oder bis zu vier Wochen (28 Tage) zurückliegend </kriterium> <kriterium> <id EX="231242" RT="1.2.276.0.76.3.1.1.5.4.4"/> notwendig V="true"/>  <text V="ST-Anhebung, Lokalisation im EKG"/> </kriterium> </kriterien_liste> </diagnose> </diagnosen_liste> </ehd:body>
 
 ---
 
 **5**
 
-### Referenzierte Dokumente
+## Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_EHD] | ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und |
-
-**IT in der Arztpraxis** Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
-**KBV_ITA_VGEX_Schnittstelle_SDKH * Version 1.01**
-
-Seite 14 14
-
-von
 
 Namensgebung beim Entwurf von XML -Schnittstellen

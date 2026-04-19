@@ -1,70 +1,254 @@
 ## TOP 20 Systeme - Mund-Kiefer-Chirurgie
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-421 **EVIDENT**EVIDENT GmbH
+4.21
 
-262 **DS-WIN-PLUS (DS-WIN-MED)** DAMPSOFT GmbH
+2.62
 
-332 **Z1**CompuGroup Medical Dentalsysteme GmbH
+3.32
 
-313 **Medi10**UfP Systemhaus GmbH
+3.13
 
-752 **INFINITYQ HEALTH**CROSSSOFT. GmbH 457 **tomedo**Zollsoft GmbH
+7.52
 
-078 **Med7**Bitron GmbH Technologiesysteme
+4.57
 
-462 **medatixx**medatixx GmbH & Co. KG
+0.78
 
-216 **x.isynet**medatixx GmbH & Co. KG
+4.62
 
-254 **ORBIS®**Dedalus HealthCare GmbH
+2.16
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH
+2.54
 
-422 **ClinicCentre Billing (OPD)** Mesalvo Mannheim GmbH 7127102
+2.10
 
-89845
+4.22
 
-21210
+**EVIDENT**
 
-12120
+**DS-WIN-PLUS (DS-WIN-MED)**
 
-660
+**Z1**
 
-651
+**Medi10**
 
-34-1
+**INFINITYQ HEALTH**
 
-34-1
+**tomedo**
 
-330
+**Med7**
 
-220
+**medatixx**
 
-23-1
+**x.isynet**
 
-110
+**ORBIS®**
+
+**Medical Office**
+
+**ClinicCentre Billing (OPD)**
+
+EVIDENT GmbH
+
+DAMPSOFT GmbH
+
+CompuGroup Medical Dentalsysteme GmbH
+
+UfP Systemhaus GmbH
+
+CROSSSOFT. GmbH
+
+Zollsoft GmbH
+
+Bitron GmbH Technologiesysteme
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+Dedalus HealthCare GmbH
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+Mesalvo Mannheim GmbH 7.12
+
+8.9
+
+2.1
+
+1.2
+
+6
+
+6
+
+3
+
+3
+
+3
+
+2
+
+2
 
 1
+
+1
+
+7.10
+
+8.4
+
+2.1
+
+1.2
+
+6
+
+5
+
+4
+
+4
+
+3
+
+2
+
+3
+
+1
+
+2
+
+5
+
+0
+
+0
+
+0
+
+1
+
+-1
+
+-1
+
+0
+
+0
+
+-1
+
+0
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-015 **MEDYS**MEDYS GmbH110
+0.15
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG110 086 **DURIA**Duria eG100
+2.52
 
-266 **x.comfort**medatixx GmbH & Co. KG110 290 **M-KIS**Meierhofer AG110
+0.86
 
-406 **esQlab.online**IQVIA Commercial GmbH & Co OHG101 298 **Elefant**HASOMED GmbH110
+2.66
 
-030 **Praxis-Programm**MediSoftware Computersysteme für Ärzte 110 2
+2.90
+
+4.06
+
+2.98
+
+0.30
+
+**MEDYS**
+
+**CGM M1 PRO**
+
+**DURIA**
+
+**x.comfort**
+
+**M-KIS**
+
+**esQlab.online**
+
+**Elefant**
+
+**Praxis-Programm**
+
+MEDYS GmbH
+
+CompuGroup Medical Deutschland AG
+
+Duria eG
+
+medatixx GmbH & Co. KG
+
+Meierhofer AG
+
+IQVIA Commercial GmbH & Co OHG
+
+HASOMED GmbH
+
+MediSoftware Computersysteme für Ärzte 2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0

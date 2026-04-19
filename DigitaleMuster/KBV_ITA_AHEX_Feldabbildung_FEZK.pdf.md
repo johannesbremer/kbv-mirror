@@ -7,32 +7,25 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 03. DEZEMBER 2021  VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# FELDABBILDUNG ZUR DOKUMENTATION
-
-# DER FRÜHERKENNUNG VON ZERVIX-
-
-# KARZINOMEN (ZKP)
+# FELDABBILDUNG ZUR DOKUMENTATION  DER FRÜHERKENNUNG VON ZERVIX- KARZINOMEN (ZKP)
 
 ## [KBV_ITA_AHEX_FELDABBILDUNG_FEZK]
 
-Seite 1 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
 BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
+
 
 ---
 
 ## INHALT
 
-**1 FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 4**
+**FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 41**
 
-**2 REFERENZIERTE DOKUMENTE 14**
-
-Seite 2 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
+**2** **REFERENZIERTE DOKUMENTE 14**
 
 
 ---
 
-## DOKUMENTENHISTORIE
+DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -43,12 +36,7 @@ Seite 2 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 1.4 | 09.03.2021 | KBV | Aufnahme der |  | 10 |
 | 1.5 | 03.1w.2021 | KBV | Streichung der Abbildung des Mapping des Anpassung der Abbildung des | Korrektur | 10  4    12 |
 
-Seite 3 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
-
-3. Dezember 2021
-
 KBV BFB Feldes ‚HPV-HR- Testergebnis des zytologischen Befundes‘ Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2021 Untersuchungsnummer Untersuchungsnummer Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2022 KBV BFB Feldes ‚Liegt HPV-Typ 16 oder HPV-Typ 18 vor?‘
-
 
 ---
 
@@ -60,9 +48,7 @@ Die untenstehende Tabelle bildet die Felder des KBV--Musters 39 zur Krebsfrüher
 
 Die dargestellten Tabellenspalten haben folgende Bedeutung:
 
-**› KBV BFB Feld Nummer**  Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **› KBV BFB Feld Name**  Die Spalte Name stellt die Bezeichnung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **› KBV DM Feld Nummer**  Die Spalte Nummer stellt die Nummerierung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im  PDF/A-Format [2] der KBV dar.  **› KBV DM Feld Name**  Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A- Format [2] der KBV dar.  **› QMS LDT Feld Kennung**  Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] (Labor Daten Transfer) dar.  **› QMS LDT Feld Bezeichnung**  Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] dar.  **› IQTIG Feld Nummer**  Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar.  **› IQTIG Feld Name**  Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
-
-Seite 4 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
+**KBV BFB Feld Nummer**  Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **KBV BFB Feld Name**  Die Spalte Name stellt die Bezeichnung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **KBV DM Feld Nummer**  Die Spalte Nummer stellt die Nummerierung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im  PDF/A-Format [2] der KBV dar.  **KBV DM Feld Name**  Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A Format [2] der KBV dar.  **QMS LDT Feld Kennung**  Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] (Labor Daten Transfer) dar.  **QMS LDT Feld Bezeichnung**  Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] dar.  **IQTIG Feld Nummer**  Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar.  **IQTIG Feld Name**  Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
 
 
 ---
@@ -83,7 +69,7 @@ Seite 4 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |  |
 | 10 | Kostenträgername | P1 | 4134_Kostentraegername | 4134 | Kostentraegername |  |  |  |
 | 11 | WOP-Kennzeichen | P2 | 3116_WOP | 3116 | WOP |  |  |  |
-| 12 | Versichertennummer oder | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |  |
+| 12 |  | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |  |
 | 13 | Versichertenart | P11 | 3108_Versichertenart | 3108 | Versichertenart |  |  |  |
 | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 | Besondere Personengruppen | 3 | besondere Personengruppe |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
@@ -100,7 +86,7 @@ Seite 4 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 |  | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |
 |  | 10 | Kostenträgername | P1 | 4134_Kostentraegername | 4134 | Kostentraegername |  |  |
 |  | 11 | WOP-Kennzeichen | P2 | 3116_WOP | 3116 | WOP |  |  |
-|  | 12 | Versichertennummer oder | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |
+|  | 12 |  | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |
 |  | 13 Versichertenart | P11 3108_Versichertenart 3108 | | | | | | |
 | Versichertenart |  |  |  | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
@@ -193,12 +179,7 @@ Seite 4 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im |  | | | | | |
 | Dokumentationsbogens der Wert „1“ zu | 8 | Versicherungsschutz Ende | P8 | | | | | |
 
-Seite 5 von 14 / KBV /
-
-Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-Nummer Nummer z_Vorsatzwort 10.1 Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen. Krankenkasse der Versichertenkarte Versicherten_ID oder SKT-Zusatz
-
+Nummer Versichertennummer oder Versicherten_ID oder SKT-Zusatz Nummer z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen.
 
 ---
 
@@ -328,12 +309,7 @@ Nummer Nummer z_Vorsatzwort 10.1 Feld „Geburtsdatum“ bzw. im Feld „3103_Ge
 | PLZ vor | Falls im LDT3 oder im BFB-Barcode im |  | des IQTIG-Dokumentationsbogens der | | | | | |
 | 23 | Ort | P7 | 0000_Wohnsitzlaendercode_PLZ_Or | | | | | |
 
-Seite 6 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
-
-3. Dezember 2021
-
-z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „11.2“ Wert „1“ zu setzen. 11.1 deutsche Feld „PostfachPLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „11.2“ Wert „1“ zu setzen.
-
+z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „11.2“ Wert „1“ zu setzen. Feld „PostfachPLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „11.2“ Wert „1“ zu setzen.
 
 ---
 
@@ -341,7 +317,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 |---|---|---|---|---|---|---|---|---|
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | | | | | | | | |
-| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten |
+| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 |
 | Auftragsart | 15 | Art und Anlass der | WENN im LDT3 oder im BFB-Barcode |  | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |  |
@@ -359,7 +335,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| Fachliche Daten | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
+|  | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
 |  | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening |
 | 8630 | Auftragsart | 15 | Art und Anlass der | WENN im LDT3 oder im BFB-Barcode |  | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |
 |  | bogens der Wert „2“ zu setzen. |  | der Wert „2“ gesetzt werden. | M39_80 | 8630_auftragart_abklärungsdiagnos | 33 | Auftrag | M39_81 |
@@ -376,7 +352,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| Fachliche Daten | | | | | | | | |
+|  | | | | | | | | |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | | | | | | | |
 | M39_3 | 0000_alterskategorie_ab_35_jahre | | | | | | | |
@@ -389,11 +365,11 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | | | | | | | |
-| P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten | 31 |
+| P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  | 31 |
 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  | M39_2 0000_alterskategorie_30_34_jahre M39_3 0000_alterskategorie_ab_35_jahre 32 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 30 PostfachWohnsitzländercode P7 0000_Wohnsitzlaendercode_PLZ_Or |
-|  |  |  |  |  | Fachliche Daten | 31 | Alterskategorie | M39_1 |
+|  |  |  |  |  |  | 31 | Alterskategorie | M39_1 |
 | 0000_alterskategorie_20_29_jahre | 3322 | | | | | | | |
 | Alterskategorie |  | | | | | | | |
 |  |  | | | | | | | |
@@ -408,7 +384,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| Fachliche Daten | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
+|  | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
 |  | M39_2 | | | | | | | |
 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart |
 | 15 | Art und Anlass der | | | | | | | |
@@ -424,7 +400,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | | | | | | | | |
-| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten |
+| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | | | | | | | |
 | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart | 15 |
@@ -437,7 +413,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 |  |  |  |  |  |  |  |  |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | Fachliche Daten 31 |
+| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 31 |
 | Alterskategorie | M39_1 | | | | | | | |
 | 0000_alterskategorie_20_29_jahre | 3322 | | | | | | | |
 | Alterskategorie |  |  |  | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 |
@@ -453,7 +429,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 |  |  |  |  |  |  |  |  |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | Fachliche Daten 31 |
+| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 31 |
 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  | M39_2 0000_alterskategorie_30_34_jahre M39_3 |
 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart | 15 | Art und Anlass der WENN im LDT3 oder im BFB-Barcode |
 | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |  | bogens der Wert „2“ zu setzen. |  | der Wert „2“ gesetzt werden. | M39_80 | 8630_auftragart_abklärungsdiagnos 33 Auftrag M39_81 8629_auftrag_zytologische_untersu |
@@ -463,12 +439,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche Feld „PLZ“ bzw. im F
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
-
-3. Dezember 2021
-
-16 Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Doku- setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „16“ des IQTIG-Dokumen- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Dokumentations- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld „16“ des IQTIG-Dokumentationsbogens tik chung
-
+Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Doku- setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „16“ des IQTIG-Dokumen- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Dokumentations- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld „16“ des IQTIG-Dokumentationsbogens
 
 ---
 
@@ -477,7 +448,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | | | | | | | | |
 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -494,7 +465,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
-| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 |
+| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 |
 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -512,7 +483,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
 | Datum der letzten | | | | | | | | |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |  |  |
@@ -525,13 +496,13 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | | | | | | | |
 | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten | Jahresangabe aus dem BFB-Barcode |
-| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. IQTIG-Dokumentationsbogens gesetzt. |
+| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. IQTIG-Dokumentationsbogens gesetzt. |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen | M39_5 7296_wiederholungsuntersuchung_ 35 Datum der letzten Untersuchung |
 | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe |
 | M39_8 | 7414_gruppe_des_letzten_befunde | | | | | | | |
 | 7414 | Gruppe | | | | | | | |
-| 19 | Liegt aus der letzten | | | | | | | |
+| 20.1 | Liegt aus der letzten | | | | | | | |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |
 |  |  | | | | | | | |
 |  |  |  |  |  |  |  |  |  |
@@ -543,7 +514,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
-| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 |
+| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 |
 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode | | | | | | | |
 |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |
 |  |  | | | | | | | |
@@ -560,7 +531,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | | | | | | | | |
 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -575,7 +546,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 Datum der letzten Jahresangabe aus dem BFB-Barcode |
 | 36 | Gruppe | | | | | | | |
 | M39_8 | 7414_gruppe_des_letzten_befunde | | | | | | | |
-| 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |
+| 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |
 |  |  | | | | | | | |
 |  |  | | | | | | | |
 |  |  |  |  |  |  |  |  |  |
@@ -589,7 +560,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 Datum der letzten Jahresangabe aus dem BFB-Barcode |
-| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. |
+| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. |
 |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | | | | | |
@@ -598,9 +569,7 @@ Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-Seite 8 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-nein Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? Liegt ein Vorbefund bzw. liegen Vorbefunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? ja 22 vorangegangenen muss automatisch auf einen vierstelligen Wert transformiert werden. Im Rahmen der IQTIG Spezifikation muss das Format MM.JJJJ übertragen werden. 20.1 vorangegangenen Untersuchung ein zytologischer Befund nach Münchener Nomenklatur III vor? Zytologischer Vorbefund liegt vor oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird der Wert „1“ des Feldes „20.1“ des oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „20.1“ des
+nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? Liegt ein Vorbefund bzw. liegen Vorbefunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? 22 vorangegangenen 19 vorangegangenen Untersuchung ein zytologischer Befund nach Münchener Nomenklatur III vor? Zytologischer Vorbefund liegt vor muss automatisch auf einen vierstelligen Wert transformiert werden. Im Rahmen der IQTIG Spezifikation muss das Format MM.JJJJ übertragen werden. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird der Wert „1“ des Feldes „20.1“ des oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „20.1“ des
 
 ---
 
@@ -647,7 +616,7 @@ nein Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen 
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
 | 38 | Liegt ein HPV-HR-Testergebnis | | | | | | | |
 | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | | | | | | | |
-| 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des M39_16 3316_hpv_hr_testergebnis_des_vor 3316 HPV-HR-Testergebnis 22 Vorbefund: HPV-Status  Es können vom BFB-Barcode oder dem M39_17 |
+| 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des M39_16 3316_hpv_hr_testergebnis_des_vor 3316 HPV-HR-Testergebnis 22 Vorbefund: HPV-Status Es können vom BFB-Barcode oder dem M39_17 |
 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | | | | | | | |
 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | | | |
 | Gyn. OP, Strahlen oder | 30 | | | | | | | |
@@ -730,9 +699,7 @@ nein Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen 
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-Seite 9 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-23 nach Münchner Nomenklatur III oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des vor? cht_vor 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor r_aus Vorbefundes befundes_positiv 24 LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.   befundes_negativ befundes_nicht_verwertbar Chemotherapie des Genitales otherapie_nein Chemotherapie des Genitales 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals otherapie_ja Chemotherapie des Genitales – Welche? otherapie_welche Chemotherapie des Genitales – Welche?
+vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche Chemotherapie des Genitales Chemotherapie des Genitales – Welche? 23 nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
 
 ---
 
@@ -862,9 +829,7 @@ Seite 9 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Ze
 | 49 | Erläuterungen | M39_47 | 7423_erlaeuterungen | | | | | |
 | 7423 | Erläuterungen |  |  | | | | | |
 
-Seite 10 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-Chemotherapie des Genitales - Wann? gyn_op_strahlen_oder_chemothera pie_wann Chemotherapie des Genitales - Wann? vor? ng_nein  Blutungen  ng_ja / sonstige Hormon-Anwendung ovulationshemmer_sonstige_hormo n_anwendung_nein Ovulationshemmer / sonstige Hormon-Anwendung Ovulationshemmer/sonstige Hormonanwendung ovulationshemmer_sonstige_hormo n_anwendung_ja 34
+Chemotherapie des Genitales - Wann? / sonstige Hormon-Anwendung gyn_op_strahlen_oder_chemothera pie_wann ng_nein  ng_ja ovulationshemmer_sonstige_hormo n_anwendung_nein ovulationshemmer_sonstige_hormo n_anwendung_ja Chemotherapie des Genitales - Wann? Ovulationshemmer / sonstige Hormon-Anwendung vor? Blutungen  Ovulationshemmer/sonstige Hormonanwendung 34
 
 ---
 
@@ -994,9 +959,7 @@ Chemotherapie des Genitales - Wann? gyn_op_strahlen_oder_chemothera pie_wann Che
 |  |  | Candida | M39_58 | | | | | |
 | 7411_candida | 7411 | Candida |  | | | | | |
 
-Seite 11 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann der Wert der FK 8311 bzw. sofern gesetzt des Feldes  automatisch in die IQTIG-Spezifikation übernommen werden. Es gilt zu beachten, dass die Untersuchungsnummer im IQTIG- Dokumentationsbogen max. 16 Zeichen lang sein darf. Der Softwarehersteller muss daher ggf. die zu übernehmende Untersuchungsnummer entsprechend auf max. 16 Zeichen einkürzen. chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann im Feld „17“ des IQTIG- gesetzt werden.
+chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann der Wert der FK 8311 bzw. sofern gesetzt des Feldes  automatisch in die IQTIG-Spezifikation übernommen werden. Es gilt zu beachten, dass die Untersuchungsnummer im IQTIG- Dokumentationsbogen max. 16 Zeichen lang sein darf. Der Softwarehersteller muss daher ggf. die zu übernehmende Untersuchungsnummer entsprechend auf max. 16 Zeichen einkürzen. LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann im Feld „17“ des IQTIG- gesetzt werden.
 
 ---
 
@@ -1008,7 +971,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |
-| 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |
+|  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |
 |  |  | Zusammenfassende Empfehlung |  |  |  |  |  |  |
 | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 | 7415_zytologische_kontrolle |
 |  |  |  |  |  |  | 7415 | Zytologische Kontrolle 40 | Welche Kontrolle/Abklärung Ist die zytologische Kontrolle gesetzt, |
@@ -1025,7 +988,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 |  | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 |
 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 |
 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |
-|  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |
+|  |  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |
 |  |  |  | Zusammenfassende Empfehlung |  |  |  |  |  |
 |  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 |
 | 7415_zytologische_kontrolle | 7415 Zytologische Kontrolle | 40 Welche Kontrolle/Abklärung Ist die zytologische Kontrolle gesetzt, | | | | | | |
@@ -1043,7 +1006,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | | | | | | | |
 | 37 | HPV-Test-Ergebnis | | | | | | | |
-|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden 3317 HPV-Typ 16/18 38 Liegt HPV-Typ 16 oder HPV-  3317_virustyp_16_18_nein 3317_virustyp_16_18_nicht_differe |
+|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden 3317 HPV-Typ 16/18 38 Liegt HPV-Typ 16 oder HPV-   3317_virustyp_16_18_nicht_differe |
 | Bemerkungen | M39_65 | | | | | | | |
 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  | | | |
 | Zusammenfassende Empfehlung |  | | | | | | | |
@@ -1062,7 +1025,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | | | | | | | |
-| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |
+| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |
 |  | Bemerkungen | | | | | | | |
 | M39_65 | 8167_bemerkungen | | | | | | | |
 | 8167 | Zusaetzliche_Informationen |  |  |  | Zusammenfassende Empfehlung |  |  |  |
@@ -1075,7 +1038,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | | | | | | | |
 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  |
 | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | | | | | | | |
-| 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  |
+| 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |  |
 | Bemerkungen | M39_65 | | | | | | | |
 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  | Zusammenfassende Empfehlung |  |  |
 |  |  | | | | | | | |
@@ -1091,7 +1054,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | | | | | | | |
 | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 |
-| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |
+| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |
 |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  |
 | Zusammenfassende Empfehlung |  |  |  |  |  |  | 39 | Empfohlene Maßnahme |
 | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 | 7415_zytologische_kontrolle | 7415 | Zytologische Kontrolle |
@@ -1107,7 +1070,7 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 | M39_63 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |
-| 3317_virustyp_16_18_nein | | | | | | | | |
+|  | | | | | | | | |
 | 3317_virustyp_16_18_nicht_differe | | | | | | | | |
 |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  |
 | Zusammenfassende Empfehlung | | | | | | | | |
@@ -1119,16 +1082,14 @@ LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann de
 |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | HPV-HR-Testergebnis | 36 | Wurde ein HPV-Test | Wenn einer der jeweiligen “ des IQTIG Dokumentationsbogen |
 | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316 HPV-HR-Testergebnis 37 |
 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 3317_virustyp_16_18_vorhanden 3317 |
-| HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 8167_bemerkungen 8167 Zusaetzliche_Informationen |
+| HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 8167_bemerkungen 8167 Zusaetzliche_Informationen |
 |  |  | Zusammenfassende Empfehlung |  | | | | | |
 |  |  |  |  | | | | | |
 |  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 7415_zytologische_kontrolle 7415 |
 | Zytologische Kontrolle | 40 | Welche Kontrolle/Abklärung | Ist die zytologische Kontrolle gesetzt, | | | | | |
 |  |  |  | zytologische Kontrolle nach | | | | | |
 
-Seite 12 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
-
-efundes Münchner Nomenklatur II I zytologischen Befundes ologischen_befundes_positiv durchgeführt? Informationen im DiMus oder LDT3 übertragen wird, dann kann im Feld „18- der Wert „1“ gesetzt werden. ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar zytologischen Befundes ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar vor? 3317_virustyp_16_18_ja Typ 18 vor? nzierbar Informationen übermittelt wurden, dann kann im Feld „38“ des IQTIG- gesetzt werden. wird empfohlen? dann ist im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „38“ zu übertragen. Entzündungsbehandlung entzuendungsbehandlung
+zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efundes ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar 3317_virustyp_16_18_ja 3317_virustyp_16_18_nein nzierbar entzuendungsbehandlung Münchner Nomenklatur III durchgeführt? Typ 18 vor? wird empfohlen? Informationen im DiMus oder LDT3 übertragen wird, dann kann im Feld „18- der Wert „1“ gesetzt werden. Informationen übermittelt wurden, dann kann im Feld „38“ des IQTIG- gesetzt werden. dann ist im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „38“ zu übertragen.
 
 ---
 
@@ -1258,16 +1219,13 @@ efundes Münchner Nomenklatur II I zytologischen Befundes ologischen_befundes_po
 | M39_73 | 3321_in_monaten | 3321 | Zeitraum in Monaten | | | | | |
 | M39_74 | 3320_sofort | 3320 | Zeitraum sofort | | | | | |
 
-Seite 13 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
-
-Östrogenbehandlung oestrogenbehandlung 38 wird empfohlen? Empfohlene Maßnahme IQTIG-Dokumentationsbogen der Wert „2“ im Feld „38“ zu übertragen. 38 wird empfohlen? Empfohlene Maßnahme IQTIG-Dokumentationsbogen der Wert „3“ im Feld „38“ zu übertragen. 38 wird empfohlen? Empfohlene Maßnahme dann ist im IQTIG- Dokumentationsbogen der Wert „4“ im Feld „38“ zu übertragen. angekreuzt oder im LDT3 die Kennung „3320“ übertragen, dann wird im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „39“ gesetzt.  „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert „2“ im Feld „39“ gesetzt. „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert in Monaten aus der LDT3 Kennung „3321“ oder dem DiMus Feld „3321_in_monaten“ in das Feld „40“ übernommen. 3. Dezember 2021
-
+Östrogenbehandlung oestrogenbehandlung 38 wird empfohlen? Empfohlene Maßnahme 38 wird empfohlen? Empfohlene Maßnahme 38 wird empfohlen? Empfohlene Maßnahme IQTIG-Dokumentationsbogen der Wert „2“ im Feld „38“ zu übertragen. IQTIG-Dokumentationsbogen der Wert „3“ im Feld „38“ zu übertragen. dann ist im IQTIG- Dokumentationsbogen der Wert „4“ im Feld „38“ zu übertragen. angekreuzt oder im LDT3 die Kennung „3320“ übertragen, dann wird im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „39“ gesetzt.  „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert „2“ im Feld „39“ gesetzt. „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert in Monaten aus der LDT3 Kennung „3321“ oder dem DiMus Feld „3321_in_monaten“ in das Feld „40“ übernommen.
 
 ---
 
 2
 
-## REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 | REFERENZIERTE DOKUME |  |
 |---|---|
@@ -1284,7 +1242,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-Seite 14 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 NTE Format Leistungserbringer der oKFE-RL 2021 2022

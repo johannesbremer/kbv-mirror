@@ -1,21 +1,17 @@
 |  |
 |---|
 
-|  |
-|---|
+# ANTRAG AUF ZERTIFIZIERUNG  SEKTORZULASSUNG SMC
+
+## [KBV_ITV_FMEX_AAZ_SMCB]
 
 |  | KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT 1.OKTOBER 2025 VERSION: 2.3  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
+**-B**
 
-# SEKTORZULASSUNG SMC
-
-# -B
-
-## [KBV_ITV_FMEX_AAZ_SMCB]
-
-Seite 1 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
+|  |
+|---|
 
 BUNDESVEREINIGUNG IT IN DER VERSORGUNG
 
@@ -30,7 +26,7 @@ BUNDESVEREINIGUNG IT IN DER VERSORGUNG
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -44,7 +40,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | E-Mail-Adresse |  |
 | Webseite |  |
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
 Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
@@ -55,14 +51,12 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-Seite 2 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
-
 Rechtsform anzugeben] Antragsstellers
 
 
 ---
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -73,28 +67,22 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 2
 
-## BEANTRAGUNG ZUR ZERTIFIZIERUNG
+BEANTRAGUNG ZUR ZERTIFIZIERUNG
 
 |  | |
 |---|---|
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer SMC-B im |
-| ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer HSM-B im Voraussetzung für die Beantragung ist: - das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. |
+| ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter einer HSM-B im Voraussetzung für die Beantragung ist: - |
 | ☐ | Der Antragssteller beantragt die Sektorzulassung als Anbieter sowohl einer SMC-B als auch einer |
 
-Seite 3 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
-
-Antragsteller:
-
-Stellen der Prüfnummer, falls vorhanden] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten. [ ] [ ] [ ]
+Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. [ ] HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten.
 
 
 ---
 
 3
 
-## REALISIERUNG VON ANFORDERUNGEN
-
-**3.1 ANFORDERUNGSDOKUMENTE UND NACHWEISE**
+**3.1**
 
 |  | |
 |---|---|
@@ -102,18 +90,20 @@ Stellen der Prüfnummer, falls vorhanden] Zuständigkeitsbereich der Kassenärzt
 | ☐ | Der Antragssteller bestätigt, dass alle Anforderungen des TSP-Anforderungskataloges insbesondere die Datensatzbeschreibung zur Umsetzung der LEO-TSP-Schnittstelle im KV-Bereich |
 | ☐ | Der Antragssteller bestätigt, dass der Antragsprozess für die SM-B Ausgabe auch im Hinblick auf |
 
-**3.2 BENUTZERHANDBUCH UND SCHULUNGEN**
+**3.2**
 
 |  | |
 |---|---|
 | ☐ | Ein Benutzerhandbuch ist durch den Antragssteller erstellt. Zielgruppe des Handbuchs sind die |
 | ☐ | Der Antragssteller bietet Schulungstermin(e) an, an dem/denen Kassenärztliche Vereinigung(en) |
 
-Seite 4 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
+## REALISIERUNG VON ANFORDERUNGEN
 
-Antragsteller:
+**ANFORDERUNGSDOKUMENTE UND NACHWEISE**
 
-Betriebsleistung SMC-B" zugelassen ist.  Einreichung des Zulassungsantrages für die Sektorzulassung nachweisen, dass er sich im gematik- Zulassungsverfahren befindet und den Nachweis der Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der Prüfnummer notwendig. [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und der darin referenzierten Dokumente, in der jeweils aktuellen Fassung eingehalten werden. das Verhältnis zu den Kassenärztlichen Vereinigungen datenschutzkonform umgesetzt ist. [ ] [ ] [ ] Kassenärztlichen Vereinigungen als Bediener bzw. Nutzer des Freigabeportals und der TSP- Schnittstelle. Bei relevanten Änderungen der Funktionalitäten verpflichtet sich der Antragssteller eine aktualisierte Version des Benutzerhandbuchs zu erstellen und der KBV zur Verfügung zu stellen. Schulungen zur Bedienung der Schnittstelle erhalten kann/können. [ ] [ ]
+**BENUTZERHANDBUCH UND SCHULUNGEN**
+
+[ ] [ ] [ ] Betriebsleistung SMC-B" zugelassen ist.  Einreichung des Zulassungsantrages für die Sektorzulassung nachweisen, dass er sich im gematik- Zulassungsverfahren befindet und den Nachweis der Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der Prüfnummer notwendig. [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und der darin referenzierten Dokumente, in der jeweils aktuellen Fassung eingehalten werden. das Verhältnis zu den Kassenärztlichen Vereinigungen datenschutzkonform umgesetzt ist. [ ] [ ] Kassenärztlichen Vereinigungen als Bediener bzw. Nutzer des Freigabeportals und der TSP- Schnittstelle. Bei relevanten Änderungen der Funktionalitäten verpflichtet sich der Antragssteller eine aktualisierte Version des Benutzerhandbuchs zu erstellen und der KBV zur Verfügung zu stellen. Schulungen zur Bedienung der Schnittstelle erhalten kann/können.
 
 
 ---
@@ -147,10 +137,6 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Technische Hotline |  |
 | Service-Zeiten für die technische |  |
 
-Seite 5 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
-
-Antragsteller:
-
 
 ---
 
@@ -158,7 +144,7 @@ Antragsteller:
 
 ## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-**I. Zertifizierungsrahmen**
+**I.** **Zertifizierungsrahmen**
 
 (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 
@@ -170,11 +156,11 @@ Antragsteller:
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| Sektorzulassung SMC-B | Neu- oder Rezertifizierung | Ergebnisprüfung | 2.064,30 € |
-| Sektorzulassung HSM-B | Erweiterungszertifizierung | Ergebnisprüfung | 688,10 € |
+| Sektorzulassung SMC-B | Neu- oder Rezertifizierung | Ergebnisprüfung | 2.064,30 |
+| Sektorzulassung HSM-B | Erweiterungszertifizierung | Ergebnisprüfung |  |
 | Sektorzulassung SMC-B u. HSM-B | Neu- oder Rezertifizierung / Erweiterungszertifizierung | Ergebnisprüfung | 2.752,40 € |
 
-**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
@@ -184,26 +170,26 @@ Antragsteller:
 
 (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III. Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
 (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
-(2) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(2) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (3) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-Seite 6 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
-
-Antragsteller:
+688,10 €
 
 
 ---
 
-**IV. Sonstiges**
+**IV.** **Sonstiges**
 
 (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
-(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
+(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der
+
+Zulassung bewirken.
 
 (3) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
@@ -222,7 +208,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 7 von 7 / KBV / Antrag auf Zertifizierung Sektorzulassung SMC-B / Version: 2.3 / 1. Oktober 2025
-
-Antragsteller:

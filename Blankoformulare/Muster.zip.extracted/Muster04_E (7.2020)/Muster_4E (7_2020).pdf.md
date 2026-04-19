@@ -1,6 +1,8 @@
-**Verordnung einer**   **Krankenbeförderung**
+### Verordnung einer
 
-**anderer Grund, z.B.**  Fahrten zu Hospizen:
+### Krankenbeförderung
+
+**anderer Grund**, z.B.  Fahrten zu Hospizen:
 
 **voll-/teilstationäre**  **Krankenhausbehandlung** **a)**
 
@@ -10,7 +12,7 @@
 
 **e)**
 
-**ambulante Behandlung bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts-** beeinträchtigung, Pflegegrad 4 oder 5 nur Taxi/Mietwagen (Fahrt mit KTW ist unter f) zu verordnen)  **b)**
+**ambulante Behandlung** bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts- beeinträchtigung, Pflegegrad 4 oder 5 **nur Taxi/Mietwagen***** (Fahrt mit KTW ist unter f) zu verordnen)***  **b)**
 
 **vor-/nachstationäre**  **Behandlung**
 
@@ -40,23 +42,23 @@ RTW NAW/  NEF andere
 
 vergleichbarer Ausnahmefall  ***(Begründung unter 4. erforderlich)***
 
-**Genehmigungspflichtige Fahrten zu ambulanten Behandlungen (vor Fahrtantritt der Krankenkasse vorzulegen)** **hochfrequente Behandlung**  Dialyse, onkol. Chemo- oder Strahlentherapie
+**Genehmigungspflichtige Fahrten zu ambulanten Behandlungen***** (vor Fahrtantritt der Krankenkasse vorzulegen)*** **hochfrequente Behandlung**  Dialyse, onkol. Chemo- oder Strahlentherapie
 
-**dauerhafte Mobilitätsbeeinträchtigung vergleichbar mit b) und Behandlungsdauer**  **mindestens 6 Monate (Begründung unter 4. erforderlich)**
+**dauerhafte Mobilitätsbeeinträchtigung vergleichbar mit b) und Behandlungsdauer**  **mindestens 6 Monate***** (Begründung unter 4. erforderlich)***
 
-**f) anderer Grund für Fahrt mit KTW, z.B. fachgerechtes Lagern, Tragen, Heben erforderlich**   ***(Begründung unter 3. und ggf. 4. erforderlich)***
+**f) anderer Grund für Fahrt mit KTW**, z.B. fachgerechtes Lagern, Tragen, Heben erforderlich   ***(Begründung unter 3. und ggf. 4. erforderlich)***
 
 Vertragsarztstempel / Unterschrift des Arztes
 
 **3. Art und Ausstattung der Beförderung**
 
-**4. Begründung/Sonstiges (z. B. Datum Aufnahme Krankenhaus, Gewicht**  ***bei Schwergewichttransport, Wartezeit, Gemeinschaftsfahrt, Ortsangabe, wenn***  ***Beförderung nicht von/zur Wohnung stattfindet)***
+**4. Begründung/Sonstiges***** (z. B. Datum Aufnahme Krankenhaus, Gewicht***  ***bei Schwergewichttransport, Wartezeit, Gemeinschaftsfahrt, Ortsangabe, wenn***  ***Beförderung nicht von/zur Wohnung stattfindet)***
 
 **2. Behandlungstag/Behandlungsfrequenz und nächsterreichbare, geeignete Behandlungsstätte**
 
-Behandlungsstätte (Name, Ort)
+Behandlungsstätte*** (Name, Ort)***
 
-vom/amx pro Woche, bis voraussichtlich/
+vom/amx pro Woche, bis voraussichtlich
 
 Name, Vorname des Versicherten
 
@@ -78,7 +80,7 @@ Stempel/Unterschrift des Transporteurs
 
 **Abrechnungsdaten des Transporteurs**
 
-DatumFahrtstrecke (von ... nach)Rück- Unterschrift des Versicherten fahrt Hin-  fahrt
+DatumFahrtstrecke*** (von ... nach)*** fahrt Hin- Rück- Unterschrift des Versicherten fahrt
 
 Datum
 
@@ -121,12 +123,8 @@ ja
 
 **Bestätigung durch den Versicherten**  Ich bestätige die Durchführung der im Folgenden aufgeführten Fahrten
 
-,
-
 Gesamt-Brutto
 
 Positionsnummer Anzahl km Positionsnummer Anzahl km
-
-,
 
 Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.PRF.NR. Muster 4/E (7.2020)

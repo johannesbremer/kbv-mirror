@@ -1,4 +1,6 @@
-Krankenkasse bzw. Kostenträger Gebühr pfl.
+Krankenkasse bzw. Kostenträger Gebühr
+
+pfl.
 
 Name, Vorname des Versicherten Gebühr frei
 
@@ -6,17 +8,29 @@ Unfall/ Unfall- folgen
 
 BVG Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr.
+Betriebsstätten-Nr. Arzt-Nr.
+
+**Freigabe 05.11.2014**
+
+Datum
+
+Pos.-Nr.
+
+Pos.-Nr.
 
 **Diagnose/Vorsorgeziel**
 
 **Ggf. Hinweise zur Therapie**
 
+Status
+
+Anzahl
+
+Anzahl
+
 Verordnungs- menge
 
 **Maßnahmen der Gesundheitsförderung**
-
-Arzt-Nr.
 
 Heilmittel
 
@@ -29,16 +43,6 @@ Seminar Raucherentwöhnung
 Seminar Entspannungstechniken
 
 Seminar Bewegungstraining
-
-**Freigabe 05.11.2014**
-
-Status
-
-Datum
-
-Pos.-Nr.Anzahl
-
-Pos.-Nr.Anzahl
 
 geb. am
 
@@ -85,8 +89,6 @@ Bitte immer unmittelbar nach der Abgabe Ihrer Leistungen durch Unterschrift quit
 
 Ich bestätige, die im Folgenden aufgeführten Behandlungen erhalten zu haben.
 
-Datum Maßnahme(n)
-
 **1**
 
 **2**
@@ -109,6 +111,10 @@ Datum Maßnahme(n)
 
 **11**
 
+**Empfangsbestätigung durch den Versicherten**
+
+Datum Maßnahme(n)
+
 **12**
 
 **13**
@@ -127,18 +133,12 @@ Datum Maßnahme(n)
 
 **20**
 
-Behandlungsabbruch am:
+Behandlungsabbruch am: Datum
 
 Dieses Formular bitte nach Beendigung der Behandlung der jeweiligen Krankenkasse zusenden.
 
-**Empfangsbestätigung durch den Versicherten**
-
-Datum
-
 Patienten-Unterschrift
 
-**Freigabe 05.11.2014**
-
-### Verbindliches Muster
+### Freigabe 05.11.2014
 
 Stempel und Unterschrift des Leistungserbringers

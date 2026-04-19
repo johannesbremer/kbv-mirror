@@ -1,57 +1,161 @@
-### TOP 20 Systeme - Nuklearmediziner
+## TOP 20 Systeme - Nuklearmediziner
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-256 **medavis RIS**medavis GmbH2930-1
+2.56 **medavis RIS**
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG21210
+2.80 **CGM MEDISTAR BLACK PRO**
 
-446 **WIN-RADIOLOG**medigration GmbH14131
+4.46 **WIN-RADIOLOG**
 
-254 **ORBIS®**Dedalus HealthCare GmbH12120
+2.54 **ORBIS®**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 11101
+2.10 **Medical Office**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG910-1
+1.12 **TURBOMED**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG880
+2.03 **ALBIS**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG770
+2.52 **CGM M1 PRO**
 
-216 **x.isynet**medatixx GmbH & Co. KG67-1
+2.16 **x.isynet**
 
-439 **eRIS**Digithurst Bildverarbeitungssysteme GmbH & Co. KG 660
+4.39 **eRIS**
 
-343 **SAP Ambulatory Care Management** SAP SE550
+3.43 **SAP Ambulatory Care Management**
 
-276 **RadCentre Billing (OPD)**Mesalvo Mannheim GmbH56-1
+2.76 **RadCentre Billing (OPD)**
 
-062 **EVA**Abasoft EDV-Programme GmbH550 1
+0.62 **EVA**
+
+medavis GmbH
+
+CompuGroup Medical Deutschland AG
+
+medigration GmbH
+
+Dedalus HealthCare GmbH
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+Digithurst Bildverarbeitungssysteme GmbH & Co. KG
+
+SAP SE
+
+Mesalvo Mannheim GmbH
+
+Abasoft EDV-Programme GmbH 1
+
+2.9
+
+2.1
+
+1.4
+
+1.2
+
+1.1
+
+9
+
+8
+
+7
+
+6
+
+6
+
+5
+
+5
+
+5
+
+3.0
+
+2.1
+
+1.3
+
+1.2
+
+1.0
+
+1.0
+
+8
+
+7
+
+7
+
+6
+
+5
+
+6
+
+5
+
+-1
+
+0
+
+1
+
+0
+
+1
+
+-1
+
+0
+
+0
+
+-1
+
+0
+
+0
+
+-1
+
+0
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-023 **DATA VITAL**
+0.23 **DATA VITAL**
 
-462 **medatixx**
+4.62 **medatixx**
 
-243 **x.concept**
+2.43 **x.concept**
 
-457 **tomedo**
+4.57 **tomedo**
 
-314 **IMedOne**
+3.14 **IMedOne**
 
-498 **T2med**
+4.98 **T2med**
 
-230 **QMED.PRAXIS**
+2.30 **QMED.PRAXIS**
 
 CompuGroup Medical Deutschland AG
 
@@ -65,16 +169,44 @@ Deutsche Telekom Clinical Solutions Gmb
 
 T2med GmbH & Co. KG
 
-Schwerdtner Medizin-Software GmbH 440
+Schwerdtner Medizin-Software GmbH 2
 
-440
+4
 
-440
+4
 
-330
+4
 
-H330 321
+3
 
-330
+H3 3
+
+3
+
+4
+
+4
+
+4
+
+3
+
+3
 
 2
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0

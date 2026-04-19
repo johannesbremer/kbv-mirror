@@ -22,4 +22,10 @@ Schlüsseltabelle: S_EBM_SCHNITTNAHTZEIT
 
 **01.10.2014**
 
-**Bezeichnung** 15 30 45 60 90 120 1
+**Bezeichnung** 15 30 45
+
+60
+
+90 120
+
+1

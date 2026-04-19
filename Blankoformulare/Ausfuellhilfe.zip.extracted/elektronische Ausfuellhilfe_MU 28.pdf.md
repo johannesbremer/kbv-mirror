@@ -1,31 +1,27 @@
-|  | Elektronische | | Ausfüllhilfe | | Muster | 28 – | Verordnung | bei | Überweisung | | Soziotherapie |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Hinweistexte | für | die | Erstellung einer |  | elektronischen | Ausfüllhilfe | | für die |  |  |
-|  | Verordnung | bei | Überweisung | zur |  | Indikationsstellung | für | Soziotherapie | |  |  |
-| gem. | § | 37a SGB | V im | Umfang von | maximal | 5 | Therapieeinheiten | | (Muster | 28) |  |
-| Stand: | Oktober | 2017 |  |  |  |  |  |  |  |  | 1 |
+**Elektronische Ausfüllhilfe Muster 28 – Verordnung bei Überweisung Soziotherapie**
 
-Elektronische Ausfüllhilfe Muster 28 – Verordnung bei Überweisung Soziotherapie Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die                  Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie                gem. § 37a SGB V im Umfang von maximal 5 Therapieeinheiten (Muster 28)  Stand: Oktober 2017
+**Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die**  **Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie**  **gem. § 37a SGB V im Umfang von maximal 5 Therapieeinheiten (Muster 28)**
+
+1
+
 
 ---
 
-### Elektronische Ausfüllhilfe Muster 28 – Verordnung bei Überweisung Soziotherapie
-
 **Erläuterungen zu den einzelnen Feldern**
 
-**1. Diagnose (ICD-10-Code)**
+**Diagnose (ICD-10-Code)** **1.**
 
-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver- schlüsselt nach ICD-10-GM an.
+r-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
 
 **2. Erkrankung besteht seit (falls bekannt)**
 
 Sofern bekannt, geben Sie hier das Datum an, seit dem die die Soziotherapie begründende Erkrankung  besteht.
 
-**3. Krankenhausbehandlung (wird vermieden/ wird verkürzt/ ist nicht ausführbar)**
+**Krankenhausbehandlung (wird vermieden/ wird verkürzt/ ist nicht ausführbar)** **3.**
 
 Hier ist eine der drei Angaben anzukreuzen.
 
-**4. Erklärung des Arztes**
+**Erklärung des Arztes** **4.**
 
 Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
@@ -33,6 +29,4 @@ Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).  Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
-
-Stand: Oktober 2017 2
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php) (PDF, 550 KB): Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf 2

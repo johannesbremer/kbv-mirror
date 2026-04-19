@@ -31,8 +31,7 @@
 | Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
 | APHAB-Bogen | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- |
 
-nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen bei Schwerhörigkeit (entsprechend der GOP 09372). geräteversorgung beim Jugendlichen oder Erwachsenen (entsprechend der GOP 09373). strument zur Bewertung der Qualität der Hörgeräteversorgung. Der Bogen wurde 1995 in den USA von Cox. Et al. entwickelt und wird dort bereits seit Jahren eingesetzt (Cox RM, Alexander GC (1995) The Abbreviated Profile of Hearing Aid Benefit. Ear Hear 16: 176–86). weise eingefügt. enten für Sie ggf. reidentifizierbar sein müssen. opt Patienten. gramm. Anlage QSHGV: Ausfüllhinweise
-
+nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen bei Schwerhörigkeit (entsprechend der GOP 09372). geräteversorgung beim Jugendlichen oder Erwachsenen (entsprechend der GOP 09373). strument zur Bewertung der Qualität der Hörgeräteversorgung. Der Bogen wurde 1995 in den USA von Cox. Et al. entwickelt und wird dort bereits seit Jahren eingesetzt (Cox RM, Alexander GC (1995) The Abbreviated Profile of Hearing Aid Benefit. Ear Hear 16: 176–86). weise eingefügt. enten für Sie ggf. reidentifizierbar sein müssen. opt Patienten. gramm.
 
 ---
 
@@ -63,4 +62,4 @@ nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen 
 | APHAB-Bogen | | |
 |  | Sowohl | Bitte tragen Sie hier die Antworten des Patienten ein. A: immer B: fast immer C: häufig D: in der Hälfte der Fälle E: gelegentlich F: selten G: nie |
 
-(rechts / links) oder nach Ihrer Einschätzung Freifeld mit Hörgerät(en) Vertäubung des normalhörigen Ohres) gramm. Oldenburger Satztest) higkeit) Dies ist wichtig für die Errechnung der Verbesserung der Hörfähigkeit. beim APHAB-Bogen vor der Hörgeräteversorgung als auch nach der Hörgeräteversorgung Dabei bedeuten: Anlage QSHGV: Ausfüllhinweise
+(rechts / links) Freifeld mit Hörgerät(en) higkeit) beim APHAB-Bogen vor der Hörgeräteversorgung als auch nach der Hörgeräteversorgung oder nach Ihrer Einschätzung Vertäubung des normalhörigen Ohres) gramm. Oldenburger Satztest) Dies ist wichtig für die Errechnung der Verbesserung der Hörfähigkeit. Dabei bedeuten:

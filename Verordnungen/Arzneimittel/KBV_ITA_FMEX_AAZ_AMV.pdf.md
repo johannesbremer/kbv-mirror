@@ -13,7 +13,7 @@
 
 ## [KBV_ITA_FMEX_AAZ_AMV]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln / 17. Mai 2024
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  / 17. Mai 2024
 
 
 ---
@@ -26,7 +26,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 9 / KBV / Antrag auf Zertifi
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -39,14 +39,12 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
 | Systempfleger [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
-
-Seite 2 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
 
 / Version: 5.6 / 17. Mai 2024
 
@@ -54,9 +52,9 @@ Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [
 
 ---
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt 1.1.
+Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
@@ -65,9 +63,9 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
+Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
@@ -76,18 +74,18 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+Bitte geben Sie im Folgenden an, welche Client
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-Seite 3 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
+1.1.
 
-Antragssteller:
+-Betriebssysteme unterstützt werden.
 
-/ Version: 5.6 / 17. Mai 2024
+vorhanden) des Zertifizierungsgegenstandes an.
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
@@ -95,9 +93,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 2
 
-## REALISIERUNG VON ANFORDERUNGEN
-
-**2.1 ANGABEN ZUM ZERTIFIZIERUNGSGEGENSTAND**
+**2.1**
 
 Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 
@@ -116,7 +112,7 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 |---|---|
 | ☐ | Eine werbehaltige Version des Zertifizierungsgegenstandes ist vorhanden. |
 
-**2.2 PFLICHTFUNKTIONEN UND KONDITIONALE PFLICHTFUNKTIONEN**
+**2.2**
 
 |  |  |
 |---|---|
@@ -124,17 +120,17 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 | ☐ | Der Softwareverantwortliche versichert, dass alle konditionalen Pflichtfunktionen des |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage für die |
 
-Seite 4 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
+## REALISIERUNG VON ANFORDERUNGEN
 
-Antragssteller:
+**ANGABEN ZUM ZERTIFIZIERUNGSGEGENSTAND**
 
-/ Version: 5.6 / 17. Mai 2024
+**PFLICHTFUNKTIONEN UND KONDITIONALE PFLICHTFUNKTIONEN**
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ichtfunktionen des Anforderungs katalogs nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn ungssoftware/Arzneimitteldaten banken erfüllt sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. ichtfunktionen des Anforderungs ungssoftware/Arzneimitteldaten katalogs banken erfüllt
 
 ---
 
-**2.3 OPTIONALE FUNKTIONEN**
+**2.3** **OPTIONALE FUNKTIONEN**
 
 Folgende optionale Funktionen wurden umgesetzt:
 
@@ -149,14 +145,11 @@ Folgende optionale Funktionen wurden umgesetzt:
 | O36-40 | Festlegung der ausstellenden Person zum Signaturzeitpunkt [siehe Technischen Anlage eRezept] | ☐ |
 | O6-231 | Zwei Patientenausdrucke einer Person auf einem DIN [siehe Technischen Anlage eRezept] | ☐ |
 | O4-100 | Richtgrößen | ☐ |
-| O4-110 | Controlling: Richtgrößenausschöpfung | ☐ |
+| O4-110 |  | ☐ |
 | O4-130 | Weitere Controllingprogramme | ☐ |
-| O4-140 | Preiszuordnung bei Wirkstoffverordnung | ☐ |
+| O4-140 |  | ☐ |
 
-Antragssteller:
-
-NUMMER BITTE ANKREUZEN -A4- Blatt [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]Seite 5 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln / Version: 5.6 / 17. Mai 2024
-
+NUMMER -A4- Blatt Controlling: Richtgrößenausschöpfung Preiszuordnung bei Wirkstoffverordnung BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
@@ -181,32 +174,22 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-* Diese Information ist verpflichtend anzugeben
-
-________________
-
-Seite 6 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
-
-Antragssteller:
-
-/ Version: 5.6 / 17. Mai 2024
+Diese Information ist verpflichtend anzugeben
 
 
 ---
 
 4
 
-## KENNTNISNAHME DURCH DEN ANTRAG
+## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## SSTELLER
-
-**I. Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Sichtprüfung und bei Neuzertifizierung zusätzlich einer  Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Sichtprüfung und bei Neuzertifizierung zusätzlich einer  Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
 | Verordnung von Arznei- | Neu-, Re- oder Er- | Sichtprüfung und | 1.651,44 |
 
-**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
@@ -216,31 +199,26 @@ Antragssteller:
 
 (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III. Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
 (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur
 
-Seite 7 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
+mitteln  weiterungszertifizierung Ergebnisprüfung (Prüfvorgang AMV [pro Sichtprüfung]  eRezept)
 
-Antragssteller:
-
-/ Version: 5.6 / 17. Mai 2024
-
-mitteln  weiterungszertifizierung Ergebnisprüfung (Prüfvorgang AMV – eRezept) [pro Sichtprüfung]
 
 ---
 
 Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der !ŶƚƌĂŐƐƚĞůůĞƌ ĂŬǌĞƉƚŝĞƌƚ ĚŝĞ >ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐ ĂƵƐ ĚĞŵ ŽŬƵŵĞŶƚ ͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐ ʹ  Software für Softwarehersteller ʹ͞ ΀KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Der   Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 IV. Sonstiges
 
@@ -253,12 +231,6 @@ IV. Sonstiges
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-
-Seite 8 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
-
-Antragssteller:
-
-/ Version: 5.6 / 17. Mai 2024
 
 
 ---
@@ -276,9 +248,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 9 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln
-
-Antragssteller:
-
-/ Version: 5.6 / 17. Mai 2024

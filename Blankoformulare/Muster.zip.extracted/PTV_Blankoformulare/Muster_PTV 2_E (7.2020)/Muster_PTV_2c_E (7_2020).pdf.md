@@ -1,76 +1,10 @@
-**Ausfertigung Therapeut*in**
-
-## PTV 2
-
-## Angaben Therapeut*in
-
-**Für die KZT1, KZT2 oder LZT in diesem Bewilligungsschritt werden beantragt**
-
-Therapieeinheiten mit GOP des EBM,
-
-Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen  der vertragsärztlichen Versorgung durch und habe von der zuständigen  Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
-
-**Chiffre Patient*in**
-
-***Geburtsdatum***  ***6-stellig*** ***Anfangsbuchstabe***  ***des Familiennamens***
-
-Ausstellungsdatum
-
-Datum des Gutachtens
-
-Stempel / Unterschrift Therapeut*in  bzw. Ambulanz gemäß § 117 Abs. 3 SGB V
-
-,
-
-Therapieeinheiten mit GOP des EBM
-
-**Für den Einbezug von Bezugspersonen in diesem Bewilligungsschritt werden beantragt**
-
-Therapieeinheiten (1 TE = 50 Minuten)
-
-***Akutbehandlung***
-
-***Gruppenbehandlung***
-
-***Einzelbehandlung***
-
-Therapieeinheiten
-
-**Bisheriger Behandlungsumfang**
-
-,,,
-
-Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 100 Minuten),,,
-
 Name und Anschrift der Krankenkasse
 
-**Erklärung Therapeut*in**
+**Psychotherapie**
 
-**Letztes Gutachten durch** Name
+für Erwachsene (Erw)
 
-Vor der jetzigen Behandlung wurde innerhalb der letzten  2 Jahre bereits eine KZT1, KZT2 oder LZT durchgeführt
-
-ja, mit voraussichtlich
-
-Soll nach Abschluss der Behandlung eine  Rezidivprophylaxe durchgeführt werden
-
-nein
-
-noch nicht absehbar
-
-ein Fortführungsantrag ist voraussichtlich erforderlich
-
-***Bei Erstanträgen angeben:***
-
-***Bei Erst- und Umwandlungsanträgen angeben:***
-
-***Bei Anträgen auf LZT angeben:***
-
-1. Sitzung am
-
-Durchführung von  zwei probatorischen Sitzungen: 2. Sitzung am
-
-**Diagnose(n) (ICD-10 - GM endständig)**
+für Kinder und Jugendliche (KiJu)
 
 Analytische  Psychotherapie (AP)
 
@@ -80,19 +14,43 @@ Tiefenpsychologisch  fundierte Psychotherapie (TP)
 
 Verhaltenstherapie (VT)
 
-Kurzzeittherapie 1 (KZT 1) ausschließlich Einzeltherapie
+**Für die KZT1, KZT2 oder LZT in diesem Bewilligungsschritt werden beantragt**
+
+Therapieeinheiten mit GOP des EBM
+
+**Für den Einbezug von Bezugspersonen in diesem Bewilligungsschritt werden beantragt**
+
+Therapieeinheiten mit GOP des EBM
+
+***Bei Erstanträgen angeben:*** Vor der jetzigen Behandlung wurde innerhalb der letzten 2 Jahre bereits eine KZT1, KZT2 oder LZT durchgeführt ***Bei Erst- und Umwandlungsanträgen angeben:*** Durchführung von  zwei probatorischen Sitzungen: 1. Sitzung am
+
+2. Sitzung am
+
+**Bisheriger Behandlungsumfang** ***Einzelbehandlung*** Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 50 Minuten)
+
+***Gruppenbehandlung*** Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 100 Minuten)
+
+***Akutbehandlung***
+
+Therapieeinheiten (1 TE = 50 Minuten)
+
+**Letztes Gutachten durch** Name
+
+**Erklärung Therapeut*in** Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen  der vertragsärztlichen Versorgung durch und habe von der zuständigen Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
+
+**Ausfertigung Therapeut*in**
+
+## Angaben Therapeutin
+
+**Chiffre Patient*in**
+
+***Anfangsbuchstabe***  ***des Familiennamens***
+
+**Diagnose(n)** ***(ICD-10 - GM endständig)***
 
 Es liegt eine Diagnose nach F70-F79 (ICD-10-GM) vor.
 
-ausschließlich Gruppentherapie
-
-Kombinationsbehandlung mit
-
-überwiegend  Einzeltherapie
-
-überwiegend  Gruppentherapie
-
-Kombinationsbehandlung  durch zwei Therapeut*innen
+Kurzzeittherapie 1 (KZT 1)
 
 Kurzzeittherapie 2 (KZT 2)
 
@@ -104,14 +62,40 @@ Umwandlung
 
 Fortführung
 
-**Psychotherapie**
+## PTV 2
 
-für Erwachsene (Erw)
+***Geburtsdatum***  ***6-stellig***
 
-für Kinder und Jugendliche (KiJu)
+ausschließlich Einzeltherapie
 
-**BB,**
+ausschließlich Gruppentherapie
+
+Kombinationsbehandlung mit
+
+überwiegend  Einzeltherapie
+
+überwiegend  Gruppentherapie
+
+Kombinationsbehandlung  durch zwei Therapeut*innen
+
+**BB**
+
+***Bei Anträgen auf LZT angeben:*** Soll nach Abschluss der Behandlung eine   Rezidivprophylaxe durchgeführt werden
+
+ja, mit voraussichtlich
+
+nein
+
+noch nicht absehbar
+
+ein Fortführungsantrag ist voraussichtlich erforderlich
+
+Therapieeinheiten
+
+Datum des Gutachtens
+
+Ausstellungsdatum
+
+Stempel / Unterschrift Therapeut*in  bzw. Ambulanz gemäß § 117 Abs. 3 SGB V
 
 PRF.NR. Muster PTV 2c/E (7.2020)
-
-Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 50 Minuten)

@@ -14,11 +14,7 @@ Kostenträgerkennung Versicherten-Nr.Status
 
 Betriebsstätten-Nr. Arzt-Nr.Datum
 
-Krankenkasse bzw. Kostenträger
-
-## 62C
-
-Bedarfsmedikamente für AKI
+Krankenkasse bzw. Kostenträger**62C** Bedarfsmedikamente für AKI
 
 Notfallmanagement
 
@@ -34,7 +30,9 @@ janein Notfallversorgung
 
 Ergotherapie
 
-### Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
+### Medizinische Behandlungspflege
+
+***(ggf. Beiblatt nutzen)***
 
 ### Therapieziele
 
@@ -78,7 +76,7 @@ ja nein Häufigkeit pro Tag Medikament/  Substanz
 | mit Beatmung |  | unter Spontanatmung |  | Mobilität |
 |---|---|---|---|---|
 | Dauer |  | Dauer |  | Dauer |
-| l/min Flow |  | l/min Flow |  | l/min Flow |
+| l/minFlow |  | Flow l/min |  | l/minFlow |
 | h/tgl. |  | h/tgl. |  | h/tgl. |
 
 ärztliche Unterschrift

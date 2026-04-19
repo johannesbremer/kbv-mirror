@@ -1,16 +1,22 @@
-IK des Leistungserbringers
+Krankenkasse bzw. KostenträgerZuzah- lungs-
 
-Gesamt-ZuzahlungGesamt-Brutto
+frei[ ] Zuzah- Name, Vorname des Versicherten lungs- pflicht[ ]
 
-Heilmittel-Pos.-Nr.Heilmittel-Pos.-Nr.FaktorFaktor
+Unfall- folgen[ ]
 
-Rechnungsnummer
+Kostenträgerkennung Versicherten-Nr. BVG [ ] Betriebsstätten-Nr. Arzt-Nr.
 
-Belegnummer
+Behandlungsplan_162.indd 1
 
-Geschlecht weiblich männlich
+geb. am
 
-### Förder- und Behandlungsplan gemäß Rahmenvertrag  für medizinisch therapeutische Leistungen
+Status
+
+Datum
+
+Geschlecht weiblich männlich[ ][ ]
+
+### Förder- und Behandlungsplan
 
 zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in **interdisziplinär tätigen heilpädagogischen Fördereinrichtungen (RV IHF)**
 
@@ -20,13 +26,13 @@ ICD 10 (Bitte stets angeben):
 
 Die Behandlung ist wie folgt durchzuführen:
 
-GruppenbehandlungEinzelbehandlung BEBEPhysiotherapieWocheWoche MonatMonat
+Physiotherapie[ ]
 
-SprachtherapieBEBE WocheWoche MonatMonat
+Sprachtherapie[ ]
 
-BEBEWocheWocheErgotherapie MonatMonat
+Ergotherapie[ ]
 
-bis:Voraussichtliche Behandlungsdauer von:
+Voraussichtliche Behandlungsdauer von:
 
 **Der Förder- und Behandlungsplan wurde im Benehmen mit der interdisziplinär tätigen heilpädagogischen** **Fördereinrichtung sowie unter Einbeziehung und Mitwirkung der Sorgeberechtigten erstellt.**
 
@@ -36,38 +42,34 @@ DatumStempel und Unterschrift des Arztes
 
 Ergänzende Anmerkungen des Therapeuten im Sinne des § 12 Rahmenvertrag vom 01.09.2010
 
-Krankenkasse bzw. KostenträgerZuzah- lungs- frei[ ] Zuzah- Name, Vorname des Versicherten lungs- pflicht[ ]
+IK des Leistungserbringers
 
-Unfall- folgen[ ] Kostenträgerkennung Versicherten-Nr. BVG [ ] Betriebsstätten-Nr. Arzt-Nr.
+Gesamt-Zuzahlung
 
-Behandlungsplan_162.indd 1
+Heilmittel-Pos.-Nr.
 
-[ ]
+Gesamt-Brutto
 
-[ ]
+Faktor
 
-[ ]
+Rechnungsnummer
 
-[ ]
+Belegnummer
 
-geb. am
+gemäß Rahmenvertrag für medizinisch therapeutische Leistungen
 
-Status
+Einzelbehandlung WocheBE [ ] Monat[ ]
 
-Datum
+WocheBE [ ] Monat[ ]
 
-[ ]
+WocheBE [ ] Monat[ ]
 
-[ ] [ ]
+Heilmittel-Pos.-Nr.Faktor
 
-[ ] [ ]
+Gruppenbehandlung WocheBE [ ] Monat[ ]
 
-[ ] [ ]
+WocheBE [ ] Monat[ ]
 
-[ ] [ ]
+WocheBE [ ] Monat[ ]
 
-[ ] [ ]
-
-[ ] [ ]
-
-04.09.15 07:46
+bis: 04.09.15 07:46

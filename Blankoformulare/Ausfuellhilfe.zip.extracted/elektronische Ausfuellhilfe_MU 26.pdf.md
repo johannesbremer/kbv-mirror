@@ -1,51 +1,47 @@
-|  | Elektronische | | Ausfüllhilfe | | Muster | 26 | – | Verordnung | Soziotherapie |
-|---|---|---|---|---|---|---|---|---|---|
-|  | Hinweistexte | für | die | Erstellung | einer |  | elektronischen | Ausfüllhilfe | für die |
-|  | Verordnung |  | Soziotherapie | gem. | § | 37a SGB | V | (Muster 26) |  |
-| Stand: | Oktober | 2017 |  |  |  |  |  |  |  |
+**Elektronische Ausfüllhilfe Muster 26 – Verordnung Soziotherapie**
 
-Elektronische Ausfüllhilfe Muster 26 – Verordnung Soziotherapie Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Verordnung Soziotherapie gem. § 37a SGB V (Muster 26)  Stand: Oktober 2017 1
+**Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die**   **Verordnung Soziotherapie gem. § 37a SGB V (Muster 26)**
+
+1
 
 
 ---
 
-### Elektronische Ausfüllhilfe Muster 26 – Verordnung Soziotherapie
-
 **Erläuterungen zu den einzelnen Feldern**
 
-**1. Diagnose (ICD-10-Code)**
+**Diagnose (ICD-10-Code)** **1.**
 
-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver- schlüsselt nach ICD-10-GM an.
+r-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
 
 **2. Schweregrad (laut GAF-Skala)**
 
-Die Fähigkeitsstörungen, die zusammen mit der Diagnose den Anspruch auf eine Soziotherapie begründen,  werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF-Wert höchs- tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens ≤ 40 sein.
+Die Fähigkeitsstörungen, die zusammen mit der Diagnose den Anspruch auf eine Soziotherapie begründen,  werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF  -Wert höchs- tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens ≤ 40 sein.
 
 **3. Erkrankung besteht seit (falls bekannt)**
 
 Sofern bekannt, geben Sie hier das Datum an, seit dem die die Soziotherapie begründende Erkrankung  besteht.
 
-**4. Art und Ausprägung der Fähigkeitsstörungen**
+**Art und Ausprägung der Fähigkeitsstörungen** **4.**
 
-Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mit dem angegebenen GAF- Wert korrespondieren.
+Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mit dem angegebenen GAF Wert korrespondieren.
 
 **5. Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
-Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 außerhalb des schizophrenen Formenkrei- ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können  sowohl psychiatrisch als auch somatisch sein.
+erhalb des schizophrenen Formenkrei-Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 auß ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können  sowohl psychiatrisch als auch somatisch sein.
 
-**6. Angaben des Versicherten**
+**Angaben des Versicherten** **6.**
 
 Neben den Kontaktdaten ist hier die Wohnform anzugeben.
 
-**7. Angaben des nächsten Angehörigen**
+**Angaben des nächsten Angehörigen** **7.**
 
 An dieser Stelle geben Sie bitte die Kontaktdaten eines nahen Angehörigen des Patienten an, damit im Be- darfsfall Rücksprache mit dieser Person gehalten werden kann.
 
-**8. Angaben zum Betreuer**
+**Angaben zum Betreuer** **8.**
 
 Sofern ein gesetzlicher Betreuer bestellt worden ist, tragen Sie hier die Ihnen bekannten Angaben ein.
 
-**9. Voraussichtliche Anzahl der Therapieeinheiten**
+**Voraussichtliche Anzahl der Therapieeinheiten** **9.**
 
 Sofern möglich, geben Sie hier die voraussichtliche Zahl der Therapieeinheiten an, die zur Erreichung des  Therapieziels erforderlich sind.
 
@@ -71,6 +67,4 @@ Hier ist eine der drei Angaben anzukreuzen.
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).  Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
-
-Stand: Oktober 2017 2
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php) Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf 2

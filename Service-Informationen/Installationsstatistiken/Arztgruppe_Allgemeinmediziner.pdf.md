@@ -1,76 +1,254 @@
 ## TOP 20 Systeme - Allgemeinmediziner
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG
+1.12
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG
+2.80
 
-462 **medatixx**medatixx GmbH & Co. KG
+4.62
 
-216 **x.isynet**medatixx GmbH & Co. KG
+2.16
 
-498 **T2med**T2med GmbH & Co. KG
+4.98
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH
+2.10
 
-243 **x.concept**medatixx GmbH & Co. KG
+2.43
 
-203 **ALBIS**CompuGroup Medical Deutschland AG
+2.03
 
-244 **QUINCY WIN**Frey ADV GmbH
+2.44
 
-266 **x.comfort**medatixx GmbH & Co. KG 457 **tomedo**Zollsoft GmbH
+2.66
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG 1.9912.060-69
+4.57
 
-1.9511.9429
+2.52
 
-1.6751.61758
+**TURBOMED**
 
-1.5761.601-25
+**CGM MEDISTAR BLACK PRO**
 
-1.5561.50452
+**medatixx**
 
-1.5081.49414
+**x.isynet**
 
-1.2321.267-35
+**T2med**
 
-1.1071.133-26
+**Medical Office**
 
-1.0561.072-16
+**x.concept**
 
-928968-40
+**ALBIS**
 
-79574847
+**QUINCY WIN**
 
-702722-20
+**x.comfort**
 
-1
+**tomedo**
+
+**CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+T2med GmbH & Co. KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+Frey ADV GmbH
+
+medatixx GmbH & Co. KG
+
+Zollsoft GmbH
+
+CompuGroup Medical Deutschland AG 1
+
+1.991
+
+1.951
+
+1.675
+
+1.576
+
+1.556
+
+1.508
+
+1.232
+
+1.107
+
+1.056
+
+9.28
+
+7.95
+
+7.02
+
+2.060
+
+1.942
+
+1.617
+
+1.601
+
+1.504
+
+1.494
+
+1.267
+
+1.133
+
+1.072
+
+9.68
+
+7.48
+
+7.22
+
+-69
+
+9
+
+5.8
+
+-25
+
+5.2
+
+1.4
+
+-35
+
+-26
+
+-16
+
+-40
+
+4.7
+
+-20
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-086 **DURIA**Duria eG6136085
+0.86
 
-135 **EL - Elaphe Longissima** medatixx GmbH & Co. KG506517-11
+1.35
 
-083 **PegaMed**PEGA Elektronik GmbH4374307
+0.83
 
-060 **Data-AL**Data-AL GmbH376383-7
+0.60
 
-261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender 334347-13
+2.61
 
-488 **inSuite**Doc Cirrus GmbH273290-17
+4.88
 
-030 **Praxis-Programm**MediSoftware Computersysteme für Ärzte 202203-1
+0.30
 
-062 **EVA**Abasoft EDV-Programme GmbH1681680 2
+0.62
+
+**DURIA**
+
+**EL - Elaphe Longissim**
+
+**PegaMed**
+
+**Data-AL**
+
+**S3-Win**
+
+**inSuite**
+
+**Praxis-Programm**
+
+**EVA**
+
+Duria eG
+
+**a** medatixx GmbH & Co. KG
+
+PEGA Elektronik GmbH
+
+Data-AL GmbH
+
+S3 Praxiscomputer GmbH / Maximilian Flender
+
+Doc Cirrus GmbH
+
+MediSoftware Computersysteme für Ärzte
+
+Abasoft EDV-Programme GmbH 2
+
+6.13
+
+5.06
+
+4.37
+
+3.76
+
+3.34
+
+2.73
+
+2.02
+
+1.68
+
+6.08
+
+5.17
+
+4.30
+
+3.83
+
+3.47
+
+2.90
+
+2.03
+
+1.68
+
+5
+
+-11
+
+7
+
+-7
+
+-13
+
+-17
+
+-1
+
+0

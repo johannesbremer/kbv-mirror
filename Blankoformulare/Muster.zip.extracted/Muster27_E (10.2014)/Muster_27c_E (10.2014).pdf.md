@@ -18,6 +18,10 @@
 
 **4.**
 
+**Versicherten-Nr.**
+
+**Arzt-Nr.Datum**
+
 **5.**
 
 **6.**
@@ -34,25 +38,19 @@
 
 **Ausstellungsdatum**
 
-**2. Durchschlag** **zum Verbleib beim** **verordnenden Arzt**
+**2. Durchschlag**
+
+### zum Verbleib beim verordnenden Arzt
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-**Versicherten-Nr.**
-
-**Arzt-Nr.**
 
 **geb. am**
 
 **Status**
 
-**Datum**
-
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-## Soziotherapeutischer Betreuungsplan
-
-## gem. § 37a SGB V
+## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
 ***(als Anlage zur Verordnung und zur*** ***Weiterleitung an die Krankenkasse)***
 
@@ -62,12 +60,12 @@
 
 **Datum**
 
-**Datum Unterschrift des Patienten**
+**Datum** **Unterschrift des Patienten**
 
 **Muster 27c/E (10.2014) PRF.NR.**
+
+**27**
 
 **Zeitraum**
 
 **Unterschrift des Therapeuten**
-
-## 27

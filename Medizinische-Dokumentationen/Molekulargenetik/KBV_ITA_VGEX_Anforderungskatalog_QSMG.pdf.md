@@ -5,78 +5,87 @@
 |  |  |
 |  | Dezernat |
 |  |  |
-|  | 10623 Berlin, |
+|  | Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version |
+|  | 1.16 |
 
-kulargenetik ] Digitalisierung und IT Herbert-Lewin-Platz 2 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
+kulargenetik Digitalisierung und IT 10623 Berlin, Version  Datum: 1.4.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
+
+### DOKUMENTENHISTORIE
 
 Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.16 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in kon- | Abschaltung KV-Connect | 15 |
-| 1.15 | 14.02.2025 | KBV | - | KIM als Übertragungsweg | 15 |
-| 1.14 | 07.05.2018 | KBV | - - | Aktualisierung der KV- | 15 |
-| 1.13 | 09.04.2014 | KBV | Dokument redaktionell bzgl. |  |  |
-| 1.12 | 05.09.2013 | KBV | Der Arzt darf sich nicht über | Änderung Plausibilitäten | 13 |
-| 1.11 | 29.10.2012 | KBV | KV-Connect: Vorgaben zur  Nur GKV-Versicherte sind zu | Einsatz KV-Connect | 7 |
-| 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an das neue |  |
-| 1.00 | 25.04.2012 | KBV | Neues Dokument |  |  |
+| 1.16 | 14.11.2025 KBV |  | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K2-264 in kon- | Abschaltung KV-Connect | 15 |
+| 1.15 | 14.02.2025 KBV |  | - | KIM als Übertragungsweg | 15 |
+| 1.14 | 07.05.2018 KBV |  | - - | Aktualisierung der KV- | 15 |
+| 1.13 | 09.04.2014 KBV |  | Dokument redaktionell bzgl. |  |  |
+| 1.12 | 05.09.2013 KBV |  | Der Arzt darf sich nicht über | Änderung Plausibilitäten | 13 |
+| 1.11 | 29.10.2012 KBV |  | KV-Connect: Vorgaben zur  Nur GKV-Versicherte sind zu | Einsatz KV-Connect | 7 |
+| 1.10 | 09.08.2012 KBV |  | redaktionelle Überarbeitung | Anpassung an das neue |  |
+| 1.00 | 25.04.2012 KBV |  | Neues Dokument |  |  |
+
+ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen (P1-210). Übermittlung. berücksichtigen (P1-35). Connect Spezifikation Layout
+
+---
 
 ### DOKUMENTENHISTORIE
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+**2**
 
-ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- Connect Spezifikation veralteter Links überarbeitet Pflichtfelder hinwegsetzen (P1-210). Übermittlung. berücksichtigen (P1-35). Layout KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 2 von 19
+### INHALTSVERZEICHNIS
+
+**3**
+
+### ABBILDUNGSVERZEICHNIS
+
+**4**
+
+**1**
+
+### QUALITÄTSSICHERUNGSVEREINBARUNG MOLEKULARGENETIK
+
+**5**
+
+**1.1** **Zielbestimmung ............................................................................................................................. 5**
+
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **....................................................... 5**
+
+**2**
+
+### ÄRZTLICHES DOKUMENTIEREN
+
+**6**
+
+**2.1** **Allgemeine Vorgaben .................................................................................................................... 6**  2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten ............................................................ 6  2.1.2 Behandlungsfälle nach EBM-Unterabschnitt ......................................................................... 7  2.1.3 LANR und BSNR des Einsenders ....................................................................................... 11  2.1.4 Externe Qualitätssicherung.................................................................................................. 12  2.1.5 Plausibilitäten ....................................................................................................................... 13  2.1.6 Darstellung ........................................................................................................................... 14  2.1.7 Speichern ............................................................................................................................. 14  2.1.8 Ändern ................................................................................................................................. 14
+
+**2.2** **Datenübermittlung ....................................................................................................................... 15**  2.2.1 Übermittlung......................................................................................................................... 15  2.2.2 Export der Daten .................................................................................................................. 17  2.2.3 Verschlüsseln der Daten ...................................................................................................... 18
+
+**3**
+
+### REFERENZIERTE DOKUMENTE
+
+**19**
+
+### INHALTSVERZEICHNIS
 
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |  |  |
-|  |  | INHALTSVERZEICHNIS | | | |  |  |  |  |
-|  | DOKUMENTENHISTORIE | | |  |  |  |  |  | 2 |
-|  | INHALTSVERZEICHNIS | |  |  |  |  |  |  | 3 |
-|  |  | ABBILDUNGSVERZEICHNIS | |  |  |  |  |  | 4 |
-| 1 |  |  | QUALITÄTSSICHERUNGSVEREINBARUNG | | | | MOLEKULARGENETIK |  | 5 |
-| 1.1 | Zielbestimmung | |  |  |  |  | ............................................................................................................................. | | 5 |
-| 1.2 | Pflichtfunktionen | | und | optionale | Funktionen | der | Software | ....................................................... | 5 |
-| 2 | ÄRZTLICHES |  | DOKUMENTIEREN | |  |  |  |  | 6 |
-| 2.1 | Allgemeine | Vorgaben |  |  |  |  | .................................................................................................................... | | 6 |
-|  | 2.1.1 | Vollständigkeit | der | Eingaben | aller | Bewegungsdaten |  | ............................................................ | 6 |
-|  | 2.1.2 | Behandlungsfälle | nach |  | EBM-Unterabschnitt |  | ......................................................................... | | 7 |
-|  | 2.1.3 LANR | und BSNR | des | Einsenders |  |  | ....................................................................................... | | 11 |
-|  | 2.1.4 Externe |  |  |  |  | Qualitätssicherung.................................................................................................. | | | 12 |
-|  | 2.1.5 | Plausibilitäten |  |  |  |  | ....................................................................................................................... | | 13 |
-|  | 2.1.6 | Darstellung |  |  |  |  | ........................................................................................................................... | | 14 |
-|  | 2.1.7 Speichern |  |  |  |  |  | ............................................................................................................................. | | 14 |
-| 2.1.8 | Ändern |  |  |  |  | ................................................................................................................................. | | | 14 |
-| 2.2 | Datenübermittlung | |  |  |  |  | ....................................................................................................................... | | 15 |
-| 2.2.1 |  |  |  |  |  | Übermittlung......................................................................................................................... | | | 15 |
-|  | 2.2.2 Export | der Daten |  |  |  |  | .................................................................................................................. | | 17 |
-|  | 2.2.3 | Verschlüsseln | der Daten |  |  |  | ...................................................................................................... | | 18 |
-| 3 | REFERENZIERTE | |  | DOKUMENTE |  |  |  |  | 19 |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 |  |  | Seite | 3 von 19 |
-
-QUALITÄTSSICHERUNGSVEREINBARUNG MOLEKULARGENETIK ............................................................................................................................. 5 Pflichtfunktionen und optionale Funktionen der Software ....................................................... 5 ÄRZTLICHES DOKUMENTIEREN Allgemeine Vorgaben .................................................................................................................... 6 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten ............................................................ 6 2.1.2 Behandlungsfälle nach EBM-Unterabschnitt ......................................................................... 7 2.1.3 LANR und BSNR des Einsenders ....................................................................................... 11 2.1.4 Externe Qualitätssicherung.................................................................................................. 12 2.1.5 Plausibilitäten ....................................................................................................................... 13 2.1.6 Darstellung ........................................................................................................................... 14 ............................................................................................................................. 14 2.1.8 Ändern ................................................................................................................................. 14 ....................................................................................................................... 15 2.2.1 Übermittlung......................................................................................................................... 15 2.2.2 Export der Daten .................................................................................................................. 17 2.2.3 Verschlüsseln der Daten ...................................................................................................... 18 REFERENZIERTE DOKUMENTE IT in der Arztpraxis Anforderungskatalog QS Molekulargenetik KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 3 von 19
-
----
-
-| IT in | der Arztpraxis |  |  |  |  |  |  |
+| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 |  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |
-|  |  |  | ABBILDUNGSVERZEICHNIS | | |  |  |
-| A BBILDUNG | :1 B ERICHTSZEITRÄUME |  |  |  |  |  | 6 ................................................................................................................................ |
+|  |  |  | **ABBILDUNGSVERZEICHNIS** | | |  |  |
+| A BBILDUNG | :1 B ERICHTSZEITRÄUME |  |  |  |  |  | **................................................................................................................................6** |
 |  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 | Seite 4 | von 19 |
 
-1: IT in der Arztpraxis Anforderungskatalog QS Molekulargenetik KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 4 von 19
+1:
 
 ---
 
@@ -84,26 +93,22 @@ QUALITÄTSSICHERUNGSVEREINBARUNG MOLEKULARGENETIK ..............................
 
 ### Qualitätssicherungsvereinbarung Molekulargenetik
 
-### 1.1
-
-### Zielbestimmung
+**1.1 Zielbestimmung**
 
 Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Molekulargenetik [1] eingesetzt wird. Es wird eine betriebsstättenbezogene Jah- resstatistik der molekulargenetischen Untersuchungen an die zuständige Datenannahmestel- le übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
-- die molekulargenetische Jahresstatistik korrekt zu dokumentieren sowie
+-  die molekulargenetische Jahresstatistik korrekt zu dokumentieren sowie
 
-- den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
+-  den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
 
-### 1.2
-
-### Pflichtfunktionen und optionale Funktionen der Software
+**1.2 Pflichtfunktionen und optionale Funktionen der Software**
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-**Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein.**
+müssen in der Anwendungssoftware implementiert sein. **Pflichtfunktionen**
 
-**Optionale Funktionen können implementiert werden, wenn alle genannten Bedingungen zu**  dieser Funktion erfüllt sind.
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -121,20 +126,15 @@ Pflichtfunktionen sind wie folgt gekennzeichnet:
 |---|---|
 | P4-10 | Funktionsbezeichnung |
 
-Ident-Nummer einer Pflichtfunktion  Ident-Nummer einer älteren Version
+Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | Optionale FUNKTION | |
 |---|---|
-| K8-30 | Funktionsbezeichnung                                                                            (2 |
+| K8-30 | Funktionsbezeichnung                                                                            (2 -80) |
 
-Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-(2-70) -80) KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 5 von 19
-
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version (2-70)
 
 ---
 
@@ -142,9 +142,7 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 ### Ärztliches Dokumentieren
 
-### 2.1
-
-### Allgemeine Vorgaben
+**2.1 Allgemeine Vorgaben**
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
@@ -164,27 +162,23 @@ Die Behandlungsfälle werden erstmals vom 01.04.2012 - 31.12.2012 erfasst, danac
 
 Untersuchungsjahr: 01.01.-.31.12 Das Kalenderjahr, in dem die molekulargenetischen  Untersuchungen durchgeführt werden.
 
-Meldequartal: 01.01.-.31.03 Das sich an das Untersuchungsjahr anschließende  Quartal.
+Meldequartal: 01.01.-.31.03 Das sich an das Untersuchungsjahr anschließende
 
-Prüfquartal: 01.04.-.30.06 Das sich an das Meldequartal anschließende Quartal  dient den Korrekturen.
+Prüfquartal: 01.01
 
-**Abbildung 1: Berichtszeiträume**
+Quartal.
 
-31.03 31.12 30.06 01.01
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-### Melde
-
-**-**
-
-### Prüfquartal
+01.04.-.30.06 Das sich an das Meldequartal anschließende Quartal  dient den Korrekturen.
 
 ### Untersuchungsjahr
 
-### quartal
+**Abbildung 1: Berichtszeiträume**
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 6 von 19
+31.12 31.03 30.06
+
+### Melde quartal
+
+### Prüfquartal
 
 
 ---
@@ -219,10 +213,6 @@ Es werden nur abgeschlossene Behandlungsfälle berücksichtigt, für die mind. e
 
 Die Anzahl aller Behandlungsfälle (mit mind. einer Leistung aus dem EBM Unterabschnitt  11.4.2) ist für die Betriebsstätte zu berechnen und in der Jahresstatistik anzuzeigen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 7 von 19
-
 
 ---
 
@@ -232,13 +222,13 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 7 von 19
 
 Die Art der Fragestellung zum Behandlungsfall ist zu erfassen. Die Anzahl der Behandlungs- fälle differenziert nach Art der Fragestellung ist zu bilden, wie es in der Berechnungsvorschrift  [KBV_ITA_VGEX_Plausi_QSMG] vorgegeben ist. Die jeweilige Anzahl ist in der Jahresstatis- tik anzuzeigen.
 
-Ein Behandlungsfall kann folgende Arten der Fragestellung haben: - diagnostische Fragestellung
+Ein Behandlungsfall kann folgende Arten der Fragestellung haben: -  diagnostische Fragestellung
 
-- prädiktive Fragestellung
+-  prädiktive Fragestellung
 
-- vorgeburtliche Fragestellung
+-  vorgeburtliche Fragestellung
 
-Die unterschiedlichen Fragestellungen sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs- scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
+Fragestellungen Die unterschiedlichen sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs- scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
 
 Beispiel:
 
@@ -253,20 +243,16 @@ Beispiel 1 Art der Fragestellung
 
 Die Art des Befundes zum Behandlungsfall ist zu erfassen. Die Anzahl der Befunde differen- ziert nach der Art der Fragestellung des Behandlungsfalles und nach der Art des Befundes ist  in der Jahresstatistik anzuzeigen.
 
-Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel- lung, dieser Befund kann folgende Arten des Befundes haben: - pathologischer Befund
+Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel- lung, dieser Befund kann folgende Arten des Befundes haben: -  pathologischer Befund
 
-- unauffälliger Befund
+-  unauffälliger Befund
 
-- nicht beurteilbarer Befund
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 8 von 19
+-  nicht beurteilbarer Befund
 
 
 ---
 
-Die unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
+unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben Die  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
 
 Beispiel:
 
@@ -285,19 +271,17 @@ Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP au
 |---|---|
 | P1-90 | Art des Befundes je Leistung |
 
-Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die jeweilige An- zahl ist in der Jahresstatistik anzuzeigen.
+Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  jeweilige An-die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die  zahl ist in der Jahresstatistik anzuzeigen.
 
-Eine durchgeführte Leistung (nach EBM Unterabschnitt 11.4.2) kann im Sinne der einzelnen  Analyse folgende Arten des Befundes haben: - pathologischer Befund
+Eine durchgeführte Leistung (nach EBM Unterabschnitt 11.4.2) kann im Sinne der einzelnen  Analyse folgende Arten des Befundes haben:
 
-- unauffälliger Befund
+pathologischer Befund
 
-- nicht beurteilbarer Befund
+unauffälliger Befund
+
+nicht beurteilbarer Befund
 
 Die zu unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben  [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 9 von 19
 
 
 ---
@@ -335,9 +319,7 @@ Beispiel
 
 Beispiel 3 Quotient differenziert nach Art des Befundes
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5 KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 10 von 19
+wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5
 
 
 ---
@@ -378,10 +360,6 @@ Aus der erfassten LANR des Einsenders (nach Muster 10 und 10a) je Behandlungsfal
 
 Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß der Tabelle [2]  gemappt.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 11 von 19
-
 
 ---
 
@@ -409,10 +387,6 @@ Beispiel
 |---|
 
 Beispiel 4 Gesamtanzahl der Untersuchungen
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 12 von 19
 
 
 ---
@@ -450,10 +424,6 @@ Das Einreichen einer unvollständigen (nicht alle Felder wurden gefüllt) und/od
 
 Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen. Bedingte  Pflichtfelder hingegen sind optional, d.h. der Anwender kann sich über Warnungen zu diesen  Feldern hinwegsetzen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 13 von 19
-
 
 ---
 
@@ -461,7 +431,7 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 13 von 19
 |---|---|
 | P1-220 | Behandlungsfälle ohne Art des Befundes |
 
-Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra- gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen.
+Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra- gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen
 
 **2.1.6 Darstellung**
 
@@ -477,7 +447,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuscha
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-**2.1.7 Speichern**
+**Speichern 2.1.7**
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -485,7 +455,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudru
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-**2.1.8 Ändern**
+**Ändern 2.1.8**
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -493,16 +463,10 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 14 von 19
-
 
 ---
 
-### 2.2
-
-### Datenübermittlung
+**2.2 Datenübermittlung**
 
 **2.2.1 Übermittlung**
 
@@ -532,9 +496,9 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
-- „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
+-  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
 
-- „KV-Connect – Anbindung an KV-Connect“ in der stets aktuellen Version  [Anbindung_KV_Connect]
+-  „KV-Connect Anbindung an KV-Connect“ in der stets aktuellen Version  [Anbindung_KV_Connect]
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -546,20 +510,22 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dok
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KIM.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 15 von 19
-
 
 ---
 
 **Akzeptanzkriterium:**
 
-(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
+(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
 
-- "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]  **Bedingung:**
+dokumentes bereitstellen:
 
-(1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.  (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.  **Hinweis:**
+-  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]
+
+**Bedingung:**
+
+(1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.  (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.
+
+**Hinweis:**
 
 Wenn eine KV für das Verfahren QSMG das KIM-Verfahren gemäß der  [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
 
@@ -586,10 +552,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.  (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 16 von 19
-
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
 
 ---
 
@@ -611,10 +574,6 @@ d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 
 e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 17 von 19
-
 
 ---
 
@@ -628,16 +587,12 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 18 von 19
-
 
 ---
 
 **3**
 
-### Referenzierte Dokumente
+## Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
@@ -651,6 +606,4 @@ KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 18 von 19
 | [3] | Richtlinie der Bundesärztekammer zur Qualitätssiche- |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che) KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 Seite 19 von 19
+Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che)

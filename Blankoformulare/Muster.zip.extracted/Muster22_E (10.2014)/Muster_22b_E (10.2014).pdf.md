@@ -1,57 +1,41 @@
-**Aus Datenschutzgründen freibleibend**
-
-**Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle Beschwerden,** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den aktuellen** **Parallelbehandlungen stat./amb.** **gleitbehandlung und/oder psychiatrische bzw. kinder**
-
-**Psychiatrische bzw. kinder- und** **jugendpsychiatrische Abklärung ist**
-
-**Sind ärztliche/ärztlich**
-
-**Aufgrund somatischer/psychiatrischer** **indikationen für**
-
-**Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
-
-**Für diese** Bescheinigung
-
-**Ausfertigung für den Gutachter**
-
-Beschwerden,
-
-### Konsiliarbericht
+## Konsiliarbericht
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
-**Auf Veranlassung von:Arztnummer**
+**Auf Veranlassung von:Aus Datenschutzgründen freibleibend**
 
-**Name des TherapeutenBetriebsstättennummer**
+**Name des Therapeuten**
 
-### Chiffre
+**22**
 
-**Anfangsbuchstabe Geburtsdatum** **des Familiennamens**
+**Arztnummer**
 
-Angaben zum psychischen und somatis**chen Befund** (bei Kindern und Jugendlichen
-
-medizinische Diagnosen, Diffe**renzial- und** Verdachtsdiagnosen, relevante Vor- (z.B. laufende Medikati**on), ggf.** Befunde, die eine ärztliche/ärztlich veranlasst **- und jugendpsychiatrische Untersuchung erforderlich machen:**
-
-**erfolgterforderlich nicht erforderlich**
-
-veranlasste Maßnahmen bzw. Unter**suchungen notwendig** bzw. veranlasst und
-
-Befunde bestehen erzeit**d** Kontra- eine psychotherapeutische Behandlung (B**egründung s.** o.)
-
-**Ausstellungsdatum**
-
-ist die Nr. 01612 EBM berechnungsfä**higVertragsarztstempel / Unterschrift des Arztes**
-
-**PRF.NR.** **Muster 22b/E (10.2014)**
-
-### 22
+**Betriebsstättennummer**
 
 **des Patienten**
 
-insbe-
+## Chiffre
 
-und **e Be-**
+**Anfangsbuchstabe Geburtsdatum** **des Familiennamens** **Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-** **gleitbehandlung und/oder psychiatrische bzw. kinder- und jugendpsychiatrische Untersuchung erforderlich machen:**
 
-**veranlasst**
+**Psychiatrische bzw. kinder- und** **jugendpsychiatrische Abklärung ist erforderlich nicht erforderlich**
 
-ggf. welche?
+**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen** **notwendig** **bzw.**
+
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+
+**Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
+
+**Ausstellungsdatum**
+
+**Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
+
+**Ausfertigung für den Gutachter**
+
+**erfolgt veranlasst**
+
+**veranlasst** **und** **ggf.** **welche?**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**PRF.NR.** **Muster 22b/E (10.2014)**

@@ -1,6 +1,4 @@
-## PTV 1
-
-## Antrag auf Psychotherapie
+## PTV 1Antrag auf Psychotherapie
 
 Name, Vorname des Versicherten
 
@@ -30,7 +28,7 @@ Wurden bei Ihnen innerhalb der letzten 12 Monate  mindestens 50 Minuten psychoth
 
 und ggf. amja, und zwar am
 
-nein (Wenn nein, bitte Folgendes angeben)
+nein ***(Wenn nein, bitte Folgendes angeben)***
 
 Wurde vor dem jetzigen Antrag in den letzten 2 Jahren  bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
 

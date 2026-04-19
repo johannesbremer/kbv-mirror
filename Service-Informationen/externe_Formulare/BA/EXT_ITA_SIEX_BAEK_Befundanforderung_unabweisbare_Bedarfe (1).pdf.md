@@ -1,4 +1,6 @@
-**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT**  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12.20 21
+### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
+
+gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17 12.2021
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -16,32 +18,28 @@ Letzte Behandlung am _________________
 
 **Begründung der Notwendigkeit des besonderen Bedarfs (je nach genannter Fragestellung im**  **Anschreiben, z.B. an Pflege- bzw. Hygieneartikeln, etc.):**
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21. 12
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21.12
 
 [ ]
 
 BGL-Nummer: _______________
 
-[ ]
-
-[ ]
+[ ][ ]
 
 
 ---
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**relevante medizinische Unterlagen (Arztbriefe, Befundberichte, Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift
+___________________________  Ort, Datum  Stempel und Unterschrift 12
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21. 12
+**Rückruf erbeten** [ ]
 
-Rückruf erbeten [ ]
-
-Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu** [ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 [ ]
 
@@ -64,11 +62,11 @@ An den
 
 Ärztlichen Dienst der  Agentur für Arbeit
 
-### Liquidation
+## Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € für jede weitere Seite | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -77,12 +75,12 @@ Für meine Bemühungen erlaube ich mir zu berechnen:
 
 Ich bitte um Überweisung auf das folgende Konto:
 
-A 0b’±1B%HIXQGEHULFKWB%b.BXQDEZHLVEDUHB%HGDUIHB21 12
+A 12112
 
 | Kontoinhaber/in |
 |---|
 | IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
 | BIC: |
-| Bank/Sparkasse: |
+|  |
 
-¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten  für jede weitere Seite Bank/Sparkasse:¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

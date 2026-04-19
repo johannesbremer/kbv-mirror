@@ -52,13 +52,11 @@ gültig ab:
 |---|---|
 | 47 | KV-spezifische Verwendung |
 
-Seite 1 von 1.2.276.0.76.5.227
+Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE 1.2.276.0.76.5.227
 
 1.01
 
 01.10.2025
-
-3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
 
 **Bezeichnung**
 
@@ -177,15 +175,7 @@ KV-spezifische Verwendung
 |---|---|
 | 82 | KV-spezifische Verwendung |
 
-Seite 2 von
-
-3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
-
 **Bezeichnung**
-
-KV-spezifische Verwendung
-
-KV-spezifische Verwendung
 
 Mutterschaftvorsorge
 
@@ -254,8 +244,6 @@ Sonderleistungen
 
 ---
 
-**Code**
-
 83
 
 84
@@ -289,18 +277,6 @@ Sonderleistungen
 | 98 | KV-spezifische Verwendung |
 |---|---|
 | 99 | KV-spezifische Verwendung |
-
-Seite 3 von
-
-3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
-
-**Bezeichnung**
-
-KV-spezifische Verwendung
-
-KV-spezifische Verwendung
-
-KV-spezifische Verwendung
 
 KV-spezifische Verwendung
 

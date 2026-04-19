@@ -1,12 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
-
-# FÜR EDMPS UND DMP-BRUSTKREBS
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR EDMPS UND DMP-BRUSTKREBS
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,10 +13,10 @@
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 |  | Y/106/2411/24/062 | 31.10.2026 | eDMP Herzinsuffizienz |  |
 |---|---|---|---|---|
@@ -50,15 +48,10 @@
 |  | Y/105/2401/36/081 | 31.12.2026 | eDMP COPD |  |
 |  | X/101/2401/36/934 | 31.12.2026 | DMP Brustkrebs |  |
 
-EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | X/110/2512/37/921 | 31.12.2028 | eDMP Rheumatoide Arthritis |  |
 |---|---|---|---|---|
@@ -85,15 +78,14 @@ EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar I
 |  | Y/104/2401/36/112 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/112 | 31.12.2026 | eDMP COPD |  |
 
-D-Doc axaris-software & systeme GmbH Max-Eyth-Weg 2 89160 Dornstadt Internet: www.d-doc.de Windows Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de Windows WindowsSeite 3 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+D-Doc axaris-software & systeme GmbH Max-Eyth-Weg 2 89160 Dornstadt Internet: www.d-doc.de Windows Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | X/110/2505/38/393 | 30.06.2028 | eDMP Rheumatoide Arthritis |  |
 |---|---|---|---|---|
@@ -116,21 +108,23 @@ D-Doc axaris-software & systeme GmbH Max-Eyth-Weg 2 89160 Dornstadt Internet: ww
 |  | Y/102/2401/36/280 | 31.12.2026 | eDMP Koronare Herzkrankheit |  |
 |  | Y/104/2401/36/280 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/280 | 31.12.2026 | eDMP COPD |  |
+|  | Y/102/2604/36/060 | 31.03.2029 | eDMP Koronare Herzkrankheit |  |
 |  | Y/103/2505/38/060 | 30.06.2028 | eDMP Asthma bronchiale |  |
 |  | Y/105/2505/38/060 | 30.06.2028 | eDMP COPD |  |
 |  | Y/106/2501/24/060 | 31.12.2026 | eDMP Herzinsuffizienz |  |
 |  | Y/101/2412/37/060 | 31.12.2027 | DMP Brustkrebs |  |
 |  | Y/109/2410/36/060 | 30.09.2027 | eDMP Osteoporose |  |
 
-CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de Windows CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsSeite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de Windows CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **DMP Form**
 
@@ -164,21 +158,15 @@ CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz In
 |  | Y/104/2401/36/086 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/086 | 31.12.2026 | eDMP COPD |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-X/101/2401/36/386 31.12.2026
-
-DMP Brustkrebs
-
-inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com iOS/Android Linux Mac OS Sonstige Windows apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Linux WindowsWindows
+inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com iOS/Android Linux Mac OS Sonstige Windows apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Linux WindowsX/101/2401/36/386 31.12.2026 DMP BrustkrebsWindows
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/103/2407/36/295 | 30.06.2027 | eDMP Asthma bronchiale |  |
 |---|---|---|---|---|
@@ -212,15 +200,14 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |  | Y/105/2401/36/244 | 31.12.2026 | eDMP COPD |  |
 |  | Y/109/2308/38/244 | 30.09.2026 | eDMP Osteoporose |  |
 
-Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de Linux Mac OS Windows INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows medibit Examion GmbH Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows WindowsSeite 6 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de Linux Mac OS Windows INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows medibit Examion GmbH Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/100/2504/36/616 | 31.03.2028 | eDMP Diabetes melitus Typ 2 |  |
 |---|---|---|---|---|
@@ -249,15 +236,19 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |  | X/105/2401/36/940 | 31.12.2026 | eDMP COPD |  |
 |  | Y/101/2404/36/195 | 31.03.2027 | DMP Brustkrebs |  |
 
-Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de iOS/Android Linux Mac OS Windows garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de Linux Mac OS Windows GMC PaDok GMC Systems GmbH Albert-Einstein-Str. 3 98693 Ilmenau Internet: www.gmc-systems.de J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-med.de Windows WindowsSeite 7 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de iOS/Android Linux Mac OS Windows garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de Linux Mac OS Windows GMC PaDok GMC Systems GmbH Albert-Einstein-Str. 3 98693 Ilmenau Internet: www.gmc-systems.de J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-med.de Windows Windows
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 |  | Y/110/2506/37/210 | 30.06.2028 | eDMP Rheumatoide Arthritis |  |
 |---|---|---|---|---|
@@ -281,15 +272,9 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |  | X/105/2604/24/748 | 31.03.2028 | eDMP COPD |  |
 |  | X/110/2604/24/748 | 31.03.2028 | eDMP Rheumatoide Arthritis |  |
 
-Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de EMILdmp ITC Dipl. Ing. M. Schumann Wilhelm-Raabe-Weg 3 a 35039 Marburg Internet: http://www.itc-ms.de/ Mac OS Windows WindowsSeite 8 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
-
+Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Windows Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de InterARZT InterData Praxiscomputer GmbH Mac OS Alte Bahnhofstraße 50-52 Windows 48268 Greven Internet: www.InterData.de EMILdmp ITC Dipl. Ing. M. Schumann Wilhelm-Raabe-Weg 3 a Windows 35039 Marburg Internet: http://www.itc-ms.de/
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/110/2604/24/135 | 31.03.2028 | eDMP Rheumatoide Arthritis |  |
 |---|---|---|---|---|
@@ -324,15 +309,14 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |  | V/104/2401/36/538 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | V/105/2401/36/538 | 31.12.2026 | eDMP COPD |  |
 
-EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx x.dmp medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows WindowsSeite 9 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx x.dmp medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/110/2507/36/030 | 30.06.2028 | eDMP Rheumatoide Arthritis |  |
 |---|---|---|---|---|
@@ -365,15 +349,14 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |  | Y/104/2401/36/015 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/015 | 31.12.2026 | eDMP COPD |  |
 
-Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS WindowsSeite 10 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/106/2410/24/043 | 30.09.2026 | eDMP Herzinsuffizienz |  |
 |---|---|---|---|---|
@@ -404,15 +387,14 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/104/2401/36/247 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/247 | 31.12.2026 | eDMP COPD |  |
 
-Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/109/2512/37/456 | 31.12.2028 | eDMP Osteoporose |  |
 |---|---|---|---|---|
@@ -445,15 +427,16 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |  | Y/104/2401/36/171 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/171 | 31.12.2026 | eDMP COPD |  |
 
-RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE iOS/Android Linux Mac OS Sonstige Windows S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de Sonstige Windows WindowsSeite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
 
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE iOS/Android Linux Mac OS Sonstige Windows S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de Sonstige Windows Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/109/2501/36/230 | 31.12.2027 | eDMP Osteoporose |  |
 |---|---|---|---|---|
@@ -489,15 +472,14 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 |  | Y/104/2404/36/498 | 31.03.2027 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2404/36/498 | 31.03.2027 | eDMP COPD |  |
 
-QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Linux Windows iOS/Android Linux Mac OS WindowsSeite 13 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
+QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Linux Windows iOS/Android Linux Mac OS Windows
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 |  | Y/103/2407/36/313 | 30.06.2027 | eDMP Asthma bronchiale |  |
 |---|---|---|---|---|
@@ -520,4 +502,9 @@ QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannov
 |  | Y/104/2401/36/457 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/457 | 31.12.2026 | eDMP COPD |  |
 
-Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSSeite 14 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OS

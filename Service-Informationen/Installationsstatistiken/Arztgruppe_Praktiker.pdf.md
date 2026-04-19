@@ -2,36 +2,36 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2 025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.20.25** | **Differenz** |
 |---|---|---|---|---|---|
 
-112 **TURBOMED**
+1.12 **TURBOMED**
 
-266 **x.comfort**
+2.66 **x.comfort**
 
-216 **x.isynet**
+2.16 **x.isynet**
 
-280 **CGM MEDISTAR BLACK PRO**
+2.80 **CGM MEDISTAR BLACK PRO**
 
-203 **ALBIS**
+2.03 **ALBIS**
 
-462 **medatixx**
+4.62 **medatixx**
 
-243 **x.concept**
+2.43 **x.concept**
 
-244 **QUINCY WIN**
+2.44 **QUINCY WIN**
 
-252 **CGM M1 PRO**
+2.52 **CGM M1 PRO**
 
-210 **Medical Office**
+2.10 **Medical Office**
 
-498 **T2med**
+4.98 **T2med**
 
-086 **DURIA**
+0.86 **DURIA**
 
-060 **Data-AL**
+0.60 **Data-AL**
 
-135 **EL - Elaphe Longissima**
+1.35 **EL - Elaphe Longissima**
 
 CompuGroup Medical Deutschland AG
 
@@ -59,82 +59,156 @@ Duria eG
 
 Data-AL GmbH
 
-medatixx GmbH & Co. KG
+medatixx GmbH & Co. KG 1
 
 **Fachgruppe mit den höchsten Installationszahlen.**
 
-205
+2.05
 
-185
+1.85
 
-171
+1.71
 
-166
+1.66
 
-126
+1.26
 
-109
+1.09
 
-99
+9.9
 
-84
+8.4
 
-77
+7.7
 
-72
+7.2
 
-60
+6.0
 
-60
+6.0
 
-51
+5.1
 
-42
+4.2
+
+2.20
+
+1.94
+
+1.79
+
+1.68
+
+1.29
+
+1.07
+
+9.8
+
+8.4
+
+7.9
+
+7.6
+
+6.3
+
+6.2
+
+5.3
+
+4.2
+
+-15
+
+-9
+
+-8
+
+-2
+
+-3
+
+2
 
 1
 
-220-15
+0
 
-194-9
+-2
 
-179-8
+-4
 
-168-2
+-3
 
-129-3
+-2
 
-1072
+-2
 
-981
-
-840
-
-79-2
-
-76-4
-
-63-3
-
-62-2
-
-53-2
-
-420
+0
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-348 **psyprax**psyprax GmbH3133-2
+3.48 **psyprax**
 
-078 **Med7**Bitron GmbH Technologiesysteme25232
+0.78 **Med7**
 
-081 **Arztpraxis Wiegand**APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH 2425-1
+0.81 **Arztpraxis Wiegand**
 
-457 **tomedo**Zolsoft GmbH24231
+4.57 **tomedo**
 
-083 **PegaMed**PEGA Elektronik GmbH21210
+0.83 **PegaMed**
 
-261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender19190 2
+2.61 **S3-Win**
+
+psyprax GmbH
+
+Bitron GmbH Technologiesysteme
+
+APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
+
+Zolsoft GmbH
+
+PEGA Elektronik GmbH
+
+S3 Praxiscomputer GmbH / Maximilian Flender 2
+
+3.1
+
+2.5
+
+2.4
+
+2.4
+
+2.1
+
+1.9
+
+3.3
+
+2.3
+
+2.5
+
+2.3
+
+2.1
+
+1.9
+
+-2
+
+2
+
+-1
+
+1
+
+0
+
+0

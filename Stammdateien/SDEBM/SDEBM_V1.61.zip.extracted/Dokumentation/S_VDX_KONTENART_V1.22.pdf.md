@@ -46,18 +46,15 @@ gültig ab:
 
 523
 
-| 525 | Modellvorhaben nach § 63 Abs. 2 SGB V |
-|---|---|
-| 530 | Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, (Ärztliche |
-|  | Behandlung) |
+525
 
-Seite 1 von 1.2.276.0.76.5.258
+530
+
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART 1.2.276.0.76.5.258
 
 1.22
 
 01.04.2025
-
-2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART
 
 **Bezeichnung**
 
@@ -67,7 +64,9 @@ Erstattungen für Heilmittel
 
 Regresse wg. unzulässig veranlaßter Leistungen
 
-vergütet werden Dialyse-Sachkosten
+vergütet werden
+
+Dialyse-Sachkosten
 
 Ärztliche Leistungsausgaben im Rahmen strukturierter Behandlungsprogramme
 
@@ -89,10 +88,14 @@ Früherkennungen von Krebserkrankungen beim Mann
 
 Früherkennung von anderen Krankheiten (GU)
 
+Modellvorhaben nach § 63 Abs. 2 SGB V
+
+Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, (Ärztliche Behandlung)
+
 
 ---
 
-| Code | Bezeichnung |
+| **Code** | **Bezeichnung** |
 |---|---|
 | 531 | Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch, |
 
@@ -117,10 +120,6 @@ Früherkennung von anderen Krankheiten (GU)
 | 998 | Ambulante Komplexbehandlung nach § 92 Abs. 6b SGB V |
 |---|---|
 | 999 | Hochschulambulanzen nach § 117 SGB V |
-
-Seite 2 von
-
-2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART
 
 (Krankenhausbehandlung) Behandlung in psychiatrischen Institutsambulanzen nach § 118 SGB V
 

@@ -1,52 +1,214 @@
 ## TOP 20 Systeme - Frauenärzte
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG1.7061.740-34
+2.80 **CGM MEDISTAR BLACK PRO**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG770786-16
+1.12 **TURBOMED**
 
-254 **ORBIS®**Dedalus HealthCare GmbH5595590
+2.54 **ORBIS®**
 
-216 **x.isynet**medatixx GmbH & Co. KG482496-14
+2.16 **x.isynet**
 
-462 **medatixx**medatixx GmbH & Co. KG39938118
+4.62 **medatixx**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 3633621
+2.10 **Medical Office**
 
-457 **tomedo**Zollsoft GmbH35734512
+4.57 **tomedo**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG3153141
+2.03 **ALBIS**
 
-243 **x.concept**medatixx GmbH & Co. KG311319-8
+2.43 **x.concept**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG287290-3
+2.52 **CGM M1 PRO**
 
-498 **T2med**T2med GmbH & Co. KG2442368
+4.98 **T2med**
 
-226 **CGM MEDICO**CGM Clinical Europe GmbH186187-1
+2.26 **CGM MEDICO**
 
-244 **QUINCY WIN**Frey ADV GmbH160162-2 1
+2.44 **QUINCY WIN**
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+Dedalus HealthCare GmbH
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+Zollsoft GmbH
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+T2med GmbH & Co. KG
+
+CGM Clinical Europe GmbH
+
+Frey ADV GmbH 1
+
+1.706
+
+7.70
+
+5.59
+
+4.82
+
+3.99
+
+3.63
+
+3.57
+
+3.15
+
+3.11
+
+2.87
+
+2.44
+
+1.86
+
+1.60
+
+1.740
+
+7.86
+
+5.59
+
+4.96
+
+3.81
+
+3.62
+
+3.45
+
+3.14
+
+3.19
+
+2.90
+
+2.36
+
+1.87
+
+1.62
+
+-34
+
+-16
+
+0
+
+-14
+
+1.8
+
+1
+
+1.2
+
+1
+
+-8
+
+-3
+
+8
+
+-1
+
+-2
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-343 **SAP Ambulatory Care Management** SAP SE148157-9
+3.43 **SAP Ambulatory Care Management**
 
-314 **IMedOne**Deutsche Telekom Clinical Solutions GmbH 1391363 086 **DURIA**Duria eG1331330
+3.14 **IMedOne**
 
-135 **EL - Elaphe Longissima**medatixx GmbH & Co. KG1321320
+0.86 **DURIA**
 
-266 **x.comfort**medatixx GmbH & Co. KG130135-5
+1.35 **EL - Elaphe Longissima**
 
-083 **PegaMed**PEGA Elektronik GmbH9496-2 015 **MEDYS**MEDYS GmbH8589-4
+2.66 **x.comfort**
 
-2
+0.83 **PegaMed**
+
+0.15 **MEDYS**
+
+SAP SE
+
+Deutsche Telekom Clinical Solutions GmbH
+
+Duria eG
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+PEGA Elektronik GmbH
+
+MEDYS GmbH 2
+
+1.48
+
+1.39
+
+1.33
+
+1.32
+
+1.30
+
+9.4
+
+8.5
+
+1.57
+
+1.36
+
+1.33
+
+1.32
+
+1.35
+
+9.6
+
+8.9
+
+-9
+
+3
+
+0
+
+0
+
+-5
+
+-2
+
+-4

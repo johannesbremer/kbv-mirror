@@ -1,20 +1,24 @@
 **Krankenkasse bzw. Kostenträger**
 
+## Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
+
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung Versicherten-Nr.**
+**geb. amFolge-Erst-** **verordnung** **verordnung**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Unfall** **Kostenträgerkennung** **Versicherten-Nr.** **StatusUnfallfolgen**
+
+**Betriebsstätten-Nr.** **Arzt-Nr.** **Datum** **vom** **bis**
 
 **Verordnungsrelevante Diagnose(n) (ICD-10; ggf. Organmanifestationen)**
 
 **Die Krankheit ist nicht heilbar, sie ist fortschreitend und weit fortgeschritten.**
 
-**Komplexes Symptomgeschehen**
+**Komplexes Symptomgeschehenausgeprägte** **Schmerzsymptomatik**
 
-**ausgeprägte urogenitale** **Symptomatik**
+**ausgeprägte urogenitaleausgeprägte respiratorische /** **kardiale SymptomatikSymptomatik**
 
-**ausgeprägte ulzerierende /** **exulzerierende Wunden oder Tumore**
+**ausgeprägte ulzerierende /ausgeprägte neurologische /** **psychiatrische / psychische Symptomatikexulzerierende Wunden oder Tumore**
 
 **Nähere Beschreibung des komplexen Symptomgeschehens und des besonderen Versorgungsbedarfs zur Begründung,** **warum spezialisierte ambulante Palliativversorgung notwendig ist (z. B. therapierefraktäre Schmerzen, Ruhedyspnoe /** **Erstickungsanfälle, nicht beherrschbares Erbrechen / Durchfälle)**
 
@@ -22,11 +26,15 @@
 
 **Folgende Maßnahmen sind notwendig**
 
-**Beratung**
+**BeratungKoordination der Palliativversorgunga. des behandelnden Arztes**
+
+**b. der behandelnden Pflegefachkraft**
+
+**c. des Patienten / der Angehörigen**
 
 **mit folgender inhaltlicher Ausrichtung (Gegenstand, Häufigkeit, evtl. Beratung für Sonstige)**
 
-**Additiv unterstützende** **Teilversorgung Versorgung**
+**VollständigeAdditiv unterstützende** **Teilversorgung** **Versorgung**
 
 **Nähere Angaben zu den notwendigen Maßnahmen der SAPV**
 
@@ -34,46 +42,12 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-Datum
-
-Status
-
-**a. des behandelnden Arztes**
-
-**b. der behandelnden Pflegefachkraft**
-
-**c. des Patienten / der Angehörigen**
-
-**geb. am**
-
-**Vollständige**
-
-## Verordnung spezialisierter
-
-## ambulanter Palliativversorgung (SAPV)
-
-**vom bis**
-
-**ausgeprägte** **Schmerzsymptomatik**
-
-**ausgeprägte respiratorische /** **kardiale Symptomatik**
-
-**ausgeprägte neurologische /** **psychiatrische / psychische Symptomatik**
-
-**Erst-** **verordnung verordnung**
-
-**Unfall** **Unfallfolgen**
-
-**Folge-**
+**63**
 
 **ausgeprägte gastrointestinale** **Symptomatik**
 
 **sonstiges komplexes** **Symptomgeschehen**
 
-**Koordination der Palliativversorgung**
-
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **Ausfertigung für den spezialisierten Leistungserbringer -** **der Abrechnung beizufügen** **PRF.NR.** **Muster 63c/E (10.2014)**
-
-## 63

@@ -52,13 +52,11 @@ gültig ab:
 |---|---|
 | 5026 | Entlassungsdatum |
 
-Seite 1 von 1.2.276.0.76.5.229
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE 1.2.276.0.76.5.229
 
 1.12
 
 01.07.2025
-
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE
 
 **Bezeichnung**
 
@@ -142,10 +140,6 @@ Kennzeichen für poststationär erbrachte Leistungen
 | 5098 | (N)BSNR des Ortes der Leistungserbringung |
 |---|---|
 | 5099 | Lebenslange Arztnummer (LANR) des Leistungserbringers |
-
-Seite 2 von
-
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE
 
 **Bezeichnung**
 

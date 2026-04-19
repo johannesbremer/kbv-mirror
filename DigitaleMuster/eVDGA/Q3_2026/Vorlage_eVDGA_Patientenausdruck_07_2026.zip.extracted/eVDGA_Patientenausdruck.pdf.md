@@ -6,7 +6,7 @@ Patientenausdruck DIN A5 (7.2026)
 
 **ausgestellt von ausgestellt am**
 
-**Ausdruck zur Einlösung Ihrer Verordnung:**
+**Ausdruck zur Einlösung Ihrer Verordnung: DiGA**
 
 **fürgeboren am**
 
@@ -19,5 +19,3 @@ Digitale Gesundheitsanwendung  **HelloBetter Vaginismus 001**  PZN: 17348623 13.
 A123456789
 
 Prof. Dr. Erika Anna Maria Elisa  Johanna zu Windischgarshausen,  Freifrau von Mustermann
-
-**DiGA**

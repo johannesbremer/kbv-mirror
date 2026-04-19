@@ -2,58 +2,30 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung Versicherten-Nr.**
+**Kostenträgerkennung** **Versicherten-Nr.**
 
-**Betriebsstätten-Nr.**
+**Arzt-Nr.Betriebsstätten-Nr.Datum**
 
-**Arzt-Nr.**
+**22**
 
-**Aufgrund somatischer/psychiatrischer** **indikationen für**
+## Konsiliarbericht
 
-**Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
+**vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten** **geb. am**
 
-**Für diese** Bescheinigung
-
-**Ausfertigung für die Krankenkasse**
-
-**geb. am**
+**Auf Veranlassung von:Arztnummer**
 
 **Status**
 
-**Datum**
+**Name des TherapeutenBetriebsstättennummer**
 
 **Aus Datenschutzgründen freibleibend**
 
-Befunde eine psychotherapeutische
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
 
-ist die Nr. 01612 EBM berechnungsfä
-
-### Konsiliarbericht
-
-**vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
-
-**Auf Veranlassung von:**
-
-**Name des Therapeuten**
-
-bestehen Behandlung
-
-**hig**
-
-erzeit**d** (B**egründung s.**
+**Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 
 **Ausstellungsdatum**
 
-Kontra-
+**Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähigVertragsarztstempel / Unterschrift des Arztes**
 
-o.)
-
-**Arztnummer**
-
-**Betriebsstättennummer**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
-
-**PRF.NR.** **Muster 22d/E (10.2014)**
-
-### 22
+**PRF.NR.Ausfertigung für die Krankenkasse** **Muster 22d/E (10.2014)**

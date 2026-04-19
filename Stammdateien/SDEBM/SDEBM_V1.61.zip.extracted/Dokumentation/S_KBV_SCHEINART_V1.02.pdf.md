@@ -18,7 +18,9 @@
 
 28
 
-30 31 32 41 42 43 44
+30 31 32 41 42 43
+
+44
 
 | 45 | Notarzt-/Rettungswagen |
 |---|---|
@@ -32,6 +34,8 @@ Schlüsseltabelle: S_KBV_SCHEINART
 
 **01.10.2008**
 
-**Bezeichnung** ambulante Behandlung ambulante Behandlung Überweisung Belegärztliche Behandlung Notfall/Vertretung Selbstausstellung Auftragsleistungen Konsiliaruntersuchung
+**Bezeichnung** ambulante Behandlung ambulante Behandlung Überweisung Belegärztliche Behandlung Notfall/Vertretung
+
+Selbstausstellung Auftragsleistungen Konsiliaruntersuchung
 
 Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung Belegärztliche Mitbehandlung Urlaubs-/Krankheitsvertretung bei belegärztlicher Behandlung Ärztlicher Notfalldienst Urlaubs-/Krankheitsvertretung Notfall Notfalldienst mit Taxi 1

@@ -2,9 +2,9 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung**
+**Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Betriebsstätten-Nr.** **Arzt-Nr.Datum**
 
 **Art und Ausprägung der Fähigkeitsstörungen**
 
@@ -14,11 +14,11 @@
 
 **Angaben des Versicherten** **Straße**
 
-**PLZ Ort**
+**PLZ** **Ort**
 
 **Telefonnummer**
 
-**Wohnform (z.B. alleinstehend in eigener Wohnung, Familie/Eltern, in Einrichtung) Telefonnummer**
+**Wohnform (z.B. alleinstehend in eigener Wohnung, Familie/Eltern, in Einrichtung)**
 
 **Angaben zum Betreuer**
 
@@ -38,29 +38,25 @@
 
 ***Der soziotherapeutische Betreuungsplan ist beigefüg***
 
-**Für das Ausstellen der Erst verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der Folge verordnung ist die Nr. 30811 EBM berechnungsfähig.**
+**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
 
 **Ausfertigung für den verordnenden Arzt**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Versicherten-Nr.**
-
 **geb. am**
 
 **Status**
 
-**Datum**
-
-|  | wird |  | wird ist nicht |  |
+|  | **wird** |  | **wird ist nicht** |  |
 |---|---|---|---|---|
-|  | vermieden verkürzt |  | ausführbar |  |
+|  | **vermieden verkürzt** |  | **ausführbar** |  |
 
-## Verordnung Soziotherapie
+## Verordnung Soziotherapie gemäß § 37a SGB V
 
-## gemäß § 37a SGB V
+**Diagnose**
 
-**Diagnose** ***(ICD-10-Code)***
+***(ICD-10-Code)***
 
 **Schweregrad** ***(lt. GAF-SKALA)***
 
@@ -68,19 +64,15 @@
 
 ***9 gemäß § 2 Abs. 5 der Richtlinie und GAF <***
 
-**Nein Ja**
-
-**Beantragte Anzahl der** **Therapieeinheiten**
-
-**Bereits durchgeführte** **Leistungen**
-
-***t!***
-
 **Angaben des nächsten Angehörigen** **Name**
 
 **Straße**
 
 **PLZ**
+
+**Telefonnummer**
+
+**Nein** **Ja**
 
 **Name**
 
@@ -90,7 +82,15 @@
 
 **Telefonnummer**
 
+**Beantragte Anzahl der** **Therapieeinheiten**
+
+**Bereits durchgeführte** **Leistungen**
+
+***t!***
+
 **Datum**
+
+**26**
 
 ***40***
 
@@ -101,5 +101,3 @@
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **PRF.NR.** **Muster 26c/E (10.2017)**
-
-## 26

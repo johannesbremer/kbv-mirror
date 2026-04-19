@@ -1,24 +1,20 @@
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# BRUSTKREBS
+# ANTRAG AUF ZERTIFIZIERUNG  BRUSTKREBS
 
 ## [KBV_ITA_FMEX_AAZ_DMP_BRUSTKREBS]
 
 Seite 1 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / 15. Mai 2024
 
-# DMP
-
-**-**
+# DMP-
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**15. MAI 2024**
+**DOKUMENTENSTATUS: IN KRAFT**
+
+**15.** **MAI 2024**
 
 **VERSION: 4.4**
-
-**DOKUMENTENSTATUS: IN KRAFT**
 
 
 ---
@@ -27,9 +23,11 @@ Seite 1 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / 15. Mai 2024
 
 ## DMP-BRUSTKREBS 1
 
+## ALLGEMEINE ANGABEN
+
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1**
+**1.1** **ANTRAGSSTELLER**
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -65,20 +63,14 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
-## ALLGEMEINE ANGABEN
+Arzt/Ärztin[ ]
 
-**ANTRAGSSTELLER**
-
-☐ Arzt/Ärztin[ ]
-
-☐ Softwarehaus[ ]
-
-☐ Sonstiges[ ]
+Softwarehaus[ ]Sonstiges[ ]
 
 
 ---
 
-**1.2**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
 Nur anzugeben, wenn abweichend von Abschnitt
 
@@ -90,7 +82,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 **PLZ, Ort**
 
-**1.3**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls
 
@@ -98,43 +90,29 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 **Identnummer [die letzten drei**  **Stellen der Prüfnummer, falls**  **vorhanden]**
 
-**1.4**
+**1.4**  **BETRIEBSSYSTEME**
 
 Bitte geben Sie im Folgenden an, welche Client
 
-[ ]☐
+Windows [ ]
 
-[ ]☐
-
-Seite 3 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
-**OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
-
-**ZERTIFIZIERUNGSGEGENSTAND**
-
-**BETRIEBSSYSTEME**
-
-Windows
-
-iOS/Android
+iOS/Android [ ]
 
 Antragssteller:
 
-☐ [ ]
+[ ]
 
-[ ]☐
-
-1.1.
-
--Betriebssysteme unterstützt werden.
+[ ]
 
 Mac OS
 
-Sonstige
+Sonstige 1.1.
 
 vorhanden) des Zertifizierungsgegenstandes an.
 
-[ ]☐
+-Betriebssysteme unterstützt werden.
+
+[ ]
 
 Linux
 
@@ -143,45 +121,23 @@ Linux
 
 2
 
-☐ [ ]
+## REALISIERUNG VON ANFORDERUNGEN
 
-[ ]☐
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
-**2.1**
+Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden [ ]  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+
+**2.1 REALISIERTE OPTIONALE FUNKTIONEN DMP BRUSTKREBS**
 
 Folgende optionale DMP Brustkrebs Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
-☐ [ ]
+KEINE ALLE   [ ][ ]
 
-**IDENT-NUMMER**
+**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION DMP BRUSTKREBS LT.**  **ANFORDERUNGSKATALOG**
 
-Seite 4 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
+Laut nachfolgender Liste  [ ]
 
-## REALISIERUNG VON ANFORDERUNGEN
-
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger der KBV den Anwendern rechtzeitig vor
-
-Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
-
-**REALISIERTE OPTIONALE FUNKTIONEN DMP**
-
-KEINE
-
-**BEZEICHNUNG DER OPTIONALEN FUNKTION DMP BRUSTKREBS LT.**  **ANFORDERUNGSKATALOG**
-
-Antragssteller:
-
-☐ [ ]
-
-Quartalsbeginn zur Verfügung steht.
-
-**BRUSTKREBS**
-
-ALLE
-
-☐ [ ]
-
-Laut nachfolgender Liste -Stammdatei
+-Stammdatei
 
 
 ---
@@ -216,34 +172,32 @@ Ansprechpartner(in): Produktmanagement
 
 **E-Mail-Adresse**
 
-________________  * Diese Information ist verpflichtend anzugeben
+________________
 
-Seite 5 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
-Antragssteller:
+Diese Information ist verpflichtend anzugeben
 
 
 ---
 
 4
 
-## KENNTNISNAHME DURCH DEN ANTRAG
+## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-**I. Zertifizierungsrahmen** (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt. (2) Bei erfolgreichem Abschluss bestätigt die KBV mit  Zulassung. (3) Die Laufzeit der Zulassung beträgt 36 Monate. (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+**I. Zertifizierungsrahmen** (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt. (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die Zulassung. (3) Die Laufzeit der Zulassung beträgt 36 Monate. (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-**THEMA**
-
-DMP-Brustkrebs
+| **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** |
+|---|---|
+| Neu- oderRezertifizierung | Ergebnisprüfung |
 
 **II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der Antragsteller der KBV mit, welche Ä wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer Antrag auf Zertifizierung eingereicht werden muss.
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer Antrag auf Zertifizierung eingereicht werden muss.
 
-(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV der Zulassung führen.
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen der Zulassung führen.
 
-(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen und in der Regel quartalsweise vorgegebenen Ä
+(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
 **III. Update und weitere Vereinbarungen**
 
@@ -251,79 +205,35 @@ DMP-Brustkrebs
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen Abrechnungsbestimmungen zu umgehen.
 
-(3) Ğƌ!ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞĂŬƚƵĞůůĞŶĞĚŝŶŐƵŶŐĞŶĂƵƐĚĞŵŽŬƵŵĞŶƚͣĞƌƚŝĨŝǌŝĞƌƵŶŐƐƌŝĐŚƚůŝŶŝĞ ĚĞƌ<s͞΀
+(3) KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Ğƌ!ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐĂƵƐĚĞŵŽŬƵŵĞŶƚͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐ Software für Softwarehersteller ʹ
-
-Seite 6 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
-KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
-
-**ZERTIFIZIERUNGSART**
-
-Neu- oder  Rezertifizierung
-
-Antragssteller:
-
-nderungen am Zertifizierungsgegenstand vor
-
-͞΀KBV_ITA_ VGEX_Lizenzvereinbarung].
-
-Vergabe einer entsprechenden Prüfnummer die
-
-**PRÜFUNGSART**
-
-Ergebnisprüfung
-
-nderungsanforderungen der KBV ergeben.
-
-## SSTELLER
-
--Vorgaben führen, kann zum Erlöschen
-
-**<K^dE/EΦ**
-
-275,24
-
-genommen
-
-ʹ
+THEMA DMP-Brustkrebs 275,24 (6) Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 
 ---
 
 **IV. Sonstiges**
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den Kassenärztlichen Vereinigungen zur vertraulichen und internen  stellen, soweit dieses erforderlich ist.
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu stellen, soweit dieses erforderlich ist.
 
 (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der Zulassung bewirken.
 
-(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen u Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
+(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 Seite 7 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
-Antragssteller:
-
-Verwendung zur Verfügung zu
-
-nd - und
 
 
 ---
 
-Antragssteller:
-
-Ort, Datum Unterschrift
-
-Name in Druckbuchstaben
+Ort, Datum
 
 **Ansprechpartner:**
 
@@ -333,4 +243,10 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-Seite 8 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
+Seite 8 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs
+
+Unterschrift
+
+Name in Druckbuchstaben
+
+/ Version: 4.4 / 15. Mai 2024

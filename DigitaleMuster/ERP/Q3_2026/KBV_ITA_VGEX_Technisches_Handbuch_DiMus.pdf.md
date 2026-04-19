@@ -4,86 +4,52 @@
 
 ## [KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_DIMUS]
 
-SEITE 1 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**DOKUMENTENSTATUS: IN KRAFT**
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **9. FEBRUAR 2026**
 
 **VERSION: 2.31**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 
 ---
 
 ## INHALT
 
-| 1 | EINLEITUNG |  |  |  |  |  | 10 |
-|---|---|---|---|---|---|---|---|
-| 1.1 | Anmerkungen | zum | vorliegenden technischen | Handbuch | für | digitale Muster | 10 |
-| 1.2 | Erläuterung | der | Funktionsdarstellung |  |  |  | 10 |
+**1 EINLEITUNG**
 
-| 2 |  | MUSTERÜBERGREIFENDE | | REGELUNGEN | FÜR | MUSTER IM | FORMAT PDF/A | 12 |
-|---|---|---|---|---|---|---|---|---|
-| 2.1 |  | Allgemeine | Informationen | zu | digitalen Mustern |  |  | 12 |
-| 2.2 |  | Formularfeldtabelle | |  |  |  |  | 12 |
-| 2.3 |  | Ausfüllverbindlichkeiten | | der | digitalen Muster |  |  | 13 |
-| 2.4 |  | Zeichensatz |  |  |  |  |  | 13 |
-| 2.5 |  | Dateinamen |  |  |  |  |  | 13 |
-| 2.6 | Barcode |  | entsprechend |  | Blankoformularbedruckung |  |  | 13 |
-| 2.7 |  | Elektronische | Signatur |  |  |  |  | 13 |
-| 2.8 |  | (Datei-)Format | der | digitalen Muster | (PDF/A -2a) |  |  | 15 |
-| 2.9 |  | Metadaten |  |  |  |  |  | 16 |
-| 2.10 |  |  | Formularfelder |  |  |  |  | 17 |
-|  | 2.10.1 |  | Technik für | die Formulare |  |  |  | 17 |
-|  | 2.10.2 | Option | „nur | lesend“ |  |  |  | 17 |
-|  | 2.10.3 |  | PDF-Feldtypen |  |  |  |  | 17 |
-|  | 2.10.4 |  | Logische | Feldkonzepte |  |  |  | 18 |
-|  | 2.10.5 |  | Personalienfeld |  |  |  |  | 19 |
-|  | 2.10.6 |  | Vertragsarztstempel | |  |  |  | 27 |
-|  | 2.10.7 |  | Prüfnummer |  |  |  |  | 28 |
+1.1 Anmerkungen zum vorliegenden technischen Handbuch für digitale Muster 1.2 Erläuterung der Funktionsdarstellung
 
-| 3 |  | MUSTERSPEZIFISCHE | | REGELUNGEN | | FÜR MUSTER | IM | FORMAT PDF/A | 29 |
-|---|---|---|---|---|---|---|---|---|---|
-| 3.1 | Inhalte | digitales | Muster | 6 |  |  |  |  | 29 |
-|  | 3.1.1 |  | Metadaten | digitales | Muster 6 |  |  |  | 29 |
-|  | 3.1.2 |  | Formularfelder | digitales | Muster | 6 |  |  | 30 |
-| 3.2 | Inhalte | digitales | Muster | 10 |  |  |  |  | 35 |
-|  | 3.2.1 |  | Metadaten | digitales | Muster | 10 |  |  | 35 |
-|  | 3.2.2 |  | Formularfelder | digitales | Muster | 10 |  |  | 36 |
-| 3.3 | Inhalte | digitales | Muster | 10A |  |  |  |  | 41 |
-|  | 3.3.1 |  | Metadaten | digitales | Muster | 10A |  |  | 41 |
-|  | 3.3.2 |  | Formularfelder | digitales | Muster | 10A |  |  | 42 |
-| 3.4 | Inhalte | digitales | Muster | 39 |  |  |  |  | 47 |
-|  | 3.4.1 |  | Metadaten | digitales | Muster | 39 |  |  | 48 |
-|  | 3.4.2 |  | Formularfelder | digitales | Muster | 39 |  |  | 49 |
+**2 MUSTERÜBERGREIFENDE REGELUNGEN FÜR MUSTER IM FORMAT PDF/A**
 
-**4**
+2.1 Allgemeine Informationen zu digitalen Mustern  2.2 Formularfeldtabelle  2.3 Ausfüllverbindlichkeiten der digitalen Muster  2.4 Zeichensatz  2.5 Dateinamen  2.6 Barcode entsprechend Blankoformularbedruckung  2.7 Elektronische Signatur  2.8 (Datei-)Format der digitalen Muster (PDF/A-2a)  2.9 Metadaten  2.10 Formularfelder  2.10.1 Technik für die Formulare  2.10.2 Option „nur lesend“  2.10.3 PDF-Feldtypen  2.10.4 Logische Feldkonzepte  2.10.5 Personalienfeld  2.10.6 Vertragsarztstempel  2.10.7 Prüfnummer
 
-4.1  4.2  4.3
+**3 MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT PDF/A**
 
-4.4
+3.1 Inhalte digitales Muster 6  3.1.1 Metadaten digitales Muster 6  3.1.2 Formularfelder digitales Muster 6  3.2 Inhalte digitales Muster 10  3.2.1 Metadaten digitales Muster 10  3.2.2 Formularfelder digitales Muster 10  3.3 Inhalte digitales Muster 10A  3.3.1 Metadaten digitales Muster 10A  3.3.2 Formularfelder digitales Muster 10A  3.4 Inhalte digitales Muster 39  3.4.1 Metadaten digitales Muster 39  3.4.2 Formularfelder digitales Muster 39
 
-SEITE 2 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+**4 MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT FHIR®**
 
-**MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT FHIR®**
+4.1 FHIR®-DEFINITION  4.2 Zeichensatz  4.3 Übergreifende Regelungen für die Muster  4.3.1 Dateinamen der FHIR®-Profile  4.3.2 Profile  4.3.3 Extensions  4.3.4 ValueSets, CodeSystems und NamingSystems  4.3.5 Instanziierung der Profile  4.4 Inhalte elektronische Arbeitsunfähigkeitsbescheinigung (e01)
 
-FHIR®-DEFINITION  Zeichensatz  Übergreifende Regelungen für die Muster 4.3.1  4.3.2  4.3.3  4.3.4  4.3.5  Inhalte elektronische Arbeitsunfähigkeitsbescheinigung (e01)
+**10**
 
-Dateinamen der FHIR®-Profile  Profile  Extensions  ValueSets, CodeSystems und NamingSystems Instanziierung der Profile
+10  10
 
-/ 9. FEBRUAR 2026 / VERSION: 2.3 1
+**12**
+
+12  12  13  13  13  13  13  15  16  17  17  17  17  18  19  27  28
+
+**29**
+
+29  29  30  35  35  36  41  41  42  47  48  49
 
 **58**
 
-Anmerkungen zum vorliegenden technischen Handbuch für digitale Muster Erläuterung der Funktionsdarstellung MUSTERÜBERGREIFENDE REGELUNGEN FÜR MUSTER IM FORMAT PDF/A Allgemeine Informationen zu digitalen Mustern Ausfüllverbindlichkeiten der digitalen Muster Barcode entsprechend Blankoformularbedruckung Elektronische Signatur (Datei-)Format der digitalen Muster (PDF/A Technik für die Formulare Option „nur lesend“ Logische Feldkonzepte MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT PDF/A Inhalte digitales Muster 6 Inhalte digitales Muster 10 Inhalte digitales Muster 10A Inhalte digitales Muster 39 Metadaten digitales Muster 6 Formularfelder digitales Muster 6 Metadaten digitales Muster 10 Formularfelder digitales Muster 10 Metadaten digitales Muster 10A Formularfelder digitales Muster 10A Metadaten digitales Muster 39 Formularfelder digitales Muster 3958  58  58  58  59  60  61  62  77
+58  58  58  58  59  60  61  62  77
 
 
 ---
@@ -92,9 +58,7 @@ Anmerkungen zum vorliegenden technischen Handbuch für digitale Muster Erläuter
 
 **5 ÜBERTRAGUNGSWEG**
 
-| 6 | INFORMATIONSMODELL | DER | FORMULARÜBERGREIFENDEN DATEN | FÜR | DIE ÜBERTRAGUNG | IM |
-|---|---|---|---|---|---|---|
-|  | FHIR®-FORMAT |  |  |  |  | 79 |
+**6 INFORMATIONSMODELL DER FORMULARÜBERGREIFENDEN DATEN FÜR DIE ÜBERTRAGUNG IM**  **FHIR®-FORMAT**
 
 **7 HINWEISE ZUR ZERTIFIZIERUNG**
 
@@ -102,64 +66,24 @@ Anmerkungen zum vorliegenden technischen Handbuch für digitale Muster Erläuter
 
 **9 REFERENZIERTE DOKUMENTE**
 
-SEITE 3 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 77  77
+77  77
 
 **78**
+
+**79**
 
 **99**
 
 **100**
 
-INFORMATIONSMODELL DER FORMULARÜBERGREIFENDEN DATEN FÜR DIE ÜBERTRAGUNG IM **101**
+**101**
 
 
 ---
 
 ## TABELLENVERZEICHNIS
 
-Tabelle 1: Vom Softwarehersteller zu pflegende Metadaten Tabelle 2: Unveränderbare Metadaten Tabelle 3: Optionen für einzeilige PDF-Textfelder  Tabelle 4: Formularfelder des Personalienfeldes Tabelle 5: Metadaten zum Feld P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort Tabelle 6: Metadaten zum Feld P6: 0000_Straße_Hausnummer Tabelle 7: Beispiele für die PDF- Inhalte zum Feld „P6: 0000_Straße_Hausnummer“ Tabelle 8: Metadaten zum Feld P7: 0000_Wohnsitzlaendercode_PLZ_Ort Tabelle 9: Spezifische Metadaten für Muster 6 Tabelle 10: Formularfelder des digitalen Musters 6 Tabelle 11: Erlaubter Inhalt für das Feld „3110_Geschlecht“ auf digitalen Mustern 6, 10 und 10A Tabelle 12: Anzahl sichtbarer und erlaubter Zeichen für die Felder „M6_16:
-
-Tabelle 13: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M6_18: 4205_Auftrag“ auf digitalem
-
-Tabelle 14: Spezifische Metadaten für Muster 10 Tabelle 15: Formularfelder des digitalen Musters 10 Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_22:
-
-Tabelle 17: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_23: 4208_Befund_Medikation“ auf
-
-Tabelle 18: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_24: 4205_Auftrag“ auf digitalem
-
-Tabelle 19: Spezifische Metadaten für Muster 10A Tabelle 20: Formularfelder des digitalen Musters 10A Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem
-
-Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10A_68:
-
-Tabelle 23: Spezifische Metadaten für Muster 39 Tabelle 24: Formularfelder des digitalen Musters 39 Tabelle 25: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_47:7423_erlaeuterungen“ auf
-
-Tabelle 26: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_65: 8167_bemerkungen“ auf
-
-Tabelle 27: KBV_PR_FOR_Practitioner Tabelle 28: KBV_PR_FOR_PractitionerRole Tabelle 29: KBV_PR_FOR_Organization Tabelle 30: KBV_PR_FOR_Coverage Tabelle 31: KBV_PR_FOR_Patient  Tabelle 32: KBV_EX_FOR_Legal_basis Tabelle 33: KBV_EX_FOR_Alternative_IK Tabelle 34: KBV_EX_FOR_PKV_Tariff  Tabelle 35: KBV_EX_FOR_Accident Tabelle 36: KBV_EX_FOR_StatusCoPayment Tabelle 37: KBV_EX_FOR_SER  Tabelle 38: KBV_CS_FOR_Berufsbezeichnung Tabelle 39: KBV_NS_FOR_Fachgruppennummer_ASV Tabelle 40: KBV_CS_FOR_Payor_Type_KBV Tabelle 41: KBV_VS_FOR_Payor_Type
-
-SEITE 4 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-4207_Diagnose_Verdachtsdiagnose“ und „M6_17: 4208_Befund_Medikation“ auf digitalem  Muster 6
-
-Muster 6
-
-4207_Diagnose_Verdachtsdiagnose“ auf digitalem Muster 10
-
-digitalem Muster 10
-
-Muster 10
-
-Muster 10A
-
-4205_Auftrag61_sonstige_Auftraege“ auf digitalem Muster 10A
-
-digitalem Muster 39
-
-digitalem Muster 39
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Tabelle 1: Vom Softwarehersteller zu pflegende Metadaten  Tabelle 2: Unveränderbare Metadaten  Tabelle 3: Optionen für einzeilige PDF-Textfelder  Tabelle 4: Formularfelder des Personalienfeldes  Tabelle 5: Metadaten zum Feld P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort Tabelle 6: Metadaten zum Feld P6: 0000_Straße_Hausnummer  Tabelle 7: Beispiele für die PDF-Inhalte zum Feld „P6: 0000_Straße_Hausnummer“ Tabelle 8: Metadaten zum Feld P7: 0000_Wohnsitzlaendercode_PLZ_Ort  Tabelle 9: Spezifische Metadaten für Muster 6  Tabelle 10: Formularfelder des digitalen Musters 6  Tabelle 11: Erlaubter Inhalt für das Feld „3110_Geschlecht“ auf digitalen Mustern 6, 10 und 10A Tabelle 12: Anzahl sichtbarer und erlaubter Zeichen für die Felder „M6_16:  4207_Diagnose_Verdachtsdiagnose“ und „M6_17: 4208_Befund_Medikation“ auf digitalem  Muster 6  Tabelle 13: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M6_18: 4205_Auftrag“ auf digitalem  Muster 6  Tabelle 14: Spezifische Metadaten für Muster 10  Tabelle 15: Formularfelder des digitalen Musters 10  Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_22:  4207_Diagnose_Verdachtsdiagnose“ auf digitalem Muster 10  Tabelle 17: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_23: 4208_Befund_Medikation“ auf  digitalem Muster 10  Tabelle 18: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10_24: 4205_Auftrag“ auf  Muster 10  Tabelle 19: Spezifische Metadaten für Muster 10A  Tabelle 20: Formularfelder des digitalen Musters 10A  Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem  Muster 10A  Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M10A_68:  4205_Auftrag61_sonstige_Auftraege“ auf digitalem Muster 10A Tabelle 23: Spezifische Metadaten für Muster 39  Tabelle 24: Formularfelder des digitalen Musters 39  Tabelle 25: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_47:7423_erlaeuterungen“ auf  digitalem Muster 39  Tabelle 26: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_65: 8167_bemerkungen“ auf  digitalem Muster 39  Tabelle 27: KBV_PR_FOR_Practitioner  Tabelle 28: KBV_PR_FOR_PractitionerRole  Tabelle 29: KBV_PR_FOR_Organization  Tabelle 30: KBV_PR_FOR_Coverage  Tabelle 31: KBV_PR_FOR_Patient  Tabelle 32: KBV_EX_FOR_Legal_basis  Tabelle 33: KBV_EX_FOR_Alternative_IK  Tabelle 34: KBV_EX_FOR_PKV_Tariff  Tabelle 35: KBV_EX_FOR_Accident  Tabelle 36: KBV_EX_FOR_StatusCoPayment  Tabelle 37: KBV_EX_FOR_SER  Tabelle 38: KBV_CS_FOR_Berufsbezeichnung  Tabelle 39: KBV_NS_FOR_Fachgruppennummer_ASV  Tabelle 40: KBV_CS_FOR_Payor_Type_KBV  Tabelle 41: KBV_VS_FOR_Payor_Type
 
 16  17  17  21  22  24  24  25  29  31  33 34
 
@@ -167,9 +91,7 @@ digitalem Muster 39
 
 40
 
-41
-
-41  42  45
+41  digitalem  41  42  45
 
 46
 
@@ -182,17 +104,11 @@ digitalem Muster 39
 
 ---
 
-Tabelle 42: KBV_NS_FOR_Pruefnummer Tabelle 43: KBV_CS_FOR_Qualification_Type Tabelle 44: KBV_VS_FOR_Qualification_Type Tabelle 45: KBV_CS_FOR_StatusCoPayment Tabelle 46: KBV_CS_FOR_Ursache_Art Tabelle 47: Mapping KBV_PR_FOR_Practitioner Tabelle 48: Mapping KBV_PR_FOR_PractitionerRole Tabelle 49: Mapping KBV_PR_FOR_Organization Tabelle 50: Mapping KBV_PR_FOR_Coverage Tabelle 51: Mapping KBV_PR_FOR_Patient Tabelle 52: Informationsmodell  Tabelle 53: Übersicht der Zertifizierungsverfahren für digitale Muster
+Tabelle 42: KBV_NS_FOR_Pruefnummer  Tabelle 43: KBV_CS_FOR_Qualification_Type  Tabelle 44: KBV_VS_FOR_Qualification_Type  Tabelle 45: KBV_CS_FOR_StatusCoPayment  Tabelle 46: KBV_CS_FOR_Ursache_Art  Tabelle 47: Mapping KBV_PR_FOR_Practitioner  Tabelle 48: Mapping KBV_PR_FOR_PractitionerRole  Tabelle 49: Mapping KBV_PR_FOR_Organization  Tabelle 50: Mapping KBV_PR_FOR_Coverage  Tabelle 51: Mapping KBV_PR_FOR_Patient  Tabelle 52: Informationsmodell  Tabelle 53: Übersicht der Zertifizierungsverfahren für digitale Muster
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Beispiel für sichtbare und erlaubte Zeichen Abbildung 2: Beispiel Ankreuzfeld Abbildung 3: Formularfelder des Personalienfeldes Abbildung 4: Formularfeld Vertragsarztstempel, Beispiel mit Arial 8 pt Abbildung 5: Formularfelder des digitalen Musters 6 Abbildung 6: Formularfelder des digitalen Musters 10 Abbildung 7: Formularfelder des digitalen Musters 10A Abbildung 8: Formularfelder des digitalen Musters 39
-
-SEITE 5 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-/ 9. FEBRUAR 2026
-
-/ VERSION: 2.31
+Abbildung 1: Beispiel für sichtbare und erlaubte Zeichen  Abbildung 2: Beispiel Ankreuzfeld  Abbildung 3: Formularfelder des Personalienfeldes  Abbildung 4: Formularfeld Vertragsarztstempel, Beispiel mit Arial 8 pt  Abbildung 5: Formularfelder des digitalen Musters 6  Abbildung 6: Formularfelder des digitalen Musters 10  Abbildung 7: Formularfelder des digitalen Musters 10A  Abbildung 8: Formularfelder des digitalen Musters 39
 
 62  62  62  62  62  66  67  69  71  75  80  99 18  18  20  27  30  36  42  49
 
@@ -205,28 +121,10 @@ Die Änderungen der Versionen 2.30 und 2.31 treten zum 01.07.2026 in Kraft.
 
 **Version**
 
-2.31
-
-2.30
-
-2.25
-
-2.24
-
-2.23
-
-2.22
-
-2.21
-
-2.20
-
-2.19
-
-SEITE 6 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-| Datum | Autor | Änderung | Begründung |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
+
+2.31
 
 | 09.02.2026 | KBV | Korrektur der Bedingung für die KZV-Ab- |  |
 |---|---|---|---|
@@ -238,21 +136,27 @@ SEITE 6 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 |  |  |  | lease |
 | 06.11.2025 | KBV | Aktualisierung der Profilversion auf 1.3.0 | Aufnahme des |
 
+2.30  Elementes   meta.versionId  Aufnahme der Anforderung P4-08 2.25
+
 | 18.12.2025 | KBV | Korrektur der Bedingung für die KZV-Ab- |  |
 |---|---|---|---|
 |  |  | rechnungsnummer |  |
 |  |  | Anpassung FHIR-Versionsnummer |  |
 
+2.24
+
 | 11.03.2025 | KBV | Aufhebung der Streichung von Feld |  |
 |---|---|---|---|
-|  |  | „ Zahnarztnummer der verantwortlichen |  |
-|  |  | Person “ (Feldnr. 52b) |  |
+|  |  | „Zahnarztnummer der verantwortlichen |  |
+|  |  | Person“ (Feldnr. 52b) |  |
 
-24.02.2025
+2.23 24.02.2025 KBV Anpassung der Kardinalität des Feld   „Hausnummer der Einrichtung“ (Feldnr.  67)  Aufnahme eines Ersatzwertes für das  Feld „Hausnummer der Einrichtung“
 
-06.02.2025
+2.22 06.02.2025 KBV Anpassungen der Bedingungen der Fel-  der 19, 29, 36, 42 und 50 des Informati- onsmodells  Redaktionelle Anpassungen
 
-22.11.2024
+2.21 22.11.2024 KBV Anpassung der FHIR-Profile auf die Ver-  sion 1.2.0 (Anforderungen P4-01, P4-02,  P4-03, P4-04 und P4-05)
+
+Anpassung des Informationsmodells der  Formularübergreifenden Daten 2.20
 
 | 20.01.2025 | KBV | Verweis auf die elektronische Verord- |  |
 |---|---|---|---|
@@ -262,31 +166,25 @@ SEITE 6 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 |  |  | 52 (Block 50 und Feld 61a) |  |
 |  |  | Aktualisierung Muster 10 |  |
 
-Aufnahme der Anforderung P4-08
-
-KBV Anpassung der Kardinalität des Feld  „Hausnummer der Einrichtung“ (Feldnr.  67)  Aufnahme eines Ersatzwertes für das  Feld „Hausnummer der Einrichtung“
-
-KBV Anpassungen der Bedingungen der Fel- der 19, 29, 36, 42 und 50 des Informati- onsmodells  Redaktionelle Anpassungen
-
-KBV Anpassung der FHIR-Profile auf die Ver- sion 1.2.0 (Anforderungen P4-01, P4-02,  P4-03, P4-04 und P4-05)
-
-Anpassung des Informationsmodells der  Formularübergreifenden Daten
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Elementes  meta.versionId
+2.19
 
 **Seite**
 
 **67, 96**    **59, 60**
 
-**59**   **77**
+**59**
 
-**67, 96**    **59, 60**
+**77**
+
+**67, 96**
+
+**59, 60**
 
 **62, 79**
 
-**79**    **67**
+**79**
+
+**67**
 
 **62, 72, 79**    **70, 79**
 
@@ -305,84 +203,46 @@ Elementes  meta.versionId
 
 **Version**
 
-2.18
-
-2.18
-
-2.17
-
-2.15
-
-2.14
-
-2.13
-
-2.12
-
-SEITE 7 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-| Datum | Autor | Änderung | Begründung |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
+
+Akzeptanzkriterium 3 der Anforderung Durch die Umstel- P4-06 gestrichen lung der FHIR-Pro- file ist die Vorgabe   obsolet  Aufnahme eines Hinweises zur P4-03 2.18
 
 | 27.11.2023 | KBV | Anforderung P2-03 gestrichen (Grün |  |
 |---|---|---|---|
 |  |  | markiert) |  |
 
-15.11.2023
+2.18 15.11.2023 KBV Redaktionelle Ergänzung von Kapitel 1.2
 
-28.09.2022
+Aufnahme der Anforderungen P2-01, P2   02, P2-03 und O2-04
 
-15.11.2022
+Redaktionelle Korrektur der Tabelle 47,   Tabelle 49 und Tabelle 51
 
-13.05.2022
-
-15.11.2021
-
-23.02.2021
-
-Akzeptanzkriterium 3 der Anforderung  P4-06 gestrichen
-
-Aufnahme eines Hinweises zur P4-03
-
-KBV Redaktionelle Ergänzung von Kapitel 1.2
-
-Aufnahme der Anforderungen P2-01, P2  02, P2-03 und O2-04
-
-Redaktionelle Korrektur der Tabelle 47,  Tabelle 49 und Tabelle 51
-
-Inhaltliche Anpassung der Kapitel 2.7  und 2.10.2
-
-Streichung des Kapitels 2.10.8
+Inhaltliche Anpassung der Kapitel 2.7 Streichung der  und 2.10.2 Signaturfelder von  PDF/A-Mustern  Streichung des Kapitels 2.10.8
 
 Technische Anpassung der Muster 6, 10  und 39
 
 Redaktionelle Korrekturen der Anforde- rungen P4-01, P4-03 und P4-05
 
-KBV Anpassung der FHIR-Profile auf die Ver- sion 1.1.0 (Anforderungen P4-01, P4-02,  P4-03, P4-04 und P4-05)
+2.17 28.09.2022 KBV Anpassung der FHIR-Profile auf die Ver-  sion 1.1.0 (Anforderungen P4-01, P4-02,  P4-03, P4-04 und P4-05)
 
 Anpassung des Informationsmodells der  Formularübergreifenden Daten
 
-KBV Erweiterung der Anforderung P4-01 und  P4-03 um Ausnahmen (grün markiert)
+2.15 15.11.2022 KBV Erweiterung der Anforderung P4-01 und   P4-03 um Ausnahmen (grün markiert)
 
 Ergänzung der Anforderung P4-07 (grün  markiert)
 
-KBV Klarstellung in der Anforderung P4-05  mit dem Umgang des line-Elementes
+2.14 13.05.2022 KBV Klarstellung in der Anforderung P4-05   mit dem Umgang des line-Elementes
 
 Klarstellung des Erläuterungstextes im  Informationsmodell des Feldes Betriebs- stättennummer
 
-KBV Redaktionelle Korrektur
+2.13 15.11.2021 KBV  Redaktionelle Korrektur
 
 Klarstellung der Anforderungen P4-01  und P4-03
 
 Redaktionelle Korrektur P4-04
 
-KBV Aufnahme von Beispielen zur Übertra- gung der Informationen der Kostenträ- ger zur Anforderung P4-04
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Durch die Umstel- lung der FHIR-Pro- file ist die Vorgabe  obsolet
-
-Streichung der  Signaturfelder von  PDF/A-Mustern
+2.12 23.02.2021 KBV Aufnahme von Beispielen zur Übertra-  gung der Informationen der Kostenträ- ger zur Anforderung P4-04
 
 **Seite**
 
@@ -427,52 +287,8 @@ Streichung der  Signaturfelder von  PDF/A-Mustern
 
 **Version**
 
-2.11
-
-2.10
-
-2.09
-
-2.09
-
-2.09
-
-2.09
-
-2.08
-
-SEITE 8 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-| Datum | Autor | Änderung | Begründung |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
-
-19.02.2021
-
-| 22.12.2020 | KBV | Beschreibung der Versionierung |  |
-|---|---|---|---|
-|  |  | Anpassung der Version der FHIR-Profile |  |
-
-25.11.2020
-
-16.06.2020
-
-12.06.2020
-
-30.04.2020
-
-20.11.2020
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
-
-KBV
 
 Anpassung der Beschreibung des Feldes  Betriebsstätte im Informationsmodell
 
@@ -482,11 +298,15 @@ Anpassung der Versionsnummer der  FHIR-Profile
 
 Redaktionelle Korrektur
 
-Korrektur der Anzahl angezeigter Zei- chen des Felds 7297_datum_der_letz- ten_untersuchung bei Muster 39
+2.11 19.02.2021 KBV Korrektur der Anzahl angezeigter Zei-  chen des Felds 7297_datum_der_letz- ten_untersuchung bei Muster 39
 
-Aufnahme der fehlenden Felder  M10A_64, M10A_65 und M10A_66 in  Tabelle 20
+Aufnahme der fehlenden Felder  M10A_64, M10A_65 und M10A_66 in  Tabelle 20 2.10
 
-Klarstellung bei der Befüllung der  Adressdaten
+| 22.12.2020 | KBV | Beschreibung der Versionierung |  |
+|---|---|---|---|
+|  |  | Anpassung der Version der FHIR-Profile |  |
+
+2.09 25.11.2020 KBV Klarstellung bei der Befüllung der   Adressdaten
 
 Anpassung der Versionen
 
@@ -494,11 +314,11 @@ Klarstellung des verwendeten Zeichen- satzes
 
 Aufnahme des Kennzeichnens „PKV“ in  die Bedingungen
 
-Einarbeitung der Rückmeldungen
+2.09 16.06.2020 KBV Einarbeitung der Rückmeldungen
 
-Aktualisierung der ID aus Tabelle 47
+2.09 12.06.2020 KBV Aktualisierung der ID aus Tabelle 47
 
-Musterspezifische Regelungen für Mus- ter im Format FHIR®
+2.09 30.04.2020 KBV Musterspezifische Regelungen für Mus-  ter im Format FHIR®
 
 Inhalte elektronische Arbeitsunfähig- keitsbescheinigung
 
@@ -506,11 +326,7 @@ Inhalte elektronische Arzneimittelver- ordnung
 
 Anpassung der allgemein gültigen Vor- gaben z.B. Verschiebung der Kapitel 1.2  und 1.3 in 2.1 und 2.2
 
-Korrektur der Feldbezeichnungen  „3317_virustyp_16_18_positive“ bzw.  „3317_virustyp_16_18_negative“ in  „3317_virustyp_16_18_ja“ bzw.  „3317_virustyp_16_18_nein“ bei Muster  39
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 -
-
-Bezeichnungen  wurden im digita- len Muster korri- giert.
+2.08 20.11.2020 KBV Korrektur der Feldbezeichnungen Bezeichnungen  „3317_virustyp_16_18_positive“ bzw. wurden im digita- „3317_virustyp_16_18_negative“ in len Muster korri- „3317_virustyp_16_18_ja“ bzw. giert.  „3317_virustyp_16_18_nein“ bei Muster  39
 
 **Seite**
 
@@ -555,10 +371,12 @@ Bezeichnungen  wurden im digita- len Muster korri- giert.
 
 **Version**
 
-| Datum | Autor | Änderung | Begründung |
+| **Datum** | **Autor** | **Änderung** | **Begründung** |
 |---|---|---|---|
 
-2.07
+Korrektur der Feldbezeichnung  „0000_KBV Pruefnummer“ in  „0000_Pruefnummer“ bei Muster 39
+
+Korrektur der Feldbezeichnungen  „8630_auftragart_abklärungsdiagnos- tik“, „7384_klinischer_befund_unauffäl- lig“ bzw. „7384_klinischer_befund_auf- fällig“ in „8630_auftragart_abklaerungs- diagnostik“, „7384_klinischer_be- fund_unauffaellig“ bzw. „7384_klini- scher_befund_auffaellig“ bei Muster 39 2.07
 
 |  |  | Muster 6, 10 und 10A | PDF/A-A3 auf |
 |---|---|---|---|
@@ -567,6 +385,11 @@ Bezeichnungen  wurden im digita- len Muster korri- giert.
 | 02.09.2020 | KBV | Korrektur der Feldbezeichnung | Bezeichnung |
 
 2.06
+
+|  |  | „0000_KBV-Pruefnummer“ in | wurde im digita- |
+|---|---|---|---|
+|  |  | „0000_Pruefnummer“ bei Muster 10 | len Muster korri- |
+|  |  | und 10A | giert. |
 
 2.06
 
@@ -589,19 +412,6 @@ Bezeichnungen  wurden im digita- len Muster korri- giert.
 |  |  | Muster 39 |  |
 
 2.05
-
-SEITE 9 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Korrektur der Feldbezeichnung  „0000_KBV - Pruefnummer“ in  „0000_Pruefnummer“ bei Muster 39
-
-Korrektur der Feldbezeichnungen  „8630_auftragart_abklärungsdiagnos- tik“, „7384_klinischer_befund_unauffäl- lig“ bzw. „7384_klinischer_befund_auf- fällig“ in „8630_auftragart_abklaerungs- diagnostik“, „7384_klinischer_be- fund_unauffaellig“ bzw. „7384_klini- scher_befund_auffaellig“ bei Muster 39
-
-|  |  | „0000_KBV - Pruefnummer“ in | wurde im digita- |
-|---|---|---|---|
-|  |  | „0000_Pruefnummer“ bei Muster 10 | len Muster korri- |
-|  |  | und 10A | giert. |
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 **Seite**
 
@@ -634,21 +444,23 @@ Korrektur der Feldbezeichnungen  „8630_auftragart_abklärungsdiagnos- tik“, 
 
 1
 
-Der Begriff digitale Vordrucke bezeichnet eine digitale Repräsentation von Vordrucken der vertragsärztli- chen Versorgung entsprechend Anlage 2b des  bilden neben der konventionellen Bedruckung und der sogenannten Blankoformularbedruckung die dritte  Möglichkeit, Vordrucke zu erstellen und zu versenden. Hierbei generiert das Praxisverwaltungssystem das  jeweilige Formular als PDF/A oder sofern verfügbar im FHIR-Format und versendet dieses an einen Empfän- ger über einen sicheren Übertragungsweg.
+## EINLEITUNG
 
-Die Ermöglichung der digitalen Nutzung der Vordrucke zielt darauf ab, die Bürokratie im Gesundheitswesen  weiter abzubauen und die Kommunikation zwischen den Akteuren sowohl schneller als auch sicherer zu  machen. Darüber hinaus werden, durch den Einsatz dig
+Der Begriff *digitale Vordrucke* bezeichnet eine digitale Repräsentation von Vordrucken der vertragsärztli- chen Versorgung entsprechend Anlage 2b des Bundesmantelvertrags-Ärzte (BMV-Ä) (siehe [Anlage 2b]). Sie  bilden neben der konventionellen Bedruckung und der sogenannten Blankoformularbedruckung die dritte  Möglichkeit, Vordrucke zu erstellen und zu versenden. Hierbei generiert das Praxisverwaltungssystem das  jeweilige Formular als PDF/A oder sofern verfügbar im FHIR-Format und versendet dieses an einen Empfän- ger über einen sicheren Übertragungsweg.
+
+Die Ermöglichung der digitalen Nutzung der Vordrucke zielt darauf ab, die Bürokratie im Gesundheitswesen  weiter abzubauen und die Kommunikation zwischen den Akteuren sowohl schneller als auch sicherer zu  machen. Darüber hinaus werden, durch den Einsatz digitaler Muster, Medienbrüche vermieden.
 
 Das vorliegende Handbuch beschreibt die technische Umsetzung der digitalen Muster. Es ist zwingend in  der jeweils gültigen Fassung durch einen Softwarehersteller zu beachten, sofern dieser digitale Muster an- bieten möchte.
 
-Dieses technische Handbuch bezieht sich einerseits auf die digitale Übermittlung der Überweisung (Muster  6) in der Arzt-zu-Arzt-Kommunikation ohne Arzt-Patienten-Kontakt, der Übermittlung des Überweisungs- scheins zur präventiven zytologischen Untersuchung / digitalen Übermittlung von Aufträgen für  Anderseits enthält es die Vorgaben zur Arbeitsunfähigkeitsbescheinigung (Muster 1) sowie der Arzneimit- telverordnung (Muster 16).
+Dieses technische Handbuch bezieht sich einerseits auf die digitale Übermittlung der Überweisung (Muster  6) in der Arzt-zu-Arzt-Kommunikation ohne Arzt-Patienten-Kontakt, der Übermittlung des Überweisungs- scheins zur präventiven zytologischen Untersuchung / Krebsfrüherkennung - Frauen (Muster 39) sowie der  digitalen Übermittlung von Aufträgen für Laboratoriumsuntersuchungen (Muster 10 und Muster 10A) Anderseits enthält es die Vorgaben zur Arbeitsunfähigkeitsbescheinigung (Muster 1) sowie der Arzneimit- telverordnung (Muster 16).
 
-**1.1**
+**1.1** **ANMERKUNGEN ZUM VORLIEGENDEN TECHNISCHEN HANDBUCH FÜR DIGITALE MUSTER**
 
 Kapitel 2 erläutert im Allgemeinen, wie digitale Muster umzusetzen und welche Rahmenbedingungen ein- zuhalten sind.
 
 Kapitel 3 enthält die Inhalte der digitalen Muster im Speziellen. Musterspezifisch sind hier Daten sowie Me- tadaten aufgeführt.
 
-Kapitel 4 enthält die musterspezifischen Regelungen für den Versand im FHIR
+Kapitel 4 enthält die musterspezifischen Regelungen für den Versand im FHIR-Format.
 
 Kapitel 5 spezifiziert die Details zum Übertragungsweg.
 
@@ -656,140 +468,120 @@ Kapitel 6 enthält das übergreifende Informationsmodell zur Abbildung der formu
 
 Kapitel 7 erläutert die Zertifizierung digitaler Muster.
 
-Kapitel 8 beinhaltet das Glossar und Kapitel
+Kapitel 8 beinhaltet das Glossar und Kapitel 9 führt die referenzierten Dokumente auf.
 
 Das technische Handbuch richtet sich vor allem an Softwarehersteller.
 
-Im Handbuch wird von Praxisverwaltungssystem (PVS) gesprochen. Sollte ein digitales Muster von einem  Laborinformationssystem (LIS) oder einer anderen in der Arztpraxis eingesetzten Software umgesetzt wer- den, so steht PVS stellvertretend auch für solche Sys
+Im Handbuch wird von Praxisverwaltungssystem (PVS) gesprochen. Sollte ein digitales Muster von einem  Laborinformationssystem (LIS) oder einer anderen in der Arztpraxis eingesetzten Software umgesetzt wer- den, so steht PVS stellvertretend auch für solche Systeme.
 
 Im vorliegenden technischen Handbuch wird sowohl der Begriff Vordruck als auch Muster verwendet.  Beide Begriffe sind synonym verwendet und stehen für die in der vertragsärztlichen Versorgung genutzten  Formulare entsprechend des BMV-Ä.
 
-**1.2**
+**1.2**  **ERLÄUTERUNG DER FUNKTIONSDARSTELLUNG**
 
-Es kann Pflichtfunktionen, konditionale Pflichtfunktionen und optionale Funktionen geben. Pflichtfunktio- nen müssen in der Anwendungssoftware implementiert sein. Konditionale Pflichtfunktionen müssen imple- mentiert werden, wenn alle genannten Bedingungen zu  können implementiert werden, wenn alle genannten Bedingungen entsprechend realisiert werden.
+Es kann Pflichtfunktionen, konditionale Pflichtfunktionen und optionale Funktionen geben. Pflichtfunktio- nen müssen in der Anwendungssoftware implementiert sein. Konditionale Pflichtfunktionen müssen imple- mentiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind. Optionale Funktionen  können implementiert werden, wenn alle genannten Bedingungen entsprechend realisiert werden.
 
 Die Realisierung aller Pflichtfunktionen, der konditionalen Pflichtfunktionen sowie der implementierten op- tionalen Funktionen ist im Rahmen des Begutachtungsverfahrens nachzuweisen.
-
-SEITE 10 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-## EINLEITUNG
-
-**ANMERKUNGEN ZUM VORLIEGENDEN TECHNISCHEN HANDBUCH FÜR DIGITALE MUSTER**
-
-**ERLÄUTERUNG DER FUNKTIONSDARSTELLUNG**
-
-Bundesmantelvertrags-Ärzte (BMV-Ä) (siehe [Anlage 2b]). Sie
-
-Laboratoriumsuntersuchungen (Muster 10 und Muster 10A).
-
-9 führt die referenzierten Dokumente auf.
-
-italer Muster, Medienbrüche vermieden.
-
-Krebsfrüherkennung - Frauen (Muster 39) sowie der
-
-teme.
-
-dieser Funktion erfüllt sind. Optionale Funktionen
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 -Format.
 
 
 ---
 
-|  | Pflichtfunktionen | sind wie | folgt gekennzeichnet: | |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-|  | PFLICHTFUNKTION | DIGITALE | MUSTER |  |  |  |  |  |
-| P2-01 |  | Funktionsbezeichnung |  |  |  |  |  |  |
-| Ident-Nummer | einer | Pflichtfunktion | |  |  |  |  |  |
-| Konditionale | | Pflichtfunktionen | sind wie | folgt | gekennzeichnet: |  |  |  |
-|  | KONDITIONALE | PFLICHTFUNKTION | | DIGITALE MUSTER |  |  |  |  |
-| KP2-02 |  | Funktionsbezeichnung |  |  |  |  |  |  |
-| Ident-Nummer | einer | konditionalen |  | Pflichtfunktion |  |  |  |  |
-| Optionale | Funktionen | sind | wie folgt | gekennzeichnet: |  |  |  |  |
-|  | OPTIONALE | FUNKTION | DIGITALE MUSTER |  |  |  |  |  |
-| O2-03 |  | Funktionsbezeichnung |  |  |  |  |  |  |
-| Ident-Nummer | einer | optionalen | Funktion |  |  |  |  |  |
-| SEITE | 11 VON 102 / | KBV / | TECHNISCHES HANDBUCH | DIGITALE | VORDRUCKE / 9. | FEBRUAR 2026 | / | VERSION: 2.31 |
+Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-Pflichtfunktionen sind wie folgt gekennzeichnet: PFLICHTFUNKTION DIGITALE MUSTER Ident-Nummer einer Pflichtfunktion Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet: KONDITIONALE PFLICHTFUNKTION DIGITALE MUSTER Ident-Nummer einer konditionalen Pflichtfunktion Optionale Funktionen sind wie folgt gekennzeichnet: OPTIONALE FUNKTION DIGITALE MUSTER Ident-Nummer einer optionalen Funktion SEITE 11 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 9. FEBRUAR 2026  /  VERSION: 2.31
+**PFLICHTFUNKTION DIGITALE MUSTER**
+
+**P2-01** Funktionsbezeichnung
+
+Ident-Nummer einer Pflichtfunktion
+
+Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
+
+**KONDITIONALE PFLICHTFUNKTION DIGITALE MUSTER**
+
+**KP2-02** Funktionsbezeichnung
+
+Ident-Nummer einer konditionalen Pflichtfunktion
+
+Optionale Funktionen sind wie folgt gekennzeichnet:
+
+**OPTIONALE FUNKTION DIGITALE MUSTER**
+
+**O2-03** Funktionsbezeichnung
+
+Ident-Nummer einer optionalen Funktion
+
 
 ---
 
 2
 
+## MUSTERÜBERGREIFENDE REGELUNGEN FÜR MUSTER IM FOR- MAT PDF/A
+
 In diesem Kapitel werden allgemeingültige Rahmenbedingungen, die für alle digitalen Muster gelten, fest- gelegt und erklärt.
 
-**2.1**
+**2.1** **ALLGEMEINE INFORMATIONEN ZU DIGITALEN MUSTERN**
 
-Die digitalen Muster entsprechen in ihrem Aufbau und ihrer Form dem jeweiligen Äquivalent in der Blanko- formularbedruckung. In einem digitalen Muster sind alle Informationen enthalten, welche auch auf dem  entsprechenden papierbasierten Muster vorhanden sind Daher wird im vorliegenden Dokument auch von „sichtbaren Informationen“ gesprochen. Darüber hinaus  enthält das digitale Muster einige wenige Informationen, die nicht direkt sichtbar (menschenlesbar) sind. Diese Informationen sind ausgeblendet und werden im Dokument als „maschinenlesbare Informationen“  bezeichnet. Unabhängig von dieser Benennung sind sowohl „sichtbare“ als auch „maschinenlesbare“ Infor- mationen immer maschinell auswertbar.
+Die digitalen Muster entsprechen in ihrem Aufbau und ihrer Form dem jeweiligen Äquivalent in der Blanko- formularbedruckung. In einem digitalen Muster sind alle Informationen enthalten, welche auch auf dem  entsprechenden papierbasierten Muster vorhanden sind. Diese Informationen sind für den Nutzer sichtbar.  Daher wird im vorliegenden Dokument auch von „sichtbaren Informationen“ gesprochen. Darüber hinaus  enthält das digitale Muster einige wenige Informationen, die nicht direkt sichtbar (menschenlesbar) sind.  Diese Informationen sind ausgeblendet und werden im Dokument als „maschinenlesbare Informationen“  bezeichnet. Unabhängig von dieser Benennung sind sowohl „sichtbare“ als auch „maschinenlesbare“ Infor- mationen immer maschinell auswertbar.
 
-Digitale Muster sind neben der konventionellen Bedruckung und der Blankoformularbedruckung die dritte  Möglichkeit, Muster zu nutzen. Das Ziel ist es, Aussehen und Inhalte zwischen allen drei Möglichkeiten kon- sistent zu halten. Führend bei der Gestaltung de auch für digitale Muster grundlegend die Bedruckungsvorschriften aus der konventionellen Bedruckung.  Zusätzlich dazu wird an einigen Stellen eine Konkretisierung bzw. Erweiterung vorgenommen, um die  teile der digitalen Übermittlung von Mustern auszunutzen. Solche Besonderheiten sind an entsprechender  Stelle im vorliegenden technischen Handbuch gekennzeichnet.
+Digitale Muster sind neben der konventionellen Bedruckung und der Blankoformularbedruckung die dritte  Möglichkeit, Muster zu nutzen. Das Ziel ist es, Aussehen und Inhalte zwischen allen drei Möglichkeiten kon- sistent zu halten. Führend bei der Gestaltung der Muster ist die konventionelle Bedruckung, daher gelten  auch für digitale Muster grundlegend die Bedruckungsvorschriften aus der konventionellen Bedruckung.  Zusätzlich dazu wird an einigen Stellen eine Konkretisierung bzw. Erweiterung vorgenommen, um die Vor- teile der digitalen Übermittlung von Mustern auszunutzen. Solche Besonderheiten sind an entsprechender  Stelle im vorliegenden technischen Handbuch gekennzeichnet.
 
-Beim Einsatz von digitalen Mustern kommen zwei wesentliche  folgt die Darstellung und Speicherung von menschen mular. Zum anderen erfolgt die Übertragung über einen sicheren Kommunikationsweg.
+Beim Einsatz von digitalen Mustern kommen zwei wesentliche Komponenten zum Tragen. Zum einen er- folgt die Darstellung und Speicherung von menschen- und maschinenlesbaren Inhalten in einem PDF-For- mular. Zum anderen erfolgt die Übertragung über einen sicheren Kommunikationsweg.
 
-Die PDF- Formulare werden auf Basis der sogenannten „AcroForms“ umgesetzt (siehe [ ISO_32000-1]). Mit  Hilfe dieser sogenannten interaktiven Formulare können die bekannten Formulare aus der Papierwelt nach- gebildet werden. Gleichzeitig halten die AcroForms die Informationen maschinenlesbar vor, so dass sie  durch Computer ausgewertet werden können.
+Die PDF-Formulare werden auf Basis der sogenannten „AcroForms“ umgesetzt (siehe [ISO_32000-1]). Mit  Hilfe dieser sogenannten interaktiven Formulare können die bekannten Formulare aus der Papierwelt nach- gebildet werden. Gleichzeitig halten die AcroForms die Informationen maschinenlesbar vor, so dass sie  durch Computer ausgewertet werden können.
 
-PVS-Hersteller, die digitale Muster anbieten möchten, sind durch die KBV nach Anlage 2b BMV zieren (siehe [Anlage 2b]).
+PVS-Hersteller, die digitale Muster anbieten möchten, sind durch die KBV nach Anlage 2b BMV-Ä zu zertifi- zieren (siehe [Anlage 2b]).
 
-Die PDF-Formulare werden durch die KBV erstellt und den PVS stellt. PVS-Hersteller, die digitale Muster anbieten, nutzen die von der KBV zur Verfügung gestellten Mus- ter-Vorlagen und setzen die Inhalte in die bereits genden technischen Handbuchs ein. Eine Manipulation bzw. Änderung der Feldeigenschaften oder der Vor- lage ist grundsätzlich nicht gestattet. Ausnahmen werden an entsprechender Stelle explizit genannt.  Vorlagen gelten als Software im Sinne der Lizenzvereinbarung  [KBV_ITA_VGEX_Lizenzvereinbarung
+Die PDF-Formulare werden durch die KBV erstellt und den PVS-Herstellern als Vorlagen zur Verfügung ge- stellt. PVS-Hersteller, die digitale Muster anbieten, nutzen die von der KBV zur Verfügung gestellten Mus- ter-Vorlagen und setzen die Inhalte in die bereits vorbereiteten Formularfelder entsprechend des vorlie- genden technischen Handbuchs ein. Eine Manipulation bzw. Änderung der Feldeigenschaften oder der Vor- lage ist grundsätzlich nicht gestattet. Ausnahmen werden an entsprechender Stelle explizit genannt. Diese  Vorlagen gelten als Software im Sinne der Lizenzvereinbarung -Software für Softwarehersteller-  [KBV_ITA_VGEX_Lizenzvereinbarung
 
 Digitale Muster, welche die in diesem Dokument festgelegten Vorgaben verletzen, sind ungültig.
 
-Für die Verarbeitung von PDF-Dokumenten, z.B. das Lesen und Setzen von  ten, stehen verschiedene Bibliotheken und kommerzielle Werkzeuge bereit. Je nach gewähltem Werkzeug  können die in diesen Bibliotheken bereits vordefinierten Funktionen genutzt werden.
+Für die Verarbeitung von PDF-Dokumenten, z.B. das Lesen und Setzen von Formularinhalten oder Metada- ten, stehen verschiedene Bibliotheken und kommerzielle Werkzeuge bereit. Je nach gewähltem Werkzeug  können die in diesen Bibliotheken bereits vordefinierten Funktionen genutzt werden.
 
-Neben der PDF-Datei als Informationsträger, ist der Übertrag Anlage 2b des BMV-Ä gibt die Anforderungen an den Übertragungsweg vor.
+Neben der PDF-Datei als Informationsträger, ist der Übertragungsweg ein weiterer wichtiger Aspekt. Die  Anlage 2b des BMV-Ä gibt die Anforderungen an den Übertragungsweg vor.
 
-**2.2**
+**2.2** **FORMULARFELDTABELLE**
 
 Bei der Beschreibung der digitalen Muster werden sogenannte Formularfeldtabellen genutzt. Die Formular- feldtabellen sind wie folgt aufgebaut:
-
-SEITE 12 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-## MUSTERÜBERGREIFENDE REGELUNGEN FÜR MUSTER IM FOR-
-
-## MAT PDF/A
-
-**ALLGEMEINE INFORMATIONEN ZU DIGITALEN MUSTERN**
-
-**FORMULARFELDTABELLE**
-
-].
-
-. Diese Informationen sind für den Nutzer sichtbar.
-
-r Muster ist die konventionelle Bedruckung, daher gelten
-
-Komponenten zum Tragen. Zum einen er- - und maschinenlesbaren Inhalten in einem PDF
-
--Herstellern als Vorlagen zur Verfügung ge-
-
-vorbereiteten Formularfelder entsprechend des vorlie-
-
--Software für Softwarehersteller-
-
-ungsweg ein weiterer wichtiger Aspekt. Die
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Formularinhalten oder Metada-
-
-Vor-
-
--For-
-
--Ä zu zertifi-
-
-Diese
 
 
 ---
 
-Nummer
+Nummer Formularfeld- Formular- Angezeigte Anzahl an Anzahl erlaubter Formatierung  bezeichnung feldtyp Zeichen Zeichen
 
 Das Feld „Nummer“ bezeichnet die Nummerierung der Felder und dient der Zuordnung der Felder in den  Beispielgrafiken. Diese Feldnummerierung entspricht nicht der Feldbezeichnung und kann damit auch nicht  über eine Programmierschnittstelle angesprochen werde
 
-Die Spalte „Formularfeldbezeichnung“ gibt den Namen des Feldes an. Dem vorangestellt ist - falls vorhan- den - die entsprechende Feldkennung aus der Spezifikation „Kassenärztliche Vereinigung DatenTransfer“  (KVDT) (siehe [KBV_ITA_VGEX_Anforderungskatalog_KVDT Schnittstelle. Über diesen Namen kann das entsprechende Feld per Programmierschnittstelle angesprochen  werden.
+| „Nummer“ bezeichnet | die Nummerierung | der Felder und dient | der Zuordnung der |
+|---|---|---|---|
+| Diese | Feldnummerierung | entspricht nicht der | Feldbezeichnung und kann |
+| Programmierschnittstelle | angesprochen | werden. |  |
+| „Formularfeldbezeichnung“ | gibt | den Namen des Feldes an. | Dem vorangestellt ist- |
+| entsprechende | Feldkennung aus der | Spezifikation „Kassenärztliche | Vereinigung |
+|  | [KBV_ITA_VGEX_Anforderungskatalog_KVDT | ]) oder einer | anderen inhaltlich |
+| Über diesen | Namen kann das | entsprechende Feld per | Programmierschnittstelle |
+| „Formularfeldtyp“ | enthält den Typ | des Feldes (Textfeld, | Ankreuzfeld, …) und ist für |
+| rein informativ. |  |  |  |
+| „Angezeigte Anzahl | an Zeichen“ gibt | an, wie viele Zeichen | der jeweiligen Information |
+| „Anzahl erlaubter | Zeichen“ gibt an, | wie viele Zeichen im | jeweiligen Feld maximal |
+| „Formatierung“ gibt | Aufschluss | darüber, wie ein Feld formatiert | ist. |
+| **AUSFÜLLVERBINDLICHKEITEN** | **DER** | **DIGITALEN MUSTER** |  |
+| Ausfüllen digitaler | Muster gelten die | im BMV-Ä festgelegten | Verbindlichkeiten (insb. |
+| 2b]), das | vorliegende technische | Handbuch und die | Erläuterungen zur Vereinbarung |
+| die vertragsärztliche | Versorgung, | siehe [Vordruckerläuterungen]). |  |
+| **ZEICHENSATZ** |  |  |  |
+| Muster im Format | PDF gilt, analog | zur elektronischen | Gesundheitskarte, der |
+| **DATEINAMEN** |  |  |  |
+| oder empfangendes | PVS ist | in der Gestaltung des | Dateinamens nicht |
+| PVS hat sicherzustellen, | dass | ein ungewolltes Überschreiben | von Dateien beim |
+| ist. Die Nutzung | von personenbezogenen | Inhalten im | Dateinamen ist generell zu |
+| **ENTSPRECHEND** |  | **BLANKOFORMULARBEDRUCKUNG** |  |
+| eines Barcodes | wie dieser aus | der Blankoformularbedruckung | bekannt ist, |
+| nicht notwendig. |  |  |  |
+| **ELEKTRONISCHE SIGNATUR** |  |  |  |
+| PDF/A-Muster mit einer | qualifizierten | elektronischen Signatur | (QES) zu versehen ist |
+| gibt Anlage 2b | des BMV-Ä vor | (siehe: [Anlage 2b]). Die | entsprechenden |
+| der KBV ohne | PDF-Signaturformularfeld | an die Softwarehersteller | ausgeliefert. |
+| das erstellende | PVS eine Funktionen | zur Verfügung, mit der | eine qualifizierte |
+
+Die Spalte „Formularfeldbezeichnung“ gibt den Namen des Feldes an. Dem vorangestellt ist  den - die entsprechende Feldkennung aus der Spezifikation „Kassenärztliche Vereinigung DatenTransfer“  (KVDT) (siehe [KBV_ITA_VGEX_Anforderungskatalog_KVDT Schnittstelle. Über diesen Namen kann das entsprechende Feld per Programmierschnittstelle angesprochen  werden.
 
 Die Spalte „Formularfeldtyp“ enthält den Typ des Feldes (Textfeld, Ankreuzfeld, …) und ist für die Soft- warehersteller rein informativ.
 
@@ -805,7 +597,7 @@ Für das Ausfüllen digitaler Muster gelten die im BMV (siehe [Anlage 2b]), das 
 
 **2.4**
 
-Für digitale Muster im Format PDF gilt, analog zur elektronischen Gesundheitskarte, der Zeichensatz „ISO  8859- 15“.
+Für digitale Muster im Format PDF gilt, analog zur elektronischen Gesundheitskarte, der Zeichensatz „ISO  8859-15“.
 
 **2.5**
 
@@ -817,59 +609,10 @@ Die Aufbringung eines Barcodes wie dieser aus der Blankoformularbedruckung bekan
 
 **2.7**
 
-Ob ein PDF/A-Muster mit einer qualifizierten elektronischen Signatur (QES) zu versehen ist werden kann, gibt Anlage 2b des BMV-Ä vor (siehe: [Anlage 2b]). Die entsprechenden PDF/A-Muster, wer- den seitens der KBV ohne PDF-Signaturformularfeld an die Softwarehersteller ausgeliefert. Für  Muster stellt das erstellende PVS eine Funktionen zur Verfügung, mit der eine qualifizierte  fizierte elektronische PDF/A-Signatur entsprechend den Regelungen des BMV matik für Primärsysteme [gemILF_PS] als Signatur in das Muster eingebettet werden kann.
+Ob ein PDF/A-Muster mit einer qualifizierten elektronischen Signatur (QES) zu versehen ist werden kann, gibt Anlage 2b des BMV-Ä vor (siehe: [Anlage 2b]). Die entsprechenden PDF/A-Muster, wer- den seitens der KBV ohne PDF-Signaturformularfeld an die Softwarehersteller ausgeliefert. Für  Muster stellt das erstellende PVS eine Funktionen zur Verfügung, mit der eine qualifizierte  fizierte elektronische PDF/A-Signatur entsprechend den Regelungen des BMV-Ä und den Vorgaben der ge- matik für Primärsysteme [gemILF_PS] als Signatur in das Muster eingebettet werden kann.
 
-Das empfangende PVS prüft beim Empfang eines digitalen  tik für Primärsysteme [gemILF_PS] die Gültigkeit der Signatur und gibt dem Anwender bei ungültiger Signa- tur einen Hinweis zum Prüfergebnis aus. Die Gültigkeitsprüfung der Signatur umfasst sowohl die Prüfung
+- falls vorhan- ]) oder einer anderen inhaltlich passenden KBV AUSFÜLLVERBINDLICHKEITEN DER DIGITALEN MUSTER -Ä festgelegten Verbindlichkeiten (insb. Anlage 2b alten im Dateinamen ist generell zu vermeiden. BARCODE ENTSPRECHEND BLANKOFORMULARBEDRUCKUNG  oder versehen die PDF- oder nicht-quali-Das empfangende PVS prüft beim Empfang eines digitalen PDF/A-Musters gemäß den Vorgaben der gema- tik für Primärsysteme [gemILF_PS] die Gültigkeit der Signatur und gibt dem Anwender bei ungültiger Signa- tur einen Hinweis zum Prüfergebnis aus. Die Gültigkeitsprüfung der Signatur umfasst sowohl die Prüfung
 
-SEITE 13 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-| „Nummer“ bezeichnet | die Nummerierung | der Felder und dient | der Zuordnung der |
-|---|---|---|---|
-| Diese | Feldnummerierung | entspricht nicht der | Feldbezeichnung und kann |
-| Programmierschnittstelle | angesprochen | werde n. |  |
-| „Formularfeldbezeichnung“ | gibt den | Namen des Feldes an. Dem | vorangestellt ist - |
-| entsprechende Feldkennung | aus der | Spezifikation „Kassenärztliche | Vereinigung |
-|  | [KBV_ITA_VGEX_Anforderungskatalog_KVDT | ]) oder einer | anderen inhaltlich |
-| Über diesen | Namen kann das | entsprechende Feld per | Programmierschnittstelle |
-| „Formularfeldtyp“ | enthält den Typ | des Feldes (Textfeld, | Ankreuzfeld, …) und ist für |
-| rein informativ. |  |  |  |
-| „Angezeigte Anzahl | an Zeichen“ gibt | an, wie viele Zeichen | der jeweiligen Information |
-| „Anzahl erlaubter | Zeichen“ gibt an, | wie viele Zeichen im | jeweiligen Feld maximal |
-| „Formatierung“ gibt | Aufschluss | darüber, wie ein Feld formatiert | ist. |
-| AUSFÜLLVERBINDLICHKEITEN | DER | DIGITALEN MUSTER |  |
-| Ausfüllen digitaler | Muster gelten die | im BMV -Ä festgelegten | Verbindlichkeiten (insb. |
-| 2b]), das | vorliegende technische | Handbuch und die | Erläuterungen zur Vereinbarung |
-| die vertragsärztliche | Versorgung, | siehe [ Vordruckerläuterungen]). |  |
-| ZEICHENSATZ |  |  |  |
-| Muster im Format | PDF gilt, analog | zur elektronischen | Gesundheitskarte, der |
-| DATEINAMEN |  |  |  |
-| oder empfangendes | PVS ist | in der Gestaltung des | Dateinamens nicht |
-| PVS hat sicherzustellen, | dass | ein ungewolltes Überschreiben | von Dateien beim |
-| ist. Die Nutzung | von personenbezogenen | Inh alten im | Dateinamen ist generell zu |
-| ENTSPRECHEND |  | BLANKOFORMULARBEDRUCKUNG |  |
-| eines Barcodes | wie dieser aus | der Blankoformularbedruckung | bekannt ist, |
-| nicht notwendig. |  |  |  |
-| ELEKTRONISCHE SIGNATUR |  |  |  |
-| PDF/A-Muster mit einer | qualifizierten | elektronischen Signatur | (QES) zu versehen ist |
-| gibt Anlage 2b | des BMV-Ä vor | (siehe: [Anlage 2b]). Die | entsprechenden |
-| der KBV ohne | PDF-Signaturformularfeld | an die Softwarehersteller | ausgeliefert. |
-| das erstellende | PVS eine Funktionen | zur Verfügung, mit der | eine qualifizierte |
-
-Formularfeld- bezeichnung
-
-Formular- feldtyp
-
-Angezeigte Anzahl an  Zeichen
-
-PDF/A-Musters gemäß den Vorgaben der gema-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Anzahl erlaubter  Zeichen -Ä und den Vorgaben der ge-
-
-Formatierung -
-
-AUSFÜLLVERBINDLICHKEITEN DER DIGITALEN MUSTER BARCODE ENTSPRECHEND BLANKOFORMULARBEDRUCKUNG ]) oder einer anderen inhaltlich passenden KBV -Ä festgelegten Verbindlichkeiten (insb. Anlage 2b alten im Dateinamen ist generell zu vermeiden.  oder versehen die PDF- oder nicht-quali-
 
 ---
 
@@ -879,117 +622,77 @@ des Zertifikates (auf dem die Signatur QES beruht) als auch die Prüfung der Int
 
 **P2-01** Auswahl der Signaturvarianten
 
-Die Software stellt sicher, dass der Anwender das zu  Vorgaben des Bundesmantelvertrags-Ärzte Anlage 2b [KBV_BMV-Ä_Anlage_2b] signiert.
+Die Software stellt sicher, dass der Anwender das zu versendende digitale PDF/A-Muster entsprechend den  Vorgaben des Bundesmantelvertrags-Ärzte Anlage 2b [KBV_BMV-Ä_Anlage_2b] signiert.
 
-**Begründung:**
+**Begründung**
 
 Aufgrund gesetzlicher Vorgaben ist der Einsatz einer elektronischen Signatur im Rahmen der Erstellung digi- taler Formulare notwendig.
 
 **Akzeptanzkriterium:**
 
-1. Die Software stellt sicher, dass die zu versendenden PDF/A enthalten:  a) Erzeugung einer qualifizierten elektronischen Signatur (QES) mittels elektronischem Heilberufsaus- weis (eHBA) (vorrangig anzuwenden). b) Erzeugung einer (nicht-qualifizierten) elektronischen Signatur mittels elektronischem Institutionsaus- weis (SMC-B).  2. Der Anwender muss die folgenden Möglichkeiten haben:  a) Setzen einer Stapelsignatur auf die erzeugten PDF/A b) Setzen einer Einzelsignatur auf die erzeugte PDF/A 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen. 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für Primärsysteme [ mILF_PS] zu entnehmen.
+1. Die Software stellt sicher, dass die zu versendenden PDF/A-Muster eine der folgenden Signaturvarianten  enthalten:  a) Erzeugung einer qualifizierten elektronischen Signatur (QES) mittels elektronischem Heilberufsaus- weis (eHBA) (vorrangig anzuwenden).  b) Erzeugung einer (nicht-qualifizierten) elektronischen Signatur mittels elektronischem Institutionsaus- weis (SMC-B).  2. Der Anwender muss die folgenden Möglichkeiten haben:   a) Setzen einer Stapelsignatur auf die erzeugten PDF/A-Muster  b) Setzen einer Einzelsignatur auf die erzeugte PDF/A-Muster  3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.  4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für Primärsysteme [ge- mILF_PS] zu entnehmen.
 
 **Hinweis:**
 
 Der Anwender sollte durch geeignete Funktionen die Möglichkeit haben zu entscheiden, ob eine Signatur  mittels SMC-B oder eHBA erzeugt werden soll.
 
-Die Signatur mittels SMC-B ist nur zulässig in den definierten Fällen laut BMV Nummer 4.39.4.
+Die Signatur mittels SMC-B ist nur zulässig in den definierten Fällen laut BMV-Ä Anlage 2b § 2 Abs. 4 sowie  Nummer 4.39.4.
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
 **P2-02** Darstellung der PDF-Repräsentation vor Signierung
 
-Die Software stellt sicher, dass der Anwender sich vor der Signierung die originären Daten des PDF/A mulars visualisieren lassen kann.
+Die Software stellt sicher, dass der Anwender sich vor der Signierung die originären Daten des PDF/A-For- mulars visualisieren lassen kann.
 
 **Begründung:**
 
-Aufgrund bundesmantelvertraglicher Vorgaben ist der Einsatz der Signatur im Rahmen der Erstellung digita- ler Formulare notwendig. Der Anwender muss dabei durch die Software in die Lage versetzt werden, sich  die zu signierenden Inhalte des digitalen Formular gen zu lassen.
+Aufgrund bundesmantelvertraglicher Vorgaben ist der Einsatz der Signatur im Rahmen der Erstellung digita- ler Formulare notwendig. Der Anwender muss dabei durch die Software in die Lage versetzt werden, sich  die zu signierenden Inhalte des digitalen Formulars vollständig in einer einheitlichen Art und Weise anzei- gen zu lassen.
 
 **Akzeptanzkriterium:**
 
-1. Der Anwender hat im Rahmen der Einzelsignatur die Möglichkeit, sich das zu signierende PDF/A anzeigen zulassen.
-
-SEITE 14 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-versendende digitale PDF/A-Muster entsprechend den
-
--Muster eine der folgenden Signaturvarianten -Muster  -Muster
-
-s vollständig in einer einheitlichen Art und Weise anzei-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
--Ä Anlage 2b § 2 Abs. 4 sowie
-
-ge-
-
--For-
-
--Muster
+1. Der Anwender hat im Rahmen der Einzelsignatur die Möglichkeit, sich das zu signierende PDF/A-Muster  anzeigen zulassen.
 
 
 ---
 
-2. Der Anwender hat bei der Verwendung der Stapelsignatur die Möglichkeit, sich einzelne PDF/A anzeigen zulassen.
+2. Der Anwender hat bei der Verwendung der Stapelsignatur die Möglichkeit, sich einzelne PDF/A-Muster  anzeigen zulassen.
 
 **Hinweis:**
 
-Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines  Algorithmus einzelne Instanzen anzeigen.
+Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewählten  Algorithmus einzelne Instanzen anzeigen.
 
 **OPTIONALE FUNKTION DIGITALE MUSTER**
 
 **O2-04** Festlegung von LANR und Setzen des Vertragsarztstempels zum Signaturzeitpunkt
 
-Die Software darf zum Zeitpunkt der Anforderung der elektronischen Signatur die im PDF/A legte Lebenslange Arztnummer aktualisieren sowie den Vertragsarztstempel setzen.
+Die Software darf zum Zeitpunkt der Anforderung der elektronischen Signatur die im PDF/A-Muster hinter- legte Lebenslange Arztnummer aktualisieren sowie den Vertragsarztstempel setzen.
 
 **Begründung:**
 
 Um verschiedene Prozesse der Vorbereitung und Ausstellung von digitalen Formularen durch die Mitarbei- ter der Praxis zu unterstützen, muss es möglich sein, dass zum Zeitpunkt der Ausstellung die korrekten Da- ten der ausstellenden Person im PDF/A-Muster gesetzt werden bzw. gesetzt werden können.
 
-Für eine valide Verordnung müssen die im PDF/A identisch mit der in der Signatur hinterlegten Person sein.
+Für eine valide Verordnung müssen die im PDF/A-Muster hinterlegten Daten der ausstellenden Person  identisch mit der in der Signatur hinterlegten Person sein.
 
 **Akzeptanzkriterium:**
 
-1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß  1.a) die im digitalen PDF/A-Muster hinterlegte Lebenslange Arztnummer (0000_LebenslangeArztnum- mer) und den Vertragsarztstempel (0000_Vertragsarztstempel „0000_Vertragsarztstempel_2“) durch den Anwender zu aktualisieren. a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung dieser Daten der ausstellenden Person im digitalen  PDF/A-Muster ermöglichen.  b) Der Anwender bestätigt die Änderung.  c) Wenn die Bestätigung gemäß Akzeptanzkriterium  angeforderte Signaturvorgang. d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium  wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.  2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der Lebenslangen Arztnummer und des Vertragsarztstempels im digitalen PDF/A ter ohne Einwilligung des Anwenders nicht vornehmen. 3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der  Lebenslangen Arztnummer und des Vertragsarztstempels im digitalen PDF/A a) Auf eine Bestätigung gemäß Akzeptanzkriterium  b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
+1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P2-01 Akzeptanzkriterium  1.a) die im digitalen PDF/A-Muster hinterlegte Lebenslange Arztnummer (0000_LebenslangeArztnum- mer) und den Vertragsarztstempel (0000_Vertragsarztstempel bzw. „0000_Vertragsarztstempel_1“ und  „0000_Vertragsarztstempel_2“) durch den Anwender zu aktualisieren.  a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung dieser Daten der ausstellenden Person im digitalen  PDF/A-Muster ermöglichen.  b) Der Anwender bestätigt die Änderung.   c) Wenn die Bestätigung gemäß Akzeptanzkriterium b) erfolgt, startet im Anschluss automatisch der  angeforderte Signaturvorgang.  d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium b) erfolgt,  wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.   2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der Lebenslangen Arztnummer und des Vertragsarztstempels im digitalen PDF/A-Mus- ter ohne Einwilligung des Anwenders nicht vornehmen.  3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der  Lebenslangen Arztnummer und des Vertragsarztstempels im digitalen PDF/A-Muster anbieten.  a) Auf eine Bestätigung gemäß Akzeptanzkriterium 1.b) kann verzichtet werden.  b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
 
-**2.8 (DATEI-)FORMAT DER DIGITALEN MUSTER**
+**2.8** **(DATEI-)FORMAT DER DIGITALEN MUSTER (PDF/A-2A)**
 
-Für die digitalen Muster wird das Format „PDF/A“ eingesetzt. PDF/A ist in verschiedenen Versionen verfüg- bar. Für digitale Muster wird die Spezifikation PDF/A betten von weiteren Dokumenten nicht gestattet ist.
-
-SEITE 15 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
--Muster hinterlegten Daten der ausstellenden Person
-
-b) erfolgt, startet im Anschluss automatisch der 1.b) kann verzichtet werden.
-
-**(PDF/A-2A)**
-
--2a (siehe [ISO_19005-2]) verwendet, wobei das Ein-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-bzw. „0000_Vertragsarztstempel_1“ und
-
-P2-01 Akzeptanzkriterium -Muster anbieten.
-
--Muster
-
-selbstgewählten -Muster hinter-
-
-b) erfolgt,
-
--Mus-
+Für die digitalen Muster wird das Format „PDF/A“ eingesetzt. PDF/A ist in verschiedenen Versionen verfüg- bar. Für digitale Muster wird die Spezifikation PDF/A-2a (siehe [ISO_19005-2]) verwendet, wobei das Ein- betten von weiteren Dokumenten nicht gestattet ist.
 
 
 ---
 
-**2.9 METADATEN**
+**2.9** **METADATEN**
 
-Entsprechend der PDF/A-Spezifikation sind Metadaten als XMP-Metadatum im Dokument zu führen. Die  Metadaten sind bereits als XMP-Metadaten in den Mustervorlagen, welche die KBV an die Softwareherstel- ler ausgibt, vorhanden. Als Werte sind dabei die in der Sp alte „Standardwert“ angegebenen Einträge ge- setzt.
+Entsprechend der PDF/A-Spezifikation sind Metadaten als XMP-Metadatum im Dokument zu führen. Die  Metadaten sind bereits als XMP-Metadaten in den Mustervorlagen, welche die KBV an die Softwareherstel- ler ausgibt, vorhanden. Als Werte sind dabei die in der Sp
+
+setzt.
 
 Tabelle 1 enthält die Metadaten, welche durch die Softwarehäuser im Rahmen der Implementierung digita- ler Muster befüllt werden müssen. Aufgabe der Softwarehäuser ist es, die Metadaten entsprechend der  Vorgaben im vorliegenden technischen Handbuch zu setzen. Die Vor sind aus der Spalte „Inhalt“ zu entnehmen.
 
-Name
+Name Typ Stan- dard- wert
 
 Anzahl_Zeichen_Titel
 
@@ -1001,19 +704,7 @@ Anzahl_Zeichen_Haus- nummer
 
 Anzahl_Zeichen_Post- leitzahl
 
-Anzahl_Zei- chen_Wohnsitzla- endercode
-
-**Tabelle 1: Vom Softwarehersteller zu pflegende Metadaten**
-
-In Tabelle 2 sind die Metadaten dargestellt, welche durch die KBV gesetzt werden und vom Softwareher- steller nicht geändert werden dürfen.
-
-Name
-
-Formularnummer
-
-SEITE 16 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Typ
+Anzahl_Zei-
 
 | Ganze Zahl |  |
 |---|---|
@@ -1022,54 +713,58 @@ Typ
 
 Zahl (inkl. 0)
 
-Positive ganze  Zahl (inkl. 0)
+Positive ganze 0  Zahl (inkl. 0)
 
-Positive ganze  Zahl (inkl. 0)
+Positive ganze 0  Zahl (inkl. 0)
 
 | Zahl (inkl. 0) |  |
 |---|---|
 | Positive ganze | 0 |
 | Zahl (inkl. 0) |  |
 
-Type
+chen_Wohnsitzla- endercode
 
-Alphanumerisch
+**Tabelle 1: Vom Softwarehersteller zu pflegende Metadaten**
 
-Stan- Inhalt  dard- wert
+In Tabelle 2 sind die Metadaten dargestellt, welche durch die KBV gesetzt werden und vom Softwareher- steller nicht geändert werden dürfen.
 
-Anzahl an Zeichen des Titels (inkl. Leerzeichen und  anderen nicht alphanumerischen Zeichen)
+Name Type
 
-Siehe Kapitel 2.10.5.4 „ P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort “
+Formularnummer Alphanumerisch
 
-Anzahl an Zeichen des Vornamens (inkl. Leerzeichen  und anderen nicht alphanumerischen Zeichen)
-
-Siehe Kapitel 2.10.5.4 „ P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort “
-
-Anzahl an Zeichen des Namenszusatzes (inkl. 0  Leerzeichen und anderen nicht alphanumerischen  Zeichen)
-
-Siehe Kapitel 2.10.5.4 „ P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort “
-
-Anzahl an Zeichen der Hausnummer (inkl. Leerzeichen 0  und anderen nicht alphanumerischen Zeichen)
-
-Siehe Kapitel 2.10.5.6 „ P6: 0000_Straße_Hausnum- mer “
-
-Anzahl an Zeichen der Postleitzahl (inkl. Leerzeichen  und anderen nicht alphanumerischen Zeichen)
-
-Siehe Kapitel 2.10.5.7 „ P7: 0000_Wohnsitzlaender- code_PLZ_Ort “
-
-Anzahl Zeichen des Wohnsitzlaendercodes (inkl.  Leerzeichen und anderen nicht alphanumerischen  Zeichen)
-
-Siehe Kapitel 2.10.5.7 „ P7: 0000_Wohnsitzlaender- code_PLZ_Ort “
-
-Standardwert
-
-Die entsprechende Musternummer
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+alte „Standardwert“ angegebenen Einträge ge-
 
 schriften zum Ändern der Metadaten
 
-Beispiel 06
+Inhalt
+
+Anzahl an Zeichen des Titels (inkl. Leerzeichen und  anderen nicht alphanumerischen Zeichen)
+
+Siehe Kapitel 2.10.5.4 P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort
+
+Anzahl an Zeichen des Vornamens (inkl. Leerzeichen  und anderen nicht alphanumerischen Zeichen)
+
+Siehe Kapitel 2.10.5.4 P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort
+
+Anzahl an Zeichen des Namenszusatzes (inkl.  Leerzeichen und anderen nicht alphanumerischen  Zeichen)
+
+Siehe Kapitel 2.10.5.4 P4: 0000_Titel_Vorname_Na- menszusatz_Vorsatzwort
+
+Anzahl an Zeichen der Hausnummer (inkl. Leerzeichen  und anderen nicht alphanumerischen Zeichen)
+
+Siehe Kapitel 2.10.5.6 P6: 0000_Straße_Hausnum- mer
+
+Anzahl an Zeichen der Postleitzahl (inkl. Leerzeichen  und anderen nicht alphanumerischen Zeichen)
+
+Siehe Kapitel 2.10.5.7 P7: 0000_Wohnsitzlaender- code_PLZ_Ort
+
+Anzahl Zeichen des Wohnsitzlaendercodes (inkl.  Leerzeichen und anderen nicht alphanumerischen  Zeichen)
+
+Siehe Kapitel 2.10.5.7 P7: 0000_Wohnsitzlaender- code_PLZ_Ort
+
+Standardwert Beispiel
+
+Die entsprechende Musternummer 06
 
 
 ---
@@ -1082,25 +777,35 @@ Technische_Version
 
 **Tabelle 2: Unveränderbare Metadaten**
 
-**2.10 FORMULARFELDER**
+Type
 
-Die KBV stellt den Softwarehäusern die PDF-Vorlagen zur Verfügung. Die PDF-Vorlagen enthalten die Dar- stellung der Muster sowie die vordefinierten PDF-Formularfelder. Die Formularfelder besitzen entspre- chende Eigenschaften (z. B.: Formatierung, Bildlauf, nur lesend, Anzahl an sichtbaren Zeichen, ...). Dem PVS  ist es nicht gestattet diese Eigenschaften zu ändern, es sei denn, dies w der Formularfelder im vorliegenden technischen Handbuch erlaubt. Die Positionierungen der einzelnen For- mularfelder sind durch die KBV in der PDF den.
+| Punktgetrennte Gleitkomma- | Der Monat ab dem das Formular gilt. Ana- |
+|---|---|
+| zahl mit vier Nachkommas- | log der konventionellen Vordrucke |
 
-**2.10.1 Technik für die Formulare**
+tellen
+
+Ganzzahlig, nummerisch
+
+**2.10** **FORMULARFELDER**
+
+Die KBV stellt den Softwarehäusern die PDF-Vorlagen zur Verfügung. Die PDF-Vorlagen enthalten die Dar- stellung der Muster sowie die vordefinierten PDF-Formularfelder. Die Formularfelder besitzen entspre- chende Eigenschaften (z. B.: Formatierung, Bildlauf, nur lesend, Anzahl an sichtbaren Zeichen, ...). Dem PVS  ist es nicht gestattet diese Eigenschaften zu ändern, es sei denn, dies w der Formularfelder im vorliegenden technischen Handbuch erlaubt. Die Positionierungen der einzelnen For- mularfelder sind durch die KBV in der PDF-Vorlage vorgegeben und dürfen ebenfalls nicht verändert wer- den.
+
+**2.10.1** **Technik für die Formulare**
 
 Die Formulare sind als sogenannte interaktive Formulare (AcroForms) entsprechend Kapitel 12.7 des PDF 1.7-Standards (siehe [ISO_32000-1]) bzw. Kapitel 6.4 des PDF/A-2-Standards (siehe [ISO_19005-2]) umge- setzt.
 
-**2.10.2 Option „nur lesend“**
+**2.10.2** **Option „nur lesend“**
 
 Alle Formularfelder sind auf „nur lesend“ gesetzt.
 
-**2.10.3 PDF-Feldtypen**
+**2.10.3** **PDF-Feldtypen**
 
-In diesem Abschnitt werden die verschiedenen Arten von Feldern erläutert, die in einem PDF/A men können und für digitale Muster relevant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optio- nen, …) sei auf das Dokument [ ISO_32000-1] verwiesen.
+In diesem Abschnitt werden die verschiedenen Arten von Feldern erläutert, die in einem PDF/A men können und für digitale Muster relevant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optio- nen, …) sei auf das Dokument [ISO_32000-1] verwiesen.
 
 2.10.3.1 Einzeiliges Textfeld
 
-Bei einzeiligen Textfeldern handelt es sich um Felder des Typs Tx, bei denen folgende Optionen gesetzt  sind:
+Bei einzeiligen Textfeldern handelt es sich um Felder des Typs  sind:
 
 Bezeichnung
 
@@ -1120,22 +825,13 @@ RichText
 
 **Tabelle 3: Optionen für einzeilige PDF-Textfelder**
 
-SEITE 17 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Type
-
-| Punktgetrennte Gleitkomma- | Der Monat ab dem das Formular gilt. Ana- |
-|---|---|
-| zahl mit vier Nachkommas- | log der konventionellen Vordrucke |
-
-| tellen |  |
-|---|---|
-| Ganzzahlig, nummerisch | Die für das Muster gültige technische Ver- |
-|  | sionsnummer |
-
 Standardwert
 
--Vorlage vorgegeben und dürfen ebenfalls nicht verändert wer-
+Die für das Muster gültige technische Ver- sionsnummer
+
+urde explizit bei der Beschreibung
+
+**Tx**, bei denen folgende Optionen gesetzt
 
 Wert 0 bzw. nein (false)
 
@@ -1151,15 +847,9 @@ Wert 0 bzw. nein (false)
 
 0 bzw. nein (false)
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-urde explizit bei der Beschreibung
-
 Beispiel 10.2014
 
 2
-
--
 
 -2a vorkom-
 
@@ -1168,7 +858,7 @@ Beispiel 10.2014
 
 Bei Textfeldern wird zwischen der Anzahl an sichtbaren Zeichen und der Anzahl zulässiger Zeichen unter- schieden.
 
-Die Anzahl an sichtbaren Zeichen in einem Textfeld ergibt sich aus der Breite des Feldes sowie der für das  Textfeld definierten Schriftgröße. So können z. B. in einem Textfeld mit einer Breite von 8 cm bei Nutzung  der Schriftart Courier mit Schriftgröße 12 pt 30 Zeichen dargestellt werden. Wird hingegen Schriftgröße 9 pt  in gleichem Setup genutzt, sind 40 Zeichen möglic feldern auch die Anzahl erlaubter Zeichen. Das PVS, welches das digitale Muster erstellt, hat bei der Befül- lung darauf zu achten, dass die maximale Anzahl an Zeichen nicht überschritten wird.
+Die Anzahl an sichtbaren Zeichen in einem Textfeld ergibt sich aus der Breite des Feldes sowie der für das  Textfeld definierten Schriftgröße. So können z. B. in einem Textfeld mit einer Breite von 8 cm bei Nutzung  der Schriftart Courier mit Schriftgröße 12 pt 30 Zeichen dargestellt werden. Wird hingegen Schriftgröße 9 pt  in gleichem Setup genutzt, sind 40 Zeichen möglich. Neben der Anzahl sichtbarer Zeichen gibt es bei Text- feldern auch die Anzahl erlaubter Zeichen. Das PVS, welches das digitale Muster erstellt, hat bei der Befül- lung darauf zu achten, dass die maximale Anzahl an Zeichen nicht überschritten wird.
 
 Zusätzlich muss das erstellende PVS sicherstellen, dass es Inhalte bis zur erlaubten Anzahl an Zeichen in das  PDF-Formularfeld einfügen kann, auch wenn die Anzahl der angezeigten Zeichen kleiner ist.
 
@@ -1178,60 +868,44 @@ Die Textfelder sind ohne Rahmen und Hintergrundfarbe auf dem digitalen Muster ge
 
 Es ist dem erstellenden und lesenden PVS nicht gestattet, diese Optionen zu ändern. Es sei denn, dies ist  explizit im vorliegenden technischen Handbuch erlaubt.
 
-2.10.3.2
+2.10.3.2 Mehrzeiliges Textfeld
 
-Mehrzeilige Textfelder sind den einzeiligen Textfeldern, wie in Kapitel  die verschiedenen Arten von Feldern erläutert, die in einem PDF/A Muster relevant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optionen, …) sei auf das Dokument  [ISO_32000-1] verwiesen.
+Mehrzeilige Textfelder sind den einzeiligen Textfeldern, wie in Kapitel 2.10.3.1 In diesem Abschnitt werden  die verschiedenen Arten von Feldern erläutert, die in einem PDF/A-2a vorkommen können und für digitale  Muster relevant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optionen, …) sei auf das Dokument  [ISO_32000-1] verwiesen.
 
-Einzeiliges Textfeld “ beschrieben, ähnlich. Der Unterschied zu einzeiligen Textfeldern besteht darin, dass  die Option Multiline gesetzt ist.
+Einzeiliges Textfeld“ beschrieben, ähnlich. Der Unterschied zu einzeiligen Textfeldern besteht darin, dass  die Option **Multiline** gesetzt ist.
 
-2.10.3.3
+2.10.3.3 Ankreuzfeld
 
-Ankreuzfelder sind entsprechend der PDF-Spezifikation (siehe [ISO_32000-1] Kapitel 12.7.4.2.3) vom Typ  **Btn. Die Optionen Radio und Pushbutton sind nicht gesetzt.**
+Ankreuzfelder sind entsprechend der PDF-Spezifikation (siehe [ISO_32000-1] Kapitel 12.7.4.2.3) vom Typ  **Btn.** Die Optionen **Radio** und **Pushbutton** sind nicht gesetzt.
 
 Als Stil der Felder ist die Option „Kreuz“ bzw. „Quadrat“ gesetzt.
 
-Ankreuzfelder werden in einem PDF
+Ankreuzfelder werden in einem PDF-Viewer wie folgt dargestellt:
 
-(Option „Kreuz“) oder (Option „Quadrat“).
+(Option „Kreuz“) oder  (Option „Quadrat“).
 
 **Abbildung 2: Beispiel Ankreuzfeld**
 
-**2.10.4**
+**2.10.4** **Logische Feldkonzepte**
 
-Aufbauend auf den durch den PDF-Standard und im Kapitel 2.10.3 „ PDF-Feldtypen “ eingeführten PDF -For- mularfeldtypen werden im Rahmen der digitalen Muster die nachfolgenden logischen Feldkonzepte defi- niert. Logische Feldkonzepte umfassen dabei eine Feldspezifikation, die an verschiedenen Stellen der Spezi- fikation der Muster eingesetzt wird.
-
-SEITE 18 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Mehrzeiliges Textfeld
-
-Ankreuzfeld
-
-**Logische Feldkonzepte**
-
--Viewer wie folgt dargestellt:
-
-h. Neben der Anzahl sichtbarer Zeichen gibt es bei Text-
-
-2.10.3.1 „ In diesem Abschnitt werden  -2a vorkommen können und für digitale
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Aufbauend auf den durch den PDF-Standard und im Kapitel 2.10.3 PDF-Feldtypen“ eingeführten PDF-For- mularfeldtypen werden im Rahmen der digitalen Muster die nachfolgenden logischen Feldkonzepte defi- niert. Logische Feldkonzepte umfassen dabei eine Feldspezifikation, die an verschiedenen Stellen der Spezi- fikation der Muster eingesetzt wird.
 
 
 ---
 
-2.10.4.1
+2.10.4.1 Datumsfelder
 
-Datumsfelder sind einzeilige Textfelder (siehe Kapitel  nen Arten von Feldern erläutert, die in einem PDF/A vant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optionen, …) sei auf das Dokument [ ISO_32000- 1] verwiesen.
+Datumsfelder sind einzeilige Textfelder (siehe Kapitel 2.10.3.1 In diesem Abschnitt werden die verschiede- nen Arten von Feldern erläutert, die in einem PDF/A-2a vorkommen können und für digitale Muster rele- vant sind. Für weitere Erläuterungen (zu Begriffen, Typen, Optionen, …) sei auf das Dokument [ISO_32000- 1] verwiesen.
 
-Einzeiliges Textfeld “) und bestehen immer aus zwei durch Leerzeichen getrennten Teilen:
+Einzeiliges Textfeld“) und bestehen immer aus zwei durch Leerzeichen getrennten Teilen:
 
 1. sichtbarer Teil des Datums  2. maschinenlesbarer Teil des Datums
 
-Das erstellende PVS hat bei der Befüllung des Formulars das PDF zusammenzusetzen. Die beiden Teile sind durch Leerzeichen getrennt.
+Das erstellende PVS hat bei der Befüllung des Formulars das PDF-Formularfeld aus den beiden o. g. Teilen  zusammenzusetzen. Die beiden Teile sind durch Leerzeichen getrennt.
 
 Die Formate für den sichtbaren und maschinenlesbaren Teil werden in der Spezifikation des jeweiligen Fel- des definiert.
 
-Das auslesende PVS hat bei der Verarbeitung des Formulars mit dem zweiten (maschinenlesbaren) Teil des  Datumsfeldes das korrekte Datum aus dem
+Das auslesende PVS hat bei der Verarbeitung des Formulars mit dem zweiten (maschinenlesbaren) Teil des  Datumsfeldes das korrekte Datum aus dem ersten (sichtbaren) Teil zu ermitteln.
 
 Ein Beispiel für das Geburtsdatum:
 
@@ -1241,80 +915,165 @@ Das erstellende PVS hat das Feld „3103_Geburtsdatum“ wie folgt zu füllen: 0
 
 Das auslesende PVS liest aus dem Feld „3103_Geburtsdatum“ die beiden Teile „02.03.16“ sowie  „20160302“ aus und kann aus beiden Teilen das Datum ermitteln und weiter nutzen.
 
-2.10.4.2
+2.10.4.2 Felder mit variablem Inhalt
 
-Bei diesen Feldern handelt es sich um ein namische Anpassung der maximal möglichen Anzahl an Zeichen erfordern und bei denen die Anzahl der  sichtbaren Zeichen gleich der Anzahl der erlaubten  des sichtbar ist.
+Bei diesen Feldern handelt es sich um ein- oder mehrzeilige Textfelder, die aufgrund ihres Inhaltes eine dy- namische Anpassung der maximal möglichen Anzahl an Zeichen erfordern und bei denen die Anzahl der  sichtbaren Zeichen gleich der Anzahl der erlaubten Zeichen sein muss, so dass der gesamte Inhalt des Fel- des sichtbar ist.
 
-Um diese Anforderung abzubilden, ist eine bestimmte Anzahl verschiedener Schriftgrößen für ein bestimm- tes Feld erlaubt. Bei der Spezifikation eines Feldes mit variablem Inhalt gibt eine Tabelle Aufschluss dar- über, bei welcher Schriftgröße wie viele sichtba warehersteller ist es gestattet, die Schriftgröße des Feldes auf einen in dieser Tabelle angegebenen Wert in  Abhängigkeit des Platzbedarfs des einzufügenden Textes zu setzen. Dabei soll jeweils die Schriftgröße verwendet werden. Sollten in der entsprechenden Tabelle die Spalten „Anzahl Zeichen pro  Zeile“ sowie „Anzahl Zeilen“ in einer solchen Tabelle vorhanden sein, dann dienen diese als Hinweis für die  Softwarehersteller zur Formatierung der in das Feld einzutragenden Zeichenketten. is des Feldes darauf zu achten, dass nicht mehr Zeichen pro Zeile eingetragen werden, als in der Spalte „An- zahl Zeichen pro Zeile“ angegeben sind. Zudem ist ein Zeilenende beim Erstellen mit einem Zeilenumbruch  zu kennzeichnen. Der Zeilenumbruch wird bei der Berechnung der zulässigen Zeichenanzahl nicht mit be- achtet. So hat zum Beispiel die Zeile: „0123 456789\r\ n“ nur 10 Zeichen.
+Um diese Anforderung abzubilden, ist eine bestimmte Anzahl verschiedener Schriftgrößen für ein bestimm- tes Feld erlaubt. Bei der Spezifikation eines Feldes mit variablem Inhalt gibt eine Tabelle Aufschluss dar- über, bei welcher Schriftgröße wie viele sichtbare und erlaubte Zeichen in dem Feld zulässig sind. Dem Soft- warehersteller ist es gestattet, die Schriftgröße des Feldes auf einen in dieser Tabelle angegebenen Wert in  Abhängigkeit des Platzbedarfs des einzufügenden Textes zu setzen. Dabei soll jeweils die größtmögliche  Schriftgröße verwendet werden. Sollten in der entsprechenden Tabelle die Spalten „Anzahl Zeichen pro  Zeile“ sowie „Anzahl Zeilen“ in einer solchen Tabelle vorhanden sein, dann dienen diese als Hinweis für die  Softwarehersteller zur Formatierung der in das Feld einzutragenden Zeichenketten. ist bei der Befüllung  des Feldes darauf zu achten, dass nicht mehr Zeichen pro Zeile eingetragen werden, als in der Spalte „An- zahl Zeichen pro Zeile“ angegeben sind. Zudem ist ein Zeilenende beim Erstellen mit einem Zeilenumbruch  zu kennzeichnen. Der Zeilenumbruch wird bei der Berechnung der zulässigen Zeichenanzahl nicht mit be- achtet. So hat zum Beispiel die Zeile: „0123456789\r\n“ nur 10 Zeichen.
 
 Die betreffenden Felder werden von der KBV mit einer Standardschriftgröße von 12 pt an die Softwareher- steller ausgeliefert.
 
-**2.10.5**
+**2.10.5** **Personalienfeld**
 
 Das Personalienfeld ist, sofern auf dem Muster vorhanden, immer gleich aufgebaut und wird aus diesem  Grund gesondert beschrieben.
-
-SEITE 19 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Datumsfelder
-
-Felder mit variablem Inhalt
-
-**Personalienfeld**
-
-2.10.3.1 „ In diesem Abschnitt werden die verschiede- -2a vorkommen können und für digitale Muster rele-
-
-ersten (sichtbaren) Teil zu ermitteln.
-
-- oder mehrzeilige Textfelder, die aufgrund ihres Inhaltes eine dy-
-
-Zeichen sein muss, so dass der gesamte Inhalt des Fel-
-
-re und erlaubte Zeichen in dem Feld zulässig sind. Dem Soft-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
--Formularfeld aus den beiden o. g. Teilen
-
-größtmögliche
-
-t bei der Befüllung
 
 
 ---
 
-| Abbildung | 3: | Formularfelder | des | Personalienfeldes |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| NR. |  |  | FORMULARFELDBEZEICHNUNG | |  | FORMULARFELDTYP | 1 | ANGEZEIGTE | ANZAHL |  | FORMATIE- |
-|  |  |  |  |  |  |  | ANZAHL | AN | ERLAUB- | RUNG |  |
-|  |  |  |  |  |  |  | ZEICHEN |  | TER |  |  |
-|  |  |  |  |  |  |  |  |  | ZEICHEN |  |  |
-| P1 |  | 4134_Kostentraegername | |  | Einzeiliges | Textfeld | 24 |  | 45 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P2 |  | 3116_WOP |  |  | Einzeiliges | Textfeld | 2 |  | 2 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | rechtsbündig |
-| P3 |  | 3101_Name |  |  | Einzeiliges | Textfeld | 30 |  | 45 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P4 |  |  | 0000_Titel_Vorname_Namens- | | Einzeiliges | Textfeld | 21 |  | 108 | Courier | 12 pt, |
-|  |  | zusatz_Vorsatzwort | |  |  |  |  |  |  |  | linksbündig |
-| P5 |  | 3103_Geburtsdatum | |  | Einzeiliges | Textfeld | 8 |  | 17 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P6 |  |  | 0000_Straße_Hausnummer |  | Einzeiliges | Textfeld | 30 |  | 77 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P7 |  | 0000_Wohnsitzlaender- | |  | Einzeiliges | Textfeld | 24 |  | 55 | Courier | 12 pt, |
-|  |  | code_PLZ_Ort |  |  |  |  |  |  |  |  | linksbündig |
-| P8 |  |  | 4110_VersicherungsschutzEnde | | Einzeiliges | Textfeld | 5 |  | 14 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P9 |  |  | 4111_Kostentraegerkennung | | Einzeiliges | Textfeld | 9 |  | 9 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P10 |  | 3119_Versicherten_ID | |  | Einzeiliges | Textfeld | 12 |  | 12 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-| P11 |  | 3108_Versichertenart | |  | Einzeiliges | Textfeld | 1 |  | 1 | Courier | 12 pt, |
-|  |  |  |  |  |  |  |  |  |  |  | linksbündig |
-|  | ________________ | |  |  |  |  |  |  |  |  |  |
-| 1 Siehe | Kapitel | 2.10.3 „ | PDF-Feldtypen “ |  |  |  |  |  |  |  |  |
-| SEITE | 20 VON | 102 / KBV | / | TECHNISCHES HANDBUCH | DIGITALE | VORDRUCKE | / 9. FEBRUAR | 2026 / | VERSION: 2.31 |  |  |
+**Abbildung 3: Formularfelder des Personalienfeldes**
 
-Abbildung 3: Formularfelder des Personalienfeldes  Siehe Kapitel 2.10.3 „ PDF-Feldtypen “ SEITE 20 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld Einzeiliges Textfeld   /  9. FEBRUAR 2026  /  VERSION: 2.31 ANZAHL AN  Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt,
+**NR.**
+
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+P6
+
+P7
+
+P8
+
+P9
+
+P10
+
+P11 1 Siehe Kapitel 2.10.3
+
+**FORMULARFELDBEZEICHNUNG**
+
+4134_Kostentraegername
+
+3116_WOP
+
+3101_Name
+
+0000_Titel_Vorname_Namens- zusatz_Vorsatzwort 3103_Geburtsdatum
+
+0000_Straße_Hausnummer
+
+0000_Wohnsitzlaender- code_PLZ_Ort 4110_VersicherungsschutzEnde
+
+4111_Kostentraegerkennung
+
+3119_Versicherten_ID
+
+3108_Versichertenart
+
+PDF-Feldtypen
+
+**1FORMULARFELDTYP**
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+Einzeiliges Textfeld
+
+**ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+
+24
+
+2
+
+30
+
+21
+
+8
+
+30
+
+24
+
+5
+
+9
+
+12
+
+1
+
+**ANZAHL**  **ERLAUB-** **TER**  **ZEICHEN**
+
+45
+
+2
+
+45
+
+108
+
+17
+
+77
+
+55
+
+14
+
+9
+
+12
+
+1
+
+**FORMATIE-** **RUNG**
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  rechtsbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
 
 ---
 
@@ -1322,17 +1081,21 @@ Abbildung 3: Formularfelder des Personalienfeldes  Siehe Kapitel 2.10.3 „ PDF-
 
 P12
 
-P13
+**FORMULARFELDBEZEICHNUNG**
 
-P14
+4131_BesonderePersonen- gruppe
 
-P15
+P13 4132_DMP_Kennzeichnung
 
-P16
+P14 0000_Druckposition29
 
-P17
+P15 0000_weitere_Kennzeichen
 
-P18
+P16 0000_Betriebsstaettennummer
+
+P17 0000_LebenslangeArztnummer
+
+P18 4102_Ausstellungsdatum
 
 **Tabelle 4: Formularfelder des Personalienfeldes**
 
@@ -1340,35 +1103,15 @@ In den folgenden Kapiteln werden die erlaubten Inhalte für die einzelnen Felder
 
 Sofern in den nachfolgenden Kapiteln auf die Krankenversichertenkarte (KVK) abgestellt wird, handelt es  sich um die Krankenversichertenkarten, deren Nutzung zwischen Kassenärztlicher Bundesvereinigung und  sonstigen Einrichtungen außerhalb der Gesetzlichen
 
-In der Regel enthält das Personalienfeld die Informationen aus der elektronischen Gesundheitskarte (eGK).  Darüber hinaus können die Inhalte des Personalienfeldes auch aus anderen Quellen befüllt werden, wie z.  B. aus dem Ersatzverfahren oder bei sonstigen  karte (KVK). Die verschiedenen Quellen für das Personalienfeld werden im vorliegenden technischen Hand- buch nicht differenziert betrachtet. Die Referenzierung von Inhalten erfolgt nach dem Muster „/Nach- name/“. Damit ist gemeint, dass das entsprechende Feld im PDF -Formular mit dem entsprechenden Feld  der eGK bzw. aus einer anderen Quelle befüllt wird. Zum Beispiel würde beim Einsatz der eGK das PDF mularfeld „3101_Name“ mit dem Inhalt Feld „EF.PD/Perso KVK würde das PDF- Formularfeld „3101_Name“ mit dem Inhalt des Feldes „Familienname“ befüllt werden.  In der Beschreibung des Feldes wird für beides der Bezeichner „/Nachname/“ genutzt.
+In der Regel enthält das Personalienfeld die Informationen aus der elektronischen Gesundheitskarte (eGK).  Darüber hinaus können die Inhalte des Personalienfeldes auch aus anderen Quellen befüllt werden, wie z.  B. aus dem Ersatzverfahren oder bei sonstigen  karte (KVK). Die verschiedenen Quellen für das Personalienfeld werden im vorliegenden technischen Hand- buch nicht differenziert betrachtet. Die Referenzierung von Inhalten erfolgt nach dem Muster „/Nach- name/“. Damit ist gemeint, dass das entsprechende Feld im PDF der eGK bzw. aus einer anderen Quelle befüllt wird. Zum Beispiel würde beim Einsatz der eGK das PDF mularfeld „3101_Name“ mit dem Inhalt Feld „EF.PD/Perso KVK würde das PDF-Formularfeld „3101_Name“ mit dem Inhalt des Feldes „Familienname“ befüllt werden.  In der Beschreibung des Feldes wird für beides der Bezeichner „/Nachname/“ genutzt.
 
-Für die digitalen Muster gelten grundsätzlich die Regelungen aus der konventionellen Bedruckung. Es gel- ten insbesondere die technische Anlage zur Anlage 4a (siehe [ KVDT-Anforderungskatalog (siehe [ an entsprechender Stelle im vorliegenden technischen Handbuch erweitert.
+Für die digitalen Muster gelten grundsätzlich die Regelungen aus der konventionellen Bedruckung. Es gel- ten insbesondere die technische Anlage zur Anlage 4a (siehe [ KVDT-Anforderungskatalog (siehe [KBV_ITA_VGEX_Anforderungskatalog_KVDT an entsprechender Stelle im vorliegenden technischen Handbuch erweitert.
 
-2.10.5.1
+2.10.5.1 P1: 4134_Kostentraegername
 
-In das Feld „ P1: 4134_Kostentraegername “ ist die Information einzutragen, welche bei der konventionellen  Bedruckung in Zeile 1, Position 1 bis 24 des Personalienfeldes gedruckt wird. Sollte die Information mehr als  24 Zeichen lang sein, erfolgt - im Gegensatz zur konventionellen bzw. Blankoform Kürzung. In der Regel ist der Bedruckungsname aus der Kostenträgerstammdatei entsprechend Pflichtfunk- tion P2-210 Punkt 5 aus dem KVDT-Anforderungskatalog (siehe [ log_KVDT]) zu verwenden.
+In das Feld „P1: 4134_Kostentraegername Bedruckung in Zeile 1, Position 1 bis 24 des Personalienfeldes gedruckt wird. Sollte die Information mehr als  24 Zeichen lang sein, erfolgt - im Gegensatz zur konventionellen bzw. Blankoform Kürzung. In der Regel ist der Bedruckungsname aus der Kostenträgerstammdatei entsprechend Pflichtfunk- tion P2-210 Punkt 5 aus dem KVDT-Anforderungskatalog (siehe [ log_KVDT]) zu verwenden.
 
-SEITE 21 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**FORMULARFELDBEZEICHNUNG**
-
-4131_BesonderePersonen- gruppe
-
-4132_DMP_Kennzeichnung
-
-0000_Druckposition29
-
-0000_weitere_Kennzeichen
-
-0000_Betriebsstaettennummer
-
-0000_LebenslangeArztnummer
-
-4102_Ausstellungsdatum
-
-P1: 4134_Kostentraegername
-
-**FORMULARFELDTYP**
+**1FORMULARFELDTYP**
 
 Einzeiliges Textfeld
 
@@ -1383,14 +1126,18 @@ Einzeiliges Textfeld
 Einzeiliges Textfeld
 
 Einzeiliges Textfeld
-
-KBV_ITA_VGEX_Anforderungskatalog_KVDT
-
-Kostenträgern durch den Einsatz der Krankenversicherten-
 
 Krankenversicherung vereinbart wurde.
 
-**1** **ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+Kostenträgern durch den Einsatz der Krankenversicherten-
+
+n//Nachname“ befüllt werden. Beim Einsatz der
+
+KBV_ITA_VGEX_Mapping_KVK]) und der
+
+“ ist die Information einzutragen, welche bei der konventionellen
+
+**ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
 
 2
 
@@ -1406,13 +1153,9 @@ Krankenversicherung vereinbart wurde.
 
 8
 
-n//Nachname“ befüllt werden. Beim Einsatz der
-
-KBV_ITA_VGEX_Mapping_KVK]) und der
+-Formular mit dem entsprechenden Feld
 
 KBV_ITA_VGEX_Anforderungskata-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 **ANZAHL**  **ERLAUB-** **TER**  **ZEICHEN**
 
@@ -1453,410 +1196,266 @@ Courier 12 pt,  linksbündig -For-
 
 ---
 
-2.10.5.2
+2.10.5.2 P2: 3116_WOP
 
-In das Feld „ P2: 3116_WOP “ ist die Information einzutragen, welche bei der konventionellen Bedruckung in  Zeile 1, Position 29 und 30 des Personalienfeldes gedruckt wird. In der Regel beinhaltet es den Inhalt des  Feldes /WOP/ aus der eGK oder KVK.
+In das Feld „P2: 3116_WOP“ ist die Information einzutragen, welche bei der konventionellen Bedruckung in  Zeile 1, Position 29 und 30 des Personalienfeldes gedruckt wird. In der Regel beinhaltet es den Inhalt des  Feldes /WOP/ aus der eGK oder KVK.
 
-2.10.5.3
+2.10.5.3 P3: 3101_Name
 
-In das Feld „ P3: 3101_Name “ ist die Information einzutragen, welche bei der konventionellen Bedruckung  in Zeile 2, Position 1 bis 30 des Personalienfeldes gedruckt wird. Sollte die Information mehr als 30 Zeichen  lang sein, erfolgt - im Gegensatz zur konventionellen bzw. Blankoform der Regel enthält es den Inhalt des Feldes /Nachname/ aus der eGK bzw. KVK. Der Feldinhalt ist in vollstän- diger Länge zu übernehmen.
+In das Feld „P3: 3101_Name“ ist die Information einzutragen, welche bei der konventionellen Bedruckung  in Zeile 2, Position 1 bis 30 des Personalienfeldes gedruckt wird. Sollte die Information mehr als 30 Zeichen  lang sein, erfolgt - im Gegensatz zur konventionellen bzw. Blankoformular-Bedruckung - keine Kürzung. In  der Regel enthält es den Inhalt des Feldes /Nachname/ aus der eGK bzw. KVK. Der Feldinhalt ist in vollstän- diger Länge zu übernehmen.
 
-2.10.5.4
+2.10.5.4 P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort
 
-In das PDF- Formularfeld „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “ ist die Information einzu- tragen, welche bei der konventionellen Bedruckung in Zeile 3, Position 1 bis 21 des Personalienfeldes ge- druckt wird. Sollte die Information mehr als 21 Zeichen lang sein, erfolgt  len bzw. Blankoformular-Bedruckung - keine Kürzung. Zusätzlich sind die in  daten zu füllen. In der Regel ergibt sich der Inhalt aus der Kombination der folgenden eGK der:
+In das PDF-Formularfeld „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort“ ist die Information einzu- tragen, welche bei der konventionellen Bedruckung in Zeile 3, Position 1 bis 21 des Personalienfeldes ge- druckt wird. Sollte die Information mehr als 21 Zeichen lang sein, erfolgt - im Gegensatz zur konventionel- len bzw. Blankoformular-Bedruckung - keine Kürzung. Zusätzlich sind die in Tabelle 5 dargestellten Meta- daten zu füllen. In der Regel ergibt sich der Inhalt aus der Kombination der folgenden eGK- bzw. KVK-Fel- der:
 
 1. /Titel/  2. /Vorname/  3. /Namenszusatz/  4. /Vorsatzwort/
 
-Bei der Erstellung des Feldinhaltes für das Formularfeld „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatz- wort “ werden die oben genannten Kartenfelder in der dargestellten Reihenfolge, durch Leerzeichen ge- trennt, aufgelistet. Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „ P4:  0000_Titel_Vorname_Namenszusatz_Vorsatzwort “ nicht mit einem Trennleerzeichen beginnt oder endet  und auch nicht zwei aufeinanderfolgende Trennleerzeichen beinhaltet. Zusätzlich dazu werden die folgen- den Metadaten-Attribute (siehe Kapitel „ 2.9 Metadaten “) der PDF-Datei wie nachstehend verwendet:
+Bei der Erstellung des Feldinhaltes für das Formularfeld „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatz- wort“ werden die oben genannten Kartenfelder in der dargestellten Reihenfolge, durch Leerzeichen ge- trennt, aufgelistet. Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „P4:  0000_Titel_Vorname_Namenszusatz_Vorsatzwort“ nicht mit einem Trennleerzeichen beginnt oder endet  und auch nicht zwei aufeinanderfolgende Trennleerzeichen beinhaltet. Zusätzlich dazu werden die folgen- den Metadaten-Attribute (siehe Kapitel 2.9 Metadaten ) der PDF-Datei wie nachstehend verwendet:
 
-Meta-Datum
+Meta-Datum Vorschrift zum Setzen
 
-Anzahl_Zeichen_Vorname
+Anzahl_Zeichen_Vorname Es wird die Anzahl an Zeichen des Feldes /Vorname/ angegeben. Die  Anzahl null bedeutet, dass das Feld /Vorname/ leer ist. Leerzeichen  oder andere nicht alphanumerische Zeichen innerhalb von /Vorname/  werden als Zeichen mitgezählt. Die Leerzeichen zum Trennen von /Ti- tel/, /Vorname/ und /Namenszusatz/ werden nicht mitgezählt. So be- steht z. B. der Name „Müller Schulze“ aus 14 Zeichen. Der Name „Mül- ler-Schulze“ besteht ebenfalls aus 14 Zeichen.
 
-Anzahl_Zeichen_Namenszusatz
+Anzahl_Zeichen_Namenszusatz Analog zu Anzahl_Zeichen_Vorname mit dem Feld /Namenszusatz/
 
-Anzahl_Zeichen_Titel
+Anzahl_Zeichen_Titel Analog zu Anzahl_Zeichen_Vorname mit dem Feld /Titel/
 
 **Tabelle 5: Metadaten zum Feld P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort**
 
-Beim Auslesen des Formularfeldes „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “ können die ur- sprünglichen Inhalte der Kartenfelder wiederhergestellt werden. Dazu ist das PDF 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “ unter Zuhilfenahme der Angaben aus Tabelle 5 in die  ursprünglichen Kartenfeldinhalte aufzuteilen.
+Beim Auslesen des Formularfeldes „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort“ können die ur- sprünglichen Inhalte der Kartenfelder wiederhergestellt werden. Dazu ist das PDF Formularfeld „P4:  0000_Titel_Vorname_Namenszusatz_Vorsatzwort“ unter Zuhilfenahme der Angaben aus Tabelle 5 in die  ursprünglichen Kartenfeldinhalte aufzuteilen.
 
 Das folgende Beispiel soll dies verdeutlichen:
 
 Auf der eGK sind die folgenden Informationen gespeichert:
 
-SEITE 22 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-P2: 3116_WOP
-
-P3: 3101_Name
-
-P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort
-
-Vorschrift zum Setzen
-
-Es wird die Anzahl an Zeichen des Feldes /Vorname/ angegeben. Die  Anzahl null bedeutet, dass das Feld /Vorname/ leer ist. Leerzeichen  oder andere nicht alphanumerische Zeichen innerhalb von /Vorname/  werden als Zeichen mitgezählt. Die Leerzeichen zum Trennen von /Ti- tel/, /Vorname/ und /Namenszusatz/ werden nicht mitgezählt. steht z. B. der Name „Müller Schulze“ aus 14 Zeichen. Der Name „Mül- ler- Schulze“ besteht ebenfalls aus 14 Zeichen.
-
-Analog zu Anzahl_Zeichen_Vorname mit dem Feld /Namenszusatz/
-
-Analog zu Anzahl_Zeichen_Vorname mit dem Feld /Titel/
-
-ular-Bedruckung - keine Kürzung. In
-
-- im Gegensatz zur konventionel- Tabelle 5 dargestellten Meta-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 - Formularfeld „ P4:
-
-- bzw. KVK-Fel-
-
-So be-
-
 
 ---
 
-› Titel = Prof. Dr.  › Vorname = Max Moritz Wilhelm › Namenszusatz = Graf Freiherr  › Vorsatzwort = von und zu
+Titel = Prof. Dr.  Vorname = Max Moritz Wilhelm  Namenszusatz = Graf Freiherr  Vorsatzwort = von und zu
 
-Beim Erstellen des PDF-Formulars erzeugt das PVS folgenden Inhalt für das PDF tel_Vorname_Namenszusatz_Vorsatzwort “:
+Beim Erstellen des PDF-Formulars erzeugt das PVS folgenden Inhalt für das PDF tel_Vorname_Namenszusatz_Vorsatzwort
 
 Prof. Dr. Max Moritz Wilhelm Graf Freiherr von und zu
 
 Zusätzlich setzt das PVS folgende Metadaten:
 
-› Anzahl_Zeichen_Titel: 9  › Anzahl_Zeichen_Vorname: 18  › Anzahl_Zeichen_Namenszusatz: 13
+Anzahl_Zeichen_Titel: 9  Anzahl_Zeichen_Vorname: 18  Anzahl_Zeichen_Namenszusatz: 13
 
-Beim Auslesen des Formulars würde das auslesende PVS den Inhalt des PDF tel_Vorname_Namenszusatz_Vorsatzwort “ anhand der in den Metadaten angegebenen Zeichenanzahl wie  folgt rekonstruieren:
+Beim Auslesen des Formulars würde das auslesende PVS den Inhalt des PDF tel_Vorname_Namenszusatz_Vorsatzwort“ anhand der in den Metadaten angegebenen Zeichenanzahl wie  folgt rekonstruieren:
 
-› Titel=1. bis 9. Zeichen des Inhaltes von „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “  › Vorname = 11. bis 28. Zeichen des Inhaltes von „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “  › Namenszusatz = 30. bis. 42. Zeichen des Inhaltes von „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatz- wort “  › Vorsatzwort = Rest ab dem 44. Zeichen des Inhaltes von „ P4: 0000_Titel_Vorname_Namenszusatz_Vor- satzwort “
+Titel=1. bis 9. Zeichen des Inhaltes von „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort Vorname = 11. bis 28. Zeichen des Inhaltes von „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort Namenszusatz = 30. bis. 42. Zeichen des Inhaltes von „P4: 0000_Titel_Vorname_Namenszusatz_Vorsatz- wort  Vorsatzwort = Rest ab dem 44. Zeichen des Inhaltes von „P4: 0000_Titel_Vorname_Namenszusatz_Vor- satzwort 2.10.5.5 P5: 3103_Geburtsdatum
 
-2.10.5.5
+Das PDF-Formularfeld „P5: 3103_Geburtsdatum“ ist ein Datumsfeld entsprechend der Definition aus Kapi- tel 2.10.4.1 Datumsfelder
 
-Das PDF- Formularfeld „ P5: 3103_Geburtsdatum “ ist ein Datumsfeld entsprechend der Definition aus Kapi- tel 2.10.4.1 „ Datumsfelder “.
+Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 3, Position 23 bis 30 des Personalienfeldes steht. In der Regel ist dies der Inhalt des Kartenfeldes /Ge- burtsdatum/ in der Form *TT.MM.JJ*. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl zu nut- zen.
 
-Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 3, Position 23 bis 30 des Personalienfeldes steht. In der Regel ist dies der Inhalt des Kartenfeldes /Ge- burtsdatum/ in der Form TT.MM.JJ. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl zu nut- zen.
-
-Der Inhalt des nur maschinenlesbaren Teils entspricht dem Geburtsdatum in der Form JJJJMMTT.
+Der Inhalt des nur maschinenlesbaren Teils entspricht dem Geburtsdatum in der Form
 
 Sowohl im sichtbaren als auch rein maschinenlesbaren Teil werden bei einstelligen Tages gaben führende Nullen gesetzt.
 
-2.10.5.6
+2.10.5.6 P6: 0000_Straße_Hausnummer
 
-Falls eine Postfachadresse angegeben werden soll, so ergibt sich der Feldinhalt für das PDF „ P6: 0000_Straße_Hausnummer “ aus der Kombination der folgenden Felder:
-
-1. „Postfach“ 2. /Postfach/
+Falls eine Postfachadresse angegeben werden soll, so ergibt sich der Feldinhalt für das PDF P6: 0000_Straße_Hausnummer“ aus der Kombination der folgenden Felder: 21. „Postfach“  2. /Postfach/
 
 Die genannten Inhalte werden in der dargestellten Reihenfolge, durch Leerzeichen getrennt, aufgelistet.
 
-Falls eine Straßenadresse angegeben werden soll, ergibt sich der Inhalt des PDF 0000_Straße_Hausnummer “ aus der Kombination der folgenden Felder: 1. /Straße/ (ggf. gekürzt)
+Falls eine Straßenadresse angegeben werden soll, ergibt sich der Inhalt des PDF 0000_Straße_Hausnummer“ aus der Kombination der folgenden Felder: 1. /Straße/ (ggf. gekürzt)
 
-________________  2 Während „Postfach“ das Schlüsselwort für die Identifizierung einer Postfachadresse ist, weist /Postfach/ die Daten zur Postfa chadresse aus der  eGK bzw. KVK auf.
+2 Während „Postfach“ das Schlüsselwort für die Identifizierung einer Postfachadresse ist, weist /Postfach/ die Daten zur Postfa eGK bzw. KVK auf.
 
-SEITE 23 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+Formularfeld „P4: 0000_Ti-
 
-P5: 3103_Geburtsdatum
+Formularfeldes „P4: 0000_Ti-
 
-P6: 0000_Straße_Hausnummer 2
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-- Formularfeld „ P4: 0000_Ti-
-
-- Formularfeldes „ P4: 0000_Ti-
-
-- Formularfelds „ P6:
+*JJJJMMTT*
 
 - und Monatsan-
 
 -Formularfeld
+
+Formularfelds „P6:
+
+chadresse aus der
 
 
 ---
 
 2. /Hausnummer/  3. Falls /Straße/ in 1. gekürzt, dann /Straße/ ungekürzt
 
-Dabei gelten für „1. /Straße/ (ggf. gekürzt)“ die Kürzungsregel entsprechend Tabelle 12 „Druckzeile 4“ der  technischen Anlage zur Anlage 4a (siehe [ worden sein, so wird das ungekürzte Feld /Straße/ nach der /Hausnummer/ in das PDF nommen. Unabhängig von der Kürzung werden die folgenden Metadaten nachstehend verwendet:
+Dabei gelten für „1. /Straße/ (ggf. gekürzt)“ die Kürzungsregel entsprechend Tabelle 12 „Druckzeile 4“ der  technischen Anlage zur Anlage 4a (siehe [KBV_ITA_VGEX_Mapping_KVK]). Sollte das Feld /Straße/ gekürzt  worden sein, so wird das ungekürzte Feld /Straße/ nach der /Hausnummer/ in das PDF-Formularfeld über- nommen. Unabhängig von der Kürzung werden die folgenden Metadaten-Attribute der PDF-Datei wie  nachstehend verwendet:
 
-Meta-Datum
+Meta-Datum Vorschrift zum Setzen
 
-Anzahl_Zeichen_Hausnummer
+Anzahl_Zeichen_Hausnummer Es wird die Anzahl an Zeichen des Feldes /Hausnummer/ angegeben.  Die Anzahl „0“ bedeutet, dass das Feld /Hausnummer/ leer ist. Leerzei- chen oder andere nicht alphanumerische Zeichen innerhalb von /Haus- nummer/ werden als Zeichen mitgezählt. Die Leerzeichen zum Tren- nen von /Strasse/ und /Hausnummer/ werden nicht mitgezählt.
 
 **Tabelle 6: Metadaten zum Feld P6: 0000_Straße_Hausnummer**
 
-Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „ P6: 0000_Straße_Hausnum- mer “ nicht mit einem Trennleerzeichen beginnt oder endet und auch nicht zwei aufeinanderfolgende  Trennleerzeichen beinhaltet.
+Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „P6: 0000_Straße_Hausnum- mer“ nicht mit einem Trennleerzeichen beginnt oder endet und auch nicht zwei aufeinanderfolgende  Trennleerzeichen beinhaltet.
 
-Die Beispiele in nachfolgender Tabelle zeigen die Befüllung der PDF
+Die Beispiele in nachfolgender Tabelle zeigen die Befüllung der PDF-Inhalte.
 
-Meta-Datum
+Meta-Datum Vorschrift zum Setzen
 
-› /Straße/ = Herbert-Lewin-Platz  ohne Hausnummer  › /Hausnummer/ ist nicht vorhanden
+/Straße/ = Herbert-Lewin-Platz  0000_Straße_Hausnummer = Herbert-Lewin-Platz ohne  ohne Hausnummer Hausnummer  /Hausnummer/ ist nicht vorhanden  Anzahl_Zeichen_Hausnummer = 0
 
-› /Straße/ = Herbert-Lewin-Platz  › /Hausnummer/ ist nicht vorhanden
+/Straße/ = Herbert-Lewin-Platz  0000_Straße_Hausnummer = Herbert-Lewin-Platz  /Hausnummer/ ist nicht vorhanden  Anzahl_Zeichen_Hausnummer = 0
 
-› /Straße/ = Herbert-Lewin-Platz  ohne Hausnummer  › /Hausnummer/ = 12345
+/Straße/ = Herbert-Lewin-Platz  0000_Straße_Hausnummer = Herbert-Lewin-Platz ohne  ohne Hausnummer 12345 Herbert-Lewin-Platz ohne Hausnummer  /Hausnummer/ = 12345  Anzahl_Zeichen_Hausnummer = 5
 
-› /Straße/ = Herbert-Lewin-Platz  › /Hausnummer/ = 12345
+/Straße/ = Herbert-Lewin-Platz  0000_Straße_Hausnummer = Herbert-Lewin-Platz 12345  /Hausnummer/ = 12345  Anzahl_Zeichen_Hausnummer = 5
 
-**Tabelle 7: Beispiele für die PDF- Inhalte zum Feld „ P6: 0000_Straße_Hausnummer “**
+**Tabelle 7: Beispiele für die PDF -Inhalte zum Feld „ P6: 0000_Straße_Hausnummer**
 
-Beim Auslesen des PDF- Formularfeldes kann anhand des Schlüsselwortes „Postfach“ identifiziert werden,  ob es sich um eine Postfachadresse handelt. Falls „ P6: 0000_Straße_Hausnummer “ das Schlüsselwort  „Postfach“ enthält, handelt es sich um eine Postfachadresse. In diesem Fall entspricht alles nach dem  Schlüsselwort „Postfach“ dem Inhalt des Kartenfeldes /Postfach/.
+Beim Auslesen des PDF-Formularfeldes kann anhand des Schlüsselwortes „Postfach“ identifiziert werden,  ob es sich um eine Postfachadresse handelt. Falls „P6: 0000_Straße_Hausnummer“ das Schlüsselwort  „Postfach“ enthält, handelt es sich um eine Postfachadresse. In diesem Fall entspricht alles nach dem  Schlüsselwort „Postfach“ dem Inhalt des Kartenfeldes /Postfach/.
 
-Falls das Schlüsselwort „Postfach“ nicht vorhanden ist, handelt es sich um eine Straßenadresse. In diesem  Fall weist „ P6: 0000_Straße_Hausnummer “ eine Kombination aus den Inhalten der Kartenfelder /Straße/  und /Hausnummer/ auf. Um die /Straße/ bzw. /Hausnummer/ wieder auszulesen, ist das PDF „ P6: 0000_Straße_Hausnummer “ unter Zuhilfenahme der Metadaten aus Tabelle 6 in die ursprünglichen  Kartenfeldinhalte wie folgt zu zerlegen:
+Falls das Schlüsselwort „Postfach“ nicht vorhanden ist, handelt es sich um eine Straßenadresse. In diesem  Fall weist „P6: 0000_Straße_Hausnummer“ eine Kombination aus den Inhalten der Kartenfelder /Straße/  und /Hausnummer/ auf. Um die /Straße/ bzw. /Hausnummer/ wieder auszulesen, ist das PDF-Formularfeld  P6: 0000_Straße_Hausnummer“ unter Zuhilfenahme der Metadaten aus Tabelle 6 in die ursprünglichen  Kartenfeldinhalte wie folgt zu zerlegen:
 
-› Falls das PDF- Metadatum „Anzahl_Zeichen_Hausnummer“ gleich „0“ ist, entspricht der Inhalt des PDF - Formularfeldes „ P6: 0000_Straße_Hausnummer “ dem Inhalt des Kartenfeldes /Straße/. Eine Hausnum- mer ist in diesem Fall nicht vorhanden.
-
-SEITE 24 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-KBV_ITA_VGEX_Mapping_KVK]). Sollte das Feld /Straße/ gekürzt
-
-Vorschrift zum Setzen
-
-Es wird die Anzahl an Zeichen des Feldes / Die Anzahl „0“ bedeutet, dass das Feld /Hausnummer/ leer ist. Leerzei- chen oder andere nicht alphanumerische Zeichen innerhalb von / nummer/ werden als Zeichen mitgezählt. Die Leerzeichen zum Tren- nen von /Strasse/ und /Hausnummer/ werden nicht mitgezählt.
-
-Vorschrift zum Setzen
-
-› 0000_Straße_Hausnummer = Herbert-Lewin-Platz ohne  Hausnummer  › Anzahl_Zeichen_Hausnummer = 0
-
-› 0000_Straße_Hausnummer = Herbert-Lewin-Platz  › Anzahl_Zeichen_Hausnummer = 0
-
-› 0000_Straße_Hausnummer = Herbert-Lewin-Platz ohne  12345 Herbert-Lewin-Platz ohne Hausnummer › Anzahl_Zeichen_Hausnummer = 5
-
-› 0000_Straße_Hausnummer = Herbert-Lewin-Platz 12345  › Anzahl_Zeichen_Hausnummer = 5
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 -Inhalte.
-
--Attribute der PDF-Datei wie
-
-Hausnummer/ angegeben.
-
--Formularfeld über-
-
--Formularfeld
-
-Haus-
+Falls das PDF-Metadatum „Anzahl_Zeichen_Hausnummer“ gleich „0“ ist, entspricht der Inhalt des PDF Formularfeldes „P6: 0000_Straße_Hausnummer“ dem Inhalt des Kartenfeldes /Straße/. Eine Hausnum- mer ist in diesem Fall nicht vorhanden.
 
 
 ---
 
-› Falls das PDF- Metadatum „Anzahl_Zeichen_Hausnummer“ größer als „0“ ist, gilt: **·** Sollte der Inhalt des PDF- Formularfeldes „ P6: 0000_Straße_Hausnummer “ länger als 30 Zeichen sein,  so hat das auslesende PVS als /Straße/ den Teil des Inhaltes des PDF cher ab Zeichenposition 32 beginnt. Die /Hausnummer/ entspricht dem Inhalt des PDF 0000_Straße_Hausnummer “ im Bereich der Zeichen ab Position (30 -Anzahl_Zeichen_Hausnum- mer+1) bis einschließlich Zeichen an Position 30. **·** In allen anderen Fällen entspricht die /Straße/ dem Inhalt des PDF Position 1 bis zum Zeichen an Position (Länge des Inhaltes des PDF 0000_Straße_Hausnummer “ - Anzahl_Zeichen_Hausnummer Inhalt des PDF- Feldes „ P6: 0000_Straße_Hausnummer “ im Bereich der Zeichen ab Position (Länge  des Inhaltes des PDF- Formularfeldes „ P6: 0000_Straße_Hausnummer “ -Anzahl_Zeichen_Hausnum- mer+1) bis einschließlich Zeichen an Position (Länge des Inhaltes PDF 0000_Straße_Hausnummer “).
+Falls das PDF-Metadatum „Anzahl_Zeichen_Hausnummer“ größer als „0“ ist, gilt:  Sollte der Inhalt des PDF-Formularfeldes „P6: 0000_Straße_Hausnummer“ länger als 30 Zeichen sein,  so hat das auslesende PVS als /Straße/ den Teil des Inhaltes des PDF-Formularfeldes zu nutzen, wel- cher ab Zeichenposition 32 beginnt. Die /Hausnummer/ entspricht dem Inhalt des PDF Feldes „P6:  0000_Straße_Hausnummer“ im Bereich der Zeichen ab Position (30-Anzahl_Zeichen_Hausnum- mer+1) bis einschließlich Zeichen an Position 30.  In allen anderen Fällen entspricht die /Straße/ dem Inhalt des PDF-Formularfeldes ab dem Zeichen an  Position 1 bis zum Zeichen an Position (Länge des Inhaltes des PDF Formularfeldes „P6:  0000_Straße_Hausnummer - Anzahl_Zeichen_Hausnummer-1). Die /Hausnummer/ entspricht dem  Inhalt des PDF-Feldes „P6: 0000_Straße_Hausnummer“ im Bereich der Zeichen ab Position (Länge  des Inhaltes des PDF-Formularfeldes „P6: 0000_Straße_Hausnummer -Anzahl_Zeichen_Hausnum- mer+1) bis einschließlich Zeichen an Position (Länge des Inhaltes PDF Formularfeldes „P6:  0000_Straße_Hausnummer“).
 
 2.10.5.7 P7: 0000_Wohnsitzlaendercode_PLZ_Ort
 
-In das PDF- Formularfeld „ P7: 0000_Wohnsitzlaendercode_PLZ_Ort “ ist die Information einzutragen, welche  bei der konventionellen Bedruckung in Zeile 5, Position 1 bis 24 des Personalienfeldes steht. Sollte die Infor- mation mehr als 24 Zeichen lang sein, erfolgt  druckung - keine Kürzung. Zusätzlich sind die in Tabelle 8 dargestellten Metadaten zu füllen. In der Regel  ergibt sich der Inhalt aus der Kombination der folgenden eGK
+In das PDF-Formularfeld „P7: 0000_Wohnsitzlaendercode_PLZ_Ort“ ist die Information einzutragen, welche  bei der konventionellen Bedruckung in Zeile 5, Position 1 bis 24 des Personalienfeldes steht. Sollte die Infor- mation mehr als 24 Zeichen lang sein, erfolgt - im Gegensatz zur konventionellen bzw. Blankoformular-Be- druckung - keine Kürzung. Zusätzlich sind die in Tabelle 8 dargestellten Metadaten zu füllen. In der Regel  ergibt sich der Inhalt aus der Kombination der folgenden eGK- bzw. KVK-Felder:
 
 1. /Wohnsitzlaendercode/  2. /Postleitzahl/  3. /Ort/
 
-Bei der Erstellung des Feldinhaltes für das Formularfeld „ P7: 0000_Wohnsitzlaendercode_PLZ_Ort “ werden  die oben genannten Kartenfelder in der dargestellten Reihenfolge, durch Leerzeichen getrennt, aufgelistet.  Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „ P7: 0000_Wohnsitzlaender- code_PLZ_Ort “ nicht mit einem Trennleerzeichen beginnt oder endet und auch nicht zwei aufeinanderfol- gende Trennleerzeichen beinhaltet. Zusätzlich dazu werden die folgenden Metadaten Datei wie nachstehend verwendet:
+Bei der Erstellung des Feldinhaltes für das Formularfeld „P7: 0000_Wohnsitzlaendercode_PLZ_Ort“ werden  die oben genannten Kartenfelder in der dargestellten Reihenfolge, durch Leerzeichen getrennt, aufgelistet.  Beim Setzen der Trennleerzeichen ist zu beachten, dass der Inhalt des Feldes „P7: 0000_Wohnsitzlaender- code_PLZ_Ort“ nicht mit einem Trennleerzeichen beginnt oder endet und auch nicht zwei aufeinanderfol- gende Trennleerzeichen beinhaltet. Zusätzlich dazu werden die folgenden Metadaten-Attribute der PDF- Datei wie nachstehend verwendet:
 
-Meta-Datum
+Meta-Datum Vorschrift zum Setzen
 
-Anzahl_Zeichen_Wohnsitzla- endercode
+Anzahl_Zeichen_Wohnsitzla- Es wird die Anzahl an Zeichen des Feldes /Wohnsitzlaendercode/ ange- endercode geben. Die Anzahl null bedeutet, dass das Feld /Wohnsitzlaendercode/  leer ist. Leerzeichen oder andere nicht alphanumerische Zeichen inner- halb von /Wohnsitzlaendercode/ werden als Zeichen mitgezählt. Die  Leerzeichen zum Trennen von /Wohnsitzlaendercode/, /Postleitzahl/  und /Ort/ werden nicht mit gezählt.
 
-Anzahl_Zeichen_Postleitzahl
+Anzahl_Zeichen_Postleitzahl Es wird die Anzahl an Zeichen des Feldes /Postleitzahl/ angegeben. Die  Anzahl null bedeutet, dass das Feld /Postleitzahl/ leer ist. Leerzeichen  oder andere nicht alphanumerische Zeichen innerhalb von /Postleit- zahl/ werden als Zeichen mitgezählt. Die Leerzeichen zum Trennen von  /Wohnsitzlaendercode/, /Postleitzahl/ und /Ort/ werden nicht mit ge- zählt.
 
 **Tabelle 8: Metadaten zum Feld P7: 0000_Wohnsitzlaendercode_PLZ_Ort**
 
-Beim Auslesen des PDF- Formularfeldes „ P7: 0000_Wohnsitzlaendercode_PLZ_Ort “ können die ursprüngli- chen Kartenfelder wiederhergestellt werden. Dazu ist „ P7: 0000_Wohnsitzlaendercode_PLZ_Ort “ unter Zu- hilfenahme der Angaben aus Tabelle 8 in die ursprünglichen Kartenfeldinhalte aufzuteilen. Ein Beispiel dazu  kann Kapitel 2.10.5.4 „ P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort “ entnommen werden.
-
-SEITE 25 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Vorschrift zum Setzen
-
-Es wird die Anzahl an Zeichen des Feldes / geben. Die Anzahl null bedeutet, dass das Feld / leer ist. Leerzeichen oder andere nicht alphanumerische Zeichen inner- halb von /Wohnsitzlaendercode/ werden als Zeichen mitgezählt. Die  Leerzeichen zum Trennen von /Wohnsitzlaendercode/, /Postleitzahl/  und /Ort/ werden nicht mit gezählt.
-
-Es wird die Anzahl an Zeichen des Feldes / Anzahl null bedeutet, dass das Feld / oder andere nicht alphanumerische Zeichen innerhalb von / zahl/ werden als Zeichen mitgezählt. Die Leerzeichen zum Trennen von  /Wohnsitzlaendercode/, /Postleitzahl/ und /Ort/ werden nicht mit ge- zählt.
-
-- im Gegensatz zur konventionellen bzw. Blankoformular - bzw. KVK-Felder:
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
--1). Die /Hausnummer/ entspricht dem
-
--Formularfeldes zu nutzen, wel-
-
--Formularfeldes ab dem Zeichen an  - Formularfeldes „ P6: - Formularfeldes „ P6:
-
-Wohnsitzlaendercode/ ange-
-
-Postleitzahl/ angegeben. Die  Postleitzahl/ leer ist. Leerzeichen -Attribute der PDF-
-
-Wohnsitzlaendercode/
-
-- Feldes „ P6:
-
-Postleit-
-
--Be-
+Beim Auslesen des PDF-Formularfeldes „P7: 0000_Wohnsitzlaendercode_PLZ_Ort“ können die ursprüngli- chen Kartenfelder wiederhergestellt werden. Dazu ist „P7: 0000_Wohnsitzlaendercode_PLZ_Ort“ unter Zu- hilfenahme der Angaben aus Tabelle 8 in die ursprünglichen Kartenfeldinhalte aufzuteilen. Ein Beispiel dazu  kann Kapitel 2.10.5.4 P4: 0000_Titel_Vorname_Namenszusatz_Vorsatzwort“ entnommen werden.
 
 
 ---
 
-2.10.5.8
+2.10.5.8 P8: 4110_VersicherungsschutzEnde
 
-Das PDF- Formularfeld „ P8: 4110_VersicherungsschutzEnde “ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 „ Datumsfelder “.
+Das PDF-Formularfeld „P8: 4110_VersicherungsschutzEnde“ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 5, Position 26 bis 30 des Personalienfeldes steht. In der Regel ist dies der Inhalt des Kartenfeldes /Ver- sicherungsschutzEnde/ in der Form MM/JJ. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl  zu nutzen.
+Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 5, Position 26 bis 30 des Personalienfeldes steht. In der Regel ist dies der Inhalt des Kartenfeldes /Ver- sicherungsschutzEnde/ in der Form *MM/JJ*. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl  zu nutzen.
 
-Der Inhalt des nur maschinenlesbaren Teils entspricht dem Datum des Versicherungsschutzendes in der  Form JJJJMMTT.
+Der Inhalt des nur maschinenlesbaren Teils entspricht dem Datum des Versicherungsschutzendes in der  Form *JJJJMMTT*
 
-Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages angaben führende Nullen gesetzt.
+Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages- und Monats- angaben führende Nullen gesetzt.
 
-2.10.5.9
+2.10.5.9 P9: 4111_Kostentraegerkennung
 
-In das Feld „ P9: 4111_Kostentraegerkennung “ ist die Information einzutragen, welche bei der konventio- nellen Bedruckung in Zeile 6, Position 1 bis 9 des Personalienfeldes gedruckt wird. In der Regel ist es der  Inhalt des Feldes /Kostentraegerkennung/ der eGK bzw. KVK.
+In das Feld „P9: 4111_Kostentraegerkennung“ ist die Information einzutragen, welche bei der konventio- nellen Bedruckung in Zeile 6, Position 1 bis 9 des Personalienfeldes gedruckt wird. In der Regel ist es der  Inhalt des Feldes /Kostentraegerkennung/ der eGK bzw. KVK.
 
-2.10.5.10
+2.10.5.10 P10: 3119_Versicherten_ID
 
-In das Feld „ P10: 3119_Versicherten_ID “ ist die Information einzutragen, welche bei der konventionellen  Bedruckung in Zeile 6, Position 11 bis 22 des Personalienfeldes gedruckt wird. In der Regel ist es der Inhalt  des Feldes /Versicherten_ID/ der eGK bzw. KVK.
+In das Feld „P10: 3119_Versicherten_ID“ ist die Information einzutragen, welche bei der konventionellen  Bedruckung in Zeile 6, Position 11 bis 22 des Personalienfeldes gedruckt wird. In der Regel ist es der Inhalt  des Feldes /Versicherten_ID/ der eGK bzw. KVK.
 
-2.10.5.11
+2.10.5.11 P11: 3108_Versichertenart
 
-In das Feld „ P11: 3108_Versichertenart “ ist die Information einzutragen, welche bei der konventionellen  Bedruckung in Zeile 6, Position 24 des Personalienfeldes gedruckt wird. In der Regel ist es der Inhalt des Fel- des /Versichertenart/ der eGK bzw. KVK.
+In das Feld „P11: 3108_Versichertenart“ ist die Information einzutragen, welche bei der konventionellen  Bedruckung in Zeile 6, Position 24 des Personalienfeldes gedruckt wird. In der Regel ist es der Inhalt des Fel- des /Versichertenart/ der eGK bzw. KVK.
 
-2.10.5.12
+2.10.5.12 P12: 4131_BesonderePersonengruppe
 
-In das Feld „ P12: 4131_BesonderePersonengruppe “ ist die Information einzutragen, welche bei der konven- tionellen Bedruckung in Zeile 6, Position 25 bis 26 des Personalienfeldes gedruckt wird. In der Regel ist es  der Inhalt des Feldes /BesonderePersonengruppe/ der eGK bzw. KVK. Dabei ist die Transformat ion „Beson- derePersonengruppe“ aus [ KBV_ITA_VGEX_Mapping_KVK] (siehe hier: Tabelle 2, 5 und 9) zu beachten.
+In das Feld „P12: 4131_BesonderePersonengruppe“ ist die Information einzutragen, welche bei der konven- tionellen Bedruckung in Zeile 6, Position 25 bis 26 des Personalienfeldes gedruckt wird. In der Regel ist es  der Inhalt des Feldes /BesonderePersonengruppe/ der eGK bzw. KVK. Dabei ist die Transformation „Beson- derePersonengruppe“ aus [KBV_ITA_VGEX_Mapping_KVK] (siehe hier: Tabelle 2, 5 und 9) zu beachten.
 
-2.10.5.13
+2.10.5.13 P13: 4132_DMP_Kennzeichnung
 
-In das Feld „ P13: 4132_DMP_Kennzeichnung “ ist die Information einzutragen, welche bei der konventionel- len Bedruckung in Zeile 6, Position 27 bis 28 des Personalienfeldes gedruckt wird. In der Regel ist es der In- halt des Feldes /DMP_Kennzeichnung/ der eGK bzw. KVK. Dabei ist die Transformation „D MP- Kennzeichen“  aus [KBV_ITA_VGEX_Mapping_KVK] (siehe hier: Tabelle 3, 6 und 8) zu beachten.
+In das Feld „P13: 4132_DMP_Kennzeichnung“ ist die Information einzutragen, welche bei der konventionel- len Bedruckung in Zeile 6, Position 27 bis 28 des Personalienfeldes gedruckt wird. In der Regel ist es der In- halt des Feldes /DMP_Kennzeichnung/ der eGK bzw. KVK. Dabei ist die Transformation „DMP-Kennzeichen“  aus [KBV_ITA_VGEX_Mapping_KVK] (siehe hier: Tabelle 3, 6 und 8) zu beachten.
 
-2.10.5.14
+2.10.5.14 P14: 0000_Druckposition29
 
-In das Feld „ P14: 0000_Druckposition29 “ ist nach Vorgabe der Bedruckungsvorschriften für das Personali- enfeld eine „0“ (Null) einzutragen (siehe: [ KBV_ITA_VGEX_Mapping_KVK] Tabelle 9).
+In das Feld „P14: 0000_Druckposition29“ ist nach Vorgabe der Bedruckungsvorschriften für das Personali- enfeld eine „0“ (Null) einzutragen (siehe: [KBV_ITA_VGEX_Mapping_KVK] Tabelle 9).
 
-2.10.5.15
+2.10.5.15 P15: 0000_weitere_Kennzeichen
 
-In das Feld P15: 0000_weitere_Kennzeichen “ ist die Information einzutragen, welche bei der konventionel- len Bedruckung in Zeile 6, Position 30 des Personalienfeldes gedruckt wird. In der Regel ist es entweder das
-
-SEITE 26 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-P8: 4110_VersicherungsschutzEnde
-
-P9: 4111_Kostentraegerkennung
-
-P10: 3119_Versicherten_ID
-
-P11: 3108_Versichertenart
-
-P12: 4131_BesonderePersonengruppe
-
-P13: 4132_DMP_Kennzeichnung
-
-P14: 0000_Druckposition29
-
-P15: 0000_weitere_Kennzeichen
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 - und Monats-
+In das Feld P15: 0000_weitere_Kennzeichen“ ist die Information einzutragen, welche bei der konventionel- len Bedruckung in Zeile 6, Position 30 des Personalienfeldes gedruckt wird. In der Regel ist es entweder das
 
 
 ---
 
-ASV- Kennzeichen „1“, das TSS - Kennzeichen „7“ oder die „4“ als Entlassmanagement -Kennzeichen. Ist kei- nes dieser Kennzeichen vorhanden, ist hier eine „0“ (Null) einzutragen (siehe: [ KBV_ITA_VGEX_Map- ping_KVK] Tabelle 9).
+ASV-Kennzeichen „1“, das TSS Kennzeichen „7“ oder die „4“ als Entlassmanagement-Kennzeichen. Ist kei- nes dieser Kennzeichen vorhanden, ist hier eine „0“ (Null) einzutragen (siehe: [KBV_ITA_VGEX_Map- ping_KVK] Tabelle 9).
 
-2.10.5.16
+2.10.5.16 P16: 0000_Betriebsstaettennummer
 
-In das Feld „ P16: 0000_Betriebsstaettennummer “ ist die Information einzutragen, welche bei der konventi- onellen Bedruckung in Zeile 7, Position 1 bis 9 des Personalienfeldes gedruckt wird. In der Regel ist es die  Betriebsstättennummer (BSNR) oder die ASV 2.10.5.17
+In das Feld „P16: 0000_Betriebsstaettennummer“ ist die Information einzutragen, welche bei der konventi- onellen Bedruckung in Zeile 7, Position 1 bis 9 des Personalienfeldes gedruckt wird. In der Regel ist es die  Betriebsstättennummer (BSNR) oder die ASV-Teamnummer des ausstellenden Betriebs.
 
-In das Feld „ P17: 0000_LebenslangeArztnummer “ ist die Information einzutragen, welche bei der konventi- onellen Bedruckung in Zeile 7, Position 11 bis 19 des Personalienfeldes gedruckt wird. In der Regel ist es die  lebenslange Arztnummer (LANR) des ausstellenden Arztes.
+2.10.5.17 P17: 0000_LebenslangeArztnummer
 
-2.10.5.18
+In das Feld „P17: 0000_LebenslangeArztnummer“ ist die Information einzutragen, welche bei der konventi- onellen Bedruckung in Zeile 7, Position 11 bis 19 des Personalienfeldes gedruckt wird. In der Regel ist es die  lebenslange Arztnummer (LANR) des ausstellenden Arztes.
 
-Das PDF- Formularfeld „ P18: 4102_Ausstellungsdatum “ ist ein Datumsfeld entsprechend der Definition aus  Kapitel 2.10.4.1 „ Datumsfelder “.
+2.10.5.18 P18: 4102_Ausstellungsdatum
 
-Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 7, Position 22 bis 29 des Personalienfeldes steht. In der Regel ist dies das Ausstellungsdatum des Mus- ters in der Form TT.MM.JJ. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl zu nutzen.
+Das PDF-Formularfeld „P18: 4102_Ausstellungsdatum“ ist ein Datumsfeld entsprechend der Definition aus  Kapitel 2.10.4.1 Datumsfelder
 
-Der Inhalt des rein maschinenlesbaren Teils entspricht dem Ausstellungsdatum des Musters in der Form  *JJJJMMTT.*
+Der Inhalt des sichtbaren Teils entspricht der Information, welche bei der konventionellen Bedruckung in  Zeile 7, Position 22 bis 29 des Personalienfeldes steht. In der Regel ist dies das Ausstellungsdatum des Mus- ters in der Form *TT.MM.JJ*. Bei der Jahreszahl sind die beiden letzten Stellen der Jahreszahl zu nutzen.
 
-Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages angaben führende Nullen gesetzt.
+Der Inhalt des rein maschinenlesbaren Teils entspricht dem Ausstellungsdatum des Musters in der Form  *JJJJMMTT*
 
-**2.10.6**
+Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages- und Monats- angaben führende Nullen gesetzt.
 
-Die KBV liefert die Vorlagen für die digitalen Muster mit einem PDF pel aus. Das PDF-Formularfeld ist dabei ein linksbündiges, mehrzeiliges Textfeld mit Courier 8 pt und über  den Namen „0000_Vertragsarztstempel“ bzw. „0000_Vertragsarztstempel_1“ und „0000_Vertrags- arztstempel_2“ ansprechbar.
+**2.10.6** **Vertragsarztstempel**
 
-In diesem Textfeld bringt das erstellende PVS die Inhalte des Vertragsarztstempels unter. Zusätzlich ist es  dem erstellenden PVS gestattet, das Formularfeld  Schriftart und Schriftgröße zu ändern. Weitere Eigenschaften wie Position, Größe etc. dürfen weder vom  erstellenden noch vom auslesenden PVS geändert werden. So kann der Vertragsarztstempel stellende PVS an die Ansprüche der jeweiligen Gesamtvertragspartner angepasst werden. Dabei ist zu b achten, dass der Vertragsarztstempel menschenlesbar bleibt.
+Die KBV liefert die Vorlagen für die digitalen Muster mit einem PDF-Formularfeld für den Vertragsarztstem- pel aus. Das PDF-Formularfeld ist dabei ein linksbündiges, mehrzeiliges Textfeld mit Courier 8 pt und über  den Namen „0000_Vertragsarztstempel“ bzw. „0000_Vertragsarztstempel_1“ und „0000_Vertrags- arztstempel_2“ ansprechbar.
+
+In diesem Textfeld bringt das erstellende PVS die Inhalte des Vertragsarztstempels unter. Zusätzlich ist es  dem erstellenden PVS gestattet, das Formularfeld für den Vertragsarztstempel hinsichtlich verwendeter  Schriftart und Schriftgröße zu ändern. Weitere Eigenschaften wie Position, Größe etc. dürfen weder vom  erstellenden noch vom auslesenden PVS geändert werden. So kann der Vertragsarztstempel durch das er- stellende PVS an die Ansprüche der jeweiligen Gesamtvertragspartner angepasst werden. Dabei ist zu be- achten, dass der Vertragsarztstempel menschenlesbar bleibt.
 
 **Abbildung 4: Formularfeld Vertragsarztstempel, Beispiel mit Arial 8 pt**
-
-SEITE 27 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-P16: 0000_Betriebsstaettennummer
-
-P17: 0000_LebenslangeArztnummer
-
-P18: 4102_Ausstellungsdatum
-
-**Vertragsarztstempel**
-
--Teamnummer des ausstellenden Betriebs.
-
-für den Vertragsarztstempel hinsichtlich verwendeter
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
--Formularfeld für den Vertragsarztstem-
-
-- und Monats-
-
-durch das er-
-
-e-
 
 
 ---
 
 Bei Mustern, die nicht mit einem Vertragsarztstempel versehen werden müssen, ist dieses PDF vorhanden.
 
-**2.10.7 Prüfnummer**
+**2.10.7** **Prüfnummer**
 
 Auf Basis der Anlage 2b des BMV-Ä ist auf den digitalen Mustern die Prüfnummer aufzubringen (siehe: [ lage 2b]).
 
-Für die Prüfnummer ist die Formatierung Courier mit Schriftgröße 5 pt festgelegt. Die Prüfnummer ist durch  das PVS zu setzen, welche das Formular erstellt. Es ist die Prüfnummer anzugeben, die der Softwareherstel- ler bei der Zertifizierung digitaler Muster erhalten hat. Die Prüfnummer ist bei den digitalen Mustern 10,  10A sowie 39 in das Feld „0000_Pruefnummer“ und beim digitalen Mustern 6 in das Feld „0000_KBV -Pruef- nummer“ zu setzen.
+Für die Prüfnummer ist die Formatierung Courier mit Schriftgröße 5 pt festgelegt. Die Prüfnummer ist durch  das PVS zu setzen, welche das Formular erstellt. Es ist die Prüfnummer anzugeben, die der Softwareherstel- ler bei der Zertifizierung digitaler Muster erhalten hat. Die Prüfnummer ist bei den digitalen Mustern 10,  10A sowie 39 in das Feld „0000_Pruefnummer“ und beim digitalen Mustern 6 in das Feld „0000_KBV nummer“ zu setzen.
 
-SEITE 28 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE / 9. FEBRUAR 2026 / VERSION: 2.31 -Feld nicht
+-Feld nicht
 
 An-
+
+-Pruef-
 
 
 ---
 
 3
 
-## MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT
+## MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT  PDF/A
 
-## PDF/A
-
-**3.1 INHALTE DIGITALES MUSTER 6**
+**3.1** **INHALTE DIGITALES MUSTER 6**
 
 In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 6 beschrieben. Wie in  diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten.
 
-**3.1.1 Metadaten digitales Muster 6**
+**3.1.1** **Metadaten digitales Muster 6**
 
 Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs trags, welche vom Einsender vergeben werden kann. D gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
 
-Name
+Name Typ
 
-Auftragsnummer_Einsender
+Auftragsnummer_Einsender Alpha-numerisch  maximal 60 Zeichen
 
 **Tabelle 9: Spezifische Metadaten für Muster 6**
 
-Für das Muster 6 gelten darüber hinaus die in Kapitel „ 2.9 Metadaten “ spezifizierten Metadaten mit folgen- den Festlegungen:
+Für das Muster 6 gelten darüber hinaus die in Kapitel  den Festlegungen:
 
-› Formularnummer: 06  › Formularversion: Entspricht der jeweiligen Versionsnummer › Technische_Version: 6
-
-SEITE 29 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Typ
-
-Alpha-numerisch  maximal 60 Zeichen
+Formularnummer: 06  Formularversion: Entspricht der jeweiligen Versionsnummer Technische_Version: 6
 
 -Ident ist eine eindeutige Kennzeichnung eines Auf- a diese Information nicht auf dem Muster selbst ab-
 
-Standardwert 0
+Standardwert Inhalt
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0 Eine vom Einsender vergebene Iden- tifikation für den Auftrag. Die Befül- lung dieses Metadatums ist optional.
 
-Inhalt
-
-Eine vom Einsender vergebene Iden- tifikation für den Auftrag. Die Befül- lung dieses Metadatums ist optional.
+2.9 Metadaten spezifizierten Metadaten mit folgen-
 
 
 ---
@@ -1867,41 +1466,37 @@ Eine vom Einsender vergebene Iden- tifikation für den Auftrag. Die Befül- lung
 
 Für das Personalienfeld, den Vertragsarztstempel und die Prüfnummer wurden die Eigenschaften bereits in  den Kapiteln 2.10.5, 2.10.6 und 2.10.7 definiert. Dieser Abschnitt widmet sich den Definitionen der übrigen  Formularfelder.
 
-| FORMULARFELDBEZEICH- NUNG | 3 FORMULARFELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULARFELDTYP3** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
 | 4221_Kurativ | Ankreuzfeld | Stil: Kreuz |  |
 | 4221_Praeventiv | Ankreuzfeld | Stil: Kreuz | |
 | 0000_Behandlung_116b_SGB | Ankreuzfeld | Stil: Kreuz | |
-| 4221_belegaerztliche_Be- handlung | Ankreuzfeld | Stil: Kreuz | |
+| 4221_belegaerztliche_Be-handlung | Ankreuzfeld | Stil: Kreuz | |
 | 4101_Ausstellungs_Quartal | Einzeiliges Textfeld | 1 | 1 |
 | 4101_Ausstellungs_Jahr | Einzeiliges Textfeld | 2 | 7 |
 | 4202_Unfall | Ankreuzfeld | Stil: Kreuz | |
 
-________________  3 Siehe Kapitel 2.10.3 PDF-Feldtypen
-
-SEITE 30 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+3 Siehe Kapitel 2.10.3 PDF-Feldtypen
 
 **Formularfelder digitales Muster 6**
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 NR. M6_1 M6_2 M6_3 M6_4 M6_5 M6_6 M6_7 FORMATIE- RUNG Courier 12 pt, linksbündig Courier 12 pt, linksbündig
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | 3 FORMULARFELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULARFELDTYP3** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
 | 0000_OP-Datum | Einzeiliges Textfeld | 6 | 15 |
 | 3110_Geschlecht | Einzeiliges Textfeld | 1 | 1 |
 | 4220_Ueberweisung_an | Einzeiliges Textfeld | 35 | 60 |
-| 4239_Scheinunter- gruppe_Auftragsleistung | Ankreuzfeld | Stil: Kreuz | |
-| 4239_Scheinunter- gruppe_Konsilaruntersu- chung | Ankreuzfeld | Stil: Kreuz | |
-| 4239_Scheinunter- gruppe_Weiterbehandlung | Ankreuzfeld | Stil: Kreuz | |
+| 4239_Scheinunter-gruppe_Auftragsleistung | Ankreuzfeld | Stil: Kreuz | |
+| 4239_Scheinunter-gruppe_Konsilaruntersu-chung | Ankreuzfeld | Stil: Kreuz | |
+| 4239_Scheinunter-gruppe_Weiterbehandlung | Ankreuzfeld | Stil: Kreuz | |
 | 0000_AU_bis | Einzeiliges Textfeld | 6 | 15 |
-| 4204_eingeschraenkter_Leis- tungsanspruch | Ankreuzfeld | Stil: Kreuz | |
-| 4207_Diagnose_Verdachtsdi- agnose | Mehrzeiliges Textfeld | Schriftgrößen-abhängig: siehe Kapitel | |
-| 4208_Befund_Medikation | Mehrzeiliges Textfeld | Schriftgrößen-abhängig: siehe Kapitel | |
-| 4205_Auftrag | Mehrzeiliges Textfeld | Schriftgrößen-abhängig: siehe Kapitel | |
+| 4204_eingeschraenkter_Leis-tungsanspruch | Ankreuzfeld | Stil: Kreuz | |
+| 4207_Diagnose_Verdachtsdi-agnose | Mehrzeiliges Textfeld | Schriftgrößen-abhängig:siehe Kapitel | |
+| 4208_Befund_Medikation | Mehrzeiliges Textfeld | Schriftgrößen-abhängig:siehe Kapitel | |
+| 4205_Auftrag | Mehrzeiliges Textfeld | Schriftgrößen-abhängig:siehe Kapitel | |
 
 **Tabelle 10: Formularfelder des digitalen Musters 6**
 
@@ -1909,250 +1504,150 @@ NR. M6_1 M6_2 M6_3 M6_4 M6_5 M6_6 M6_7 FORMATIE- RUNG Courier 12 pt, linksbündi
 
 Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 1 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“). Daraus folgt, dass nur eins der Felder M6_1: 4221_Kurativ, M6_2:  4221_Praeventiv, M6_3: 0000_Behandlung_116b_SGB ode gekreuzt werden darf.
 
-SEITE 31 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 M6_1: 4221_Kurativ
 
 r M6_4: 4221_belegaerztliche_Behandlung an-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 NR. M6_8 M6_9 M6_10 M6_11 M6_12 M6_13 M6_14 M6_15 M6_16 M6_17 M6_18 siehe Kapitel 3.1.2.16  siehe Kapitel 3.1.2.17  siehe Kapitel 3.1.2.18  FORMATIE- RUNG Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier, links- bündig Schriftgröße: 3.1.2.16 Courier, links- bündig Schriftgröße: 3.1.2.17 Courier, links- bündig Schriftgröße: 3.1.2.18 Vordruckerläuterungen],
 
 
 ---
 
-3.1.2.2
+3.1.2.2 M6_2: 4221_Praeventiv
 
-Es gelten die Ausführungen aus Kapitel 3.1.2.3
+Es gelten die Ausführungen aus Kapitel 3.1.2.1 "M6_1: 4221_Kurativ
 
-Es gelten die Ausführungen aus Kapitel 3.1.2.4
+3.1.2.3 M6_3: 0000_Behandlung_116b_SGB
 
-Es gelten die Ausführungen aus Kapitel 3.1.2.5
+Es gelten die Ausführungen aus Kapitel 3.1.2.1 "M6_1: 4221_Kurativ
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 2 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
+3.1.2.4 M6_4: 4221_belegaerztliche_Behandlung
+
+Es gelten die Ausführungen aus Kapitel 3.1.2.1 "M6_1: 4221_Kurativ
+
+3.1.2.5 M6_5: 4101_Ausstellungs_Quartal
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen],  Muster 6, Punkt 2 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
 Daraus geht hervor, dass hier das Ausstellungsquartal des Formulars einzutragen ist.
 
-3.1.2.6
+3.1.2.6 M6_6: 4101_Ausstellungs_Jahr
 
-Das PDF- Formularfeld „ M6_6: 4101_Ausstellungs_Jahr “ ist ein Datumsfeld entsprechend der Definition aus  Kapitel 2.10.4.1 „ Datumsfelder “.
+Das PDF-Formularfeld „M6_6: 4101_Ausstellungs_Jahr“ ist ein Datumsfeld entsprechend der Definition aus  Kapitel 2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 2 des Kapitels „ Vom überweisenden Vertragsarzt auszufül- len und vom Arzt, der auf Überweisung tätig wird, zu beachten: “). Dort wird festgelegt, dass das Ausstel- lungsjahr des Formulars als zweistellige Zahl einzutragen ist. Somit enthält der sichtbare Teil das Jahr der  Ausstellung als zweistellige Zahl in der Form JJ. Bei der Jahresangabe sind die letzten beiden Stellen der Jah- reszahl zu nutzen.
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 2 des Kapitels „Vom überweisenden Vertragsarzt auszufül- len und vom Arzt, der auf Überweisung tätig wird, zu beachten:“). Dort wird festgelegt, dass das Ausstel- lungsjahr des Formulars als zweistellige Zahl einzutragen ist. Somit enthält der sichtbare Teil das Jahr der  Ausstellung als zweistellige Zahl in der Form *JJ*. Bei der Jahresangabe sind die letzten beiden Stellen der Jah- reszahl zu nutzen.
 
-Der Inhalt des rein maschinenlesbaren Teils entspricht dem Jahr der Ausstellung als vierstellige Jahreszahl,  also in der Form JJJJ.
+Der Inhalt des rein maschinenlesbaren Teils entspricht dem Jahr der Ausstellung als vierstellige Jahreszahl,  also in der Form *JJJJ*
 
-3.1.2.7
+3.1.2.7 M6_7: 4202_Unfall
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 3 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen],  Muster 6, Punkt 3 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-3.1.2.8
+3.1.2.8 M6_8: 0000_OP-Datum
 
-Das PDF- Formularfeld „ M6_8: 0000_OP-Datum “ ist ein Datumsfeld entsprechend der Definition aus Kapitel  2.10.4.1 „ Datumsfelder “.
+Das PDF-Formularfeld „M6_8: 0000_OP-Datum“ ist ein Datumsfeld entsprechend der Definition aus Kapitel  2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 4 des Kapitels „ Vom überweisenden Vertragsarzt auszufül- len und vom Arzt, der auf Überweisung tätig wird, zu beachten: “). Dort wird festgelegt, dass das OP -Datum  in der Form TTMMJJ zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu  nutzen.
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 4 des Kapitels „Vom überweisenden Vertragsarzt auszufül- len und vom Arzt, der auf Überweisung tätig wird, zu beachten:“). Dort wird festgelegt, dass das OP-Datum  in der Form *TTMMJJ* zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu  nutzen.
 
-Der Inhalt des rein maschinenlesbaren Teils entspricht dem OP
+Der Inhalt des rein maschinenlesbaren Teils entspricht dem OP-Datum in der Form *JJJJMMTT*
 
-Sowohl im sichtbaren als auch maschinenlesbaren Teil werden bei einstelligen Tages führende Nullen gesetzt.
-
-SEITE 32 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M6_2: 4221_Praeventiv
-
-M6_3: 0000_Behandlung_116b_SGB
-
-M6_4: 4221_belegaerztliche_Behandlung
-
-M6_5: 4101_Ausstellungs_Quartal
-
-M6_6: 4101_Ausstellungs_Jahr
-
-M6_7: 4202_Unfall
-
-M6_8: 0000_OP-Datum
-
-3.1.2.1 "M6_1: 4221_Kurativ “.
-
-3.1.2.1 "M6_1: 4221_Kurativ “.
-
-3.1.2.1 "M6_1: 4221_Kurativ “.
-
--Datum in der Form JJJJMMTT.
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-- und Monatsangaben
+Sowohl im sichtbaren als auch maschinenlesbaren Teil werden bei einstelligen Tages- und Monatsangaben  führende Nullen gesetzt.
 
 
 ---
 
-3.1.2.9
+3.1.2.9 M6_9: 3110_Geschlecht
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 5 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen],  Muster 6, Punkt 5 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-Demnach ist je nach Geschlecht des Patienten das PDF entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten der nachfolgenden Tabelle befüllt  werden:
+Demnach ist je nach Geschlecht des Patienten das PDF Formularfeld „M6_9: 3110_Geschlecht mit dem  entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten der nachfolgenden Tabelle befüllt  werden:
 
-Bedeutung
+Bedeutung Inhalt
 
-Weiblich
+Weiblich W
 
-Männlich
+Männlich M
 
-Divers
+Divers D
 
-Unbestimmt
+Unbestimmt X
 
 **Tabelle 11: Erlaubter Inhalt für das Feld „3110_Geschlecht“ auf digitalen Mustern 6, 10 und 10A**
 
-3.1.2.10
+3.1.2.10 M6_10: 4220_Ueberweisung_an
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 6 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “). Hiernach kann entweder die Gebietsbezeichnung oder bei einem er- mächtigten Arzt der Name und die Anschrift des Arztes eingetragen werden.
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen],  Muster 6, Punkt 6 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“). Hiernach kann entweder die Gebietsbezeichnung oder bei einem er- mächtigten Arzt der Name und die Anschrift des Arztes eingetragen werden.
 
-3.1.2.11
+3.1.2.11 M6_11: 4239_Scheinuntergruppe_Auftragsleistung
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 7- 9 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf  Überweisung tätig wird, zu beachten: “). Demzufolge darf nur eines der Felder „ M6_11: 4239_Scheinunter- gruppe_Auftragsleistung “, „ M6_12: 4239_Scheinuntergruppe_Konsilaruntersuchung “ oder „ M6_13:  4239_Scheinuntergruppe_Weiterbehandlung “ angekreuzt sein.
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen],  Muster 6, Punkt 7-9 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf  Überweisung tätig wird, zu beachten:“). Demzufolge darf nur eines der Felder „M6_11: 4239_Scheinunter- gruppe_Auftragsleistung“, „M6_12: 4239_Scheinuntergruppe_Konsilaruntersuchung“ oder „M6_13:  4239_Scheinuntergruppe_Weiterbehandlung“ angekreuzt sein.
 
-3.1.2.12
+3.1.2.12 M6_12: 4239_Scheinuntergruppe_Konsilaruntersuchung
 
-Es gelten die Ausführungen aus Kapitel 3.1.2.13
+Es gelten die Ausführungen aus Kapitel 3.1.2.11 M6_11: 4239_Scheinuntergruppe_Auftragsleistung
 
-Es gelten die Ausführungen aus Kapitel 3.1.2.14
+3.1.2.13 M6_13: 4239_Scheinuntergruppe_Weiterbehandlung
 
-Das PDF- Formularfeld „ M6_14: 0000_AU_bis “ ist ein Datumsfeld entsprechend der Definition aus Kapitel  2.10.4.1 „ Datumsfelder “.
+Es gelten die Ausführungen aus Kapitel 3.1.2.11 M6_11: 4239_Scheinuntergruppe_Auftragsleistung 3.1.2.14 M6_14: 0000_AU_bis
 
-Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 10 des Kapitels „ Vom überweisenden Vertragsarzt auszu- füllen und vom Arzt, der auf Überweisung tätig wird, zu beachten: “). Dort wird kein konkretes Format für  das Datum festgelegt. Um die Datumsangaben konsistent zu halten, ist das AU der Form TTMMJJ zu setzen.
+Das PDF-Formularfeld „M6_14: 0000_AU_bis“ ist ein Datumsfeld entsprechend der Definition aus Kapitel  2.10.4.1 Datumsfelder
 
-Der Inhalt des rein maschinenlesbaren Teils entspricht dem AU
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 6, Punkt 10 des Kapitels „Vom überweisenden Vertragsarzt auszu- füllen und vom Arzt, der auf Überweisung tätig wird, zu beachten:“). Dort wird kein konkretes Format für  das Datum festgelegt. Um die Datumsangaben konsistent zu halten, ist das AU-Datum im sichtbaren Teil in  der Form *TTMMJJ* zu setzen.
 
-Sowohl im sichtbaren als auch maschinenlesbaren Teil werden bei einstelligen Tages führende Nullen gesetzt.
+Der Inhalt des rein maschinenlesbaren Teils entspricht dem AU-Datum in der Form *JJJJMMTT*
 
-SEITE 33 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M6_9: 3110_Geschlecht
-
-M6_10: 4220_Ueberweisung_an
-
-M6_11: 4239_Scheinuntergruppe_Auftragsleistung
-
-M6_12: 4239_Scheinuntergruppe_Konsilaruntersuchung
-
-M6_13: 4239_Scheinuntergruppe_Weiterbehandlung
-
-M6_14: 0000_AU_bis
-
-Inhalt
-
-W
-
-M
-
-D
-
-X
-
-3.1.2.11 „ M6_11: 4239_Scheinuntergruppe_Auftragsleistung “.
-
-3.1.2.11 „ M6_11: 4239_Scheinuntergruppe_Auftragsleistung “.
-
-- Formularfeld „ M6_9: 3110_Geschlecht “ mit dem -Datum in der Form JJJJMMTT.
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
-
--Datum im sichtbaren Teil in
-
-- und Monatsangaben
+Sowohl im sichtbaren als auch maschinenlesbaren Teil werden bei einstelligen Tages- und Monatsangaben  führende Nullen gesetzt.
 
 
 ---
 
-3.1.2.15
+3.1.2.15 M6_15: 4204_eingeschraenkter_Leistungsanspruch
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 11 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 11 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-3.1.2.16
+3.1.2.16 M6_16: 4207_Diagnose_Verdachtsdiagnose
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt 6
+Schriftgröße in pt Anzahl sichtbarer  Zeichen 6 648
 
-7
+7 460
 
-8
+8 324
 
-9
+9 288
 
-10
+10 195
 
-11
+11 177
 
-12
+12 162
 
-**Tabelle 12: Anzahl sichtbarer und erlaubter Zeichen für die Felder „** **fund_Medikation “ auf digitalem Muster 6**
+**Tabelle 12: Anzahl sichtbarer und erlaubter Zeichen für die Felder „** **fund_Medikation“ auf digitalem Muster 6**
 
-3.1.2.17
+3.1.2.17 M6_17: 4208_Befund_Medikation
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-Bezüglich der Anzahl sichtbarer und erlaubter Zeichen sowie der Formatierung des Feldes gelten die Aus- führungen aus Kapitel 3.1.2.16 „ M6_16: 4207_Diagnose_Verdachtsdiagnose “ analog.
+Bezüglich der Anzahl sichtbarer und erlaubter Zeichen sowie der Formatierung des Feldes gelten die Aus- führungen aus Kapitel 3.1.2.16 M6_16: 4207_Diagnose_Verdachtsdiagnose 3.1.2.18 M6_18: 4205_Auftrag
 
-3.1.2.18
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten:“).
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 6, Punkt 12 des Kapitels „ Vom überweisenden Vertragsarzt auszufüllen und vom Arzt, der auf Über- weisung tätig wird, zu beachten: “).
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+Schriftgröße in pt Anzahl sichtbarer  Zeichen 6 1512
 
-Schriftgröße in pt 6
-
-7
+7 1012
 
 8
-
-9
-
-SEITE 34 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M6_15: 4204_eingeschraenkter_Leistungsanspruch
-
-M6_16: 4207_Diagnose_Verdachtsdiagnose
-
-M6_17: 4208_Befund_Medikation
-
-M6_18: 4205_Auftrag
-
-Anzahl sichtbarer  Zeichen 648
-
-460
-
-324
-
-288
-
-195
-
-177
-
-162
-
-Anzahl sichtbarer  Zeichen 1512
-
-1012
 
 | 810 | 810 | 81 |  |  |
 |---|---|---|---|---|
 | 648 | 648 | 72 |  |  |
+
+9
 
 Anzahl erlaubter  Zeichen 648
 
@@ -2168,19 +1663,17 @@ Anzahl erlaubter  Zeichen 648
 
 162
 
-**M6_16: 4207_Diagnose_Verdachtsdiagnose “ und „ M6_17: 4208_Be-**
+**M6_16: 4207_ Diagnose_Verdachtsdiagnose**
 
 Anzahl erlaubter  Zeichen 1512
 
 1012
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 Vordruckerläuterungen],
 
 Vordruckerläuterungen],
 
-2.10.4.2 „ Felder mit variablem
+2.10.4.2 Felder mit variablem
 
 Anzahl Zeichen pro  Zeile 108
 
@@ -2196,11 +1689,15 @@ Anzahl Zeichen pro  Zeile 108
 
 54
 
-Vordruckerläuterungen],
+**“ und „**
 
 Vordruckerläuterungen],
 
-2.10.4.2 „ Felder mit variablem
+“ analog.
+
+Vordruckerläuterungen],
+
+2.10.4.2 Felder mit variablem
 
 Anzahl Zeichen  pro Zeile 108
 
@@ -2220,99 +1717,86 @@ Anzahl Zeilen 6
 
 3
 
+**M6_17: 4208_Be-**
+
 Anzahl Zeilen 14
 
-11
+9 11
 
-9
 
 ---
 
-Schriftgröße in pt 10
+Schriftgröße in pt Anzahl sichtbarer Anzahl erlaubter Anzahl Zeichen Anzahl Zeilen  Zeichen Zeichen pro Zeile 10 520 520 65 8
 
 11
-
-12
-
-**Tabelle 13: Anzahl sichtbarer und erlaubter Zeichen für das Feld „ M6_18: 4205_Auftrag “ auf digitalem Muster 6**
-
-**3.2 INHALTE DIGITALES MUSTER 10**
-
-In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 10 beschrieben.
-
-**3.2.1 Metadaten digitales Muster 10**
-
-Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs trags, welche vom Einsender vergeben werden kann. D gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
-
-Name
-
-Auftragsnummer_Einsender
-
-**Tabelle 14: Spezifische Metadaten für Muster 10**
-
-Für das Muster 10 gelten darüber hinaus die in Kapitel „ 2.9 Metadaten “ spezifizierten Metadaten mit fol- genden Festlegungen:
-
-› Formularnummer: 10  › Formularversion: Entspricht der jeweiligen Versionsnummer › Technische_Version: 8
-
-SEITE 35 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Anzahl sichtbarer  Zeichen 520
 
 | 413 | 413 | 59 |
 |---|---|---|
 | 324 | 324 | 54 |
 
-Typ
+7
+
+12 6
+
+**Tabelle 13: Anzahl sichtbarer und erlaubter Zeichen für das Feld „ M6_18: 4205_Auftrag“ auf digitalem Muster 6**
+
+**3.2** **INHALTE DIGITALES MUSTER 10**
+
+In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 10 beschrieben.
+
+**3.2.1** **Metadaten digitales Muster 10**
+
+Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs-Ident ist eine eindeutige Kennzeichnung eines Auf- trags, welche vom Einsender vergeben werden kann. Da diese Information nicht auf dem Muster selbst ab- gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
+
+Name Typ Standardwert Inhalt
+
+Auftragsnummer_Einsender
 
 | Alpha-numerisch | 0 |
 |---|---|
 | maximal 60 Zei- |  |
 | chen |  |
 
-Anzahl erlaubter Anzahl Zeichen  Zeichen pro Zeile 520 65
-
--Ident ist eine eindeutige Kennzeichnung eines Auf- a diese Information nicht auf dem Muster selbst ab-
-
-Standardwert Inhalt
-
 Eine vom Einsender vergebene  Identifikation für den Auftrag. Die  Befüllung dieses Metadatums ist  optional.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+**Tabelle 14: Spezifische Metadaten für Muster 10**
 
-Anzahl Zeilen 8
+Für das Muster 10 gelten darüber hinaus die in Kapitel 2.9 Metadaten spezifizierten Metadaten mit fol- genden Festlegungen:
 
-7
-
-6
+Formularnummer: 10  Formularversion: Entspricht der jeweiligen Versionsnummer  Technische_Version: 8
 
 
 ---
 
-**3.2.2**
+**3.2.2** **Formularfelder digitales Muster 10**
 
 **Abbildung 6: Formularfelder des digitalen Musters 10**
 
-Für das Personalienfeld, den Vertragsarztstempel und die Prüfnummer gelten die in Kapitel  nalienfeld “, Kapitel 2.10.6 „ Vertragsarztstempel “ und Kapitel 2.10.7 „ Prüfnummer “ getroffenen Aussagen.  Für die weiteren Felder gelten die Aussagen in
+Für das Personalienfeld, den Vertragsarztstempel und die Prüfnummer gelten die in Kapitel
 
-| FORMULARFELDBEZEICH- NUNG | 4 FORMULARFELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+nalienfeld Für die weiteren Felder gelten die Aussagen in
+
+| **FORMULARFELDBEZEICH-NUNG** | **4FORMULARFELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
 | 4221_Kurativ | Ankreuzfeld | Stil: Kreuz |  |
 | 4221_Praeventiv | Ankreuzfeld | Stil: Kreuz | |
-| 4221_belegaerztliche_Be- handlung | Ankreuzfeld | Stil: Kreuz | |
+| 4221_belegaerztliche_Be-handlung | Ankreuzfeld | Stil: Kreuz | |
 | 4202_Unfall | Ankreuzfeld | Stil: Kreuz | |
 | 4101_Ausstellungs_Quartal | Einzeiliges Textfeld | 1 | 1 |
 | 4101_Ausstellungs_Jahr | Einzeiliges Textfeld | 2 | 7 |
-| 8311_Labor_Auftragsnum- mer | Einzeiliges Textfeld | 16 | 60 |
+| 8311_Labor_Auftragsnum-mer | Einzeiliges Textfeld | 16 | 60 |
 
-________________  4 Siehe Kapitel 2.10.3 „ PDF-Feldtypen “
+4 Siehe Kapitel 2.10.3
 
-SEITE 36 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+“, Kapitel 2.10.6 Vertragsarztstempel
 
-**Formularfelder digitales Muster 10**
+PDF-Feldtypen
 
-Tabelle 15 sowie den sich anschließenden Kapiteln.
+und Kapitel 2.10.7  Tabelle 15 sowie den sich anschließenden Kapiteln.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31 2.10.5 „ Perso-
+Prüfnummer“ getroffenen Aussagen.
+
+2.10.5 Perso-
 
 NR. M10_1 M10_2 M10_3 M10_4 M10_5 M10_6 M10_7 FORMATIE- RUNG Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig
 
@@ -2354,8 +1838,6 @@ M10_23
 
 M10_24
 
-SEITE 37 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 **FORMULARFELDBEZEICH-** **NUNG**
 
 4229_Knappschaftskennzif- fer
@@ -2386,7 +1868,7 @@ SEITE 37 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 4205_Auftrag
 
-**FORMULARFELDTYP**
+**4FORMULARFELDTYP**
 
 Einzeiliges Textfeld
 
@@ -2422,9 +1904,7 @@ Mehrzeiliges Textfeld
 
 Mehrzeiliges Textfeld
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-**4** **ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+**ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
 
 5
 
@@ -2472,40 +1952,28 @@ Schriftgrößen-abhängig:  siehe Kapitel 3.2.2.24
 
 20
 
-|  | FORMATIE- |
-|---|---|
-| RUNG |  |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 12 pt, |
-|  | linksbündig |
-| Courier | 8 pt, |
-|  | linksbündig |
-| Courier, | links- |
-| bündig |  |
-|  | Schriftgröße: |
-| siehe | Kapitel |
-| 3.2.2.22 |  |
-| Courier, | links- |
-| bündig |  |
-|  | Schriftgröße: |
-| siehe | Kapitel |
-| 3.2.2.23 |  |
-| Courier, | links- |
-| bündig |  |
-|  | Schriftgröße: |
-| siehe | Kapitel |
-| 3.2.2.24 |  |
+**FORMATIE-** **RUNG**
 
-Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 8 pt, Courier, links- siehe Kapitel Courier, links- siehe Kapitel Courier, links- siehe Kapitel
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 12 pt,  linksbündig
+
+Courier 8 pt,  linksbündig
+
+Courier, links- bündig  Schriftgröße:  siehe Kapitel  3.2.2.22
+
+Courier, links- bündig  Schriftgröße:  siehe Kapitel  3.2.2.23
+
+Courier, links- bündig  Schriftgröße:  siehe Kapitel  3.2.2.24
+
 
 ---
 
@@ -2513,75 +1981,61 @@ Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Courier 12 pt, Couri
 
 M10_25
 
-**Tabelle 15: Formularfelder des digitalen Musters 10**
-
-3.2.2.1
-
-Es gelten die Regelungen aus den Erläuterungen zur  Muster 10, Punkt 1). Entsprechend diesen Erläuterungen darf nur eins der Felder „ M10_1: 4221_Kurativ “,  „ M10_2: 4221_Praeventiv “, „ M10_3: 4221_belegaerztliche_Behandlung “ oder „ M10_12: 4221_ESS “ ange- kreuzt werden.
-
-3.2.2.2
-
-Es gelten die Ausführungen aus Kapitel 3.2.2.3
-
-Es gelten die Ausführungen aus Kapitel 3.2.2.4
-
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 2).
-
-3.2.2.5
-
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 6). Entsprechend des Hinweises ist das Quartal der Ausstellung als einstellige Zahl einzu- tragen.
-
-3.2.2.6
-
-Das PDF- Formularfeld „ M10_6: 4101_Ausstellungs_Jahr “ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 „ Datumsfelder “.
-
-Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen des Formulars als zweistellige Zahl einzutragen ist. Somit enthält der sichtbare Teil das Jahr der Ausstellung  als zweistellige Zahl in der Form JJ. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu  nutzen.
-
-Der Inhalt des rein maschinenlesbaren Teils entspricht dem Jahr der Ausstellung als vierstellige Jahreszahl,  also in der Form JJJJ.
-
-3.2.2.7
-
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 4). Demnach kann das Feld vom nutzt werden. In der Regel wird dort die Auftragsnummer des im Auftrag tätigen Arztes hinterlegt werden.  Die Auftragsnummer ist auf digitalen Mustern verpflichtend anzugeben. Neben der Auftragsnummer ka auch eine andere Systematik zur eindeutigen Zuordnung des digitalen Auftrags zu den Probenmaterialen  eingesetzt werden.
-
-SEITE 38 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 **FORMULARFELDBEZEICH-** **NUNG**
 
 0000_Schwangerschaftswo- che
 
-M10_1: 4221_Kurativ
+**FORMULARFELDTYP**
 
-M10_2: 4221_Praeventiv
+Einzeiliges Textfeld
 
-M10_3: 4221_belegaerztliche_Behandlung
+**Tabelle 15: Formularfelder des digitalen Musters 10**
 
-M10_4: 4202_Unfall
+3.2.2.1 M10_1: 4221_Kurativ
 
-M10_5: 4101_Ausstellungs_Quartal
+Es gelten die Regelungen aus den Erläuterungen zur  Muster 10, Punkt 1). Entsprechend diesen Erläuterungen darf nur eins der Felder „ M10_2: 4221_Praeventiv“, „M10_3: 4221_belegaerztliche_Behandlung kreuzt werden.
 
-M10_6: 4101_Ausstellungs_Jahr
+3.2.2.2 M10_2: 4221_Praeventiv
 
-M10_7: 8311_Labor_Auftragsnummer
+Es gelten die Ausführungen aus Kapitel 3.2.2.1 M10_1: 4221_Kurativ
 
-], Muster 10, Punkt 6). Dort wird festgelegt, dass das Jahr der Ausstellung
+3.2.2.3 M10_3: 4221_belegaerztliche_Behandlung
 
-**4FORMULARFELDTYP** **ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+Es gelten die Ausführungen aus Kapitel 3.2.2.1 M10_1: 4221_Kurativ 3.2.2.4 M10_4: 4202_Unfall
 
-Einzeiliges Textfeld 2
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 2).
+
+3.2.2.5 M10_5: 4101_Ausstellungs_Quartal
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 6). Entsprechend des Hinweises ist das Quartal der Ausstellung als einstellige Zahl einzu- tragen.
+
+3.2.2.6 M10_6: 4101_Ausstellungs_Jahr
+
+Das PDF-Formularfeld „M10_6: 4101_Ausstellungs_Jahr aus Kapitel 2.10.4.1 Datumsfelder
+
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 10, Punkt 6). Dort wird festgelegt, dass das Jahr der Ausstellung  des Formulars als zweistellige Zahl einzutragen ist. Somit enthält der sichtbare Teil das Jahr der Ausstellung  als zweistellige Zahl in der Form *JJ*. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu  nutzen.
+
+Der Inhalt des rein maschinenlesbaren Teils entspricht dem Jahr der Ausstellung als vierstellige Jahreszahl,  also in der Form *JJJJ*
+
+3.2.2.7 M10_7: 8311_Labor_Auftragsnummer
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 4). Demnach kann das Feld vom im Auftrag tätig gewordenen Arzt für eigene Zwecke ge- nutzt werden. In der Regel wird dort die Auftragsnummer des im Auftrag tätigen Arztes hinterlegt werden.  Die Auftragsnummer ist auf digitalen Mustern verpflichtend anzugeben. Neben der Auftragsnummer ka auch eine andere Systematik zur eindeutigen Zuordnung des digitalen Auftrags zu den Probenmaterialen  eingesetzt werden.
+
+**4 ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+
+2
 
 Vordruckvereinbarung (siehe [Vordruckerläuterungen],
 
-3.2.2.1 „ M10_1: 4221_Kurativ “.
+“ oder „
 
-3.2.2.1 „ M10_1: 4221_Kurativ “.
-
-im Auftrag tätig gewordenen Arzt für eigene Zwecke ge-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+“ ist ein Datumsfeld entsprechend der Definition
 
 **ANZAHL**  **ERLAUB-** **TER**  **ZEICHEN**
 
 2
+
+M10_1: 4221_Kurativ M10_12: 4221_ESS
 
 Vordruckerläuterungen],
 
@@ -2592,6 +2046,8 @@ Vordruckerläuterungen],
 **FORMATIE-** **RUNG**
 
 Courier 12 pt,  linksbündig
+
+“ ange-
 
 nn
 
@@ -2604,7 +2060,7 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.2.2.9 M10_9: 3110_Geschlecht
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 7). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht “ mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß  Tabelle 11 befüllt werden.
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 7). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht“ mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß  Tabelle 11 befüllt werden.
 
 3.2.2.10 M10_10: 4231_Kontrolluntersuchung_bekannte_Infektion
 
@@ -2616,7 +2072,7 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.2.2.12 M10_12: 4221_ESS
 
-Es gelten die Ausführungen aus Kapitel
+Es gelten die Ausführungen aus Kapitel 3.2.2.1 M10_1: 4221_Kurativ
 
 3.2.2.13 M10_13: 4204_eingeschraenkter_Leistungsanspruch
 
@@ -2624,7 +2080,7 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.2.2.14 M10_14: 0000_Erstveranlasser_BSNR
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 13). Demnach ist hier die BSNR bzw. die ASV tes einzutragen.
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 13). Demnach ist hier die BSNR bzw. die ASV-Teamnummer des erstveranlassenden Arz- tes einzutragen.
 
 3.2.2.15 M10_15: 0000_Erstveranlasser_LANR
 
@@ -2632,23 +2088,19 @@ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe 
 
 3.2.2.16 M10_16: 8219_Abnahmedatum
 
-Das PDF- Formularfeld „ M10_16: 8219_Abnahmedatum “ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 „ Datumsfelder “.
+Das PDF-Formularfeld „M10_16: 8219_Abnahmedatum“ ist ein Datumsfeld entsprechend der Definition  aus Kapitel 2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen Form TTMMJJ zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen.
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 10, Punkt 11). Dort wird festgelegt, dass das Abnahmedatum in der  Form *TTMMJJ* zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen.
 
-Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form JJJJMMTT.
+Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form
 
 Sowohl im sichtbaren als auch im rein maschinenlesbaren Teil werden bei einstelligen Tages angaben führende Nullen gesetzt.
 
-SEITE 39 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+Kennnummer für die „Knapp-
 
-3.2.2.1 „ M10_1: 4221_Kurativ “.
+Vordruckerläuterungen],
 
-], Muster 10, Punkt 11). Dort wird festgelegt, dass das Abnahmedatum in der
-
-Vordruckerläuterungen],  - Kennnummer für die „Knapp-
-
-Vordruckerläuterungen],  - Formularfeld „ M10_9:
+Vordruckerläuterungen],  Formularfeld „M10_9:
 
 Vordruckerläuterungen],
 
@@ -2656,57 +2108,123 @@ Vordruckerläuterungen],
 
 Vordruckerläuterungen],
 
-Vordruckerläuterungen],  -Teamnummer des erstveranlassenden Arz-
+Vordruckerläuterungen],
 
 Vordruckerläuterun-
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31 - und Monats-
+*JJJJMMTT*
+
+- und Monats-
 
 
 ---
 
-| 3.2.2.17 |  | M10_17: |  | 8219_Abnahmezeit |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 12). | Demnach | ist | hier die | Abnahmezeit | in der | Form | hhmm | anzugeben, | wenn diese | nach |
-| den |  | Qualitätssicherungsrichtlinien | | | zu | laboratoriumsmedizinischen | |  | Untersuchungen | der | Bundesärztekam- | |
-| mer | erforderlich | ist. |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.18 |  | M10_18: | 8501_eilt |  |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 14). |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.19 |  | M10_19: |  | 8118_Telefonnummer |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 14). | Demnach | wird | hier die | Telefonnummer | | angegeben, | an die | der Befund | zu | übermitteln |
-| ist. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3.2.2.20 |  | M10_20: | 8118_Faxnummer | |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 14). | Demnach | wird | hier die | Faxnummer | angegeben, | an | die der | Befund zu | übermitteln | ist. |
-| 3.2.2.21 |  | M10_21: | 0000_Nummer | |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 14). | Demnach | wird | hier die |  | Telefonnummer | oder | Faxnummer in | Abhängigkeit | des | ge- |
-| wählten |  | Ankreuzfeldes |  | eingetragen. |  |  |  |  |  |  |  |  |
-| 3.2.2.22 |  | M10_22: |  | 4207_Diagnose_Verdachtsdiagnose | | |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 15). |  |  |  |  |  |  |  |  |  |  |
-| Die | Schriftgröße | dieses | Feldes | kann | beruhend | auf den | Regelungen | in | Kapitel | 2.10.4.2 „ | Felder mit | variablem |
-| Inhalt | “ und | unter | Beachtung | der | nachfolgenden | Tabelle | durch | das | erstellende | PVS angepasst |  | werden: |
-|  | Schriftgröße | in pt |  | Anzahl | sichtbarer | Zeichen |  |  | Anzahl | erlaubter | Zeichen |  |
-| 6 |  |  |  | 108 |  |  |  | 108 |  |  |  |  |
-| 7 |  |  |  | 92 |  |  |  | 92 |  |  |  |  |
-| 8 |  |  |  | 81 |  |  |  | 81 |  |  |  |  |
-| 9 |  |  |  | 72 |  |  |  | 72 |  |  |  |  |
-| 10 |  |  |  | 65 |  |  |  | 65 |  |  |  |  |
-| 11 |  |  |  | 59 |  |  |  | 59 |  |  |  |  |
-| 12 |  |  |  | 54 |  |  |  | 54 |  |  |  |  |
-| Tabelle | 16: Anzahl | sichtbarer | und erlaubter | Zeichen | für das | Feld „ M10_22: |  | 4207_Diagnose_Verdachtsdiagnose | | “ auf | digitalem | Muster 10 |
-| 3.2.2.23 |  | M10_23: |  | 4208_Befund_Medikation | |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 15). |  |  |  |  |  |  |  |  |  |  |
-| Die | Schriftgröße | dieses | Feldes | kann | beruhend | auf den | Regelungen | in | Kapitel | 2.10.4.2 „ | Felder mit | variablem |
-| Inhalt | “ und | unter | Beachtung | der | nachfolgenden | Tabelle | durch | das | erstellende | PVS angepasst | werden. | |
-| SEITE | 40 VON | 102 / KBV | / | TECHNISCHES | HANDBUCH | DIGITALE VORDRUCKE | / 9. | FEBRUAR 2026 | / VERSION: | 2.31 |  |  |
+3.2.2.17 M10_17: 8219_Abnahmezeit
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 12). Demnach ist hier die Abnahmezeit in der Form hhmm anzugeben, wenn diese nach den Qualitätssicherungsrichtlinien zu laboratoriumsmedizinischen Untersuchungen der Bundesärztekam- mer erforderlich ist. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14).  Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Telefonnummer angegeben, an die der Befund zu übermitteln Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Faxnummer angegeben, an die der Befund zu übermitteln ist. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Telefonnummer oder Faxnummer in Abhängigkeit des ge- wählten Ankreuzfeldes eingetragen. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 15).  Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden: Schriftgröße in pt Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 15).  Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden. SEITE 40 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE M10_17: 8219_Abnahmezeit M10_18: 8501_eilt M10_19: 8118_Telefonnummer M10_20: 8118_Faxnummer M10_21: 0000_Nummer M10_22: 4207_Diagnose_Verdachtsdiagnose M10_23: 4208_Befund_Medikation Anzahl sichtbarer Zeichen das Feld „ M10_22: 4207_Diagnose_Verdachtsdiagnose   /  9. FEBRUAR 2026  /  VERSION: 2.31 Anzahl erlaubter Zeichen 2.10.4.2 „ Felder mit variablem 2.10.4.2 „ Felder mit variablem “ auf digitalem Muster 10
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 12). Demnach ist hier die Abnahmezeit in der Form  den Qualitätssicherungsrichtlinien zu laboratoriumsmedizinischen Untersuchungen der Bundesärztekam- mer erforderlich ist.
+
+3.2.2.18 M10_18: 8501_eilt
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14).
+
+3.2.2.19 M10_19: 8118_Telefonnummer
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Telefonnummer angegeben, an die der Befund zu übermitteln  ist.
+
+3.2.2.20 M10_20: 8118_Faxnummer
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Faxnummer angegeben, an die der Befund zu übermitteln ist.
+
+3.2.2.21 M10_21: 0000_Nummer
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 14). Demnach wird hier die Telefonnummer oder Faxnummer in Abhängigkeit des ge- wählten Ankreuzfeldes eingetragen.
+
+3.2.2.22 M10_22: 4207_Diagnose_Verdachtsdiagnose
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [
+
+Muster 10, Punkt 15).
+
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+
+Schriftgröße in pt 6
+
+7
+
+8
+
+9
+
+Anzahl sichtbarer Zeichen 108
+
+92
+
+81
+
+72
+
+10
+
+11
+
+12
+
+**Tabelle 16: Anzahl sichtbarer und erlaubter Zeichen für**
+
+3.2.2.23 M10_23: 4208_Befund_Medikation
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 15).
+
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
+
+65
+
+59
+
+54
+
+**das Feld „M10_22: 4207_Diagnose_Verdachtsdiagnose**
+
+*hhmm* anzugeben, wenn diese nach
+
+Anzahl erlaubter Zeichen 108
+
+92
+
+81
+
+72
+
+65
+
+59
+
+54
+
+2.10.4.2
+
+2.10.4.2
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],
+
+Felder mit variablem
+
+**“ auf digitalem Muster 10**
+
+Vordruckerläuterungen],
+
+Felder mit variablem
+
 
 ---
 
@@ -2715,6 +2233,12 @@ Schriftgröße in pt 6
 7
 
 8
+
+Anzahl sichtbarer  Zeichen 648
+
+460
+
+324
 
 9
 
@@ -2726,11 +2250,13 @@ Schriftgröße in pt 6
 
 **Tabelle 17: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
 
-3.2.2.24
+3.2.2.24 M10_24: 4205_Auftrag
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 15).
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [
 
-Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+Muster 10, Punkt 15).
+
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
 Schriftgröße in pt 6
 
@@ -2739,42 +2265,6 @@ Schriftgröße in pt 6
 8
 
 9
-
-10
-
-11
-
-12
-
-**Tabelle 18: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
-
-3.2.2.25
-
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 3).
-
-**3.3**
-
-In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 10A beschrieben.
-
-**3.3.1**
-
-Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs trags, welche vom Einsender vergeben werden kann. D gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
-
-SEITE 41 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M10_24: 4205_Auftrag
-
-M10_25: 0000_Schwangerschaftswoche
-
-**INHALTE DIGITALES MUSTER 10A**
-
-**Metadaten digitales Muster 10A**
-
-Anzahl sichtbarer  Zeichen 648
-
-460
-
-324
 
 288
 
@@ -2792,11 +2282,29 @@ Anzahl sichtbarer  Zeichen 1080
 
 432
 
-390
+10 390
+
+11
 
 | 295 | 295 | 59 |
 |---|---|---|
 | 270 | 270 | 54 |
+
+12
+
+**Tabelle 18: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
+
+3.2.2.25 M10_25: 0000_Schwangerschaftswoche
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 3).
+
+**3.3** **INHALTE DIGITALES MUSTER 10A**
+
+In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 10A beschrieben.
+
+**3.3.1** **Metadaten digitales Muster 10A**
+
+Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs trags, welche vom Einsender vergeben werden kann. D gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
 
 Anzahl erlaubter Zei- chen 648
 
@@ -2808,7 +2316,7 @@ Anzahl erlaubter Zei- chen 648
 
 195
 
-**M10_23: 4208_Befund_Medikation “ auf digitalem Muster 10**
+**M10_23: 4208_Befund_Medikation**
 
 Anzahl erlaubter  Zeichen 1080
 
@@ -2820,12 +2328,10 @@ Anzahl erlaubter  Zeichen 1080
 
 390
 
-**M10_24: 4205_Auftrag “ auf digitalem Muster 10**
+**M10_24: 4205_Auftrag**
 
 -Ident ist eine eindeutige Kennzeichnung eines Auf- a diese Information nicht auf dem Muster selbst ab-
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 Anzahl Zeichen  pro Zeile 108
 
 92
@@ -2833,24 +2339,6 @@ Anzahl Zeichen  pro Zeile 108
 81
 
 72
-
-65
-
-Anzahl Zeichen  pro Zeile 108
-
-92
-
-81
-
-72
-
-65
-
-2.10.4.2 „ Felder mit variablem
-
-Vordruckerläuterungen],
-
-Vordruckerläuterungen],
 
 Anzahl Zeilen 6
 
@@ -2859,6 +2347,22 @@ Anzahl Zeilen 6
 4
 
 4
+
+65
+
+**“ auf digitalem Muster 10**
+
+Vordruckerläuterungen],
+
+2.10.4.2 Felder mit variablem
+
+Anzahl Zeichen  pro Zeile 108
+
+92
+
+81
+
+72
 
 3
 
@@ -2874,11 +2378,15 @@ Anzahl Zeilen 10
 
 6
 
-6
+65 6
 
 5
 
 5
+
+**“ auf digitalem Muster 10**
+
+Vordruckerläuterungen],
 
 
 ---
@@ -2889,53 +2397,51 @@ Auftragsnummer_Einsender
 
 **Tabelle 19: Spezifische Metadaten für Muster 10A**
 
-Für das Muster 10A gelten darüber hinaus die in Kapitel „ 2.9 Metadaten “ spezifizierten Metadaten mit fol- genden Festlegungen:
+Für das Muster 10A gelten darüber hinaus die in Kapitel „ genden Festlegungen:
 
-› Formularnummer: 10A  › Formularversion: Entspricht der jeweiligen Versionsnummer › Technische_Version: 6
+Formularnummer: 10A  Formularversion: Entspricht der jeweiligen Versionsnummer Technische_Version: 6
 
-**3.3.2**
-
-**Abbildung 7: Formularfelder des digitalen Musters 10A**
-
-Für das Personalienfeld und die Prüfnummer gelten die Vorgaben aus in Kapitel  und Kapitel 2.10.7 „ Prüfnummer “. Für die weiteren Felder gelten die Vorgaben aus Tabelle 20 sowie aus  den sich anschließenden Kapiteln.
-
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 5 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
-|---|---|---|---|
-| 4221_Kurativ | Ankreuzfeld | Stil: Kreuz |  |
-
-________________  5 Siehe Kapitel 2.10.3 „ PDF-Feldtypen “
-
-SEITE 42 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**Formularfelder digitales Muster 10A**
+**3.3.2** **Formularfelder digitales Muster 10A**
 
 Type
 
 Alpha-numerisch  maximal 60 Zeichen
 
+**Abbildung 7: Formularfelder des digitalen Musters 10A**
+
+Für das Personalienfeld und die Prüfnummer gelten die Vorgaben aus in Kapitel  und Kapitel 2.10.7 Prüfnummer“. Für die weiteren Felder gelten die Vorgaben aus  den sich anschließenden Kapiteln.
+
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-5FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
+|---|---|---|---|
+| 4221_Kurativ | Ankreuzfeld | Stil: Kreuz |  |
+
+5 Siehe Kapitel 2.10.3 PDF-Feldtypen
+
 Standardwert 0
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+2.9 Metadaten
 
 Inhalt
 
 Eine vom Einsender vergebene  Identifikation für den Auftrag.  Die Befüllung dieses Metada- tums ist optional.
 
-2.10.5 „ Personalienfeld “
+“ spezifizierten Metadaten mit fol-
+
+2.10.5 Personalienfeld Tabelle 20 sowie aus
 
 NR. M10A_1 FORMATIE- RUNG
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 5 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-5FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
 | 4221_Praeventiv | Ankreuzfeld | Stil: Kreuz |  |
-| 4221_belegaerztliche_Be- handlung | Ankreuzfeld | Stil: Kreuz | |
+| 4221_belegaerztliche_Be-handlung | Ankreuzfeld | Stil: Kreuz | |
 | 4202_Unfall | Ankreuzfeld | Stil: Kreuz | |
-| 8311_Labor_Auftragsnum- mer | Einzeiliges Textfeld | 16 | 60 |
-| 4229_Knappschaftskenn- ziffer | Einzeiliges Textfeld | 5 | 5 |
+| 8311_Labor_Auftragsnum-mer | Einzeiliges Textfeld | 16 | 60 |
+| 4229_Knappschaftskenn-ziffer | Einzeiliges Textfeld | 5 | 5 |
 | 3110_Geschlecht | Einzeiliges Textfeld | 1 | 1 |
-| 0000_Zusaetzliche_Anga- ben_zu_Untersuchungen | Einzeiliges Textfeld | Schriftgrößen-abhängig: siehe Kapitel | |
+| 0000_Zusaetzliche_Anga-ben_zu_Untersuchungen | Einzeiliges Textfeld | Schriftgrößen-abhängig:siehe Kapitel | |
 | 8219_Abnahmedatum | Einzeiliges Textfeld | 6 | 15 |
 | 8219_Abnahmezeit | Einzeiliges Textfeld | 4 | 4 |
 | 8501_eilt | Ankreuzfeld | Stil: Quadrat | |
@@ -2955,14 +2461,11 @@ NR. M10A_1 FORMATIE- RUNG
 | 4205_Auftrag17 | Ankreuzfeld | Stil: Quadrat | |
 | 4205_Auftrag18 | Ankreuzfeld | Stil: Quadrat | |
 
-SEITE 43 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-NR. M10A_2 M10A_3 M10A_4 M10A_5 M10A_6 M10A_7 M10A_8 M10A_9 M10A_10 M10A_11 M10A_12 M10A_13 M10A_14 M10A_15 M10A_16 M10A_17 M10A_18 M10A_19 M10A_20 M10A_21 M10A_22 M10A_23 M10A_24 M10A_25 M10A_26 siehe Kapitel 3.3.2.8 FORMATIE- RUNG Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier, links- bündig Schriftgröße: 3.3.2.8  Courier 12 pt, linksbündig Courier 12 pt, linksbündig / 9. FEBRUAR 2026 / VERSION: 2.31
-
+NR. M10A_2 M10A_3 M10A_4 M10A_5 M10A_6 M10A_7 M10A_8 M10A_9 M10A_10 M10A_11 M10A_12 M10A_13 M10A_14 M10A_15 M10A_16 M10A_17 M10A_18 M10A_19 M10A_20 M10A_21 M10A_22 M10A_23 M10A_24 M10A_25 M10A_26 siehe Kapitel 3.3.2.8 FORMATIE- RUNG Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier, links- bündig Schriftgröße: 3.3.2.8  Courier 12 pt, linksbündig Courier 12 pt, linksbündig
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 5 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-5FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
 | 4205_Auftrag19 | Ankreuzfeld | Stil: Quadrat |  |
 | 4205_Auftrag20 | Ankreuzfeld | Stil: Quadrat | |
@@ -2996,16 +2499,11 @@ NR. M10A_2 M10A_3 M10A_4 M10A_5 M10A_6 M10A_7 M10A_8 M10A_9 M10A_10 M10A_11 M10A
 | 4205_Auftrag51 | Ankreuzfeld | Stil: Quadrat | |
 | 4205_Auftrag52 | Ankreuzfeld | Stil: Quadrat | |
 
-SEITE 44 VON 102 / KBV /
-
-TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-NR. M10A_27 M10A_28 M10A_29 M10A_30 M10A_31 M10A_32 M10A_33 M10A_34 M10A_35 M10A_36 M10A_37 M10A_38 M10A_39 M10A_40 M10A_41 M10A_42 M10A_43 M10A_44 M10A_45 M10A_46 M10A_47 M10A_48 M10A_49 M10A_50 M10A_51 M10A_52 M10A_53 M10A_54 M10A_55 M10A_56 M10A_57 FORMATIE- RUNG / 9. FEBRUAR 2026 / VERSION: 2.31
-
+NR. M10A_27 M10A_28 M10A_29 M10A_30 M10A_31 M10A_32 M10A_33 M10A_34 M10A_35 M10A_36 M10A_37 M10A_38 M10A_39 M10A_40 M10A_41 M10A_42 M10A_43 M10A_44 M10A_45 M10A_46 M10A_47 M10A_48 M10A_49 M10A_50 M10A_51 M10A_52 M10A_53 M10A_54 M10A_55 M10A_56 M10A_57 FORMATIE- RUNG
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 5 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-5FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | |
 |---|---|---|---|
 | 4205_Auftrag53 | Ankreuzfeld | Stil: Quadrat | |
 | 4205_Auftrag54 | Ankreuzfeld | Stil: Quadrat | |
@@ -3017,264 +2515,315 @@ NR. M10A_27 M10A_28 M10A_29 M10A_30 M10A_31 M10A_32 M10A_33 M10A_34 M10A_35 M10A
 | 4205_Auftrag63 | Ankreuzfeld | Stil: Quadrat | |
 | 4205_Auftrag64 | Ankreuzfeld | Stil: Quadrat | |
 | 4205_Auftrag61 | Ankreuzfeld | Stil: Quadrat | |
-| 4205_Auftrag61_sons- tige_Auftraege | Einzeiliges Textfeld | Schriftgrößen-abhängig: siehe Kapitel | |
-| 0000_Schwangerschafts- woche | Einzeiliges Textfeld | 2 2 | |
+| 4205_Auftrag61_sons-tige_Auftraege | Einzeiliges Textfeld | Schriftgrößen-abhängig:siehe Kapitel | |
+| 0000_Schwangerschafts-woche | Einzeiliges Textfeld | 2 2 | |
 
 **Tabelle 20: Formularfelder des digitalen Musters 10A**
 
-3.3.2.1
+3.3.2.1 M10A_1: 4221_Kurativ
 
-Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 1). Entsprechend diesen Erläuterungen darf nur eins der Felder „ M10A_1: 4221_Kura- tiv “, „ M10A_2: 4221_Praeventiv “ oder „ M10A_3: 4221_belegaerztliche_Behandlung “ angekreuzt werden.
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 1). Entsprechend diesen Erläuterungen darf nur eins der Felder „ tiv“, „M10A_2: 4221_Praeventiv“ oder „
 
-3.3.2.2
+3.3.2.2 M10A_2: 4221_Praeventiv
 
-Es gelten die Ausführungen aus Kapitel 3.3.2.3
+Es gelten die Ausführungen aus Kapitel
 
-Es gelten die Ausführungen aus Kapitel 3.3.2.4
+3.3.2.3 M10A_3: 4221_belegaerztliche_Behandlung
+
+Es gelten die Ausführungen aus Kapitel 3.3.2.4 M10A_4: 4202_Unfall
 
 Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 2).
 
-3.3.2.5
+3.3.2.5 M10A_5: 8311_Labor_Auftragsnummer
 
 Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 3). Demnach kann das Feld vom im Auftrag tätig gewordenen Arzt fakultativ für eigene  Zwecke genutzt werden. In der Regel wird dort die Auftragsnummer des im Auftrag tätigen Arztes hinter-
 
-SEITE 45 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+M10A_3: 4221_belegaerztliche_Behandlung 3.3.2.1 M10A_1: 4221_Kurativ
 
-M10A_1: 4221_Kurativ
+3.3.2.1 M10A_1: 4221_Kurativ
 
-M10A_2: 4221_Praeventiv
+Vordruckerläuterungen],  M10A_1: 4221_Kura- “ angekreuzt werden.
 
-M10A_3: 4221_belegaerztliche_Behandlung
+Vordruckerläuterungen],
 
-M10A_4: 4202_Unfall
+NR. M10A_58 M10A_59 M10A_60 M10A_61 M10A_62 M10A_63 M10A_64 M10A_65 M10A_66 M10A_67 M10A_68 M10A_69 ERLAUB- TER  siehe Kapitel 3.3.2.14 FORMATIE- RUNG Courier, linksbün- dig Schriftgröße: 3.3.2.14 Courier 12 pt, linksbündig Vordruckerläuterungen],
 
-M10A_5: 8311_Labor_Auftragsnummer
 
-3.3.2.1 „ M10A_1: 4221_Kurativ “.
+---
 
-3.3.2.1 „ M10A_1: 4221_Kurativ “.
+legt werden. Die Auftragsnummer ist auf digitalen Mustern verpflichtend anzugeben. Neben der Auftrags- nummer kann auch eine andere Systematik zur eindeutigen Zuordnung des digitalen Auftrags zu den Pro- benmaterialen eingesetzt werden.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+3.3.2.6 M10A_6: 4229_Knappschaftskennziffer
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 3). Demnach kann in dem Feld die entsprechende EBM schaftskennziffer“ angegeben werden, falls die Voraussetzung einer Ausnahmeindikation vorliegt.
+
+3.3.2.7 M10A_7: 3110_Geschlecht
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 4). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß  Tabelle 11 befüllt werden.
+
+3.3.2.8 M10A_8: 0000_Zusaetzliche_Angaben_zu_Untersuchungen
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 8).
+
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+
+Schriftgröße in pt Anzahl sichtbarer Zeichen 6 62
+
+7 53
+
+8 47
+
+9 41
+
+10 37
+
+11 34
+
+12 31
+
+**Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem Muster 10A**
+
+3.3.2.9 M10A_9: 8219_Abnahmedatum
+
+Das PDF-Formularfeld „M10A_9: 8219_Abnahmedatum aus Kapitel 2.10.4.1 Datumsfelder
+
+Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung  (siehe [Vordruckerläuterungen], Muster 10A, Punkt 6). Dort wird festgelegt, dass das Abnahmedatum in der  Form *TTMMJJ* zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen.
+
+Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form
+
+Sowohl im sichtbaren als im auch maschinenlesbaren Teil werden bei einstelligen Tages ben führende Nullen gesetzt.
+
+3.3.2.10 M10A_10: 8219_Abnahmezeit
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ rungen], Muster 10A, Punkt 7). Demnach ist hier die Abnahmezeit in der Form
+
+Kennnummer für die „Knapp-
+
+Anzahl erlaubter Zeichen 62
+
+53
+
+47
+
+41
+
+37
+
+34
+
+31
+
+“ ist ein Datumsfeld entsprechend der Definition
+
+Vordruckerläuterungen],
+
+Vordruckerläuterungen],  Formularfeld „M10A_7:
+
+Vordruckerläuterungen],
+
+2.10.4.2 Felder mit variablem
+
+*JJJJMMTT*
+
+- und Monatsanga-
+
+KBV_Vordruckerläute- *hhmm* anzugeben, wenn
+
+
+---
+
+diese nach den Qualitätssicherungsrichtlinien zu laboratoriumsmedizinischen Untersuchungen der Bundes- ärztekammer erforderlich ist.
+
+3.3.2.11 M10A_11: 8501_eilt
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9).
+
+3.3.2.12 M10A_12: 4205_Auftrag2 bis M10A_66: 4205_Auftrag64
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9). Demnach sind hier die zu erbringenden Leistungen anzukreuzen.
+
+3.3.2.13 M10A_67: 4205_Auftrag61
+
+Es gelten die Ausführungen aus Kapitel 3.3.2.12 M10A_12: 4205_Auftrag2
+
+Wurde das Feld „M10A_67: 4205_Auftrag61“ angekreuzt, so ist im Feld „ tige_Auftraege“ der Auftrag zu spezifizieren.
+
+3.3.2.14 M10A_68: 4205_Auftrag61_sonstige_Auftraege
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9). Demnach ist dieses Feld nur zu befüllen, wenn das Feld „ angekreuzt wurde. In diesem Fall ist hier die zu erbringende Leistung zu spezifizieren.
+
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden.
+
+Schriftgröße in pt Anzahl sichtbarer Zeichen 6 72
+
+7 42
+
+8 36
+
+9 32
+
+10 14
+
+11 13
+
+12 12
+
+**Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „**
+
+3.3.2.15 M10A_69: 0000_Schwangerschaftswoche
+
+Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 5).
+
+**3.4** **INHALTE DIGITALES MUSTER 39**
+
+In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 39 beschrieben. Wie in  diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten.
+
+**M10A_68: 4205_Auftrag61_sonstige_Auftraege**
+
+M10A_68: 4205_Auftrag61_sons-
+
+Anzahl erlaubter Zeichen 72
+
+42
+
+36
+
+32
+
+14
+
+13
+
+12
 
 Vordruckerläuterungen],
 
 Vordruckerläuterungen],
 
-NR. M10A_58 M10A_59 M10A_60 M10A_61 M10A_62 M10A_63 M10A_64 M10A_65 M10A_66 M10A_67 M10A_68 M10A_69 siehe Kapitel 3.3.2.14 ERLAUB- TER  FORMATIE- RUNG Courier, linksbün- dig Schriftgröße: 3.3.2.14 Courier 12 pt, linksbündig Vordruckerläuterungen],
+Vordruckerläuterungen],  M10A_67: 4205_Auftrag61 2.10.4.2 Felder mit variablem
+
+**“ auf digitalem Muster 10A**
+
+Vordruckerläuterungen],
 
 
 ---
 
-| legt | werden. | Die |  | Auftragsnummer | | ist auf | digitalen |  | Mustern | verpflichtend | anzugeben. | Neben | der | Auftrags- |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | nummer | kann auch | eine | andere |  | Systematik | zur | eindeutigen | | Zuordnung | des | digitalen | Auftrags zu | den Pro- |
-|  | benmaterialen | | eingesetzt |  | werden. |  |  |  |  |  |  |  |  |  |
-| 3.3.2.6 |  | M10A_6: |  |  | 4229_Knappschaftskennziffer | | |  |  |  |  |  |  |  |
-| Es | gelten | die | Regelungen | aus | den | Erläuterungen | | zur |  | Vordruckvereinbarung | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt | 3). | Demnach | kann | in | dem Feld | die | entsprechende | | EBM - | Kennnummer | für die | „Knapp- |
-|  | schaftskennziffer“ | |  | angegeben | werden, | falls | die |  | Voraussetzung | einer | Ausnahmeindikation | | vorliegt. |  |
-| 3.3.2.7 |  | M10A_7: |  | 3110_Geschlecht | |  |  |  |  |  |  |  |  |  |
-| Es | gelten | die | Regelungen | aus | den | Erläuterungen | | zur |  | Vordruckvereinbarung | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt | 4). | Demnach | ist | je nach |  | Geschlecht | des | Patienten das | PDF - | Formularfeld | „ M10A_7: | |
-|  | 3110_Geschlecht | “ | mit | dem | entsprechenden | |  | Kennzeichen | zu | befüllen. Das | Feld | darf mit | den Inhalten | gemäß |
-| Tabelle | 11 | befüllt | werden. |  |  |  |  |  |  |  |  |  |  |  |
-| 3.3.2.8 |  | M10A_8: |  |  |  |  | 0000_Zusaetzliche_Angaben_zu_Untersuchungen | | | |  |  |  |  |
-| Es | gelten | die | Regelungen | aus | den | Erläuterungen | | zur |  | Vordruckvereinbarung | (siehe | [ | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt | 8). |  |  |  |  |  |  |  |  |  |  |  |
-| Die | Schriftgröße | | dieses | Feldes | kann | beruhend | auf | den | Regelungen | in | Kapitel | 2.10.4.2 „ | Felder mit | variablem |
-| Inhalt | “ und | unter |  | Beachtung | der | nachfolgenden | | Tabelle | durch | das | erstellende | PVS angepasst |  | werden: |
-|  | Schriftgröße | in pt |  |  | Anzahl | sichtbarer | | Zeichen |  |  | Anzahl | erlaubter | Zeichen |  |
-| 6 |  |  |  |  | 62 |  |  |  |  | 62 |  |  |  |  |
-| 7 |  |  |  |  | 53 |  |  |  |  | 53 |  |  |  |  |
-| 8 |  |  |  |  | 47 |  |  |  |  | 47 |  |  |  |  |
-| 9 |  |  |  |  | 41 |  |  |  |  | 41 |  |  |  |  |
-| 10 |  |  |  |  | 37 |  |  |  |  | 37 |  |  |  |  |
-| 11 |  |  |  |  | 34 |  |  |  |  | 34 |  |  |  |  |
-| 12 |  |  |  |  | 31 |  |  |  |  | 31 |  |  |  |  |
-| Tabelle | 21: | Anzahl | sichtbarer | und | erlaubter | Zeichen für | das Feld | „0000_ | zusaetzliche_Angabe“ | | auf digitalem | Muster 10A |  |  |
-| 3.3.2.9 |  | M10A_9: |  |  | 8219_Abnahmedatum | |  |  |  |  |  |  |  |  |
-| Das | PDF- | Formularfeld | | „ | M10A_9: |  | 8219_Abnahmedatum | “ | ist ein | Datumsfeld |  | entsprechend | der | Definition |
-| aus | Kapitel | 2.10.4.1 | „ | Datumsfelder | “. |  |  |  |  |  |  |  |  |  |
-| Der | Inhalt | des | sichtbaren |  | Teils | entspricht | den | Regelungen | aus | den | Erläuterungen | zur | Vordruckvereinbarung | |
-| (siehe |  |  | [Vordruckerläuterungen | | ], | Muster | 10A, | Punkt 6). | Dort wird | festgelegt, | dass | das | Abnahmedatum | in der |
-| Form | TTMMJJ | zu | erstellen | ist. | Bei | der | Jahresangabe | sind | die | letzten beiden | Stellen | der | Jahreszahl | zu nutzen. |
-| Der | Inhalt | des | rein |  | maschinenlesbaren |  | Teils ist | das | Abnahmedatum | in | der Form | JJJJMMTT. |  |  |
-| Sowohl | im | sichtbaren | | als im | auch |  | maschinenlesbaren | | Teil werden | bei | einstelligen | Tages - | und | Monatsanga- |
-| ben | führende | Nullen |  | gesetzt. |  |  |  |  |  |  |  |  |  |  |
-| 3.3.2.10 |  | M10A_10: |  |  | 8219_Abnahmezeit | |  |  |  |  |  |  |  |  |
-| Es | gelten | die | Regelungen | aus | den | Erläuterungen | | zur |  | Vordruckvereinbarung | (siehe | [ | KBV_Vordruckerläute- | |
-|  | rungen], | Muster | 10A, | Punkt | 7). | Demnach | ist hier | die | Abnahmezeit | in | der Form | hhmm | anzugeben, | wenn |
-| SEITE | 46 VON | 102 / | KBV / |  | TECHNISCHES | HANDBUCH | DIGITALE | VORDRUCKE | / 9. | FEBRUAR 2026 | / VERSION: | 2.31 |  |  |
-
-legt werden. Die Auftragsnummer ist auf digitalen Mustern verpflichtend anzugeben. Neben der Auftrags- nummer kann auch eine andere Systematik zur eindeutigen Zuordnung des digitalen Auftrags zu den Pro- benmaterialen eingesetzt werden. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 3). Demnach kann in dem Feld die entsprechende EBM schaftskennziffer“ angegeben werden, falls die Voraussetzung einer Ausnahmeindikation vorliegt. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 4). Demnach ist je nach Geschlecht des Patienten das PDF 3110_Geschlecht “ mit dem entsprechenden Kennzeichen zu befüllen. Das Feld darf mit den Inhalten gemäß Tabelle 11 befüllt werden. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 8).  Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden: Schriftgröße in pt Tabelle 21: Anzahl sichtbarer und erlaubter Zeichen für das Feld „0000_ zusaetzliche_Angabe“ auf digitalem Muster 10A Das PDF- Formularfeld „ M10A_9: 8219_Abnahmedatum “ ist ein Datumsfeld entsprechend der Definition aus Kapitel 2.10.4.1 „ Datumsfelder “. Der Inhalt des sichtbaren Teils entspricht den Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [Vordruckerläuterungen Form TTMMJJ zu erstellen ist. Bei der Jahresangabe sind die letzten beiden Stellen der Jahreszahl zu nutzen. Der Inhalt des rein maschinenlesbaren Teils ist das Abnahmedatum in der Form JJJJMMTT. Sowohl im sichtbaren als im auch maschinenlesbaren Teil werden bei einstelligen Tages ben führende Nullen gesetzt. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ rungen], Muster 10A, Punkt 7). Demnach ist hier die Abnahmezeit in der Form hhmm anzugeben, wenn SEITE 46 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE M10A_6: 4229_Knappschaftskennziffer M10A_7: 3110_Geschlecht M10A_8: 0000_Zusaetzliche_Angaben_zu_Untersuchungen M10A_9: 8219_Abnahmedatum M10A_10: 8219_Abnahmezeit Anzahl sichtbarer Zeichen ], Muster 10A, Punkt 6). Dort wird festgelegt, dass das Abnahmedatum in der   /  9. FEBRUAR 2026  /  VERSION: 2.31 - Kennnummer für die „Knapp- - Formularfeld „ M10A_7: 2.10.4.2 „ Felder mit variablem Anzahl erlaubter Zeichen - und Monatsanga-
-
----
-
-| diese | nach den |  | Qualitätssicherungsrichtlinien | | | zu |  | laboratoriumsmedizinischen | |  | Untersuchungen | der | Bundes- |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | ärztekammer | erforderlich | ist. |  |  |  |  |  |  |  |  |  |  |
-| 3.3.2.11 |  | M10A_11: | 8501_eilt |  |  |  |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus den |  | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ |  | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt 9). |  |  |  |  |  |  |  |  |  |  |  |
-| 3.3.2.12 |  | M10A_12: | 4205_Auftrag2 | bis | M10A_66: | | 4205_Auftrag64 |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus den |  | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ |  | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt 9). | Demnach | sind | hier die | zu erbringenden | | Leistungen |  | anzukreuzen. |  |  |  |
-| 3.3.2.13 |  | M10A_67: | 4205_Auftrag61 | |  |  |  |  |  |  |  |  |  |
-| Es | gelten die | Ausführungen | aus | Kapitel | 3.3.2.12 | „ M10A_12: |  | 4205_Auftrag2 | “. |  |  |  |  |
-| Wurde | das Feld | „ M10A_67: |  | 4205_Auftrag61 | “ | angekreuzt, | so ist | im Feld | „ | M10A_68: |  | 4205_Auftrag61_sons- | |
-|  | tige_Auftraege | “ der | Auftrag zu | spezifizieren. | |  |  |  |  |  |  |  |  |
-| 3.3.2.14 |  | M10A_68: |  |  | 4205_Auftrag61_sonstige_Auftraege | |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus den |  | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ |  | Vordruckerläuterungen], | |
-| Muster | 10A, | Punkt 9). | Demnach | ist dieses | Feld | nur zu | befüllen, | wenn das | Feld | „ M10A_67: |  | 4205_Auftrag61 | “ |
-|  | angekreuzt | wurde. In | diesem Fall | ist hier | die | zu erbringende | Leistung | zu | spezifizieren. | |  |  |  |
-| Die | Schriftgröße | dieses | Feldes | kann | beruhend | auf den | Regelungen | in | Kapitel | 2.10.4.2 „ | Felder | mit | variablem |
-| Inhalt | “ und | unter | Beachtung der |  | nachfolgenden | Tabelle | durch | das | erstellende | PVS | angepasst | werden. |  |
-|  | Schriftgröße | in pt |  | Anzahl | sichtbarer | Zeichen |  |  | Anzahl | erlaubter | Zeichen |  |  |
-| 6 |  |  | 72 |  |  |  |  | 72 |  |  |  |  |  |
-| 7 |  |  | 42 |  |  |  |  | 42 |  |  |  |  |  |
-| 8 |  |  | 36 |  |  |  |  | 36 |  |  |  |  |  |
-| 9 |  |  | 32 |  |  |  |  | 32 |  |  |  |  |  |
-| 10 |  |  | 14 |  |  |  |  | 14 |  |  |  |  |  |
-| 11 |  |  | 13 |  |  |  |  | 13 |  |  |  |  |  |
-| 12 |  |  | 12 |  |  |  |  | 12 |  |  |  |  |  |
-| Tabelle | 22: Anzahl | sichtbarer | und erlaubter | Zeichen | für das | Feld „ M10A_68: |  | 4205_Auftrag61_sonstige_Auftraege | | “ | auf | digitalem | Muster 10A |
-| 3.3.2.15 |  | M10A_69: |  | 0000_Schwangerschaftswoche | | |  |  |  |  |  |  |  |
-| Es | gelten die | Regelungen | aus den |  | Erläuterungen | zur | Vordruckvereinbarung | | (siehe | [ |  | Vordruckerläuterungen], | |
-| Muster | 10, | Punkt 5). |  |  |  |  |  |  |  |  |  |  |  |
-| 3.4 | INHALTE | DIGITALES | MUSTER | 39 |  |  |  |  |  |  |  |  |  |
-| In | diesem | Abschnitt | werden die |  | musterspezifischen | Inhalte | für das | digitale | Muster | 39 | beschrieben. | | Wie in |
-| diesem | Dokument | bereits |  | beschrieben, | lassen | sich die | Inhalte | eines | Musters in | zwei | Abschnitte |  | zusammen- |
-| fassen: |  | Metadaten und | Daten. |  |  |  |  |  |  |  |  |  |  |
-| SEITE | 47 VON | 102 / KBV / | TECHNISCHES | HANDBUCH |  | DIGITALE VORDRUCKE | / 9. | FEBRUAR 2026 | / VERSION: | 2.31 |  |  |  |
-
-diese nach den Qualitätssicherungsrichtlinien zu laboratoriumsmedizinischen Untersuchungen der Bundes- ärztekammer erforderlich ist. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9). Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9). Demnach sind hier die zu erbringenden Leistungen anzukreuzen. Es gelten die Ausführungen aus Kapitel Wurde das Feld „ M10A_67: 4205_Auftrag61 “ angekreuzt, so ist im Feld „ M10A_68: 4205_Auftrag61_sons- tige_Auftraege “ der Auftrag zu spezifizieren. Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10A, Punkt 9). Demnach ist dieses Feld nur zu befüllen, wenn das Feld „ M10A_67: 4205_Auftrag61 “ angekreuzt wurde. In diesem Fall ist hier die zu erbringende Leistung zu spezifizieren. Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden. Schriftgröße in pt Tabelle 22: Anzahl sichtbarer und erlaubter Zeichen für das Feld „ Es gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ Muster 10, Punkt 5). In diesem Abschnitt werden die musterspezifischen Inhalte für das digitale Muster 39 beschrieben. Wie in diesem Dokument bereits beschrieben, lassen sich die Inhalte eines Musters in zwei Abschnitte zusammen- fassen: Metadaten und Daten. SEITE 47 VON 102  /  KBV  /  TECHNISCHES HANDBUCH DIGITALE VORDRUCKE M10A_11: 8501_eilt M10A_12: 4205_Auftrag2 bis M10A_66: 4205_Auftrag64 M10A_67: 4205_Auftrag61 M10A_68: 4205_Auftrag61_sonstige_Auftraege M10A_69: 0000_Schwangerschaftswoche INHALTE DIGITALES MUSTER 39 Anzahl sichtbarer Zeichen 3.3.2.12 „ M10A_12: 4205_Auftrag2 “. M10A_68: 4205_Auftrag61_sonstige_Auftraege   /  9. FEBRUAR 2026  /  VERSION: 2.31 Anzahl erlaubter Zeichen 2.10.4.2 „ Felder mit variablem “ auf digitalem Muster 10A
-
----
-
-**3.4.1**
+**3.4.1** **Metadaten digitales Muster 39**
 
 Entsprechend des technischen Handbuchs für die Blankoformularbedruckung ist es möglich im Barcode ein  sog. Anforderungs-Ident mitzuführen. Das Anforderungs trags, welche vom Einsender vergeben werden kann. D gebildet ist, wird diese als Metadatum wie folgt umgesetzt:
 
-Name
+Name Typ Standardwert
 
-Auftragsnummer_Einsen- der
-
-**Tabelle 23: Spezifische Metadaten für Muster 39**
-
-Für das Muster 39 gelten darüber hinaus die in Kapitel „ 2.9 Metadaten “ spezifizierten Metadaten mit fol- genden Festlegungen:
-
-› Formularnummer: 39  › Formularversion: Entspricht der jeweiligen Versionsnummer › Technische_Version: 3
-
-SEITE 48 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**Metadaten digitales Muster 39**
-
-Typ
+Auftragsnummer_Einsen-
 
 | Alpha-numerisch | 0 |
 |---|---|
 | maximal 60 Zei- |  |
 | chen |  |
 
+der
+
+**Tabelle 23: Spezifische Metadaten für Muster 39**
+
+Für das Muster 39 gelten darüber hinaus die in Kapitel „ genden Festlegungen:
+
+Formularnummer: 39  Formularversion: Entspricht der jeweiligen Versionsnummer Technische_Version: 3
+
 -Ident ist eine eindeutige Kennzeichnung eines Auf- a diese Information nicht auf dem Muster selbst ab-
 
-Standardwert Inhalt
+Inhalt
 
 Eine vom Einsender vergebene Identi- fikation für den Auftrag. Die Befüllung  dieses Metadatums ist optional.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+2.9 Metadaten“ spezifizierten Metadaten mit fol-
 
 
 ---
 
-**3.4.2 Formularfelder digitales Muster 39**
+**3.4.2** **Formularfelder digitales Muster 39**
 
 **Abbildung 8: Formularfelder des digitalen Musters 39**
 
-SEITE 49 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-/ 9. FEBRUAR 2026 /
-
-VERSION: 2.31
-
 
 ---
 
-Die Formularfelder auf der linken Seite spezifizieren den Laborauftrag und werden vom untersuchenden  einsendenden Arzt befüllt. Die Formularfelder des zytologischen Befunds / Kombinationsbefunds werden  vom zytologisch tätigen Arzt befüllt. Das Personalienf mer können in jedem Fall befüllt werden. Für das Personalienfeld, die beiden Vertragsarztstempel und die  Prüfnummer wurden die Eigenschaften bereits in den Kapiteln  „ Vertragsarztstempel “ und Kapitel 2.10.7 „ Prüfnummer “ definiert. Dieser Abschnitt widmet sich den Defini- tionen der übrigen Formularfelder.
+Die Formularfelder auf der linken Seite spezifizieren den Laborauftrag und werden vom untersuchenden  einsendenden Arzt befüllt. Die Formularfelder des zytologischen Befunds / Kombinationsbefunds werden  vom zytologisch tätigen Arzt befüllt. Das Personalienf mer können in jedem Fall befüllt werden. Für das Personalienfeld, die beiden Vertragsarztstempel und die  Prüfnummer wurden die Eigenschaften bereits in den Kapiteln
+
+Vertragsarztstempel tionen der übrigen Formularfelder.
 
 Für die Befüllung gelten die Regelungen aus den Erläuterungen zur Vordruckvereinbarung (siehe [ druckerläuterungen]).
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 6 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-6FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
-| 0000_alterskatego- rie_20_29_jahre | Ankreuzfeld | Stil: Kreuz |  |
-| 0000_alterskatego- rie_30_34_jahre | Ankreuzfeld | Stil: Kreuz | |
-| 0000_alterskatego- rie_ab_35_jahre | Ankreuzfeld | Stil: Kreuz | |
-| 8630_auftragsart_prima- erscreening | Ankreuzfeld | Stil: Kreuz | |
-| 8630_auftragart_abklae- rungsdiagnostik | Ankreuzfeld | Stil: Kreuz | |
-| 8629_auftrag_zytologi- sche_untersuchung | Ankreuzfeld | Stil: Kreuz | |
+| 0000_alterskatego-rie_20_29_jahre | Ankreuzfeld | Stil: Kreuz |  |
+| 0000_alterskatego-rie_30_34_jahre | Ankreuzfeld | Stil: Kreuz | |
+| 0000_alterskatego-rie_ab_35_jahre | Ankreuzfeld | Stil: Kreuz | |
+| 8630_auftragsart_prima-erscreening | Ankreuzfeld | Stil: Kreuz | |
+| 8630_auftragart_abklae-rungsdiagnostik | Ankreuzfeld | Stil: Kreuz | |
+| 8629_auftrag_zytologi-sche_untersuchung | Ankreuzfeld | Stil: Kreuz | |
 | 8629_auftrag_hpv_test | Ankreuzfeld | Stil: Kreuz | |
 | 8629_auftrag_ko_test | Ankreuzfeld | Stil: Kreuz | |
-| 7296_wiederholungsunter- suchung_nein | Ankreuzfeld | Stil: Kreuz | |
-| 7296_wiederholungsunter- suchung_ja | Ankreuzfeld | Stil: Kreuz | |
-| 7297_datum_der_letz- ten_untersuchung | Einzeiliges Textfeld | 5 | 12 |
-| 7414_gruppe_des_letz- ten_befundes | Einzeiliges Textfeld | 5 | 5 |
-| 3313_hpv_impfung_vollsta- endig | Ankreuzfeld | Stil: Kreuz | |
-| 3313_hpv_impfung_un- vollstaendig | Ankreuzfeld | Stil: Kreuz | |
+| 7296_wiederholungsunter-suchung_nein | Ankreuzfeld | Stil: Kreuz | |
+| 7296_wiederholungsunter-suchung_ja | Ankreuzfeld | Stil: Kreuz | |
+| 7297_datum_der_letz-ten_untersuchung | Einzeiliges Textfeld | 5 | 12 |
+| 7414_gruppe_des_letz-ten_befundes | Einzeiliges Textfeld | 5 | 5 |
+| 3313_hpv_impfung_vollsta-endig | Ankreuzfeld | Stil: Kreuz | |
+| 3313_hpv_impfung_un-vollstaendig | Ankreuzfeld | Stil: Kreuz | |
 | 3313_hpv_impfung_keine | Ankreuzfeld | Stil: Kreuz | |
 | 3313_hpv_impfung_unklar | Ankreuzfeld | Stil: Kreuz | |
 
-________________  6 Siehe Kapitel 2.10.3 „ PDF-Feldtypen “
+6 Siehe Kapitel 2.10.3
 
-SEITE 50 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+und Kapitel 2.10.7
+
+PDF-Feldtypen
 
 eld, die Auftragsnummer des Labors und die Prüfnum-
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Prüfnummer“ definiert. Dieser Abschnitt widmet sich den Defini-
 
-2.10.5 „ Personalienfeld “, Kapitel 2.10.6
+2.10.5 Personalienfeld“, Kapitel 2.10.6
 
 NR. M39_1 M39_2 M39_3 M39_79 M39_80 M39_81 M39_82 M39_83 M39_4 M39_5 M39_6 M39_8 M39_9 M39_10 M39_11 M39_12 FORMATIE- RUNG Courier 12 pt, linksbündig Courier 8 pt, linksbündig Vor-
 
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 6 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-6FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
-| 3314_hpv_hr_testergeb- nis_liegt_nicht_vor | Ankreuzfeld | Stil: Kreuz |  |
-| 3314_hpv_hr_testergeb- nis_liegt_vor_aus | Ankreuzfeld | Stil: Kreuz | |
-| 3316_hpv_hr_testergeb- nis_des_vorbefundes_posi- tiv | Ankreuzfeld | Stil: Kreuz | |
-| 3316_hpv_hr_testergeb- nis_des_vorbefundes_nega- tiv | Ankreuzfeld | Stil: Kreuz | |
-| 3316_hpv_hr_testergeb- nis_des_vorbefun- des_nicht_verwertbar | Ankreuzfeld | Stil: Kreuz | |
-| 7336_gyn_op_strah- len_oder_chemothera- pie_nein | Ankreuzfeld | Stil: Kreuz | |
-| 7336_gyn_op_strah- len_oder_chemotherapie_ja | Ankreuzfeld | Stil: Kreuz | |
-| 7337_gyn_op_strah- len_oder_chemothera- pie_welche | Einzeiliges Textfeld | 20 | 20 |
-| 7338_gyn_op_strah- len_oder_chemothera- pie_wann | Einzeiliges Textfeld | 8 | 17 |
+| 3314_hpv_hr_testergeb-nis_liegt_nicht_vor | Ankreuzfeld | Stil: Kreuz |  |
+| 3314_hpv_hr_testergeb-nis_liegt_vor_aus | Ankreuzfeld | Stil: Kreuz | |
+| 3316_hpv_hr_testergeb-nis_des_vorbefundes_posi-tiv | Ankreuzfeld | Stil: Kreuz | |
+| 3316_hpv_hr_testergeb-nis_des_vorbefundes_nega-tiv | Ankreuzfeld | Stil: Kreuz | |
+| 3316_hpv_hr_testergeb-nis_des_vorbefun-des_nicht_verwertbar | Ankreuzfeld | Stil: Kreuz | |
+| 7336_gyn_op_strah-len_oder_chemothera-pie_nein | Ankreuzfeld | Stil: Kreuz | |
+| 7336_gyn_op_strah-len_oder_chemotherapie_ja | Ankreuzfeld | Stil: Kreuz | |
+| 7337_gyn_op_strah-len_oder_chemothera-pie_welche | Einzeiliges Textfeld | 20 | 20 |
+| 7338_gyn_op_strah-len_oder_chemothera-pie_wann | Einzeiliges Textfeld | 8 | 17 |
 | 8512_letzte_periode | Einzeiliges Textfeld | 8 | 17 |
 | 7339_graviditaet_nein | Ankreuzfeld | Stil: Kreuz | |
 | 7339_graviditaet_ja | Ankreuzfeld | Stil: Kreuz | |
-| 7380_ausfluss_pathologi- sche_blutung_nein | Ankreuzfeld | Stil: Kreuz | |
-| 7380_ausfluss_pathologi- sche_blutung_ja | Ankreuzfeld | Stil: Kreuz | |
+| 7380_ausfluss_pathologi-sche_blutung_nein | Ankreuzfeld | Stil: Kreuz | |
+| 7380_ausfluss_pathologi-sche_blutung_ja | Ankreuzfeld | Stil: Kreuz | |
 | 7382_iup_nein | Ankreuzfeld | Stil: Kreuz | |
 | 7382_iup_ja | Ankreuzfeld | Stil: Kreuz | |
-| 7383_ovulationshem- mer_sonstige_hormon_an- wendung_nein | Ankreuzfeld | Stil: Kreuz | |
+| 7383_ovulationshem-mer_sonstige_hormon_an-wendung_nein | Ankreuzfeld | Stil: Kreuz | |
 
-SEITE 51 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-NR. M39_13 M39_14 M39_16 M39_17 M39_18 M39_19 M39_20 M39_21 M39_22 M39_23 M39_24 M39_25 M39_26 M39_27 M39_30 M39_31 M39_32 FORMATIE- RUNG Courier 8 pt, linksbündig Courier 8 pt, linksbündig Courier 12 pt, linksbündig / 9. FEBRUAR 2026 / VERSION: 2.31
-
+NR. M39_13 M39_14 M39_16 M39_17 M39_18 M39_19 M39_20 M39_21 M39_22 M39_23 M39_24 M39_25 M39_26 M39_27 M39_30 M39_31 M39_32 FORMATIE- RUNG Courier 8 pt, linksbündig Courier 8 pt, linksbündig Courier 12 pt, linksbündig
 
 ---
 
-| FORMULARFELDBEZEICH- NUNG | FORMULAR- 6 FELDTYP | ANGEZEIGTE ANZAHL AN ZEICHEN | ANZAHL ERLAUB- TER ZEICHEN |
+| **FORMULARFELDBEZEICH-NUNG** | **FORMULAR-6FELDTYP** | **ANGEZEIGTEANZAHL ANZEICHEN** | **ANZAHLERLAUB-TERZEICHEN** |
 |---|---|---|---|
-| 7383_ovulationshem- mer_sonstige_hormon_an- wendung_ja | Ankreuzfeld | Stil: Kreuz |  |
-| 7384_klinischer_befund_un- auffaellig | Ankreuzfeld | Stil: Kreuz | |
-| 7384_klinischer_be- fund_auffaellig | Ankreuzfeld | Stil: Kreuz | |
-| 7423_erlaeuterungen | Mehrzeiliges Text- feld | Schriftgrößen-abhängig: siehe Kapitel | |
-| 8311_labor_auftragsnum- mer | Einzeiliges Textfeld | 16 | 16 |
-| 0000_eingangsda- tum_der_zytologischen_un- tersuchung | Einzeiliges Textfeld | 8 | 17 |
-| 7405_endozervikale_zel- len_vorhanden | Ankreuzfeld | Stil: Kreuz | |
-| 7405_endozervikale_zel- len_nicht_vorhanden | Ankreuzfeld | Stil: Kreuz | |
+| 7383_ovulationshem-mer_sonstige_hormon_an-wendung_ja | Ankreuzfeld | Stil: Kreuz |  |
+| 7384_klinischer_befund_un-auffaellig | Ankreuzfeld | Stil: Kreuz | |
+| 7384_klinischer_be-fund_auffaellig | Ankreuzfeld | Stil: Kreuz | |
+| 7423_erlaeuterungen | Mehrzeiliges Text-feld | Schriftgrößen-abhängig:siehe Kapitel | |
+| 8311_labor_auftragsnum-mer | Einzeiliges Textfeld | 16 | 16 |
+| 0000_eingangsda-tum_der_zytologischen_un-tersuchung | Einzeiliges Textfeld | 8 | 17 |
+| 7405_endozervikale_zel-len_vorhanden | Ankreuzfeld | Stil: Kreuz | |
+| 7405_endozervikale_zel-len_nicht_vorhanden | Ankreuzfeld | Stil: Kreuz | |
 | 7406_proliferationsgrad | Einzeiliges Textfeld | 10 | 10 |
 | 7407_doederleinflora | Ankreuzfeld | Stil: Kreuz | |
 | 7408_mischflora | Ankreuzfeld | Stil: Kreuz | |
@@ -3282,128 +2831,17 @@ NR. M39_13 M39_14 M39_16 M39_17 M39_18 M39_19 M39_20 M39_21 M39_22 M39_23 M39_24
 | 7410_trichomonaden | Ankreuzfeld | Stil: Kreuz | |
 | 7411_candida | Ankreuzfeld | Stil: Kreuz | |
 | 7412_gardnerella | Ankreuzfeld | Stil: Kreuz | |
-| 7414_gruppe_des_zytologi- schen_befundes | Einzeiliges Textfeld | 5 | 5 |
-| 3316_hpv_hr_testergeb- nis_des_zytologischen_be- fundes_positiv | Ankreuzfeld | Stil: Kreuz | |
-| 3316_hpv_hr_testergeb- nis_des_zytologischen_be- fundes_negativ | Ankreuzfeld | Stil: Kreuz | |
+| 7414_gruppe_des_zytologi-schen_befundes | Einzeiliges Textfeld | 5 | 5 |
+| 3316_hpv_hr_testergeb-nis_des_zytologischen_be-fundes_positiv | Ankreuzfeld | Stil: Kreuz | |
+| 3316_hpv_hr_testergeb-nis_des_zytologischen_be-fundes_negativ | Ankreuzfeld | Stil: Kreuz | |
 
-SEITE 52 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-NR. M39_33 M39_84 M39_85 M39_47 M39_48 M39_50 M39_51 M39_52 M39_53 M39_54 M39_55 M39_56 M39_57 M39_58 M39_59 M39_60 M39_61 M39_62 siehe Kapitel 3.4.2.18  FORMATIE- RUNG Courier, links- bündig Schriftgröße: 3.4.2.18 Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 8 pt, linksbündig / 9. FEBRUAR 2026 / VERSION: 2.31
-
+NR. M39_33 M39_84 M39_85 M39_47 siehe Kapitel 3.4.2.18  M39_48 M39_50 M39_51 M39_52 M39_53 M39_54 M39_55 M39_56 M39_57 M39_58 M39_59 M39_60 M39_61 M39_62 FORMATIE- RUNG Courier, links- bündig Schriftgröße: 3.4.2.18 Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 12 pt, linksbündig Courier 8 pt, linksbündig
 
 ---
 
-**NR.**
+**NR. FORMULARFELDBEZEICH- FORMULAR- ANGEZEIGTE ANZAHL FORMATIE-** **6NUNG FELDTYP ANZAHL AN ERLAUB- RUNG**  **ZEICHEN TER**  **ZEICHEN**
 
-M39_63
-
-M39_64
-
-M39_86
-
-M39_87
-
-M39_65
-
-M39_66
-
-M39_67
-
-M39_68
-
-M39_69
-
-M39_70
-
-M39_71
-
-M39_72
-
-M39_73
-
-M39_74
-
-M39_76
-
-M39_78
-
-**Tabelle 24: Formularfelder des digitalen Musters 39**
-
-3.4.2.1
-
-Es muss entweder das Feld 0000_alterskategorie_20_29_jahre oder 0000_alterskategorie_30_34_jahre  oder 0000_alterskategorie_ab_35_jahre angekreuzt sein.
-
-SEITE 53 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**FORMULARFELDBEZEICH-** **NUNG**
-
-3316_hpv_hr_testergeb- nis_des_zytologischen_be- fundes_nicht_verwertbar 3317_virustyp_16_18_ja
-
-3317_virustyp_16_18_nein
-
-3317_virus- typ_16_18_nicht_differen- zierbar 8167_bemerkungen
-
-7415_zytologische_kontrolle
-
-7416_zytologische_kon- trolle_nach_entzuendungs- behandlung
-
-7416_zytologische_kon- trolle_nach_oestrogenbe- handlung 3318_hpv_test
-
-3319_ko_test
-
-7417_abklaerungskolposko- pie
-
-0000_zeitraum
-
-3321_in_monaten
-
-3320_sofort
-
-0000_Vertragsarztstem- pel_2
-
-0000_Vertragsarztstem- pel_1
-
-M39_01: 0000_alterskategorie_20_29_jahre, M39_02: 0000_alterskategorie_30_34_jahre und  M39_03: 0000_alterskategorie_ab_35_jahre
-
-**FORMULAR-** **FELDTYP**
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Mehrzeiliges Text- feld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Ankreuzfeld
-
-Einzeiliges Textfeld
-
-Ankreuzfeld
-
-Vertragsarztstempel
-
-Vertragsarztstempel
-
-**6**
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-**ANGEZEIGTE**  **ANZAHL AN**  **ZEICHEN**
+M39_63 3316_hpv_hr_testergeb- Ankreuzfeld
 
 |  |  | bündig |
 |---|---|---|
@@ -3413,179 +2851,175 @@ Vertragsarztstempel
 | 2 | 2 | Courier 12 pt, |
 |  |  | linksbündig |
 
-Stil: Kreuz
+nis_des_zytologischen_be- fundes_nicht_verwertbar
 
-**ANZAHL**  **ERLAUB-** **TER**  **ZEICHEN**
+M39_64 3317_virustyp_16_18_ja Ankreuzfeld
 
-Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Schriftgrößen-abhängig: siehe Kapitel 3.4.2.27 Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Courier, links-**FORMATIE-** **RUNG**
+M39_86 3317_virustyp_16_18_nein Ankreuzfeld
+
+M39_87 3317_virus-Ankreuzfeld  typ_16_18_nicht_differen- zierbar
+
+M39_65 8167_bemerkungen Mehrzeiliges Text- feld
+
+M39_66 7415_zytologische_kontrolle Ankreuzfeld
+
+M39_67 7416_zytologische_kon- Ankreuzfeld  trolle_nach_entzuendungs- behandlung
+
+M39_68 7416_zytologische_kon- Ankreuzfeld  trolle_nach_oestrogenbe- handlung
+
+M39_69 3318_hpv_test Ankreuzfeld
+
+M39_70 3319_ko_test Ankreuzfeld
+
+M39_71 7417_abklaerungskolposko- Ankreuzfeld  pie
+
+M39_72 0000_zeitraum Ankreuzfeld
+
+M39_73 3321_in_monaten Einzeiliges Textfeld
+
+M39_74 3320_sofort Ankreuzfeld Stil: Kreuz
+
+M39_76 0000_Vertragsarztstem- Vertragsarztstempel   pel_2
+
+M39_78 0000_Vertragsarztstem- Vertragsarztstempel   pel_1
+
+**Tabelle 24: Formularfelder des digitalen Musters 39**
+
+3.4.2.1 M39_01: 0000_alterskategorie_20_29_jahre, M39_02: 0000_alterskategorie_30_34_jahre und  M39_03: 0000_alterskategorie_ab_35_jahre
+
+Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Schriftgrößen-abhängig: Courier, links- siehe Kapitel 3.4.2.27 Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Es muss entweder das Feld 0000_alterskategorie_20_29_jahre oder 0000_alterskategorie_30_34_jahre  oder 0000_alterskategorie_ab_35_jahre angekreuzt sein.
 
 
 ---
 
-3.4.2.2
+3.4.2.2 M39_79: 8630_auftragsart_primaerscreening, M39_80: 8630_auftragart_abklaerungsdiagnostik
 
 Es muss entweder das Feld 8630_auftragsart_primaerscreening oder 8630_auftragart_abklaerungsdiagnos- tik angekreuzt sein.
 
-3.4.2.3
+3.4.2.3 M39_81: 8629_auftrag_zytologische_untersuchung, M39_82: 8629_auftrag_hpv_test, M39_83:  8629_auftrag_ko_test
 
 Es muss entweder das Feld 8629_auftrag_zytologische_untersuchung oder 8629_auftrag_hpv_test oder  8629_auftrag_ko_test angekreuzt sein.
 
-3.4.2.4
+3.4.2.4 M39_04: 7296_wiederholungsuntersuchung_nein und M39_05: 7296_wiederholungsuntersu- chung_ja
 
-Es muss entweder das Feld 7296_wiederholungsuntersuchung_nein oder  chung_ja angekreuzt sein.
+Es muss entweder das Feld 7296_wiederholungsuntersuchung_nein oder 7296_wiederholungsuntersu- chung_ja angekreuzt sein.
 
-3.4.2.5
+3.4.2.5 M39_06: 7297_datum_der_letzten_untersuchung
 
-Das Feld 7297_datum_der_letzten_untersuchung ist ein Datumsfeld entsprechend der Definition aus Kapi- tel 2.10.4.1 „ Datumsfelder “.
+Das Feld 7297_datum_der_letzten_untersuchung ist ein Datumsfeld entsprechend der Definition aus Kapi- tel 2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht dem Format MM.JJ. Bei der Jahresangabe sind die letzten beiden  Stellen der Jahreszahl zu nutzen.
+Der Inhalt des sichtbaren Teils entspricht dem Format *MM.JJ*. Bei der Jahresangabe sind die letzten beiden  Stellen der Jahreszahl zu nutzen.
 
-Der Inhalt des rein maschinenlesbaren Teils ist in der Form JJJJMM.
+Der Inhalt des rein maschinenlesbaren Teils ist in der Form *JJJJMM*
 
 Falls das Feld 7296_wiederholungsuntersuchung_ja angekreuzt ist, dann kann das Feld 7297_da- tum_der_letzten_untersuchung befüllt werden.
 
-3.4.2.6
+3.4.2.6 M39_08: 7414_gruppe_des_letzten_befundes
 
-Das Feld 7414_gruppe_des_letzten_befundes kann befüllt werden, falls das Feld  tersuchung_ja angekreuzt ist.
+Das Feld 7414_gruppe_des_letzten_befundes kann befüllt werden, falls das Feld 7296_wiederholungsun- tersuchung_ja angekreuzt ist.
 
-3.4.2.7
+3.4.2.7 M39_09: 3313_hpv_impfung_vollstaendig, M39_10: 3313_hpv_impfung_unvollstaendig,  M39_11: 3313_hpv_impfung_keine, M39_12: 3313_hpv_impfung_unklar
 
 Es kann entweder das Feld 3313_hpv_impfung_vollstaendig oder 3313_hpv_impfung_unvollstaendig oder  3313_hpv_impfung_keine oder 3313_hpv_impfung_unklar angekreuzt werden.
 
-3.4.2.8
+3.4.2.8 M39_13: 3314_hpv_hr_testergebnis_liegt_nicht_vor, M39_14: 3314_hpv_hr_testergeb- nis_liegt_vor_aus
 
 Es muss entweder das Feld 3314_hpv_hr_testergebnis_liegt_nicht_vor oder 3314_hpv_hr_testergeb- nis_liegt_vor_aus angekreuzt werden.
 
-3.4.2.9
+3.4.2.9 M39_16: 3316_hpv_hr_testergebnis_des_vorbefundes_positiv, M39_17: 3316_hpv_hr_tester- gebnis_des_vorbefundes_negativ, M39_18: 3316_hpv_hr_testergebnis_des_vorbefun- des_nicht_verwertbar
 
-Falls das Feld 3314_hpv_hr_testergebnis_liegt_vor_aus angekreuzt ist, dann kann entweder das Feld  3316_hpv_hr_testergebnis_des_vorbefundes_positiv oder 3316_hpv_hr_testergebnis_des_vorbefun- des_negativ oder 3316_hpv_hr_testergebnis_des_vorbefundes_nicht_ver 3.4.2.10
+Falls das Feld 3314_hpv_hr_testergebnis_liegt_vor_aus angekreuzt ist, dann kann entweder das Feld  3316_hpv_hr_testergebnis_des_vorbefundes_positiv oder 3316_hpv_hr_testergebnis_des_vorbefun- des_negativ oder 3316_hpv_hr_testergebnis_des_vorbefundes_nicht_verwertbar angekreuzt werden.
+
+3.4.2.10 M39_19: 7336_gyn_op_strahlen_oder_chemotherapie_nein, M39_20: 7336_gyn_op_strah- len_oder_chemotherapie_ja
 
 Es kann entweder das Feld 7336_gyn_op_strahlen_oder_chemotherapie_nein oder 7336_gyn_op_strah- len_oder_chemotherapie_ja angekreuzt werden.
-
-SEITE 54 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M39_79: 8630_auftragsart_primaerscreening, M39_80: 8630_auftragart_abklaerungsdiagnostik
-
-M39_81: 8629_auftrag_zytologische_untersuchung, M39_82: 8629_auftrag_hpv_test, M39_83:  8629_auftrag_ko_test
-
-M39_04: 7296_wiederholungsuntersuchung_nein und M39_05:  chung_ja
-
-M39_06: 7297_datum_der_letzten_untersuchung
-
-M39_08: 7414_gruppe_des_letzten_befundes
-
-M39_09: 3313_hpv_impfung_vollstaendig, M39_10: 3313_hpv_impfung_unvollstaendig,  M39_11: 3313_hpv_impfung_keine, M39_12: 3313_hpv_impfung_unklar
-
-M39_13: 3314_hpv_hr_testergebnis_liegt_nicht_vor, M39_14: 3314_hpv_hr_testergeb- nis_liegt_vor_aus
-
-M39_16: 3316_hpv_hr_testergebnis_des_vorbefundes_positiv, M39_17: 3316_hpv_hr_tester- gebnis_des_vorbefundes_negativ, M39_18: 3316_hpv_hr_testergebnis_des_vorbefun- des_nicht_verwertbar
-
-M39_19: 7336_gyn_op_strahlen_oder_chemotherapie_nein, M39_20: 7336_gyn_op_strah- len_oder_chemotherapie_ja
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 7296_wiederholungsuntersu-
-
-7296_wiederholungsuntersu-
-
-wertbar angekreuzt werden.
-
-7296_wiederholungsun-
 
 
 ---
 
-3.4.2.11
+3.4.2.11 M39_21: 7337_gyn_op_strahlen_oder_chemotherapie_welche
 
 Das Feld 7337_gyn_op_strahlen_oder_chemotherapie_welche kann befüllt werden, falls das Feld  7336_gyn_op_strahlen_oder_chemotherapie_ja angekreuzt ist.
 
-3.4.2.12
+3.4.2.12 M39_22: 7338_gyn_op_strahlen_oder_chemotherapie_wann
 
-Das Feld 7338_gyn_op_strahlen_oder_chemotherapie_wann ist ein Datumsfeld entsprechend der Defini- tion aus Kapitel 2.10.4.1 „ Datumsfelder “.
+Das Feld 7338_gyn_op_strahlen_oder_chemotherapie_wann ist ein Datumsfeld entsprechend der Defini- tion aus Kapitel 2.10.4.1 Datumsfelder
 
-Der Inhalt des sichtbaren Teils entspricht dem Format TT.MM.JJ, 00.MM.JJ oder 00.00.JJ.
+Der Inhalt des sichtbaren Teils entspricht dem Format
 
-Der Inhalt des rein maschinenlesbaren Teils ist in der Form JJJJMMTT. Zusätzlich sind die Wertebereiche  *JJJJMM00 und JJJJ0000 erlaubt.*
+Der Inhalt des rein maschinenlesbaren Teils ist in der Form  *JJJJMM00* und *JJJJ0000* erlaubt.
 
 Falls das Feld 7336_gyn_op_strahlen_oder_chemotherapie_ja angekreuzt ist, dann kann das Feld 7338_da- tum_der_gyn_op_wann befüllt werden.
 
-3.4.2.13
+3.4.2.13 M39_23: 8512_letzte_periode
 
-Das Feld 8512_letzte_periode ist ein Datumsfeld entsprechend der Definition aus Kapitel  felder “. Die Angabe kann optional erfolgen.
+Das Feld 8512_letzte_periode ist ein Datumsfeld entsprechend der Definition aus Kapitel  felder“. Die Angabe kann optional erfolgen.
 
-Der Inhalt des sichtbaren Teils entspricht dem Format TT.MM.JJ, 00.MM.JJ oder 00.00.JJ.
+Der Inhalt des sichtbaren Teils entspricht dem Format
 
-Der Inhalt des rein maschinenlesbaren Teils ist in der Form JJJJMMTT, JJJJMM00 oder JJJJ0000.
+Der Inhalt des rein maschinenlesbaren Teils ist in der Form
 
-3.4.2.14
+3.4.2.14 M39_24: 7339_graviditaet_nein, M39_25: 7339_graviditaet_ja
 
 Es kann entweder das Feld 7339_graviditaet_nein oder 7339_graviditaet_ja angekreuzt werden.
 
-3.4.2.15
+3.4.2.15 M39_26: 7380_ausfluss_pathologische_blutung_nein, M39_27: 7380_ausfluss_pathologi- sche_blutung_ja
 
 Es kann entweder das Feld 7380_ausfluss_pathologische_blutung_nein oder 7380_ausfluss_pathologi- sche_blutung_ja angekreuzt werden.
 
-3.4.2.16
+3.4.2.16 M39_30: 7382_iup_nein, M39_31: 7382_iup_ja
 
 Es kann entweder das Feld 7382_iup_nein oder 7382_iup_ja angekreuzt werden.
 
-3.4.2.17
+3.4.2.17 M39_32: 7383_ovulationshemmer_sonstige_hormon_anwendung_nein, M39_33: 7383_ovulati- onshemmer_sonstige_hormon_anwendung_ja
 
 Es kann entweder das Feld 7383_ovulationshemmer_sonstige_hormon_anwendung_nein oder 7383_ovu- lationshemmer_sonstige_hormon_anwendung_ja angekreuzt werden.
 
-3.4.2.18
+3.4.2.18 M39_47: 7423_erlaeuterungen
 
-Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
-Schriftgröße in pt 6
+Schriftgröße in pt Anzahl sichtbarer  Zeichen 6 1116
 
-7
+7 795
 
-8
+*TT.MM.JJ*
 
-9
-
-SEITE 55 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M39_21: 7337_gyn_op_strahlen_oder_chemotherapie_welche
-
-M39_22: 7338_gyn_op_strahlen_oder_chemotherapie_wann
-
-M39_23: 8512_letzte_periode
-
-M39_24: 7339_graviditaet_nein, M39_25: 7339_graviditaet_ja
-
-M39_26: 7380_ausfluss_pathologische_blutung_nein, M39_27: 7380_ausfluss_pathologi- sche_blutung_ja
-
-M39_30: 7382_iup_nein, M39_31: 7382_iup_ja
-
-M39_32: 7383_ovulationshemmer_sonstige_hormon_anwendung_nein, M39_33: 7383_ovulati- onshemmer_sonstige_hormon_anwendung_ja
-
-M39_47: 7423_erlaeuterungen
-
-Anzahl sichtbarer  Zeichen 1116
-
-795
-
-| 598 | 598 | 46 |
-|---|---|---|
-| 492 | 492 | 41 |
+*TT.MM.JJ, 00.MM.JJ oder 00.00.JJ*
 
 Anzahl erlaubter  Zeichen 1116
 
 795
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+*00.MM.JJ*
 
-2.10.4.2 „ Felder mit variablem
+*JJJJMMTT*. Zusätzlich sind die Wertebereiche
+
+*JJJJMMTT, JJJJMM00 oder JJJJ0000*
+
+oder *00.00.JJ*
+
+2.10.4.1
+
+2.10.4.2 Felder mit variablem
 
 Anzahl Zeichen pro  Zeile 62
 
 53
 
-2.10.4.1 „ Datums-
+Datums-
 
 Anzahl  Zeilen 18
 
 15
+
+8
+
+| 598 | 598 | 46 |
+|---|---|---|
+| 492 | 492 | 41 |
+
+9
 
 13
 
@@ -3596,71 +3030,57 @@ Anzahl  Zeilen 18
 
 Schriftgröße in pt 10
 
-11
-
-12
-
-**Tabelle 25: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_47:7423_erlaeuterungen“ auf digitalem Muster 39**
-
-3.4.2.19
-
-Das Feld 8311_labor_auftragsnummer kann befüllt werden.
-
-3.4.2.20
-
-Das Feld 0000_eingangsdatum_der_zytologischen_untersuchung ist ein Datumsfeld entsprechend der Defi- nition aus Kapitel 2.10.4.1 „ Datumsfelder “.
-
-Der Inhalt des sichtbaren Teils entspricht dem Format TT.MM.JJ.
-
-Der Inhalt des rein maschinenlesbaren Teils ist in der Form JJJJMMTT.
-
-3.4.2.21
-
-Es kann entweder das Feld 7405_endozervikale_zellen_vorhanden oder 7405_endozervikale_zel- len_nicht_vorhanden angekreuzt werden.
-
-3.4.2.22
-
-Das Feld 7406_proliferationsgrad kann befüllt werden.
-
-3.4.2.23
-
-Die Felder 7406_proliferationsgrad und 7414_gruppe_des_zytologischen_befundes können befüllt werden.  Die Felder 7407_doederleinflora, 7408_mischflora,  und 7412_gardnerella können unabhängig voneinander angekreuzt werden.
-
-3.4.2.24
-
-Das Feld 7414_gruppe_des_zytologischen_befundes kann befüllt werden.
-
-3.4.2.25
-
-Es kann entweder das Feld  3316_hpv_hr_testergebnis_des_zytologischen_befundes_positiv oder  3316_hpv_hr_testergebnis_des_zytologischen_befundes_negativ oder  3316_hpv_hr_testergebnis_des_zytologischen_befundes_nicht_verwertbar angekreuzt werden. Die An- gabe eines der genannten Felder ist optional.
-
-SEITE 56 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-M39_48: 8311_labor_auftragsnummer
-
-M39_50: 0000_eingangsdatum_der_zytologischen_untersuchung
-
-M39_51: 7405_endozervikale_zellen_vorhanden, M39_52: 7405_endozervikale_zellen_nicht_vor- handen
-
-M39_53: 7406_proliferationsgrad
-
-M39_54: 7407_doederleinflora, M39_55: 7408_mischflora, M39_56: 7409_kokkenflora, M39_57:  7410_trichomonaden, M39_58: 7411_candida, M39_59: 7412_gardnerella
-
-M39_60: 7414_gruppe_des_zytologischen_befundes
-
-M39_61: 3316_hpv_hr_testergebnis_des_zytologischen_befundes_positiv, M39_62:  3316_hpv_hr_testergebnis_des_zytologischen_befundes_negativ und M39_63:  3316_hpv_hr_testergebnis_des_zytologischen_befundes_nicht_verwertbar
-
 Anzahl sichtbarer  Zeichen 407
+
+11
 
 | 330 | 330 | 33 |
 |---|---|---|
 | 279 | 279 | 31 |
 
+12
+
+**Tabelle 25: Anzahl sichtbarer und erlaubter Zeichen für das Feld „M39_47:7423_erlaeuterungen“ auf digitalem Muster 39**
+
+3.4.2.19 M39_48: 8311_labor_auftragsnummer
+
+Das Feld 8311_labor_auftragsnummer kann befüllt werden.
+
+3.4.2.20 M39_50: 0000_eingangsdatum_der_zytologischen_untersuchung
+
+Das Feld 0000_eingangsdatum_der_zytologischen_untersuchung ist ein Datumsfeld entsprechend der Defi- nition aus Kapitel 2.10.4.1 Datumsfelder
+
+Der Inhalt des sichtbaren Teils entspricht dem Format
+
+Der Inhalt des rein maschinenlesbaren Teils ist in der Form
+
+3.4.2.21 M39_51: 7405_endozervikale_zellen_vorhanden, M39_52: 7405_endozervikale_zellen_nicht_vor- handen
+
+Es kann entweder das Feld 7405_endozervikale_zellen_vorhanden oder 7405_endozervikale_zel- len_nicht_vorhanden angekreuzt werden.
+
+3.4.2.22 M39_53: 7406_proliferationsgrad
+
+Das Feld 7406_proliferationsgrad kann befüllt werden.
+
+3.4.2.23 M39_54: 7407_doederleinflora, M39_55: 7408_mischflora, M39_56: 7409_kokkenflora, M39_57:  7410_trichomonaden, M39_58: 7411_candida, M39_59: 7412_gardnerella
+
+Die Felder 7406_proliferationsgrad und 7414_gruppe_des_zytologischen_befundes können befüllt werden.  Die Felder 7407_doederleinflora, 7408_mischflora,  und 7412_gardnerella können unabhängig voneinander angekreuzt werden.
+
+3.4.2.24 M39_60: 7414_gruppe_des_zytologischen_befundes
+
+Das Feld 7414_gruppe_des_zytologischen_befundes kann befüllt werden.
+
+3.4.2.25 M39_61: 3316_hpv_hr_testergebnis_des_zytologischen_befundes_positiv, M39_62:  3316_hpv_hr_testergebnis_des_zytologischen_befundes_negativ und M39_63:  3316_hpv_hr_testergebnis_des_zytologischen_befundes_nicht_verwertbar
+
+Es kann entweder das Feld  3316_hpv_hr_testergebnis_des_zytologischen_befundes_positiv oder  3316_hpv_hr_testergebnis_des_zytologischen_befundes_negativ oder  3316_hpv_hr_testergebnis_des_zytologischen_befundes_nicht_verwertbar angekreuzt werden. Die An- gabe eines der genannten Felder ist optional.
+
 Anzahl erlaubter  Zeichen 407
 
-7409_kokkenflora, 7410_trichomonaden, 7411_candida
+*TT.MM.JJ*
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+*JJJJMMTT*
+
+7409_kokkenflora, 7410_trichomonaden, 7411_candida
 
 Anzahl Zeichen pro  Zeile 37
 
@@ -3679,7 +3099,7 @@ Das Feld 3317_virustyp_16_18_ja oder 3317_virustyp_16_18_nein oder 3317_virustyp
 
 3.4.2.27 M39_65: 8167_bemerkungen
 
-Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt “ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
+Die Schriftgröße dieses Feldes kann beruhend auf den Regelungen in Kapitel  Inhalt“ und unter Beachtung der nachfolgenden Tabelle durch das erstellende PVS angepasst werden:
 
 Schriftgröße in pt 6
 
@@ -3687,11 +3107,21 @@ Schriftgröße in pt 6
 
 8
 
-9
+Anzahl sichtbarer  Zeichen 1470
 
-10
+1080
+
+848
+
+9 658
+
+10 504
 
 11
+
+| 418 | 418 | 38 |
+|---|---|---|
+| 350 | 350 | 35 |
 
 12
 
@@ -3711,23 +3141,7 @@ Es kann entweder das Feld 3321_in_monaten befüllt oder das Feld 3320_sofort ang
 
 3.4.2.31 M39_76: 0000_Vertragsarztstempel_2, M39_78: 0000_Vertragsarztstempel_1
 
-Das Feld 0000_Vertragsarztstempel_1 ist mit dem Vertragsarztstempel des untersuchenden Arztes zu be- füllen. Das Feld 0000_Vertragsarztstempel_2 ist mit dem Vertragsarztstempel des zytologisch tätigen Arztes  zu befüllen. Es gelten die in Kapitel 2.10.6 „ Vertragsarztstempel “ getroffenen Aussagen.
-
-SEITE 57 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Anzahl sichtbarer  Zeichen 1470
-
-1080
-
-848
-
-658
-
-504
-
-| 418 | 418 | 38 |
-|---|---|---|
-| 350 | 350 | 35 |
+Das Feld 0000_Vertragsarztstempel_1 ist mit dem Vertragsarztstempel des untersuchenden Arztes zu be- füllen. Das Feld 0000_Vertragsarztstempel_2 ist mit dem Vertragsarztstempel des zytologisch tätigen Arztes  zu befüllen. Es gelten die in Kapitel 2.10.6 Vertragsarztstempel
 
 al.
 
@@ -3741,9 +3155,9 @@ Anzahl erlaubter  Zeichen 1470
 
 504
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+“ getroffenen Aussagen.
 
-2.10.4.2 „ Felder mit variablem
+2.10.4.2
 
 Anzahl Zeichen pro  Zeile 70
 
@@ -3754,6 +3168,8 @@ Anzahl Zeichen pro  Zeile 70
 47
 
 42
+
+Felder mit variablem
 
 Anzahl  Zeilen 21
 
@@ -3774,17 +3190,15 @@ Anzahl  Zeilen 21
 
 4
 
-## MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT
+## MUSTERSPEZIFISCHE REGELUNGEN FÜR MUSTER IM FORMAT  FHIR®
 
-## FHIR®
+**4.1** **FHIR®-DEFINITION**
 
-**4.1 FHIR®-DEFINITION**
-
-Die FHIR®-Spezifikation definiert eine Reihe von Basis Gesundheitswesens eingesetzt werden können.
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können.
 
 Für den Anwendungszweck der Digitalen Muster im Format FHIR wurden von den Partnern des Bundes- mantelvertrages FHIR-Profile erstellt, welche zum Teil von den deutschen Basis
 
-Folglich müssen diese Profile mit den deutschen Basis und eine Zusammenstellung der, in der FHIR® [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/).
+Folglich müssen diese Profile mit den deutschen Basis-Profilen verwendet werden. Die FHIR®-Ressourcen  und eine Zusammenstellung der, in der FHIR®-Notation spezifizierten Elemente, finden sich unter:  [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/).
 
 Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses Dokuments. Die Elemente dieser Profile so- wie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind den FHIR® entnehmen.
 
@@ -3792,50 +3206,48 @@ Sie finden die hier genannten Profile in den spezifischen Verzeichnissen unter: 
 
 In den definierten FHIR®-FOR-Profilen kommen CodeSysteme und ValueSet zur Anwendung, welche nicht  im Rahmen der FOR-Profile definiert und gepflegt werden. Diese CodeSysteme und ValueSet müssen immer  in der jeweils aktuellen und gültigen Fassung eingesetzt werden FOR-Profile bedarf. Die von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abruf- bar unter [https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
-**4.2 ZEICHENSATZ**
+**4.2** **ZEICHENSATZ**
 
-Für digitale Muster im Format FHIR gilt der Zeichensatz „UTF - 8 ohne BOM“.
+Für digitale Muster im Format FHIR gilt der Zeichensatz „UTF
 
-**4.3 ÜBERGREIFENDE REGELUNGEN FÜR DIE MUSTER**
+**4.3** **ÜBERGREIFENDE REGELUNGEN FÜR DIE MUSTER**
 
-**4.3.1 Dateinamen der FHIR®-Profile**
+**4.3.1** **Dateinamen der FHIR®-Profile**
 
 Die Dateinamen der FHIR®-Profile setzen sich wie folgt zusammen.
 
-› Kürzel_Kategorie_Thema_Bezeichnung
+Kürzel_Kategorie_Thema_Bezeichnung
 
 Bedeutung:
 
-› Kürzel  **·** KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert › Kategorie  **·** PR Profil  **·** EX Extension  **·** VS ValueSet  **·** CS CodeSystem  › Thema  **·** FOR steht für die Formularübergreifenden Festlegungen,  für eAU) und ERP (steht für das eRP) sein  › Bezeichnung - Bezeichnung für das entsprechende Thema
+Kürzel  KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert Kategorie  PR Profil  EX Extension
+
+VS  CS
+
+ValueSet  CodeSystem
+
+Thema  FOR steht für die Formularübergreifenden Festlegungen,  für eAU) und ERP (steht für das eRP) sein  Bezeichnung - Bezeichnung für das entsprechende Thema
 
 **Beispiel:**
 
-SEITE 58 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
--Notation spezifizierten Elemente, finden sich unter:
-
--Ressourcen, welche in verschiedenen Bereichen des
-
--Profilen verwendet werden. Die FHIR®-Ressourcen
-
 [https://simplifier.net/](https://simplifier.net/).
 
-, ohne dass es einer Versionsänderung der .
+, ohne dass es einer Versionsänderung der 8 ohne BOM“.
 
-weitere Werte können bspw. EAU (steht
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31 -Profilen abgeleitet sind.
+-Profilen abgeleitet sind.
 
 -XML-Definitionsdateien zu
 
 [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
 
+weitere Werte können bspw. EAU (steht
+
 
 ---
 
-› Dateiname: KBV_PR_FOR_Patient  › URL: [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)  › Abbildung der formularübergreifenden Patienteninformationen
+Dateiname: KBV_PR_FOR_Patient  URL: [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)  Abbildung der formularübergreifenden Patienteninformationen
 
-**4.3.2 Profile**
+**4.3.2** **Profile**
 
 Die in diesem Kapitel beschriebenen Profile werden für alle digitalen Muster, welche im Format FHIR defi- niert sind, verwendet und geben Auskunft darüber, wie die Elemente mit welchen Erweiterungen sowie  Einschränkungen zu verwenden sind. Die Identifikation schen URL.
 
@@ -3846,6 +3258,12 @@ Kanonische URL
 FHIR®-Ressource
 
 Definition
+
+[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Practitioner](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Practitioner)
+
+[http://hl7.org/fhir/R4/practitioner.html](http://hl7.org/fhir/R4/practitioner.html)
+
+Abbildung der Stammdaten der ausstellenden / verschreibenden Person und der ver- antwortlichen Person
 
 Version
 
@@ -3859,45 +3277,7 @@ FHIR®-Ressource
 
 Definition
 
-Version
-
-**Tabelle 28: KBV_PR_FOR_PractitionerRole**
-
-**KBV_PR_FOR_ORGANIZATION**
-
-Kanonische URL
-
-FHIR®-Ressource
-
-Definition
-
-Version
-
-**Tabelle 29: KBV_PR_FOR_Organization**
-
-**KBV_PR_FOR_COVERAGE**
-
-Kanonische URL
-
-FHIR®-Ressource
-
-Definition
-
-Version
-
-**Tabelle 30: KBV_PR_FOR_Coverage**
-
-**KBV_PR_FOR_PATIENT**
-
-Kanonische URL
-
-SEITE 59 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Practitioner](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Practitioner)
-
-[http://hl7.org/fhir/R4/practitioner.html](http://hl7.org/fhir/R4/practitioner.html)
-
-Abbildung der Stammdaten der ausstellenden / verschreibenden Person und der ver- antwortlichen Person 1.3.1 1.3.0
+Version 1.3.1 1.3.0
 
 [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_PractitionerRole](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_PractitionerRole)
 
@@ -3905,23 +3285,37 @@ Abbildung der Stammdaten der ausstellenden / verschreibenden Person und der ver-
 
 Die ausgeführte Rolle der ausstellenden / verschreibende 1.3.1 1.3.0
 
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Organization](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Organization)
+**Tabelle 28: KBV_PR_FOR_PractitionerRole**
 
-[http://hl7.org/fhir/R4/organization.html](http://hl7.org/fhir/R4/organization.html)
+**KBV_PR_FOR_ORGANIZATION**
 
-Daten der Einrichtung, in welcher die ausstellende / verschreibenden Person und die  verantwortliche Person die Verordnung ausstellen 1.3.1 1.3.0
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Organization](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Organization)
 
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Coverage](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Coverage)
+FHIR®-Ressource [http://hl7.org/fhir/R4/organization.html](http://hl7.org/fhir/R4/organization.html)
 
-[http://hl7.org/fhir/R4/coverage.html](http://hl7.org/fhir/R4/coverage.html)
+Definition Daten der Einrichtung, in welcher die ausstellende / verschreibenden Person und die  verantwortliche Person die Verordnung ausstellen
 
-Krankenversicherungsverhältnis des Patienten 1.3.1 1.3.0
+Version  1.3.1 1.3.0
 
-[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
+**Tabelle 29: KBV_PR_FOR_Organization**
+
+**KBV_PR_FOR_COVERAGE**
+
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Coverage](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Coverage)
+
+FHIR®-Ressource [http://hl7.org/fhir/R4/coverage.html](http://hl7.org/fhir/R4/coverage.html)
+
+Definition Krankenversicherungsverhältnis des Patienten
+
+Version  1.3.1 1.3.0
+
+**Tabelle 30: KBV_PR_FOR_Coverage**
+
+**KBV_PR_FOR_PATIENT**
+
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
 
 der Profile erfolgt durch die Angabe einer kanoni-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 n Person
 
@@ -3936,19 +3330,25 @@ Definition
 
 Version
 
+[http://hl7.org/fhir/R4/patient.html](http://hl7.org/fhir/R4/patient.html)
+
+Informationen des Patienten 1.3.1 1.3.0
+
 **Tabelle 31: KBV_PR_FOR_Patient**
 
-**4.3.3**
+**4.3.3** **Extensions**
 
 Mit den folgenden Extensions wurden notwendige
 
 **KBV_EX_FOR_LEGAL_BASIS**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_Legal_basis](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_Legal_basis)
 
-Definition
+Definition Beschreibt die Rechtsgrundlage, auf Basis derer die Leistung erbracht wurde.
 
-Version
+Version  1.3.1 1.3.0
+
+Erweiterungen in den FHIR®-Ressourcen vorgenommen.
 
 erweitert FHIR®- Ressource
 
@@ -3976,34 +3376,6 @@ Definition
 
 Version
 
-erweitert FHIR®- Ressource
-
-Hinweis
-
-**Tabelle 34: KBV_EX_FOR_PKV_Tariff**
-
-**KBV_EX_FOR_ACCIDENT**
-
-Kanonische URL
-
-Definition
-
-Version
-
-SEITE 60 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**Extensions**
-
-[http://hl7.org/fhir/R4/patient.html](http://hl7.org/fhir/R4/patient.html)
-
-Informationen des Patienten 1.3.1 1.3.0
-
-[https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_Legal_basis](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_Legal_basis)
-
-Beschreibt die Rechtsgrundlage, auf Basis derer die Leistung erbracht wurde.
-
-1.3.1 1.3.0
-
 Composition
 
 Die Rechtsgrundlage wird formularspezifisch angegeben. Diese Extension wird in for- mularspezifischen Profilen z.B. für die elektronische Arbeitsunfähigkeitsbescheini- gung und das elektronische Rezept genutzt.
@@ -4018,6 +3390,20 @@ Coverage.payor.identifier
 
 Abbildung der PKV-Tarifart 1.3.1 1.3.0
 
+erweitert FHIR®- Ressource
+
+Hinweis
+
+**Tabelle 34: KBV_EX_FOR_PKV_Tariff**
+
+**KBV_EX_FOR_ACCIDENT**
+
+Kanonische URL
+
+Definition
+
+Version
+
 Composition
 
 Die PKV-Tarifart wird formularspezifisch angegeben. Diese Extension wird in formu- larspezifischen Profilen z.B. für das elektronische Rezept genutzt.
@@ -4026,161 +3412,123 @@ Die PKV-Tarifart wird formularspezifisch angegeben. Diese Extension wird in form
 
 Abbildung der Unfallinformationen 1.3.1 1.3.0
 
-Erweiterungen in den FHIR®-Ressourcen vorgenommen.
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 
 ---
 
 **KBV_EX_FOR_ACCIDENT**
 
-erweitert FHIR®- Ressource
+erweitert FHIR®- Composition, MedicationRequest, DeviceRequest  Ressource
 
 **Tabelle 35: KBV_EX_FOR_Accident**
 
 **KBV_EX_FOR_STATUSCOPAYMENT**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_StatusCoPayment](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_StatusCoPayment)
 
-Definition
+Definition Abbildung des Zuzahlungsstatus für die Verordnung
 
-Version
+Version 1.3.1 1.3.0
 
-erweitert FHIR®- Ressource
+erweitert FHIR®- MedicationRequest, SupplyRequest, DeviceRequest  Ressource
 
 **Tabelle 36: KBV_EX_FOR_StatusCoPayment**
 
 **KBV_EX_FOR_SER**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_SER](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_SER)
 
-Definition
+Definition Kennzeichnung, ob Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER,  ehemals BVG) erfolgt
 
-Version
+Version 1.3.1 1.3.0
 
-erweitert FHIR®- Ressource
+erweitert FHIR®- MedicationRequest, DeviceRequest  Ressource
 
 **Tabelle 37: KBV_EX_FOR_SER**
 
-**4.3.4**
+**4.3.4** **ValueSets, CodeSystems und NamingSystems**
 
 Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten.
 
 **KBV_CS_FOR_BERUFSBEZEICHNUNG**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung)
 
-Definition
+Definition Dieses CodeSystem wurde für das Slicing des Elements Practitioner.qualification ein- geführt und enthält nur einen Dummy-Wert. Die Berufsbezeichnung selbst ist nicht  als Code sondern als Freitext in code.text anzugeben.
 
 **Tabelle 38: KBV_CS_FOR_Berufsbezeichnung**
 
 **KBV_NS_FOR_FACHGRUPPENNUMMER_ASV**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV](https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV)
 
-Definition
+Definition Abbildung der Fachgruppennummer zur Repräsentation einer Ärztin/eines Arztes im  Krankenhaus im Rahmen der ASV-Behandlung
 
 **Tabelle 39: KBV_NS_FOR_Fachgruppennummer_ASV**
 
 **KBV_CS_FOR_PAYOR_TYPE_KBV**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Payor_Type_KBV](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Payor_Type_KBV)
 
-Definition
+Definition Abbildung des Kostenträgertypes
 
 **Tabelle 40: KBV_CS_FOR_Payor_Type_KBV**
-
-SEITE 61 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**ValueSets, CodeSystems und NamingSystems**
-
-Composition, MedicationRequest, DeviceRequest
-
-[https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_StatusCoPayment](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_StatusCoPayment)
-
-Abbildung des Zuzahlungsstatus für die Verordnung 1.3.1 1.3.0
-
-MedicationRequest, SupplyRequest, DeviceRequest
-
-[https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_SER](https://fhir.kbv.de/StructureDefinition/KBV_EX_FOR_SER)
-
-Kennzeichnung, ob Verordnung im Rahmen des Sozialen  ehemals BVG) erfolgt 1.3.1 1.3.0
-
-MedicationRequest, DeviceRequest
-
-[https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung)
-
-Dieses CodeSystem wurde für das Slicing des Elements Practitioner.qualification ein- geführt und enthält nur einen Dummy-Wert. Die Berufsbezeichnung selbst ist nicht  als Code sondern als Freitext in code.text anzugeben.
-
-[https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV](https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV)
-
-Abbildung der Fachgruppennummer zur Repräsentation einer Ärztin/eines Arztes im  Krankenhaus im Rahmen der ASV-Behandlung
-
-[https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Payor_Type_KBV](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Payor_Type_KBV)
-
-Abbildung des Kostenträgertypes
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Entschädigungsrechts (SER,
 
 
 ---
 
 **KBV_VS_FOR_PAYOR_TYPE**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Payor_type](https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Payor_type)
 
-Definition
+Definition ValueSet für KBV_CS_FOR_Payor_Type
 
 **Tabelle 41: KBV_VS_FOR_Payor_Type**
 
 **KBV_NS_FOR_PRUEFNUMMER**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_NS_FOR_Pruefnummer](https://fhir.kbv.de/CodeSystem/KBV_NS_FOR_Pruefnummer)
 
-Definition
+Definition Abbildung der Prüfnummer, welche jede zertifizierte Software im Rahmen der Zerti- fizierung erhält
 
 **Tabelle 42: KBV_NS_FOR_Pruefnummer**
 
 **KBV_CS_FOR_QUALIFICATION_TYPE**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type)
 
-Definition
+Definition Typkennzeichnung der ausstellenden / verschreibenden Person und der verantwort- lichen Person
 
 **Tabelle 43: KBV_CS_FOR_Qualification_Type**
 
 **KBV_VS_FOR_QUALIFICATION_TYPE**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Qualification_Type](https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Qualification_Type)
 
-Definition
+Definition ValueSet für KBV_CS_FOR_Qualification_Type
 
 **Tabelle 44: KBV_VS_FOR_Qualification_Type**
 
 **KBV_CS_FOR_STATUSCOPAYMENT**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_StatusCoPayment](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_StatusCoPayment)
 
-Definition
+Definition Ausprägung des Zuzahlungsstatus für die Verordnung
 
 **Tabelle 45: KBV_CS_FOR_StatusCoPayment**
 
 **KBV_CS_FOR_URSACHE_TYPE**
 
-Kanonische URL
+Kanonische URL [https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Ursache_Type](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Ursache_Type)
 
-Definition
+Definition Abbildung der Ausprägung der möglichen Ursachen für die Ausstellung eines digita- len Vordrucks
 
 **Tabelle 46: KBV_CS_FOR_Ursache_Art**
 
-**4.3.5**
+**4.3.5** **Instanziierung der Profile**
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-01**
+**P4-01** Instanziierung KBV_PR_FOR_Practitioner
 
 Die Software erzeugt Instanzen auf Basis des Profiles KBV_PR_FOR_Practitioner.
 
@@ -4190,52 +3538,14 @@ In diesem Profil werden Informationen der ausstellenden / verschreibenden Person
 
 **Akzeptanzkriterium:**
 
-1. Das Mapping der Informationen aus Kapitel  erfolgen:
-
-SEITE 62 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-**Instanziierung der Profile**
-
-Instanziierung KBV_PR_FOR_Practitioner
-
-[https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Payor_type](https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Payor_type)
-
-ValueSet für KBV_CS_FOR_Payor_Type
-
-[https://fhir.kbv.de/CodeSystem/KBV_NS_FOR_Pruefnummer](https://fhir.kbv.de/CodeSystem/KBV_NS_FOR_Pruefnummer)
-
-Abbildung der Prüfnummer, welche jede zertifizierte Software im Rahmen der  fizierung erhält
-
-[https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type)
-
-Typkennzeichnung der ausstellenden / verschreibende lichen Person
-
-[https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Qualification_Type](https://fhir.kbv.de/ValueSet/KBV_VS_FOR_Qualification_Type)
-
-ValueSet für KBV_CS_FOR_Qualification_Type
-
-[https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_StatusCoPayment](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_StatusCoPayment)
-
-Ausprägung des Zuzahlungsstatus für die Verordnung
-
-[https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Ursache_Type](https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Ursache_Type)
-
-Abbildung der Ausprägung der möglichen Ursachen für die Ausstellung eines digita- len Vordrucks
-
-6 auf das Profil KBV_PR_FOR_Practitioner muss wie folgt
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-n Person und der verantwort-
-
-Zerti-
+1. Das Mapping der Informationen aus Kapitel 6 auf das Profil KBV_PR_FOR_Practitioner muss wie folgt  erfolgen:
 
 
 ---
 
 **KBV_PR_FOR_PRACTITIONER**
 
-| Daten |  |  | ID gemäß |  |  | FHIR®-Element |  | Bedingung |
+| **Daten** |  |  | **ID gemäß** |  |  | **FHIR®-Element** |  | **Bedingung** |
 |---|---|---|---|---|---|---|---|---|
 
 Ausstellende / Verschreibende Person
@@ -4255,8 +3565,6 @@ Berufsbezeichnung der  ausstellenden/ verschrei- benden Person
 |---|---|---|---|---|
 | lenden/ verschreibenden |  |  |  |  |
 
-SEITE 63 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 **Tabelle 52**
 
 146
@@ -4269,14 +3577,12 @@ qualification:Typ.code
 
 qualification:  Berufsbezeichnung.code.text
 
-/ 9. FEBRUAR 2026
-
-Person WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 147 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 7 gemäß Tabelle 52 gleich „GKV“ oder „BG“ oder „SKT“ oder „UK“ oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „03“ ist und der Block 50 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 41 gemäß Tabelle 52 gleich „02“ ist oder das Feld 147 gemäß Tabelle 52 vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. / VERSION: 2.31
+Person WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 147 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 7 gemäß Tabelle 52 gleich „GKV“ oder „BG“ oder „SKT“ oder „UK“ oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „03“ ist und der Block 50 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 41 gemäß Tabelle 52 gleich „02“ ist oder das Feld 147 gemäß Tabelle 52 vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden.
 
 
 ---
 
-**KBV_PR_FOR_PRACTITIONER**
+### KBV_PR_FOR_PRACTITIONER
 
 Arztnummer der ausstel- lenden/ verschreibenden  Person
 
@@ -4299,11 +3605,7 @@ Titel der ausstellenden/  verschreibenden Person
 | lenden/ verschreibenden |  | rsatzwort.value[x]:valueString |  |
 | Person |  |  |  |
 
-Verantwortliche Person
-
-SEITE 64 VON 102 / KBV /
-
-TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 42a
+Verantwortliche Person 42a
 
 | 42b | identifier:ZANR |
 |---|---|
@@ -4327,56 +3629,56 @@ name:name.family.extension:na chname.value[x]:valueString
 
 name:name.prefix
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 WENN  der Block 42 gemäß Tabelle 52 vor- handen ist und das Feld 41 gemäß  Tabelle 52 gleich „00“ oder „03“  oder „04“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-WENN  der Block 42 gemäß Tabelle 52 vor- handen ist und das Feld 41 gemäß  Tabelle 52 gleich „01“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+WENN  der Block 42 gemäß Tabelle 52 vor- handen ist und das Feld 41 gemäß  Tabelle 52 gleich „01“ ist,
 
-Namenszusatz der ausstel-WENN  das Feld 41 gemäß Tabelle 52  gleich „03“ ist und das Feld 42  nicht vorhanden ist und das Feld 51  gemäß Tabelle 52 gleich „00“ oder  „01“ oder „04“ ist,  DANN  muss dieser Block vorhanden  sein.  ANSONSTEN WENN  das Feld 41 gemäß Tabelle 52
+DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+
+WENN  das Feld 41 gemäß Tabelle 52  gleich „03“ ist und das Feld  nicht vorhanden ist und das Feld 51  gemäß Tabelle 52 gleich „00“  „01“ oder „04“ ist DANN  muss dieser Block vorhanden  sein.  ANSONSTEN WENN  das Feld 41 gemäß Tabelle 52 42
+
+Namenszusatz der ausstel-oder
 
 
 ---
 
-**KBV_PR_FOR_PRACTITIONER**
+### KBV_PR_FOR_PRACTITIONER
 
 Qualifikation der verant- wortlichen Person
 
 Typ der verantwortlichen  Person
 
-|  | 58 | qualification:Berufsbezeichnung |  |
-|---|---|---|---|
-|  |  | .code.text |  |
-| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |
-| der verantwortlichen Per- |  | ummer.code.coding.code |  |
-| son |  |  |  |
+Berufsbezeichnung der  verantwortlichen Person
+
+| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |  |
+|---|---|---|---|---|
+| der verantwortlichen Per- |  | ummer.code.coding.code |  |  |
+| son |  |  |  |  |
 
 | Identifikator der verant- | 52 | Identifier |  |  |
 |---|---|---|---|---|
 | wortlichen Person |  |  |  |  |
 
-Arztnummer der verant- wortlichen Person
-
-SEITE 65 VON 102 / KBV /
-
 148
 
-51 qualification:Typ.code
+51
 
-52a identifier:ANR
+58
 
-TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+qualification:Typ.code
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+qualification:Berufsbezeichnung .code.text
+
+Arztnummer der verant- 52a identifier:ANR  wortlichen Person
 
 gleich „03“ ist und das Feld 42 vor- handen ist und das Feld 51 gemäß  Tabelle 52 gleich „00“ oder „01“  oder „04“ ist oder das Feld 41 ge- mäß Tabelle 52 gleich „04“ ist und  wenn das Feld 51 gemäß Tabelle 52  gleich „00“ oder „01“ oder „04“ ist,  DANN  kann dieser Block vorhanden  sein.  ANSONSTEN  darf dieser Block nicht vorhanden  sein.
 
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. Berufsbezeichnung der verantwortlichen Person WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“ und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“  ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
 
 
 ---
 
-**KBV_PR_FOR_PRACTITIONER**
+### KBV_PR_FOR_PRACTITIONER
 
 Zahnarztnummer der der  verantwortlichen Person
 
@@ -4396,13 +3698,11 @@ Vorsatzwort der verant- wortlichen Person
 
 **Tabelle 47: Mapping KBV_PR_FOR_Practitioner**
 
-2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.  3. Die Software stellt sicher, dass für das Feld „Berufsbezeichnung der verantwortlichen Person“ sowie für  das Feld „Berufsbezeichnung der ausstellenden/ verschreibenden Person“ nicht mehr als 100 Zeichen  übertragen werden.  4. Software, welche lediglich im ambulanten vertragsärztlichen Bereich Anwendung findet, muss den Slice  „ZANR“ des Elementes „identifier“ nicht umsetzen (Ausnahme zur Anforderung P4-07)
+2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.  3. Die Software stellt sicher, dass für das Feld „Berufsbezeichnung der verantwortlichen Person“ sowie für  das Feld „Berufsbezeichnung der ausstellenden/ verschreibenden Person“ nicht mehr als 100 Zeichen  übertragen werden.  4. Software, welche lediglich im ambulanten vertragsärztlichen Bereich Anwendung findet, muss den Slice  „ZANR“ des Elementes „identifier“ nicht umsetzen (Ausnahme zur Anforderung
 
-**HINWEIS**
+### HINWEIS
 
-Wenn eine Instanz des FHIR- Profiles KBV_PR_FOR_Practitioner für einen „reinen“ Privatarzt erzeugt wird  und dieser Privatarzt keine LANR besitzt, dann soll in das Feld LANR mit der ID 42a und 52a der Pseudowert  999999900 und verpflichtend die Telematik
-
-SEITE 66 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+Wenn eine Instanz des FHIR- und dieser Privatarzt keine LANR besitzt, dann soll in das Feld LANR mit der ID 42a und 52a der Pseudowert  999999900 und verpflichtend die Telematik
 
 | 52b | identifier:ZANR |
 |---|---|
@@ -4420,6 +3720,8 @@ SEITE 66 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 57
 
+Profiles KBV_PR_FOR_Practitioner für einen „reinen“ Privatarzt erzeugt wird
+
 name:name
 
 name:name.given
@@ -4434,72 +3736,66 @@ name:name.family.extension:vo rsatzwort.value[x]:valueString
 
 -ID im Feld mit der ID 42c und 52c übertragen werden.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Tabelle 52 gleich „00“ oder „04“  ist,
 
-Tabelle 52 gleich „00“ oder „04“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß  Tabelle 52 gleich „01“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+
+P4-07)
 
 
 ---
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-02**
+**P4-02** Instanziierung KBV_PR_FOR_PractitionerRole
 
 Die Software erzeugt Instanzen auf Basis des Profiles KBV_PR_FOR_PractitionerRole.
 
-**Begründung:**
+**Begründung**
 
 In diesem Profil wird angegeben, ob die ausstellende / verschreibende Person
 
-**Akzeptanzkriterium:**
+**Akzeptanzkriterium**
 
 1. Das Mapping der Informationen aus Kapitel  folgt erfolgen:
 
 **KBV_PR_FOR_PRACTITIONERROLE**
 
-**Daten**
+**Daten ID gemäß**  **Tabelle 52**
 
 ASV-Ausübung
 
-ASV-Teamnummer
+ASV-Teamnummer 43
 
 **Tabelle 48: Mapping KBV_PR_FOR_PractitionerRole**
 
-2. Die Software muss es ermöglichen, dass  werden kann.  3. Die Instanz des Profils KBV_PR_FOR_PractitionerRole muss die folgende Instanz referenzieren können:
+2. Die Software muss es ermöglichen, dass
 
-**KBV_PR_FOR_PRACTITIONERROLE** **Datenfeld**  **ID gemäß**  **Tabelle 52**
+werden kann.  3. Die Instanz des Profils KBV_PR_FOR_PractitionerRole muss die folgende Instanz referenzieren können:
+
+**KBV_PR_FOR_PRACTITIONERROLE**
+
+**Datenfeld Referenzierte Instanz**   **ID gemäß**  **Tabelle 52**
 
 |  | KBV_PR_FOR_Practitioner | 41 + 42a/b/c + | practitioner.reference |  |
 |---|---|---|---|---|
-|  |  | 44 - 49, 147 | = <UUID der Instanz> |  |
+|  |  | 44 - 49, 147 | = *<UUID der Instanz>* |  |
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-03**
+**P4-03** Instanziierung KBV_PR_FOR_Organization
 
 Die Software erzeugt eine Instanz auf Basis KBV_PR_FOR_Organization.
 
-**Begründung:**
+**Begründung**
 
 In diesem Profil werden die Daten zur Betriebsstätte angegeben.
 
-**Akzeptanzkriterium:**
+**Akzeptanzkriterium**
 
 1. Das Mapping der Informationen aus Kapitel  erfolgen:
-
-SEITE 67 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Instanziierung KBV_PR_FOR_PractitionerRole
-
-**Referenzierte Instanz**
-
-Instanziierung KBV_PR_FOR_Organization
-
-**ID gemäß**  **Tabelle 52**
-
-43
 
 6 auf das Profil KBV_PR_FOR_PractitionerRole muss wie
 
@@ -4515,13 +3811,13 @@ das unter Akzeptanzkriterium (1) aufgeführte Datenfeld befüllt
 
 **FHIR®-Element**
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 eine weitere Rolle innehat.
 
 **Bedingung**
 
-WENN  das Feld 17 den Wert "01" oder  "11" besitzt,  DANN  muss dieses Feld übertragen  werden.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
+WENN  das Feld 17 den Wert "01" oder  "11" besitzt,
+
+DANN  muss dieses Feld übertragen  werden.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **Bedingung**
 
@@ -4529,7 +3825,7 @@ WENN  das Feld 17 den Wert "01" oder  "11" besitzt,  DANN  muss dieses Feld übe
 
 ---
 
-**KBV_PR_FOR_ORGANIZATION**
+### KBV_PR_FOR_ORGANIZATION
 
 **Daten**
 
@@ -4545,8 +3841,6 @@ KZV-Abrechnungsnum- mer
 
 Standortnummer
 
-SEITE 68 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 **ID gemäß**  **Tabelle 52**
 
 61a
@@ -4557,32 +3851,20 @@ SEITE 68 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 61d
 
-**FHIR®-Element**
+**FHIR®-Element Bedingung**
 
-identifier:Betriebsstaettennum mer
+identifier:Betriebsstaettennum WENN  mer der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61b ge- mäß Tabelle 52 und 61c gemäß Ta- belle 52 und 61d gemäß Tabelle 52  nicht vorhanden sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-identifier:Institutionskennzeiche n
+identifier:Institutionskennzeiche WENN  n der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61c gemäß Tabelle 52  und 61d gemäß Tabelle 52 nicht vor- handen sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-identifier:KZV- Abrechnungsnummer
+identifier:KZV-WENN  Abrechnungsnummer der Block 61 gemäß Tabelle 52 vor- handen ist und das Feld 41 gleich  „01“ ist die Felder 61a, 61b und 61d  gemäß Tabelle 52 nicht vorhanden  sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-identifier:Standortnummer
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-**Bedingung**
-
-WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61b ge- mäß Tabelle 52 und 61c gemäß Ta- belle 52 und 61d gemäß Tabelle 52  nicht vorhanden sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
-
-WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61c gemäß Tabelle 52  und 61d gemäß Tabelle 52 nicht vor- handen sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
-
-WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und das Feld 41 gleich  „01“ ist die Felder 61a, 61b und 61d  gemäß Tabelle 52 nicht vorhanden  sind,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben  werden.
-
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
 
 
 ---
 
-**KBV_PR_FOR_ORGANIZATION**
+### KBV_PR_FOR_ORGANIZATION
 
 Telematik-ID der Einrich- tung
 
@@ -4616,9 +3898,7 @@ Telefonnummer der Ein- richtung
 
 **Tabelle 49: Mapping KBV_PR_FOR_Organization**
 
-2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.  3. Die Software stellt sicher, dass für das Feld „Name der Einrichtung“ nicht mehr als 60 Zeichen übertra- gen werden.  4. Software, welche lediglich im ambulanten vertragsärztlichen Bereich Anwendung findet, muss die Slices  „KZV - Abrechnungsnummer“ und „Standortnummer“ des Elementes „identifier“ nicht umsetzen (Aus- nahme zur Anforderung P4-07).  5. Die Software stellt sicher, dass für das Feld „Hausnummer der Einrichtung“ der Ersatzwert „ N/A “ über- tragen wird, wenn für die Einrichtung keine Hausnummer vorhanden ist.
-
-SEITE 69 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.  3. Die Software stellt sicher, dass für  gen werden.  4. Software, welche lediglich im ambulanten vertragsärztlichen Bereich Anwendung findet, muss die Slices  „KZV Abrechnungsnummer“ und „Standortnummer“ des Elementes „identifier“ nicht umsetzen (Aus- nahme zur Anforderung P4-07).  5. Die Software stellt sicher, dass für das Feld „Hausnummer der Einrichtung“ der Ersatzwert „ tragen wird, wenn für die Einrichtung keine Hausnummer vorhanden ist.
 
 | 61e | identifier:Telematik-ID |
 |---|---|
@@ -4652,11 +3932,12 @@ Telecom
 
 telecom:telefon.value
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+das Feld „Name der Einrichtung“ nicht mehr als 60 Zeichen übertra-
 
 ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-Faxnummer der Einrich- tung E-Mail der Einrichtung Hausnummer der Einrich-
+Faxnummer der Einrich- tung E-Mail der Einrichtung Hausnummer der Einrich-N/A“ über-
+
 
 ---
 
@@ -4664,65 +3945,39 @@ Faxnummer der Einrich- tung E-Mail der Einrichtung Hausnummer der Einrich-
 
 Die Software muss die korrekte Befüllung der Straße, Hausnummer sowie des Anschriftenzusatzes beach- ten. Denn die Angaben zur Straße und Hausnummer werden in die erste „line“ und der Anschriftenzusatz in  die zweite „line“ geschrieben. Straße und Hausnummer sind mit  anzugeben.
 
-Wenn eine Instanz des FHIR- Profiles KBV_PR_FOR_Organization für einen „reinen“ Privatarzt erzeugt wird  und dieser Privatarzt keine BSNR besitzt, dann soll in das Feld BSNR mit der ID 61a der Pseudowert  999999900 und verpflichtend die Telematik
+Wenn eine Instanz des FHIR-Profiles KBV_PR_FOR_Organization für einen „reinen“ Privatarzt erzeugt wird  und dieser Privatarzt keine BSNR besitzt, dann soll in das Feld BSNR mit der ID 61a der Pseudowert  999999900 und verpflichtend die Telematik-ID im Feld mit der ID 61e übertragen werden.
 
 Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer geben werden; es kann bspw. auch die Telefonnummer eines Bereiches einer Einrichtung angegeben wer- den, in welchem die Verordnung ausgestellt wurde.
 
-Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung  Verordnung ausgestellt wurde.
+Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E-Mail einer Einrichtung angegeben werden; es  kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung  Verordnung ausgestellt wurde.
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-04**
+**P4-04** Instanziierung KBV_PR_FOR_Coverage
 
 Die Software erzeugt eine Instanz auf Basis KBV_PR_FOR_Coverage.
 
-**Begründung:**
+**Begründung**
 
 In diesem Profil werden die Informationen zum Krankenversicherungsverhältnis des Patienten abgebildet.
 
-**Akzeptanzkriterium:**
+**Akzeptanzkriterium**
 
-1. Das Mapping der Informationen aus Kapitel  gen:
+1. Das Mapping der Informationen aus Kapitel 6 auf das Profil KBV_PR_FOR_Coverage muss wie folgt erfol- gen:
 
 **KBV_PR_FOR_COVERAGE**
 
-**Daten**
+**Daten ID gemäß FHIR®-Element**  **Tabelle 52**
 
-Kostenträgertyp
+Kostenträgertyp 7 type
 
-IK der zuständigen Kran- kenkasse
+IK der zuständigen Kran- 9 payor.identifier  kenkasse
 
-IK des Kostenträgers
-
-SEITE 70 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Instanziierung KBV_PR_FOR_Coverage
-
-**ID gemäß**  **Tabelle 52**
-
-7
-
-9
-
-10
-
--ID im Feld mit der ID 61e übertragen werden.
-
-6 auf das Profil KBV_PR_FOR_Coverage muss wie folgt erfol-
-
-**FHIR®-Element**
-
-type
-
-payor.identifier
-
-payor.identifier.extension:altern ativeID.value[x]:valueIdentifier
-
--Mail einer Einrichtung angegeben werden; es
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+IK des Kostenträgers 10 payor.identifier.extension:altern ativeID.value[x]:valueIdentifier
 
 mindestens einem Leerzeichen getrennt
+
+einer Einrichtung ange-
 
 angegeben werden, in welchem die
 
@@ -4730,11 +3985,7 @@ angegeben werden, in welchem die
 
 WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "BG" oder "UK",  DANN  ist kann das Feld  werden.  ANSONSTEN  darf das Feld nicht übertragen wer- den.
-
-einer Einrichtung ange-
-
-übertragen
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "BG" oder "UK",  DANN  ist kann das Feld übertragen  werden.  ANSONSTEN  darf das Feld nicht übertragen wer- den.
 
 
 ---
@@ -4743,84 +3994,38 @@ einer Einrichtung ange-
 
 Name des Kostenträgers
 
-WOP
-
-Versichertenstatus
-
-Versichertenart
-
-Besondere Personen- gruppe
-
-DMP-Kennzeichen
-
-Versicherungsschutz Ende
-
-**Tabelle 50: Mapping KBV_PR_FOR_Coverage**
-
-2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist. 3. Da für die Informationen Versichertenstatus, DMP Kennzeichen Rechtsgrundlage immer ein Wert in den FHIR Software eine Vorbelegung der Informationen wie folgt anbiete a) Versichertenart:  **·** Der vom Anwender erfasste Wert.  b) Besondere Personengruppe:  **·** Der vom Anwender erfasste Wert. **·** Der Wert „00“ sofern der Anwender keinen Wert erfasst hat. c) DMP-Kennzeichen:  **·** Der vom Anwender erfasste Wert.  **·** Der Wert „00“ sofern der Anwender keinen Wert erfasst hat. d) Kennzeichen Rechtsgrundlage: **·** Der vom Anwender erfasste Wert. **·** Der Wert „00“ sofern der Anwender keinen Wert erfasst hat.  4. Die Instanz des Profils KBV_PR_FOR_Coverage muss die folgenden Instanzen referenzieren können:
-
-SEITE 71 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 | 11 | payor.display |
 |---|---|
 | 12 | extension:WOP.value[x] |
 
-13
+WOP
 
-14
+Versichertenstatus 13
 
-15
+Versichertenart 14 extension:Versichertenart.value [x]
 
-16
+Besondere Personen- 15 extension:BesonderePersonengr gruppe uppe.value[x]
 
-26
+DMP-Kennzeichen 16 extension:DMPKennzeichen.val ue[x]
 
-extension:Versichertenart.value [x]
+Versicherungsschutz Ende 26 period.end
 
-extension:BesonderePersonengr uppe.value[x]
+**Tabelle 50: Mapping KBV_PR_FOR_Coverage**
 
-extension:DMPKennzeichen.val ue[x]
+2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist. 3. Da für die Informationen Versichertenstatus, DMP-Kennzeichen, Besonderen Personengruppe und/oder  Kennzeichen Rechtsgrundlage immer ein Wert in den FHIR-Instanzen übertragen werden muss. Kann die  Software eine Vorbelegung der Informationen wie folgt anbieten:  a) Versichertenart:  Der vom Anwender erfasste Wert.   b) Besondere Personengruppe:  Der vom Anwender erfasste Wert.  Der Wert „00“ sofern der Anwender keinen Wert erfasst hat. c) DMP-Kennzeichen:  Der vom Anwender erfasste Wert.   Der Wert „00“ sofern der Anwender keinen Wert erfasst hat. d) Kennzeichen Rechtsgrundlage:  Der vom Anwender erfasste Wert.  Der Wert „00“ sofern der Anwender keinen Wert erfasst hat.  4. Die Instanz des Profils KBV_PR_FOR_Coverage muss die folgenden Instanzen referenzieren können:
 
-period.end
+WENN  eine eGK mit VSD-Schema >= 5.2.0  eingelesen wurde,
 
--Kennzeichen, Besonderen Personengruppe und/oder  -Instanzen übertragen werden muss. Kann die
+DANN  ist dieses Feld verpflichtend zu  übertragen.  ANSONSTEN  kann dieses Feld übertragen wer- den.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-WENN  eine eGK mit VSD-Schema >= 5.2.0  eingelesen wurde,  DANN  ist dieses Feld verpflichtend zu  übertragen.  ANSONSTEN  kann dieses Feld übertragen wer- den.
-
-WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
-
-n:
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist,   DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
 
 
 ---
 
-**KBV_PR_FOR_COVERAGE**  **Referenzierte Instanz**
+**KBV_PR_FOR_COVERAGE** **Referenzierte Instanz**
 
 KBV_PR_FOR_Patient
-
-**HINWEIS**
-
-Die Befüllung des Feldes „IK der zuständigen Krankenkasse“ richtet sich nach den im KVDT -Anforderungska- talog definierten Anforderungen zur Verwendung der Kostenträgerkennung im Rahmen der Bedruckung.
-
-Beispiel zur Befüllung der Daten der Kostenträger:
-
-1. Erzeugung einer Instanz bei einem GKV-Versicherten im vertragsärztlichen Fall:  a) Kostenträgertyp = „GKV“  b) IK der zuständigen Krankenkasse = 104212059 c) Name des Kostenträgers = AOK Rheinland/Hamburg  2. Erzeugung einer Instanz bei einem GKV-Versicherten im Rahmen eines  a) Variante 1:  **·** Kostenträgertyp = „BG“  **·** IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)  **·** IK des Kostenträgers = 121192344  **·** Name des Kostenträgers = BG der Bauwirtschaft  b) Variante 2:  **·** Kostenträgertyp = „BG“  **·** IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)  **·** Name des Kostenträgers = BG der Bauwirtschaft  c) Variante 3:  **·** Kostenträgertyp = „UK“  **·** IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)  **·** Name des Kostenträgers = Unfallkasse Freie Hansestadt Bremen 3. Erzeugung einer Instanz bei einem Versicherten eines Sonstigen Kostenträgers:  a) Kostenträgertyp = „SKT“  b) IK der zuständigen Krankenkasse = 103600956 c) Name des Kostenträgers = FW Feuerwehr SN
-
-Die DGUV veröffentlicht die gültigen IKs der gesetzlichen Unfallversicherungen  [https://www.dguv.de/dale-uv/info_fuer_softwarehersteller/downloads/index.jsp](https://www.dguv.de/dale-uv/info_fuer_softwarehersteller/downloads/index.jsp)
-
-**PFLICHTFUNKTION DIGITALE MUSTER**
-
-**P4-05** Instanziierung KBV_PR_FOR_Patient
-
-Die Software erzeugt eine Instanz auf Basis KBV_PR_FOR_Patient.
-
-**Begründung:**
-
-In diesem Profil werden die Daten des Patienten abgebildet.
-
-SEITE 72 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 **ID gemäß Ta-** **belle 52**
 
@@ -4830,24 +4035,40 @@ SEITE 72 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 
 beneficiary.reference =  *<UUID der Instanz>*
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 **Bedingung**
 
 Instanz gemäß P4-05
 
-DGUV-Falles (z.B. Arbeitsunfall):
+**HINWEIS**
 
-unter  .
+Die Befüllung des Feldes „IK der zuständigen Krankenkasse“ richtet sich nach den im KVDT-Anforderungska- talog definierten Anforderungen zur Verwendung der Kostenträgerkennung im Rahmen der Bedruckung.
+
+Beispiel zur Befüllung der Daten der Kostenträger:
+
+1. Erzeugung einer Instanz bei einem GKV-Versicherten im vertragsärztlichen Fall:   a) Kostenträgertyp = „GKV“  b) IK der zuständigen Krankenkasse = 104212059  c) Name des Kostenträgers = AOK Rheinland/Hamburg  2. Erzeugung einer Instanz bei einem GKV-Versicherten im Rahmen eines DGUV-Falles (z.B. Arbeitsunfall):  a) Variante 1:  Kostenträgertyp = „BG“  IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)   IK des Kostenträgers = 121192344  Name des Kostenträgers = BG der Bauwirtschaft  b) Variante 2:  Kostenträgertyp = „BG“  IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)   Name des Kostenträgers = BG der Bauwirtschaft  c) Variante 3:  Kostenträgertyp = „UK“  IK der zuständigen Krankenkasse = 104212059 (IK der AOK Rheinland/Hamburg)   Name des Kostenträgers = Unfallkasse Freie Hansestadt Bremen  3. Erzeugung einer Instanz bei einem Versicherten eines Sonstigen Kostenträgers:   a) Kostenträgertyp = „SKT“  b) IK der zuständigen Krankenkasse = 103600956  c) Name des Kostenträgers = FW Feuerwehr SN
+
+Die DGUV veröffentlicht die gültigen IKs der gesetzlichen Unfallversicherungen unter  [https://www.dguv.de/dale-uv/info_fuer_softwarehersteller/downloads/index.jsp](https://www.dguv.de/dale-uv/info_fuer_softwarehersteller/downloads/index.jsp)
+
+**PFLICHTFUNKTION DIGITALE MUSTER**
+
+**P4-05** Instanziierung KBV_PR_FOR_Patient
+
+Die Software erzeugt eine Instanz auf Basis KBV_PR_FOR_Patient.
+
+**Begründung**
+
+In diesem Profil werden die Daten des Patienten abgebildet.
 
 
 ---
 
-**Akzeptanzkriterium:**
+### Akzeptanzkriterium
 
-1. Das Mapping der Informationen aus Kapitel  gen:
+1. Das Mapping der Informationen aus Kapitel
 
-**KBV_PR_FOR_PATIENT**
+gen:
+
+### KBV_PR_FOR_PATIENT
 
 **Daten**
 
@@ -4869,8 +4090,6 @@ Namenszusatz des Versi- cherten
 
 Vorsatzwort des Versi- cherten
 
-SEITE 73 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
 **ID gemäß**  **Tabelle 52**
 
 140
@@ -4884,6 +4103,8 @@ SEITE 73 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
 23
 
 24
+
+6 auf das Profil KBV_PR_FOR_Patient muss wie folgt erfol-
 
 **FHIR®-Element**
 
@@ -4899,29 +4120,22 @@ name:name.family.extension:  namenszusatz.value[x]:valueStr ing
 
 name:name.family.extension:v orsatzwort.value[x]:valueString
 
-6 auf das Profil KBV_PR_FOR_Patient muss wie folgt erfol-
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 **Bedingung**
 
-VersichertenID 19a identifier:versichertenId WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld 7 ge- mäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“, DANN  ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. WENN der Block 19 gemäß Tabelle 52 vor- handen ist und das Feld 7 gemäß Tabelle 52 gleich "GKV" oder “PKV“ oder „SKT“ ist und das Feld 19c ge- mäß Tabelle 52 nicht angegeben ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block 19 gemäß Tabelle 52 vor- handen ist und das Feld 7 gemäß Tabelle 52 gleich "SKT" ist und das Feld 19a gemäß Tabelle 52 nicht an- gegeben ist, DANN  ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden.
+VersichertenID 19a identifier:versichertenId WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld 7 ge- mäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ DANN  ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. WENN der Block 19 gemäß Tabelle 52 vor- handen ist und das Feld 7 gemäß Tabelle 52 gleich "GKV" oder “PKV“ oder „SKT“  ist und das Feld 19c ge- mäß Tabelle 52 nicht angegeben ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block 19 gemäß Tabelle 52 vor- handen ist und das Feld 7 gemäß Tabelle 52 gleich "SKT" ist und das Feld 19a gemäß Tabelle 52 nicht an- gegeben ist, DANN  ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden.
 
 ---
 
 **KBV_PR_FOR_PATIENT**
 
-| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |
-|---|---|---|---|
-| cherten |  | Mapping | in diesem Feld ein Datum angege- |
-|  |  | birthDate | ben wird, |
-|  |  | Wenn Wert nicht vorhanden, | DANN |
-|  |  | gilt Mapping | darf das Datum nicht nach dem |
-|  |  | birthDate.extension:data-absen | Ausstellungsdatum liegen. |
-|  |  | t-reason.value[x]:valueCode = |  |
-|  |  | unknown |  |
+| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |  |
+|---|---|---|---|---|
 
-Straßenadresse des Versi- cherten
+cherten
+
+| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
+|---|---|---|---|---|
+| cherten |  |  |  |  |
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -4933,13 +4147,7 @@ Straßenname der Versi- chertenanschrift
 
 Hausnummer der Versi- chertenanschrift
 
-Anschriftenzusatz der Ver- sichertenanschrift
-
-SEITE 74 VON 102 / KBV /
-
-TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 27
-
-28
+Anschriftenzusatz der Ver- sichertenanschrift 28
 
 29
 
@@ -4951,70 +4159,55 @@ TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 27
 
 33
 
-address:Strassenanschrift
+Mapping in diesem Feld ein Datum angege- birthDate ben wird,  Wenn Wert nicht vorhanden, DANN  gilt Mapping  darf das Datum nicht nach dem  birthDate.extension:data-absen Ausstellungsdatum liegen.  t-reason.value[x]:valueCode =  unknown
 
-address:Strassenanschrift.coun try
+address:Strassenanschrift.coun  try
 
-address:Strassenanschrift.posta lCode
+address:Strassenanschrift.posta WENN  lCode der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 28  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 address:Strassenanschrift.city
 
-address:Strassenanschrift.line[0 ].extension:Strasse.value[x]:val ueString
+address:Strassenanschrift.line[0  ].extension:Strasse.value[x]:val ueString
 
-address:Strassenanschrift.line[0 ].extension:Hausnummer.value [x]:valueString
+address:Strassenanschrift.line[0  ].extension:Hausnummer.value [x]:valueString
 
-Wenn Straßenname und/oder  Hausnummer vorhanden, gilt  Mapping
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.  ANSONSTEN  darf dieser Block nicht angegeben  werden.
-
-WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 28  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden. Wenn Straßenname und/oder   Hausnummer vorhanden, gilt  Mapping
 
 
 ---
 
-**KBV_PR_FOR_PATIENT**
+### KBV_PR_FOR_PATIENT
 
-| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
-|---|---|---|---|---|
-| sicherten |  |  |  |  |
+Postfachanschrift des Ver- 34  sicherten
 
-Wohnsitzländercode der  Versicherten-Postfachan- schrift
+Wohnsitzländercode der 35  Versicherten-Postfachan-
 
-Postleitzahl der Versicher- ten-Postfachanschrift
+schrift
 
-Ortsname der Versicher- ten-Postfachanschrift
+Postleitzahl der Versicher- 36  ten-Postfachanschrift
 
-Postfach der Versicher- ten-Postfachanschrift
+Ortsname der Versicher- 37  ten-Postfachanschrift
+
+Postfach der Versicher- 38  ten-Postfachanschrift
 
 **Tabelle 51: Mapping KBV_PR_FOR_Patient**
 
-2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.  a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.
+2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder an- hand der Vorgaben zu befüllen sind.
 
-SEITE 75 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 35
-
-36
-
-37
-
-38
+a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
 
+address:Postfach WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.  ANSONSTEN  darf dieser Block nicht angegeben  werden.
+
 address:Postfach.country
 
-address:Postfach.postalCode
+address:Postfach.postalCode WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 35  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 address:Postfach.city
 
-address:Postfach.line.extension :Postfach.value[x]:valueString
+address:Postfach.line.extension  :Postfach.value[x]:valueString
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch  ausgewiesen hat und das Feld 35  gleich „D“ und das Feld 7 gemäß Ta- belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
-
-WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
@@ -5024,15 +4217,15 @@ Die Software muss die korrekte Befüllung der Straße, Hausnummer sowie des  ten
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-06**
+**P4-06** Transformation von Datumsangaben
 
 Die Software muss sicherstellen, dass Datumsformate in dem Format JJJJ
 
-**Begründung:**
+**Begründung**
 
 Da das FHIR-Format ein internationales Interoperables Format ist, muss bei der Übermittlung von Datums- angaben ein international gebräuchliches Format verwendet werden.
 
-**Akzeptanzkriterium:**
+**Akzeptanzkriterium**
 
 1. Die Software transformiert das Datumsformat (JJJJMMTT), welches auf der eGK oder im KVDT verwen- det wird, in das Format JJJJ-MM-TT.  2. Die Software führt bei der Übermittlung eines besonderen Geburtsdatums JJJJMM00 oder JJJJ0000 oder  00000000 das folgende durch:
 
@@ -5044,7 +4237,7 @@ JJJJ0000 00000000
 
 **PFLICHTFUNKTION DIGITALE MUSTER**
 
-**P4-07**
+**P4-07** Umgang mit der Eigenschaft „mustSupport“
 
 FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.
 
@@ -5054,17 +4247,11 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 **Akzeptanzkriterium:**
 
-3. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR® -Ele- mente (mustSupport value="true") in den KBV 4. Die Software, welche die Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten FHIR® - Elemente (mustSupport value="true") in den KBV nen.
+3. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR® mente (mustSupport value="true") in den KBV 4.  Die Software, welche die Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten FHIR® Elemente (mustSupport value="true") in den KBV nen.
 
-**Hinweis:**
+**Hinweis**
 
 Konkrete Ausnahmen zu Akzeptanzkriterium
-
-SEITE 76 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-Transformation von Datumsangaben
-
-Umgang mit der Eigenschaft „mustSupport“
 
 FHIR®-Format
 
@@ -5074,13 +4261,15 @@ JJJJ
 
 unknown
 
--Profilen unterstützen – befüllen und übermitteln können.
-
--Profilen unterstützen – auslesen und verarbeiten kön-
-
 3 werden durch entsprechende Anforderungen definiert.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+-Profilen unterstützen
+
+-Profilen unterstützen
+
+Anschriftenzusatzes beach-
+
+-MM-TT übertragen wird.
 
 FHIR®-Mapping gemäß P4-04
 
@@ -5088,9 +4277,11 @@ Patient.birthDate
 
 Patient.birthDate
 
-Patient.birthDate.exten- sion([http://hl7.org/fhir/StructureDefini-](http://hl7.org/fhir/StructureDefini-) tion/data-absent-reason).valueCode -MM-TT übertragen wird.
+Patient.birthDate.exten- sion([http://hl7.org/fhir/StructureDefini-](http://hl7.org/fhir/StructureDefini-) tion/data-absent-reason).valueCode
 
-Anschriftenzusatzes beach-
+-Ele- befüllen und übermitteln können.
+
+auslesen und verarbeiten kön-
 
 
 ---
@@ -5099,7 +4290,7 @@ Anschriftenzusatzes beach-
 
 **P4-08** Umgang mit dem FHIR®-Element meta.versionId
 
-Das FHIR®-Element meta.versionId muss, wenn es im jeweiligen Profil vorhanden ist, mit dem Wert „1“ be- legt werden.
+Das FHIR®-Element meta.versionId muss, wenn es im jeweiligen Profil  legt werden.
 
 **Begründung:**
 
@@ -5107,29 +4298,27 @@ In Vorbereitung eines Prozesses zur Korrektur von elektronischen  matik wurde in
 
 **Akzeptanzkriterium:**
 
-1. Die Software stellt sicher, dass das FHIR®-Element meta.versionId mit dem Wert „1“ belegt wird, sofern  das FHIR®-Element im Profil vorhanden ist.  a) Die Software gestattet keine Anpassung des Wertes.
+1. Die Software stellt sicher, dass das FHIR®-Element meta.versionId  das FHIR®-Element im Profil vorhanden ist.  a)  Die Software gestattet keine Anpassung des Wertes.
 
-**4.4 INHALTE ELEKTRONISCHE ARBEITSUNFÄHIGKEITSBESCHEINIGUNG (E01)**
+**4.4** **INHALTE ELEKTRONISCHE ARBEITSUNFÄHIGKEITSBESCHEINIGUNG (E01)**
 
 Die Festlegungen zur elektronischen Arbeitsunfähigkeitsbescheinigung sind in der Technischen Anlage zur  eAU [KBV_ITA_VGEX_Technische_Anlage_eAU] definiert.
 
-**4.5 INHALTE ELEKTRONISCHE ARZNEIMITTELVERORDNUNG (VORDRUCK E16A)**
+**4.5** **INHALTE ELEKTRONISCHE ARZNEIMITTELVERORDNUNG (VORDRUCK E16A)**
 
-Die Festlegungen zur elektronischen Arzneimittelverordnung sind in der Technische Anlage zur elektroni- schen Arzneimittelverordnung [
+Die Festlegungen zur elektronischen Arzneimittelverordnung sind in der Technische Anlage zur elektroni- schen Arzneimittelverordnung [KBV_ITA_VGEX_Technische_Anlage_ERP] definiert.
 
-**4.6 INHALTE ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (VORDRUCK**  **E16D)**
+**4.6** **INHALTE ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (VORDRUCK**  **E16D)**
 
 Die Festlegungen zur elektronischen Verordnung digitaler Gesundheitsanwendungen sind in der Techni- schen Anlage zur elektronischen Verordnung digitaler Gesundheitsanwendungen [ sche_Anlage_eVDGA] definiert.
 
-SEITE 77 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-KBV_ITA_VGEX_Technische_Anlage_ERP] definiert.
+vorhanden ist, mit dem Wert „1“ be-
 
 Formularen über den Fachdienst der ge- -Rezept) Profilen das Element
 
-KBV_ITA_VGEX_Techni-
+mit dem Wert „1“ belegt wird, sofern
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+KBV_ITA_VGEX_Techni-
 
 
 ---
@@ -5138,150 +4327,156 @@ KBV_ITA_VGEX_Techni-
 
 ## ÜBERTRAGUNGSWEG
 
-Die Softwarenutzer und somit auch der Softwarehersteller müssen einen Übertragungsweg einsetzen, wel- cher den Anforderungen der Anlage 2b des BMV weg aus den entsprechenden Technischen Anlagen, sofern diese Übertragungswege vorhanden sind.
+Die Softwarenutzer und somit auch der Softwarehersteller müssen einen Übertragungsweg einsetzen, wel- cher den Anforderungen der Anlage 2b des BMV-Ä entspricht (siehe: [Anlage 2b]) bzw. einen Übertragungs- weg aus den entsprechenden Technischen Anlagen, sofern diese Übertragungswege vorhanden sind.
 
-Da digitale Muster ausschließlich mit einem PVS erstellt werden, muss die Übergabe bzw. Entgegennahme  des digitalen Musters zum bzw. aus dem Übertragungsweg mit der entsprechenden Praxissoftware möglich  sein. Diese Möglichkeit ist im Rahmen der Zertifizier
-
-SEITE 78 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
--Ä entspricht (siehe: [Anlage 2b]) bzw. einen Übertragungs-
-
-ung nachzuweisen.
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Da digitale Muster ausschließlich mit einem PVS erstellt werden, muss die Übergabe bzw. Entgegennahme  des digitalen Musters zum bzw. aus dem Übertragungsweg mit der entsprechenden Praxissoftware möglich  sein. Diese Möglichkeit ist im Rahmen der Zertifizierung nachzuweisen.
 
 
 ---
 
 6
 
-## INFORMATIONSMODELL DER FORMULARÜBERGREIFENDEN DA-
+## INFORMATIONSMODELL DER FORMULARÜBERGREIFENDEN DA- TEN FÜR DIE ÜBERTRAGUNG IM FHIR®
 
-## TEN FÜR DIE ÜBERTRAGUNG IM FHIR®
+-FORMAT
 
 In der nachfolgenden Tabelle 52 sind sämtliche für die Abbildung der Formularübergreifenden relevanten  Informationen in Form einer Felderliste beinhaltet.
 
 Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
-**› ID**  **·** Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der   **› 1; 2; 3; 4; 5 und 6**  **·** Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Feld- gruppen bzw. Blöcken  **·** 6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten **·** Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.  **› Feldname**  **·** Kurze Bezeichnung des abzubildenden Feldes  **› Länge**  **·** Angabe zur zulässigen Zeilenlänge des Inhaltes; Besondere Ausprägungen sind: **·** „Bool“:  **·** „Kodiert“:  **·** Leer:   **› Wiederh.**  **·** Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich: **·** 1..1  gung der zugeordneten Feldgruppe **·** 1..n  Bedingung der zugeordneten Feldgruppe **·** 0..1  Bedingung   **› Beschreibung**  **·** Ggfs. detaillierte Beschreibung des Feldes, sofern nötig  **› Bedingung**  **·** Logische Bedingung, an welche die Befüllung eines Feldes oder einer gesamten Feldgruppe geknüpft  ist
-
-SEITE 79 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-sofern ein Boolean-Wert vorliegt  sofern der Inhalt kodiert übertragen wird  sofern es sich um eine Feldgruppe handelt
-
-Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin-
-
-Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
-
-Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugordneten
-
-## -FORMAT
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Tabelle 52
+**ID**  Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 52   **1; 2; 3; 4; 5 und 6**  Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Feld- gruppen bzw. Blöcken  6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten  Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.   **Feldname**  Kurze Bezeichnung des abzubildenden Feldes   **Länge**  Angabe zur zulässigen Zeilenlänge des Inhaltes; Besondere Ausprägungen sind:  „Bool“:  sofern ein Boolean-Wert vorliegt  „Kodiert“:  sofern der Inhalt kodiert übertragen wird  Leer:  sofern es sich um eine Feldgruppe handelt   **Wiederh.**  Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:  1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin- gung der zugeordneten Feldgruppe  1..n Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.  Bedingung der zugeordneten Feldgruppe  0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugordneten  Bedingung   **Beschreibung**  Ggfs. detaillierte Beschreibung des Feldes, sofern nötig   **Bedingung**  Logische Bedingung, an welche die Befüllung eines Feldes oder einer gesamten Feldgruppe geknüpft  ist
 
 
 ---
 
 **Tabelle 52: Informationsmodell**
 
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**  6 x      Empfänger / Kostenträ- ger 7  x     Kostenträgertyp
+### ID
+
+**1 2 3 4 5 6**
+
+**FELDNAME**
+
+| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+|---|---|---|---|
+
+### (GRAU = FELD- GRUPPE)
+
+6 x      Empfänger / Kostenträ-  ger
+
+7  x     Kostenträgertyp Kodiert
 
 8  x     Allgemeine Information
 
-9   x    IK der zuständigen Kran- kenkasse
+9   x    IK der zuständigen Kran- 9  kenkasse
 
-10   x    IK des Kostenträgers
+10   x    IK des Kostenträgers 9
 
-SEITE 80 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+1..1 Dieser Block enthält Daten  zum Kostenträger.
 
-| LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
-|---|---|---|---|
+1..1 Dieses Feld enthält die Art  des Kostenträgers, z.B. ge- setzliche Krankenversiche- rung (GKV).
 
-1..1
+1..1 Dieser Block enthält allge- meine Informationen zum  Kostenträger.
 
-Kodiert 1..1 1..1
+0..1 Dieses Feld enthält das Insti- tutionskennzeichen (IK) der  zuständigen Krankenkasse  z.B. laut elektronischer Ge- sundheitskarte (eGK).  Siehe hierzu die Übertra- gungsregel nach der "Tech- nische Anlage zur Anlage 4a  BMV-Ä" Kapitel 2.2 "USE- CASES"
 
-9 0..1
+0..1 Dieses Feld enthält das Insti- tutionskennzeichen (IK) und  wird verwendet, wenn der  Kostenträger nicht die zu- ständige Krankenkasse ist,  bspw. eine Berufsgenossen- schaft (BG) oder eine Unfall- kasse (UK).
 
-9 0..1
+WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist,
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+DANN  ist dieses Feld Pflicht.
 
-Dieser Block enthält Daten  zum Kostenträger.
+ANSONSTEN  ist dieses Feld optional.
 
-Dieses Feld enthält die Art  des Kostenträgers, z.B. ge- setzliche Krankenversiche- rung (GKV).
+WENN  das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist,
 
-Dieser Block enthält allge- meine Informationen zum  Kostenträger.
-
-Dieses Feld enthält das Insti- tutionskennzeichen (IK) der  zuständigen Krankenkasse  z.B. laut elektronischer Ge- sundheitskarte (eGK).  Siehe hierzu die Übertra- gungsregel nach der "Tech- nische Anlage zur Anlage 4a  BMV-Ä" Kapitel 2.2 "USE- CASES"
-
-Dieses Feld enthält das Insti- tutionskennzeichen (IK) und  wird verwendet, wenn der  Kostenträger nicht die zu- ständige Krankenkasse ist,  bspw. eine Berufsgenossen- schaft (BG) oder eine Unfall- kasse (UK).
-
-WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
-
-WENN  das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist,  DANN  kann das Feld übertragen werden.  ANSONSTEN  darf das Feld nicht übertragen werden.
+DANN  kann das Feld übertragen werden.  ANSONSTEN  darf das Feld nicht übertragen werden.
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-11   x    Name des Kostenträ- gers 12   x    WOP
+11   x
 
-72   x    Unfallinformationen
+12   x
 
-73    x   Unfallkennzeichen
+72   x
 
-74    x   Unfalltag
+73
 
-SEITE 81 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..45 1..1
+74
 
-Kodiert 0..1 0..1
+Name des Kostenträ- gers
 
-Kodiert 1..1 4..10 0..1
+WOP
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+Unfallinformationen
 
-Dieses Feld enthält den Na- men des Kostenträgers. Der  korrekte Name ergibt sich  aus den definierten Be- druckungsregeln laut "Tech- nische Anlage zur Anlage 4a  BMV-Ä" Kapitel "2.3 Be- druckung des Personalien- feldes und des verkürzten  Personalienfeldes".
+x   Unfallkennzeichen
 
-Dieses Feld enthält das  Wohnortkennzeichen ent- sprechend des Wohnort- prinzips (WOP) für Honorar- vereinbarungen (BMV-Ä An- lage 21).
+x   Unfalltag 1..45
 
-Dieser Block enthält Infor- mationen zum Unfall für  den Fall, dass die Verord- nung im Rahmen eines Un- falls ausgestellt wird.
+Kodiert
 
-Dieses Feld enthält die In- formation, in welchem Zu- sammenhang die Verord- nung ausgestellt wurde, z.B.  Unfall.
+Kodiert 4..10
 
-Dieses Feld enthält das Da- tum des Unfallereignisses,  das Ursache für die Verord- nung ist.
+1..1 Dieses Feld enthält den Na-  men des Kostenträgers. Der  korrekte Name ergibt sich  aus den definierten Be- druckungsregeln laut "Tech- nische Anlage zur Anlage 4a  BMV-Ä" Kapitel "2.3 Be- druckung des Personalien- feldes und des verkürzten  Personalienfeldes".
 
-WENN  eine eGK mit VSD-Schema >= 5.2.0 eingelesen  wurde,  DANN  ist dieses Feld verpflichtend zu übertragen.  ANSONSTEN  kann dieses Feld übertragen werden.
+0..1 Dieses Feld enthält das WENN  Wohnortkennzeichen ent- sprechend des Wohnort- prinzips (WOP) für Honorar-  vereinbarungen (BMV-Ä An- lage 21). ANSONSTEN
 
-FELDNAME (GRAU = FELD- GRUPPE) WENN  das Feld "Unfallkennzeichen" gleich "1" oder "2"  ist,  DANN  ist dieses Feld Pflicht.
+0..1 Dieser Block enthält Infor-  mationen zum Unfall für  den Fall, dass die Verord- nung im Rahmen eines Un- falls ausgestellt wird.
+
+1..1 Dieses Feld enthält die In-  formation, in welchem Zu- sammenhang die Verord- nung ausgestellt wurde, z.B.  Unfall.
+
+0..1 Dieses Feld enthält das Da- WENN  tum des Unfallereignisses,  das Ursache für die Verord- nung ist.
+
+eine eGK mit VSD-Schema >= 5.2.0 eingelesen  wurde,  DANN  ist dieses Feld verpflichtend zu übertragen.
+
+kann dieses Feld übertragen werden.
+
+das Feld "Unfallkennzeichen" gleich "1" oder "2"  ist,
+
+FELDNAME (GRAU = FELD- GRUPPE) DANN  ist dieses Feld Pflicht.
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-75    x   Name des Unfallbe- triebs 76  x     Informationen GKV
+75
 
-77   x    Zuzahlungsstatus
+76  x
 
-13  x     Versichertenstatus
+77   x
 
-14   x    Versichertenart
+13  x
 
-SEITE 82 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..45 0..1
+14   x
+
+x   Name des Unfallbe- triebs
+
+Informationen GKV
+
+Zuzahlungsstatus
+
+Versichertenstatus
+
+Versichertenart 1..45
+
+Kodiert
+
+Kodiert 0..1
 
 0..1
 
-Kodiert 1..1 0..1
+1..1
 
-Kodiert 1..1
+0..1
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+1..1
 
 Dieses Feld enthält den Na- men des Arbeitgebers oder  Dienstherrn, in dessen Ein- flussbereich sich der Unfall  (auch Wegeunfall) ereig- nete.
 
@@ -5299,36 +4494,58 @@ WENN in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach d
 
 WENN  das Feld "Unfallkennzeichen" gleich "2" ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht übertragen werden.
 
-WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" o der „PKV“ ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
+WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder „PKV“ ist,
+
+DANN  ist dieser Block Pflicht.
+
+ANSONSTEN  ist dieser Block optional.
 
 FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-15   x    Besondere Personen- gruppe 16   x    DMP-Kennzeichen
+15   x
 
-17   x    Kennzeichen Rechts- grundlage
+16   x
 
-26   x    Versicherungsschutz  Ende 138  x     Informationen PKV
+17   x
 
-139   x    PKV-Tarifart
+26   x
 
-SEITE 83 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+138  x
+
+139   x
+
+Besondere Personen- gruppe
+
+DMP-Kennzeichen
+
+Kennzeichen Rechts- grundlage
+
+Versicherungsschutz  Ende
+
+Informationen PKV
+
+PKV-Tarifart
+
+Kodiert
+
+Kodiert
+
+Kodiert 10
 
 Kodiert 1..1
 
-Kodiert 1..1
+1..1
 
-Kodiert 1..1 10 0..1
+1..1
 
 0..1
 
-Kodiert 1..1
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1
 
 Dieses Feld enthält die be- sondere Personengruppe,  zu der der Versicherte ge- hört (§ 264 SGB V).
 
@@ -5340,41 +4557,57 @@ Dieses Feld enthält das Da- tum des Endes des Versiche- rungsschutzes, wenn die
 
 Dieser Block enthält Infor- mationen zur privaten Kran- kenversicherung.
 
-Dieses Feld enthält die PKV- Tarifart des Versicherten.
+1..1 Dieses Feld enthält die PKV- Tarifart des Versicherten.
 
 WENN  das Feld "Kostenträgertyp" gleich "PKV" ist DANN  ist dieser Block optional.  ANSONSTEN  darf dieser Block nicht angegeben
-
-,
 
 FELDNAME (GRAU = FELD- GRUPPE) werden.
 
 
 ---
 
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**  18 x      Versicherter
+### ID
 
-19  x     Identifikator des Versi- cherten 19a   x    -VersichertenID
+**1 2 3**
 
-19c   x    KVK-Versichertennum- mer
+18 x
 
-140  x     Name des Versicherten
+19  x
 
-SEITE 84 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+19a   x
 
-| LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+19c   x
+
+140  x
+
+**4 5 6**
+
+### FELDNAME  (GRAU = FELD- GRUPPE)
+
+Versicherter
+
+Identifikator des Versi- cherten -VersichertenID
+
+KVK-Versichertennum- mer
+
+Name des Versicherten
+
+| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|
 
+10
+
+6..12
+
+0..1
+
 0..1
 
 0..1
 
-10 0..1
-
-6..12 0..1
+0..1
 
 1..1
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 Dieser Block enthält Daten  zum Versicherten.
 
@@ -5386,81 +4619,107 @@ Dieses Feld enthält die Ver- sichertennummer der Kran- kenversichertenkarte.
 
 Dieser Block enthält die Be- standteile des Namens des  Versicherten.
 
-WENN  der Versicherte sich elektronisch ausgewiesen hat  und das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“,  DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
+WENN  der Versicherte sich elektronisch ausgewiesen hat  und das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
 
-WENN  der Block „Identifikator des Versicherten“ vorhan- den ist und das Feld "Kostenträgertyp" gleich  "GKV" oder “PKV“ oder „SKT“ ist und das Feld  „KVK -Versichertennummer nicht angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
+WENN  der Block „Identifikator des Versicherten“ vorhan- den ist und das Feld "Kostenträgertyp" gleich  "GKV" oder “PKV“ oder „SKT“ ist und das Feld  „KVK-Versichertennummer nicht angegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 WENN  der Block „Identifikator des Versicherten“ vorhan- den ist und das Feld "Kostenträgertyp" gleich  "SKT" ist und das Feld „VersichertenID“ nicht an- gegeben ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-20   x    Vorname des Versicher- ten
+20   x
 
-21   x    Nachname des Versi- cherten
+21   x
 
-22   x    Titel des Versicherten
+22   x
 
-23   x    Namenszusatz des Ver- sicherten
+23   x
 
-24   x    Vorsatzwort des Versi- cherten
+24   x
 
-25  x     Geburtsdatum des Ver- sicherten
+25  x
 
-SEITE 85 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..45 1..1
+Vorname des Versicher- ten
 
-1..45 1..1
+Nachname des Versi- cherten
 
-1..20 0..1
+Titel des Versicherten
 
-1..20 0..1
+Namenszusatz des Ver- sicherten
 
-1..20 0..1
+Vorsatzwort des Versi- cherten
 
-4..10 1..1  oder  NULL
+Geburtsdatum des Ver- sicherten 1..45
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+1..45
 
-Dieses Feld enthält den Vor- namen des Versicherten;  mehrere Vornamen sind  durch Blank oder Binde- strich getrennt.
+1..20
 
-Dieses Feld enthält den  Nachnamen des Versicher- ten.
+1..20
 
-Dieses Feld enthält den aka- demischen Grad des Versi- cherten, z.B. „Dr. med.“,  „Dr. rer. nat.“.
+1..20
 
-Dieses Feld enthält den Na- menszusatz als Bestandteil  des Nachnamens des Versi- cherten, z.B. „Freiherr“,  „Gräfin“; mehrere Namens- zusätze sind durch Blank ge- trennt.
+4..10  oder  NULL
 
-Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens des Versicher- ten, z.B. „von“, „von der“,  „zu“; mehrere Vorsatzwör- ter sind durch Blank ge- trennt.
+1..1 Dieses Feld enthält den Vor- namen des Versicherten;  mehrere Vornamen sind  durch Blank oder Binde- strich getrennt.
 
-Dieses Feld gibt das Ge- burtsdatum des Versicher- ten an.
+1..1 Dieses Feld enthält den  Nachnamen des Versicher- ten.
+
+0..1 Dieses Feld enthält den aka- demischen Grad des Versi- cherten, z.B. „Dr. med.“,  „Dr. rer. nat.“.
+
+0..1 Dieses Feld enthält den Na- menszusatz als Bestandteil  des Nachnamens des Versi- cherten, z.B. „Freiherr“,  „Gräfin“; mehrere Namens- zusätze sind durch Blank ge- trennt.
+
+0..1 Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens des Versicher- ten, z.B. „von“, „von der“,  „zu“; mehrere Vorsatzwör- ter sind durch Blank ge- trennt.
+
+1..1 Dieses Feld gibt das Ge- burtsdatum des Versicher- ten an.
 
 FELDNAME (GRAU = FELD- GRUPPE) WENN  in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.
 
 
 ---
 
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**  27  x     Straßenadresse des Ver- sicherten
+### ID
 
-28   x    Wohnsitzländercode  der Versichertenan- schrift
+**1 2 3**
 
-29   x    Postleitzahl der Versi- chertenanschrift
+27  x
 
-30   x    Ortsname der Versi- chertenanschrift
+28   x
 
-SEITE 86 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+29   x
 
-| LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+30   x
+
+**4 5 6**
+
+### FELDNAME  (GRAU = FELD- GRUPPE)
+
+Straßenadresse des Ver- sicherten
+
+Wohnsitzländercode  der Versichertenan- schrift
+
+Postleitzahl der Versi- chertenanschrift
+
+Ortsname der Versi- chertenanschrift
+
+| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|
+
+Kodiert  1..3 1..10
+
+1..40
 
 0..1
 
-Kodiert 0..1  1..3 1..10 0..1
+0..1
 
-1..40 0..1
+0..1
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1
 
 Dieser Block enthält Infor- mationen zur Straßenad- resse des Versicherten.
 
@@ -5470,39 +4729,67 @@ In Dieses Feld enthält die  Postleitzahl.
 
 In Dieses Feld enthält den  Ortsnamen. Mehrere Na- mensbestandteile sind
 
-WENN  der Block "Postfachanschrift des Versicherten"  nicht angegeben ist,  DANN  muss Block angegeben werden.  ANSONSTEN  darf dieser Block nicht angegeben werden.
+WENN  der Block "Postfachanschrift des Versicherten"  nicht angegeben ist,
 
-WENN  der Versicherte sich nicht elektronisch ausgewie- sen hat und das Feld "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT" oder "UK" oder  „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat  und das Feld „Wohnsitzländercode der Versicher- tenanschrift“ gleich „D“ und das Feld "Kostenträ- gertyp" gleich "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+DANN  muss Block angegeben werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben werden.
+
+WENN  der Versicherte sich nicht elektronisch ausgewie- sen hat und das Feld "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT" oder "UK" oder  „PKV“ ist
+
+DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat  und das Feld „Wohnsitzländercode der Versicher- tenanschrift“ gleich „D“ und das Feld "Kostenträ- gertyp" gleich "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist
+
+DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  ist dieses Feld optional.
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-31   x    Straßenname der Versi- chertenanschrift
+31   x
 
-32   x    Hausnummer der Versi- chertenanschrift
+32   x
 
-33   x    Anschriftenzusatz der  Versichertenanschrift
+33   x
 
-34  x     Postfachanschrift des  Versicherten
+34  x
 
-35   x    Wohnsitzländercode  der Versicherten-Post- fachanschrift
+35   x
 
-36   x    Postleitzahl der Versi- cherten-Postfachan- schrift
+36   x
 
-SEITE 87 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..46 0..1
+Straßenname der Versi- chertenanschrift
 
-1..9 0..1
+Hausnummer der Versi- chertenanschrift
 
-1..40 0..1
+Anschriftenzusatz der  Versichertenanschrift
+
+Postfachanschrift des  Versicherten
+
+Wohnsitzländercode  der Versicherten-Post- fachanschrift
+
+Postleitzahl der Versi- cherten-Postfachan- schrift 1..46
+
+1..9
+
+1..40
+
+Kodiert  1..3 1..10
 
 0..1
 
-Kodiert 0..1  1..3 1..10 0..1
+0..1
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1
+
+0..1
+
+0..1
+
+0..1
 
 durch Blank/Sonderzeichen  getrennt.
 
@@ -5518,29 +4805,49 @@ Dieses Feld enthält den  Wohnsitzländercode (ent- sprechend Gemeinsames  Runds
 
 Dieses Feld enthält die Post- leitzahl.
 
-WENN  der Block "Straßenadresse des Versicherten"  nicht angegeben ist,  DANN  muss dieser Block angegeben werden.  ANSONSTEN  darf dieser Block nicht angegeben werden.
+WENN  der Block "Straßenadresse des Versicherten"  nicht angegeben ist,
 
-FELDNAME (GRAU = FELD- GRUPPE) WENN  der Versicherte sich nicht elektronisch ausgewie- sen hat und das Feld "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT" oder "UK" oder  „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat
+DANN  muss dieser Block angegeben werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben werden.
+
+WENN  der Versicherte sich nicht elektronisch ausgewie- sen hat und das Feld "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT" oder "UK" oder  „PKV“ ist
+
+FELDNAME (GRAU = FELD- GRUPPE) DANN  ist dieses Feld Pflicht.  ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-37   x    Ortsname der Versi- cherten-Postfachan- schrift
+37   x
 
-38   x    Postfach der Versicher- ten-Postfachanschrift 39 x      Stempelinformationen
+38   x
 
-40  x     Ausstellende/ verschrei- bende Person
+39 x
 
-146   x    Qualifikation der aus- stellenden/ verschrei- benden Person
+40  x
 
-41    x   Typ der ausstellenden/  verschreibenden Person
+146   x
 
-SEITE 88 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..40 0..1
+41
 
-1..8 0..1
+Ortsname der Versi- cherten-Postfachan- schrift
+
+Postfach der Versicher- ten-Postfachanschrift
+
+Stempelinformationen 1..40
+
+1..8
+
+Ausstellende/ verschrei-  bende Person
+
+Qualifikation der aus-  stellenden/ verschrei- benden Person
+
+x   Typ der ausstellenden/ Kodiert verschreibenden Person 0..1
+
+0..1
 
 1..1
 
@@ -5548,9 +4855,7 @@ SEITE 88 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..40 0..1
 
 1..1
 
-Kodiert 1..1
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+1..1
 
 Dieses Feld enthält den  Ortsnamen. Mehrere Na- mensbestandteile sind  durch Blank/Sonderzeichen  getrennt.
 
@@ -5564,93 +4869,97 @@ Dieser Block enthält Infor- mationen über die Qualifi- kation der ausstellende
 
 Dieses Feld enthält einen  Typ zur Kennzeichnung der  verschreibenden Person,  z.B. Arzt, Arzt in Weiterbil- dung.
 
-und das Feld „Wohnsitzländercode der Versicher- ten- Postfachanschrift“ gleich „D“ und das Feld  "Kostenträgertyp" gleich "GKV" oder "BG" oder  "SKT" oder "UK" oder „PKV“ ist,  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+und das Feld „Wohnsitzländercode der Versicher- ten-Postfachanschrift“ gleich „D“ und das Feld  "Kostenträgertyp" gleich "GKV" oder "BG" oder  "SKT" oder "UK" oder „PKV“ ist
+
+DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-49    x   Berufsbezeichnung der  ausstellenden/ ver- schreibenden Person
+49
 
-147    x   ASV-Fachgruppennum- mer der ausstellenden/  verschreibenden Person
+147
 
-42   x    Identifikator der aus- stellenden/ verschrei- benden Person
+42   x
 
-SEITE 89 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..100 1..1
+x   Berufsbezeichnung der  ausstellenden/ ver- schreibenden Person
 
-9 0..1
+x   ASV-Fachgruppennum- mer der ausstellenden/  verschreibenden Person
 
-0..1
+Identifikator der aus- stellenden/ verschrei- benden Person 1..100
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+9
 
-Dieses Feld enthält eine  Freitextangabe zur Berufs- bezeichnung, z. B. Facharzt  für Allgemeinmedizin, Prak- tischer Arzt.
+1..1 Dieses Feld enthält eine  Freitextangabe zur Berufs- bezeichnung, z. B. Facharzt  für Allgemeinmedizin, Prak- tischer Arzt.
 
-Dieses Feld enthält die ASV- Fachgruppennummer ge- mäß der ASV-Vereinbarung  (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle  der Arztnummer anzuge- ben.
+0..1 Dieses Feld enthält die ASV- Fachgruppennummer ge- mäß der ASV-Vereinbarung  (ASV-AV) §9 Absatz 5. Diese  ist gemäß der ASV-AV von  Krankenhausärzten an Stelle  der Arztnummer anzuge- ben.
 
-Dieser Block enthält den  Identifikator der Person, z.B.  eine Arztnummer (Lebens- lange Arztnummer LANR)  oder Zahnarztnummer  (ZANR) und kann zusätzlich  eine Telematik-ID enthalten.
+0..1 Dieser Block enthält den  Identifikator der Person, z.B.  eine Arztnummer (Lebens- lange Arztnummer LANR)  oder Zahnarztnummer  (ZANR) und kann zusätzlich  eine Telematik-ID enthalten.
 
 WENN  das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „00“ oder „04“ ist und das  Feld „Kennzeichen Rechtsgrundlage“ gleich „01“  oder „11“ ist und der Block „Identifikator der aus- stellenden/ verschreibenden Person“ nicht vor- handen ist,  DANN  ist dieses Feld optional.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
-FELDNAME (GRAU = FELD- GRUPPE) WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist  und das Feld „Typ der ausstellenden / verschrei- benden Person“ gleich „00“ oder „01“ oder „04“  ist und das Feld „ASV -Fachgruppennummer der  ausstellenden/ verschreib enden Person“ nicht  vorhanden ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist  und das Feld „Typ der ausstellenden / verschrei- benden Person“ gleich „03“ ist und der Block  „Verantwortliche Person“ nicht vorhanden ist,  DANN  ist dieser Block Pflicht.
+FELDNAME (GRAU = FELD- GRUPPE) WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist   und das Feld „Typ der ausstellenden / verschrei- benden Person“ gleich „00“ oder „01“ oder „04“  ist und das Feld „ASV-Fachgruppennummer der  ausstellenden/ verschreibenden Person“ nicht  vorhanden ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist   und das Feld „Typ der ausstellenden / verschrei- benden Person“ gleich „03“ ist und der Block  „Verantwortliche Person“ nicht vorhanden ist,  DANN  ist dieser Block Pflicht.
 
 
 ---
 
-| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME (GRAU = FELD- GRUPPE) | LÄNGE | WIEDERH. | BESCHREIBUNG |
+| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME(GRAU = FELD-GRUPPE)** | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** |
 |---|---|---|---|---|---|---|---|---|---|
 
-| x |  |  | Arztnummer der aus- stellenden/ verschrei- benden Person | 9 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). |
+| x |  |  | Arztnummer der aus-stellenden/ verschrei-benden Person | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eineArztnummer (LebenslangeArztnummer LANR). |
 |---|---|---|---|---|---|---|
-| x |  |  | Zahnarztnummer der der ausstellenden/ ver- schreibenden Person | 9 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person, eine Zahnarztnummer (ZANR). |
-| x |  |  | Telematik-ID der aus- stellenden/ verschrei- benden Person | 1..128 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person eine Te- lematik-ID. |
+| x |  |  | Zahnarztnummer derder ausstellenden/ ver-schreibenden Person | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person, eineZahnarztnummer (ZANR). |
+| x |  |  | Telematik-ID der aus-stellenden/ verschrei-benden Person | 1..128 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eine Te-lematik-ID. |
 
-SEITE 90 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-ID BEDINGUNGEN 42a 42b 42c WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Per- son“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. ANSONSTEN  darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden. ANSONSTEN WENN  das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV - Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist,  DANN  darf dieser Block nicht angegeben werden.  ANSONSTEN  ist dieser Block optional.
+ID BEDINGUNGEN 42a 42b 42c WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Per- son“ gleich „00“ oder „03“ oder „04“  ist, DANN ist dieses Feld Pflicht. ANSONSTEN  darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden. ANSONSTEN WENN  das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist,  DANN  darf dieser Block nicht angegeben werden.  ANSONSTEN  ist dieser Block optional.
 
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-43   x    ASV-Teamnummer
+43   x
 
-141   x    Name der ausstellen- den/ verschreibenden  Person
+141   x
 
-44    x   Vorname der ausstel- lenden/ verschreiben- den Person
+44
 
-45    x   Nachname der ausstel- lenden/ verschreiben- den Person
+45
 
-46    x   Titel der ausstellenden/  verschreibenden Person
+46
 
-SEITE 91 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 9 0..1
+ASV-Teamnummer
 
-1..1
+Name der ausstellen- den/ verschreibenden
 
-1..45 1..1
+Person
 
-1..45 1..1
+x   Vorname der ausstel- lenden/ verschreiben- den Person
 
-1..100 0..1
+x   Nachname der ausstel- lenden/ verschreiben- den Person
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+x   Titel der ausstellenden/  verschreibenden Person 9
 
-Dieses Feld wird im Rahmen  einer ambulanten spezial- fachärztlichen Versorgung  (ASV) genutzt. Jedes ASV- Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr kenn- zeichnen ASV-Ärzte die Leis- tungen oder Verordnungen,  die sie in der ASV durchfüh- ren. Die Teamnummer um- fasst neun Ziffern und ist  wie eine Betriebsstätten- nummer (BSNR) aufgebaut.  Sie wird vergeben, sobald  die Ärzte eine ASV-Berechti- gung haben – zusätzlich zur  BSNR und zur lebenslangen  Arztnummer.
+1..45
 
-Dieser Block enthält den Na- men der Person.
+1..45
 
-Dieses Feld enthält den Vor- namen der Person; mehrere  Vornamen sind durch Blank  oder Bindestrich getrennt.
+1..100
 
-Dieses Feld enthält den Fa- miliennamen der Person.
+0..1 Dieses Feld wird im Rahmen  einer ambulanten spezial- fachärztlichen Versorgung  (ASV) genutzt. Jedes ASV- Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr kenn- zeichnen ASV-Ärzte die Leis- tungen oder Verordnungen,  die sie in der ASV durchfüh- ren. Die Teamnummer um- fasst neun Ziffern und ist  wie eine Betriebsstätten- nummer (BSNR) aufgebaut.  Sie wird vergeben, sobald  die Ärzte eine ASV-Berechti- gung haben  zusätzlich zur  BSNR und zur lebenslangen  Arztnummer.
 
-Dieses Feld enthält den aka- demischen Grad der Person,
+1..1 Dieser Block enthält den Na- men der Person.
+
+1..1 Dieses Feld enthält den Vor- namen der Person; mehrere  Vornamen sind durch Blank  oder Bindestrich getrennt.
+
+1..1 Dieses Feld enthält den Fa- miliennamen der Person.
+
+0..1 Dieses Feld enthält den aka- demischen Grad der Person,
 
 WENN  das Feld „Kennzeichen Rechtsgrundlage“ den  Wert "01" oder "11" besitzt,  DANN  muss dieses Feld übertragen werden.  ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
@@ -5658,65 +4967,85 @@ FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-47    x   Namenszusatz der aus- stellenden/ verschrei- benden Person
+47
 
-48    x   Vorsatzwort der aus- stellenden/ verschrei- benden Person
+48
 
-50  x     Verantwortliche Person
+50  x
 
-SEITE 92 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 1..20 0..1
+x   Namenszusatz der aus- stellenden/ verschrei- benden Person
 
-1..20 0..1
+x   Vorsatzwort der aus- stellenden/ verschrei- benden Person
 
-0..1
+Verantwortliche Person 1..20
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+1..20
 
 z.B. „Dr. med.“, „Dr. rer.  nat.“.
 
-Dieses Feld enthält den Na- menszusatz als Bestandteil  des Nachnamens der Per- son, z.B. „Freiherr“, „Grä- fin“; mehrere Namenszu- sätze sind durch Blank ge- trennt.
+0..1 Dieses Feld enthält den Na- menszusatz als Bestandteil  des Nachnamens der Per- son, z.B. „Freiherr“, „Grä- fin“; mehrere Namenszu- sätze sind durch Blank ge- trennt.
 
-Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens der Person,  z.B. „von“, „von der“, „zu“;  mehrere Vorsatzwörter sind  durch Blank getrennt.
+0..1 Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens der Person,  z.B. „von“, „von der“, „zu“;  mehrere Vorsatzwörter sind  durch Blank getrennt.
 
-Dieser Block enthält die Da- ten der verantwortlichen  Person, z.B. des zur Weiter- bildung ermächtigten Arztes  (im vertrags(zahn)ärztlichen  Bereich und im Kranken- haus).
+0..1 Dieser Block enthält die Da- ten der verantwortlichen  Person, z.B. des zur Weiter- bildung ermächtigten Arztes  (im vertrags(zahn)ärztlichen  Bereich und im Kranken- haus).
 
 Der Block dient dazu, die  entsprechende Konstella- tion des Arztstempels abzu- bilden und eine Zuordnung  zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu  ermöglichen.
 
-FELDNAME (GRAU = FELD- GRUPPE) WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" gleich „03“ ist und das Feld "Identifikator  der ausstellenden/ verschreibenden Person“  nicht vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „00“ oder „01“ oder  „04“ ist,  DANN  muss dieser Block vorhanden sein.  ANSONSTEN WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" gleich „03“ ist und das Feld "Identifikator  der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist  oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und das Feld „Typ
+FELDNAME (GRAU = FELD- GRUPPE) WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" gleich „03“ ist und das Feld "Identifikator  der ausstellenden/ verschreibenden Person“  nicht vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „00“ oder „01“oder  „04“ ist,  DANN  muss dieser Block vorhanden sein.  ANSONSTEN WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" gleich „03“ ist und das Feld "Identifikator  der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist  oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und das Feld „Typ
 
 
 ---
 
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**
+### ID
 
-148   x    Qualifikation der ver- antwortlichen Person
+**1 2 3**
 
-51    x   Typ der verantwortli- chen Person
+148   x
 
-58    x   Berufsbezeichnung der  verantwortlichen Per- son
+51
 
-149    x   ASV-Fachgruppennum- mer der verantwortli- chen Person
+58
 
-52   x    Identifikator der verant- wortlichen Person
+149
 
-SEITE 93 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+52   x
 
-**LÄNGE WIEDERH.**
+**4 5 6**
+
+### FELDNAME  (GRAU = FELD- GRUPPE)
+
+Qualifikation der ver- antwortlichen Person
+
+x   Typ der verantwortli- chen Person
+
+x   Berufsbezeichnung der  verantwortlichen Per- son
+
+x   ASV-Fachgruppennum- mer der verantwortli- chen Person
+
+Identifikator der verant- wortlichen Person
+
+### LÄNGE
+
+Kodiert 1..100
+
+9
+
+### WIEDERH.
 
 1..1
 
-Kodiert 1..1 1..100 1..1
+1..1
 
-9 0..1
+1..1
 
 0..1
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1
 
-**BESCHREIBUNG**
+### BESCHREIBUNG
 
 Dieser Block enthält Infor- mationen über die Qualifi- kation der verantwortlichen  Person.
 
@@ -5728,9 +5057,9 @@ Dieses Feld enthält die ASV- Fachgruppennummer ge- mäß der ASV-Vereinbarung  
 
 Dieser Block enthält den  Identifikator der Person, z.B.  eine Arztnummer oder
 
-**BEDINGUNGEN**
+### BEDINGUNGEN
 
-der verantwortlichen Person“ gleich „00“ oder  „01“ oder „04“ ist,  DANN  kann dieser Block vorhanden sein.  ANSONSTEN  darf dieser Block nicht vorhanden sein.
+der verantwortlichen Person“ gleich „00“ oder  „01“ oder „04“ ist,   DANN  kann dieser Block vorhanden sein.  ANSONSTEN  darf dieser Block nicht vorhanden sein.
 
 Das Feld „Typ der verantwortlichen Person“ darf  nicht gleich „02“ oder „03“ sein.
 
@@ -5741,84 +5070,119 @@ WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" o
 
 ---
 
-| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME (GRAU = FELD- GRUPPE) | LÄNGE | WIEDERH. | BESCHREIBUNG |
+| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME(GRAU = FELD-GRUPPE)** | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  | Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. |
-|  |  |  | x |  |  | Arztnummer der verant- wortlichen Person | 9 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). |
-|  |  |  | x |  |  | Zahnarztnummer der verantwortlichen Per- son | 9 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person eine Zahnarztnummer (ZANR). |
-|  |  |  | x |  |  | Telematik-ID der ver- antwortlichen Person | 1..128 | 0..1 | Dieses Feld enthält als Iden- tifikator der Person eine Te- lematik-ID. |
+|  |  |  |  |  |  |  |  |  | Zahnarztnummer und kannzusätzlich eine Telematik-IDenthalten. |
+|  |  |  | x |  |  | Arztnummer der verant-wortlichen Person | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eineArztnummer (LebenslangeArztnummer LANR). |
+|  |  |  | x |  |  | Zahnarztnummer derverantwortlichen Per-son | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eineZahnarztnummer (ZANR). |
+|  |  |  | x |  |  | Telematik-ID der ver-antwortlichen Person | 1..128 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eine Te-lematik-ID. |
 
-SEITE 94 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+52a 52b 52c BEDINGUNGEN Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der verantwortlichen Per- son“ nicht vorhanden ist, DANN ist dieser Block Pflicht. ANSONSTEN WENN das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ANSONSTEN ist dieser Block optional. WENN der Block „Identifikator der verantwortlichen Per- son“ vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN Block „Identifikator der verantwortlichen Per- son“ vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden.
 
-52a 52b 52c BEDINGUNGEN Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV - Fachgruppennummer der verantwortlichen Per- son“ nicht vorhanden ist, DANN ist dieser Block Pflicht. ANSONSTEN WENN das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ANSONSTEN ist dieser Block optional. WENN der Block „Identifikator der verantwortlichen Per- son“ vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der verantwortlichen Per- son“ vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden. / 9. FEBRUAR 2026 / VERSION: 2.31
+---
+
+### ID
+
+**1 2 3**
+
+142   x
+
+53
+
+54
+
+55
+
+56
+
+57
+
+59  x
+
+**4 5 6**
+
+### FELDNAME  (GRAU = FELD- GRUPPE)
+
+Name der verantwortli- chen Person
+
+x   Vorname der verant- wortlichen Person
+
+x   Nachname der verant- wortlichen Person
+
+x   Titel der verantwortli- chen Person
+
+x   Namenszusatz der ver- antwortlichen Person
+
+x   Vorsatzwort der verant- wortlichen Person
+
+Einrichtung
+
+| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
+|---|---|---|---|
+
+1..45
+
+1..45
+
+1..100
+
+1..20
+
+1..20
+
+1..1 Dieser Block enthält den Na-  men der Person.
+
+1..1 Dieses Feld enthält den Vor-  namen der Person;  mehrere Vornamen sind  durch Blank oder Binde- strich getrennt.
+
+1..1 Dieses Feld enthält den Fa-  miliennamen der Person.
+
+0..1 Dieses Feld enthält den aka-  demischen Grad der Person,  z.B. „Dr. med.“, „Dr. rer.  nat.“.
+
+0..1 Dieses Feld enthält den Na-  menszusatz als Bestandteil  des Nachnamens der Per- son, z.B. „Freiherr“, „Grä- fin“; mehrere Namenszu- sätze sind durch Blank ge- trennt.
+
+0..1 Dieses Feld enthält das Vor-  satzwort als Bestandteil des  Nachnamens der Person,  z.B. „von“, „von der“, „zu“;  mehrere Vorsatzwörter sind  durch Blank getrennt.
+
+1..1 Dieser Block enthält Daten   der Einrichtung / Institution,  z.B. eine Betriebsstätte /  Praxis.
 
 
 ---
 
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**  142   x    Name der verantwortli- chen Person
+### ID
 
-53    x   Vorname der verant- wortlichen Person
+**1 2 3**
 
-54    x   Nachname der verant- wortlichen Person
+61   x
 
-55    x   Titel der verantwortli- chen Person
+61a
 
-56    x   Namenszusatz der ver- antwortlichen Person
+61b
 
-57    x   Vorsatzwort der verant- wortlichen Person 59  x     Einrichtung
+61c
 
-SEITE 95 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+**4 5 6**
 
-| LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+**FELDNAME**
+
+| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|
 
-1..1 Dieser Block enthält den Na- men der Person.
+### (GRAU = FELD- GRUPPE)
 
-1..45 1..1 Dieses Feld enthält den Vor- namen der Person;  mehrere Vornamen sind  durch Blank oder Binde- strich getrennt.
+Identifikator der Ein-  richtung
 
-1..45 1..1 Dieses Feld enthält den Fa- miliennamen der Person.
+x   BSNR 9
 
-1..100 0..1 Dieses Feld enthält den aka- demischen Grad der Person,  z.B. „Dr. med.“, „Dr. rer.  nat.“.
+x   IK-Nummer 9
 
-1..20 0..1 Dieses Feld enthält den Na- menszusatz als Bestandteil  des Nachnamens der Per- son, z.B. „Freiherr“, „Grä- fin“; mehrere Namenszu- sätze sind durch Blank ge- trennt.
+x   KZV-Abrechnungsnum- 9  mer
 
-1..20 0..1 Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens der Person,  z.B. „von“, „von der“, „zu“;  mehrere Vorsatzwörter sind  durch Blank getrennt.
+0..1 Dieser Block enthält einen  Identifikator einer Einrich- tung in Form einer Betriebs- stättennummer (BSNR), IK- Nummer, KZV-Abrechnungs- nummer oder Standortnum- mer und kann zusätzlich  eine Telematik-ID enthalten.
 
-1..1 Dieser Block enthält Daten  der Einrichtung / Institution,  z.B. eine Betriebsstätte /  Praxis.
+0..1 Dieses Feld enthält eine Be- triebsstättennummer  (BSNR) zur Identifikation ei- ner Einrichtung. Im vertrags- ärztlichen Bereich ist das  Feld eine Voraussetzung für  die Abrechnung zwischen  Leistungserbringern und  Kostenträgern.
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1 Dieses Feld enthält ein Insti- tutionskennzeichen (IK),  welches von der ARGE·IK  vergeben wird und ein ein- deutiges Merkmal zur Ab- rechnung mit den Trägern  der Sozialversicherung ist.
 
-
----
-
-**ID 1 2 3 4 5 6 FELDNAME**  **(GRAU = FELD-** **GRUPPE)**  61   x    Identifikator der Ein- richtung 61a    x   BSNR
-
-61b    x   IK-Nummer
-
-61c    x   KZV-Abrechnungsnum- mer
-
-SEITE 96 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-| LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
-|---|---|---|---|
-
-0..1
-
-9 0..1
-
-9 0..1
-
-9 0..1
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
-Dieser Block enthält einen  Identifikator einer Einrich- tung in Form einer Betriebs- stättennummer (BSNR), IK- Nummer, KZV-Abrechnungs- nummer oder Standortnum- mer und kann zusätzlich  eine Telematik-ID enthalten.
-
-Dieses Feld enthält eine Be- triebsstättennummer  (BSNR) zur Identifikation ei- ner Einrichtung. Im vertrags- ärztlichen Bereich ist das  Feld eine Voraussetzung für  die Abrechnung zwischen  Leistungserbringern und  Kostenträgern.
-
-Dieses Feld enthält ein Insti- tutionskennzeichen (IK),  welches von der ARGE·IK  vergeben wird und ein ein- deutiges Merkmal zur Ab- rechnung mit den Trägern  der Sozialversicherung ist.
-
-Dieses Feld enthält eine Ab- rechnungsnummer der Kas- senzahnärztlichen Vereini-
+0..1 Dieses Feld enthält eine Ab- rechnungsnummer der Kas- senzahnärztlichen Vereini-
 
 WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist und das  Feld "Typ der ausstellenden/ verschreibenden  Person" gleich "00" oder "01" oder "03" oder  "04" ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
 
@@ -5831,30 +5195,50 @@ WENN  der Block „Identifikator der Einrichtung“ vorhan- den ist und das Feld
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-61d    x   Standortnummer
+61d
 
-61e    x   Telematik-ID der Ein- richtung 62   x    Name der Einrichtung
+61e
 
-143   x    Straßenadresse der Ein- richtung
+62   x
 
-63    x   Wohnsitzländercode  der Einrichtung
+143   x
 
-64    x   Postleitzahl der Einrich- tung
+63
 
-SEITE 97 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE 9 0..1
+64
 
-1..128 0..1
+x   Standortnummer
 
-1..60 0..1
+x   Telematik-ID der Ein- richtung
+
+Name der Einrichtung
+
+Straßenadresse der Ein- richtung
+
+x   Wohnsitzländercode  der Einrichtung
+
+x   Postleitzahl der Einrich- tung 9
+
+1..128
+
+1..60
+
+Kodiert 1..10
+
+0..1
+
+0..1
+
+0..1
 
 1..1
 
-Kodiert 0..1 1..10 0..1
+0..1
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+0..1
 
 gung (KZV). Abrechnungs- nummern des Zahnarz- tes/der Zahnärztin mit weni- ger als 9 Stellen sind mit vo- rangestellten Nullen ent- sprechend zu füllen.
 
@@ -5878,62 +5262,105 @@ FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| ID | 1 | 2 | 3 | 4 | 5 | 6 |  |  | LÄNGE | WIEDERH. | BESCHREIBUNG | BEDINGUNGEN |
+| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-65    x   Ortsname der Einrich- tung
+65
 
-66    x   Straßenname der Ein- richtung
+66
 
-67    x   Hausnummer der Ein- richtung
+67
 
-68    x   Anschriftenzusatz der  Einrichtung
+68
 
-144   x    Kontaktdaten der Ein- richtung
+144   x
 
-69    x   Telefonnummer der  Einrichtung
+69
 
-70    x   Faxnummer der Einrich- tung
+70
 
-71    x   E-Mail der Einrichtung
+71
 
-SEITE 98 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+x   Ortsname der Einrich- tung
 
-1..40 1..1 Dieses Feld enthält den  Ortsnamen. Mehrere Na- mensbestandteile sind  durch Blank/Sonderzeichen  getrennt.
+x   Straßenname der Ein- richtung
 
-1..46 1..1 Dieses Feld enthält den  Straßennamen.
+x   Hausnummer der Ein- richtung
 
-1..9 1..1 Dieses Feld enthält die  Hausnummer.
+x   Anschriftenzusatz der  Einrichtung
 
-1..40 0..1 In Dieses Feld enthält den  Anschriftenzusatz, z.B. Hin- terhaus.
+Kontaktdaten der Ein- richtung
 
-1..1 Dieser Block enthält die  Kontaktdaten der Einrich- tung.
+x   Telefonnummer der  Einrichtung
 
-1..30 1..1 Dieses Feld enthält die Tele- fonnummer.
+x   Faxnummer der Einrich-
 
-1..30 0..1 Dieses Feld enthält die Fax- nummer.
+tung
 
-1..256 0..1 Dieses Feld enthält die E- Mail - Adresse der Einrich- tung.  Bei grenzüberschreitender  Einlösung einer Arzneimit- telverordnung ist diese  zwingend anzugeben.
+x   E-Mail der Einrichtung 1..40
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
+1..46
 
-FELDNAME (GRAU = FELD- GRUPPE)
+1..9
+
+1..40
+
+1..30
+
+1..30
+
+1..256
+
+1..1
+
+1..1
+
+1..1
+
+0..1
+
+1..1
+
+1..1
+
+0..1
+
+0..1
+
+Dieses Feld enthält den   Ortsnamen. Mehrere Na- mensbestandteile sind  durch Blank/Sonderzeichen  getrennt.
+
+Dieses Feld enthält den   Straßennamen.
+
+Dieses Feld enthält die   Hausnummer.
+
+In Dieses Feld enthält den   Anschriftenzusatz, z.B. Hin- terhaus.
+
+Dieser Block enthält die   Kontaktdaten der Einrich- tung.
+
+Dieses Feld enthält die Tele-  fonnummer.
+
+Dieses Feld enthält die Fax-  nummer.
+
+FELDNAME (GRAU = FELD- GRUPPE) Dieses Feld enthält die E-  Mail - Adresse der Einrich- tung.  Bei grenzüberschreitender  Einlösung einer Arzneimit- telverordnung ist diese  zwingend anzugeben.
+
 
 ---
 
 7
 
+## HINWEISE ZUR ZERTIFIZIERUNG
+
 Nach Anlage 2b des BMV-Ä ist die Nutzung digitaler Muster nur mit einem zertifizierten PVS möglich (siehe:  [Anlage 2b]). Die nachfolgende Tabelle gibt Auskunft darüber, welches digitale Muster in welchem Verfah- ren zertifiziert wird:
 
 Musterbezeichnung
 
-Muster 6: Überweisungsschein (in der Arzt Arzt-Kommunikation ohne Arzt-Patienten-Kon- takt)
+Muster 6: Überweisungsschein (in der Arzt-zu- Arzt-Kommunikation ohne Arzt-Patienten-Kon- takt)
 
 Muster 10: Überweisungsschein für Laboratorium- suntersuchungen als Auftragsleistung
 
 Muster 10A: Anforderungsschein für Laboratori- umsuntersuchungen bei Laborgemeinschaften
 
-Muster 39: Krebsfrüherkennung Zervix
+Muster 39: Krebsfrüherkennung Zervix-Karzinom
 
 Arbeitsunfähigkeitsbescheinigung (e01)
 
@@ -5942,12 +5369,6 @@ Arzneimittelverordnung (Vordruck e16A)
 Verordnung digitaler Gesundheitsanwendungen  (Vordruck e16D)
 
 **Tabelle 53: Übersicht der Zertifizierungsverfahren für digitale Muster**
-
-SEITE 99 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-## HINWEISE ZUR ZERTIFIZIERUNG -zu-
-
--Karzinom
 
 Zertifizierungsverfahren
 
@@ -5965,12 +5386,12 @@ Softwarezertifizierung der Komponente Verordnung  von Arzneimittel
 
 Softwarezertifizierung der Komponente Verordnung  digitaler Gesundheitsanwendungen
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 
 ---
 
 8
+
+## GLOSSAR
 
 ASV
 
@@ -5990,10 +5411,6 @@ TSS
 
 VDGA
 
-SEITE 100 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-## GLOSSAR
-
 Ambulante spezialfachärztliche Versorgung
 
 Arbeitsunfähigkeitsbescheinigung
@@ -6012,12 +5429,12 @@ Terminservicestelle
 
 Verordnung digitaler Gesundheitsanwendungen
 
-/ 9. FEBRUAR 2026 / VERSION: 2.31
-
 
 ---
 
 9
+
+## REFERENZIERTE DOKUMENTE
 
 **REFERENZIERTE DOKUMENTE**
 
@@ -6041,10 +5458,6 @@ Anlage 2b
 
 KBV_ITA_VGEX_Lizenzvereinbarung
 
-SEITE 101 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
-
-## REFERENZIERTE DOKUMENTE
-
 Dokument
 
 Anwendung der eGK - Technische Anlage zu An- lage 4a (BMV-Ä)
@@ -6063,7 +5476,7 @@ Richtlinie Softwarezertifizierung durch die KBV
 
 [https://update.kbv.de/ita-update/Allge-](https://update.kbv.de/ita-update/Allge-) mein/KBV_ITA_RLEX_Zert.pdf
 
-Document management — Electronic docu- ment file format for long-term preservation —  Part 2: Use of ISO 32000-1 (PDF/A-2) [ISO  19005-2:2011]
+Document management  Electronic docu- ment file format for long-term preservation   Part 2: Use of ISO 32000-1 (PDF/A-2) [ISO  19005-2:2011]
 
 [https://www.iso.org/standard/50655.html](https://www.iso.org/standard/50655.html)
 
@@ -6082,8 +5495,6 @@ Anlage 2b des Bundesmantelvertrages-Ärzte
 Lizenzvereinbarung -Software für Softwareher- steller-
 
 [https://update.kbv.de/ita-update/Lizenzverein-](https://update.kbv.de/ita-update/Lizenzverein-) barung/KBV_ITA_ VGEX_Lizenzvereinba- rung.pdf
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31
 
 
 ---
@@ -6104,9 +5515,7 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-SEITE 102 VON 102 / KBV / TECHNISCHES HANDBUCH DIGITALE VORDRUCKE
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 Technische Anlage zur eAU
 
@@ -6120,8 +5529,6 @@ Technische Anlage zur elektronischen Verord- nung digitaler Gesundheitsanwendung
 
 [https://update.kbv.de/ita-update/DigitaleMus-](https://update.kbv.de/ita-update/DigitaleMus-) ter/eVDGA/KBV_ITA_VGEX_Technische_An- lage_eVDGA.pdf
 
-Spezifikation Implementierungsleitfaden Pri- märsysteme – Telematikinfrastruktur (TI)
+Spezifikation Implementierungsleitfaden Pri- märsysteme  Telematikinfrastruktur (TI)
 
 [https://gemspec.gematik.de/docs/gemILF/ge-](https://gemspec.gematik.de/docs/gemILF/ge-) mILF_PS/
-
-/ 9. FEBRUAR 2026 / VERSION: 2.31

@@ -13,7 +13,7 @@
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_KADT]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung / 15. Mai 2024
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  / 15. Mai 2024
 
 
 ---
@@ -26,7 +26,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 8 / KBV / Antrag auf Zertifi
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -39,23 +39,22 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
 | Systempfleger [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Seite 2 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
+/ Version: 4.2 / 15. Mai 2024
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]/ Version: 4.2 / 15. Mai 2024
-
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
 
 ---
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt 1.1.
+1.1. Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
@@ -64,7 +63,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -75,18 +74,12 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+-Betriebssysteme unterstützt werden.Bitte geben Sie im Folgenden an, welche Client
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-Seite 3 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
-
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
@@ -94,28 +87,38 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 2
 
-## REALISIERUNG VON ANFORDERUNGEN
-
-**2.1 ANFORDERUNGSDOKUMENTE**
+**2.1**
 
 |  |  |
 |---|---|
-| ☐ | Auf Grundlage der aktuell gültigen Date |
-| ☐ | Alle Pflichtfunktionen KADT des Anforderungskataloges KVDT sind realisiert. |
+| ☐ | nsatzbeschreibung KVDT ist das K |
+| ☐ |  |
 
-**2.2 ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM-AKTUALISIERUNG**
+**2.2**
 
 |  |  |
 |---|---|
 | ☐ | Die konditionale Pflichtfunktion KP2-185 wurde im KADT umgesetzt. |
 
-**2.3 REALISIERTE OPTIONALE FUNKTIONEN ADT**
+**2.3**
 
 Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
+
+## REALISIERUNG VON ANFORDERUNGEN
+
+**ANFORDERUNGSDOKUMENTE**
+
+**ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM**
+
+**REALISIERTE OPTIONALE FUNKTIONEN**
+
+**-AKTUALISIERUNG**
+
+**ADT**
 
 | IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
 |---|---|
@@ -126,13 +129,7 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |  |  |
 |  |  |
 
-Seite 4 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
-
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024
-
-nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert mit  › allen Feldern › allen Ausprägungen (erlaubte Inhalte) zu den Feldern › allen Regeln [ ] [ ] [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
+[ ] [ ] Auf Grundlage der aktuell gültigen Date mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln Alle Pflichtfunktionen KADT des Anforderungskataloges KVDT sind realisiert. ADT-Datenpaket realisiert [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
 
 ---
 
@@ -157,32 +154,22 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-* Diese Information ist verpflichtend anzugeben
-
-________________
-
-Seite 5 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
-
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024
+Diese Information ist verpflichtend anzugeben
 
 
 ---
 
 4
 
-## KENNTNISNAHME DURCH DEN ANTRAG
+## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## SSTELLER
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnis- und/oder Sichtprüfung durchgeführt, abhängig  davon ob diese Prüfung im Rahmen der ADT Zertifizierung erfolgt.  (2) Die Rezertifizierung kann im Rahmen einer Ergebnis- und/oder Sichtprüfung durchgeführt werden.  (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (4) Die Laufzeit der Zulassung beträgt 36 Monate.  (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-**I. Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnis- und/oder Sichtprüfung durchgeführt, abhängig  davon ob diese Prüfung im Rahmen der ADT Zertifizierung erfolgt.  (2) Die Rezertifizierung kann im Rahmen einer Ergebnis- und/oder Sichtprüfung durchgeführt werden.  (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (4) Die Laufzeit der Zulassung beträgt 36 Monate.  (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
-
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | <K^dE/EΦ |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
 |---|---|---|---|
 | KADT | Neu- oder | Sicht- oder | 344,05 [pro Termin] |
 
-**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
@@ -192,29 +179,24 @@ Antragssteller:
 
 (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III. Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
 (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-Seite 6 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
-
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024
-
 Rezertifizierung Ergebnisprüfung
+
 
 ---
 
-(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der !ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐĂƵƐĚĞŵŽŬƵŵĞŶƚͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐʹ  ^ŽĨƚǁĂƌĞĨƺƌ^ŽĨƚǁĂƌĞŚĞƌƐƚĞůůĞƌ͞΀KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Der  KBV_ITA_ VGEX_Lizenzvereinbarung
 
 IV. Sonstiges
 
@@ -226,13 +208,11 @@ IV. Sonstiges
 
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-Seite 7 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
+aktualisierten
 
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024
+hersteller- und
 
 
 ---
@@ -250,9 +230,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 8 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung
-
-Antragssteller:
-
-/ Version: 4.2 / 15. Mai 2024

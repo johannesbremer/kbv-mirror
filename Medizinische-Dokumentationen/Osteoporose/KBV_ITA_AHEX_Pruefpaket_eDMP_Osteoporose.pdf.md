@@ -1,19 +1,17 @@
 |  |
 |---|
 
-|  |
-|---|
+# PRÜFPAKET EDMP
+
+## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_OSTEOPOROSE]
 
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.07  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRÜFPAKET EDMP
+|  |
+|---|
 
-# -OSTEOPOROSE
-
-## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_OSTEOPOROSE]
-
-Seite 1 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+**-OSTEOPOROSE**
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
@@ -21,61 +19,34 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-|  | ALLGEMEINES |  |  |  | 5 |
-|---|---|---|---|---|---|
-| 1.1 |  | Rechtsgrundlage |  |  | 5 |
-| 1.2 |  | Zertifizierungsablauf |  |  | 5 |
-| 1.3 |  | Zertifizierungsportal |  |  | 6 |
-| 1.4 |  | Zertifizierungsdokumente | |  | 6 |
-| 1.5 |  | Prüfunterlagen |  |  | 6 |
-| 1.6 |  | Prüfvorgaben |  |  | 8 |
-|  | 1.6.1 |  | Schnittstellenversionen |  | 8 |
-|  | 1.6.2 |  | Datumseingaben |  | 8 |
-|  | 1.6.3 |  | Prüfstammdaten |  | 8 |
-|  | 1.6.4 |  | Versichertendaten |  | 8 |
-|  | 1.6.5 | Praxisdaten/ | Arztstempel |  | 9 |
-|  | 1.6.6 |  | Krankenhausdaten |  | 10 |
-|  | 1.6.7 | Prüfnummer |  |  | 10 |
-|  | 1.6.8 | Stammdatei | der | Datenannahmestellen (SDDA) | 10 |
-|  | 1.6.9 | Auflistung | der Prüffälle |  | 11 |
+**ALLGEMEINES 5**
 
-|  | PRÜFFÄLLE |  |  |  | 12 |
-|---|---|---|---|---|---|
-| 2.1 |  | Prüffälle | Dokumentation | | 12 |
-|  | 2.1.1 | Prüffall | 3911 |  | 12 |
-|  | 2.1.2 | Prüffall | 3912 |  | 14 |
-|  | 2.1.3 | Prüffall | 3920 |  | 16 |
-| 2.2 | Prüffall |  | Systemreaktion |  | 19 |
-|  | 2.2.1 | Prüffall | 3914 |  | 19 |
-|  | 2.2.2 | Prüffall | 3915 |  | 23 |
-|  | 2.2.3 | Prüffall | 3916 |  | 24 |
-| 2.3 | Weitere | Prüffälle | | zum Anforderungskatalog | 25 |
-|  | 2.3.1 | Prüffall | 3930 |  | 25 |
-|  | 2.3.2 | Prüffall | 3940 |  | 26 |
+1.1 Rechtsgrundlage 5  1.2 Zertifizierungsablauf 5  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 6  1.5 Prüfunterlagen 6  1.6 Prüfvorgaben 8  Schnittstellenversionen1.6.1 8  Datumseingaben 1.6.28  1.6.3 Prüfstammdaten 8  Versichertendaten 1.6.48  1.6.5 Praxisdaten/ Arztstempel 9  1.6.6 Krankenhausdaten 10  Prüfnummer 1.6.710  1.6.8 Stammdatei der Datenannahmestellen (SDDA) 10  1.6.9 Auflistung der Prüffälle 11
 
-|  |  | TESTDATENVALIDIERUNG | | 27 |
-|---|---|---|---|---|
-| 3.1 | Prüffall |  | Testdatenvalidierung | 28 |
-|  | 3.1.1 |  | Prüffall TDV3918 | 28 |
+**PRÜFFÄLLE 12**
 
-|  | ANHANG |  | 30 |
+2.1 Prüffälle Dokumentation 12  Prüffall 3911 2.1.112  Prüffall 3912 2.1.214  2.1.3 Prüffall 3920 16  2.2 Prüffall Systemreaktion 19  Prüffall 3914 2.2.119  2.2.2 Prüffall 3915 23  Prüffall 3916 2.2.324  2.3 Weitere Prüffälle zum Anforderungskatalog 25  2.3.1 Prüffall 3930 25  2.3.2 Prüffall 3940 26
+
+**TESTDATENVALIDIERUNG** **27**
+
+3.1 Prüffall Testdatenvalidierung 28  Prüffall TDV3918 3.1.128
+
+|  | **ANHANG** |  | **30** |
 |---|---|---|---|
 | 4.1 | Prüffall | 10 – Ersatzverfahren | 30 |
 
 **REFERENZIERTE DOKUMENTE 31**
 
-Seite 2 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 /
-
-Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle Prüffälle Dokumentation Prüffall 3911 Prüffall 3912 Prüffall 3920 Prüffall Systemreaktion Prüffall 3914 Prüffall 3915 Prüffall 3916 Weitere Prüffälle zum Anforderungskatalog Prüffall 3930 Prüffall 3940 Prüffall Testdatenvalidierung Prüffall 10 – Ersatzverfahren 31. März 2026
+Prüffall 10 – Ersatzverfahren
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+ABBILDUNGSVERZEICHNIS
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an Anpassung Prüffall 3940 | Schnittstellenversion  Änderung der | 8, 12ff    26 |
+| 1.07 | 31.03.2026 | KBV | Anpassung der Prüffälle an Anpassung Prüffall 3940 | Schnittstellenversion | 8, 12ff    26 |
 | 1.06 | 15.08.2025 | KBV | Datumsanpassung des | Änderung der | 26 |
 | 1.05 | 12.05.2025 | KBV | Datumsanpassungen der Überarbeitung der |  | 7ff |
 | 1.04 | 12.02.2024 | KBV | Anpassung der übergreifenden Prüffälle an COPD- Schnittstellenversion 4.06 | COPD- Schnittstellenversion 4.06 ist ab 01.04.2024 zu verwenden | 12 |
@@ -83,11 +54,9 @@ Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung de
 | 1.02 | 18.07.2023 | KBV | Prüffall 07 Anpassung des | Wiederherstellung der | 19 |
 | 1.01 | 08.11.2022 | KBV | Datumsanpassungen der   Aufnahme eines Testfalls  Neuer Prüffall 3940 zur | Datumsanpassungen Schnittstellenversion | alle          26 |
 |  |  | | | | |
-|  | Abbildung 2: : Exemplarische Struktur der Archivdatei mit den Prüfunterlagen |  |  |  | Abbildung 3: Testdatenvalidierung |
+|  | Abbildung 2: : Exemplarische Struktur der |  |  |  | Abbildung 3: Testdatenvalidierung |
 
-Seite 3 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 27 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27 DOKUMENTENHISTORIE Schnittstellenversionen 1.02 ist ab 01.10.2026 Barcodeversion (03) ab 1.10.2026 Prüffalls 3940 Barcodeversion ab 1.1.2025 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. Geburtsdatums Geburtsdatums Funktionalität Prüffälle. für die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden.
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung DOKUMENTENHISTORIE Archivdatei  mit den Prüfunterlagen Schnittstellenversionen Prüffalls 3940 Prüffälle. Testfälle 3914, 3915, 3916 und 3930. Geburtsdatums Geburtsdatums Prüffälle. für die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der 1.02 ist ab 01.10.2026 Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 Funktionalität wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden. 27 27
 
 ---
 
@@ -103,43 +72,36 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 27 Abbild
 | übergreifenden | Anpassung an | | | | |
 | 1.00 | 14.05.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
 
-Seite 4 von 32 / KBV / Prüfpaket eDMP-
-
-Osteoporose / Version: 1.07 / 31. März 2026
-
 Teilnahmeerklärung. Änderungen im Anforderungskatalog.
-
 
 ---
 
 ## ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Osteoporose  „OST“.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Osteoporose „OST“.
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1 RECHTSGRUNDLAGE**
+**1.1** **RECHTSGRUNDLAGE**
 
 Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
-**1.2 ZERTIFIZIERUNGSABLAUF**
+**1.2** **ZERTIFIZIERUNGSABLAUF**
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  ssteller 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 **HINWEIS**
 
-Seite 5 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
 
 ---
 
-**1.3 ZERTIFIZIERUNGSPORTAL**
+**1.3** **ZERTIFIZIERUNGSPORTAL**
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -159,98 +121,78 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-**1.4 ZERTIFIZIERUNGSDOKUMENTE**
+**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
 
-**1.5 PRÜFUNTERLAGEN**
+**1.5** **PRÜFUNTERLAGEN**
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-› **OST-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
-
-Seite 6 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+**OST-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
 
 
 ---
 
-|  | [Konditional] | | Multimorbider | | Fall: | Sofern Ihr | System | eine | Zulassung | für eine | oder | mehrere | in | dem Prüffall |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 3920 |  | genannten | Indikationen | | verfügt, | müssen | die | entsprechenden | | Daten | ebenfalls |  | dokumentiert |  |
-|  | werden. | Dabei | müssen | die Dateien |  | entsprechend | den | Vorgaben | als eine |  | Archivdatei |  | verschlüsselt |  |
-|  | (*.zip.XKM) | direkt | in | dem | Hauptverzeichnis | | des | ZIP-Archives | abgelegt |  | werden. |  |  |  |
-| › | Videodateien | , | Screenshots | | ausgewählter | | Anforderungen | und |  | Teilnahmeerklärung | | : |  |  |
-| Die |  | geforderten |  | Videomitschnitte | , | Screenshots | und | die | Teilnahmeerklärung | | (Prüffall | | 3940) | müssen in |
-|  | einem | gesonderten | | Ordner | „Dokumentation“ | | übermittelt | | werden | und | folgender |  | Namenskonvention | |
-|  | entsprechen. | | Diese | werden | durch den | Prüfer | begutachtet. | |  |  |  |  |  |  |
-| · | [ | PrüffallNr .] | 1 _[ lfdNr.] | 2.3 .* |  |  |  |  |  |  |  |  |  |  |
-| · |  | Teilnahmeerklärung | | (Prüffall |  | 3940): | TE_EWE_OST.pdf |  |  |  |  |  |  |  |
-| › Alle |  | Prüfunterlagen | | (OST-Unterlagen | | und der | Ordner |  | „Dokumentation“) | sind | in | einem | ZIP-Archiv | zu |
-|  | übermitteln. | Die |  | OST-Unterlagen | werden | direkt | in dem |  | Hauptverzeichnis | | übertragen | und | nicht |  |
-|  | gesondert | in | einem | Unterordner |  | abgelegt. | Diese Dateien |  | werden | automatisiert | | geprüft. |  |  |
-| Der | Ordner |  | „Dokumentation“ | | enthält |  | Videoaufzeichnungen, | | ggf. | Screenshots | sowie | die |  |  |
-|  |  | Teilnahmeerklärung | und | wird | ebenfalls | direkt | in dem |  | Hauptverzeichnis |  | übertragen. |  |  |  |
-| Das | ZIP- | Archiv | muss | wie folgt | benannt | werden: |  |  |  |  |  |  |  |  |
-| · |  | Zert_109_SystemID.zip | |  |  |  |  |  |  |  |  |  |  |  |
-| Die | SystemID | ergibt | sich | aus den | letzten | drei | Stellen | der | Prüfnummer. |  |  |  |  |  |
-| Das | ZIP-Archiv | kann | je | nach |  | Komponentenzulassung | (OST | und/oder | COPD) |  | unterschiedliche | | Strukturen | |
-| aufweisen. | Im | Folgenden | | wird | beispielhaft | die | Verzeichnisstruktur | | ohne | zusätzliche | | Zulassungen | | (die |
-| alleinige | | Umsetzung | von | Osteoporose | ) | dargestellt. |  |  |  |  |  |  |  |  |
-| Name |  |  |  |  |  |  |  | Typ |  |  |  |  |  |  |
-|  | Zert_109_SystemID.zip | |  |  |  |  |  |  | ZIP-komprimierter | | Ordner |  |  |  |
-|  |  | Dokumentation | |  |  |  |  |  | Dateiordner |  |  |  |  |  |
-|  |  |  |  | 391234511_20261031101010_1_OST_102.idx | | |  |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  | 391234511_20261031101010_1_OST_102.idx.XKM | | | |  | XKM-Datei |  |  |  |  |  |
-|  |  |  |  | 856215715_20261031101010_1_OST_102.idx | | |  |  | IDX-Datei |  |  |  |  |  |
-|  |  |  |  | 856215715_20261031101010_1_OST_102.idx.XKM | | | |  | XKM-Datei |  |  |  |  |  |
-| Abbildung | 1: | Exemplarische |  | Verzeichnisstruktur | | für die | Zertifizierung |  |  |  |  |  |  |  |
-| Name |  |  |  |  |  |  | Typ |  |  |  |  |  |  |  |
-|  |  |  | 391234511_20261031101010_1_OST_102.zip.XKM | | | |  | XKM-Datei |  |  |  |  |  |  |
-|  |  | Rheumatoide_Arthritis | |  |  |  |  | Dateiordner |  |  |  |  |  |  |
-|  |  | Dokumentation |  |  |  |  |  | Dateiordner |  |  |  |  |  |  |
-|  |  |  |  | 391234511_7211_20261015.EEOST | |  |  | EEOST-Datei |  |  |  |  |  |  |
-|  |  |  | 391234511_7211_20261015. | |  | EEOST |  | EVOST-Datei |  |  |  |  |  |  |
-|  |  |  | 391234511_7212_20261015. | |  | EEOST |  | EEOST-Datei |  |  |  |  |  |  |
-|  |  |  | 391234511_7212_20261015. | |  | EEOST |  | EVOST-Datei |  |  |  |  |  |  |
-|  | Abbildung 2: | : | Exemplarische | Struktur | der | Archivdatei | mit den | Prüfunterlagen |  |  |  |  |  |  |
-|  | ________________ | |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 Nummer | des | Prüffalls |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2 Laufende | Nummer |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 Gängiges | Bild - | bzw. | Videoformat |  |  |  |  |  |  |  |  |  |  |  |
-| Seite | 7 von 32 | / KBV / | Prüfpaket |  | eDMP-Osteoporose | / Version: | 1.07 / | 31. März 2026 |  |  |  |  |  |  |
+[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  3.920 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des ZIP-Archives abgelegt werden.
 
-[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem 3920 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des ZIP-Archives abgelegt werden. ausgewählter Anforderungen und Teilnahmeerklärung Die geforderten Videomitschnitte , Screenshots und die Teilnahmeerklärung (Prüffall 3940) müssen in einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet. [ PrüffallNr _[ lfdNr.] .* Teilnahmeerklärung (Prüffall 3940): TE_EWE_OST.pdf  Nummer des Prüffalls  Laufende Nummer  Gängiges Bild  bzw. Videoformat Alle Prüfunterlagen (OST-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu übermitteln. Die OST-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in dem Hauptverzeichnis übertragen.  Das ZIP- Archiv muss wie folgt benannt werden:  Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer. Das ZIP-Archiv kann je nach Komponentenzulassung (OST und/oder COPD) unterschiedliche Strukturen aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung von Osteoporose ) dargestellt. ZIP-komprimierter Ordner Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 391234511_7211_20261015. EEOST 391234511_7212_20261015. EEOST 391234511_7212_20261015. EEOST   Abbildung 2: : Exemplarische Struktur der Archivdatei  mit den Prüfunterlagen Seite 7 von 32  /  KBV  /  Prüfpaket eDMP-Osteoporose  /  Version: 1.07  /  31. März 2026
+### Videodateien
+
+### Screenshots ausgewählter Anforderungenund Teilnahmeerklärung
+
+Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3940) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+
+### PrüffallNr .] _[ 1
+
+### lfdNr .] .*  2.3
+
+Teilnahmeerklärung (Prüffall 3940): TE_EWE_OST.pdf
+
+**1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild bzw. Videoformat**
+
+Alle Prüfunterlagen (OST-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die OST-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft.   Der Ordner „Dokumentation“ enthält Videoaufzeichnungen , ggf. Screenshots sowie die  Teilnahmeerklärung und wird ebenfalls direkt in dem Hauptverzeichnis übertragen.  Das ZIP- Archiv muss wie folgt benannt werden:  Zert_109_SystemID.zip
+
+Die
+
+### SystemID
+
+ergibt sich aus den letzten drei Stellen der Prüfnummer.
+
+Das ZIP-Archiv kann je nach Komponentenzulassung (OST und/oder COPD) unterschiedliche Strukturen  aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von Osteoporose) dargestellt.
+
+Name                 Typ  Zert_109_SystemID.zip            ZIP-komprimierter Ordner  Dokumentation           Dateiordner    391234511_20261031101010_1_OST_102.idx  IDX-Datei    391234511_20261031101010_1_OST_102.idx.XKM XKM-Datei   856215715_20261031101010_1_OST_102.idx  IDX-Datei    856215715_20261031101010_1_OST_102.idx.XKM XKM-Datei   Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung   Name               Typ  391234511_20261031101010_1_OST_102.zip.XKM  XKM-Datei  Rheumatoide_Arthritis         Dateiordner    Dokumentation          Dateiordner    391234511_7211_20261015.EEOST    EEOST-Datei    391234511_7211_20261015. EEOST   EVOST-Datei    391234511_7212_20261015. EEOST   EEOST-Datei    391234511_7212_20261015. EEOST   EVOST-Datei    Abbildung 2: : Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
+
 
 ---
 
-**1.6 PRÜFVORGABEN**
+**1.6** **PRÜFVORGABEN**
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-**1.6.1 Schnittstellenversionen**
+**1.6.1** **Schnittstellenversionen**
 
-› Indikation Osteoporose:  Ab dem 01.07.2021 muss die Schnittstellenversion 1.01 verwendet werden.  Ab dem 01.10.2026 muss die Schnittstellenversion 1.02 verwendet werden.   › I ndikation **COPD:**  Ab dem 01.04.2024 muss die Schnittstellenversion 4.06 verwendet werden.  › Ab dem 01.10.2026 muss die Schnittstellenversion 4.07 verwendet werden.
+Indikation **Osteoporose:**  Ab dem **01.07.2021** muss die Schnittstellenversion **1.01** verwendet werden.  Ab dem **01.10.2026** muss die Schnittstellenversion **1.02** verwendet werden.   I ndikation **COPD:**  Ab dem **01.04.2024** muss die Schnittstellenversion **4.06** verwendet werden  Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden
 
-**1.6.2 Datumseingaben**
+**1.6.2** **Datumseingaben**
 
-› **Gültigkeitsdatum: Das „letzte Datum“, ab dem alle in diesem Prüfpaket verwendeten Schnittstellen**  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.04.2024 01.10.2026).   › **Erstdokumentationsdatum: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des**  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum ist der 15.10.2024.  **Ausnahme:**  **·** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum ( auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.   › **Folgedokumentationsdatum: Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats**  sechs Monate nach dem Erstdokumentationsdatum.   › **Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,**  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.   › **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung).**
+**Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**  **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.   **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum  **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.   **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
 
-**1.6.3 Prüfstammdaten**
+**1.6.3** **Prüfstammdaten**
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
-**1.6.4 Versichertendaten**
+**1.6.4** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. DieXML- Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
 
-› EF.VD = allgemeine Versicherungsdaten  › EF.PD = persönliche Versichertendaten  › EF.GVD = geschützte Versichertendaten
+EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
 
-Seite 8 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+erforderlichen Angaben  bereitgestellt. Die XML-
 
 
 ---
 
-**1.6.5 Praxisdaten/ Arztstempel**
+**1.6.5** **Praxisdaten/ Arztstempel**
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -266,12 +208,10 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-Seite 9 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
 
 ---
 
-**1.6.6 Krankenhausdaten**
+**1.6.6** **Krankenhausdaten**
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
@@ -285,34 +225,32 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-**1.6.7 Prüfnummer**
+**1.6.7** **Prüfnummer**
 
 Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
-› OST = X/109/2202/36/000  › COPD = X/105/2202/36/000
+OST = X/109/2202/36/000  COPD = X/105/2202/36/000
 
-**1.6.8 Stammdatei der Datenannahmestellen (SDDA)**
+**1.6.8** **Stammdatei der Datenannahmestellen (SDDA)**
 
-Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
+Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
 
-Seite 10 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+möglich (nötige Angaben in der SDDA fehlen), kann ein
 
 
 ---
 
-**1.6.9 Auflistung der Prüffälle**
+**1.6.9** **Auflistung der Prüffälle**
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 | PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
-| 3911 | Ludger Königsstein | XML_15 |
-| 3912 | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried | XML_21 |
+| 3.911 | Ludger Königsstein | XML_15 |
+| 3.912 | Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried | XML_21 |
 | 3940 | Lija Malta | XML_36 |
 | TDV3918 | Maria Eichendorf | XML_16 |
-| 3920 | Lija Malta | Ersatzverfahren |
-
-Seite 11 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+| 3.920 | Lija Malta | Ersatzverfahren |
 
 Schaumbërg-von-und-zu-Schaumburg-und- Radëberg (s. Anhang 4.1)
 
@@ -320,9 +258,9 @@ Schaumbërg-von-und-zu-Schaumburg-und- Radëberg (s. Anhang 4.1)
 
 ## PRÜFFÄLLE
 
-**2.1 PRÜFFÄLLE DOKUMENTATION**
+**2.1** **PRÜFFÄLLE DOKUMENTATION**
 
-**2.1.1 Prüffall 3911**
+**2.1.1** **Prüffall 3911**
 
 |  |  |
 |---|---|
@@ -334,12 +272,12 @@ Schaumbërg-von-und-zu-Schaumburg-und- Radëberg (s. Anhang 4.1)
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten:**  Die Versichertendaten von Ludger Königsstein (XML_15) einlesen und speichern.   **2. Anlegen einer Erst- und einer Verlaufsdokumentation**
+**1.** **Versichertendaten:**  Die Versichertendaten von Ludger Königsstein   **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3911 | 3911 |
+| DMP-Fallnummer | 3.911 | 3.911 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -347,18 +285,18 @@ Schaumbërg-von-und-zu-Schaumburg-und- Radëberg (s. Anhang 4.1)
 | Geschlecht | Männlich | Männlich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,21 m | 2,21 m |
-| Körpergewicht | 116 kg | 96 kg |
-| Blutdruck (systolisch / diastolisch) | 155 / 85 mmHg | 125 / 75 mmHg |
+| Körpergewicht | 1.16 kg | 9.6 kg |
+| Blutdruck (systolisch / diastolisch) | 1.55 / 85 mmHg | 1.25 / 75 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Arterielle Hypertonie | AVK |
+|  | Arterielle Hypertonie | AVK |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Körperliches Training, |
-| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
+|  | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
-Seite 12 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+(XML_15) einlesen und speichern
 
-Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen  DATEN Informationsangebote der Krankenkasse Ernährungsberatung
+Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen  DATEN Begleiterkrankungen Informationsangebote der Krankenkasse Dokumentationsintervall Ernährungsberatung
 
 ---
 
@@ -369,7 +307,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen 
 | Osteoporosebedingte Fraktur in den letzten 12 | Ja |  |
 | Neu aufgetretene osteoporosebedingte Fraktur |  | Ja |
 | Lokalisation der osteoporosebedingten Fraktur | Proximale Femurfraktur, | Singuläre |
-| Stürze in den letzten 6 Monaten | 28 |  |
+| Stürze in den letzten 6 Monaten | 2.8 |  |
 | Stürze seit der letzten Dokumentation |  | 9 |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | |
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: | Ja | Ja |
@@ -383,13 +321,11 @@ Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen 
 | Schulung empfohlen (bei aktueller | Ja | Ja |
 | Empfohlene Schulung wahrgenommen |  | Ja |
 
-Seite 13 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-PEZIFISCHE DATEN Andere Wirbelkörperfraktur, Radiusfraktur erhöhtes Sturzrisiko Hormonersatztherapie weniger als drei Jahren Fortführung über drei Jahre hinaus Dokumentation)
+PEZIFISCHE DATEN erhöhtes Sturzrisiko Dokumentation) Andere weniger als drei Jahren Wirbelkörperfraktur, Radiusfraktur Hormonersatztherapie Fortführung über drei Jahre hinaus
 
 ---
 
-**2.1.2 Prüffall 3912**
+**2.1.2** **Prüffall 3912**
 
 |  |  |
 |---|---|
@@ -399,12 +335,12 @@ PEZIFISCHE DATEN Andere Wirbelkörperfraktur, Radiusfraktur erhöhtes Sturzrisik
 | Prüfunterlagen | › |
 | Hinweis | › |
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  **1. Versichertendaten:**  Die Versichertendaten von Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried Schaumbërg-von-und-zu- Schaumburg-und-Radëberg (XML_21) einlesen und speichern.  **2. Anlegen einer Erst- und einer Verlaufsdokumentation**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**  **1.** **Versichertendaten:**  Die Versichertendaten von Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried Schaumbërg-von-und-zu- Schaumburg-und-Radëberg (XML_21) einlesen und speichern **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| DATEN | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3912 | 3912 |
+| DMP-Fallnummer | 391.2 | 391.2 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -413,17 +349,15 @@ PEZIFISCHE DATEN Andere Wirbelkörperfraktur, Radiusfraktur erhöhtes Sturzrisik
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,81 m | 1,81 m |
 | Körpergewicht | 76 kg | 72 kg |
-| Blutdruck (systolisch / diastolisch) | 145 / 75 mmHg | 125 / 70 mmHg |
+| Blutdruck (systolisch / diastolisch) | 1.45 / 75 mmHg | 125 / 70 mmHg |
 | Raucher | Nein | Nein |
 | Begleiterkrankungen | COPD, | COPD |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training | Ernährungsberatung |
-| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
+|  | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
-Seite 14 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen  DATEN erstellt Fettstoffwechselstörung Informationsangebote der Krankenkasse
+Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen INDIKATIONSÜBERGREIFENDE erstellt Informationsangebote der Krankenkasse Dokumentationsintervall Fettstoffwechselstörung
 
 ---
 
@@ -448,13 +382,11 @@ Anlage einer Erst- und einer Verlaufsdokumentation OST-Dokumentationsunterlagen 
 | Schulung empfohlen (bei aktueller | Ja | Ja |
 | Empfohlene Schulung wahrgenommen |  | Ja |
 
-Seite 15 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-PEZIFISCHE DATEN Wirbelkörperfrakturen Wirbelkörperfraktur, Beckenfraktur erhöhtes Sturzrisiko Hormonersatztherapie Medikation durchgeführt Fortführung über drei Jahre hinaus Dokumentation)
+PEZIFISCHE DATEN erhöhtes Sturzrisiko Dokumentation) Wirbelkörperfrakturen Medikation durchgeführt Wirbelkörperfraktur, Beckenfraktur Hormonersatztherapie Fortführung über drei Jahre hinaus
 
 ---
 
-**2.1.3 Prüffall 3920**
+**2.1.3** **Prüffall 3920**
 
 |  |  |
 |---|---|
@@ -466,14 +398,14 @@ PEZIFISCHE DATEN Wirbelkörperfrakturen Wirbelkörperfraktur, Beckenfraktur erh�
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten:**  Die Versichertendaten Lija Malta (Anhang 4.1) im Ersatzverfahren erfassen.
+**1.** **Versichertendaten:**  Die Versichertendaten
 
-**2. Anlegen einer Erst- und einer Verlaufsdokumentation**
+**2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
-| DMP-Fallnummer | 3920 | 3920 |
+| DMP-Fallnummer | 3.920 | 3.920 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
@@ -482,13 +414,13 @@ PEZIFISCHE DATEN Wirbelkörperfrakturen Wirbelkörperfraktur, Beckenfraktur erh�
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
-| Blutdruck | 123 / 72 mmHg | 124 / 76 mmHg |
+| Blutdruck | 123 / 72 mmHg | 1.24 / 76 mmHg |
 | Raucher | Ja | Nein |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
 
-Seite 16 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+Lija Malta (Anhang 4.1) im Ersatzverfahren erfassen.
 
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung OST-Dokumentationsunterlagen zusätzlich COPD-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine COPD-Zulassung besitzen, dann sind nur die OST-Daten zu übermitteln.  DATEN , COPD , COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die OST- Dokumentation ist dies COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die OST- Dokumentation ist dies COPD
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung OST-Dokumentationsunterlagen zusätzlich COPD-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine COPD-Zulassung besitzen, dann sind nur die OST-Daten zu übermitteln.  DATEN , COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die OST- Dokumentation ist dies COPD , COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die OST- Dokumentation ist dies COPD
 
 ---
 
@@ -508,15 +440,15 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 | OST | Lokalisation der osteoporosebedingten | Proximale Femurfraktur, | Singuläre |
 | OST | Stürze in den letzten 6 Monaten | 39 |  |
 | OST | Stürze seit der letzten Dokumentation |  | 9 |
-| Relevante Ereignisse | | | |
+|  | | | |
 | COPD | Häufigkeit von Exazerbationen seit der |  | 2 |
 | COPD | Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation |  | 1 |
 | Medikamente | | | |
-| COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
+| COPD | Kurz wirksame Beta-2-Sympathomimetika |  |  |
 | COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
 | COPD | Inhalationstechnik überprüft | Nein | Ja |
-| COPD | Sonstige diagnosespezifische Medikation | Andere | Inhalative |
+| COPD | Sonstige diagnosespezifische Medikation | Andere |  |
 | OST | Aktuelle osteoporosespezifische Medikation | Patientin mit | Bisphosphonate |
 |  | Behandlung wegen COPD seit der letzten Dokumentation |  |  |
 |  | | | |
@@ -536,9 +468,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibu
 |  |  | COPD |  |
 | 2 |  | COPD |  |
 
-Seite 17 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monate) Wertes Wertes Osteoporoserisikos durchgeführt letzten 12 Monaten  Fraktur seit der letzten Dokumentation Wirbelkörperfraktur, Radiusfraktur und/oder Anticholinergika Glukokortikosteroide Hormonersatztherapie
+Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monate) Osteoporoserisikos durchgeführt letzten 12 Monaten Fraktur seit der letzten Dokumentation Relevante Ereignisse und/oder Anticholinergika Wertes Hormonersatztherapie Wertes Wirbelkörperfraktur, Radiusfraktur Inhalative Glukokortikosteroide
 
 ---
 
@@ -580,18 +510,16 @@ Informationsangebote der Krankenkasse Ernährungsberatung PEZIFISCHE DATEN Monat
 | OST | Bei Teilnehmerinnen und Teilnehmern mit erhöhtem Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Ja | Nein |
 | OST | Regelmäßiges körperliches Training | Nicht möglich | Ja |
 
-Seite 18 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-abgeschlossenen 3. Jahr abgebrochen Fortführung über drei Jahre hinaus Dokumentation) DMP bereits wahrgenommen Dokumentation keine Dokumentation) ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen Jahre: erhöhtes Sturzrisiko
+Dokumentation) DMP bereits wahrgenommen Dokumentation) ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen Jahre: erhöhtes Sturzrisiko abgeschlossenen 3. Jahr abgebrochen Fortführung über drei Jahre hinaus Dokumentation keine
 
 ---
 
-**2.2 PRÜFFALL SYSTEMREAKTION**
+**2.2** **PRÜFFALL SYSTEMREAKTION**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Aktion |
-| DMP-Fallnummer | 3914 |  |
+| DMP-Fallnummer | 3.914 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm-jjjj |  |
@@ -610,14 +538,12 @@ abgeschlossenen 3. Jahr abgebrochen Fortführung über drei Jahre hinaus Dokumen
 |  |  |
 |---|---|
 | Prüffall-ID | 3914 |
-| Testziel | › |
+| Testziel | Fehleingaben |
 | Voraussetzung | › |
 | Prüfunterlagen | ›  › |
 | Hinweis | › |
 
-Seite 19 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin ist 65 Jahre alt. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 3914 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Erkrankungen Krankenkasse
+Kontrolle der softwareseitigen Erkennung von Patient oder Patientin ist Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind.  65 Jahre alt Prüffall 3914 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Krankenkasse Erkrankungen
 
 ---
 
@@ -638,24 +564,22 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin
 |  |  |  |
 |  | | |
 |  |  |  |
-| Dokumentationsintervall | Quartalsweise |  |
+|  | Quartalsweise |  |
 
-Seite 20 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Fraktur in den letzten 12 Monaten Nein Neu aufgetretene osteoporosebedingte Fraktur seit der letzten Dokumentation Ja Nr.1 Lokalisation der osteoporosebedingten Fraktur Proximale Femurfraktur , Andere Nr. 2 Stürze in den letzten 6 Monaten 1 Stürze seit der letzten Dokumentation 10 Nr. 3 Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes Ja Nr. 4 Bei Teilnehmerinnen und Teilnehmern mit erh öhtem Sturzprophylaxemaßnahme empfohlen Ja Regelmäßiges körperliches Training  Nein, Nicht möglich Aktuelle osteoporosespezifische Medikation Nr. 5 Dauer der osteoporosespezifischen Medikation Nr. 6 Schulung bereits vor Einschreibung in das DMP Nein Ja Ja | INDIKATIONS | | |
+Dokumentationsintervall INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Fraktur in den letzten 12 Monaten Neu aufgetretene osteoporosebedingte Fraktur seit der letzten Dokumentation Lokalisation der osteoporosebedingten Fraktur Stürze in den letzten 6 Monaten Stürze seit der letzten Dokumentation Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes Bei Teilnehmerinnen und Teilnehmern mit erh öhtem Sturzprophylaxemaßnahme empfohlen Regelmäßiges körperliches Training Aktuelle osteoporosespezifische Medikation Dauer der osteoporosespezifischen Medikation Schulung bereits vor Einschreibung in das DMP Nein Ja Proximale Femurfraktur Andere 1 10 Ja Ja Nein, Nicht möglich Nein Ja Ja Nr.1 Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 | SPEZIFISCHE DATEN | | |
 |---|---|---|
 | Anamnese und Befunddaten | | |
 | Osteoporosebedingte Fraktur in den letzten 12 Monaten | Nein |  |
-| Neu aufgetretene | Ja | Nr.1 |
-| Lokalisation der osteoporosebedingten Fraktur | Proximale Femurfraktur | Nr. 2 |
+| osteoporosebedingte Fraktur seit der | Ja | Nr.1 |
+|  | Proximale Femurfraktur | Nr. 2 |
 | Stürze in den letzten 6 Monaten | 1 |  |
 | Stürze seit der letzten Dokumentation | 10 | Nr. 3 |
 | Sonstige Befunde und nichtmedikamentöse Behandlung | | |
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes | Ja | Nr. 4 |
 | Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:   Sturzprophylaxemaßnahme empfohlen | Ja |  |
-| Regelmäßiges körperliches Training | Nein, Nicht möglich |  |
+|  | Nein, Nicht möglich |  |
 | Medikamentöse Behandlung | | |
-| Aktuelle osteoporosespezifische Medikation |  | Nr. 5 |
+|  |  | Nr. 5 |
 | Dauer der osteoporosespezifischen Medikation |  | Nr. 6 |
 | Schulung | | |
 | Schulung bereits vor Einschreibung in das DMP wahrgenommen | Nein |  |
@@ -665,14 +589,16 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Frakt
 
 ---
 
-**3. Korrektur der Daten der Erstdokumentation, mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**   **4. Anlegen einer Verlaufsdokumentation**
+**3.** **Korrektur der Daten der Erstdokumentation, mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
+
+**4.** **Anlegen einer Verlaufsdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Verlaufsdokumentation | Aktion |
-| DMP-Fallnummer | 3914 |  |
+| DMP-Fallnummer | 3.914 |  |
 | Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
+|  |  |  |
 | Datum | 15.mm.jjjj |  |
 | Einschreibung wegen | Osteoporose |  |
 | Geschlecht | Je nach Auswahl des |  |
@@ -681,48 +607,44 @@ INDIKATIONS SPEZIFISCHE DATEN Anamnese und Befunddaten Osteoporosebedingte Frakt
 | Körpergewicht | 081 kg |  |
 | Blutdruck | 128 / 81 mmHg |  |
 | Raucher | Nein |  |
-| Begleiterkrankungen | Keine der genannten |  |
+|  | Keine der genannten |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote der | Ernährungsberatung |  |
-| Dokumentationsintervall | Quartalsweise |  |
+|  | Ernährungsberatung |  |
+|  | Quartalsweise |  |
 | Datum der Erstellung | 15.mm.jjjj |  |
 
-| INDIKATIONS | | |
+| SPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | Verlaufsdokumentation | Aktion |
 | Anamnese und Befunddaten | | |
 | Osteoporosebedingte Fraktur in den letzten 12 Monaten | Ja | Nr. 8 |
-| Neu aufgetretene osteoporosebedingte Fraktur seit der | Ja |  |
+|  | Ja |  |
 | Lokalisation der osteoporosebedingten Fraktur |  | Nr. 9 |
 | Stürze in den letzten 6 Monaten |  |  |
-| Stürze seit der letzten Dokumentation | 19 |  |
+|  | 19 |  |
 
-Seite 21 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-DATEN Erkrankungen Krankenkasse SPEZIFISCHE DATEN
+DATEN Dokumentation in Vertretung erstellt Begleiterkrankungen Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Patienten Erkrankungen INDIKATIONS Neu aufgetretene osteoporosebedingte Fraktur seit der letzten Dokumentation Stürze seit der letzten Dokumentation
 
 ---
 
 | SONSTIGE BEFUNDE UND NICHTMEDIKAMENTÖSE BEHANDLUNG | | |
 |---|---|---|
 | Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes |  | Nr. 10 |
-| Bei Teilnehmerinnen und Teilnehmern mit erh Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen |  | Nr. 11 |
-| Regelmäßiges körperliches Training | Ja |  |
+| öhtem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen |  | Nr. 11 |
+|  | Ja |  |
 | Medikamentöse Behandlung | | |
-| Aktuelle osteoporosespezifische Medikation | Denosumab |  |
+|  | Denosumab |  |
 | Dauer der osteoporosespezifischen Medikation | Drei Jahre | Nr. 12 |
 | Schulung | | |
 | Schulung bereits vor Einschreibung in das DMP wahrgenommen | Nein | Nr. 13 |
 | Schulung empfohlen (bei aktueller Dokumentation) | Nein |  |
 | Empfohlene Schulung wahrgenommen |  | Nr. 14 |
 
-Seite 22 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-öhtem
+Bei Teilnehmerinnen und Teilnehmern mit erh Regelmäßiges körperliches Training Aktuelle osteoporosespezifische Medikation
 
 ---
 
-**2.2.2 Prüffall 3915**
+**2.2.2** **Prüffall 3915**
 
 |  |  |
 |---|---|
@@ -734,9 +656,9 @@ Seite 22 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten:**  Die Personalien zu dem Testfall sind frei wählbar.
+**1.** **Versichertendaten:**  Die Personalien zu dem Testfall sind frei wählbar.
 
-**2. Anlegen einer Erstdokumentation:**
+**2.** **Anlegen einer Erstdokumentation:**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -748,13 +670,11 @@ Seite 22 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 
 | Einschreibung wegen | Osteoporose | Nr. 15 |
 | Geschlecht | Weiblich |  |
 
-Seite 23 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Kontrolle der softwareseitigen Erkennung der fehlerhaften Einschreibung bzw. Prüfung, dass manche Fehleingaben nicht möglich sind. Patientin ist 46 Jahre alt. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind.  DATEN
+Kontrolle der softwareseitigen Erkennung Prüfung, dass manche Fehleingaben nicht möglich sind . Patientin ist 46 Jahre alt. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. der fehlerhaften Einschreibung bzw.  DATEN
 
 ---
 
-**2.2.3 Prüffall 3916**
+**2.2.3** **Prüffall 3916**
 
 |  |  |
 |---|---|
@@ -766,9 +686,9 @@ Kontrolle der softwareseitigen Erkennung der fehlerhaften Einschreibung bzw. Pr�
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten:**  Die Personalien zu dem Testfall sind frei wählbar.
+**1.** **Versichertendaten:**  Die Personalien zu dem Testfall sind frei wählbar.
 
-**2. Anlegen einer Erstdokumentation:**
+**2.** **Anlegen einer Erstdokumentation:**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -780,15 +700,13 @@ Kontrolle der softwareseitigen Erkennung der fehlerhaften Einschreibung bzw. Pr�
 | Einschreibung wegen | Osteoporose | Nr. 16 |
 | Geschlecht | Männlich |  |
 
-Seite 24 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Kontrolle der softwareseitigen Erkennung der fehlerhaften Einschreibung bzw. Prüfung, dass manche Fehleingaben nicht möglich sind. Patient ist 55 Jahre alt. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind.  DATEN
+Kontrolle der softwareseitigen Erkennung Prüfung, dass manche Fehleingaben nicht möglich sind . Patient ist 55 Jahre alt. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. der fehlerhaften Einschreibung bzw.  DATEN
 
 ---
 
-**2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
+**2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
 
-**2.3.1 Prüffall 3930**
+**2.3.1** **Prüffall 3930**
 
 |  |  |
 |---|---|
@@ -803,11 +721,10 @@ Kontrolle der softwareseitigen Erkennung der fehlerhaften Einschreibung bzw. Pr�
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die |
+| Datenübernahme der |
 
-Seite 25 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+Kontrolle der korrekten Umsetzung der Pflichtfunktion P1-50  des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die folgenden übernahmerelevanten Parameter  d.h. Geschlecht, Körpergröße, Körpergewicht, Raucher sowie Begleiterkrankungen  aus einer vorherigen Folgedokumentation vornimmt.
 
-Kontrolle der korrekten Umsetzung der Pflichtfunktion P1-50 des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Datenübernahme der folgenden übernahmerelevanten Parameter  d.h. Geschlecht, Körpergröße, Körpergewicht, Raucher sowie Begleiterkrankungen  aus einer vorherigen Folgedokumentation vornimmt.
 
 ---
 
@@ -815,7 +732,7 @@ Kontrolle der korrekten Umsetzung der Pflichtfunktion P1-50 des Anforderungskata
 
 |  | |
 |---|---|
-| Prüffall | 3940 |
+| - | 3940 |
 | Testziel | › ) |
 | Voraussetzung | › |
 | Prüfunterlagen | › |
@@ -823,18 +740,17 @@ Kontrolle der korrekten Umsetzung der Pflichtfunktion P1-50 des Anforderungskata
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten**  Die Versichertendaten von Malta Lija (XML_**36)** einlesen und speichern.   **2. Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+**1.** **Versichertendaten**  Die Versichertendaten von **Malta Lija (XML_36)** einlesen und speichern.   **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
 | Administrative Daten |  |
 | DMP | Osteoporose |
 | DMP-Fallnummer | 1010 |
-| Datum | 15.08.2025 15.10.2026 |
+| Datum | 1.5.08.2025 15.10.2026 |
 
-Seite 26 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+Prüffall ID Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_OST.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
-ID Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_OST.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -848,18 +764,20 @@ Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automat
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „ Test _109“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „
 
-Name               Typ  Zert_109_SystemID.zip           ZIP-komprimierter Ordner  Dokumentation           Dateiordner   391234511_20260415101010_1_OST_101.idx  IDX-Datei   391234511_20260415101010_1_OST_101.idx.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+### Test
 
-Seite 27 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+_109“ beginnen muss, sonst schlägt die Validierung fehl.
+
+Typ Name                Zert_109_SystemID.zip           ZIP-komprimierter Ordner  Dokumentation          Dateiordner  IDX-Datei   391234511_20260415101010_1_OST_101.idx    391234511_20260415101010_1_OST_101.idx.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 
 ---
 
-**3.1 PRÜFFALL TESTDATENVALIDIERUNG**
+**3.1** **PRÜFFALL TESTDATENVALIDIERUNG**
 
-**3.1.1  Prüffall TDV3918**
+**3.1.1** ** Prüffall TDV3918**
 
 |  |  |
 |---|---|
@@ -871,7 +789,7 @@ Seite 27 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten**  Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und speichern.  **2. Anlegen einer Erstdokumentation**
+**1.** **Versichertendaten**  Die Versichertendaten von  **2.** **Anlegen einer Erstdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | |
 |---|---|
@@ -893,9 +811,9 @@ Seite 27 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 05.04.2022 |
 
-Seite 28 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
+Maria Eichendorf (XML_16) einlesen und speichern.
 
-TDV3918 Anlage einer Erstdokumentation mit der Schnittstellenversion 1.01 DMP OST Dokumentationsunterlagen   15.04.2025 Erkrankungen   15.04.2025
+TDV3918 Anlage einer Erstdokumentation mit der DMP OST Dokumentationsunterlagen Schnittstellenversion 1.01   15.04.2025 Erkrankungen   15.04.2025
 
 ---
 
@@ -917,15 +835,13 @@ TDV3918 Anlage einer Erstdokumentation mit der Schnittstellenversion 1.01 DMP OS
 | Schulung bereits vor Einschreibung in das DMP wahrgenommen | Ja |
 | Schulung empfohlen (bei aktueller Dokumentation) | Ja |
 
-Seite 29 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
-Andere htem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen weniger als drei Jahren
+htem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen Andere weniger als drei Jahren
 
 ---
 
 ## ANHANG
 
-**4.1 PRÜFFALL 10 – ERSATZVERFAHREN**
+**4.1** **PRÜFFALL 10 – ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -933,7 +849,7 @@ Andere htem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen wenig
 | 3120 | Vorsatzwort |  |
 | 3101 | Name | Malta |
 | 3102 | Vorname | Lija |
-| 3103 | Geburtsdatum | 00.01.1900 |
+| 3103 | Geburtsdatum | 0.0.01.1900 |
 | 3104 | Titel |  |
 | 3119 | Versicherten_ID | M000119009 |
 | 3107 | Straße | Malta-Lija-Straße |
@@ -950,14 +866,10 @@ Andere htem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen wenig
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 04 |
 
-Seite 30 von 32 / KBV / Prüfpaket eDMP-Osteoporose /
-
-Version: 1.07 / 31. März 2026
-
 
 ---
 
-## REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -983,10 +895,7 @@ Version: 1.07 / 31. März 2026
 
 4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50  5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.1
 
-________________
-
-Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Versorgung Stammdateien zu verwenden. Testschlüssel DMP_Vn.n.zip -Format zur Verwendung im Rahmen der Zertifizierung. (Datenannahmestellen Stammdatei)Seite 31 von 32 / KBV / Prüfpaket eDMP-Osteoporose / Version: 1.07 / 31. März 2026
-
+Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Versorgung Stammdateien zu verwenden. Testschlüssel DMP_Vn.n.zip -Format zur Verwendung im Rahmen der Zertifizierung. (Datenannahmestellen Stammdatei)
 
 ---
 
@@ -997,7 +906,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 32 von 32 / KBV / Prüfpaket eDMP-Osteoporose /
-
-Version: 1.07 / 31. März 2026

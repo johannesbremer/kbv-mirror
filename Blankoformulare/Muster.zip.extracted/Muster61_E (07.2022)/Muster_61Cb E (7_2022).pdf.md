@@ -1,6 +1,6 @@
 **Ausfertigung für den Vertragsarzt**
 
-## 61 Teil C
+**61 Teil C**
 
 **G. Lebensumstände/Kontextfaktoren**
 
@@ -10,19 +10,19 @@
 
 Bewegungsmangel  FehlhaltungMedikamenteNikotin
 
-**Häusliches Leben (z. B. Einkaufen, Mahlzeiten vorbereiten,** ***Hausarbeit verrichten, anderen Familienmitgliedern helfen)***
+**Häusliches Leben***** (z. B. Einkaufen, Mahlzeiten vorbereiten,*** ***Hausarbeit verrichten, anderen Familienmitgliedern helfen)***
 
-**Interpersonelle Aktivitäten (z. B. Familienbeziehungen aufbauen** ***und aufrechterhalten, soziale Beziehungen aufnehmen)***
+**Interpersonelle Aktivitäten***** (z. B. Familienbeziehungen aufbauen*** ***und aufrechterhalten, soziale Beziehungen aufnehmen)***
 
-**Bedeutende Lebensbereiche (z. B. Arbeit und Beschäftigung,** ***Erziehung und Bildung, wirtschaftliche Eigenständigkeit, sich beschäftigen***  ***können)***
+**Bedeutende Lebensbereiche***** (z. B. Arbeit und Beschäftigung,*** ***Erziehung und Bildung, wirtschaftliche Eigenständigkeit, sich beschäftigen***  ***können)***
 
-**Gemeinschaftsleben und soziales Leben (z. B. am Gemeinschafts-**  ***leben beteiligen, Erholung und Freizeit)***
+**Gemeinschaftsleben und soziales Leben** ***(z. B. am Gemeinschafts-***  ***leben beteiligen, Erholung und Freizeit***
 
-**F. Nicht nur vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe** nicht  durchführbar personelle  Hilfe nötig Einschrän-  kungen keine Beein-  trächtigungen **Lernen und Wissensanwendung ( z. B. Probleme lösen,** ***Entscheidungen treffen)***
+**F. Nicht nur vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe** nicht  durchführbar personelle  Hilfe nötig Einschrän-  kungen keine Beein-  trächtigungen **Lernen und Wissensanwendung** ***z. B. Probleme lösen,*** ***Entscheidungen treffen)***
 
-**Allgemeine Aufgaben und Anforderungen (z. B. tägliche** ***Routine durchführen, mit Belastungen, Krisen sowie Stress umgehen)***
+**Allgemeine Aufgaben und Anforderungen** ***(z. B. tägliche*** ***Routine durchführen, mit Belastungen, Krisen sowie Stress umgehen)***
 
-**Kommunikation (z. B. Konversation betreiben, Mitteilungen schreiben,** ***Kommunikationsgeräte benutzen können)***
+**Kommunikation** ***(z. B. Konversation betreiben, Mitteilungen schreiben,*** ***Kommunikationsgeräte benutzen können)***
 
 Transfer Bett / Stuhl bzw. Rollstuhl
 
@@ -50,7 +50,7 @@ Sonstige
 
 janein**Der/die Patient/in verfügt über ausreichende physische und psychische Belastbarkeit**
 
-### III.Angaben zur Rehabilitationsfähigkeit
+**III. Angaben zur Rehabilitationsfähigkeit**
 
 Sonstiges  ***z.B. Suchtmittel***
 

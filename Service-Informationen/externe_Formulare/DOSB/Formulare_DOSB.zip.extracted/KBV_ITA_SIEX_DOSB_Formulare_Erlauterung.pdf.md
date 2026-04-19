@@ -7,17 +7,12 @@
 |  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026 VERSION 1.00 DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ERLÄUTERUNG DER
-
-# DOSB
-
-# -FORMULARE
+# ERLÄUTERUNG DER DOSB -FORMULARE
 
 ## [KBV_ITA_SIEX_ DOSB_FORMULARE_ERLAUTERUNG]
 
-Seite 1 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
-
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+
 
 ---
 
@@ -27,17 +22,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 |---|---|---|---|---|---|
 | 1.00 | 13.02.2026 | KBV | Bereitstellung |  |  |
 
-Seite 2 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
-
 
 ---
 
 |  | INHALT |  |  |  |  |  |
 |---|---|---|---|---|---|---|
-| 1 |  | ALLGEMEIN |  |  |  | 4 |
+| **1** |  | **ALLGEMEIN** |  |  |  | **4** |
 | Seite | 3 von 5 / | KBV / Erläuterung | der DOSB-Formulare | / 13. | Februar 2026 |  |
 
-Seite 3 von 5  /  KBV  /  Erläuterung der DOSB-Formulare  /  13. Februar 2026
 
 ---
 
@@ -45,9 +37,9 @@ Seite 3 von 5  /  KBV  /  Erläuterung der DOSB-Formulare  /  13. Februar 2026
 
 ## ALLGEMEIN
 
-Die in diesem Verzeichnis bereitgestellten DOSB-Formulare können von den Softwareherstellern freiwillig  den Praxen zur Nutzung zur Verfügung gestellt werden.
+DOSB-Formulare können von den Softwareherstellern freiwillig Die in diesem Verzeichnis bereitgestellten  den Praxen zur Nutzung zur Verfügung gestellt werden.
 
-Bewegungsmangel ist eine gesundheitliche Herausforderung unserer Zeit. Um Ärztinnen und Ärzte in ihrem  präventiven Engagement weiter zu stärken, wurde das „ Rezept für Bewegung “ für Erwachsene und auch  **für Kinder/Jugendliche in einer gemeinsamen Initiative des Deutschen Olympischen Sportbundes, der**  Bundesärztekammer und der Deutschen Gesellschaft für Sportmedizin und Prävention entwickelt und von  weiteren Ärzteverbänden, wie bspw. dem Hausärztinnen- und Hausärzteverband oder dem Berufsverband  der Kinder- und Jugendärzte unterstützt. Ab sofort kann das „Rezept für Bewegung“ als freiwillige Leistung  in die Praxisverwaltungssysteme (PVS) integriert werden.
+Bewegungsmangel ist eine gesundheitliche Herausforderung unserer Zeit. Um Ärztinnen und Ärzte in ihrem  **Rezept für Bewegung für Erwachsene und auch** präventiven Engagement weiter zu stärken, wurde das  **für Kinder/Jugendliche** in einer gemeinsamen Initiative des Deutschen Olympischen Sportbundes, der  Bundesärztekammer und der Deutschen Gesellschaft für Sportmedizin und Prävention entwickelt und von  innen- und Hausärzteverband oder dem Berufsverband weiteren Ärzteverbänden, wie bspw. dem Hausärzt der Kinder- und Jugendärzte unterstützt. Ab sofort kann das „Rezept für Bewegung“ als **freiwillige Leistung**  in die Praxisverwaltungssysteme (PVS) integriert werden
 
 Mit der technischen Umsetzung leisten Sie als PVS-Anbieter einen wichtigen Beitrag zur  Gesundheitsförderung: Sie ermöglichen es, Bewegung niedrigschwellig in den Praxisalltag einzubinden und  Patientinnen und Patienten gezielt zu einem aktiveren Lebensstil zu motivieren.
 
@@ -57,13 +49,11 @@ Bei inhaltlichen Fragen zum Rezept für Bewegung wenden Sie sich bitte direkt an
 
 **Erläuterung der beiden Formulare**
 
-Die beiden vorliegenden Formulare „ Rezept_für_Bewegung-SpG “ und „ Rezept_Kinder_Deutsche  Sportjugend “ sind Empfehlung von Bewegung gemäß nationalen Bewegungsempfehlungen als freiwillige  Präventionsleistung, differenziert nach Kinder- und Erwachsenenvariante:
+Rezept_für_Bewegung-SpG und Rezept_Kinder_Deutsche Die beiden vorliegenden Formulare  sind Empfehlung von Bewegung gemäß nationalen Bewegungsempfehlungen als freiwillige Sportjugend Präventionsleistung, differenziert nach Kinder- und Erwachsenenvariante:
 
-› Das Formular für Kinder enthält die folgenden Informationen:  Hinweise zu Alltagsbewegung, Sport und Bewegung im Verein sowie Schwimmtauglichkeit;  › Das Formular für Erwachsene enthält die folgenden Informationen:  Hinweise zu individuellen Bewegungsschwerpunkten, z. B. Herz-Kreislauf-System, Muskel-Skelett- System), Beide Varianten sind mit Verweis auf wohnortnahe Bewegungsangebote  (Bewegungslandkarte)
+Das Formular für Kinder enthält die folgenden Informationen:  Hinweise zu Alltagsbewegung, Sport und Bewegung im Verein sowie Schwimmtauglichkeit; Das Formular für Erwachsene enthält die folgenden Informationen:  -Kreislauf-System, Muskel-Skelett-Hinweise zu individuellen Bewegungsschwerpunkten, z. B. Herz System), Beide Varianten sind mit Verweis auf wohnortnahe Bewegungsangebote  (Bewegungslandkarte)
 
 Kontakt:
-
-Seite 4 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
 
 
 ---
@@ -72,8 +62,4 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
 Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-Seite 5 von 5 / KBV / Erläuterung der DOSB-
-
-Formulare / 13. Februar 2026
+Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

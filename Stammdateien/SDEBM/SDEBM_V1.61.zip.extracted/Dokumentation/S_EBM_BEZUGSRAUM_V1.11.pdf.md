@@ -52,13 +52,11 @@ gültig ab:
 |---|---|
 | 8 | im Krankheitsfall |
 
-Seite 1 von 1.2.276.0.76.5.226
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM 1.2.276.0.76.5.226
 
 1.11
 
 01.04.2024
-
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM
 
 **Bezeichnung**
 
@@ -103,10 +101,8 @@ im Zyklusfall
 
 ---
 
-| Code | Bezeichnung |
+| **Code** | **Bezeichnung** |
 |---|---|
 | 9 | im Reproduktionsfall |
 
-Seite 2 von
-
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM
+Seite 2 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM

@@ -1,34 +1,44 @@
-**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT**  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12.20 21
+### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
+
+gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
-Kundennummer:  BGL-Nummer:
+Kundennummer:
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
+Patient/in befindet sich seit _____________
 
 Letzte Behandlung am _________________
 
 **Welche Leistung wird beantragt (Frage ist nur zu beantworten, falls die aktuelle Verordnung durch Sie**  **erfolgt ist)?**
 
- Einlagen Schuhzurichtung Maßschuhe
+[ ]
 
- manuell  elektrisch technische Hilfe (bitte näher beschreiben):
+[ ]
 
 **Nähere Beschreibung der technischen Hilfen:**
 
+Einlagen
+
+technische Hilfe (bitte näher beschreiben):
+
+[ ]
+
 **Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:**
 
- Rückenschmerzen: HWS  BWS  LWS
+[ ] Rückenschmerzen:
 
- Beinverkürzung: rechts links
+[ ] Beinverkürzung:
 
- rechts links Beckenschiefstand:
+[ ]
 
- rechts links Kniebeschwerden:
+[ ] Beckenschiefstand:
 
- Sonstige (bitte benennen):
+[ ] Kniebeschwerden:
+
+[ ] Sonstige (bitte benennen): ____________________________________________________________
 
 _____________________________________________________________________________________
 
@@ -38,7 +48,45 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21.
+
+regelmäßig [ ]
+
+Schuhzurichtung
+
+HWS
+
+[ ]
+
+[ ]
+
+[ ]
+
+12
+
+BGL-Nummer:
+
+gelegentlich [ ]
+
+manuell[ ]
+
+[ ] BWS
+
+rechts
+
+rechts
+
+rechts
+
+[ ]
+
+[ ]
+
+17 12
+
+nicht in meiner Behandlung
+
+Maßschuhe
 
 [ ]
 
@@ -50,60 +98,37 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 
 [ ]
 
-[ ]
+.2021
 
-[ ]
+elektrisch
 
-[ ]
+LWS
 
-[ ]
+links
 
-____________________________________________________________
+links
 
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
-
-[ ]
+links
 
 
 ---
 
-|  | Begründung | der | Notwendigkeit |  | (beispielweise: |  | Diagnose, |  | Funktionseinschränkungen, | | | etc.) des |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Fußschutzes | oder der |  | technischen | Hilfen : |  |  |  |  |  |  |  |  |
-| Sofern |  | orthopädisches |  | Schuhwerk | oder | Einlagen | beantragt | wurde: | M uss | das | Schuhwerk | bzw. die |  |
-|  | Einlagen | ganztags | getragen | werden? |  |  |  |  |  |  |  |  |  |
-|  |  | ja |  |  |  |  |  |  |  |  | nein |  |  |
-| Seit | wann | besteht | die | gesundheitliche |  | Beeinträchtigung? | |  |  |  |  |  |  |
-|  | Seit: | _______________ | |  |  |  |  |  |  |  |  |  |  |
-| Bisher | verordnete |  | Hilfsmittel |  | (beispielweise | Orthesen, |  | Prothesen, | Bandagen, | etc.). | Bitte | geben | Sie auch |
-| einen | Hinweis, | weshalb | diese | aus Ihrer | Sicht | nicht | ausreichend | | sind: |  |  |  |  |
-| AM 6-ÄD | – | 1900.8_Befundbericht_BÄK_ |  | Fußschutz_Einlagen_Technische_Hilfen_21. | | 12 |  |  |  |  |  |  |  |
+**Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des**  **Fußschutzes oder der technischen Hilfen**
 
-Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des Fußschutzes oder der technischen Hilfen Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: M uss das Schuhwerk bzw. die Einlagen ganztags getragen werden? Seit wann besteht die gesundheitliche Beeinträchtigung? Seit: _______________ Bisher verordnete Hilfsmittel (beispielweise Orthesen, Prothesen, Bandagen, etc.). Bitte geben Sie auch einen Hinweis, weshalb diese aus Ihrer Sicht nicht ausreichend sind: AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12 [ ] [ ]
+**Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die**  **Einlagen ganztags getragen werden?**
+
+janein
+
+**Seit wann besteht die gesundheitliche Beeinträchtigung?**
+
+Seit: _______________
+
+**Bisher verordnete Hilfsmittel (beispielweise Orthesen, Prothesen, Bandagen, etc.). Bitte geben Sie auch**  **einen Hinweis, weshalb diese aus Ihrer Sicht nicht ausreichend sind:**
+
+12
+
+[ ][ ]
+
 
 ---
 
@@ -113,11 +138,11 @@ Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift
+___________________________  Ort, Datum  Stempel und Unterschrift 12
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12 5FNUXIHUEHWHQ[ ]
+[ ]
 
-%LWWHVHQGHQ6LHPLU,KU*XWDFKWHQ,KUHJXWDFKWHUOLFKHbX‰HUXQJ]X[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+[ ]
 
 [ ]
 
@@ -140,20 +165,18 @@ An den
 
 Ärztlichen Dienst der  Agentur für Arbeit
 
-### Liquidation
+## Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
 | Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisung auf das folgende Konto:
-
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12
+Ich bitte um Überweisung auf das folgende Konto: 12
 
 | Kontoinhaber/in |
 |---|
@@ -161,4 +184,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 | BIC: |
 | Bank/Sparkasse: |
 
-für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

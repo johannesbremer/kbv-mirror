@@ -1,54 +1,200 @@
 ## TOP 20 Systeme - Laborärzte
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-706 **MOLIS**CGM LAB International GmbH2831-3
+7.06 **MOLIS**
 
-721 **David**Medat Computersysteme GmbH18171
+7.21 **David**
 
-347 **Opus::L Labormanagementsystem** Dedalus Labor GmbH15150
+3.47 **Opus::L Labormanagementsystem**
 
-704 **PROMED-open / X-PROMED** Clinisys Deutschland GmbH1416-2
+7.04 **PROMED-open / X-PROMED**
 
-716 **Melos-Labor-System**LABLIONS software & solutions GmbH14131
+7.16 **Melos-Labor-System**
 
-409 **i/med Billing**Dorner GmbH & Co. KG11110
+4.09 **i/med Billing**
 
-263 **Clinisys vianova Labor**Clinisys Deutschland GmbH1082
+2.63 **Clinisys vianova Labor**
 
-729 **GLIMS**Clinisys Deutschland GmbH990
+7.29 **GLIMS**
 
-493 **LX**labsolution S.à.r.l & Co.KG981
+4.93 **LX**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 871
+2.10 **Medical Office**
 
-725 **NEXUS / SWISSLAB**NEXUS SWISSLAB GmbH880
+7.25 **NEXUS / SWISSLAB**
 
-375 **H&S Laborsoftware**Limbach Gruppe SE770
+3.75 **H&S Laborsoftware**
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG68-2 1
+2.80 **CGM MEDISTAR BLACK PRO**
+
+CGM LAB International GmbH
+
+Medat Computersysteme GmbH
+
+Dedalus Labor GmbH
+
+Clinisys Deutschland GmbH
+
+LABLIONS software & solutions GmbH
+
+Dorner GmbH & Co. KG
+
+Clinisys Deutschland GmbH
+
+Clinisys Deutschland GmbH
+
+labsolution S.à.r.l & Co.KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+NEXUS SWISSLAB GmbH
+
+Limbach Gruppe SE
+
+CompuGroup Medical Deutschland AG 1
+
+2.8
+
+1.8
+
+1.5
+
+1.4
+
+1.4
+
+1.1
+
+1.0
+
+9
+
+9
+
+8
+
+8
+
+7
+
+6
+
+3.1
+
+1.7
+
+1.5
+
+1.6
+
+1.3
+
+1.1
+
+8
+
+9
+
+8
+
+7
+
+8
+
+7
+
+8
+
+-3
+
+1
+
+0
+
+-2
+
+1
+
+0
+
+2
+
+0
+
+1
+
+1
+
+0
+
+0
+
+-2
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-703 **ELADIS**LabKom Biochemische Dienstleistungen GmbH 550
+7.03 **ELADIS**
 
-216 **x.isynet**medatixx GmbH & Co. KG45-1
+2.16 **x.isynet**
 
-254 **ORBIS®**Dedalus HealthCare GmbH440
+2.54 **ORBIS®**
 
-740 **LabCentre**Mesalvo Mannheim GmbH45-1
+7.40 **LabCentre**
 
-343 **SAP Ambulatory Care Management** SAP SE34-1
+3.43 **SAP Ambulatory Care Management**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG34-1
+2.52 **CGM M1 PRO**
 
-488 **inSuite**Doc Cirrus GmbH321 2
+4.88 **inSuite**
+
+LabKom Biochemische Dienstleistungen GmbH
+
+medatixx GmbH & Co. KG
+
+Dedalus HealthCare GmbH
+
+Mesalvo Mannheim GmbH
+
+SAP SE
+
+CompuGroup Medical Deutschland AG
+
+Doc Cirrus GmbH 5
+
+4
+
+4
+
+4
+
+3
+
+3
+
+3
+
+2
+
+50
+
+5-1
+
+40
+
+5-1
+
+4-1
+
+4-1
+
+21

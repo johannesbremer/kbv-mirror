@@ -22,4 +22,10 @@ Schlüsseltabelle: S_KBV_KV
 
 **01.01.2010**
 
-**Bezeichnung** Schleswig-Holstein Hamburg Bremen Niedersachsen Westfalen-Lippe Nordrhein Hessen Rheinland-Pfalz Baden-Württemberg Bayerns Berlin Saarland KBV Mecklenburg-Vorpommern Brandenburg Sachsen-Anhalt 1
+**Bezeichnung** Schleswig-Holstein Hamburg
+
+Bremen Niedersachsen Westfalen-Lippe Nordrhein Hessen Rheinland-Pfalz Baden-Württemberg Bayerns
+
+Berlin Saarland
+
+KBV Mecklenburg-Vorpommern Brandenburg Sachsen-Anhalt 1

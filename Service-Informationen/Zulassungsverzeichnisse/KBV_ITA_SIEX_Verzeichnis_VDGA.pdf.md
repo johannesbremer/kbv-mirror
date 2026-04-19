@@ -1,14 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
-# FÜR DIE VERORDNUNG DIGITALER
-
-# GESUNDHEITSANWENDUNGEN
-
-### IT IN DER ARZTPRAXIS
+## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -17,10 +13,10 @@
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
+|  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 |  | Y/451/2601/36/062 | 31.12.2028 |  |
 |---|---|---|---|
@@ -35,15 +31,10 @@
 |  | Y/451/2511/38/078 | 31.12.2028 |  |
 |  | Y/450/2407/36/078 | 30.06.2027 |  |
 
-EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2512/37/226 | 31.12.2028 |  |
 |---|---|---|---|
@@ -59,19 +50,19 @@ EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar I
 |  | Y/451/2601/36/203 | 31.12.2028 |  |
 |  | Y/450/2410/36/203 | 30.09.2027 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
-Y/450/2412/37/346 31.12.2027
+Y/450/2412/37/346
 
-CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico Windows TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows WindowsWindows
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico Windows TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows Windows31.12.2027 Windows
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2512/37/023 | 31.12.2028 |  |
 |---|---|---|---|
@@ -87,15 +78,16 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |  | Y/451/2508/36/060 | 31.07.2028 |  |
 |  | Y/450/2410/36/060 | 30.09.2027 |  |
 
-DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Linux CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Windows CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsSeite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Linux CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Windows CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2601/36/254 | 31.12.2028 |  |
 |---|---|---|---|
@@ -111,15 +103,14 @@ DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 |  | Y/451/2602/35/602 | 31.12.2028 |  |
 |  | Y/450/2410/36/602 | 30.09.2027 |  |
 
-ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com Windows IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com Windows inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de iOS/Android Linux Mac OS Sonstige Windows LinuxSeite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
+ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com Windows IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com Windows inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de iOS/Android Linux Mac OS Sonstige Windows Linux
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2601/36/086 | 31.12.2028 |  |
 |---|---|---|---|
@@ -135,15 +126,14 @@ ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.
 |  | Y/451/2601/36/223 | 31.12.2028 |  |
 |  | Y/450/2407/36/223 | 30.06.2027 |  |
 
-DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Windows Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de Linux Mac OS Windows PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows WindowsSeite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
+DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Windows Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de Linux Mac OS Windows PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2602/38/244 | 31.03.2029 |  |
 |---|---|---|---|
@@ -157,19 +147,21 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Wind
 |---|---|---|---|
 |  | X/450/2407/36/617 | 30.06.2027 |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
-Y/450/2502/38/616 31.03.2028
+Y/450/2502/38/616
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.03.2028
 
 QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de ID MEDICS ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de Linux Mac OS Windows WindowsiOS/Android Linux Mac OS Windows
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **DynaMed**
 
@@ -185,19 +177,19 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 |  | Y/451/2603/37/406 | 31.03.2029 |  |
 |  | Y/450/2507/36/406 | 30.06.2028 |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
-Y/450/2410/36/642 30.09.2027
+Y/450/2410/36/642
 
-Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de Mac OS Windows WindowsWindows
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de esQlab.online IQVIA Commercial GmbH & Co OHG Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de Mac OS Windows Windows30.09.2027 Windows
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2511/38/135 | 31.12.2028 |  |
 |---|---|---|---|
@@ -213,15 +205,14 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |  | Y/451/2507/42/030 | 31.12.2028 |  |
 |  | Y/450/2407/36/030 | 30.06.2027 |  |
 
-EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows Verordnungsmodul medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows WindowsSeite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
+EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows Verordnungsmodul medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2603/37/192 | 31.03.2029 |  |
 |---|---|---|---|
@@ -233,15 +224,14 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |  | Y/451/2602/35/015 | 31.12.2028 |  |
 |  | Y/450/2411/38/015 | 31.12.2027 |  |
 
-MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS WindowsSeite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
+MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Windows Mac OS Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **M-KIS**
 
@@ -257,11 +247,18 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 |  | Y/451/2601/36/299 | 31.12.2028 |  |
 |  | Y/450/2407/36/299 | 30.06.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
 Y/450/2407/36/290
 
-Y/450/2503/37/494 30.06.2027
+Y/450/2503/37/494
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2027
 
 31.03.2028
 
@@ -271,11 +268,6 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2603/37/208 | 31.03.2029 |  |
 |---|---|---|---|
@@ -291,15 +283,14 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |  | Y/451/2507/36/348 | 30.06.2028 |  |
 |  | Y/450/2410/36/348 | 30.09.2027 |  |
 
-NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de Windows Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de Windows PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de Windows WindowsSeite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
+NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.de Windows Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de Windows PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de Windows Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2603/37/456 | 31.03.2029 |  |
 |---|---|---|---|
@@ -315,15 +306,16 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |  | Y/451/2601/36/171 | 31.12.2028 |  |
 |  | Y/450/2410/36/171 | 30.09.2027 |  |
 
-RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE iOS/Android Linux Mac OS Sonstige Windows S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de Sonstige Windows SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de Sonstige Windows WindowsSeite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
 
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE iOS/Android Linux Mac OS Sonstige Windows S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de Sonstige Windows SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de Sonstige Windows Windows
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 |  | Y/451/2601/36/230 | 31.12.2028 |  |
 |---|---|---|---|
@@ -343,20 +335,25 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 |  | Y/451/2509/40/313 | 31.12.2028 |  |
 |  | Y/450/2407/36/313 | 30.06.2027 |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+Y/450/2411/38/231
 
-Y/450/2411/38/231 31.12.2027
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.12.2027
 
 QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Windows principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien Linux Windows T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de iOS/Android Linux Mac OS Windows WindowsLinux Windows
 
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
+|  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 |  | Y/451/2509/40/457 | 31.12.2028 |  |
 |  | Y/450/2407/36/457 | 30.06.2027 |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OSSeite 15 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 11. April 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS

@@ -9,11 +9,10 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version |
+|  | 1.01 |
 |  |  |
 
-selendoskopie Informationstechnik, Telematik und Telemedizin 1.01 Datum: 21.01.2015 Kennzeichnung: Öffentlich  Status:   In Kraft
-
+selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Kennzeichnung: Status:   21.01.2015 Öffentlich  In Kraft
 
 ---
 
@@ -21,73 +20,45 @@ selendoskopie Informationstechnik, Telematik und Telemedizin 1.01 Datum: 21.01.2
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.01 | 21.01.2015 | KBV | Plausibilitäten bei Para- Redaktionelle Korrektur | Möglichkeit der Doppe | 6, 7  5 |
-| 1.00 | 31.07.2014 | KBV | Initiales Dokument |  |  |
+| 1.01 | 21.01.2015 KBV |  | Plausibilitäten bei Para- Redaktionelle Korrektur | Möglichkeit der Doppe | 6, 7  5 |
+| 1.00 | 31.07.2014 KBV |  | Initiales Dokument |  |  |
 
-***IT in der Arztpraxis*** Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE]
-
-* Version: 1.0
+* Version:
 
 *1*
-
-Seite 2 von 8
 
 metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksichtigt
 
 ---
 
-### INHALTSVERZEICHNIS
+**INHALTSVERZEICHNIS**
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
 **INHALTSVERZEICHNIS_____________________________________________________ 3**
 
-**1 PRÄAMBEL ___________________________________________________________ 4**
+**1** **PRÄAMBEL ___________________________________________________________ 4**
 
-**1.1 Qualitätssicherungsvereinbarung Kapselendoskopie** **...............................................................4**
+**1.1** **Qualitätssicherungsvereinbarung Kapselendoskopie** **...............................................................4**  **1.2** **Hinweise zum Verständnis dieses Dokuments ...........................................................................4**  1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4  1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
 
-**1.2 Hinweise zum Verständnis dieses Dokuments ...........................................................................4**
+**2** **BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5**
 
-1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4
-
-1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
-
-**2 BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5**
-
-**3 REFERENZIERTE DOKUMENTE __________________________________________ 8**
-
-**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-Seite 3 von 8
+**3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
 
 
 ---
 
-**1**
+## Präambel
 
-### Präambel
+**1**  **1.1 Qualitätssicherungsvereinbarung Kapselendoskopie**
 
-### 1.1
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah- resstatistik an die zuständige Datenannahmestelle übermittelt.   **1.2 Hinweise zum Verständnis dieses Dokuments**
 
-### Qualitätssicherungsvereinbarung Kapselendoskopie
+Zum Verständnis der unten stehenden Plausibilitätstabelle helfen nachfolgende Hinweise.  Die Tabelle in Abschnitt 2 ist entsprechend §8 der QS-Vereinbarung QSKE [1] nummeriert.   **Beschreibung der Spalte „Art“ 1.2.1**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.  **M = Mussfeld (Pflichtfeld)**   Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**   Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung **Hinweis:**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.    **K = Kannfeld (optionales Feld)**   Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.   **k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah- resstatistik an die zuständige Datenannahmestelle übermittelt.
+**darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
 
-### 1.2
-
-### Hinweise zum Verständnis dieses Dokuments
-
-Zum Verständnis der unten stehenden Plausibilitätstabelle helfen nachfolgende Hinweise.  Die Tabelle in Abschnitt 2 ist entsprechend §8 der QS-Vereinbarung QSKE [1] nummeriert.   **1.2.1 Beschreibung der Spalte „Art“**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.   **M = Mussfeld (Pflichtfeld)**   Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**   Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   **Hinweis: Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.    **K = Kannfeld (optionales Feld)**   Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.   **k = bedingtes Kannfeld (bedingtes optionales Feld)**   Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld darf nicht vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht erfüllt ist.**    **1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“**  **Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.   **Warnung**  Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen werden.
-
-**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-Seite 4 von 8
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld  **nicht** erfüllt ist.    **Beschreibung der Begriffe „Fehler“ und „Warnung“ 1.2.2**  **Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.   **Warnung**  Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen werden.
 
 
 ---
@@ -95,53 +66,48 @@ Seite 4 von 8
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |---|---|---|---|---|
 | 0. Einreichungsinformationen (Metadaten zur korrekten Zuordnung der Einreichung) | | | | |
-| 0.a | Jahr | 4-stellige Jahreszahl JJJJ | M | Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ |
-| 0.b | LANR | Numerischer String; 9 Zeichen 000000000-999999999 | M |  |
-| 0.c | BSNR | Numerischer String; 9 Zeichen 000000000-999999999 | M |  |
+| 0.a |  | 4-stellige Jahreszahl JJJJ | M | Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ |
+| 0.b |  | Numerischer String; 9 Zeichen 000000000-999999999 | M |  |
+| 0.c |  | Numerischer String; 9 Zeichen 000000000-999999999 | M |  |
 | 1. Anzahl Kapselendoskopien | | | | |
-| 1.a | Anzahl durchgeführter Erstunter- | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 |
-| 1.b | Anzahl durchgeführter Wiederho- | Ganzzahl 0-99999 | M | |
+| 1.a | suchungen | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 |
+| 1.b | lungsuntersuchungen | Ganzzahl 0-99999 | M | |
 | 2. Auslassmöglichkeit blutungsfördernder Medikation | | | | |
-| 2.a | nicht zutreffend, da keine blu- | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 2.a + Feld 2.b + Feld 2.c) ungleich (Feld 1.a + Feld 1.b) |
-| 2.b | Anzahl Kapselendoskopien mit | Ganzzahl 0-99999 | M | |
-| 2.c | Anzahl Kapselendoskopien ohne | Ganzzahl 0-99999 | M | |
+| 2.a | tungsfördernde Medikation | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 2.a + Feld 2.b + Feld 2.c) ungleich (Feld 1.a + Feld 1.b) |
+| 2.b | Auslassung | Ganzzahl 0-99999 | M | |
+| 2.c | Auslassung | Ganzzahl 0-99999 | M | |
 | 3. Auswertung der Kapselendoskopie | | | | |
-| 3.a | Anzahl der selbst applizierten | Ganzzahl 0-99999 | M | Warnung, wenn (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
-| 3.b | Anzahl der an einen anderen Arzt | Ganzzahl 0-99999 | M | |
+| 3.a | und auch selbst ausgewerteten | Ganzzahl 0-99999 | M | Warnung, wenn (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
+| 3.b | beauftragten Auswertungen |  | M | |
 | 2 | Nr. | Feldbezeichnung Ausprägung/ | Datenformat | Art |
 | Beschreibung (Bedingung/Plausibilität/Erläuterung) | | | | |
-|  |  |  | Jahr | 4-stellige Jahreszahl JJJJ M Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ 0.b LANR Numerischer String; |
+|  |  |  |  | 4-stellige Jahreszahl JJJJ M Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ 0.b Numerischer String; |
 | M |  | 0.c |  | |
 |  | | | | |
-| BSNR | Numerischer String; 9 Zeichen 000000000-999999999 M  1. Anzahl Kapselendoskopien 1.a Anzahl durchgeführter Erstunter- Ganzzahl 0-99999 M Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 1.b Anzahl durchgeführter Wiederho- Ganzzahl 0-99999 M 2. Auslassmöglichkeit blutungsfördernder Medikation 2.a nicht zutreffend, da keine blu- Ganzzahl 0-99999 M   Fehler, wenn (Feld 2.a + Feld 2.b + Feld 2.c) ungleich (Feld 1.a + Feld 1.b) 2.b | | | |
-| Anzahl Kapselendoskopien mit |  | 2.c |  | |
+|  | Numerischer String; 9 Zeichen 000000000-999999999 M  1. Anzahl Kapselendoskopien 1.a suchungen Ganzzahl 0-99999 M Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 1.b lungsuntersuchungen Ganzzahl 0-99999 M 2. Auslassmöglichkeit blutungsfördernder Medikation 2.a tungsfördernde Medikation Ganzzahl 0-99999 M   Fehler, wenn (Feld 2.a + Feld 2.b + Feld 2.c) ungleich (Feld 1.a + Feld 1.b) 2.b | | | |
+| Auslassung |  | 2.c |  | |
 |  | | | | |
 | M | 3.a |  |  | |
 | M |  |  |  | |
 |  | | | | |
-|  | 3.b Anzahl der an einen anderen Arzt Ganzzahl 0-99999 M | | | |
+|  | 3.b beauftragten Auswertungen M | | | |
 |  |  |  |  | |
 |  | | | | |
 |  | | | | |
 |  |  |  |  | |
 | 2 | Nr. | Feldbezeichnung Ausprägung/ | Datenformat | Art |
-| 0. Einreichungsinformationen (Metadaten zur korrekten Zuordnung der Einreichung) | 0.a |  |  | Jahr 4-stellige Jahreszahl JJJJ M Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ 0.b LANR Numerischer String; 9 Zeichen 000000000-999999999 M  0.c BSNR Numerischer String; 9 Zeichen 000000000-999999999 M  1. Anzahl Kapselendoskopien 1.a |
-| Anzahl durchgeführter Erstunter- | Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 |  |  | |
+| 0. Einreichungsinformationen (Metadaten zur korrekten Zuordnung der Einreichung) | 0.a |  |  | 4-stellige Jahreszahl JJJJ M Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ 0.b Numerischer String; 9 Zeichen 000000000-999999999 M  0.c Numerischer String; 9 Zeichen 000000000-999999999 M  1. Anzahl Kapselendoskopien 1.a |
+| suchungen | Fehler, wenn (Feld 1.a + Feld 1.b) gleich 0 |  |  | |
 |  | | | | |
-|  |  | Anzahl durchgeführter Wiederho- | Ganzzahl 0-99999 | |
+|  |  | lungsuntersuchungen | Ganzzahl 0-99999 | |
 | M | | | | |
-|  |  | nicht zutreffend, da keine blu- | Ganzzahl 0-99999 | |
+|  |  | tungsfördernde Medikation | Ganzzahl 0-99999 | |
 | M | | | | |
 | Fehler, wenn |  |  |  | |
 |  | | | | |
-|  |  |  | 2.b | Anzahl Kapselendoskopien mit Ganzzahl 0-99999 M 2.c Anzahl Kapselendoskopien ohne Ganzzahl 0-99999 M 3. Auswertung der Kapselendoskopie 3.a Anzahl der selbst applizierten Ganzzahl 0-99999 M Warnung, wenn (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
+|  |  |  | 2.b | Auslassung Ganzzahl 0-99999 M 2.c Auslassung Ganzzahl 0-99999 M 3. Auswertung der Kapselendoskopie 3.a und auch selbst ausgewerteten Ganzzahl 0-99999 M Warnung, wenn (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
 
-**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungsfördernde Medikation Auslassung Auslassung und auch selbst ausgewerteten beauftragten Auswertungen Seite 5 von 8
-
+Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter Erstunter-  Anzahl durchgeführter Wiederho-  nicht zutreffend, da keine blu-  Anzahl Kapselendoskopien mit  Anzahl Kapselendoskopien ohne  Anzahl der selbst applizierten  Anzahl der an einen anderen Arzt Ganzzahl 0-99999
 
 ---
 
@@ -159,26 +125,26 @@ Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungs
 |  | 5.a |  |  | |
 | Ganzzahl 0-99999 |  |  | 5.b.I | |
 |  | | | | |
-|  |  |  | 5.b.II | …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht)    Anzahl vollständiger Untersuchungen |
+|  |  |  | 5.b.II  …wegen eingeschränkter Sicht | Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) |
 | Fehler, wenn |  |  |  | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 | 4. Befundklassifikation | | | | |
-| 4.a | Anzahl | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 4.a + Feld 4.b) ungleich (Feld 3.a + Feld 3.b) |
-| 4.b | Anzahl | Ganzzahl 0-99999 | M | |
+| 4.a | Untersuchungen mit | Ganzzahl 0-99999 | M | Fehler, wenn (Feld 4.a + Feld 4.b) ungleich (Feld 3.a + Feld 3.b) |
+| 4.b | Untersuchungen ohne | Ganzzahl 0-99999 | M | |
 | 5. Beurteilbarkeit des Bildmaterials | | | | |
 | Anzahl Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | Fehler, wenn (Feld 5.a + Feld 5.b.I + Feld 5.b.II) kleiner als (Feld 3.a + Feld 3.b)  Warnung, wenn (Feld 5.a + Feld 5.b.I + Feld 5.b.II) größer als (Feld 3.a + Feld 3.b)   Fehler, wenn Feld 5.a größer als (Feld 3.a + Feld 3.b)  Fehler, wenn Feld 5.b.I größer als (Feld 3.a + Feld 3.b - Feld 5.a)  Fehler, wenn Feld 5.b.II größer als (Feld 3.a + Feld 3.b - Feld 5.a) | | | |
-| 5.a | Anzahl Kapselendoskopien mit | Ganzzahl 0-99999 | M | |
+| 5.a | nicht eingeschränkter Beurteil- | Ganzzahl 0-99999 | M | |
 | Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- | | | | |
-| 5.b.I | …wegen technischer Probleme | Ganzzahl 0-99999 | M | |
-| 5.b.II | …wegen eingeschränkter Sicht | Ganzzahl 0-99999 | M | |
+| 5.b.I |  | Ganzzahl 0-99999 | M | |
+| 5.b.II  …wegen eingeschränkter Sicht |  | Ganzzahl 0-99999 | M | |
 | 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) | | | | |
-| Anzahl vollständiger Untersuchungen | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) | | | |
-| 6.a | Anzahl vollständiger Untersu- | Ganzzahl 0-99999 | M | |
+|  | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) | | | |
+| 6.a | chungen | Ganzzahl 0-99999 | M | |
 | Anzahl unvollständiger Untersuchungen | | | | |
 | unvollständig aufgrund von Retention im Magen | | | | |
-| 6.b.I.01 | bis zu unter 1 Stunde im Magen | Ganzzahl 0-99999 | M | |
+| 6.b.I.01 bis zu unter 1 Stunde im Magen |  | Ganzzahl 0-99999 | M | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
-|  |  | Anzahl | Ganzzahl 0-99999 | M Fehler, wenn (Feld 4.a + Feld 4.b) ungleich (Feld 3.a + Feld 3.b) 4.b Anzahl Ganzzahl 0-99999 M 5. Beurteilbarkeit des Bildmaterials    Anzahl Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit Fehler, wenn (Feld 5.a + Feld 5.b.I + Feld 5.b.II) kleiner als (Feld 3.a + Feld 3.b) |
+|  |  | Untersuchungen mit | Ganzzahl 0-99999 | M Fehler, wenn (Feld 4.a + Feld 4.b) ungleich (Feld 3.a + Feld 3.b) 4.b Untersuchungen ohne Ganzzahl 0-99999 M 5. Beurteilbarkeit des Bildmaterials    Anzahl Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit Fehler, wenn (Feld 5.a + Feld 5.b.I + Feld 5.b.II) kleiner als (Feld 3.a + Feld 3.b) |
 |  | (Feld 5.a + Feld 5.b.I + Feld 5.b.II) größer als (Feld 3.a + Feld 3.b) |  |  | |
 |  | | | | |
 |  |  |  | Fehler, wenn Feld 5.a größer als (Feld 3.a + Feld 3.b) | |
@@ -187,28 +153,23 @@ Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungs
 |  | | | | |
 |  |  |  | Fehler, wenn Feld 5.b.II größer als (Feld 3.a + Feld 3.b - Feld 5.a) | |
 |  | | | | |
-|  |  |  |  | 5.a Anzahl Kapselendoskopien mit  Ganzzahl 0-99999 M    Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- 5.b.I …wegen technischer Probleme  Ganzzahl 0-99999 M 5.b.II …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht)    Anzahl vollständiger Untersuchungen |
+|  |  |  |  | 5.a nicht eingeschränkter Beurteil-  Ganzzahl 0-99999 M    Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- 5.b.I  Ganzzahl 0-99999 M 5.b.II  …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) |
 
-**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-Untersuchungen mit Nachweis einer Blutungsquelle Untersuchungen ohne Nachweis einer Blutungsquelle nicht eingeschränkter Beurteil- pelnennung möglich) ……  (nur einen Hauptgrund an- geben) Seite 6 von 8
-
+Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich) ……  …wegen technischer Probleme    Anzahl vollständiger Untersuchungen  Anzahl vollständiger Untersu- geben)  (nur einen Hauptgrund an-
 
 ---
 
 |  |  | Datenformat |  |  |
 |---|---|---|---|---|
-| 6.b.I.02 | | | | |
-| von 1 bis unter 2 Stunden im |  |  |  |  |
+| 6.b.I.02 von 1 bis unter 2 Stunden im | | | | |
+| Magen |  |  |  |  |
 | Fehler, wenn |  |  |  |  |
 |  | Feld 6.b.IV) | ungleich | (Feld 3.a + Feld 3.b) |  |
 |  | | | | |
-|  | 6.b.I.03 |  |  | mehr als 2 Stunden im Magen  Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen |
+|  | 6.b.I.03 mehr als 2 Stunden im Magen |  |  | Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen |
 |  | Ganzzahl 0-99999 | M | unvollständig aufgrund von Divertikeln | |
 |  | | | | |
-|  | Ganzzahl 0-99999 | M | unvollständig aufgrund anderer Ursachen | 6.b.IV  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 |
+|  | Ganzzahl 0-99999 | M | unvollständig aufgrund anderer Ursachen | 6.b.IV  Anzahl unvollständiger Untersu- chungen aufgrund anderer Ursa- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 |
 | M |  |  | (Feld 3.a + Feld 3.b - Feld 5.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld | |
 |  |  |  |  | |
 |  | | | | |
@@ -219,7 +180,7 @@ Untersuchungen mit Nachweis einer Blutungsquelle Untersuchungen ohne Nachweis ei
 |  | Ganzzahl 0-99999 | M |  | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + |
 |  |  |  |  | |
 |  | | | | |
-| Feld 6.b.IV) | ungleich (Feld 3.a + Feld 3.b)  6.b.I.03 mehr als 2 Stunden im Magen  Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen 6.b.II Anzahl Ganzzahl 0-99999 M               unvollständig aufgrund von Divertikeln 6.b.III  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M               unvollständig aufgrund anderer Ursachen 6.b.IV  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 Anzahl Wiederholungsuntersu- Ganzzahl 0-99999 M | | | |
+| Feld 6.b.IV) | ungleich (Feld 3.a + Feld 3.b)  6.b.I.03 mehr als 2 Stunden im Magen  Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen 6.b.II  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M               unvollständig aufgrund von Divertikeln 6.b.III  Anzahl unvollständiger Untersu- chungen aufgrund von Divertikeln Ganzzahl 0-99999 M               unvollständig aufgrund anderer Ursachen 6.b.IV  Anzahl unvollständiger Untersu- chungen aufgrund anderer Ursa- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 chung empfohlen aufgrund von Ganzzahl 0-99999 M | | | |
 |  |  |  |  | |
 |  | | | | |
 |  |  | 6.b.II + Feld 6.b.III + Feld 6.b.IV) |  | |
@@ -231,23 +192,18 @@ Untersuchungen mit Nachweis einer Blutungsquelle Untersuchungen ohne Nachweis ei
 |  | | | | |
 |  |  |  |  | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
-| 6.b.I.02 | von 1 bis unter 2 Stunden im | Ganzzahl 0-99999 | M | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) |
-| 6.b.I.03 | mehr als 2 Stunden im Magen | Ganzzahl 0-99999 | M | |
+| 6.b.I.02 von 1 bis unter 2 Stunden im | Magen | Ganzzahl 0-99999 | M | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) |
+| 6.b.I.03 mehr als 2 Stunden im Magen |  | Ganzzahl 0-99999 | M | |
 | unvollständig aufgrund von Stenosen | | | | |
-| 6.b.II | Anzahl | Ganzzahl 0-99999 | M | |
+| 6.b.II  Anzahl | unvollständiger Untersu- | Ganzzahl 0-99999 | M | |
 | unvollständig aufgrund von Divertikeln | | | | |
-| 6.b.III | Anzahl unvollständiger Untersu- | Ganzzahl 0-99999 | M | |
+| 6.b.III  Anzahl unvollständiger Untersu- | chungen aufgrund von Divertikeln | Ganzzahl 0-99999 | M | |
 | unvollständig aufgrund anderer Ursachen | | | | |
-| 6.b.IV | Anzahl unvollständiger Untersu- | Ganzzahl 0-99999 | M | |
+| 6.b.IV  Anzahl unvollständiger Untersu- | chungen aufgrund anderer Ursa- | Ganzzahl 0-99999 | M | |
 | 7. Empfehlung zur Wiederholungsuntersuchung | | | | |
-| 7 | Anzahl Wiederholungsuntersu- | Ganzzahl 0-99999 | M | Warnung, wenn Feld 7 größer als (Feld 3.a + Feld 3.b - Feld 5.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV)   Fehler, wenn Feld 7 größer als (Feld 3.a + Feld 3.b) |
+| 7 | chung empfohlen aufgrund von | Ganzzahl 0-99999 | M | Warnung, wenn Feld 7 größer als (Feld 3.a + Feld 3.b - Feld 5.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV)   Fehler, wenn Feld 7 größer als (Feld 3.a + Feld 3.b) |
 
-**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-chungen aufgrund von Stenosen chungen aufgrund von Divertikeln chungen aufgrund anderer Ursa- chung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 und 6 Seite 7 von 8
-
+chungen aufgrund von Stenosen  Anzahl Wiederholungsuntersu- Einschränkungen gemäß den Nummern 5 und 6
 
 ---
 
@@ -259,8 +215,4 @@ chungen aufgrund von Stenosen chungen aufgrund von Divertikeln chungen aufgrund 
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung |
 
-IT in der Arztpraxis  **Plausibilitätenkatalog Kapselendoskopie**
-
-[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
-
-Kapselendoskopie Seite 8 von 8
+Kapselendoskopie

@@ -9,13 +9,9 @@
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-# ABRECHNUNG VON
-
-# SCHWANGERSCHAFTSABBRÜCHEN
+# ABRECHNUNG VON  SCHWANGERSCHAFTSABBRÜCHEN
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_SADT]
-
-Seite 1 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  / 15. Mai 2024
 
@@ -28,11 +24,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  / 15. Mai 2024
 
 ## ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV ver
 
 |  |  | | |
 |---|---|---|---|
@@ -43,21 +39,24 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragssteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Der Antragssteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
 | Systempfleger [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Seite 2 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen
+antwortlich zeichnet.
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]/ Version: 4.3 / 15. Mai 2024
+/ Version: 4.3 / 15. Mai 2024
 
+Übergabe
+
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
 
 ---
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
 Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
@@ -68,7 +67,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -79,18 +78,12 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+Client-Betriebssysteme unterstützt werden.Bitte geben Sie im Folgenden an, welche
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-Seite 3 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen
-
-Antragssteller:
-
-/ Version: 4.3 / 15. Mai 2024
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
@@ -100,20 +93,20 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ## REALISIERUNG VON ANFORDERUNGEN
 
-**2.1 ANFORDERUNGSDOKUMENTE**
+**2.1** **ANFORDERUNGSDOKUMENTE**
 
 |  |  |
 |---|---|
-| ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibun |
+| ☐ | g KVDT ist das SADT-Datenpaket realisiert |
 | ☐ | Alle für SADT relevanten Pflichtfunktionen des Anforderungskataloges KVDT sind realisiert. |
 
-**2.2 SATZARTEN**
+**2.2** **SATZARTEN**
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Satzart sad1  (ambulante Behandlung) | ☐ | Satzart sad2 (Überweisung) | ☐ | Satzart sad3  (belegärztliche |
 
-**2.3 REALISIERTE OPTIONALE FUNKTIONEN SADT**
+**2.3** **REALISIERTE OPTIONALE FUNKTIONEN SADT**
 
 Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 
@@ -130,13 +123,7 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 |  |  |
 |  |  |
 
-Seite 4 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen
-
-Antragssteller:
-
-/ Version: 4.3 / 15. Mai 2024
-
-g KVDT ist das SADT-Datenpaket realisiert mit › allen Feldern › allen Ausprägungen (erlaubte Inhalte) zu den Feldern › allen Regeln [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[ ] Auf Grundlage der aktuell gültigen Datensatzbeschreibun mit [ ] allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
@@ -161,13 +148,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-* Diese Information ist verpflichtend anzugeben
-
-Antragssteller:
-
-________________
-
-Seite 5 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen / Version: 4.3 / 15. Mai 2024
+Diese Information ist verpflichtend anzugeben
 
 
 ---
@@ -176,61 +157,64 @@ Seite 5 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsa
 
 ## KENNTNISNAHME DURCH DEN ANTRAG
 
-## SSTELLER
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnis davon ob diese Prüfung im Rahmen der ADT Zertifizierung erfolgt. (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate. (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-**I. Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnis- und/oder Sichtprüfung durchgeführt, abhängig  davon ob diese Prüfung im Rahmen der ADT Zertifizierung erfolgt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
-
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | <K^dE/EΦ |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
 |---|---|---|---|
 | SADT | Neu- oder | Sicht- oder | 137,62 [pro Termin] |
 |  | Erweiterungs- | Sicht- oder | 103,22 [pro Satzart] |
 
-**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 
-(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV der Zulassung führen.
 
 (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III. Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
 (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-Antragssteller:
+## SSTELLER
 
-Rezertifizierung Ergebnisprüfung zertifizierung einer neuen Satzart Ergebnisprüfung Seite 6 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen / Version: 4.3 / 15. Mai 2024
+- und/oder Sichtprüfung durchgeführt, abhängig
 
+einer formlosen Änderungsanzeige teilt der
+
+-Vorgaben führen, kann zum Erlöschen
+
+Rezertifizierung zertifizierung einer neuen Satzart Ergebnisprüfung Ergebnisprüfung
 
 ---
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Ğƌ!ŶƚƌĂŐƐƚĞůůĞƌĂŬǌĞƉƚŝĞƌƚĚŝĞ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐĂƵƐĚĞŵŽŬƵŵĞŶƚͣ>ŝǌĞŶǌǀĞƌĞŝŶďĂƌƵŶŐʹ  Software für Softwarehersteller ʹ͞΀KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6)  Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 IV. Sonstiges
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und intern stellen, soweit dieses erforderlich ist.
 
 (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
+(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestelle Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-Antragssteller:
+en Verwendung zur Verfügung zu
 
-Seite 7 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen / Version: 4.3 / 15. Mai 2024
+n und - und
 
 
 ---
@@ -248,7 +232,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Antragssteller:
-
-Seite 8 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen / Version: 4.3 / 15. Mai 2024

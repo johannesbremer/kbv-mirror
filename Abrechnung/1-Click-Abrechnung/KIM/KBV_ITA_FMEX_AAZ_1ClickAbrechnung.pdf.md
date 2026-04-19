@@ -7,57 +7,52 @@
 |  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 1.1  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF
+# ANTRAG AUF ZERTIFIZIERUNG
 
-# ZERTIFIZIERUNG
-
-# 1CLICKABRECHNUNG MIT KIM
+**1CLICKABRECHNUNG MIT KIM**
 
 ## [KBV_ITA_FMEX_AAZ_1CLICKABRECHNUNG]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM / 15. Mai 2024
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 
 ---
 
-# ANTRAG AUF ZERTIFIZIERUNG
+# ANTRAG AUF ZERTIFIZIERUNG 1CLICKABRECHNUNG MIT KIM
 
-## 1CLICKABRECHNUNG MIT KIM 1
+1
 
 ## ALLGEMEINE ANGABEN
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
+|  |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
 | Systempfleger [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Seite 2 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]/ Version: 1.1 / 15. Mai 2024
-
+Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt 1.1.
+1.1. Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
@@ -66,7 +61,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -77,36 +72,25 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+-Betriebssysteme unterstützt werden.Bitte geben Sie im Folgenden an, welche Client
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-[ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ][ ][ ]
 
-Seite 3 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Antragssteller:
-
-[ ]
-
-/ Version: 1.1 / 15. Mai 2024
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ]
 
 ---
 
 2
 
-## REALISIERUNG VON ANFORDERUNGEN
-
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die Vorgaben gemäß 1ClickAbrechnung Spezifikation |
 
-**2.1 REALISIERUNG DER SAMMELERKLÄRUNG**
+**2.1**
 
 |  |  |
 |---|---|
@@ -115,13 +99,11 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ]
 
 [ ]
 
-Seite 4 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
+## REALISIERUNG VON ANFORDERUNGEN
 
-Antragssteller:
+**REALISIERUNG DER SAMMELERKLÄRUNG**
 
-/ Version: 1.1 / 15. Mai 2024
-
-[1ClickAbrechnung_V2.1.8] für 1Click umgesetzt wurden. [ ] [ ]
+[ ] [1ClickAbrechnung_V2.1.8] für 1Click umgesetzt wurden. [ ]
 
 ---
 
@@ -146,32 +128,22 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-* Diese Information ist verpflichtend anzugeben
-
-________________
-
-Seite 5 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Antragssteller:
-
-/ Version: 1.1 / 15. Mai 2024
+Diese Information ist verpflichtend anzugeben
 
 
 ---
 
 4
 
-## KENNTNISNAHME DURCH DEN ANTRAG
+## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## SSTELLER
-
-**I. Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
 | 1ClickAbrechnung mit | Neuzertifizierung | Ergebnisprüfung | 412,86 |
 
-**II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
@@ -181,31 +153,24 @@ Antragssteller:
 
 (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III. Update und weitere Vereinbarungen**
+**III.** **Update und weitere Vereinbarungen**
 
 (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antrags teller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [ KBV_ITA_VGEX_Lizenzvereinbarung].
+KIM (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_VGEX_Lizenzvereinbarung
 
-Seite 6 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Antragssteller:
-
-/ Version: 1.1 / 15. Mai 2024
-
-KIM
 
 ---
 
-**IV. Sonstiges**
+**IV.** **Sonstiges**
 
 (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
@@ -215,13 +180,7 @@ KIM
 
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-
-Seite 7 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Antragssteller:
-
-/ Version: 1.1 / 15. Mai 2024
+ersteller- und (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer h zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 
 ---
@@ -239,9 +198,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 8 von 8 / KBV / Antrag auf Zertifizierung 1ClickAbrechnung mit KIM
-
-Antragssteller:
-
-/ Version: 1.1 / 15. Mai 2024

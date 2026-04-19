@@ -7,19 +7,11 @@
 |  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.2  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# EDOKUMENTATION
-
-# -HAUTKREBS
-
-**-**
-
-# SCREENING
+# ANTRAG AUF ZERTIFIZIERUNG  EDOKUMENTATION -HAUTKREBS - SCREENING
 
 ## [KBV_ITA_FMEX_AAZ_EHKS]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 7 / KBV / Antrag auf Zertifizierung eDokumentation-Hautkrebs-Screening / 15. Mai 2024
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  -Hautkrebs-Screening / 15. Mai 2024
 
 
 ---
@@ -30,38 +22,41 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  Seite 1 von 7 / KBV / Antrag auf Zertifi
 
 ## ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1 ANTRAGSSTELLER**
+**1.1** **ANTRAGSSTELLER**
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV ver
 
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-| Geschäftsbereich [falls vorhanden] |  | | |
+|  |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 | Webseite |  | | |
-| Der Antragsteller ist | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| Der Antragsteller ist | ☐  Arzt/Ärztin | ☐  Softwarehaus | ☐  Sonstiges |
 | Systempfleger [nur anzugeben, wenn der |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Seite 2 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
+-Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]-Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
+antwortlich zeichnet.
 
+Übergabe
+
+Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
-**1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt 1.1.
+1.1. Nur anzugeben, wenn abweichend von Abschnitt
 
 |  |  |
 |---|---|
@@ -70,7 +65,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3 ZERTIFIZIERUNGSGEGENSTAND**
+**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -81,7 +76,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
+Client-Betriebssysteme unterstützt werden. Bitte geben Sie im Folgenden an, welche
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -94,18 +89,12 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
+| ☐ | Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 [ ]
 
-Seite 3 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
-
-Antragssteller:
-
--Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] Kostenträger-Stammdatei der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ]
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der verbindlichen der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ]
 
 ---
 
@@ -130,24 +119,14 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Telefonnummer |  |
 | E-Mail-Adresse |  |
 
-* Diese Information ist verpflichtend anzugeben
-
-________________
-
-Seite 4 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
-
-Antragssteller:
-
--Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
+Diese Information ist verpflichtend anzugeben
 
 
 ---
 
 4
 
-## KENNTNISNAHME DURCH DEN ANTRAG
-
-## SSTELLER
+## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
 **I. Zertifizierungsrahmen** (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt. (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die Zulassung. (3) Die Laufzeit der Zulassung beträgt 36 Monate. (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
@@ -171,24 +150,18 @@ Antragssteller:
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen Abrechnungsbestimmungen zu umgehen.
 
-(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie der KBV“ [ KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [ KBV_ITA_ VGEX_Lizenzvereinbarung].
-
-Seite 5 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
-
-Antragssteller:
-
-Rezertifizierung -Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
+Rezertifizierung (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 
 ---
 
-**IV. Sonstiges**
+**IV.** **Sonstiges**
 
 (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
@@ -199,12 +172,6 @@ Rezertifizierung -Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
 (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-
-Seite 6 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
-
-Antragssteller:
-
--Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024
 
 
 ---
@@ -222,9 +189,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 7 von 7 / KBV / Antrag auf Zertifizierung eDokumentation
-
-Antragssteller:
-
--Hautkrebs-Screening / Version: 4.2 / 15. Mai 2024

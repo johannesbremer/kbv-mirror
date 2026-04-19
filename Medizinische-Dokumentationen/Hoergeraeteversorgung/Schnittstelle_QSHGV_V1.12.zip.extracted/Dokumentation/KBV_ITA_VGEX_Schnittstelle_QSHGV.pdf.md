@@ -12,41 +12,36 @@
 |  | Version |
 |  |  |
 
-Schnittstellenbeschreibung und IT -Lewin-Platz 2 1.12 Datum: 12.04.2019 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2019
+Schnittstellenbeschreibung und IT -Lewin-Platz 2 1.12 Datum: 12.04.2019 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
 
 ### DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+| Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.12 | 12.04.2019 | KBV | Angleichung der Versionsnummern |  |  |
 | 1.11 | 11.12.2017 | KBV | Angleichung der Versionsnummern |  |  |
 | 1.06 | 10.11.2015 | KBV | Red. Änderung: Unterscheidung | Wird wie im eHeader | 11 |
 | 1.05 | 02.08.2013 | KBV | Red. Änderung: Erstellungsdatum |  | 9 |
-| 1.04 | 11.03.2013 | KBV | Angaben zur Verwendung des Pa- |  | 11 |
+| 1.04 | 11.03.2013 | KBV | set_id |  | 11 |
 | 1.03 | 14.02.2013 | KBV | Anpassung an HL7-Geschlecht-  Die Schemaversion wurde auf 1.02  Unterschiedliche Angabe im XML-  Redaktionelle Änderung. |  | 11       15    19 9 |
 | 1.02 | 17.01.2013 | KBV | Angaben hinsichtlich der Vielfach- |  | 19, 27, 29 |
 | 1.01 | 19.09.2012 | KBV | Geschlecht U=Unbekannt hinzugefügt. Aphab-Nutzen kann neg. sein. Parameter-Namen geändert, keine  Sprachtestmaterial anderer -> anderes Sprachtest nicht möglich -> Sprachtest |  | 11 28 21  19 18 29 |
 | 1.00 | 01.08.2012 | KBV | Neues Dokument |  |  |
 
-**IT in der Arztpraxis**  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-von der Schnittstellenbeschreibung und dem Schnittstellenpaket von der Schnittstellenbeschreibung und dem Schnittstellenpaket des Elements administrati- ve_gender_cd entfernt beschrieben verwendet. ist Bestandteil des Dateinamens. rameters ‚ set_id ‘ konkretisiert Tabelle: das Geschlecht „Unbe- kannt“ muss den Wert „UN“ haben. hochgesetzt. Beispiel zu „Wenn Vorversorgung, wann“ korrigiert. heit eines Parameters korri- giert/hinzugefügt. Referenz auf die ICD-Kodes. Seite 2 31 von
-
+von der Schnittstellenbeschreibung und dem Schnittstellenpaket von der Schnittstellenbeschreibung und dem Schnittstellenpaket beschrieben verwendet. des Elements administrati- ve_gender_cd entfernt ist Bestandteil des Dateinamens. Angaben zur Verwendung des Pa- rameters ‚ ‘ konkretisiert Tabelle: das Geschlecht „Unbe- kannt“ muss den Wert „UN“ haben. hochgesetzt. Beispiel zu „Wenn Vorversorgung, wann“ korrigiert. heit eines Parameters korri- giert/hinzugefügt. Referenz auf die ICD-Kodes.
 
 ---
 
-*INHALTSVERZEICHNIS*
+### INHALTSVERZEICHNIS
 
 DOKUMENTENHISTORIE ___________________________________________________ 2
 
 INHALTSVERZEICHNIS _____________________________________________________ 3
 
-ABBILDUNGSVERZEICHNIS ________________________________________________ 5
+ABBILDUNGS VERZEICHNIS ________________________________________________ 5
 
 TABELLENVERZEICHNIS ___________________________________________________ 6
 
@@ -56,64 +51,58 @@ TABELLENVERZEICHNIS ___________________________________________________ 6
 
 3 DOKUMENTENSTRUKTUR _____________________________________________ 10
 
-4 CLICINAL_DOCUMENT_HEADER ________________________________________ 11
+4 CLICINAL_DOCUMENT_HE ADER ________________________________________ 11
 
 4.1 Unterschiede im Header des eDoku -Datensatzes zur QS Hörgeräteversorgung ................. 11
 
-5 BODY DER QS HÖRGERÄTEVERSORGUNG VORVERORDNUNG / VERORDNUNG12
+5 BODY DER QS HÖRGERÄT EVERSORGUNG VORVERORDNUNG / VERORDNUNG12
 
-5.1 Sektion (section) ......................................................................................................................... 12
+5.1 Sektion (section) ......................................................................................................................... 12  ................................ ................................5.1.1 caption ................................ ................................. 12  5.1.2 content ................................ ................................ ................................ ................................ . 13  ***5.1.2.1*** ***Sciphox-SSU observation*** ***..................................................................................... 13***  5.1.3 Abschnitt „Vorverordnung“ ................................ ................................ ................................ ... 15  ***5.1.3.1*** ***Hörgeräteerstversorgung*** ***...................................................................................... 16***  ***................................................. 175.1.3.2*** ***Wenn Vorversorgung, wann................................***   ***5.1.3.3*** ***Bauform*** ***................................................................................................................ 17***  ***5.1.3.4*** ***Bauform andere*** ***.................................................................................................... 17***  ***................................................................... 175.1.3.5*** ***Zentrale Hörstörung ausgeschlossen***  ***5.1.3.6*** ***Sprachtest möglich*** ***............................................................................................... 18***  ***.......................................................... 185.1.3.7*** ***Sprachverstehen: mit Kopfhörer am dBopt***  ***5.1.3.8*** ***Sprachtestmaterial*** ***................................................................................................ 19***  ***5.1.3.9*** ***Sprachtestmaterial anderes*** ***.................................................................................. 19***  ................................ ................................5.1.4 Abschnitt „Veror dnung“ ........................................ 19  ***5.1.4.1*** ***Schallempfindungsschwerhörigkeit*** ***...................................................................... 21***  ***5.1.4.2*** ***Schallleitungsschwerhörigkeit .............................................................................. 21***  ***5.1.4.3*** ***Kombinierte Schwerhörigkeit*** ***................................................................................ 21***  ***5.1.4.4*** ***Schweregrad der Hörstörung (WHO 2001): rechts*** ***.............................................. 21***  ***5.1.4.5*** ***Schweregrad der Hörstörung (WHO 2001): links*** ***................................................. 22***  ***5.1.4.6*** ***Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 /***  ***4 kHz 22***  ***5.1.4.7*** ***Sonstige versorgungsrelevante Diagnosen*** ***.......................................................... 22***  ***5.1.4.8*** ***Sonstige versorgungsrelevante Diagnosen andere ............................................. 23***  ***5.1.4.9*** ***HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung*** ***..................................... 23***  ***5.1.4.10*** ***HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung*** ***............................ 24***
 
-5.1.1 caption ................................ ................................ ................................ ................................ . 12
-
-5.1.2 content ................................ ................................ ................................ ................................ . 13  ***5.1.2.1 Sciphox-SSU observation*** ***..................................................................................... 13***
-
-5.1.3 Abschnitt „Vorverordnung“ ................................ ................................ ................................ ... 15  ***5.1.3.1 Hörgeräteerstversorgung*** ***...................................................................................... 16***  ***5.1.3.2 Wenn Vorversorgung, wann................................*** ***................................................. 17***  ***5.1.3.3 Bauform*** ***................................................................................................................ 17***  ***5.1.3.4 Bauform andere*** ***.................................................................................................... 17***  ***5.1.3.5 Zentrale Hörstörung ausgeschlossen*** ***................................................................... 17***  ***5.1.3.6 Sprachtest möglich*** ***............................................................................................... 18***  ***5.1.3.7 Sprachverstehen: mit Kopfhörer am dBopt*** ***.......................................................... 18***  ***5.1.3.8 Sprachtestmaterial*** ***................................................................................................ 19***  ***5.1.3.9 Sprachtestmaterial anderes*** ***.................................................................................. 19***
-
-5.1.4 Abschnitt „Veror dnung“ ................................ ................................ ................................ ........ 19  ***5.1.4.1 Schallempfindungsschwerhörigkeit*** ***...................................................................... 21***  ***5.1.4.2 Schallleitungsschwerhörigkeit .............................................................................. 21***  ***5.1.4.3 Kombinierte Schwerhörigkeit*** ***................................................................................ 21***  ***5.1.4.4 Schweregrad der Hörstörung (WHO 2001): rechts*** ***.............................................. 21***  ***5.1.4.5 Schweregrad der Hörstörung (WHO 2001): links*** ***................................................. 22***  ***5.1.4.6 Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 /***  ***4 kHz 22***  ***5.1.4.7 Sonstige versorgungsrelevante Diagnosen*** ***.......................................................... 22***  ***5.1.4.8 Sonstige versorgungsrelevante Diagnosen andere ............................................. 23***  ***5.1.4.9 HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung*** ***..................................... 23***  ***5.1.4.10 HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung*** ***............................ 24***
-
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 3 31 von
+* Version 1.12
 
 
 ---
 
-*5.1.4.11 HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung ....................... 24*  *5.1.4.12 HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere* *........... 24*
+*5.1.4.11* *HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung ....................... 24*  *5.1.4.12* *HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere* *........... 24*
 
-**6 BODY – QS HÖRGERÄTEVERSORGUNG NACHVERORDNUNG ______________ 25**  6.1.1 caption ................................................................................................................................. 25
+**6** **BODY – QS HÖRGERÄTEVERSORGUNG NACHVERORDNUNG ______________ 25**  6.1.1 caption ................................................................................................................................. 25  6.1.2 Abschnitt „Nachverordnung“ ................................................................................................ 25  *6.1.2.1* *Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten*  *Versorgungskonzept ............................................................................................................ 26*  *6.1.2.2* *Abweichung in Luftleitung ..................................................................................... 26*  *6.1.2.3* *Abweichung in Knochenleitung ............................................................................ 27*  *6.1.2.4* *Abweichung in Sonderversorgung* *........................................................................ 27*  *6.1.2.5* *Abweichung in Sonderversorgung andere* *........................................................... 27*  *6.1.2.6* *Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en) ...................................... 27*  *6.1.2.7* *Keine FF-Untersuchung möglich: Hörweite (m) ohne HG* *.................................... 28*  *6.1.2.8* *Keine FF-Untersuchung möglich: Hörweite (m) mit HG* *....................................... 28*  *6.1.2.9* *Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB-Fragebogen (vor / nach*  *HG-Versorgung) .................................................................................................................. 28*  *6.1.2.10* *Sprachtest möglich ............................................................................................... 29*  *6.1.2.11* *Versorgung erfolgte zum Festbetrag* *.................................................................... 29*
 
-6.1.2 Abschnitt „Nachverordnung“ ................................................................................................ 25  *6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten*  *Versorgungskonzept ............................................................................................................ 26*  *6.1.2.2 Abweichung in Luftleitung ..................................................................................... 26*  *6.1.2.3 Abweichung in Knochenleitung ............................................................................ 27*  *6.1.2.4 Abweichung in Sonderversorgung* *........................................................................ 27*  *6.1.2.5 Abweichung in Sonderversorgung andere* *........................................................... 27*  *6.1.2.6 Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en) ...................................... 27*  *6.1.2.7 Keine FF-Untersuchung möglich: Hörweite (m) ohne HG* *.................................... 28*  *6.1.2.8 Keine FF-Untersuchung möglich: Hörweite (m) mit HG* *....................................... 28*  *6.1.2.9 Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB-Fragebogen (vor / nach*  *HG-Versorgung) .................................................................................................................. 28*  *6.1.2.10 Sprachtest möglich ............................................................................................... 29*  *6.1.2.11 Versorgung erfolgte zum Festbetrag* *.................................................................... 29*
+**7** **ANHANG ____________________________________________________________ 30**
 
-**7 ANHANG ____________________________________________________________ 30**
+**7.1** **Glossar ......................................................................................................................................... 30**
 
-**7.1 Glossar ......................................................................................................................................... 30**
-
-**8 REFERENZIERTE DOKUMENTE _________________________________________ 31**
-
-**IT in der Arztpraxis**  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 4 31 von
+**8** **REFERENZIERTE DOKUMENTE _________________________________________ 31**
 
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| QS | Hörgeräteversorgung |  | Schnittstellenbeschreibung | |  |  |  |  |
-|  |  |  | ABBILDUNGSVERZEICHNI | | S |  |  |  |
-| Abbildung | 1 - | Vorverordnung | | mit Verordnung | und | Nachverordnung QS | Hörgeräteversorgung | 8 |
-| Abbildung | 2 - | Grundstruktur |  | levelone |  | ....................................................................................... | | 10 |
-| Abbildung | 3 - | Grundstruktur | body |  |  | ............................................................................................ | | 12 |
-| Abbildung | 4 - | Grundstruktur | section |  |  | ......................................................................................... | | 12 |
-| Abbildung | 5 – | allgemeiner | Aufbau | Sciphox- | SSU | observation................................................. | | 14 |
-|  | KBV_ITA_VGEX_Schnittstelle_QSHGV | | * | Version 1.12 |  |  | Seite | 5 31 von |
+**ABBILDUNGSVERZEICHNI**
 
-Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung Abbildung 2 - Grundstruktur levelone Abbildung 3 - Grundstruktur body Abbildung 4 - Grundstruktur section Abbildung 5 – allgemeiner Aufbau Sciphox- SSU observation................................................. IT in der Arztpraxis QS Hörgeräteversorgung Schnittstellenbeschreibung KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12 Seite 5 31
+Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung
+
+Abbildung 2 - Grundstruktur levelone .......................................................................................
+
+Abbildung 3 - Grundstruktur body ............................................................................................
+
+Abbildung 4 - Grundstruktur section .........................................................................................
+
+Abbildung 5 – allgemeiner Aufbau Sciphox-
+
+**S**
+
+SSU observation .................................................
+
+8
+
+10
+
+12
+
+12
+
+14
+
 
 ---
 
@@ -145,59 +134,42 @@ Tabelle 13 – Erzieltes Sprachverstehen: im Freifeld mit Hörgerät(en) .......
 
 Tabelle 14 – Versorgung erfolgte zum Festbetrag ................................................................... 29
 
-**IT in der Arztpraxis**  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 6 31 von
-
 
 ---
 
-| 1 | Einleitung |  |  |
+| **1** |  | **Einleitung** |  |
 |---|---|---|---|
-| Diese |  | Schnittstellenbeschreibung | |
-| men der | "QS |  | Hörgeräteversorgung" |
-| Formale | und | technische | Grundlage |
-| V-Attribute | für | Werte | anstelle |
-| In den | weiteren | Kapiteln | |
-| hand | von | Ausschnitten |  |
-| erweiterte | | HL7/SCIPHOX-Schema | |
-| Die | Schnittstelle |  | wurde |
-| S | pitzenverbände | der |  |
-| diese | Plausibilitäten | | vor dem |
+| Diese |  |  | Schnittstellenbeschreibung |
+| men | der | "QS | Hörgeräteversorgung" |
+|  | Formale | und technische | Grundlage |
+|  | V-Attribute | für | Werte anstelle |
+| In | den | weiteren | Kapiteln |
+| hand | von | Ausschnitten | |
+|  | erweiterte |  | HL7/SCIPHOX-Schema |
+| Die |  | Schnittstelle | wurde |
+| S | pitzenverbände | | der Krankenkassen |
+| diese |  | Plausibilitäten | vor dem |
 
-1. Insbesondere werden
+1
 
 1 [http://www.HL7.de/](http://www.HL7.de/)
 
-entworfen. Die Daten in der Schnittstelle sind gegen
-
-**IT in der Arztpraxis**  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah- men der "QS Hörgeräteversorgung" dokumentiert werden müssen.  Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt. In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte des Bogens an- hand von Ausschnitten veranschaulicht. Die XML-Dateien werden gegen das durch die KBV erweiterte HL7/SCIPHOX-Schema und das KBV-Prüfschema QSHGV.xsd geprüft.  Die Schnittstelle wurde gemäß den Plausibilitäten [KBV_ITA_VGEX_Plausi_QSHGV] der pitzenverbände der Krankenkassen diese Plausibilitäten vor dem Export zu prüfen. Seite 7 31 von
-
+1 Einleitung Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah- men der "QS Hörgeräteversorgung" dokumentiert werden müssen.  Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 . Insbesondere werden V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt. In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte des Bogens an- hand von Ausschnitten veranschaulicht. Die XML-Dateien werden gegen das durch die KBV erweiterte HL7/SCIPHOX-Schema und das KBV-Prüfschema QSHGV.xsd geprüft.  Die Schnittstelle wurde gemäß den Plausibilitäten [KBV_ITA_VGEX_Plausi_QSHGV] der pitzenverbände der Krankenkassen entworfen. Die Daten in der Schnittstelle sind gegen diese Plausibilitäten vor dem Export zu prüfen.
 
 ---
 
-| IT in | der | Arztpraxis |  |  |  |  |  |  |
+| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
 | QS | Hörgeräteversorgung | | Schnittstellenbeschreibung | |  |  |  |  |
-|  | Abbildung | 1 - | Vorverordnung | mit Verordnung | und Nachverordnung | QS | Hörgeräteversorgung |  |
-|  |  | KBV_ITA_VGEX_Schnittstelle_QSHGV | * Version | 1.12 |  |  | Seite | 8 31 von |
+|  | **Abbildung** | **1 -** | **Vorverordnung** | **mit Verordnung** | **und Nachverordnung** | **QS** | **Hörgeräteversorgung** |  |
+|  |  | KBV_ITA_VGEX_Schnittstelle_QSHGV | * Version | 1.12 |  |  | Seite | 8 31von |
 
-Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung IT in der Arztpraxis QS Hörgeräteversorgung Schnittstellenbeschreibung KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12 Seite 8 31
+Abbildung 1 - Vorverordnung mit Verordnung und Nachverordnung QS Hörgeräteversorgung
 
 ---
 
-**2**
-
-### Dateinamen
-
-Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku- ment beschrieben [KBV_ITA_VGEX_XML-].Schnittstellen  Für den Dateinamen einer einzelnen XML-Datei, welche die Daten der Hörgeräteversorgungs- Verordnung enthalten, ist folgendes festgelegt:
-- Der Präfix des Dateinamens setzt sich zusammen aus
+**2 Dateinamen**  Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku- ment beschrieben [KBV_ITA_VGEX_XML-].Schnittstellen  Für den Dateinamen einer einzelnen XML-Datei, welche die Daten der Hörgeräteversorgungs- Verordnung enthalten, ist folgendes festgelegt:
+-  Der Präfix des Dateinamens setzt sich zusammen aus
 
 o der 9--stelligen (Neben )Betriebsstättennummer des Tätigkeitsortes, an dem die  Datei erstellt wird
 
@@ -205,230 +177,172 @@ o der Patienten-Nummer (patient.person.id, EX-Attribut)
 
 o dem Erstellungsdatum Dokumentationsdatum (Erstellungsdatum Dokumenta- tionsdatum im Format JJJJMMTT)
 
-- Die Endung der Datei für die QS Hörgeräteversorgung Vorverordnung / Verordnung  muss „QSHGVVV“ sein
+-  Die Endung der Datei für die QS Hörgeräteversorgung Vorverordnung / Verordnung  muss „QSHGVVV“ sein
 
-- Die Endung der Datei für die QS Hörgeräteversorgung Nachverordnung muss  „QSHGVNV“ sein.
+-  Die Endung der Datei für die QS Hörgeräteversorgung Nachverordnung muss  „QSHGVNV“ sein.
 
 Beispiele:
-- 123456789_123_20030301.QSHGVVV
+-  123456789_123_20030301.QSHGVVV
 
-- 123456789_123_20030301.QSHGVNV
-
-**IT in der Arztpraxis**  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 9 31 von
+-  123456789_123_20030301.QSHGVNV
 
 
 ---
 
-**3**
-
-### Dokumentenstruktur
-
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e-/Kleinschreibung zu b achten.  Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement levelone, welches sich  aus den beiden Kindelementen clinical_document_header und body zusammensetzt, wie es  in Abbildung 2 dargestellt ist.   Alle Schemas, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner  „Schema“ in jedem Prüfmodul enthalten. Mit dem zentralen Schema QSHGV.xsd werden die  Dateien zur Vorverordnung und Nachverordnung validiert.   Das Einstiegelement heißt bei beiden Schemas levelone, die Unterschiede sind im Header  und Body (Kapiteln 4.14.1, 5 und 6 ) beschrieben.
+**3 Dokumentenstruktur**  Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.  Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  aus den beiden Kindelementen *clinical_document_header* und  in Abbildung 2 dargestellt ist.   Alle Schemas, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner  „Schema“ in jedem Prüfmodul enthalten. Mit dem zentralen Schema  Dateien zur Vorverordnung und Nachverordnung validiert.   Das Einstiegelement heißt bei beiden Schemas levelone, die Unterschiede sind im Header  und Body (Kapiteln 4.14.1, 5 und 6 ) beschrieben.
 
 **Abbildung 2 - Grundstruktur levelone**
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben:   <?xml version="1.0" encoding="iso-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"  xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="-[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema) instance">  <clinical_document_header>
-
-| ... |  |
-|---|---|
-|  | </clinical_document_header> |
-| <body> |  |
-| ... |  |
-
-</body>  </levelone>
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:   <?xml version="1.0" encoding="iso-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"  xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="-[http://www.w3.org/2001/XMLSchemainstance"](http://www.w3.org/2001/XMLSchemainstance")>  <clinical_document_header>   ...  </clinical_document_header>  <body>   ...  </body>  </levelone>
 
 **XML-Code 1 - levelone**
 
-Das Element clinical_document_header wird allgemein für alle medizinischen Dokumentatio- nen in dem Dokument „Schnittstellenbeschreibung DMP-Header“  [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben. Unterschiede zwischen dem DMP- Header bzw. den Koloskopie-Headern werden in Kapitel 4 beschrieben.  Die Struktur des Elements body ist je nach Verordnung spezifisch und wird nachfolgend näher  erläutert.
+Das Element *clinical_document_header* wird allgemein für alle medizinischen Dokumentatio- nen in dem Dokument „Schnittstellenbeschreibung DMP-Header“  [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben. Unterschiede zwischen dem DMP- Header bzw. den Koloskopie-Headern werden in Kapitel 4 beschrieben.  Die Struktur des Elements *body* ist je nach Verordnung spezifisch und wird nachfolgend näher  erläutert.
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
+/Kleinschreibung zu b
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+*levelone*, welches sich  *body* zusammensetzt, wie es
 
-Seite 10 31
+*QSHGV.xsd*
 
-von
+werden die
 
 
 ---
 
-**4**
-
-### clicinal_document_header
-
-### 4.1
-
-### Unterschiede im Header des eDoku
-
-### -Datensatzes zur QS Hörge-
+**4 clicinal_document_header**  **4.1 Unterschiede im Header des eDoku-Datensatzes zur QS Hörge-**
 
 ### räteversorgung
 
-- Das Element service_tmr ist das Untersuchungsdatum.
+-  Das Element *service_tmr* ist das Untersuchungsdatum.
 
-- Das Element origination_dttm ist das Erstellungsdatum der XML-Datei.
+-  Das Element *origination_dttm* ist das Erstellungsdatum der XML-Datei.
 
-- Das Element set_id enthält die gleiche id bei zusammenhängenden Dokumenten: d.h.  Vor-/Verordnung und Nachverordnung haben immer die gleiche set_id.
+-  Das Element *set_id* enthält die gleiche id bei zusammenhängenden Dokumenten: d.h.  Vor-/Verordnung und Nachverordnung haben immer die gleiche *set_id*
 
-- Das Element function_cd ( provider) wird nicht verwendet.
+-  Das Element *function_cd provider*) wird nicht verwendet.
 
-- Das Element provider.type_cd ( provider) wird nicht verwendet.
+-  Das Element *provider.type_cd provider*) wird nicht verwendet.
 
-- Das Element id ( provider->person) muss genau zweimal vorhanden sein.
+-  Das Element *id provider->person*) muss genau zweimal vorhanden sein.
 
-- Das Element person_name ( provider -> person) wird nicht verwendet.
+-  Das Element *person_name provider person*) wird nicht verwendet.
 
-- Das Element addr ( provider -> person) wird nicht verwendet.
+-  Das Element *addr provider person*) wird nicht verwendet.
 
-- Das Element patient.type_cd ( patient) wird nicht verwendet.
+-  Das Element *patient.type_cd patient*) wird nicht verwendet.
 
-- Das Element id ( patient -> person) enthält die lokal eindeutige bis zu 10-stellige alphanume- rische Patienten-ID des Versicherten.
+-  Das Element *id patient person*) enthält die lokal eindeutige bis zu 10-stellige alphanume- rische Patienten-ID des Versicherten.
 
-- Das Element person_name ( patient -> person) wird nicht verwendet.
+-  Das Element *person_name patient person*) wird nicht verwendet.
 
-- Das Element addr ( patient -> person) wird nicht verwendet.
+-  Das Element *addr patient person*) wird nicht verwendet.
 
-- Das Element birth_dttm ( patient) enthält das Geburtsjahr (JJJJ) des Patienten.
+-  Das Element *birth_dttm patient*) enthält das Geburtsjahr (JJJJ) des Patienten.
 
-- Das Element sciphox:GesetzlicheKrankenversicherung ( sciphox-ssu insurance) wird nicht  verwendet.
+-  Das Element *sciphox:GesetzlicheKrankenversicherung sciphox-ssu insurance*) wird nicht  verwendet.
 
-- Die Werte im Element document_type_cd müssen den Tabellenwerten aus der Doku- menttypentabelle entsprechen:
+-  Die Werte im Element *document_type_cd* müssen den Tabellenwerten aus der Doku- menttypentabelle entsprechen:
 
-o Dokumentationsbogen zur QS Hörgeräteverordnung Vorverordnung / Verordnung:  <document_type_cd V="QSHGV_VV" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung d-Vorveror nung mit Verordnung"/>
+o Dokumentationsbogen zur QS Hörgeräteverordnung Vorverordnung / Verordnung <document_type_cd V="QSHGV_VV" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung d-Vorveror nung mit Verordnung"/>
 
 Dokumentationsbogen zur QS Hörgeräteverordnung Nachverordnung o  <document_type_cd V="QSHGV_NV" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung Nachverord- nung"/>
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 11 31
-
-von
-
 
 ---
 
-5
+r-5 body der QS Hörgeräteversorgung Vorverordnung / Ve
 
-### body der QS Hörgeräteversorgung Vorverordnung / Ve
+## ordnung
 
-### r-
+Im Element ***body*** der XM L-Datei werden die eigentlichen Verordnungsdaten zur Vorveror d- nung und Verordnung aufgeführt. Das Element ***body*** selbst enthält ein Element ***section***. Der  Aufbau des Elements ***body*** ist in Abbildung 3 dargestellt.
 
-### ordnung
-
-Im Element body der XM L-Datei werden die eigentlichen Verordnungsdaten zur Vorveror d- nung und Verordnung aufgeführt. Das Element ***body*** selbst enthält ein Element ***section. Der***  Aufbau des Elements ***body*** ist in Abbildung 3 dargestellt.
-
-Abbildung 3 - Grundstruktur body   Der Coderahmen für das body -Element sieht wie folgt aus.    <body >  <section >   ...  </section>  </body >
+Abbildung 3 - Grundstruktur body   Der Coderahmen für das ***body*** -Element sieht wie folgt aus.   <body >  <section  ...  </ section>  </ body >
 
 XML-Code 2 - body 5.1 Sektion (section)
 
-Das ***section Element setzt sich aus mindestens einem Elementen*** -***paragraph,*** aber maximal 2  zusammen. Ein paragraph -Element setzt sich aus den Kindelementen caption und ***content***  zusammen. Die Grundstruktur des section -Elements ist in Abbildung 4 dargestellt.
+***paragraph,*** aber maximal 2 Das ***section***Element setzt sich aus mindestens einem Elementen  zusammen. Ein ***paragraph***-Element setzt sich aus den Kindelementen ***caption*** und ***content***  zusammen. Die Grundstruktur des ***section***-Elements ist in Abbildung 4 dargestellt.
 
 Abbildung 4 - Grundstruktur section
 
-Die Sektion kann die Abschnitte „Vorverordnung“ und „Verordnung“, enthalten, die jew eils in  einem ***paragraph -Element untergebracht sind.***   5.1.1 caption  Zu jedem paragraph -Element muss ein Kindelement caption mit der Abschnittsüberschrift und  ein Kindelement ***content mit den konkreten Daten übertragen werden. Enthält ein Abschnitt***  keine Daten, so wird der entsprechende paragraph -Block weggelassen. Die ***content -Elemente***  der einzelnen Abschnitte werden in den nächsten Kapiteln erläutert.  Wenn sämtliche Abschnitte Daten e nthalten, sieht der Coderahmen für das Element ***section***  wie folgt aus . Die Werte der einzelnen ***caption_cd -Elemente entsprechen dabei den A*** b- schnittsüberschriften auf dem Dokumentationsbogen.
+„Verordnung“, enthalten, die jew eils in Die Sektion kann die Abschnitte „Vorverordnung“ und  einem ***paragraph***-Element untergebracht sind.  5.1.1 caption  ***caption*** mit der Abschnittsüberschrift und Zu jedem ***paragraph***-Element muss ein Kindelement
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 12 31von
+-Block weggelassen. Die ***content***-Elemente  ein Kindelement ***content*** mit den konkreten Daten übertragen werden. Enthält ein Abschnitt  keine Daten, so wird der entsprechende ***paragraph*** der einzelnen Abschnitte werden in den nächsten Kapiteln erläutert.  ***section*** Wenn sämtliche Abschnitte Daten e nthalten, sieht der Coderahmen für das Element  ***caption_cd***-Elemente entsprechen dabei den A b-wie folgt aus . Die Werte der einzelnen  schnittsüberschriften auf dem Dokumentationsbogen.
 
 
 ---
 
-<section >  <paragraph >   <caption >    < caption_cd DN=" Vorverordnung"/>   </caption>   <content >    ...   </content >  </paragraph>  <paragraph >   <caption >    < caption_cd DN=" Verordnung"/>   </caption>   <content >    ...   </content >  </paragraph>  </section>
+<section <paragraph  <caption    caption_cd DN=" Vorverordnung"/>  </ caption>   <content   ...   </ content >  </ paragraph>  <paragraph  <caption    caption_cd DN=" Verordnung"/>  </ caption>   <content   ...   </ content >  </ paragraph>  </ section>
 
 XML-Code 3 – section
 
-5.1.2 content  Das Element ***content enthält das Kindelement local_markup, mit welchem eine sciphox-ssu***  verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  Das Element local_markup hat die erforderlichen Attribute ignore und ***descriptor. Das Attribut***  ***ignore*** hat den festen Wert: “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet  werden, ist für das descriptor ***- Attribut der feste Wert: „sciphox“ vorgeschrieben.***  Für die Darstellung der QSHV -Daten in XML wird ausschließlich die Sciphox -SSU ***observation***  verwendet. Das Element sciphox ***-ssu*** hat drei Attribute, die mit den festen Werten vorbelegt  sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet, dass die  Sciphox -ssu ***observation*** in Version v1 verwendet wird.   Der Coderahmen für das Element ***content*** mit Sciphox -SSU ***observation*** sieht demnach fol- gendermaßen aus:
+5.1.2 content  ***local_markup***, mit welchem eine ***sciphox-ssu*** Das Element ***content*** enthält das Kindelement  verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  Das Element ***local_markup*** hat die erforderlichen Attribute ***ignore*** und ***descriptor***Das Attribut  ***ignore*** hat den festen Wert: “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet  werden, ist für das ***descriptor*** Attribut der feste Wert: „sciphox“ vorgeschrieben.  -SSU ***observation*** Für die Darstellung der QSHV -Daten in XML wird ausschließlich die Sciphox verwendet. Das Element ***sciphox -ssu*** hat drei Attribute, die mit den festen Werten vorbelegt  sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet, dass die  Sciphox -ssu ***observation*** in Version ***v1*** verwendet wird.   ***content*** mit Sciphox -SSU ***observation*** sieht demnach fol-Der Coderahmen für das Element  gendermaßen aus:
 
-| <content   <sciphox:sciphox -ssu type ="observation"              -ssu>  > </content > |
+| <content   <sciphox:sciphox -ssu type =" observation"  country =" de" version="              -ssu>  > </ content > |
 |---|
 
 XML-Code 4 – content mit sciphox -SSU (observation)
 
-5.1.2.1 Sciphox- SSU observation  Das Element sciphos ***-ssu (observation) enthält das Kindelement sciphox:Beobachtungen,*** das  mehrere Kindelemente sciphox:Beobachtung enthalten kann. Es muss mindestens ein El e- ment ***sciphox:Beobachtung***vorkommen. Das Element  ***sciphox:Beobachtung*** setzt sich aus  jeweils genau einem Kindelement sciphox:Parameter und den optionalen Kindelementen sci- ***phox:Ergebniswert, sciphox:Ergebnistext*** und ***sciphox:Zeitpunkt_dttm zusammen.*** Neben dem  ***sciphox:Parameter*** Element muss mindestens eins dieser optionalen Kindelemente angege- ben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter ge- macht wurden, wird der komplette sciphox:Beobachtung-Block mit dem jeweiligen Parameter  weggelassen. Die Angabe einer sciphox:Beobachtung mit nur einem Element sci- phox:Param eter ist nicht zulässig. Der allgemeine Aufbau dieser SSU ist nachfolgend be- schrieben:
+5.1.2.1 Sciphox- SSU observation  enthält das Kindelement ***sciphox:Beobachtungen,*** das Das Element ***sciphos -ssu (observation)***  mehrere Kindelemente ***sciphox:Beobachtung*** enthalten kann. Es muss mindestens ein El e- ***sciphox:Beobachtung*** setzt sich aus ment ***sciphox:Beobachtung***vorkommen. Das Element   jeweils genau einem Kindelement ***sciphox:Parameter*** und den optionalen Kindelementen ***sci-*** ***phox:Ergebniswert, sciphox:Ergebnistext*** und*** sciphox:Zeitpunkt_dttm*** zusammen. Neben dem  ***sciphox:Parameter*** Element muss mindestens eins dieser optionalen Kindelemente angege-
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+i-
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+ben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter ge- macht wurden, wird der komplette sciphox:Beobachtung-Block mit dem jeweiligen Parameter  weggelassen. Die Angabe einer sciphox:Beobachtung mit nur einem Element sc phox:Param eter ist nicht zulässig. Der allgemeine Aufbau dieser SSU ist nachfolgend be- schrieben:
 
-local_markup ignore=" all" descriptor ="sciphox ">  country ="de" version=" v1"> . . . </sciphox:sciphox </local_markupSeite 13 31von
-
+local_markup ignore=" all " descriptor =" sciphox v1"> . . . </ sciphox:sciphox </ local_markup
 
 ---
 
 **Abbildung 5 – allgemeiner Aufbau Sciphox-SSU observation**
 
-Der XML-Code zum Element sciphox-ssu sieht folgendermaßen aus:
+*sciphox-ssu* sieht folgendermaßen aus: Der XML-Code zum Element
 
 | <sciphox:sciphox-ssu type="observation" country="de" version="v1">       <> sciphox:Beobachtungen               <>             . . .              <sciphox:Beobachtung>               <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->             . . .              <sciphox:Beobachtung>       <> </sciphox:sciphox-ssu> |
 |---|
 
 **XML-Code 5 – Beobachtungen**
 
-5.1.2.1.1 Parameter  Das Element Parameter enthält nur das DN -Attribut. Als Wert werden die Parameter aus dem  Bogen (z.B. „Sedierung/Analgesie“), zu welchen eine Angabe gemacht werden muss, ange- geben. Die einzelnen Angaben werden im jeweiligen Element Ergebnistext, Ergebniswert und  *Zeitpunkt_dttm untergebracht.*   Grundsätzlich gilt, dass der exakte Text auf dem Bogen genau zu einem Parameter bzw. Wert  in der XML-Schnittstelle umgesetzt wird, d.h. gegebenenfalls werden alle Abkürzungen und  Bindestriche in der XML-Schnittstelle genauso angegeben.   Der XML-Code zum Element Parameter sieht folgendermaßen aus:
+5.1.2.1.1 Parameter  *Parameter* enthält nur das *DN*-Attribut. Als Wert werden die Parameter aus dem Das Element
+
+und  Bogen (z.B. „Sedierung/Analgesie“), zu welchen eine Angabe gemacht werden muss, ange- geben. Die einzelnen Angaben werden im jeweiligen Element *Ergebnistext, Ergebniswert*  *Zeitpunkt_dttm* untergebracht.   Grundsätzlich gilt, dass der exakte Text auf dem Bogen genau zu einem Parameter bzw. Wert  in der XML-Schnittstelle umgesetzt wird, d.h. gegebenenfalls werden alle Abkürzungen und  Bindestriche in der XML-Schnittstelle genauso angegeben.   *Parameter* sieht folgendermaßen aus: Der XML-Code zum Element
 
 | <>         . . . </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 6 – Parameter**
 
-5.1.2.1.2 Ergebnistext  Das Element Ergebnistext enthält nur das V- Attribut. Die Texte, die im Bogen als Freitext  hinterlegt sind (z.B. „Bauform andere“), werden in diesem Element im V- Attribut angegeben.   Der XML-Code zum Element Ergebnistext sieht folgendermaßen aus:
+5.1.2.1.2 Ergebnistext  *Ergebnistext* enthält nur das *V-*Attribut. Die Texte, die im Bogen als  Das Element **Freitext** *V-*Attribut angegeben. hinterlegt sind (z.B. „Bauform andere“), werden in diesem Element im   *Ergebnistext* sieht folgendermaßen aus: Der XML-Code zum Element
 
 | <>        . . .       <sciphox:Ergebnistext V=" . . ."/>        . . . </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 7 – Ergebnistext**
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 14 31
-
-von
-
 <sciphox:Parameter DN=". . ."/>
 
 ---
 
-| <content <local_markup   <sciphox:Beobachtungen>  <sciphox:Parameter <sciphox:Ergebniswert </sciphox:Beobachtung> <sciphox:Beobachtung> |
+| <content <local_markup v1 ">  <sciphox:Beobachtungen>   <sciphox:Ergebniswert </ sciphox:Beobachtung> <sciphox:Beobachtung> |
 |---|
-| 5.1.2.1.3 Das Element Ergebniswert Einzelne Ausprägungen, die als Werte im Datensatz eingegeben werden (z.B. „12“), werden  Der XML  <>        . . .       <sciphox:Ergebniswert        . . . </sciphox:Beobachtung>  XML-Code 8 – Ergebniswert 5.1.2.1.4 Das Element Zeitpunkt_dttm enthält das V  Der XML  <>        . . .       <sciphox:Zeitpunkt_dttm        . . . </sciphox:Beobachtung>  XML-Code 9 – Zeitpunkt_dttm  5.1.3 In diesem Kapitel wird der Abschnitt „Vorverordnung“ beschrieben.  Der entsprechende Ausschnitt des Dokumentationsbogens ist in Abbildung 1 -  dargestellt. |
+| 5.1.2.1.3 U Einzelne Ausprägungen, die als Werte im Datensatz eingegeben werden (z.B. „12“), werden    <>        . . .       <sciphox:Ergebniswert        . . . </ sciphox:Beobachtung>  XML-Code 8 – Ergebniswert 5.1.2.1.4 TT oder nur JJJJ, w  Der XML  <>        . . .       <sciphox:Zeitpunkt_dttm        . . . </ sciphox:Beobachtung>    5.1.3 Abschnitt In diesem Kapitel wird der Abschnitt „Vorverordnung“ beschrieben.  Der entsprechende Ausschnitt des Dokumentationsbogens ist in Abbildung 1 -  dargestellt. |
 
-| <>        . . .       <sciphox:Ergebniswert        . . . </sciphox:Beobachtung> |
-|---|
-
-| <>        . . .       <sciphox:Zeitpunkt_dttm        . . . </sciphox:Beobachtung> |
+| <>        . . .       <sciphox:Ergebniswert        . . . </ sciphox:Beobachtung> |
 |---|
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+| <>        . . .       <sciphox:Zeitpunkt_dttm        . . . </ sciphox:Beobachtung> |
+|---|
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-V=". . . " U=". . ."/> -Code zum Element Zeitpunkt_dttm sieht folgendermaßen aus:  V=". . ."/> enthält nur das V- und das optionale U -Attribut. Einzelne Auspr ä- gungen, die als vorgegebene Werte im Bogen hinterlegt sind (z.B. „Zentrale Hörstörung aus- geschlossen“: „ja“, „nein“), werden in diesem Element im V- Attribut angegeben.  ebenfalls in diesem Element im V- Attribut angegeben. Im U -Attribut (UNIT) wi rd die Einheit (z.B. „m “) eingetragen. -Code zum Element Ergebniswert  sieht folgendermaßen aus: -Attribut, in das ein Datum eingetragen werden kann. Das Datumsformat entspricht dem Pattern JJJJ-MM- TT oder nur JJJJ, w obei J=Jahr, M=Monat und T=Tag entspr echen. Das Element content enthält genau ein Element sciphox:Beobachtungen. Das Element sci- enthält max.  Kindelemente sciphox:Beobachtung. Ein Element sci- enthält genau ein Kindelement und mindestens ein Kindelement sciphox:Ergebnistext bzw. Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus: ignore=" all" descriptor=" sciphox"> <sciphox:sciphox -ssu  type ="observation"  country ="de" version=" v1">  DN=" Hörgeräteerstversorgung"/>  V=" Nein "/>  DN=" Wenn Vorversorgung, wann"/>  V=" 2011"/>  DN=" Bauform "/>  V="andere "/> Seite 15 31von
-
+V =" . . . " U =". . ."/> -Code zum Element Zeitpunkt_dttm sieht folgendermaßen aus:  V =" . . ."/> -Attribut. Einzelne Auspr ä- Das Element enthält nur das V- und das optionale gungen, die als vorgegebene Werte im Bogen hinterlegt sind (z.B. „Zentrale Hörstörung aus- geschlossen“: „ja“, „nein“), werden in diesem Element im V- Attribut angegeben.  -Attribut (UNIT) wi rd die Einheit ebenfalls in diesem Element im V- Attribut angegeben. Im U (z.B. „m “) eingetragen. -Code zum Element sieht folgendermaßen aus: obei J=Jahr, Das Element Zeitpunkt_dttm enthält das V -Attribut, in das ein Datum eingetragen werden kann. Das Datumsformat entspricht dem Pattern JJJJ-MM- M=Monat und T=Tag entspr echen. XML-Code 9 – Zeitpunkt_dttm Das Element enthält genau ein Element . Das Element sci- . Ein Element sci- enthält max.  Kindelemente enthält genau ein Kindelement sciphox:Parameter  und mindestens ein Kindelement sciphox:Ergebnistext bzw. Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus: ignore=" all" descriptor=" sciphox"> <sciphox:sciphox -ssu type =" observation"  country =" de" version=" <sciphox:Parameter  DN=" Hörgeräteerstversorgung"/>  V=" Nein "/> <sciphox:Parameter  DN=" Wenn Vorversorgung, wann"/>  V=" 2011"/> <sciphox:Parameter  DN=" Bauform "/>  V =" andere "/>
 
 ---
 
-| Bei diesem Parameter enthält das Element sciphox 1. Bei diesem Parameter kann nur ein Feld ausgewählt werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben: <>    XML-Code 11 – Hörgeräteerstversorgung  Wert bei Ergebniswert Ja Nein nicht bekannt Tabelle 1 – Hörgeräteerstversorgung |
+| :Ergebniswert 1. Bei diesem Parameter kann nur ein Feld ausgewählt werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben: <>   </ sciphox:Beobachtung>   Wert bei Ergebniswert Ja Nein nicht bekannt |
 |---|
-| <sciphox:Beobachtung>      <sciphox:Beobachtung>              </local_markup </content |
+| <sciphox:Beobachtung>      <sciphox:Beobachtung> "/>    "/>    anderes"/>     </ local_markup </ content |
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+<sciphox:Parameter  DN=" Bauform andere"/> <sciphox:Ergebnistext  V=" Freitext zur Bauform <sciphox:Parameter  DN=" Zentrale Hörstörung ausgeschlossen"/> <sciphox:Ergebnisw ert V=" Nein "/> <sciphox:Parameter  DN=" Sprachverstehen: mit Kopfhörer am dBopt <sciphox:Ergebniswert  V=" 10 " U =" dB "/> <sciphox:Ergebniswert  V=" 10 " U =" % (E/Z)"/> sciphox:Ergebniswert  V=" 10" U =" dB (SVS)"/> <! -- <sciphox:Parameter  DN =" Sprachtest möglich <sciphox:Ergebniswert  V=" Ja "/>  --> <sciphox:Parameter  DN=" Sprachtestmaterial <sciphox:Ergebniswert  V=" anderes"/> <sciphox:Parameter  DN=" Sprachtestmaterial <sciphox:Ergebnistext  V=" Freitext String </ sciphox:Beobachtungen> </ sciphox:sciphox -ssu > XML-Code 10 – content (Vorverordnung) 5.1.3.1 Hörgeräteerstversorgung Bei diesem Parameter enthält das Element im V -e- Attribut die Feldb zeichnung gemäß Tabelle plett weg. <sciphox:Parameter  DN=" Hörgeräteerstversorgung"/> <sciphox:Ergebniswert  V =" Ja"/> XML-Code 11 – Hörgeräteerstversorgung Tabelle 1 – Hörgeräteerstversorgung
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-</sciphox:Beobachtung <sciphox:Parameter  DN=" Bauform andere"/> <sciphox:Ergebnistext  V=" Freitext zur Bauform "/> </sciphox:Beobachtung> <sciphox:Parameter  DN=" Zentrale Hörstörung ausgeschlossen"/> <sciphox:Ergebnisw ert V=" Nein "/> </sciphox:Beobachtung> <sciphox:Parameter  DN=" Sprachverstehen: mit Kopfhörer am dBopt "/> <sciphox:Ergebniswert  V=" 10" U="dB"/> <sciphox:Ergebniswert  V=" 10" U="% (E/Z)"/> sciphox:Ergebniswert  V=" 10" U="dB (SVS)"/> </sciphox:Beobachtung> <!-- <sciphox:Parameter  DN ="Sprachtest möglich "/> <sciphox:Ergebniswert  V=" Ja"/> </sciphox:Beobachtung>  --> <sciphox:Parameter  DN=" Sprachtestmaterial "/> <sciphox:Ergebniswert  V=" anderes"/> </sciphox:Beobachtung> <sciphox:Parameter  DN=" Sprachtestmaterial anderes"/> <sciphox:Ergebnistext  V=" Freitext String "/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox -ssu XML-Code 10 – content (Vorverordnung) 5.1.3.1 :Ergebniswert im V -e- Attribut die Feldb zeichnung gemäß Tabelle plett weg. <sciphox:Parameter  DN=" Hörgeräteerstversorgung"/> <sciphox:Ergebniswert  V="Ja"/> </sciphox:Beobachtung>Seite 16 31von
-
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 | Wert bei Ergebniswert |
@@ -440,96 +354,111 @@ KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
 
 ---
 
-5.1.3.2 Wenn Vorversorgung, wann  Bei diesem Parameter enthält das Element ***sciphox:Zeitpunkt_dttm*** im ***V -Attribut die D*** a- tumsangabe. Das Format sieht folgendermaßen aus : JJJJ, w obei J JJJ =Jahr ist. Wenn keine  Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.3.2 Wenn Vorversorgung, wann  Bei diesem Parameter enthält das Element ***sciphox:Zeitpunkt_dttm*** tumsangabe. Das Format sieht folgendermaßen aus Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 12 – Vorversorgungsdatum
 
-5.1.3.3 Bauform  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -e-***Attribut die Feldb zeichnung gemäß Tabelle 2. Bweei diesem Parameter können mehrere Felder ausgewählt r- den. Es werden dann mehrere Elemente sciphox:Ergebniswert mit entsprechenden Werten  eingetragen. We nn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.3.3 Bauform  Bei diesem Parameter enthält das Element ***sciphox*** zeichnung gemäß Tabelle 2. Bweei diesem Parameter können mehrere Felder ausgewählt  den. Es werden dann mehrere Elemente ***sciphox:Ergebniswert***  eingetragen. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom
 
-| <> |
-|---|
-
-XML-Code 13 – Bauform
-
-| Wert bei Ergebniswert |
-|---|
-| IO |
-| HdO |
-| andere |
-
-Tabelle 2 – Bauform
-
-5.1.3.4 Bauform andere  Bei diesem Parameter enthält das Element sciphox ***:Ergebnistext***im  ***V -Attribut*** den Freitext des  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
-
-| <> |
-|---|
-
-XML-Code 14 – Bauform andere
-
-5.1.3.5 Zentrale Hörstörung ausgeschlossen  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -e-***Attribut die Feldb zeichnung gemäß Tabelle 3. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
-
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-sciphox:Beobachtung <sciphox:Parameter  DN=" Wenn  Vorversorgung, wann"/> <sciphox:Zeitpunkt_dttm  V="2010"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Bauform "/> <sciphox:Ergebniswert  V="IO"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Bauform andere"/> <sciphox:Ergebnistext  V="Freitext String "/> </sciphox:Beobachtung>Seite 17 31von
-
-
----
+weg.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <> |
 |---|
 
-XML-Code 15 – Zentrale Hörstörung ausgeschlossen
+XML-Code 13 – Bauform
+
+: JJJJ, w obei J JJJ =Jahr ist. Wenn keine
+
+im ***V***-Attribut die D a-
+
+***:Ergebniswert***im  ***V***-e-Attribut die Feldb r- mit entsprechenden Werten  plett
 
 | Wert bei Ergebniswert |
+|---|
+| IO |
+| HdO |
+|  |
+
+Tabelle 2 – Bauform
+
+5.1.3.4 Bauform andere  Bei diesem Parameter enthält das Element ***sciphox :Ergebnistext***im  ***V***-Attribut den Freitext des  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
+
+| <>   </ sciphox:Beobachtung> |
+|---|
+
+XML-Code 14 – Bauform andere
+
+5.1.3.5 Zentrale Hörstörung ausgeschlossen  Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert***im  ***V***-e-Attribut die Feldb zeichnung gemäß Tabelle 3. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
+
+<sciphox:Parameter  DN=" Wenn Vorversorgung, wann"/> <sciphox:Zeitpunkt_dttm  V =" 2010"/> sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung>  DN=" Bauform "/>  V =" IO"/> andere <sciphox:Parameter  DN=" Bauform andere"/> <sciphox:Ergebnistext  V =" Freitext String "/>
+
+
+---
+
+Als Beispiel sei hier folgender Code angegeben:
+
+| DN=" Zentrale Hörstörung ausgeschlossen  V =" Ja"/> |
+|---|
+
+XML-Code 15 – Zentrale Hörstörung ausgeschlossen
+
+|  |
 |---|
 | Ja |
 | Nein |
 
 Tabelle 3 – Zentrale Hörstörung ausgeschlossen
 
-5.1.3.6 Sprachtest möglich  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -Attribut die* Feldbe- zeichnung gemäß Tabelle 3. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.3.6 Sprachtest möglich  Bei diesem Parameter enthält das Element *sciphox* zeichnung gemäß Tabelle 3. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| DN=" Sprachtest möglich"/>  V =" Ja"/> |
 |---|
 
 XML-Code 16 – Sprachtest möglich
 
-5.1.3.7 Sprachverstehen: mit Kopfhörer am dBopt  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -Attribut* eine nicht ne- gative ganze Zahl. Bei diesem Parameter können mehrere Felder ausgewählt werden. Das *U -* Attribut des Elements sciphox:Ergebniswert ist mit dem Wert gemäß Tabelle 4 fest vorgege- ben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.3.7 Sprachverstehen: mit Kopfhörer am dBopt Bei diesem Parameter enthält das Element *sciphox* gative ganze Zahl. Bei diesem Parameter können mehrere Attribut des Elements *sciphox:Ergebniswert* ist mit dem Wert  ben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| DN=“ Sprachverstehen: mit Kopfhörer am dBopt  V =" 1" U =" db“ /> |
 |---|
-
-XML-Code 17 – Sprachverstehen: mit Kopfhörer am dBopt
 
 | Wert bei U-Attribut |
 |---|
 | dB |
-| % (E/Z) |
+|  |
 | dB (SVS) |
+
+XML-Code 17 – Sprachverstehen: mit Kopfhörer am dBopt
 
 Tabelle 4 – Sprachverstehen: mit Kopfhörer am dBopt
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+*:Ergebniswert*
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+*:Ergebniswert* Felder
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Zentrale Hörstörung ausgeschlossen "/> <sciphox:Ergebniswert  V="Ja"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Sprachtest möglich"/> <sciphox:Ergebniswert  V="Ja"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=“ Sprachverstehen: mit Kopfhörer am dBopt "/> <sciphox:Ergebniswert  V="1" U="db“ /> </sciphox:Beobachtung>Seite 18 31von
+im
 
+im  ausgewählt  gemäß
+
+*V*-Attribut die Feldbe-
+
+plett weg.
+
+*V*-Attribut eine nicht ne- werden. Das *U* Tabelle 4 fest vorgege- plett weg.
+
+sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> Wert bei Ergebniswert sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> "/> % (E/Z)
 
 ---
 
 | <content <local_markup |
 |---|
-| 5.1.3.8 Bei diesem Parameter enthält das Element sciphox Tabelle  Als Beispiel sei hier folgender Code angegeben:  <>         <sciphox:Ergebniswert </sciphox:Beobachtung>  XML-Code 18 – Zentrale Hörstörung ausgeschlossen  Wert bei Ergebniswert Freiburger Einsilber Freiburger Zahlen OLSA GÖSA andere Tabelle 5 – Sprachtestmaterial  5.1.3.9 Bei diesem Parameter enthält das Element sciphox:Ergebnistext  Als Beispiel sei hier folgender Code angegeben:   <>    XML-Code 19 – Sprachtestmaterial anderer   5.1.4 In diesem Kapitel wird der Abschnitt „Verordnung“ beschrieben. Der entsprechende Ausschnitt Abbildung dargestellt. Das Element content  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:  <content <local_markup |
+| 5.1.3.8 Sprachtestmaterial im Tabelle  Als Beispiel sei hier folgender Code angegeben:  <>         <sciphox:Ergebniswert </ sciphox:Beobachtung>    Wert bei Ergebniswert Freiburger Einsilber Freiburger Zahlen OLSA GÖSA andere   5.1.3.9 Sprachtestmaterial anderes   Als Beispiel sei hier folgender Code angegeben:   <>   </ sciphox:Beobachtung>    5.1.4 Abschnitt „Verordnung“ In diesem Kapitel wird der Abschnitt „Verordnung“ beschrieben. Der entsprechende Ausschnitt Abbildung content    <content <local_markup |
 
-| <>         <sciphox:Ergebniswert </sciphox:Beobachtung> |
+| <>         <sciphox:Ergebniswert </ sciphox:Beobachtung> |
 |---|
 
 | Wert bei Ergebniswert |
@@ -540,85 +469,85 @@ sciphox:Beobachtung <sciphox:Parameter  DN=" Zentrale Hörstörung ausgeschlosse
 | GÖSA |
 | andere |
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-<sciphox:Parameter  DN=" Sprachtestmaterial "/>  V="Freiburger Einsilber "/> V="OLSA "/> sciphox:Beobachtung <sciphox:Parameter  DN=" Sprachtestmaterial anderes"/> <sciphox:Ergebnistext  V="Freitext String "/> </sciphox:Beobachtung> :Ergebniswert im V -e- Attribut die Feldb zeichnung gemäß 5. Bei diesem Parameter können mehrere Felder  ausgewählt wer- den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. Sprachtestmaterial anderes im V -Attribut den Freitext des Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. des Dokumentationsbogens ist in 1 - Vorverordnung mit Verordnung und Nachver- ordnung QS Hörgeräteversorgung enthält genau ein El e- sciphox:Beobachtungen. Das Element sciphox:Beobachtungen enthält max. 12 Ki n- delemente sciphox:Beobachtung. Ein Element sciphox:Beobachtung enthält genau ein Ki n- delement sciphox:Parameter  und mindestens ein Kindelement bzw. i- phox:Ergebniswert Wenn keine Angaben in diesem Abschnitt gemacht wurden, entfällt der übergeordnete paragraph -Block.   ignore ="all" descriptor ="sciphox "> Seite 19 31von
-
+<sciphox:Parameter  DN=" Sprachtestmaterial "/>  V =" Freiburger Einsilber "/> V =" OLSA "/> <sciphox:Parameter  DN=" Sprachtestmaterial anderes"/> <sciphox:Ergebnistext  V =" Freitext String "/> -e- Attribut die Feldb Bei diesem Parameter enthält das Element zeichnung gemäß 5. Bei diesem Parameter können mehrere Felder  ausgewählt wer- den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. XML-Code 18 – Zentrale Hörstörung ausgeschlossen Tabelle 5 – Sprachtestmaterial -Attribut den Freitext des Bei diesem Parameter enthält das Element sciphox:Ergebnistext Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. XML-Code 19 – Sprachtestmaterial anderer des Dokumentationsbogens ist in 1 - Vorverordnung mit Verordnung und Nachver- ordnung QS Hörgeräteversorgung enthält genau ein El e- dargestellt. Das Element ment sciphox:Beobachtungen . Das Element sciphox:Beobachtungen enthält max. 12 Ki n- enthält genau ein Ki n- delemente . Ein Element sciphox:Ergebnistext bzw. i- delement sciphox:Parameter  und mindestens ein Kindelement Wenn keine Angaben in diesem Abschnitt gemacht wurden, entfällt der übergeordnete paragraph -Block.  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:  ignore =" all " descriptor =" sciphox
 
 ---
 
-|  |
+| <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Kno- |
 |---|
-| <sciphox:Beobachtungen>                                                        </local_markup> </content> |
+| <sciphox:Beobachtungen>  <sciphox:Parameter DN="Schallempfindungsschwerhörigkeit"/>    <sciphox:Parameter DN="Schallleitungsschwerhörigkeit"/>    <sciphox:Parameter DN="Kombinierte Schwerhörigkeit“/>    <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): rechts"/>    <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert V="geringgradig schwerhörig"/>   <sciphox:Parameter DN="Hörstörung > 80dB nach WHO 2001 tonaudiometri-    <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert V="Tinnitus"/>    <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen ande-    <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftlei- <sciphox:Ergebniswert V="HdO"/>     <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Kno- <sciphox:Ergebniswert V="Knochenleitungsbügel"/>    <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Son-     <sciphox:Parameter DN=" HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- <sciphox:Ergebnistext V="Freitext String"/>    </local_markup> </content> |
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 20 31
-
-von
-
-<sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schallempfindungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schallleitungsschwerhörigkeit"/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kombinierte Schwerhörigkeit“/> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): rechts"/> <sciphox:Ergebniswert V="normalhörig"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert V="geringgradig schwerhörig"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Hörstörung > 80dB nach WHO 2001 tonaudiometri- scher Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert V="links "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert V="Tinnitus"/> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige versorgungsrelevante Diagnosen ande- re"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftlei- tung"/> <sciphox:Ergebniswert V="HdO"/> <sciphox:Ergebniswert V="IO"/> <sciphox:Ergebniswert V="offene Versorgung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Kno- chenleitung"/> <sciphox:Ergebniswert V="Knochenleitungsbügel"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" HNO-ärztlicher Vorschlag zur Gerätetechnik: Son- derversorgung andere"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+<sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Ergebniswert V="links"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Ergebniswert V="normalhörig"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> </sciphox:Beobachtung>  <sciphox:Beobachtung> scher Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert V="links "/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> re"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> tung"/> <sciphox:Ergebniswert V="IO"/> <sciphox:Ergebniswert V="offene Versorgung"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> chenleitung"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> derversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> <sciphox:Ergebniswert V="andere"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> derversorgung andere"/> </sciphox:Beobachtung>  </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 ---
 
-XML-Code 20 – content (Verordnung)
-
-5.1.4.1 Schallempfindungsschwerhö rigkeit  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert***im  ***V -*** Attribut die Lokalisation gemäß Tabelle 6. Bei diesem Parameter kann der Anwender mehrere Felder auswählen.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.1 Schallempfindungsschwerhö Bei diesem Parameter enthält das Element  gemäß Tabelle 6. Bei diesem Parameter Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
 | <> |
 |---|
-
-XML-Code 21 – Schallempfindungsschwerh örigkeit
 
 | Wert bei Ergebniswert |
 |---|
 | links |
 | rechts |
 
+XML-Code 20 – content (Verordnung)
+
+***sciphox***
+
+XML-Code 21 – Schallempfindungsschwerh
+
+rigkeit  ***:Ergebniswert***im   kann der Anwender mehrere Felder
+
+örigkeit
+
 Tabelle 6 – Lokalisation
 
-5.1.4.2 Schallleitungsschwerhörigkeit  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert***im  ***V -*** Attribut die Lokalisation gemäß Tabelle 6. Bei diesem Parameter kann der Anwender mehrere Felder auswählen.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.2 Schallleitungsschwerhörigkeit  Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert***im   gemäß Tabelle 6. Bei diesem Parameter kann der Anwender mehrere  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom
 
-| <> |
+Als Beispiel sei hier folgender Code angegeben:
+
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 22 – Schallleitungsschwerhörigkeit
 
-5.1.4.3 Kombinierte Schwerhörigkeit  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert***im  ***V -*** Attribut die Lokalisation gemäß Tabelle 6. Bei diesem Parameter kann der Anwender mehrere Felder auswählen.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.3 Kombinierte Schwerhörigkeit  Bei diesem Parameter enthält das Element ***sciphox*** gemäß Tabelle 6. Bei diesem Parameter kann der Anwender mehrere  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
 | <> |
 |---|
 
+***:Ergebniswert***im
+
 XML-Code 23 – Kombinierte Schwerhörigkeit
 
-5.1.4.4 Schweregrad der Hörstörung (WHO 2001): rechts  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -e-***Attribut die Feldb zeichnung gemäß Tabelle 7. Bei diesem Parameter kann nur ein Feld ausgewählt werden.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
+5.1.4.4 Schweregrad der Hörstörung (WHO 2001): rechts Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert*** zeichnung gemäß Tabelle 7. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+***V*** Attribut die Lokalisation auswählen.  plett weg.
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+***V*** Attribut die Lokalisation Felder auswählen.  plett weg.
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Schallempfindungsschwerhörigkeit "/> <sciphox:Ergebniswert  V="links "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN="  Schallleitungsschwerhörigkeit "/> <sciphox:Ergebniswert  V="links "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Kombinierte Schwerhörigkeit "/> <sciphox:Ergebniswert  V="links "/> </sciphox:Beobachtung>Seite 21 31von
+***V*** Attribut die Lokalisation Felder auswählen.  plett weg.
 
+im  ***V***-e-Attribut die Feldb  plett weg.
+
+sciphox:Beobachtung <sciphox:Parameter  DN=" Schallempfindungsschwerhörigkeit <sciphox:Ergebniswert </ sciphox:Beobachtung>  V =" links "/> "/> <sciphox:Parameter  DN=" Schallleitungsschwerhörigkeit <sciphox:Ergebniswert  V =" links "/> "/> sciphox:Beobachtung <sciphox:Parameter  DN=" Kombinierte Schwerhörigkeit <sciphox:Ergebniswert  V =" links "/> "/> </ sciphox:Beobachtung>
 
 ---
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 24 – Schweregrad der Hörstörung (WHO 2001): rechts
 
 | Wert bei Ergebniswert |
 |---|
-| normal |
+| normal hörig |
 | geringgradig |
 | mittelgradig |
 | hochgradig |
@@ -627,35 +556,44 @@ XML-Code 24 – Schweregrad der Hörstörung (WHO 2001): rechts
 
 Tabelle 7 – Schweregrad der Hörstörung (WHO 2001)
 
-5.1.4.5 Schweregrad der Hörstörung (WHO 2001): links  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 7. Bei dies em Parameter kann nur ein Feld ausgewählt werden.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.5 Schweregrad der Hörstörung (WHO 2001): links  Bei diesem Parameter enthält das Element *sciphox :Ergebniswert* zeichnung gemäß Tabelle 7. Bei dies em Parameter kann nur ein  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 25 – Schweregrad der Hörstörung (WHO 2001): links
 
-5.1.4.6 Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei  0,5 / 1 / 2 / 4 kHz  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -* Attribut die Lokalisation gemäß Tabelle 6. Bei diesem Parameter können mehrere Felder ausgewählt werden.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.6 Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei  0,5 / 1 / 2 / 4 kHz  Bei diesem Parameter enthält das Element *sciphox :Ergebniswert* gemäß Tabelle 6. Bei diesem Parameter können mehrere Felder Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung |
+| <>   </ sciphox:Beobachtung |
 |---|
 
 XML-Code 26 – Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 / 4 kHz
 
-5.1.4.7 Sonstige versorgungsrelevante Diagnosen  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 8. Bkei diesem Parameter önnen mehrere Felder ausgewählt we r- den.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.  Als Beispiel sei hier folgender Code angegeben:
+5.1.4.7 Sonstige versorgungsrelevante Diagnosen  Bei diesem Parameter enthält das Element *sciphox :Ergebniswert* zeichnung gemäß Tabelle 8. Bkei diesem Parameter önnen mehrere Felder den.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom Als Beispiel sei hier folgender Code angegeben:
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+im  Feld ausgewählt werden.
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+im *V* Attribut die Lokalisation ausgewählt
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Schweregrad der Hörstörung (WHO 2001): rechts"/> <sciphox:Ergebniswert  V="normal hörig"/> </sciphox:Beobachtung> hörig  schwerhörig  schwerhörig  schwerhörig sciphox:Beobachtung <sciphox:Parameter  DN=" Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert  V="normal hörig"/> </sciphox:Beobachtung> <sciphox:Parameter  DN=" Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert  V="links "/> Seite 22 31von
+im
 
+*V*-e-Attribut die Feldb
+
+plett weg.
+
+werden.   plett weg.
+
+*V*-e-Attribut die Feldb ausgewählt wer-
+
+plett weg.
+
+<sciphox:Parameter  DN=" Schweregrad der Hörstörung (WHO 2001): rechts"/> <sciphox:Ergebniswert  V =" normal hörig"/>  schwerhörig  schwerhörig  schwerhörig <sciphox:Parameter  DN=" Schweregrad der Hörstörung (WHO 2001): links"/> <sciphox:Ergebniswert  V =" normal hörig"/> <sciphox:Parameter  DN=" Hörstörung > 80dB nach WHO 2001 tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 / 4 kHz"/> <sciphox:Ergebniswert  V =" links "/>
 
 ---
 
 | <> |
 |---|
-
-XML-Code 27 – Sonstige versorgungsrelevante Diagnosen
 
 | Wert bei Ergebniswert |
 |---|
@@ -664,21 +602,27 @@ XML-Code 27 – Sonstige versorgungsrelevante Diagnosen
 | Radikalhöhle |
 | andere |
 
-Tabelle 8 – Sonstige versorgungsrelevante Diagnosen
+5.1.4.8 Sonstige versorgungsrelevante Diagnosen andere Bei diesem Parameter enthält das Element  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom weg.
 
-5.1.4.8 Sonstige versorgungsrelevante Diagnosen andere  Bei diesem Parameter enthält das Element sciphox *:Ergebnistext im V -Attribut* den Freitext des  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
 
-| <>   andere"/> |
+| <>   andere"/>  </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 28 – Sonstige versorgungsrelevante Diagnosen andere
+XML-Code 27 – Sonstige versorgungsrelevante Diagnosen
 
-5.1.4.9 HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 9. Berei diesem Parameter können mehrere Feld ausgewählt we r- den.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.  Als Beispiel sei hier folgender Code angegeben:
+Tabelle 8 – Sonstige versorgungsrelevante Diagnosen
+
+*sciphox*
+
+XML-Code 28 – Sonstige versorgungsrelevante Diagnosen
+
+5.1.4.9 HNO-ärztlicher Vorschlag zur Gerätetechnik: Bei diesem Parameter enthält das Element *sciphox* zeichnung gemäß Tabelle 9. Berei diesem Parameter können mehrere Feld den.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom Als Beispiel sei hier folgender Code angegeben:
 
 | <> |
 |---|
 
-XML-Code 29 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung
+XML-Code 29 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
 | Wert bei Ergebniswert |
 |---|
@@ -688,87 +632,99 @@ XML-Code 29 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung
 | geschlossene Versorgung |
 | Ex Hörer |
 
-Tabelle 9 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung
+Tabelle 9 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+*:Ergebnistext* im *V*
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+-Attribut den Freitext des  plett
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert  V="Tinnitus"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Sonstige versorgungsrelevante Diagnosen <sciphox:Ergebnistext  V="Freitext String </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Luftleitung"/> <sciphox:Ergebniswert  V="HdO "/> </sciphox:Beobachtung>Seite 23 31von
+andere
 
+Luftleitung  *:Ergebniswert* im *V*-e-Attribut die Feldb ausgewählt wer-
+
+plett weg.
+
+Luftleitung
+
+Luftleitung
+
+sciphox:Beobachtung <sciphox:Parameter  DN=" Sonstige versorgungsrelevante Diagnosen"/> <sciphox:Ergebniswert </ sciphox:Beobachtung>  V =" Tinnitus"/> <sciphox:Parameter  DN=" Sonstige versorgungsrelevante Diagnosen <sciphox:Ergebnistext  V =" Freitext String sciphox:Beobachtung <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Luftleitung"/> <sciphox:Ergebniswert  V =" HdO "/> </ sciphox:Beobachtung>
 
 ---
 
-5.1.4.10 HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -e-***Attribut die Feldb zeichnung gemäß Tabelle 10. Berei diesem Parameter können mehrere Feld ausgewählt  werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.10 HNO-ärztlicher Vorschlag zur Gerätetechnik: Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert*** zeichnung gemäß Tabelle 10. Berei diesem Parameter können mehrere Feld werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>  "/> </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 30 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung
+XML-Code 30 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
 | Wert bei Ergebniswert Knochenleitungsbügel |
 |---|
-| teilimplantiertes Knochenleitungsgerät |
+|  |
 
-Tabelle 10 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung
+Tabelle 10 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
-5.1.4.11 HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -e-***Attribut die Feldb zeichnung gemäß Tabelle 11. Berei diesem Parameter können mehrere Feld ausgewählt  werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.11 HNO-ärztlicher Vorschlag zur Gerätetechnik: Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert*** zeichnung gemäß Tabelle 11. Berei diesem Parameter können mehrere Feld werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>  "/> </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 31 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung
+XML-Code 31 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
 | Wert bei Ergebniswert |
 |---|
 | CROS / BiCROS |
 | andere |
 
-Tabelle 11 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung
+Tabelle 11 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
-5.1.4.12 HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere  Bei diesem Parameter enthält das Element sciphox ***:Ergebnistext***im  ***V -Attribut*** den Freitext des  Anwenders.Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
+5.1.4.12 HNO-ärztlicher Vorschlag zur Gerätetechnik: Bei diesem Parameter enthält das Element ***sciphox :Ergebnistext*** Anwenders.Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom weg.   Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 32 – HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere
+XML-Code 32 – HNO-ärztlicher Vorschlag zur Gerätetechnik:
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+Knochenleitung  im  ***V***-e-Attribut die Feldb
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+Knochenleitung
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung"/> <sciphox:Ergebniswert  V="Knochenleitungsbügel "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung"/> <sciphox:Ergebniswert  V="CROS / BiCROS "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere"/> <sciphox:Ergebnistext  V="Freitext String "/> </sciphox:Beobachtung>Seite 24 31von
+Knochenleitung
 
+Sonderversorgung im  ***V***-e-Attribut die Feldb
+
+Sonderversorgung
+
+Sonderversorgung
+
+Sonderversorgung andere  im  ***V***-Attribut den Freitext des
+
+Sonderversorgung andere
+
+ausgewählt  plett weg.
+
+ausgewählt  plett weg.
+
+plett
+
+<sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung"/> <sciphox:Ergebniswert  V =" Knochenleitungsbügel teilimplantiertes Knochenleitungsgerät <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung"/> <sciphox:Ergebniswert  V =" CROS / BiCROS <sciphox:Parameter  DN=" HNO -ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung andere"/> <sciphox:Ergebnistext  V =" Freitext String "/>
 
 ---
 
 | <content> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1">  <sciphox:Beobachtungen> |
 |---|
-| 6 Der Body der QS Hörgeräteversorgung Nachverordnung hat die gleiche Struktur wie die „Vor-  6.1.1 Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element section <section>         </section> XML-Code 33 – section  6.1.2 In diesem Kapitel wird der Abschnitt „Nachverordnung“ beschrieben. Der entsprechende Aus- Nachverordnung QS Hörgeräteversorgung dargestellt.  Das Element content enthält genau ein Element sciphox:Beobachtungen. Das Element sci-  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus: |
+| 6 body –  QS Hörgeräteversorgung Nachverordnung Der Body der QS Hörgeräteversorgung Nachverordnung hat die gleiche Struktur wie die „Vor-  6.1.1 caption section <section>  <caption>  </caption> <content>  </content>  </section> XML-Code 33 – section  6.1.2 Abschnitt „Nachverordnung“ In diesem Kapitel wird der Abschnitt „Nachverordnung“ beschrieben. Der entsprechende Aus- Nachverordnung QS Hörgeräteversorgung dargestellt.  content  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus: |
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 25 31
-
-von
-
-body –  QS Hörgeräteversorgung Nachverordnung verordnung“ und „Verordnung“. Er enthält aber nur den Abschnitt „Nachverordnung“, der in diesem Kapitel beschrieben wird. caption wie folgt aus. <paragraph> <caption> caption_cdDN="Nachverordnung"/> </caption> ... </content> </paragraph> schnitt des Dokumentationsbogens ist in Abbildung 1 - Vorverordnung mit Verordnung und phox:Beobachtungen enthält max. 10 Kindelemente sciphox:Beobachtung. Wenn keine An- gaben in diesem Abschnitt gemacht wurden, entfällt der übergeordnete paragraph -Block.  <sciphox:Beobachtung> <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufge- stellten Versorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Luftleitung"/> <sciphox:Ergebniswert V="IO"/>               <sciphox:Ergebniswert V="HdO"/> </s> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Knochenleitung "/> <sciphox:Ergebniswert V="Knochenleitungsbügel"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Sonderversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Sonderversorgung andere"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en)"/>
+verordnung“ und „Verordnung“. Er enthält aber nur den Abschnitt „Nachverordnung“, der in diesem Kapitel beschrieben wird. Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element wie folgt aus. <paragraph> caption_cd DN="Nachverordnung"/> ... </paragraph> schnitt des Dokumentationsbogens ist in Abbildung 1 - Vorverordnung mit Verordnung und enthält genau ein Element . Das Element sci- Das Element  enthält max. 10 Kindelemente . Wenn keine An- gaben in diesem Abschnitt gemacht wurden, entfällt der übergeordnete paragraph -Block.  <sciphox:Beobachtung> <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufge- stellten Versorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Luftleitung"/> <sciphox:Ergebniswert V="IO"/>               <sciphox:Ergebniswert V="HdO"/> </s> <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Knochenleitung "/> <sciphox:Ergebniswert V="Knochenleitungsbügel"/> <sciphox:Ergebniswert V="teilimplantiertes Knochenleitungsgerät"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Sonderversorgung"/> <sciphox:Ergebniswert V="CROS / BiCROS"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Abweichung in Sonderversorgung andere"/> <sciphox:Ergebnistext V="Freitext String"/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en)"/>
 
 ---
 
-| XML-Code 34 – content (Nachverordnung)  6.1.2.1 Bei diesem Parameter enthält das Element sciphox Tabelle Bei diesem Parameter Als Beispiel sei hier folgender Code angegeben:  <>   </sciphox:Beobachtung XML-Code 35 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten  Wert bei Ergebniswert Ja Nein Tabelle 12 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Versorgungskonzept  6.1.2.2 Bei diesem Parameter enthält das Element sciphox Tabelle ei diesem Parameter können mehrere Feld  Als Beispiel sei hier folgender Code angegeben: |
+| 6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- :Ergebniswert Tabelle kann nur ein Als Beispiel sei hier folgender Code angegeben:  <> r-  </ sciphox:Beobachtung Versorgungskonzept  Wert bei Ergebniswert Ja Nein   6.1.2.2 Abweichung in Luftleitung :Ergebniswert Tabelle ei diesem Parameter können mehrere Feld  Als Beispiel sei hier folgender Code angegeben: |
 |---|
-| </sciphox:sciphox </local_markup </content |
+| "/>    -Untersuchung möglich:    -Untersuchung möglich:   "/>    -        </ sciphox:sciphox </ local_markup </ content |
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-<sciphox:Ergebniswert  V="10" U="% (E/Z) "/> <sciphox:Ergebniswert  V=" 20" U="dB (SVS)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter  DN=" Keine FF -Untersuchung möglich:  Hörweite (m) ohne HG "/> <sciphox:Ergebniswert  V=" 10" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter  DN="  Keine FF -Untersuchung möglich:  Hörweite (m) mit HG "/> <sciphox:Ergebniswert  V=" 20" U="m"/> </sciphox:Beobachtung> <!-- <sciphox:Parameter  DN ="Sprachtest möglich "/> <sciphox:Ergebniswert  V=" Ja"/> </sciphox:Beobachtung>  --> <sciphox:Beobachtung> <sciphox:Parameter  DN=" Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB Fragebogen (vor / nach HG -Versorgung) "/> <sciphox:Ergebniswert  V=" 95" U="%"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter  DN=" Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert  V=" Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> -ssu Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- :Ergebniswert im V -e- Attribut die Feldb zeichnung gemäß 12. kann nur ein Feld ausgewählt werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom plett weg. <sciphox:Parameter  DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve r- "/> <sciphox:Ergebniswert  V="Ja"/> Abweichung in Luftleitung :Ergebniswert im V -e- Attribut die Feldb zeichnung gemäß 9. Ber  ausgewählt we r- den. Wenn keine Angaben gemacht wurden, fällt  dieser Beobachtungsblock kom plett weg. Seite 26 31von
-
-| <>   </sciphox:Beobachtung |
+<sciphox:Ergebniswert  V =" 10 " U =" % (E/Z) <sciphox:Ergebniswert  V=" 20 " U =" dB (SVS)"/> </ sciphox:Beobachtung> <sciphox:Beobachtung>  Hörweite (m) ohne HG <sciphox:Parameter  DN=" Keine FF <sciphox:Ergebniswert  V=" 10 " U =" m"/> </ sciphox:Beobachtung> <sciphox:Beobachtung>  Hörweite (m) mit HG <sciphox:Parameter  DN=" Keine FF <sciphox:Ergebniswert  V=" 20 " U =" m"/> </ sciphox:Beobachtung> <! -- <sciphox:Parameter  DN =" Sprachtest möglich <sciphox:Ergebniswert  V=" Ja "/> </ sciphox:Beobachtung>  --> <sciphox:Beobachtung> <sciphox:Parameter  DN=" Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB Fragebogen (vor / nach HG -Versorgung) <sciphox:Ergebniswert  V=" 95 " U =" % "/> </ sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter  DN=" Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert  V=" Ja "/> </ sciphox:Beobachtung> </ sciphox:Beobachtungen> -ssu > XML-Code 34 – content (Nachverordnung) im -e- Attribut die Feldb Bei diesem Parameter enthält das Element zeichnung gemäß 12. Bei diesem Parameter Feld ausgewählt werden. plett weg. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom <sciphox:Parameter  DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve <sciphox:Ergebniswert  V =" Ja"/> XML-Code 35 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Tabelle 12 – Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Versorgungskonzept im -e- Attribut die Feldb Bei diesem Parameter enthält das Element zeichnung gemäß 9. Ber  ausgewählt wer- den. Wenn keine Angaben gemacht wurden, fällt  dieser Beobachtungsblock kom plett weg. | <> r-  </ sciphox:Beobachtung |
 |---|
 
 | Wert bei Ergebniswert |
@@ -779,49 +735,98 @@ KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
 
 ---
 
-| <> |
+| DN=" Abweichung in Luftleitung"/>  V =" HdO "/> |
 |---|
 
-XML-Code 36 – Abweichung in Luftleitung
+XML-Code 36 – Abweichung
 
-6.1.2.3 Abweichung in Knochenleitung  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 10. Berei diesem Parameter können mehrere Feld ausgewählt  werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+6.1.2.3 Abweichung in Knochenleitung  Bei diesem Parameter enthält das Element *sciphox* zeichnung gemäß Tabelle 10. Berei diesem Parameter können mehrere Feld werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| DN=" Abweichung in Knochenleitung"/>  V =" Knochenleitungsbügel |
 |---|
 
-XML-Code 37 – Abweichung in Knochenleitung
+XML-Code 37 – Abweichung
 
-6.1.2.4 Abweichung in Sonderversorgung  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 11. Berei diesem Parameter können mehrere Feld ausgewählt  werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+6.1.2.4 Abweichung in Sonderversorgung  Bei diesem Parameter enthält das Element *sciphox* zeichnung gemäß Tabelle 11. Berei diesem Parameter können mehrere Feld werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| DN=" Abweichung in Sonderversorgung"/>  V =" CROS / BiCROS |
 |---|
 
-XML-Code 38 – Abweichung in Sonderversorgung
+6.1.2.5 Abweichung in Sonderversorgung andere  Bei diesem Parameter enthält das Element  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom
 
-6.1.2.5 Abweichung in Sonderversorgung andere  Bei diesem Parameter enthält das Element sciphox *:Ergebnistext im V -Attribut* den Freitext des  Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett  weg.   Als Beispiel sei hier folgender Code angegeben:
+XML-Code 38 – Abweichung in
 
-| <> |
+*sciphox*
+
+weg.
+
+Als Beispiel sei hier folgender Code angegeben:
+
+| DN=" Abweichung in  V =" Freitext String |
 |---|
 
-XML-Code 39 – Abweichung in Sonderversorgung andere
+XML-Code 39 – Abweichung in Sonderversorgung
 
-6.1.2.6 Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en)  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -Attribut* eine nicht ne- gative ganze Zahl. Bei diesem Parameter können mehrere Felder ausgewählt werden. Das U -
+6.1.2.6 Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en) Bei diesem Parameter enthält das Element *sciphox* gative ganze Zahl. Bei diesem Parameter können mehrere Felder ausgewählt werden.
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
+in Luftleitung
 
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
+*:Ergebniswert*
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Abweichung in Luftleitung"/> <sciphox:Ergebniswert  V="HdO "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Abweichung in Knochenleitung"/> <sciphox:Ergebniswert  V="Knochenleitungsbügel "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Abweichung in Sonderversorgung"/> <sciphox:Ergebniswert  V="CROS / BiCROS "/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Abweichung in Sonderversorgung andere"/> <sciphox:Ergebnistext  V="Freitext String "/> </sciphox:Beobachtung>Seite 27 31von
+in Knochenleitung
 
+*:Ergebniswert*
+
+Sonderversorgung
+
+*:Ergebnistext* im
+
+*:Ergebniswert*
+
+im
+
+im
+
+*V*-Attribut
+
+andere
+
+im *V*
+
+*V*-e-Attribut die Feldb
+
+*V*-e-Attribut die Feldb
+
+den Freitext des -Attribut
+
+ausgewählt  plett weg.
+
+ausgewählt  plett weg.
+
+plett
+
+eine nicht ne- D as *U*
+
+sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter <sciphox:Ergebniswert </ sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter Sonderversorgung andere"/> <sciphox:Ergebnistext "/> </ sciphox:Beobachtung>
 
 ---
 
-Attribut des Elements ***sciphox:Ergebniswert*** ist gemäß Tabelle 13 fest vorgegeben. Wenn kei- ne Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+Attribut des Elements  ne Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <> "/>  /> </ sciphox:Beobachtung> |
 |---|
 
+***sciphox:Ergebniswert***
+
+ist gemäß
+
 XML-Code 40 – Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en)
+
+Tabelle 13 fest vorgegeben.
+
+plett weg.
+
+Wenn kei-
 
 | Wert bei U-Attribut |
 |---|
@@ -830,48 +835,44 @@ XML-Code 40 – Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en)
 
 Tabelle 13 – Erzieltes Sprachverstehen: im Freifeld mit Hörgerät(en)
 
-6.1.2.7 Keine FF-Untersuchung möglich: Hörweite (m) ohne HG  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert***im  ***V -Attribut*** eine nicht ne- gative ganze Zahl. Das ***U -Attribut des Elements sciphox:Ergebniswert*** ist mit dem Wert „m“  fest vorgegeben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock  kom plett weg.   Als Beispiel sei hier folgender Code angegeben:
+6.1.2.7 Keine FF-Untersuchung möglich: Hörweite (m) ohne HG  Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert***im  ***V***-Attribut eine nicht ne- gative ganze Zahl. Das ***U***-Attribut des Elements ***sciphox:Ergebniswert*** ist mit dem Wert „m“  fest vorgegeben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock  kom plett weg.   Als Beispiel sei hier folgender Code angegeben:
 
-| <>  Hörweite (m) ohne HG |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 41 – Keine FF-Untersuchung möglich: Hörweite (m) ohne HG
+XML-Code 41 – Keine FF -Untersuchung möglich: Hörweite (m) ohne HG
 
-6.1.2.8 Keine FF-Untersuchung möglich: Hörweite (m) mit HG  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert***im  ***V -Attribut*** eine nicht ne- gative ganze Zahl. Das ***U -Attribut des Elements sciphox:Ergebniswert*** ist mit dem Wert „m“  fest vorgegeben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock  kom plett weg.   Als Beispiel sei hier folgender Code angegeben:
+6.1.2.8 Keine FF- Untersuchung möglich: Hörweite (m) mit HG  Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert***im  ***V***-Attribut eine nicht ne- gative ganze Zahl. Das ***U***-Attribut des Elements ***sciphox:Ergebniswert*** ist mit dem Wert „m“  fest vorgegeben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock  kom plett weg.   Als Beispiel sei hier folgender Code angegeben:
 
-| <>  Hörweite (m) mit |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
-XML-Code 42 – Keine FF-Untersuchung möglich: Hörweite (m) mit HG
+XML-Code 42 – Keine FF -Untersuchung möglich: Hörweite (m) mit HG
 
-6.1.2.9  Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen  (vor / nach HG -Versorgung)  Bei diesem Parameter enthält das Element sciphox ***:Ergebniswert im***  ***V -Attribut*** eine ganze  Zahl. Das ***U -Attribut des Elements sciphox:Ergebniswert*** ist mit dem Wert „%“ f est vorgege- ben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
+6.1.2.9 Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen  (vor / nach HG -Versorgung)  Bei diesem Parameter enthält das Element ***sciphox :Ergebniswert***im  ***V***-Attribut eine ganze  Zahl. Das ***U***-Attribut des Elements ***sciphox:Ergebniswert*** ist mit dem Wert „%“ f est vorgege- ben. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-sciphox:Beobachtung <sciphox:Parameter  DN=“ Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en) "/> <sciphox:Ergebniswert  V="20" U="% (E/Z)"  /> </sciphox:Beobachtung> sciphox:Beobachtung "/> <sciphox:Parameter  DN=“ Keine FF -Untersuchung möglich: <sciphox:Ergebniswert  V="20" U="m"/> </sciphox:Beobachtung> sciphox:Beobachtung  HG "/> <sciphox:Parameter  DN=“  Keine FF -Untersuchung möglich: <sciphox:Ergebniswert  V="20" U="m"/> </sciphox:Beobachtung>Seite 28 31von
+<sciphox:Parameter  DN=“ Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en) <sciphox:Ergebniswert  V =" 20" U =" % (E/Z)" Hörweite (m) ohne HG "/> <sciphox:Parameter  DN=“ Keine FF -Untersuchung möglich: <sciphox:Ergebniswert  V =" 20" U =" m "/> Hörweite (m) mit  HG "/> <sciphox:Parameter  DN=“ Keine FF -Untersuchung möglich: <sciphox:Ergebniswert  V =" 20" U =" m "/>
 
 
 ---
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>   </sciphox:Beobachtung |
+| <> -Versorgung)  </ sciphox:Beobachtung |
 |---|
 
-XML-Code 43 – Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB -Fragebogen (vor / nach HG - Versorgung)
+-Fragebogen (vor / nach HGXML-Code 43 – Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB Versorgung)
 
-6.1.2.10 Sprachtest möglich  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -Attribut* die Feldbe- zeichnung gemäß Tabelle 14. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+Sprachtest möglich 6.1.2.10  *sciphox :Ergebniswert* im *V*-Attribut die Feldbe-Bei diesem Parameter enthält das Element  zeichnung gemäß Tabelle 14. Bei diesem Parameter kann nur ein Feld ausgewählt werden.  Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 44 – Sprachtest möglich
 
-6.1.2.11 Versorgung erfolgte zum Festbetrag  Bei diesem Parameter enthält das Element sciphox *:Ergebniswert im V -e-*Attribut die Feldb zeichnung gemäß Tabelle 14. Bei diesem Parameter kann nur ein Feld ausgewählt werden.   Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.   Als Beispiel sei hier folgender Code angegeben:
+6.1.2.11 Versorgung erfolgte zum Festbetrag  *sciphox :Ergebniswert* im *V*-e-Attribut die FeldbBei diesem Parameter enthält das Element  zeichnung gemäß Tabelle 14. Bei diesem Parameter kann nur ein Feld ausgewählt werden.   plett weg. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock kom  Als Beispiel sei hier folgender Code angegeben:
 
-| <> |
+| <>   </ sciphox:Beobachtung> |
 |---|
 
 XML-Code 45 – Versorgung erfolgte zum Festbetrag
@@ -883,55 +884,26 @@ XML-Code 45 – Versorgung erfolgte zum Festbetrag
 
 Tabelle 14 – Versorgung erfolgte zum Festbetrag
 
-IT in der Arztpraxis  QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-<sciphox:Parameter  DN=“ Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB -Fragebogen (vor / nach HG -Versorgung) "/> <sciphox:Ergebniswert  V="20" U="%"/> sciphox:Beobachtung <sciphox:Parameter  DN=" Sprachtest möglich"/> <sciphox:Ergebniswert  V="Ja"/> </sciphox:Beobachtung> sciphox:Beobachtung <sciphox:Parameter  DN=" Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert  V="Ja"/> </sciphox:Beobachtung>Seite 29 31von
-
+-Fragebogen (vor <sciphox:Parameter  DN=“ Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB / nach HG "/> <sciphox:Ergebniswert  V =" 20" U =" % "/> <sciphox:Parameter  DN=" Sprachtest möglich"/> <sciphox:Ergebniswert  V =" Ja"/> <sciphox:Parameter  DN=" Versorgung erfolgte zum Festbetrag"/> <sciphox:Ergebniswert  V =" Ja"/>
 
 ---
 
-**7**
-
-### Anhang
-
-### 7.1
-
-### Glossar
+**7 Anhang**   **7.1 Glossar**
 
 | Kürzel | Beschreibung |
 |---|---|
 | DN S | DN-Attribut (display name) S-Attribut (source) |
 | String V | Kette aus alphanumerischen Zeichen V-Attribut (value) |
 
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 30 31
-
-von
-
 
 ---
 
-**8**
-
-## Referenzierte Dokumente
+**8 Referenzierte Dokumente**
 
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Plausi_QSHGV] | Plausibilitäten und Berechnungsvorschrift QS Hörg |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Richtlinie zum Austausch von XML |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku |
-
-**IT in der Arztpraxis** QS Hörgeräteversorgung Schnittstellenbeschreibung
-
-KBV_ITA_VGEX_Schnittstelle_QSHGV * Version 1.12
-
-Seite 31 31
-
-von
 
 e- räteversorgung -Daten in der ver- tragsärztlichen Versorgung, in aktuellster Version -Header, in aktu- ellster Version

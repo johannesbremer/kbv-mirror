@@ -1,50 +1,214 @@
 ## TOP 20 Systeme - Hautärzte
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG393398-5
+2.80 **CGM MEDISTAR BLACK PRO**
 
-457 **tomedo**Zollsoft GmbH2532458
+4.57 **tomedo**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG242247-5
+1.12 **TURBOMED**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG156158-2
+2.03 **ALBIS**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 1271261
+2.10 **Medical Office**
 
-216 **x.isynet**medatixx GmbH & Co. KG122123-1
+2.16 **x.isynet**
 
-462 **medatixx**medatixx GmbH & Co. KG1041022
+4.62 **medatixx**
 
-261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender 98100-2
+2.61 **S3-Win**
 
-243 **x.concept**medatixx GmbH & Co. KG8588-3
+2.43 **x.concept**
 
-498 **T2med**T2med GmbH & Co. KG82802
+4.98 **T2med**
 
-244 **QUINCY WIN**Frey ADV GmbH7677-1
+2.44 **QUINCY WIN**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG7273-1
+2.52 **CGM M1 PRO**
 
-135 **EL - Elaphe Longissima**medatixx GmbH & Co. KG5658-2 1
+1.35 **EL - Elaphe Longissima**
+
+CompuGroup Medical Deutschland AG
+
+Zollsoft GmbH
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+S3 Praxiscomputer GmbH / Maximilian Flender
+
+medatixx GmbH & Co. KG
+
+T2med GmbH & Co. KG
+
+Frey ADV GmbH
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG 1
+
+3.93
+
+2.53
+
+2.42
+
+1.56
+
+1.27
+
+1.22
+
+1.04
+
+9.8
+
+8.5
+
+8.2
+
+7.6
+
+7.2
+
+5.6
+
+3.98
+
+2.45
+
+2.47
+
+1.58
+
+1.26
+
+1.23
+
+1.02
+
+1.00
+
+8.8
+
+8.0
+
+7.7
+
+7.3
+
+5.8
+
+-5
+
+8
+
+-5
+
+-2
+
+1
+
+-1
+
+2
+
+-2
+
+-3
+
+2
+
+-1
+
+-1
+
+-2
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-254 **ORBIS®**Dedalus HealthCare GmbH4142-1 015 **MEDYS**MEDYS GmbH37370
+2.54 **ORBIS®**
 
-343 **SAP Ambulatory Care Management** SAP SE35323
+0.15 **MEDYS**
 
-266 **x.comfort**medatixx GmbH & Co. KG3437-3 086 **DURIA**Duria eG31310
+3.43 **SAP Ambulatory Care Management**
 
-083 **PegaMed**PEGA Elektronik GmbH25250
+2.66 **x.comfort**
 
-030 **Praxis-Programm**MediSoftware Computersysteme für Ärzte 24240 2
+0.86 **DURIA**
+
+0.83 **PegaMed**
+
+0.30 **Praxis-Programm**
+
+Dedalus HealthCare GmbH
+
+MEDYS GmbH
+
+SAP SE
+
+medatixx GmbH & Co. KG
+
+Duria eG
+
+PEGA Elektronik GmbH
+
+MediSoftware Computersysteme für Ärzte 2
+
+4.1
+
+3.7
+
+3.5
+
+3.4
+
+3.1
+
+2.5
+
+2.4
+
+4.2
+
+3.7
+
+3.2
+
+3.7
+
+3.1
+
+2.5
+
+2.4
+
+-1
+
+0
+
+3
+
+-3
+
+0
+
+0
+
+0

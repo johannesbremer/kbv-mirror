@@ -1,3 +1,5 @@
+Name, Vorname des VersichertenKostenträgerkennung Versicherten-Nr.
+
 ### Informationen zum Antrags- und Gutachtenverfahren für Psychotherapie
 
 **Wie läuft das Antragsverfahren ab?**
@@ -14,5 +16,3 @@
 - Rehabilitative Verfahren der letzten vier Jahre (Diagnosen, Zeiträume, Institution, Kostenträger) Gutachter*innen erhalten keine Informationen zu Ihrem Namen, Adresse oder Versicherungsnummer.
 
 PRF.NR. Muster PTV 1c.2/E (7.2020)
-
-Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung

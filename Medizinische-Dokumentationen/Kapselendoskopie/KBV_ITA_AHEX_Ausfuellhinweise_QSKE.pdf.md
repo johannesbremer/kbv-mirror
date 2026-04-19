@@ -9,13 +9,15 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version |
+|  | 1.01 |
 |  |  |
 
-1.01 Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
+Version  Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft
 
 
 ---
+
+IT in der Arztpraxis
 
 ### DOKUMENTENHISTORIE
 
@@ -24,18 +26,11 @@
 | 1.01 | 21.01.2015 | KBV | Redaktionelle Korrekturen | Überarbeitung der |  |
 | 1.00 | 10.11.2014 | KBV | Initiales Dokument |  |  |
 
-IT in der Arztpraxis Ausfüllhinweise
+* Version:
 
-KBV_ITA_AHEX
+***1.01***
 
-Kapselendoskopie
-
-_Ausfuellhinweise_QSKE
-
-* Version: 1.***01***
-
-AusfüllhinweiseSeite 2 von 7
-
+Ausfüllhinweise
 
 ---
 
@@ -45,45 +40,37 @@ AusfüllhinweiseSeite 2 von 7
 
 **INHALTSVERZEICHNIS_____________________________________________________ 3**
 
-**1 PRÄAMBEL ___________________________________________________________ 4**
+**1** **PRÄAMBEL ___________________________________________________________ 4**
 
-**2 EINGABEDATEN _______________________________________________________ 5**
+**2** **EINGABEDATEN _______________________________________________________ 5**
 
-**3 REFERENZIERTE DOKUMENTE __________________________________________ 7**
+**3** **REFERENZIERTE DOKUMENTE __________________________________________ 7**
 
-**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
-
-KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version: 1.01
-
-Seite 3 von 7
+1.01
 
 
 ---
 
-| 1 | Präambel |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Im Rahmen | der |  | Qualitätssicherungsvereinbarung | | |  | Kapselendoskopie | (QSKE) |
-| arztbezogene |  | Jahresstatistik | an | die | zuständige | Datenannahmestelle | | übermittelt. |
-| Der § 8 | Abs. 1 | der | Vereinbarung | [1] gibt | vor, | welche Angaben | für | die Statistik |
-| sind. | Nachfolgend | erhalten | Sie | Erläuterungen | zu | den einzelnen |  | Eingabedaten, |
-| Dokumentation | | dem Anwender | zur | Verfügung | gestellt | werden | dürfen. |  |
+**1**
 
-**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
+## Präambel
 
-KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version: 1.01
+### Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird eine  arztbezogene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.  Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik erforderlich
 
-Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird eine arztbezogene Jahresstatistik an die zuständige Datenannahmestelle übermittelt. Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik erforderlich sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, welche für die Dokumentation dem Anwender zur Verfügung gestellt werden dürfen. Seite 4 von 7
+sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, welche für die
+
+### Dokumentation dem Anwender zur Verfügung gestellt werden dürfen.
 
 
 ---
 
 **2**
 
-## Eingabedaten
+**Eingabedaten**
 
 | Nr. gem. Plausi- [KBV_ITA_VGEX_ | Ausfüllhinweis |
 |---|---|
-| 1.a | Eine Erstuntersuchung ist jede Untersuchung zur Abklärung einer Fragestellung obskurer Blutungen. Eine Wiederholungsuntersuch Eine Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungs-, sondern eine Erstuntersuchung.  In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl  Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte |
+| 1.a | Eine Erstuntersuchung ist jede Untersuchung zur Abklärung einer Fragestellung obskurer Blutungen. Eine Wiederholungsuntersuch Eine Untersuchung im Rahmen einer Verlaufskontrolle ist  In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl  Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte |
 | 1.b | |
 | 2.a | Zu den durchgeführten Untersuchungen im Berichtsjahr sind Angaben zur Auslassmöglichkeit einer ggf. vorhandenen |
 | 2.b | |
@@ -100,16 +87,11 @@ Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird 
 |  | |
 |  | |
 |  | |
-| Eine Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungs-, sondern eine Erstuntersuchung. | |
+| Eine Untersuchung im Rahmen einer Verlaufskontrolle ist | |
 | In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appl | |
 | Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierte | 1.b |
 
-**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
-
-**KBV_ITA_AHEX_Ausfuellhinweise _QSKE * Version: 1.01**
-
-Katalog Plausi_QSKE] ung liegt vor, wenn die Untersuchung aufgrund mangelnder Beurteilbarkeit oder Unvollständigkeit nochmals notwendig ist. iziert haben, aber diese von einem anderen Arzt ausgewertet wurden, müssen Sie als Applizierer die Befunddaten dieser Untersuchungen in ihre Statistik übernehmen. n und abgerechneten Kapselendoskopien. blutungsfördernden Medikation zu dokumentieren. Auswertungen sie beauftragt haben. efunde an den applizierenden (= beauftragenden) Arzt übermitteln und dürfen hier die Anzahl der an sie beauftragten Auswertungen nicht eintragen. den.  beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren.  vom jeweiligen Auswerter anzugeben. einen eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren.Seite 5 von 7
-
+Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbarkeit oder Unvollständigkeit nochmals notwendig ist. keine  Wiederholungs-, sondern eine Erstuntersuchung. diese von einem anderen Arzt ausgewertet wurden, müssen Sie als Applizierer die Befunddaten dieser Untersuchungen in ihre Statistik übernehmen. abgerechneten Kapselendoskopien. blutungsfördernden Medikation zu dokumentieren. Auswertungen sie beauftragt haben. Arzt übermitteln und dürfen hier die Anzahl der an sie beauftragten Auswertungen beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. jeweiligen Auswerter anzugeben. beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. efunde an den applizierenden (= beauftragenden) nicht  eintragen. einen eigenen Auswertungen, oder falls diese ung liegt iziert haben, aber n und den.   vom
 
 ---
 
@@ -136,12 +118,7 @@ Katalog Plausi_QSKE] ung liegt vor, wenn die Untersuchung aufgrund mangelnder Be
 | 6.b.IV | |
 | 7 | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom je Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw |
 
-**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
-
-**KBV_ITA_AHEX_Ausfuellhinweise _QSKE * Version: 1.01**
-
-erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben. eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstat istik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung.Seite 6 von 7
-
+erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben. eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstat istik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung.
 
 ---
 
@@ -154,9 +131,3 @@ erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Ausw
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für |
-
-**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
-
-KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version: 1.01
-
-Seite 7 von 7

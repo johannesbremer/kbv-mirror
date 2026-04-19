@@ -1,183 +1,73 @@
-## - Anlage 12* -
-
-## Plausibilitätsrichtlinie
-
-## zur Prüfung der Dokumentationsdaten
-
 ## des strukturierten Behandlungsprogramms
+
+**Grundlage:**
+
+**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+
+- Anlage 12* -
+
+## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
 
 # COPD
 
-**Grundlage: DMP-A-RL**  **gültig ab 01.04.2023**
+**DMP-A-RL**  **gültig ab 01.04.2023**
 
-**Version:** **3.1**
+### Version:
 
-**Stand der Bearbeitung: 01.03.2024**  **Version anzuwenden ab: 01.04.2024**
+** 3.1**
 
-*Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL  Plausibilitätsprüfung COPD Version 3.1 letzte Bearbeitung: 01.03.2024
-
-
----
-
-| Lfd. |  |  | Plausibilitäten |
-|---|---|---|---|
-|  | Parameter | Ausprägung |  |
-| Nr. |  |  |  |
-
-| 1 | Aktueller FEV1-Wert (alle sechs | X Prozent des Soll-Wertes / Nicht | Pflichtfeld; |
-|---|---|---|---|
-
-| 1 |  | Pflichtfeld; |
-|---|---|---|
-|  |  | Genau eine Angabe ist zulässig |
-|  |  | Erfolgt eine Angabe zu „X Prozent des Soll-Wertes “ muss die |
-|  |  | Angabe numerisch mit drei Stellen vor und einer Stelle hinter |
-|  |  | dem Komma erfolgen |
-|  |  | Wertebereich 001,0 – 299,9 |
-| 1a |  | Pflichtfeld; |
-|  |  | genau eine Angabe ist zulässig |
-|  | Relevante Ereignisse |  |
-
-|  | Relevante Ereignisse |  |  |
-|---|---|---|---|
-| 2 | Häufigkeit von Exazerbationen seit | Anzahl | Bedingtes Pflichtfeld; |
-
-3
-
-*Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL  Plausibilitätsprüfung COPD Version 3.1 letzte Bearbeitung: 01.03.2024
-
-**Ist in der Anlage 2 in Feld 10 mindestens die Angabe „COPD“ erfolgt**  **Festlegungen der Plausibilitätsregeln auszufüllen**
-
-der letzten Dokumentation
-
-Ungeplante, auch notfallmäßige  (ambulant und stationär) ärztliche  Behandlung wegen COPD seit der  letzten Dokumentation
-
-Anzahl
-
-**sind die nachstehenden Felder der Anlage 12 entsprechend den**
-
-Aktueller FEV1-Wert  (alle  sechs Anamnese- und Befunddaten  bis zwölf Monate)  Klinische Einschätzung des Osteoporoserisikos durchgeführt durchgeführt  Ja / Nein Numerische Angabe. Die Angabe erfolgt ohne  Nachkommastelle  Eine Angabe ist erforderlich, wenn die Anlage 12 im Rahmen  einer Folgedokumentation auszufüllen ist.  Eine Angabe im Rahmen einer Erstdokumentation ist nicht  zulässig.   Die Angabe muss gleich oder größer „0“ sein und kleiner oder  gleich „ 99 “     Bedingtes Pflichtfeld;  Numerische Angabe. Die Angabe erfolgt ohne  Nachkommastelle  Eine Angabe ist erforderlich, wenn die Anlage 12 im Rahmen  einer Folgedokumentation auszufüllen ist.
+**01.03.2024**  **01.04.2024**
 
 
 ---
 
-| Lfd. |  |  | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-|  | Parameter | Ausprägung |  |
-| Nr. |  |  |  |
+|  | Ist in der Anlage 2 | | |
+|  | Anamnese- und Befunddaten |  | |
+| 1 | Aktueller FEV1-Wert  (alle  sechs | X Prozent des Soll-Wertes / Nicht | Pflichtfeld; Genau eine Angabe ist zulässig Erfolgt eine Angabe zu „X – |
+| 1a | Klinische Einschätzung des | Ja / Nein | Pflichtfeld;  genau eine Angabe ist zulässig |
+|  | Relevante Ereignisse |  | |
+| 2 | Häufigkeit von Exazerbationen seit | Anzahl | Bedingtes Pflichtfeld; Numerische Angabe. Die Angabe erfolgt ohne Eine Angabe ist erforderlich, wenn die Anlage 12 im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht  „ |
+| 3 | Ungeplante, auch notfallmäßige | Anzahl | Bedingtes Pflichtfeld; Numerische Angabe. Die Angabe erfolgt ohne Eine Angabe ist erforderlich, wenn die Anlage 12 im Rahmen |
 
-|  | Medikamente |  |  |
-|---|---|---|---|
-| 4 | Kurz wirksame Beta-2- | Bei Bedarf / Dauermedikation / Keine / | Pflichtfeld; |
-
-|  | Sympathomimetika und/oder | Kontraindikation | Mindestens eine Angabe ist notwendig; |
-|---|---|---|---|
-|  | Anticholinergika |  | Mehrfachnennungen sind in folgenden Kombinationen möglich |
-|  |  |  | wenn „ K eine“ und/oder „Kontraindik a tion“ angekreuzt ist, - |
-|  |  |  | kann nicht „ B ei Bedarf“ und/oder „Dauermedikation“ |
-|  |  |  | angekreuzt werden, |
-|  |  |  | „ B ei Bedarf“ und „Dauermedikat i on“ können einzeln oder - |
-|  |  |  | gemeinsam angekreuzt werden. |
-|  |  |  | Die Angaben „ K eine“ und „Kontraindikat i on“ können einzeln |
-|  |  |  | oder gemeinsam angekreuzt werden |
-| 5 | Lang wirksame Beta-2- | Bei Bedarf / Dauermedikation / Keine / | Pflichtfeld; |
-
-6
-
-*Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL  Plausibilitätsprüfung COPD Version 3.1 letzte Bearbeitung: 01.03.2024
-
-Sympathomimetika
-
-Lang wirksame Anticholinergika
-
-Kontraindikation
-
-Bei Bedarf / Dauermedikation / Keine /  Kontraindikation
-
-Eine Angabe im Rahmen einer Erstdokumentation ist nicht  zulässig.   Angabe muss gleich oder größe r „0“ sein und kleiner oder gleich  „ 99 “
-
-Mindestens eine Angabe ist notwendig;  Mehrfachnennungen sind in folgenden Kombinationen möglich  - wenn „ K eine“ und/oder „Kontraindik a tion“ angekreuzt ist,  kann nicht „ B ei Bedarf“ und/oder „Dauermedikation“  angekreuzt werden,  - „ B ei Bedarf“ und „Dauermedikat i on“ können einzeln oder  gemeinsam angekreuzt werden.  Die Angaben „ K eine“ und „Kontraindikat i on“ können einzeln  oder gemeinsam angekreuzt werden  Pflichtfeld;  Mindestens eine Angabe ist notwendig;  Mehrfachnennungen sind in folgenden Kombinationen möglich  - wenn „ K eine“ und/oder „Kontraindik a tion“ angekreuzt ist,  kann nicht „ B ei Bedarf“ und/oder „Dauermedikation“  angekreuzt werden,  - „ B ei Bedarf“ und „Dauermedikat i on“ können einzeln oder  gemeinsam angekreuzt werden.
-
+Nr. in Feld 10 mindestens die Angabe „COPD“ erfolgt Festlegungen der Plausibilitätsregeln auszufüllen bis zwölf Monate)  Osteoporoserisikos durchgeführt der letzten Dokumentation (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation durchgeführt  sind die nachstehenden Felder der Anlage 12 entsprechend den Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Wertebereich 001,0  299,9 Nachkommastelle einer Folgedokumentation auszufüllen ist. zulässig. Die Angabe muss gleich oder größer gleich 99 Nachkommastelle einer Folgedokumentation auszufüllen ist. “ muss die „0“ sein  und kleiner oder
 
 ---
 
-| Lfd. |  |  | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-|  | Parameter | Ausprägung |  |
-| Nr. |  |  |  |
+|  |  |  | Eine Angabe im Rahmen einer Erstdokumentation ist nicht  Angabe muss gleich oder größe |
+|  | Medikamente |  | |
+| 4 | Kurz wirksame Beta-2- | Bei Bedarf / Dauermedikation / Keine / | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind in folgenden Kombinationen möglich -  angekreuzt ist, - „  können einzeln |
+| 5 | Lang wirksame Beta-2- | Bei Bedarf / Dauermedikation / Keine / | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind in folgenden Kombinationen möglich -  angekreuzt ist, -  können einzeln oder Die Angaben |
+| 6 | Lang wirksame Anticholinergika | Bei Bedarf / Dauermedikation / Keine / | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind in folgenden Kombinationen möglich -  angekreuzt ist, -  können einzeln oder |
 
-|  |  |  | Pflichtfeld; |
-|---|---|---|---|
-| 7 | Inhalationstechnik überprüft | Ja / Nein |  |
-|  |  |  | Genau eine Angabe ist zulässig |
-
-|  | Sonstige diagnosespezifische | Nein / Inhalative Glukokortikosteroide / |  |
-|---|---|---|---|
-|  | Medikation | Systemische Glukokortikosteroide / Andere |  |
-
-|  | Schulung |  |  |
-|---|---|---|---|
-| 9 | COPD-Schulung empfohlen (bei | Ja / Nein | Pflichtfeld; |
-
-| 9 |  | Pflichtfeld; |
-|---|---|---|
-|  |  | Genau eine Angabe ist zulässig |
-| 9a |  | Bedingtes Pflichtfeld; |
-|  |  | Genau eine Angabe ist erforderlich, wenn die Anlage 12 im |
-|  |  | Rahmen einer Erstdokumentation auszufüllen ist. |
-|  |  | Genau eine Angabe ist zulässig |
-|  |  | Eine Angabe im Rahmen einer Folgedokumentation ist nicht |
-|  |  | zulässig. |
-| 10 |  | Bedingtes Pflichtfeld; |
-|  |  | Genau eine Angabe ist erforderlich, wenn die Anlage 12 im |
-|  |  | Rahmen einer Folgedokumentation auszufüllen ist |
-|  |  | Genau eine Angabe ist zulässig |
-|  |  | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
-|  |  | zulässig. |
-|  | Behandlungsplanung |  |
-
-*Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL  Plausibilitätsprüfung COPD Version 3.1 letzte Bearbeitung: 01.03.2024
-
-Schulung  COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Einschreibung in DMP bereits wahrgenommen Empfohlene Schulung wahrgenommen  Ja / Nein  Ja / Nein Ja / Nein / War aktuell nicht möglich / Bei letzter Dokumentation keine Schulung empfohlen  8  Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind möglich wenn „Nein“ a ngekreuzt ist, ist keine weitere Angabe möglich. „ Inhalative Glukokorti kosteroide“  und / oder „Systemische Glukokortikos te roide“ und  / oder „Andere“ können einzeln oder gemeinsam angekreuzt werden. Die Angaben „ Ke ine“ und „Kontraindikat i on“ können einzeln  oder gemeinsam angekreuzt werden
-
-|  | aktueller Dokumentation) |  | Genau eine Angabe ist zulässig |
-|---|---|---|---|
-| 9a | Schulung schon vor der | Ja / Nein | Bedingtes Pflichtfeld; |
-
+Nr. Sympathomimetika und/oder Sympathomimetika  Kontraindikation  Kontraindikation  Kontraindikation  zulässig. 99 r „0“ sein  und kleiner oder gleich wenn Keine“ und/oder „Kontraindikation“ kann nicht Bei Bedarf“  und/oder „Dauermedikation“ angekreuzt werden, Bei Bedarf“  und „Dauermedikation“ gemeinsam angekreuzt werden. Keine“  und „Kontraindikation“ oder gemeinsam angekreuzt werden wenn Keine“ und/oder „Kontraindikation“ kann nicht Bei Bedarf“  und/oder „Dauermedikation“ angekreuzt werden, Bei Bedarf“  und „Dauermedikation“ gemeinsam angekreuzt werden. Keine“  und „Kontraindikation“ oder gemeinsam angekreuzt werden wenn Keine“ und/oder „Kontraindikation“ kann nicht Bei Bedarf“  und/oder „Dauermedikation“ angekreuzt werden, Bei Bedarf“  und „Dauermedikation“ gemeinsam angekreuzt werden.
 
 ---
 
-| Lfd. |  |  | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-|  | Parameter | Ausprägung |  |
-| Nr. |  |  |  |
+|  |  |  | „ |
+| 7 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
+| 8 | Sonstige diagnosespezifische | Nein / Inhalative Glukokortikosteroide / | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind möglich  - wenn „Nein“ an  - „ |
+|  | Schulung |  | |
+| 9 | COPD-Schulung empfohlen (bei | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
+| 9a | Schulung schon vor der | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist erforderlich, wenn die Anlage 12 im Genau eine Angabe ist zulässig  Eine Angabe im Rahmen einer Folgedokumentation ist nicht |
+| 10 | Empfohlene Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist erforderlich, wenn die Anlage 12 im Genau eine Angabe ist zulässig Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+|  | Behandlungsplanung |  | |
 
+Nr. Medikation  aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  Systemische Glukokortikosteroide / Andere letzter Dokumentation keine Schulung Die Angaben Ke ine“  und „Kontraindikation“  können einzeln oder gemeinsam angekreuzt werden gekreuzt ist, ist keine weitere Angabe möglich. kosteroide“  und / oder „Systemische Glukokortikosteroide“ und  / oder „Andere“ können einzeln oder gemeinsam angekreuzt werden. Rahmen einer Erstdokumentation auszufüllen ist.  zulässig. Rahmen einer Folgedokumentation auszufüllen ist zulässig.
+
+---
+
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+|---|---|---|---|
 | 11 | (weggefallen) | (weggefallen) |  |
-|---|---|---|---|
-| 12 | Empfehlung zum Tabakverzicht | Ja / Nein | Bedingtes Pflichtfeld; |
+| 12 | Empfehlung zum Tabakverzicht | Ja / Nein | Bedingtes Pflichtfeld; „Raucher = Genaue eine Angabe ist zulässig |
+| 13 | Empfehlung zur Teilnahme an | Ja / Nein | Bedingtes Pflichtfeld; Eine Angabe ist erforderlich, wenn in Feld 16 der Anlage 2 die |
+| 14 | An einem | Ja / Nein / War aktuell nicht möglich | Bedingtes Pflichtfeld; Eine Angabe ist erforderlich, wenn  - die Anlage 12 im Rahmen einer Folgedokumentation - in Feld 16 der Anlage 2 (indikationsübergreifende Genau eine Angabe ist zulässig Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+| 15 | Empfehlung zum körperlichen | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
 
-|  | ausgesprochen |  | Eine Angabe ist erforderlich, wenn in Feld 16 der Anlage 2 die |
-|---|---|---|---|
-|  |  |  | Angabe „Raucher = J a“ erfolgt ist. |
-|  |  |  | Genaue eine Angabe ist zulässig |
-| 13 | Empfehlung zur Teilnahme an | Ja / Nein | Bedingtes Pflichtfeld; |
-
-|  | Tabakentwöhnungsprogramm |  | Eine Angabe ist erforderlich, wenn in Feld 16 der Anlage 2 die |
-|---|---|---|---|
-|  | ausgesprochen |  | Angabe „Raucher = J a“ erfolg t ist. Genau eine Angabe ist |
-|  |  |  | zulässig |
-| 14 | An einem | Ja / Nein / War aktuell nicht möglich | Bedingtes Pflichtfeld; |
-
-|  | Tabakentwöhnungsprogramm seit |  | Eine Angabe ist erforderlich, wenn |
-|---|---|---|---|
-|  | der letzten Empfehlung |  | die Anlage 12 im Rahmen einer Folgedokumentation - |
-|  | teilgenommen |  | auszufüllen UND |
-|  |  |  | in Feld 16 der Anlage 2 (indikationsübergreifende - |
-|  |  |  | Dokumentation) die Angabe „Raucher = J a“ erfolgt ist. |
-|  |  |  | Genau eine Angabe ist zulässig |
-|  |  |  | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
-|  |  |  | zulässig. |
-| 15 | Empfehlung zum körperlichen | Ja / Nein | Pflichtfeld; |
-|  | Training ausgesprochen |  | Genau eine Angabe ist zulässig |
-
-*Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL  Plausibilitätsprüfung COPD Version 3.1 letzte Bearbeitung: 01.03.2024
+Nr. ausgesprochen Tabakentwöhnungsprogramm ausgesprochen Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen Training ausgesprochen Ja“ erfolgt ist Angabe „Raucher = Ja“ erfolg t ist. Genau eine Angabe ist auszufüllen UND Dokumentation) die Angabe „Raucher = Ja“ erfolgt  ist.  zulässig.

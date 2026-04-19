@@ -7,130 +7,140 @@
 |  | DEZERNAT ABTEILUNG VERANLASSTE LEISTUNGEN 1. JULI 2024 |
 |---|---|
 
-# MUSTER
+# MUSTER 12  VERORDNUNG  HÄUSLICHER KRANKENPFLEGE
 
-# 12 – VERORDNUNG
-
-# HÄUSLICHER KRANKENPFLEGE
-
-## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN
-
-## AUSFÜLLHILFE
-
-Seite 1 von 5 / KBV / Muster 12 – Verordnung häuslicher Krankenpflege
-
-/ 1. Juli 2024
+## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
 VERSORGUNGSMANAGEMENT
 
 
 ---
 
-Seite 2 von 5 / KBV / Muster 12 – Verordnung häuslicher Krankenpflege / 1. Juli 2024
+
 
 
 ---
 
-**ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
+### ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN 1.
 
-1. **Verordnungsrelevante Diagnose(n)**
+### Verordnungsrelevante Diagnose(n)
 
 Geben Sie hier bitte die Diagnose(n) an, die die Notwendigkeit der häuslichen Krankenpflege medizinisch  begründen. Die Diagnosen sind nach ICD-10-GM zu verschlüsseln.
 
-**Einschränkungen, die häusliche Krankenpflege erforderlich machen** 2.
+### Einschränkungen, die häusliche Krankenpflege erforderlich machen 2.
 
 Die Angabe von Einschränkungen soll verdeutlichen, warum häusliche Krankenpflege erforderlich ist. Hierbei  ist auch das Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie (Spalte Bemerkung) zu beachten.
 
-**3. Erstverordnung / Folgeverordnung**
+**3.**
 
-Insbesondere bei der Erstverordnung soll ein Zeitraum von 14 Tagen nicht überschritten werden. Ist eine  längere Verordnungsdauer erforderlich, soll sich der Grund hierfür aus den verordnungsrelevanten Diagnosen  und den Einschränkungen ergeben. Folgeverordnungen bitte innerhalb der letzten drei Arbeitstage vor Ablauf  des zuvor verordneten Zeitraums auszustellen.
+### Erstverordnung / Folgeverordnung
 
-**4. Unfall**
+Insbesondere bei der Erstverordnung soll ein Zeitraum von 14 Tagen nicht überschritten werden . I st eine  längere Verordnungsdauer erforderlich, soll sich der Grund hierfür aus den verordnungsrelevanten Diagnosen  und den Einschränkungen ergeben. Folgeverordnungen bitte innerhalb der letzten drei Arbeitstage vor Ablauf  des zuvor verordneten Zeitraums auszustellen.
+
+**4.**
+
+### Unfall
 
 Ergibt sich die Notwendigkeit der häuslichen Krankenpflege infolge eines Unfalls, geben Sie dies  bitte hier an.
 
-**5. SER**
+**5.**
+
+### SER
 
 Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen.
 
-**6. vom - bis**
+**6.**
+
+### vom - bis
 
 Hier erfolgt die Angabe des Zeitraums, in dem die Maßnahmen erbracht werden sollen , für die ärztlicherseits  die Häufigkeit und Dauer festgelegt wird. Pflegefachkräfte dürfen dieses Feld nicht befüllen. Rückwirkende  Verordnungen sind grundsätzlich nicht zulässig. Ausnahmefälle sind besonders zu begründen.
 
-**7. Häufigkeit / Dauer von Pflegefachkraft**
+**7.**
+
+### Häufigkeit / Dauer von Pflegefachkraft
 
 Sofern die Häufigkeit und Dauer durch die Pflegefachkraft bestimmt werden sollen, ist dies ärztlich durch  Ankreuzen auf der Verordnung kenntlich zu machen. Orientieren Sie sich bitte auch am Leistungsverzeichnis  der Häusliche Krankenpflege-Richtlinie.
 
-**8. Häufigkeit/Dauer**
+**8.**
 
-Hinsichtlich der Häufigkeit u nd Dauer der verordneten Maßnahmen o rientieren Sie sich bitte auch am  Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie. Die Angabe „Dauer“ bei einzelnen Maßnahmen  ist nur bei einer Abweichung von der Dauer der gesamten Verordnung (siehe „vom – b is“) notwendig.
+### Häufigkeit/Dauer
 
-**Behandlungspflege** 9.
+Hinsichtlich der Häufigkeit und Dauer der verordneten Maßnahmen orientieren Sie sich bitte auch am  Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie. Die Angabe „Dauer“ bei einzelnen Maßnahmen  ist nur bei einer Abweichung von der Dauer der gesamten Verordnung (siehe „vom – bis“) notwendig.
+
+### Behandlungspflege 9.
 
 Die Behandlungspflege umfasst Maßnahmen der ärztlichen Behandlung, die dazu dienen, Krankheiten zu  heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern und die üblicherweise an  Pflegekräfte delegiert werden können. Behandlungspfle ge als Sicherungspflege hat das Ziel, die ambulante  ärztliche Behandlung zu ermöglichen und deren Ergebnis zu sichern. Die verordnungsfähigen Maßnahmen  sind im Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie aufgeführt.
 
-**Medikamentengabe** 10.
+### Medikamentengabe 10.
 
-Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der  Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege- Richtlinie zu beachten.
-
-Seite 3 von 5 / KBV / Muster 12 – Verordnung häuslicher Krankenpflege
-
-/ 1. Juli 2024
+Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der  Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten.
 
 
 ---
 
-**Blutzuckermessung** 11.
+### Blutzuckermessung
 
 Bei der Verordnung von Leistungen zur Blutzuckermessung beachten Sie bitte Nr. 11 des  Leistungsverzeichnisses der Häusliche Krankenpflege -Richtlinie. Bitte geben Sie an , ob es sich um  Blutzuckermessungen aufgrund einer Erst - oder Neueinstellung oder einer intensivierten Insulintherapie  handelt.
 
-**Kompressionsbehandlung**12.
+12.
+
+### Kompressionsbehandlung
 
 Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 b des Leistungsverzeichnisses  der Häusliche Krankenpflege -Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
 
-**Wundversorgung** 13.
+13.
 
-Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde sowie 31a Wundversorgung einer  chronischen und schwer heilenden Wunde des Leistun gsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
+### Wundversorgung
 
-**Sonstige Maßnahmen der Behandlungspflege**14.
+Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Wundversorgung einer akuten Wunde sowie 31a Wundversorgung einer Dekubitusbehandlung, 31  chronischen und schwer heilenden Wunde des Leistun gsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
 
-Hier können weitere oder andere als die unter 10. bis 13. genannten Maßnahmen des Leistungsverzeichnisses  der Häusliche Krankenpflege-Richtlinie verordnet werden.
+14.
 
-**Anleitung zur Behandlungspflege** 15.
+### Sonstige Maßnahmen der Behandlungspflege
 
-Sofern die Patientin/der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst  angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
+10. bis 13. genannten Maßnahmen des Leistungsverzeichnisses Hier können weitere oder andere als die unter  der Häusliche Krankenpflege-Richtlinie verordnet werden.
 
-**Grundpflege und hauswirtschaftliche Versorgung**16.
+15.
 
-Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für Unterstützungspflege oder der Krankenhausvermeidungspflege gegeben sind . Als  Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
+### Anleitung zur Behandlungspflege
 
-**17. Unterstützungspflege nach § 37 Abs. 1a SGB V**
+Sofern die Patientin/ der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst  angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
-Unterstützungspflege kann verordnet werden bei schwerer Krankheit oder wegen akuter Verschlimmerung  einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder  nach einer ambulanten Krankenhausbehandlung, soweit keine Pflegebedürftigkeit mit Pflegegrad 2 - 5 vorliegt.  Geben Sie bitte zusätzlich an, ob nur Grundpflege oder auch hauswirtschaftliche Versorgung erforderlich ist.  Ein Anspruch auf Unterstützungspflege besteht bis zu 4 Wochen je Krankheitsfall.
+16.
 
-**Krankenhausvermeidungspflege nach § 37 Abs. 1 SGB V**18.
+### Grundpflege und hauswirtschaftliche Versorgung
 
-Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung geboten, aber nicht  ausführbar ist. Dies ist z. B. der Fall, wenn Patienten die Zustimmung zur Krankenhauseinweisung verweigern  oder wenn dadurch eine Krankenhausbehandlung vermieden oder verkürzt wird. Die  Krankenhausvermeidungspflege umfasst Behandlungs - und Grundpflege sowie hauswirtschaftliche  Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden sollen. Ein Anspruch auf  Krankenhausvermeidungspflege besteht bis zu 4 Wochen je Krankheitsfall.
+Unterstützungspflege oder der Krankenhausvermeidungspflege gegeben sind . Als  Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für  Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
 
-**Grundpflege**19.
+**17.**
 
-Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität . Die  verordnungsfähigen Leistungen sind im Leistungsverzeichnis der Häusliche Krankenpflege -Richtlinie  (Nr. 1 - 4) aufgeführt.
+### Unterstützungspflege nach § 37 Abs. 1a SGB V
 
-Seite 4 von 5 / KBV / Muster 12 – Verordnung häuslicher Krankenpflege
+Verschlimmerung Unterstützungspflege kann verordnet werden bei schwerer Krankheit oder wegen akuter
 
-/ 1. Juli 2024
+dlung, soweit keine Pflegebedürftigkeit mit Pflegegrad 2 - 5 vorliegt.  einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder  nach einer ambulanten Krankenhausbehan Geben Sie bitte zusätzlich an, ob nur Grundpflege oder auch hauswirtschaftliche Versorgung erforderlich ist.  Ein Anspruch auf Unterstützungspflege besteht bis zu 4 Wochen je Krankheitsfall.
+
+18.
+
+### Krankenhausvermeidungspflege nach § 37 Abs. 1 SGB V
+
+Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung geboten, aber nicht  B. der Fall, wenn Patienten die Zustimmung zur Krankenhauseinweisung verweigern ausführbar ist. Dies ist z. oder wenn dadurch eine Krankenhausbehandlung vermieden oder verkürzt wird. Die  Krankenhausvermeidungspflege umfasst Behandlungs und Grundpflege sowie hauswirtschaftliche  Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden sollen. Ein Anspruch auf  Krankenhausvermeidungspflege besteht bis zu 4 Wochen je Krankheitsfall.
+
+19.
+
+### Grundpflege
+
+. Die Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität sind im Leistungsverzeichnis der Häusliche Krankenpflege -Richtlinie verordnungsfähigen Leistungen  (Nr. 1 - 4) aufgeführt.
 
 
 ---
 
-**Hauswirtschaftliche Versorgung**20.
+### Hauswirtschaftliche Versorgung
 
 Hauswirtschaftliche Versorgung beinhaltet hauswirtschaftliche Leistungen wie Einkaufen oder Reinige n der  Wohnung. Die Leistungen sind im Leistungsverzeichnis der Häusliche Krankenpflege -Richtlinie (Nr. 5)  aufgeführt.
 
-**Mehr Informationen**  Themenseite häusliche Krankenpflege: [http://www.kbv.de/html/haeusliche_krankenpflege.php](http://www.kbv.de/html/haeusliche_krankenpflege.php)
+### Mehr Informationen
+
+Themenseite häusliche Krankenpflege: [http://www.kbv.de/html/haeusliche_krankenpflege.php](http://www.kbv.de/html/haeusliche_krankenpflege.php)
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
-
-Seite 5 von 5 / KBV / Muster 12 – Verordnung häuslicher Krankenpflege
-
-/ 1. Juli 2024

@@ -12,152 +12,94 @@
 |  | Version |
 |  |  |
 
-bedruckung _Formular- bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2025
-
+bedruckung _Formular- bedruckung] 1.37 Datum: 1.5.08.2025 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+**D** **O** **K**
+
+| Version Datum |  | Autor Änderung |  | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.37 | 15.08.2025 | KBV | Aktualisierung der Referenzen auf |  | 16 |
-| 1.36 | 15.08.2024 | KBV | Streichung der Anforderung KP7-140 | Inkrafttreten des An- |  |
-| 1.35 | 15.05.2024 | KBV | Klarstellung der Anforderung KP7-82 |  | 9 |
-| 1.34 | 15.02.2024 | KBV | Klarstellung der Anforderung KP7-81 |  | 8 |
-| 1.33 | 13.05.2022 | KBV | Aktualisierung der Anforderung P7- |  | 13 |
-| 1.32 | 12.11.2021 | KBV | Klarstellung der Anforderung KP7-90 |  | 11 |
-| 1.31 | 12.08.2021 | KBV | Streichung von Muster 1 | Einführung der eAU | 5, 11, 13 |
-| 1.30 | 14.05.2021 | KBV | Klarstellung der Anforderung KP7-95 |  | 10 |
-| 1.29 | 15.02.2021 | KBV | Klarstellung der Umsetzungspflicht |  | 8 9 |
-| 1.28 | 06.10.2020 | KBV | Klarstellung der Anforderung KP7- |  |  |
-| 1.27 | 14.08.2020 | KBV | Klarstellung der Anforderung KP7- |  |  |
-| 1.26 | 28.05.2020 | KBV | Klarstellung der Umsetzungspflicht |  |  |
-| 1.25 | 13.05.2020 | KBV | Aktualisierung der Anforderungen Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
-| 1.24 | 13.11.2019 | KBV | P7-90: aktualisiert | Der Ersatzwert „UUU“ | 9 |
-| 1.23 | 15.11.2018 | KBV | P7-10: red. Hinweis ergänzt |  | 5 |
+| 1.37 | 15.08.2025 KBV |  | Aktualisierung der Referenzen auf |  | 16 |
+| 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | Inkrafttreten des An- |  |
+| 1.35 | 15.05.2024 KBV |  | Klarstellung der Anforderung KP7-82 |  | 9 |
+| 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | 8 |
+| 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | 13 |
+| 1.32 | 12.11.2021 KBV |  | Klarstellung der Anforderung KP7-90 |  | 11 |
+| 1.31 | 12.08.2021 KBV |  | Streichung von Muster 1 | Einführung der eAU | 5, 11, 13 |
+| 1.30 | 14.05.2021 KBV |  | Klarstellung der Anforderung KP7-95 |  | 10 |
+| 1.29 | 15.02.2021 KBV |  | Klarstellung der Umsetzungspflicht |  | 8 9 |
+| 1.28 | 06.10.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
+| 1.27 | 14.08.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
+| 1.26 | 28.05.2020 KBV |  | Klarstellung der Umsetzungspflicht |  |  |
+| 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
+| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | Der Ersatzwert „UUU“ | 9 |
+| 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | 5 |
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-### D O
-
-K U M E N
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-T E N H I S T O  R I E
-
-_Formularbedruckung * Version 1.37
-
-die KBV-Webseite forderungskatalogs VDGA 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen entfällt zum 1. Januar Seite 2 von 16
-
+die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen forderungskatalogs VDGA entfällt zum 1. Januar
 
 ---
 
-### DOKUMENTENHISTORIE
+**DOKUMENTENHISTORIE 2**
 
-**2**
+**INHALTSVERZEICHNIS 3**
 
-### INHALTSVERZEICHNIS
+**1** **EINLEITUNG 4**
 
-**3**
+**1.1** **Zielbestimmung ............................................................................................................................. 4**
 
-**1**
+**2** **BEDRUCKUNG VON VERTRAGSÄRZTLICHEN FORMULAREN 5**
 
-### EINLEITUNG
+**2.1** **Bedruckung des Personalienfeldes ............................................................................................ 5**  **2.1.1** **Sonstige Kostenträger** ........................................................................................................ 7  **2.1.2** **Personalienfeldbedruckung** ............................................................................................... 8  *2.1.2.1* *Namens- und Adressausdruck bei vertragsärztlichen Formularen ........................ 8*  *2.1.2.2* *Namens- und Adressausdruck bei Überweisungs- und Abrechnungsscheinen .... 9*
 
-**4**
+**2.2** **Ausdruck von ICD-10-Diagnosen ................................................................................................ 9**
 
-**1.1 Zielbestimmung ............................................................................................................................. 4**
+**2.3** **Ausdruck von Datumsangaben ................................................................................................. 10**
 
-**2**
+**2.4** **Muster 16 (Rezept) ....................................................................................................................... 10**
 
-### BEDRUCKUNG VON VERTRAGSÄRZTLICHEN FORMULAREN
+**2.5** **Muster 10A (Anforderungsschein für Laboratoriumsleistungen bei Laborgemeinschaften)** **11**
 
-**5**
+**2.6** **Besonderheiten bei Arbeitsunfällen .......................................................................................... 11**
 
-**2.1 Bedruckung des Personalienfeldes ............................................................................................ 5**
+**2.7** **Warnhinweis bei Nichtvorlage des Versicherungsnachweises ............................................. 11**
 
-**2.1.1 Sonstige Kostenträger ........................................................................................................ 7**
+**2.8** **Hinweise zum Quartalswechsel ................................................................................................. 12**
 
-**2.1.2 Personalienfeldbedruckung ............................................................................................... 8**  *2.1.2.1 Namens- und Adressausdruck bei vertragsärztlichen Formularen ........................ 8*  *2.1.2.2 Namens- und Adressausdruck bei Überweisungs- und Abrechnungsscheinen .... 9*
+**2.9** **Muster 52 (Anfrage bei Fortbestehen der Arbeitsunfähigkeit) ............................................... 12**
 
-**2.2 Ausdruck von ICD-10-Diagnosen ................................................................................................ 9**
+**2.10** **Ambulante spezialärztlichen Versorgung (ASV) ...................................................................... 13**
 
-**2.3 Ausdruck von Datumsangaben ................................................................................................. 10**
+**3** **ANHANG 15**
 
-**2.4 Muster 16 (Rezept) ....................................................................................................................... 10**
+**3.1** **Abkürzungsverzeichnis .............................................................................................................. 15**
 
-**2.5 Muster 10A (Anforderungsschein für Laboratoriumsleistungen bei Laborgemeinschaften)** **11**
+**3.2** **Referenzierte Dokumente ........................................................................................................... 16**
 
-**2.6 Besonderheiten bei Arbeitsunfällen .......................................................................................... 11**
-
-**2.7 Warnhinweis bei Nichtvorlage des Versicherungsnachweises ............................................. 11**
-
-**2.8 Hinweise zum Quartalswechsel ................................................................................................. 12**
-
-**2.9 Muster 52 (Anfrage bei Fortbestehen der Arbeitsunfähigkeit) ............................................... 12**
-
-**2.10 Ambulante spezialärztlichen Versorgung (ASV) ...................................................................... 13**
-
-**3**
-
-### ANHANG
-
-### 15
-
-**3.1 Abkürzungsverzeichnis .............................................................................................................. 15**
-
-**3.2 Referenzierte Dokumente ........................................................................................................... 16**
-
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-### I N
-
-H A L
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-T S V E
-
-R Z E I C
-
-_Formularbedruckung * Version 1.37
-
-H
-
-### N I S
-
-Seite 3 von 16
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
 
 
 ---
 
 **1**
 
-### Einleitung
+## Einleitung
 
-### 1.1
+**1.1 Zielbestimmung**
 
-### Zielbestimmung
-
-Dieser Anforderungskatalog gilt für Software, die in Vertragsarztpraxen zur Erstellung des  KVDT 1
-
-1 KVDT (=Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungs- daten (ADT und KADT), sowie von Daten, die im Rahmen der "Abrechnung von Schwangerschaftsabbrüchen“ (SADT) dokumen- tiert werden.
-
-eingesetzt wird. Diese Abrechnungssoftware 2
-
-2 Abrechnungssoftware im Sinne des KBV-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe,  Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der vertragsärztlichen Abrechnung benötigt werden.
-
-muss vor ihrem Einsatz durch die KBV  zugelassen werden.
+Dieser Anforderungskatalog gilt für Software , die in Vertragsarztpraxen zur Erstellung des  12KVDT eingesetzt wird. Diese Abrechnungssoftware muss vor ihrem Einsatz durch die KBV  zugelassen werden.
 
 Im Rahmen der Zulassung muss zusätzlich zu den im KVDT-Anforderungskatalog definierten  Funktionen nachgewiesen werden, dass die Abrechnungssoftware in der Lage ist, die vertrags- ärztlichen Formulare korrekt zu bedrucken.
 
 Die Anforderungen werden nach Pflichtfunktionen, konditionalen Pflichtfunktionen oder optio- nale Funktionen unterschieden.
 
-**Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein.**
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
-**Konditionale Pflichtfunktionen müssen implementiert werden, wenn alle genannten Bedin-** gungen zu dieser Funktion erfüllt sind.
+**Konditionale Pflichtfunktionen** müssen implementiert werden, wenn alle genannten Bedin- gungen zu dieser Funktion erfüllt sind.
 
-**Optionale Funktionen können implementiert werden, wenn alle genannten Bedingungen zu**  dieser Funktion erfüllt sind.
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen, der implementierten optionalen Funktionen sowie der  konditionalen Pflichtfunktionen ist im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -187,33 +129,32 @@ Ident-Nummer einer optionalen Funktion
 
 Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist.
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+1 KVDT (=Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungs- daten (ADT und KADT), sowie von Daten, die im Rahmen der "Abrechnung von  tiert werden.  2 Abrechnungssoftware im Sinne des KBV Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der
 
-KBV_ITA_VGEX_Anforderungskatalog
+-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe,
 
-_Formularbedruckung * Version 1.37
+Schwangerschaftsabbrüchen“ (SADT) dokumen-
 
-Seite 4 von 16 (2-70)
+(2-70) vertragsärztlichen Abrechnung benötigt werden.
+
 
 ---
 
+## Bedruckung von vertragsärztlichen Formularen
+
 **2**
 
-### Bedruckung von vertragsärztlichen Formularen
+Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen entnehmen  bitte der „Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ Sie [2] bzw. der  (kurz „Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ *Vordruckerläuterungen*) [3].
 
-Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen entnehmen  Sie bitte der „Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ [2] bzw. der  „Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ (kurz  *Vordruckerläuterungen) [3].*
+Ebenso können sich auch Funktionen für die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- *VE 52* oder *VE* rungen enthalten. Diese Verweise werden in diesem Dokument in der Form  *52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer  des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-*(in dem Beispiel Hinweis 1 des Musters 52) *unfähigkeit?*
 
-Ebenso können sich auch Funktionen fü r die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- rungen enthalten. Diese Verweise werden in diesem Dokument in der Form *VE 52 oder VE*  *52.1 angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das* Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer  des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  (in dem Beispiel Hinweis 1 zum Feld Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits- *unfähigkeit? des Musters 52)*
-
-### 2.1
-
-### Bedruckung des Personalienfeldes
+**2.1 Bedruckung des Personalienfeldes**
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
 | P7-10 | Maschinenlesbarer Ausdruck des Personalienfeldes |
 
-Die Bedruckung des Personalienfeldes aller ve rtragsärztlichen Formulare, muss ab dem  1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt „Bedruckung des  Personalienf eldes“ in der Technischen Anlage zur Anlage 4a (BMV -Ä) erfolgen  [KBV_ITA_VGEX_Mapping_KVK].
+Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare, muss ab dem  „Bedruckung des 1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt  eldes“ in der Technischen zur 4a (BMV -Ä) erfolgen PersonalienfAnlage Anlage  [KBV_ITA_VGEX_Mapping_KVK].
 
 Eine Änderung der Zeichengröße im Personalienfeld über das Praxisverwaltungssystem darf  nicht möglich sein.
 
@@ -221,7 +162,7 @@ Eine Änderung der Zeichengröße im Personalienfeld über das Praxisverwaltungs
 
 Priorisierung der Straßenadresse
 
-Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra- ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität, Details siehe Kapitel  „ Druckpositionen “ in der Technischen Anlage zur Anlage 4a (BMV -Ä) [KBV_ITA_VGEX_Map- ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in [KBV_ITA_VGEX_Daten- satzbeschreibung_KVDT].
+Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra- Details siehe Kapitel ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität,  “ in der Technischen Anlage zur Anlage 4a (BMV-Ä) [KBV_ITA_VGEX_Map-Druckpositionen ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in [KBV_ITA_VGEX_Daten- satzbeschreibung_KVDT].
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
@@ -230,14 +171,6 @@ Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- u
 (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens- zusatz und Vorsatzwort gebildet (in dieser Reihenfolge). Die Trennung der jeweiligen Fel- dinhalte erfolgt durch je ein Blank.
 
 (2) Ist diese Zeile länger als 21 Zeichen, so werden die restlichen Zeichen im Ausdruck unter- drückt.
-
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-Seite 5 von 16
 
 
 ---
@@ -250,15 +183,15 @@ Die Software muss bei der Bedruckung von Vordrucken, welche von Krankenhäusern,
 
 **Begründung:**
 
-In der Anlage 28 zum BMV-Ä in §7 Abs. 8 ist geregelt, dass das TSS -Kennzeichen („7“) von  Krankenhäusern, die Leistungen im Rahmen des § 75 Absatz 1a SGB V erbringen, im Perso- nalienfeld von Vorducken gedruckt werden muss.
+In der Anlage 28 zum BMV-Ä in §7 Abs. 8 ist geregelt, dass das TSS -Kennzeichen („7“) von  Krankenhäusern, die Leistungen im Rahmen des § 75 Absatz 1a SGB V erbringen, im Perso- nalienfeld von Vorducken gedruckt werden muss
 
 **Akzeptanzkriterium:**
 
-- Die Software ermöglicht nur Krankenhäusern, die Leistungen im Rahmen des § 75 Ab- satz 1a SGB V erbringen, den Ausdruck des TSS-Kennzeichens.
+Die Software ermöglicht nur Krankenhäusern, die Leistungen im Rahmen des § 75 Ab- satz 1a SGB V erbringen, den Ausdruck des TSS-Kennzeichens.
 
-- Die Software muss im Personalienfeld der Vordrucke das TSS- Kennzeichen „7“ in Zeile  6 Druckposition 30 drucken können.
+Die Software muss im Personalienfeld der Vordrucke das TSS Kennzeichen „7“ in Zeile  6 Druckposition 30 drucken können.
 
-- Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
+Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -272,34 +205,24 @@ In § 6 Abs. 6 des Rahmenvertrags Entlassmanagement nach § 39 Abs. 1a S. 9 SGB 
 
 **Akzeptanzkriterium:**
 
-- Die Software ermöglicht im Rahmen des Entlassmangements den Ausdruck des Ent- lassmanagement-Kennzeichens.
+Die Software ermöglicht im Rahmen des Entlassmangements den Ausdruck des Ent- lassmanagement-Kennzeichens.
 
-- Die Software muss im Personalienfeld der Vordrucke das Entlassmanagement -Kenn- zeichen „4“ in Zeile 6 Druckposition 30 drucken können.
+Die Software muss im Personalienfeld der Vordrucke das Entlassmanagement -Kenn- zeichen „4“ in Zeile 6 Druckposition 30 drucken können.
 
-- Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
+Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
 
 **Bedingung:**
 
-Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme die nicht im  Rahmen des Entlassmanagements eingesetzt werden.
-
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37 -Kennzeichen Seite 6 von 16
+-Kennzeichen Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme die nicht im  Rahmen des Entlassmanagements eingesetzt werden.
 
 
 ---
 
-**2.1.1 Sonstige Kostenträger**
+**2.1.1** **Sonstige Kostenträger**
 
-Die bundeseinheitlichen Vorgaben der KBV zur Bedruckung des Personalienfeldes vertrags- ärztlicher Formulare bei „ Sonstigen Kostenträgern “ beziehen sich lediglich auf die erste Druck- zeile, sofern die Angaben zum Versicherten nicht auf Basis einer Versichertenkarte 3
+Die bundeseinheitlichen Vorgaben der KBV zur Bedruckung des Personalienfeldes vertrags- ärztlicher Formulare bei „Sonstigen Kostenträgern“ beziehen sich lediglich auf die erste Druck- zeile, sofern die Angaben zum Versicherten nicht auf Basis einer  werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu- holen.
 
-3 d.h. Versichertenkarte oder ein Behandlungsausweis, auf dem die Angaben der Versichertenkarte umgedruckt sind.
-
-vorgelegt  werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu- holen.
-
-Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT -Zusatzangaben im  Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos- tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
+Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos- tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
@@ -307,21 +230,23 @@ Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT -Zusatzangab
 
 (1) In Analogie zum Ausdruck des Inhaltes der Felder 3105 (Versichertennummer des Patien- ten) bzw. 3119 (Versichertennummer eGK des Patienten) in den hierfür vorgesehenen Be- reich des Personalienfeldes "Versicherten-Nr." (max. 12 Stellen) muss der Inhalt des Fel- des 4124 dort gedruckt werden.
 
-(2) Ist der Inhalt des Feldes 4124 größer als 12 Stellen, muss der Ausdruck ab der 13. Stelle  unterdrückt werden.
+(2) Ist der Inhalt des Feldes 4124 größer als 12 Stellen, muss der Ausdruck ab der 13. Stelle
+
+unterdrückt werden.
 
 (3) Von den Kassenärztlichen Vereinigungen hiervon abweichend definierte Druckvorgaben  haben Vorrang.
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+3 d.h. Versichertenkarte oder ein Behandlungsausweis, auf dem die Angaben der Versichertenkarte umgedruckt sind.
 
-KBV_ITA_VGEX_Anforderungskatalog
+3Versichertenkarte vorgelegt
 
-_Formularbedruckung * Version 1.37
+-Zusatzangaben im
 
-Seite 7 von 16 -Zusatzangaben)
+-Zusatzangaben)
 
 ---
 
-**2.1.2 Personalienfeldbedruckung**
+**2.1.2** **Personalienfeldbedruckung**
 
 **2.1.2.1 Namens- und Adressausdruck bei vertragsärztlichen Formularen**
 
@@ -329,39 +254,33 @@ Seite 7 von 16 -Zusatzangaben)
 |---|---|
 | KP7-81 | Standardmäßiger Ausdruck der Namens |
 
-Die Software muss das Bedrucken des Personalienfeldes von vertragsärztlichen Formularen,  wie  - Verordnungen,  - Bescheinigungen,  - Berichte,  - Dokumentationen,  - Anfragen,  - Anträge und  - ***insbesondere von Rezepten (!)***
+Die Software muss das Bedrucken des Personalienfeldes von vertragsärztlichen Formularen,  wie  Verordnungen,  Bescheinigungen,
+
+Berichte,  Dokumentationen,  Anfragen,  Anträge und  ***insbesondere von Rezepten (!)***
 
 standardmäßig wie folgt unterstützen
 
 1. bei eingelesenen elektronischen Gesundheitskarten (eGKs) wird das Personalienfeld  immer mit den Namens- und Adressinformationen der eGK bedruckt
 
-2. bei eingelesenen Krankenversicherten Karten (KVKs) wird das Personalienfeld immer  mit der gegebenenfalls bekannten und von der KVK abweichenden aktuellen Namens-  und Adressinformationen bedruckt. Davon ausgenommen sind die genannten Muster  in P7-82.
+2. bei eingelesenen Krankenversicherten Karten (KVKs) wird das Personalienfeld immer  mit der gegebenenfalls bekannten und von der KVK abweichenden aktuellen Namens und Adressinformationen bedruckt. Davon ausgenommen sind die genannten Muster  in **P7-82**
 
 **Begründung:**
 
-Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen bei Versand sowie Hausbe- suchen und Krankenbeförderungen müssen die oben genannten vertragsärztlichen Formulare  mit den von der Krankenversichertenkarte (KVK) abweichenden aktuellen Namens- und Adres- sinformationen bedruckt werden können, da die von einer KVK eingelesenen Informationen  nicht immer den tatsächlichen Namens- und Adressinformationen der Patientin oder dem Pa- tienten entsprechen.
+Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen bei Versand sowie Hausbe- suchen und Krankenbeförderungen müssen die oben genannten vertragsärztlichen Formulare  mit den von der Krankenversichertenkarte (KVK) abweichenden aktuellen Namens und Adres- sinformationen bedruckt werden können, da die von einer KVK eingelesenen Informationen  nicht immer den tatsächlichen Namens- und Adressinformationen der Patientin oder dem Pa- tienten entsprechen.
 
 **Akzeptanzkriterium:**
 
-1. Wenn eine eGK eingelesen wurde, dann muss die Software das Personalienfeld aller  vertragsärztlichen Formulare immer mit den Namens- und Adressinformationen der  eGK bedrucken.
+1. Wenn eine eGK eingelesen wurde, dann muss die Software das Personalienfeld aller  vertragsärztlichen Formulare immer mit den Namens - und Adressinformationen der  eGK bedrucken.
 
 a. Die Software unterbindet, dass die vom Anwender erfassten und von eGK ab- weichenden Namens- und Adressinformationen zur Bedruckung verwendet  werden.
 
-2. Die Software muss es dem Anwender ermöglichen von der KVK abweichende Namens-  und Adressinformationen im System zu erfassen und zu speichern.
+2. Die Software muss es dem Anwender ermöglichen von der KVK abweichende Namens und Adressinformationen im System zu erfassen und zu speichern.
 
 3. Die in der Software hinterlegten abweichenden Namens- und Adressinformationen dür- fen nicht standardmäßig bzw. automatisch beim erneuten Einlesen einer KVK über- schrieben und/oder gelöscht werden.
 
 4. Der Anwender wird von der Software beim Einlesen einer KVK darauf hingewiesen,  wenn in der Software bereits abweichende Namens- und Adressinformation hinterlegt  sind.
 
-5. Gibt der Patient eine von der KVK abweichende Namens- oder Adressinformationen  an, muss die Software das Personalienfeld der oben genannten vertragsärztlichen For- mulare standardmäßig mit diesen Angaben anstatt der Daten auf der Versichertenkarte  bedrucken.
-
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-- und Adressinformationen Seite 8 von 16
+- und Adressinformationen5. Gibt der Patient eine von der KVK abweichende Namens- oder Adressinformationen  an, muss die Software das Personalienfeld der oben genannten vertragsärztlichen For- mulare standardmäßig mit diesen Angaben anstatt der Daten auf der Versichertenkarte  bedrucken.
 
 
 ---
@@ -372,7 +291,7 @@ Die Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt und U
 
 **Hinweis:**
 
-Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formulare, wie BG-For- mulare, Rechnungen, Quittungen etc. werden analog dazu gedruckt.
+Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formulare, wie BG mulare, Rechnungen, Quittungen etc. werden analog dazu gedruckt.
 
 **2.1.2.2 Namens- und Adressausdruck bei Überweisungs- und Abrechnungs-** **scheinen**
 
@@ -380,7 +299,7 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 |---|---|
 | KP7-82 | Ausdruck von Namens- und Adressinformationen bei den Mustern 5, 6, 7, 10, 10A, 19, 39 |
 
-Bei Überweisungs- /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
+Bei Überweisungs - /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
 **Bedingung:**
 
@@ -390,17 +309,15 @@ Die Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt und U
 
 Hintergrund dieser Maßnahme ist, dass die Versicherten-/Vertragsdaten auch so zur Abrech- nung kommen, wie sie bei den Krankenkassen gemeldet sind. Hier kam es in der Vergangen- heit zu Zahlungsproblemen mit einigen Krankenkassen.
 
-Ein zweiter wichtiger Punkt ist der Fremdkassenzahlungsausgleich zwischen den KVen. Die  KV, in deren Wirkungsbereich der Versicherte seinen (Versichertenkarten -)Wohnsitz hat, be- kommt auch die Kopfpauschale von der Krankenkasse. Hat der Versicherte einen Zweitwohn- sitz in einem anderen KV-Bereich und geht dort zum Arzt, muss die originale Versichertenkar- ten-Adresse für die Abrechnung verwendet werden, damit die Arzt -KV weiß, von welcher KV  sie sich die Behandlungskosten erstatten lassen kann. Wird für die Abrechnung in einem frem- den KV-Bereich die Versichertenkarte-abweichende Zweitadresse verwendet, würde gar nicht  auffallen, dass es sich um einen sogenannten “FKZ - Fall“ handelt.
+Ein zweiter wichtiger Punkt ist der Fremdkassenzahlungsausgleich zwischen den KVen. Die  KV, in deren Wirkungsbereich der Versicherte seinen (Versichertenkarten -)Wohnsitz hat, be- kommt auch die Kopfpauschale von der Krankenkasse. Hat der Versicherte einen Zw sitz in einem anderen KV-Bereich und geht dort zum Arzt, muss die originale Versichertenkar- ten-Adresse für die Abrechnung verwendet werden, damit die Arzt -KV weiß, von welcher KV  sie sich die Behandlungskosten erstatten lassen kann. Wird für die Abr den KV-Bereich die Versichertenkarte-abweichende Zweitadresse verwendet, würde gar nicht  auffallen, dass es sich um einen sogenannten “FKZ Fall“ handelt.
 
-### 2.2
-
-### Ausdruck von ICD-10-Diagnosen
+**2.2 Ausdruck von ICD-10-Diagnosen**
 
 | PFLICHTFUNKTION | |
 |---|---|
 | P7-90 | Ausdruck von ICD-10-Diagnosen |
 
-Die Software muss die Formatvorgaben für den Ausdruck von ICD-10-Diagnosen einhalten.
+Die Software muss die Formatvorgaben für den Ausdruck von ICD
 
 **Begründung:**
 
@@ -408,16 +325,20 @@ Die Angabe und Übermittlung von ICD-10-Diagnosen ist in § 295 SGB V, ergänzt 
 
 **Akzeptanzkriterium:**
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+-For-
 
-KBV_ITA_VGEX_Anforderungskatalog
+eitwohn-
 
-_Formularbedruckung * Version 1.37
+echnung in einem frem-
 
-Seite 9 von 16
+-10-Diagnosen einhalten.
 
 
 ---
+
+Die Software druckt ICD-10-Diagnosen mit den folgenden Informationen in der angegebenen
+
+Reihenfolge:
 
 1. ICD-10-Code nach dem Katalog ICD-10-GM des DIMDI,
 
@@ -425,13 +346,9 @@ Seite 9 von 16
 
 3. Seitenlokalisation.
 
-Die Software druckt ICD-10-Diagnosen mit den folgenden Informationen in der angegebenen  Reihenfolge:
-
 Die Informationen werden durch ein Leerzeichen voneinander getrennt. Die Software druckt  die Seitenlokalisation, wenn diese vom Anwender angegeben wurde.
 
-### 2.3
-
-### Ausdruck von Datumsangaben
+**2.3 Ausdruck von Datumsangaben**
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -445,50 +362,42 @@ Vertragsärztliche Formulare müssen auch dann ausgedruckt werden können, wenn 
 
 **Akzeptanzkriterium:**
 
-Die Software druckt ein Datum in einem der folgenden Formate, falls die jeweilige Bedingung  zutrifft:
+Die Software druckt ein Datum in einem der folgenden Formate, falls die jeweilige Bedingung
 
-- 00.00.JJ: Nur das Jahr des Datums ist bekannt
+zutrifft:
 
-- 00.MM.JJ: Nur das Jahr und der Monat des Datums ist bekannt
+-  00.00.JJ: Nur das Jahr des Datums ist bekannt
 
-- TT.MM.JJ: Das Datum ist vollständig bekannt
+-  00.MM.JJ: Nur das Jahr und der Monat des Datums ist bekannt
+
+-  TT.MM.JJ: Das Datum ist vollständig bekannt
 
 Die Software muss diese Formate für die Formularinhalte der folgenden Muster unterstützen:
 
-| Muster | Felder |
+|  | Felder |
 |---|---|
 | 39a/b | • • |
 
-### 2.4
-
-### Muster 16 (Rezept)
+**2.4 Muster 16 (Rezept)**
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KP7-60 | Muster 16: Ankreuzfelder und Formularkennzeichen |
 
-Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Personalienfeld  hinaus, so gilt:
+Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Personalienfeld
 
-(1) Auf dem Rezept müssen die Ankreuzfelder 6 - 9 statt mit einem Kreuz („X“) mit den ent- sprechenden Ziffern („6“, „7“, „8“, „9“) gekennzeichnet werden.
+hinaus, so gilt:
 
-(2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken- rechenzentren nicht überdruckt werden.
+(1) Auf dem Rezept müssen die Ankreuzfelder 6 -  sprechenden Ziffern („6“, „7“, „8“, „9“) gekennzeichnet werden.  (2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken- rechenzentren nicht überdruckt werden.
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemotherapie des Geni- tales (Wann?) Letzte Periode Seite 10 von 16
+Wertebereich in Formularin- halten Muster Gynäkologische OP, Strahlen tales (Wann?) - oder Chemotherapie des Geni- Letzte Periode 9 statt mit einem Kreuz („X“) mit den ent-
 
 
 ---
 
-### 2.5
+**2.5 Muster 10A (Anforderungsschein für Laboratoriumsleistungen**
 
-### Muster 10A (Anforderungsschein für Laboratoriumsleistungen
-
-### bei Laborgemeinschaften)
+**bei Laborgemeinschaften)**
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -496,17 +405,9 @@ Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemother
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 
-- Bei Bedruckung des konventionellen Musters 10A muss die Abrechnungssoftware in  der Lage sein, wie sonst nur bei den BFB-Formularen üblich, den für das Muster 10A  definierten Barcode PDF-417 generieren zu können.  Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar- code praktiziert werden.  Die Spezifikation des Barcodes als auch seiner Inhalte entsprechen dem Muster 10A  4
+-  Bei Bedruckung des konventionellen Musters 10A muss die Abrechnungssoftware in  der Lage sein, wie sonst nur bei den BFB-Formularen üblich, den für das Muster 10A  definierten Barcode PDF-417 generieren zu können. Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar- code praktiziert werden.  4Die Spezifikation des Barcodes als auch seiner Inhalte entsprechen dem Muster 10A  in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
 
-4 Der zweidimensionale Barcode PDF-417 beinhaltet alle relevanten Schein- und Auftragsdaten und ermöglicht somit eine voll- automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro- nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
-
-in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
-
-- Bei Verwendung des Barcodes PDF 417 ist sicherzustellen, dass dieser nicht ohne  Auftragsdaten generiert werden kann.
-
-### 2.6
-
-### Besonderheiten bei Arbeitsunfällen
+-  Bei Verwendung des Barcodes PDF 417 ist sicherzustellen, dass dieser nicht ohne  Auftragsdaten generiert werden kann.   **2.6 Besonderheiten bei Arbeitsunfällen**
 
 | KONDITIONALE PFLICHTFUNKTION ADT | |
 |---|---|
@@ -516,41 +417,30 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 4 oder 16 über da
 
 (1) auf Muster 16 (Rezept ) ist das entsprechende Ankreuzfeld bei Arbeitsunfällen zu kenn- zeichnen;
 
-(2) auf Muster 16 (Rezept) und auf Muster 4 (Krankentransportschein) dürfen bei Arbeitsun- fällen weder IK noch VKNR ausgedruckt werden. Statt des Kassennamens des Kosten- trägers der gesetzlichen Krankenversicherung (GKV) ist der Name des Unfallversiche- rungsträgers aufzudrucken.
-
-### 2.7
-
-### Warnhinweis bei Nichtvorlage des Versicherungsnachweises
+(2) auf Muster 16 (Rezept) und auf Muster 4 (Krankentransportschein) dürfen bei Arbeitsun- fällen **weder IK noch VKNR** ausgedruckt werden. Statt des Kassennamens des Kosten- trägers der gesetzlichen Krankenversicherung (GKV) ist der Name des Unfallversiche- rungsträgers aufzudrucken.   **2.7 Warnhinweis bei Nichtvorlage des Versicherungsnachweises**
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KP7-90 | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
 
-Falls ein Anwender ein Rezept für Medikamente bzw. für Heil- u. Hilfsmittel und/oder einen  Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über- weisungsschein oder keine Versichertenkarte) für das Abrechnungsquartal vorliegt, der An- wender durch das Praxisverwaltungssystem in geeigneter Form, entweder optisch und/oder  per Dialog darauf hingewiesen werden.
+Falls ein Anwender ein Rezept für Medikamente bzw. für Heil Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über- weisungsschein oder keine Versichertenkarte) für das Abrechnungsquartal vorliegt, wender durch das Praxisverwaltungssystem in geeigneter Form, entweder optisch und/oder  per Dialog darauf hingewiesen werden.
 
 Beispiel für einen optischen Warnhinweis:
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+4 Der zweidimensionale Barcode PDF-417 beinhaltet alle relevanten Schein- und Auftragsdaten und ermöglicht somit eine voll- automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro- nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
 
-KBV_ITA_VGEX_Anforderungskatalog
+- u. Hilfsmittel und/oder einen -417)der An-
 
-_Formularbedruckung * Version 1.37
-
-Seite 11 von 16 -417)
 
 ---
 
 „Ampelfunktion“ in der Patientenakte
 
-- grün = Versicherungsnachweis liegt vor  - rot = Versicherungsnachweis fehlt – Regressforderungen sind möglich
+grün = Versicherungsnachweis liegt vor  rot = Versicherungsnachweis fehlt  Regressforderungen sind möglich
 
 Beispiel für einen Warnhinweis in Dialogform:
 
-„ Achtung: im aktuellen Quartal lag kein gültiger Versicherungsnachweis vor. Ohne gültigen  Versicherungsnachweis sind Regressforderungen möglich!“
-
-### 2.8
-
-### Hinweise zum Quartalswechsel
+Achtung: im aktuellen Quartal lag kein gültiger Versicherungsnachweis vor. Ohne gültigen  Versicherungsnachweis sind Regressforderungen möglich!“   **2.8 Hinweise zum Quartalswechsel**
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -558,11 +448,7 @@ Beispiel für einen Warnhinweis in Dialogform:
 
 Ein Patient kommt zu Beginn des Quartals ohne Versicherungsnachweis in die Arztpraxis. Der  Arzt möchte - in Kenntnis über mögliche Regressforderungen - den Patienten behandeln und  ein vertragsärztliches Formular ausstellen.
 
-Falls die Daten zu dem Patienten aus einem Patientenstamm zur Bedruckung herangezogen  werden, ist sicherzustellen, dass die Kostenträger-Informationen mittels IK über die für dieses  Quartal gültige KT-Stammdatei gesucht und umgedruckt werden.
-
-### 2.9
-
-### Muster 52 (Anfrage bei Fortbestehen der Arbeitsunfähigkeit)
+Falls die Daten zu dem Patienten aus einem Patientenstamm zur Bedruckung herangezogen  werden, ist sicherzustellen, dass die Kostenträger-Informationen mittels IK über die für dieses  Quartal gültige KT-Stammdatei gesucht und umgedruckt werden.   **2.9 Muster 52 (Anfrage bei Fortbestehen der Arbeitsunfähigkeit)**
 
 Die folgenden Funktionen müssen umgesetzt werden, wenn über die Bedruckung des Perso- nalienfeldes hinaus weitere Felder des Musters 52 durch die Software bedruckt werden.
 
@@ -580,11 +466,11 @@ Die Formatvorgaben der Vordruckerläuterungen wurden zwischen KBV und GKV-Spitze
 
 Die Software druckt:
 
-1. Datumsangaben für die Felder 3. Ist der Zeitpunkt des Wiedereintritts der Arbeitsfähig- *keit absehbar?* (siehe VE 52.6) und Datum (links vom Vertragsarztstempel) in dem For- mat TTMMJJ,
+1. Datumsangaben für die Felder *3. Ist der Zeitpunkt des Wiedereintritts der Arbeitsfähig-* *keit absehbar?* (siehe VE 52.6) und *Datum* (links vom Vertragsarztstempel) mat TTMMJJ,
 
-2. ein Diagonalkreuz (X) für angekreuzte Ankreuzfelder (siehe VE 52) und
+2. ein Diagonalkreuz (X) für angekreuzte Ankreuzfelder (siehe
 
-3. ICD-10-Diagnosen für die Felder unter 1. Wegen welcher* Diagnose(n) (ICD10) besteht*  *die Arbeitsunfähigkeit? (siehe VE 52.1).*
+3. ICD-10-Diagnosen für die Felder unter *1. Wegen welcher* *die Arbeitsunfähigkeit?* (siehe VE 52.1).
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -592,13 +478,11 @@ Die Software druckt:
 
 Die Software muss dem Anwender den Ausdruck eines Diagnosefreitextes ermöglichen.
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+VE 52) und
 
-KBV_ITA_VGEX_Anforderungskatalog
+*Diagnose(n) (ICD10) besteht*
 
-_Formularbedruckung * Version 1.37
-
-Seite 12 von 16
+in dem For-
 
 
 ---
@@ -609,7 +493,7 @@ Der Anwender muss die Möglichkeit haben, notwendige zusätzliche Angaben außer
 
 **Akzeptanzkriterium:**
 
-Die Software erlaubt dem Anwender die Angabe eines Diagnosefreitextes. Der Freitext wird in  das Freitextfeld des Abschnitts *9. Sonstiges/Bemerkungen zum Gesundheitszustand* gedruckt.
+Die Software erlaubt dem Anwender die  das Freitextfeld des Abschnitts *9. Sonstiges/Bemerkungen zum Gesundheitszustand*
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -617,79 +501,79 @@ Die Software erlaubt dem Anwender die Angabe eines Diagnosefreitextes. Der Freit
 
 Die Software muss den Anwender über zu wenig Platz für den Ausdruck des Diagnosefreitex- tes informieren.
 
+Angabe eines Diagnosefreitext
+
 **Begründung:**
 
-Der Anwender muss die Möglichkeit haben, den Umfang des Diagnosefreitext es an den auf  dem Formular zur Verfügung stehenden Platz anzupassen.
+Der Anwender muss die Möglichkeit haben, den Umfang des Diagnosefreitext es an den auf  dem Formular zur Verfügung stehenden Platz anzupassen
 
 **Akzeptanzkriterium:**
 
-Die Software warnt den Anwender vor dem Druck des Formulars, wenn der Platz für den Text  nicht ausreicht, der in das Feld 9. Sonstiges/Bemerkungen zum Gesundheitszustand gedruckt  werden soll. Die Software ermöglicht dem Anwender diesen Text zu ändern.
+Die Software warnt den Anwender vor dem Druck des Formulars, wenn der Platz für den Text  nicht ausreicht, der in das Feld *9. Sonstiges/Bemerkungen zum Gesundheitszustand* werden soll. Die Software ermöglicht dem Anwender diesen Text zu ändern.
 
-### 2.10
+**2.10**
 
-### Ambulante spezialärztlichen Versorgung (ASV)
+**Ambulante spezialärztlichen Versorgung (ASV)**
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
 | P7-130 | Bedruckung mit dem ASV-Kennzeichen, der ASV-Teamnummer und der |
 
 Die Software muss bei der Bedruckung von Formularen, welche für die Behandlung von ASV- Fällen ausgestellt werden, folgendes beachten:
-- Im Personalienfeld der Vordrucke muss das ASV- Kennzeichen „1“ in Zeile 6, Druckposi- tion 30 aufgebracht werden. An Stelle 29 ist eine „0“ oder im Rahmen einer Ersatzverord- nung eine „1“ zu drucken. Da die Durchschläge von Formularen wie Muster 20, welche für  den Arbeitgeber bestimmt sind, an dieser Position geschwärzt sind, ist das ASV-Kennzei- chen nicht sichtbar und der Datenschutz bleibt gewährleistet.
-- Im Personalienfeld muss anstelle der Betriebsstättennummer (BSNR) die ASV-Teamnum- mer aufgedruckt werden. Eine Ausnahme bildet Muster 20 (Wiedereingliederungsplan).  Hier wird aus Gründen des Datenschutzes weiterhin die BSNR des behandelnden Arztes  aufgedruckt.
+-  Im Personalienfeld der Vordrucke muss das ASV-Kennzeichen „1“  tion 30 aufgebracht werden. An Stelle 29 ist eine „0“ oder im Rahmen einer Ersatzverord- nung eine „1“ zu drucken. Da die Durchschläge von Formularen wie Muster 20, welche für  den Arbeitgeber bestimmt sind, an dieser Position geschwärzt sind chen nicht sichtbar und der Datenschutz bleibt gewährleistet.
+-  Im Personalienfeld muss anstelle der Betriebsstättennummer (BSNR) die ASV mer aufgedruckt werden . Eine Ausnahme bildet Muster 20 (Wiedereingliederungsplan).  Hier wird aus Gründen des Datenschutzes weiterhin die BSNR des behandelnden Arztes  aufgedruckt.
 
-- Im Personalienfeld muss im Falle eines Krankenhausarztes die Fachgruppennummer  (siehe ASV-Vertrag, § 9 Abs. 5) im Feld „Arzt - Nr“ gedruckt werden.
+-  Im Personalienfeld muss im Falle eines Krankenhausarztes die Fachgruppennummer  (siehe ASV-Vertrag, § 9 Abs. 5) im Feld „Arzt Nr“ gedruckt werden.
 
-Für Überweisungsscheine gilt: Wenn der ASV-Arzt innerhalb des ASV-Teams überweist, druckt  er seine ASV-Teamnummer (anstelle der BSNR) auf die Überweisung. Wenn der ASV-Arzt an  einen Nicht-ASV-Arzt überweist, druckt er seine BSNR auf die Überweisung.
+Für Überweisungsscheine gilt: Wenn der ASV-Arzt innerhalb des ASV-Teams überweist, druckt  er seine ASV-Teamnummer (anstelle der BSNR) auf die Überweisung. Wenn einen Nicht-ASV-Arzt überweist, druckt er seine BSNR auf die Überweisung.
 
-Der ASV-Arzt kann auch ein Laborfacharzt sein, der mittels Muster 10 in Anspruch genommen  wird. Auch in diesem Fall ist eine Weiterüberweisung zulässig. Der ASV -Arzt kann auch Mit- glied in einer Laborgemeinschaft sein und entsprechend Muster 10a ausstellen und mit seiner
+Der ASV-Arzt kann auch ein Laborfacharzt sein, der mittels Muster 10 in Anspruch genommen  wird. Auch in diesem Fall ist eine Weiterüberweisung zulässig. Der ASV glied in einer Laborgemeinschaft sein und entsprechend Muster 10a ausstellen
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+es. Der Freitext wird in  gedruckt.
 
-KBV_ITA_VGEX_Anforderungskatalog
+gedruckt
 
-_Formularbedruckung * Version 1.37
+in Zeile 6, Druckposi-
 
-Pseudo-LANR für KrankenhäuserSeite 13 von 16
+, ist das ASV-Kennzei-
+
+-Teamnum-
+
+der ASV-Arzt an
+
+Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
 
 
 ---
 
 | ASV- | Teamnummer |  | kennzeichnen. | Das | Ankreuzfeld „Behandlung | gemäß | § |
 |---|---|---|---|---|---|---|---|
-| kommt | im Rahmen | der | ASV nicht | zur Anwendung. |  |  |  |
+| kommt | im | Rahmen der | ASV nicht | zur Anwendung. |  |  |  |
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-ASV- Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“ kommt im Rahmen der ASV nicht zur Anwendung. Seite 14 von 16
+„Behandlung gemäß Teamnummer kennzeichnen. Das Ankreuzfeld § 116b SGB V“ kommt im Rahmen der ASV nicht zur Anwendung.
 
 
 ---
 
 **3**
 
-### Anhang
+## Anhang
 
-### 3.1
-
-### Abkürzungsverzeichnis
+**3.1 Abkürzungsverzeichnis**
 
 | AQ | Abrechnungsquartal |
 |---|---|
 | APK | Arzt-Patienten-Kontakt |
-| ASV-AV | Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- |
+| ASV-AV | erforderlichen Vordrucke für |
 | Diagnosefreitext | Zum Verständnis der Diagnose relevante und über die ICD |
 | Diagnoseklartext | Beschreibung des ICD-10-Codes laut des systematischen Verzeichnis- |
-| DIMDI | Deutsches Institut für Medizinische Dokumentation und Information |
+| DIMDI |  |
 | eGK | elektronische Gesundheitskarte |
 | FK | Feldkennung |
-| Formularinhalt | Alle Felder außerhalb des Personalienfeldes |
+| Formularinhalt |  |
 | GKV | Gesetzliche Krankenversicherung |
-| ICD-10-Diagnose | ICD-10-Code aus dem Katalog ICD-10-GM des DIMDI, Diagnosesi- |
-| IK 5 5 | 9-stellige, numerische Krankenkassennummer |
+| ICD-10-Diagnose | ICD-10-Code aus dem Katalog ICD-10-GM |
+| IK 5 5 |  |
 | KT | Kostenträger |
 | KT-Stammdatei | Kostenträger-Stammdatei |
 | KTAB | Kostenträger-Abrechnungsbereich |
@@ -697,38 +581,22 @@ ASV- Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB 
 | KVK | Krankenversichertenkarte |
 | SKT TSS | Sonstige Kostenträger Terminservicestelle |
 | VKNR | 5-stellige Kassennummer |
-| VKNR-KTAB-Kom- | Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs- |
+| VKNR-KTAB-Kom- |  |
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-Seite 15 von 16
-
-halt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante spezialfachärztliche Versorgung -10-Diagno- sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in  der SDICD). cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde)  In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 -stelliges Institutionskennzeichen (IK);
+Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- halt des Abrechnungsverfahrens sowie die die ambulante spezialfachärztliche Versorgung -10-Diagno- sen hinausgehende Informationen. der SDICD ses des DIMDI ( siehe auch Element „bezeichnung“ in Deutsches Institut für Medizinische Dokumentation und Information Alle Felder außerhalb des Personalienfeldes des DIMDI, Diagnosesi- cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde)  In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 -stelliges Institutionskennzeichen (IK); 9-stellige, numerische Krankenkassennummer bination Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs-
 
 ---
 
-### 3.2
-
-### Referenzierte Dokumente
+**3.2 Referenzierte Dokumente**
 
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT, in aktuellster Version |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | Datensatzbeschreibung KVDT, in aktuellster Ver- |
-| [KBV_ITA_VGEX_Mapping_KVK] | Technische Anlage zu Anlage 4a (BMV) mit |
+| [KBV_ITA_VGEX_Mapping_KVK] | Technische Anlage zu Anlage 4a (BMV) mit Map- |
 | [2] | Vereinbarung über Vordrucke für die vertragsärzt- |
 | [3] | Erläuterungen zur Vereinbarung über Vordrucke |
 | [KBV_ITA_VGEX_Schnittstelle_SDICD] | Schnittstellenbeschreibung der ICD-Stammdatei, |
 | [ASV-Vertrag] | ASV-Abrechnungsvereinbarung   Vertragliche Grundlagen zur ASV |
 
-**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
-
-KBV_ITA_VGEX_Anforderungskatalog
-
-_Formularbedruckung * Version 1.37
-
-Map- pingtabelle KVK - eGK, in aktuellster Version liche Versorgung (Vordruck vereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version (www.kbv.de) für die vertragsärztliche Versorgung, in aktuellster Version (www.kbv.de) Seite 16 von 16
+pingtabelle KVK - eGK, in aktuellster Version liche Versorgung (Vordruck vereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version (www.kbv.de) für die vertragsärztliche Versorgung, in aktuellster Version (www.kbv.de)

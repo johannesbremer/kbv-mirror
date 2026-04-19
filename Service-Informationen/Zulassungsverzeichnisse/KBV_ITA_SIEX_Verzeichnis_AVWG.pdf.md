@@ -1,12 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER
-
-# ARZNEIMITTELVERORDNUNGSSOFTWARE
+# VERZEICHNIS ZERTIFIZIERTER ARZNEIMITTELVERORDNUNGSSOFTWARE
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,10 +13,10 @@
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **EVA**
 
@@ -32,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2410/36/081 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. April 2026
 
 Y/400/2504/36/062
 
@@ -51,11 +49,6 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **Avelios**
 
 **Avelios Medical GmbH** Ridlerstraße 39 80339 München Internet: avelios.com
@@ -72,15 +65,20 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 **CGM Clinical Europe GmbH** Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
-Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2409/37/754
 
 Y/400/2601/36/078
 
 Y/400/2510/36/459
 
-Y/400/2307/36/226 30.09.2027
+Y/400/2307/36/226
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2027
 
 31.12.2028
 
@@ -107,11 +105,6 @@ Windows
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **Praxis4More**
 
 **CoKom One GmbH** John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de
@@ -124,17 +117,18 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2504/36/203 | 31.03.2028 | ifap praxisCENTER |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2602/35/346
 
-Y/400/2501/36/332 31.12.2028
+Y/400/2501/36/332
 
-31.12.2027
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten MMI
+31.12.2028 Rohdaten MMI
 
-ifap praxisCENTER
+31.12.2027 ifap praxisCENTER
 
 Windows
 
@@ -142,11 +136,6 @@ TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **DATA VITAL**
 
@@ -156,21 +145,17 @@ TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet
 |---|---|---|---|---|
 |  | Y/400/2410/36/280 | 30.09.2027 | ifap praxisCENTER |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
+Y/400/2510/36/023
 
-Y/400/2510/36/023 30.09.2028
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ifap
-
-CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows WindowsLinux
+CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows Windows30.09.2028 Rohdaten ifapLinux
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **INFINITYQ HEALTH**
 
@@ -188,23 +173,26 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 **DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2412/37/752
 
 Y/400/2504/36/262
 
 Y/400/2504/36/060
 
-Y/400/2504/36/238 31.12.2027
+Y/400/2504/36/238
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.12.2027 Rohdaten ABDAMED
 
 31.03.2028
 
 31.03.2028
 
 31.03.2028
-
-Rohdaten ABDAMED
 
 ifap praxisCENTER MMI data4doc
 
@@ -223,11 +211,6 @@ Windows
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **ORBIS®**
 
 **Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
@@ -240,11 +223,16 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2507/36/677 | 30.06.2028 | MMI PHARMINDEX |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2410/36/254
 
-Y/400/2604/36/314 30.09.2027
+Y/400/2604/36/314
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2027
 
 31.03.2029
 
@@ -259,11 +247,6 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **apraxos**
 
 **Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
@@ -276,11 +259,16 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |---|---|---|---|---|
 |  | Y/400/2510/36/253 | 30.09.2028 | ifap praxisCENTER |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2410/36/602
 
-Y/400/2510/36/086 30.09.2027
+Y/400/2510/36/086
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2027
 
 30.09.2028
 
@@ -295,11 +283,6 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **INDICATION**
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
@@ -312,11 +295,16 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|---|
 |  | Y/400/2502/38/630 | 31.03.2028 | ifap praxisCENTER |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2504/36/223
 
-Y/400/2604/36/421 31.03.2028
+Y/400/2604/36/421
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.03.2028
 
 31.03.2029
 
@@ -331,11 +319,6 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **QUINCY WIN**
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
@@ -348,11 +331,16 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|---|
 |  | Y/400/2601/36/195 | 31.12.2028 | ifap praxisCENTER |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2510/36/244
 
-Y/400/2511/38/616 30.09.2028
+Y/400/2511/38/616
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2028
 
 31.12.2028
 
@@ -367,11 +355,6 @@ garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **ID MEDICS**
 
 **ID Information und Dokumentation im** **Gesundheitswesen GmbH & Co. KGaA** Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de
@@ -384,11 +367,16 @@ garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.
 |---|---|---|---|---|
 |  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 X/400/2410/36/617
 
-Y/400/2410/36/660 30.09.2027
+Y/400/2410/36/660
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2027
 
 30.09.2027
 
@@ -403,11 +391,6 @@ IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.i
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **IFU-KIS**
 
 **IFU OR GmbH Nürnberg** Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de
@@ -420,11 +403,16 @@ IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.i
 |---|---|---|---|---|
 |  | Y/400/2504/36/136 | 31.03.2028 |  |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2506/37/596
 
-Y/400/2604/36/642 30.06.2028
+Y/400/2604/36/642
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.06.2028
 
 31.03.2029
 
@@ -439,11 +427,6 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **DISweb**
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
@@ -456,17 +439,18 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |---|---|---|---|---|
 |  | Y/400/2510/36/462 | 30.09.2028 | Rohdaten ABDAMED |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2504/36/320
 
-Y/400/2510/36/385 31.03.2028
+Y/400/2510/36/385
 
-30.09.2028
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ID PHARMA
+31.03.2028 Rohdaten ID PHARMA
 
-ifap praxisCENTER
+30.09.2028 ifap praxisCENTER
 
 Windows
 
@@ -474,11 +458,6 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **Verordnungsmodul**
 
@@ -492,17 +471,18 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|---|
 |  | Y/400/2510/36/192 | 30.09.2028 | Rohdaten ABDAMED |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2602/38/641
 
-Y/400/2506/37/746 31.03.2029
+Y/400/2506/37/746
 
-30.06.2028
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ABDAMED
+31.03.2029 Rohdaten ABDAMED
 
-ifap praxisCENTER
+30.06.2028 ifap praxisCENTER
 
 Windows
 
@@ -510,11 +490,6 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **MEDVISION**
 
@@ -526,21 +501,17 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/400/2410/36/290 | 30.09.2027 | Rohdaten ABDAMED |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
+Y/400/2410/36/251
 
-Y/400/2410/36/251 30.09.2027
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ABDAMED
-
-MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows WindowsWindows
+MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows Windows30.09.2027 Rohdaten ABDAMEDWindows
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **Meona Clinics**
 
@@ -558,29 +529,28 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2510/36/387
 
 Y/400/2305/36/276
 
 Y/400/2601/36/422
 
-Y/400/2507/36/494 30.09.2028
+Y/400/2507/36/494
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2028 Rohdaten ABDAMED
 
 30.04.2026
 
 31.12.2028
 
-30.06.2028
-
-Rohdaten ABDAMED
-
 Rohdaten MMI
 
-Rohdaten ABDAMED MMI PHARMINDEX
-
-MMI PHARMINDEX
+Rohdaten ABDAMED MMI PHARMINDEX 30.06.2028 MMI PHARMINDEX
 
 Windows
 
@@ -592,11 +562,6 @@ Windows
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **Pro_Medico**
 
@@ -610,17 +575,18 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2507/36/487 | 30.06.2028 |  |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2504/36/043
 
-Y/400/2410/36/299 31.03.2028
+Y/400/2410/36/299
 
-30.09.2027
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ABDAMED
+31.03.2028 Rohdaten ABDAMED
 
-ifap praxisCENTER
+30.09.2027 ifap praxisCENTER
 
 Windows
 
@@ -628,11 +594,6 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **NEXUS / KIS**
 
@@ -646,17 +607,18 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 |---|---|---|---|---|
 |  | Y/400/2410/36/247 | 30.09.2027 | MMI PHARMINDEX |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2504/36/208
 
-Y/400/2305/36/744 31.03.2028
+Y/400/2305/36/744
 
-30.04.2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Rohdaten ABDAMED
+31.03.2028 Rohdaten ABDAMED
 
-MMI PHARMINDEX
+30.04.2026 MMI PHARMINDEX
 
 Windows
 
@@ -664,11 +626,6 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **psyprax**
 
@@ -682,11 +639,16 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |---|---|---|---|---|
 |  | Y/400/2405/38/759 | 30.06.2027 | Rohdaten ABDAMED |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2510/36/348
 
-Y/400/2504/36/456 30.09.2028
+Y/400/2504/36/456
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2028
 
 31.03.2028
 
@@ -701,11 +663,6 @@ RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken I
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **S3-Win**
 
 **S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
@@ -718,11 +675,16 @@ RpDoc Klinik RpDoc Solutions GmbH Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken I
 |---|---|---|---|---|
 |  | Y/400/2504/36/230 | 31.03.2028 | Rohdaten MMI |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2504/36/261
 
-Y/400/2510/36/343 31.03.2028
+Y/400/2510/36/343
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.03.2028
 
 30.09.2028
 
@@ -736,11 +698,6 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 
 
 ---
-
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **principa**
 
@@ -758,13 +715,18 @@ ARZT 2000 Schmidt Computersysteme Chrysanthemenweg 4 02827 Görlitz Internet: ww
 |---|---|---|---|---|
 |  | Y/400/2401/36/672 | 31.12.2026 | Rohdaten MMI |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
-
 Y/400/2510/36/458
 
 Y/400/2604/36/498
 
-Y/400/2504/36/313 30.09.2028
+Y/400/2504/36/313
+
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2028
 
 31.03.2029
 
@@ -785,13 +747,13 @@ AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelb
 
 ---
 
-|  |  | Prüfnummer(n) |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer(n) |  | zertifizierte Datenbasis |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 |  | Y/400/2604/36/457 | 31.03.2029 | Rohdaten MMI |  |
 |---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 11. April 2026
+|  |  | **Prüfnummer(n)** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. April 2026

@@ -1,54 +1,214 @@
 ## TOP 20 Systeme - Internisten
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG1.5951.606-11
+2.80 **CGM MEDISTAR BLACK PRO**
 
-216 **x.isynet**medatixx GmbH & Co. KG1.4011.431-30
+2.16 **x.isynet**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG1.3601.402-42
+1.12 **TURBOMED**
 
-462 **medatixx**medatixx GmbH & Co. KG1.0401.00139
+4.62 **medatixx**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 1.0281.00721
+2.10 **Medical Office**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG916935-19
+2.03 **ALBIS**
 
-243 **x.concept**medatixx GmbH & Co. KG855875-20
+2.43 **x.concept**
 
-498 **T2med**T2med GmbH & Co. KG81878137
+4.98 **T2med**
 
-254 **ORBIS®**Dedalus HealthCare GmbH722730-8
+2.54 **ORBIS®**
 
-244 **QUINCY WIN**Frey ADV GmbH612621-9
+2.44 **QUINCY WIN**
 
-457 **tomedo**Zollsoft GmbH52748443
+4.57 **tomedo**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG461473-12
+2.52 **CGM M1 PRO**
 
-266 **x.comfort**medatixx GmbH & Co. KG400418-18 1
+2.66 **x.comfort**
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+T2med GmbH & Co. KG
+
+Dedalus HealthCare GmbH
+
+Frey ADV GmbH
+
+Zollsoft GmbH
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG 1
+
+1.595
+
+1.401
+
+1.360
+
+1.040
+
+1.028
+
+9.16
+
+8.55
+
+8.18
+
+7.22
+
+6.12
+
+5.27
+
+4.61
+
+4.00
+
+1.606
+
+1.431
+
+1.402
+
+1.001
+
+1.007
+
+9.35
+
+8.75
+
+7.81
+
+7.30
+
+6.21
+
+4.84
+
+4.73
+
+4.18
+
+-11
+
+-30
+
+-42
+
+3.9
+
+2.1
+
+-19
+
+-20
+
+3.7
+
+-8
+
+-9
+
+4.3
+
+-12
+
+-18
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-086 **DURIA**Duria eG379380-1
+0.86 **DURIA**
 
-251 **MEDVISION**MedVision AG339346-7
+2.51 **MEDVISION**
 
-135 **EL - Elaphe Longissima**medatixx GmbH & Co. KG313316-3
+1.35 **EL - Elaphe Longissima**
 
-343 **SAP Ambulatory Care Management** SAP SE273279-6
+3.43 **SAP Ambulatory Care Management**
 
-226 **CGM MEDICO**CGM Clinical Europe GmbH222223-1
+2.26 **CGM MEDICO**
 
-060 **Data-AL**Data-AL GmbH2062051
+0.60 **Data-AL**
 
-083 **PegaMed**PEGA Elektronik GmbH204207-3 2
+0.83 **PegaMed**
+
+Duria eG
+
+MedVision AG
+
+medatixx GmbH & Co. KG
+
+SAP SE
+
+CGM Clinical Europe GmbH
+
+Data-AL GmbH
+
+PEGA Elektronik GmbH 2
+
+3.79
+
+3.39
+
+3.13
+
+2.73
+
+2.22
+
+2.06
+
+2.04
+
+3.80
+
+3.46
+
+3.16
+
+2.79
+
+2.23
+
+2.05
+
+2.07
+
+-1
+
+-7
+
+-3
+
+-6
+
+-1
+
+1
+
+-3

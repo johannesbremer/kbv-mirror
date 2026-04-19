@@ -2,9 +2,9 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung**
+**Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr.**
+**Arzt-Nr.Betriebsstätten-Nr.Datum**
 
 **Krankenhausbehandlung**
 
@@ -12,7 +12,7 @@
 
 **Straße**
 
-**PLZ Ort**
+**PLZ** **Ort**
 
 **Für das Ausstellen dieses Vordrucks ist die Nr. 30800 EBM** **berechnungsfähig.**
 
@@ -20,9 +20,7 @@
 
 **IK des Leistungserbringers**
 
-**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht**
-
-**Datum**
+**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht** **LeistungDatum**
 
 **Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
 
@@ -32,56 +30,42 @@
 
 **BIC**
 
+**geb. am**
+
+**Status**
+
+|  | **wird** |  | **wird** |  |
+|---|---|---|---|---|
+|  | **vermieden** |  | **verkürzt** |  |
+
+**Geldinstitut**
+
 ***Diese Ausfertigung ist vom soziotherapeutischen Lei*** ***an die Krankenkasse weiterzuleiten!***
 
 **Ausfertigung für die Krankenkasse**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Versicherten-Nr.**
+## Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
 
-**Arzt-Nr.**
+**Diagnose**
 
-**Leistung**
-
-**geb. am**
-
-**Status**
-
-**Datum**
-
-|  | wird |  | wird |  |
-|---|---|---|---|---|
-|  | vermieden |  | verkürzt |  |
-
-**Geldinstitut**
-
-***stungserbringer***
-
-## Verordnung bei Überweisung zur
-
-## Indikationsstellung für Soziotherapie
-
-## gemäß § 37a SGB V im Umfang von
-
-## maximal 5 Therapieeinheiten
-
-**Diagnose** ***(ICD-10-Code)***
+***(ICD-10-Code***
 
 **Erkrankung besteht seit (falls bekannt)**
 
-**Datum**
-
-**Datum**
+***stungserbringer***
 
 **ist nicht** **ausführbar**
 
+**Datum**
+
+**Datum**
+
+**28**
+
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**des soziotherapeutischen Leistungserbringers**
+**Stempel und Unterschrift** **des soziotherapeutischen Leistungserbringers**
 
 **PRF.NR.** **Muster 28a/E(10.2017)**
-
-**Stempel und Unterschrift**
-
-## 28

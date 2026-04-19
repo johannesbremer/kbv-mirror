@@ -4,32 +4,26 @@
 |  |
 |---|
 
-## MUSTER 10A – ANFORDERUNGSSCHEIN FÜR
+## MUSTER 10A – ANFORDERUNGSSCHEIN FÜR  LABORATORIUMSUNTERSUCHUNGEN BEI LABORGEMEINSCHAFTEN
 
-## LABORATORIUMSUNTERSUCHUNGEN BEI LABORGEMEINSCHAFTEN
-
-## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN
-
-## AUSFÜLLHILFE
+## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
 **ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
 
-**1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG)**  Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention oder bei  belegärztlicher Behandlung erfolgt.
+**1.** **LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG)**  Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention oder bei  belegärztlicher Behandlung erfolgt.
 
-**2. UNFALL, UNFALLFOLGEN**
+**2.** **UNFALL, UNFALLFOLGEN**
 
 Hier wird der Laborgemeinschaft durch Ankreuzen des Unfallfeldes mitgeteilt, wenn die Behandlung  aufgrund oder als Folge eines Unfalles erforderlich wird, damit die Krankenkassen ggf. Kosten gegenüber  Dritten geltend machen können.
-
-Seite 1 von 2 / KBV /Elektronische Ausfüllhilfe Muster 10A / Oktober 2020
 
 
 ---
 
-**3. KNAPPSCHAFTSKENNZIFFER**
+**KNAPPSCHAFTSKENNZIFFER3.**
 
 Knappschaftsärzte tragen für die Veranlassung von Laboratoriumsuntersuchungen bei  Knappschaftsversicherten die Ziffer 87777 ein.
 
-**4. GESCHLECHT** Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W =  weiblich, X = unbestimmt).
+**GESCHLECHT4.** Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W = weiblich, X = unbestimmt).
 
 **5. SSW**
 
@@ -37,14 +31,12 @@ Bei einer vorliegenden Schwangerschaft ist die Schwangerschaftswoche in diesem F
 
 **6. ABNAHMEDATUM** Das Abnahmedatum ist einzhier utragen.
 
-**7. ABNAHMEZEIT**
+**ABNAHMEZEIT7.**
 
 Die Abnahmezeit ist hier einzutragen.
 
-**8. ZUSÄTZLICHE AN ZU UNTERSUCHUNGENGABE** Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigenne Untersuchung wesentliche  Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Clearance, oder andere übermitteltMedikationenzusätzliche Informationen werden.
+**8. ZUSÄTZLICHE AN ZU UNTERSUCHUNGENGABE** Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigenne Untersuchung wesentliche  Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Medikationenzusätzliche Informationen werden.Clearance, oder andere übermittelt
 
-**9. AUFTRAGSFELD** Der anfordernde Vertragsarzt hat d maie Auftragsleistungen nuell durch Auftragsfeld zuStriche im  vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors  beziehbar. Die die Auftragsleistung a darf nur dusführende Laborgemeinschaft ie Untersuchungen  durchführen, angegeben sdie im Auftragsfeldind.
+**9. AUFTRAGSFELD** ie Auftragsleistungen nuell durch Auftragsfeld zuStriche im Der anfordernde Vertragsarzt hat d ma vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors  usführende Laborgemeinschaft ie Untersuchungen beziehbar. Die die Auftragsleistung a darf nur d durchführen, angegeben sdie im Auftragsfeldind.
 
 **10. BARCODE BEI BLANKOFORMULARBEDRUCKUNG** Bei E des Verfahrens zur B w mittels insatzlankoformularbedruckung ird Laserdrucker ein zweidimensionaler  Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann in der  Laborgemeinschaft a ausgewertet werden. utomatisch
-
-Seite 2 von 2 / KBV /Elektronische Ausfüllhilfe Muster 10A / Oktober 2020

@@ -112,7 +112,7 @@ nach Östrogenbehandlung
 
 **Bemerkungen**
 
-**Erläuterungen ggf. gyn. Befunde (Vulva, Vagina, Portio);**  ***Diagnosen; sonstige Anmerkungen*** Monaten
+**Erläuterungen** ***ggf. gyn. Befunde (Vulva, Vagina, Portio);***  ***Diagnosen; sonstige Anmerkungen*** Monaten
 
 Gruppe
 
@@ -142,6 +142,6 @@ Proliferationsgrad
 
 Alterskategorie
 
-## 39
+**39**
 
 PRF.NR.  Muster 39a/E (1.2021)

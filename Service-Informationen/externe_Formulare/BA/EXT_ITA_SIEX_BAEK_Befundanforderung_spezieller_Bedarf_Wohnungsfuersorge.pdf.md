@@ -1,4 +1,6 @@
-**BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT**  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17. 12.20 21
+### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
+
+gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -6,25 +8,29 @@ Kundennummer: ___________________
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
+Patient/in befindet sich seit _____________
 
 Letzte Behandlung am _________________
 
-**Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im**  **Rahmen der Wohnungsfürsorge nach § 22 SGB II):**
+**Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im**  **Rahmen der Wohnungsfürsorge nach § 22 SGB II)**
 
 **Aktuelle Beschwerden:**
 
-**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend**  **erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der**  **Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?)?**
+**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend**  **erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden?** **Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?**
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2 1. 12
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
 
-[ ]
+regelmäßig [ ]
+
+1.12
+
+17 12.2021
 
 BGL-Nummer: ____________________
 
-[ ]
+gelegentlich  nicht in meiner Behandlung [ ][ ]
 
-[ ]
+**Ist der**
 
 
 ---
@@ -33,25 +39,23 @@ BGL-Nummer: ____________________
 
 **Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.**  **Barrierefreiheit, Vorhandensein eines Aufzugs; nur EG möglich, etc.) erfüllen muss?**
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**Rückruf erbeten** [ ]
 
-Medizinische Unterlagen liegen bei
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
-Medizinische Unterlagen können ggf. angefordert werden bei:
+**Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus** **Kopie bei, vielen Dank.**
 
-___________________________  Ort, Datum  Stempel und Unterschrift
+Medizinische Unterlagen liegen bei [ ]
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2 1. 12
+Medizinische Unterlagen können ggf. angefordert werden bei: [ ]
 
-Rückruf erbeten [ ]
+**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **-Entlassungsberichte, Reha**
 
-Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
+__________________________  Ort, Datum 12
 
-[ ]
+**-Entlassungsberichte, Gutachten u. ä.) als**
 
-[ ]
-
-__________________________
+___________________________  Stempel und Unterschrift
 
 
 ---
@@ -68,11 +72,11 @@ An den
 
 Ärztlichen Dienst der  Agentur für Arbeit
 
-### Liquidation
+## Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € für die ersten 50 Seiten 0,15 € | ____  Seiten á 0,50 € ____  Seiten á 0,15 € | = = | __________  €    __________  € |
+| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -89,4 +93,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 | BIC: |
 | Bank/Sparkasse: |
 
-für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

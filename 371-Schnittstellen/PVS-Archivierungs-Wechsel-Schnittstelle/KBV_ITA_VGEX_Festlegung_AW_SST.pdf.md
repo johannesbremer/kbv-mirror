@@ -7,11 +7,7 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 8. DEZEMBER 2020  VERSION: 1.2.0 STATUS: IN KRAFT |
 |---|---|
 
-# FESTLEGUNG DER ARCHIV- UND
-
-# WECHSELSCHNITTSTELLE NACH § 371
-
-# ABS. 1 SGB V
+# FESTLEGUNG DER ARCHIV- UND  WECHSELSCHNITTSTELLE NACH § 371  ABS. 1 SGB V
 
 ## [KBV_ITA_VGEX_FESTLEGUNG_AW_SST]
 
@@ -22,56 +18,49 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXISSeite 1 von 41 / KBV / Festlegung der Arc
 
 ## INHALT
 
-**1 EINLEITUNG** **5**
+**1** **EINLEITUNG5**
 
-**2. UMSETZUNG DER ARCHIV- UND WECHSELSCHNITTSTELLE 6**
+**2.** **UMSETZUNG DER ARCHIV - UND WECHSELSCHNITTSTELLE 6**
 
-2.1 Einsatzzwecke 7  2.1.1 Wechsel des Praxisverwaltungssystems 7  2.1.2 Archivierung der Daten des Praxisverwaltungssystems 7  2.2 Abgrenzung der Schnittstelle 7
+2.1 Einsatzzwecke 7  Wechsel des Praxisverwaltungssystems 2.1.1 7  Archivierung der Daten des Praxisverwaltungssystems 2.1.2 7  2.2 Abgrenzung der Schnittstelle 7
 
-**3. UMSETZUNG DER VERSION 8**
+**3.** **UMSETZUNG DER VERSION 8**
 
-3.1 Fachliches Informationsmodell der Schnittstelle 9  3.2 FHIR®-Definition 10  3.3 Begriffsbestimmungen und Dateinamen 10  3.3.1 Ressourcen und Profile 10  3.3.2 Instanzen 10  3.3.3 Dateinamen für Profil, Extension, CodeSystem, ValueSet, NamingSystem 10  3.4 FHIR®-Informationsmodell der Schnittstelle 11  3.5 KBV-Profile 12  3.6 KBV-Extensions 19  3.7 KBV-CodeSystems 22  3.8 KBV-ValueSets 25  3.9 KBV-NamingSystems 28  3.10 KBV-Bundle 29  3.11 KBV-Bundles für Datenbereiche 29
+3.1 Fachliches Informationsmodell der Schnittstelle 9  3.2 FHIR®-Definition 10  3.3 Begriffsbestimmungen und Dateinamen 10  Ressourcen und Profile 3.3.1 10  3.3.2 Instanzen 10  3.3.3 Dateinamen für Profil, Extension, CodeSystem, ValueSet, NamingSystem 10  3.4 FHIR®-Informationsmodell der Schnittstelle 11  3.5 KBV-Profile 12  3.6 KBV-Extensions 19  3.7 KBV-CodeSystems 22  3.8 KBV-ValueSets 25  3.9 KBV-NamingSystems 28  3.10 KBV-Bundle 29  3.11 KBV-Bundles für Datenbereiche 29
 
-**4. ANFORDERUNGEN AN DIE PRAXISVERWALTUNGSSYSTEME 30**
+**PRAXISVERWALTUNGSSYSTEME 4.** **ANFORDERUNGEN AN DIE30**
 
-4.1 Dateikonvention 30  4.2 Ordnerstruktur 31  4.2.1 Root-Element 31  4.2.2 Adressen 32  4.2.3 Anlage bzw. Dokumente 32  4.2.4 Behandlungsbausteine 33  4.2.5 Patientenakten 33  4.2.6 Termine 34  4.2.7 Sprechstundenbedarf 34  4.2.8 System 35  4.3 Datenbereiche der Schnittstelle 36  4.3.1 Vollständig 36  4.3.2 Termine 36  4.3.3 Adressen 36  4.3.4 Behandlungsbausteine 36  4.3.5 Patientenakten 37  4.4 Export der Daten 38  4.5 Import der Daten 39
+4.1 Dateikonvention 30  4.2 Ordnerstruktur 31  Root-Element 4.2.1 31  4.2.2 Adressen 32  Anlage bzw. Dokumente 4.2.3 32  4.2.4 Behandlungsbausteine 33  4.2.5 Patientenakten 33  Termine 4.2.6 34  4.2.7 Sprechstundenbedarf 34  System 4.2.8 35  4.3 Datenbereiche der Schnittstelle 36  4.3.1 Vollständig 36  Termine 4.3.2 36  4.3.3 Adressen 36  4.3.4 Behandlungsbausteine 36  4.3.5 Patientenakten 37  4.4 Export der Daten 38  4.5 Import der Daten 39
 
-Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V
-
-/ Version: 1.2.
-
-0 / 8. Dezember 2020
+Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
 
 4.6 Verwendung der Schnittstelle 39  4.7 Verschlüsselung, Komprimierung 39  4.8 Aufbewahrung 39
 
-**5. UMSETZUNG DER SYSTEMEIGENEN SCHNITTSTELLE 40**
+**5.** **UMSETZUNG DER SYSTEMEIGENEN SCHNITTSTELLE 40**
 
 5.1 Individualsoftware 40
 
-**6. UMSETZUNGSFRIST 40**
+**6.** **UMSETZUNGSFRIST 40**
 
-**7. GÜLTIGKEIT 40**
+**7.** **GÜLTIGKEIT 40**
 
-**8. REFERENZIERTE DOKUMENTE 41**
+**8.** **REFERENZIERTE DOKUME NTE 41**
 
-Seite 3 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V
-
-/ Version: 1.2.0 / 8. Dezember 2020
+Seite 3 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
 
-## DOKUMENTENHISTORIE
+DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.2.0 | 08.12.2020 |  | 1. Änderung der gesetzlichen Grundlage 2. Umsetzung einer Basisversion in Kapitel 3. Neues Kapitel 5 „Umsetzung der 4. Neue Kapitel 6 „Umsetzungsfrist“ und 7 5. Umstellung aller FHIR Ressourcen von 6. Div. kleinere redaktionel 7. Entfernen der Extension und | Harmonisierun | 5   8  40  40  12-28        19 & 28 |
+| 1.2.0 | 0.8.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5   8  40  40  12-28        19 & 28 |
 
-in § 371 und § 372 3 aufgenommen systemeigenen Schnittstelle “ eingefügt „Gültigkeit“ eingefügt STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_* le Änderungen in den gelb markierten Kapitelüberschriften Namingsystem für die VKNR Seite 4 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle “ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_* Div. kleinere redaktionel le Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR
 
 ---
 
@@ -83,45 +72,43 @@ Nach § 371 Absatz 1 SGB V sind in informationstechnische Systeme der vertragsä
 
 Aus technischer Sicht handelt es sich um eine Schnittstelle, welche im Rahmen der verschiedenen  Anwendungsfälle (Archivierung und Systemwechsel) zum Einsatz kommt und wird daher folgend im  Dokument als Schnittstelle bezeichnet.
 
-Des Weiteren wird im Folgenden der Begriff Praxisverwaltungssystem (PVS) für IT-Systeme in der  vertragsärztlichen Versorgung verwendet, welche für die primäre Speicherung personenbezogener  Patientendaten einer Arztpraxis vorgesehen sind. Dieses sind mindestens alle Systeme, die eine KVDT- Zulassung haben.
+Des Weiteren wird im Folgenden der Begriff Praxisverwaltungssystem (PVS) für IT-Systeme in der  vertragsärztlichen Versorgung verwendet, welche für die primäre Speicherung personenbezogener  Patientendaten einer Arztpraxis vorgesehen sind. Dieses sind mindestens alle Systeme, die eine KVDT Zulassung haben.
 
-Der Umfang der Umsetzung der Schnittstelle richtet sich nach dem Entwicklungs- und Einsatzzweck des  Systems. Es werden die grundsätzlich unterschieden:  › PVS, für die primäre Speicherung personenbezogener Patientendaten einer Arztpraxis (Kapitel 2, 3 und 4)  › Individualsoftware (Kapitel 5)
-
-Seite 5 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+Der Umfang der Umsetzung der Schnittstelle richtet sich nach dem Entwicklungs - und Einsatzzweck des  Systems. Es werden die grundsätzlich unterschieden:  PVS, für die primäre Speicherung personenbezogener Patientendaten einer Arztpraxis (Kapitel 2, 3 und 4)  Individualsoftware (Kapitel 5)
 
 
 ---
 
-## 2.
+2.
 
 ## UMSETZUNG DER ARCHIV- UND WECHSELSCHNITTSTELLE
 
-Sowohl für Systemwechsel als auch Archivierung wird eine einheitliche, dateibasierte Schnittstelle auf FHIR®- Basis (Fast Healthcare Interoperability Resources) im XML-Format spezifiziert. Mit FHIR® kommt eine  zukunftsorientierte Technologie zum Einsatz, mit der die Interoperabilität zwischen den  Praxisverwaltungssystemen ermöglicht wird.
+der die Interoperabilität zwischen den
+
+Sowohl für Systemwechsel als auch Archivierung wird eine einheitliche, dateibasierte Schnittstelle auf FHIR® Basis (Fast Healthcare Interoperability Resources) im XML-Format spezifiziert. Mit FHIR® kommt eine  zukunftsorientierte Technologie zum Einsatz, mit Praxisverwaltungssystemen ermöglicht wird.
 
 Abbildung 1 Überblick
 
-Grundsätzlich muss das exportierende PVS 1 die in ihm vorliegenden Daten in die vorgegebene Struktur der  Schnittstelle generieren. Dabei werden die PVS-Daten (Patientenakten/ Behandlungsdokumentation,  Termine, Adresse usw.) in FHIR®-Ressourcen überführt. Dokumente, die im PVS 1 vorliegen, bleiben im  Ursprungsformat enthalten und werden in diesem Format über die Schnittstelle transportiert. Sowohl die  FHIR®-Dateien als auch die exportierten Dokumente sind in einer vorgegebenen Ordnerstruktur abzulegen.
+PVS-Daten (Patientenakten/  Grundsätzlich muss das exportierende PVS 1 die in ihm vorliegenden Daten in die vorgegebene Struktur der  Schnittstelle generieren. Dabei werden dieBehandlungsdokumentation,  Termine, Adresse usw.) in FHIR®-Ressourcen überführt. Dokumente, die im PVS 1 vorliegen, bleiben im  Ursprungsformat enthalten und werden in diesem Format über die Schnittstelle transportiert. Sowohl die  FHIR®-Dateien als auch die exportierten Dokumente sind in einer vorgegebenen Ordnerstruktur abzulegen.
 
-Bei einem Systemwechsel importiert das PVS 2 die Daten aus den FHIR®-Dateien und übernimmt diese, wenn  immer möglich in strukturierter Form. Die Dokumente wie z. B. Bilder, PDFs sind zu übernehmen und für eine  mögliche Nachbearbeitung bzw. Zuordnung im Zielsystem anzuzeigen.
+PVS 2 die Daten aus den FHIR®-Dateien und übernimmt diese, wenn Bei einem Systemwechsel importiert das  immer möglich in strukturierter Form. Die Dokumente wie z. B. Bilder, PDFs sind zu übernehmen und für eine  mögliche Nachbearbeitung bzw. Zuordnung im Zielsystem anzuzeigen.
 
 Bei der Archivierung werden die FHIR®-Dateien und Dokumente der Schnittstelle auf den entsprechenden  Datenträgern (Festplatte, CD, DVD etc.) abgelegt und können von dort eingesehen werden.
-
-Seite 6 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
 
-**2.1 EINSATZZWECKE**
+**2.1** **EINSATZZWECKE**
 
 Mit der Schnittstelle werden die im nachfolgenden skizzierten Einsatzzwecke unterstützt.
 
-**2.1.1 Wechsel des Praxisverwaltungssystems**
+**2.1.1** **Wechsel des Praxisverwaltungssystems**
 
 Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystem in eine maschinenlesbare,  strukturierte und vom Praxisverwaltungssystem unabhängige Struktur. Über die Schnittstelle kann sowohl  die Gesamtheit als auch eine Teilmenge der Informationen aus dem Praxisverwaltungssystem exportiert  werden. Die Teilmenge der Daten kann beispielsweise auf Basis von Patientendaten oder  Behandlungszeiträumen selektiert werden.
 
 Auf Basis der exportierten Struktur ermöglicht die Schnittstelle den Import dieser Daten, in ein anderes  Praxisverwaltungssystem. Beim Import muss immer der gesamte exportierte Umfang der Schnittstelle  berücksichtigt werden.
 
-**2.1.2 Archivierung der Daten des Praxisverwaltungssystems**
+**2.1.2** **Archivierung der Daten des Praxisverwaltungssystems**
 
 Die Schnittstelle ermöglicht den Datenexport aus einem Praxisverwaltungssystems in eine vom  Praxisverwaltungssystem unabhängige und menschenlesbare Form u.A. als PDF-Datei, welche auf einer  maschinenlesbaren Struktur aufbaut. Steht nach Beendigung der Tätigkeit als Behandelnder bpsw. kein PVS  für Auskünfte, die die Dokumentaionspflicht nach gemäß § 630f BGB betreffen, zur Verfügung, kann dies  mittels dem erzeugten menschenlesbaren PDF erfolgen.
 
@@ -141,36 +128,25 @@ Inhalt der Schnittstelle sind nur solche Informationen und Dokumente, die sich i
 
 Bei der Nutzung der Schnittstelle im Rahmen des Einsatzszenarios „Wechsel des Praxisverwaltungssystems“  wird davon ausgegangen, dass der Import in ein leeres PVS ohne weitere Rahmenbindungen erfolgt. Beim  Import in ein bereits genutztes PVS muss zusätzliche eine Migration (Zusammenführen der Daten von  Behandelnden- und/oder Behandlungsdokumentation etc.) durchgeführt werden. Dies ist nicht Bestandteil  der vorliegenden Schnittstellenfestlegung.
 
-Seite 7 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+---
+
+3.
+
+## UMSETZUNG DER VERSION
+
+Die Hersteller müssen die Version 1.2.0 nicht vollständig bis zur Umsetzungsfrist nach Kapitel 6 umsetzen. Es  in der Basisversion die administrativen Profile verpflichtend (Markierung siehe Spalte sind im ersten Schritt  „Umsetzung zum“ Kapitel 3.5 umzusetzen. Die verpflichtenden Profile der Basisversion sind vollständig mit  allen Elementen, Extensions, ValueSets, CodeSets und NamingSystems umzusetzen. Dieser Funktionsumfang  wird nach Erreichen der Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung ist  nicht notwendig.
+
+können diese im definierten Umfang im vorgegebenen Zeitrahmen vollständig umsetzen. Hintergrund dieser Vorgehensweise ist der enorme Umfang der Schnittstelle mit einer neuen Technologie.  Nicht alle Hersteller   Dieses Vorgehen lehnt sich auch die Vorgaben der anderen Sektoren an, die ein stufenweises Vorgehen der  Schnittstellen wählen werden.
+
+Dadurch das ggf. bei der Umsetzung einer Basisversion nicht alle Informationen strukturiert abgebildet  werden können, sind diese zwingend als Anlage im ursprünglichen Format oder als PDF bereitzustellen.
+
+Die Elemente mit der FHIR-Eigenschaft "mustSupport" müssen bei der Umsetzung des geringeren  Funktionsumfangs nur für die Elemente die die verpflichtenden Profile betreffen implementiert werden.  Werden weitere optionale Profile umgesetzt sind die Elemente die mit "mustSupport" gekennzeichnet sind  immer umzusetzen.
 
 
 ---
 
-| 3. |  | UMSETZUNG | | DER |  | VERSION | |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Die | Hersteller | | müssen | die Version |  | 1.2.0 nicht |  | vollständig | bis | zur | Umsetzungsfrist | nach Kapitel | 6 | umsetzen. Es |
-| sind | im | ersten | Schritt | in der | Basisversion | | die | administrativen | | Profile | verpflichtend | (Markierung | siehe | Spalte |
-|  | „Umsetzung | zum“ | Kapitel | 3.5 | umzusetzen. | | Die | verpflichtenden | | Profile | der | Basisversion sind | vollständig | mit |
-| allen |  | Elementen, |  | Extensions, | ValueSets, | | CodeSets | und |  | NamingSystems | umzusetzen. | Dieser |  | Funktionsumfang |
-| wird | nach | Erreichen | der |  | Umsetzungsfrist | | sukzessive |  | durch die | KBV | erweitert. | Eine erneute | Zertifizierung | ist |
-| nicht |  | notwendig. |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Hintergrund | dieser |  | Vorgehensweise | | ist de | r enorme | | Umfang | der | Schnittstelle | mit einer | neuen | Technologie. |
-| Nicht | alle | Hersteller |  | können | diese im |  | definierten | Umfang | im | vorgegebenen | | Zeitrahmen | vollständig | umsetzen. |
-|  | Dieses | Vorgehen | lehnt | sich | auch die | Vorgaben | | der | anderen | Sektoren | an, die | ein stufenweises |  | Vorgehen der |
-|  | Schnittstellen | | wählen | werden. |  |  |  |  |  |  |  |  |  |  |
-|  | Dadurch | das ggf. | bei | der | Umsetzung | einer |  | Basisversion |  | nicht alle | Informationen |  | strukturiert | abgebildet |
-| werden |  | können, | sind | diese | zwingend | als | Anlage | im | ursprünglichen | | Format oder | als PDF | bereitzustellen. | |
-| Die | Elemente | mit | der | FHIR | -Eigenschaft | | "mustSupport" | | müssen | bei | der Umsetzung | des | geringeren |  |
-|  | Funktionsumfangs | | nur | für die | Elemente | die | die |  | verpflichtenden |  | Profile betreffen | implementiert | | werden. |
-| Werden |  | weitere | optionale |  | Profile | umgesetzt | sind | die | Elemente | die | mit | "mustSupport" | gekennzeichnet | sind |
-| immer |  | umzusetzen. |  |  |  |  |  |  |  |  |  |  |  |  |
-| Seite | 8 von | 41 / KBV | / | Festlegung der | Archiv- | und | WechselSchnittstelle | | nach § | 371 Abs. 1 | SGB V / Version: | 1.2.0 / 8. | Dezember 2020 |  |
-
-UMSETZUNG DER VERSION Die Hersteller müssen die Version 1.2.0 nicht vollständig bis zur Umsetzungsfrist nach Kapitel 6 umsetzen. Es sind im ersten Schritt in der Basisversion die administrativen Profile verpflichtend (Markierung siehe Spalte „Umsetzung zum“ Kapitel 3.5 umzusetzen. Die verpflichtenden Profile der Basisversion sind vollständig mit allen Elementen, Extensions, ValueSets, CodeSets und NamingSystems umzusetzen. Dieser Funktionsumfang wird nach Erreichen der Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung ist nicht notwendig. Hintergrund dieser Vorgehensweise ist de r enorme Umfang der Schnittstelle  mit einer neuen Technologie. Nicht alle Hersteller können diese im definierten Umfang im vorgegebenen Zeitrahmen vollständig umsetzen. Dieses Vorgehen lehnt sich auch die Vorgaben der anderen Sektoren an, die ein stufenweises Vorgehen der Schnittstellen wählen werden. Dadurch das ggf. bei der Umsetzung einer Basisversion nicht alle Informationen strukturiert abgebildet werden können, sind diese zwingend als Anlage im ursprünglichen Format oder als PDF bereitzustellen. Die Elemente mit der FHIR -Eigenschaft "mustSupport" müssen bei der Umsetzung des geringeren Funktionsumfangs nur für die Elemente die die verpflichtenden Profile betreffen implementiert werden. Werden weitere optionale Profile umgesetzt sind die Elemente die mit "mustSupport" gekennzeichnet sind immer umzusetzen.  Seite 8 von 41  /  KBV  /  Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V /  Version: 1.2.0  /  8. Dezember 2020
-
----
-
-**3.1 FACHLICHES INFORMATIONSMODELL DER SCHNITTSTELLE**
+**3.1** **FACHLICHES INFORMATIONSMODELL DER SCHNITTSTELLE**
 
 In der Schnittstelle ist grundsätzlich die Gesamtheit der Informationsobjekte abgebildet, die für die primäre  Speicherung personenbezogener Patientendaten einer Arztpraxis vorliegen. Neben der Dokumentation der  Behandlung (z. B. gemäß § 630f BGB) und Abrechnungsdaten (z. B. gemäß § 295 SGB V) gehören dazu auch  die Patientenstamm-Daten, die KBV-Muster sowie die Inhalte möglicher Schnittstellen für den Austausch  bzw. die Dokumentation von speziellen Behandlungen wie z. B. DMPs. Des Weiteren werden die  administrativen Daten (Termine, Adressen, Behandlungsbausteine etc.) im Informationsmodell  berücksichtigt.
 
@@ -182,8 +158,8 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 |  | -enthält |  |  |
 |---|---|---|---|
-| Te rmin |  | Patie | nt |
-|  | 0..* 0..* |  |  |
+| **Te rmin** |  | **Patie** | **nt** |
+|  | 0..*0..* |  |  |
 
 -findet statt1
 
@@ -191,28 +167,26 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..* 0..* -hat
 
-**KrankenversicherungsverhältnisLeis tungsge ne hmigung**
+**Leis** **tungsge** **ne** **hmigungKrankenversicherungsverhältnis**
 
 0..10..1
 
 0..10..* -erhält0..* -enthält
 
-|  | 0..* 1 |  | -enhält -wird abgerechnet |  |
+|  | 10..* |  | -enhält -wird abgerechnet |  |
 |---|---|---|---|---|
-| Behandelnder |  | Begegnung/Hausbesuch |  | Abrechnung |
-|  | -wird durchgeführt -führt |  | 1..* 0..* |  |
+| **Behandelnder** |  | **Begegnung/Hausbesuch** |  | **Abrechnung** |
+|  | -wird durchgeführt -führt |  | 1..*0..* |  |
 
 -hat
 
 0..*
 
--hat 0..*
-
 | -arbeiten | 1..* |
 |---|---|
 | in | 0..* |
 
-0..* -finden statt
+-hat 0..* 0..* -finden statt
 
 0..*
 
@@ -222,123 +196,244 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 Abbildung 2 Ebene 1 des fachlichen Informationsmodells
 
-Patie ntSeite 9 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
 
 ---
 
-**3.2 FHIR®-DEFINITION**
+**3.2** **FHIR®-DEFINITION**
 
 Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Die FHIR®-Ressourcen und eine Zusammenstellung der  FHIR®-Notation spezifizierten Elemente befinden sich in der [FHIR®]-Spezifikation.
 
-Die Schnittstelle gemäß § 371 Absatz 1 SGB V wird mittels spezifischen KBV-Profilen definiert. D. h. es werden  die vorhandenen FHIR®-Ressourcen für die Schnittstelle angepasst und als KBV-Profile veröffentlicht.
+Die Schnittstelle gemäß 371 Absatz 1 SGB V wird mittels spezifischen KBV-Profilen definiert. D. h. es werden  die vorhandenen FHIR®-Ressourcen für die Schnittstelle angepasst und als KBV -Profile veröffentlicht.
 
-Eine wichtige Eigenschaft von Attributen in den KBV-Profilen bildet "must-support". Hierbei handelt es sich  um Attribute, welche unterstützt werden müssen, wenn das entsprechende FHIR®-Profil in der Schnittstelle  genutzt wird.
+Eine wichtige Eigenschaft von Attributen in den KBV-Profilen bildet "must-support". Hierbei handelt es sich  um Attribute, welche unterstützt werden müssen, wenn das entsprechende FHIR® -Profil in der Schnittstelle  genutzt wird.
 
-Die Elemente in den KBV-Profilen sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind  den FHIR®-XML-Definitionsdateien zu entnehmen. Diese sind zu finden unter: ftp://ftp.kbv.de/ita- update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/.
+Die Elemente in den KBV-Profilen sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind  den FHIR®-XML-Definitionsdateien zu entnehmen. Diese sind zu finden unter: ftp://ftp.kbv.de/ita update/371-Schnittstellen/PVS-Archivierungs-Wechsel-Schnittstelle/.
 
-**3.3 BEGRIFFSBESTIMMUNGEN UND DATEINAMEN**
+**3.3** **BEGRIFFSBESTIMMUNGEN UND DATEINAMEN**
 
-**3.3.1 Ressourcen und Profile**
+**3.3.1** **Ressourcen und Profile**
 
 Alle für die Schnittstelle verwendeten übergeordneten FHIR®-Ressourcen (von HL7 International sowie HL7  Deutschland e. V.) werden in KBV-Profilen abgeleitet und ggf. zusätzlich mit FHIR®-Extensions erweitert.
 
-**3.3.2 Instanzen**
+**3.3.2** **Instanzen**
 
 Die im Export erzeugten FHIR®-XML-Dateien mit den realen Daten, werden folgend als FHIR®-Instanzen  bezeichnet.
 
-**3.3.3 Dateinamen für Profil, Extension, CodeSystem, ValueSet, NamingSystem**
+**3.3.3** **Dateinamen für Profil, Extension, CodeSystem, ValueSet, NamingSystem**
 
 Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wie folgt zusammen:
 
-› Kürzel_Kategorie_Thema_Bezeichnung
+Kürzel_Kategorie_Thema_Bezeichnung
 
 **Bedeutung**
 
-› Kürzel - KBV (ist ein fester Wert)  › Kategorie - PR (Profil), EX (Extension), VS (ValueSet), CS (CodeSystem) und NS (NamingSystem)  › Thema - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)  › Bezeichnung - Bezeichnung der entsprechenden Fachlichkeit
+Kürzel - KBV (ist ein fester Wert)  Kategorie - PR (Profil), EX (Extension), VS (ValueSet), CS (CodeSystem) und NS (NamingSystem)  Thema - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)  Bezeichnung - Bezeichnung der entsprechenden Fachlichkeit
 
-| Beispiel: Dateiname: KBV_PR_AW_System |
+| Beispiel: |
 |---|
 
-Seite 10 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Dateiname: KBV_PR_AW_System
 
 ---
 
-**3.4 FHIR®-INFORMATIONSMODELL DER SCHNITTSTELLE**
+**3.4** **FHIR®-INFORMATIONSMODELL DER SCHNITTSTELLE**
 
-Das FHIR®-Informationsmodell bildet das fachliche Informationsmodell in der konkreten FHIR®-Struktur ab.  Eine detaillierte Darstellung des FHIR®- Informationsmodells befindet sich in [KBV_ITA_VGEX_FHIR- Informationsmodell_AW_SST].
+Das FHIR®-Informationsmodell bildet das fachliche Informationsmodell in der konkreten FHIR®-Struktur ab.  Eine detaillierte Darstellung des FHIR®- Informationsmodells befindet sich in [KBV_ITA_VGEX_FHIR Informationsmodell_AW_SST].
 
-**Begegnung** Begegnung :: Behandlung_im_Auf trag_Überweisung (ServiceRequest )
+**Begegnung** Begegnung ::**Behandlung_im_Auf** **trag_Überweisung (ServiceRequest )**
 
 -Patient -Behandelnder -Betriebsstaette
 
 |  | -Medikament |  |
 |---|---|---|
-| Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis Hueftumfang,Bauchumfang,Raucherstatus,Puls Blutdruck (Obse rva tion) -Patient | ), Koerpertemperatur, , | Begegnung :: Dia gnose(Condition) -Patient |
-
-Begegnung :: Allergie(AllergyIntolerance) -Patient
-
-Begegnung :: Anamnese(Obse rva tion)AbrechnungLeistungsgenehmigung-Patient Begegnung :: Bef und(Obse rva tion) -Patient
-
-Sonstige :: Abrechnung_HzV_BesondereVersorgung _Selektiv ( Begegnung :: Notf all(ServiceRequest )Sonstige :: Abrechnung_BG(Claim )**Claim )**Begegnung :: Ueberweisung_KH-Einweisung (ServiceRequest )Begegnung :: Abrechnung_vorläufig (Claim )Sonstige :: Leis tungsge ne hmigung**_Heilmittel (Elig ibilityresponse )**Sonstige :: Abrechnung_Vertragsaerztlich (Claim ) Sonstige :: Abrechnung_Privat (Claim )-BehandelnderFunktion-Organisation-Organisation-Patient
-
-| -Weiterbehandlung -Patient | _durch | Sonstige | :: Leis tungsge ne hmigung _Psychothe ra pie(Elig ibilityresponse ) |  |
-|---|---|---|---|---|
-
--Behandelnder-Betriebsstaette-Betriebsstaette-Betriebsstaette-Organisation -Betriebsstaette-Weiterbehandlung _durch-Patient-Organisation-Patient -Organisation-Patient-Patient-Behandelnder -Medikament-Behandelnder -Patient-Diagnos eBegegnung :: Ma te rial_Sache (Device )
-
-Sonstige :: Leistungsanfrage_Psychothe ra pie(Elig ibilityRequest )Sonstige :: Leistungsanfrage_Heilmittel (Elig ibilityRequest ) Begegnung ::Therapie(Proce dure)
-
--Diagnos e-Patient-PatientSonstige :: Weite rbe ha ndlung**_durch (ServiceRequest )** -Patient -Behandelnder -Organisation -Betriebsstaette -Patient
-
-Begegnung :: Untersuchung(Procedure) Begegnung :: Begegnung(Encounter) -Patient -Behandelnder -Betriebsstaette -Diagnos eBegegnung :: Hausbesuch(Encounter) -AnamneseBegegnung ::Unf all(Condition )-Patient -Allergie -Patient-Te rmin Sonstige :: Ringversuchszertifikat**(Device )**
-
-Begegnung :: Hausbesuch_Ort(Location ) Begegnung :: Verordnung Arzneimittel**(Medicationrequest)** Begegnung :: Me dikament (Medication)Ringversuchs- -Patient zertifikateBegegnung :: Genetische Untersuchung**(Procedure)**
-
--Patient -Vertragsaerztliche AbrechnungBegegnung :: Verordnung Heilmittel**(ServiceRequest )** -Privatabrechnung -Diagnos e -HzV_BesondereVersorgung _Selektiv -Patient -BG-Abrechnung
-
-Begegnung :: Ambulante_Operation _General (Procedure)
-
--Patient Begegnung :: Hilfsmittel**(Device )**Begegnung :: Verordnung Hilfsmittel**(ServiceRequest )**
+| Begegnung ::**Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,PulsBlutdruck (Obse rva tion)**-Patient | **), Koerpertemperatur,,** | Begegnung ::**Dia gnose(Condition)**-Patient |
 
 -Patient
 
-Sonstige :: Krankenversicherungsverhaeltnis**(Cove rage)**
+Begegnung ::**Allergie(AllergyIntolerance)**
 
--Organisation Sonstige :: Bez ugs pe rson**(RelatedPerson )**Begegnung :: Ambulante_Operation (Procedure) Begegnung :: Verordnung Arbeitsunfähigkeit**(ServiceRequest )**-Patient
+Begegnung ::**Anamnese(Obse** **rva** **tion)**
 
--Patient Krankenversicherungsverhaeltnis Begegnung :: Impf ung(Immunization)
+Begegnung ::**Bef** **und(Obse** **rva** **tion)** -PatientAbrechnungLeistungsgenehmigung -Patient
 
-Begegnung :: Kurgenehmigung, Kurverlaengerung(Elig ibilityResponse )Begegnung :: Kur_Antrag (Elig ibilityRequest ) Begegnung :: Kur(Procedure) -Patient -Patient-Krankenversicherungsverhaeltnis-Begegnung
+Begegnung ::**Notf** **all(ServiceRequest )**Sonstige ::**Abrechnung_BG(Claim )** Sonstige ::**Abrechnung_HzV_BesondereVersorgung _Selektiv (** **Claim )**Begegnung ::**Ueberweisung_KH-Einweisung (ServiceRequest )** -BehandelnderFunktion -Behandelnder -Patient
 
-Begegnung :: Krankenbefoederung**_Bef oe rde rungsmittel_Loka tion(**Begegnung :: Krankenbefoederung**_Bef oe rde rungsmittel(Device )**Begegnung :: Krankenbefoerderung**, Krankenbefoerderung-** **Location )42019 (ServiceRequest )** -Patient
+Begegnung ::**Abrechnung_vorläufig (Claim )** Sonstige ::**Abrechnung_Privat (Claim )** -Organisation-Organisation
 
-PatientBegegnung :: Schwangerschaft (Obse rva tion)
+| -Weiterbehandlung-Patient | _durch | Sonstige | ::**Leis tungsge ne hmigungibilityresponse )_Psychothe ra pie(Elig** |  |
+|---|---|---|---|---|
 
--PatientSonstige :: Vorsorgevollmacht(Conse nt) Sonstige :: Dauermedikation (Medica tionSta tement) -Organisation -Medikament -Bezugsperson
+Sonstige ::**Abrechnung_Vertragsaerztlich (Claim )**Sonstige ::**Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityresponse )**
 
-Sonstige :: Selektivvertrag (Contract )Sonstige :: Patie nt( nt) Sonstige :: Notf allberechtigter (Conse nt) -Organisation-Organisation -Bezugsperson-Bezugsperson-Behandelnder Begegnung :: Krebsfrueherkennung**_Frauen_Auf trag(ServiceRequest )**
+-Betriebsstaette -Organisation-Betriebsstaette -Organisation
 
--Patient -BegegnungSonstige :: Patie ntenve rf üg ung**(Conse nt)**
+-Organisation -Patient -Betriebsstaette -Patient -Betriebsstaette -Weiterbehandlung _durch -Patient-Patient -Behandelnder -Diagnos e -Medikament -Patient -Behandelnder
 
-Sonstige :: Gesundheitspass(DocumentReference )-BezugspersonTermin Sonstige ::Anlage(DocumentReference )-Person -PatientBegegnung :: Krebsfrueherkennung**_Frauen_Gynaekologische_Operation (** -Begegnung**Procedure)** -BetriebsstaetteSonstige :: Te rmin(Appointment)-Patient -Abrechnung_BG -Organisation - _HzV_BesondereVersorgung _SelektivBegegnung :: Krebsfrueherkennung**_Bef und_Rektum_Kolon(Obse rva tion)**Sonstige :: Betriebsstaette**_Ort(Location )** -Abrechnung_privat Begegnung :: Krebsfrueherkennung**_Frauen_Anamese _Diverse (**- _vertragsaerztlich **Obse rva tion)**-Behandlungsbaustein_Te xtvorlage -Observation _Anamnese-Patient - _Bauchumfang -Observation _BefundBegegnung :: Krebsfrueherkennung**_Ma enne _rAuf trag(ServiceRequest )** - _Blutdruck Begegnung :: Krebsfrueherkennung**_Frauen_Anamese _Hormona nwe ndung(**-Observation _Hueftumfang **Obse rva tion)**- _KoerpergewichtBegegnung :: Krebsfrüherkennung**_Mä nner(Composition )** -Observation _Koerpergroesse-Patient-Patient - _Koerpertemperatur -BehandelnderBegegnung :: Krebsfrueherkennung**_Ma enne _rAnamese _Diverse (**-Observation _PulsSonstige :: Behandlungsbaustein**_Baustein _Dia gnose, Leistungsziffer ,**-BlutdruckSonstige :: Behandlungsbaustein**_Definition(PlanDefinition )Obse rva tion)**- _Raucherstatus** OM IM_G_Code , Sonstige (ActivityDefinition)**Begegnung :: Krebsfrueherkennung**_Frauen_Bef und_Diverse (** -Observation _Schwangers chaft**Obse rva tion)** -Diagnos e -PatientBegegnung :: Krebsfrüherkennung**_Frauen(Composition )**-Allergie -Behandlung_im_Auftrag _Ueberweisung-Patient Begegnung :: Krebsfrueherkennung**_Ma enne _rBef und_Diverse (**-Unf all-BlutdruckBegegnung :: Krebsfrueherkennung**_Frauen_Bef und_Diverse _Ab30 (** **Obse rva tion)**-Ueberweisung_KH-Einweisung**Obse rva tion)** -Notfall-PatientSonstige :: Behandlungsbaustein**_Baustein _Verordnung(ActivityDefinition)** -TherapieSonstige :: Betriebsstaette**(Organization )** -Untersuchung -Medikament-Verordnung_Arbeitsunfa ehigkeit Begegnung :: Krebsfrueherkennung**_Frauen_Gynaekologische_Dia gnose(**- _Arzneimittel **Obse rva tion)**-Verordnung_Heilmittel -Patient- _Hilfsmittel -Kur Sonstige :: Behandlungsbaustein**_Baustein _Textvorlage(**-Krankenbefoerderung **ActivityDefinition)**-Krebsfrueherkennung_Frauen -_Maenner Sonstige :: Anforderung_Sprechstundenbedarf**(SupplyRequest)**-Haus bes uch -Genetische _untersuchung -Ambulante_Operation _Genereal-Behandelnder -Ringversuchszertifikat-Medikament
+Begegnung ::**Ma** **te** **rial_Sache (Device )**
 
-**_Frauen_Zytologischer_Bef und_Diverse (**Begegnung :: Krebsfrueherkennung **Obse rva tion)**Sonstige :: Behandelnder(Practitioner**)** Sonstige :: BehandeldnerFunktion**(PractitionerRole)**Betriebsstätte **_Frauen_Zytologischer_Bef und_Endozervikal**Begegnung :: KrebsfrueherkennungBehandelnder **e_Zellen(Obse rva tion)** Begegnung :: Krebsfrueherkennung**_Frauen_Auf trag_2020 (ServiceRequest )**
+Begegnung ::Therapie(Proce dure) Sonstige ::**Leistungsanfrage_Psychothe** **ra** **pie(Elig** **ibilityRequest )**Sonstige ::**Leistungsanfrage_Heilmittel (Elig** **ibilityRequest )**
 
--Patient -Begegnung Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Gruppe(** **Obse rva tion)**
+-Diagnos e -Patient Sonstige ::**Weite** **rbe** **ha** **ndlung_durch (ServiceRequest )**-Patient-Patient
 
-Begegnung :: Krebsfrueherkennung**_Frauen_HPV_Testergebnis _2020 (Obse rva tion)**
+-Behandelnder -Organisation -Betriebsstaette -Patient
 
--Patient **_Frauen_Zytologischer_Bef und_Bemerkungen (**Begegnung :: Krebsfrueherkennung **Oberservation)** Sonstige :: Personen (Person)Sonstige :: Organisation (Organization )Sonstige :: Prove nienz(Prove na nce)Begegnung :: Zytologischer_Bef und(DiagnosticReport)Begegnung :: Krebsfrueherkennung**_Frauen_HPV_Impf ung_2020 (Obse rva tion)** -BehandelnderSonstige :: Mitarbeiter(Practitioner**)**-Patient -Betriebsstaette **_Frauen_Zytologischer_Bef und_Kontrolle(**Begegnung :: Krebsfrueherkennung -...Begegnung :: Krebsfrüherkennung**_Frauen_2020 (Composition )Obse rva tion)** -Jedes KBV-Profil * -PatientBegegnung :: Krebsfrueherkennung**_Frauen_Gynaekologische_Operation (** -Blutdruck**Procedure)** -PatientAdressbuchBegegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Kontrolle_na** **ch_EntzuendungsBehandlung(Obse rva tion)** Begegnung :: Krebsfrueherkennung**_Frauen_Anamese _Diverse (** **Obse rva tion)**Provenienz-Patient Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Kontrolle_na** **ch_Freitext (Obse rva tion)** Begegnung :: Krebsfrueherkennung**_Frauen_Anamese _Hormona nwe ndung(** **Obse rva tion)** -Patient **_Frauen_Zytologischer_Bef und_Kontrolle_na**Begegnung :: Krebsfrueherkennung **(Obse rva tion)ch_Oe strogenBe ha ndlung**
+Begegnung ::**Untersuchung(Procedure)**
 
-Begegnung :: Krebsfrueherkennung**_Frauen_Bef und_Diverse (***In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt, **Obse rva tion)**Begegnung :: Zytologischer_Bef und_2020 (DiagnosticReport) -Patient**_Frauen_Zytologischer_Bef und_histologisch**Begegnung :: Krebsfrueherkennung **e_Kla erung(Obse rva tion)**jedoch könnte jedes beliebige KBV-Profil referenziert werden.
+-Patient -Behandelnder
 
-Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Empfehlung(Se**Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Gruppe(** **rviceRequest )Obse rva tion)** -Patient
+Begegnung ::**Begegnung(Encounter)**
 
-Begegnung :: Krebsfrueherkennung**_Frauen_HPV_Testergebnis _2020 (Obse rva tion)**Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Diverse (** **Obse rva tion)**-Patient
+-Betriebsstaette -Diagnos eBegegnung ::**Hausbesuch(Encounter)**
 
-Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Bemerkungen (**Begegnung :: Krebsfrueherkennung**_Frauen_Zytologischer_Bef und_Endozervikal** **Oberservation)e_Zellen(Obse rva tion)**
+-Patient
+
+Begegnung ::Unf all(Condition )-Anamnese -Allergie -Patient
+
+-Te rmin Sonstige ::**Ringversuchszertifikat(Device )**
+
+Begegnung ::**Me** **dikament (Medication)** Begegnung ::**Verordnung Arzneimittel(Medicationrequest** Begegnung ::**Hausbesuch_Ort(Location )**
+
+-PatientRingversuchs- Begegnung ::**Genetische Untersuchung(Procedure)**zertifikate -Patient -Vertragsaerztliche Abrechnung -Diagnos e
+
+Begegnung ::**Verordnung Heilmittel(ServiceRequest )** -Privatabrechnung -HzV_BesondereVersorgung _Selektiv -Patient -BG-Abrechnung
+
+Begegnung ::**Ambulante_Operation _General (Procedure)**
+
+Begegnung ::**Hilfsmittel(Device )**Begegnung ::**Verordnung Hilfsmittel(ServiceRequest )** -Patient -Patient
+
+Sonstige ::**Krankenversicherungsverhaeltnis(Cove** **rage)**
+
+Begegnung ::**Verordnung Arbeitsunfähigkeit(ServiceRequest )** Begegnung ::**Ambulante_Operation (Procedure)** -Organisation Sonstige ::**Bez** **ugs** **pe** **rson(RelatedPerson )**
+
+-Patient
+
+-Patient
+
+Begegnung ::**Impf** **ung(Immunization)**Krankenversicherungsverhaeltnis Begegnung ::**Kurgenehmigung, Kurverlaengerung(Elig** **ibilityResponse )**
+
+-Patient
+
+Begegnung ::**Kur_Antrag (Elig** **ibilityRequest )**
+
+-Patient
+
+Begegnung ::**Kur(Procedure)**
+
+-Krankenversicherungsverhaeltnis-Begegnung
+
+Begegnung ::**Krankenbefoederung** **Location )** **_Bef** **oe** **rde** **rungsmittel_Loka** **tion(**Begegnung ::**Krankenbefoederung_Bef** **oe** **rde** **rungsmittel(Device )**Begegnung ::**Krankenbefoerderung** **42019 (ServiceRequest )** **, Krankenbefoerderung**
+
+-Patient
+
+-Patient
+
+Begegnung ::**Schwangerschaft (Obse** **rva** **tion)**Patient -Organisation
+
+Sonstige ::**Vorsorgevollmacht(Conse** **nt)**
+
+-Medikament
+
+Sonstige ::**Dauermedikation (Medica** **tionSta** **tement)**
+
+-Bezugsperson
+
+Sonstige ::**Patie** **nt(** **nt)**Sonstige ::**Selektivvertrag (Contract )**
+
+-Bezugsperson
+
+Sonstige ::**Notf** **allberechtigter (Conse** **nt)** -Organisation-Organisation
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Auf** **trag(ServiceRequest )** -Behandelnder-Bezugsperson
+
+-Patient -BegegnungSonstige ::**Patie** **ntenve** **rf** **üg** **ung(Conse** **nt)**
+
+-BezugspersonSonstige ::**Gesundheitspass(DocumentReference )**Termin Begegnung ::**Krebsfrueherkennung_Frauen _Gynaekologische_Operation (**-Patient
+
+Sonstige ::Anlage (DocumentReference )-Person
+
+-Patient **Procedure)**-Begegnung -BetriebsstaetteSonstige ::**Te** **rmin(Appointment)**
+
+Begegnung ::**Krebsfrueherkennung_Bef** **und_Rektum _Kolon(Obse** **rva** **tion)** -Abrechnung_BG _HzV_BesondereVersorgung _Selektiv -Organisation Sonstige ::**Betriebsstaette_Ort(Location )**
+
+Begegnung ::**Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**
+
+-Abrechnung_privat
+
+-Behandlungsbaustein _vertragsaerztlich _Te xtvorlage -Patient-Observation _Anamnese _Bauchumfang Begegnung ::**Krebsfrueherkennung_Ma** **enne** **_rAuf** **trag(ServiceRequest )**-Observation _Befund _Blutdruck Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Anamese _Hormona** **rva** **tion)** **nwe** **ndung(** Begegnung ::**Krebsfrüherkennung_Mä** **nner(Composition )** -Observation _Hueftumfang _Koerpergewicht -Patient-Patient -Behandelnder
+
+-Observation _Koerpergroesse _Koerpertemperatur
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Bef** **und_Diverse (**
+
+Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **_Ma** **tion)** **enne** **_rAnamese _Diverse (** -Blutdruck -Observation _Puls _RaucherstatusSonstige ::**Behandlungsbaustein_Definition(PlanDefinition )** Sonstige ::**Behandlungsbaustein** **OM** **IM_G_Code , Sonstige (ActivityDefinition** **_Baustein _Dia** **gnose, Leistungsziffer ,**
+
+-Patient **Obse** **rva** **tion)**
+
+Begegnung ::**Krebsfrüherkennung_Frauen (Composition )**
+
+-Observation _Schwangers chaft -Diagnos e
+
+-Patient Begegnung ::**Krebsfrueherkennung_Ma** **enne** **_rBef** **und_Diverse (**
+
+-Allergie -Behandlung_im_Auftrag _Ueberweisung -Unf allBegegnung ::**Krebsfrueherkennung** **Obse** **rva** **_Frauen _Bef** **tion)** **und_Diverse _Ab30 (**-Blutdruck **Obse** **rva** **tion)**-Ueberweisung -Notfall _KH-Einweisung
+
+-Patient -Therapie -Untersuchung
+
+Sonstige ::**Behandlungsbaustein_Baustein _Verordnung(ActivityDefinition** Sonstige ::**Betriebsstaette(Organization )**
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Gynaekologische_Dia** **gnose(** -Verordnung_Arbeitsunfa ehigkeit _Arzneimittel -Medikament
+
+-Patient **Obse** **rva** **tion)**-Verordnung_Heilmittel _Hilfsmittel -Kur -KrankenbefoerderungSonstige ::**Behandlungsbaustein** **ActivityDefinition** **_Baustein _Textvorlage(**
+
+-Krebsfrueherkennung
+
+-Haus bes uch
+
+_Frauen _Maenner Sonstige ::**Anforderung_Sprechstundenbedarf(SupplyRequest)** -Genetische _untersuchung -Ambulante_Operation _Genereal -Ringversuchszertifikat -Behandelnder -Medikament
+
+Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Diverse (** Sonstige ::**Behandelnder(Practitioner** Sonstige ::**BehandeldnerFunktion(PractitionerRole**Betriebsstätte Begegnung ::**Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Auf** **trag_2020 (ServiceRequest )** Behandelnder -Patient
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Gruppe(** -Begegnung
+
+**Obse** **rva** **tion)**
+
+Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**
+
+-Patient Begegnung ::**Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**
+
+Begegnung ::**Zytologischer_Bef** **und(DiagnosticReport)**
+
+-Patient
+
+Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Impf** **ung_2020 (Obse** **rva** **tion)** -Behandelnder
+
+Sonstige ::**Prove** **nienz(Prove** **na** **nce)**
+
+Sonstige ::**Mitarbeiter(Practitioner**
+
+Sonstige ::**Personen (Person)**Sonstige ::**Organisation (Organization )**
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle(** Begegnung ::**Krebsfrüherkennung_Frauen _2020 (Composition )** -Betriebsstaette -... **Obse** **rva** **tion)** -Patient -Blutdruck Begegnung ::**Krebsfrueherkennung** **Procedure)** **_Frauen _Gynaekologische_Operation (** -Jedes KBV-Profil *
+
+-Patient Begegnung ::**Krebsfrueherkennung** **ch_EntzuendungsBehandlung** **_Frauen _Zytologischer_Bef** **(Obse** **rva** **tion)** **und_Kontrolle_na**Adressbuch Begegnung ::**Krebsfrueherkennung** **Obse** **rva**  **_Frauen _Anamese _Diverse (** **tion)**Provenienz Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na** -Patient
+
+**ch_Freitext (Obse** **rva** **tion)** Begegnung ::**Krebsfrueherkennung_Frauen _Anamese _Hormona** **nwe** **ndung(**
+
+Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Kontrolle_na** -Patient **Obse** **rva** **tion)**
+
+**ch_Oe** **strogenBe** **ha** **ndlung(Obse** **rva** **tion)**
+
+Begegnung ::**Zytologischer_Bef** **und_2020 (DiagnosticReport)** Begegnung ::**Krebsfrueherkennung** **Obse** **rva** **tion)** **_Frauen _Bef** **und_Diverse (***In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt Begegnung ::**Krebsfrueherkennung** **e_Kla** **erung (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_histologisch**-Patient jedoch könnte jedes beliebige KBV-Profil referenziert werden .
+
+Begegnung ::**Krebsfrueherkennung** **rviceRequest )** **_Frauen _Zytologischer_Bef** **und_Empfehlung(Se**Begegnung ::**Krebsfrueherkennung** **Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Gruppe(**
+
+-Patient
+
+Begegnung ::**Krebsfrueherkennung_Frauen _HPV _Testergebnis _2020 (Obse** **rva** **tion)**Begegnung ::**Krebsfrueherkennung_Frauen _Zytologischer_Bef** **und_Diverse (** -Patient**Obse** **rva** **tion)**
+
+Begegnung ::**Krebsfrueherkennung** **Oberservation)** **_Frauen _Zytologischer_Bef** **und_Bemerkungen (**Begegnung ::**Krebsfrueherkennung** **e_Zellen (Obse** **_Frauen _Zytologischer_Bef** **rva** **tion)** **und_Endozervikal**
 
 Abbildung 3 Ebene 1 des FHIR-Informationsmodells
 
@@ -346,12 +441,11 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
--Weiterbehandlung _durch Sonstige :: Leis tungsge ne hmigung Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls ,Seite 11 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+-Weiterbehandlung _durch Sonstige :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
 
 ---
 
-**3.5 KBV-PROFILE**
+**3.5** **KBV-PROFILE**
 
 | Name | URI | Umsetzung (zum) |
 |---|---|---|
@@ -365,9 +459,9 @@ Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (
 | KBV_PR_AW_Ambulante_Oper | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Amb | Optional |
 | KBV_PR_AW_Anforderung_Spr | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Anfo | Optional |
 | KBV_PR_AW_Anlage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Anla | 06.06.2021 |
-| KBV_PR_AW_Begegnung | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beg | 06.06.2021 |
+| KBV_PR_AW_Begegnung | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beg |  |
 | KBV_PR_AW_Behandelnder | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | 06.06.2021 |
-| KBV_PR_AW_BehandelnderFun | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | 06.06.2021 |
+| KBV_PR_AW_BehandelnderFun | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh |  |
 | KBV_PR_AW_Behandlung_im_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
@@ -474,8 +568,7 @@ Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (
 |  | KBV_PR_AW_Abrechnung_vorl | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Abr |
 |  | KBV_PR_AW_Allergie | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Aller |
 
-Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti echnung_HzV_BesondereVersorgung_Selektiv at echnung_privat ragsaerztlich echnung_vertragsaerztlich geplant zur nächsten Version aeufig echnung_vorlaeufig ation ulante_Operation ation_General ulante_Operation_General echstundenbedarf rderung_Sprechstundenbedarf ktion andelnderFunktion Auftrag_Ueberweisung andlung_im_Auftrag_Ueberweisung tein_Definition andlungsbaustein_Definition tein_Diagnose andlungsbaustein_Diagnose tein_Leistungsziffern andlungsbaustein_Leistungsziffern Seite 12 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_ Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern geplant zur nächsten Version
 
 ---
 
@@ -494,7 +587,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional KBV_PR_AW_Hausbesuch |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional KBV_PR_AW_Hausbesuch_Ort |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional KBV_PR_AW_Hersteller_Softwa |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 KBV_PR_AW_Hilfsmittel |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | KBV_PR_AW_Hilfsmittel |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional KBV_PR_AW_Impfung |  |
 | https://fhir.kbv.de/StructureDefinition/ | Optional KBV_PR_AW_Krankenbefoerde |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional KBV_PR_AW_Krankenbefoerde |  |
@@ -512,7 +605,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Gesundheitspass | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional |
 | KBV_PR_AW_Hausbesuch | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
 | KBV_PR_AW_Hausbesuch_Ort | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
-| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 |
+| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers |  |
 | KBV_PR_AW_Hilfsmittel | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional |
 | KBV_PR_AW_Impfung | https://fhir.kbv.de/StructureDefinition/ | Optional |
 | KBV_PR_AW_Krankenbefoerde | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional |
@@ -532,7 +625,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Gesundheitspass | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional |
 | KBV_PR_AW_Hausbesuch | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
 | KBV_PR_AW_Hausbesuch_Ort | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
-| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 |
+| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers |  |
 | KBV_PR_AW_Hilfsmittel | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional |
 | KBV_PR_AW_Impfung | https://fhir.kbv.de/StructureDefinition/ | Optional |
 | Name | URI | Umsetzung (zum) |
@@ -549,7 +642,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Gesundheitspass | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional |
 | KBV_PR_AW_Hausbesuch | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
 | KBV_PR_AW_Hausbesuch_Ort | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
-| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 |
+| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
 | KBV_PR_AW_Behandlungsbaus | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Beh | Optional |
@@ -564,7 +657,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Gesundheitspass | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional |
 | KBV_PR_AW_Hausbesuch | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
 | KBV_PR_AW_Hausbesuch_Ort | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
-| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 |
+| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers |  |
 | KBV_PR_AW_Hilfsmittel | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional |
 | KBV_PR_AW_Impfung | https://fhir.kbv.de/StructureDefinition/ | Optional |
 | KBV_PR_AW_Krankenbefoerde | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional |
@@ -585,7 +678,7 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Gesundheitspass | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Ges | Optional |
 | KBV_PR_AW_Hausbesuch | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
 | KBV_PR_AW_Hausbesuch_Ort | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hau | Optional |
-| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers | 06.06.2021 |
+| KBV_PR_AW_Hersteller_Softwa | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hers |  |
 | KBV_PR_AW_Hilfsmittel | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Hilfs | Optional |
 | KBV_PR_AW_Impfung | https://fhir.kbv.de/StructureDefinition/ | Optional |
 | KBV_PR_AW_Krankenbefoerde | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Optional |
@@ -600,14 +693,13 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Betriebsstaette | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | 06.06.2021 |
 | KBV_PR_AW_Betriebsstaette_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | Optional |
 
-tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige tein_Textvorlage andlungsbaustein_Textvorlage tein_Verordnung andlungsbaustein_Verordnung iebsstaette_Ort geplant zur nächsten Version Unte rsuchung etische_Untersuchung teller_Software rung kenbefoerderung rung_42019 kenbefoerderung_42019 rung_Befoerderungsmittel kenbefoerderung_BefoerderungsmittelSeite 13 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung Unte rsuchung rung rung_42019 rung_Befoerderungsmittel andlungsbaustein_OMIMCode andlungsbaustein_Sonstige andlungsbaustein_Textvorlage andlungsbaustein_Verordnung iebsstaette_Ort etische_Untersuchung teller_Software kenbefoerderung kenbefoerderung_42019 kenbefoerderung_Befoerderungsmittel geplant zur nächsten Version
 
 ---
 
 |  |  | KBV_PR_AW_Krankenversicher |
 |---|---|---|
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung KBV_PR_AW_Krebsfrueh |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung erkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
@@ -626,7 +718,7 @@ tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige 
 |  |  |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
@@ -646,7 +738,7 @@ tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige 
 |  |  |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
@@ -663,7 +755,7 @@ tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige 
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
@@ -678,28 +770,7 @@ tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige 
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR | Optional |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| Name | URI | Umsetzung (zum) |
-| KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
@@ -720,14 +791,34 @@ tein_OMIMCode andlungsbaustein_OMIMCode tein_Sonstige andlungsbaustein_Sonstige 
 |  |  |  |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
-| KBV_PR_AW_Krebsfrueh | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Name | URI | Umsetzung (zum) |
+| KBV_PR_AW_Krankenversicher | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kran | Verpflichtung |
+| erkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ungsverhaeltnis kenversicherungsverhaeltnis geplant zur nächsten Version ung_Befund_Rektum_Kolon sfrueherkennung_Befund_Rektum_Kolon ung_Frauen sfrueherkennung_Frauen ung_Frauen_2020 sfrueherkennung_Frauen_2020 ung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung sfrueherkennung_Frauen_Anamnese_Hormonanwendun ung_Frauen_Anamnese_Hormo nanwendung_2020 sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 ung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag ung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 sfrueherkennung_Frauen_Befund_Diverse_Ab30 ung_Frauen_Gynaekologische_ Diagnose sfrueherkennung_Frauen_Gynaekologische_Diagnose ung_Frauen_Gynaekologische_ Operation sfrueherkennung_Frauen_Gynaekologische_Operation ung_Frauen_Zytologischer_Bef und sfrueherkennung_Frauen_Zytologischer_Befund ung_Frauen_Zytologischer_Bef und_2020 sfrueherkennung_Frauen_Zytologischer_Befund_2020 ung_Frauen_Zytologischer_Em pfehlung sfrueherkennung_Frauen_Zytologischer_Befund_EmpfehlSeite 14 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung ung_Frauen_Anamnese_Hormo nanwendung_2020 ung_Frauen_Auftrag ung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 ung_Frauen_Gynaekologische_ Diagnose ung_Frauen_Gynaekologische_ Operation ung_Frauen_Zytologischer_Bef und ung_Frauen_Zytologischer_Bef und_2020 ung_Frauen_Zytologischer_Em pfehlung kenversicherungsverhaeltnis geplant zur nächsten Version sfrueherkennung_Befund_Rektum_Kolon sfrueherkennung_Frauen sfrueherkennung_Frauen_2020 sfrueherkennung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamnese_Hormonanwendun sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 sfrueherkennung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse_Ab30 sfrueherkennung_Frauen_Gynaekologische_Diagnose sfrueherkennung_Frauen_Gynaekologische_Operation sfrueherkennung_Frauen_Zytologischer_Befund sfrueherkennung_Frauen_Zytologischer_Befund_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Empfehl
 
 ---
 
@@ -852,8 +943,7 @@ ungsverhaeltnis kenversicherungsverhaeltnis geplant zur nächsten Version ung_Be
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ 2020 ung_Frauen_Zytologischer_Bef und_Bemerkungen sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk ungen ung_Frauen_Zytologischer_Bef und_Diverse sfrueherkennung_Frauen_Zytologischer_Befund_Diverse ung_Frauen_Zytologischer_Bef und_Endozervikale_Zellen sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z ellen ung_Frauen_Zytologischer_Bef und_Gruppe sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe ung_Frauen_Zytologischer_Bef und_histologische_Klaerung sfrueherkennung_Frauen_Zytologischer_Befund_histologi sche_Klaerung ung_Frauen_Zytologischer_Bef und_Kontrolle sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Entzuend ungsbehandlung sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Entzuendungsbehandlung ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Freitext sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Freitex ung_Frauen_Zytologischer_Bef und_Kontrolle_nach_Oestrogen behandlung sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll e_nach_Oestrogenbehandlung ung_Frauen_HPV_HR_Impfung _2020 sfrueherkennung_Frauen_HPV_HR_Impfung_2020 ung_Frauen_HPV_HR_Testerge bnis_2020 sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 ung_Maenner sfrueherkennung_Maenner ung_Maenner_Anamnese_Dive rse sfrueherkennung_Maenner_Anamnese_Diverse Seite 15 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ und_Diverse_2020 2020 ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk und_Bemerkungen ungen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse und_Diverse ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z und_Endozervikale_Zellen ellen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe und_Gruppe ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_histologi und_histologische_Klaerung sche_Klaerung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Entzuend e_nach_Entzuendungsbehandlung ungsbehandlung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Freitext e_nach_Freitex ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Oestrogen e_nach_Oestrogenbehandlung behandlung ung_Frauen_HPV_HR_Impfung sfrueherkennung_Frauen_HPV_HR_Impfung_2020 _2020 ung_Frauen_HPV_HR_Testerge sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 bnis_2020 ung_Maenner sfrueherkennung_Maenner ung_Maenner_Anamnese_Dive sfrueherkennung_Maenner_Anamnese_Diverse rse
 
 ---
 
@@ -862,11 +952,11 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Krebsfrueherkenn |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional KBV_PR_AW_Kur |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional KBV_PR_AW_Kur_Antrag |  |
-| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Kur_ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional Kurgenehmig |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Kur_ |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional KBV_PR_AW_Leistungsanfrage |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional KBV_PR_AW_Leistungsanfrage |  |
-| https://fhir.kbv.de/Structur | Optional KBV_PR_AW_Leistungsgenehmi |  |
+| eDefinition/KBV_PR_AW_Leist | Optional KBV_PR_AW_Leistungsgenehmi |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional KBV_PR_AW_Leistungsgenehmi |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional KBV_PR_AW_Material_ |  |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional KBV_PR_AW_Medikament |  |
@@ -881,10 +971,10 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
 | KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/Structur | Optional |
+| KBV_PR_AW_Leistungsanfrage | eDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
@@ -901,10 +991,10 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
 | KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/Structur | Optional |
+| KBV_PR_AW_Leistungsanfrage | eDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
@@ -918,10 +1008,10 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
 | KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/Structur | Optional |
+| KBV_PR_AW_Leistungsanfrage | eDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
@@ -933,31 +1023,10 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
 | KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/Structur | Optional |
-| KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
-| KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
-| KBV_PR_AW_Medikament | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Med | Optional |
-| KBV_PR_AW_Mitarbeiter | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mita | 06.06.2021 |
-| KBV_PR_AW_Notfall | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional |
-| KBV_PR_AW_Notfallbenachrich | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional |
-| KBV_PR_AW_Observation_Ana | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
-| KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional |
-| KBV_PR_AW_Observation_Befu | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
-| KBV_PR_AW_Observation_Blut | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
-| KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
-| Name | URI | Umsetzung (zum) |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
-| KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
-| KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
-| KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
-| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/Structur | Optional |
+| KBV_PR_AW_Leistungsanfrage | eDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
 | KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
 | KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
@@ -969,17 +1038,37 @@ ung_Frauen_Zytologischer_Bef und_Diverse_2020 sfrueherkennung_Frauen_Zytologisch
 | KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional |
 | KBV_PR_AW_Observation_Befu | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
 | KBV_PR_AW_Observation_Blut | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
-| KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
+| Hue | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
 | Name | URI | Umsetzung (zum) |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
 | KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| KBV_PR_AW_Leistungsanfrage | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
+| KBV_PR_AW_Leistungsanfrage | eDefinition/KBV_PR_AW_Leist | Optional |
+| KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Le | Optional |
+| KBV_PR_AW_Leistungsgenehmi | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Leist | Optional |
+| KBV_PR_AW_Material_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mat | Optional |
+| KBV_PR_AW_Medikament | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Med | Optional |
+| KBV_PR_AW_Mitarbeiter | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Mita | 06.06.2021 |
+| KBV_PR_AW_Notfall | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional |
+| KBV_PR_AW_Notfallbenachrich | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Notf | Optional |
+| KBV_PR_AW_Observation_Ana | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
+| KBV_PR_AW_Observation_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_O | Optional |
+| KBV_PR_AW_Observation_Befu | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
+| KBV_PR_AW_Observation_Blut | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
+| Hue | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Obs | Optional |
+| Name | URI | Umsetzung (zum) |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
+| KBV_PR_AW_Kur | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur | Optional |
+| KBV_PR_AW_Kur_Antrag | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
+| Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 
-ung_Maenner_Auftrag sfrueherkennung_Maenner_Auftrag ung_Maenner_Befund_Diverse sfrueherkennung_Maenner_Befund_Diverse Kurgenehmig Kurgenehmigung Kurverlaenge rung Kurverlaengerung _Heilmittel ungsanfrage_Heilmittel _Psychotherapie ungsanfrage_Psychotherapie gung_Heilmittel ungsgenehmigung_Heilmittel gung_Psychotherapie ungsgenehmigung_Psychotherapie Sache erial_Sache tigter allbenachrichtigter mnese ervation_Anamnese Bau chumfang ervation_Bauchumfang nd ervation_Befund druck ervation_Blutdruck Hue ftumfang ervation_HueftumfangSeite 16 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+ung_Maenner_Auftrag ung_Maenner_Befund_Diverse Kurverlaenge rung _Heilmittel _Psychotherapie gung_Heilmittel gung_Psychotherapie Sache tigter mnese Bau chumfang nd druck ftumfang sfrueherkennung_Maenner_Auftrag sfrueherkennung_Maenner_Befund_Diverse Kurgenehmigung Kurverlaengerung ungsanfrage_Heilmittel ungsanfrage_Psychotherapie ungsgenehmigung_Heilmittel ungsgenehmigung_Psychotherapie erial_Sache allbenachrichtigter ervation_Anamnese ervation_Bauchumfang ervation_Befund ervation_Blutdruck ervation_Hueftumfang
 
 ---
 
@@ -1104,8 +1193,7 @@ ung_Maenner_Auftrag sfrueherkennung_Maenner_Auftrag ung_Maenner_Befund_Diverse s
 | KBV_PR_AW_Organisation | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Org | Optional |
 | KBV_PR_AW_Patient | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pati | 06.06.2021 |
 
-Koer pertemperatur ervation_Koerpertemperatur Rau cherstatus ervation_Raucherstatus Sch wangerschaft ervation_Schwangerschaft entenverfuegung fikat versuchszertifikat ndlung onaere_Behandlung H-Einweisung erweisung_KH-Einweisung itsunfaehigkeit rdnung_Arbeitsunfaehigkeit eimittel rdnung_Arzneimittel Seite 17 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Koer pertemperatur Rau cherstatus Sch wangerschaft fikat ndlung H-Einweisung itsunfaehigkeit eimittel ervation_Koerpertemperatur ervation_Raucherstatus ervation_Schwangerschaft entenverfuegung versuchszertifikat onaere_Behandlung erweisung_KH-Einweisung rdnung_Arbeitsunfaehigkeit rdnung_Arzneimittel
 
 ---
 
@@ -1230,12 +1318,11 @@ Koer pertemperatur ervation_Koerpertemperatur Rau cherstatus ervation_Rauchersta
 | KBV_PR_AW_Report_Export | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 |
 | KBV_PR_AW_Report_Import | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 |
 
-mittel rdnung_Heilmittel mittel rdnung_Hilfsmittel orgevollmacht g_durch efinition/KBV_PR_AW_Wei terbehandlung_durch geplant zur nächsten Version Seite 18 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht efinition/KBV_PR_AW_Wei terbehandlung_durch geplant zur nächsten Version
 
 ---
 
-**3.6 KBV-EXTENSIONS**
+**3.6** **KBV-EXTENSIONS**
 
 | Name | Kanonische URL |
 |---|---|
@@ -1257,7 +1344,7 @@ mittel rdnung_Heilmittel mittel rdnung_Hilfsmittel orgevollmacht g_durch efiniti
 | KBV_EX_AW_Diagnose_istDauerdiagnose | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Diagn |
 | KBV_EX_AW_Hausbesuch_Entfernungsinformatio | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Hausb |
 | KBV_EX_AW_istAbrechnungsrelevant | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_istAbr |
-| Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Profilen vorgenommen. |  |
+| Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR® -Profilen vorgenommen. |  |
 | Kanonische URL | KBV_EX_AW_Abrechnung_BG_Unfallbetrieb |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_Item_Kontext |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_spezielle_Abrechnu |
@@ -1277,7 +1364,7 @@ mittel rdnung_Heilmittel mittel rdnung_Hilfsmittel orgevollmacht g_durch efiniti
 | KBV_EX_AW_Hausbesuch_Entfernungsinformatio | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Hausb |
 | KBV_EX_AW_istAbrechnungsrelevant | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_istAbr |
 |  |  |
-| Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Profilen vorgenommen. |  |
+| Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR® -Profilen vorgenommen. |  |
 | Kanonische URL | KBV_EX_AW_Abrechnung_BG_Unfallbetrieb |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_Item_Kontext |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Abrec | KBV_EX_AW_Abrechnungen_spezielle_Abrechnu |
@@ -1294,8 +1381,7 @@ mittel rdnung_Heilmittel mittel rdnung_Hilfsmittel orgevollmacht g_durch efiniti
 | KBV_EX_AW_Behandlungsbaustein_Contributor | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Behan |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Behan | KBV_EX_AW_Diagnose_istDauerdiagnose |
 
-ngsbegruendung hnungen_spezielle_Abrechnungsbegruendung tzinformation hnung_vertragsaerztlich_Zusatzinformation chungsdienst hnung_Kundennummer_Abrechungsdienst formationen nung_Spezielle_Begegnungsinformationen Typ dlungsbaustein_Verordnung_Typ nen esuch_Entfernungsinformationen Seite 19 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+ngsbegruendung tzinformation chungsdienst formationen Typ nen hnungen_spezielle_Abrechnungsbegruendung hnung_vertragsaerztlich_Zusatzinformation hnung_Kundennummer_Abrechungsdienst nung_Spezielle_Begegnungsinformationen dlungsbaustein_Verordnung_Typ esuch_Entfernungsinformationen
 
 ---
 
@@ -1356,8 +1442,7 @@ ngsbegruendung hnungen_spezielle_Abrechnungsbegruendung tzinformation hnung_vert
 | KBV_EX_AW_Patient_Vsdm_Zusatzinformationen | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Patien |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Patien | KBV_EX_AW_Privatabrechnung_Kontoverbindung |
 
-smittel_med_fachliche_Betreuung enbefoederung_Befoerderungsmittel_med_ fachliche_Betr euung smittel_med_technische_Ausstattung enbefoederung_Befoerderungsmittel_med_tec hnische_Au sstattung smittel_Start_Zielort enbefoederung_Befoerderungsmittel_Start_Zielort enbefoederung_Ort_Zusatzinformation egruednung enbefoerderung_Performer_Begruednung enbefoerderung_ReasonCode_Zusatz rueherkennung_Auftrag_Zusatzinformation tzinformation_2020 rueherkennung_Auftrag_Zusatzinformation_2020 _Diskriminator t_Adresse_Diskriminator enger abrechnung_Rechnungsempfaenger abrechnung_Zusatzinformationen Seite 20 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+smittel_med_fachliche_Betreuung enbefoederung_Befoerderungsmittel_med_ fachliche_Betr euung smittel_med_technische_Ausstattung enbefoederung_Befoerderungsmittel_med_tec hnische_Au sstattung smittel_Start_Zielort enbefoederung_Befoerderungsmittel_Start_Zielort enbefoederung_Ort_Zusatzinformation egruednung enbefoerderung_Performer_Begruednung enbefoerderung_ReasonCode_Zusatz rueherkennung_Auftrag_Zusatzinformation tzinformation_2020 rueherkennung_Auftrag_Zusatzinformation_2020 _Diskriminator t_Adresse_Diskriminator enger abrechnung_Rechnungsempfaenger abrechnung_Zusatzinformationen
 
 ---
 
@@ -1418,8 +1503,7 @@ smittel_med_fachliche_Betreuung enbefoederung_Befoerderungsmittel_med_ fachliche
 | KBV_EX_AW_SKT_Zusatzangabe | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_SKT_Z |
 | KBV_EX_AW_Termin_Terminserie | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Termi |
 
-Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis Einweisung_Operation weisung_KH-Einweisung_Operation smittel_Optionen_42019 enbefoederung_Befoerderungsmittel_Optionen_42019 Operation_Operationsdatum enbefoerderung_Ambulante_Operation_Operationsdatum _42019 enbefoerderung_ICD10_42019 Fe ststellungsdatum dnung_Arbeitsunfaehigkeit_Feststellungsdatum Seite 21 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis Einweisung_Operation weisung_KH-Einweisung_Operation smittel_Optionen_42019 enbefoederung_Befoerderungsmittel_Optionen_42019 Operation_Operationsdatum enbefoerderung_Ambulante_Operation_Operationsdatum _42019 enbefoerderung_ICD10_42019 ststellungsdatum Fe dnung_Arbeitsunfaehigkeit_Feststellungsdatum
 
 ---
 
@@ -1431,7 +1515,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 | Abrechnung_Information_Kat | https://fhir.kbv.de/CodeSystem/ |
 | Abrechnung_Item_Kategorie | https://fhir.kbv.de/CodeSystem/ |
 | Abrechnung_Mahnung | https://fhir.kbv.de/CodeSystem/ |
-| Koerperkenngroessen | https://fhir.kbv.de/CodeSystem/ |
+|  | https://fhir.kbv.de/CodeSystem/ |
 | Anlage_Identifiertyp | https://fhir.kbv.de/CodeSystem/ |
 | Anlagetyp | https://fhir.kbv.de/CodeSystem/ |
 | Arzneimittelart | https://fhir.kbv.de/CodeSystem/ |
@@ -1446,8 +1530,8 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 | Gesundheitspass_Typ | https://fhir.kbv.de/CodeSystem/ |
 | Besuchszonen | https://fhir.kbv.de/CodeSystem/ |
 | Hilfsmittel_Hilfsmittelart | https://fhir.kbv.de/CodeSystem/ |
-| Kostentraeger- | https://fhir.kbv.de/CodeSystem/ |
-| Krankenbefoederung_Befoerd | https://fhir.kbv.de/CodeSystem/ |
+| Kostentraeger- | - |
+|  | https://fhir.kbv.de/CodeSystem/ |
 | Krankenbefoerderung_Befoer | https://fhir.kbv.de/CodeSystem/ |
 | 3.7 | Name Code System |
 |  | Abrechnung_Art |
@@ -1456,7 +1540,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 |  | Abrechnung_Information_Kat |
 |  | Abrechnung_Item_Kategorie |
 |  | Abrechnung_Mahnung |
-|  | Koerperkenngroessen |
+|  |  |
 |  | Anlage_Identifiertyp |
 |  | Anlagetyp |
 |  | Arzneimittelart |
@@ -1476,7 +1560,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 |  | Abrechnung_Information_Kat |
 |  | Abrechnung_Item_Kategorie |
 |  | Abrechnung_Mahnung |
-|  | Koerperkenngroessen |
+|  |  |
 |  | Anlage_Identifiertyp |
 |  | Anlagetyp |
 |  | Arzneimittelart |
@@ -1488,8 +1572,7 @@ Dauertherapie pie_Dauertherapie -Einweisung_AU- bis weisung_KH-Einweisung_AU-bis
 |  | https://fhir.kbv.de/CodeSystem/ |
 |  | https://fhir.kbv.de/CodeSystem/ |
 
-KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten KBV_CS_AW_Abrechnung_Art KBV_CS_AW_Abrechnung_Auslagenart KBV_CS_AW_Abrechnung_Identifiertyp KBV_CS_AW_Abrechnung_Information_ KBV_CS_AW_Abrechnung_Item_Katego KBV_CS_AW_Abrechnung_Mahnung KBV_CS_AW_Koerperkenngroessen KBV_CS_AW_Anlage_Identifiertyp KBV_CS_AW_Anlagetyp KBV_CS_AW_Arzneimittelart KBV_CS_AW_Befundart KBV_CS_AW_Behandlungsbaustein_Bau steine nung_Typ KBV_CS_AW_Behandlungsbaustein_Ver ordnung_Typ KBV_CS_AW_Blutdruck_Typen KBV_CS_AW_Diagnoseart KBV_CS_AW_Diagnosekategorie KBV_CS_AW_Entschaedigungsart KBV_CS_AW_Gebuehrenordnung KBV_CS_AW_Gesundheitspass_Typ KBV_CS_AW_Hausbesuch_Besuchszone KBV_CS_AW_Hilfsmittel_Hilfsmittelart Abrechnungsbereich KBV_CS_AW_Kostentraeger Abrechnungsbereich erungsmittel_Von_Nach KBV_CS_AW_Krankenbefoederung_Befo erderungsmittel_Von_Nach derungsmitteltyp KBV_CS_AW_Krankenbefoerderung_Bef oerderungsmitteltypSeite 22 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten Koerperkenngroessen nung_Typ Abrechnungsbereich Krankenbefoederung_Befoerd erungsmittel_Von_Nach derungsmitteltyp KBV_CS_AW_Abrechnung_Art KBV_CS_AW_Abrechnung_Auslagenart KBV_CS_AW_Abrechnung_Identifiertyp KBV_CS_AW_Abrechnung_Information_ KBV_CS_AW_Abrechnung_Item_Katego KBV_CS_AW_Abrechnung_Mahnung KBV_CS_AW_Koerperkenngroessen KBV_CS_AW_Anlage_Identifiertyp KBV_CS_AW_Anlagetyp KBV_CS_AW_Arzneimittelart KBV_CS_AW_Befundart KBV_CS_AW_Behandlungsbaustein_Bau steine KBV_CS_AW_Behandlungsbaustein_Ver ordnung_Typ KBV_CS_AW_Blutdruck_Typen KBV_CS_AW_Diagnoseart KBV_CS_AW_Diagnosekategorie KBV_CS_AW_Entschaedigungsart KBV_CS_AW_Gebuehrenordnung KBV_CS_AW_Gesundheitspass_Typ KBV_CS_AW_Hausbesuch_Besuchszone KBV_CS_AW_Hilfsmittel_Hilfsmittelart KBV_CS_AW_Kostentraeger Abrechnungsbereich KBV_CS_AW_Krankenbefoederung_Befo erderungsmittel_Von_Nach KBV_CS_AW_Krankenbefoerderung_Bef oerderungsmitteltyp
 
 ---
 
@@ -1558,8 +1641,7 @@ KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und w
 | Leistungsart |  |
 | https://fhir.kbv.de/CodeSystem/ | Psychotherapie_Behandlungs |
 
-KBV_CS_AW_Krankenbefoerderung_Ha uptleistung KBV_CS_AW_Krankenversicherung_ID_T yp.xml _Rektum_Kolon KBV_CS_AW_Krebsfrueherkennung_Bef und_Rektum_Kolon _Anamnese_Diverse uen_Anamnese_Diverse _Anamnese_Hormonanwend uen_Anamnese_Hormonanwendung eiche KBV_CS_AW_Krebsfrueherkennung_Teil bereiche _Befund_Diverse uen_Befund_Diverse _Befund_Diverse_Ab30 uen_Befund_Diverse_Ab30 _Schwangerschaft_Componen uen_Schwangerschaft_Component _Zytologischer_Befund uen_Zytologischer_Befund _HPV_HR_Impfung uen_HPV_HR_Impfung _HPV_HR uen_HPV_HR Frauen_Befund_Diverse _Alterskategorie uen_Auftrag_Alterskategorie er_Anamnese_Diverse KBV_CS_AW_Krebsfrueherkennung_Ma enner_Anamnese_Diverse er_Befund_Diverse KBV_CS_AW_Krebsfrueherkennung_Ma enner_Befund_Diverse KBV_CS_AW_Leistungsart KBV_CS_AW_Psychotherapie_Behandlu ug KBV_CS_AW_Psychotherapie_Personen bezug KBV_CS_AW_RaucherstatusSeite 23 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+KBV_CS_AW_Krankenbefoerderung_Ha uptleistung KBV_CS_AW_Krankenversicherung_ID_T yp.xml _Rektum_Kolon KBV_CS_AW_Krebsfrueherkennung_Bef und_Rektum_Kolon _Anamnese_Diverse uen_Anamnese_Diverse _Anamnese_Hormonanwend uen_Anamnese_Hormonanwendung eiche KBV_CS_AW_Krebsfrueherkennung_Teil bereiche _Befund_Diverse uen_Befund_Diverse _Befund_Diverse_Ab30 uen_Befund_Diverse_Ab30 _Schwangerschaft_Componen uen_Schwangerschaft_Component _Zytologischer_Befund uen_Zytologischer_Befund _HPV_HR_Impfung uen_HPV_HR_Impfung _HPV_HR uen_HPV_HR Frauen_Befund_Diverse _Alterskategorie uen_Auftrag_Alterskategorie er_Anamnese_Diverse KBV_CS_AW_Krebsfrueherkennung_Ma enner_Anamnese_Diverse er_Befund_Diverse KBV_CS_AW_Krebsfrueherkennung_Ma enner_Befund_Diverse KBV_CS_AW_Leistungsart KBV_CS_AW_Psychotherapie_Behandlu ug KBV_CS_AW_Psychotherapie_Personen bezug KBV_CS_AW_Raucherstatus
 
 ---
 
@@ -1590,7 +1672,7 @@ KBV_CS_AW_Krankenbefoerderung_Ha uptleistung KBV_CS_AW_Krankenversicherung_ID_T 
 |  |  |
 |  |  |
 | Name Code System | Kanonische URL |
-| Ressourcentyp | https://fhir.kbv.de/CodeSystem/ |
+| Ressourcentyp | KBV_CS_AW_Ressourcentyp |
 | Ringversuchszertifikat_pnSD_ | https://fhir.kbv.de/CodeSystem/ |
 | Ringversuchszertifikat_RV- | https://fhir.kbv.de/CodeSystem/ |
 | Selektivvertrag_Identifiertyp | https://fhir.kbv.de/CodeSystem/ |
@@ -1610,7 +1692,7 @@ KBV_CS_AW_Krankenbefoerderung_Ha uptleistung KBV_CS_AW_Krankenversicherung_ID_T 
 |  |  |
 |  |  |
 | Name Code System | Kanonische URL |
-| Ressourcentyp | https://fhir.kbv.de/CodeSystem/ |
+| Ressourcentyp | KBV_CS_AW_Ressourcentyp |
 | Ringversuchszertifikat_pnSD_ | https://fhir.kbv.de/CodeSystem/ |
 | Ringversuchszertifikat_RV- | https://fhir.kbv.de/CodeSystem/ |
 | Selektivvertrag_Identifiertyp | https://fhir.kbv.de/CodeSystem/ |
@@ -1628,8 +1710,7 @@ KBV_CS_AW_Krankenbefoerderung_Ha uptleistung KBV_CS_AW_Krankenversicherung_ID_T 
 |  |  |
 | TSVG-Vermittlungsart | https://fhir.kbv.de/CodeSystem/KBV_CS_AW_TSVG_Vermittlungsart |
 
-KBV_CS_AW_Ressourcentyp UU KBV_CS_AW_Ringversuchszertifikat_pnS D_UU Zertifikat KBV_CS_AW_Ringversuchszertifikat_RV Zertifikat KBV_CS_AW_Selektivvertrag_Identifiert KBV_CS_AW_Ueberweisung_Auftragsart Einweisung_Kategorien KBV_CS_AW_Ueberweisung_KH Einweisung_Kategorien Einweisung_Typ KBV_CS_AW_Ueberweisung_KH Einweisung_Typ eit_AU-Art KBV_CS_AW_Verordnung_Arbeitsunfae higkeit_AU-Art dnungsart KBV_CS_AW_Verordnung_Heilmittel_Ve rordnungsart KBV_CS_AW_Verordnung_Kur_Kurart KBV_CS_AW_Datenbereich KBV_CS_AW_Datenbereichparameter KBV_CS_AW_Eligibility_Kategorie rie_42019 KBV_CS_AW_Krankenbefoerderung_Kat egorie_42019 eiche KBV_CS_AW_Krebsfrueherkennung_Teil bereiche Seite 24 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_42019 eiche KBV_CS_AW_Ringversuchszertifikat_pnS D_UU KBV_CS_AW_Ringversuchszertifikat_RV Zertifikat KBV_CS_AW_Selektivvertrag_Identifiert KBV_CS_AW_Ueberweisung_Auftragsart KBV_CS_AW_Ueberweisung_KH Einweisung_Kategorien KBV_CS_AW_Ueberweisung_KH Einweisung_Typ KBV_CS_AW_Verordnung_Arbeitsunfae higkeit_AU-Art KBV_CS_AW_Verordnung_Heilmittel_Ve rordnungsart KBV_CS_AW_Verordnung_Kur_Kurart KBV_CS_AW_Datenbereich KBV_CS_AW_Datenbereichparameter KBV_CS_AW_Eligibility_Kategorie KBV_CS_AW_Krankenbefoerderung_Kat egorie_42019 KBV_CS_AW_Krebsfrueherkennung_Teil bereiche
 
 ---
 
@@ -1684,8 +1765,7 @@ KBV_CS_AW_Ressourcentyp UU KBV_CS_AW_Ringversuchszertifikat_pnS D_UU Zertifikat 
 |  | Krebsfrueherkennung_Befund_Rektum_ |
 |  | Krebsfrueherkennung_Frauen_Anamnes |
 
-KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um anzugeben, welche Codes in einem bestimmten Kontext verwendet werden können. KBV_VS_AW_Kostentraeger KBV_VS_AW_Krankenbefoederun g_Befoerderungsmittel_Von_Nach KBV_VS_AW_Krankenbefoerderu ng_Befoerderungsmitteltyp Kolon ng_Befund_Rektum_Kolon e_Diverse ng_Frauen_Anamnese_Diverse Diverse ng_Frauen_Befund_Diverse Diverse_Ab30 ng_Frauen_Befund_Diverse_Ab30 cher_Befund ng_Frauen_Zytologischer_Befund cher_Befund_Diverse ng_Frauen_Zytologischer_Befund_Diverse cher_Befund_Empfehlung_2020 ng_Frauen_Zytologischer_Befund_Empfehlung_2020 Impfung ng_Frauen_HPV_HR_Impfung Alterskategorie ng_Frauen_Auftrag_Alterskategorie cher_Befund_Diverse_2020 ng_Frauen_Zytologischer_Befund_Diverse_2020 ese_Diverse ng_Maenner_Anamnese_Diverse _Diverse ng_Maenner_Befund_Diverse KBV_VS_AW_Psychotherapie_BeSeite 25 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um anzugeben, welche Codes in einem bestimmten Kontext verwendet werden können. Kolon e_Diverse Diverse Diverse_Ab30 cher_Befund cher_Befund_Diverse cher_Befund_Empfehlung_2020 Impfung Alterskategorie cher_Befund_Diverse_2020 ese_Diverse _Diverse KBV_VS_AW_Kostentraeger KBV_VS_AW_Krankenbefoederun g_Befoerderungsmittel_Von_Nach KBV_VS_AW_Krankenbefoerderu ng_Befoerderungsmitteltyp ng_Befund_Rektum_Kolon ng_Frauen_Anamnese_Diverse ng_Frauen_Befund_Diverse ng_Frauen_Befund_Diverse_Ab30 ng_Frauen_Zytologischer_Befund ng_Frauen_Zytologischer_Befund_Diverse ng_Frauen_Zytologischer_Befund_Empfehlung_2020 ng_Frauen_HPV_HR_Impfung ng_Frauen_Auftrag_Alterskategorie ng_Frauen_Zytologischer_Befund_Diverse_2020 ng_Maenner_Anamnese_Diverse ng_Maenner_Befund_Diverse KBV_VS_AW_Psychotherapie_Be
 
 ---
 
@@ -1740,9 +1820,7 @@ KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um
 | Ringversuchzertifikat_RV-Zertifikat | https://fhir.kbv.de/ValueSet/ |
 | Auftragsarten | https://fhir.kbv.de/ValueSet/ |
 
-Seite 26 von 41 / KBV / Festlegung der Archiv-
-
-KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszertifik KBV_VS_AW_Ringversuchzertifik KBV_VS_AW_Ueberweisung_Auft -Einweisung_Typ KBV_VS_AW_Ueberweisung_KH Einweisung_Typ KBV_VS_AW_Verordnung_Arbeit sunfaehigkeit_AU-Art KBV_VS_AW_Verordnung_Kur_K KBV_VS_AW_Abrechnung_Auslag KBV_VS_AW_Abrechnung_Mahn KBV_VS_AW_Anlagetyp KBV_VS_AW_Arzneimittelart KBV_VS_AW_Befundart KBV_VS_AW_Behandlungsbauste in_Verordnung_Typ KBV_VS_AW_Diagnoseart KBV_VS_AW_Diagnosekategorie KBV_VS_AW_Entschaedigungsart KBV_VS_AW_Gebuehrenordnung KBV_VS_AW_Gesundheitspass_T KBV_VS_AW_Hausbesuch_Besuc KBV_VS_AW_Hilfsmittel_Hilfsmitund WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+-Einweisung_Typ KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszertifik KBV_VS_AW_Ringversuchzertifik KBV_VS_AW_Ueberweisung_Auft KBV_VS_AW_Ueberweisung_KH Einweisung_Typ KBV_VS_AW_Verordnung_Arbeit sunfaehigkeit_AU-Art KBV_VS_AW_Verordnung_Kur_K KBV_VS_AW_Abrechnung_Auslag KBV_VS_AW_Abrechnung_Mahn KBV_VS_AW_Anlagetyp KBV_VS_AW_Arzneimittelart KBV_VS_AW_Befundart KBV_VS_AW_Behandlungsbauste in_Verordnung_Typ KBV_VS_AW_Diagnoseart KBV_VS_AW_Diagnosekategorie KBV_VS_AW_Entschaedigungsart KBV_VS_AW_Gebuehrenordnung KBV_VS_AW_Gesundheitspass_T KBV_VS_AW_Hausbesuch_Besuc KBV_VS_AW_Hilfsmittel_HilfsmitSeite 26 von 41 / KBV / Festlegung der Archiv-
 
 
 ---
@@ -1768,9 +1846,9 @@ KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszerti
 |  |  |
 |  |  |
 | Name ValueSet | Kanonische URL |
-| Datenbereichparameter | https://fhir.kbv.de/ValueSet/ param |
+|  | https://fhir.kbv.de/ValueSet/ param |
 | Vermittlungsart | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Vermittlungsart |
-| TSVG_Vermittlungsart | https://fhir.kbv.de/ValueSet/KBV_VS_AW_TSVG_Vermittlungs |
+|  | https://fhir.kbv.de/ValueSet/KBV_VS_AW_TSVG_Vermittlungs |
 | Patient_VSDM_Gender | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Patient_VSDM_Gen |
 | Report_Export_Purpose | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Report_Export_Pur |
 | Tabelle 4 FHIR®-ValueSets der PVS-Archivierungs- und Wechselschnittstelle |  |
@@ -1792,18 +1870,17 @@ KBV_VS_AW_Psychotherapie_Per KBV_VS_AW_Raucherstatus KBV_VS_AW_Ringversuchszerti
 |  |  |
 |  |  |
 | Name ValueSet | Kanonische URL |
-| Datenbereichparameter | https://fhir.kbv.de/ValueSet/ param |
+|  | https://fhir.kbv.de/ValueSet/ param |
 | Vermittlungsart | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Vermittlungsart |
-| TSVG_Vermittlungsart | https://fhir.kbv.de/ValueSet/KBV_VS_AW_TSVG_Vermittlungs |
+|  | https://fhir.kbv.de/ValueSet/KBV_VS_AW_TSVG_Vermittlungs |
 | Patient_VSDM_Gender | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Patient_VSDM_Gen |
 | Report_Export_Purpose | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Report_Export_Pur |
 
-KBV_VS_AW_DatenbereichSeite 27 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+Datenbereichparameter TSVG_Vermittlungsart KBV_VS_AW_Datenbereich eter
 
 ---
 
-**3.9 KBV-NAMINGSYSTEMS**
+**3.9** **KBV-NAMINGSYSTEMS**
 
 Die NamingSystems definieren konkrete Namensräume für die Elemente.
 
@@ -1816,13 +1893,12 @@ Die NamingSystems definieren konkrete Namensräume für die Elemente.
 | HZV_Selektiv | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_HZV_Selektiv |
 | OMIM_G | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM _G |
 | OMIM_P | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM_P |
-| GOAE | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_GOA |
+| GOAE | E |
 | Policy | https://fhir.kbv.de/NamingSystem/KBV_NS_AW_Policy |
 
 Tabelle 5 FHIR®-NamingSystems der PVS-Archivierungs- und Wechselschnittstelle
 
-Seite 28 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+https://fhir.kbv.de/NamingSystem/KBV_NS_AW_GOA
 
 ---
 
@@ -1844,12 +1920,11 @@ Tabelle 6 FHIR®-Bundles Datenbereiche der PVS-Archivierungs- und Wechselschnitt
 
 Ein Überblick der Zuordnung zwischen den FHIR®-Bundles und den darin enthaltenen KBV-FHIR®-Profilen  kann [KBV_ITA_VGEX_FHIR-Uebersicht-Bundle-Datenbereiche_AW_SST] entnommen werden.
 
-zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch ngsbaustein tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein ustein (siehe tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ undenbedarf tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf edarf (siehe Seite 29 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
+ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf ustein (siehe edarf (siehe
 
 ---
 
-## 4.
+4.
 
 ## ANFORDERUNGEN AN DIE PRAXISVERWALTUNGSSYSTEME
 
@@ -1859,7 +1934,7 @@ Der Export der Daten erfolgt dateibasiert im XML-Format auf FHIR® -Basis. Die e
 
 Bei einem vollständigen Export bspw. wird für jeden Patienten mit seiner vollständigen Historie jeweils eine  separate Bundledatei erzeugt. Im Unterschied dazu enthalten die Bundledateien der Adressen, Termine und  Behandlungsbausteine immer alle exportierten Einträge.
 
-Alle exportierten FHIR®-Instanzen bzw. Bundle-Dateien müssen schreibgeschützt gespeichert werden, um  ein überschreiben oder ändern zu verhindern.
+-Instanzen bzw. Bundle-Dateien müssen schreibgeschützt gespeichert werden, um Alle exportierten FHIR® ein überschreiben oder ändern zu verhindern.
 
 Jede FHIR®-Instanz enthält einen maschinenlesbaren und einen menschenlesbaren Teil. Im  menschenlesbaren Teil werden die Inhalte aus dem maschinenlesbaren Teil formatiert angezeigt. Die  Beziehungen auf andere Ressourcen werden ebenso dargestellt, das direkte Öffnen der zugehörigen  Ressourcen wird über Hyperlinks ermöglicht.
 
@@ -1870,128 +1945,130 @@ Jede Instanz einer FHIR®-Ressource enthält ein Element <id> deren Attribut „
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
 
-Seite 30 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
 
 ---
 
-**4.2 ORDNERSTRUKTUR**
+**4.2** **ORDNERSTRUKTUR**
 
 Die zu exportierenden Dateien (FHIR®-Instanzen und Anlagen) müssen in der folgenden Ordnerstruktur (1.  Ebene) abgelegt werden:
 
-Für jeden vom Anwender neu gestarteten Exportvorgang wird eine neue Ordnerstruktur gemäß den  Vorgaben dieses Kapitels vom exportierenden PVS angelegt.
+Für jeden vom Anwender neu gestarteten Exportvorgang wird eine neue  Vorgaben dieses Kapitels vom exportierenden PVS angelegt.
 
-**4.2.1 Root-Element**
+**4.2.1** **Root-Element**
 
-Die Bezeichnung des Root-Elements setzt sich zusammen aus „Datum_Uhrzeit_Datenbereich_ Schnittstelle“.  Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Die Bezeichnung des Root-Elements setzt sich zusammen aus „Datum_Uhrzeit_Datenbereich_ Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-› Datum - Datum Beginn der Erstellung im Format JJJJMMTT  › Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  › Datenbereich – V = Vollständig; E = Eingeschränkt z.B. nur Termin und/oder Adressbuch oder die Daten  eines Arztes  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+Datum - Datum Beginn der Erstellung im Format JJJJMMTT  Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  Datenbereich – V = Vollständig; E = Eingeschränkt z.B. nur Termin und/oder Adressbuch oder die Daten  eines Arztes  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
 | Beispiel   Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
 |---|
 
-Seite 31 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+Ordnerstruktur gemäß den
+
+Schnittstelle“
 
 
 ---
 
-**4.2.2 Adressen**
+**4.2.2** **Adressen**
 
 Im Ordner Adressen muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen Adressen gespeichert  werden.
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Adressbuch_Datum_Uhrzeit_  Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Adressbuch_Datum_Uhrzeit_ Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-› Adresse - fester Wert  › Datum - Datum Beginn der Erstellung im Format JJJJMMTT  › Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+Adresse - fester Wert  Datum - Datum Beginn der Erstellung im Format JJJJMMTT  Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle
 
-**4.2.3 Anlage bzw. Dokumente**
+**4.2.3** **Anlage bzw. Dokumente**
 
-Die Anlagen bzw. Dokumente, die in der Hoheit des PVS liegen, müssen fachlich geordnet im Ordner Anlage  abgelegt werden. Dokumente liegen in der Hoheit des PVS, wenn das PVS den Ablageort und die  Ablagestruktur bestimmt. Spezifische Dateinamen können vom exportierenden PVS beliebig festgelegt  werden. Die in den FHIR®-Instanzen angegebene Referenz muss eindeutig auf die hier abgelegten Anlage- Dateien referenzieren.
+Die Anlagen bzw. Dokumente, die in der Hoheit des PVS liegen, müssen fachlich geordnet im Ordner Anlage  abgelegt werden. Dokumente liegen in der Hoheit des PVS, wenn das PVS den Ablageort und die  Ablagestruktur bestimmt. Spezifische Dateinamen können vom exportierenden PVS beliebig festgelegt  werden. Die in den FHIR®-Instanzen angegebene Referenz muss eindeutig Dateien referenzieren.
 
 Alle externen Anlagen, die außerhalb der Hoheit des Praxisverwaltungssystems liegen, werden über die  Referenz der Ressource „Anlage“ verknüpft.
 
-Die Anlagen werden in fachlich getrennten Unterordnern abgelegt. Die Struktur der Unterordner folgt den  FHIR®-Ressourcen.
+Die Anlagen werden in fachlich getrennten Unterordnern abgelegt FHIR®-Ressourcen.
 
-Seite 32 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+und ist ein fester Wert)
+
+auf die hier abgelegten Anlage-
+
+. Die Struktur der Unterordner folgt den
 
 
 ---
 
-**4.2.4 Behandlungsbausteine**
+**4.2.4** **Behandlungsbausteine**
 
 Im Ordner Behandlungsbausteine muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen  Behandlungsbausteinen gespeichert werden.
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Behandlungsbausteine_Datum_Uhrzeit_  Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Behandlungsbausteine_Datum_Uhrzeit_ Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-› Behandlungsbausteine - Fester Wert  › Datum - Datum Beginn der Erstellung im Format JJJJMMTT  › Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+Behandlungsbausteine - Fester Wert  Datum - Datum Beginn der Erstellung im Format JJJJMMTT  Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
-**4.2.5 Patientenakten**
+**4.2.5** **Patientenakten**
 
-Im Ordner Patientakten wird pro zu exportierenden Patienten eine Instanz eines FHIR®-Bundles gemäß  Tabelle 6 mit allen Informationen (Behandlungsdokumentation, Krankenversicherungsverhältnissen,  Abrechnungen, etc.) als Bundel-Datei erstellt. Die Bundle-Dateien müssen alphabetisch nach dem ersten  Buchstaben des Patienten-Nachnamens in den Unterordnern gespeichert werden.
+Im Ordner Patientakten wird pro zu exportierenden Patienten eine Instanz eines FHIR® Tabelle 6 mit allen Informationen (Behandlungsdokumentation, Krankenversicherungsverhältnissen,  Abrechnungen, etc.) als Bundel-Datei erstellt. Die Bundle-Dateien müssen alphabetisch nach dem ersten  Buchstaben des Patienten-Nachnamens in den Unterordnern gespeichert werden.
 
-Der Dateiname einer Bundle-Datei setzt sich zusammen aus „Name_Vorname_ID_Schnittstelle.xml“. Die  Elemente in der Bezeichnung haben folgende Bedeutung:
+Der Dateiname einer Bundle-Datei setzt sich zusammen aus „Name_Vorname_ID_Schnittstelle Elemente in der Bezeichnung haben folgende Bedeutung:
 
-› Name - Nachname des Patienten  › Vorname - Vorname des Patienten (Default falls nicht vorhanden: Vorname)  › ID - Eindeutiger Identifier der Ressource (aus dem Element id)  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+Name - Nachname des Patienten  Vorname - Vorname des Patienten (Default falls nicht vorhanden: Vorname) ID - Eindeutiger Identifier der Ressource (aus dem Element id)  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert) -Bundles gemäß
 
-Seite 33 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+.xml“. Die
 
 
 ---
 
-**4.2.6 Termine**
+**4.2.6** **Termine**
 
-Im Ordner Termine muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen Terminen gespeichert  werden.
+Im Ordner Termine muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen Terminen gespeichert
 
-Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Termin_Datum_Uhrzeit_Schnittstelle.xml“.  Die Elemente in der Bezeichnung haben folgende Bedeutung:
+werden.
 
-› Termin - Fester Wert  › Datum - Datum Beginn der Erstellung im Format JJJJMMTT  › Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Termin_Datum_Uhrzeit_Schnittstelle Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-**4.2.7 Sprechstundenbedarf**
+Termin - Fester Wert  Datum - Datum Beginn der Erstellung im Format JJJJMMTT  Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert) .xml“.
 
-Im Ordner Sprechstundenbedarf muss eine Instanz eines FHIR®-Bundles gemäß Tabelle 6 mit allen  Sprechstundenbedarfen gespeichert werden.
+**4.2.7** **Sprechstundenbedarf**
+
+Im Ordner Sprechstundenbedarf muss eine Instanz eines FHIR® -Bundles gemäß Tabelle 6 mit allen  Sprechstundenbedarfen gespeichert werden.
 
 Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Sprechstundenbedarf_Datum_Uhrzeit_  Schnittstelle.xml“. Die Elemente in der Bezeichnung haben folgende Bedeutung:
 
-› Sprechstundenbedarf - Fester Wert  › Datum - Datum Beginn der Erstellung im Format JJJJMMTT  › Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  › Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
-
-Seite 34 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+Sprechstundenbedarf - Fester Wert  Datum - Datum Beginn der Erstellung im Format JJJJMMTT  Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS  Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
 
 ---
 
-**4.2.8 System**
+**4.2.8** **System**
 
-Im Ordner _System sollen zusätzliche bzw. erweiterte FHIR-Codesysteme sowie die Report-Dateien in der  vorgegebenen Ordnerstruktur abgelegt werden.
-
-Seite 35 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+Im Ordner _System sollen zusätzliche bzw. erweiterte FHIR-Codesysteme sowie die Report -Dateien in der  vorgegebenen Ordnerstruktur abgelegt werden
 
 
 ---
 
-**4.3 DATENBEREICHE DER SCHNITTSTELLE**
+**4.3** **DATENBEREICHE DER SCHNITTSTELLE**
 
 Sowohl der Export als auch der Import muss die Verarbeitung der folgenden Datenbereiche unterstützen.
 
-**4.3.1 Vollständig**
+**4.3.1** **Vollständig**
 
-Es sollen alle im PVS gespeicherten Daten transportiert werden. Dazu sind alle vorhandenen Informationen  (nach Informationsmodell) im PVS in den jeweiligen FHIR®-Ressourcen vollständig zu transportieren.
+zu sind alle vorhandenen Informationen Es sollen alle im PVS gespeicherten Daten transportiert werden. Da (nach Informationsmodell) im PVS in den jeweiligen FHIR®-Ressourcen vollständig zu transportieren.
 
 Der Anwender kann beim Export entscheiden, ob er alle Daten exportieren möchte oder die Auswahl über  einen oder mehrere der nachfolgenden Parameter einschränkt:
 
-› Daten eines bestimmten Zeitraums  › Daten von einzelnen Ärzten  › Daten bestimmter Patienten.
+Daten eines bestimmten Zeitraums  Daten von einzelnen Ärzten   Daten bestimmter Patienten.
 
 Bei einem vollständigen Export sind alle Datenbereiche gemäß diesem Kapitel zu exportieren.
 
-**4.3.2 Termine**
+**4.3.2** **Termine**
 
-Es können die im PVS gespeicherten Termine transportiert werden. Dazu sind die Beziehungen der Termine  zu Patienten, Ärzten und weiteren Personen zu erhalten.
+werden. Dazu sind die Beziehungen der Termine Es können die im PVS gespeicherten Termine transportiert zu Patienten, Ärzten und weiteren Personen zu erhalten.
 
-Der Anwender kann beim Export entscheiden, ob er alle Termine exportieren möchte oder die Auswahl über  einen oder mehrere der nachfolgenden Parameter einschränkt:
+, ob er alle Termine exportieren möchte oder die Auswahl über Der Anwender kann beim Export entscheiden einen oder mehrere der nachfolgenden Parameter einschränkt:
 
-› Termine eines bestimmten Zeitraums  › Termine von einzelnen Ärzten  › Termine in einzelnen Betriebsstätten  › Termine bestimmter Patienten.
+Termine eines bestimmten Zeitraums Termine von einzelnen Ärzten  Betriebsstätten  Termine in einzelnen  Patienten.  Termine bestimmter
 
 Als Ergebnis eines Terminexports liegen die Dateien gemäß Kapitel 4.2.6 vor.
 
-**4.3.3 Adressen**
+**4.3.3** **Adressen**
 
 Es können die im PVS gespeicherten Adressen transportiert werden. Dazu sind die Beziehungen der Adressen  zu Personen (Patienten, Behandlern und weiteren Personen) sowie Organisationen zu erhalten.
 
@@ -1999,7 +2076,7 @@ Der Anwender kann beim Export entscheiden, ob er alle Adressen exportieren möch
 
 Als Ergebnis eines Adressexports liegen die Dateien gemäß Kapitel 4.2.2 vor.
 
-**4.3.4 Behandlungsbausteine**
+**4.3.4** **Behandlungsbausteine**
 
 Es können die im PVS gespeicherten Behandlungsbausteine transportiert werden. Dazu sind die Beziehungen  der Behandlungsbausteine zum Arzt zu erhalten.
 
@@ -2007,34 +2084,29 @@ Der Anwender kann beim Export entscheiden, ob er alle Behandlungsbausteine expor
 
 Als Ergebnis eines Behandlungsbausteinexports liegen die Dateien gemäß Kapitel 4.2.4 vor.
 
-Seite 36 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+---
+
+**4.3.5** **Patientenakten**
+
+Es können die im PVS gespeicherten Patientenakten transportiert werden. Dazu sind die Beziehungen der  Patienten zum Behandelnden, zur Begegnung usw. zu erhalten.
+
+Der Anwender kann beim Export entscheiden, ob er alle Patientenakten zu allen Patienten exportieren  möchte oder die Auswahl über einen oder mehrere der nachfolgenden Parameter einschränkt:
+
+definierte Begegnungszeiträume  bestimmte Ärzte   bestimmte Betriebsstätten bestimmte Patienten
+
+Wahlweise können die Termine der Patienten gemäß Kapitel 4.3.2 mit übertragen werden.
+
+Der Sprechstundenbedarf ist, sofern vorhanden, zu exportieren.
 
 
 ---
 
-| 4.3.5 |  | Patientenakten |  |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Es | können die | im PVS | gespeicherten |  | Patientenakten | | transportiert | werden. | Dazu | sind die | Beziehungen | der |
-| Patienten | zum | Behandelnden, | zur | Begegnung | usw. | zu | erhalten. |  |  |  |  |  |
-| Der | Anwender | kann beim | Export | entscheiden, | | ob er alle |  | Patientenakten | zu allen | Patienten |  | exportieren |
-| möchte | oder | die Auswahl | über | einen | oder mehrere | der | nachfolgenden |  | Parameter | einschränkt: |  |  |
-| › | definierte |  | Begegnungszeiträume |  |  |  |  |  |  |  |  |  |
-| › | bestimmte | Ärzte |  |  |  |  |  |  |  |  |  |  |
-| › | bestimmte | Betriebsstätten | |  |  |  |  |  |  |  |  |  |
-| › | bestimmte | Patienten |  |  |  |  |  |  |  |  |  |  |
-| Wahlweise | | können die | Termine | der | Patienten | gemäß | Kapitel 4.3.2 | mit | übertragen | werden. |  |  |
-| Der |  | Sprechstundenbedarf | ist, sofern |  | vorhanden, | zu | exportieren. |  |  |  |  |  |
-| Seite | 37 von 41 | / KBV / | Festlegung der | Archiv- und |  | WechselSchnittstelle | nach § 371 Abs. | 1 SGB V / | Version: 1.2.0 | / 8. | Dezember 2020 |  |
-
-Es können die im PVS gespeicherten Patientenakten transportiert werden. Dazu sind die Beziehungen der Patienten zum Behandelnden, zur Begegnung usw. zu erhalten. Der Anwender kann beim Export entscheiden, ob er alle Patientenakten zu allen Patienten exportieren möchte oder die Auswahl über einen oder mehrere der nachfolgenden Parameter einschränkt: definierte Begegnungszeiträume bestimmte Ärzte bestimmte Betriebsstätten bestimmte Patienten Wahlweise können die Termine der Patienten gemäß Kapitel 4.3.2 mit übertragen werden.  Der Sprechstundenbedarf ist, sofern vorhanden, zu exportieren.   Seite 37 von 41  /  KBV  /  Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V /  Version: 1.2.0  /  8. Dezember 2020
-
----
-
-**4.4 EXPORT DER DATEN**
+**4.4** **EXPORT DER DATEN**
 
 Vor dem Export muss das PVS dem Anwender eine Auswahlmöglichkeit der definierten Datenbereiche (siehe  Kapitel 4.3) anbieten. Die Auswahl bestimmt den zu exportierenden Umfang der Daten. Es müssen die Daten  für den ausgewählten Zeitraum vollständig exportiert werden. Dies gilt insbesondere für die Daten aus den  zusätzlichen Modulen, auch wenn diese Module zum Zeitpunkt des Exports nicht mehr verwendet werden.
 
-Die Übertragung der Änderungen an gleichen Informationsobjekten, zu unterschiedlichen Zeitpunkten  (Historie), muss für jede Änderung in einer separaten Instanz des jeweils zugeordneten KBV-Profils erfolgen.  Diese Instanzen eines geänderten Informationsobjekts haben dieselbe Ressourcen-ID, werden aber mit einer  fortlaufenden Version-ID, dem Änderungsdatum sowie dem Nutzer der die Änderung durchgeführt hat  erzeugt.
+Die Übertragung der Änderungen an gleichen Informationsobjekten, zu unterschiedlichen Zeitpunkten  (Historie), muss für jede Änderung in einer separaten Instanz des jeweils zugeordneten KBV -Profils erfolgen.  Diese Instanzen eines geänderten Informationsobjekts haben dieselbe Ressourcen-ID, werden aber mit einer  fortlaufenden Version-ID, dem Änderungsdatum sowie dem Nutzer der die Änderung durchgeführt hat  erzeugt.
 
 Vor dem Export sind alle Behandlungsfälle mit dem aktuellen Abrechnungsstatus zu markieren, damit im  Zielsystem alle für die Abrechnung relevanten Behandlungsfälle erkennbar sind.
 
@@ -2048,20 +2120,18 @@ Das exportierende PVS muss alle zu exportierenden Inhalte soweit wie möglich in
 
 Für die Daten der zusätzlichen Module mit KBV-Zertifizierung wie z.B. eDMP, LDT und eDoku gibt es keine  Informationsobjekte. Diese Daten sind im Format und Version der jeweiligen Schnittstelle, die zum Zeitpunkt  der Erstellung der Daten gültig war, in Form einer Anlage zu übertragen.
 
-Weitere Dokumente und Dateien des PVS (wie z. B. Anlagen/ Dokumente zum Patienten oder einer  Begegnung) werden in Struktur, Format und Dateinamen unverändert in den Export übernommen.
+Weitere Dokumente und Dateien des PVS (wie z. B. Anlagen/ Dokumente zum Patienten oder einer  Begegnung) werden in Struktur, Format und Dateinamen unverändert in den Export übernommen
 
 Sie müssen aber in einer FHIR®-Ressource als Anlage eindeutig zum entsprechenden Kontext (z. B. Patient,  Begegnung etc.) referenziert werden.
 
-Nach dem erfolgreichen Export muss ein PDF-Dokument als Report direkt unter dem Root-Element (siehe  Kapitel 4.2.1) des Exportordners abgelegt werden.
+Nach dem erfolgreichen Export muss ein PDF -Dokument als Report direkt unter dem Root-Element (siehe  Kapitel 4.2.1) des Exportordners abgelegt werden.
 
 Bei einem fehlerhaften Export sind alle erzeugten Dateien und Verzeichnisse zu löschen. Der Nutzer ist  entsprechend unter Angabe der Fehlerursache darüber zu informieren. Die Reportdatei darf in diesem Fall  nicht erzeugt werden.
-
-Seite 38 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
 
-**4.5 IMPORT DER DATEN**
+**4.5** **IMPORT DER DATEN**
 
 Beim Import sind grundsätzlich alle in der Schnittstelle exportierten Daten in das Zielsystem zu übernehmen.
 
@@ -2069,74 +2139,70 @@ Grundsätzlich soll die Übernahme der Daten, so weit wie möglich in strukturie
 
 Alle Praxisverwaltungssysteme müssen den Import unterstützen.
 
-**4.6 VERWENDUNG DER SCHNITTSTELLE**
+**4.6** **VERWENDUNG DER SCHNITTSTELLE**
 
 Der Nutzer muss den Export, Import und die Archivierung selbständig ohne weitere Hilfestellung durch den  Systemhersteller durchführen können.
 
-Alle für den Nutzer relevanten Vorgaben an der Schnittstelle sind ausführlich in der Benutzer-dokumentation  zu beschreiben.
+Alle für den Nutzer relevanten Vorgaben an der Schnittstelle sind ausführlich in der Benutzer -dokumentation  zu beschreiben.
 
-**4.7 VERSCHLÜSSELUNG, KOMPRIMIERUNG**
+**4.7** **VERSCHLÜSSELUNG, KOMPRIMIERUNG**
 
 Es wird keine Verschlüsselung der exportierten Daten gefordert. Eine Verschlüsselung kann über ein Passwort  geschütztes zip-File angeboten werden. Dabei ist die Bezeichnung des Root-Elements als Dateinamen zu  verwenden. Die vorhandenen Datenschutzmaßnahmen der Praxis sollen die Sicherheit der Dateien  gewährleisten, siehe [Hinweise_DV_Arztpraxis].
 
 Die Praxisverwaltungssyteme müssen den Nutzer mit einer Meldung zum notwendigen Datenschutz im  Umgang mit den Dateien informieren.
 
-**4.8 AUFBEWAHRUNG**
+**4.8** **AUFBEWAHRUNG**
 
 Es werden keine gesonderten Anforderungen an die Aufbewahrung der Dateien gestellt.
 
 Die exportierten Dateien der Archivierungs- und Wechselschnittstelle müssen entsprechend den geltenden  Datenschutzmaßnahmen für die Praxis [Hinweise_DV_Arztpraxis] mittels organisatorischer Maßnahmen  außerhalb vom PVS aufbewahrt werden.
 
-Seite 39 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
 
 ---
 
-## 5.
+5.
 
 ## UMSETZUNG DER SYSTEMEIGENEN SCHNITTSTELLE
 
 Die Umsetzungspflicht der KBV-Profile (Kapitel 3) gilt nicht für:
 
-- Individualsoftware (Kapitel 5.1).
+-  Individualsoftware (Kapitel 5.1).
 
-- Systeme, die nicht primär zur Speicherung von Patientendaten eingesetzt werden; insbesondere  die keine KVDT-Zulassung haben.
+-  Systeme, die nicht primär zur Speicherung von Patientendaten eingesetzt werden; insbesondere  die keine KVDT-Zulassung haben.
 
-**5.1 INDIVIDUALSOFTWARE**
+**5.1** **INDIVIDUALSOFTWARE**
 
 Individualsoftware ist eine Eigen- bzw. Speziallösung, die
 
-- nur in einer Betriebsstätte bzw. einem Verbund von zusammenhängenden Betriebsstätten  eingesetzt wird oder
+-  nur in einer Betriebsstätte bzw. einem Verbund von zusammenhängenden Betriebsstätten  eingesetzt wird oder
 
-- im Rahmen des Sicherstellungsauftrages durch die KV, die KBV oder deren Töchter entwickelt oder  bereitgestellt wird.
+-  im Rahmen des Sicherstellungsauftrages durch die KV, die KBV oder deren Töchter entwickelt oder  bereitgestellt wird.
 
-## 6.
+6.
 
 ## UMSETZUNGSFRIST
 
 Die Integration der Schnittstelle muss spätestens zum 06.06.2021 erfolgt sein.
 
-## 7.
+7.
 
 ## GÜLTIGKEIT
 
 Die Schnittstellenfestlegung tritt am Tag nach der Veröffentlichung in Kraft. Sie ersetzt alle vorherigen  Versionen.
 
-Seite 40 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
-
 
 ---
 
-## 8.
+8.
 
-## REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 | Referenz | Dokument |
 |---|---|
-| KBV_ITA_VGEX_Informa | Informationsmodell der PVS-Archivierungs- und Wechselschnittstelle  ftp://ftp.kbv.de/ita |
+| KBV_ITA_VGEX_Informa | Informationsmodell der PVS-Archivierungs- und Wechselschnittstelle  -update/371-Schnittstellen/PVS |
 | FHIR® | FHIR-Spezifikation Release 4  http://hl7.org/fhir/ |
-| KBV_ITA_VGEX_FHIR | Modell der Umsetzung der PVS-Archivierungs- und Wechselschnittstelle  ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS |
+| - | Modell der Umsetzung der PVS-Archivierungs- und Wechselschnittstelle  ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS |
 | Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz  http://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/p |
-| KBV_ITA_VGEX_FHIR | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV-  ftp://ftp.kbv.de/ita |
+| - | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV-  ftp://ftp.kbv.de/ita |
 
-tionsmodell_AW_SST -Archivierungs-Wechsel- Schnittstelle/  Informationsmodell_AW _SST mit FHIR®-Profilen -Archivierungs-Wechsel- Schnittstelle/  und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf  Uebersicht-Bundle- Datenbereiche_AW_SST FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel 4.3. -Archivierungs-Wechsel- Schnittstelle/ Seite 41 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+-Archivierungs-Wechsel- tionsmodell_AW_SST Schnittstelle/  KBV_ITA_VGEX_FHIR mit FHIR®-Profilen Informationsmodell_AW _SST -Archivierungs-Wechsel- Schnittstelle/  und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf  KBV_ITA_VGEX_FHIR FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel 4.3. Uebersicht-Bundle- Datenbereiche_AW_SST -Archivierungs-Wechsel- Schnittstelle/

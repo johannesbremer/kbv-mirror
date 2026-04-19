@@ -2,33 +2,37 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung Versicherten-Nr.**
+**Kostenträgerkennung** **Versicherten-Nr.**
 
-**Betriebsstätten-Nr.**
+**Betriebsstätten-Nr.Arzt-Nr.**
 
 **I. Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A. Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkra***
 
 **B. Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
 
-**VorsorgebedürftigkeitII.** **A. Kurze Angaben zur Anamnese**
+**Status**
 
-**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress***  ***häusliches Leben organisieren, Familien-/soziale Be***
+### Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+
+**geb. am** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
+
+**Datum**
+
+***nkung führen können)***
+
+**II. Vorsorgebedürftigkeit** **A. Kurze Angaben zur Anamnese**
+
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
 
 **C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
 
-**andere Kontextfaktoren; ggf. nähere Erläuterungen**
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-**Arzt-Nr.**
-
-|  | Erziehungs- |  | Pflege von |  |  |  |
+|  | **Erziehungs-** |  | **Pflege von** |  |  |  |
 |---|---|---|---|---|---|---|
-|  | schwierigkeiten |  | Familienangehörigen |  | soziale Isolation |  |
-|  | mangelnde Unterstützung |  | Partner-/ Eheprobleme/ |  | Teenager- |  |
-|  | bei der Kindererziehung |  | Trennung vom Partner |  | schwangerschaft |  |
-|  | Mehrfachbelastung fehlende |  | Anerkennung |  | Tod des Partners/ |  |
-|  | durch Beruf/Familie |  | der Mutter-/Vaterrolle |  | naher Angehöriger | Kind |
+|  | **schwierigkeiten** |  | **Familienangehörigen** |  | **soziale Isolation** |  |
+|  | **mangelnde Unterstützung** |  | **Partner-/ Eheprobleme/** |  | **Teenager-** |  |
+|  | **bei der Kindererziehung** |  | **Trennung vom Partner** |  | **schwangerschaft** |  |
+|  | **Mehrfachbelastung fehlende** |  | **Anerkennung** |  | **Tod des Partners/** |  |
+|  | **durch Beruf/Familie** |  | **der Mutter-/Vaterrolle** |  | **naher Angehöriger Kind** |  |
 
 **Schwierigkeiten bei der Problembewältigung** **(Alltagsprobleme)**
 
@@ -36,19 +40,11 @@
 
 **erhöhter Betreuungsaufwand durch häufig oder** **chronisch erkrankte, verhaltensauffällige oder behinderte** **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 
-**Ausfertigung für den Arzt**
+**andere Kontextfaktoren; ggf. nähere Erläuterungen**
 
-Status
+**Ausfertigung für den Arzt** **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Datum**
-
-**geb. am**
-
-***nkung führen können)***
-
-***umgehen, auf die eigene Gesundheit und Ernährung ac*** ***ziehungen pflegen, einer Beschäftigung sowie eigene***
-
-**Verordnung medizinischer** **Vorsorge für Mütter oder Väter** **gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
+***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
 
 **finanzielle Sorgen**
 
@@ -56,9 +52,11 @@ Status
 
 **allein erziehend**
 
-***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
-
 **PRF.NR.** **Muster 64 Ab/E (10.2018)**
+
+**64 Teil A**
+
+**Diagnoseschlüssel** **ICD-10-GM**
 
 **beeinträchtigte Mutter-/Vater-**
 
@@ -70,10 +68,4 @@ Status
 
 **drohender Arbeitsplatzverlust/** **Arbeitslosigkeit**
 
-**nicht gleichberechtigte Stellung** **der Frau / des Mannes in der** **Familie**
-
-**Diagnoseschlüssel**
-
-**64 Teil A**
-
-Mehrfachbelastung fehlende Anerkennung naher Angehöriger Kind Beziehung**ICD-10-GM**
+fehlende Anerkennung Kind Beziehung**nicht gleichberechtigte Stellung** **der Frau / des Mannes in der** **Familie**

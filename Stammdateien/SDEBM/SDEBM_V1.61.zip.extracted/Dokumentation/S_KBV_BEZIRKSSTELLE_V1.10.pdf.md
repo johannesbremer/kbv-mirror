@@ -52,13 +52,11 @@ gültig ab:
 |---|---|
 | 25 | Duisburg |
 
-Seite 1 von 1.2.276.0.76.5.230
+Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE 1.2.276.0.76.5.230
 
 1.10
 
 01.01.2024
-
-3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
 
 **Bezeichnung**
 
@@ -177,10 +175,6 @@ Aachen
 |---|---|
 | 69 | Niederbayern |
 
-Seite 2 von
-
-3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
-
 **Bezeichnung**
 
 Köln
@@ -254,8 +248,6 @@ Unterfranken
 
 ---
 
-**Code**
-
 70
 
 71
@@ -299,12 +291,6 @@ Unterfranken
 | 96 | Leipzig |
 |---|---|
 | 98 | Sachsen |
-
-Seite 3 von
-
-3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
-
-**Bezeichnung**
 
 Schwaben
 

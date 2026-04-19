@@ -14,12 +14,12 @@
 |---|---|
 | 3 | Preis für überversorgtes Gebiet |
 
-Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET
-
 **1.2.276.0.76.5.374**
 
 **1.00**
 
 **01.01.2009**
 
-**Bezeichnung** Regelfall 1
+**Bezeichnung** Regelfall
+
+Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET1

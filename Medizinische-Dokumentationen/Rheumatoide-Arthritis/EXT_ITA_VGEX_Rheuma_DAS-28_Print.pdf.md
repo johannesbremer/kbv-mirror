@@ -1,8 +1,12 @@
-Zur Ermittlung des DAS-28-Wertes müssen folgende vier Parameter erfasst werden:
+Zur Ermittlung des **DAS-28-Wertes** müssen folgende vier Parameter erfasst werden:
 
 (1) **Anzahl der druckschmerzhaften Gelenke**
 
-Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite  beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke jeweils rechts- und linksseitig, ob es druckschmerzhaft ist oder nicht: 1. Schultergelenk
+Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite** beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
+
+**Gelenk (druckschmerzhaft) R L**
+
+1. Schultergelenk
 
 2. Ellenbogengelenk
 
@@ -30,13 +34,15 @@ Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken
 
 14. Kniegelenk
 
-(2) Anzahl der geschwollenen Gelenke
-
-| Anzahl | der geschwollenen Gelenke |  |  |
+| **Anzahl** | **der geschwollenen Gelenke** |  |  |
 |---|---|---|---|
-| Die 14 | definierten Gelenke werden sowohl | auf | der |
+| Die 14 | definierten Gelenke werden **sowohl** | **auf** | **der** |
 | beurteilt, | sodass eine Anzahl von 28 zu | beurteilenden |  |
-| der | folgenden 14 Gelenke jeweils rechts- | und | linksseitig, |
+| der | folgenden 14 Gelenke **jeweils rechts-** | **und** | **linksseitig** |
+
+(2)
+
+**Gelenk (geschwollen) R L**
 
 1. Schultergelenk
 
@@ -58,7 +64,9 @@ Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken
 
 10. Fingermittelgelenk PIP 2
 
-11. Fingermittelgelenk PIP 3
+, ob es **druckschmerzhaft** ist oder nicht:
+
+**geschwollen** ist oder nicht: 11. Fingermittelgelenk PIP 3
 
 12. Fingermittelgelenk PIP 4
 
@@ -66,24 +74,16 @@ Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken
 |---|---|---|---|
 | 14. | Kniegelenk |  |  |
 
-Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen  sein. Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.
-
-**Gelenk (druckschmerzhaft) R**
-
-**Gelenk (geschwollen) R**
-
-**L**
-
-**L**
+Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen  sein. ***Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.***
 
 oder gleichzeitig geschwollen und druckschmerzhaft
 
-Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes der folgenden 14 Gelenke jeweils rechts- und linksseitig, ob es geschwollen ist oder nicht: 13. Fingermittelgelenk PIP 5 14. Kniegelenk  1
+Anzahl der geschwollenen Gelenke Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes der folgenden 14 Gelenke jeweils rechts- und linksseitig , ob es 13. Fingermittelgelenk PIP 5 14. Kniegelenk  1
 
 
 ---
 
-(3) Einschätzung der Krankheitsaktivität in den letzten 7 Tagen durch die Patientin oder den Patienten  **selbst auf einer visuellen Analogskala (VAS, 0 – 100 mm):**
+**Einschätzung der Krankheitsaktivität** in den letzten 7 Tagen  **selbst** auf einer **visuellen Analogskala** (VAS, 0 – 100 mm):
 
 Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 und 100 dargestellt. Die  0 bedeutet dabei „keine Krankheitsaktivität“ und die 100 „stärkst mögliche Krankheitsaktivität“.
 
@@ -98,9 +98,9 @@ Die VAS wird der Patientin oder dem Patienten mit folgender Instruktion vorgeleg
 
 Der Wert kann dort, wo die Patientin ihr oder der Patient sein Kreuz setzt, millimetergenau abgelesen  werden. Dabei entspricht 1 mm einem Punkt. Kann die Skala der Patientin bzw. dem Patienten nicht  vorgelegt werden, können Sie die Stärke der Krankheitsaktivität auch mündlich erfragen und die Patientin  oder den Patienten bitten, eine Zahl zwischen 0 und 100 zu nennen.
 
-(4) **Blutsenkungsgeschwindigkeit (BSG) in der Einheit mm pro Stunde (mm/h) als aktuelles serologisches**  Entzündungszeichen (1-Std.-Wert)
+(4) **Blutsenkungsgeschwindigkeit (BSG)** in der Einheit mm pro Stunde (mm/h) als aktuelles serologisches  Entzündungszeichen (1-Std.-Wert)
 
-Ermittlung des DAS-28-Wertes:
+Ermittlung des **DAS-28-Wertes**
 
 (1) **Anzahl geschwollener Gelenke (sw28)**  (Wertebereich: 0 – 28)
 
@@ -110,9 +110,11 @@ Ermittlung des DAS-28-Wertes:
 
 Aus den vier Werten wird der DAS-28-Wert anhand der folgenden Formel berechnet:
 
-DAS-28-Wert = 0.56* √ (t28) + 0.28* √ (sw28) + 0.70*Ln(BSG) + 0.014*VAS
+DAS-28-Wert = 0.56* (t28) + 0.28* (sw28) + 0.70*Ln(BSG) + 0.014*VAS
 
-*Legende: t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher*  Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen.
+*Legende:* t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher  Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen.
+
+**durch die Patientin oder den Patienten**
 
 *rheumatoide Arthritis in den letzten 7 Tagen gewesen*
 

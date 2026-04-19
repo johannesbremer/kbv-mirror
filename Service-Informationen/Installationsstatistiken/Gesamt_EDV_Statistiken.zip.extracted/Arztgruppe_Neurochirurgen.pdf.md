@@ -1,52 +1,214 @@
 ## TOP 20 Systeme - Neurochirurgen
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG6465-1
+2.80 **CGM MEDISTAR BLACK PRO**
 
-216 **x.isynet**medatixx GmbH & Co. KG60591
+2.16 **x.isynet**
 
-254 **ORBIS®**Dedalus HealthCare GmbH36333
+2.54 **ORBIS®**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG33321
+1.12 **TURBOMED**
 
-457 **tomedo**Zollsoft GmbH28271
+4.57 **tomedo**
 
-462 **medatixx**medatixx GmbH & Co. KG27270
+4.62 **medatixx**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 23212
+2.10 **Medical Office**
 
-343 **SAP Ambulatory Care Management** SAP SE22202
+3.43 **SAP Ambulatory Care Management**
 
-243 **x.concept**medatixx GmbH & Co. KG2224-2
+2.43 **x.concept**
 
-226 **CGM MEDICO**CGM Clinical Europe GmbH17161
+2.26 **CGM MEDICO**
 
-498 **T2med**T2med GmbH & Co. KG15141
+4.98 **T2med**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG15150
+2.03 **ALBIS**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG14131 1
+2.52 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+Dedalus HealthCare GmbH
+
+CompuGroup Medical Deutschland AG
+
+Zollsoft GmbH
+
+medatixx GmbH & Co. KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+SAP SE
+
+medatixx GmbH & Co. KG
+
+CGM Clinical Europe GmbH
+
+T2med GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG 1
+
+6.4
+
+6.0
+
+3.6
+
+3.3
+
+2.8
+
+2.7
+
+2.3
+
+2.2
+
+2.2
+
+1.7
+
+1.5
+
+1.5
+
+1.4
+
+6.5
+
+5.9
+
+3.3
+
+3.2
+
+2.7
+
+2.7
+
+2.1
+
+2.0
+
+2.4
+
+1.6
+
+1.4
+
+1.5
+
+1.3
+
+-1
+
+1
+
+3
+
+1
+
+1
+
+0
+
+2
+
+2
+
+-2
+
+1
+
+1
+
+0
+
+1
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-015 **MEDYS**MEDYS GmbH880
+0.15 **MEDYS**
 
-230 **QMED.PRAXIS**Schwerdtner Medizin-Software GmbH880
+2.30 **QMED.PRAXIS**
 
-135 **EL - Elaphe Longissima**medatixx GmbH & Co. KG880
+1.35 **EL - Elaphe Longissima**
 
-314 **IMedOne**Deutsche Telekom Clinical Solutions GmbH 770 086 **DURIA**Duria eG761
+3.14 **IMedOne**
 
-266 **x.comfort**medatixx GmbH & Co. KG660
+0.86 **DURIA**
 
-261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender 550 2
+2.66 **x.comfort**
+
+2.61 **S3-Win**
+
+MEDYS GmbH
+
+Schwerdtner Medizin-Software GmbH
+
+medatixx GmbH & Co. KG
+
+Deutsche Telekom Clinical Solutions GmbH
+
+Duria eG
+
+medatixx GmbH & Co. KG
+
+S3 Praxiscomputer GmbH / Maximilian Flender 2
+
+8
+
+8
+
+8
+
+7
+
+7
+
+6
+
+5
+
+8
+
+8
+
+8
+
+7
+
+6
+
+6
+
+5
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0

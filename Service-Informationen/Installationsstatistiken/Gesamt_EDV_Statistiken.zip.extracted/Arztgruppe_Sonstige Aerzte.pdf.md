@@ -1,50 +1,212 @@
 ### TOP 20 Systeme - Sonstige Ärzte
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH69066426
+2.10 **Medical Office**
 
-254 **ORBIS®**Dedalus HealthCare GmbH6436421
+2.54 **ORBIS®**
 
-406 **esQlab.online**IQVIA Commercial GmbH & Co OHG4834812
+4.06 **esQlab.online**
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG42540619
+2.80 **CGM MEDISTAR BLACK PRO**
 
-343 **SAP Ambulatory Care Management** SAP SE2642631
+3.43 **SAP Ambulatory Care Management**
 
-226 **CGM MEDICO**CGM Clinical Europe GmbH2372316
+2.26 **CGM MEDICO**
 
-078 **Med7**Bitron GmbH Technologiesysteme1751696
+0.78 **Med7**
 
-216 **x.isynet**medatixx GmbH & Co. KG154157-3
+2.16 **x.isynet**
 
-314 **IMedOne**Deutsche Telekom Clinical Solutions GmbH1511510
+3.14 **IMedOne**
 
-456 **RED medical classic**RED Medical Systems GmbH1281262
+4.56 **RED medical classic**
 
-462 **medatixx**medatixx GmbH & Co. KG117119-2 086 **DURIA**Duria eG9597-2
+4.62 **medatixx**
 
-320 **DISweb**KfH - Kuratorium für Dialyse und Nierentransplantation e.V. 9394-1
+0.86 **DURIA**
 
-308 **RescuePro**RescuePro Production GmbH & Co. KG90855 1
+3.20 **DISweb**
+
+3.08 **RescuePro**
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+Dedalus HealthCare GmbH
+
+IQVIA Commercial GmbH & Co OHG
+
+CompuGroup Medical Deutschland AG
+
+SAP SE
+
+CGM Clinical Europe GmbH
+
+Bitron GmbH Technologiesysteme
+
+medatixx GmbH & Co. KG
+
+Deutsche Telekom Clinical Solutions GmbH
+
+RED Medical Systems GmbH
+
+medatixx GmbH & Co. KG
+
+Duria eG
+
+KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
+
+RescuePro Production GmbH & Co. KG 1
+
+6.90
+
+6.43
+
+4.83
+
+4.25
+
+2.64
+
+2.37
+
+1.75
+
+1.54
+
+1.51
+
+1.28
+
+1.17
+
+9.5
+
+9.3
+
+9.0
+
+6.64
+
+6.42
+
+4.81
+
+4.06
+
+2.63
+
+2.31
+
+1.69
+
+1.57
+
+1.51
+
+1.26
+
+1.19
+
+9.7
+
+9.4
+
+8.5
+
+2.6
+
+1
+
+2
+
+1.9
+
+1
+
+6
+
+6
+
+-3
+
+0
+
+2
+
+-2
+
+-2
+
+-1
+
+5
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-208 **NEXUS / KIS**NEXUS AG82793
+2.08 **NEXUS / KIS**
 
-457 **tomedo**Zolsoft GmbH72666
+4.57 **tomedo**
 
-290 **M-KIS**Meierhofer AG6971-2
+2.90 **M-KIS**
 
-243 **x.concept**medatixx GmbH & Co. KG6064-4
+2.43 **x.concept**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG5964-5
+1.12 **TURBOMED**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG53521 2
+2.52 **CGM M1 PRO**
+
+NEXUS AG
+
+Zolsoft GmbH
+
+Meierhofer AG
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG 2
+
+8.2
+
+7.2
+
+6.9
+
+6.0
+
+5.9
+
+5.3
+
+7.9
+
+6.6
+
+7.1
+
+6.4
+
+6.4
+
+5.2
+
+3
+
+6
+
+-2
+
+-4
+
+-5
+
+1

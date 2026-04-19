@@ -11,48 +11,34 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-geräteversorgung Kinder QSHGVK] 1.11 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2026
-
+geräteversorgung Kinder QSHGVK] 1.11 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
-Die Änderungen vom 13.02.2026 treten zum 01.04.2026 in Kraft.
+**D** **O**
+
+### Die Änderungen vom 13.02.2026 treten zum 01.04.2026 in Kraft.
 
 | Version Datum |  | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.11 | 13.02.2026 | KBV | Aktualisierung des | Aktualisierung des | 14 |
-| 1.10 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K1 | KV-Connect Abschaltung | 12ff |
+| 1.10 | 14.11.2025 | KBV | Streichung P1-265,  Überarbeitung P1-266   Umwandlung K1 -264 in | KV-Connect Abschaltung | 12ff |
 | 1.09 | 15.08.2025 | KBV | Aktualisierung des | Aktualisierung des | 14 |
 | 1.08 | 14.02.2025 | KBV | P1-266: neu aufgenommen | Aufnahme von KIM als | 13 |
 | 1.07 | 14.08.2023 | KBV | Aktualisierung des | Aktualisierung des | 14 |
 | 1.06 | 13.08.2021 | KBV | Aktualisierung des | Aktualisierung des | 14 |
-| 1.05 | 14.05.2019 | KBV | - P1-261, P1-262 und P1-263 ge- - P1-265: Neu aufgenommen | Aktualisierung der KV- |  |
+| 1.05 | 14.05.2019 | KBV | - P1-261, P1 -262 und P1 -263 ge- - P1-265: Neu aufgenommen | Aktualisierung der KV- |  |
 | 1.04 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- |  |
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
+**K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**
 
-### D O
+**R** **I** **E**
 
-### K U M E N
-
-KBV_ITA_VGEX_Anforderungskatalog_
-
-### T E N
-
-### H I S
-
-### T O
-
-### R I
-
-E
-
-QSHGVK * Version 1.11
-
-einzusetzenden Schlüssels in der Version 08 Schlüssels -264 in konditio- nale Pflichtfunktion KP1-264 einzusetzenden Schlüssels in der Version 07 Schlüssels Übertragungsweg   einzusetzenden Schlüssels in der Version 06 Schlüssels einzusetzenden Schlüssels   Schlüssels strichen Connect Spezifikation tebereichs für den Pa- rameter „Geschlecht des Patienten“ nach Änderung des Personenstandsge- setz (PstG) Seite 2 von 15
-
+Schlüssels in der Version 08 nale Pflichtfunktion KP1-264 Schlüssels in der Version 07 Schlüssels in der Version 06 Schlüssels   strichen einzusetzenden konditio- einzusetzenden einzusetzenden einzusetzenden Schlüssels Schlüssels Übertragungsweg   Schlüssels Schlüssels Connect Spezifikation tebereichs für den Pa- rameter „Geschlecht des Patienten“ nach Änderung des Personenstandsge- setz (PstG)
 
 ---
+
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
@@ -60,98 +46,50 @@ einzusetzenden Schlüssels in der Version 08 Schlüssels -264 in konditio- nale 
 
 **ABBILDUNGSVERZEICHNIS ________________________________________________ 4**
 
-**1 QUALITÄTSSICHERUNGSVEREINBARUNG HÖRGERÄTEVERSORGUNG KINDER 5**
+**1** **QUALITÄTSSICHERUNGSVEREINBARUNG HÖRGERÄTEVERSORGUNG KINDER 5**
 
-**1.1 Zielbestimmung ..............................................................................................................................5**
+**1.1** **Zielbestimmung ..............................................................................................................................5**
 
-**1.2 Pflichtfunktionen und optionale Funktionen der Software ........................................................5**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ........................................................5**
 
-**2 ÄRZTLICHES DOKUMENTIEREN _________________________________________ 6**
+**2** **ÄRZTLICHES DOKUMENTIEREN _________________________________________ 6**
 
-**2.1 Allgemeine Vorgaben .....................................................................................................................6**
+**2.1** **Allgemeine Vorgaben .....................................................................................................................6**  2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten .............................................................6  2.1.2 Anlegen von Dokumentationen ..............................................................................................7  2.1.3 Dateneingabe .........................................................................................................................8  2.1.4 Parameter ...............................................................................................................................8  2.1.5 Plausibilitäten ..........................................................................................................................9  2.1.6 Beenden der Dokumentation ............................................................................................... 10  2.1.7 Darstellung ........................................................................................................................... 10  2.1.8 Speichern von Dokumentationsdaten.................................................................................. 10  2.1.9 Archivieren von Dokumentationsdaten ................................................................................ 10  2.1.10 Eindeutigkeit von elektronischen Dokumentationen ........................................................ 11  2.1.11 Darstellung Übersicht der Dokumentationen ................................................................... 11  2.1.12 Korrekturlieferung ............................................................................................................ 12
 
-2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten .............................................................6
+**2.2** **Datenübermittlung ...................................................................................................................... 12**  2.2.1 Übermittlung ........................................................................................................................ 12  2.2.2 Export der Daten.................................................................................................................. 14  2.2.3 Verschlüsseln der Daten ..................................................................................................... 14
 
-2.1.2 Anlegen von Dokumentationen ..............................................................................................7
-
-2.1.3 Dateneingabe .........................................................................................................................8
-
-2.1.4 Parameter ...............................................................................................................................8
-
-2.1.5 Plausibilitäten ..........................................................................................................................9
-
-2.1.6 Beenden der Dokumentation ............................................................................................... 10
-
-2.1.7 Darstellung ........................................................................................................................... 10
-
-2.1.8 Speichern von Dokumentationsdaten.................................................................................. 10
-
-2.1.9 Archivieren von Dokumentationsdaten ................................................................................ 10
-
-2.1.10 Eindeutigkeit von elektronischen Dokumentationen ........................................................ 11
-
-2.1.11 Darstellung Übersicht der Dokumentationen ................................................................... 11
-
-2.1.12 Korrekturlieferung ............................................................................................................ 12
-
-**2.2 Datenübermittlung ...................................................................................................................... 12**
-
-2.2.1 Übermittlung ........................................................................................................................ 12
-
-2.2.2 Export der Daten.................................................................................................................. 14
-
-2.2.3 Verschlüsseln der Daten ..................................................................................................... 14
-
-**3 REFERENZIERTE DOKUMENTE _________________________________________ 15**
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-### I N
-
-H A L T S V E R Z E I C H
-
-### N I S
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Seite 3 von 15
+**3** **REFERENZIERTE DOKUMENTE _________________________________________ 15**
 
 
 ---
 
-| IT in | der Arztpraxis |  |  |  |  |  |  |  |  |  |  |
+| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS |  | Hörgeräteversorgung | | Kinder |  |  |  |  |  |
-| A B | B I L | D U | N G | S V | E R | Z E | I C H | N I S |  |  |  |
-| Abbildung | 1 |  | Berichtszeiträume | |  |  | ................................................................ | | | ................................ | 6 |
+|  | Anforderungskatalog | | QS | Hörgeräteversorgung | | Kinder |  |  |  |  |  |
+| **A** | **B B** | **I L** | **D U N** | **G S V** | **E R** | **Z E I** | **C H N** | **I S** |  |  |  |
+|  | Abbildung | 1 | Berichtszeiträume | |  |  | ................................................................ | | | ................................ | 6 |
 |  |  | KBV_ITA_VGEX_Anforderungskatalog_ | | QSHGVK | * Version | 1.11 |  |  |  | Seite 4 | von 15 |
 
-Abbildung 1 Berichtszeiträume ................................ 6 IT in der Arztpraxis Anforderungskatalog QS Hörgeräteversorgung Kinder  N G S V E  R Z  E I C QSHGVK * Version 1.11 Seite 4 von 15
+Abbildung 1 Berichtszeiträume ................................ 6
 
 ---
 
 **1**
 
-### Qualitätssicherungsvereinbarung Hörgeräteversorgung
+## Qualitätssicherungsvereinbarung Hörgeräteversorgung
 
-### Kinder
+## Kinder
 
-### 1.1
-
-### Zielbestimmung
+**1.1 Zielbestimmung**
 
 Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern (Qualitätssiche- rungsvereinbarung Hörgeräteversorgung Kinder 01.07.2012) eingesetzt wird. Es wird quar- talsweise eine elektronische Dokumentation zur Hörgeräteversorgung an die zuständige Da- tenannahmestelle übermittelt.   Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
-- die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachsorge für Kinder  korrekt zu dokumentieren sowie
+-  die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachsorge für Kinder  korrekt zu dokumentieren sowie
 
-- den quartalsweisen Datentransfer an die Datenannahmestelle zu realisieren.
+-  den quartalsweisen Datentransfer an die Datenannahmestelle zu realisieren.  **1.2 Pflichtfunktionen und optionale Funktionen der Software**
 
-### 1.2
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.   **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
-### Pflichtfunktionen und optionale Funktionen der Software
-
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.   **Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein.**
-
-**Optionale Funktionen können implementiert werden, wenn alle genannten Bedingungen zu**  dieser Funktion erfüllt sind.
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -165,28 +103,26 @@ Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sin
 |---|---|
 | P4-10 | Funktionsbezeichnung |
 
-Ident-Nummer einer Pflichtfunktion  Ident-Nummer einer älteren Version    Optionale Funktionen sind wie folgt gekennzeichnet:
+Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Version
+
+Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | Optionale FUNKTION | |
 |---|---|
 | K8-30 | Funktionsbezeichnung                                                                            (2 |
 
-Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11 (2-70) -80) Seite 5 von 15
+(2-70) -80) -Nummer einer älteren Version
 
 
 ---
 
 **2**
 
-### Ärztliches Dokumentieren
+## Ärztliches Dokumentieren
 
-### 2.1
-
-### Allgemeine Vorgaben
+**2.1 Allgemeine Vorgaben**
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
@@ -194,13 +130,13 @@ KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11 (2-70) -80) Seite 5 von 1
 |---|---|
 | P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli- chen.  Die in der Schnittstellenbeschr eibung QS Hörgeräteversorgung Kinder  [KBV_ITA_VGEX_Schnittstelle_QSHGVK] festgelegten Datenelemente müssen vollständig  erfassbar sein.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli- chen.  Schnittstellenbeschr eibung Hörgeräteversorgung Kinder Die in der QS  [KBV_ITA_VGEX_Schnittstelle_QSHGVK] festgelegten Datenelemente müssen vollständig  erfassbar sein.
 
 | Optionale Funktion QS Hörgeräteversorgung Kinder | |
 |---|---|
 | K1-15 | Vorbelegung von Datenfeldern |
 
-Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si- chergestellt ist, dass die Daten korrekt übernommen werden.   Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
+Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si- chergestellt ist, dass die Daten korrekt übernommen werden.  Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -210,25 +146,17 @@ Die Verordnungen/ Nachsorgen werden ab 01.07.2013 quartalsweise erfasst.
 
 Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach- sorge durchgeführt wird.
 
-Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin- den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
+Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin-Melde-/Prüfquartal:  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
 
-Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS-Datensätze ausgewertet.
+Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS -Datensätze ausgewertet.
 
 **Abbildung 1 Berichtszeiträume**
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
 ## Verordnungsquartal
 
-KBV_ITA_VGEX_Anforderungskatalog_
+### Meldequartal
 
-Meldequartal
-
-QSHGVK * Version 1.11
-
-Auswertungs- quartal
-
-Seite 6 von 15
+### Auswertungs- quartal
 
 
 ---
@@ -247,19 +175,19 @@ Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwe
 |---|---|
 | P1-40 | Neuanlage einer |
 
-Bei der Neuanlage einer QSHGVK Dokumentation muss der Anwender eine bisher nicht für  einen anderen Patienten vergebene, eindeutige max. 10-stellige alphanummerische Patien- tennummer (PatientenID) eingeben. Systemseitig kann der Anwender dabei unterstützt wer- den. Die PatientenID muss dem Patienten eindeutig zugeordnet werden.   *Hinweis: Beachten Sie diesbezüglich auch Kapitel 0.*
+Bei der Neuanlage einer QSHGVK Dokumentation muss der Anwender eine bisher nicht für  einen anderen Patienten vergebene, eindeutige max. 10-stellige alphanummerische Patien- tennummer (PatientenID) eingeben. Systemseitig kann der Anwender dabei unterstützt wer- den. Die PatientenID muss dem Patienten eindeutig zugeordnet werden.  *Hinweis: Beachten Sie diesbezüglich auch Kapitel 0.*
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | P1-50 | Patienten der |
 
-Für die Dokumentation der QS Hörgeräteversorgung Kinder werden nur Patienten der gesetz- lichen Krankenversicherung berücksichtigt.
+Für die Dokumentation der QS Hörgeräteversorgung Kinder werden nur Patienten lichen Krankenversicherung berücksichtigt.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | P1-60 | Neuanlage einer |
 
-Die Software muss sicherstellen, dass der Anwender eine QSHGVK Dokumentation mit Ver- ordnung anlegen kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK].
+Die Software muss sicherstellen, dass der Anwender eine  ordnung anlegen kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK].
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -273,11 +201,9 @@ Die Software muss sicherstellen, dass der Anwender eine QSHGVK Nachsorge anlegen
 
 Die Angabe des Untersuchungsdatums (service_tmr) darf nach Ersterfassung durch den An- wender nicht mehr geändert werden. Sind Korrekturen im Nachgang nötig, wird das Datum  nicht geändert.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
+der gesetz-
 
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-QSHGVK Dokumentation (PatientenID) QSHGVK Dokumentation  QSHGVK Verordnung Dokumentation QSHGVK Nachsorge Dokumentation Untersuchungsdatum Seite 7 von 15
+QSHGVK Dokumentation (PatientenID) QSHGVK Dokumentation  QSHGVK Verordnung Dokumentation QSHGVK Nachsorge Dokumentation Untersuchungsdatum QSHGVK Dokumentation mit Ver-
 
 
 ---
@@ -316,32 +242,16 @@ Das System muss die Parameter als:  a) Pflichtfeld bzw.
 
 b) Kein Pflichtfeld
 
-unterschiedlich kennzeichnen.
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Dokumentationen Seite 8 von 15
+Dokumentationen unterschiedlich kennzeichnen.
 
 
 ---
 
 | Optionale FUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
-| K1-136 | Datenübernahme aus dem PVS 1 1 |
+| K1-136 | Datenübernahme aus dem PVS 1 |
 
-die Spalten: (Feld)
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_
-
-QSHGVK * Version 1.11
-
-Praxisverwaltungssystem Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf Plausibilität [KBV_ITA_VGEX_PLAUSI_QSHGVK] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_ QSHGVK] enthält “ Ausprägung / Datenformat “, "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.  K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Nutzer zu diesem direkt gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung des Nutzers eine Plausibilitätenprüfung [KBV_ITA_VGEX_PLAUSI_QSHGVK] der gesamten Dokumentation(en) durchführen können. a) Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle muss dem Nutzer zur Korrektur zur Verfügung gestellt werden. Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts-Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich. Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- Spalte „optional Plau- sibilitäten“ vor, kann der Arzt sich über diese hinwegsetzen. b) Wurden die Prüfungen plausibel abgeschlossen, so  wird dies dem Nutzer angezeigt.Seite 9 von 15
-
-| PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
+Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. 2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig [KBV_ITA_VGEX_PLAUSI_QSHGVK] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_ Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.  K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung des Nutzers [KBV_ITA_VGEX_PLAUSI_QSHGVK] der gesamten Dokumentation(en) durchführen können. a) Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld) muss dem Nutzer zur Korrektur zur Verfügung gestellt werden. Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts -Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich. Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- sibilitäten“  vor, kann der Arzt sich über diese hinwegsetzen. b) Wurden die Prüfungen plausibel abgeschlossen, so  Praxisverwaltungssystem QSHGVK] enthält die Spalten: eine  wird dies dem Nutzer angezeigt. auf Nutzer zu diesem direkt Plausibilitätenprüfung Spalte „optional Plau- Plausibilität | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | P1-130 | Überprüfung der Eingaben auf Plausibilität |
 
@@ -392,13 +302,7 @@ Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schn
 |---|---|
 | K1-191 | Archivieren von Dokumentationsdaten (portabler Datenspeicher) |
 
-Das System muss die Möglichkeit bieten, Dokumentationsdaten eines bestimmten Zeitraumes  auf einem portablen Datenspeicher zu archivieren.
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Dokumentation(en) Seite 10 von 15
+Dokumentation(en) Das System muss die Möglichkeit bieten, Dokumentationsdaten eines bestimmten Zeitraumes  auf einem portablen Datenspeicher zu archivieren.
 
 
 ---
@@ -427,13 +331,7 @@ Dem Anwender muss zu jeder Zeit eine Übersicht bereitstehen, welche mindestens 
 |---|---|
 | P1-230 | Öffnen von |
 
-Anhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be- arbeiten.
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-PatientenID Dokumentationen anhand der ÜbersichtSeite 11 von 15
+PatientenID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be- arbeiten.
 
 
 ---
@@ -444,11 +342,7 @@ PatientenID Dokumentationen anhand der ÜbersichtSeite 11 von 15
 |---|---|
 | P1-240 | Korrekturlieferung |
 
-Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_eHeader] kenntlich gemacht werden.
-
-### 2.2
-
-### Versicherteninformationen
+Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt, muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_eHeader] kenntlich gemacht werden.   **2.2 Versicherteninformationen**
 
 **2.2.1 Administratives Geschlecht des Patienten**
 
@@ -478,9 +372,7 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - S
 
 **Tabelle 1** Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1)
 
-### 2.3
-
-### Datenübermittlung
+**2.3 Datenübermittlung**
 
 **2.3.1 Übermittlung**
 
@@ -489,12 +381,6 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - S
 | P1-250 | Übermittlung an die Datenannahmestelle |
 
 Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme- stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequar- tals auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle  senden.
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Seite 12 von 15
 
 
 ---
@@ -511,19 +397,23 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungsdo- kumentes bereitstellen:
+(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungsdo-
 
-- "eDokumentation V2.0“ in der stets aktuellen Version [ Spezifikation_eDoku_KIM]
+kumentes bereitstellen:
+
+-  "eDokumentation V2.0“ in der stets aktuellen Version [
 
 **Hinweis:**
 
-Wenn eine KV für das Verfahren QSHGVK das KIM -Verfahren gemäß der  [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
+Wenn eine  [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
+
+KV für das Verfahren QSHGVK
 
 | KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | KP1-264 | Importstatus von der Datenannahmestelle |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM] an  den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import- Status und ggf. Fehlermeldungen wird erstellt.
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import- Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
@@ -534,19 +424,27 @@ Es sind folgende Import-Status möglich:
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese übermittelt. |
 
-Die KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt, von der  aus der Anwender (Arzt) die exportierten Dateien über KIM übermittelt hat.
+Die KIM-Nachricht mit der Rückmeldung wird an die Absender  aus der Anwender (Arzt) die exportierten Dateien über
 
 Das PVS muss dem Anwender den Importstatus in geeigneter Weise anzeigen.
 
 **Bedingung:**
 
-(1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.  (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
+(1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig. (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
+Spezifikation_eDoku_KIM]
 
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
+das KIM -Verfahren gemäß
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) Seite 13 von 15
+Spezifikation_eDoku_KIM
+
+Adresse geschickt, von der  KIM übermittelt hat.
+
+der
+
+Versand  ] an
+
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20)
 
 
 ---
@@ -557,19 +455,17 @@ es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen.
 |---|---|
 | P1-260 | Korrekter Datenexport |
 
-Das System muss   a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSHGVK] exportieren.  b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben  für den Export vorbereiten,  c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem Da- tenarchiv QS Hörgeräteversorgung Kinder und KIM Begleitdatei besteht,  d) exportierte Datensätze innerhalb des Systems kennzeichnen und  e) den Pfad zur Exportdatei dem Anwender bekannt machen.    **2.3.3 Verschlüsseln der Daten**
+Das System muss   a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_ b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben  für den Export vorbereiten,  c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem Da- tenarchiv QS Hörgeräteversorgung Kinder und KIM Begleitdatei besteht,  d) exportierte Datensätze innerhalb des Systems kennzeichnen und e) den Pfad zur Exportdatei dem Anwender bekannt machen.   **2.3.3 Verschlüsseln der Daten**
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | P1-270 | Einsatz Kryptomodul (XKM) |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS HGVK-Datenverschlüsselung (Oeffentlich_ QSHGVK_V08.pub) zu ver- schlüsseln.  Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV -Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS HGVK-Datenverschlüsselung (Oeffentlich_ QSHGVK_V08.pub) zu ver- schlüsseln.  Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [ KBV_ITA_AHEX_Handbuch_Kryptomodul sen.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
+QSHGVK] exportieren.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Seite 14 von 15
+] nachzule-
 
 
 ---
@@ -581,15 +477,11 @@ Seite 14 von 15
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_QSHGVK] | Schnittstellenbeschreibung QS Hörgeräte- |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDokumentati- |
 | [KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK] | Ausfüllhinweise zur |
 | [KBV_ITA_VGEX_PLAUSI_QSHGVK] | Datenformate und Plausibilitäten QS Hör- |
-| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | XKM Anwenderhandbuch |
-| [Spezifikation_eDoku_KIM] | Spezifikation KIM |
+| [Spezifikation_eDoku_KIM | Spezifikation KIM |
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-versorgung Kinder eDokumentati- on Header QS Hörgeräteversor- gung Kinder geräteversorgung Kinder -Daten in ver- tragsärztlichen Versorgung (B07) Anwendungsdienst " eDokumentation V2.0 “ in der stets aktuel- len Version  Seite 15 von 15
+versorgung Kinder on Header gung Kinder geräteversorgung Kinder tragsärztlichen Versorgung (B07) Anwendungsdienst eDokumentation V2.0 len Version  QS Hörgeräteversor- -Daten in der ver-  in der stets aktuel-

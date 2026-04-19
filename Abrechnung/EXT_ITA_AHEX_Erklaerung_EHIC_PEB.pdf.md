@@ -1,57 +1,67 @@
 Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  Възнамерявам да пребивавам в Германия до
 
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
+|---|---|---|---|---|---|---|---|
+
 ## Patientenerklärung Europäische Krankenversicherung
 
-## Декларация на пациента Европейско здравно осигуряване
+## Декларация
+
+## на
+
+## пациента
+
+## Европейско
+
+## здравно
+
+## осигуряване
 
 PRF.NR.  (1.2024)
 
-Unterschrift der Patientin / des Patienten  подпис на пациентката / пациента
+Unterschrift der Patientin / des Patienten  подпис на пациентката пациента
 
-| T | T | MM |  | J | J |  |  |
-|---|---|---|---|---|---|---|---|
+**Bitte vollständig und leserlich ausfüllen.**  **попълнете** **изцяло** **и** **четливоМоля**
 
-**Bitte vollständig und leserlich ausfüllen. Моля попълнете изцяло и четливо.**
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  Потвърждавам че влизането ми в Германия не е с цел лечение
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  Потвърждавам, че влизането ми в Германия не е с цел лечение.
+**Ich bestätige die Richtigkeit meiner Angaben**  **Потвърждавам** **верността** **на** **дадените** **от** **мен** **данни**
 
-**Ich bestätige die Richtigkeit meiner Angaben**  **Потвърждавам верността на дадените от мен данни**
+**Durchreise**  **транзитно** **преминаване**
 
-**Durchreise**  **транзитно преминаване**
+**Gewählte aushelfende deutsche Krankenkasse**  **Избрана** **изпълняваща** **германска** **здравноосигурителна** **каса**
 
-**Gewählte aushelfende deutsche Krankenkasse**  **Избрана изпълняваща германска здравноосигурителна каса**
+**Name, Vorname der Patientin / des Patienten**  **Фамилно** **име собствено** **име** **на** **пациентката на** **пациента**
 
-**Name, Vorname der Patientin / des Patienten**  **Фамилно име, собствено име на пациентката / на пациента**
+PLZ, Ort / пощенски код населено място
 
-PLZ, Ort / пощенски код, населено място
-
-Straße, Hausnummer / улица, номер
+Straße, Hausnummer / улица номер
 
 Land / държава
 
-**Anschrift im Heimatstaat**  **Адрес в държавата по произход**
+**Anschrift im Heimatstaat**  **Адрес** **в** **държавата** **по** **произход**
 
-PLZ, Ort / пощенски код, населено място
+PLZ, Ort / пощенски код населено място
 
-Straße, Hausnummer / улица, номер
+Straße, Hausnummer / улица номер
 
-c/o (Hotel, Familie etc.) / на адреса на ( хотел, семейство и т. н.)
+c/o (Hotel, Familie etc.) / на адреса на хотел семейство и т н
 
-Tel.-Nr./E-Mail / тел. № / имейл
+Tel.-Nr./E-Mail / тел имейл
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  **Временен адрес на пребиваване в Германия** oder  или
+**Vorübergehende Aufenthaltsadresse in Deutschland**  **Временен** **адрес** **на** **пребиваване** **в** **Германия** oder  или
 
 Datum / Дата
 
-на лице осигурено в страна от ЕС или ЕИП, в Швейцария или Обединеното кралство, което представя  **Европейска здравноосигурителна карта ( ЕЗОК), Global Health Insurance Card (GHIC) или Удостоверение за**  **временно заместване ( УВЗ).**
+кралство което представя на лице осигурено в страна от ЕС или ЕИП в Швейцария или Обединеното **Европейска** **здравноосигурителна** **карта ЕЗОК), Global Health Insurance Card (GHIC)** или **Удостоверение** **за**  **временно** **заместване УВЗ**
 
-## T T MM J J
+## T T M M J J
 
 ### Bulgarisch
 
 **Geschlecht / Пол**
 
-**Geburtsdatum**  **Дата на раждане**
+**Geburtsdatum**  **Дата** **на** **раждане**
 
 weiblich  женски
 
@@ -61,9 +71,9 @@ divers  различен
 
 männlich  мъжки
 
-Personalausweis  лична карта  Reisepass  паспорт Nr.  №
+Personalausweis  лична карта  Reisepass  паспорт Nr.
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
+der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC)**, eine **Global Health Insurance Card (GHIC)** oder eine **Provisorische**  **Ersatzbescheinigung (PEB)** vorlegt.
 
 ***Ab hier von der Praxis auszufüllen.***
 
@@ -71,24 +81,20 @@ der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich vers
 
 **Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden.*** ***Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
 
 Datum
 
-T T MM J JArztstempel / ärztliche Unterschrift
+T T M M J JArztstempel / ärztliche Unterschrift
 
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Patienterklæring Europæisk Sygesikring
 
 Unterschrift der Patientin / des Patienten  *patientens underskrift*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
 ***Bitte vollständig und leserlich ausfüllen. Udfyldes fuldstændigt og let læseligt.***
@@ -105,33 +111,33 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Jeg agter at opholde
 
 **Name, Vorname der Patientin / des Patienten**  ***Patientens efternavn og fornavn***
 
-PLZ, Ort / postnummer, by
+PLZ, Ort / *postnummer, by*
 
-Straße, Hausnummer / gade, husnummer
+Straße, Hausnummer / *gade, husnummer*
 
-Land / land
+Land / *land*
 
 **Anschrift im Heimatstaat**  ***adresse i hjemlandet***
 
-PLZ, Ort / postnummer, by
+PLZ, Ort / *postnummer, by*
 
-Straße, Hausnummer / gade, husnummer
+Straße, Hausnummer / *gade, husnummer*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, familie etc.)
+c/o (Hotel, Familie etc.) / *c/o (hotel, familie etc.)*
 
-Tel.-Nr./E-Mail / tlf.-nr., e-mail
+Tel.-Nr./E-Mail / *tlf.-nr., e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***midlertidig opholdsadresse i Tyskland*** oder  *eller*
 
-Datum / dato
+Datum / *dato*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *for en person, der er forsikret i et EU- eller EØS-land, i Schweiz eller i Det Forenede Kongerige, og som forelægger et*  ***europæisk sygesikringskort (EHIC), et Global Health Insurance Card (GHIC) eller et provisorisk erstatningsbevis (PEB).***
+*for en person, der er forsikret i et EU- eller EØS-land, i Schweiz eller i Det Forenede Kongerige, og som forelægger et*  ***europæisk sygesikringskort (EHIC)****, et  eller et* ***provisorisk erstatningsbevis (PEB)***
 
-## T T MM J J
+## T T M M J J
 
 ### Dänisch
 
-**Geschlecht / køn**
+**Geschlecht /** ***køn***
 
 **Geburtsdatum**  ***Fødselsdato***
 
@@ -149,20 +155,9 @@ Personalausweis  *legitimationskort* Reisepass  *pas* Nr.  *No.*
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Patient’s Declaration European Health Insurance
 
@@ -186,27 +181,25 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *I intend to stay in 
 
 **Name, Vorname der Patientin / des Patienten**  ***Surname and forename of the patient***
 
-**Geschlecht / Sex**
+**Geschlecht /** ***Sex***
 
 **Geburtsdatum**  ***Date of birth***
 
-PLZ, Ort / Postcode, city
+PLZ, Ort / *Postcode, city*
 
-Straße, Hausnummer / Street, house no.
+Straße, Hausnummer / *Street, house no.*
 
-Land / Country
+Land / *Country*
 
 **Anschrift im Heimatstaat**  ***Address in home country***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Postcode, city*
 
-PLZ, Ort / Postcode, city
+Straße, Hausnummer / *Street, house no.*
 
-Straße, Hausnummer / Street, house no.
+c/o (Hotel, Familie etc.) / *c/o (hotel, family, etc.)*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, family, etc.)
-
-Tel.-Nr./E-Mail / Tel. No./e-mail
+Tel.-Nr./E-Mail / *Tel. No./e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Temporary address in Germany*** oder  *or*
 
@@ -218,26 +211,16 @@ divers  *other*
 
 männlich  *male*
 
-Datum / Date
+Datum / *Date*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *on the part of the person insured in another EU or EEA country, in Switzerland or in the United Kingdom submitting a*  ***European Health Insurance Card (EHIC), a Global Health Insurance Card (GHIC) or a Provisional Replacement***  ***Certificate (PRC).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*on the part of the person insured in another EU or EEA country, in Switzerland or in the United Kingdom submitting a*  ***European Health Insurance Card (EHIC)****, a or a* ***Provisional Replacement***  ***Certificate (PRC)***
 
 ### Englisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *ID card* Reisepass  *Passport* Nr.  *No.*
 
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Euroopa ravikindlustus Patsiendi kinnitus
 
@@ -261,27 +244,25 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Kavatsen jääda Sak
 
 **Name, Vorname der Patientin / des Patienten**  ***Patsiendi perekonnanimi ja eesnimi***
 
-**Geschlecht / Sugu**
+**Geschlecht /** ***Sugu***
 
 **Geburtsdatum**  ***Sünnikuupäev***
 
-PLZ, Ort / Postiindeks, asula
+PLZ, Ort / *Postiindeks, asula*
 
-Straße, Hausnummer / Tänav, majanumber
+Straße, Hausnummer / *Tänav, majanumber*
 
-Land / Riik
+Land / *Riik*
 
 **Anschrift im Heimatstaat**  ***Aadress koduriigis***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Postiindeks, asula*
 
-PLZ, Ort / Postiindeks, asula
+Straße, Hausnummer / *Tänav, majanumber*
 
-Straße, Hausnummer / Tänav, majanumber
+c/o (Hotel, Familie etc.) / *c/o (hotell, perekond vm)*
 
-c/o (Hotel, Familie etc.) / c/o (hotell, perekond vm)
-
-Tel.-Nr./E-Mail / Telefon/e-post
+Tel.-Nr./E-Mail / *Telefon/e-post*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Ajutine viibimisaadress Saksamaal*** oder  *või*
 
@@ -293,26 +274,16 @@ divers  *muu*
 
 männlich  *mees*
 
-Datum / Kuupäev
+Datum / *Kuupäev*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *Kinnitaja on teises ELi või EMP riigis, Šveitsis või Ühendkuningriigis kindlustatud isik, kes esitab Euroopa ravikindlustuskaardi*  ***(EHIC), ülemaailmse ravikindlustuskaardi (GHIC) või ajutise asendussertifikaadi (PRC).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*Kinnitaja on teises ELi või EMP riigis, Šveitsis või Ühendkuningriigis kindlustatud isik, kes esitab* ***Euroopa ravikindlustuskaardi***  ***(EHIC) ülemaailmse ravikindlustuskaardi (GHIC)**** või* ***ajutise asendussertifikaadi (PRC)***
 
 ### Estnisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *Isikutunnistus* Reisepass  *Pass* Nr.  *Nr*
 
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Eurooppalaisen sairausvakuutuksen potilasilmoitus
 
@@ -336,27 +307,25 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Aion viipyä Saksass
 
 **Name, Vorname der Patientin / des Patienten**  ***Potilaan sukunimi ja etunimi***
 
-**Geschlecht / Sukupuoli**
+**Geschlecht /** ***Sukupuoli***
 
 **Geburtsdatum**  ***Syntymäpäivä***
 
-PLZ, Ort / Postinumero, kaupunki
+PLZ, Ort / *Postinumero, kaupunki*
 
-Straße, Hausnummer / Katu, talon nro
+Straße, Hausnummer / *Katu, talon nro*
 
-Land / Valtio
+Land / *Valtio*
 
 **Anschrift im Heimatstaat**  ***Osoite kotimaassa***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Postinumero, kaupunki*
 
-PLZ, Ort / Postinumero, kaupunki
+Straße, Hausnummer / *Katu, talon nro*
 
-Straße, Hausnummer / Katu, talon nro
+c/o (Hotel, Familie etc.) / *c/o (hotelli, perhe, jne.)*
 
-c/o (Hotel, Familie etc.) / c/o (hotelli, perhe, jne.)
-
-Tel.-Nr./E-Mail / Puh. nro/s-posti
+Tel.-Nr./E-Mail / *Puh. nro/s-posti*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Väliaikainen osoite Saksassa*** oder  *tai*
 
@@ -368,32 +337,22 @@ divers  *muu*
 
 männlich  *mies*
 
-Datum / Päiväys
+Datum / *Päiväys*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *jonka antaa muussa EU:n tai ETA:n jäsenvaltiossa, Sveitsissä tai Yhdistyneessä kuningaskunnassa vakuutettu henkilö,*   *joka esittää Eurooppalaisen sairausvakuutuskortin (EHIC), Maailmanlaajuisen sairaanhoitokortin (GHIC) tai Väliaikaisen*  ***korvaustodistuksen (PRC).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*jonka antaa muussa EU:n tai ETA:n jäsenvaltiossa, Sveitsissä tai Yhdistyneessä kuningaskunnassa vakuutettu henkilö,*   *joka esittää* ***Eurooppalaisen sairausvakuutuskortin (EHIC) Maailmanlaajuisen sairaanhoitokortin (GHIC)*** *tai* ***Väliaikaisen***  ***korvaustodistuksen (PRC)***
 
 ### Finnisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *Henkilökortti* Reisepass  *Passi* Nr.  *nro*
 
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
 ## Déclaration du Patient Assurance Maladie Européenne
 
 Unterschrift der Patientin / des Patienten  *Signature du/de la patient(e)*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
 ***Bitte vollständig und leserlich ausfüllen. Veuillez remplir entièrement et lisiblement.***
@@ -410,35 +369,33 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *J’ai l’intention
 
 **Name, Vorname der Patientin / des Patienten**  ***Nom, prénom de la patiente / du patient***
 
-PLZ, Ort / Code postal, ville
+PLZ, Ort / *Code postal, ville*
 
-Straße, Hausnummer / Rue, N°
+Straße, Hausnummer / *Rue, N°*
 
-Land / Pays
+Land / *Pays*
 
 **Anschrift im Heimatstaat**  ***Adresse dans le pays d’origine***
 
-PLZ, Ort / Code postal, ville
+PLZ, Ort / *Code postal, ville*
 
-Straße, Hausnummer / Rue, N°
+Straße, Hausnummer / *Rue, N°*
 
-c/o (Hotel, Familie etc.) / c/o (hôtel, famille etc.)
+c/o (Hotel, Familie etc.) / *c/o (hôtel, famille etc.)*
 
-Tel.-Nr./E-Mail / N° de téléphone/adresse e-mail
+Tel.-Nr./E-Mail / *N° de téléphone/adresse e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Adresse temporaire de séjour en Allemagne*** oder  *ou*
 
-Datum / Date
+Datum / *Date*
 
-*de la personne assurée dans un pays de l’UE, de l‘EEE, en Suisse ou au Royaume-Uni qui présente une carte européenne*  ***d’assurance maladie (CEAM), une Global Health Insurance Card (GHIC) ou un certificat provisoire de remplacement***  ***(CPR).***
+*de la personne assurée dans un pays de l’UE, de l‘EEE, en Suisse ou au Royaume-Uni qui présente une* ***carte européenne***  ***d’assurance maladie (CEAM)****, une  ou un* ***certificat provisoire de remplacement***  ***(CPR)***
 
-## T T MM J J
+## T T M M J J
 
 ### Französisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-**Geschlecht / sexe**
+**Geschlecht /** ***sexe***
 
 **Geburtsdatum**  ***Date de naissance***
 
@@ -456,72 +413,67 @@ Personalausweis  *Carte d‘identité* Reisepass  *Passeport*  Nr.  *N°*
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
 
-PRF.NR.  (1.2024)
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Σκοπεύω* *να* *μείνω* *στη* *Γερμανία* *μέχρι* *τις*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Σκοπεύω να μείνω στη Γερμανία μέχρι τις*
+## Δήλωση
 
-## Patientenerklärung Europäische Krankenversicherung
+## ασθενούς
 
-## Δήλωση ασθενούς Ευρωπαϊκή ασφάλιση ασθενείας
+## Ευρωπαϊκή
 
-Unterschrift der Patientin / des Patienten  *Υπογραφή της ασθενούς / του ασθενούς*
+## ασφάλιση
 
-## T T MM J J
+## ασθενείας
 
-***Bitte vollständig und leserlich ausfüllen. Παρακαλώ συμπληρώστε το έντυπο ευανάγνωστα και πλήρως.***
+Unterschrift der Patientin / des Patienten  *Υπογραφή* *της* *ασθενούς του* *ασθενούς*
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Βεβαιώνω ότι δεν ταξίδεψα στη Γερμανία με σκοπό τη θεραπευτική αγωγή.*
+## T T M M J J
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Βεβαιώνω ότι τα στοιχεία που δήλωσα είναι ορθά***
+***Bitte vollständig und leserlich ausfüllen. Παρακαλώ*** ***συμπληρώστε*** ***το*** ***έντυπο*** ***ευανάγνωστα*** ***και*** ***πλήρως***
 
-**Durchreise**  ***Διέλευση από τη χώρα***
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Βεβαιώνω* *ότι* *δεν* *ταξίδεψα* *στη* *Γερμανία* *με* *σκοπό* *τη* *θεραπευτική* *αγωγή*
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Επιλεχθέν γερμανικό επικουρικό ταμείο ασφάλισης ασθένειας***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Βεβαιώνω*** ***ότι*** ***τα*** ***στοιχεία*** ***που*** ***δήλωσα*** ***είναι*** ***ορθά***
 
-**Name, Vorname der Patientin / des Patienten**  ***Επώνυμο, όνομα του / της ασθενούς***
+**Durchreise**  ***Διέλευση*** ***από*** ***τη*** ***χώρα***
 
-PLZ, Ort / Τ. Κ., πόλη
+**Gewählte aushelfende deutsche Krankenkasse**  ***Επιλεχθέν*** ***γερμανικό*** ***επικουρικό*** ***ταμείο*** ***ασφάλισης*** ***ασθένειας***
 
-Straße, Hausnummer / Οδός, αριθμός
+**Name, Vorname der Patientin / des Patienten**  ***Επώνυμο όνομα*** ***του της*** ***ασθενούς***
 
-Land / Χώρα
+PLZ, Ort / *Τ Κ πόλη*
 
-**Anschrift im Heimatstaat**  ***Διεύθυνση στην χώρα προέλευσης***
+Straße, Hausnummer / *Οδός αριθμός*
 
-PLZ, Ort / Τ. Κ., πόλη
+Land / *Χώρα*
 
-Straße, Hausnummer / Οδός, αριθμός
+**Anschrift im Heimatstaat**  ***Διεύθυνση*** ***στην*** ***χώρα*** ***προέλευσης***
 
-c/o (Hotel, Familie etc.) / c/o( Ξενοδοχείο, οικογένεια κ. ά..)
+PLZ, Ort / *Τ Κ πόλη*
 
-Tel.-Nr./E-Mail / Αρ. τηλ./e-mail
+Straße, Hausnummer / *Οδός αριθμός*
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Προσωρινή διεύθυνση διαμονής στη Γερμανία*** oder  *ή*
+c/o (Hotel, Familie etc.) / *c/o(Ξενοδοχείο οικογένεια* *κ ά..)*
 
-Datum / Ημερομηνία
+Tel.-Nr./E-Mail / *Αρ τηλ./e-mail*
 
-*ασφαλισμένου / ασφαλισμένης σε άλλη χώρα της ΕΕ ή του ΕΟΧ, στην Ελβετία ή στο Ηνωμένο Βασίλειο, προσκομίζοντας*  ***Ευρωπαϊκή Κάρτα Ασφάλισης Ασθένειας ( ΕΚΑΑ), Παγκόσμια Κάρτα Ασφάλισης Ασθένειας (GHIC) ή Πιστοποιητικό***  ***Προσωρινής Αντικατάστασης ( ΠΠΑ).***
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Προσωρινή*** ***διεύθυνση*** ***διαμονής*** ***στη*** ***Γερμανία*** oder  *ή*
 
-## T T MM J J
+Datum / *Ημερομηνία*
+
+*ασφαλισμένου ασφαλισμένης* *σε* *άλλη* *χώρα* *της* *ΕΕ* *ή* *του* *ΕΟΧ στην* *Ελβετία* *ή* *στο* *Ηνωμένο* *Βασίλειο προσκομίζοντας*  ***Ευρωπαϊκή*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας ΕΚΑΑ Παγκόσμια*** ***Κάρτα*** ***Ασφάλισης*** ***Ασθένειας (GHIC)*** *ή* ***Πιστοποιητικό***  ***Προσωρινής*** ***Αντικατάστασης ΠΠΑ***
+
+## T T M M J J
 
 ### Griechisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
+**Geschlecht /** ***Φύλλο***
 
-**Geschlecht / Φύλλο**
-
-**Geburtsdatum**  ***Ημερομηνία γέννησης***
+**Geburtsdatum**  ***Ημερομηνία*** ***γέννησης***
 
 weiblich  *θήλυ*
 
@@ -531,32 +483,20 @@ divers  *διάφορο*
 
 männlich  *άρρεν*
 
-Personalausweis  *αστυνομικής ταυτότητας* Reisepass  *διαβατηρίου* Nr.  *Αρ.*
+Personalausweis  *αστυνομικής* *ταυτότητας* Reisepass  *διαβατηρίου* Nr.  *Αρ*
 
 ***Ab hier von der Praxis auszufüllen.***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-Arztstempel / ärztliche Unterschrift
-
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Dichiarazione del paziente Assicurazione malattia europea
 
 Unterschrift der Patientin / des Patienten  *Firma della / del paziente*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
 ***Bitte vollständig und leserlich ausfüllen. Si prega di compilare il modul interamente e in modo leggibile.***
@@ -573,35 +513,33 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Ho l’intenzione di
 
 **Name, Vorname der Patientin / des Patienten**  ***Cognome, nome della/del paziente***
 
-PLZ, Ort / Codice postale, luogo
+PLZ, Ort / *Codice postale, luogo*
 
-Straße, Hausnummer / Via, numero civico
+Straße, Hausnummer / *Via, numero civico*
 
-Land / Stato
+Land / *Stato*
 
 **Anschrift im Heimatstaat**  ***Indirizzo nel paese di residenza***
 
-PLZ, Ort / Codice postale, luogo
+PLZ, Ort / *Codice postale, luogo*
 
-Straße, Hausnummer / Via, numero civico
+Straße, Hausnummer / *Via, numero civico*
 
 c/o (Hotel, Familie etc.) / c/o (albergo/famiglia ecc.)
 
-Tel.-Nr./E-Mail / Telefono/e-mail
+Tel.-Nr./E-Mail / *Telefono/e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Indirizzo durante il temporaneo soggiorno in Germania***  oder  *o*
 
-Datum / Data
+Datum / *Data*
 
-*della persona assicurata in un altro paese dell’UE o del SEE, in Svizzera o nel Regno Unito, che presenta la Tessera Europea*  ***di Assicurazione Malattia (TEAM), la Global Health Insurance Card (GHIC) o il Certificato Sostitutivo Provvisorio (CSP).***
+*della persona assicurata in un altro paese dell’UE o del SEE, in Svizzera o nel Regno Unito, che presenta la* ***Tessera Europea***  ***di Assicurazione Malattia (TEAM)****, la  o il* ***Certificato Sostitutivo Provvisorio (CSP)***
 
-## T T MM J J
+## T T M M J J
 
 ### Italienisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-**Geschlecht / Sesso**
+**Geschlecht /** ***Sesso***
 
 **Geburtsdatum**  ***Data di nascita***
 
@@ -619,78 +557,65 @@ Personalausweis  *la carta d’identità*  Reisepass  *il passaporto* Nr.  *nume
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
 
-PRF.NR.  (1.2024)
-
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Namjeravam boraviti u Njema č koj do*
-
-## Patientenerklärung Europäische Krankenversicherung
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Namjeravam boraviti u Njemačkoj do*
 
 ## Izjava pacijenta Europsko zdravstveno osiguranje
 
 Unterschrift der Patientin / des Patienten  *Potpis pacijentkinje / pacijenta*
 
-## T T MM J J
+## T T M M J J
 
-***Bitte vollständig und leserlich ausfüllen. Molimo da potpuno ispunite tiskanicu č itkim slovima.***
+***Bitte vollständig und leserlich ausfüllen. Molimo da potpuno ispunite tiskanicu čitkim slovima.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potvr đ ujem da nisam doputovao/la u Njema č ku u svrhu lije č enja.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potvrđujem da nisam doputovao/la u Njemačku u svrhu liječenja.*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Potvr đ ujem ispravnost mojih navoda***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Potvrđujem ispravnost mojih navoda***
 
 **Durchreise**  ***proputovanje***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Izabrano njema č ko zdravstveno osiguranje, koje pruža usluge kao ispomo ć***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Izabrano njemačko zdravstveno osiguranje, koje pruža usluge kao ispomoć***
 
 **Name, Vorname der Patientin / des Patienten**  ***prezime, ime pacijentkinje/pacijenta***
 
-PLZ, Ort / poštanski broj, mjesto
+PLZ, Ort / *poštanski broj, mjesto*
 
-Straße, Hausnummer / ulica, ku ć ni broj
+Straße, Hausnummer / *ulica, kućni broj*
 
-Land / država
+Land / *država*
 
 **Anschrift im Heimatstaat**  ***Adresa u domovini***
 
-PLZ, Ort / poštanski broj, mjesto
+PLZ, Ort / *poštanski broj, mjesto*
 
-Straße, Hausnummer / ulica, ku ć ni broj
+Straße, Hausnummer / *ulica, kućni broj*
 
-c/o (Hotel, Familie etc.) / kod (hotel, obitelj itd.)
+c/o (Hotel, Familie etc.) / *kod (hotel, obitelj itd.)*
 
-Tel.-Nr./E-Mail / telefonski broj:/mail
+Tel.-Nr./E-Mail / *telefonski broj:/mail*
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***privremena adresa boravka u Njema č koj*** oder  *ili*
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***privremena adresa boravka u Njemačkoj*** oder  *ili*
 
-Datum / datum
+Datum / *datum*
 
-*osobe osigurane u drugim državama EZ, odnosno EGP, u Švicarskoj ili u Ujedinjenom Kraljevstvu, koja prilaže Karticu*  ***Europskog zdravstvenog osiguranja (EHIC), tzv. Global Health Insurance Card (GHIC) ili Privremeno uvjerenje kao***  ***nadomestak.***
+*osobe osigurane u drugim državama EZ, odnosno EGP, u Švicarskoj ili u Ujedinjenom Kraljevstvu, koja prilaže* ***Karticu***  ***Europskog zdravstvenog osiguranja (EHIC)****, tzv.  ili* ***Privremeno uvjerenje kao***  ***nadomestak***
 
-## T T MM J J
+## T T M M J J
 
 ### Kroatisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
+**Geschlecht /** ***spol***
 
-**Geschlecht / spol**
-
-**Geburtsdatum**  ***Datum ro đ enja***
+**Geburtsdatum**  ***Datum rođenja***
 
 weiblich  *žensko*
 
 unbestimmt  *neopredeljen*
 
-divers  *razli č ito*
+divers  *različito*
 
 männlich  *muško*
 
@@ -700,66 +625,52 @@ Personalausweis  *osobna iskaznica* Reisepass  *putovnica* Nr.  *br.*
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-Arztstempel / ärztliche Unterschrift
-
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
-## Eiropas vesel ī bas apdrošin ā šanas sist ē mas pacienta deklar ā cija
+## Eiropas veselības apdrošināšanas sistēmas pacienta deklarācija
 
 Unterschrift der Patientin / des Patienten  *Pacienta/-es paraksts*
 
-***Bitte vollständig und leserlich ausfüllen. L ū dzam aizpild ī t piln ī b ā un labi salas ā mi***
+***Bitte vollständig und leserlich ausfüllen. Lūdzam aizpildīt pilnībā un labi salasāmi***
 
 ***Ab hier von der Praxis auszufüllen.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Ar šo es apliecinu, ka neesmu ieradies/-usies V ā cij ā ar m ē r ķ i sa ņ emt ā rst ē šanas pakalpojumus.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Ar šo es apliecinu, ka neesmu ieradies/-usies Vācijā ar mērķi saņemt ārstēšanas pakalpojumus.*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Es esmu paredz ē jis/-usi l ī dzuztur ē ties V ā cij ā.*
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Es esmu paredzējis/-usi līdzuzturēties Vācijā.*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Ar šo es apliecinu augst ā k sniegt ā s inform ā cijas pareiz ī bu***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Ar šo es apliecinu augstāk sniegtās informācijas pareizību***
 
-**Durchreise**  ***tranz ī t ā***
+**Durchreise**  ***tranzītā***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Es esmu izv ē l ē jies/-usies sekojošu V ā cijas slimokasi k ā pal ī gkasi***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Es esmu izvēlējies/-usies sekojošu Vācijas slimokasi kā palīgkasi***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Name, Vorname der Patientin / des Patienten**  ***Pacienta/-es v ā rds un uzv ā rds***
+**Name, Vorname der Patientin / des Patienten**  ***Pacienta/-es vārds un uzvārds***
 
-**Geschlecht / Dzimums**
+**Geschlecht /** ***Dzimums***
 
 **Geburtsdatum**  ***Dzimšanas datums***
 
-PLZ, Ort / Pasta indekss, vieta
+PLZ, Ort / *Pasta indekss, vieta*
 
-Straße, Hausnummer / Iela, m ā jas numurs
+Straße, Hausnummer / *Iela, mājas numurs*
 
-Land / Valsts
+Land / *Valsts*
 
-**Anschrift im Heimatstaat**  ***Adrese izcelsmes valst ī***
+**Anschrift im Heimatstaat**  ***Adrese izcelsmes valstī***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Pasta indekss, vieta*
 
-PLZ, Ort / Pasta indekss, vieta
+Straße, Hausnummer / *Iela, mājas numurs*
 
-Straße, Hausnummer / Iela, m ā jas numurs
+c/o (Hotel, Familie etc.) / *c/o (viesnīca, ģimene utt.)*
 
-c/o (Hotel, Familie etc.) / c/o (viesn ī ca, ģ imene utt.)
+Tel.-Nr./E-Mail / *Tel../e-pasta adrese*
 
-Tel.-Nr./E-Mail / Tel../e-pasta adrese
-
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Pagaidu uztur ē šan ā s vietas adrese V ā cij ā*** oder  *vai*
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Pagaidu uzturēšanās vietas adrese Vācijā*** oder  *vai*
 
 weiblich  *sieviešu*
 
@@ -767,109 +678,87 @@ unbestimmt  *nenoteikts*
 
 divers  *cita*
 
-männlich  *v ī riešu*
+männlich  *vīriešu*
 
-Datum / Datums
+Datum / *Datums*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *kuru iesniedz k ā d ā cit ā ES vai EEK dal ī bvalst ī, Šveic ē vai Apvienotaj ā Karalist ē apdrošin ā ta persona, kura izr ā da Eiropas*  ***vesel ī bas apdrošin ā šanas karti (EVAK), Global Health Insurance Card (GHIC) vai Pagaidu aizst ā j ē jsertifik ā tu (PAS).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*kuru iesniedz kādā citā ES vai EEK dalībvalstī, Šveicē vai Apvienotajā Karalistē apdrošināta persona, kura izrāda* ***Eiropas***  ***veselības apdrošināšanas karti (EVAK)**** vai* ***Pagaidu aizstājējsertifikātu (PAS)***
 
 ### Lettisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *ID karte* Reisepass  *Pase* Nr.  *Nr.*
 
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
 ## Paciento deklaracija Europos sveikatos draudimas
 
-Unterschrift der Patientin / des Patienten  *Pacient ė s / paciento parašas*
+Unterschrift der Patientin / des Patienten  *Pacientės / paciento parašas*
 
-***Bitte vollständig und leserlich ausfüllen. Pilnai ir į skaitomai užpildykite.***
+***Bitte vollständig und leserlich ausfüllen. Pilnai ir įskaitomai užpildykite.***
 
 ***Ab hier von der Praxis auszufüllen.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Patvirtinu, kad į Vokietij ą atvykau ne su tikslu gydytis.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Patvirtinu, kad į Vokietiją atvykau ne su tikslu gydytis.*
 
 Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Ketinu likti Vokietijoje iki*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Patvirtinu, kad suteikiau teising ą informacij ą***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Patvirtinu, kad suteikiau teisingą informaciją***
 
 **Durchreise**  ***Vykstu tranzitu***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Pasirinkta pagalbin ė Vokietijos ligoni ų kasa***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Pasirinkta pagalbinė Vokietijos ligonių kasa***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Name, Vorname der Patientin / des Patienten**  ***Pacient ė s/paciento pavard ė, vardas***
+**Name, Vorname der Patientin / des Patienten**  ***Pacientės/paciento pavardė, vardas***
 
-**Geschlecht / Lytis**
+**Geschlecht /** ***Lytis***
 
 **Geburtsdatum**  ***Gimimo data***
 
-PLZ, Ort / Pašto kodas, vietov ė
+PLZ, Ort / *Pašto kodas, vietovė*
 
-Straße, Hausnummer / Gatv ė s pavadinimas, namo numeris
+Straße, Hausnummer / *Gatvės pavadinimas, namo numeris*
 
-Land / Valstyb ė
+Land / *Valstybė*
 
-**Anschrift im Heimatstaat**  ***Adresas gimtojoje valstyb ė je***
+**Anschrift im Heimatstaat**  ***Adresas gimtojoje valstybėje***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Pašto kodas, vietovė*
 
-PLZ, Ort / Pašto kodas, vietov ė
+Straße, Hausnummer / *Gatvės pavadinimas, namo numeris*
 
-Straße, Hausnummer / Gatv ė s pavadinimas, namo numeris
+c/o (Hotel, Familie etc.) / *c/o (viešbutis, šeima, kita)*
 
-c/o (Hotel, Familie etc.) / c/o (viešbutis, šeima, kita)
-
-Tel.-Nr./E-Mail / Tel. Nr./el. paštas
+Tel.-Nr./E-Mail / *Tel. Nr./el. paštas*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Laikinas adresas Vokietijoje*** oder  *arba*
 
 weiblich  *moteris*
 
-unbestimmt  *neapibr ė žta*
+unbestimmt  *neapibrėžta*
 
-divers  *tre č ioji lytis*
+divers  *trečioji lytis*
 
 männlich  *vyras*
 
-Datum / Data
+Datum / *Data*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *ES ar EEE užsienio šalyje, Šveicarijoje ar Jungtin ė je Karalyst ė je apdraustas asmuo, pateik ę s Europos sveikatos draudimo*  ***kortel ę (ESDK), Global Health Insurance Card (GHIC) arba Laikin ą j į pakaitin į sertifikat ą (LPK).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*ES ar EEE užsienio šalyje, Šveicarijoje ar Jungtinėje Karalystėje apdraustas asmuo, pateikęs* ***Europos sveikatos draudimo***  ***kortelę (ESDK)**** arba* ***Laikinąjį pakaitinį sertifikatą (LPK)***
 
 ### Litauisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *ATK* Reisepass  *Pasas* Nr.  *Nr.*
 
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
 ## Patiëntenverklaring Europese Zorgverzekering
 
 Unterschrift der Patientin / des Patienten  *Handtekening van de patiënt*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
 ***Bitte vollständig und leserlich ausfüllen. s.v.p. volledig en leesbaar invullen***
@@ -886,35 +775,33 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Ik ben van plan om t
 
 **Name, Vorname der Patientin / des Patienten**  ***Naam, voornaam van de patiënt***
 
-PLZ, Ort / Postcode, plaats
+PLZ, Ort / *Postcode, plaats*
 
-Straße, Hausnummer / Straat, huisnummer
+Straße, Hausnummer / *Straat, huisnummer*
 
-Land / Land
+Land / *Land*
 
 **Anschrift im Heimatstaat**  ***Adres in land van oorsprong***
 
-PLZ, Ort / Postcode, plaats
+PLZ, Ort / *Postcode, plaats*
 
-Straße, Hausnummer / Straat, huisnummer
+Straße, Hausnummer / *Straat, huisnummer*
 
-c/o (Hotel, Familie etc.) / p.a. (hotel, familie etc.)
+c/o (Hotel, Familie etc.) /* p.a. (hotel, familie etc.)*
 
-Tel.-Nr./E-Mail / Tel.nr./e-mail
+Tel.-Nr./E-Mail / *Tel.nr./e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Tijdelijk verblijfadres in Duitsland*** oder  *of*
 
-Datum / Datum
+Datum / *Datum*
 
 *van een persoon die verzekerd is in een ander land van de Europese Unie, de Europese Economische Ruimte, Zwitserland of*  *het Verenigd Koninkrijk en een Europese gezondheidskaart (EHIC), een Global Health Insurance Card (GHIC) of een voorlopig*  *vervangend ziekteverzekeringsbewijs overlegt.*
 
-## T T MM J J
+## T T M M J J
 
 ### Niederländisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-**Geschlecht / Geslacht**
+**Geschlecht /** ***Geslacht***
 
 **Geburtsdatum**  ***Geboortedatum***
 
@@ -932,81 +819,68 @@ Personalausweis  *identiteitskaart*  Reisepass  *paspoort* Nr.  *nr.*
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
 
-PRF.NR.  (1.2024)
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Zamierzam pozostać w Niemczech do dnia*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Zamierzam pozosta ć w Niemczech do dnia*
-
-## Patientenerklärung Europäische Krankenversicherung
-
-## Europejskie ubezpieczenie zdrowotne – o ś wiadczenie pacjenta
+## Europejskie ubezpieczenie zdrowotne – oświadczenie pacjenta
 
 Unterschrift der Patientin / des Patienten  *podpis pacjentki / pacjenta*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
-***Bitte vollständig und leserlich ausfüllen. Prosz ę wype ł ni ć formularz w sposób pe ł ny i czytelny.***
+***Bitte vollständig und leserlich ausfüllen. Proszę wypełnić formularz w sposób pełny i czytelny.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *O ś wiadczam, ż e nie przyby ł em(am) do Niemiec w celu otrzymania leczenia.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Oświadczam, że nie przybyłem(am) do Niemiec w celu otrzymania leczenia.*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Potwierdzam prawdziwo ść powy ż szych danych***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Potwierdzam prawdziwość powyższych danych***
 
 **Durchreise**  ***przejazd tranzytem***
 
 **Gewählte aushelfende deutsche Krankenkasse**  ***Wybrana niemiecka kasa chorych***
 
-**Name, Vorname der Patientin / des Patienten**  ***Nazwisko i imi ę pacjenta/pacjentki***
+**Name, Vorname der Patientin / des Patienten**  ***Nazwisko i imię pacjenta/pacjentki***
 
-PLZ, Ort / Kod pocztowy, miejscowo ść
+PLZ, Ort / *Kod pocztowy, miejscowość*
 
-Straße, Hausnummer / Ulica, numer domu
+Straße, Hausnummer / *Ulica, numer domu*
 
-Land / Pa ń stwo
+Land / *Państwo*
 
-**Anschrift im Heimatstaat**  ***Adres w pa ń stwie pochodzenia***
+**Anschrift im Heimatstaat**  ***Adres w państwie pochodzenia***
 
-PLZ, Ort / Kod pocztowy, miejscowo ść
+PLZ, Ort / *Kod pocztowy, miejscowość*
 
-Straße, Hausnummer / Ulica, numer domu
+Straße, Hausnummer / *Ulica, numer domu*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, rodzina pa ń stwa itp.)
+c/o (Hotel, Familie etc.) / *c/o (hotel, rodzina państwa itp.)*
 
-Tel.-Nr./E-Mail / tel./e-mail
+Tel.-Nr./E-Mail / *tel./e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Adres pobytu czasowego w Niemczech*** oder  *lub*
 
-Datum / Data
+Datum / *Data*
 
-*posiadaj ą cego ubezpieczenie w innym pa ń stwie UE, EOG, Szwajcarii lub Zjednoczonym Królestwie, legitymuj ą cego si ę*  ***Europejsk ą Kart ą Ubezpieczenia Zdrowotnego (EKUZ), Global Health Insurance Card (GHIC) lub Certyfikatem***  ***Zast ę pczym***
+*posiadającego ubezpieczenie w innym państwie UE, EOG, Szwajcarii lub Zjednoczonym Królestwie, legitymującego się*  ***Europejską Kartą Ubezpieczenia Zdrowotnego (EKUZ)**** lub* ***Certyfikatem***  ***Zastępczym***
 
-## T T MM J J
+## T T M M J J
 
 ### Polnisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-**Geschlecht / P ł e ć**
+**Geschlecht /** ***Płeć***
 
 **Geburtsdatum**  ***Data urodzenia***
 
-weiblich  *ż e ń ska*
+weiblich  *żeńska*
 
-unbestimmt  *nieokre ś lona*
+unbestimmt  *nieokreślona*
 
 divers  *odmienna*
 
-männlich  *m ę ska*
+männlich  *męska*
 
 Personalausweis  *dowód osobisty*  Reisepass  *paszport* Nr.  *nr*
 
@@ -1014,20 +888,9 @@ Personalausweis  *dowód osobisty*  Reisepass  *paszport* Nr.  *nr*
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Declaração do doente Seguro Europeu de Doença
 
@@ -1051,27 +914,25 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Pretendo ficar na Al
 
 **Name, Vorname der Patientin / des Patienten**  ***Apelido e nome próprio do/da doente***
 
-**Geschlecht / Sexo**
+**Geschlecht /** ***Sexo***
 
 **Geburtsdatum**  ***Data de nascimento***
 
-PLZ, Ort / CP, localidade
+PLZ, Ort / *CP, localidade*
 
-Straße, Hausnummer / Rua, n.*o*
+Straße, Hausnummer / *Rua, n.o*
 
-Land / País
+Land / *País*
 
 **Anschrift im Heimatstaat**  ***Morada no país de origem***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *CP, localidade*
 
-PLZ, Ort / CP, localidade
+Straße, Hausnummer / *Rua, n.o*
 
-Straße, Hausnummer / Rua, n.*o*
+c/o (Hotel, Familie etc.) / *c/o (hotel, família, etc.)*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, família, etc.)
-
-Tel.-Nr./E-Mail / N.*o de tel./e-mail*
+Tel.-Nr./E-Mail / *N. de tel./e-mailo*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Morada temporária na Alemanha*** oder  *ou*
 
@@ -1083,79 +944,67 @@ divers  *diverso*
 
 männlich  *masculino*
 
-Datum / Data
+Datum / *Data*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *da pessoa segurada num país estrangeiro da UE ou do EEE, na Suíça ou no Reino Unido, que apresenta um Cartão*  ***Europeu de Seguro de Doença (CESD), um Global Health Insurance Card (GHIC) ou um Certificado Provisório de***  ***Substituição (CPS).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*da pessoa segurada num país estrangeiro da UE ou do EEE, na Suíça ou no Reino Unido, que apresenta um* ***Cartão***  ***Europeu de Seguro de Doença (CESD)****, um  ou um* ***Certificado Provisório de***  ***Substituição (CPS)***
 
 ### Portugiesisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *BI ou CC* Reisepass  *Passaporte* Nr.  *N.o*
 
 
 ---
 
-PRF.NR.  (1.2024)
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Intenţionez să stau în Germania până la*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Inten ţ ionez s ă stau în Germania pân ă la*
+## Declaraţie a pacientului Asigurarea europeană de sănătate
 
-## Patientenerklärung Europäische Krankenversicherung
+Unterschrift der Patientin / des Patienten  *Semnătura pacientei / pacientului*
 
-## Declara ţ ie a pacientului Asigurarea european ă de s ă n ă tate
-
-Unterschrift der Patientin / des Patienten  *Semn ă tura pacientei / pacientului*
-
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
-***Bitte vollständig und leserlich ausfüllen. A se completa în întregime ş i în mod lizibil.***
+***Bitte vollständig und leserlich ausfüllen. A se completa în întregime şi în mod lizibil.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Confirm c ă nu am venit în Germania în scopul unui tratament.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Confirm că nu am venit în Germania în scopul unui tratament.*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Confirm c ă datele declarate de mine sunt corecte.***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Confirm că datele declarate de mine sunt corecte.***
 
 **Durchreise**  ***Tranzit***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Casa german ă de asigur ă ri de s ă n ă tate aleas ă care acord ă asisten ţă***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Casa germană de asigurări de sănătate aleasă care acordă asistenţă***
 
-**Name, Vorname der Patientin / des Patienten**  ***Numele ş i prenumele pacientei/pacientului***
+**Name, Vorname der Patientin / des Patienten**  ***Numele şi prenumele pacientei/pacientului***
 
-PLZ, Ort / Cod po ş tal, localitate
+PLZ, Ort / *Cod poştal, localitate*
 
-Straße, Hausnummer / Strad ă, num ă r
+Straße, Hausnummer / *Stradă, număr*
 
-Land / Ţ ar ă
+Land / *Ţară*
 
-**Anschrift im Heimatstaat**  ***Adresa în ţ ara de origine***
+**Anschrift im Heimatstaat**  ***Adresa în ţara de origine***
 
-PLZ, Ort / Cod po ş tal, localitate
+PLZ, Ort / *Cod poştal, localitate*
 
-Straße, Hausnummer / Strad ă, num ă r
+Straße, Hausnummer / *Stradă, număr*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, familia etc.)
+c/o (Hotel, Familie etc.) / *c/o (hotel, familia etc.)*
 
-Tel.-Nr./E-Mail / Telefon, e-mail
+Tel.-Nr./E-Mail /* Telefon, e-mail*
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Adresa temporar ă în timpul sejurului în Germania*** oder  *sau*
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Adresa temporară în timpul sejurului în Germania*** oder  *sau*
 
-Datum / dat ă
+Datum / *dată*
 
-*a persoanei asigurate în UE, SEE, în Elve ț ia sau în Regatul Unit, care posed ă un Card european de asigur ă ri sociale de*  ***s ă n ă tate (CEASS), un Global Health Insurance Card (GHIC) sau un Certificat provizoriu de înlocuire a CEASS.***
+*a persoanei asigurate în UE, SEE, în Elveția sau în Regatul Unit, care posedă un* ***Card european de asigurări sociale de***  ***sănătate (CEASS)****, un  sau un* ***Certificat provizoriu de înlocuire a CEASS***
 
-## T T MM J J
+## T T M M J J
 
 ### Rumänisch
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
+**Geschlecht /** ***Sex***
 
-**Geschlecht / Sex**
-
-**Geburtsdatum**  ***Data na ș terii***
+**Geburtsdatum**  ***Data nașterii***
 
 weiblich  *feminin*
 
@@ -1165,26 +1014,15 @@ divers  *divers*
 
 männlich  *masculin*
 
-Personalausweis  *carte de identitate*  Reisepass  *pa ş aport* Nr.  *nr.*
+Personalausweis  *carte de identitate*  Reisepass  *paşaport* Nr.  *nr.*
 
 ***Ab hier von der Praxis auszufüllen.***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Patientförklaring Europeisk Sjukförsäkring
 
@@ -1208,27 +1046,25 @@ Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Jag har för avsikt 
 
 **Name, Vorname der Patientin / des Patienten**  ***Patientens efternamn och förnamn***
 
-**Geschlecht / Kön**
+**Geschlecht /** ***Kön***
 
 **Geburtsdatum**  ***Födelsedatum***
 
-PLZ, Ort / Postnummer, ort
+PLZ, Ort / *Postnummer, ort*
 
-Straße, Hausnummer / Gata, husnummer
+Straße, Hausnummer / *Gata, husnummer*
 
-Land / Land
+Land / *Land*
 
 **Anschrift im Heimatstaat**  ***Adress i hemlandet***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Postnummer, ort*
 
-PLZ, Ort / Postnummer, ort
+Straße, Hausnummer / *Gata, husnummer*
 
-Straße, Hausnummer / Gata, husnummer
+c/o (Hotel, Familie etc.) / *c/o (hotell, familj, osv.)*
 
-c/o (Hotel, Familie etc.) / c/o (hotell, familj, osv.)
-
-Tel.-Nr./E-Mail / Tfn.nr. / e-post
+Tel.-Nr./E-Mail / *Tfn.nr. / e-post*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Tillfällig adress i Tyskland*** oder  *eller*
 
@@ -1240,348 +1076,296 @@ divers  *annat*
 
 männlich  *manligt*
 
-Datum / Datum
+Datum / *Datum*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *för person som är försäkrad i ett annat EU- eller EES-land, i Schweiz eller i Förenade kungariket och uppvisar ett europeiskt*  ***sjukförsäkringskort (EU-kort), ett Global Health Insurance Card (GHIC) eller ett provisorskt intyg (PI).***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*för person som är försäkrad i ett annat EU- eller EES-land, i Schweiz eller i Förenade kungariket och uppvisar ett* ***europeiskt***  ***sjukförsäkringskort (EU-kort)****, ett  eller* ***ett provisorskt intyg (PI)***
 
 ### Schwedisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *ID-kort* Reisepass  *Pass* Nr.  *Nr.*
 
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
 ## Prehlásenie pacienta Európske zdravotné poistenie
 
 Unterschrift der Patientin / des Patienten  *Podpis pacienta*
 
-***Bitte vollständig und leserlich ausfüllen. Prosím, vypl ň te úplne a č itate ľ ne.***
+***Bitte vollständig und leserlich ausfüllen. Prosím, vyplňte úplne a čitateľne.***
 
 ***Ab hier von der Praxis auszufüllen.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Týmto potvrdzujem, že som neprišiel/neprišla do Nemecka za ú č elom ošetrenia.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Týmto potvrdzujem, že som neprišiel/neprišla do Nemecka za účelom ošetrenia.*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Mám v úmysle zosta ť v Nemecku do*
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Mám v úmysle zostať v Nemecku do*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Týmto potvrdzujem správnos ť údajov***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Týmto potvrdzujem správnosť údajov***
 
 **Durchreise**  ***Tranzit***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Vybraná pomáhajúca nemecká zdravotná pois ť ov ň a***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Vybraná pomáhajúca nemecká zdravotná poisťovňa***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
 **Name, Vorname der Patientin / des Patienten**  ***Priezvisko a meno pacienta***
 
-**Geschlecht / Pohlavie**
+**Geschlecht /** ***Pohlavie***
 
 **Geburtsdatum**  ***Dátum narodenia***
 
-PLZ, Ort / PS Č, mesto
+PLZ, Ort / *PSČ, mesto*
 
-Straße, Hausnummer / Ulica, č íslo domu
+Straße, Hausnummer / *Ulica, číslo domu*
 
-Land / Krajina
+Land / *Krajina*
 
 **Anschrift im Heimatstaat**  ***Adresa v domovskej krajine***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *PSČ, mesto*
 
-PLZ, Ort / PS Č, mesto
+Straße, Hausnummer / *Ulica, číslo domu*
 
-Straße, Hausnummer / Ulica, č íslo domu
+c/o (Hotel, Familie etc.) / *c/o (v hoteli, u rodiny, atď.)*
 
-c/o (Hotel, Familie etc.) / c/o (v hoteli, u rodiny, at ď.)
-
-Tel.-Nr./E-Mail / Tel. č./e-mail
+Tel.-Nr./E-Mail / *Tel. č./e-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Prechodná adresa v Nemecku*** oder  *alebo*
 
 weiblich  *žena*
 
-unbestimmt  *neur č ené*
+unbestimmt  *neurčené*
 
 divers  *iné*
 
 männlich  *muž*
 
-Datum / Dátum
+Datum / * Dátum*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *osoba poistená v inej krajine EÚ alebo EHP, vo Švaj č iarsku alebo v Spojenom krá ľ ovstve, ktorá je držite ľ om európskeho*  ***preukazu zdravotného poistenia (EHIC), Global Health Insurance Card (GHIC) alebo do č asného náhradného potvrdenia.***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*čiarsku alebo v Spojenom kráľovstve, ktorá je držiteľom osoba poistená v inej krajine EÚ alebo EHP, vo Švaj****európskeho***  ***preukazu zdravotného poistenia (EHIC)**** alebo* ***dočasného náhradného potvrdenia***
 
 ### Slowakisch
 
-Arztstempel / ärztliche Unterschrift
-
-Personalausweis  *Ob č iansky preukaz* Reisepass  *Cestovný pas* Nr.  *Č.*
+Personalausweis  *Občiansky preukaz* Reisepass  *Cestovný pas* Nr.  *Č*
 
 
 ---
-
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Izjava pacienta Evropsko zdravstveno zavarovanje
 
 Unterschrift der Patientin / des Patienten  *Podpis pacientke/pacienta*
 
-***Bitte vollständig und leserlich ausfüllen. Izpolnite v celoti in č itljivo.***
+***Bitte vollständig und leserlich ausfüllen. Izpolnite v celoti in čitljivo.***
 
 ***Ab hier von der Praxis auszufüllen.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potrjujem, da v Nem č ijo nisem vstopil/-a z namenom zdravljenja.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potrjujem, da v Nemčijo nisem vstopil/-a z namenom zdravljenja.*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *V Nem č iji nameravam ostati do*
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *V Nemčiji nameravam ostati do*
 
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Potrjujem to č nost svojih podatkov***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Potrjujem točnost svojih podatkov***
 
 **Durchreise**  ***Tranzit***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Izbrana nemška zdravstvena zavarovalnica za pomo č***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Izbrana nemška zdravstvena zavarovalnica za pomoč***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
 **Name, Vorname der Patientin / des Patienten**  ***Priimek, ime pacientke/pacienta***
 
-**Geschlecht / Spol**
+**Geschlecht /** ***Spol***
 
 **Geburtsdatum**  ***Datum rojstva***
 
-PLZ, Ort / Poštna št., kraj
+PLZ, Ort / *Poštna št., kraj*
 
-Straße, Hausnummer / Ulica, hišna št.
+Straße, Hausnummer / *Ulica, hišna št.*
 
-Land / Država
+Land / *Država*
 
 **Anschrift im Heimatstaat**  ***Naslov v domovini***
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+PLZ, Ort / *Poštna št., kraj*
 
-PLZ, Ort / Poštna št., kraj
+Straße, Hausnummer / *Ulica, hišna št.*
 
-Straße, Hausnummer / Ulica, hišna št.
+c/o (Hotel, Familie etc.) / *c/o (hotel, družina, itd.)*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, družina, itd.)
+Tel.-Nr./E-Mail / *Tel. št../e-pošta*
 
-Tel.-Nr./E-Mail / Tel. št../e-pošta
-
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Za č asni naslov v Nem č iji*** oder  *ali*
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Začasni naslov v Nemčiji*** oder  *ali*
 
 weiblich  *ženski*
 
-unbestimmt  *nedolo č en*
+unbestimmt  *nedoločen*
 
 divers  *drugo*
 
 männlich  *moški*
 
-Datum / Datum
+Datum / *Datum*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**  *oseb, zavarovanih v drugi državi EU ali EGP, v Švici ali Združenem kraljestvu, ki predložijo evropsko kartico zdravstvenega*  ***zavarovanja (EHIC), Global Health Insurance Card (GHIC) ali za č asno nadomestno potrdilo.***
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
+*oseb, zavarovanih v drugi državi EU ali EGP, v Švici ali Združenem kraljestvu, ki predložijo* ***evropsko kartico zdravstvenega***  ***zavarovanja (EHIC)**** ali* ***začasno nadomestno potrdilo***
 
 ### Slowenisch
-
-Arztstempel / ärztliche Unterschrift
 
 Personalausweis  *Osebna izkaznica* Reisepass  *Potni list* Nr.  *Št.*
 
 
 ---
 
-PRF.NR.  (1.2024)
-
-## Patientenerklärung Europäische Krankenversicherung
-
 ## Declaración del paciente seguro médico Europeo
 
-Unterschrift der Patientin / des Patienten  *Firma del/de la paciente*
-
-| T | T | MM |  | J | J |  |  |
-|---|---|---|---|---|---|---|---|
+*de la persona asegurada en la UE, en países del EEE, en Suiza o en el Reino Unido que presenta una*  ***Europea (TSE)****, una tarjeta*
 
 ***Bitte vollständig und leserlich ausfüllen. Por favor, rellene por completo y de forma legible.***
 
+Ich beabsichtige, mich bis zum *Tengo intención de permanecer en Alemania hasta el*
+
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Confirmo no haber viajado a Alemania con la finalidad de recibir tratamiento.*
-
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Tengo intención de permanecer en Alemania hasta el*
-
-**Ich bestätige die Richtigkeit meiner Angaben**  ***Confirmo que los datos facilitados anteriormente***  ***son correctos***
-
-**Durchreise**  ***Tránsito***
 
 **Gewählte aushelfende deutsche Krankenkasse**  ***Caja de salud seleccionada en Alemania***
 
-**Name, Vorname der Patientin / des Patienten**  ***Apellidos, nombre de la paciente / del paciente***
+**Name, Vorname der Patientin / des Patienten** ***Apellidos, nombre de la paciente / del paciente***
 
-PLZ, Ort / Código postal/Localidad
+**Anschrift im Heimatstaat**  ***Domicilio en el país de origen*** Straße, Hausnummer / *Calle, número*
 
-Straße, Hausnummer / Calle, número
+PLZ, Ort / *Código postal/Localidad*
 
-Land / País
+Land / *País*
 
-**Anschrift im Heimatstaat**  ***Domicilio en el país de origen***
+**Vorübergehende Aufenthaltsadresse in Deutschland** ***Dirección provisional de residencia en Alemania***
 
-PLZ, Ort / Código postal/Localidad
+c/o (Hotel, Familie etc.) / *c/o (hotel, familia etc.)*
 
-Straße, Hausnummer / Calle, número
+Straße, Hausnummer / *Calle, número*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, familia etc.)
+PLZ, Ort / *Código postal/Localidad*
 
-Tel.-Nr./E-Mail / No de tel./correo electrónico
+Tel.-Nr./E-Mail / *No de tel./correo electrónico*
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Dirección provisional de residencia en Alemania*** oder  *o*
+Reisepass Personalausweis  *PasaporteCarnet de Identidad*
 
-Datum / Fecha
-
-*de la persona asegurada en la UE, en países del EEE, en Suiza o en el Reino Unido que presenta una Tarjeta Sanitaria*  ***Europea (TSE), una tarjeta Global Health Insurance Card (GHIC) o un Certificado Provisional Sustitutorio (CPS).***
-
-## T T MM J J
-
-### Spanisch
-
-**Geschlecht / sexo**
-
-**Geburtsdatum**  ***Fecha de nacimiento***
-
-weiblich  *femenino*
-
-unbestimmt  *indeterminado*
-
-divers  *diverso*
-
-männlich  *masculino*
-
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-Personalausweis  *Carnet de Identidad*  Reisepass  *Pasaporte* Nr.  *No*
-
-***Ab hier von der Praxis auszufüllen.***
+**Ich bestätige die Richtigkeit meiner Angaben**  ***Confirmo que los datos facilitados anteriormente***  ***son correctos***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
+Nr.  *No*
 
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
+***Ab hier von der Praxis auszufüllen.***
 
-Datum
+*o un*
 
-T T MM J JArztstempel / ärztliche Unterschrift
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
+|---|---|---|---|---|---|---|---|
 
+Datum /
+
+## T T M M J J
+
+### Spanisch
+
+***Tarjeta Sanitaria***  ***Certificado Provisional Sustitutorio (CPS)***
+
+in Deutschland aufzuhalten.
+
+**Geburtsdatum**  ***Fecha de nacimiento***
+
+oder  *o*
+
+*Fecha*
+
+**Geschlecht /** ***sexo*** weiblich  *femenino*
+
+männlich  *masculino*
+
+divers  *diverso*
+
+unbestimmt  *indeterminado*
+
+**Durchreise**  ***Tránsito***
+
+Unterschrift der Patientin / des Patienten  *Firma del/de la paciente*
+
+T T M M J J
 
 ---
 
-PRF.NR.  (1.2024)
+Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Předpokládám, že budu v Německu pobývat do*
 
-Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *P ř edpokládám, že budu v N ě mecku pobývat do*
-
-## Patientenerklärung Europäische Krankenversicherung
-
-## Prohlášení pacienta Evropské zdravotní pojišt ě ní
+## Prohlášení pacienta Evropské zdravotní pojištění
 
 Unterschrift der Patientin / des Patienten  *Podpis pacientky / pacienta*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
-***Bitte vollständig und leserlich ausfüllen. Prosíme o úplné a č itelné vypln ě ní údaj ů.***
+***Bitte vollständig und leserlich ausfüllen. Prosíme o úplné a čitelné vyplnění údajů.***
 
-Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potvrzuji tímto, že jsem do N ě mecka nep ř icestoval/a za ú č elem léka ř ského ošet ř ení.*
+Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.  *Potvrzuji tímto, že jsem do Německa nepřicestoval/a za účelem lékařského ošetření.*
 
 **Ich bestätige die Richtigkeit meiner Angaben**  ***Potvrzuji, že jsou moje údaje správné***
 
 **Durchreise**  ***tranzit***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Vybraná n ě mecká zdravotní pojiš ť ovna pro p ř ípad nutného ošet ř ení***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Vybraná německá zdravotní pojišťovna pro případ nutného ošetření***
 
-**Name, Vorname der Patientin / des Patienten**  ***P ř íjmení a jméno pacientky/pacienta***
+**Name, Vorname der Patientin / des Patienten**  ***Příjmení a jméno pacientky/pacienta***
 
-PLZ, Ort / PS Č, obec
+PLZ, Ort / *PSČ, obec*
 
-Straße, Hausnummer / ulice, popisné č.
+Straße, Hausnummer / *ulice, popisné č*
 
-Land / stát
+Land / *stát*
 
-**Anschrift im Heimatstaat**  ***Adresa trvalého bydlišt ě***
+**Anschrift im Heimatstaat**  ***Adresa trvalého bydliště***
 
-PLZ, Ort / PS Č, obec
+PLZ, Ort / *PSČ, obec*
 
-Straße, Hausnummer / ulice, popisné č.
+Straße, Hausnummer / *ulice, popisné č*
 
-c/o (Hotel, Familie etc.) / c/o (hotel, rodina, atd.)
+c/o (Hotel, Familie etc.) / *c/o (hotel, rodina, atd.)*
 
-Tel.-Nr./E-Mail / tel. č.:/e-mail
+Tel.-Nr./E-Mail /* tel. č.:/e-mail*
 
-**Vorübergehende Aufenthaltsadresse in Deutschland**  ***P ř echodná adresa v N ě mecku*** oder  *nebo*
+**Vorübergehende Aufenthaltsadresse in Deutschland**  ***Přechodná adresa v Německu*** oder  *nebo*
 
-Datum / Datum
+Datum / *Datum*
 
-*osoba, která je pojišt ě na v n ě kterém ze č lenských stát ů EU, resp. EHP, ve Švýcarsku nebo Spojeném království a je držitelem*  ***Evropského pr ů kazu zdravotního pojišt ě ní (EHIC), Global Health Insurance Card (GHIC) nebo Potvrzení do č asn ě***  ***nahrazujícího Evropský pr ů kaz zdravotního pojišt ě ní.***
+*osoba, která je pojištěna v některém ze členských států EU, resp. EHP, ve Švýcarsku nebo Spojeném království a je držitelem*  ***Evropského průkazu zdravotního pojištění (EHIC)**** nebo* ***Potvrzení dočasně***  ***nahrazujícího Evropský průkaz zdravotního pojištění***
 
-## T T MM J J
+## T T M M J J
 
 ### Tschechisch
 
-**Geschlecht / pohlaví**
+**Geschlecht /** ***pohlaví***
 
 **Geburtsdatum**  ***Datum narození***
 
 weiblich  *žena*
 
-unbestimmt  *neur č ené*
+unbestimmt  *neurčené*
 
 divers  *jiné*
 
 männlich  *muž*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
-Personalausweis  *ob č anský pr ů kaz*  Reisepass  *cestovní pas* Nr.  *č.:*
+Personalausweis  *občanský průkaz*  Reisepass  *cestovní pas* Nr.  *č*
 
 ***Ab hier von der Praxis auszufüllen.***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
-
+T T M M J J
 
 ---
 
-PRF.NR.  (1.2024)
-
 Ich beabsichtige, mich bis zumin Deutschland aufzuhalten.  *Németországi tartózkodásom tervezett befejezése*
-
-## Patientenerklärung Europäische Krankenversicherung
 
 ## Európai Egészségbiztosítási betegnyilatkozat
 
 Unterschrift der Patientin / des Patienten  *a beteg aláírása*
 
-| T | T | MM |  | J | J |  |  |
+| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
 |---|---|---|---|---|---|---|---|
 
 ***Bitte vollständig und leserlich ausfüllen. Kérjük hiánytalanul és olvashatóan töltse ki.***
@@ -1592,41 +1376,41 @@ Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland einger
 
 **Durchreise**  ***átutazó***
 
-**Gewählte aushelfende deutsche Krankenkasse**  ***Választott kisegít ő német betegbiztosító pénztár***
+**Gewählte aushelfende deutsche Krankenkasse**  ***Választott kisegítő német betegbiztosító pénztár***
 
 **Name, Vorname der Patientin / des Patienten**  ***A beteg neve, utóneve***
 
-PLZ, Ort / postai irányítószám, település
+PLZ, Ort / *postai irányítószám, település*
 
-Straße, Hausnummer / utca, házszám
+Straße, Hausnummer / *utca, házszám*
 
-Land / ország
+Land / *ország*
 
 **Anschrift im Heimatstaat**  ***Magyarországi lakcíme***
 
-PLZ, Ort / postai irányítószám, település
+PLZ, Ort / *postai irányítószám, település*
 
-Straße, Hausnummer / utca, házszám
+Straße, Hausnummer / *utca, házszám*
 
-c/o (Hotel, Familie etc.) / c/o (szálloda, család, stb.)
+c/o (Hotel, Familie etc.) / *c/o (szálloda, család, stb.)*
 
-Tel.-Nr./E-Mail / telefonszám, E-mail
+Tel.-Nr./E-Mail /* telefonszám, E-mail*
 
 **Vorübergehende Aufenthaltsadresse in Deutschland**  ***Ideiglenes tartózkodási címe Németországban*** oder  *vagy*
 
-Datum / Dátum
+Datum / *Dátum*
 
-*az Európai Unió, illetve az EGT más országában, Svájcban vagy az Egyesült Királyságban biztosított személy részére, aki ren-* *delkezik Európai Egészségbiztosítási Kártyával (EHIC), Global Health Insurance Card-dal (GHIC) vagy ideiglenes*  ***helyettesít ő igazolással.***
+*az Európai Unió, illetve az EGT más országában, Svájcban vagy az Egyesült Királyságban biztosított személy részére, aki ren-* *delkezik* ***Európai Egészségbiztosítási Kártyával (EHIC) Global Health Insurance Card-dal (GHIC)**** vagy**** ideiglenes***  ***helyettesítő igazolással***
 
-## T T MM J J
+## T T M M J J
 
 ### Ungarisch
 
-**Geschlecht / Neme**
+**Geschlecht /** ***Neme***
 
 **Geburtsdatum**  ***Születési dátum***
 
-weiblich  *n ő*
+weiblich  *nő*
 
 unbestimmt  *határozatlan*
 
@@ -1634,18 +1418,10 @@ divers  *egyéb*
 
 männlich  *férfi*
 
-der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich versicherten Person, die eine  **Europäische Krankenversicherungskarte (EHIC), eine Global Health Insurance Card (GHIC) oder eine Provisorische**  **Ersatzbescheinigung (PEB) vorlegt.**
-
 Personalausweis  *személyi igazolvány*  Reisepass  *útlevél* Nr.  *szám*
 
 ***Ab hier von der Praxis auszufüllen.***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-**Die Identität der Patientin / des Patienten wurde anhand eines offiziellen**  **Ausweisdokuments geprüft.**
-
-***Hinweis an die Praxis: Das Original dieser Erklärung sowie***  ***eine Kopie der EHIC, GHIC bzw. PEB bitte unverzüglich an die***  ***gewählte deutsche Krankenkasse senden. Die Stempelung der***  ***Kopie des Anspruchnachweises ist nicht erforderlich.***
-
-Datum
-
-T T MM J JArztstempel / ärztliche Unterschrift
+T T M M J J

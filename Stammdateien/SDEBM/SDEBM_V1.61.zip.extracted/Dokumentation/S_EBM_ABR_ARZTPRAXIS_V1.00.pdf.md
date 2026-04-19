@@ -14,8 +14,6 @@
 |---|---|
 | true | abrechnungsfähig in der Arztpraxis |
 
-Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS
-
 **1.2.276.0.76.5.246**
 
 **1.00**
@@ -24,4 +22,4 @@ Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS
 
 **Bezeichnung**
 
-1
+Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS1

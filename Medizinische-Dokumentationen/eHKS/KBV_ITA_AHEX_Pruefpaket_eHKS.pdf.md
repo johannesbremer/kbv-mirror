@@ -7,72 +7,59 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 30. MAI 2025  VERSION: 3.03  DOKUMENTENSTATUS: IN |
 |---|---|
 
-# PRUEFPAKET HAUTKREBS-
-
-# SCREENING
+# PRUEFPAKET HAUTKREBS-SCREENING
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EHKS]
 
-Seite 1 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
+
 
 ---
 
 ## INHALT
 
-| 1 |  | ALLGEMEINES |  | 5 |
-|---|---|---|---|---|
-| 1.1 |  | Rechtsgrundlage |  | 5 |
-| 1.2 |  | Zertifizierungsablauf |  | 5 |
-| 1.3 |  | Zertifizierungsportal |  | 6 |
-| 1.4 |  | Zertifizierungsdokumente | | 6 |
-| 1.5 |  | Prüfunterlagen |  | 6 |
-| 1.6 |  | Prüfvorgaben |  | 7 |
-|  | 1.6.1 |  | Prüfstammdaten | 7 |
-|  | 1.6.2 |  | Versichertendaten | 8 |
-|  | 1.6.3 | Praxisdaten/ | Arztstempel | 8 |
-|  | 1.6.4 | Auflistung | der Prüffälle | 9 |
+**1** **ALLGEMEINES**
 
-| 2 |  | PRÜFFÄLLE |  |  | 10 |
-|---|---|---|---|---|---|
-| 2.1 | Prüffall | 8001 |  |  | 10 |
-| 2.2 | Prüffall | 8002 |  |  | 11 |
-| 2.3 | Prüffall | 8003 |  |  | 12 |
-| 2.4 | Prüffall | 8004 |  |  | 14 |
-| 2.5 | Prüffall | 8005 |  |  | 16 |
-| 2.6 | Prüffall | 8006 |  |  | 20 |
-| 2.7 |  | Konditionaler | Prüffall | 8007 | 21 |
+1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Zertifizierungsdokumente  1.5 Prüfunterlagen  1.6 Prüfvorgaben  1.6.1 Prüfstammdaten  1.6.2 Versichertendaten  1.6.3 Praxisdaten/ Arztstempel  1.6.4 Auflistung der Prüffälle
 
-**3 TESTDATENVALIDIERUNG** **23**
+**2** **PRÜFFÄLLE**
 
-| 4 | ANHANG |  | 24 |
+2.1 Prüffall 8001  2.2 Prüffall 8002  2.3 Prüffall 8003  2.4 Prüffall 8004  2.5 Prüffall 8005  2.6 Prüffall 8006  2.7 Konditionaler Prüffall 8007
+
+**3** **TESTDATENVALIDIERUNG**
+
+| **4** | **ANHANG** |  | **24** |
 |---|---|---|---|
-| 4.1 | Versichertendaten | 1 – Ersatzverfahren | 24 |
-| 4.2 | Versichertendaten | 2 – Ersatzverfahren | 25 |
-| 4.3 | Versichertendaten | 3 – Ersatzverfahren | 26 |
+| 4.1 | Versichertendaten | 1– Ersatzverfahren | 24 |
+| 4.2 | Versichertendaten | 2– Ersatzverfahren | 25 |
+| 4.3 | Versichertendaten | 3– Ersatzverfahren | 26 |
 
-**5 REFERENZIERTE DOKUMENTE 27**
+**5** **REFERENZIERTE DOKUMENTE**
 
-Seite 2 von 27 / KBV / Pruefpaket Hautkrebs-Screening /
+**5**
 
-Version: 3.03 / 30. Mai 2025
+5  5  6  6  6  7  7  8  8  9
 
-Praxisdaten/ Arztstempel Auflistung der Prüffälle Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
+**10**
 
+10  11  12  14  16  20  21
+
+**23**
+
+**27**
+
+Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
 
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7  Abbildung 2: Testdatenvalidierung 23  Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
-
-Seite 3 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+7 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  23 Abbildung 2: Testdatenvalidierung  Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
 
 ---
 
-## DOKUMENTENHISTORIE
+DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -82,12 +69,7 @@ Seite 3 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 
 | 3.00 | 15.08.2019 | KBV | Aufnahme eines Testfalls  Überarbeitung des | Schnittstellenversion    Überführung ins neue | 24     Alle |
 | 2.08 | 08.11.2018 | KBV | Komplettanpassung der  Streichung des | Schnittstellenversion   Abkündigung des | 10ff |
 
-Seite 4 von 27 / KBV / Pruefpaket Hautkrebs-
-
-Screening / Version: 3.03 / 30. Mai 2025
-
-Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 zu erfassenden Geburtsdatums  Servers durch neuen „Update-Server“ der KBV: 2.33 ist ab 01.10.2019 zu verwenden Personalien in der Prüffallauflistung Patientennummer für die Testdatenvalidierung zur 2.33 Layouts 2.33 ist ab 01.10.2019 zu verwenden Corporate Design Prüffälle an 2.32 eVersandlistenmoduls 2.32 ist ab 01.01.2019 zu verwenden eVersandlistenmoduls
-
+Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 zu erfassenden Geburtsdatums  Personalien in der Prüffallauflistung Patientennummer für die Testdatenvalidierung zur 2.33 Layouts Prüffälle an 2.32 eVersandlistenmoduls Servers durch neuen „Update-Server“ der KBV: 2.33 ist ab 01.10.2019 zu verwenden 2.33 ist ab 01.10.2019 zu verwenden Corporate Design 2.32 ist ab 01.01.2019 zu verwenden eVersandlistenmoduls
 
 ---
 
@@ -101,21 +83,19 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1 RECHTSGRUNDLAGE**
+**1.1** **RECHTSGRUNDLAGE**
 
 Rechtliche Grundlage bildet die „Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung  von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie / KFE-RL)“.
 
-**1.2 ZERTIFIZIERUNGSABLAUF**
+**1.2** **ZERTIFIZIERUNGSABLAUF**
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
 **HINWEIS**
 
-Seite 5 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
@@ -142,18 +122,14 @@ Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des
 
 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente 1.5 PRÜFUNTERLAGEN
 
-1.5 PRÜFUNTERLAGEN
-
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   › eHKS - Unterlag en bestehend aus XML - Dokumenten:  Eine Begleitdatei (*.idx) sowie eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im  entsprechenden Verzeichnis enthält. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV  vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe  Kapitel 1.3) hochgeladen und geprüft werden.
-
-Seite 6 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   eHKS - Unterlag en bestehend aus XML - Dokumenten:  Eine Begleitdatei (*.idx) sowie eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im  entsprechenden Verzeichnis enthält. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV  vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe  Kapitel 1.3) hochgeladen und geprüft werden.
 
 
 ---
 
-› **Videodateien und/oder Screenshots ausgewählter Anforderungen:**  Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „Screenshots“  übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.  **·** Screenshot_P_K.pdf  Wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. Szenario steht. Beispielsweise lautet der  Dateiname für Konstellation 1 aus Prüffall 8006 „Screenshot_8006_1.pdf“. Sollte es keine Konstellation  in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der Dateiname bei Prüffall 8006  „Screenshot_8006.pdf“.  › Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM-Pakets zur Verfügung zu stellen.  Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
+**Videodateien und/oder Screenshots ausgewählter Anforderungen :**  Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „ Screenshots übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.  Screenshot_P_K.pdf  Wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. Szenario steht. Beispielsweise lautet der  Dateiname für Konstellation 1 aus Prüffall 8006 „Screenshot_8006_1.pdf“. Sollte es keine Konstellation  in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der Dateiname bei Prüffall 8006  „Screenshot_8006.pdf“.  -Pakets zur Verfügung zu stellen.  Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
 
 **Ordnerstruktur**
 
@@ -161,26 +137,24 @@ In dem Ordner XPM_Ausgabe müssen Sie alle Protokolle und Statistiken des einges
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-**1.6 PRÜFVORGABEN**
+**1.6** **PRÜFVORGABEN**
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
 
-**1.6.1 Prüfstammdaten**
+**1.6.1** **Prüfstammdaten**
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
-
-Seite 7 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 
 ---
 
 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
-› EF.VD = allgemeine Versicherungsdaten  › EF.PD = persönliche Versichertendaten  › EF.GVD = geschützte Versichertendaten 1.6.3 Praxisdaten/ Arztstempel
+EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten 1.6.3 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -200,13 +174,12 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Dokumentationsdatum (Kopfdatum): | 07.01.2020  07.01.2024 |
 | Zu verwendende Prüfnummer: | Y/53/0807/36/001 |
 
-Seite 8 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+- Bezeichnung: Glücklich/Müller ) Dermatologe Dermatologie Allgemeinmedizin
 
-Bezeichnung: Glücklich/Müller ) Dermatologe Dermatologie Allgemeinmedizin
 
 ---
 
-**1.6.4 Auflistung der Prüffälle**
+**1.6.4**
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -220,7 +193,7 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 8005 | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
 | 8007 | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
 
-Seite 9 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+**Auflistung der Prüffälle**
 
 Freiherr von Schaumberg
 
@@ -230,7 +203,7 @@ Freiherr von Schaumberg
 
 ## PRÜFFÄLLE
 
-**2.1 PRÜFFALL 8001**
+**2.1** **PRÜFFALL 8001**
 
 |  |  |
 |---|---|
@@ -250,7 +223,7 @@ Freiherr von Schaumberg
 | Patientennummer | 8001 |
 | Geschlecht der/des Versich | Männlich |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 01.01.2020  01.01.2024 |
+| Untersuchungsdatum | 0.1.01.2020  01.01.2024 |
 
 | NICHT-DERMATOLOGEN-DATEN | |
 |---|---|
@@ -265,8 +238,6 @@ Freiherr von Schaumberg
 | Gesundheitsuntersuchung | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt | Ja |
 
-Seite 10 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 erten
 
 ---
@@ -275,7 +246,7 @@ erten
 
 |  |  |
 |---|---|
-| Prüffall | 8002 |
+| Prüffall - ID | 8002 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen und |
 | Voraussetzung |  |
 | Prüfunterlagen | › › |
@@ -291,7 +262,7 @@ erten
 | Patientennummer | 8002 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 02.01.2020  02.01.2024 |
+| Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
 
 | NICHT | |
 |---|---|
@@ -306,9 +277,8 @@ erten
 | Gesundheitsuntersuchung | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
-Seite 11 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten - DERMATOLOGEN - DATEN
 
-ID Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden . Dokumentationsbogen ein erten DERMATOLOGEN DATEN
 
 ---
 
@@ -316,7 +286,7 @@ ID Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Pr
 
 |  |  |
 |---|---|
-| Prüffall | 8003 |
+| Prüffall - ID | 8003 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
 | Voraussetzung |  |
 | Prüfunterlagen | eHKS-Dokumentationsunterlagen |
@@ -350,7 +320,7 @@ ID Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Pr
 | eHKS-Dokumentationsunterlagen |  |
 |  |  |
 |  |  |
-|  | 1. Versichertendaten: |
+|  | 1. |
 |  |  |
 |  |  |
 |  |  |
@@ -367,11 +337,9 @@ ID Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Pr
 | Patientennummer | 8003 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 06.01.2020  06.01.2024 |
+| Untersuchungsdatum | 0.6.01.2020  06.01.2024 |
 
-Seite 12 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
-ID erten Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen DATEN
+erten Versichertendaten: Die Versichertendaten von 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen Viktor Müller (XML_09) einlesen und speichern - DATEN - Screenings
 
 ---
 
@@ -414,8 +382,6 @@ ID erten Die Versichertendaten von Viktor Müller (XML_09) einlesen und speicher
 | Aktinische Keratose |  |
 | Andere hier nicht relevante Hautveränderung |  |
 
-Seite 13 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
@@ -424,7 +390,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 |  |  |
 |---|---|
-| Prüffall | 8004 |
+| Prüffall - ID | 8004 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
 | Voraussetzung |  |
 | Prüfunterlagen | eHKS-Dokumentationsunterlagen |
@@ -458,7 +424,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | eHKS-Dokumentationsunterlagen |  |
 |  |  |
 |  |  |
-|  | 1. Versichertendaten: |
+|  | 1. |
 |  |  |
 |  |  |
 |  |  |
@@ -475,11 +441,9 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Patientennummer | 8004 |
 | Geschlecht der/des Versich | Generiert aus XML-Datei |
 | Untersuchungsdatum | |
-| Untersuchungsdatum | 02.01.2020  02.01.2024 |
+| Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
 
-Seite 14 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
-ID erten Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs DATEN
+erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs - DATEN - Screenings
 
 ---
 
@@ -522,8 +486,6 @@ ID erten Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. un
 | Aktinische Keratose | Nein |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-Seite 15 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
@@ -532,25 +494,27 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 |  |  |
 |---|---|
-| Prüffall | 8005 |
+| Prüffall - ID | 8005 |
 | Testziel | Kontrolle der Erkennung von Fehleingaben |
-| Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt. Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
+| Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt . Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
 | Prüfunterlagen | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
 
-1. Versichertendaten:  Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfassen und speichern.
+1. Versichertendaten: Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfassen und speichern.
 
-2. Anlegen von fehlerhaften Hautkrebs-Dokumentationen durch einen Dermatologen
+2. Anlegen von fehlerhaften Hautkrebs
 
 Konstellation 1:
 
 |  | |
 |---|---|
-| Allgemeine Daten | |
+|  | |
 | Patientennummer | 8005 |
 | Geschlecht der/des Versich | Männlich |
-| Untersuchungsdatum | |
+|  | |
 | Untersuchungsdatum |  |
+
+-Dokumentationen durch einen Dermatologen
 
 Konstellation 2:
 
@@ -567,9 +531,7 @@ Konstellation 3:
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings |  |
 | Überweisender Arzt hat HKS durchgeführt |  |
 
-Seite 16 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
-ID softwareseitig erkannt werden orgegeben sind. erten DATEN
+softwareseitig erkannt werden sind. orgegeben Allgemeine Daten erten - DATEN - Screenings
 
 ---
 
@@ -608,18 +570,16 @@ ID softwareseitig erkannt werden orgegeben sind. erten DATEN
 | Aktinische Keratose |  |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-Seite 17 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
-**Konstellation** 6:
+**Konstellation** **6:**
 
 | DERMATOLOGEN-DATEN | |
 |---|---|
 | Biopsie/Exzision | |
-| Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
+| Biopsie zu Verdachtsdiagnose gemäß 2.3 | Ja |
 | Anzahl der entnommenen Biopsien |  |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Nein |
@@ -651,7 +611,7 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 | Spinozelluläres Karzinom | Ja |
 |  |  |
 | Malignes Melanom | |
-|  | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision |
+|  | Biopsie zu Verdachtsdiagnose gemäß 2.3 |
 |  | Anzahl der entnommenen Biopsien |
 |  | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet |
 |  | derzeit keine weitere Therapie/Diagnostik |
@@ -678,9 +638,7 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 |  |  |
 |  |  |
 
-Seite 18 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
-durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading Konstellation 7:
+entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading Konstellation 7:
 
 ---
 
@@ -703,7 +661,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | anderer Hautkrebs |  |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund | Nein |
 | Biopsie/Exzision | |
-| Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Nein |
+| Biopsie zu Verdachtsdiagnose gemäß 2.3 | Nein |
 | Anzahl der entnommenen Biopsien | 50 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
 | derzeit keine weitere Therapie/Diagnostik | Ja |
@@ -723,13 +681,11 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Aktinische Keratose | Ja |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-Seite 19 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
-durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) 2 mm Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
+entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 2 mm
 
 ---
 
-**2.6 PRÜFFALL 8006**
+**2.6** **PRÜFFALL 8006**
 
 |  |  |
 |---|---|
@@ -742,13 +698,12 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es wird eine bereits im System |
+| vorhandene Patientennummer (EDV) eingegeben. Es wird eine |
 | Szenario 2 |
 | Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1 |
 
-Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+(KBV_ITA_VGEX_Anforderungskatalog_eHKS Es wird eine bereits im System Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
-(KBV_ITA_VGEX_Anforderungskatalog_eHKS vorhandene Patientennummer (EDV) eingegeben. Es wird eine Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
 ---
 
@@ -756,7 +711,7 @@ Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 
 |  |  |
 |---|---|
-| Prüffall | 8007 |
+| Prüffall - ID | 8007 |
 | Testziel | Anlage einer Dokumentation im Rahmen von ergänzenden Verträgen durch einen |
 | Voraussetzung | Es wurde die optionale Funktion K1-25 (Unterstützung von ergänzenden Verträgen |
 | Prüfunterlagen | › › |
@@ -788,7 +743,7 @@ Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 |  | |
 | Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |  |
 |  |  |
-| 1. Versichertendaten: |  |
+| 1. |  |
 |  |  |
 | Anhang 4.3) im Ersatzverfahren erfassen und speichern. |  |
 |  |  |
@@ -809,9 +764,8 @@ Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 | Untersuchungsdatum | |
 | Untersuchungsdatum | 01.01.2020 |
 
-Seite 21 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen - DATEN ERGÄNZENDE VERTRÄGE - Screenings
 
-ID Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen DATEN ERGÄNZENDE VERTRÄGE
 
 ---
 
@@ -854,8 +808,6 @@ ID Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über
 | Aktinische Keratose | Nein |
 | Andere hier nicht relevante Hautveränderung | Nein |
 
-Seite 22 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
@@ -870,11 +822,11 @@ Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automat
 
 Abbildung 2: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
+Bitte beachten Sie die folgende Verzeichnisstruktur des
+
+ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
-Seite 23 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 
 ---
@@ -883,7 +835,7 @@ Seite 23 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 
 ## ANHANG
 
-**4.1 VERSICHERTENDATEN 1– ERSATZVERFAHREN**
+**4.1** **VERSICHERTENDATEN 1– ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -908,11 +860,11 @@ Seite 23 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 00 |
 
-Seite 24 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025 30.09.2059
+30.09.2059
 
 ---
 
-**4.2 VERSICHERTENDATEN 2– ERSATZVERFAHREN**
+**4.2** **VERSICHERTENDATEN 2 – ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -937,11 +889,11 @@ Seite 24 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 00 |
 
-Seite 25 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025 30.09.2059
+30.09.2059
 
 ---
 
-**4.3 VERSICHERTENDATEN 3– ERSATZVERFAHREN**
+**4.3** **VERSICHERTENDATEN 3 – ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -967,7 +919,7 @@ Seite 25 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 06 |
 
-Seite 26 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025 30.09.2059
+30.09.2059
 
 ---
 
@@ -991,8 +943,6 @@ Seite 26 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai
 | VSD_Testfaelle_DMP_Vn.n.zip 1 | Versichertenstammdaten im XML Verwendung im Rahmen der Zertifizierung. |
 | XPM-Paket_eHKS | Prüfmodul eHKS |
 
-1 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
-
 **Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
@@ -1001,10 +951,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-________________
+1 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
 
-Seite 27 von 27 / KBV / Pruefpaket Hautkrebs-Screening /
-
-Version: 3.03 / 30. Mai 2025
-
-Versorgung Testschlüssel -Format zur
+Testschlüssel Versorgung -Format zur

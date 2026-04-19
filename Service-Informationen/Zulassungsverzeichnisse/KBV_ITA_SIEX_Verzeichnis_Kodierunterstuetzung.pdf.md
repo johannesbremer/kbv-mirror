@@ -1,12 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
-
-# FÜR DIE KODIERUNTERSTÜTZUNG
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE KODIERUNTERSTÜTZUNG
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,12 +13,12 @@
 
 ---
 
-**Hinweis: In der nachfolgenden Tabelle sind ausschließlich die Systeme gelistet, die alleinig eine Zertifizierung für das Verfahren "Kodierunterstützung" bei der KBV** erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für die
+**Hinweis:** In der nachfolgenden Tabelle sind ausschließlich die Systeme gelistet, die alleinig eine Zertifizierung für das Verfahren "Kodierunterstützung" bei der KBV erfolgreich abgeschlossen haben. Sämtliche Systeme die eine Zertifizerung für die
 
-|  |  | Prüfnummer | unterstützte |
+|  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **Mandantenportal**
 
@@ -30,14 +28,10 @@
 |---|---|---|---|
 |  | Y/168/2309/36/756 | 31.08.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 11. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 18. April 2026
 
-Vertragsärztliche Abrechnung
+Vertragsärztliche Abrechnung besitzen, erfüllen ebenfalls diese Anforderung.
 
-X/168/2504/36/690
-
-besitzen, erfüllen ebenfalls diese Anforderung.
-
-31.03.2028
+X/168/2504/36/690 31.03.2028
 
 DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS WindowsiOS/Android Linux Mac OS Windows

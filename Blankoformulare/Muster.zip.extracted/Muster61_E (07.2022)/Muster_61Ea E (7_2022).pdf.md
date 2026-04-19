@@ -1,6 +1,6 @@
-## 61 Teil E
+**61 Teil E**
 
-### VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten
+**VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten**
 
 Datum
 
@@ -24,11 +24,11 @@ PLZOrtStraße, Haus-Nr.
 
 ja nein
 
-des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden   Vertragsarzt wurde erteilt.
+Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme  des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden   Vertragsarzt wurde erteilt.
 
 ja nein
 
-Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs-  einrichtungen wurde erteilt.
+Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs-  einrichtungen wurde erteilt.
 
 **A. Erteilte Einwillligungserklärungen**
 
@@ -42,9 +42,9 @@ Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nac
 
 **Hinweis zur Datenübermittlung und zum Widerrufsrecht**
 
-**1. Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme**
+**1.**
 
-**2. Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der**
+**2.**
 
 **Ausfertigung für die Krankenkasse**
 

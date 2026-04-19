@@ -1,4 +1,4 @@
-ja eingeschränkt, hinsichtlich (z. B. Erreichbarkeit ***in der vorgesehenen Zeit, aktueller Motivationslage)***
+ja eingeschränkt, hinsichtlich*** (z. B. Erreichbarkeit*** ***in der vorgesehenen Zeit, aktueller Motivationslage)***
 
 **Die beantragte Leistung ist vor Ablauf der gesetzlichen Wartefrist von 4 Jahren medizinisch notwendig aufgrund**
 
@@ -20,15 +20,15 @@ PKW erforderlich
 
 **Reisefähigkeit**
 
-**Sonstiges (z. B. besondere Hinweise zur Reisefähigkeit, Schwangerschaft) / Rückruf erbeten unter**
+**Sonstiges** ***(z. B. besondere Hinweise zur Reisefähigkeit, Schwangerschaft)*** **/ Rückruf erbeten unter**
 
 **A. Rehabilitationsziele in Bezug auf die oben genannten Schädigungen und Beeinträchtigungen**
 
-**B. Inhaltliche Schwerpunkte/Indikationen (z.B. orthopädisch, kardiologisch, geriatrisch, Kinder-Jugend)**
+**B. Inhaltliche Schwerpunkte/Indikationen***** (z.B. orthopädisch, kardiologisch, geriatrisch, Kinder-Jugend)***
 
 **B. Rehabilitationsziele aus Sicht der Patientin / des Patienten, sofern ABWEICHEND von den zuvor genannten**
 
-Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen besteht  eine positive Prognose für die unter IV. A. und IV. B. benannten Rehabilitationsziele
+Unter Berücksichtigung des bisherigen Verlaufs und der individuell vorhandenen bzw. förderungsfähigen Ressourcen besteht  eine **positive Prognose** für die unter IV. A. und IV. B. benannten Rehabilitationsziele
 
 ambulant
 
@@ -46,21 +46,25 @@ geriatr. Rehabilitation
 
 **A. Empfohlene Rehabilitationsform**
 
-**C. Weitere Bemerkungen/Begründungen (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder** ***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, besondere***  ***Therapieformen)*** pflegende/r  Angehörige/randere
+**C. Weitere Bemerkungen/Begründungen***** (u. a. Anforderungen an die Einrichtung z. B. Barrierefreiheit auch für körper-, seh-, hör- oder*** ***sprachbehinderte Menschen, klimatische Anforderungen, Allergiefaktoren, besondere Kostformen, fremdsprachliche Betreuung, besondere***  ***Therapieformen)*** pflegende/r  Angehörige/randere
 
 ### IV.Rehabilitationsziele
 
-### V.
+**V.**
 
 ### Rehabilitationsprognose
 
-### VI. Zuweisungsempfehlungen
+### VI.
 
-### VII. Sonstige Angaben
+### Zuweisungsempfehlungen
+
+### VII.
+
+### Sonstige Angaben
 
 **Ausfertigung für die Krankenkasse**
 
-## 61 Teil D
+**61 Teil D**
 
 PRF.NR.  Muster 61 Teil Da/E (7.2022)
 

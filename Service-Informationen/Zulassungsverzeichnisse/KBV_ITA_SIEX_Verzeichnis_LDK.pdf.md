@@ -1,12 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
-
-# FÜR DIE LABORDATENKOMMUNIKATION
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE LABORDATENKOMMUNIKATION
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,10 +13,10 @@
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
+|  |  | **Prüfnummer** |  | **unterstützte** |
 |---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **LIS++**
 
@@ -36,7 +34,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2501/24/395
 
@@ -44,21 +42,11 @@ Y/43/2504/24/062
 
 Y/43/2501/24/676
 
-Y/43/2604/21/081 31.12.2026
+Y/43/2604/21/081
 
-31.03.2027
+Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export Digitales Muster 10 - Import 31.12.2026 LDT-Auftrag - Export LDT-Auftrag - Import LDT-Befund - Export LDT-Befund - Import 31.03.2027 LDT-Befund - Import
 
-31.12.2026
-
-31.12.2027
-
-Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Auftrag - Export LDT-Auftrag - Import LDT-Befund - Export LDT-Befund - Import
-
-LDT-Befund - Import
-
-LDT-Befund - Export LDT-Befund - Import
-
-LDT-Befund - Import
+LDT-Befund - Export 31.12.2026 LDT-Befund - Import 31.12.2027 LDT-Befund - Import
 
 Linux Windows
 
@@ -70,11 +58,6 @@ Windows
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **QuickCON**
 
@@ -92,29 +75,28 @@ Windows
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 X/43/2410/24/525
 
 Y/43/2407/24/466
 
 Z/43/2507/24/574
 
-Y/43/2407/24/706 30.09.2026
+Y/43/2407/24/706
 
-30.06.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+Digitales Muster 10A - Export Digitales Muster 10 - Export 30.09.2026 LDT-Befund - Export Digitales Muster 39 - Export 30.06.2026
 
 30.06.2027
-
-30.06.2026
-
-Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Befund - Export Digitales Muster 39 - Export
 
 LDT-Befund - Import LDT-Befund - Export LDT-Auftrag - Import Digitales Muster 10A - Import Digitales Muster 10 - Import
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Befund - Import LDT-Auftrag - Export
 
-LDT-Befund - Export LDT-Befund - Import LDT-Auftrag - Export LDT-Auftrag - Import
+LDT-Befund - Export LDT-Befund - Import 30.06.2026 LDT-Auftrag - Export LDT-Auftrag - Import
 
 Mac OS Windows
 
@@ -126,11 +108,6 @@ Linux Windows
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **Clinisys vianova Labor**
 
@@ -146,17 +123,20 @@ Linux Windows
 |  |  |  | LDT-Auftrag - Export |  |
 |  | Y/43/2410/24/729 | 30.09.2026 | LDT-Befund - Export |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2407/36/263
 
-Y/43/2501/24/549 30.06.2027
+Y/43/2501/24/549
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-LDT-Befund - Export LDT-Befund - Import Digitales Muster 10A - Import Digitales Muster 10 - Import LDT-Auftrag - Export Digitales Muster 10 - Export LDT-Auftrag - Import
+LDT-Befund - Export LDT-Befund - Import Digitales Muster 10A - Import 30.06.2027 Digitales Muster 10 - Import LDT-Auftrag - Export Digitales Muster 10 - Export LDT-Auftrag - Import
 
-Digitales Muster 10 - Export Digitales Muster 10A - Export
+Digitales Muster 10 - Export 31.12.2026 Digitales Muster 10A - Export
 
 Windows
 
@@ -164,11 +144,6 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **eLISA**
 
@@ -182,17 +157,18 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 |---|---|---|---|---|
 |  | Y/43/2501/24/023 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2601/24/629
 
-Y/43/2501/24/112 31.12.2027
+Y/43/2501/24/112
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-LDT-Befund - Export LDT-Befund - Import
+31.12.2027
 
-LDT-Befund - Import
+LDT-Befund - Export LDT-Befund - Import 31.12.2026 LDT-Befund - Import
 
 Windows
 
@@ -200,11 +176,6 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **CGM M1 PRO**
 
@@ -216,21 +187,17 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|---|
 |  | Y/43/2501/24/060 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Y/43/2501/24/252
 
-Y/43/2501/24/252 31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-LDT-Befund - Import
-
-CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsWindows
+CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows Windows31.12.2026 LDT-Befund - ImportWindows
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **ixserv**
 
@@ -242,13 +209,13 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 
 **GUSbox LOEM Labor-Order-Entry**
 
-**DGN Deutsches Gesundheitsnetz Service** **GmbH** Hüngert 15 41564 Kaarst Internet: www.dgn.de
+**DGN Deutsches Gesundheitsnetz Service** **GmbH**
+
+Hüngert 15 41564 Kaarst Internet: www.dgn.de
 
 **inSuite**
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
-
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
 
 Y/43/2410/24/374
 
@@ -256,17 +223,18 @@ Y/43/2501/24/347
 
 X/43/2407/24/429
 
-Y/43/2507/24/488 30.09.2026
+Y/43/2507/24/488
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+Digitales Muster 10A - Export Digitales Muster 10 - Export 30.09.2026 LDT-Befund - Import Digitales Muster 39 - Export 31.12.2026 LDT-Befund - Export
 
 30.06.2026
 
 30.06.2027
-
-Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Befund - Import Digitales Muster 39 - Export
-
-LDT-Befund - Export
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export
 
@@ -282,11 +250,6 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **Doctolib Praxis**
 
@@ -304,7 +267,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **Dr. Eissing und Partner GmbH** Prälat-van-Acken-Str. 14 50931 Köln Internet: www.dreipa.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2507/36/677
 
@@ -312,7 +275,14 @@ Y/43/2501/24/409
 
 Y/43/2604/21/673
 
-Y/43/2410/24/606 30.06.2028
+Y/43/2410/24/606
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.06.2028
 
 31.12.2026
 
@@ -339,11 +309,6 @@ Windows
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **DURIA**
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
@@ -356,17 +321,20 @@ Windows
 |---|---|---|---|---|
 |  | Y/43/2401/36/034 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2501/24/086
 
-Y/43/2501/24/295 31.12.2026
+Y/43/2501/24/295
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Digitales Muster 10A - Export Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Befund - Import
+Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 Digitales Muster 10 - Import LDT-Befund - Import
 
-Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Auftrag - Export LDT-Befund - Import
+Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 LDT-Auftrag - Export LDT-Befund - Import
 
 Windows
 
@@ -374,11 +342,6 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **theHub**
 
@@ -392,17 +355,18 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 |---|---|---|---|---|
 |  | Y/43/2310/36/298 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2604/21/630
 
-Y/43/2501/24/244 31.12.2027
+Y/43/2501/24/244
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-LDT-Befund - Import
+31.12.2027 LDT-Befund - Import
 
-Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Befund - Import
+Digitales Muster 10A - Export 31.12.2026 Digitales Muster 10 - Export LDT-Befund - Import
 
 iOS/Android Linux Mac OS Sonstige Windows
 
@@ -410,11 +374,6 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **KVDT (ADT)**
 
@@ -428,11 +387,16 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |---|---|---|---|---|
 |  | Z/43/2509/37/817 | 30.09.2028 | Digitales Muster 10 - Export |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2601/24/473
 
-Y/43/2504/24/210 31.12.2027
+Y/43/2504/24/210
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.12.2027
 
 31.03.2027
 
@@ -446,11 +410,6 @@ InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven I
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **DISweb**
 
@@ -468,23 +427,26 @@ InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven I
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2504/24/320
 
 Y/43/2504/24/703
 
 Y/43/2504/24/065
 
-X/43/2407/24/537 31.03.2027
+X/43/2407/24/537
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.03.2027 LDT-Befund - Import
 
 31.03.2027
 
 31.03.2027
 
 30.06.2026
-
-LDT-Befund - Import
 
 LDT-Auftrag - Import LDT-Befund - Export LDT-Befund - Import Digitales Muster 10 - Export
 
@@ -503,11 +465,6 @@ Linux Mac OS Sonstige Windows
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **MELOS Digital Network (MDN)**
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
@@ -522,17 +479,20 @@ Linux Mac OS Sonstige Windows
 |  | Y/43/2501/24/730 | 31.12.2026 | Digitales Muster 10 - Import |  |
 |  |  |  | LDT-Befund - Export |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2410/24/607
 
-Y/43/2501/24/716 30.09.2026
+Y/43/2501/24/716
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2026
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export
 
-LDT-Befund - Export LDT-Auftrag - Import
+LDT-Befund - Export 31.12.2026 LDT-Auftrag - Import
 
 iOS/Android Linux Mac OS Sonstige Windows
 
@@ -540,11 +500,6 @@ ELLA Labor Dr. Heidrich & Kollegen MVZ GmbH Klinikweg 23 22081 Hamburg Internet:
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **LX**
 
@@ -562,7 +517,7 @@ ELLA Labor Dr. Heidrich & Kollegen MVZ GmbH Klinikweg 23 22081 Hamburg Internet:
 
 **Medat Computersysteme GmbH** Albrechtstraße 14 80636 München Internet: www.medat.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2507/24/493
 
@@ -570,7 +525,14 @@ X/43/2501/24/492
 
 Y/43/2501/24/375
 
-Y/43/2407/24/721 30.06.2027
+Y/43/2407/24/721
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.06.2027
 
 31.12.2026
 
@@ -597,11 +559,6 @@ Linux Sonstige Windows
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **EL - Elaphe Longissima**
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
@@ -616,17 +573,20 @@ Softwarevariante(n): - x.vianova
 |---|---|---|---|---|
 |  | Y/43/2501/24/266 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
 Y/43/2501/24/135
 
-Y/43/2501/24/216 31.12.2026
+Y/43/2501/24/216
 
-31.12.2026
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-LDT-Befund - Import
+31.12.2026 LDT-Befund - Import
 
-LDT-Befund - Import
+31.12.2026 LDT-Befund - Import
 
 Windows
 
@@ -634,11 +594,6 @@ x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.med
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **medatixx**
 
@@ -652,21 +607,19 @@ Softwarevariante(n): - psyx
 |  |  |  | Digitales Muster 39 - Export |  |
 |  | Y/43/2410/24/251 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
-Y/43/2501/24/462 31.12.2026
+Y/43/2501/24/462
 
-LDT-Befund - Import
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
-medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 76131 Karlsruhe Internet: https://medicalvalues.de MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ iOS/Android Linux Mac OS Sonstige Windows WindowsWindows
+medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 76131 Karlsruhe Internet: https://medicalvalues.de MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ iOS/Android Linux Mac OS Sonstige Windows Windows31.12.2026 LDT-Befund - ImportWindows
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **MEDYS**
 
@@ -680,11 +633,16 @@ medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 7613
 |---|---|---|---|---|
 |  | Y/43/2409/37/043 | 30.09.2027 | LDT-Befund - Import |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2501/24/015
 
-Y/43/2504/24/740 31.12.2026
+Y/43/2504/24/740
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.12.2026
 
 31.03.2027
 
@@ -699,11 +657,6 @@ Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Hug
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **SMARTY**
 
 **New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
@@ -716,11 +669,16 @@ Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Hug
 |---|---|---|---|---|
 |  | Y/43/2501/24/692 | 31.12.2026 | Digitales Muster 39 - Export |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2501/24/299
 
-Y/43/2407/24/345 31.12.2026
+Y/43/2407/24/345
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.12.2026
 
 30.06.2026
 
@@ -734,11 +692,6 @@ dc-pathos/dc-ross NEXUS / DIGITAL PATHOLOGY GmbH Irmastraße 1 78166 Donaueschin
 
 
 ---
-
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
 
 **PegaMed**
 
@@ -756,23 +709,26 @@ dc-pathos/dc-ross NEXUS / DIGITAL PATHOLOGY GmbH Irmastraße 1 78166 Donaueschin
 
 **QS QualitySoft GmbH** Tempowerkring 21a 21079 Hamburg Internet: www.qualitysoft.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2501/24/083
 
 Y/43/2501/24/475
 
 Y/43/2507/24/247
 
-Z/43/2410/24/801 31.12.2026
+Z/43/2410/24/801
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.12.2026 LDT-Befund - Import
 
 31.12.2026
 
 30.06.2027
 
 30.09.2026
-
-LDT-Befund - Import
 
 LDT-Befund - Export LDT-Befund - Export
 
@@ -791,11 +747,6 @@ Windows
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **RED medical classic**
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
@@ -812,23 +763,26 @@ Windows
 
 **Sonic Healthcare Germany GmbH & Co. KG** Mecklenburgische Straße 28 14197 Berlin Internet: www.sonichealthcare.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Y/43/2504/24/456
 
 Y/43/2510/24/261
 
 Y/43/2501/36/458
 
-Y/43/2410/24/412 31.03.2027
+Y/43/2410/24/412
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+31.03.2027 LDT-Befund - Import
 
 30.09.2027
 
 31.12.2027
 
 30.09.2026
-
-LDT-Befund - Import
 
 LDT-Befund - Import
 
@@ -847,11 +801,6 @@ Linux Mac OS Windows
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **DOCNET**
 
 **Sonic Healthcare Germany GmbH & Co. KG** Mecklenburgische Straße 28 14197 Berlin Internet: www.sonichealthcare.de
@@ -864,11 +813,16 @@ Linux Mac OS Windows
 |---|---|---|---|---|
 |  | Y/43/2410/24/313 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
-
 Z/43/2410/24/804
 
-X/43/2604/21/675 30.09.2026
+X/43/2604/21/675
+
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+30.09.2026
 
 31.12.2027
 
@@ -883,11 +837,6 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Med
 
 ---
 
-|  |  | Prüfnummer |  | unterstützte |
-|---|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  | zertifizierte Komponente(n) |  |
-|  |  | gültig bis |  | Betriebssysteme |
-
 **labGate**
 
 **vireq software solutions GmbH** Carl-Reichstein-Straße 11 14770 Brandenburg an der Havel Internet: www.vireq.com
@@ -896,10 +845,15 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Med
 |---|---|---|---|---|
 |  | Y/43/2509/37/768 | 30.09.2028 | LDT-Befund - Import |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 11. April 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 18. April 2026
 
-X/43/2410/24/529 30.09.2026
+X/43/2410/24/529
 
-LDT-Auftrag - Export LDT-Befund - Export LDT-Befund - Import Digitales Muster 10A - Export Digitales Muster 10 - Export
+|  |  | **Prüfnummer** |  | **unterstützte** |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
+
+LDT-Auftrag - Export LDT-Befund - Export 30.09.2026 LDT-Befund - Import Digitales Muster 10A - Export Digitales Muster 10 - Export
 
 tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsMac OS Windows

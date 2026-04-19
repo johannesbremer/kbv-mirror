@@ -2,93 +2,63 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung**
+**geb. am**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Versicherten-Nr.KostenträgerkennungStatus**
+
+**Betriebsstätten-Nr.** **Arzt-Nr.** **Datum**
 
 **Krankenkasse bzw. Kostenträger**
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung Versicherten-Nr.**
+**geb. am**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Kostenträgerkennung** **Versicherten-Nr.** **Status**
+
+**Betriebsstätten-Nr.** **Arzt-Nr.Datum**
 
 ### III Kostenschätzung
 
 **Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
-**Kosten für einmalig im Reproduktionsfalla** **anfallende Leistungen Reproduktionsfall anfallende L**
+**a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen** **Reproduktionsfall anfallende L**
 
-**Ärztliche Behandlung (EBM-Positionen) Ärztliche Behandlung**
+**Ärztliche Behandlung (EBM-Positionen)** **Ärztliche Behandlung**
 
-| Summe Ärztliche Behandlung | Summe Ärztliche |
+| **Summe ÄrztlicheBehandlung** | **Summe Ärztliche** |
 |---|---|
-| (Euro) |  |
-| Sachkosten und Sprechstunden- |  |
-| bedarf (Euro) |  |
-| Gesamtsumme für einmalig im Reproduktionsfall |  |
-| anfallende |  |
+| **(Euro)** |  |
+| **Sachkosten undSprechstunden-** |  |
+| **bedarf (Euro)** |  |
+| **Gesamtsummefür einmalig imReproduktionsfall** |  |
+| **anfallende** |  |
 
-**Leistungen (Euro)** **Ort Datum**
+**Leistungen (Euro)** **Ort** **Datum**
 
-### IV Genehmigung durch die
+### IV Genehmigung durch die Krankenkasse(n)
 
-### Krankenkasse(n)
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
 
-**Die auf** **Vorbehandlungen** **die Anzahl der genehmigten Zyklen.**
+**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-** **gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-** **schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch** **nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die** **jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
 
-**Werden mehrere Zyklen genehmigt, erlischt die Genehmi-** **gung, sobald** **schließlich Vorbehandlungen),** **nachgewiesenen** **jeweils zulässige**
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten** **(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III** **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro** **erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
 
-**Nach §** **(inklusive Medikamentenkosten,** **Eigenanteil des** **nung der** **vertraglich vereinbarten** **erst nach Beendigung der Behandlung erfolgen.**
-
-**Spätestens nach** **gung sowie** **ein neuer Folge-Behandlungsplan vorzulegen.**
+**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-** **gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode** **ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
 
 **Ausfertigung für die Kassenärztliche Vereinigung**
 
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten. PRF.NR.**
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.** **PRF.NR.**
 
 ## Folge-Behandlungsplan
 
-**zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **geb. am sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
+**zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
 ### Indikation(en)
 
-**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche BefruchtungVersicherten-Nr.Status**
+**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
 
-Datum
-
-### II
-
-### Geplante Behandlungsmaßnahme
-
-**geb. am**
-
-Status
-
-**DatumAnzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
-
-**räglichen Änderung der diagnostischen und therapeut**
-
-**b Kosten pro Zyklusfall (ohne einmalig im**
-
-| Behandlung |
-|---|
-| (Euro) |
-| Medikamenten- kosten |
-| (Euro) |
-| Sachkosten und Sprechstunden- |
-| bedarf (Euro) |
-| Gesamtsumme pro Zyklusfall |
-| (Euro) |
-
-**Der Behandlungs-/Kostenplan wird**
-
-**für maximal** die jeweils zulässige Höchstzahl anzurechnenden sind zu berücksichtigen und verringern **nicht genehmigt** **(separate Begründung** die Gesamtzahl der Behandlungen (ein- **anbei)** die nicht zu einer klinisch **Ort Datum** Schwangerschaft geführt haben, die Höchstzahl erreicht hat.
-
-27a SGB V sind 50% der entstehenden Kosten siehe Abschnitt III b) Patienten. Eine abschließende Berech- Gesamtkosten kann - u. a. in Abhängigkeit desfür maximal Punktwertes in Cent bzw. Euro -
-
-Ablauf eines Jahres seit der Genehmi- **nicht genehmigt** bei Änderung der Behandlungsmethode ist **(separate Begründung** **anbei)** **Ort Datum**
+### II Geplante Behandlungsmaßnahme
 
 **Insemination im Spontanzyklus (gemäß Nr. 10.1)**
 
@@ -98,17 +68,43 @@ Ablauf eines Jahres seit der Genehmi- **nicht genehmigt** bei Änderung der Beha
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)** **Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
 
-**(EBM-Positionen)**
+**räglichen Änderung der diagnostischen und therapeut**
 
-**Zyklen/Zyklus genehmigt**
+**b Kosten pro Zyklusfall (ohne einmalig im**
 
-**Zyklen/Zyklus genehmigt**
+| **Behandlung** |
+|---|
+| **(Euro)** |
+| **Medikamenten-kosten** |
+| **(Euro)** |
+| **Sachkosten undSprechstunden-** |
+| **bedarf (Euro)** |
+| **Gesamtsummepro Zyklusfall** |
+| **(Euro)** |
 
 **eistungen)**
 
+**(EBM-Positionen)**
+
+**70A**
+
 **ischen Einzelfallerfordernisse.**
+
+**Der Behandlungs-/Kostenplan wird**
+
+**Zyklen/Zyklus genehmigtfür maximal**
+
+**nicht genehmigt** **(separate Begründung** **anbei)** **Ort** **Datum**
+
+**b)**
+
+**für maximal** **des**
+
+**Zyklen/Zyklusgenehmigt**
+
+**nicht genehmigt** **ist (separate Begründung** **anbei)** **Ort** **Datum**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
@@ -117,7 +113,3 @@ Ablauf eines Jahres seit der Genehmi- **nicht genehmigt** bei Änderung der Beha
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 
 **Muster 70Ab/E (10.2014)**
-
-## 70A
-
-Summe Ärztliche Summe Ärztliche

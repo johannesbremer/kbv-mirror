@@ -1,57 +1,40 @@
+|  |
+|---|
+
 # KBV PRÜFNUMMERN DEFINITION
 
 [KBV_ITV_VGEX_Definition_von_Prüfnummern]
 
-Seite 1 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023 VERSION 1.0 |
+|---|---|
 
-**DEZERNAT DIGITALISIERUNG UND IT**
+|  |
+|---|
 
-**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
-
-**IT IN DER VERSORGUNG**
-
-**15. NOVEMBER 2023**
-
-**VERSION 1.0**
-
+BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 ---
 
-## INHALT
+INHALT
 
-| 1 | EINLEITUNG |  |  |  |  | 4 |
+| **1** | **EINLEITUNG** |  |  |  |  | **4** |
 |---|---|---|---|---|---|---|
 | 1.1 | Definition | der Prüfnummern | der KBV | zur Zertifizierung | von Praxsisoftware | 4 |
 
-**2**
-
-Seite 2 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
-
-**REFERENZIERTE DOKUMENTE**
-
-**6**
+**2** **REFERENZIERTE DOKUMENTE** **6**
 
 Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware
+
 
 ---
 
 **DOKUMENTENSTATUS**
 
-**Version**
+| Version | Datum | Autor | Änderung | Begründung | Seite |
+|---|---|---|---|---|---|
+| 1.0 | 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der | alle |
 
-1.0
-
-Seite 3 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
-
-| Datum | Autor | Änderung | Begründung |
-|---|---|---|---|
-| 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der |
-|  |  |  | Definition von |
-|  |  |  | Prüfnummern |
-
-**Seite**
-
-alle
+Definition von Prüfnummern
 
 
 ---
@@ -62,7 +45,7 @@ alle
 
 Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf  Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten  Monate und müssen dann über Rezertifizierung
 
-**1.1 DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE**
+**1.1** **DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE**
 
 Die Bedeutung der einzelnen Stellen der Prüfnummern
 
@@ -74,32 +57,54 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 
 **Softwareklasse:**
 
-**WERT**  X  Y  Z  E
+| WERT | BEDEUTUNG |
+|---|---|
+| X | System |
+| Y | Praxisverwaltungssystem |
+| Z | Subsystem |
+| E | Entlassmanagement (Zertifikate vergibt die |
 
-**Komponente:**
+**Komponente**
 
-**WERT**  1  2  7  9  43  50-60  63  64  70  71  80  100-110  167  168  169  200-216  400  450  495  500  806-808
-
-Seite 4 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+| WERT | NAME |
+|---|---|
+| 1 | KVDT ADT |
+| 2 | KVDT KADT |
+| 7 | NDT |
+| 9 | Blankoformularbedruckung |
+| 43 | Labordatenkommunikation |
+| 50-60 | eDokumentation |
+| 63 | eArztbrief |
+| 64 | SMC-B |
+| 70 | VoS-SST |
+| 71 | AW-SST |
+| 80 | Digitale Muster |
+| 100-110 | DMPs |
+| 167 | eTerminsevice |
+| 168 | Kodierunterstützung |
+| 169 | 1Click mit KIM |
+| 200-216 | KVDT-Satzarten und Kombinationen |
+| 400 | Arzneimittelverordnung |
+| 450 | VDGA |
+| 495 | Heilmittelverordnung |
+| 500 | KVDT SADT |
+| 806-808 | KV-SafeNet Versionen 3.1-3.3 |
 
 en erneuert werden.
 
 ist:
 
-**BEDEUTUNG**  System  Praxisverwaltungssystem  Subsystem  Entlassmanagement (Zertifikate vergibt die  Deutsche Krankenhausgesellschaft
-
-**NAME**  KVDT ADT  KVDT KADT  NDT  Blankoformularbedruckung  Labordatenkommunikation  eDokumentation  eArztbrief  SMC-B  VoS-SST  AW-SST  Digitale Muster  DMPs  eTerminsevice  Kodierunterstützung  1Click mit KIM  KVDT-Satzarten und Kombinationen Arzneimittelverordnung  VDGA  Heilmittelverordnung  KVDT SADT  KV-SafeNet Versionen 3.1-3.3
-
 **-ID**
 
 in der Regel für 36
 
-)
-
+Deutsche Krankenhausgesellschaft
 
 ---
 
-**WERT**  820-821
+| WERT | NAME |
+|---|---|
+| 820-821 | Richtlinie KV |
 
 **Gültigkeitsbeginn:**
 
@@ -115,31 +120,25 @@ Dauer in Monaten
 
 Diese identifizieren das System des Herstellers bei der KBV.
 
-Seite 5 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
-
-**NAME**  Richtlinie KV 1.0-1.1
-
--SafeNet (Netzkopplung) Versionen
-
+-SafeNet (Netzkopplung) Versionen 1.0-1.1
 
 ---
 
-| 2 |  |  | REFERENZIERTE | | DOKUMENTE |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-|  | Referenz |  |  |  |  | Dokument | |  |  |
-|  |  | Zertifizierungsrichtlinie | |  |  | Auf | dem | Update-Server | der KBV |
-|  |  |  |  |  |  |  | https://update.kbv.de/ita-up- | | |
-|  |  |  |  |  |  |  |  | date/Allgemein/KBV_ITA_RLEX_Zert.pdf | |
-|  | Zulassungslisten | | für | Praxisverwaltungssysteme | | Auf | der Homepage | der KBV |  |
-|  |  |  |  |  |  |  |  | https://www.kbv.de/html/5614.php | |
-|  |  | Zertifizierungsportal | der | KBV |  | ZPORT | im Internet |  |  |
-|  |  |  |  |  |  |  |  | https://zertifizierungsportal2.kbv.de/zport/ | |
-| Kontakt: | |  |  |  |  |  |  |  |  |
-| Dezernat | | Digitalisierung | | und IT |  |  |  |  |  |
-| IT in | der | Versorgung, | Tel.: | 030 4005-0, | ita@kbv.de |  |  |  |  |
-|  | Kassenärztliche | |  | Bundesvereinigung |  |  |  |  |  |
-|  | Herbert-Lewin-Platz | | 2, | 10623 Berlin |  |  |  |  |  |
-|  | ita@kbv.de, |  | www.kbv.de |  |  |  |  |  |  |
-| Seite | 6 von 6 | / KBV | / KBV | Prüfnummern Definition | / 15. November | 2023 |  |  |  |
+2
 
-REFERENZIERTE DOKUMENTE Zulassungslisten für Praxisverwaltungssysteme Zertifizierungsportal der KBV Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, ita@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, www.kbv.de Seite 6 von 6  /  KBV  /  KBV Prüfnummern Definition  /  15. November 2023 Auf dem Update-Server der KBV Auf der Homepage der KBV ZPORT im Internet
+REFERENZIERTE DOKUMENTE
+
+|  |  |
+|---|---|
+| Referenz | Dokument |
+| Zertifizierungsrichtlinie | Auf dem Update-Server der KBV https://update.kbv.de/ita-up- |
+| Zulassungslisten für Praxisverwaltungssysteme | Auf der Homepage der KBV https://www.kbv.de/html/5614.php |
+| Zertifizierungsportal der KBV | ZPORT im Internet https://zertifizierungsportal2.kbv.de/zport/ |
+
+**Kontakt:**
+
+Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+date/Allgemein/KBV_ITA_RLEX_Zert.pdf

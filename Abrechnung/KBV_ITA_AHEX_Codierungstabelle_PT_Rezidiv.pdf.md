@@ -119,8 +119,6 @@
 | 35425Z | Verhaltenstherapie (LZT, Einzelbehandlung) | | | | | | | | |
 | 35435R | Systemische Therapie (LZT, Einzelbehandlung) | | | | | | | | |
 
-Seite 1 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.xlsx
-
 
 ---
 
@@ -244,8 +242,6 @@ Seite 1 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codi
 | 35518R | Tiefenpsychologische Psychotherapie (LZT), 8 TN | | | | | | | | |
 | 35518U | Tiefenpsychologische Psychotherapie (LZT), 8 TN | | | | | | | | |
 | 35518X | Tiefenpsychologische Psychotherapie (LZT), 8 TN | | | | | | | | |
-
-Seite 2 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.xlsx
 
 
 ---
@@ -371,8 +367,6 @@ Seite 2 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codi
 | 35554R | Verhaltenstherapie (LZT), 4 TN | | | | | | | | |
 | 35554U | Verhaltenstherapie (LZT), 4 TN | | | | | | | | |
 
-Seite 3 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.xlsx
-
 
 ---
 
@@ -497,8 +491,6 @@ Seite 3 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codi
 | 35713U | Systemische Therapie (LZT), 3 TN | | | | | | | | |
 | 35713X | Systemische Therapie (LZT), 3 TN | | | | | | | | |
 
-Seite 4 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.xlsx
-
 
 ---
 
@@ -622,5 +614,3 @@ Seite 4 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codi
 | 35719U | Systemische Therapie (LZT), 9 TN | | | | | | | | |
 | 35719X | Systemische Therapie (LZT), 9 TN | | | | | | | | |
 | 35719Y | Systemische Therapie (LZT), 9 TN | | | | | | | | |
-
-Seite 5 von 5 / KBV Dezernat Vergütung und Gebührenordnung / KBV_ITA_AHEX_Codierungstabelle_PT_Rezidiv.xlsx

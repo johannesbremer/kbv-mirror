@@ -9,77 +9,51 @@
 
 # PRÜFPAKET EDMP
 
-# - ADIPOSITAS -
+**- ADIPOSITAS -**
 
 # ERWACHSENE
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_ADIPOSITAS_ERWACHSENE]
 
-Seite 1 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+
 
 ---
 
 ## INHALT
 
-|  | ALLGEMEINES |  |  |  | 4 |
-|---|---|---|---|---|---|
-| 1.1 |  | Rechtsgrundlage |  |  | 4 |
-| 1.2 |  | Zertifizierungsablauf |  |  | 4 |
-| 1.3 |  | Zertifizierungsportal |  |  | 5 |
-| 1.4 |  | Zertifizierungsdokumente | |  | 5 |
-| 1.5 |  | Prüfunterlagen |  |  | 5 |
-| 1.6 |  | Prüfvorgaben |  |  | 7 |
-|  | 1.6.1 |  | Schnittstellenversionen |  | 7 |
-|  | 1.6.2 |  | Datumseingaben |  | 7 |
-|  | 1.6.3 |  | Prüfstammdaten |  | 7 |
-|  | 1.6.4 |  | Versichertendaten |  | 7 |
-|  | 1.6.5 | Praxisdaten/ | Arztstempel |  | 8 |
-|  | 1.6.6 |  | Krankenhausdaten |  | 8 |
-|  | 1.6.7 | Prüfnummer |  |  | 8 |
-|  | 1.6.8 | Stammdatei | der | Datenannahmestellen (SDDA) | 9 |
-|  | 1.6.9 | Auflistung | der Prüffälle |  | 9 |
+**ALLGEMEINES 4**
 
-|  | PRÜFFÄLLE |  |  | 10 |
-|---|---|---|---|---|
-| 2.1 |  | Prüffälle | Dokumentation | 10 |
-|  | 2.1.1 | Prüffall | 1111 | 10 |
-|  | 2.1.2 | Prüffall | 1112 | 12 |
-| 2.2 | Prüffall |  | Systemreaktion | 14 |
-|  | 2.2.1 | Prüffall | 1114 | 14 |
-| 2.3 | Weitere | Prüffälle | zum Anforderungskatalog | 18 |
-|  | 2.3.1 | Prüffall | 1130 | 18 |
-|  | 2.3.2 | Prüffall | 1140 | 19 |
+1.1 Rechtsgrundlage 4  1.2 Zertifizierungsablauf 4  1.3 Zertifizierungsportal 5  1.4 Zertifizierungsdokumente 5  1.5 Prüfunterlagen 5  1.6 Prüfvorgaben 7  Schnittstellenversionen1.6.1 7  Datumseingaben 1.6.27  1.6.3 Prüfstammdaten 7  Versichertendaten 1.6.47  1.6.5 Praxisdaten/ Arztstempel 8  1.6.6 Krankenhausdaten 8  Prüfnummer 1.6.78  1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9  1.6.9 Auflistung der Prüffälle 9
+
+**PRÜFFÄLLE 10**
+
+2.1 Prüffälle Dokumentation10  2.1.1 Prüffall 1111 10  Prüffall 1112 2.1.212  2.2 Prüffall Systemreaktion 14  Prüffall 1114 2.2.114  2.3 Weitere Prüffälle zum Anforderungskatalog 18  2.3.1 Prüffall 1130 18  Prüffall 1140 2.3.219
 
 **TESTDATENVALIDIERUNG** **20**
 
-|  | ANHANG |  | 21 |
+|  | **ANHANG** |  | **21** |
 |---|---|---|---|
 | 4.1 | Prüffall | 10 – Ersatzverfahren | 21 |
 
 **REFERENZIERTE DOKUMENTE 22**
 
-Seite 2 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene /
-
-Version: 1.00 / 31. März 2026
-
-Praxisdaten/ Arztstempel Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle Prüffälle Dokumentation Prüffall 1111 Prüffall 1112 Prüffall Systemreaktion Prüffall 1114 Weitere Prüffälle zum Anforderungskatalog Prüffall 1130 Prüffall 1140 Prüffall 10 – Ersatzverfahren
+Prüffall 10 / 31. März 2026
 
 
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 6  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen 6  Abbildung 3: Testdatenvalidierung 20  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 20
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
-## DOKUMENTENHISTORIE
+DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 31.03.2026 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
-Seite 3 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+6  6  20  20
 
 
 ---
@@ -92,26 +66,24 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1 RECHTSGRUNDLAGE**
+**1.1** **RECHTSGRUNDLAGE**
 
 Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
-**1.2 ZERTIFIZIERUNGSABLAUF**
+**1.2** **ZERTIFIZIERUNGSABLAUF**
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
 **HINWEIS**
 
-Seite 4 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
 
-**1.3 ZERTIFIZIERUNGSPORTAL**
+**1.3** **ZERTIFIZIERUNGSPORTAL**
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -131,70 +103,86 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-**1.4 ZERTIFIZIERUNGSDOKUMENTE**
+**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
 
-**1.5 PRÜFUNTERLAGEN**
+**1.5** **PRÜFUNTERLAGEN**
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-› **ADERW-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
-
-Seite 5 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+**ADERW-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
 
 
 ---
 
-› **Videodateien /**  Videomitschnitte **oder Screenshots** **ausgewählter Anforderungenund**   **Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 1140) müssen in  einem gesonderten Ordner „ Dokumentation “ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  **·** PrüffallNr. 1_[lfdNr.] 2.3 .*  **·** Teilnahmeerklärung (Prüffall 1140): TE_EWE_ADERW.pdf
+### Videodateien
 
-**1 Nummer des Prüffalls**  **2 Laufende Nr.**  **3 Gängiges Bild- bzw. Videoformat**
+### Videomitschnitte
 
-› Alle Prüfunterlagen (ADERW-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die ADERW-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  **·** Zert_111_SystemID.zip
+### oder Screenshots
+
+### ausgewählter Anforderungenund
+
+### Teilnahmeerklärung
+
+Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 1140) müssen in  einem gesonderten Ordner „
+
+### Dokumentation
+
+“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  12.3 PrüffallNr. _[lfdNr.] .*  Teilnahmeerklärung (Prüffall 1140): TE_EWE_ADERW.pdf   Alle Prüfunterlagen (ADERW-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die ADERW-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  Zert_111_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige  Umsetzung von Adipositas - Erwachsene) dargestellt.
 
-Name                  Typ  Zert_111_SystemID.zip             ZIP-komprimierter Ordner  391234511_20261031101010_1_ADERW_100.zip.XKM   XKM-Datei  Dokumentation              Dateiordner    391234511_20261031101010_1_ADERW_100.idx  IDX-Datei    391234511_2026 1031101010_1_ADERW_100.idx.XKM XKM-Datei   856215715_2026 1031101010_1_ADERW_100.idx  IDX-Datei    856215715_2026 1031101010_1_ADERW_100.idx.XKM XKM-Datei   Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+Name                  Typ  Zert_111_SystemID.zip             ZIP-komprimierter Ordner  391234511_20261031101010_1_ADERW_100.zip.XKM   XKM-Datei  Dokumentation             Dateiordner    391234511_20261031101010_1_ADERW_100.idx  IDX-Datei    391234511_2026 1031101010_1_ADERW_100.idx.XKM XKM-Datei   856215715_2026 1031101010_1_ADERW_100.idx  IDX-Datei    856215715_2026 1031101010_1_ADERW_100.idx.XKM XKM-Datei   Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-Name               Typ  391234511_20261031101010_1_ADERW_100.zip.XKM XKM-Datei  Adipositas_Erwachsene         Dateiordner    Dokumentation          Dateiordner    391234511_1111_20261015.EEADERW  EEADERW-Datei    391234511_1111_20261030.EVADERW  EVADERW-Datei   Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
+Name               Typ  391234511_20261031101010_1_ADERW_100.zip.XKM XKM-Datei  Adipositas_Erwachsene         Dateiordner    Dokumentation          Dateiordner    391234511_1111_20261015.EEADERW  EEADERW-Datei    391234511_1111_20261030.EVADERW  EVADERW-Datei    Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
 
-________________
-
-Seite 6 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+________________  **1 Nummer des Prüffalls**  **2 Laufende Nr.**  **3 Gängiges Bild bzw. Videoformat**
 
 
 ---
 
-**1.6 PRÜFVORGABEN**
+**1.6** **PRÜFVORGABEN**
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-**1.6.1 Schnittstellenversionen**
+**1.6.1** **Schnittstellenversionen**
 
-› Indikation Adipositas **- Erwachsene:**  Ab dem 01.10.2026 muss die Schnittstellenversion 1.00 verwendet werden.
+Indikation **Adipositas - Erwachsene:**  Ab dem **01.10.2026** muss die Schnittstellenversion **1.00** verwendet werden.
 
-**1.6.2 Datumseingaben**
+**1.6.2** **Datumseingaben**
 
-› **Gültigkeitsdatum: Das „letzte Datum“, ab dem alle in diesem Prüfpaket verwendeten** Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.10.2026).   › **Erstdokumentationsdatum: Das Datum der Erstellung der Erstdokumentation ist** jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum ist der 15.10.2024.  **Ausnahme:**  **·** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum ( auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.   **Folgedokumentationsdatum: Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats**  sechs Monate nach dem Erstdokumentationsdatum.   › **Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,**  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.   › **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen: Alle Datumsangaben aus der**  Erstlieferung bleiben unverändert.
+**Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der   **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** **Ausnahme** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.   **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum  **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.  **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:**  Erstlieferung bleiben unverändert.
 
-**1.6.3 Prüfstammdaten**
+**1.6.3** **Prüfstammdaten**
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
-**1.6.4 Versichertendaten**
+**1.6.4** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML- Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
 
-› EF.VD = allgemeine Versicherungsdaten  › EF.PD = persönliche Versichertendaten  › EF.GVD = geschützte Versichertendaten
+EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
 
-Seite 7 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+Schnittstellen  **01.10.2026**
+
+jeweils der 15. des
+
+ist der **15.10.2024**
+
+liegen würde, dann ist das
+
+Alle Datumsangaben aus der
+
+erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 
 ---
 
-**1.6.5 Praxisdaten/ Arztstempel**
+**1.6.5** **Praxisdaten/ Arztstempel**
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -210,9 +198,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-**1.6.6 Krankenhausdaten**
+**1.6.6** **Krankenhausdaten**
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen- tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken- haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu- reichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen - tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken - haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu - reichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -224,22 +212,20 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-**1.6.7 Prüfnummer**
+**1.6.7** **Prüfnummer**
 
 Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
-› ADERW = X/111/2610/36/000
-
-Seite 8 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+ADERW = X/111/2610/36/000
 
 
 ---
 
-**1.6.8  Stammdatei der Datenannahmestellen (SDDA)**
+**1.6.8** ** Stammdatei der Datenannahmestellen (SDDA)**
 
 Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger Empfänger  gewählt werden.
 
-**1.6.9 Auflistung der Prüffälle**
+**1.6.9** **Auflistung der Prüffälle**
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -249,11 +235,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 1112 | Peter Pan | XML_13 |
 | 1140 | Lija Malta | XML_36 |
 
-Seite 9 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026 -ID
+-ID
 
 ---
 
-### PRÜFFÄLLE
+PRÜFFÄLLE
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -284,9 +270,7 @@ Seite 9 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 
 | Einzureichende Prüfunterlagen | › |
 | Hinweis | › |
 
-Seite 10 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und speichern. Erwachsene Erwachsene Informationsangebote der Krankenkasse
+Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) Informationsangebote der Krankenkasse  einlesen und speichern. Erwachsene Erwachsene
 
 ---
 
@@ -299,7 +283,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  |  |  |
 |  | Manifester Diabetes mellitus Typ 2 |  |
 |  | Beendigung der DMP |  |
-|  |  | INDIKATIONSPEZIFISCHE |
+|  |  | DATEN |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -309,9 +293,9 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  | | |
 |  |  |  |
 |  |  |  |
-| Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
+|  | 15.mm.jjjj | 15.mm.jjjj |
 
-| INDIKATIONSPEZIFISCHE | | |
+| DATEN | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Therapeutische Maßnahmen | | |
@@ -322,7 +306,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart |  |
 | Ziele zur Ernährungsumstellung oder zur |  | Keine Ziele vereinbart |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
-| Prädiabetes bei Einschreibung | Nein | Nein |
+|  | Nein | Nein |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja | Nein |
@@ -331,28 +315,26 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Manifester Diabetes mellitus Typ 2 |  |  |
 | Beendigung der DMP |  | Nein |
 
-Seite 11 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-DATEN Erstdokumentation Folgedokumentation Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele vereinbart Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Keine Ziele vereinbart  oder überprüft Regelmäßige körperliche Alltagsaktivität Ja Nein Regelmäßiges körperliches Training Nein Ja Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele vereinbart  Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Keine Ziele vereinbart oder überprüft Adäquat geändertes Ernährungsverhalten Ja Nein Prädiabetes bei Einschreibung Nein Nein Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Ja Dokumentation) Ja Nein Ja Relevante Ereignisse seit der letzten Dokumentation -Teilnahme Nein
+Datum der Erstellung (Behandlungsdatum) INDIKATIONSPEZIFISCHE Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation -Teilnahme Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein
 
 
 ---
 
-**2.1.2 Prüffall 1112**
+**2.1.2** **Prüffall 1112**
 
 |  |  |
 |---|---|
 | Prüffall-ID | 1112 |
-| Testziel | › |
+| Testziel |  |
 | Voraussetzung | › |
-| Prüfunterlagen | › |
+| Prüfunterlagen | - Erwachsene |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten**  Die Versichertendaten von Peter Pan (XML_13) einlesen und speichern.  Daten“).
+**1.** **Versichertendaten**  einlesen und speichern. Die Versichertendaten von **Peter Pan (XML_13)** Daten“).
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+|  | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Administrative Daten | | |
@@ -373,9 +355,8 @@ DATEN Erstdokumentation Folgedokumentation Therapeutische Maßnahmen Ziele zur r
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Seite 12 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas Dokumentationsunterlagen INDIKATIONSÜBERGREIFENDE DATEN Erwachsene Erwachsene Informationsangebote der Krankenkasse
 
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen Erwachsene Erwachsene Informationsangebote der Krankenkasse
 
 ---
 
@@ -392,20 +373,18 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
 | Prädiabetes bei Einschreibung | Ja | Ja |
 | Schulung | | |
-| Bereits vor Einschreibung in das DMP an einer | Ja |  |
+| Bereits vor Einschreibung in das DMP an einer Ja |  |  |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Adipositas-Schulung wahrgenommen |  | Ja |
 | Relevante Ereignisse seit der letzten Dokumentation | | |
 | Manifester Diabetes mellitus Typ 2 |  | Ja |
 | Beendigung der DMP |  | Nein |
 
-Seite 13 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem Training seit überprüft Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung überprüft multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme
+Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem Training seit Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme überprüft überprüft
 
 ---
 
-**2.2 PRÜFFALL SYSTEMREAKTION**
+**2.2** **PRÜFFALL SYSTEMREAKTION**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -442,9 +421,7 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 
 **2.**
 
-Seite 14 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 1114 Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation 2) Patienten Erkrankungen
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 1114 Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation 2) Patienten Erkrankungen
 
 ---
 
@@ -466,12 +443,10 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 |  |  |  |
 |  | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
-| Dokumentationsintervall | Quartalsweise |  |
+|  | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-Seite 15 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele vereinbart Regelmäßige körperliche Alltagsaktivität Ziele vereinbart  Nr. 2 Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Nr. 3 Adäquat geändertes Ernährungsverhalten Keto Nr. 4 Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Unbekannt Nr. 5 Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Nr. 6 Beendigung der DMP -Teilnahme Nr. 7 Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.| INDIKATIONSSPEZIFISCHE DATEN | | |
+|  | | |
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Therapeutische Maßnahmen | | |
@@ -480,18 +455,19 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele zur regelmäßigen
 | Regelmäßiges körperliches Training | Ja |  |
 | Ziele zur Ernährungsumstellung oder zur | Nein | Nr. 3 |
 | Adäquat geändertes Ernährungsverhalten | Keto | Nr. 4 |
-| Prädiabetes bei Einschreibung | Ja |  |
+|  | Ja |  |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Unbekannt | Nr. 5 |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja |  |
 | Relevante Ereignisse seit der letzten Dokumentation | | |
-| Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
+|  | Nein | Nr. 6 |
 | Beendigung der DMP | Ja | Nr. 7 |
 
+der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Ziele vereinbart Ziele vereinbart  Keto Unbekannt Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
 
 ---
 
-**4. Anlegen einer Folgedokumentation**
+**4.** **Anlegen einer Folgedokumentation**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -499,9 +475,9 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele zur regelmäßigen
 | Administrative Daten | | |
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
+|  |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
-| Einschreibung wegen | Adipositas - Erwachsene |  |
+| Einschreibung wegen |  |  |
 | Geschlecht | Je nach Auswahl des |  |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,88 m |  |
@@ -510,9 +486,9 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele zur regelmäßigen
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische Herzinsuffizienz, |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote | Tabakverzicht, Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote | Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
+| 2) | 15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -533,9 +509,7 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele zur regelmäßigen
 |  | Einschreibung wegen |  |
 |  | Geschlecht |  |
 
-Seite 16 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-2) Asthma bronchiale der Krankenkasse Ernährungsberatung, 2) und körperlichem Training und körperlichem Training seit der letzten Dokumentation
+Dokumentation in Vertretung erstellt der Krankenkasse Adipositas - Erwachsene Asthma bronchiale Tabakverzicht, Ernährungsberatung, und körperlichem Training und körperlichem Training seit der letzten Dokumentation
 
 ---
 
@@ -558,15 +532,13 @@ Seite 16 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00
 | Beendigung der DMP | Nein |  |
 |  |  |  |
 
-Seite 17 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-Aufrechterhaltung der Ernährungsänderung seit der überprüft multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme
+Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme überprüft
 
 ---
 
-**2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
+**2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
 
-**2.3.1 Prüffall 1130**
+**2.3.1** **Prüffall 1130**
 
 |  |  |
 |---|---|
@@ -581,19 +553,18 @@ Aufrechterhaltung der Ernährungsänderung seit der überprüft multimodalen Adi
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Es wird eine Folgedokumentation |
+| Anforderung P1 |
 | Szenario 2 |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Mit diesem Szenario soll die korrekte Umsetzung der Anforderung KP1 |
+| Zeigen Sie die Systemreaktion.  Anforderung KP1 |
 | Szenario 3 |
-| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche 1. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die 2. Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. 3. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. 4. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. Mit diesem Szenario soll die korrekte Umsetzung der Anforderung KP2 |
+| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche 1.  3. 4. Anforderung KP2 |
 
-Seite 18 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Dieser Testfall ist unterteilt in  drei Szenarien -50  (siehe Es wird eine Folgedokumentation  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. -24  (siehe Mit diesem Szenario soll die korrekte Umsetzung der KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die 2. Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. -510  (siehe Mit diesem Szenario soll die korrekte Umsetzung der KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden.
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Dieser Testfall ist unterteilt in  drei Szenarien  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 -50 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. -24 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. -510 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden.
 
 ---
 
-**2.3.2 Prüffall 1140**
+**2.3.2** **Prüffall 1140**
 
 |  | |
 |---|---|
@@ -605,41 +576,50 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1. Versichertendaten**  Die Versichertendaten von Lija Malta (XML_36) einlesen und speichern.   **2. Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle) gemäß Kapitel 3 des**  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+**1.** **Versichertendaten**  Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.   **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
 | Administrative Daten |  |
 | DMP | Adipositas - Erwachsene |
-| DMP-Fallnummer | 1112 |
+| DMP-Fallnummer | 1.112 |
 | Datum | 15.10.2026 |
 
-Seite 19 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
 eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+
 
 ---
 
 ## TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „ Test _111“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „
 
-Name                  Typ  **Test_111 _SystemID.zip**             ZIP-komprimierter Ordner  391234511_20261031101010_1_ADERW_100.zip.XKM   XKM-Datei  Dokumentation              Dateiordner    391234511_20261031101010_1_ADERW_100.idx  IDX-Datei    391234511_20261031101010_1_ADERW_100.idx.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+### Test
 
-Seite 20 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+_111“ beginnen muss, sonst schlägt die Validierung fehl.
+
+Name                **Test_111**_SystemID.zip           391234511_20261031101010_1_ADERW_100.zip.XKM  Dokumentation             391234511_20261031101010_1_ADERW_100.idx    391234511_20261031101010_1_ADERW_100.idx.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+-Dokumentation das Ergebnis ist, können
+
+findet nicht statt,
+
+-Archives. Beachten Sie, dass der Dateinamen
+
+Typ    ZIP-komprimierter Ordner   XKM-Datei    Dateiordner  IDX-Datei
 
 
 ---
 
 ## ANHANG
 
-**4.1 PRÜFFALL 10 – ERSATZVERFAHREN**
+**4.1** **PRÜFFALL 10 – ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -664,14 +644,10 @@ Seite 20 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 12 |
 
-Seite 21 von 23 / KBV / Prüfpaket eDMP- Adipositas -
-
-Erwachsene / Version: 1.00 / 31. März 2026
-
 
 ---
 
-### REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -699,9 +675,7 @@ Dezernat Digitalisierung und IT
 
 ________________
 
-Seite 22 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.0 0 / 31. März 2026
-
-Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Schnittstellenbeschreibung eDMP Adipositas - Erwachsene Schnittstellenbeschreibung Vertragsärztlichen Versorgung Adipositas - Erwachsene regulären KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei)
+Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Schnittstellenbeschreibung eDMP Adipositas - Erwachsene Schnittstellenbeschreibung Vertragsärztlichen Versorgung Adipositas - Erwachsene regulären KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei) 0 / 31. März 2026
 
 
 ---
@@ -709,7 +683,3 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokum
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-Seite 23 von 23 / KBV / Prüfpaket eDMP- Adipositas -
-
-Erwachsene / Version: 1.00 / 31. März 2026

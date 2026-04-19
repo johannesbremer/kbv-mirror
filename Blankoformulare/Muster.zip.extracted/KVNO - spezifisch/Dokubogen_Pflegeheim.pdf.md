@@ -12,7 +12,9 @@ Mobil
 
 E-Mail
 
-BSNR/LANR **Zahnarzt**  Vor-/Nachname
+BSNR/LANR **Zahnarzt**
+
+Vor-/Nachname
 
 Straße, Nr.
 
@@ -94,27 +96,23 @@ Mobil
 
 E-Mail
 
-**Anhang 1: Dokumentationsbogen zur**  **besonderen Förderung der**  **Pflegeheimversorgung** Pflegegrad Grad der Behinderung Medikation: Gesamtanzahl der  Wirkstoffe Liegt eine Patientenverfügung vor?
+Körperschaft des öffentlichen Rechts **Anhang 1: Dokumentationsbogen zur**  **besonderen Förderung der**  **Pflegeheimversorgung**
 
-Geriatrisches Assessment  durchgeführt? Wann? Datum letzte Zahnuntersuchung: Heil-/Hilfsmittel benötigt? Welche?
+Pflegegrad Grad der Behinderung Medikation: Gesamtanzahl der  Wirkstoffe Liegt eine Patientenverfügung vor?
+
+Geriatrisches Assessment  durchgeführt? Wann? Datum letzte Zahnuntersuchung: Heil-/Hilfsmittel benötigt?
+
+Welche?
 
 Impfstatus überprüft Grippeschutz vorhanden?
 
-Körperschaft des öffentlichen Rechts
+**123**[ ][ ]
 
-**123 4** 5[ ][ ][ ][ ][ ] Merkzeichenin %
+in %
 
-Anzahl
+**J**[ ]
 
-**JN**[ ][ ]
-
-**JN** [ ][ ]
-
-**JN**[ ][ ]
-
-**NJ**[ ][ ] Impfungen erforderlich. **JN**[ ][ ]
-
-**gesetzlicher Betreuer**  **JANEIN**[ ][ ] Vor-/Nachname
+**gesetzlicher Betreuer**  **JA**[ ] Vor-/Nachname
 
 Straße, Nr.
 
@@ -122,7 +120,7 @@ PLZ Ort
 
 Telefon
 
-Mobil **Angehörige** **JANEIN**[ ][ ] Vor-/Nachname
+Mobil **Angehörige** **JA**[ ] Vor-/Nachname
 
 Straße, Nr.
 
@@ -147,3 +145,37 @@ Telefon
 Mobil
 
 E-Mail
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+**4**[ ] Merkzeichen
+
+Anzahl
+
+**JN**[ ]
+
+**JN** [ ]
+
+**JN**[ ]
+
+**N** Impfungen erforderlich. **JN**[ ]
+
+**NEIN**
+
+**NEIN**
+
+**5**[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]

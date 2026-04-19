@@ -1,68 +1,206 @@
 ## TOP 20 Systeme - Lungenärzte
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG
+2.80
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG
+1.12
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG
+2.52
 
-216 **x.isynet**medatixx GmbH & Co. KG
+2.16
 
-243 **x.concept**medatixx GmbH & Co. KG
+2.43
 
-203 **ALBIS**CompuGroup Medical Deutschland AG
+2.03
 
-254 **ORBIS®**Dedalus HealthCare GmbH
+2.54
 
-244 **QUINCY WIN**Frey ADV GmbH 457 **tomedo**Zollsoft GmbH
+2.44
 
-488 **inSuite**Doc Cirrus GmbH
+4.57
 
-462 **medatixx**medatixx GmbH & Co. KG
+4.88
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 770
+4.62
 
-550
+2.10
 
-431
+**CGM MEDISTAR BLACK PRO**
 
-440
+**TURBOMED**
 
-330
+**CGM M1 PRO**
 
-330
+**x.isynet**
 
-220
+**x.concept**
 
-220
+**ALBIS**
 
-220
+**ORBIS®**
 
-110
+**QUINCY WIN**
 
-110
+**tomedo**
 
-110
+**inSuite**
+
+**medatixx**
+
+**Medical Office**
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+Dedalus HealthCare GmbH
+
+Frey ADV GmbH
+
+Zollsoft GmbH
+
+Doc Cirrus GmbH
+
+medatixx GmbH & Co. KG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1
+
+7
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+2
 
 1
+
+1
+
+1
+
+7
+
+5
+
+3
+
+4
+
+3
+
+3
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-266 **x.comfort**medatixx GmbH & Co. KG110
+2.66
 
-030 **Praxis-Programm**MediSoftware Computersysteme für Ärzte 110
+0.30
 
-023 **DATA VITAL**CompuGroup Medical Deutschland AG110
+0.23
 
-261 **S3-Win**S3 Praxiscomputer GmbH / Maximilian Flender 110 2
+2.61
+
+**x.comfort**
+
+**Praxis-Programm**
+
+**DATA VITAL**
+
+**S3-Win**
+
+medatixx GmbH & Co. KG
+
+MediSoftware Computersysteme für Ärzte
+
+CompuGroup Medical Deutschland AG
+
+S3 Praxiscomputer GmbH / Maximilian Flender 2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0

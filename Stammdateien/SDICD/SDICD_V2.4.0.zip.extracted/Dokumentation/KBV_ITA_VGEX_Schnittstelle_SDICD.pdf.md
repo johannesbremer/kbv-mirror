@@ -7,103 +7,79 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2021  VERSION: 2.4.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG SDICD
+# SCHNITTSTELLENBESCHREIBUNG SDICD  (ICD-10-GM-STAMMDATEI)
 
-# (ICD-10-GM-STAMMDATEI)
-
-## [KBV_ITA_VGEX_SCHNITTSTELLE_]
-
-## SDICD
-
-Seite 1 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+## [KBV_ITA_VGEX_SCHNITTSTELLE_]SDICD
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+
 
 ---
 
 ## INHALT
 
-**2 EINLEITUNG 8**
+**2** **EINLEITUNG 8**
 
-| 3 |  | KONVENTIONEN |  |  | 8 |
-|---|---|---|---|---|---|
-|  |  | Zeichensatz |  |  | 8 |
-|  |  | Namenspace |  |  | 8 |
-|  |  | Root-Schema |  |  | 8 |
-|  |  | Dateinamen |  |  | 8 |
-|  | Semantik | der | verwendeten | Diagramm-Symbole | 10 |
-|  |  | Kardinalität | |  | 10 |
-|  |  |  | Strukturelemente |  | 10 |
-|  |  | Sonstige | Symbole |  | 11 |
+**3** **KONVENTIONEN 8**
 
-**4 EHD-ELEMENT (ROOT-ELEMENT) 12**
+Zeichensatz 8  Namenspace 8  Root-Schema 8  Dateinamen 8  Semantik der verwendeten Diagramm-Symbole 10  Kardinalität 10  Strukturelemente 10  Sonstige Symbole 11
 
-**5 HEADER (METADATEN) 13**
+**4** **EHD-ELEMENT (ROOT-ELEMENT) 12**
 
-**6 BODY (INHALTSDATEN) 13**
+**5** **HEADER (METADATEN) 13**
+
+**6** **BODY (INHALTSDATEN) 13**
 
 icd_stammdaten 13  kapitel_liste 13  Kapitel 14  nummer 15  von_icd_code 15  bis_icd_code 16  bezeichnung 16  gruppen_liste 16  gruppe 17  von_icd_code 17  bis_icd_code 17  bezeichnung 17  diagnosen_liste 18  diagnosen 18  diagnosethesaurus_liste 21  diagnosethesaurus 22  arztgruppe_list 22  arztgruppe 23  verschluesselungsanleitung_liste 24  verschluesselungsanleitung_ref 24  icd_code 25  bezeichnung 25  abrechenbar 26  notationskennzeichen 26  geschlechtsbezug 27  geschlechtsbezug_fehlerart 28  untere_altergrenze 28  obere_altersgrenze 29  altersbezug_fehlerart 30  krankheit_in_mitteleuropa_sehr_selten 31
-
-Seite 2 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-
-
-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
-Semantik der verwendeten Diagramm-Symbole Sonstige Symbole
 
 
 ---
 
-schlüsselnummer_mit_inhalt_belegt 31  infektionsschutzgesetz_meldepflicht 32  infektionsschutzgesetz_abrechnungsbesonderheiten 32  keine_dauerdiagnose 33
+31  schlüsselnummer_mit_inhalt_belegt  32  infektionsschutzgesetz_meldepflicht  infektionsschutzgesetz_abrechnungsbesonderheiten 32  33  keine_dauerdiagnose
 
-**7 REFERENZIERTE DOKUMENTE 34**
-
-Seite 3 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) /
-
-Version: 2.4.0 / 15. November 2021
+**347** **REFERENZIERTE DOKUMENTE**
 
 
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: /EHD (ROOT-ELEMENT) ............................................................................................................................ 12  ABBILDUNG 2: ICD_STAMMDATEI .................................................................................................................................... 13  ABBILDUNG 3: KAPITEL_LISTE ........................................................................................................................................... 13  ABBILDUNG 4: KAPITEL ..................................................................................................................................................... 14  ABBILDUNG 5: NUMMER .................................................................................................................................................. 15  ABBILDUNG 6: VON_ICD_CODE ........................................................................................................................................ 15  ABBILDUNG 7: BIS_ICD_CODE .......................................................................................................................................... 16  ABBILDUNG 8: GRUPPEN_LISTE ........................................................................................................................................ 16  ABBILDUNG 9: GRUPPE ..................................................................................................................................................... 17  ABBILDUNG 10: DIAGNOSE_LISTE .................................................................................................................................... 18  ABBILDUNG 11: DIAGNOSE PRINZIPIELLER AUFBAU ........................................................................................................ 19  ABBILDUNG 12: DIAGNOSE OPTIONALE ELEMENTE ......................................................................................................... 20  ABBILDUNG 13: DIAGNOSETHESAURUS_LISTE ................................................................................................................. 21  ABBILDUNG 14: DIAGNOSETHESAURUS ........................................................................................................................... 22  ABBILDUNG 15: ARZTGRUPPEN_LISTE ............................................................................................................................. 22  ABBILDUNG 16: ARZTGRUPPE .......................................................................................................................................... 23  ABBILDUNG 17: VERSCHLUESSELUNGSANLEITUNG_LISTE ............................................................................................... 24  ABBILDUNG 18: VERSCHLUESSELUNGSANLEITUNG_REF ................................................................................................. 25  ABBILDUNG 17: ICD_CODE ............................................................................................................................................... 25  ABBILDUNG 18: BEZEICHNUNG ........................................................................................................................................ 25  ABBILDUNG 19: ABRECHENBAR ........................................................................................................................................ 26  ABBILDUNG 20: NOTATIONSKENNZEICHEN ..................................................................................................................... 27  ABBILDUNG 21: GESCHLECHTSBEZUG .............................................................................................................................. 27  ABBILDUNG 22: GESCHLECHTSBEZUG_FEHLERART .......................................................................................................... 28  ABBILDUNG 23: UNTERE_ALTERSGRENZE ........................................................................................................................ 29  ABBILDUNG 24: OBERE_ALTERSGRENZE .......................................................................................................................... 29  ABBILDUNG 25: ALTERSBEZUG_FEHLERART ..................................................................................................................... 30  ABBILDUNG 26: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN .................................................................................... 31  ABBILDUNG 27: SCHLÜSSELNUMMER_MIT_INHALT_BELEGT .......................................................................................... 31  ABBILDUNG 28: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT ......................................................................................... 32  ABBILDUNG 29: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ................................................................ 33  ABBILDUNG 30: KEINE_DAUERDIAGNOSE ........................................................................................................................ 33
+ABBILDUNG 1: /EHD (ROOT-ELEMENT) ............................................................................................................................ 12 ABBILDUNG 2 ICD_STAMMDATEI .................................................................................................................................... 13 ABBILDUNG 3: KAPITEL_LISTE ........................................................................................................................................... 13 ABBILDUNG 4: KAPITEL ..................................................................................................................................................... 14 ABBILDUNG 5: NUMMER .................................................................................................................................................. 15 ABBILDUNG 6: VON_ICD_CODE ........................................................................................................................................ 15 ABBILDUNG 7: BIS_ICD_CODE .......................................................................................................................................... 16 ABBILDUNG 8: GRUPPEN_LISTE ........................................................................................................................................ 16 ABBILDUNG 9: GRUPPE ..................................................................................................................................................... 17 ABBILDUNG 10: DIAGNOSE_LISTE .................................................................................................................................... 18 ABBILDUNG 11: DIAGNOSE PRINZIPIELLER AUFBAU ........................................................................................................ 19 ABBILDUNG 12: DIAGNOSE OPTIONALE ELEMENTE ......................................................................................................... 20 ABBILDUNG 13: DIAGNOSETHESAURUS_LISTE ................................................................................................................. 21 ABBILDUNG 14: DIAGNOSETHESAURUS ........................................................................................................................... 22 ABBILDUNG 15: ARZTGRUPPEN_LISTE ............................................................................................................................. 22 ABBILDUNG 16: ARZTGRUPPE .......................................................................................................................................... 23 ABBILDUNG 17: VERSCHLUESSELUNGSANLEITUNG_LISTE  ABBILDUNG 18: VERSCHLUESSELUNGSANLEITUNG_REF .................................................................................................  ABBILDUNG 17: ICD_CODE ............................................................................................................................................... 25 ABBILDUNG 18: BEZEICHNUNG ........................................................................................................................................ 25 ABBILDUNG 19: ABRECHENBAR ........................................................................................................................................ 26 ABBILDUNG 20: NOTATIONSKENNZEICHEN ..................................................................................................................... 27 ABBILDUNG 21: GESCHLECHTSBEZUG .............................................................................................................................. 27 ABBILDUNG 22: GESCHLECHTSBEZUG_FEHLERART .......................................................................................................... 28 ABBILDUNG 23: UNTERE_ALTERSGRENZE ........................................................................................................................ 29 ABBILDUNG 24: OBERE_ALTERSGRENZE .......................................................................................................................... 29 ABBILDUNG 25: ALTERSBEZUG_FEHLERART ..................................................................................................................... 30 ABBILDUNG 26: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN  ABBILDUNG 27: SCHLÜSSELNUMMER_MIT_INHALT_BELEGT  ABBILDUNG 28: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT .........................................................................................  ABBILDUNG 29: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT  ABBILDUNG 30: KEINE_DAUERDIAGNOSE ........................................................................................................................ 33
 
-Seite 4 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+............................................................................................... 24  25
+
+.................................................................................... 31  .......................................................................................... 31  32  ................................................................ 33
 
 
 ---
 
 ## TABELLENVERZEICHNIS
 
-TABELLE 1: BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS ................................................................................ 9  TABELLE 2: BESCHREIBUNG DER KARDINALITÄTEN .......................................................................................................... 10  TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ..................................................................................... 10  TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICHNUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN. DIE WERTE ENTSPRECHEN  SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (OID: 1.2.276.0.76.5.115), VGL. TABELLE  5. DAS ELEMENT IST NICHT OPTIONAL. ................................................................................................................... 23  TABELLE 6: AUSWAHL DER MÖGLICHEN AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ARZTGRUPPE> ................ 24  TABELLE 7: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ABRECHENBAR> ........................................................... 26  TABELLE 8: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <NOTATIONSKENNZEICHEN> ......................................... 27  TABELLE 9: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <GESCHLECHTSBEZUG> .................................................. 28  TABELLE 10: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <GESCHLECHTSBEZUG_FEHLERART> ........................... 28  TABELLE 11: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <UNTERE_ALTERSGRENZE> .......................................... 29  TABELLE 12: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <OBERE_ALTERSGRENZE> ............................................ 30  TABELLE 13: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ALTERSBEZUG_FEHLERART> ...................................... 30  TABELLE 14: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN> ...... 31  TABELLE 15: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <SCHLÜSSELNUMMER_MIT_INHALT_BELEGT> ........... 32  TABELLE 16: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT> ........... 32  TABELLE 17: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ..................................................................... 33  TABELLE 18: KEINE_DAUERDIAGNOSE ............................................................................................................................. 33
+TABELLE 1: BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS ................................................................................ 9  TABELLE 2: BESCHREIBUNG DER KARDINALITÄTEN .......................................................................................................... 10  TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ..................................................................................... 10  TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZT SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (O 5. DAS ELEMENT IST NICHT OPTIONAL. ................................................................................................................... 23
+
+GRUPPENTHESAURUS VORHANDEN.  NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN  ID: 1.2.276.0.76.5.115), VGL. TABELLE   TABELLE 6: AUSWAHL DER MÖGLICHEN AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ARZTGRUPPE> ................ 24  TABELLE 7: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ABRECHENBAR> ........................................................... 26  TABELLE 8: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <NOTATIONSKENNZEICHEN> ......................................... 27  TABELLE 9: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <GESCHLECHTSBEZUG> .................................................. 28  TABELLE 10: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <GESCHLECHTSBEZUG_FEHLERART> ........................... 28  TABELLE 11: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <UNTERE_ALTERSGRENZE> .......................................... 29  TABELLE 12: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <OBERE_ALTERSGRENZE> ............................................ 30  TABELLE 13: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ALTERSBEZUG_FEHLERART> ...................................... 30  TABELLE 14: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN> ...... 31  TABELLE 15: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <SCHLÜSSELNUMMER_MIT_INHALT_BELEGT> ........... 32  TABELLE 16: AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT> ........... 32  TABELLE 17: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ..................................................................... 33  TABELLE 18: KEINE_DAUERDIAGNOSE ............................................................................................................................. 33
 
 ## XML-CODE VERZEICHNIS
 
-FORMEL 1: XML-CODE /EHD ............................................................................................................................................. 12  FORMEL 2: XML-CODE: ICD_STAMMDATEN ..................................................................................................................... 13  FORMEL 3: XML-CODE: KAPITEL_LISTE ............................................................................................................................. 14  FORMEL 4: XML-CODE: KAPITEL ....................................................................................................................................... 14  FORMEL 5: XML-CODE: NUMMER .................................................................................................................................... 15  FORMEL 6: XML-CODE: VON_ICD_CODE .......................................................................................................................... 15  FORMEL 7: XML-CODE: BIS_ICD_CODE ............................................................................................................................ 16  FORMEL 8: XML-CODE: GRUPPEN_LISTE .......................................................................................................................... 16  FORMEL 9: XML-CODE: GRUPPE ....................................................................................................................................... 17  FORMEL 10: XML-CODE: DIAGNOSE_LISTE ....................................................................................................................... 18  FORMEL 11: XML-CODE: DIAGNOSE ................................................................................................................................. 21  FORMEL 12: XML-CODE: DIAGNOSETHESAURUS_LISTE ................................................................................................... 22  FORMEL 13: XML-CODE: DIAGNOSETHESAURUS ............................................................................................................. 22  FORMEL 14: XML-CODE: ARZTGRUPPEN_LISTE ................................................................................................................ 23  FORMEL 15: XML-CODE: ARZTGRUPPE ............................................................................................................................. 23  FORMEL 16: XML-CODE: VERSCHLUESSELUNGSANLEITUNG _LISTE ................................................................................ 24  FORMEL 17: XML-CODE: VERSCHLUESSELUNGSANLEITUNG_REF .................................................................................... 25  FORMEL 16: XML-CODE: ICD_CODE ICD_CODE ................................................................................................................ 25  FORMEL 17: ML-CODE: BEZEICHNUNG............................................................................................................................. 26  FORMEL 18: XML-CODE: ABRECHENBAR .......................................................................................................................... 26  FORMEL 19: XML-CODE: NOTATIONSKENNZEICHEN ........................................................................................................ 27  FORMEL 20: XML-CODE GESCHLECHTSBEZUG ................................................................................................................. 27  FORMEL 21: XML-CODE: GESCHLECHTSBEZUG_FEHLERART ............................................................................................ 28  FORMEL 22: XML-CODE: UNTERE_ALTERSGRENZE .......................................................................................................... 29  FORMEL 23: XML-CODE: OBERE_ALTERSGRENZE ............................................................................................................. 30  FORMEL 24: XML-CODE: ALTERSBEZUG_FEHLERART ....................................................................................................... 30  FORMEL 25: XML-CODE: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN ...................................................................... 31
-
-Seite 5 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+FORMEL 1: XML-CODE /EHD ............................................................................................................................................. 12  FORMEL 2: XML-CODE: ICD_STAMMDATEN ..................................................................................................................... 13  FORMEL 3: XML-CODE: KAPITEL_LISTE ............................................................................................................................. 14  FORMEL 4: XML-CODE: KAPITEL ....................................................................................................................................... 14  FORMEL 5: XML-CODE: NUMMER .................................................................................................................................... 15  FORMEL 6: XML-CODE: VON_ICD_CODE .......................................................................................................................... 15  FORMEL 7: XML-CODE: BIS_ICD_CODE ............................................................................................................................ 16  FORMEL 8: XML-CODE: GRUPPEN_LISTE .......................................................................................................................... 16  FORMEL 9: XML-CODE: GRUPPE ....................................................................................................................................... 17  FORMEL 10: XML-CODE: DIAGNOSE_LISTE ....................................................................................................................... 18  FORMEL 11: XML-CODE: DIAGNOSE ................................................................................................................................. 21  FORMEL 12: XML-CODE: DIAGNOSETHESAURUS_LISTE ................................................................................................... 22  FORMEL 13: XML-CODE: DIAGNOSETHESAURUS ............................................................................................................. 22  FORMEL 14: XML-CODE: ARZTGRUPPEN_LISTE ................................................................................................................ 23  FORMEL 15: XML-CODE: ARZTGRUPPE ............................................................................................................................. 23  FORMEL 16: XML-CODE: VERSCHLUESSELUNGSANLEITUNG _LISTE ................................................................................ 24  FORMEL 17: XML-CODE: VERSCHLUESSELUNGSANLEITUNG_REF .................................................................................... 2.5  FORMEL 16: XML-CODE: ICD_CODE ICD_CODE ................................................................................................................ 25  FORMEL 17: ML-CODE: BEZEICHNUNG............................................................................................................................. 26  FORMEL 18: XML-CODE: ABRECHENBAR .......................................................................................................................... 26  FORMEL 19: XML-CODE: NOTATIONSKENNZEICHEN ........................................................................................................ 27  FORMEL 20: XML-CODE GESCHLECHTSBEZUG ................................................................................................................. 27  FORMEL 21: XML-CODE: GESCHLECHTSBEZUG_FEHLERART ............................................................................................ 28  FORMEL 22: XML-CODE: UNTERE_ALTERSGRENZE .......................................................................................................... 29  FORMEL 23: XML-CODE: OBERE_ALTERSGRENZE ............................................................................................................. 30  FORMEL 24: XML-CODE: ALTERSBEZUG_FEHLERART ....................................................................................................... 30  FORMEL 25: XML-CODE: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN ...................................................................... 31
 
 
 ---
 
 FORMEL 26: XML-CODE: SCHLÜSSELNUMMER_MIT_INHALT_BELEGT ............................................................................ 31  FORMEL 27: XML_CODE: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT ........................................................................... 32  FORMEL 28: XML-CODE: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT .................................................. 33  FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................................................................................... 33
 
-Seite 6 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
 
 ---
 
-## 1 DOKUMENTENHISTORIE
+1 DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.4.0 | 15.11.2021 | KBV | Ergänzung der Arztgruppe |  | 23 |
-| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung  Aufnahme der neuen Elemente:  <keine_dauerdiagnose> <verschluesselungsanleitung_liste> <verschluesselungsanleitung_ref>  Die nicht verwendeten Elemente | Neues CD und Anpassungen | Alle   19, 20, 24, 25, 33, 33 |
-| 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11  Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen Einführung einer angleichen- | 18  13, 20 |
+| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung  Aufnahme der neuen Elemente:  <keine_dauerdiagnose>  <verschluesselungsanleitung_ref>  Die nicht verwendeten Elemente | Neues CD und Anpassungen | Alle   19, 20, 24, 25, 33, 33 |
+| 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen Einführung einer angleichen- | 18 13, 20 |
 
-Seite 7 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
-Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen
+Bereitschaftsdienst <verschluesselungsanleitung_liste> <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen
 
 ---
 
@@ -118,12 +94,11 @@ Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokum
 | YYYY | Jahr |
 | nr+ | number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere |
 | du+ | dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals |
-| 2 Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im | |
+| 2 Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. | |
 |  | |
 
-Seite 8 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+EINLEITUNG Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im XML-Format. Das XML-- Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE urn:ehd/icd/001 Standard-Namespace ist ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata icd_root.xsd inkludiert sind, heißt Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen
 
-EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001. ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd. Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen
 
 ---
 
@@ -141,11 +116,7 @@ EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtli
 | BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 | verwendet werden | |
 
-Seite 9 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) /
-
-Version: 2.4.0 / 15. November 2021
-
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: › ICD_01.00_74_tf+2013_nr+1.xml
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: ICD_01.00_74_tf+2013_nr+1.xml
 
 
 ---
@@ -169,19 +140,18 @@ Tabelle 2: Beschreibung der Kardinalitäten
 
 **Strukturelemente**
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** und ***<xs:sequence>***
 
 | BESCHREIBUNG DER STRUKTURELEMENTE-SYMBOLE | |
 |---|---|
 | Symbol | Beschreibung |
-|  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
-|  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
+|  | Das Strukturelement |
+|  | Das Strukturelement |
 
 Tabelle 3: Beschreibung der Strukturelement-Symbole
 
-Seite 10 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen.
 
-dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. ∞ drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -199,9 +169,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Tabelle 4: Beschreibung sonstiger Symbole
 
-Seite 11 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
 ER SYMBOLE Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+
 
 ---
 
@@ -215,18 +184,17 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen E
 
 Abbildung 1: /ehd (root-Element)
 
-Das <ehd> - Element hat folgenden Aufbau:
+- Element hat folgenden Aufbau: Das ***<ehd>***
 
-| <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd:ehd xmlns="urn:ehd/001" xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd:ehd> |
+| xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" <ehd:header> ... </ehd:header> <ehd:body> ... </ehd:body> </ehd:ehd> |
 |---|
 
 Formel 1: XML-Code /ehd
 
-ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.  Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.  Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body ***<header>***  liegenden eigentlichen Inhaltsdaten.   Hier liegen die eigentlichen Inhalte der Datenlieferung. ***<body>***   Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001 “.***
+ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.  Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.  Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body ***<header>*** liegenden eigentlichen Inhaltsdaten.   Hier liegen die eigentlichen Inhalte der Datenlieferung. ***<body>***  Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
-Seite 12 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<?xml version="1.0" encoding="ISO-8859-15"?> <ehd:ehd xmlns="urn:ehd/001" ehd_version="...">
 
-ehd_version="...">
 
 ---
 
@@ -234,25 +202,27 @@ ehd_version="...">
 
 ## HEADER (METADATEN)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
 
 6
 
 ## BODY (INHALTSDATEN)
 
-Das <body > Element beinhaltet alle ICD Stammdaten in einer strukturierten Hierarchie von Kindelementen.  Die Hierarchieebenen der ICD Kodierungen gliedern sich in Kapitel, Gruppe, Diagnose und  Diagnosethesaurus.
+Das ***<body*** Element beinhaltet alle ICD Stammdaten in einer strukturierten Hierarchie von Kindelementen.  Die Hierarchieebenen der ICD Kodierungen gliedern sich in Kapitel, Gruppe, Diagnose und
 
-Der Namensraum ist „urn:ehd/icd/001“.
+Diagnosethesaurus.
+
+Der Namensraum ist ***„urn:ehd/icd/001“***
 
 **ICD_STAMMDATEN**
 
 Das Element <icd_stammdaten> bildet die oberste Ebene der ICD-Stammdaten. Hier befinden sich die  Kapitel der ICD Systematik.
 
-Abbildung 2: icd_stammdatei
+Abbildung 2 icd_stammdatei
 
 Der Coderahmen für das <icd_stammdaten>-Element sieht wie folgt aus:
 
-| <icd_stammdaten>  <kapitel_liste>  ...  </kapitel_liste>  </> |
+| ... |
 |---|
 
 Formel 2: XML-Code: icd_stammdaten
@@ -263,14 +233,14 @@ Das Element <kapitel_liste> umschließt eine Liste von <kapitel> Elementen.
 
 Abbildung 3: kapitel_liste
 
-Seite 13 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<icd_stammdaten> <kapitel_liste> </kapitel_liste> </> icd_stammdaten
 
 
 ---
 
 Der Coderahmen für das <icd_stammdaten>-Element sieht wie folgt aus.
 
-| <kapitel_liste>  <kapitel>  ...  </kapitel>  <kapitel>  ...  </kapitel>  ...  < / kapitel_liste> |
+| ...   ...  ... |
 |---|
 
 Formel 3: XML-Code: kapitel_liste
@@ -283,12 +253,12 @@ Abbildung 4: Kapitel
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-| <kapitel>  <nummer V="..."/>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <gruppen_liste>  ...  </gruppen_liste>  </kapitel> |
+| ... |
 |---|
 
 Formel 4: XML-Code: kapitel
 
-Seite 14 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<kapitel_liste> <kapitel> </kapitel> <kapitel> </kapitel> kapitel_liste> <kapitel> <nummer V="..."/> <von_icd_code V="..."/> <bis_icd_code V="..."/> <bezeichnung V="..."/> <gruppen_liste> </gruppen_liste> </kapitel>
 
 
 ---
@@ -301,39 +271,38 @@ Abbildung 5: nummer
 
 Der XML-Code für ein <nummer> Element hat folgenden Aufbau:
 
-| <nummer V |
+| "/> |
 |---|
 
 Formel 5: XML-Code: nummer
 
 ***VON_ICD_CODE***
 
-Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD- Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD-Code  (siehe 5.20).
+Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD - Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
 
 Abbildung 6: von_icd_code
 
 Der XML-Code für ein <von_icd_code> Element hat folgenden Aufbau:
 
-| <von_icd_code V=" |
+|  |
 |---|
 
 Formel 6: XML-Code: von_icd_code
 
-Seite 15 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<nummer V =" ... <von_icd_code V=" ..."/>
 
-=" ... "/> ..."/>
 
 ---
 
 **BIS_ICD_CODE**
 
-Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD- Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD-Code  (siehe 5.20).
+Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD- Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
 
 Abbildung 7: bis_icd_code
 
 Der XML-Code für ein <bis_icd_code> Element hat folgenden Aufbau:
 
-| <bis_icd_code V="..."/> |
+|  |
 |---|
 
 Formel 7: XML-Code: bis_icd_code
@@ -350,12 +319,12 @@ Abbildung 8: gruppen_liste
 
 Der XML-Code für ein <gruppen_liste> Element hat folgenden Aufbau:
 
-| <gruppen_liste>  <gruppe>  ...  </gruppe>  <gruppe>  ...  </gruppe>  ...  </gruppen_liste> |
+| ...   ...  ... </gruppen_liste> |
 |---|
 
 Formel 8: XML-Code: gruppen_liste
 
-Seite 16 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<bis_icd_code V="..."/> <gruppen_liste> <gruppe> </gruppe> <gruppe> </gruppe>
 
 
 ---
@@ -368,7 +337,7 @@ Abbildung 9: gruppe
 
 Der XML-Code für ein <gruppe> Element hat folgenden Aufbau:
 
-| <gruppe>  <von_icd_code V="..."/>  <bis_icd_code V="..."/>  <bezeichnung V="..."/>  <diagnosen_liste>  ...  </> </gruppe> |
+| <gruppe>     ...  </gruppe> |
 |---|
 
 Formel 9: XML-Code: gruppe
@@ -385,7 +354,7 @@ vgl. Abschnitt 6.6
 
 vgl. Abschnitt 6.21
 
-Seite 17 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<von_icd_code V="..."/> <bis_icd_code V="..."/> <bezeichnung V="..."/> <diagnosen_liste> </> diagnosen_liste
 
 
 ---
@@ -398,7 +367,7 @@ Abbildung 10: diagnose_liste
 
 Der XML-Code für ein <diagnosen_liste> Element hat folgenden Aufbau:
 
-| <diagnosen_liste>  <diagnose>  ...  </diagnose>  <diagnose>  ...  </diagnose>  ...  </> |
+| ...   ...  ... |
 |---|
 
 Formel 10: XML-Code: diagnose_liste
@@ -407,39 +376,34 @@ Formel 10: XML-Code: diagnose_liste
 
 Das Element <diagnose> bildet die vorletzte Hierarchieebene der ICD Kodierungssystematik und enthält  jeweils eine ICD Kodierung sowie eine Bezeichnung (Diagnoseklartext).   Abbildung 11 zeigt den prinzipiellen Aufbau des Elements <diagnose>. Weiterhin beinhaltet das Element  <diagnose> die in Abbildung 12 abgebildeten optionalen Elemente.
 
-Seite 18 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<diagnosen_liste> <diagnose> </diagnose> <diagnose> </diagnose> </> diagnosen_liste
 
 
 ---
 
-Abbildung 11: diagnose prinzipieller Aufbau
-
-Seite 19 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD
-
--10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+Abbildung 11: diagnose prinzipieller Aufbau -10-GM-
 
 
 ---
 
-| <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
+| <diagnose> |
 |---|
-| Abbildung 12: diagnose optionale Elemente     Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,   <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
+| Abbildung 12: diagnose optionale Elemente     Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,   <diagnose> |
 
-Seite 20 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+-’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet): <icd_code V="Z00.-"/> <bezeichnung V="..."/> <abrechenbar V="..."/>
 
--’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet):
 
 ---
 
-| <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/> <diagnosen_liste>  <diagnose> |
+| <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/> |
 |---|
-| <notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/> <diagnosen_liste>  <diagnose>  <icd_code V="Z00.0"/>  ...  </diagnose>  <diagnose>  <icd_code V="Z00.1"/>  ...  <diagnose>  ...  </diagnosen_liste>  <diagnosethesaurus_liste>  ...  </> <verschluesselungsanleitung_liste>  ...  </> </diagnose> |
+| <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/>    ...    ...  ...   ... </>  ...  </diagnose> |
 
 Formel 11: XML-Code: diagnose
 
-| <diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/> |
+|  |
 |---|
-| <notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/> <diagnosen_liste> |
+| <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>  <keine_dauerdiagnose V="..."" DN="..."/> |
 
 Das Element <diagnosethesaurus_liste> umschließt eine Liste von <diagnosethesaurus> Elementen. Alle  einer Diagnose untergeordneten <diagnosethesaurus> Elemente enthalten alternative Diagnosetexte zu  der übergeordneten Diagnose.
 
@@ -451,19 +415,18 @@ Abbildung 13: diagnosethesaurus_liste
 
 Der XML-Code für ein <diagnosethesaurus_liste> Element hat folgenden Aufbau:
 
-Seite 21 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<notationskennzeichen V="..."/> <geschlechtsbezug V="..." DN="..."/> <geschlechtsbezug_fehlerart V="..." DN="..."/> <untere_altersgrenze V="..."/> <obere_altersgrenze V="..."/> <altersbezug_fehlerart V="..."/> <krankheit_in_mitteleuropa_sehr_selten V="..."/> <schlüsselnummer_mit_inhalt_belegt V="..."/> <infektionsschutzgesetz_meldepflicht V="..."/> <diagnosen_liste> <diagnose> <icd_code V="Z00.0"/> <diagnose> <icd_code V="Z00.1"/> <diagnose> </diagnosen_liste> <diagnosethesaurus_liste> diagnosethesaurus_liste <verschluesselungsanleitung_liste> verschluesselungsanleitung_liste STE DIAGNOSETHESAURUS_LI <diagnosethesaurus_liste> <diagnosethesaurus V="..."> <arztgruppen_liste> <arztgruppe V="..." DN="..."/>
 
-DIAGNOSETHESAURUS_LI STE
 
 ---
 
 |  |
 |---|
-| <arztgruppe </> </diagnosethesaurus> <diagnosethesaurus <arztgruppen_liste> <arztgruppe <arztgruppe </> </diagnosethesaurus ... </> |
+| V ="..."   V ="...">  V ="..." V ="..."  > ... |
 
 Formel 12: XML-Code: diagnosethesaurus_liste
 
-*DIAGNOSETHESAURUS*
+*D IAGNOSETHESAURUS*
 
 Das Element <diagnosethesaurus> enthält im V-Attribut Diagnoseklartext (aus ICD-10-GM, Alphabetisches  Verzeichnis (Diagnosethesaurus)). Im Kindelement steht die Kennzeichnung für hausärztliches Kodieren  bzw. eine oder mehrere Kennzeichnungen über die Zugehörigkeit zu einem Arztgruppenthesaurus.
 
@@ -471,7 +434,7 @@ Abbildung 14: diagnosethesaurus
 
 Der XML-Code für ein <diagnosethesaurus> Element hat folgenden Aufbau:
 
-| <diagnosethesaurus <arztgruppen_liste> <arztgruppe <arztgruppe </> </> |
+| V ="...">  V ="..." V ="..." |
 |---|
 
 Formel 13: XML-Code: diagnosethesaurus
@@ -482,15 +445,14 @@ Das Element <arztgruppen_liste> umschließt eine Liste von <arztgruppe> Elemente
 
 Abbildung 15: arztgruppen_liste
 
-Seite 22 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+DN ="..."/> <arztgruppe </> arztgruppen_liste </diagnosethesaurus> <diagnosethesaurus <arztgruppen_liste> DN="..."/> <arztgruppe DN="..."/> <arztgruppe </> arztgruppen_liste </diagnosethesaurus </> diagnosethesaurus_liste <diagnosethesaurus <arztgruppen_liste> DN="..." S ="1.2.276.0.76.5.115"/> <arztgruppe DN="..." S ="1.2.276.0.76.5.115"/> <arztgruppe </> arztgruppen_liste </> diagnosethesaurus
 
-V ="..." DN ="..."/> V ="..."> V ="..." DN="..."/> V ="..." DN="..."/> diagnosethesaurus_liste V ="..."> V ="..." DN="..." S ="1.2.276.0.76.5.115"/> V ="..." DN="..." S ="1.2.276.0.76.5.115"/>
 
 ---
 
 Der XML-Code für ein <arztgruppen_liste> Element hat folgenden Aufbau:
 
-| <arztgruppen_liste>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>  </> |
+|  |
 |---|
 
 Formel 14: XML-Code: arztgruppen_liste
@@ -503,19 +465,19 @@ Abbildung 16: arztgruppe
 
 Der XML-Code für ein <arztgruppe> Element hat folgenden Aufbau:
 
-| <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/> |
+|  |
 |---|
 
 Formel 15: XML-Code: arztgruppe
 
-Seite 23 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<arztgruppen_liste> <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/> <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/> </> arztgruppen_liste <arztgruppe V="..." DN="..." S="1.2.276.0.76.5.115"/>
 
 
 ---
 
 | ARZTGRUPPE |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | 3 | Hausarzt |
 | 6 | Augenarzt |
 | 7 | Chirurg |
@@ -548,8 +510,7 @@ Formel 16: XML-Code: verschluesselungsanleitung _liste
 
 Das Element <verschluesselungsanleitung_ref> enthält eine Referenz auf einen Eintrag in der  Verschlüsselungsanleitung-Stammdatei.
 
-Seite 24 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
+V="..." DN="..."
 
 ---
 
@@ -566,9 +527,9 @@ Formel 17: XML-Code: verschluesselungsanleitung_ref
 
 Das Element <icd_code> befindet sich auf der untersten Hierarchieebene der ICD Kodierungssystematik  und enthält eine Diagnosekodierung. Enthalten sind hier Zeichenketten nach dem Muster:
 
-- ein Zeichen A-Z und zweistellige Nummer
+-  ein Zeichen A-Z und zweistellige Nummer
 
-- (optional) '.' und ein- bis zweistellige Nummer und optional '*' oder '+' oder '-'
+-  (optional) '.' und ein- bis zweistellige Nummer und optional '*' oder '+' oder '-'
 
 Abbildung 19 : icd_code
 
@@ -585,14 +546,12 @@ Das Element <bezeichnung> befindet sich auf der untersten Hierarchieebene der IC
 
 Abbildung 20: bezeichnung
 
-Seite 25 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
 
 ---
 
 Der XML-Code für ein <bezeichnung> Element hat folgenden Aufbau:
 
-| <bezeichnung V="..."/> |
+|  |
 |---|
 
 Formel 19: ML-Code: bezeichnung
@@ -605,10 +564,10 @@ Abbildung 21: abrechenbar
 
 Der XML-Code für ein <abrechenbar> Element hat folgenden Aufbau:
 
-| <abrechenbar V="..." DN="..."/> Wert ( V="...") |
+| Wert ( |
 |---|
 
-| ABRECHENBAR |  |
+|  |  |
 |---|---|
 | j | ja |
 | n | nein |
@@ -619,9 +578,9 @@ Tabelle 7: Ausprägungen der Attribute des Elements <abrechenbar>
 
 Das optionale Element <notationskennzeichen> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält das Notationskennzeichen * (Stern) oder + (Kreuz) oder !  (Ausrufezeichen).
 
-Seite 26 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+**DN="..."**
 
-Formel 20: XML-Code: abrechenbar ABRECHENBAR Bedeutung (optional DN="..."  )
+<bezeichnung V="..."/> <abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional
 
 ---
 
@@ -629,14 +588,14 @@ Abbildung 22 : notationskennzeichen
 
 Der XML-Code für ein <notationskennzeichen> Element hat folgenden Aufbau:
 
-| <notationskennzeichen V="..."/> |
+|  |
 |---|
 
 Formel 21: XML-Code: notationskennzeichen
 
-| NOTATIONSKENNZEICHEN |  |
+|  |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| ) | Bedeutung (optional |
 | + | Kreuzzeichen - Primärschlüssel |
 | * | Sternzeichen - Sekundärschlüssel |
 | ! | Ausrufezeichen - Zusatzschlüssel |
@@ -645,23 +604,24 @@ Tabelle 8: Ausprägungen der Attribute des Elements <notationskennzeichen>
 
 **GESCHLECHTSBEZUG**
 
-Das optionale Element <geschlechtsbezug> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält den Geschlechtsbezug einer Diagnose m – männlich; w - weiblich.
+Das optionale Element <geschlechtsbezug> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält den Geschlechtsbezug einer Diagnose m – männlich; w -
 
 Abbildung 23: geschlechtsbezug
 
 Der XML-Code für ein <geschlechtsbezug> Element hat folgenden Aufbau:
 
-| <geschlechtsbezug V="..." DN="..."/> |
+|  |
 |---|
 
 | GESCHLECHTSBEZUG |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | w | weiblich |
 | Formel 22: XML-Code geschlechtsbezug |  |
 
-Seite 27 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+weiblich.
 
+<notationskennzeichen V="..."/> NOTATIONSKENNZEICHEN Wert ( V="..." DN="..." <geschlechtsbezug V="..." DN="..."/> V="..." DN="..."
 
 ---
 
@@ -681,14 +641,14 @@ Abbildung 24: geschlechtsbezug_fehlerart
 
 Der XML-Code für ein <geschlechtsbezug_fehlerart> Element hat folgenden Aufbau:
 
-| <geschlechtsbezug_fehlerart V="..." DN="..."/> |
+|  |
 |---|
 
 Formel 23: XML-Code: geschlechtsbezug_fehlerart
 
-| GESCHLECHTSBEZUG_FEHLERART |  |
+|  |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | k | k = Kann-Fehler |
 | m | m = Muss-Fehler |
 
@@ -696,9 +656,11 @@ Tabelle 10: Ausprägungen der Attribute des Elements <geschlechtsbezug_fehlerart
 
 **UNTERE_ALTERGRENZE**
 
-Das optionale Element <untere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die untere Altersgrenze, wenn die Diagnose altersspezifisch ist. Der  Inhalt des V-Attributs ( V="...") gibt einen Zahlenwert an, der Inhalt des U-Attributs ( U="...")  bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeiteinheit. Jahr’ ( U=""**Jahr** ) verwendet wird, enthält  das V-Attribut eine Altersangabe in Jahren. Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird  die Zeiteinheit ‚Tag’ verwendet ( U=""**Tag** ) und das V-Attribut enthält eine Altersangabe im Bereich von 0  bis 365 Tagen.
+) gibt einen Zahlenwert an, der Inhalt des U-Attributs (**U="..."**
 
-Seite 28 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+Das optionale Element <untere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die untere Altersgrenze, wenn die Diagnose altersspezifisch ist. Der  Inhalt des V-Attributs (**V="..."** bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeiteinheit. Jahr’ (**U=""Jahr** ) verwendet wird, enthält  das V-Attribut eine Altersangabe in Jahren. Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird  **U=""Tag**die Zeiteinheit ‚Tag’ verwendet ( ) und das V-Attribut enthält eine Altersangabe im Bereich von 0  bis 365 Tagen.
+
+<geschlechtsbezug_fehlerart V="..." DN="..."/> GESCHLECHTSBEZUG_FEHLERART V="..." DN="..."
 
 
 ---
@@ -707,14 +669,14 @@ Abbildung 25: untere_altersgrenze
 
 Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
-| <untere_altersgrenze V="..." U="..."/> |
+|  |
 |---|
 
 Formel 24: XML-Code: untere_altersgrenze
 
 | UNTERE_ALTERSGRENZE |  |
 |---|---|
-| Wert ( U="...") | |
+| Wert ( | |
 | Jahr | |
 | Tag | |
 
@@ -722,25 +684,25 @@ Tabelle 11: Ausprägungen der Attribute des Elements <untere_altersgrenze>
 
 **OBERE_ALTERSGRENZE**
 
-Das optionale Element <obere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die obere Altersgrenze, wenn die Diagnose altersspezifisch ist. Das  Format des Inhalts des V-Attributs ( V="...") und des U-Attributs ( U="...") folgt der gleichen  Systematik wie beim Element <untere_altersgrenze>.
+Das optionale Element <obere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die obere Altersgrenze, wenn die Diagnose altersspezifisch ist. Das  Format des Inhalts des V-Attributs (**V="..."**) und des U-Attributs (**U="..."**) folgt der gleichen  Systematik wie beim Element <untere_altersgrenze>.
 
 Abbildung 26: obere_altersgrenze
 
 Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
-Seite 29 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<untere_altersgrenze V="..." U="..."/> U="..."
 
 
 ---
 
-| <obere_altersgrenze V="..." U="..."/> |
+|  |
 |---|
 
 Formel 25: XML-Code: obere_altersgrenze
 
 | OBERE_ALTERSGRENZE |  |
 |---|---|
-| Wert ( U="...") | |
+| ) | |
 | Jahr | |
 | Tag | |
 
@@ -754,20 +716,20 @@ Abbildung 27: altersbezug_fehlerart
 
 Der XML-Code für ein <altersbezug_fehlerart> Element hat folgenden Aufbau:
 
-| <altersbezug_fehlerart V="..." DN="..."/> |
+|  |
 |---|
 
 Formel 26: XML-Code: altersbezug_fehlerart
 
 | ALTERSBEZUG_FEHLERART |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| ) | Bedeutung (optional |
 | k | Kann-Fehler |
 | m | Muss-Fehler |
 
 Tabelle 13: Ausprägungen der Attribute des Elements <altersbezug_fehlerart>
 
-Seite 30 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<obere_altersgrenze V="..." U="..."/> Wert ( U="..." <altersbezug_fehlerart V="..." DN="..."/> Wert ( V="..." DN="..."
 
 
 ---
@@ -780,14 +742,14 @@ Abbildung 28: krankheit_in_mitteleuropa_sehr_selten
 
 Der XML-Code für ein <krankheit_in_mitteleuropa_sehr_selten> Element hat folgenden Aufbau:
 
-| <krankheit_in_mitteleuropa_sehr_selten V="..." DN="..."/> |
+|  |
 |---|
 
 Formel 27: XML-Code: krankheit_in_mitteleuropa_sehr_selten
 
-| KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN |  |
+|  |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -801,20 +763,19 @@ Abbildung 29: schlüsselnummer_mit_inhalt_belegt
 
 Der XML-Code für ein <schlüsselnummer_mit_inhalt_belegt> Element hat folgenden Aufbau:
 
-| <schlüsselnummer_mit_inhalt_belegt |
+|  |
 |---|
 
 Formel 28: XML-Code: schlüsselnummer_mit_inhalt_belegt
 
-Seite 31 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+<krankheit_in_mitteleuropa_sehr_selten V="..." DN="..."/> KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN V="..." DN="..." <schlüsselnummer_mit_inhalt_belegt V="..." DN="..."/>
 
-V="..." DN="..."/>
 
 ---
 
-| SCHLÜSSELNUMMER_MIT_INHALT_BELEGT |  |
+|  |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -828,14 +789,14 @@ Abbildung 30: infektionsschutzgesetz_meldepflicht
 
 Der XML-Code für ein <infektionsschutzgesetz_meldepflicht> Element hat folgenden Aufbau:
 
-| <infektionsschutzgesetz_meldepflicht V="..." DN="..."/> |
+|  |
 |---|
 
 Formel 29: XML_Code: infektionsschutzgesetz_meldepflicht
 
-| INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT |  |
+|  |  |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -843,10 +804,9 @@ Tabelle 16: Ausprägungen der Attribute des Elements <infektionsschutzgesetz_mel
 
 **INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEITEN**
 
-Das optionale Element <infektionsschutzgesetz_abrechnungsbesonderheit> befindet sich auf der untersten  Hierarchieebene der ICD Kodierungssystematik und kennzeichnet, ob die EBM-Kennnummer bei  Meldepflicht nach dem Infektionsschutzgesetz angegeben werden kann. Wenn ja, kann EBM-Kennnummer  32006 angegeben werden.
+Das optionale Element <infektionsschutzgesetz_abrechnungsbesonderheit> befindet sich auf der untersten  Hierarchieebene der ICD Kodierungssystematik und kennzeichnet, ob die EBM -Kennnummer bei  Meldepflicht nach dem Infektionsschutzgesetz angegeben werden kann. Wenn ja, kann EBM -Kennnummer  32006 angegeben werden.
 
-Seite 32 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
+SCHLÜSSELNUMMER_MIT_INHALT_BELEGT V="..." DN="..." <infektionsschutzgesetz_meldepflicht V="..." DN="..."/> INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT V="..." DN="..."
 
 ---
 
@@ -854,14 +814,14 @@ Abbildung 31: infektionsschutzgesetz_abrechnungsbesonderheit
 
 Der XML-Code für ein <infektionsschutzgesetz_abrechnungsbesonderheit> Element hat folgenden Aufbau:
 
-| <infektionsschutzgesetz_meldepflicht V="..." DN="..."/> |
+|  |
 |---|
 
 Formel 30: XML-Code: infektionsschutzgesetz_abrechnungsbesonderheit
 
 | INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT | |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | j | ja |
 | n | nein |
 
@@ -875,28 +835,26 @@ Abbildung 32: keine_dauerdiagnose
 
 Der XML-Code für ein <keine_dauerdiagnose> Element hat folgenden Aufbau:
 
-| <keine_dauerdiagnose V="..." DN="... |
+| "/> |
 |---|
 
 Formel 31: XML-Code: keine_dauerdiagnose
 
-| ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE | |
+|  | |
 |---|---|
-| Wert ( V="...") | Bedeutung (optional DN="..."  ) |
+| Wert ( | Bedeutung (optional |
 | 1 | ist als Dauerdiagnose nicht geeignet |
 | 0 | Nicht definiert |
 
 Tabelle 18: keine_dauerdiagnose
 
-Seite 33 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
-"/>
+<infektionsschutzgesetz_meldepflicht V="..." DN="..."/> V="..." DN="..." <keine_dauerdiagnose V="..." DN="... ICD_10_GM_CODE_KEINE_DAUERDIAGNOSE V="..." DN="..."
 
 ---
 
 7
 
-## REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -910,7 +868,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
-
-Seite 34 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 /
-
-15. November 2021

@@ -7,17 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 14. NOVEMBER 2024  VERSION: 1.03  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG
-
-# CHRONISCHE
-
-# HERZINSUFFIZIENZ
+# SCHNITTSTELLENBESCHREIBUNG  CHRONISCHE HERZINSUFFIZIENZ
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_HI]
-
-Seite 1 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
@@ -26,40 +18,68 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1 EINLEITUNG 8**
+**1** **EINLEITUNG**
 
-**2 DATEINAMEN 9**
+**2** **DATEINAMEN**
 
-**3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE 10**
+**3** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
 
-3.1 Kardinalität 10  3.2 Strukturelemente 10  3.3 Sonstige Symbole 11
+3.1 Kardinalität  3.2 Strukturelemente  3.3 Sonstige Symbole
 
-**4 DOKUMENTENSTRUKTUR 12**
+**4** **DOKUMENTENSTRUKTUR**
 
-**5 CLINICAL_DOCUMENT_HEADER 13**
+**5** **CLINICAL_DOCUMENT_HEADER**
 
-5.1 Unterschiede im Header des Datensatzes zum DMP Chronische Herzinsuffizienz 13
+5.1 Unterschiede im Header des Datensatzes zum DMP Chronische Herzinsuffizienz
 
-**6 BODY DER „ERSTMALIGEN DOKUMENTATION“** **14**
+**6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section) 14  6.1.1 caption 14  6.1.2 content 15  6.1.3 Sciphox-SSU observation 16  6.1.3.1 Parameter 17  6.1.3.2 Ergebnistext 17  6.1.3.3 Ergebniswert 17  6.1.3.4 Beobachtungen 17  6.1.4 Abschnitt „Administrative Daten“ 18  6.1.4.1 Einschreibung wegen 18  6.1.5 Abschnitt „Anamnese - und Befunddaten“ 19  6.1.5.1 Körpergröße 20  6.1.5.2 Körpergewicht 20  6.1.5.3 Raucher 21  6.1.5.4 Blutdruck systolisch 21  6.1.5.5 Blutdruck diastolisch 21  6.1.5.6 Begleiterkrankungen 22  Symptomatik 22  Serum-Elektrolyte und eGFR in den letzten sechs Monaten 23  6.1.6 Abschnitt „Relevante Ereignisse“ 23  6.1.7 Abschnitt „Medikamente“ 24  ACE-Hemmer 24  Evidenzbasierte Zieldosis ACE-Hemmer oder ARB 25  Betablocker 26  Evidenzbasierte Zieldosis Betablocker 27  Mineralokortikoid-RezeptorAntagonist (MRA) 27  Evidenzbasierte Zieldosis MRA 28  SGLT2 – Inhibitor 28  6.1.8 Abschnitt „Schulung“ 30  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation) 30
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Symptomatik  Serum-Elektrolyte und eGFR in den letzten sechs Monaten 6.1.6 Abschnitt „Relevante Ereignisse“  6.1.7 Abschnitt „Medikamente“  ACE-Hemmer  Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  Betablocker  Evidenzbasierte Zieldosis Betablocker  Mineralokortikoid-RezeptorAntagonist (MRA)  Evidenzbasierte Zieldosis MRA  SGLT2  Inhibitor  6.1.8 Abschnitt „Schulung“  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-Seite 2 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / Version: 1.03 / 14. November 2024
+**8**
+
+**9**
+
+**10**
+
+10  10  11
+
+**12**
+
+**13**
+
+13
+
+**14**
+
+14  14  15  16  17  17  17
+
+17  18  18  19  20  20  21  21  21  22  22  23  23  24  24  25  26  27  27  28  28  30  30
 
 
 ---
 
-Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung  teilgenommen 31  6.1.9 A bschnitt „Behandlungsplanung“ 31  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse 32  6.1.9.2 Dokumentationsintervall 32  Regelmäßiges körperliches Training 33  Führen eines Gewichtsprotokolls 33
+Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen  6.1.9 Abschnitt „Behandlungsplanung“  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse  6.1.9.2 Dokumentationsintervall  Regelmäßiges körperliches Training  Führen eines Gewichtsprotokolls
 
-**7 BODY DER VERLAUFSDOKUMENTATION** **35**
+**7** **BODY DER VERLAUFSDOKUMENTATION**
 
-7.1 Sektion (section) 35  7.1.1 Abschnitt „Relevante Ereignisse“ 35  Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation 35  7.1.2 Abschnitt „Schulung“ 36  Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen 36  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation) 37
+7.1 Sektion (section)  7.1.1 Abschnitt „Relevante Ereignisse“  Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation  7.1.2 Abschnitt „Schulung“  Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-**8 GLOSSAR 38**
+**8** **GLOSSAR**
 
-**9 REFERENZIERTE DOKUMENTE** **39**
+**9** **REFERENZIERTE DOKUMENTE**
 
-Seite 3 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / Version: 1.03 / 14. November 2024
+-spezifischen Schulung  31  31  32  32  33  33
+
+**35**
+
+35  35
+
+35  36  36  37
+
+**38**
+
+**39**
 
 |  |  |
 |---|---|
@@ -69,11 +89,7 @@ Seite 3 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / 
 
 ## ABBILDUNGSVERZEICHNIS
 
-**ABBILDUNG 1: GRUNDSTRUKTUR LEVELONE ..................................................................................................................** 12  **ABBILDUNG 2: GRUNDSTRUKTUR BODY** .......................................................................................................................... 14  **ABBILDUNG 3: GRUNDSTRUKTUR SECTION** ..................................................................................................................... 14  **ABBILDUNG 4: AUFBAU SCIPHOX-SSU OBSERVATION** ..................................................................................................... 16
-
-Seite 4 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 12 **ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 14 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
 
 |  |  |
 |---|---|
@@ -83,11 +99,7 @@ Seite 4 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1: BESCHREIBUNG DER KARDINALITÄTEN .........................................................................................................** 10  **TABELLE 2: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ....................................................................................** 10  **TABELLE 3: BESCHREIBUNG SONSTIGER SYMBOLE ..........................................................................................................** 11  **TABELLE 4: WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN)** .................................................................................. 19  **TABELLE 5: WERTE BEI ERGEBNISTEXT (RAUCHER)** .......................................................................................................... 21  **TABELLE 6: WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN)** ................................................................................. 22  **TABELLE 7: WERTE BEI ERGEBNISTEXT (SYMPTOMATIK) .................................................................................................** 23  **TABELLE 8: WERTE BEI ERGEBNISTEXT (SERUM-ELEKTROLYTE UND EGFR IN DEN LETZTEN SECHS MONATEN)** ............. 23  **TABELLE 9: WERTE BEI ERGEBNISTEXT (ACE-HEMMER)** ................................................................................................... 25  **TABELLE 10: WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB)** ................................ 26  **TABELLE 11: WERTE BEI ERGEBNISTEXT (BETABLOCKER)** ................................................................................................. 26  **TABELLE 12: WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS BETABLOCKER) .................................................** 27  **TABELLE 13: WERTE BEI ERGEBNISTEXT (MRA)** ................................................................................................................ 28  **TABELLE 14: WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS MRA)** ................................................................. 28  **TABELLE 15: WERTE BEI ERGEBNISTEXT (SGLT2 – INHIBITOR)** ......................................................................................... 29  **TABELLE 16: WERTE BEI ERGEBNISTEXT (HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER**  DOKUMENTATION)) ................................................................................................................................................. 30  **TABELLE 17: BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ-SPEZIFISCHEN SCHULUNG**  TEILGENOMMEN ...................................................................................................................................................... 31  **TABELLE 18: WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER**  KRANKENKASSE) ....................................................................................................................................................... 32  **TABELLE 18: WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ......................................................................** 33  **TABELLE 19: WERTE BEI ERGEBNISTEXT (REGELMÄßIGES KÖRPERLICHES TRAINING)** ..................................................... 33  **TABELLE 21: WERTE BEI ERGEBNISTEXT (FÜHREN EINES GEWICHTSPROTOKOLLS).........................................................** 34  **TABELLE 22: WERTE BEI ERGEBNISTEXT (EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG**  WAHRGENOMMEN) ................................................................................................................................................. 36
-
-Seite 5 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 19  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 21  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (SYMPTOMATIK) ................................................................................................. 23  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (SERUM-ELEKTROLYTE UND EGFR IN DEN LETZTEN SECHS MONATEN) ............. 23  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................... 25  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB) ................................ 26  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 26  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS BETABLOCKER) ................................................. 27  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (MRA) ................................................................................................................ 28  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS MRA) ................................................................. 28  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (SGLT2  INHIBITOR) ......................................................................................... 29  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER  DOKUMENTATION)) ................................................................................................................................................. 30  **TABELLE 17:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ -SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 32  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 33  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES KÖRPERLICHES TRAINING) ..................................................... 33  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (FÜHREN EINES GEWICHTSPROTOKOLLS)......................................................... 34  **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG  WAHRGENOMMEN) ................................................................................................................................................. 36
 
 |  |  |
 |---|---|
@@ -97,11 +109,7 @@ Seite 5 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1: LEVELONE** ................................................................................................................................................... 12  **XML-CODE 2: BODY ..........................................................................................................................................................** 14  **XML-CODE 3: SECTION .....................................................................................................................................................** 15  **XML-CODE 4: CONTENT MIT SCIPHOX-SSU (OBSERVATION) ...........................................................................................** 16  **XML-CODE 5: BEOBACHTUNGEN** ...................................................................................................................................... 16  **XML-CODE 6: PARAMETER ...............................................................................................................................................** 17  **XML-CODE 7: ERGEBNISTEXT ...........................................................................................................................................** 17  **XML-CODE 8: ERGEBNISWERT** .......................................................................................................................................... 17  **XML-CODE 9: CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................** 18  **XML-CODE 10: EINSCHREIBUNG WEGEN .........................................................................................................................** 18  **XML-CODE 11: CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................** 20  **XML-CODE 12: KÖRPERGRÖßE** ......................................................................................................................................... 20  **XML-CODE 13: KÖRPERGEWICHT** ..................................................................................................................................... 21  **XML-CODE 14: RAUCHER** .................................................................................................................................................. 21  **XML-CODE 15: BLUTDRUCK SYSTOLISCH** .......................................................................................................................... 21  **XML-CODE 16: BLUTDRUCK DIASTOLISCH** ........................................................................................................................ 21  **XML-CODE 17: BEGLEITERKRANKUNGEN** ......................................................................................................................... 22  **XML-CODE 18: SYMPTOMATIK** ......................................................................................................................................... 22  **XML-CODE 19: RAUCHER** .................................................................................................................................................. 23  **XML-CODE 20: CONTENT (MEDIKAMENTE)......................................................................................................................** 24  **XML-CODE 21: ACE-HEMMER...........................................................................................................................................** 25  **XML-CODE 22: EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB** .......................................................................... 25  **XML-CODE 23: BETABLOCKER ..........................................................................................................................................** 26  **XML-CODE 24: EVIDENZBASIERTE ZIELDOSIS BETABLOCKER** ........................................................................................... 27  **XML-CODE 25: MINERALOKORTIKOID-REZEPTOR-ANTAGONIST (MRA)** .......................................................................... 27  **XML-CODE 26: EVIDENZBASIERTE ZIELDOSIS MRA ..........................................................................................................** 28  **XML-CODE 27: (SGLT2 – INHIBITOR) ................................................................................................................................** 28  **XML-CODE 28: CONTENT (SCHULUNG)** ............................................................................................................................ 30  **XML-CODE 29: HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ...........** 30  **XML-CODE 30: BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ-SPEZIFISCHEN SCHULUNG**  TEILGENOMMEN ...................................................................................................................................................... 31  **XML-CODE 30: CONTENT (BEHANDLUNGSPLANUNG)** ..................................................................................................... 32  **XML-CODE 32: VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE** ............................... 32  **XML-CODE 32: DOKUMENTATIONSINTERVALL** ................................................................................................................ 33  **XML-CODE 33: REGELMÄßIGES KÖRPERLICHES TRAINING ..............................................................................................** 33  **XML-CODE 35: FÜHREN EINES GEWICHTSPROTOKOLLS ..................................................................................................** 33  **XML-CODE 35: CONTENT (RELEVANTE EREIGNISSE)** ........................................................................................................ 35  **XML-CODE 36: UNGEPLANTE STATIONÄRE BEHANDLUNG, WEGEN HERZINSUFFIZIENZ, SEIT DER LETZTEN**  DOKUMENTATION ................................................................................................................................................... 35  **XML-CODE 37: CONTENT (SCHULUNG)** ............................................................................................................................ 36  **XML-CODE 39: EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN ...................................** 36
-
-Seite 6 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2**: BODY .......................................................................................................................................................... 14  **XML-CODE 3:** SECTION ..................................................................................................................................................... 15  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 20  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 21  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 21  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 22  **XML-CODE 18:** SYMPTOMATIK ......................................................................................................................................... 22  **XML-CODE 19:** RAUCHER .................................................................................................................................................. 23  **XML-CODE 20:** CONTENT (MEDIKAMENTE)...................................................................................................................... 24  **XML-CODE 21:** ACE-HEMMER........................................................................................................................................... 25  **XML-CODE 22:** EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB .......................................................................... 25  **XML-CODE 23:** BETABLOCKER .......................................................................................................................................... 26  **XML-CODE 24:** EVIDENZBASIERTE ZIELDOSIS BETABLOCKER ........................................................................................... 27  **XML-CODE 25:** MINERALOKORTIKOID-REZEPTOR-ANTAGONIST (MRA) .......................................................................... 27  **XML-CODE 26:** EVIDENZBASIERTE ZIELDOSIS MRA .......................................................................................................... 28  **XML-CODE 27:** (SGLT2  INHIBITOR) ................................................................................................................................ 28  **XML-CODE 28:** CONTENT (SCHULUNG) ............................................................................................................................ 30  **XML-CODE 29:** HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........... 30  **XML-CODE 30:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ -SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31  **XML-CODE 30:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 32  **XML-CODE 32:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 32  **XML-CODE 32:** DOKUMENTATIONSINTERVALL ................................................................................................................ 33  **XML-CODE 33:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 33  **XML-CODE 35:** FÜHREN EINES GEWICHTSPROTOKOLLS .................................................................................................. 33  **XML-CODE 35:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 35  **XML-CODE 36:** UNGEPLANTE STATIONÄRE BEHANDLUNG, WEGEN HERZINSUFFIZIENZ, SEIT DER LETZTEN  DOKUMENTATION ................................................................................................................................................... 35  **XML-CODE 37:** CONTENT (SCHULUNG) ............................................................................................................................ 36  **XML-CODE 39:** EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN ................................... 36
 
 |  |  |
 |---|---|
@@ -117,10 +125,6 @@ Seite 6 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | 1.02 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
 | 1.01 | 22.05.2020 | KBV | Anpassung an die Überführung in neues Design Vereinheitlichung des Aufnahme von Kapitel 6.1.6 Textuelle Anpassungen an Löschung der Definition von Vereinheitlichung der Angabe | Beschluss des G-BA Vereinheitlichung mit anderen  Wird in dieser Schnittstelle | 18  Alle Alle 23 Alle  14, 35 |
 | 1.00 | 25.03.2019 | KBV | Erstellung des Dokuments |  | alle |
-
-Seite 7 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
 
 aktualisierten Plausibilitäten der Anlage 14 (Abschnitte: Medikamente und Schulung) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) bestehende Schnittstelle <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 eDMP-Schnittstellen nicht verwendet
 
@@ -148,10 +152,6 @@ Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbän
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
 
-Seite 8 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
 |  |  |
 |---|---|
 
@@ -166,25 +166,21 @@ Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem E
 
 Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
 
-› Das Präfix setzt sich aus  **·** 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)   **·** der DMP-Fallnummer  **·** und dem Datum (Kopfdaten)
+Das Präfix setzt sich aus  9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)   der DMP-Fallnummer  und dem Datum (Kopfdaten)
 
 zusammen.
 
-› Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert.  Allgemein hat das Präfix den folgenden Aufbau:  **·** AAAAAAAAA_BBBBBBB_JJJJMMTT
+Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert. Allgemein hat das Präfix den folgenden Aufbau:  AAAAAAAAA_BBBBBBB_JJJJMMTT
 
 (die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern  sein).
 
 Es sind die folgenden Suffixkonventionen festgelegt:
 
-› Für die e lektronische e rstmalige Dokumentation: EE  › Für die e lektronische V erlaufsdokumentation: EV  › Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für Chronische Herzinsuffizienz: HI
+elektronische erstmalige Dokumentation: EE Für die   Für die elektronische Verlaufsdokumentation: EV  Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für Chronische Herzinsuffizienz: HI
 
 Beispiele:
 
-› 123456789_123_20070301.EEHI  › 123456789_123_20070301.EVHI
-
-Seite 9 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+123456789_123_20070301.EEHI  123456789_123_20070301.EVHI
 
 |  |  |
 |---|---|
@@ -192,15 +188,13 @@ Seite 9 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-3
+-SYMBOLE 3
 
 ## SEMANTIK DER VERWENDETEN DIAGRAMM
 
-## -SYMBOLE
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
-
-**3.1 KARDINALITÄT**
+**3.1** **KARDINALITÄT**
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -211,9 +205,9 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
-**Tabelle 1: Beschreibung der Kardinalitäten**
+Beschreibung der Kardinalitäten **Tabelle 1:**
 
-**3.2 STRUKTURELEMENTE**
+**3.2** **STRUKTURELEMENTE**
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
@@ -223,13 +217,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2: Beschreibung der Strukturelement-Symbole**
+Beschreibung der Strukturelement -Symbole **Tabelle 2:**
 
-Seite 10 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahle n rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss , aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden mü ssen.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. n rechts unter Elemente, was durch die Angabe der Zahle dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden mü ssen.
 
 |  |  |
 |---|---|
@@ -237,7 +227,7 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 
 ---
 
-**3.3 SONSTIGE SYMBOLE**
+**3.3** **SONSTIGE SYMBOLE**
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -249,11 +239,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
-**Tabelle 3: Beschreibung sonstiger Symbole**
-
-Seite 11 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**Tabelle 3:** Beschreibung sonstiger Symbole
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfas st.
 
@@ -267,30 +253,26 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches meh
 
 ## DOKUMENTENSTRUKTUR
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu beachten.
+die Groß-/Kleinschreibung zu beachten.  Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement <levelone>, welches sich aus den  beiden Kindelementen <clinical_document_header> und <body> zusammensetzt, wie es in Abbildung 1  dargestellt ist.
 
-Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in  jedem Prüfmodul enthalten. Das Schema des Elements <levelone> von Diabetes mellitus Typ 2 heißt DMP_  ChronischeHerzinsuffizienz.xsd.
+Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in  Elements <levelone> von Diabetes mellitus Typ 2 heißt DMP_ jedem Prüfmodul enthalten. Das Schema des  ChronischeHerzinsuffizienz.xsd.
 
-**Abbildung 1: Grundstruktur levelone**
+**Abbildung 1:** Grundstruktur levelone
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben:
+Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"       </levelone> |
+| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"        </levelone> |
 |---|
 
-**XML-Code 1: levelone**
+**XML-Code 1:** levelone
 
-Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP - Header“ [ KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.  Spezielle Unterschiede werden in Kapitel 5 beschrieben.
+Header“ [ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.  Spezielle Unterschiede werden in Kapitel 5 beschrieben.
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
-Seite 12 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-xmlns:sciphox="urn::sciphox-org/sciphox" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <clinical_document_header> . . . </clinical_document_header> <body> … </body>
+xmlns:sciphox="urn::sciphox-org/sciphox" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <clinical_document_header> . . . </clinical_document_header> <body> </body>
 
 |  |  |
 |---|---|
@@ -302,13 +284,9 @@ xmlns:sciphox="urn::sciphox-org/sciphox" xmlns:xsi="http://www.w3.org/2001/XMLSc
 
 ## CLINICAL_DOCUMENT_HEADER
 
-**5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP CHRONISCHE HERZINSUFFIZIENZ**
+**5.1** **UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP CHRONISCHE HERZINSUFFIZIENZ**
 
-Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
-
-Seite 13 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
 
 |  |  |
 |---|---|
@@ -320,57 +298,55 @@ Seite 13 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ## BODY DER „ERSTMALIGEN DOKUMENTATION“
 
-In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
+In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst
+
+enthält ein Element <section>.
 
 Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
-**Abbildung 2: Grundstruktur body**
+**Abbildung 2:** Grundstruktur body
 
 Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 | <body>    </body> |
 |---|
 
-**XML-Code 2: body**
+**XML-Code 2**: body
 
-**6.1 SEKTION (SECTION)**
+**6.1** **SEKTION (SECTION)**
 
 Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
 
-**Abbildung 3: Grundstruktur section**
+**Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese - und Befunddaten“,  „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind.
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind
 
-**6.1.1 caption**
+**6.1.1** **caption**
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese -  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
-Seite 14 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
+und Befunddaten“,
 
-/ Version: 1.03 / 14. November 2024
+-Attribut des  „Administrative Daten“, „Anamnese
 
-<section> … </section>
-
-|  |  |
+<section> </section> |  |  |
 |---|---|
 
 
 ---
 
-Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
+sind, sieht der Coderahmen für das Element <section> wie folgt Wenn in allen Abschnitten Daten enthalten aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
 
 | <section>                                         </paragraph>   <caption>   </caption>     </section> |
 |---|
 
-**XML-Code 3: section**
+**XML-Code 3:** section
 
-**6.1.2 content**
+**6.1.2** **content**
 
-Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute ignore und descriptor. Das Attribut ignore hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX -Elemente verwendet werden, ist für das descriptor -Attribut  der feste Wert „sciphox“ vorgeschrieben.
+*ignore descriptor* hat den festen
 
-Seite 15 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute  und . Das Attribut *ignore* Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
@@ -380,33 +356,35 @@ Seite 15 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-Für die Darstellung von Daten von Diabetes mellitus Typ 1 („erstmalige Dokumentation“ un d  Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU observation verwendet. Das Element  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: type =“observation“,  *country =“de“, version =“v1“. Damit wird gekennzeichnet, dass die Sciphox -SSU observation in Version v1*  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU observation sieht demnach  folgendermaßen aus:
+(„erstmalige Dokumentation“ und Für die Darstellung von Daten von Diabetes mellitus Typ 1  *observation* verwendet. Das Element Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,  *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1 *country*=“de“,  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach  folgendermaßen aus:
 
 | <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">    </content> |
 |---|
 
-**XML-Code 4: content mit sciphox-SSU (observation)**
+content mit sciphox -SSU (observation) **XML-Code 4:**
 
-**6.1.3 Sciphox-SSU observation**
+**6.1.3** **Sciphox-SSU observation**
 
-Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> und <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter>  Element muss mindestens eins dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen,  dass keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe einer  <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
+s Element <sciphox: Beobachtung> setzt sich aus jeweils genau
+
+Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Da einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> und <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter>
+
+iner
+
+Element muss mindestens eins dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen,  dass keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe e <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-**Abbildung 4: Aufbau Sciphox-SSU observation**
+Aufbau Sciphox-SSU observation **Abbildung 4:**
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">  <sciphox:Beobachtungen>        </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">          </sciphox:sciphox-ssu> |
 |---|
 
-**XML-Code 5: Beobachtungen**
+Beobachtungen **XML-Code 5:**
 
-Seite 16 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> … </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> … </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> … </sciphox:Beobachtung> </sciphox:Beobachtungen>
+<local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtungen> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
 |  |  |
 |---|---|
@@ -416,78 +394,72 @@ Seite 16 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 6.1.3.1 Parameter
 
-Das Element <Parameter> enthält nur das DN -Attribut. Als Wert werden die Parameter aus dem Datensatz  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
 *Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*  *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
-Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
+Der XML-Code zum Element <Parameter> sieht folgendermaße
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 6: Parameter**
+**XML-Code 6:** Parameter 6.1.3.2 Ergebnistext
 
-6.1.3.2 Ergebnistext
-
-Das Element <Ergebnistext> enthält nur das V- Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im V- Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
+Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 | <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 7: Ergebnistext**
+*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
 
-6.1.3.3 Ergebniswert
+**XML-Code 7:** Ergebnistext 6.1.3.3 Ergebniswert
 
-Das Element <Ergebniswert> enthält nur das V- und U -Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „ 1.80 “), werden in diesem Element, im V- Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird di e Einheit (z.B. „ m “)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird di eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 8: Ergebniswert**
+**XML-Code 8:** Ergebniswert 6.1.3.4 Beobachtungen
 
-6.1.3.4 Beobachtungen
+In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parame Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
 
-In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
+n aus:
 
-Seite 17 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
+*V-*Attribut, angegeben. Der XML-Code
 
-/ Version: 1.03 / 14. November 2024
+Parameter aus dem Datensatz
 
-<sciphox:Parameter DN="..."/> … … <sciphox:Ergebnistext V="..."/> ... … <sciphox:Ergebniswert V=". . ." U="..."/> …
+*V-*Attribut, angegeben. Als  e Einheit (z.B. „m
 
-|  |  |
+ter in einem
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Beobachtung> <sciphox:Ergebniswert V=". . ." U="..."/>|  |  |
 |---|---|
 
 
 ---
 
-**6.1.4 Abschnitt „Administrative Daten“**
+**6.1.4** **Abschnitt „Administrative Daten“**
 
-Dieses Kapitel beschreibt den Abschnitt „ Administrative Daten “.
+Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext >.
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>        </content> |
+| <content>     <sciphox:Beobachtungen>        </content> |
 |---|
 
-**XML-Code 9: content (Administrative Daten)**
+**XML-Code 9:** content (Administrative Daten) 6.1.4.1 Einschreibung wegen
 
-6.1.4.1 Einschreibung wegen
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+*V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  mit entsprechenden Werten angegeben werden.Elemente <sciphox:Ergebnistext>
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 10: Einschreibung wegen**
-
-Seite 18 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**XML-Code 10:** Einschreibung wegen
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/>
 
@@ -497,7 +469,7 @@ Seite 18 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Asthma bronchiale |
 | KHK |
@@ -510,19 +482,17 @@ Seite 18 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | Osteoporose |
 | rheumatoide Arthritis |
 
-**Tabelle 4: Werte bei Ergebnistext (Einschreibung wegen)**
+Werte bei Ergebnistext (Einschreibung wegen) **Tabelle 4:**
 
-**6.1.5 Abschnitt „Anamnese - und Befunddaten“**
+**6.1.5** **Abschnitt „Anamnese und Befunddaten“**
 
-Dieses Kapitel beschreibt den Abschnitt „ Anamnese- und Befunddaten “.
+Anamnese- und BefunddatenDieses Kapitel beschreibt den Abschnitt
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal sieben bis maximal acht Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal sieben bis maximal acht Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
 
-Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+folgt aus: Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie
 
-Seite 19 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+Wert bei Ergebnistext (V="...")
 
 |  |  |
 |---|---|
@@ -530,35 +500,25 @@ Seite 19 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| <content>    <sciphox:Beobachtungen>                          <sciphox:Beobachtung>   <sciphox:Ergebnistext V="NYHA II"/>   <sciphox:Beobachtung>   <sciphox:Ergebnistext V="Nein"/>     </content> |
+| <content>    <sciphox:Beobachtungen>                                   <sciphox:Ergebnistext V="Nein"/>     </content> |
 |---|
 
-**XML-Code 11: content (Anamnese- und Befunddaten)**
+**XML-Code 11:** content (Anamnese- und Befunddaten) 6.1.5.1 Körpergröße
 
-6.1.5.1 Körpergröße
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im V -Attribut die „Körpergröße“ und im  *U - Attribut den fest vorgeschriebenen Wert „m“.*
+<sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im Bei diesem Parameter enthält das Element  *U* Attribut den fest vorgeschriebenen Wert „m“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 12: Körpergröße**
+**XML-Code 12:** Körpergröße 6.1.5.2 Körpergewicht
 
-6.1.5.2 Körpergewicht
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im V -Attribut das „Körpergewicht“ und  im U - Attribut den fest vorgeschriebenen Wert „kg“.
+im *V* Attribut das „Körpergewicht“ und Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *U* Attribut den fest vorgeschriebenen Wert „kg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-Seite 20 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 /
-
-14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung>  <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatik"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" />
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatik"/> <sciphox:Ergebnistext V="NYHA II"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" />
 
 |  |  |
 |---|---|
@@ -566,56 +526,48 @@ Seite 20 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 13: Körpergewicht**
+Körpergewicht **XML-Code 13:**
 
 6.1.5.3 Raucher
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 5.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 14: Raucher**
+**XML-Code 14:** Raucher
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 | Nein |
 
-**Tabelle 5: Werte bei Ergebnistext (Raucher)**
+**Tabelle 5:** Werte bei Ergebnistext (Raucher) 6.1.5.4 Blutdruck systolisch
 
-6.1.5.4 Blutdruck systolisch
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im V - Attribut den „systolischen Wert“  und im U - Attribut den fest vorgeschriebenen Wert „mmHg“.
+*V* Attribut den „systolischen Wert“ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 15: Blutdruck systolisch**
+**XML-Code 15:** Blutdruck systolisch 6.1.5.5 Blutdruck diastolisch
 
-6.1.5.5 Blutdruck diastolisch
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im V - Attribut den „diastolischen Wert“  und im U - Attribut den fest vorgeschriebenen Wert „mmHg“.
+*V* Attribut den „diastolischen Wert“ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 16: Blutdruck diastolisch**
+Blutdruck diastolisch **XML-Code 16:**
 
-Seite 21 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>
+<sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>
 
 |  |  |
 |---|---|
@@ -625,14 +577,14 @@ Seite 21 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 6.1.5.6 Begleiterkrankungen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 17: Begleiterkrankungen**
+Begleiterkrankungen **XML-Code 17:**
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -645,22 +597,18 @@ Als Beispiel sei hier folgender Code angegeben:
 | Asthma bronchiale |
 | COPD |
 
-**Tabelle 6: Werte bei Ergebnistext (Begleiterkrankungen)**
+**Tabelle 6:** Werte bei Ergebnistext (Begleiterkrankungen)
 
 Symptomatik
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 7.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß Tabelle 7.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 18: Symptomatik**
-
-Seite 22 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+Symptomatik **XML-Code 18:**
 
 <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="Symptomatik"/> <sciphox:Ergebnistext V="NYHA II"/>
 
@@ -670,42 +618,38 @@ Seite 22 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | NYHA I |
 | NYHA II |
 | NYHA III |
 | NYHA IV |
 
-**Tabelle 7: Werte bei Ergebnistext (Symptomatik)**
+**Tabelle 7:** Werte bei Ergebnistext ( Symptomatik)
 
 Serum-Elektrolyte und eGFR in den letzten sechs Monaten
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 8.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 8.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 19: Raucher**
+**XML-Code 19:** Raucher
 
 | Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
 
-**Tabelle 8: Werte bei Ergebnistext (Serum-Elektrolyte und eGFR in den letzten sechs Monaten)**
+**Tabelle 8:** Werte bei Ergebnistext (Serum -Elektrolyte und eGFR in den letzten sechs Monaten)
 
-**6.1.6 Abschnitt „Relevante Ereignisse“**
+**6.1.6** **Abschnitt „Relevante Ereignisse“**
 
-Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht verwendet, sondern nur bei der  Verlaufsdokumentation, siehe Kapitel 7.1.1.
+verwendet, sondern nur bei der Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht Verlaufsdokumentation, siehe Kapitel 7.1.1.
 
-Seite 23 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/> <sciphox:Ergebnistext V="Nein "/>
+Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/> <sciphox:Ergebnistext V="Nein "/>
 
 |  |  |
 |---|---|
@@ -713,43 +657,39 @@ Seite 23 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-**6.1.7 Abschnitt „Medikamente“**
+**6.1.7** **Abschnitt „Medikamente“**
 
 Dieses Kapitel beschreibt den Abschnitt „Medikamente“.
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal vier bis maximal sieben genau zwei Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> . Zusätzlich  kann das Element <sciphox: Beobachtung> ein <sciphox:Beobachtungen>-Block enthalten (siehe XML-Code  20).
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal vier bis maximal sieben genau zwei Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> . Zusätzlich  kann das Element <sciphox: Beobachtung> ein <sciphox:Beobachtungen>-Block enthalten (siehe XML-Code  20).
 
 Der Coderahmen sieht wie folgt aus:
 
 | <content>    <sciphox:Beobachtungen>                                      </local_markup> </content> |
 |---|
 
-**XML-Code 20: content (Medikamente)**
+**XML-Code 20:** content (Medikamente)
 
 ACE-Hemmer
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
-Seite 24 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis ACE-Hemmer oder ARB"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis Betablocker"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis MRA"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
-
-|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis ACE-Hemmer oder ARB"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis Betablocker"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis MRA"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> |  |  |
 |---|---|
 
 
 ---
 
-Je nach Werteauswahl enthält dieser Parameter ggf. ein Kindelement <sciphox:Beobachtungen>. Das  Element <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Das Element  <sciphox:Beobachtung> enthält genau ein Kindelement <sciphox:Parameter> und mindestens ein  Kindelement <sciphox:Ergebnistext>. Das Element <sciphox:Parameter> enthält im DN -Attribut den fest  vorgeschriebenen Wert „Evidenzbasierte Zieldosis“ und das Element <sciphox:Ergebnistext> im V -Attribut  die Feldbezeichnung gemäß Tabelle 10. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden,  können mehrere Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+eter ggf. ein Kindelement <sciphox:Beobachtungen>. Das Je nach Werteauswahl enthält dieser Param Element <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Das Element  <sciphox:Beobachtung> enthält genau ein Kindelement <sciphox:Parameter> und mindestens ein  *DN*-Attribut den fest Kindelement <sciphox:Ergebnistext>. Das Element <sciphox:Parameter> enthält im  vorgeschriebenen Wert „Evidenzbasierte Zieldosis“ und das Element <sciphox:Ergebnistext> im *V*-Attribut  die Feldbezeichnung gemäß Tabelle 10. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden,  können mehrere Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>          </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 21: ACE-Hemmer**
+**XML-Code 21:** ACE-Hemmer
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -758,28 +698,24 @@ Als Beispiel sei hier folgender Code angegeben:
 | Kontraindikation |
 | ARB |
 
-**Tabelle 9: Werte bei Ergebnistext (ACE-Hemmer)**
+**Tabelle 9:** Werte bei Ergebnistext (ACE -Hemmer)
 
 Evidenzbasierte Zieldosis ACE-Hemmer oder ARB
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 10. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß Tabelle 10. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| = „  </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 22: Evidenzbasierte Zieldosis ACE -Hemmer oder ARB**
+**XML-Code 22:** Evidenzbasierte Zieldosis ACE -Hemmer oder ARB
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Erreicht |
 
-Seite 25 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="ARB"/> <sciphox:Beobachtungen> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> </sciphox:Beobachtungen> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis ACE-Hemmer oder ARB “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/>
+<sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="ARB"/> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> </sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN Evidenzbasierte Zieldosis ACE-Hemmer oder ARB “/> Nicht erreicht “/> <sciphox:Ergebnistext V <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht “/> Wert bei Ergebnistext (V="...")
 
 |  |  |
 |---|---|
@@ -790,22 +726,24 @@ Seite 25 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | Nicht erreicht |
 |---|
 | Titrationsphase |
-| Max. tolerierte Dosis erreicht |
+|  |
 
-**Tabelle 10: Werte bei Ergebnistext (Evidenzbasierte Zieldosis ACE -Hemmer oder ARB)**
+**Tabelle 10:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis ACE -Hemmer oder ARB)
 
 Betablocker
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Fehler! Verweisquelle konnte nicht gefunden werden. Tabelle 11. Wenn bei diesem Parameter  mehrere Werte ausgewählt wurden, können mehrere Elemente <sciphox:Ergebnistext> mit  entsprechenden Werten angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß **Fehler! Verweisquelle konnte nicht gefunden werden.**Tabelle 11. Wenn bei diesem Parameter  mehrere Werte ausgewählt wurden, können mehrere Elemente <sciphox:Ergebnistext> mit  entsprechenden Werten angegeben werden.
 
-Je nach Werteauswahl enthält dieser Parameter ggf. ein Kindelement <sciphox:Beobachtungen>. Das  Element <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Das Element  <sciphox:Beobachtung> enthält genau ein Kindelement <sciphox:Parameter> und mindestens ein  Kindelement <sciphox:Ergebnistext>. Das Element <sciphox:Parameter> enthält im DN -Attribut den fest  vorgeschriebenen Wert „Evidenzbasierte Zieldosis“ und das Element <sciphox:Ergebnistext> im V -Attribut  die Feldbezeichnung gemäß Fehler! Verweisquelle konnte nicht gefunden werden.. Wenn bei diesem P arameter mehrere Werte ausgewählt wurden, können mehrere Elemente <sciphox:Ergebnistext> mit  entsprechenden Werten angegeben werden.
+Je nach Werteauswahl enthält dieser Parameter ggf. ein Kindelement <sciphox:Beobachtungen>. Das  Element <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Das Element
+
+*DN*-Attribut den fest  <sciphox:Beobachtung> enthält genau ein Kindelement <sciphox:Parameter> und mindestens ein  Kindelement <sciphox:Ergebnistext>. Das Element <sciphox:Parameter> enthält im  vorgeschriebenen Wert „Evidenzbasierte Zieldosis“ und das Element <sciphox:Ergebnistext> im *V*-Attribut  die Feldbezeichnung gemäß **Fehler! Verweisquelle konnte nicht gefunden werden.**. Wenn bei diesem P arameter mehrere Werte ausgewählt wurden, können mehrere Elemente <sciphox:Ergebnistext> mit  entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>          </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 23: Betablocker**
+**XML-Code 23:** Betablocker
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -813,17 +751,13 @@ Als Beispiel sei hier folgender Code angegeben:
 | Nein |
 | Kontraindikation |
 
-**Tabelle 11: Werte bei Ergebnistext (Betablocker)**
+**Tabelle 11:** Werte bei Ergebnistext (Betablocker)
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Erreicht |
 
-Seite 26 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtungen> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> </sciphox:Beobachtungen>
+Max. tolerierte Dosis erreicht <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> </sciphox:Beobachtungen> Wert bei Ergebnistext (V="...")
 
 |  |  |
 |---|---|
@@ -834,50 +768,46 @@ Seite 26 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | Nicht erreicht |
 |---|
 | Titrationsphase |
-| Max. tolerierte Dosis erreicht |
+|  |
 
 Tabelle: 10 Werte bei Ergebnistext (Evidenzbasierte Zieldosis)
 
 Evidenzbasierte Zieldosis Betablocker
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
-Als Beispiel sei hier folgender Code angegeben:
+egeben: Als Beispiel sei hier folgender Code ang
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung> = „   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 24: Evidenzbasierte Zieldosis Betablocker**
+Evidenzbasierte Zieldosis Betablocker **XML-Code 24:**
 
 | Wert bei Ergebnistext (V="...") |
 |---|
 | Erreicht |
 | Nicht erreicht |
 | Titrationsphase |
-| Max. tolerierte Dosis erreicht |
+|  |
 
-**Tabelle 12: Werte bei Ergebnistext (Evidenzbasierte Zieldosis Betablocker)**
+**Tabelle 12:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis Betablocker)
 
 Mineralokortikoid-Rezeptor-Antagonist (MRA)
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  ben werden. Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angege
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 25: Mineralokortikoid-Rezeptor-Antagonist (MRA)**
+**XML-Code 25:** Mineralokortikoid -Rezeptor-Antagonist (MRA)
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 
-Seite 27 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN = „ Evidenzbasierte Zieldosis Betablocker “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/>
+Max. tolerierte Dosis erreicht Evidenzbasierte Zieldosis Betablocker “/> <sciphox:Parameter DN <sciphox:Ergebnistext V Nicht erreicht “/> <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht “/> Max. tolerierte Dosis erreicht <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> Wert bei Ergebnistext (V="...")
 
 |  |  |
 |---|---|
@@ -889,51 +819,49 @@ Seite 27 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 |---|
 | Kontraindikation |
 
-**Tabelle 13: Werte bei Ergebnistext (Mineralokortikoid-Rezeptor-Antagonist (MRA))**
+**Tabelle 13:** Werte bei Ergebnistext (Mineralokortikoid -Rezeptor-Antagonist (MRA))
 
 Evidenzbasierte Zieldosis MRA
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
+| <sciphox:Beobachtung> = „  = „ </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 26: Evidenzbasierte Zieldosis MRA**
+**XML-Code 26:** Evidenzbasierte Zieldosis MRA
 
 | Wert bei Ergebnistext (V="...") |
 |---|
 | Erreicht |
 | Nicht erreicht |
 | Titrationsphase |
-| Max. tolerierte Dosis erreicht |
+|  |
 
-**Tabelle 14: Werte bei Ergebnistext (Evidenzbasierte Zieldosis MRA)**
+**Tabelle 14:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis MRA)
 
-SGLT2 – Inhibitor
+SGLT2  Inhibitor
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 27: (SGLT2 – Inhibitor)**
+**XML-Code 27:** (SGLT2  Inhibitor)
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 | Nein |
 
-Seite 28 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-/ Version: 1.03 / 14. November 2024
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN = „ Evidenzbasierte Zieldosis MRA “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/>
-
-|  |  |
+<sciphox:Parameter DN Evidenzbasierte Zieldosis MRA <sciphox:Ergebnistext V Nicht erreicht “/> <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht “/> “/> Max. tolerierte Dosis erreicht <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/> Wert bei Ergebnistext (V="...")|  |  |
 |---|---|
 
 
@@ -942,11 +870,7 @@ Seite 28 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | Kontraindikation |
 |---|
 
-**Tabelle 15: Werte bei Ergebnistext (SGLT2 – Inhibitor)**
-
-Seite 29 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**Tabelle 15:** Werte bei Ergebnistext ( SGLT2  Inhibitor)
 
 |  |  |
 |---|---|
@@ -954,43 +878,39 @@ Seite 29 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-**6.1.8 Abschnitt „Schulung“**
+**6.1.8** **Abschnitt „Schulung“**
 
-Dieses Kapitel beschreibt den Abschnitt „Schulung“.
+Dieses Kapitel beschreibt den Abschnitt „Schulung“
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext>.
+*observation*Im Element <content> wird die Sciphox-SSU  verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>            </local_markup> </content> |
+| <content>    <sciphox:Beobachtungen>      -spezifischen      </local_markup> </content> |
 |---|
 
-**XML-Code 28: content (Schulung)**
+**XML-Code 28:** content (Schulung)
 
 Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
-Als Beispiel sei hier folgender Code angegeben:
+geben: Als Beispiel sei hier folgender Code ange
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 29: Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)**
+**XML-Code 29:** Herzinsuffizienz -spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 | Nein |
-| Schulung bereits vor Einschreibung in das DMP wahrgenommen |
+|  |
 
-**Tabelle 16: Werte bei Ergebnistext (Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller**  Dokumentation))
+**Tabelle 16:** Werte bei Ergebnistext (Herzinsuffizienz -spezifische Schulung empfohlen (bei aktueller  Dokumentation) )
 
-Seite 30 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") Schulung bereits vor Einschreibung in das DMP wahrgenommen
 
 |  |  |
 |---|---|
@@ -998,37 +918,33 @@ Seite 30 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung  teilgenommen
+-spezifischen Schulung  Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen
 
-Bei diesem Parameter enthält das Element* <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung*  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  rechenden Werten angegeben werden. Elemente <sciphox:Ergebnistext> mit entsp
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung> -spezifischen Schulung  </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 30: Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz** -spezifischen  Schulung teilgenommen
+**XML-Code 30:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen  Schulung teilgenommen
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 | Nein |
 
-**Tabelle 17: Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz** -spezifischen Schulung  teilgenommen
+**Tabelle 17:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung  teilgenommen
 
-**6.1.9 Abschnitt „Behandlungsplanung“**
+**6.1.9** **Abschnitt „Behandlungsplanung“**
 
-Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“.
+Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelemente <sciphox:Ergebnistext>.
+*observation*Im Element <content> wird die Sciphox-SSU  verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  sciphox:Parameter> Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < und mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-Seite 31 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...")
 
 |  |  |
 |---|---|
@@ -1036,21 +952,21 @@ Seite 31 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| <content>    <sciphox:Beobachtungen>                    </content> |
+| <content>    <sciphox:Beobachtungen>          "/>          </content> |
 |---|
 
-**XML-Code 31: content (Behandlungsplanung)**
+**XML-Code 31:** content (Behandlungsplanung )
 
 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung> der Krankenkasse "/>  </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 32: Vom Patienten gewünschte Informationsangebote** der Krankenkasse
+**XML-Code 32:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -1058,19 +974,15 @@ Als Beispiel sei hier folgender Code angegeben:
 | Ernährungsberatung |
 | Körperliches Training |
 
-**Tabelle 18: Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote** der  Krankenkasse)
+**Tabelle 18:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
 6.1.9.2 Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 19.
+sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element < gemäß Tabelle 19.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-Seite 32 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/>
 
 |  |  |
 |---|---|
@@ -1078,53 +990,49 @@ Seite 32 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 33: Dokumentationsintervall**
+**XML-Code 33:** Dokumentationsintervall
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Quartalsweise |
 | Jedes zweite Quartal |
 
-**Tabelle 19: Werte bei Ergebnistext (Dokumentationsintervall)**
+**Tabelle 19:** Werte bei Ergebnistext ( Dokumentationsintervall)
 
 Regelmäßiges körperliches Training
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
+| </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 34: Regelmäßiges körperliches Training**
+**XML-Code 34:** Regelmäßiges körperliches Training
 
-| Wert bei Ergebnistext (V="...") |
+|  |
 |---|
 | Ja |
 | Nein |
 | Nicht möglich |
 
-**Tabelle 20: Werte bei Ergebnistext (Regelmäßiges körperliches Training**)
+**Tabelle 20:** Werte bei Ergebnistext ( Regelmäßiges körperliches Training
 
 Führen eines Gewichtsprotokolls
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 35: Führen eines Gewichtsprotokolls**
+**XML-Code 35:** Führen eines Gewichtsprotokolls
 
-Seite 33 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/>
+<sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -1138,11 +1046,7 @@ Seite 33 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | Nein |
 | Nicht erforderlich |
 
-**Tabelle 21: Werte bei Ergebnistext (Führen eines Gewichtsprotokolls**)
-
-Seite 34 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
+**Tabelle 21:** Werte bei Ergebnistext ( Führen eines Gewichtsprotokolls
 
 |  |  |
 |---|---|
@@ -1156,39 +1060,35 @@ Seite 34 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten.  Ergänzend kommt der Abschnitt „Relevante Ereignisse“ hinzu. In diesem Kapitel werden nur die speziellen  Parameter für die Verlaufsdokumentation erläutert.
 
-**7.1 SEKTION (SECTION)**
+**7.1** **SEKTION (SECTION)**
 
 Das <section>-Element hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel 6.1.
 
-**7.1.1 Abschnitt „Relevante Ereignisse“**
+**7.1.1** **Abschnitt „Relevante Ereignisse“**
 
 Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Ergebniswert>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>    <sciphox:Beobachtungen>        </local_markup> </content> |
+| <content>    <sciphox:Beobachtungen>   =“     </local_markup> </content> |
 |---|
 
-**XML-Code 36: content (Relevante Ereignisse)**
+**XML-Code 36:** content (Relevante Ereignisse)
 
 Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im V - Attribut die „ Anzahl der  Behandlungen “ und im U - Attribut den fest vorgeschriebenen Wert „Anzahl“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Anzahl der  Behandlungen“ und im *U* Attribut den fest vorgeschriebenen Wert „Anzahl“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 37: Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten**  Dokumentation
+**XML-Code 37:** Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation
 
-Seite 35 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U =“ Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation "/> <sciphox:Ergebniswert V="1" U =“ Anzahl “/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation "/> <sciphox:Ergebniswert V="1" U Anzahl “/>
 
 |  |  |
 |---|---|
@@ -1196,46 +1096,44 @@ Seite 35 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 ---
 
-**7.1.2 Abschnitt „Schulung“**
+**7.1.2** **Abschnitt „Schulung“**
 
-Dieses Kapitel beschreibt den Abschnitt „Schulung“.
+Dieses Kapitel beschreibt den Abschnitt „Schulung“
 
-Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelemente <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
 | <content>    <sciphox:Beobachtungen>            </local_markup> </content> |
 |---|
 
-**XML-Code 38: content (Schulung)**
+**XML-Code 38:** content (Schulung)
 
 Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im V -Attribut die Feldbezeichnung  gemäß Tabelle 22.
+Bei diesem Parameter enthält das Element
+
+gemäß Tabelle 22.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 39: Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen**
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-| Wert bei Ergebnistext (V="...") |
+**XML-Code 39:** Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen
+
+|  |
 |---|
 | Ja |
 | Nein |
 | War aktuell nicht möglich |
-| Bei letzter Dokumentation keine Schulung empfohlen |
+|  |
 
-**Tabelle 22: Werte bei Ergebnistext (Empfohlene Herzinsuffizienz**-spezifische Schulung  wahrgenommen)
+**Tabelle 22:** Werte bei Ergebnistext ( Empfohlene Herzinsuffizienz wahrgenommen) -spezifische Schulung
 
-Seite 36 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN =“ Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
-
-|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") Bei letzter Dokumentation keine Schulung empfohlen|  |  |
 |---|---|
 
 
@@ -1245,10 +1143,6 @@ Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
 Siehe Kapitel 6.1.8.1.
 
-Seite 37 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
 |  |  |
 |---|---|
 
@@ -1257,7 +1151,7 @@ Seite 37 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 
 8
 
-## GLOSSAR
+GLOSSAR
 
 |  |  |
 |---|---|
@@ -1273,7 +1167,7 @@ Seite 37 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | HL7® | Health Level 7 |
 | KHK | Koronare Herzkrankheit |
 | OID | Object Identifier |
-| PRF | PERFORMER – Ausführender |
+| PRF | PERFORMER |
 | RT | RT-Attribut (root) |
 | S | S-Attribut (source) |
 | SCIPHOX | Standardisation of Communication between |
@@ -1284,9 +1178,7 @@ Seite 37 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML Seite 38 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / Version: 1.03 / 14. November 2024
-
-|  |  |
+Ausführender Information Systems in Physician Offices and Hospitals using XML |  |  |
 |---|---|
 
 
@@ -1294,7 +1186,7 @@ Information Systems in Physician Offices and Hospitals using XML Seite 38 von 39
 
 9
 
-## REFERENZIERTE DOKUMENTE
+REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -1313,11 +1205,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-Seite 39 von 39 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz
-
-/ Version: 1.03 / 14. November 2024
-
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Herzinsuffizienz Volldatensatz / a-Datensatz Schnittstellenbeschreibung
-
-|  |  |
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Herzinsuffizienz Volldatensatz / a-Datensatz Schnittstellenbeschreibung |  |  |
 |---|---|

@@ -1,211 +1,225 @@
-## - Anlage 6* -
+## zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+
+**Grundlage:**
+
+**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+
+- Anlage 6* -
 
 ## Plausibilitätsrichtlinie
 
-## zur Prüfung der Dokumentationsdaten
-
-## des strukturierten Behandlungsprogramms
-
 # KHK
 
-**Grundlage: Anlage 6 der DMP-A-RL**  **gültig ab.01.10.2025**
+**Anlage 6 der DMP-A-RL**  **gültig ab.01.10.2025**
 
-**Version:** **5.0**
+### Version:
 
-**Stand der Bearbeitung: 05.09.2025**  **Version anzuwenden ab: 01.10.2026**
+** 5.0**
 
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025
-
-
----
-
-**Anlage 6*: Datensatz für die indikationsspezifische Dokumentation: Koronare Herzkrankheit (KHK)**
-
-| Lfd. |  |  |  |
-|---|---|---|---|
-|  | Parameter | Ausprägung | Plausibilitäten |
-| Nr. |  |  |  |
-
-1
-
-2
-
-2a
-
-3
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025
-
-**Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „KHK“ erfolgt,**  **sind die nachstehenden Felder der Anlage 6* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen**
-
-Anamnese- und Befunddaten
-
-Angina pectoris (weggefallen)
-
-LDL-Cholesterin
-
-Relevante Ereignisse
-
-Relevante Ereignisse
-
-Nein / Wenn ja:  CCS I / CCS II / CCS III / CCS IV
-
-mg/dl / mmol/l / Nicht bestimmt
-
-Herzinfarkt / Instabile Angina pectoris /  Schlaganfall / Nein
-
-Pflichtfeld;  Genau eine Angabe ist zulässig    Pflichtfeld;  Genau eine Angabe ist zulässig   Wenn ein Wert bei „mmol/l“ angegeben ist, muss der Wert  innerhalb des Wertebereiches von „ 0,0 “ bis „ 25,9 “ liegen; Die  Angabe erfolgt mit genau einer Nachkommastelle   Wenn ein Wert bei „ mg/dl “ angegeben ist, muss der Wert  innerhalb des Wertebereiches von „ 0 “ bis „ 999 “ liegen; Die  Angabe erfolgt ohne Nachkommastelle
-
-Pflichtfeld;  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich   Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig   Die Angaben „Herzinfarkt“, „Instabile Angina pectoris“ und  „Schlaganfall“ können einzeln oder gemeinsam erfolgen.
+**05.09.2025**  **01.10.2026**
 
 
 ---
 
-| Lfd. |  |  |  |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-|  | Parameter | Ausprägung | Plausibilitäten |
-| Nr. |  |  |  |
+| Anlage 6*: |  |  |  |
+| Anlage 6*: |  |  |  |
+| Anlage 6*: |  |  |  |
+| Anlage 6*: |  |  |  |
+|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | | |
+|  | Anamnese- und Befunddaten | | |
+| 1 | Angina pectoris | Nein / Wenn ja: CCS I / CCS II / CCS III / CCS IV | Pflichtfeld;  Genau eine Angabe ist zulässig |
+| 2 | (weggefallen) |  |  |
+| 2a | LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld;  Genau eine Angabe ist zulässig  Wenn ein Wert bei „mmol/l“  Wenn ein Wert bei |
+|  | Relevante Ereignisse |  | |
+| 3 | Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig  Die Angaben „Herzinfarkt“ |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  |  |  |
+| Anamnese- und Befunddaten | 1 | Angina pectoris | Nein / Wenn ja: CCS I / CCS II / CCS III / CCS IV  Pflichtfeld;  Genau eine Angabe ist zulässig   2  (weggefallen) |
+|  | 2a LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt Pflichtfeld; | |
+| Genau eine Angabe ist zulässig |  | Wenn ein Wert bei „mmol/l“ | Wenn ein Wert bei   Relevante Ereignisse   3  Relevante Ereignisse |
+| Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich  Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig |
+|  |  |  | Lfd. Parameter Ausprägung |
+| Plausibilitäten |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten  1  Angina pectoris  Nein / Wenn ja: CCS I / CCS II / CCS III / CCS IV  Pflichtfeld;  Genau eine Angabe ist zulässig |
+| 2 | (weggefallen) |  |  |
+| 2a | LDL-Cholesterin | mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld;  Genau eine Angabe ist zulässig  Wenn ein Wert bei „mmol/l“  Wenn ein Wert bei   Relevante Ereignisse |
+|  | 3 | Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris / Pflichtfeld;  Mindestens eine Angabe ist erforderlich |
+|  |  |  | Lfd. Parameter Ausprägung |
+| Plausibilitäten |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten  1  Angina pectoris  Nein / Wenn ja: |
+| CCS I / CCS II / CCS III / CCS IV | Pflichtfeld; | Genau eine Angabe ist zulässig |  |
+| 2  (weggefallen) |  | 2a LDL-Cholesterin | |
+| mg/dl / mmol/l / Nicht bestimmt | Pflichtfeld; | Genau eine Angabe ist zulässig | Wenn ein Wert bei „mmol/l“  Wenn ein Wert bei |
+|  |  | Relevante Ereignisse | 3 |
+| Relevante Ereignisse | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld;  Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich  Erfolgt die Angabe „Nein“ ist keine weitere Angabe zulässig |
+| Lfd. Parameter | Ausprägung Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
+|  |  |  | Anamnese- und Befunddaten |
+| 1 | Angina pectoris | Nein / Wenn ja: | CCS I / CCS II / CCS III / CCS IV |
+| Pflichtfeld; | Genau eine Angabe ist zulässig |  | 2 |
+| (weggefallen) |  |  | 2a LDL-Cholesterin mg/dl / mmol/l / Nicht bestimmt Pflichtfeld;  Genau eine Angabe ist zulässig |
 
-| 3a | Herzinfarkt innerhalb der letzten 12 |  | Pflichtfeld |
-|---|---|---|---|
-|  |  | Ja / Nein |  |
-|  | Monate |  | Genau eine Angabe ist zulässig |
-
-4
-
-5
-
-6
-
-7
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025 (weggefallen)
-
-Ungeplante stationäre Behandlung  wegen KHK seit der letzten  Dokumentation
-
-Medikamente
-
-Thrombozytenaggregationshemmer
-
-Betablocker
-
-Anzahl
-
-Ja / Nein / Kontraindikation / O Antikoagulation
-
-Ja / Nein / Kontraindikation
-
-rale
-
-Bedingtes Pflichtfeld;  Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle  Die Angabe muss gleich oder größer „0“ und kleiner oder gleich  „ 99 “ sein  Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen  einer Folgedokumentation auszufüllen ist.  Eine Angabe im Rahmen einer Erstdokumentation ist nicht  zulässig
-
-Pflichtfeld;  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich   Die Angabe „ J a“ kann nicht gleichzeitig mit „ N ein“ und / oder  „Kontraindikation“ erfolgen.  Die Angabe „ J a“ kann einzeln oder gleichzeitig mit „ Orale  Antikoagulation“ erfolgen   Die Angabe „Kontraindikation“ kann auch alleine oder  gleichzeitig mit „Nein“ und /oder „ O rale Antikoagulation“ erfolgen  Die Angabe „Orale Antikoagulation“ kann alleine oder  gleichzeitig mit „ J a“ oder „ N ein“ und/oder „Kontraindikation“  erfolgen.  Die Angabe „ N ein“ kann alleine oder gleichzeitig mit der Angabe  „Kontraindikation“ und/oder „O rale Antikoagulation “ erfolgen.   Pflichtfeld;  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich -A-RL
-
+Datensatz für die indikationsspezifische Dokumentation: Nr. sind die nachstehenden Felder der Anlage 6* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Schlaganfall / Nein  Koronare Herzkrankheit (KHK) in Feld 10 mindestens die Angabe „KHK“ erfolgt,  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0,0  bis 25,9  liegen; Die Angabe erfolgt mit genau einer Nachkommastelle  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0  bis 999  liegen; Die Angabe erfolgt ohne Nachkommastelle „Instabile Angina pectoris“ „Schlaganfall“ können  einzeln oder gemeinsam erfolgen.
 
 ---
 
-| Lfd. |  |  |  |
+| 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld |
 |---|---|---|---|
-|  | Parameter | Ausprägung | Plausibilitäten |
-| Nr. |  |  |  |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Genau eine Angabe ist zulässig | 4 | | |
+| (weggefallen) | 5 | | |
+| Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |  |
+|  | Medikamente |  | 6  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ | |
+| Nein“ kann alleine oder gleichzeitig mit der Angabe |  | 7 | Betablocker  Ja / Nein / Kontraindikation  Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+| 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
+| 4 | (weggefallen) |  |  |
+| 5 | Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+|  | Medikamente |  | |
+| 6 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / O | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ Nein“ kann alleine oder gleichzeitig mit der Angabe |
+| 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+|  |  |  | 3a Herzinfarkt innerhalb der letzten 12 Ja / Nein |
+| Pflichtfeld | Genau eine Angabe ist zulässig | 4 | (weggefallen)    5  Ungeplante stationäre Behandlung Anzahl  Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |  |
+|  | Medikamente |  | 6  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder |
+| Ja“ oder „ | Nein“ kann alleine oder gleichzeitig mit der Angabe |  | 7  Betablocker  Ja / Nein / Kontraindikation |
+|  |  |  | 3a Herzinfarkt innerhalb der letzten 12 Ja / Nein |
+| Pflichtfeld | Genau eine Angabe ist zulässig | 4 | (weggefallen)    5  Ungeplante stationäre Behandlung Anzahl  Bedingtes Pflichtfeld; |
+| Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle | und kleiner oder gleich | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  | Medikamente | |
+|  |  | 6 | Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ Nein“ kann alleine oder gleichzeitig mit der Angabe |
+|  | 7 | Betablocker  Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+| 3a Herzinfarkt innerhalb der letzten 12 | Ja / Nein Pflichtfeld | Genau eine Angabe ist zulässig 4 | |
+| (weggefallen) |  |  | 5 |
+| Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; | Nummerische Angabe |
+| Die Angabe erfolgt ohne Nachkommastelle | und kleiner oder gleich | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+|  |  |  | Medikamente   6  Thrombozytenaggregationshemmer |
 
-8
-
-9
-
-9a
-
-9b
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025
-
-ACE-Hemmer (weggefallen)
-
-Aktuelle Statin-Dosis
-
-Aktuelle Therapiestrategie Statin
-
-Ja / Nein / Kontraindikation / ARB
-
-Hoch / Moderat / Niedrig / Kein Statin /  Kontraindikation gegen Statin
-
-Strategie der festen Dosis (hoch oder  moderat) / Zielwert-Strategie / Keine  Strategie vereinbart
-
-Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig   Die Angabe „ N ein“ kann alleine oder gleichzeitig mit der Angabe  „Kontraindikation“ erfolgen.  Pflichtfeld;  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich   Die Angabe „ J a“ kann nicht gleichzeitig mit „ N ein“ und / oder  „Kontraindikation“ erfolgen.  Die Angabe „ N ein“ kann alleine oder gleichzeitig mit der Angabe  „Kontraindikation“ und/oder „ ARB “ erfolgen.   Die Angabe „Kontraindikation“ kann auch alleine oder  gleichzeitig mit „Nein“ und /oder „ ARB “ erfolgen   Die Angabe „ ARB “ kann alleine oder gleichzeitig mit „ J a“ oder  „ N ein“ und/oder „Kontraindikation“ erfolgen.    Pflichtfeld  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich   Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig   Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig   Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig   Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit  „Kontraindikation gegen Satin“ und umgekehrt erfolgen   Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.
-
--A-RL
-
+Nr. Monate wegen KHK seit der letzten Dokumentation  Antikoagulation  Angabe muss gleich oder größer „0“ 99  sein  einer Folgedokumentation auszufüllen ist. Nein“ und / oder „Kontraindikation“ erfolgen. einzeln oder Orale Antikoagulation“ erfolgen rale gleichzeitig mit „Nein“ und /oder „ Orale Antikoagulation“ erfolgen Die Angabe „Orale Antikoagulation“ kann alleine oder Nein“ und/oder „Kontraindikation“ erfolgen. und/oder „O rale Antikoagulation  erfolgen.
 
 ---
 
-| Lfd. |  |  |  |
+|  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe | 8 |
 |---|---|---|---|
-|  | Parameter | Ausprägung | Plausibilitäten |
-| Nr. |  |  |  |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | | |
+| Pflichtfeld;  Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | | |
+| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | ARB | Die Angabe „ |
+| 9 | (weggefallen) |  |  |
+| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
+|  | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b | |
+| Aktuelle Therapiestrategie Statin | Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
+|  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe | 8  ACE-Hemmer |
+| Ja / Nein / Kontraindikation / ARB | Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |
+|  | Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | ARB  Die Angabe „  9  (weggefallen) |
+|  | 9a Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / Pflichtfeld | |
+| Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |  | Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig    Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit  9b Aktuelle Therapiestrategie Statin Strategie der festen Dosis (hoch oder |
+| Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  |  |
+|  |  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe |
+| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  ARB  Die Angabe „ |
+| 9 | (weggefallen) |  |  |
+| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig    Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit |
+| 9b | Aktuelle Therapiestrategie Statin | Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. |
+|  |  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe |
+| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „ |
+| ARB |  | Die Angabe „ |  |
+| 9  (weggefallen) |  | 9a Aktuelle Statin-Dosis | |
+| Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
+|  |  | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b Aktuelle Therapiestrategie Statin |
+| Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  |
+|  | Nein“ kann alleine oder gleichzeitig mit der Angabe 8 | ACE-Hemmer  Ja / Nein / Kontraindikation / ARB | |
+| Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |  |
+| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ |  | ARB |
+|  | Die Angabe „ |  | 9 |
+| (weggefallen) |  |  | 9a Aktuelle Statin-Dosis Hoch / Moderat / Niedrig / Kein Statin / Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
 
-9c
-
-10
-
-10a
-
-| 11 |  |  | Pflichtfeld; |
-|---|---|---|---|
-|  | Schulung empfohlen (bei aktueller |  |  |
-|  |  | Ja / Nein | Genau eine Angabe ist zulässig |
-|  | Dokumentation) |  |  |
-| 12 |  |  | Bedingtes Pflichtfeld; |
-|  |  | Ja / Nein / War aktuell nicht möglich / Bei | Genau eine Angabe ist zulässig |
-|  | Empfohlene Schulung(en) | letzter Dokumentation keine Schulung | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
-|  | wahrgenommen | empfohlen | einer Folgedokumentation auszufüllen ist |
-|  |  |  | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
-|  |  |  | zulässig |
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025
-
-Grund für niedrige Statin-Dosis (weggefallen)
-
-Schulung
-
-Schulung bereits vor Einschreibung  in DMP wahrgenommen
-
-Aufdosierungsphase / LDL-Zielwert  erreicht / Kontraindikation gegen hohe  oder moderate Dosis/ Ablehnung durch  Patienten / Keine Begründung
-
-Ja / Nein
-
-Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist   Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe  „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist  Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.   Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  „Niedrig“ erfolgt ist   Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe  „Hoch“, „Moderat" oder „Kein Statin“ oder „Kontraindikation  gegen Statin“ erfolgt ist
-
-Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig   Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen  einer Erstdokumentation auszufüllen ist.  Eine Angabe im Rahmen einer Folgedokumentation ist nicht  zulässig
-
+Nr. Kontraindikation gegen Statin moderat) / Zielwert-Strategie / Keine Strategie vereinbart Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig „Kontraindikation“ erfolgen. Nein“ und / oder „Kontraindikation“ erfolgen. „Kontraindikation“ und/oder „ “ erfolgen. Die Angabe „Kontraindikation“ kann auch alleine oder gleichzeitig mit „Nein“ und /oder „ “ erfolgen “ kann alleine oder gleichzeitig mit „ Ja“ oder Nein“ und/oder „Kontraindikation“ erfolgen. Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig „Kontraindikation gegen Satin“ und umgekehrt erfolgen
 
 ---
 
-**Lfd.**  **Nr.**
+| Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe |  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 9c |
+|---|---|---|---|
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Grund für niedrige Statin-Dosis | Aufdosierungsphase / LDL-Zielwert | | |
+| Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe | | |
+|  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 10 | (weggefallen) |
+|  |  |  | Schulung |
+|  |  | 10a | Schulung bereits vor Einschreibung Ja / Nein Bedingtes Pflichtfeld Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Folgedokumentation ist nicht |
+| 11 | Schulung empfohlen (bei aktueller Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig | |
+|  | 12 | Empfohlene Schulung(en) | Ja / Nein / War aktuell nicht möglich / Bei   Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+| Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe |  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 9c Grund für niedrige Statin-Dosis |
+| Aufdosierungsphase / LDL-Zielwert | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  |
+| Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe |  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe | 10  (weggefallen) |
+| Schulung |  | 10a Schulung bereits vor Einschreibung | |
+| Ja / Nein | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Folgedokumentation ist nicht  11  Schulung empfohlen (bei aktueller Ja / Nein  Pflichtfeld; Genau eine Angabe ist zulässig  12 |
+| Empfohlene Schulung(en) | Ja / Nein / War aktuell nicht möglich / Bei |  | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+|  |  |  | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
+| 9c | Grund für niedrige Statin-Dosis | Aufdosierungsphase / LDL-Zielwert | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe  10  (weggefallen) |
+|  |  |  | Schulung |
+|  |  | 10a | Schulung bereits vor Einschreibung Ja / Nein Bedingtes Pflichtfeld Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Folgedokumentation ist nicht  11  Schulung empfohlen (bei aktueller Ja / Nein  Pflichtfeld; |
+| Genau eine Angabe ist zulässig |  | 12 | Empfohlene Schulung(en) Ja / Nein / War aktuell nicht möglich / Bei |
+|  |  |  | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
+| 9c | Grund für niedrige Statin-Dosis | Aufdosierungsphase / LDL-Zielwert | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
+| 10 | (weggefallen) |  |  |
+|  | Schulung |  | |
+| 10a | Schulung bereits vor Einschreibung | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Folgedokumentation ist nicht |
+| 11 | Schulung empfohlen (bei aktueller | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
+| 12 | Empfohlene Schulung(en) | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+| Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe 9c | Grund für niedrige Statin-Dosis Aufdosierungsphase / LDL-Zielwert | |
+| Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  | Eine Angabe ist erforderlich, wenn in Feld 9a die Angabe |
+|  | Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |  | 10 |
+| (weggefallen) |  |  |  |
+|  |  | Schulung | 10a Schulung bereits vor Einschreibung Ja / Nein Bedingtes Pflichtfeld |
 
-13
+Nr. in DMP wahrgenommen Dokumentation)  wahrgenommen erreicht / Kontraindikation gegen hohe oder moderate Dosis/ Ablehnung durch Patienten / Keine Begründung letzter Dokumentation keine Schulung „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist „Niedrig“ erfolgt ist „Hoch“, „Moderat" oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist erfolgt ist einer Erstdokumentation auszufüllen ist. einer Folgedokumentation auszufüllen ist
 
-13a
+---
 
-14
+|  |  |  | Behandlungsplanung |
+|---|---|---|---|
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+|  |  | | |
+| 13 (weggefallen) |  | | |
+| 13a | (weggefallen) |  | 14  (weggefallen) |
+|  | 15 | Regelmäßiges sportliches Training | Ja / Nein / Nicht möglich |
+| Pflichtfeld | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | Erfolgt die Angabe „ Die Angaben |
+|  |  |  | |
+|  |  |  |  |
+|  |  |  | Behandlungsplanung |
+|  | 13 | (weggefallen) |  |
+|  | 13a | (weggefallen) | 14  (weggefallen)   15 |
+| Regelmäßiges sportliches Training Ja / Nein / Nicht möglich | Pflichtfeld  Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | |
+| Erfolgt die Angabe „ | Die Angaben |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Behandlungsplanung |  |  | 13 (weggefallen)    13a  (weggefallen)    14  (weggefallen) |
+|  | 15 | Regelmäßiges sportliches Training | Ja / Nein / Nicht möglich |
+| Pflichtfeld | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | Erfolgt die Angabe „ Die Angaben |
+|  |  |  |  |
+|  |  |  |  |
+| Behandlungsplanung |  |  | 13 (weggefallen)    13a  (weggefallen) |
+|  | 14 | (weggefallen) |  |
+| 15 | Regelmäßiges sportliches Training Ja / Nein / Nicht möglich | Pflichtfeld  Mindestens eine Angabe ist erforderlich | |
+| Mehrfachnennungen sind möglich |  | Erfolgt die Angabe „ | Die Angaben |
+|  |  |  |  |
+|  |  |  |  |
+|  | Behandlungsplanung |  | |
+| 13 | (weggefallen) |  |  |
+| 13a | (weggefallen) |  |  |
+| 14 | (weggefallen) |  |  |
+| 15 | Regelmäßiges sportliches Training | Ja / Nein / Nicht möglich | Pflichtfeld  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich  Erfolgt die Angabe „ Die Angaben |
 
-15
-
-* Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung KHK Version 5.0 letzte Bearbeitung: 05.09.2025
-
-**Parameter**
-
-Behandlungsplanung (weggefallen)
-
-(weggefallen)
-
-(weggefallen)
-
-Regelmäßiges sportliches Training
-
-**Ausprägung**
-
-Ja / Nein / Nicht möglich
-
-**Plausibilitäten**
-
-Pflichtfeld  Mindestens eine Angabe ist erforderlich  Mehrfachnennungen sind möglich   Erfolgt die Angabe „ J a“ ist keine weitere Angabe zulässig  Die Angaben „Nein“ und „Nicht möglich“ können einzeln oder  gemeinsam erfolgen -A-RL
+Nr. Ja“ ist keine weitere Angabe zulässig „Nein“ und „Nicht möglich“ gemeinsam erfolgen  können einzeln oder

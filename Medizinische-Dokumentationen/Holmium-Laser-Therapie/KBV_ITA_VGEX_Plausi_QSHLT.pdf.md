@@ -1,20 +1,22 @@
 |  | IT in der Arztpraxis |
 |---|---|
 |  | Plausibilitätenkatalog Holmium |
-|  | [KBV_ITA_VGEX_Plausi_QSHLT] |
+|  | [KBV_ITA_VGEX_Plausi_QSHLT ] |
 |  |  |
-|  | Dezernat |
+|  | Digitalisierung und IT |
 |  |  |
 |  | 10623 Berlin, Herbert |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version |
+|  | 1.01 |
 
-Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
+Laser-Therapie Dezernat -Lewin-Platz 2 Version  Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
+
+Holmium-Laser-Therapie
 
 ### DOKUMENTENHISTORIE
 
@@ -23,15 +25,7 @@ Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kenn
 | 1.01 | 11.02.2016 | KBV | Ergänzung von Bedi |  | 5ff |
 | 1.00 | 31.03.2014 | KBV |  | Einführung der Schnitt- |  |
 
-**IT in der Arztpraxis** Plausibilitätenkatalog
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-Holmium -Laser-Therapie
-
-Seite 2 von 9
-
-n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 stelle QS Holmium-Laser- Therapie
+gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 n- stelle QS Holmium-Laser- Therapie
 
 ---
 
@@ -41,54 +35,50 @@ INHALTSVERZEICHNIS
 
 ***INHALTSVERZEICHNIS_____________________________________________________ 3***
 
-***1 PRÄAMBEL ___________________________________________________________ 4***
+***1*** ***PRÄAMBEL ___________________________________________________________ 4***
 
-***1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4***
+***1.1*** ***Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4***  ***1.2*** ***Hinweise zum Verständnis dieses Dokuments ...........................................................................4***  1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4  1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
 
-***1.2 Hinweise zum Verständnis dieses Dokuments ...........................................................................4***
+***2*** ***BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5***
 
-1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4
+***3*** ***REFERENZIERTE DOKUMENTE __________________________________________ 9***
 
-1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
-
-***2 BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5***
-
-***3 REFERENZIERTE DOKUMENTE __________________________________________ 9***
-
-***IT in der Arztpraxis*** Plausibilitätenkatalog
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-Holmium -Laser-Therapie
-
-Seite 3 von 9
+Holmium
 
 
 ---
 
+Holmium
+
 **1**
 
-### Präambel
+## Präambel
 
-### 1.1
+**1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie**
 
-### Qualitätssicherungsvereinbarung Holmium-Laser-Therapie
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT) [1] erhoben werden. Es wird eine arztbezo- gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.   **1.2 Hinweise zum Verständnis dieses Dokuments**
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT) [1] erhoben werden. Es wird eine arztbezo- gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in diesem Kapi- tel hilfreich.
 
-### 1.2
+**1.2.1 Beschreibung der Spalte „Art“**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
 
-### Hinweise zum Verständnis dieses Dokuments
+**M = Mussfeld (Pflichtfeld)**
 
-Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in diesem Kapi- tel hilfreich.   **1.2.1 Beschreibung der Spalte „Art“**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.   **M = Mussfeld (Pflichtfeld)**   Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**   Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   **Hinweis: Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.    **K = Kannfeld (optionales Feld)**   Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.   **k = bedingtes Kannfeld (bedingtes optionales Feld)**   Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld darf nicht vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht erfüllt ist.**    **1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“**  **Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.   **Warnung**  Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer- den.
+Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
 
-**IT in der Arztpraxis** Plausibilitätenkatalog
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   **Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+**K = Kannfeld (optionales Feld)**
 
-Holmium -Laser-Therapie
+Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.
 
-Seite 4 von 9
+**k = bedingtes Kannfeld (bedingtes optionales Feld)**   Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
+
+**1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“**
+
+**Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.
+
+**Warnung**  Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer- den.
 
 
 ---
@@ -142,11 +132,7 @@ Seite 4 von 9
 | 2 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art |
 |  |  |  | Jahr | 4-stellige Jahreszahl JJJJ M Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“ 2 |
 
-IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer Seite 5 von 9
+Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer **5** von **9**
 
 
 ---
@@ -200,11 +186,7 @@ Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe m
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |  |  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M   Warnung, wenn (Feld 12 + Feld 13 + Feld 14 + Feld 15) < (Feld 4 + Feld 5) |
 
-IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-tien TURP -Verfahren tionelle OPSeite 6 von 9
+tien TURP -Verfahren tionelle OP**6** von **9**
 
 
 ---
@@ -258,11 +240,7 @@ tien TURP -Verfahren tionelle OPSeite 6 von 9
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 | 22 | Anzahl interventionspflichtige |  | Ganzzahl 0-99999 | M  Fehler, wenn (Feld 22 + Feld 23 + Feld 24) > (Feld 4 + Feld 5) |
 
-IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-Nachblutungen ohne Transf u- sion Nachblutungen mit Transfus i-Seite 7 von 9
+Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 
 
 ---
@@ -316,11 +294,7 @@ Nachblutungen ohne Transf u- sion Nachblutungen mit Transfus i-Seite 7 von 9
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläut |
 | 33 | Anzahl Entlassungen mit | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |
 
-IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
-
-erung) SpontanmiktionSeite 8 von 9
+Spontanmiktion erung) **8** von **9**
 
 
 ---
@@ -331,10 +305,6 @@ erung) SpontanmiktionSeite 8 von 9
 
 | Referenz | Dokument |
 |---|---|
-| [1] | Qualitätssicherungsvereinbarung |
+| [1] | Holmium-Laser- |
 
-**IT in der Arztpraxis** Plausibilitätenkatalog Holmium
-
-KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01 -Laser-Therapie
-
-Holmium-Laser- Therapie
+Qualitätssicherungsvereinbarung Therapie

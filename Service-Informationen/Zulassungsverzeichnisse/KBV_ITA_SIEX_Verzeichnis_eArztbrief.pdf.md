@@ -1,14 +1,10 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE ÜBERMITTLUNG VON EARZTBRIEFEN GEMÄß §291F SGB V
 
-# FÜR DIE ÜBERMITTLUNG VON
-
-# EARZTBRIEFEN GEMÄß §291F SGB V
-
-### IT IN DER ARZTPRAXIS
+## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. APRIL 2026**
+**18. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -17,10 +13,10 @@
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
+|  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **LIS++**
 
@@ -34,7 +30,7 @@
 |---|---|---|---|
 |  | Y/63/2601/36/081 | 31.12.2028 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2408/36/395
 
@@ -49,11 +45,6 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **Med7**
 
 **Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
@@ -66,11 +57,18 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/63/2402/36/459 | 31.01.2027 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2308/36/078
 
-Y/63/2406/36/636 31.07.2026
+Y/63/2406/36/636
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.07.2026
 
 31.05.2027
 
@@ -80,11 +78,6 @@ i.s.h.med eArztbrief-Lösung Cerner Health Services Deutschland GmbH Siemensdamm
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **CGM MEDICO**
 
@@ -98,11 +91,18 @@ i.s.h.med eArztbrief-Lösung Cerner Health Services Deutschland GmbH Siemensdamm
 |---|---|---|---|
 |  | Y/63/2310/36/112 | 30.09.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2402/36/226
 
-Y/63/2406/36/706 31.01.2027
+Y/63/2406/36/706
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.01.2027
 
 31.05.2027
 
@@ -112,11 +112,6 @@ Co-Fox Pathologie (LIMS) Co-Fox GmbH Wilhelm-Saucke-Straße 12 29227 Celle Inter
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **ALBIS**
 
@@ -130,11 +125,18 @@ Co-Fox Pathologie (LIMS) Co-Fox GmbH Wilhelm-Saucke-Straße 12 29227 Celle Inter
 |---|---|---|---|
 |  | Y/63/2309/36/280 | 31.08.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2310/36/203
 
-Y/63/2402/36/023 30.09.2026
+Y/63/2402/36/023
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.09.2026
 
 31.01.2027
 
@@ -145,28 +147,30 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **DS-WIN-PLUS (DS-WIN-MED)**
 
 **DAMPSOFT GmbH** Vogelsang 1 24351 Damp Internet: www.dampsoft.de
 
 **Data-AL**
 
-**Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
+**Data-AL GmbH** Edisonallee 25
+
+89231 Neu-Ulm Internet: www.data-al.de
 
 |  | Y/63/2407/36/238 | 30.06.2027 |  |
 |---|---|---|---|
 |  | Y/63/2403/36/254 | 28.02.2027 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2507/36/262
 
-Y/63/2603/36/060 30.06.2028
+Y/63/2603/36/060
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2028
 
 28.02.2029
 
@@ -176,11 +180,6 @@ InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Interne
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **IMedOne**
 
@@ -194,11 +193,16 @@ InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Interne
 |---|---|---|---|
 |  | Y/63/2409/36/409 | 31.08.2027 |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2402/36/314
 
-Y/63/2407/36/488 31.01.2027
+Y/63/2407/36/488
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.01.2027
 
 30.06.2027
 
@@ -208,11 +212,6 @@ Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **apraxos**
 
@@ -226,11 +225,16 @@ Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.
 |---|---|---|---|
 |  | Y/63/2601/36/295 | 31.12.2028 |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2309/36/602
 
-Y/63/2601/36/086 31.08.2026
+Y/63/2601/36/086
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.08.2026
 
 31.12.2028
 
@@ -240,11 +244,6 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **PsychoDat**
 
@@ -258,11 +257,16 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 |---|---|---|---|
 |  | Y/63/2308/36/034 | 31.07.2026 |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2507/36/253
 
-Y/63/2506/36/223 30.06.2028
+Y/63/2506/36/223
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2028
 
 31.05.2028
 
@@ -273,28 +277,32 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **FIDUS**
 
 **FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
 
 **garrioPRO**
 
-**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
+**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart
+
+Internet: www.garrio.de
 
 |  | Y/63/2505/36/417 | 30.04.2028 |  |
 |---|---|---|---|
 |  | Y/63/2603/36/298 | 28.02.2029 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2406/36/403
 
-Y/63/2408/36/701 31.05.2027
+Y/63/2408/36/701
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.05.2027
 
 31.07.2027
 
@@ -304,11 +312,6 @@ Centricity RIS-i GE Healthcare Information Technologies GmbH & Co. KG Peter-Mül
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **IFA-AUGENARZT**
 
@@ -322,11 +325,16 @@ Centricity RIS-i GE Healthcare Information Technologies GmbH & Co. KG Peter-Mül
 |---|---|---|---|
 |  | Y/63/2402/36/136 | 31.01.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2602/36/400
 
-Y/63/2407/36/451 31.01.2029
+Y/63/2407/36/451
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.01.2029
 
 30.06.2027
 
@@ -336,11 +344,6 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **esQlab.online**
 
@@ -354,11 +357,18 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 |---|---|---|---|
 |  | Y/63/2409/36/065 | 31.08.2027 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2507/36/406
 
-Y/63/2402/36/320 30.06.2028
+Y/63/2402/36/320
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2028
 
 31.01.2027
 
@@ -368,11 +378,6 @@ CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Eber
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **Melos-Labor-System**
 
@@ -386,11 +391,16 @@ CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Eber
 |---|---|---|---|
 |  | Y/63/2307/36/243 | 30.06.2026 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2409/36/716
 
-Y/63/2309/36/135 31.08.2027
+Y/63/2309/36/135
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.08.2027
 
 31.08.2026
 
@@ -400,11 +410,6 @@ x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **x.comfort**
 
@@ -420,11 +425,16 @@ Softwarevariante(n): - psyx
 |---|---|---|---|
 |  | Y/63/2505/36/439 | 30.04.2028 |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2307/36/266
 
-Y/63/2407/36/462 30.06.2026
+Y/63/2407/36/462
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2026
 
 30.06.2027
 
@@ -435,11 +445,6 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **WIN-RADIOLOG**
 
 **medigration GmbH** Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de
@@ -448,19 +453,17 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 |---|---|---|---|
 |  | Y/63/2402/36/192 | 31.01.2027 |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Y/63/2311/36/446
 
-Y/63/2311/36/446 31.10.2026
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
-Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsWindows
+Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows Windows31.10.2026Windows
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **MEDVISION**
 
@@ -472,19 +475,17 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|
 |  | Y/63/2501/36/276 | 31.12.2027 |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Y/63/2603/36/251
 
-Y/63/2603/36/251 28.02.2029
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
-MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de RadCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Mac OS Windows WindowsWindows
+MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de RadCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Mac OS Windows Windows28.02.2029Windows
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **ClinicCentre Billing (OPD)**
 
@@ -498,11 +499,18 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de RadCen
 |---|---|---|---|
 |  | Y/63/2308/36/299 | 31.07.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2505/36/422
 
-Y/63/2406/36/494 30.04.2028
+Y/63/2406/36/494
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.04.2028
 
 31.05.2027
 
@@ -512,11 +520,6 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **MEDOS**
 
@@ -530,11 +533,16 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |---|---|---|---|
 |  | Y/63/2601/36/083 | 31.12.2028 |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2507/36/278
 
-Y/63/2403/36/487 30.06.2028
+Y/63/2403/36/487
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+30.06.2028
 
 28.02.2027
 
@@ -545,28 +553,30 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **PROFIMED**
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
 **psyprax**
 
-**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
+**psyprax GmbH** Landsberger Straße 308
+
+80687 München Internet: www.psyprax.de
 
 |  | Y/63/2308/36/456 | 31.07.2026 |  |
 |---|---|---|---|
 |  | Y/63/2402/36/626 | 31.01.2027 |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
-
 Y/63/2312/37/247
 
-Y/63/2601/36/348 31.12.2026
+Y/63/2601/36/348
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.12.2026
 
 31.12.2028
 
@@ -576,11 +586,6 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 
 ---
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
 
 **S3-Win**
 
@@ -598,13 +603,20 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 |---|---|---|---|
 |  | Y/63/2507/36/498 | 30.06.2028 |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 18. April 2026
 
 Y/63/2401/36/261
 
 Y/63/2311/36/171
 
-Y/63/2407/36/458 31.12.2026
+Y/63/2407/36/458
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+
+31.12.2026
 
 31.10.2026
 
@@ -619,11 +631,6 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf T2med T2me
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| Kontaktdaten | Prüfnummer |  |  |
-|  |  | gültig bis | Betriebssysteme |
-
 **Medi10**
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
@@ -632,8 +639,11 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf T2med T2me
 |---|---|---|---|
 |  | Y/63/2601/36/768 | 31.12.2028 |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 11. April 2026
+Y/63/2407/36/313
 
-Y/63/2407/36/313 30.06.2027
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsWindows
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows30.06.2027Windows

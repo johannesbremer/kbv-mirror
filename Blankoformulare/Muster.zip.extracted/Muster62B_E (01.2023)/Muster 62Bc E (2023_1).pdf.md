@@ -1,14 +1,14 @@
-### I.  Klinischer Status
+### I. Klinischer Status
 
-### III.Weitere Hinweise
+**III. Weitere Hinweise**
 
-### II. Erforderlicher Leistungsumfang der AKI
+**II. Erforderlicher Leistungsumfang der AKI**
 
 ## Verordnung
 
 ## außerklinischer Intensivpflege
 
-Verordnungsrelevante Diagnose(n) (ICD-10-Code)
+Verordnungsrelevante Diagnose(n) ***(ICD-10-Code)***
 
 Erst-  verordnung Folge-  verordnung Unfall
 
@@ -22,15 +22,13 @@ Kostenträgerkennung Versicherten-Nr. Status
 
 Betriebsstätten-Nr. Arzt-Nr. Datum
 
-Krankenkasse bzw. Kostenträger
-
-## 62B
+Krankenkasse bzw. Kostenträger**62B**
 
 Voraussichtliches Entlassdatum  ***(nur durch Krankenhaus anzugeben)***
 
-Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10  Abs. 4 Satz 1 AKI-Richtlinie (fakultativ I bis III)
+Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10  Abs. 4 Satz 1 AKI-Richtlinie*** (fakultativ I bis III)***
 
-**Bewusstseinsstörung, Art**
+**Bewusstseinsstörung**, Art
 
 |  | Kommunikation | Orientierung |  |
 |---|---|---|---|
@@ -41,7 +39,7 @@ Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10  Abs. 4 Satz 1
 | eingeschränkt | eingeschränkt |  | Schürzengriff |
 |  |  |  | in den Rollstuhl |
 | nicht möglich | nicht möglich |  | stehfähig, gehfähig Faustschluss |
-|  |  |  | immobil Pinzettengriff |
+|  |  |  | immobilPinzettengriff |
 
 nein
 
@@ -51,7 +49,7 @@ teilweise
 
 Orale  Ernährung
 
-Sonstige Hinweise (z.B. zu Kommunikation, Mitwirkung, Mobilität, Ernährung)
+Sonstige Hinweise ***(z.B. zu Kommunikation, Mitwirkung, Mobilität, Ernährung)***
 
 Konsilpartner bei nicht beatmungspflichtigen oder nicht trachealkanülierten Versicherten,  wenn die Verordnung durch eine nicht auf die Erkrankung spezialisierte Fachärztin oder  Facharzt erfolgt
 
@@ -61,13 +59,13 @@ Erhebungen nach Muster 62A zum Zwecke der Therapieoptimierung und zur Verbesseru
 
 Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest- gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs-  bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
 
-| Beatmungsform | Beatmungsdauer |
-|---|---|
-|  | Stunden |
-| invasiv |  |
-|  | pro Tag |
-| nicht | Stunden |
-| invasiv, Maskentyp | pro Nacht |
+invasiv
+
+nicht  invasiv, Maskentyp
+
+Stunden  pro Tag
+
+Stunden  pro Nacht
 
 **Tracheostoma, seit**
 
@@ -79,7 +77,7 @@ geblocktungeblocktSprechventil
 
 zu regelmäßigen  Zeiten zu unregelmäßigen  Zeiten
 
-**Sonstige vitale Funktionseinschränkungen, Art und Häufigkeit**
+**Sonstige vitale Funktionseinschränkungen**, Art und Häufigkeit
 
 Entblockungszeiten
 
@@ -87,9 +85,11 @@ Stunden  pro Tag
 
 Stunden  pro Nacht
 
-Spontanatmungszeit
+SpontanatmungszeitBeatmungsform
 
 Trachealkanüle
+
+Beatmungsdauer
 
 sind weiterhin  angezeigt sind nicht mehr  angezeigt werden durch den Patienten  nicht mehr gewünscht
 

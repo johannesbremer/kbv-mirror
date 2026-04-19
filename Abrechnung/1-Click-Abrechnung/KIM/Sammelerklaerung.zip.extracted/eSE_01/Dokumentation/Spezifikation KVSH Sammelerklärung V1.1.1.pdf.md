@@ -1,13 +1,3 @@
-## Spezifikation
-
-## elektronische Sammelerklärung
-
-## in der
-
-## Kassenärztlichen Vereinigung
-
-## Schleswig-Holstein
-
 | Dokumenten-ID / Titel | Spezifikation eSE - elektronische Sammelerklärung |
 |---|---|
 | Dateiname: | Spezifikation KVSH Sammelerklärung V1.1.1.docx |
@@ -15,54 +5,73 @@
 | Erstellt von: | Udo Karlins |
 | Version: | 1.1.1 |
 | Status: | in Bearbeitung |
-| Letzte Aktualisierung am/von: | 17.11.2025 / Udo Karlins |
-| Nächste Revision am: | 01.12.2026 |
+| Letzte Aktualisierung am/von: | 1.7.11.2025 / Udo Karlins |
+| Nächste Revision am: | 0.1.12.2026 |
 | Sicherheitsklassifizierung: | öffentlich |
 
-Richtlinie    Anweisung    Vereinbarung    Bericht  in Kraft  nur zum internen Gebrauch                   KV-Pedia
+# elektronische Sammelerklärung
+
+# Kassenärztlichen Vereinigung
+
+# Schleswig-Holstein
+
+# Spezifikation
+
+# in der
+
+Richtlinie    nur zum internen Gebrauch                   Anweisung    in Kraft  Vereinbarung    Bericht  KV-Pedia
 
 ---
 
-| 1 | Inhaltsangabe | |  |  |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Inhaltsangabe |  |  |  |  |  | ......................................................................................................................................... | | | | 2 |
-| 2 | Versionshistorie | |  |  |  |  | ...................................................................................................................................... | | | | 3 |
-| 3 | Kontakt |  |  |  |  |  | ................................................................................................................................................... | | | | 3 |
-| 4 | Vorbemerkungen | |  |  |  |  | .................................................................................................................................... | | | | 4 |
-| 4.1 |  | Rechtliche | Verankerung | der | Sammelerklärung | |  |  | ............................................................................. | | 4 |
-| 4.2 | Definition | der | Erklärenden | |  |  |  | ............................................................................................................. | | | 4 |
-| 4.3 |  | Mitgeltende | Dokumente | |  |  |  | ................................................................................................................. | | | 5 |
-| 5 | Technische | Beschreibung |  |  |  |  | ...................................................................................................................... | | | | 6 |
-| 5.1 | Aufbau | der |  | Sammelerklärung |  |  |  | ........................................................................................................ | | | 6 |
-| 5.2 |  | Ausfüllhinweise | zum |  | header-Bereich |  |  |  | ............................................................................................. | | 7 |
-|  | 5.2.1 | header/id |  |  |  |  | .............................................................................................................................. | | | | 7 |
-|  | 5.2.2 |  | header/service_tm | |  |  |  | ................................................................................................................ | | | 7 |
-|  | 5.2.3 |  | header/origination_dttm | |  |  |  | ........................................................................................................ | | | 7 |
-|  | 5.2.4 | header/provider |  |  |  |  |  | .................................................................................................................... | | | 7 |
-|  | 5.2.4.1 |  | header/provider/person |  |  |  |  | ........................................................................................................ | | | 8 |
-|  | 5.2.4.2 |  |  | header/provider/organisation | |  |  |  | ................................................................................................ | | 8 |
-| 5.3 |  | Ausfüllhinweise | zum |  | body-Bereich |  |  |  | ................................................................................................ | | 9 |
-| 6 | Erzeugung | einer |  | Sammelerklärung | im | PDF/A-1b | Format |  | ..................................................................... | | 10 |
-| 6.1 |  | Vorgehensweise | zur | Erstellung | einer |  | Sammelerklärung | im | PDF/A-1b Format | ............................ | 11 |
-| 6.2 |  | Unterschiede | zwischen | PDF | und PDF/A |  |  |  | ..................................................................................... | | 11 |
+1
 
-Spezifikation eSE - elektronische Sammelerklärung
+## Inhaltsangabe
 
-Kontakt ................................................................................................................................................... Rechtliche Verankerung der Sammelerklärung Definition der Erklärenden Mitgeltende Dokumente Technische Beschreibung ...................................................................................................................... Aufbau der Sammelerklärung Ausfüllhinweise zum header-Bereich header/id .............................................................................................................................. header/provider .................................................................................................................... header/provider/person ........................................................................................................ Ausfüllhinweise zum body-Bereich Erzeugung einer Sammelerklärung im PDF/A-1b Format Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A-1b Format Unterschiede zwischen PDF und PDF/A Seite 2 von 11
+1 Inhaltsangabe ......................................................................................................................................... 2  2 Versionshistorie ...................................................................................................................................... 3  3 Kontakt ................................................................................................................................................... 3  4 Vorbemerkungen .................................................................................................................................... 4
+
+4.1 Rechtliche Verankerung der Sammelerklärung ............................................................................. 4
+
+4.2 Definition der Erklärenden ............................................................................................................. 4
+
+4.3 Mitgeltende Dokumente ................................................................................................................. 5
+
+5 Technische Beschreibung ...................................................................................................................... 6
+
+5.1 Aufbau der Sammelerklärung ........................................................................................................ 6
+
+5.2 Ausfüllhinweise zum header-Bereich ............................................................................................. 7  5.2.1 header/id .............................................................................................................................. 7
+
+5.2.2 header/service_tm ................................................................................................................ 7
+
+5.2.3 header/origination_dttm ........................................................................................................ 7
+
+5.2.4 header/provider .................................................................................................................... 7
+
+5.2.4.1 header/provider/person ........................................................................................................ 8
+
+5.2.4.2 header/provider/organisation ................................................................................................ 8
+
+5.3 Ausfüllhinweise zum body-Bereich ................................................................................................ 9
+
+6 Erzeugung einer Sammelerklärung im PDF/A-1b Format ..................................................................... 10
+
+6.1 Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A-1b Format ............................ 11
+
+6.2 Unterschiede zwischen PDF und PDF/A ..................................................................................... 11
 
 
 ---
 
 2
 
-## Versionshistorie
+Versionshistorie
 
 | Datum | Version | Autor | Inhalt |
 |---|---|---|---|
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| 17.11.2025 | 1.1.1 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
+| 1.7.11.2025 | 1.1.1 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
 | 12.11.2025 | 1.1.0 | Udo Karlins | Kommentare der kv.digital eingearbeitet |
 | 05.08.2025 | 1.0.1 | Udo Karlins | TelefonNr für Praxisstempel |
 | 22.07.2025 | 1.0.0 | Udo Karlins | Freigabe |
@@ -78,53 +87,45 @@ Allgemeiner Hinweis: Zur Vereinfachung der Lesbarkeit wird in diesem Dokument di
 
 Für technische oder inhaltliche Fragen wenden Sie sich bitte an
 
-- Udo Karlins, E-Mail: [portal@kvsh.de](mailto:portal@kvsh.de), Telefon: 04551 883 281
+-  Udo Karlins, E-Mail: [portal@kvsh.de](mailto:portal@kvsh.de), Telefon: 04551 883 281
 
-- Patrick Prieß, E-Mail: [portal@kvsh.de](mailto:portal@kvsh.de), Telefon: 04551 883 640
-
-Spezifikation eSE - elektronische Sammelerklärung
-
-KV Nordrhein Seite 3 von 11
+KV Nordrhein -  Patrick Prieß, E-Mail: [portal@kvsh.de](mailto:portal@kvsh.de), Telefon: 04551 883 640
 
 
 ---
 
 4
 
-## Vorbemerkungen
+## Vorbemerkungen 4.1
 
-4.1 Rechtliche Verankerung der Sammelerklärung
+### Rechtliche Verankerung der Sammelerklärung
 
-Die Kassenärztliche Vereinigung Schleswig-Holstein bietet allen ihren Mitgliedern die Möglichkeit, eine  elektronische Sammelerklärung (eSammelerklärung) als Teil der Quartalsabrechnung einzureichen.
+Die Kassenärztliche Vereinigung Schleswig -Holstein bietet allen ihren Mitgliedern die Möglichkeit, eine  elektronische Sammelerklärung (eSammelerklärung) als Teil der Quartalsabrechnung einzureichen.
 
 Die eSammelerklärung muss im PDF/A-1b Format erstellt werden und ist vom Erklärenden mit seinem eHBA  qualifiziert elektronisch zu signieren.
 
 Die signierte eSammelerklärung wird online per KIM an die KVSH gesendet.
 
-Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV-Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachl ich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
+Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV -Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachl ich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
 
-Es wird für alle Leistungserbringer die gleichlautende Sammelerklärung verwendet: - Einzelpraxen
-- Berufsausübungsgemeinschaften - MVZ
-- Notfallpraxen
-- Notfallambulanzen
-- Ermächtigte
-- Krankenhäuser (nur im Rahmen der außerklinischen Intensivpflege)
+Es wird für alle Leistungserbringer die gleichlautende Sammelerklärung verwendet: -  Einzelpraxen
+-  Berufsausübungsgemeinschaften -  MVZ
+-  Notfallpraxen
+-  Notfallambulanzen
+-  Ermächtigte
+-  Krankenhäuser (nur im Rahmen der außerklinischen Intensivpflege) 4.2
 
-4.2 Definition der Erklärenden
+### Definition der Erklärenden
 
 Wer hat eine Sammelerklärung einzureichen:
 
-- jeder in einer Praxis niedergelassene Vertragsarzt, bei BAGen jeder Praxispartner
-- jeder in einer Praxis niedergelassene Vertragspsychotherapeut, bei BAGen jeder Praxispartner - Ermächtigte
-- die ärztliche Leitung eines MVZ
-- die ärztliche Leitung bei ermächtigten Einrichtungen
-- die ärztliche Leitung bei Laborgemeinschaften
+-  jeder in einer Praxis niedergelassene Vertragsarzt, bei BAGen jeder Praxispartner
+-  jeder in einer Praxis niedergelassene Vertragspsychotherapeut, bei BAGen jeder Praxispartner -  Ermächtigte
+-  die ärztliche Leitung eines MVZ
+-  die ärztliche Leitung bei ermächtigten Einrichtungen
+-  die ärztliche Leitung bei Laborgemeinschaften
 
 Die Sammelerklärung ist für die jeweilige Hauptbetriebsstätten einzureichen und beinhalten die jeweilige (n)  Nebenbetriebsstätte(n).
-
-Spezifikation eSE - elektronische Sammelerklärung
-
-Seite 4 von 11
 
 
 ---
@@ -132,41 +133,38 @@ Seite 4 von 11
 | 4.3 | Mitgeltende |  | Dokumente |
 |---|---|---|---|
 | Basis für | den | Aufbau | der |
-| Sammelerklärung | | 1 (eSE) “, | die im |
+| Sammelerklärung | | 1(eSE) “, | die im |
 | im Jahr | 2010 definiert | wurde. |  |
-| Das | vorliegende | Dokument führt |  |
-| sich in | der genannten | Schnittstelle | |
+| Das | vorliegende | Dokument | führt |
+| sich in | der genannten |  | Schnittstelle |
 
-ist die Schnittstellenbeschreibung „elektronische
+ist Schnittstellenbeschreibung „elektronische die  -übergreifenden Arbeitsgruppe der KV Telematik ARGE
 
-1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/) → Sammelerklärung.zip
-
-Spezifikation eSE - elektronische Sammelerklärung
-
-Mitgeltende Dokumente Sammelerklärung (eSE) “, die im Rahmen einer KV -übergreifenden Arbeitsgruppe der KV Telematik ARGE im Jahr 2010 definiert wurde.  Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und sich in der genannten Schnittstelle wiederfinden. Seite 5 von 11
+Mitgeltende Dokumente “, die im Rahmen einer KV Sammelerklärung (eSE) im Jahr 2010 definiert wurde.  Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und sich in der genannten Schnittstelle wiederfinden. 1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)  Sammelerklärung.zip
 
 
 ---
 
-| 5 |  | Technische |  | Beschreibung | |  |
-|---|---|---|---|---|---|---|
-| 5.1 | Aufbau | der |  | Sammelerklärung | |  |
-| Folgende |  | XML-Elemente | werden | für | die Sammelerklärung | benötigt |
+5
 
-Spezifikation eSE - elektronische Sammelerklärung
+# Technische Beschreibung 5.1
 
-Technische Beschreibung Aufbau der Sammelerklärung Folgende XML-Elemente werden für die Sammelerklärung benötigtSeite 6 von 11
+## Aufbau der Sammelerklärung
+
+Folgende XML-Elemente werden für die Sammelerklärung benötigt
 
 
 ---
 
-5.2 Ausfüllhinweise zum header-Bereich
+5.2
 
-Folgende Felder sind in Abhängigkeit des erklärenden Arztes in der Vorlage  ese_1.21_01_tf+2025q4_nr+1_du+Vorlagedatei.xml anzupassen.
+### Ausfüllhinweise zum header-Bereich
+
+sind in Abhängigkeit des Arztes Folgende Felder erklärenden in der Vorlage  ese_1.21_01_tf+2025q4_nr+1_du+Vorlagedatei.xml anzupassen.
 
 5.2.1 header/id
 
-Mit dem Element id ist das Dokument eindeutig zuordenbar.
+**id** ist das Dokument eindeutig zuordenbar. Mit dem Element
 
 Das Element ist wie folgt zu verwenden:
 
@@ -174,7 +172,7 @@ Das Element ist wie folgt zu verwenden:
 
 5.2.2 header/service_tm
 
-Mit dem Element service_tm ist der Quartalsbezug anzugeben. Es ist der erste Tag und der letzte Tag  des Quartals anzugeben. Aus diesen Angaben wird für die PDF-Darstellung der Sammelerklärung (auf Basis  des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
+**service_tm** ist der Quartalsbezug anzugeben. Es ist der erste Tag und der letzte Tag Mit dem Element des Quartals anzugeben. Aus diesen Angaben wird für die PDF-Darstellung der Sammelerklärung (auf Basis  des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -182,7 +180,7 @@ Das Element ist wie folgt zu verwenden:
 
 5.2.3 header/origination_dttm
 
-Mit dem Element origination_dttm wird das Erstellungsdatum der Sammelerklärung angegeben.  Das Datum wird bei der PDF -Darstellung der Sammelerklärung (auf Basis des XSL -FO Stylesheets)  berücksichtigt.
+**origination_dttm** wird das Erstellungsdatum der Sammelerklärung angegeben. Mit dem Element Das Datum wird bei der PDF -Darstellung der Sammelerklärung (auf Basis des XSL -FO Stylesheets)  berücksichtigt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -190,7 +188,7 @@ Das Element ist wie folgt zu verwenden:
 
 5.2.4 header/provider
 
-Mit den Elementen im Element provider werden die benötigten Angaben zur erklärenden Person sowie  der Praxis übergeben.
+**provider** werden die benötigten Angaben zur erklärenden Person sowie Mit den Elementen im Element der Praxis übergeben.
 
 Das Element enthält zwei Unterelemente und ist wie folgt zu verwenden:
 
@@ -202,26 +200,22 @@ Das Element enthält zwei Unterelemente und ist wie folgt zu verwenden:
 
 </ehd:provider>
 
-Spezifikation eSE - elektronische Sammelerklärung
-
-Seite 7 von 11
-
 
 ---
 
-### 5.2.4.1
+5.2.4.1
 
 ### header/provider/person
 
-Mit dem Element person/id wird die 9-stellige LANR der erklärenden Person übergeben.
+### Mit dem Element person/id wird die 9-stellige LANR der erklärenden Person übergeben.
 
-Mit den Elementen in person/person_name
+### Mit den Elementen in person/person_name
 
 ### wird der Name der erklärenden Person übergeben.
 
-Mit dem Element person/local_header/fachgruppenbeschreibung wird das Fachgebiet  der erklärenden Person übergeben.
+### Mit dem Element person/local_header/fachgruppenbeschreibung wird das Fachgebiet  der erklärenden Person übergeben.
 
-Das Element ist wie folgt zu verwenden:
+### Das Element ist wie folgt zu verwenden:
 
 <ehd:person>
 
@@ -253,25 +247,25 @@ Das Element ist wie folgt zu verwenden:
 
 </ehd:person>
 
-### 5.2.4.2
+5.2.4.2
 
 ### header/provider/organisation
 
-Mit dem Element organisation/id wird die 9-stellige BSNR der Hauptbetriebsstätte übergeben.
+### Mit dem Element organisation/id wird die 9-stellige BSNR der Hauptbetriebsstätte übergeben.
 
-Mit dem Element
+### Mit dem Element
 
 ### organisation/organization.nm wird der Name der Betriebsstätte übergeben.
 
-Mit den Elementen in organisation/addr
+### Mit den Elementen in organisation/addr
 
 ### wird die Adresse der Betriebsstätte übergeben.
 
-Mit dem Element organisation/telecom
+### Mit dem Element organisation/telecom
 
 ### wird die Telefonnummer der Betriebsstätte übergeben.
 
-Das Element ist wie folgt zu verwenden:
+### Das Element ist wie folgt zu verwenden:
 
 <ehd:organization>
 
@@ -297,20 +291,14 @@ Das Element ist wie folgt zu verwenden:
 
 </ehd:organization>
 
-Spezifikation eSE - elektronische Sammelerklärung
-
-Seite 8 von 11
-
 
 ---
 
-| 5.3 |  | Ausfüllhinweise | zum | body-Bereich |  |
-|---|---|---|---|---|---|
-| Es werden | keine | Informationen | aus | dem body-Bereich | verwendet. |
+5.3
 
-Spezifikation eSE - elektronische Sammelerklärung
+## Ausfüllhinweise zum body-Bereich
 
-Ausfüllhinweise zum body-Bereich  Es werden keine Informationen aus dem body-Bereich verwendet. Seite 9 von 11
+Es werden keine Informationen aus dem body-Bereich verwendet.
 
 
 ---
@@ -319,39 +307,36 @@ Ausfüllhinweise zum body-Bereich  Es werden keine Informationen aus dem body-Be
 |---|---|---|---|---|---|---|
 | Nachfolgende | Skizze | gibt | einen beispielhaften | Überblick | zur Vorgehensweise: |  |
 
-Spezifikation eSE - elektronische Sammelerklärung
-
-Erzeugung einer Sammelerklärung im PDF/A- Nachfolgende Skizze gibt einen beispielhaften Überblick zur Vorgehensweise:  Seite 10 von 11
-
+Erzeugung einer Sammelerklärung im PDF/A- Nachfolgende Skizze gibt einen beispielhaften Überblick zur Vorgehensweise:
 
 ---
 
-6.1 Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A-1b Format
+6.1
+
+### Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A -1b Format
 
 Grundlage zur Erstellung einer PDF/A-Datei Sammelerklärung, ist das Vorliegen der variablen Daten aus dem  Praxisverwaltungsprogramm zur Sammelerklärung im XML-Format.
 
 1) Erstellung der XML-Datei Sammelerklärung nach den Vorgaben der Schnittstellenbeschreibung  „elektronische Sammelerklärung (eSE)“ sowie des vorliegenden Dokuments durch das  Praxisverwaltungssystem (PVS).
 
-2) Die Vorgabe für die Bildung des Dateinamens zur Sammelerklärung im XML-Format basiert auf  der Definition zur Schnittstellenbeschreibung „elektronische Sammelerklärung (eSE)“:  **ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml,**  wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur Schnittstelle  ab Version 1.21 zu verwenden ist und wobei für den Platzhalter {BSNR}, eine konkrete BSNR  einzusetzen ist und wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJJJ’q‘Q  einzusetzen ist (4- stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1 -stellige Quartalszahl).  Ein beispielhafter Dateiname wäre: ese_1.21_019999900_tf+2025q4.xml
+2) Die Vorgabe für die Bildung des Dateinamens zur Sammelerklärung im XML-Format basiert auf  der Definition zur Schnittstellenbeschreibung „elektronische Sammelerklärung (eSE)“:  **ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml,**  wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur Schnittstelle  ab Version 1.21 zu verwenden ist und wobei für den Platzhalter {BSNR}, eine konkrete BSNR  einzusetzen ist und wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJJJ’q‘Q  einzusetzen ist (4-stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1-stellige Quartalszahl).  Ein beispielhafter Dateiname wäre: **ese_1.21_019999900_tf+2025q4.xml**
 
-3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Die Schemadateien wurden durch  die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei eSE_root.xsd.
+3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Die Schemadateien wurden durch  die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei **eSE_root.xsd**
 
-4) Vorliegen der Stylesheetdatei kvshSammelFOfuerPDFA-1b.xsl und der JPG-Datei  **KVSH_Logo_FIN_RGB_Claim.jpg die von der KVSH bereitgestellt werden.**
+4) Vorliegen der Stylesheetdatei **kvshSammelFOfuerPDFA-1b.xsl** und der JPG-Datei  **KVSH_Logo_FIN_RGB_Claim.jpg** die von der KVSH bereitgestellt werden.
 
-5) Transformation der XML-Datei auf Basis des kvshSammelFOfuerPDFA-1b.xsl  Stylesheets ins FOP-Format und Generierung der PDF/A-Datei gleichen Namens (beispielhafter  Dateiname) ese_1.21_019999900_tf+2025q4.pdf mit einem XSL Formatter.
+5) Transformation der XML-Datei auf Basis des **kvshSammelFOfuerPDFA-1b.xsl**  Stylesheets ins FOP-Format und Generierung der PDF/A-Datei gleichen Namens (beispielhafter  Dateiname) **ese_1.21_019999900_tf+2025q4.pdf** mit einem XSL Formatter.
 
-6) Übertragung der Dateien ese_1.21_019999900_tf+2025q4.xml und  **ese_1.21_019999900_tf+2025q4.pdf (beispielhafter Dateinamen) an die KIM-** Adresse der KVSH.
+6) Übertragung der Dateien **ese_1.21_019999900_tf+2025q4.xml** und  **ese_1.21_019999900_tf+2025q4.pdf** (beispielhafter Dateinamen) an die KIM- Adresse der KVSH.
 
 7) Empfang und Anzeige der Rückmeldung.
 
-6.2 Unterschiede zwischen PDF und PDF/A
+6.2
 
-Das zu erzeugende PDF/A-1b Dokument unterscheidet sich in zwei Ausprägungen bezüglich eines normalen  PDF-Dokuments.  1) Zum einen muss das PDF/A Dokument Metainformationen im XMP Format enthalten. Die  notwendigen Informationen sind bereits im Styelsheet kvshSammelFOfuerPDFA-1b.xsl  enthalten (siehe Element <declarations>).
+### Unterschiede zwischen PDF und PDF/A
 
-2) Zum anderen sind die verwendeten Schriftarten in das zu erstellende PDF-Dokument  einzubetten. Im Stylesheet kvshSammelFOfuerPDFA-1b.xsl sind dies die Schriftart arial mit  den Eigenschaften „normal“ und „fett“ sowie die Schriftart code39 und code39u.
+Das zu erzeugende PDF/A-1b Dokument unterscheidet sich in zwei Ausprägungen bezüglich eines normalen  PDF-Dokuments.  1) Zum einen muss das PDF/A Dokument Metainformationen im XMP Format enthalten. Die  notwendigen Informationen sind bereits im Styelsheet **kvshSammelFOfuerPDFA-1b.xsl**  enthalten (siehe Element <declarations>).
+
+2) Zum anderen sind die verwendeten Schriftarten in das zu erstellende PDF-Dokument  einzubetten. Im Stylesheet **kvshSammelFOfuerPDFA-1b.xsl** sind dies die Schriftart arial mit  den Eigenschaften „normal“ und „fett“ sowie die Schriftart code39 und code39u.
 
 Sind diese beiden Bedingungen erfüllt, wird das Dokument als PDF/A Dokument erkannt.
-
-Spezifikation eSE - elektronische Sammelerklärung
-
-Seite 11 von 11

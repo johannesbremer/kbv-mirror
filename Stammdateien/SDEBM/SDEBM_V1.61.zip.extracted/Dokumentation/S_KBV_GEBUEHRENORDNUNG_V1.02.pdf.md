@@ -8,6 +8,12 @@
 
 **gültig ab:**
 
+**1.2.276.0.76.5.231**
+
+**1.02**
+
+**01.04.2005**
+
 **Code**
 
 0 1
@@ -16,14 +22,8 @@
 |---|---|
 | 3 | Gebührenordnung Ärzte |
 
-Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG
-
-**1.2.276.0.76.5.231**
-
-**1.02**
-
-**01.04.2005**
-
 **Bezeichnung**
 
-Einheitlicher Bewertungsmaßstab Bewertungsmaßstab Ärzte 1
+Einheitlicher Bewertungsmaßstab Bewertungsmaßstab Ärzte
+
+Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG1

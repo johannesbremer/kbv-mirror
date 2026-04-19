@@ -1,52 +1,214 @@
 ## TOP 20 Systeme - Chirurgen
 
-### Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-### Datenstand: 30.06.2025
+**Datenstand: 30.06.2025**
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-254 **ORBIS®**Dedalus HealthCare GmbH59258111
+2.54 **ORBIS®**
 
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG273282-9
+2.80 **CGM MEDISTAR BLACK PRO**
 
-216 **x.isynet**medatixx GmbH & Co. KG252259-7
+2.16 **x.isynet**
 
-343 **SAP Ambulatory Care Management** SAP SE1921920
+3.43 **SAP Ambulatory Care Management**
 
-226 **CGM MEDICO**CGM Clinical Europe GmbH175176-1
+2.26 **CGM MEDICO**
 
-112 **TURBOMED**CompuGroup Medical Deutschland AG160168-8
+1.12 **TURBOMED**
 
-210 **Medical Office**INDAMED EDV-Entwicklung und Vertrieb GmbH 14513510
+2.10 **Medical Office**
 
-314 **IMedOne**Deutsche Telekom Clinical Solutions GmbH 138141-3
+3.14 **IMedOne**
 
-457 **tomedo**Zollsoft GmbH1381317
+4.57 **tomedo**
 
-243 **x.concept**medatixx GmbH & Co. KG108114-6
+2.43 **x.concept**
 
-462 **medatixx**medatixx GmbH & Co. KG1041004
+4.62 **medatixx**
 
-203 **ALBIS**CompuGroup Medical Deutschland AG97103-6
+2.03 **ALBIS**
 
-252 **CGM M1 PRO**CompuGroup Medical Deutschland AG90900 1
+2.52 **CGM M1 PRO**
+
+Dedalus HealthCare GmbH
+
+CompuGroup Medical Deutschland AG
+
+medatixx GmbH & Co. KG
+
+SAP SE
+
+CGM Clinical Europe GmbH
+
+CompuGroup Medical Deutschland AG
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+Deutsche Telekom Clinical Solutions GmbH
+
+Zollsoft GmbH
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
+
+CompuGroup Medical Deutschland AG 1
+
+5.92
+
+2.73
+
+2.52
+
+1.92
+
+1.75
+
+1.60
+
+1.45
+
+1.38
+
+1.38
+
+1.08
+
+1.04
+
+9.7
+
+9.0
+
+5.81
+
+2.82
+
+2.59
+
+1.92
+
+1.76
+
+1.68
+
+1.35
+
+1.41
+
+1.31
+
+1.14
+
+1.00
+
+1.03
+
+9.0
+
+1.1
+
+-9
+
+-7
+
+0
+
+-1
+
+-8
+
+1.0
+
+-3
+
+7
+
+-6
+
+4
+
+-6
+
+0
 
 
 ---
 
-| Id | Praxissoftware | Anbieter | Installationen 2.Q.2025 | Installationen 1.Q.2025 | Differenz |
+| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
 |---|---|---|---|---|---|
 
-208 **NEXUS / KIS**NEXUS AG61565
+2.08 **NEXUS / KIS**
 
-498 **T2med**T2med GmbH & Co. KG52484
+4.98 **T2med**
 
-422 **ClinicCentre Billing (OPD)**Mesalvo Mannheim GmbH46460
+4.22 **ClinicCentre Billing (OPD)**
 
-290 **M-KIS**Meierhofer AG3536-1
+2.90 **M-KIS**
 
-244 **QUINCY WIN**Frey ADV GmbH33330 086 **DURIA**Duria eG33321
+2.44 **QUINCY WIN**
 
-135 **EL - Elaphe Longissima**medatixx GmbH & Co. KG2931-2 2
+0.86 **DURIA**
+
+1.35 **EL - Elaphe Longissima**
+
+NEXUS AG
+
+T2med GmbH & Co. KG
+
+Mesalvo Mannheim GmbH
+
+Meierhofer AG
+
+Frey ADV GmbH
+
+Duria eG
+
+medatixx GmbH & Co. KG 2
+
+6.1
+
+5.2
+
+4.6
+
+3.5
+
+3.3
+
+3.3
+
+2.9
+
+5.6
+
+4.8
+
+4.6
+
+3.6
+
+3.3
+
+3.2
+
+3.1
+
+5
+
+4
+
+0
+
+-1
+
+0
+
+1
+
+-2
