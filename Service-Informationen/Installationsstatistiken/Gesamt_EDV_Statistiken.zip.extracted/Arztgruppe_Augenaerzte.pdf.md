@@ -163,7 +163,9 @@ Deutsche Telekom Clinical Solutions GmbH
 
 CompuGroup Medical Deutschland AG
 
-**S** ifa systems AG
+**S**
+
+ifa systems AG
 
 MEDYS GmbH
 

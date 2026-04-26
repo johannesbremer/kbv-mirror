@@ -165,7 +165,7 @@ RescuePro Production GmbH & Co. KG 1
 
 NEXUS AG
 
-Zolsoft GmbH
+Zollsoft GmbH
 
 Meierhofer AG
 

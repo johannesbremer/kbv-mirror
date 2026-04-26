@@ -28,11 +28,11 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
-**DOKUMENTENHISTORIE**
+#### DOKUMENTENHISTORIE
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
 **1** **GRUNDSÄTZLICHE FESTLEGUNGEN**
 
@@ -73,7 +73,9 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 ---
 
-**1 Grundsätzliche Festlegungen**  **1.1 Zielsetzung**
+# 1 Grundsätzliche Festlegungen
+
+## 1.1 Zielsetzung
 
 *Anlass für die Einführung dieser PLZ-Stammdatei ist das „Gesetz zur Einführung des*  *Wohnortprinzips bei Honorarvereinbarungen für Ärzte und Zahnärzte“.*
 
@@ -81,7 +83,7 @@ Die vorliegende Datensatzbeschreibung beschreibt den formalen Aufbau der PLZ- St
 
 Die PLZ-Stammdatei ermöglicht sowohl die eindeutige Zuordnung  Wohnsitzes eines Patienten) zu einem  **Existenzprüfung** in der Arztpraxis.
 
-**1.2 Aufbau der PLZ-Stammdatei**
+## 1.2 Aufbau der PLZ-Stammdatei
 
 Die PLZ-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)  klassifiziert sind: -  PLZ-Headersatz (SA plz0)
 
@@ -89,14 +91,25 @@ Die PLZ-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (
 
 -  PLZ-Endesatz (SA plz9)
 
-Eine PLZ---Stammdatei beginnt mit einem PLZ Headersatz und endet mit einem PLZ Endesatz, dazwischen können eine beliebige Anzahl PLZ-   Ein Satz ist unterteilt in Felder, die die kleinste Einheit der PLZ-Stammdatei bilden. Ein Feld  besteht aus -  der Feldlängenangabe
+Eine PLZ---Stammdatei beginnt mit einem PLZ Headersatz und endet mit einem PLZ
+
+Endesatz, dazwischen können eine beliebige Anzahl PLZ-
+
+Ein Satz ist unterteilt in Felder, die die kleinste Einheit der PLZ-Stammdatei bilden. Ein Feld  besteht aus -  der Feldlängenangabe
+
 -  der Feldkennung (FK)
+
 -  dem eigentlichen Feldinhalt
+
 -  der Feldendemarkierung (CR, LF)
 
-**KV-Bereich**/Bezirksstelle als auch eine
+**KV-Bereich**/Bezirksstelle als auch eine - (3 Bytes)
 
-(3 Bytes)  (4 Bytes)  (variabel)  (2 Bytes)
+- (4 Bytes)
+
+- (variabel)
+
+- (2 Bytes)
 
 **Postleitzahl** (des  **PLZ-**
 
@@ -105,7 +118,9 @@ Stammsätze auftreten.
 
 ---
 
-Version = "_n"  Quartal = "QJJ"
+Version = "_n"
+
+Quartal = "QJJ"
 
 KBV-Kennung = "74"
 
@@ -113,7 +128,7 @@ KBV-Kennung = "74"
 
 Kennzeichnung für PLZ-Stammdatei = PLZ
 
-**1.3 Dateiname der PLZ-Stammdatei**
+## 1.3 Dateiname der PLZ-Stammdatei
 
 ### Der Dateiname der PLZ-Stammdatei setzt sich gemäß dem folgenden Schema zusammen:
 
@@ -127,9 +142,15 @@ PLZ74_1.202 mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird.
 
 ---
 
-**2 Satztabelle**  In einer Satztabelle wird der Aufbau einzelner Sätze definiert. Es werden Anordnung und  Vorkommen der Felder innerhalb eines Satzes festgelegt. Die Felder werden mit einer  “Feldkennung” und einer “Feldbezeichnung” gekennzeichnet.
+# 2 Satztabelle
 
-*Vorkommen* angegeben, wobei die Angabe “n”  Spalte “Vorkommen”:  Die Häufigkeit des Feldes wird in der Spalte  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten in der Spalte  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+In einer Satztabelle wird der Aufbau einzelner Sätze definiert. Es werden Anordnung und  Vorkommen der Felder innerhalb eines Satzes festgelegt. Die Felder werden mit einer  “Feldkennung” und einer “Feldbezeichnung” gekennzeichnet.
+
+*Vorkommen* angegeben, wobei die Angabe “n”
+
+Spalte “Vorkommen”:  Die Häufigkeit des Feldes wird in der Spalte  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
+
+in der Spalte  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 Beispiel:
 
@@ -141,19 +162,47 @@ Beispiel:
 
 Spalte „Feldart“  In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder
 
-*Bedingung* näher spezifiziert werden).  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte   Folgende Feldarten werden unterschieden:
+*Bedingung* näher spezifiziert werden).
+
+nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte   Folgende Feldarten werden unterschieden:
+
 -  **M = unbedingtes Mußfeld**
 
-ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muß dieses Feld  Ein unbedingtes Mußfeld muß in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* mindestens einmal in dem Satz vorkommen.
+ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muß dieses Feld
 
--  **m = bedingtes Mußfeld** Bei einem bedingten Mußfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  ) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten *Bedingungen* *Vorkommen*) gebunden. Ein bedingtes Mußfeld muß in einem Hierarchiestufe (s. Spalte  Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und  erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen* referenzierte Feld existiert.
--  **K = Kannfeld**  Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen, muß sie  in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über das  Vorhandensein der Informationen - im Gegensatz zu bedingten Mußfeldern - nicht  programmtechnisch erfolgen kann.
+Ein unbedingtes Mußfeld muß in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* mindestens einmal in dem Satz vorkommen.
+
+-
+
+-  **m = bedingtes Mußfeld**
+
+Bei einem bedingten Mußfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  ) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
+
+*Bedingungen*
+
+*Vorkommen*) gebunden. Ein bedingtes Mußfeld muß in einem
+
+Hierarchiestufe (s. Spalte  Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und
+
+erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
+
+referenzierte Feld existiert.
+
+-  **K = Kannfeld**
+
+Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen, muß sie  in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über das  Vorhandensein der Informationen - im Gegensatz zu bedingten Mußfeldern - nicht  programmtechnisch erfolgen kann.
 
 2
 
 ---
 
--  **k = bedingtes Kannfeld**  Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Kannfeld darf in einem  Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der übergeordnete Hierarchiestufe (s. Spalte  referenzierte Feld existiert.
+-  **k = bedingtes Kannfeld**
+
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
+
+Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Kannfeld darf in einem
+
+Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der übergeordnete Hierarchiestufe (s. Spalte  referenzierte Feld existiert.
 
 **2.1 Definition der Satzart: PLZ-Headersatz “plz0”**
 
@@ -188,11 +237,37 @@ ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muß dieses Feld  Ein
 
 ---
 
-**3 Feldtabelle**  In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
+# 3 Feldtabelle
 
-vereinbart, welcher Zeichenvorrat für den Feldinhalt Zu jedem Feld wird in der Spalte *Typ* verwendet werden kann. Folgende Typen werden unterschieden:
+In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-n numerischer Zahlenwert  a alphanumerische Zeichen  numerische Datumsangaben im Format d *TTMMJJJJ*, wobei  *TT* = 01 - 31, *MM* = 01 - 12,  *JJJJ* = 0001 - 9999  In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Die Längenangabe „var“ kennzeichnet die Feldlänge als variable Länge. Durch das  -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine maximale Länge  beschränkt.
+vereinbart, welcher Zeichenvorrat für den Feldinhalt
+
+Zu jedem Feld wird in der Spalte *Typ*
+
+verwendet werden kann. Folgende Typen werden unterschieden:
+
+n
+
+numerischer Zahlenwert
+
+a
+
+alphanumerische Zeichen
+
+numerische Datumsangaben im Format
+
+d
+
+*TTMMJJJJ*, wobei
+
+*TT* = 01 - 31, *MM* = 01 - 12,
+
+*JJJJ* = 0001 - 9999
+
+In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein
+
+Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Die Längenangabe „var“ kennzeichnet die Feldlänge als variable Länge. Durch das  -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine maximale Länge  beschränkt.
 
 
 ---
@@ -233,11 +308,21 @@ Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = 
 
 ---
 
-**4 Regeltabelle**  In der Regeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.  Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.  Somit können mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftreten  bestimmter Felder überprüft werden.
+# 4 Regeltabelle
 
-Folgende Regelklassen lassen sich klassifizieren:
+In der Regeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.  Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.  Somit können mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftreten  bestimmter Felder überprüft werden.
 
-000 – 099 Formatprüfungen  100 - 199 Inhaltsprüfungen  500 - 599  200 – 299 Existenzprüfungen  300 – 499 Kontextprüfungen  900 – 999 Sonderprüfungen
+Folgende Regelklassen lassen sich klassifizieren: 000 – 099 Formatprüfungen
+
+100 - 199 Inhaltsprüfungen
+
+500 - 599
+
+200 – 299 Existenzprüfungen
+
+300 – 499 Kontextprüfungen
+
+900 – 999 Sonderprüfungen
 
 | Regel- | Kategorie | Prüfung | Erläuterung |
 |---|---|---|---|

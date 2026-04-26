@@ -1,6 +1,4 @@
-### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
-
-gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -10,15 +8,15 @@ Liquidations-ID:
 
 Patient/in befindet sich seit _____________
 
-Letzte Behandlung am _________________
+# Letzte Behandlung am _________________
 
-**Diagnosen:**
+# Diagnosen:
 
 regelmäßig [ ]
 
-**Aktuelle Beschwerden und Funktionseinschränkungen:**
+# Aktuelle Beschwerden und Funktionseinschränkungen:
 
-**Aktuelle Therapie:**
+# Aktuelle Therapie:
 
 Physiotherapie [ ]
 
@@ -34,9 +32,13 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_21.12
 
 BGL-Nummer: ______________
 
-gelegentlich  nicht in meiner Behandlung [ ][ ]
+gelegentlich  nicht in meiner Behandlung
 
-17 12 2021
+[ ]
+
+[ ]
+
+# 17 12 2021
 
 
 ---
@@ -49,7 +51,7 @@ derzeit besteht Arbeitsunfähigkeit
 
 ich gehe davon aus, dass die Arbeitsunfähigkeit länger als 6 Monate andauern wird
 
-**Risikofaktoren/Gefährdung durch:**
+# Risikofaktoren/Gefährdung durch:
 
 Alkohol
 
@@ -59,9 +61,17 @@ Medikamente
 
 Sonstiges:
 
-**Spezielle Maßnahmen erforderlich? (fakultativ):**
+# Spezielle Maßnahmen erforderlich? (fakultativ):
 
-**medizinischeBitte fügen Sie diesem Befundbericht relevante Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **, vielen Dank.** **Kopie bei**
+**medizinische**
+
+**Bitte fügen Sie diesem Befundbericht relevante U**
+
+**nterlagen (Arztbriefe, Befundberichte,**
+
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **, vielen Dank.**
+
+**Kopie bei**
 
 Medizinische Unterlagen liegen bei
 
@@ -69,7 +79,11 @@ Ich bitte um Rücksendung der medizinischen Unterlagen
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift 12
+___________________________
+
+Ort, Datum
+
+Stempel und Unterschrift 12
 
 [ ]
 
@@ -100,7 +114,9 @@ __________________________
 
 ---
 
-**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller)**
+
+**Eingang ÄD**
 
 An den
 
@@ -110,9 +126,11 @@ An den
 | Steuernummer/  Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen Dienst der  Agentur für Arbeit
+Ärztlichen Dienst der
 
-## Liquidation
+Agentur für Arbeit
+
+# Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 

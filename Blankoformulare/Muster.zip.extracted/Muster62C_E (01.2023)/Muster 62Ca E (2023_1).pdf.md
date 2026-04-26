@@ -10,29 +10,47 @@ Name, Vorname des Versicherten
 
 geb. am
 
-Kostenträgerkennung Versicherten-Nr.Status
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr. Arzt-Nr.Datum
+Status
 
-Krankenkasse bzw. Kostenträger**62C** Bedarfsmedikamente für AKI
+Betriebsstätten-Nr. Arzt-Nr.
+
+Datum
+
+Krankenkasse bzw. Kostenträger
+
+**62C**
+
+Bedarfsmedikamente für AKI
 
 Notfallmanagement
 
-neinMRE-Besiedelungja, folgender Keim
+nein
 
-Logopädie  Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKIPhysiotherapie
+MRE-Besiedelung
+
+ja, folgender Keim
+
+Logopädie
+
+Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKI
+
+Physiotherapie
 
 Absauggerät
 
 ja nein
 
-janein Notfallversorgung
+ja
+
+nein
+
+Notfallversorgung
 
 Ergotherapie
 
-### Medizinische Behandlungspflege
-
-***(ggf. Beiblatt nutzen)***
+### Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
 
 ### Therapieziele
 
@@ -57,7 +75,9 @@ bis
 
 **Dysphagiemanagement**
 
-**Bedienung und Überwachung des Beatmungsgerätes**  Beatmungsgeräteinstellungen
+**Bedienung und Überwachung des Beatmungsgerätes**
+
+Beatmungsgeräteinstellungen
 
 Name des Arztes / der Ärztin
 
@@ -67,11 +87,21 @@ Name des Arztes / der Ärztin
 
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
 
-Häufigkeit  pro Tag
+Häufigkeit
+
+pro Tag
 
 Inhalationsgerät
 
-ja nein Häufigkeit pro Tag Medikament/  Substanz
+ja nein
+
+Häufigkeit
+
+pro Tag
+
+Medikament/
+
+Substanz
 
 | mit Beatmung |  | unter Spontanatmung |  | Mobilität |
 |---|---|---|---|---|
@@ -81,4 +111,8 @@ ja nein Häufigkeit pro Tag Medikament/  Substanz
 
 ärztliche Unterschrift
 
-dilatativ chirurgisch passiv aktiv**Ausfertigung für die Krankenkasse** PRF.NR.  Muster 62Ca/E (1.2023)
+**Ausfertigung für die Krankenkasse**
+
+PRF.NR.
+
+dilatativ chirurgisch passiv aktivMuster 62Ca/E (1.2023)

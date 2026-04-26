@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -48,7 +48,7 @@
 |  | Y/105/2401/36/081 | 31.12.2026 | eDMP COPD |  |
 |  | X/101/2401/36/934 | 31.12.2026 | DMP Brustkrebs |  |
 
-EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
+EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
 
 
 ---
@@ -115,7 +115,7 @@ D-Doc axaris-software & systeme GmbH Max-Eyth-Weg 2 89160 Dornstadt Internet: ww
 |  | Y/101/2412/37/060 | 31.12.2027 | DMP Brustkrebs |  |
 |  | Y/109/2410/36/060 | 30.09.2027 | eDMP Osteoporose |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -163,7 +163,9 @@ CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz In
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com iOS/Android Linux Mac OS Sonstige Windows apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Linux WindowsX/101/2401/36/386 31.12.2026 DMP BrustkrebsWindows
+X/101/2401/36/386 31.12.2026 DMP Brustkrebs
+
+inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com iOS/Android Linux Mac OS Sonstige Windows apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Linux WindowsWindows
 
 
 ---
@@ -427,7 +429,7 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |  | Y/104/2401/36/171 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/171 | 31.12.2026 | eDMP COPD |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 18. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|

@@ -1,7 +1,11 @@
 |  | DEZERNAT ÄRZTLICHE UND ABTEILUNG VERANLASSTE LEISTUNGEN 1. |
 |---|---|
 
-# MUSTER 21  ÄRZTLICHE  BESCHEINIGUNG FÜR DEN BEZUG VON  KRANKENGELD BEI ERKRANKUNG EINES  KINDES
+# MUSTER 21  ÄRZTLICHE
+
+# BESCHEINIGUNG FÜR DEN BEZUG VON  KRANKENGELD BEI ERKRANKUNG EINES
+
+# KINDES
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
@@ -16,15 +20,17 @@ JULI 2024 Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung
 
 ---
 
-**ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
+## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
-**1. „vom“/„bis einschließlich“**
+- **1. „vom“/„bis einschließlich“**
 
 Der Zeitraum der Erkrankung des Kindes ist anzugeben.
 
 **2.** **Kita-/Schulunfall/-folgen**
 
-Das Feld ist bei einem Unfall in einer Kita oder Schule (auch auf dem Weg aus der/in die Einrichtung) oder  deren Unfallfolgen anzukreuzen. Im Personalienfeld ist der zuständige Unfallversicherungsträger  anzugeben.
+Das Feld ist bei einem Unfall in einer Kita oder Schule (auch auf dem Weg aus der/in die Einrichtung) oder  deren Unfallfolgen anzukreuzen. Im Personalienfeld ist der zuständige Unfallversicherungsträger
+
+anzugeben.
 
 **3.** **sonstiger Unfall, Unfallfolgen**
 

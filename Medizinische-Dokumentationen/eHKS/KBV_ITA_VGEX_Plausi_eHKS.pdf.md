@@ -26,11 +26,17 @@ krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich 
 
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H**  **N** **I** **S**
 
-**1** **EINLEITUNG 4**
+**1** **EINLEITUNG**
 
-**2** **GRUNDLAGEN 4**
+**4**
 
-**3** **PLAUSIBILITÄTSPRÜFUNGEN 5**
+**2** **GRUNDLAGEN**
+
+**4**
+
+**3** **PLAUSIBILITÄTSPRÜFUNGEN**
+
+**5**
 
 **3.1** **Nicht-Dermatologen .......................................................................................................................5**
 
@@ -39,46 +45,60 @@ krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich 
 
 ---
 
-## Einleitung
+# Einleitung1
 
-**1**  Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken- nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung „Hautkrebs
+Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken- nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung
 
-seitens des Praxissoftwareherstellers sowie
+„Hautkrebs
 
-im Rahmen des Prüfmoduls
+- seitens des Praxissoftwareherstellers sowie - im Rahmen des Prüfmoduls
 
 Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
-werden.  Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt
+werden.
+
+Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt
 
 Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys- temanbieter verteilt.
 
-## Grundlagen
+# Grundlagen 2
 
-**2**  Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken- nungsrichtline Hautkrebs-Screening des GBA.
+Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken-
+
+nungsrichtline Hautkrebs-Screening des GBA.
 
 Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs -Screening stellt den
 
 der eDokumentation der Früherkennungs
 
-Entwicklern von PVS -Systemen oder Web -Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen richtlinie Hautkrebs Screening spezifiziert.
+Entwicklern von PVS -Systemen oder Web -Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen
+
+richtlinie Hautkrebs
+
+Screening spezifiziert.
 
 Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf I nplausibilitäten aufmerksam gemacht
 
-r- wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e folgen soll.
+r-
 
-Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs- Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
+wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e folgen soll.
 
-Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs-
+
+Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der
+
+Anwendung.
+
+Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umstand hingewiesen
+
+werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
 
 ---
 
-**3**
+# 3 Plausibilitätsprüfungen
 
-## Plausibilitätsprüfungen
-
-**3.1 Nicht-Dermatologen**
+## 3.1 Nicht-Dermatologen
 
 **Durch den Nicht-Dermatologen auszufüllen** Internisten und Fachärzte für Allgemeinmedizin):
 
@@ -105,7 +125,7 @@ abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. 
 | 1.2. | Gesundheitsuntersuchung | | |
 | 1.2.1 | Gleichzeitig Gesundheitsuntersuchung | Ja/Nein | Pflichtfeld,  nur eine Angabe ist möglich. |
 
-**3.2 Dermatologen**
+## 3.2 Dermatologen
 
 **Durch den Dermatologen auszufüllen:**
 

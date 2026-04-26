@@ -4,7 +4,11 @@
 
 **geb. am**
 
-**Versicherten-Nr.KostenträgerkennungStatus**
+**Versicherten-Nr.**
+
+**Kostenträgerkennung**
+
+**Status**
 
 **Betriebsstätten-Nr.** **Arzt-Nr.** **Datum**
 
@@ -16,7 +20,9 @@
 
 **Kostenträgerkennung** **Versicherten-Nr.** **Status**
 
-**Betriebsstätten-Nr.** **Arzt-Nr.Datum**
+**Betriebsstätten-Nr.** **Arzt-Nr.**
+
+**Datum**
 
 ### III Kostenschätzung
 
@@ -38,13 +44,39 @@
 
 ### IV Genehmigung durch die Krankenkasse(n)
 
-**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden**
 
-**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-** **gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-** **schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch** **nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die** **jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
+**Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern**
 
-**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten** **(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III** **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro** **erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
+**die** **Anzahl** **der** **genehmigten** **Zyklen.**
 
-**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-** **gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode** **ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
+**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-**
+
+**gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-**
+
+**schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch**
+
+**nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die**
+
+**jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
+
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten**
+
+**(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III**
+
+**Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-**
+
+**nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit**
+
+**vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**
+
+**erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
+
+**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-**
+
+**gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode**
+
+**ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
 
 **Ausfertigung für die Kassenärztliche Vereinigung**
 
@@ -54,9 +86,9 @@
 
 **zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
-### Indikation(en)
+### Indikation(en)I
 
-**I** **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
+**gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
 
 ### II Geplante Behandlungsmaßnahme
 
@@ -68,7 +100,9 @@
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)** **Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
+
+**Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
 
 **räglichen Änderung der diagnostischen und therapeut**
 
@@ -94,9 +128,13 @@
 
 **Der Behandlungs-/Kostenplan wird**
 
-**Zyklen/Zyklus genehmigtfür maximal**
+**Zyklen/Zyklus genehmigt**
 
-**nicht genehmigt** **(separate Begründung** **anbei)** **Ort** **Datum**
+**für maximal**
+
+**nicht genehmigt** **(separate Begründung** **anbei)**
+
+**Ort** **Datum**
 
 **b)**
 
@@ -104,7 +142,11 @@
 
 **Zyklen/Zyklusgenehmigt**
 
-**nicht genehmigt** **ist (separate Begründung** **anbei)** **Ort** **Datum**
+**nicht genehmigt**
+
+**ist (separate Begründung** **anbei)**
+
+**Ort** **Datum**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 

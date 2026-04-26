@@ -1,6 +1,4 @@
-# Achtung: Die Attribute in den Klassen bezeichnen Referenzen
-
-**. Der Name des Attributs ist die**
+# Achtung: Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist die
 
 # Zielklasse.
 
@@ -14,7 +12,13 @@ Begegnung ::**Behandlung _im_Auftrag_Überweisung (ServiceRequest )**
 |---|---|
 | **Hueftumfang ,Bauchumfang ,Raucherstatus** | **,Puls,** |
 
-Begegnung ::**Diagnose(Condition)** **Blutdruck(Observation )**-Patient -Patient
+Begegnung ::**Diagnose(Condition)**
+
+**Blutdruck(Observation )**
+
+-Patient
+
+-Patient
 
 Begegnung ::**Allergie(AllergyIntolerance )**
 
@@ -22,9 +26,11 @@ Begegnung ::**Allergie(AllergyIntolerance )**
 
 Begegnung ::**Anamnese (Observation )**
 
-# AbrechnungLeistungsgenehmigung
+# Abrechnung
 
--Patient Begegnung ::**Befund(Observation )**
+# Leistungsgenehmigung -Patient
+
+Begegnung ::**Befund(Observation )**
 
 -Patient
 
@@ -34,19 +40,75 @@ Begegnung ::**Anamnese (Observation )**
 | -Patient |  |  |
 |  |  | -Patient |
 
-Begegnung ::**Notfall(ServiceRequest )**Begegnung ::**Ueberweisung _KH-Einweisung (ServiceRequest )**Sonstige::**Leistungsgenehmigung _Heilmittel(Eligibilityresponse )** -BehandelnderFunktion -Behandelnder-Betriebsstaette Sonstige::**Leistungsgenehmigung _Psychotherapie (Eligibilityresponse )**-Betriebsstaette-Organisation-Patient -Organisation-Patient-Patient-Behandelnder -Medikament-Behandelnder -Patient-DiagnoseBegegnung ::**Material_Sache(Device**
+Begegnung ::**Notfall(ServiceRequest )**
+
+Begegnung ::**Ueberweisung _KH-Einweisung (ServiceRequest )**
+
+Sonstige::**Leistungsgenehmigung _Heilmittel(Eligibilityresponse )**
+
+-BehandelnderFunktion -Behandelnder -Betriebsstaette
+
+Sonstige::**Leistungsgenehmigung _Psychotherapie (Eligibilityresponse )**
+
+-Betriebsstaette
+
+-Organisation
+
+-Patient
+
+-Organisation
+
+-Patient
+
+-Patient
+
+-Behandelnder
+
+-Medikament
+
+-Behandelnder
+
+-Patient
+
+-Diagnose
+
+Begegnung ::**Material_Sache(Device**
 
 |  |  | Sonstige::**Leistungsanfrage _Psychotherapie (EligibilityRequest )** |  | Sonstige::**Leistungsanfrage _Heilmittel(EligibilityRequest )** |
 |---|---|---|---|---|
 | Sonstige::**Weiterbehandlung _durch(ServiceRequest )** |  | -Patient |  | -Patient |
 
-Begegnung ::Therapie(Procedure)
+Begegnung ::Therapie(Procedure) -Diagnose -Patient
 
--Diagnose -Patient -Behandelnder -Organisation -Betriebsstaette -Patient
+-Behandelnder -Organisation -Betriebsstaette -Patient
 
-Begegnung ::**Untersuchung (Procedure)** Begegnung ::**Begegnung (Encounter)** -Patient -Behandelnder -Betriebsstaette -DiagnoseBegegnung ::**Hausbesuch (Encounter)** -AnamneseBegegnung ::Unfall(Condition)-Patient -Allergie -Patient-Termin Sonstige::**Ringversuchszertifikat (Device)**
+Begegnung ::**Untersuchung (Procedure)**
 
-Begegnung ::**Hausbesuch _Ort(Location)** Begegnung ::**Verordnung Arzneimittel (Medicationrequest )** Begegnung ::**Medikament (Medication )**
+Begegnung ::**Begegnung (Encounter)**
+
+-Patient
+
+-Behandelnder -Betriebsstaette -Diagnose
+
+Begegnung ::**Hausbesuch (Encounter)**
+
+-Anamnese
+
+Begegnung ::Unfall(Condition) -Patient
+
+-Allergie
+
+-Patient
+
+-Termin
+
+Sonstige::**Ringversuchszertifikat (Device)**
+
+Begegnung ::**Hausbesuch _Ort(Location)**
+
+Begegnung ::**Verordnung Arzneimittel (Medicationrequest )**
+
+Begegnung ::**Medikament (Medication )**
 
 # Ringversuchs-
 
@@ -56,11 +118,25 @@ Begegnung ::**Hausbesuch _Ort(Location)** Begegnung ::**Verordnung Arzneimittel 
 
 Begegnung ::**Genetische Untersuchung (Procedure )**
 
--Patient -Vertragsaerztliche AbrechnungBegegnung ::**Verordnung Heilmittel (ServiceRequest )** -Privatabrechnung -Diagnose -HzV_BesondereVersorgung _Selektiv -Patient -BG-Abrechnung
+-Patient -Vertragsaerztliche Abrechnung
+
+Begegnung ::**Verordnung Heilmittel (ServiceRequest )**
+
+-Privatabrechnung
+
+-Diagnose
+
+-HzV_BesondereVersorgung _Selektiv -Patient
+
+-BG-Abrechnung
 
 Begegnung ::**Ambulante _Operation_General(Procedure )**
 
--Patient Begegnung ::**Hilfsmittel(Device)**Begegnung ::**Verordnung Hilfsmittel (ServiceRequest )**
+-Patient
+
+Begegnung ::**Hilfsmittel(Device)**
+
+Begegnung ::**Verordnung Hilfsmittel (ServiceRequest )**
 
 -Patient
 
@@ -93,7 +169,9 @@ Begegnung::**Kur(Procedure)**
 
 Begegnung ::**Krankenbefoerderung , Krankenbefoerderung -**
 
-**42019 (ServiceRequest )** -Patient
+**42019 (ServiceRequest )**
+
+-Patient
 
 Begegnung ::**Schwangerschaft (Observation )**
 
@@ -179,15 +257,23 @@ Begegnung ::**Krebsfrüherkennung _Männer(Composition )**
 
 -Patient
 
--Behandelnder -Blutdruck **Observation )**
+-Behandelnder -Blutdruck
+
+**Observation )**
 
 -Observation _Befund -Observation _Blutdruck -Observation _Hueftumfang -Observation _Koerpergewicht
 
--Observation _Koerpergroesse -Observation _Koerpertemperatur
+-Observation _Koerpergroesse -Observation _Koerpertemperatur -Observation _Puls
 
--Observation _Puls Sonstige::-Observation _Raucherstatus -Observation _Schwangerschaft -Diagnose -Allergie
+Sonstige::
 
--Behandlung _im_Auftrag_Ueberweisung -Unfall **Observation )**-Ueberweisung _KH-Einweisung -Notfall -Therapie
+-Observation _Raucherstatus -Observation _Schwangerschaft -Diagnose -Allergie
+
+-Behandlung _im_Auftrag_Ueberweisung -Unfall
+
+**Observation )**
+
+-Ueberweisung _KH-Einweisung -Notfall -Therapie
 
 -Untersuchung -Verordnung _Arbeitsunfaehigkeit -Verordnung _Arzneimittel -Verordnung _Heilmittel -Verordnung _Hilfsmittel -Kur -Krankenbefoerderung -Krebsfrueherkennung _Frauen -Krebsfrueherkennung _Maenner -Hausbesuch -Genetische _untersuchung -Ambulante _Operation_Genereal
 
@@ -329,6 +415,8 @@ Sonstige::**Mitarbeiter (Practitioner )**
 
 # Provenienz
 
-Sonstige::**Personen(Person)**Sonstige::**Organisation (Organization )**
+Sonstige::**Personen(Person)**
+
+Sonstige::**Organisation (Organization )**
 
 Abrechnung _HzV_BesondereVersorgung _Selektiv( Abrechnung _Privat(Claim) -Organisation -Organisation -Weiterbehandlung _durch -Betriebsstaette -Betriebsstaette -Organisation -Weiterbehandlung _durch Koerpergewicht (KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur , Hueftumfang ,Bauchumfang ,Raucherstatus ,Puls,# Adressbuch

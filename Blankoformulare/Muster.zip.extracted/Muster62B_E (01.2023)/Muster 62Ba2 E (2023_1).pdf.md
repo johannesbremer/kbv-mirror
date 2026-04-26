@@ -4,9 +4,15 @@ Name, Vorname des Versicherten
 
 Ich beantrage außerklinische Intensivpflege für die Zeit vom
 
-in meinem Haushalt in einer vollstationären  Pflegeeinrichtung
+in meinem Haushalt
 
-Leistungsort Name des Leistungortes
+in einer vollstationären
+
+Pflegeeinrichtung
+
+Leistungsort
+
+Name des Leistungortes
 
 Kostenträgerkennung
 
@@ -20,11 +26,15 @@ Straße, Haus-Nr
 
 PLZ Ort
 
-Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt? Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
+Wird von den An- und Zugehörigen im Verordnungszeitraum die Übernahme von Leistungen angestrebt?
+
+Ja, es wird die Übernahme folgender Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt:
 
 Nein, es wird keine Übernahme von Maßnahmen der außerklinischen Intensivpflege  durch An- und Zugehörige angestrebt.
 
-An der Versorgung beteiligte An- und Zugehörige Name
+An der Versorgung beteiligte An- und Zugehörige
+
+Name
 
 Straße, Haus-Nr
 
@@ -44,9 +54,13 @@ Telefonnummer ***(freiwillige Angabe)***
 
 Die außerklinische Intensivpflege wird täglich in der Zeit
 
-vom bisim Umfang von Stunden erbracht.
+vom bis
 
-Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer Name
+im Umfang von Stunden erbracht.
+
+Die außerklinische Intensivpflege wird durchgeführt von einem zugelassenen Leistungserbringer
+
+Name
 
 Straße, Haus-Nr
 
@@ -66,7 +80,9 @@ Versicherten-Nr.
 
 bis
 
-in einer Werkstatt für  behinderte Menschen
+in einer Werkstatt für
+
+behinderte Menschen
 
 in einer Wohneinheit
 
@@ -74,7 +90,9 @@ in einer sonstigen Einrichtung
 
 Datum
 
-Unterschrift des Versicherten  oder des gesetzlichen Vertreters
+Unterschrift des Versicherten
+
+oder des gesetzlichen Vertreters
 
 ***(Nicht auszufüllen bei Vorabinformation aus Krankenhaus)***
 
@@ -84,4 +102,6 @@ Datum
 
 Stempel / Unterschrift des Leistungserbringers
 
-PRF.NR.  Muster 62Ba.2/E (1.2023)
+PRF.NR.
+
+Muster 62Ba.2/E (1.2023)

@@ -7,14 +7,11 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2021  VERSION: 3.01 DOKUMENTENSTATUS: IN |
 |---|---|
 
-# PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG
-
-**-KINDER**
+# PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG-KINDER
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGVK]
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT
-
 
 ---
 
@@ -40,18 +37,28 @@ INHALT
 | 2.6 | Prüffall | 5806 | 19 |
 | 2.7 | Prüffall | 5807 (optional) | 20 |
 
-**3** **TESTDATENVALIDIERUNG** **21**
+**3** **TESTDATENVALIDIERUNG**
 
-**4** **REFERENZIERTE DOKUME NTE 22**
+**21**
 
-Praxisdaten/ Arztstempel Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional) -Kinder / Version: 3.01 / 12. August 2021
+**4** **REFERENZIERTE DOKUME NTE**
+
+**22**
+
+-Kinder / Version: 3.01 / 12. August 2021
+
+Praxisdaten/ Arztstempel Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional)
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 7  Abbildung 2: Testdatenvalidierung 21  Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 21
+Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 7
+
+Abbildung 2: Testdatenvalidierung 21
+
+Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 21
 
 
 ---
@@ -68,9 +75,7 @@ Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Server
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Qualitätssicherung „Hörgeräteversorgung-Kinder“.
 
@@ -78,17 +83,39 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2  SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und K indern“.
 
-**F 1.2** **ZERTIFIZIERUNGSABLAU**
+## F
+
+## 1.2 ZERTIFIZIERUNGSABLAU
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
 
-er muss vollständig ausgefüllt und  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dies unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail  eingereichten Antrag auf Zertifizierung hochladen.  und für die Zertifizierung erforderlichen 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+- er muss vollständig ausgefüllt und
+
+- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dies
+
+- unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den
+
+- Antrag auf Zertifizierung eingescannt per E-Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail
+
+- eingereichten Antrag auf Zertifizierung hochladen.
+
+- und für die Zertifizierung erforderlichen
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle
+
+- Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten
+
+- Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
@@ -97,7 +124,9 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierun
 
 ---
 
-L 1.3 ZERTIFIZIERUNGSPORTA
+## L
+
+## 1.3 ZERTIFIZIERUNGSPORTA
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -105,9 +134,13 @@ Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als au
 
 Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-n Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachte
+n Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-d den Antrag auf Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert un Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine
+unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachte
+
+d den Antrag auf
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert un Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine
 
 Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
@@ -117,32 +150,50 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
--Format) erzeugt und  Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML oder XML
+-Format) erzeugt und
 
-er Prüfautomatisierung  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von d als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML oder XML
+
+er Prüfautomatisierung
+
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von d als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 dierung die Hinweise in Kapitel 3
 
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvali berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat
 
-1.4 ZERTIFIZIERUNGSDOKUMENTE
+Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvali
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das fünfte Kapitel Referenzierte Dokumente 1.5 PRÜFUNTERLAGEN
+berücksichtigt werden.
+
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das fünfte Kapitel Referenzierte Dokumente
+
+## 1.5 PRÜFUNTERLAGEN
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
+- Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis - -Schnittstellen] (im Archiv
 
--Schnittstellen] (im Archiv KBV_ITA_VGEX_XML „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das 1
+- KBV_ITA_VGEX_XML
 
-enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [
+- „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das - 1
+
+- enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [
 
 1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
 
 
 ---
 
-jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft werden.  Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer   *Screenshot_P_K.pdf*   wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der gefo Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
+- jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft werden.
+
+- Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer
+
+*Screenshot_P_K.pdf*
+
+wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der gefo Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
 
 **Ordnerstruktur**
 
@@ -150,7 +201,7 @@ Ihre Prüfunterlagen sind von Ihnen gemäß der nachfolgenden Ordnerstruktur zur
 
 Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien
 
-**1.6** **PRÜFVORGABEN**
+## 1.6 PRÜFVORGABEN
 
 Die geforderten Prüffälle sind zu bearbeiten. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
@@ -158,7 +209,7 @@ Die Angaben für die hier beschriebenen und für die Zertifizierung erforderlich
 
 Der 5807 ist nur dann verpflichtend zu bearbeiten und einzureichen, wenn im Antrag auf Zertifizierung die  optionalen Funktionen als realisiert angegeben wurden.
 
-**1.7** **PRAXISDATEN/ ARZTSTEMPEL**
+## 1.7 PRAXISDATEN/ ARZTSTEMPEL
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -170,7 +221,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Dokumentationsdatum (Kopfdatum): | 27.12.2020 |
 | Zu verwendende Prüfnummer: | Y/58/1307/36/000 |
 
-PDF-Datei mit folgender Namenskonvention:
+##
+
+- PDF-Datei mit folgender Namenskonvention:
 
 rderte
 
@@ -178,9 +231,7 @@ BEZEICHNUNNG
 
 ---
 
-2
-
-## PRÜFFÄLLE
+# 2 PRÜFFÄLLE
 
 **2.1** **PRÜFFALL 5801**
 
@@ -192,7 +243,7 @@ BEZEICHNUNNG
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1. Anlegen einer Vor Verordnung und einer Verordnung:
+- 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
@@ -221,7 +272,7 @@ nd einer Nachsorge andere Ursache  andere
 
 ---
 
-2. Anlegen einer Nachsorge Dokumentation
+- 2. Anlegen einer Nachsorge Dokumentation
 
 |  |  |
 |---|---|
@@ -255,7 +306,7 @@ Versorgungskonzept andere
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1. Anlegen einer Vor Verordnung und einer Verordnung:
+- 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
@@ -282,10 +333,9 @@ Versorgungskonzept andere
 
 Patientenangaben andere Ursache
 
-
 ---
 
-2. Anlegen einer Nachsorge Dokumentation:
+- 2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
@@ -319,7 +369,7 @@ Versorgungskonzept andere
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1. Anlegen einer Vor Verordnung und einer Verordnung:
+- 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
@@ -348,7 +398,7 @@ Patientenangaben teilimplantiertes Knochenleitungsgerät
 
 ---
 
-2. Anlegen einer Nachsorge Dokumentation:
+- 2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
@@ -382,7 +432,7 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 | Prüfunterlagen | QSHGVK-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1. Anlegen einer Vor Verordnung und einer Verordnung:
+- 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
@@ -409,10 +459,9 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 
 Patientenangaben andere Ursache andere
 
-
 ---
 
-2. Anlegen einer Nachsorge Dokumentation:
+- 2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
@@ -446,7 +495,7 @@ Versorgungskonzept Testverfahren
 | Prüfunterlagen | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
 | Hinweis | Konkrete Dokumentationsdat |
 
-5805
+## 5805
 
 | KONSTELLATION 5805 |  |
 |---|---|
@@ -566,7 +615,7 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird
 | Prüfunterlagen | Screenshots von den Warnmeldungen sowie die im Anschluss erzeugte XML |
 | Hinweis |  |
 
-1. Anlegen einer Vor Verordnung und einer Verordnung:
+- 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
 |  |  |
 |---|---|
@@ -593,14 +642,13 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird
 
 Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei  Patientenangaben
 
-
 ---
 
-3
+# 3 TESTDATENVALIDIERUNG
 
-## TESTDATENVALIDIERUNG
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten  werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“  im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt  wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E- Mail-Adresse werden die Testergebnisse gesendet.
+werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“  im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt  wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E- Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -613,9 +661,7 @@ ZIP-Archives.
 
 ---
 
-4
-
-REFERENZIERTE DOKUMENTE
+4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

@@ -32,15 +32,37 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4** **REST-SERVICE**
 
-4.1 Allgemeine Festlegungen  4.1.1 Style Guide  4.1.2 Service Base URL & Type  4.1.3 Logische ID, Metadata und Versionierung von Ressourcen 4.1.4 Content Types, Encodings und Header Parameter  4.1.5 Versionierung  4.1.6 Interaktionen auf den Ressourcen  4.1.6.1 Suchen  Search  4.1.6.2 Beschränkung der Suchergebnisse  4.1.6.3 Capabilities  4.1.6.4 Nicht unterstützte Interaktionen  4.1.7 Paging  4.2 Konformität von Ressourcen  4.3 Interaktionen auf den Ressourcen  4.4 Sicherheit
+4.1 Allgemeine Festlegungen  4.1.1 Style Guide 4.1.2 Service Base URL & Type
+
+4.1.3 Logische ID, Metadata und Versionierung von Ressourcen
+
+4.1.4 Content Types, Encodings und Header Parameter 4.1.5 Versionierung
+
+4.1.6 Interaktionen auf den Ressourcen 4.1.6.1 Suchen  Search
+
+4.1.6.2 Beschränkung der Suchergebnisse 4.1.6.3 Capabilities
+
+4.1.6.4 Nicht unterstützte Interaktionen 4.1.7 Paging
+
+4.2 Konformität von Ressourcen
+
+4.3 Interaktionen auf den Ressourcen 4.4 Sicherheit
 
 **5** **FESTLEGUNGEN FÜR DEN WEBSERVICE**
 
-5.1 BASE-URL des Webservices  5.1.1 Testsystem im Sicheren Netz der KVen (SNK)  5.1.2 Testsystem im Internet  5.1.3 Produktiver Webservice-Kollegensuche  5.2 Beschränkung der Server
+5.1 BASE-URL des Webservices  5.1.1 Testsystem im Sicheren Netz der KVen (SNK) 5.1.2 Testsystem im Internet
+
+5.1.3 Produktiver Webservice-Kollegensuche 5.2 Beschränkung der Server
 
 **6** **FESTLEGUNG FÜR DAS PVS**
 
-6.1 Such-Interaktion mithilfe des Standortes  6.1.1 latitude und longitude  6.1.2 PLZ  6.1.3 Ort  6.2 Such-Interaktion nach der Fachrichtung  6.3 Beispiel Antwort des Servers
+6.1 Such-Interaktion mithilfe des Standortes  6.1.1 latitude und longitude 6.1.2 PLZ
+
+6.1.3 Ort
+
+6.2 Such-Interaktion nach der Fachrichtung
+
+6.3 Beispiel Antwort des Servers
 
 **7** **REFERENZIERTE DOKUMENTE**
 
@@ -50,7 +72,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **11**
 
-11  11  12  12  12  12  12  12  16  16  17  17  18  18  18
+11  11  12
+
+12  12  12  12  12  16  16  17  17  18  18  18
 
 **19**
 
@@ -65,13 +89,19 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
 Abbildung 1: Systemarchitektur  Abbildung 2: genereller Ablauf
 
-## TABELLENVEREZEICHNIG
+# TABELLENVEREZEICHNIG
 
-Tabelle 1: KBV_PR_KS_PRACTITIONER  Tabelle 2: KBV_PR_KS_PractitionerRole  Tabelle 3: KBV_PR_KS_Organization  Tabelle 4: KBV_PR_KS_Bundle  Tabelle 5: KBV_PR_KS_Location  Tabelle 6: KBV_EX_KS_LocationDistance  Tabelle 7: KBV_EX_KS_LocationAccessibility  Tabelle 8: KBV_EX_KS_ResultLimit  Tabelle 9: KBV_EX_KS_PractitionerRoleRemark Tabelle 10: KBV_EX_KS_SurgeryHoursType Tabelle 11: KBV_EX_KS_CalendarDate  Tabelle 12: KBV_EX_KS_PsychotherapySetting Tabelle 13: KBV_EX_KS_PsychotherapyAgeGroup Tabelle 14: unveränderte FHIR®-Ressourcen  Tabelle 15: Suchparameter für PractitionerRole Tabelle 16: Statuscode und Antworten in der search Tabelle 17: Statuscode und Antworten in der capabilites Tabelle 18: Interaktionen auf den FHIR®-Ressourcen -Interaktion  -Interaktion
+Tabelle 1: KBV_PR_KS_PRACTITIONER  Tabelle 2: KBV_PR_KS_PractitionerRole
+
+Tabelle 3: KBV_PR_KS_Organization  Tabelle 4: KBV_PR_KS_Bundle  Tabelle 5: KBV_PR_KS_Location  Tabelle 6: KBV_EX_KS_LocationDistance  Tabelle 7: KBV_EX_KS_LocationAccessibility  Tabelle 8: KBV_EX_KS_ResultLimit
+
+Tabelle 9: KBV_EX_KS_PractitionerRoleRemark Tabelle 10: KBV_EX_KS_SurgeryHoursType Tabelle 11: KBV_EX_KS_CalendarDate
+
+Tabelle 12: KBV_EX_KS_PsychotherapySetting Tabelle 13: KBV_EX_KS_PsychotherapyAgeGroup Tabelle 14: unveränderte FHIR®-Ressourcen  Tabelle 15: Suchparameter für PractitionerRole Tabelle 16: Statuscode und Antworten in der search Tabelle 17: Statuscode und Antworten in der capabilites Tabelle 18: Interaktionen auf den FHIR®-Ressourcen -Interaktion  -Interaktion
 
 6  19
 
@@ -80,7 +110,7 @@ Tabelle 1: KBV_PR_KS_PRACTITIONER  Tabelle 2: KBV_PR_KS_PractitionerRole  Tabell
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 Die Änderungen der Version 2.00 muss spätestens ab dem 01.07.2026 zum Einsatz kommen, kann aber  direkt eingesetzt werden.
 
@@ -94,19 +124,27 @@ auf den FHIR-Standard R4 sowie Erweiterung der Suchparameter Webservices
 
 ---
 
-1
+# 1 EINLEITUNG
 
-## EINLEITUNG
+en
 
-en Das vorliegende Dokument beschreibt den Webservice bzw. die Schnittstellen der Kassenärztlich Bundesvereinigung zur Kollegensuche. Vertragsärztinnen und Vertragsärzte sollen mit dem Webservice die  Möglichkeit erhalten die Suche nach anderen Ärzten direkt aus dem Praxisverwaltungssystem heraus  vorzunehmen. In diesem Dokument werden folgende Begrifflichkeiten verwendet:
+Das vorliegende Dokument beschreibt den Webservice bzw. die Schnittstellen der Kassenärztlich Bundesvereinigung zur Kollegensuche. Vertragsärztinnen und Vertragsärzte sollen mit dem Webservice die  Möglichkeit erhalten die Suche nach anderen Ärzten direkt aus dem Praxisverwaltungssystem heraus
+
+vorzunehmen. In diesem Dokument werden folgende Begrifflichkeiten verwendet:
 
 **Praxisverwaltungssystem**
 
-Patienten-, Arzt - und Ein elektronisches Programm in welchem i. d. R. die Verwaltung und Speicherung der  1
+Patienten-, Arzt - und
 
-1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter auch die jeweilige  weibliche Form der Berufsbezeichnung zu verstehen.
+Ein elektronisches Programm in welchem i. d. R. die Verwaltung und Speicherung der 1
 
-Betriebsstättendaten des Arztes erfolgt. Im PVS ist die Dokumentation der Behandlung des Patienten in der  elektronischen Patientenakte gespeichert. Der Begriff Praxisverwaltungssystem bezieht sich auf IT-Systeme,  die in der vertragsärztlichen Versorgung eingesetzt werden.
+1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter auch die jeweilige
+
+weibliche Form der Berufsbezeichnung zu verstehen.
+
+Betriebsstättendaten des Arztes erfolgt. Im PVS ist die Dokumentation der Behandlung des Patienten in der  elektronischen Patientenakte gespeichert. Der Begriff Praxisverwaltungssystem bezieht sich auf IT-Systeme,
+
+die in der vertragsärztlichen Versorgung eingesetzt werden.
 
 **Webservice-Kollegensuche**
 
@@ -115,45 +153,61 @@ Der Webservice-Kollegensuche ist der Webservice der KBV, mit welchem eine Suche 
 
 ---
 
-2
-
-## ÜBERBLICK
+# 2 ÜBERBLICK
 
 Bei der Festlegung für den Webservice geht die KBV von nachstehender Systemarchitektur aus.
 
 Abbildung 1: Systemarchitektur
 
-Im Praxisverwaltungssystem werden die Patienten-, Arzt-, und Betriebsstättendaten verwaltet und  gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung aller  patientenbezogenen Daten.
+Im Praxisverwaltungssystem werden die Patienten-, Arzt-, und Betriebsstättendaten verwaltet und
+
+gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung aller  patientenbezogenen Daten.
 
 Der Webservice-Kollegensuche enthält die Kontaktdaten der im ambulanten Bereich tätigen Ärzte. Diese  Informationen sollen die Ärzte auf einfache Weise im Rahmen der Vermittlung von Terminen bei anderen  Ärzten unterstützen.
 
-Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die  hierfür erforderlichen Datenstrukturen sind in Kapitel 3 „FHIR® Definitionen“ festgelegt. Aus dem vierten  Kapitel können die Regelungen für den Datenaustausch via REST-Service zwischen dem  Praxisverwaltungssystem und dem Webservice-Kollegensuche entnommen werden. Im Kapitel 5 sind  weitere Informationen zur Integration des Webservices in den Praxisverwaltungssystemen beschrieben.
+Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die  hierfür erforderlichen Datenstrukturen sind in Kapitel 3 „FHIR® Definitionen“ festgelegt. Aus dem vierten
+
+Kapitel können die Regelungen für den Datenaustausch via REST-Service zwischen dem
+
+Praxisverwaltungssystem und dem Webservice-Kollegensuche entnommen werden. Im Kapitel 5 sind
+
+weitere Informationen zur Integration des Webservices in den Praxisverwaltungssystemen beschrieben.
 
 
 ---
 
-3
+# 3 FHIR®-DEFINITION
 
-## FHIR®-DEFINITION
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der Arzt wurden KBV-Profile erstellt, welche zum Teil von den deutschen Basis-Profilen sowie von den KBV- Basisprofilen abgeleitet sind. Folglich können die KBV-Profile mit den deutschen Basis-Profilen verwendet  werden. Die FHIR®-Ressourcen und eine Zusammenstellung der, in der FHIR® Elemente, finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sowie die KBV- Basisprofile sind nicht Gegenstand dieses Dokuments. Die Elemente in den KBV Kardinalitäten, Datentypen und weitere Eigenschaften sind den FHIR® entnehmen. Diese sind zu finden unter: [https://update.kbv.de/ita-update/Abrechnung/Kollegensuche](https://update.kbv.de/ita-update/Abrechnung/Kollegensuche) sowie [https://simplifier.net/kollegensuche](https://simplifier.net/kollegensuche).
+Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der Arzt wurden KBV-Profile erstellt, welche zum Teil von den deutschen Basis-Profilen sowie von den KBV-
 
-**3.1** **DATEINAME**
+Basisprofilen abgeleitet sind. Folglich können die KBV-Profile mit den deutschen Basis-Profilen verwendet  werden. Die FHIR®-Ressourcen und eine Zusammenstellung der, in der FHIR® Elemente, finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sowie die KBV- Basisprofile sind nicht Gegenstand dieses Dokuments. Die Elemente in den KBV Kardinalitäten, Datentypen und weitere Eigenschaften sind den FHIR® entnehmen. Diese sind zu finden unter: [https://update.kbv.de/ita-update/Abrechnung/Kollegensuche](https://update.kbv.de/ita-update/Abrechnung/Kollegensuche) sowie [https://simplifier.net/kollegensuche](https://simplifier.net/kollegensuche).
+
+## 3.1 DATEINAME
 
 Die Dateinamen setzen sich wie folgt zusammen.
 
-Kürzel_Kategorie_Thema_Bezeichnung
+- Kürzel_Kategorie_Thema_Bezeichnung
 
-Bedeutung:
+Bedeutung: - Kürzel:
 
-Kürzel:  KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert Kategorie:  PR Profil
+- KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert - Kategorie:
 
-EX Extension  Thema:  KS steht für Kollegensuche und ist ein fester Wert  Bezeichnung - Bezeichnung für das entsprechende Thema
+- PR Profil
+
+- EX Extension
+
+- Thema:
+
+- KS steht für Kollegensuche und ist ein fester Wert
+
+- Bezeichnung - Bezeichnung für das entsprechende Thema
 
 | Beispiel:  › ›  URL:  https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Practitioner |
 |---|
 
-**3.2** **KBV-PROFILE**
+## 3.2 KBV-PROFILE
 
 Die KBV-Profile geben Auskunft darüber, wie die Elemente und mit welchen Erweiterungen sowie  Einschränkungen diese zu verwenden  kanonischen URL.
 
@@ -176,9 +230,12 @@ Tabelle 1: KBV_PR_KS_PRACTITIONER
 
 -Notation spezifizierten
 
--Profilen sowie deren  -XML-Definitionsdateien zu
+-Profilen sowie deren
 
-Dateiname: KBV_PR_KS_Practitioner
+-XML-Definitionsdateien zu
+
+Dateiname: KBV_PR_KS_Practitioner   -
+
 
 ---
 
@@ -212,7 +269,7 @@ Tabelle 4: KBV_PR_KS_Bundle
 
 Tabelle 5: KBV_PR_KS_Location
 
-**3.3** **KBV-EXTENSIONS**
+## 3.3 KBV-EXTENSIONS
 
 Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Ressourcen vorgenommen
 
@@ -276,15 +333,29 @@ Tabelle 12: KBV_EX_KS_PsychotherapySetting
 
 Tabelle 13: KBV_EX_KS_PsychotherapyAgeGroup
 
-**3.4** **KBV-CODESYSTEMS**
+## 3.4 KBV-CODESYSTEMS
 
-Im Rahmen der Kollegensuche kommen die folgenden Schlüsseltabellen zum Einsatz:
+Im Rahmen der Kollegensuche kommen die folgenden Schlüsseltabellen zum Einsatz: - S_BAS_FACHGEBIET_FEIN
 
-S_BAS_FACHGEBIET_FEIN  S_BAS_ZUSATZBEZEICHNUNGEN  S_BAS_ZWEITMEINUNGEN  S_BAS_KV_GENEHMIGUNGEN  S_BAS_PT_VERFAHREN  S_BAS_PT_ALTERSGRUPPE  S_BAR2_SPRECHZEITART  S_BAS_PT_SETTING
+- S_BAS_ZUSATZBEZEICHNUNGEN
 
-S_BAS_FACHGEBIET_GROB  S_BAS_BARRIEREFREIHEIT
+- S_BAS_ZWEITMEINUNGEN
 
-S_BAS_FREMDSPRACHEN
+- S_BAS_KV_GENEHMIGUNGEN
+
+- S_BAS_PT_VERFAHREN
+
+- S_BAS_PT_ALTERSGRUPPE
+
+- S_BAR2_SPRECHZEITART
+
+- S_BAS_PT_SETTING
+
+- S_BAS_FACHGEBIET_GROB
+
+- S_BAS_BARRIEREFREIHEIT
+
+- S_BAS_FREMDSPRACHEN
 
 Die eingesetzten Schlüsseltabellen werden unter [https://applications.kbv.de/](https://applications.kbv.de/) sowie als CodeSysteme unter  [https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
@@ -293,7 +364,7 @@ KBV_EX_KS_SURGERYHOURSTYPE Praxissprechzeiten wie bspw. im TSVG berücksichtigt 
 
 ---
 
-**3.5** **FHIR®-RESSOURCEN**
+## 3.5 FHIR®-RESSOURCEN
 
 Die nachfolgenden Ressourcen werden durch die vorliegende Schnittstelle genutzt. Dabei gelten diese wie  in [FHIR®] beschrieben. Die Inhalte dieser Ressourcen ergeben sich aus den Festlegungen des vorliegenden  Dokumentes.
 
@@ -307,15 +378,15 @@ Tabelle 14: unveränderte FHIR® -Ressourcen
 
 ---
 
-4
+# 4 REST-SERVICE
 
-## REST-SERVICE
+Der Webservice der KBV stellt die Repräsentanzen, für die in  Ressourcen dem PVS, über einen REST-Service zur Verfügung. In diesem Zusammenhang fungiert das PVS  als Client. Der vom Server zur Verfügung gestellte REST-Service wird anhand der Spezifikation der
 
-Der Webservice der KBV stellt die Repräsentanzen, für die in  Ressourcen dem PVS, über einen REST-Service zur Verfügung. In diesem Zusammenhang fungiert das PVS  als Client. Der vom Server zur Verfügung gestellte REST-Service wird anhand der Spezifikation der  [FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen bzw. Einschränkungen  bereitgestellt. Der Webservice-Kollegensuche stellt dabei sicher, dass nur Instanzen von FHIR® verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR®
+[FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen bzw. Einschränkungen  bereitgestellt. Der Webservice-Kollegensuche stellt dabei sicher, dass nur Instanzen von FHIR® verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR®
 
-**4.1** **ALLGEMEINE FESTLEGUNGEN**
+## 4.1 ALLGEMEINE FESTLEGUNGEN
 
-**4.1.1** **Style Guide**
+### 4.1.1 Style Guide
 
 Grundlage ist das Kapitel „style Guide“ der [FHIR®_RESTful-API].
 
@@ -323,26 +394,50 @@ Es gilt: Zur Beschreibung der REST-Interaktionen wird folgende Notation verwende
 
 *VERB [base]/[ressourcetype]/[id] {?_format=[mime*
 
-[ ] = verpflichtend  { } = optional  VERB = HTTP-Schlüsselwort für die Interaktion  base = Service Base URL  ressourcetype = Bezeichnung des Ressourcentyps  mime-type = der MimeType der Anfrage   id = logische ID der Ressource  vid = version ID der Ressource  compartment = Bezeichnung des Compartment  parameters = URL-Parameter der entsprechenden Interaktion
+- [ ] = verpflichtend
+
+- { } = optional
+
+- VERB = HTTP-Schlüsselwort für die Interaktion - base = Service Base URL
+
+- ressourcetype = Bezeichnung des Ressourcentyps
+
+- mime-type = der MimeType der Anfrage
+
+- id = logische ID der Ressource
+
+- vid = version ID der Ressource
+
+- compartment = Bezeichnung des Compartment
+
+- parameters = URL-Parameter der entsprechenden Interaktion
 
 Die von dem PVS und dem Webservice-Kollegensuche genutzten URLs entsprechen dem RFC 3986 Section 6  Appendix A (d. h. spezifische Zeichen werden mit der %-Notation codiert).
 
 Der „_“ Unterstrich wird zur Kennzeichnung von Schlüsselwörtern in Abgrenzung zu anderen  Bezeichnungen für folgende Fälle genutzt:
 
-um systemweite Such-Interaktionen von Interaktionen auf FHIR® um Such- und andere Interaktionen von einer Repräsentanz einer FHIR® um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparameter Ressourcen zu unterscheiden.
+- um systemweite Such-Interaktionen von Interaktionen auf FHIR®
 
-Kapitel 3 „FHIR® Definitionen“ beschriebenen
+- um Such- und andere Interaktionen von einer Repräsentanz einer FHIR®
 
--Ressourcen  Definitionen“ entsprechen.
+- um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparameter Ressourcen zu unterscheiden.
+
+Kapitel 3 „FHIR® Definitionen“ beschriebenen -Ressourcen
+
+Definitionen“ entsprechen.
 
 *-type]}*
 
--Ressoucetypen zu unterscheiden  -Ressource zu unterscheiden  n einzelner FHIR®-
+-
+
+- -Ressoucetypen zu unterscheiden - -Ressource zu unterscheiden
+
+- n einzelner FHIR®-
 
 
 ---
 
-**4.1.2** **Service Base URL & Type**
+### 4.1.2 Service Base URL & Type
 
 Grundlage ist das Kapitel „2.21.0.1 Service Base URL“ der [
 
@@ -350,31 +445,39 @@ Es gilt: Der Webservice-Kollegensuche hat die Service Base URL ([base] =  safene
 
 Alle logischen Interaktionen werden relativ zur Service Base URL ([base]) ausgeführt. Alle hier spezifizierten  URLs sind case-sensitive und UTF-8 codiert. Auf Basis von  Dokument getroffenen Festlegungen für HTTPS.
 
-**4.1.3** **Logische ID, Metadata und Versionierung von Ressourcen**
+### 4.1.3 Logische ID, Metadata und Versionierung von Ressourcen
 
 Grundlage ist das Kapitel „2.21.0.2 Resource Metadata and Versioning“ von [
 
-Id: Die Logische-ID id entspricht der vom PVS für eine FHIR® wird in der URL der angefragten Interaktion des REST-Services genutzt. Die logische ID wird im Element  Ressource.id angegeben.  Last updated: Das Datum der letzten Änderung einer FHIR® Modified Header übertragen. Dieses Datum findet sich im Element Ressource.meta.lastUpdated der  FHIR®-Ressource.
+- Id: Die Logische-ID id entspricht der vom PVS für eine FHIR® wird in der URL der angefragten Interaktion des REST-Services genutzt. Die logische ID wird im Element - Ressource.id angegeben.
 
-**4.1.4** **Content Types, Encodings und Header Parameter**
+- Last updated: Das Datum der letzten Änderung einer FHIR® Modified Header übertragen. Dieses Datum findet sich im Element Ressource.meta.lastUpdated der  FHIR®-Ressource.
+
+### 4.1.4 Content Types, Encodings und Header Parameter
 
 Grundlage ist das Kapitel „2.21.0.6 Content Types and encodings“ aus [ Mime-Type für die über den REST-Service verarbeiteten Ressourcen ist application/fhir+xml oder  application/fhir+json.
 
 Das Praxisverwaltungssystem unterstützt mindestens einen der Mime
 
-Das Praxisverwaltungssystem und der Webservice-Kollegensuche nutzen UTF-8 als Encoding im Body der  HTTP -Anfragen und Antworten. Das Encoding ist über die Felder Content Charset im HTTP-Header zu übertragen.
+Das Praxisverwaltungssystem und der Webservice-Kollegensuche nutzen UTF-8 als Encoding im Body der
 
-Mit jedem HTTP Request ist ein Header-Parameter apiKey zu übertragen. Inhalt des Parameters ist die  KVDT-Prüfnummer.
+HTTP -Anfragen und Antworten. Das Encoding ist über die Felder Content
 
-**4.1.5** **Versionierung**
+Charset im HTTP-Header zu übertragen.
+
+Mit jedem HTTP Request ist ein Header-Parameter apiKey zu übertragen. Inhalt des Parameters ist die
+
+KVDT-Prüfnummer.
+
+### 4.1.5 Versionierung
 
 Grundlage ist das Kapitel „2.21.0.7 Support for Versions“ aus [
 
 Es gilt: Der REST-Service des Webservices-Kollegensuche unterstützt keine Versionierung der Ressourcen.  Damit sind die Versionierungen der Instanzen gemeint.
 
-**4.1.6** **Interaktionen auf den Ressourcen**
+### 4.1.6 Interaktionen auf den Ressourcen
 
-4.1.6.1 Suchen  Search
+### 4.1.6.1 Suchen  Search
 
 Grundlage ist das Kapitel „2.21.0.5 Managing Return Content“ aus
 
@@ -388,9 +491,9 @@ Kapitel 4.4 „Sicherheit“ gelten die in diesem
 
 FHIR®_RESTful-API]. Es gilt:
 
--Ressource vergebenen ID. Die logische ID
+- -Ressource vergebenen ID. Die logische ID
 
--Ressource wird über den HTTP Last-
+- -Ressource wird über den HTTP Last-
 
 FHIR®_RESTful-API]. Es gilt: Der -Types.
 
@@ -407,9 +510,13 @@ FHIR®_RESTful-API].
 
 *GET [base]/[type]{?[parameters]}*
 
-Die Suchfunktionalität des Webservices-Kollegensuche sind nach dem Kapitel „2.21.1 search“ von [FHIR®]  ([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) umgesetzt. Der Webservice Kollegensuche bietet eine Suche nach Ärzten  über den Ressourcentyp PractitionerRole an.
+Die Suchfunktionalität des Webservices-Kollegensuche sind nach dem Kapitel „2.21.1 search“ von [FHIR®]
 
-Die zur Verfügung stehenden Suchparameter können über das sog. Capability-Statement (vergl. 4.1.6.2)  erfragt werden. Die Besonderheiten zu den Suchparametern werden im Folgenden beschrieben:
+([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) umgesetzt. Der Webservice Kollegensuche bietet eine Suche nach Ärzten  über den Ressourcentyp PractitionerRole an.
+
+Die zur Verfügung stehenden Suchparameter können über das sog. Capability-Statement (vergl. 4.1.6.2)
+
+erfragt werden. Die Besonderheiten zu den Suchparametern werden im Folgenden beschrieben:
 
 |  |  |
 |---|---|
@@ -474,7 +581,7 @@ gesetzt werden. HREN.  GRUPPE.  G.  MIGUNGEN.  gilt auch dann als erfolgreich, w
 
 Tabelle 16: Statuscode und Antworten in der search -Interaktion
 
-4.1.6.2 Beschränkung der Suchergebnisse
+### 4.1.6.2 Beschränkung der Suchergebnisse
 
 Grundlage ist das Kapitel „2.21.0.15 search“ aus [FHIR®_RESTful-API].
 
@@ -482,21 +589,33 @@ Die Menge der Suchergebnisse wird beschränkt. Zurzeit liegt dieser Wert bei 50 
 
 Dieser Wert kann sich aber jederzeit ändern. Die aktuelle Einstellung auf dem Server wird im Bundle im  Bereich „meta“ mit einer Extension angezeigt:
 
-*<meta>*  *<extension url="[https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit](https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit)* *<valueInteger value="50"></valueInteger>*  *</extension>*
+*<meta>*
+
+*<extension url="[https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit](https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_ResultLimit)*
+
+*<valueInteger value="50"></valueInteger>*
+
+*</extension>*
 
 *</meta>*
 
-Die Umsetzung der Suchfunktionalität durch das Praxisverwaltungssystem muss die im Kapitel „2.21.1  search“ von [FHIR®] ([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) beschriebenen Suchfunktionen ermöglichen. Zudem  muss das PVS die für die jeweiligen Ressourcentypen definierten Suchparameter zur Suche anbieten. Dabei  sind nur die Suchparameter zu unterstützen, die nach der Profilierung noch in den Ressourcen vorliegen  können.
+Die Umsetzung der Suchfunktionalität durch das Praxisverwaltungssystem muss die im Kapitel „2.21.1  search“ von [FHIR®] ([http://hl7.org/fhir/search.html)](http://hl7.org/fhir/search.html)) beschriebenen Suchfunktionen ermöglichen. Zudem
+
+muss das PVS die für die jeweiligen Ressourcentypen definierten Suchparameter zur Suche anbieten. Dabei
+
+sind nur die Suchparameter zu unterstützen, die nach der Profilierung noch in den Ressourcen vorliegen  können.
 
 Im Bundle zeigt das Attribut total die Menge der Suchergebnisse an.
 
 Um dem Anwender zu zeigen, dass die Suchergebnisse besc „total“ zu vergleichen. Ist „total“ >= „resultlimit“, dann wurden das Suchergebnis begrenzt.
 
-4.1.6.3 Capabilities
+### 4.1.6.3 Capabilities
 
 Grundlage ist das Kapitel „2.21.0.16 capabilities“ aus [FHIR®_RESTful-API].
 
-Es gilt: Der Webservice-Kollegensuche stellt die Interaktion capabilities bereit. Wird diese von dem  Praxisverwaltungssystem aufgerufen, stellt der Webservice-Kollegensuche eine FHIR®-Ressource vom Typ  Capability Statement zur Verfügung, welche den Vorgaben aus 3.5 „FHIR®
+Es gilt: Der Webservice-Kollegensuche stellt die Interaktion capabilities bereit. Wird diese von dem  Praxisverwaltungssystem aufgerufen, stellt der Webservice-Kollegensuche eine FHIR®-Ressource vom Typ
+
+Capability Statement zur Verfügung, welche den Vorgaben aus 3.5 „FHIR®
 
 hränkt wurden, sind die Werte „resultlimit“ und
 
@@ -505,7 +624,9 @@ Fehler. werden, da eine Autorisierung für die Suche notwendig ist. werden, weil
 
 ---
 
-Die Interaktion capabilities wird durch die HTTP-Methode GET wie folgt von dem Webservice Kollegensuche angeboten:
+Die Interaktion capabilities wird durch die HTTP-Methode GET wie folgt von dem Webservice
+
+Kollegensuche angeboten:
 
 *GET T [base]/metadata*
 
@@ -523,27 +644,55 @@ Tabelle 17: Statuscode und Antworten in der capabilites -Interaktion
 
 Die Standardinteraktionen (create, read etc.) auf Ressourcen vom Typ CapabilityStatement werden von  dem Webservice-Kollegensuche nicht angeboten.
 
-Nicht unterstützte Interaktionen 4.1.6.4
+### Nicht unterstützte Interaktionen
+
+### 4.1.6.4
 
 Die folgenden Interaktionen der [FHIR®_RESTful-API] -Spezifikation sind vom PVS nicht umzusetzen:
 
-vread (Kapitel 2.21.0.9 aus [FHIR®_RESTful-API])  update (Kapitel 2.21.0.10 aus [FHIR®_RESTful-API] )  patch (Kapitel 2.21.0.12 aus [FHIR®_RESTful-API])  conditional create (Kapitel 2.21.0.5.1 aus [FHIR®_RESTful-API])  conditional delete (Kapitel 2.21.0.13.1 aus [FHIR®_RESTful-API])  batch (Kapitel 2.21.0.17 aus [FHIR®_RESTful-API])  history (Kapitel 2.21.0.18 aus [FHIR®_RESTful-API])  transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus [FHIR®_RESTful-API])  [FHIR®_RESTful-API])  delete (Kapitel „2.21.0.13 delete“ aus  create (Kapitel „2.21.0.14 create“ aus [FHIR®_RESTful-API])
+- vread (Kapitel 2.21.0.9 aus [FHIR®_RESTful-API])
 
-**4.1.7** **Paging**
+- update (Kapitel 2.21.0.10 aus [FHIR®_RESTful-API] )
 
-Der Webservice-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Kapitel 2.21.0.20 „paging“  aus [FHIR®_RESTful-API] sind nicht umgesetzt.
+- patch (Kapitel 2.21.0.12 aus [FHIR®_RESTful-API])
+
+- conditional create (Kapitel 2.21.0.5.1 aus [FHIR®_RESTful-API])
+
+- conditional delete (Kapitel 2.21.0.13.1 aus [FHIR®_RESTful-API])
+
+- batch (Kapitel 2.21.0.17 aus [FHIR®_RESTful-API])
+
+- history (Kapitel 2.21.0.18 aus [FHIR®_RESTful-API])
+
+- transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus [FHIR®_RESTful-API]) - [FHIR®_RESTful-API])
+
+-  delete (Kapitel „2.21.0.13 delete“ aus
+
+- create (Kapitel „2.21.0.14 create“ aus [FHIR®_RESTful-API])
+
+### 4.1.7 Paging
+
+Der Webservice-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Kapitel 2.21.0.20 „paging“
+
+aus [FHIR®_RESTful-API] sind nicht umgesetzt.
 
 ANTWORT wird übergeben. CapabilityStatement. wird übergeben. CapabilityStatement.
 
 ---
 
-**4.2** **KONFORMITÄT VON RESSOURCEN**
+## 4.2 KONFORMITÄT VON RESSOURCEN
 
-Der Webservice-Kollegensuche verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel 3 „FHIR® Definitionen“ definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-Ressourcen  bereitgestellt, die den definierten Profilen entsprechen.
+Der Webservice-Kollegensuche verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel 3 „FHIR®
 
-**4.3** **INTERAKTIONEN AUF DEN RESSOURCEN**
+Definitionen“ definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-Ressourcen
 
-Der Webservice-Kollegensuche stellte die in der folgenden Tabelle beschriebenen Interaktionen auf den  FHIR®-Ressourcen über den REST-Service zur Verfügung. Die Interaktionen sind im Kapitel 4.1.6  „Interaktionen auf den Ressourcen“ beschrieben.
+bereitgestellt, die den definierten Profilen entsprechen.
+
+## 4.3 INTERAKTIONEN AUF DEN RESSOURCEN
+
+Der Webservice-Kollegensuche stellte die in der folgenden Tabelle beschriebenen Interaktionen auf den  FHIR®-Ressourcen über den REST-Service zur Verfügung. Die Interaktionen sind im Kapitel 4.1.6
+
+„Interaktionen auf den Ressourcen“ beschrieben.
 
 |  |  |
 |---|---|
@@ -556,32 +705,34 @@ Der Webservice-Kollegensuche stellte die in der folgenden Tabelle beschriebenen 
 
 Tabelle 18: Interaktionen auf den FHIR® -Ressourcen
 
-**4.4** **SICHERHEIT**
+## 4.4 SICHERHEIT
 
 Der Datenaustausch über die REST-Schnittstelle sollte abgesichert werden können.
 
-Aus diesem Grund verwenden der Webservice-Kollegensuche und das PVS das nachstehende  Kommunikationsniveau.
+Aus diesem Grund verwenden der Webservice-Kollegensuche und das PVS das nachstehende
+
+Kommunikationsniveau.
 
 **Kommunikationsniveau**
 
-wird TLS verwendet.  Nachrichten zwischen dem Webservice-Kollegensuche und dem Praxisverwaltungssystem sind nur über  eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung
+wird TLS verwendet.
+
+Nachrichten zwischen dem Webservice-Kollegensuche und dem Praxisverwaltungssystem sind nur über  eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung
 
 
 ---
 
-5
+# 5 FESTLEGUNGEN FÜR DEN WEBSERVICE
 
-## FESTLEGUNGEN FÜR DEN WEBSERVICE
-
-Die Kommunikation zwischen dem Webservice-Kollegensuche und dem PVS erfolgt nach dem in Abbildung  2 dargestellten Ablauf.
+Die Kommunikation zwischen dem Webservice-Kollegensuche und dem PVS erfolgt nach dem in Abbildung 2 dargestellten Ablauf.
 
 Abbildung 2: genereller Ablauf
 
-**5.1** **BASE-URL DES WEBSERVICES**
+## 5.1 BASE-URL DES WEBSERVICES
 
 Für den Webservice-Kollegensuche können drei Base-URLs eingesetzt werden. Dabei dienen zwei der Base URL zu Testzwecken, um die Implementation in den Praxisverwaltungssystemen zu unterstützen.
 
-**5.1.1** **Testsystem im Sicheren Netz der KVen (SNK)**
+### 5.1.1 Testsystem im Sicheren Netz der KVen (SNK)
 
 Eine Testinstanz des Webservices-Kollegen ist im SNK unter der Base-URL [https://fhir-](https://fhir-) kollegensuche.kbvtest.kv-safenet.de/FHIR4 erreichbar.
 
@@ -589,11 +740,13 @@ Eine Testinstanz des Webservices-Kollegen ist im SNK unter der Base-URL [https:/
 
 Diese Adresse ist auch aus der Telematikinfrastruktur (TI) heraus erreichbar.
 
-**5.1.2** **Testsystem im Internet**
+### 5.1.2 Testsystem im Internet
 
-Eine Testinstanz des Webservices-Kollegen im Internet unter der Base-URL [https://api-](https://api-) kollegensuche.kbv.de/FHIR4/ erreichbar.
+Eine Testinstanz des Webservices-Kollegen im Internet unter der Base-URL [https://api-](https://api-)
 
-**5.1.3** **Produktiver Webservice-Kollegensuche**
+kollegensuche.kbv.de/FHIR4/ erreichbar.
+
+### 5.1.3 Produktiver Webservice-Kollegensuche
 
 Der Webservice-Kollegensuche zum produktiven Einsatz in Arztpraxen ist nur im SNK sowie der TI  erreichbar.
 
@@ -602,24 +755,24 @@ Die Base-URL lautet: [https://fhir-kollegensuche.kv-safenet.de/FHIR4/](https://f
 
 ---
 
-**5.2** **BESCHRÄNKUNG DER SERVER**
+## 5.2 BESCHRÄNKUNG DER SERVER
 
-IP-Adresse und Tag. Wenn das Der Webservice-Kollegensuche beschränkt die möglichen Suchanfragen pro  Limit erreicht ist, wird eine Meldung gesendet.
+IP-Adresse und Tag. Wenn das
+
+Der Webservice-Kollegensuche beschränkt die möglichen Suchanfragen pro  Limit erreicht ist, wird eine Meldung gesendet.
 
 
 ---
 
-6
-
-## FESTLEGUNG FÜR DAS PVS
+# 6 FESTLEGUNG FÜR DAS PVS
 
 Das PVS muss mindestens die in diesem Kapitel genannten Such-Interaktionen in Form von Suchfunktion  für Anwender auf die Ressource PractitionerRole anbieten.
 
 Es können auf Grundlage der in Kapitel 4.1.6.1 Suchen  Suchfunktionen für den Anwender angeboten werden. Ebenso  um weitere Parameter ergänzt werden.
 
-**6.1** **SUCH-INTERAKTION MITHILFE DES STANDORTES**
+## 6.1 SUCH-INTERAKTION MITHILFE DES STANDORTES
 
-**6.1.1** **latitude und longitude**
+### 6.1.1 latitude und longitude
 
 Das PVS muss eine Suchfunktion mit den beiden Parametern
 
@@ -628,11 +781,13 @@ Das PVS muss eine Suchfunktion mit den beiden Parametern
 
 **HINWEIS**
 
-Wenn bei der Standortsuche der Parameter distanz Kollegensuche den Defaultwert 5 km.
+Wenn bei der Standortsuche der Parameter distanz
+
+Kollegensuche den Defaultwert 5 km.
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.2** **PLZ**
+### 6.1.2 PLZ
 
 Das PVS muss eine Suchfunktion mit dem Parameter
 
@@ -674,7 +829,7 @@ Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv-safe
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.5**
+### 6.1.5
 
 Das PVS kann eine Suchfunktion mit dem Parameter  Suche nach einem bestimmten Datum anzubieten.
 
@@ -685,7 +840,7 @@ Für die Suche können die Werte der Schlüsseltabelle
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.6**
+### 6.1.6
 
 Das PVS kann eine Suchfunktion mit dem Parameter  Suche nach einem bestimmten Datum anzubieten.
 
@@ -705,7 +860,7 @@ Zusatzbezeichnung  073 (Geriatrie) safenet.de/FHIR4/PractitionerRole?distanz=500
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „fremdsprache_30.xml“.
 
-**6.1.7** **Datum**
+### 6.1.7 Datum
 
 Das PVS kann eine Suchfunktion mit dem Parameter  nach einem bestimmten Datum anzubieten.
 
@@ -718,9 +873,11 @@ datum unterstützen, um den Anwender die Suche
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.8** **Psychotherapie-Verfahren**
+### 6.1.8 Psychotherapie-Verfahren
 
-Das PVS kann eine Suchfunktion mit dem Parameter ptv unterstützen, um den Anwender die Suche nach  der unterstützten Psychotherapie-Altersgruppe anzubieten.
+Das PVS kann eine Suchfunktion mit dem Parameter ptv unterstützen, um den Anwender die Suche nach
+
+der unterstützten Psychotherapie-Altersgruppe anzubieten.
 
 Für die Suche können die Werte der Schlüsseltabelle S_BAS_PT_VERFAHREN
 
@@ -756,15 +913,17 @@ Produktiver Webservice-Kollegensuche: Fremdsprache - 30 (Georgisch): safenet.de/
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.12**
+### 6.1.12
 
 Das PVS muss eine Suchfunktion mit dem Parameter  nach dem Nachnamen zu ermöglichen.
 
 Die beispielhafte Antwort des Testsystem finden Sie in der Datei „
 
-**6.1.13**
+### 6.1.13
 
-Das PVS muss eine Suchfunktion mit dem Parameter  Suche nach der Kombination BSNR und LANR  siehe „
+Das PVS muss eine Suchfunktion mit dem Parameter  Suche nach der Kombination BSNR und LANR
+
+siehe „
 
 | Beispiel für eine Suche:   • https://fhir-kollegensuche.kbvtest.kv-      2. : https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128        3. • https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128 |
 |---|
@@ -780,51 +939,477 @@ KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse) safenet.de/FHIR4/Practi
 
 ### Die beispielhafte Antwort des Testsystem finden Sie in der
 
-**6.2**
+## 6.2 BEISPIEL ANTWORT DES SERVERS
 
-### BEISPIEL ANTWORT DES SERVERS
+<Bundle xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
 
-<Bundle xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>  <id value="04ae084a-1984-4471-a520-fdac8b0ed197"/>  <meta>   <extension url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit")>   <valueInteger value="100"/>   </extension>   <lastUpdated value="2019-05-31T00:00:00.000+02:00"/>  </meta>  <type value="searchset"/>  <total value="1"/>  <link>   <relation value="self"/>   <url  value="[https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/](https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/)
+<id value="04ae084a-1984-4471-a520-fdac8b0ed197"/>
+
+<meta>
+
+<extension url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit")>
+
+<valueInteger value="100"/>
+
+</extension>
+
+<lastUpdated value="2019-05-31T00:00:00.000+02:00"/>
+
+</meta>
+
+<type value="searchset"/>
+
+<total value="1"/>
+
+<link>
+
+<relation value="self"/>
+
+<url
+
+value="[https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/](https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/)
 
 </link>
 
 <entry>
 
-<fullUrl  value="[https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/](https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/)>  <resource>    <PractitionerRole xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
+<fullUrl
+
+value="[https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/](https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/)>
+
+<resource>
+
+<PractitionerRole xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
 
 value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_BehandelnderFunktion"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_BehandelnderFunktion"/)>
 
 value="[https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAS_ARZTGRUPPE_ALT"/](https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAS_ARZTGRUPPE_ALT"/)>
 
-<id value="7100000650000065"/>  <meta>  <profile
+<id value="7100000650000065"/>
 
-</meta>  <practitioner>  <reference value="Practitioner/10379"/>  </practitioner>  <organization>  <reference value="Organization/710000065"/>  </organization>  <code>  <coding>   <system
+<meta>
 
-<code value="10"/>   <display value="Nervenärzte"/>  </coding>  </code>  <location>  <reference value="Location/710000065"/>  </location>  <telecom>  <system value="phone"/>  <value value="0989146003"/>  <use value="work"/>  </telecom>  <telecom>  <system value="phone"/>  <value value="0938137938"/>  <use value="mobile"/>  </telecom>  <telecom>  <system value="fax"/>  <value value="0785113135"/>  <use value="work"/>  </telecom>  <telecom>  <system value="email"/>  <value value="[mail@me.de](mailto:mail@me.de)"/>  <use value="work"/>  </telecom>  <telecom>
+<profile
+
+</meta>
+
+<practitioner>
+
+<reference value="Practitioner/10379"/>
+
+</practitioner>
+
+<organization>
+
+<reference value="Organization/710000065"/>
+
+</organization>
+
+<code>
+
+<coding>
+
+<system
+
+<code value="10"/>
+
+<display value="Nervenärzte"/>
+
+</coding>
+
+</code>
+
+<location>
+
+<reference value="Location/710000065"/>
+
+</location>
+
+<telecom>
+
+<system value="phone"/>
+
+<value value="0989146003"/>
+
+<use value="work"/>
+
+</telecom>
+
+<telecom>
+
+<system value="phone"/>
+
+<value value="0938137938"/>
+
+<use value="mobile"/>
+
+</telecom>
+
+<telecom>
+
+<system value="fax"/>
+
+<value value="0785113135"/>
+
+<use value="work"/>
+
+</telecom>
+
+<telecom>
+
+<system value="email"/>
+
+<value value="[mail@me.de](mailto:mail@me.de)"/>
+
+<use value="work"/>
+
+</telecom>
+
+<telecom>
 
 ### Datei „bsnrLanr_7222359009957128.xml
 
 
 ---
 
-<system value="url"/>      <value value="www.kbv.de"/>      <use value="work"/>     </telecom>     <availableTime>      <extension  url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>       <valueString value="nur bestellte Patienten"/>      </extension>      <daysOfWeek value="tue"/>      <availableStartTime value="15:00:00"/>      <availableEndTime value="18:00:00"/>     </availableTime>     <availableTime>      <daysOfWeek value="tue"/>      <availableStartTime value="08:00:00"/>      <availableEndTime value="12:00:00"/>     </availableTime>     <availableTime>      <extension  url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>       <valueString value="Am Montag ist die Praxis sehr voll."/>      </extension>      <daysOfWeek value="mon"/>      <availableStartTime value="08:00:00"/>      <availableEndTime value="18:00:00"/>     </availableTime>     <availableTime>      <extension  url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>       <valueString value="n.V."/>      </extension>      <daysOfWeek value="sat"/>      <availableStartTime value="09:00:00"/>      <availableEndTime value="11:00:00"/>     </availableTime>     <availableTime>      <extension  url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>       <valueString value="nur bestellte Patienten"/>      </extension>      <daysOfWeek value="thu"/>      <availableStartTime value="15:00:00"/>      <availableEndTime value="18:00:00"/>     </availableTime>     <availableTime>      <daysOfWeek value="fri"/>      <availableStartTime value="09:00:00"/>      <availableEndTime value="13:00:00"/>     </availableTime>     <availableTime>      <extension  url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>       <valueString value="14-15 Uhr Telefonsprechstunde"/>      </extension>      <daysOfWeek value="wed"/>      <availableStartTime value="09:00:00"/>      <availableEndTime value="13:00:00"/>     </availableTime>     <availableTime>      <daysOfWeek value="thu"/>      <availableStartTime value="08:00:00"/>      <availableEndTime value="12:00:00"/>     </availableTime>     <availabilityExceptions value="Ohne Termin bitte immer vorher anrufen!"/>    </PractitionerRole>   </resource>  </entry>  <entry>   <fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Practitioner/10379"/](https://api-kollegensuche.kbv.de/FHIR/Practitioner/10379"/)>   <resource>
+<system value="url"/>
+
+<value value="www.kbv.de"/>
+
+<use value="work"/>
+
+</telecom>
+
+<availableTime>
+
+<extension
+
+url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>
+
+<valueString value="nur bestellte Patienten"/>
+
+</extension>
+
+<daysOfWeek value="tue"/>
+
+<availableStartTime value="15:00:00"/>
+
+<availableEndTime value="18:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<daysOfWeek value="tue"/>
+
+<availableStartTime value="08:00:00"/>
+
+<availableEndTime value="12:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<extension
+
+url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>
+
+<valueString value="Am Montag ist die Praxis sehr voll."/>
+
+</extension>
+
+<daysOfWeek value="mon"/>
+
+<availableStartTime value="08:00:00"/>
+
+<availableEndTime value="18:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<extension
+
+url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>
+
+<valueString value="n.V."/>
+
+</extension>
+
+<daysOfWeek value="sat"/>
+
+<availableStartTime value="09:00:00"/>
+
+<availableEndTime value="11:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<extension
+
+url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>
+
+<valueString value="nur bestellte Patienten"/>
+
+</extension>
+
+<daysOfWeek value="thu"/>
+
+<availableStartTime value="15:00:00"/>
+
+<availableEndTime value="18:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<daysOfWeek value="fri"/>
+
+<availableStartTime value="09:00:00"/>
+
+<availableEndTime value="13:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<extension
+
+url="[https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung"](https://fhir.kbv.de/StructureDefinition/74_EX_KS_BehandelnderFunktion_Bemerkung")>
+
+<valueString value="14-15 Uhr Telefonsprechstunde"/>
+
+</extension>
+
+<daysOfWeek value="wed"/>
+
+<availableStartTime value="09:00:00"/>
+
+<availableEndTime value="13:00:00"/>
+
+</availableTime>
+
+<availableTime>
+
+<daysOfWeek value="thu"/>
+
+<availableStartTime value="08:00:00"/>
+
+<availableEndTime value="12:00:00"/>
+
+</availableTime>
+
+<availabilityExceptions value="Ohne Termin bitte immer vorher anrufen!"/>
+
+</PractitionerRole>
+
+</resource>
+
+</entry>
+
+<entry>
+
+<fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Practitioner/10379"/](https://api-kollegensuche.kbv.de/FHIR/Practitioner/10379"/)>
+
+<resource>
 
 
 ---
 
-<Practitioner xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>     <id value="10379"/>     <meta>      <profile  value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder"/)>     </meta>     <identifier>      <use value="official"/>      <system value="[http://fhir.de/NamingSystem/kbv/lanr"/](http://fhir.de/NamingSystem/kbv/lanr"/)>      <value value="000006513"/>     </identifier>     <identifier>      <use value="official"/>      <system value="[http://fhir.de/NamingSystem/kbv/lanr"/](http://fhir.de/NamingSystem/kbv/lanr"/)>      <value value="000006511"/>     </identifier>     <name>      <use value="official"/>      <family value="Namenszusatz AG10FG131ZBnullFSnull TestarztNachname">       <extension url="[http://hl7.org/fhir/StructureDefinition/humanname-own-](http://hl7.org/fhir/StructureDefinition/humanname-own-) prefix">        <valueString value="Namenszusatz"/>       </extension>       <extension url="[http://hl7.org/fhir/StructureDefinition/humanname-own-](http://hl7.org/fhir/StructureDefinition/humanname-own-) name">        <valueString value="AG10FG131ZBnullFSnull TestarztNachname"/>       </extension>      </family>      <given value="Testarzt AG10FG131ZBnullFSnull"/>      <prefix value="Dipl.-Med."/>     </name>     <gender value="male"/>     <qualification>      <code>       <coding>        <system value="[https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR2_WBO"/](https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR2_WBO"/)>        <code value="131"/>        <display value="FA Kieferchirurgie; obsolet"/>       </coding>      </code>     </qualification>    </Practitioner>   </resource>  </entry>  <entry>   <fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Organization/710000065"/](https://api-kollegensuche.kbv.de/FHIR/Organization/710000065"/)>   <resource>    <Organization xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>     <id value="710000065"/>     <meta>      <profile  value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Betriebsstaette"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Betriebsstaette"/)>     </meta>     <identifier>      <use value="official"/>      <system value="[http://fhir.de/NamingSystem/kbv/bsnr"/](http://fhir.de/NamingSystem/kbv/bsnr"/)>      <value value="710000065"/>     </identifier>     <address>      <use value="work"/>      <type value="physical"/>      <line value="Teststraße 149">       <extension url="[http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-](http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-) streetName">        <valueString value="Teststraße"/>       </extension>       <extension url="[http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-](http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-) houseNumber">        <valueString value="149"/>       </extension>      </line>
+<Practitioner xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
+
+<id value="10379"/>
+
+<meta>
+
+<profile
+
+value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder"/)>
+
+</meta>
+
+<identifier>
+
+<use value="official"/>
+
+<system value="[http://fhir.de/NamingSystem/kbv/lanr"/](http://fhir.de/NamingSystem/kbv/lanr"/)>
+
+<value value="000006513"/>
+
+</identifier>
+
+<identifier>
+
+<use value="official"/>
+
+<system value="[http://fhir.de/NamingSystem/kbv/lanr"/](http://fhir.de/NamingSystem/kbv/lanr"/)>
+
+<value value="000006511"/>
+
+</identifier>
+
+<name>
+
+<use value="official"/>
+
+<family value="Namenszusatz AG10FG131ZBnullFSnull TestarztNachname">
+
+<extension url="[http://hl7.org/fhir/StructureDefinition/humanname-own-](http://hl7.org/fhir/StructureDefinition/humanname-own-)
+
+prefix">
+
+<valueString value="Namenszusatz"/>
+
+</extension>
+
+<extension url="[http://hl7.org/fhir/StructureDefinition/humanname-own-](http://hl7.org/fhir/StructureDefinition/humanname-own-)
+
+name">
+
+<valueString value="AG10FG131ZBnullFSnull TestarztNachname"/>
+
+</extension>
+
+</family>
+
+<given value="Testarzt AG10FG131ZBnullFSnull"/>
+
+<prefix value="Dipl.-Med."/>
+
+</name>
+
+<gender value="male"/>
+
+<qualification>
+
+<code>
+
+<coding>
+
+<system value="[https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR2_WBO"/](https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR2_WBO"/)>
+
+<code value="131"/>
+
+<display value="FA Kieferchirurgie; obsolet"/>
+
+</coding>
+
+</code>
+
+</qualification>
+
+</Practitioner>
+
+</resource>
+
+</entry>
+
+<entry>
+
+<fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Organization/710000065"/](https://api-kollegensuche.kbv.de/FHIR/Organization/710000065"/)>
+
+<resource>
+
+<Organization xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
+
+<id value="710000065"/>
+
+<meta>
+
+<profile
+
+value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Betriebsstaette"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Betriebsstaette"/)>
+
+</meta>
+
+<identifier>
+
+<use value="official"/>
+
+<system value="[http://fhir.de/NamingSystem/kbv/bsnr"/](http://fhir.de/NamingSystem/kbv/bsnr"/)>
+
+<value value="710000065"/>
+
+</identifier>
+
+<address>
+
+<use value="work"/>
+
+<type value="physical"/>
+
+<line value="Teststraße 149">
+
+<extension url="[http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-](http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-)
+
+streetName">
+
+<valueString value="Teststraße"/>
+
+</extension>
+
+<extension url="[http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-](http://hl7.org/fhir/StructureDefinition/iso21090-ADXP-)
+
+houseNumber">
+
+<valueString value="149"/>
+
+</extension>
+
+</line>
 
 
 ---
 
-<city value="Mühldorf"/>      <postalCode value="84453"/>     </address>    </Organization>   </resource>  </entry>  <entry>   <fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Location/710000065"/](https://api-kollegensuche.kbv.de/FHIR/Location/710000065"/)>   <resource>    <Location xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>     <id value="710000065"/>     <meta>      <profile value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Position"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Position"/)>     </meta>     <position>      <longitude value="12.501986548"/>      <latitude value="48.2445172540001"/>     </position>    </Location>   </resource>  </entry>  </Bundle>
+<city value="Mühldorf"/>
+
+<postalCode value="84453"/>
+
+</address>
+
+</Organization>
+
+</resource>
+
+</entry>
+
+<entry>
+
+<fullUrl value="[https://api-kollegensuche.kbv.de/FHIR/Location/710000065"/](https://api-kollegensuche.kbv.de/FHIR/Location/710000065"/)>
+
+<resource>
+
+<Location xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
+
+<id value="710000065"/>
+
+<meta>
+
+<profile value="[https://fhir.kbv.de/StructureDefinition/74_PR_KS_Position"/](https://fhir.kbv.de/StructureDefinition/74_PR_KS_Position"/)>
+
+</meta>
+
+<position>
+
+<longitude value="12.501986548"/>
+
+<latitude value="48.2445172540001"/>
+
+</position>
+
+</Location>
+
+</resource>
+
+</entry>
+
+</Bundle>
 
 
 ---
 
-7
-
-REFERENZIERTE DOKUMENTE
+7 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -838,4 +1423,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

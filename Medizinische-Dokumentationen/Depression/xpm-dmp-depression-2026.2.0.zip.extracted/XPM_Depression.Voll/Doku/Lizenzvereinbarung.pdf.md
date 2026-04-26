@@ -196,13 +196,19 @@ der Verein-
 
 barung erst ermöglicht und auf deren Erfüllung
 
-r-(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforde
+r-
+
+(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforde
 
 lichen Aufwendungen beschränkt, die normal und üblich sind, wenn Sicherungskopien erstellt
 
 wurden.
 
-agspflichten durch (3) Im Falle einer fahrlässigen Verletzung wesentlicher Vertrdie KBV ist die
+agspflichten durch
+
+(3) Im Falle einer fahrlässigen Verletzung wesentlicher Vertr
+
+die KBV ist die
 
 Haftung auf vorhersehbare, vertragstypische Schäden beschränkt.
 
@@ -212,27 +218,41 @@ Haftung auf vorhersehbare, vertragstypische Schäden beschränkt.
 
 (1) Mündliche Nebenabreden zu dieser Vereinbarung sind nicht getroffen. Jegliche Änderung
 
-lt auch für die Aufhebung dieser Schriftformverein-oder Ergänzung bedarf der Schriftform. Dies gi
+lt auch für die Aufhebung dieser Schriftformverein-
+
+oder Ergänzung bedarf der Schriftform. Dies gi
 
 barung.
 
-m-(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Besti
+m-
+
+(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Besti
 
 mungen erhalten, bleibt seine Wirksamkeit im Übrigen davon unberührt. Die Parteien verpflichten
 
 sich, anstelle der unwirksamen, undurchführbaren, anfechtbaren oder nichtigen Bestimmungen
 
-g-eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfol
+g-
+
+eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfol
 
 ten wirtschaftlichen Zweck am Nächsten kommt.
 
-iften in dieser Vereinbarung wurden der leichteren Lesbarkeit (3) Die beschreibenden Überschr
+iften in dieser Vereinbarung wurden der leichteren Lesbarkeit
+
+(3) Die beschreibenden Überschr
 
 wegen eingefügt, und die Auslegung dieser Vereinbarung wird durch sie nicht eingeschränkt oder
 
 auf sonstige Weise berührt.
 
-Vereinbarung dürfen nicht ohne ausdrücklichei-(4) Die Rechte aus dieser  schriftliche Genehm
+Vereinbarung dürfen nicht ohne ausdrückliche
+
+i-
+
+(4) Die Rechte aus dieser
+
+schriftliche Genehm
 
 gung der KBV abgetreten werden.
 
@@ -240,4 +260,6 @@ gung der KBV abgetreten werden.
 
 (6) Auf die vorliegende Vereinbarung findet ausschließlich deutsches Recht Anwendung.
 
-Kassenärztliche Bundesvereinigung  **3 3**
+Kassenärztliche Bundesvereinigung
+
+**3 3**

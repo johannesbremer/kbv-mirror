@@ -9,19 +9,27 @@
 
 **Erläuterungen zu den einzelnen Feldern**
 
-**Diagnose (ICD-10-Code)** **1.**
+- **Diagnose (ICD-10-Code)**
 
-r-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
+- **1.**
 
-**2. Erkrankung besteht seit (falls bekannt)**
+r-
+
+Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
+
+- **2. Erkrankung besteht seit (falls bekannt)**
 
 Sofern bekannt, geben Sie hier das Datum an, seit dem die die Soziotherapie begründende Erkrankung  besteht.
 
-**Krankenhausbehandlung (wird vermieden/ wird verkürzt/ ist nicht ausführbar)** **3.**
+- **Krankenhausbehandlung (wird vermieden/ wird verkürzt/ ist nicht ausführbar)**
+
+- **3.**
 
 Hier ist eine der drei Angaben anzukreuzen.
 
-**Erklärung des Arztes** **4.**
+- **Erklärung des Arztes**
+
+- **4.**
 
 Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
@@ -29,4 +37,6 @@ Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php) (PDF, 550 KB): Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf 2
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php) (PDF, 550 KB):
+
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf 2

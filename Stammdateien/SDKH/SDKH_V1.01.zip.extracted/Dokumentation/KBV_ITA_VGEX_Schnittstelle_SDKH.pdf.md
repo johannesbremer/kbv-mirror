@@ -28,17 +28,17 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
-**DOKUMENTENHISTORIE**
+#### DOKUMENTENHISTORIE
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
-**ABBILDUNGSVERZEICHNIS**
+#### ABBILDUNGSVERZEICHNIS
 
-**TABELLENVERZEICHNIS**
+#### TABELLENVERZEICHNIS
 
-**XML-CODE-VERZEICHNIS**
+#### XML-CODE-VERZEICHNIS
 
 **1** **EINLEITUNG**
 
@@ -66,7 +66,13 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 4.3.3 hinweis_liste/hinweis ........................................................................................................... 12
 
-4.3.4 kriterien_liste/kriterium ......................................................................................................... 12 *4.3.4.1* *id ........................................................................................................................... 12* *4.3.4.2* *notwendig ............................................................................................................. 12* *4.3.4.3* *text ........................................................................................................................ 12*
+4.3.4 kriterien_liste/kriterium ......................................................................................................... 12
+
+*4.3.4.1* *id ........................................................................................................................... 12*
+
+*4.3.4.2* *notwendig ............................................................................................................. 12*
+
+*4.3.4.3* *text ........................................................................................................................ 12*
 
 **5** **REFERENZIERTE DOKUMENTE**
 
@@ -99,7 +105,9 @@ Abbildung 1 Grundstruktur ehd ..................................................
 
 Abbildung 2 Element id ............................................................................................................
 
-Abbildung 3 Element document_type_cd ...............................................................................
+Abbildung 3 Element document_type_cd
+
+...............................................................................
 
 Abbildung 4 Element provider ................................................................................................
 
@@ -118,11 +126,23 @@ Abbildung 5 Element interface ..................................................
 
 ---
 
-*TABELLENVERZEICHNIS*     Tabelle 1 Beschreibung der Kardinalitäten .............................................................................. 7
+*TABELLENVERZEICHNIS*
 
-Tabelle 2 Beschreibung der Strukturelement- Symbole ............................................................ 8
+Tabelle 1 Beschreibung der Kardinalitäten
 
-Tabelle 3 Beschreibung sonstiger Symbole ............................................................................. 8
+..............................................................................
+
+7
+
+Tabelle 2 Beschreibung der Strukturelement- Symbole
+
+............................................................ 8
+
+Tabelle 3 Beschreibung sonstiger Symbole
+
+.............................................................................
+
+8
 
 * Version 1.01
 
@@ -131,20 +151,30 @@ Tabelle 3 Beschreibung sonstiger Symbole .......................................
 
 *XML - CODE VERZEICHNIS*
 
-XML -Code 1 ehd Beispiel ......................................................................................................... 9
+XML -Code 1 ehd Beispiel .........................................................................................................
 
-Code 2 ehdXML --header ........................................................................................................ 11
+9
 
-XML --bodyCode 3 ehd ........................................................................................................... 13
+Code 2 ehd
+
+XML --header
+
+........................................................................................................
+
+11
+
+XML --bodyCode 3 ehd
+
+...........................................................................................................
+
+13
 
 * Version 1.01
 
 
 ---
 
-**1**
-
-### Einleitung
+# 1 Einleitung
 
 Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Stammdatei Kodierhilfe.
 
@@ -152,9 +182,7 @@ Die Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist zur e
 
 Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  4005- 2121).
 
-**2**
-
-### Dateinamen
+# 2 Dateinamen
 
 Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
@@ -166,13 +194,11 @@ Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 Beispiel: -  sdkh_1.00_74.xml
 
-**3**
-
-### Semantik der verwendeten Diagramm-Symbole
+# 3 Semantik der verwendeten Diagramm-Symbole
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
-**3.1 Kardinalität**
+## 3.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -190,7 +216,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element m
 
 ---
 
-**3.2 Strukturelemente**
+## 3.2 Strukturelemente
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
@@ -201,7 +227,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 Beschreibung der Strukturelement-Symbole**
 
-**3.3 Sonstige Symbole**
+## 3.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -216,36 +242,65 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst.
 
-
 ---
 
-**4**
+# 4 Beschreibung von ehd
 
-### Beschreibung von ehd
+Die Schnittstelle Stammdatei Kodierhilfe basiert auf der EHD-Richtlinie V1.40
 
-Die Schnittstelle Stammdatei Kodierhilfe basiert auf der EHD-Richtlinie V1.40  [KBV_ITA_VGEX_EHD]. Damit entspricht die XML-u Struktur vom header und keytabs gena den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden eigene Elemente definiert, die im  Kapitel 4.2 beschrieben werden.
+[KBV_ITA_VGEX_EHD]. Damit entspricht die XML-u Struktur vom header und keytabs gena
 
-Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  /Kleinschreibung zu bdie in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
+den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden eigene Elemente definiert, die im  Kapitel 4.2 beschrieben werden.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
+Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  /Kleinschreibung zu b
+
+die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
+
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus
+
+den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge-
+
+stellt ist.
 
 **Abbildung 1 Grundstruktur ehd**
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben:   <?xml version="1.0" encoding="ISO-8859-15"?>  <ehd xmlns="urn:ehd/001" xmlns:dib="urn:ehd/sdkh/001" ehd_version="1.40" > <header>   ...  <header>  <body>   ...  </body>  </ehd>
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:
+
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<ehd xmlns="urn:ehd/001" xmlns:dib="urn:ehd/sdkh/001" ehd_version="1.40" >
+
+<header>
+
+...
+
+<header>
+
+<body>
+
+...
+
+</body>
+
+</ehd>
 
 **XML-Code 1 ehd Beispiel**
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_EHD] auf  der diese Schnittstelle aufbaut an.
 
-**4.1 Element header**
+## 4.1 Element header
 
-Spezifikation. Die genaue BeschreDer header ist eine Untermenge vom header der EHD-i- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
+Spezifikation. Die genaue Beschre
 
-Stammdatei ist die KBV, in das Dokument -  Id-Element: Der Herausgeber der XML-- id Element sind folgende Daten anzugeben:
+Der header ist eine Untermenge vom header der EHD-i- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
 
-o id-Element im EX-Attribut steht eine eindeutige id (GUID)
+- Stammdatei ist die KBV, in das Dokument
 
-o id-Element im RT-Attribut steht die KBV-OID „1.2.276.0.76.5.3.1.1“.
+-  Id-Element: Der Herausgeber der XML-- id Element sind folgende Daten anzugeben:
+
+- o id-Element im EX-Attribut steht eine eindeutige id (GUID)
+
+- o id-Element im RT-Attribut steht die KBV-OID „1.2.276.0.76.5.3.1.1“.
 
 **Abbildung 2 Element id**
 
@@ -254,7 +309,7 @@ o id-Element im RT-Attribut steht die KBV-OID „1.2.276.0.76.5.3.1.1“.
 
 -  Im document_type_cd-lElement wurde der Dokumenttyp festgeegt:
 
-o document_type_cd im V-Attribut ist der Wert: „SDKH“ fest vorgeschrieben.
+- o document_type_cd im V-Attribut ist der Wert: „SDKH“ fest vorgeschrieben.
 
 **Abbildung 3 Element document_type_cd**
 
@@ -264,23 +319,35 @@ z.B. “2010-01-01..“
 
 -  Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or- ganisation (KBV). Die Vorgaben im organization-Element enthalten:
 
-Element EX- Attribut enthält die Nummer „74“, RT-t-o organization.id-:Attribut en 1.2.276.0.76.5.233hält den String „“)
+- Element EX- Attribut enthält die Nummer „74“, RT-t-
 
-o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes- vereinigung”)
+- o organization.id-:
 
-o (optional) organization.addr-Element Adresse der Organisation („Herbertle- winstr 2, 10623 Berlin“)
+- Attribut en
 
-Element Telefonnummer der Organisation o (optional) organization.telecom-  („03040052121“)
+- 1.2.276.0.76.5.233
+
+- hält den String „“)
+
+- o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes- vereinigung”)
+
+- o (optional) organization.addr-Element Adresse der Organisation („Herbertle- winstr 2, 10623 Berlin“)
+
+- Element Telefonnummer der Organisation
+
+- o (optional) organization.telecom-  („03040052121“)
 
 **Abbildung 4 Element provider**
 
 -  Im Interface- Element werden die Schnittstellendaten eingegeben:
 
-o id-Element im EX-Attribut ist der Wert „SDKH“ fest vorgeschrieben. RT-Attribut  enthält den Wert: „1.2.276.0.76.5.109“.
+- o id-Element im EX-Attribut ist der Wert „SDKH“ fest vorgeschrieben. RT-Attribut  enthält den Wert: „1.2.276.0.76.5.109“.
 
-o interface.nm-Element im V-Attribut ist der Wert: „Stammdatei Kodierhilfe“ fest  vorgeschrieben.
+- o interface.nm-Element im V-Attribut ist der Wert: „Stammdatei Kodierhilfe“ fest  vorgeschrieben.
 
-Attribut wird die Version der Kodierhilfe Schemata eingetragen o version im V--  (z.B. „1.00“).
+- Attribut wird die Version der Kodierhilfe Schemata eingetragen
+
+- o version im V--  (z.B. „1.00“).
 
 
 ---
@@ -292,19 +359,29 @@ XML -Beispiel
 | EX=" ag111105-       </ organization>       </ header > |
 |---|
 
-XML-Code 2 ehd-header 4.2 body (Datenbereich)
+XML-Code 2 ehd-header
 
-Im Bereich ***<body>*** liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann  der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh /001“.  4.3 diagnose n_liste
+## 4.2 body (Datenbereich)
 
-beinhaltet eine Liste der Diagnosen. Das Element ***<diagnosen_liste>***
+Im Bereich ***<body>*** liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann
+
+der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh /001“.
+
+## 4.3 diagnose n_liste
+
+beinhaltet eine Liste der Diagnosen.
+
+Das Element ***<diagnosen_liste>***
 
 | diagram |  |
 |---|---|
 | namespace | urn:ehd/evl/001 |
 
-*4.3.1* *diagnose*
+### 4.3.1 diagnose
 
--e-10 Kode, eine Liste mit Hinweisen und eine Liste mit KritEine Diagnose enthält einen ICD rien.
+-e-10 Kode, eine Liste mit Hinweisen und eine Liste mit Krit
+
+Eine Diagnose enthält einen ICD rien.
 
 * Version 1.01
 
@@ -328,15 +405,13 @@ beinhaltet eine Liste der Diagnosen. Das Element ***<diagnosen_liste>***
 |---|
 | "/> |
 
-### XML-Code 3 ehd-body
+#### XML-Code 3 ehd-body
 
 </hinweis> hinweis <text V="Akute Brustschmerzen"/> </hinweis> </hinweis_liste> kriterien_liste <kriterium> <id EX="231141" RT="1.2.276.0.76.3.1.1.5.4.4"/>  notwendig V="true"/>  <text V="Akut oder bis zu vier Wochen (28 Tage) zurückliegend </kriterium> <kriterium> <id EX="231242" RT="1.2.276.0.76.3.1.1.5.4.4"/> notwendig V="true"/>  <text V="ST-Anhebung, Lokalisation im EKG"/> </kriterium> </kriterien_liste> </diagnose> </diagnosen_liste> </ehd:body>
 
 ---
 
-**5**
-
-## Referenzierte Dokumente
+# 5 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

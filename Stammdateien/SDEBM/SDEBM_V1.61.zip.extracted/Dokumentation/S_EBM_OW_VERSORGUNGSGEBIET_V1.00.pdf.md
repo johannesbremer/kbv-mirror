@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_EBM_OW_VERSORGUNGSGEBIET
+#### S_EBM_OW_VERSORGUNGSGEBIET
 
 **OID:**
 
@@ -22,4 +22,4 @@
 
 **Bezeichnung** Regelfall
 
-Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET1
+Schlüsseltabelle: S_EBM_OW_VERSORGUNGSGEBIET 1

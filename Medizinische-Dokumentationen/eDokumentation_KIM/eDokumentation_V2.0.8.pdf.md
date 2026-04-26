@@ -13,11 +13,9 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 1.2 Abgrenzung .......................................................................................................................................................4
 
-2 Arten der übermittelten Nachrichten .......................................................................... 5 3
+2 Arten der übermittelten Nachrichten .......................................................................... 5
 
-## Anforderungen an die Software-Systeme................................................................... 6 3.1
-
-### Übergreifende Anforderungen an eDokumentation........................................................................6
+3 Anforderungen an die Software-Systeme................................................................... 6 3.1 Übergreifende Anforderungen an eDokumentation........................................................................6
 
 3.2 Anforderungen an eDokumention "Lieferung"...................................................................................7
 
@@ -27,25 +25,25 @@ Copyright © kv.digital GmbH, 2025 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 3.2.3 Anforderungen an die Anhänge ....................................................................................................................................................7
 
-3.2.4 Beispiel einer eDokumentation-Lieferung ...............................................................................................................................9 3.3
+3.2.4 Beispiel einer eDokumentation-Lieferung ...............................................................................................................................9
 
-### Anforderungen an die eDokumentation-Eingangsbestätigung ................................................ 10
+3.3 Anforderungen an die eDokumentation-Eingangsbestätigung ................................................ 10
 
 3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................ 10
 
 3.3.2 Anforderungen an den Nachrichten-Body ............................................................................................................................ 10
 
-3.3.3 Beispiel für eDokumentation-Eingangsbestätigung.......................................................................................................... 11 3.4
+3.3.3 Beispiel für eDokumentation-Eingangsbestätigung.......................................................................................................... 11
 
-### Anforderungen an den eDokumentation-Importstatus............................................................... 12
+3.4 Anforderungen an den eDokumentation-Importstatus............................................................... 12
 
 3.4.1 Anforderungen an den Nachrichten-Header........................................................................................................................ 12
 
 3.4.2 Anforderungen an den Nachrichten-Body ............................................................................................................................ 12
 
-3.4.3 Beispiel für eDokumentation-Importstatus.......................................................................................................................... 13 3.5
+3.4.3 Beispiel für eDokumentation-Importstatus.......................................................................................................................... 13
 
-### Anforderungen zum Versand und Empfang von eDokumentation-Nachrichten .............. 15
+3.5 Anforderungen zum Versand und Empfang von eDokumentation-Nachrichten .............. 15
 
 3.5.1 Anforderungen an das Software-System der Leistungserbringer ............................................................................... 15
 
@@ -70,25 +68,51 @@ eDokumentation V2.0
 
 **Änderungshistorie:**
 
-**Version Datum Autor Kapitel ÄnderungStatus**
+**Version Datum Autor Kapitel Änderung**
 
-2.0.8 07.04.2025 kv.digital 3 Anpassung von eDoku0112 und Aufnahme in Kraft GmbHeiner Anmerkung bezüglich der Verwendung  des Header-Feldes Return-Path
+**Status**
 
-Aufnahme Anforderung zum Umgang, wenn  bezüglich ausbleibender eDokumentation- Importstatus-Nachrichten Rücksprache mit der  DAS gehalten wurde
+2.0.8 07.04.2025 kv.digital 3
 
-2.0.7 24.03.2025 kv.digital 4 Korrektur des Links der Referenzen [SPKA] und außer Kraft GmbH[MDN]
+Anpassung von eDoku0112 und Aufnahme in Kraft
 
-2.0.6 20.02.2025 kv.digital 3 Ergänzung der Abbildung 4 für außer Kraft GmbHeDokumentation- Importstatus RFC822- Standard
+GmbH
 
-2.0.5 23.11.2023 kv.digital 3 Aufnahme Anforderung zum Umgang, wenn außer Kraft GmbHversendete eDokumentation-Lieferungen ohne  Antwort bleiben
+einer Anmerkung bezüglich der Verwendung  des Header-Feldes Return-Path
 
-3 Aufnahme Anforderung zum Umgang, wenn  empfangene eDokumentation-Nachrichten  nicht zugeordnet werden können
+Aufnahme Anforderung zum Umgang, wenn  bezüglich ausbleibender eDokumentation- Importstatus-Nachrichten Rücksprache mit der  DAS gehalten wurde 2.0.7 24.03.2025 kv.digital 4
 
-3 Aufnahme Anforderung zur Anzeige von  eDokumentation-Lieferung und zugehörigem  eDokumentation-Importstatus
+Korrektur des Links der Referenzen [SPKA] und außer Kraft
 
-3 Anpassung der Dienstkennung der  Eingangsbestätigung
+GmbH
 
-alle Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Begleitdatei [BGD]
+[MDN]
+
+2.0.6 20.02.2025 kv.digital 3
+
+Ergänzung der Abbildung 4 für
+
+außer Kraft
+
+GmbH
+
+eDokumentation- Importstatus RFC822- Standard 2.0.5 23.11.2023 kv.digital 3
+
+Aufnahme Anforderung zum Umgang, wenn außer Kraft
+
+GmbH
+
+versendete eDokumentation-Lieferungen ohne  Antwort bleiben 3
+
+Aufnahme Anforderung zum Umgang, wenn  empfangene eDokumentation-Nachrichten  nicht zugeordnet werden können 3
+
+Aufnahme Anforderung zur Anzeige von  eDokumentation-Lieferung und zugehörigem  eDokumentation-Importstatus 3
+
+Anpassung der Dienstkennung der  Eingangsbestätigung
+
+alle
+
+Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Begleitdatei [BGD]
 
 Migration eDokumentation V2.0.4 via KV- Connect nach KIM
 
@@ -96,7 +120,11 @@ Migration eDokumentation V2.0.4 via KV- Connect nach KIM
 
 kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die unentgeltliche Nutzung von Spezifikationen**  **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:** Lizenzbestimmungen  für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) pages/viewpage.action?pageId=71075847
+**Die Spezifikation untersteht den Lizenzbestimmungen für die unentgeltliche Nutzung von Spezifikationen**  **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:** Lizenzbestimmungen
+
+für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/)
+
+pages/viewpage.action?pageId=71075847
 
 Seite 3 von 20
 
@@ -110,9 +138,13 @@ Der Anwendungsdienst "eDokumentation" dient der Übermittlung von elektronischen
 Zu den eDokumentationen gehören:
 
 - Qualitätssicherung in der Holmium-Laser-Therapie (QSHLT)
+
 - Qualitätssicherung in der Kapselendoskopie (QSKE)
+
 - Qualitätssicherung in der Molekulargenetik (QSMG)
+
 - Qualitätssicherung in der Hörgeräteversorgung von Jugendlichen und Erwachsenen (QSHGV)
+
 - Qualitätssicherung in der Hörgeräteversorgung von Säuglingen, Kleinkindern und Kindern (QSHGVK)
 
 Die Spezifikation umfasst nicht den gesamten Umfang der Rückmeldungen: Nicht Bestandteil dieser  Spezifikation ist die Übermittlung des Rückmeldeberichts, den der Arzt nach Auswertung seiner Ergebnisse  erhält und der einen Vergleich mit den Ergebnissen aller anderen teilnehmenden Ärzte enthält.
@@ -128,7 +160,13 @@ Die Spezifikation umfasst nicht den gesamten Umfang der Rückmeldungen: Nicht Be
 
 **2 Arten der übermittelten Nachrichten** Für die Anwendung eDokumentation sind drei Arten von Nachrichten spezifiziert:
 
-1. die **eDokumentation-Lieferung**, die die eDokumentation vom Leistungserbringer (LE) zur  Datenannahmestelle (DAS) transportieren, 2. die **eDokumentation-Eingangsbestätigung**, die den LE informiert darüber, dass die versendete  Nachricht an die DAS ausgeliefert wurde und  3. der **eDokumentation-Importstatus**, die den Status der Verarbeitung in der DAS von der DAS zum LE  transportieren.
+1. die **eDokumentation-Lieferung**, die die eDokumentation vom Leistungserbringer (LE) zur
+
+Datenannahmestelle (DAS) transportieren, 2. die **eDokumentation-Eingangsbestätigung**, die den LE informiert darüber, dass die versendete
+
+Nachricht an die DAS ausgeliefert wurde und  3. der **eDokumentation-Importstatus**, die den Status der Verarbeitung in der DAS von der DAS zum LE
+
+transportieren.
 
 5 20
 
@@ -149,11 +187,18 @@ eDokumentation-Nachrichten **DÜRFEN KEIN** Header-Element CC  enthalten.
 
 **[eDoku0003]**
 
-Der Ausdruck <Typ> als ein Teil der Dienstkennung aller eDokumentation-Nachrichtenarten ist ein  Platzhalter. Der Platzhalter **MUSS** vom Software-System mit einer der folgenden Zeichenketten belegt  werden:
+Der Ausdruck <Typ> als ein Teil der Dienstkennung aller eDokumentation-Nachrichtenarten ist ein  Platzhalter. Der Platzhalter **MUSS** vom Software-System mit einer der folgenden Zeichenketten belegt
+
+werden:
+
 - QSHLT (Qualitätssicherung in der Holmium-Laser-Therapie)
+
 - QSKE (Qualitätssicherung in der Kapselendoskopie)
+
 - QSMG (Qualitätssicherung in der Molekulargenetik)
+
 - QSHGV (Qualitätssicherung in der Hörgeräteversorgung von Jugendlichen und Erwachsenen)
+
 - QSHGVK (Qualitätssicherung in der Hörgeräteversorgung von Säuglingen, Kleinkindern und  Kindern) 6 20
 
 
@@ -165,11 +210,15 @@ Der Ausdruck <Typ> als ein Teil der Dienstkennung aller eDokumentation-Nachricht
 
 **[eDoku0110]**
 
-Das Header-Element X-KIM-Dienstkennung <Typ>;Lieferung;V2.0" aufweisen.
+Das Header-Element X-KIM-Dienstkennung
+
+<Typ>;Lieferung;V2.0" aufweisen.
 
 **[eDoku0111]**
 
-Der Inhalt des Header-Elements Subject   entsprechen.
+Der Inhalt des Header-Elements Subject
+
+entsprechen.
 
 **[eDoku0112]**
 
@@ -179,7 +228,9 @@ Notification-To und Return-Path gesetzt werden [MDN].
 
 *Anmerkung:*
 
-- *Das Header-Feld* Return-Path* wird vom letzten System auf der Übertragungsstrecke der KIM-Nachricht*  *gesetzt und sollte daher nicht vom versendenden System gesetzt werden.*
+- *Das Header-Feld* Return-Path* wird vom letzten System auf der Übertragungsstrecke der KIM-Nachricht*
+
+*gesetzt und sollte daher nicht vom versendenden System gesetzt werden.*
 
 3.2.2 Anforderungen an den Nachrichten-Body
 
@@ -197,7 +248,9 @@ Die Begleitdatei **MUSS** den geltenden Vorgaben gemäß [BGD] entsprechen.
 
 **[eDoku0132]**
 
-Jede eDokumentation "Lieferung" **MUSS** genau ein MIME-Segment mit dem Dokumentationsarchiv  enthalten.
+Jede eDokumentation "Lieferung" **MUSS** genau ein MIME-Segment mit dem Dokumentationsarchiv
+
+enthalten.
 
 **[eDoku0133]**
 
@@ -211,7 +264,9 @@ genau den Inhalt "eDokumentation-
 
 X-KIM-Dienstkennung
 
-**MÜSSEN**  *as*ie Header-Felder Disposition-
+**MÜSSEN**
+
+*as*ie Header-Felder Disposition-
 
 **MUSS** den geltenden Vorgaben gemäß 7 20
 
@@ -232,9 +287,13 @@ Content-Transfer-Encoding  Content-Disposition, Content-Description
 
 ) enthalten.
 
-**AnhangContent-Type**
+**Anhang**
 
-Begleitdateiapplication/xml;  name="begleitdatei.xml"
+**Content-Type**
+
+Begleitdatei
+
+application/xml;  name="begleitdatei.xml"
 
 Dokumentationsarchiv application/octet-  stream;  name="<archivname>.zi p.xkm"
 
@@ -329,9 +388,7 @@ X-KIM-
 
 ---
 
-3.3.3
-
-### Beispiel für eDokumentation-Eingangsbestätigung
+3.3.3 **Beispiel für eDokumentation-Eingangsbestätigung**
 
 Content-Type: multipart/report; report-type=disposition-notification; boundary="---- =_Part_124_577229494.1548949881009" MIME-Version: 1.0 Message-ID: <Message-ID> Date: Thu, 10 Nov 2022 11:51:21 +0100 Subject: eDokumentation;Eingangsbestaetigung;V2.0 From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: eDokumentation;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beipsiel-DAS-Client;V4.4.4
 
@@ -368,13 +425,17 @@ Dienstkennung aufweisen.
 
 **[eDoku0312]**
 
-Der Nachrichten-Header **MUSS** ein Element " In-Reply-To " mit der Message-ID der eDokumentation- Lieferung enthalten, auf die sich dieser eDokumentation-Importstatus bezieht.
+Der Nachrichten-Header **MUSS** ein Element " In-Reply-To " mit der Message-ID der eDokumentation-
+
+Lieferung enthalten, auf die sich dieser eDokumentation-Importstatus bezieht.
 
 3.4.2 Anforderungen an den Nachrichten-Body
 
 **[eDoku0320]**
 
-Der Nachrichten-Body **MUSS** einen menschenlesbaren Teil mit Angaben zum Importstatus enthalten,  welche den jeweiligen Anforderungskatalogen gemäß [Med_Dok] entsprechen.
+Der Nachrichten-Body **MUSS** einen menschenlesbaren Teil mit Angaben zum Importstatus enthalten,
+
+welche den jeweiligen Anforderungskatalogen gemäß [Med_Dok] entsprechen.
 
 Die weiteren Anforderungen an den Nachrichten-Body sind in der Spezifikation [SPKA] beschrieben.
 
@@ -387,9 +448,7 @@ X-KIM-
 
 ---
 
-3.4.3
-
-### Beispiel für eDokumentation-Importstatus
+3.4.3 **Beispiel für eDokumentation-Importstatus**
 
 From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik)  To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) Subject: eDokumentation-QSKE;Status;V2.0 Message-ID: <Message-ID> X-KIM-Dienstkennung: eDokumentation-QSKE;Status;V2.0 X-KIM-Sendersystem: Beispiel-DAS-Client;1.0 In-Reply-To: <Original-Message-ID> Date: Thu, 10 Nov 2024 10:01:45 +0100 MIME-Version: 1.0 Content-Type: multipart/mixed;
 
@@ -422,7 +481,9 @@ Die Jahresstatistik gemäß Qualitätssicherungsvereinbarung Kapselendoskopie wu
 Das Software-System des LE muss Folgendes ermöglichen:
 
 - den Versand von eDokumentation-Lieferungen
+
 - den Empfang von eDokumentation-Eingangsbestätigungen
+
 - und den Empfang von eDokumentation-Importstatus-Nachrichten.
 
 **Weiterverarbeitung durch Drittsysteme**
@@ -435,11 +496,15 @@ Anforderungen an den Versand von eDokumentation-Lieferungen
 
 **[eDoku0810]**
 
-Das Software-System **MUSS** das Element testdaten  belegen.
+Das Software-System **MUSS** das Element testdaten
+
+belegen.
 
 **[eDoku0811]**
 
-Das Software-System **MUSS** die KIM-Adresse der zuständigen DAS anhand der Betriebs-(BSNR) oder  Nebenbetriebsstättennummer (NBSNR) aus der SDKVCA [KVCA_Dienste_Adressen] bestimmen und  automatisch in die Nachricht übernehmen.
+Das Software-System **MUSS** die KIM-Adresse der zuständigen DAS anhand der Betriebs-(BSNR) oder
+
+Nebenbetriebsstättennummer (NBSNR) aus der SDKVCA [KVCA_Dienste_Adressen] bestimmen und  automatisch in die Nachricht übernehmen.
 
 Anmerkungen:
 
@@ -447,16 +512,26 @@ Anmerkungen:
 
 **[eDoku0812]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, über die Anforderung einer eDokumentation- Eingangsbestätigung (MDN) selbst zu entscheiden.
+Das Software-System **MUSS** es dem Anwender ermöglichen, über die Anforderung einer eDokumentation-
+
+Eingangsbestätigung (MDN) selbst zu entscheiden.
 
 **[eDoku0813]**
 
-Das Software-System **MUSS** alle ausgehenden eDokumentation-Lieferungen in einer „Versandliste"  speichern und dem Anwender die Möglichkeit bieten, sich die eDokumentation-Lieferung erneut anzeigen  zu lassen. Die eDokumentation-Lieferungen sind so gekennzeichnet, dass der Anwender auch ohne Öffnen  einer Nachricht erkennen kann,
+Das Software-System **MUSS** alle ausgehenden eDokumentation-Lieferungen in einer „Versandliste"
+
+speichern und dem Anwender die Möglichkeit bieten, sich die eDokumentation-Lieferung erneut anzeigen  zu lassen. Die eDokumentation-Lieferungen sind so gekennzeichnet, dass der Anwender auch ohne Öffnen  einer Nachricht erkennen kann,
+
 - ob sie erfolgreich gesendet worden ist,
+
 - an wen und wann sie gesendet wurde,
+
 - ob mit der Nachricht eDokumentation-<Typ>-Archive übertragen wurden,
+
 - ob für die Nachricht eine Eingangsbestätigung (MDN) angefordert wurde,
+
 - ob für die Nachricht eine Eingangsbestätigung (MDN) empfangen wurde.
+
 - ob für eine versendete eDokumentation-Lieferung ein eDokumentation-Importstatus vorliegt.
 
 der Begleitdatei mit dem festen Wert false 15 20
@@ -466,7 +541,11 @@ der Begleitdatei mit dem festen Wert false 15 20
 
 **[eDoku0814]**
 
-Der Anwender **MUSS** sich eDokumentation-Lieferungen inklusive aller Anhänge anzeigen lassen und  öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen eDokumentation- Eingangsbestätigungen sowie Importstatusse in der gleichen Ansicht anzeigen lassen und öffnen können.
+Der Anwender **MUSS** sich eDokumentation-Lieferungen inklusive aller Anhänge anzeigen lassen und
+
+öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen eDokumentation-
+
+Eingangsbestätigungen sowie Importstatusse in der gleichen Ansicht anzeigen lassen und öffnen können.
 
 Anmerkung:
 
@@ -476,26 +555,35 @@ Anforderungen an den Empfang von eDokumentation-Eingangsbestätigungen
 
 **[eDoku0820]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den  Mailserver des Kommunikationsdienst nach eDokumentation-Eingangsbestätigungen abzufragen, diese  abzuholen und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
+Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den
+
+Mailserver des Kommunikationsdienst nach eDokumentation-Eingangsbestätigungen abzufragen, diese  abzuholen und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
 
 **[eDoku0821]**
 
 Das Software-System **MUSS** bei eingehenden eDokumentation-Eingangsbestätigungen prüfen,
+
 - ob diese einen Bezug zu einer gesendeten eDokumentation-Lieferung haben und
+
 - die entsprechende eDokumentation-Lieferung sinnvoll kennzeichnen und zuordnen.
 
 Dabei gilt, dass die Zuordnung:
+
 - der eDokumentation-Eingangsbestätigungen zu der gesendeten eDokumentation-Lieferung über  In-Reply-To und/oder Original-Message-ID erfolgen **MUSS**
 
 Anforderungen an den Empfang von eDokumentation-Importstatus
 
 **[eDoku0830]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den  Mailserver des Kommunikationsdienst nach eDokumentation-Importstatus-Nachrichten abzufragen, diese  abzuholen und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
+Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den
+
+Mailserver des Kommunikationsdienst nach eDokumentation-Importstatus-Nachrichten abzufragen, diese  abzuholen und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
 
 **[eDoku0831]**
 
-Das Software-System **MUSS** bei eingehenden eDokumentation-Importstatus-Nachrichten prüfen, ob diese  einen Bezug zu einer gesendeten eDokumentation-Lieferung haben und entsprechend zuordnen.
+Das Software-System **MUSS** bei eingehenden eDokumentation-Importstatus-Nachrichten prüfen, ob diese
+
+einen Bezug zu einer gesendeten eDokumentation-Lieferung haben und entsprechend zuordnen.
 
 16 20
 
@@ -504,27 +592,41 @@ Das Software-System **MUSS** bei eingehenden eDokumentation-Importstatus-Nachric
 
 **[eDoku0832]**
 
-Kann das Software-System bei den eingehenden eDokumentation-Importstatus-Nachrichten keinen Bezug  zu einer gesendeten eDokumentation-Lieferung herstellen, **MUSS** das Software-System dem Anwender  eine entsprechende Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein:
+Kann das Software-System bei den eingehenden eDokumentation-Importstatus-Nachrichten keinen Bezug  zu einer gesendeten eDokumentation-Lieferung herstellen, **MUSS** das Software-System dem Anwender
+
+eine entsprechende Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein:
+
 - empfangene eDokumentation-Importstatus-Nachricht kann nicht zugeordnet werden
+
 - Rückfrage beim Absender ist notwendig
+
 - notwendige Informationen aus der empfangenen eDokumentation-Importstatus-Nachrichten für  die Rückfrage beim Absender:
+
 - Absender (Angabe im Header-Element From
 
 - Datum und Uhrzeit des Versands (Angabe im Header-Element Date - Message-ID
 
 **[eDoku0833]**
 
-Hat das Software-System innerhalb von 72 Stunden nach dem Versand einer eDokumentation-Lieferung  keine eDokumentation-Importstatus-Nachricht erhalten, **MUSS** das Software-System den Anwender über  die ausbleibende eDokumentation-Importstatus-Nachricht informieren.
+Hat das Software-System innerhalb von 72 Stunden nach dem Versand einer eDokumentation-Lieferung  keine eDokumentation-Importstatus-Nachricht erhalten, **MUSS** das Software-System den Anwender über
+
+die ausbleibende eDokumentation-Importstatus-Nachricht informieren.
 
 Anmerkungen:
 
 - Die 72 Stunden gelten nur werktags, wobei Samstag nicht als Werktag gilt.
+
 - Die Information muss in geeigneter Form erfolgen. Geeignet ist beispielsweise eine Statusanzeige bei  der Nachricht. Nicht geeignet sind z.B. Meldungen, die mehr als eine Bestätigung erfordern.
+
 - Die Information muss Empfehlungen für eine geeignete Reaktion des Anwenders enthalten, bspw. die  Rückfrage beim Empfänger (DAS) per Telefon oder E-Mail.
 
 **[eDoku0834]**
 
-*Das Software-System* ***MUSS*** *dem Anwender die Möglichkeit bieten, für eDokumentation-Lieferungen, für die*  *innerhalb von 72 Stunden kein eDokumentation-Importstatus erhalten wurden, die Kennzeichnung der*  *erfolgreichen oder nicht erfolgreichen Übermittlung selbst vorzunehmen. Das Software-System* ***MUSS*** *den*  *Anwender darauf hinweisen, dass die Kennzeichnung nur nach Rücksprache mit der DAS erfolgen darf.*
+*Das Software-System* ***MUSS*** *dem Anwender die Möglichkeit bieten, für eDokumentation-Lieferungen, für die*
+
+*innerhalb von 72 Stunden kein eDokumentation-Importstatus erhalten wurden, die Kennzeichnung der*  *erfolgreichen oder nicht erfolgreichen Übermittlung selbst vorzunehmen. Das Software-System* ***MUSS*** *den*
+
+*Anwender darauf hinweisen, dass die Kennzeichnung nur nach Rücksprache mit der DAS erfolgen darf.*
 
 *Anmerkung:*
 
@@ -540,7 +642,9 @@ Anmerkungen:
 Das Software-System der DAS muss Folgendes ermöglichen:
 
 - den Empfang von eDokumenation-Lieferungen
+
 - den Versand von eDokumentation-Eingangsbestätigungen und
+
 - den Versand von eDokumentation-Importstatus-Nachrichten
 
 **Weiterverarbeitung durch Drittsysteme**
@@ -553,34 +657,56 @@ Anforderungen an den Empfang von eDokumentation-Lieferung
 
 **[eDoku0910]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den  Mailserver des Kommunikationsdienst nach eDokumentation-Lieferungen abzufragen, diese abzuholen  und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
+Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den
+
+Mailserver des Kommunikationsdienst nach eDokumentation-Lieferungen abzufragen, diese abzuholen  und dem lokalen System in einem geeigneten Format zur Verfügung zu stellen.
 
 **[eDoku0911]**
 
 Das Software-System **MUSS**
+
 - aus den empfangenen eDokumentation-Lieferungen alle notwendigen Informationen für  Rückantworten ermitteln, vorhalten und ggf. mit weiteren Informationen anreichern,
+
 - die Prüfung und Weiterverarbeitung der enthaltenen Dateien sicherstellen,
 
 so dass je nach Status der Prüfung und Weiterverarbeitung der Dokumentationsbögen bzw.  Jahresstatistiken die entsprechenden eDokumentation-Nachrichten (eDokumentation- Eingangsbestätigung, eDokumentation-Importstatus) erzeugt und an den entsprechenden  Leistungserbringer bzw. Absender der eDokumentation-Lieferung versendet werden können.
 
 **[eDoku0912]**
 
-Das Software-System **MUSS** zu jeder empfangenen eDokumentation-Lieferung **genau** eine  eDokumentation-Eingangsbestätigung (MDN) erzeugen und an den Absender der Nachricht (ohne weitere  Auswahl der Empfängeradresse) zurücksenden können, **WENN** der Absender eine Eingangsbestätigung  angefordert hat. Dabei gilt:
-- Das Software-System **MUSS** für jede vom Mailserver abgeholte eDokumentation-Lieferung die in  den Header-Elementen Disposition-Notification-To und Return-Path (sofern  vorhanden) angegebene Adresse auf ihre Gültigkeit überprüfen. Sollten die Adressen nicht positiv  überprüfbar sein, so ist eine Fehlermeldung auszugeben. Die Eingangsbestätigung an diese Adresse  ist dann nicht zu erzeugen.
-- Das Software-System **MUSS** für jede vom Mailserver abgeholte eDokumentation-Lieferung genau  eine Eingangsbestätigung nach den Maßgaben dieser Spezifikation sowie [MDN] an die in den  Header-Elementen Disposition-Notification-To und Return-Path angegebene  Adresse versenden, sofern diese Header-Elemente vorhanden und die Inhalte identisch sind.
+Das Software-System **MUSS** zu jeder empfangenen eDokumentation-Lieferung **genau** eine
+
+eDokumentation-Eingangsbestätigung (MDN) erzeugen und an den Absender der Nachricht (ohne weitere  Auswahl der Empfängeradresse) zurücksenden können, **WENN** der Absender eine Eingangsbestätigung
+
+angefordert hat. Dabei gilt:
+
+- Das Software-System **MUSS** für jede vom Mailserver abgeholte eDokumentation-Lieferung die in
+
+den Header-Elementen Disposition-Notification-To und Return-Path (sofern
+
+vorhanden) angegebene Adresse auf ihre Gültigkeit überprüfen. Sollten die Adressen nicht positiv  überprüfbar sein, so ist eine Fehlermeldung auszugeben. Die Eingangsbestätigung an diese Adresse  ist dann nicht zu erzeugen.
+
+- Das Software-System **MUSS** für jede vom Mailserver abgeholte eDokumentation-Lieferung genau
+
+eine Eingangsbestätigung nach den Maßgaben dieser Spezifikation sowie [MDN] an die in den  Header-Elementen Disposition-Notification-To und Return-Path angegebene
+
+Adresse versenden, sofern diese Header-Elemente vorhanden und die Inhalte identisch sind.
 
 18 20
 
 
 ---
 
-- Fehlt das Header-Element Return-Path, **KANN** das Software-System für jede vom Mailserver  abgeholte eDokumentation-Lieferung genau eine eDokumentation-Eingangsbestätigung nach den  Maßgaben dieser Spezifikation sowie [MDN] an die im Header-Element Disposition-Notification-To  angegebene Adresse versenden.
+- Fehlt das Header-Element Return-Path, **KANN** das Software-System für jede vom Mailserver
+
+abgeholte eDokumentation-Lieferung genau eine eDokumentation-Eingangsbestätigung nach den  Maßgaben dieser Spezifikation sowie [MDN] an die im Header-Element Disposition-Notification-To  angegebene Adresse versenden.
 
 Anforderungen an den Versand von eDokumentation-Importstatus
 
 **[eDoku0920]**
 
-Das Software-System **MUSS** zu jeder empfangenen eDokumentation-Lieferung **genau** einen  eDokumentation-Importstatus nach den Maßgaben dieser Spezifikation erzeugen und an den  entsprechenden Leistungserbringer bzw. Absender der eDokumentation-Lieferung zurücksenden.
+Das Software-System **MUSS** zu jeder empfangenen eDokumentation-Lieferung **genau** einen
+
+eDokumentation-Importstatus nach den Maßgaben dieser Spezifikation erzeugen und an den  entsprechenden Leistungserbringer bzw. Absender der eDokumentation-Lieferung zurücksenden.
 
 19 20
 
@@ -588,14 +714,27 @@ Das Software-System **MUSS** zu jeder empfangenen eDokumentation-Lieferung **gen
 ---
 
 **4 Referenzen**
+
 - [SPKA]: Spezifikation übergreifende Anforderungen [https://partnerportal.kv-telematik.de/x/C888B](https://partnerportal.kv-telematik.de/x/C888B)  [https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen](https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen)
-- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-) Anwendungen
+
+- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-)
+
+Anwendungen
+
 - [MDN]: Spezifikation MDN (anwendungsübergreifend) MDN V1.0 - anwendungsübergreifend https:// partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen
+
 - [Med_Dok]: Anforderungskataloge, Schnittstellenbeschreibung, Plausibilitäten, Ausfüllhinweise für die  jeweiligen Qualitätssicherungsvereinbarungen, [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/
+
 - [SDKVCA]: [https://update.kbv.de/ita-update/Stammdateien/SDKVCA/](https://update.kbv.de/ita-update/Stammdateien/SDKVCA/)
+
 - [eDokumentation-KBV-XML] [https://update.kbv.de/ita-update/Medizinische-Dokumentationen/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/) Leitfaeden/
+
 - QSHLT (Qualitätssicherung in der Holmium-Laser-Therapie) [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) Medizinische-Dokumentationen/Holmium-Laser-Therapie/ KBV_ITA_VGEX_Anforderungskatalog_QSHLT.pdf
+
 - QSKE (Qualitätssicherung in der Kapselendoskopie) [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/Kapselendoskopie/KBV_ITA_VGEX_Anforderungskatalog_QSKE.pdf
+
 - QSMG (Qualitätssicherung in der Molekulargenetik) [https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-) Dokumentationen/Molekulargenetik/KBV_ITA_VGEX_Anforderungskatalog_QSMG.pdf
+
 - QSHGV (Qualitätssicherung in der Hörgeräteversorgung von Jugendlichen und Erwachsenen) https:// update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung/ KBV_ITA_VGEX_Anforderungskatalog_QSHGV.pdf
+
 - QSHGVK (Qualitätssicherung in der Hörgeräteversorgung von Säuglingen, Kleinkindern und Kindern)  [https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung-Kinder/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/Hoergeraeteversorgung-Kinder/) KBV_ITA_VGEX_Anforderungskatalog_QSHGVK.pdf 20 20

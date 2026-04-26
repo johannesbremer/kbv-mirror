@@ -1,16 +1,32 @@
-## postoperative Erstdokumentation nach präoperativer Einschreibung (pn
+##### postoperative Erstdokumentation nach präoperativer Einschreibung (pn
 
 Grundlage:
 
-Stand der Bearbeitung:  Version  anzuwenden ab:
+Stand der Bearbeitung:
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+Version
+
+anzuwenden ab:
+
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
+
+## des strukturierten Behandlungsprogramms
 
 ## Brustkrebs
 
-Anlage 4 DMP-A-RL  01.10.2023 19.04.2024  8.0  01.10.24
+Anlage 4 DMP-A-RL 01.10.2023
 
-p)
+#
+
+19.04.2024
+
+8.0
+
+01.10.24
+
+##### p)
 
 
 ---

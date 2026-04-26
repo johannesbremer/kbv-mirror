@@ -149,7 +149,6 @@ attribute
 
 xs:string required  value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 einlieferung/quartal/@V xs:string <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 required  True: Abrechnung ist vollständig, Sonst: False ( Z.B. Bei mehreren Teillieferung aus Nebenbetriebsstätten. einlieferung/vollstaendig/@V
 
-
 ---
 
 element **einlieferung/anhang**
@@ -180,7 +179,6 @@ complexType
 
 Type  xs:string CON Dokument, XKM und ggf. Sammelerklärung, erkennbar an den Dokumentenendungen. einlieferung/anhang/@V
 
-
 ---
 
 element **Com_typ/version**
@@ -204,7 +202,6 @@ element **Com_typ/guid**
 | annotation |  |
 
 documentation Fortlaufende Nummer um Ergänzungen d.h. Neue Daten von Ersetzenden zu unterscheiden. Zusammen mit der guid wird ein Dokument und seine Version gebildet. http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Name  documentation Global eindeuitige ID. Kennzeichent ein Dokument eindeutig. Muss gemäß GUID Definition (Siehe Anforderungskatalog) gefüllt werden.
-
 
 ---
 
@@ -233,7 +230,6 @@ attribute
 | properties | use required |
 
 http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Guid_typ/@V
-
 
 ---
 
@@ -288,7 +284,6 @@ attribute
 | annotation | documentation Hier können KV spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. |
 
 Ein Status innerhalb eines dokumentenbezogenen Workflows. handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID xs:string Annotation Gemeinsam vereinbarter Status bezogen auf den Dokumententyp. status_typ/@TYP xs:string Workflows handelt. status_typ/@KV_DETAIL
-
 
 ---
 

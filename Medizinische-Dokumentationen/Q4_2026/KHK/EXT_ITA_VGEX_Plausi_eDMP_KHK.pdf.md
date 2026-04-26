@@ -1,8 +1,14 @@
-## zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+## zur Prüfung der Dokumentationsdaten
+
+## des strukturierten Behandlungsprogramms
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+#
+
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
 
 - Anlage 6* -
 
@@ -10,13 +16,15 @@
 
 # KHK
 
-**Anlage 6 der DMP-A-RL**  **gültig ab.01.10.2025**
+**Anlage 6 der DMP-A-RL**
 
-### Version:
+**gültig ab.01.10.2025**
 
-** 5.0**
+# Version: 5.0
 
-**05.09.2025**  **01.10.2026**
+**05.09.2025**
+
+**01.10.2026**
 
 
 ---

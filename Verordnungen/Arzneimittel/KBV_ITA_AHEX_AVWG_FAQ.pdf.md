@@ -22,9 +22,17 @@ INHALT
 |---|---|---|---|---|---|---|---|
 |  |  | **VERORDNUNGSSOFTWARE** |  |  |  |  | **5** |
 
-**ABLAUFDIAGRAMME ZUR ANZEIGE DER BESCHLÜSSE DES G332** **-BA NACH § 35A SGB V**
+**ABLAUFDIAGRAMME ZUR ANZEIGE DER BESCHLÜSSE DES G**
 
-**3** **REFERENZIERTE DOKUMENTE** **38**
+**33**
+
+**2**
+
+**-BA NACH § 35A SGB V**
+
+**3** **REFERENZIERTE DOKUMENTE**
+
+**38**
 
 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR
 
@@ -60,9 +68,7 @@ Akzeptanzkriterium 1.3 aktualisiert der Referenzdatenbank des BfArMs gestrichen 
 
 ---
 
-1
-
-FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR  VERORDNUNGSSOFTWARE
+1 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR  VERORDNUNGSSOFTWARE
 
 | BEZUG [ 1 ] | FRAGE | ANTWORT |
 |---|---|---|
@@ -352,11 +358,11 @@ Hinweise zur richtigen Aufbewahrung Hinweise zur Zubereitung oder Vorbereitung d
 
 ---
 
-## ABLAUFDIAGRAMME ZUR ANZEIGE DER BESCHLÜSSE DES G-BA 2
+# ABLAUFDIAGRAMME ZUR ANZEIGE DER BESCHLÜSSE DES G-BA 2  NACH § 35A SGB V
 
-## NACH § 35A SGB V
+Die im Folgenden dargestellten beispielhaften Abläufe der Anzeige der Beschlüsse des G-BA nach
 
-Die im Folgenden dargestellten beispielhaften Abläufe der Anzeige der Beschlüsse des G-BA nach  § 35a SGB V sollen bei der Umsetzung des Kapitels 3.2 des Anforderungskatalogs als Hilfestellung dienen.
+§ 35a SGB V sollen bei der Umsetzung des Kapitels 3.2 des Anforderungskatalogs als Hilfestellung dienen.
 
 Die Abläufe sind **nicht** als feste Vorgabe zur Umsetzung zu verstehen.
 
@@ -385,9 +391,7 @@ Die Abläufe sind **nicht** als feste Vorgabe zur Umsetzung zu verstehen.
 
 ---
 
-3
-
-REFERENZIERTE DOKUMENTE
+3 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -401,4 +405,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Verordnungssoftware Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Verordnungssoftware Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

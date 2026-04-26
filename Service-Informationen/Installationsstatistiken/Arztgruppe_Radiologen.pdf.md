@@ -59,7 +59,7 @@ CompuGroup Medical Deutschland AG
 
 GE Healthcare Information Technologies GmbH & Co. KG
 
-KHP Kelm & Homberg Produktionsgeselschaft GmbH & Co.KG
+KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 
 CompuGroup Medical Deutschland AG
 

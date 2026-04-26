@@ -20,11 +20,33 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Einreichung von Korrekturlieferungen  1.5 Zertifizierungsdokumente
+1.1 Rechtsgrundlage
+
+1.2 Zertifizierungsablauf
+
+1.3 Zertifizierungsportal
+
+1.4 Einreichung von Korrekturlieferungen 1.5 Zertifizierungsdokumente
 
 **2** **SICHTPRÜFUNGSRAHMEN**
 
-2.1 Organisatorische und technische Voraussetzungen  2.2 Vorbereitung des zu prüfenden PVS  2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung 2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie  2.2.3 Sonstige Vorbereitungen  2.3 Stammdateien  2.4 Versichertendaten  2.5 Mobile Kartenterminals  2.6 Screenshots  2.7 Abrechnungsdatei
+2.1 Organisatorische und technische Voraussetzungen
+
+2.2 Vorbereitung des zu prüfenden PVS
+
+2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung
+
+2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie 2.2.3 Sonstige Vorbereitungen
+
+2.3 Stammdateien
+
+2.4 Versichertendaten
+
+2.5 Mobile Kartenterminals
+
+2.6 Screenshots
+
+2.7 Abrechnungsdatei
 
 **3** **REFERENZIERTE DOKUMENTE**
 
@@ -34,7 +56,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6**
 
-6  6  7  9  11  11  11  11  11  11
+6  6
+
+7  9  11  11  11  11  11  11
 
 **12**
 
@@ -71,47 +95,55 @@ Ergänzungen der Vorgaben unter 2.2 Anpassungen der von Vorgaben zu Kodierregeln
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-1
-
-Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im (je nach Umsetzung auch „KVDT Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt eser muss vollständig ausgefüllt und unterschrieben als PDF -Dokument eingescannt über bereitgestellt. Di das Zertifizierungsportal bei der KBV eingereicht werden. 2. Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. 3. Für die Sichtprüfung ist das System entsprechend Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zert ifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden. 7. Bei Neuzertifizierungen muss der Antragsteller Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für  den Funktionsumfang: VSDM Audit“ b) Der Nachweis über das von der kv.digital allgemeine Vorgehen eines Dieses Dokument Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT]. Rahmen der Zertifizierung und ist zu beachten.  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind. RECHTSGRUNDLAGE Die Rechtliche Grundlage bildet § 295 SGB V. ZERTIFIZIERUNGSABLAUF Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung gestellt. Dabei ist folgendes Vorgehen einzuhalten: ADT“ eingescannt per Mail (pruefstelle@kbv.de) einreichen und erst nach Erhalt auf Zertifizierung „KVDT der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung hochladen. diese zwei Nachweise nicht erbringen.## ALLGEMEINES
+Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im (je nach Umsetzung auch „KVDT Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt eser muss vollständig ausgefüllt und unterschrieben als PDF -Dokument eingescannt über bereitgestellt. Di das Zertifizierungsportal bei der KBV eingereicht werden. 2. Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. 3. Für die Sichtprüfung ist das System entsprechend Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zert ifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden. 7. Bei Neuzertifizierungen muss der Antragsteller Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für  den Funktionsumfang: VSDM Audit“ b) Der Nachweis über das von der kv.digital allgemeine Vorgehen eines Dieses Dokument Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT]. Rahmen der Zertifizierung und ist zu beachten.  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind. RECHTSGRUNDLAGE Die Rechtliche Grundlage bildet § 295 SGB V. ZERTIFIZIERUNGSABLAUF Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung gestellt. Dabei ist folgendes Vorgehen einzuhalten: ADT“ eingescannt per Mail (pruefstelle@kbv.de) einreichen und erst nach Erhalt auf Zertifizierung „KVDT der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung hochladen. diese zwei Nachweise nicht erbringen.# 1 ALLGEMEINES
 
 
 ---
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit d es Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit d es Antrages auf Zertifizierung bei der KBV oder des
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+Fehlerbriefes beim Antragssteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antrag ssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-**1.4** **EINREICHUNG VON KORREKTURLIEFERUNGEN**
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antrag ssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der
 
-Für das Zertifizierungsverfahren werden als Nachweis von Fehlerkorrekturen die Abrechnungsdatei  **verschlüsselt (.XKM) und unverschlüsselt (.CON)**), sowie PDF-Dateien für die zu druckenden Muster, als  auch Bild - oder Videodateien erwartet. Ein entsprechendes Begleitschreiben kann weiterhin einen oder  mehrere Screenshots und erläuternden Text enthalten. Alle Dateien müssen anschließend als ZIP-Archiv über  das Zertifizierungsportal eingereicht werden.
+Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
-**1.5** **ZERTIFIZIERUNGSDOKUMENTE**
+## 1.4 EINREICHUNG VON KORREKTURLIEFERUNGEN
+
+Für das Zertifizierungsverfahren werden als Nachweis von Fehlerkorrekturen die Abrechnungsdatei  **verschlüsselt (.XKM) und unverschlüsselt (.CON)**), sowie PDF-Dateien für die zu druckenden Muster, als
+
+auch Bild - oder Videodateien erwartet. Ein entsprechendes Begleitschreiben kann weiterhin einen oder  mehrere Screenshots und erläuternden Text enthalten. Alle Dateien müssen anschließend als ZIP-Archiv über
+
+das Zertifizierungsportal eingereicht werden.
+
+## 1.5 ZERTIFIZIERUNGSDOKUMENTE
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)  bereit. In diesem Zusammenhang muss das dritte Kapitel Referenzierte Dokumente berücksichtigt werden.
 
 
 ---
 
-2
+# 2 SICHTPRÜFUNGSRAHMEN
 
-## SICHTPRÜFUNGSRAHMEN
-
-**2.1** **ORGANISATORISCHE UND TECHNISCHE VORAUSSETZUNGEN**
+## 2.1 ORGANISATORISCHE UND TECHNISCHE VORAUSSETZUNGEN
 
 Sichtprüfungen werden remote unter Verwendung geeigneter Kommunikationsinfrastruktur durchgeführt.
 
 Für die remote Durchführung der Sichtprüfung wird die Videokonferenz-Software ZOOM verwendet.
 
-Folgende Komponenten gehören zur Ausstattung des Rechners, auf dem das zu zertifizierende Primärsystem  installiert ist:
+Folgende Komponenten gehören zur Ausstattung des Rechners, auf dem das zu zertifizierende Primärsystem
+
+installiert ist:
 
 | AUSSTATTUNG | BESCHREIBUNG |
 |---|---|
@@ -122,7 +154,7 @@ Folgende Komponenten gehören zur Ausstattung des Rechners, auf dem das zu zerti
 | Ton, Mikrofon und | › › |
 | Konferenzsystem | Die Nutzung des Konferenzsystems Zoom ist per Browser möglich. Empfohlene  › |
 
-**2.2** **VORBEREITUNG DES ZU PRÜFENDEN PVS**
+## 2.2 VORBEREITUNG DES ZU PRÜFENDEN PVS
 
 **Für den reibungslosen Ablauf der Zerti fizierungsprüfung bitten wir darum , dass alle folgenden**  **Vorbereitungen in dem zu zertifizierenden System durchgeführt werden.**
 
@@ -258,7 +290,11 @@ Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I
 | Versicherungsschutz Ende | 31.12.2040 |
 | Kostentraegerkennung | 104424874 |
 
-Hinweis:  Die zu erfassenden Versichertendaten der Patientin finden Sie in den bereitgestellten  Versichertenstammdaten auf dem Update-Server der KBV. Bitte verwenden Sie den Datensatz XML_44. Erfassen Sie bitte für den Patientendatensatz gemäß Punkt 1 die folgenden Behandlungsdaten:  Die Erfassung und letzte Abrechnung der Daten muss min. drei Quartale vor dem Quartal der Sichtprüf liegen.  *Findet die Sichtprüfung bspw. im zweiten Quartal 2025 statt, dann muss die Erfassung der Daten und die*  *letzte Abrechnung im dritten Quartal 2024 liegen*
+Hinweis:  Die zu erfassenden Versichertendaten der Patientin finden Sie in den bereitgestellten  Versichertenstammdaten auf dem Update-Server der KBV. Bitte verwenden Sie den Datensatz XML_44.
+
+Erfassen Sie bitte für den Patientendatensatz gemäß Punkt 1 die folgenden Behandlungsdaten:  Die Erfassung und letzte Abrechnung der Daten muss min. drei Quartale vor dem Quartal der Sichtprüf liegen.
+
+*Findet die Sichtprüfung bspw. im zweiten Quartal 2025 statt, dann muss die Erfassung der Daten und die*  *letzte Abrechnung im dritten Quartal 2024 liegen*
 
 | FELDER | INHALT |
 |---|---|
@@ -301,9 +337,7 @@ Sonstige Vorbereitungen Das PVS muss bis auf die o.g. Daten leer sein und weder 
 
 ---
 
-3
-
-REFERENZIERTE DOKUMENTE
+3 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -346,7 +380,11 @@ REFERENZIERTE DOKUMENTE
 | Sammelerklaerung.zip | Dokumentation und Schema zur |
 | KBV_ITA_AHEX_Pruefpaket_1_Click_Abrechnung_Vm.nn | Prüfpaket 1-Click Abrechnung |
 
-1 m.nn.nn - in der jeweils aktuellen Version  2 m.nn  in der jeweils aktuellen Version  3 m.nn  in der jeweils aktuellen Version
+1 m.nn.nn - in der jeweils aktuellen Version
+
+2 m.nn  in der jeweils aktuellen Version
+
+3 m.nn  in der jeweils aktuellen Version
 
 **Ansprechpartner:**
 
@@ -354,4 +392,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-xkm-m.nn.n .zip .pdf Abrechnungsdatei 2 Anwendungsdienst 1-Click Abrechnung Sammelerklärung 3Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+xkm-m.nn.n .zip .pdf Abrechnungsdatei 2 Anwendungsdienst 1-Click Abrechnung Sammelerklärung 3Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

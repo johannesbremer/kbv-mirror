@@ -36,7 +36,7 @@ www.kbv.de
 
 ---
 
-### Änderungshistorie
+#### Änderungshistorie
 
 **VERSION**
 
@@ -115,7 +115,9 @@ Es werden in dem hier beschriebenen Authentisierungsverfahren Praxen anhand der 
 
 Praxen müssen folgende Voraussetzungen für die Nutzung des Authentisierungsverfahrens erfüllen:
 
-die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis benötigt einen gültigen Praxisausweis (SMC-B oder SMB), der Praxisausweis muss im Verzeichnisdienst der TI mit telematikID beginnend mit "1-20" und ihre BSNR  als domainID hinterlegt sein, die Praxis muss Zugriff auf ihren Konnektor oder ihr TI-Gateway haben und die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
+die Praxis benötigt einen Zugang zur Telematikinfrastruktur (TI), die Praxis benötigt einen gültigen Praxisausweis (SMC-B oder SMB), der Praxisausweis muss im Verzeichnisdienst der TI mit telematikID beginnend mit "1-20" und ihre BSNR  als domainID hinterlegt sein, die Praxis muss Zugriff auf ihren Konnektor oder ihr TI-Gateway haben und
+
+die Praxis muss Zugriff auf das Schlüsselmaterial und die Zertifikate des Praxisausweises über ihren  Konnektor bzw. TI-Gateway haben.
 
 6 14
 
@@ -134,7 +136,9 @@ Das erste Use Case ist, dass in einer Praxis ein Praxisverwaltungssystem (Primä
 
 **4.2 ONLINE-DIENST**
 
-Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen Browser. Der Online-Dienst  hat keinen direkten Zugriff auf den Konnektor oder das TI-Gateway der Praxis und damit auch keinen direkten  Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen der Praxis" direkt mit  dem 116117 Terminservice kommunizieren.
+Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen Browser. Der Online-Dienst  hat keinen direkten Zugriff auf den Konnektor oder das TI-Gateway der Praxis und damit auch keinen direkten
+
+Zugriff auf den Praxisausweis (SMC-B oder SMB). Der Online-Dienst kann im "Namen der Praxis" direkt mit  dem 116117 Terminservice kommunizieren.
 
 **2 Use Case Online-Dienst**
 
@@ -145,9 +149,7 @@ Im zweiten Use Case nutzen Praxismitarbeitende einen Online-Dienst über einen B
 
 5 ANFORDERUNGEN
 
-**5.1**
-
-## GRUNDLAGE
+**5.1 GRUNDLAGE**
 
 Die Grundlage für die Spezifikation des hier beschriebenen Authentisierungsverfahrens sind das Kapitel "5.1  Allgemein" und seine Unterkapitel in [gemILF_PS_eRp]. Alle nachfolgenden Angaben beziehen sich auf die  Version 1.10.0.
 
@@ -159,7 +161,9 @@ Es gelten alle Anforderungen aus "Kapitel 5.1 Allgemein" und seinen Unterkapitel
 
 In allen Anforderungen wird "E-Rezept" durch "116117 Terminservice" ersetzt.
 
-**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG**
+
+**SKAPITEL**
 
 5.1.1  Kommunikation  zu den Diensten  der TI
 
@@ -212,14 +216,20 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 
 erp-user
 
-A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X- erp-resource
+A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden.
 
-A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
+HTTP-Header X- erp-resource
+
+A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden.
+
+Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
 
 
 ---
 
-**SPEZIFIKATION ANFORDERUNG** **SKAPITEL**
+**SPEZIFIKATION ANFORDERUNG**
+
+**SKAPITEL**
 
 5.1.3  Zertifikatsprüfun g
 
@@ -506,6 +516,9 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 6 REFERENZEN
 
 - [gemILF_PS_eRp]: Spezifikation Implementierungsleitfaden Primärsysteme - E-Rezept,
+
 - aktuelle Version: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/latest/)
+
 - Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/
+
 - Kapitel 5.1 in Version 1.10.0: [https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/](https://gemspec.gematik.de/docs/gemILF/gemILF_PS_eRp/) gemILF_PS_eRp_V1.10.0/#5.1 14 14

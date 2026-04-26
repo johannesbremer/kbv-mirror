@@ -55,56 +55,96 @@ inhaltsverzeichnis
 
 ### TABELLENVERZEICHNIS 5
 
-1
+1 HINWEISE
 
-### HINWEISE 6
+6
 
 1.1 Betriebssysteme .............................................................................................................................6
 
 1.2 Haftung ............................................................................................................................................6
 
-1.3 Support ............................................................................................................................................6 2
+1.3 Support ............................................................................................................................................6 2 INSTALLATION WINDOWS
 
-### INSTALLATION WINDOWS 6
+6
 
 2.1 Vorbereitung der Installation ........................................................................................................6
 
 2.2 Installation des KBV -Prüfassistenten ..........................................................................................8
 
-2.3 Update des KBV – Prüfassistenten ........................................................................................... 10 3
+2.3 Update des KBV – Prüfassistenten ........................................................................................... 10
 
-### INSTALLATION AUF NICHT -WINDOWS-SYSTEMEN 11
+3 INSTALLATION AUF NICHT -WINDOWS-SYSTEMEN 11
 
 3.1 Vorbereitung der Installation ..................................................................................................... 11
 
-3.2 Installation des KBV -Prüfassistenten ....................................................................................... 12 4
+3.2 Installation des KBV -Prüfassistenten ....................................................................................... 12
 
-### ARBEITEN MIT DEM PRÜFASSISTENTEN 15
+4 ARBEITEN MIT DEM PRÜFASSISTENTEN 15
 
 4.1 Den KBV -Prüfassistenten starten .............................................................................................. 15
 
-4.2 Abrechnungsdatei bestimmen ................................................................................................... 15  4.2.1 Öffnen- Dialog ....................................................................................................................... 16  4.2.2 Datei selektieren .................................................................................................................. 16  4.2.3 Konfiguration des KBV - Prüfassistenten .............................................................................. 17  4.2.4 Prüfung starten .................................................................................................................... 18
+4.2 Abrechnungsdatei bestimmen ................................................................................................... 15
 
-4.3 Prüfstatus und Statistik .............................................................................................................. 19
+4.2.1 Öffnen- Dialog .......................................................................................................................
 
-4.3.1 Ergebnis der Prüfung ........................................................................................................... 19  4.3.2 Prüfbericht und Statistiklisten anzeigen .............................................................................. 19  4.3.3 Verschlüsselung vorbereiten ............................................................................................... 21  4.3.4 Zielverzeichnis wählen ........................................................................................................ 21
+16
+
+4.2.2 Datei selektieren ..................................................................................................................
+
+16
+
+4.2.3 Konfiguration des KBV
+
+- Prüfassistenten ..............................................................................
+
+17
+
+4.2.4 Prüfung starten ....................................................................................................................
+
+18
+
+4.3 Prüfstatus und Statistik .............................................................................................................. 19 4.3.1 Ergebnis der Prüfung
+
+...........................................................................................................
+
+19
+
+4.3.2 Prüfbericht und Statistiklisten anzeigen
+
+..............................................................................
+
+19
+
+4.3.3 Verschlüsselung vorbereiten
+
+...............................................................................................
+
+21
+
+4.3.4 Zielverzeichnis wählen ........................................................................................................
+
+21
 
 * Version 1 3 von 31
 
 
 ---
 
-4.3.5 Verschlüsselte Datei aufspalten ..........................................................................................
+4.3.5 Verschlüsselte Datei aufspalten
+
+..........................................................................................
 
 4.3.6 Verschlüsselung starten ......................................................................................................
 
-4.3.7 Qualitätssicherung der verschlüsselten Datei .....................................................................
+4.3.7 Qualitätssicherung der verschlüsselten Datei
 
-4.3.8 Verschlüsselung und Prüfassistent beenden ......................................................................
+.....................................................................
 
-4.4 Deinstallation ............................................................................................................................... 25 5
+4.3.8 Verschlüsselung und Prüfassistent beenden
 
-### VERZEICHNISSTRUKTUR
+......................................................................
+
+4.4 Deinstallation ............................................................................................................................... 25 5 VERZEICHNISSTRUKTUR
 
 5.1 Ordner 'Bin' .................................................................................................................................. 27
 
@@ -118,11 +158,9 @@ inhaltsverzeichnis
 
 5.6 Ordner 'Schema' .......................................................................................................................... 27
 
-5.7 Ordner 'System' ........................................................................................................................... 28 6
+5.7 Ordner 'System' ........................................................................................................................... 28 6 FEHLERBEHEBUNG
 
-### FEHLERBEHEBUNG 7
-
-### ANHANG
+7 ANHANG
 
 7.1 Konfigurationsdateien ................................................................................................................ 30
 
@@ -134,7 +172,13 @@ Abbildungsverzeichnis
 
 Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
 
-* Version 1 23  23  24  24
+* Version 1 23
+
+23
+
+24
+
+24
 
 27
 
@@ -147,63 +191,89 @@ Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
 
 ---
 
-hnis Tabellenverzeic
+hnis
 
-### TabellenEs konnten keine Einträge für ein
+Tabellenverzeic
 
-v
+### Tabellen
 
-### erzeichnis gefunden werden.
+### Es konnten keine Einträge für ein
+
+v erzeichnis gefunden werden.
 
 * Version 1 5 31
 
 
 ---
 
-1 Hinweise  Der KBV-Prüfassistent vereint das KVDT schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
+# 1 Hinweise
+
+Der KBV-Prüfassistent vereint das KVDT schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
 
 |  | Mit dem KBVPrüfassisten |
 |---|---|
 
-1.1 Betriebssysteme
+## 1.1 Betriebssysteme
 
-Der KBVPrüfassistent kann unter folgenden Betriebssystemen eingesetzt werden:
+Der KBVPrüfassistent kann unter folgenden Betriebssystemen eingesetzt werden: - a) Windows Server
 
-a) Windows Server
+-
 
-b) Windows Vista
+- b) Windows Vista
 
-c) Windows 7
+- c) Windows 7
 
-d) Windows 8
+- d) Windows 8
 
 Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi-
 
-e) Windows 8.1
+- e) Windows 8.1
 
-f) Windows 10
+-
 
-g) Linux / Unix
+- f) Windows 10
 
-h) MAC OS
+- g) Linux / Unix
+
+- h) MAC OS
+
+-
 
 Das Betriebssystem Windows 95 wird nicht mehr unterstützt. Der Grund hierfür liegt in der fehlenden Unterstüt- zung seitens der Firma Sun, welche die Java Laufzeitumgebung entwickelt.
 
-1.2 Haftung
+## 1.2 Haftung
 
-Eine Haftung der KBV für entgangenen Gewinn, unterbliebene Einsparungen, mittelbare Schäden und Folgeschä- den durch den Einsatz des KBV Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den  Einsatz des KBVPrüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflicht kopien anzulegen.
+Eine Haftung der KBV für entgangenen Gewinn, unterbliebene Einsparungen, mittelbare Schäden und Folgeschä-
 
-1.3 Support
+den durch den Einsatz des KBV
 
-Die KBV stellt das Prüfmodul ausschließlich über ihre WebSeiten zur Verfügung. Unterstützungsleistungen kön- nen weder telefonisch noch schriftlich angeboten. Sofern solche Dienste gewünscht werden, mus den kommerziellen Markt verweisen, der derartige Dienste anbietet.
+Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den
 
-2 Installation Windows  2.1 Vorbereitung der Installation
+Einsatz des KBVPrüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflicht kopien anzulegen.
+
+## 1.3 Support
+
+Die KBV stellt das Prüfmodul ausschließlich über ihre Web
+
+Seiten zur Verfügung. Unterstützungsleistungen kön-
+
+nen weder telefonisch noch schriftlich angeboten. Sofern solche Dienste gewünscht werden, mus den kommerziellen Markt verweisen, der derartige Dienste anbietet.
+
+# 2 Installation Windows
+
+## 2.1 Vorbereitung der Installation
 
 Das I nstallationspaket zum download befindet sich auf der ITA
 
-[http://update.kbv.de/ita](http://update.kbv.de/ita)update/KBVSoftware/Pruefassistent/
+[http://update.kbv.de/ita](http://update.kbv.de/ita)update/KBV
 
-heruntergeladen werden, alternativ kann m an auch von der Update- dahin navigieren:
+Software/Pruefassistent/
+
+heruntergeladen werden, alternativ kann m
+
+an auch von der Update-
+
+dahin navigieren:
 
 et, entsprechende Sicherungs-
 
@@ -213,7 +283,9 @@ Webseite [https://www.kbv](https://www.kbv)
 
 s die KBV auf .de/html/updates.php
 
-quartale geprüft werden. ten können neben dem aktuellen Quartal auch drei vorherige Abrechnungs-* Version 1 6 von 31
+* Version 1
+
+quartale geprüft werden. ten können neben dem aktuellen Quartal auch drei vorherige Abrechnungs-6 von 31
 
 
 ---
@@ -295,7 +367,9 @@ Installationsassistenten der Sie durch den Installationsvorgang begleitet. Drüc
 | Wenn der ausgewählte Installationspfad noch nicht existiert, bestätigen Sie Drücken von |  |
 | Mit der Betätigung von |  |
 
-1 13
+1
+
+13
 
 den Installationspfad an, z.B. /home/U ser/KBV/KBV Pruefas- sistent ". (1) mittels Navigation durch das Da- teisystem auszuwählen. (2) Erstellung bitte durch  gelangen Sie zum nächsten Schritt. Ihre 31
 
@@ -308,14 +382,18 @@ den Installationspfad an, z.B. /home/U ser/KBV/KBV Pruefas- sistent ". (1) mitte
 | Die Installation ist nun abge-  Das Programm ist nun vollständig |  |
 |  |  |
 
-1 14
+1
+
+14
 
 gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angezeigt. ach der Installation kann mit zum nächsten Dialog gewechselt werden. schlossen. Beenden Sie das In- stallationsprogramm durch Drü- cken auf installiert und kann von Ihrem Desktop aus, mit einem Doppel- klick auf „ KBV Prüfassistent gestartet werden.31
 
 
 ---
 
-**4 Arbeiten mit dem Prüfassistenten**  **4.1 Den KBV-Prüfassistenten starten**
+# 4 Arbeiten mit dem Prüfassistenten
+
+**4.1 Den KBV-Prüfassistenten starten**
 
 |  |  |
 |---|---|
@@ -336,9 +414,7 @@ Starten Sie das Programm, wie oben beschrieben. Nach kurzer Zeit  erscheint die 
 
 ---
 
-**4.2.1**
-
-**Öffnen-Dialog**
+**4.2.1 Öffnen-Dialog**
 
 | Durch das Öffnen wird die zu Bitte drücken Sie „Öffnen-Dialog“ |  |
 |---|---|
@@ -346,7 +422,7 @@ Starten Sie das Programm, wie oben beschrieben. Nach kurzer Zeit  erscheint die 
 
 ### Datei selektieren
 
-**4.2.2**
+### 4.2.2
 
 | Navigieren Sie, mit Hilfe der Der Speicherort Ihr |  |
 |---|---|
@@ -358,9 +434,7 @@ prüfende Datei selektiert. , um in den  zu ge- langen  werden alle Dateien ange
 | Selektieren Sie nun eine Abrech- . ODER Doppelklicken Sie auf die ge- „Öffnen -Dialog“ |  |
 |---|---|
 
-**4.2.3**
-
-**Konfiguration des KBV-**
+**4.2.3 Konfiguration des KBV-**
 
 | Drücken Sie nun im Prüfassisten- , um den |  |
 |---|---|
@@ -377,25 +451,23 @@ nungsdatei indem Sie sie mit ei- nem Mausklick markieren, und bestätigen Sie Ih
 | Für die Fehlerausgabe kann der - I nfos, Warnungen und Fehler - Infos und Fehler - Warnungen und Fehler  Die Konfiguration der Fehleraus-  bestätigt werden. |  |
 |---|---|
 
-4.2.4
-
-Prüfung starten
+4.2.4 Prüfung starten
 
 | Drücken Sie nun im Prüfassisten- , Bitte haben Sie jetzt etwas Geduld. |  |
 |---|---|
 
-1 18
+1
+
+18
 
 Prüfassistent wie folgt konfiguriert werden: - Nur Fehler gabe  muss mit ten den Schalter um d ie Prüfung durchzuführen. Je nach Größe der Abrechnungs- datei kann die Prüfung einige Mi- nuten dauern.31
 
 
 ---
 
-**4.3 Prüfstatus und Statistik**
+## 4.3 Prüfstatus und Statistik
 
-**4.3.1**
-
-**Ergebnis der Prüfung**
+**4.3.1 Ergebnis der Prüfung**
 
 |  |  |
 |---|---|
@@ -403,9 +475,7 @@ Prüfassistent wie folgt konfiguriert werden: - Nur Fehler gabe  muss mit ten de
 |  | Mit dem Status „Warnung“ ist eine Verschlüsselung zwar möglich, eine Abrechnungsprüfung sollte den- |
 |  | |
 
-**4.3.2**
-
-**Prüfbericht und Statistiklisten anzeigen**
+**4.3.2 Prüfbericht und Statistiklisten anzeigen**
 
 | In dem Menü unterhalb des dem Diese lassen sich mit einem Druck  zur Ansicht Ist eine Fehlermeldung bei der |  |
 |---|---|
@@ -414,9 +484,11 @@ Nachdem die Prüfung durchlaufen ist, wird der Prüfstatus angezeigt noch durchg
 
 ---
 
-**4.3.2.1 Anzeigeprogramm**
+#### 4.3.2.1 Anzeigeprogramm
 
-„Drucken“ aus dem „Datei-Menü“ Im Anzeigeprogramm können Sie die sich die Prüfmodulprotokolle betrachten. Zum Ausdrucken wählen Sie den  Menüpunkt
+„Drucken“ aus dem „Datei-Menü“
+
+Im Anzeigeprogramm können Sie die sich die Prüfmodulprotokolle betrachten. Zum Ausdrucken wählen Sie den  Menüpunkt
 
 | Nachdem Sie die Protokolle ausgedruckt oder durchgesehen haben, beenden Sie das Anzeigeprogramm mit dem |
 |---|
@@ -425,16 +497,12 @@ Nachdem die Prüfung durchlaufen ist, wird der Prüfstatus angezeigt noch durchg
 
 ---
 
-**4.3.3**
-
-**Verschlüsselung vorbereiten**
+**4.3.3 Verschlüsselung vorbereiten**
 
 | Nachdem Sie die Prüfmodulproto-  starten. |  |
 |---|---|
 
-**4.3.4**
-
-**Zielverzeichnis wählen**
+**4.3.4 Zielverzeichnis wählen**
 
 | Als Standardzielverzeichnis ist Bitte gehen Sie zu |  |  |
 |---|---|---|
@@ -455,21 +523,19 @@ andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die verschl
 
 ---
 
-**4.3.5**
-
-### Verschlüsselte Datei aufspalten
+**4.3.5 Verschlüsselte Datei aufspalten**
 
 | Die Standardeinstellung ist „1.44 |  |
 |---|---|
 |  | Hinweis:  Die Aufspaltung der Abrechnungsdateien erfolgt nur dann falls die verschlüsselte Datei Unabhängig davon an welcher Stelle (Festplatte / Diskette) die Datei gespeichert wird. Die max. Teil- |
 
-**4.3.6**
-
-### Verschlüsselung starten
+### 4.3.6 Verschlüsselung starten
 
 Wenn Sie als Speicherort ***„A:\“*** ausgewählt haben, legen Sie eine
 
-. Wenn die Datei nicht auf eine Diskette passt erscheint folgen-Sie anschließend den Schalter  der Dialog erneut:
+. Wenn die Datei nicht auf eine Diskette passt erscheint folgen-
+
+Sie anschließend den Schalter  der Dialog erneut:
 
 Legen Sie dann eine weitere leere Diskette ein. Mit einem Klick auf
 
@@ -489,17 +555,13 @@ MB 3,5“ Diskette“. Dies entspricht einer herkömmlichen Standarddis- kette. 
 
 ---
 
-**4.3.7**
-
-**Qualitätssicherung der verschlüsselten Datei**
+**4.3.7 Qualitätssicherung der verschlüsselten Datei**
 
 | Nachdem die Abrechnungsdatei   gestartet wird |  |
 |---|---|
 |  | Falls bei der Datenprüfung ein Fehler festgestellt wurde, darf diese Diskette |
 
-**4.3.8**
-
-**Verschlüsselung und Prüfassistent beenden**
+**4.3.8 Verschlüsselung und Prüfassistent beenden**
 
 | Wenn die Verschlüsselung erfolg- Bestätigen Sie dies mit einem |  |
 |---|---|
@@ -531,36 +593,44 @@ Bestätigen Sie die f cherheitsabfrage mit einem Klick auf , wenn Sie den Prüfa
 
 ---
 
-**5 Verzeichnisstruktur**  Im Installationsverzeichnis, das bei der Standardinstallation unter C: wird, befinden sich die Konfigurationsdateien für das Prüf Starten des Prüfassistenten benötigte Datei StartAssistenten.bat bzw. Assistent.exe für Windows Betriebssysteme  oder die Datei StartAssistenten.sh bei anderen Betriebssystemen bei. Die Konfigurationsdateien sind auf die Stan- dardstruktur, die vom Installationsprogramm erzeugt wird, abgestimmt. Hier sollten keine Änderungen vorgenom- men werden.
+# 5 Verzeichnisstruktur
+
+Im Installationsverzeichnis, das bei der Standardinstallation unter C: wird, befinden sich die Konfigurationsdateien für das Prüf Starten des Prüfassistenten benötigte Datei StartAssistenten.bat bzw. Assistent.exe für Windows Betriebssysteme  oder die Datei StartAssistenten.sh bei anderen Betriebssystemen bei. Die Konfigurationsdateien sind auf die Stan-
+
+dardstruktur, die vom Installationsprogramm erzeugt wird, abgestimmt. Hier sollten keine Änderungen vorgenom- men werden.
 
 |  | UHinweis Gilt nur für Windows Installation: Aufgrund von Windows 7 und Windows Vista Restriktionen werden alle Ausgabelisten und Ausgabeda- |
 |---|---|
 
 Die Verzeichnisstruktur des Installationsverzeichnisses hat folgenden Aufbau:
 
-**5.1 Ordner 'Bin'**
+## 5.1 Ordner 'Bin'
 
-Dieser Ordner beinhaltet alle Java--Archive und eine DLL Datei, die zur Ausführung des KBV tigt werden.
+Dieser Ordner beinhaltet alle Java--Archive und eine DLL Datei, die zur Ausführung des KBV
+
+tigt werden.
 
 - und das Kryptomodul. Außerdem liegt hier die zum
 
-**5.2 Ordner 'Codiert'**
+## 5.2 Ordner 'Codiert'
 
-In diesem Ordner landet - nach erfolgreicher Prüfung  nungsdatei. Zusätzlich wird die verschlüsselte Datei auf ein anzugebendes Speichermedium geschrieben.
+In diesem Ordner landet - nach erfolgreicher Prüfung
 
-**5.3 Dokumentation**
+nungsdatei. Zusätzlich wird die verschlüsselte Datei auf ein anzugebendes Speichermedium geschrieben.
+
+## 5.3 Dokumentation
 
 Dieser Ordner beinhaltet das Anwenderhandbuch, die Textdatei „Lies_mich.txt“ und die Release Notes
 
-**5.4 Ordner 'Kbvtab'**
+## 5.4 Ordner 'Kbvtab'
 
 Dieser Ordner enthält nach Quartalen gruppierte Unterordner. D ten, die für die Prüfung benötigte werden.
 
-**5.5 Ordner 'Listen'**
+## 5.5 Ordner 'Listen'
 
 In diesem Ordner werden alle Ausgaben des Prüf PDF-Format erzeugt und können auch mit eine auch direkt aus dem Prüfassistenten heraus aufgerufen und betrachtet werden.
 
-**5.6 Ordner 'Schema'**
+## 5.6 Ordner 'Schema'
 
 Dieser Ordner enthält nach Quartalen gruppierte Unterordner. Diese enthalten Schemadateien, die für d benötigte werden.
 
@@ -577,7 +647,7 @@ teien in einem separatem Verzeichnis generiert. Bei der Installation wird dieses
 
 ---
 
-**5.7 Ordner 'System'**
+## 5.7 Ordner 'System'
 
 Dieser Ordner beinhaltet die Verzeichnisse Disk, Keys und works.
 

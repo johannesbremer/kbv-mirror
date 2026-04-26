@@ -6,7 +6,9 @@ Seite 1 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / 15. 
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**
+
+**IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
@@ -19,9 +21,7 @@ Seite 1 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / 15. 
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-## BLANKOFORMULARBEDRUCKUNG 1
-
-## ALLGEMEINE ANGABEN
+## BLANKOFORMULARBEDRUCKUNG 1 ALLGEMEINE ANGABEN
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
@@ -45,7 +45,9 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Webseite**
 
-**Der Antragsteller ist**  Arzt/Ärztin [ ]
+**Der Antragsteller ist**
+
+Arzt/Ärztin [ ]
 
 **Systempfleger**
 
@@ -328,7 +330,9 @@ Verordnung Soziotherapie gem. § 37a SGB V
 
 Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie   gem. § 37a SGB V
+Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie
+
+gem. § 37a SGB V
 
 Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
 
@@ -342,13 +346,19 @@ Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit
 
 Anfrage zum Zusammenhang von Arbeitsunfähigkeiten
 
-Bescheinigung einer schwerwiegenden chronischen Erkrankung   gem. § 62 SGB V
+Bescheinigung einer schwerwiegenden chronischen Erkrankung
+
+gem. § 62 SGB V
 
 Antrag auf Kostenübernahme von Rehabilitationssport/Funktionstraining
 
 Verordnung von medizinischer Rehabilitation
 
-Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials  gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege   Behandlungsplan für außerklinische Intensivpflege
+Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials
+
+gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege
+
+Behandlungsplan für außerklinische Intensivpflege
 
 Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
@@ -458,14 +468,14 @@ Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe 
 
 **2.5**  **SICHERHEITSPAPIER**
 
-Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier  [ ] verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer  bei PTV und diversen KV-spezifischen Formularen).
+Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier  [ ] verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer
+
+bei PTV und diversen KV-spezifischen Formularen).
 
 
 ---
 
-3
-
-## ANLAGE ZU DEN KONTAKTDATEN
+3 ANLAGE ZU DEN KONTAKTDATEN
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
@@ -500,25 +510,47 @@ Diese Information ist verpflichtend anzugeben
 
 ---
 
-4
+4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 
-**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+(2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.
 
-**THEMA ZERTIFIZIERUNGSART PRÜFUNGSART KOSTEN IN €**
+(4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-BFB Neu- oder Ergebnisprüfung 68,81  Rezertifizierung [pro Muster]
+**THEMA**
+
+**ZERTIFIZIERUNGSART PRÜFUNGSART**
+
+**KOSTEN IN €**
+
+BFB
+
+Neu- oder
+
+Ergebnisprüfung 68,81
+
+Rezertifizierung
+
+[pro Muster]
 
 **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen
 
-(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
+wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer
 
-(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+Antrag auf Zertifizierung eingereicht werden muss.
+
+(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen
+
+der Zulassung führen.
+
+(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen
+
+und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
 **III.** **Update und weitere Vereinbarungen**
 
@@ -530,9 +562,13 @@ BFB Neu- oder Ergebnisprüfung 68,81  Rezertifizierung [pro Muster]
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
+veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung
+
+Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 
 ---

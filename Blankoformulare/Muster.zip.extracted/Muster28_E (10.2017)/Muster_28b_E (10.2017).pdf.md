@@ -4,9 +4,15 @@
 
 **geb. am**
 
-**Kostenträgerkennung Versicherten-Nr.Status**
+**Kostenträgerkennung Versicherten-Nr.**
 
-**Arzt-Nr.Betriebsstätten-Nr.Datum**
+**Status**
+
+**Arzt-Nr.**
+
+**Betriebsstätten-Nr.**
+
+**Datum**
 
 |  | **wird** |  | **wird** |  |
 |---|---|---|---|---|
@@ -26,7 +32,9 @@
 
 **IK des Leistungserbringers**
 
-**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht** **LeistungDatum**
+**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht** **Leistung**
+
+**Datum**
 
 **Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
 
@@ -34,7 +42,9 @@
 
 **IBAN**
 
-**BICGeldinstitut**
+**BIC**
+
+**Geldinstitut**
 
 **Ausfertigung für den soziotherapeutischen Leistungserbringer**
 
@@ -58,6 +68,8 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Stempel und Unterschrift** **des soziotherapeutischen Leistungserbringers**
+**Stempel und Unterschrift**
+
+**des soziotherapeutischen Leistungserbringers**
 
 **PRF.NR.** **Muster 28b/E(10.2017)**

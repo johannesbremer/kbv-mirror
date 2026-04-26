@@ -1,12 +1,18 @@
 **Ausfertigung Therapeut*in**
 
-## PTV 11Ihre individuelle Information  zur Psychotherapeutischen  Sprechstunde
+## PTV 11
+
+## Ihre individuelle Information
+
+## zur Psychotherapeutischen  Sprechstunde
 
 Nähere Angaben zu den Empfehlungen
 
 Diagnose(n)/Verdachtsdiagnose(n)*** (im Klartext)***, weitere Hinweise zum Krankheitsbild und ggf. zu durchgeführten Maßnahmen
 
-***Diese Information enthält Ihren vorläufigen Befund***  ***und Empfehlungen zum weiteren Vorgehen.***
+***Diese Information enthält Ihren vorläufigen Befund***
+
+***und Empfehlungen zum weiteren Vorgehen.***
 
 ***Bitte legen Sie diese Information bei einer Weiterbehandlung vor.***
 
@@ -28,11 +34,15 @@ keine Maßnahme notwendig
 
 Präventionsmaßnahme
 
-ambulante Psychotherapeutische  Akutbehandlung
+ambulante Psychotherapeutische
+
+Akutbehandlung
 
 stationäre Behandlung
 
-ambulante  Psychotherapie
+ambulante
+
+Psychotherapie
 
 Krankenhausbehandlung
 
@@ -48,15 +58,21 @@ hausärztliche Abklärung
 
 fachärztliche Abklärung
 
-Weitervermittlungzeitnah erforderlich
+Weitervermittlung
+
+zeitnah erforderlich
 
 Verhaltenstherapie
 
-Bei Ihnen wurden keine Anhaltspunkte für eine  behandlungsbedürftige psychische Störung festgestellt
+Bei Ihnen wurden keine Anhaltspunkte für eine
+
+behandlungsbedürftige psychische Störung festgestellt
 
 Die psychotherapeutische Behandlung kann in dieser Praxis  durchgeführt werden
 
-Die psychotherapeutische Behandlung kann **NICHT** in  dieser Praxis durchgeführt werden
+Die psychotherapeutische Behandlung kann **NICHT** in
+
+dieser Praxis durchgeführt werden
 
 andere Maßnahmen außerhalb der gesetzlichen  Krankenversicherung
 
@@ -66,15 +82,21 @@ Fachgebiet
 
 ICD-10 - GM endständig ICD-10 - GM endständig
 
-DatumUhrzeit
+Datum
+
+Uhrzeit
 
 Name, Vorname des Versicherten
 
 geb. am
 
-Kostenträgerkennung Versicherten-Nr.Status
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr. Arzt-Nr.Datum
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.
+
+Datum
 
 Krankenkasse bzw. Kostenträger
 
@@ -82,12 +104,18 @@ PRF.NR. Muster PTV 11b/E (7.2020)
 
 Datum
 
-Unterschrift Patient*in,  ggf. der gesetzlichen Vertreter*innen
+Unterschrift Patient*in,
 
-PLZOrt
+ggf. der gesetzlichen Vertreter*innen
+
+PLZ
+
+Ort
 
 Straße
 
 Name mitbehandelnde*r Ärztin/Arzt, Hausärztin/Hausarzt
 
-**Erklärung Patient*in**  Eine Kopie dieser Information darf erhalten:
+**Erklärung Patient*in**
+
+Eine Kopie dieser Information darf erhalten:

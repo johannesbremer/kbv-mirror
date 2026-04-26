@@ -8,9 +8,7 @@
 
 ## Rehabilitation
 
-**I.**
-
-### Rehabilitationsbegründende und weitere Diagnosen
+**I. Rehabilitationsbegründende und weitere Diagnosen**
 
 **II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung**
 
@@ -18,11 +16,15 @@
 
 Heilmittel zur Erreichung des Behandlungszieles nicht ausreichend
 
-neinja, welche?
+nein
+
+ja, welche?
 
 **E. Rehabilitationsrelevante Hilfsmittel**
 
-Diagnoseschlüssel  ICD-10-GM Ursache *
+Diagnoseschlüssel
+
+ICD-10-GM Ursache *
 
 1.
 
@@ -42,17 +44,53 @@ Diagnoseschlüssel  ICD-10-GM Ursache *
 
 Es handelt sich weder um eine Minderung / erhebliche Gefährdung  der Erwerbsfähigkeit noch um die Folgen eines Arbeitsunfalls / einer  Berufskrankheit
 
-Bei gleichrangiger Zuständigkeit  ***(z. B. Kinder-Rehabilitation, onkologische Rehabilitation für Altersrentner)***
+Bei gleichrangiger Zuständigkeit
+
+***(z. B. Kinder-Rehabilitation, onkologische Rehabilitation für Altersrentner)***
 
 **Die kurative Versorgung ist nicht ausreichend**
 
-Versicherte/r wünscht eine medizinische Rehabilitation  zu Lasten der GKV
+Versicherte/r wünscht eine medizinische Rehabilitation
 
-***Mögliche Ursache*** ***der Erkrankung*** ***(nur anzugeben,***  ***wenn eine der folgenden*** ***Ursachen zutrifft)***
+zu Lasten der GKV
 
-***1 = Arbeitsunfall einschl.***  ***Wegeunfall*** ***2 = Berufskrankheit***  ***3 = Schädigungsfolge***  ***durch Einwirken***  ***Dritter***  ***(z. B. Unfallfolgen)***  ***4 = Folgen von Kriegs-,***  ***Zivil- oder Wehrdienst***  ***5 = Meldepflichtige***  ***Erkrankung***  ***(z. B. IfSG)***
+***Mögliche Ursache***
 
-**C. Bei geriatrischer Rehabilitation** ***mind. zwei Funktionstests folgender unterschiedlicher Schädigungsbereiche***
+***der Erkrankung***
+
+***(nur anzugeben,***
+
+***wenn eine der folgenden***
+
+***Ursachen zutrifft)***
+
+***1 = Arbeitsunfall einschl.***
+
+***Wegeunfall***
+
+***2 = Berufskrankheit***
+
+***3 = Schädigungsfolge***
+
+***durch Einwirken***
+
+***Dritter***
+
+***(z. B. Unfallfolgen)***
+
+***4 = Folgen von Kriegs-,***
+
+***Zivil- oder Wehrdienst***
+
+***5 = Meldepflichtige***
+
+***Erkrankung***
+
+***(z. B. IfSG)***
+
+**C. Bei geriatrischer Rehabilitation**
+
+***mind. zwei Funktionstests folgender unterschiedlicher Schädigungsbereiche***
 
 | **Mobilität** | **Kognition** | **Schmerz** | **Herz-/Lungenfunktion** |
 |---|---|---|---|
@@ -66,16 +104,24 @@ Versicherte/r wünscht eine medizinische Rehabilitation  zu Lasten der GKV
 | DEMMI / 100 Tinetti / 28 | / 7 |  |  |
 |  | test |  | Stadium |
 
-**D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen***** (z. B. Patientenschulungen, Reha-***  ***bilitationssport/Funktionstraining, Beratungs- und Selbsthilfeangebote)*****; einschließlich Heilmittelverordnung***** (in den letzten 6 Monaten)***
+**D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen***** (z. B. Patientenschulungen, Reha-***
 
-PRF.NR.  Muster 61 Teil Ba/E (7.2022)
+***bilitationssport/Funktionstraining, Beratungs- und Selbsthilfeangebote)*****; einschließlich Heilmittelverordnung***** (in den letzten 6 Monaten)***
+
+PRF.NR.
+
+Muster 61 Teil Ba/E (7.2022)
 
 Name, Vorname des Versicherten
 
 geb. am
 
-Kostenträgerkennung Versicherten-Nr.Status
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr. Arzt-Nr.Datum
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.
+
+Datum
 
 Krankenkasse bzw. Kostenträger

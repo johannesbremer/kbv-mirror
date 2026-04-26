@@ -34,9 +34,7 @@ INHALTSVERZEICHNIS
 
 **3**
 
-**1**
-
-### GRUNDSÄTZLICHE FESTLEGUNGEN
+**1** **GRUNDSÄTZLICHE FESTLEGUNGEN**
 
 **5**
 
@@ -48,9 +46,7 @@ INHALTSVERZEICHNIS
 
 **1.4** **ADT-Referenzversion .................................................................................................................... 7**
 
-**2**
-
-### SATZTABELLEN
+**2** **SATZTABELLEN**
 
 **8**
 
@@ -74,27 +70,23 @@ INHALTSVERZEICHNIS
 
 **2.10** **Definition der Satzart: Kommentierung / Zusatzinformation “kvx8 ................................ 13**
 
-**3**
-
-### FELDTABELLE
+**3** **FELDTABELLE**
 
 **14**
 
 **3.1** **Feldtabelle KV-Spezifika-Stammdatei ....................................................................................... 15**
 
-**4**
-
-### REGELTABELLE
+**4** **REGELTABELLE**
 
 **22**
 
-**5**
-
-### BESONDERE HINWEISE
+**5** **BESONDERE HINWEISE**
 
 **24**
 
-**5.1** **Erläuterung zur Satzart “kvx0” .................................................................................................. 24**  5.1.1 Beispiel zur Satzart “kvx0” ................................................................................................... 25
+**5.1** **Erläuterung zur Satzart “kvx0” .................................................................................................. 24**
+
+5.1.1 Beispiel zur Satzart “kvx0” ................................................................................................... 25
 
 **5.2** **Erläuterung zur Satzart “kvx1” .................................................................................................. 26**
 
@@ -120,21 +112,25 @@ INHALTSVERZEICHNIS
 
 ---
 
-**1 Grundsätzliche Festlegungen**  **1.1 Zielsetzung**
+# 1 Grundsätzliche Festlegungen
 
-Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT- Format abzubilden.
+## 1.1 Zielsetzung
 
-In der KVDT-Satzbeschreibung sind für die Felder
+Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT-
 
-Scheinuntergruppe (FK 4239)
+Format abzubilden.
 
-Abrechnungsgebiet (FK 4122)
+In der KVDT-Satzbeschreibung sind für die Felder - Scheinuntergruppe (FK 4239)
 
-Abrechnungsbereich (KTAB) (FK 4106)  Kostenträger-
+- Abrechnungsgebiet (FK 4122)
 
-Personenkreis / Untersuchungskategorie (FK 4123)
+- Abrechnungsbereich (KTAB) (FK 4106) -  Kostenträger-
 
-“Obermengen” (= Schlüsselwerte) definiert. **bundeseinheitliche**
+- Personenkreis / Untersuchungskategorie (FK 4123)
+
+“Obermengen” (= Schlüsselwerte) definiert.
+
+**bundeseinheitliche**
 
 Über die KV--Spezifika Dateien können dann im Abrechnungsprogramm
 
@@ -146,22 +142,34 @@ Personenkreis / Untersuchungskategorie (FK 4123)
 
 die entsprechenden KV-Spezifika eindeutig und korrekt umgesetzt werden.
 
-Die KV--Spezifika Stammdateien der einzelnen KV´en werden im Rahmen der quartalsweisen  Regelupdates der KBV veröffentlicht.
+Die KV--Spezifika Stammdateien der einzelnen KV´en werden im Rahmen der quartalsweisen
+
+Regelupdates der KBV veröffentlicht.
 
 
 ---
 
-**1.2 Aufbau einer KV-Spezifika-Datei**
+## 1.2 Aufbau einer KV-Spezifika-Datei
 
-Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definiert:Eine KV--
+Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definiert:
 
-“kvx0” -  SDKV-Headersatz -  SDKV-Endesatz “kvx9”
+Eine KV--
+
+- “kvx0”
+
+-  SDKV-Headersatz
+
+-  SDKV-Endesatz “kvx9”
 
 -  Handhabungshinweise “kvx1”
 
-“kvx2” -  Zulässige Feldinhalte
+- “kvx2”
 
-“kvx3” -  SKT-Abrechnungs-Zusatzangaben
+-  Zulässige Feldinhalte
+
+- “kvx3”
+
+-  SKT-Abrechnungs-Zusatzangaben
 
 -  Sortierung “kvx4” (nur für KV) 1
 
@@ -178,9 +186,9 @@ Spezifika Datei ist in Sätze unterteilt. Folgende Sätze sind definiert:Eine KV
 | genutzt | werden. | Die | Angaben in diesen |
 | zu den | jeweiligen | Satzarten). |  |
 
-Ein **Satz** ist unterteilt in **Felder**. Ein **Feld** ist die kleinste Einheit einer Datei. Es besteht aus:
+Ein **Satz** ist unterteilt in **Felder**. Ein **Feld** ist die kleinste Einheit einer Datei. Es besteht aus: - (3 Bytes)
 
-(3 Bytes) -  der Feldlängenangabe
+-  der Feldlängenangabe
 
 -  der Feldkennung (FK) (4 Bytes)
 
@@ -192,47 +200,67 @@ sind für KVDT-Softwareentwickler nicht relevant, können jedoch für interne Zw
 
 ---
 
-**1.3 Dateiname einer KV-Spezifika-Datei**
+## 1.3 Dateiname einer KV-Spezifika-Datei
 
 ### Der Dateiname der KV-Spezifika-Datei setzt sich gemäß folgendem Schema zusammen:
 
 | 1 | 2 | 3 | 4 | 5 | 6 | _ | 8 | . | 1 | 2 | 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-QJJ Version     KV-Kennung         Kvsp       Beispiel:
+QJJ
+
+Version
+
+KV-Kennung
+
+Kvsp
+
+Beispiel:
 
 |  | die erste Version der KV-Spezifika-Stammdatei der KV „38“, gültig ab dem 3. Quartal 2012 |
 |---|---|
 
 ### Die Dateinamenskonvention ist verbindlich.
 
-**1.4 ADT-Referenzversion**
+## 1.4 ADT-Referenzversion
 
-### Spezifika Datei ist nur einsetzbar in Verbindung mit der aktuellen ADT-.Version Diese KV--
+### Spezifika Datei ist nur einsetzbar in Verbindung mit der aktuellen ADT-.Version
+
+### Diese KV--
 
 Kvsp38_1.312
 
 ---
 
-**2 Satztabellen**  In den Satztabellen ist der Aufbau einzelner Sätze definiert.
+# 2 Satztabellen
+
+In den Satztabellen ist der Aufbau einzelner Sätze definiert.
 
 Es werden Anordnung und Vorkommen der Felder innerhalb eines Satzes festgelegt. Die  Felder werden mit einer “Feldkennung” und einer “Feldbezeichnung” gekennzeichnet.
 
 Spalte “Vorkommen”:
 
-Die Häufigkeit des Feldes wird in der Spalte  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+Die Häufigkeit des Feldes wird in der Spalte  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
+
+des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 Spalte “Feldart”:
 
-In der Spalte *Feldart* wird angegeben, ob ein Feld in einem Satz vorhanden sein muss oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte *Bedingung* näher spezifiziert werden).
+In der Spalte *Feldart* wird angegeben, ob ein Feld in einem Satz vorhanden sein muss oder
+
+nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte *Bedingung* näher spezifiziert werden).
 
 -  **M = unbedingtes Mussfeld**
 
-Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses Feld  mindestens einmal in dem Satz vorkommen.
+Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses Feld
+
+mindestens einmal in dem Satz vorkommen.
 
 -  **m = bedingtes Mussfeld**
 
-Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte  Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der  referenzierte Feld existiert.
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
+
+Hierarchiestufe (s. Spalte  Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der  referenzierte Feld existiert.
 
 -  **K = Kannfeld**
 
@@ -240,11 +268,19 @@ Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei Bedi
 
 -  **k = bedingtes Kannfeld**
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte *Vorkommen* vorhanden sein, wenn entweder in der Spalte  oder das auf der übergeordneten Hierarchiestufe (s. Spalte  existiert.
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
+
+Hierarchiestufe (s. Spalte *Vorkommen*
+
+vorhanden sein, wenn entweder in der Spalte  oder das auf der übergeordneten Hierarchiestufe (s. Spalte  existiert.
 
 *Vorkommen*
 
 angegeben, wobei die Angabe “n”
+
+-
+
+-
 
 *Vorkommen*) gebunden. Ein bedingtes Mussfeld muss in einem
 
@@ -252,7 +288,9 @@ angegeben, wobei die Angabe “n”
 
 ) gebunden. Ein bedingtes Kannfeld darf in einem Satz
 
-*Bedingung* ein Eintrag vorhanden und  Hierarchiestufe (s. Spalte *Vorkommen*
+*Bedingung* ein Eintrag vorhanden und
+
+Hierarchiestufe (s. Spalte *Vorkommen*
 
 *Bedingung* ein Eintrag vorhanden und erfüllt ist  *Vorkommen*) referenzierte Feld
 
@@ -284,7 +322,7 @@ angegeben, wobei die Angabe “n”
 | 8000 | 1 | Satzart | M |  | SDKV-Endesatz |
 | 9219 | 1 | Version SDKV-Pflegeprogramm | M |  | nur für KBV-interne |
 
-**-Headersatz “kvx0”**
+## -Headersatz “kvx0”
 
 Vorkommen Datei Datei gültig Vorkommen 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde
 
@@ -315,9 +353,7 @@ Vorkommen 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei E
 
 ---
 
-**2.5 Definition der Satzart: SKT-Abrechnungs-Zusatzangaben**
-
-**“kvx3”**
+**2.5 Definition der Satzart: SKT-Abrechnungs-Zusatzangaben**  **“kvx3”**
 
 | FK | Vorkommen | Bezeichnung | Feldart |  | Erläuterung |
 |---|---|---|---|---|---|
@@ -350,11 +386,11 @@ Vorkommen 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei E
 | Satzart SKT- | 2018 | n | Kostenträgergruppe | M |  |
 | vgl. Regel 452 | 4106 |  | Kostenträger-Abrechnungsbereich | m |  |
 
-**2.6 Definition der Satzart: Sortierung “kvx4”**
+## 2.6 Definition der Satzart: Sortierung “kvx4”
 
 2 Satz “kvx3” ist ein “Kann Satz”, vgl. Kapitel 5.4.
 
-**2**
+## 2
 
 (KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Bedingung Abrechnungs- Zusatzangaben
 
@@ -433,11 +469,7 @@ Vorkommen 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei E
 | 4106 |  | KTAB | m |  |  |
 | 4107 |  | Abrechnungsart | m |  |  |
 
-**2.10**
-
-## Definition der
-
-**4**
+## 2.10 Definition der  4
 
 **“kvx8 ”**
 
@@ -456,9 +488,13 @@ Vorkommen 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei E
 
 ---
 
-**3 Feldtabelle**  In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
+# 3 Feldtabelle
 
-*Typ* vereinbart, welcher Zeichenvorrat für den Feldinhalt Zu jedem Feld wird in der Spalte  verwendet werden kann. Folgende Typen werden unterschieden:
+In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
+
+*Typ* vereinbart, welcher Zeichenvorrat für den Feldinhalt
+
+Zu jedem Feld wird in der Spalte  verwendet werden kann. Folgende Typen werden unterschieden:
 
 n numerischer Zahlenwert
 
@@ -468,9 +504,17 @@ d numerische Datumsangaben im Format *TTMMJJJJ*, wobei
 
 *TT* = 01 - 31, *MM* = 01 - 12, *JJJJ* = 0001 – 9999
 
-*Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein In der Spalte  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine können. Durch das  maximale Länge beschränkt.
+*Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
-Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglicher Feldinhalt  aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten  Zusammenhang.
+In der Spalte  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine
+
+können. Durch das  maximale Länge beschränkt.
+
+Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglicher Feldinhalt
+
+aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten
+
+Zusammenhang.
 
 
 ---
@@ -610,7 +654,9 @@ Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglic
 |  | a | 042 |  |  | 8000 Satzart | 4 |
 | a | 103 |  | kvx0 | 9103 | Erstellungsdatum 8 | d |
 
-443 (Defaultwert)  04 = persönlich erbrachte Notfallleistungen durch  05 = Sonstige Notfallleistungen durch ermächtigte   444 26 = Stationäre Mitbehandlung, Vergütung nach  Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452 32 = Urlaubs- bzw. Krankheitsvertretung bei  * Version 3.56
+* Version 3.56
+
+443 (Defaultwert)  04 = persönlich erbrachte Notfallleistungen durch  05 = Sonstige Notfallleistungen durch ermächtigte   444 26 = Stationäre Mitbehandlung, Vergütung nach  Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452 32 = Urlaubs- bzw. Krankheitsvertretung bei
 
 
 ---
@@ -1050,7 +1096,9 @@ nummer Reihenfolge der Scheinuntergruppen festgelegt werden.  Quartalsordnung fe
 
 ---
 
-**5 Besondere Hinweise**  **5.1 Erläuterung zur Satzart “kvx0”**
+# 5 Besondere Hinweise
+
+## 5.1 Erläuterung zur Satzart “kvx0”
 
 Datei) bzw. “9138” (separate Datenpakete einer KVDT Datei) ihre
 
@@ -1062,30 +1110,36 @@ Eine KVDT-Datei kann aus maximal drei Datenpaketen (ADT-, KADT-, SADT-Datenpaket
 
 Erlaubte Inhalte der Felder “9135”/”9138” sind 1 (= ADT-Datenpaket), 3 (= Kurärztliches  Abrechnungs-Datenpaket) und 6 (= SADT-Datenpaket).
 
-Die zugelassenen Datenpakete sind innerhalb einer KVDT-Datei in folgender Reihenfolge  anzuordnen:
+Die zugelassenen Datenpakete sind innerhalb einer KVDT-Datei in folgender Reihenfolge  anzuordnen: - Datenpaket
 
-Datenpaket1. ADT-
+- 1. ADT-
 
-2. KADT-Datenpaket
+- 2. KADT-Datenpaket
 
-3. SADT-Datenpaket
+- 3. SADT-Datenpaket
 
 Die Felder “9136” (erstes zulässiges Abgabequartal) und “9137” (letztes zulässiges  Abgabequartal) dienen jeweils zur Übertragung des ersten bzw. letzten zulässigen Quartals,  ab dem bzw. bis zu dem ein Datenpaket in einer Kassenärztlichen Vereinigung “abgegeben”  werden kann.
 
 Besonderheit KADT-Datenpaket
 
-Lippe, d.h. das KADT Datenpaket wird in der Regel von allen Kurärzten  Bestimmungsort der kurärztlichen Abrechnung ist die kurärztliche Abrechnungsstelle der KV  Westfalen-- Deutschlands direkt als separate KVDT--Datei zur KV Westfalen Lippe gesandt. In diesem  Fall ist ein Eintrag “20” (= KV Westfalen-Lippe) in Feld “9139” (abweichende empfangende  KV) notwendig.
+Lippe, d.h. das KADT Datenpaket wird in der Regel von allen Kurärzten
+
+Bestimmungsort der kurärztlichen Abrechnung ist die kurärztliche Abrechnungsstelle der KV  Westfalen-- Deutschlands direkt als separate KVDT--Datei zur KV Westfalen Lippe gesandt. In diesem
+
+Fall ist ein Eintrag “20” (= KV Westfalen-Lippe) in Feld “9139” (abweichende empfangende  KV) notwendig.
 
 Falls eine Kassenärztliche Vereinigung die Weiterleitung des KADT-Datenpakets zur  kurärztlichen Abrechnungsstelle der KV Westfalen Lippe anbietet, darf das Feld “9139” nicht  übertragen werden.
 
 Gültigkeitsdatum (FK 9111)
 
-Die im aktuellen Quartal erstellte und ausgelieferte Version der KV--Spezifika Stammdatei gilt  für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals eingesetzt  werden. Das Gültigkeitsdatum (FK 9111) sollte also größer sein als das Quartal des  Erstellungsdatums (FK 9103).
+Die im aktuellen Quartal erstellte und ausgelieferte Version der KV--Spezifika Stammdatei gilt
+
+für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals eingesetzt  werden. Das Gültigkeitsdatum (FK 9111) sollte also größer sein als das Quartal des  Erstellungsdatums (FK 9103).
 
 
 ---
 
-**5.1.1 Beispiel zur Satzart “kvx0”**
+### 5.1.1 Beispiel zur Satzart “kvx0”
 
 Beispielhafter Satz “kvx0” der KV Niedersachsen:
 
@@ -1107,11 +1161,9 @@ Beispielhafter Satz “kvx0” der KV Niedersachsen:
 
 ### Ein Vertragsarzt der KV Niedersachsen müsste - vorausgesetzt dieser ist Kurarzt (KADT) -
 
-gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen: -
+gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen: -  KVDT--Datei: ADT Datenpaket
 
-### KVDT--Datei: ADT Datenpaket -
-
-### KVDT--Datei: KADT Datenpaket.
+-  KVDT--Datei: KADT Datenpaket.
 
 ### Empfänger der ersten KVDT-Datei wäre die KV Niedersachsen, Empfänger der  KVDT--Datei die KV Westfalen Lippe.
 
@@ -1120,7 +1172,7 @@ gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen: -
 
 ---
 
-**5.2 Erläuterung zur Satzart “kvx1”**
+## 5.2 Erläuterung zur Satzart “kvx1”
 
 Die Satzart “kvx1” enthält KV-spezifische Handhabungshinweise bezüglich -  “Tagtrennung”,
 
@@ -1132,18 +1184,32 @@ Die Satzart “kvx1” enthält KV-spezifische Handhabungshinweise bezüglich - 
 
 **Anmerkung**
 
-GNR enthält, jedoch “Sachkosten Für den Fall, dass der Behandlungstag keine  Materialkosten in Cent” unter FK 5012 abgerechnet werden sollen, empfehlen wir aus  Gründen der einfacheren Lesbarkeit der 23 KV-Ausprägungen folgende Formulierung für den  Erläuterungstext unter FK 9411:  **muss** dem Feld “Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so  “Sachkosten / Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen.”
+GNR enthält, jedoch “Sachkosten
+
+Für den Fall, dass der Behandlungstag keine  Materialkosten in Cent” unter FK 5012 abgerechnet werden sollen, empfehlen wir aus  Gründen der einfacheren Lesbarkeit der 23 KV-Ausprägungen folgende Formulierung für den
+
+Erläuterungstext unter FK 9411:  **muss** dem Feld
+
+“Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so  “Sachkosten / Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen.”
 
 Weitere Formulierungsvorschläge
 
-GNR (FK 5001), **muss** dem Feld -  Enthält der Behandlungstag (FK 5000) eine  “Sachkosten / Materialkosten in Cent” (FK 5012) eine Pseudo-GNR (siehe *KV-Angabe*  *unter FK 9410)* für Kosten vorangehen.
+- GNR (FK 5001), **muss** dem Feld
 
-GNR (FK 5001), **muss** dem Feld -  Enthält der Behandlungstag (FK 5000) eine  “Sachkosten / Materialkosten in Cent” (FK 5012) **keine** Pseudo-GNR für Kosten  vorangehen.
+-  Enthält der Behandlungstag (FK 5000) eine  “Sachkosten / Materialkosten in Cent” (FK 5012) eine Pseudo-GNR (siehe *KV-Angabe*
+
+- *unter FK 9410)* für Kosten vorangehen.
+
+- GNR (FK 5001), **muss** dem Feld
+
+-  Enthält der Behandlungstag (FK 5000) eine  “Sachkosten / Materialkosten in Cent” (FK 5012) **keine** Pseudo-GNR für Kosten - vorangehen.
 
 
 ---
 
-**5.2.1 Beispiel zur Satzart “kvx1”**  In der KV Test gelten die folgenden Vorgaben bzgl. Tagtrennung/Übertragung
+### 5.2.1 Beispiel zur Satzart “kvx1”
+
+In der KV Test gelten die folgenden Vorgaben bzgl. Tagtrennung/Übertragung
 
 ### Doppelkilometer/Wegepauschale/Übertragung Pseudo-GNR.
 
@@ -1163,7 +1229,11 @@ Beispielhafter Satz “kvx1” der KV Test:
 | 013 | 9410 | 88999 | Pseudo-GNR | Pseudo-GNR |
 | 0xx | 9411 | Text | Erläuterung zur Pseudo-GNR | Erläuterungstext zur Pseudo-GNR 88999 |
 
-Textzeile 1 zu 9411: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so  Textzeile 2 zu 9411:  Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
+Textzeile 1 zu 9411: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so
+
+Textzeile 2 zu 9411:
+
+Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
 
 **muss** dem Feld “Sachkosten /Materialkosten in Cent” (FK 5012) die
 
@@ -1212,21 +1282,25 @@ Ebene kommt es vor, da nur eine
 |  | betreffenden | | Kostenträger |
 |  | **Anmerkung** | : Satz | “kvx3” |
 
-**nicht** zulässig sind,
+- **nicht** zulässig sind,
 
-zulässig sind.
+-
+
+-  zulässig sind.
 
 5.3 Erläuterung zur Satzart “kvx2” In der KVDT-Satzbeschreibung sind für die Felder “Scheinuntergruppe” (FK 4239), “Abrechnungsgebiet” (FK 4122) und Kostenträger-Abrechnungsbereich (KTAB) (FK 4106) Obermengen (= erlaubte Inhalte und entsprechende Bedeutung) Aufgrund vertraglicher Vereinbarungen auf KV-ss “Untermenge” zulässig ist bzw. nur bestimmte Scheinuntergruppen-Abrechnungsgebiets- Kombinationen erlaubt sind. Mit der Satzart “kvx2” werden diese je nach KV-Bereich zulässigen Feldinhalte eindeutig definiert. Das Abrechnungsprogramm muss sicherstellen, dass im Rahmen der ADT- Abrechnung/KVDT nur diese Feldinhalte dem Anwender zur Erfassung angeboten werden. 5.4  Erläuterung zur Satzart “kvx3” Auch für die Handhabung der Sonstigen Kostenträger (SKT) in der ADT-Abrechnung gibt es keine bundeseinheitliche Regelung. Beispielsweise darf ein Kostenträger nicht bundesweit, sondern nur in einer KV abgerechnet werden oder es bestehen keine vertraglichen Regelungen zwischen einem Sonstigen Kostenträger und der/den Kassenärztlichen Die allgemeinen Abrechnungsvorgaben, die der entsprechende Kostenträger-Stammsatz zu einem SKT festlegt, sind aus diesem Grund im Rahmen der ADT-Abrechnung nicht immer ausreichend. Jede KV kann deshalb ihre zusätzlich erforderlichen Abrechnungsinformationen und Restriktionen in einem Satz „kvx3“ definieren: Mittels der Felder 2018 (Kostenträgergruppe) und 4106 (Kostenträger- Abrechnungsbereich) werden die “Sonstigen Kostenträger” klassifiziert. Feld “9402” legt fest, welche Feldinhalte in Feld “4123” (Personenkreis / Untersuchungskategorie) zulässig sind und vom Anwender im Abrechnungsdatensatz übertragen werden sollte, Feld “9403” legt fest, welche Information (z.B. Name des Auslands) zusätzlich unter Feld 4124 (SKT-Zusatzangaben) vom Anwender im Abrechnungsdatensatz übertragen werden sollte, Feld “9404” legt fest, welche Felder (z.Zt. FK 4125 und 4126) zusätzlich vom Anwender im Abrechnungsdatensatz übertragen werden sollten, Feld “9406” gibt an, welche Satzarten “010x” bei diesem SKT nicht Feld “9407” gibt an, welche Feldinhalte in Feld “Versichertenart” (FK 3108) beim betreffenden Kostenträger : Satz “kvx3” ist ein Kann-Satz.
 
 ---
 
-Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zusatzangaben notwendig sind **und** keine Einschränkungen bzgl. der zulässigen Satzarten  bzw. Versichertenarten gelten, enthält die SDKV- Datei dieser KV keinen Satz “kvx3”!
+Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zusatzangaben notwendig sind **und** keine Einschränkungen bzgl. der zulässigen Satzarten
+
+bzw. Versichertenarten gelten, enthält die SDKV- Datei dieser KV keinen Satz “kvx3”!
 
 Für den Anwender bedeutet dies, dass keine Zusatzangaben (FK 4123, 4124, 4125, 4126)  erfasst werden müssen und alle Satzarten und Versichertenarten zulässig sind.
 
 Im Zusammenhang mit der Verarbeitung der Satzart "kvx3" (SKT-Abrechnungs- Zusatzangaben) in der Anwendungssoftware weisen wir zur Klarstellung daraufhin, dass mit  Einführung von Versichertenkarten für "Sonstige Kostenträger" (z.B. SVA, BVG) eine  Übertragung der Abrechnungs-Zusatzangaben unter FK 4123, 4124, 4125 und 4126 nur  dann erfolgen darf, wenn für den betreffenden Fall keine Versichertenkarte ausgegeben  wurde, vgl. Anforderungskatalog KVDT, Funktion P6-160 Versichertenkarte und Satzart  „kvx3““.
 
-**5.5 Erläuterung zur Satzart “kvx4”**
+## 5.5 Erläuterung zur Satzart “kvx4”
 
 In der Satzart “kvx4” werden Informationen über die Sortierung der Sätze “010x”  bereitgestellt. Die Datei wird (in konvertierter Form) nur vom KBV-Prüfmodul ausgewertet  und ist für die Systemhäuser im Rahmen des KVDT irrelevant, kann aber zu internen  Zwecken benutzt werden. Die Informationen wurden mit in den SDKV aufgenommen, damit  alle KV-spezifischen Vorgaben zentral verwaltet und gepflegt werden können. Dem KBV- Prüfmodul dienen diese Informationen zur Erstellung der Sortier- und Klammerliste, wobei  Scheinabgabe- und Klammerinformationen (vgl. Satzarten “kvx5” und “kvx6”) berücksichtigt  werden.
 
@@ -1245,23 +1319,41 @@ Als weiteres Muss-Feld in der Satzart für die Sortierung wird der Parameter Fal
 
 In der Satzart Sortierung “kvx4” muss unter der Feldkennung 9451 für jede  Scheinuntergruppe ein 3-stelliger Text eingegeben werden, wobei alle die  Scheinuntergruppen denselben Text haben müssen, die dieselben Wertekombinationen aller  vorkommenden Feldkennungen 9457 (Wert der Scheinuntergruppe im Rahmen der  Sortierung) besitzen. Wurde keine Feldkennung 9457 übertragen, so muss für alle  Scheinuntergruppen derselbe Text vergeben werden. Die Übertragung von Leerzeichen oder  Feldern ohne Inhalt ist gemäß xDT-Konvention nicht zulässig.
 
-**5.6 Erläuterung zur Satzart “kvx5”**
+## 5.6 Erläuterung zur Satzart “kvx5”
 
 Informationen zur Scheinabgabe werden in “kvx5” dargestellt. Diese Daten werden (in  konvertierter Form) nur vom KBV-Prüfmodul ausgewertet und sind für die Systemhäuser im  Rahmen des KVDT irrelevant, können aber bei Bedarf systemintern genutzt werden. Die  Scheinabgabeinformationen spiegeln sich in den vom KBV-Prüfmodul erzeugten Sortier- und  Klammerlisten wieder. Berücksichtigt werden ferner Informationen zur Abgabe von  Früherkennungsdokumenten in Abhängigkeit von Gebührennummern.
 
 **der**
 
-Die Scheinabgabe kann in Abhängigkeit von Betriebsstättennummer, VKNR, KTAB und  Abrechnungsgebiet gesteuert werden. Jedes dieser Kriterien kann zusätzlich in Abhängigkeit  von der Scheinuntergruppe weiter spezifiziert werden. **Es müssen nur die Kombinationen**  **angegeben werden, bei denen eine Scheinabgabe erforderlich ist.** Ferner gilt:  **Eintrag “Abgabe” (Wert 1 unter FK 9462) übersteuert den Eintrag “Abgabe, wenn keine**  **Versichertenkarte eingelesen wurde” (Wert 2 unter FK 9462).**
+Die Scheinabgabe kann in Abhängigkeit von Betriebsstättennummer, VKNR, KTAB und  Abrechnungsgebiet gesteuert werden. Jedes dieser Kriterien kann zusätzlich in Abhängigkeit  von der Scheinuntergruppe weiter spezifiziert werden. **Es müssen nur die Kombinationen**
+
+**angegeben werden, bei denen eine Scheinabgabe erforderlich ist.** Ferner gilt:
+
+**Eintrag “Abgabe” (Wert 1 unter FK 9462) übersteuert den Eintrag “Abgabe, wenn keine**  **Versichertenkarte eingelesen wurde” (Wert 2 unter FK 9462).**
 
 angegeben ist, aber gleichzeitig ein
 
-Beispiel: Wenn bei einem  Schein für eine Scheinuntergruppe durch die VKNR-Seriennummer eine Abgabe in  Abhängigkeit von der Versichertenkarte  Abrechnungsgebiet vorliegt, bei dem eine unbedingte Abgabe gefordert ist, so muss der  Schein grundsätzlich mit abgegeben werden, unabhängig davon, ob die Karte eingelesen  wurde oder nicht.
+Beispiel: Wenn bei einem
 
-Prüfmodul. Die Feldkennungen **9473 und 9474** dienen zur Ausgabe von Scheinabgabelisten über das  KVDT-
+Schein für eine Scheinuntergruppe durch die VKNR-Seriennummer eine Abgabe in  Abhängigkeit von der Versichertenkarte  Abrechnungsgebiet vorliegt, bei dem eine unbedingte Abgabe gefordert ist, so muss der  Schein grundsätzlich mit abgegeben werden, unabhängig davon, ob die Karte eingelesen  wurde oder nicht.
 
-; liegt Inhalt "0" vor, wird diese Liste nicht generiert.  Mit Inhalt "1" im Feld 9473 wird via KVDT-Prüfmodul eine Liste **aller Überweisungsscheine**  **erzeugt**
+Prüfmodul.
 
-Mit Inhalt "1" im Feld 9474 wird via KVDT-Prüfmodul eine Liste **aller abzugebenden**  **Behandlungsscheinen zzgl. aller Überweisungsscheine** angelegt; liegt Inhalt "0" vor, wird  diese Liste nicht generiert.
+Die Feldkennungen **9473 und 9474** dienen zur Ausgabe von Scheinabgabelisten über das
+
+KVDT-
+
+; liegt Inhalt "0" vor, wird diese Liste nicht generiert.
+
+Mit Inhalt "1" im Feld 9473 wird via KVDT-Prüfmodul eine Liste **aller Überweisungsscheine**
+
+**erzeugt**
+
+Mit Inhalt "1" im Feld 9474 wird via KVDT-Prüfmodul eine Liste **aller abzugebenden**
+
+**Behandlungsscheinen zzgl. aller Überweisungsscheine** angelegt; liegt Inhalt "0" vor, wird
+
+diese Liste nicht generiert.
 
 
 ---
@@ -1308,7 +1400,7 @@ der Schein mit der höchsten Punktzahl 5 Versichertenart
 
 ---
 
-**5.8 Erläuterung zur Satzart “kvx7”**
+## 5.8 Erläuterung zur Satzart “kvx7”
 
 Mittels Satzart “kvx7” definiert jede KV in Abhängigkeit von VKNR-- (FK 9470, 9471) und dem Kostenträger-- sprechende Abrechnungsart. Es muss darauf geachtet werden, den Seriennummern-Bereich  vollständig zu erfassen. Ferner müssen die Informationen je Seriennummern-Bereich für  im KVDT vorgesehenen Kostenträger-
 
@@ -1349,12 +1441,12 @@ Seriennummern Bereichen
 
 ---
 
-**5.9 Erläuterung zur Satzart Kommentierung / Zusatzinformation**
-
-### “kvx8“
+## 5.9 Erläuterung zur Satzart Kommentierung / Zusatzinformation  “kvx8“
 
 Die Kassenärztlichen Vereinigungen können mit dieser Satzart in einem “Freitext”-Feld  beliebige Zusatzinformationen, Erläuterung oder Kommentierungen in beliebiger Länge  angeben.
 
 Anmerkung: Satz “kvx8” ist ein Kann-Satz!
 
-SpezifikaSollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV-- Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
+Spezifika
+
+Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV-- Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.

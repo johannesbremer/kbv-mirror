@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -22,36 +22,32 @@
 
 **Abasoft EDV-Programme GmbH** Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de
 
-**Iatropro**
+**APRIS**
 
-**APM IT Bernhard Wichmann** Mühlfeldring 13 36100 Petersberg
+**APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
 
-|  | Y/400/2410/36/031 | 30.09.2027 | Rohdaten ABDAMED |  |
-|---|---|---|---|---|
 |  | Y/400/2410/36/081 | 30.09.2027 | Rohdaten MMI |  |
+|---|---|---|---|---|
+|  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. April 2026
 
 Y/400/2504/36/062
 
-Y/400/2409/37/099 31.03.2028
+Y/400/2410/36/031 31.03.2028
 
 30.09.2027
 
 Rohdaten ABDAMED
 
-ifap praxisCENTER
+Rohdaten ABDAMED
 
 Windows
 
-APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows WindowsWindows
+Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Avelios Avelios Medical GmbH Ridlerstraße 39 80339 München Internet: avelios.com Windows Linux Mac OS WindowsiOS/Android Linux Mac OS Windows
 
 
 ---
-
-**Avelios**
-
-**Avelios Medical GmbH** Ridlerstraße 39 80339 München Internet: avelios.com
 
 **Med7**
 
@@ -65,7 +61,9 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 
 **CGM Clinical Europe GmbH** Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
-Y/400/2409/37/754
+**Praxis4More**
+
+**CoKom One GmbH** John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de
 
 Y/400/2601/36/078
 
@@ -73,28 +71,28 @@ Y/400/2510/36/459
 
 Y/400/2307/36/226
 
+Y/400/2602/35/346
+
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-30.09.2027
-
 31.12.2028
 
-30.09.2028
+MMI PHARMINDEX ifap praxisCENTER 30.09.2028
 
 30.06.2026
 
-Rohdaten MMI
-
-MMI PHARMINDEX ifap praxisCENTER
+31.12.2028
 
 ifap praxisCENTER
 
 ifap praxisCENTER Rohdaten ID PHARMA
 
-Linux Mac OS Windows
+Rohdaten MMI
+
+Windows
 
 Windows
 
@@ -104,62 +102,62 @@ Windows
 
 
 ---
-
-**Praxis4More**
-
-**CoKom One GmbH** John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de
 
 **Z1**
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-|  | Y/400/2504/36/112 | 31.03.2028 | ifap praxisCENTER |  |
-|---|---|---|---|---|
-|  | Y/400/2504/36/203 | 31.03.2028 | ifap praxisCENTER |  |
+**TURBOMED**
 
-Y/400/2602/35/346
+**CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
+
+|  | Y/400/2504/36/203 | 31.03.2028 | ifap praxisCENTER |  |
+|---|---|---|---|---|
+|  | Y/400/2510/36/023 | 30.09.2028 | Rohdaten ifap |  |
 
 Y/400/2501/36/332
 
+Y/400/2504/36/112
+
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2028 Rohdaten MMI
 
 31.12.2027 ifap praxisCENTER
 
+31.03.2028 ifap praxisCENTER
+
 Windows
 
-TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows WindowsWindows
+ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Windows LinuxWindows
 
 
 ---
 
-**DATA VITAL**
+**CGM M1 PRO**
 
 **CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
 
-|  | Y/400/2410/36/252 | 30.09.2027 | Rohdaten ifap |  |
-|---|---|---|---|---|
-|  | Y/400/2410/36/280 | 30.09.2027 | ifap praxisCENTER |  |
+Softwarevariante(n): - CGM M1 PRO NEXT
 
-Y/400/2510/36/023
+|  | Y/400/2410/36/280 | 30.09.2027 | ifap praxisCENTER |  |
+|---|---|---|---|---|
+|  | Y/400/2412/37/752 | 31.12.2027 | Rohdaten ABDAMED |  |
+
+Y/400/2410/36/252
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows Windows30.09.2028 Rohdaten ifapLinux
+30.09.2027 Rohdaten ifap
+
+CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK INFINITYQ HEALTH CROSSSOFT. GmbH Knooper Weg 126/128 Hofgebäude 24105 Kiel Internet: www.crosssoft.de Windows WindowsWindows
 
 
 ---
-
-**INFINITYQ HEALTH**
-
-**CROSSSOFT. GmbH** Knooper Weg 126/128 Hofgebäude 24105 Kiel Internet: www.crosssoft.de
 
 **DS-WIN-PLUS (DS-WIN-MED)**
 
@@ -169,207 +167,191 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-**InterMediNet KVDT**
-
-**DBI Informatik, Dirk Blume** Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
-
-Y/400/2412/37/752
+|  | Y/400/2504/36/238 | 31.03.2028 | Rohdaten MMI |  |
+|---|---|---|---|---|
+|  | Y/400/2410/36/254 | 30.09.2027 | MMI PHARMINDEX |  |
 
 Y/400/2504/36/262
 
 Y/400/2504/36/060
 
-Y/400/2504/36/238
-
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-31.12.2027 Rohdaten ABDAMED
-
-31.03.2028
-
-31.03.2028
 
 31.03.2028
 
 ifap praxisCENTER MMI data4doc
 
-ifap praxisCENTER Rohdaten MMI
-
-Rohdaten MMI
+ifap praxisCENTER 31.03.2028 Rohdaten MMI
 
 Windows
 
-Windows
-
-Windows
-
-Windows
+InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de ORBIS® Dedalus HealthCare GmbH Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com Windows WindowsWindows
 
 
 ---
-
-**ORBIS®**
-
-**Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
 
 **IMedOne**
 
 **Deutsche Telekom Clinical Solutions GmbH** Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com
 
-|  | Y/400/2311/36/488 | 31.10.2026 | Rohdaten MMI |  |
-|---|---|---|---|---|
-|  | Y/400/2507/36/677 | 30.06.2028 | MMI PHARMINDEX |  |
+**inSuite**
 
-Y/400/2410/36/254
+**Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
+
+|  | Y/400/2507/36/677 | 30.06.2028 | MMI PHARMINDEX |  |
+|---|---|---|---|---|
+|  | Y/400/2410/36/602 | 30.09.2027 | Rohdaten MMI |  |
 
 Y/400/2604/36/314
+
+Y/400/2311/36/488
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-30.09.2027
-
 31.03.2029
 
-MMI PHARMINDEX
+31.10.2026
 
 AiDKlinik
 
+Rohdaten MMI
+
 Windows
 
-inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de iOS/Android Linux Mac OS Sonstige Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de iOS/Android Linux Mac OS Sonstige Windows LinuxiOS/Android Linux Mac OS Sonstige Windows
 
 
 ---
-
-**apraxos**
-
-**Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
 **DURIA**
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-|  | Y/400/2604/36/295 | 31.03.2029 | Rohdaten ABDAMED |  |
-|---|---|---|---|---|
-|  | Y/400/2510/36/253 | 30.09.2028 | ifap praxisCENTER |  |
+**Epikur**
 
-Y/400/2410/36/602
+**Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
+
+|  | Y/400/2510/36/253 | 30.09.2028 | ifap praxisCENTER |  |
+|---|---|---|---|---|
+|  | Y/400/2504/36/223 | 31.03.2028 | ifap praxisCENTER |  |
 
 Y/400/2510/36/086
+
+Y/400/2604/36/295
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-30.09.2027
-
 30.09.2028
 
-Rohdaten MMI
+31.03.2029
 
 Rohdaten MMI
 
-Linux
+Rohdaten ABDAMED
 
-Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info Linux Mac OS Windows WindowsWindows
+Windows
+
+PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows WindowsLinux Mac OS Windows
 
 
 ---
-
-**INDICATION**
-
-**ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
 **EVIDENT**
 
 **EVIDENT GmbH** Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: www.evident.de
 
-|  | Y/400/2410/36/403 | 30.09.2027 | Rohdaten MMI |  |
-|---|---|---|---|---|
-|  | Y/400/2502/38/630 | 31.03.2028 | ifap praxisCENTER |  |
+**FIDUS**
 
-Y/400/2504/36/223
+**FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
+
+|  | Y/400/2502/38/630 | 31.03.2028 | ifap praxisCENTER |  |
+|---|---|---|---|---|
+|  | Y/400/2510/36/244 | 30.09.2028 | Rohdaten MMI |  |
 
 Y/400/2604/36/421
+
+Y/400/2410/36/403
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-31.03.2028
-
 31.03.2029
 
-ifap praxisCENTER
+30.09.2027
 
 ifap praxisCENTER MMI PHARMINDEX MMI data4doc
 
+Rohdaten MMI
+
 Windows
 
-FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de theHub Fresenius Medical Care Deutschland GmbH Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+theHub Fresenius Medical Care Deutschland GmbH Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de iOS/Android Linux Mac OS Sonstige Windows WindowsWindows
 
 
 ---
-
-**QUINCY WIN**
-
-**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
 **Doctorly**
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-|  | Y/400/2308/36/701 | 31.07.2026 | MMI PHARMINDEX |  |
-|---|---|---|---|---|
-|  | Y/400/2601/36/195 | 31.12.2028 | ifap praxisCENTER |  |
+**garrioPRO**
 
-Y/400/2510/36/244
+**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
+
+|  | Y/400/2601/36/195 | 31.12.2028 | ifap praxisCENTER |  |
+|---|---|---|---|---|
+|  | X/400/2410/36/617 | 30.09.2027 | Rohdaten ABDAMED |  |
 
 Y/400/2511/38/616
+
+Y/400/2308/36/701
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-30.09.2028
-
 31.12.2028
 
-Rohdaten MMI
+31.07.2026
 
 MMI PHARMINDEX
 
-Windows
+MMI PHARMINDEX
 
-garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-med.de Linux Mac OS Windows WindowsiOS/Android Linux Mac OS Windows
+iOS/Android Linux Mac OS Windows
+
+J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-med.de ID MEDICS ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de Windows WindowsLinux Mac OS Windows
 
 
 ---
-
-**ID MEDICS**
-
-**ID Information und Dokumentation im** **Gesundheitswesen GmbH & Co. KGaA** Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de
 
 **ifap VoS**
 
 **ifap Service-Institut für Ärzte und Apotheker** **GmbH** Bunsenstraße 7 82152 Martinsried Internet: www.ifap.de
 
-|  | Y/400/2504/36/400 | 31.03.2028 | ifap praxisCENTER |  |
-|---|---|---|---|---|
-|  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
+**IFA-AUGENARZT**
 
-X/400/2410/36/617
+**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
+
+|  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
+|---|---|---|---|---|
+|  | Y/400/2506/37/596 | 30.06.2028 | MMI PHARMINDEX |  |
 
 Y/400/2410/36/660
+
+Y/400/2504/36/400
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -378,90 +360,82 @@ Y/400/2410/36/660
 
 30.09.2027
 
-30.09.2027
+31.03.2028
 
-Rohdaten ABDAMED
+ifap praxisCENTER
 
 ifap praxisCENTER
 
 Windows
 
-IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows Linux Mac OS WindowsWindows
+ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de IFU-KIS IFU OR GmbH Nürnberg Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de Linux Mac OS Windows WindowsWindows
 
 
 ---
-
-**IFU-KIS**
-
-**IFU OR GmbH Nürnberg** Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de
 
 **DynaMed**
 
 **IMA-Systems Information-Technology GmbH** Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com
 
-|  | Y/400/2504/36/210 | 31.03.2028 | Rohdaten ABDAMED |  |
-|---|---|---|---|---|
-|  | Y/400/2504/36/136 | 31.03.2028 |  |  |
+**Medical Office**
 
-Y/400/2506/37/596
+**INDAMED EDV-Entwicklung und Vertrieb** **GmbH** Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
+
+|  | Y/400/2504/36/136 | 31.03.2028 |  |  |
+|---|---|---|---|---|
+|  | Y/400/2504/36/320 | 31.03.2028 | Rohdaten ID PHARMA |  |
 
 Y/400/2604/36/642
+
+Y/400/2504/36/210
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-30.06.2028
+31.03.2029 medic Cloud-Service
 
-31.03.2029
-
-MMI PHARMINDEX
-
-medic Cloud-Service
+31.03.2028 Rohdaten ABDAMED
 
 Windows
 
-Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de Windows Mac OS WindowsWindows
+InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de Mac OS Windows WindowsWindows
 
 
 ---
-
-**DISweb**
-
-**KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
 **CLASSY RT**
 
 **KHP Kelm & Homberg** **Produktionsgesellschaft GmbH & Co.KG** Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de
 
-|  | Y/400/2504/36/135 | 31.03.2028 |  |  |
-|---|---|---|---|---|
-|  | Y/400/2510/36/462 | 30.09.2028 | Rohdaten ABDAMED |  |
+**EL - Elaphe Longissima**
 
-Y/400/2504/36/320
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+|  | Y/400/2510/36/462 | 30.09.2028 | Rohdaten ABDAMED |  |
+|---|---|---|---|---|
+|  | Y/400/2602/38/641 | 31.03.2029 | Rohdaten ABDAMED |  |
 
 Y/400/2510/36/385
+
+Y/400/2504/36/135
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-31.03.2028 Rohdaten ID PHARMA
-
 30.09.2028 ifap praxisCENTER
+
+31.03.2028
 
 Windows
 
-EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows WindowsWindows
+medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Verordnungsmodul medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows WindowsWindows
 
 
 ---
-
-**Verordnungsmodul**
-
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 **Klinik-Assistent**
 
@@ -471,8 +445,6 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|---|
 |  | Y/400/2510/36/192 | 30.09.2028 | Rohdaten ABDAMED |  |
 
-Y/400/2602/38/641
-
 Y/400/2506/37/746
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
@@ -480,11 +452,7 @@ Y/400/2506/37/746
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-31.03.2029 Rohdaten ABDAMED
-
 30.06.2028 ifap praxisCENTER
-
-Windows
 
 Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsWindows
 
@@ -508,7 +476,9 @@ Y/400/2410/36/251
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows Windows30.09.2027 Rohdaten ABDAMEDWindows
+30.09.2027 Rohdaten ABDAMED
+
+MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows WindowsWindows
 
 
 ---
@@ -756,4 +726,4 @@ AiDKlinik Universitätsklinikum Heidelberg Im Neuenheimer Feld 410 69120 Heidelb
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. April 2026
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsSeite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. April 2026

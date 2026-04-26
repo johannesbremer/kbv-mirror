@@ -191,7 +191,9 @@ CompuGroup Medical Deutschland AG 1
 
 Duria eG
 
-**a** medatixx GmbH & Co. KG
+**a**
+
+medatixx GmbH & Co. KG
 
 PEGA Elektronik GmbH
 
@@ -258,15 +260,9 @@ Abasoft EDV-Programme GmbH 2
 
 ## TOP 20 Systeme - Al g
 
-**d**
+**dl stzrrztnI l saestzl o bemgä AßT-AaD**
 
-### l stzr
-
-**r**
-
-### ztnI l saestzl o bemgä AßT-AaD ßztel stzl o: 30u
-
-**0.6u2.025**
+**ßztel stzl o: 30u0.6u2.025**
 
 | **do** | **PDzxnssI ftwzDe** | **Al aneteD** | **dl stzrrztnI l el 2uQu2.025** | **dl stzrrztnI l el 1uQu2.025** | **ßnffeDel ö** |
 |---|---|---|---|---|---|
@@ -299,7 +295,7 @@ H7T **ReschePDI**
 
 ## sti esnstel
 
-### eci l hl bel u ßne 20 Systeme nl oneseD
+#### eci l hl bel u ßne 20 Systeme nl oneseD
 
 Com pouGr Medirca l d Dt s Meh nl 6our-8.5 tor-4xMrbo l d Dt
 
@@ -325,9 +321,9 @@ Sboa N6y l d Dt
 
 Medi 8l be8i pouGIr- 6o845Ix-rcu Nl 1
 
-**. zci bD**
+**. zci bDhFFe mn**
 
-### hFFe mn 1.1A
+1.1A
 
 A9A
 
@@ -349,11 +345,7 @@ EA 9&
 
 9.7
 
-### t oel i pci stel dl stzr
-
-**r**
-
-### ztn 1.11
+#### t oel i pci stel dl stzrrztn 1.11
 
 A9.0
 
@@ -375,7 +367,7 @@ E7 9E
 
 9H
 
-### I l sözi rel u .A
+#### I l sözi rel u .A
 
 .H
 
@@ -482,60 +474,108 @@ A .A
 
 ---
 
-## TOP 20 Systeme - Al gei n
+## TOP 20 Systeme - Al gei ndzte
 
-**d**
+**ri stI aaI tobi säestI i ß gemnD Ac T-Aädehui l i gei . coe 20 Systeme oi ßoesed FI hugdl ppe mot ßei uöhustei ri stI aaI tobi szI uaei .**
 
-## zte
-
-**r**
-
-### i stI a
-
-**a**
-
-### I tobi säestI i ß gemn
-
-**D**
-
-###  Ac T-Aädeh
-
-**ui l i gei . co**
-
-### e 20 Systeme oi ßoesed FI hugdl ppe mot ßei uöhustei ri stI a
-
-**a**
-
-**I tobi szI uaei .** **c I tei stI i ß: 30.06.2025**
+**c I tei stI i ß: 30.06.2025**
 
 | **rß** | **PdI xossbftwI de** | **Ai äoeted** | **ri stI aaI tobi ei 2.Q.2025** | **ri stI aaI tobi ei 1.Q.2025** | **coffedei z** |
 |---|---|---|---|---|---|
 
-1.2C **URB BMcrSTAE CGAUL PEO** ompuGr MmGu edical D tdGshanDl Ai . r9.199.06-8
+1.2C **URB BMcrSTAE CGAUL PEO**
 
-5C0 **Frc KS**4xtbH HmsKl Md 7AsKcaTDGAI h-rp NE9.169.61V
+ompuGr MmGu edical D tdGshanDl Ai . r 9.19
 
-5CC **rFA-AKRMNAEYT**cl hwhsdph . r0V20V90
+9.06
 
-C2.8 **c KErA**t GMcl dr0.1C0.16-6
+-8
 
-6.61 **TKECOBMc**ompuGr MmGu edical D tdGshanDl Ai . r1.581.5V-0
+5C0 **Frc KS**
 
-5.9k **tbmeßb**gmDDhms rp NE6.806.98k
+4xtbH HmsKl Md 7AsKcaTDGAI h-rp NE 9.16
 
-1.68 **x.osyi et**pdilsc33 rp NE F omy ZrVV6CC-6
+9.61
 
-1.6C **BeßohI a Offohe**xft . e 7t 7t P-7AsKcaTDGAI GAi PdMsMcdN rp NE 2.92.56
+V 5CC **rFA-AKRMNAEYT**
 
-C0C **PdI xos-PdbgdI mm**edicHmsKl Md ompuGsdMhwhsdpd &LM SM/sd 8.2kC-1
+cl hwhsdph . r 0V2
 
-1.95 **OECrSW**tdil DGh Edl Dsnol Md rp NE9.19.0-6
+0V9
 
-0.50 **SAP Amäl aI tbdy UI de BI i I gemei t** H. ü H75.95.56
+0
 
-5.81 **meßI toxx**pdilsc33 rp NE F omy Zr0C1k0
+C2.8 **c KErA**
 
-1C0 **AGCrS**ompuGr MmGu edical D tdGshanDl Ai . r1.81.8C 1
+t GMcl dr 0.1C
+
+0.16
+
+-6
+
+6.61 **TKECOBMc**
+
+ompuGr MmGu edical D tdGshanDl Ai . r 1.58
+
+1.5V
+
+-0
+
+5.9k **tbmeßb**
+
+gmDDhms rp NE 6.80
+
+6.98
+
+k 1.68 **x.osyi et**
+
+pdilsc33 rp NE F omy Zr
+
+VV 6CC
+
+-6
+
+1.6C **BeßohI a Offohe**
+
+xft . e 7t 7t P-7AsKcaTDGAI GAi PdMsMcdN rp NE 2.9 2.5
+
+6
+
+C0C **PdI xos-PdbgdI mm**
+
+edicHmsKl Md ompuGsdMhwhsdpd &LM SM/sd 8.2
+
+kC -1
+
+1.95 **OECrSW**
+
+tdil DGh Edl Dsnol Md rp NE 9.1
+
+9.0
+
+-6
+
+0.50 **SAP Amäl aI tbdy UI de BI i I gemei t** H. ü H7 5.9
+
+5.5
+
+6
+
+5.81 **meßI toxx**
+
+pdilsc33 rp NE F omy Zr 0C
+
+1k
+
+0
+
+1C0 **AGCrS**
+
+ompuGr MmGu edical D tdGshanDl Ai . r 1.8
+
+1.8
+
+C 1
 
 
 ---
@@ -565,7 +605,9 @@ tdGshand ÄdDdTmp oDcAcal D Hm
 
 ompuGr MmGu edical D tdGshanD
 
-**S** cl hwhsdph . r
+**S**
+
+cl hwhsdph . r
 
 e 7tzH rp NE
 
@@ -581,7 +623,9 @@ pcDcl A 2
 
 1.9
 
-E 1.0 4DdAidM
+E 1.0
+
+4DdAidM
 
 1.1
 
@@ -624,19 +668,9 @@ C
 
 ## TOP 20 Systeme - Al ginidez
 
-**r**
+**rzstI aaI tgozsbestI zä demßD chT-cbieu**
 
-### zstI a
-
-**a**
-
-### I tgozsbestI zä demß
-
-**D**
-
-###  chT-cbieu hI tezstI zä3
-
-** 60.05.202x**
+**hI tezstI zä3 60.05.202x**
 
 | **rä** | **PiI fgssowtQI ie** | **czbgetei** | **rzstI aaI tgozez 2.1 .202x** | **rzstI aaI tgozez U.1 .202x** | **hgwweiez:** |
 |---|---|---|---|---|---|
@@ -673,9 +707,7 @@ CH1 1Ax
 
 **AEC CU PRO**
 
-**l znzdez. hg**
-
-### e 20 Systeme gz äg
+**l znzdez. hge 20 Systeme gz äg**
 
 ompuGrM emuGdicuam l Dte
 
@@ -703,7 +735,7 @@ c. D9rl a. r9 0 mp6-uG omrdM-i Gu8p 5l
 
 c. D9rl a. r9 0 mp6-uG omrdM-i Gu8p 5l 1
 
-### esei FI ul dinppe mgt äez l öu 2s1
+#### esei FI ul dinppe mgt äez l öu 2s1
 
 1.4x
 
@@ -731,11 +763,7 @@ s4
 
 sA
 
-### l stez rzstI a
-
-**a**
-
-### I tgozs: I l a 2hn
+#### l stez rzstI aaI tgozs: I l a 2hn
 
 1h1
 
@@ -761,7 +789,7 @@ nAx
 
 sA
 
-### ez.
+#### ez.
 
 nn
 
@@ -860,15 +888,9 @@ b1
 
 ## TOP 20 Systeme - Alg
 
-**r**
+**rnstgIIgtaonsbestgnä ßemdD**
 
-### nstgIIgtaonsbestgnä ßemd
-
-**D**
-
-### hgtenstgnä: 30F
-
-**0.6F2.025**
+**hgtenstgnä: 30F0.6F2.025**
 
 | **rä** | **Plgxassoftwgle** | **cnbaetel** | **rnstgIIgtaonen 2FQF2.025** | **rnstgIIgtaonen 1FQF2.025** | **haffelenz** |
 |---|---|---|---|---|---|
@@ -901,11 +923,7 @@ b1
 
 ## i endlzte
 
-### chT-cbleu
-
-**. ni nßenF**
-
-###  hae 20 Systeme an äaesel A
+#### chT-cbleu. ni nßenF hae 20 Systeme an äaesel A
 
 ompuGr MmGu edical D tdGshanDl Ai . r
 
@@ -931,9 +949,9 @@ ore oDcAcal D EGMmud rp Hb
 
 ZMdf . t V rp Hb 1
 
-**gu**
+**gu. ßli ppe mat äen . öu**
 
-### . ßli ppe mat äen . öu 9.06C
+9.06C
 
 6.6C
 
@@ -957,9 +975,9 @@ b 4-4 4x6
 
 9-C
 
-**. sten r**
+**. sten rnstgIIgta**
 
-### nstgIIgta 9.06.8C
+9.06.8C
 
 6.2-
 
@@ -985,11 +1003,7 @@ xx&
 
 9-1
 
-### onszg
-
-**. IenF**
-
-54.8
+#### onszg. IenF 54.8
 
 59-
 
@@ -1096,15 +1110,9 @@ C 5x
 
 ## TOP 20 Systeme - Al O-gin
 
-**d**
+**dzstr IIrtaozsbestrzä ßemDc huT-hbie. Fzpzßezö**
 
-### zstr IIrtaozsbestrzä ßemD
-
-**c huT-hbie. Fzpzßezö**
-
-### urtezstrzä5 x0ö
-
-**0fö2.02w**
+**urtezstrzä5 x0ö0fö2.02w**
 
 | **dä** | **Pir Qasso1tUrie** | **hzbaetei** | **dzstr IIrtaozez 2öRö2.02w** | **dzstr IIrtaozez BöRö2.02w** | **ua11eiezn** |
 |---|---|---|---|---|---|
@@ -1139,9 +1147,7 @@ C2.0 **uWLdh**
 
 ## te
 
-### uae 20 Systeme az äa
-
-**esei : r . Fßip33e ma**
+#### uae 20 Systeme az äaesei : r . Fßip33e ma
 
 ompuGr MmGu edical D tdGshanDl Ai . r
 
@@ -1219,7 +1225,7 @@ F2 2.0
 
 0K
 
-### zstr IIrtaozsnr FIezö 7-1
+#### zstr IIrtaozsnr FIezö 7-1
 
 79
 
@@ -1289,7 +1295,9 @@ b Hr 2
 
 üMÄ 0C
 
-sd 6K 6-
+sd 6K
+
+6-
 
 9.6
 
@@ -1330,11 +1338,9 @@ C
 
 ## TOP 20 Systeme - Algtin
 
-**z**
+**zrstl IIltaorsbestlrä ßemi D chT-cbn**
 
-### rstl IIltaorsbestlrä ßemi D chT-cbn hlterstlrä3
-
-** 60F0.5F2.02x**
+**hlterstlrä3 60F0.5F2.02x**
 
 | **zä** | **PnlfassowtQlne** | **crbaeten** | **zrstl IIltaorer 2F1 F2.02x** | **zrstl IIltaorer UF1 F2.02x** | **hawwenerd** |
 |---|---|---|---|---|---|
@@ -1365,15 +1371,9 @@ C
 
 9- **EL - EIlö. e Lorßassaml**
 
-**d**
+**dte**
 
-## te
-
-### eu
-
-**. rgrßer F**
-
-###  hae 20 Systeme ar äa
+#### eu. rgrßer F hae 20 Systeme ar äa
 
 ompuGr MmGu edical D tdGshanDl Ai . r 4mDDhmxs rpbH
 
@@ -1399,7 +1399,7 @@ ompuGr MmGu edical D tdGshanDl Ai . r
 
 pdilsckk rpbH g om3 Fr 1
 
-### esen plu. ßngööe mat äer .
+#### esen plu. ßngööe mat äer .
 
 9.09
 
@@ -1427,35 +1427,53 @@ C8 0.2
 
 -K
 
-**: u. ster z**
+**: u. ster zrstl IIltaorsdl . Ier F**
 
-### rstl IIltaorsd
+9.02
 
-**l . Ier F**
+6
 
-9.026
+1.8-
 
-1.8-2
+2
 
-1.856
+1.85
 
--261
+6
+
+-2
+
+61
 
 1K
 
-1.96
+1.9
 
-C11
+6
 
-CC61 2.269
+C1 1
 
-2C1
+CC 61
 
-5.56
+2.2
 
-5.96
+69
 
--261
+2C
+
+1
+
+5.5
+
+6
+
+5.9
+
+6
+
+-2
+
+61
 
 
 ---
@@ -1546,15 +1564,9 @@ C
 
 ## TOP 20 Systeme - Al teg
 
-**A**
+**Al stnddntizl srestnl I aemob äßT-ärg**
 
-### l stn
-
-**ddn**
-
-### tizl srestnl I aemob äßT-ärg ßntel stnl I : 30u
-
-**0.6u2.025**
+**ßntel stnl I : 30u0.6u2.025**
 
 | **AI** | **Pgnxisszftwnge** | **äl rieteg** | **Al stnddntizl el 2uQu2.025** | **Al stnddntizl el 1uQu2.025** | **ßiffegel ö** |
 |---|---|---|---|---|---|
@@ -1587,7 +1599,7 @@ K6g **tzmeI z**
 
 ## l istel
 
-### eDcl hl ael u ßie 20 Systeme il I ieseg
+#### eDcl hl ael u ßie 20 Systeme il I ieseg
 
 ompuGr MmGu edical D tdGshanDl Ai . r
 
@@ -1613,9 +1625,9 @@ ompuGr MmGu edical D tdGshanDl Ai . r
 
 pdilsc44 rpxb H om0 &r 1
 
-**. nD**
+**. nDcaghFFe mit I el cpD**
 
-### caghFFe mit I el cpD 9.06-6
+9.06-6
 
 9.0KC9
 
@@ -1639,11 +1651,7 @@ K8.9
 
 KCC
 
-### cstel Al stn
-
-**ddn**
-
-### tizl sö 9.08C8
+#### cstel Al stnddntizl sö 9.08C8
 
 9.0K7.9
 
@@ -1667,9 +1675,9 @@ Kg7
 
 K9.2
 
-**n**
+**ncdel u**
 
-### cdel u 59.9
+59.9
 
 57C
 
@@ -1782,11 +1790,7 @@ w rpxb 7g-
 
 ## TOP 20 Systeme - Algi n
 
-**ä**
-
-### gsto
-
-**ßß**
+**ägstoßß**
 
 **Fotegsto**
 
@@ -1817,11 +1821,9 @@ w rpxb 7g-
 
 1gk
 
-**o**
+**otlDgscesto**
 
-### tlDgscesto gi 6
-
-** 50n0xn**
+#### gi 6 50n0xn
 
 **BölMzb**
 
@@ -1847,7 +1849,7 @@ w rpxb 7g-
 
 **YWL L BFä**
 
-### gi remh
+#### gi remh
 
 **2.02f**
 
@@ -1859,11 +1861,9 @@ w rpxb 7g-
 
 **. YA PCO**
 
-**d**
+**dzrnPsyI aloteb**
 
-## zrnPsyI aloteb
-
-### eI agzgregn Fle 20 Systeme lg i leseb
+#### eI agzgregn Fle 20 Systeme lg i leseb
 
 ompuGr Medicarl Dt sh n Ae. 9D
 
@@ -1897,7 +1897,7 @@ K5 Zlrirpls Dt
 
 xaK5 7D 1
 
-### poI arbzööe mlt i eg a: I asteg ä 0.06
+#### poI arbzööe mlt i eg a: I asteg ä 0.06
 
 2.0
 
@@ -1917,7 +1917,7 @@ CC 6I
 
 sh -1 1E
 
-### gsto 0.0-
+#### gsto 0.0-
 
 2.6
 
@@ -1939,13 +1939,9 @@ Ck 6g
 
 1g
 
-**ßßo**
+**ßßotlDgs3oaßegn**
 
-### tlDgs3
-
-**o**
-
-### aßegn 0
+0
 
 T
 
@@ -2005,7 +2001,9 @@ kI k
 
 Prlw 7bZ Dt sh
 
-**o** t l 5aipNN Dt sh n Ae. 9D
+**o**
+
+t l 5aipNN Dt sh n Ae. 9D
 
 Aet mGDreGm 8 l 5p4ax bl GiH4 xaK5 7D
 
@@ -2070,15 +2068,9 @@ k
 
 ## TOP 20 Systeme - Algi en
 
-**r**
+**rgstI aaI tlogsbestI gi äemd**
 
-### gstI a
-
-**a**
-
-### I tlogsbestI gi äemd c I tegstI gi 3
-
-** 60F**
+**c I tegstI gi 3 60F**
 
 | **ri** | **PnI flssowtQI ne** | **Dgbleten** | **rgstI aaI tlogeg 2F1 F2.02x** | **rgstI aaI tlogeg UF1 F2.02x** | **clwwenegz** |
 |---|---|---|---|---|---|
@@ -2109,7 +2101,7 @@ N0N **SDP Dmb. a**
 
 1I 1 **RBM MU PCO**
 
-### ß Dc T-Dbn
+#### ß Dc T-Dbn
 
 **0.5F2.02x**
 
@@ -2121,15 +2113,9 @@ N0N **SDP Dmb. a**
 
 **Y**
 
-**dn**
+**dnzte**
 
-## zte
-
-### eh
-
-**ug. gäegF**
-
-###  cle 20 Systeme lg i lesen
+#### ehug. gäegF cle 20 Systeme lg i lesen
 
 ompuGr MmGu edical D tdGshanD 85t . e 4t 4tx-4AsbcaHDGA
 
@@ -2163,7 +2149,7 @@ l Ai . r
 
 l Ai . r 1
 
-### pI huän. ööe mlt i eg u: h
+#### pI huän. ööe mlt i eg u: h
 
 cdK rp K 9C0
 
@@ -2189,11 +2175,7 @@ NCC 1I 1
 
 6.19
 
-### usteg rgstI a
-
-**a**
-
-### I tlogszI ua 9.16
+#### usteg rgstI aaI tlogszI ua 9.16
 
 I 96 0.19
 
@@ -2215,7 +2197,7 @@ NCC 1NT
 
 6.19
 
-### egF -69
+#### egF -69
 
 I 9 -11
 
@@ -2320,56 +2302,68 @@ C
 
 ---
 
-## TOP 20 Systeme - Algi n
+## TOP 20 Systeme - Algi ndnzte
 
-**dn**
+**rI stlaaltoi I sgestl I b äemdß Dc T-DgnehuI . I äeI F coe 20 Systeme oI boesen plhuän**
 
-## zte
-
-**r**
-
-### I stla
-
-**a**
-
-### ltoi I sgestl I b äemdß Dc T-Dgneh
-
-**uI . I äeI F**
-
-###  coe 20 Systeme oI boesen plhuän clteI stl I b3
-
-** 60F0.5F2.02x**
+**clteI stl I b3 60F0.5F2.02x**
 
 | **rb** | **Pnlfossi wtQlne** | **DI goeten** | **rI stlaaltoi I eI 2F1 F2.02x** | **rI stlaaltoi I eI UF1 F2.02x** | **cowweneI z** |
 |---|---|---|---|---|---|
 
-1.2C **ROArS**omp uGr MediceadlDeat mshnA
+1.2C **ROArS**
 
-1A0 **cl Bob**pi -ad oDs 85dic4x4disi mshn0.
+omp uGr MediceadlDeat mshn
 
-9b1 **Oö. s33A Algi nml I läemeI tsystem** Hi -at5.4 uahDc mshn0&
+A 1A0 **cl Bob**
 
-1.2b **PMOREc -i öeI C G-PMOREc** otlel4x4 Hi 5d4K7tae- mshn0b
+pi -ad oDs 85dic4x4disi mshn 0.
 
-1.0C **Reai s-Algi n-System**uGruMTI N 4DEdVaci w 4Dt5dlDe4 mshn0b
+9b1 **Oö. s33A Algi nml I läemeI tsystem** Hi -at5.4 uahDc mshn 0&
 
-b2k **oCmeb LoaaoI ä**HDceic mshn w oDg 3m0.0
+1.2b **PMOREc -i öeI C G-PMOREc**
 
-AC9 **KaoI osys Bol I i Bl Algi n**otlel4x4 Hi 5d4K7tae- mshn0.2
+otlel4x4 Hi 5d4K7tae- mshn 0b
 
-1Ak **NArRS**otlel4x4 Hi 5d4K7tae- mshnk
+1.0C **Reai s-Algi n-System**
 
-bk9 **AG**tah4Dt5dlDe NgFgcgt w oDg3mk
+uGruMTI N 4DEdVaci w 4Dt5dlDe4 mshn 0b
 
-A0.2 **Rebohla Owwohe**MI HGpyH yHZ6yedVlKft5eP 5e- Zicdclih mshn
+b2k **oCmeb LoaaoI ä**
 
-1A **YEGWS C SV rSSADL**I yLSN N/ MNNuGr mshn
+HDceic mshn w oDg 3m 0.0
 
-9.1& **S Algi nsi wtQlne**ulshaK7 mc5.88i Ny1
+AC9 **KaoI osys Bol I i Bl Algi n**
 
-A. 2 **KNR REcrSTDM LADK PMO** oDs 85mcD5.8 pi -lKat Hi 5d4K7tae- GmC 1
+otlel4x4 Hi 5d4K7tae- mshn 0.2
 
-### . ööe mot beI u: husteI r 9.0
+1Ak **NArRS**
+
+otlel4x4 Hi 5d4K7tae- mshn
+
+k
+
+bk9 **AG**
+
+tah4Dt5dlDe NgFgcgt w oDg3m
+
+k
+
+A0.2 **Rebohla Owwohe**
+
+MI HGpyH yHZ6yedVlKft5eP 5e- Zicdclih mshn 1A **YEGWS C SV rSSADL**
+
+I yLSN N/ MNNuGr mshn 9.1& **S Algi nsi wtQlne**
+
+ulshaK7 mc5.88i Ny 1
+
+A. 2 **KNR REcrSTDM LADK PMO**
+
+oDs 85mcD5.8 pi -lKat Hi 5d4K7tae- Gm
+
+C 1
+
+#### . ööe mot beI u: husteI r 9.0
 
 0.1
 
@@ -2385,11 +2379,7 @@ k 1
 
 1
 
-### I stla
-
-**a**
-
-### ltoi I szluaeI F 69
+#### I stlaaltoi I szluaeI F 69
 
 0
 
@@ -2457,26 +2447,32 @@ til4d5ePie mshn 7tae- Gm
 
 2
 
-b60
+b 60
 
-bb2
+b
 
-b60 9b60
+b 2
 
-9b60
+b 60
 
-9A0
+9
+
+b 60
+
+9
+
+b 60
+
+9
+
+A 0
 
 
 ---
 
 ## TOP 20 Systeme - A
 
-**r**
-
-### gstI a
-
-**a**
+**rgstI aa**
 
 **hI tegstI gß3**
 
@@ -2507,7 +2503,7 @@ b60 9b60
 
 1.0C
 
-### I tobgsäestI gß i emn
+#### I tobgsäestI gß i emn
 
 **60F0.5F**
 
@@ -2545,17 +2541,9 @@ b60 9b60
 
 **oue**
 
-**d**
+**dzte**
 
-## zte
-
-**D**
-
-###  chT-cädeu
-
-**. gl gi egF**
-
-###  hoe 20 Systeme o
+**D chT-cädeu. gl gi egF hoe 20 Systeme o**
 
 ompuGr MmGu edical D tdGsh
 
@@ -2579,7 +2567,7 @@ pdilsc44 rpxb H om Kr
 
 Vwt . ekt kt I gkAs3caFDGAy G
 
-### g ßoesed
+#### g ßoesed
 
 anDl Ai . r
 
@@ -2591,11 +2579,7 @@ anDl Ai . r
 
 Ai I dMsMcdx rpxb 1
 
-### pI u
-
-**. i d**
-
-### l ööe mo 9
+#### pI u. i dl ööe mo 9
 
 6
 
@@ -2615,39 +2599,31 @@ Ai I dMsMcdx rpxb 1
 
 0
 
-### t ßeg . : u
+#### t ßeg . : u. steg rgstI aaI tobgszI . aegF 9
 
-**. steg r**
+C 6
 
-### gstI a
+C 8
 
-**a**
+0
 
-### I to
+C 8
 
-**bgszI . a**
+C 8
 
-### egF 9C
+C 1
 
-6C
+C 1
 
-80
+C 1
 
-C 8C
+C 0
 
-8C
+C 0
 
-1C
+C 0
 
-1C
-
-1C
-
-0C
-
-0C
-
-0C
+C
 
 
 ---
@@ -2691,24 +2667,22 @@ cpcDcl A 7DdAidM 2
 
 0
 
-0C
+0
 
-0C
+C 0
 
-0C
+C 0
 
-0C
+C 0
+
+C
 
 
 ---
 
 ## TOP 20 Systeme - Al gi -nd
 
-**b**
-
-### gstäß
-
-**ß**
+**bgstäßß**
 
 **Fätegstägi x**
 
@@ -2737,17 +2711,9 @@ ac.
 
 1.22
 
-### ätd
+#### ätdDgscestägi oemhu . FT-. crep
 
-**D**
-
-### gscestägi oemh
-
-**u . FT-. crep**
-
-### f 0ö
-
-**0wö2.02Q**
+#### f 0ö0wö2.02Q
 
 **MEbFMCT**
 
@@ -2773,11 +2739,9 @@ ac.
 
 **I ßdgdpI egtre dßßdgo NOPFY**
 
-## ezer-I adrl rod
+## ezer-I adrl rode
 
-**e**
-
-### agl goegö Fde 20 Systeme d
+#### agl goegö Fde 20 Systeme d
 
 ompuoGr Medi
 
@@ -2801,15 +2765,7 @@ pGuDt ou oumPoI Nü&KÄT4I f 4I H mbxNx
 
 t bE7Tz8 t 7I I gb&e Medi 1
 
-### g i deser : äpaorl 33e mdt i eg a6pasteg bgstäß
-
-**ß**
-
-### ätd
-
-**D**
-
-### gs5äaßegö
+#### g i deser : äpaorl 33e mdt i eg a6pasteg bgstäßßätdDgs5äaßegö
 
 cC2 . 9
 
@@ -2939,21 +2895,37 @@ KgT7I H DM
 
 beb kx x Nb 2
 
-CC
+C
 
-CC
+C
 
-Ca
+C
 
-CC
+C
 
-CC
+C
 
-Ca
+a
 
-CC
+C
 
-CC
+C
+
+C
+
+C
+
+C
+
+a
+
+C
+
+C
+
+C
+
+C
 
 a
 
@@ -2976,9 +2948,9 @@ a
 
 ## TOP 20 Systeme - Aelg
 
-**z**
+**zi str IIrta**
 
-**i str IIrta** **hrtei stri ä6**
+**hrtei stri ä6**
 
 | **zä** | **PlrwassoQt1 rle** | **ci baetel** | **zi str IIrtaoi ei 2pUp2.02f** | **zi str IIrtaoi ei RpUp2.02f** | **haQQelei d** |
 |---|---|---|---|---|---|
@@ -3001,7 +2973,7 @@ T&0 . TK
 
 T9K 2.9K
 
-### oi sbestri ä ßemn
+#### oi sbestri ä ßemn
 
 **50p0xp**
 
@@ -3029,7 +3001,9 @@ T9K 2.9K
 
 **GIeQri t**
 
-**D** **2.02f**
+**D**
+
+**2.02f**
 
 **h**
 
@@ -3039,11 +3013,7 @@ T9K 2.9K
 
 ## ei nldte
 
-### chT-cbleu
-
-**. i Fi ßei p**
-
-###  ha
+#### chT-cbleu. i Fi ßei p ha
 
 CompuGroup Medical Deutschland AG
 
@@ -3065,7 +3035,7 @@ Dedalus 4ealthCare Gm54
 
 Z2med Gm54 x Cob 4Af PMED Gm54
 
-### e 20 Systeme a
+#### e 20 Systeme a
 
 HG
 
@@ -3075,9 +3045,9 @@ HG
 
 HG
 
-### i äa 1
+#### i äa 1
 
-### esel öru. ßlF: : e ma . 90
+#### esel öru. ßlF: : e ma . 90
 
 . &0
 
@@ -3101,11 +3071,7 @@ HG
 
 1T&
 
-### t äei . 3u
-
-**. stei z**
-
-### i str IIrtaoi sd . 99
+#### t äei . 3u. stei zi str IIrtaoi sd . 99
 
 . -2
 
@@ -3195,7 +3161,9 @@ medati88 Gm54 x Cob
 
 New Media Company Gm54 x Cob
 
-**r** medati88 Gm54 x Cob
+**r**
+
+medati88 Gm54 x Cob
 
 CGM Clinical Europe Gm54
 
@@ -3256,15 +3224,9 @@ K1 -K
 
 ## TOP 20 Systeme - Ael g
 
-**a**
+**aI stobbotzi I säestoI ß remDc huT-häg**
 
-### I sto
-
-**bbo**
-
-### tzi I säestoI ß remDc huT-häg uoteI stoI ß3
-
-** 60.05.202x**
+**uoteI stoI ß3 60.05.202x**
 
 | **aß** | **Pgofzssi wtQoge** | **hI äzeteg** | **aI stobbotzi I eI 2.1 .202x** | **aI stobbotzi I eI U.1 .202x** | **uzwwegeI :** |
 |---|---|---|---|---|---|
@@ -3301,17 +3263,9 @@ K1 -K
 
 1.61 **RBM MU PCO**
 
-## i ndz
+## i ndzgl greI
 
-**g**
-
-## l greI
-
-### en
-
-**dI l I reI . uz**
-
-### e 20 Systeme zI ßz
+#### endI l I reI . uze 20 Systeme zI ßz
 
 ompuGr MmGu edical D tdGshanDl Ai . r
 
@@ -3339,11 +3293,7 @@ ompuGr MmGu edical D tdGshanDl Ai . r
 
 ompuGr MmGu edical D tdGshanDl Ai . r 1
 
-### eseg Fo
-
-**n**
-
-### drgl ppe mzt ßeI dön 9.0
+#### eseg Fondrgl ppe mzt ßeI dön 9.0
 
 9C
 
@@ -3367,11 +3317,7 @@ cd4 rp 4x 1.7 1.1
 
 8.0
 
-### dsteI aI sto
-
-**bb**
-
-9.6
+#### dsteI aI stobb 9.6
 
 6K
 
@@ -3397,9 +3343,7 @@ cd4 rp 4x 1.7 1.1
 
 8.7
 
-**o**
-
-### tzi I s: odbeI .
+**otzi I s: odbeI .**
 
 -8
 
@@ -3493,73 +3437,97 @@ T 9
 
 6
 
-2C
+2
 
-2C
+C 2
 
-2C
+C 2
 
-TC 98
+C
 
-9C
+T
 
-6C
+C 9
+
+8
+
+9
+
+C 6
+
+C
 
 
 ---
 
-## TOP 20 Systeme - Al gien
+## TOP 20 Systeme - Al giendmezrI raed
 
-**d**
+**oastniintrbasäestnaz ßemDc huT-häde. Fal aßeap ure 20 Systeme ra zresed ön. Fßdl : : e mr**
 
-## mezrI raed
-
-**o**
-
-### astniintrbasäestnaz ßemDc huT-häd
-
-**e. Fal aßeap**
-
-###  ure 20 Systeme ra zresed ön
-
-**. Fßd**
-
-### l : : e mr unteastnaz6
-
-** 50p0xp2.02f**
+**unteastnaz6 50p0xp2.02f**
 
 | **oz** | **PdnwrssbQt1 nde** | **haäreted** | **oastniintrbaea 2pUp2.02f** | **oastniintrbaea RpUp2.02f** | **urQQedeaI** |
 |---|---|---|---|---|---|
 
-1.2C **meznBrs MoS**ompuGrM eodi1c
+1.2C **meznBrs MoS**
 
-1sl **ECG GLuoSThM KNhEY PMO** hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp be1t
+ompuGrM eodi 1c
 
-HHC **WoA-MhuoONOC**ompr 9u5rnx eodit H
+1sl **ECG GLuoSThM KNhEY PMO**
 
-1.2H **OMKoSV**8mpu-. M imu-54hu9m eodit 1
+hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp be 1t
 
-1tl **Gezr. ni OQQr. e**K7.8b0 T8 T8I DTx5Nr6E. x& . xp I m959rmd eodi tt
+HHC **WoA-MhuoONOC**
 
-tt 1 **T MKOGLu**hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp bec
+ompr 9u5rnx eodi
 
-1la **hNKoS**hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp bes
+t H 1.2H **OMKoSV**
 
-1.21 **ECG GR PMO**hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp beV
+8mpu-. M imu-54hu9m eodi
 
-1t C **wprsyaet**ompu5rww eodi k hng 3eC
+t 1 1tl **Gezr. ni OQQr. e**
 
-Hac **eMoS**8r r54. 9M5 FrpGm9u9dmr5. x&MMyM5mom eodi k hng 3e C
+K7.8b0 T8 T8I DTx5Nr6E. x& . xp I m959rmd eodi
 
-aHa **ShP hmäl intbdy Ende Gnanßemeat** Zbf ZT2
+tt
 
-1VC **MnzEeatde Kriiraß OPu**0 mMu-Gn 0 uxx4mro eodi2
+tt 1 **T MKOGLu**
 
-l C1 **L h**bduMnP5 T8I Df 9n&9uoom eodi2 1
+hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp be
 
-**t zea F3. Fstea o**
+c 1la **hNKoS**
 
-### astniintrbasI n
+hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp be
+
+s 1.21 **ECG GR PMO**
+
+hno A. e9n. A 0 mpr6u- 8m. 5M64-uxp be
+
+V 1t C **wprsyaet**
+
+ompu5rww eodi k hng 3e
+
+C
+
+Hac **eMoS**
+
+8r r54. 9M5 FrpGm9u9dmr5. x&MMyM5mom eodi k hng 3e C
+
+aHa **ShP hmäl intbdy Ende Gnanßemeat** Zbf ZT 2
+
+1VC **MnzEeatde Kriiraß OPu**
+
+0 mMu-Gn 0 uxx4mro eodi
+
+2
+
+l C1 **L h**
+
+bduMnP5 T8I Df 9n&9uoom eodi 2
+
+1
+
+**t zea F3. Fstea oastniintrbasI n**
 
 al 1t
 
@@ -3581,7 +3549,7 @@ C 2
 
 C 2
 
-### Fieap
+#### Fieap
 
 Dt
 
@@ -3645,19 +3613,31 @@ uxp be . 5rnxM eodi
 
 m eodi 2
 
-HH
+H
 
-HH
+H
 
-HH
+H
 
-aa
+H
 
-aa
+H
 
-a1
+H
 
-aa
+a
+
+a
+
+a
+
+a
+
+a 1
+
+a
+
+a
 
 l
 
@@ -3678,13 +3658,9 @@ l
 
 ## TOP 20 Systeme - OA
 
-**r**
+**rzstI aaI togzsbestI zd äemn**
 
-### zstI a
-
-**a**
-
-**I togzsbestI zd äemn** **c I tezstI zd: 30.06.2025**
+**c I tezstI zd: 30.06.2025**
 
 | **rd** | **PAI xossgftwI Ae** | **DzboeteA** | **rzstI aaI togzez 2.Q.2025** | **rzstI aaI togzez 1.Q.2025** | **coffeAezö** |
 |---|---|---|---|---|---|
@@ -3697,7 +3673,7 @@ l
 
 ## tl gi n
 
-### ß Dc T-DbA 1TK **OECrSK**
+#### ß Dc T-DbA 1TK **OECrSK**
 
 1.0C **BedohI a Offohe**
 
@@ -3725,11 +3701,7 @@ K9.2 **T2med**
 
 ## dez
 
-### eh
-
-**l zuzäez. co**
-
-### e 20 Systeme oz do
+#### ehl zuzäez. coe 20 Systeme oz do
 
 ompuGr MmGu edical D tdGshanDl Ai . r
 
@@ -3755,7 +3727,7 @@ y. Z yE
 
 f 1pdi rp 4x b omH &r 1
 
-### eseA FI hl äAui i e mot dez l ph 9.09
+#### eseA FI hl äAui i e mot dez l ph 9.09
 
 KC7 6KC
 
@@ -3777,11 +3749,7 @@ cd4 rp 4x 1.7T 1.69
 
 0C2
 
-### l stez rzstI a
-
-**a**
-
-### I to 9.61
+#### l stez rzstI aaI to 9.61
 
 K0.2 6.67
 
@@ -3805,7 +3773,7 @@ K0.2 6.67
 
 0C2
 
-### gzsöI l aez.
+#### gzsöI l aez.
 
 -06
 
@@ -3861,7 +3829,9 @@ t GMcl dr
 
 NES/ y . r
 
-**I**pdilsc55 rp 4x b om
+**I**
+
+pdilsc55 rp 4x b om
 
 y6 ZMl 5champuGsdM rp 4x ü
 
@@ -3916,7 +3886,9 @@ C 0
 
 ### TOP 20 Systeme - PA
 
-**zdstAiiAtrgdsI estAda nemo** **3.0u0.6u2.025**
+**zdstAiiAtrgdsI estAda nemo**
+
+**3.0u0.6u2.025**
 
 | **za** | **PDAxrssgftwADe** | **ädI reteD** | **zdstAiiAtrgded 2uQu2.025** | **zdstAiiAtrgded 1uQu2.025** | **ßrffeDedö** |
 |---|---|---|---|---|---|
@@ -4148,7 +4120,9 @@ F
 
 ### TOP 20 Systeme - PA
 
-**ndstlzzltirdsI estlda oemb** **Dltedstlda3 60.05.202x**
+**ndstlzzltirdsI estlda oemb**
+
+**Dltedstlda3 60.05.202x**
 
 | **na** | **PAlfissrwtQl Ae** | **ßdI ieteA** | **ndstlzzltirded 2.1 .202x** | **ndstlzzltirded U.1 .202x** | **DiwweAed:** |
 |---|---|---|---|---|---|
@@ -4253,29 +4227,51 @@ K2
 
 **dstlzzltirds: lhzed.**
 
-2.2.01.9
+2.2.
 
-1&K0
+01.9
 
-1.7&0H
+1&K
 
-1.6H02
+0
 
-1.2&0T
+1.7&
 
-1. 72
+0H
 
-H1
+1.6H
 
-HK 7&02
+02
 
-7.60K
+1.2&
 
-6T0T
+0T
 
-6.202
+1. 7
 
-9T02
+2
+
+H 1
+
+HK 7&
+
+02
+
+7.6
+
+0K
+
+6T
+
+0T
+
+6.2
+
+02
+
+9T
+
+02
 
 K2
 
@@ -4303,7 +4299,7 @@ fitron Gm85 yechnoloFiesN
 
 APL 0L ieFand 0 Medx So/tgare kntgic3lunF und Eertrie8 Gm85
 
-üolso/t Gm85
+üollso/t Gm85
 
 PkGA kle3troni3 Gm85
 
@@ -4346,9 +4342,7 @@ TT 2T
 
 ## TOP 20 Systeme - PsyA
 
-### Irstn
-
-**aa**
+#### Irstnaa
 
 **unterstn**
 
@@ -4373,9 +4367,7 @@ D1D
 
 asC 1AA
 
-**n**
-
-### togrsbestnrä ßemDc huT-hbieA
+**ntogrsbestnrä ßemDc huT-hbieA**
 
 **rä: 30.06.2025**
 
@@ -4427,11 +4419,7 @@ Z56bw edio f 7yPwb3
 
 L67.0 mMS edio
 
-### e 20 Systeme
-
-**o**
-
-0 edio T I bl Ne
+#### e 20 Systeme o 0 edio T I bl Ne
 
 edio
 
@@ -4439,11 +4427,7 @@ edio
 
 bk57.909 7d 7 1
 
-### r äoesei Fn
-
-**A**
-
-### l ßizdde mo
+#### r äoesei FnAl ßizdde mo
 
 calDt 1
 
@@ -4465,9 +4449,7 @@ cDt 2D
 
 Cs
 
-### t äer l pAl ster Irstn
-
-**a**
+#### t äer l pAl ster Irstna
 
 calDDs
 
@@ -4491,13 +4473,7 @@ caa
 
 Ct
 
-**an**
-
-### togrsö
-
-**n**
-
-### l aer .
+**antogrsönl aer .**
 
 hct
 
@@ -4636,7 +4612,9 @@ hn
 
 ### TOP 20 Systeme - Algind
 
-**Irstlddltinrsaestlrg zemob äßT-äaD** **6.0.05.202x**
+**Irstlddltinrsaestlrg zemob äßT-äaD**
+
+**6.0.05.202x**
 
 | **Ig** | **PDlfissnwtQl De** | **äraieteD** | **Irstlddltinrer 2.1 .202x** | **Irstlddltinrer U.1 .202x** | **ßiwweDer :** |
 |---|---|---|---|---|---|
@@ -4701,13 +4679,11 @@ hnr8.5M eodi 7Asu5p be
 
 7Asu5p be
 
-7A5.8s8Krm
+7A5.8s8KrmM eodi V . 8w
 
-r8.5MKmMm 7Asu5p be
+r8.5MKmMmssM 7Asu5p be
 
-M eodi V . 8w
-
-sM 1
+1
 
 **FlchzDuppe mit ger höchster Irstld**
 
@@ -4747,31 +4723,55 @@ Da 4C
 
 **dltinrs: lhder . ßlterstlrg3**
 
-1all
+1al
 
-cl C0c
+l
 
-lac 6l1
+cl C 0c
 
-2la
+la
 
-DCc
+c 6l
 
-DD0c
+1
 
-D10c
+2l
 
-DD0D 4.60c
+a
 
-4a01
+DC
 
-4c04
+c
 
-1D4
+DD 0c
 
-1l01
+D1 0c
 
-1.20c
+DD 0D
+
+4.6
+
+0c
+
+4a
+
+01
+
+4c
+
+04
+
+1D
+
+4
+
+1l
+
+01
+
+1.2
+
+0c
 
 
 ---
@@ -4828,7 +4828,9 @@ a 0c
 
 ### TOP 20 Systeme - SA
 
-**rl stI aaI tgAl soestI l b i emäß Dc T-Dod** **6.0F0.5F2.02x**
+**rl stI aaI tgAl soestI l b i emäß Dc T-Dod**
+
+**6.0F0.5F2.02x**
 
 | **rb** | **PdI fgssAwtQI de** | **Dl ogeted** | **rl stI aaI tgAl el 2F1 F2.02x** | **rl stI aaI tgAl el UF1 F2.02x** | **cgwwedel z** |
 |---|---|---|---|---|---|
@@ -5023,7 +5025,7 @@ x
 
 mr Äzk u0
 
-I tHI /i 0 6 9-
+I ttHI /i 0 6 9-
 
 GAaA I /A. u0 6 Anbiaff 0 6 9- N KI P
 
@@ -5072,15 +5074,9 @@ ex 2
 
 ## TOP 20 Systeme - Algigned
 
-**z**
+**zdstriirtIgdsaestrdo nembä ßDT-ßalechdudned. DIe 20 Systeme Id oIesel Frchnluppe mIt oed höchsted z**
 
-### dstriirtIgdsaestrdo nemb
-
-**ä ßDT-ßalechdudned. DIe 20 Systeme Id oIesel Frchnluppe mIt oed höchsted z**
-
-### Drtedstrdo3
-
-** 60.05.202x**
+**Drtedstrdo3 60.05.202x**
 
 | **zo** | **Plrf IssgwtQrle** | **ßdaIetel** | **zdstriirtIgded 2.1 .202x** | **zdstriirtIgded U.1 .202x** | **DIwweled:** |
 |---|---|---|---|---|---|
@@ -5169,7 +5165,7 @@ cdx rpxb 8.19 8.85
 
 6k
 
-### dstriirtIgds: rhied.
+#### dstriirtIgds: rhied.
 
 1.06
 

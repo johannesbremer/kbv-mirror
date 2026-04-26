@@ -1,8 +1,12 @@
-Krankenkasse bzw. Kostenträger Gebühr
+Krankenkasse bzw. Kostenträger
+
+Gebühr
 
 pfl.
 
-Name, Vorname des Versicherten Gebühr frei
+Name, Vorname des Versicherten
+
+Gebühr frei
 
 Unfall/ Unfall- folgen
 
@@ -133,12 +137,14 @@ Datum Maßnahme(n)
 
 **20**
 
-Behandlungsabbruch am: Datum
+Behandlungsabbruch am:
+
+Datum
 
 Dieses Formular bitte nach Beendigung der Behandlung der jeweiligen Krankenkasse zusenden.
 
 Patienten-Unterschrift
 
-### Freigabe 05.11.2014
+#### Freigabe 05.11.2014
 
 Stempel und Unterschrift des Leistungserbringers

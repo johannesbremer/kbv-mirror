@@ -20,8 +20,14 @@ Die oben bezeichnete Versicherte befand sich mindestens in der
 
 geb. am
 
-**Bescheinigung 9** **einer Fehlgeburt**
+**Bescheinigung**
+
+**9**
+
+**einer Fehlgeburt**
 
 Vertragsarztstempel / ärztliche Unterschrift
 
-PRF.NR.  Muster 9b /E (1.2026)
+PRF.NR.
+
+Muster 9b /E (1.2026)

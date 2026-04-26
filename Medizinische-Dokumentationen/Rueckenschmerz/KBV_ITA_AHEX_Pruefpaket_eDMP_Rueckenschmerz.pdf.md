@@ -13,37 +13,142 @@
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
-
 ---
 
 ## INHALT
 
-**1** **ALLGEMEINES 4**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 4  1.2 Zertifizierungsablauf 4  1.3 Zertifizierungsportal 5  1.4 Zertifizierungsdokumente 5  1.5 Prüfunterlagen 5  1.6 Prüfvorgaben 7  Schnittstellenversionen1.6.1 7  Datumseingaben 1.6.27  1.6.3 Prüfstammdaten 7  Versichertendaten 1.6.48  1.6.5 Praxisdaten/ Arztstempel 8  1.6.6 Krankenhausdaten 9  Prüfnummer 1.6.79  1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9  1.6.9 Auflistung der Prüffälle 9
+**4**
 
-**2** **PRÜFFÄLLE 10**
+1.1 Rechtsgrundlage
 
-2.1 Prüffälle Dokumentation 10  Prüffall 3511 2.1.110  Prüffall 3512 2.1.213  2.1.3 Prüffall 3520 15  2.2 Prüffall Systemreaktion 18  Prüffall 3514 2.2.118  2.3 Weitere Prüffälle zum Anforderungskatalog 22  Prüffall 3530 2.3.122  2.3.2 Prüffall 3540 24
+4
 
-**3** **TESTDATENVALIDIERUNG** **25**
+1.2 Zertifizierungsablauf
 
-3.1 Prüffall Testdatenvalidierung 26  Prüffall TDV3518 3.1.126
+4
+
+1.3 Zertifizierungsportal
+
+5
+
+1.4 Zertifizierungsdokumente
+
+5
+
+1.5 Prüfunterlagen
+
+5
+
+1.6 Prüfvorgaben
+
+7
+
+Schnittstellenversionen 1.6.1
+
+7
+
+Datumseingaben 1.6.2
+
+7
+
+1.6.3 Prüfstammdaten
+
+7
+
+Versichertendaten 1.6.4
+
+8
+
+1.6.5 Praxisdaten/ Arztstempel
+
+8
+
+1.6.6 Krankenhausdaten
+
+9
+
+Prüfnummer 1.6.7
+
+9
+
+1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
+
+1.6.9 Auflistung der Prüffälle 9
+
+**2** **PRÜFFÄLLE**
+
+**10**
+
+2.1 Prüffälle Dokumentation
+
+10
+
+Prüffall 3511 2.1.1
+
+10
+
+Prüffall 3512 2.1.2
+
+13
+
+2.1.3 Prüffall 3520
+
+15
+
+2.2 Prüffall Systemreaktion
+
+18
+
+Prüffall 3514 2.2.1
+
+18
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 22
+
+Prüffall 3530 2.3.1
+
+22
+
+2.3.2 Prüffall 3540
+
+24
+
+**3** **TESTDATENVALIDIERUNG**
+
+**25**
+
+3.1 Prüffall Testdatenvalidierung 26
+
+Prüffall TDV3518 3.1.1
+
+26
 
 | **4** | **ANHANG** |  | **29** |
 |---|---|---|---|
 | 4.1 | Prüffall | 10 – Ersatzverfahren | 29 |
 
-**5** **REFERENZIERTE DOKUMENTE 30**
+**5** **REFERENZIERTE DOKUMENTE**
 
-Prüffall 10 – Ersatzverfahren 3 / 31. März 2026
+**30**
+
+3 / 31. März 2026
+
+Prüffall 10 – Ersatzverfahren
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  Abbildung 2: Exemplarische Struktur der  Abbildung 3: Testdatenvalidierung  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+Abbildung 2: Exemplarische Struktur der
+
+Abbildung 3: Testdatenvalidierung
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
@@ -55,15 +160,19 @@ DOKUMENTENHISTORIE
 | 1.00 | 15.02.2021 | KBV | Datumsanpassungen der  Aufnahme eines Testfalls für  Neuer Prüffall 3540 zur  Redaktionelle Bearbeitung von | Datumsanpassungen Schnittstellenversion   Anpassung an | Alle         24     22 |
 | 1.00 | 15.02.2021 | KBV |  | Initiale Erstellung | alle |
 
-**Archivdatei** mit den Prüfunterlagen 6  6  25  25
+**Archivdatei** mit den Prüfunterlagen 6
+
+6
+
+25
+
+25
 
 Schnittstellenversionen Prüffall 3530 Prüffälle an COPD- 4.06 Prüffälle. die Teilnahmeerklärung Prüffälle. die Testdatenvalidierung zur Schnittstellenversion 1.00 Umsetzung der übergreifenden Teilnahmeerklärung. Prüffall 3530 Dokumenterstellung 1.02 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden wegen der Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog.
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Chronischer  Rückenschmerz „CR“.
 
@@ -71,17 +180,31 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung
 
-**1.1** **RECHTSGRUNDLAGE**
+weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+## 1.1 RECHTSGRUNDLAGE
 
 Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (**[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)**) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  ssteller 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (**[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)**) einreichen. Erst nach Erhalt der
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
+
+- ssteller
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
@@ -90,15 +213,19 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
-1.3 ZERTIFIZIERUNGSPORTAL
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+
+Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -110,72 +237,136 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-1.4 ZERTIFIZIERUNGSDOKUMENTE
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ita-update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Rerenzierte Dokumente.
 
-1.5 PRÜFUNTERLAGEN
+## 1.5 PRÜFUNTERLAGEN
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-CR-Unterlagen bestehend aus XML-Dokumenten:  Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
+- CR-Unterlagen bestehend aus XML-Dokumenten:
+
+Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP.
 
 
 ---
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  3520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-### Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:
+- **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
-Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet. [PrüffallNr.] _[lfdNr.] .*  12.3
+Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 3540) müssen in
 
-Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf
+einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-**1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild- bzw. Videoformat**
+- [PrüffallNr.] _[lfdNr.] .*  1 - 2.3
 
-Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP -Archiv zu
+- Teilnahmeerklärung (Prüffall 3540): TE_EWE_CR.pdf
 
-sowie die Teilnahmeerklärung und
+**1 Nummer des Prüffalls**
 
-übermitteln. Die CR-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:  Zert_107_SystemID.zip
+**2 Laufende Nummer**
+
+**3 Gängiges Bild- bzw. Videoformat**
+
+- Alle Prüfunterlagen (CR-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP -Archiv zu
+
+- sowie die Teilnahmeerklärung und
+
+- übermitteln. Die CR-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner
+
+- „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots
+
+- wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden: - Zert_107_SystemID.zip
 
 Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Das ZIP-Archiv kann je nach Komponentenzulassung (CR und/oder COPD) unterschiedliche Strukturen  aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von Chronischer Rückenschmerz) dargestellt.
 
-Name             Typ  Dokumentation       Dateiordner
+Name             Typ
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung   Name             Typ  391234511_20261031001010_1_CR_102.zip.XKM XKM-Datei  Chronischer_Rueckenschmerz     Dateiordner  Dokumentation        Dateiordner
+Dokumentation       Dateiordner
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+Name             Typ
+
+391234511_20261031001010_1_CR_102.zip.XKM XKM-Datei
+
+Chronischer_Rueckenschmerz     Dateiordner
+
+Dokumentation        Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
 
 ---
 
-1.6 PRÜFVORGABEN
+## 1.6 PRÜFVORGABEN
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
-1.6.1 Schnittstellenversionen
+### 1.6.1 Schnittstellenversionen
 
-Indikation Chronischer_Rueckenschmerz :  Ab dem 01.04.2023 muss die Schnittstellenversion 1.01 verwendet werden.  Ab dem 01.10.2026 muss die Schnittstellenversion 1.02 verwendet werden.   Indikation COPD:  Ab dem 01.04.2024 muss die Schnittstellenversion 4.06 verwendet werden.  Ab dem 01.10.2026 muss die Schnittstellenversion 4.07 verwendet werden.
+- Indikation Chronischer_Rueckenschmerz :
 
-1.6.2 Datumseingaben
+- Ab dem 01.04.2023 muss die Schnittstellenversion 1.01 verwendet werden.
 
-Gültigkeitsdatum: Das „letzte Datum“, ab dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.04.202401.10.2026   Erstdokumentationsdatum: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum ist der 15.10.2024 Ausnahme Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.   Folgedokumentationsdatum: Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum  Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.   Bei Nachlieferungen bzw . Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei  Erstlieferung 1.6.3 Prüfstammdaten
+Ab dem 01.10.2026 muss die Schnittstellenversion 1.02 verwendet werden.
+
+- Indikation COPD:
+
+- Ab dem 01.04.2024 muss die Schnittstellenversion 4.06 verwendet werden.
+
+Ab dem 01.10.2026 muss die Schnittstellenversion 4.07 verwendet werden.
+
+### 1.6.2 Datumseingaben
+
+- Gültigkeitsdatum: Das „letzte Datum“, ab dem alle in diesem Prüfpaket verwendeten Schnittstellen
+
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.04.202401.10.2026 -
+
+- Erstdokumentationsdatum: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.
+
+- Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum ist der 15.10.2024 - Ausnahme
+
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.
+
+-
+
+- Folgedokumentationsdatum: Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+
+- sechs Monate nach dem Erstdokumentationsdatum
+
+- Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
+
+- „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+
+- Bei Nachlieferungen bzw . Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei - Erstlieferung
+
+### 1.6.3 Prüfstammdaten
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 
 ---
 
-1.6.4 Versichertendaten
+### 1.6.4 Versichertendaten
 
 Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten EF.GVD = geschützte Versichertendaten 1.6.5 Praxisdaten/ Arztstempel
+- EF.VD = allgemeine Versicherungsdaten
+
+- EF.PD = persönliche Versichertendaten
+
+- EF.GVD = geschützte Versichertendaten
+
+### 1.6.5 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -191,13 +382,17 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
+-
+
+-
+
 erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 Bezeichnung lange Arztnummer (LANR)
 
 ---
 
-1.6.6 Krankenhausdaten
+### 1.6.6 Krankenhausdaten
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
@@ -211,19 +406,17 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-1.6.7 Prüfnummer
+### 1.6.7 Prüfnummer
 
-Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
+Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - CR = X/107/2202/36/000
 
-CR = X/107/2202/36/000
+- COPD = X/105/2202/36/000
 
-COPD = X/105/2202/36/000
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA)
+### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
 Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
 
-1.6.9 Auflistung der Prüffälle
+### 1.6.9 Auflistung der Prüffälle
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -239,11 +432,9 @@ IK ID
 
 ---
 
-2
+# 2 PRÜFFÄLLE
 
-## PRÜFFÄLLE
-
-**2.1** **PRÜFFÄLLE DOKUMENTATION**
+## 2.1 PRÜFFÄLLE DOKUMENTATION
 
 **2.1.1** **Prüffall 3511**
 
@@ -255,9 +446,17 @@ IK ID
 | Prüfunterlagen | › |
 | Hinweis | › |
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  **1.** **Versichertendaten:**  Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern.
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**2.** **Bestimmung des Schweregrads nach von Korff:**  Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens  erfassen und den Schweregrad berechnen.
+- **1.** **Versichertendaten:**
+
+Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern.
+
+- **2.** **Bestimmung des Schweregrads nach von Korff:**
+
+Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens
+
+erfassen und den Schweregrad berechnen.
 
 | CPG-FRAGEBOGEN |  | |
 |---|---|---|
@@ -273,7 +472,6 @@ IK ID
 
 Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen Bei der Erfassung des Prüffalls soll Prüffall 3530, Szenario vier erfasst werden. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
 
-
 ---
 
 | Datum der Erstellung |  | |
@@ -288,7 +486,7 @@ Anlage einer Erst- und einer Verlaufsdokumentation CR-Dokumentationsunterlagen B
 | Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
 | Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
 
-3.
+- 3.
 
 FRAGEBOGEN den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall oder 0 = keine Erstdokumentation 3511 06.04.2024  15.mm.jjjj chronischer Männlich 2,01 m 1.06 kg 1.45 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung,  Quartalsweise 06.04.2024  15.mm.jjjj Verlaufs dokumentation 3511 06.07.2024  15.mm.jjjj chronischer Männlich 2,01 m 9.6 kg Erkrankungen Jedes zweite Quartal 06.07.2024  15.mm.jjjj
 
@@ -334,7 +532,9 @@ FRAGEBOGEN den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Fam
 | Erreichung mindestens eines der individuell |  | Mindestens ein Ziel |
 | Beendigung der DMP-Teilnahme vereinbart |  | Nein |
 
-PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht / Version: 1.03 / 31. März 2026
+/ Version: 1.03 / 31. März 2026
+
+PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht
 
 
 ---
@@ -349,7 +549,11 @@ PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentat
 |  | › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendaten: Die Versichertendaten von   2. Anlegen einer Erstund einer Verlaufsdokumentation
+Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
+
+Die Versichertendaten von
+
+- 2. Anlegen einer Erstund einer Verlaufsdokumentation
 
 | DATEN | | |
 |---|---|---|
@@ -370,6 +574,8 @@ Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendate
 | Vom Patienten gewünschte | Ernährungsberatung,  Körperliches Training | Körperliches Training |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.04.2024  15.mm.jjjj | 06.07.2024  15.mm.jjjj |
+
+-
 
 Monika Kleinjung (XML_08) einlesen und speichern.
 
@@ -410,7 +616,11 @@ PEZIFISCHE DATEN kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentat
 | Prüfunterlagen | › › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendaten:  Die Versichertendaten von Kai von und zu Oldenburg (Siehe Anhang 4.1) im Ersatzverfahren erfassen.   2. Anlegen einer Erstund einer Verlaufsdokumentation
+Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
+
+Die Versichertendaten von Kai von und zu Oldenburg (Siehe Anhang 4.1) im Ersatzverfahren erfassen.
+
+- 2. Anlegen einer Erstund einer Verlaufsdokumentation
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -431,6 +641,8 @@ Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendate
 |  |  |  |
 |  |  |  |
 |  |  | Raucher |
+
+-
 
 ID Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung CR-Dokumentationsunterlagen zusätzlich COPD-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikation COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine COPD-Zulassung besitzen, dann sind nur die CR-Daten zu übermitteln DATEN und Befunddaten Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD
 
@@ -534,9 +746,7 @@ einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation)
 
 ---
 
-2.2 PRÜFFALL SYSTEMREAKTION
-
-2.2.1 Prüffall 3514
+## 2.2 PRÜFFALL SYSTEMREAKTION 2.2.1 Prüffall 3514
 
 |  |  |
 |---|---|
@@ -546,9 +756,11 @@ einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation)
 | Prüfunterlagen | ›  › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar.
+Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
 
-2. Anlegen einer Erstdokumentation:
+Die Personalien zu dem Testfall sind frei wählbar.
+
+- 2. Anlegen einer Erstdokumentation:
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -568,6 +780,8 @@ Aktionen, die durch den Antragsteller durchgeführt werden:  1. Versichertendate
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte Informationsangebote der | Körperliches Training |  |
 | Dokumentationsintervall | Monatsweise | Nr. 2 |
+
+-
 
 ID Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patientin ist mindestens 18 Jahre alt Dokumentieren Sie durch Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Video(s) die Eingaben nach einer möglichen Krankenkasse DATEN und Befunddaten Rückenschmerz
 
@@ -591,13 +805,13 @@ ID Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient oder Patien
 | Erreichung mindestens eines der individuell vereinbarten | Mindestens ein Ziel | Nr. 9 |
 | Beendigung der DMP-Teilnahme vereinbart | Nein | Nr. 10 |
 
-**3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 
 INDIKATIONS kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation erreicht
 
 ---
 
-**4.** **Anlegen einer Verlaufsdokumentation**
+- **4.** **Anlegen einer Verlaufsdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -665,7 +879,7 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 
 ---
 
-**2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
+## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
 
 **2.3.1** **Prüffall 3530**
 
@@ -693,7 +907,6 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 
 (KBV_ITA_VGEX_Anforderungskatalog_eDMP Zeigen Sie, dass das System dem Anwender den vollständigen Ausdruck des Chronic Pain Grade (CPG) - Fragebogens einer  ermöglicht gemäß Anforderung KP1-75 Erfassen Sie die Antworten des CPG-Fragebogens des Prüffalls 3511. Zeigen Sie, dass das System die Eingaben des CPG-Fragebogens auf Plausibilität aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff ( KP1-76, Akz. 1)  ermittelt, dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-76 , Punkt 4 anzeigt, den Anwender mit dem vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Dieses Szenario ist im Rahmen einer Verlaufsdokumentation durchzuführen. Zeigen Sie, dass das System bei der Auswahl der beiden Parameter  „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht -Opioidanalgetika“   „Beendigung der DMP-Teilnahme vereinbart“
 
-
 ---
 
 |  |
@@ -710,7 +923,6 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 
 Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  durchzuführen. Zeigen Sie, dass das System nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1 -76 das freiwillige Ausfüllen des CPG-Fragebogens möglich ist (KP1-77, Akz. 1),  dem Anwender der Schweregrad nach von Korff gemäß Anforderung KP1 -77, Akz. 2 anzeigt wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
-
 ---
 
 2.3.2 Prüffall 3540
@@ -723,9 +935,17 @@ Dieses Szenario ist mit den Daten der Verlaufsdokumentation von Prüffall 3511  
 | Prüfunterlagen | › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden:
+Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten
 
-1. Versichertendaten  Lija Malta (XML_36)Die Versichertendaten von  einlesen und speichern.   2. Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle) gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+Lija Malta (XML_36)
+
+Die Versichertendaten von
+
+einlesen und speichern.
+
+- 2. Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle) gemäß Kapitel 3 des
+
+- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -736,29 +956,42 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 
 ID Prüffall Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP PDF-Datei „TE_EWE_CR.pdf“ der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
-
 ---
 
-3
-
-## TESTDATENVALIDIERUNG
+# 3 TESTDATENVALIDIERUNG
 
 Alle in Kapitel 2.1 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 3520“.
 
 Zusätzlich kann optional auch der Prüffall TDV3518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die vorherige Schnittstellenversion 1.01.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
+
+demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
+
+Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
--Archives. Beachten Sie, dass der Dateinamen Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „**Test**_107“ beginnen muss, sonst schlägt die Validierung fehl.
+-Archives. Beachten Sie, dass der Dateinamen
 
-Test_107_SystemID.zip          Dateiordner  Dokumentation  ……..391234511_20251031101010_1_CR_101.idx  IDX-Datei  ……..391234511_20251031101010_1_CR_101.zip.XKM XKM-Datei   Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „**Test**_107“ beginnen muss, sonst schlägt die Validierung fehl.
+
+Test_107_SystemID.zip
+
+Dateiordner
+
+Dokumentation
+
+……..391234511_20251031101010_1_CR_101.idx  IDX-Datei
+
+……..391234511_20251031101010_1_CR_101.zip.XKM XKM-Datei
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 
 ---
 
-3.1 PRÜFFALL TESTDATENVALIDIERUNG 3.1.1  Prüffall TDV3518
+## 3.1 PRÜFFALL TESTDATENVALIDIERUNG 3.1.1  Prüffall TDV3518
 
 |  |  |
 |---|---|
@@ -768,7 +1001,7 @@ Test_107_SystemID.zip          Dateiordner  Dokumentation  ……..391234511_202
 |  | › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden: 1.
+Aktionen, die durch den Antragsteller durchgeführt werden: - 1.
 
 |  |  | |
 |---|---|---|
@@ -782,10 +1015,9 @@ Aktionen, die durch den Antragsteller durchgeführt werden: 1.
 |  |  |  |
 | TDV3518 |  |  |
 
-2.
+- 2.
 
 ID Anlage einer Erstdokumentation mit der Schnittstellenversion 1.01 Voraussetzung Prüfunterlagen CR-Dokumentationsunterlagen Versichertendaten Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. CPG - FRAGEBOGEN Frage 1: Wie würden Sie Ihre Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? Frage 2: Wie würden Sie Ihre in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
-
 
 ---
 
@@ -801,7 +1033,7 @@ ID Anlage einer Erstdokumentation mit der Schnittstellenversion 1.01 Voraussetzu
 | Frage 6: In welchem Maße haben Rückenschmerzen in | 6 | 6 |
 | Frage 7: In welchem Maße haben Rückenschmerzen in | 5 | 2 |
 
-3.
+- 3.
 
 | INDIKATIONSÜBERGREIFENDE DATEN | |
 |---|---|
@@ -879,13 +1111,13 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 
 ---
 
-4
+# 4
 
-**4.1**
+## 4.1
 
-## ANHANG
+# ANHANG
 
-**PRÜFFALL 10 – ERSATZVERFAHREN**
+## PRÜFFALL 10 – ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -915,9 +1147,7 @@ teilgenommen Dokumentation) drei Monaten Aktivitäten (Ankleiden, Waschen, Essen
 
 ---
 
-5
-
-REFERENZIERTE DOKUMENTE
+5 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -941,9 +1171,13 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 
-4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50  5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
-Testschlüssel Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD -Schnittstellenbeschreibung Versorgung Stammdateien zu verwenden. (Datenannahmestellen Stammdatei)/ Version: 1.03 / 31. März 2026
+5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+
+/ Version: 1.03 / 31. März 2026
+
+Testschlüssel Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD -Schnittstellenbeschreibung Versorgung Stammdateien zu verwenden. (Datenannahmestellen Stammdatei)
 
 
 ---

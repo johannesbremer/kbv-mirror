@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_KTS_KTABRECHNUNGSBEREICH
+#### S_KTS_KTABRECHNUNGSBEREICH
 
 **OID:**
 

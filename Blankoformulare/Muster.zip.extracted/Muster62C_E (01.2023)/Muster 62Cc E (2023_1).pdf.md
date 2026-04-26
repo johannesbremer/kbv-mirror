@@ -10,7 +10,9 @@ Betriebsstätten-Nr. Arzt-Nr. Datum
 
 ### Therapieziele
 
-MRE-Besiedelung nein ja, folgender Keim
+MRE-Besiedelung nein
+
+ja, folgender Keim
 
 Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahmen der AKI
 
@@ -20,21 +22,35 @@ Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahme
 
 **Tracheostoma/Trachealkanülenmanagement**
 
-TracheotomieTrachealkanüle
+Tracheotomie
 
-chirurgisch Herstellerdilatativ
+Trachealkanüle
+
+chirurgisch Hersteller
+
+dilatativ
 
 **Sekretmanagement**
 
 Absauggerät
 
-Häufigkeit  neinjapro Tag
+Häufigkeit
+
+nein
+
+ja
+
+pro Tag
 
 **Dysphagiemanagement**
 
-**Bedienung und Überwachung des Beatmungsgerätes** Beatmungsgeräteinstellungen
+**Bedienung und Überwachung des Beatmungsgerätes**
 
-ja**Sauerstoffinsufflation**
+Beatmungsgeräteinstellungen
+
+ja
+
+**Sauerstoffinsufflation**
 
 | mit Beatmung |  | unter Spontanatmung |
 |---|---|---|
@@ -74,30 +90,40 @@ Logopädie
 
 Innendurch- messer in mm
 
-Häufigkeit  pro Tag
+Häufigkeit
+
+pro Tag
 
 Notfallversorgung
 
-Ergotherapie Physiotherapie
+Ergotherapie
+
+Physiotherapie
 
 Befeuchtung
 
 passiv
 
-Medikament/  Substanz
+Medikament/
+
+Substanz
 
 Häufigkeit
 
 | tgl. | wtl. | mtl. | vom |
 |---|---|---|---|
 
-Dauer  h/tgl.
+Dauer
+
+h/tgl.
 
 Dauer
 
 ärztliche Unterschrift
 
-PRF.NR.  Muster 62Cc/E (1.2023)
+PRF.NR.
+
+Muster 62Cc/E (1.2023)
 
 **62C**
 

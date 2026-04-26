@@ -28,7 +28,7 @@ www.kbv.de
 
 ---
 
-### Änderungshistorie
+#### Änderungshistorie
 
 **VERSION**
 
@@ -124,11 +124,21 @@ In den folgenden Abschnitten sind die Anforderungen zusammengestellt, die die So
 
 2 VERBINDLICHKEIT VON ANFORDERUNGEN
 
-Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um  die Verbindlichkeit der Anforderungen anzugeben.
+Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um
 
-- **MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt  werden muss. Es gibt keinen Ermessensspielraum.
-- **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist.
-- **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
+die Verbindlichkeit der Anforderungen anzugeben.
+
+- **MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt
+
+werden muss. Es gibt keinen Ermessensspielraum.
+
+- **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese
+
+Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist.
+
+- **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige
+
+Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
 
 5 11
 
@@ -150,15 +160,21 @@ Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] v
 
 **VCA0001**
 
-Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, einen Vermittlungscode vom 116117  Terminservice gemäß [TSSVCA] anzufordern.
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, einen Vermittlungscode vom 116117
+
+Terminservice gemäß [TSSVCA] anzufordern.
 
 **VCA0002**
 
-Das Software-System **MUSS** die Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR) aus den  Stammdaten der Praxis automatisch in die FHIR-Operation "Vermittlungscode anfordern  (Vermittlungscode Request)" übernehmen.
+Das Software-System **MUSS** die Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR) aus den
+
+Stammdaten der Praxis automatisch in die FHIR-Operation "Vermittlungscode anfordern  (Vermittlungscode Request)" übernehmen.
 
 **VCA0003**
 
-Das Software-System **MUSS** die Arztnummer (ANR) sowie den Vor- und Nachnamen des  (überweisenden) Leistungserbringers aus den Arztstammdaten der Praxis automatisch in die FHIR- Operation "Vermittlungscode anfordern (Vermittlungscode Request)" übernehmen.
+Das Software-System **MUSS** die Arztnummer (ANR) sowie den Vor- und Nachnamen des
+
+(überweisenden) Leistungserbringers aus den Arztstammdaten der Praxis automatisch in die FHIR- Operation "Vermittlungscode anfordern (Vermittlungscode Request)" übernehmen.
 
 Anmerkung:
 
@@ -166,15 +182,37 @@ Anmerkung:
 
 **VCA0004**
 
-Das Software-System **MUSS** dem Arzt die Möglichkeit bieten, die Patientendaten aus den  Patientenstammdaten in die FHIR-Operation "Vermittlungscode anfordern (Vermittlungscode Request)"  zu übernehmen, vorausgesetzt die mündliche Einwilligung des Patienten liegt vor. Liegt die Einwilligung  nicht vor, **DÜRFEN** die Patientendaten **NICHT** in die FHIR-Operation "Vermittlungscode anfordern  (Vermittlungscode Request)" übernommen werden. Das Software-System **MUSS** es ermöglichen, die  mündliche Einwilligung des Patienten im Software-System aufwandsarm zu dokumentieren.
+Das Software-System **MUSS** dem Arzt die Möglichkeit bieten, die Patientendaten aus den
+
+Patientenstammdaten in die FHIR-Operation "Vermittlungscode anfordern (Vermittlungscode Request)"  zu übernehmen, vorausgesetzt die mündliche Einwilligung des Patienten liegt vor. Liegt die Einwilligung  nicht vor, **DÜRFEN** die Patientendaten **NICHT** in die FHIR-Operation "Vermittlungscode anfordern
+
+(Vermittlungscode Request)" übernommen werden. Das Software-System **MUSS** es ermöglichen, die
+
+mündliche Einwilligung des Patienten im Software-System aufwandsarm zu dokumentieren.
 
 **VCA0005**
 
-Das Software-System **MUSS** die vom 116117 Terminservice empfangenen Antworten prüfen und den  Erfolg / Misserfolg für den Anwender entsprechend differenziert abbilden.
+Das Software-System **MUSS** die vom 116117 Terminservice empfangenen Antworten prüfen und den
 
-**ANTWORTABBILDUNG IM SOFTWARE-SYSTEM**
+Erfolg / Misserfolg für den Anwender entsprechend differenziert abbilden.
 
-Erfolg Ausgabe-Das Software-System **MUSS** die vom 116117 Terminservice zurückgegebenen  Parameter Werte für Vermittlungscode und URL auf Muster 6 oder PTV11 aufbringen. Zusätzlich **MUSS** das Software-System die bundesweit einheitliche Rufnummer  "116117" des Ärztlichen Bereitschaftsdienstes auf Muster 6 oder PTV11  aufbringen. Das Software-System **MUSS** die Informationen im folgenden Format auf Muster  6 oder PTV 11 aufbringen: "Vermittlungscode: <Vermittlungscode> <URL> Tel:  116117".
+**ANTWORT**
+
+**ABBILDUNG IM SOFTWARE-SYSTEM**
+
+Erfolg Ausgabe-
+
+Das Software-System **MUSS** die vom 116117 Terminservice zurückgegebenen
+
+Parameter
+
+Werte für Vermittlungscode und URL auf Muster 6 oder PTV11 aufbringen.
+
+Zusätzlich **MUSS** das Software-System die bundesweit einheitliche Rufnummer
+
+"116117" des Ärztlichen Bereitschaftsdienstes auf Muster 6 oder PTV11  aufbringen. Das Software-System **MUSS** die Informationen im folgenden Format auf Muster
+
+6 oder PTV 11 aufbringen: "Vermittlungscode: <Vermittlungscode> <URL> Tel:  116117".
 
 7 11
 
@@ -183,7 +221,9 @@ Erfolg Ausgabe-Das Software-System **MUSS** die vom 116117 Terminservice zurück
 
 **ANTWORT**
 
-Miss- OperationOutcome erfolg
+Miss- OperationOutcome
+
+erfolg
 
 Anmerkung:
 
@@ -193,10 +233,19 @@ Anmerkung:
 
 **ABBILDUNG IM SOFTWARE-SYSTEM**
 
-Das Software-System **MUSS** bei fehlgeschlagener Anforderung dem Anwender  eine entsprechende Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN**  enthalten sein: - Anforderung fehlgeschlagen
+Das Software-System **MUSS** bei fehlgeschlagener Anforderung dem Anwender
+
+eine entsprechende Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN**
+
+enthalten sein: - Anforderung fehlgeschlagen
+
 - Fehlercode und Fehlertext
 
-Bei Auftreten der Fehler "VCA000" und "VCA001" **MUSS** in der Fehlermeldung  zusätzlich enthalten sein, dass der Anwender sein Software-Haus bzw. seinen  Vertriebs- und Servicepartner informieren sollte. Bei allen anderen Fehlern **DARF**  der Zusatz **NICHT** enthalten sein.
+Bei Auftreten der Fehler "VCA000" und "VCA001" **MUSS** in der Fehlermeldung
+
+zusätzlich enthalten sein, dass der Anwender sein Software-Haus bzw. seinen  Vertriebs- und Servicepartner informieren sollte. Bei allen anderen Fehlern **DARF**
+
+der Zusatz **NICHT** enthalten sein.
 
 
 ---
@@ -207,27 +256,47 @@ Bei Auftreten der Fehler "VCA000" und "VCA001" **MUSS** in der Fehlermeldung  zu
 
 **VCA0100**
 
-Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, ein oder mehrere gesuchte ärztliche  Leistungsmerkmale mittels Auswahllisten zu erfassen.  Dabei gilt:
-- Die Auswahl **MUSS** aus dem vorgegebenem ValueSet gemäß [TSSVCA] erfolgen.
-- Das Auswahlfeld **MUSS** zunächst leer sein, es **DARF KEIN** vorausgewählter Wert angezeigt werden.
-- Ein aus der Auswahlliste übernommener Wert **MUSS** jederzeit durch den Anwender änderbar sein.
-- Obsolete Leistungsmerkmale **MÜSSEN** ausgeblendet werden.
-- Dem Anwender **KÖNNEN** verschiedene Auswahllisten angeboten werden, damit dieser schnell und  einfach das passende Leistungsmerkmal auswählen kann.
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, ein oder mehrere gesuchte ärztliche
 
-Das Software-System **MUSS** die Angaben automatisch in die FHIR-Operation "Vermittlungscode  anfordern (Vermittlungscode Request)" übernehmen.
+Leistungsmerkmale mittels Auswahllisten zu erfassen.  Dabei gilt:
+
+- Die Auswahl **MUSS** aus dem vorgegebenem ValueSet gemäß [TSSVCA] erfolgen.
+
+- Das Auswahlfeld **MUSS** zunächst leer sein, es **DARF KEIN** vorausgewählter Wert angezeigt werden.
+
+- Ein aus der Auswahlliste übernommener Wert **MUSS** jederzeit durch den Anwender änderbar sein.
+
+- Obsolete Leistungsmerkmale **MÜSSEN** ausgeblendet werden.
+
+- Dem Anwender **KÖNNEN** verschiedene Auswahllisten angeboten werden, damit dieser schnell und
+
+einfach das passende Leistungsmerkmal auswählen kann.
+
+Das Software-System **MUSS** die Angaben automatisch in die FHIR-Operation "Vermittlungscode
+
+anfordern (Vermittlungscode Request)" übernehmen.
 
 **VCA0101**
 
-Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, die Dringlichkeit zu erfassen.  Dabei gilt:
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, die Dringlichkeit zu erfassen.
+
+Dabei gilt:
+
 - Die Auswahl **MUSS** aus dem vorgegebenem ValueSet gemäß [TSSVCA] erfolgen.
+
 - Die Dringlichkeit "nicht dringend (routine)" **KANN** vorausgewählt sein.
+
 - Die Dringlichkeit **MUSS** jederzeit durch den Anwender änderbar sein.
 
-Das Software-System **MUSS** die Angaben automatisch in die FHIR-Operation "Vermittlungscode  anfordern (Vermittlungscode Request)" übernehmen.
+Das Software-System **MUSS** die Angaben automatisch in die FHIR-Operation "Vermittlungscode
+
+anfordern (Vermittlungscode Request)" übernehmen.
 
 **VCA0102**
 
-Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode und URL sowie die  bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste Zeile des  Feldes "Auftrag" aufbringen.
+Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode und URL sowie die
+
+bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste Zeile des  Feldes "Auftrag" aufbringen.
 
 9 11
 
@@ -240,22 +309,33 @@ Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode un
 
 **VCA0200**
 
-Das Software-System **MUSS** bei Auswahl von "Empfehlung für eine *zeitnah erforderliche* ambulante  Psychotherapie" oder "Empfehlung für eine Psychotherapeutische Akutbehandlung" durch den Anwender  den jeweils entsprechenden Code für das Leistungsmerkmal automatisch aus dem ValueSet gemäß  [TSSVCA] auswählen und in die FHIR-Operation "Vermittlungscode anfordern (Vermittlungscode  Request)" übernehmen.
+Das Software-System **MUSS** bei Auswahl von "Empfehlung für eine *zeitnah erforderliche* ambulante
+
+Psychotherapie" oder "Empfehlung für eine Psychotherapeutische Akutbehandlung" durch den Anwender  den jeweils entsprechenden Code für das Leistungsmerkmal automatisch aus dem ValueSet gemäß  [TSSVCA] auswählen und in die FHIR-Operation "Vermittlungscode anfordern (Vermittlungscode  Request)" übernehmen.
 
 Anmerkung:
 
-- Weitere Erläuterungen sind im [Implementation Guide] *und in der Ausfüllhilfe der KBV zum PTV11* zu  finden.
+- Weitere Erläuterungen sind im [Implementation Guide] *und in der Ausfüllhilfe der KBV zum PTV11* zu
+
+finden.
 
 **VCA0201**
 
-Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, bei Auswahl von "Empfehlung für  eine ambulante Psychotherapie", eine Empfehlung für ein psychotherapeutischen Richtlinienverfahren  auszuwählen.  Dabei gilt:
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, bei Auswahl von "Empfehlung für
+
+eine ambulante Psychotherapie", eine Empfehlung für ein psychotherapeutischen Richtlinienverfahren  auszuwählen.  Dabei gilt:
+
 - Die Auswahl **MUSS** aus dem vorgegebenen ValueSet gemäß [TSSVCA] erfolgen.
+
 - Das Auswahlfeld **MUSS** zunächst leer sein, es **DARF KEIN** vorausgewählter Wert angezeigt werden.
+
 - Ein aus der Auswahlliste übernommener Wert **MUSS** jederzeit durch den Anwender änderbar sein.
 
 **VCA0202**
 
-Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode und URL sowie die  bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste oder die  ersten beiden Zeilen des Freitextfeldes aufbringen.
+Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode und URL sowie die
+
+bundesweit einheitliche Rufnummer "116117" des Ärztlichen Bereitschaftsdienstes in die erste oder die  ersten beiden Zeilen des Freitextfeldes aufbringen.
 
 10 11
 
@@ -264,7 +344,14 @@ Das Software-System **MUSS** die zurückgegebenen Werte für Vermittlungscode un
 
 7 REFERENZEN
 
-- [TSSVCA]: Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"; https:// partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+- [TSSVCA]: Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"; https://
+
+partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+
 - [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+
 - FHIR-Profile zu Vermittlungscode: [https://simplifier.net/Vermittlungscode-abrufen-PVS](https://simplifier.net/Vermittlungscode-abrufen-PVS)
-- [Implementation Guide]: Implementation Guide [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-) vermittlungscode-anfordern-fuer-pvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs 11 11
+
+- [Implementation Guide]: Implementation Guide [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-)
+
+vermittlungscode-anfordern-fuer-pvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-vermittlungscode-anfordern-fuer-pvs 11 11

@@ -11,7 +11,6 @@ element **einlieferung**
 
 extension of Einliefungsdokument für eDoku.
 
-
 ---
 
 element **einlieferung/bsnr**

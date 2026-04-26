@@ -1,6 +1,8 @@
 Name, Vorname des Versicherten Kostenträgerkennung Versicherten-Nr.
 
-**Hiermit beantrage ich die Auszahlung von Mutterschaftsgeld bzw. die Verlängerung der** **Schutzfrist aufgrund der Behinderung meines Kindes** Name
+**Hiermit beantrage ich die Auszahlung von Mutterschaftsgeld bzw. die Verlängerung der** **Schutzfrist aufgrund der Behinderung meines Kindes**
+
+Name
 
 Geburtsdatum
 
@@ -8,9 +10,13 @@ IBAN
 
 BIC
 
-**Angaben zum Beschäftigungsverhältnis** Ich bin derzeit
+**Angaben zum Beschäftigungsverhältnis**
 
-beschäftigt Arbeitgeber
+Ich bin derzeit
+
+beschäftigt
+
+Arbeitgeber
 
 Anschrift des Arbeitgebers
 
@@ -20,7 +26,9 @@ selbständig
 
 Künstlerin/Publizistin
 
-***Erklärung*** Im Fall einer Fehlgeburt erkläre ich, dass ich meinen Arbeitgeber bzw. die Bundesagentur für Arbeit über die Fehlgeburt informiert habe. Wenn ich meine  Beschäftigung/Tätigkeit vor dem Ende der Schutzfrist wieder aufnehme, teile ich  dies der Krankenkasse umgehend mit.
+***Erklärung***
+
+Im Fall einer Fehlgeburt erkläre ich, dass ich meinen Arbeitgeber bzw. die Bundesagentur für Arbeit über die Fehlgeburt informiert habe. Wenn ich meine  Beschäftigung/Tätigkeit vor dem Ende der Schutzfrist wieder aufnehme, teile ich  dies der Krankenkasse umgehend mit.
 
 Vorname
 
@@ -36,4 +44,6 @@ gekündigt/befristet zum
 
 Unterschrift der Versicherten
 
-PRF.NR.  Muster 9a.2/E (1.2026)
+PRF.NR.
+
+Muster 9a.2/E (1.2026)

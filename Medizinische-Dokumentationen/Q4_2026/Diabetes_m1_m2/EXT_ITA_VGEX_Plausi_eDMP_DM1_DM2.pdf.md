@@ -1,22 +1,30 @@
-## zur Prüfung der Dokumentationsdaten der strukturierten Behandlungsprogramme
+## zur Prüfung der Dokumentationsdaten
+
+## der strukturierten Behandlungsprogramme
 
 # Diabetes mellitus Typ 1 und Typ 2
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+#
+
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
 
 - Anlage 8* -
 
 ## Plausibilitätsrichtlinie
 
-**DMP-A-RL**  **gültig ab 01.10.2025**
+**DMP-A-RL**
 
-### Version:
+**gültig ab 01.10.2025**
 
-**6.0**
+# Version: 6.0
 
-**06.10.2025**  **01.10.2026**
+**06.10.2025**
+
+**01.10.2026**
 
 
 ---
@@ -208,14 +216,14 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 | Lfd. |  | Ausprägung | Plausibilitäten |
 | Relevante Ereignisse |  | | |
 | 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. | |
-| Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | 6   Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
+| Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | 6    Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  | „  7 | (weggefallen) | (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  | Angabe muss gleich oder größer „0“ sein und kleiner |  |  |
 |  |  |  |  |
-| Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6   Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7 | (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
+| Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7 | (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
-|  |  | 5 | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6   Anzahl  Bedingtes Pflichtfeld numerische Angabe |
+|  |  | 5 | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist  „  7 |
 | (weggefallen) | (weggefallen) |  | 8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld |
 |  | Relevante Ereignisse |  | |
@@ -229,10 +237,10 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist | „  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld |
 | numerische Angabe |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
-|  | 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6   Anzahl  Bedingtes Pflichtfeld numerische Angabe |
+|  | 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist | „  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige |
 |  |  |  |  |
-|  | Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6   Anzahl |
+|  | Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl |
 | Bedingtes Pflichtfeld | numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  | „ | 7  (weggefallen) | (weggefallen) |
 |  | 8  Stationäre notfallmäßige | Anzahl  Bedingtes Pflichtfeld | numerische Angabe |
@@ -243,7 +251,7 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 | (weggefallen) |  | 8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
 | 5 | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | |
-|  | Wenn die Angabe „ |  | 6   Anzahl |
+|  | Wenn die Angabe „ |  | 6    Anzahl |
 | Bedingtes Pflichtfeld | numerische Angabe |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7  (weggefallen) (weggefallen)  8 |
 | Stationäre notfallmäßige | Anzahl | Bedingtes Pflichtfeld numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im |
 |  |  |  |  |

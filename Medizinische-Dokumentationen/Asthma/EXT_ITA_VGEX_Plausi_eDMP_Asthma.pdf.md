@@ -1,18 +1,28 @@
 - Anlage 10* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des strukturierten Behandlungsprogramms
 
 # Asthma bronchiale
 
-**Grundlage: DMP-A-RL**  **gültig ab 01.04.2019**
+**Grundlage:**
 
-### Version:
+**DMP-A-RL**
 
-** 2**
+**gültig ab 01.04.2019**
 
-**Stand der Bearbeitung: 03.07.2018**  **Version anzuwenden ab: 01. April 2019**
+# Version: 2
+
+**Stand der Bearbeitung:**
+
+**03.07.2018**
+
+**Version anzuwenden ab:**
+
+**01. April 2019**
 
 
 ---

@@ -13,7 +13,6 @@
 
 Laser-Therapie Dezernat -Lewin-Platz 2 Version  Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
 
-
 ---
 
 Holmium-Laser-Therapie
@@ -37,7 +36,13 @@ INHALTSVERZEICHNIS
 
 ***1*** ***PRÄAMBEL ___________________________________________________________ 4***
 
-***1.1*** ***Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4***  ***1.2*** ***Hinweise zum Verständnis dieses Dokuments ...........................................................................4***  1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4  1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
+***1.1*** ***Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4***
+
+***1.2*** ***Hinweise zum Verständnis dieses Dokuments ...........................................................................4***
+
+1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4
+
+1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
 
 ***2*** ***BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5***
 
@@ -50,35 +55,51 @@ Holmium
 
 Holmium
 
-**1**
+# 1 Präambel
 
-## Präambel
+## 1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie
 
-**1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie**
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT) [1] erhoben werden. Es wird eine arztbezo- gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT) [1] erhoben werden. Es wird eine arztbezo- gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.   **1.2 Hinweise zum Verständnis dieses Dokuments**
+## 1.2 Hinweise zum Verständnis dieses Dokuments
 
 Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in diesem Kapi- tel hilfreich.
 
-**1.2.1 Beschreibung der Spalte „Art“**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
+### 1.2.1 Beschreibung der Spalte „Art“
+
+In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
 
 **M = Mussfeld (Pflichtfeld)**
 
-Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
+Ein Mussfeld muss in einem Formular vorhanden sein.
 
-Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   **Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
+**m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
+
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
+
+**Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung
+
+nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
 **K = Kannfeld (optionales Feld)**
 
 Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.
 
-**k = bedingtes Kannfeld (bedingtes optionales Feld)**   Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
+**k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-**1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“**
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
 
-**Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.
+**nicht** erfüllt ist.
 
-**Warnung**  Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer- den.
+### 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“
+
+**Fehler**
+
+Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.
+
+**Warnung**
+
+Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer- den.
 
 
 ---
@@ -299,9 +320,7 @@ Spontanmiktion erung) **8** von **9**
 
 ---
 
-**3**
-
-## Referenzierte Dokumente
+# 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

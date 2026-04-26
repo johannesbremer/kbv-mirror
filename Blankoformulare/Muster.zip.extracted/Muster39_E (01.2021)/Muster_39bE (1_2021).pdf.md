@@ -20,27 +20,53 @@ Ausfluss / pathologische Blutung
 
 IUP
 
-Einnahme von Ovulationshemmer /  sonstige Hormonanwendung  ***(ggf. bitte in Anmerkungen erläutern)***
+Einnahme von Ovulationshemmer /
+
+sonstige Hormonanwendung
+
+***(ggf. bitte in Anmerkungen erläutern)***
 
 Klinischer Befund
 
 nein
 
-Wurde bereits eine Krebsfrüherkennungsuntersuchung  durchgeführt?
+Wurde bereits eine Krebsfrüherkennungsuntersuchung
 
-Gynäkologische OP,  Strahlen- oder Chemotherapie des Genitales
+durchgeführt?
 
-Primär-  screening Abklärungs-  diagnostik
+Gynäkologische OP,
 
-Zytologie Ko-Testung  (Zyt.+HPV)HPV-Test
+Strahlen- oder Chemotherapie des Genitales
+
+Primär-
+
+screening
+
+Abklärungs-
+
+diagnostik
+
+Zytologie
+
+Ko-Testung (Zyt.+HPV)
+
+HPV-Test
 
 **Anamnese**
 
-**Auftrag**  ***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+**Auftrag**
+
+***(Bitte beachten Sie die Ausfüllhinweise für verschiedene Beauftragungsszenarien)***
+
+nein
+
+ja
 
 nein ja
 
-nein ja Letzte  Periode
+Letzte
+
+Periode
 
 **Jetzt:**
 
@@ -64,13 +90,23 @@ nicht verwertbar
 
 negativ
 
-unauffällig auffällig
+unauffällig
 
-HPV-HR-Testergebnis negativ
+auffällig
+
+HPV-HR-Testergebnis
+
+negativ
 
 nicht verwertbar
 
-nicht  differenzierbarjanein
+nicht
+
+differenzierbar
+
+ja
+
+nein
 
 positiv, wenn ja: Liegt HPV-Typ 16 oder HPV-Typ 18 vor?
 
@@ -114,13 +150,19 @@ nach Östrogenbehandlung
 
 **Bemerkungen**
 
-**Erläuterungen** ***ggf. gyn. Befunde (Vulva, Vagina, Portio);***  ***Diagnosen; sonstige Anmerkungen*** Monaten
+**Erläuterungen** ***ggf. gyn. Befunde (Vulva, Vagina, Portio);***
+
+***Diagnosen; sonstige Anmerkungen***
+
+Monaten
 
 Gruppe
 
 Gruppe
 
-Vertragsarztstempel / Unterschrift  des zytologisch tätigen Arztes
+Vertragsarztstempel / Unterschrift
+
+des zytologisch tätigen Arztes
 
 Vertragsarztstempel / Unterschrift des Arztes
 
@@ -138,10 +180,18 @@ Trichomonaden
 
 Auftragsnummer des Labors
 
-Proliferationsgrad
+Proliferationsgrad 20-29
 
-20-29  Jahre 30-34  Jahre ab 35  Jahre
+Jahre 30-34
+
+Jahre
+
+ab 35
+
+Jahre
 
 Alterskategorie
 
-PRF.NR.  Muster 39b/E (1.2021)
+PRF.NR.
+
+Muster 39b/E (1.2021)

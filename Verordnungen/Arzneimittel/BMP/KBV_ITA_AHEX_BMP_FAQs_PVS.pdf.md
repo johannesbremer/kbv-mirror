@@ -22,15 +22,23 @@ INHALT
 |---|---|---|
 | 1.1 | Zielbestimmung | 4 |
 
-**2** **BMP-SPEZIFISCHE EMPFEHLUNGEN AN DIE SOFTWARE** **5**
+**2** **BMP-SPEZIFISCHE EMPFEHLUNGEN AN DIE SOFTWARE**
 
-2.1 Ausdruck 5  2.2 Anwendungsfälle (Erstellung, Aktualisierung) 10
+**5**
+
+2.1 Ausdruck
+
+5
+
+2.2 Anwendungsfälle (Erstellung, Aktualisierung) 10
 
 | **3** | **ANHANG** | **15** |
 |---|---|---|
 | 3.1 | Glossar | 15 |
 
-**4** **REFERENZIERTE DOKUMENTE** **15**
+**4** **REFERENZIERTE DOKUMENTE**
+
+**15**
 
 
 ---
@@ -59,119 +67,197 @@ Spezifikation
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+## 1.1 ZIELBESTIMMUNG
 
-**1.1** **ZIELBESTIMMUNG**
+Hersteller von Software bestimmt, die eine
 
-Hersteller von Software bestimmt, die eine Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans  BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
+Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans  BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
 
-gelungen in  **Spezifikation** genannt. Diese Liste soll eine Hilfestellung bei der Umsetzung zu speziellen  Implementierungsfragen bieten. Software-Anforderungen, die sich aufgrund von Re Selektivverträgen oder Modellvorhaben ergeben, bleiben von dieser Liste unberührt.
+gelungen in
 
--Health-Gesetz im Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E § 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+**Spezifikation** genannt. Diese Liste soll eine Hilfestellung bei der Umsetzung zu speziellen
 
-Diese Software muss vor ihrem Einsatz durch die Kassenärztliche Bundesvereinigung (KBV) zugelassen  werden. Die Zulassung erfolgt auf Grundlage von § 73 SGB V i.V. m. Anlage 23 Bundesmantelvertrag - Ärzte  (BMV-Ä).
+Implementierungsfragen bieten. Software-Anforderungen, die sich aufgrund von Re Selektivverträgen oder Modellvorhaben ergeben, bleiben von dieser Liste unberührt.
 
-Für das Zertifizierungsverfahren gilt die Richtlinie „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert] in  der jeweils gültigen Fassung.
+-Health-Gesetz im
+
+Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E § 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+
+Diese Software muss vor ihrem Einsatz durch die Kassenärztliche Bundesvereinigung (KBV) zugelassen  werden. Die Zulassung erfolgt auf Grundlage von § 73 SGB V i.V. m. Anlage 23 Bundesmantelvertrag - Ärzte (BMV-Ä).
+
+Für das Zertifizierungsverfahren gilt die Richtlinie „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert] in
+
+der jeweils gültigen Fassung.
 
 
 ---
 
-2
+# 2 BMP-SPEZIFISCHE EMPFEHLUNGEN AN DIE SOFTWARE
 
-## BMP-SPEZIFISCHE EMPFEHLUNGEN AN DIE SOFTWARE
+## 2.1 AUSDRUCK
 
-**2.1** **AUSDRUCK**
-
-**1.** **Korrekter Ausdruck inkl. 2D-Barcode**
+- **1.** **Korrekter Ausdruck inkl. 2D-Barcode**
 
 **FRAGE:** *Kann der Ausdruck des BMP auch ohne 2D-Barcode erfolgen?*
 
-**ANTWORT :** Die Software soll einen Papierausdruck nach Kapitel 6 der Spezifikation erstellen können. Dies  beinhaltet die korrekte Erzeugung des Datamatrix-Barcodes nach der Norm ISO/IEC 16022 und der  zugehörigen Norm ISO/IEC 15415 für die Druckqualität.
+**ANTWORT :** Die Software soll einen Papierausdruck nach Kapitel 6 der Spezifikation erstellen können. Dies
+
+beinhaltet die korrekte Erzeugung des Datamatrix-Barcodes nach der Norm ISO/IEC 16022 und der
+
+zugehörigen Norm ISO/IEC 15415 für die Druckqualität.
 
 Die Kriterien für den 2D-Barcode auf dem erzeugten Ausdruck sind hinsichtlich Mindestgröße und Qualität  einzuhalten.
 
-Der Barcode soll fehlerfrei ausgedruckt werden. Jegliche Formen von Versetzungen, Farbmuster,  Graustufen, unzureichende Auflösung, Verpixelungen, Deformationen etc. sind unzulässig. Eine Prüfung  kann erfolgen durch:
+Der Barcode soll fehlerfrei ausgedruckt werden. Jegliche Formen von Versetzungen, Farbmuster,  Graustufen, unzureichende Auflösung, Verpixelungen, Deformationen etc. sind unzulässig. Eine Prüfung  kann erfolgen durch: - Einscannen des 2D-Barcodes,
 
-Einscannen des 2D-Barcodes,  Sichtprüfung der Druckqualität.   **2.** **Weglassen von Wirkstärkenangaben bei BMPs auf Grundlage der Version 2.7 der BMP-Spezifikation**
+- Sichtprüfung der Druckqualität.
+
+- **2.** **Weglassen von Wirkstärkenangaben bei BMPs auf Grundlage der Version 2.7 der BMP-Spezifikation**
 
 **FRAGE:** *In welchen Fällen wird die Wirkstärkenangabe bei einer Medikationszeile im Ausdruck weggelassen?*
 
 **ANTWORT :**
 
-Die Wirkstärkenangabe wird gemäß der Spezifikation bei sog. Mehrkomponenten-Präparaten sowie bei  Kombinationspräparaten mit mehr als drei Wirkstoffen weggelassen. Das entsprechende Feld bleibt dann  im Ausdruck leer.
+Die Wirkstärkenangabe wird gemäß der Spezifikation bei sog. Mehrkomponenten-Präparaten sowie bei
 
-In allen anderen Fällen sind die entsprechenden Angaben der Referenzdatenbank unverändert zu  übernehmen, durch die neben den zu verwendenden Wirkstoffbezeichnungen und Wirkstärkenangaben  auch die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben vorgegeben ist. Im Regelfall ist  dann jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zugeordnet und  umgekehrt. In Ausnahmefällen (bei manchen Homöopathika und Medizinprodukten) kann es vorkommen,  dass nicht für alle Wirkstoffe eine Stärkenangabe vorliegt. In diesem Fall, wo durch die Referenzdatenbank  keine Angabe der Stärke an dieser Stelle erfolgt, wird die entsprechende Angabe auch im BMP-Ausdruck  weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben (sofern vorhanden)  ist auch in diesem Fall zu beachten, so dass die korrekte Zuordnung der vorhandenen Angaben  gewährleistet ist.
+Kombinationspräparaten mit mehr als drei Wirkstoffen weggelassen. Das entsprechende Feld bleibt dann  im Ausdruck leer.
+
+In allen anderen Fällen sind die entsprechenden Angaben der Referenzdatenbank unverändert zu  übernehmen, durch die neben den zu verwendenden Wirkstoffbezeichnungen und Wirkstärkenangaben
+
+auch die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben vorgegeben ist. Im Regelfall ist  dann jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zugeordnet und  umgekehrt. In Ausnahmefällen (bei manchen Homöopathika und Medizinprodukten) kann es vorkommen,  dass nicht für alle Wirkstoffe eine Stärkenangabe vorliegt. In diesem Fall, wo durch die Referenzdatenbank  keine Angabe der Stärke an dieser Stelle erfolgt, wird die entsprechende Angabe auch im BMP-Ausdruck
+
+weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben (sofern vorhanden)  ist auch in diesem Fall zu beachten, so dass die korrekte Zuordnung der vorhandenen Angaben  gewährleistet ist.
 
 
 ---
 
-**3.** **Mehrere Seiten**
+- **3.** **Mehrere Seiten**
 
-**4.** **Unveränderliche Reihenfolge**
+- **4.** **Unveränderliche Reihenfolge**
 
-**5.** **Darstellung von Brüchen**
+- **5.** **Darstellung von Brüchen**
 
-**6.** **PDF verkleinert sich beim Ausdruck**
+- **6.** **PDF verkleinert sich beim Ausdruck**
 
-*Wann ist eine zweite oder dritte Seite zu verwenden?***FRAGE:**
+*Wann ist eine zweite oder dritte Seite zu verwenden?*
 
-Die Software (ggf. in Verbindung mit weiteren Komponenten) soll einen erzeugten **ANTWORT :** Medikationsplan (ein bis mehrere Seiten) ausdrucken können. Medikationspläne können bis zu drei Seiten  beinhalten. Zweiseitige und dreiseitige BMPs müssen daher eingelesen und wieder ausgedruckt werden  können.
+**FRAGE:**
+
+Die Software (ggf. in Verbindung mit weiteren Komponenten) soll einen erzeugten
+
+**ANTWORT :** Medikationsplan (ein bis mehrere Seiten) ausdrucken können. Medikationspläne können bis zu drei Seiten  beinhalten. Zweiseitige und dreiseitige BMPs müssen daher eingelesen und wieder ausgedruckt werden  können.
 
 Wenn entweder die Anzahl der Medikationseinträge inkl. der Zwischenüberschriften mehr als 15 beträgt
 
 arauf
 
-oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach  Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist d zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der  dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  te gedruckt wird. entsteht, da der gesamte Eintrag auf die nächste Sei
+oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach  Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist d zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der  dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  te gedruckt wird.
 
-Auf jeder Seite des Medikationsplans sind Header (z. B. Patientendaten) und Fußzeile (z. B.  Versionsnummer) redundant im Carrier abgelegt.
+entsteht, da der gesamte Eintrag auf die nächste Sei
 
-*Muss die Reihenfolge der Medikationseinträge von eingelesenen BMPs erhalten bleiben?* **FRAGE:**
+Auf jeder Seite des Medikationsplans sind Header (z. B. Patientendaten) und Fußzeile (z. B.
 
-Die Software muss gewährleisten, dass die Reihenfolge der Medikationseinträge nur durch den **ANTWORT :** Anwender verändert werden kann. D.h. die Reihenfolge von eingelesenen Einträgen muss bis zu deren  Ausdruck erhalten bleiben, es sei denn der Anwender ändert diese explizit. Die Reihenfolge aller  Medikationseinträge soll zwischen eingelesenem Carrier und ausgerucktem Carrier identisch sein.
+Versionsnummer) redundant im Carrier abgelegt.
 
-*Kann die Software die Darstellung von Brüchen und Dezimalzahlen anpassen?* **FRAGE:**
+*Muss die Reihenfolge der Medikationseinträge von eingelesenen BMPs erhalten bleiben?*
 
-**ANTWORT :** In den Datenfeldern des vierteiligen Dosierschemas (morgens, mittags, abends und zur Nacht)  sind ganze Zahlen, gebrochene Zahlen und Brüche zulässig. Der Datentyp im Carriersegment und im  Ausdruck ist eine Kette mit max. 4 Zeichen. Die Software muss diese vom Anwender eingetragenen Werte  1:1 wiedergeben. D. h. eine automatische Umwandlung von „0,5“ zu „1/2“ oder „1/2“ zu „0,5“ ohne  Bestätigung durch den Anwender ist unzulässig.
+**FRAGE:**
 
-Hier gilt die Regel, dass die Dateninhalte des Carriers unverändert auf dem Papierausdruck und umgekehrt  darzustellen sind. Des Weiteren gilt diese Regel auch für die Darstellung am Bildschirm.
+Die Software muss gewährleisten, dass die Reihenfolge der Medikationseinträge nur durch den
 
-*Wie kann man verhindern, dass als PDF erzeugte Medikationspläne durch PDF-Programme beim* **FRAGE:** *Ausdruck verkleinert werden? (mit der Folge, dass die Seitenränder überproportional groß werden)*
+**ANTWORT :** Anwender verändert werden kann. D.h. die Reihenfolge von eingelesenen Einträgen muss bis zu deren
 
-**ANTWORT :** Ein verkleinerter Ausdruck ist nicht spezifikationskonform. Bei den Einstellungen für den  Ausdruck des PDF ist darauf zu achten, dass die Option „Tatsächliche Größe“ gewählt wird. (z. B. unter MS  Größe  Schalter Windows: Menü Drucken „Tatsächliche Größe“ setzen).
+Ausdruck erhalten bleiben, es sei denn der Anwender ändert diese explizit. Die Reihenfolge aller
+
+Medikationseinträge soll zwischen eingelesenem Carrier und ausgerucktem Carrier identisch sein.
+
+*Kann die Software die Darstellung von Brüchen und Dezimalzahlen anpassen?*
+
+**FRAGE:**
+
+**ANTWORT :** In den Datenfeldern des vierteiligen Dosierschemas (morgens, mittags, abends und zur Nacht)
+
+sind ganze Zahlen, gebrochene Zahlen und Brüche zulässig. Der Datentyp im Carriersegment und im  Ausdruck ist eine Kette mit max. 4 Zeichen. Die Software muss diese vom Anwender eingetragenen Werte  1:1 wiedergeben. D. h. eine automatische Umwandlung von „0,5“ zu „1/2“ oder „1/2“ zu „0,5“ ohne
+
+Bestätigung durch den Anwender ist unzulässig.
+
+Hier gilt die Regel, dass die Dateninhalte des Carriers unverändert auf dem Papierausdruck und umgekehrt
+
+darzustellen sind. Des Weiteren gilt diese Regel auch für die Darstellung am Bildschirm.
+
+*Wie kann man verhindern, dass als PDF erzeugte Medikationspläne durch PDF-Programme beim*
+
+**FRAGE:**
+
+*Ausdruck verkleinert werden? (mit der Folge, dass die Seitenränder überproportional groß werden)*
+
+**ANTWORT :** Ein verkleinerter Ausdruck ist nicht spezifikationskonform. Bei den Einstellungen für den
+
+Ausdruck des PDF ist darauf zu achten, dass die Option „Tatsächliche Größe“ gewählt wird. (z. B. unter MS
+
+Größe  Schalter
+
+Windows: Menü Drucken
+
+„Tatsächliche Größe“ setzen).
 
 
 ---
 
-**Anonymisieren von BMPs**
+- **Anonymisieren von BMPs**
 
 *Wie kann ich einen BMP unkenntlich machen/anonymisieren?*
 
-machen durch (vollständiges) Durchstreichen des  **ANTWORT** Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die  Patientendaten unkenntlich zu machen. Das Unkenntlich Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
+machen durch (vollständiges) Durchstreichen des
+
+**ANTWORT** Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die
+
+Patientendaten unkenntlich zu machen. Das Unkenntlich Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
 
 
 ---
 
-Aufteilung des Layouts in der vorgegebenen Struktur (Identifikationsblock,  Administrationsblock, Medikationstabelle etc.),  und Schriftfarbe,  Schriftgröße (Regelfall und reduzierte Größe), Schriftart Positionierung und Ausrichtung der Texte,  Spaltenbreiten und Zeilenhöhen,  Barcode mit Ruhezone und  (leeres) Freifeld
+- Aufteilung des Layouts in der vorgegebenen Struktur (Identifikationsblock,  Administrationsblock, Medikationstabelle etc.),
 
-**9.** **Veränderung von PZN-zugehörige Dateninhalte**
+- und Schriftfarbe,
 
-**Entfernen des PZN-Bezuges**
+-  Schriftgröße (Regelfall und reduzierte Größe), Schriftart
 
-**Änderung verwerfen**
+- Positionierung und Ausrichtung der Texte,
 
-**Optische Konformität**
+- Spaltenbreiten und Zeilenhöhen,
 
-*Welchen optischen und grafischen Vorgaben muss der Ausdruck eines BMP genügen, um als*  *konform gewertet zu werden?*
+- Barcode mit Ruhezone und
+
+- (leeres) Freifeld
+
+- **9.** **Veränderung von PZN-zugehörige Dateninhalte**
+
+- **Entfernen des PZN-Bezuges**
+
+- **Änderung verwerfen**
+
+- **Optische Konformität**
+
+*Welchen optischen und grafischen Vorgaben muss der Ausdruck eines BMP genügen, um als*
+
+*konform gewertet zu werden?*
 
 **ANTWORT :** Im Ausdruck müssen insbesondere die Vorgaben für:
 
 entsprechend der Spezifikation inkl. der Toleranzen eingehalten sein.
 
-**FRAGE:*** Wie ist im Ablauf zu verfahren, wenn der Anwender Dateninhalte, die einer PZN zugeordnet sind,*  *ändern möchte?*
+**FRAGE:*** Wie ist im Ablauf zu verfahren, wenn der Anwender Dateninhalte, die einer PZN zugeordnet sind,*
 
-**ANTWORT :** Die Software muss es dem Anwender ermöglichen Feldinhalte, die auf Basis einer in den Daten  des Medikationsplans hinterlegten PZN befüllt wurden, zu bearbeiten. Dies betrifft den Handelsnamen, die  Wirkstoffbezeichnung(en), die Wirkstärke(n) und die Darreichungsform. Die Gründe hierfür können  unterschiedlich sein: z. B. Richtigstellung bei den Wirkstärken oder patiententaugliche Texte für  Handelsnamen oder Wirkstoffe.
+*ändern möchte?*
+
+**ANTWORT :** Die Software muss es dem Anwender ermöglichen Feldinhalte, die auf Basis einer in den Daten
+
+des Medikationsplans hinterlegten PZN befüllt wurden, zu bearbeiten. Dies betrifft den Handelsnamen, die
+
+Wirkstoffbezeichnung(en), die Wirkstärke(n) und die Darreichungsform. Die Gründe hierfür können  unterschiedlich sein: z. B. Richtigstellung bei den Wirkstärken oder patiententaugliche Texte für  Handelsnamen oder Wirkstoffe.
 
 Sofern der Anwender eine solche Anwendung vornimmt, muss die Software explizit auf die Änderung von  PZN-bezogenen Informationen hinweisen. Der Anwender muss anschließend zwischen einer der folgenden  zwei Möglichkeiten entscheiden:
 
@@ -182,46 +268,82 @@ In diesem Fall verbleibt im Carrier weiterhin nur die PZN. Im Ausdruck werden di
 
 ---
 
-**Dezimalzahlen im administrativen Block**
+- **Dezimalzahlen im administrativen Block**
 
-**11.** **Feldinhalt größer als Spaltenbreite**
+- **11.** **Feldinhalt größer als Spaltenbreite**
 
-*Welche Eigenschaften müssen Dezimalzahlen des Parameterblockes im Carrier und Ausdruck*  *erfüllen?*
+*Welche Eigenschaften müssen Dezimalzahlen des Parameterblockes im Carrier und Ausdruck*
 
-**ANTWORT :** Im Parameterblock lassen sich Werte zu Gewicht, Körpergröße oder Kreatinin hinterlegen. Dabei  sind im Carrier die durch das Schema vorgegebenen Regeln (z.B. die Anzahl der Nachkommastellen) zu  beachten. Diese sind als Maximalwert zu verstehen.
+*erfüllen?*
+
+**ANTWORT :** Im Parameterblock lassen sich Werte zu Gewicht, Körpergröße oder Kreatinin hinterlegen. Dabei
+
+sind im Carrier die durch das Schema vorgegebenen Regeln (z.B. die Anzahl der Nachkommastellen) zu
+
+beachten. Diese sind als Maximalwert zu verstehen.
 
 Im **Carrier** müssen die Werte im **englischen Format (Dezimalpunkt)** abgelegt werden.
 
-des Medikationsplans ist der vorgegebene Wert exakt aus dem Carrier zu übernehmen, d.h. Im **Ausdruck** die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  usdruck erfolgt jedoch im ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem A**deutschen**  **Zahlenformat (Dezimalkomma)**
+des Medikationsplans ist der vorgegebene Wert exakt aus dem Carrier zu übernehmen, d.h.
 
-Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeben, es wird aber empfohlen  die deutsche Zahlenschreibweise (Dezimalkomma) zu verwenden.
+Im **Ausdruck** die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  usdruck erfolgt jedoch im
 
-*Wie ist zu verfahren, wenn ein Feldinhalt auch bei reduzierter Schriftgröße (10 Punkt) mehr Platz* **FRAGE:** *benötigt als in der Spalte vorhanden?*
+ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem A
 
-**ANTWORT :** Sofern ein Text auch in reduzierter Schriftgröße (10 pt) nicht in das vorgesehene Feld passt, so  sollte analog der Vorgaben in Kapitel 6.2.7 der Spezifikation verfahren werden. D.h. sofern ein  Zeilenumbruch möglich ist, so ist dieser umzusetzen. Sofern kein Zeilenumbruch mehr möglich ist, erfolgt  eine Kürzung des Textes mittels „…“ nach den entsprechenden Vorgaben
+**deutschen**
+
+**Zahlenformat (Dezimalkomma)**
+
+Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeben, es wird aber empfohlen
+
+die deutsche Zahlenschreibweise (Dezimalkomma) zu verwenden.
+
+*Wie ist zu verfahren, wenn ein Feldinhalt auch bei reduzierter Schriftgröße (10 Punkt) mehr Platz*
+
+**FRAGE:** *benötigt als in der Spalte vorhanden?*
+
+**ANTWORT :** Sofern ein Text auch in reduzierter Schriftgröße (10 pt) nicht in das vorgesehene Feld passt, so
+
+sollte analog der Vorgaben in Kapitel 6.2.7 der Spezifikation verfahren werden. D.h. sofern ein  Zeilenumbruch möglich ist, so ist dieser umzusetzen. Sofern kein Zeilenumbruch mehr möglich ist, erfolgt  eine Kürzung des Textes mittels „…“ nach den entsprechenden Vorgaben
 
 Diese Vorgabe gilt nicht für Einträge zur Dosierung. Diese Felder müssen immer vollständig ausgegeben  werden!
 
-Dieses Vorgehen kann unabhängig davon, ob die maximal zulässige Feldlänge für den Ausdruck bereits  erreicht ist, verwendet werden.
+Dieses Vorgehen kann unabhängig davon, ob die maximal zulässige Feldlänge für den Ausdruck bereits
+
+erreicht ist, verwendet werden.
 
 
 ---
 
-**2.2** **ANWENDUNGSFÄLLE (ERSTELLUNG, AKTUALISIERUNG)**
-
-**Arzneimitteldatenbank**
+## 2.2 ANWENDUNGSFÄLLE (ERSTELLUNG, AKTUALISIERUNG) - **Arzneimitteldatenbank**
 
 **FRAGE:*** Muss der Zugriff auf eine aktuelle Arzneimitteldatenbank gewährleistet sein?*
 
 **ANTWORT :** Ja, folgende Szenarien müssen durch eine aktuelle Datenbank unterstützt werden:
 
-Zu denen, von einem eingelesenen Medikationsplan enthaltenen Pharmazentralnummern  (PZN), müssen sich für die Ansicht durch den Anwender und im zu erzeugenden Ausdruck die  Datenfelder Wirkstoff, Handelsname, Wirkstärke und Darreichungsform aus der  Arzneimitteldatenbank ableiten lassen.  Arzneimittel müssen sich in der Arzneimitteldatenbank recherchieren lassen.   Für neu erstellte Arzneimittel (im Plan hinterlegte PZNs) müssen sich  wie beim Einlesen  die  Datenfelder im erzeugten Ausdruck aus der Arzneimitteldatenbank ableiten lassen Die Aktualität der Arzneimitteldaten muss den geltenden Kriterien des Anforderungskatalogs  nach § 73 SGB V für Verordnungssoftware (AVWG-Anforderungskatalog) entsprechen.
+- Zu denen, von einem eingelesenen Medikationsplan enthaltenen Pharmazentralnummern  (PZN), müssen sich für die Ansicht durch den Anwender und im zu erzeugenden Ausdruck die  Datenfelder Wirkstoff, Handelsname, Wirkstärke und Darreichungsform aus der  Arzneimitteldatenbank ableiten lassen.
 
-**2.** **Verordnungs- / Medikationsdokumentation für die unmittelbare Erstellung im MP-Modul direkt**  **aufrufen**
+- Arzneimittel müssen sich in der Arzneimitteldatenbank recherchieren lassen.
 
-**FRAGE:*** Welche Daten aus dem PVS müssen für den BMP bei der Ersterstellung oder Aktualisierung genutzt*  *werden können?*
+- Für neu erstellte Arzneimittel (im Plan hinterlegte PZNs) müssen sich  wie beim Einlesen  die
 
-**ANTWORT :** Die Daten aller im PVS dokumentierten (Arzneimittel-)Verordnungen sowie dokumentierte  Fremd- und Selbstmedikation (Medikationseinträge) eines Patienten müssen in der Software  zusammengefasst zugreifbar sein (z. B. über das Krankenblatt) und für die Erstellung / Aktualisierung des  BMP nutzbar sein. Die Software muss die unmittelbare Erstellung eines BMPs aus den vorhandenen Daten  und weiterer Daten (Patient, Individualparameter) ggf. unter Einbeziehung von Aktualisierungen  ermöglichen.
+- Datenfelder im erzeugten Ausdruck aus der Arzneimitteldatenbank ableiten lassen
+
+- Die Aktualität der Arzneimitteldaten muss den geltenden Kriterien des Anforderungskatalogs  nach § 73 SGB V für Verordnungssoftware (AVWG-Anforderungskatalog) entsprechen.
+
+- **2.** **Verordnungs- / Medikationsdokumentation für die unmittelbare Erstellung im MP-Modul direkt**
+
+- **aufrufen**
+
+**FRAGE:*** Welche Daten aus dem PVS müssen für den BMP bei der Ersterstellung oder Aktualisierung genutzt*
+
+*werden können?*
+
+**ANTWORT :** Die Daten aller im PVS dokumentierten (Arzneimittel-)Verordnungen sowie dokumentierte
+
+Fremd- und Selbstmedikation (Medikationseinträge) eines Patienten müssen in der Software  zusammengefasst zugreifbar sein (z. B. über das Krankenblatt) und für die Erstellung / Aktualisierung des  BMP nutzbar sein. Die Software muss die unmittelbare Erstellung eines BMPs aus den vorhandenen Daten
+
+und weiterer Daten (Patient, Individualparameter) ggf. unter Einbeziehung von Aktualisierungen  ermöglichen.
 
 Die Software muss eine Möglichkeit vorsehen, dokumentierte Medikationseinträge als aktuell verordnet  bzw. vom Patienten angewendet zu kennzeichnen. Nur die so gekennzeichneten Einträge müssen zur  Übernahme auf den BMP vorgeschlagen werden.
 
@@ -230,33 +352,49 @@ Die Software muss pro Medikationseintrag ein Kennzeichen verwalten, welches angi
 
 ---
 
-**Ersterstellung und Aktualisierung von Medikationsplänen**
+- **Ersterstellung und Aktualisierung von Medikationsplänen**
 
 *Welche Möglichkeiten hat der Anwender, Daten des PVS für den BMP zu nutzen?*
 
-**ANTWORT :** Das MP-Modul muss mit einer Aktion aufgerufen werden können. Die Software muss den  Anwender bei Nutzung mit möglichst geringem bürokratischem Aufwand unterstützen. Die Software muss  den Anwender bei folgenden Aktionen unterstützen:
+**ANTWORT :** Das MP-Modul muss mit einer Aktion aufgerufen werden können. Die Software muss den
+
+Anwender bei Nutzung mit möglichst geringem bürokratischem Aufwand unterstützen. Die Software muss  den Anwender bei folgenden Aktionen unterstützen:
 
 Stammdaten
 
-Die Software muss die Patientendaten (Name, Patienten-ID=Versicherten-ID und  Geburtsdatum) aus den Stammdaten des PVS in den MP übernehmen.
+- Die Software muss die Patientendaten (Name, Patienten-ID=Versicherten-ID und
+
+- Geburtsdatum) aus den Stammdaten des PVS in den MP übernehmen.
 
 Parameter
 
-Individualparameter des Patienten (z.B. Allergien, Gewicht etc.) dürfen nur auf den BMP  übernommen werden, wenn der Anwender dies explizit bestätigt.
+- Individualparameter des Patienten (z.B. Allergien, Gewicht etc.) dürfen nur auf den BMP  übernommen werden, wenn der Anwender dies explizit bestätigt.
 
 Medikationseinträge
 
-Die Software muss neben der unter Nr. 2 beschriebenen Übernahme von Daten aus dem PVS  das manuelle Anlegen von Einträgen, die Auswahl von Medikamenten aus der  Arzneimitteldatenbank, das manuelle Aktualisieren durch Ergänzen, Löschen oder Ändern  vorhandener Medikationsplan-Daten (letzter Stand), das Entfernen und das Bearbeiten von  Medikationseinträgen (oder sonstiger Daten) im BMP ermöglichen.  Die Software muss die Gruppierung von Arzneimitteln unterstützen und die Zuordnung von  Zwischenüberschriften zu den Gruppen ermöglichen.
+- Die Software muss neben der unter Nr. 2 beschriebenen Übernahme von Daten aus dem PVS
+
+- das manuelle Anlegen von Einträgen, die Auswahl von Medikamenten aus der  Arzneimitteldatenbank, das manuelle Aktualisieren durch Ergänzen, Löschen oder Ändern  vorhandener Medikationsplan-Daten (letzter Stand), das Entfernen und das Bearbeiten von  Medikationseinträgen (oder sonstiger Daten) im BMP ermöglichen.
+
+- Die Software muss die Gruppierung von Arzneimitteln unterstützen und die Zuordnung von  Zwischenüberschriften zu den Gruppen ermöglichen.
 
 Zwischenüberschriften
 
-Die Software muss den Anwender bei der Erstellung von Zwischenüberschriften unterstützen.  Dabei besteht freie Wahl der Inhalte und der Position. Inhalte können entweder Freitext oder  vordefinierte Texte sein, wobei die Software den Anwender bei der Auswahl nach Texten aus  Anhang 2.3 unterstützt.  Die Software soll die Speicherung von, vom Anwender definierten, Überschriften als  dauerhafte Textbausteine ermöglichen.
+- Die Software muss den Anwender bei der Erstellung von Zwischenüberschriften unterstützen.  Dabei besteht freie Wahl der Inhalte und der Position. Inhalte können entweder Freitext oder  vordefinierte Texte sein, wobei die Software den Anwender bei der Auswahl nach Texten aus - Anhang 2.3 unterstützt.
+
+- Die Software soll die Speicherung von, vom Anwender definierten, Überschriften als  dauerhafte Textbausteine ermöglichen.
 
 Hinweisblock und Freitextzeile
 
-Die Software kann dem Anwender die Erstellung und Positionierung eines Hinweisblockes  (eine Überschrift mit einer oder mehreren Freitextzeilen in der Regel am Ende des  Medikationsplans) ermöglichen.  Die Software soll den Anwender bei der Erstellung von Freitextzeilen unterstützen. Dabei  können anwenderdefinierte Standard-Textbausteine genutzt werden.
+- Die Software kann dem Anwender die Erstellung und Positionierung eines Hinweisblockes
 
-Die Software muss den Anwender bei Kürzungen von Textabschnitten für die Erzeugung des Ausdruckes  darauf hinweisen. Dies trifft vor allem die folgenden Datenfelder des Ausdruckes: E-Mail, Parameterblock,  Hinweis, Behandlungsgrund und Zwischenüberschrift.
+- (eine Überschrift mit einer oder mehreren Freitextzeilen in der Regel am Ende des  Medikationsplans) ermöglichen.
+
+- Die Software soll den Anwender bei der Erstellung von Freitextzeilen unterstützen. Dabei  können anwenderdefinierte Standard-Textbausteine genutzt werden.
+
+Die Software muss den Anwender bei Kürzungen von Textabschnitten für die Erzeugung des Ausdruckes  darauf hinweisen. Dies trifft vor allem die folgenden Datenfelder des Ausdruckes: E-Mail, Parameterblock,
+
+Hinweis, Behandlungsgrund und Zwischenüberschrift.
 
 Des Weiteren soll die Software den Anwender durch geeignete Interaktionen oder Hinweise unterstützen,  um Mehreingaben zu ersparen und ggf. eine Anpassung der Texte zu ermöglichen.
 
@@ -265,56 +403,86 @@ Zusätzlich soll die Software den Anwender geeignet informieren und unterstütze
 
 ---
 
-**Übernahme von Medikamentendaten aus geeigneten Datenquellen**
+- **Übernahme von Medikamentendaten aus geeigneten Datenquellen**
 
 *Müssen sich Daten aus anderen Medikationsplänen übernehmen lassen?*
 
-**ANTWORT :** Ja, die Übernahme von Daten (siehe auch Nr. 2 und 3), beschränkt sich nicht nur auf Daten wie  unter Nr. 2 beschrieben, sondern gilt auch für im PVS vorhandene Medikationspläne, sofern diese  Bestandteil der Verordnungsdokumentation sind. Eine Nutzung und Übernahme in das MP-Modul und die  Daten des BMP muss möglich sein. Auch die Daten anderer, spezifikationskonformer Medikationspläne  müssen übernommen werden können (siehe Nr. 11).
+**ANTWORT :** Ja, die Übernahme von Daten (siehe auch Nr. 2 und 3), beschränkt sich nicht nur auf Daten wie
 
-**5.** **Speicherung der Arzneimittel und aller notwendiger Inhalte**
+unter Nr. 2 beschrieben, sondern gilt auch für im PVS vorhandene Medikationspläne, sofern diese  Bestandteil der Verordnungsdokumentation sind. Eine Nutzung und Übernahme in das MP-Modul und die
+
+Daten des BMP muss möglich sein. Auch die Daten anderer, spezifikationskonformer Medikationspläne  müssen übernommen werden können (siehe Nr. 11).
+
+- **5.** **Speicherung der Arzneimittel und aller notwendiger Inhalte**
 
 **FRAGE:*** Welche Daten sind zu einem BMP zu speichern?*
 
-**ANTWORT :** Die Software muss vom Arzt oder anderen Ärzten verordnete Medikamente und  Selbstmedikation des Patienten mit allen für die Erstellung des Medikationsplans notwendigen  Informationen (d.h. auch Dosierung, Hinweise, Behandlungsgrund) in der Dokumentation zum Patienten im  PVS (mindestens im Carrier) speichern. Alle zu einem Medikament für den BMP notwendigen Daten aus der  Arzneimitteldatenbank müssen ergänzend gespeichert werden.
+**ANTWORT :** Die Software muss vom Arzt oder anderen Ärzten verordnete Medikamente und
 
-Die Software muss zudem das PDF des erzeugten Medikationsplans im MP-Modul oder als Bestandteil der  Patientendokumentation speichern. Die Speicherung des Carriers muss unterstützt werden. Empfohlen  wird eine dokumentationssichere Speicherung, um jederzeit Nachweis über erstellte und eingelesene Pläne  führen zu können.
+Selbstmedikation des Patienten mit allen für die Erstellung des Medikationsplans notwendigen  Informationen (d.h. auch Dosierung, Hinweise, Behandlungsgrund) in der Dokumentation zum Patienten im  PVS (mindestens im Carrier) speichern. Alle zu einem Medikament für den BMP notwendigen Daten aus der
 
-**6.** **Wirkstofforientierte Befüllung**
+Arzneimitteldatenbank müssen ergänzend gespeichert werden.
+
+Die Software muss zudem das PDF des erzeugten Medikationsplans im MP-Modul oder als Bestandteil der
+
+Patientendokumentation speichern. Die Speicherung des Carriers muss unterstützt werden. Empfohlen
+
+wird eine dokumentationssichere Speicherung, um jederzeit Nachweis über erstellte und eingelesene Pläne
+
+führen zu können.
+
+- **6.** **Wirkstofforientierte Befüllung**
 
 **FRAGE:*** Ist eine reine Wirkstoff-Notation im Medikationsplan zu ermöglichen?*
 
-**ANTWORT :** Ja, die Software muss eine Erstellung von BMPs auf Basis der verordneten Wirkstoffe ohne  Befüllung der Spalte „Handelsname“ ermöglichen. Dabei soll die Software den Anwender unterstützen, z.B.  indem eine Option angeboten wird, alle Handelsnamen (einschließlich der PZN) zu entfernen.
+**ANTWORT :** Ja, die Software muss eine Erstellung von BMPs auf Basis der verordneten Wirkstoffe ohne
 
-**7.** **Nutzung von Schlüsselworten**
+Befüllung der Spalte „Handelsname“ ermöglichen. Dabei soll die Software den Anwender unterstützen, z.B.
+
+indem eine Option angeboten wird, alle Handelsnamen (einschließlich der PZN) zu entfernen.
+
+- **7.** **Nutzung von Schlüsselworten**
 
 **FRAGE:*** Müssen alle Schlüsselworte unterstützt werden?*
 
-**ANTWORT :** Ja, die Software muss die Verwendung von Schlüsselworten unterstützen, d.h. bei der Erstellung  von Inhalten können Schlüsselworte genutzt werden und bei dem Einlesen müssen diese interpretiert  werden. Eine Verwendung von Schlüsselworten durch den Anwender ist nicht zwingend. Die Software muss  vom Anwender eingegebene Texte, die Schlüsselworten entsprechen, nicht automatisch durch Schlüssel  ersetzen, sie kann dies aber im Sinne der Datensparsamkeit tun
+**ANTWORT :** Ja, die Software muss die Verwendung von Schlüsselworten unterstützen, d.h. bei der Erstellung
 
-**8.** **Unabhängiger MP-Aufruf**
+von Inhalten können Schlüsselworte genutzt werden und bei dem Einlesen müssen diese interpretiert  werden. Eine Verwendung von Schlüsselworten durch den Anwender ist nicht zwingend. Die Software muss  vom Anwender eingegebene Texte, die Schlüsselworten entsprechen, nicht automatisch durch Schlüssel  ersetzen, sie kann dies aber im Sinne der Datensparsamkeit tun
 
-**FRAGE:** *Darf das MP-Modul ausschließlich mit bestimmten Programmfunktionen (z.B. Rezeptschreibung) des*  *PVS verbunden sein?*
+- **8.** **Unabhängiger MP-Aufruf**
 
-**ANTWORT :** Nein, die Software muss den Aufruf des MP-Moduls zu jeder Zeit  auch unabhängig von der  Rezeptschreibung oder dem Anlegen einer Verordnung  ermöglichen.
+**FRAGE:** *Darf das MP-Modul ausschließlich mit bestimmten Programmfunktionen (z.B. Rezeptschreibung) des*
+
+*PVS verbunden sein?*
+
+**ANTWORT :** Nein, die Software muss den Aufruf des MP-Moduls zu jeder Zeit  auch unabhängig von der
+
+Rezeptschreibung oder dem Anlegen einer Verordnung  ermöglichen.
 
 
 ---
 
-**Einlesen fremder MPs**
+- **Einlesen fremder MPs**
 
-**10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
+-
 
-**11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
+- **10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
 
-**12.** **Versionskompatibilität**
+- **11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
 
-**13.** **Zusatzfunktionen**
+- **12.** **Versionskompatibilität**
+
+- **13.** **Zusatzfunktionen**
 
 * Müssen fremde Medikationspläne per Barcode eingelesen werden?*
 
-**ANTWORT :** Die Software muss durch Dritte erstellte bzw. aktualisierte Medikationspläne (mit einer oder  mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher
+**ANTWORT :** Die Software muss durch Dritte erstellte bzw. aktualisierte Medikationspläne (mit einer oder
 
-nen Patienten auch mehrere Pläne  Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten müssen einer Nutzung im  MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für ei eingelesen werden können (siehe auch Nr. 12).
+mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher
+
+nen Patienten auch mehrere Pläne
+
+Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten müssen einer Nutzung im  MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für ei eingelesen werden können (siehe auch Nr. 12).
 
 **FRAGE:** *Was muss mit einem eingelesenen Plan passieren, wenn bereits ein Plan vorhanden ist?*
 
@@ -333,56 +501,98 @@ soll hierfür wesentliche Inhalte von Medikationsplänen (intern verfügbare ode
 
 Einträge mit identischer / gleicher PZN / Wirkstoff sollen kenntlich gemacht werden. Es soll eine geeignete
 
-isch oder nach ATC-Code). Durch entsprechende  Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabet Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
+isch oder nach ATC-Code). Durch entsprechende
 
-rankenkassen) verfahren werden. In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der K
+Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabet Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
+
+rankenkassen) verfahren werden.
+
+In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der K
 
 **FRAGE:** *Welche Versionen des BMP müssen unterstützt werden?*
 
-**ANTWORT :** Die Software muss BMPs, die bis zu 1 Jahr alt sind, aber auf einer Vorgängerversion oder  früheren Patch-Version basieren, in die aktuelle Version überführen können.
+**ANTWORT :** Die Software muss BMPs, die bis zu 1 Jahr alt sind, aber auf einer Vorgängerversion oder
+
+früheren Patch-Version basieren, in die aktuelle Version überführen können.
 
 **FRAGE:** *Darf man zum BMP Zusatzfunktionen anbieten?*
 
--Prüffunktionen.  **ANTWORT :** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:  Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS
+-Prüffunktionen.
+
+**ANTWORT :** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:
+
+Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS
 
 Zur Beachtung: Es sollen nicht die Pläne zwingend nebeneinander gezeigt werden, sondern led die Inhalte verglichen werden können. Wobei nebeneinander hier nicht streng als rechts/links zu interpretieren ist, sondern auch eine andere, geeignete, vergleichende Darstellung zulässig wäre.
 
 ---
 
-**Angabe einer Dosiereinheit**
+- **Angabe einer Dosiereinheit**
 
 *Ist die Angabe einer Dosiereinheit zu einem Medikationseintrag zwingend notwendig?*
 
-**ANTWORT :** Nein, die Angabe einer Dosiereinheit ist, unabhängig davon ob eine Dosierung zu einem  Medikationseintrag angegeben ist oder nicht, nicht verpflichtend.
+**ANTWORT :** Nein, die Angabe einer Dosiereinheit ist, unabhängig davon ob eine Dosierung zu einem
 
-Eine optionale Befüllung des Einheit-Feldes ist intendiert  vor allem um zeitaufwändige, verpflichtende  Eingabe von „Stück“ im Falle von festen, oralen Darreichungsformen zu vermeiden. Das Feld „Einheit“ sollte  jedoch besonders bei flüssigen Darreichungsformen befüllt werden. Diese können z. B. über Milliliter,  Messlöffel oder Tropfen dosiert werden. Eine patientenspezifische Auswahl ist daher notwendig, damit es  nicht zu Verunsicherungen kommt.
+Medikationseintrag angegeben ist oder nicht, nicht verpflichtend.
 
-**15.** **Umgang mit dem Zeichen Tilde „~“**  **FRAGE:** *Wie ist mit dem Zeichen Tilde „~“ korrekt umzugehen? Wo muss diese im Ausdruck erscheinen und*  *wo ist eine Eingabe verboten?*
+Eine optionale Befüllung des Einheit-Feldes ist intendiert  vor allem um zeitaufwändige, verpflichtende
 
-**ANTWORT :** Das Zeichen ist ein gültiges Zeichen nach ISO-8859-1 und kann somit in fast allen Feldern des  Ausdrucks verwendet werden.
+Eingabe von „Stück“ im Falle von festen, oralen Darreichungsformen zu vermeiden. Das Feld „Einheit“ sollte
 
-Die Felder, in denen die Tilde nicht verwendet werden darf, da diese im Barcode für einen manuellen  Zeilenumbruch genutzt wird, sind in Kapitel 7.3.5 der Spezifikation aufgeführt. Dabei handelt es sich um die  Felder Parameter_Freitext (2.20), Freitextzeile (5.2), Rezepturzeile (5.3), gebundene Zusatzzeile (4.9 und  5.4), Hinweis (4.7) oder Behandlungsgrund (4.8).
+jedoch besonders bei flüssigen Darreichungsformen befüllt werden. Diese können z. B. über Milliliter,  Messlöffel oder Tropfen dosiert werden. Eine patientenspezifische Auswahl ist daher notwendig, damit es  nicht zu Verunsicherungen kommt.
 
-**16.** **Verwendung der Daten aus der Referenzdatenbank des BfArM**  FRAGE:*** Erste Analysen der Daten der Referenzdatenbank haben gezeigt, dass in der Referenzdatenbank***  ***des BfArMs nicht zu allen PZNs Daten enthalten sind. Welche Informationen sollen in dieser***  ***entsprechenden Situation in dem BMP gedruckt werden?***
+- **15.** **Umgang mit dem Zeichen Tilde „~“**
 
-**ANTWORT :** In der entsprechenden Situation müssen die Softwaresysteme auf die vorliegenden  Arzneimittelstammdaten gemäß der IFA-Lieferungen zurückgreifen und diese Informationen in die  entsprechenden Felder des BMP drucken.
+**FRAGE:** *Wie ist mit dem Zeichen Tilde „~“ korrekt umzugehen? Wo muss diese im Ausdruck erscheinen und*
+
+*wo ist eine Eingabe verboten?*
+
+**ANTWORT :** Das Zeichen ist ein gültiges Zeichen nach ISO-8859-1 und kann somit in fast allen Feldern des
+
+Ausdrucks verwendet werden.
+
+Die Felder, in denen die Tilde nicht verwendet werden darf, da diese im Barcode für einen manuellen
+
+Zeilenumbruch genutzt wird, sind in Kapitel 7.3.5 der Spezifikation aufgeführt. Dabei handelt es sich um die
+
+Felder Parameter_Freitext (2.20), Freitextzeile (5.2), Rezepturzeile (5.3), gebundene Zusatzzeile (4.9 und  5.4), Hinweis (4.7) oder Behandlungsgrund (4.8).
+
+- **16.** **Verwendung der Daten aus der Referenzdatenbank des BfArM**
+
+FRAGE:*** Erste Analysen der Daten der Referenzdatenbank haben gezeigt, dass in der Referenzdatenbank***
+
+***des BfArMs nicht zu allen PZNs Daten enthalten sind. Welche Informationen sollen in dieser***
+
+***entsprechenden Situation in dem BMP gedruckt werden?***
+
+**ANTWORT :** In der entsprechenden Situation müssen die Softwaresysteme auf die vorliegenden
+
+Arzneimittelstammdaten gemäß der IFA-Lieferungen zurückgreifen und diese Informationen in die
+
+entsprechenden Felder des BMP drucken.
 
 Hinweis:
 
 Die KBV hat diesen Sachverhalt dem BfArM gemeldet, damit mögliche Lücken vom BfArM geschlossen  werden können. Dennoch empfehlen wir allen Softwareherstellern entsprechende Lücken dem BfArM  direkt unter [Referenzdaten@bfarm.de](mailto:Referenzdaten@bfarm.de) so detailliert wie möglich zu melden.
 
-**17.** **Angabe der Darreichungsform im Barcode**  FRAGE:*** In welchem Feld soll die Darreichungsform aus der Referenzdatenbank des BfArMs im Barcode des***  ***BMP 2.7 übertragen werden?***
+- **17.** **Angabe der Darreichungsform im Barcode**
 
-**ANTWORT :** Die Darreichungsform aus der Referenzdaten des BfArMs (Merkmal 302 gemäß AMV Anforderung P2-110) ist entgegen der Festlegung im Dokument „Spezifikation für einen  bundeseinheitlichen Medikationsplan“ im XML-Element MP.S.M.fd zu übertragen.
+FRAGE:*** In welchem Feld soll die Darreichungsform aus der Referenzdatenbank des BfArMs im Barcode des***
+
+***BMP 2.7 übertragen werden?***
+
+**ANTWORT :** Die Darreichungsform aus der Referenzdaten des BfArMs (Merkmal 302 gemäß AMV
+
+Anforderung P2-110) ist entgegen der Festlegung im Dokument „Spezifikation für einen
+
+bundeseinheitlichen Medikationsplan“ im XML-Element MP.S.M.fd zu übertragen.
 
 Hintergrund dieser Festlegung ist, dass der Wert des Merkmals 302 sieben Zeichen lang ist, dass Element  MP.S.M.f des Barcodes jedoch nur max. drei Zeichen zulässt. Eine Korrektur des Sachverhaltes erfolgt in der  nächsten Anpassung des BMPs.
 
 
 ---
 
-3
-
-## ANHANG
+# 3 ANHANG
 
 **3.1** **GLOSSAR**
 
@@ -397,9 +607,7 @@ Hintergrund dieser Festlegung ist, dass der Wert des Merkmals 302 sieben Zeichen
 | PVS | Praxisverwaltungssystem |
 | PZN | Pharmazentralnummer |
 
-4
-
-REFERENZIERTE DOKUMENTE
+4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

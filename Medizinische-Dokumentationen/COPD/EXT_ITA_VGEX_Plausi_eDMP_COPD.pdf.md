@@ -2,21 +2,29 @@
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+#
+
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
 
 - Anlage 12* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 # COPD
 
-**DMP-A-RL**  **gültig ab 01.04.2023**
+**DMP-A-RL**
 
-### Version:
+**gültig ab 01.04.2023**
 
-** 3.1**
+# Version: 3.1
 
-**01.03.2024**  **01.04.2024**
+**01.03.2024**
+
+**01.04.2024**
 
 
 ---

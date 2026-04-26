@@ -199,7 +199,9 @@ medatixx GmbH & Co. KG
 
 New Media Company GmbH & Co. KG
 
-**a** medatixx GmbH & Co. KG
+**a**
+
+medatixx GmbH & Co. KG
 
 CGM Clinical Europe GmbH
 

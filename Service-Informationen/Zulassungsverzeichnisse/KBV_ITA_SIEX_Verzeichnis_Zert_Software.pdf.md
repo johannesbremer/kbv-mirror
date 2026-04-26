@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,25 +34,36 @@ ACETO Softwareentwicklung GmbH
 
 **amelis** amedes Medizinische Dienstleistungen GmbH
 
-**MAP Software für Laborärzte** x Andaco Consulting & Trading GmbH
-
-**Iatropro** APM IT Bernhard Wichmann
-
-|  | x | x | x |  | x | x | x | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x | x | x | x | x | x | x | x | x | x |  |
-
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. April 2026
-
-xx
-
-xxx
-
-x x
+**MAP Software für Laborärzte**
 
 x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice EVA Abasoft EDV-Programme GmbH APRIS APRIS Praxiscomputer GmbH Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbHx
+Andaco Consulting & Trading GmbH
+
+|  | x | x | x |  | x | x | x | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+
+|  | x | x | x | x | x | x | x | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | x |  |  |  |  |  |  |  |  |  |
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. April 2026
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice EVA Abasoft EDV-Programme GmbH APRIS APRIS Praxiscomputer GmbH Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH ODSeasy asthenis GmbHx
 
 
 ---
@@ -60,8 +71,6 @@ x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**ODSeasy** asthenis GmbH
 
 **Avelios** Avelios Medical GmbH
 
@@ -82,21 +91,58 @@ x
 
 |  | x |  |  |  | x | x |  | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  |  |  | x | x | x | x | x | x |  |
+
+**CGM MEDICO** CGM Clinical Europe GmbH
+
+**CGM VT** CGM LAB International GmbH
 
 x
 
-xx
-
-x x
-
-xxx x
-
-xx xx
+x
 
 x
 
-Med7 Bitron GmbH Technologiesysteme CGM CLINICAL CGM Clinical Deutschland GmbH CGM MEDICO CGM Clinical Europe GmbH  (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservicex
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Med7 Bitron GmbH Technologiesysteme CGM CLINICAL CGM Clinical Deutschland GmbH  (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservicex
 
 
 ---
@@ -104,8 +150,6 @@ Med7 Bitron GmbH Technologiesysteme CGM CLINICAL CGM Clinical Deutschland GmbH C
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**CGM VT** CGM LAB International GmbH
 
 **CGM CHANNEL** CGM LAB International GmbH
 
@@ -128,29 +172,43 @@ Med7 Bitron GmbH Technologiesysteme CGM CLINICAL CGM Clinical Deutschland GmbH C
 
 **eLISA** compt gut hard & software gmbh
 
-**Z1** CompuGroup Medical Dentalsysteme GmbH
-
-xx
-
-x
-
-xxx
+|  | x |  |  |  | x | x |  | x | x |  | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | x | x | x | x | x | x | x | x | x | x |  |
 
 x
 
-xx
+x
 
-xx
+x
 
-xx
+x
 
-xx
+x
 
-xx
+x
 
-xx
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Praxis4More CoKom One GmbHxx xx xx
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Praxis4More CoKom One GmbH Z1 CompuGroup Medical Dentalsysteme GmbH TURBOMED CompuGroup Medical Deutschland AGx
 
 
 ---
@@ -158,9 +216,6 @@ xx
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x | x | x | x | x | x | x | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 |  | x |  | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -190,17 +245,23 @@ xx
 
 Data Experts GmbH
 
-**InterMediNet KVDT** DBI Informatik, Dirk Blume
+|  | x |  | x |  | x |  |  | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | x |  |  |  | x | x | x | x | x | x |  |
 
 x
 
 x
 
-xxx x
+x
 
 x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice TURBOMED CompuGroup Medical Deutschland AG ALBIS CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL Data-AL GmbHxxxx x x
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice ALBIS CompuGroup Medical Deutschland AG DATA VITAL CompuGroup Medical Deutschland AG CGM M1 PRO CompuGroup Medical Deutschland AG CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Data-AL Data-AL GmbH InterMediNet KVDT DBI Informatik, Dirk Blume ORBIS® Dedalus HealthCare GmbHx
 
 
 ---
@@ -208,9 +269,6 @@ x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x |  |  |  | x | x | x | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **Opus::L Labormanagementsystem** Dedalus Labor GmbH
 
@@ -231,17 +289,35 @@ x
 
 **i/med Billing** Dorner GmbH & Co. KG
 
-|  | x |  | x | x |  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**JPC ZytoLab** Dr. Axel Stenkamp Consulting & SoftwareEngineering
+
 |  | x | x | x |  | x | x | x | x | x | x |  |
-
-xx
-
-xx
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  | x |  |  |  |  |  |  |  |
 
 x
 
-IMedOne Deutsche Telekom Clinical Solutions GmbH inSuite Doc Cirrus GmbH Doctolib Praxis Doctolib GmbH JPC ZytoLab Dr. Axel Stenkamp Consulting & SoftwareEngineering apraxos Dr. Claudia Neumann  (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice ORBIS® Dedalus HealthCare GmbHxxx x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+IMedOne Deutsche Telekom Clinical Solutions GmbH inSuite Doc Cirrus GmbH Doctolib Praxis Doctolib GmbH apraxos Dr. Claudia Neumann Limport Dr. Eissing und Partner GmbH  (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservicex
 
 
 ---
@@ -249,8 +325,6 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH inSuite Doc Cirrus GmbH Doctoli
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**Limport** Dr. Eissing und Partner GmbH
 
 |  | x | x | x | x | x | x | x | x | x | x | x |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -276,23 +350,34 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH inSuite Doc Cirrus GmbH Doctoli
 |  | x | x | x | x |  | x |  | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**FIDUS** FIDUS Software Entwicklungs-GmbH
+|  | x |  |  |  | x | x |  | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
-**PathoFlow**
+**PathoFlow** Florian Kaiser
 
-Florian Kaiser
-
-x
-
-xx x
+**theHub** Fresenius Medical Care Deutschland GmbH
 
 x
 
 x
 
-xx xx x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice DURIA Duria eG Epikur Epikur Software GmbH & Co. KG PsychoDat ergosoft GmbH INDICATION ET Software Developments GmbH EVIDENT EVIDENT GmbH medibit Examion GmbHx
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice DURIA Duria eG Epikur Epikur Software GmbH & Co. KG PsychoDat ergosoft GmbH INDICATION ET Software Developments GmbH EVIDENT EVIDENT GmbH medibit Examion GmbH FIDUS FIDUS Software Entwicklungs-GmbHx
 
 
 ---
@@ -300,9 +385,6 @@ xx xx x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x |  |  | x | x |  |  | x | x |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 |  | x | x | x | x | x | x | x | x | x |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -329,15 +411,25 @@ GITG AG
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  |  | x |  | x |  | x | x | x |  |
 
-xxx
+**Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
 x
 
 x
 
-x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice theHub Fresenius Medical Care Deutschland GmbH QUINCY WIN Frey ADV GmbH Doctorly Frey ADV GmbH garrioPRO garrio GmbH J-MED Haase, Dipl.-Ing. Silvia GbR Elefant HASOMED GmbHx x
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice QUINCY WIN Frey ADV GmbH Doctorly Frey ADV GmbH garrioPRO garrio GmbH J-MED Haase, Dipl.-Ing. Silvia GbR Elefant HASOMED GmbHx
 
 
 ---
@@ -345,8 +437,6 @@ x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
 **Skymed** henova GmbH
 
@@ -366,25 +456,30 @@ x x
 
 **imassense ISG** imassense Deutschland GmbH
 
-**DynaMed** IMA-Systems Information-Technology GmbH
+|  | x |  |  |  | x |  | x | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
-**DAC-Formular 2** IMEDAC GmbH
-
-x
-
-xx
-
-x
-
-xx
-
-xx
+|  |  |  |  |  |  |  |  |  | x |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | x | x | x | x | x | x | x | x | x |  | x |
 
 x
 
-xxx x x x
+x
 
-IFA-AUGENARZT ifa systems AG ifa|NX-NEXT Generation AIS ifa systems AG  (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservicex
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice IFA-AUGENARZT ifa systems AG ifa|NX-NEXT Generation AIS ifa systems AG DynaMed IMA-Systems Information-Technology GmbH DAC-Formular 2 IMEDAC GmbH Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbHx
 
 
 ---
@@ -392,9 +487,6 @@ IFA-AUGENARZT ifa systems AG ifa|NX-NEXT Generation AIS ifa systems AG  (Link) e
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x | x | x | x | x | x | x | x | x |  | x |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **aurelio/lab** Intellitec Healthcare IT Solutions GmbH
 
@@ -413,21 +505,28 @@ IFA-AUGENARZT ifa systems AG ifa|NX-NEXT Generation AIS ifa systems AG  (Link) e
 |  | x |  |  | x | x | x |  | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**CLASSY RT** KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
+|  | x |  |  |  | x |  |  | x | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **LINA** LAB4.0 GmbH
 
+**smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
+
+x
+
+x
+
 x
 
 x
 
 x
 
-xx
+x
 
-xxx x x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH InterARZT InterData Praxiscomputer GmbH esQlab.online IQVIA Commercial GmbH & Co OHG DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V.x
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice InterARZT InterData Praxiscomputer GmbH esQlab.online IQVIA Commercial GmbH & Co OHG DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KGx
 
 
 ---
@@ -435,8 +534,6 @@ xxx x x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
 **ELADIS** LabKom Biochemische Dienstleistungen GmbH
 
@@ -459,23 +556,55 @@ xxx x x x
 
 **Klinik Dialog Plus** Leopoldina-Krankenhaus GmbH
 
-xx
+**H&S Laborsoftware** Limbach Gruppe SE
 
-xxx
+**lab@ccess** LIMETEC Biotechnologies GmbH
 
-xx
+x
 
-xx
+x
 
-xxx x
+x
 
-xx
+x
 
-xx
+x
 
-xx
+x
 
-xx
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
 
 (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice MELOS MeCom Arzt & Labor LABLIONS software & solutions GmbHx
 
@@ -485,10 +614,6 @@ xx
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**H&S Laborsoftware** Limbach Gruppe SE
-
-**lab@ccess** LIMETEC Biotechnologies GmbH
 
 **David** Medat Computersysteme GmbH
 
@@ -513,19 +638,35 @@ xx
 
 |  | x |  |  |  |  | x |  | x |  | x | x |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+
 |  | x |  |  |  |  | x |  | x | x | x | x |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. April 2026
+**Ashvins xIS** MedicalCommunications GmbH
 
-xxx
+**Klinik-Assistent** Medical-Software Frank Savini
+
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. April 2026
 
 x
 
-xx x
+x
 
-x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice EL - Elaphe Longissima medatixx GmbH & Co. KG x.isynet medatixx GmbH & Co. KG x.concept medatixx GmbH & Co. KG x.comfort medatixx GmbH & Co. KG medatixx medatixx GmbH & Co. KG medavis RIS medavis GmbH eRIS medavis GmbHxx
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice EL - Elaphe Longissima medatixx GmbH & Co. KG x.isynet medatixx GmbH & Co. KG x.concept medatixx GmbH & Co. KG x.comfort medatixx GmbH & Co. KG medatixx medatixx GmbH & Co. KG medavis RIS medavis GmbH eRIS medavis GmbHx
 
 
 ---
@@ -533,10 +674,6 @@ x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**Ashvins xIS** MedicalCommunications GmbH
-
-**Klinik-Assistent** Medical-Software Frank Savini
 
 **medicalvalues Order Intelligence** medicalvalues GmbH
 
@@ -558,27 +695,38 @@ x x
 |  | x | x | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**M-KIS**
-
-Meierhofer AG
+|  | x |  |  |  | x | x | x | x | x |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-x
-
-xx
-
-xx
-
-xx x x
-
-xx
+|  | x |  |  |  | x | x |  | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | x |  |  |  | x | x |  | x | x | x |  |
 
 x
 
-xx x x x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Praxis-Programm medisoftware GmbH & Co. KG MEDICUSplus MEDNET Service für Ärzte AG MEDVISION MedVision AG MEDYS MEDYS GmbHxx x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Praxis-Programm medisoftware GmbH & Co. KG MEDICUSplus MEDNET Service für Ärzte AG MEDVISION MedVision AG MEDYS MEDYS GmbH M-KIS Meierhofer AG RadCentre Billing (OPD) Mesalvo Mannheim GmbH ClinicCentre Billing (OPD) Mesalvo Mannheim GmbHx
 
 
 ---
@@ -586,12 +734,6 @@ xx x x x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x |  |  |  | x | x |  | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-
-|  | x |  |  |  | x | x |  | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **LabCentre** Mesalvo Mannheim GmbH
 
@@ -615,15 +757,47 @@ xx x x x x
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-xxx
+**order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
 
-xx
+**NEXUS/KIS (international)** NEXUS / REHA GmbH
 
-xxxx
+x
 
-xx xx
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice RadCentre Billing (OPD) Mesalvo Mannheim GmbH ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Med4WinPlus Müritz COMP Greifswald Computersystemhaus GmbH Pro_Medico Neutz GmbH Systemhaus SMARTY New Media Company GmbH & Co. KG MEDOS NEXUS / CHILI GmbHxx x
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice Med4WinPlus Müritz COMP Greifswald Computersystemhaus GmbH Pro_Medico Neutz GmbH Systemhaus SMARTY New Media Company GmbH & Co. KG MEDOS NEXUS / CHILI GmbHx
 
 
 ---
@@ -631,10 +805,6 @@ xx xx
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
-
-**NEXUS/KIS (international)** NEXUS / REHA GmbH
 
 |  | x |  |  |  | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -655,29 +825,36 @@ xx xx
 |  | x | x | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**psyprax**
-
-psyprax GmbH
+|  | x |  |  |  | x | x | x | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
 **QS-LAB** QS QualitySoft GmbH
 
-x
-
-xx
-
-x
+|  | x | x | x | x | x | x | x | x | x | x |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | x |  |  |  |  |  |  | x | x | x |  |
 
 x
 
-xx
+x
 
-xx x
+x
 
-xx
+x
 
-xx x x x x x
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice NEXUS / KIS NEXUS AG PegaMed PEGA Elektronik GmbH PROFIMED PRO MEDISOFT AGxx
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice NEXUS / KIS NEXUS AG PegaMed PEGA Elektronik GmbH PROFIMED PRO MEDISOFT AG psyprax psyprax GmbH RED medical classic RED Medical Systems GmbH RED Medical RED Medical Systems GmbHx
 
 
 ---
@@ -685,11 +862,6 @@ xx x x x x x
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-|  | x | x | x | x | x | x | x | x | x | x |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-
-**RED Medical** RED Medical Systems GmbH
 
 **RescuePro** RescuePro Production GmbH & Co. KG
 
@@ -716,17 +888,29 @@ xx x x x x x
 
 **Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
 
-xx x x
+**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
 
-xx
+**PalliDoc** Statconsult GmbH
+
+x
 
 x
 
 x
 
-xx
+x
 
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice RED medical classic RED Medical Systems GmbH S3-Win S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management SAP SE ARZT 2000 Schmidt Computersysteme QMED.PRAXIS Schwerdtner Medizin-Software GmbH principa SIEGELE Software GmbHx
+x
+
+x
+
+x
+
+x
+
+x
+
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice S3-Win S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management SAP SE ARZT 2000 Schmidt Computersysteme QMED.PRAXIS Schwerdtner Medizin-Software GmbH principa SIEGELE Software GmbHx
 
 
 ---
@@ -734,10 +918,6 @@ xx
 | **Name der Software und Anbieter** |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
-
-**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
-
-**PalliDoc** Statconsult GmbH
 
 **IOX-LS** STIWA AMS GmbH
 
@@ -751,26 +931,20 @@ xx
 |  | x | x | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**TeleClinic eAU**
-
-TeleClinic GmbH
+**TeleClinic eAU** TeleClinic GmbH
 
 |  | x | x | x | x | x | x | x | x | x | x |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-**UNISOLO®-POESY**
-
-UNISOLO® GmbH
+**UNISOLO®-POESY** UNISOLO® GmbH
 
 **PDV-FR** Universitätsklinikum Freiburg AdöR
 
 **AiDKlinik** Universitätsklinikum Heidelberg
 
-x
+**data4doc** Vidal MMI Germany GmbH
 
-xx
-
-x
+**labGate** vireq software solutions GmbH
 
 x
 
@@ -778,9 +952,23 @@ x
 
 x
 
-xxx
+x
 
-xx
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
 
 (Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice MEDI_LINE Strzata, Dr. med. Norbert T2med T2med GmbH & Co. KG Medi10 UfP Systemhaus GmbHx
 
@@ -791,16 +979,8 @@ xx
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | **Abrechnung(Link)** | **elektronische** | **Disease-Management-Programme(Link)elektronische** | **Dokumentation(Link)Labordaten-** | **kommmunikation(Link) (Link)** | **Arzneimittelverordnung(Link)** | **HeilmittelverordnungVerordnung(Link)** | **vonDigitale(Link)** | **DiGAsMuster** | **Blankoformular-bedruckung(Link) eArztbrief(Link)** | **(Link)** |
 
-**data4doc** Vidal MMI Germany GmbH
-
-**labGate** vireq software solutions GmbH
-
 |  | x | x | x | x | x | x | x | x | x | x | x |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  | x |  | x | x | x | x |  | x | x | x | x |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. April 2026
-
-x
-
-(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice tomedo Zollsoft GmbH tomedo.air Zollsoft GmbHxx
+(Link) elektronische Disease-  (Link) Arzneimittelverordnung Verordnung von DiGAs Digitale Muster  (Link) Blankoformular- eTerminservice tomedo Zollsoft GmbH tomedo.air Zollsoft GmbHSeite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. April 2026

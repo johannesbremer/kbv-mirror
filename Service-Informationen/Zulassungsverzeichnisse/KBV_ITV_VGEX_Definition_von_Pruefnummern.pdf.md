@@ -21,7 +21,9 @@ INHALT
 |---|---|---|---|---|---|---|
 | 1.1 | Definition | der Prüfnummern | der KBV | zur Zertifizierung | von Praxsisoftware | 4 |
 
-**2** **REFERENZIERTE DOKUMENTE** **6**
+**2** **REFERENZIERTE DOKUMENTE**
+
+**6**
 
 Definition der Prüfnummern der KBV zur Zertifizierung von Praxsisoftware
 
@@ -39,13 +41,11 @@ Definition von Prüfnummern
 
 ---
 
-1
-
-## EINLEITUNG
+# 1 EINLEITUNG
 
 Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf  Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten  Monate und müssen dann über Rezertifizierung
 
-**1.1** **DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE**
+## 1.1 DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE
 
 Die Bedeutung der einzelnen Stellen der Prüfnummern
 
@@ -106,17 +106,15 @@ Deutsche Krankenhausgesellschaft
 |---|---|
 | 820-821 | Richtlinie KV |
 
-**Gültigkeitsbeginn:**
+## Gültigkeitsbeginn:
 
 Format in JJMM
 
-**Gültigkeitsdauer:**
+## Gültigkeitsdauer:
 
 Dauer in Monaten
 
-**Software-ID:**
-
-3 Ziffern
+## Software-ID: 3 Ziffern
 
 Diese identifizieren das System des Herstellers bei der KBV.
 
@@ -124,9 +122,7 @@ Diese identifizieren das System des Herstellers bei der KBV.
 
 ---
 
-2
-
-REFERENZIERTE DOKUMENTE
+2 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -139,6 +135,8 @@ REFERENZIERTE DOKUMENTE
 
 Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 date/Allgemein/KBV_ITA_RLEX_Zert.pdf

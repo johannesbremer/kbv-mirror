@@ -45,9 +45,7 @@ Dr. Florian Fuhrmann - **11:20-11:30 Uhr**
 
 ### Datenfluss und ein besseres
 
-### und Forscher:innen
-
-zu ermöglichen. Dieses Ziel hat das KIG im
+### und Forscher:innen zu ermöglichen. Dieses Ziel hat das KIG im
 
 ### Transformationsjahr 2024 schrittweise weiter vorangetrieben.
 
@@ -57,21 +55,17 @@ zu ermöglichen. Dieses Ziel hat das KIG im
 
 ### Nutzererlebnis für Mediziner:innen
 
-### Zu den wichtigsten Entwicklungen gehören: 1.
+### Zu den wichtigsten Entwicklungen gehören:
 
-### Erste eML -Empfehlung
+1. Erste eML-Empfehlung **innerhalb von 4 Monaten**
 
-### innerhalb von 4 Monaten 2.
-
-### Errichtung eines neuen Konformitätsbewertungsverfahrens
+2. Errichtung eines neuen Konformitätsbewertungsverfahrens
 
 ### zur Gewährleistung einer größeren Interoperabilität zwischen
 
 ### Systemen innerhalb von 5 Monaten
 
-**3.**
-
-### Einvernehmen 116117 mit kv digital
+**3. Einvernehmen 116117** mit kv digital
 
 
 ---
@@ -80,15 +74,15 @@ zu ermöglichen. Dieses Ziel hat das KIG im
 
 ### Aufgaben und Prozesse des KIGs
 
-### Spezifikationen
+#### Spezifikationen
 
 Eigenentwicklung, Beauftragen
 
-### IOP Expertengremium & Kreis
+#### IOP Expertengremium & Kreis
 
 Beratung und Unterstützung in den  neuen Aufgaben, IOP-Arbeitskreise
 
-### Wissensplattform INA
+#### Wissensplattform INA
 
 KOB-Antragsdaten, PVS-Positivliste,  KOB-Beschwerdestelle, C5-Testate
 
@@ -98,19 +92,21 @@ Verbindliche Festlegungen
 
 **5**
 
-### Operationalisierung +  Prozessoptimierung in  Geschäfts- und  Verfahrensordnung auf
+#### Operationalisierung +  Prozessoptimierung in  Geschäfts- und
+
+#### Verfahrensordnung auf
 
 ### Anlagen
 
-### Regelungsprozess
+#### Regelungsprozess
 
 Einheitliches Kommentierungsverfahren Vorschlag zur Verbindlichmachung
 
-### Konformitätsbewertungsverfahren
+#### Konformitätsbewertungsverfahren
 
 Antrag, Zertifikat, Anzeigepflichten,  Beschwerdemöglichkeiten
 
-### Strategische Entwicklung
+#### Strategische Entwicklung
 
 Unterstützung Bundesregierung,  Kompetenzbildung Reporting
 
@@ -139,7 +135,9 @@ Gesetzliche Spezifikationsaufträge  der IOP-Governance Verordnung
 
 ## Aufgabe des KIGs
 
-**pflegt Poolrichtet ein**
+**pflegt Pool**
+
+**richtet ein**
 
 **Auswahlverfahren**
 
@@ -195,7 +193,9 @@ Innovationskraft
 
 ### Leistungs-
 
-Industrie Patient:innenVersorgungsabläufeDatenqualität
+Versorgungsabläufe
+
+Industrie Patient:innenDatenqualität
 
 
 ---
@@ -211,9 +211,9 @@ Industrie Patient:innenVersorgungsabläufeDatenqualität
 
 # Erfolgreiche Etablierung des neuen Verfahrens in  Zusammenarbeit mit den Herstellern
 
-### Was & Wie
+### Was & Wie - Instrument, **um neu**
 
-- Instrument, **um neu**  **festgelegte IOP-Standards**  **korrekten Anwendung in**  **Primärsystemen**  diese zu autorisieren
+**festgelegte IOP-Standards**  **korrekten Anwendung in**  **Primärsystemen**  diese zu autorisieren
 
 - Langfristig werden mit Hilfe dieses
 
@@ -229,11 +229,17 @@ zu prüfen und
 
 ### Ergebnisse & Learnings
 
-- **Regulatorik**: Verbindliche Frist für  Umsetzung von Standards in  Primärsystemen
+- **Regulatorik**: Verbindliche Frist für
 
-- **Prozess:** Integration war ein Erfolg 62%  berichteten, dass der Prozess ohne  größere Probleme durchlief
+Umsetzung von Standards in  Primärsystemen
 
-- **Kommunikation**: Sprechstundenformat  mit Herstellern als gutes Instrument
+- **Prozess:** Integration war ein Erfolg 62%
+
+berichteten, dass der Prozess ohne  größere Probleme durchlief
+
+- **Kommunikation**: Sprechstundenformat
+
+mit Herstellern als gutes Instrument
 
 gaben 67% der Befragten an
 
@@ -265,25 +271,35 @@ gaben 67% der Befragten an
 
 # eMP und ISiK: Nächste  Konformitätsbewertungen werden geplant
 
-### Vorbereitungen für KOB zur ePA 3.1.3 sind gestartet -
+### Vorbereitungen für KOB zur ePA 3.1.3 sind gestartet
 
-### Identifikation der Anforderungen, die in Empfehlungsprozess dem BMG zur  Verbindlichmachungübergeben werden -
+- **Identifikation der Anforderungen**, die in Empfehlungsprozess dem BMG zur
 
-### Fokus: erweiterter digital gestützter Medikationsprozess -
+### Verbindlichmachungübergeben werden
 
-### Identifikation der Zielgruppen für bestätigungsrelevante Systeme -
+- Fokus: **erweiterter digital gestützter Medikationsprozess**
 
-### Empfehlungsdokument wird auf INA veröffentlicht -
+- **Identifikation** der Zielgruppen für **bestätigungsrelevante Systeme**
 
-### Anschließend: Notifizierungsverfahren (mind. 3 Monate) -
+- **Empfehlungsdokument** wird auf INA veröffentlicht
 
-### Timeline wird noch bekannt gegeben -
+- Anschließend: **Notifizierungsverfahren** (mind. 3 Monate)
 
-### Nach erfolgreicher Notifizierung: Aktualisierung der Anlage 1  Gesundheits-IT-Interoperabilitäts-Governance Verordnung -
+- Timeline wird noch bekannt gegeben
 
-### KOB für ePA 3.0 / Medication Service ePA 3.0 wird durch  kommende KOB für ePA 3.1.3 ersetzt -
+- Nach erfolgreicher Notifizierung: **Aktualisierung der Anlage 1**
 
-### Operativer Prozess bleibt bestehen: Bereitstellung der Testsuite  über GitHub Einreichung der Testberichte und Nachweise  über Titus 12
+### Gesundheits-IT-Interoperabilitäts-Governance Verordnung
+
+- **KOB für ePA 3.0 / Medication Service ePA 3.0** wird durch
+
+### kommende KOB für ePA 3.1.3 ersetzt
+
+- Operativer Prozess bleibt bestehen: Bereitstellung der **Testsuite**
+
+### über GitHub Einreichung der Testberichte und Nachweise
+
+### über Titus 12
 
 
 ---
@@ -294,7 +310,9 @@ gaben 67% der Befragten an
 
 - Gemeinschaft stärken & gemeinsam  effektiver sein mit einem neuen  Format als Ergänzung zu  bestehenden
 
-- Relevante Akteure bündeln ihre  Kräfte **18.09.2025**- Kommen Sie  vorbeiheute Abend!joinforces
+- Relevante Akteure bündeln ihre  Kräfte **18.09.2025**- Kommen Sie
+
+vorbeiheute Abend!joinforces
 
 ### Interoperabilitäts Navigator
 
@@ -392,13 +410,21 @@ Analoge Prozesse Digitale Journeys
 
 # ohne Digitalisierung schwer lösbar
 
-### Unzureichende  Patient:innen- sicherheit
+#### Unzureichende  Patient:innen- sicherheit
 
-### Daten- austausch
+#### Daten- austausch
 
-### Individuelle Zeit für  MedizinPatient:innen
+#### Individuelle
 
-### Attraktivität  medizinischer Berufe
+#### Zeit für
+
+#### Medizin
+
+#### Patient:innen
+
+#### Attraktivität
+
+#### medizinischer Berufe
 
 
 ---
@@ -418,11 +444,15 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **E-Rezept**
 
-**Deutsches**  **Elektronisches Melde-** **und Informationssystem**  **für den Infektionsschutz**  **(DEMIS)**
+**Deutsches**
+
+**Elektronisches Melde-** **und Informationssystem**  **für den Infektionsschutz**  **(DEMIS)**
 
 **Notfalldaten**
 
-**Kommunikation**  **im Medizinwesen**  **(KIM)** **2015**
+**Kommunikation**  **im Medizinwesen**  **(KIM)**
+
+**2015**
 
 **TI-Messenger**
 
@@ -446,7 +476,9 @@ Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
 **400 Mio.**
 
-## mit KIM versendete  elektronische  Arbeitsunfähigkeits- bescheinigungen  (eAU) an  Krankenkassen
+## mit KIM versendete
+
+## elektronische  Arbeitsunfähigkeits- bescheinigungen  (eAU) an  Krankenkassen
 
 
 ---
@@ -500,11 +532,9 @@ der ePA zum 1.10.
 
 # ePA Roll Outs
 
-### GoLive 15.01.25 ePA -Einführung in
+### GoLive 15.01.25 ePA-Einführung in  Modellregionen
 
-### Modellregionen
-
-### heute
+#### heute
 
 ### Seit 29.04.25 Start bundesweiter  Roll Out 01.10.25
 
@@ -525,7 +555,9 @@ der ePA zum 1.10.
 
 **1,7 Mio.**
 
-## Hochgeladene  Dokumente pro Woche
+## Hochgeladene
+
+## Dokumente pro Woche
 
 **01.10.25**
 
@@ -533,9 +565,7 @@ der ePA zum 1.10.
 
 **~ 83%**
 
-## Marktanteil der PVS-Hersteller die ePA -Update bereitgestellt
-
-## haben
+## Marktanteil der PVS-Hersteller die ePA-Update bereitgestellt  haben
 
 
 ---
@@ -544,7 +574,9 @@ der ePA zum 1.10.
 
 ### gemäß Sozialgesetzbuch (SGB) Fünftes Buch (V)
 
-## Das Gesetz unterscheidet zwischen operativer Betriebsleistung
+## Das Gesetz unterscheidet zwischen
+
+## operativer Betriebsleistung
 
 ### Beauftragte Dienstleister oder zugelassene
 
@@ -600,7 +632,11 @@ Veränderung seit Jan 2022
 
 # Digitalisierung als Schlüssel  Reformen nachhaltig zum Erfolg bringen
 
-## KrankenhausreformNotfallreformPrimärarztversorgung
+## Krankenhausreform
+
+## Notfallreform
+
+## Primärarztversorgung
 
 
 ---
@@ -609,7 +645,11 @@ Veränderung seit Jan 2022
 
 ## Gemeinsame Daten und digitale Prozesse  als Katalysator für diese wichtigen  Vorhaben
 
-## KrankenhausreformNotfallreformPrimärarztversorgung
+## Krankenhausreform
+
+## Notfallreform
+
+## Primärarztversorgung
 
 
 ---

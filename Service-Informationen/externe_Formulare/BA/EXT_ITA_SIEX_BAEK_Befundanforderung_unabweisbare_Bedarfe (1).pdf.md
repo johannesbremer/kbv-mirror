@@ -1,6 +1,4 @@
-### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
-
-gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17 12.2021
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom 17 12.2021
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -10,13 +8,15 @@ Liquidations-ID:
 
 Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
 
-Letzte Behandlung am _________________
+# Letzte Behandlung am _________________
 
-**Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung – Mehrbedarf nach §21**  **SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen**  **Gründen laufend benötigt werden):**
+# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung – Mehrbedarf nach §21
 
-**Aktuelle Beschwerden:**
+# SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
 
-**Begründung der Notwendigkeit des besonderen Bedarfs (je nach genannter Fragestellung im**  **Anschreiben, z.B. an Pflege- bzw. Hygieneartikeln, etc.):**
+# Aktuelle Beschwerden:
+
+# Begründung der Notwendigkeit des besonderen Bedarfs (je nach genannter Fragestellung im  Anschreiben, z.B. an Pflege- bzw. Hygieneartikeln, etc.):
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21.12
 
@@ -24,18 +24,28 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21.12
 
 BGL-Nummer: _______________
 
-[ ][ ]
+[ ]
+
+[ ]
 
 
 ---
 
-**relevante medizinische Unterlagen (Arztbriefe, Befundberichte, Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
+
+**Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
+
+**Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift 12
+___________________________
+
+Ort, Datum
+
+Stempel und Unterschrift 12
 
 **Rückruf erbeten** [ ]
 
@@ -50,7 +60,9 @@ __________________________
 
 ---
 
-**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller)**
+
+**Eingang ÄD**
 
 An den
 
@@ -60,9 +72,11 @@ An den
 | Steuernummer/  Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen Dienst der  Agentur für Arbeit
+Ärztlichen Dienst der
 
-## Liquidation
+Agentur für Arbeit
+
+# Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 

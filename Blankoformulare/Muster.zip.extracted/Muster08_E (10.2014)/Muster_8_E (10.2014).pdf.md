@@ -8,7 +8,9 @@
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 
-**Euro** **dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
+**Euro**
+
+**dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
 
 |  | **Unterschrift** | **des Empfängers** |
 |---|---|---|
@@ -18,7 +20,15 @@
 
 **in Höhe des geltenden Festbetragesin Höhe von**
 
-**Ich erkläre,Die Kosten werden übernommenErklärung des VersichertenEntscheidung der KrankenkasseDatumDatum**
+**Ich erkläre,**
+
+**Die Kosten werden übernommen**
+
+**Erklärung des VersichertenEntscheidung der Krankenkasse**
+
+**Datum**
+
+**Datum**
 
 **Folge-**
 
@@ -28,9 +38,19 @@
 
 **Erst-** **Unfall,**
 
-**Reparatur** **versorgungUnfallfolgen**
+**Reparatur**
 
-**Sehbehinderung** **mindestens WHO 1BelegnummerRechnungsnummerIK des LeistungserbringersSehhilfenverordnung**
+**versorgungUnfallfolgen**
+
+**Sehbehinderung** **mindestens WHO 1**
+
+**Belegnummer**
+
+**Rechnungsnummer**
+
+**IK des Leistungserbringers**
+
+**Sehhilfenverordnung**
 
 **Betrag Euro**
 
@@ -38,7 +58,13 @@
 
 **geb. am** **Status**
 
-**nein** **Datum** **jaja**
+**nein**
+
+**Datum**
+
+**ja**
+
+**ja**
 
 **abstandScheitel-**
 
@@ -50,7 +76,17 @@
 
 **Änderung um mindestens0,5 Dioptrien**
 
-**Betriebsstätten-Nr.Krankenkasse bzw. KostenträgerKostenträgerkennungName, Vorname des VersichertenDiagnose/Begründung:Menge und Art der Verordnung:Befund:Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
+**Betriebsstätten-Nr.**
+
+**Krankenkasse bzw. KostenträgerKostenträgerkennung**
+
+**Name, Vorname des Versicherten**
+
+**Diagnose/Begründung:**
+
+**Menge und Art der Verordnung:**
+
+**Befund:Wenn nein, wird eine Verbesserung der Seh-schärfe um mindestens 20% erzielt?**
 
 **Achse**
 
@@ -72,12 +108,24 @@
 
 **igung ab**
 
-**passt.** **Lieferung anderer Waree**
+**passt.**
 
-**angIch versichere, dass die gelieferte SehhilfeEmpfangsbestätder Verordnung entspricht.Datum Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
+**Lieferung anderer Ware**
+
+**e**
+
+**angIch versichere, dass die gelieferte Sehhilfe**
+
+**Empfangsbestätder Verordnung entspricht.Datum**
+
+**Zur Beachtung für den VersichertenDiese Verordnung ist kein Gutschein für einen bestiDie**  **Der Barcode enthält keine auf dem Formular nicht le**
 
 **Rechnungsbetrag**
 
-**L**  **Vertragsarztstempel / Unterschrift des ArztesR**
+**L**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**R**
 
 Glas / Gläser bzw. Kontaktlinsen Unterschrift des Empfängers (Vor- und Zuname) Bescheinigung des Leistungserbringers Die Sehhilfe wurde gemäß vorstehender Unterschrift des Versicherten**L** **N**

@@ -191,7 +191,9 @@ CompuGroup Medical Deutschland AG 1
 
 Frey ADV GmbH
 
-**a** medatixx GmbH & Co. KG
+**a**
+
+medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 

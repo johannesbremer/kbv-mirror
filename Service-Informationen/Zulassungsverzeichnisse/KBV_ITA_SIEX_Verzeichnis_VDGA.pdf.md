@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -31,7 +31,7 @@
 |  | Y/451/2511/38/078 | 31.12.2028 |  |
 |  | Y/450/2407/36/078 | 30.06.2027 |  |
 
-EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 
 ---
@@ -50,7 +50,7 @@ EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar I
 |  | Y/451/2601/36/203 | 31.12.2028 |  |
 |  | Y/450/2410/36/203 | 30.09.2027 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 Y/450/2412/37/346
 
@@ -78,7 +78,7 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |  | Y/451/2508/36/060 | 31.07.2028 |  |
 |  | Y/450/2410/36/060 | 30.09.2027 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
@@ -147,7 +147,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Wind
 |---|---|---|---|
 |  | X/450/2407/36/617 | 30.06.2027 |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 Y/450/2502/38/616
 
@@ -177,7 +177,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 |  | Y/451/2603/37/406 | 31.03.2029 |  |
 |  | Y/450/2507/36/406 | 30.06.2028 |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 Y/450/2410/36/642
 
@@ -247,7 +247,7 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 |  | Y/451/2601/36/299 | 31.12.2028 |  |
 |  | Y/450/2407/36/299 | 30.06.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 Y/450/2407/36/290
 
@@ -306,7 +306,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |  | Y/451/2601/36/171 | 31.12.2028 |  |
 |  | Y/450/2410/36/171 | 30.09.2027 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 18. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 25. April 2026
 
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|

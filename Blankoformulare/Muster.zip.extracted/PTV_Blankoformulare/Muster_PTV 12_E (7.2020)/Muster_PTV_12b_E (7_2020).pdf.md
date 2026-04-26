@@ -30,9 +30,13 @@ Kinder/Jugendliche
 
 Es liegt eine Diagnose nach F70-F79 (ICD-10-GM) vor
 
-Die Versicherte bzw. der Versicherte wurde bei mir in den letzten sechs Monaten psychotherapeutisch behandelt
+Die Versicherte bzw. der Versicherte wurde bei mir in den letzten sechs Monaten
 
-Es wurden innerhalb der letzten 12 Monate  mindestens 50 Minuten Psychotherapeutische Sprechstunde durchgeführt
+psychotherapeutisch behandelt
+
+Es wurden innerhalb der letzten 12 Monate
+
+mindestens 50 Minuten Psychotherapeutische Sprechstunde durchgeführt
 
 ja, und zwar am
 

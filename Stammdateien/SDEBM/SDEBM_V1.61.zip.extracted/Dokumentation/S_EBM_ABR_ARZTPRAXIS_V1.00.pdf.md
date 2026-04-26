@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_EBM_ABR_ARZTPRAXIS
+#### S_EBM_ABR_ARZTPRAXIS
 
 **OID:**
 
@@ -22,4 +22,4 @@
 
 **Bezeichnung**
 
-Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS1
+Schlüsseltabelle: S_EBM_ABR_ARZTPRAXIS 1

@@ -1,6 +1,4 @@
-### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
-
-gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -10,15 +8,17 @@ Liquidations-ID:
 
 Patient/in befindet sich seit _____________
 
-Letzte Behandlung am _________________
+# Letzte Behandlung am _________________
 
-**Welche Leistung wird beantragt (Frage ist nur zu beantworten, falls die aktuelle Verordnung durch Sie**  **erfolgt ist)?**
+## Welche Leistung wird beantragt (Frage ist nur zu beantworten, falls die aktuelle Verordnung durch Sie
+
+## erfolgt ist)?
 
 [ ]
 
 [ ]
 
-**Nähere Beschreibung der technischen Hilfen:**
+# Nähere Beschreibung der technischen Hilfen:
 
 Einlagen
 
@@ -26,17 +26,25 @@ technische Hilfe (bitte näher beschreiben):
 
 [ ]
 
-**Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:**
-
-[ ] Rückenschmerzen:
-
-[ ] Beinverkürzung:
+## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:
 
 [ ]
 
-[ ] Beckenschiefstand:
+- Rückenschmerzen:
 
-[ ] Kniebeschwerden:
+[ ]
+
+- Beinverkürzung:
+
+[ ]
+
+[ ]
+
+- Beckenschiefstand:
+
+[ ]
+
+- Kniebeschwerden:
 
 [ ] Sonstige (bitte benennen): ____________________________________________________________
 
@@ -52,9 +60,7 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21
 
 regelmäßig [ ]
 
-Schuhzurichtung
-
-HWS
+Schuhzurichtung - HWS
 
 [ ]
 
@@ -68,21 +74,25 @@ BGL-Nummer:
 
 gelegentlich [ ]
 
-manuell[ ]
-
-[ ] BWS
-
-rechts
-
-rechts
-
-rechts
+manuell
 
 [ ]
 
 [ ]
 
-17 12
+- BWS
+
+- rechts
+
+- rechts
+
+- rechts
+
+[ ]
+
+[ ]
+
+# 17 12
 
 nicht in meiner Behandlung
 
@@ -98,47 +108,57 @@ Maßschuhe
 
 [ ]
 
-.2021
+# .2021
 
-elektrisch
+elektrisch - LWS
 
-LWS
+- links
 
-links
+- links
 
-links
-
-links
+- links
 
 
 ---
 
-**Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des**  **Fußschutzes oder der technischen Hilfen**
+# Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des  Fußschutzes oder der technischen Hilfen
 
-**Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die**  **Einlagen ganztags getragen werden?**
+## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die
 
-janein
+## Einlagen ganztags getragen werden?
 
-**Seit wann besteht die gesundheitliche Beeinträchtigung?**
+ja
+
+nein
+
+## Seit wann besteht die gesundheitliche Beeinträchtigung?
 
 Seit: _______________
 
-**Bisher verordnete Hilfsmittel (beispielweise Orthesen, Prothesen, Bandagen, etc.). Bitte geben Sie auch**  **einen Hinweis, weshalb diese aus Ihrer Sicht nicht ausreichend sind:**
+# Bisher verordnete Hilfsmittel (beispielweise Orthesen, Prothesen, Bandagen, etc.). Bitte geben Sie auch  einen Hinweis, weshalb diese aus Ihrer Sicht nicht ausreichend sind: 12
 
-12
+[ ]
 
-[ ][ ]
+[ ]
 
 
 ---
 
-**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
+
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
+
+**Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
 Medizinische Unterlagen können ggf. angefordert werden bei:
 
-___________________________  Ort, Datum  Stempel und Unterschrift 12
+___________________________
+
+Ort, Datum
+
+Stempel und Unterschrift 12
 
 [ ]
 
@@ -153,7 +173,9 @@ __________________________
 
 ---
 
-**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller)**
+
+**Eingang ÄD**
 
 An den
 
@@ -163,9 +185,11 @@ An den
 | Steuernummer/  Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen Dienst der  Agentur für Arbeit
+Ärztlichen Dienst der
 
-## Liquidation
+Agentur für Arbeit
+
+# Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 

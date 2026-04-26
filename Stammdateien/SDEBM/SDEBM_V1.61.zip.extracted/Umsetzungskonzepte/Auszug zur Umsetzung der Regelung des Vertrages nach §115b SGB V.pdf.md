@@ -10,9 +10,9 @@ Dieses Verfahren vermeidet eine weitere Differenzierung der bestehenden Scheinun
 
 Bei der Ausstellung von Überweisungen im Zusammenhang mit Leistungen des Vertrages  nach § 115b SGB V ist vom überweisenden Arzt darauf zu achten, dass das Ankreuzfeld „§  115b“ auf dem Überweisungsschein markiert ist. Bei der Verwendung alter Formulare, die das  zusätzliche Ankreuzfeld nicht enthalten, ist die Pseudo – GNR 88115 auf den Überweisungs- schein aufzutragen.
 
-3
+3 Einbindung der Abschnitte des Vertrages in die GO-
 
-### Einbindung der Abschnitte des Vertrages in die GO- Stammdaten
+### Stammdaten
 
 **3.1 Einleitung**
 
@@ -32,7 +32,9 @@ Hierfür wird je nach Grundlage der Berechnungsfähigkeit der ambulanten Operati
 
 Sind nach § 115b SGB V ambulant durchführbare Operationen in Abschnitt 1 oder 2 der An- lage 1 zum Vertrag aufgeführt, so wird beim betroffenen OPS-Code das R-Attribut „115b“ zu- gefügt.
 
-G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc Seite 5 von 10
+G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
+Seite 5 von 10
 
 
 ---
@@ -84,7 +86,11 @@ aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
 
 </zeitbedarf_liste>  <pruefzeit V="25" U="2" U-DOMAIN="1.2.276.0.76.5.238">  <zeitprofilart V="3" S="1.2.276.0.76.5.228" SV="1.00"/>  </pruefzeit>
 
-<rlv V="0" S="1.2.276.0.76.5.241" SV="1.00"/>  <leistungsgruppe V="8" S="1.2.276.0.76.5.227" SV="1.00"/>  </allgemein>  <bedingung>
+<rlv V="0" S="1.2.276.0.76.5.241" SV="1.00"/>  <leistungsgruppe V="8" S="1.2.276.0.76.5.227" SV="1.00"/>
+
+</allgemein>
+
+<bedingung>
 
 <genehmigungspflicht V="true"/>  <gnr_zusatzangaben>  <gnr_zusatzangaben_liste V="AUSWAHL">  <gnr_zusatzangabe V="5035" S="1.2.276.0.76.5.229" SV="1.03"/>
 
@@ -98,7 +104,9 @@ aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
 
 </ops_liste>  <gnr_liste>  ...
 
-</gnr_liste>  </begruendungen_liste>  </bedingung>
+</gnr_liste>  </begruendungen_liste>
+
+</bedingung>
 
 <regel/>
 
@@ -116,7 +124,9 @@ aop_115b“ mit Ausprägung V=“true“ bei den Bedin-
 
 </kv>  <vdx>
 
-</vdx>  </gnr>
+</vdx>
+
+</gnr>
 
 **3.3 Abschnitt 2**
 
@@ -137,13 +147,21 @@ Die anderen Leistungen des Abschnitts 2, die immer in Kombination mit dem OPS st
 
 Die GNR des Abschnitts 3 der Anlage 1 zum Vertrag nach § 115b SGB V sind im Rahmen  des Vertrages nach § 115b SGB V berechnungsfähig und ausschließlich als Leistung im  Rahmen des Vertrages nach § 115b SGB V einzustufen. Zu diesen GNR sind keine OPS- Codes existent.
 
-Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung das Element  eingefügt worden. Alle Gebührennummern, die in diesem V-Attribut den Wert  sind generell nach § 115b SGB V abzurechnen. Gebührennummern die dieses Element nicht  haben und auch mit keinem 115b-fähigen OPS verknüpft sind, lösen keinen Fall nach § 115b  SGB V aus.
+Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung das Element
+
+eingefügt worden. Alle Gebührennummern, die in diesem V-Attribut den Wert  sind generell nach § 115b SGB V abzurechnen. Gebührennummern die dieses Element nicht  haben und auch mit keinem 115b-fähigen OPS verknüpft sind, lösen keinen Fall nach § 115b  SGB V aus.
 
 Diese Änderung in der Schnittstelle ist im folgenden Ausschnitt der Gebührenordnungs- stammdatei zu erkennen (fett dargestellt).
 
-<gnr V="XXXXX" USE="74" USE-DOMAIN="1.2.276.0.76.5.233" VT="2006-09-18">  <allgemein>  ...
+<gnr V="XXXXX" USE="74" USE-DOMAIN="1.2.276.0.76.5.233" VT="2006-09-18">
 
-</allgemein>  <bedingung>  **aop_115b V="true"/>**
+<allgemein>
+
+...
+
+</allgemein>
+
+<bedingung>  **aop_115b V="true"/>**
 
 <genehmigungspflicht V="true"/>  <gnr_zusatzangaben>  <gnr_zusatzangaben_liste V="AUSWAHL">  <gnr_zusatzangabe V="5035" S="1.2.276.0.76.5.229" SV="1.03"/>
 
@@ -153,7 +171,9 @@ Diese Änderung in der Schnittstelle ist im folgenden Ausschnitt der Gebührenor
 
 </bedingung>  <regel/>  <kv/>
 
-<vdx/>  </gnr>
+<vdx/>
+
+</gnr>
 
 **3.5 Begleitleistungen**
 
@@ -161,7 +181,9 @@ Da außerhalb des Kapitels 31 des EBM keine Systematik der prä-, intra- und pos
 
 Hierzu kann die KBV nur die notwendigen Strukturen innerhalb der GO-Stammdatei bereit- stellen. Die Auswahl der zulässigen Begleitleistungen muss durch die KV erfolgen.
 
-In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element  ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element
+In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element
+
+ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element
 
 <begleit_115b V="…"> verwendet werden. Es
 
@@ -170,15 +192,15 @@ In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/
 
 ---
 
-V="…"/> eine Einschränkung der Gültigkeit nach prä-, intra- und/oder postoperativen Bereich  vorzunehmen. Ein Beispiel ist in dem oben gezeigten Ausschnitt der Gebührenordnungs-
+V="…"/> eine Einschränkung der Gültigkeit nach prä-, intra- und/oder postoperativen Bereich
+
+vorzunehmen. Ein Beispiel ist in dem oben gezeigten Ausschnitt der Gebührenordnungs-
 
 stammdatei zu sehen.
 
 Des Weiteren ist es bei Begleitleistungen (analog zu der KV-Bewertung) möglich, eine Ein- schränkung der Gültigkeit auf Kostenträgergruppen oder Kostenträgern in der GO- Stammdatei einzustellen.
 
-4
-
-### Umsetzung der Prüfung im KBV-Prüfmodul
+4 Umsetzung der Prüfung im KBV-Prüfmodul
 
 Die KBV geht aufgrund der Dokumentationspflicht (vgl. § 19 Abs. 3 des Vertrages nach §  115b SGB V) davon aus, dass der OPS-Code grundsätzlich zu dokumentieren ist. Daher  werden die Leistungen in der GOS jeweils mit der entsprechenden GNR – Zusatzangabe be- stückt. Aufgrund der Angaben der erforderlichen GNR – Zusatzangaben für die jeweilige Ab- rechnung der Leistung in der GOS, kann abschließend eine Prüfung der Kombination aus  Gebührennummer und OPS-Code durch das KVDT – Prüfmodul realisiert werden.
 

@@ -20,26 +20,148 @@ KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **ALLGEMEINES 5**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 5  1.2 Zertifizierungsablauf 5  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 6  1.5 Prüfunterlagen 7  Verzeichnisstruktur 1.5.1 7  1.5.2 Digitale Muster bestehend aus PDF-Dokumenten 8  LDT-Unterlagen bestehend aus XDT-Dokumenten 1.5.3 8  1.5.4 Dokumentation für alle Prüffälle 8  Übertragungswege 1.5.5 8  1.6 Prüfvorgaben 9  1.6.1 Prüfstammdaten 9  Versichertendaten 1.6.2 9  1.6.3 Stammdaten 9  1.7 LDT Datensatz 11  1.8 Importdateien 12  1.9 Signierung der Muster 6, 10 und 39 12
+**5**
 
-**2** **PRÜFFÄLLE 13**
+1.1 Rechtsgrundlage
 
-2.1 Digitales Muster 06  Export 13  2.2 Digitales Muster 06  Import 15  2.3 Digitales Muster 10  Export 16  2.4 Digitales Muster 10  Import 19  2.5 Digitales Muster 10A  Export 19  2.6 Digitales Muster 10A  Import 21  2.7 Digitales Muster 39  Export 21  2.8 Digitales Muster 39  Import 24  Export 2.9 LDT-Befund 25  2.10 LDT-Befund- Zervix-Zytologie/Pathologie  Export 27  Import 2.11 LDT-Befund 28  2.12 LDT-Auftrag  Export 29  2.13 LDT-Auftrag  Import 31
+5
 
-**3** **TESTDATENVALIDIERUNG 32**
+1.2 Zertifizierungsablauf
 
-3.1 Digitales Muster 6  Export 33  3.2 Digitales Muster 10  Export 34  3.3 Digitales Muster 10A  Export 35  3.4 Digitales Muster 39  Export 36  Export 3.5 LDT-Befund 37  3.6 LDT-Auftrag  Export 38
+5
 
-**4** **REFERENZIERTE DOKUMENTE** **40**
+1.3 Zertifizierungsportal
+
+6
+
+1.4 Zertifizierungsdokumente
+
+6
+
+1.5 Prüfunterlagen
+
+7
+
+Verzeichnisstruktur 1.5.1
+
+7
+
+1.5.2 Digitale Muster bestehend aus PDF-Dokumenten 8
+
+LDT-Unterlagen bestehend aus XDT-Dokumenten 1.5.3
+
+8
+
+1.5.4 Dokumentation für alle Prüffälle 8
+
+Übertragungswege 1.5.5
+
+8
+
+1.6 Prüfvorgaben
+
+9
+
+1.6.1 Prüfstammdaten
+
+9
+
+Versichertendaten 1.6.2
+
+9
+
+1.6.3 Stammdaten
+
+9
+
+1.7 LDT Datensatz
+
+11
+
+1.8 Importdateien
+
+12
+
+1.9 Signierung der Muster 6, 10 und 39 12
+
+**2** **PRÜFFÄLLE**
+
+**13**
+
+2.1 Digitales Muster 06  Export 13
+
+2.2 Digitales Muster 06  Import 15
+
+2.3 Digitales Muster 10  Export 16
+
+2.4 Digitales Muster 10  Import 19
+
+2.5 Digitales Muster 10A  Export 19
+
+2.6 Digitales Muster 10A  Import 21
+
+2.7 Digitales Muster 39  Export 21
+
+2.8 Digitales Muster 39  Import 24
+
+Export 2.9 LDT-Befund
+
+25
+
+2.10 LDT-Befund- Zervix-Zytologie/Pathologie  Export 27
+
+Import 2.11 LDT-Befund
+
+28
+
+2.12 LDT-Auftrag  Export
+
+29
+
+2.13 LDT-Auftrag  Import
+
+31
+
+**3** **TESTDATENVALIDIERUNG**
+
+**32**
+
+3.1 Digitales Muster 6  Export
+
+33
+
+3.2 Digitales Muster 10  Export 34
+
+3.3 Digitales Muster 10A  Export 35
+
+3.4 Digitales Muster 39  Export 36
+
+Export 3.5 LDT-Befund
+
+37
+
+3.6 LDT-Auftrag  Export
+
+38
+
+**4** **REFERENZIERTE DOKUMENTE**
+
+**40**
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Struktur des ZIP-Archives 7  Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A-Export 7  Abbildung 3: Struktur des ZIP-Archives 32  Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export 32
+Abbildung 1: Struktur des ZIP-Archives 7
+
+Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A-Export 7
+
+Abbildung 3: Struktur des ZIP-Archives 32
+
+Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export 32
 
 
 ---
@@ -63,77 +185,131 @@ PF05, PF065 und TE02 PF10, PF01, PF02, PF03, PF04, PF05, PF06, PF07_1, PF07_2, P
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Labordatenkommunikation.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  ses Prüfpaketes sind. weitere wichtige Informationen entnommen werden, die nicht Bestandteil die
+Rahmen der Zertifizierung und ist zu beachten.
 
-**1.1** **RECHTSGRUNDLAGE**
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  ses Prüfpaketes sind.
 
--Ärzte (BMV-Ä).  Die Rechtsgrundlage für die Zertifizierung der Labordatenkommunikation ergibt sich aus §§ 72, 73, und 75  SGB V sowie Anlage 2b zum Bundesmantelvertrag
+weitere wichtige Informationen entnommen werden, die nicht Bestandteil die
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.1 RECHTSGRUNDLAGE -Ärzte (BMV-Ä).
 
--Auftrag, LDT-Befund, digitales Muster (DiMus) Die Labordatenkommunikation umfasst die Funktionen LDT 10 und digitales Muster 10A jeweils für den Export und Import dieser Daten. Welche dieser Funktionen der  atenkommunikation beinhalten muss, ist vom Zertifizierungsgegenstand zur Unterstützung der Labord gegenstandes abhängig und demzufolge dem Antragsteller freigestellt. Einsatzgebiet des Zertifizierungs Allerdings sind alle Anforderungen zu den jeweiligen Funktionen, die mit dem Antrag auf Zertifizierung  beantragt wurden, vollständig und fehlerfrei umzusetzen.
+Die Rechtsgrundlage für die Zertifizierung der Labordatenkommunikation ergibt sich aus §§ 72, 73, und 75  SGB V sowie Anlage 2b zum Bundesmantelvertrag
+
+## 1.2 ZERTIFIZIERUNGSABLAUF
+
+-Auftrag, LDT-Befund, digitales Muster (DiMus)
+
+Die Labordatenkommunikation umfasst die Funktionen LDT 10 und digitales Muster 10A jeweils für den Export und Import dieser Daten. Welche dieser Funktionen der  atenkommunikation beinhalten muss, ist vom
+
+Zertifizierungsgegenstand zur Unterstützung der Labord gegenstandes abhängig und demzufolge dem Antragsteller freigestellt.
+
+Einsatzgebiet des Zertifizierungs Allerdings sind alle Anforderungen zu den jeweiligen Funktionen, die mit dem Antrag auf Zertifizierung  beantragt wurden, vollständig und fehlerfrei umzusetzen.
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-entsprechenden Prüfvorgang initiieren. Nach 1. Der Antragsteller muss im Zertifizierungsportal den Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
+- entsprechenden Prüfvorgang initiieren. Nach
 
-bei der KBV eingereicht  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal  werden.
+- 1. Der Antragsteller muss im Zertifizierungsportal den Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV - bei der KBV eingereicht
 
-2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
+- bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal  werden.
 
-der Prüfautomatisierung des Zertifizierungsportals als  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung.  ssteller 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern. 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  t und den vorab via Mail Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+- der Prüfautomatisierung des Zertifizierungsportals als
+
+- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung.
+
+- ssteller
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  t und den vorab via Mail
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
 
 ---
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten  der Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+
+Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten
+
+der Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten
+
+Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt nur eine inhaltliche Prüfung, aber keine Prüfung auf  Vollständigkeit der eingereichten Prüfunterlagen durch.
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .HTML oder .XML -Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .HTML oder .XML -Format) erzeugt und
 
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3  berücksichtigt werden.
+dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)  bereit. In diesem Zusammenhang muss das vierte Kapitel Referenzierte Dokumente berücksichtigt werden.
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat
+
+Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3
+
+berücksichtigt werden.
+
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)
+
+bereit. In diesem Zusammenhang muss das vierte Kapitel Referenzierte Dokumente berücksichtigt werden.
 
 
 ---
 
-**1.5** **PRÜFUNTERLAGEN**
+## 1.5 PRÜFUNTERLAGEN
 
 In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
-**1.5.1** **Verzeichnisstruktur**
+### 1.5.1 Verzeichnisstruktur
 
-Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“  sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss mit „Zert_43_<SystemID> “ benannt werden.  Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine  vollständige Zertifizierung angestrebt („DigitalesMuster6 Export“, „DigitalesMuster6 Import“,  „DigitalesMuster10A Export“, „DigitalesMuster10A Import“, „DigitalesMuster10 Export“,  „DigitalesMuster10-Import“, „DigitalesMuster39 Export“, „DigitalesMuster39 Import“, „LDT-Auftrag- Export“, „LDT-Auftrag-Import“, „LDT-Befund-Export“, „LDT-Befund-Export-ZZ“ und „LDT-Befund-Import“),  sollte das Paket die folgende Form aufweisen:
+Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“  sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss mit „Zert_43_<SystemID> “ benannt werden.
+
+Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine  vollständige Zertifizierung angestrebt („DigitalesMuster6 Export“, „DigitalesMuster6 Import“,
+
+„DigitalesMuster10A Export“, „DigitalesMuster10A Import“, „DigitalesMuster10 Export“,
+
+„DigitalesMuster10-Import“, „DigitalesMuster39 Export“, „DigitalesMuster39 Import“, „LDT-Auftrag-
+
+Export“, „LDT-Auftrag-Import“, „LDT-Befund-Export“, „LDT-Befund-Export-ZZ“ und „LDT-Befund-Import“),
+
+sollte das Paket die folgende Form aufweisen:
 
 Abbildung 1: Struktur des ZIP -Archives
 
@@ -146,78 +322,118 @@ Abbildung 2: Struktur des ZIP -Archives für DigitalesMuster10A -Export
 
 ---
 
-**1.5.2** **Digitale Muster bestehend aus PDF-Dokumenten**
+### 1.5.2 Digitale Muster bestehend aus PDF-Dokumenten
 
 Die PDF-Dokumente werden für den Export des Digitalen Musters 10 und/oder 10A erwartet.
 
 Die PDF-Dokumente für den Import des Digitalen Musters 10 und/oder 10A sind optional.
 
-Die geforderten PDF-Dokumente müssen in dem entsprechenden Themen-Ordner hinterlegt sein. Die  erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene, Prüfschema  validierbar sein. Weiterer Bestandteil ist der Unterordner „Dokumentation“ (siehe Kapitel 1.5.4).
+Die geforderten PDF-Dokumente müssen in dem entsprechenden Themen-Ordner hinterlegt sein. Die
+
+erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene, Prüfschema  validierbar sein. Weiterer Bestandteil ist der Unterordner „Dokumentation“ (siehe Kapitel 1.5.4).
 
 Folgende Dateinamenskonvention für die PDF-Dokumente ist verbindlich:
 
-<PrüffallNr.>.pdf Beispiel: „PF01.pdf“ für den Prüffall „PF01“
+-  <PrüffallNr.>.pdf Beispiel: „PF01.pdf“ für den Prüffall „PF01“
 
-**1.5.3** **LDT-Unterlagen bestehend aus XDT-Dokumenten**
+### 1.5.3 LDT-Unterlagen bestehend aus XDT-Dokumenten
 
-Die XDT Dateien werden für den Export des LDT-Auftrages und/oder LDT-Befundes erwartet. Die  geforderten LDT-Dateien müssen in dem entsprechenden Themen-Ordner hinterlegt sein. Die erzeugten  XDT-Dateien müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein.
+Die XDT Dateien werden für den Export des LDT-Auftrages und/oder LDT-Befundes erwartet. Die
+
+geforderten LDT-Dateien müssen in dem entsprechenden Themen-Ordner hinterlegt sein. Die erzeugten
+
+XDT-Dateien müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein.
 
 Weiterer Bestandteil ist der Unterordner „Dokumentation“ (siehe Kapitel 1.5.4).
 
 Folgende Dateinamenskonvention für die LDT-Dateien ist verbindlich:
 
-z01<PrüffallNr.> .ldt Beispiel: „z01PF07.ldt“ für den Prüffall PF07
+- z01<PrüffallNr.> .ldt Beispiel: „z01PF07.ldt“ für den Prüffall PF07
 
-**1.5.4** **Dokumentation für alle Prüffälle**
+### 1.5.4 Dokumentation für alle Prüffälle
 
-Die erzeugten Screenshots und deren Dokumentation werden im Ordner „Dokumentation“ abgelegt. Die  Bezeichnung oder der Inhalt müssen eindeutig dem Prüffall zugeordnet sein. Es muss mindestens ein .PDF- Dokument im Ordner „Dokumentation“ vorhanden sein.
+Die erzeugten Screenshots und deren Dokumentation werden im Ordner „Dokumentation“ abgelegt. Die
+
+Bezeichnung oder der Inhalt müssen eindeutig dem Prüffall zugeordnet sein. Es muss mindestens ein .PDF-
+
+Dokument im Ordner „Dokumentation“ vorhanden sein.
 
 Folgende Dateinamenskonvention für die Dokumente ist verbindlich:
 
-*.pdf Beispiele: „Doku01_und_Doku02.pdf“ oder „Informationen.pdf“
+- *.pdf Beispiele: „Doku01_und_Doku02.pdf“ oder „Informationen.pdf“
 
 Des Weiteren sind die in den Zertifizierungsgegenstand importierten Anhänge, die in den XDT Dateien  enthalten sind, unter der folgenden Dateinamenskonvention abzulegen:
 
-<PrüffallNr.> _ Anhang.pdf Beispiel: „PF09_Anhang.pdf“ für einen übermittelten Anhang im pdf  Format.
+- <PrüffallNr.> _ Anhang.pdf Beispiel: „PF09_Anhang.pdf“ für einen übermittelten Anhang im pdf - Format.
 
-**1.5.5** **Übertragungswege**
+### 1.5.5 Übertragungswege
 
-Der Antragsteller muss zwingend das Bestätigungsschreiben der gematik - Bestätigung der Konformität des  Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM durch den Hersteller des  Übertragungsweges auszufüllende Formular „Bestätigung eines Übertragungsweges“  [KBV_ITA_FMEX_Labor_UW] der KBV zur Verfügung stellen, falls der Export und/oder Import mindestens  eines der digitalen Muster 6, 10, 10A und 39 umgesetzt wird. Dieses Formular ist für jeden verwendeten  Übertragungsweg einzureichen. Die Unterlagen müssen in einem gesonderten Ordner  „Uebertragungswege“ innerhalb der Verzeichnisstruktur übermittelt werden.
+Der Antragsteller muss zwingend das Bestätigungsschreiben der gematik - Bestätigung der Konformität des
+
+Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM durch den Hersteller des
+
+Übertragungsweges auszufüllende Formular „Bestätigung eines Übertragungsweges“  [KBV_ITA_FMEX_Labor_UW] der KBV zur Verfügung stellen, falls der Export und/oder Import mindestens  eines der digitalen Muster 6, 10, 10A und 39 umgesetzt wird. Dieses Formular ist für jeden verwendeten
+
+Übertragungsweg einzureichen. Die Unterlagen müssen in einem gesonderten Ordner
+
+„Uebertragungswege“ innerhalb der Verzeichnisstruktur übermittelt werden.
 
 Folgende Dateinamenskonvention für die Dokumente ist verbindlich:
 
-*.pdf Beispiele: Übertragungsweg01.pdf oder Übertragung.pdf
+- *.pdf Beispiele: Übertragungsweg01.pdf oder Übertragung.pdf
 
 
 ---
 
 **HINWEIS**
 
-EF.VD = allgemeine Versicherungsdaten   EF.PD = persönliche Versichertendaten EF.GVD = geschützte Versichertendaten
+- EF.VD = allgemeine Versicherungsdaten -
 
-Sollte bereits dieses Bestätigungsschreiben für ein anderes Zertifizierungsverfahren bei der KBV z.B. die  eAU eingereicht worden sein, muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren  LDK erfolgen.
+-  EF.PD = persönliche Versichertendaten
 
-**1.6** **PRÜFVORGABEN**
+- EF.GVD = geschützte Versichertendaten
 
-**1.6.1** **Prüfstammdaten**
+Sollte bereits dieses Bestätigungsschreiben für ein anderes Zertifizierungsverfahren bei der KBV z.B. die
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  der Daten für den Echtbetrieb wird die Dateinamenserweiterung werden. Zur eindeutigen Unterscheidung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+eAU eingereicht worden sein, muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren  LDK erfolgen.
 
-**1.6.2** **Versichertendaten**
+## 1.6 PRÜFVORGABEN
 
--Dateien zur Verfügung gestellt. Die Archivdatei  Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+### 1.6.1 Prüfstammdaten
+
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
+
+der Daten für den Echtbetrieb wird die Dateinamenserweiterung
+
+werden. Zur eindeutigen Unterscheidung
+
+bzw. der Dateiname mit „PRF” gekennzeichnet.
+
+### 1.6.2 Versichertendaten
+
+-Dateien zur Verfügung gestellt. Die Archivdatei
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den
+
+Daten des Versicherten und werden als XML (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
 **HINWEIS**
 
--ID der XML-Datei Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall wird von der Prüffall-ID des Prüffalls abweichen.
+-ID der XML-Datei
 
-**1.6.3** **Stammdaten**
+Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall wird von der Prüffall-ID des Prüffalls abweichen.
+
+### 1.6.3 Stammdaten
 
 Als KBV-Prüfnummer verwenden Sie bitte für das Zertifizierungsverfahren:
 
 Y/43/1907/36/001
 
-Daten des Einsenders: In den Feldern BSNR und LANR innerhalb des Personalienfeldes sind außer beim  Prüffall PF07_2 immer die Werte des einsendenden Arztes zu erfassen. Der Vertragsarztstempel beinhaltet  somit immer die Daten des Einsenders.
+Daten des Einsenders: In den Feldern BSNR und LANR innerhalb des Personalienfeldes sind außer beim
+
+Prüffall PF07_2 immer die Werte des einsendenden Arztes zu erfassen. Der Vertragsarztstempel beinhaltet
+
+somit immer die Daten des Einsenders.
 
 | DATEN DES EINSENDERS |  |
 |---|---|
@@ -244,7 +460,9 @@ Daten des Einsenders: In den Feldern BSNR und LANR innerhalb des Personalienfeld
 | Kunden-(Arzt)Nummer | 471.1 |
 | E-Mail-Adresse des Einsenders | ms@toppgluecklich.de |
 
-**Daten des Erstveranlassers:** Die Werte des Erstveranlassers sind in den entsprechenden Feldern zu  übernehmen; z.B. in Muster 10 unterhalb des Personalienfeldes.
+**Daten des Erstveranlassers:** Die Werte des Erstveranlassers sind in den entsprechenden Feldern zu
+
+übernehmen; z.B. in Muster 10 unterhalb des Personalienfeldes.
 
 | DATEN DES ERSTVERANLASSERS |  |
 |---|---|
@@ -307,7 +525,7 @@ Daten des zytologisch tätigen Arztes (Prüff
 | PLZ/Ort | 64297 Darmstadt |
 | Telefon | 06151 / 3333333 |
 
-**1.7** **LDT DATENSATZ**
+## 1.7 LDT DATENSATZ
 
 Werden in den LDT Prüffällen zu den Werten von unbedingten LDT Mussfeldern und/oder bedingten LDT  Mussfeldern der aktuell gültigen LDT 3.0  3_0_X_Gesamtdokument] keine Vorgaben gemacht, so sind diese frei zu wählen.
 
@@ -318,22 +536,22 @@ Datensatzbeschreibung [EXT_ITA_VGEX_LDT
 
 ---
 
-**1.8** **IMPORTDATEIEN**
+## 1.8 IMPORTDATEIEN
 
-Die Importdateien für die einzelnen Prüffälle werden im Zertifizierungsportal bereitgestellt, nachdem der  Antrag auf Zertifizierung abschließend geprüft wurde.
+Die Importdateien für die einzelnen Prüffälle werden im Zertifizierungsportal bereitgestellt, nachdem der
 
-**1.9** **SIGNIERUNG DER MUSTER 6, 10 UND 39**
+Antrag auf Zertifizierung abschließend geprüft wurde.
+
+## 1.9 SIGNIERUNG DER MUSTER 6, 10 UND 39
 
 Auf die Muster 6, 10 und 39 ist eine qualifizierte elektronische Signatur (QES) aufzubringen. Die Erstellung  der QES erfordert neben einem Zugang zur Telematikinfrastruktur einen Konnektor, ein eHealth Kartenterminal und einen elektronischen Heilberufsausweis (eHBA) für Ärzte. Über die gematik sind  entsprechende HBA-Testkarten für Ärzte mit unterschiedlichen Namen erhältlich.
 
 
 ---
 
-2
+# 2 PRÜFFÄLLE
 
-## PRÜFFÄLLE
-
-Die Versichertendaten der Testpatienten müssen als „manuelle Erfassung“ d.h. ohne Einlesedatum  aufgenommen werden, auch wenn diese als XML Patientendaten in dem jeweiligen Prüffall verwendet wird, kann der Prüffalltabelle unter „Voraussetzung“  entnommen werden. Für die Prüffälle in diesem Prüfpaket kommen folgende Versichertendaten zum  Einsatz: 1. Eike Flüchtling [EV01]
+Die Versichertendaten der Testpatienten müssen als „manuelle Erfassung“ d.h. ohne Einlesedatum  aufgenommen werden, auch wenn diese als XML Patientendaten in dem jeweiligen Prüffall verwendet wird, kann der Prüffalltabelle unter „Voraussetzung“  entnommen werden. Für die Prüffälle in diesem Prüfpaket kommen folgende Versichertendaten zum  Einsatz: - 1. Eike Flüchtling [EV01]
 
 | FELDER | INHALT |
 |---|---|
@@ -351,9 +569,9 @@ Die Versichertendaten der Testpatienten müssen als „manuelle Erfassung“ d.h
 | Kostentraegerkennung | 105189484 |
 | BesonderePersonengruppe | 9 |
 
-2. Friedrich Schaumbërg [XML_21]
+- 2. Friedrich Schaumbërg [XML_21]
 
-**2.1** **DIGITALES MUSTER 06**
+## 2.1 DIGITALES MUSTER 06
 
 Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **06 - Export** beantragt wurde.
 
@@ -367,7 +585,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**EXPORT**
+## EXPORT
 
 -Dateien zur Verfügung stehen. Welche XML-Dateien bzw.
 
@@ -376,11 +594,11 @@ Export des signierten digitalen Musters Stammdaten] Screenshots über den Export
 
 ---
 
-1. Manuelle Erfassung der Versichertendaten:
+- 1. Manuelle Erfassung der Versichertendaten:
 
 Eike Flüchtling [EV01]
 
-2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
 | FELDER | INHALT |
 |---|---|
@@ -395,7 +613,9 @@ Eike Flüchtling [EV01]
 | Befund / Medikation (324 Zeichen) | 123456789012345678901234567890123456789012345678901234 |
 | Auftrag (1512 Zeichen) | 123456789012345678901234567890123456789012345678901234 |
 
-gemäß § 116b SGB V nach Abschnitt 31.2  ESS / bei 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890signieren und exportieren:
+-
+
+gemäß § 116b SGB V nach Abschnitt 31.2  ESS / bei 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890- signieren und exportieren:
 
 
 ---
@@ -406,11 +626,15 @@ gemäß § 116b SGB V nach Abschnitt 31.2  ESS / bei 567890123456789012345678901
 | Vertragsarztstempel / Unterschrift | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 | Unterschrift (QES) |  |
 
-3. digitales Muster erstellen signieren  4. digitales Muster exportieren signieren
+- 3. digitales Muster erstellen signieren
 
-**2.2** **DIGITALES MUSTER 06  IMPORT**
+- 4. digitales Muster exportieren signieren
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster 06**  **- Import** beantragt wurde.
+## 2.2 DIGITALES MUSTER 06  IMPORT
+
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster 06**
+
+**- Import** beantragt wurde.
 
 **Prüffallnummer: PF10**
 
@@ -423,7 +647,9 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Das von der KBV bereitgestellte PDF-Dokument „Muster_06_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
+Das von der KBV bereitgestellte PDF-Dokument „Muster_06_Schimmelpfennig“ wird in den
+
+Zertifizierungsgegenstand importiert.
 
 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234 567890123456789012345678901234567890123456789012345678 des Arztes elektr. Signatur des Einsenders einfügen sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  06 - Befund exportiert werden, wenn der Antragsteller „Muster 06 - Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Verfügung.
 
@@ -435,13 +661,15 @@ Das von der KBV bereitgestellte PDF-Dokument „Muster_06_Schimmelpfennig“ wir
 | Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten] Versichertendaten: Eike Flüchtling [EV01] |
 | Einzureichende Prüfunterlagen | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen ] |
 
-2. Manuelle Erfassung der Versichertendaten:
+- 2. Manuelle Erfassung der Versichertendaten:
 
-3. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
+- 3. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
 
-**2.3** **DIGITALES MUSTER 10  EXPORT**
+## 2.3 DIGITALES MUSTER 10  EXPORT
 
-Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **10 - Export** beantragt wurde.  **Digitales Muster**
+Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **10 - Export** beantragt wurde.
+
+**Digitales Muster**
 
 **Prüffallnummer: PF01**
 
@@ -477,7 +705,9 @@ Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zer
 | Vertragsarztstempel / Unterschrift überw. Arzt | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 | Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
 
-4. digitales Muster erstellen signieren  5. digitales Muster exportieren signieren
+- 4. digitales Muster erstellen signieren
+
+- 5. digitales Muster exportieren signieren
 
 **Prüffallnummer: PF02**
 
@@ -489,11 +719,11 @@ Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zer
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:
+- 1. Versichertendaten aus der XML-Datei einlesen:
 
 Friedrich Schaumbërg [XML_21]
 
-2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
 | FELDER | INHALT |
 |---|---|
@@ -508,7 +738,7 @@ Friedrich Schaumbërg [XML_21]
 | Befundübermittlung eilt, Übermittlung an | ja |
 | Telefon | nein |
 
-Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen bereits erfasst [Abschnitt 1.6.3 signieren und exportieren:
+Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen bereits erfasst [Abschnitt 1.6.3 - signieren und exportieren:
 
 
 ---
@@ -523,16 +753,18 @@ Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfu
 | Vertragsarztstempel / Unterschrift überw. Arzt | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 | Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
 
-3. digitales Muster exportieren signieren  4. digitales Muster exportieren signieren
+- 3. digitales Muster exportieren signieren
+
+- 4. digitales Muster exportieren signieren
 
 
 ---
 
-**2.4** **DIGITALES MUSTER 10**
+## 2.4 DIGITALES MUSTER 10
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **- Import** beantragt wurde.
 
-**IMPORT**
+## IMPORT
 
 **Prüffallnummer: PF03**
 
@@ -545,9 +777,11 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Das von der KBV bereitgestellte PDF-Dokument „Muster_10_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
+Das von der KBV bereitgestellte PDF-Dokument „Muster_10_Schimmelpfennig“ wird in den
 
-**2.5** **DIGITALES MUSTER 10A  EXPORT**
+Zertifizierungsgegenstand importiert.
+
+## 2.5 DIGITALES MUSTER 10A  EXPORT
 
 Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **10A - Export** beantragt wurde.
 
@@ -561,7 +795,11 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Manuelle Erfassung der Versichertendaten  Eike Flüchtling [EV01]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
+- 1. Manuelle Erfassung der Versichertendaten
+
+Eike Flüchtling [EV01]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
 | FELDER | INHALT |
 |---|---|
@@ -572,7 +810,8 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Digitales Muster**
 
-sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Verfügung. - Befun d mit Export“ beantragt oder - Befund exportiert Zertifizierungsgegenstand.
+sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Verfügung. - Befun d mit Export“ beantragt oder - Befund exportiert Zertifizierungsgegenstand. -
+
 
 ---
 
@@ -586,7 +825,7 @@ sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersich
 | Befund eilt | ja |
 | Auftrag | kleines Blutbild, Quick, PTT, ASL, Calcium, CK, Eisen, |
 
-3. digitales Muster exportieren
+- 3. digitales Muster exportieren
 
 **Prüffallnummer: PF05**
 
@@ -598,7 +837,11 @@ sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersich
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:  Friedrich Schaumbërg [XML_21]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
+- 1. Versichertendaten aus der XML-Datei einlesen:
+
+Friedrich Schaumbërg [XML_21]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
 | FELDER | INHALT |
 |---|---|
@@ -613,7 +856,8 @@ sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersich
 | Auftrag | Großes Blutbild, Blutsenkung, Quick, Bilirubin gesamt, IgG, |
 | Sonstiger Aufträage | 123456789012345678901234 |
 
-Kalium, LDH Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Abnahmedatum Abnahmezeit .icher Glukose, Sonstiges
+Kalium, LDH Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Abnahmedatum Abnahmezeit .icher Glukose, Sonstiges -
+
 
 ---
 
@@ -621,11 +865,13 @@ Kalium, LDH Zertifizierungsgegenstand.  Dateinamenskonvention beachten [Abschnit
 |---|---|
 | (572 Zeichen) | 567890123456789012345678 901234567890123456789012 |
 
-3. digitales Muster exportieren
+- 3. digitales Muster exportieren
 
-**2.6** **DIGITALES MUSTER 10A  IMPORT**
+## 2.6 DIGITALES MUSTER 10A  IMPORT
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster**  **10A mit Import** beantragt wurde.
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster**
+
+**10A mit Import** beantragt wurde.
 
 **Prüffallnummer: PF06**
 
@@ -638,11 +884,17 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Das von der KBV bereitgestellte PDF-Dokument „Muster_10A_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
+Das von der KBV bereitgestellte PDF-Dokument „Muster_10A_Schimmelpfennig“ wird in den
 
-**2.7** **DIGITALES MUSTER 39  EXPORT**
+Zertifizierungsgegenstand importiert.
 
-Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster**  **39 - Export** beantragt wurde. Es muss abhängig vom Softwarehersteller der Prüffall 7_1 (PF07_1) **und/oder**  der Prüffall 7_2 (PF07_2) eingereicht werden.
+## 2.7 DIGITALES MUSTER 39  EXPORT
+
+Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster**
+
+**39 - Export** beantragt wurde. Es muss abhängig vom Softwarehersteller der Prüffall 7_1 (PF07_1) **und/oder**
+
+der Prüffall 7_2 (PF07_2) eingereicht werden.
 
 **Prüffallnummer: PF07_1**
 
@@ -654,12 +906,14 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Import des signierten digitalen Musters 10A mit Dokumentation. Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert werden, wenn der Antragsteller Muster 10 - Befund mit Export  beantragt oder hierfür bereits eine Zulassung hat. zum Download zur Verfügung. Export des signierten digitalen Musters 39 Zertifizierungsgegenstand.  1. Versichertendaten aus der XML-Datei einlesen:
+Import des signierten digitalen Musters 10A mit Dokumentation. Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert werden, wenn der Antragsteller Muster 10 - Befund mit Export  beantragt oder hierfür bereits eine Zulassung hat. zum Download zur Verfügung. Export des signierten digitalen Musters 39 Zertifizierungsgegenstand.  - 1. Versichertendaten aus der XML-Datei einlesen:
 
 
 ---
 
-Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
+Malta [XML_20]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
 | FELDER | INHALT |
 |---|---|
@@ -686,7 +940,7 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 | Erläuterungen (130  Zeichen) | Zervixkarzinom, das die Gebärmuttergrenze |
 | Vertragsarztstempel / Unterschrift des Arztes | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 
-(vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreichtsignieren und exportieren:
+(vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht- signieren und exportieren:
 
 
 ---
@@ -695,7 +949,9 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 |---|---|
 | Unterschrift (QES) |  |
 
-3. digitales Muster signieren  4. digitales Muster exportieren
+- 3. digitales Muster signieren
+
+- 4. digitales Muster exportieren
 
 **Prüffallnummer: PF07_2**
 
@@ -707,7 +963,13 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:  Malta [XML_20]  1. Das von der KBV bereitgestellte PDF-Dokument  Zertifizierungsgegenstand weiterverwendet werden.  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
+- 1. Versichertendaten aus der XML-Datei einlesen:
+
+Malta [XML_20]
+
+- 1. Das von der KBV bereitgestellte PDF-Dokument  Zertifizierungsgegenstand weiterverwendet werden.
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
 | FELDER | INHALT |
 |---|---|
@@ -729,9 +991,9 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 
 **und  oder**
 
-„Muster_39_Malta_1“ muss vom
+- „Muster_39_Malta_1“ muss vom
 
-elektr. Signatur des Einsenders einfügen Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456signieren und exportieren:
+elektr. Signatur des Einsenders einfügen Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456- signieren und exportieren:
 
 
 ---
@@ -750,11 +1012,15 @@ elektr. Signatur des Einsenders einfügen Zertifizierungsgegenstand.  verwendbar
 | Zytologischer Vertragsarztstempel des | 123456788 Labor Hannelore Topp-Glücklich 987654321 Blücher Dr. med. Topp-Glücklich Josefine Hannelore Laborstr. 3 64297 Darmstadt 06151 / 3333333 |
 | Unterschrift (QES) |  |
 
-3. digitales Muster signieren  4. digitales Muster exportieren
+- 3. digitales Muster signieren
 
-**2.8** **DIGITALES MUSTER 39**
+- 4. digitales Muster exportieren
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **mit Import** beantragt wurde. Es muss abhängig vom Softwarehersteller der Prüffall 8_1 (PF08_1)  der Prüffall 8_2 (PF08_2) eingereicht werden.
+## 2.8 DIGITALES MUSTER 39
+
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **mit Import** beantragt wurde. Es muss abhängig vom Softwarehersteller der Prüffall 8_1 (PF08_1)
+
+der Prüffall 8_2 (PF08_2) eingereicht werden.
 
 **Prüffallnummer: PF08_1**
 
@@ -774,7 +1040,9 @@ zytologisch tätigen Arztes elektr. Signatur des Einsenders einfügen Screenshot
 
 ---
 
-Das von der KBV bereitgestellte PDF-Dokument „ Zertifizierungsgegenstand importiert.
+Das von der KBV bereitgestellte PDF-Dokument „
+
+Zertifizierungsgegenstand importiert.
 
 **- und - / - oder -**
 
@@ -789,9 +1057,11 @@ Das von der KBV bereitgestellte PDF-Dokument „ Zertifizierungsgegenstand impor
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Das von der KBV bereitgestellte PDF-Dokument „ Zertifizierungsgegenstand importiert.
+Das von der KBV bereitgestellte PDF-Dokument „
 
-**2.9** **LDT-BEFUND  EXPORT**
+Zertifizierungsgegenstand importiert.
+
+## 2.9 LDT-BEFUND  EXPORT
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag a **Export** beantragt wurde.
 
@@ -806,7 +1076,9 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag a **Export** beantr
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01] 2. Befundspezifische Daten erfassen
+- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
+
+- 2. Befundspezifische Daten erfassen
 
 | FELDER | INHALT |
 | Befundinformationen | |
@@ -821,7 +1093,8 @@ Muster_39_Malta_3“ wird in den
 
 uf Zertifizierung der Bereich **LDT-Befund mit**
 
-Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Verfügung. Sendendes Labor entspricht den Daten des Labors
+Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen Verfügung. Sendendes Labor entspricht den Daten des Labors -
+
 
 ---
 
@@ -839,7 +1112,7 @@ Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über 
 | Testbezogene Hinweise | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
 | Gebührennummer (GNR) | 32094 |
 
-3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
 **Prüffallnummer: PF08**
 
@@ -852,7 +1125,13 @@ Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Versichertendaten aus der XML-Datei einlesen: Friedrich Schaumbërg [XML_21] 2. Befundspezifische Daten erfassen: siehe PF07  3. Die Datei „Anhang_PF08.pdf“ als Anhang (base64 übermitteln. Dabei gelten folgende Bedingungen:
+- 1. Versichertendaten aus der XML-Datei einlesen: Friedrich Schaumbërg [XML_21]
+
+- 2. Befundspezifische Daten erfassen: siehe PF07
+
+- 3. Die Datei „Anhang_PF08.pdf“ als Anhang (base64
+
+- übermitteln. Dabei gelten folgende Bedingungen:
 
 | FELDER | INHALT |
 | Befundinformationen | |
@@ -860,14 +1139,16 @@ Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über 
 | Dokumententyp | Laborbefund |
 | Dateiformat | PDF |
 
-4. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
+- 4. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
--kodierte_Anlage) zum Laborergebnisbericht
+-
+
+- -kodierte_Anlage) zum Laborergebnisbericht -
 
 
 ---
 
-**2.10** **LDT-BEFUND- ZERVIX-ZYTOLOGIE/PATHOLOGIE**
+## 2.10 LDT-BEFUND- ZERVIX-ZYTOLOGIE/PATHOLOGIE
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **Zervix-Zytologie/Pathologie mit Export** beantragt wurde.
 
@@ -882,7 +1163,9 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Manuelle Erfassung der Versichertendaten von  2. Befundspezifische Daten erfassen
+- 1. Manuelle Erfassung der Versichertendaten von
+
+- 2. Befundspezifische Daten erfassen
 
 | FELDER | INHALT |
 | Befundinformationen | |
@@ -905,9 +1188,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | Zytologische Kontrolle | ja |
 | Grund der Nachkontrolle | nach Östrogenbehandlung |
 
-**EXPORT**
-
-Eike Flüchtling [EV01]
+## EXPORT - Eike Flüchtling [EV01]
 
 Die exportierte LDT-Datei. **LDT-Befund-**
 
@@ -923,9 +1204,9 @@ Die exportierte LDT-Datei. **LDT-Befund-**
 | Gebuehrennummer (GNR) | 32412 |
 | bereits abgerechnet | ja |
 
-3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
-**2.11** **LDT-BEFUND  IMPORT**
+## 2.11 LDT-BEFUND  IMPORT
 
 Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **Import** beantragt wurde.
 
@@ -942,7 +1223,15 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF09.ldt“ wird importiert.  2. Der enthaltene Anhang wird im angegeben Dateiformat exportiert.  3. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller  „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein  weiteres Untersuchungsergebnis Klinische Chemie hinzuzufügen.
+- 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF09.ldt“ wird importiert.
+
+- 2. Der enthaltene Anhang wird im angegeben Dateiformat exportiert.
+
+- 3. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller
+
+- „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein
+
+- weiteres Untersuchungsergebnis Klinische Chemie hinzuzufügen.
 
 **Prüffallnummer: PF09A**
 
@@ -963,13 +1252,17 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Die, von der KBV bereitgestellte, LDT- 2. Optional: Die importierten Daten müssen als LDT „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein  weiteres Untersuchungsergebnis der Zytologie Krebsvorsorge
+- 1. Die, von der KBV bereitgestellte, LDT-
 
-Datei „z01PF09a.ldt“ wird importiert.  -Dateien exportiert werden, wenn der Antragsteller
+- 2. Optional: Die importierten Daten müssen als LDT „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein
 
-hinzuzufügen.
+- weiteres Untersuchungsergebnis der Zytologie Krebsvorsorge
 
-**2.12** **LDT-AUFTRAG  EXPORT**
+- Datei „z01PF09a.ldt“ wird importiert.
+
+- -Dateien exportiert werden, wenn der Antragsteller - hinzuzufügen.
+
+## 2.12 LDT-AUFTRAG  EXPORT
 
 Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **Export** beantragt wurde.
 
@@ -986,7 +1279,9 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]  2. Erfassung der auftragsspezifischen Daten.
+- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
+
+- 2. Erfassung der auftragsspezifischen Daten.
 
 | FELDER | INHALT |
 |---|---|
@@ -998,7 +1293,8 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 | Eingeschränkter Leistungsanspruch gemäß §16 | ja |
 | Eintragung nur bei Weiterüberweisungbehandlung | ja (Daten des Erstveranlassers) |
 
-Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die importierten Daten müs sen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei Behandlung Abs. 3a SGB V
+Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die importierten Daten müs sen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei Behandlung Abs. 3a SGB V -
+
 
 ---
 
@@ -1013,7 +1309,7 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 | Dringlichkeit | Eilig |
 | Anforderungen | Untersuchung auf Schilddrüsenunterfunktion |
 
-3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
 **Prüffallnummer: PF11**
 
@@ -1026,7 +1322,9 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Erfassung der Versichertendaten Friedrich Schaumbërg durch das Einlesen der XML [XML_21].  2. Erfassung der auftragsspezifischen Daten.
+- 1. Erfassung der Versichertendaten Friedrich Schaumbërg durch das Einlesen der XML [XML_21].
+
+- 2. Erfassung der auftragsspezifischen Daten.
 
 | FELDER | INHALT |
 |---|---|
@@ -1039,7 +1337,9 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 | MaterialaAbnahme/Entnahmeuhrzeit | 12:15 Uhr |
 | Dringlichkeit | Eilig |
 
-[Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei 1] -Kartendaten
+-
+
+[Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei 1] - -Kartendaten
 
 
 ---
@@ -1049,11 +1349,13 @@ Datei aufgenommen worden sein. Screenshots über den Ablauf.  Optional: Die impo
 | Test-Ident Anforderungen | Großes Blutbild, Blutsenkung, Quick, Bilirubin |
 | Zusätzliche Informationen Sonstiger Auftrag (47 | 12345678901234567890123456789012345678901 |
 
-3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
-**2.13** **LDT-AUFTRAG  IMPORT**
+## 2.13 LDT-AUFTRAG  IMPORT
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **LDT-Auftrag -**  **Import** beantragt wurde.
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **LDT-Auftrag -**
+
+**Import** beantragt wurde.
 
 **Prüffallnummer: PF12**
 
@@ -1066,22 +1368,36 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Die, von der KBV bereitgestellte, LDT Datei „z01PF12.ldt“ wird importiert.  2. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller  LDT-Auftrag mit Export beantragt oder hierfür bereits eine Zulassung hat.
+- 1. Die, von der KBV bereitgestellte, LDT Datei „z01PF12.ldt“ wird importiert.
+
+- 2. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller
+
+- LDT-Auftrag mit Export beantragt oder hierfür bereits eine Zulassung hat.
 
 gesamt, IgG, Glukose, Sonstiges Zeichen) 234568 [Abschnitt 1.6.3 Stammdaten] Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT -Auftrag exportiert werden, wenn der Antragsteller „LDT Auftrag mit Export“ beantragt oder hierfür bereits eine Zulassung hat.
 
 
 ---
 
-3
+# 3 TESTDATENVALIDIERUNG
 
-## TESTDATENVALIDIERUNG
+Alle die in diesem Kapitel beschriebenen Prüffälle können in der Testdatenvalidierung des
 
-Alle die in diesem Kapitel beschriebenen Prüffälle können in der Testdatenvalidierung des  Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  ng findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizieru
+Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  ng findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur
 
-erden. An die angegebene E-Mail-Adresse  Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen w werden die Testergebnisse gesendet.
+Zertifizieru
 
-Das zip-Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle  zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung angestrebt („DigitalesMuster6 Export“,  Export“, „DigitalesMuster10 Export“, „DigitalesMuster39 Export“, „LDT-Auftrag-„DigitalesMuster10A Export“ und „LDT-Befund-Export“), muss die Verzeichnisstruktur die folgende Form aufweisen:
+erden. An die angegebene E-Mail-Adresse
+
+Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen w werden die Testergebnisse gesendet.
+
+Das zip-Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle
+
+zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung angestrebt („DigitalesMuster6 Export“,
+
+Export“, „DigitalesMuster10 Export“, „DigitalesMuster39 Export“, „LDT-Auftrag-
+
+„DigitalesMuster10A Export“ und „LDT-Befund-Export“), muss die Verzeichnisstruktur die folgende Form aufweisen:
 
 Abbildung 3: Struktur des ZIP -Archives
 
@@ -1092,7 +1408,7 @@ Abbildung 4: Struktur des ZIP -Archives mit LDT-Befund-Export
 
 ---
 
-**3.1** **DIGITALES MUSTER 6**
+## 3.1 DIGITALES MUSTER 6
 
 **Prüffallnummer: TE05**
 
@@ -1106,9 +1422,11 @@ Abbildung 4: Struktur des ZIP -Archives mit LDT-Befund-Export
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:
+- 1. Versichertendaten aus der XML-Datei einlesen:
 
-Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
+Malta [XML_20]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
 
 | FELDER | INHALT |
 |---|---|
@@ -1124,11 +1442,14 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 | Vertragsarztstempel / Unterschrift des Arztes | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 | Unterschrift (QES) | „elektr. Signatur“ des Einsenders einfügen |
 
-Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
-3. digitales Muster exportieren signieren  4. digitales Muster exportieren signieren
+- 3. digitales Muster exportieren signieren
 
-Prüfunterlagen Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2
+- 4. digitales Muster exportieren signieren
+
+Prüfunterlagen Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2 -
+
 
 ---
 
@@ -1138,13 +1459,13 @@ Prüfunterlagen Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 E
 | Voraussetzung | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten] Versichertendaten: Malta als XML-Datei [XML_20] |
 | Einzureichende |  |
 
-Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
-5. Versichertendaten aus der XML-Datei einlesen:
+- 5. Versichertendaten aus der XML-Datei einlesen:
 
-6. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
+- 6. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
 
-**3.2** **DIGITALES MUSTER 10  EXPORT**
+## 3.2 DIGITALES MUSTER 10  EXPORT
 
 **Prüffallnummer: TE01**
 
@@ -1179,9 +1500,11 @@ Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen 
 |---|---|
 | Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
 
-7. digitales Muster exportieren signieren  8. digitales Muster exportieren signieren
+- 7. digitales Muster exportieren signieren
 
-**3.3** **DIGITALES MUSTER 10A**
+- 8. digitales Muster exportieren signieren
+
+## 3.3 DIGITALES MUSTER 10A
 
 **Prüffallnummer: TE02**
 
@@ -1195,11 +1518,13 @@ Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:
+- 1. Versichertendaten aus der XML-Datei einlesen:
 
-Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
-Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
+Malta [XML_20]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
 
 | FELDER | INHALT |
 |---|---|
@@ -1215,13 +1540,14 @@ Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digital
 | Auftrag Anforderungen | alkalische Phosphatase Fibrinogen, Eiweiß gesamt, |
 | Sonstiger Aufträage (10 Zeichen) | Auftrag 42 |
 
-3. digitales Muster exportieren
+- 3. digitales Muster exportieren
 
-Prüfunterlagen Digitales Muster 10A als PDF-Dokument für Malta. IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges
+Prüfunterlagen Digitales Muster 10A als PDF-Dokument für Malta. IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges -
+
 
 ---
 
-**3.4** **DIGITALES MUSTER 39  EXPORT**
+## 3.4 DIGITALES MUSTER 39  EXPORT
 
 **Prüffallnummer: TE06**
 
@@ -1231,11 +1557,15 @@ Prüfunterlagen Digitales Muster 10A als PDF-Dokument für Malta. IgM, Kalium, K
 | Voraussetzung | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten] Versichertendaten: Malta als XML-Datei [XML_20] |
 | Einzureichende |  |
 
-Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-1. Versichertendaten aus der XML-Datei einlesen:  Malta [XML_20]  2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
+- 1. Versichertendaten aus der XML-Datei einlesen:
+
+Malta [XML_20]
+
+- 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster
 
 | FELDER | INHALT |
 |---|---|
@@ -1261,7 +1591,7 @@ Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 | Klinischer Befund | auffällig |
 | Erläuterungen (14) | Zervixkarzinom |
 
-Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung signieren und exportieren:
+Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung - signieren und exportieren:
 
 
 ---
@@ -1271,9 +1601,11 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 | Vertragsarztstempel / Unterschrift des Arztes | 398212400 Praxis Dr. med. Heribert Topp-Glücklich 776299002 Schölz Marian Musterstr. 1 64297 Darmstadt 06151 / 1111111 06151 / 2222222 |
 | Unterschrift (QES) | elektr. Signatur des Einsenders einfügen |
 
-3. digitales Muster signieren  4. digitales Muster exportieren
+- 3. digitales Muster signieren
 
-**3.5** **LDT-BEFUND  EXPORT**
+- 4. digitales Muster exportieren
+
+## 3.5 LDT-BEFUND  EXPORT
 
 **Prüffallnummer: TE03**
 
@@ -1286,7 +1618,9 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Erfassung der Versichertendaten Malta durch das Einlesen der XML 2. Befundspezifische Daten erfassen:
+- 1. Erfassung der Versichertendaten Malta durch das Einlesen der XML
+
+- 2. Befundspezifische Daten erfassen:
 
 | FELDER | INHALT |
 | Befundinformationen | |
@@ -1301,7 +1635,9 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 | Ergebnisstatus | Befundergebnis |
 | Ergebnis-Wert | 4.7 |
 
-Stammdaten] Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3 Prüfunterlagen. -Kartendaten [XML_20].
+-
+
+Stammdaten] Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3 Prüfunterlagen. - -Kartendaten [XML_20].
 
 
 ---
@@ -1314,9 +1650,9 @@ Stammdaten] Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kap
 | Testbezogene Hinweise | Eine Kontrolle in ca. 4 Wochen wird empfohlen. |
 | Gebührennummer (GNR) | 32094 |
 
-3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
 
-**3.6** **LDT-AUFTRAG  EXPORT**
+## 3.6 LDT-AUFTRAG  EXPORT
 
 **Prüffallnummer: TE04**
 
@@ -1329,7 +1665,9 @@ Stammdaten] Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kap
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
-1. Erfassung der Versichertendaten Malta durch das Einlesen der XML 2. Erfassung der auftragsspezifischen Daten.
+- 1. Erfassung der Versichertendaten Malta durch das Einlesen der XML
+
+- 2. Erfassung der auftragsspezifischen Daten.
 
 | FELDER | INHALT |
 |---|---|
@@ -1345,12 +1683,14 @@ Stammdaten] Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kap
 | Telefonnummer | 06151 / 1111111 |
 | Faxnummer | 06151 / 2222222 |
 
-Wertes nach Norm Wertes  [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V -Kartendaten [XML_20].
+-
+
+Wertes nach Norm Wertes  [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V - -Kartendaten [XML_20].
 
 
 ---
 
-3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
+- 3. Eine LDT Auftrag Datei (.ldt) erstellen und exportieren.
 
 | FELDER | INHALT |
 |---|---|
@@ -1362,9 +1702,7 @@ Wertes nach Norm Wertes  [Abschnitt 1.6.3 Stammdaten] Die exportierte LDT-Datei.
 
 ---
 
-4
-
-REFERENZIERTE DOKUMENTE
+4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 | Allgemeine Informationen | |
@@ -1387,7 +1725,9 @@ REFERENZIERTE DOKUMENTE
 | LDK_LDT_Auftrag_Import_V01.zip  LDK_LDT_Befund_Import_V01.zip | LDT-Import Dateien |
 | 2 | eGK-XML Dateien XML_21 und |
 
-1 Der Schlüssel wird an Softwarehäuser ausgegeben, die ein vorliegendes die Zertifizierung Labordatenkommunikation).  2 n.n= in der jeweils aktuellen Version
+1 Der Schlüssel wird an Softwarehäuser ausgegeben, die ein vorliegendes die Zertifizierung Labordatenkommunikation).
+
+2 n.n= in der jeweils aktuellen Version
 
 VSD_5.2.0_Vn.n .zip (KV Hessen) Erklärung) Übertragungsweges verschlüsselt Optional XML_20 Zertifikat für eine Abrechnungskomponente haben (Voraussetzung für
 

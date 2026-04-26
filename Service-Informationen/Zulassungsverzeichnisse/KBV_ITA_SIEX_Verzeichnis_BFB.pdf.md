@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 18. April 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 25. April 2026
 
 
 ---
@@ -113,6 +113,23 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+| **Avelios** |  |  |  |
+| **Avelios Medical GmbH** |  |  | Linux |
+| Ridlerstraße 39 | Y/9/2604/36/754 | 31.03.2029 | Mac OS |
+| 80339 München |  |  | Windows |
+| Internet: avelios.com |  |  |  |
+
+**zugelassen für folgende Muster**
+
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 12: Verordnung häuslicher Krankenpflege
+
+
+---
+
+|  |  | **Prüfnummer** | **unterstützte** |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 | **Med7** |  |  |  |
 | **Bitron GmbH Technologiesysteme** |  |  |  |
 | Bürgeler Str. 18 A | Y/9/2601/36/078 | 31.12.2028 | Windows |
@@ -185,7 +202,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 |  | **zugelassen** | **für folgende** |  | **Muster** |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|
 | PTV | 11: | Individuelle |  | Patienteninformation | | zur ambulanten |  | psychotherapeutischen | Sprechstunde |
-| Seite | 13 / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 18. | April 2026 |  |
+| Seite | 14 / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 25. | April 2026 |  |
 
 zugelassen für folgende Muster PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
@@ -543,7 +560,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 | PTV | 11: | Individuelle |  | Patienteninformation | | zur ambulanten |  | psychotherapeutischen | Sprechstunde |
 | PTV | 12: Anzeige | der |  | Akutbehandlung | oder | der Beendigung | einer | Psychotherapie |  |
 | PTV | 2: Angaben | des | Therapeuten | | zum | Antrag des | Versicherten |  |  |
-| Seite 39 | / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 18. | April 2026 |  |
+| Seite 40 | / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 25. | April 2026 |  |
 
 zugelassen für folgende Muster PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
@@ -631,7 +648,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 | PTV | 11: | Individuelle |  | Patienteninformation | | zur ambulanten |  | psychotherapeutischen | Sprechstunde |
 | PTV | 12: Anzeige | der |  | Akutbehandlung | oder | der Beendigung | einer | Psychotherapie |  |
 | PTV | 2: Angaben | des | Therapeuten | | zum | Antrag des | Versicherten |  |  |
-| Seite 45 | / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 18. | April 2026 |  |
+| Seite 46 | / KBV / | Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 25. | April 2026 |  |
 
 zugelassen für folgende Muster PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
@@ -1951,7 +1968,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 |  | **zugelassen** | **für** | **folgende** | **Muster** |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
 | PTV | 2: | Angaben | des Therapeuten | | zum Antrag | des | Versicherten |  |
-| Seite | 133 / KBV | / Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 18. | April 2026 |
+| Seite | 134 / KBV | / Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 25. | April 2026 |
 
 zugelassen für folgende Muster PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
@@ -1995,7 +2012,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 |  | **zugelassen** | **für** | **folgende** | **Muster** |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
 | PTV | 2: | Angaben | des Therapeuten | | zum Antrag | des | Versicherten |  |
-| Seite | 136 / KBV | / Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 18. | April 2026 |
+| Seite | 137 / KBV | / Verzeichnis | zertifizierter | Software | für die | Blankoformularbedruckung | / 25. | April 2026 |
 
 zugelassen für folgende Muster PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 

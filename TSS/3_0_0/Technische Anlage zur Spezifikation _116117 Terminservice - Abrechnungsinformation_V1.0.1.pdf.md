@@ -38,7 +38,7 @@ www.kbv.de
 
 ---
 
-### Änderungshistorie
+#### Änderungshistorie
 
 **VERSION**
 
@@ -64,7 +64,9 @@ kv.digital
 
 **KAPITEL ÄNDERUNG**
 
-4Korrektur Abbildung 2
+4
+
+Korrektur Abbildung 2
 
 **STATUS**
 
@@ -72,15 +74,25 @@ in Kraft
 
 Erweiterung „Abruf aller geänderter Daten“
 
-5Erweiterung „Abruf aller geänderter Daten“
+5
 
-5Korrektur Datenformat
+Erweiterung „Abruf aller geänderter Daten“
 
-6Korrektur Referenz [Implementation Guide]
+5
 
-alle redaktionelle Änderungen
+Korrektur Datenformat 6
 
-alle Änderung Titelaußer Kraft
+Korrektur Referenz [Implementation Guide]
+
+alle
+
+redaktionelle Änderungen
+
+alle
+
+Änderung Titel
+
+außer Kraft
 
 redaktionelle Änderungen
 
@@ -115,7 +127,9 @@ Initiale  Synchronisation
 
 Kontinuierliche  Synchronisation
 
-alle Initiale Erstellung
+alle
+
+Initiale Erstellung
 
 **ÄNDERUNGEN**
 
@@ -179,7 +193,9 @@ Für die initiale Synchronisation der Daten muss das Software-System des behande
 
 **4.2 KONTINUIERLICHE SYNCHRONISATION**
 
-Nach der initialen Synchronisation sollte das Software-System in regelmäßigen Abständen alle Änderungen  vom 116117 Terminservice abrufen. Der Abstand zwischen den Abrufversuchen kann beliebig gewählt  werden, darf jedoch 60 Minuten nicht unterschreiten. *Für die kontinuierliche Synchronisation gibt es zwei*  *Möglichkeiten:*
+Nach der initialen Synchronisation sollte das Software-System in regelmäßigen Abständen alle Änderungen  vom 116117 Terminservice abrufen. Der Abstand zwischen den Abrufversuchen kann beliebig gewählt  werden, darf jedoch 60 Minuten nicht unterschreiten. *Für die kontinuierliche Synchronisation gibt es zwei*
+
+*Möglichkeiten:*
 
 *Variante A: Terminbuchungen abrufen (= Appointments)* *Variante B: Abruf aller geänderten Daten (= Provenances)*
 
@@ -198,21 +214,27 @@ Für die Abbildungen von Terminbuchungen in FHIR ist auf Simplifier eine entspre
 
 Beim Abrufen von Terminbuchungen handelt es sich um die FHIR-Standardinteraktion search. Diese  ermöglicht das Synchronisieren mit dem 116117 Terminservice, um den aktuellen Status einzelner oder  mehrerer Terminbuchungen abzurufen.
 
-### Request
+#### Request
 
-Über einen POST-Request können entweder alle Terminbuchungen aller autorisierten Einrichtungen oder nur  bestimmte Terminbuchungen (bspw. nur für eine bestimmte Einrichtung oder nur zukünftige  Terminbuchungen) mithilfe entsprechender Suchparameter abgefragt werden (FHIR-Standardinteraktion  search).
+Über einen POST-Request können entweder alle Terminbuchungen aller autorisierten Einrichtungen oder nur  bestimmte Terminbuchungen (bspw. nur für eine bestimmte Einrichtung oder nur zukünftige  Terminbuchungen) mithilfe entsprechender Suchparameter abgefragt werden (FHIR-Standardinteraktion
+
+search).
 
 Weitere Erläuterungen sowie Beispiele zu Requests sind im Implementation Guide auf Simplifier zu finden.
 
-### Response
+#### Response
 
-Für die Suche von Terminbuchungen wird im Erfolgsfall der HTTP-Statuscode 200 (OK) sowie eine Instanz  der Ressource KBV_PR_116117_TERMINSERVICE_TVS_TERMINSYNCHRONISATION_Bundle_Searchset (im  Response Body) zurückgegeben.
+Für die Suche von Terminbuchungen wird im Erfolgsfall der HTTP-Statuscode 200 (OK) sowie eine Instanz  der Ressource KBV_PR_116117_TERMINSERVICE_TVS_TERMINSYNCHRONISATION_Bundle_Searchset (im
+
+Response Body) zurückgegeben.
 
 Wurden bei der Suche keine Suchparameter übergeben, enthält dieses Searchset alle nicht anonymisierten  Terminbuchungen, der Haupt- und aller Nebenbetriebsstätten der in der Autorisierung übergebenen BSNR.
 
 Wurde bei der Suche min. ein Suchparameter übergeben, enthält dieses Searchset alle Terminbuchungen, die  anhand der Suchparameter ermittelt werden konnten.
 
-Im Fehlerfall wird ein dem Fehler entsprechender HTTP-Statuscode (bspw. 400 Bad Request oder 500  Internal Server Error) sowie eine Instanz der  Ressource KBV_PR_116117_TERMINSERVICE_TVS_TERMINSYNCHRONISATION_OperationOutcome_Error (im Response Body) zurückgegeben. Dieses OperationOutcome enthält Details zum aufgetretenen Fehler.
+Im Fehlerfall wird ein dem Fehler entsprechender HTTP-Statuscode (bspw. 400 Bad Request oder 500  Internal Server Error) sowie eine Instanz der  Ressource KBV_PR_116117_TERMINSERVICE_TVS_TERMINSYNCHRONISATION_OperationOutcome_Error
+
+(im Response Body) zurückgegeben. Dieses OperationOutcome enthält Details zum aufgetretenen Fehler.
 
 Weitere Erläuterungen sowie Beispiele zu Responses sind im Implementation Guide auf Simplifier zu finden.
 
@@ -225,7 +247,9 @@ Weitere Erläuterungen sowie Beispiele zu Responses sind im Implementation Guide
 
 ## KONTINUIERLICHE SYNCHRONISATION: GEÄNDERTEN DATEN
 
-Um zu gewährleisten, dass sich das Software-System kontinuierlich mit dem 116117 Terminservice  synchronisieren (d.h., regelmäßig alle Änderungen an abrechnungsrelevanten Informationen abrufen)  kann, wird ein Endpunkt zur Verfügung gestellt, der nur die letzten Änderungen an den im System des 116117  Terminservice gespeicherten Terminbuchungen zurückgibt.
+Um zu gewährleisten, dass sich das Software-System kontinuierlich mit dem 116117 Terminservice  synchronisieren (d.h., regelmäßig alle Änderungen an abrechnungsrelevanten Informationen abrufen)  kann, wird ein Endpunkt zur Verfügung gestellt, der nur die letzten Änderungen an den im System des 116117
+
+Terminservice gespeicherten Terminbuchungen zurückgibt.
 
 *Für die kontinuierliche Synchronisation gibt es - neben dem Abrufen aller Terminbuchungen - auch die*  *Möglichkeit, nur die letzten Änderungen an den im 116117 Terminservice gespeicherten Terminbuchungen*  *abzurufen. Dies sorgt für eine geringere Datenmenge, da nicht alle Terminbuchungen, sondern nur*  *Informationen zu den letzten Änderungen sowie die tatsächlich geänderten Terminbuchungen zurückgegeben*  *werden.*
 
@@ -277,12 +301,12 @@ CREATE, UPDATE* oder DELETE
 
 Datum und Uhrzeit
 
-## ABRUF ABFRAGE ALLER
+***ABRUF***** ABFRAGE ALLER**
 
 
 ---
 
-### Response
+#### Response
 
 Bei Erfolg sendet der Endpunkt den HTTP-Statuscode 200 (OK) sowie eine Instanz der Ressource  KBV_PR_116117_TERMINSERVICE_TVS_TERMINSYNCHRONISATION_Bundle_Searchset (im Response  Body) zurück. Dieses Searchset enthält alle Provenance-Instanzen, die anhand der Suchparameter ermittelt  werden konnten, sowie die dort referenzierten, tatsächlich geänderten Terminbuchungen.
 
@@ -294,7 +318,7 @@ Weitere Erläuterungen sowie Beispiele zu Responses sind im Implementation Guide
 
 Die Schnittstelle wird als HL7 FHIR v4.0.1 R4 ([https://hl7.org/fhir/R4/index.html](https://hl7.org/fhir/R4/index.html)) Schnittstelle umgesetzt.
 
-### Element-Definition "mustSupport"
+#### Element-Definition "mustSupport"
 
 Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden. Software-Systeme, die  die Daten erstellen, müssen die mit „mustSupport“ gekennzeichneten Elemente unterstützen, befüllen und  übermitteln können. Software-Systeme, die die Daten verarbeiten, müssen die mit "mustSupport"  gekennzeichneten Elemente unterstützten, auslesen und verarbeiten können.
 
@@ -309,4 +333,6 @@ Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type 
 
 6 REFERENZEN
 
-[TSS_Auth]: Spezifikation 116117 Terminservice Authentifizierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen FHIR-Profile zu Abrechnungsinformation: [https://simplifier.net/Terminsynchronisation-TVS/](https://simplifier.net/Terminsynchronisation-TVS/) [Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-](https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-) tvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-](https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-) pvs 12 12
+[TSS_Auth]: Spezifikation 116117 Terminservice Authentifizierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen FHIR-Profile zu Abrechnungsinformation: [https://simplifier.net/Terminsynchronisation-TVS/](https://simplifier.net/Terminsynchronisation-TVS/)
+
+[Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-](https://simplifier.net/guide/implementierungsleitfaden-terminsynchronisation-) tvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-](https://simplifier.net/guide/implementierungsleitfaden-abrechnungsinformationen-) pvs 12 12

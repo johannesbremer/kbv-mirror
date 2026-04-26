@@ -20,22 +20,94 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **ALLGEMEINES 5**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 5  1.2 Zertifizierungsablauf 5  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 6  1.5 Prüfunterlagen 6  Verzeichnisstruktur 1.5.1 7  1.5.2 Einreichen von Prüfunterlagen 7  1.6 Prüfvorgaben 7  Prüfstammdaten 1.6.1 7  Vorbereitung 1.6.2 7  1.6.3 Versichertendaten 8  1.6.4 Auflistung der Prüffälle 8  Praxisdaten/ Arztstempel 1.6.5 9
+**5**
 
-**2** **PRÜFFÄLLE 10**
+1.1 Rechtsgrundlage
 
-2.1 Prüffall 01: Audit der kv.digital GmbH10  2.2 Prüffall 02: Manuelle Abfrage bei der Terminservicestelle11  2.3 Prüffall 03: Aufnahme und behandlung von Patient 1 12  2.4 Prüffall 04: Aufnahme und behandlung von Patient 2 13  2.5 Prüffall 05: Aufnahme und behandlung von Patient 314  2.6 Prüffall 06: Aufnahme und behandlung von Patient 4 15  2.7 Prüffall 07: Aufnahme und behandlung von Patient 516  2.8 Prüffall 08: Manuelle Abfrage bei der Terminservicestelle 16  2.9 Prüffall 09: Nachträgliche Zuordnung eines Termins 17  2.10 Prüffall 10: Erstellen einer Abrechnung17
+5
 
-**3** **REFERENZIERTE DOKUMENTE** **18**
+1.2 Zertifizierungsablauf
+
+5
+
+1.3 Zertifizierungsportal
+
+6
+
+1.4 Zertifizierungsdokumente
+
+6
+
+1.5 Prüfunterlagen
+
+6
+
+Verzeichnisstruktur 1.5.1
+
+7
+
+1.5.2 Einreichen von Prüfunterlagen 7
+
+1.6 Prüfvorgaben
+
+7
+
+Prüfstammdaten 1.6.1
+
+7
+
+Vorbereitung 1.6.2
+
+7
+
+1.6.3 Versichertendaten
+
+8
+
+1.6.4 Auflistung der Prüffälle 8
+
+Praxisdaten/ Arztstempel 1.6.5
+
+9
+
+**2** **PRÜFFÄLLE**
+
+**10**
+
+2.1 Prüffall 01: Audit der kv.digital GmbH 10
+
+2.2 Prüffall 02: Manuelle Abfrage bei der Terminservicestelle 11
+
+2.3 Prüffall 03: Aufnahme und behandlung von Patient 1 12
+
+2.4 Prüffall 04: Aufnahme und behandlung von Patient 2 13
+
+2.5 Prüffall 05: Aufnahme und behandlung von Patient 3 14
+
+2.6 Prüffall 06: Aufnahme und behandlung von Patient 4 15
+
+2.7 Prüffall 07: Aufnahme und behandlung von Patient 5 16
+
+2.8 Prüffall 08: Manuelle Abfrage bei der Terminservicestelle 16
+
+2.9 Prüffall 09: Nachträgliche Zuordnung eines Termins 17
+
+2.10 Prüffall 10: Erstellen einer Abrechnung 17
+
+**3** **REFERENZIERTE DOKUMENTE**
+
+**18**
 
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS 7
 
-7  Abbildung 1: exemplarische Struktur des ZIP-Archives mit pdf- und Video-Dateien und unverschlüsselter  Abrechnungsdatei
+Abbildung 1: exemplarische Struktur des ZIP-Archives mit pdf- und Video-Dateien und unverschlüsselter
+
+Abrechnungsdatei
 
 
 ---
@@ -55,48 +127,80 @@ Behandlungsdatums im Fließtext des Prüffalles 09 Behandlungsdatums im Prüffal
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+116117 Terminservice Abrechnungsinformation.
 
-116117 Terminservice Abrechnungsinformation.  Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet  den Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+den Rahmen der Zertifizierung und ist zu beachten.
 
-**1.1** **RECHTSGRUNDLAGE**
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung
+
+weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+## 1.1 RECHTSGRUNDLAGE
 
 Die rechtliche Grundlage für die Zertifizierung des 116117 Terminservice Abrechnungsinformation ergibt  sich aus § 87a Absatz 3 SGB V, wonach die extrabudgetäre Vergütung für Behandlungen, auf Grundlage  einer Terminvermittlung durch die 116117 Terminservice stattgefunden haben.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten - 1.
 
-1. l der Antrag auf Zertifizierung Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsporta mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+- l der Antrag auf Zertifizierung
 
-2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
+- Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsporta -  mit den der KBV
 
-tisierung des Zertifizierungsportals als  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautoma fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung.  3.ssteller  Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier dort hochgeladen werden.  t und den vorab via Mail  eingereichten Antrag auf Zertifizierung
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
+
+- tisierung des Zertifizierungsportals als
+
+- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautoma fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung.
+
+- 3.
+
+- ssteller
+
+-  Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier dort hochgeladen werden.  t und den vorab via Mail
+
+eingereichten Antrag auf Zertifizierung
 
 **HINWEIS**
 
-es Antrages auf Zertifizierung Nach Bestätigung des Eingangs und der Korrektheit dbei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+es Antrages auf Zertifizierung
+
+Nach Bestätigung des Eingangs und der Korrektheit d
+
+bei der KBV oder des
+
+Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
+
+„Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -104,57 +208,89 @@ Die in das Portal integrierte Prüfautomatisierung führt nur eine inhaltliche P
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und dem  Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und dem
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/TSS/3_0_0/ bereit. In diesem Zusammenhang muss das dritte Kapitel Referenzierte Dokumente  berücksichtigt werden.
+Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
-**1.5** **PRÜFUNTERLAGEN**
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+
+update/TSS/3_0_0/ bereit. In diesem Zusammenhang muss das dritte Kapitel Referenzierte Dokumente
+
+berücksichtigt werden.
+
+## 1.5 PRÜFUNTERLAGEN
 
 In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
 
 ---
 
-**1.5.1** **Verzeichnisstruktur**
+### 1.5.1 Verzeichnisstruktur
 
-Die erstellten Videos und die Bestätigung des Audits der kv.digital GmbH als „pdf File“ sind in einem ZIP- Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung **„Zert_ _<SystemID> “** erhalten. Die  SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. Die Lieferung des Paketes soll  die folgende Form aufweisen:
+Die erstellten Videos und die Bestätigung des Audits der kv.digital GmbH als „pdf File“ sind in einem ZIP-
+
+Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung **„Zert_ _<SystemID> “** erhalten. Die
+
+SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. Die Lieferung des Paketes soll
+
+die folgende Form aufweisen:
 
 Abbildung 1: exemplarische Struktur des ZIP -Archives mit pdf- und Video-Dateien und unverschlüsselter Abrechnungsdatei
 
-Als Dateiname ist die Nummer des Prüffalls zu verwenden (zum Beispiel: 01.pdf und 02.mp4). Eine  Ausnahme bildet die Abrechnungsdatei, welche über alle Prüffälle erstellt wird, diese wird nach den  Dateinamenskonventionen der Abrechnung erstellt. Alle Dateien müssen abschließend in einer Archivdatei  (als ZIP-Datei) zusammengepackt und in das Zertifizierungsportal hochgeladen werden
+Als Dateiname ist die Nummer des Prüffalls zu verwenden (zum Beispiel: 01.pdf und 02.mp4). Eine
 
-**1.5.2** **Einreichen von Prüfunterlagen**
+Ausnahme bildet die Abrechnungsdatei, welche über alle Prüffälle erstellt wird, diese wird nach den  Dateinamenskonventionen der Abrechnung erstellt. Alle Dateien müssen abschließend in einer Archivdatei  (als ZIP-Datei) zusammengepackt und in das Zertifizierungsportal hochgeladen werden
 
-Die pro Prüffall geforderten Videos werden als separate Video-Datei erwartet. Die geforderten Dokumente  müssen für jeden Prüffall direkt in dem Hauptverzeichnis abgelegt werden. Die übergreifende  Abrechnungsdatei über alle Prüffälle muss als unverschlüsselte .con-Datei oder als verschlüsselte .con.xkm Datei (unter Verwendung des Testschlüssels [Schluessel] ) im Hauptverzeichnis übertragen werden.
+### 1.5.2 Einreichen von Prüfunterlagen
 
-**1.6** **PRÜFVORGABEN**
+Die pro Prüffall geforderten Videos werden als separate Video-Datei erwartet. Die geforderten Dokumente  müssen für jeden Prüffall direkt in dem Hauptverzeichnis abgelegt werden. Die übergreifende
 
-**1.6.1** **Prüfstammdaten**
+Abrechnungsdatei über alle Prüffälle muss als unverschlüsselte .con-Datei oder als verschlüsselte .con.xkm
+
+Datei (unter Verwendung des Testschlüssels [Schluessel] ) im Hauptverzeichnis übertragen werden.
+
+## 1.6 PRÜFVORGABEN
+
+### 1.6.1 Prüfstammdaten
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
-**1.6.2** **Vorbereitung**
+### 1.6.2 Vorbereitung
 
-Zur Abarbeitung der Prüffälle muss das Testsystem von kv.digital von den Herstellern genutzt werden, um  selbst Termine einzustellen und diese buchen zu können. Die kv.digital GmbH stellt hierfür die zwei 116117  Terminservice Anwendungen für Praxen und Patienten zur Verfügung. In der 116117 Anwendung für die  Praxis werden Termine angeboten, die im 116117 Anwendung Patient gebucht werden können.
+Zur Abarbeitung der Prüffälle muss das Testsystem von kv.digital von den Herstellern genutzt werden, um  selbst Termine einzustellen und diese buchen zu können. Die kv.digital GmbH stellt hierfür die zwei 116117
+
+Terminservice Anwendungen für Praxen und Patienten zur Verfügung. In der 116117 Anwendung für die  Praxis werden Termine angeboten, die im 116117 Anwendung Patient gebucht werden können.
 
 Weitere Informationen gibt es unter [https://partnerportal.kv-](https://partnerportal.kv-) telematik.de/pages/viewpage.action?pageId=214768813
 
-Für jeden Prüffall wird ein Tagesdatum vorgegeben, das vom zertifizierenden System beachtet werden  muss. Alle weiteren, nicht vorgegebenen Daten, können für die Abrechnung beliebig gewählt werden.
+Für jeden Prüffall wird ein Tagesdatum vorgegeben, das vom zertifizierenden System beachtet werden
+
+muss. Alle weiteren, nicht vorgegebenen Daten, können für die Abrechnung beliebig gewählt werden.
 
 Bitte beachten Sie, dass die Abweichungen zwischen Prüfpaket und Ergebnisdatei absichtlich  aufgenommen sind, um die Reaktion des Softwaresystems beim Zuschlag des Systems zu prüfen.
 
 
 ---
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
+- EF.VD = allgemeine Versicherungsdaten
 
-**1.6.3** **Versichertendaten**
+- EF.PD = persönliche Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_TSS_ABR_V2.0.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.4) in einem jeweils  separaten Verzeichnis die folgenden XML-Dateien:
+- EF.GVD = geschützte Versichertendaten
 
-**1.6.4** **Auflistung der Prüffälle**
+### 1.6.3 Versichertendaten
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
+
+(VSD_Testfaelle_TSS_ABR_V2.0.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.4) in einem jeweils
+
+separaten Verzeichnis die folgenden XML-Dateien:
+
+### 1.6.4 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
 
@@ -174,7 +310,7 @@ Prüffälle als XML-Dateien
 
 ---
 
-**1.6.5** **Praxisdaten/ Arztstempel**
+### 1.6.5 Praxisdaten/ Arztstempel
 
 Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden.
 
@@ -207,9 +343,7 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 ---
 
-2
-
-## PRÜFFÄLLE
+# 2 PRÜFFÄLLE
 
 **2.1** **PRÜFFALL 01: AUDIT DER KV.DIGITAL GMBH**
 
@@ -219,16 +353,27 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | Testziel | Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit |
 | Einzureichende | Eine Audit-Bescheinigung der kv.digital GmbH |
 
-Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
+Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in
+
+Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
 
 Weitere Informationen zum Ablauf des Audits finden Sie im Partnerportal der kv.digital.
 
 116117 Terminservice Abrechnungsinformation als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung.
 
-
 ---
 
-a) alle Termine nach Anforderung P4-03 angezeigt werden und alle weiteren  sind Informationen eines Termins einzusehen  (z.B. Priorität, Start und Ende des Termins, Behandlungstag,  Vermittlungscode, Vor- und Nachname des Patienten, Geschlecht,  BSNR und LANRGeburtsdatum, Adresse, Buchungsherkunft,  b) nach allen vorliegenden Informationen eines Termins gefiltert und sortiert  werden kann (siehe oben, Punkt a),  c) der Anwender zwischen den Möglichkeiten „Nach dem aktuellen Tag“, „Für  das laufende Quartal“ und „Für das vorherige Quartal“ wählen kann.
+- a) alle Termine nach Anforderung P4-03 angezeigt werden und alle weiteren  sind
+
+- Informationen eines Termins einzusehen  (z.B. Priorität, Start und Ende des Termins, Behandlungstag,  Vermittlungscode, Vor- und Nachname des Patienten, Geschlecht,  BSNR und LANR
+
+- Geburtsdatum, Adresse, Buchungsherkunft,
+
+- b) nach allen vorliegenden Informationen eines Termins gefiltert und sortiert
+
+- werden kann (siehe oben, Punkt a),
+
+- c) der Anwender zwischen den Möglichkeiten „Nach dem aktuellen Tag“, „Für  das laufende Quartal“ und „Für das vorherige Quartal“ wählen kann.
 
 **PRÜFFALL 02: MANUELLE ABFRAGE BEI DER TERMINSERVICESTELLE**
 
@@ -241,7 +386,6 @@ a) alle Termine nach Anforderung P4-03 angezeigt werden und alle weiteren  sind 
 | Einzureichende | , dass |
 
 Abfrage und Anzeige einer Übersicht, über alle Termine nach P4-02 und P4-03 Praxis für den Behandlungstag informiert ist, welche Patienten über die Terminservicestelle vermittelt wurden. Es werden die Termine „Termin_1“, „Termin_2“, „Termin_3“, „Term „Termin_5“ und „ Termin_8 “ importiert. Prüfunterlagen Es wird ein Video/Videos eingereicht, aus dem/denen ersichtlich wird
-
 
 ---
 
@@ -256,10 +400,9 @@ Abfrage und Anzeige einer Übersicht, über alle Termine nach P4-02 und P4-03 Pr
 | Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | Hinweis | -, |
 
-**PRÜFFALL 03: AUFNAHME UND BEHANDLUNG VON PATIENT 1**
+## PRÜFFALL 03: AUFNAHME UND BEHANDLUNG VON PATIENT 1
 
 a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Zuordnung eines Termins zu einem Patienten (gemäß Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung (gemäß KBV_ITA_VGEX_Anforderungskatalog_KVDT Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Herr Prof. Dr. Graf Freiherr von Schaumberg (XML_01) Prüfunterlagen Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.
-
 
 ---
 
@@ -274,10 +417,9 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | Hinweis | -, |
 
-**PRÜFFALL 04: AUFNAHME UND BEHANDLUNG VON PATIENT 2**
+## PRÜFFALL 04: AUFNAHME UND BEHANDLUNG VON PATIENT 2
 
 a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Zuordnung eines Termins zu einem Patienten (gemäß Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung (gemäß KBV_ITA_VGEX_Anforderungskatalog_KVDT Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Frau Prof. Dr. Dr. med Kluge (XML_02) Prüfunterlagen Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.
-
 
 ---
 
@@ -294,7 +436,7 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | Einzureichende |  |
 | Hinweis | -, |
 
-**3**
+## 3
 
 Prüfunterlagen Zuordnung eines Termins zu einem Patienten (gemäß Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung (gemäß KBV_ITA_VGEX_Anforderungskatalog_KVDT Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.
 
@@ -311,10 +453,9 @@ Prüfunterlagen Zuordnung eines Termins zu einem Patienten (gemäß Vorschlag de
 | Einzureichende | Folgendes ersichtlich wird: |
 | Hinweis | -, |
 
-**PRÜFFALL 06: AUFNAHME UND BEHANDLUNG VON PATIENT 4**
+## PRÜFFALL 06: AUFNAHME UND BEHANDLUNG VON PATIENT 4
 
 a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Zuordnung eines Termins zu einem Patienten (gemäß P4 Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung (gemäß  KBV_ITA_VGEX_Anforderungskatalog_KVDT Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Es wird ein Video/Videos eingereicht, aus dem/denen Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.
-
 
 ---
 
@@ -329,7 +470,7 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | Einzureichende | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | Hinweis | en (z.B. die passende Versicherten- |
 
-**PRÜFFALL 07: AUFNAHME UND BEHANDLUNG VON PATIENT 5**
+## PRÜFFALL 07: AUFNAHME UND BEHANDLUNG VON PATIENT 5
 
 **2.8** **PRÜFFALL 08: MANUELLE ABFRAGE BEI DER TERMINSERVICESTELLE**
 
@@ -342,7 +483,6 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | Einzureichende | Es wird ein Video eingereicht, aus dem ersichtlich wird, dass alle relevanten |
 
 a) die automatische Zuordnung eines Termins zu dem Patienten, b) die abzurechnende Grundpauschale, die Abrechnung der c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Behandlung, d) mögliche Warnmeldungen. Zuordnung eines Termins zu einem Patienten (gemäß Die Praxis nimmt einen Patienten auf und behandelt diesen. (GOP 13228) sofern der Anwender eine Warnmeldung erhält, wird eine Übernahme der 116117 Terminservice Informationen in die Abrechnung abgelehnt Prüfunterlagen Es wird ein Video eingereicht, in welchem die automatische Zuordnung eines Termins zu dem Patienten sowie möglich Warnmeldungen ersichtlich ist. Alle nicht im Prüffall beschriebenen Information , Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden. P4-02 und P4-03 Die Praxis fragt bei der Terminservicestelle alle verfügbaren Termine ab importiert. zugeordneten Termine anzeigen. Prüfunterlagen Termine nach Anforderung P4-03 angezeigt werden.
-
 
 ---
 
@@ -368,15 +508,13 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) die abzurechnen
 | Testziel | sdatei mit den Daten der Prüffälle. |
 | Einzureichende | Es wird eine Abrechnungsdatei (.con) eingereicht, |
 
-**S TERMINS**
+## S TERMINS
 
 der TSS- Informationen Prüfunterlagen   14.08.2025 Der Anwender ordnet einem behandelten Patienten nachträglich einen Termin mit den relevanten Informationen zu. aufgenommen und behandelt wurde, den passenden Termin zu und übernimmt die zeitgestaffelten Zuschläge (GOP 03010) Frau Malta (XML_09) behandelt am Es wird ein Video eingereicht, in welchem ersichtlich wird : a) die nachträgliche Zuordnung eines Termins zu dem Patienten. b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden. KP2-513 Prüfunterlagen Die Praxis erstellt die Abrechnung Prüffälle enthalten sind. in welcher die Daten der
 
 ---
 
-3
-
-REFERENZIERTE DOKUMENTE
+3 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -396,6 +534,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 “ in der stets aktuellen Version Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung. sind die simulierten FHIR-Daten der Terminservicestelle bereitgestellt.

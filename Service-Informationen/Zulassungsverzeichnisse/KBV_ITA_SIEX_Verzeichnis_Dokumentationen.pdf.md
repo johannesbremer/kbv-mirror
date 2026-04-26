@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. APRIL 2026**
+**25. APRIL 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,9 +30,11 @@
 |---|---|---|---|---|
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 18. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
 
-ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München Internet: www.aceto-online.com Linux Mac OS Sonstige Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows WindowsY/53/2601/36/062 31.12.2028 Hautkrebs-ScreeningWindows
+Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
+
+ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München Internet: www.aceto-online.com Linux Mac OS Sonstige Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de iOS/Android Linux Mac OS Windows WindowsWindows
 
 
 ---
@@ -110,7 +112,9 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsY/53/2507/36/060 30.06.2028 Hautkrebs-ScreeningWindows
+Y/53/2507/36/060 30.06.2028 Hautkrebs-Screening
+
+CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows InterMediNet KVDT DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
 
 
 ---
@@ -160,7 +164,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 18. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
 
 Y/53/2501/36/034
 
@@ -169,7 +173,9 @@ Y/53/2501/36/034
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de iOS/Android Linux Mac OS Windows Linux Mac OS Windows31.12.2027 Hautkrebs-ScreeningWindows
+31.12.2027 Hautkrebs-Screening
+
+QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Windows Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de garrioPRO garrio GmbH Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de iOS/Android Linux Mac OS Windows Linux Mac OS WindowsWindows
 
 
 ---
@@ -194,7 +200,9 @@ X/53/2601/36/940
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de MIQ-EHKS IOMTech GmbH Köpenicker Straße 9 10997 Berlin Internet: www.iomtech.de Mac OS Windows Linux Mac OS Sonstige Windows31.12.2028 Hautkrebs-ScreeningWindows
+31.12.2028 Hautkrebs-Screening
+
+Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de MIQ-EHKS IOMTech GmbH Köpenicker Straße 9 10997 Berlin Internet: www.iomtech.de Mac OS Windows Linux Mac OS Sonstige WindowsWindows
 
 
 ---
@@ -220,7 +228,9 @@ Y/52/2407/36/065
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www.medat.de Linux Sonstige Windows EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows Windows30.06.2027 QS Zervix-ZytologieWindows
+30.06.2027 QS Zervix-Zytologie
+
+David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www.medat.de Linux Sonstige Windows EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows WindowsWindows
 
 
 ---
@@ -244,7 +254,9 @@ V/53/2601/36/538
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows Windows31.12.2028 Hautkrebs-ScreeningWindows
+31.12.2028 Hautkrebs-Screening
+
+Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsWindows
 
 
 ---
@@ -261,7 +273,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 18. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -327,7 +339,9 @@ Y/55/2311/36/609
 
 31.10.2026 QS Molekulargenetik
 
-Y/56/2401/36/247 31.12.2026 QS Hörgeräteversorgung
+Y/56/2401/36/247
+
+31.12.2026 QS Hörgeräteversorgung
 
 Windows
 
@@ -382,7 +396,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 18. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
 
 Y/53/2501/36/313
 
@@ -391,4 +405,6 @@ Y/53/2501/36/313
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS Windows31.12.2027 Hautkrebs-ScreeningWindows
+31.12.2027 Hautkrebs-Screening
+
+tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsWindows

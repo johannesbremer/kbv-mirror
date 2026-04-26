@@ -1,42 +1,60 @@
-## TECHNISCH-ORGANISATORISCHE MAßNAHMEN FÜR DIE SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS.
+# TECHNISCH-ORGANISATORISCHE MAßNAHMEN FÜR DIE SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS.
 
-2 SGB V
+# 2 SGB V
 
 **[KBV_ITV_FMEX_TOM_370a**
 
-Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstellesind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und  werden im Zertifizierungsverfahren geprüft.
+Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstellesind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und
+
+werden im Zertifizierungsverfahren geprüft.
 
 
 ---
 
 ## INHALT
 
-**1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN 3**
+**1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN**
 
-**2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN 10**
+**3**
 
-**3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF** **15**
+**2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN**
 
-**4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL) 22**
+**10**
 
-**5 MAßNAHMEN ZUR DATENÜBERTRAGUNG 26**
+**3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF**
 
-**6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE 29**
+**15**
 
-**7 MAßNAHMEN ZUM BACKUP 32**
+**4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)**
 
-**8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN 35**
+**22**
 
-**9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION 39**
+**5 MAßNAHMEN ZUR DATENÜBERTRAGUNG**
+
+**26**
+
+**6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE**
+
+**29**
+
+**7 MAßNAHMEN ZUM BACKUP**
+
+**32**
+
+**8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN**
+
+**35**
+
+**9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION**
+
+**39**
 
 **10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER TECHNISCH-ORGANISATORISCHEN MAßNAHMEN 42**
 
 
 ---
 
-1
-
-MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN
+1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -265,14 +283,14 @@ werden die Serverräume noch genutzt? betriebsfremde Personen (bspw. Besucher) z
 |  |  |  |  |  |  |  |  |  | SCHUTZ- | ☐ ☐ |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | begrenzt geeignet  ungeeignet |  | Begründung: |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER MAßNAHMEN DES AUFTRAGNEHMERS | ☐  begrenzt geeignet ☐  ungeeignet   Begründung: bitte angeben | | | | | | | | | | | | | | | |
 
-[ ] [ ]] /
+] /
+
+[ ] [ ]
 
 
 ---
 
-2
-
-MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN
+2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -404,9 +422,7 @@ ODER DARSTELLUNG GLEICHWERTIGER Implementierungskosten, der Art, des Umfangs, de
 
 ---
 
-3
-
-MAßNAHMEN ZUM ZUGANG UND ZUGRIFF
+3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -604,9 +620,7 @@ ODER DARSTELLUNG GLEICHWERTIGER geeignet, um ein dem Risiko angemessenes Schutzn
 
 ---
 
-4
-
-MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)
+4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -672,9 +686,7 @@ ODER DARSTELLUNG GLEICHWERTIGER gewährleisten? [ ] [ ] [ ]
 
 ---
 
-5
-
-MAßNAHMEN ZUR DATENÜBERTRAGUNG
+5 MAßNAHMEN ZUR DATENÜBERTRAGUNG
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -717,14 +729,14 @@ ODER DARSTELLUNG GLEICHWERTIGER aus Ihrer Sicht unter Berücksichtigung des Stan
 |  |  |  |  |  | ☐  ungeeignet   Begründung: bitte angeben | | | | | | | |
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | |
 
-ODER DARSTELLUNG GLEICHWERTIGER [ ]] / Version: 1.12.1
+] / Version: 1.12.1
+
+ODER DARSTELLUNG GLEICHWERTIGER [ ]
 
 
 ---
 
-6
-
-MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE
+6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | |
 |---|---|---|---|---|---|---|
@@ -789,9 +801,7 @@ ODER DARSTELLUNG GLEICHWERTIGER  ja, bitte angeben gewährleisten. aus Ihrer Sic
 
 ---
 
-7
-
-MAßNAHMEN ZUM BACKUP
+7 MAßNAHMEN ZUM BACKUP
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -842,9 +852,7 @@ Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. der Backups in einem (von de
 
 ---
 
-8
-
-MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN
+8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -915,9 +923,7 @@ informiert? inklusive Rollen- und Kommunikationsvorgaben Informationssicherheits
 
 ---
 
-9
-
-WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION
+9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS |
 |---|---|---|---|---|
@@ -979,9 +985,7 @@ aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementier
 
 ---
 
-10
-
-REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER  TECHNISCH-ORGANISATORISCHEN MAßNAHMEN
+10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER  TECHNISCH-ORGANISATORISCHEN MAßNAHMEN
 
 |  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|

@@ -17,20 +17,72 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **EINLEITUNG 4**
+**1** **EINLEITUNG**
 
-1.1 Zielbestimmung 4  1.2 Pflichtfunktionen und optionale Funktionen der Software 4
+**4**
 
-**2** **ÄRZTLICHES DOKUMENTIEREN 5**
+1.1 Zielbestimmung
 
-2.1 Allgemeine Funktionen 5  Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten 2.1.15  Vorbelegung von Feldern 2.1.25  2.1.3 Unterstützung von ergänzenden Verträgen der KVen 5  Plausibilitätenprüfung 2.1.46  2.1.5 Speichern und Archivieren von Dokumentationsdaten 6  2.1.6 Anlage einer eDokumentation 6  2.2 Versicherteninformationen 7  2.2.1 Administratives Geschlecht des Patienten 7  2.3 Datenübermittlung 7  2.3.1 Anwendung Prüfmodul (XPM) 7  2.3.2 Export der Daten 7  Verschlüsseln der Daten 2.3.38  2.3.4 Datenträgerbeschriftung und Transportbegleitzettel 8
+4
 
-**3** **REFERENZIERTE DOKUMENTE** **9**
+1.2 Pflichtfunktionen und optionale Funktionen der Software 4
+
+**2** **ÄRZTLICHES DOKUMENTIEREN**
+
+**5**
+
+2.1 Allgemeine Funktionen
+
+5
+
+Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten 2.1.1
+
+5
+
+Vorbelegung von Feldern 2.1.2
+
+5
+
+2.1.3 Unterstützung von ergänzenden Verträgen der KVen 5
+
+Plausibilitätenprüfung 2.1.4
+
+6
+
+2.1.5 Speichern und Archivieren von Dokumentationsdaten 6
+
+2.1.6 Anlage einer eDokumentation 6
+
+2.2 Versicherteninformationen
+
+7
+
+2.2.1 Administratives Geschlecht des Patienten 7
+
+2.3 Datenübermittlung
+
+7
+
+2.3.1 Anwendung Prüfmodul (XPM) 7
+
+2.3.2 Export der Daten
+
+7
+
+Verschlüsseln der Daten 2.3.3
+
+8
+
+2.3.4 Datenträgerbeschriftung und Transportbegleitzettel 8
+
+**3** **REFERENZIERTE DOKUMENTE**
+
+**9**
 
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 
@@ -51,21 +103,25 @@ P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 ent
 
 ---
 
-1
+# 1 EINLEITUNG
 
-## EINLEITUNG
+## 1.1 ZIELBESTIMMUNG
 
-**1.1** **ZIELBESTIMMUNG**
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der elektronischen Dokumentation zum
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der elektronischen Dokumentation zum  Hautkrebs-Screening (kurz: eHKS) eingesetzt wird. Die Anwender sollen durch das Softwareprodukt in die  Lage versetzt werden, den Anforderungen im Rahmen der medizinischen Dokumentationen zu entsprechen  und den regelmäßigen Datentransfer zu realisieren.
+Hautkrebs-Screening (kurz: eHKS) eingesetzt wird. Die Anwender sollen durch das Softwareprodukt in die  Lage versetzt werden, den Anforderungen im Rahmen der medizinischen Dokumentationen zu entsprechen
 
-**1.2** **PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE**
+und den regelmäßigen Datentransfer zu realisieren.
+
+## 1.2 PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Kategorien zur  Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und daneben optionale  Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
-**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu dieser  Funktion erfüllt sind.
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu dieser
+
+Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist im Rahmen  des Gutachterverfahrens nachzuweisen.
 
@@ -92,11 +148,9 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 ---
 
-2
+# 2 ÄRZTLICHES DOKUMENTIEREN
 
-## ÄRZTLICHES DOKUMENTIEREN
-
-**2.1** **ALLGEMEINE FUNKTIONEN**
+## 2.1 ALLGEMEINE FUNKTIONEN
 
 **2.1.1** **Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten**
 
@@ -104,15 +158,21 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | P1-10 | Stamm- und Bewegungsdaten |
 
-1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in  der Schnittstellenbeschreibung [KBV_ITA_VGEX_Schnittstelle_eHKS] festgelegten Datenelemente  müssen vollständig erfassbar sein.
+- 1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in
 
-2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
+- der Schnittstellenbeschreibung [KBV_ITA_VGEX_Schnittstelle_eHKS] festgelegten Datenelemente
+
+- müssen vollständig erfassbar sein.
+
+- 2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
 | P1-11 | Anzeige des Dokumentat |
 
-Die Software muss in der Bedienoberfläche den in der Plausibilitätsrichtlinie als „VerdachtsdiagnoseND“  (Feld 1.1.1) bezeichneten Parameter als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
+Die Software muss in der Bedienoberfläche den in der Plausibilitätsrichtlinie als „VerdachtsdiagnoseND“
+
+(Feld 1.1.1) bezeichneten Parameter als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
 
 **Begründung:**
 
@@ -120,7 +180,7 @@ Es besteht aufgrund der Abkürzung „ND“ eine Verwechselungsgefahr mit dem Be
 
 **Akzeptanzkriterium:**
 
-Die Software muss in der Bedienoberfläche den Auswahlparameter „VerdachtsdiagnoseND“ (Feld 1.1.1  des Dokumentes [KBV_ITA_VGEX_Plausi_eHKS]) als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
+- Die Software muss in der Bedienoberfläche den Auswahlparameter „VerdachtsdiagnoseND“ (Feld 1.1.1  des Dokumentes [KBV_ITA_VGEX_Plausi_eHKS]) als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
 
 **2.1.2** **Vorbelegung von Feldern**
 
@@ -128,7 +188,9 @@ Die Software muss in der Bedienoberfläche den Auswahlparameter „Verdachtsdiag
 |---|---|
 | K1-20 | Vorbelegung von Feldern |
 
-Eine Vorbelegung von Feldern aus Drittsystemen, z. B. anderen PVS ist zulässig, soweit sichergestellt ist,  dass die Daten korrekt übernommen werden.
+Eine Vorbelegung von Feldern aus Drittsystemen, z. B. anderen PVS ist zulässig, soweit sichergestellt ist,
+
+dass die Daten korrekt übernommen werden.
 
 Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten möglich sein.
 
@@ -144,7 +206,9 @@ Vollständigkeit der Eingaben aller ionsparameters „Verdachtsdiagno seND“ Un
 
 ---
 
-Die Dokumentation der Früherkennungsuntersuchungen auf Hautkrebs kann auch im Rahmen von  ergänzenden Verträgen erforderlich sein. Dazu kann die bestehende eHKS-Umsetzung auch für Patienten  unter 35 Jahren genutzt werden. Erstellte Dokumentationsbögen für Patienten im Rahmen von  ergänzenden Verträgen (z. B. nach §73c SGB V) sind speziell zu kennzeichnen (Nutzung der Angabe des  Dokumenttyps im Element „document_type_cd“). Die Übermittlung dieser Bögen an die KV muss durch  den Anwender konfigurierbar sein, d.h. der Anwender muss festlegen können, ob die im Rahmen von  ergänzenden Verträgen erstellten Dokumentationsbögen an die KV übermittelt werden sollen oder nicht.
+Die Dokumentation der Früherkennungsuntersuchungen auf Hautkrebs kann auch im Rahmen von  ergänzenden Verträgen erforderlich sein. Dazu kann die bestehende eHKS-Umsetzung auch für Patienten
+
+unter 35 Jahren genutzt werden. Erstellte Dokumentationsbögen für Patienten im Rahmen von  ergänzenden Verträgen (z. B. nach §73c SGB V) sind speziell zu kennzeichnen (Nutzung der Angabe des  Dokumenttyps im Element „document_type_cd“). Die Übermittlung dieser Bögen an die KV muss durch  den Anwender konfigurierbar sein, d.h. der Anwender muss festlegen können, ob die im Rahmen von  ergänzenden Verträgen erstellten Dokumentationsbögen an die KV übermittelt werden sollen oder nicht.
 
 **2.1.4** **Plausibilitätenprüfung**
 
@@ -168,16 +232,26 @@ Das System muss sicherstellen, dass der Anwender die Dokumentation speichern kan
 |---|---|
 | P1-50 | Speichern und Archivieren von Dokumentationsdaten |
 
-Bei der Neuanlage einer eDokumentation Hautkrebs-Screening hat das System sicherzustellen, dass in die  Dokumentation eine eindeutige Patientennummer (Patientennummer-EDV) übernommen oder durch den  Anwender eingegeben wird. Systemseitig muss der Anwender dabei unterstützt werden.
+Bei der Neuanlage einer eDokumentation Hautkrebs-Screening hat das System sicherzustellen, dass in die
+
+Dokumentation eine eindeutige Patientennummer (Patientennummer-EDV) übernommen oder durch den
+
+Anwender eingegeben wird. Systemseitig muss der Anwender dabei unterstützt werden.
 
 Die Software muss sicherstellen, dass
 
-eine Patientennummer nicht doppelt vergeben werden kann. Gibt der Anwender eine  Patientennummer ein, die systemseitig bereits für einen anderen Patienten existiert, so darf diese  Nummer nicht übernommen werden und das System muss mit einem entsprechenden Fehlerhinweis  den Anwender auffordern eine nicht existierende Patientennummer einzugeben.  Die gewählte Patientennummer maximal 8-stellig, alphanumerisch ist.  Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den  vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs Screening vorschlagen.
+- eine Patientennummer nicht doppelt vergeben werden kann. Gibt der Anwender eine  Patientennummer ein, die systemseitig bereits für einen anderen Patienten existiert, so darf diese  Nummer nicht übernommen werden und das System muss mit einem entsprechenden Fehlerhinweis  den Anwender auffordern eine nicht existierende Patientennummer einzugeben.
+
+- Die gewählte Patientennummer maximal 8-stellig, alphanumerisch ist.
+
+- Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den
+
+- vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs Screening vorschlagen.
 
 
 ---
 
-**2.2** **VERSICHERTENINFORMATIONEN**
+## 2.2 VERSICHERTENINFORMATIONEN
 
 **2.2.1** **Administratives Geschlecht des Patienten**
 
@@ -193,7 +267,11 @@ Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermit
 
 **Akzeptanzkriterium:**
 
-Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.  Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe  Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
+- Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.
+
+Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe
+
+Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
 
 | ABBILDUNG DER GESCHLECHTSAUSPRÄGUNG AUF SCHLÜSSELTABELLENWERT (2.16.840.1.113883.5.1) | | |
 |---|---|---|
@@ -204,7 +282,7 @@ Das System muss das administrative Geschlechts des Patienten im Element <adminis
 | divers | - | UN |
 | unbestimmt | UN | X |
 
-**2.3** **DATENÜBERMITTLUNG**
+## 2.3 DATENÜBERMITTLUNG
 
 **2.3.1** **Anwendung Prüfmodul (XPM)**
 
@@ -222,7 +300,11 @@ Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen 
 
 Das System muss,
 
-die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben für den Export  vorbereiten,  sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
+- die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben für den Export  vorbereiten,
+
+- sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
+
+-
 
 
 ---
@@ -233,19 +315,29 @@ die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben f
 |---|---|
 | P2-30 | Einsatz XKM |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  Ihrer Gesamtheit mit dem Kryptomodul zu verschlüsseln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in
 
-Welche Form der Datenübertragung außer bei der Übermittlung der eHKS-Dokumentationsarchive mittels  KIM gemäß [Spec_KIM_eHKS] gewählt wird, ist für den Einsatz des Kryptomoduls nicht relevant. Das  Kryptomodul muss bei allen Datenübertragungen außer bei der Übermittlung mittels KIM gemäß  [Spec_KIM_eHKS] eingesetzt werden. Für nähere Erläuterungen zur Funktion und Anwendung des  Kryptomoduls ist in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
+Ihrer Gesamtheit mit dem Kryptomodul zu verschlüsseln.
 
-Bei der Übermittlung des Dokumentationsarchives mittels KIM gemäß [Spec_KIM_eHKS] darf das  Dokumentationsarchiv nicht verschlüsselt werden, da hier für die Übermittlung der sichere  Übermittlungsweg KIM in der TI zum Einsatz kommt.
+Welche Form der Datenübertragung außer bei der Übermittlung der eHKS-Dokumentationsarchive mittels
+
+KIM gemäß [Spec_KIM_eHKS] gewählt wird, ist für den Einsatz des Kryptomoduls nicht relevant. Das
+
+Kryptomodul muss bei allen Datenübertragungen außer bei der Übermittlung mittels KIM gemäß
+
+[Spec_KIM_eHKS] eingesetzt werden. Für nähere Erläuterungen zur Funktion und Anwendung des  Kryptomoduls ist in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
+
+Bei der Übermittlung des Dokumentationsarchives mittels KIM gemäß [Spec_KIM_eHKS] darf das
+
+Dokumentationsarchiv nicht verschlüsselt werden, da hier für die Übermittlung der sichere  Übermittlungsweg KIM in der TI zum Einsatz kommt.
 
 Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung mittels KIM gemäß  [Spec_KIM_eHKS] die folgenden Werte in den folgenden XML-Elementen der Begleitdatei zu übertragen:
 
-verschluesselungssoftware\software-name\@V = XKM
+- verschluesselungssoftware\software-name\@V = XKM
 
-verschluesselungssoftware\software-version\@V = 1.0.0
+- verschluesselungssoftware\software-version\@V = 1.0.0
 
-verschluesselungssoftware\software-hersteller\@V = KBV
+- verschluesselungssoftware\software-hersteller\@V = KBV
 
 **2.3.4** **Datenträgerbeschriftung und Transportbegleitzettel**
 
@@ -253,22 +345,24 @@ verschluesselungssoftware\software-hersteller\@V = KBV
 |---|---|
 | P2-40 | Beschriftung der eingesetzten Datenträger |
 
-Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger gemäß den  Beschreibungen im Kapitel „Beschriftung der Datenträger“ in [KBV_ITA_VGEX_XML-Schnittstellen]  beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufkleber (oder der direkten  Labelbeschriftung) kann angeboten werden.
+Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger gemäß den  Beschreibungen im Kapitel „Beschriftung der Datenträger“ in [KBV_ITA_VGEX_XML-Schnittstellen]
+
+beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufkleber (oder der direkten  Labelbeschriftung) kann angeboten werden.
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
 | P2-60 | Erstellung Transportbegleitzettel |
 
-1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten  oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
+- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten
 
-2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
+- oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
+
+- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
 
 
 ---
 
-3
-
-REFERENZIERTE DOKUMENTE
+3 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -292,4 +386,6 @@ Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dok
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

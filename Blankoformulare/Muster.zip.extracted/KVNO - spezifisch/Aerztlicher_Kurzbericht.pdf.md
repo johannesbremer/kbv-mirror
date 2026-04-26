@@ -4,7 +4,7 @@ Name, Vorname des Versicherten
 
 Kostenträgerkennung
 
-Betriebsstäten-Nr
+Betriebsstätten-Nr
 
 **Adresse der weiterbehandelnden Praxis/Einrichtung:**
 
@@ -16,7 +16,9 @@ Arzt-Nr
 
 **Medikation Aufnahme**
 
-**Medikament morgensmittags**
+**Medikament**
+
+**morgensmittags**
 
 **Befunde:**
 
@@ -28,7 +30,9 @@ Datum
 
 **abends nachts**
 
-EKG Röntgen
+EKG
+
+Röntgen
 
 Sonstige:
 
@@ -56,11 +60,11 @@ Datum
 
 Ich bin mit der Weitergabe der o.g. Daten zur Durchführung der erforderlichen Behandlung
 
-Die Daten solen übersandt werden an:
+Die Daten sollen übersandt werden an:
 
 Pflegeeinrichtung zur Durchführung der erforderlichen Pflege
 
-MDK zum Zweck der Feststelung der Pflegebedürftigkeit
+MDK zum Zweck der Feststellung der Pflegebedürftigkeit
 
 Datum
 
@@ -72,7 +76,9 @@ Name / Unterschrift Patientin / Patient /  gesetzl. Vertreterin / gesetzl. Vertr
 
 ### Patientenüberleitung Nordrhein
 
-Ausführlicher Bericht folgt:ja
+Ausführlicher Bericht folgt:
+
+ja
 
 Behandelnder Arzt / Krankenhaus:
 
@@ -88,13 +94,19 @@ Aufnahmegrund:
 
 **Änderung** **Ja / Nein**
 
-**Medikation Entlassung nach Abgleich mit Aufnahmemedikation** **Medikamenten-** **Veränderungen erfolgt**
+**Medikation Entlassung nach Abgleich mit Aufnahmemedikation**
 
-Echo Doppler
+**Medikamenten-** **Veränderungen erfolgt**
+
+Echo
+
+Doppler
 
 Bilder Arztbrief
 
-CT MRT
+CT
+
+MRT
 
 Sonstiges: (z.B. Anlage MRE)
 
@@ -122,7 +134,9 @@ bis:
 
 A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D
 
-Endoskopie OP
+Endoskopie
+
+OP
 
 gesetzes
 

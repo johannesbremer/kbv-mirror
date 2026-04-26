@@ -8,9 +8,15 @@
 
 **Diagnose**
 
-**Die** **Kostenverpflichtungserklärung** **der** **Krankenkasse** **vorbehalten;** **des** **Krankenhauses** **der**
+**Die** **Kostenverpflichtungserklärung** **der** **Krankenkasse** **vorbehalten;**
 
-**Geschieht** **das** **nicht,** **so** **kann** **abgelehnt** **werden;** **es** **sei**  **Leistungsanspruch** **besteht.**
+**des** **Krankenhauses** **der**
+
+**Geschieht** **das** **nicht,** **so** **kann**
+
+**abgelehnt** **werden;** **es** **sei**
+
+**Leistungsanspruch** **besteht.**
 
 **Vom Krankenhaus auszufüllen:**
 
@@ -24,9 +30,13 @@
 
 **Datum**
 
-**gegenüber** **deshalb** **bitte** **zuständigen**
+**gegenüber** **deshalb** **bitte**
 
-**die** **Kostenübernahme** **denn,** **es** **liegt**
+**zuständigen**
+
+**die** **Kostenübernahme**
+
+**denn,** **es** **liegt**
 
 **Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
@@ -44,9 +54,15 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**dem** **Krankenhaus** **bleibt** **diese** **Verordnung** **vor** **Aufsuchen** **Krankenkasse** **vorlegen.**
+**dem** **Krankenhaus** **bleibt**
 
-**durch** **dierankenkasse** **K** **ein** **Notfall** **vor,** **undin** **e**
+**diese** **Verordnung** **vor** **Aufsuchen**
+
+**Krankenkasse** **vorlegen.**
+
+**durch** **dierankenkasse** **K**
+
+**ein** **Notfall** **vor,** **undin** **e**
 
 **Stempel des Krankenhauses und Unterschrift**
 

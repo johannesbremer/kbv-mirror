@@ -8,18 +8,26 @@
 
 # KHK
 
-**Grundlage: Anlage 6 der DMP-A-RL**  **gültig ab 01.04.2020**
+**Grundlage:**
 
-**Stand der Bearbeitung: 06.04.2020**  **Version anzuwenden ab: 01.04.2021**
+**Anlage 6 der DMP-A-RL**
 
-### Version: 4.0
+**gültig ab 01.04.2020**
+
+**Stand der Bearbeitung:**
+
+**06.04.2020**
+
+**Version anzuwenden ab:**
+
+**01.04.2021**
+
+**Version: 4.0**
 
 
 ---
 
-### Anlage
-
-**6:** Datensatz für die indikationsspezifische Dokumentation:
+#### Anlage 6: Datensatz für die indikationsspezifische Dokumentation:
 
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
@@ -31,9 +39,7 @@
 |  | Relevante Ereignisse |  | |
 | 3 | Relev | Herzinfarkt / Instabile Angina pectoris / | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Erfolgt die Angabe „ |
 
-### Koronare Herzkrankheit (KHK)
-
-Nr. sind die nachstehenden Felder der Anlage 2 entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Schlaganfall / Nein   Anlage 2* in Feld 10 mi ndestens die Angabe „KHK“ erfolgt,  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0,0  bis 25,9  liegen; Die Angabe erfolgt mit genau einer Nachkommastelle  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0  bis 999  liegen ; Die Angabe erfol gt ohne Nachkommastelle “ ist keine weitere Angabe zulässig
+Nr. sind die nachstehenden Felder der Anlage 2 entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Schlaganfall / Nein   Anlage 2* in Feld 10 mi ndestens die Angabe „KHK“ erfolgt,  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0,0  bis 25,9  liegen; Die Angabe erfolgt mit genau einer Nachkommastelle  angegeben ist, muss der Wert innerhalb des Wertebereiches von 0  bis 999  liegen ; Die Angabe erfol gt ohne Nachkommastelle “ ist keine weitere Angabe zulässig#### Koronare Herzkrankheit (KHK)
 
 
 ---

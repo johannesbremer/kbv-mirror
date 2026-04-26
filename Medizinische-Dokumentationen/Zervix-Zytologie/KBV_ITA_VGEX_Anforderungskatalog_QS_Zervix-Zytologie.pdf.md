@@ -31,7 +31,7 @@ itätssicherung Zervix
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
 **INHALTSVERZEICHNIS_____________________________________________________ 3**
 
@@ -43,29 +43,56 @@ itätssicherung Zervix
 
 **2** **ÄRZTLICHES DOKUMENTIEREN _________________________________________ 5**
 
-**2.1** **Allgemeine Vorgaben .....................................................................................................................5**  2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten .............................................................5  2.1.2 Ausgangsbefunde ...................................................................................................................5  2.1.3 Präparate ................................................................................................................................5  2.1.4 Praxisbesonderheiten .............................................................................................................6  2.1.5 Speichern und Archivieren von Dokumentationsdaten ..........................................................6
+**2.1** **Allgemeine Vorgaben .....................................................................................................................5**
 
-**2.2** **Datenübermittlung .........................................................................................................................6**  2.2.1 Übermittelung .........................................................................................................................6  2.2.2 Export der Daten.....................................................................................................................6  2.2.3 Verschlüsseln der Daten ........................................................................................................6  2.2.4 Datenträgerbeschriftung und Transportbegleitzettel ..............................................................7
+2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten .............................................................5
+
+2.1.2 Ausgangsbefunde ...................................................................................................................5
+
+2.1.3 Präparate ................................................................................................................................5
+
+2.1.4 Praxisbesonderheiten .............................................................................................................6
+
+2.1.5 Speichern und Archivieren von Dokumentationsdaten ..........................................................6
+
+**2.2** **Datenübermittlung .........................................................................................................................6**
+
+2.2.1 Übermittelung .........................................................................................................................6
+
+2.2.2 Export der Daten.....................................................................................................................6
+
+2.2.3 Verschlüsseln der Daten ........................................................................................................6
+
+2.2.4 Datenträgerbeschriftung und Transportbegleitzettel ..............................................................7
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
 
 
 ---
 
-**1**
+# 1 Einleitung
 
-## Einleitung
+## 1.1 Zielbestimmung
 
-**1.1 Zielbestimmung**
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung der zervix-zytologischen Untersuchungen eingesetzt wird. Es wird eine Jahressta- tistik der zervix-zytologischen Untersuchungen an die zuständige KV übermittelt.
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung der zervix-zytologischen Untersuchungen eingesetzt wird. Es wird eine Jahressta- tistik der zervix-zytologischen Untersuchungen an die zuständige KV übermittelt.   Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
+Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
+
 -  die zervix-zytologische Jahresstatistik korrekt zu dokumentieren sowie
 
--  den jährlichen Datentransfer an die Kassenärztliche Vereinigung zu realisieren.   **1.2 Pflichtfunktionen und optionale Funktionen der Software**
+-  den jährlichen Datentransfer an die Kassenärztliche Vereinigung zu realisieren.
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben Optionale Funktionen.   müssen in der Anwendungssoftware implementiert sein. **Pflichtfunktionen**
+## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-können implementiert werden, wenn alle genannten Bedingungen zu **Optionale Funktionen** dieser Funktion erfüllt sind.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben Optionale Funktionen.
+
+müssen in der Anwendungssoftware implementiert sein.
+
+**Pflichtfunktionen**
+
+können implementiert werden, wenn alle genannten Bedingungen zu
+
+**Optionale Funktionen** dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -73,13 +100,19 @@ Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Fu
 
 Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sinne der  gültigen Dokumentationsvorschriften.
 
-**Erläuterung der Funktionsdarstellung**  Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die  Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation  über die Funktionen erleichtert.   Pflichtfunktionen sind wie folgt gekennzeichnet:
+**Erläuterung der Funktionsdarstellung**
+
+Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die  Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation  über die Funktionen erleichtert.
+
+Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 | PFLICHTFUNKTION | |
 |---|---|
 | P4-10 | Funktionsbezeichnung |
 
-Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Versi- on    Optionale Funktionen sind wie folgt gekennzeichnet:
+Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Versi- on
+
+Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | Optionale FUNKTION | |
 |---|---|
@@ -89,11 +122,9 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on (2-
 
 ---
 
-**2**
+# 2 Ärztliches Dokumentieren
 
-## Ärztliches Dokumentieren
-
-**2.1 Allgemeine Vorgaben**
+## 2.1 Allgemeine Vorgaben
 
 **2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
 
@@ -101,15 +132,19 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on (2-
 |---|---|
 | P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.  Die in der Schnittstellenbeschreibung QS Zervix-Zytologie  [KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie] festgelegten Datenelemente müssen  vollständig erfassbar sein.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.
+
+Die in der Schnittstellenbeschreibung QS Zervix-Zytologie  [KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie] festgelegten Datenelemente müssen
+
+vollständig erfassbar sein.
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
 | P1-20 | Berichtszeiträume |
 
-1. Die Ausgangsbefunde werden vom 01.01-31.12 des Berichtsjahres erfasst.
+- 1. Die Ausgangsbefunde werden vom 01.01-31.12 des Berichtsjahres erfasst.
 
-2. Die histologischen Abklärungen zu den Ausgangsbefunden können nur bis 30.06 des  Folgejahres angegeben werden. Frauen, die durch zytologische Kontrollen weiter un- tersucht werden, und bei denen aber keine histologische Abklärungsdiagnostik bis  zum 30.06 des Folgejahres erfolgte, sind nicht aufzuführen.
+- 2. Die histologischen Abklärungen zu den Ausgangsbefunden können nur bis 30.06 des  Folgejahres angegeben werden. Frauen, die durch zytologische Kontrollen weiter un- tersucht werden, und bei denen aber keine histologische Abklärungsdiagnostik bis  zum 30.06 des Folgejahres erfolgte, sind nicht aufzuführen.
 
 **2.1.2 Ausgangsbefunde**
 
@@ -123,7 +158,9 @@ Liegen mehrere Ausgangsbefunde (mit verschiedenen Befundgruppen) einer Frau für
 |---|---|
 | P1-40 | Gesamtanzahl der untersuchten Frauen = Anzahl der Ausgangsbefunde |
 
-Die Gesamtanzahl der untersuchten Frauen ist gleich der Anzahl der Ausgangsbefunde.   **2.1.3 Präparate**
+Die Gesamtanzahl der untersuchten Frauen ist gleich der Anzahl der Ausgangsbefunde.
+
+**2.1.3 Präparate**
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
@@ -140,31 +177,39 @@ Die Gesamtzahl der untersuchten Präparate ist größer als die Summe der Anzahl
 |---|---|
 | P1-50 | Praxisbesonderheit |
 
-Wenn Praxisbesonderheiten vorliegen, welche die Befundgruppenverteilung beeinflussen  können, sind diese zu nennen, ansonsten ist kein Eintrag erforderlich.   **2.1.5 Speichern und Archivieren von Dokumentationsdaten**
+Wenn Praxisbesonderheiten vorliegen, welche die Befundgruppenverteilung beeinflussen  können, sind diese zu nennen, ansonsten ist kein Eintrag erforderlich.
+
+**2.1.5 Speichern und Archivieren von Dokumentationsdaten**
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
 | P1-60 | Speichern der Jahresstatistik |
 
-Das System muss sicherstellen, dass der Anwender die Jahresstatistik speichern kann. Ein  späterer Abruf dieser Jahresstatistik zur nachträglichen Bearbeitung muss dem Anwender  ermöglicht werden.   **2.2 Datenübermittlung**
+Das System muss sicherstellen, dass der Anwender die Jahresstatistik speichern kann. Ein  späterer Abruf dieser Jahresstatistik zur nachträglichen Bearbeitung muss dem Anwender  ermöglicht werden.
 
-**2.2.1 Übermittelung**
+## 2.2 Datenübermittlung
+
+### 2.2.1 Übermittelung
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
 | P2-10 | Übermittlung an KV |
 
-Die Jahresstatistik ist ab 01.07 des Folgejahres an die Kassenärztliche Vereinigung (KV) zu  übermitteln.   **2.2.2 Export der Daten**
+Die Jahresstatistik ist ab 01.07 des Folgejahres an die Kassenärztliche Vereinigung (KV) zu  übermitteln.
+
+**2.2.2 Export der Daten**
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
 | P2-15 | Korrekter Datenexport |
 
-Das System muss,  a) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vor- gaben für den Export vorbereiten,
+Das System muss,
 
-b) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Zervix-Zytologie und einer Begleitdatei besteht und
+- a) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vor- gaben für den Export vorbereiten,
 
-c) exportierte Datensätze innerhalb des Systems kennzeichnen.
+- b) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Zervix-Zytologie und einer Begleitdatei besteht und
+
+- c) exportierte Datensätze innerhalb des Systems kennzeichnen.
 
 **2.2.3 Verschlüsseln der Daten**
 
@@ -177,7 +222,9 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 ---
 
-**2.2.4 Datenträgerbeschriftung und Transportbegleitzettel**  Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, so sind die  Anforderungen P2-25 und P2-26 einzuhalten.
+### 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel
+
+Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, so sind die  Anforderungen P2-25 und P2-26 einzuhalten.
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
@@ -189,14 +236,14 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 |---|---|
 | P2-30 | Erstellung Transportbegleitzettel |
 
-1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
+- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 
-2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand- schriftlich anzugeben.
+- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand- schriftlich anzugeben.
 
 
 ---
 
-**3 Referenzierte Dokumente**
+# 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

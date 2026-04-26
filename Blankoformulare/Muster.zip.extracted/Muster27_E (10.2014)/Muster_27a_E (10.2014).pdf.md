@@ -18,9 +18,13 @@
 
 **4.**
 
-**Versicherten-Nr.Status**
+**Versicherten-Nr.**
 
-**Arzt-Nr.Datum**
+**Status**
+
+**Arzt-Nr.**
+
+**Datum**
 
 **5.**
 
@@ -38,13 +42,15 @@
 
 **Ausstellungsdatum**
 
-### Original bitte zusammen mit der Verordnung der Krankenkasse vorlegen
+#### Original bitte zusammen mit der Verordnung der Krankenkasse vorlegen
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-**geb. am** ***(als Anlage zur Verordnung und zur*** ***Weiterleitung an die Krankenkasse)***
+**geb. am**
+
+#### (als Anlage zur Verordnung und zur Weiterleitung an die Krankenkasse)
 
 **IK des Leistungserbringers**
 

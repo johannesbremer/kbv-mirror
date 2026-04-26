@@ -18,25 +18,85 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **ALLGEMEINES 4**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 4  1.2 Zertifizierungsablauf 4  1.3 Zertifizierungsportal 5  1.4 Zertifizierungsdokumente 5  1.5 Prüfunterlagen 5  1.6 Prüfvorgaben 7  Prüfstammdaten 1.6.17  Versichertendaten 1.6.27  1.6.3 Auflistung der Prüffälle 7  Praxisdaten/ Arztstempel 1.6.47  1.6.5 Version der zu verwendenden FHIR-Profile 9  1.6.6 Signierung von Verordnungen 9
+**4**
 
-**2** **PRÜFFÄLLE 10**
+1.1 Rechtsgrundlage
 
-2.1 Voraussetzungen 11  2.2 Erstellen eines eRP 11  Konditionale Prüffälle 2.3 Erstellen eines eRP 17  2.4 Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien 19  2.5 Bestätigung der gematik zum Funktionsumfang E-Rezept 19
+4
+
+1.2 Zertifizierungsablauf
+
+4
+
+1.3 Zertifizierungsportal
+
+5
+
+1.4 Zertifizierungsdokumente
+
+5
+
+1.5 Prüfunterlagen
+
+5
+
+1.6 Prüfvorgaben
+
+7
+
+Prüfstammdaten 1.6.1
+
+7
+
+Versichertendaten 1.6.2
+
+7
+
+1.6.3 Auflistung der Prüffälle 7
+
+Praxisdaten/ Arztstempel 1.6.4
+
+7
+
+1.6.5 Version der zu verwendenden FHIR-Profile 9
+
+1.6.6 Signierung von Verordnungen 9
+
+**2** **PRÜFFÄLLE**
+
+**10**
+
+2.1 Voraussetzungen
+
+11
+
+2.2 Erstellen eines eRP
+
+11
+
+Konditionale Prüffälle 2.3 Erstellen eines eRP
+
+17
+
+2.4 Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien 19
+
+2.5 Bestätigung der gematik zum Funktionsumfang E-Rezept 19
 
 | **3** |  | **TESTDATENVALIDIERUNG** | **20** |
 |---|---|---|---|
 | 3.1 | Testfälle | eRezept | 21 |
 
-**4** **REFERENZIERTE DOKUMENTE** **22**
+**4** **REFERENZIERTE DOKUMENTE**
+
+**22**
 
 Testfälle eRezept
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -54,11 +114,11 @@ einzureichenden Prüfunterlagen die Profilversion 1.3.2 Profile in der Version 1
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische  Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP)
+Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP)
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
@@ -66,34 +126,58 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 **HINWEIS**
 
-Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das  Zertifizierungsthema „Verordnung von Arzneimitteln“ anstreben, siehe auch  [KBV_ITA_AHEX_PRUEFPAKET_AMV].
+Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das
 
-**1.1** **RECHTSGRUNDLAGE**
+Zertifizierungsthema „Verordnung von Arzneimitteln“ anstreben, siehe auch
+
+[KBV_ITA_AHEX_PRUEFPAKET_AMV].
+
+## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet §73 Absatz 9 des Fünften Buches Sozialgesetzbuch (SGB V).
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang  AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung  [KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem  Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden
+- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang
+
+- AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung
+
+- [KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem
+
+- Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder
+
+des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen
+
+vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  AMV hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“)  die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  AMV hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“)
+
+die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer zip-Datei archiviert werden.
 
@@ -101,36 +185,62 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und
+
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch
+
+das Referat Zertifizierung geprüft.
 
 Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind,  werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eRP] bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eRP] bereit. In diesem
 
-**1.5** **PRÜFUNTERLAGEN**
+Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+
+## 1.5 PRÜFUNTERLAGEN
 
 Das Prüfpaket umfasst Prüffälle zum Erstellen und Signieren von eRP-Dateien.
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet: - Signierte eRP-Dateien
 
-Signierte eRP-Dateien  XML-Dateien der eRP-Dateien  PDF-Dateien des Patientenausdrucks des eRP  Screenshots ausgewählter Anforderungen  Videoaufzeichnungen ausgewählter Anforderungen  Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
+- XML-Dateien der eRP-Dateien
 
-Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei  sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss
+- PDF-Dateien des Patientenausdrucks des eRP
+
+- Screenshots ausgewählter Anforderungen
+
+- Videoaufzeichnungen ausgewählter Anforderungen
+
+- Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
+
+Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei
+
+sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss
 
 
 ---
 
-<PrüffallNr.> .xml  1 1 Nr. des Prüffalls
+- <PrüffallNr.> .xml  1
 
-z.B. PF01_01.pdf  <PrüffallNr.>_[lfdNr.].pdf
+- 1 Nr. des Prüffalls
 
-z.B. PF01.xml  <PrüffallNr.>.p7s  z.B. PF01.p7s
+- z.B. PF01_01.pdf
+
+-  <PrüffallNr.>_[lfdNr.].pdf
+
+- z.B. PF01.xml
+
+- <PrüffallNr.>.p7s  z.B. PF01.p7s
 
 Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF Format übermittelt werden.
 
-und der Ordner „Dokumentation“ sind in einem zip-Archiv zu übermitteln. Das Die gesammelten Dateien  zip- Archiv muss mit „Zert_410_<SystemID>“ benannt werden. Wenn bereits eine Prüfnummer vergeben  wurde, ergibt sich die SystemID aus den letzten drei Stellen der Prüfnummer.
+und der Ordner „Dokumentation“ sind in einem zip-Archiv zu übermitteln. Das
+
+Die gesammelten Dateien  zip- Archiv muss mit „Zert_410_<SystemID>“ benannt werden. Wenn bereits eine Prüfnummer vergeben
+
+wurde, ergibt sich die SystemID aus den letzten drei Stellen der Prüfnummer.
 
 Die Struktur des zip- Archives sollte folgende Form aufweisen:
 
@@ -143,11 +253,15 @@ Die Prüfunterlagen für die Prüffalle PF10 und PF11 sind nur einzureichen, sof
 
 ---
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
+- EF.VD = allgemeine Versicherungsdaten
 
-**1.6** **PRÜFVORGABEN**
+- EF.PD persönliche Versichertendaten
 
-**1.6.1** **Prüfstammdaten**
+- EF.GVD = geschützte Versichertendaten
+
+## 1.6 PRÜFVORGABEN
+
+### 1.6.1 Prüfstammdaten
 
 Für die Zertifizierung können die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden.
 
@@ -155,11 +269,13 @@ Prüfstammdateien verwendet
 
 Neben den speziellen Prüfstammdateien können auch die
 
-**1.6.2** **Versichertendaten**
+### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  [VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
 
-**1.6.3** **Auflistung der Prüffälle**
+[VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+
+### 1.6.3 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
 
@@ -230,35 +346,47 @@ Federmannssohn
 
 ---
 
-**1.6.5** **Version der zu verwendenden FHIR-Profile**
+### 1.6.5 Version der zu verwendenden FHIR-Profile
 
-Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-FHIR-Profile in der  Version 1.3.2 zu erstellen.
+Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-FHIR-Profile in der
 
-**Signierung von Verordnungen 1.6.6**
+Version 1.3.2 zu erstellen.
+
+### Signierung von Verordnungen
+
+### 1.6.6
 
 Im Rahmen einiger Prüffälle ist eine qualifizierte elektronische Signatur (QES) mittels eines eHBAs oder  eines Test-eHBAs zu erzeugen und einzureichen.
 
-Nähere Information zum Bezug und der Nutzung von Test-eHBAs finden Sie bei der gematik  [gemTest_Karten].
+Nähere Information zum Bezug und der Nutzung von Test-eHBAs finden Sie bei der gematik
+
+[gemTest_Karten].
 
 
 ---
 
-2
+# 2 PRÜFFÄLLE
 
-## PRÜFFÄLLE
+Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und
 
-Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und  welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
+welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
 
 **HINWEIS**
 
-In den XML-Dateien des eRP wird ein Bundle-Identifier erwartet, der dem Aufbau der E-Rezept-ID  entspricht  gemäß dem Datenmodell E-Rezept der gematik [gemSpec_DM_eRp].
+In den XML-Dateien des eRP wird ein Bundle-Identifier erwartet, der dem Aufbau der E-Rezept-ID
 
-Der bei den Prüffällen zu PZN-Verordnungen angegebene Handelsname des Medikaments ist informativ. Da  der Handelsname je nach Arzneimitteldatenbank geringfügig unterschiedlich sein kann, erfolgt bei den  eingereichten Dateien keine Prüfung dieses Wertes auf Übereinstimmung mit den hier aufgeführten  Handelsnamen.
+entspricht  gemäß dem Datenmodell E-Rezept der gematik [gemSpec_DM_eRp].
+
+Der bei den Prüffällen zu PZN-Verordnungen angegebene Handelsname des Medikaments ist informativ. Da  der Handelsname je nach Arzneimitteldatenbank geringfügig unterschiedlich sein kann, erfolgt bei den
+
+eingereichten Dateien keine Prüfung dieses Wertes auf Übereinstimmung mit den hier aufgeführten
+
+Handelsnamen.
 
 
 ---
 
-**2.1** **VORAUSSETZUNGEN**
+## 2.1 VORAUSSETZUNGEN
 
 Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünsc Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu  prüfenden Systems Screenshots und Videoaufzeichnungen
 
@@ -363,6 +491,8 @@ Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 is
 | Hinweis | -Dateien auf Basis der eRezept- |
 
 **Tabelle 7: Prüffalltabelle**
+
+-
 
 **Signieren mehrerer Verordnungen für Patient „Viktor Müller**
 
@@ -481,19 +611,27 @@ ERSTELLEN EINES ERP Prüfunterlagen Tabelle 12: Prüffalltabelle BESTÄTIGUNG DE
 
 ---
 
-3
-
-## TESTDATENVALIDIERUNG
+# 3 TESTDATENVALIDIERUNG
 
 Für die in Kapitel 2 sowie in Kapitel 3.1 beschriebenen Prüffälle und Testfälle, für welche XML-Dateien  (FHIR-Instanzen) einzureichen sind, kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt  werden.
 
-RP-spezifischen FHIR- Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und e Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die  -Instanzen. Eine Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
+RP-spezifischen FHIR-
 
-Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  -Mail-Adresse werden die Testergebnisse gesendet. hochgeladen werden. An die angegebene E
+Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und e Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die  -Instanzen. Eine
+
+Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR
+
+Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
+
+Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  -Mail-Adresse werden die Testergebnisse gesendet.
+
+hochgeladen werden. An die angegebene E
 
 **Abbildung 2: Testdatenvalidierung im Zertifizierungsportal**
 
--Archivs. Bitte beachten Sie die folgende Verzeichnisstruktur des zip
+-Archivs.
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des zip
 
 **Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
 
@@ -530,9 +668,7 @@ Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 03428402 (S
 
 ---
 
-4
-
-REFERENZIERTE DOKUMENTE
+4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -562,4 +698,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-/gemSpec_DM_eRp/latest/  Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+/gemSpec_DM_eRp/latest/  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

@@ -11,8 +11,9 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Arztverzeichnis-Stammdatei -Lewin-Platz 2 Datum: Kennzeichnung: Status: 1.08 01.02.2016 Öffentlich In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
+© Kassenärztliche Bundesvereinigung, Berlin 2018
 
+Arztverzeichnis-Stammdatei -Lewin-Platz 2 Datum: Kennzeichnung: Status: 1.08 01.02.2016 Öffentlich In Kraft
 
 ---
 
@@ -30,9 +31,9 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 ### INHALTSVERZEICHNIS
 
-### INHALTSVERZEICHNIS 1
+### INHALTSVERZEICHNIS
 
-### GRUNDSÄTZLICHE FESTL EGUNGEN
+1 GRUNDSÄTZLICHE FESTL EGUNGEN
 
 1.1 Zielsetzung ..................................................................................................................................... 4
 
@@ -40,25 +41,17 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 1.3 Dateiname der AV -Stammdatei .................................................................................................... 5
 
-1.4 Zeichensatztabelle ISO 8859 Latin 1 ............................................................................................ 5 2
-
-### SATZTABELLE
+1.4 Zeichensatztabelle ISO 8859 Latin 1 ............................................................................................ 5 2 SATZTABELLE
 
 2.1 Definition der Satzart: AV -Headersatz “AVS0” .......................................................................... 7
 
 2.2 Definition der Satzart: AV -Stammsatz “1450” ............................................................................ 7
 
-2.3 Definition der Satzart: AV -Endesatz “AVS9” .............................................................................. 7 3
+2.3 Definition der Satzart: AV -Endesatz “AVS9” .............................................................................. 7 3 FELDTABELLE
 
-### FELDTABELLE
+3.1 Feldtabelle: AV -Stammdatei ......................................................................................................... 8 4 REGELTABELLE
 
-3.1 Feldtabelle: AV -Stammdatei ......................................................................................................... 8 4
-
-### REGELTABELLE
-
-4.1 Regeltabelle: AV -Stammdatei .................................................................................................... 10 5
-
-### BESONDERE HINWEISE
+4.1 Regeltabelle: AV -Stammdatei .................................................................................................... 10 5 BESONDERE HINWEISE
 
 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR) .......................................................... 11
 
@@ -70,9 +63,7 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 5.4.1 Historische Betriebsstätten - und Arztnummern ................................
 
-5.5 Erläuterungen zum systeminternen Feld (FK 9901) ................................................................ 12 6
-
-### SCHLUSSBEMERKUNGEN
+5.5 Erläuterungen zum systeminternen Feld (FK 9901) ................................................................ 12 6 SCHLUSSBEMERKUNGEN
 
 * Version 3
 
@@ -93,7 +84,9 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 ---
 
-**1 Grundsätzliche Festlegungen**  **1.1 Zielsetzung**
+# 1 Grundsätzliche Festlegungen
+
+## 1.1 Zielsetzung
 
 Die vorliegende Satzbeschreibung geht aus der Datensatzbeschreibung mit Stand  15.05.2000 (Versionsbezeichnung: SDAV0499.02) hervor. Aus datenschutzrechtlichen  Gründen wurden die persönlichen und adressbezogenen Daten eliminiert.
 
@@ -101,7 +94,7 @@ Die Arztverzeichnisstammdatei dient der Qualitätssteigerung von Abrechnungsdate
 
 Die Datei wird in der KBV anhand des Bundesarztregisters erzeugt und enthält die  Betriebsstätten- und Arztnummern der zu einem Stichtag zur vertragsärztlichen Abrechnung  berechtigten Personen und Einrichtungen, einschließlich der letzten acht Quartale  abrechnungsberechtigt waren.
 
-**1.2 Aufbau der AV-Stammdatei**
+## 1.2 Aufbau der AV-Stammdatei
 
 Eine AV-Stammdatei ist in einzelne Sätze unterteilt, wobei folgende Satzarten (SA)  klassifiziert sind: -  AV-Headersatz (SA AVS0)
 
@@ -125,7 +118,11 @@ Demzufolge ergibt sich für die Längenberechnung eines Feldes:
 
 **Feldinhalt + 9**Bytes
 
-Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, **nicht**durch einen numerischen Vergleich. Hierdurch   wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
+Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, **nicht**durch einen numerischen Vergleich. Hierdurch
+
+wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern
+
+führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
 
 
 ---
@@ -177,7 +174,7 @@ Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus ein
 
 ---
 
-2 Satztabelle
+# 2 Satztabelle
 
 ### In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und die  Anordnung der Felder innerhalb eines Satzes festgelegt wir
 
@@ -189,9 +186,7 @@ d.
 
 diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird
 
-### in der Spalte Vorkommen
-
-jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
+### in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
 
 ### des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
@@ -211,9 +206,9 @@ jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
 |  | ... |  | ... |  |
 |  | 0429 | 1 | ... | Feld 0429 kann einmal je Feld 0420 vorkommen |
 
-### In der Spalte Feldart
+### In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder
 
-### wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
+### nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
 
 ### Folgende Feldarten werden unterschieden:
 
@@ -221,9 +216,7 @@ jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
 
 Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte
 
-### Vorkommen
-
-ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses
+### Vorkommen ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses
 
 ### Feld mindestens einmal in dem Satz vorkommen.
 
@@ -231,25 +224,27 @@ ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muss dieses
 
 ### Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-übergeordneten Hierarchiestufe (s. Spalte
-
-### Vorkommen
+übergeordneten Hierarchiestufe (s. Spalte Vorkommen
 
 ) gebunden. Ein bedingtes
 
 ### Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte  Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete
 
-Hierarchiestufe (s. Spalte
-
-### Vorkommen ) referenzierte Feld existiert.
+Hierarchiestufe (s. Spalte Vorkommen ) referenzierte Feld existiert.
 
 ### K = Kannfeld
 
-### Ein Kannfeld kann in einem Satz auftreten, wobei das Vork ommen an keinerlei
+### Ein Kannfeld kann in einem Satz auftreten, wobei das Vork
+
+### ommen an keinerlei
 
 Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,
 
-### muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern -  nicht programmtechnisch erfolgen kann.
+### muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen -
+
+### im Gegensatz zu bedingten Mussfeldern -
+
+### nicht programmtechnisch erfolgen kann.
 
 Vorkommen* Version
 
@@ -260,19 +255,19 @@ Vorkommen* Version
 
 ### Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-übergeordneten Hierarchiestufe (s. Spalte
-
-### Vorkommen
+übergeordneten Hierarchiestufe (s. Spalte Vorkommen
 
 ) gebunden. Ein bedingtes
 
 ### Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte Bedingung
 
-### ein Eintrag vorhanden und erfüllt i st oder das auf der übergeordneten Hierarchiestufe (s. Spalte
+### ein Eintrag vorhanden und erfüllt i st oder das auf der übergeordneten Hierarchiestufe
 
-### Vorkommen) referenzierte Feld existiert.
+(s. Spalte Vorkommen) referenzierte Feld existiert.
 
-### Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
+### Grundsätzlich ist die Berücksichtigung aller Felder
+
+### unabhängig von der Feldart zu realisieren.
 
 2.1 Definition der Satzart: AV -Headersatz “AVS0”
 
@@ -308,7 +303,9 @@ Headersatz Datei erstellt wurde Gültigkeit der AV Stamm datei Datensatzbeschrei
 
 ---
 
-**3 Feldtabelle**  In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus
+# 3 Feldtabelle
+
+In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus
 
 ### wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese
 
@@ -316,17 +313,13 @@ Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Fel
 
 ### Zu jedem Feld wird in der Spalte Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
 
-verwendet werden kann. Folgende Typen werden unterschieden: -
+verwendet werden kann. Folgende Typen werden unterschieden: -  num numerischer Zahlenwert
 
-### num numerischer Zahlenwert -
+-  alnum alphanumerische Zeichen
 
-### alnum alphanumerische Zeichen -
+-  datum numerische Datumsangaben im Format - 01 - 12, **JJJJ**= 0001 -
 
-### datum numerische Datumsangaben im Format 01 - 12,
-
-### JJJJ
-
-= 0001 -  9999
+- 9999
 
 ### In der Spalte Länge des Feldinhaltes wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
@@ -360,22 +353,20 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 | 9222 | ADT-Referenzversion | ≤ | alnum | 031 |  | ADT0199.01 |
 | 9901 | Systeminternes Feld | ≤ | alnum | 999 |  | abc<de-FG |
 
-### TTMMJJJJ
+### - TTMMJJJJ
 
 ### Beispiel
 
-### , wobei TT
-
-= 01 - 31,
-
-### MM
+### - , wobei TT = 01 - 31, MM
 
 kenn (LANR) Betriebsstättendatensätze  60 ### ein möglicher Feldinhalt
 
 
 ---
 
-**4 Regeltabelle**  In der Regeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.  Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.  Somit kann mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftreten  bestimmter Felder überprüft werden.
+# 4 Regeltabelle
+
+In der Regeltabelle sind das Format und der Wertebereich ausgewählter Felder festgelegt.  Darüber hinaus werden Vereinbarungen über mögliche Kontexte einiger Felder getroffen.  Somit kann mit Hilfe der Regeltabelle nicht nur der Feldinhalt, sondern auch das Auftreten  bestimmter Felder überprüft werden.
 
 Folgende Regelklassen lassen sich klassifizieren: 000 - 099 Formatprüfungen
 
@@ -433,7 +424,9 @@ Hinweise mm = [undefiniert] BAR-Schlüsselverzeichnisses Ersatzwerte: Rahmen von
 
 ---
 
-**5 Besondere Hinweise**  **5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR)**
+# 5 Besondere Hinweise
+
+## 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR)
 
 | 1-6 | 7 | 8-9 |  | Lebenslange Arztnummer (LANR) |
 |---|---|---|---|---|
@@ -445,7 +438,7 @@ Hinweise mm = [undefiniert] BAR-Schlüsselverzeichnisses Ersatzwerte: Rahmen von
 |  |  |  |  | Fachgruppe gemäß Anlage 35 |
 |  |  |  |  |  |
 
-**5.2 Aufbau der (Neben-)Betriebsstättennummer**
+## 5.2 Aufbau der (Neben-)Betriebsstättennummer
 
 | 1-2 | 3-7 | 8-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
@@ -457,9 +450,7 @@ Hinweise mm = [undefiniert] BAR-Schlüsselverzeichnisses Ersatzwerte: Rahmen von
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle**
-
-## (Anlage 28 BMV-Ä)
+## 5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle  (Anlage 28 BMV-Ä)
 
 | 1-2 | 3-4 | 5-9 |  | Betriebsstättennummer ((N)BSNR) |
 |---|---|---|---|---|
@@ -471,9 +462,9 @@ Hinweise mm = [undefiniert] BAR-Schlüsselverzeichnisses Ersatzwerte: Rahmen von
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**5.4 Besondere Hinweise**
+## 5.4 Besondere Hinweise
 
-**5.4.1 Historische Betriebsstätten- und Arztnummern**
+### 5.4.1 Historische Betriebsstätten- und Arztnummern
 
 ### Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
 
@@ -481,7 +472,7 @@ Prüfziffer Seriennummer beliebig Terminservicestelle  von § 75 Absatz 1a SGB V
 
 ---
 
-**5.5 Erläuterungen zum systeminternen Feld (FK 9901)**
+## 5.5 Erläuterungen zum systeminternen Feld (FK 9901)
 
 ### Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss für den
 
@@ -492,6 +483,8 @@ Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder S
 
 ---
 
-**6 Schlussbemerkungen**  Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Daten  verloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für die  Richtigkeit und Vollständigkeit der Daten.
+# 6 Schlussbemerkungen
+
+Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Daten  verloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für die  Richtigkeit und Vollständigkeit der Daten.
 
 Die vorliegende Datensatzbeschreibung der Arzt-Stammdatei richtet sich nach den  etablierten Standards der xDT-Datensatzbeschreibung. Im Hinblick auf gesetzliche und  vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwaltungsorgane  bleiben Änderungen der vorliegenden Richtlinien vorbehalten.

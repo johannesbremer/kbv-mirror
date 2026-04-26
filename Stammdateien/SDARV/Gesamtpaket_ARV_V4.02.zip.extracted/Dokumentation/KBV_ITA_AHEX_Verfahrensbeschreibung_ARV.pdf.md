@@ -33,66 +33,98 @@ Klarstellung der Bereitste lungsfristen Redaktionelle Änderungen Anpassung der 
 
 **INHALTSVERZEICHNIS**
 
-**DOKUMENTENHISTORIE 2**
+**DOKUMENTENHISTORIE**
 
-**INHALTSVERZEICHNIS 3**
+**2**
 
-**1** **ERSTELLUNG DER ARV-STAMMDATEIEN 4**
+**INHALTSVERZEICHNIS**
+
+**3**
+
+**1** **ERSTELLUNG DER ARV-STAMMDATEIEN**
+
+**4**
 
 **2** **ÜBERTRAGUNG DER ARV-STAMMDATEN DURCH DIE KV AN DIE KBV 6**
 
-**3** **HINWEISE AN DIE SOFTWAREHÄUSER FÜR DEN UMGANG MIT FEHLERN**  **IN DEN ARV-STAMMDATEIEN, DIE AL** **SIND**  **S PRODUKTIVDATEI VERÖFFENTLICHT**  **6**
+**3** **HINWEISE AN DIE SOFTWAREHÄUSER FÜR DEN UMGANG MIT FEHLERN**  **IN DEN ARV-STAMMDATEIEN, DIE AL** **SIND**
+
+**S PRODUKTIVDATEI VERÖFFENTLICHT**  **6**
 
 
 ---
 
-**1 Erstellung der ARV-Stammdateien**   Bei Erstellung der Stammdatei durch die Landesebene sind einige wichtige Punkte zusätzlich  zur Schnittstellenbeschreibung zu beachten:
+# 1 Erstellung der ARV-Stammdateien
 
-1. Jede neue ARV-Stammdatei sollte vor der Veröffentlichung ein Testverfahren durch- laufen, um die Qualität der Daten zu verbessern. Im Rahmen dieses Testverfahrens  wird die ARV-Stammdatei durch mindestens 2 Softwareanbieter auf die formale und  inhaltliche Konsistenz der Daten hin überprüft. Aus dem Dateinamen muss bereits er- kennbar sein, in welchem Zustand die Datei sich befindet. Wenn der Dateinamen auf  „st+TEST“ endet, handelt es sich um eine Datei für das Testverfahren, endet der Da- teinamen auf „st+RELEASE“, handelt es sich um eine Datei für den Produktivbetrieb,  die von der KBV veröffentlicht wird. Alle Anbieter von Arzneimittelverordnungssyste- men Verordnungssoftware können als Tester am Testverfahren teilnehmen und wer- den gebeten, sich mit Angabe der E-Mail-Adressen beim Postfach [arv@kbv.de](mailto:arv@kbv.de) anzu- melden.
+Bei Erstellung der Stammdatei durch die Landesebene sind einige wichtige Punkte zusätzlich  zur Schnittstellenbeschreibung zu beachten:
 
-2. *<telecom>*Im Header der ARV-Stammdatei sollte im Element  neben der zentralen Te- lefonnummer der KV mindestens die Telefonnummer und Email-Adresse des für die  Stammdatei verantwortlichen KV-Mitarbeiters angegeben sein, so dass die Software- häuser gegebenenfalls direkt Kontakt aufnehmen können.
+- 1. Jede neue ARV-Stammdatei sollte vor der Veröffentlichung ein Testverfahren durch- laufen, um die Qualität der Daten zu verbessern. Im Rahmen dieses Testverfahrens  wird die ARV-Stammdatei durch mindestens 2 Softwareanbieter auf die formale und  inhaltliche Konsistenz der Daten hin überprüft. Aus dem Dateinamen muss bereits er- kennbar sein, in welchem Zustand die Datei sich befindet. Wenn der Dateinamen auf  „st+TEST“ endet, handelt es sich um eine Datei für das Testverfahren, endet der Da- teinamen auf „st+RELEASE“, handelt es sich um eine Datei für den Produktivbetrieb,  die von der KBV veröffentlicht wird. Alle Anbieter von Arzneimittelverordnungssyste- men Verordnungssoftware können als Tester am Testverfahren teilnehmen und wer- den gebeten, sich mit Angabe der E-Mail-Adressen beim Postfach [arv@kbv.de](mailto:arv@kbv.de) anzu- melden.
 
-3. Im Header jeder ARV-Stammdatei muss das Erstellungsdatum und die Dauer der Gül- tigkeit für die Stammdatei angegeben werden. In der Regel ist eine ARV-Stammdatei  bis zum Ende eines Jahres gültig. Bei Bedarf erfolgt in der Regel quartalsweise eine  Neulieferung durch die KV an die KBV. Über die Gültigkeitsdauer hinaus darf die  Stammdatei nicht eingesetzt werden. Falls die in Verwendung befindliche Stammdatei  im nächsten Jahr weiter gültig sein soll, muss ihre Gültigkeitsdauer durch die KV expli- zit verlängert werden.
+- 2.
+
+- *<telecom>*
+
+- Im Header der ARV-Stammdatei sollte im Element -  neben der zentralen Te-
+
+- lefonnummer der KV mindestens die Telefonnummer und Email-Adresse des für die  Stammdatei verantwortlichen KV-Mitarbeiters angegeben sein, so dass die Software- häuser gegebenenfalls direkt Kontakt aufnehmen können.
+
+- 3. Im Header jeder ARV-Stammdatei muss das Erstellungsdatum und die Dauer der Gül- tigkeit für die Stammdatei angegeben werden. In der Regel ist eine ARV-Stammdatei  bis zum Ende eines Jahres gültig. Bei Bedarf erfolgt in der Regel quartalsweise eine  Neulieferung durch die KV an die KBV. Über die Gültigkeitsdauer hinaus darf die  Stammdatei nicht eingesetzt werden. Falls die in Verwendung befindliche Stammdatei  im nächsten Jahr weiter gültig sein soll, muss ihre Gültigkeitsdauer durch die KV expli- zit verlängert werden.
 
 Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von der  KV zurückgezogen wird, und diese KV für das laufende Jahr keine Regelungen mehr  veröffentlichen möchte, so muss diese KV eine ARV-Stammdatei zur Verfügung stel- len, welche keine Regelungen enthält.
 
-4. Wir möchten die KVen ausdrücklich darauf hinweisen, dass die Angabe von ATC- Codes und PZN (die allerdings schnell veraltet sein können), bei der Definition der
+- 4. Wir möchten die KVen ausdrücklich darauf hinweisen, dass die Angabe von ATC- Codes und PZN (die allerdings schnell veraltet sein können), bei der Definition der
 
-*<standardaggregat> <handelsnamen>* zur Definition von Regeln kann  Arzneimittel in den meisten Fällen die eindeutigste Lösung ist. Bei der Verwendung der  Elemente  und  es infolge abweichender Schreibweisen in den Arzneimitteldatenbanken der PVS- Anbieter zu Unschärfen kommen, so dass bestimmte Arzneimittel möglicherweise
+- *<standardaggregat> <handelsnamen>* zur Definition von Regeln kann
 
-*<standardaggregat>* und/oder  nicht gefunden werden. Die folgenden Anweisungen betreffen nur diejenigen KVen,  die die Elemente *<handelsnamen>* verwenden.
+- Arzneimittel in den meisten Fällen die eindeutigste Lösung ist. Bei der Verwendung der  Elemente -  und
 
-Würde zum Beispiel “Zyprexa„ als Standardaggregat angegeben, so ist in **Beispiel:** der Regel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrö- ßen sowie alle Reimporte einzubeziehen. Um dies als Suchdefinition darzustellen, soll- *<standardaggregat>* an den Namen ein Leerzeichen und als Joker te hier im Element  für eine beliebige Zeichenkette ein „*“ angegeben werden, also “Zyprexa *“. Im Einzel- fall sollte durch die KV sichergestellt sein, dass bei dieser Suchdefinition keine unge- wollten Präparate im Ergebnis vorkommen.
+- es infolge abweichender Schreibweisen in den Arzneimitteldatenbanken der PVS- Anbieter zu Unschärfen kommen, so dass bestimmte Arzneimittel möglicherweise
 
-Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sicher- gestellt sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombina- tionspräparate auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat  „Fempress®“ als auch das Kombinationspräparat „Fempress plus®“ mit erfasst. Glei- ches gilt für „Rasilez®“ und „Rasilez® plus“.
+- *<standardaggregat>* und/oder
+
+- nicht gefunden werden. Die folgenden Anweisungen betreffen nur diejenigen KVen,  die die Elemente - *<handelsnamen>* verwenden.
+
+Würde zum Beispiel “Zyprexa„ als Standardaggregat angegeben, so ist in
+
+**Beispiel:** der Regel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrö- ßen sowie alle Reimporte einzubeziehen. Um dies als Suchdefinition darzustellen, soll- *<standardaggregat>* an den Namen ein Leerzeichen und als Joker
+
+te hier im Element  für eine beliebige Zeichenkette ein „*“ angegeben werden, also “Zyprexa *“. Im Einzel- fall sollte durch die KV sichergestellt sein, dass bei dieser Suchdefinition keine unge- wollten Präparate im Ergebnis vorkommen.
+
+Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sicher- gestellt sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombina- tionspräparate auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat  „Fempress®“ als auch das Kombinationspräparat „Fempress plus®“ mit erfasst. Glei-
+
+ches gilt für „Rasilez®“ und „Rasilez® plus“.
 
 
 ---
 
-Mit der Kennzeichnung “**Name Leerzeichen Sternchen** wird ein bestimmtes Stan- dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels- name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han- delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati- opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag- gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels- name jedoch bei vollständiger Angabe des Handelsnamens nicht.
+Mit der Kennzeichnung “**Name Leerzeichen Sternchen** wird ein bestimmtes Stan-
 
-5. Bei Angabe von Standardaggregaten und Handelsnamen sind die Sonderzeichen für  Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind  durch ein Leerzeichen zu ersetzen.
+dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels- name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han- delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati- opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag- gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels- name jedoch bei vollständiger Angabe des Handelsnamens nicht.
 
-6. Hinweistexte sollten möglichst kurz gehalten werden. Bitte begrenzen Sie möglichst  auch die Anzahl und Länge der PDF-Dokumente, die beispielsweise bei dem Elemen- ten **behandlungsalternativenregelung** hinterlegt werden können. Alternativ könnten  Sie einen Internet-Link angeben, bei dem sich der Arzt das entsprechende Dokument  herunterladen kann.
+- 5. Bei Angabe von Standardaggregaten und Handelsnamen sind die Sonderzeichen für  Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind
 
-7. Bitte stellen Sie korrigierte Stammdateien wieder über den SFTP-Server der KBV zur  Verfügung. Nur so kann gewährleistet werden, dass alle Softwarehäuser über die Kor- rektur informiert werden.
+- durch ein Leerzeichen zu ersetzen.
 
-8. Besonderheiten bei der Verwendung bzw. Nutzung der indikationsgerechten wirt- schaftlichen Wirkstoffauswahl (IWW).
+- 6. Hinweistexte sollten möglichst kurz gehalten werden. Bitte begrenzen Sie möglichst  auch die Anzahl und Länge der PDF-Dokumente, die beispielsweise bei dem Elemen- ten **behandlungsalternativenregelung** hinterlegt werden können. Alternativ könnten
+
+- Sie einen Internet-Link angeben, bei dem sich der Arzt das entsprechende Dokument  herunterladen kann.
+
+- 7. Bitte stellen Sie korrigierte Stammdateien wieder über den SFTP-Server der KBV zur  Verfügung. Nur so kann gewährleistet werden, dass alle Softwarehäuser über die Kor- rektur informiert werden.
+
+- 8. Besonderheiten bei der Verwendung bzw. Nutzung der indikationsgerechten wirt- schaftlichen Wirkstoffauswahl (IWW).
 
 -  KVen, welche keine Nutzungsvereinbarung mit der KBV bzgl. der Daten zum  IWW besitzen, können die ab dem 1. Oktober 2016 quartalsweise bereitge- stellte ARV-Stammdatei durch die KBV ignorieren. An den bestehenden  Verarbeitungs- bzw. Erstellungsprozessen in den KVen ändert sich nichts.
 
 -  KVen, welche eine Nutzungsvereinbarung mit der KBV bzgl. der Daten zum  IWW besitzen, müssen in der von der KBV bereitgestellten ARV-Stammdatei  folgende Änderungen vornehmen:
 
-i. In der bereitgestellten Datei müssen die nach Nummer 1 bis 3 be- schriebenen Daten entsprechend den regionalen Informationen ange- passt werden.
+- i. In der bereitgestellten Datei müssen die nach Nummer 1 bis 3 be- schriebenen Daten entsprechend den regionalen Informationen ange- passt werden.
 
-ii. Die bereitgestellte Datei kann um weitere regionale ARV-Stammdaten  erweitert werden.
+- ii. Die bereitgestellte Datei kann um weitere regionale ARV-Stammdaten  erweitert werden.
 
 
 ---
 
-**2 Übertragung der ARV-Stammdaten durch die KV an die**
-
-## KBV
+# 2 Übertragung der ARV-Stammdaten durch die KV an die  KBV
 
 Spätestens zweieinhalb Monate vor Quartalsbeginn sollten die ARV-Stammdatei mit dem Sta- tus „TEST“, 2 Monate vor Quartalsbeginn muss die ARV-Stammdatei mit dem Status „RE- LEASE“ durch die KV per SFTP an die KBV übertragen werden. Die Bereitstellung der ARV- Stammdaten erfolgt durch die KBV im Rahmen des regulär im Quartalsupdate für die Herstel- ler von Praxissoftware und bei Bedarf in Rahmen eines Sonderupdates.
 
@@ -108,27 +140,27 @@ arv_3.00_38_tf+2010q2_nr+2_st+TEST.xml wird gepackt zu 38E10201.ARV und  der End
 
 **nicht** mit
 
-**3 Hinweise an die Softwarehäuser für den Umgang mit Feh-**
+# 3 Hinweise an die Softwarehäuser für den Umgang mit Feh- lern in den ARV-Stammdateien,  veröffentlicht sind
 
-## lern in den ARV-Stammdateien,  veröffentlicht sind  die als Produktivdatei
+# die als Produktivdatei
 
 Wenn Sie eine fehlerhafte Angabe in einer Stammdatei feststellen, informieren Sie bitte die  jeweilige KV, welche die Datei zur Verfügung stellt. Bitte informieren Sie uns ebenfalls in CC  (siehe unter Punkt 4)
 
-1. Wenn die Angabe einer PZN, ATC5, ATC4, Wirkstoff, Standardaggregat oder Han- delsnamen von der KV in einer Arzneimittelvereinbarung in der Stammdatei irrtümli- cherweise weggelassen oder vergessen wurde, so kann dieser Fehler vom Software- haus in der Regel nicht festgestellt werden, die Datei wird normal bearbeitet.
+- 1. Wenn die Angabe einer PZN, ATC5, ATC4, Wirkstoff, Standardaggregat oder Han- delsnamen von der KV in einer Arzneimittelvereinbarung in der Stammdatei irrtümli- cherweise weggelassen oder vergessen wurde, so kann dieser Fehler vom Software- haus in der Regel nicht festgestellt werden, die Datei wird normal bearbeitet.
 
-2. Wenn kein Treffer für einen gültigen Code in der Datenbank auffindbar ist, so wird die  Datei normal weiterbearbeitet.
+- 2. Wenn kein Treffer für einen gültigen Code in der Datenbank auffindbar ist, so wird die  Datei normal weiterbearbeitet.
 
-3. Wenn nur eine Wirkstoffangabe in Textform erfolgt und keine eindeutige Zuordnung  möglich ist (Bsp. Duloxetin: Urologikum und Antidepressivum, dies sind zwei verschie- dene ATC5-Codes), dann werden alle zur Wirkstoffgruppe gehörigen Präparate (in  diesem Fall sowohl Yentreve® als auch Cymbalta®) in der Datenbank selektiert.
+- 3. Wenn nur eine Wirkstoffangabe in Textform erfolgt und keine eindeutige Zuordnung  möglich ist (Bsp. Duloxetin: Urologikum und Antidepressivum, dies sind zwei verschie- dene ATC5-Codes), dann werden alle zur Wirkstoffgruppe gehörigen Präparate (in  diesem Fall sowohl Yentreve® als auch Cymbalta®) in der Datenbank selektiert.
 
-4. Bitte senden Sie eine Rückmeldung bzw. Fehlermeldung an die KV mit CC an die KBV  ([KBV_Arzneimittel@kbv.de](mailto:KBV_Arzneimittel@kbv.de); [arv@kbv.de](mailto:arv@kbv.de)). Wenn die KV eine Korrektur der Stammda- tei liefert, dann wird diese durch die KBV zeitnah im Internet zur Verfügung gestellt und  es wird durch einen ITA-Newsletter darauf hingewiesen.
+- 4. Bitte senden Sie eine Rückmeldung bzw. Fehlermeldung an die KV mit CC an die KBV  ([KBV_Arzneimittel@kbv.de](mailto:KBV_Arzneimittel@kbv.de); [arv@kbv.de](mailto:arv@kbv.de)). Wenn die KV eine Korrektur der Stammda- tei liefert, dann wird diese durch die KBV zeitnah im Internet zur Verfügung gestellt und  es wird durch einen ITA-Newsletter darauf hingewiesen.
 
-5. Wenn die von der Landesebene gelieferten PZN keinen Treffer in der Verordnungs- software ergeben, wird die Datei normal weiterbearbeitet. Bitte senden Sie eine Feh- lermeldung an die KV mit CC an die KBV (siehe 4.)
+- 5. Wenn die von der Landesebene gelieferten PZN keinen Treffer in der Verordnungs- software ergeben, wird die Datei normal weiterbearbeitet. Bitte senden Sie eine Feh- lermeldung an die KV mit CC an die KBV (siehe 4.)
 
 
 ---
 
-6.
+- 6. Wenn die von der Landesebene gelieferten Standard-Aggregate oder Handelsnamen
 
-### Wenn die von der Landesebene gelieferten Standard-Aggregate oder Handelsnamen  keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-
+### - keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-
 
-beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)
+- beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)

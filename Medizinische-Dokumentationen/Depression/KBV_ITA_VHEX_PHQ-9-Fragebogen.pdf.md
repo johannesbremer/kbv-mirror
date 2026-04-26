@@ -1,4 +1,4 @@
-**Gesundheitsfragebogen für Patienten (PHQ-9)**
+#### Gesundheitsfragebogen für Patienten (PHQ-9)
 
 **Wie oft fühlten Sie sich im Verlauf der**  **letzten 2 Wochen durch die folgenden**  **Beschwerden beeinträchtigt?**
 

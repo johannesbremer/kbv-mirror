@@ -34,15 +34,33 @@ www.kbv.de
 
 ---
 
-### Änderungshistorie
+#### Änderungshistorie
 
-**VERSION DATUM AUTOR KAPITEL ÄNDERUNGSTATUS**
+**VERSION DATUM**
 
-1.0.1 02.04.2025 kv.digital 5Korrektur Link zu in Kraft KBV_PR_116117_TERMINSERVICE_VCA_Pra ctitioner
+**AUTOR KAPITEL ÄNDERUNG**
 
-6Korrektur Referenz [Implementation Guide]
+**STATUS**
 
-1.0 06.12.2024 kv.digital alle Änderung Titelaußer Kraft
+1.0.1
+
+02.04.2025 kv.digital 5
+
+Korrektur Link zu
+
+in Kraft
+
+KBV_PR_116117_TERMINSERVICE_VCA_Pra ctitioner 6
+
+Korrektur Referenz [Implementation Guide]
+
+1.0
+
+06.12.2024 kv.digital alle
+
+Änderung Titel
+
+außer Kraft
 
 redaktionelle Änderungen
 
@@ -56,13 +74,33 @@ Ergänzung Element-Definition "mustSupport"
 
 Änderungen durch Kommentierung
 
-**BETROFFENE ÄNDERUNGEN** **RESSOURCEN /**  **ABSCHNITT**
+**BETROFFENE**
 
-Abschnitt Optionalen  Vermittlungscode Parameter "Patient"  anfordernergänzt
+**ÄNDERUNGEN**
+
+**RESSOURCEN /**  **ABSCHNITT**
+
+Abschnitt
+
+Optionalen
+
+Vermittlungscode Parameter "Patient"
+
+anfordern
+
+ergänzt
 
 KBV_OD_116117_ TERMINSERVICE_ VCA_Vermittlungs code_Request
 
-KBV_PR_116117_ Patient-Profil und  TERMINSERVICE_ ValueSet für das  VCA_Patient Geschlecht  hinzugefügt KBV_VS_116117_ TERMINSERVICE_ VCA_Gender
+KBV_PR_116117_ Patient-Profil und
+
+TERMINSERVICE_ ValueSet für das
+
+VCA_Patient
+
+Geschlecht  hinzugefügt
+
+KBV_VS_116117_ TERMINSERVICE_ VCA_Gender
 
 Simplifier-Projekt Dependency  kbv.basis korrekt  hinzugefügt
 
@@ -98,7 +136,9 @@ außer Kraft
 
 1 EINLEITUNG & HINTERGRUND
 
-Der Gesetzgeber hat im § 75 Abs. 1a SGB V festgelegt, dass für die Vermittlung von Behandlungsterminen  bei einem Facharzt eine Überweisung vorliegen muss, wenn der 116117 Terminservice zum Buchen eines  zeitnahen Termins  genutzt wird.  Eine Ausnahme davon sind Augenärzte, Frauenärzte, Hausärzte, Kinder-  und Jugendärzte sowie psychotherapeutische Sprechstunden.
+Der Gesetzgeber hat im § 75 Abs. 1a SGB V festgelegt, dass für die Vermittlung von Behandlungsterminen  bei einem Facharzt eine Überweisung vorliegen muss, wenn der 116117 Terminservice zum Buchen eines  zeitnahen Termins  genutzt wird.  Eine Ausnahme davon sind Augenärzte, Frauenärzte, Hausärzte, Kinder-
+
+und Jugendärzte sowie psychotherapeutische Sprechstunden.
 
 Daraus ergibt sich, dass das Vorliegen einer Überweisung und ggfs. der Dringlichkeit im Buchungsprozess so  nachzuweisen ist, dass beides elektronisch und telefonisch geprüft werden kann. Hierfür wurde ein  Vermittlungscode definiert, der ausschließlich vom 116117 Terminservice-Server eindeutig erzeugt wird und  jederzeit durch das System verifiziert werden kann. Das gleiche gilt für eine Vermittlung zu einer  psychotherapeutischen Akutsprechstunde, sowie einer psychotherapeutischen probatorischen Sitzung.
 
@@ -107,8 +147,11 @@ Jeder Vermittlungscode identifiziert eine Überweisung an einen Facharzt oder ei
 Im Laufe des Prozesses werden weitere Teilinformationen zur Überweisung an einen Facharzt oder zur  Vermittlung zum Psychotherapeuten hinzugefügt:
 
 - Praxis und überweisender Arzt bzw. Psychotherapeut
+
 - eine oder mehrere gesuchte ärztliche Leistungsmerkmale
+
 - eine Dringlichkeit für die Überweisung (oder implizit der Vermittlung zum Psychotherapeuten) und damit  der Terminsuche
+
 - die Daten des Patienten, für den die Überweisung/Vermittlung ausgestellt wird (sofern der Patient dem  zustimmt)
 
 Der Vermittlungscode wird für das direkte Aufbringen auf Überweisungen (Muster 6 und PTV11) verwendet.
@@ -167,7 +210,9 @@ Bei überweisungsfreien Fachgruppen wird der Vermittlungscode im ersten Schritt 
 Der Vermittlungscode besteht aus einer Folge von genau 12 Zeichen (Großbuchstaben und Zahlen, mit  Ausnahme von O 0 I 1 E 3) und ist mit den folgenden, für eine Terminvermittlung wichtigen Informationen  verknüpft:
 
 - medizinische Leistungen für die Suche und das Buchen eines Termins
+
 - Dringlichkeit des Vermittlungsfalles, wodurch der maximale Suchzeitraum festgelegt ist
+
 - überweisender Arzt/Psychotherapeut - Daten des Patienten
 
 8 11
@@ -185,11 +230,11 @@ Das bedeutet, dass diese Operation nur für überweisungsausstellende Ärzte und
 
 Mit der Übergabe der Patientendaten soll der Buchungsprozess effizienter werden, da die Daten fehlerfrei  und automatisiert für die Buchung genutzt werden können.
 
-### FHIR OperationDefinition
+#### FHIR OperationDefinition
 
 OperationDefinition: KBV_OD_116117_TERMINSERVICE_VCA_Vermittlungscode_Request
 
-### Eingabe-Parameter (Request)
+#### Eingabe-Parameter (Request)
 
 Die FHIR-Operation Vermittlungscode anfordern (Vermittlungscode Request) akzeptiert folgende Parameter: - leistungsmerkmale
 
@@ -244,13 +289,13 @@ KBV_PR_116117_TERMINSERVICE_VCA_Patient
 
 ---
 
-### Ausgabe-Parameter (Response)
+#### Ausgabe-Parameter (Response)
 
 Die FHIR-Operation Vermittlungscode anfordern (Vermittlungscode Request) gibt - sofern keine Fehler  auftreten - einen Vermittlungscode und eine URL zurück, die auf die Überweisung (Muster 6) oder das PTV 11  neben der Telefonnummer 116117 aufgebracht werden sollen.
 
 Im Fehlerfall wird stattdessen ein Operation Outcome mit Details zum aufgetretenen Fehler zurückgegeben.
 
-### Beispiele
+#### Beispiele
 
 FHIR Operation - Request
 
@@ -268,7 +313,7 @@ KBV_PR_116117_TERMINSERVICE_VCA_OperationOutcome_Error (Minimalbeispiel)
 
 KBV_PR_116117_TERMINSERVICE_VCA_OperationOutcome_Error (Maximalbeispiel)
 
-### HL7 FHIR
+#### HL7 FHIR
 
 Die Schnittstelle wird als HL7 FHIR v4.0.1 R4 ([https://hl7.org/fhir/R4/index.html)](https://hl7.org/fhir/R4/index.html)) Schnittstelle umgesetzt.  Jeder beschriebene Workflowschritt entspricht einer FHIR Operation.
 
@@ -276,7 +321,7 @@ Element-Definition "mustSupport"
 
 Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden. Software-Systeme, die  die Daten erstellen, müssen die mit „mustSupport“ gekennzeichneten Elemente unterstützen, befüllen und  übermitteln können. Software-Systeme, die die Daten verarbeiten, müssen die mit "mustSupport"  gekennzeichneten Elemente unterstützten, auslesen und verarbeiten können.
 
-### Datenformat
+#### Datenformat
 
 Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type application/xml oder  application/xml+fhir). Eine Übermittlung in JSON wird nicht unterstützt.
 
@@ -288,5 +333,7 @@ Die Übermittlung der Daten erfolgt ausschließlich im XML Format (Content-Type 
 6 REFERENZEN
 
 - [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen
+
 - FHIR-Profile zu Vermittlungscode: [https://simplifier.net/Vermittlungscode-abrufen-PVS](https://simplifier.net/Vermittlungscode-abrufen-PVS)
+
 - [Implementation Guide]: [https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-](https://simplifier.net/guide/implementierungsleitfaden-vermittlungscode-) anfordern-fuer-pvs?version=current [https://simplifier.net/guide/implementierungsleitfaden-](https://simplifier.net/guide/implementierungsleitfaden-) vermittlungscode-anfordern-fuer-pvs 11 11

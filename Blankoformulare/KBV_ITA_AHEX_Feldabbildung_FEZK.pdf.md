@@ -13,14 +13,17 @@
 
 BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 
-
 ---
 
 ## INHALT
 
-**FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 41**
+**FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 4**
 
-**2** **REFERENZIERTE DOKUMENTE 14**
+**1**
+
+**2** **REFERENZIERTE DOKUMENTE**
+
+**14**
 
 
 ---
@@ -40,15 +43,43 @@ KBV BFB Feldes ‚HPV-HR- Testergebnis des zytologischen Befundes‘ Musters 39 
 
 ---
 
-1
+# 1 FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN
 
-## FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN
+Die untenstehende Tabelle bildet die Felder des KBV--Musters 39 zur Krebsfrüherkennung Zervix Karzinom auf die Feldkennungen der LDT3 Satzbeschreibung
 
-Die untenstehende Tabelle bildet die Felder des KBV--Musters 39 zur Krebsfrüherkennung Zervix Karzinom auf die Feldkennungen der LDT3 Satzbeschreibung  und die Bogenfelder des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation zur Programmbeurteilung (PB) der Früherkennung des  Zerixkarzinoms gemäß oKFE-RL für das Erfassungsjahr 2021 2022 [3] ab.
+und die Bogenfelder des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation zur Programmbeurteilung (PB) der Früherkennung des  Zerixkarzinoms gemäß oKFE-RL für das Erfassungsjahr 2021 2022 [3] ab.
 
-Die dargestellten Tabellenspalten haben folgende Bedeutung:
+Die dargestellten Tabellenspalten haben folgende Bedeutung: - **KBV BFB Feld Nummer**
 
-**KBV BFB Feld Nummer**  Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **KBV BFB Feld Name**  Die Spalte Name stellt die Bezeichnung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.  **KBV DM Feld Nummer**  Die Spalte Nummer stellt die Nummerierung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im  PDF/A-Format [2] der KBV dar.  **KBV DM Feld Name**  Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A Format [2] der KBV dar.  **QMS LDT Feld Kennung**  Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] (Labor Daten Transfer) dar.  **QMS LDT Feld Bezeichnung**  Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] dar.  **IQTIG Feld Nummer**  Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar.  **IQTIG Feld Name**  Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
+Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.
+
+- **KBV BFB Feld Name**
+
+Die Spalte Name stellt die Bezeichnung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.
+
+- **KBV DM Feld Nummer**
+
+Die Spalte Nummer stellt die Nummerierung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im  PDF/A-Format [2] der KBV dar.
+
+- **KBV DM Feld Name**
+
+Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A Format [2] der KBV dar.
+
+- **QMS LDT Feld Kennung**
+
+Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] (Labor Daten Transfer) dar.
+
+- **QMS LDT Feld Bezeichnung**
+
+Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] dar.
+
+- **IQTIG Feld Nummer**
+
+Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar.
+
+- **IQTIG Feld Name**
+
+Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
 
 
 ---
@@ -886,9 +917,9 @@ Chemotherapie des Genitales - Wann? / sonstige Hormon-Anwendung gyn_op_strahlen_
 |  | Labor Auftragsnummer | M39_48 | 8311_labor_auftragsnummer | 8311 | Auftragsnummer des Labors | 34 | Untersuchungsnummer | Wenn der Befund des Zytologen mittels |
 | Zytologischer Befund /Kombinationsbefund |  | | | | | | | |
 | Eingangsdatum der zytologischen | M39_50 | 0000_eingangsdatum_der_zytologis |  |  |  |  |  |  |
-| Endozervikale Zellen | M39_51 | 7405_endozervikale_zellen_vorhan | 7405 | Endozervikale Zellen |  |  |  | M39_52 7405_endozervikale_zellen_nicht_v  Proliferationsgrad M39_53 |
+| Endozervikale Zellen | M39_51 | 7405_endozervikale_zellen_vorhan | 7405 | Endozervikale Zellen |  |  |  | M39_52 7405_endozervikale_zellen_nicht_v   Proliferationsgrad M39_53 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
-|  | Labor Auftragsnummer | M39_48 | 8311_labor_auftragsnummer | 8311 | Auftragsnummer des Labors | 34 | Untersuchungsnummer | Wenn der Befund des Zytologen mittels Zytologischer Befund /Kombinationsbefund  Eingangsdatum der zytologischen M39_50 |
+|  | Labor Auftragsnummer | M39_48 | 8311_labor_auftragsnummer | 8311 | Auftragsnummer des Labors | 34 | Untersuchungsnummer | Wenn der Befund des Zytologen mittels Zytologischer Befund /Kombinationsbefund   Eingangsdatum der zytologischen M39_50 |
 | 0000_eingangsdatum_der_zytologis |  |  |  |  |  |  | Endozervikale Zellen | M39_51 |
 | 7405_endozervikale_zellen_vorhan | 7405 | | | | | | | |
 | Endozervikale Zellen |  | | | | | | | |
@@ -1146,7 +1177,7 @@ zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efunde
 |  | zytologische Kontrolle nach | M39_68 | 7416_zytologische_kontrolle_nach_ | 7416 | Grund der Nachkontrolle |  |  |  |
 |  | HPV-Test | | | | | | | |
 | M39_69 | 3318_hpv_test | 3318 | HPV-Test | 40 | Welche Kontrolle/Abklärung | Ist die HPV-Test gesetzt, dann ist im |  |  |
-|  | Ko-Test | M39_70 | 3319_ko_test | 3319 | Ko-Test | 40 | Welche Kontrolle/Abklärung | Ist die Ko-Test gesetzt, dann ist im  Abklärungskolposkopie |
+|  | Ko-Test | M39_70 | 3319_ko_test | 3319 | Ko-Test | 40 | Welche Kontrolle/Abklärung | Ist die Ko-Test gesetzt, dann ist im   Abklärungskolposkopie |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 |  | zytologische Kontrolle nach | M39_68 | 7416_zytologische_kontrolle_nach_ | 7416 | Grund der Nachkontrolle |  |  | HPV-Test M39_69 3318_hpv_test |
 | 3318 | HPV-Test | 40 | Welche Kontrolle/Abklärung | Ist die HPV-Test gesetzt, dann ist im |  |  |  | Ko-Test |
@@ -1223,9 +1254,7 @@ zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efunde
 
 ---
 
-2
-
-REFERENZIERTE DOKUMENTE
+2 REFERENZIERTE DOKUMENTE
 
 | REFERENZIERTE DOKUME |  |
 |---|---|

@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_KBV_VALUTAEINHEIT
+#### S_KBV_VALUTAEINHEIT
 
 **OID:**
 
@@ -26,4 +26,4 @@
 
 unbekannt Punkte
 
-Schlüsseltabelle: S_KBV_VALUTAEINHEIT1
+Schlüsseltabelle: S_KBV_VALUTAEINHEIT 1

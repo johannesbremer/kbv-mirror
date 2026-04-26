@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_VDX_SCHEINUNTERGRUPPE
+#### S_VDX_SCHEINUNTERGRUPPE
 
 **OID:**
 

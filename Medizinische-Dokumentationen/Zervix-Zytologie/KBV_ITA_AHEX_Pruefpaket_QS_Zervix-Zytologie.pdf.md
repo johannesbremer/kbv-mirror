@@ -13,14 +13,45 @@
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 
-
 ---
 
 ## INHALT
 
-**1** **ALLGEMEINES 5**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 5  1.2 Zertifizierungsablauf 5  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 6  1.5 Prüfunterlagen 6  1.6 Prüfvorgaben 7  1.6.1 Prüfstammdaten 7  1.6.2 Praxisdaten/ Arztstempel 8
+**5**
+
+1.1 Rechtsgrundlage
+
+5
+
+1.2 Zertifizierungsablauf
+
+5
+
+1.3 Zertifizierungsportal
+
+6
+
+1.4 Zertifizierungsdokumente
+
+6
+
+1.5 Prüfunterlagen
+
+6
+
+1.6 Prüfvorgaben
+
+7
+
+1.6.1 Prüfstammdaten
+
+7
+
+1.6.2 Praxisdaten/ Arztstempel
+
+8
 
 | **2** |  | **PRÜFFÄLLE** | **9** |
 |---|---|---|---|
@@ -28,17 +59,25 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 | 2.2 | Prüffall | 2 | 11 |
 | 2.3 | Prüffall | 3 | 13 |
 
-**3** **TESTDATENVALIDIERUNG** **14**
+**3** **TESTDATENVALIDIERUNG**
 
-**4** **REFERENZIERTE DOKUMENTE 15**
+**14**
+
+**4** **REFERENZIERTE DOKUMENTE**
+
+**15**
 
 Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS 7
 
-7 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  14 Abbildung 2: Testdatenvalidierung  Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 14
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 14
+
+Abbildung 2: Testdatenvalidierung
+
+Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 14
 
 
 ---
@@ -55,9 +94,7 @@ Layouts auf Zertifizierung des Prüfpaketes Corporate Design Zertifizierungsport
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der e-Dokumentation Qualitätssicherung „Zervix-Zytologie“.
 
@@ -65,15 +102,31 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zur Erbringung von molekulargenetischen Untersuchungen bei monogenen Erkrankungen“.
 
-**F 1.2** **ZERTIFIZIERUNGSABLAU**
+## F
+
+## 1.2 ZERTIFIZIERUNGSABLAU
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  ssteller 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- ssteller
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
@@ -82,7 +135,9 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
-L 1.3 ZERTIFIZIERUNGSPORTA
+## L
+
+## 1.3 ZERTIFIZIERUNGSPORTA
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -90,7 +145,9 @@ Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als au
 
 Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System -ID nur ein Account vergeben wird.
 
-den Antrag auf Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
+den Antrag auf
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
 
 „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -104,22 +161,42 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-ENTE1.4 ZERTIFIZIERUNGSDOKUM
+## ENTE
+
+## 1.4 ZERTIFIZIERUNGSDOKUM
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
 
-1.5 PRÜFUNTERLAGEN
+## 1.5 PRÜFUNTERLAGEN
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:  Zervix Zytologie Unterlagen bestehend aus XML Dateien  eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im Es wird eine Begleitdatei und  entsprechenden Verzeichnis enthält, erwartet. Entsprechende Vorgaben für die Bildung der Dateinamen  und weitere Angaben entnehmen Sie bitte KBV_ITA_VGEX_XML-Schnittstellen.  ne, Prüfschema validierbar Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebe sein. Die Daten können nur über das Zertifizierungsportal (siehe Kapitel 1.3 hochgeladen und geprüft  werden.
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+
+- Zervix Zytologie Unterlagen bestehend aus XML Dateien
+
+eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im
+
+Es wird eine Begleitdatei und  entsprechenden Verzeichnis enthält, erwartet. Entsprechende Vorgaben für die Bildung der Dateinamen  und weitere Angaben entnehmen Sie bitte KBV_ITA_VGEX_XML-Schnittstellen.
+
+ne, Prüfschema validierbar
+
+Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebe sein. Die Daten können nur über das Zertifizierungsportal (siehe Kapitel 1.3 hochgeladen und geprüft  werden.
 
 
 ---
 
-**Videodateien und/oder Screenshots ausgewählter Anforderungen:**  Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
+- **Videodateien und/oder Screenshots ausgewählter Anforderungen:**
 
-12.3*PrüffallNr*. _[lfdNr.] .*
+Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden
 
-Alle Prüfunterlagen [XML-Datei und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
+durch den Prüfer begutachtet.
+
+1
+
+2.3
+
+*PrüffallNr*. _[lfdNr.] .*
+
+- Alle Prüfunterlagen [XML-Datei und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 
 Zert_52_*SystemID*.zip
 
@@ -127,26 +204,26 @@ Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-**1.6** **PRÜFVORGABEN**
+## 1.6 PRÜFVORGABEN
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
 
-**1.6.1** **Prüfstammdaten**
+### 1.6.1 Prüfstammdaten
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-verwendet
+verwendet 1 Nummer des Prüffalls
 
-1 Nummer des Prüffalls  2 Laufende Nr.
+2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
 
 ---
 
-**1.6.2** **Praxisdaten/ Arztstempel**
+### 1.6.2 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -164,7 +241,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Dokumentationsdatum (Kopfdatum): | 27.02.2016 |
 | Zu verwendende Prüfnummer: | Y/52/9712/36/000 |
 
-**Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen .
+**Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses
+
+Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen .
 
 
 ---
@@ -204,7 +283,6 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 P1-40  des Anforderungskataloges QS Zervix- Systemverhalten aufzeigt. PRÜFFÄLLE PRÜFFALL 1 Zytologische Befunde (Cervix Uteri) und histologische Abklärungsdiagnostik Zeitraum 01.01.2015 – 31.12.2015 des RUNG ZERVIX -ZYTOLOGIE Präparate:
 
-
 ---
 
 |  | | | | | | | | | | | | | | | | | | | |
@@ -233,7 +311,6 @@ P1-40  des Anforderungskataloges QS Zervix- Systemverhalten aufzeigt. PRÜFFÄLL
 | uteri und die Anzahl Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer Frau aus diesem Zeitra Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
 RUNG ZERVIX -ZYTOLOGIE Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix der dabei untersuchten Frauen um vor, entscheidet der zytologische Arzt, welcher Befund aus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist (immer die höchste Gruppe). durch zytologische Kontrollen weiter untersucht wurden (z.B. bei Gruppe III und IIID) und bei denen keine histologische Abklärungsdiagnostik bis zum 30.06 des Folgejahres erfolgte, sind unter Zeile 4ff nicht aufzuführen). erforderlich
-
 
 ---
 
@@ -272,7 +349,6 @@ RUNG ZERVIX -ZYTOLOGIE Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des B
 
 Anforderungen P1 -1 0  und P1 -20  des Anforderungskataloges -Datei einzureichen. Es sind keine Screenshots notwendig. PRÜFFALL -VEREINBA RUNG ZERVIX -ZYTOLOGI Präparate: Frau aus dem Zeitraum 01.01 31.12 des Berichtjahres) n bis 30.06 des Folgejahres histologisch geklärt:
 
-
 ---
 
 | 16 CIN II | | | | | | | | | | | | | | | | | | | |
@@ -301,7 +377,6 @@ Anforderungen P1 -1 0  und P1 -20  des Anforderungskataloges -Datei einzureichen
 | Zeile 1 und 2: die Anzahl der vom 01.01. bis 31.12. des Berichtsjahres zytologisch untersuchten Abstrichpräparate der Cervix uteri und die Anzahl Zeile 3: für jede im Zeitraum vom 01.01. bis 31.12. untersuchte Frau ist ein Befund anzugeben. Liegen mehrere Befunde einer F rau aus diesem Zeitraum vor, Zeile 4 ff: Die Ergebnisse der histologischen Abklärung zu den Ausgangsbefunden aus Zeile 3, die bis zum 30.06 des Folgejahres erhoben wurden (Frauen, die Zeile 5: Wenn Praxisbesonderheiten vorliegen, die die Befundgruppenverteilung beeinflussen können, sind diese hier zu nennen, ansonsten ist kein Eintrag | | | | | | | | | | | | | | | | | | | |
 
 RUNG ZERVIX -ZYTOLOGIE der dabei untersuchten Frauen entscheidet der zytol ogische Arzt, welcher Befund aus diesem Zeitraum als maßgeblich anzusehen und einzutragen ist (immer die höchste Gruppe). durch zytologische Kontrollen weiter untersucht wurden (z.B. bei Gruppe III und IIID) und bei denen keine histologische Abklärungsdiagnostik bis zum 30.06 des Folgejahres erfolgte, sind unter Zeile 4ff nicht aufzuführen). erforderlich
-
 
 ---
 
@@ -332,13 +407,15 @@ des Anforderungskataloges QS Zervix-Zytologie. die das geforderte Systemverhalte
 
 ---
 
-3
-
-## TESTDATENVALIDIERUNG
+# 3 TESTDATENVALIDIERUNG
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine
+
+manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
+
+Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -351,9 +428,7 @@ ZIP-Archives.
 
 ---
 
-4
-
-## REFERENZIERTE DOKUMENTE
+# 4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

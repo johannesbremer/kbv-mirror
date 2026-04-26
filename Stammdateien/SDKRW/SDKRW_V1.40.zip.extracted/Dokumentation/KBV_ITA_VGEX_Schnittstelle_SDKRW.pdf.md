@@ -7,7 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2021  VERSION: 1.40  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK- STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK-
+
+# STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDKRW]
 
@@ -17,26 +19,196 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **EINLEITUNG 8**
+**1** **EINLEITUNG**
 
-**2** **KONVENTIONEN 8**
+**8**
 
-2.1 Zeichensatz 8  2.2 Namespace 8  2.3 Root-Schema 8  2.4 Dateinamen 8  2.5 Semantik der verwendeten Diagrammsymbole 9  2.5.1 Kardinalität 9  2.5.2 Strukturelemente 9  2.5.3 Sonstige Symbole 10
+**2** **KONVENTIONEN**
 
-**3** **EHD – ELEMENT (ROOT-ELEMENT) 11**
+**8**
 
-**4** **HEADER (KRW) 12**
+2.1 Zeichensatz
 
-**5** **BODY (INHALTSDATEN) 13**
+8
 
-5.1 kodierregel_liste 13  5.2 kodierregel 13  5.3 id 15  5.4 service_tmr 15  5.5 beschreibung 16  5.6 regelkategorie 16  5.7 regelquelle_liste 17  5.8 regelquelle 17  5.9 regelthema_liste 18  5.10 regelthema 19  5.11 regelanwendung 19  5.12 bezugsraum 20  5.13 anzahl_quartale 21  5.14 echtzeitpruefung_liste 21  5.15 echtzeitpruefung 22  5.16 pruefgrundlage_liste 22  5.17 pruefgrundlage 23  5.18 bedingung 24  5.19 parameter 24  5.20 operator 25  5.21 existenz 26  5.22 value_list 27  5.23 value 27  5.24 subbedingung 28  5.25 pruefung 28  5.26 pruefung_existenz 29  5.27 subpruefung 30  5.28 fehlerbehandlung 30  5.29 hinweis 31  5.30 vorschlag 32 -Stammdatei) / Version: 1.40
+2.2 Namespace
+
+8
+
+2.3 Root-Schema
+
+8
+
+2.4 Dateinamen
+
+8
+
+2.5 Semantik der verwendeten Diagrammsymbole 9
+
+2.5.1 Kardinalität
+
+9
+
+2.5.2 Strukturelemente
+
+9
+
+2.5.3 Sonstige Symbole
+
+10
+
+**3** **EHD – ELEMENT (ROOT-ELEMENT)**
+
+**11**
+
+**4** **HEADER (KRW)**
+
+**12**
+
+**5** **BODY (INHALTSDATEN)**
+
+**13**
+
+5.1 kodierregel_liste
+
+13
+
+5.2 kodierregel
+
+13
+
+5.3 id
+
+15
+
+5.4 service_tmr
+
+15
+
+5.5 beschreibung
+
+16
+
+5.6 regelkategorie
+
+16
+
+5.7 regelquelle_liste
+
+17
+
+5.8 regelquelle
+
+17
+
+5.9 regelthema_liste
+
+18
+
+5.10 regelthema
+
+19
+
+5.11 regelanwendung
+
+19
+
+5.12 bezugsraum
+
+20
+
+5.13 anzahl_quartale
+
+21
+
+5.14 echtzeitpruefung_liste
+
+21
+
+5.15 echtzeitpruefung
+
+22
+
+5.16 pruefgrundlage_liste
+
+22
+
+5.17 pruefgrundlage
+
+23
+
+5.18 bedingung
+
+24
+
+5.19 parameter
+
+24
+
+5.20 operator
+
+25
+
+5.21 existenz
+
+26
+
+5.22 value_list
+
+27
+
+5.23 value
+
+27
+
+5.24 subbedingung
+
+28
+
+5.25 pruefung
+
+28
+
+5.26 pruefung_existenz
+
+29
+
+5.27 subpruefung
+
+30
+
+5.28 fehlerbehandlung
+
+30
+
+5.29 hinweis
+
+31
+
+5.30 vorschlag
+
+32
+
+-Stammdatei) / Version: 1.40
 
 
 ---
 
-korrektur 5.31 32  regel 5.32 33  5.33 kurz_beschreibung 34
+korrektur 5.31
 
-**6** **REFERENZIERTE DOKUMENTE 35**
+32
+
+regel 5.32
+
+33
+
+5.33 kurz_beschreibung
+
+34
+
+**6** **REFERENZIERTE DOKUMENTE**
+
+**35**
 
 -Stammdatei) / Version: 1.40 /
 
@@ -45,26 +217,186 @@ korrektur 5.31 32  regel 5.32 33  5.33 kurz_beschreibung 34
 
 ## ABBILDUNGSVERZEICHNIS
 
-**ABBILDUNG 1:** /EHD (ROOT-ELEMENT) ............................................................................................................................ 11  **ABBILDUNG 2:** AUS EHD-HEADER ABGELEITETES KRW-HEADER ..................................................................................... 12  **ABBILDUNG 3:** KODIERREGEL_LISTE ................................................................................................................................. 13  **ABBILDUNG 4:** KODIERREGEL ........................................................................................................................................... 14  **ABBILDUNG 5:** ID .............................................................................................................................................................. 15  **ABBILDUNG 6:** SERVICE_TMR ........................................................................................................................................... 16  **ABBILDUNG 7:** BESCHREIBUNG ........................................................................................................................................ 16  **ABBILDUNG 8:** REGELKATEGORIE ..................................................................................................................................... 17  **ABBILDUNG 9:** REGELQUELLE_LISTE ................................................................................................................................ 17  **ABBILDUNG 10:** REGELQUELLE ......................................................................................................................................... 18  **ABBILDUNG 11:** REGELTHEMA_LISTE ............................................................................................................................... 18  **ABBILDUNG 12:** REGELTHEMA ......................................................................................................................................... 19  **ABBILDUNG 13:** REGELANWENDUNG .............................................................................................................................. 19  **ABBILDUNG 14:** BEZUGSRAUM ........................................................................................................................................ 20  **ABBILDUNG 15:** ANZAHL_QUARTALE ............................................................................................................................... 21  **ABBILDUNG 16:** ECHTZEITPRUEFUNG_LISTE .................................................................................................................... 21  **ABBILDUNG 17:** ECHTZEITPRUEFUNG .............................................................................................................................. 22  **ABBILDUNG 18:** PRUEFGRUNDLAGE_LISTE ...................................................................................................................... 22  **ABBILDUNG 19:** PRUEFGRUNDLAGE ................................................................................................................................ 23  **ABBILDUNG 20:** BEDINGUNG ........................................................................................................................................... 24  **ABBILDUNG 21:** PARAMETER ........................................................................................................................................... 25  **ABBILDUNG 22:** OPERATOR ............................................................................................................................................. 25  **ABBILDUNG 23:** EXISTENZ ................................................................................................................................................ 26  **ABBILDUNG 24:** VALUE_LIST ............................................................................................................................................ 27  **ABBILDUNG 25:** VALUE ..................................................................................................................................................... 27  **ABBILDUNG 26:** SUBBEDINGUNG..................................................................................................................................... 28  **ABBILDUNG 27:** PRUEFUNG ............................................................................................................................................. 29  **ABBILDUNG 28:** PRUEFUNG_EXISTENZ ............................................................................................................................ 29  **ABBILDUNG 29:** SUBPRUEFUNG ....................................................................................................................................... 30  **ABBILDUNG 30:** FEHLERBEHANDLUNG ............................................................................................................................ 31  **ABBILDUNG 31:** HINWEIS ................................................................................................................................................. 31  **ABBILDUNG 32:** VORSCHLAG ........................................................................................................................................... 32  **ABBILDUNG 33:** KORREKTUR ............................................................................................................................................ 32  **ABBILDUNG 34:** REGEL ..................................................................................................................................................... 33  **ABBILDUNG 35:** KURZ_BESCHREIBUNG ........................................................................................................................... 34
+**ABBILDUNG 1:** /EHD (ROOT-ELEMENT) ............................................................................................................................ 11
+
+**ABBILDUNG 2:** AUS EHD-HEADER ABGELEITETES KRW-HEADER ..................................................................................... 12
+
+**ABBILDUNG 3:** KODIERREGEL_LISTE ................................................................................................................................. 13
+
+**ABBILDUNG 4:** KODIERREGEL ........................................................................................................................................... 14
+
+**ABBILDUNG 5:** ID .............................................................................................................................................................. 15
+
+**ABBILDUNG 6:** SERVICE_TMR ........................................................................................................................................... 16
+
+**ABBILDUNG 7:** BESCHREIBUNG ........................................................................................................................................ 16
+
+**ABBILDUNG 8:** REGELKATEGORIE ..................................................................................................................................... 17
+
+**ABBILDUNG 9:** REGELQUELLE_LISTE ................................................................................................................................ 17
+
+**ABBILDUNG 10:** REGELQUELLE ......................................................................................................................................... 18
+
+**ABBILDUNG 11:** REGELTHEMA_LISTE ............................................................................................................................... 18
+
+**ABBILDUNG 12:** REGELTHEMA ......................................................................................................................................... 19
+
+**ABBILDUNG 13:** REGELANWENDUNG .............................................................................................................................. 19
+
+**ABBILDUNG 14:** BEZUGSRAUM ........................................................................................................................................ 20
+
+**ABBILDUNG 15:** ANZAHL_QUARTALE ............................................................................................................................... 21
+
+**ABBILDUNG 16:** ECHTZEITPRUEFUNG_LISTE .................................................................................................................... 21
+
+**ABBILDUNG 17:** ECHTZEITPRUEFUNG .............................................................................................................................. 22
+
+**ABBILDUNG 18:** PRUEFGRUNDLAGE_LISTE ...................................................................................................................... 22
+
+**ABBILDUNG 19:** PRUEFGRUNDLAGE ................................................................................................................................ 23
+
+**ABBILDUNG 20:** BEDINGUNG ........................................................................................................................................... 24
+
+**ABBILDUNG 21:** PARAMETER ........................................................................................................................................... 25
+
+**ABBILDUNG 22:** OPERATOR ............................................................................................................................................. 25
+
+**ABBILDUNG 23:** EXISTENZ ................................................................................................................................................ 26
+
+**ABBILDUNG 24:** VALUE_LIST ............................................................................................................................................ 27
+
+**ABBILDUNG 25:** VALUE ..................................................................................................................................................... 27
+
+**ABBILDUNG 26:** SUBBEDINGUNG..................................................................................................................................... 28
+
+**ABBILDUNG 27:** PRUEFUNG ............................................................................................................................................. 29
+
+**ABBILDUNG 28:** PRUEFUNG_EXISTENZ ............................................................................................................................ 29
+
+**ABBILDUNG 29:** SUBPRUEFUNG ....................................................................................................................................... 30
+
+**ABBILDUNG 30:** FEHLERBEHANDLUNG ............................................................................................................................ 31
+
+**ABBILDUNG 31:** HINWEIS ................................................................................................................................................. 31
+
+**ABBILDUNG 32:** VORSCHLAG ........................................................................................................................................... 32
+
+**ABBILDUNG 33:** KORREKTUR ............................................................................................................................................ 32
+
+**ABBILDUNG 34:** REGEL ..................................................................................................................................................... 33
+
+**ABBILDUNG 35:** KURZ_BESCHREIBUNG ........................................................................................................................... 34
 
 
 ---
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS ....................................................................... 9  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ...................................................................................... 9  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10  **TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE ............................................................................. 17  **TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE ................................................................................... 18  **TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................ 20  **TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME ............................................................................................. 21  **TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG ........................................................................ 22  **TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE .......................................................................... 23  **TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2] ........................................................................................ 25  **TABELLE 11:** ZULÄSSIGE WERTE FÜR DEN OPERATOR...................................................................................................... 26  **TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ...................................................................................... 26  **TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30  **TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS ....................................................................... 9
+
+**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ...................................................................................... 9
+
+**TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
+
+**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE ............................................................................. 17
+
+**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE ................................................................................... 18
+
+**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................ 20
+
+**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME ............................................................................................. 21
+
+**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG ........................................................................ 22
+
+**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE .......................................................................... 23
+
+**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2] ........................................................................................ 25
+
+**TABELLE 11:** ZULÄSSIGE WERTE FÜR DEN OPERATOR...................................................................................................... 26
+
+**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ...................................................................................... 26
+
+**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30
+
+**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
 
 
 ---
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1**: /EHD ........................................................................................................................................................... 11  **XML-CODE 2:** KODIERREGEL_LISTE ................................................................................................................................... 13  **XML-CODE 3**: KODIERREGEL ............................................................................................................................................. 15  **XML-CODE 4:** ID ................................................................................................................................................................ 15  **XML-CODE 5:** SERVICE_TMR ............................................................................................................................................. 16  **XML-CODE 6:** BESCHREIBUNG .......................................................................................................................................... 16  **XML-CODE 7:** REGELKATEGORIE ....................................................................................................................................... 17  **XML-CODE 8:** REGELQUELLE_LISTE .................................................................................................................................. 17  **XML-CODE 9:** REGELQUELLE ............................................................................................................................................. 18  **XML-CODE 10:** REGELTHEMA_LISTE ................................................................................................................................. 18  **XML-CODE 11:** REGELTHEMA ........................................................................................................................................... 19  **XML-CODE 12:** REGELANWENDUNG ................................................................................................................................ 19  **XML-CODE 13:** BEZUGSRAUM .......................................................................................................................................... 20  **XML-CODE 14:** ANZAHL_QUARTALE ................................................................................................................................. 21  **XML-CODE 15:** ECHTZEITPRUEFUNG_LISTE ...................................................................................................................... 21  **XML-CODE 16:** ECHTZEITPRUEFUNG ................................................................................................................................ 22  **XML-CODE 17:** PRUEFGRUNDLAGE_LISTE ........................................................................................................................ 23  **XML-CODE 18:** PRUEFGRUNDLAGE .................................................................................................................................. 23  **XML-CODE 19:** BEDINGUNG ............................................................................................................................................. 24  **XML-CODE 20:** PARAMETER ............................................................................................................................................. 25  **XML-CODE 21:** OPERATOR ................................................................................................................................................ 25  **XML-CODE 22:** EXISTENZ .................................................................................................................................................. 26  **XML-CODE 23:** VALUE_LIST .............................................................................................................................................. 27  **XML-CODE 24:** ICD-CODE MIT DIAGNOSENSICHERHEIT ALS ZUSATZBEDINGUNG ........................................................... 27  **XML-CODE 25:** SUBBEDINGUNG ....................................................................................................................................... 28  **XML-CODE 26:** PRUEFUNG ............................................................................................................................................... 29  **XML-CODE 27:** PRUEFUNG_EXISTENZ .............................................................................................................................. 29  **XML-CODE 28:** SUBPRUEFUNG ......................................................................................................................................... 30  **XML-CODE 29:** FEHLERBEHANDLUNG .............................................................................................................................. 31  **XML-CODE 30:** HINWEIS ................................................................................................................................................... 31  **XML-CODE 31:** VORSCHLAG ............................................................................................................................................. 32  **XML-CODE 32:** KORREKTUR .............................................................................................................................................. 33  **XML-CODE 33:** REGEL ....................................................................................................................................................... 33  **XML-CODE 34:** KURZ_BESCHREIBUNG ............................................................................................................................. 34
+**XML-CODE 1**: /EHD ........................................................................................................................................................... 11
+
+**XML-CODE 2:** KODIERREGEL_LISTE ................................................................................................................................... 13
+
+**XML-CODE 3**: KODIERREGEL ............................................................................................................................................. 15
+
+**XML-CODE 4:** ID ................................................................................................................................................................ 15
+
+**XML-CODE 5:** SERVICE_TMR ............................................................................................................................................. 16
+
+**XML-CODE 6:** BESCHREIBUNG .......................................................................................................................................... 16
+
+**XML-CODE 7:** REGELKATEGORIE ....................................................................................................................................... 17
+
+**XML-CODE 8:** REGELQUELLE_LISTE .................................................................................................................................. 17
+
+**XML-CODE 9:** REGELQUELLE ............................................................................................................................................. 18
+
+**XML-CODE 10:** REGELTHEMA_LISTE ................................................................................................................................. 18
+
+**XML-CODE 11:** REGELTHEMA ........................................................................................................................................... 19
+
+**XML-CODE 12:** REGELANWENDUNG ................................................................................................................................ 19
+
+**XML-CODE 13:** BEZUGSRAUM .......................................................................................................................................... 20
+
+**XML-CODE 14:** ANZAHL_QUARTALE ................................................................................................................................. 21
+
+**XML-CODE 15:** ECHTZEITPRUEFUNG_LISTE ...................................................................................................................... 21
+
+**XML-CODE 16:** ECHTZEITPRUEFUNG ................................................................................................................................ 22
+
+**XML-CODE 17:** PRUEFGRUNDLAGE_LISTE ........................................................................................................................ 23
+
+**XML-CODE 18:** PRUEFGRUNDLAGE .................................................................................................................................. 23
+
+**XML-CODE 19:** BEDINGUNG ............................................................................................................................................. 24
+
+**XML-CODE 20:** PARAMETER ............................................................................................................................................. 25
+
+**XML-CODE 21:** OPERATOR ................................................................................................................................................ 25
+
+**XML-CODE 22:** EXISTENZ .................................................................................................................................................. 26
+
+**XML-CODE 23:** VALUE_LIST .............................................................................................................................................. 27
+
+**XML-CODE 24:** ICD-CODE MIT DIAGNOSENSICHERHEIT ALS ZUSATZBEDINGUNG ........................................................... 27
+
+**XML-CODE 25:** SUBBEDINGUNG ....................................................................................................................................... 28
+
+**XML-CODE 26:** PRUEFUNG ............................................................................................................................................... 29
+
+**XML-CODE 27:** PRUEFUNG_EXISTENZ .............................................................................................................................. 29
+
+**XML-CODE 28:** SUBPRUEFUNG ......................................................................................................................................... 30
+
+**XML-CODE 29:** FEHLERBEHANDLUNG .............................................................................................................................. 31
+
+**XML-CODE 30:** HINWEIS ................................................................................................................................................... 31
+
+**XML-CODE 31:** VORSCHLAG ............................................................................................................................................. 32
+
+**XML-CODE 32:** KORREKTUR .............................................................................................................................................. 33
+
+**XML-CODE 33:** REGEL ....................................................................................................................................................... 33
+
+**XML-CODE 34:** KURZ_BESCHREIBUNG ............................................................................................................................. 34
 
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -77,31 +409,27 @@ Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <
 
 ---
 
-1
-
-## EINLEITUNG
+# 1 EINLEITUNG
 
 Die vorliegende Schnittstellenbeschreibung definiert das Format der Kodierregelwerks-Stammdatei der KBV  im XML-Format. Das XML-Format orientiert sich dabei an die ehd-Richtlinie [KBV_ITA_VGEX_EHD].
 
 Diese Datei wird den Softwareherstellern, welche Software für den ambulanten vertragsärztlichen Bereich  herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat DigIT der KBV zur ausschließlichen  Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.
 
-2
+# 2 KONVENTIONEN
 
-## KONVENTIONEN
-
-**2.1** **ZEICHENSATZ**
+## 2.1 ZEICHENSATZ
 
 Standard-Zeichensatz ist ISO-8859-15.
 
-**2.2** **NAMESPACE**
+## 2.2 NAMESPACE
 
 Standard-Namespace ist urn:ehd/krw/001.
 
-**2.3** **ROOT-SCHEMA**
+## 2.3 ROOT-SCHEMA
 
 Das Root-Schema, welches die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata  inkludiert, heißt krw_root.xsd.
 
-**2.4** **DATEINAMEN**
+## 2.4 DATEINAMEN
 
 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
 
@@ -115,7 +443,9 @@ datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Ent
 
 vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements  *<provider>*
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements
+
+*<provider>*
 
 tf+..………… timeframe (YYYYqQ)
 
@@ -130,11 +460,11 @@ krw_1.40_74_tf+2022q1_nr+1_du+KRWBeispieldatei.xml
 
 ---
 
-**2.5** **SEMANTIK DER VERWENDETEN DIAGRAMMSYMBOLE**
+## 2.5 SEMANTIK DER VERWENDETEN DIAGRAMMSYMBOLE
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden.
 
-**2.5.1** **Kardinalität**
+### 2.5.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -146,7 +476,7 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1:**
 
-**2.5.2**
+### 2.5.2
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet:
 
@@ -159,7 +489,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 Beschreibung der Kardinalitäten eines XML-Elements
 
-**Strukturelemente**
+### Strukturelemente
 
 ***<xs:choice>*** und ***<xs:sequence>***
 
@@ -169,7 +499,7 @@ Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müs
 
 ---
 
-**2.5.3** **Sonstige Symbole**
+### 2.5.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -186,11 +516,11 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches meh
 
 ---
 
-3
+# 3 EHD – ELEMENT (ROOT-ELEMENT)
 
-## EHD – ELEMENT (ROOT-ELEMENT)
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1: **/ehd (root-Element)** dargestellt ist. Ihm stehen die spezifischen
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1: **/ehd (root-Element)** dargestellt ist. Ihm stehen die spezifischen  Informationen der Schnittstelle zur Verfügung. Im body- Element werden die eigentlichen Daten hinterlegt.
+Informationen der Schnittstelle zur Verfügung. Im body- Element werden die eigentlichen Daten hinterlegt.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
@@ -198,23 +528,39 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen E
 
 Das ***<ehd>*** - Element hat folgenden Aufbau:
 
-**<?xml version="1.0" encoding="ISO-8859-15"?>**  **<ehd:ehd xmlns="urn:ehd/001"**
+**<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-**instance ehd_version**  **<ehd:header>**
+**<ehd:ehd xmlns="urn:ehd/001"**
 
-**...**  **</ehd:header>**
+**instance ehd_version**
 
-**<ehd:body>**  **...**
+**<ehd:header>**
 
-xmlns="**urn:ehd/krw/001** **="...">**
+**...**
+
+**</ehd:header>**
+
+**<ehd:body>**
+
+**...**
+
+xmlns="**urn:ehd/krw/001**
+
+**="...">**
 
 " xmlns:xsi="**[http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)**
 
-**</ehd:body>**  **<ehd:keytabs>**  **...**
+**</ehd:body>**
+
+**<ehd:keytabs>**
+
+**...**
 
 **</ehd:keytabs>**
 
-**</ehd:ehd>**  **XML-Code 1**: /ehd
+**</ehd:ehd>**
+
+**XML-Code 1**: /ehd
 
 ehd_version:
 
@@ -243,9 +589,7 @@ Integration von Schlüsseltabellen
 
 ---
 
-4
-
-## HEADER (KRW)
+# 4 HEADER (KRW)
 
 Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_EHD] verwiesen.
 
@@ -253,7 +597,9 @@ Im Rahmen der KRW-dSchnittstelle werden folgende eh -Elemente im Header verwende
 
 **Abbildung 2:** Aus ehd-header abgeleitetes krw-header
 
-***<id>*** Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id -Element eine eindeutige  Instanz-ID.
+***<id>***
+
+Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id -Element eine eindeutige  Instanz-ID.
 
 ***<version_nbr>*** Beinhaltet die jeweilige Lieferungsnummer; relevant bei Korrekturlieferung o.ä.
 
@@ -274,15 +620,17 @@ Gibt das Erstellungsdatum der Stammdatei an.
 
 ---
 
-5
+# 5 BODY (INHALTSDATEN)
 
-## BODY (INHALTSDATEN)
+Das **< body>** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von
 
-Das **< body>** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von  Kindelementen. Die Hierarchieebenen der Kodierregeln gliedern sich in Bedingungen und Prüfungen.
+Kindelementen. Die Hierarchieebenen der Kodierregeln gliedern sich in Bedingungen und Prüfungen.
 
 Der Namensraum ist „urn:ehd/krw/001“.
 
-***5.1*** ***KODIERREGEL_LISTE***
+## 5.1 KODIERREGEL_LISTE
+
+##
 
 Das Element <kodierregel_liste > ist ein Klammerelement für eine Liste von <kodierregel> Elementen.
 
@@ -290,11 +638,23 @@ Das Element <kodierregel_liste > ist ein Klammerelement für eine Liste von <kod
 
 Der XML-Code für das Element <kodierregel_liste> hat folgenden Aufbau:
 
-< kodierregel_liste < kodierregel  </kodierregel < kodierregel  </kodierregel  </kodierregel_liste
+< kodierregel_liste
+
+< kodierregel
+
+</kodierregel
+
+< kodierregel
+
+</kodierregel
+
+</kodierregel_liste
 
 ***XML - Code 2*** kodierregel_liste
 
-***5.2*** ***KODIERREGEL***
+## 5.2 KODIERREGEL
+
+##
 
 Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei enthält es Informationen  zur Identifikation der Regel, zur fachlichen Beschreibung, Einordnung des fachlichen Ursprungs sowie den  zu prüfenden Sachverhalt und die möglichen Korrekturschritte.
 
@@ -308,11 +668,59 @@ Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei
 
 Der XML-Code für das Element <kodierregel> hat folgenden Aufbau:
 
-**<kodierregel>**  **<id EX="** **01-01-001"/>**  **<service_tmr V="2010-01-01..9999-12-31"/>**  **<beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **, da die ICD-10 einen ndem Kustand nach"ennzeichen "Zspezifische Kode für den Folgezustand (alter**  **Myokardinfarkt) vorsieht."/>**   **<regelkategorie V="1" DN="Behandlungsfall-bezogen, ICD-getriggert"/>**  **<regelquelle_liste>**     **</regelquelle_liste>**  **<regelanwendung V="1" DN=""Obligate Regel** **S=""1.2.276.0.76.3.1.1.5.2.52 />**  **Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18** **<bezugsraum V="7" DN=""**  **<echtzeitpruefung_liste>**     **</echtzeitpruefung_liste>**  **<pruefgrundlage_liste>**     **</pruefgrundlage_liste>**  **<bedingung>**     **</bedingung>**  **<pruefung>**     **</pruefung>**  **<fehlerbehandlung>**     **</fehlerbehandlung>**  **<kurz_beschreibung>**     **</kurz_beschreibung>**  **</kodierregel>**
+**<kodierregel>**
+
+**<id EX="** **01-01-001"/>**
+
+**<service_tmr V="2010-01-01..9999-12-31"/>**
+
+**<beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **, da die ICD-10 einen n**
+
+**dem Kustand nach"ennzeichen "Z**
+
+**spezifische Kode für den Folgezustand (alter**
+
+**Myokardinfarkt) vorsieht."/>**
+
+**<regelkategorie V="1" DN="Behandlungsfall-bezogen, ICD-getriggert"/>**
+
+**<regelquelle_liste>**
+
+**</regelquelle_liste>**
+
+**<regelanwendung V="1" DN=""Obligate Regel** **S=""1.2.276.0.76.3.1.1.5.2.52 />**
+
+**Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18**
+
+**<bezugsraum V="7" DN=""**
+
+**<echtzeitpruefung_liste>**
+
+**</echtzeitpruefung_liste>**
+
+**<pruefgrundlage_liste>**
+
+**</pruefgrundlage_liste>**
+
+**<bedingung>**
+
+**</bedingung>**
+
+**<pruefung>**
+
+**</pruefung>**  **<fehlerbehandlung>**
+
+**</fehlerbehandlung>**
+
+**<kurz_beschreibung>**
+
+**</kurz_beschreibung>**
+
+**</kodierregel>**
 
 **XML-Code 3**: kodierregel
 
-**5.3** **ID**
+## 5.3 ID
 
 Das Element <id> identifiziert eindeutig die jeweilige Kodierregel.
 
@@ -326,7 +734,7 @@ Der XML-Code für ein <id> Element hat folgenden Aufbau:
 
 V: Enthält einen Identifikator, um die Kodierregel innerhalb der Stammdatei eindeutig zu  kennzeichnen.
 
-**5.4** **SERVICE_TMR**
+## 5.4 SERVICE_TMR
 
 Das Element <service_tmr> gibt die Gültigkeit einer Kodierregel im Format „JJJJ-MM-TT..JJJJ-MM-TT“ an.
 
@@ -341,11 +749,25 @@ Der XML-Code für ein <service_tmr> Element hat folgenden Aufbau:
 
 **XML-Code 5:** service_tmr
 
-V: H-MMier wird der Gültigkeitszeitraum z.B. im Format „YYYY DD..YYYY MM-DD“ angegeben.   Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende des Gültigkeitszeitraums.  Die beiden Angaben werden durch zwei Punkte voneinander getrennt.  Es sind folgende Zeitraumangaben möglich:   YYYY-MM--DD..YYYY MM-DD   gilt von YYYY-MM--DD bis YYYY MM-DD  ..YYYY-MM-DD      gilt bis YYYY-MM-DD  YYYY-MM-DD..      gilt ab YYYY-MM-DD bis auf weiteres  YYYY-MM-DD       gilt am YYYY-MM-DD
+V: H-MMier wird der Gültigkeitszeitraum z.B. im Format „YYYY DD..YYYY MM-DD“ angegeben.
+
+Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende des Gültigkeitszeitraums.
+
+Die beiden Angaben werden durch zwei Punkte voneinander getrennt.
+
+Es sind folgende Zeitraumangaben möglich:
+
+YYYY-MM--DD..YYYY MM-DD   gilt von YYYY-MM--DD bis YYYY MM-DD
+
+..YYYY-MM-DD      gilt bis YYYY-MM-DD
+
+YYYY-MM-DD..      gilt ab YYYY-MM-DD bis auf weiteres
+
+YYYY-MM-DD       gilt am YYYY-MM-DD
 
 Y.. Jahreswert, M.. Monatswert, D.. Tageswert
 
-**5.5** **BESCHREIBUNG**
+## 5.5 BESCHREIBUNG
 
 Das Element <beschreibung> beinhaltet die fachliche Beschreibung der Kodierregel.
 
@@ -359,7 +781,7 @@ Der XML-Code für das Element <beschreibung> hat folgenden Aufbau:
 
 V: Beinhaltet die fachliche Beschreibung der Kodierregel.
 
-**5.6** **REGELKATEGORIE**
+## 5.6 REGELKATEGORIE
 
 Das Element <regelkategorie> beschreibt fachlich, um welche Art von Regel es sich handelt bzw. zu  welchem Zeitpunkt sie eingesetzt werden soll.
 
@@ -381,17 +803,25 @@ Der XML-Code für das Element <regelkategorie> hat folgenden Aufbau:
 
 **Tabelle 4:** Zulässige Werte für das Element regelkategorie
 
-**5.7** **REGELQUELLE_LISTE**
+## 5.7 REGELQUELLE_LISTE
 
 Das Element <regelquelle_liste > gruppiert eine beliebige Liste von den Elementen <regelquelle>.
 
-**Abbildung 9:** regelquelle_liste   Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
+**Abbildung 9:** regelquelle_liste
 
-**<regelquelle_liste>**  **<regelquelle V="1" DN=""Kodiervorgaben nach § 295 SGB V S=""**   **</regelquelle>**   **</regelquelle_liste>**
+Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
+
+**<regelquelle_liste>**
+
+**<regelquelle V="1" DN=""Kodiervorgaben nach § 295 SGB V S=""**
+
+**</regelquelle>**
+
+**</regelquelle_liste>**
 
 **XML-Code 8:** regelquelle_liste
 
-**5.8** **REGELQUELLE**
+## 5.8 REGELQUELLE
 
 Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
 
@@ -405,7 +835,13 @@ Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die
 
 Der XML-<Code für das Element regelquelle> hat folgenden Aufbau:
 
-**<regelquelle V="2" DN="ICD-10-GM">**  **<regelthema_liste>**   **</regelthema_liste>**  **</regelquelle>**
+**<regelquelle V="2" DN="ICD-10-GM">**
+
+**<regelthema_liste>**
+
+**</regelthema_liste>**
+
+**</regelquelle>**
 
 **XML-Code 9:** regelquelle
 
@@ -416,13 +852,27 @@ Der XML-<Code für das Element regelquelle> hat folgenden Aufbau:
 
 **Tabelle 5:** Zulässige Werte für das Element regelquelle
 
-**5.9** **REGELTHEMA_LISTE**
+## 5.9 REGELTHEMA_LISTE
 
 Das Element < regelthema_liste > gruppiert eine beliebige Liste von den Elementen <regelthema>.
 
-**Abbildung 11:** regelthema_liste  Der XML-Code für das Strukturelement <regelthema_liste> hat folgenden Aufbau:
+**Abbildung 11:** regelthema_liste
 
-**<regelquelle_liste>**  **<regelquelle V="..." DN="...">**  **<regelthema_liste>**  **<regelthema V="28" DN=""/> IX: Krankheiten des Kreislaufsystems** **</regelthema_liste>**  **</regelquelle>**   **</regelquelle_liste>**
+Der XML-Code für das Strukturelement <regelthema_liste> hat folgenden Aufbau:
+
+**<regelquelle_liste>**
+
+**<regelquelle V="..." DN="...">**
+
+**<regelthema_liste>**
+
+**<regelthema V="28" DN=""/> IX: Krankheiten des Kreislaufsystems**
+
+**</regelthema_liste>**
+
+**</regelquelle>**
+
+**</regelquelle_liste>**
 
 **XML-Code 10:** regelthema_liste
 
@@ -470,7 +920,7 @@ Wert (V"...") Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QU
 
 ---
 
-**5.15** **ECHTZEITPRUEFUNG**
+## 5.15 ECHTZEITPRUEFUNG
 
 Das Element <echtzeitpruefung> beschreibt, zu welchem Zeitpunkt die Kodierregel verarbeitet werden  muss/soll.
 
@@ -490,9 +940,11 @@ Der XML-Code für das Element <echtzeitpruefung> hat folgenden Aufbau:
 
 **Tabelle 8:** Zulässige Werte für das Element echtzeitpruefung
 
-**Hinweis:** Der Wert dieses Elementes repräsentiert den Defaultwert der Kodierregeln für die Konfiguration  der Regeln.
+**Hinweis:** Der Wert dieses Elementes repräsentiert den Defaultwert der Kodierregeln für die Konfiguration
 
-**5.16** **PRUEFGRUNDLAGE_LISTE**
+der Regeln.
+
+## 5.16 PRUEFGRUNDLAGE_LISTE
 
 Das Element <pruefgrundlage_liste> gruppiert eine beliebige Liste von den Elementen <pruefgrundlage>.
 
@@ -502,13 +954,15 @@ Das Element <pruefgrundlage_liste> gruppiert eine beliebige Liste von den Elemen
 
 ---
 
-**<pruefgrundlage_liste>**  **<pruefgrundlage V="1" DN="einzelfall" S=""/> 1.2.276.0.76.3.1.1.5.2.53**
+**<pruefgrundlage_liste>**
+
+**<pruefgrundlage V="1" DN="einzelfall" S=""/> 1.2.276.0.76.3.1.1.5.2.53**
 
 **</>pruefgrundlage_liste**
 
 **XML-Code 17:** pruefgrundlage_liste
 
-**5.17** **PRUEFGRUNDLAGE**
+## 5.17 PRUEFGRUNDLAGE
 
 Das Element <pruefgrundlage> gibt an, für welche Menge an Patienten die Regel angewendet werden  kann.
 
@@ -532,7 +986,7 @@ Der XML-Code für das Element <pruefgrundlage> hat folgenden Aufbau:
 
 ---
 
-**5.18** **BEDINGUNG**
+## 5.18 BEDINGUNG
 
 Das Element <bedingung> bildet die Bedingung der Kodierregel ab und bietet mit seinen Kindelementen  <parameter>, <operator>, <existenz>, <value_liste> und <subbedingung> eine generische Struktur für die  Prüflogik.
 
@@ -542,15 +996,29 @@ Der XML-Code für ein Element <bedingung> hat folgenden Aufbau:
 
 **<bedingung>**
 
-**<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**  **<operator V="OR"/>**  **<existenz V="TRUE"/>**  **<value_liste>**  ** ...**  **</value_liste>**  **<subbedingung >**
+**<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**
 
-** ...**  **</subbedingung >**
+**<operator V="OR"/>**
+
+**<existenz V="TRUE"/>**
+
+**<value_liste>**
+
+** ...**
+
+**</value_liste>**
+
+**<subbedingung >**
+
+** ...**
+
+**</subbedingung >**
 
 **</bedingung>**
 
 **XML-Code 19:** bedingung
 
-**5.19** **PARAMETER**
+## 5.19 PARAMETER
 
 Das Element <parameter> beschreibt den Elementtyp der Value’s.
 
@@ -559,13 +1027,17 @@ Innerhalb einer Bedingung kann genau nur ein Parametertyp definiert werden. Werd
 
 ---
 
-parameter **Abbildung 21:**
+parameter
+
+**Abbildung 21:**
 
 Der XML-Code für das Element <parameter> hat folgenden Aufbau:
 
 **<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**
 
-parameter **XML-Code 20:**
+parameter
+
+**XML-Code 20:**
 
 | Wert (V="...") | Bezeichner (optional DN="...") | OID (S="" Fachliche Bezug: Feldkennung(en) |
 |---|---|---|
@@ -575,7 +1047,9 @@ parameter **XML-Code 20:**
 
 **Tabelle 10:** Schlüsseltabelle für den Paramtertyp [2]
 
-**OPERATOR 5.20**
+## OPERATOR
+
+## 5.20
 
 Das optionale Element <operator> beschreibt den logischen Operator zur Verknüpfung der Elemente  unterhalb des Elements <value_liste>.
 
@@ -585,7 +1059,9 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 **<operator V="AND"/>**
 
-operator **XML-Code 21:**
+operator
+
+**XML-Code 21:**
 
 1.2.276.0.76.3.1.1.5.2.16 ) KVDT
 
@@ -598,11 +1074,13 @@ operator **XML-Code 21:**
 
 **Tabelle 11:** Zulässige Werte für den Operator
 
-**5.21** **EXISTENZ**
+## 5.21 EXISTENZ
 
 Das Element <existenz> beschreibt, ob ein Wert vorhanden oder nicht vorhanden ist. Es steht innerhalb der  Bedingung als Existenzkriterium für die Parameter, die innerhalb der Value -Liste angegeben sind.
 
-**Abbildung 23:** existenz  Der XML-Code für das Element <existenz> hat folgenden Aufbau:
+**Abbildung 23:** existenz
+
+Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 **<bedingung>**
 
@@ -619,7 +1097,9 @@ Das Element <existenz> beschreibt, ob ein Wert vorhanden oder nicht vorhanden is
 
 **Tabelle 12:** Zulässige Werte für das Existenzkriterium
 
-**Hinweis:**  Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss.  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.
+**Hinweis:**
+
+Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss.  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.
 
 In Kombination mit mehreren
 
@@ -627,7 +1107,7 @@ Wert ( V="" der Elemente in der Value-Liste voraus der Elemente in der Value-Lis
 
 ---
 
-**5.22** **VALUE_LIST**
+## 5.22 VALUE_LIST
 
 Das Element <value_liste> gruppiert eine beliebige Liste von den Elementen <value>.
 
@@ -635,11 +1115,19 @@ Das Element <value_liste> gruppiert eine beliebige Liste von den Elementen <valu
 
 Der XML-Code für ein Element <value_liste> könnte folgendermaßen aussehen:
 
-**<value_liste>**  **<value V="** **A04.70"/>**  **<value V="** **A04.71"/>**  **...**  **</value_liste>**
+**<value_liste>**
+
+**<value V="** **A04.70"/>**
+
+**<value V="** **A04.71"/>**
+
+**...**
+
+**</value_liste>**
 
 **XML-Code 23:** value_list
 
-**5.23** **VALUE**
+## 5.23 VALUE
 
 Das Element <value> beinhaltet codierte Werte, deren Typ durch das Element <parameter> vorgegeben ist.
 
@@ -647,7 +1135,37 @@ Das Element <value> beinhaltet codierte Werte, deren Typ durch das Element <para
 
 Der XML-Code für ein Element <value> könnte folgendermaßen aussehen:
 
-**<bedingung>**  **<parameter V="ICD"/>**  **<operator V="OR"/>**  **<existenz V="TRUE"/>**  **<value_liste>**   **<value V="I20.0">**   **<value V="I20.8">**  **</value_liste>**  **<subbedingung>**   **<parameter V="DS"/>**   **<existenz V="TRUE"/>**   **<value_liste>**    **<value V="G"/>**   **</value_liste>**  **</subbedingung>**  **</bedingung>**
+**<bedingung>**
+
+**<parameter V="ICD"/>**
+
+**<operator V="OR"/>**
+
+**<existenz V="TRUE"/>**
+
+**<value_liste>**
+
+**<value V="I20.0">**
+
+**<value V="I20.8">**
+
+**</value_liste>**
+
+**<subbedingung>**
+
+**<parameter V="DS"/>**
+
+**<existenz V="TRUE"/>**
+
+**<value_liste>**
+
+**<value V="G"/>**
+
+**</value_liste>**
+
+**</subbedingung>**
+
+**</bedingung>**
 
 **XML-Code 24:** ICD-Code mit Diagnosensicherheit als Zusatzbedingung
 
@@ -656,7 +1174,7 @@ Der XML-Code für ein Element <value> könnte folgendermaßen aussehen:
 
 V: enthält den Wert.
 
-**5.24** **SUBBEDINGUNG**
+## 5.24 SUBBEDINGUNG
 
 Das Element <subbedingung> hält wie die <bedingung> die weiteren Kindelemente <parameter>,  <operator>, <existenz> und <value_liste> zur Abbildung der Prüflogik bereit. Eine Subbedingungen werden  wird immer UND verknüpft mit der Hauptbedingung. Die Struktur bleibt analog zu <bedingung>:
 
@@ -664,17 +1182,27 @@ Das Element <subbedingung> hält wie die <bedingung> die weiteren Kindelemente <
 
 Der XML-Code für ein Element <subbedingung> hat folgenden Aufbau:
 
-**<subbedingung>**  **<parameter V="DS"/>**
+**<subbedingung>**
 
-**<operator V="AND"/>**  **<existenz V="TRUE"/>**
+**<parameter V="DS"/>**
 
-**<value_liste>**   **<value V="Z"/>**  **<value V="G"/>**
+**<operator V="AND"/>**
 
-**</value_liste>**  **</subbedingung>**
+**<existenz V="TRUE"/>**
+
+**<value_liste>**
+
+**<value V="Z"/>**
+
+**<value V="G"/>**
+
+**</value_liste>**
+
+**</subbedingung>**
 
 **XML-Code 25:** subbedingung
 
-**5.25** **PRUEFUNG**
+## 5.25 PRUEFUNG
 
 Das Element <pruefung> hält mit seinen Kindelementen <parameter>, <operator>, <existenz>,  <value_liste> und dem optionalen Element <subpruefung > eine generische Struktur zur Abbildung der  Kodierregel zugrundeliegenden Prüfung(en) bereit und erzeugt somit eine entsprechende Prüflogik.
 
@@ -687,15 +1215,51 @@ Abbildung 27: pruefung
 
 Der XML-Code für ein Element <pruefung> hat folgenden Aufbau:
 
-**< pruefung>**  **< parameter V="ICD" S =""/>1.2.276.0.76.3.1.1.5.2.16**  **< operator V="AND "/>**  **< existenz V="TRUE "/>**  **< value_liste>**  **...**  **</value_liste>**  **< subpruefung>**  **...**  **</subpruefung** **</pruefung>**
+**< pruefung>**
 
-XML -Code 26: pruefung 5.26 PRUEFUNG_EXISTENZ
+**< parameter V="ICD" S =""/>1.2.276.0.76.3.1.1.5.2.16**
 
-Das Element <pruefung_existenz> definiert, *ob ein Wert für den Prüfungsblock vorhanden oder nicht*  *vorhanden .sein muss*
+**< operator V="AND "/>**
 
-Abbildung 28: pruefung_existenz   Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
+**< existenz V="TRUE "/>**
 
-**< pruefung>**  **...**  **V="TRUE " / >**  **< pruefung_existenz**  **...**  **</pruefung**
+**< value_liste>**
+
+**...**
+
+**</value_liste>**
+
+**< subpruefung>**
+
+**...**
+
+**</subpruefung**
+
+**</pruefung>**
+
+XML -Code 26: pruefung
+
+## 5.26 PRUEFUNG_EXISTENZ
+
+Das Element <pruefung_existenz> definiert, *ob ein Wert für den Prüfungsblock vorhanden oder nicht*
+
+*vorhanden .sein muss*
+
+Abbildung 28: pruefung_existenz
+
+Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
+
+**< pruefung>**
+
+**...**
+
+**V="TRUE " / >**
+
+**< pruefung_existenz**
+
+**...**
+
+**</pruefung**
 
 XML -Code 27: pruefung_existenz
 
@@ -709,19 +1273,37 @@ XML -Code 27: pruefung_existenz
 
 **Tabelle 13:** Zulässige Werte für das Prüfexistenzkriterium
 
-**5.27** **SUBPRUEFUNG**
+## 5.27 SUBPRUEFUNG
 
 Das Element <subpruefung> verhält sich analog zur <subbedingung> und enthält die Kindelemente:  <parameter>, <operator>, <existenz> und <value_liste>. Eine Subpruefungen wird werden immer UND  verknüpft mit der Hauptprüfung . Die Struktur sieht wie folgt aus:
 
-subpruefung **Abbildung 29:**
+subpruefung
+
+**Abbildung 29:**
 
 Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
-**<subpruefung>**  **<parameter V="DS"/>**  **<operator V="AND"/>**  **<existenz V="TRUE"/>**  **<value_liste>**   **<value V="G"/>**  **</value_liste>**  **</subpruefung>**
+**<subpruefung>**
 
-subpruefung **XML-Code 28:**
+**<parameter V="DS"/>**
 
-**5.28** **FEHLERBEHANDLUNG**
+**<operator V="AND"/>**
+
+**<existenz V="TRUE"/>**
+
+**<value_liste>**
+
+**<value V="G"/>**
+
+**</value_liste>**
+
+**</subpruefung>**
+
+subpruefung
+
+**XML-Code 28:**
+
+## 5.28 FEHLERBEHANDLUNG
 
 Das Element <fehlerbehandlung> ist ein Strukturelement, welches die notwendigen Informationen,  Hinweise und Vorschläge zur Fehlerbehandlung beinhaltet.
 
@@ -731,9 +1313,9 @@ Wert ( V="" Elemente Elemente
 
 ---
 
-a) die Aussagen aller (Sub-)Bedingungen innerhalb der <bedingung> treffen zu (=WAHR),
+- a) die Aussagen aller (Sub-)Bedingungen innerhalb der <bedingung> treffen zu (=WAHR),
 
-b) die Aussagen aller (Sub-)Prüfungen innerhalb der <pruefung> (sofern vorhanden) treffen zu  (=WAHR).
+- b) die Aussagen aller (Sub-)Prüfungen innerhalb der <pruefung> (sofern vorhanden) treffen zu  (=WAHR).
 
 Neben den Hinweisen werden im Rahmen der Fehlerbehandlung zusätzlich Vorschläge zur Korrektur der  fehlerhaften Eingaben angeboten. In diesem Fall kommt das Element <korrektur> zum Einsatz, welches  einzelne Korrekturmaßnahmen umschließt.
 
@@ -741,11 +1323,23 @@ Neben den Hinweisen werden im Rahmen der Fehlerbehandlung zusätzlich Vorschläg
 
 Der XML-Code für die Struktur <fehlerbehandlung> hat folgenden Aufbau:
 
-**<fehlerbehandlung>**  **<hinweis V="..."/>**  **<vorschlag V="..."/>**  **<korrektur>**    **...**  **</korrektur>**  **</>fehlerbehandlung**
+**<fehlerbehandlung>**
+
+**<hinweis V="..."/>**
+
+**<vorschlag V="..."/>**
+
+**<korrektur>**
+
+**...**
+
+**</korrektur>**
+
+**</>fehlerbehandlung**
 
 **XML-Code 29:** fehlerbehandlung
 
-**5.29** **HINWEIS**
+## 5.29 HINWEIS
 
 Das Element <hinweis> beschreibt die technische Korrekturmaßnahme nochmals in Worten und kann somit  nochmals unterstützend wirken.
 
@@ -753,7 +1347,9 @@ Das Element <hinweis> beschreibt die technische Korrekturmaßnahme nochmals in W
 
 Der XML-Code für das Element <hinweis> sieht wie folgt aus:
 
-**<hinweis V="Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD einen**  **spezifischen Kode vor."/>**
+**<hinweis V="Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD einen**
+
+**spezifischen Kode vor."/>**
 
 **XML-Code 30:** hinweis
 
@@ -764,7 +1360,7 @@ V:
 
 Beinhaltet einen Hinweis in Textform und kann als Hilfe für eine Korrekturmaßnahme der  Kodierung dienen.
 
-**5.30** **VORSCHLAG**
+## 5.30 VORSCHLAG
 
 Das Element <vorschlag> enthält die übergeordnete textuelle Beschreibung der Korrekturmaßnahme und  soll dem Anwender im Rahmen der Korrektur angezeigt werden.
 
@@ -780,7 +1376,7 @@ V:
 
 Beinhaltet eine textuelle Beschreibung und kann als Hilfestellung für eine Korrekturmaßnahme der  Kodierung dienen.
 
-**5.31** **KORREKTUR**
+## 5.31 KORREKTUR
 
 Durch das Element <korrektur> wird eine Struktur bereitgestellt, welche die möglichen  Korrekturmaßnahmen abbildet. Wenn eine inkorrekte Kodierung gemäß der Kodierregel vorliegt, soll die  Software dem Anwender einen Hinweis sowie einen Vorschlag mit zu korrigierenden ICD-10 -GM-Kodes  liefern und abhängig von der Korrekturmaßnahme die Durchführung der Korrektur unterstützen.
 
@@ -811,27 +1407,33 @@ values (siehe Kapitel
 | ... | Bedeutung |
 | REPLACE | Die unter value-Liste aufgeführten Werte können zum |
 
-Erlaubte Inhalte bei Element <regel> **Tabelle 14:**
+Erlaubte Inhalte bei Element <regel>
 
-**5.33** **KURZ_BESCHREIBUNG**
+**Tabelle 14:**
+
+## 5.33 KURZ_BESCHREIBUNG
 
 Das Element <kurz_beschreibung> beinhaltet die fachliche Beschreibung der Kodierregel in Kurzform
 
-kurz_beschreibung **Abbildung 35:**
+kurz_beschreibung
+
+**Abbildung 35:**
 
 Der XML-Code für das Element <kurz_beschreibung>:
 
-**Sachgerechte Kodierung eines Zustands nach akutem Myokardinfarkt** **kurz_beschreibung V=""/>**
+**Sachgerechte Kodierung eines Zustands nach akutem Myokardinfarkt**
 
-kurz_beschreibung **XML-Code 34:**
+**kurz_beschreibung V=""/>**
+
+kurz_beschreibung
+
+**XML-Code 34:**
 
 Wert ( V="" Ersetzen einer identifizierten Diagnose verwendet werden.
 
 ---
 
-6
-
-REFERENZIERTE DOKUMENTE
+6 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

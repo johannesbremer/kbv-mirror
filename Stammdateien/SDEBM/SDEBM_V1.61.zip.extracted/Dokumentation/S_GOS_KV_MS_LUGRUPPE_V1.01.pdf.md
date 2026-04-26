@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_GOS_KV_MS_LUGRUPPE
+#### S_GOS_KV_MS_LUGRUPPE
 
 **OID:**
 

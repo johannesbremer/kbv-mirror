@@ -1,23 +1,33 @@
 - Anlage 8* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## der strukturierten Behandlungsprogramme
 
 # Diabetes mellitus Typ 1 und Typ 2
 
-**Grundlage: DMP-A-RL**  **gültig ab 01.10.2022**
+**Grundlage:**
 
-**Stand der Bearbeitung: 22.02.2023**  **Version anzuwenden ab: 01.10.2023**
+**DMP-A-RL**
 
-### Version:
+**gültig ab 01.10.2022**
 
-** 5.0**
+**Stand der Bearbeitung:**
+
+**22.02.2023**
+
+**Version anzuwenden ab:**
+
+**01.10.2023**
+
+**Version: 5.0**
 
 
 ---
 
-### Anlage 8:
+#### Anlage 8:
 
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
@@ -28,11 +38,7 @@
 | 2 | (weggefallen) | (weggefallen) |  |
 | 2a | eGFR | 2 | Pflichtfeld Genau eine Angabe ist zulässig.  2 |
 
-Datensatz für die indikationsspezifische Dokumentation:
-
-### Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2
-
-Nr. Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF/ Nicht bestimmt in Feld 10 mindestens die Angabe „Diabetes mellitus Erfolgt die Angabe im Feld „Wert in %“: Stelle hinter dem Komma; Erfolg Nachkommastelle; Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage 2* die die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Erfolgt die Angabe im Fel d „ml/min/1,73m  Angabe ohne KOF“:
+Nr. Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF/ Nicht bestimmt in Feld 10 mindestens die Angabe „Diabetes mellitus Erfolgt die Angabe im Feld „Wert in %“: Stelle hinter dem Komma; Erfolg Nachkommastelle; Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage 2* die die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Erfolgt die Angabe im Fel d „ml/min/1,73m  Angabe ohne KOF“:Datensatz für die indikationsspezifische Dokumentation: **Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2**
 
 
 ---

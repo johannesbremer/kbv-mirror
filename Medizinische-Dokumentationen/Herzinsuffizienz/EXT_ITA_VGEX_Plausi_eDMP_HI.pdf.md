@@ -1,25 +1,33 @@
 - Anlage 14* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des strukturierten Behandlungsprogramms
 
 # Herzinsuffizienz
 
-**Grundlage: Anlage 14 der DMP-A-RL**  **gültig ab 01.10.2024**
+**Grundlage:**
 
-### Version:
+**Anlage 14 der DMP-A-RL**
 
-**2.0**
+**gültig ab 01.10.2024**
 
-**Stand der Bearbeitung: 25.10.2024**  **Version anzuwenden ab: 01.10.2024**
+# Version: 2.0
+
+**Stand der Bearbeitung:**
+
+**25.10.2024**
+
+**Version anzuwenden ab:**
+
+**01.10.2024**
 
 
 ---
 
-### Anlage 14:
-
-Datensatz für die indikationsspezifische Dokumentation:
+#### Anlage 14: Datensatz für die indikationsspezifische Dokumentation:
 
 | Lfd | Dokumentationsparameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
@@ -32,9 +40,7 @@ Datensatz für die indikationsspezifische Dokumentation:
 |  | Medikamente | | |
 | 4 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld Mindestens eine Angabe ist erforderlich. |
 
-### Herzinsuffizienz
-
-Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszufüllen. den letzten sechs Monaten  Behandlung, wegen Herzinsuffizienz, seit der letzten in Feld 10 mindestens die Angabe „ chronische 14* entsprechend den Festlegungen der Plausibilitätsregeln Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein. einer Folgedokumentation auszufüllen ist.
+Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszufüllen. den letzten sechs Monaten  Behandlung, wegen Herzinsuffizienz, seit der letzten in Feld 10 mindestens die Angabe „ chronische 14* entsprechend den Festlegungen der Plausibilitätsregeln Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein. einer Folgedokumentation auszufüllen ist. #### Herzinsuffizienz
 
 
 ---

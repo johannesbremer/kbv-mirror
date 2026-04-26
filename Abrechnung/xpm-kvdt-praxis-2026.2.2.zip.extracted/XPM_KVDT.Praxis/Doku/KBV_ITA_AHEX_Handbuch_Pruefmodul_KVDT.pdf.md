@@ -13,7 +13,6 @@
 
 Datum: 06.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft
 
-
 ---
 
 Dokumentenhistorie
@@ -46,13 +45,13 @@ gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt Änderung der SetVariab
 
 inhaltsverzeichnis
 
-**DOKUMENTENHISTORIE**
+#### DOKUMENTENHISTORIE
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
-**ABBILDUNGSVERZEICHNIS**
+#### ABBILDUNGSVERZEICHNIS
 
-**TABELLENVERZEICHNIS**
+#### TABELLENVERZEICHNIS
 
 **1** **EINLEITUNG**
 
@@ -128,7 +127,9 @@ Tabelle 1: JVM-Aufruf Parameter ................................................
 
 Tabelle 2: Felder KOMU-Satz .............................................................................................. 14
 
-............................................................................................. Tabelle 3: Felder Protokollsatz15
+.............................................................................................
+
+Tabelle 3: Felder Protokollsatz 15
 
 Tabelle 4: Felder PDT-Datei Header Satz ............................................................................ 15
 
@@ -141,53 +142,75 @@ Tabellenverzeichnis
 
 ---
 
-**1**
-
-## Einleitung
+# 1 Einleitung
 
 Dieses Dokument dient als Ergänzung zu Dokument E014 XPM-Anwenderhandbuch, und erläutert die KVDT- spezifischen Besonderheiten des XPM.
 
----------------------------------------------------------------------------------- Kassenärztliche Bundesvereinigung  Körperschaft des öffentlichen Rechts  Dezernat Digitalisierung und IT
+----------------------------------------------------------------------------------
 
-Entwicklung  Herbert_Lewin_Platz 2  10623 Berlin  ----------------------------------------------------------------------------------
+Kassenärztliche Bundesvereinigung
 
-**2**
+Körperschaft des öffentlichen Rechts
 
-## Verzeichnisstruktur
+Dezernat Digitalisierung und IT
+
+Entwicklung
+
+Herbert_Lewin_Platz 2 10623 Berlin
+
+----------------------------------------------------------------------------------
+
+# 2 Verzeichnisstruktur
 
 Im Installationsverzeichnis befinden sich Batchdateien bzw. Shellskripte zum Starten des Prüfmoduls:
 
-SetVariablen.*: Setzt Variablen mit dem aktuellen Quartal und der aktuellen Versionsnummer, die sowohl beim  Programmaufruf als auch in der Konfigurationsdatei verwendet werden. Hierdurch wird vermieden, dass der Pro- grammaufruf und die Konfigurationsdatei bei jeder neuen Version angepasst werden muss. Es reicht aus, die ent- sprechende SetVariablen-Datei zu aktualisieren. Zusätzlich wird hier die Variable XPM_CLASS_PATH definiert,  die die Pfadangaben zu allen benötigten Jar-Dateien enthält.
+SetVariablen.*: Setzt Variablen mit dem aktuellen Quartal und der aktuellen Versionsnummer, die sowohl beim
 
-StartPruefmodul.*: Startet das XPM mit GUI
+Programmaufruf als auch in der Konfigurationsdatei verwendet werden. Hierdurch wird vermieden, dass der Pro- grammaufruf und die Konfigurationsdatei bei jeder neuen Version angepasst werden muss. Es reicht aus, die ent- sprechende SetVariablen-Datei zu aktualisieren. Zusätzlich wird hier die Variable XPM_CLASS_PATH definiert,  die die Pfadangaben zu allen benötigten Jar-Dateien enthält.
+
+StartPruefmodul.*:
+
+Startet das XPM mit GUI
 
 StartPruefung.*: Startet das XPM als Konsolenanwendung
 
-TesteAusgaben.*: Verwendet die Konfigurationsdatei „konfigAusgaben.xml“,   lichen Ausgabeformate zu demonstrieren (setzt einen installierten Dru-  voraus).
+TesteAusgaben.*:
+
+Verwendet die Konfigurationsdatei „konfigAusgaben.xml“,
+
+lichen Ausgabeformate zu demonstrieren (setzt einen installierten Dru-
+
+voraus).
 
 Die Verzeichnisstruktur des KBV-Prüfmoduls hat den in Kapitel 2.1 bis 2.7 beschriebenen Aufbau.
 
-**2.1 Ordner 'Bin'**
+## 2.1 Ordner 'Bin'
 
 Dieser Ordner beinhaltet alle Java-Archive, die zur Ausführung des Prüfmoduls benötigt werden.
 
 Hier befinden sich der projektübergreifende Kernel xpm- grundlegenden XPM-Jar-Komponenten. Die (quartalsspezifischen) Prüfdefinitionen sind in xpm-kvdt-praxis- 20aa.b.c.jar enthalten (mit c Version und aa Jahr und b Quartalsangabe). Diese Komponente muss aus Kompatibi- litätsgründen auf die Steuertabelle KBV_tabelle.bin (aus dem Ordner kbvtab) abgestimmt sein, daher müssen die  beiden Komponenten immer aus derselben Datenlieferung verwendet werden.
 
-**2.2 Ordner 'Daten'**
+## 2.2 Ordner 'Daten'
 
 Dies ist der Standardordner für die zu prüfende Abrechnungsdatei.
 
-**2.3 Ordner 'Doku'**
+## 2.3 Ordner 'Doku'
 
 Enthält dieses Dokument und das Dokument „E014 XPM
 
-**2.4 Ordner 'Kbvtab'**
+## 2.4 Ordner 'Kbvtab'
 
-Dieser Ordner enthält alle prüfungsrelevanten Stammdateien im Binärformat so wie die Steuertabelle KBV_.bin.  Darin sind u.a. die KV-Spezifikadateien enthalten. Die Steuertabelle muss aus Kompatibilitätsgründen auf die  Komponente „xpm-kvdt-praxis_20aa.b.c.jar“ aus dem Ordner „Bin“ abgestimmt sein, daher müssen die beiden  Komponenten immer aus derselben Datenlieferung verwendet werden.
+Dieser Ordner enthält alle prüfungsrelevanten Stammdateien im Binärformat so wie die Steuertabelle KBV_.bin.  Darin sind u.a. die KV-Spezifikadateien enthalten. Die Steuertabelle muss aus Kompatibilitätsgründen auf die  Komponente „xpm-kvdt-praxis_20aa.b.c.jar“ aus dem Ordner „Bin“ abgestimmt sein, daher müssen die beiden
+
+Komponenten immer aus derselben Datenlieferung verwendet werden.
 
 Telefon: 030 / 40 05 - 2045
 
-Fax: 030 / 40 05  272045  mailto:[ITA@kbv.de](mailto:ITA@kbv.de)  www: [http://www.kbv.de](http://www.kbv.de)
+Fax: 030 / 40 05  272045
+
+mailto:[ITA@kbv.de](mailto:ITA@kbv.de)
+
+www: [http://www.kbv.de](http://www.kbv.de)
 
 um alle mög-
 
@@ -200,11 +223,11 @@ cker
 
 ---
 
-**2.5 Ordner 'Konfig'**
+## 2.5 Ordner 'Konfig'
 
 Dieser Ordner enthält zum Ausgabentest die Datei konfigAusgaben.xml sowie die StandardKonfigurationsdatei  „konfig.xml“.
 
-**2.6 Ordner 'Listen'**
+## 2.6 Ordner 'Listen'
 
 In diesem Ordner werden alle Ausgaben des Prüfmoduls generiert. Standardmäßig erzeugt werden: -  Fallstatistikliste
 
@@ -232,21 +255,21 @@ Im Falle einer kurärztlichen Abrechnung werden die folgenden Listen erzeugt: - 
 
 -  KDT-Sortierliste
 
-**2.7 Ordner 'Schema'**
+## 2.7 Ordner 'Schema'
 
 In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat definieren. Die XML-Schemadateien  (*.xsd) dürfen **nicht** verändert werden.
 
-**3**
+# 3 Arbeiten mit XPM
 
-## Arbeiten mit XPM
-
-**3.1 Technische Hinweise**
+## 3.1 Technische Hinweise
 
 ### Das XPM ist ein Java-Programm und setzt eine installierte Jav
 
 17 voraus. Nach dem entpacken des Zip
 
-### über eine der beiliegenden Startdateien gestartet werden. Hier die Aufrufzeile der Batchdatei StartPruefmodul.bat:
+### über eine der beiliegenden Startdateien gestartet werden.
+
+### Hier die Aufrufzeile der Batchdatei StartPruefmodul.bat:
 
 Die Java-Laufzeitumgebung wird mit dem Eintrag java gestartet. Zusätzlich werden folgende
 
@@ -275,15 +298,15 @@ Die Java-Laufzeitumgebung wird mit dem Eintrag java gestartet. Zusätzlich werde
 | -c Konfig/konfig.xml | Pfad der Konfigurationsdatei |
 | -f Daten/Z05123456699_27.07.2024_12.00.con | Pfad der Prüfdatei |
 
-### Tabelle 1: JVM-Aufruf Parameter
+#### Tabelle 1: JVM-Aufruf Parameter
 
-**3.2 Allgemeine Hinweise**
+## 3.2 Allgemeine Hinweise
 
 Bitte beachten Sie, dass das Prüfmodul in der Regel nicht abwärtskompatibel ist, d.h. dass bei gravierenden Ände- rungen zwischen 2 Quartalen bei Nachzüglerscheinen durchaus unberechtigte Fehlermeldungen auftauchen kön- nen.
 
 Entweder müssen die Vorquartalsfälle separat mit dem Vorgängerprüfmodul geprüft werden, um sie dann der ge- prüften aktuellen Abrechnungsdatei nachträglich beizufügen, oder die Fehlermeldungen müssen in Kauf genom- men und ignoriert werden. Ausnahmen sind die ICD-Format- und Existenzprüfung so wie die GNR-Formatprüfung,  die einer Quartalsunterscheidung unterliegen, wodurch auch Nachzüglerscheine korrekt behandelt werden.
 
-**3.3 Konfiguration**
+## 3.3 Konfiguration
 
 Die Konfiguration eines Prüfmodullaufs erfolgt mit Hilfe einer XML-Konfigurationsdatei.
 
@@ -291,17 +314,19 @@ Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betr
 
 Die Konfigurationsdatei wird in 4 Abschnitte eingeteilt.
 
-**3.3.1**
-
-### Abschnitt: Allgemeiner Teil
+### 3.3.1 Abschnitt: Allgemeiner Teil
 
 Im allgemeinen Teil werden allgemeine Informationen zum Prüflauf eingestellt.
 
-**3.3.1.1 Installationsverzeichnis**  Das Installationsverzeichnis wird im Element „**pruefpfad**
+#### 3.3.1.1 Installationsverzeichnis
+
+Das Installationsverzeichnis wird im Element „**pruefpfad**
 
 Z.B.: <pruefpfad>C:/KBV_Pruefmodul/</pruefpfad>
 
-**3.3.1.2 Prüfdatenverzeichnis**  Das Verzeichnis mit Prüfdateien wird im Element „**pruefdaten**
+#### 3.3.1.2 Prüfdatenverzeichnis
+
+Das Verzeichnis mit Prüfdateien wird im Element „**pruefdaten**
 
 Z.B.: <pruefdaten>Daten/</pruefdaten>
 
@@ -314,49 +339,83 @@ XPM_PAKET_VERSION=%XPM_PAKET_VERSION% XPM_QUARTAL_VERSION=%XPM_QUARTAL_VERSION% 
 
 ---
 
-**3.3.1.3 Temporäres Verzeichnis**  Hier kann ein existentes Tempverzeichnis angegeben werden, in dem das XPM die temporären Listen anlegt, die  für Klammer- und Sortierzwecke benötigt werden. Der Schalter kann auch auskommentiert werden, dann verwen- det das XPM den Standard-Tempordner des Betriebssystems, falls vorhanden.
+#### 3.3.1.3 Temporäres Verzeichnis
 
-<tempdaten>c:/temp/</tempdaten> Z.B.:
+Hier kann ein existentes Tempverzeichnis angegeben werden, in dem das XPM die temporären Listen anlegt, die  für Klammer- und Sortierzwecke benötigt werden. Der Schalter kann auch auskommentiert werden, dann verwen- det das XPM den Standard-Tempordner des Betriebssystems, falls vorhanden.
+
+<tempdaten>c:/temp/</tempdaten>
+
+Z.B.:
 
 Wenn das XPM auf einem Netzlaufwerk aufgerufen wird, sollte der Schalter unbedingt auskommentiert sein bzw.  ein lokales Temp-Verzeichnis des aufrufenden Rechners angegeben werden, da sonst die Performanz erheblich  beeinträchtigt ist.
 
-**3.3.1.4 Datensatzbeschreibung**  Schemadatei wird im Element „**pruefschema**“ festgehalten. Die Pfadangabe zur XML-
+#### 3.3.1.4 Datensatzbeschreibung
+
+Schemadatei wird im Element „**pruefschema**“ festgehalten.
+
+Die Pfadangabe zur XML-
 
 Z.B.: <pruefschema>Schema/xdtdata_%XPM_QUARTAL_VERSION%.xsd</pruefschema>
 
 Wobei %XPM_QUARTAL_VERSION% auf den Inhalt der Variablen XPM_QUARTAL_VERSION referenziert, der  mit SetVariablen.* gesetzt wurde.
 
-**3.3.1.5 Warnungen**  Eine Einstellung, ob Warnungen in der Protokolldatei erscheinen sollen, werden im Element „warnungen“ festge- legt.
+#### 3.3.1.5 Warnungen
+
+Eine Einstellung, ob Warnungen in der Protokolldatei erscheinen sollen, werden im Element „warnungen“ festge- legt.
 
 Wertebereich: „ja“, „nein“.
 
 Z.B. <warnungen>ja</warnungen>
 
-**3.3.1.6 Fehler Begrenzen**  Für die PDT-Datei gibt es keine Beschränkung der Meldungsanzahl. Für das Prüfprotokoll kann über diesen Schal-
+#### 3.3.1.6 Fehler Begrenzen
+
+Für die PDT-Datei gibt es keine Beschränkung der Meldungsanzahl. Für das Prüfprotokoll kann über diesen Schal-
 
 ter festgelegt werden, ob es eine Anzahlbeschränkung geben soll oder nicht. Ist hier der Wert ‚ja’ gesetzt, wird die  Anzahl identischer Meldungen auf 5, die Gesamtzahl möglicher Meldungen auf 1000 beschränkt. Ist der Wert auf  ‚nein’ gesetzt, gibt es keine Beschränkung.
 
 ### Abschnitt: Eingabedateien
 
-**3.3.2**  Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en) festgelegt.
+### 3.3.2
 
-<kbv_tabelle>Kbvtab/KBV_tabelleKVDT.bin</kbv_tabelle>   (Steuertabelle)
+Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en) festgelegt.
 
-<KTStamm>Kbvtab/KTStamm.bin</KTStamm>            (Kostenträgerstammdatei)
+<kbv_tabelle>Kbvtab/KBV_tabelleKVDT.bin</kbv_tabelle>
 
-<PLZStamm>Kbvtab/PLZStamm.bin</PLZStamm>     (Postleitzahlenstammdatei)
+(Steuertabelle)
 
-<ICDStamm2024>Kbvtab/ICDStamm2024_%XPM_QUARTAL_VERSION%.bin</ICDStamm2024>         (ICD-Stammdatei für 2024)
+<KTStamm>Kbvtab/KTStamm.bin</KTStamm>
 
-<ICDStamm2023>Kbvtab/ICDStamm2023_%XPM_QUARTAL_VERSION%.bin</ICDStamm2023>        (ICD-Stammdatei für 2023, bei Nachzügler- scheinen aus 2023 greift das XPM automatisch auf diese Datei zurück)
+(Kostenträgerstammdatei)
 
-<GOStamm Einlesen="auto">Kbvtab/GOStamm_KV01.bin</GOStamm> (GO-Stammdatei  Das Attribut  Stammdatei: Durch den Wert „ja“ wird wie angegeben direkt die GOEinlesen steuert die Handhabung der GO- Stammdatei eingelesen. Die GOS wird NICHT eingelesen und keine Existenzprüfung durchgeführt durch die An-
+<PLZStamm>Kbvtab/PLZStamm.bin</PLZStamm>
 
-gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.  gabe des Wertes „nein“. Der angegebene Pfad wird ignoriert. Bei Auslieferung des XPM wird als default der Wert  „auto“ angegeben. Es wird versucht die GOS für den jeweili Kann die GOS nicht gefunden werden, dann wird versucht die GOS GOStamm_KV74.bin einzulesen, wird diese  auch nicht gefunden, dann wird die Meldung KBVDT-RGOS gemeldet.)
+(Postleitzahlenstammdatei)
+
+<ICDStamm2024>Kbvtab/ICDStamm2024_%XPM_QUARTAL_VERSION%.bin</ICDStamm2024>
+
+(ICD-Stammdatei für 2024)
+
+<ICDStamm2023>Kbvtab/ICDStamm2023_%XPM_QUARTAL_VERSION%.bin</ICDStamm2023>
+
+(ICD-Stammdatei für 2023, bei Nachzügler-
+
+scheinen aus 2023 greift das XPM automatisch auf diese Datei zurück)
+
+<GOStamm Einlesen="auto">Kbvtab/GOStamm_KV01.bin</GOStamm> (GO-Stammdatei  Das Attribut
+
+Stammdatei: Durch den Wert „ja“ wird wie angegeben direkt die GO
+
+Einlesen steuert die Handhabung der GO- Stammdatei eingelesen. Die GOS wird NICHT eingelesen und keine Existenzprüfung durchgeführt durch die An-
+
+gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.
+
+gabe des Wertes „nein“. Der angegebene Pfad wird ignoriert. Bei Auslieferung des XPM wird als default der Wert  „auto“ angegeben. Es wird versucht die GOS für den jeweili Kann die GOS nicht gefunden werden, dann wird versucht die GOS GOStamm_KV74.bin einzulesen, wird diese  auch nicht gefunden, dann wird die Meldung KBVDT-RGOS gemeldet.)
 
 ### Abschnitt: Ausgabedateien
 
-**3.3.3**  Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle festgelegt.
+### 3.3.3
+
+Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle festgelegt.
 
 Über das Attribut Format wird das Ausgabeformat festgelegt:
 
@@ -367,7 +426,7 @@ gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.  gabe des Wertes „nein“. Der a
 
 -  HTML HTML-Format
 
--  JRPRINT Internes Ausgabeformat, kann vom Prüfmodul angezeigt und gedruckt werden (Spätere  Versionen)
+-  JRPRINT Internes Ausgabeformat, kann vom Prüfmodul angezeigt und gedruckt werden (Spätere - Versionen)
 
 -  PDF Portable Document Format
 
@@ -381,7 +440,7 @@ gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.  gabe des Wertes „nein“. Der a
 
 -  XLS Microsoft Excel-Format
 
-**3.3.3.1 Prüfprotokoll**
+#### 3.3.3.1 Prüfprotokoll
 
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter Fehlerliste festgelegt.
 
@@ -395,20 +454,26 @@ dieses Datenpaket folgen. Wurden in einem Datenpaket keine Fehler festgestellt, 
 
 wurde und welche Steuerdateien und welche Programmversion eingesetzt wurde. Je Teil Datenpaket wird ein eigener Prüfstatus verwaltet. Der Prüfstatus der gesamten Datei ent-
 
-### spricht dem höchsten Fehlergrad der Teil
+### spricht dem höchsten Fehlergrad der Teil-Datenpakete. Traten in keinem Teil-Datenpaket
 
--Datenpakete. Traten in keinem Teil-Datenpaket  Fehler auf, so beschränkt sich das Protokoll auf die Übersichtsseite. Die Sätze
+Fehler auf, so beschränkt sich das Protokoll auf die Übersichtsseite. Die Sätze con0 und prax
 
-### con0 und prax  werden dabei als ein Datenpaket mit der Bezeichnung „KVDT
-
-Container“ angesehen. Zusätz-
+### werden dabei als ein Datenpaket mit der Bezeichnung „KVDT Container“ angesehen. Zusätz-
 
 ### lich zu den einzelnen Datenpaketen wird eine Übersichtsseite ausgegeben.
 
 
 ---
 
-**3.3.3.2 Fehlerstatistik**  Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter StatistikListe festgelegt. Standardkonfigurati- on: *Listen/FehlerStatistik.pdf*. Die Liste enthält Angaben, wie häufig welche Meldung vorkommt. Auch bei gesetz- tem Schalter „fehler_begrenzen“ wird hier die Gesamtanzahl angezeigt, obwohl die Meldungen im Prüfbericht nur  in begrenzter Anzahl erscheinen. Der Schalter „icd_zusatz_pruefung“ beeinflusst die Fehlerstatistik, da bei dem  Wert „nein“ die ICD-Zusatzprüfung gar nicht stattfindet, wodurch die Gesamtmeldungsanzahl geringer ausfallen  kann als bei eingeschalteter Prüfung. Eine Schnellübersicht, welche Fehlerkategorien gefunden wurden, gibt der  Eintrag „Status Ok/W/F/A:“ im Header: jede Fehlerkategorie, deren Stelle eine 1 enthält, wurde festgestellt.
+#### 3.3.3.2 Fehlerstatistik
+
+Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter StatistikListe festgelegt. Standardkonfigurati- on: *Listen/FehlerStatistik.pdf*. Die Liste enthält Angaben, wie häufig welche Meldung vorkommt. Auch bei gesetz-
+
+tem Schalter „fehler_begrenzen“ wird hier die Gesamtanzahl angezeigt, obwohl die Meldungen im Prüfbericht nur  in begrenzter Anzahl erscheinen. Der Schalter „icd_zusatz_pruefung“ beeinflusst die Fehlerstatistik, da bei dem
+
+Wert „nein“ die ICD-Zusatzprüfung gar nicht stattfindet, wodurch die Gesamtmeldungsanzahl geringer ausfallen
+
+kann als bei eingeschalteter Prüfung. Eine Schnellübersicht, welche Fehlerkategorien gefunden wurden, gibt der  Eintrag „Status Ok/W/F/A:“ im Header: jede Fehlerkategorie, deren Stelle eine 1 enthält, wurde festgestellt.
 
 Bsp.: Abrechnung Ok
 
@@ -418,43 +483,59 @@ Abrechnung mit Warnung(en) und Fehler(n)
 
 Status Ok/W/F/A: 0/1/1/0
 
-**3.3.3.3 Abgabe Dokumentationsliste**
+#### 3.3.3.3 Abgabe Dokumentationsliste
 
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter DokuAbgabeListe fest-
 
-gelegt. Standardkonfiguration: Listen/DokuAbgabeListe.pdf. Die Liste enthält Angaben, wel- che Dokumentationsbögen bei der Kassenärztlichen Vereinigung abzugeben sind. Die Infor-
+gelegt. Standardkonfiguration: Listen/DokuAbgabeListe.pdf. Die Liste enthält Angaben, wel-
 
-### mationen, welche Dokumentationsbögen abzugeben sind, befinden sich in den SDKV -Dateien
+che Dokumentationsbögen bei der Kassenärztlichen Vereinigung abzugeben sind. Die Infor-
 
-### (KV-Spezifikadateien), die in konvertierter Form in der KBV -Steuertabelle enthalten sind.
+### mationen, welche Dokumentationsbögen abzugeben sind, befinden sich in den SDKV-Dateien
 
-**3.3.3.4 Fallstatistikliste**
+### (KV-Spezifikadateien), die in konvertierter Form in der KBV-Steuertabelle enthalten sind.
 
-### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter FallListe festgelegt.  Standardkonfiguration: Listen/FallStatistik.pdf. Die Fallzusammenstellung wird nach ambulan-
+#### 3.3.3.4 Fallstatistikliste
 
-ten und stationären Fällen getrennt ausgewiesen. Es werden zuerst die ambulanten, dann die  stationären Fälle aufgeführt. Als „stationäre Fälle“ werden die der „
+### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter FallListe festgelegt.
 
-### Belegärztlichen Behand- lung“, also Fälle der Satzart 0103 bezeichnet; als „ambulante Fälle“ alle übrigen Behandlungs- fall-Satzarten (0101, 0102, 0104 und hdrg1).  Die weiteren Zeilen der Fallzusammenstellung sind wie folgt aufgebaut:
+### Standardkonfiguration: Listen/FallStatistik.pdf. Die Fallzusammenstellung wird nach ambulan-
 
-### VKNR/KTAB Kostenträgername Fallinformationen  Der Kostenträgername wird aus der aufbereiteten SDKT -Datei genommen. Wurde keine
+ten und stationären Fällen getrennt ausgewiesen. Es werden zuerst die ambulanten, dann die  stationären Fälle aufgeführt. Als „stationäre Fälle“ werden die der „Belegärztlichen Behand-
 
-### SDKT-Datei angebunden, so bleibt der Eintrag für den Kostenträgernamen leer.  Die Fallzusammenstellung gibt die Anzahl der Fälle getrennt nach Versichertenstatus wieder.  Vorquartalsfälle sind gesondert ausgewiesen, sind aber schon in den MFR
+### lung“, also Fälle der Satzart 0103 bezeichnet; als „ambulante Fälle“ alle übrigen Behandlungs- fall-Satzarten (0101, 0102, 0104 und hdrg1).
 
--Summen enthalten  (d.h. die Vorquartalsfälle dürfen bei der Summenbildung
+### Die weiteren Zeilen der Fallzusammenstellung sind wie folgt aufgebaut:
 
-### nicht zu den MFR-Summen hinzuge-
+### VKNR/KTAB Kostenträgername Fallinformationen
 
-zählt werden, da sie sonst doppelt gezählt würden). D
+### Der Kostenträgername wird aus der aufbereiteten SDKT-Datei genommen. Wurde keine
 
-### ie Summe aller bei einer
+### SDKT-Datei angebunden, so bleibt der Eintrag für den Kostenträgernamen leer.
+
+### Die Fallzusammenstellung gibt die Anzahl der Fälle getrennt nach Versichertenstatus wieder.
+
+### Vorquartalsfälle sind gesondert ausgewiesen, sind aber schon in den MFR-Summen enthalten
+
+(d.h. die Vorquartalsfälle dürfen bei der Summenbildung nicht zu den MFR-Summen hinzuge-
+
+zählt werden, da sie sonst doppelt gezählt würden). Die Summe aller bei einer
 
 VKNR/Kostenträgeruntergruppe abgerechneten Fälle (inkl. Vorquartalsfällen) steht dann am
 
 ### Ende der Zeile.
 
-**3.3.3.5 GNR-Statistikliste**  Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *GNRListe* festgelegt. Standardkonfiguration:  *Listen/GNRListe.pdf.*
+#### 3.3.3.5 GNR-Statistikliste
 
-**3.3.3.6 Klammerliste**  Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *KlammerListe* festgelegt. Standardkonfigura- tion: *Listen/KlammerListe.pdf.*
+Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *GNRListe* festgelegt. Standardkonfiguration:
+
+*Listen/GNRListe.pdf.*
+
+#### 3.3.3.6 Klammerliste
+
+Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *KlammerListe* festgelegt. Standardkonfigura-
+
+tion: *Listen/KlammerListe.pdf.*
 
 Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Aufbau orien- tiert sich an der Sortierliste. Im Vergleich zu dieser werden anstelle des Einlesedatum KVK
 
@@ -465,25 +546,31 @@ Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Au
 
 ---
 
--
+-  der Schalter KlammerListe in der Konfigurationsdatei auskommentiert ist,
 
-### der Schalter KlammerListe in der Konfigurationsdatei auskommentiert ist,
+-  die KV nicht klammert (vgl. kvx6, SDKV), oder
 
--  die KV nicht klammert (vgl. kvx6, SDKV), oder -
+-  in der ADT-Abrechnung keine Klammerfälle vorkommen.
 
-### in der ADT-Abrechnung keine Klammerfälle vorkommen. Wird die Klammerliste ausgegeben, so entspricht die Reihenfolge der Eintragungen der entsprechenden KV-spezifischen Sortierung.
+### Wird die Klammerliste ausgegeben, so entspricht die Reihenfolge der Eintragungen der
 
-**3.3.3.7 Kommunikationssatz**  Der Kommunikationssatz enthält Informationen zum vorangegangenen Prüflauf (XPM) und wird vom  *(XKM)* bei der Verschlüsselung an die Abrechnungsdatei angehängt. Hierüber wird für die KV ersichtlich, ob und  mit welchen Parametern geprüft wurde.
+### entsprechenden KV-spezifischen Sortierung.
+
+#### 3.3.3.7 Kommunikationssatz
+
+Der Kommunikationssatz enthält Informationen zum vorangegangenen Prüflauf (XPM) und wird vom  *(XKM)* bei der Verschlüsselung an die Abrechnungsdatei angehängt. Hierüber wird für die KV ersichtlich, ob und
+
+mit welchen Parametern geprüft wurde.
 
 Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter konfiguration: *Listen/Komusatz.txt.*
 
-Nach der Prüfung der Datei erzeugt das Prüfmodul den sogenannten Kommunikationssatz. Der Kommunikations- satz wird unter Verwendung des Schalters „pruefinfo“ oder des Aufrufparameters „ bei der Verschlüsselung der geprüften KVDT-Datei gelesen. Die Inhalte werden an den „con9“ In der KV entschlüsselt das **Kryptomodul (XKM)** die KVDT-Datei (mit einem erweitertem „con9“
+Nach der Prüfung der Datei erzeugt das Prüfmodul den sogenannten Kommunikationssatz. Der Kommunikations- satz wird unter Verwendung des Schalters „pruefinfo“ oder des Aufrufparameters „ bei der Verschlüsselung der geprüften KVDT-Datei gelesen. Die Inhalte werden an den „con9“
+
+In der KV entschlüsselt das **Kryptomodul (XKM)** die KVDT-Datei (mit einem erweitertem „con9“
 
 Das KV-Prüfmodul prüft im Anschluss die entschlüsselte Datei. Das KV-Prüfmodul übernimmt die Praxis- und KV- Versionsangaben ins Fehlerprotokoll. Bei abweichendem Prüfstatus können die Versionsnummern Aufschluss über  eventuelle Unterschiede zwischen der Praxis- und KV-Version geben.
 
-### Aus dem Kommunikationssatz sind die (Teil
-
--)Prüfergebnisse (FK 9232) der einzelnen enthal-
+### Aus dem Kommunikationssatz sind die (Teil-)Prüfergebnisse (FK 9232) der einzelnen enthal-
 
 ### tenden Datenpakete (FK 9237) ablesbar.
 
@@ -503,7 +590,9 @@ i“ - vom
 
 festgelegt. Standard-
 
-Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul **Kryptomodul (XKM)**  -er Satz angehängt.  -Satz).
+**Kryptomodul (XKM)**
+
+Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul -er Satz angehängt.  -Satz).
 
 
 ---
@@ -517,9 +606,11 @@ Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- na
 | 9235 | 1 | Prüfzeit | M |  |  |
 | 9236 | 1 | Name der geprüften Datei | M |  |  |
 
-### Tabelle 2: Felder KOMU-Satz
+#### Tabelle 2: Felder KOMU-Satz
 
-**3.3.3.8 PDT-Liste**  Der Name PDT-Datei leitet sich aus Protokoll -Daten-Träger ab. Als Inhalt werden Informatio- nen zu den einzelnen Fehlermeldungen übertragen. Der Aufbau der Datei orientiert sich an
+#### 3.3.3.8 PDT-Liste
+
+Der Name PDT-Datei leitet sich aus Protokoll -Daten-Träger ab. Als Inhalt werden Informatio- nen zu den einzelnen Fehlermeldungen übertragen. Der Aufbau der Datei orientiert sich an
 
 ### den bekannten Satzbeschreibungen.
 
@@ -531,9 +622,13 @@ werden, den Arzt automatisch zu den vom Prüfmodul gefundenen Fehlern zu führen
 
 ### oder die interne Scheinidentifikation zugegriffen werden um dann entsprechende Maßnahmen
 
-wie z.B. Korrekturhinweise etc. einzuleiten.  Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann jeder Fehler  automatisch ausgewertet werden. Auf die Angabe einer Zeilennummer, in der der Fehler
+wie z.B. Korrekturhinweise etc. einzuleiten.
 
-### gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen  Datensatzbeschreibungen entspreche Systemhaus keine Patientennummer  Informationen.
+Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann jeder Fehler  automatisch ausgewertet werden. Auf die Angabe einer Zeilennummer, in der der Fehler
+
+### gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen  Datensatzbeschreibungen entspreche Systemhaus keine Patientennummer
+
+### Informationen.
 
 ### Einem Header -Satz folgen mehrfach die Sätze für die
 
@@ -579,13 +674,15 @@ Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abs
 | 3111 | 1 | Geburtsjahr des Patienten | K |  |  |
 | 4264 | 1 | Anreisetag | K |  | für KADT |
 
-### Tabelle 3: Felder Protokollsatz
+#### Tabelle 3: Felder Protokollsatz
 
 Das Vorhandensein der entsprechenden Informationen hängt vom geprüften Datenpaket ab. Alle in der obigen  Tabelle aufgeführten Informationen der Kann-Felder werden übertragen, wenn sie vorliegen.
 
 Hinzu kommt noch ein Header und Abschluss-Satz, in dem das Handling von Versionen erfolgt.
 
-Satzart pro0  Dies ist der Header-Satz der PDT-Datei.
+### Satzart pro0
+
+Dies ist der Header-Satz der PDT-Datei.
 
 | Feldkennung | 2 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -595,13 +692,15 @@ Satzart pro0  Dies ist der Header-Satz der PDT-Datei.
 | 9103 | 1 | Datum der Erstellung | M |  | aus con0 |
 | 9236 | 1 | Name der geprüften Datei | M |  |  |
 
-### Tabelle 4: Felder PDT-Datei Header Satz
+#### Tabelle 4: Felder PDT-Datei Header Satz
 
 Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer (NBSNR) Inhalt
 
 ---
 
-Satzart pro9  Dies ist der Abschluß-Satz der Fehlerprotokolldatei
+### Satzart pro9
+
+Dies ist der Abschluß-Satz der Fehlerprotokolldatei
 
 | Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -611,41 +710,39 @@ Satzart pro9  Dies ist der Abschluß-Satz der Fehlerprotokolldatei
 | 9234 | 1 | Prüfdatum | M |  |  |
 | 9235 | 1 | Prüfzeit | M |  |  |
 
-### Tabelle 5: Felder PDT-Datei Abschluss-Satz
+#### Tabelle 5: Felder PDT-Datei Abschluss-Satz
 
-**3.3.3.9 Scheinabgabeliste**  Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter figuration: *Listen/ScheinAbgabeListe.pdf.*
+#### 3.3.3.9 Scheinabgabeliste
+
+Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter figuration: *Listen/ScheinAbgabeListe.pdf.*
 
 Die Informationen, welche Behandlungsscheine abzugeben sind, befinden sich in den SDKV-Dateien (KV- Spezifikadateien).
 
-**3.3.3.10**
-
-### Sortierliste
+#### 3.3.3.10 Sortierliste
 
 Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *Listen/Sortiert.pdf.*
 
 Die Sortierliste spiegelt die für den abrechnenden Arzt relevante KV-Sortierung wider. Die Informationen zur Sortie- rung befinden sich in den SDKV-Dateien.
 
-**3.3.3.11**
-
-### Abgabeliste aller Überweisungsscheine
+#### 3.3.3.11 Abgabeliste aller Überweisungsscheine
 
 Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter konfiguration: *Listen/UeScheinAbgabeListe.pdf.*
 
 Die Liste enthält die Information, welche Überweisungsscheine bei der Kassenärztlichen Vereinigung abzugeben  sind. Damit diese Datei angelegt wird, muss in der entsprechenden KV-Spezifikadatei dem Feld 9473 aus Satzart  „kvx5“ ein „ja“ zugewiesen sein.
 
-**3.3.3.12 Liste aller abzugebenden Behandlungsscheine zzgl. aller**
+#### 3.3.3.12 Liste aller abzugebenden Behandlungsscheine zzgl. aller
 
-### Überweisungsscheine
+#### Überweisungsscheine
 
 Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter dardkonfiguration: *Listen/UeScheinPlusAbgabeListe.pdf.*
 
 Damit diese Datei angelegt wird, muss in der entsprechenden KV- ein „ja“ zugewiesen sein.
 
-**3.3.4**
+### 3.3.4 Abschnitt: Schalter
 
-### Abschnitt: Schalter
+#### 3.3.4.1 Adt_interne_Patientennummer
 
-**3.3.4.1 Adt_interne_Patientennummer**  Ist der Wert auf „ja“ gesetzt, wird in der Scheinabgabeliste und in der Dokuabgabeliste die systemint tennummer (FK 3000) anstatt des Patientennamens und –vornamens verwendet. Standardwert: “nein“
+Ist der Wert auf „ja“ gesetzt, wird in der Scheinabgabeliste und in der Dokuabgabeliste die systemint tennummer (FK 3000) anstatt des Patientennamens und –vornamens verwendet. Standardwert: “nein“
 
 Der Schalter kann auch beim Programmaufruf mit der Option
 
@@ -676,33 +773,41 @@ Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
 
 -d adt_interne_patientennummer=ja
 
-**3.3.4.2 ICD_Zusatz-Prüfung**  Ist der Wert auf “ja“ gesetzt, wird geprüft, ob geschlechts „Kannfehler“ verwendet wurden, die nicht zum Alter bzw. Geschlecht des Patienten passen. In diesem Fall wird  eine Warnung ausgegeben. Bei “nein“ bleibt diese Prüfung aus. Es kommt zu keinen ICD-spezifischen Warnungen.
+#### 3.3.4.2 ICD_Zusatz-Prüfung
+
+Ist der Wert auf “ja“ gesetzt, wird geprüft, ob geschlechts „Kannfehler“ verwendet wurden, die nicht zum Alter bzw. Geschlecht des Patienten passen. In diesem Fall wird  eine Warnung ausgegeben. Bei “nein“ bleibt diese Prüfung aus. Es kommt zu keinen ICD-spezifischen Warnungen.
 
 Standardwert: “nein“
 
 Der Schalter kann auch beim Programmaufruf mit der Option -d icd_zusatz_pruefung=ja
 
-**3.3.4.3 GUI_Optionen**  Über diesen Schalter wird festgelegt, ob das XPM über
+#### 3.3.4.3 GUI_Optionen
+
+Über diesen Schalter wird festgelegt, ob das XPM über
 
 Der Schalter kann auch beim Programmaufruf mit der Option -d gui_optionen=ja
 
-**3.3.4.4 GUI_Selektion**  Über diesen Schalter wird festgelegt, ob die zu prüfende Datei über die GUI ausgewählt werden kann, oder ob auf  jeden Fall die mit der Option –f übergebene Datei geprüft wird. Standardwert: “ja“
+#### 3.3.4.4 GUI_Selektion
+
+Über diesen Schalter wird festgelegt, ob die zu prüfende Datei über die GUI ausgewählt werden kann, oder ob auf  jeden Fall die mit der Option –f übergebene Datei geprüft wird. Standardwert: “ja“
 
 Der Schalter kann auch beim Programmaufruf mit der Option -d gui_selektion=ja
 
-**3.3.4.5 VSDMAnzahlAusgabe**  Über diesen Schalter wird festgelegt, ob das XPM die Anzahl der gefundenen VSDM auch bei 0 gefundenen
+#### 3.3.4.5 VSDMAnzahlAusgabe
+
+Über diesen Schalter wird festgelegt, ob das XPM die Anzahl der gefundenen VSDM auch bei 0 gefundenen
 
 VSDM ausgibt.
 
 Der Schalter kann auch beim Programmaufruf mit der Option -d vsdmAnzahlAusgabe=ja
 
-**3.3.4.6 Datenpakete**  Über diesen Schalter wird festgelegt welche Datenpakete bei der Prüfung erlaubt sein sollen (alle, nur  ADT/KADT/SADT oder nur HDRG).
+#### 3.3.4.6 Datenpakete
+
+Über diesen Schalter wird festgelegt welche Datenpakete bei der Prüfung erlaubt sein sollen (alle, nur  ADT/KADT/SADT oder nur HDRG).
 
 Der Schalter kann auch beim Programmaufruf mit der Option -d datenpakete=alle
 
-**3.3.5**
-
-### Umgebungsvariablen
+### 3.3.5 Umgebungsvariablen
 
 Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
@@ -749,9 +854,11 @@ Nun müssen die Umgebungsvariablen der JavaVM bekannt gegeben werden.
 
 java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
-**3.4 Return-Code, Errorlevel des XPM**
+## 3.4 Return-Code, Errorlevel des XPM
 
-### Der Errorlevel wird in der Kommunikationsdatei unter der Fe und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab- gelegt.  Der Return-Code steht in direktem Zusammenhang mit dem Ergebnis
+### Der Errorlevel wird in der Kommunikationsdatei unter der Fe und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab- gelegt.
+
+### Der Return-Code steht in direktem Zusammenhang mit dem Ergebnis
 
 gangs. Die Zusammenhänge sind in der folgenden Tab
 
@@ -762,59 +869,70 @@ gangs. Die Zusammenhänge sind in der folgenden Tab
 | Fehlerhaft | Prüfung weist grobe Mängel auf | 2 |
 | Abbruch | Prüfung weist schwerwiegende Mängel auf | 3 |
 
-### Tabelle 6: Prüfstatus
+#### Tabelle 6: Prüfstatus
 
 ### Ab dem Return-Code 2 ist eine Weiterverarbeitung in der KV nicht möglich.
 
-**3.5 Meldungen**
+## 3.5 Meldungen
 
-Es gibt vier verschiedene Arten von Fehlermeldungen:
+Es gibt vier verschiedene Arten von Fehlermeldungen: - Infomeldungen
 
-Infomeldungen
+- Warnungen
 
-Warnungen
+- Fehlermeldungen (durch F* gekennzeichnet)
 
-Fehlermeldungen (durch F* gekennzeichnet)
-
-Abbruchmeldungen (durch A* gekennzeichnet)
+- Abbruchmeldungen (durch A* gekennzeichnet)
 
 Wenn in der Konfigurationsdatei der Schalter Warnungen auf ‚nein’ gestellt ist, werden keine Warnungen aufgelis- tet. Es erfolgt lediglich ein Hinweis: „Das Prüfmodul hat Warnungen gefunden“.
 
 Die Meldungen sind wie folgt aufgebaut:
+
 -  Meldungsnummer (z.B. KVDT-RQL1)
+
 -  In Klammern: Abkürzung der Fehlerart, gefolgt von der Zeilennummer, in der  der Fehler aufgetaucht ist (z.B. (F*/842)) -  Meldungstext
--  Maximale Anzahl zu protokollierender Meldungen, bei der Konfigurationsein- stellung fehler_begrenzen=ja.   Eine Fehlermeldung zu einem Fehler in Zeile 842 hätte in der PDF-Prüfliste folgenden Aufbau:   KVDT-RQL1 (F*/842) Dieser Behandlungsfall kann erst im nächsten Quartal abgerechnet werden.  Bitte setzen Sie sich mit Ihrem Systemhaus in Verbindung.
+
+-  Maximale Anzahl zu protokollierender Meldungen, bei der Konfigurationsein- stellung fehler_begrenzen=ja.
+
+Eine Fehlermeldung zu einem Fehler in Zeile 842 hätte in der PDF-Prüfliste folgenden Aufbau:
+
+KVDT-RQL1 (F*/842) Dieser Behandlungsfall kann erst im nächsten Quartal abgerechnet werden.  Bitte setzen Sie sich mit Ihrem Systemhaus in Verbindung.
 
 ### ldkennung 9232 (Prüfergebnis) -Status des Prüfvor-
 
-### elle wiedergegeben:
+### elle wiedergegeben: -
+
+-
 
 
 ---
 
-Alle Meldungen wurden im Verzeichnis XPM_KVDT.Praxis\Doku in den Dateien  dungenKVDT.xml aufgelistet. Alle Kontextprüfungen des KVDT-Prüfpaketes wurden in der Datei MeldungenPra- xis.xml aufgeführt. Alle Meldungen, die den Aufbau der KVDT-Datensatzbeschreibung betreffen, wurden in der  Datei MeldungenKVDT.xml aufgeführt. Zur besseren Lesbarkeit empfiehlt es sich die zwei Dateien mit dem Inter- net Explorer zu betrachten. Alle variablen Anteile in den einzelnen Meldungen wurden mit der Zeichenkette ’%s’  gekennzeichnet, deren genauer Inhalt erst zur Laufzeit feststeht.
+Alle Meldungen wurden im Verzeichnis XPM_KVDT.Praxis\Doku in den Dateien  dungenKVDT.xml aufgelistet. Alle Kontextprüfungen des KVDT-Prüfpaketes wurden in der Datei MeldungenPra-
 
-**3.5.1**
+xis.xml aufgeführt. Alle Meldungen, die den Aufbau der KVDT-Datensatzbeschreibung betreffen, wurden in der  Datei MeldungenKVDT.xml aufgeführt. Zur besseren Lesbarkeit empfiehlt es sich die zwei Dateien mit dem Inter- net Explorer zu betrachten. Alle variablen Anteile in den einzelnen Meldungen wurden mit der Zeichenkette ’%s’
 
-### Abbruch-Meldungen
+gekennzeichnet, deren genauer Inhalt erst zur Laufzeit feststeht.
+
+### 3.5.1 Abbruch-Meldungen
 
 Bei einer Fehlbedienung des XPMs kann u.A. ein schwerwiegender Fehler auftreten. Hier ist eine Übersicht über  mögliche Abbruchfehler und deren Ursachen:
 
-1. java.lang.NoClassDefFoundError
+- 1. java.lang.NoClassDefFoundError
 
-Eine Java-Klasse wird nicht gefunden. Die Ursache kann darin liegen, dass Java nicht die nötigen Bibliotheken  (*.jar Dateien) findet, die mit Aufruf classpath übergeben wurden. Lösung: Überprüfen Sie, ob die in der Variablen  XPM_CLASS_PATH angegebenen Pfadangaben als Dateien existieren. Die Variable XPM_CLASS_PATH wird in  SetVariablen definiert.
+Eine Java-Klasse wird nicht gefunden. Die Ursache kann darin liegen, dass Java nicht die nötigen Bibliotheken  (*.jar Dateien) findet, die mit Aufruf classpath übergeben wurden. Lösung: Überprüfen Sie, ob die in der Variablen
+
+XPM_CLASS_PATH angegebenen Pfadangaben als Dateien existieren. Die Variable XPM_CLASS_PATH wird in  SetVariablen definiert.
 
 Bsp: -classpath "Bin/xpm-kvdt-praxis-2022.1.1.jar;Bin/ xpm-core-4.2.10.
 
-2. de.kbv.pruefmodul.XPMException, Das KBV-Prüfmodul hat sich mit einem XML-Fehler beendet.  org.xml.sax.SAXParseException
+- 2. de.kbv.pruefmodul.XPMException, Das KBV-Prüfmodul hat sich mit einem XML-Fehler beendet.  org.xml.sax.SAXParseException
 
 Es gibt einen internen Fehler, der Hinweis auf den XML-Fehler kommt von dem Parser. Es gibt mehrere Ursachen  für diese Fehlermeldung:
 
-a) Die Ursache liegt in der Verarbeitung der Datei, die nicht der Datensatzbeschreibung entspricht. Lösung:  Überprüfen sie den Inhalt der Datei auf unbekannte/unerlaubte Feldkennungen. Meistens steht in der  Fehlermeldung dabei, welche Zeichenkette der Parser nicht verarbeiten konnte.
+- a) Die Ursache liegt in der Verarbeitung der Datei, die nicht der Datensatzbeschreibung entspricht. Lösung:  Überprüfen sie den Inhalt der Datei auf unbekannte/unerlaubte Feldkennungen. Meistens steht in der  Fehlermeldung dabei, welche Zeichenkette der Parser nicht verarbeiten konnte.
 
-b) In einem Server-Client Netzwerk können Daten bei der Übertragung verloren gehen, so dass XPM keine  vollständigen Daten erhält und abbricht. Lösung: überprüfen Sie dass die Netzwerkverbindung stabil läuft.  Am besten legen Sie die Daten vor der Prüfung lokal in den XPM-
+- b) In einem Server-Client Netzwerk können Daten bei der Übertragung verloren gehen, so dass XPM keine  vollständigen Daten erhält und abbricht. Lösung: überprüfen Sie dass die Netzwerkverbindung stabil läuft.  Am besten legen Sie die Daten vor der Prüfung lokal in den XPM-
 
-3. OutOfMemoryException
+- 3. OutOfMemoryException
 
 Das Programm hat keinen Arbeitsspeicher für die Verarbeitung. Es gibt mehrere Ursachen für diese Fehlermel- dung:
 
@@ -822,18 +940,20 @@ a) Das Programm verarbeitet eine sehr große Datei >500MB hat aber nur 500MB Arb
 
 b) Das Programm verarbeitet eine große Datei, die sehr viele Fehler enthält. Das Fehlerprotokoll wird sehr groß, so  dass das Programm abstürzt. Lösung: begrenzen Sie die Anzahl der Fehlermeldungen, siehe Kapitel 3.3.1.6 Feh- ler Begrenzen.
 
-4. de.kbv.pruefmodul.XPMException, …. (Zugriff verweigert)
+- 4. de.kbv.pruefmodul.XPMException, …. (Zugriff verweigert)
 
 Das Programm kann auf eine Datei/Ordner nicht zugreifen. Es gibt mehrere Ursachen für diese Fehlermeldung:
 
-a) Der Ordner/Datei wurde nicht gefunden. Lösung: überprüfen Sie die Konfigurationsdatei konfig.xml, ob die  Pfade richtig eingestellt sind.
+- a) Der Ordner/Datei wurde nicht gefunden. Lösung: überprüfen Sie die Konfigurationsdatei konfig.xml, ob die  Pfade richtig eingestellt sind.
 
-b) Der Ordner/Datei ist durch ein anderes Programm oder eine andere XPM-Instanz blockiert. Lösung: über- prüfen Sie, dass keine andere XPM-Instanz oder Programm wie AcrobatReader offen sind.
+- b) Der Ordner/Datei ist durch ein anderes Programm oder eine andere XPM-Instanz blockiert. Lösung: über- prüfen Sie, dass keine andere XPM-Instanz oder Programm wie AcrobatReader offen sind.
 
-c) Das XPM hat keine Zugriffsrechte für den Ordner/Datei. Lösung: überprüfen Sie die Zugriffsrechte für  den Ordner/Datei und geben Sie diese frei.
+- c) Das XPM hat keine Zugriffsrechte für den Ordner/Datei. Lösung: überprüfen Sie die Zugriffsrechte für  den Ordner/Datei und geben Sie diese frei.
 
 „MeldungenPraxis.xml und Mel-
 
 jar; usw.“
 
-Ordner „Daten“ ab.
+- Ordner „Daten“ ab.
+
+-

@@ -42,7 +42,11 @@
 
 **Straße, Haus-Nr.**
 
-**Zeugnis über den 3** **mutmaßlichen Tag** **der Entbindung**
+**Zeugnis über den**
+
+**3**
+
+**mutmaßlichen Tag** **der Entbindung**
 
 **Ausfertigung für die Krankenkasse**
 

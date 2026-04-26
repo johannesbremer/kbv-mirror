@@ -25,11 +25,61 @@
 
 **2** **DATENSATZBESCHREIBUNG BARCODE**
 
-2.1 Allgemeine Informationen Barcode  2.2 Satztabellen  2.3 Codierung / Anordnung der Inhalte  2.4 Dynamische Erzeugung des Barcodes  2.5 Formatierung von ICD-Diagnosedaten  2.6 Positionierung / Aufdruck des Barcodes  2.7 Positionierung /Aufbau der Prüfnummer  2.8 Bedruckung der Formulare  2.9 Ausdruck von Durchschlägen zum Verbleib in der Arztpraxis  2.10 Zeichensatz ISO 8859-15  2.11 Standardbarcodes  2.11.1 Standardbarcode Typ 1  2.11.2 Standardbarcode Typ 2 (gekürzter Barcode)  2.11.3 Standardbarcode Typ 3  2.11.4 Standardbarcode Typ 4  2.11.5 Standardbarcode Typ 5
+2.1 Allgemeine Informationen Barcode 2.2 Satztabellen
+
+2.3 Codierung / Anordnung der Inhalte
+
+2.4 Dynamische Erzeugung des Barcodes
+
+2.5 Formatierung von ICD-Diagnosedaten
+
+2.6 Positionierung / Aufdruck des Barcodes
+
+2.7 Positionierung /Aufbau der Prüfnummer 2.8 Bedruckung der Formulare
+
+2.9 Ausdruck von Durchschlägen zum Verbleib in der Arztpraxis 2.10 Zeichensatz ISO 8859-15
+
+2.11 Standardbarcodes  2.11.1 Standardbarcode Typ 1
+
+2.11.2 Standardbarcode Typ 2 (gekürzter Barcode) 2.11.3 Standardbarcode Typ 3
+
+2.11.4 Standardbarcode Typ 4
+
+2.11.5 Standardbarcode Typ 5
 
 **3** **BARCODE INHALT**
 
-3.1 Muster 2  3.1.1 Barcode Inhalt Muster 2a/E  3.1.2 Barcode Inhalt Muster 2b/E  3.2 Muster 3  3.2.1 Barcode Inhalt Muster 3a/E  3.3 Muster 4  3.3.1 Barcode Inhalt Muster 4/E  3.4 Muster 6  3.4.1 Barcode Inhalt Muster 6/E  3.5 Muster 8  3.5.1 Barcode Inhalt Muster 8/E  3.6 Muster 8A  3.6.1 Barcode Inhalt Muster 8A/E  3.7 Muster 9  3.7.1 Barcode Inhalt Muster 9a/E  3.8 Muster 10  3.8.1 Barcode Inhalt Muster 10/E  3.8.2 Barcode Inhalt Muster 10L/E  3.8.3 Barcode Inhalt Muster 10A/E  3.9 Muster 11  3.9.1 Barcode Inhalt Muster 11/E  3.10 Muster 12  3.10.1 Barcode Inhalt Muster 12a/E  3.10.2 Barcode Inhalt Muster 12b/E  3.10.3 Barcode Inhalt Muster 12c/E  3.11 Muster 13  3.11.1 Barcode Inhalt Muster 13/E
+3.1 Muster 2  3.1.1 Barcode Inhalt Muster 2a/E
+
+3.1.2 Barcode Inhalt Muster 2b/E
+
+3.2 Muster 3  3.2.1 Barcode Inhalt Muster 3a/E
+
+3.3 Muster 4  3.3.1 Barcode Inhalt Muster 4/E
+
+3.4 Muster 6  3.4.1 Barcode Inhalt Muster 6/E
+
+3.5 Muster 8  3.5.1 Barcode Inhalt Muster 8/E
+
+3.6 Muster 8A  3.6.1 Barcode Inhalt Muster 8A/E
+
+3.7 Muster 9  3.7.1 Barcode Inhalt Muster 9a/E
+
+3.8 Muster 10  3.8.1 Barcode Inhalt Muster 10/E
+
+3.8.2 Barcode Inhalt Muster 10L/E
+
+3.8.3 Barcode Inhalt Muster 10A/E
+
+3.9 Muster 11  3.9.1 Barcode Inhalt Muster 11/E
+
+3.10 Muster 12  3.10.1 Barcode Inhalt Muster 12a/E
+
+3.10.2 Barcode Inhalt Muster 12b/E
+
+3.10.3 Barcode Inhalt Muster 12c/E
+
+3.11 Muster 13  3.11.1 Barcode Inhalt Muster 13/E
 
 **9**
 
@@ -44,22 +94,134 @@
 
 ---
 
-3.12 Muster 15  3.12.1 Barcode Inhalt Muster 15.1/E  3.13 Muster 19  3.13.1 Barcode Inhalt Muster 19a/E  3.13.2 Barcode Inhalt Muster 19b/E  3.14 Muster 20  3.14.1 Barcode Inhalt Muster 20b/E  3.15 Muster 21  3.15.1 Barcode Inhalt Muster 21/E  3.16 Muster 25  3.16.1 Barcode Inhalt Muster 25/E  3.17 Muster 26  3.17.1 Barcode Inhalt Muster 26a/E  3.17.2 Barcode Inhalt Muster 26b/E  3.17.3 Barcode Inhalt Muster 26c/E  3.18 Muster 27  3.18.1 Barcode Inhalt Muster 27a/E  3.18.2 Barcode Inhalt Muster 27b/E  3.18.3 Barcode Inhalt Muster 27c/E  3.19 Muster 28  3.19.1 Barcode Inhalt Muster 28a/E  3.19.2 Barcode Inhalt Muster 28b/E  3.19.3 Barcode Inhalt Muster 28c/E  3.20 Muster 36  3.20.1 Barcode Inhalt Muster 36/E  3.21 Muster 39  3.21.1 Barcode Inhalt Muster 39a/E  3.21.2 Barcode Inhalt Muster 39b/E  3.22 Muster 50  3.22.1 Barcode Inhalt Muster 50.2/E  3.23 Muster 51  3.23.1 Barcode Inhalt Muster 51.2/E  3.24 Muster 52  3.24.1 Barcode Inhalt Muster 52.2/E  3.25 Muster 53  3.25.1 Barcode Inhalt Muster 53.2/E  3.26 Muster 55  3.26.1 Barcode Inhalt Muster 55/E  3.27 Muster 56  3.27.1 Barcode Inhalt Muster 56.2/E  3.28 Muster 61  3.28.1 Barcode Inhalt Muster 61Ab/E  3.28.2 Barcode Inhalt Muster 61Ea /E  3.29 Muster 62  3.29.1 Barcode Inhalt Muster 62Aa.1/E  3.29.2 Barcode Inhalt Muster 62Ba.1/E  3.30 Muster 63  3.30.1 Barcode Inhalt Muster 63a.1/E  3.30.2 Barcode Inhalt Muster 63b/E  3.30.3 Barcode Inhalt Muster 63c/E  3.30.4 Barcode Inhalt Muster 63d/E  3.31 Muster 64  3.31.1 Barcode Inhalt Muster 64/E
+3.12 Muster 15  3.12.1 Barcode Inhalt Muster 15.1/E
+
+3.13 Muster 19  3.13.1 Barcode Inhalt Muster 19a/E
+
+3.13.2 Barcode Inhalt Muster 19b/E
+
+3.14 Muster 20  3.14.1 Barcode Inhalt Muster 20b/E
+
+3.15 Muster 21  3.15.1 Barcode Inhalt Muster 21/E
+
+3.16 Muster 25  3.16.1 Barcode Inhalt Muster 25/E
+
+3.17 Muster 26  3.17.1 Barcode Inhalt Muster 26a/E
+
+3.17.2 Barcode Inhalt Muster 26b/E
+
+3.17.3 Barcode Inhalt Muster 26c/E
+
+3.18 Muster 27  3.18.1 Barcode Inhalt Muster 27a/E
+
+3.18.2 Barcode Inhalt Muster 27b/E
+
+3.18.3 Barcode Inhalt Muster 27c/E
+
+3.19 Muster 28  3.19.1 Barcode Inhalt Muster 28a/E
+
+3.19.2 Barcode Inhalt Muster 28b/E
+
+3.19.3 Barcode Inhalt Muster 28c/E
+
+3.20 Muster 36  3.20.1 Barcode Inhalt Muster 36/E
+
+3.21 Muster 39  3.21.1 Barcode Inhalt Muster 39a/E
+
+3.21.2 Barcode Inhalt Muster 39b/E
+
+3.22 Muster 50  3.22.1 Barcode Inhalt Muster 50.2/E
+
+3.23 Muster 51  3.23.1 Barcode Inhalt Muster 51.2/E
+
+3.24 Muster 52  3.24.1 Barcode Inhalt Muster 52.2/E
+
+3.25 Muster 53  3.25.1 Barcode Inhalt Muster 53.2/E
+
+3.26 Muster 55  3.26.1 Barcode Inhalt Muster 55/E
+
+3.27 Muster 56  3.27.1 Barcode Inhalt Muster 56.2/E
+
+3.28 Muster 61  3.28.1 Barcode Inhalt Muster 61Ab/E
+
+3.28.2 Barcode Inhalt Muster 61Ea /E
+
+3.29 Muster 62  3.29.1 Barcode Inhalt Muster 62Aa.1/E
+
+3.29.2 Barcode Inhalt Muster 62Ba.1/E
+
+3.30 Muster 63  3.30.1 Barcode Inhalt Muster 63a.1/E
+
+3.30.2 Barcode Inhalt Muster 63b/E
+
+3.30.3 Barcode Inhalt Muster 63c/E
+
+3.30.4 Barcode Inhalt Muster 63d/E
+
+3.31 Muster 64  3.31.1 Barcode Inhalt Muster 64/E
 
 61  61  62  62  63  65  65  66  66  67  67  68  68  69  70  71  71  72  73  74  74  75  76  77  77  78  78  82  86  86  87  87  88  88  89  89  90  90  91  91  92  92  93  94  94  95  96  96  97  98  99  100  100
 
 
 ---
 
-3.32 Muster 65  3.32.1 Barcode Inhalt Muster 65/E  3.33 Muster 70  3.33.1 Barcode Inhalt Muster 70a/E  3.33.2 Barcode Inhalt Muster 70b/E  3.34 Muster 70a  3.34.1 Barcode Inhalt Muster 70Aa/E  3.34.2 Barcode Inhalt Muster 70Ab/E
+3.32 Muster 65  3.32.1 Barcode Inhalt Muster 65/E
+
+3.33 Muster 70  3.33.1 Barcode Inhalt Muster 70a/E
+
+3.33.2 Barcode Inhalt Muster 70b/E
+
+3.34 Muster 70a  3.34.1 Barcode Inhalt Muster 70Aa/E
+
+3.34.2 Barcode Inhalt Muster 70Ab/E
 
 **4** **ANFORDERUNGSKATALOG BFB**
 
-4.1 Zielbestimmung  4.2 Erläuterung der Funktionsdarstellung  4.3 Erläuterung der Zulässige BFB-Formulare  4.4 Formulare als Druck-Dateien  4.5 Barcode PDF 417  4.6 Barcode-Lesegeräte  4.7 Sicherheitspapier  4.8 Änderungsdienst / Logistik  4.9 Bedruckungsvorgaben
+4.1 Zielbestimmung
+
+4.2 Erläuterung der Funktionsdarstellung
+
+4.3 Erläuterung der Zulässige BFB-Formulare
+
+4.4 Formulare als Druck-Dateien 4.5 Barcode PDF 417
+
+4.6 Barcode-Lesegeräte
+
+4.7 Sicherheitspapier
+
+4.8 Änderungsdienst / Logistik 4.9 Bedruckungsvorgaben
 
 **5** **TECHNISCHE GRUNDLAGEN DES PDF417**
 
-5.1 Aufbau eines PDF417-Symbols  5.1.1 Cluster  5.1.2 Start- und Stop-Muster  5.1.3 Reihenindikatoren  5.1.4 Füll-Codewort  5.1.5 Symbollängendeskriptor  5.1.6 Codewort-Symbol  5.2 Compaction Modes  5.2.1 Byte Compaction Mode  5.2.2 Numeric Compaction Mode  5.2.3 Text Compaction Mode  5.2.4 Fehlererkennung und Fehlerkorrektur  5.2.5 Berechnung der Koeffizienten der PDF417 Fehlerkorrektur 5.3 PDF417 in der Blankoformularbedruckung  5.4 Barcode-Inhalt  5.5 Technische Vorgaben  5.6 Anhang - technische Grundlagen des PDF417  5.6.1 Variablennamen  5.6.2 Zeichensatz ISO 8859-15  5.6.3 Zeichensatz PC437 (veraltet)  5.6.4 TC-Sub-Mode-Zeichensatz  5.6.5 Kodiertabelle von PDF417-Codewörtern
+5.1 Aufbau eines PDF417-Symbols  5.1.1 Cluster 5.1.2 Start- und Stop-Muster
+
+5.1.3 Reihenindikatoren
+
+5.1.4 Füll-Codewort
+
+5.1.5 Symbollängendeskriptor
+
+5.1.6 Codewort-Symbol
+
+5.2 Compaction Modes  5.2.1 Byte Compaction Mode 5.2.2 Numeric Compaction Mode
+
+5.2.3 Text Compaction Mode
+
+5.2.4 Fehlererkennung und Fehlerkorrektur
+
+5.2.5 Berechnung der Koeffizienten der PDF417 Fehlerkorrektur
+
+5.3 PDF417 in der Blankoformularbedruckung 5.4 Barcode-Inhalt
+
+5.5 Technische Vorgaben
+
+5.6 Anhang - technische Grundlagen des PDF417 5.6.1 Variablennamen
+
+5.6.2 Zeichensatz ISO 8859-15
+
+5.6.3 Zeichensatz PC437 (veraltet) 5.6.4 TC-Sub-Mode-Zeichensatz
+
+5.6.5 Kodiertabelle von PDF417-Codewörtern
 
 **6** **GLOSSAR**
 
@@ -85,7 +247,11 @@
 
 116
 
-118  -Codewörter 118  122  123  124  125  125  126  127  128  129
+118
+
+-Codewörter
+
+118  122  123  124  125  125  126  127  128  129
 
 **142**
 
@@ -100,9 +266,15 @@ Abbildung 1: Darstellung eines PDF417-Symbols  Abbildung 2: Aufbau des PDF417  A
 
 ## TABELLENVERZEICHNIS
 
-Tabelle 1: Wechsel zwischen den Modi  Tabelle 2: Übergänge der TC-Sub-Modes  Tabelle 3: Sicherheits-Level des PDF417  Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitslevel s=4 Tabelle 5: Barcode Inhalt 111  113  113
+Tabelle 1: Wechsel zwischen den Modi
 
-114  116  118  119  123
+Tabelle 2: Übergänge der TC-Sub-Modes  Tabelle 3: Sicherheits-Level des PDF417  Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitslevel s=4
+
+Tabelle 5: Barcode Inhalt 111  113  113
+
+114  116  118
+
+119  123
 
 
 ---
@@ -285,7 +457,9 @@ Anpassung von Kapitel 1
 
 vom 21.01.2020 (Version  4.53)
 
-Management-Pro- gramme Rheuma  Osteoporose
+Management-Pro- gramme Rheuma
+
+Osteoporose
 
 Anpassung des BMV-Ä  zur Blankoformularbe- druckung mit Tinten- strahldruckern
 
@@ -293,7 +467,9 @@ krafttretens der neuen  Heilmittel-Richtlinie des  G-BA auf den 01.01.2021  mit 
 
 **Seite**
 
-13, 14, 15,  16, 18, 19,  21, 24, 25, und  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70,  71, 72, 73,  74, 75, 76,  77, 78, 82,  86, 87, 88,  89, 90, 91,  92, 93, 96,  97, 98, 99,  100, 101,  102, 103,  104, 105  12, 108 9
+13, 14, 15,  16, 18, 19,  21, 24, 25,
+
+und  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70,  71, 72, 73,  74, 75, 76,  77, 78, 82,  86, 87, 88,  89, 90, 91,  92, 93, 96,  97, 98, 99,  100, 101,  102, 103,  104, 105  12, 108 9
 
 78, 82
 
@@ -341,19 +517,31 @@ Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019
 
 ---
 
-1
-
-## ÜBERSICHT
+1 ÜBERSICHT
 
 Blankoformularbedruckung bezeichnet die Formularerzeugung auf Blankoformularen in der Arztpraxis oder  dem Krankenhaus, wobei durch die Software sowohl das eigentliche Formular als auch der Formularinhalt  generiert wird.
 
 Muster 16 (Rezept) ist das einzige Formular, das ausschließlich unter Verwendung des konventionellen Vor- drucks (DIN A6 quer) bedruckt wird.
 
-Bei der Erzeugung vertragsärztlicher Formulare im Rahmen der Blankoformularbedruckung wird, sofern in  [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] vorgeschrieben, ein formularspezifischer Barcode generiert  und auf das Blankoformular gedruckt. Um die notwendige Genauigkeit des Barcodes für maschinelles Einle- sen zu garantieren, muss das Blankoformular entweder mit einem Laserdrucker oder einem Tintenstrahl- drucker erzeugt werden. Der Laserdrucker darf nicht im Modus „Eco Druck“ betrieben werden, weil dabei  weniger Toner aufgebracht wird und die maschinelle Lesbarkeit eingeschränkt ist. Der Tintenstrahldrucker  muss nach einem Prüfzeugnis der Papiertechnischen Stiftung (PTS) in Heidenau (früher der Bundesanstalt  für Materialforschung und -prüfung in Berlin) zur Herstellung von Urschriften von Urkunden geeignet sein.  Durch den Barcodeeinsatz bei der Blankoformularbedruckung werden direkt auf dem Formular lesbare In- formationen redundant in einem Barcode gespeichert und damit in maschinenlesbarer Form bereitgestellt Voraussetzung für das Erkennen des Barcodes ist der Einsatz von Barcode-Lesegeräten.
+Bei der Erzeugung vertragsärztlicher Formulare im Rahmen der Blankoformularbedruckung wird, sofern in  [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] vorgeschrieben, ein formularspezifischer Barcode generiert
 
-Das vorliegende Handbuch dient der Begleitung der technischen Umsetzung des Blankoformularbedruck- ungsverfahrens und ist zwingend in der jeweils gültigen Fassung durch die Anbieter entsprechender Soft- ware zu beachten.
+und auf das Blankoformular gedruckt. Um die notwendige Genauigkeit des Barcodes für maschinelles Einle- sen zu garantieren, muss das Blankoformular entweder mit einem Laserdrucker oder einem Tintenstrahl-
 
-Änderungen an diesem Handbuch sind zwischen den Vertragspartnern der Bundesmantelverträge abzu- stimmen und zu veröffentlichen. Dazu legen die Partner der Bundesmantelverträge im Rahmen der Bera- tung der Formularkommission die jeweils gültige Fassung des „Technischen Handbuchs Blankoformularbe- druckung“ fest.
+drucker erzeugt werden. Der Laserdrucker darf nicht im Modus „Eco Druck“ betrieben werden, weil dabei
+
+weniger Toner aufgebracht wird und die maschinelle Lesbarkeit eingeschränkt ist. Der Tintenstrahldrucker
+
+muss nach einem Prüfzeugnis der Papiertechnischen Stiftung (PTS) in Heidenau (früher der Bundesanstalt  für Materialforschung und -prüfung in Berlin) zur Herstellung von Urschriften von Urkunden geeignet sein.  Durch den Barcodeeinsatz bei der Blankoformularbedruckung werden direkt auf dem Formular lesbare In-
+
+formationen redundant in einem Barcode gespeichert und damit in maschinenlesbarer Form bereitgestellt Voraussetzung für das Erkennen des Barcodes ist der Einsatz von Barcode-Lesegeräten.
+
+Das vorliegende Handbuch dient der Begleitung der technischen Umsetzung des Blankoformularbedruck-
+
+ungsverfahrens und ist zwingend in der jeweils gültigen Fassung durch die Anbieter entsprechender Soft- ware zu beachten.
+
+Änderungen an diesem Handbuch sind zwischen den Vertragspartnern der Bundesmantelverträge abzu- stimmen und zu veröffentlichen. Dazu legen die Partner der Bundesmantelverträge im Rahmen der Bera- tung der Formularkommission die jeweils gültige Fassung des „Technischen Handbuchs Blankoformularbe-
+
+druckung“ fest.
 
 Anmerkungen zum „Technischen Handbuch Blankoformularbedruckung“
 
@@ -368,21 +556,23 @@ Im 5. Kapitel werden die technisch-mathematischen Grundlagen des im Blankoformul
 
 ---
 
-2
-
-## DATENSATZBESCHREIBUNG BARCODE
+2 DATENSATZBESCHREIBUNG BARCODE
 
 **2.1** **ALLGEMEINE INFORMATIONEN BARCODE**
 
 Der Inhalt eines Barcodes ist für die einzelnen Formulare und auch für einzelne Seiten des gleichen Formu- lars unterschiedlich. Der Barcode enthält nicht immer alle lesbaren Daten des Formulars, sondern in der  Regel nur einen Teil der aufgedruckten Informationen.
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teiles der aufgedruckten Da- ten. Der Formularcode gibt die vertraglich vereinbarte Formularkennzeichnung an, wobei die Formular- codeergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks des Formulars.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teiles der aufgedruckten Da- ten. Der Formularcode gibt die vertraglich vereinbarte Formularkennzeichnung an, wobei die Formular- codeergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte
+
+Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks des Formulars.
 
 Um den Barcode platzsparend generieren zu können, wird mit der Umstellung auf die Datenformate der  elektronischen Gesundheitskarte für den Barcode nur noch das dynamische Format verwendet. Die einzel- nen Datenfelder werden dabei mit dem Feldtrenner TAB getrennt.
 
 Zur besseren Systematik wurden zwei Standardbarcodes eingeführt, aus denen sich die gängigen Barcode- typen ableiten:
 
-Standardbarcode mit maximal 163 Zeichen   und  gekürzter Standardbarcode mit maximal 65 Zeichen.
+Standardbarcode mit maximal 163 Zeichen
+
+und  gekürzter Standardbarcode mit maximal 65 Zeichen.
 
 In der Regel weist jedes Formular mit Barcode den Standardbarcode oder den gekürzten Standardbarcode  auf. Diese werden ggf. durch formularspezifische Angaben im Barcode ergänzt.
 
@@ -398,12 +588,24 @@ Folgende Barcodetypen werden unterschieden: 1 = Standardbarcode
 
 **2.2** **SATZTABELLEN**
 
-Die laufende Nummer "Nr." der ersten Spalte einer Satztabelle ist nicht eindeutig und daher nicht mit den  Feldkennungen der xDT-Datensatzbeschreibungen zu verwechseln. So hat zum Beispiel bereits das Feld "Nr.  39" des Formulars Muster 10 (Abnahmezeit) eine andere Bedeutung als Feld "Nr. 39" des Formulars Muster  6/E (Diagnose/Verdachtsdiagnose).
+Die laufende Nummer "Nr." der ersten Spalte einer Satztabelle ist nicht eindeutig und daher nicht mit den  Feldkennungen der xDT-Datensatzbeschreibungen zu verwechseln. So hat zum Beispiel bereits das Feld "Nr.
+
+39" des Formulars Muster 10 (Abnahmezeit) eine andere Bedeutung als Feld "Nr. 39" des Formulars Muster
+
+6/E (Diagnose/Verdachtsdiagnose).
 
 | **FELDBEZEICHNUNG** | **FELDLÄNGE** | **TYP** | **ERLAUBTE INHALTE** |
 |---|---|---|---|
 
-NR. FORMAT/ BEMERKUNG Die Feldbezeichnung stellt die Bedeutung des Barcode-Inhaltes dar. Die Feldlänge entspricht der tatsächli- chen Länge des Datenfeldes. Felder mit einer variablen Feldlänge bis zu einem bestimmten Wert werden  mit einem vorangestellten „<=“ markiert.   Es existieren zwei Feldtypen: Typ "a" (= alphanumerisch) und Typ "n" (=numerisch).  Die Spalte "erlaubte Inhalte" benennt die Inhalte, die im Barcode des betreffenden Formulars codiert wer- den dürfen.  Die Spalte "Format/Bemerkung" erläutert z.B. die Bedeutung der erlaubten Inhalte oder es werden beson- dere Formatvorgaben dargestellt.  Die optionalen Spalten „KVDT Feld“ und „LDT Feld“ benennen die Kennung des KVDT- und LDT-Feldes, in  dem der Inhalt des Barcodefeldes bei der Abrechnung bzw. Labordatenkommunikation übertragen wird.
+Die Feldbezeichnung stellt die Bedeutung des Barcode-Inhaltes dar. Die Feldlänge entspricht der tatsächli-
+
+chen Länge des Datenfeldes. Felder mit einer variablen Feldlänge bis zu einem bestimmten Wert werden  mit einem vorangestellten „<=“ markiert.
+
+Es existieren zwei Feldtypen: Typ "a" (= alphanumerisch) und Typ "n" (=numerisch).
+
+Die Spalte "erlaubte Inhalte" benennt die Inhalte, die im Barcode des betreffenden Formulars codiert wer- den dürfen.  Die Spalte "Format/Bemerkung" erläutert z.B. die Bedeutung der erlaubten Inhalte oder es werden beson- dere Formatvorgaben dargestellt.  Die optionalen Spalten „KVDT Feld“ und „LDT Feld“ benennen die Kennung des KVDT- und LDT-Feldes, in
+
+NR. FORMAT/ BEMERKUNG dem der Inhalt des Barcodefeldes bei der Abrechnung bzw. Labordatenkommunikation übertragen wird.
 
 
 ---
@@ -422,13 +624,23 @@ Für die Erzeugung der Barcodes wird stets das dynamische Format verwendet. Das 
 
 Beispiel: Für das Feld „Vorname“ sind maximal 45 Zeichen vorgesehen. Wenn der Vorname des Versicher- ten nur 5 Zeichen lang ist, dann werden im Barcode nur diese 5 Zeichen codiert.
 
-Feldtrenner zwischen den Datenfeldern ist das TAB-Zeichen. Jedes Feld, auch wenn es keinen Inhalt hat,  muss mit einem TAB abgeschlossen werden. Das letzte Feld darf nicht mit einem TAB abgeschlossen wer- den.
+Feldtrenner zwischen den Datenfeldern ist das TAB-Zeichen. Jedes Feld, auch wenn es keinen Inhalt hat,
+
+muss mit einem TAB abgeschlossen werden. Das letzte Feld darf nicht mit einem TAB abgeschlossen wer- den.
 
 **2.5** **FORMATIERUNG VON ICD-DIAGNOSEDATEN**
 
 Bei der Bedruckung der Formulare mit einer Diagnoseverschlüsselung gem. ICD-10-SGB V gilt:
 
-1. Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge- druckt.  2. Beispiel: O26.83 G, O12.2 Z, S51.9 G L  3. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Code in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Code, Diagno- sesicherheit und Seitenlokalisation ist das "Leerzeichen".  4. Der Inhalt des Barcodes entspricht der Definition des Ausdruckes. Die Diagnosesicherheit (G, V, Z, A) und  / oder die Seitenlokalisation (R, L, B) erfolgt hinter jedem ICD-10-Code in der hier angegebenen Reihen- folge. Trennzeichen zwischen ICD-10-Code, Diagnosesicherheit und Seitenlokalisation ist das "Leerzei- chen". Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen in  den Barcode übertragen.
+1. Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge- druckt.  2. Beispiel: O26.83 G, O12.2 Z, S51.9 G L
+
+3. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Code in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Code, Diagno-
+
+sesicherheit und Seitenlokalisation ist das "Leerzeichen".
+
+4. Der Inhalt des Barcodes entspricht der Definition des Ausdruckes. Die Diagnosesicherheit (G, V, Z, A) und  / oder die Seitenlokalisation (R, L, B) erfolgt hinter jedem ICD-10-Code in der hier angegebenen Reihen-
+
+folge. Trennzeichen zwischen ICD-10-Code, Diagnosesicherheit und Seitenlokalisation ist das "Leerzei- chen". Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen in  den Barcode übertragen.
 
 **2.6** **POSITIONIERUNG / AUFDRUCK DES BARCODES**
 
@@ -436,18 +648,44 @@ Der Barcode wird in der Regel unter Beachtung der in Kapitel 5 definierten Ruhez
 
 Ausnahmen:
 
-a) Auf den Mustern 8 „Sehhilfenverordnung“ und 8A „Verordnung von vergrößernden Sehhilfen“ wird  der Barcode in den freien Bereich rechts neben dem Arztstempel positioniert.  b) Bei Muster 56 „Antrag auf Kostenübernahme“ wird der Barcode auf Seite 2 in den freien Bereich  über dem Kassenstempel positioniert.  c) Bei Muster 20b/c „Stufenweise Wiedereingliederung in das Erwerbsleben (Wiedereingliederungs- plan)“ wird der Barcode in den freien Bereich links direkt neben dem Vertragsarztstempel positio- niert.  d) Bei Muster 10A „Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaft“ wird  der Barcode rechts in den freien Bereich unter ggf. Kennziffer und Geschlecht positioniert.  e) Bei Muster 39 „Krebsfrüherkennung Zervix Karzinom“ wird der Barcode in den freien Bereich links  direkt neben dem Vertragsarztstempel / Unterschrift des Arztes positioniert.
+a) Auf den Mustern 8 „Sehhilfenverordnung“ und 8A „Verordnung von vergrößernden Sehhilfen“ wird
+
+der Barcode in den freien Bereich rechts neben dem Arztstempel positioniert.
+
+b) Bei Muster 56 „Antrag auf Kostenübernahme“ wird der Barcode auf Seite 2 in den freien Bereich  über dem Kassenstempel positioniert.
+
+c) Bei Muster 20b/c „Stufenweise Wiedereingliederung in das Erwerbsleben (Wiedereingliederungs- plan)“ wird der Barcode in den freien Bereich links direkt neben dem Vertragsarztstempel positio- niert.  d) Bei Muster 10A „Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaft“ wird  der Barcode rechts in den freien Bereich unter ggf. Kennziffer und Geschlecht positioniert.
+
+e) Bei Muster 39 „Krebsfrüherkennung Zervix Karzinom“ wird der Barcode in den freien Bereich links
+
+direkt neben dem Vertragsarztstempel / Unterschrift des Arztes positioniert.
 
 
 ---
 
-f) Bei Muster 4 ist der Barcode auch aufzudrucken, falls der zur Verfügung stehende freie Bereich direkt  über dem Feld für den Arztstempel nicht ausreicht.  g) Bei Muster 13 „Heilmittelverordnung“ ist der Barcode auch aufzudrucken, falls der zur Verfügung ste- hende freie Bereich direkt über dem Feld für den Arztstempel nicht ausreicht.
+f) Bei Muster 4 ist der Barcode auch aufzudrucken, falls der zur Verfügung stehende freie Bereich direkt  über dem Feld für den Arztstempel nicht ausreicht.
+
+g) Bei Muster 13 „Heilmittelverordnung“ ist der Barcode auch aufzudrucken, falls der zur Verfügung ste-
+
+hende freie Bereich direkt über dem Feld für den Arztstempel nicht ausreicht.
 
 **2.7** **POSITIONIERUNG /AUFBAU DER PRÜFNUMMER**
 
 Der Aufbau der gültigen Prüfnummernsystematik der KBV definiert sich nach folgendem Schema:
 
-A N(NN) JJMM NN NNN       Softwareklasse Komponente Zert.-Zeitpunkt Gültigkeit System-Ident
+A
+
+N(NN)
+
+JJMM
+
+NN
+
+NNN
+
+Softwareklasse Komponente Zert.-Zeitpunkt Gültigkeit
+
+System-Ident
 
 Die insgesamt bis zu 17-stellige Prüfnummer ist auf allen Formularen in die Fußzeile (in der dafür vorgese- henen Position) zu drucken.
 
@@ -455,11 +693,15 @@ Für das Entlassmanagement vergibt die Deutsche Krankenhausgesellschaft (DKG) Pr
 
 **2.8** **BEDRUCKUNG DER FORMULARE**
 
-Die Bedruckung des Personalienfeldes und des verkürzten Personalienfelds erfolgt in der Schriftart Courier  oder Courier New in der Größe 10 Zeichen/Zoll (12pt.). Eine Änderung der Zeichengröße im Personalienfeld  und verkürzten Personalienfeld über die Software darf nicht möglich sein.
+Die Bedruckung des Personalienfeldes und des verkürzten Personalienfelds erfolgt in der Schriftart Courier
+
+oder Courier New in der Größe 10 Zeichen/Zoll (12pt.). Eine Änderung der Zeichengröße im Personalienfeld  und verkürzten Personalienfeld über die Software darf nicht möglich sein.
 
 Bei den restlichen Formularinhalten kann die Schriftgröße aus Platzgründen kleiner gewählt werden (vor- zugsweise 10pt). Markierungsstriche, wie sie zum Beispiel auf Muster 10A verwendet werden, sollten min- destens eine Stärke von 0,4 mm haben und durchgehend gedruckt sein.
 
-Für die Prüfnummer muss Arial Größe 5pt verwendet werden; der Vertragsarztstempel ist dagegen frei ge- staltbar.
+Für die Prüfnummer muss Arial Größe 5pt verwendet werden; der Vertragsarztstempel ist dagegen frei ge-
+
+staltbar.
 
 **2.9** **AUSDRUCK VON DURCHSCHLÄGEN ZUM VERBLEIB IN DER ARZTPRAXIS**
 
@@ -473,7 +715,9 @@ Für den Ausdruck als auch für die in den Barcode zu codierenden Nutzdaten wird
 
 **2.11** **STANDARDBARCODES**
 
-Bei der Generierung des Barcodes ist, ebenso wie bei der Bedruckung des Personalienfeldes und des ver- kürzten Personalienfelds, das geltende KVDT-Referenz-Format entsprechend der Technischen Anlage zu  Anlage 4a (BMV-Ä) zu verwenden.
+Bei der Generierung des Barcodes ist, ebenso wie bei der Bedruckung des Personalienfeldes und des ver-
+
+kürzten Personalienfelds, das geltende KVDT-Referenz-Format entsprechend der Technischen Anlage zu  Anlage 4a (BMV-Ä) zu verwenden.
 
 Falls die Versichertendaten von einer KVK eingelesen werden, beispielsweise, weil der Versicherte über ei- nen „Sonstigen Kostenträger“ versichert ist, so müssen die Daten der KVK gemäß Abschnitt 2.2.2.1 der  Technischen Anlage zu Anlage 4a (BMV-Ä) in das geltende KVDT-Referenz-Format transformiert werden.
 
@@ -1663,7 +1907,11 @@ Format : JJJJMMTT 1 = angekreuzt
 
 **3.78 + TABS**
 
-**ERLAUBTE IN- FORMAT/ BEMERKUNG**  **HALTE**
+**ERLAUBTE IN-**
+
+**FORMAT/ BEMERKUNG**
+
+**HALTE**
 
 1 = angekreuzt
 
@@ -2081,7 +2329,9 @@ a
 
 n
 
-n 1 n
+n 1
+
+n
 
 <=140 a
 
@@ -2822,7 +3072,9 @@ Format : JJJJMMTT 1 = angekreuzt
 
 1
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 10
 
@@ -2848,9 +3100,13 @@ n
 
 a
 
-n 1,3,5 00, 04, 06,  n  07, 08, 09
+n 1,3,5 00, 04, 06,
 
-Siehe Stan- n dardbar- code-Typ 1
+n  07, 08, 09
+
+Siehe Stan-
+
+n dardbar- code-Typ 1
 
 n
 
@@ -2876,7 +3132,9 @@ JJJJMMTT
 
 Entsprechend der Be- druckung im Personalien- feld
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 8310
 
@@ -3112,7 +3370,9 @@ JJJJMMTT
 
 hhmm
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 3104
 
@@ -3213,7 +3473,9 @@ a
 
 a
 
-a 1 n
+a 1
+
+n
 
 **100.2 + TABS**
 
@@ -3380,7 +3642,9 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 1
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 10
 
@@ -3406,9 +3670,13 @@ n
 
 a
 
-n 1,3,5 00, 04, 06,  n  07, 08, 09
+n 1,3,5 00, 04, 06,
 
-Siehe Stan- n dardbar- code-Typ 1
+n  07, 08, 09
+
+Siehe Stan-
+
+n dardbar- code-Typ 1
 
 n
 
@@ -3440,7 +3708,9 @@ W=weiblich
 
 X=unbestimmt
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 8310
 
@@ -3689,7 +3959,9 @@ hhmm 1=ja
 
 1=ja
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 3104
 
@@ -3729,7 +4001,9 @@ hhmm 1=ja
 
 8501
 
-8611  =1
+8611
+
+=1
 
 
 ---
@@ -3804,7 +4078,9 @@ a
 
 a
 
-a 1 n
+a 1
+
+n
 
 **100.2 + TABS**
 
@@ -4098,7 +4374,9 @@ M=männlich  W=weiblich  X=unbestimmt  D=divers
 
 NN
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 8310
 
@@ -4372,7 +4650,9 @@ NN
 
 **TYP 3**
 
-**KVDT LDT-** **-FELD** **FELD**
+**KVDT LDT-**
+
+**-FELD** **FELD**
 
 3120
 
@@ -4406,7 +4686,9 @@ NN
 
 4209
 
-8434/  8410
+8434/
+
+8410
 
 
 ---
@@ -4417,13 +4699,19 @@ Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des 
 
 Die Abrechnungsdiagnose, welche auf Muster 10A anzugeben ist, ist im KVDT Falls im Freitextfeld ein weiterer Auftrag definiert wird, ist dieser im Feld 4205 zu übertragen.
 
-Die Auftragsfelder ab lfd. Feldnummer 39 sind im Barcode generisch zu implementieren. Das bedeutet, dass  nicht insgesamt 60 Tabs als Abschluss eines ggf. leeren Auftragsfeldes in den Barcode aufzunehmen sind,  sondern die n mit n  {1, …, 6.4} auf dem Papier vermerkten Auftragsfelder direkt hintereinander mit dem  Wert des jeweils angekreuzten Auftragsfeldes und Tab
+Die Auftragsfelder ab lfd. Feldnummer 39 sind im Barcode generisch zu implementieren. Das bedeutet, dass  nicht insgesamt 60 Tabs als Abschluss eines ggf. leeren Auftragsfeldes in den Barcode aufzunehmen sind,  sondern die n mit n  {1, …, 6.4} auf dem Papier vermerkten Auftragsfelder direkt hintereinander mit dem
+
+Wert des jeweils angekreuzten Auftragsfeldes und Tab
 
 **Beispiel:**
 
 Es wurden die Auftragsfelder
 
-kleines Blutbild (Auftrags-Feld Nr. 3)  Blutsenkung (Auftrags-Feld Nr. 6)  CRP    (Auftrags-Feld Nr. 23)
+kleines Blutbild (Auftrags-Feld Nr. 3)
+
+Blutsenkung (Auftrags-Feld Nr. 6)
+
+CRP    (Auftrags-Feld Nr. 23)
 
 angekreuzt.
 
@@ -4709,7 +4997,9 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 1
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 12
 
@@ -4894,43 +5184,77 @@ Format: JJMMTT 1 = angekreuzt
 
 4
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+**INHALTE**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+n
+
+Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
 
 n 1 1= angekreuzt
 
-n 1 1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
+n 1
 
-a i, s, a i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
+1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+a i, s, a
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+n
 
-n  Format: MMTT
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Format: MMTT
 
 
 ---
@@ -5050,7 +5374,9 @@ n  Format: MMTT
 | n |  |  |
 | n |  |  |
 
-**ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
@@ -5177,17 +5503,25 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 | n |  |  |
 | n |  |  |
 
-**Stützende und stabilisierende** 1  **Verbände**
+**Stützende und stabilisierende** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Stützverbände)**
+**Verbände**
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
 
 **bände)**
 
-**Häufigkeit wöchentlich (Stütz-** 2  **verbände)**
+**Häufigkeit wöchentlich (Stütz-** 2
 
-**Häufigkeit monatlich (Stützver-** 2  **bände)**
+**verbände)**
+
+**Häufigkeit monatlich (Stützver-** 2
+
+**bände)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -5322,39 +5656,69 @@ ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 5
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+**INHALTE**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+n
 
-n 1 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-n 1 1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n 1
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n 1 1 = angekreuzt
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+a xxxxx
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
 
 ---
@@ -5420,13 +5784,21 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 | n |  |  |
 | n |  |  |
 
-**Unterstützungspflege/** 1  **Krankenhausvermeidungs-**
+**Unterstützungspflege/**
+
+1
+
+**Krankenhausvermeidungs-**
 
 **pflege**
 
-**Grundpflege** 1
+**Grundpflege**
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Grundpflege)**
+1
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
@@ -5444,17 +5816,29 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 
 **Hauswirtschaftliche Versorgung** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Hauswirtschaftliche**  **Versorgung)**
+**Häufigkeit/Dauer von Pflege-** 1
 
-**Häufigkeit täglich (Hauswirt-** 2  **schaftliche Versorgung)**
+**fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
-**Häufigkeit wöchentlich (Haus-** 2  **wirtschaftliche Versorgung)**
+**Häufigkeit täglich (Hauswirt-** 2
 
-**Häufigkeit monatlich (Hauswirt-** 2  **schaftliche Versorgung)**
+**schaftliche Versorgung)**
 
-**Zeitraum von (Hauswirtschaftli-** 4  **che Versorgung)**
+**Häufigkeit wöchentlich (Haus-** 2
 
-**Zeitraum bis (Hauswirtschaftli-** 4  **che Versorgung)**
+**wirtschaftliche Versorgung)**
+
+**Häufigkeit monatlich (Hauswirt-** 2
+
+**schaftliche Versorgung)**
+
+**Zeitraum von (Hauswirtschaftli-** 4
+
+**che Versorgung)**
+
+**Zeitraum bis (Hauswirtschaftli-** 4
+
+**che Versorgung)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -5493,7 +5877,9 @@ ERLAUBTE INHALTE xxxxx u, k Format: MMTT  Nur zu befüllen wenn Feld 96  und nic
 
 **HINWEIS**
 
-Die Felder 86 und 87 dienen dazu anzuzeigen, dass diese Felder Inhalt besitzen. Zu diesem Zweck sollen die  ersten 5 Zeichen des vom Arzt eingetragenen Fließtextes in den Barcode übernommen. Aus Platzgründen  kann der Inhalt dieser Felder nicht vollständig in den Barcode codiert werden.
+Die Felder 86 und 87 dienen dazu anzuzeigen, dass diese Felder Inhalt besitzen. Zu diesem Zweck sollen die
+
+ersten 5 Zeichen des vom Arzt eingetragenen Fließtextes in den Barcode übernommen. Aus Platzgründen  kann der Inhalt dieser Felder nicht vollständig in den Barcode codiert werden.
 
 Für die Ausdrucke der Formulare gelten die folgenden Datumsformate abweichend vom Barcode:
 
@@ -5638,7 +6024,9 @@ Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT 
 
 1
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 12
 
@@ -5823,43 +6211,77 @@ Format: JJMMTT 1 = angekreuzt
 
 4
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+**INHALTE**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+n
+
+Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
 
 n 1 1= angekreuzt
 
-n 1 1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
+n 1
 
-a i, s, a i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
+1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+a i, s, a
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+n
 
-n  Format: MMTT
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Format: MMTT
 
 
 ---
@@ -5979,7 +6401,9 @@ n  Format: MMTT
 | n |  |  |
 | n |  |  |
 
-**ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
@@ -6106,17 +6530,25 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 | n |  |  |
 | n |  |  |
 
-**Stützende und stabilisierende** 1  **Verbände**
+**Stützende und stabilisierende** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Stützverbände)**
+**Verbände**
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
 
 **bände)**
 
-**Häufigkeit wöchentlich (Stütz-** 2  **verbände)**
+**Häufigkeit wöchentlich (Stütz-** 2
 
-**Häufigkeit monatlich (Stützver-** 2  **bände)**
+**verbände)**
+
+**Häufigkeit monatlich (Stützver-** 2
+
+**bände)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -6251,39 +6683,69 @@ ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 5
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+**INHALTE**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+n
 
-n 1 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-n 1 1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n 1
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n 1 1 = angekreuzt
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+a xxxxx
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
 
 ---
@@ -6349,13 +6811,21 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 | n |  |  |
 | n |  |  |
 
-**Unterstützungspflege/** 1  **Krankenhausvermeidungs-**
+**Unterstützungspflege/**
+
+1
+
+**Krankenhausvermeidungs-**
 
 **pflege**
 
-**Grundpflege** 1
+**Grundpflege**
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Grundpflege)**
+1
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
@@ -6373,17 +6843,29 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 
 **Hauswirtschaftliche Versorgung** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Hauswirtschaftliche**  **Versorgung)**
+**Häufigkeit/Dauer von Pflege-** 1
 
-**Häufigkeit täglich (Hauswirt-** 2  **schaftliche Versorgung)**
+**fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
-**Häufigkeit wöchentlich (Haus-** 2  **wirtschaftliche Versorgung)**
+**Häufigkeit täglich (Hauswirt-** 2
 
-**Häufigkeit monatlich (Hauswirt-** 2  **schaftliche Versorgung)**
+**schaftliche Versorgung)**
 
-**Zeitraum von (Hauswirtschaftli-** 4  **che Versorgung)**
+**Häufigkeit wöchentlich (Haus-** 2
 
-**Zeitraum bis (Hauswirtschaftli-** 4  **che Versorgung)**
+**wirtschaftliche Versorgung)**
+
+**Häufigkeit monatlich (Hauswirt-** 2
+
+**schaftliche Versorgung)**
+
+**Zeitraum von (Hauswirtschaftli-** 4
+
+**che Versorgung)**
+
+**Zeitraum bis (Hauswirtschaftli-** 4
+
+**che Versorgung)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -6569,7 +7051,9 @@ Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT 
 
 1
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 n 12
 
@@ -6754,43 +7238,77 @@ Format: JJMMTT 1 = angekreuzt
 
 4
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+**INHALTE**
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 22  befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Nur zu befüllen wenn Feld 28  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+Nur zu befüllen wenn Feld 28  befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+n
+
+Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 28  befüllt ist
 
 n 1 1= angekreuzt
 
-n 1 1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
+n 1
 
-a i, s, a i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
+1= angekreuzt  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+a i, s, a
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+i = intramuskulär  s = subkutan  a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34  befüllt ist
 
-n  Nur zu befüllen wenn Feld 34  befüllt ist
+n
 
-n  Format: MMTT
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 34  befüllt ist
+
+n
+
+Format: MMTT
 
 
 ---
@@ -6910,7 +7428,9 @@ n  Format: MMTT
 | n |  |  |
 | n |  |  |
 
-**ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
@@ -7037,17 +7557,25 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 | n |  |  |
 | n |  |  |
 
-**Stützende und stabilisierende** 1  **Verbände**
+**Stützende und stabilisierende** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Stützverbände)**
+**Verbände**
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
 
 **bände)**
 
-**Häufigkeit wöchentlich (Stütz-** 2  **verbände)**
+**Häufigkeit wöchentlich (Stütz-** 2
 
-**Häufigkeit monatlich (Stützver-** 2  **bände)**
+**verbände)**
+
+**Häufigkeit monatlich (Stützver-** 2
+
+**bände)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -7182,39 +7710,69 @@ ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 5
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG**  **INHALTE**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+**INHALTE**
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+n
 
-n 1 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-n 1 1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
+n
 
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
-
-n  Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 n 1 1 = angekreuzt
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n 1
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+1 = angekreuzt  Nur zu befüllen wenn Feld 73  befüllt ist
 
-n  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
 
-n  Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+n
 
-a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 73  und nicht Feld 74 befüllt ist
+
+n 1 1 = angekreuzt
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+n
+
+Format: MMTT  Nur zu befüllen wenn Feld 80  befüllt ist
+
+a xxxxx
+
+Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
 
 ---
@@ -7280,13 +7838,21 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 | n |  |  |
 | n |  |  |
 
-**Unterstützungspflege/** 1  **Krankenhausvermeidungs-**
+**Unterstützungspflege/**
+
+1
+
+**Krankenhausvermeidungs-**
 
 **pflege**
 
-**Grundpflege** 1
+**Grundpflege**
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Grundpflege)**
+1
+
+**Häufigkeit/Dauer von Pflege-** 1
+
+**fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
@@ -7304,17 +7870,29 @@ a xxxxx Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die e
 
 **Hauswirtschaftliche Versorgung** 1
 
-**Häufigkeit/Dauer von Pflege-** 1  **fachkraft (Hauswirtschaftliche**  **Versorgung)**
+**Häufigkeit/Dauer von Pflege-** 1
 
-**Häufigkeit täglich (Hauswirt-** 2  **schaftliche Versorgung)**
+**fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
-**Häufigkeit wöchentlich (Haus-** 2  **wirtschaftliche Versorgung)**
+**Häufigkeit täglich (Hauswirt-** 2
 
-**Häufigkeit monatlich (Hauswirt-** 2  **schaftliche Versorgung)**
+**schaftliche Versorgung)**
 
-**Zeitraum von (Hauswirtschaftli-** 4  **che Versorgung)**
+**Häufigkeit wöchentlich (Haus-** 2
 
-**Zeitraum bis (Hauswirtschaftli-** 4  **che Versorgung)**
+**wirtschaftliche Versorgung)**
+
+**Häufigkeit monatlich (Hauswirt-** 2
+
+**schaftliche Versorgung)**
+
+**Zeitraum von (Hauswirtschaftli-** 4
+
+**che Versorgung)**
+
+**Zeitraum bis (Hauswirtschaftli-** 4
+
+**che Versorgung)**
 
 **FORMAT/ BEMERKUNG**
 
@@ -10203,7 +10781,9 @@ Entsprechend der Be- druckung im Personalien- feld
 
 JJJJMMTT
 
-**KVDT- LDT-** **FELD** **FELD**
+**KVDT- LDT-**
+
+**FELD** **FELD**
 
 8310
 
@@ -10346,7 +10926,9 @@ n 1, 2, 3
 
 a P, A
 
-Zyto, HPV,  a  KoTest
+Zyto, HPV,
+
+a  KoTest
 
 n 0, 1
 
@@ -10372,7 +10954,9 @@ Zyto = zytologische Unter- suchung  HPV = HPV-Test  KoTest = Ko-Test 0=nein
 
 JJMM  JJ (die letzten beiden Stel- len der Jahresangabe)  MM (die Angabe des Mo- nates)
 
-**KVDT- LDT-** **FELD** **FELD**
+**KVDT- LDT-**
+
+**FELD** **FELD**
 
 3107
 
@@ -10427,13 +11011,17 @@ JJMM  JJ (die letzten beiden Stel- len der Jahresangabe)  MM (die Angabe des Mo-
 
 **TYP ERLAUBTE**  **INHALTE**
 
-0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III- <=5 a g, III-e, III-x,  IVa, IVa-p,  IVa-g, IVb,  IVb-p, IVb- g, V, V-p, V- g, V-e, V-x 1 n 1, 2, 3, 9
+0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III-
 
-1 n 0, 1
+<=5 a g, III-e, III-x,  IVa, IVa-p,  IVa-g, IVb,  IVb-p, IVb- g, V, V-p, V- g, V-e, V-x 1
 
-1 n 1, 2, 3
+n 1, 2, 3, 9 1
 
-1 n 0, 1
+n 0, 1 1
+
+n 1, 2, 3 1
+
+n 0, 1
 
 **FORMAT/ BEMERKUNG**
 
@@ -10538,7 +11126,9 @@ I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V
 
 <=240
 
-**TYP ERLAUBTE**  **INHALTE**
+**TYP ERLAUBTE**
+
+**INHALTE**
 
 a
 
@@ -10847,7 +11437,9 @@ Entsprechend der Be- druckung im Personalien- feld
 
 JJJJMMTT
 
-**KVDT- LDT-** **FELD** **FELD**
+**KVDT- LDT-**
+
+**FELD** **FELD**
 
 8310
 
@@ -10984,13 +11576,17 @@ n 1, 2, 3
 
 a P, A
 
-Zyto, HPV,  a  KoTest
+Zyto, HPV,
+
+a  KoTest
 
 n 0, 1
 
 n
 
-0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III- a g, III-e, III-x,  IVa, IVa-p,  IVa-g, IVb,  IVb-p, IVb- g, V, V-p, V- g, V-e, V-x
+0, I, II, I/II, I- II, II-a, IIw,  IIk, II-p, II-g,  II-e, IIID,  IIID1, IIID2,  III, III-p, III-
+
+a g, III-e, III-x,  IVa, IVa-p,  IVa-g, IVb,  IVb-p, IVb- g, V, V-p, V- g, V-e, V-x
 
 **FORMAT/ BEMERKUNG**
 
@@ -11107,7 +11703,11 @@ IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung
 
 1
 
-**TYP ERLAUBTE FORMAT/ BEMERKUNG** **KVDT- LDT-** **INHALTE FELD** **FELD**
+**TYP ERLAUBTE FORMAT/ BEMERKUNG** **KVDT- LDT-**
+
+**INHALTE**
+
+**FELD** **FELD**
 
 IVa-p, IVa-g, IVb-p, IVb-g =  Unmittelbare Vorstufen  des Zervixkarzinoms
 
@@ -11117,19 +11717,55 @@ Die folgenden Werte der  Münchener Nomenklatur  II dürfen nur für Befunde  bi
 
 I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V
 
-1=vollständig  2=unvollständig  n 1, 2, 3, 9  3313  3=keine  9=unklar
+1=vollständig  2=unvollständig
 
-0=liegt nicht vor  n 0, 1  3314  1=liegt vor
+n 1, 2, 3, 9 3313
 
-1=positiv  n 1, 2, 3  3316 2=negativ  3=nicht verwertbar 0=nein  n 0, 1  7336  1=ja
+3=keine  9=unklar
 
-a  Freitext  7337
+0=liegt nicht vor
 
-JJJJMMTT  zusätzlicher Wertebe- n   7338  reich:  JJJJMM00, JJJJ0000
+n 0, 1 3314
 
-JJJJMMTT  zusätzlicher Wertebe- n   8512  reich:  JJJJMM00, JJJJ0000 0=nein  n 0, 1  7339  1=ja
+1=liegt vor
 
-0=nein  n 0, 1  7380  1=ja
+1=positiv
+
+n 1, 2, 3 3316
+
+2=negativ  3=nicht verwertbar
+
+0=nein
+
+n 0, 1 7336
+
+1=ja
+
+a
+
+Freitext 7337
+
+JJJJMMTT  zusätzlicher Wertebe-
+
+n 7338
+
+reich:  JJJJMM00, JJJJ0000
+
+JJJJMMTT  zusätzlicher Wertebe-
+
+n 8512
+
+reich:  JJJJMM00, JJJJ0000 0=nein
+
+n 0, 1 7339
+
+1=ja
+
+0=nein
+
+n 0, 1 7380
+
+1=ja
 
 
 ---
@@ -13767,9 +14403,7 @@ Nr. des Musters für die KV Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJ
 
 ---
 
-4
-
-## ANFORDERUNGSKATALOG BFB
+4 ANFORDERUNGSKATALOG BFB
 
 **4.1** **ZIELBESTIMMUNG**
 
@@ -13781,9 +14415,13 @@ Software, die die Blankoformularbedruckung unterstützt, muss vor ihrem Einsatz 
 
 **4.2** **ERLÄUTERUNG DER FUNKTIONSDARSTELLUNG**
 
-Es kann Pflichtfunktionen, konditionale Pflichtfunktionen und optionale Funktionen geben. Pflichtfunktio- nen müssen in der Anwendungssoftware implementiert sein. Konditionale Pflichtfunktionen müssen imple- mentiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind.  können implementiert werden, wenn alle genannten Bedingungen entsprechend realisiert werden.
+Es kann Pflichtfunktionen, konditionale Pflichtfunktionen und optionale Funktionen geben. Pflichtfunktio- nen müssen in der Anwendungssoftware implementiert sein. Konditionale Pflichtfunktionen müssen imple-
 
-Die Realisierung aller Pflichtfunktionen, der konditionalen Pflichtfunktionen tionalen Funktionen ist im Rahmen des Begutachtungsverfahrens nachzuweisen
+mentiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind.  können implementiert werden, wenn alle genannten Bedingungen entsprechend realisiert werden.
+
+Die Realisierung aller Pflichtfunktionen, der konditionalen Pflichtfunktionen
+
+tionalen Funktionen ist im Rahmen des Begutachtungsverfahrens nachzuweisen
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
@@ -13815,7 +14453,9 @@ Ident-Nummer einer optionalen Funktion
 
 **P4.2-10 Verwendung zulässiger BFB-Formulare**
 
-Im Rahmen der Blankoformularbedruckung dürfen nur die in der Vordruck bedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] bezeichneten Formulare verwendet werden. Die  für das jeweilige Formular in Blankoformularbedruckung zu nutzende Papiergröße ist in der „Vordruck einbarung Blankoformularbedruckung“ zu jedem Muster festgelegt.
+Im Rahmen der Blankoformularbedruckung dürfen nur die in der Vordruck bedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] bezeichneten Formulare verwendet werden. Die
+
+für das jeweilige Formular in Blankoformularbedruckung zu nutzende Papiergröße ist in der „Vordruck einbarung Blankoformularbedruckung“ zu jedem Muster festgelegt.
 
 Formulare im Rahmen der Blankofor-
 
@@ -13836,7 +14476,9 @@ Die KBV stellt alle neuen oder aktualisierten in der Vordruckvereinbarung bezeic
 
 **4.5** **BARCODE PDF 417**
 
-Bei der Erzeugung zulässiger BFB-Formulare muss der „Barcode PDF 417“ eingesetzt und an vorgegebener  Stelle (vgl. Vordruck-Vereinbarung Blankoformularbedruckung) gedruckt werden.
+Bei der Erzeugung zulässiger BFB-Formulare muss der „Barcode PDF 417“ eingesetzt und an vorgegebener
+
+Stelle (vgl. Vordruck-Vereinbarung Blankoformularbedruckung) gedruckt werden.
 
 Die technischen Details, Aufbau und Inhalt des zweidimensionalen Barcodes PDF 417 sind in diesem Hand- buch erläutert. Auf dieser Grundlage kann der/die Softwareverantwortliche die Software zur PDF417 code-Erzeugung selbst erstellen. Auf dem Markt existie stützt.
 
@@ -13860,7 +14502,9 @@ Mit einem Update zu den vertragsärztlichen Formularen muss der Softwareverantwo
 
 **4.9** **BEDRUCKUNGSVORGABEN**
 
-Die Bedruckungsvorgaben beziehen sich auf vertragsärztliche BFB formularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrestriktionen  1gemäß Vorgaben der Bundesmantelverträge .
+Die Bedruckungsvorgaben beziehen sich auf vertragsärztliche BFB formularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrestriktionen  1
+
+gemäß Vorgaben der Bundesmantelverträge .
 
 **PFLICHTFUNKTION BFB**
 
@@ -13897,15 +14541,25 @@ Die Software muss für den Blankoformulardruck der unterstützten Muster die Vor
 
 Der Anforderungskatalog Formularbedruckung definiert Anforderungen zum korrekten Gebrauch und Aus- druck vertragsärztlicher Formulare.
 
-**Akzeptanzkriterium:** Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal- tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskatalog_Formularbe- druckung] für die unterstützten Muster definierten Anforderungen.
+**Akzeptanzkriterium:** Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal-
+
+tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskatalog_Formularbe-
+
+druckung] für die unterstützten Muster definierten Anforderungen.
 
 **PFLICHTFUNKTION BFB**
 
 **P4.8-20 Ausdruck eines Blankoformulars mit Bewegungsdaten**
 
-Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei unterschiedlichen Varianten  unterstützen:
+Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei unterschiedlichen Varianten
 
-Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) und beliebigen formularspezifischen Daten  Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) ohne formularspezifische Daten   Ausdruck des BFB-Formulars ohne personenbezogene Daten (Daten des Personalienfelds oder verkürz- ten Personalienfelds) und ohne formularspezifische Daten
+unterstützen:
+
+Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) und beliebigen formularspezifischen Daten
+
+Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) ohne formularspezifische Daten
+
+Ausdruck des BFB-Formulars ohne personenbezogene Daten (Daten des Personalienfelds oder verkürz- ten Personalienfelds) und ohne formularspezifische Daten
 
 **Begründung:**
 
@@ -13913,15 +14567,33 @@ Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzud
 
 **Akzeptanzkriterium:**
 
-1. Die Software ermöglicht den Ausdruck eines BFB-Formulars mit den zulässigen personenbezogenen und  optional beliebigen formularspezifischen Daten.  2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten- träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.  3. Insbesondere gilt für BFB-Formulare mit einem Personalienfeld oder verkürzten Personalienfeld bei der  Bedruckung der Versichertendaten:
+1. Die Software ermöglicht den Ausdruck eines BFB-Formulars mit den zulässigen personenbezogenen und
 
-a) Bei Einlesen einer Versichertenkarte müssen die Versichertendaten gemäß [KBV_ITA_VGEX_Anforde- rungskatalog_KVDT] aufgedruckt werden.
+optional beliebigen formularspezifischen Daten.
+
+2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten-
+
+träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.
+
+3. Insbesondere gilt für BFB-Formulare mit einem Personalienfeld oder verkürzten Personalienfeld bei der
+
+Bedruckung der Versichertendaten:
+
+a) Bei Einlesen einer Versichertenkarte müssen die Versichertendaten gemäß [KBV_ITA_VGEX_Anforde-
+
+rungskatalog_KVDT] aufgedruckt werden.
 
 b) Für das Ersatzverfahren gelten die Vorgaben lt. Bundesmantelverträge.
 
 c) Alle Personalienfelder oder verkürzte Personalienfelder eines Formulars müssen bedruckt werden  können.
 
-4. Die Software muss beim Ausdruck von BFB-Formularen, bei denen keine Angabe von Personalien, Kos- tenträger oder Arztnummer erwartet wird, erlauben, dass diese Angaben nicht ausgedruckt werden.  5. Für Ausnahmefälle (wie z. B. Haus- und Heimbesuche, Bereitschaftsdienst) können Blankoformulare  gänzlich ohne personenbezogene und formularspezifische Inhalte ausgedruckt und eingesetzt werden.
+4. Die Software muss beim Ausdruck von BFB-Formularen, bei denen keine Angabe von Personalien, Kos-
+
+tenträger oder Arztnummer erwartet wird, erlauben, dass diese Angaben nicht ausgedruckt werden.
+
+5. Für Ausnahmefälle (wie z. B. Haus- und Heimbesuche, Bereitschaftsdienst) können Blankoformulare
+
+gänzlich ohne personenbezogene und formularspezifische Inhalte ausgedruckt und eingesetzt werden.
 
 a) In diesem Fall ist nur die Prüfnummer aufzudrucken.
 
@@ -13936,7 +14608,9 @@ Der formularspezifische Barcode ist in jeder dieser Bedruckungsvarianten zu gene
 
 **P4.8-30 Ausdruck des Barcodes**
 
-Die Software muss alle definierten Inhalte zum Barcode eines Formulars gemäß der Satztabelle (vgl. Kapitel  3) sowie der entsprechenden Vorgaben (siehe Kapitel 2 und 5) erzeugen und an der definierten Position  des Formulars aufdrucken können.
+Die Software muss alle definierten Inhalte zum Barcode eines Formulars gemäß der Satztabelle (vgl. Kapitel
+
+3) sowie der entsprechenden Vorgaben (siehe Kapitel 2 und 5) erzeugen und an der definierten Position  des Formulars aufdrucken können.
 
 **Begründung:**
 
@@ -13944,13 +14618,29 @@ Es dürfen nur die Informationen im Barcode codiert werden, die auch auf das For
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss den Barcode an der definierten Position des Formulars aufdrucken (siehe Kapitel 2.6  Positionierung / Aufdruck des Barcodes 2. Falls die auf dem Formular aufgedruckte Information auch als Inhalt des Barcodes definiert ist, muss die  Software diese Information unter Beachtung der Barcodedefinition in den Barcode codieren.   3. Falls für ein definiertes Feld des Barcodes keine Information auf dem Formular aufgedruckt wird, muss  die Software das entsprechende Feld im Barcode leer codieren.  4. Die Software codiert nur Informationen im Barcode, die auch auf dem Formular aufgedruckt werden.  5. Für BFB-Formulare, die gemäß Kapitel 1.2.4 [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] an Vordrucke  angeheftet werden können, gelten die Kriterien der Punkte (3) und (4) nicht.
+1. Die Software muss den Barcode an der definierten Position des Formulars aufdrucken (siehe Kapitel 2.6
+
+Positionierung / Aufdruck des Barcodes 2. Falls die auf dem Formular aufgedruckte Information auch als Inhalt des Barcodes definiert ist, muss die  Software diese Information unter Beachtung der Barcodedefinition in den Barcode codieren.
+
+3. Falls für ein definiertes Feld des Barcodes keine Information auf dem Formular aufgedruckt wird, muss  die Software das entsprechende Feld im Barcode leer codieren.
+
+4. Die Software codiert nur Informationen im Barcode, die auch auf dem Formular aufgedruckt werden.
+
+5. Für BFB-Formulare, die gemäß Kapitel 1.2.4 [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] an Vordrucke
+
+angeheftet werden können, gelten die Kriterien der Punkte (3) und (4) nicht.
 
 **PFLICHTFUNKTION BFB**
 
 **P4.8-40 Ausdruck der Prüfnummer**
 
-Bei erfolgreicher Prüfung wird von der KBV-Prüfstelle eine Prüfnummer vergeben. Sie wird auf der "Konfor- mitätsbescheinigung" vermerkt. Im Zulassungsverfahren für die Bedruckung im Rahmen des Entlassmana- gements wird von DKG eine Prüfnummer vergeben. Sie wird auf der Zulassungsbescheinigung vermerkt.  Diese Prüfnummer ist identifizierendes Merkmal bzgl. der erfolgreich geprüften BFB-Formulare und hat ver- bindlichen Charakter.
+Bei erfolgreicher Prüfung wird von der KBV-Prüfstelle eine Prüfnummer vergeben. Sie wird auf der "Konfor-
+
+mitätsbescheinigung" vermerkt. Im Zulassungsverfahren für die Bedruckung im Rahmen des Entlassmana- gements wird von DKG eine Prüfnummer vergeben. Sie wird auf der Zulassungsbescheinigung vermerkt.
+
+Diese Prüfnummer ist identifizierendes Merkmal bzgl. der erfolgreich geprüften BFB-Formulare und hat ver-
+
+bindlichen Charakter.
 
 **HINWEIS**
 
@@ -13960,18 +14650,30 @@ Für den Ausdruck der Prüfnummer gilt: Die zugeteilte Prüfnummer muss an der d
 
 **P4.8-50 Bedruckung von Datumsangaben auf Blankoformularvorlagen**
 
-Das System muss auf Mustern der Blankoformularbedruckung die Datumsangaben im Format „TT.MM.JJ“  und „MM.JJ“ oder „MM/JJ“ oder „MM JJ“ eintragen.
+Das System muss auf Mustern der Blankoformularbedruckung die Datumsangaben im Format „TT.MM.JJ“
+
+und „MM.JJ“ oder „MM/JJ“ oder „MM JJ“ eintragen.
 
 **Begründung**
 
-Da bisherige Formate wie „TTMMJJ“ und „MMJJ“ für Ärzte und Patienten zu Verständnisproblemen führ- ten, wird das Format in ein gebräuchlicheres geändert.
+Da bisherige Formate wie „TTMMJJ“ und „MMJJ“ für Ärzte und Patienten zu Verständnisproblemen führ-
+
+ten, wird das Format in ein gebräuchlicheres geändert.
 
 
 ---
 
 **Akzeptanzkriterium**
 
-1. Das System stellt sicher, dass das Format von Datumsangaben auf BFB TT.MM.JJ und MM.JJ oder MM/JJ oder „MM JJ“  2. Ausnahmen stellen die folgenden Muster und definierten Felder dar: Muster 12 und 62C: Zeitraum und Häufigkeit der Maßnahmen:  TTMM“ oder „TT.MM“ oder „TT MM“  Muster 25 „Der/die Versicherte ist bei mir in Behandlung seit:“ TTMMJJ  3. Die Datumsangaben des Personalienfelds bleiben von dieser Anforderung unberührt.
+1. Das System stellt sicher, dass das Format von Datumsangaben auf BFB TT.MM.JJ und MM.JJ oder MM/JJ oder „MM JJ“
+
+2. Ausnahmen stellen die folgenden Muster und definierten Felder dar: Muster 12 und 62C: Zeitraum und Häufigkeit der Maßnahmen:  TTMM“ oder „TT.MM“ oder „TT MM“
+
+Muster 25 „Der/die Versicherte ist bei mir in Behandlung seit:“
+
+TTMMJJ
+
+3. Die Datumsangaben des Personalienfelds bleiben von dieser Anforderung unberührt.
 
 **HINWEIS**
 
@@ -13984,13 +14686,21 @@ folgt.
 
 ---
 
-5
+5 TECHNISCHE GRUNDLAGEN DES PDF417
 
-## TECHNISCHE GRUNDLAGEN DES PDF417
+Ein Barcode (engl. Strichcode) bezeichnet eine aus Strichkombinationen bestehende Zeichenfolge. Bar- codes können mit Hilfe besonderer Lesegeräte (Scanner) gelesen werden und dienen so einer schnellen Da- tenübertragung bzw. Datenerfassung. Im Vergleich zu einer manuellen Erfassung von Daten lassen sich Ein-
 
-Ein Barcode (engl. Strichcode) bezeichnet eine aus Strichkombinationen bestehende Zeichenfolge. Bar- codes können mit Hilfe besonderer Lesegeräte (Scanner) gelesen werden und dienen so einer schnellen Da- tenübertragung bzw. Datenerfassung. Im Vergleich zu einer manuellen Erfassung von Daten lassen sich Ein- gabefehler und Korrekturen vermeiden. Barcodes lassen sich grundsätzlich in zwei Gruppen einteilen: eindi- mensionale (lineare) Barcodes, die Informationen lediglich in eine Richtung abbilden, und zweidimensionale  Barcodes, die Informationen durch die Verteilung von Strichen und Punkten sowohl über die Breite als auch  die Höhe codieren. Die Vorteile eines zweidimensionalen Barcodes gegenüber einem linearen Barcode lie- gen zum einen im geringen Platzbedarf und zum anderen in dem größeren codierbaren Zeichenvorrat.
+gabefehler und Korrekturen vermeiden. Barcodes lassen sich grundsätzlich in zwei Gruppen einteilen: eindi- mensionale (lineare) Barcodes, die Informationen lediglich in eine Richtung abbilden, und zweidimensionale
 
-Der PDF417 ist ein zweidimensionaler Barcode. Ein PDF417-Symbol besteht aus mehreren Zeilen. Jede Zeile  beginnt mit einem einheitlichen Start-Muster und endet mit einem Stop-Muster, dazwischen befinden sich  die verschiedenen Datenmuster, sogenannte Codewörter. Der äußere Bereich eines PDF417-Symbols ist  stets unbedruckt. Diese sogenannte Ruhezone beträgt in horizontaler Richtung QH 2x und in vertikaler  Richtung Qv 2x.
+Barcodes, die Informationen durch die Verteilung von Strichen und Punkten sowohl über die Breite als auch  die Höhe codieren. Die Vorteile eines zweidimensionalen Barcodes gegenüber einem linearen Barcode lie- gen zum einen im geringen Platzbedarf und zum anderen in dem größeren codierbaren Zeichenvorrat.
+
+Der PDF417 ist ein zweidimensionaler Barcode. Ein PDF417-Symbol besteht aus mehreren Zeilen. Jede Zeile
+
+beginnt mit einem einheitlichen Start-Muster und endet mit einem Stop-Muster, dazwischen befinden sich
+
+die verschiedenen Datenmuster, sogenannte Codewörter. Der äußere Bereich eines PDF417-Symbols ist
+
+stets unbedruckt. Diese sogenannte Ruhezone beträgt in horizontaler Richtung QH 2x und in vertikaler  Richtung Qv 2x.
 
 Abbildung 1: Darstellung eines PDF417 -Symbols
 
@@ -13998,7 +14708,9 @@ Abbildung 1: Darstellung eines PDF417 -Symbols
 
 **5.1.1** **Cluster**
 
-Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900 -928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster -Num- mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster -Nummer  des verwendeten Clusters sich aus der Reihen -Nummer # berechnen lässt  =((#-1)mod3)*3).
+Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900 -928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster -Num- mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster -Nummer  des verwendeten Clusters sich aus der Reihen -Nummer # berechnen lässt
+
+=((#-1)mod3)*3).
 
 
 ---
@@ -14012,7 +14724,9 @@ Die Start- und Stop-Muster sind wie folgt definiert:
 | 8 | 1 | 1 | 1 | 1 | 1 | 1 | 3 |
 | 7 | 1 | 1 | 3 | 1 | 1 | 1 | 2 |
 
-B = Modulbreite eines Striches (Bar) S = Modulbreite eines Zwischenraums (Space)  Die Start- und Stop-Muster sind jeweils in allen Reihen identisch.
+B = Modulbreite eines Striches (Bar) S = Modulbreite eines Zwischenraums (Space)
+
+Die Start- und Stop-Muster sind jeweils in allen Reihen identisch.
 
 **5.1.3** **Reihenindikatoren**
 
@@ -14020,11 +14734,19 @@ Nach dem Start-Muster schließt sich in jeder Reihe ein spezielles Codewort (lin
 
 Die linken Reihenindikatoren berechnen sich wie folgt:
 
-if =0: L =30*((#-1) div 3)+(r-1) div 3  if =3 L =30*((#-1) div 3)+(s*3)+(r-1) mod 3  if =6 L =30*((#-1) div 3)+(c-1)
+if =0: L =30*((#-1) div 3)+(r-1) div 3
+
+if =3 L =30*((#-1) div 3)+(s*3)+(r-1) mod 3
+
+if =6 L =30*((#-1) div 3)+(c-1)
 
 Die rechten Reihenindikatoren berechnen sich wie folgt:
 
-if =0: R =30*((#-1) div 3)+(c-1)  if =3 R =30*((#-1) div 3)+(r-1) div 3  if =6 R =30*((#-1) div 3)+(s*3)+(r-1) mod 3
+if =0: R =30*((#-1) div 3)+(c-1)
+
+if =3 R =30*((#-1) div 3)+(r-1) div 3
+
+if =6 R =30*((#-1) div 3)+(s*3)+(r-1) mod 3
 
 **5.1.4** **Füll-Codewort**
 
@@ -14065,13 +14787,19 @@ Start Stop Abbildung 2 veranschaulicht den Aufbau eines  - d abgelegt. 15 0
 | L9 | 3 | 2 | R9 |  |
 | L10 | 1 | 0 | R10 |  |
 
-und  werden zur Fehlererkennung verwendet, während 0 1 die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur -Level abhängig ist (s. Kapitel  5.2.4).
+und  werden zur Fehlererkennung verwendet, während 0 1
+
+die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur -Level abhängig ist (s. Kapitel  5.2.4).
 
 Abbildung 2: Aufbau des PDF417 2
 
 Abbildung 3: Codeword-Symbol
 
-Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. Abbildung 3) - besteht aus  17 Modulen, die zu 8 Elementen zusammengefasst sind, insgesamt 4 Striche (Bars) und 4 Leerräume (Spaces).  2Elemente können maximal 6 Module breit sein1F . Jedes Codewort-Symbol kann als eine Folge von 8 Ziffern,
+Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. Abbildung 3) - besteht aus
+
+17 Modulen, die zu 8 Elementen zusammengefasst sind, insgesamt 4 Striche (Bars) und 4 Leerräume (Spaces).  2
+
+Elemente können maximal 6 Module breit sein1F . Jedes Codewort-Symbol kann als eine Folge von 8 Ziffern,
 
 2 Ausnahme sind die Start- und Stop-Muster.
 
@@ -14101,13 +14829,27 @@ Daten, die codiert werden sollen, werden nicht direkt in einem Codewort abgebild
 
 913,  901,  924
 
-**BC** 900
+**BC**
 
-**NC** 900 901,  924
+900
+
+**NC**
+
+900
+
+901,  924
 
 Tabelle 1: Wechsel zwischen den Modi
 
-TC Text-Compaction Mode  BC Byte Compaction Mode  NC Numeric Compaction Mode  Codewort 913 bewirkt einen (temporären) Wechsel vom TC- zum BC-Mode, der sich nur auf das nachfol- gende Codewort bezieht. Ausgangs- und Ziel-Mode müssen stets unterschiedlich sein.
+TC Text-Compaction Mode
+
+BC Byte Compaction Mode
+
+NC Numeric Compaction Mode
+
+Codewort 913 bewirkt einen (temporären) Wechsel vom TC- zum BC-Mode, der sich nur auf das nachfol-
+
+gende Codewort bezieht. Ausgangs- und Ziel-Mode müssen stets unterschiedlich sein.
 
 **HINWEIS**
 
@@ -14115,7 +14857,39 @@ Nach Shift auf BC ist anschließend wieder der vorangegangene TC
 
 **5.2.1** **Byte Compaction Mode**
 
-Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417 wendung des „Basis 256 zu Basis 900 Konvertierungs Algorithmus“ codiert, der auf folgender Gleichung ba- siert:  5432b *256 +b *256 +b *256 +b *256 +b *256 +b *256 54321 5432= d *900 +d *900 +d *900 +d *900 +d *900 +d *90054321
+Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417 wendung des „Basis 256 zu Basis 900 Konvertierungs Algorithmus“ codiert, der auf folgender Gleichung ba-
+
+siert: 5
+
+4
+
+3
+
+2
+
+b *256 +b *256 +b *256 +b *256 +b *256 +b *256 5 4
+
+3
+
+2
+
+1
+
+5
+
+4
+
+3
+
+2
+
+= d *900 +d *900 +d *900 +d *900 +d *900 +d *9005 4
+
+3
+
+2
+
+1
 
 Wobei bi = dezimaler Wert eines BC-Zeichen; di = Codewort
 
@@ -14135,16 +14909,78 @@ Algorithmus:
 
 -Codewörter unter Ver-
 
-10 0 10  0
+1
+
+0
+
+0 1
+
+0
+
+0
 
 
 ---
 
-4. Weise die Dezimalwerte der BC-Zeichen b ...b zu. 5 0 5. Sei t = temp. Variable; Berechne  543210t=b *256 +b *256 +b *256 +b *256 +b *256 +b *256 543210 6. Berechne für jedes Codewort d = d ... d i 04 BEGIN  d = t mod 900 i t = t div 900  END  7. Wiederhole ab Schritt 3, falls nötig.  8. Wenn weniger als 6 Zeichen verbleiben, verwende den Sprung- befehl 901 und weise die Dezimalwerte den BC-Zeichen den  entsprechenden Codeworten zu.  Beispiel:
+4. Weise die Dezimalwerte der BC-Zeichen b ...b zu. 5 0
+
+5. Sei t = temp. Variable; Berechne  5 4
+
+3
+
+2
+
+1
+
+0
+
+t=b *256 +b *256 +b *256 +b *256 +b *256 +b *256 5 4
+
+3
+
+2
+
+1
+
+0
+
+6. Berechne für jedes Codewort d = d ... d i 0 4
+
+BEGIN  d = t mod 900 i t = t div 900  END  7. Wiederhole ab Schritt 3, falls nötig.  8. Wenn weniger als 6 Zeichen verbleiben, verwende den Sprung- befehl 901 und weise die Dezimalwerte den BC-Zeichen den  entsprechenden Codeworten zu.
+
+Beispiel:
 
 Kodierung der BC-Zeichen b ...b {231,101,11,97,205,2} 5 0
 
-Berechnung der Summe t aus den dezimalen Werten der 6 Zeichen:  543210t = 231*256 +101*256 +11*256 +97*256 +205*256 +2*256   = 254421168672002  Berechnung des Codeworts 0  d = 254421168672002 mod 900 = 302 0 t = 254421168672002 div 900 = 282690187413  Berechnung des Codeworts 1  d = 282690187413 mod 900 = 213 1 t = 282690187413 div 900 = 314100208  Berechnung des Codeworts 2  d = 314100208 mod 900   = 208 2 t = 314100208 div 900   = 349000  Berechnung des Codeworts 3  d = 349000 mod 900  = 700 3 t = 349000 div 900  = 387  Berechnung des Codeworts 4  d = 387 mod 900   = 387 4 t = 387 div 900   = 0  Die Codewort Sequenz d ... d ist 387,700,208,213,302 40
+Berechnung der Summe t aus den dezimalen Werten der 6 Zeichen:  5 4
+
+3
+
+2
+
+1
+
+0
+
+t = 231*256 +101*256 +11*256 +97*256 +205*256 +2*256
+
+= 254421168672002  Berechnung des Codeworts 0  d = 254421168672002 mod 900 = 302
+
+0 t = 254421168672002 div 900 = 282690187413
+
+Berechnung des Codeworts 1  d = 282690187413 mod 900 = 213
+
+1 t = 282690187413 div 900 = 314100208
+
+Berechnung des Codeworts 2  d = 314100208 mod 900   = 208
+
+2 t = 314100208 div 900   = 349000
+
+Berechnung des Codeworts 3  d = 349000 mod 900  = 700 3 t = 349000 div 900  = 387
+
+Berechnung des Codeworts 4  d = 387 mod 900   = 387 4 t = 387 div 900   = 0
+
+Die Codewort Sequenz d ... d ist 387,700,208,213,302 4 0
 
 **5.2.2** **Numeric Compaction Mode**
 
@@ -14152,16 +14988,52 @@ Im Numeric Compaction (NC) Mode werden längere Ziffernfolgen in Codewörter cod
 
 Algorithmus:
 
-1. Teile die Ziffernsequenz in Folgen mit 44 Ziffern. Wenn eine  Ziffernfolge länger ist als 44 Ziffern, behalte den NC-Mode  bei, auch wenn die letzte Gruppe weniger als 44 Ziffern ent- hält.  2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern- 4folge3F mit einer führenden 1  3. Berechne für jedes Codewort d = d ... d i 0n-1 BEGIN  d = t mod 900 i t = t div 900  Wenn t = 0 then beende Codierung  END 4 Max. 44 Ziffern
+1. Teile die Ziffernsequenz in Folgen mit 44 Ziffern. Wenn eine  Ziffernfolge länger ist als 44 Ziffern, behalte den NC-Mode  bei, auch wenn die letzte Gruppe weniger als 44 Ziffern ent- hält.  2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern- 4
+
+folge3F mit einer führenden 1  3. Berechne für jedes Codewort d = d ... d
+
+i 0
+
+n-1
+
+BEGIN
+
+d
+
+= t mod 900
+
+i
+
+t
+
+= t div 900
+
+Wenn t = 0 then beende Codierung
+
+END 4 Max. 44 Ziffern
 
 
 ---
 
-4. Wiederhole ab Schritt 2, falls nötig   Beispiel:
+4. Wiederhole ab Schritt 2, falls nötig
+
+Beispiel:
 
 Kodierung der Ziffernfolge 000213298174000
 
-Setze t = 1000213298174000  Berechnung des Codeworts 0  d = 1000213298174000 mod 900 0 t = 1000213298174000 div 900  Berechnung des Codeworts 1  d = 1111348109082 mod 900 1 t = 1111348109082 div 900  Berechnung des Codeworts 2  d = 1234831232 mod 900 2 t = 1234831232 div 900  Berechnung des Codeworts 3  d = 1372034 mod 900 3 t = 1372034 div 900  Berechnung des Codeworts 4  d = 1524 mod 900  4 t = 1524 div 900   Berechnung des Codeworts 5  d = 1 mod 900    4 t = 1 div 900      Die Codewort Sequenz d ...d ist 1,624,434,632,282,200 5
+Setze t = 1000213298174000  Berechnung des Codeworts 0  d = 1000213298174000 mod 900 0 t = 1000213298174000 div 900
+
+Berechnung des Codeworts 1  d = 1111348109082 mod 900 1 t = 1111348109082 div 900
+
+Berechnung des Codeworts 2  d = 1234831232 mod 900 2 t = 1234831232 div 900
+
+Berechnung des Codeworts 3  d = 1372034 mod 900 3 t = 1372034 div 900
+
+Berechnung des Codeworts 4  d = 1524 mod 900 4 t = 1524 div 900
+
+Berechnung des Codeworts 5  d = 1 mod 900 4 t = 1 div 900
+
+Die Codewort Sequenz d ...d ist 1,624,434,632,282,200 5
 
 **5.2.3** **Text Compaction Mode**
 
@@ -14169,9 +15041,19 @@ Im Text Compaction (TC) Mode können alle druckbaren ASCII ISO646), und einige A
 
 Der TC-Mode hat vier Sub-Modes:
 
-1. Alpha (großgeschriebenes Alphabet)  2. Lower (kleingeschriebenes Alphabet)  3. Mixed (Ziffern und Sonderzeichen)  4. Punctation (Interpunktion, Sonderzeichen)
+1. Alpha (großgeschriebenes Alphabet)
 
-Jeder Sub-Mode enthält 30 Zeichen (s. Anlage 5.6.4) -  deren Sub-Mode zu wechseln. Sprungbefehle können zum einen ein „Umschalten“ bewirken, d.h. nach ei- nem Zeichen wird wieder in den Ausgangs-Sub-Mode zurückgegangen, und zum anderen einen „Wechsel“,  d.h. der neue Sub-Mode bleibt bis zum nächsten Sprungbefehl erhalten.
+2. Lower (kleingeschriebenes Alphabet)
+
+3. Mixed (Ziffern und Sonderzeichen)  4. Punctation (Interpunktion, Sonderzeichen)
+
+Jeder Sub-Mode enthält 30 Zeichen (s. Anlage 5.6.4) -
+
+deren Sub-Mode zu wechseln. Sprungbefehle können zum einen ein „Umschalten“ bewirken, d.h. nach ei-
+
+nem Zeichen wird wieder in den Ausgangs-Sub-Mode zurückgegangen, und zum anderen einen „Wechsel“,
+
+d.h. der neue Sub-Mode bleibt bis zum nächsten Sprungbefehl erhalten.
 
 | **ZIEL SUB-MODE** | |  |
 |---|---|---|
@@ -14209,17 +15091,35 @@ AUSGANGS Punctuation Punctuation ps ps ps, pl
 
 as = Umschalten auf Alpha  pl = Wechsel zu Punctuation  ps = Umschalten auf Punctuation  ml = Wechsel zu Mixed  ll  Wechsel zu Lower
 
-Jeweils zwei Zeichen sollen im TC-Mode durch ein einziges Codewort repräsentiert werden. Das erste Zei- chen wird als High-Order-Zeichen , das zweite als Low-Order-Zeichen  definiert, die nach der folgenden  Formel ein Codewort berechnen:
+Jeweils zwei Zeichen sollen im TC-Mode durch ein einziges Codewort repräsentiert werden. Das erste Zei- chen wird als High-Order-Zeichen , das zweite als Low-Order-Zeichen  definiert, die nach der folgenden
+
+Formel ein Codewort berechnen:
 
 d= *30+
 
-Wenn eine Zeichenfolge sich nicht als Paar codieren lässt, muss ein Füllzeichen am Ende ergänzt werden.  Das Füllzeichen sollte dabei ein Sprungbefehl sein. Wenn in einem solchen Fall die TC-Mode-Sequence von  einem Wechsel-Codewort zum BC-Mode gefolgt wird, muss das Füllzeichen bei allen Submodes außer dem  Punctation-Sub-Mode das Zeichen ps sein, im Punctation-Sub-Mode sollte al verwendet werden (zusätzlich  sollten, wenn es sich um ein einzelnes BC-Zeichen handelt, nach dem BC-Zeichen die Sprungbefehle ml und  pl verwendet werden).
+Wenn eine Zeichenfolge sich nicht als Paar codieren lässt, muss ein Füllzeichen am Ende ergänzt werden.  Das Füllzeichen sollte dabei ein Sprungbefehl sein. Wenn in einem solchen Fall die TC-Mode-Sequence von
 
-Eine Zeichenfolge kann durch die unterschiedlichen Compaction-Modes in verschiedenen PDF417-Code- wortsequenzen dargestellt werden. Der folgende Algorithmus versucht die Anzahl der Codewörter zu mini- mieren:
+einem Wechsel-Codewort zum BC-Mode gefolgt wird, muss das Füllzeichen bei allen Submodes außer dem  Punctation-Sub-Mode das Zeichen ps sein, im Punctation-Sub-Mode sollte al verwendet werden (zusätzlich
+
+sollten, wenn es sich um ein einzelnes BC-Zeichen handelt, nach dem BC-Zeichen die Sprungbefehle ml und
+
+pl verwendet werden).
+
+Eine Zeichenfolge kann durch die unterschiedlichen Compaction-Modes in verschiedenen PDF417-Code-
+
+wortsequenzen dargestellt werden. Der folgende Algorithmus versucht die Anzahl der Codewörter zu mini- mieren:
 
 Algorithmus:
 
-1. Sei P der Startpunkt des zu codierenden Datenstroms.  2. Setze Compaction-Mode auf TC-Mode.  3. Sei N die Anzahl aufeinanderfolgender Ziffern beginnend bei  P.  4. Wenn N = 13 dann  5. Schalte um auf NC-Mode.  6. Codiere die N Zeichen im NC-Mode.  7. Versetze P um N.  8. Gehe zu Schritt 3.  9. Wenn statt dessen N < 13 ist, dann  10. sei T die Länge von TC-Zeichen beginnend bei P. Die Se- quenz wird beendet, wenn entweder ein Nicht-TC-Zeichen  oder eine Folge von 13 Ziffern gefunden wird.  11. Wenn T = 5 ist, dann  12. Schalte um auf TC-Mode.  13. Codiere T Zeichen.  14. Versetze P um T.  15. Gehe zu Schritt 3.  16. Wenn stattdessen T < 5 ist, dann  17. Sei B die Länge einer binär codierbaren Sequenz be- ginnend bei P. Die Sequenz wird beendet, wenn entwe- der eine TC-Sequenz der Länge 5 oder eine Ziffernse- quenz der Länge 13 gefunden wird.  18. Wenn B = 1 und der aktuelle Mode TC ist, dann  19. Wechsel in den BC-Mode.  20. Codiere das einzelne Byte im BC-Mode.  21. Versetze P um 1.  22. Gehe zu Schritt 3.  23. Ansonsten  24. Schalte um in den BC-Mode.  25. Codiere die B Bytes im BC-Mode.  26. Versetze P um B.
+1. Sei P der Startpunkt des zu codierenden Datenstroms.  2. Setze Compaction-Mode auf TC-Mode.  3. Sei N die Anzahl aufeinanderfolgender Ziffern beginnend bei
+
+P.  4. Wenn N = 13 dann  5. Schalte um auf NC-Mode.  6. Codiere die N Zeichen im NC-Mode.  7. Versetze P um N.
+
+8. Gehe zu Schritt 3.  9. Wenn statt dessen N < 13 ist, dann  10. sei T die Länge von TC-Zeichen beginnend bei P. Die Se- quenz wird beendet, wenn entweder ein Nicht-TC-Zeichen  oder eine Folge von 13 Ziffern gefunden wird.  11. Wenn T = 5 ist, dann  12. Schalte um auf TC-Mode.  13. Codiere T Zeichen.  14. Versetze P um T.  15. Gehe zu Schritt 3.
+
+16. Wenn stattdessen T < 5 ist, dann  17. Sei B die Länge einer binär codierbaren Sequenz be- ginnend bei P. Die Sequenz wird beendet, wenn entwe- der eine TC-Sequenz der Länge 5 oder eine Ziffernse- quenz der Länge 13 gefunden wird.  18. Wenn B = 1 und der aktuelle Mode TC ist, dann  19. Wechsel in den BC-Mode.  20. Codiere das einzelne Byte im BC-Mode.  21. Versetze P um 1.  22. Gehe zu Schritt 3.
+
+23. Ansonsten  24. Schalte um in den BC-Mode.  25. Codiere die B Bytes im BC-Mode.  26. Versetze P um B.
 
 
 ---
@@ -14230,7 +15130,9 @@ Algorithmus:
 
 Der PDF417 bietet die Möglichkeit, Fehler zu erkennen und zu beheben. Diese Fähigkeit ist über verschiedene  Sicherheitslevel skalierbar, die die Anzahl der zur Fehlerkorrektur verwendeten Codewörter determinieren  (s. Tabelle 3).
 
-Die Fehlererkennung wird im PDF417 über 2 Codewörter realisiert. Alle Sicherheitslevel beinhalten eine Feh- lererkennung. Fehlerkorrektur wird eingesetzt, um Beschädigungen des Barcode beim Einleseprozess zu kompensieren. Prinzipiell können bei der Fehlerkorrektur zwei Arten von Fehlern be- hoben werden:
+Die Fehlererkennung wird im PDF417 über 2 Codewörter realisiert. Alle Sicherheitslevel beinhalten eine Feh- lererkennung. Fehlerkorrektur wird eingesetzt, um Beschädigungen des Barcode beim Einleseprozess zu kompensieren. Prinzipiell können bei der Fehlerkorrektur zwei Arten von Fehlern be-
+
+hoben werden:
 
 Auslöschungen, d.h. fehlende oder nicht-lesbare Codewörter (die Position des Codeworts ist bekannt, nicht  jedoch sein Wert)
 
@@ -14238,19 +15140,33 @@ Ersetzungsfehler, d.h. falsch gelesene Codewörter (die Position und der Wert de
 
 Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs- fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden:  s+1  2  2
 
-**SICHERHEITSLEVEL BENÖTIGTE ANZAHL AN CODEWÖRTERN**
+**SICHERHEITSLEVEL**
+
+**BENÖTIGTE ANZAHL AN CODEWÖRTERN**
 
 **FEHLERKORREKTUR**
 
-**0** 0
+**0**
 
-**1** 2
+0
 
-**2** 6
+**1**
 
-**3** 14
+2
 
-**4** 30 -Symbols oder Lesefehler
+**2**
+
+6
+
+**3**
+
+14
+
+**4**
+
+30
+
+-Symbols oder Lesefehler
 
 **FEHLERERKENNUNG**
 
@@ -14264,11 +15180,17 @@ Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Co
 
 2
 
-**5** 62
+**5**
 
-**6** 126
+62
 
-**7** 254
+**6**
+
+126
+
+**7**
+
+254
 
 **8**
 
@@ -14276,9 +15198,21 @@ Tabelle 3: Sicherheits -Level des PDF417
 
 **5.2.5** **Berechnung der Koeffizienten der PDF417 Fehlerkorrektur**
 
-Das folgende Generator-Polynom wird verwendet, um die Koeffizienten für jeden Fehlerkorrektur bestimmen.  2 3g (x) =(x-3)(x-3 )(x-3 ) ... (x-3 ) k 2    x+ x + ... +k0 k1 k2
+Das folgende Generator-Polynom wird verwendet, um die Koeffizienten für jeden Fehlerkorrektur bestimmen.
 
-s+1wobei k = 2 510
+2
+
+3
+
+g (x) =(x-3)(x-3 )(x-3 ) ... (x-3 ) k 2
+
+x+ x + ... +
+
+k0 k1 k2
+
+s+1
+
+wobei k = 2 510
 
 k-1xkk-1
 
@@ -14294,9 +15228,13 @@ kk-1
 
 K
 
-k+x 2 3
+k+x 2
 
-k-1 kx +x 2
+3
+
+k-1 k
+
+x +x 2
 
 2
 
@@ -14331,7 +15269,13 @@ Die Fehlerkorrektur-Codewörter werden auf der Basis aller Codewörter (inkl. Sy
 
 d(x)=d
 
-Algorithmus: 4. Für ...  j 0 k-1
+Algorithmus: 4. Für
+
+...
+
+j 0
+
+k-1
 
 BEGIN
 
@@ -14339,9 +15283,17 @@ mod 929 j j
 
 END
 
-s= 1 (Fehlerkorrektur-Level)  s+1k= 2 = 4 (Anzahl der Fehlerkorrekturcodewörter)  2 3 4g (x) =(x-3)(x-3 )(x-3 )(x-3 ) 4
+s= 1 (Fehlerkorrektur-Level)  s+1
 
-2 3.4 = 59049-29160x+3510x -120x +x
+k= 2 = 4 (Anzahl der Fehlerkorrekturcodewörter)  2 3
+
+4
+
+g (x) =(x-3)(x-3 )(x-3 )(x-3 ) 4 2
+
+3.4
+
+= 59049-29160x+3510x -120x +x
 
 = 59049 mod 929 = 522 0
 
@@ -14362,52 +15314,90 @@ s= 1 (Fehlerkorrektur-Level)  s+1k= 2 = 4 (Anzahl der Fehlerkorrekturcodewörter
 
 410
 
-n-1 n-2x +d x + ... +dx+d n-1 n-21 0
+n-1
 
-1. Setze die Datencodewortsequenz d ... d n-1o
+n-2
 
-2. Seien t , t ,t temporäre Variablen; Initialisiere t , t ,t 1 2 31 2 3 mit dem Wert 0.
+x +d x + ... +dx+d
 
-3. Initialisiere ,..., mit dem Wert 0. ok-1
+n-1
 
-4. Für alle d = d ...d i n-1 0
+n-2 1 0
+
+1. Setze die Datencodewortsequenz d ... d n-1
+
+o
+
+2. Seien t , t ,t temporäre Variablen; Initialisiere t , t ,t 1 2 3 1 2 3
+
+mit dem Wert 0.
+
+3. Initialisiere ,..., mit dem Wert 0.
+
+o
+
+k-1 4. Für alle d = d ...d
+
+i n-1 0
 
 BEGIN
 
-t = (d + ) mod 929 1 i k-1
+t = (d + ) mod 929 1
 
-Für alle Fehlerkorrektur-Codewörter ... j k-1 1
+i k-1
+
+Für alle Fehlerkorrektur-Codewörter ...
+
+j k-1 1
 
 BEGIN
 
-t = (t * ) mod 929 2 1 j
+t = (t * ) mod 929 2
 
-t = 929-t 32
+1 j
 
-= ( +t )mod 929 j j-1 3
+t = 929-t 3 2
+
+= ( +t )mod 929
+
+j
+
+j-1 3
 
 
 ---
 
 END
 
-t = (t * ) mod 929 2 1.0
+t = (t * ) mod 929 2
 
-t = 929-t 32
+1.0
+
+t = 929-t 3 2
 
 = t mod 929 0 3
 
 END
 
-5. Berechene das Komplement für alle  ...  j 0k-1
+5. Berechene das Komplement für alle  ...
+
+j 0
+
+k-1
 
 BEGIN
 
 if  not 0 j
 
-= 929- jj
+= 929-
 
-END 5Beispiel :
+j
+
+j
+
+END 5
+
+Beispiel :
 
 Die im PDF dargestellten Daten werden durch die Codewörter 5,453,178,121,239 repräsentiert, mit einem  vorangehenden Symbollängendeskriptor. Es gibt kein Füllcodewort.
 
@@ -14423,33 +15413,41 @@ d  = 121 1
 
 d  = 239 0
 
-Sei der Fehlerkorrekturlevel s = 1, dann ist  s+1k = 2 = 4
+Sei der Fehlerkorrekturlevel s = 1, dann ist  s+1
 
-,..., = 522,568,723,809 03
+k = 2 = 4
+
+,..., = 522,568,723,809 0
+
+3
 
 2. Initialisiere t t mit dem Wert 0 1,..., 3
 
-3. Initialisiere  mit dem Wert 0 0,..., 3
+3. Initialisiere
+
+mit dem Wert 0 0,..., 3
 
 4. t =(d + ) mod 929=(5+0) mod 929=5 1 4.3
 
 t =(t * ) mod 929=(5*809) mod 929=329 2 1.3
 
-t =929-t =929-329=600 32
+t =929-t =929-329=600 3 2
 
 +t ) mod 929=(0+600) mod 929=600 3 2.3
 
 t =(t * ) mod 929=(5*723) mod 929=828 2 1.2
 
-t =929-t =929-828=101 32
+t =929-t =929-828=101 3 2
 
 +t ) mod 929=(0+101) mod 929=101 2 1.3
 
 t =(t * ) mod 929=(5*568) mod 929=53 2 1.1
 
-t =929-t =929-53=876 32
+t =929-t =929-53=876 3 2
 
-5 Das folgende Beispiel - mit nur 5 Datencodewörter und 4 Fehlerkorrekturcodewörter - ist bewusst einfach konstruiert. Es soll lediglich den Be- rechnungsprozess veranschaulichen.
+5 Das folgende Beispiel - mit nur 5 Datencodewörter und 4 Fehlerkorrekturcodewörter - ist bewusst einfach konstruiert. Es soll lediglich den Be-
+
+rechnungsprozess veranschaulichen.
 
 
 ---
@@ -14458,7 +15456,7 @@ t =929-t =929-53=876 32
 
 t =(t * ) mod 929=(5*522) mod 929=752 2 1.0
 
-t =929-t =929-752=177 32
+t =929-t =929-752=177 3 2
 
 =t mod 929=177 mod 929=177 0 3
 
@@ -14466,25 +15464,25 @@ t =(d + ) mod 929=(453+600) mod 929=124 1 3.3
 
 t =(t * ) mod 929=(124*809) mod 929=913 2 1.3
 
-t =929-t =929-913=16 32
+t =929-t =929-913=16 3 2
 
 +t ) mod 929=(101+16) mod 929=117 3 2.3
 
 t =(t * ) mod 929=(124*723) mod 929=468 2 1.2
 
-t =929-t =929-468=461 32
+t =929-t =929-468=461 3 2
 
 +t ) mod 929=(876+461) mod 929=408 2 1.3
 
 t =(t * ) mod 929=(124*568) mod 929=757 2 1.1
 
-t =929-t =929-757=172 32
+t =929-t =929-757=172 3 2
 
 +t ) mod 929=(177+172) mod 929=349 1 0.3
 
 t =(t * ) mod 929=(124*522) mod 929=627 2 1.0
 
-t =929-t =929-627=302 32
+t =929-t =929-627=302 3 2
 
 =t mod 929=302 mod 929=302 0 3
 
@@ -14492,25 +15490,25 @@ t =(d + ) mod 929=(178+117) mod 929=295 1 2.3
 
 t =(t * ) mod 929=(295*809) mod 929=831 2 1.3
 
-t =929-t =929-831=98 32
+t =929-t =929-831=98 3 2
 
 +t ) mod 929=(408+98) mod 929=506 3 2.3
 
 t =(t * ) mod 929=(295*723) mod 929=544 2 1.2
 
-t =929-t =929-544=385 32
+t =929-t =929-544=385 3 2
 
 +t ) mod 929=(349+385) mod 929=734 2 1.3
 
 t =(t * ) mod 929=(295*568) mod 929=340 2 1.1
 
-t =929-t =929-340=589 32
+t =929-t =929-340=589 3 2
 
 +t ) mod 929=(302+589) mod 929=891 1 0.3
 
 t =(t * ) mod 929=(295*522) mod 929=705 2 1.0
 
-t =929-t =929-752=224 32
+t =929-t =929-752=224 3 2
 
 =t mod 929=224 mod 929=224 0 3
 
@@ -14518,7 +15516,7 @@ t =(d + ) mod 929=(121+506) mod 929=627 1 1.3
 
 t =(t * ) mod 929=(627*809) mod 929=9 2 1.3
 
-t =929-t =929-9=920 32
+t =929-t =929-9=920 3 2
 
 +t ) mod 929=(734+920) mod 929=725 3 2.3
 
@@ -14527,19 +15525,19 @@ t =(t * ) mod 929=(627*723) mod 929=898 2 1.2
 
 ---
 
-t =929-t =929-898=31 32
+t =929-t =929-898=31 3 2
 
 +t ) mod 929=(891+31) mod 929=922 2 1.3
 
 t =(t * ) mod 929=(627*568) mod 929=329 2 1.1
 
-t =929-t =929-329=600 32
+t =929-t =929-329=600 3 2
 
 +t ) mod 929=(224+600) mod 929=824 1 0 3
 
 t =(t * ) mod 929=(627*522) mod 929=286 2 1.0
 
-t =929-t =929-286=643 32
+t =929-t =929-286=643 3 2
 
 =t mod 929=643 mod 929=643 0 3
 
@@ -14547,41 +15545,53 @@ t =(d + ) mod 929=(239+725) mod 929=35 1 0.3
 
 t =(t * ) mod 929=(35*809) mod 929=445 2 1.3
 
-t =929-t =929-445=484 32
+t =929-t =929-445=484 3 2
 
 +t ) mod 929=(922+484) mod 929=477 3 2.3
 
 t =(t * ) mod 929=(35*723) mod 929=222 2 1.2
 
-t =929-t =929-222=707 32
+t =929-t =929-222=707 3 2
 
 +t ) mod 929=(824+707) mod 929=602 2 1.3
 
 t =(t * ) mod 929=(35*568) mod 929=371 2 1.1
 
-t =929-t =929-371=558 32
+t =929-t =929-371=558 3 2
 
 +t ) mod 929=(643+558) mod 929=272 1 0.3
 
 t =(t * ) mod 929=(35*522) mod 929=619 2 1.0
 
-t =929-t =929-619=310 32
+t =929-t =929-619=310 3 2
 
 =t mod 929=310 mod 929=310 0 3
 
-5. Berechnung des Komplements   0,..., 3
+5. Berechnung des Komplements
 
-= 929 - = 929 - 477 = 452 33
+0,..., 3
 
-= 929 - = 929 - 602 = 327 22
+= 929 - = 929 - 477 = 452 3
 
-= 929 - = 929 - 272 = 657 11
+3
 
-= 929 - = 929 - 310 = 619 00
+= 929 - = 929 - 602 = 327 2
+
+2
+
+= 929 - = 929 - 272 = 657 1
+
+1
+
+= 929 - = 929 - 310 = 619 0
+
+0
 
 **5.3** **PDF417 IN DER BLANKOFORMULARBEDRUCKUNG**
 
-Der PDF417 wird im Rahmen der Blankoformularbedruckung eingesetzt, um die Fälschungssicherheit zu  erhöhen und Formularinhalte in maschinenlesbarer Form bereitzustellen. Dabei sind sowohl die Strukturie- rung des Inhalts, als auch die Darstellungsparameter des PDF417 vorgegeben.
+Der PDF417 wird im Rahmen der Blankoformularbedruckung eingesetzt, um die Fälschungssicherheit zu
+
+erhöhen und Formularinhalte in maschinenlesbarer Form bereitzustellen. Dabei sind sowohl die Strukturie- rung des Inhalts, als auch die Darstellungsparameter des PDF417 vorgegeben.
 
 
 ---
@@ -14703,7 +15713,7 @@ Datenspalten:    c = 7
 
 Modulbreite5F :   x = 10 mil
 
-Modulhöhe:    2 x
+Modulhöhe:     2 x
 
 Qv und Qh:    2 x
 
@@ -14711,7 +15721,7 @@ Codierung:    TC-Mode (Umlaute temporär im BC-Mode)
 
 Sicherheitslevel:   s = 4
 
-Feldtrenner:    tab
+Feldtrenner:     tab
 
 Berechnung des Platzbedarfs des PDF417-Symbols:
 
@@ -14719,7 +15729,9 @@ W = 2 * QH + 17x (c + 4), mit QH = 2x 4,85 cm
 
 H = 2 * QV + 2x (2s+1 + 165 / 2 + f) / 7, mit QV = 2x 1,07 cm
 
-unter der vereinfachenden Annahme, dass im TC-Mode 2 Zeichen durch 1 Codewort repräsentiert werden.  Die Höhe des Barcode-Symbols ist offensichtlich abhängig von der Art der zu codierenden Daten.
+unter der vereinfachenden Annahme, dass im TC-Mode 2 Zeichen durch 1 Codewort repräsentiert werden.
+
+Die Höhe des Barcode-Symbols ist offensichtlich abhängig von der Art der zu codierenden Daten.
 
 
 ---
@@ -14728,7 +15740,49 @@ unter der vereinfachenden Annahme, dass im TC-Mode 2 Zeichen durch 1 Codewort re
 
 **5.6.1** **Variablennamen**
 
-b  Elementbreite  c  Anzahl der Spalten im Datenraum eines PDF417-Symbols  (ohne Start-, Stop- und Reihen-Indikator-Codewort)  d  Datencodewort  f  Anzahl der Füllcodewörter  g  Generator-Polynom  H Höhe eines PDF417-Symbols inkl. Ruhezone  k  Anzahl der Fehlerkorrekturcodewörter  L  Linker Zeilenindikator  n Anzahl der Datencodewörter  QH Horizontale Ruhezone  QV Vertikale Ruhezone  r  Anzahl der Reihen in einem PDF417-Symbol  R  Rechter Zeilenindikator  s  Fehlerkorrektur-Level  t  temporäre Variable  W Breite eines PDF417-Symbols inkl. Ruhezone  x  Modulbreite   Fehlerkorrektur-Codewort  Koeffizienten der PDF417-Fehlerkorrektur-Codewörtern   Anzahl von Fehlern   High-order-Zeichen im TC-Modus   Clusternummer  Anzahl von Ersetzungsfehlern  Low-Order Zeichen im TC-Moduls  Nummer einer Reihe in PDF417-Symbols (zählt ab 1)
+b  Elementbreite
+
+c  Anzahl der Spalten im Datenraum eines PDF417-Symbols
+
+(ohne Start-, Stop- und Reihen-Indikator-Codewort)
+
+d  Datencodewort
+
+f  Anzahl der Füllcodewörter
+
+g  Generator-Polynom
+
+H Höhe eines PDF417-Symbols inkl. Ruhezone
+
+k  Anzahl der Fehlerkorrekturcodewörter
+
+L  Linker Zeilenindikator
+
+n Anzahl der Datencodewörter
+
+QH Horizontale Ruhezone
+
+QV Vertikale Ruhezone
+
+r  Anzahl der Reihen in einem PDF417-Symbol
+
+R  Rechter Zeilenindikator
+
+s  Fehlerkorrektur-Level
+
+t  temporäre Variable
+
+W Breite eines PDF417-Symbols inkl. Ruhezone
+
+x  Modulbreite
+
+Fehlerkorrektur-Codewort  Koeffizienten der PDF417-Fehlerkorrektur-Codewörtern
+
+Anzahl von Fehlern
+
+High-order-Zeichen im TC-Modus
+
+Clusternummer  Anzahl von Ersetzungsfehlern  Low-Order Zeichen im TC-Moduls  Nummer einer Reihe in PDF417-Symbols (zählt ab 1)
 
 
 ---
@@ -14799,51 +15853,97 @@ BS CAN 8 H
 
 HT EM 9 I
 
-LF SUB J
+LF SUB
 
-VT ESC K
+J
 
-FF FS L
+VT ESC
 
-CR GS M
+K
 
-SO RS N
+FF FS
 
-SI US O
+L
+
+CR GS
+
+M
+
+SO RS
+
+N
+
+SI US
+
+O
 
 80 96 112 128 144 160 176 192 208 224 240 5 6 7 8 9 A B C D E F
 
-P p *PAD* *DCS* *NBSP* À Ð à ð
+P
 
-Q a q *HOP* *PU1* Á Ñ á ñ
+p *PAD* *DCS* *NBSP* À Ð à ð
 
-R b r *BPH* *PU2* ² Â Ò â ò
+Q a q *HOP* *PU1*
 
-S c s *NBH* *STS* ³ Ã Ó ã ó
+Á Ñ á ñ
+
+R b r *BPH* *PU2*
+
+² Â Ò â ò
+
+S c s *NBH* *STS*
+
+³ Ã Ó ã ó
 
 T d t *IND* *CCH*  Ž Ä Ô ä ô
 
-U e u *NEL* *MW* µ Å Õ å õ
+U e u *NEL* *MW*
 
-V f v *SSA* *SPA* Š Æ Ö æ ö
+µ Å Õ å õ
 
-W g w *ESA* *EPA* Ç ç
+V f v *SSA* *SPA* Š
+
+Æ Ö æ ö
+
+W g w *ESA* *EPA*
+
+Ç
+
+ç
 
 X h x *HTS* *SOS* š ž È Ø è ø
 
-Y i y *HTJ* *SGCI* ¹ É Ù é ù
+Y i y *HTJ* *SGCI*
+
+¹ É Ù é ù
 
 Z j z *VTS* *SCI* ª º Ê Ú ê ú
 
-k *PLD* *CSI* Ë Û ë û
+k
 
-l *PLU* *ST* Œ Ì Ü ì ü
+*PLD* *CSI*
 
-m *RI* *OSC* *SHY* œ Í Ý í ý
+Ë Û ë û
 
-n *SS2* *PM* Ÿ Î Þ î þ
+l
 
-o *DEL* *SS3* *APC* Ï ß ï ÿ
+*PLU* *ST*
+
+Œ Ì Ü ì ü
+
+m
+
+*RI* *OSC* *SHY* œ Í Ý í ý
+
+n
+
+*SS2* *PM*
+
+Ÿ Î Þ î þ
+
+o *DEL* *SS3* *APC*
+
+Ï ß ï ÿ
 
 
 ---
@@ -14925,9 +16025,7 @@ Im Bedarfsfall, z.B. bei Umlauten/Sonderzeichen, kann auf BC geschaltet werden.
 
 ---
 
-6
-
-## GLOSSAR
+6 GLOSSAR
 
 DIMDI    Deutsches Institut für Medizinische Dokumentation und Information
 
@@ -14936,9 +16034,7 @@ ICD-10-Diagnose ICD-10-Code aus dem Katalog ICD-10-GM des DIMDI, Diagnosesicherh
 
 ---
 
-7
-
-## REFERENZIERTE DOKUMENTE
+7 REFERENZIERTE DOKUMENTE
 
 **Datensatz- und Schnittstellenbeschreibung**
 
@@ -14960,7 +16056,9 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Anlage 2a BMV-Ä  Vordruck-Vereinbarung Blankoformu- larbedruckung
 
@@ -14968,7 +16066,9 @@ Technische Anlage zu Anlage 4a  (BMV-Ä) in aktuellster Version
 
 Anforderungskatalog KVDT, in aktu- ellster Version
 
-Anforderungskatalog Formularbe-  druckung, in aktuellster Version
+Anforderungskatalog Formularbe-
+
+druckung, in aktuellster Version
 
 Rahmenvertrag über ein Entlassma- nagement beim Übergang in die Ver- sorgung nach Krankenhausbehand- lung
 

@@ -12,7 +12,11 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Zeugnis über den 3** **mutmaßlichen Tag** **der Entbindung**
+**Zeugnis über den**
+
+**3**
+
+**mutmaßlichen Tag** **der Entbindung**
 
 **Ausfertigung für die Versicherte** **(z.B. zur Vorlage beim Arbeitgeber)**
 

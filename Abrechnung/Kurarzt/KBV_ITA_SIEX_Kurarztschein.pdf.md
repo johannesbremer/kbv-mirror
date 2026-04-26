@@ -4,19 +4,27 @@ Name, Vorname des Versicherten
 
 Kostenträgerkennung Versicherten-Nr.
 
-### Freigabe 05.11.2014
+#### Freigabe 05.11.2014
 
 Status
 
 Behandlungsausweis für kurärztliche Behandlung
 
-**Mitgegebene**geb. am **Unterlagen:**
+**Mitgegebene**
+
+geb. am
+
+**Unterlagen:**
 
 **- Kurarztschein -**
 
 **Original**
 
-Rö SonoEKG **Auswertung**
+Rö Sono
+
+EKG
+
+**Auswertung**
 
 **Relevante Diagnosen** **toren**  **Regulations-**
 
@@ -36,13 +44,31 @@ Ambulante Vorsorgeleistung zur Krankheitsverhütung
 
 Ambulante Vorsorgeleistung bei bestehenden Krankheiten **Dauermedikation:**
 
-Ambulante Vorsorgeleistung für Kinder**Nein** **Ja - welche:**
+Ambulante Vorsorgeleistung für Kinder
 
-- **Dauermedikamente sind ausreichend zu verordnen! -**  Durchführung als Kompaktkur Kurort:Dauer in In Behandlung seit:Der Patient ist vorsorgefähig:Wochen:Ja Nein
+**Nein** **Ja - welche:**
+
+- **Dauermedikamente sind ausreichend zu verordnen! -**
+
+Durchführung als Kompaktkur
+
+Kurort:
+
+Dauer in
+
+In Behandlung seit:
+
+Der Patient ist vorsorgefähig:
+
+Wochen:
+
+Ja Nein
 
 ### Zur Beachtung für den Versicherten!
 
-Hinweise/Risiken/Einschränkungen: Bitte den Kurarztschein ca. 1 Woche vor Beginn vom behandelnden Arzt ausfüllen lassen
+Hinweise/Risiken/Einschränkungen:
+
+Bitte den Kurarztschein ca. 1 Woche vor Beginn vom behandelnden Arzt ausfüllen lassen
 
 Bitte unbedingt die Krankenversichertenkarte für den Kurarzt mitnehmen Verhaltenspräventive Maßnahmen empfohlen?
 
@@ -50,14 +76,26 @@ Ja Nein
 
 ### Verbindliches Muster
 
-DatumVertragsarztstempel / Unterschrift des Arztes DatumKrankenkassenstempel und Unterschrift (1.2015)
+Datum
+
+Vertragsarztstempel / Unterschrift des Arztes
+
+Datum
+
+Krankenkassenstempel und Unterschrift (1.2015)
 
 
 ---
 
-Anreise am **Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes** Abreise am
+Anreise am
 
-**1**Abbruch am
+**Datum der durchgeführten Untersuchung bzw. des Arzt-/Patientenkontaktes**
+
+Abreise am
+
+**1**
+
+Abbruch am
 
 Verlängerung bewilligt für Wochen per
 
@@ -76,11 +114,21 @@ Verhaltenspräventive Maßnahmen angeregt
 
 **gemäß § 14 des Kurarztvertrages**
 
-**2345**
+**2**
+
+**3**
+
+**4**
+
+**5**
 
 **Freigabe 05.11.2014**
 
-Durchführung als durchgeführt Kompaktkur nicht möglich
+Durchführung als
+
+durchgeführt
+
+Kompaktkur nicht möglich
 
 **6**
 

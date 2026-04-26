@@ -13,13 +13,11 @@ Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 1.2 Abgrenzung .......................................................................................................................................................5
 
-2 Arten der übermittelten Nachrichten .......................................................................... 6 3
+2 Arten der übermittelten Nachrichten .......................................................................... 6
 
-## Anforderungen an die Software-Systeme................................................................... 7 3.1
+3 Anforderungen an die Software-Systeme................................................................... 7 3.1 Übergreifende Anforderungen an 1ClickHybridDRG .....................................................................7
 
-### Übergreifende Anforderungen an 1ClickHybridDRG .....................................................................7 3.2
-
-### Anforderungen an 1ClickHybridDRG-Lieferung ...............................................................................8
+3.2 Anforderungen an 1ClickHybridDRG-Lieferung ...............................................................................8
 
 3.2.1 Anforderungen an den Nachrichten-Header...........................................................................................................................8
 
@@ -27,9 +25,9 @@ Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 3.2.3 Anforderungen an die Anhänge ....................................................................................................................................................8
 
-3.2.4 Beispiel für eine 1ClickHybridDRG-Lieferung..................................................................................................................... 11 3.3
+3.2.4 Beispiel für eine 1ClickHybridDRG-Lieferung..................................................................................................................... 11
 
-### Anforderungen an die 1ClickHybridDRG-Eingangsbestätigung.............................................. 12
+3.3 Anforderungen an die 1ClickHybridDRG-Eingangsbestätigung.............................................. 12
 
 3.3.1 Anforderungen an den Nachrichten-Header........................................................................................................................ 12
 
@@ -37,9 +35,9 @@ Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 3.3.3 Anforderungen an die Anhänge ................................................................................................................................................. 12
 
-3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung.............................................................................................. 13 3.4
+3.3.4 Beispiel für eine 1ClickHybridDRG-Eingangsbestätigung.............................................................................................. 13
 
-### Anforderungen an die 1ClickHybridDRG-Rückmeldung ............................................................ 14
+3.4 Anforderungen an die 1ClickHybridDRG-Rückmeldung ............................................................ 14
 
 3.4.1 Allgemeine Anforderungen an die 1ClickHybridDRG-Rückmeldung ........................................................................ 14
 
@@ -49,9 +47,9 @@ Copyright © kv.digital GmbH, 2024 Alle Rechte vorbehalten. Nachdruck und Vervie
 
 3.4.4 Anforderungen an die Anhänge ................................................................................................................................................. 14
 
-3.4.5 Beispiel für eine 1ClickHybridDRG-Rückmeldung ............................................................................................................ 16 3.5
+3.4.5 Beispiel für eine 1ClickHybridDRG-Rückmeldung ............................................................................................................ 16
 
-### Anforderungen zum Versand und Empfang von Nachrichten ................................................... 17
+3.5 Anforderungen zum Versand und Empfang von Nachrichten ................................................... 17
 
 3.5.1 Anforderungen an die Software-Systeme der Leistungserbringer.............................................................................. 17
 
@@ -85,7 +83,11 @@ Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung.....................
 
 **Version Datum Autor Kapitel**
 
-1.0 20.06.2024 kv.digital alle GmbH
+1.0
+
+20.06.2024 kv.digital alle
+
+GmbH
 
 **Herausgeber**
 
@@ -103,14 +105,20 @@ initiale Erstellung 1ClickHybridDRG V1.0
 
 Ankündigung, in  Kraft zum  01.01.2025
 
-Lizenzbestimmungen  [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) 4 von 24
+Lizenzbestimmungen
+
+[https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) 4 von 24
 
 
 ---
 
 **1 Einführung** Dieses Dokument dient der Spezifikation der Inhalte der Anwendung 1ClickHybridDRG für die Übermittlung  von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen).
 
-Mittels des Anwendungsdienstes 1ClickHybridDRG können berechtigte Vertragsärztinnen und Vertragsärzte  sowie MVZ Nachrichten zur Abrechnung von Leistungen nach der Hybrid-DRG-Verordnung an ihre  Kassenärztliche Vereinigung (KV) senden. Das funktioniert „per Klick“, also direkt aus dem Software-System  heraus. Auch die Reaktionen des jeweiligen Abrechnungszentrums der KV (Eingangsbestätigungen,  Rückmeldungen) werden direkt in das Software-System des Anwenders übermittelt.
+Mittels des Anwendungsdienstes 1ClickHybridDRG können berechtigte Vertragsärztinnen und Vertragsärzte
+
+sowie MVZ Nachrichten zur Abrechnung von Leistungen nach der Hybrid-DRG-Verordnung an ihre
+
+Kassenärztliche Vereinigung (KV) senden. Das funktioniert „per Klick“, also direkt aus dem Software-System  heraus. Auch die Reaktionen des jeweiligen Abrechnungszentrums der KV (Eingangsbestätigungen,  Rückmeldungen) werden direkt in das Software-System des Anwenders übermittelt.
 
 **1.1 Geltungsbereich** Die vorliegende Spezifikation gilt für alle Software-Systeme im Gesundheitswesen, die die elektronische  Kommunikation im Bereich der vertragsärztlichen Versorgung unterstützen. Sie beschreibt die  Nachrichteninhalte und den Aufbau der Nachricht sowie die Verarbeitung der Nachricht im Software-System.
 
@@ -123,10 +131,22 @@ Mittels des Anwendungsdienstes 1ClickHybridDRG können berechtigte Vertragsärzt
 
 **2 Arten der übermittelten Nachrichten** Für die Anwendung 1ClickHybridDRG sind drei Arten von Nachrichten spezifiziert:
 
-1. die **1ClickHybridDRG-Lieferung**: enthält den zu übermittelnden Inhalt und ist anhand der  Dienstkennung "1ClickHybridDRG;Lieferung;V1.0" identifizierbar.  Folgende Dateien sind Bestandteil einer 1ClickHybridDRG-Lieferung:
+1. die **1ClickHybridDRG-Lieferung**: enthält den zu übermittelnden Inhalt und ist anhand der
+
+Dienstkennung "1ClickHybridDRG;Lieferung;V1.0" identifizierbar.  Folgende Dateien sind Bestandteil einer 1ClickHybridDRG-Lieferung:
+
 - eine nach den Vorgaben der KBV erstellte KVDT-Abrechnungsdatei (Satzart Hybrid-DRG)
-- eine Begleitdatei im XML-Format 2. die **1ClickHybridDRG-Eingangsbestätigung (Technische Rückmeldung)**: ist die technische  Rückmeldung und informiert den Absender darüber, dass die versendete 1ClickHybridDRG-Lieferung  an den Empfänger ausgeliefert wurde. Sie hat die Dienstkennung  "1ClickHybridDRG;Eingangsbestaetigung;V1.0". 3. die **1ClickHybridDRG-Rückmeldung (Fachliche Rückmeldung)**: enthält die fachliche Rückmeldung zu  einer versendeten 1ClickHybridDRG-Lieferung und ist anhand der Dienstkennung  "1ClickHybridDRG;Rueckmeldung;V1.0" identifizierbar.  Folgende Dateien sind Bestandteil einer 1ClickHybridDRG-Rückmeldung:
+
+- eine Begleitdatei im XML-Format
+
+2. die **1ClickHybridDRG-Eingangsbestätigung (Technische Rückmeldung)**: ist die technische
+
+Rückmeldung und informiert den Absender darüber, dass die versendete 1ClickHybridDRG-Lieferung  an den Empfänger ausgeliefert wurde. Sie hat die Dienstkennung  "1ClickHybridDRG;Eingangsbestaetigung;V1.0". 3. die **1ClickHybridDRG-Rückmeldung (Fachliche Rückmeldung)**: enthält die fachliche Rückmeldung zu
+
+einer versendeten 1ClickHybridDRG-Lieferung und ist anhand der Dienstkennung  "1ClickHybridDRG;Rueckmeldung;V1.0" identifizierbar.  Folgende Dateien sind Bestandteil einer 1ClickHybridDRG-Rückmeldung:
+
 - Begleitdatei (verpflichtend; dient als Bezug zum eingesendeten Datenpaket)
+
 - eine oder mehrere Dateien im PDF-Format 6 24
 
 
@@ -148,7 +168,11 @@ Für alle 1ClickHybridDRG-Nachrichtenarten gelten die folgenden Anforderungen:
 
 **[1HDRG0002]**
 
-1ClickHybridDRG-Nachrichten **DÜRFEN KEIN** Header-Element Disposition-Notification-To zur Anforderung einer MDN enthalten. Werden Nachrichten empfangen, die das Header-Element  Disposition-Notification-To enthalten, so ist dieses Element zu ignorieren und keine MDN zu  versenden.
+1ClickHybridDRG-Nachrichten **DÜRFEN KEIN** Header-Element Disposition-Notification-To
+
+zur Anforderung einer MDN enthalten. Werden Nachrichten empfangen, die das Header-Element  Disposition-Notification-To enthalten, so ist dieses Element zu ignorieren und keine MDN zu
+
+versenden.
 
 **[1HDRG0003]**
 
@@ -181,22 +205,32 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 **[1HDRG0130]**
 
-Jede 1ClickHybridDRG-Lieferung **MUSS** genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei  (Satzart Hybrid-DRG) gemäß [KVDT] enthalten.
+Jede 1ClickHybridDRG-Lieferung **MUSS** genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei
+
+(Satzart Hybrid-DRG) gemäß [KVDT] enthalten.
 
 **[1HDRG0131]**
 
-Die KVDT-Abrechnungsdatei (Satzart Hybrid-DRG) **MUSS** den geltenden Vorgaben gemäß [KVDT]  entsprechen.
+Die KVDT-Abrechnungsdatei (Satzart Hybrid-DRG) **MUSS** den geltenden Vorgaben gemäß [KVDT]
+
+entsprechen.
 
 Anmerkungen:
 
 Die Abrechnung kann in folgende Arten unterteilt werden:
 
 - **Echtabrechnung** Die Echtabrechnung ist die Grundlage zur Ermittlung des ärztlichen Honorars.
+
 - **Korrekturlieferung**
+
 - Eine Korrekturlieferung ist nur im Zusammenhang mit einer Echtabrechnung möglich.
+
 - Beispielsweise hat eine Praxis bereits eine Echtabrechnung versendet und im Nachhinein  erkannt, dass in der Abrechnung Fehler enthalten waren. Eine korrigierte Lieferung kann an die  KV nach direkter Absprache und anschließender Freischaltung durch die zuständige KV an diese  KV übermittelt werden. Die KV erkennt die Korrektur an der hochgezählten Versionsnummer in  der Begleitdatei.
+
 - **Testabrechnung**
+
 - Die Testabrechnung ist eine optionale Dienstleistung einer KV. Ob eine KV diese Dienstleistung  anbietet, entscheidet sie selbst. Ob diese Dienstleistung von der zuständigen KV angeboten wird,  ist vom Software-System aus der jeweils für das Quartal gültigen SDKVCA  [KVCA_Dienste_Adressen] zu ermitteln.
+
 - Falls die Testabrechnung von einer KV angeboten wird, können Testabrechnungen jederzeit an  die zuständige KV gesendet werden.
 
 8 24
@@ -205,6 +239,7 @@ Die Abrechnung kann in folgende Arten unterteilt werden:
 ---
 
 - Die Prüfung der Testabrechnung erfolgt KV-abhängig. In der Regel durchläuft die  Testabrechnung einen Standard-Einleseprozess. Einige KVen bieten zusätzlich die Prüfung der  korrekten Hybrid-DRG-Zuordnungen an. Dadurch ist gewährleistet, dass die Abrechnung auf die  Einhaltung aktueller Vorgaben getestet wird.
+
 - Eine Testabrechnung wird nicht in den Echtabrechnungsprozess übernommen.
 
 **[1HDRG0132]**
@@ -217,7 +252,9 @@ Die Begleitdatei **MUSS** den geltenden Vorgaben gemäß [BGD] entsprechen.
 
 **[1HDRG0134]**
 
-Das Element " dokumenten_typ " der Begleitdatei **MUSS** mit dem Wert  werden.
+Das Element " dokumenten_typ " der Begleitdatei **MUSS** mit dem Wert
+
+werden.
 
 **[1HDRG0135]**
 
@@ -229,7 +266,9 @@ Das Element " vollständig " der Begleitdatei **MUSS** mit dem Wert "true"
 
 **[1HDRG0139]**
 
-Die 1ClickHybridDRG-Lieferung **DARF KEINE** weiteren Anhänge außer der KVDT-Abrechnungsdatei  (Satzart Hybrid-DRG) und der Begleitdatei enthalten.
+Die 1ClickHybridDRG-Lieferung **DARF KEINE** weiteren Anhänge außer der KVDT-Abrechnungsdatei
+
+(Satzart Hybrid-DRG) und der Begleitdatei enthalten.
 
 "ABRECHNUNG" befüllt
 
@@ -372,9 +411,14 @@ Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sen
 
 **[1HDRG0300]**
 
-Die 1ClickHybridDRG-Rückmeldung **MUSS** die Prüfungsergebnisse der eingesendeten Hybrid-DRG- Datenlieferung enthalten. Die Darstellung der Prüfungsergebnisse **MUSS**
+Die 1ClickHybridDRG-Rückmeldung **MUSS** die Prüfungsergebnisse der eingesendeten Hybrid-DRG-
+
+Datenlieferung enthalten. Die Darstellung der Prüfungsergebnisse **MUSS**
+
 - als menschenlesbarer Text im Nachrichten-Body oder
+
 - als eine oder mehrere PDF-Dateien im Nachrichten-Anhang oder
+
 - als menschenlesbarer Text im Nachrichten-Body und als eine oder mehrere PDF-Dateien im  Nachrichten-Anhang
 
 erfolgen.
@@ -382,6 +426,7 @@ erfolgen.
 Anmerkungen:
 
 - Die jeweilige KV legt selbst fest, welche Form der 1ClickHybridDRG-Rückmeldung genutzt wird.
+
 - In jedem Fall enthält die 1ClickHybridDRG-Rückmeldung die Prüfungsergebnisse der eingesendeten  Datenlieferung.
 
 3.4.2 Anforderungen an den Nachrichten-Header
@@ -394,7 +439,9 @@ Inhalt " 1ClickHybridDRG;Rueckmeldung;V1.0 " aufweisen.
 
 **[1HDRG0311]**
 
-Das Header-Element Subject  **MUSS** genau den Inhalt " 1ClickHybridDRG-Rueckmeldung aufweisen.
+Das Header-Element Subject  **MUSS** genau den Inhalt " 1ClickHybridDRG-Rueckmeldung
+
+aufweisen.
 
 3.4.3 Anforderungen an den Nachrichten-Body
 
@@ -404,7 +451,9 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 **[1HDRG0330]**
 
-Jede 1ClickHybridDRG-Rückmeldung **MUSS** die Begleitdatei enthalten, die der Einsender in der  1ClickHybridDRG-Lieferung gesendet hat.
+Jede 1ClickHybridDRG-Rückmeldung **MUSS** die Begleitdatei enthalten, die der Einsender in der
+
+1ClickHybridDRG-Lieferung gesendet hat.
 
 Anmerkung:
 
@@ -417,7 +466,9 @@ Anmerkung:
 
 **[1HDRG0331]**
 
-Jede 1ClickHybridDRG-Rückmeldung  enthalten; diese **MÜSSEN** den Empfänger über die durchgeführten Prüfungen und deren Ergebnisse  informieren.
+Jede 1ClickHybridDRG-Rückmeldung  enthalten; diese **MÜSSEN** den Empfänger über die durchgeführten Prüfungen und deren Ergebnisse
+
+informieren.
 
 **[1HDRG0332]**
 
@@ -485,15 +536,23 @@ This is a multi-part message in MIME format.  --------------08080702050908060105
 
 **[1HDRG0810]**
 
-Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, vor dem Versand zu erfassen, ob die zu  versendende 1ClickHybridDRG-Lieferung als Echt- oder Testabrechnung oder als Korrektur einer  Echtabrechnung anzusehen ist. Das Software-System **MUSS** diese Angabe automatisch in die Begleitdatei  übernehmen.
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, vor dem Versand zu erfassen, ob die zu
+
+versendende 1ClickHybridDRG-Lieferung als Echt- oder Testabrechnung oder als Korrektur einer  Echtabrechnung anzusehen ist. Das Software-System **MUSS** diese Angabe automatisch in die Begleitdatei
+
+übernehmen.
 
 **[1HDRG0811]**
 
-Das Software-System **MUSS** eine Begleitdatei gemäß [BGD] erstellen. Die dafür notwendigen Angaben  sind vor dem Versand zu erfassen und automatisch in die 1ClickHybridDRG-Lieferung zu übernehmen.
+Das Software-System **MUSS** eine Begleitdatei gemäß [BGD] erstellen. Die dafür notwendigen Angaben
+
+sind vor dem Versand zu erfassen und automatisch in die 1ClickHybridDRG-Lieferung zu übernehmen.
 
 **[1HDRG0812]**
 
-Das Software-System **MUSS** die KIM-Adresse der zuständigen KV anhand der SDKVCA  [KVCA_Dienste_Adressen] bestimmen und automatisch in die Nachricht übernehmen.
+Das Software-System **MUSS** die KIM-Adresse der zuständigen KV anhand der SDKVCA
+
+[KVCA_Dienste_Adressen] bestimmen und automatisch in die Nachricht übernehmen.
 
 Anmerkungen:
 
@@ -501,11 +560,20 @@ Anmerkungen:
 
 **[1HDRG0813]**
 
-Das Software-System **MUSS** alle ausgehenden1ClickHybridDRG-Lieferungen in einem Postordner  speichern und dem Anwender die Möglichkeit bieten, sich die Nachrichten erneut anzeigen zu lassen. Die  Nachrichten **MÜSSEN** so gekennzeichnet sein, dass der Anwender auch ohne Öffnen einer Nachricht  erkennen kann,
+Das Software-System **MUSS** alle ausgehenden1ClickHybridDRG-Lieferungen in einem Postordner
+
+speichern und dem Anwender die Möglichkeit bieten, sich die Nachrichten erneut anzeigen zu lassen. Die  Nachrichten **MÜSSEN** so gekennzeichnet sein, dass der Anwender auch ohne Öffnen einer Nachricht
+
+erkennen kann,
+
 - ob sie erfolgreich gesendet worden ist,
+
 - an wen und wann sie gesendet wurde,
+
 - welche Abrechnungsdatei mit der 1ClickHybridDRG-Lieferung versendet wurde,
+
 - ob für eine versendete 1ClickHybridDRG-Lieferung eine technische Rückmeldung  (Eingangsbestätigung) vorliegt,
+
 - ob für eine versendete 1ClickHybridDRG-Lieferung eine fachliche Rückmeldung vorliegt.
 
 Die Anzeige der Nachrichten **MUSS** übersichtlich und praktikabel sein.
@@ -522,28 +590,45 @@ Anmerkung:
 **[1HDRG0814]**
 
 Das Software-System **MUSS**
+
 - es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den Mailserver des  Kommunikationsdienstes nach 1ClickHybridDRG-Nachrichten (1ClickHybridDRG- Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen) abzufragen,
+
 - auf dem Server vorliegende 1ClickHybridDRG-Nachrichten vom Server abholen und
+
 - die abgeholten 1ClickHybridDRG-Nachrichten in einem geeigneten Format für die  Weiterverarbeitung zur Verfügung stellen.
 
 **[1HDRG0815]**
 
-Das Software-System **MUSS** bei eingehenden 1ClickHybridDRG-Nachrichten (1ClickHybridDRG- Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen) prüfen,
+Das Software-System **MUSS** bei eingehenden 1ClickHybridDRG-Nachrichten (1ClickHybridDRG-
+
+Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen) prüfen,
+
 - ob diese einen Bezug zu einer gesendeten 1ClickHybridDRG-Lieferung haben und
+
 - die entsprechende 1ClickHybridDRG-Lieferung sinnvoll kennzeichnen und zuordnen.
 
 Dabei gilt, dass die Zuordnung:
+
 - der 1ClickHybridDRG-Eingangsbestätigungen zu der gesendeten 1ClickHybridDRG-Lieferung über  In-Reply-To und/oder Original-Message-ID erfolgen **MUSS**
+
 - der 1ClickHybridDRG-Rückmeldungen zu der gesendeten 1ClickHybridDRG-Lieferung über den  GUID der Begleitdatei erfolgen **MUSS**
 
 **[1HDRG0816]**
 
-Kann das Software-System bei den eingehenden 1ClickHybridDRG-Nachrichten (1ClickHybridDRG- Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen) keinen Bezug zu einer gesendeten  1ClickHybridDRG-Lieferung herstellen, **MUSS** das Software-System dem Anwender eine entsprechende  Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein:
+Kann das Software-System bei den eingehenden 1ClickHybridDRG-Nachrichten (1ClickHybridDRG- Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen) keinen Bezug zu einer gesendeten  1ClickHybridDRG-Lieferung herstellen, **MUSS** das Software-System dem Anwender eine entsprechende
+
+Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein:
+
 - empfangene 1ClickHybridDRG-Nachricht(en) (1ClickHybridDRG-Eingangsbestätigungen und  1ClickHybridDRG-Rückmeldungen) kann bzw. können nicht zugeordnet werden
+
 - Rückfrage bei der KV ist notwendig
+
 - notwendige Informationen aus der empfangenen 1ClickHybridDRG- Nachrichten (1ClickHybridDRG-Eingangsbestätigungen und 1ClickHybridDRG-Rückmeldungen)  für die Rückfrage bei der KV:
+
 - Absender (Angabe im Header-Element From)
+
 - Datum des Versands (Angabe im Header-Element Date) - Message-ID
+
 - GUID aus der Begleitdatei – sofern enthalten und lesbar
 
 Anmerkung:
@@ -557,16 +642,23 @@ Anmerkung:
 
 **[1HDRG0817]**
 
-Hat das Software-System nach Versand der 1ClickHybridDRG-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickHybridDRG-Eingangsbestätigung bzw. 1ClickHybridDRG- Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützen Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickHybridDRG-Nachrichten  informieren.
+Hat das Software-System nach Versand der 1ClickHybridDRG-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickHybridDRG-Eingangsbestätigung bzw. 1ClickHybridDRG- Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützen Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickHybridDRG-Nachrichten
+
+informieren.
 
 Anmerkung:
 
 - Die Information muss in geeigneter Form erfolgen.
+
 - Die Information kann Empfehlungen für eine geeignete Reaktion des Anwenders enthalten, bspw. die  Rückfrage bei der KV per Telefon oder E-Mail.
 
 **[1HDRG0818]**
 
-Der Anwender **MUSS** sich die 1ClickHybridDRG-Lieferung inklusive aller Anhänge anzeigen lassen und  öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen Rückmeldungen inklusive  aller Anhänge in der gleichen Ansicht, ggf. im gleichen Postordner, anzeigen lassen und öffnen können.
+Der Anwender **MUSS** sich die 1ClickHybridDRG-Lieferung inklusive aller Anhänge anzeigen lassen und
+
+öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen Rückmeldungen inklusive
+
+aller Anhänge in der gleichen Ansicht, ggf. im gleichen Postordner, anzeigen lassen und öffnen können.
 
 Anmerkung:
 
@@ -580,7 +672,9 @@ Anmerkung:
 
 - Die Anzeige muss in geeigneter Form erfolgen.
 
-**MUSS** das Software- **KANN** das Software-
+**MUSS** das Software-
+
+**KANN** das Software-
 
 19 24
 
@@ -592,28 +686,43 @@ Anmerkung:
 **[1HDRG0910]**
 
 Das Software-System **MUSS** es dem Anwender ermöglichen,
+
 - aktiv oder automatisiert (periodisch) den Mailserver des Kommunikationsdienstes nach  1ClickHybridDRG-Lieferungen abzufragen,
+
 - auf dem Server liegende 1ClickHybridDRG-Lieferungen abzuholen,
+
 - abgeholte 1ClickHybridDRG-Lieferungen für die weitere Verarbeitung in einem geeigneten Format  zur Verfügung zu stellen.
 
 **[1HDRG0911]**
 
 Das Software-System **MUSS**
+
 - aus den empfangenen 1ClickHybridDRG-Lieferungen alle notwendigen Informationen für  Rückantworten ermitteln, vorhalten und ggf. mit weiteren Informationen anreichern,
+
 - die formale Prüfung und Weiterverarbeitung der enthaltenen Dateien sicherstellen,
 
 so dass je nach Status der Prüfung und Weiterverarbeitung der Dateien die entsprechenden  1ClickHybridDRG-Nachrichten (1ClickHybridDRG-Eingangsbestätigung und 1ClickHybridDRG- Rückmeldungen) erzeugt und an den entsprechenden Leistungserbringer bzw. Absender der  1ClickHybridDRG-Lieferung versendet werden können.
 
 **[1HDRG0912]**
 
-Das Software-System **MUSS** zu jeder empfangenen 1ClickHybridDRG-Lieferung **genau** eine  1ClickHybridDRG-Eingangsbestätigung nach den Maßgaben dieser Spezifikation sowie gemäß [MDN]  erzeugen und an den Absender der 1ClickHybridDRG-Lieferung zurücksenden, **WENN**
+Das Software-System **MUSS** zu jeder empfangenen 1ClickHybridDRG-Lieferung **genau** eine
+
+1ClickHybridDRG-Eingangsbestätigung nach den Maßgaben dieser Spezifikation sowie gemäß [MDN]  erzeugen und an den Absender der 1ClickHybridDRG-Lieferung zurücksenden, **WENN**
+
 - diese Funktion von der zuständigen KV unterstützt wird und
+
 - dies entsprechend in der SDKVCA angegeben ist.
 
 **[1HDRG0913]**
 
-Das Software-System **MUSS** zu jeder empfangenen 1ClickHybridDRG-Lieferung nach erfolgter Prüfung  **mindestens** eine 1ClickHybridDRG-Rückmeldung nach den Maßgaben dieser Spezifikation erzeugen und  an den Absender der 1ClickHybridDRG-Lieferung zurücksenden, **WENN**
+Das Software-System **MUSS** zu jeder empfangenen 1ClickHybridDRG-Lieferung nach erfolgter Prüfung
+
+**mindestens** eine 1ClickHybridDRG-Rückmeldung nach den Maßgaben dieser Spezifikation erzeugen und
+
+an den Absender der 1ClickHybridDRG-Lieferung zurücksenden, **WENN**
+
 - diese Funktion von der zuständigen KV unterstützt wird und
+
 - dies entsprechend in der SDKVCA angegeben ist.
 
 Anmerkungen:
@@ -621,10 +730,18 @@ Anmerkungen:
 Es obliegt der jeweiligen KV, selbst festzulegen:
 
 1. welche Prüfungen bzgl. des Nachrichtenaufbaus erfolgen:
+
 - Prüfung auf korrekte Header-Elemente (z.B. Dienstkennung)
-- Prüfung auf korrekte Meta-Informationen der Anhänge 2. welche Prüfungen bzgl. KVDT-Abrechnungsdatei erfolgen:
+
+- Prüfung auf korrekte Meta-Informationen der Anhänge
+
+2. welche Prüfungen bzgl. KVDT-Abrechnungsdatei erfolgen:
+
 - Prüfung der Verschlüsselung: Kann die Abrechnungsdatei entschlüsselt werden? Wurde das  aktuelle KBV-Kryptomodul (XKM) verwendet?
-- Prüfung der Inhalte: Prüfung durch das KVDT-Prüfmodul der KBV, zusätzlich Prüfung durch das  KV-Regelwerk und der Hybrid-DRG-Abrechnung 3. ob und welche Prüfungen bzgl. der Begleitdatei erfolgen: 20 24
+
+- Prüfung der Inhalte: Prüfung durch das KVDT-Prüfmodul der KBV, zusätzlich Prüfung durch das  KV-Regelwerk und der Hybrid-DRG-Abrechnung
+
+3. ob und welche Prüfungen bzgl. der Begleitdatei erfolgen: 20 24
 
 
 ---
@@ -634,6 +751,7 @@ Es obliegt der jeweiligen KV, selbst festzulegen:
 Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absender der 1ClickHybridDRG- Lieferung mitzuteilen sind. Da Fehler zeitlich versetzt auftreten können, kann die KV:
 
 - die Prüfungsergebnisse sammeln und genau eine 1ClickHybridDRG-Rückmeldung zurücksenden oder
+
 - die Prüfungsergebnisse nach jedem Verarbeitungsschritt in Form der 1ClickHybridDRG-Rückmeldung  versenden.
 
 21 24
@@ -642,12 +760,22 @@ Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absen
 ---
 
 **4 Referenzen**
+
 - [MDN]: Spezifikation MDN [https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen](https://partnerportal.kv-telematik.de/display/KDK/KIM-Anwendungen)
+
 - [SPKA]: Spezifikation übergreifende Anforderungen [https://partnerportal.kv-telematik.de/display/](https://partnerportal.kv-telematik.de/display/) KDK/KIM-Anwendungen
-- [KVCA_Dienste_Adressen] Stammdatei KVCA [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/) SDKVCA/
+
+- [KVCA_Dienste_Adressen] Stammdatei KVCA [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/)
+
+SDKVCA/
+
 - [KVDT]: Datensatzbeschreibung KVDT und Anforderungskatalog KVDT  update/Abrechnung/
+
 - [UeZuDP]: Übersicht der zulässigen Datenpakete
-- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-) Anwendungen
+
+- [BGD]: Spezifikation Begleitdatei [https://partnerportal.kv-telematik.de/display/KDK/KIM-](https://partnerportal.kv-telematik.de/display/KDK/KIM-)
+
+Anwendungen
 
 [https://update.kbv.de/ita-](https://update.kbv.de/ita-) 22 24
 
@@ -656,11 +784,7 @@ Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absen
 
 **5 Anhang**
 
-**5.1**
-
-### Zulässige Datenpakete
-
-Die Dateien einer 1ClickHybridDRG-Lieferung oder einer 1ClickHybridDRG-Rückmeldung können in  unterschiedlichen Datenpaketen zusammengefasst werden. Die zulässigen Datenpakete stehen im  Zusammenhang mit den Funktionen der 1ClickAbrechnung und entsprechen den Funktionen der  1ClickAbrechnung. Jede KV entscheidet für sich, welche Funktionen sie anbietet. Damit ist gleichzeitig  festgelegt, welche Datenpakete zulässig sind. Die Funktionen und Datenpakete sind in der SDKVCA  [KVCA_Dienste_Adressen] abgebildet.
+**5.1 Zulässige Datenpakete**  Die Dateien einer 1ClickHybridDRG-Lieferung oder einer 1ClickHybridDRG-Rückmeldung können in  unterschiedlichen Datenpaketen zusammengefasst werden. Die zulässigen Datenpakete stehen im  Zusammenhang mit den Funktionen der 1ClickAbrechnung und entsprechen den Funktionen der  1ClickAbrechnung. Jede KV entscheidet für sich, welche Funktionen sie anbietet. Damit ist gleichzeitig  festgelegt, welche Datenpakete zulässig sind. Die Funktionen und Datenpakete sind in der SDKVCA  [KVCA_Dienste_Adressen] abgebildet.
 
 5.1.1 Zulässige Datenpakete der 1ClickHybridDRG-Lieferung
 
@@ -687,6 +811,7 @@ Die Funktionen 3, 4, 5 und 6 kommen nicht zum Einsatz.
 Mit der 1ClickHybridDRG-Eingangsbestätigung werden keine Datenpakete übertragen. Die betroffenen  Funktionen sind:
 
 - Funktion 7: technische Rückmeldung zu einer Testabrechnung
+
 - Funktion 8: technische Rückmeldung zu einer Echtabrechnung
 
 5.1.3 Zulässige Datenpakete der 1ClickHybridDRG-Rückmeldung

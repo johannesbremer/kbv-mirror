@@ -7,7 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. AUGUST 2022  VERSION: 1.02  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# SCHNITTSTELLENBESCHR EIBUNG  DEPRESSION
+# SCHNITTSTELLENBESCHR EIBUNG
+
+# DEPRESSION
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_DEPRESSION]
 
@@ -24,7 +26,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **3** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
 
-3.1 Kardinalität  3.2 Strukturelemente  3.3 Sonstige Symbole
+3.1 Kardinalität
+
+3.2 Strukturelemente
+
+3.3 Sonstige Symbole
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -34,7 +40,29 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  Parameter  Ergebnistext  Ergebniswert  6.1.4 Abschnitt „Administrative Daten“  Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  Körpergröße  Körpergewicht  Raucher  Blutdruck systolisch  Blutdruck diastolisch  Begleiterkrankungen  Aktuelle Symptomatik  PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode  Dauer der aktuellen depressiven Episode  Suizidalität eingeschätzt  6.1.6 Abschnitt „Nicht medikamentöse und medikamentöse Behandlung“ Aktuelle Psychotherapie  Aktuelle medikamentöse Therapie mit Antidepressiva  6.1.7 Abschnitt „Schulung“  Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung  teilgenommen  Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) 6.1.8 Abschnitt „Behandlungsplanung“  Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall
+6.1 Sektion (section)  6.1.1 caption 6.1.2 content
+
+6.1.3 Sciphox-SSU observation  Parameter  Ergebnistext  Ergebniswert
+
+6.1.4 Abschnitt „Administrative Daten“
+
+Einschreibung wegen
+
+6.1.5 Abschnitt „Anamnese und Befunddaten“
+
+Körpergröße  Körpergewicht  Raucher  Blutdruck systolisch  Blutdruck diastolisch  Begleiterkrankungen  Aktuelle Symptomatik  PHQ-9 Summenwert
+
+Schweregrad zu Beginn der aktuellen depressiven Episode  Dauer der aktuellen depressiven Episode  Suizidalität eingeschätzt
+
+6.1.6 Abschnitt „Nicht medikamentöse und medikamentöse Behandlung“
+
+Aktuelle Psychotherapie  Aktuelle medikamentöse Therapie mit Antidepressiva 6.1.7 Abschnitt „Schulung“
+
+Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung  teilgenommen  Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
+
+6.1.8 Abschnitt „Behandlungsplanung“
+
+Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall
 
 **8**
 
@@ -48,22 +76,30 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **13**
 
-14  15  15  16  17  17  17  17  18  19  20  20  20  21  21  21  22  22  23  23  24  24  25  25
+14  15  15  16  17  17  17  17  18  19  20  20  20  21  21  21  22  22  23  23 24  24  25  25
 
-Unterschiede im Header des Datensatzes zum DMP Depression 26  27  27  28  28
+26
+
+27  27
+
+Unterschiede im Header des Datensatzes zum DMP Depression 28  28
 
 
 ---
 
 **7** **BODY DER VERLAUFSDOKUMENTATION**
 
-7.1 Sektion (section)  7.1.1  7.1.2 7.1.3  7.1.4    7.1.5
+7.1 Sektion (section)  7.1.1  7.1.2 7.1.3  7.1.4
+
+7.1.5
 
 **8** **GLOSSAR**
 
 **9** **REFERENZIERTE DOKUMENTE**
 
-Abschnitt „Administrative Daten“ Abschnitt „Anamnese Körpergröße  Körpergewicht  Raucher
+Abschnitt „Administrative Daten“
+
+Abschnitt „Anamnese Körpergröße  Körpergewicht  Raucher
 
 und Befunddaten“
 
@@ -71,13 +107,19 @@ Blutdruck systolisch
 
 Blutdruck diastolisch
 
-Begleiterkrankungen  Aktuelle Symptomatik  PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode  Dauer der aktuellen depressiven Episode  Suizidalität eingeschätzt  Abschnitt „Nicht medikamentöse und medikamentöse Behandlung“
+Begleiterkrankungen  Aktuelle Symptomatik  PHQ-9 Summenwert
 
-Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) Depressionsspezifische Schulung wahrgenommen  Abschnitt „Behandlungsplanung“
+Schweregrad zu Beginn der aktuellen depressiven Episode  Dauer der aktuellen depressiven Episode  Suizidalität eingeschätzt  Abschnitt „Nicht medikamentöse und medikamentöse Behandlung“
+
+Abschnitt „Schulung“
+
+Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) Depressionsspezifische Schulung wahrgenommen  Abschnitt „Behandlungsplanung“
 
 **29**
 
-29  29  29  29  29  29  29  30  30  30  30  30  30  31  31  31  31  32
+29  29  29  29  29  29  29  30  30  30  30  30  30 31  31
+
+31  31  32
 
 **33**
 
@@ -91,7 +133,13 @@ Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktuell
 
 ## ABBILDUNGSVERZEICHNIS
 
-**ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 12  **ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 13  **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14  **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
+**ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 12
+
+**ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 13
+
+**ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14
+
+**ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
 
 |  |  |
 |---|---|
@@ -101,7 +149,45 @@ Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktuell
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 18  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 20  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE) ............. 23  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (DAUER DER AKTUELLEN DEPRESSIVEN EPISODE) .............................................. 23  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (SUIZIDALITÄT EINGESCHÄTZT) ........................................................................... 23  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (AKTUELLE PSYCHOTHERAPIE) .......................................................................... 24  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (AKTUELLE MEDIKAMENTÖSE THERAPIE MIT ANTIDEPRESSIVA) ..................... 25  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER  DEPRESSIONSSPEZIFISCHEN SCHULUNG TEILGENOMMEN) .................................................................................... 26  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (DEPRESSIONSSPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER  DOKUMENTATION)) ................................................................................................................................................. 27  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ...................................................................................................................................................... 28  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 28  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE) ........... 30  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN) .......................... 32
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10
+
+**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10
+
+**TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11
+
+**TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 18
+
+**TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 20
+
+**TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22
+
+**TABELLE 7:** WERTE BEI ERGEBNISTEXT (SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE) ............. 23
+
+**TABELLE 8:** WERTE BEI ERGEBNISTEXT (DAUER DER AKTUELLEN DEPRESSIVEN EPISODE) .............................................. 23
+
+**TABELLE 9:** WERTE BEI ERGEBNISTEXT (SUIZIDALITÄT EINGESCHÄTZT) ........................................................................... 23
+
+**TABELLE 10:** WERTE BEI ERGEBNISTEXT (AKTUELLE PSYCHOTHERAPIE) .......................................................................... 24
+
+**TABELLE 11:** WERTE BEI ERGEBNISTEXT (AKTUELLE MEDIKAMENTÖSE THERAPIE MIT ANTIDEPRESSIVA) ..................... 25
+
+**TABELLE 12:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER
+
+DEPRESSIONSSPEZIFISCHEN SCHULUNG TEILGENOMMEN) .................................................................................... 26
+
+**TABELLE 13:** WERTE BEI ERGEBNISTEXT (DEPRESSIONSSPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER
+
+DOKUMENTATION)) ................................................................................................................................................. 27
+
+**TABELLE 14:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER
+
+KRANKENKASSE) ...................................................................................................................................................... 28
+
+**TABELLE 15:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 28
+
+**TABELLE 16:** WERTE BEI ERGEBNISTEXT (SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE) ........... 30
+
+**TABELLE 17:** WERTE BEI ERGEBNISTEXT (DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN) .......................... 32
 
 |  |  |
 |---|---|
@@ -111,7 +197,73 @@ Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktuell
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1:** LEVELONE ...................................................................................................................................................  **XML-CODE 2:** BODY ..........................................................................................................................................................  **XML-CODE 3:** SECTION .....................................................................................................................................................  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ...........................................................................................  **XML-CODE 5:** BEOBACHTUNGEN ......................................................................................................................................  **XML-CODE 6:** PARAMETER ...............................................................................................................................................  **XML-CODE 7:** ERGEBNISTEXT ...........................................................................................................................................  **XML-CODE 8:** ERGEBNISWERT ..........................................................................................................................................  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................  **XML-CODE 10:** EINSCHREIBUNG WEGEN .........................................................................................................................  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................  **XML-CODE 12:** KÖRPERGRÖßE .........................................................................................................................................  **XML-CODE 13:** KÖRPERGEWICHT .....................................................................................................................................  **XML-CODE 14:** RAUCHER ..................................................................................................................................................  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH ..........................................................................................................................  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................  **XML-CODE 17:** BEGLEITERKRANKUNGEN .........................................................................................................................  **XML-CODE 18:** AKTUELLE SYMPTOMATIK  PHQ-9 SUMMENWERT ................................................................................  **XML-CODE 19:** SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE  **XML-CODE 20:** DAUER DER AKTUELLEN DEPRESSIVEN EPISODE .....................................................................................  **XML-CODE 21:** SUIZIDALITÄT EINGESCHÄTZT ..................................................................................................................  **XML-CODE 22:** CONTENT (NICHT-MEDIKAMENTÖSE UND MEDIKAMENTÖSE BEHANDLUNG)  **XML-CODE 23:** AKTUELLE PSYCHOTHERAPIE ....................................................................................................................  **XML-CODE 24:** AKTUELLE MEDIKAMENTÖSE THERAPIE MIT ANTIDEPRESSIVA  **XML-CODE 21:** CONTENT (SCHULUNG) ............................................................................................................................  **XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER DEPRESSIONSSPEZIFISCHEN SCHULUNG  TEILGENOMMEN ......................................................................................................................................................  **XML-CODE 27**: DEPRESSIONSSPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)  **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) .....................................................................................................  **XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE  **XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................  **XML-CODE 31:** SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE  **XML-CODE 32:** CONTENT (SCHULUNG) ............................................................................................................................  **XML-CODE 34:** DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN ....................................................................
+**XML-CODE 1:** LEVELONE ...................................................................................................................................................
+
+**XML-CODE 2:** BODY ..........................................................................................................................................................
+
+**XML-CODE 3:** SECTION .....................................................................................................................................................
+
+**XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ...........................................................................................
+
+**XML-CODE 5:** BEOBACHTUNGEN ......................................................................................................................................
+
+**XML-CODE 6:** PARAMETER ...............................................................................................................................................
+
+**XML-CODE 7:** ERGEBNISTEXT ...........................................................................................................................................
+
+**XML-CODE 8:** ERGEBNISWERT ..........................................................................................................................................
+
+**XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................
+
+**XML-CODE 10:** EINSCHREIBUNG WEGEN .........................................................................................................................
+
+**XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................
+
+**XML-CODE 12:** KÖRPERGRÖßE .........................................................................................................................................
+
+**XML-CODE 13:** KÖRPERGEWICHT .....................................................................................................................................
+
+**XML-CODE 14:** RAUCHER ..................................................................................................................................................
+
+**XML-CODE 15:** BLUTDRUCK SYSTOLISCH ..........................................................................................................................
+
+**XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................
+
+**XML-CODE 17:** BEGLEITERKRANKUNGEN .........................................................................................................................
+
+**XML-CODE 18:** AKTUELLE SYMPTOMATIK  PHQ-9 SUMMENWERT ................................................................................
+
+**XML-CODE 19:** SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE
+
+**XML-CODE 20:** DAUER DER AKTUELLEN DEPRESSIVEN EPISODE .....................................................................................
+
+**XML-CODE 21:** SUIZIDALITÄT EINGESCHÄTZT ..................................................................................................................
+
+**XML-CODE 22:** CONTENT (NICHT-MEDIKAMENTÖSE UND MEDIKAMENTÖSE BEHANDLUNG)
+
+**XML-CODE 23:** AKTUELLE PSYCHOTHERAPIE ....................................................................................................................
+
+**XML-CODE 24:** AKTUELLE MEDIKAMENTÖSE THERAPIE MIT ANTIDEPRESSIVA
+
+**XML-CODE 21:** CONTENT (SCHULUNG) ............................................................................................................................
+
+**XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER DEPRESSIONSSPEZIFISCHEN SCHULUNG
+
+TEILGENOMMEN ......................................................................................................................................................
+
+**XML-CODE 27**: DEPRESSIONSSPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)
+
+**XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) .....................................................................................................
+
+**XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE
+
+**XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................
+
+**XML-CODE 31:** SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE
+
+**XML-CODE 32:** CONTENT (SCHULUNG) ............................................................................................................................
+
+**XML-CODE 34:** DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN ....................................................................
 
 12  13  15  16  16  17  17  17  18 18  19  20  20
 
@@ -121,13 +273,19 @@ Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktuell
 
 21
 
-22  ..................................................... 22  23
+22
 
-23  ....................................... 24  24  ............................................................... 25  26
+..................................................... 22  23 23
 
-26  ..................... 27  27  ............................... 28
+....................................... 24  24
 
-28  ..................................................... 30  31  31
+............................................................... 25  26 26
+
+..................... 27  27
+
+............................... 28 28
+
+..................................................... 30  31  31
 
 |  |  |
 |---|---|
@@ -135,7 +293,7 @@ Abschnitt „Schulung“  Depressionsspezifische Schulung empfohlen (bei aktuell
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -151,9 +309,7 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) 1.01 des Schn
 
 ---
 
-1
-
-## EINLEITUNG
+# 1 EINLEITUNG
 
 Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease  Management Programms (DMP) Depression.
 
@@ -175,25 +331,33 @@ Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Pl
 
 ---
 
-2
-
-## DATEINAMEN
+# 2 DATEINAMEN
 
 Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradokument  beschrieben [KBV_ITA_VGEX_XML-Schnittstellen].
 
-Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
+Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt: - Das Präfix setzt sich aus
 
-Das Präfix setzt sich aus  9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)  der DMP-Fallnummer  und dem Datum (Kopfdaten)  zusammen.  Die drei Bestandteile des Präfix werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert Allgemein hat das Präfix also folgenden Aufbau:  AAAAAAAAA_BBBBBBB_JJJJMMTT
+- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen) - der DMP-Fallnummer
+
+- und dem Datum (Kopfdaten)
+
+zusammen.
+
+- Die drei Bestandteile des Präfix werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert Allgemein hat das Präfix also folgenden Aufbau: - AAAAAAAAA_BBBBBBB_JJJJMMTT
 
 (die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern  sein).
 
 Es sind die folgenden Suffixkonventionen festgelegt:
 
-elektronische erstmalige Dokumentation: EE  Für die  elektronische Verlaufsdokumentation: EV  Für die  Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für Depression: DE
+- elektronische erstmalige Dokumentation: EE -  Für die
 
-Beispiele:
+- elektronische Verlaufsdokumentation: EV -  Für die
 
-123456789_123_20210301.EEDE  123456789_123_20210601.EVDE
+- Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für Depression: DE
+
+Beispiele: - 123456789_123_20210301.EEDE
+
+- 123456789_123_20210601.EVDE
 
 |  |  |
 |---|---|
@@ -201,13 +365,11 @@ Beispiele:
 
 ---
 
-3
-
-## SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
+# 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
 
-**3.1** **KARDINALITÄT**
+## 3.1 KARDINALITÄT
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -220,7 +382,7 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1:** Beschreibung der Kardinalitäten
 
-**3.2** **STRUKTURELEMENTE**
+## 3.2 STRUKTURELEMENTE
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
@@ -240,7 +402,7 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 
 ---
 
-**3.3** **SONSTIGE SYMBOLE**
+## 3.3 SONSTIGE SYMBOLE
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -262,30 +424,36 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches meh
 
 ---
 
-4
-
-## DOKUMENTENSTRUKTUR
+# 4 DOKUMENTENSTRUKTUR
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu beachten.
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement <levelone>, welches sich aus den  beiden Kindelementen <clinical_document_header> und <body> zusammensetzt, wie es in Abbildung 1  dargestellt ist.
 
-Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in  jedem Prüfmodul enthalten. Das Schema des Elements <levelone> von Depression heißt  DMP_Depression.xsd
+Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in
+
+jedem Prüfmodul enthalten. Das Schema des Elements <levelone> von Depression heißt  DMP_Depression.xsd
 
 **Abbildung 1:** Grundstruktur levelone
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"        </levelone> |
+| <?xml version="1.0" encoding="ISO-8859-15"?> <levelone xmlns="urn::hl7-org/cda"         </levelone> |
 |---|
 
 **XML-Code 1:** levelone
 
-Header“ [ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.  Spezielle Unterschiede werden in Kapitel 5 beschrieben.
+Header“ [
+
+Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP
+
+KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
+
+Spezielle Unterschiede werden in Kapitel 5 beschrieben.
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
-xmlns:sciphox="urn::sciphox-org/sciphox" xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body>
+xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body>
 
 |  |  |
 |---|---|
@@ -293,17 +461,13 @@ xmlns:sciphox="urn::sciphox-org/sciphox" xmlns:xsi=http://www.w3.org/2001/XMLSch
 
 ---
 
-5
+# 5 CLINICAL_DOCUMENT_HEADER
 
-## CLINICAL_DOCUMENT_HEADER
-
-**5.1** **UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP DEPRESSION**
+## 5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP DEPRESSION
 
 Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
 
-6
-
-## BODY DER „ERSTMALIGEN DOKUMENTATION“
+# 6 BODY DER „ERSTMALIGEN DOKUMENTATION“
 
 In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
 
@@ -326,13 +490,21 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 ---
 
-**6.1** **SEKTION (SECTION)**
+## 6.1 SEKTION (SECTION)
 
 Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <paragraph>-Element  beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Abbildung 3 dargestellt.
 
 **Abbildung 3:** Grundstruktur section
 
-und Befunddaten“, „Eine Sektion enthält die Abschnitte „Administrative Daten“, „AnamneseNicht- medikamentöse und medikamentöse Behandlung“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
+und Befunddaten“, „
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese
+
+Nicht-
+
+medikamentöse und medikamentöse Behandlung“, „Schulung“ und „Behandlungsplanung“, die jeweils in
+
+einem <paragraph>-Element untergebracht sind.
 
 |  |  |
 |---|---|
@@ -340,9 +512,15 @@ und Befunddaten“, „Eine Sektion enthält die Abschnitte „Administrative Da
 
 ---
 
-**6.1.1** **caption**
+### 6.1.1 caption
 
-„Anamnese Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“ und und Befunddaten“, „Nicht-medikamentöse und medikamentöse Behandlung“, „Schulung“ „Behandlungsplanung“ angegeben.
+„Anamnese
+
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“ und
+
+und Befunddaten“, „Nicht-medikamentöse und medikamentöse Behandlung“, „Schulung“
+
+„Behandlungsplanung“ angegeben.
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
@@ -351,11 +529,19 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 **XML-Code 3:** section
 
-**6.1.2** **content**
+### 6.1.2 content
 
-*ignore*. Das Attribut  hat den festen
+*ignore*
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Nicht-medikamentöse und medikamentöse Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute  und *descriptorignore* Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
+. Das Attribut  hat den festen
+
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute  und *descriptor*
+
+*ignore*
+
+Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Nicht-medikamentöse und medikamentöse Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>der feste Wert „sciphox“ vorgeschrieben.
 
 |  |  |
 |---|---|
@@ -363,20 +549,36 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 ---
 
-Für die Darstellung der Daten des DMP Depression („erstmalige Dokumentation“ und  ) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element Verlaufsdokumentation <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,  *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1 *country*=“de“,  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach  folgendermaßen aus:
+Für die Darstellung der Daten des DMP Depression („erstmalige Dokumentation“ und
+
+) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element
+
+Verlaufsdokumentation <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,
+
+*version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1
+
+*country*=“de“,
+
+verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach
+
+folgendermaßen aus:
 
 | <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">    </content> |
 |---|
 
-content mit sciphox -SSU (observation) **XML-Code 4:**
+content mit sciphox -SSU (observation)
 
-**6.1.3** **Sciphox-SSU observation**
+**XML-Code 4:**
+
+### 6.1.3 Sciphox-SSU observation
 
 Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> zusammen. Neben dem <sciphox:Parameter> Element muss mindestens eins dieser  optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem  bestimmten Parameter gemacht wurden, wird der komplette <sciphox:Beobachtung>-Block mit dem  jeweiligen Parameter weggelassen. Die Angabe einer <sciphox:Beobachtung> mit nur einem Element  <sciphox:Parameter> ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-Aufbau Sciphox -SSU observation **Abbildung 4:**
+Aufbau Sciphox -SSU observation
+
+**Abbildung 4:**
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
@@ -391,9 +593,11 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 ---
 
-Parameter
+### Parameter
 
-*DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz Das Element <Parameter> enthält nur das  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
+*DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
+
+Das Element <Parameter> enthält nur das  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
 *Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*  *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
@@ -402,31 +606,47 @@ Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 | </sciphox:Beobachtung> |
 |---|
 
-Parameter **XML-Code 6:**
+Parameter
 
-Ergebnistext
+**XML-Code 6:**
 
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
+### Ergebnistext
+
+*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
+
+Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code
+
+zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 | <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
-Ergebnistext **XML-Code 7:**
+Ergebnistext
 
-Ergebniswert
+**XML-Code 7:**
 
-*V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+### Ergebniswert
+
+*V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
+
+Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als
+
+Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)
+
+eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
 | </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
 
-**6.1.4** **Abschnitt „Administrative Daten“**
+### 6.1.4 Abschnitt „Administrative Daten“
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Beobachtung> <sciphox:Ergebniswert V=". . ." U="..."/>*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Beobachtung> <sciphox:Ergebniswert V=". . ." U="..."/>Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
 
 |  |  |
 |---|---|
@@ -441,7 +661,7 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 9:** content (Administrative Daten )
 
-Einschreibung wegen
+### Einschreibung wegen
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
@@ -475,11 +695,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-**6.1.5** **Abschnitt „Anamnese und Befunddaten“**
+### 6.1.5 Abschnitt „Anamnese und Befunddaten“
 
 Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal neun bis maximal zehn Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal neun bis maximal zehn Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -494,7 +716,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ---
 
-Körpergröße
+### Körpergröße
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  *U* Attribut den fest vorgeschriebenen Wert „m“.
 
@@ -505,7 +727,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 12:** Körpergröße
 
-Körpergewicht
+### Körpergewicht
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  im *U* Attribut den fest vorgeschriebenen Wert „kg“.
 
@@ -516,9 +738,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 13:** Körpergewicht
 
-Raucher
+### Raucher
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 5.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
+
+gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -546,9 +770,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-Blutdruck systolisch
+### Blutdruck systolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „systolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „systolischen Wert“
+
+und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -557,9 +783,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 15:** Blutdruck systolisch
 
-Blutdruck diastolisch
+### Blutdruck diastolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“
+
+und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -568,9 +796,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 16:** Blutdruck diastolisch
 
-Begleiterkrankungen
+### Begleiterkrankungen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -601,20 +831,34 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 6:** Werte bei Ergebnistext (Begleiterkrankungen)
 
-Aktuelle Symptomatik  PHQ-9 Summenwert
+### Aktuelle Symptomatik  PHQ-9 Summenwert
 
-das Element im *V* Attribut den PHQ-9 Bei diesem Parameter enthält <sciphox:Ergebniswert>  Skalensummenwert“ und im *U*-Attribut den fest vorgeschriebenen Wert {Punktzahl}“. Die Angabe des  Skalensummenwertes erfolgt ohne Nachkommastelle.
+das Element
+
+im *V* Attribut den PHQ-9
+
+Bei diesem Parameter enthält
+
+<sciphox:Ergebniswert>
+
+Skalensummenwert“ und im *U*-Attribut den fest vorgeschriebenen Wert {Punktzahl}“. Die Angabe des
+
+Skalensummenwertes erfolgt ohne Nachkommastelle.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | </sciphox:Beobachtung> |
 |---|
 
-PHQ-9 Summenwert **XML-Code 18:** Aktuelle Symptomatik
+PHQ-9 Summenwert
 
-Schweregrad zu Beginn der aktuellen depressiven Episode
+**XML-Code 18:** Aktuelle Symptomatik
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß Bei diesem Parameter enthält das Element  Tabelle 7. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+### Schweregrad zu Beginn der aktuellen depressiven Episode
+
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Bei diesem Parameter enthält das Element  Tabelle 7. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -638,9 +882,11 @@ Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Akt
 
 **Tabelle 7:** Werte bei Ergebnistext ( Schweregrad zu Beginn der aktuellen depressiven Episode )
 
-Dauer der aktuellen depressiven Episode
+### Dauer der aktuellen depressiven Episode
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 8. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Tabelle 8. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -656,9 +902,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 8:** Werte bei Ergebnistext ( Dauer der aktuellen depressiven Episode )
 
-Suizidalität eingeschätzt
+### Suizidalität eingeschätzt
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 9. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Tabelle 9. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -680,11 +928,13 @@ Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Dau
 
 ---
 
-**6.1.6** **Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung**
+### 6.1.6 Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung
 
 Dieses Kapitel beschreibt den Abschnitt Nicht-medikamentöse und medikamentöse Behandlung
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -693,9 +943,11 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 22:** content (Nicht-medikamentöse und medikamentöse Behandlung )
 
-Aktuelle Psychotherapie
+### Aktuelle Psychotherapie
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 10. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Tabelle 10. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -719,9 +971,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-Aktuelle medikamentöse Therapie mit Antidepressiva
+### Aktuelle medikamentöse Therapie mit Antidepressiva
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß Bei diesem Parameter enthält das Element  Tabelle 11. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+
+Bei diesem Parameter enthält das Element  Tabelle 11. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -742,11 +996,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 11:** Werte bei Ergebnistext ( Aktuelle medikamentöse Therapie mit Antidepressiva )
 
-**6.1.7** **Abschnitt „Schulung“**
+### 6.1.7 Abschnitt „Schulung“
 
 Dieses Kapitel beschreibt den Abschnitt Schulung
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
 <sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/> Wert bei Ergebnistext (V="...")Der Coderahmen sieht wie folgt aus:
 
@@ -761,23 +1017,29 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 **XML-Code 25:** content (Schulung)
 
-Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen
+### Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen
 
-*V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 12. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
+*V*-Attribut die Feldbezeichnung
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 12. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung> "/>  </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 26:** Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung  teilgenommen
+**XML-Code 26:** Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung
+
+teilgenommen
 
 |  |
 |---|
 | Ja |
 | Nein |
 
-**Tabelle 12:** Werte bei Ergebnistext ( Bereits vor Einschreibung in das DMP an einer  depressionsspezifischen Schulung teilgenommen )
+**Tabelle 12:** Werte bei Ergebnistext ( Bereits vor Einschreibung in das DMP an einer
+
+depressionsspezifischen Schulung teilgenommen )
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...")
 
@@ -787,7 +1049,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
+### Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 13. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
 
@@ -805,13 +1067,17 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-**Tabelle 13:** Werte bei Ergebnistext ( Depressionsspezifische Schulung empfohlen (bei aktueller  Dokumentation) )
+**Tabelle 13:** Werte bei Ergebnistext ( Depressionsspezifische Schulung empfohlen (bei aktueller
 
-**6.1.8** **Abschnitt „Behandlungsplanung“**
+Dokumentation) )
+
+### 6.1.8 Abschnitt „Behandlungsplanung“
 
 Dieses Kapitel beschreibt den Abschnitt Behandlungsplanung
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal ein bis maximal zwei Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal ein bis maximal zwei Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -826,9 +1092,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ---
 
-Vom Patienten gewünschte Informationsangebote der Krankenkasse
+### Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+
+Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -843,11 +1111,15 @@ Als Beispiel sei hier folgender Code angegeben:
 | Ernährungsberatung |
 | Körperliches Training |
 
-**Tabelle 14:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
+**Tabelle 14:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der
 
-Dokumentationsintervall
+Krankenkasse)
 
-*V*-Attribut die Feldbezeichnung Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 15.
+### Dokumentationsintervall
+
+*V*-Attribut die Feldbezeichnung
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 15.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -871,43 +1143,53 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-7
-
-## BODY DER VERLAUFSDOKUMENTATION
+# 7 BODY DER VERLAUFSDOKUMENTATION
 
 Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten. In diesem Kapitel werden nur die speziellen Parameter für die Verlaufsdokumentation erläutert.
 
-**7.1** **SEKTION (SECTION)**
+## 7.1 SEKTION (SECTION)
 
-hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel Das <section>-Element 6.1.
+hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel
 
-**7.1.1** **Abschnitt „Administrative Daten“**
+Das <section>-Element 6.1.
 
-Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,  siehe Kapitel 6.1.4.
+### 7.1.1 Abschnitt „Administrative Daten“
 
-**und Befunddaten“** **7.1.2** **Abschnitt „Anamnese**
+Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,
 
-und Befunddaten“. Dieses Kapitel beschreibt den Abschnitt „Anamnese
+siehe Kapitel 6.1.4.
+
+### und Befunddaten“
+
+### 7.1.2 Abschnitt „Anamnese
+
+und Befunddaten“.
+
+Dieses Kapitel beschreibt den Abschnitt „Anamnese
 
 Im Element <content> wird die Sciphox-SSU observation verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal acht bis maximal neun Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie in Kapitel 6.1.5 dargestellt aus.
 
-“ identische Werte.  Die verwendeten Parameter besitzen bis auf den Parameter „Schweregrad zu Beginn der aktuellen  depressiven Episode
+“ identische Werte.
 
-Körpergröße
+Die verwendeten Parameter besitzen bis auf den Parameter „Schweregrad zu Beginn der aktuellen
+
+depressiven Episode
+
+### Körpergröße
 
 Siehe Kapitel 6.1.5.1.
 
-Körpergewicht
+### Körpergewicht
 
 Siehe Kapitel 6.1.5.2.
 
-Raucher
+### Raucher
 
 Siehe Kapitel 6.1.5.3.
 
-Blutdruck systolisch
+### Blutdruck systolisch
 
 Siehe Kapitel 6.1.5.4.
 
@@ -917,21 +1199,27 @@ Siehe Kapitel 6.1.5.4.
 
 ---
 
-Blutdruck diastolisch
+### Blutdruck diastolisch
 
 Siehe Kapitel 6.1.5.5.
 
-Begleiterkrankungen
+### Begleiterkrankungen
 
 Siehe Kapitel 6.1.5.6.
 
-Aktuelle Symptomatik  PHQ-9 Summenwert
+### Aktuelle Symptomatik  PHQ-9 Summenwert
 
 Siehe Kapitel 6.1.5.7.
 
-Schweregrad zu Beginn der aktuellen depressiven Episode
+### Schweregrad zu Beginn der aktuellen depressiven Episode
 
-*V*-Attribut die Feldbezeichnung gemäß Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  Tabelle 16: Werte bei Ergebnistext (Schweregrad zu Beginn der aktuellen depressiven Episode). Ein Element  <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
+*V*-Attribut die Feldbezeichnung gemäß
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
+
+Tabelle 16: Werte bei Ergebnistext (Schweregrad zu Beginn der aktuellen depressiven Episode). Ein Element
+
+<sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -950,11 +1238,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 16:** Werte bei Ergebnistext ( Schweregrad zu Beginn der aktuellen depressiven Episode
 
-Dauer der aktuellen depressiven Episode
+### Dauer der aktuellen depressiven Episode
 
 Siehe Kapitel 6.1.5.9.
 
-Suizidalität eingeschätzt
+### Suizidalität eingeschätzt
 
 Siehe Kapitel 6.1.5.10.
 
@@ -964,30 +1252,36 @@ Siehe Kapitel 6.1.5.10.
 
 ---
 
-**7.1.3** **Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung**
+### 7.1.3 Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung
 
-Der Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung“ hat die gleiche Struktur wie in der  „erstmaligen Dokumentation“, siehe Kapitel 6.1.6.
+Der Abschnitt „Nicht-medikamentöse und medikamentöse Behandlung“ hat die gleiche Struktur wie in der
 
-**7.1.4** **Abschnitt „Schulung“**
+„erstmaligen Dokumentation“, siehe Kapitel 6.1.6.
+
+### 7.1.4 Abschnitt „Schulung“
 
 Dieses Kapitel beschreibt den Abschnitt Schulung
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>     <sciphox:Beobachtungen>             </local_markup>  </content> |
+| <content>     <sciphox:Beobachtungen>              </local_markup>  </content> |
 |---|
 
 **XML-Code 32:** content (Schulung)
 
-Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
+### Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
 
 Siehe Kapitel 6.1.7.2.
 
-Depressionsspezifische Schulung wahrgenommen
+### Depressionsspezifische Schulung wahrgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 17.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+
+gemäß Tabelle 17.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1012,9 +1306,15 @@ Als Beispiel sei hier folgender Code angegeben:
 | War aktuell nicht möglich |
 | Bei letzter Dokumentation keine Schulung empfohlen |
 
-Werte bei Ergebnistext ( Depressionsspezifische Schulung wahrgenommen) **Tabelle 17:**
+Werte bei Ergebnistext ( Depressionsspezifische Schulung wahrgenommen)
 
-**Abschnitt „Behandlungsplanung“7.1.5**
+**Tabelle 17:**
+
+### Abschnitt „Behandlungsplanung“
+
+### 7.1.5
+
+###
 
 Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen  Dokumentation“, siehe Kapitel 6.1.8.
 
@@ -1026,9 +1326,7 @@ Wert bei Ergebnistext (V="...")
 
 ---
 
-8
-
-GLOSSAR
+8 GLOSSAR
 
 |  |  |
 |---|---|
@@ -1063,9 +1361,7 @@ Ausführender Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
-9
-
-REFERENZIERTE DOKUMENTE
+9 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

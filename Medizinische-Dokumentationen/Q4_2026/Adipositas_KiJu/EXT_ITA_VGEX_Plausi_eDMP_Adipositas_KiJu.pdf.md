@@ -1,20 +1,28 @@
 - Anlage 26* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des strukturierten Behandlungsprogramms
 
 # Adipositas - Kinder und Jugendliche
 
-**Grundlage: DMP-A-RL**
+**Grundlage:**
+
+**DMP-A-RL**
 
 **gültig ab 01.07.2025**
 
-### Version:
+# Version:              1.0
 
-**1.0**  **Stand der Bearbeitung: 21.10.2025**
+**Stand der Bearbeitung:**
 
-**Version anzuwenden ab: 01.10.2026**
+**21.10.2025**
+
+**Version anzuwenden ab:**
+
+**01.10.2026**
 
 
 ---

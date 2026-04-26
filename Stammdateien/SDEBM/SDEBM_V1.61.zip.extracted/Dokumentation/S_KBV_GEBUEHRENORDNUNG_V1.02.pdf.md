@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_KBV_GEBUEHRENORDNUNG
+#### S_KBV_GEBUEHRENORDNUNG
 
 **OID:**
 
@@ -26,4 +26,4 @@
 
 Einheitlicher Bewertungsmaßstab Bewertungsmaßstab Ärzte
 
-Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG1
+Schlüsseltabelle: S_KBV_GEBUEHRENORDNUNG 1

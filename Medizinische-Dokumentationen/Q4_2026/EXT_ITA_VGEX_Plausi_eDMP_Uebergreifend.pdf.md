@@ -1,22 +1,32 @@
-- Anlage 2*
+- - Anlage 2*
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des indikationsübergreifenden, allgemeinen Datensatzes
 
-# nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
+# - nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
 
-**der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20, 22*, 24* oder**  **26* der DMP-A-RL -**    **Grundlage: DMP-A-RL**  **gültig ab 01.10.2025**
+**der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20, 22*, 24* oder**  **26* der DMP-A-RL -**
+
+**Grundlage:**
+
+**DMP-A-RL**
+
+**gültig ab 01.10.2025**
+
+#
 
 **Stand der Bearbeitung:**
 
 **Version anzuwenden ab:**
 
-### Version:
+# Version: 8.0
 
-**8.0**
+**01.08.2025**
 
-**01.08.2025**  **01.10.2026**
+**01.10.2026**
 
 
 ---
@@ -35,7 +45,7 @@
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
 | 9 | Datum  2 2 | TT.MM.JJJJ | Pflichtfeld; das Datum muss gleich oder kleiner zum |
 
-### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
+#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
 
 ### Anlage 2
 
@@ -195,8 +205,18 @@ Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von gr�
 | 21 | (weggefallen) |  |  | |
 | 22 | 6 | TT.MM.JJJJ | Pflichtfeld Das Datum muss gleich oder kleiner dem Datum in der |  |
 
-8 Eine Angabe zu „Depression“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.  9 Eine Angabe zu „Osteoporose“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.  10  Eine Angabe zu „Rheumatoide Arthritis“  11 Eine Angabe zu „Adipositas  Erwachsene  12 Eine Angabe zu „Adipositas – Kinder und Jugendliche “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 26* in Kraft treten.
+8 Eine Angabe zu „Depression“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.
 
-ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten.  “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 24* in Kraft treten.
+9 Eine Angabe zu „Osteoporose“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.
+
+10  Eine Angabe zu „Rheumatoide Arthritis“
+
+11 Eine Angabe zu „Adipositas  Erwachsene
+
+12 Eine Angabe zu „Adipositas – Kinder und Jugendliche “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 26* in Kraft treten.
+
+ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten.
+
+“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 24* in Kraft treten.
 
 Informationsangebote der Krankenkasse Datum der Erstellung Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 und 11 in den DMP-Datenstellen ist der Eintrag im Element 4 Eine Angabe zu „ Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen Dies ist das „service_tmr“ Eine Angabe zu „ Rückenschmerz“ Diabetes mellitus / KHK / AVK / Chronische Herzinsuffizienz / Asthma bronchiale / COPD / Keine der genannten Erkrankungen   Training  <document_type_cd>  des übermittelten Dokumentationsdatensatzes maßgeblich. erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten. erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten. Mehrfachnennungen sind möglich; ist, sind keine weiteren Angaben zulässig; alle anderen Kombinationen sind zulässig Erfassungsstelle sein geben

@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_EBM_PROFILZEITART
+#### S_EBM_PROFILZEITART
 
 **OID:**
 
@@ -14,10 +14,20 @@
 
 **01.01.2018**
 
-**CodeBezeichnung** 1Keine Eignung 2Nur Quartalsprofil 3Tages- und Quartalsprofil
+**Code**
+
+**Bezeichnung**
+
+1
+
+Keine Eignung 2
+
+Nur Quartalsprofil 3
+
+Tages- und Quartalsprofil
 
 | 4 | nicht ermittelt |
 |---|---|
 | 5 | nicht im Anhang 3 |
 
-Schlüsseltabelle: S_EBM_PROFILZEITART1
+Schlüsseltabelle: S_EBM_PROFILZEITART 1

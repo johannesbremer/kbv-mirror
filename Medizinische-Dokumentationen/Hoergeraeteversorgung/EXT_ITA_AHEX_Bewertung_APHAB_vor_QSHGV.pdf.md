@@ -6,51 +6,81 @@ Name, Vorname des Versicherten
 
 geb. am
 
-## der
+## der Hörbehinderung
 
-## Hörbehinderung
+Kassen-Nr.
 
-Kassen-Nr.Versicherten-Nr.Status.
+Versicherten-Nr.
 
-Bearbeiter Vertragsarzt-Nr.VK gültig bisDatum
+Status.
+
+Bearbeiter
+
+Vertragsarzt-Nr.
+
+VK gültig bis
+
+Datum
 
 ### Anweisung:
 
 Bitte wählen Sie die Anwort, die Ihrer alltäglichen Erfahrung am nächsten kommt. Wenn Sie eine bestimmte Situation nicht erlebt haben, stellen Sie sich vor, wie Sie in einer ähnlichen Situation antworten würden.
 
-### Zeitpunkt
+### Zeitpunkt der Befragung:
 
-### der
+## Vor der Hörgeräte-Versorgung
 
-### Befragung:
+**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft**
 
-## Vor
+**mit** **der** **Kassiererin** **spreche,** **kann** **ich** **dem**
 
-## der
+1 **Gespräch** **folgen.**
 
-## Hörgeräte-Versorgung
+**Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen**
 
-**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft** **mit** **der** **Kassiererin** **spreche,** **kann** **ich** **dem**1 **Gespräch** **folgen.**
+2 **Vortrag** **anhöre.**
 
-**Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen** 2 **Vortrag** **anhöre.**
+**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder**
 
-**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder** **oder** **eine** **Alarmanlage,** **empfinde** **ich** **als**3 **unangenehm** **laut.**
+**oder** **eine** **Alarmanlage,** **empfinde** **ich** **als**
 
-**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem** **Gespräch** **mit** **einem** **Familienangehörigen** **zu**4 **folgen.**
+3 **unangenehm** **laut.**
 
-**Ich** **habe** **Mühe,** **den** **Dialog** **in** **einem** **Film** **oder** **im** 5 **Theater** **zu** **verstehen.**
+**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem**
 
-**Wenn** **ich** **am** **Autoradio** **die** **Nachrichten** **höre** **und** **sich** **Familienmitglieder** **dabei** **unterhalten**6 **habe** **ich** **Mühe,** **die** **Nachrichten** **zu** **verstehen.**
+**Gespräch** **mit** **einem** **Familienangehörigen** **zu**
 
-**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,** **und** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**7 **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
+4 **folgen.**
 
-**Verkehrslärm** **ist** **mir** **zu** **laut.**8
+**Ich** **habe** **Mühe,** **den** **Dialog** **in** **einem** **Film** **oder** **im**
 
-**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am** **anderen** **Ende** **eines** **großen** **leeren** **Raumes**9 **befindet,** **verstehe** **ich** **seine** **Worte.**
+5 **Theater** **zu** **verstehen.**
+
+**Wenn** **ich** **am** **Autoradio** **die** **Nachrichten** **höre**
+
+**und** **sich** **Familienmitglieder** **dabei** **unterhalten**
+
+6 **habe** **ich** **Mühe,** **die** **Nachrichten** **zu** **verstehen.**
+
+**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,**
+
+**und** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**
+
+7 **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
+
+**Verkehrslärm** **ist** **mir** **zu** **laut.**
+
+8
+
+**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am**
+
+**anderen** **Ende** **eines** **großen** **leeren** **Raumes**
+
+9 **befindet,** **verstehe** **ich** **seine** **Worte.**
 
 **- Bitte wenden -**
 
-## zur
+**zur**
 
 **A** **B** **C**
 
@@ -64,45 +94,25 @@ immer
 
 HäufigFastImmer 99% 87% 75% 50% 25% 12% 1%
 
-### B CD
+### B CDA
 
-A
+### B CDA
 
-### B CD
+### B CDA
 
-A
+### B CDA
 
-### B CD
+### B CDA
 
-A
+### B CDA
 
-### B CD
+### B CDA
 
-A
+### B CDA
 
-### B CD
+### B CDA
 
-A
-
-### B CD
-
-A
-
-### B CD
-
-A
-
-### B CD
-
-A
-
-### B CD
-
-A
-
-## Bestimmung
-
-## (APHAB)
+**Bestimmung** **(APHAB)**
 
 Immer (99%) Fast immer (87%) Häufig (75%) In der Hälfte der Fälle (50%)
 
@@ -147,121 +157,119 @@ G
 
 ---
 
-### in
+**in** **einem** **kleinen** **Büroraum** **Fragen** **stelle**
 
-### einem
-
-### kleinen
-
-### Büroraum
-
-### Fragen
-
-### stelle oder
-
-### beantworte,
-
-### habe
-
-### Schwierigkeiten,
+#### oder beantworte, habe  Schwierigkeiten,
 
 10
 
-### dem
+#### dem Gespräch zu folgen.
 
-### Gespräch
+**im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute**
 
-### zu
+**um** **mich** **herum** **flüstern** **und**  **Papier** **rascheln,**
 
-### folgen.
+11 **kann**  **dem** **Dialog** **immer** **noch** **folgen.**
 
-**im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute** **um** **mich** **herum** **flüstern** **und**  **Papier** **rascheln,**11 **kann**  **dem** **Dialog** **immer** **noch** **folgen.**
+**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen**
 
-**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen** **Umgebung** **unterhalte,** **habe** **ich** **Schwierigkeiten,**12 **zu** **verstehen.**
+**Umgebung** **unterhalte,** **habe** **ich** **Schwierigkeiten,**
 
-**Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine** 13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir** **unangenehm** **laut.**
+12 **zu** **verstehen.**
 
-**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht** **und** **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**14 **um** **zu** **verstehen.**
+**Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine**
 
-**Wenn** **ich** **mit** **meinem** **Arzt** **im** **Untersuchungszimmer** **spreche,** **fällt** **es** **mir** **schwer**15 **dem** **Gespräch** **zu** **folgen.**
+13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir**
 
-**Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn** 16 **mehrere** **Personen** **gleichzeitig** **sprechen.**
+**unangenehm** **laut.**
 
-**Baulärm** **ist** **mir** **unangenehm** **laut.**17
+**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht**
 
-**Es** **ist** **für** **mich** **schwierig,** **zu** **verstehen,** **was** **bei**18 **Vorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
+**und** **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**
 
-**Ich** **kann** **mich** **mit** **anderen** **unterhalten,** 19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
+14 **um** **zu** **verstehen.**
 
-**Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs** 20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
+**Wenn** **ich** **mit** **meinem** **Arzt** **im**
 
-**Im** **Gottesdienst** **kann** **ich** **die** **Worte**21 **der** **Predigt** **verstehen.**
+**Untersuchungszimmer** **spreche,** **fällt** **es** **mir** **schwer**
 
-**Das** **Geräusch** **von** **quietschenden** **Bremsen**22 **ist** **mir** **unangenehm** **laut.**
+15 **dem** **Gespräch** **zu** **folgen.**
 
-**Ich** **muss** **den** **Gesprächspartner** **bitten,** **sich** **zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**23 **in** **einem** **ruhigen** **Raum** **unterhalten.**
+**Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn**
 
-**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,** **wenn** **gleichzeitig** **eine** **Klimaanlage** **oder**24 **ein** **Ventilator** **läuft.**
+16 **mehrere** **Personen** **gleichzeitig** **sprechen.**
+
+**Baulärm** **ist** **mir** **unangenehm** **laut.**
+
+17
+
+**Es** **ist** **für** **mich** **schwierig,** **zu** **verstehen,** **was** **bei**
+
+18 **Vorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
+
+**Ich** **kann** **mich** **mit** **anderen** **unterhalten,**
+
+19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
+
+**Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs**
+
+20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
+
+**Im** **Gottesdienst** **kann** **ich** **die** **Worte**
+
+21 **der** **Predigt** **verstehen.**
+
+**Das** **Geräusch** **von** **quietschenden** **Bremsen**
+
+22 **ist** **mir** **unangenehm** **laut.**
+
+**Ich** **muss** **den** **Gesprächspartner** **bitten,**
+
+**sich** **zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**
+
+23 **in** **einem** **ruhigen** **Raum** **unterhalten.**
+
+**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,**
+
+**wenn** **gleichzeitig** **eine** **Klimaanlage** **oder**
+
+24 **ein** **Ventilator** **läuft.**
 
 **Stempel**
 
-Unterschrift des PatientenDatum
+Unterschrift des Patienten
+
+Datum
 
 A
 
 A
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
+## B CDA
 
-A
+## B CDA
 
-## B CD
-
-A
-
-## B CD
-
-A
-
-## B CD
-
-A
-
-## B CD
-
-A
-
-## B CD
-
-A
-
-## B CD
-
-A
-
-## B CD
-
-A 99% 87% 75% 50% 25% 12% 1%
+## B CDA 99% 87% 75% 50% 25% 12% 1%
 
 ## EFG
 
@@ -305,4 +313,10 @@ der  te
 
 Hälf
 
-immer   HäufigInFastImmer GelegentlichNieSelten
+immer
+
+HäufigIn
+
+FastImmer
+
+GelegentlichNieSelten

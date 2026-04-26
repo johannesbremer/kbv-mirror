@@ -36,8 +36,14 @@ Bei dem Kind liegt eine Behinderung vor
 
 Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.
 
-**Bescheinigung 9** **einer Fehlgeburt,**  **Frühgeburt oder**  **Behinderung des Kindes**
+**Bescheinigung**
+
+**9**
+
+**einer Fehlgeburt,**  **Frühgeburt oder**  **Behinderung des Kindes**
 
 Vertragsarztstempel / ärztliche Unterschrift
 
-PRF.NR.  Muster 9a.1/E (1.2026)
+PRF.NR.
+
+Muster 9a.1/E (1.2026)

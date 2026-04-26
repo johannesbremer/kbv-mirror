@@ -27,17 +27,15 @@ neuen Anforderungen häufig gestellter Fragen
 
 ---
 
-## EINFÜHRUNG
+# EINFÜHRUNG
 
 Dieses Dokument enthält die Antworten der KBV für häufig gestellte Fragen rund um die Anforderungen zu  den eDMPs.
 
-## FRAGEN UND ANTWORTEN ZU DEN ANFORDERUNGEN (KP2-210,
+# FRAGEN UND ANTWORTEN ZU DEN ANFORDERUNGEN (KP2-210,  KP2-215, KP2-220)
 
-KP2-215, KP2-220)
+## Frage: Wie ist die komplette Fußuntersuchung bei der Anforderung KP2-210 zu verstehen?
 
-**Frage: Wie ist die komplette Fußuntersuchung bei der Anforderung KP2-210 zu verstehen?**
-
-Antwort der KBV:
+### Antwort der KBV:
 
 Folgende Bedingung muss erfüllt sein, damit der Fußstatus als „komplett untersucht“ gilt:
 
@@ -49,7 +47,9 @@ UND
 
 UND
 
-[ 3. weiteres Risiko für Ulcus: „Fußdeformität“ ODER „Hyperkeratose mit Einblutung“ ODER „Z. n. Ulkus“  ODER „Z .n. Amputation“ ODER „ ja“ ODER „nein“ ]
+[ 3. weiteres Risiko für Ulcus: „Fußdeformität“ ODER „Hyperkeratose mit Einblutung“ ODER „Z. n. Ulkus“
+
+ODER „Z .n. Amputation“ ODER „ ja“ ODER „nein“ ]
 
 UND
 
@@ -59,38 +59,62 @@ UND
 
 [ 5. (Wund)Infektion: „ja“ ODER „nein“]]
 
-Zusammenfassend:
+### Zusammenfassend:
 
-Innerhalb **einer** Dokumentation in dem betrachteten Zeitraum muss in allen fünf Fragen eine Angabe  gemacht worden sein, die nicht „nicht untersucht“ lautet, damit eine komplette Untersuchung vorliegt.
+Innerhalb **einer** Dokumentation in dem betrachteten Zeitraum muss in allen fünf Fragen eine Angabe
 
-Bei KP2-210, Akzeptanzkriterium 2b) muss die Hinweismeldung angezeigt werden, wenn im betrachteten  Zeitraum (umfasst die aktuelle Dokumentation und die Dokumentationen der vorangegangenen 6 Monate  vor diesem Dokumentationszeitraum) keine komplette Fußuntersuchung stattgefunden hat.
+gemacht worden sein, die nicht „nicht untersucht“ lautet, damit eine komplette Untersuchung vorliegt.
 
-**Frage: Unter welchen zeitlichen Voraussetzungen sollen die Hinweistexte der Anforderungen KP2-210**  **KP2-215 und KP2-220 angezeigt werden?**
+Bei KP2-210, Akzeptanzkriterium 2b) muss die Hinweismeldung angezeigt werden, wenn im betrachteten
 
-Antwort der KBV:
+Zeitraum (umfasst die aktuelle Dokumentation und die Dokumentationen der vorangegangenen 6 Monate  vor diesem Dokumentationszeitraum) keine komplette Fußuntersuchung stattgefunden hat.
 
-Die Anzeige der Hinweismeldungen soll erst erfolgen, wenn der jeweils angegebene Zeitraum bspw.  aktuellen Dokumentation und den Dokumentationen der vorangegangenen 12 Monate verstrichen ist  und somit entsprechende vorangegangene Verlaufsdokumentationen existieren.
+## Frage: Unter welchen zeitlichen Voraussetzungen sollen die Hinweistexte der Anforderungen KP2-210  KP2-215 und KP2-220 angezeigt werden?
 
-Wenn die Zeitbedingung noch nicht erfüllt ist, - beispielsweise im Falle einer Neueinschreibung (welche  noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinweismeldung nicht angezeigt  werden.
+### Antwort der KBV:
+
+Die Anzeige der Hinweismeldungen soll erst erfolgen, wenn der jeweils angegebene Zeitraum bspw.
+
+aktuellen Dokumentation und den Dokumentationen der vorangegangenen 12 Monate verstrichen ist
+
+und somit entsprechende vorangegangene Verlaufsdokumentationen existieren.
+
+Wenn die Zeitbedingung noch nicht erfüllt ist, - beispielsweise im Falle einer Neueinschreibung (welche
+
+noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinweismeldung nicht angezeigt  werden.
 
 
 ---
 
-Beispiele:
+### Beispiele: -
 
-1. Es liegt ein halbjähriges Dokumentationsintervall vor.  Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben.
+- 1. Es liegt ein halbjähriges Dokumentationsintervall vor.  Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben.
 
-die Angabe „Nicht durchgeführt“  In der aktuellen und den 2 vorhergehenden Dokumentationen (die erste Dokumentation liegt mehr  als 12 Monate zurück) ist bei der augenärztlichen Untersuchung
+- die Angabe „Nicht durchgeführt“
 
-erfolgt.  Es wird eine Hinweismeldung angezeigt.
+- In der aktuellen und den 2 vorhergehenden Dokumentationen (die erste Dokumentation liegt mehr
 
-2. Es liegt ein halbjähriges Dokumentationsintervall vor.   Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da.  augenärztlichen Untersuchung.   Es erfolgt die Angabe „Nicht durchgeführt“ bei der  Es wird **keine** Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem  Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren  Verlaufsdokumentationen existieren.
+- als 12 Monate zurück) ist bei der augenärztlichen Untersuchung -
 
-**Frage: Warum werden die Zeiträume in den Hinweistexten in Monaten aufgeführt?**
+- erfolgt.  Es wird eine Hinweismeldung angezeigt.
 
-Antwort der KBV:
+- 2. Es liegt ein halbjähriges Dokumentationsintervall vor.
 
-spricht den Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und ent Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs bzw. Dokumentationsinhalte.
+- Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da.  augenärztlichen Untersuchung.
+
+- Es erfolgt die Angabe „Nicht durchgeführt“ bei der  Es wird **keine** Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem
+
+- Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren
+
+- Verlaufsdokumentationen existieren.
+
+## Frage: Warum werden die Zeiträume in den Hinweistexten in Monaten aufgeführt?
+
+### Antwort der KBV:
+
+spricht den
+
+Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und ent Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs bzw. Dokumentationsinhalte.
 
 **Kontakt:**
 
@@ -98,4 +122,6 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
 Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

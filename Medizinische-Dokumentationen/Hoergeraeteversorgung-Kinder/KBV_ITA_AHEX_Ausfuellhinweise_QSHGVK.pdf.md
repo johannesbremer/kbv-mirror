@@ -1,15 +1,19 @@
-### Dokumentationsbogen: Ausfüllhinweise
+#### Dokumentationsbogen: Ausfüllhinweise
 
-Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin- weise eingefügt.  Infoboxen beinhalten allgemeine Informationen.  Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden.
+Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin- weise eingefügt.
 
-### Liste der Infoboxen:
+Infoboxen beinhalten allgemeine Informationen.
+
+Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden.
+
+#### Liste der Infoboxen:
 
 | Infobox | Text |
 |---|---|
 | Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
 | Nachsorge | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
 
-### Liste der Ausfüllhinweise:
+#### Liste der Ausfüllhinweise:
 
 | Nr. | Eingabefeld | Ausfüllhinweis |
 |---|---|---|

@@ -1,10 +1,13 @@
 **Name, Vorname des Versicherten**
 
-**III. Krankenbehandlung und andere Maßnahmen** **A. Bisherige ärztliche/psychotherapeutische Interventionen einschließlich Arzneimittel-/Heilmitteltherapie**
+**III. Krankenbehandlung und andere Maßnahmen**
+**A. Bisherige ärztliche/psychotherapeutische Interventionen einschließlich Arzneimittel-/Heilmitteltherapie**
 
 **Heilmittel zur Erreichung des Behandlungsziels nicht ausreichend / nicht zielführend**
 
-**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigen***
+**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/***
+
+***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigen***
 
 **IV. Vorsorgeziele** **Vorsorgeziele in Bezug auf die genannten Gesundheitsstörungen/Erkrankungen, Kontext- und Risikofaktoren**
 
@@ -22,7 +25,9 @@
 
 **VI. Sonstige Angaben**
 
-***(z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,*****A. Anforderungen an die Einrichtung** ***spezialisierte Therapieangebote, konfessionelle Aus***
+***(z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,***
+
+**A. Anforderungen an die Einrichtung** ***spezialisierte Therapieangebote, konfessionelle Aus***
 
 **ja, folgende**
 
@@ -50,17 +55,33 @@
 
 **Für das Ausstellen der ärztlichen Verordnung** **ist die Nr. 01624 EBM berechnungsfähig**
 
-**Ausfertigung für die Krankenkasse** **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**Ausfertigung für die Krankenkasse**
 
-**Versicherten-Nr.64 Teil B**
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+
+**Versicherten-Nr.**
+
+**64 Teil B**
 
 ***Funktionstraining, Wahrnehmung von Beratungs- und***
 
-**Vater-Kind-Leistung**
+**Vater**
 
-**s. Attest Kind** **Belastete** **insbes. bei** **Behandlungs-** **notwendigkeit***
+**-Kind-Leistung**
 
-**Psychosoziale** **Gründe/Mutter-/** **BetreuungVater-Kind-** **Beziehung** **notwendig**
+**s. Attest Kind** **Belastete**
+
+**insbes. bei** **Behandlungs-**
+
+**notwendigkeit***
+
+**Psychosoziale** **Gründe/**
+
+**Mutter-/**
+
+**Betreuung**
+
+**Vater-Kind-** **Beziehung** **notwendig**
 
 ***kung, Behinderung oder bei psychischen***
 

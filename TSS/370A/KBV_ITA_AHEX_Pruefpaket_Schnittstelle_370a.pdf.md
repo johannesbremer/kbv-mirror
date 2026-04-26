@@ -1,6 +1,8 @@
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**
+
+**IT IN DER ARZTPRAXIS**
 
 **15. APRIL 2026**
 
@@ -8,7 +10,9 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
-# FÜR DRITTE PRÜFPAKET SCHNITTSTELLE  GEMÄß § 370A ABS. 2 SGB V
+# FÜR DRITTE
+
+# PRÜFPAKET SCHNITTSTELLE  GEMÄß § 370A ABS. 2 SGB V
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_SST_370A_ABS2]
 
@@ -17,15 +21,41 @@
 
 ## INHALT
 
-**1** **ALLGEMEINES 4**
+**1** **ALLGEMEINES**
 
-**2** **PRÜFVORGABEN 5**
+**4**
 
-2.1 Prüfunterlagen 5  2.2 Zertifizierungsablauf 5  2.2.1 Zertifizierungsportal 5
+**2** **PRÜFVORGABEN**
 
-**3** **PRÜFFÄLLE 7**
+**5**
 
-3.1 PF-01 Audit der kv.digital 7  3.2 PF-02 TOMs 7  3.3 PF-03 Weitere Nachweise 7
+2.1 Prüfunterlagen
+
+5
+
+2.2 Zertifizierungsablauf
+
+5
+
+2.2.1 Zertifizierungsportal
+
+5
+
+**3** **PRÜFFÄLLE**
+
+**7**
+
+3.1 PF-01 Audit der kv.digital
+
+7
+
+3.2 PF-02 TOMs
+
+7
+
+3.3 PF-03 Weitere Nachweise
+
+7
 
 
 ---
@@ -45,22 +75,28 @@ zu weiteren einzureichenden Nachweisen Einreichungswegs im Prüffall 2  Prüffä
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB
 
-der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB Im Folgenden wird die Prüfung  Version 1.0 des Anforderungskataloges V) beschrieben. Der Zertifizierungsprozess wird nach der dargestellt.
+Im Folgenden wird die Prüfung
 
-Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Nutzer der Schnittstelle korrekt umgesetzt wurden. Überprüfung, ob die Anforderungen vom jeweiligen
+Version 1.0 des Anforderungskataloges
+
+V) beschrieben. Der Zertifizierungsprozess wird nach der
+
+dargestellt.
+
+Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Nutzer der Schnittstelle korrekt umgesetzt wurden.
+
+Überprüfung, ob die Anforderungen vom jeweiligen
 
 
 ---
 
-2
+# 2 PRÜFVORGABEN
 
-## PRÜFVORGABEN
-
-**2.1** **PRÜFUNTERLAGEN**
+## 2.1 PRÜFUNTERLAGEN
 
 Die Prüfunterlagen sind die zu erstellenden Screencasts oder Screenshots sowie zusätzliche Erläuterungen  dazu oder - wie in diesem Verfahren - die verlangten Nachweise.
 
@@ -68,15 +104,41 @@ Alle einzureichenden Prüfunterlagen sind in einem ZIP-Archiv zu übermitteln. D
 
 **„Prüffall ID“_“SW ID“_“Laufende Nummer“**
 
-**Prüffall-ID:** Die eindeutige Prüffallnummer  **SW-ID:** Die letzten drei Stellen Ihrer (KVDT-)Prüfnummer  Sollten Sie zu einem Prüffall mehrere Unterlagen einreichen, so sind diese fortlaufend  **Laufende Nummer:**  zu nummerieren
+- **Prüffall-ID:** Die eindeutige Prüffallnummer
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss  wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt  füllt und unterschrieben als PDF-Dokument eingescannt bereitgestellt. Dieser muss vollständig ausge über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V eingescannt per Mail an  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im  Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung  hochladen.  **2.** Eine Verzeichnis - bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderli chen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
+- **SW-ID:** Die letzten drei Stellen Ihrer (KVDT-)Prüfnummer
+
+- Sollten Sie zu einem Prüffall mehrere Unterlagen einreichen, so sind diese fortlaufend
+
+-  **Laufende Nummer:**  zu nummerieren
+
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss
+
+- wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt  füllt und unterschrieben als PDF-Dokument eingescannt
+
+- bereitgestellt. Dieser muss vollständig ausge über das Zertifizierungsportal bei der KBV eingereicht werden.
+
+-
+
+- Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V eingescannt per Mail an
+
+- [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im  Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung  hochladen.
+
+- **2.** Eine Verzeichnis - bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderli chen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden
+
+- **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
+
+- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+
+- **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
 
 Beispiele: PF01_000_01; PF01_000_02
 
-Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein ZIP-Archiv, und  fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
+Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein ZIP-Archiv, und
 
-**2.2** **ZERTIFIZIERUNGSABLAUF**
+fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
+
+## 2.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
@@ -84,7 +146,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 oder des Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-**2.2.1** **Zertifizierungsportal**
+### 2.2.1 Zertifizierungsportal
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -92,7 +154,9 @@ Die vorliegende Ergebnisprüfung besteht ausschließlich aus einer manuellen Pr�
 
 Die Zugangsdaten können direkt über das Portal oder per E -Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der
 
--ID nur ein Account vergeben wird.  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System
+-ID nur ein Account vergeben wird.
+
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System
 
 
 ---
@@ -101,41 +165,65 @@ Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den 
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln.
 
--Archive) zusammen.  Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,  und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP
+-Archive) zusammen.
+
+Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,
+
+und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP
 
 
 ---
 
-3
+# 3 PRÜFFÄLLE
 
-## PRÜFFÄLLE
+## 3.1 PF-01 AUDIT DER KV.DIGITAL
 
-**3.1** **PF-01 AUDIT DER KV.DIGITAL**
+Nachweis Audit 116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V der kv.digital GmbH laut
 
-Nachweis Audit 116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V der kv.digital GmbH laut  Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß §  370A Abs. 2 SGB V)
+Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß §  370A Abs. 2 SGB V)
 
-Bitte fügen Sie den Nachweis zum Bestehen des Audits „116117 Terminservice Schnittstelle gemäß § 370A  Abs. 2 SGB V“ der kv.digital GmbH als PDF-Datei Ihren Prüfunterlagen bei. Der Nachweis darf nicht älter als  12 Monate sein.
+Bitte fügen Sie den Nachweis zum Bestehen des Audits „116117 Terminservice Schnittstelle gemäß § 370A
 
-Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V“  der kv.digital finden Sie im Partnerportal der kv.digital.
+Abs. 2 SGB V“ der kv.digital GmbH als PDF-Datei Ihren Prüfunterlagen bei. Der Nachweis darf nicht älter als 12 Monate sein.
 
-**3.2** **PF-02 TOMS**
+Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V“
+
+der kv.digital finden Sie im Partnerportal der kv.digital.
+
+## 3.2 PF-02 TOMS
 
 Nachweis der Erfüllung der TOMs laut [KBV_ITV_FMEX_TOM_370a].
 
-Bitte füllen Sie das Dokument aus und senden Sie es uns als E-Mail-Anhang an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) (oder  stellen Sie es uns über das Zertifizierungsportal ([https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)) oder über das  Tausch-Portal ([https://tausch.kbv.de](https://tausch.kbv.de) ) zur Verfügung. Dies kann unabhängig von den für die restlichen  Prüffälle erforderlichen Prüfunterlagen erfolgen.
+Bitte füllen Sie das Dokument aus und senden Sie es uns als E-Mail-Anhang an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) (oder  stellen Sie es uns über das Zertifizierungsportal ([https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)) oder über das
 
-**3.3** **PF-03 WEITERE NACHWEISE**
+Tausch-Portal ([https://tausch.kbv.de](https://tausch.kbv.de) ) zur Verfügung. Dies kann unabhängig von den für die restlichen  Prüffälle erforderlichen Prüfunterlagen erfolgen.
 
-Bitte reichen Sie folgenden Nachweise über das Zertifizierungsportal ([https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) oder über das Tausch-Portal ([https://tausch.kbv.de))](https://tausch.kbv.de))) ein:
+## 3.3 PF-03 WEITERE NACHWEISE
 
-1. Nachweis eines zertifizierten Informationssicherheits-Managementsystems (ISMS) gemäß Anlage 2  zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß § 370A  Abs. 2 SGB V, Anforderung P3-01)
+Bitte reichen Sie folgenden Nachweise über das Zertifizierungsportal ([https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)
 
-2. Eigenerklärung zur Verschlüsselung der Datenkommunikation zwischen Systembestandteilen über  offene Netze gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P3-04)
+oder über das Tausch-Portal ([https://tausch.kbv.de))](https://tausch.kbv.de))) ein:
 
-3. Eigenerklärung zur bereitgestellten Authentisierungsmethode beim Log-in gemäß Anlage 2 zur  Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß § 370A  Abs. 2 SGB V, Anforderung P3-05)
+- 1. Nachweis eines zertifizierten Informationssicherheits-Managementsystems (ISMS) gemäß Anlage 2
 
-4. Nachweis von Penetrationstests gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P5-02)
+- zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß § 370A  Abs. 2 SGB V, Anforderung P3-01)
 
-5. Eigenerklärung zur Barrierefreiheit gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB  V (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P4-01). Dabei sind  nicht barrierefrei gestaltete Teile der Anwendung zu benennen und zu begründen sowie auf  barrierefreie inhaltliche Alternativen zu verweisen.
+- 2. Eigenerklärung zur Verschlüsselung der Datenkommunikation zwischen Systembestandteilen über  offene Netze gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P3-04)
 
-6. Eigenerklärung zur Erfüllung der Anforderungen an das elektronische System der Ersteinschätzung  gemäß Anlage 1 der Anlage 31c BMV-Ä. Nutzer der Schnittstelle, die in ihrer Software Funktionen  zur Suche, Anzeige, Buchung und ggf. Absage von Terminen für telemedizinische Leistungen  anbieten, müssen die Erfüllung der Anforderung an das elektronische System der Ersteinschätzung  nachweisen.
+- 3. Eigenerklärung zur bereitgestellten Authentisierungsmethode beim Log-in gemäß Anlage 2 zur
+
+- Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß § 370A  Abs. 2 SGB V, Anforderung P3-05)
+
+- 4. Nachweis von Penetrationstests gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P5-02)
+
+- 5. Eigenerklärung zur Barrierefreiheit gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB  V (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P4-01). Dabei sind
+
+- nicht barrierefrei gestaltete Teile der Anwendung zu benennen und zu begründen sowie auf
+
+- barrierefreie inhaltliche Alternativen zu verweisen.
+
+- 6. Eigenerklärung zur Erfüllung der Anforderungen an das elektronische System der Ersteinschätzung  gemäß Anlage 1 der Anlage 31c BMV-Ä. Nutzer der Schnittstelle, die in ihrer Software Funktionen
+
+- zur Suche, Anzeige, Buchung und ggf. Absage von Terminen für telemedizinische Leistungen
+
+- anbieten, müssen die Erfüllung der Anforderung an das elektronische System der Ersteinschätzung  nachweisen.

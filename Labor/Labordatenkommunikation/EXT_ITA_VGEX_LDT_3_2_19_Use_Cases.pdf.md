@@ -4,7 +4,11 @@
 
 Berlin, 2024
 
-Version: 3.2.19  Datum: 30.05.2024  Status: In Kraft ab 01.07.2025
+Version: 3.2.19
+
+Datum: 30.05.2024
+
+Status: In Kraft ab 01.07.2025
 
 Kassenärztliche Bundesvereinigung
 
@@ -78,9 +82,7 @@ USE CASE 1 USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE
 
 ---
 
-**1.**
-
-### Use Case 1 – Laborauftrag Kapitel 32.2/32.3
+**1. Use Case 1 – Laborauftrag Kapitel 32.2/32.3**
 
 **1.1. Beschreibung**
 
@@ -182,9 +184,7 @@ Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
 
 ---
 
-**2.**
-
-### Use Case 2 – Laborauftrag Kapitel 32.2/32.3 und IGeL
+**2. Use Case 2 – Laborauftrag Kapitel 32.2/32.3 und IGeL**
 
 **2.1. Beschreibung Use Case 2**
 
@@ -487,7 +487,9 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 Patient  Obj_0045  Person  Obj_0047  12
 
-Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b  3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen  Obj_0069 185
+Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen  Obj_0069 185
 
 cm
 
@@ -505,11 +507,15 @@ Obj_0054 98.6
 
 kg
 
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation   Obj_0013  47112345678  47112345678 2  Person  Obj_0047
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
+
+Obj_0013  47112345678  47112345678 2  Person  Obj_0047
 
 10  Zusatzarzt
 
-Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent
+Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende
+
+Objektattribut  ObjektIdent
 
 Größe der Person
 
@@ -690,7 +696,9 @@ ObjektIdent  Faxnummer  Objektende  Objektende
 
 Objektattribut
 
-ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
+ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung
+
+Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
 
 Objektende
 
@@ -867,7 +875,9 @@ Graf
 
 von  Musterpatient  Karl  Dr. med.
 
-M  Rechnungsanschrift  Obj_0007  23456  Musterstadt  1234
+M  Rechnungsanschrift
+
+Obj_0007  23456  Musterstadt  1234
 
 D
 
@@ -921,7 +931,11 @@ Status Person  Namenszusatz
 
 Vorsatzwort  Nachname  Vorname
 
-Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stadt  Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende  daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende
+Titel  Geschlecht  Objektattribut  ObjektIdent  PostfachPLZ  Postfach Ort / Stadt  Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende
+
+daten Objektattribut  ObjektIdent
+
+Telefonnummer  Objektende  Objektende  Objektende  Objektende
 
 Objektende  Objektende
 
@@ -1640,9 +1654,7 @@ Satzende
 
 ---
 
-**3.**
-
-### Use Case 3 – Laborauftrag für Privatpatient
+**3. Use Case 3 – Laborauftrag für Privatpatient**
 
 **3.1. Beschreibung Use Case 3**
 
@@ -1935,7 +1947,11 @@ ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadr
 
 8225  8002  7278  7279  7273  8003  8003  8113  8002  8310  8311  8611  8147  8002  7420  3101
 
-Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b  3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen   Obj_0069 185
+Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient  Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
+
+Obj_0069 185
 
 cm
 
@@ -1953,7 +1969,9 @@ Obj_0054 98.6
 
 kg
 
-Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation   Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
+Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Auftragsinformation
+
+Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
 
 |  | Objektattribut |  |
 |---|---|---|
@@ -2257,7 +2275,9 @@ Obj_0047
 
 02  Musterarzt  Klaus  Dr. med.  M  Rechnungsanschrift  Obj_0007  12345  Musterhausen  Musterarztstraße  26  Vorderhaus links  D  2  Obj_0007  Geschaeftliche_Kommunikations Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Obj_0008  Obj_0048  Obj_0003  Obj_0001  Material  Obj_0037  12345678.02  02  SE
 
-Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende  Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut
+Postfach  Postfach Wohnsitzländercode  Adresstyp  Objektende
+
+Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut
 
 ObjektIdent
 
@@ -2285,7 +2305,9 @@ Status Person  Nachname  Vorname
 
 Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Adresstyp  Objektende  daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Adresstyp  Objektende
+
+daten Objektattribut  ObjektIdent  Telefonnummer  Objektende  Objektende  Objektende  Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 
 ---
@@ -2552,7 +2574,9 @@ ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende  _ent-
+Objektende
+
+_ent-
 
 Objektattribut
 
@@ -2586,7 +2610,9 @@ ObjektIdent
 
 Handelsname des Arzneimittels
 
-Objektende  _ent-
+Objektende
+
+_ent-
 
 Objektattribut
 
@@ -2940,9 +2966,7 @@ Satzende
 
 ---
 
-**4.**
-
-### Use Case 4 – Laborauftrag im Rahmen der ASV
+**4. Use Case 4 – Laborauftrag im Rahmen der ASV**
 
 **4.1. Beschreibung**
 
@@ -3245,7 +3269,9 @@ Obj_0007
 
 Kommunikationsdaten
 
-Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230  8215  Patient  Obj_0045  Person  Obj_0047  12  Musterpatientin  Karla  19600512  W  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b  3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  PMUFR2312345  Obj_0045  Schwangerschaft  Obj_0050 235
+Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  8230  8215  Patient  Obj_0045  Person  Obj_0047  12  Musterpatientin  Karla  19600512  W  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  PMUFR2312345  Obj_0045  Schwangerschaft  Obj_0050 235
 
 20151015
 
@@ -3368,7 +3394,9 @@ Objektende
 
 8002
 
-Auftragsinformation   Obj_0013  47112345678  47112345678  2
+Auftragsinformation
+
+Obj_0013  47112345678  47112345678  2
 
 Person  Obj_0047 02  Musterarzt
 
@@ -4525,9 +4553,7 @@ Satzende
 
 ---
 
-**5.**
-
-### Use Case 5 – Befund zu Use Case 1
+**5. Use Case 5 – Befund zu Use Case 1**
 
 **5.1. Beschreibung**
 
@@ -4619,9 +4645,7 @@ Die Analytik ist ab-
 
 ---
 
-**6.**
-
-### Use Case 6 – Befund mit Antibiogramm
+**6. Use Case 6 – Befund mit Antibiogramm**
 
 **6.1. Beschreibung**
 
@@ -4698,13 +4722,17 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 ### UNTERSUCHUNGSERGEBNISSE:
 
-### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform  mit Wert „negativ“
+### Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Testmethode „CLIA“ durchgeführt und hat ein semiquantitatives Ergebnis in Textform
 
-ergeben. Der Normalwert wird beschrieben. Das Untersuchungser- gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
+### mit Wert „negativ“ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser-
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert  wertindikator ist „
+gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-“. Der Normalwert wird beschrieben.  mitgeteilt. Die Analytik ist abgeschlossen.
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert
+
+### wertindikator ist „ “. Der Normalwert wird beschrieben.
+
+mitgeteilt. Die Analytik ist abgeschlossen.
 
 ### Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
 
@@ -4724,13 +4752,17 @@ ergeben. Der Normalwert wird beschrieben. Das Untersuchungser- gebnis wurde durc
 
 ### Mittels der Resistenz-Methode „Agardilution“ wurde nachfolgendes Antibiogramm:
 
-**Keim** Enterococcus Faecalis
+**Keim**
+
+Enterococcus Faecalis
 
 ***Wirkstoff***
 
 Handelsname
 
-***Ampicil-***Sensitivität: **s**
+***Ampicil-***
+
+Sensitivität: **s**
 
 ***lin/Amoxy***
 
@@ -4793,7 +4825,9 @@ MHK Einheit:
 
 ---
 
-mit folgendem Ergebnis-Text: *„Gentamicin kann bei dem*  *gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi-* *otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist*  *zu erwarten.“* erstellt.
+mit folgendem Ergebnis-Text: *„Gentamicin kann bei dem*
+
+*gebnisses "r" im Rahmen einer Kombinationstherapie mit wirksamen Betalaktam-Antibi-* *otika (z.B. Penicillin oder Ceftriaxon) eingesetzt werden. Eine synergistische Wirkung ist*  *zu erwarten.“* erstellt.
 
 Zusätzlich wird folgendes Ergebnis festgestellt:
 
@@ -4814,9 +4848,7 @@ Z01_UseCase06_Befund_mitPDF.ldt
 
 ---
 
-**7.**
-
-### Use Case 7 – Übergabe “Stammdaten”
+**7. Use Case 7 – Übergabe “Stammdaten”**
 
 **7.1. Beschreibung**
 
@@ -5020,7 +5052,7 @@ Graf
 
 von  Musterpatient  Karl  19600512  Dr. med.
 
-M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b  3. Hinterhaus
+M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b 3. Hinterhaus
 
 D  Obj_0007
 
@@ -5199,7 +5231,9 @@ Musterkasse 78945
 
 123456789
 
-Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent
+Objektende  Versicherten-ID  Patientennummer  Objektende
+
+Objektattribut  ObjektIdent
 
 Größe der Person
 
@@ -5221,7 +5255,9 @@ Gewicht der Person
 
 Einheit des Meßwertes
 
-Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung
+
+Objektattribut  ObjektIdent  ICD Code  Diagnosesicherheit  Lokalisation
 
 Objektende
 
@@ -5237,7 +5273,9 @@ Diagnosesicherheit  Lokalisation
 
 Objektende
 
-Objektende  Objektattribut  ObjektIdent  Objektattribut
+Objektende
+
+Objektattribut  ObjektIdent  Objektattribut
 
 ObjektIdent
 
@@ -5415,9 +5453,7 @@ Satzende
 
 ---
 
-**8.**
-
-### Use Case 8 – Befund zu Laborauftrag Kapitel 32.2/32.3/IGeL
+**8. Use Case 8 – Befund zu Laborauftrag Kapitel 32.2/32.3/IGeL**
 
 **8.1. Beschreibung**
 
@@ -5569,7 +5605,9 @@ Objektattribut
 
 ObjektIdent  Status der Betriebsstätte  Status der Betriebsstätte  (N)BSNR-Bezeichnung  Betriebs- (BSNR) oder Nebenbetriebsstättennummer  (NBSNR)
 
-Objektattribut  ObjektIdent  Organisation / Firma  Objektattribut  ObjektIdent  PLZ
+Objektattribut  ObjektIdent
+
+Organisation / Firma  Objektattribut  ObjektIdent  PLZ
 
 Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektattribut  ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadresse  Objektende  Objektende
 
@@ -5635,11 +5673,19 @@ Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Per
 
 3102  3103  3104  3110  8228  8002  3112  3113  3107  3109  3115  3114  8003  8003  3119  3000  8003  8169  8002  3622  8421  8225  8002  7278  7279  7273  8003  3623  8421  8225  8002  7278  7279  7273  8003  8003  8117  8002  8310  8214  8002  7278  7279  7273  8003  8311  7305  8401  8216  8002  7278
 
-Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b  3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen   Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
+Karl  19600512  Dr. med.  M  Wohnanschrift  Obj_0007  23456  Musterort  Siegburger Straße  425 b
+
+3. Hinterhaus  D  Obj_0007  Obj_0047  S040464113  KAMUPA47112015  Obj_0045  Koerperkenngroessen
+
+Obj_0069  185  cm  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  98.6  kg  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Befundinformationen  Obj_0017  47112345678  Timestamp_Auftragserteilung Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  47112345678  47112345678001  2  Timestamp_Befunderstellung Obj_0054  JJJJMMTT
 
 Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)  Objektattribut  ObjektIdent  Datum des Timestamp
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent  Größe der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Gewicht der Person  Einheit des Meßwertes  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders
+
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  ID Auftragsnummer des Labors  Befund-ID  Status (Befund/Bericht)
+
+Objektattribut  ObjektIdent  Datum des Timestamp
 
 
 ---
@@ -5706,11 +5752,63 @@ Uhrzeit des Timestamp  Zeitzone  Objektende  Objektattribut  ObjektIdent  Grund 
 
 Titel  Objektende  Objektattribut  ObjektIdent
 
-Text   Leerzeile
+Text
+
+Leerzeile
 
 Text
 
-Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident  Probenmaterial-Bezeichnung  Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der   Materialentnahme  Objektattribut  ObjektIdent  Handelsname des Arzneimittels  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone   Objektende  Objektende  Objektattribut  ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident  Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der   Materialentnahme
+Objektende  Objektende  Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Probengefäß-Ident
+
+Probenmaterial Index
+
+Probenmaterial-Ident
+
+Probenmaterial-Bezeichnung
+
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der
+
+Materialentnahme
+
+Objektattribut
+
+ObjektIdent
+
+Handelsname des Arzneimittels
+
+Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Datum des Timestamp
+
+Uhrzeit des Timestamp  Zeitzone
+
+Objektende
+
+Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Probengefäß-Ident
+
+Probenmaterial Index
+
+Probenmaterial-Ident
+
+Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der
+
+Materialentnahme
 
 
 ---
@@ -5759,11 +5857,29 @@ Person  Obj_0047 07  Zusatzarzt  Thomas
 
 Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Achtung!! Wert stark erhöht. Obj_0068
 
-Objektattribut  ObjektIdent  Handelsname des Arzneimittels  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone
+Objektattribut
 
-Objektende  Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident  Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut  ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut  ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent  Status Person  Nachname  Vorname
+ObjektIdent
 
-Titel  Objektende  Objektattribut  ObjektIdent  Text  Objektende
+Handelsname des Arzneimittels
+
+Objektende
+
+Objektattribut
+
+ObjektIdent
+
+Datum des Timestamp
+
+Uhrzeit des Timestamp  Zeitzone
+
+Objektende
+
+Objektende  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident  Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut  ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut  ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent  Status Person  Nachname  Vorname
+
+Titel  Objektende  Objektattribut  ObjektIdent
+
+Text  Objektende
 
 
 ---
@@ -5786,7 +5902,9 @@ PM  Obj_0041  Untersuchungsabrechnung Obj_0058  1  0 32xxx
 
 25
 
-1  Obj_0058  Obj_0060  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12302  12345678.03  Qu
+1  Obj_0058  Obj_0060  UE_Klinische_Chemie
+
+Obj_0060  ErgebnisIDKC12302  12345678.03  Qu
 
 Quick  03  Methode5
 
@@ -5804,13 +5922,23 @@ Person  Obj_0047
 
 Objektende  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone
 
-Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent  bereits abgerechnet  Objektende
+Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende
+
+Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent
+
+bereits abgerechnet  Objektende
 
 Objektende  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident
 
-Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut
+Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes
 
-ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut
+Maßeinheit des Messwertes / Wertes  Objektattribut
+
+ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes
+
+Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes
+
+Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut
 
 ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent
 
@@ -5847,11 +5975,15 @@ PSA 06  Methode7
 
 01  Ergebnis  2
 
-Status Person  Nachname  Vorname  Titel  Objektende  Objektattribut  ObjektIdent  Text
+Status Person  Nachname  Vorname  Titel  Objektende
+
+Objektattribut  ObjektIdent  Text
 
 Objektende  Objektende  Objektende  Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp
 
-Zeitzone  Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent  bereits abgerechnet  Objektende  Objektende
+Zeitzone  Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namenskürzel / Namenszeichen  Objektende  Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent
+
+bereits abgerechnet  Objektende  Objektende
 
 Objektattribut
 
@@ -5911,7 +6043,9 @@ ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone
 
 017  017  015  017  012  031  017
 
-027  017  012  017  013  013  025  013  *Hinweis:*  015 017
+027  017  012  017  013  013  025  013
+
+*Hinweis:*  015 017
 
 017
 
@@ -5946,9 +6080,7 @@ Satzart  Prüfsumme  Satzende
 
 ---
 
-**9.**
-
-### Use Case 9 – Befund zu Laborauftrag für Privatpatient
+**9. Use Case 9 – Befund zu Laborauftrag für Privatpatient**
 
 **9.1. Beschreibung**
 
@@ -6027,7 +6159,9 @@ Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode
 
 **FEHLERMELDUNG/AUFMERKSAMKEIT:**
 
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
+Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz-
+
+wertig“
 
 **ZUSATZINFORMATIONEN:**
 
@@ -6042,9 +6176,7 @@ Z01_UseCase09_Befund_mitPDF_ohneUnterschrift.ldt
 
 ---
 
-**10.**
-
-### Use Case 12 – Stornierung Untersuchungsanforderungen
+**10. Use Case 12 – Stornierung Untersuchungsanforderungen**
 
 **10.1. Beschreibung**
 
@@ -6104,7 +6236,9 @@ Z01_UseCase12_Storno_Auftrag.ldt
 
 Hinweis:
 
-Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
+Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!
+
+Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
 
 
 ---
@@ -6117,9 +6251,7 @@ Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Da
 
 ---
 
-**11.**
-
-### Use Case 13 – Laborauftrag mit Übermittlung Vorbefund
+**11. Use Case 13 – Laborauftrag mit Übermittlung Vorbefund**
 
 **11.1. Beschreibung**
 
@@ -6215,9 +6347,7 @@ Z01_UseCase13_Auftrag323_323.ldt
 
 ---
 
-**12.**
-
-### Use Case 14 – Befund Molekulargenetik
+**12. Use Case 14 – Befund Molekulargenetik**
 
 **12.1. Beschreibung**
 
@@ -6300,9 +6430,7 @@ Zusätzliche Informationen: Text Text Text Die GOP und die Kosten werden mitgete
 
 ---
 
-**13.**
-
-### Use Case 15 – Befund (konventionelle und SI-Einheiten)
+**13. Use Case 15 – Befund (konventionelle und SI-Einheiten)**
 
 **13.1. Beschreibung**
 
@@ -6458,9 +6586,7 @@ Use Case 16 – Darstellung des Inhaltes Obj_0068 In diesem UseCase wird der Umg
 
 ---
 
-**14.2.**
-
-### Text mit vorgegebener Formatierung
+**14.2. Text mit vorgegebener Formatierung**
 
 Beispiel:
 
@@ -6499,9 +6625,7 @@ Quis aute iure reprehenderit   Excepteur sint
 
 ---
 
-**15.**
-
-### Use Case 17 – Befund Krebsfrüherkennung Zervix-
+**15. Use Case 17 – Befund Krebsfrüherkennung Zervix-**
 
 **15.1. Beschreibung**
 
@@ -6567,7 +6691,7 @@ Endozervikale Zellen vorhanden, Proliferationsgrad 3  Gruppe IIID1, HPV-HR-Teste
 
 Bemerkungen: Döderlein-Zytolyse
 
-### Karzinom 4, Döderleinflora vorhanden,
+#### Karzinom 4, Döderleinflora vorhanden,
 
 
 ---

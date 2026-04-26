@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_KBV_GESCHLECHT
+#### S_KBV_GESCHLECHT
 
 **OID:**
 
@@ -22,4 +22,4 @@
 
 **Bezeichnung** unbekannt männlich weiblich
 
-Schlüsseltabelle: S_KBV_GESCHLECHT1
+Schlüsseltabelle: S_KBV_GESCHLECHT 1

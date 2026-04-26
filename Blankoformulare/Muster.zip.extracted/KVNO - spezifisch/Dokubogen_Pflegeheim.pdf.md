@@ -96,7 +96,9 @@ Mobil
 
 E-Mail
 
-Körperschaft des öffentlichen Rechts **Anhang 1: Dokumentationsbogen zur**  **besonderen Förderung der**  **Pflegeheimversorgung**
+Körperschaft des öffentlichen Rechts
+
+#### Anhang 1: Dokumentationsbogen zur  besonderen Förderung der  Pflegeheimversorgung
 
 Pflegegrad Grad der Behinderung Medikation: Gesamtanzahl der  Wirkstoffe Liegt eine Patientenverfügung vor?
 
@@ -112,7 +114,9 @@ in %
 
 **J**[ ]
 
-**gesetzlicher Betreuer**  **JA**[ ] Vor-/Nachname
+**gesetzlicher Betreuer**  **JA**
+
+[ ] Vor-/Nachname
 
 Straße, Nr.
 
@@ -120,7 +124,9 @@ PLZ Ort
 
 Telefon
 
-Mobil **Angehörige** **JA**[ ] Vor-/Nachname
+Mobil **Angehörige** **JA**
+
+[ ] Vor-/Nachname
 
 Straße, Nr.
 

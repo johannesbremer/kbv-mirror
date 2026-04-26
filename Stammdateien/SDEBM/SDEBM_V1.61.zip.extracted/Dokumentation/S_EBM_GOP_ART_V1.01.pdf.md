@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_EBM_GOP_ART
+#### S_EBM_GOP_ART
 
 **OID:**
 

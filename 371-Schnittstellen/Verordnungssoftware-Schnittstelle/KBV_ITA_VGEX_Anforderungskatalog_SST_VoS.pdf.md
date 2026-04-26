@@ -18,38 +18,144 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPTEMBER 2023 VERSION: 2.1.2 DOK
 
 ## INHALT
 
-**1** **EINLEITUNG 7**
+**1** **EINLEITUNG**
 
-1.1 Ziel 7  1.2 Abgrenzung 7  1.3 Funktionsarten 7  1.4 Gültigkeit der Version des Anforderungskatalogs 8
+**7**
 
-**2** **GRUNDLAGEN DER UMSETZUNG** **9**
+1.1 Ziel
 
-2.1 Verordnungssoftware-Schnittstelle (VoS-SST) 9  2.2 Verordnungsprozess 9  2.2.1 Allgemeine Darstellung 9  2.2.2 Fehlermeldungen 11  2.2.3 Konkretes Beispiel 11  2.3 Datentransfer 13  2.4 Zertifizierung 13
+7
 
-**3** **ANFORDERUNGEN AN DAS PVS UND DIE VOS** **14**
+1.2 Abgrenzung
 
-3.1 Verbindliche Dokumente 14  3.2 Übergreifende Anforderungen 16
+7
 
-**4** **ANFORDERUNGEN AN DAS PVS** **23**
+1.3 Funktionsarten
 
-4.1 VoS aufrufen 23  4.2 Daten übergeben 23  4.3 Daten prüfen 34  4.4 Daten Speichern 38  4.5 Allgemeine Anforderungen 38  4.6 Anforderung zur Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten 41
+7
 
-**5** **ANFORDERUNGEN AN DIE VOS 42**
+1.4 Gültigkeit der Version des Anforderungskatalogs 8
 
-5.1 Aufruf der VoS 42  5.2 FHIR®-REST-Server 42  5.3 Daten abfragen 43  5.4 Daten Prüfen 43  5.5 Daten weiterverarbeiten 44  5.6 Daten übergeben 45  5.7 VoS beenden 46  5.8 Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten 46
+**2** **GRUNDLAGEN DER UMSETZUNG**
 
-**6** **REFERENZIERTE DOKUMENTE** **47**
+**9**
+
+2.1 Verordnungssoftware-Schnittstelle (VoS-SST) 9
+
+2.2 Verordnungsprozess
+
+9
+
+2.2.1 Allgemeine Darstellung
+
+9
+
+2.2.2 Fehlermeldungen
+
+11
+
+2.2.3 Konkretes Beispiel
+
+11
+
+2.3 Datentransfer
+
+13
+
+2.4 Zertifizierung
+
+13
+
+**3** **ANFORDERUNGEN AN DAS PVS UND DIE VOS**
+
+**14**
+
+3.1 Verbindliche Dokumente
+
+14
+
+3.2 Übergreifende Anforderungen 16
+
+**4** **ANFORDERUNGEN AN DAS PVS**
+
+**23**
+
+4.1 VoS aufrufen
+
+23
+
+4.2 Daten übergeben
+
+23
+
+4.3 Daten prüfen
+
+34
+
+4.4 Daten Speichern
+
+38
+
+4.5 Allgemeine Anforderungen
+
+38
+
+4.6 Anforderung zur Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten 41
+
+**5** **ANFORDERUNGEN AN DIE VOS**
+
+**42**
+
+5.1 Aufruf der VoS
+
+42
+
+5.2 FHIR®-REST-Server
+
+42
+
+5.3 Daten abfragen
+
+43
+
+5.4 Daten Prüfen
+
+43
+
+5.5 Daten weiterverarbeiten
+
+44
+
+5.6 Daten übergeben
+
+45
+
+5.7 VoS beenden
+
+46
+
+5.8 Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten 46
+
+**6** **REFERENZIERTE DOKUMENTE**
+
+**47**
 
 
 ---
 
 **ABBILDUNGSVERZEICHNIS**
 
-Abbildung 1: VoS-SST  Abbildung 2: Verordnungsprozess  Abbildung 3: Fehler im Verordnungsprozess  Abbildung 4: Verordnungsprozess  Abbildung 5: Zuordnung der KBV-Profile
+Abbildung 1: VoS-SST  Abbildung 2: Verordnungsprozess  Abbildung 3: Fehler im Verordnungsprozess
+
+Abbildung 4: Verordnungsprozess  Abbildung 5: Zuordnung der KBV-Profile
 
 **TABELLENVERZEICHNIS**
 
-Tabelle 1 Einzusetzende Profile  Tabelle 2 Aufrufkontext der VoS-Schnittstelle  Tabelle 3 Ressourcen pro Aufrufkontext  Tabelle 4 Mindestumfang der Daten an der B1 -Schnittstelle
+Tabelle 1 Einzusetzende Profile
+
+Tabelle 2 Aufrufkontext der VoS-Schnittstelle  Tabelle 3 Ressourcen pro Aufrufkontext
+
+Tabelle 4 Mindestumfang der Daten an der B1 -Schnittstelle
 
 9  10  11  12  16
 
@@ -118,41 +224,69 @@ Kürzels “AVWG” Referenz Grundlage für Medikationspläne entfernt Zertifizi
 
 ---
 
-1
+# 1 EINLEITUNG
 
-## EINLEITUNG
+, die zur
 
-, die zur  Gemäß § 371 Absatz 1 Nummer 2 SGB V müssen Vertragsärzte mittels einer Schnittstelle  (Verordnungssoftware-Schnittstelle) die Möglichkeit erhalten, die Verordnungssoftware (VoS) Arzneimittelverordnung in der vertragsärztlichen Versorgung eingesetzt wird, zu wechseln, ohne dabei die  bislang gespeicherten patientenbezogenen Verordnungsdaten zu verlieren und das gesamte
+Gemäß § 371 Absatz 1 Nummer 2 SGB V müssen Vertragsärzte mittels einer Schnittstelle  (Verordnungssoftware-Schnittstelle) die Möglichkeit erhalten, die Verordnungssoftware (VoS) Arzneimittelverordnung in der vertragsärztlichen Versorgung eingesetzt wird, zu wechseln, ohne dabei die
 
-schen einem PVS und einer VoS, welche als  Praxisverwaltungssystem (PVS) zu wechseln. Um diesem Gesetz zu entsprechen, bedarf es einer  einheitlichen Regelung für den Datentransfer zwi Anforderungen in diesem Dokument spezifiziert werden. Dieses Dokument richtet sich an alle Hersteller  von PVS und VoS, zur Arzneimittelverordnung in der vertragsärztlichen Versorgung eingesetzt werden.
+bislang gespeicherten patientenbezogenen Verordnungsdaten zu verlieren und das gesamte
 
-**1.1** **ZIEL**
+schen einem PVS und einer VoS, welche als
 
-Das Ziel dieses Dokuments ist es, auf Basis [KBV_ITA_VGEX_SST_FESTLEGUNG_VOS] Anforderungen für die  Umsetzung der Verordnungssoftware-Schnittstelle (VoS-SST) zwischen den beteiligten Systemen  darzulegen. Die Grundlage für die Definition bildet dabei der Verordnungsprozess, welcher im zweiten  Kapitel unter Berücksichtigung der verschiedenen Anforderungen an die beiden Systeme dargestellt wird.
+Praxisverwaltungssystem (PVS) zu wechseln. Um diesem Gesetz zu entsprechen, bedarf es einer  einheitlichen Regelung für den Datentransfer zwi Anforderungen in diesem Dokument spezifiziert werden. Dieses Dokument richtet sich an alle Hersteller
 
-**1.2** **ABGRENZUNG**
+von PVS und VoS, zur Arzneimittelverordnung in der vertragsärztlichen Versorgung eingesetzt werden.
+
+## 1.1 ZIEL
+
+Das Ziel dieses Dokuments ist es, auf Basis [KBV_ITA_VGEX_SST_FESTLEGUNG_VOS] Anforderungen für die
+
+Umsetzung der Verordnungssoftware-Schnittstelle (VoS-SST) zwischen den beteiligten Systemen  darzulegen. Die Grundlage für die Definition bildet dabei der Verordnungsprozess, welcher im zweiten
+
+Kapitel unter Berücksichtigung der verschiedenen Anforderungen an die beiden Systeme dargestellt wird.
+
+## 1.2 ABGRENZUNG
 
 Die Feststellungen aus der Abgrenzung der Funktionsbereiche beider Systeme sind bei der  Anforderungsdefinition der VoS-SST essenziell.
 
-und sonstigen nach Die VoS ist ein elektronisches Programm, welches für die Verordnung von Arzneimitteln § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten auf Basis des  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] von der KBV zugelassen ist. Der Funktionsumfang für die VoS  ]. Hierbei kann es sich beispielsweise um ergibt sich aus dem [EXT_ITA_VGEX_Anforderungskatalog_AVWG die Erstverordnung, Wiederverordnung oder Arzneimittelrecherche (-suche) handeln.
+und sonstigen nach
+
+Die VoS ist ein elektronisches Programm, welches für die Verordnung von Arzneimitteln § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten auf Basis des
+
+[EXT_ITA_VGEX_Anforderungskatalog_AVWG] von der KBV zugelassen ist. Der Funktionsumfang für die VoS  ]. Hierbei kann es sich beispielsweise um
+
+ergibt sich aus dem [EXT_ITA_VGEX_Anforderungskatalog_AVWG die Erstverordnung, Wiederverordnung oder Arzneimittelrecherche (-suche) handeln.
 
 Diese Verordnungsfunktionen werden für die VoS vorausgesetzt und sind nicht Bestandteile dieses  Dokuments.
 
-2 r elektronischen Patientenakte gespeichert. Der Begriff  1
+2
 
-Ein elektronisches Programm, aus dem ein Arzt eine Funktion einer VoS aufruft, wird als PVS bezeichnet.  Dieses übernimmt i. d. R. die Verwaltung und Speicherung der Patienten- und Praxisdaten. Im PVS ist die  Dokumentation der Behandlung des Patienten in de PVS bezieht sich auf IT-Systeme , die in der vertragsärztlichen Versorgung eingesetzt werden.
+r elektronischen Patientenakte gespeichert. Der Begriff  1
 
-1 Patientendokumentation, Karteikarte.  2 Auch Krankenhausinformationssysteme (KIS), wenn sie in der vertragsärztlichen Versorgung eingesetzt werden.
+Ein elektronisches Programm, aus dem ein Arzt eine Funktion einer VoS aufruft, wird als PVS bezeichnet.
 
-**1.3** **FUNKTIONSARTEN**
+Dieses übernimmt i. d. R. die Verwaltung und Speicherung der Patienten- und Praxisdaten. Im PVS ist die
+
+Dokumentation der Behandlung des Patienten in de PVS bezieht sich auf IT-Systeme , die in der vertragsärztlichen Versorgung eingesetzt werden.
+
+1 Patientendokumentation, Karteikarte.
+
+2 Auch Krankenhausinformationssysteme (KIS), wenn sie in der vertragsärztlichen Versorgung eingesetzt werden.
+
+## 1.3 FUNKTIONSARTEN
 
 Der vorliegende Anforderungskatalog differenziert zwischen Pflichtfunktionen, konditionalen  Pflichtfunktionen und optionalen Funktionen, die im Folgenden näher erläutert werden.
 
 Eine **Pflichtfunktion** bedeutet, dass die entsprechende Anforderung zwingend umgesetzt werden muss.
 
-Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, wenn alle notwendigen  Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
+Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, wenn alle notwendigen
 
-Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die  Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
+Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
+
+Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die
+
+Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 
 ---
@@ -175,34 +309,48 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | O4-20 | Funktionsbezeichnung |
 
-**1.4** **GÜLTIGKEIT DER VERSION DES ANFORDERUNGSKATALOGS**
+## 1.4 GÜLTIGKEIT DER VERSION DES ANFORDERUNGSKATALOGS
 
 Die Version des Anforderungskataloges V2.1.2 bezieht sich auf die Schnittstellenversion der VoS-SST V2.1.0.
 
 
 ---
 
-2
-
-## GRUNDLAGEN DER UMSETZUNG
+# 2  GRUNDLAGEN DER UMSETZUNG
 
 Zwischen dem PVS und der VoS findet bezüglich des Verordnungsprozesses ein Datentransfer mit Hilfe der  VoS-SST statt. Dabei werden an das PVS und an die VoS z. T. unterschiedliche Anforderungen gestellt. In  diesem Kapitel werden die Grundlagen für die Umsetzung der VoS-SST beschrieben.
 
-**2.1** **VERORDNUNGSSOFTWARE-SCHNITTSTELLE (VOS-SST)**
+## 2.1 VERORDNUNGSSOFTWARE-SCHNITTSTELLE (VOS-SST)
 
-Die folgende Abbildung zeigt die Verbindung zwischen einem PVS und einer VoS, welche über eine  Standardschnittstelle „B“ hergestellt wird. Hierbei handelt es sich um eine Standardschnittstelle mit zwei  3Endpunkten und jeweils mit Export- und Import-Funktionalitäten.
+Die folgende Abbildung zeigt die Verbindung zwischen einem PVS und einer VoS, welche über eine  Standardschnittstelle „B“ hergestellt wird. Hierbei handelt es sich um eine Standardschnittstelle mit zwei 3
 
-Während für das PVS die B1-SST verbindlich ist, muss die VoS die Anforderungen der B2-SST umsetzen.  Über die B1-SST werden der VoS die für eine Verordnung erforderlichen Daten bereitgestellt. Die VoS muss  diese Daten verarbeiten und im Laufe des Prozesses ebenfalls Daten und Dokumente dem PVS übergeben.  D. h. beide Systeme müssen jeweils über eine Export- und Import-Funktion verfügen, um die  Anforderungen an eine VoS-SST zu erfüllen. Mit Hilfe der VoS-SST wird dem Anwender der Wechsel der VoS  und der Einsatz von mehreren VoS zur Verordnung an einem bestehenden PVS ermöglicht, ohne das PVS  wechseln zu müssen.
+Endpunkten und jeweils mit Export- und Import-Funktionalitäten.
+
+Während für das PVS die B1-SST verbindlich ist, muss die VoS die Anforderungen der B2-SST umsetzen.
+
+Über die B1-SST werden der VoS die für eine Verordnung erforderlichen Daten bereitgestellt. Die VoS muss
+
+diese Daten verarbeiten und im Laufe des Prozesses ebenfalls Daten und Dokumente dem PVS übergeben.
+
+D. h. beide Systeme müssen jeweils über eine Export- und Import-Funktion verfügen, um die
+
+Anforderungen an eine VoS-SST zu erfüllen. Mit Hilfe der VoS-SST wird dem Anwender der Wechsel der VoS  und der Einsatz von mehreren VoS zur Verordnung an einem bestehenden PVS ermöglicht, ohne das PVS
+
+wechseln zu müssen.
 
 Abbildung 1: VoS-SST
 
-Für die konkrete Spezifikation der VoS-SST ist es notwendig, den ihr zugrundeliegenden  Verordnungsprozess darzustellen.
+Für die konkrete Spezifikation der VoS-SST ist es notwendig, den ihr zugrundeliegenden
 
-**2.2** **VERORDNUNGSPROZESS**
+Verordnungsprozess darzustellen.
 
-**2.2.1** **Allgemeine Darstellung**
+## 2.2 VERORDNUNGSPROZESS
 
-Bei der Darstellung des Verordnungsprozesses ist es wichtig zu erkennen, dass nicht alle Aktionen,  Ereignisse und Entscheidungspunkte berücksichtigt werden können, da jedes System individuell ist. Die  Sicht aus unterschiedlichen Blickwinkeln führt oftmals dazu, dass gleiche Anforderungen verschiedenartig  umgesetzt werden, beispielsweise kann die Überprüfung der Daten auf Vollständigkeit mehrfach und zu  unterschiedlichen Zeitpunkten erfolgen. Der verwendete Standard sowie die Anforderungen in diesem  Dokument bieten den PVS- und VoS-Herstellern die notwendige Flexibilität, um die Besonderheiten der  eigenen Geschäftsprozesse weiterhin aufrechtzuerhalten.
+### 2.2.1 Allgemeine Darstellung
+
+Bei der Darstellung des Verordnungsprozesses ist es wichtig zu erkennen, dass nicht alle Aktionen,  Ereignisse und Entscheidungspunkte berücksichtigt werden können, da jedes System individuell ist. Die  Sicht aus unterschiedlichen Blickwinkeln führt oftmals dazu, dass gleiche Anforderungen verschiedenartig
+
+umgesetzt werden, beispielsweise kann die Überprüfung der Daten auf Vollständigkeit mehrfach und zu  unterschiedlichen Zeitpunkten erfolgen. Der verwendete Standard sowie die Anforderungen in diesem  Dokument bieten den PVS- und VoS-Herstellern die notwendige Flexibilität, um die Besonderheiten der  eigenen Geschäftsprozesse weiterhin aufrechtzuerhalten.
 
 3 B1- und B2-Schnitstelle (B1- und B2-SST)
 
@@ -215,15 +363,21 @@ mit dem Aufruf einer VoS und endet meistens mit der Speicherung der patientenbez
 
 Abbildung 2: Verordnungsprozess -SST haben.
 
-Bei der Darstellung handelt es sich um eine reine Prozessintegration. D. h. die Aktionen des Arztes sind an  dieser Stelle nicht abgebildet. Die Anwenderaktionen würden zwar den Ablauf des Verordnungsprozesses  beeinflussen, aber keine Auswirkung auf die VoS
+Bei der Darstellung handelt es sich um eine reine Prozessintegration. D. h. die Aktionen des Arztes sind an
+
+dieser Stelle nicht abgebildet. Die Anwenderaktionen würden zwar den Ablauf des Verordnungsprozesses  beeinflussen, aber keine Auswirkung auf die VoS
 
 **PVS: Daten zusammenstellen**
 
-Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungsfunktionen im PVS  ausgewählt hat. Auf dieser Grundlage stellt das PVS die für die VoS erforderlichen Daten zusammen.
+Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungsfunktionen im PVS
+
+ausgewählt hat. Auf dieser Grundlage stellt das PVS die für die VoS erforderlichen Daten zusammen.
 
 **PVS: VoS aufrufen und Daten übergeben**
 
-ür die Daten, die sogenannte Kontext-ID, und Beim Aufruf der VoS übergibt das PVS eine eindeutige ID f stellt gleichzeitig die funktionsrelevanten gesammelten Daten der VoS zur Verfügung.
+ür die Daten, die sogenannte Kontext-ID, und
+
+Beim Aufruf der VoS übergibt das PVS eine eindeutige ID f stellt gleichzeitig die funktionsrelevanten gesammelten Daten der VoS zur Verfügung.
 
 **VoS: Daten abfragen**
 
@@ -231,11 +385,17 @@ Die VoS fragt mit Hilfe der Kontext-ID die entsprechenden Daten beim PVS ab.
 
 **VoS: Daten prüfen**
 
-z. B. Bevor die Daten in der VoS weiterverarbeitet werden, müssen einige Überprüfungen erfolgen wie  Vollständigkeit der Daten. Sollten der VoS Daten fehlen, um die jeweiligen Verordnungsfunktionen  auszuführen, müssen diese beim PVS abgefragt werden.
+z. B.
+
+Bevor die Daten in der VoS weiterverarbeitet werden, müssen einige Überprüfungen erfolgen wie  Vollständigkeit der Daten. Sollten der VoS Daten fehlen, um die jeweiligen Verordnungsfunktionen
+
+auszuführen, müssen diese beim PVS abgefragt werden.
 
 **VoS: Daten weiterverarbeiten**
 
-die Daten und die entsprechend zuvor Die VoS muss nach der Überprüfung der Daten, dem Arzt  ausgewählte Funktion oder alle möglichen Verordnungsfunktionen zur Auswahl anbieten. Der Arzt kann  wie gewohnt die VoS nutzen.
+die Daten und die entsprechend zuvor
+
+Die VoS muss nach der Überprüfung der Daten, dem Arzt  ausgewählte Funktion oder alle möglichen Verordnungsfunktionen zur Auswahl anbieten. Der Arzt kann  wie gewohnt die VoS nutzen.
 
 
 ---
@@ -252,13 +412,15 @@ Das PVS wird die vorliegenden Daten/Dokumente auf Korrektheit und Vollständigke
 
 Das PVS übernimmt die Speicherung der patientenbezogenen Daten/Dokumente.
 
-**2.2.2** **Fehlermeldungen**
+### 2.2.2 Fehlermeldungen
 
-Im Folgenden wird exemplarisch dargestellt, an welchen Stellen im Datentransfer ggf. Fehler  können. Die einzelnen Anforderungen zu den Fehlermeldungen (FM) sind den entsprechenden  Pflichtfunktionen zu entnehmen.
+Im Folgenden wird exemplarisch dargestellt, an welchen Stellen im Datentransfer ggf. Fehler
+
+können. Die einzelnen Anforderungen zu den Fehlermeldungen (FM) sind den entsprechenden  Pflichtfunktionen zu entnehmen.
 
 Abbildung 3: Fehler im Verordnungsprozess
 
-**2.2.3** **Konkretes Beispiel**
+### 2.2.3 Konkretes Beispiel
 
 Im Folgenden wird anhand eines Beispiels der Verordnungsprozess exemplarisch dargestellt: (MP)
 
@@ -271,71 +433,133 @@ Abbildung 4: Verordnungsprozess
 
 **Vorbedingung**
 
-keine bestimmte Bei dem oben dargestellten Prozess wird davon ausgegangen, dass der Arzt - oder alten Verordnungsdaten des Patienten ausgewählt Verordnungsfunktion im PVS und keine Patienten hat. In dem Fall muss das PVS als Aufrufkontext „ohne Aufrufkontext = 1 und die erforderlichen  Praxisdaten der VoS übermitteln.
+keine bestimmte
+
+Bei dem oben dargestellten Prozess wird davon ausgegangen, dass der Arzt - oder alten Verordnungsdaten des Patienten ausgewählt
+
+Verordnungsfunktion im PVS und keine Patienten hat. In dem Fall muss das PVS als Aufrufkontext „ohne Aufrufkontext = 1 und die erforderlichen
+
+Praxisdaten der VoS übermitteln.
 
 Das PVS erstellt mit Einsatz der KBV-Profile ein Bundle (sog. Aufruf-Bundle) mindestens mit folgenden  Informationen:
 
-Kontext-ID des Bundles (Bundle-ID)  Aufrufkontext = 1 (ohne Aufrufkontext)  -10) Mindestens die Praxisdaten (s. Pflichtfunktion P4
+Kontext-ID des Bundles (Bundle-ID)
+
+Aufrufkontext = 1 (ohne Aufrufkontext) -10)
+
+Mindestens die Praxisdaten (s. Pflichtfunktion P4
 
 Dieses Bundle ist unter der Bundle-ID abrufbar.
 
--ID auf. Das PVS stellt das Bundle zum Abholen bereit und ruft die VoS mit Übergabe der Bundle
+-ID auf.
 
-Nach dem Abholen und Prüfen des Bundles stellt die VoS dem Arzt die möglichen Verordnungsfunktionen  , durch den zur Verfügung. Nach Auswahl der Funktion, in diesem Beispiel „Erstverordnung für Patient X“ Arzt wird die VoS überprüfen, ob alle funktionsrelevanten Daten der VoS bereits zur Verfügung gestellt  wurden.
+Das PVS stellt das Bundle zum Abholen bereit und ruft die VoS mit Übergabe der Bundle
 
-D. h. die VoS fragt beim PVS die Falls notwendige Daten fehlen, muss die VoS diese beim PVS abfragen.  Patientenliste ab und stellt diese dem Arzt zur Auswahl zur Verfügung.
+Nach dem Abholen und Prüfen des Bundles stellt die VoS dem Arzt die möglichen Verordnungsfunktionen  , durch den
 
-**Wichtig:** Bei der Auswahlliste geht es um eine reine Anzeige. Da das Ergebnis einer Erstverordnung  meistens die Bedruckung eines Rezeptes sein wird, muss die VoS mindestens folgende Daten abfragen
+zur Verfügung. Nach Auswahl der Funktion, in diesem Beispiel „Erstverordnung für Patient X“
 
-Alle notwendigen Daten für die Bedruckung des Personalienfeldes  Alle notwendigen Rezept-Informationen z. B. Ankreuzfelder wie gebuehrenfrei, Unfall, etc.
+Arzt wird die VoS überprüfen, ob alle funktionsrelevanten Daten der VoS bereits zur Verfügung gestellt  wurden.
 
-vollständig vorliegen, kann der Arzt die Erstverordnung Sobald die funktionsrelevanten Daten korrekt und  durchführen.
+D. h. die VoS fragt beim PVS die
+
+Falls notwendige Daten fehlen, muss die VoS diese beim PVS abfragen.  Patientenliste ab und stellt diese dem Arzt zur Auswahl zur Verfügung.
+
+**Wichtig:** Bei der Auswahlliste geht es um eine reine Anzeige. Da das Ergebnis einer Erstverordnung
+
+meistens die Bedruckung eines Rezeptes sein wird, muss die VoS mindestens folgende Daten abfragen
+
+Alle notwendigen Daten für die Bedruckung des Personalienfeldes
+
+Alle notwendigen Rezept-Informationen z. B. Ankreuzfelder wie gebuehrenfrei, Unfall, etc.
+
+vollständig vorliegen, kann der Arzt die Erstverordnung
+
+Sobald die funktionsrelevanten Daten korrekt und  durchführen.
 
 Die Rezeptdaten in Form von FHIR-Ressourcen werden von der VoS in einem neuen Bundle vom Typ  KBV_PR_VoS_Bundle_VoS_PVS zusammengefasst und an das PVS übergeben. Das PVS übernimmt dieses  Bundle und speichert die in den Ressourcen übergebenen Daten in der Patientendokumentation. Das PVS
 
 
 ---
 
-1. Die B1-SST muss unterstützt werden, wenn das System:
+- 1. Die B1-SST muss unterstützt werden, wenn das System:
 
 muss dabei sicherstellen, dass die von der VoS bereitgestellten Daten/Dokumente im PVS gespeichert  werden.
 
-Aktionen in der VoS beendet sind und dieser zum PVS Nachdem der Arzt der VoS mitgeteilt hat, dass die -Bundle mit der Bundle-ID initiieren. zurückkehren möchte, muss die VoS den Löschvorgang für das Aufruf Damit befindet sich der Arzt wieder im PVS.
+Aktionen in der VoS beendet sind und dieser zum PVS
 
-**2.3** **DATENTRANSFER**
+Nachdem der Arzt der VoS mitgeteilt hat, dass die
 
-n auf Basis des HL7® FHIR® (Fast Interoperability Die beteiligten Systeme tauschen die DateHealthcare  Resources) Standards und mittels Rest-Service aus. Hier kommt die webbasierte API Technologie   -RESTful-  Protokoll zum Einsatz. Das XML-Format wird für die Repräsentation der Daten verwendet.
+-Bundle mit der Bundle-ID initiieren.
 
-**2.4** **ZERTIFIZIERUNG**
+zurückkehren möchte, muss die VoS den Löschvorgang für das Aufruf Damit befindet sich der Arzt wieder im PVS.
+
+## 2.3 DATENTRANSFER
+
+n auf Basis des HL7® FHIR® (Fast
+
+Interoperability
+
+Die beteiligten Systeme tauschen die Date
+
+Healthcare
+
+Resources) Standards und mittels Rest-Service aus. Hier kommt die webbasierte API Technologie   -RESTful-
+
+Protokoll zum Einsatz. Das XML-Format wird für die Repräsentation der Daten verwendet.
+
+## 2.4 ZERTIFIZIERUNG
 
 Die Grundlage für die Zertifizierung bildet die Zertifizierungsrichtlinie der KBV [KBV_ITA_RLEX_Zert].
 
-bei nachfolgenden Kriterien notwendig bzw.  Wichtige Informationen bezüglich der Zertifizierung können dem Prüfpaket sowie dem Antrag auf  Zertifizierung entnommen werden. Eine Zertifizierung ist  möglich:
+bei nachfolgenden Kriterien notwendig bzw.
 
-speicherung eingesetzt wird und für die patientenbezogene Datenverwaltung und  eine Zulassung gemäß §73 Absatz 9 Satz 1 SGB V (Zulassung nach  EXT_ITA_VGEX_Anforderungskatalog_AVWG) besitzt oder für die Verordnung eine VoS aufruft.
+Wichtige Informationen bezüglich der Zertifizierung können dem Prüfpaket sowie dem Antrag auf  Zertifizierung entnommen werden. Eine Zertifizierung ist  möglich:
+
+speicherung eingesetzt wird und
+
+für die patientenbezogene Datenverwaltung und
+
+eine Zulassung gemäß §73 Absatz 9 Satz 1 SGB V (Zulassung nach
+
+EXT_ITA_VGEX_Anforderungskatalog_AVWG) besitzt oder für die Verordnung eine VoS aufruft.
 
 **HINWEIS**
 
-2. Die B2-SST muss unterstützt werden, wenn das System:
+-
+
+- 2. Die B2-SST muss unterstützt werden, wenn das System:
 
 Mindestens diejenigen Systeme, die eine KVDT-Zulassung besitzen und den Aufruf einer VoS unterstützen,  müssen die Anforderungen des [Kapitels 3] und [Kapitels 4] umsetzen.
 
 eine VoS ist.
 
-Eine VoS für die zugleich eine KVDT-Zulassung besteht und die nicht als VoS anderen Systemen **Ausnahme:** zur Verfügung gestellt wird.
+Eine VoS für die zugleich eine KVDT-Zulassung besteht und die nicht als VoS anderen Systemen
+
+**Ausnahme:** zur Verfügung gestellt wird.
 
 **HINWEIS**
 
-nach EXT_ITA_VGEX_Anforderungskatalog_AVWGMindestens diejenigen Systeme, die eine Zulassung   besitzen, müssen die Anforderungen des [Kapitels 3] und [Kapitels 5] umsetzen.
+nach EXT_ITA_VGEX_Anforderungskatalog_AVWG
+
+Mindestens diejenigen Systeme, die eine Zulassung
+
+besitzen, müssen die Anforderungen des [Kapitels 3] und [Kapitels 5] umsetzen.
 
 
 ---
 
--Profile, -Extensions, -ValueSets und -CodeSystems 1. Bei der Realisierung der VoS müssen die KBV eingesetzt werden. Einschränkungen, Erweiterungen und jegliche Modifikationen dieser Dokumente  sind nicht erlaubt.  2. Folgende KBV-Profile sind einzusetzen: 3
+- -Profile, -Extensions, -ValueSets und -CodeSystems
 
-## ANFORDERUNGEN AN DAS PVS UND DIE VOS
+- 1. Bei der Realisierung der VoS müssen die KBV eingesetzt werden. Einschränkungen, Erweiterungen und jegliche Modifikationen dieser Dokumente - sind nicht erlaubt.
 
-bei der Umsetzung der B1-Dieses Kapitel enthält Anforderungen, die für das PVS und die VoS verbindlich  SST bzw. B2-SST sind.
+- 2. Folgende KBV-Profile sind einzusetzen:
+
+# 3 ANFORDERUNGEN AN DAS PVS UND DIE VOS
+
+bei der Umsetzung der B1-
+
+Dieses Kapitel enthält Anforderungen, die für das PVS und die VoS verbindlich  SST bzw. B2-SST sind.
 
 **3.1** **VERBINDLICHE DOKUMENTE**
 
@@ -347,11 +571,15 @@ Das Dokument [KBV_ITA_VGEX_SST_Festlegung_VOS] ist für beide Systeme verbindlic
 
 **Begründung:**
 
-§ 371 Absatz 1 Nummer 2 SGB V fest. Die Vorgaben Die Schnittstellenfestlegung legt die Schnittstellen nach  zu den FHIR®-Ressourcen sowie zum RESTful-Service sind wesentliche Bestandteile dieses Dokuments.
+§ 371 Absatz 1 Nummer 2 SGB V fest. Die Vorgaben
+
+Die Schnittstellenfestlegung legt die Schnittstellen nach  zu den FHIR®-Ressourcen sowie zum RESTful-Service sind wesentliche Bestandteile dieses Dokuments.
 
 **Akzeptanzkriterium:**
 
-Das PVS und die VoS müssen den Anforderungen der Spezifikation [KBV_ITA_VGEX_SST_Festlegung_VOS]  entsprechen.
+Das PVS und die VoS müssen den Anforderungen der Spezifikation [KBV_ITA_VGEX_SST_Festlegung_VOS]
+
+entsprechen.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -361,11 +589,19 @@ Die KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden.
 
 **Begründung:**
 
--Ressourcen, welche in verschiedenen Bereichen des Die FHIR®-Spezifikation definiert eine Reihe von Basis Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich  entsprechend angepasst werden.
+-Ressourcen, welche in verschiedenen Bereichen des
 
-Für die Umsetzung der VoS-SST wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis- Profilen der FHIR®-Spezifikation abgeleitet sind.
+Die FHIR®-Spezifikation definiert eine Reihe von Basis Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich
 
-Die KBV-Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR® Ressourcen zu verwenden sind.
+entsprechend angepasst werden.
+
+Für die Umsetzung der VoS-SST wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-
+
+Profilen der FHIR®-Spezifikation abgeleitet sind.
+
+Die KBV-Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®
+
+Ressourcen zu verwenden sind.
 
 **Akzeptanzkriterium:**
 
@@ -412,7 +648,9 @@ Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen eines Veror
 
 Der folgenden Abbildung kann die Zuordnung der KBV Verordnungsdaten entnommen werden.
 
-KBV_PR_VoS_AllergyIntolerance enten vorliegen und b) wenn diese für die vorliegende
+KBV_PR_VoS_AllergyIntolerance
+
+enten vorliegen und b) wenn diese für die vorliegende
 
 -Profile zu den Kategorien Praxis-, Patienten- und
 
@@ -439,13 +677,27 @@ Im Fehlerfall muss es für den Arzt möglich sein, auf den Fehler zu reagieren u
 
 **Akzeptanzkriterium:**
 
-1. Die Fehlermeldung muss soweit aussagekräftig sein, dass der Arzt mit der Fehlermeldung e anfangen kann und weiß, wie er den Fehler beheben kann  2. Bei nicht durch den Arzt lösbaren Problemen (bspw. schwerwiegende Fehler) muss dem Arzt zusätzlich  angezeigt werden, an wen er sich zur Behebung des Problems wenden kann. 3. Der Anwender/Arzt muss in der Lage sein, nach Eingabe der benötigten Parameter Kommunikationskonfiguration im PVS den Aufruf der VOS unmittelbar zu testen. Die Beschreibung des  PVS muss einen Abschnitt enthalten, der die beim Setup auftretenden möglichen Fehler und ihre  Behebung beschreibt.  4. PVS und VOS müssen eine Option bieten, die Schnittstellenaktivität zu loggen. Die Inhalte der Log müssen definiert und in der Dokumentation beschrieben werden. Der Speicherort der Log durch den Anwender/Arzt definierbar sein. Der Anwender/Arzt kann dabei den Speicherort direkt oder  erst nach Abruf/Download der Log-Datei aus dem System auswählen.
+- 1. Die Fehlermeldung muss soweit aussagekräftig sein, dass der Arzt mit der Fehlermeldung e anfangen kann und weiß, wie er den Fehler beheben kann
 
-Fehlermeldung
+- 2. Bei nicht durch den Arzt lösbaren Problemen (bspw. schwerwiegende Fehler) muss dem Arzt zusätzlich  angezeigt werden, an wen er sich zur Behebung des Problems wenden kann.
 
-twas
+- 3. Der Anwender/Arzt muss in der Lage sein, nach Eingabe der benötigten Parameter Kommunikationskonfiguration im PVS den Aufruf der VOS unmittelbar zu testen. Die Beschreibung des  PVS muss einen Abschnitt enthalten, der die beim Setup auftretenden möglichen Fehler und ihre  Behebung beschreibt.
 
-für die -Datei  -Datei muss
+- 4. PVS und VOS müssen eine Option bieten, die Schnittstellenaktivität zu loggen. Die Inhalte der Log müssen definiert und in der Dokumentation beschrieben werden. Der Speicherort der Log durch den Anwender/Arzt definierbar sein. Der Anwender/Arzt kann dabei den Speicherort direkt oder
+
+- erst nach Abruf/Download der Log-Datei aus dem System auswählen.
+
+Fehlermeldung - twas
+
+-
+
+- für die
+
+- -Datei
+
+- -Datei muss
+
+-
 
 
 ---
@@ -489,7 +741,13 @@ Basis des Barcodes auf dem BMP aktualisieren (eMP) auf Basis eines bestehenden s
 
 ---
 
-FHIR®-Elemente 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichnete  (mustSupport value="true") in den KBV-Profilen unterstützen  sprich befüllen und übermitteln können.  2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „must support“ gekennzeichneten FHIR® Elemente .(mustSupport value="true") in den KBV-Profilen unterstützen  sprich auslesen und  verarbeiten können.
+- FHIR®-Elemente
+
+- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichnete  (mustSupport value="true") in den KBV-Profilen unterstützen  sprich befüllen und übermitteln können.
+
+- 2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „must support“ gekennzeichneten FHIR®
+
+- Elemente .(mustSupport value="true") in den KBV-Profilen unterstützen  sprich auslesen und - verarbeiten können.
 
 |  |  |  |
 |---|---|---|
@@ -506,7 +764,9 @@ FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert we
 
 **Begründung:**
 
-Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt es sich um Elemente, die  unabhängig von der Kardinalität (Ausnahme: 0…0) unterstützt werden müssen, sofern die entsprechenden  Informationen vorliegen.
+Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt es sich um Elemente, die
+
+unabhängig von der Kardinalität (Ausnahme: 0…0) unterstützt werden müssen, sofern die entsprechenden  Informationen vorliegen.
 
 **Akzeptanzkriterium:**
 
@@ -518,7 +778,9 @@ Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderun
 |---|---|
 | P3-220 | Inhalt im Element meta.profil |
 
-Das Element meta.profil in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten  FHIR®-Profiles unter Angabe der Versionsnummer zu versehen.
+Das Element meta.profil in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten
+
+FHIR®-Profiles unter Angabe der Versionsnummer zu versehen.
 
 **Begründung:**
 
@@ -526,9 +788,17 @@ Zur Kennzeichnung mit welchem KBV-Profil die FHIR®-Instanz konform ist, ist die
 
 **Akzeptanzkriterium:**
 
-.profil einen Eintrag gemäß Kapitel 2.3.0 von Alle FHIR®-Instanzen enthalten im Element meta [http://www.hl7.org/fhir/r4/references.html](http://www.hl7.org/fhir/r4/references.html) der [FHIR®]-Spezifikation in folgender Form:  <URL des FHIR-Profils>|<Version des Profils>
+.profil einen Eintrag gemäß Kapitel 2.3.0 von
 
-Es gilt:   <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils im Format  <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils „X.XX.XXX“
+Alle FHIR®-Instanzen enthalten im Element meta [http://www.hl7.org/fhir/r4/references.html](http://www.hl7.org/fhir/r4/references.html) der [FHIR®]-Spezifikation in folgender Form:
+
+<URL des FHIR-Profils>|<Version des Profils>
+
+Es gilt: -
+
+-  <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils - im Format
+
+-  <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils „X.XX.XXX“
 
 
 ---
@@ -545,7 +815,9 @@ Es gilt:   <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsp
 |---|---|
 | P3-230 | Einschränkung der Parameter der FHIR-Search-API für VoS |
 
-Für die Unterstützung der definierten VoS-Anwendungsfälle können die Parameter [Parameters] Search-Funktion der RESTful-FHIR-API (R4) eingeschränkt werden.
+Für die Unterstützung der definierten VoS-Anwendungsfälle können die Parameter [Parameters]
+
+Search-Funktion der RESTful-FHIR-API (R4) eingeschränkt werden.
 
 **Begründung:**
 
@@ -553,7 +825,15 @@ Festlegung für die Schnittstelle.
 
 **Akzeptanzkriterium:**
 
-1. Es müssen folgende in [http://hl7.org/fhir/R4/search.html#3.1.1.1](http://hl7.org/fhir/R4/search.html#3.1.1.1) resources" unterstützt werden: _id, _lastUpdated, _profile, _text, _content  Folgende Parameter können optional unterstützt werden:  2. Es müssen die folgenden in [http://hl7.org/fhir/R4/search.html#3.1.1.1](http://hl7.org/fhir/R4/search.html#3.1.1.1) beschriebene "Search result  parameters" unterstützt werden: _count, _sort und _elements 3. Die in [http://hl7.org/fhir/R4/search_filter.html#3.1.3](http://hl7.org/fhir/R4/search_filter.html#3.1.3) beschriebene (jedoch auch in 3.1.3.1 referenziert)  "_filter"- Parameter müssen nicht unterstützt werden
+- 1. Es müssen folgende in [http://hl7.org/fhir/R4/search.html#3.1.1.1](http://hl7.org/fhir/R4/search.html#3.1.1.1) resources" unterstützt werden: _id, _lastUpdated, _profile, _text, _content
+
+Folgende Parameter können optional unterstützt werden:
+
+- 2. Es müssen die folgenden in [http://hl7.org/fhir/R4/search.html#3.1.1.1](http://hl7.org/fhir/R4/search.html#3.1.1.1) beschriebene "Search result  parameters" unterstützt werden: _count, _sort und _elements
+
+- 3. Die in [http://hl7.org/fhir/R4/search_filter.html#3.1.3](http://hl7.org/fhir/R4/search_filter.html#3.1.3) beschriebene (jedoch auch in 3.1.3.1 referenziert)
+
+- "_filter"- Parameter müssen nicht unterstützt werden
 
 **HINWEIS**
 
@@ -587,11 +867,13 @@ Die Einrichtung der Schnittstelle soll für die Praxen einfach vonstattengehen.
 
 **Akzeptanzkriterium:**
 
-Sollte für die lokale Komponente des PVS eine Software-Installation durchgeführt werden müssen, muss  der Hersteller ein Installationspaket zur Verfügung stellen, das die Install und vollständig durchführt.
+Sollte für die lokale Komponente des PVS eine Software-Installation durchgeführt werden müssen, muss
+
+der Hersteller ein Installationspaket zur Verfügung stellen, das die Install und vollständig durchführt.
 
 der
 
-beschriebene "Parameters for all
+- beschriebene "Parameters for all
 
 _tag, _security, _list, _query - und
 
@@ -612,7 +894,15 @@ Die Abhängigkeit von Support-Dienstleistern nach Kauf einer Lizenz soll beim Ei
 
 **Akzeptanzkriterium:**
 
-1. Mitarbeitende einer Arztpraxis müssen in der Lage sein, die Schnittstelle sowohl in der Praxis-Software  (PVS) als auch in der Verordnungssoftware (VOS) ohne fremde Hilfe selbst einrichten zu können.  2. Die Praxis muss auf eine Beschreibung zurückgreifen können, die die Einrichtung der Schnittstelle  schrittweise und ausführlich erläutert. Diese Beschreibung muss in ihrer aktuellen Form für die Praxis  ohne Beschränkung über die Webseite des Anbieters zugänglich sein.  3. Die Erfassung der notwendigen Verbindungsdaten in den Einstellungen des PVS muss direkt und ohne  komplizierte Schrittfolge erreichbar sein (z. B. kein Schutz durch ein nur dem Hersteller/Support  bekanntes Passwort).
+- 1. Mitarbeitende einer Arztpraxis müssen in der Lage sein, die Schnittstelle sowohl in der Praxis-Software
+
+- (PVS) als auch in der Verordnungssoftware (VOS) ohne fremde Hilfe selbst einrichten zu können.
+
+- 2. Die Praxis muss auf eine Beschreibung zurückgreifen können, die die Einrichtung der Schnittstelle  schrittweise und ausführlich erläutert. Diese Beschreibung muss in ihrer aktuellen Form für die Praxis  ohne Beschränkung über die Webseite des Anbieters zugänglich sein.
+
+- 3. Die Erfassung der notwendigen Verbindungsdaten in den Einstellungen des PVS muss direkt und ohne
+
+- komplizierte Schrittfolge erreichbar sein (z. B. kein Schutz durch ein nur dem Hersteller/Support  bekanntes Passwort).
 
 |  |  | |
 |---|---|---|
@@ -623,12 +913,18 @@ Es müssen nur KV-Bereich-relevante Informationen beim Schreiben der Instanzen u
 
 **Begründung:**
 
-Sektorübergreifende Informationen, wie z.B. eine „KZV Abrechnungsnummer“, die im KV-Bereich  grundsätzlich nicht verfügbar sind, können bei der Betrachtung der Profile für die Befüllung der Instanzen  ausgelassen werden. Dies gilt allerdings nur beim Schreiben, beim Einlesen müssen diese weiterhin  „unterstützt“ d.h. interpretiert werden.
+Sektorübergreifende Informationen, wie z.B. eine „KZV Abrechnungsnummer“, die im KV-Bereich
+
+grundsätzlich nicht verfügbar sind, können bei der Betrachtung der Profile für die Befüllung der Instanzen  ausgelassen werden. Dies gilt allerdings nur beim Schreiben, beim Einlesen müssen diese weiterhin
+
+„unterstützt“ d.h. interpretiert werden.
 
 **Akzeptanzkriterium:**
 
 Folgende Elemente müssen in diesem Zusammenhang nicht zwangsläufig befüllt werden können:
+
 -  KBV_PR_VOS_Practitioner.identifier:ZANR
+
 -  KBV_PR_VOS_Organization.identifier:KZV-Abrechnungsnummer
 
 **Bedingung:**
@@ -661,14 +957,16 @@ KONDITIONALE PFLICHTFUNKTION VOS KONDITIONALE PFLICHTFUNKTION VOS**Akzeptanzkrit
 
 **Bedingung:**
 
-et (z.B. ein Niveau 1 ist nur gestattet, wenn die Kommunikation auf einem gesicherten System stattfind Praxisrechner). Andernfalls ist Niveau 2 umzusetzen.
+et (z.B. ein
+
+Niveau 1 ist nur gestattet, wenn die Kommunikation auf einem gesicherten System stattfind
+
+Praxisrechner). Andernfalls ist Niveau 2 umzusetzen.
 
 
 ---
 
-4
-
-## ANFORDERUNGEN AN DAS PVS
+# 4 ANFORDERUNGEN AN DAS PVS
 
 In diesem Kapitel werden alle Anforderungen an das PVS definiert, die für die Umsetzung der B1 zusätzlich zu den in Kapitel 3 beschriebenen Anforderungen,
 
@@ -686,13 +984,17 @@ Dem Arzt muss der Aufruf der VoS aus dem PVS ohne Umwege ermöglicht werden.
 
 **Akzeptanzkriterium:**
 
-1. Das PVS muss über ein Aufrufkommando, das als Systemaufruf ausgeführt wird, die VoS direkt und ohne  Umwege durch den Nutzer aufrufen lassen können.  2. Im Aufrufkommando sind zwei Parameter anzugeben. Diese dieser Reihenfolge anzugeben:
+- 1. Das PVS muss über ein Aufrufkommando, das als Systemaufruf ausgeführt wird, die VoS direkt und ohne  Umwege durch den Nutzer aufrufen lassen können.
 
-41. Name: kID (Kontext-ID)  Typ: eine beliebige Kombination aus Zahlen, Groß z0-9\-\.]{1,64}$)
+- 2. Im Aufrufkommando sind zwei Parameter anzugeben. Diese dieser Reihenfolge anzugeben: - 4
 
-Länge: max. 64 Zeichen.  2. Name: FHIR-Basis-URL  Beim Aufruf der VoS wird die FHIR-Basis-URL des PVS mit übergeben - z.B.  [http://testpraxis.com/fhir-endpunkt](http://testpraxis.com/fhir-endpunkt)  3. Aufbau des Aufrufs:  programmname kID [kID] FHIR-Basis-URL [FHIR-Basis-URL]
+- 1. Name: kID (Kontext-ID)  Typ: eine beliebige Kombination aus Zahlen, Groß z0-9\-\.]{1,64}$) - Länge: max. 64 Zeichen.
 
-4. Tritt beim Aufrufen der VoS ein Fehler auf, so muss dem Arzt unter Beac eine aussagekräftige Fehlermeldung angezeigt werden.
+- 2. Name: FHIR-Basis-URL  Beim Aufruf der VoS wird die FHIR-Basis-URL des PVS mit übergeben - z.B.  [http://testpraxis.com/fhir-endpunkt](http://testpraxis.com/fhir-endpunkt)
+
+- 3. Aufbau des Aufrufs:  programmname kID [kID] FHIR-Basis-URL [FHIR-Basis-URL]
+
+- 4. Tritt beim Aufrufen der VoS ein Fehler auf, so muss dem Arzt unter Beac eine aussagekräftige Fehlermeldung angezeigt werden.
 
 | Beispiel:  – |
 |---|
@@ -701,7 +1003,7 @@ Länge: max. 64 Zeichen.  2. Name: FHIR-Basis-URL  Beim Aufruf der VoS wird die 
 
 Mit Aufruf der VoS ist die Hervorhebung der VoS für den Arzt gemeint.  in den Vorder- und das PVS in den Hintergrund.: gemeint ist nicht das Hochfahren der VoS.
 
-**4.2** **DATEN ÜBERGEBEN**
+## 4.2 DATEN ÜBERGEBEN
 
 Das PVS muss in einem Bundle die durch den Arzt ausgewählte Verordnungsfunktion als Aufrufkontext und  die hierfür erforderlichen Daten unter Berücksichtigung der KBV möglichen Aufrufkontexte sind Tabelle 3 zu entnehmen.
 
@@ -711,25 +1013,31 @@ Die Umsetzungspflicht besteht dabei nur für „ohne
 
 notwendig sind.
 
-Parameter sind wie folgt definiert und in
+- Parameter sind wie folgt definiert und in
 
-und Kleinbuchstaben sowie „
+- und Kleinbuchstaben sowie „
 
-htung der Anforderung P3-190
+- htung der Anforderung P3-190
+
+-
 
 D. h. mit dem Aufruf gelangt die VoS
 
 -Profile der VoS zur Verfügung stellen. Die -SST,
 
-“ oder „.“ (^[A-Za-
+- “ oder „.“ (^[A-Za-
 
 Aufruf: VOSProgramm.exe -kID 12345 FHIR-Basis-URL http://testpraxis.com/fhir-endpunkt
 
 ---
 
-Aufrufkontext“. Alle anderen Aufrufkontexte müssen nur dann unterstützt werden, wenn die  entsprechenden Aufrufmöglichkeiten der Verordnungsfunktionen im PVS abgebildet sind.
+Aufrufkontext“. Alle anderen Aufrufkontexte müssen nur dann unterstützt werden, wenn die
 
-In Abhängigkeit des Aufrufkontextes ist das „Aufruf“-Bundle mit verschiedenen Daten (Ressourcen) zu  versehen. Diese ergeben sich aus Tabelle 3.
+entsprechenden Aufrufmöglichkeiten der Verordnungsfunktionen im PVS abgebildet sind.
+
+In Abhängigkeit des Aufrufkontextes ist das „Aufruf“-Bundle mit verschiedenen Daten (Ressourcen) zu
+
+versehen. Diese ergeben sich aus Tabelle 3.
 
 
 ---
@@ -774,26 +1082,60 @@ rvation_Pregnancy _Status rvation_Breastfeed ing_Status mentReference enance_ePr
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | KBV_PR_VoS_Devic | x | x | x | x | x | x | x | x | x | x | x | x |
 
-le e_PVS Legende: x = Pflicht im Aufrufkontext, (x) = erwartbar im Aufrufkontext, - = nicht sinnvoll im Aufrufkontext  Tabelle 3 Ressourcen pro Aufrufkontext
+Legende: x = Pflicht im Aufrufkontext, (x) = erwartbar im Aufrufkontext, - = nicht sinnvoll im Aufrufkontext
+
+le e_PVS Tabelle 3 Ressourcen pro Aufrufkontext
 
 
 ---
 
-1. Der Arzt muss die VoS mit dem Aufrufkontext = 1 jederzeit aus dem PVS aufrufen können.  -Bundle unter Berücksichtigung der Pflichtfunktion 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt muss die VoS mit dem Aufrufkontext = 1 jederzeit aus dem PVS aufrufen können.
+
+- -Bundle unter Berücksichtigung der Pflichtfunktion
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „1 Ohne
+
+- Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
 | P4-10 | Aufruf-Bundle und Praxisdaten |
 
-BehandelnderRolle, Betriebsstätte, System sowie Bei jedem Aufruf müssen die Praxisdaten (Behandelnder,  Anwender) mit den jeweils zugeordneten KBV-Profilen in einem sog. Aufruf-Bundle an die VoS übermittelt  werden.
+BehandelnderRolle, Betriebsstätte, System sowie
+
+Bei jedem Aufruf müssen die Praxisdaten (Behandelnder,  Anwender) mit den jeweils zugeordneten KBV-Profilen in einem sog. Aufruf-Bundle an die VoS übermittelt  werden.
 
 **Begründung:**
 
-z. B. die LANR (Lebenslange Arztnummer) Die Praxisdaten sind bei jedem Aufruf erforderlich, damit die VoS  bzw. BSNR (Betriebsstättennummer) und weitere wichtige Daten aus diesen Profilen für die  Weiterverarbeitung berücksichtigen kann.
+z. B. die LANR (Lebenslange Arztnummer)
+
+Die Praxisdaten sind bei jedem Aufruf erforderlich, damit die VoS  bzw. BSNR (Betriebsstättennummer) und weitere wichtige Daten aus diesen Profilen für die  Weiterverarbeitung berücksichtigen kann.
 
 **Akzeptanzkriterium:**
 
-12) der VoS die notwendigen Praxisdaten Das PVS stellt sicher, dass bei jedem Aufruf (Aufrufkontext = 1 bis  -Aufruf ein sog. Aufruf-Bundle und stellt an die VoS übermittelt werden. Dazu erzeugt das PVS für jeden VoS dieses über den REST-Service der VoS zur Verfügung. Die ID unter der das Aufruf-Bundle am REST-Service  -ID der Anforderung P4-00. Im Aufruf-Bundle sind die als abgerufen werden kann, entspricht der Kontext „Pflicht“ gekennzeichneten Informationen aus Tabelle 3 für die Zeilen „Behandelnder“,  „BehandelnderRolle“, „Betriebsstätte“, „System“ sowie „Anwender“ mit den entsprechend zugeordneten  estens die LANR und BSNR des Arztes, die FHIR-Profilen im Aufruf-Bundle zu übergeben. Dabei müssen mind Prüfnummer des PVS und nur im Rahmen einer ASV-Behandlung die ASV-Teamnummer übermittelt  werden.
+12) der VoS die notwendigen Praxisdaten
+
+Das PVS stellt sicher, dass bei jedem Aufruf (Aufrufkontext = 1 bis  -Aufruf ein sog. Aufruf-Bundle und stellt
+
+an die VoS übermittelt werden. Dazu erzeugt das PVS für jeden VoS dieses über den REST-Service der VoS zur Verfügung. Die ID unter der das Aufruf-Bundle am REST-Service
+
+-ID der Anforderung P4-00. Im Aufruf-Bundle sind die als
+
+abgerufen werden kann, entspricht der Kontext „Pflicht“ gekennzeichneten Informationen aus Tabelle 3 für die Zeilen „Behandelnder“,
+
+„BehandelnderRolle“, „Betriebsstätte“, „System“ sowie „Anwender“ mit den entsprechend zugeordneten  estens die LANR und BSNR des Arztes, die
+
+FHIR-Profilen im Aufruf-Bundle zu übergeben. Dabei müssen mind Prüfnummer des PVS und nur im Rahmen einer ASV-Behandlung die ASV-Teamnummer übermittelt
+
+werden.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -818,11 +1160,29 @@ Der Arzt kann die VoS mit dem Aufrufkontext = 2 aus dem PVS aufrufen.
 
 **Begründung:**
 
-Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Erstverordnung“ mit den  dazugehörigen Daten.
+Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Erstverordnung“ mit den
+
+dazugehörigen Daten.
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 2 die VoS aus dem PVS aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „2  Erstverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „2  Erstverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 2 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion
+
+- P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „2
+
+- Erstverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „2
+
+- Erstverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -840,7 +1200,21 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Wie
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 3 die VoS aus dem PVS aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „3  Wiederverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS  im Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte  3Wiederverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom  PVS im Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 3 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion
+
+- P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „3  Wiederverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS
+
+- im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte
+
+- 3Wiederverordnung“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom
+
+- PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -861,7 +1235,19 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Adm
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 4 die VoS aus dem PVS aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „4  Administration“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „4  Administration“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 4 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion
+
+- P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „4  Administration“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „4  Administration“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -882,11 +1268,27 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Arz
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 5 die VoS aus dem PVS aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „5  Arzneimittelrecherche ohne Patientenkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „5  Arzneimittelrecherche ohne Patientenkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 5 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion
+
+- P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „5  Arzneimittelrecherche ohne Patientenkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+
+- ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „5
+
+- Arzneimittelrecherche ohne Patientenkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+
+- ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
-Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende  Verordnungsfunktionalität unterstützt.
+Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
+
+Verordnungsfunktionalität unterstützt.
 
 Das manuelle Einspielen von Updates. KONDITIONALE PFLICHTFUNKTION VOS
 
@@ -907,7 +1309,15 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Arz
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 6 die VoS aus dem PVS aufrufen. 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichnete Arzneimittelrecherche mit Patientenkontext“ aus  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden. 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „ Arzneimittelrecherche mit Patientenkontext“ aus  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 6 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichnete Arzneimittelrecherche mit Patientenkontext“ aus  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „ Arzneimittelrecherche mit Patientenkontext“ aus
+
+- ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -928,20 +1338,32 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Med
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 7 die VoS aus dem PVS aufrufen. 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+- 1. Der Arzt kann mit dem Aufrufkontext = 7 die VoS aus dem PVS aufrufen.
 
--Bundle unter Berücksichtigung der Pflichtfunktion
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
 
-n Informationen gemäß Spalte „6  Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+-
 
-6  Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+- -Bundle unter Berücksichtigung der Pflichtfunktion
 
-Der Arzt möchte Informationen zu einem Medikament nachschlagen. KONDITIONALE PFLICHTFUNKTION VOS Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten Patienten verordnet wurde. Der Arzt möchte sich über Medikament(e) für einen Patienten informieren, die noch nicht verordnet w KONDITIONALE PFLICHTFUNKTION VOS-Bundle unter Berücksichtigung der Pflichtfunktion
+- n Informationen gemäß Spalte „6
+
+- Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe - 6
+
+- Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe -
+
+Der Arzt möchte Informationen zu einem Medikament nachschlagen. KONDITIONALE PFLICHTFUNKTION VOS Der Arzt möchte Informationen zu einem Medikament einsehen, welches einem bestimmten Patienten verordnet wurde. Der Arzt möchte sich über Medikament(e) für einen Patienten informieren, die noch nicht verordnet w KONDITIONALE PFLICHTFUNKTION VOS- -Bundle unter Berücksichtigung der Pflichtfunktion
 
 
 ---
 
-3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „7  Medikationsplan für Patient neu erstellen“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „7  Medikationsplan für Patient neu erstellen“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe  ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „7  Medikationsplan für Patient neu erstellen“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+
+- ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „7  Medikationsplan für Patient neu erstellen“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe
+
+- ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -959,7 +1381,19 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Med
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 8 die VoS aus dem PVS aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom MP aktualisieren“ aus Tabelle 3 mit den zugehörigen FHIR- Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom BMP aktualisieren“ aus Tabelle 3 mit den zugehörigen  FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 8 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion
+
+- P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom MP aktualisieren“ aus Tabelle 3 mit den zugehörigen FHIR-
+
+- Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom BMP aktualisieren“ aus Tabelle 3 mit den zugehörigen
+
+- FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -985,7 +1419,13 @@ BMP/eMP aktualisieren
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 9 die VoS aus dem PVS aufrufen. 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „9  Medikationsplan auf Basis eines bestehenden strukturierten BMP/eMP  den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden. 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „9  Medikationsplan auf Basis eines bestehenden strukturierten BMP/eMP  den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 9 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „9  Medikationsplan auf Basis eines bestehenden strukturierten BMP/eMP  den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „9  Medikationsplan auf Basis eines bestehenden strukturierten BMP/eMP  den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -1007,7 +1447,19 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Sta
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 10 die VoS aus dem PVS aufrufen. 2. Das PVS stellt sicher, dass das entsprechende Auf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „10  Statistiken“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „10  Statistiken“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 10 die VoS aus dem PVS aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Auf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „10
+
+- Statistiken“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „10  Statistiken“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -1019,13 +1471,15 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 11 aus dem PVS aufrufen.
 
--Bundle unter Berücksichtigung der Pflichtfunktion
+-
 
-aktualisieren“ aus Tabelle 3 mit
+- -Bundle unter Berücksichtigung der Pflichtfunktion
 
-aktualisieren“ aus Tabelle 3 mit
+- aktualisieren“ aus Tabelle 3 mit
 
-ruf-Bundle unter Berücksichtigung der Pflichtfunktion
+- aktualisieren“ aus Tabelle 3 mit -
+
+- ruf-Bundle unter Berücksichtigung der Pflichtfunktion
 
 
 ---
@@ -1036,7 +1490,19 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Hau
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 11 die VoS aus dem PVS unter Berücksichtigung der  Pflichtfunktion P4-10 aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „11  Hausapotheke“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „11  Hausapotheke“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 11 die VoS aus dem PVS unter Berücksichtigung der  Pflichtfunktion P4-10 aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „11
+
+- Hausapotheke“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „11  Hausapotheke“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -1052,7 +1518,17 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „eRe
 
 **Akzeptanzkriterium:**
 
-1. Der Arzt kann mit dem Aufrufkontext = 12 die VoS aus dem PVS unter Berücksichtigung der  Pflichtfunktion P4-10 aufrufen.  2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.  3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „12  Storno“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf- Bundle übergeben werden.  4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten  eRezept-Storno“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 1. Der Arzt kann mit dem Aufrufkontext = 12 die VoS aus dem PVS unter Berücksichtigung der  Pflichtfunktion P4-10 aufrufen.
+
+- 2. Das PVS stellt sicher, dass das entsprechende Aufruf P4-10 der VoS übergeben wird.
+
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „12  Storno“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-
+
+- Bundle übergeben werden.
+
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten  eRezept-Storno“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im
+
+- Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
 
@@ -1064,15 +1540,13 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 |---|---|
 | P4-130 |  |
 
--Bundle unter Berücksichtigung der Pflichtfunktion
+- -Bundle unter Berücksichtigung der Pflichtfunktion
 
 Storno“ mit den
 
--Bundle unter Berücksichtigung der Pflichtfunktion
+- -Bundle unter Berücksichtigung der Pflichtfunktion - eRezept-
 
-eRezept-
-
-KONDITIONALE PFLICHTFUNKTION VOS Korrektheit und Vollständigkeit der DatenInformationen gemäß Spalte „12
+KONDITIONALE PFLICHTFUNKTION VOS Korrektheit und Vollständigkeit der Daten- Informationen gemäß Spalte „12
 
 
 ---
@@ -1085,7 +1559,9 @@ Das PVS muss die zu übermittelnden Daten unter Berücksichtigung der KBV Anford
 
 **Akzeptanzkriterium:**
 
-1. Das PVS stellt der VoS alle notwendigen und korrekten Daten zur Bedruckung des Personalienfeldes  nach den Vorgaben [KBV_ITA_VGEX_Mapping_KVK] und unter Berücksichtigung der KVDT Anforderungen zur Verfügung.  2. Das PVS muss der VoS immer die vollständigen Grundlage nehmen, d. h., die Daten für die Bedruckung dürfen nicht bereits im PVS gekürzt werden.
+- 1. Das PVS stellt der VoS alle notwendigen und korrekten Daten zur Bedruckung des Personalienfeldes  nach den Vorgaben [KBV_ITA_VGEX_Mapping_KVK] und unter Berücksichtigung der KVDT Anforderungen zur Verfügung.
+
+- 2. Das PVS muss der VoS immer die vollständigen Grundlage nehmen, d. h., die Daten für die Bedruckung dürfen nicht bereits im PVS gekürzt werden.
 
 | Beispiel: |
 |---|
@@ -1108,17 +1584,23 @@ Das PVS muss sicherstellen, dass für das Statusfeld (Versichertenart, Besondere
 
 Das PVS muss diese Anforderungen unterstützen, wenn die benöti verfügbar sind.
 
-Daten übermitteln und darf die Formatvorgaben nicht als 1.
+- Daten übermitteln und darf die Formatvorgaben nicht als - 1.
 
-2.
+- 2.
 
-3.
+- 3.
 
 -Anforderungen entsprechen.
 
 -Stammdaten und
 
-Der aus der Kostenträgerstammdatei der  KBV ermittelte Bedruckungsname des  Kostenträgers ist zu übermitteln.  Der Patient kann mindestens mit drei  unterschiedlichen Adresstypen im PVS  gespeichert sein. Das PVS muss bei der  Übermittlung der KBV-Profile sicherstellen,  dass die auf dem Rezept zu bedruckende  Adresse übertragen wird.  Die Daten sind immer aus dem Kontext  heraus zu übertragen, z. B. wird die ASV  Teamnummer nur dann übermittelt, wenn  die Verordnung im Rahmen einer ASV- Behandlung erfolgt und die ASV- Teamnummer statt der BSNR auf dem  Rezept aufgedruckt werden muss.
+-
+
+- Der aus der Kostenträgerstammdatei der  KBV ermittelte Bedruckungsname des  Kostenträgers ist zu übermitteln.
+
+- Der Patient kann mindestens mit drei  unterschiedlichen Adresstypen im PVS  gespeichert sein. Das PVS muss bei der  Übermittlung der KBV-Profile sicherstellen,  dass die auf dem Rezept zu bedruckende  Adresse übertragen wird.
+
+- Die Daten sind immer aus dem Kontext  heraus zu übertragen, z. B. wird die ASV  Teamnummer nur dann übermittelt, wenn  die Verordnung im Rahmen einer ASV- Behandlung erfolgt und die ASV- Teamnummer statt der BSNR auf dem  Rezept aufgedruckt werden muss.
 
 , wenn die Angaben verfügbar sind.
 
@@ -1155,11 +1637,23 @@ Das PVS muss jederzeit über die read- und search-Interaktion des REST-Services 
 | Anwender | KBV_PR_VoS_User | Alle im PVS vorhandenen Anwender. |
 | Freitextmedikation Rezeptur Wirkstoffverordnung PZN-Produkt | KBV_PR_VoS_Medication_Compou KBV_PR_VoS_Medication_FreeText KBV_PR_VoS_Medication_Ingredie KBV_PR_VoS_Medication_PZN | Die gesamte Verordnungshistorie |
 
-1.  2.  3.  4.
+- 1.
 
-Versichertenart: 1  BesonderePersonengruppe: 00 DMP-Kennzeichnung: 00  Status-Kennzeichen: 00
+- 2.
 
--, Verordnungs- sowie Patientendaten über die
+- 3.
+
+- 4.
+
+- Versichertenart: 1
+
+- BesonderePersonengruppe: 00
+
+- DMP-Kennzeichnung: 00
+
+- Status-Kennzeichen: 00
+
+-, Verordnungs- sowie Patientendaten über die -
 
 ausschließlich die benötigten  -Ressourcen
 
@@ -1205,7 +1699,37 @@ Die VoS übergibt die patientenbezogenen Daten/Dokumente zum Speichern immer an 
 
 **Akzeptanzkriterium:**
 
-1. Das PVS muss sicherstellen, dass die von der VoS zur Verfügung gestellten Dokumente als PKCS#7, PDF-  bzw. XML (z. B. Rezept, Medikationsplan) mit Patientenbezug gespeichert werden.  2. Das PVS muss sicherstellen, dass die Praxis- und Patientenangaben in den eigenen Stammdaten des PVS  nicht überschrieben werden.  3. Tritt beim Speichern der VoS ein Fehler auf, so muss unter Beachtung der Anforderung P3-190 eine  aussagekräftige Fehlermeldung angezeigt werden.  4. Das PVS nimmt das Speicher-Bundle von der VoS entgegen und speichert die darin enthaltenen Daten  mit Patientenbezug (d. h. in der Patientendokumentation) ab. Die Verarbeitung des Speicher-Bundles  erfolgt gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS mit der Interaktion „Transaction“. Dabei stellt das  PVS sicher, dass keine Strukturierung verloren geht, so dass bei einer ggf. späteren Übergabe dieser  Daten an eine VoS, die Daten in der Struktur übergeben werden, wie diese entgegengenommen wurde.  Wird z. B. die Dosierung nicht als Freitext, sondern als kodierte Information (morgens, mittags, abends,  nachts) übergeben, so muss diese Dosierung in der gleichen Form zu einem späteren Zeitpunkt wieder  ausgeliefert werden. Daten, die vor der Einführung der VoS-Schnittstelle im PVS gespeichert sind, sind,  wenn sie strukturiert im PVS vorliegen, auch strukturiert auszuliefern. Liegt z. B. die Dosierung  strukturiert in der Patientendokumentation vor, so ist diese auch strukturiert und nicht als Freitext an  der B1-Schnittstelle anzubieten, wenn die Strukturierungen in der VoS-Schnittelle und  Patientendokumentation deckungsgleich sind.  5. Es gilt das Mapping gemäß [Kapitel 3].
+- 1. Das PVS muss sicherstellen, dass die von der VoS zur Verfügung gestellten Dokumente als PKCS#7, PDF-
+
+- bzw. XML (z. B. Rezept, Medikationsplan) mit Patientenbezug gespeichert werden.
+
+- 2. Das PVS muss sicherstellen, dass die Praxis- und Patientenangaben in den eigenen Stammdaten des PVS - nicht überschrieben werden.
+
+- 3. Tritt beim Speichern der VoS ein Fehler auf, so muss unter Beachtung der Anforderung P3-190 eine
+
+- aussagekräftige Fehlermeldung angezeigt werden.
+
+- 4. Das PVS nimmt das Speicher-Bundle von der VoS entgegen und speichert die darin enthaltenen Daten
+
+- mit Patientenbezug (d. h. in der Patientendokumentation) ab. Die Verarbeitung des Speicher-Bundles
+
+- erfolgt gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS mit der Interaktion „Transaction“. Dabei stellt das
+
+- PVS sicher, dass keine Strukturierung verloren geht, so dass bei einer ggf. späteren Übergabe dieser  Daten an eine VoS, die Daten in der Struktur übergeben werden, wie diese entgegengenommen wurde.
+
+- Wird z. B. die Dosierung nicht als Freitext, sondern als kodierte Information (morgens, mittags, abends,
+
+- nachts) übergeben, so muss diese Dosierung in der gleichen Form zu einem späteren Zeitpunkt wieder
+
+- ausgeliefert werden. Daten, die vor der Einführung der VoS-Schnittstelle im PVS gespeichert sind, sind,  wenn sie strukturiert im PVS vorliegen, auch strukturiert auszuliefern. Liegt z. B. die Dosierung
+
+- strukturiert in der Patientendokumentation vor, so ist diese auch strukturiert und nicht als Freitext an
+
+- der B1-Schnittstelle anzubieten, wenn die Strukturierungen in der VoS-Schnittelle und
+
+- Patientendokumentation deckungsgleich sind.
+
+- 5. Es gilt das Mapping gemäß [Kapitel 3].
 
 **4.5** **ALLGEMEINE ANFORDERUNGEN**
 
@@ -1221,16 +1745,64 @@ Das PVS fungiert als REST-Service.
 
 **Akzeptanzkriterium:**
 
-1. Das PVS muss sicherstellen, dass der zur Verfügung gestellte RESTful-Service den Anforderungen der  Schnittstellenfestlegung [KBV_ITA_VGEX_SST_Festlegung_VOS] entspricht.  2. Das PVS darf nur die Verarbeitung der Instanzen von FHIR®-Ressourcen erlauben, die mit den VoS oder  eRP-Profilen konform sind.  3. Das PVS muss die Service Base URL ([base]) für seinen REST-Service als Parameter in einer für den  Anwender einsehbaren Konfiguration festlegen.
+- 1. Das PVS muss sicherstellen, dass der zur Verfügung gestellte RESTful-Service den Anforderungen der
+
+- Schnittstellenfestlegung [KBV_ITA_VGEX_SST_Festlegung_VOS] entspricht.
+
+- 2. Das PVS darf nur die Verarbeitung der Instanzen von FHIR®-Ressourcen erlauben, die mit den VoS oder - eRP-Profilen konform sind.
+
+- 3. Das PVS muss die Service Base URL ([base]) für seinen REST-Service als Parameter in einer für den
+
+- Anwender einsehbaren Konfiguration festlegen.
 
 
 ---
 
-4. Die Service Base URL aus Punkt 3 ergibt sich als http(s)://[server]{/path}. Dabei stellt [server] die  -Service relativ zur Angabe Bezeichnung des Servers dar und {/path} einen optionalen Pfad zum REST [server].  -Service als 5. Das PVS muss die IP-Adresse und den Port des lokalen Netzes der Praxis für seinen REST Parameter in einer für den Anwender einsehbaren Konfiguration festlegen.  6. Sofern Nachrichten zwischen PVS (inkl. FHIR-Server) und VoS über eine verschlüsselte Verbindung  t werden. ausgetauscht werden sollen, muss als Transportverschlüsselung TLS Version 1.2 verwende 7. Sofern die Authentifizierung über ein Serverzertifikat für die verschlüsselte Verbindung nach Punkt 6  PVS im Dateiformat erfolgen soll, muss das notwendige X.509-Zertifikat für die jeweilige Installation vom  DER (.der, .cer, .crt) oder PEM (.pem, .cer, .crt) erzeugt werden können.   8. Das Zertifikat aus Punkt 7 ist der VoS bereitzustellen.   9. Das Verwenden von mitgelieferten Serverzertifikaten aus Punkt 7, die in allen Installationen gleich sind,  ist nicht zulässig.  asswort für die verschlüsselte Verbindung nach 10. Sofern die Authentifizierung über Benutzername/ P Punkt 6 erfolgen soll, muss der Anwender den Benutzernamen und das Passwort festlegen können. 11. Das PVS darf die Passwörter aus Punkt 6 nicht im Klartext speichern.  e mit TLS gesicherte Verbindung übertragen werden. 12. Benutzername und Passwort dürfen nur über ein
+- 4. Die Service Base URL aus Punkt 3 ergibt sich als http(s)://[server]{/path}. Dabei stellt [server] die  -Service relativ zur Angabe
+
+- Bezeichnung des Servers dar und {/path} einen optionalen Pfad zum REST [server].
+
+- -Service als
+
+- 5. Das PVS muss die IP-Adresse und den Port des lokalen Netzes der Praxis für seinen REST Parameter in einer für den Anwender einsehbaren Konfiguration festlegen.
+
+- 6. Sofern Nachrichten zwischen PVS (inkl. FHIR-Server) und VoS über eine verschlüsselte Verbindung  t werden.
+
+- ausgetauscht werden sollen, muss als Transportverschlüsselung TLS Version 1.2 verwende
+
+- 7. Sofern die Authentifizierung über ein Serverzertifikat für die verschlüsselte Verbindung nach Punkt 6  PVS im Dateiformat
+
+- erfolgen soll, muss das notwendige X.509-Zertifikat für die jeweilige Installation vom  DER (.der, .cer, .crt) oder PEM (.pem, .cer, .crt) erzeugt werden können.
+
+- 8. Das Zertifikat aus Punkt 7 ist der VoS bereitzustellen.
+
+- 9. Das Verwenden von mitgelieferten Serverzertifikaten aus Punkt 7, die in allen Installationen gleich sind,  ist nicht zulässig.
+
+- asswort für die verschlüsselte Verbindung nach
+
+- 10. Sofern die Authentifizierung über Benutzername/ P -
+
+- Punkt 6 erfolgen soll, muss der Anwender den Benutzernamen und das Passwort festlegen können.
+
+- 11. Das PVS darf die Passwörter aus Punkt 6 nicht im Klartext speichern.
+
+- e mit TLS gesicherte Verbindung übertragen werden.
+
+- 12. Benutzername und Passwort dürfen nur über ein
 
 **HINWEIS**
 
-1. Das PVS muss sicherstellen, dass der Arzt mindestens mit einer VoS verbunden werden kann. 2. Das PVS muss sicherstellen, dass für den Aufruf bereits die richtigen Parameter hinterlegt sind.  3. Eine Änderung der Konfigurationseinstellungen bezüglich des Aufrufes der VoS muss für den Arzt  jederzeit ohne weitere Hilfestellung möglich sein.  4. Der Arzt kann jederzeit die verbundene VoS ändern.
+-
+
+- 1. Das PVS muss sicherstellen, dass der Arzt mindestens mit einer VoS verbunden werden kann.
+
+- 2. Das PVS muss sicherstellen, dass für den Aufruf bereits die richtigen Parameter hinterlegt sind.
+
+- 3. Eine Änderung der Konfigurationseinstellungen bezüglich des Aufrufes der VoS muss für den Arzt  jederzeit ohne weitere Hilfestellung möglich sein.
+
+-
+
+- 4. Der Arzt kann jederzeit die verbundene VoS ändern.
 
 Das für die Server-Authentifizierung genutzte Zertifikat kann ein self-signed-Zertifikat sein.
 
@@ -1238,11 +1810,15 @@ Das für die Server-Authentifizierung genutzte Zertifikat kann ein self-signed-Z
 |---|---|
 | P4-180 | Konfigurationseinstellungen im PVS |
 
-Der Arzt muss die Möglichkeit der Konfiguration im PVS haben, in der Form, dass der Arzt die für die  Nutzung der VoS notwendigen Einstellungen eigenständig vornehmen kann.
+Der Arzt muss die Möglichkeit der Konfiguration im PVS haben, in der Form, dass der Arzt die für die
+
+Nutzung der VoS notwendigen Einstellungen eigenständig vornehmen kann.
 
 **Begründung:**
 
-soll. Der Arzt muss festlegen können, welche VoS zur Verordnung genutzt werden
+soll.
+
+Der Arzt muss festlegen können, welche VoS zur Verordnung genutzt werden
 
 **Akzeptanzkriterium:**
 
@@ -1254,7 +1830,9 @@ Der Arzt entscheidet, welche VoS eingebunden werden muss, sobald mehrere vorlieg
 
 **Begründung:**
 
-diese bei Bedarf jederzeit auch ändern können, Der Arzt muss selbst die einzusetzende VoS bestimmen und  wenn mehrere VoS zur Auswahl stehen.
+diese bei Bedarf jederzeit auch ändern können,
+
+Der Arzt muss selbst die einzusetzende VoS bestimmen und  wenn mehrere VoS zur Auswahl stehen.
 
 **Akzeptanzkriterium:**
 
@@ -1263,7 +1841,15 @@ diese bei Bedarf jederzeit auch ändern können, Der Arzt muss selbst die einzus
 
 Wenn mehrere VoS vorliegen, muss der Arzt festlegen können, welche der vorliegenden VoS für die  Verordnung eingesetzt wird.
 
-1. Der Arzt darf nicht bei jedem Verordnungsvorgang nach der einzusetzenden VoS gefragt werde sondern legt diese über die Konfiguration fest und hat die Möglichkeit auszuwählen.  2. Das PVS muss sicherstellen, dass im Rahmen eines Verordnungsvorgangs nur eine VoS zum Einsatz  kommt.  3. Ein Wechsel zwischen mehreren VoS während eines Verordnungsvorgangs ist nicht erlaubt. 4. Die Entscheidung, ob eine externe VoS angebunden werden soll, und die für die Anbindung benötigten  Parameter müssen pro Arbeitsplatz festgelegt werden können.
+- 1. Der Arzt darf nicht bei jedem Verordnungsvorgang nach der einzusetzenden VoS gefragt werde sondern legt diese über die Konfiguration fest und hat die Möglichkeit auszuwählen.
+
+- 2. Das PVS muss sicherstellen, dass im Rahmen eines Verordnungsvorgangs nur eine VoS zum Einsatz  kommt.
+
+- 3. Ein Wechsel zwischen mehreren VoS während eines Verordnungsvorgangs ist nicht erlaubt.
+
+- 4. Die Entscheidung, ob eine externe VoS angebunden werden soll, und die für die Anbindung benötigten
+
+- Parameter müssen pro Arbeitsplatz festgelegt werden können.
 
 **Bedingung:**
 
@@ -1281,7 +1867,9 @@ Die Anforderungen zu der VoS-SST sehen keine Unterscheidung vor.
 
 **Akzeptanzkriterium:**
 
-1. Das PVS darf keine Differenzierung zur Anbindung der VoS vornehmen. Alle Anforderunge Dokuments sind bei jeder angebundenen VoS in derselben Weise zu erfüllen. 2. Das PVS muss sicherstellen, dass die Anbindung zu einer VoS jederzeit auch durch eine andere ersetzt  werden kann.
+- 1. Das PVS darf keine Differenzierung zur Anbindung der VoS vornehmen. Alle Anforderunge Dokuments sind bei jeder angebundenen VoS in derselben Weise zu erfüllen.
+
+- 2. Das PVS muss sicherstellen, dass die Anbindung zu einer VoS jederzeit auch durch eine andere ersetzt  werden kann.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -1295,17 +1883,25 @@ Rücksetzen bei Programmabstürzen notwendig, da keine Interaktion mehr möglich
 
 **Akzeptanzkriterium:**
 
-1. Erfolgt innerhalb einer Zeit von 15 Minuten kein Rückmeldung der VoS an das PVS der entsprechenden KID vom PVS gelöscht werden 2. Das Zurücksetzen der o.g. 15 Minuten ist durch eine entsprechende Suchanfrage der VOS an das PVS  nach dem konkreten Bundle möglich. **Beispiel:**
+- 1. Erfolgt innerhalb einer Zeit von 15 Minuten kein Rückmeldung der VoS an das PVS der entsprechenden KID vom PVS gelöscht werden
 
-n,  , jederzeit eine andere VoS
+- 2. Das Zurücksetzen der o.g. 15 Minuten ist durch eine entsprechende Suchanfrage der VOS an das PVS  nach dem konkreten Bundle möglich. **Beispiel:**
 
-n dieses
+- n,
 
--Rest-Server obwohl das PVS einen  le vom PVS mit der
+- , jederzeit eine andere VoS
 
-GET [base]/Bundle/KID
+-
 
-KONDITIONALE PFLICHTFUNKTION VOS, muss das Bundle mit
+-
+
+- n dieses
+
+-
+
+-Rest-Server obwohl das PVS einen  le vom PVS mit der - GET [base]/Bundle/KID
+
+KONDITIONALE PFLICHTFUNKTION VOS- , muss das Bundle mit
 
 
 ---
@@ -1324,22 +1920,22 @@ Die Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten
 
 **Akzeptanzkriterium:**
 
-1. Das PVS muss sich das in den Kapiteln 2.2.1 bzw. 2.2.2 der Technische Anlage zu Anlage 4a (BMV [KBV_ITA_VGEX_Mapping_KVK] beschriebene Einlesen der eGK und KVK  2. Das PVS muss sich die im Anforderungskatalog KVDT [ beschriebene Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten nutzbar  machen.
+- 1. Das PVS muss sich das in den Kapiteln 2.2.1 bzw. 2.2.2 der Technische Anlage zu Anlage 4a (BMV [KBV_ITA_VGEX_Mapping_KVK] beschriebene Einlesen der eGK und KVK
 
-**VERSICHERTEN-, ARZT- UND**
+- 2. Das PVS muss sich die im Anforderungskatalog KVDT [ beschriebene Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten nutzbar - machen.
 
-Versicherten-, Arzt- und
+## VERSICHERTEN-, ARZT- UND
 
-nutzbar machen.  KBV_ITA_VGEX_Anforderungskatalog_KVDT]
+Versicherten-, Arzt- und - nutzbar machen.
 
-Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten-Ä)
+- KBV_ITA_VGEX_Anforderungskatalog_KVDT]
+
+Erfassung und Speicherung der Versicherten-, Arzt- und Betriebsstättendaten- -Ä)
 
 
 ---
 
-5
-
-## ANFORDERUNGEN AN DIE VOS
+# 5 ANFORDERUNGEN AN DIE VOS
 
 In diesem Kapitel werden alle Anforderungen an die VoS definiert, die für die Umsetzung der B2 notwendig sind.
 
@@ -1357,15 +1953,27 @@ Der Arzt muss die VoS aus dem PVS aufrufen können.
 
 **Akzeptanzkriterium:**
 
-1. Die VoS muss über ein Aufrufkommando aufgerufen werden können, welches als Systemaufr PVS ausgeführt werden kann.  2. Alle für den Aufruf notwendigen Angaben sind in einem Benutzerhandbuch für die PVS darzulegen.  3. Der Praxis müssen alle zur Einrichtung der Schnittstelle benötigten Daten ohne Hilfe Dritter verfügbar  gemacht werden.  Sowohl in PVS als auch VOS müssen Daten eingegeben werden, die im jeweils anderen System  festgelegt werden (z. B. Aufruf-URL). PVS und VOS sollten dem Benutzer jeweils die Daten anzeigen, die  er zur Konfiguration des jeweils anderen Systems benötigt.  4. Der Benutzer muss in der Lage sein, die Aufrufparameter frei und vollständig System anpassen zu können:
+- 1. Die VoS muss über ein Aufrufkommando aufgerufen werden können, welches als Systemaufr PVS ausgeführt werden kann.
+
+- 2. Alle für den Aufruf notwendigen Angaben sind in einem Benutzerhandbuch für die PVS darzulegen.
+
+- 3. Der Praxis müssen alle zur Einrichtung der Schnittstelle benötigten Daten ohne Hilfe Dritter verfügbar  gemacht werden.
+
+Sowohl in PVS als auch VOS müssen Daten eingegeben werden, die im jeweils anderen System  festgelegt werden (z. B. Aufruf-URL). PVS und VOS sollten dem Benutzer jeweils die Daten anzeigen, die  er zur Konfiguration des jeweils anderen Systems benötigt.
+
+- 4. Der Benutzer muss in der Lage sein, die Aufrufparameter frei und vollständig System anpassen zu können:
 
 -  Applikations-Pfad, wenn die VOS als Applikation aufgerufen wird
 
 -  URL und Port, wenn die VOS als Webseite aufgerufen wird
 
--  Festlegung für die sichere Verbindung - der Benutzer sollte frei wählen können, ob er eine  Verbindung über https verwenden möchte
+-  Festlegung für die sichere Verbindung - der Benutzer sollte frei wählen können, ob er eine
 
--  Authentifizierungsverfahren (der Benutzer sollte frei auswählen können, ob er die  Authentifizierung über Benutzername und Passwort . Benutzernamen und Passwort sollten frei  vergeben werden können) -  weitere Aufrufparameter
+- Verbindung über https verwenden möchte
+
+-  Authentifizierungsverfahren (der Benutzer sollte frei auswählen können, ob er die  Authentifizierung über Benutzername und Passwort . Benutzernamen und Passwort sollten frei - vergeben werden können)
+
+-  weitere Aufrufparameter
 
 **5.2** **FHIR®-REST-SERVER**
 
@@ -1377,24 +1985,54 @@ An der VoS müssen alle notwendigen Informationen für den Zugriff auf den FHIR�
 
 -SST
 
-uf aus dem -Hersteller
+- uf aus dem
 
-an sein vorhandenes -Rest-Server statisch
+- -Hersteller
+
+- an sein vorhandenes
+
+-
+
+-
+
+-Rest-Server statisch
 
 
 ---
 
--Rest-Server 1. An der VoS müssen alle notwendigen Informationen für den Zugriff auf den FHIR® konfiguriert werden.  2. Alle für den Zugriff auf den FHIR®-Rest-Server notwendigen Angaben sind für die Konfiguration in Punkt  1 dem Benutzerhandbuch der PVS-Hersteller zu entnehmen.
+- -Rest-Server
 
-1. Die VoS muss über die read- und search-Interaktion des REST-Services die benötigten FHIR®-Ressourcen  vom PVS abfragen.  d.h. es sollen alle 2. Der Umfang der angefragten Daten soll so klein wie möglich gehalten werden,  bekannten Informationen zur Einschränkung der Suche (Suchfilter) verwendet werden.
+- 1. An der VoS müssen alle notwendigen Informationen für den Zugriff auf den FHIR® konfiguriert werden.
 
-3. Tritt beim Abfragen der Daten ein Fehler auf, so muss unter Beachtung der Anforderung P3-190 eine  aussagekräftige Fehlermeldung angezeigt werden.
+- 2. Alle für den Zugriff auf den FHIR®-Rest-Server notwendigen Angaben sind für die Konfiguration in Punkt  1 dem Benutzerhandbuch der PVS-Hersteller zu entnehmen.
 
-1. Die VoS stellt sicher, dass alle notwendigen Daten vollständig und korrekt zur Bedruckung eines  Rezeptes oder Medikationsplans vom PVS zur Verfügung gestellt wurden. 2. Wenn unvollständige Daten vorliegen, muss die VoS eine entsprechende Abfrage beim PVS starten.  3. Wenn fehlerhafte Daten vorliegen, muss die VoS unter Beachtung der Anforderung P3-190 eine  entsprechende Fehlermeldung anzeigen.
+- 1. Die VoS muss über die read- und search-Interaktion des REST-Services die benötigten FHIR®-Ressourcen  vom PVS abfragen.
+
+- d.h. es sollen alle
+
+- 2. Der Umfang der angefragten Daten soll so klein wie möglich gehalten werden,  bekannten Informationen zur Einschränkung der Suche (Suchfilter) verwendet werden.
+
+-
+
+- 3. Tritt beim Abfragen der Daten ein Fehler auf, so muss unter Beachtung der Anforderung P3-190 eine
+
+- aussagekräftige Fehlermeldung angezeigt werden.
+
+-
+
+- 1. Die VoS stellt sicher, dass alle notwendigen Daten vollständig und korrekt zur Bedruckung eines  Rezeptes oder Medikationsplans vom PVS zur Verfügung gestellt wurden.
+
+- 2. Wenn unvollständige Daten vorliegen, muss die VoS eine entsprechende Abfrage beim PVS starten.
+
+- 3. Wenn fehlerhafte Daten vorliegen, muss die VoS unter Beachtung der Anforderung P3-190 eine
+
+- entsprechende Fehlermeldung anzeigen.
 
 **Begründung:**
 
-Zugriff auf FHIR®-Rest-Server kennen. Die VoS muss vor dem Start alle notwendigen Parameter für den
+Zugriff auf FHIR®-Rest-Server kennen.
+
+Die VoS muss vor dem Start alle notwendigen Parameter für den
 
 **Akzeptanzkriterium:**
 
@@ -1404,11 +2042,15 @@ Zugriff auf FHIR®-Rest-Server kennen. Die VoS muss vor dem Start alle notwendig
 |---|---|
 | P5-10 | Datenabfrage beim PVS |
 
-Führt der Arzt eine entsprechende Funktion in der VoS aus, so fragt die VoS über die read- und search- Interaktion des REST-Services (siehe P3-230) ausschließlich die benötigten FHIR®-Ressourcen vom PVS ab.
+Führt der Arzt eine entsprechende Funktion in der VoS aus, so fragt die VoS über die read- und search-
+
+Interaktion des REST-Services (siehe P3-230) ausschließlich die benötigten FHIR®-Ressourcen vom PVS ab.
 
 **Begründung:**
 
-über den REST-Service beim PVS ab, Die für die jeweiligen Funktionen notwendigen Daten fragt die VoS sofern diese für die Weiterverarbeitung notwendig sind.
+über den REST-Service beim PVS ab,
+
+Die für die jeweiligen Funktionen notwendigen Daten fragt die VoS sofern diese für die Weiterverarbeitung notwendig sind.
 
 **Akzeptanzkriterium:**
 
@@ -1432,7 +2074,9 @@ Alle Daten müssen insbesondere für die Bedruckungen von Rezepten und Medikatio
 | Beispiel: |
 |---|
 
-4. Der Patient kann mindestens mit drei unterschiedlichen Adresstypen im PVS gespeichert sein.  Das PVS muss bei der Übermittlung der KBV-Profile sicherstellen, dass nur die auf dem Rezept zu  bedruckende Adresse übertragen wird.  5. Die Daten sind immer aus dem Kontext heraus zu übertragen, z. B. die ASV nur dann übermittelt, wenn die Verordnung im Rahmen einer ASV ASV-Teamnummer statt der BSNR auf dem Rezept aufgedruckt werden muss. Zusätzlich muss  Status-Kennzeichen = 01 ASV ohne Ersatzverordnung oder 11 ASV mit Ersatzverordnung übermittelt werden.
+- 4. Der Patient kann mindestens mit drei unterschiedlichen Adresstypen im PVS gespeichert sein.  Das PVS muss bei der Übermittlung der KBV-Profile sicherstellen, dass nur die auf dem Rezept zu  bedruckende Adresse übertragen wird.
+
+- 5. Die Daten sind immer aus dem Kontext heraus zu übertragen, z. B. die ASV nur dann übermittelt, wenn die Verordnung im Rahmen einer ASV ASV-Teamnummer statt der BSNR auf dem Rezept aufgedruckt werden muss. Zusätzlich muss  Status-Kennzeichen = 01 ASV ohne Ersatzverordnung oder 11 ASV mit Ersatzverordnung übermittelt werden.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -1446,7 +2090,9 @@ Die Praxisdaten sind bei jedem Aufruf erforderlich, damit die VoS  wichtige Date
 
 **Akzeptanzkriterium:**
 
-Die VoS überprüft, dass bei jedem Aufruf (siehe Tabelle 3) der VoS die notwendigen Praxisdaten  übermittelt wurden. Dabei müssen mindesten die LANR und BSNR des Arztes, die Prüfnummer des PVS und  nur im Rahmen einer ASV-Behandlung die ASV-Teamnummer übermittelt werden.
+Die VoS überprüft, dass bei jedem Aufruf (siehe Tabelle 3) der VoS die notwendigen Praxisdaten
+
+übermittelt wurden. Dabei müssen mindesten die LANR und BSNR des Arztes, die Prüfnummer des PVS und  nur im Rahmen einer ASV-Behandlung die ASV-Teamnummer übermittelt werden.
 
 **HINWEIS**
 
@@ -1466,22 +2112,50 @@ Jedes PVS wird die VoS mit unterschiedlichen Verordnungsfunktionen aufrufen. Die
 
 **Akzeptanzkriterium:**
 
-1. Die VoS unterstützt alle in diesem Dokument unter Kapitel 3 beschriebenen KBV dazugehörigen Anforderungen.
+- 1. Die VoS unterstützt alle in diesem Dokument unter Kapitel 3 beschriebenen KBV dazugehörigen Anforderungen.
 
-- Teamnummer wird  -Behandlung erfolgt und die
+- - Teamnummer wird
+
+- -Behandlung erfolgt und die
+
+-
 
 -Profile an die VoS übermittelt
 
 z. B. die LANR bzw. BSNR und weitere
 
-Abbildung 5: -Profile mit den
+Abbildung 5: - -Profile mit den
 
 
 ---
 
-2. Die VoS muss alle übergebenen Aufrufkontexte gemäß Tabelle 2 verarbeiten können. Ausnahme: Die  Verarbeitung von Aufrufkontext 10 (Statistik ausführen) und 11 (Hausapotheke) ist nicht verpflichtend,  da es sich hier gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] nicht um Pflichtfunktionen handelt.  -12) 3. Die VoS muss sicherstellen, dass die entsprechende Verordnungsfunktion (Aufrufkontext = 2 ausgeführt wird, ohne dass der Arzt die entsprechende Funktion erneut in der VoS aufrufen muss.  Ausnahme: Diese Anforderung gilt für Aufrufkontext 10 (Statistik ausführen) und 11 (Hausapotheke)  S umgesetzt sind. nur, wenn die entsprechenden Verordnungsfunktionen in der Vo 4. Wenn die VoS mit Aufrufkontext 10 (Statistik ausführen) oder 11 (Hausapotheke) aufgerufen wird, diese  -190 eine Funktionen aber nicht unterstützt, dann muss unter Beachtung der Anforderung P3 aussagekräftige Fehlermeldung ausgegeben werden 5. Mit den im Aufruf-Bundle übergebenen Informationen lädt die VoS zudem die für die entsprechende  Funktion notwendigen Daten (z. B. Patientendaten) aus dem PVS nach. 6. Die VoS darf nur die Daten verwenden, die durch das PVS tatsächlich übermittelt wurden. Z. B. sind bei  einer Wiederverordnung ausschließlich die Medikamente anzuzeigen, die auch vom PVS bereitgestellt
+- 2. Die VoS muss alle übergebenen Aufrufkontexte gemäß Tabelle 2 verarbeiten können. Ausnahme: Die
 
-z. B. die Daten im PVS nicht vorliegen, muss unter Beachtung der  worden sind. Wenn die notwendigen Daten nicht vorliegen, sind diese beim PVS abzufragen. Ist die  Abfrage wiederum nicht möglich, da  Anforderung P3-190 eine entsprechende Fehlermeldung angezeigt werden.
+- Verarbeitung von Aufrufkontext 10 (Statistik ausführen) und 11 (Hausapotheke) ist nicht verpflichtend,  da es sich hier gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] nicht um Pflichtfunktionen handelt.
+
+- -12)
+
+- 3. Die VoS muss sicherstellen, dass die entsprechende Verordnungsfunktion (Aufrufkontext = 2 ausgeführt wird, ohne dass der Arzt die entsprechende Funktion erneut in der VoS aufrufen muss.  Ausnahme: Diese Anforderung gilt für Aufrufkontext 10 (Statistik ausführen) und 11 (Hausapotheke)  S umgesetzt sind.
+
+- nur, wenn die entsprechenden Verordnungsfunktionen in der Vo
+
+- 4. Wenn die VoS mit Aufrufkontext 10 (Statistik ausführen) oder 11 (Hausapotheke) aufgerufen wird, diese  -190 eine
+
+- Funktionen aber nicht unterstützt, dann muss unter Beachtung der Anforderung P3 aussagekräftige Fehlermeldung ausgegeben werden
+
+- 5. Mit den im Aufruf-Bundle übergebenen Informationen lädt die VoS zudem die für die entsprechende
+
+- Funktion notwendigen Daten (z. B. Patientendaten) aus dem PVS nach.
+
+- 6. Die VoS darf nur die Daten verwenden, die durch das PVS tatsächlich übermittelt wurden. Z. B. sind bei
+
+- einer Wiederverordnung ausschließlich die Medikamente anzuzeigen, die auch vom PVS bereitgestellt
+
+- z. B. die Daten im PVS nicht vorliegen, muss unter Beachtung der
+
+- worden sind. Wenn die notwendigen Daten nicht vorliegen, sind diese beim PVS abzufragen. Ist die  Abfrage wiederum nicht möglich, da -
+
+- Anforderung P3-190 eine entsprechende Fehlermeldung angezeigt werden.
 
 **5.6** **DATEN ÜBERGEBEN**
 
@@ -1489,15 +2163,27 @@ z. B. die Daten im PVS nicht vorliegen, muss unter Beachtung der  worden sind. W
 |---|---|
 | P5-50 | Übergabe der Verordnungs- und Medikationsplandaten |
 
-beispielsweise ein Medikationsplan Werden während der Ausführung der VoS patientenbezogene Daten,  oder Rezept, erstellt, so übergibt die VoS diese zum Speichern an das PVS in Form eines sog. Speicher Bundles.
+beispielsweise ein Medikationsplan
+
+Werden während der Ausführung der VoS patientenbezogene Daten,  oder Rezept, erstellt, so übergibt die VoS diese zum Speichern an das PVS in Form eines sog. Speicher Bundles.
 
 **Begründung:**
 
-okumente sind im PVS zu speichern. Die patientenbezogenen Daten und D
+okumente sind im PVS zu speichern.
+
+Die patientenbezogenen Daten und D
 
 **Akzeptanzkriterium:**
 
-t (z.  Die VoS stellt sicher, dass alle während der Ausführung erzeugten patientenbezogenen Daten an das PVS  zur Speicherung übermittelt werden. Dazu erzeugt die VoS für jeden abgeschlossenen Handlungskontex B. Rezepterstellung oder Medikationsplanaktualisierung) ein sog. Speicher-Bundle und stellt dieses über  -Bundle wird mit der Interaction „transaktion“ den REST-Service dem PVS zur Verfügung. Das Speicher gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS] von der VoS an das PVS übergeben.
+t (z.
+
+Die VoS stellt sicher, dass alle während der Ausführung erzeugten patientenbezogenen Daten an das PVS  zur Speicherung übermittelt werden. Dazu erzeugt die VoS für jeden abgeschlossenen Handlungskontex
+
+B. Rezepterstellung oder Medikationsplanaktualisierung) ein sog. Speicher-Bundle und stellt dieses über
+
+-Bundle wird mit der Interaction „transaktion“
+
+den REST-Service dem PVS zur Verfügung. Das Speicher gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS] von der VoS an das PVS übergeben.
 
 | PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -1534,7 +2220,9 @@ Der Arzt muss in die Lage versetzt werden, zwischen
 
 **Akzeptanzkriterium:**
 
-Hat der Arzt seine Arbeit in der VoS beendet und möchte wieder ins PVS wechseln, löscht die VoS mit der  Interaktion delete das Aufruf-Bundle, welches mit dem Parameter kID beim Start der VoS übergeben  wurde.
+Hat der Arzt seine Arbeit in der VoS beendet und möchte wieder ins PVS wechseln, löscht die VoS mit der
+
+Interaktion delete das Aufruf-Bundle, welches mit dem Parameter kID beim Start der VoS übergeben  wurde.
 
 **5.8** **VERORDNUNG VON ARZNEIMITTELN UND SONSTIGEN NACH § 31 SGB V IN DIE**  **ARZNEIMITTELVERSORGUNG EINBEZOGENEN PRODUKTEN**
 
@@ -1550,7 +2238,9 @@ Auf Basis des [EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
 **Akzeptanzkriterium:**
 
-Die VoS muss bei der Umsetzung der VoS-B2-Schnittstelle alle Anforderungen aus dem Anforderungskatalogs für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_AVWG
+Die VoS muss bei der Umsetzung der VoS-B2-Schnittstelle alle Anforderungen aus dem
+
+Anforderungskatalogs für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
 PVS und VoS zu wechseln.
 
@@ -1561,9 +2251,7 @@ einbezogenen Produkten ] erfüllen.
 
 ---
 
-6
-
-REFERENZIERTE DOKUMENTE
+6 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -1591,4 +2279,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

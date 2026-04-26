@@ -9,7 +9,9 @@
 
 # ANFORDERUNGSKATALOG EARZTBRIEF
 
-## EARZTBRIEF] [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
+## EARZTBRIEF]
+
+## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
@@ -23,17 +25,39 @@ INHALT
 | 1.1 | Zielbestimmung |  | 5 |
 | 1.2 | Pflichtfunktionen | der Software | 5 |
 
-**2** **VERWENDUNG DES KOMMUNIKATIONSDIENSTES KIM** **6**
+**2** **VERWENDUNG DES KOMMUNIKATIONSDIENSTES KIM**
 
-**3** **VORGABEN FÜR DEN VERSAND / EMPFANG VON ELEKTRONISCHEN ARZTBRIEFEN** **7**
+**6**
 
-3.1 Allgemeine Vorgaben an Inhalt und Struktur 7  3.2 Vorgaben an die Signatur 11  3.3 Vorgaben für den Versand 11  3.4 Vorgaben für den Empfang 13
+**3** **VORGABEN FÜR DEN VERSAND / EMPFANG VON ELEKTRONISCHEN ARZTBRIEFEN**
 
-**4** **ABRECHNUNGSUNTERSTÜTZUNG 17**
+**7**
 
-**5** **GLOSSAR 19**
+3.1 Allgemeine Vorgaben an Inhalt und Struktur 7
 
-**6** **REFERENZIERTE DOKUMENTE** **20**
+3.2 Vorgaben an die Signatur
+
+11
+
+3.3 Vorgaben für den Versand
+
+11
+
+3.4 Vorgaben für den Empfang
+
+13
+
+**4** **ABRECHNUNGSUNTERSTÜTZUNG**
+
+**17**
+
+**5** **GLOSSAR**
+
+**19**
+
+**6** **REFERENZIERTE DOKUMENTE**
+
+**20**
 
 Pflichtfunktionen der Software
 
@@ -74,19 +98,17 @@ P44-01 aufgenommen Kommunikation Spezifikation der kv.digital Anforderungen
 
 ---
 
-1
-
-## EINLEITUNG
+# 1 EINLEITUNG
 
 Dieses Dokument gilt für Software von Vertragsärzten und Vertragspsychotherapeuten zur Übermittlung  von elektronischen Arztbriefen (eArztbriefen). Vertragsärzte und Vertragspsychotherapeuten sollen durch  das zertifizierte Softwareprodukt in die Lage versetzt werden, eArztbriefe über einen sicheren  Übertragungsweg versenden und empfangen zu können.
 
 Der Begriff „Patientenakte“ wird in diesem Dokument als die im Primärsystem geführte Dokumentations und Unterlagensammlung zu einem Patienten verstanden.
 
-**1.1** **ZIELBESTIMMUNG**
+## 1.1 ZIELBESTIMMUNG
 
 Die zu berücksichtigenden Vorgaben sind in der „Richtlinie über die Übermittlung elektronischer Briefe in  der vertragsärztlichen Versorgung gemäß § 383 SGB V“ [Richtlinie eArztbrief] veröffentlicht.
 
-**1.2** **PFLICHTFUNKTIONEN DER SOFTWARE**
+## 1.2 PFLICHTFUNKTIONEN DER SOFTWARE
 
 Pflichtfunktionen müssen in der Anwendungssoftware implementiert sein. Die Realisierung aller  Pflichtfunktionen ist im Rahmen des Zertifizierungsverfahrens nachzuweisen.
 
@@ -101,9 +123,9 @@ Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 ---
 
-## ES KIM 2
+# ES KIM
 
-VERWENDUNG DES KOMMUNIKATIONSDIENST
+2 VERWENDUNG DES KOMMUNIKATIONSDIENST
 
 | PFLICHTFUNKTION |  |
 |---|---|
@@ -113,28 +135,74 @@ Die Software muss den Kommunikationsdienst KIM korrekt integrieren und die Nutzu
 
 **Begründung:**
 
-Es muss sichergestellt sein, dass der Kommunikationsdienst KIM von der eArztbrief-Software korrekt  implementiert wird.
+Es muss sichergestellt sein, dass der Kommunikationsdienst KIM von der eArztbrief-Software korrekt
+
+implementiert wird.
 
 **Akzeptanzkriterium:**
 
-1.Kommunikationsdienstes KIM nutzen.  Die Software muss für den Versand von eArztbriefen den  2.durchlaufenen Bestätigungsverfahrens der gematik - Bestätigung  Es muss der Nachweis des erfolgreich  der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  gemäß  [gemLeit_Best_Konf_PS] eingereicht werden.
+- 1.
+
+- Kommunikationsdienstes KIM nutzen.
+
+-  Die Software muss für den Versand von eArztbriefen den - 2.
+
+- durchlaufenen Bestätigungsverfahrens der gematik - Bestätigung
+
+-  Es muss der Nachweis des erfolgreich  der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  gemäß
+
+- [gemLeit_Best_Konf_PS] eingereicht werden.
 
 
 ---
 
-1. Die Software muss die Funktionen gemäß des Anforderungsdokuments „eArztbrief V1.2“  [Spec_eArztbrief] in der stets aktuellen Version umsetzen und dem Anwender bereitstellen.  2. -Zertifikat bei der KBV im Rahmen der eArztbrief Zertifizierung  Die Software muss das Audit für die Anwendung eArztbrief bei der kv.digital erfolgreich abgeschlossen  haben. Als Nachweis muss das Audit eingereicht werden.  3.eines Interoperabilitätsworkshops bei der kv.digital  Die Software muss die Funktionalitäten im Rahmen  nachweisen. Der Nachweis der erfolgreichen Teilnahme muss bei der KBV in Rahmen der eArztbrief  Zertifizierung eingereicht werden. 4. Die Nachweise zum erfolgreichen Bestehen des Audits und Interoperabilitätsworkshops bei der  kv.digital dürfen zum Zeitpunkt der Vergabe der Prüfnummer folgende zeitliche Abstände nicht  überschreiten:  a)  IOWS nicht älter als 6 Monate b)  Audit nicht älter als 12 Monate 5. Das erfolgreiche Audit bei der kv.digital ist eine notwendige Bedingung für die Teilnahme am  Interoperabilitätsworkshop der kv.digital.
+- 1. Die Software muss die Funktionen gemäß des Anforderungsdokuments „eArztbrief V1.2“  [Spec_eArztbrief] in der stets aktuellen Version umsetzen und dem Anwender bereitstellen.
 
-1. Die Software bietet dem Anwender eine Möglichkeit, die für den eArztbrief relevanten medizinischen  Informationen zu erfassen bzw. zu bearbeiten.
+- 2.
 
-3
+- -Zertifikat bei der KBV im Rahmen der eArztbrief Zertifizierung
 
-VORGABEN FÜR DEN VERSAND / EMPFANG VON  ELEKTRONISCHEN ARZTBRIEFEN
+- Die Software muss das Audit für die Anwendung eArztbrief bei der kv.digital erfolgreich abgeschlossen
+
+- haben. Als Nachweis muss das Audit eingereicht werden.
+
+- 3.
+
+- eines Interoperabilitätsworkshops bei der kv.digital
+
+-  Die Software muss die Funktionalitäten im Rahmen  nachweisen. Der Nachweis der erfolgreichen Teilnahme muss bei der KBV in Rahmen der eArztbrief
+
+- Zertifizierung eingereicht werden.
+
+- 4. Die Nachweise zum erfolgreichen Bestehen des Audits und Interoperabilitätsworkshops bei der
+
+- kv.digital dürfen zum Zeitpunkt der Vergabe der Prüfnummer folgende zeitliche Abstände nicht  überschreiten: - a)
+
+-
+
+-  IOWS nicht älter als 6 Monate - b)
+
+-
+
+-  Audit nicht älter als 12 Monate
+
+- 5. Das erfolgreiche Audit bei der kv.digital ist eine notwendige Bedingung für die Teilnahme am  Interoperabilitätsworkshop der kv.digital.
+
+- 1. Die Software bietet dem Anwender eine Möglichkeit, die für den eArztbrief relevanten medizinischen
+
+- Informationen zu erfassen bzw. zu bearbeiten.
+
+3 VORGABEN FÜR DEN VERSAND / EMPFANG VON  ELEKTRONISCHEN ARZTBRIEFEN
 
 | PFLICHTFUNKTION |  |
 |---|---|
 | P40-01 | Audit und Interoperabilitätsworkshop |
 
-Die Software muss dem Anwender die Funktionen gemäß des Anforderungsdokuments „eArztbrief V1.2“ [Spec_eArztbrief] in der stets aktuellen Version bereitstellen und diese im Rahmen eines Audits sowie  Interoperabilitätsworkshops (IOWS) bei der kv.digital nachweisen.
+Die Software muss dem Anwender die Funktionen gemäß des Anforderungsdokuments „eArztbrief V1.2“
+
+[Spec_eArztbrief] in der stets aktuellen Version bereitstellen und diese im Rahmen eines Audits sowie
+
+Interoperabilitätsworkshops (IOWS) bei der kv.digital nachweisen.
 
 **Begründung:**
 
@@ -152,14 +220,34 @@ Die Software muss es dem Anwender ermöglichen, alle relevanten medizinischen In
 
 **Begründung:**
 
--, les- und archivierbares Die PDF/A-Datei enthält den eigentlichen Inhalt des Arztbriefes als signier Dokument, welche durch den Anwender erstellt wird.
+-, les- und archivierbares
+
+Die PDF/A-Datei enthält den eigentlichen Inhalt des Arztbriefes als signier Dokument, welche durch den Anwender erstellt wird.
 
 **Akzeptanzkriterium:**
 
 
 ---
 
-2. Sämtliche Informationen, die der Empfänger der Nachricht benötigt, um den eArztbrief manuell einem  Patienten sowie dem Versender zuordnen zu können, müssen in menschenlesbarer Form in dem PDF/A Dokument enthalten sein. Hierzu zählen neben dem **Namen** der **Anschrift des Patienten** auch seine **Versichertenart und Kostenträgerkennung und, sofern**  **vorhanden, die Versicherten_ID oder Versichertennummer** eArztbrief-Lieferung anhand der **Praxisadresse / des Arztstempels** 3. Die Software überführt diese Informationen auf Anforderung durch den Anwender in ein PDF/A Dokument  dem eigentlichen Arztbrief. Dieses PDF/A-Dokument ist Bestandteil der zu versendenden  eArztbrief-Lieferung.  a) Die Software muss die Erstellung eines eArztbriefes in mindestens einer der folgenden PDF/A Versionen unterstützen:  PDF/A-1a  PDF/A-1b  PDF/A-2a  PDF/A-2u  PDF/A-2b  4. Das PDF/A-Dokument ist nach der Erstellung mittels einer qualifizierten, elektronischen Signatur nach  P42-01 durch den Anwender zu signieren.
+- 2. Sämtliche Informationen, die der Empfänger der Nachricht benötigt, um den eArztbrief manuell einem  Patienten sowie dem Versender zuordnen zu können, müssen in menschenlesbarer Form in dem PDF/A Dokument enthalten sein. Hierzu zählen neben dem **Namen**
+
+- der **Anschrift des Patienten** auch seine **Versichertenart und Kostenträgerkennung und, sofern**
+
+- **vorhanden, die Versicherten_ID oder Versichertennummer** eArztbrief-Lieferung anhand der **Praxisadresse / des Arztstempels**
+
+- 3. Die Software überführt diese Informationen auf Anforderung durch den Anwender in ein PDF/A Dokument  dem eigentlichen Arztbrief. Dieses PDF/A-Dokument ist Bestandteil der zu versendenden - eArztbrief-Lieferung.
+
+- a) Die Software muss die Erstellung eines eArztbriefes in mindestens einer der folgenden PDF/A Versionen unterstützen: - PDF/A-1a
+
+- PDF/A-1b
+
+- PDF/A-2a
+
+- PDF/A-2u
+
+- PDF/A-2b
+
+- 4. Das PDF/A-Dokument ist nach der Erstellung mittels einer qualifizierten, elektronischen Signatur nach  P42-01 durch den Anwender zu signieren.
 
 | PFLICHTFUNKTION |  |
 |---|---|
@@ -173,26 +261,52 @@ Anhand dieser XML-Datei ist die (teil-)automatische Verarbeitung des  System mö
 
 **Akzeptanzkriterium:**
 
-1. Die Software erstellt für den Versand einer eArztbrief-Lieferung eine XML-Datei, welche die relevanten,  fachlichen Metainformationen enthält.   2. Die XML-Datei ist nach den Vorgaben des „Implementierungsleitfaden  Clinical Document Architecture, Release 2, für das deutsche Gesundheitswesen“  [Implementierungsleitfaden Arztbrief] strukturiert. Folgende Vorgaben sind zu beachten:  Die Header-Informationen des XML-Dokumentes müssen nach den Vorgaben des  [Implementierungsleitfaden Arztbrief] enthalten sein.  Es werden keine Vorgaben zum Inhalt des Bodys der XML XML-Datei mit leerem XML-Body ist zulässig.  Die XML-Datei muss valide zu dem Schema des [Implementierungsleitfaden Arztbrief 3. Die XML-Datei muss **mindestens** folgende versichertenbezogene Informationen beinhalten: Kostenträgerkennung,  Vorname,  Name,  Geburtsdatum,  Versichertenart,  PLZ oder PostfachPLZ
+- 1. Die Software erstellt für den Versand einer eArztbrief-Lieferung eine XML-Datei, welche die relevanten,
 
-, dem** Vornamen**, dem **Geburtsdatum** und
+- fachlichen Metainformationen enthält.
 
-. Weiterhin muss der Absender der  klar identifizierbar sein.
+- 2. Die XML-Datei ist nach den Vorgaben des „Implementierungsleitfaden
+
+- Clinical Document Architecture, Release 2, für das deutsche Gesundheitswesen“  [Implementierungsleitfaden Arztbrief] strukturiert. Folgende Vorgaben sind zu beachten:
+
+-  Die Header-Informationen des XML-Dokumentes müssen nach den Vorgaben des  [Implementierungsleitfaden Arztbrief] enthalten sein.
+
+- Es werden keine Vorgaben zum Inhalt des Bodys der XML XML-Datei mit leerem XML-Body ist zulässig.
+
+- Die XML-Datei muss valide zu dem Schema des [Implementierungsleitfaden Arztbrief
+
+- 3. Die XML-Datei muss **mindestens** folgende versichertenbezogene Informationen beinhalten: - Kostenträgerkennung,
+
+- Vorname,
+
+- Name,
+
+- Geburtsdatum,
+
+- Versichertenart,
+
+- PLZ oder PostfachPLZ
+
+- , dem** Vornamen**, dem **Geburtsdatum** und
+
+- . Weiterhin muss der Absender der  klar identifizierbar sein.
 
 -Dokument
 
-eArztbriefes durch das empfangende
+eArztbriefes durch das empfangende - Arztbrief auf Basis der HL7
 
-Arztbrief auf Basis der HL7
+-
 
--Datei vorgeschrieben. Der Versand einer
+- -Datei vorgeschrieben. Der Versand einer - ] sein.
 
-] sein.
+-
 
 
 ---
 
-sofern vorhanden Versicherten-ID beziehungsweise bei Sonstigen Kostenträgern die  Versichertennummer  4. Die XML-Datei muss in der Entität <patientRole> mit den zugehörigen Inhalten gemäß dem VHitG
+- sofern vorhanden Versicherten-ID beziehungsweise bei Sonstigen Kostenträgern die  Versichertennummer
+
+- 4. Die XML-Datei muss in der Entität <patientRole> mit den zugehörigen Inhalten gemäß dem VHitG
 
 | PARAMETER | BEISPIEL | HINWEISE |
 |---|---|---|
@@ -204,7 +318,7 @@ sofern vorhanden Versicherten-ID beziehungsweise bei Sonstigen Kostenträgern di
 | Nachnamen des Vornamen des | <name>           <given>Paul</given>           <family>Pappel</family> </name> |  |
 | Geburtsdatum | <birthTime value="19551217"/> |  |
 
-nummer Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patienten root=" 1.2.276.0.76.4.8 root=" 1.2.276.0.76.4.1 eGK-Spezifikation) muss der Identifikator (OID) 1.2.276.0.76.4.8  verwendet werden. .2.276.0.76.4.1  ist für die Versichertennummer bei KV- Karten zu verwenden.  und <participant> folgende Elemente enthalten und  -Leitfaden (Version 2006) befüllt sein
+nummer Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patienten root=" 1.2.276.0.76.4.8 root=" 1.2.276.0.76.4.1 eGK-Spezifikation) muss der Identifikator (OID) 1.2.276.0.76.4.8  verwendet werden. .2.276.0.76.4.1  ist für die Versichertennummer bei KV- Karten zu verwenden.  - und <participant> folgende Elemente enthalten und  -Leitfaden (Version 2006) befüllt sein
 
 
 ---
@@ -235,7 +349,9 @@ kennung codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.
 |---|---|
 | P43-01 | Versand eines eArztbriefes |
 
--Lieferung ermöglichen. Die Software muss den Versand einer eArztbrief
+-Lieferung ermöglichen.
+
+Die Software muss den Versand einer eArztbrief
 
 Alle in einer eArztbrief-Lieferung übermittelten Dateien müssen semantisch zu dem gleichen Patienten gehören. Die Software muss eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht PDF/A-Dokument einer eArztbrief-Lieferung mit einer qualifizierten, elektronischen Signatur zu versehen. Die Software muss die Signaturerstellung mittels der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (bspw. PIN-Eingabe und Komfortsignatur) unterstützen. VORGABEN AN DIE SIGNATUR P42-01 Erstellung einer qualifizierten, elektronischen Signatur Die Software muss es dem Anwender ermöglichen, den eArztbrief mit einer qualifizierten, elektronischen Signatur (QES) zu versehen.  Gemäß § 383 SGB V fordert der Gesetzgeber die Verwendung einer qualifizierten, elektronischen Signatur (QES), welche mit einem elektronischen Heilberufsausweis (eHBA) erzeugt worden ist, für die Übermittlung von elektronischen Briefen in der vertragsärztlichen Versorgung. Durch die Verwendung der QES wird eine rechtsverbindliche Unterschrift an das Dokument angefügt und somit eine eindeutige Identifikation des Senders ermöglicht. Durch die Verwendung des eHBA wird eine personenbezogene Identifizierung des Senders als Arzt bzw. Psychotherapeut ermöglicht. Akzeptanzkriterium: Die Software muss es dem Anwender ermöglichen, die qualifizierte, elektronische Signatur eines übermittelten eArztbriefes zu überprüfen Der Anwender muss den Absender eines eArztbriefes eindeutig identifizieren können, um die Authentizität der übermittelten Informationen sicherzustellen. Akzeptanzkriterium: Die Software muss dem Anwender eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht, die Gültigkeit der qualifizierten elektronischen Signatur des PDF/A -Dokumentes gemäß P41-01 mit Hilfe der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) VORGABEN FÜR DEN VERSAND **Begründung:**
 
@@ -350,9 +466,7 @@ Die Software ermöglicht nach Empfang eines eArztbriefes die automatische Übern
 
 ---
 
-5
-
-## GLOSSAR
+# 5 GLOSSAR
 
 |  |  |
 |---|---|
@@ -370,9 +484,7 @@ elektronischer Heilberufsausweis qualifizierte, elektronische Signatur
 
 ---
 
-6
-
-REFERENZIERTE DOKUMENTE
+6 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -387,8 +499,12 @@ REFERENZIERTE DOKUMENTE
 
 Dezernat Digitalisierung und IT
 
-Geschäftsbereich IT in der Versorgung  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+Geschäftsbereich IT in der Versorgung
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 elektronischer Briefe in der vertragsärztlichen Versorgung gemäß § 383 SGB V Basis der HL7 Clinical Document Architecture, Release 2, für das deutsche Gesundheitswesen 12.05.2006 1.2.276.0.76.3.1.13.7.5 Primärsystems zur Konnektorschnittstelle

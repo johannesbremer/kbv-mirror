@@ -171,7 +171,7 @@ Bitron GmbH Technologiesysteme
 
 APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
 
-Zolsoft GmbH
+Zollsoft GmbH
 
 PEGA Elektronik GmbH
 

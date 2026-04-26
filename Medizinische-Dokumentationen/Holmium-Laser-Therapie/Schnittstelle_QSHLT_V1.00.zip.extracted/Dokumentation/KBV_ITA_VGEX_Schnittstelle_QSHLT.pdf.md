@@ -30,27 +30,43 @@ Holmium-Laser-Therapie
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
-**DOKUMENTENHISTORIE 2**
+#### DOKUMENTENHISTORIE
 
-**INHALTSVERZEICHNIS 3**
+**2**
 
-**ABBILDUNGSVERZEICHNIS 5**
+#### INHALTSVERZEICHNIS
 
-**TABELLENVERZEICHNIS 6**
+**3**
 
-**XML-CODE VERZEICHNIS 7**
+#### ABBILDUNGSVERZEICHNIS
 
-**1.** **EINLEITUNG 8**
+**5**
+
+#### TABELLENVERZEICHNIS
+
+**6**
+
+#### XML-CODE VERZEICHNIS
+
+**7**
+
+**1.** **EINLEITUNG**
+
+**8**
 
 **1.1** **Zweck des Dokuments ...................................................................................................................8**
 
 **1.2** **Zielgruppen .....................................................................................................................................8**
 
-**2.** **DATEINAMEN 9**
+**2.** **DATEINAMEN**
 
-**3.** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE 10**
+**9**
+
+**3.** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
+
+**10**
 
 **3.1** **Kardinalität ................................................................................................................................... 10**
 
@@ -58,7 +74,9 @@ Holmium-Laser-Therapie
 
 **3.3** **Sonstige Symbole ....................................................................................................................... 11**
 
-**4.** **BESCHREIBUNG DER EHD-SCHNITTSTELLE 12**
+**4.** **BESCHREIBUNG DER EHD-SCHNITTSTELLE**
+
+**12**
 
 **4.1** **Element header ............................................................................................................................ 13**
 
@@ -68,16 +86,70 @@ Holmium-Laser-Therapie
 
 **4.3** **Element qshlt_dokumentation ................................................................................................... 17**
 
-4.3.1 anzahl_ersteingriffe ............................................................................................................. 19  4.3.2 anzahl_folgeeingriffe ........................................................................................................... 19  4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation ................................................................... 19  4.3.4 anzahl_ eingriffe_mit_relativer_op_indikation ..................................................................... 19  4.3.5 anzahl_prostatavolumen_0_24 ........................................................................................... 19  4.3.6 anzahl_prostatavolumen_25_49 ......................................................................................... 19  4.3.7 anzahl_prostatavolumen_50_69 ......................................................................................... 20  4.3.8 anzahl_prostatavolumen_70 ............................................................................................... 20  4.3.9 anzahl_harnstrahlmessung_0 ............................................................................................. 20
+4.3.1 anzahl_ersteingriffe ............................................................................................................. 19
+
+4.3.2 anzahl_folgeeingriffe ........................................................................................................... 19
+
+4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation ................................................................... 19
+
+4.3.4 anzahl_ eingriffe_mit_relativer_op_indikation ..................................................................... 19
+
+4.3.5 anzahl_prostatavolumen_0_24 ........................................................................................... 19
+
+4.3.6 anzahl_prostatavolumen_25_49 ......................................................................................... 19
+
+4.3.7 anzahl_prostatavolumen_50_69 ......................................................................................... 20
+
+4.3.8 anzahl_prostatavolumen_70 ............................................................................................... 20
+
+4.3.9 anzahl_harnstrahlmessung_0 ............................................................................................. 20
 
 
 ---
 
-4.3.10 anzahl_harnstrahlmessung_0_9 ...................................................................................... 20  4.3.11 anzahl_harnstrahlmessung_10_15.................................................................................. 20  4.3.12 anzahl_harnstrahlmessung_15 ........................................................................................ 20  4.3.13 anzahl_blasenverletzungen ............................................................................................. 20  4.3.14 anzahl_verletzung_harnleiterostien ................................................................................. 20  4.3.15 anzahl_einschwemmung ................................................................................................. 20  4.3.16 anzahl_andere_interoperative_komplikationen ............................................................... 21  4.3.17 anzahl_umstiege_turp ..................................................................................................... 21  4.3.18 anzahl_umstiege_konventionelle_op............................................................................... 21  4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion .................................. 21  4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion ..................................... 21  4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen .......................................... 21  4.3.22 anzahl_operationszeit_0_59 ............................................................................................ 21  4.3.23 anzahl_operationszeit_60_89 .......................................................................................... 21  4.3.24 anzahl_operationszeit_90 ................................................................................................ 21  4.3.25 anzahl_resektionsgewicht_0 ............................................................................................ 22  4.3.26 anzahl_resektionsgewicht_0_9 ........................................................................................ 22  4.3.27 anzahl_resektionsgewicht_10_19.................................................................................... 22  4.3.28 anzahl_resektionsgewicht_20_39.................................................................................... 22  4.3.29 anzahl_resektionsgewicht_40 .......................................................................................... 22  4.3.30 anzahl_spontanmiktion .................................................................................................... 22
+4.3.10 anzahl_harnstrahlmessung_0_9 ...................................................................................... 20
 
-**5.**
+4.3.11 anzahl_harnstrahlmessung_10_15.................................................................................. 20
 
-### REFERENZIERTE DOKUMENTE
+4.3.12 anzahl_harnstrahlmessung_15 ........................................................................................ 20
+
+4.3.13 anzahl_blasenverletzungen ............................................................................................. 20
+
+4.3.14 anzahl_verletzung_harnleiterostien ................................................................................. 20
+
+4.3.15 anzahl_einschwemmung ................................................................................................. 20
+
+4.3.16 anzahl_andere_interoperative_komplikationen ............................................................... 21
+
+4.3.17 anzahl_umstiege_turp ..................................................................................................... 21
+
+4.3.18 anzahl_umstiege_konventionelle_op............................................................................... 21
+
+4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion .................................. 21
+
+4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion ..................................... 21
+
+4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen .......................................... 21
+
+4.3.22 anzahl_operationszeit_0_59 ............................................................................................ 21
+
+4.3.23 anzahl_operationszeit_60_89 .......................................................................................... 21
+
+4.3.24 anzahl_operationszeit_90 ................................................................................................ 21
+
+4.3.25 anzahl_resektionsgewicht_0 ............................................................................................ 22
+
+4.3.26 anzahl_resektionsgewicht_0_9 ........................................................................................ 22
+
+4.3.27 anzahl_resektionsgewicht_10_19.................................................................................... 22
+
+4.3.28 anzahl_resektionsgewicht_20_39.................................................................................... 22
+
+4.3.29 anzahl_resektionsgewicht_40 .......................................................................................... 22
+
+4.3.30 anzahl_spontanmiktion .................................................................................................... 22
+
+**5.** **REFERENZIERTE DOKUMENTE**
 
 **23**
 
@@ -104,7 +176,7 @@ Abbildung 1 - Element ehd ................................ 12 Abbildung 2 - Elem
 
 ---
 
-**TABELLENVERZEICHNIS**
+#### TABELLENVERZEICHNIS
 
 **Tabelle 1 – Beschreibung der Kardinalitäten**
 
@@ -121,7 +193,7 @@ Abbildung 1 - Element ehd ................................ 12 Abbildung 2 - Elem
 
 ---
 
-**XML- CODE VERZEICHNIS**
+#### XML- CODE VERZEICHNIS
 
 **XML-Code 1 - ehd Beispiel .................................................................**
 
@@ -154,26 +226,30 @@ Abbildung 1 - Element ehd ................................ 12 Abbildung 2 - Elem
 
 ---
 
-**1. Einleitung**  Im Rahmen von QS-Vereinbarung Holmium-Laser-Therapie [1] wird jährlich eine Statistik in  der Arztpraxis erstellt und an die Datenannahmestelle versendet.
+# 1. Einleitung
+
+Im Rahmen von QS-Vereinbarung Holmium-Laser-Therapie [1] wird jährlich eine Statistik in  der Arztpraxis erstellt und an die Datenannahmestelle versendet.
 
 Die Schnittstelle QS Holmium-Laser-Therapie ermöglicht es einem Arztinformationssystem  (AIS) bzw. Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu über- tragen.
 
 Dieses Dokument beschreibt die Schnittstelle QS Holmium-Laser-Therapie. Die Schnittstelle  ist gemäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2].
 
-**1.1 Zweck des Dokuments**
+## 1.1 Zweck des Dokuments
 
 Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
 Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
-**1.2 Zielgruppen**
+## 1.2 Zielgruppen
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste- men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
 
 
 ---
 
-**2. Dateinamen**  Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
+# 2. Dateinamen
+
+Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 **qshlt** ... Datentyp der ehd-Schnittstelle
 
@@ -194,9 +270,11 @@ Beispiel:
 
 ---
 
-**3. Semantik der verwendeten Diagramm-Symbole**  Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+# 3. Semantik der verwendeten Diagramm-Symbole
 
-**3.1 Kardinalität**
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+
+## 3.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -208,7 +286,7 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1 – Beschreibung der Kardinalitäten**
 
-**3.2 Strukturelemente**
+## 3.2 Strukturelemente
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
@@ -221,10 +299,9 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
-
 ---
 
-**3.3 Sonstige Symbole**
+## 3.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -241,27 +318,57 @@ zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema de
 
 ---
 
-Holmium -Laser -Therapie 4. Beschreibung
+Holmium -Laser -Therapie
 
-## der ehd -Schnittstelle
+# 4. Beschreibung der ehd -Schnittstelle
 
-Die Schnittstelle „QS Holmium -Laser -Therapie“ basiert auf [KBV_ITA_VGEX_eHD] entspricht die XML- Struktur vom header genau den Vorgaben der EHD Bereich werden eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
+Die Schnittstelle „QS Holmium -Laser -Therapie“ basiert auf [KBV_ITA_VGEX_eHD]
 
-Für die XML- Dateien ist der Zeichensatz ISO -8859- 15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß- achten.
+entspricht die XML- Struktur vom header genau den Vorgaben der EHD
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement ***ehd*** den beiden Kindelementen ***header*** und ***body*** zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
+Bereich werden eigene Elemente definiert, die im Kapitel 4.2
+
+beschrieben werden.
+
+Für die XML- Dateien ist der Zeichensatz ISO -8859- 15 vorgeschrieben. Bei allen Elementen,
+
+die in diesem Dokument beschrieben werden, ist es wichtig die Groß- achten.
+
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement ***ehd***
+
+den beiden Kindelementen ***header*** und ***body*** zusammensetzt, wie es in Abbildung 1 darge-
+
+stellt ist.
 
 Abbildung 1 - Element ehd
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859- 15"?>  <ehd xmlns =" urn:ehd/001" xmlns: qshlt =" urn:ehd/ qshlt /001 " ehd_version=" 1.40 ">  <ehd: header  ...  </ehd: header <ehd: body>   ...  </ ehd: body >  </ ehd >
+<?xml version="1.0" encoding="ISO -8859- 15"?>
+
+<ehd xmlns =" urn:ehd/001" xmlns: qshlt =" urn:ehd/ qshlt /001 " ehd_version=" 1.40 ">
+
+<ehd: header ...
+
+</ehd: header
+
+<ehd: body>
+
+...
+
+</ ehd: body >
+
+</ ehd >
 
 XML-Code 1 - ehd Beispiel
 
-Das Attribut ehd_version gibt die Ver sion der EHD -Spezifikation [KBV_ITA_VGEX_eHD] auf der diese Schnittstelle aufbaut.
+Das Attribut ehd_version gibt die Ver sion der EHD -Spezifikation [KBV_ITA_VGEX_eHD]
 
-. Damit  -Richtlinie. Im Body
+auf der diese Schnittstelle aufbaut.
+
+. Damit
+
+-Richtlinie. Im Body
 
 /Kleinschreibung zu be-
 
@@ -272,29 +379,43 @@ an,
 
 ---
 
-**4.1 Element header**
+## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD].  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation  [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele- mente eingeschränkt:
+Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD].  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+
+[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-
+
+mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 
-o Im EX-Attribut steht eine eindeutige id (GUID)
+- o Im EX-Attribut steht eine eindeutige id (GUID)
 
-steht die lebenslange Arztnummer (LANR) o Im RT-Attribut
+- steht die lebenslange Arztnummer (LANR) - o Im RT-Attribut
 
 **Abbildung 2 - Element id**
 
--Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
+- -Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
 
-o im V-Attribut ist der Wert: „QSHLT“ fest vorgeschrieben.
+- o im V-Attribut ist der Wert: „QSHLT“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn  eine Korrekturlieferung erfolgt.
+-  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 
-o Das Element *document_relationship/document_relationship.type_cd* enthält im  V-Attribut den Wert „RPLC“
+- eine Korrekturlieferung erfolgt.
 
-*document_relationship/related_document/id* o Das Element enthält den Verweis  auf das *id*-Element des Ursprungsdokuments.
+- o Das Element *document_relationship/document_relationship.type_cd* enthält im
+
+- V-Attribut den Wert „RPLC“
+
+- *document_relationship/related_document/id*
+
+- o Das Element
+
+- enthält den Verweis
+
+- auf das *id*-Element des Ursprungsdokuments.
 
 **Abbildung 4 - Element document_relationship**
 
@@ -306,13 +427,19 @@ o Das Element *document_relationship/document_relationship.type_cd* enthält im 
 
 **XML-Code 2 - document_relationship**
 
--  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und  Betriebsstätte (BSNR).
+-  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und - Betriebsstätte (BSNR).
 
-*provider/person*o Die Vorgaben im -Element enthalten:
+- *provider/person*
 
-Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“) Arztnummer,
+- o Die Vorgaben im
 
-o Die Vorgaben im *provider/organization*-Element enthalten:
+- -Element enthalten:
+
+Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“)
+
+Arztnummer,
+
+- o Die Vorgaben im *provider/organization*-Element enthalten:
 
 Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
 
@@ -320,11 +447,15 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 -  Im *Interface*-Element werden die Schnittstellendaten eingegeben:
 
-o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT- Attribut enthält den Wert: „1.2.276.0.76.5.109“.
+- o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT-
 
--Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“ o *interface.nm* fest vorgeschrieben.
+- Attribut enthält den Wert: „1.2.276.0.76.5.109“.
 
-o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
+- -Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“
+
+- o *interface.nm* fest vorgeschrieben.
+
+- o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
 **Abbildung 6 - Element interface**
 
@@ -339,7 +470,17 @@ XML-Beispiel
 
 **XML-Code 3 - ehd-header**
 
-**4.1.1 Software (local_header)** Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  **software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-** **phox:Software**hat den Namespace  urn::sciphox-org/sciphox und hat das Kindelement **sci-** **phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
+### 4.1.1 Software (local_header)
+
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU
+
+**software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-**
+
+**phox:Software**hat den Namespace
+
+urn::sciphox-org/sciphox und hat das Kindelement **sci-**
+
+**phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
 
@@ -349,32 +490,54 @@ XML-Beispiel
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
-<local_header>  <sciphox:sciphox-ssu type="software" country="de" version="v1">  <sciphox:Software>    <sciphox:id EX="..." RT="KBV-Prüfnummer"/>    </sciphox:Software>    </sciphox:sciphox-ssu>  </local_header>
+<local_header>
+
+<sciphox:sciphox-ssu type="software" country="de" version="v1">
+
+<sciphox:Software>
+
+<sciphox:id EX="..." RT="KBV-Prüfnummer"/>
+
+</sciphox:Software>
+
+</sciphox:sciphox-ssu>
+
+</local_header>
 
 **XML-Code 4 - local_header (Software)**
 
-**4.1.1.1 Software-ID (id)**  *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+#### 4.1.1.1 Software-ID (id)
+
+*sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
+
+Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*
+
+a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
-EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/> <sciphox:id
+EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
+
+<sciphox:id
 
 **XML-Code 5 - id (Software)**
 
 
 ---
 
-**4.2 Element body**
+## 4.2 Element body
 
 Das **body**-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
 **Abbildung 8 - Element body**
 
-Das body-Element hat den benutzerdefinierten Typ **qshlt_body_typ**. Das Kindelement in die- sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
+Das body-Element hat den benutzerdefinierten Typ **qshlt_body_typ**. Das Kindelement in die-
 
-### dokumentation
+sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
 
-**4.3 Element qshlt_**
+## dokumentation
+
+## 4.3 Element qshlt_
 
 Das Element **qshlt_dokumentation**enthält  die QS Holmium-Laser-Therapie Jahresstatistik.
 
@@ -395,27 +558,19 @@ Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_ei
 |---|
 | <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/>     <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/>    </qshlt:qshlt_dokumentation> |
 
-**4.3.3**
-
-### anzahl_ eingriffe_mit_absoluter_op_indikation
+### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit absoluter OP-Indikation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.4**
-
-### anzahl_ eingriffe_mit_relativer_op_indikation
+### 4.3.4 anzahl_ eingriffe_mit_relativer_op_indikation
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit relativer OP-Indikation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.5**
-
-### anzahl_prostatavolumen_0_24
+### 4.3.5 anzahl_prostatavolumen_0_24
 
 Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  mit weniger als 25 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
-**4.3.6**
-
-### anzahl_prostatavolumen_25_49
+### 4.3.6 anzahl_prostatavolumen_25_49
 
 Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 25 und 49 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
@@ -423,103 +578,146 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 <anzahl_umstiege_konventionelle_op V="5"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> 4.3.1 Wert muss zwischen 0 und 99999 liegen. 4.3.2 Wert muss zwischen 0 und 99999 liegen.
 
-
 ---
 
-**4.3.7**  Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 50 und 69 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+### 4.3.7
 
-**4.3.8**  Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  mit 70 und mehr ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 50 und 69 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
-**4.3.9**  Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 0 ml/s wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.8
 
-**4.3.10**  Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit größer 0 bis 9,9 ml/s wird hier  im V-Attribut angegeben. Der Wert muss zwischen 0 und
+Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  mit 70 und mehr ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-**4.3.11**  Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 10 bis 15 ml/s wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.9
 
-**4.3.12**  Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit mehr als 15 ml/s wird hier im  V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 0 ml/s wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.13**  Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Bla- senverletzungen wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+### 4.3.10
 
-**4.3.14**  Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ver- letzung der Harnleiterostien wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit größer 0 bis 9,9 ml/s wird hier  im V-Attribut angegeben. Der Wert muss zwischen 0 und
 
-**4.3.15**
+### 4.3.11
+
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 10 bis 15 ml/s wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.12
+
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit mehr als 15 ml/s wird hier im  V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.13
+
+Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Bla- senverletzungen wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+
+### 4.3.14
+
+Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ver- letzung der Harnleiterostien wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+
+### 4.3.15
 
 Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ein- schwemmung wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
 
-**anzahl_prostatavolumen_50_69**
+### anzahl_prostatavolumen_50_69
 
-**anzahl_prostatavolumen_70**
+### anzahl_prostatavolumen_70
 
-**anzahl_harnstrahlmessung_0**
+### anzahl_harnstrahlmessung_0
 
-**anzahl_harnstrahlmessung_0_9**
+### anzahl_harnstrahlmessung_0_9
 
-**anzahl_harnstrahlmessung_10_**
+### anzahl_harnstrahlmessung_10_
 
-**anzahl_harnstrahlmessung_15**
+### anzahl_harnstrahlmessung_15
 
-**anzahl_blasenverletzungen**
+### anzahl_blasenverletzungen
 
-**anzahl_verletzung_harnleiterostien**
+### anzahl_verletzung_harnleiterostien
 
-**anzahl_einschwemmung**
+### anzahl_einschwemmung
 
-**15**
-
-99999 liegen.
+### 15 99999 liegen.
 
 
 ---
 
-**4.3.16 anzahl_andere_interoperative_komplikationen**  Die Anzahl (nonNegativeInteger) der anderen intraoperativ aufgetretenen Komplikationen wird  hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.16 anzahl_andere_interoperative_komplikationen
 
-**4.3.17 anzahl_umstiege_turp**  Die Anzahl (nonNegativeInteger) der Umsteige auf TURP wird hier im V-Attribut angegeben.  Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der anderen intraoperativ aufgetretenen Komplikationen wird  hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.18 anzahl_umstiege_konventionelle_op**   Die Anzahl (nonNegativeInteger) der Umsteige auf konventionelle Operation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.17 anzahl_umstiege_turp
 
-**4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion**  Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen ohne Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Umsteige auf TURP wird hier im V-Attribut angegeben.  Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion**  Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen mit Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.18 anzahl_umstiege_konventionelle_op
 
-**4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen**  Die Anzahl (nonNegativeInteger) der anderen interventionspflichtigen Fruehkomplikationen  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Umsteige auf konventionelle Operation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.22 anzahl_operationszeit_0_59**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  0 bis 59 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+### 4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion
 
-**4.3.23 anzahl_operationszeit_60_89**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  60 bis 89 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen ohne Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.24 anzahl_operationszeit_90**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) mit  90 Minuten und mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+### 4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion
 
+Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen mit Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
----
+### 4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen
 
-**4.3.25**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 0 g (Abbruch)  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der anderen interventionspflichtigen Fruehkomplikationen  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-**4.3.26**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer 0 g bis  9,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.22 anzahl_operationszeit_0_59
 
-**4.3.27**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer gleich  10 g bis 19,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  0 bis 59 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-**4.3.28**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer 20 g  bis 39,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.23 anzahl_operationszeit_60_89
 
-**4.3.29**  Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 40 g und  mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  60 bis 89 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-**4.3.30**  Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.24 anzahl_operationszeit_90
 
-**anzahl_resektionsgewicht_0**
-
-**anzahl_resektionsgewicht_0_9**
-
-**anzahl_resektionsgewicht_10_19**
-
-**anzahl_resektionsgewicht_20_39**
-
-**anzahl_resektionsgewicht_40**
-
-**anzahl_spontanmiktion**
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) mit  90 Minuten und mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
 
 ---
 
-**5. Referenzierte Dokumente**
+### 4.3.25
+
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 0 g (Abbruch)  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.26
+
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer 0 g bis  9,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.27
+
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer gleich  10 g bis 19,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+
+### 4.3.28
+
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer 20 g  bis 39,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.29
+
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 40 g und  mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### 4.3.30
+
+Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### anzahl_resektionsgewicht_0
+
+### anzahl_resektionsgewicht_0_9
+
+### anzahl_resektionsgewicht_10_19
+
+### anzahl_resektionsgewicht_20_39
+
+### anzahl_resektionsgewicht_40
+
+### anzahl_spontanmiktion
+
+
+---
+
+# 5. Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

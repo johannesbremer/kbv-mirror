@@ -31,7 +31,7 @@ metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksich
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
@@ -39,7 +39,13 @@ metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksich
 
 **1** **PRÄAMBEL ___________________________________________________________ 4**
 
-**1.1** **Qualitätssicherungsvereinbarung Kapselendoskopie** **...............................................................4**  **1.2** **Hinweise zum Verständnis dieses Dokuments ...........................................................................4**  1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4  1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
+**1.1** **Qualitätssicherungsvereinbarung Kapselendoskopie** **...............................................................4**
+
+**1.2** **Hinweise zum Verständnis dieses Dokuments ...........................................................................4**
+
+1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4
+
+1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
 
 **2** **BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5**
 
@@ -48,17 +54,59 @@ metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksich
 
 ---
 
-## Präambel
+# Präambel 1
 
-**1**  **1.1 Qualitätssicherungsvereinbarung Kapselendoskopie**
+## 1.1 Qualitätssicherungsvereinbarung Kapselendoskopie
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah- resstatistik an die zuständige Datenannahmestelle übermittelt.   **1.2 Hinweise zum Verständnis dieses Dokuments**
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah- resstatistik an die zuständige Datenannahmestelle übermittelt.
 
-Zum Verständnis der unten stehenden Plausibilitätstabelle helfen nachfolgende Hinweise.  Die Tabelle in Abschnitt 2 ist entsprechend §8 der QS-Vereinbarung QSKE [1] nummeriert.   **Beschreibung der Spalte „Art“ 1.2.1**  In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.  **M = Mussfeld (Pflichtfeld)**   Ein Mussfeld muss in einem Formular vorhanden sein.   **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**   Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.   Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung **Hinweis:**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.    **K = Kannfeld (optionales Feld)**   Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.   **k = bedingtes Kannfeld (bedingtes optionales Feld)**
+## 1.2 Hinweise zum Verständnis dieses Dokuments
+
+Zum Verständnis der unten stehenden Plausibilitätstabelle helfen nachfolgende Hinweise.
+
+Die Tabelle in Abschnitt 2 ist entsprechend §8 der QS-Vereinbarung QSKE [1] nummeriert.
+
+### Beschreibung der Spalte „Art“
+
+### 1.2.1
+
+In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung
+
+geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
+
+**M = Mussfeld (Pflichtfeld)**
+
+Ein Mussfeld muss in einem Formular vorhanden sein.
+
+**m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
+
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
+
+Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung
+
+**Hinweis:**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
+
+**K = Kannfeld (optionales Feld)**
+
+Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.
+
+**k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
 **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld  **nicht** erfüllt ist.    **Beschreibung der Begriffe „Fehler“ und „Warnung“ 1.2.2**  **Fehler**  Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.   **Warnung**  Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen werden.
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld  **nicht** erfüllt ist.
+
+### Beschreibung der Begriffe „Fehler“ und „Warnung“
+
+### 1.2.2
+
+**Fehler**
+
+Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werden.
+
+**Warnung**
+
+Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen werden.
 
 
 ---
@@ -142,7 +190,7 @@ Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter
 | 6.a | chungen | Ganzzahl 0-99999 | M | |
 | Anzahl unvollständiger Untersuchungen | | | | |
 | unvollständig aufgrund von Retention im Magen | | | | |
-| 6.b.I.01 bis zu unter 1 Stunde im Magen |  | Ganzzahl 0-99999 | M | |
+| 6.b.I.01 |  | Ganzzahl 0-99999 | M | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |  |  | Untersuchungen mit | Ganzzahl 0-99999 | M Fehler, wenn (Feld 4.a + Feld 4.b) ungleich (Feld 3.a + Feld 3.b) 4.b Untersuchungen ohne Ganzzahl 0-99999 M 5. Beurteilbarkeit des Bildmaterials    Anzahl Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit Fehler, wenn (Feld 5.a + Feld 5.b.I + Feld 5.b.II) kleiner als (Feld 3.a + Feld 3.b) |
 |  | (Feld 5.a + Feld 5.b.I + Feld 5.b.II) größer als (Feld 3.a + Feld 3.b) |  |  | |
@@ -155,18 +203,18 @@ Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter
 |  | | | | |
 |  |  |  |  | 5.a nicht eingeschränkter Beurteil-  Ganzzahl 0-99999 M    Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- 5.b.I  Ganzzahl 0-99999 M 5.b.II  …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) |
 
-Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich) ……  …wegen technischer Probleme    Anzahl vollständiger Untersuchungen  Anzahl vollständiger Untersu- geben)  (nur einen Hauptgrund an-
+Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich) ……  …wegen technischer Probleme    Anzahl vollständiger Untersuchungen  Anzahl vollständiger Untersu- geben)  bis zu unter 1 Stunde im Magen  (nur einen Hauptgrund an-
 
 ---
 
 |  |  | Datenformat |  |  |
 |---|---|---|---|---|
-| 6.b.I.02 von 1 bis unter 2 Stunden im | | | | |
+| 6.b.I.02 | | | | |
 | Magen |  |  |  |  |
 | Fehler, wenn |  |  |  |  |
 |  | Feld 6.b.IV) | ungleich | (Feld 3.a + Feld 3.b) |  |
 |  | | | | |
-|  | 6.b.I.03 mehr als 2 Stunden im Magen |  |  | Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen |
+|  | 6.b.I.03 |  |  | Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen |
 |  | Ganzzahl 0-99999 | M | unvollständig aufgrund von Divertikeln | |
 |  | | | | |
 |  | Ganzzahl 0-99999 | M | unvollständig aufgrund anderer Ursachen | 6.b.IV  Anzahl unvollständiger Untersu- chungen aufgrund anderer Ursa- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 |
@@ -180,7 +228,7 @@ Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich)
 |  | Ganzzahl 0-99999 | M |  | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + |
 |  |  |  |  | |
 |  | | | | |
-| Feld 6.b.IV) | ungleich (Feld 3.a + Feld 3.b)  6.b.I.03 mehr als 2 Stunden im Magen  Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen 6.b.II  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M               unvollständig aufgrund von Divertikeln 6.b.III  Anzahl unvollständiger Untersu- chungen aufgrund von Divertikeln Ganzzahl 0-99999 M               unvollständig aufgrund anderer Ursachen 6.b.IV  Anzahl unvollständiger Untersu- chungen aufgrund anderer Ursa- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 chung empfohlen aufgrund von Ganzzahl 0-99999 M | | | |
+| Feld 6.b.IV) | ungleich (Feld 3.a + Feld 3.b)  6.b.I.03  Ganzzahl 0-99999 M               unvollständig aufgrund von Stenosen 6.b.II  Anzahl unvollständiger Untersu- Ganzzahl 0-99999 M               unvollständig aufgrund von Divertikeln 6.b.III  Anzahl unvollständiger Untersu- chungen aufgrund von Divertikeln Ganzzahl 0-99999 M               unvollständig aufgrund anderer Ursachen 6.b.IV  Anzahl unvollständiger Untersu- chungen aufgrund anderer Ursa- Ganzzahl 0-99999 M 7. Empfehlung zur Wiederholungsuntersuchung 7 chung empfohlen aufgrund von Ganzzahl 0-99999 M | | | |
 |  |  |  |  | |
 |  | | | | |
 |  |  | 6.b.II + Feld 6.b.III + Feld 6.b.IV) |  | |
@@ -192,8 +240,8 @@ Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich)
 |  | | | | |
 |  |  |  |  | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
-| 6.b.I.02 von 1 bis unter 2 Stunden im | Magen | Ganzzahl 0-99999 | M | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) |
-| 6.b.I.03 mehr als 2 Stunden im Magen |  | Ganzzahl 0-99999 | M | |
+| 6.b.I.02 | Magen | Ganzzahl 0-99999 | M | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) |
+| 6.b.I.03 |  | Ganzzahl 0-99999 | M | |
 | unvollständig aufgrund von Stenosen | | | | |
 | 6.b.II  Anzahl | unvollständiger Untersu- | Ganzzahl 0-99999 | M | |
 | unvollständig aufgrund von Divertikeln | | | | |
@@ -203,13 +251,11 @@ Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich)
 | 7. Empfehlung zur Wiederholungsuntersuchung | | | | |
 | 7 | chung empfohlen aufgrund von | Ganzzahl 0-99999 | M | Warnung, wenn Feld 7 größer als (Feld 3.a + Feld 3.b - Feld 5.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV)   Fehler, wenn Feld 7 größer als (Feld 3.a + Feld 3.b) |
 
-chungen aufgrund von Stenosen  Anzahl Wiederholungsuntersu- Einschränkungen gemäß den Nummern 5 und 6
+von 1 bis unter 2 Stunden im  mehr als 2 Stunden im Magen chungen aufgrund von Stenosen  Anzahl Wiederholungsuntersu- Einschränkungen gemäß den Nummern 5 und 6
 
 ---
 
-**3**
-
-## Referenzierte Dokumente
+# 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

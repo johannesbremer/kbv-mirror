@@ -7,7 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 14. FEBRUAR 2022  VERSION: 1.06  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# EMPFEHLUNG Z UR ERWEITERUNG DES  LDT2
+# EMPFEHLUNG Z UR ERWEITERUNG DES
+
+# LDT2
 
 ## [KBV_ITA_VGEX_EMPFEHLUNG_BEI_LDT2]
 
@@ -59,21 +61,21 @@ Feldkennungen 8617, 8618, 8620 und 8624 GUID in der Satzart 8218
 
 ---
 
-1
-
-## ÜBERSICHT
+# 1 ÜBERSICHT
 
 Trotz des etablierten LDT 3 Standards zur Übermittlung von Laborinformationen wird an  noch der LDT 2 Standard eingesetzt.
 
 Zur Unterstützung einer weiterhin funktionierenden Übermittlung  empfiehlt die KBV den Nutzern die in Kapitel 2 beschriebenen Erweiterung des LDT 2.
 
-Diese Empfehlung ist nicht als Weiterentwicklung des LDT 2 2
+Diese Empfehlung ist nicht als Weiterentwicklung des LDT 2
 
-## ERWEITERUNG DES LDT2-DATENSATZES
+# 2 ERWEITERUNG DES LDT2-DATENSATZES
 
-**2.1** **ERWEITERUNG DER SATZART 8218**
+## 2.1 ERWEITERUNG DER SATZART 8218
 
-Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldkennung zur Übermittlung der  Daten bzgl. des Muster 10C oder OEDG aufgenommen werden:
+Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldkennung zur Übermittlung der
+
+Daten bzgl. des Muster 10C oder OEDG aufgenommen werden:
 
 | FK | VORKOMMEN 1 2 3 4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
@@ -106,7 +108,9 @@ vorhanden sein.  Wenn Inhalt von FK 8626 = 2, muss entweder FK 8627 oder FK 4111
 | 8624 | 1 | Covid-Beauftragung | k | Entweder darf FK 8617 oder FK 8624 Entweder darf FK 8626 oder FK 8624 |
 | 7330 | 1 | Telefonnummer des Ge- | K |  |
 
-Für die Feldkennung **4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist folgende  Regel zusätzlich anzuwenden:
+Für die Feldkennung **4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist folgende
+
+Regel zusätzlich anzuwenden:
 
 | FK | VORKOMMEN 1 2 3 4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
@@ -143,13 +147,31 @@ mer des Getes- teten grund gebracht in / CWA 3 = Test nach § 3 TestV Ausbruchsg
 | 8626 | Rechtsgrund- | 1 | num | 1 = TestV | Muster OEDG |
 | 8627 | KV-Sonderziffer | 1 | alnum |  | Muster OEDG |
 
-Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen- den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind
+Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen- den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind - 3116
 
-3116  3108  2002  4104  4106  4109  4131  4132  8403
+- 3108
 
-**2.2** **ERWEITERUNG DER SATZART 8201**
+- 2002
 
-sollte die folgende Feldkennung Nach der Feldkennung **8311**ergänzt werden:
+- 4104
+
+- 4106
+
+- 4109
+
+- 4131
+
+- 4132
+
+- 8403
+
+## 2.2 ERWEITERUNG DER SATZART 8201
+
+sollte die folgende Feldkennung
+
+Nach der Feldkennung **8311**
+
+ergänzt werden:
 
 | FK | VORKOMMEN 1 2 3 4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
@@ -194,7 +216,7 @@ entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen glei
 |  | 8626 | Rechtsgrundlage |  | | |
 |  | 8627 | KV-Sonderziffer |  | | |
 
-**2.3** **ERWEITERUNG DER SATZART 8203**
+## 2.3 ERWEITERUNG DER SATZART 8203
 
 Nach der Feldkennung
 
@@ -250,4 +272,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-bracht in richtung richtung tenzeichen ÖGD der Testung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+bracht in richtung richtung tenzeichen ÖGD der Testung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

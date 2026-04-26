@@ -24,7 +24,7 @@ www.kbv.de
 
 ---
 
-### Änderungshistorie
+#### Änderungshistorie
 
 **VERSION**
 
@@ -116,9 +116,17 @@ In den folgenden Abschnitten sind die Anforderungen zusammengestellt, die die So
 
 2 VERBINDLICHKEIT VON ANFORDERUNGEN
 
-Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um  die Verbindlichkeit der Anforderungen anzugeben.
+Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um
 
-**MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt  werden muss. Es gibt keinen Ermessensspielraum. **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist. **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
+die Verbindlichkeit der Anforderungen anzugeben.
+
+**MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt
+
+werden muss. Es gibt keinen Ermessensspielraum. **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese
+
+Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist. **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige
+
+Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
 
 5 10
 
@@ -140,11 +148,23 @@ Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] v
 
 **AIF0001**
 
-Das Software-System **MUSS** beim erstmaligen Starten einen initialen Abruf der  Abrechnungsinformationen vom 116117 Terminservice gemäß [TSSAIF] durchführen. Dieser initiale  Abruf **MUSS** automatisiert erfolgen, d. h. ohne Aktion durch den Anwender. *Das Software-System* ***MUSS*** *den Zeitpunkt des erfolgreichen Abrufs speichern und in geeigneter Form anzeigen.*
+Das Software-System **MUSS** beim erstmaligen Starten einen initialen Abruf der
+
+Abrechnungsinformationen vom 116117 Terminservice gemäß [TSSAIF] durchführen. Dieser initiale  Abruf **MUSS** automatisiert erfolgen, d. h. ohne Aktion durch den Anwender. *Das Software-System* ***MUSS***
+
+*den Zeitpunkt des erfolgreichen Abrufs speichern und in geeigneter Form anzeigen.*
 
 **AIF0002**
 
-Das Software-System **MUSS** nach dem initialen Abruf kontinuierlich Abrechnungsinformationen vom  116117 Terminservice gemäß [TSSAIF] automatisiert abrufen. Dabei **MUSS** die Zeitdauer für das  Abrufintervall vom Software-System gesetzt werden und **DARF** 60 Minuten **NICHT** unterschreiten. *Das*  *Software-System* ***MUSS**** den Zeitpunkt des erfolgreichen Abrufs speichern und in geeigneter Form*  *anzeigen.*
+Das Software-System **MUSS** nach dem initialen Abruf kontinuierlich Abrechnungsinformationen vom
+
+116117 Terminservice gemäß [TSSAIF] automatisiert abrufen. Dabei **MUSS** die Zeitdauer für das
+
+Abrufintervall vom Software-System gesetzt werden und **DARF** 60 Minuten **NICHT** unterschreiten. *Das*
+
+*Software-System* ***MUSS**** den Zeitpunkt des erfolgreichen Abrufs speichern und in geeigneter Form*
+
+*anzeigen.*
 
 Anmerkung:
 
@@ -152,7 +172,11 @@ Es wird empfohlen, die Abrufzeiten auf die Tageszeiten zu beschränken, zu denen
 
 **AIF0003**
 
-Zusätzlich zum automatisierten Abruf **MUSS** das Software-System dem Anwender die Möglichkeit  geben, die kontinuierliche Abfrage *den Abruf* von Abrechnungsinformationen vom 116117 Terminservice  gemäß [TSSAIF] manuell auszuführen
+Zusätzlich zum automatisierten Abruf **MUSS** das Software-System dem Anwender die Möglichkeit
+
+geben, die kontinuierliche Abfrage *den Abruf* von Abrechnungsinformationen vom 116117 Terminservice
+
+gemäß [TSSAIF] manuell auszuführen
 
 Anmerkung:
 
@@ -160,11 +184,15 @@ Der manuelle Abruf ist unabhängig davon, wann der letzte automatisierte Abruf a
 
 **AIF0004**
 
-Das Software-System **MUSS** die für den Abruf erforderlichen FHIR-Requests gemäß [TSSAIF] erzeugen  können.
+Das Software-System **MUSS** die für den Abruf erforderlichen FHIR-Requests gemäß [TSSAIF] erzeugen
+
+können.
 
 **AIF0005**
 
-Das Software-System **KANN** die Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR) aus den  Stammdaten der Praxis automatisch in den Parameter "bsnr" des jeweiligen FHIR-Requests gemäß  [TSSAIF] übernehmen.
+Das Software-System **KANN** die Betriebs- (BSNR) oder Nebenbetriebsstättennummer (NBSNR) aus den
+
+Stammdaten der Praxis automatisch in den Parameter "bsnr" des jeweiligen FHIR-Requests gemäß  [TSSAIF] übernehmen.
 
 Anmerkung:
 
@@ -177,25 +205,25 @@ Enthält der FHIR-Request keinen Parameter "bsnr", so enthält der Response die 
 
 Der Parameter "bsnr" sollte nur die BSNR bzw. NBSNR der Praxis enthalten, für die  die Abrechnungsinformationen tatsächlich abgerufen werden sollen.
 
-### AIF0006
+#### AIF0006
 
-Das Software-System
+Das Software-System **MUSS** beim kontinuierlichen Abruf
 
-### MUSS
+automatisch setzen, *sofern der Abruf aller geänderten Daten für den kontinuierlichen Abruf implementiert*
 
-beim kontinuierlichen Abruf automatisch setzen, *sofern der Abruf aller geänderten Daten für den kontinuierlichen Abruf implementiert*  *ist*
+*ist*
 
 Anmerkung:
 
-Die Angabe ist notwendig, da sonst der Response alle geänderten Daten enthält, die nicht aufgrund  datenschutzrechtlicher Vorgaben anonymisiert wurden.  Als Zeitpunkt für den Parameter "recorded" kann der Zeitpunkt des letzten erfolgreichen Abrufs verwendet  werden. Zur Ermittlung des Zeitpunkts des letzten erfolgreichen Abrufs aus den letzten Suchergebnissen  siehe [Implementation Guide]
+Die Angabe ist notwendig, da sonst der Response alle geänderten Daten enthält, die nicht aufgrund  datenschutzrechtlicher Vorgaben anonymisiert wurden.  Als Zeitpunkt für den Parameter "recorded" kann der Zeitpunkt des letzten erfolgreichen Abrufs verwendet  werden. Zur Ermittlung des Zeitpunkts des letzten erfolgreichen Abrufs aus den letzten Suchergebnissen
 
-### AIF0007
+siehe [Implementation Guide]
 
-Das Software-System
+#### AIF0007
 
-### MUSS
+Das Software-System **MUSS** das Ergebnis des Datenabrufs (Response) auf Erfolg / Misserfolg prüfen
 
-das Ergebnis des Datenabrufs (Response) auf Erfolg / Misserfolg prüfen  und für den Anwender differenziert abbilden:
+und für den Anwender differenziert abbilden:
 
 **EREIGNIS**
 
@@ -217,20 +245,36 @@ den Zeitpunkt für den Parameter "recorded"
 
 **ABBILDUNG IM PVS**
 
-Die abrechnungsrelevanten Informationen **MÜSSEN** systemseitig für die  Übernahme in die Abrechnung bereitgestellt werden.
+Die abrechnungsrelevanten Informationen **MÜSSEN** systemseitig für die
 
-Da keine (neuen) Daten vorliegen, **MÜSSEN** systemseitig die zuletzt  erfolgreich abgerufenen Informationen weiterhin für die Übernahme in die  Abrechnung bereitgestellt werden. Bei manuellem Abruf **MUSS** dem Anwender ein Hinweis angezeigt werden,  dass keine neuen Informationen vorliegen.
+Übernahme in die Abrechnung bereitgestellt werden.
 
-Dem Anwender **MUSS** der im Operation Outcome angegebene Fehler in einer  entsprechenden Fehlermeldung angezeigt werden. Die Fehlermeldung **MUSS**  mindestens die folgenden Hinweise bzw. Informationen enthalten: Datenabruf ist fehlgeschlagen aufgrund eines technischen Fehlers Anzeige Fehlercode und Fehlertext der Anwender sollte seinen Softwarehersteller bzw. Dienstleister vor Ort  informieren, wenn der Fehler wiederholt auftritt
+Da keine (neuen) Daten vorliegen, **MÜSSEN** systemseitig die zuletzt
+
+erfolgreich abgerufenen Informationen weiterhin für die Übernahme in die  Abrechnung bereitgestellt werden. Bei manuellem Abruf **MUSS** dem Anwender ein Hinweis angezeigt werden,
+
+dass keine neuen Informationen vorliegen.
+
+Dem Anwender **MUSS** der im Operation Outcome angegebene Fehler in einer
+
+entsprechenden Fehlermeldung angezeigt werden. Die Fehlermeldung **MUSS**
+
+mindestens die folgenden Hinweise bzw. Informationen enthalten: Datenabruf ist fehlgeschlagen aufgrund eines technischen Fehlers Anzeige Fehlercode und Fehlertext der Anwender sollte seinen Softwarehersteller bzw. Dienstleister vor Ort  informieren, wenn der Fehler wiederholt auftritt
 
 
 ---
 
-werden. Der Anwender sollte dann die Möglichkeit haben, durch Klick auf die Statusanzeige ausführliche  Informationen, zum Beispiel den Zeitpunkt des letzten erfolgreichen Abrufs, zu erhalten. Anforderungen für die Darstellung der Abfrageergebnisse *empfangenen Daten* sowie für die Übernahme  der Abrechnungsinformationen in die Abrechnung sind nicht Bestandteil dieser Spezifikation. Diese  werden von der KBV vorgegeben.
+werden. Der Anwender sollte dann die Möglichkeit haben, durch Klick auf die Statusanzeige ausführliche  Informationen, zum Beispiel den Zeitpunkt des letzten erfolgreichen Abrufs, zu erhalten. Anforderungen für die Darstellung der Abfrageergebnisse *empfangenen Daten* sowie für die Übernahme
+
+der Abrechnungsinformationen in die Abrechnung sind nicht Bestandteil dieser Spezifikation. Diese  werden von der KBV vorgegeben.
 
 **AIF0008**
 
-Das Software-System **MUSS** den Zeitpunkt des letzten erfolgreichen Abrufs speichern und den Anwender  in geeigneter Form informieren, falls länger als 24 Stunden kein Abruf erfolgreich war. Die Meldung  **MUSS** mindestens die folgenden Hinweise bzw. Informationen enthalten: Information, dass seit über 24 Stunden kein Abruf erfolgreich war den Zeitpunkt des letzten erfolgreichen Abrufs die Aufforderung, sich mit seinem Software-Haus bzw. Dienstleister vor Ort in Verbindung zu setzen.
+Das Software-System **MUSS** den Zeitpunkt des letzten erfolgreichen Abrufs speichern und den Anwender
+
+in geeigneter Form informieren, falls länger als 24 Stunden kein Abruf erfolgreich war. Die Meldung  **MUSS** mindestens die folgenden Hinweise bzw. Informationen enthalten:
+
+Information, dass seit über 24 Stunden kein Abruf erfolgreich war den Zeitpunkt des letzten erfolgreichen Abrufs die Aufforderung, sich mit seinem Software-Haus bzw. Dienstleister vor Ort in Verbindung zu setzen.
 
 Anmerkungen:
 
@@ -243,4 +287,10 @@ Es wird empfohlen, statt der Anzeige von Dialogfenstern, die den Anwender in sei
 
 5 REFERENZEN
 
-[TSSAIF]: Technische Anlage zur Spezifikation 116117 Terminservice - Abrechnungsinformation; https:// partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen FHIR-Profile zu Abrechnungsinformationen: [https://simplifier.net/Terminsynchronisation-TVS/](https://simplifier.net/Terminsynchronisation-TVS/)  [Implementation Guide]: Implementation Guide zu TSS-Abrechnungsinformation; [https://simplifier.net/](https://simplifier.net/) guide/implementierungsleitfaden-terminsynchronisation-tvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-abrechnungsinformationen-pvs 10 10
+[TSSAIF]: Technische Anlage zur Spezifikation 116117 Terminservice - Abrechnungsinformation; https://
+
+partnerportal.kv-telematik.de/display/TSSSPEC/116117+Terminservice+-+Schnittstellen [TSS_Auth]: Spezifikation 116117 Terminservice Authentisierung; [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/) display/TSSSPEC/116117+Terminservice+-+Schnittstellen FHIR-Profile zu Abrechnungsinformationen: [https://simplifier.net/Terminsynchronisation-TVS/](https://simplifier.net/Terminsynchronisation-TVS/)
+
+[Implementation Guide]: Implementation Guide zu TSS-Abrechnungsinformation; [https://simplifier.net/](https://simplifier.net/)
+
+guide/implementierungsleitfaden-terminsynchronisation-tvs?version=current [https://simplifier.net/guide/](https://simplifier.net/guide/) implementierungsleitfaden-abrechnungsinformationen-pvs 10 10

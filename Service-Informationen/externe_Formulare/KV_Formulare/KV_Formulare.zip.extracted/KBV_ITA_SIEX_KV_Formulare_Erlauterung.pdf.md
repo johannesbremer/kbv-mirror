@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026 VERSION 1.01 DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ERLÄUTERUNG DER KV
-
-**-FORMULARE**
+# ERLÄUTERUNG DER KV -FORMULARE
 
 ## [KBV_ITA_SIEX_ERLAUTERUNG_KV_FORMULARE]
 
@@ -31,31 +29,37 @@ regionalen Formulars f ür die KV Bayerns
 
 ## INHALT
 
-**ALLGEMEIN 41**
+**ALLGEMEIN**
 
-**2** **ÜBERSICHT DER BEREITGESTELLTEN FORMULARE** **5**
+**4**
+
+**1**
+
+**2** **ÜBERSICHT DER BEREITGESTELLTEN FORMULARE**
+
+**5**
 
 
 ---
 
-1
+# 1 ALLGEMEIN
 
-## ALLGEMEIN
+Die in diesem Verzeichnis bereitgestellten regionalen KV-Formulare können von den Softwareherstellern
 
-Die in diesem Verzeichnis bereitgestellten regionalen KV-Formulare können von den Softwareherstellern  freiwillig den Praxen der jeweiligen KV-Region zur Nutzung zur Verfügung gestellt werden.
+freiwillig den Praxen der jeweiligen KV-Region zur Nutzung zur Verfügung gestellt werden.
 
 Wenn Softwarehersteller ihren Kunden die jeweiligen Formulare in ihren Softwareprodukten zur Verfügung  stellen, sollte ebenfalls eine automatische Bedruckung der Formularfelder von den Softwareherstellern  unterstützt werden. Bei den Bedruckungsregelungen kann sich an den bestehenden Regelungen der  Bedruckung der vertragsärztlichen Formulare orientiert werden.
 
--Formularen von Bitte beachten sie, dass neben den in diesem Verzeichnis bereitgestellten regionalen KV den KVen weitere regionale Formulare auf den Webseiten zur Verfügung stehen können.
+-Formularen von
+
+Bitte beachten sie, dass neben den in diesem Verzeichnis bereitgestellten regionalen KV den KVen weitere regionale Formulare auf den Webseiten zur Verfügung stehen können.
 
 Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 
 
 ---
 
-2
-
-## ÜBERSICHT DER BEREITGESTELLTEN FORMULARE
+# 2 ÜBERSICHT DER BEREITGESTELLTEN FORMULARE
 
 | KV | FORMULAR |
 |---|---|

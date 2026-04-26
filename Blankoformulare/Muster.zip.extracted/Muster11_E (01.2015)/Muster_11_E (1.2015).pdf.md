@@ -1,4 +1,6 @@
-**Name, Vorname des VersichertenKostenträgerkennung**
+**Name, Vorname des Versicherten**
+
+**Kostenträgerkennung**
 
 **Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.***
 
@@ -30,7 +32,9 @@
 |---|---|---|---|---|
 |  | **befund** |  | **befund** |  |
 
-**Labor-** **Arzt- oder** **befund** **Krankenhausbericht**
+**Labor-** **Arzt- oder**
+
+**befund** **Krankenhausbericht**
 
 **Sonstiges**
 

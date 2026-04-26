@@ -1,6 +1,8 @@
 **Ausfertigung Versicherte*r**
 
-## PTV 1Antrag auf Psychotherapie
+## PTV 1
+
+## Antrag auf Psychotherapie
 
 Ausstellungsdatum
 
@@ -14,13 +16,19 @@ Tiefenpsychologisch fundierte Psychotherapie
 
 Verhaltenstherapie
 
-Wurden bei Ihnen innerhalb der letzten 12 Monate  mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt?
+Wurden bei Ihnen innerhalb der letzten 12 Monate
 
-und ggf. amja, und zwar am
+mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt?
+
+und ggf. am
+
+ja, und zwar am
 
 nein ***(Wenn nein, bitte Folgendes angeben)***
 
-Wurde vor dem jetzigen Antrag in den letzten 2 Jahren  bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
+Wurde vor dem jetzigen Antrag in den letzten 2 Jahren
+
+bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
 
 ja
 
@@ -28,11 +36,17 @@ ja
 
 nein
 
-Waren Sie in den letzten 12 Monaten aufgrund einer psychischen Erkrankung  in stationärer oder rehabilitativer Behandlung?
+Waren Sie in den letzten 12 Monaten aufgrund einer psychischen Erkrankung
+
+in stationärer oder rehabilitativer Behandlung?
 
 nein
 
-**Ich beantrage die Feststellung der Leistungspflicht**  **fürals**
+**Ich beantrage die Feststellung der Leistungspflicht**
+
+**für**
+
+**als**
 
 Erstantrag
 
@@ -46,13 +60,25 @@ Einzeltherapie
 
 Gruppentherapie
 
-Kombinationsbehandlung  aus Einzel- und Gruppentherapie
+Kombinationsbehandlung
+
+aus Einzel- und Gruppentherapie
 
 Bei mir ist ggf. ein anderer Kostenträger zuständig  (z. B. Unfallversicherung).
 
-Unterschrift Versicherte*r,   ggf. der gesetzlichen Vertreter*innen
+Unterschrift Versicherte*r,
 
-Um sachgerecht über Ihren Antrag entscheiden zu können,  benötigt die Krankenkasse von Ihnen einige wichtige  Informationen. Ihre Mitwirkung ist in den Paragraphen 60 bis 65  Erstes Buch Sozialgesetzbuch (SGB I) ausdrücklich vorgesehen.  Bitte füllen Sie daher alle Felder sorgfältig aus, da bei fehlender  Mitwirkung die Leistung ganz oder teilweise versagt  werden kann (§ 66 SGB I). Ihr*e Therapeut*in und Ihre  Krankenkasse unterstützen Sie gerne bei der Antragstellung.
+ggf. der gesetzlichen Vertreter*innen
+
+Um sachgerecht über Ihren Antrag entscheiden zu können,
+
+benötigt die Krankenkasse von Ihnen einige wichtige
+
+Informationen. Ihre Mitwirkung ist in den Paragraphen 60 bis 65  Erstes Buch Sozialgesetzbuch (SGB I) ausdrücklich vorgesehen.  Bitte füllen Sie daher alle Felder sorgfältig aus, da bei fehlender  Mitwirkung die Leistung ganz oder teilweise versagt
+
+werden kann (§ 66 SGB I). Ihr*e Therapeut*in und Ihre
+
+Krankenkasse unterstützen Sie gerne bei der Antragstellung.
 
 In bestimmten Fällen übernimmt nicht die  Krankenkasse, sondern ein anderer Kostenträger die  Psychotherapie (z. B. bei Folgen eines Unfalls).
 
@@ -66,8 +92,12 @@ Name, Vorname des Versicherten
 
 geb. am
 
-Kostenträgerkennung Versicherten-Nr.Status
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr. Arzt-Nr.Datum
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.
+
+Datum
 
 Krankenkasse bzw. Kostenträger

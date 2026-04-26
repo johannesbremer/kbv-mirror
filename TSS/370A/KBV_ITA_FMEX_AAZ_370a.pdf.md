@@ -1,6 +1,8 @@
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**
+
+**IT IN DER ARZTPRAXIS**
 
 **15. APRIL 2026**
 
@@ -21,13 +23,15 @@
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-## SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS. 2 SGB V 1
+## SCHNITTSTELLE FÜR DRITTE GEMÄß § 370A ABS. 2 SGB V
 
-## ALLGEMEINE ANGABEN
+# 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe
 
-**1.1** **ANTRAGSSTELLER**
+dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+
+## 1.1 ANTRAGSSTELLER
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -47,12 +51,14 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragssteller abweicht] [x] [x] [x]/ Version: 1.3 / 15. April 2026
+/ Version: 1.3 / 15. April 2026
+
+Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragssteller abweicht] [x] [x] [x]
 
 
 ---
 
-**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
 Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
@@ -63,7 +69,7 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
-**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
+## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -114,7 +120,7 @@ gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurde
 
 [ ]
 
-**2.2.2**
+### 2.2.2
 
 Folgende optionale Erweiterungen wurden zur Funktion
 
@@ -133,7 +139,7 @@ Folgende optionale Erweiterungen wurden zur Funktion
 
 [ ]
 
-**Behandlungstermin**
+### Behandlungstermin
 
 [ ]
 
@@ -145,9 +151,7 @@ Videosprechstundenterminslots abrufen (Video Consultation Slot Search) suchradiu
 
 ---
 
-3
-
-## ANLAGE ZU DEN KONTAKTDATEN
+# 3 ANLAGE ZU DEN KONTAKTDATEN
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
@@ -180,11 +184,19 @@ Ansprechpartner(in): Produktmanagement
 
 ---
 
-4
+# 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
+- I. Zertifizierungsrahmen und Gebühren
 
-I. Zertifizierungsrahmen und Gebühren  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden Dokument [Gebührenverordnung für die Nutzung von Informationen zur Vermittlung von Behandlungsterminen und telemedizinischen Angeboten durch Dritte (5) Weitere Gebühren und Auslagen insbesondere im Zusammenhang mit der produktiven Nutzung  der Schnittstelle ergeben sich ebenfalls aus der o.g. Gebührenverordnung Antragssteller zu begleichen.
+- (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
+
+- (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.
+
+- (3) Die Laufzeit der Zulassung beträgt 36 Monate.
+
+- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden Dokument [Gebührenverordnung für die Nutzung von Informationen zur Vermittlung von Behandlungsterminen und telemedizinischen Angeboten durch Dritte
+
+- (5) Weitere Gebühren und Auslagen insbesondere im Zusammenhang mit der produktiven Nutzung  der Schnittstelle ergeben sich ebenfalls aus der o.g. Gebührenverordnung Antragssteller zu begleichen.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
 |---|---|---|---|
@@ -192,51 +204,63 @@ I. Zertifizierungsrahmen und Gebühren  (1) Die Zertifizierung wird im Rahmen ei
 |  | Neu-, Re- und einschließlich der automatischen | Ergebnisprüfung | 1.222,10 |
 |  | Neu-, Re- und einschließlich der | Sichtprüfung | 681,04 |
 
-II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung
+- II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung
 
-(1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
+- (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vor wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vor
 
-(3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
+- wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 
-(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+- (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen - der Zulassung führen.
 
-III. Update und weitere Vereinbarungen
+- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-(1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
+- III. Update und weitere Vereinbarungen
 
-(2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
+- (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
-und sind im   ] enthalten.
+- (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-und sind vom
+- und sind im
 
-genommen
+- ] enthalten.
+
+- und sind vom
+
+-
+
+-
+
+- genommen
+
+-
 
 zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
 
 ---
 
-(3)  Zertifizierung der Umsetzung der Vorgaben zur Nutzung der Schnittstelle gemäß §370a Abs. 2 SGB  V durch Nutzer der Schnittstelle VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V zukünftige Aktualisierungen dieser Richtlinie.
+- (3)  Zertifizierung der Umsetzung der Vorgaben zur Nutzung der Schnittstelle gemäß §370a Abs. 2 SGB  V durch Nutzer der Schnittstelle VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V
 
-(4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
+- zukünftige Aktualisierungen dieser Richtlinie.
 
-(5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+- (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-(6)  Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
+- (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-IV. Sonstiges
+- (6)  Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+- IV. Sonstiges
 
-(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
+- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
-(3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
+- (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
+
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 Ort, Datum
 
@@ -246,16 +270,24 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
 
-Richtlinie zur
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de - Richtlinie zur
 
-], sowie
+- ], sowie
 
-in diesem
+- in diesem
 
-die KBV
+- die KBV
+
+-
+
+-
+
+-
 
 Unterschrift
 
-Name in Druckbuchstaben - und
+Name in Druckbuchstaben -
+
+- - und

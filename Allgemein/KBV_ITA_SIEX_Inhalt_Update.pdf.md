@@ -16,7 +16,7 @@ INHALTSVERZEICHNIS ZUM UPDATE
 | EXT_ITA_AHEX_PTV10 | Information für Patient*innen und Patient*en zur ambulanten |  |
 | KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung | Anforderungskatalog zur Formularbedruckung |  |
 
-Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 II/2026 VOM 13. FEBRUAR 2026
+Rezidivprophylaxe Rezidivprophylaxe zum vereinfachten Import im csv-Format den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 # II/2026 VOM 13. FEBRUAR 2026
 
 
 ---
@@ -703,52 +703,62 @@ Als eindeutiges Identifikationsmerkmal dient der Referenztitel. Er setzt sich au
 
 ---
 
-1. Organisation (Eigentümer) des Dokuments:
+- 1. Organisation (Eigentümer) des Dokuments:
 
-a. Kassenärztliche Bundesvereinigung
+- a. Kassenärztliche Bundesvereinigung - b. Externe
 
-b. Externe
+- 2. Thema: *IT in der Arztpraxis*
 
-2. Thema: *IT in der Arztpraxis*
+- 3. Kennzeichnung der Dokumentenart und Klassifizierung: - a. Richtlinie:
 
-3. Kennzeichnung der Dokumentenart und Klassifizierung:
+-
 
-a. Richtlinie:
+- b. Vorgabe:
 
-b. Vorgabe:
+- c. Anhang:
 
-c. Anhang:
+- d. Formular:
 
-d. Formular:
+- e. Service Informationen
 
-e. Service Informationen
-
-4. Kurzform des Dokumententitels
+- 4. Kurzform des Dokumententitels
 
 Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
-## HINWEISE ZUM DATENSCHUTZ
+# HINWEISE ZUM DATENSCHUTZ
 
-Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten (VSD_5.2.0_Testfaelle_VX.X.zip) unter [https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](http://www.kbv.de/html/datenschutz.php)
+Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten
 
-KBV
+(VSD_5.2.0_Testfaelle_VX.X.zip) unter [https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](http://www.kbv.de/html/datenschutz.php) -
 
-EXT
+- KBV
 
-ITA
+- EXT
 
-RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
+- ITA
 
-VGEX (verbindliche technische oder fachliche Dokumentationen)
+-
 
-AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
+- RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
 
-FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
+- VGEX (verbindliche technische oder fachliche Dokumentationen)
 
-SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
+- AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
 
-- (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
+- FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
 
-. Weitere Informationen finden Sie unter
+- SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
+
+- (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT) -
+
+. Weitere Informationen finden Sie unter -
+
+-
+
+-
+
+-
+
+-
 
 mmt keine Verantwortung für

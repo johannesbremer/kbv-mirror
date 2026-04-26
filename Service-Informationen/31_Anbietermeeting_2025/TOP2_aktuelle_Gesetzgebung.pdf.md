@@ -2,17 +2,23 @@
 
 31. ANBIETERMEETING  AM 18. SEPTEMBER 2025
 
-### ROBERT SCHNEIDER LEITER STABSBEREICH STRATEGIE, POLITIK UND KOMMUNIKATION
+### ROBERT SCHNEIDER
+
+### LEITER STABSBEREICH STRATEGIE, POLITIK UND KOMMUNIKATION
 
 
 ---
 
-# KOALITIONSVERTRAG KBV-POSITIONSPAPIERE AKTUELLE BUNDESGESETZGEBUNG UND AUSBLICK
+# - KOALITIONSVERTRAG
+
+# - KBV-POSITIONSPAPIERE
+
+# - AKTUELLE BUNDESGESETZGEBUNG UND AUSBLICK
 
 
 ---
 
-**KOALITIONSVERTRAG 21. WP**
+- **KOALITIONSVERTRAG 21. WP**
 
 
 ---
@@ -42,14 +48,12 @@
 
 ---
 
-**KOALITIONSVERTRAG**
+- **KOALITIONSVERTRAG**
 
 
 ---
 
-# Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages
-
-**KOALITIONSVERTRAG**
+## Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages - **KOALITIONSVERTRAG**
 
 ## und verbessern die
 
@@ -58,18 +62,20 @@
 
 ---
 
-# Was steckt drin im Koalitionsvertrag?
+## Was steckt drin im Koalitionsvertrag?
 
-**AMBULANTE VERSORGUNG**
+- **AMBULANTE VERSORGUNG**
 
-## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine  schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier  Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
+## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine  schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier
+
+## Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
 
 
 ---
 
-# Was steckt drin im Koalitionsvertrag?
+## Was steckt drin im Koalitionsvertrag?
 
-**AMBULANTE VERSORGUNG**
+- **AMBULANTE VERSORGUNG**
 
 ## „Noch 2025 rollen wir die elektronische Patientenakte stufenweise aus, von einer
 
@@ -79,7 +85,9 @@
 
 *Ärzten. Doppeldokumentationen vermeiden wir.“*
 
-## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und  Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
+## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und
+
+## Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
 
 ## im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
 
@@ -88,45 +96,45 @@
 
 ---
 
-# Gesundheits-Etat
+## Gesundheits-Etat
 
-## Keine nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende  Refinanzierung der Gesundheitsversorgung von Bürgergeld
+## - Keine nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
 
-## Keine vollständige Erstattung der vorgestreckten Corona
+## - Refinanzierung der Gesundheitsversorgung von Bürgergeld
 
-## ABER: Teilbeträge auf Darlehensbasis
+## - Keine vollständige Erstattung der vorgestreckten Corona
 
-## Wie im Koa-Vertrag angekündigt:
+## - ABER: Teilbeträge auf Darlehensbasis
 
-## Rückzahlung wann und mit was?
+## - Wie im Koa-Vertrag angekündigt:
 
-## Sozialstaatsreform -Kosten
+## - Rückzahlung wann und mit was?
 
-## Einrichtung einer Kommission
+## - Sozialstaatsreform - -Kosten
 
-**HAUSHALT**
+## - Einrichtung einer Kommission - **HAUSHALT**
 
--Beziehenden durch den Bund
-
-
----
-
-# KBV-POSITIONEN
+- -Beziehenden durch den Bund
 
 
 ---
 
-# „Ambulant passgenau versorgt“: Kernpunkte
+# - KBV-POSITIONEN
 
-## Steuerung durch Hausärzte, Kinder und Jugendärzte sowie  Gynäkologen
 
-## Ausnahmen von der Steuerung für Fachärzte für Augenheilkunde,  ärztliche und psychotherapeutische Psychotherapeuten
+---
 
-## Alternativ: Steuerung durch Zuweisung über die 116117 mit  medizinischer Ersteinschätzung
+## „Ambulant passgenau versorgt“: Kernpunkte
 
-## Eigenbeteiligung bei ungesteuertem Direktzugang
+## - Steuerung durch Hausärzte, Kinder und Jugendärzte sowie  Gynäkologen
 
-Entbudgetierung für mit- und weiterbehandelnde Fachärzte
+## - Ausnahmen von der Steuerung für Fachärzte für Augenheilkunde,  ärztliche und psychotherapeutische Psychotherapeuten
+
+## - Alternativ: Steuerung durch Zuweisung über die 116117 mit  medizinischer Ersteinschätzung
+
+## - Eigenbeteiligung bei ungesteuertem Direktzugang
+
+- Entbudgetierung für mit- und weiterbehandelnde Fachärzte
 
 |  | ↗ | **STEUERUNG** |  |
 |---|---|---|---|
@@ -137,19 +145,23 @@ Veröffentlicht am 26.05.
 
 ---
 
-# Not- und Akutversorgung außerhalb der Praxisöffnungszeiten
+## Not- und Akutversorgung außerhalb der Praxisöffnungszeiten
 
-## Wichtig: verpflichtender Einsatz standardisierter Ersteinschätzungssysteme; Patienten ohne  dringlichen Bedarf werden in die Regelversorgung vermittelt.
+## - Wichtig: verpflichtender Einsatz standardisierter Ersteinschätzungssysteme; Patienten ohne
 
-## als „digitale Multi-Channel-Versorgungsplattform“; Weiterentwicklung und Ausbau der 116117 mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
+## - dringlichen Bedarf werden in die Regelversorgung vermittelt.
 
-## Für die ambulante Akut
+## - als „digitale Multi-Channel-Versorgungsplattform“;
 
-- und Notdienstversorgung bedarf es einer angemessenen  **Vorhaltefinanzierung, inkl. digitaler Zugänge**
+## - Weiterentwicklung und Ausbau der 116117 mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
-## Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
+## - Für die ambulante Akut- und Notdienstversorgung bedarf es einer angemessenen
 
-**NOTFALLVERSORGUNG**
+- **Vorhaltefinanzierung, inkl. digitaler Zugänge**
+
+## - Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
+
+- **NOTFALLVERSORGUNG**
 
 
 ---
@@ -169,54 +181,62 @@ Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
 
 ---
 
-# Digital und nah
-
-**DIGITAL UND NAH**
+## Digital und nah - **DIGITAL UND NAH**
 
 ## Hier online abrufbar
 
 
 ---
 
-# PraxisWissen Künstliche Intelligenz: Hinweise zum Einsatz in Praxen
-
-**KI-LEITFADEN**
+## PraxisWissen Künstliche Intelligenz: Hinweise zum Einsatz in Praxen - **KI-LEITFADEN**
 
 ## ANFORDERUNGEN BEI DER  IMPLEMENTIERUNG UND DEM BETRIEB
 
-## Das PraxisWissen der KBV gibt einen Überblick zu den wichtigsten  Regelungen und Anforderungen beim Einsatz von KI -basierten
+## Das PraxisWissen der KBV gibt einen Überblick zu den wichtigsten
+
+## Regelungen und Anforderungen beim Einsatz von KI-basierten
 
 ## Lösungen in Praxen.
 
-### Veröffentlicht am 26.05.
+#### Veröffentlicht am 26.05.
 
 
 ---
 
-# AUSBLICK
+# - AUSBLICK
 
 
 ---
 
-# „Politische Zeitschiene“ 2025
-
-**-2026**
+## „Politische Zeitschiene“ 2025-2026
 
 **Landtagswahl**
 
 **Baden-Württemberg &** **Rheinland-Pfalz**
 
-Parteitag CSU 12.-13. Dezember 2025 (München)
+Parteitag CSU
 
-Bundesparteitag  Bündnis 90/Die Grünen  28.-30. November 2025 (Hannover)
+12.-13. Dezember 2025 (München)
+
+Bundesparteitag  Bündnis 90/Die Grünen
+
+28.-30. November 2025 (Hannover)
 
 **Landtagswahl**
 
-**Sachsen-Anhalt &**  **Berlin** **Landtagswahl**
+**Sachsen-Anhalt &**  **Berlin**
 
-**Mecklenburg-** **Vorpommern**Bundesparteitag CDU 20.-21. Februar 2026 (Stuttgart)
+**Landtagswahl**
 
-### Gesetz zur Reform der  Notfallversorgung / Rettungsdienst
+**Mecklenburg-** **Vorpommern**
+
+Bundesparteitag CDU
+
+20.-21. Februar 2026 (Stuttgart)
+
+### Gesetz zur Reform der
+
+### Notfallversorgung / Rettungsdienst
 
 ### Primärarztsystem
 
@@ -230,11 +250,17 @@ Bundesparteitag  Bündnis 90/Die Grünen  28.-30. November 2025 (Hannover)
 
 ### Gesetz zur Befugniserweiterung und  Entbürokratisierung in der Pflege
 
-### Entbürokratisierung Stabilisierung GKV -Finanzen
+### Entbürokratisierung
+
+### Stabilisierung GKV-Finanzen
 
 **Q3 2025**
 
-### JulSepAug
+### Jul
+
+### Sep
+
+### Aug
 
 **Q4 2025**
 
@@ -243,7 +269,13 @@ Bundesparteitag  Bündnis 90/Die Grünen  28.-30. November 2025 (Hannover)
 
 ### Okt
 
-**Q1 2026Q2 2026Q3 2026Q4 2026**
+**Q1 2026**
+
+**Q2 2026**
+
+**Q3 2026**
+
+**Q4 2026**
 
 17
 
@@ -259,4 +291,4 @@ BEREICH POLITIKDas Bild kann nicht angezeigt werden.
 
 ---
 
-# WIR SIND FÜR SIE NAH.
+## WIR SIND FÜR SIE NAH.

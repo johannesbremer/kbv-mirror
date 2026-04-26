@@ -1,14 +1,18 @@
-- Anlage 2*
+- - Anlage 2*
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des indikationsübergreifenden, allgemeinen Datensatzes
 
-# nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
+# - nur gültig in Verbindung mit der jeweiligen  indikationsbezogenen Dokumentation
 
 **der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20 oder 22* der**
 
 **Grundlage:**
+
+-
 
 # DMP-A-RL -
 
@@ -20,11 +24,11 @@
 
 **gültig ab 01.10.2022**
 
-### Version:
+**Version:** **7.0**
 
-**7.0**
+**2.2.02.2023**
 
-**2.2.02.2023**  **01.10.2023**
+**01.10.2023**
 
 
 ---
@@ -43,9 +47,11 @@
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
 | 9 | 2 | TT.MM.JJJJ | Pflichtfeld; das Datum muss gleich oder kleiner zum |
 
-1 Gemeint ist die Lebenslange Arztnummer 2 Dies entspricht dem „origination_dttm“
+1 Gemeint ist die Lebenslange Arztnummer
 
-### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
+2 Dies entspricht dem „origination_dttm“
+
+#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
 
 ### Anlage 2
 
@@ -98,6 +104,44 @@ Diabetes mellitus / KHK / AVK / / Chronische Herzinsuffizienz / Asthma bronchial
 | 21 | (weggefallen) |  |  | |
 | 22 | 6 | TT.MM.JJJJ | Pflichtfeld Das Datum muss gleich oder kleiner dem Datum in der |  |
 
-3  **<document_type_cd>** Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8 und 9 in den  DMP-Datenstellen ist der Eintrag im Element  des übermittelten Dokumentationsdatensatzes maßgeblich.  4 chronische Herzinsuffizienz ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten. Eine Angabe zu „ 5 Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen  6Dies ist das „service_tmr“
+3
 
-Informationsangebote der Krankenkasse Training  Datum der Erstellung Erfassungsstelle sein chronischer Rückenschmerz“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten. 7 Eine Angabe zu „ 8 ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten. Eine Angabe zu „Depression“  ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.  9 Eine Angabe zu „Osteoporose“  10 ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten. Eine Angabe zu „Rheumatoide Arthritis“
+**<document_type_cd>**
+
+Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8 und 9 in den
+
+DMP-Datenstellen ist der Eintrag im Element
+
+des übermittelten Dokumentationsdatensatzes maßgeblich.
+
+4
+
+chronische Herzinsuffizienz ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten.
+
+Eine Angabe zu „
+
+5 Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen
+
+6Dies ist das „service_tmr“
+
+chronischer Rückenschmerz“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten.
+
+7 Eine Angabe zu „
+
+8
+
+ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.
+
+Eine Angabe zu „Depression“
+
+ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.
+
+9 Eine Angabe zu „Osteoporose“
+
+10
+
+ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten.
+
+Eine Angabe zu „Rheumatoide Arthritis“
+
+Informationsangebote der Krankenkasse Training  Datum der Erstellung Erfassungsstelle sein

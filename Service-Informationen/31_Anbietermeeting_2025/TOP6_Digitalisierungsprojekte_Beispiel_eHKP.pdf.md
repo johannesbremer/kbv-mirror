@@ -1,15 +1,19 @@
-# DIGITALISIERUNGSPROJEKTE – BEISPIEL  EHKP
+# DIGITALISIERUNGSPROJEKTE – BEISPIEL
 
-31. ANBIETERMEETING DER KBV 18. SEPTEMBER 2025
+# EHKP 31. ANBIETERMEETING DER KBV
 
-### LISA ESCHNER SENIOR-REFERENTIN
+18. SEPTEMBER 2025
+
+### LISA ESCHNER
+
+### SENIOR-REFERENTIN
 
 
 ---
 
-# eHKP – elektronische Verordnung häuslicher Krankenpflege
+## eHKP – elektronische Verordnung häuslicher Krankenpflege
 
-**VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
+- **VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
 
 # SOLL
 
@@ -18,63 +22,79 @@
 
 ---
 
-# LESSONS LEARNED  DIGITALISIERUNGSPROJEKT
+# - LESSONS LEARNED
 
-## BETEILIGTE VORGEHENSWEISE ERGEBNISSE
+# - DIGITALISIERUNGSPROJEKT
 
-# DATENSÄTZE
+## - BETEILIGTE
 
-## ÄRZTLICHE VERORDNUNG
+## - VORGEHENSWEISE
 
-# WEITERES VORGEHEN
+## - ERGEBNISSE
 
-## TECHNISCHE ANLAGE ZEITPLAN GEMATIK
+# - DATENSÄTZE
 
-# FRÜHERE DIGITALISIERUNGSPROJEKTE EHKP
+## - ÄRZTLICHE VERORDNUNG
 
+# - WEITERES VORGEHEN
 
----
+## - TECHNISCHE ANLAGE
 
-# Lessons Learned frühere Digitalisierungsprojekte (eAU, eRezept
+## - ZEITPLAN GEMATIK
 
-## Abstimmung und Festlegung des Prozesses mit allen Akteuren
+# - FRÜHERE DIGITALISIERUNGSPROJEKTE
 
-## Vollständige Digitalisierung trägt zur Akzeptanz in den Praxen bei
-
-## Nutzerfreundlichkeit des digitalisierten Prozesses
-
-## Ausreichend lange Erprobung in Pilotregionen
-
-## Keine Aufgabenumverteilung zu Lasten der Praxen insbesondere von Aufgaben des Patienten
-
-**LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
+# - EHKP
 
 
 ---
 
-# Beteiligte
+## Lessons Learned frühere Digitalisierungsprojekte (eAU, eRezept
 
-## KBV Kassenärztliche Vereinigungen / KV WL
+## - Abstimmung und Festlegung des Prozesses mit allen Akteuren
 
-## GKV-SV
+## - Vollständige Digitalisierung
 
-## Pflegeverbände
+## - trägt zur Akzeptanz in den Praxen bei
 
-## DGUV
+## - Nutzerfreundlichkeit des digitalisierten Prozesses
 
-## PKV
+## - Ausreichend lange Erprobung in Pilotregionen
 
-## DKG
+## - Keine Aufgabenumverteilung zu Lasten der Praxen
 
-## gematik
+## - insbesondere von Aufgaben des Patienten
 
-**DIGITALISIERUNGSPROJEKT EHKP**
+- **LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
+
+
+---
+
+## Beteiligte
+
+## - KBV
+
+## - Kassenärztliche Vereinigungen / KV WL
+
+## - GKV-SV
+
+## - Pflegeverbände
+
+## - DGUV
+
+## - PKV
+
+## - DKG
+
+## - gematik
+
+- **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## › KBV: Vorbereitende Prozessanalyse
 
-## › Abstimmung mit GKV -SV, Pflegeverbände,
+## › Abstimmung mit GKV-SV, Pflegeverbände,
 
-## › Abstimmungsrunde gematik › Geeinte Darstellung Ist -Prozess
+## › Abstimmungsrunde gematik › Geeinte Darstellung Ist-Prozess
 
 ## › Einigung über digitalen Soll-Prozess
 
@@ -83,17 +103,29 @@
 
 ---
 
-# Informationsmodell & Stammdatei
+## Informationsmodell & Stammdatei
 
-## Informationsmodell (GKV
+## Informationsmodell (GKV-SV / KBV)
 
-**-SV / KBV)**
+## - Festlegung der Daten, die in einer ärztlichen Verordnung erfasst werden können
 
-## Festlegung der Daten, die in einer ärztlichen Verordnung erfasst werden können Umfangreicher als Muster 12 Verbesserung für Anwender Erfassung der benötigten Informationen weniger Korrekturbedarfe
+## - Umfangreicher als Muster 12
 
-## Stammdatei – vorbehaltlich der gesetzlichen Grundlage Abbildung der fachlichen Plausibilitäten Abbildung von Informationen zu verordneten Leistungen Quelle: HKP-Richtlinie
+## - Verbesserung für Anwender
 
-**DIGITALISIERUNGSPROJEKT EHKP**
+## - Erfassung der benötigten Informationen
+
+## - weniger Korrekturbedarfe
+
+## Stammdatei – vorbehaltlich der gesetzlichen Grundlage
+
+## - Abbildung der fachlichen Plausibilitäten
+
+## - Abbildung von Informationen zu verordneten Leistungen
+
+## - Quelle: HKP-Richtlinie
+
+- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
@@ -103,9 +135,27 @@
 | **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |  |
 | 31. ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |
 
-## Nicht abgebildet Verfügbarkeitsanfrage bei  Pflegediensten Einlösen der Verordnung / Zuordnung  zum Pflegedienst Rückgabe der Verordnung durch  Pflegedienst Sonderfall Kostenerstattungsprinzip Beratung durch Kostenträger Leistungserbringung inkl.  Erstellen der Leistungsnachweise  Erstellen der Abrechnungsunterlagen Einreichen bei Kostenträger
+## Nicht abgebildet
 
-Digitaler Soll- Prozess (vereinfacht)**DIGITALISIERUNGSPROJEKT EHKP**
+## - Verfügbarkeitsanfrage bei  Pflegediensten
+
+## - Einlösen der Verordnung / Zuordnung  zum Pflegedienst
+
+## - Rückgabe der Verordnung durch  Pflegedienst
+
+## - Sonderfall Kostenerstattungsprinzip
+
+## - Beratung durch Kostenträger
+
+## - Leistungserbringung inkl.
+
+## - Erstellen der Leistungsnachweise
+
+## - Erstellen der Abrechnungsunterlagen
+
+## - Einreichen bei Kostenträger
+
+Digitaler Soll- Prozess (vereinfacht)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
@@ -115,20 +165,26 @@ Digitaler Soll- Prozess (vereinfacht)**DIGITALISIERUNGSPROJEKT EHKP**
 |  | **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |  |
 | 31. | ANBIETERMEETING DER | KBV AM | 18. | SEPTEMBER 2025 |
 
-Statusmodell (vorläufig)**DIGITALISIERUNGSPROJEKT EHKP**
+Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
 
-# Datensätze
+## Datensätze
 
-## Ärztliche Verordnung Verordnung Korrekturanfrage Korrektur Verordnung
+## - Ärztliche Verordnung
 
-## Blanko Verordnung der Pflege
+## - Verordnung
 
-## Entscheidungsdatensatz des Kostenträgers
+## - Korrekturanfrage
 
-Datensatz des Pflegedienstes zur Leistungserbringung
+## - Korrektur Verordnung
+
+## - Blanko Verordnung der Pflege
+
+## - Entscheidungsdatensatz des Kostenträgers
+
+- Datensatz des Pflegedienstes zur Leistungserbringung
 
 | ↗ | **DATENSÄTZE** |  |
 |---|---|---|
@@ -137,29 +193,38 @@ Datensatz des Pflegedienstes zur Leistungserbringung
 
 ---
 
-# Verordnung
+## Verordnung
 
-## Ärztliche Verordnung Diagnosen Einschränkungen Verordnungszeitraum Leistungen der häuslichen Krankenpflege -
+## - Ärztliche Verordnung
 
-## Informationen je Leistung gemäß HKP -Richtlinie
+## - Diagnosen
+
+## - Einschränkungen
+
+## - Verordnungszeitraum
+
+## - Leistungen der häuslichen Krankenpflege
+
+- Informationen je Leistung gemäß HKP-Richtlinie
+
 - Angabe von Häufigkeit und ggf. Verordnungsdauer, oder Angabe „Blankoverordnung“
 
-## Ärztliche Informationen für die Pflege – noch in Abstimmung
+## - Ärztliche Informationen für die Pflege – noch in Abstimmung
 
-## Blanko Verordnung des Pflegedienstes Angaben des Pflegedienstes zu Dauer und Häufigkeit
+## - Blanko Verordnung des Pflegedienstes
 
-**DATENSÄTZE**
+## - Angaben des Pflegedienstes zu Dauer und Häufigkeit - **DATENSÄTZE**
 
 
 ---
 
-# Technische Anlage
+## Technische Anlage
 
-## Aktueller Stand Abstimmung der Anforderungen mit Prozessbeteiligten
+## - Aktueller Stand
 
-## Veröffentlichung im Einvernehmen mit GKV -SV
+## - Abstimmung der Anforderungen mit Prozessbeteiligten
 
-Kommentierung geplant
+## - Veröffentlichung im Einvernehmen mit GKV-SV - Kommentierung geplant
 
 | ↗ | **WEITERES** | **VORGEHEN** |  |
 |---|---|---|---|
@@ -179,4 +244,4 @@ WEITERES VORGEHEN
 
 ---
 
-# WIR SIND FÜR SIE NAH.
+## WIR SIND FÜR SIE NAH.

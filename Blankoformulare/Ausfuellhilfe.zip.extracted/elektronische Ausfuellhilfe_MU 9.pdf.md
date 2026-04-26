@@ -7,7 +7,9 @@
 |  | DEZERNAT ÄRZTLICHE UND ABTEILUNG VERANLASSTE LEISTUNGEN 8. AUGUST 2025 |
 |---|---|
 
-# MUSTER 9  BESCHEINIGUNG EINER  FEHLGEBURT, FRÜHGEBURT ODER
+# MUSTER 9  BESCHEINIGUNG EINER
+
+# FEHLGEBURT, FRÜHGEBURT ODER
 
 # BEHINDERUNG DES KINDES
 
@@ -20,32 +22,44 @@
 
 ---
 
-### ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
+## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN - **1. Fehlgeburt am**
 
-**1. Fehlgeburt am**  Bei einer verhaltenen Fehlgeburt (Missed Hier ist das Datum der Fehlgeburt im Format TTMMJJ einzutragen. Abortion) ist das Datum, an dem der Fötus vom Uterus getrennt wurde, etwa durch einen operativen oder  medikamentösen Eingriff oder einen spontanen Abgang, anzugeben.
+Bei einer verhaltenen Fehlgeburt (Missed
 
-**2. Angabe der Schwangerschaftswoche**
+Hier ist das Datum der Fehlgeburt im Format TTMMJJ einzutragen. Abortion) ist das Datum, an dem der Fötus vom Uterus getrennt wurde, etwa durch einen operativen oder  medikamentösen Eingriff oder einen spontanen Abgang, anzugeben.
+
+- **2. Angabe der Schwangerschaftswoche**
 
 Hier ist anzugeben, in welcher Schwangerschaftswoche sich die Versicherte zum Zeitpunkt der Fehlgeburt  mindestens befand. Die Berechnung der Schwangerschaftswoche erfolgt post menstruationem, also ab dem  ersten Tag der letzten Regelblutung.
 
-**3. Frühgeburt am**
+- **3. Frühgeburt am**
 
 Hier ist das Geburtsdatum des Kindes im Format TTMMJJ einzutragen.
 
-**4. Geburtsgewicht unter 2.500 Gramm**
+- **4. Geburtsgewicht unter 2.500 Gramm**
 
 Wenn das Geburtsgewicht weniger als 2.500 Gramm beträgt, ist das durch Ankreuzen des betreffenden  Kästchens zu bestätigen.
 
-**5.**  **Geburtsgewicht ab 2.500 Gramm, jedoch wesentlich erweiterter Pflegebedarf**
+- **5.**
+
+-
+
+- **Geburtsgewicht ab 2.500 Gramm, jedoch wesentlich erweiterter Pflegebedarf**
 
 Wenn das Geburtsgewicht mindestens 2.500 Gramm beträgt, jedoch ein wesentlich erweiterter Pflegebedarf  des Kindes wegen nicht voll ausgebildeter Reifezeichen (an Rumpf, Haut, Fettpolstern, Nägeln, Haaren,  äußeren Geschlechtsorganen) oder wegen verfrühter Beendigung der Schwangerschaft besteht, liegt  ebenfalls eine Frühgeburt im Sinne des Mutterschutzgesetzes und des § 24i SGB V (Mutterschaftsgeld) vor.  Dies ist durch Ankreuzen des betreffenden Kästchens zu kennzeichnen.
 
-**6.**  **Bei dem Kind liegt eine Behinderung vor**
+- **6.**
+
+-
+
+- **Bei dem Kind liegt eine Behinderung vor**
 
 Von einer Behinderung im Sinne des § 2 Abs. 1 Satz 1 SGB IX ist auszugehen, wenn bei dem Kind  körperliche, seelische, geistige oder Sinnesbeeinträchtigungen vorliegen, die es an der gleichberechtigten  Teilhabe an der Gesellschaft mit hoher Wahrscheinlichkeit länger als sechs Monate hindern können. Eine  solche Beeinträchtigung liegt vor, wenn der Körper- und Gesundheitszustand von dem für das Lebensalter  typischen Zustand abweicht. In diesem Fall ist das betreffende Kästchen anzukreuzen.
 
 Die ärztliche Feststellung muss gemäß § 3 Abs. 2 Nr. 3 MuSchG innerhalb von acht Wochen nach der  Entbindung erfolgen, damit sich die Schutzfrist nach der Entbindung und somit die Zahlung von  Mutterschaftsgeld von acht auf zwölf Wochen verlängert.
 
-### Mehr Informationen
+#### Mehr Informationen
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF -02-[https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage) vordruckvereinbarung/02_Vordruckvereinbarung.pdf
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF -02-
+
+[https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage) vordruckvereinbarung/02_Vordruckvereinbarung.pdf

@@ -191,7 +191,9 @@ CompuGroup Medical Deutschland AG 1
 
 Duria eG
 
-**a** medatixx GmbH & Co. KG
+**a**
+
+medatixx GmbH & Co. KG
 
 PEGA Elektronik GmbH
 

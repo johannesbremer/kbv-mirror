@@ -1,10 +1,16 @@
-Krankenkasse bzw. KostenträgerZuzah- lungs-
+Krankenkasse bzw. Kostenträger
 
-frei[ ] Zuzah- Name, Vorname des Versicherten lungs- pflicht[ ]
+Zuzah- lungs-
+
+frei[ ] Zuzah- Name, Vorname des Versicherten
+
+lungs- pflicht[ ]
 
 Unfall- folgen[ ]
 
-Kostenträgerkennung Versicherten-Nr. BVG [ ] Betriebsstätten-Nr. Arzt-Nr.
+Kostenträgerkennung Versicherten-Nr.
+
+BVG [ ] Betriebsstätten-Nr. Arzt-Nr.
 
 Behandlungsplan_162.indd 1
 
@@ -14,11 +20,19 @@ Status
 
 Datum
 
-Geschlecht weiblich männlich[ ][ ]
+Geschlecht weiblich
 
-### Förder- und Behandlungsplan
+männlich
 
-zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in **interdisziplinär tätigen heilpädagogischen Fördereinrichtungen (RV IHF)**
+[ ]
+
+[ ]
+
+#### Förder- und Behandlungsplan
+
+zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in
+
+**interdisziplinär tätigen heilpädagogischen Fördereinrichtungen (RV IHF)**
 
 Diagnose / Befund:
 
@@ -34,11 +48,15 @@ Ergotherapie[ ]
 
 Voraussichtliche Behandlungsdauer von:
 
-**Der Förder- und Behandlungsplan wurde im Benehmen mit der interdisziplinär tätigen heilpädagogischen** **Fördereinrichtung sowie unter Einbeziehung und Mitwirkung der Sorgeberechtigten erstellt.**
+**Der Förder- und Behandlungsplan wurde im Benehmen mit der interdisziplinär tätigen heilpädagogischen**
+
+**Fördereinrichtung sowie unter Einbeziehung und Mitwirkung der Sorgeberechtigten erstellt.**
 
 Ärztliche Bemerkungen:
 
-DatumStempel und Unterschrift des Arztes
+Datum
+
+Stempel und Unterschrift des Arztes
 
 Ergänzende Anmerkungen des Therapeuten im Sinne des § 12 Rahmenvertrag vom 01.09.2010
 
@@ -58,18 +76,36 @@ Belegnummer
 
 gemäß Rahmenvertrag für medizinisch therapeutische Leistungen
 
-Einzelbehandlung WocheBE [ ] Monat[ ]
+Einzelbehandlung
 
-WocheBE [ ] Monat[ ]
+Woche
 
-WocheBE [ ] Monat[ ]
+BE [ ] Monat[ ]
 
-Heilmittel-Pos.-Nr.Faktor
+Woche
 
-Gruppenbehandlung WocheBE [ ] Monat[ ]
+BE [ ] Monat[ ]
 
-WocheBE [ ] Monat[ ]
+Woche
 
-WocheBE [ ] Monat[ ]
+BE [ ] Monat[ ]
+
+Heilmittel-Pos.-Nr.
+
+Faktor
+
+Gruppenbehandlung
+
+Woche
+
+BE [ ] Monat[ ]
+
+Woche
+
+BE [ ] Monat[ ]
+
+Woche
+
+BE [ ] Monat[ ]
 
 bis: 04.09.15 07:46

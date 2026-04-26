@@ -1,4 +1,6 @@
-## Ihre individuelle Information  zur Psychotherapeutischen  Sprechstunde
+## Ihre individuelle Information
+
+## zur Psychotherapeutischen  Sprechstunde
 
 Nähere Angaben zu den Empfehlungen
 
@@ -8,11 +10,17 @@ Diagnose(n)/Verdachtsdiagnose(n)*** (im Klartext)***, weitere Hinweise zum Krank
 
 Datum
 
-***Diese Information enthält Ihren vorläufigen Befund***  ***und Empfehlungen zum weiteren Vorgehen.***
+***Diese Information enthält Ihren vorläufigen Befund***
+
+***und Empfehlungen zum weiteren Vorgehen.***
 
 ***Bitte legen Sie diese Information bei einer Weiterbehandlung vor.***
 
-Unterschrift Patient*in,  ggf. der gesetzlichen Vertreter*innen Ausstellungsdatum
+Unterschrift Patient*in,
+
+ggf. der gesetzlichen Vertreter*innen
+
+Ausstellungsdatum
 
 Stempel / Unterschrift Therapeut*in
 
@@ -30,11 +38,15 @@ keine Maßnahme notwendig
 
 Präventionsmaßnahme
 
-ambulante Psychotherapeutische  Akutbehandlung
+ambulante Psychotherapeutische
+
+Akutbehandlung
 
 stationäre Behandlung
 
-ambulante  Psychotherapie
+ambulante
+
+Psychotherapie
 
 Krankenhausbehandlung
 
@@ -50,15 +62,21 @@ hausärztliche Abklärung
 
 fachärztliche Abklärung
 
-Weitervermittlungzeitnah erforderlich
+Weitervermittlung
+
+zeitnah erforderlich
 
 Verhaltenstherapie
 
-Bei Ihnen wurden keine Anhaltspunkte für eine  behandlungsbedürftige psychische Störung festgestellt
+Bei Ihnen wurden keine Anhaltspunkte für eine
+
+behandlungsbedürftige psychische Störung festgestellt
 
 Die psychotherapeutische Behandlung kann in dieser Praxis  durchgeführt werden
 
-Die psychotherapeutische Behandlung kann **NICHT** in  dieser Praxis durchgeführt werden
+Die psychotherapeutische Behandlung kann **NICHT** in
+
+dieser Praxis durchgeführt werden
 
 andere Maßnahmen außerhalb der gesetzlichen  Krankenversicherung
 
@@ -68,15 +86,21 @@ Fachgebiet
 
 ICD-10 - GM endständig ICD-10 - GM endständig
 
-PLZOrt
+PLZ
+
+Ort
 
 Straße
 
 Name mitbehandelnde*r Ärztin/Arzt, Hausärztin/Hausarzt
 
-**Erklärung Patient*in**  Eine Kopie dieser Information darf erhalten:
+**Erklärung Patient*in**
 
-DatumUhrzeit
+Eine Kopie dieser Information darf erhalten:
+
+Datum
+
+Uhrzeit
 
 ## PTV 11
 
@@ -84,9 +108,13 @@ Name, Vorname des Versicherten
 
 geb. am
 
-Kostenträgerkennung Versicherten-Nr.Status
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr. Arzt-Nr.Datum
+Status
+
+Betriebsstätten-Nr. Arzt-Nr.
+
+Datum
 
 Krankenkasse bzw. Kostenträger
 

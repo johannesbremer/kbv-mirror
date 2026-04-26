@@ -27,7 +27,9 @@ EBM- Schnittstelle (GOS)   extern
 | 1.00 | 01.07.2013 | KBV |  |  |  |
 | 0.01 | 19.06.2013 | KBV | neues Dokument |  |  |
 
-**D** **E** **R** **U** **N** **G** **S R** **Z** **E** **I** **C** **H** **N** **I** **S** **V E R** **Z** **E** **I C H**  **N**
+**D** **E** **R** **U** **N** **G** **S R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+**V E R** **Z** **E** **I** **C H**  **N**
 
 pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grundpau- schale und Zusatzpauschale der fachärztlichen Grundver- des Kennzeichen „arztpraxis“ mit Referenz auf Schlüsseltab- elle zur 309. Beschlussfassung senspezifischen Sub-GOP in der Arztpraxis noch in Klärung außerhalb der fachärztlichen Grundversorgung, Realisie- rung  auch über Ausschlüsse via „Grundleistungsregel“ bzgl. der Abrechnung der Versichertenpauschalen, konkrete Festlegung noch offen schlussfassung Textmarke nicht definiert.**I** **S**
 
@@ -40,7 +42,15 @@ pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grun
 
 **1.1** **Versichertenpauschale ..................................................................................................................4**
 
-1.1.1 Technische Abbildung ............................................................................................................5 *1.1.1.1* *Sub-GOP .................................................................................................................5* *1.1.1.2* *Abrechnung der neuen Versichertenpauschalen ....................................................5* *1.1.1.3* *Verwendung im Rahmen von Honorarsimulationen ................................................5* *1.1.1.4* *XML-Beispiel ............................................................................................................6*
+1.1.1 Technische Abbildung ............................................................................................................5
+
+*1.1.1.1* *Sub-GOP .................................................................................................................5*
+
+*1.1.1.2* *Abrechnung der neuen Versichertenpauschalen ....................................................5*
+
+*1.1.1.3* *Verwendung im Rahmen von Honorarsimulationen ................................................5*
+
+*1.1.1.4* *XML-Beispiel ............................................................................................................6*
 
 **1.2** **Fachärztliche Zusatzpauschale und PFG-Ausschluss ...............................................................7**
 
@@ -55,9 +65,9 @@ pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grun
 
 ---
 
-**1**
+# 1
 
-**1.1 Versichertenpauschale**
+## 1.1 Versichertenpauschale
 
 Mit Änderung auf die Schemaversion 1.40 der EBM-Schnittstelle wurden die strukturellen Än- derungen des EBM (insbesondere Hausarzt-EBM) mit Inkraftsetzung zum 01.10.2013 schnitt- stellentechnisch abgebildet, um somit eine bessere EDV-Unterstützung des EBM zu ermögli- chen.
 
@@ -70,15 +80,19 @@ Kernelelement des Hausarzt -EBM ist dabei die Einführung von nur einer Versiche
 
 ---
 
-**1.1.1** **Technische Abbildung**
+### 1.1.1 Technische Abbildung
 
-1.1.1.1 **Sub-GOP**  Zur Gewährleistung der Abrechnungsprozesse, Abrechnungsstatistik etc. werden die alters- abhängigen Bewertungen der Versichertenpauschale
+#### 1.1.1.1 Sub-GOP
+
+Zur Gewährleistung der Abrechnungsprozesse, Abrechnungsstatistik etc. werden die alters- abhängigen Bewertungen der Versichertenpauschale
 
 Die Versichertenpauschale selbst ist unbewertet und verfügt über keine Prüf- und Kalkulati- onszeiten. Sie dient in erster Linie der möglichst einfachen und unbürokratischen Handha- bung in der Arztpraxis. Die Zuordnung der Bewertung ist über die Verknüpfung der Versicher- tenpauschale mit den altersklassenspezifisch bewerteten Zusatzziffern möglich, die im Z u- sammenhang mit der GOS als Sub
 
 Die Sub-GOP sind im EBM-Stamm als separate GOP mit Bewertung und Prüfzeiten hinter- legt, sodass hier regelwerkstechnische Prüfungen kassenärztliche Vereinigung grundsätzlich möglich sind.
 
-1.1.1.2 **Abrechnung der neuen Versichertenpauschalen**  In der Protokollnotiz zur Beschlussfassung gemäß der 309. Sitzung des Bewertungsaus- schusses heißt es:
+#### 1.1.1.2 Abrechnung der neuen Versichertenpauschalen
+
+In der Protokollnotiz zur Beschlussfassung gemäß der 309. Sitzung des Bewertungsaus- schusses heißt es:
 
 „Die Kassenärztliche Bundesvereinigung wird mit Wirkung zum 4. Quartal 2013 im Rahmen  der Zertifizierung der Praxisverwaltungssysteme eine neue Vorgabe aufnehmen. Diese Vor- gabe verpflichtet die Hersteller von Praxisverwaltungssystemen, die vom Vertragsarzt zu e fassenden Gebührenordnungspositionen 03000, 03010, 04000 und 04010 unmittelbar in A hängigkeit vom Patientenalter unter Beachtung der Regelung in der Allgemeinen Bestimmung  4.3.5 in die zutreffende altersklassenspezifische kodierte Zusatznummer umzusetzen. In der  Abrechnung der Leistungen gegenüber der Kassenärztlichen Vereinigungen sowie im Einze l- fallnachweis werden diese kodierten Zusatznummern übertragen. Dies gilt auch für kodierte  Zusatznummern im Zusammenhang mit der Abrechnung der Gebührenordnungspositionen  03220, 03221, 04220 und 04221.“
 
@@ -86,7 +100,9 @@ Dem Wortlaut dieser Protokollnotiz folgend sowie unter Berücksichtigung der anv
 
 Hinweis: aus juristischen Gründen sollte jede Leistungssubstitution für den Anwender transpa- rent sein.
 
-1.1.1.3 **Verwendung im Rahmen von Honorarsimulationen**  Bedingt durch die Umwandlung der Versichertenpauschalen durch die Sub weils vorhandenen Prüfzeiten und Bewertungen sind keine weiteren Besonder heiten im Rah- men individueller Statistiken sowie im Zuge von Honorarsimulationen zu berücksichtigen.
+#### 1.1.1.3 Verwendung im Rahmen von Honorarsimulationen
+
+Bedingt durch die Umwandlung der Versichertenpauschalen durch die Sub weils vorhandenen Prüfzeiten und Bewertungen sind keine weiteren Besonder heiten im Rah- men individueller Statistiken sowie im Zuge von Honorarsimulationen zu berücksichtigen.
 
 in separate Leistungen -GOP bezeichnet sind.
 
@@ -103,22 +119,34 @@ r- b-
 
 **Abbildung 2: Regeltyp „sub_gop_liste“**
 
-**XML-Beispiel** 1.1.1.4  Das vorliegende XML -Beispiel veranschaulicht die Verknüpfung und Systematik zwischen  Versichertenpauschale und den altersklassenspezifischen Sub-GOP.
+#### XML-Beispiel
+
+#### 1.1.1.4
+
+Das vorliegende XML -Beispiel veranschaulicht die Verknüpfung und Systematik zwischen  Versichertenpauschale und den altersklassenspezifischen Sub-GOP.
 
 **Abbildung 3: Verknüpfung zwischen Versichertenpauschale und Sub-GOP**
 
--GOP referenziert werden.  Die jeweilige Altersbedingung ist direkt in der *sub_gop_liste* verknüpft. In Abhängigkeit vom  Patientenalter kann somit direkt auf die jeweilige Sub
+-GOP referenziert werden.
+
+Die jeweilige Altersbedingung ist direkt in der *sub_gop_liste* verknüpft. In Abhängigkeit vom
+
+Patientenalter kann somit direkt auf die jeweilige Sub
 
 
 ---
 
-**1.2 Fachärztliche Zusatzpauschale und PFG-Ausschluss**
+## 1.2 Fachärztliche Zusatzpauschale und PFG-Ausschluss
 
 Für fachärztliche Leistungen, die im Rahmen der Grundversorgung erbracht werden, wurden  Zusatzpauschalen für die fachärztliche Grundversorgung (PFG) eingeführt , z.B. 05220 . Die  Pauschale kann im Behandlungsfall als Zuschlag abgerechnet werden, wenn im Behand- lungsfall keine der Grundversorgung untypische Leistungen abgerechnet wurden
 
-Die Zusatzpauschalen beinhalten die jeweilige Versichertenpauschale als Grundleistungsre- gel und sind somit eindeutig als Zuschläge identifizierbar.
+Die Zusatzpauschalen beinhalten die jeweilige Versichertenpauschale als Grundleistungsre-
 
-Um die grundversorgungsfremden Leistungen direkt filtern zu können, sind diese Leistungen  1über das Attribut (*pfg_ausschluss = true*) gekennzeichnet.
+gel und sind somit eindeutig als Zuschläge identifizierbar.
+
+Um die grundversorgungsfremden Leistungen direkt filtern zu können, sind diese Leistungen  1
+
+über das Attribut (*pfg_ausschluss = true*) gekennzeichnet.
 
 | 1 |  |  |
 |---|---|---|
@@ -126,9 +154,11 @@ Um die grundversorgungsfremden Leistungen direkt filtern zu können, sind diese 
 
 Zusätzlich beinhalten diese, über die fachärztliche Grundversorgung hinausgehenden Leis- tungen, gegenseitige Ausschlüsse gegen die fachärztlichen Zusatzpauschalen
 
-**1.3 GOP-Art (KBV-/KV-intern)**
+## 1.3 GOP-Art (KBV-/KV-intern)
 
-Die GOP-Art wird über das Element *gnr_type_cd* definiert. Mit der GOP-Art werden bestimmte  Eigenschaften von GOP kategorisiert, die für die interne Verarbeitung an verschiedenen Stel- len und Projekten gesondert zu berücksichtigen sind. Ein aktuelles Beispiel findet sich in der  Abrechnung des Mammographie-Screenings, um bspw. die regional unterschiedlich gehand- habten Overhead-Kosten richtig interpretieren zu können . Eine zunehmende Bedeutung wird  der GOP-Art voraussichtlich im Rahmen der nächsten Umsetzungsstufe des H A-EBM zu- kommen, wenn wie geplant, die Vergütungssystematik für technikgestützte Leistungen geän- dert werden sollte.
+Die GOP-Art wird über das Element *gnr_type_cd* definiert. Mit der GOP-Art werden bestimmte
+
+Eigenschaften von GOP kategorisiert, die für die interne Verarbeitung an verschiedenen Stel- len und Projekten gesondert zu berücksichtigen sind. Ein aktuelles Beispiel findet sich in der  Abrechnung des Mammographie-Screenings, um bspw. die regional unterschiedlich gehand- habten Overhead-Kosten richtig interpretieren zu können . Eine zunehmende Bedeutung wird  der GOP-Art voraussichtlich im Rahmen der nächsten Umsetzungsstufe des H A-EBM zu- kommen, wenn wie geplant, die Vergütungssystematik für technikgestützte Leistungen geän- dert werden sollte.
 
 Um die GOP-Art in Abhängigkeit der diesbezüglichen Entwicklung flexibel und unabhängig  von der Schnittstellenversion erweitern zu können, werden die erlaubten Werte nicht mehr  durch das Schema selbst, sondern über eine Schlüsseltabelle definiert. D.h. es wurden zwei  weitere Attribute (S, SV) neu aufgenommen, die zusätzlich auf die jeweilige Schlüsseltabelle  referenzieren.
 
@@ -151,7 +181,9 @@ Abbildung 5: Schlüsselwerte für die GOP-Art, grau derzeit nicht in Verwendung
 
 ---
 
-**2**  Aus technischer Sicht ergeben sich mit dem Hausarzt-EBM keine wesentlichen Änderungen.  Während es fachlich betrachtet nur eine Versichertenpauschale für Haus- und Kinderärzte  gibt, werden diese technisch wiederum in altersklassenspezifische EBM-Leistungen unterglie- dert, wie es bislang der Fall war und auch weiterhin der Fall ist.
+# 2
+
+Aus technischer Sicht ergeben sich mit dem Hausarzt-EBM keine wesentlichen Änderungen.  Während es fachlich betrachtet nur eine Versichertenpauschale für Haus- und Kinderärzte  gibt, werden diese technisch wiederum in altersklassenspezifische EBM-Leistungen unterglie- dert, wie es bislang der Fall war und auch weiterhin der Fall ist.
 
 Um die Abrechnung für den Anwender möglichst komfortabel zu gestalten, soll bei Dokumen- tation der Versichertenpauschale die Umwandlung in die altersklassenspezifische Sub-GOP in  Abhängigkeit des Patientenalters zum Zeitpunkt der ersten Inanspruchnahme im Quartal au- tomatisiert erfolgen (ein manuelles Ansetzen der Sub-GOP soll aus Komfortgründen möglichst  vermieden werden).
 
@@ -159,15 +191,15 @@ Anm.: aus juristischen Gründen sowie der Nachverfolgbarkeit durch den Anwender 
 
 Die EBM-Stammdatei wurde speziell erweitert, um diese Logik in einen Automatismus umset- zen zu können. Folgende Verarbeitungsschritte wären im Sinne des HA-EBM zu empfehlen:
 
-Arzt dokumentiert die Versichertenpauschale, z.B. 03000,
+- Arzt dokumentiert die Versichertenpauschale, z.B. 03000,
 
-Automatisierte Umwandlung in die altersklassenspezifische Sub-GOP, z.B. 03001
+- Automatisierte Umwandlung in die altersklassenspezifische Sub-GOP, z.B. 03001
 
-Übertragung der 03001 im Rahmen der Abrechnung
+- Übertragung der 03001 im Rahmen der Abrechnung
 
-ggf. Zusetzen der Zusatzpauschale im Rahmen der fachärztlichen Grundversorgung  (PFG) unter Beachtung der Ausschlüsse im Behandlungsfall
+- ggf. Zusetzen der Zusatzpauschale im Rahmen der fachärztlichen Grundversorgung  (PFG) unter Beachtung der Ausschlüsse im Behandlungsfall
 
-ggf. Zusetzen der versorgungsbereichsspezifischen Zusatzpauschalen 03040 bzw.  204040
+- ggf. Zusetzen der versorgungsbereichsspezifischen Zusatzpauschalen 03040 bzw.  2 - 04040
 
 2 Wird im Regelfall durch KV zugesetzt, da nicht alle Voraussetzungen zur Berechnungsfähigkeit dieser  Zusatzpauschalen maschinell geprüft werden können
 

@@ -11,8 +11,9 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | 1.00 |
 
-Kapselendoskopie KE] Dezernat -Lewin-Platz 2 Version  Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: 8
+8
 
+Kapselendoskopie KE] Dezernat -Lewin-Platz 2 Version  Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status:
 
 ---
 
@@ -49,9 +50,7 @@ Kapselendoskopie
 
 **7**
 
-**1.**
-
-### EINLEITUNG
+**1.** **EINLEITUNG**
 
 **8**
 
@@ -59,15 +58,11 @@ Kapselendoskopie
 
 **1.2** **Zielgruppen .....................................................................................................................................8**
 
-**2.**
-
-### DATEINAMEN
+**2.** **DATEINAMEN**
 
 **9**
 
-**3.**
-
-### SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
+**3.** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
 
 **10**
 
@@ -77,9 +72,7 @@ Kapselendoskopie
 
 **3.3** **Sonstige Symbole ....................................................................................................................... 11**
 
-**4.**
-
-### BESCHREIBUNG DER EHD-SCHNITTSTELLE
+**4.** **BESCHREIBUNG DER EHD-SCHNITTSTELLE**
 
 **12**
 
@@ -91,16 +84,50 @@ Kapselendoskopie
 
 **4.3** **Element qske_dokumentation ................................................................................................... 17**
 
-4.3.1 anzahl_erstuntersuchungen ................................................................................................ 19  4.3.2 anzahl_wiederholungsuntersuchen ..................................................................................... 19  4.3.3 anzahl_nicht_zutreffend ...................................................................................................... 19  4.3.4 anzahl_kapselendoskopien_mit_auslassung ...................................................................... 19  4.3.5 anzahl_kapselendoskopien_ohne_auslassung ................................................................... 19  4.3.6 anzahl_auswertungen_selbst .............................................................................................. 19  4.3.7 anzahl_auswertungen_anderer_arzt ................................................................................... 20  4.3.8 anzahl_untersuchungen_mit_nachweis_blutungsquelle ..................................................... 20  4.3.9 anzahl_untersuchungen_ohne_nachweis_blutungsquelle .................................................. 20
+4.3.1 anzahl_erstuntersuchungen ................................................................................................ 19
+
+4.3.2 anzahl_wiederholungsuntersuchen ..................................................................................... 19
+
+4.3.3 anzahl_nicht_zutreffend ...................................................................................................... 19
+
+4.3.4 anzahl_kapselendoskopien_mit_auslassung ...................................................................... 19
+
+4.3.5 anzahl_kapselendoskopien_ohne_auslassung ................................................................... 19
+
+4.3.6 anzahl_auswertungen_selbst .............................................................................................. 19
+
+4.3.7 anzahl_auswertungen_anderer_arzt ................................................................................... 20
+
+4.3.8 anzahl_untersuchungen_mit_nachweis_blutungsquelle ..................................................... 20
+
+4.3.9 anzahl_untersuchungen_ohne_nachweis_blutungsquelle .................................................. 20
 
 
 ---
 
-4.3.10 anzahl_kapselendoskopien_bild_ohne_einschraenkung ................................................ 20  4.3.11 anzahl_kapselendoskopien_bild_tech_probleme ............................................................ 20  4.3.12 anzahl_kapselendoskopien_bild_sichteinschraenkung ................................................... 20  4.3.13 anzahl_vollstaendiger_untersuchungen .......................................................................... 20  4.3.14 anzahl_unvollstaendiger_untersuchungen_retention1 .................................................... 20  4.3.15 anzahl_unvollstaendiger_untersuchungen_retention1_2 ................................................ 20  4.3.16 anzahl_unvollstaendiger_untersuchungen_retention2 .................................................... 20  4.3.17 anzahl_unvollstaendiger_untersuchungen_stenosen ..................................................... 21  4.3.18 anzahl_unvollstaendiger_untersuchungen_divertikel ...................................................... 21  4.3.19 anzahl_unvollstaendiger_untersuchungen_andere ......................................................... 21  4.3.20 anzahl_empfohlener_wiederholungsuntersuchungen ..................................................... 21
+4.3.10 anzahl_kapselendoskopien_bild_ohne_einschraenkung ................................................ 20
 
-**5.**
+4.3.11 anzahl_kapselendoskopien_bild_tech_probleme ............................................................ 20
 
-### REFERENZIERTE DOKUMENTE
+4.3.12 anzahl_kapselendoskopien_bild_sichteinschraenkung ................................................... 20
+
+4.3.13 anzahl_vollstaendiger_untersuchungen .......................................................................... 20
+
+4.3.14 anzahl_unvollstaendiger_untersuchungen_retention1 .................................................... 20
+
+4.3.15 anzahl_unvollstaendiger_untersuchungen_retention1_2 ................................................ 20
+
+4.3.16 anzahl_unvollstaendiger_untersuchungen_retention2 .................................................... 20
+
+4.3.17 anzahl_unvollstaendiger_untersuchungen_stenosen ..................................................... 21
+
+4.3.18 anzahl_unvollstaendiger_untersuchungen_divertikel ...................................................... 21
+
+4.3.19 anzahl_unvollstaendiger_untersuchungen_andere ......................................................... 21
+
+4.3.20 anzahl_empfohlener_wiederholungsuntersuchungen ..................................................... 21
+
+**5.** **REFERENZIERTE DOKUMENTE**
 
 **22**
 
@@ -126,7 +153,7 @@ Abbildung 1 - Element ehd Abbildung 2 - Element id .............................
 
 ---
 
-**TABELLENVERZEICHNIS**
+#### TABELLENVERZEICHNIS
 
 **Tabelle 1 – Beschreibung der Kardinalitäten**
 
@@ -143,43 +170,55 @@ Abbildung 1 - Element ehd Abbildung 2 - Element id .............................
 
 ---
 
-**XML- CODE VERZEICHNIS**
+#### XML- CODE VERZEICHNIS
 
 **XML-Code 1 - ehd Beispiel ................................................................................................. 12**
 
 **XML-Code 2 - document_relationship .............................................................................. 14**
 
-**................................................................................................... XML-Code 3 - ehd-header 15**
+**...................................................................................................**
+
+**XML-Code 3 - ehd-header**
+
+**15**
 
 **XML-Code 4 - local_header (Software) .............................................................................. 16**
 
-**................................................................................................. XML-Code 5 - id (Software) 16**
+**.................................................................................................**
+
+**XML-Code 5 - id (Software)**
+
+**16**
 
 **XML-Code 6 - qske dokumentation .................................................................................... 19**
 
 
 ---
 
-**1. Einleitung**  Im Rahmen von QS-Vereinbarung Kapselendoskopie [1] wird jährlich eine Statistik in der  Arztpraxis erstellt und an die Datenannahmestelle versendet.
+# 1. Einleitung
+
+Im Rahmen von QS-Vereinbarung Kapselendoskopie [1] wird jährlich eine Statistik in der  Arztpraxis erstellt und an die Datenannahmestelle versendet.
 
 Die Schnittstelle QS Kapselendoskopie ermöglicht es einem Arztinformationssystem (AIS)  bzw. Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu übertragen.
 
 Dieses Dokument beschreibt die Schnittstelle QS Kapselendoskopie. Die Schnittstelle ist ge- mäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2].
 
-**1.1 Zweck des Dokuments**
+## 1.1 Zweck des Dokuments
 
 Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
 Der Leser soll erfahren, was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
-**1.2 Zielgruppen**
+## 1.2 Zielgruppen
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste- men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
 
 
 ---
 
-**2. Dateinamen**  Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
+# 2. Dateinamen
+
+Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 **qske** ... Datentyp der ehd-Schnittstelle
 
@@ -200,9 +239,11 @@ Beispiel:
 
 ---
 
-**3. Semantik der verwendeten Diagramm-Symbole**  Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+# 3. Semantik der verwendeten Diagramm-Symbole
 
-**3.1 Kardinalität**
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+
+## 3.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -214,7 +255,7 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1 – Beschreibung der Kardinalitäten**
 
-**3.2 Strukturelemente**
+## 3.2 Strukturelemente
 
 Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
@@ -229,7 +270,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existier
 
 ---
 
-**3.3 Sonstige Symbole**
+## 3.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -246,7 +287,9 @@ zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema de
 
 ---
 
-**4. Beschreibung der ehd-Schnittstelle**  Die Schnittstelle „QS Kapselendoskopie“ basiert auf [KBV_ITA_VGEX_eHD]. Damit entspricht  die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich wer- den eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
+# 4. Beschreibung der ehd-Schnittstelle
+
+Die Schnittstelle „QS Kapselendoskopie“ basiert auf [KBV_ITA_VGEX_eHD]. Damit entspricht  die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich wer- den eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
 
@@ -254,7 +297,23 @@ Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kind
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859-15"?>  <ehd xmlns="urn:ehd/001" xmlns:qske="urn:ehd/qske/001" ehd_version="1.40"> <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd>
+<?xml version="1.0" encoding="ISO -8859-15"?>
+
+<ehd xmlns="urn:ehd/001" xmlns:qske="urn:ehd/qske/001" ehd_version="1.40">
+
+<ehd:header>
+
+...
+
+</ehd:header>
+
+<ehd:body>
+
+...
+
+</ehd:body>
+
+</ehd>
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_eHD] an,  auf der diese Schnittstelle aufbaut.
 
@@ -269,29 +328,43 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_eH
 
 ---
 
-**4.1 Element header**
+## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD].  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation  [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele- mente eingeschränkt:
+Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD].  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+
+[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-
+
+mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 
-o Im EX-Attribut steht eine eindeutige id (GUID)
+- o Im EX-Attribut steht eine eindeutige id (GUID)
 
-o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
+- o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
 
 **Abbildung 2 - Element id**
 
--Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
+- -Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
 
-o im V-Attribut ist der Wert: „QSKE“ fest vorgeschrieben.
+- o im V-Attribut ist der Wert: „QSKE“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn  eine Korrekturlieferung erfolgt.
+-  Das *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 
-o Das Element *document_relationship/document_relationship.type_cd* enthält im  V-Attribut den Wert „RPLC“
+- eine Korrekturlieferung erfolgt.
 
-*document_relationship/related_document/id* o Das Element enthält den Verweis  auf das *id*-Element des Ursprungsdokuments.
+- o Das Element *document_relationship/document_relationship.type_cd* enthält im
+
+- V-Attribut den Wert „RPLC“
+
+- *document_relationship/related_document/id*
+
+- o Das Element
+
+- enthält den Verweis
+
+- auf das *id*-Element des Ursprungsdokuments.
 
 **Abbildung 4 - Element document_relationship**
 
@@ -303,13 +376,19 @@ o Das Element *document_relationship/document_relationship.type_cd* enthält im 
 
 **XML-Code 2 - document_relationship**
 
--  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und  Betriebsstätte (BSNR).
+-  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und - Betriebsstätte (BSNR).
 
-*provider/person*o Die Vorgaben im -Element enthalten:
+- *provider/person*
 
-Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“) Arztnummer,
+- o Die Vorgaben im
 
-o Die Vorgaben im *provider/organization*-Element enthalten:
+- -Element enthalten:
+
+Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“)
+
+Arztnummer,
+
+- o Die Vorgaben im *provider/organization*-Element enthalten:
 
 Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
 
@@ -317,11 +396,15 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 -  Im *Interface*-Element werden die Schnittstellendaten eingegeben:
 
-o *id*-Element im EX-Attribut ist der Wert „QSKE“ fest vorgeschrieben. RT-Attribut  enthält den Wert: „1.2.276.0.76.5.109“.
+- o *id*-Element im EX-Attribut ist der Wert „QSKE“ fest vorgeschrieben. RT-Attribut
 
--Element im V-Attribut ist der Wert: „QS Kapselendoskopie“ fest o *interface.nm* vorgeschrieben.
+- enthält den Wert: „1.2.276.0.76.5.109“.
 
-o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
+- -Element im V-Attribut ist der Wert: „QS Kapselendoskopie“ fest
+
+- o *interface.nm* vorgeschrieben.
+
+- o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
 **Abbildung 6 - Element interface**
 
@@ -335,7 +418,17 @@ XML-Beispiel
 
 **XML-Code 3 - ehd-header**
 
-**4.1.1 Software (local_header)** Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  **software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-** **phox:Software**hat den Namespace  urn::sciphox-org/sciphox und hat das Kindelement **sci-** **phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
+### 4.1.1 Software (local_header)
+
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU
+
+**software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-**
+
+**phox:Software**hat den Namespace
+
+urn::sciphox-org/sciphox und hat das Kindelement **sci-**
+
+**phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
 
@@ -345,11 +438,31 @@ XML-Beispiel
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
-<local_header>  <sciphox:sciphox-ssu type="software" country="de" version="v1">  <sciphox:Software>  EX="..." RT="KBV-Prüfnummer"/>   <sciphox:id </sciphox:Software>  </sciphox:sciphox-ssu>  </local_header>
+<local_header>
+
+<sciphox:sciphox-ssu type="software" country="de" version="v1">
+
+<sciphox:Software>
+
+EX="..." RT="KBV-Prüfnummer"/>
+
+<sciphox:id
+
+</sciphox:Software>
+
+</sciphox:sciphox-ssu>
+
+</local_header>
 
 **XML-Code 4 - local_header (Software)**
 
-**4.1.1.1 Software-ID (id)**  *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+#### 4.1.1.1 Software-ID (id)
+
+*sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
+
+Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*
+
+a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -360,13 +473,13 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 ---
 
-**4.2 Element body**
+## 4.2 Element body
 
 Das **body**-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
 Das body-Element hat den benutzerdefinierten Typ  sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qske/001“.
 
-**4.3 Element qske_**
+## 4.3 Element qske_
 
 Das Element
 
@@ -374,7 +487,7 @@ Das Element
 
 **Abbildung 8 - Element body**
 
-### dokumentation
+## dokumentation
 
 enthält  die QS Kapselendoskopie Jahresstatistik.
 
@@ -401,7 +514,9 @@ e-
 
 ### nzahl_erstuntersuchungen
 
-**4.3.1 a** Die Anzahl (nonNegativeInteger ) der durchgeführten Erstuntersuchungen (entspricht Feld 1.a
+### 4.3.1 a
+
+Die Anzahl (nonNegativeInteger ) der durchgeführten Erstuntersuchungen (entspricht Feld 1.a
 
 Wert muss zwischen 0 und 99999 liegen.
 
@@ -413,63 +528,129 @@ der Plausibilitäten [ KBV_ITA_VGEX_Plausi_QSKE]) wird hier im V-Attribut angege
 
 ### anzahl_wiederholungsuntersuchen
 
-**4.3.2**  Die Anzahl (nonNegativeInteger) der durchgeführten Wiederholungsuntersuchungen (en t- spricht Feld 1.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
+### 4.3.2
+
+Die Anzahl (nonNegativeInteger) der durchgeführten Wiederholungsuntersuchungen (en t- spricht Feld 1.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
 
 ### anzahl_nicht_zutreffend
 
-**4.3.3**  Die Anzahl (nonNegativeInteger) der durchgeführten Kapselendoskopien mit Patienten ohne  Blutungsfördernden Medikamenten (entspricht Feld 2.a der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.3
+
+Die Anzahl (nonNegativeInteger) der durchgeführten Kapselendoskopien mit Patienten ohne  Blutungsfördernden Medikamenten (entspricht Feld 2.a der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### anzahl_kapselendoskopien_mit_auslassung
 
-**4.3.4**  Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit Auslassung (entspricht Feld 2.b  der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+### 4.3.4
+
+Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit Auslassung (entspricht Feld 2.b  der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
 ### anzahl_kapselendoskopien_ohne_auslassung
 
-**4.3.5**  Die Anzahl (nonNegativeInteger) der Kapselendoskopien ohne Auslassung (entspricht Feld  2.c der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+### 4.3.5
+
+Die Anzahl (nonNegativeInteger) der Kapselendoskopien ohne Auslassung (entspricht Feld  2.c der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
 ### anzahl_auswertungen_selbst
 
-**4.3.6**   Die Anzahl (nonNegativeInteger) der selbst ausgewerteten Kapselendoskopien (entspricht  Feld 3.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+### 4.3.6
+
+###
+
+Die Anzahl (nonNegativeInteger) der selbst ausgewerteten Kapselendoskopien (entspricht  Feld 3.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
 <anzahl_untersuchungen_ohne_nachweis_blutungsquelle V="0"/> <anzahl_kapselendoskopien_bild_sichteinschraenkung V="15"/> <anzahl_vollstaendiger_untersuchungen V="5"/> <anzahl_unvollstaendiger_untersuchungen_retention1 V="3"/> <anzahl_unvollstaendiger_untersuchungen_retention1_2 V="2"/> <anzahl_unvollstaendiger_untersuchungen_divertikel V="5"/> <anzahl_unvollstaendiger_untersuchungen_andere V="1"/> <anzahl_empfohlener_wiederholungsuntersuchung V="2"/>
 
 ---
 
-**4.3.7 anzahl_auswertungen_anderer_arzt**  Die Anzahl (nonNegativeInteger) der ausgewerteten Kapselendoskopien durch anderen Arzt  (z.B. beauftragt) (entspricht Feld 3.b der Plausibilitäten) wird hier im V-Attribut angegeben.  Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.7 anzahl_auswertungen_anderer_arzt
 
-**anzahl_untersuchungen_mit_nachweis_blutungsquelle 4.3.8**  Die Anzahl (nonNegativeInteger) der Untersuchungen mit Nachweis einer Blutungsquelle  (entspricht Feld 4.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der ausgewerteten Kapselendoskopien durch anderen Arzt  (z.B. beauftragt) (entspricht Feld 3.b der Plausibilitäten) wird hier im V-Attribut angegeben.  Der Wert muss zwischen 0 und 99999 liegen.
 
-**anzahl_untersuchungen_ohne_nachweis_blutungsquelle 4.3.9**  Die Anzahl (nonNegativeInteger) der Untersuchungen ohne Nachweis einer Blutungsquelle  (entspricht Feld 4.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
+### anzahl_untersuchungen_mit_nachweis_blutungsquelle
 
-**anzahl_kapselendoskopien_bild_ohne_einschraenkung 4.3.10**  Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit nicht eingeschränkter Beurteil- barkeit (entspricht Feld 5.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert  muss zwischen 0 und 99999 liegen.
+### 4.3.8
 
-**anzahl_kapselendoskopien_bild_tech_probleme 4.3.11**  Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit eingeschränkter Beurteilbarkeit  wegen technischer Probleme (entspricht Feld 5.b.I der Plausibilitäten) wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Untersuchungen mit Nachweis einer Blutungsquelle  (entspricht Feld 4.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
 
-**anzahl_kapselendoskopien_bild_sichteinschraenkung4.3.12**   Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit eingeschränkter Beurteilbarkeit  wegen eingeschränkter Sicht (entspricht Feld 5.b.II der Plausibilitäten) wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### anzahl_untersuchungen_ohne_nachweis_blutungsquelle
 
-**anzahl_vollstaendiger_untersuchungen 4.3.13**  Die Anzahl (nonNegativeInteger) der vollständiger Untersuchungen (entspricht Feld 6.a der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+### 4.3.9
 
-**anzahl_unvollstaendiger_untersuchungen_retention1 4.3.14**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  bis zu unter 1 Stunde im Magen (entspricht Feld 6.b.I.01 der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Untersuchungen ohne Nachweis einer Blutungsquelle  (entspricht Feld 4.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi- schen 0 und 99999 liegen.
 
-**anzahl_unvollstaendiger_untersuchungen_retention1_2 4.3.15**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  von 1 bis unter 2 Stunden im Magen (entspricht Feld 6.b.I.02 der Plausibilitäten) wird hier im  V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### anzahl_kapselendoskopien_bild_ohne_einschraenkung
 
-**anzahl_unvollstaendiger_untersuchungen_retention2 4.3.16**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  mehr als 2 Stunden im Magen (entspricht Feld 6.b.I.03 der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+### 4.3.10
+
+Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit nicht eingeschränkter Beurteil- barkeit (entspricht Feld 5.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert  muss zwischen 0 und 99999 liegen.
+
+### anzahl_kapselendoskopien_bild_tech_probleme
+
+### 4.3.11
+
+Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit eingeschränkter Beurteilbarkeit  wegen technischer Probleme (entspricht Feld 5.b.I der Plausibilitäten) wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### anzahl_kapselendoskopien_bild_sichteinschraenkung
+
+### 4.3.12
+
+###
+
+Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit eingeschränkter Beurteilbarkeit  wegen eingeschränkter Sicht (entspricht Feld 5.b.II der Plausibilitäten) wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### anzahl_vollstaendiger_untersuchungen
+
+### 4.3.13
+
+Die Anzahl (nonNegativeInteger) der vollständiger Untersuchungen (entspricht Feld 6.a der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+
+### anzahl_unvollstaendiger_untersuchungen_retention1
+
+### 4.3.14
+
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  bis zu unter 1 Stunde im Magen (entspricht Feld 6.b.I.01 der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### anzahl_unvollstaendiger_untersuchungen_retention1_2
+
+### 4.3.15
+
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  von 1 bis unter 2 Stunden im Magen (entspricht Feld 6.b.I.02 der Plausibilitäten) wird hier im  V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+
+### anzahl_unvollstaendiger_untersuchungen_retention2
+
+### 4.3.16
+
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  mehr als 2 Stunden im Magen (entspricht Feld 6.b.I.03 der Plausibilitäten) wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 
 ---
 
-**4.3.17 anzahl_unvollstaendiger_untersuchungen_stenosen**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Stenosen  (entspricht Feld 6.b.II der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss  zwischen 0 und 99999 liegen.
+### 4.3.17 anzahl_unvollstaendiger_untersuchungen_stenosen
 
-**anzahl_unvollstaendiger_untersuchungen_divertikel** **4.3.18**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Divertikel  (entspricht Feld 6.b.III der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss  zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Stenosen  (entspricht Feld 6.b.II der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss  zwischen 0 und 99999 liegen.
 
-**anzahl_unvollstaendiger_untersuchungen_andere 4.3.19**  Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund anderer Ursa- chen (entspricht Feld 6.b.IV der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert  muss zwischen 0 und 99999 liegen.
+### anzahl_unvollstaendiger_untersuchungen_divertikel
 
-**anzahl_empfohlener_wiederholungsuntersuchungen 4.3.20**  Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufgrund  von Einschränkungen gemäß Nummern 5 und 6 der Plausibilitäten (entspricht Feld 7 der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+### 4.3.18
+
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Divertikel  (entspricht Feld 6.b.III der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss  zwischen 0 und 99999 liegen.
+
+### anzahl_unvollstaendiger_untersuchungen_andere
+
+### 4.3.19
+
+Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund anderer Ursa- chen (entspricht Feld 6.b.IV der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert  muss zwischen 0 und 99999 liegen.
+
+### anzahl_empfohlener_wiederholungsuntersuchungen
+
+### 4.3.20
+
+Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufgrund  von Einschränkungen gemäß Nummern 5 und 6 der Plausibilitäten (entspricht Feld 7 der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
 
 
 ---
 
-**5. Referenzierte Dokumente**
+# 5. Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

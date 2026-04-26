@@ -4,7 +4,9 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr.** **Arzt-Nr.Datum**
+**Betriebsstätten-Nr.** **Arzt-Nr.**
+
+**Datum**
 
 **Art und Ausprägung der Fähigkeitsstörungen**
 
@@ -38,7 +40,9 @@
 
 ***Der soziotherapeutische Betreuungsplan ist beigefüg***
 
-**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
+**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.**
+
+**Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
 
 **Ausfertigung für den verordnenden Arzt**
 

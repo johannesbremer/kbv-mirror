@@ -191,12 +191,22 @@ Bitron GmbH Technologiesysteme 2
 
 1
 
-20
+2
 
-20
+0
 
-11
+2
 
-10
+0
 
-2-1
+1
+
+1
+
+1
+
+0
+
+2
+
+-1

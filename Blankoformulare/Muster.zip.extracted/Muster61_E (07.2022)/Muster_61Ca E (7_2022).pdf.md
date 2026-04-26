@@ -4,29 +4,75 @@
 
 **2. Risikofaktoren oder Gefährdung durch**
 
-**1. Rehabilitationsrelevante umwelt- und personbezogene Faktoren** ***(z. B. allein / mit Familie lebend, in Alten-/Pflegeeinrichtung lebend, Konflikte, Pflege oder Tod eines Familienangehörigen,*** ***Unterstützung(-sbedarf), sprachliche Verständigungsschwierigkeiten, Mehrfachbelastung, mangelndes Selbstmanagement, soziale Isolation,***  ***Schwierigkeiten bei der Bewältigung von Alltagsproblemen)***
+**1. Rehabilitationsrelevante umwelt- und personbezogene Faktoren**
 
-Bewegungsmangel  Fehlhaltung Fehl-/  Mangelernährung MedikamenteNikotin
+***(z. B. allein / mit Familie lebend, in Alten-/Pflegeeinrichtung lebend, Konflikte, Pflege oder Tod eines Familienangehörigen,***
 
-Sonstiges  ***z.B. Suchtmittel***
+***Unterstützung(-sbedarf), sprachliche Verständigungsschwierigkeiten, Mehrfachbelastung, mangelndes Selbstmanagement, soziale Isolation,***
 
-**Häusliches Leben***** (z. B. Einkaufen, Mahlzeiten vorbereiten,*** ***Hausarbeit verrichten, anderen Familienmitgliedern helfen)***
+***Schwierigkeiten bei der Bewältigung von Alltagsproblemen)***
 
-**Interpersonelle Aktivitäten***** (z. B. Familienbeziehungen aufbauen*** ***und aufrechterhalten, soziale Beziehungen aufnehmen)***
+Bewegungsmangel
 
-**Bedeutende Lebensbereiche***** (z. B. Arbeit und Beschäftigung,*** ***Erziehung und Bildung, wirtschaftliche Eigenständigkeit, sich beschäftigen***  ***können)***
+Fehlhaltung
 
-**Gemeinschaftsleben und soziales Leben** ***(z. B. am Gemeinschafts-***  ***leben beteiligen, Erholung und Freizeit***
+Fehl-/  Mangelernährung
 
-**F. Nicht nur vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe** nicht  durchführbar personelle  Hilfe nötig Einschrän-  kungen keine Beein-  trächtigungen
+Medikamente
+
+Nikotin
+
+Sonstiges
+
+***z.B. Suchtmittel***
+
+**Häusliches Leben***** (z. B. Einkaufen, Mahlzeiten vorbereiten,***
+
+***Hausarbeit verrichten, anderen Familienmitgliedern helfen)***
+
+**Interpersonelle Aktivitäten***** (z. B. Familienbeziehungen aufbauen***
+
+***und aufrechterhalten, soziale Beziehungen aufnehmen)***
+
+**Bedeutende Lebensbereiche***** (z. B. Arbeit und Beschäftigung,***
+
+***Erziehung und Bildung, wirtschaftliche Eigenständigkeit, sich beschäftigen***  ***können)***
+
+**Gemeinschaftsleben und soziales Leben** ***(z. B. am Gemeinschafts-***
+
+***leben beteiligen, Erholung und Freizeit***
+
+**F. Nicht nur vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe**
+
+nicht
+
+durchführbar
+
+personelle
+
+Hilfe nötig
+
+Einschrän-
+
+kungen
+
+keine Beein-
+
+trächtigungen
 
 **Ausfertigung für die Krankenkasse**
 
-**Lernen und Wissensanwendung** ***z. B. Probleme lösen,*** ***Entscheidungen treffen)***
+**Lernen und Wissensanwendung** ***z. B. Probleme lösen,***
 
-**Allgemeine Aufgaben und Anforderungen** ***(z. B. tägliche*** ***Routine durchführen, mit Belastungen, Krisen sowie Stress umgehen)***
+***Entscheidungen treffen)***
 
-**Kommunikation** ***(z. B. Konversation betreiben, Mitteilungen schreiben,*** ***Kommunikationsgeräte benutzen können)***
+**Allgemeine Aufgaben und Anforderungen** ***(z. B. tägliche***
+
+***Routine durchführen, mit Belastungen, Krisen sowie Stress umgehen)***
+
+**Kommunikation** ***(z. B. Konversation betreiben, Mitteilungen schreiben,***
+
+***Kommunikationsgeräte benutzen können)***
 
 Transfer Bett / Stuhl bzw. Rollstuhl
 
@@ -52,12 +98,22 @@ Toilettenbenutzung
 
 Sonstige
 
-janein**Der/die Patient/in verfügt über ausreichende physische und psychische Belastbarkeit**
+ja
+
+nein
+
+**Der/die Patient/in verfügt über ausreichende physische und psychische Belastbarkeit**
 
 **III. Angaben zur Rehabilitationsfähigkeit**
 
 BMI
 
-Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung
+Name, Vorname des Versicherten
 
-PRF.NR.  Muster 61 Teil Ca/E (7.2022)
+Versicherten-Nr.
+
+Kostenträgerkennung
+
+PRF.NR.
+
+Muster 61 Teil Ca/E (7.2022)

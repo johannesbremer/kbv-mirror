@@ -1,10 +1,14 @@
-# zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+# zur Prüfung der Dokumentationsdaten
+
+# des strukturierten Behandlungsprogramms
 
 # Chronischer Rückenschmerz
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
 
 - Anlage 16* -
 
@@ -14,9 +18,11 @@
 
 **gültig ab 01.10.2019**
 
-**Version: 1.1**
+# Version: 1.1
 
-**23.10.2020**    **01.04.2021**
+**23.10.2020**
+
+**01.04.2021**
 
 
 ---
@@ -68,4 +74,12 @@ mindestens eines individuell vereinbarten Ziele seit der 1 letzten Dokumentation
 
 ---
 
-1 Hinweis für die Ausfüllanleitung: Die Angaben sind erst bei der zweiten und allen folgenden  Dokumentationen zu machen.  2 Hinweis für die Ausfüllanleitung: Hier ist auch eine Selbstmedikation zu dokumentieren.  3 Hinweis für die Ausfüllanleitung: Die Angaben sind nur bei der ersten Dokumentation zu machen.  4 Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP Teilnahme durch die Krankenkasse.
+1 Hinweis für die Ausfüllanleitung: Die Angaben sind erst bei der zweiten und allen folgenden
+
+Dokumentationen zu machen.
+
+2 Hinweis für die Ausfüllanleitung: Hier ist auch eine Selbstmedikation zu dokumentieren.
+
+3 Hinweis für die Ausfüllanleitung: Die Angaben sind nur bei der ersten Dokumentation zu machen.
+
+4 Hinweis für die Ausfüllanleitung: Sofern hier „Ja“ angegeben wird, erfolgt eine Beendigung der DMP Teilnahme durch die Krankenkasse.

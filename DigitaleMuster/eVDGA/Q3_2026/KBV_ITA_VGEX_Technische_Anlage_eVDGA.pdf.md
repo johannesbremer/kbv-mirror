@@ -15,34 +15,78 @@ TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER  GESUNDHEITS ANWENDUNG
 
 ## INHALT
 
-**1** **EINLEITUNG 6**
+**1** **EINLEITUNG**
 
-**2** **ÜBERBLICK 7**
+**6**
 
-**3** **FHIR®-DEFINITIONEN 8**
+**2** **ÜBERBLICK**
 
-3.1 Dateiname FHIR-Profile 8  3.2 Formularübergreifende Profile 9  3.3 spezifische Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen 9  3.4 spezifische Valuesets und Codesysteme der elektronischen Verordnung digitaler  Gesundheitsanwendungen 10  3.5 Vorgaben zur Verwendung der formularübergreifenden und spezifischen Profile 10  3.5.1 Allgemeine Vorgaben 10  3.5.2 Erstellung der Instanz einer elektronischen Gesundheitsanwendungen-Verordnung 13  1.1.2 Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen  Gesundheitsanwendungen-Verordnung 17
+**7**
 
-**2** **ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN VERORDNUNG DIGITALER**  **GESUNDHEITSANWENDUNGEN 21**
+**3** **FHIR®-DEFINITIONEN**
+
+**8**
+
+3.1 Dateiname FHIR-Profile
+
+8
+
+3.2 Formularübergreifende Profile 9
+
+3.3 spezifische Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen 9
+
+3.4 spezifische Valuesets und Codesysteme der elektronischen Verordnung digitaler
+
+Gesundheitsanwendungen 10
+
+3.5 Vorgaben zur Verwendung der formularübergreifenden und spezifischen Profile 10
+
+3.5.1 Allgemeine Vorgaben
+
+10
+
+3.5.2 Erstellung der Instanz einer elektronischen Gesundheitsanwendungen-Verordnung 13
+
+1.1.2 Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen  Gesundheitsanwendungen-Verordnung 17
+
+**2** **ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN VERORDNUNG DIGITALER**  **GESUNDHEITSANWENDUNGEN**
+
+**21**
 
 **3** **ÜBERTRAGUNG DER ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN** **23**
 
-**4** **FESTLEGUNG FÜR DIE SOFTWARE** **24**
+**4** **FESTLEGUNG FÜR DIE SOFTWARE**
 
-4.1 Übergreifende Anforderungen 24  4.2 Bereitstellung eines Patientenausdrucks 24
+**24**
 
-**4** **ABZUBILDENDE INFORMATIONEN** **34**
+4.1 Übergreifende Anforderungen 24
 
-**5** **REFERENZIERTE DOKUMENTE** **53**
+4.2 Bereitstellung eines Patientenausdrucks 24
+
+**4** **ABZUBILDENDE INFORMATIONEN**
+
+**34**
+
+**5** **REFERENZIERTE DOKUMENTE**
+
+**53**
 
 
 ---
 
-## TABELLENVERZEICHNIS
+# TABELLENVERZEICHNIS
 
-Tabelle 1: KBV_PR_EVDGA_Bundle  Tabelle 2: KBV_PR_EVDGA_Composition  Tabelle 3: KBV_PR_EVDGA_HealthAppRequest Tabelle 5: KBV_CS_EVDGA_Section_Type  Tabelle 6: KBV_VS_EVDGA_Accident_Type  Tabelle 7: Mapping KBV_PR_EVDGA_HealthAppRequest Tabelle 8: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest Tabelle 9: Mapping KBV_PR_EVDGA_Composition  Tabelle 10: Referenzierte Instanzen KBV_PR_EVDGA_Composition Tabelle 11: Mapping KBV_PR_EVDGA_Bundle  Tabelle 12: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler  Gesundheitsanwendungen
+Tabelle 1: KBV_PR_EVDGA_Bundle  Tabelle 2: KBV_PR_EVDGA_Composition
 
-## ABBILDUNGSVERZEICHNIS
+Tabelle 3: KBV_PR_EVDGA_HealthAppRequest Tabelle 5: KBV_CS_EVDGA_Section_Type
+
+Tabelle 6: KBV_VS_EVDGA_Accident_Type
+
+Tabelle 7: Mapping KBV_PR_EVDGA_HealthAppRequest Tabelle 8: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest Tabelle 9: Mapping KBV_PR_EVDGA_Composition  Tabelle 10: Referenzierte Instanzen KBV_PR_EVDGA_Composition Tabelle 11: Mapping KBV_PR_EVDGA_Bundle
+
+Tabelle 12: Auflistung der abzubildenden Felder für die elektronische Verordnung digitaler  Gesundheitsanwendungen
+
+# ABBILDUNGSVERZEICHNIS
 
 Abbildung 1: Exemplarischer „Ausdruck zur Einlösung
 
@@ -55,7 +99,7 @@ Ihres E-Rezeptes Ihrer Verordnung: DIGA
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 Die Änderungen der Version 1.09 treten zum 01.07.2026 in Kraft.
 
@@ -82,15 +126,33 @@ FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens 
 
 ---
 
-1
+# 1 EINLEITUNG
 
-## EINLEITUNG
+Der Gesetzgeber hat im Zuge des „Gesetzes für eine bessere Versorgung durch Digitalisierung und Innova-
 
-Der Gesetzgeber hat im Zuge des „Gesetzes für eine bessere Versorgung durch Digitalisierung und Innova- tion“ im Rahmen des § 33a SGB V festgelegt, dass Versicherte einen Leistungsanspruch auf Versorgung mit  digitalen Gesundheitsanwendungen haben, welche Medizinprodukte niedriger Risikoklasse darstellen, de- ren Hauptfunktion wesentlich auf digitalen Technologien beruht und die dazu bestimmt sind, bei den Versi- cherten oder in der Versorgung durch Leistungserbringer die Erkennung, Überwachung, Behandlung oder  Linderung von Krankheiten oder die Erkennung, Behandlung, Linderung oder Kompensierung von Verlet- zungen oder Behinderungen zu unterstützen. Damit wurde der Kreis der auch digital verordnungsfähigen  Produkte und Leistungen gemäß § 86 SGB V Abs. 1 Satz 1 Nummer 2 auf digitale Gesundheitsanwendungen  erweitert. Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben demgemäß entsprechende  Regelungen zu treffen, welche die Verordnung sonstiger in der vertragsärztlichen Versorgung verordnungs- fähiger Leistungen in elektronischer Form ermöglichen. Die generellen Vorgaben hierzu sind in der Anlage  2b BMV-Ä [Anlage 2b] enthalten.
+tion“ im Rahmen des § 33a SGB V festgelegt, dass Versicherte einen Leistungsanspruch auf Versorgung mit
+
+digitalen Gesundheitsanwendungen haben, welche Medizinprodukte niedriger Risikoklasse darstellen, de-
+
+ren Hauptfunktion wesentlich auf digitalen Technologien beruht und die dazu bestimmt sind, bei den Versi- cherten oder in der Versorgung durch Leistungserbringer die Erkennung, Überwachung, Behandlung oder  Linderung von Krankheiten oder die Erkennung, Behandlung, Linderung oder Kompensierung von Verlet-
+
+zungen oder Behinderungen zu unterstützen. Damit wurde der Kreis der auch digital verordnungsfähigen  Produkte und Leistungen gemäß § 86 SGB V Abs. 1 Satz 1 Nummer 2 auf digitale Gesundheitsanwendungen  erweitert. Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben demgemäß entsprechende  Regelungen zu treffen, welche die Verordnung sonstiger in der vertragsärztlichen Versorgung verordnungs- fähiger Leistungen in elektronischer Form ermöglichen. Die generellen Vorgaben hierzu sind in der Anlage
+
+2b BMV-Ä [Anlage 2b] enthalten.
 
 Um einen möglichst einheitlichen Prozess in den Arztpraxen zu ermöglichen, wird in der Technischen An- lage zur elektronischen Verordnung digitaler Gesundheitsanwendungen die elektronische Verordnung in  möglichst vielen Varianten unterstützt:
 
-Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten der Berufsgenossenschaften  / Unfallkassen sind mit den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regelt  der Vertrag gemäß § 34 Absatz 3 SGB VII über die Durchführung der Heilbehandlung, die Vergütung der  Ärzte sowie die Art und Weise der Abrechnungen ärztlicher Leistungen.   Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten Sonstiger Kostenträger (SKT)  sind mit den hier definierten FHIR-Profilen möglich, sofern die Kostenträger dies unterstützen und in  den Verträgen mit der KBV und/oder den KVen regeln sowie die Kostenträger die Fachanwendungen der  TI unterstützen und für ihre Versicherten elektronische Gesundheitskarten (eGK) oder digitale Identitä- ten ausgestellt haben und entsprechend eine Versicherten-ID übertragen werden kann.   Eine elektronische Verordnung digitaler Gesundheitsanwendungen zu Lasten von privaten Krankenversi- cherungen ist mit den hier definierten FHIR-Profilen nicht möglich.  Die Vorgaben zu den Prozessen und der technischen Architektur zur Übertragung der Verordnungen von  digitalen Gesundheitsanwendungen erfolgt dem gesetzlichen Auftrag folgend über die Telematikinfrastruk- tur (TI) und wird separat durch die gematik [gemF_eRp_DiGA] [gemSysL_eRp] definiert.
+- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten der Berufsgenossenschaften  / Unfallkassen sind mit den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regelt
+
+- der Vertrag gemäß § 34 Absatz 3 SGB VII über die Durchführung der Heilbehandlung, die Vergütung der  Ärzte sowie die Art und Weise der Abrechnungen ärztlicher Leistungen.
+
+- Elektronische Verordnungen digitaler Gesundheitsanwendungen zu Lasten Sonstiger Kostenträger (SKT)  sind mit den hier definierten FHIR-Profilen möglich, sofern die Kostenträger dies unterstützen und in  den Verträgen mit der KBV und/oder den KVen regeln sowie die Kostenträger die Fachanwendungen der
+
+- TI unterstützen und für ihre Versicherten elektronische Gesundheitskarten (eGK) oder digitale Identitä- ten ausgestellt haben und entsprechend eine Versicherten-ID übertragen werden kann.
+
+- Eine elektronische Verordnung digitaler Gesundheitsanwendungen zu Lasten von privaten Krankenversi- cherungen ist mit den hier definierten FHIR-Profilen nicht möglich.
+
+Die Vorgaben zu den Prozessen und der technischen Architektur zur Übertragung der Verordnungen von  digitalen Gesundheitsanwendungen erfolgt dem gesetzlichen Auftrag folgend über die Telematikinfrastruk- tur (TI) und wird separat durch die gematik [gemF_eRp_DiGA] [gemSysL_eRp] definiert.
 
 In diesem Dokument werden die für die Softwarehersteller relevanten Daten und das Format zur Übertra- gung der Verordnung digitaler Gesundheitsanwendungen in Form der elektronischen Verordnung digitaler  Gesundheitsanwendungen (eVDGA) definiert.
 
@@ -103,70 +165,134 @@ Dieses Dokument enthält Inhalte, die nicht in der Regelungshoheit der Partner d
 
 ---
 
-2
-
-## ÜBERBLICK
+# 2 ÜBERBLICK
 
 Die auszutauschenden Daten zwischen den beteiligten Systemen  definiert.
 
-Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel 3 festgelegt.  Das Kapitel 2 enthält die Anforderungen an die Visualisierung und die Signatur. Die Anforderungen an die Übertragung der Verordnung werden in  In Kapitel 4 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR® Kapitel 4 beschrieben.
+- Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel 3 festgelegt.
 
-sind auf Basis des HL7 FHIR® R4
+- Das Kapitel 2 enthält die Anforderungen an die Visualisierung und die Signatur.
 
-Kapitel 3 genannt.
+- Die Anforderungen an die Übertragung der Verordnung werden in
 
--Ressourcen werden in
+- In Kapitel 4 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben
+
+- Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR® Kapitel 4 beschrieben.
+
+sind auf Basis des HL7 FHIR® R4 -
+
+- Kapitel 3 genannt.
+
+- -Ressourcen werden in
 
 Standards
 
 
 ---
 
-3
+# 3 FHIR®-DEFINITIONEN
 
-## FHIR®-DEFINITIONEN
+-Ressourcen, welche in verschiedenen Bereichen des
 
--Ressourcen, welche in verschiedenen Bereichen des Die FHIR®-Spezifikation definiert eine Reihe von Basis elektronischen Verordnung Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der  digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro- file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.  -Profilen und den KBV-Basisprofilen verwendet wer-Folglich müssen diese Profile mit den deutschen Basis den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente  finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses  Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften  sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile].
+Die FHIR®-Spezifikation definiert eine Reihe von Basis
+
+elektronischen Verordnung
+
+Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der  digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro-
+
+file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.  -Profilen und den KBV-Basisprofilen verwendet wer-
+
+Folglich müssen diese Profile mit den deutschen Basis den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente
+
+finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses  Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften  sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile].
 
 Sie finden die Profile unter: [https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/) sowie auf der Web- seite Simplifier unter [https://simplifier.net/evdga](https://simplifier.net/evdga).
 
 werden. Diese CodeSysteme und ValueSets
 
-In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen  kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter [https://simpli-](https://simpli-) fier.net/kbvschluesseltabellen.
+In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen  kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter [https://simpli-](https://simpli-)
 
--Profile der elektroni-Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR® schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile  führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rah- men der Veröffentlichung definiert.
+fier.net/kbvschluesseltabellen.
 
-Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung  -Version, einer Minor-Version und basierend auf der Semantic-Versioning Syntax bestehend aus einer Major einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen- zieren der Profil-Version im eVDGA-FHIR-Projekt erfolgt ohne Angabe der Patch Version (z.B. „1.2“). Somit  wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- -Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt mentierung der Erstellung der FHIR umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
+-Profile der elektroni-
 
-**3.1** **DATEINAME FHIR-PROFILE**
+Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR® schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile
+
+führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rah-
+
+men der Veröffentlichung definiert.
+
+Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung
+
+-Version, einer Minor-Version und
+
+basierend auf der Semantic-Versioning Syntax bestehend aus einer Major einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen-
+
+zieren der Profil-Version im eVDGA-FHIR-Projekt erfolgt ohne Angabe der Patch Version (z.B. „1.2“). Somit
+
+wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- -Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt
+
+mentierung der Erstellung der FHIR umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
+
+## 3.1 DATEINAME FHIR-PROFILE
 
 Die Dateinamen der FHIR-Profile setzen sich wie folgt zusammen.
 
-Kürzel_Kategorie_Thema_Bezeichnung
+- Kürzel_Kategorie_Thema_Bezeichnung
 
-Bedeutung:
+Bedeutung: - Kürzel
 
-Kürzel  steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert  KBV  Kategorie  Profil  PR  EX Extension  VS ValueSet  CodeSystem  CS  Thema  steht für elektronische Gesundheitsanwendungen-Verordnung  EVDGA
+-
+
+-  KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert - Kategorie
+
+- PR Profil
+
+- EX Extension
+
+- VS ValueSet
+
+- CS  CodeSystem
+
+- Thema
+
+- -Verordnung
+
+-  EVDGA steht für elektronische Gesundheitsanwendungen
 
 
 ---
 
-FOR  steht für formularübergreifende Festlegungen  Bezeichnung - Bezeichnung für das entsprechende Thema
+- FOR  steht für formularübergreifende Festlegungen
+
+- Bezeichnung - Bezeichnung für das entsprechende Thema
 
 | Beispiel:  ›  ›  URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient  › |
 |---|
 
-**3.2** **FORMULARÜBERGREIFENDE PROFILE**
+## 3.2 FORMULARÜBERGREIFENDE PROFILE
 
-Die übergreifenden Profile, welche für alle elektronischen Verordnungen als FHIR® haben, sind im Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Handbuch_DiMus als FHIR®-Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben.
+Die übergreifenden Profile, welche für alle elektronischen Verordnungen als FHIR® haben, sind im Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Handbuch_DiMus
 
-Für die elektronische Verordnung digitaler Gesundheitsanwendungen fenden Profile (inkl. der enthaltenen Extensions, CodeSysteme, ValueSets und NamingSysteme) der Version  1.2.1 zu verwenden:
+als FHIR®-Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben.
 
-KBV_PR_FOR_Patient gemäß P4-05  KBV_PR_FOR_Coverage gemäß P4-04  KBV_PR_FOR_Practitioner gemäß P4-01  KBV_PR_FOR_PractitionerRole gemäß P4-02  KBV_PR_FOR_Organization gemäß P4-03
+Für die elektronische Verordnung digitaler Gesundheitsanwendungen fenden Profile (inkl. der enthaltenen Extensions, CodeSysteme, ValueSets und NamingSysteme) der Version 1.2.1 zu verwenden:
 
-**3.3** **SPEZIFISCHE PROFILE DER ELEKTRONISCHEN VERORDNUNG DIGITALER**  **GEN**
+- KBV_PR_FOR_Patient gemäß P4-05
 
-Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung  nung digitaler Gesundheitsanwendungen notwendig sind. Diese Profile geben Auskunft darüber, wie die  Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um die jeweilige Verord- nungssituation abzubilden. Die Identifikation der Profile erfolgt durch die Angabe einer kanon
+- KBV_PR_FOR_Coverage gemäß P4-04
+
+- KBV_PR_FOR_Practitioner gemäß P4-01
+
+- KBV_PR_FOR_PractitionerRole gemäß P4-02
+
+- KBV_PR_FOR_Organization gemäß P4-03
+
+## 3.3 SPEZIFISCHE PROFILE DER ELEKTRONISCHEN VERORDNUNG DIGITALER  GEN
+
+Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung  nung digitaler Gesundheitsanwendungen notwendig sind. Diese Profile geben Auskunft darüber, wie die
+
+Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um die jeweilige Verord- nungssituation abzubilden. Die Identifikation der Profile erfolgt durch die Angabe einer kanon
 
 | KBV_PR_EVDGA_BUNDLE |  |
 |---|---|
@@ -182,7 +308,7 @@ Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbild
 
 sind die folgenden formularübergrei-
 
-**GESUNDHEITSANWENDUN-**
+## GESUNDHEITSANWENDUN-
 
 der elektronischen Verord-
 
@@ -209,9 +335,9 @@ Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifenden Patienteninf
 
 **Tabelle 3: KBV_PR_EVDGA_HealthAppRequest**
 
-**3.4** **SPEZIFISCHE VALUESETS UND CODESYSTEME DER ELEKTRONISCHEN VERORDNUNG DIGITALER GE-**
+## 3.4 SPEZIFISCHE VALUESETS UND CODESYSTEME DER ELEKTRONISCHEN VERORDNUNG DIGITALER GE-
 
-**SUNDHEITSANWENDUNGEN**
+## SUNDHEITSANWENDUNGEN
 
 Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeuten. ValueSets hingegen  beinhalten einen Satz von Codes aus einem oder mehreren CodeSystem( in einem bestimmten Kontext verwendet werden können.
 
@@ -233,7 +359,7 @@ en), um anzugeben, welche Codes
 
 **Tabelle 5: KBV_VS_EVDGA_Accident_Type**
 
-**3.5** **VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND SPEZIFISCHEN PROFILE**
+## 3.5 VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND SPEZIFISCHEN PROFILE
 
 **3.5.1** **Allgemeine Vorgaben**
 
@@ -249,17 +375,51 @@ Die spezifischen Profile der elektronischen Verordnung digitaler Gesundheitsanwe
 
 **Begründung:**
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese wurden für den vorliegenden Anwendungsbereich  angepasst.
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des
 
-Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen wurden KBV-Profile  erstellt, welche zum Teil von den deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind. Die KBV- Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen  zu verwenden sind.
+Gesundheitswesens eingesetzt werden können. Diese wurden für den vorliegenden Anwendungsbereich
+
+angepasst.
+
+Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen wurden KBV-Profile
+
+erstellt, welche zum Teil von den deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind. Die KBV- Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen
+
+zu verwenden sind.
 
 **Akzeptanzkriterium:**
 
-1. Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen müssen die in  diesem Dokument genannten:  KBV-Profile gemäß Kapitel 3.3  KBV-ValueSets gemäß Kapitel 3.4 und  KBV-CodeSysteme gemäß Kapitel 3.4  eingesetzt werden.  2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2 inklusive der enthaltenen  KBV-Extensions, KBV-ValueSets, KBV-NamingSysteme und KBV-CodeSysteme eingesetzt werden.  3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien 1 und 2 genann- ten Profile, Extensions, ValueSets, NamingSysteme und CodeSysteme sind nicht erlaubt.  4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Hand- buch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden Zeichensatzes sind einzuhalten.
+- 1. Für die Umsetzung der elektronischen Verordnung digitaler Gesundheitsanwendungen müssen die in - diesem Dokument genannten:
+
+- KBV-Profile gemäß Kapitel 3.3
+
+- KBV-ValueSets gemäß Kapitel 3.4 und
+
+- KBV-CodeSysteme gemäß Kapitel 3.4
+
+eingesetzt werden.
+
+- 2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2 inklusive der enthaltenen
+
+- KBV-Extensions, KBV-ValueSets, KBV-NamingSysteme und KBV-CodeSysteme eingesetzt werden.
+
+- 3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien 1 und 2 genann-
+
+- ten Profile, Extensions, ValueSets, NamingSysteme und CodeSysteme sind nicht erlaubt.
+
+- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [KBV_ITA_VGEX_Technisches_Hand-
+
+- buch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden Zeichensatzes sind einzuhalten.
 
 **HINWEIS**
 
-Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen Gesundheits- anwendungen-Verordnung vorliegen können. Die KBV-Profile sowie die darin enthaltenen Attribute sind  immer dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt  oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls er- folgt.
+Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen Gesundheits- anwendungen-Verordnung vorliegen können. Die KBV-Profile sowie die darin enthaltenen Attribute sind
+
+immer dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt
+
+oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls er-
+
+folgt.
 
 |  |  |
 |---|---|
@@ -273,16 +433,20 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 **Akzeptanzkriterium:**
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN „mustSupport“1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
+- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele-
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN „mustSupport“- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
 
 
 ---
 
-2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten  Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  nen.
+- 2. Die Software, welche FHIR-Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten
+
+- Elemente (mustSupport value="true") in den KBV-Profilen unterstützen - nen.
 
 **HINWEIS**
 
-Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderungen definiert.
+- Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderungen definiert.
 
 |  |  |
 |---|---|
@@ -298,7 +462,9 @@ Da einige FHIR®-Profile von den deutschen Basis-Profilen von HL7 abgeleitet wur
 
 Die Software muss zur Validierung
 
-1.  die deutschen Basis-Profile von HL7 [HL7-Basis-Profile] in der Version 1.5.2  2. sowie die KBV [KBV-Basis-Profile] in der Version 1.7.0 einbinden.
+- 1.  die deutschen Basis-Profile von HL7 [HL7-Basis-Profile] in der Version 1.5.2
+
+- 2. sowie die KBV [KBV-Basis-Profile] in der Version 1.7.0 einbinden.
 
 |  |  |
 |---|---|
@@ -308,28 +474,50 @@ Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablau
 
 **Begründung:**
 
-Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der gültigen Version 1.2.2  übergangsweise EVDGA-Verordnungsdatensätze in der Version 1.1.1 nach dem 1. Oktober 2025 akzeptiert  werden.
+Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der gültigen Version 1.2.2  übergangsweise EVDGA-Verordnungsdatensätze in der Version 1.1.1 nach dem 1. Oktober 2025 akzeptiert
 
-**Akzeptanzkriterium** 1. Die Übergangsregelung gilt vom 1. Oktober 2025 bis zum 31. März 2026. a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der Ausstel- lung (im Profil KBV_PR_EVDGA_HealthAppRequest:DeviceRequest.authoredOn) des EVDGA nungsdatensatzes.  b) Im Zeitraum vom 1. Oktober 2025 bis zum 31. März 2026 werden EVDGA den Versionen 1.1.1 und 1.2.2 von den Krankenkassen verarbeitet. 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. April 2026 (der Wert des Elementes gemäß Ak- zeptanzkriterium 1a) >= 01. April 2026), werden nur noch EVDGA 1.2.2 von den Krankenkassen verarbeitet. EVDGA-Verordnungsdatensätze in der Version 1.1.1 werden  als fehlerhaft abgewiesen.
+werden.
+
+**Akzeptanzkriterium**
+
+- 1. Die Übergangsregelung gilt vom 1. Oktober 2025 bis zum 31. März 2026.
+
+- a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der Ausstel- lung (im Profil KBV_PR_EVDGA_HealthAppRequest:DeviceRequest.authoredOn) des EVDGA nungsdatensatzes.
+
+- b) Im Zeitraum vom 1. Oktober 2025 bis zum 31. März 2026 werden EVDGA den Versionen 1.1.1 und 1.2.2 von den Krankenkassen verarbeitet.
+
+- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. April 2026 (der Wert des Elementes gemäß Ak- zeptanzkriterium 1a) >= 01. April 2026), werden nur noch EVDGA 1.2.2 von den Krankenkassen verarbeitet. EVDGA-Verordnungsdatensätze in der Version 1.1.1 werden - als fehlerhaft abgewiesen.
 
 **HINWEIS**
 
-FHIR®- auslesen und verarbeiten kön-
+- FHIR®-
+
+- auslesen und verarbeiten kön-
+
+-
 
 -Profile von HL7 sowie der
 
--FHIR-Profile eingeführt. In diesem Zusammenhang -Verord-
+-FHIR-Profile eingeführt. In diesem Zusammenhang -
 
--Verordnungsdatensätze in
+- -Verord-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 2.2 -Verordnungsdatensätze der Version
+- -Verordnungsdatensätze in
+
+-
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 2.2 - -Verordnungsdatensätze der Version
 
 
 ---
 
-Diese Funktion wird ebenso vom E-Rezept-Fachdienst der gematik und von den Softwaresystemen der  Krankenkassen umgesetzt.
+Diese Funktion wird ebenso vom E-Rezept-Fachdienst der gematik und von den Softwaresystemen der
 
-Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab der Profilversion 1.2.2 ausge- stellt werden.
+Krankenkassen umgesetzt.
+
+Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab der Profilversion 1.2.2 ausge-
+
+stellt werden.
 
 **3.5.2** **Erstellung der Instanz einer elektronischen Gesundheitsanwendungen-Verordnung**
 
@@ -341,15 +529,37 @@ Die Software erzeugt eine Instanz auf Basis der EVDGA-Profile und FOR-Profile im
 
 **Begründung:**
 
-Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format ermöglicht, ist eine  Festlegung des zu verwendenden Formates für alle verarbeitenden Systeme notwendig, da so der Aufwand  im Rahmen der Umsetzung für alle Beteiligten verringert wird.
+Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format ermöglicht, ist eine
+
+Festlegung des zu verwendenden Formates für alle verarbeitenden Systeme notwendig, da so der Aufwand  im Rahmen der Umsetzung für alle Beteiligten verringert wird.
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss die Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen auf  Basis der spezifischen EVDGA-Profile (gemäß Kapitel 3) und der formularübergreifenden Profile (gemäß  Kapitel 2 [KBV_ITA_VGEX_Technisches_Handbuch_DiMus]) als eine Datei  sprich als vollständige In- stanz des Profils KBV_PR_EVDGA_Bundle gemäß P35-24 - im XML-Format erstellen.  2. Die Software muss sicherstellen, dass als Identifikator des Versicherten im Profil KBV_PR_FOR_Patient  eine VersichertenID angeben wird, welche dem unveränderbaren Teil der Krankenversichertennummer  nach § 290 Absatz 1 Satz 2 entspricht.  3. Die Software muss sicherstellen, dass in den Instanzen aller verwendeten EVDGA-Profile und FOR-Profile  das Element meta.profile genau einmal vorhanden ist, da der eRezept-Fachdienst der gematik die An- gabe weiterer Profile nicht unterstützt und zurückweisen würde.
+- 1. Die Software muss die Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen auf
+
+- Basis der spezifischen EVDGA-Profile (gemäß Kapitel 3) und der formularübergreifenden Profile (gemäß  Kapitel 2 [KBV_ITA_VGEX_Technisches_Handbuch_DiMus]) als eine Datei  sprich als vollständige In-
+
+- stanz des Profils KBV_PR_EVDGA_Bundle gemäß P35-24 - im XML-Format erstellen.
+
+- 2. Die Software muss sicherstellen, dass als Identifikator des Versicherten im Profil KBV_PR_FOR_Patient  eine VersichertenID angeben wird, welche dem unveränderbaren Teil der Krankenversichertennummer  nach § 290 Absatz 1 Satz 2 entspricht.
+
+- 3. Die Software muss sicherstellen, dass in den Instanzen aller verwendeten EVDGA-Profile und FOR-Profile
+
+- das Element meta.profile genau einmal vorhanden ist, da der eRezept-Fachdienst der gematik die An-
+
+- gabe weiterer Profile nicht unterstützt und zurückweisen würde.
 
 **HINWEIS**
 
-Die Informationen in einem Bundle bilden das eigentliche Dokument  die elektronische Verordnung  einer digitalen Gesundheitsanwendung.   Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab.  Das Bundle enthält immer die Instanzen aller Profile, die direkt oder indirekt (über Referenzen in refe- renzierten Profilen) durch das Bundle selber oder durch die enthaltene Composition  (KBV_PR_EVDGA_Composition) referenziert werden.  Je Verordnung wird eine Instanz des Bundles KBV_PR_EVDGA_Bundle erstellt.
+- Die Informationen in einem Bundle bilden das eigentliche Dokument  die elektronische Verordnung
+
+- einer digitalen Gesundheitsanwendung.
+
+- Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab.
+
+- Das Bundle enthält immer die Instanzen aller Profile, die direkt oder indirekt (über Referenzen in refe- renzierten Profilen) durch das Bundle selber oder durch die enthaltene Composition  (KBV_PR_EVDGA_Composition) referenziert werden.
+
+- Je Verordnung wird eine Instanz des Bundles KBV_PR_EVDGA_Bundle erstellt.
 
 |  |  |
 |---|---|
@@ -364,9 +574,9 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 ---
 
-### Akzeptanzkriterium:
+#### Akzeptanzkriterium:
 
-1. Das Mapping der Informationen aus  wie folgt erfolgen:
+- 1. Das Mapping der Informationen aus  wie folgt erfolgen:
 
 | KBV_PR_EVDGA_HEALTHAPPREQUEST | | | |
 |---|---|---|---|
@@ -383,17 +593,21 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 **Tabelle 6: Mapping KBV_PR_EVDGA_HealthAppRequest**
 
-2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium - len.
 
-len.  a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [
+- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [
 
-log_VDGA] zu befüllen.  b) Optionale Felder müssen befüllt werden können.  3. Die Instanz des KBV_PR_EVDGA_HealthAppRequest muss die folgenden Instanzen referenzieren kön- nen:
+- log_VDGA] zu befüllen.
 
-Kapitel 4 auf das Profil KBV_PR_EVDGA_HealthAppRequest muss
+- b) Optionale Felder müssen befüllt werden können.
 
-1 aufgeführten Datenfelder zu befül-
+- 3. Die Instanz des KBV_PR_EVDGA_HealthAppRequest muss die folgenden Instanzen referenzieren kön- nen:
 
-daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. EXT_ITA_VGEX_Anforderungskata-
+- Kapitel 4 auf das Profil KBV_PR_EVDGA_HealthAppRequest muss -
+
+- 1 aufgeführten Datenfelder zu befül-
+
+daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
 
 
 ---
@@ -413,13 +627,13 @@ daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension
 
 Die Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Composition als fachlichen Rahmen der  elektronischen Verordnung digitaler Gesundheitsanwendungen
 
-### Begründung:
+#### Begründung:
 
 Die Composition definiert die Gesamtheit von Informationen, die zu einem einzigen logischen Dokument  zusammengefügt werden sollen und bildet den fachlichen Rahmen der elektronischen Verordnung digitaler  Gesundheitsanwendungen.
 
-### Akzeptanzkriterium:
+#### Akzeptanzkriterium:
 
-1. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Composition muss wie folgt  erfolgen:
+- 1. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Composition muss wie folgt  erfolgen:
 
 | KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
@@ -430,14 +644,20 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 
 **Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
 
-2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium  len.
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium  len.
 
-14-16 + 26 33 + 35-38 + 44 - 49, 147 FHIR®-Element [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- Daten FHIR®-Mapping lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. 1 aufgeführten Datenfelder zu befül-
+14-16 + 26 33 + 35-38 + 44 - 49, 147 FHIR®-Element [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- Daten FHIR®-Mapping lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. - 1 aufgeführten Datenfelder zu befül-
 
 
 ---
 
-a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [EXT_ITA_VGEX_Anforderungskata- log_VDGA] zu befüllen.  b) Optionale Felder müssen befüllt werden können.   3. Die Instanz des KBV_PR_EVDGA_Composition muss die folgenden Instanzen referenzieren können:
+- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß [EXT_ITA_VGEX_Anforderungskata-
+
+- log_VDGA] zu befüllen.
+
+- b) Optionale Felder müssen befüllt werden können.
+
+- 3. Die Instanz des KBV_PR_EVDGA_Composition muss die folgenden Instanzen referenzieren können:
 
 | KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
@@ -469,7 +689,15 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 
 **Akzeptanzkriterium:**
 
-1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.  a) Dieses Profil muss unter dem FHIR Element „entry.resource“ zuerst die Instanz des Profils  KBV_PR_EVDGA_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder  indirekt referenzierten Instanzen als eigene Elemente enthalten.  2. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Bundle muss wie folgt er- folgen:
+- 1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.
+
+- a) Dieses Profil muss unter dem FHIR Element „entry.resource“ zuerst die Instanz des Profils
+
+- KBV_PR_EVDGA_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder  indirekt referenzierten Instanzen als eigene Elemente enthalten.
+
+- 2. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Bundle muss wie folgt er-
+
+- folgen:
 
 | KBV_PR_EVDGA_BUNDLE | | | |
 |---|---|---|---|
@@ -478,7 +706,7 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 
 **Tabelle 10: Mapping KBV_PR_EVDGA_Bundle**
 
-3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium  tisch befüllt werden.
+- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium  tisch befüllt werden.
 
 **3.5.3** **Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen Gesundheitsanwen-** **dungen-Verordnung**
 
@@ -494,36 +722,56 @@ Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weite
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss in dem Profil KBV_PR_EVDGA_ den Person (über Element „author.reference“ und Element „ antwortliche Person (über Element „attester.party.reference a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type
+- 1. Die Software muss in dem Profil KBV_PR_EVDGA_ den Person (über Element „author.reference“ und Element „
 
--Profilen mit Kontext in einer einzigen Instanz. In
+- antwortliche Person (über Element „attester.party.reference
 
-muss die Soft-
+- a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type
 
-2 aufgeführten Datenfelder automa-
+-Profilen mit Kontext in einer einzigen Instanz. In - muss die Soft-
+
+-
+
+- 2 aufgeführten Datenfelder automa-
 
 ermöglicht es neben der Person, welche
 
 und im Krankenhaus) zu
 
-Composition ermöglichen, dass neben der ausstellen- author.type = „Practitioner“) auch die ver- hinterlegt werden kann.
+- Composition ermöglichen, dass neben der ausstellen- author.type = „Practitioner“) auch die ver-
 
-[gemILF_PS_eRP] über die Kompo- Composition = „Practitioner“ im Profil
+- hinterlegt werden kann.
+
+[gemILF_PS_eRP] über die Kompo- Composition - = „Practitioner“ im Profil
 
 
 ---
 
-KBV_PR_EVDGA_Composition) der Typ der ausstellenden Person (Element „qualifica- tion.code.coding.value“ im Profil KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbil- dung) oder „04“ (Arzt als Vertreter) belegt ist.  b) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der verantwortlichen Per- son (Element „attester.party.reference“ im Profil KBV_PR_EVDGA_Composition) der Typ der verant- wortlichen Person (Element „qualification.code.coding.value“ im Profil KBV_PR_FOR_Practitioner)  nicht mit dem Wert „02“ oder „03“ belegt ist.  c) Dies muss erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person (Element  „author.reference“ und Element „author.type“ = „Practitioner“ im Profil KBV_PR_EVDGA_Composi- tion) der Typ der ausstellenden Person (Element „qualification.code.coding.value“ im Profil  KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbildung) belegt und kein Identifikator  (Element identifier im Profil KBV_PR_FOR_Practitioner) hinterlegt ist.
+- KBV_PR_EVDGA_Composition) der Typ der ausstellenden Person (Element „qualifica-
+
+- tion.code.coding.value“ im Profil KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbil-
+
+- dung) oder „04“ (Arzt als Vertreter) belegt ist.
+
+- b) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der verantwortlichen Per-
+
+- son (Element „attester.party.reference“ im Profil KBV_PR_EVDGA_Composition) der Typ der verant- wortlichen Person (Element „qualification.code.coding.value“ im Profil KBV_PR_FOR_Practitioner)  nicht mit dem Wert „02“ oder „03“ belegt ist.
+
+- c) Dies muss erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person (Element  „author.reference“ und Element „author.type“ = „Practitioner“ im Profil KBV_PR_EVDGA_Composi- tion) der Typ der ausstellenden Person (Element „qualification.code.coding.value“ im Profil
+
+- KBV_PR_FOR_Practitioner) mit dem Wert „03“ (Arzt in Weiterbildung) belegt und kein Identifikator  (Element identifier im Profil KBV_PR_FOR_Practitioner) hinterlegt ist.
 
 **HINWEIS**
 
-Die Angabe einer verantwortlichen Person ist in der zahnärztlichen Versorgung weder im Rahmen der  Weiterbildung noch im Vertretungsfall notwendig. Eine Klarstellung dieses Sachverhaltes ist in der Wei- terentwicklung der FHIR-Profile vorgesehen.
+- Die Angabe einer verantwortlichen Person ist in der zahnärztlichen Versorgung weder im Rahmen der  Weiterbildung noch im Vertretungsfall notwendig. Eine Klarstellung dieses Sachverhaltes ist in der Wei- terentwicklung der FHIR-Profile vorgesehen.
 
 |  |  |
 |---|---|
 | P35-32 | Zu hinterlegender Identifikator in der Bundle-Instanz |
 
-Als Dokumenten-ID für einen Verordnungsdatensatz ist eine Rezept-ID, welche vom E-Rezept-Fachdienst  der gematik bezogen wurde, als eindeutiger Identifikator im Bundle zu hinterlegen.
+Als Dokumenten-ID für einen Verordnungsdatensatz ist eine Rezept-ID, welche vom E-Rezept-Fachdienst
+
+der gematik bezogen wurde, als eindeutiger Identifikator im Bundle zu hinterlegen.
 
 **Begründung:**
 
@@ -531,7 +779,13 @@ Durch die Verwendung einer Rezept-ID, welche vom E-Rezept-Fachdienst der gematik
 
 **Akzeptanzkriterium**
 
-1. Die Software muss für jede Instanz einer elektronische Gesundheitsanwendungen-Verordnung jeweils  eine Rezept-ID der gematik gemäß der Anforderung A_19276 im Dokument [gemILF_PS_eRP] vom E- Rezept-Fachdienst der gematik abrufen und im Element „identifier“ in der Instanz des Profils  KBV_PR_EVDGA_Bundle hinterlegen.
+- 1. Die Software muss für jede Instanz einer elektronische Gesundheitsanwendungen-Verordnung jeweils
+
+- eine Rezept-ID der gematik gemäß der Anforderung A_19276 im Dokument [gemILF_PS_eRP] vom E-
+
+- Rezept-Fachdienst der gematik abrufen und im Element „identifier“ in der Instanz des Profils
+
+- KBV_PR_EVDGA_Bundle hinterlegen.
 
 |  |  |
 |---|---|
@@ -545,28 +799,52 @@ Die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversich
 
 **Akzeptanzkriterium:**
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 4. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der gesetzlichen Unfallversi- cherung verhindern:  a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
+- 4. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der gesetzlichen Unfallversi-
+
+- cherung verhindern:
+
+- a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
 
 
 ---
 
-b) Die Software muss sicherstellen, dass das Element „extension.extension.value[x]“ im Profil  KBV_PR_EVDGA_HealthAppRequest nicht mit den Werten „2“ (Arbeitsunfall) oder „4“ (Berufskrank- heit) versehen werden kann.  c) Die Software muss sicherstellen, dass das Element „payor.identifier.extension.value[x].value“ im Pro- fil KBV_PR_FOR_Coverage nicht angegeben werden kann.
+- b) Die Software muss sicherstellen, dass das Element „extension.extension.value[x]“ im Profil  KBV_PR_EVDGA_HealthAppRequest nicht mit den Werten „2“ (Arbeitsunfall) oder „4“ (Berufskrank- heit) versehen werden kann.
+
+- c) Die Software muss sicherstellen, dass das Element „payor.identifier.extension.value[x].value“ im Pro- fil KBV_PR_FOR_Coverage nicht angegeben werden kann.
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-34 | Festlegung des Ausstellungsdatums zum Signaturzeitpunkt |
 
-Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Ausstellungsdatum dem Da- tum der qualifizierten elektronischen Signatur entspricht. Wenn die beiden Datumsangaben zum Zeitpunkt  der Signatur unterschiedlich sind, muss die Software das in dem FHIR-Datensatz hinterlegte Ausstellungsda- tum aktualisieren.
+Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Ausstellungsdatum dem Da-
+
+tum der qualifizierten elektronischen Signatur entspricht. Wenn die beiden Datumsangaben zum Zeitpunkt  der Signatur unterschiedlich sind, muss die Software das in dem FHIR-Datensatz hinterlegte Ausstellungsda-
+
+tum aktualisieren.
 
 **Begründung**
 
-Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler  Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass das  Ausstellungsdatum einer Verordnung zum tatsächlich Ausstellungszeitpunkt gesetzt wird bzw. gesetzt wer- den kann.
+Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler
 
-Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn Ausstel- lungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E-Rezept- Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRP] Anforderung A_22893).
+Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass das  Ausstellungsdatum einer Verordnung zum tatsächlich Ausstellungszeitpunkt gesetzt wird bzw. gesetzt wer- den kann.
+
+Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn Ausstel- lungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E-Rezept-
+
+Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRP] Anforderung A_22893).
 
 **Akzeptanzkriterium:**
 
-1. Die Software prüft direkt vor der Anforderung einer Signatur gemäß P4-01, ob das Ausstellungsdatum  (DeviceRequest.authoredOn) in dem FHIR-Verordnungsdatensatz dem aktuellen Datum entspricht.  a) Sofern eine Abweichung vorliegt, aktualisiert das System automatisch das Ausstellungsdatum auf das  aktuelle Tagesdatum.  b) Im Anschluss startet automatisch der angeforderte Signaturvorgang.   2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
+- 1. Die Software prüft direkt vor der Anforderung einer Signatur gemäß P4-01, ob das Ausstellungsdatum
+
+- (DeviceRequest.authoredOn) in dem FHIR-Verordnungsdatensatz dem aktuellen Datum entspricht.
+
+- a) Sofern eine Abweichung vorliegt, aktualisiert das System automatisch das Ausstellungsdatum auf das  aktuelle Tagesdatum.
+
+- b) Im Anschluss startet automatisch der angeforderte Signaturvorgang.
+
+- 2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
 
 |  |  |
 |---|---|
@@ -576,18 +854,46 @@ Die Software darf zum Zeitpunkt der Anforderung der qualifizierten elektronische
 
 **Begründung**
 
-Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler  Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass  zum Zeitpunkt der Ausstellung die korrekte ausstellende Person im FHIR-Verordnungsdatensatz gesetzt  wird bzw. gesetzt werden kann
+Um verschiedene Prozesse der Vorbereitung und Ausstellung von elektronischen Verordnungen digitaler
+
+Gesundheitsanwendungen durch die Mitarbeiter der Praxis zu unterstützen, muss es möglich sein, dass  zum Zeitpunkt der Ausstellung die korrekte ausstellende Person im FHIR-Verordnungsdatensatz gesetzt
+
+wird bzw. gesetzt werden kann
 
 Für eine valide Verordnung muss, die im FHIR-Verordnungsdatensatz hinterlegte ausstellende Person iden- tisch mit der in der Signatur hinterlegten Person sein.
 
 **Akzeptanzkriterium:**
 
-OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
+- 1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver-
+
+OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
 
 
 ---
 
-a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung der ausstellenden Person im FHIR-Verordnungsdatensatz  ermöglichen.  b) Der Anwender bestätigt die Änderung.   c) Wenn die Bestätigung gemäß Akzeptanzkriterium 1.b) erfolgt, startet im Anschluss automatisch der  angeforderte Signaturvorgang.  d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium 1.b) erfolgt,  wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.  2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der ausstellenden Person im FHIR-Verordnungsdatensatz ohne Einwilligung des Anwen- ders nicht vornehmen.  3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der  ausstellenden Person im FHIR-Verordnungsdatensatz anbieten.  a) Auf eine Bestätigung gemäß Akzeptanzkriterium 1.b) kann verzichtet werden.  b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
+- a) Die Software darf ausschließlich die aktuell am System angemeldete Person, welche die Signatur  durchführen möchte, für die Aktualisierung der ausstellenden Person im FHIR-Verordnungsdatensatz - ermöglichen.
+
+- b) Der Anwender bestätigt die Änderung.
+
+- c) Wenn die Bestätigung gemäß Akzeptanzkriterium 1.b) erfolgt, startet im Anschluss automatisch der
+
+- angeforderte Signaturvorgang.
+
+- d) Sofern keine Bestätigung der Änderung durch den Anwender gemäß Akzeptanzkriterium 1.b) erfolgt,
+
+- wird der Signaturvorgang mit einer entsprechenden Meldung für den Anwender abgelehnt.
+
+- 2. Die Software darf standardmäßig (nach Installation bzw. Bereitstellung der Funktion) eine automatische  Überschreibung der ausstellenden Person im FHIR-Verordnungsdatensatz ohne Einwilligung des Anwen-
+
+- ders nicht vornehmen.
+
+- 3. Die Software kann über geeignete Konfigurationseinstellungen eine automatische Aktualisierung der
+
+- ausstellenden Person im FHIR-Verordnungsdatensatz anbieten.
+
+- a) Auf eine Bestätigung gemäß Akzeptanzkriterium 1.b) kann verzichtet werden.
+
+- b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
 
 |  |  |
 |---|---|
@@ -601,20 +907,30 @@ Die privaten Krankenversicherungen nehmen nicht am Verfahren der elektronischen 
 
 **Akzeptanzkriterium:**
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 1. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der privaten Krankenversi- cherung verhindern:  a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit dem Wert „PKV“ versehen werden kann.  b) Die Software muss sicherstellen, dass das Element „identifier.type.coding.code“ im Profil  KBV_PR_FOR_Patient nicht mit dem Wert „PKV“ versehen werden kann.  c) Die Software muss sicherstellen, dass das Element „extension.value[x].system“ im Profil  KBV_PR_FOR_Composition nicht mit dem Wert „[https://fhir.kbv.de/CodeSys-](https://fhir.kbv.de/CodeSys-) tem/KBV_CS_SFHIR_KBV_PKV_TARIFF“ versehen werden kann.
+- 1. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der privaten Krankenversi-
+
+- cherung verhindern:
+
+- a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit dem Wert „PKV“ versehen werden kann.
+
+- b) Die Software muss sicherstellen, dass das Element „identifier.type.coding.code“ im Profil  KBV_PR_FOR_Patient nicht mit dem Wert „PKV“ versehen werden kann.
+
+- c) Die Software muss sicherstellen, dass das Element „extension.value[x].system“ im Profil  KBV_PR_FOR_Composition nicht mit dem Wert „[https://fhir.kbv.de/CodeSys-](https://fhir.kbv.de/CodeSys-) tem/KBV_CS_SFHIR_KBV_PKV_TARIFF“ versehen werden kann.
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 
 ---
 
-2
-
-ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN  VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
+2 ANFORDERUNGEN AN DAS SIGNIEREN DER ELEKTRONISCHEN  VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P4-01 | Auswahl der Signaturvarianten |
 
-Die Software stellt sicher, dass der Anwender die zu versendende elektronische Gesundheitsanwendungen- Verordnung entsprechend den Vorgaben des Bundesmantelvertrags
+Die Software stellt sicher, dass der Anwender die zu versendende elektronische Gesundheitsanwendungen-
+
+Verordnung entsprechend den Vorgaben des Bundesmantelvertrags
 
 **Begründung:**
 
@@ -622,7 +938,19 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der  stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird. 2. Der Anwender muss die folgenden Möglichkeiten haben:   a) Setzen einer Stapelsignatur auf die erzeugten Instanzen   b) Setzen einer Einzelsignatur auf die erzeugte Instanz   3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.  4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung  Rezept [gemILF_PS_eRP] zu entnehmen.
+- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der  stanz von KBV_PR_EVDGA_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung  eines elektronischen Heilberufsausweises (eHBA) versehen wird.
+
+- 2. Der Anwender muss die folgenden Möglichkeiten haben:
+
+- a) Setzen einer Stapelsignatur auf die erzeugten Instanzen
+
+- b) Setzen einer Einzelsignatur auf die erzeugte Instanz
+
+- 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des
+
+- Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.
+
+- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung  Rezept [gemILF_PS_eRP] zu entnehmen.
 
 |  |  |
 |---|---|
@@ -636,39 +964,41 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets  zu lassen.  2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
+- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets  zu lassen.
+
+- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
 
 -Ärzte Anlage 2b [Anlage 2b] signiert.
 
-EVDGA-Profile  sprich die In-
+- EVDGA-Profile  sprich die In-
 
-E-
+-
 
-Weise anzeigen
+- E-
 
-[eVDGA-Stylesheet] anzeigen
+Weise anzeigen - [eVDGA-Stylesheet] anzeigen
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN -Repräsentation auf Basis
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - -Repräsentation auf Basis
 
 
 ---
 
 **HINWEIS**
 
-Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewähl- ten Algorithmus einzelne Instanzen anzeigen, und so die Prüfung erleichtern.
+- Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewähl- ten Algorithmus einzelne Instanzen anzeigen, und so die Prüfung erleichtern.
 
 
 ---
 
-3
-
-## ÜBERTRAGUNG DER ELEKTRONISCHEN VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
+3 ÜBERTRAGUNG DER ELEKTRONISCHEN VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P5-01 | Umsetzung der Vorgaben der gematik zur |
 
-Die Übertragung der elektronischen Verordnung digitaler Gesundheitsanwendungen erfolgt in der TI über  die Fachanwendung E-Rezept. Die Software des Anwenders setzt dazu die definierten Anforderungen der  gematik zum E-Rezept um.
+Die Übertragung der elektronischen Verordnung digitaler Gesundheitsanwendungen erfolgt in der TI über
+
+die Fachanwendung E-Rezept. Die Software des Anwenders setzt dazu die definierten Anforderungen der  gematik zum E-Rezept um.
 
 **Begründung:**
 
@@ -676,20 +1006,50 @@ Gemäß § 312 Absatz 1 Punkt 7 SGB V hat die gematik die Maßnahmen durchzufüh
 
 **Akzeptanzkriterium:**
 
-1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRP] für die Übermittlung der elektro- nischen Verordnung digitaler Gesundheitsanwendungen im Rahmen der Fachanwendung E-Rezept in  der TI um.  2. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherte bei einem „Sonstigen  Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (Informationsmodell  Nr. 19a). In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach den  bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_VDGA] und [Anlage 2].  a) Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger-Abrechnungsbe- reich kann 00 - 09 sein.  **Beispiel:** Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.  3. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten der gesetzli- chen Unfallversicherung erfolgt.  4. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten einer privaten  Krankenversicherung erfolgt.
+- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRP] für die Übermittlung der elektro-
+
+- nischen Verordnung digitaler Gesundheitsanwendungen im Rahmen der Fachanwendung E-Rezept in - der TI um.
+
+- 2. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
+
+- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherte bei einem „Sonstigen
+
+- Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (Informationsmodell
+
+- Nr. 19a). In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach den
+
+- bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_VDGA] und [Anlage 2].
+
+- a) Identifizierung eines „Sonstigen Kostenträgers“:
+
+- Die Seriennummer der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger-Abrechnungsbe-
+
+- reich kann 00 - 09 sein.  **Beispiel:** Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861
+
+- (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
+
+- 3. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
+
+- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten der gesetzli- chen Unfallversicherung erfolgt.
+
+- 4. Die Software muss sicherstellen, dass der Versand einer elektronischen Gesundheitsanwendungen-Ver-
+
+- ordnung über die Fachanwendung E-Rezept nicht erfolgt, wenn die Verordnung zu Lasten einer privaten  Krankenversicherung erfolgt.
 
 **HINWEIS**
 
-Gemäß dem Anforderungskatalog für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_VDGA]  muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen. Im Kontext der Verord- nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor- gungssituationen, wie bspw. Haus- und Heimbesuchen.
+Gemäß dem Anforderungskatalog für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_VDGA]
+
+muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen. Im Kontext der Verord-
+
+nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor- gungssituationen, wie bspw. Haus- und Heimbesuchen.
 
 elektronischen Gesundheitsanwendungen-Verord- nung
 
 
 ---
 
-4
-
-## FESTLEGUNG FÜR DIE SOFTWARE
+# 4 FESTLEGUNG FÜR DIE SOFTWARE
 
 **4.1** **ÜBERGREIFENDE ANFORDERUNGEN**
 
@@ -705,11 +1065,13 @@ Für die fehlerfreie Weiterverarbeitung der elektronischen Verordnung digitaler 
 
 **Akzeptanzkriterium:**
 
-1. Die Software stellt auf geeignete Weise sicher, dass die erzeugten, zu signierenden und zu versenden- den Dateien valide sind und den EVDGA-FHIR-Profilen [EVDGA-Profile] entsprechen.  2. Die Software stellt sicher, dass bei der Erstellung der  gen des Informationsmodells eingehalten werden.
+- 1. Die Software stellt auf geeignete Weise sicher, dass die erzeugten, zu signierenden und zu versenden- den Dateien valide sind und den EVDGA-FHIR-Profilen [EVDGA-Profile] entsprechen.
+
+- 2. Die Software stellt sicher, dass bei der Erstellung der  gen des Informationsmodells eingehalten werden.
 
 **HINWEIS**
 
-Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR gen kann beispielweise der TI-Validator [https://fachportal.gematik.de/hersteller](https://fachportal.gematik.de/hersteller) teme/referenzvalidator verwendet werden.
+- Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR gen kann beispielweise der TI-Validator [https://fachportal.gematik.de/hersteller](https://fachportal.gematik.de/hersteller) teme/referenzvalidator verwendet werden.
 
 **4.2** **BEREITSTELLUNG EINES PATIENTENAUSDRUCKS**
 
@@ -721,38 +1083,66 @@ Die Software muss die Möglichkeit eines Ausdrucks der Informationen zu einer el
 
 **Begründung:**
 
-Auf Wunsch des Versicherten muss die Einlösung einer elektronischen Gesundheitsanwendungen-Verord- nung durch den Erhalt eines Freischaltcodes von der Krankenkasse auch ohne Nutzung von digitalen An- wendungen und zusätzlicher Hardware möglich sein. Sofern ein Versicherter  gen-Verordnung nicht elektronisch verwalten kann oder möchte, erfolgt die Einlösung anhand eines ein- heitlichen Ausdrucks auf Basis des darauf enthaltenen 2D-Codes.
+Auf Wunsch des Versicherten muss die Einlösung einer elektronischen Gesundheitsanwendungen-Verord-
+
+nung durch den Erhalt eines Freischaltcodes von der Krankenkasse auch ohne Nutzung von digitalen An- wendungen und zusätzlicher Hardware möglich sein. Sofern ein Versicherter  gen-Verordnung nicht elektronisch verwalten kann oder möchte, erfolgt die Einlösung anhand eines ein- heitlichen Ausdrucks auf Basis des darauf enthaltenen 2D-Codes.
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss einen Ausdruck der Informationen der möglichen.  2. Der Ausdruck darf standardmäßig nur auf Anforderung des Anwenders erfolgen.  3. Die Software kann die automatische Bereitstellung des Ausdrucks ermöglichen, wenn der Anwender  dies vorher per Konfiguration bspw. patientenindividuell hinterlegt hat. 4. Die Software darf den Ausdruck erst ermöglichen, wenn jede signierte elektronische Verordnung für den  Versicherten erfolgreich in den Fachdienst eingestellt wurde. a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
+- 1. Die Software muss einen Ausdruck der Informationen der möglichen.
+
+- 2. Der Ausdruck darf standardmäßig nur auf Anforderung des Anwenders erfolgen.
+
+- 3. Die Software kann die automatische Bereitstellung des Ausdrucks ermöglichen, wenn der Anwender  dies vorher per Konfiguration bspw. patientenindividuell hinterlegt hat.
+
+- 4. Die Software darf den Ausdruck erst ermöglichen, wenn jede signierte elektronische Verordnung für den  Versicherten erfolgreich in den Fachdienst eingestellt wurde.
+
+- a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
 
 Instanz den EVDGA- und FOR-Profi-
 
-EVDGA-FHIR-Instanzen die definierten Bedingun-
+- EVDGA-FHIR-Instanzen die definierten Bedingun-
 
--Umsetzun- -anbieter/primaersys-
+- -Umsetzun-
+
+- -anbieter/primaersys-
 
 die Gesundheitsanwendun-
 
-elektronischen Verordnung gemäß P62-03 er-
+- elektronischen Verordnung gemäß P62-03 er-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Ihres E-Rezeptes Ihrer Verordnung: DIGA
+-
+
+-
+
+-
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Ihres E-Rezeptes Ihrer Verordnung: DIGA-
 
 
 ---
 
-b) Auch ein wiederholter Ausdruck ist zu ermöglichen.   5. Die Software muss sicherstellen, dass der Ausdruck nur Informationen zu einer elektronischen Gesund- heitsanwendungen-Verordnung enthält.
+- b) Auch ein wiederholter Ausdruck ist zu ermöglichen.
+
+- 5. Die Software muss sicherstellen, dass der Ausdruck nur Informationen zu einer elektronischen Gesund- heitsanwendungen-Verordnung enthält.
 
 **HINWEIS**
 
-Der Ausdruck stellt keine allein gültige Verordnung dar. Er dient alleinig der alternativen Einlösung eine elektronischen Gesundheitsanwendungen-Verordnung durch den Versicherten. Die rechtsgültige Ver- ordnung ist die signierte Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen welche elektronisch durch die ausstellende / verschreibende Person der Kapitel 2 und 0).  Der Ausdruck muss aus diesem Grund nicht die vollständigen Angaben des Personalienfelds oder der  Verordnung beinhalten.  Des Weiteren ist der Ausdruck nicht durch die ausstellende / verschreibende Person
+- Der Ausdruck stellt keine allein gültige Verordnung dar. Er dient alleinig der alternativen Einlösung eine
+
+- elektronischen Gesundheitsanwendungen-Verordnung durch den Versicherten. Die rechtsgültige Ver- ordnung ist die signierte Instanz der elektronischen Verordnung digitaler Gesundheitsanwendungen welche elektronisch durch die ausstellende / verschreibende Person der Kapitel 2 und 0).
+
+- Der Ausdruck muss aus diesem Grund nicht die vollständigen Angaben des Personalienfelds oder der  Verordnung beinhalten.
+
+- Des Weiteren ist der Ausdruck nicht durch die ausstellende / verschreibende Person
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-03 | Layout des „Ausdruck zur Einlösung |
 
-Die Software muss für das Layout des Ausdrucks zur Einlösung der elektronischen Verordnung einheitliche  Vorgaben berücksichtigen.
+Die Software muss für das Layout des Ausdrucks zur Einlösung der elektronischen Verordnung einheitliche
+
+Vorgaben berücksichtigen.
 
 **Begründung:**
 
@@ -760,19 +1150,41 @@ Für eine systemübergreifende einheitliche Darstellung des Ausdrucks sind spezi
 
 **Akzeptanzkriterium:**
 
-1. Das Layout des Ausdrucks muss der in der [Vorlage Patientenausdruck] abgebildeten Form entsprechen  (siehe hierzu auch Abbildung 1).  2. Die Inhalte des Ausdrucks müssen den Vorgaben der Pflichtfunktionen  3. Der Anwender muss die Möglichkeit haben, den Ausdruck im DIN cken.  a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.  b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN 4. Die Software muss sicherstellen, dass die gemäß P62-05 bis P62-13 aufzudruckenden Informationen  nicht in die 2D-Codes und Ruhebereiche nach P62-10 und P62-11 gedruckt werden. Hierbei sind die  Höhe und Breite der vorgegebenen Druckbereiche in der [ 5. Die Software muss sicherstellen, dass die Positionierung der 2D entspricht.
+- 1. Das Layout des Ausdrucks muss der in der [Vorlage Patientenausdruck] abgebildeten Form entsprechen  (siehe hierzu auch Abbildung 1).
 
-r
+- 2. Die Inhalte des Ausdrucks müssen den Vorgaben der Pflichtfunktionen
 
-in die TI übermittelt wurde (gemäß
+- 3. Der Anwender muss die Möglichkeit haben, den Ausdruck im DIN cken.
 
-zu unterschreiben.
+- a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.
 
-P62-05 bis P62-13 entsprechen.  -A5- oder DIN-A4-Format auszudru-
+- b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN
 
-zulässig. Somit  -A5-Formats haben.
+- 4. Die Software muss sicherstellen, dass die gemäß P62-05 bis P62-13 aufzudruckenden Informationen
 
-Ihres E-Rezeptes Ihrer Verordnung: DIGAVorlage Patientenausdruck] einzuhalten.  -Codes der [Vorlage Patientenausdruck]
+- nicht in die 2D-Codes und Ruhebereiche nach P62-10 und P62-11 gedruckt werden. Hierbei sind die
+
+- Höhe und Breite der vorgegebenen Druckbereiche in der [
+
+- 5. Die Software muss sicherstellen, dass die Positionierung der 2D entspricht.
+
+- r
+
+- in die TI übermittelt wurde (gemäß - zu unterschreiben.
+
+- P62-05 bis P62-13 entsprechen.
+
+- -A5- oder DIN-A4-Format auszudru-
+
+-
+
+- zulässig. Somit
+
+- -A5-Formats haben.
+
+- Vorlage Patientenausdruck] einzuhalten.
+
+Ihres E-Rezeptes Ihrer Verordnung: DIGA- -Codes der [Vorlage Patientenausdruck]
 
 
 ---
@@ -801,13 +1213,23 @@ Siehe P62-12
 
 **HINWEIS**
 
-Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien  liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des Aus- drucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.  Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so  dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden
+- Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien
+
+- liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des Aus-
+
+- drucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
+
+- Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so
+
+- dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden
 
 | OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | O62-04 | Zwei Patientenausdrucke einer Person auf einem DIN |
 
-Die Software kann den Ausdruck von zwei Patientenausdrucken einer Person auf einem DIN-A4-Blatt unter- stützen.
+Die Software kann den Ausdruck von zwei Patientenausdrucken einer Person auf einem DIN-A4-Blatt unter-
+
+stützen.
 
 **Begründung:**
 
@@ -815,12 +1237,20 @@ Um in den Praxen die Anzahl der bedruckten Blätter zu reduzieren, kann die Soft
 
 **Akzeptanzkriterium:**
 
--A4-Blatt 1. Die Software muss bei der Verwendung des DIN-A4-Formats und der Notwendigkeit, dass mehr als ein  Patientenausdruck gedruckt werden muss, den Druck von zwei Patientenausdrucken untereinander auf  einem DIN-A4-Blatt im Hochformat unterstützen.
+- 1. Die Software muss bei der Verwendung des DIN-A4-Formats und der Notwendigkeit, dass mehr als ein
+
+-A4-Blatt - Patientenausdruck gedruckt werden muss, den Druck von zwei Patientenausdrucken untereinander auf  einem DIN-A4-Blatt im Hochformat unterstützen.
 
 
 ---
 
-a) Die Software muss sicherstellen, dass mittels dieser Funktionalität ausschließlich Patientenausdrucke  auf einem DIN-A4-Blatt zusammengefasst werden, welche Verordnungen für dieselbe Person enthal- ten.  b) Die beiden Patientenausdrucke müssen vollständig den inhaltlichen und formalen Vorgaben der [ lage Patientenausdruck] entsprechen.  2. Die Software muss dem Anwender über geeignete Konfigurationseinstellungen die Möglichkeit geben,  festzulegen, ob ein Ausdruck gemäß Akzeptanzkriterium  verlangt werden soll.  a) Der Softwarehersteller kann eine für die Praxis geeignete Default
+- a) Die Software muss sicherstellen, dass mittels dieser Funktionalität ausschließlich Patientenausdrucke  auf einem DIN-A4-Blatt zusammengefasst werden, welche Verordnungen für dieselbe Person enthal- ten.
+
+- b) Die beiden Patientenausdrucke müssen vollständig den inhaltlichen und formalen Vorgaben der [ lage Patientenausdruck] entsprechen.
+
+- 2. Die Software muss dem Anwender über geeignete Konfigurationseinstellungen die Möglichkeit geben,  festzulegen, ob ein Ausdruck gemäß Akzeptanzkriterium  verlangt werden soll.
+
+- a) Der Softwarehersteller kann eine für die Praxis geeignete Default
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
@@ -834,13 +1264,25 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss der 
 
 **Akzeptanzkriterium:**
 
-1. In dem Bereich „für“ sind in bis zu drei Zeilen der vollständige Name des Versicherten bestehend aus  den folgenden Informationen (IDs gemäß Tabelle 11) aufzudrucken:  Titel des Versicherten
+- 1. In dem Bereich „für“ sind in bis zu drei Zeilen der vollständige Name des Versicherten bestehend aus
 
-Vorname des Versicherten    Namenszusatz des Versicherten  Vorsatzwort des Versicherten
+- den folgenden Informationen (IDs gemäß Tabelle 11) aufzudrucken: - Titel des Versicherten
 
-Nachname des Versicherten   a) Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen. b) Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.  2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden: Vorname des Versicherten
+- Vorname des Versicherten
 
-Nachname des Versicherten
+- Namenszusatz des Versicherten - Vorsatzwort des Versicherten
+
+- Nachname des Versicherten
+
+- a) Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen.
+
+- b) Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
+
+- 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium
+
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden: - Vorname des Versicherten
+
+- Nachname des Versicherten
 
 |  |  |
 |---|---|
@@ -852,15 +1294,31 @@ Die Software muss auf dem Ausdruck das Geburtsdatum des Versicherten aufdrucken.
 
 Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das Geburtsdatum des  Versicherten auf dem Ausdruck erfasst werden.
 
-(ID 22)  (ID 20)  (ID 23)  (ID 24)  (ID 21) (ID 20)
+- (ID 22)
 
-(ID 21)
+- (ID 20)
 
-1 automatisch erfolgt oder ob eine Bestätigung -Einstellung festlegen.
+- (ID 23)
 
-Vor-
+- (ID 24)
 
-1 ausreicht.  gemäß Ta-
+- (ID 21)
+
+-
+
+- (ID 20)
+
+- (ID 21)
+
+- 1 automatisch erfolgt oder ob eine Bestätigung - -Einstellung festlegen.
+
+- Vor-
+
+-
+
+- 1 ausreicht.
+
+- gemäß Ta-
 
 PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Informationen in dem Bereich „geb oren am“
 
@@ -868,7 +1326,7 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Inform
 
 **Akzeptanzkriterium:**
 
-1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25  hinterlegen.
+- 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25 - hinterlegen.
 
 |  | |
 |---|---|
@@ -882,7 +1340,9 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss die 
 
 **Akzeptanzkriterium:**
 
-1. In dem Bereich "Versichertennummer" sind die folgenden Informationen aufzudrucken: a) VersichertenID (ID 19a gemäß Tabelle 58)
+- 1. In dem Bereich "Versichertennummer" sind die folgenden Informationen aufzudrucken:
+
+- a) VersichertenID (ID 19a gemäß Tabelle 58)
 
 |  | |
 |---|---|
@@ -896,7 +1356,7 @@ Um einem Versicherten die Zuordnung des Patientenausdruckes zu ermöglichen den,
 
 **Akzeptanzkriterium:**
 
-1. In dem Bereich der Überschrift muss hinter den Text  Text „ DiGa“ aufgedruckt werden.
+- 1. In dem Bereich der Überschrift muss hinter den Text  Text „ DiGa“ aufgedruckt werden.
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
@@ -910,28 +1370,68 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 
 **Akzeptanzkriterium:**
 
-2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs  mäß Tabelle 11):  a) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person beste- hend aus den folgenden Informationen aufzudrucken: Titel der verschreibenden Person    Vorname der verschreibenden Person   Namenszusatz der verschreibenden Person Vorsatzwort der verschreibenden Person
+- 2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs  mäß Tabelle 11):
 
-gemäß Tabelle 11) in der Form TT.MM.JJJJ zu
+- a) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person beste- hend aus den folgenden Informationen aufzudrucken:
 
-„Ausdruck zur Einlösung Ihrer Verordnung:“ der
+- Titel der verschreibenden Person
 
-(ID 46)  (ID 44)  (ID 47)  (ID 48)
+- Vorname der verschreibenden Person
+
+- Namenszusatz der verschreibenden Person
+
+- Vorsatzwort der verschreibenden Person
+
+- gemäß Tabelle 11) in der Form TT.MM.JJJJ zu
+
+- „Ausdruck zur Einlösung Ihrer Verordnung:“ der -
+
+- (ID 46)
+
+- (ID 44)
+
+- (ID 47)
+
+- (ID 48)
+
+-
 
 DiGA aufdrucken.
 
 , muss aufgedruckt wer-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN ge-
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - ge-
 
 
 ---
 
-Nachname der verschreibenden Person  Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen. Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.  b) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden aufzu- drucken.  c) In der folgenden Zeile ist die Telefonnummer der  d) In der letzten Zeile ist die E-Mail-Adresse der Einrichtung (ID 71) aufzudrucken, sofern vorhanden. 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden:  Vorname der verschreibenden Person  Nachname der verschreibenden Person  Telefonnummer der Einrichtung
+- Nachname der verschreibenden Person
+
+Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen.
+
+Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
+
+- b) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden aufzu- drucken.
+
+- c) In der folgenden Zeile ist die Telefonnummer der
+
+- d) In der letzten Zeile ist die E-Mail-Adresse der Einrichtung (ID 71) aufzudrucken, sofern vorhanden.
+
+- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter Berücksich- tigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium
+
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  belle 11) vollständig abgebildet werden:
+
+- Vorname der verschreibenden Person
+
+- Nachname der verschreibenden Person
+
+- Telefonnummer der Einrichtung
 
 **HINWEIS**
 
-Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer einer Einrichtung  angegeben werden; es kann bspw. auch die Telefonnummer eines Bereiches einer Einrichtung angege- ben werden, in welchem die Verordnung ausgestellt wurde. Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in wel- chem die Verordnung ausgestellt wurde.
+- Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer einer Einrichtung  angegeben werden; es kann bspw. auch die Telefonnummer eines Bereiches einer Einrichtung angege- ben werden, in welchem die Verordnung ausgestellt wurde.
+
+- Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in wel- chem die Verordnung ausgestellt wurde.
 
 |  |  |
 |---|---|
@@ -945,25 +1445,35 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 
 **Akzeptanzkriterium:**
 
-1. In dem Block „Ausstellungsdatum“ ist das Ausstellungsdatum (ID 80  TT.MM.JJJJ zu hinterlegen.
+- 1. In dem Block „Ausstellungsdatum“ ist das Ausstellungsdatum (ID 80  TT.MM.JJJJ zu hinterlegen.
 
 **HINWEIS**
 
-Sofern auf dem Ausdruck Verordnungen mit verschiedenen Ausstellungsdaten vorhanden sind, so ist  immer das aktuelle Datum aufzudrucken. Das Datum auf dem Ausdruck hat einen rein informativen Cha- rakter und führt zu keinen Änderungen der Informationen in den FHIR Dies kann bspw. bei einem erneuten Ausdruck einer Verordnung aufgrund des Verlustes des vorange- gangenen Papierausdrucks erfolgen.
+- Sofern auf dem Ausdruck Verordnungen mit verschiedenen Ausstellungsdaten vorhanden sind, so ist  immer das aktuelle Datum aufzudrucken. Das Datum auf dem Ausdruck hat einen rein informativen Cha- rakter und führt zu keinen Änderungen der Informationen in den FHIR
 
-(ID 45)
+- Dies kann bspw. bei einem erneuten Ausdruck einer Verordnung aufgrund des Verlustes des vorange- gangenen Papierausdrucks erfolgen.
 
-Einrichtung (ID 69) aufzudrucken.
+- (ID 45)
 
-(ID 44)
+- Einrichtung (ID 69) aufzudrucken.
 
-(ID 45)  (ID 69)
+- (ID 44)
 
--Mail einer Einrichtung angegeben werden;
+- (ID 45)
 
-gemäß Tabelle 11) in der Form -Instanzen.
+- (ID 69)
 
-2 ausreicht.  gemäß Ta-
+-
+
+- -Mail einer Einrichtung angegeben werden;
+
+- gemäß Tabelle 11) in der Form - -Instanzen.
+
+-
+
+- 2 ausreicht.
+
+- gemäß Ta-
 
 PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Aufzudruckende Informationen in dem Block „ausgestellt am“
 
@@ -977,29 +1487,68 @@ Auf dem Ausdruck müssen die notwendigen Verordnungsdaten einer Gesundheitsanwen
 
 **Begründung:**
 
-Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen nung digitaler Gesundheitsanwendungen durch den Versicherten an die Krankenkasse. Die dabei notwendi- gen Informationen sind in dem aufzudruckenden 2D ten.
+Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen nung digitaler Gesundheitsanwendungen durch den Versicherten an die Krankenkasse. Die dabei notwendi-
+
+gen Informationen sind in dem aufzudruckenden 2D ten.
 
 **Akzeptanzkriterium:**
 
-1. Als Verordnungsdaten einer elektronischen Gesundheitsanwendungen-Verordnung sind die folgenden  Angaben zu hinterlegen (IDs gemäß Tabelle 11):  a) Linksbündiger Aufdruck des 2D-Codes gemäß P62-10.  b) Rechts neben dem 2D-Codes sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind: Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt  Fixer Wert als Aufschrift: „Digitale Gesundheitsanwendung“ Zeilenumbruch als Trennzeichen  Name der Verordnungseinheit    Schriftstärke „fett“ ist zu verwenden  Eine Zeile bis drei Zeilen mit Zeilenumbruch als Trennzeichen je nach Länge des Namens PZN, nach dem folgenden Muster  Fixer Wert „PZN:“  ID der Verordnungseinheit (PZN)   Zeilenumbruch als Trennzeichen  c) Aufdruck des 2D-Codes für den Verordnungstoken gemäß  2. Die Software muss eine rechtsseitige Kürzung vornehmen, sofern der zur Verfügung stehende Platz un- ter Berücksichtigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.  a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig ab- gebildet werden:  Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt PZN
+- 1. Als Verordnungsdaten einer elektronischen Gesundheitsanwendungen-Verordnung sind die folgenden  Angaben zu hinterlegen (IDs gemäß Tabelle 11):
+
+- a) Linksbündiger Aufdruck des 2D-Codes gemäß P62-10.
+
+- b) Rechts neben dem 2D-Codes sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind:
+
+- Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt
+
+- Fixer Wert als Aufschrift: „Digitale Gesundheitsanwendung“
+
+- Zeilenumbruch als Trennzeichen - Name der Verordnungseinheit
+
+- Schriftstärke „fett“ ist zu verwenden
+
+- Eine Zeile bis drei Zeilen mit Zeilenumbruch als Trennzeichen je nach Länge des Namens
+
+- PZN, nach dem folgenden Muster - Fixer Wert „PZN:“
+
+- ID der Verordnungseinheit (PZN)
+
+- Zeilenumbruch als Trennzeichen
+
+- c) Aufdruck des 2D-Codes für den Verordnungstoken gemäß
+
+- 2. Die Software muss eine rechtsseitige Kürzung vornehmen, sofern der zur Verfügung stehende Platz un- ter Berücksichtigung von P62-13 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
+
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig ab- gebildet werden:
+
+- Kennzeichnung, dass es sich um die Verordnung einer Digitale Gesundheitsanwendung handelt - PZN
 
 **HINWEIS**
 
-Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen „“.  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von Leer- zeichen.
+- Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen „“.  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von Leer- zeichen.
 
 -Code für den Verordnungstoken gemäß P62-11 enthal-
 
-(ID 83)
+- (ID 83)
 
-(ID 82)
+- (ID 82)
 
-P62-11.
+-
+
+-
+
+- P62-11.
 
 Verord-
 
-1
+-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
+-
+
+- 1
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN -
+
 
 ---
 
@@ -1007,15 +1556,33 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 |---|---|
 | P62-10 | Vorgaben für den 2D-Code-Aufdruck für den Einzeltoken |
 
-Der aufzudruckende 2D-Code der elektronischen Gesundheitsanwendungen-Verordnung enthält die techni- schen Informationen (Zugangs-Code), um die elektronischen Gesundheitsanwendungen-Verordnung bei  den Krankenkassen einzulösen.
+Der aufzudruckende 2D-Code der elektronischen Gesundheitsanwendungen-Verordnung enthält die techni- schen Informationen (Zugangs-Code), um die elektronischen Gesundheitsanwendungen-Verordnung bei
+
+den Krankenkassen einzulösen.
 
 **Begründung:**
 
-Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein automatischer Abruf der Verord- nungsinformationen vom E-Rezept-Fachdienst der gematik erfolgen.
+Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein automatischer Abruf der Verord-
+
+nungsinformationen vom E-Rezept-Fachdienst der gematik erfolgen.
 
 **Akzeptanzkriterium**
 
-1. Die Art des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vorga- ben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.  2. Der Inhalt des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vor- gaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.  3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.  4. Die Software muss sicherstellen, dass um den 2D-Codes zusätzlich umlaufend ein druckfreier Bereich  von mindestens 3mm vorhanden ist.
+- 1. Die Art des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vorga-
+
+- ben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
+
+- 2. Der Inhalt des 2D-Codes muss je elektronischer Gesundheitsanwendungen-Verordnung gemäß den Vor-
+
+- gaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP] gewählt werden.
+
+- 3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [Vorlage
+
+- Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+
+- 4. Die Software muss sicherstellen, dass um den 2D-Codes zusätzlich umlaufend ein druckfreier Bereich
+
+- von mindestens 3mm vorhanden ist.
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
@@ -1025,12 +1592,35 @@ Zusätzlich zu den einzelnen 2D-Codes je elektronischer Gesundheitsanwendungen-V
 
 **Begründung:**
 
-Der Sammeltoken ermöglicht die Einlösung der elektronischen Verordnungen digitaler Gesundheitsanwen- dungen bei den Krankenkassen. Sofern die Einlösungen aller auf dem Ausdruck enthalten elektronischen  Gesundheitsanwendungen-Verordnungen erfolgen soll, muss nur dieser 2D-Code gescannt werden.
+Der Sammeltoken ermöglicht die Einlösung der elektronischen Verordnungen digitaler Gesundheitsanwen-
+
+dungen bei den Krankenkassen. Sofern die Einlösungen aller auf dem Ausdruck enthalten elektronischen
+
+Gesundheitsanwendungen-Verordnungen erfolgen soll, muss nur dieser 2D-Code gescannt werden.
 
 **Akzeptanzkriterium:**
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP]  gewählt werden.  2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  [gemSpec_DM_eRP] gewählt werden.  3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der aufge- druckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token in  dem 2D-Code als Sammeltoken umfasst, welche gemäß P62-10 bereits für die 2D-Codes der Einzelver- ordnungen erstellt sind.  4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.  5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
+- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRP]
 
+- gewählt werden.
+
+- 2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in
+
+- [gemSpec_DM_eRP] gewählt werden.
+
+- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der aufge- druckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token in  dem 2D-Code als Sammeltoken umfasst, welche gemäß P62-10 bereits für die 2D-Codes der Einzelver-
+
+- ordnungen erstellt sind.
+
+- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage
+
+- Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+
+- 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von
+
+- mindestens 3mm vorhanden ist.
+
+PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 ---
 
@@ -1046,7 +1636,19 @@ Durch diese Informationen werden die Patienten in die Lage versetzt, sich selbst
 
 **Akzeptanzkriterium:**
 
-1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck]  abgebildeten Form aufgedruckt werden.  a) Der Text ist abweichend von den Vorgaben gemäß P62-13 in Schriftgröße 8 pt.  2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage Pati- entenausdruck] genutzt werden.  3. Der enthaltene QR-Code muss:  a)  ausschließlich den folgenden Inhalt enthalten: [https://www.das-e-rezept-fuer-deutschland.de/aus-](https://www.das-e-rezept-fuer-deutschland.de/aus-) druck/ und  b) gemäß ISO/IEC 18004:2006 codiert sein.
+- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck]
+
+- abgebildeten Form aufgedruckt werden.
+
+- a) Der Text ist abweichend von den Vorgaben gemäß P62-13 in Schriftgröße 8 pt.
+
+- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage Pati- entenausdruck] genutzt werden.
+
+- 3. Der enthaltene QR-Code muss:
+
+- a)  ausschließlich den folgenden Inhalt enthalten: [https://www.das-e-rezept-fuer-deutschland.de/aus-](https://www.das-e-rezept-fuer-deutschland.de/aus-) - druck/ und
+
+- b) gemäß ISO/IEC 18004:2006 codiert sein.
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
@@ -1056,11 +1658,31 @@ Die Software muss für einen einheitlichen Ausdruck der elektronischen Verordnun
 
 **Begründung:**
 
-Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks werden Vorgaben für die  Schriftgröße und Schriftart definiert.
+Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks werden Vorgaben für die
+
+Schriftgröße und Schriftart definiert.
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.   a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.  2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.  a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.  3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden.  4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine  anderen Vorgaben definiert sind.  5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.  6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben
+- 1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.
+
+- a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
+
+- 2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.
+
+- a) Dies gilt nicht für die unter P62-12 Akzeptanzkriterium 1a beschriebene Ausnahme.
+
+- 3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht pro- portional und mit Serifen) verwenden.
+
+- 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck] oder in dem Kapitel 4.2 keine
+
+- anderen Vorgaben definiert sind.
+
+- 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte
+
+- eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
+
+- 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben
 
 PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
@@ -1071,15 +1693,57 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 ---
 
-4
+# 4 ABZUBILDENDE INFORMATIONEN
 
-## ABZUBILDENDE INFORMATIONEN
+In der nachfolgenden Tabelle 11 sind sämtliche für die Abbildung der elektronischen Verordnung digitaler
 
-In der nachfolgenden Tabelle 11 sind sämtliche für die Abbildung der elektronischen Verordnung digitaler  Gesundheitsanwendungen relevanten Informationen in Form einer Felderliste enthalten.
+Gesundheitsanwendungen relevanten Informationen in Form einer Felderliste enthalten.
 
-Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
+Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
-**ID**  Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 11   **1; 2; 3; 4; 5 und 6**  Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Blö- cken   6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.   **Feldname**  Kurze Bezeichnung des abzubildenden Feldes   **Länge**  Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere  Ausprägungen sind:   sofern ein Boolean-Wert vorliegt  „Bool“: sofern der Inhalt kodiert übertragen wird  „Kodiert“:  Leer:  sofern es sich um einen Block handelt   **Wiederh.**   Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich: Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin- 1..1  gung des zugeordneten Blocks  Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.  1..n  Bedingung des zugeordneten Blocks  0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordne- ten Bedingung   **Beschreibung**   Ggfs. detaillierte Beschreibung des Feldes, sofern nötig  **Bedingung**  Logische Bedingung, an welche die Befüllung eines Feldes oder eines gesamten Blocks geknüpft ist
+- Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 11 - **1; 2; 3; 4; 5 und 6**
+
+- Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Blö- cken -
+
+-  6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
+
+- Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.
+
+- **Feldname**
+
+- Kurze Bezeichnung des abzubildenden Feldes - **Länge**
+
+- Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere - Ausprägungen sind:
+
+-  sofern ein Boolean-Wert vorliegt -  „Bool“:
+
+- sofern der Inhalt kodiert übertragen wird -  „Kodiert“:
+
+- Leer:  sofern es sich um einen Block handelt - **Wiederh.**
+
+-
+
+-  Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:
+
+- Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin-
+
+-  1..1  gung des zugeordneten Blocks
+
+- Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
+
+-  1..n  Bedingung des zugeordneten Blocks
+
+- 0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordne-
+
+- ten Bedingung
+
+- **Beschreibung**
+
+-
+
+-  Ggfs. detaillierte Beschreibung des Feldes, sofern nötig - **Bedingung**
+
+- Logische Bedingung, an welche die Befüllung eines Feldes oder eines gesamten Blocks geknüpft ist
 
 
 ---
@@ -1314,9 +1978,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
 ---
 
-5
-
-REFERENZIERTE DOKUMENTE
+5 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -1352,6 +2014,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf  Verordnungssoftware gen/VDGA/KBV_ITA_VGEX_Anforderungskata- log_VDGA.pdf  tik.de/docs/gemSysL/gemSysL_eRp/gemSysL_e Rp_V1.1.0/ märsysteme mILF_PS_eRp/latest/ tik.de/docs/gemSpec/gemSpec_DM_eRp/la- test/ heitsanwendungen tik.de/docs/gemF/gemF_eRp_DiGA/latest/ teien/KBV_Stammdateien/

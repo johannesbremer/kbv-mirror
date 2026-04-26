@@ -2,7 +2,13 @@
 
 Berlin, 2025
 
-Version: 3.2.19  Datum: 15.05.2025  Status: in Kraft ab 01.07.2025  Ersetzt: 3.2.18 vom 15.11.2024
+Version: 3.2.19
+
+Datum: 15.05.2025
+
+Status: in Kraft ab 01.07.2025
+
+Ersetzt: 3.2.18 vom 15.11.2024
 
 Kassenärztliche Bundesvereinigung
 
@@ -11,28 +17,50 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 ---
 
-**Version** 3.2.19
+**Version**
 
-**Autor(en)** KBV
+3.2.19
 
-**Status** in Kraft ab 01.07.2025
+**Autor(en)**
+
+KBV
+
+**Status**
+
+in Kraft ab 01.07.2025
 
 **Freigegeben am / von (Kürzel)** 15.05.2025 / KBV
 
-**Abgestimmt mit** KBV Dez. Digitalisierung und IT, Abt. ITA
+**Abgestimmt mit**
 
-**Rückfragen** [ita@kbv.de](mailto:ita@kbv.de)
+KBV Dez. Digitalisierung und IT, Abt. ITA
+
+**Rückfragen**
+
+[ita@kbv.de](mailto:ita@kbv.de)
 
 **D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-**Version Datum Autor Änderung Begründung Seite**
+**Version Datum**
+
+**Autor Änderung**
+
+**Begründung**
+
+**Seite**
 
 | 3.2.19 | 15.05.2025 | KBV | Inhalt Regel E001 geändert | Anpassung an Version | 78 |
 |---|---|---|---|---|---|
 
 3.2.19
 
-3.2.19 15.05.2025 KBV Redaktionelle Anpassung Fehler in der 110,  der Regel K063 und Dokumentation 148  Korrektur der Feldart von  FK 8219 und FK 8220 im  Objekt Obj_0037
+3.2.19 15.05.2025 KBV Redaktionelle Anpassung Fehler in der 110,
+
+der Regel K063 und
+
+Dokumentation 148
+
+Korrektur der Feldart von  FK 8219 und FK 8220 im  Objekt Obj_0037
 
 Ankündigungen für Version 3.2.20
 
@@ -41,11 +69,15 @@ Ankündigungen für Version 3.2.20
 
 **Kennzeichnung von Änderungen**
 
-Änderungen zur letzten freigegebenen Version werden im Dokument wie folgt gekennzeichnet:  In der Dokumentenhistorie werden  Begründung und Seitenangabe mit Querverweis dokumentiert.  Inhalte, die gestrichen wurden, werden im Dokument wie folgt dargestellt: <Inhalt>  Inhalte, die neu aufgenommen wurden, werden im Dokument wie folgt dargestellt: <Inhalt>
+Änderungen zur letzten freigegebenen Version werden im Dokument wie folgt gekennzeichnet:  In der Dokumentenhistorie werden
+
+Begründung und Seitenangabe mit Querverweis dokumentiert.  Inhalte, die gestrichen wurden, werden im Dokument wie folgt dargestellt: <Inhalt>  Inhalte, die neu aufgenommen wurden, werden im Dokument wie folgt dargestellt: <Inhalt>
 
 **NEU ab LDT 3.2.1**  **Kennzeichnung von Ankündigungen**
 
-Änderungen, die in der jeweils nächsten Version der Datensatzbeschreibung in Kraft treten, werden  im Dokument wie folgt gekennzeichnet:  In der Dokumentenhistorie werden Ankündigungen am Ende der Übersicht mit dem Hinweis  auf Gültigkeit ab Version, Änderungsdatum, Autor, Begründung und Seitenangabe mit  Querverweis dokumentiert.  Inhalte, die gestrichen werden, sind im Dokument wie folgt dargestellt: <Inhalt>  Inhalte, die neu aufgenommen werden, sind im Dokument wie folgt dargestellt: <Inhalt>
+Änderungen, die in der jeweils nächsten Version der Datensatzbeschreibung in Kraft treten, werden  im Dokument wie folgt gekennzeichnet:  In der Dokumentenhistorie werden Ankündigungen am Ende der Übersicht mit dem Hinweis  auf Gültigkeit ab Version, Änderungsdatum, Autor, Begründung und Seitenangabe mit
+
+Querverweis dokumentiert.  Inhalte, die gestrichen werden, sind im Dokument wie folgt dargestellt: <Inhalt>  Inhalte, die neu aufgenommen werden, sind im Dokument wie folgt dargestellt: <Inhalt>
 
 alle Änderungen mit Änderungsdatum, Autor,
 
@@ -54,15 +86,15 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 ## Inhaltsverzeichnis
 
-### VORWORT
+**VORWORT**
 
 **8**
 
-### EINFÜHRUNG
+**EINFÜHRUNG**
 
 **9**
 
-### BEGRIFFSDEFINITIONEN
+**BEGRIFFSDEFINITIONEN**
 
 **10**
 
@@ -90,13 +122,25 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 3.12 Nachforderung .........................................................................................................12
 
-### NEUERUNGEN IM LDT 3 UND DESSEN ANWENDUNG
+**NEUERUNGEN IM LDT 3 UND DESSEN ANWENDUNG**
 
 **13**
 
-4.1 Weitere Einsatzgebiete/Teilprozesse ..............................................................................16  4.1.1 Teilprozess  Übergabe Daten aus Scansystem ............................................................16  4.1.2 Teilprozess  Datenübergabe aus dem Primärsystem an LIS ........................................17  4.1.3 Teilprozess  Datenübergabe LIS an Primärsystem .......................................................17  4.1.4 Teilprozess  Datenübergabe aus dem Primärsystem an Order/Entry ..........................17  4.1.5 Teilprozess  Datenübergabe Order/Entry an Primärsystem .........................................17  4.1.6 Teilprozess  Datenübergabe zwischen Labor-Informationssystemen ..........................18
+4.1 Weitere Einsatzgebiete/Teilprozesse ..............................................................................16
 
-### GRUNDSÄTZLICHE FESTLEGUNGEN
+4.1.1 Teilprozess  Übergabe Daten aus Scansystem ............................................................16
+
+4.1.2 Teilprozess  Datenübergabe aus dem Primärsystem an LIS ........................................17
+
+4.1.3 Teilprozess  Datenübergabe LIS an Primärsystem .......................................................17
+
+4.1.4 Teilprozess  Datenübergabe aus dem Primärsystem an Order/Entry ..........................17
+
+4.1.5 Teilprozess  Datenübergabe Order/Entry an Primärsystem .........................................17
+
+4.1.6 Teilprozess  Datenübergabe zwischen Labor-Informationssystemen ..........................18
+
+**GRUNDSÄTZLICHE FESTLEGUNGEN**
 
 **19**
 
@@ -106,7 +150,7 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 5.2.1 Datenaustausch zwischen Einsender und Labor ............................................................19
 
-### AUFBAU EINES LDT-DATENPAKETES
+**AUFBAU EINES LDT-DATENPAKETES**
 
 **20**
 
@@ -140,9 +184,9 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 6.7 Dateiname .......................................................................................................................28
 
-### IMPLEMENTIERUNGSHINWEIS
+**IMPLEMENTIERUNGSHINWEIS**
 
-### SATZTABELLEN
+**SATZTABELLEN**
 
 8.1 Satzart: L (Labor)-Datenpaket-Header „8220“
 
@@ -156,9 +200,9 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 8.6 Satzart: Auftrag „8215“ ....................................................................................................36
 
-### FELDTABELLE
+**FELDTABELLE**
 
-### REGELTABELLEN
+**REGELTABELLEN**
 
 10.1 Formatregeln ...........................................................................................................74
 
@@ -166,7 +210,7 @@ alle Änderungen mit Änderungsdatum, Autor,
 
 10.3 Kontextregeln .........................................................................................................102
 
-### LDT-OBJEKTKATALOG
+**LDT-OBJEKTKATALOG**
 
 11.1 Obj_Abrechnungsinformationen „Obj_0001“
 
@@ -397,7 +441,7 @@ Obj_Sonstige Untersuchungsergebnisse „Obj_0073“ ............................
 
 ---
 
-### Vorwort
+**Vorwort**
 
 Die Grundlage des  die durch den Qualitätsring Medizinische Software e.V. ( www.qms-standards.de)  (im Weiteren als QMS bezeichnet) für die Schnittstellenbeschreibungen XDT des  QMS entwickelt wurden.
 
@@ -410,50 +454,70 @@ waren die gemeinsamen Feld- und Objektkataloge,
 
 ---
 
-### Einführung
+**Einführung**
 
-Der „LDT Datensatz (Labor Daten Transfer)“ wurde Ende der 80er Jahre noch unter  seinem vorherigen Namen „Bonner Modell“ von Betroffenen aus dem Laborsektor  mit dem Ziel geschaffen, die seinerzeit aufkeimende elektronische  Datenübermittlung mit einem standardisierten Protokoll zu ermöglichen und dann  im zweiten Schritt Mitte der 90er als LDT 1.0 von der KBV als verbindlicher Standard  für die Labordatenkommunikation im Bundesmantelvertrag festgeschrieben. Nach  einer Revision in 2001 als LDT 2.0, der im Wesentlichen neben den bis dahin  ausnahmslos vorhandenen Ergebnisdatensätzen erstmals auch  Auftragsdatensätze vorsah, hat diese Standarddatenschnittstelle seit nunmehr  eineinhalb Jahrzehnten ohne grundlegende Anpassungen ihren Dienst zuverlässig  verrichtet. Wenn man bedenkt, dass jeden Tag die Ergebnisse von bis zu 1 Million  Laboraufträgen von GKV -Versicherten in Deutschland damit übertragen werden,  dann kommt man auf die unvorstellbare Zahl von ca. 4 Milliarden LDT-Datensätzen  seit Beginn dieses Jahrtausends.
+Der „LDT Datensatz (Labor Daten Transfer)“ wurde Ende der 80er Jahre noch unter
+
+seinem vorherigen Namen „Bonner Modell“ von Betroffenen aus dem Laborsektor  mit dem Ziel geschaffen, die seinerzeit aufkeimende elektronische
+
+Datenübermittlung mit einem standardisierten Protokoll zu ermöglichen und dann  im zweiten Schritt Mitte der 90er als LDT 1.0 von der KBV als verbindlicher Standard  für die Labordatenkommunikation im Bundesmantelvertrag festgeschrieben. Nach  einer Revision in 2001 als LDT 2.0, der im Wesentlichen neben den bis dahin  ausnahmslos vorhandenen Ergebnisdatensätzen erstmals auch
+
+Auftragsdatensätze vorsah, hat diese Standarddatenschnittstelle seit nunmehr  eineinhalb Jahrzehnten ohne grundlegende Anpassungen ihren Dienst zuverlässig  verrichtet. Wenn man bedenkt, dass jeden Tag die Ergebnisse von bis zu 1 Million  Laboraufträgen von GKV -Versicherten in Deutschland damit übertragen werden,  dann kommt man auf die unvorstellbare Zahl von ca. 4 Milliarden LDT-Datensätzen
+
+seit Beginn dieses Jahrtausends.
 
 Gerade in den letzten Jahren gab es jedoch eine signifikante Weiterentwicklung im  Laborbereich, diesen gestiegenen Anforderungen konnte der mittlerweile in die  Jahre gekommene LDT 2.0 nicht mehr genügen. Die Architektur führte dazu, dass  zum Teil wesentliche Inhalte des Datenaustauschs zwischen Laboren und  Einsendern nicht mehr oder nur unzureichend präzise übertragen werden konnten.
 
 In einer beispiellosen Initiative haben Laborsoftware - und Praxiscomputeranbieter,  einzelne Labore, die Kassenärztliche Bundesvereinigung sowie der QMS e.V.  dieses Manko aus der Welt geschafft, indem zwischen September 2012 und  Oktober 2015 der LDT komplett überarbeitet und an wichtigen Stellen erweitert  wurde.
 
-Der LDT 3 ist das Ergebnis dieser gemeinsamen Anstrengung von Fachleuten aus  ganz Deutschland. Der BDL e.V. und der ALM e.V. wurden bei der  Weiterentwicklung eng mit eingebunden und unterstützen diese.
+Der LDT 3 ist das Ergebnis dieser gemeinsamen Anstrengung von Fachleuten aus  ganz Deutschland. Der BDL e.V. und der ALM e.V. wurden bei der
 
-Hiermit steht eine Schnittstelle als ganzheitlicher Datenstandard für die  Laborkommunikation zur Verfügung, wobei die KBV seit dem Jahr 2021 die  Verantwortung für die kassenärztliche und sonstige Versorgung im LDT 3 trägt.
+Weiterentwicklung eng mit eingebunden und unterstützen diese.
+
+Hiermit steht eine Schnittstelle als ganzheitlicher Datenstandard für die
+
+Laborkommunikation zur Verfügung, wobei die KBV seit dem Jahr 2021 die
+
+Verantwortung für die kassenärztliche und sonstige Versorgung im LDT 3 trägt.
 
 
 ---
 
-### Begriffsdefinitionen
+**Begriffsdefinitionen**
 
-**3.1**
+**3.1** **Primärsystem**
 
-### Primärsystem
+Unter einem Primärsystem ist das elektronische Datenverwaltungssystem zu
 
-Unter einem Primärsystem ist das elektronische Datenverwaltungssystem zu  verstehen, das die Patienten - und Abrechnungsdaten als  verwaltet. Das können z.B. sein: Praxis Informationssysteme (AIS), Krankenhaus -Informationssysteme (KIS),  Informationssysteme (LIS) bei Weiterüberweisung von Untersuchungsaufträgen  oder auch Datenverwaltungssysteme von Behörden bzw. Einrichtungen.
+verstehen, das die Patienten - und Abrechnungsdaten als  verwaltet. Das können z.B. sein: Praxis
 
-**3.2**
+Informationssysteme (AIS), Krankenhaus -Informationssysteme (KIS),
 
-### Order/Entry
+Informationssysteme (LIS) bei Weiterüberweisung von Untersuchungsaufträgen  oder auch Datenverwaltungssysteme von Behörden bzw. Einrichtungen.
 
-**-System**
+**3.2** **Order/Entry-System**
 
 Unter Order/Entry-System im Kontext des LDT wird eine Software verstanden, die  entweder ein Bestandteil des Primärsystems oder ein eigenständiges Modul für die  elektronische Erstellung von Laboraufträgen darstellt.
 
-**3.3**
+**3.3** **Labor-Informationssystem (LIS)**
 
-### Labor-Informationssystem (LIS)
+Unter Labor-Informationssystem (LIS) ist ein System zur  und Verarbeitung der Daten in einem medizinischen Labor zu verstehen. Das LIS  übernimmt die Datenverarbeitung und
 
-Unter Labor-Informationssystem (LIS) ist ein System zur  und Verarbeitung der Daten in einem medizinischen Labor zu verstehen. Das LIS  übernimmt die Datenverarbeitung und  Probeneingang/Auftragserfassung über die einzelnen Analytik -Schritte bis zur  1Befundung und Abrechnung 0F . (Im Fall der Erzeugung eines Auftrages zur  Weiterüberweisung von Untersuchungsaufträgen an andere Labore fungiert das LIS  als Primärsystem.)
+Probeneingang/Auftragserfassung über die einzelnen Analytik -Schritte bis zur  1
 
-**3.4**
+Befundung und Abrechnung 0F0F . (Im Fall der Erzeugung eines Auftrages zur
 
-### Einsender
+Weiterüberweisung von Untersuchungsaufträgen an andere Labore fungiert das LIS
+
+als Primärsystem.)
+
+**3.4** **Einsender**
 
 Unter Einsender werden Einrichtungen definiert, welche Untersuchungsaufträge  und das entsprechende Material an ein Labor übermitteln.
 
-Für die eindeutige Identifizierung und Zuordnung notwendige Angaben werden in  der Satzart 8230 festgelegt. Darüber hinaus können entsprechende Angaben auch  in die sonstigen Satzarten übernommen werden, wenn diese für die Abwick Teilprozessen notwendig sind.
+Für die eindeutige Identifizierung und Zuordnung notwendige Angaben werden in  der Satzart 8230 festgelegt. Darüber hinaus können entsprechende Angaben auch  in die sonstigen Satzarten übernommen werden, wenn diese für die Abwick
+
+Teilprozessen notwendig sind.
 
 Einsender können neben Arztpraxen und Kliniken auch Verwaltungseinrichtungen,  Polizei, sonstige Justizbehörden , Unternehmen oder auch natürliche Personen sein.
 
@@ -464,52 +528,62 @@ Einsender können neben Arztpraxen und Kliniken auch Verwaltungseinrichtungen,  
 |  | Untersuchungsauftrag | direkt in einem |
 | alle | weiteren Aufgaben | zur Stammdatenerfassung, |
 
-***führendes*** System  -Verwaltungssysteme (PVS), Arzt Labor
+***führendes*** System
+
+-Verwaltungssysteme (PVS), Arzt Labor
 
 elektronischen Verwaltung
 
 Workflow -Steuerung vom
 
-lung von 2 1F
+lung von 2 1F1F
 
 Im Sinne dieser Datensatzbeschreibung sind auch eingesetzte Kommunikationssysteme unter der Bezeichnung LIS zu Natürliche Personen sind in der Satzbeschreibung nicht separat aufgeführt. Für den Fall, dass eine natürliche Person einen Untersuchungsauftrag direkt in einem Laborstandort einreicht, fungiert alle weiteren Aufgaben zur Stammdatenerfassung, Abrechnung und zur Definition des Befundempfängers.das annehmende Labor als Einsender und übernimmt
 
 
 ---
 
-**3.5**
+**3.5** **Labor**
 
-### Labor
+Unter einem Labor werden alle Formen von Laboratorien zusammengefasst, welche
 
-Unter einem Labor werden alle Formen von Laboratorien zusammengefasst, welche  folgenden Kriterien entsprechen:
+folgenden Kriterien entsprechen:
 
--  Praxis, in der der Patient in der Regel nicht vorstellig wird, sondern in der die  Untersuchung von eingesandtem oder  Grundlage der ärztlichen Leistung ist.
+-  Praxis, in der der Patient in der Regel nicht vorstellig wird, sondern in der die  Untersuchung von eingesandtem oder
 
--  MVZ oder Zusammenschluss von mehreren niedergelassenen Ärzten, die  gemeinsam ein Laboratorium betreiben,  Körpermaterialien untersucht werden.
+Grundlage der ärztlichen Leistung ist.
 
--  Eine Laborgemeinschaft, die für ihre Mitglieder Leistungen aus den Abschnitt  32.2 des EBM bzw. MII der GOÄ (Gebührenordnung für Ärzte) erbringen  kann.
+-  MVZ oder Zusammenschluss von mehreren niedergelassenen Ärzten, die  gemeinsam ein Laboratorium betreiben,
+
+Körpermaterialien untersucht werden.
+
+-  Eine Laborgemeinschaft, die für ihre Mitglieder Leistungen aus den Abschnitt
+
+32.2 des EBM bzw. MII der GOÄ (Gebührenordnung für Ärzte) erbringen  kann.
 
 -  Ergänzend zu den oben beschriebenen „Laborarten“ können auch andere  Adressaten erfasst werden, die Laborleistungen für andere Materialien oder  für andere Zwecke (als humanbiologische) anbieten.
 
 Die notwendigen Angaben zum Labor sowie alle für die sichere Zuordnung der  Informationen und Ergebnisse notwendigen Angaben werden in  festgeschrieben.
 
-**3.6**
+**3.6** **Patient**
 
-### Patient
+Unter Patient ist eine Person zu verstehen, die ärztliche Dienstleistungen oder  Dienstleistungen von anderen Personen, die eine Heilbehandlung durchführen, in  Anspruch nimmt. Dabei kann es um Krankheiten oder Folgen eines Unfalls gehen,  an denen der Patient leidet und die medizinisch
 
-Unter Patient ist eine Person zu verstehen, die ärztliche Dienstleistungen oder  Dienstleistungen von anderen Personen, die eine Heilbehandlung durchführen, in  Anspruch nimmt. Dabei kann es um Krankheiten oder Folgen eines Unfalls gehen,  an denen der Patient leidet und die medizinisch  Personengruppe der Patienten gehören aber auch gesunde Personen , wie z.B.  Schwangere, Lebendorganspender, Blutspender,  Impflinge, Empfänger von Präventionsleistungen und Vorsorgeuntersuchungen,  Früherkennungsuntersuchungen, Arbeitsmedizinische Vorsorgeuntersuchungen,  Kindervorsorgeuntersuchung, Zahnärztliche  Schwangerschaftsvorsorge oder Patienten, die sich einer medizinisch nicht  indizierten Schönheitsoperation unterziehen.
+Personengruppe der Patienten gehören aber auch gesunde Personen , wie z.B.  Schwangere, Lebendorganspender, Blutspender,
 
-**3.7**
+Impflinge, Empfänger von Präventionsleistungen und Vorsorgeuntersuchungen,  Früherkennungsuntersuchungen, Arbeitsmedizinische Vorsorgeuntersuchungen,  Kindervorsorgeuntersuchung, Zahnärztliche  Schwangerschaftsvorsorge oder Patienten, die sich einer medizinisch nicht  indizierten Schönheitsoperation unterziehen.
 
-### Diagnose
+**3.7** **Diagnose**
 
-Unter Diagnose versteht man die Feststellung oder Bestimmung einer körperlichen  oder psychischen Krankheit durch den Arzt. Um Diagnosen schematisch in Gruppen  einteilen und entsprechend abbilden zu können existieren Klassifizierungen, wie  z.B. die „Internationale statistische Klassifikation der Krankheiten und verwandter  Gesundheitsprobleme“ – ICD.
+Unter Diagnose versteht man die Feststellung oder Bestimmung einer körperlichen  oder psychischen Krankheit durch den Arzt. Um Diagnosen schematisch in Gruppen
+
+einteilen und entsprechend abbilden zu können existieren Klassifizierungen, wie  z.B. die „Internationale statistische Klassifikation der Krankheiten und verwandter
+
+Gesundheitsprobleme“ – ICD.
 
 Die Diagnose ist entscheidend für die weitere Vorgehensweise bei der Behandlung.
 
-**3.8**
-
-### Material
+**3.8** **Material**
 
 Unter Material sind sowohl organische, wie auch anor die im Rahmen einer Auftragserteilung zur Analyse an ein Labor eingesendet  werden.
 
@@ -534,79 +608,131 @@ ganische Stoffe zu verstehen,
 
 ---
 
-**3.9**
+**3.9** **Untersuchungsanforderung**
 
-### Untersuchungsanforderung
+Unter Untersuchungsanforderung wird die Beschreibung der gewünschten
 
-Unter Untersuchungsanforderung wird die Beschreibung der gewünschten  Untersuchung (Analytik) bei der Beauftragung verstanden.
+Untersuchung (Analytik) bei der Beauftragung verstanden.
 
-**3.10**
+**3.10** ** Abrechnungsinformation**
 
-###  Abrechnungsinformation
+Unter Abrechnungsinformation wird die Definition der Abrechnung der beauftragten  Leistung verstanden . Bei Leistungserbringungen außerhalb der gesetzlichen  Krankenversicherung ist es hierbei zwingend erforderlich, die administrativen Daten
 
-Unter Abrechnungsinformation wird die Definition der Abrechnung der beauftragten  Leistung verstanden . Bei Leistungserbringungen außerhalb der gesetzlichen  Krankenversicherung ist es hierbei zwingend erforderlich, die administrativen Daten  für die Erstellung der Rechnungen an den Leistungserbringer zu übertragen.
+für die Erstellung der Rechnungen an den Leistungserbringer zu übertragen.
 
-**3.11**
+**3.11** ** Befund**
 
-###  Befund
+Unter Befund werden medizinisch relevante, körperliche oder psychische
 
-Unter Befund werden medizinisch relevante, körperliche oder psychische  Erscheinungen, Gegebenheiten, Veränderungen und Zustände eines Patienten  verstanden, die durch entsprechend ausgebildetes Personal mittels  unterschiedlichster analytischer Methoden und Verfahren als ein  Untersuchungsresultat erhoben und dokumentiert werden.
+Erscheinungen, Gegebenheiten, Veränderungen und Zustände eines Patienten  verstanden, die durch entsprechend ausgebildetes Personal mittels
 
-**3.12**
+unterschiedlichster analytischer Methoden und Verfahren als ein
 
-### Nachforderung
+Untersuchungsresultat erhoben und dokumentiert werden.
 
-Eine Nachforderung ist eine ergänzende Anforderung von Laboruntersuchungen zu  einem bereits bestehenden Überweisungsauftrag auf der Grundlage einer  medizinischen Bewertung der bis dahin vorliegenden Befundergebnisse und der  sich daraus ergebenden medizinischen Notwendigkeit zur Nachuntersuchung der  entnommenen Probe mit weiteren ergänzenden Untersuchungen. Die  Nachforderung wird aus der bereits entnommenen Patientenprobe durchgeführt.
+**3.12** **Nachforderung**
+
+Eine Nachforderung ist eine ergänzende Anforderung von Laboruntersuchungen zu
+
+einem bereits bestehenden Überweisungsauftrag auf der Grundlage einer
+
+medizinischen Bewertung der bis dahin vorliegenden Befundergebnisse und der  sich daraus ergebenden medizinischen Notwendigkeit zur Nachuntersuchung der  entnommenen Probe mit weiteren ergänzenden Untersuchungen. Die
+
+Nachforderung wird aus der bereits entnommenen Patientenprobe durchgeführt.
 
 
 ---
 
-### Neuerungen im LDT 3 und dessen Anwendung
+**Neuerungen im LDT 3 und dessen Anwendung**
 
-Dieses Dokument beschreibt unter der Bezeichnung LDT die Schnittstelle zum  systemunabhängigen Datentransfer von Laborauftrags- und Befunddaten zwischen  den beteiligten Primärsystemen und den Laborinformations bzw.  Kommunikationssystemen von Laborgemeinsch aften und Facharztlaboren (im  Weiteren LIS genannt).
+Dieses Dokument beschreibt unter der Bezeichnung LDT die Schnittstelle zum  systemunabhängigen Datentransfer von Laborauftrags- und Befunddaten zwischen
+
+den beteiligten Primärsystemen und den Laborinformations
+
+bzw.
+
+Kommunikationssystemen von Laborgemeinsch aften und Facharztlaboren (im  Weiteren LIS genannt).
 
 Der LDT ist ein Standard der XDT-Familie und wird von der KBV gepflegt und  weiterentwickelt.
 
-Der LDT 3 (im Weiteren LDT genannt) bildet in seiner jetzigen Version einen deutlich  umfangreicheren Bereich von Prozessen ab, welche bei der Kommunikation  zwischen Einsendern und Laboren bzw. zwischen Laboren im Rahmen von  diagnostischen Anforderungen auftreten können. Dabei wurden Satzarten erweitert  und Objekte bereitgestellt, mit deren Hilfe neben den Leistungen der gesetzlichen  Krankenversicherung auch Selektivverträge, Leistungen der privaten  Krankenversicherung und sonstige Laborleistungen abgebildet werden können.  Genauso ist eine Nutzung des LDT von nichtmedizinischen Einrichtungen möglich,  sofern eine elektronische Kommunikationsverbindung zwischen Auftraggeber und  Labor besteht.
+Der LDT 3 (im Weiteren LDT genannt) bildet in seiner jetzigen Version einen deutlich
+
+umfangreicheren Bereich von Prozessen ab, welche bei der Kommunikation  zwischen Einsendern und Laboren bzw. zwischen Laboren im Rahmen von  diagnostischen Anforderungen auftreten können. Dabei wurden Satzarten erweitert  und Objekte bereitgestellt, mit deren Hilfe neben den Leistungen der gesetzlichen  Krankenversicherung auch Selektivverträge, Leistungen der privaten
+
+Krankenversicherung und sonstige Laborleistungen abgebildet werden können.  Genauso ist eine Nutzung des LDT von nichtmedizinischen Einrichtungen möglich,  sofern eine elektronische Kommunikationsverbindung zwischen Auftraggeber und  Labor besteht.
 
 Im LDT werden die Daten der Beauftragung von Leistungen im laboratoriums - medizinischen Kontext in der Satzart 8215 transportiert.
 
-In die Wertetabelle der E053 für die Feldkennung FK 9970 (Dokumententyp) wurde  der Wert „900“ (LDT-Datensatz) aufgenommen. Dadurch wird es möglich, im Objekt  „Anhang“ (Obj_0010) einen für den Patienten b ereits vorliegenden LDT-Datensatz  als base64 -kodierten Inhalt so zu übertragen, dass das empfangende System  diesen auch korrekt interpretieren kann. Somit kann z.B. bei der Beauftragung von  Laborleistungen dem Empfänger mitgeteilt werden, welche Befunddaten bereits für  diesen Patienten vorliegen.
+In die Wertetabelle der E053 für die Feldkennung FK 9970 (Dokumententyp) wurde  der Wert „900“ (LDT-Datensatz) aufgenommen. Dadurch wird es möglich, im Objekt
 
-Die Daten der Befundübermittlung werden in der Satzart 8205 übertragen . Bei der  Definition des Status des Befundes wird nur noch aus Sicht der Beauftragung nach  „Auftrag nicht abgeschlossen“ (es folgen noch Unters uchungsergebnisse) und  „Auftrag abgeschlossen“ (alle Untersuchungsanforderungen wurden analysiert und  die Ergebnisse sind validiert) unterschieden. Einer zentralen Rolle bei der Definition  des Status des Untersuchungsergebnisses kommt der Feldkennung 8418  (Ergebnisstatus) zu. Hier kann zu jedem Ergebnis der aktuelle Status mitgegeben  werden.
+„Anhang“ (Obj_0010) einen für den Patienten b ereits vorliegenden LDT-Datensatz
 
-Die Satzarten 8230/8231 Datenpaket Header und Abschluss Praxis) und  8220/8221 (Datenpaket Header und Abschluss Labor) bleiben erhalten, wurden  allerdings an die Belange einer direkten elektronischen Kommunikation angepasst.
+als base64 -kodierten Inhalt so zu übertragen, dass das empfangende System  diesen auch korrekt interpretieren kann. Somit kann z.B. bei der Beauftragung von  Laborleistungen dem Empfänger mitgeteilt werden, welche Befunddaten bereits für  diesen Patienten vorliegen.
+
+Die Daten der Befundübermittlung werden in der Satzart 8205 übertragen . Bei der  Definition des Status des Befundes wird nur noch aus Sicht der Beauftragung nach  „Auftrag nicht abgeschlossen“ (es folgen noch Unters uchungsergebnisse) und
+
+„Auftrag abgeschlossen“ (alle Untersuchungsanforderungen wurden analysiert und  die Ergebnisse sind validiert) unterschieden. Einer zentralen Rolle bei der Definition  des Status des Untersuchungsergebnisses kommt der Feldkennung 8418
+
+(Ergebnisstatus) zu. Hier kann zu jedem Ergebnis der aktuelle Status mitgegeben  werden.
+
+Die Satzarten 8230/8231 Datenpaket Header und Abschluss Praxis) und
+
+8220/8221 (Datenpaket Header und Abschluss Labor) bleiben erhalten, wurden  allerdings an die Belange einer direkten elektronischen Kommunikation angepasst.
 
 Die einzelnen Prozessschritte wurden in Informationsobjekten, im Folgenden als  Objekt bezeichnet, zusammengefasst. Der Aufbau der einzelnen Objekte ist im  Objektkatalog LDT beschrieben. Objekte, die Prozessschritte beschreiben, die an  mehreren Stellen des Gesamtprozesses auftreten, sind in diese Objekte integriert.
 
-Die Referenzierung der Aufträge, Untersuchungsanforderungen und Befund- berichte auf die entsprechenden Kataloge erfolgt immer auf der untersten  Vorkommensebene. Dadurch ist es möglich, pro Untersuchungsanforderung,  Laborbefundbericht oder sogar Untersuchungsergebnis, sowie in der  Untersuchungsabrechnung jeweils verschiedene Kataloge oder Terminologien zu  verwenden.
+Die Referenzierung der Aufträge, Untersuchungsanforderungen und Befund-
+
+berichte auf die entsprechenden Kataloge erfolgt immer auf der untersten  Vorkommensebene. Dadurch ist es möglich, pro Untersuchungsanforderung,  Laborbefundbericht oder sogar Untersuchungsergebnis, sowie in der
+
+Untersuchungsabrechnung jeweils verschiedene Kataloge oder Terminologien zu  verwenden.
 
 
 ---
 
-Jede benannt e ID kann auch eine OID sein.  Bezeichnungen verwendet.
+Jede benannt e ID kann auch eine OID sein.
+
+Bezeichnungen verwendet.
 
 Um bei der automatisierten Datenkommunikation in den 1 -n-Beziehungen eine  hohe Qualität der Daten zu sichern, wurden viele Feldinhalte weitestgehend  strukturiert und die Verwendung von Freitextfeldern stark reduziert.
 
-Stattdessen wurden Objektattribute für  Informationen (8167 mit Verweis auf Obj_Fließtext ) und Anhänge (Obj_0010  Anhang) eingefügt. Für die Darstellung von Texten und Dateikodierungen wurde ein  spezielles Objekt (Obj_0068 Fließtext) aufgenommen.
+Stattdessen wurden Objektattribute für
+
+Informationen (8167 mit Verweis auf Obj_Fließtext ) und Anhänge (Obj_0010  Anhang) eingefügt. Für die Darstellung von Texten und Dateikodierungen wurde ein
+
+spezielles Objekt (Obj_0068 Fließtext) aufgenommen.
 
 Die im KVDT vorhandene Feldkennung FK 4205 (Freitextfeld)  entfernt.
 
-Anstelle dieser Feldkennung werden für die strukturierte Definition des Auftrages  die Objekte Obj_ 0013 (Obj_Auftragsinformation), Obj_ (Obj_Untersuchungsanforderung) und für alle weitergehenden Informationen, die in  den vorgenannten Objekten nicht transportiert werden können,  8167 mit dem Verweis auf das Obj_Fließtext genutzt.
+Anstelle dieser Feldkennung werden für die strukturierte Definition des Auftrages  die Objekte Obj_ 0013 (Obj_Auftragsinformation), Obj_
 
-Es ist hier für d ie Umsetzung der Datensatzbeschreibung für die Software - Entwickler deutlich schneller und transparenter nachzuvollziehen, in welchen  Feldkennungen Freitexte bzw. strukturierte Daten zu erwarten sind.
+(Obj_Untersuchungsanforderung) und für alle weitergehenden Informationen, die in  den vorgenannten Objekten nicht transportiert werden können,  8167 mit dem Verweis auf das Obj_Fließtext genutzt.
+
+Es ist hier für d ie Umsetzung der Datensatzbeschreibung für die Software -
+
+Entwickler deutlich schneller und transparenter nachzuvollziehen, in welchen  Feldkennungen Freitexte bzw. strukturierte Daten zu erwarten sind.
 
 ***Grundsätzlich sollten bei der Interpretation der vorliegenden Unterl agen***  ***folgende Punkte beachtet werden:***
 
-Die bisherige Philosophie de r Vorgängerversion  Untersuchung hin zum verwendeten Material. Es wurde also einer gewünschten  Untersuchung ein Material bzw. eine Probe zugeordnet.
+Die bisherige Philosophie de r Vorgängerversion
 
-In der hier jetzt vorliegenden Form wurde diese Herangehensweise grundsätzlich  geändert. Es wird immer zuerst das vorhandene Material  aufbauend die dazu möglichen Untersuchungen zugeordnet. Damit wird von  vornherein klar definiert, welche Untersuchungsanforderungen aus diesem Material  zu realisieren sind. In den praktischen Tests und bei der Erstellung der Use Cases  hat sich diese Herangehensweise bestätigt.
+Untersuchung hin zum verwendeten Material. Es wurde also einer gewünschten  Untersuchung ein Material bzw. eine Probe zugeordnet.
 
-In der Anlage **A** sind Beispiele für Use Cases aus den Bereichen Klinische Chemie  und Mikrobiologie enthalten.
+In der hier jetzt vorliegenden Form wurde diese Herangehensweise grundsätzlich  geändert. Es wird immer zuerst das vorhandene Material
+
+aufbauend die dazu möglichen Untersuchungen zugeordnet. Damit wird von  vornherein klar definiert, welche Untersuchungsanforderungen aus diesem Material
+
+zu realisieren sind. In den praktischen Tests und bei der Erstellung der Use Cases  hat sich diese Herangehensweise bestätigt.
+
+In der Anlage **A** sind Beispiele für Use Cases aus den Bereichen Klinische Chemie
+
+und Mikrobiologie enthalten.
 
 Alle anderen Bereiche (Zytologie, Pathologie und Transfusionsmedizin) werden  ebenso abgebildet. In der Struktur der Satzarten sind diese als Objekte mit  aufgeführt.
 
-***Eine weitere wesentliche Neuerung im LDT***  ***Abrechnungsart zur angeforderten Untersuchung.***
+***Eine weitere wesentliche Neuerung im LDT***
+
+***Abrechnungsart zur angeforderten Untersuchung.***
 
 Da in einem Auftrag (Satzart 8215) mehrere Untersuchungen angefordert werden  können, die auch unterschiedlichen Abrechnungsarten zugeordnet werden,  auch mehrere Abrechnungsarten enthalten sein. Eine zentrale Bedeutung bei der  Definition der Abrechnungsart kommt dabei der  Untersuchung) zu. Hiermit kann der einzelnen Untersuchung die Kennung  mitgegeben werden, wie die Abrechnung erfolgen soll. Zu jeder Abrechnungsart  können auch einzelne Rechnungsempfänger hinterlegt werden. Weiterhin wird die  Kennzeichnung von abweichenden oder zusätzlichen Befundwegen ermöglicht,  welche abweichend von den im Labor hinterlegten Stammdaten des Einsenders  vorkommen können.
 
@@ -645,9 +771,15 @@ können
 
 ---
 
-Im Befund (Satzart 8205) sind Versionierungen möglich . Damit erhält der  Befunddatensatz und das jeweilige Untersuchungsergebnis eine eindeutige ID, die  ein Überschreiben von Befunden  Primärsystem verhindert.
+Im Befund (Satzart 8205) sind Versionierungen möglich . Damit erhält der
 
-Die in der „Richtlinie der Bundesärztekammer  labormedizinischer Untersuchungen  Qualitätssicherung (besonders Punkt  Satzbeschreibung des LDT eingeflossen.
+Befunddatensatz und das jeweilige Untersuchungsergebnis eine eindeutige ID, die  ein Überschreiben von Befunden  Primärsystem verhindert.
+
+Die in der „Richtlinie der Bundesärztekammer
+
+labormedizinischer Untersuchungen  Qualitätssicherung (besonders Punkt
+
+Satzbeschreibung des LDT eingeflossen.
 
 Der LDT beschränkt sich ausdrücklich auf die reine Datenübertragung und sieht  keine Verschlüsselungsformen oder sonstige Datenschutzmechanismen vor. Diese  müssen durch die eingesetzten Applikationen und genutzten Übertragungswege  bereitgestellt werden.
 
@@ -657,16 +789,18 @@ Bitte beachten Sie dazu unbedingt die Hinweise unter
 
 und Ergebnissen zum gleiche n Auftrag im
 
-zur Qualitätssicherung  RiliBÄK“ genannten Forderungen zur  6.1.3, 6.1.7 und 6.3.2) sind in die
+zur Qualitätssicherung
+
+RiliBÄK“ genannten Forderungen zur
+
+6.1.3, 6.1.7 und 6.3.2) sind in die
 
 **Implementierungshinweis**
 
 
 ---
 
-**4.1**
-
-### Weitere Einsatzgebiete/Teilprozesse
+**4.1** **Weitere Einsatzgebiete/Teilprozesse**
 
 Grundsätzlich wird im LDT für die Definition der Prozesse eine andere Struktur, wie  die bisher verwendete, umgesetzt.
 
@@ -682,7 +816,9 @@ Die nachfolgende Darstellung veranschaulicht  Zusammenhang mit laboratoriumsmedi
 
 den Prozess des Workflows im
 
-Order/Entry  System*  Obj_Patient Obj_Einsenderidentifikation
+Order/Entry  System*  Obj_Patient
+
+Obj_Einsenderidentifikation
 
 Obj_Abrechnungsinformationen
 
@@ -713,13 +849,23 @@ Obj_Einsenderidentifikation
 
 Definition „Order/Entry System“ siehe unter 3.2
 
-Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Laborinfrastruktur eingesetzt Damit ergeben  Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung von Teilprozessen  Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt werden können.  Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“ geschaffen.
+Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der
 
-**4.1.1**
+Laborinfrastruktur eingesetzt
 
-### Teilprozess – Übergabe Daten aus Scansystem
+Damit ergeben
 
-Scansystem **LIS**
+Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung von Teilprozessen
+
+Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt werden können.
+
+Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“ geschaffen.
+
+**4.1.1** **Teilprozess – Übergabe Daten aus Scansystem**
+
+Scansystem
+
+**LIS**
 
 Über das Scansystem werden die Aufträge verschiedener Einsender , die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
 
@@ -742,11 +888,11 @@ Satzart 8215 (Workflow-Management, Analytik, Befundung) Obj_Befundinformationen 
 
 ---
 
-Der Einsender ist jeweils derjenige, der den Auftrag in Papierform an das Labor  versendet hat. D.h.  (Obj_Einsenderidentifikation) anderslautende Inhalte haben. In der Satzart 8230  Obj_0032 (Obj_Kopfdaten) sind die Inhalte immer gleichlautend.
+Der Einsender ist jeweils derjenige, der den Auftrag in Papierform an das Labor  versendet hat. D.h.
 
-**4.1.2**
+(Obj_Einsenderidentifikation) anderslautende Inhalte haben. In der Satzart 8230  Obj_0032 (Obj_Kopfdaten) sind die Inhalte immer gleichlautend.
 
-**Teilprozess – Datenübergabe aus dem Primärsystem an**
+**4.1.2** **Teilprozess – Datenübergabe aus dem Primärsystem an**
 
 | Primärsystem | ➔ | **LIS** |
 |---|---|---|
@@ -779,13 +925,13 @@ Das Order Entry übermittelt nach der Fertigstellung des Auftrags die Übersicht
 
 im Obj_ 0022  im
 
-### LIS
+#### LIS
 
 Eine
 
 komplette  ggf.
 
-### rder/Entry
+#### rder/Entry
 
 und  Eine
 
@@ -795,9 +941,7 @@ Aus dem Primärsystem werden die Patientenstamm ID ist für die nachfolgende Zuo
 
 ---
 
-**4.1.6**
-
-### Teilprozess – Datenübergabe zwischen Labor
+**4.1.6** **Teilprozess – Datenübergabe zwischen Labor**
 
 LIS 1 im Labor 1
 
@@ -812,7 +956,7 @@ LIS 2 im Labor 2
 
 ---
 
-### Grundsätzliche Festlegungen
+**Grundsätzliche Festlegungen**
 
 Im nachfolgenden Kapitel werden die grundsätzlichen Einsatzgebiete des LDT  beschrieben und die dazugehörigen Begriffsdefinitionen vorgenommen.
 
@@ -828,29 +972,43 @@ Weitere Bestandteile der LDT-Spezifikation sind -  die Satztabellen LDT,
 
 Die Übertragung von personenbezogenen Daten im Rahmen des LDT erfolgt in  Deutschland auf Basis der Regelungen des SGB V, des Bundesmantelvertrages  für Ärzte und der gemeinsam von der BÄK und der KBV herausgegebenen  Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz und  Datenverarbeitung in der Arztpraxis.
 
-**5.1**
+**5.1** **Zielsetzung**
 
-### Zielsetzung
+Die mit der LDT (LaborDatenTräger)-Datensatzbeschreibung
 
-Die mit der LDT (LaborDatenTräger)-Datensatzbeschreibung  Schnittstelle ermöglicht d ie Übertragung von Aufträgen und Befundberichten  zwischen Auftraggebern und Laboren bzw. Einsendepraxen. Die letztgenannten  Rechtsformen werden im Folgenden unter dem Begriff Labor zusammengefasst.
+Schnittstelle ermöglicht d ie Übertragung von Aufträgen und Befundberichten  zwischen Auftraggebern und Laboren bzw. Einsendepraxen. Die letztgenannten  Rechtsformen werden im Folgenden unter dem Begriff Labor zusammengefasst.
 
-**5.2**
+**5.2** **Datenaustausch**
 
-### Datenaustausch
+Basierend auf den bisherigen Erläuterungen zur Neufassung des LDT ergeben sich
 
-Basierend auf den bisherigen Erläuterungen zur Neufassung des LDT ergeben sich  damit auch erweiterte Möglichkeiten für den Einsatz innerhalb der einzelnen  Teilprozesse einer Leistungsanforderung oder Befundrückübermittlung.  **5.2.1**
+damit auch erweiterte Möglichkeiten für den Einsatz innerhalb der einzelnen  Teilprozesse einer Leistungsanforderung oder Befundrückübermittlung.  **5.2.1** **Datenaustausch zwischen Einsender und Labor**
 
-### Datenaustausch zwischen Einsender und Labor
+Im vorherigen Kapitel wurden die Teilprozesse der Kommunikation bereits
 
-Im vorherigen Kapitel wurden die Teilprozesse der Kommunikation bereits  beschrieben. Vor diesem Hintergrund kann auf  Kommunikationsbeziehungen zwischen den einzelnen  zukünftig verzichtet werden. Die Auftragsgebiete unterscheiden sich nur hinsichtlich  ihrer Abrechnungsform und de r Verwendung  Anforderungsformulare (im GKV -Bereich beispielsweise Muster 10, 10 A, 39 oder  6).
+beschrieben. Vor diesem Hintergrund kann auf
 
-Bei der Befundrückübermittlung gibt es ebenfalls keine inhaltliche Unterscheidung.  Es werden zu den Ergebnissen immer Referenzbereiche oder Erläuterungen zum  Ergebnis übermittelt. Daraus ergibt sich der Befund.  Befundes/Berichtes (FK 8401) wird aus Sicht des gestellten Auftrages als „Auftrag  nicht abgeschlossen“ oder „Auftrag abgeschlossen“ definiert.
+Kommunikationsbeziehungen zwischen den einzelnen
+
+zukünftig verzichtet werden. Die Auftragsgebiete unterscheiden sich nur hinsichtlich  ihrer Abrechnungsform und de r Verwendung
+
+Anforderungsformulare (im GKV -Bereich beispielsweise Muster 10, 10 A, 39 oder  6).
+
+Bei der Befundrückübermittlung gibt es ebenfalls keine inhaltliche Unterscheidung.  Es werden zu den Ergebnissen immer Referenzbereiche oder Erläuterungen zum  Ergebnis übermittelt. Daraus ergibt sich der Befund.
+
+Befundes/Berichtes (FK 8401) wird aus Sicht des gestellten Auftrages als „Auftrag
+
+nicht abgeschlossen“ oder „Auftrag abgeschlossen“ definiert.
 
 Der Kommunikationsweg ist immer gleich.
 
-Einsender **Auftrag Satzart 8215**
+Einsender
 
-Einsender **Befund Satzart 8205**
+**Auftrag Satzart 8215**
+
+Einsender
+
+**Befund Satzart 8205**
 
 eine  Laboreinrichtungen
 
@@ -875,11 +1033,11 @@ Labor
 
 ---
 
-### Aufbau eines LDT
+**Aufbau eines LDT-Datenpaketes**
 
-**-Datenpaketes**
+Ein **Datenpaket** ist in **Sätze** unterteilt.  **3**
 
-Ein **Datenpaket** ist in **Sätze** unterteilt.  **3**Ein **Satz** ist unterteilt in **Objektattribute**2F und/oder in **Felder.**
+Ein **Satz** ist unterteilt in **Objektattribute**2F2F und/oder in **Felder.**
 
 Ein **Objekt** ist wiederum unterteilt in **Felder** und/oder **Objektattribute³**
 
@@ -893,9 +1051,7 @@ Es besteht aus -  Längenangabe des Feldes,
 
 -  Feld-Ende-Markierung (CR,LF).
 
-**6.1**
-
-### Grobstruktur
+**6.1** **Grobstruktur**
 
 Ein **Datenpaket** setzt sich aus mehreren Sätzen zusammen:
 
@@ -922,9 +1078,7 @@ Ein **Objekt** ist wiederum unterteilt in Felder und/oder Objektattribute:
 
 Jedes **Feld** hat den folgenden Aufbau:
 
-**6.2**
-
-### Satzarten
+**6.2** **Satzarten**
 
 Folgende Sätze sind definiert:
 
@@ -942,9 +1096,7 @@ P-Datenpaket-Abschluss
 |---|---|
 | Auftrag | 8215 |
 
-**6.2.1**
-
-### Anordnung
+**6.2.1** **Anordnung**
 
 Mit der Einführung des LDT wird generell davon ausgegangen, dass eine  Übertragung von Dateien mittels Datenträger (Disketten, CD oder USB-Stick) nicht
 
@@ -981,23 +1133,17 @@ mehr erfolgt. Es wird vielmehr auf eine komplette elektronische Übermittlung mi
 
 ### installierter Infrastruktur gesetzt.
 
-### Darüber hinaus gelten für jede LDT-Datei folgende Vorgaben: -
+### Darüber hinaus gelten für jede LDT-Datei folgende Vorgaben:
 
-### Reihenfolge, Anzahl und Position der Satzarten sind in Abhängigkeit der  verwendeten Übertragungseinheit sowie dem gewünschten Datenaustausch
+-  Reihenfolge, Anzahl und Position der Satzarten sind in Abhängigkeit der
+
+### verwendeten Übertragungseinheit sowie dem gewünschten Datenaustausch
 
 (z.B. Befundübermittlung Labor -> Einsender) definiert.
 
--
+-  Grundsätzlich sind nur die nachfolgend aufgeführten Satzartkombinationen  zulässig. Jede Datei muss separat erzeugt und eingelesen werden.
 
-### Grundsätzlich sind nur die nachfolgend aufgeführten Satzartkombinationen
-
-zulässig. Jede Datei muss separat erzeugt und eingelesen werden.
-
-**6.2.2**
-
-## Auftragsübermittlung Einsender
-
-**-> Labor**
+**6.2.2** **Auftragsübermittlung Einsender -> Labor**
 
 **SA Übertragung mittels gesicherter Strukturen**
 
@@ -1007,11 +1153,7 @@ zulässig. Jede Datei muss separat erzeugt und eingelesen werden.
 
 8231 Satz 8231 ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen.
 
-**6.2.3**
-
-## Befundübermittlung Labor
-
-**-> Einsender**
+**6.2.3** **Befundübermittlung Labor-> Einsender**
 
 **SA Übertragung mittels gesicherter Strukturen, vorrangig KV-Connect**
 
@@ -1025,21 +1167,17 @@ zulässig. Jede Datei muss separat erzeugt und eingelesen werden.
 
 auf den Satz 8230
 
-**6.3**
+**6.3** **Satzaufbau**
 
-## Satzaufbau
+### Jeder Satz beginnt mit einem Feld 8000, gefüllt mit dem Wert für die entsprechende
 
-### Jeder Satz beginnt mit einem Feld
-
-8000, gefüllt mit dem Wert für die entsprechende  Satzart und beinhaltet mindestens ein weiteres Objektattribut bzw. Feld.
+Satzart und beinhaltet mindestens ein weiteres Objektattribut bzw. Feld.
 
 ### In jeder Satzart können eine beliebige Anzahl Objektattribute und/oder Felder
 
 enthalten sein. Die zulässigen Felder bzw. Objektattribute je Satzart werden in
 
-### Satztabellen
-
-spezifiziert. In der jeweiligen Satztabelle wird auch das zulässige
+### Satztabellen spezifiziert. In der jeweiligen Satztabelle wird auch das zulässige
 
 ### Auftreten von Feldern in Abhängigkeit von anderen Feldern durch die Spalte  „Vorkommen“ definiert
 
@@ -1047,9 +1185,7 @@ spezifiziert. In der jeweiligen Satztabelle wird auch das zulässige
 
 Jedes Objekt wird mit einem Objektattribut eingeleitet. Das Objektattribut verweist  auf die Verwendung des nachfolgenden Objektes. Als Feldkennungen für die  Objektattribute ist der Wertebereich 8100 bis 8299 reserviert. Das
 
-### mit einem Feld 8002, welches die entsprechende Objekt-ID enthält und endet mit  einem Feld
-
-8003 (Objektende). Dieses Feld enthält eben falls als Inhalt die
+### mit einem Feld 8002, welches die entsprechende Objekt-ID enthält und endet mit  einem Feld 8003 (Objektende). Dieses Feld enthält eben falls als Inhalt die
 
 ### entsprechende Objekt-ID.
 
@@ -1060,9 +1196,7 @@ Jedes Objekt wird mit einem Objektattribut eingeleitet. Das Objektattribut verwe
 
 ---
 
-**6.3.1**
-
-## Satz- und Objekttabellen
+**6.3.1** **Satz- und Objekttabellen**
 
 Die Satz- und Objekttabellen definieren die Struktur der Sätze bzw. Objekte und
 
@@ -1149,11 +1283,21 @@ M
 
 **Vorkommen**
 
-**1 2 3 4**  1     1     n
+**1 2 3 4**
 
-**5**  Feld 8002 kann nur einmal im Objekt vorkommen  Feld 8239 kann nur einmal je Feld 8002 vorkommen  Feld 7352 kann beliebig oft je Feld 8239 vorkommen
+1
 
-### identifiziert
+1
+
+n
+
+**5**  Feld 8002 kann nur einmal im Objekt vorkommen
+
+Feld 8239 kann nur einmal je Feld 8002 vorkommen
+
+Feld 7352 kann beliebig oft je Feld 8239 vorkommen
+
+identifiziert
 
 **Beispiel**
 
@@ -1171,28 +1315,49 @@ Vorkommen 1  2     3   4
 
 ** Feldart:
 
-In der Spalte „Feldart“ der Satz- und Objekttabellen wird angegeben, ob ein Feld in  einem Satz vorhanden sein muss  oder kann  und ob dieses Vorhandensein an  eine bestimmte Bedingung geknüpft ist. Diese Bedingung ist dann in der Spalte  „Regel“ der Satz-, Feld- bzw. Objekttabelle aufgeführt. Die Regelwerke sind in den   Regeltabellen spezifiziert.
+In der Spalte „Feldart“ der Satz- und Objekttabellen wird angegeben, ob ein Feld in
+
+einem Satz vorhanden sein muss  oder kann  und ob dieses Vorhandensein an
+
+eine bestimmte Bedingung geknüpft ist. Diese Bedingung ist dann in der Spalte  „Regel“ der Satz-, Feld- bzw. Objekttabelle aufgeführt. Die Regelwerke sind in den
+
+Regeltabellen spezifiziert.
 
 -  **M = unbedingtes Mussfeld/Objekt**  Ein unbedingtes Muss-Feld muss in einem Satz bzw. Objekt vorhanden  sein. Sollte in der Spalte Vorkommen ein mehrfaches bzw. n-faches  Vorkommen zugelassen sein, so muss dieses Feld mindestens einmal in  dem Satz bzw. Objekt vorkommen.
 
--  **m = bedingtes Mussfeld/Objekt**  Bei einem bedingten Muss-Feld ist die Existenz an eine bestimmte Regel  (siehe Spalte „Regel“) oder an das Auftreten eines referenzierten Feldes  auf einer übergeordneten Hierachiestufe (siehe Spalte „Vorkommen“)  gebunden. Ein bedingtes Muss-Feld muss in einem Satz bzw. Objekt  vorhanden sein, wenn entweder in der Spalte „Regel“ ein Eintrag  vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  referenzierte Feld existiert.
+-  **m = bedingtes Mussfeld/Objekt**  Bei einem bedingten Muss-Feld ist die Existenz an eine bestimmte Regel  (siehe Spalte „Regel“) oder an das Auftreten eines referenzierten Feldes
 
--  **K = Kannfeld/Objekt**  Ein Kann-Feld kann in einem Satz bzw. Objekt auftreten. Das Vorkommen  ist an keinerlei Bedingungen geknüpft. Sollten jedoch die entsprechenden  Daten vorliegen, müssen sie in dem dazugehörigen Feld dargestellt  werden, wobei der Nachweis über das Vorhandensein der Daten  im  Gegensatz zu bedingten Muss-Feldern  nicht programmtechnisch geprüft  werden kann.
--  **k = bedingtes Kann-Feld/Objekt**  Bei einem bedingten Kann-Feld ist die Existenz an eine bestimmte Regel  (siehe Spalte „Regel“) oder an das Auftreten eines referenzierten Feldes  auf einer übergeordneten Hierachiestufe (siehe Spalte Vorkommen gebunden. Ein bedingtes Kann-Feld darf in einem Satz bzw. Objekt  vorhanden sein, wenn entweder in der Spalte „Regel“ ein Eintrag  vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  referenzierte Feld existiert.
+auf einer übergeordneten Hierachiestufe (siehe Spalte „Vorkommen“)
+
+gebunden. Ein bedingtes Muss-Feld muss in einem Satz bzw. Objekt  vorhanden sein, wenn entweder in der Spalte „Regel“ ein Eintrag
+
+vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  referenzierte Feld existiert.
+
+-  **K = Kannfeld/Objekt**  Ein Kann-Feld kann in einem Satz bzw. Objekt auftreten. Das Vorkommen  ist an keinerlei Bedingungen geknüpft. Sollten jedoch die entsprechenden  Daten vorliegen, müssen sie in dem dazugehörigen Feld dargestellt  werden, wobei der Nachweis über das Vorhandensein der Daten  im
+
+Gegensatz zu bedingten Muss-Feldern  nicht programmtechnisch geprüft
+
+werden kann.
+
+-  **k = bedingtes Kann-Feld/Objekt**  Bei einem bedingten Kann-Feld ist die Existenz an eine bestimmte Regel  (siehe Spalte „Regel“) oder an das Auftreten eines referenzierten Feldes
+
+auf einer übergeordneten Hierachiestufe (siehe Spalte Vorkommen
+
+gebunden. Ein bedingtes Kann-Feld darf in einem Satz bzw. Objekt  vorhanden sein, wenn entweder in der Spalte „Regel“ ein Eintrag
+
+vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  referenzierte Feld existiert.
 
 In diesem Zusammenhang ist zu beachten, dass es nicht zulässig ist, „leere”  Objekte, d. h. Objekte, die nur die Feldkennungen 8002 und 8003 beinhalten, zu  übertragen.
 
-**6.4**
+**6.4** **Beschreibung von Feld und Feldtabelle**
 
-### Beschreibung von Feld und Feldtabelle
-
-**6.4.1**
-
-### Beschreibung des Feldaufbaus
+**6.4.1** **Beschreibung des Feldaufbaus**
 
 Die eigentlichen Informationseinheiten sind die Felder. Jedes Feld hat die gleiche  Struktur.
 
-Alle Daten sind als Zeichen im Code ISO 8859 -15 dargestellt. Die Endekennung  durch Wagenrücklauf und Zeilenvorschub erfolgt gemäß ISO/IEC 6429.
+Alle Daten sind als Zeichen im Code ISO 8859 -15 dargestellt. Die Endekennung
+
+durch Wagenrücklauf und Zeilenvorschub erfolgt gemäß ISO/IEC 6429.
 
 Gemäß der Feldkennung wird der zugehörige Eintrag in der Feldtabelle zur  Erzeugung oder Prüfung des Feldes herangezogen.
 
@@ -1226,9 +1391,7 @@ d. h. ohne Feldinhalt bzw. nur mit Leerzeichen gefüllt, zu übertragen.
 
 ### werden in der Feld- und Regeltabelle definiert.
 
-**6.4.2**
-
-## Aufbau der Feldtabelle
+**6.4.2** **Aufbau der Feldtabelle**
 
 ### Es gibt nur eine und damit satzartenunabhängige Feldtabelle, in der pro  Feldkennung ein Eintrag existiert.
 
@@ -1297,7 +1460,9 @@ Formattyp
 
 ### alphanumerisch
 
-4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „ leer
+4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „
+
+leer
 
 LDT“ gefüllt, alle weiteren Spalten bleiben
 
@@ -1316,11 +1481,11 @@ Ein alphanumerisches Datenfeld der Länge” realisieren, dass das betreffende F
 
 date = numerische Datumsangabe im Format JJJJMMTT  (JJJJ = 0001-9999, MM = 01-12, TT = 01-31)
 
-f = Ganzzahl oder Dezimalzahl mit Punkt als Trennzeichen  (Beispiel: 15.1)
+f =
 
-**6.5**
+Ganzzahl oder Dezimalzahl mit Punkt als Trennzeichen  (Beispiel: 15.1)
 
-### Regeln und Regeltabelle
+**6.5** **Regeln und Regeltabelle**
 
 Die Regeltabelle enthält alle definierten Regelwerke für die  und Verarbeitung des LDT.
 
@@ -1330,7 +1495,9 @@ Für die eindeutige Kennzeichnung der Regeln wurde eine neue Namenskonvention  e
 
 n = numerischer Zähler innerhalb des Verwendungszweckes
 
-Folgende Werte für die Definition des Verwendungszweckes werden aktuell  genutzt:
+Folgende Werte für die Definition des Verwendungszweckes werden aktuell
+
+genutzt:
 
 **K** Kontextregel (definiert Abhängigkeiten von Feldern und Objekten)
 
@@ -1338,11 +1505,13 @@ Folgende Werte für die Definition des Verwendungszweckes werden aktuell  genutz
 
 **E** Erlaubter Inhalt (Definition erlaubter Werte für den jeweiligen Feldinhalt
 
-Regeln, die für die Verwendung des LDT außerhalb  Versorgung verwendet werden, sind in der Spalte „Verwendung“ mit dem Eintrag  „SV“ (sonstige Versorgung) versehen.
+Regeln, die für die Verwendung des LDT außerhalb
 
-**6.5.1**
+Versorgung verwendet werden, sind in der Spalte „Verwendung“ mit dem Eintrag
 
-### Beschreibung der Regeltabelle
+„SV“ (sonstige Versorgung) versehen.
+
+**6.5.1** **Beschreibung der Regeltabelle**
 
 Es gibt nur eine und damit satzartenunabhängige Regeltabelle in der alle für den  LDT aktuell gültigen Regeln aufgeführt sind.
 
@@ -1350,13 +1519,21 @@ Jeder Eintrag in der Regeltabelle beschreibt den Inhalt einer entsprechend zu  r
 
 In der Regeltabelle ist zu jeder definierten Regel ein Eintrag mit den folgenden  Angaben vorhanden:
 
-**Inhalt** **Bedeutung**
+**Inhalt**
 
-Regelnummer Eindeutige Kennzeichnung (siehe 6.5)
+**Bedeutung**
 
-Kategorie * Siehe unten
+Regelnummer
 
-Fehlerstatus ** Siehe unten
+Eindeutige Kennzeichnung (siehe 6.5)
+
+Kategorie *
+
+Siehe unten
+
+Fehlerstatus **
+
+Siehe unten
 
 | Prüfung | Regelbeschreibung | nnnnn |
 |---|---|---|
@@ -1402,7 +1579,9 @@ wird in beiden Bereichen verwendet
 
 ** Fehlerstatus:
 
-Hier werden für die Prüfungen zulässige Statusmeldungen abgebildet, die es  erlauben, differenzierter auf einzelne Fehler zu reagieren.
+Hier werden für die Prüfungen zulässige Statusmeldungen abgebildet, die es
+
+erlauben, differenzierter auf einzelne Fehler zu reagieren.
 
 Mögliche Statuswerte sind:
 
@@ -1412,33 +1591,51 @@ Mögliche Statuswerte sind:
 
 **I** Information/Hinweis
 
-**6.6**
-
-### Zeichen-Code
+**6.6** **Zeichen-Code**
 
 Es darf nur der Zeichencode ISO 8859-15 verwendet werden.
 
-Dieser Standard entspricht  Gesundheitskarte), sodass nach dem Einlesen und Weiterverarbeiten die Daten  ohne Veränderung übernommen werden können.
+Dieser Standard entspricht
 
-Dec **0 16 32 48 64**
+Gesundheitskarte), sodass nach dem Einlesen und Weiterverarbeiten die Daten  ohne Veränderung übernommen werden können.
+
+Dec
+
+**0 16 32 48 64**
 
 Hex **0** **1** **2** **3** **4**
 
-SP 0 **0 0**
+SP 0
 
-1 A **1 1**
+**0 0**
 
-2 B **2 2**
+1 A
 
-3 C **3 3**
+**1 1**
 
-4 D **4 4**
+2 B
 
-5 E **5 5**
+**2 2**
 
-6 **6 6**
+3 C
 
-7 G **7 7**
+**3 3**
+
+4 D
+
+**4 4**
+
+5 E
+
+**5 5**
+
+6
+
+**6 6**
+
+7 G
+
+**7 7**
 
 dem
 
@@ -1532,15 +1729,25 @@ I Y i y
 
 J Z j z
 
-K k
+K
 
-L l
+k
 
-M m
+L
 
-N n
+l
 
-O o DEL
+M
+
+m
+
+N
+
+n
+
+O
+
+o DEL
 
 der eGK
 
@@ -1590,7 +1797,9 @@ Diese (elektronischen
 
 Æ Ö æ ö
 
-Ç ç
+Ç
+
+ç
 
 È Ø è ø
 
@@ -1611,11 +1820,13 @@ Diese (elektronischen
 
 ---
 
-**6.7**
+**6.7** **Dateiname**
 
-### Dateiname
+Der Dateiname setzt sich folgendermaßen zusammen:  **Z**
 
-Der Dateiname setzt sich folgendermaßen zusammen:  **Z ff nnnnn**
+**ff**
+
+**nnnnn**
 
 zur ”freien” Verfügung (d.h. die  beliebig belegt werden)
 
@@ -1640,33 +1851,49 @@ weiteren Stellen des Dateinamens können
 
 ---
 
-### Implementierungshinweis
+**Implementierungshinweis**
 
-Wie in den vorherigen Kapiteln schon beschrieben, wurde mit der Neufassung der  XDT-Kataloge eine neue Kategorie von Feldkennungen, die ***Objektattribute*** eingeführt. Die Objektattribute verstehen sich als Feldkennungen, denen jeweils  das Objekt folgen muss, auf dass verwiesen wird . Mit der Einführung der  Objektattribute wird es möglich, den Kontext eines Objektes zu erkennen, ohne den  gesamten Inhalt des Objektes eingelesen zu haben.
+Wie in den vorherigen Kapiteln schon beschrieben, wurde mit der Neufassung der  XDT-Kataloge eine neue Kategorie von Feldkennungen, die ***Objektattribute***
+
+eingeführt. Die Objektattribute verstehen sich als Feldkennungen, denen jeweils  das Objekt folgen muss, auf dass verwiesen wird . Mit der Einführung der
+
+Objektattribute wird es möglich, den Kontext eines Objektes zu erkennen, ohne den
+
+gesamten Inhalt des Objektes eingelesen zu haben.
 
 Dazu zwei Beispiele:
 
 -  Objektattribut mit der FK 8136 (Laborkennung) verweist auf das nachfolgende  Objekt Obj_0036 (Obj_Laborkennung) mit den Angaben zur Laborkennung
 
--  Objektattribut mit der FK 8214 (Timestamp_ Auftragserteilung) verweist auf das  nachfolgende Objekt Obj_0054 (Obj_ Timestamp) mit dem Inhalt des  Zeitpunktes der Auftragserteilung.
+-  Objektattribut mit der FK 8214 (Timestamp_ Auftragserteilung) verweist auf das  nachfolgende Objekt Obj_0054 (Obj_ Timestamp) mit dem Inhalt des
+
+Zeitpunktes der Auftragserteilung.
 
 Für die Objektattribute ist der Nummernkreis 8100 bis 8299 der Feldkennungen  reserviert. Die Objektattribute sind in der Feldtabelle dieser Satzbeschreibung  aufgeführt. In der Feld- und der Objekttabelle sind die Objektattribute durch farbige  Hinterlegung besonders gekennzeichnet.
 
-Im Folgenden wird auf die Bedeutung, Funktion und Verwendung der  Objektattribute am Beispiel der Satzart 8220 näher eingegangen:
+Im Folgenden wird auf die Bedeutung, Funktion und Verwendung der
+
+Objektattribute am Beispiel der Satzart 8220 näher eingegangen:
 
 *Satzart: L (Labor)-Datenpaket-Header „8220“*
 
-**FK Vorkommen Feldbezeichnung**  **1 2 3 4**
+**FK Vorkommen Feldbezeichnung**
 
-8000 1 Satzart
+**1 2 3 4**
 
-8132  1 Kopfdaten
+8000 1
 
-1 **Obj_0032** (Obj_Kopfdaten)
+Satzart 8132  1
 
-8136  1 Laborkennung
+Kopfdaten 1 **Obj_0032** (Obj_Kopfdaten)
 
-1 **Obj_0036** (Obj_Laborkennung) 8119  1 Betriebsstaette
+8136  1
+
+Laborkennung
+
+1 **Obj_0036** (Obj_Laborkennung) 8119  1
+
+Betriebsstaette
 
 |  |  |  | 1 | **Obj_0019** (Obj_Betriebsstaette) |
 |---|---|---|---|---|
@@ -1696,25 +1923,43 @@ Obj_0019  8220
 
 immer das Objekt, auf das das Objektattribut
 
-**Erläuterung**  Satzart  Objektattribut  ObjektIdent Obj_Kopfdaten  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent Obj_Sendendes System  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende Obj_Sendendes System  Objektattribut  ObjektIdent Obj_Timestamp  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende Obj_Timestamp  Objektende Obj_Kopfdaten  Objektattribut  ObjektIdent Obj_Laborkennung  Objektattribut  ObjektIdent Obj_Organisation  Organisation / Firma  Objektende Obj_Organisation  Laborart  Objektende Obj_Laborkennung  Objektattribut  ObjektIdent Obj_Betriebsstaette  Status der Betriebsstaette  Status der Betriebsstaette  (N)BSNR-Bezeichnung  BSNR oder NBSNR  Objektattribut  ObjektIdent Obj_Organisation  Organisation/Firma  Objektattribut  ObjektIdent Obj_Anschrift  Straße  Hausnummer  PLZ  Ort  Objektende Obj_Anschrift  Objektende Obj_Organisation  Objektende Obj_Betriebsstaette  Satzende
+**Erläuterung**  Satzart  Objektattribut  ObjektIdent Obj_Kopfdaten  Version der Datensatzbeschreibung
+
+Objektattribut  ObjektIdent Obj_Sendendes System
+
+ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software
+
+Objektende Obj_Sendendes System
+
+Objektattribut  ObjektIdent Obj_Timestamp  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende Obj_Timestamp  Objektende Obj_Kopfdaten  Objektattribut  ObjektIdent Obj_Laborkennung
+
+Objektattribut  ObjektIdent Obj_Organisation  Organisation / Firma  Objektende Obj_Organisation  Laborart  Objektende Obj_Laborkennung
+
+Objektattribut  ObjektIdent Obj_Betriebsstaette
+
+Status der Betriebsstaette  Status der Betriebsstaette  (N)BSNR-Bezeichnung  BSNR oder NBSNR  Objektattribut  ObjektIdent Obj_Organisation  Organisation/Firma  Objektattribut  ObjektIdent Obj_Anschrift  Straße  Hausnummer  PLZ  Ort  Objektende Obj_Anschrift  Objektende Obj_Organisation  Objektende Obj_Betriebsstaette
+
+Satzende
 
 
 ---
 
-### Aus dem oben dargestellten Beispiel ergibt sich dann folgender Aufbau der LDT Datei (Ausschnitt Satzart 8220):
+### Aus dem oben dargestellten Beispiel ergibt sich dann folgender Aufbau der LDT
 
-01380008220  0188132Kopfdaten  0178002Obj_0032  0170001LDT3.2.19  0258151Sendendes_System  0178002Obj_0051  01683164178526  0250105X/36/1503/04/dcv  0190103Muster-LIS  018013247.23.001  0178003Obj_0051  0398218Timestamp_Erstellung_Datensatz  0178002Obj_0054  017727820151008  0157279173510  0147273UTC+2  0178003Obj_0054  0178003Obj_0032  0218136Laborkennung  0178002Obj_0036  0258239Laborbezeichnung  0178002Obj_0043  0351250Laborarztpraxis Musterarzt  0178003Obj_0043  01072662  0178003Obj_0036  0248119Betriebsstaette  0178002Obj_0019  01002042  01002045  0330203Laborpraxis Musterhausen  0180201123456789  0218143Organisation  0178002Obj_0043  0331250Laborpraxis Musterhausen  0328229Anschrift_Arbeitsstelle  0178002Obj_0007  0213107Musterstraße  0123109123  014311212345  0213113Musterhausen  0178003Obj_0007  0178003Obj_0043  0178003Obj_0019  01380018220
+### Datei (Ausschnitt Satzart 8220):
+
+01380008220  0188132Kopfdaten  0178002Obj_0032  0170001LDT3.2.19  0258151Sendendes_System  0178002Obj_0051  01683164178526  0250105X/36/1503/04/dcv  0190103Muster-LIS  018013247.23.001  0178003Obj_0051  0398218Timestamp_Erstellung_Datensatz
+
+0178002Obj_0054  017727820151008  0157279173510  0147273UTC+2  0178003Obj_0054  0178003Obj_0032  0218136Laborkennung  0178002Obj_0036  0258239Laborbezeichnung  0178002Obj_0043  0351250Laborarztpraxis Musterarzt  0178003Obj_0043  01072662  0178003Obj_0036  0248119Betriebsstaette  0178002Obj_0019  01002042  01002045  0330203Laborpraxis Musterhausen  0180201123456789  0218143Organisation  0178002Obj_0043  0331250Laborpraxis Musterhausen  0328229Anschrift_Arbeitsstelle  0178002Obj_0007  0213107Musterstraße  0123109123  014311212345  0213113Musterhausen  0178003Obj_0007  0178003Obj_0043  0178003Obj_0019  01380018220
 
 
 ---
 
-## Satztabellen
+**Satztabellen**
 
 ### Alle zulässigen Satzarten sind im Folgenden definiert.
 
-**8.1**
-
-** Satzart: L (Labor)-Datenpake**
+**8.1** ** Satzart: L (Labor)-Datenpake**
 
 |  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
 |---|---|---|---|---|---|---|---|
@@ -1733,9 +1978,7 @@ immer das Objekt, auf das das Objektattribut
 |  |  |  | 1 | Satzende | M |  | 8220 |
 |---|---|---|---|---|---|---|---|
 
-**8.2**
-
-## Satzart: L (Labor)-Datenpaket
+**8.2** **Satzart: L (Labor)-Datenpaket**
 
 **FK**
 
@@ -1762,7 +2005,9 @@ immer das Objekt, auf das das Objektattribut
 
 Satzart
 
-Obj_0032 (Obj_Kopfdaten) 5Laborkennung4F
+Obj_0032 (Obj_Kopfdaten) 5
+
+Laborkennung4F4F
 
 Obj_0036 (Obj_Laborkennung)
 
@@ -1823,9 +2068,7 @@ FK 8001 8000 9300 8001
 |  |  |  | 1 | Satzende | M |  | 8230 |
 |---|---|---|---|---|---|---|---|
 
-**8.4**
-
-## Satzart: P (Praxis)
+**8.4** **Satzart: P (Praxis)**
 
 **FK**
 
@@ -1867,9 +2110,7 @@ m
 
 ---
 
-**8.5**
-
-**Satzart: Befund „8205“**
+**8.5** **Satzart: Befund „8205“**
 
 |  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
 |---|---|---|---|---|---|---|---|
@@ -1893,9 +2134,15 @@ m
 
 1
 
-1 8150
+1
 
-1   1 8140
+8150
+
+1
+
+1
+
+8140
 
 1
 
@@ -1936,7 +2183,9 @@ m
 
 7 Die AG LDT empfiehlt, immer eine PDF
 
-Satzart 6Laborkennung5F
+Satzart 6
+
+Laborkennung5F5F
 
 Obj_0036 (Obj_Laborkennung)
 
@@ -1972,7 +2221,9 @@ Obj_0037 (Obj_Material)
 
 Obj_0035  (Obj_Laborergebnisbericht)
 
-Obj_0068 (Obj_Fließtext) 7Anhang6F
+Obj_0068 (Obj_Fließtext) 7
+
+Anhang6F6F
 
 Obj_0010 (Obj_Anhang)
 
@@ -1980,7 +2231,11 @@ t werden, die Unteraufträge bearbeitet haben
 
 -Datei des Befundes in den LDT Datensatz (Satzart 8205) einzubetten.
 
-K005  K063  M  K083  K084
+K005  K063
+
+M
+
+K083  K084
 
 K
 
@@ -1990,7 +2245,11 @@ M
 
 m
 
-K083  m  K084
+K083
+
+m
+
+K084
 
 m
 
@@ -2006,7 +2265,13 @@ k
 
 m
 
-K039  m K083   K084
+K039
+
+m
+
+K083
+
+K084
 
 m
 
@@ -2026,6 +2291,7 @@ m 8205
 
 FK 1    2    3
 
+
 ---
 
 | **FK** | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
@@ -2039,9 +2305,7 @@ FK 1    2    3
 
 ---
 
-**8.6**
-
-**Satzart: Auftrag „8215“**
+**8.6** **Satzart: Auftrag „8215“**
 
 |  |  |  | **Vorkommen** | **Feldbezeichnung** | **Feldart** | **Bedingung** | **Erläuterung/Hinwei** |
 |---|---|---|---|---|---|---|---|
@@ -2061,11 +2325,15 @@ FK 1    2    3
 
 1
 
-1 8150
+1
+
+8150
 
 1
 
-1 8140
+1
+
+8140
 
 1
 
@@ -2126,13 +2394,23 @@ Obj_0027  (Obj_Veranlassungsgrund)
 
 Obj_0001  (Obj_Abrechnungsinformationen)
 
-K011  K020  K025  K027  K031  K032  K042  K063  M  K069  K070  K097  K098  K102  K103  K105  K114
+K011  K020  K025  K027  K031  K032  K042  K063
 
-m K042
+M
+
+K069  K070  K097  K098  K102  K103  K105  K114
 
 m
 
-K049  m  K070
+K042
+
+m
+
+K049
+
+m
+
+K070
 
 m
 
@@ -2174,9 +2452,9 @@ FK 2   3    4
 |---|---|---|---|---|---|---|---|
 |  |  |  | 1 | Satzende | M |  | 8215 |
 
-8Hinweis 7F
+8
 
-1
+Hinweis 7F7F 1
 
 1
 
@@ -2194,7 +2472,7 @@ FK 2   3    4 8001
 
 ---
 
-## Feldtabelle
+**Feldtabelle**
 
 Die Feldtabelle beschreibt alle im LDT 3 vorkommenden Felder.
 
@@ -2431,9 +2709,13 @@ Tabelle der gültigen Namenszusätze unter:  [https://www.gkv-](https://www.gkv-
 
 Anlage 07
 
-Ein Familienname (auch Nachname, Zuname, im Rechtsbereich der Bundesrepublik  Deutschland amtsdeutsch einfach Name) dient als Ergänzung zum Vornamen der besseren  Unterscheidbarkeit von Personen. Mit dem Familiennamen wird die Zugehörigkeit des  Individuums zu einer Familie ausgedrückt. Der Geburtsname drückt die Zugehörigkeit zur   Elternfamilie aus, der Ehename die Zugehörigkeit zur Familie des Ehepartners und der  Doppelname, wenn er nicht vererbt wurde, die Zugehörigkeit zu beiden Familien der  Ehepartner aus.
+Ein Familienname (auch Nachname, Zuname, im Rechtsbereich der Bundesrepublik  Deutschland amtsdeutsch einfach Name) dient als Ergänzung zum Vornamen der besseren  Unterscheidbarkeit von Personen. Mit dem Familiennamen wird die Zugehörigkeit des  Individuums zu einer Familie ausgedrückt. Der Geburtsname drückt die Zugehörigkeit zur
 
-Der Vorname einer Person bezeichnet den Teil des Namens, der nicht die Zugehörigkeit zu  einer Familie bezeichnet.   Eine Person kann mehrere Vornamen haben. Im Deutschen stehen die Vornamen (als  individuelle Namen) vor dem Familiennamen (von regionalen Ausnahmen abgesehen).
+Elternfamilie aus, der Ehename die Zugehörigkeit zur Familie des Ehepartners und der  Doppelname, wenn er nicht vererbt wurde, die Zugehörigkeit zu beiden Familien der  Ehepartner aus.
+
+Der Vorname einer Person bezeichnet den Teil des Namens, der nicht die Zugehörigkeit zu  einer Familie bezeichnet.
+
+Eine Person kann mehrere Vornamen haben. Im Deutschen stehen die Vornamen (als  individuelle Namen) vor dem Familiennamen (von regionalen Ausnahmen abgesehen).
 
 
 ---
@@ -2549,7 +2831,9 @@ K017
 
 10-stellige unveränderliche (Versicherten-ID) der eGK-Krankenversichertennummer
 
-Die Berechnung der Prüfziffer der Versicherten-ID erfolgt nach dem Schema der Anlage 1  der Richtlinie Organisatorische und technische Richtlinien zur Nutzung der  Versicherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten - nummer nach § 290 SGB V, Version 1.5
+Die Berechnung der Prüfziffer der Versicherten-ID erfolgt nach dem Schema der Anlage 1  der Richtlinie Organisatorische und technische Richtlinien zur Nutzung der
+
+Versicherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten - nummer nach § 290 SGB V, Version 1.5
 
 Die Prüfziffer wird mit einem Modulo-10-Verfahren ermittelt. Der Buchstabe wird dabei durch  eine zweistellige Zahl ersetzt, das A mit 01, das B mit 02, …, und das Z mit 26. Die Ziffern  werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine  Quersummenbildung der einzelnen Produkte, mit anschließender Summenbildung der  Quersummen. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 bzw. zum  nächsten Vielfachen von 10.
 
@@ -2559,7 +2843,9 @@ von, van etc. sind Vorsatzworte zum Nachnamen.
 
 Tabelle der gültigen Vorsatzworte unter:
 
-[https://www.gkv-](https://www.gkv-) datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp  Anlage 06
+[https://www.gkv-](https://www.gkv-) datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp
+
+Anlage 06
 
 Sie gehören nicht zum Familiennamen.
 
@@ -2876,7 +3162,9 @@ F002  K017  K025  K087  K090  K091
 
 F002  K087  K090  K088
 
-E008  K005   K008  K019
+E008  K005
+
+K008  K019
 
 E010
 
@@ -2894,7 +3182,9 @@ Gibt an, zu welchem Abrechnungsgebiet eine erbrachte Leistung eines Arztes gehö
 
 00= kein besonderes Abrechnungsgebiet
 
-Bei Sonstigen Kostenträgern (SKT) Patienten (z. B. Sozialämter, Zivildienst, Polizei,  Bundeswehr usw.) ist die Eingabe zusätzlicher Angaben vorgeschrieben, wenn die Patienten  keine eGK vorlegen.
+Bei Sonstigen Kostenträgern (SKT) Patienten (z. B. Sozialämter, Zivildienst, Polizei,
+
+Bundeswehr usw.) ist die Eingabe zusätzlicher Angaben vorgeschrieben, wenn die Patienten  keine eGK vorlegen.
 
 
 ---
@@ -2964,7 +3254,9 @@ Diese richten sich an einzelnen Krankheitsbildern aus.
 
 Wird beispielsweise festgestellt, dass ein Patient an Diabetes leidet, ergeben sich aus der  Diagnose vorgegebene Behandlungsschritte.
 
-Dieses Feld dient zur Kennzeichnu gemäß § 16 Absatz 3a SGB V“. Der überweisende Vertragsarzt muss dieses Feld  ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten  Leistungsanspruch zu informieren.
+Dieses Feld dient zur Kennzeichnu gemäß § 16 Absatz 3a SGB V“. Der überweisende Vertragsarzt muss dieses Feld
+
+ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten  Leistungsanspruch zu informieren.
 
 ng von Fällen mit „eingeschränktem Leistungsanspruch
 
@@ -2991,15 +3283,25 @@ ng von Fällen mit „eingeschränktem Leistungsanspruch
 
 4241
 
-(N)BSNR des  9  Erstveranlassers
+(N)BSNR des
 
-ASV-Teamnummer des  9  Erstveranlassers
+9
 
-Kontrolluntersuchung  1  einer bekannten Infektion
+Erstveranlassers
+
+ASV-Teamnummer des  9
+
+Erstveranlassers
+
+Kontrolluntersuchung 1
+
+einer bekannten Infektion
 
 Scheinuntergruppe 2
 
-Lebenslange Arztnummer  (LANR) des Erstveranlas- 9  sers
+Lebenslange Arztnummer  (LANR) des Erstveranlas- 9
+
+sers
 
 num
 
@@ -3191,7 +3493,11 @@ K075
 
 E040
 
-Der in Wirkstoff-Code hinterlegte, einen Wirkstoff bezeichnende Code, wird vollständig  qualifiziert, indem der Code dem hier angegeben Code-System zugeordnet wird. Als   mögliche Code-Systeme sind derzeit „WG14“, „atcgm2013“, „atcgm2014“, „atcgm2015“ und  „ASK“ gestattet
+Der in Wirkstoff-Code hinterlegte, einen Wirkstoff bezeichnende Code, wird vollständig  qualifiziert, indem der Code dem hier angegeben Code-System zugeordnet wird. Als
+
+mögliche Code-Systeme sind derzeit „WG14“, „atcgm2013“, „atcgm2014“, „atcgm2015“ und
+
+„ASK“ gestattet
 
 Uniform Resource Locator, z.B. WWW-Adresse, UNC-Pfad. Beispiel:  \\FS1\TEST\BILD1.PDF. Dateiname, wie er an die Datenstelle kommuniziert wurde/wird
 
@@ -3419,7 +3725,9 @@ E040
 
 F018
 
-E050  K003   K008  K011  K032  K034  K056  K057  K060  K097  K098  K102  K103  K105  K113  K114
+E050  K003
+
+K008  K011  K032  K034  K056  K057  K060  K097  K098  K102  K103  K105  K113  K114
 
 Tabellarische Auflistung:  Abh. vom Material z.B.:  Interpretation der Mengenangaben bei Sproßpilzen:  massenhaft > 100000 /g Stuhl  reichlich 1000 - 100000 /g Stuhl  mäßig 100 - 1000 /g Stuhl  spärlich < 100 /g Stuhl
 
@@ -4006,15 +4314,17 @@ Satzart
 
 Objektident
 
-Objektende 1 num
+Objektende 1
 
-8 date
+num 8
 
-4 num
+date 4
 
-8 alnum
+num 8
 
-8 alnum
+alnum 8
+
+alnum
 
 E164
 
@@ -4022,7 +4332,9 @@ F002
 
 E004  K011  K025  K027  K113
 
-E066  K008  K009  K010  K011  K020  K027  K029  K030  K031  K033  K034  K092
+E066
+
+K008  K009  K010  K011  K020  K027  K029  K030  K031  K033  K034  K092
 
 E066
 
@@ -4263,11 +4575,15 @@ E093  K069
 
 E097  K029  K101
 
-E098  K070  K083  K084
+E098  K070  K083
+
+K084
 
 E099  K030  K092  K101  K104
 
-E103  K083  K084
+E103  K083
+
+K084
 
 E104
 
@@ -4817,7 +5133,9 @@ K114
 
 E006  K005  K096
 
-K003  K010  K011  K037  K106
+K003
+
+K010  K011  K037  K106
 
 E146
 
@@ -5068,13 +5386,21 @@ num
 
 alnum
 
-1 = Ja, wenn der GOP durch den Ersteller des Befundes abgerechnet wird  E040  0 = Nein, wenn Abrechnung der GOP durch Befundempfänger erfolgt
+1 = Ja, wenn der GOP durch den Ersteller des Befundes abgerechnet wird
 
-E172  K131   K132
+E040  0 = Nein, wenn Abrechnung der GOP durch Befundempfänger erfolgt
 
-E011   K131
+E172  K131
 
-E011   K131
+K132
+
+E011
+
+K131
+
+E011
+
+K131
 
 E173
 
@@ -5196,15 +5522,11 @@ Uniform Resource Locator, z.B. WWW-Adresse, UNC-Pfad. Beispiel: \\FS1\TEST\BILD1
 
 ---
 
-## Regeltabelle
-
-**n**
+**Regeltabellen**
 
 ### Die Regeltabellen enthalten alle definierten Regelwerke für die Generierung, Prüfung und Verarbeitung des LDT.
 
-**10.1**
-
-## Formatregeln
+**10.1** **Formatregeln**
 
 Die Formatregeln definieren die zulässigen Formate der Werteinhalte der Feldkennungen.
 
@@ -5232,7 +5554,11 @@ Die Formatregeln definieren die zulässigen Formate der Werteinhalte der Feldken
 |  |  |  |  | verwendet werden. |
 | F005 | Basis | F | WWT | Format Woche/Tag |
 
-F006 Basis F hhmm
+F006 Basis
+
+F
+
+hhmm
 
 WW = Wochen, T = Tag (Wertebereich 0
 
@@ -5265,7 +5591,11 @@ mm = 00  59 6)
 |  |  |  |  | mm = [undefiniert] |
 | F011 | KBV | F | nnnnnnmff | Format LANR |
 
-F012 KBV F a/nn/JJMM/MM/aaa
+F012 KBV
+
+F
+
+a/nn/JJMM/MM/aaa
 
 m = Prüfziffer *
 
@@ -5314,7 +5644,9 @@ F014
 |  |  |  |  | zusätzlich erlaubter Wertebereich: JJJJMM00, JJJJ0000 |
 | F020 | Basis | F | nnnnnnnP | Format der Pharmazentralnummer (PZN) |
 
-KBV F 00nnnnnnP
+KBV
+
+F 00nnnnnnP
 
 a = A-Z (ohne Umlaute)
 
@@ -5370,9 +5702,13 @@ KBV
 
 KBV
 
-F n, nn, n-n, n-nn, nn-nn
+F
 
-F HPV-Typ-Nummer | ( [ Gruppenname ':' ]  HPV-Typ-Nummer ( ( '/' | '_' ) HPV -Typ- Nummer )+ )
+n, nn, n-n, n-nn, nn-nn
+
+F
+
+HPV-Typ-Nummer | ( [ Gruppenname ':' ]  HPV-Typ-Nummer ( ( '/' | '_' ) HPV -Typ- Nummer )+ )
 
 (ASV-AV Anlage 3 Fachgruppencodierungen)
 
@@ -5386,7 +5722,11 @@ Format für Angabe des Zeitraums in Monaten
 
 (Bsp.: 2 Monate, 3-6 Monate, 10-12 Monate)
 
-EBNF*-Format für entweder eine einzelne HPV-Typ-Nummer oder eine  Gruppe von mehreren HPV -Typ-Nummern mit optional vorangestelltem  gerätespezifischen Gruppennamen.  Gruppenname besitzen ein alphanumeri G1:31/33/52/58)
+EBNF*-Format für entweder eine einzelne HPV-Typ-Nummer oder eine  Gruppe von mehreren HPV -Typ-Nummern mit optional vorangestelltem  gerätespezifischen Gruppennamen.
+
+Gruppenname besitzen ein alphanumeri
+
+G1:31/33/52/58)
 
 Erweiterte Backus-Naur-Form
 
@@ -5395,9 +5735,7 @@ kk = erlaubter Inhalt gemäß Regel  E014 HPV-Typ-Nummer und  sches Format. (Bsp
 
 ---
 
-**10.2**
-
-## Erlaubte Inhalte
+**10.2** **Erlaubte Inhalte**
 
 Die Regeln „Erlaubte Inhalte“ definieren den definierten Wertevorrat für die einzelnen Feldkennungen.
 
@@ -5430,11 +5768,25 @@ N, A, AA
 
 3 = Familienversicherter  5 = Rentner
 
-„N“ = im Normalbereich  “H” oder „+“ = schwach erhöht,  “HH” oder „++“ = stark erhöht,   “L” oder „ “ = schwach erniedrigt,  “LL” oder „–“ = stark erniedrigt,   „!H“ oder „!+“ = Wert extrem erhöht,  „!L“ oder „! „ = Wert extrem erniedrigt.
+„N“ = im Normalbereich
+
+“H” oder „+“ = schwach erhöht,
+
+“HH” oder „++“ = stark erhöht,
+
+“L” oder „ “ = schwach erniedrigt,
+
+“LL” oder „–“ = stark erniedrigt,
+
+„!H“ oder „!+“ = Wert extrem erhöht,
+
+„!L“ oder „! „ = Wert extrem erniedrigt.
 
 Bei nicht numerischen Werten:
 
-“N” = normal (anzuwenden bei nicht numerischen Werten),  “A” = auffällig (anzuwenden bei nicht numerischen Werten),  “AA” = sehr auffällig (anzuwenden bei nicht numerischen Werten).
+“N” = normal (anzuwenden bei nicht numerischen Werten),  “A” = auffällig (anzuwenden bei nicht numerischen Werten),
+
+“AA” = sehr auffällig (anzuwenden bei nicht numerischen Werten).
 
 E006 1, 2 1 = Auftrag nicht abgeschlossen
 
@@ -5447,9 +5799,57 @@ E006 1, 2 1 = Auftrag nicht abgeschlossen
 | LDT 3.0 |  |  |  |
 | LDT 3 | Satzbeschreibung, | Version | 3.2.19 |
 
-*können.*    **02** = Ergebnis folgt    *Es liegt eine Untersuchungsanforderung vor, für die es aktuell noch kein Ergebnis*  *gibt.*    **03** = Ergebnis  *Ein technisch validiertes Ergebnis ist ermittelt.*   **04** = Ergebnis korrigiert  *Ein technisch validiertes Ergebnis wurde korrigiert. Die Korrektur ist zu*   *dokumentieren. Es erfolgt keine weitere Abrechnung.*    **05** = Ergebnis ermittelt   *Ein ärztlich validiertes Ergebnis liegt vor, allerdings läuft die Analytik zur*   *Absicherung noch weiter. In Einzelfällen können sich noch Veränderungen*  *ergeben. Es folgt dann ein korrigiertes Ergebnis.*    **06** = Befundergebnis    *Die Analytik dieser Untersuchungsanforderung ist abgeschlossen und ein*   *ärztlich validiertes Ergebnis liegt vor.*   **07** = Befundergebnis bereits berichtet  *Das Befundergebnis ist unverändert schon mindestens einmal übermittelt*   *worden (keine Abrechnung!).*     **08** = Befundergebnis korrigiert  *Das schon übermittelte Befundergebnis ist korrigiert worden. Damit hat nur noch*  *dieses korrigierte Befundergebnis Gültigkeit und alle bisherigen*  *Befundergebnisse zu dieser Untersuchungsanforderung verlieren Ihre Gültigkeit.*  *Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.*    **09** = Ergebnis fehlt     *Das Ergebnis ist nicht vorhanden oder kann nicht mehr ermittelt werden. Weil*  *das Ergebnis fehlt, kann auch kein Befundergebnis erstellt werden.*
+*können.*
 
-**10** = Erweiterte Analytik erforderlich     *Eine erweiterte Untersuchungsanalytik zur besseren Beurteilung und*  *Absicherung des bisher ermittelten ärztlich validierten Befundes ist erforderlich.*  *Die weiteren Ergebnisse werden in folgenden Befundberichten ergänzt.*   *Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der*  *Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status*   *„Auftrag nicht abgeschlossen“ haben. Sollte dies nicht zutreffen ist ein neuer*  *Auftrag zu erstellen“!*
+**02** = Ergebnis folgt
+
+*Es liegt eine Untersuchungsanforderung vor, für die es aktuell noch kein Ergebnis*  *gibt.*
+
+**03** = Ergebnis
+
+*Ein technisch validiertes Ergebnis ist ermittelt.*
+
+**04** = Ergebnis korrigiert  *Ein technisch validiertes Ergebnis wurde korrigiert. Die Korrektur ist zu*
+
+*dokumentieren. Es erfolgt keine weitere Abrechnung.*
+
+**05** = Ergebnis ermittelt
+
+*Ein ärztlich validiertes Ergebnis liegt vor, allerdings läuft die Analytik zur*
+
+*Absicherung noch weiter. In Einzelfällen können sich noch Veränderungen*
+
+*ergeben. Es folgt dann ein korrigiertes Ergebnis.*
+
+**06** = Befundergebnis
+
+*Die Analytik dieser Untersuchungsanforderung ist abgeschlossen und ein*
+
+*ärztlich validiertes Ergebnis liegt vor.*
+
+**07** = Befundergebnis bereits berichtet  *Das Befundergebnis ist unverändert schon mindestens einmal übermittelt*
+
+*worden (keine Abrechnung!).*
+
+**08** = Befundergebnis korrigiert
+
+*Das schon übermittelte Befundergebnis ist korrigiert worden. Damit hat nur noch*  *dieses korrigierte Befundergebnis Gültigkeit und alle bisherigen*
+
+*Befundergebnisse zu dieser Untersuchungsanforderung verlieren Ihre Gültigkeit.*  *Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.*
+
+**09** = Ergebnis fehlt
+
+*Das Ergebnis ist nicht vorhanden oder kann nicht mehr ermittelt werden. Weil*  *das Ergebnis fehlt, kann auch kein Befundergebnis erstellt werden.*
+
+**10** = Erweiterte Analytik erforderlich
+
+*Eine erweiterte Untersuchungsanalytik zur besseren Beurteilung und*
+
+*Absicherung des bisher ermittelten ärztlich validierten Befundes ist erforderlich.*  *Die weiteren Ergebnisse werden in folgenden Befundberichten ergänzt.*
+
+*Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der*  *Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status*   *„Auftrag nicht abgeschlossen“ haben. Sollte dies nicht zutreffen ist ein neuer*
+
+*Auftrag zu erstellen“!*
 
 
 ---
@@ -5473,9 +5873,13 @@ E009
 | E015 | KBV | F | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 | 00 = Primärabrechnung |
 |  |  |  |  | 01 = Sozialversicherungsabkommen (SVA) |
 
-Basis F
+Basis
 
-KBV F 0, 1, 2, 3, 4
+F
+
+KBV
+
+F 0, 1, 2, 3, 4
 
 21, 23, 24, 27, 28
 
@@ -5517,7 +5921,11 @@ E014 01-03, 06-21, 24, 25, 27, 28, 31, 37-73,  78- Zulässige UKV/OKV -Kennungen
 |  |  |  |  | X = unbestimmt |
 | E019 | Basis | F | M, W, D, X, U | M = männlich |
 
-E020 KBV F 00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10,  11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38,  39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,  50, 51, 52, 53, 54, 55, 56, 57, 58
+E020 KBV
+
+F
+
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10,  11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38,  39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,  50, 51, 52, 53, 54, 55, 56, 57, 58
 
 02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asylstellen (SHT)  07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS)  09 = Schwangerschaftsabbrüche
 
@@ -5582,7 +5990,9 @@ F 00, 04, 06, 07, 08, 09
 |  |  |  |  | 09 = Empfänger von Gesundheitsleistungen nach den §§ 4, 6 AsylbLG |
 | E022 | KBV | F | 00, 01, 02, 03, 17, 20, 38, 46, (47), (48), | (49), 00 = Dummy bei eGK |
 
-E023 Basis F
+E023 Basis
+
+F
 
 (50), 51, 52, (55), (60), (61), (62), 71, 72, 73,  78, 83, 88, 93, 98
 
@@ -5609,9 +6019,13 @@ E026
 
 E027
 
-Basis F
+Basis
 
-Basis F
+F
+
+Basis
+
+F
 
 07 = Laborarzt/Befundersteller  08 = Leistungserbringer  11 = Halter (eines Tieres)  12 = Patient
 
@@ -5619,13 +6033,19 @@ Basis F
 
 I = Sensibel bei erhöhter Exposition  R = Resistent  N = IE (keine Interpretation)
 
-siehe [http://www.eucast.org/clinical_breakpoints/](http://www.eucast.org/clinical_breakpoints/) und [http://www.nak-](http://www.nak-) deutschland.org/
+siehe [http://www.eucast.org/clinical_breakpoints/](http://www.eucast.org/clinical_breakpoints/) und [http://www.nak-](http://www.nak-)
 
-0 = nicht nachweisbar / kein Wachstum 0, 1, 2, 3, 4  1 = spärlich,  2 = mäßig/vereinzelt,  3 = reichlich,
+deutschland.org/
+
+0 = nicht nachweisbar / kein Wachstum 0, 1, 2, 3, 4
+
+1 = spärlich,  2 = mäßig/vereinzelt,  3 = reichlich,
 
 4 = massenhaft
 
-E024 SV 1 = Abrechnung Laborfacharzt 1, 2 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 01 = Erstveranlasser  14,16, 17 oder 18 02 = Einsender Arzt  03 = Einsender sonstige  04 = Versicherter  05 = Rechnungsempfänger  06 = Bevollmächtigter  07 = Laborarzt/Befundersteller  08 = Leistungserbringer  09 = Softwareverantwortlicher  10 = Zusätzlicher Befundempfänger  11 = Halter (eines Tieres)  12 = Patient  14 = Überweiser
+01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 01 = Erstveranlasser 14,16, 17 oder 18
+
+E024 SV 1 = Abrechnung Laborfacharzt 1, 2 02 = Einsender Arzt  03 = Einsender sonstige  04 = Versicherter  05 = Rechnungsempfänger  06 = Bevollmächtigter  07 = Laborarzt/Befundersteller  08 = Leistungserbringer  09 = Softwareverantwortlicher  10 = Zusätzlicher Befundempfänger  11 = Halter (eines Tieres)  12 = Patient  14 = Überweiser
 
 
 ---
@@ -5641,11 +6061,17 @@ E031
 
 E032
 
-Basis F
+Basis
 
-Basis F
+F
 
-Basis F
+Basis
+
+F
+
+Basis
+
+F
 
 16 = sonstige juristische Person  17 = Medizinisch-technische/r Assistent/in (MTA)  18 = Medizinische/r Fachangestellte/r (MFA)
 
@@ -5735,19 +6161,29 @@ E048
 
 E049
 
-SV F
+SV
 
-Basis F
+F
 
-Basis F
+Basis
 
-2 = Laborarztpraxis   3 = Laborgemeinschaft  4 = sonstige medizinische Einrichtung  5 = Hauptbetriebsstätte  6 = Nebenbetriebsstätte
+F
 
-2 = IK des Arztes 2, 3, 4, 5, 6, 7, 9  3 = Telematik-ID  4 = ID für GEVK-Verträge  5 = ID für HÄVG-Verträge  6 = ID für MEDI-Verträge  7 = Selektivvertrag  9 = Sonstige
+Basis
 
-1 1 = Zellmaterial nicht verwertbar
+F 2 = Laborarztpraxis
 
-1 = Pathologisch auffälliger Befund 1, 2, 3, 4, 5, 6, 7  2 = Lebensbedrohlicher Zustand  3 = Wiedervorstellung empfohlen  4 = Probenmaterial nicht verwendbar  5 = Probenmaterial unvollständig  6 = Meldung nach KFRG* erfolgt  7 = Meldung nach IfSG** erfolgt
+3 = Laborgemeinschaft  4 = sonstige medizinische Einrichtung  5 = Hauptbetriebsstätte  6 = Nebenbetriebsstätte 2 = IK des Arztes
+
+2, 3, 4, 5, 6, 7, 9
+
+3 = Telematik-ID  4 = ID für GEVK-Verträge  5 = ID für HÄVG-Verträge  6 = ID für MEDI-Verträge  7 = Selektivvertrag  9 = Sonstige 1
+
+1 = Zellmaterial nicht verwertbar
+
+1 = Pathologisch auffälliger Befund 1, 2, 3, 4, 5, 6, 7
+
+2 = Lebensbedrohlicher Zustand  3 = Wiedervorstellung empfohlen  4 = Probenmaterial nicht verwendbar  5 = Probenmaterial unvollständig  6 = Meldung nach KFRG* erfolgt  7 = Meldung nach IfSG** erfolgt
 
 Krebsfrüherkennungs- und -registergesetz  ** Infektionsschutzgesetz
 
@@ -5763,36 +6199,60 @@ E051
 
 E052
 
-Basis F
+Basis
 
-Basis F
+F
 
-16, 17, 99 2 = GKV LG  3 = PKV Laborfacharzt  4 = PKV LG 5 = Selektivvertrag
+Basis
+
+F 16, 17, 99
+
+2 = GKV LG  3 = PKV Laborfacharzt  4 = PKV LG 5 = Selektivvertrag
 
 6 = IgeL  7 = Sonstige Kostenübernahme  8 = ASV  9 = GKV Laborfacharzt präventiv  10 = GKV LG präventiv  11 = keine Zuordnung (nur zulässig im Obj_0027)  12 = PräOP (Präoperative Laborleistungen**)  13 = GKV Krankenhaus  14 = PKV Krankenhaus  15 = GKV Muster 6 / 39  16 = GKV Muster 10C  17 = ÖGD  99 = storniert (nur in Satzart 8215-Nachforderung zulässig)*
 
-der Workflow einer Stornierung muss zwischen Einsender und Labor definiert werden  ** Laborleistungen, die dazu dienen, den Patienten auf eine ambulante oder belegärztliche
+der Workflow einer Stornierung muss zwischen Einsender und Labor definiert werden
+
+** Laborleistungen, die dazu dienen, den Patienten auf eine ambulante oder belegärztliche
 
 Operation vorzubereiten, werden dem einsendenden Arzt in Rechnung gestellt und können  nicht über die Kassenärztliche Vereinigung abgerechnet werden (
 
-EBM)
+EBM) 1, 2, 3, 4
 
-1, 2, 3, 4 1 = Laborgemeinschaft  2 = Facharztlabor  3 = Leistungserbringergemeinschaft  4 = Eigenlabor
+1 = Laborgemeinschaft  2 = Facharztlabor  3 = Leistungserbringergemeinschaft  4 = Eigenlabor
 
 10, 11, 12, 13, 20, 21, 22, 23, 24, 25, 26, 28, 30
 
-27, 10 = Methodenspezifische Standards nach WHO  11 = Methodenspezifische Standards nach IFCC  12 = Methodenspezifische Standards nach DGKL  1)13 = Sonstige Standards
+27, 10 = Methodenspezifische Standards nach WHO  11 = Methodenspezifische Standards nach IFCC  12 = Methodenspezifische Standards nach DGKL  1) 13 = Sonstige Standards
 
-20 = Patientenspezifische Einflussgröße „Alter“ betreffend 21 = Patientenspezifische Einflussgröße „Geschlecht“ betreffend 22 = Patientenspezifische Einflussgröße „Alter + Geschlecht“ betreffend  23 = Patientenspezifische Einflussgröße „SSW“ betreffend 24 = Patientenspezifische Einflussgröße „Alter + SSW“ betreffend
+20 = Patientenspezifische Einflussgröße „Alter“ betreffend 21 = Patientenspezifische Einflussgröße „Geschlecht“ betreffend
+
+22 = Patientenspezifische Einflussgröße „Alter + Geschlecht“ betreffend  23 = Patientenspezifische Einflussgröße „SSW“ betreffend
+
+24 = Patientenspezifische Einflussgröße „Alter + SSW“ betreffend
 
 vgl. Abschnitt 31.1 des (u.a. serologische Verfahren)
 
 
 ---
 
-E053 Basis F 006, 010, 10A, 039, 090, 091, 092, 093, 094,  100, 101, 102, 103, 110, 120, 150, 160, 200,  250, 251, 252, 253, 254, 255, 256, 257, 258,  300, 301, 400, 500, 900, 999
+E053 Basis
 
-25 = weitere patientenspezifische Einflussgrößen (z.B. Medikation)  26 = Information zu Patientenspezifischer Einflussgröße „Alter“ fehlte 27 = Information zu Patientenspezifischer Einflussgröße „Geschlecht“ fehlte 28 = Information zu Patientenspezifischer Einflussgröße „Alter“ un 29 = „Geschlecht“ fehlte  1) 30 = Funktionsprofile
+F
+
+006, 010, 10A, 039, 090, 091, 092, 093, 094,
+
+100, 101, 102, 103, 110, 120, 150, 160, 200,
+
+250, 251, 252, 253, 254, 255, 256, 257, 258,  300, 301, 400, 500, 900, 999
+
+25 = weitere patientenspezifische Einflussgrößen (z.B. Medikation)  26 = Information zu Patientenspezifischer Einflussgröße „Alter“ fehlte 27 = Information zu Patientenspezifischer Einflussgröße „Geschlecht“ fehlte
+
+28 = Information zu Patientenspezifischer Einflussgröße „Alter“ un 29 = „Geschlecht“ fehlte
+
+1)
+
+30 = Funktionsprofile
 
 1) Zur weiteren Spezifikation FK 8167 verwenden.
 
@@ -5813,21 +6273,27 @@ E055
 
 E058
 
-Basis F
+Basis
 
-Basis F
+F
 
-Basis F
+Basis
+
+F
+
+Basis
+
+F
 
 500 = Rechnung  900 = LDT-Datensatz 999 = sonstige
 
-Hinweis: Werte 001 bis 089 reserviert für Muster der vertragsärztlichen  Versorgung
+Hinweis: Werte 001 bis 089 reserviert für Muster der vertragsärztlichen  Versorgung 1, 2, 3, 4 ,5
 
-1, 2, 3, 4 ,5 1 = positiv  2 = negativ
+1 = positiv  2 = negativ
 
-3 = unspezifisch  4 = in Abklärung  5 = Abklärung empfohlen
+3 = unspezifisch  4 = in Abklärung  5 = Abklärung empfohlen 0, 1, 2, 3, 4
 
-0, 1, 2, 3, 4 0 = negativ  1 = 1-fach positiv
+0 = negativ  1 = 1-fach positiv
 
 2 = 2-fach positiv  3 = 3-fach positiv 4 = 4-fach positiv
 
@@ -5837,7 +6303,9 @@ Hinweis: Werte 001 bis 089 reserviert für Muster der vertragsärztlichen  Verso
 
 4 = sonstige mit URL
 
-01, 02, 03, 04, 05, 06, 07, 08, 99 01 = numerisch (exponentielle Darstellung möglich)  02 = numerisch mit Messwertuntergrenze  03 = numerisch mit Messwertobergrenze  04 = alpha-numerisch
+01, 02, 03, 04, 05, 06, 07, 08, 99
+
+01 = numerisch (exponentielle Darstellung möglich)  02 = numerisch mit Messwertuntergrenze  03 = numerisch mit Messwertobergrenze  04 = alpha-numerisch
 
 05 = Titer  06 = Titer mit Untergrenze  07 = Titer mit Obergrenze  08 = trinäres Testergebnis: 1 | 2 | 3 **  99 = Sonstige
 
@@ -5863,9 +6331,13 @@ E059
 
 E064
 
-Basis F
+Basis
 
-Basis F 0, 1, 2, 3, 4, 5
+F
+
+Basis
+
+F 0, 1, 2, 3, 4, 5
 
 0, 1, 2
 
@@ -5888,9 +6360,17 @@ E060 1 = vorhanden
 | E065 | Basis | F | 1, 2, 3 | 1 = CLSI |
 |---|---|---|---|---|
 
-E066 Basis Obj_0001, Obj_0002, Obj_0003, Obj_0004, F  Obj_0005, Obj_0006, Obj_0007, Obj_0008,  Obj_0009, Obj_0010, Obj_0011, Obj_0013,  Obj_0014, Obj_0017, Obj_0019, Obj_0022,  Obj_0026, Obj_0027, Obj_0031, Obj_0032,  Obj_0034, Obj_0035, Obj_0036, Obj_0037,  Obj_0040, Obj_0041, Obj_0042, Obj_0043,  Obj_0045, Obj_0047, Obj_0048, Obj_0050,  Obj_0051, Obj_0053, Obj_0054, Obj_0055,  Obj_0056, Obj_0058, Obj_0059, Obj_0060,  Obj_0061, Obj_0062, Obj_0063, Obj_0068,  Obj_0069, Obj_0070, Obj_0071, Obj_0072,  Obj_0073, Obj_0100 2 = EUCAST  3 = CA-FMS
+E066 Basis
 
-Obj_0001 = Obj_Abrechnungsinformationen  Obj_0002 = Obj_Abrechnung GKV  Obj_0003 = Obj_Abrechnung PKV  Obj_0004 = Obj_Abrechnung Ige-Leistungen  Obj_0005 = Obj_Abrechnung sonstige Kostenübernahme  Obj_0006 = Obj_Abrechnung Selektivvertrag  Obj_0007 = Obj_Anschrift  Obj_0008 = Obj_Adressat  Obj_0009 = Obj_Abrechnung OEGD  Obj_0010 = Obj_Anhang  Obj_0011 = Obj_Antibiogramm  Obj_0013 = Obj_Auftragsinformation  Obj_0014 = Obj_Arztidentifikation  Obj_0017 = Obj_Befundinformationen  Obj_0019 = Obj_Betriebsstaette  Obj_0022 = Obj_Einsenderidentifikation  Obj_0026 = Obj_Fehlermeldung/Aufmerksamkeit  Obj_0027 = Obj_Veranlassungsgrund  Obj_0031 = Obj_Kommunikationsdaten  Obj_0032 = Obj_Kopfdaten  Obj_0034 = Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)  Obj_0035 = Obj_Laborergebnisbericht  Obj_0036 = Obj_Laborkennung  Obj_0037 = Obj_Material  Obj_0040 = Obj_Mutterschaft  Obj_0041 = Obj_Namenskennung  Obj_0042 = Obj_Normalwert  Obj_0043 = Obj_Organisation  Obj_0045 = Obj_Patient  Obj_0047 = Obj_Person  Obj_0048 = Obj_RgEmpfaenger  Obj_0050 = Obj_Schwangerschaft  Obj_0051 = Obj_Sendendes System  Obj_0053 = Obj_Tier/Sonstiges  Obj_0054 = Obj_Timestamp  Obj_0055 = Obj_Blutgruppenzugehoerigkeit  Obj_0056 = Obj_Tumor  Obj_0058 = Obj_Untersuchungsabrechnung
+Obj_0001, Obj_0002, Obj_0003, Obj_0004,
+
+F
+
+Obj_0005, Obj_0006, Obj_0007, Obj_0008,  Obj_0009, Obj_0010, Obj_0011, Obj_0013,  Obj_0014, Obj_0017, Obj_0019, Obj_0022,  Obj_0026, Obj_0027, Obj_0031, Obj_0032,  Obj_0034, Obj_0035, Obj_0036, Obj_0037,  Obj_0040, Obj_0041, Obj_0042, Obj_0043,  Obj_0045, Obj_0047, Obj_0048, Obj_0050,  Obj_0051, Obj_0053, Obj_0054, Obj_0055,  Obj_0056, Obj_0058, Obj_0059, Obj_0060,  Obj_0061, Obj_0062, Obj_0063, Obj_0068,  Obj_0069, Obj_0070, Obj_0071, Obj_0072,  Obj_0073, Obj_0100 2 = EUCAST  3 = CA-FMS
+
+Obj_0001 = Obj_Abrechnungsinformationen  Obj_0002 = Obj_Abrechnung GKV  Obj_0003 = Obj_Abrechnung PKV  Obj_0004 = Obj_Abrechnung Ige-Leistungen  Obj_0005 = Obj_Abrechnung sonstige Kostenübernahme  Obj_0006 = Obj_Abrechnung Selektivvertrag  Obj_0007 = Obj_Anschrift  Obj_0008 = Obj_Adressat  Obj_0009 = Obj_Abrechnung OEGD  Obj_0010 = Obj_Anhang  Obj_0011 = Obj_Antibiogramm  Obj_0013 = Obj_Auftragsinformation  Obj_0014 = Obj_Arztidentifikation  Obj_0017 = Obj_Befundinformationen  Obj_0019 = Obj_Betriebsstaette  Obj_0022 = Obj_Einsenderidentifikation  Obj_0026 = Obj_Fehlermeldung/Aufmerksamkeit  Obj_0027 = Obj_Veranlassungsgrund  Obj_0031 = Obj_Kommunikationsdaten  Obj_0032 = Obj_Kopfdaten  Obj_0034 = Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39)
+
+Obj_0035 = Obj_Laborergebnisbericht  Obj_0036 = Obj_Laborkennung  Obj_0037 = Obj_Material  Obj_0040 = Obj_Mutterschaft  Obj_0041 = Obj_Namenskennung  Obj_0042 = Obj_Normalwert  Obj_0043 = Obj_Organisation  Obj_0045 = Obj_Patient  Obj_0047 = Obj_Person  Obj_0048 = Obj_RgEmpfaenger  Obj_0050 = Obj_Schwangerschaft  Obj_0051 = Obj_Sendendes System  Obj_0053 = Obj_Tier/Sonstiges  Obj_0054 = Obj_Timestamp  Obj_0055 = Obj_Blutgruppenzugehoerigkeit  Obj_0056 = Obj_Tumor  Obj_0058 = Obj_Untersuchungsabrechnung
 
 
 ---
@@ -5912,7 +6392,9 @@ E070
 |---|---|---|---|---|
 | E072 | Basis | F | Abrechnung_GKV | Inhalt des Objektattributes |
 
-Basis F
+Basis
+
+F
 
 Obj_0059 = Obj_Untersuchungsanforderung  Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie  Obj_0061 = Obj_Untersuchungsergebnis Mikrobiologie  Obj_0062 = Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom  Obj_0063 = Obj_Untersuchungsergebnis Zytologie  Obj_0068 = Obj_Fließtext  Obj_0069 = Obj_Koerperkenngroessen  Obj_0070 = Obj_Medikament  Obj_0071 = Obj_Wirkstoff  Obj_0072 = Obj_BAK  Obj_0073 = Obj_Sonstige_Untersuchungsergebnisse  Obj_0100 = Obj_Diagnose
 
@@ -6166,7 +6648,11 @@ E147
 | E154 | Basis | F | Timestamp_Zeitpunkt | Inhalt des Objektattributes |
 |  |  |  | _Medikamenteneinnahme |  |
 
-Basis F 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
+Basis
+
+F
+
+01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
 
 02 = Verlaufskontrolle  03 = Zustand vor  04 = Zustand nach  05 = Ausschluss  06 = Bestätigung  07 = gezielte Suche  08 = ungezielte Suche  09 = Erfolgskontrolle  10 = Abschlusskontrolle  11 = Immunität/Impferfolg
 
@@ -6201,13 +6687,19 @@ Basis F 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12
 |---|---|---|---|---|
 | E163 | Basis | F | UTC−12, UTC−11, UTC−10, UTC−9:30, | Die koordinierte Weltzeit, kurz UTC, ist die heute gültige Weltzeit. |
 
-E164 Basis F
+E164 Basis
+
+F
 
 1 berechnet. Der SHA-1 Wert wird aus allen  Zeichen vor der Zeile der Feldkennung 9300  generiert.
 
-UTC−9, UTC−8, UTC−7, UTC−6, UTC−5,  UTC−4, UTC−3:30, UTC−3, UTC−2,  UTC−1, UTC, UTC+1, UTC+2, UTC+3,  UTC+3:30, UTC+4, UTC+4:30, UTC+5,  UTC+5:30, UTC+5:45, UTC+6, UTC+6:30,  UTC+7, UTC+8, UTC+8:30, UTC+9,  UTC+9:30, UTC+10, UTC+10:30, UTC+11,  UTC+12, UTC+12:45, UTC+13,  UTC+13:45, UTC+14 0, 1, 2, 3
+UTC−9, UTC−8, UTC−7, UTC−6, UTC−5,  UTC−4, UTC−3:30, UTC−3, UTC−2,  UTC−1, UTC, UTC+1, UTC+2, UTC+3,
 
-Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die  entsprechende, in Deutschland,  mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (MEZ), indem  man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische  Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.
+UTC+3:30, UTC+4, UTC+4:30, UTC+5,  UTC+5:30, UTC+5:45, UTC+6, UTC+6:30,  UTC+7, UTC+8, UTC+8:30, UTC+9,  UTC+9:30, UTC+10, UTC+10:30, UTC+11,  UTC+12, UTC+12:45, UTC+13,  UTC+13:45, UTC+14 0, 1, 2, 3
+
+Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die  entsprechende, in Deutschland,
+
+mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (MEZ), indem  man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische  Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.
 
 UTC+1 entspricht MEZ
 
@@ -6253,7 +6745,9 @@ UTC+2 entspricht MESZ
 |---|---|---|---|---|
 | E172 | Basis | F | 1, 3, 4 | 1 = Test nach § 2 TestV Kontaktpersonen, nachweislich Infizierte, |
 
-E173 Basis F 1, 2, 3, 4
+E173 Basis
+
+F 1, 2, 3, 4
 
 2 = negativ  3 = nicht verwertbar
 
@@ -6317,7 +6811,7 @@ II  II
 
 1 = ja  9 = nicht differenzierbar
 
-### der Spalte „Gruppe“ den Wert, der im LDT mit der F 0,0 1,0 K7414
+0,0 1,0 ### der Spalte „Gruppe“ den Wert, der im LDT mit der FK7414
 
 
 ---
@@ -6395,9 +6889,7 @@ II-a
 
 ### Alle PAP-Gruppen die in der Spalte
 
-**10.3**
-
-## Kontextregeln
+**10.3** **Kontextregeln**
 
 ### Die Kontextregeln legen die Abhängigkeiten des Vorkommens bestimmter Feldkennungen im Kontext mit dem Vorhandensein anderer
 
@@ -6407,7 +6899,9 @@ Feldkennungen bzw. deren Inhalten fest.
 |---|---|---|---|---|
 | **mmer** |  |  |  |  |
 
-II = 2 2 2,2
+II = 2 2
+
+2,2
 
 ### „Nomenklatur“ den Wert „II“ haben dürfen nur bei Befunden
 
@@ -6446,11 +6940,15 @@ K009 Basis
 
 der Inhalt FK 8401 = 1, darf FK 4121 nicht  vorhanden sein.
 
-Wenn Feldinhalt von FK 8000 = 8205 und  der Inhalt FK 8401 = 2, kann  vorhanden sein
+Wenn Feldinhalt von FK 8000 = 8205 und  der Inhalt FK 8401 = 2, kann
+
+vorhanden sein
 
 (Obj_Untersuchungsabrechnung) und  Inhalt FK 7303 = 1, 2, 8, 9 oder 10 dann sind  als Inhalte FK 4121 nur 0, 1, 2
 
-F Wenn der Inhalt von FK 8002 = Obj_0035  (Obj_Laborergebnisbericht), dann muss  mindestens eine FK 8002 mit den Werten  Obj_0060 (Obj_Untersuchungsergebnis  Klinische Chemie),  Obj_0061(Obj_Untersuchungsergebnis  Mikrobiologie),
+F
+
+Wenn der Inhalt von FK 8002 = Obj_0035  (Obj_Laborergebnisbericht), dann muss  mindestens eine FK 8002 mit den Werten  Obj_0060 (Obj_Untersuchungsergebnis  Klinische Chemie),  Obj_0061(Obj_Untersuchungsergebnis  Mikrobiologie),
 
 FK 4121
 
@@ -6460,11 +6958,19 @@ oder 3 erlaubt.
 
 Abrechnungsinformationen übertragen werden.
 
-Nur in Befunden mit dem Status “Auftrag abgeschlossen” können  Abrechnungsinformationen übertragen werden.
+Nur in Befunden mit dem Status “Auftrag abgeschlossen” können
 
-Versorgung (Laborfacharzt, Laborgemeinschaft  wurden, können nur der EBM, BMÄ, EGO  Gebührenordnung angegeben werden.
+Abrechnungsinformationen übertragen werden.
 
-Wenn der Inhalt von  FK 8002 = Obj_0058 und ASV) erbracht  oder GOÄ als
+Versorgung (Laborfacharzt, Laborgemeinschaft
+
+wurden, können nur der EBM, BMÄ, EGO
+
+Gebührenordnung angegeben werden.
+
+und ASV) erbracht
+
+Wenn der Inhalt von  FK 8002 = Obj_0058 oder GOÄ als
 
 
 ---
@@ -6484,7 +6990,9 @@ Wenn FK 8002 = Obj_0059  (Obj_Untersuchungsanforderung) oder  FK 8002 = Obj_0061
 
 Wenn Inhalt von FK 8000 = 8215 und  FK 8002 = Obj_0059  (Obj_Untersuchungsanforderung) und  FK 7303 = 2 oder 10 dann muss FK 8410  vorhanden sein und FK 7260 darf nicht  vorhanden sein.
 
-Wenn Inhalt von FK 4239  muss das FK 4221 vorhanden sein.
+Wenn Inhalt von FK 4239
+
+muss das FK 4221 vorhanden sein.
 
 FK 4221 darf nicht vorhanden sein, wenn  Inhalt von FK 4239
 
@@ -6533,9 +7041,19 @@ Weiterüberweisungen dürfen nur durch Laborfachärzte durchgeführt  werden.
 
 sein.
 
-Ausnahmen:  Nur wenn FK 3114 vorhanden und der  Feldinhalt ungleich „D“  Ist die FK 4109 vorhanden, dann muss die  FK 3112 nicht vorhanden sein.
+Ausnahmen:  Nur wenn FK 3114 vorhanden und der
 
-Nur wenn FK 3124 vorhanden und der  Feldinhalt ungleich „D“  Ist die FK 4109 vorhanden, dann muss die  FK 3121 nicht vorhanden sein.
+Feldinhalt ungleich „D“
+
+Ist die FK 4109 vorhanden, dann muss die  FK 3112 nicht vorhanden sein.
+
+Nur wenn FK 3124 vorhanden und der
+
+Feldinhalt ungleich „D“
+
+Ist die FK 4109 vorhanden, dann muss die
+
+FK 3121 nicht vorhanden sein.
 
 (Obj_Abrechnung GKV) und FK 0201 in  Satzart 8230 oder 8215 vorhanden, dann  muss auch FK 0212 oder Satzart 8230 oder 8215 vorhanden sein.
 
@@ -6578,19 +7096,29 @@ Basis
 
 KBV
 
-F Wenn Inhalt von FK 8000 = 8215, dann gilt:
+F
+
+Wenn Inhalt von FK 8000 = 8215, dann gilt:
 
 Falls FK 4109 vorhanden ist, muss  mindestens FK 3105 oder FK 3119  vorhanden sein.
 
-F Wenn Inhalt von FK 8000 = 8215, dann  muss im  Obj_0001 (Obj_Abrechnungsinformationen)  mindestens einmal eine Feldkennung aus  nachfolgender Liste vorhanden sein: 8102, 8103, 8104, 8105, 8106,
+F
+
+Wenn Inhalt von FK 8000 = 8215, dann  muss im  Obj_0001 (Obj_Abrechnungsinformationen)  mindestens einmal eine Feldkennung aus  nachfolgender Liste vorhanden sein: 8102, 8103, 8104, 8105, 8106,
 
 mit FK 8002 = Obj_0002 (Obj_Abrechnung  GKV) vorhanden sind, dann müssen sich  diese in der Kombination der Inhalte der FK  4239/FK 4221 unterscheiden.
 
-F Für Satzart 8215 gilt:
+F
 
-Wenn Inhalt von FK 7303 = 1 muss FK 4239  = 27 vorhanden sein.
+Für Satzart 8215 gilt:
 
-Wenn Inhalt von FK 7303 = 2 muss FK 4239  = 28 vorhanden sein.
+Wenn Inhalt von FK 7303 = 1 muss FK 4239
+
+= 27 vorhanden sein.
+
+Wenn Inhalt von FK 7303 = 2 muss FK 4239
+
+= 28 vorhanden sein.
 
 8109
 
@@ -6601,21 +7129,57 @@ Abhängigkeit der Abrechnungsinformation von den Abrechnungsobjekten  und deren 
 
 ---
 
-Wenn Inhalt von FK 7303 = 9 muss FK 4239  = 27 in Kombination mit FK 4221 = 2  vorhanden sein.
+Wenn Inhalt von FK 7303 = 9 muss FK 4239
+
+= 27 in Kombination mit FK 4221 = 2
+
+vorhanden sein.
 
 Wenn Inhalt von FK 7303 = 10 muss FK  4239 = 28 in Kombination mit FK 4221 = 2  vorhanden sein.
 
-K033 SV F Wenn in der Satzart 8215 mehrere Objekte   mit FK 8002 = Obj_0003 (Obj_Abrechnung  PKV) vorhanden sind, muss Inhalt von FK  7362 jeweils einen anderen Wert aufweisen.
+K033 SV
 
-K034 SV F Wenn Inhalt von FK 7303 = 3 muss FK 7362   = 1 vorhanden sein.
+F
 
-Wenn Inhalt von FK 7303 = 4 muss FK 7362  = 2 vorhanden sein.
+Wenn in der Satzart 8215 mehrere Objekte
 
-K037 Basis F FK 8434 in Obj_0059   (Obj_Untersuchungsanforderung) kann nur  vorkommen, wenn FK 8410 und FK 7260  nicht vorhanden sind.
+mit FK 8002 = Obj_0003 (Obj_Abrechnung  PKV) vorhanden sind, muss Inhalt von FK  7362 jeweils einen anderen Wert aufweisen.
 
-K038 SV F Wenn Inhalt von FK 7310 = 1, dann kann FK   7311 vorhanden sein und FK 7312 darf nicht  vorhanden sein.
+K034 SV
 
-Wenn Inhalt von FK 7310 = 2, dann kann FK  7312 vorhanden sein und FK 7311 darf nicht  vorhanden sein.
+F
+
+Wenn Inhalt von FK 7303 = 3 muss FK 7362
+
+= 1 vorhanden sein.
+
+Wenn Inhalt von FK 7303 = 4 muss FK 7362
+
+= 2 vorhanden sein.
+
+K037 Basis
+
+F
+
+FK 8434 in Obj_0059
+
+(Obj_Untersuchungsanforderung) kann nur  vorkommen, wenn FK 8410 und FK 7260  nicht vorhanden sind.
+
+K038 SV
+
+F
+
+Wenn Inhalt von FK 7310 = 1, dann kann FK
+
+7311 vorhanden sein und FK 7312 darf nicht
+
+vorhanden sein.
+
+Wenn Inhalt von FK 7310 = 2, dann kann FK
+
+7312 vorhanden sein und FK 7311 darf nicht
+
+vorhanden sein.
 
 | K039 | SV | F | FK 7310 kann nur vorhanden sein, wenn |  |
 |---|---|---|---|---|
@@ -6705,7 +7269,11 @@ fach im Obj_0060  (Obj_Untersuchungsergebnis Klinische  Chemie) bzw. Obj_0061  (
 
 mindestens einem Obj_0059  (Obj_Untersuchungsanforderung) die FK  7303 mit dem Inhalt 8 vorhanden ist.
 
-angegeben werden, müssen sich die Normalwerte innerhalb eines  Untersuchungsergebnisses hinsichtlich  unterscheiden. Ausgenommen davon sind die Normalwertspezifikationen,  die auf „Sonstige Standards“ referenzieren.
+angegeben werden, müssen sich die Normalwerte innerhalb eines
+
+Untersuchungsergebnisses hinsichtlich  unterscheiden. Ausgenommen davon sind die Normalwertspezifikationen,
+
+die auf „Sonstige Standards“ referenzieren.
 
 ASV (Ambulante Spezialfachärztliche Versorgung) entsprechend § 116b  des SGB V beauftragt werden.
 
@@ -6791,21 +7359,35 @@ K084
 | K089 | SV | F | Eine der FK 7319 oder FK 7313 oder FK |  |
 |  |  |  | 7314 muss vorhanden sein. |  |
 
-KBV F
+KBV
 
-SV F
+F
+
+SV
+
+F
 
 |  |  |  | vorhanden ist, muss FK 8126 im Obj_0037 | Analytik nicht durchgeführt werden konnte, muss der Einsender im Befund |
 |---|---|---|---|---|
 |  |  |  | vorhanden sein. | darauf aufmerksam gemacht werden. |
 
-Wenn in Satzart 8220 oder 8205 die FK  7266 mit den Inhalten 1 oder 2 vorkommt,  muss in Satzart 8205 vorkommen, die  vorkommen.
+Wenn in Satzart 8220 oder 8205 die FK
+
+7266 mit den Inhalten 1 oder 2 vorkommt,  muss in Satzart 8205
+
+vorkommen, die
+
+vorkommen.
 
 Wenn in Satzart 8220 oder 8205 die FK  7266 mit den Inhalten 1 oder 2 vorkommt,  muss in Satzart 8205 die FK 8145 oder FK  8153 vorkommen.
 
-die  FK 8153
+die
 
-FK 8145  darf nicht
+FK 8153
+
+FK 8145
+
+darf nicht
 
 
 ---
@@ -6836,7 +7418,9 @@ FK 8145  darf nicht
 |  |  |  | Inhalt von FK 8418 nicht 02, 05 oder 10 | fehlenden oder vorläufigen Werte übertragen. |
 |  |  |  | sein. |  |
 
-Feldinhalt >= „01.01.2015“ sowie der Inhalt  der Stellen 3  5 der FK 4104 >= 800, dann  muss entweder die FK 3105 und sowie die FK 4110 vorhanden sein.
+Feldinhalt >= „01.01.2015“ sowie der Inhalt  der Stellen 3  5 der FK 4104 >= 800, dann
+
+muss entweder die FK 3105 und sowie die FK 4110 vorhanden sein.
 
 7303 mit den Werten 1, 2, 3, 8, 9 oder 10 in  jeweiliger Satzart 8205 oder 8215  vorkommen, dann müssen die FK 3103, FK  3110 und FK 8228 vorhanden sein.
 
@@ -6886,7 +7470,9 @@ Basis
 
 oder !H oder !+ ist, muss FK 8126 der FK  8422 folgen.
 
-F Wenn FK 8002 = Obj_0068 der FK 8242  folgt, muss FK 6329 in diesem Objekt  vorkommen und FK 3564 darf nicht  vorkommen.
+F
+
+Wenn FK 8002 = Obj_0068 der FK 8242  folgt, muss FK 6329 in diesem Objekt  vorkommen und FK 3564 darf nicht  vorkommen.
 
 Wenn FK 8002 = Obj_0068 den FK 8167,  FK 8217, FK 8236, FK 8237 oder FK 8238  folgt, muss FK 3564 in diesem Objekt  vorkommen und FK 6329 darf nicht  vorkommen.
 
@@ -6938,7 +7524,9 @@ K101 Basis In Obj_0008 (Obj_Adressat) muss Der Adressat kann nur eine Person ode
 |  |  |  | Wenn Feldinhalt von FK 4239 = 28 und |  |
 |  |  |  | wenn FK 0222 vorhanden ist, dann muss ein |  |
 
-Inhalt von FK 7303 in mindestens einem  Obj_0059 mit dem Wert 99 vorkommt, muss  im Obj_0013 die FK 8313 vorkommen.
+Inhalt von FK 7303 in mindestens einem
+
+Obj_0059 mit dem Wert 99 vorkommt, muss  im Obj_0013 die FK 8313 vorkommen.
 
 
 ---
@@ -6983,7 +7571,9 @@ K123
 | K125 | Basis | F | FK 8158 kann im Obj_0062 nur vorhanden | Use Case: Analytik konnte nicht durchgeführt werden. |
 |  |  |  | sein, wenn die FK 7414 vorkommt und der |  |
 
-Basis F
+Basis
+
+F
 
 Inhalt FK 3316 im Obj_0062 = 1 ist.
 
@@ -6994,7 +7584,9 @@ Ergebnis des HPV-HR-Tests positiv ist.
 
 ---
 
-Inhalt von FK 7414 ≠ 0 ist oder die FK 3316  vorkommt und der Inhalt von FK 3316 ≠ 3 ist
+Inhalt von FK 7414 ≠ 0 ist oder die FK 3316
+
+vorkommt und der Inhalt von FK 3316 ≠ 3 ist
 
 | K126 | Basis | F | FK 8225 muss im Obj_0062 mindestens |  |
 |---|---|---|---|---|
@@ -7002,19 +7594,47 @@ Inhalt von FK 7414 ≠ 0 ist oder die FK 3316  vorkommt und der Inhalt von FK 33
 |  |  |  | 7414 ≠ 0. |  |
 | K128 | Basis | F | FK 3316 darf nur vorhanden sein, wenn | Das Feld “HPV-HR-Testergebnis” darf nur gesetzt werden, wenn ein |
 
-Inhalt von FK 3314 = 1 im Obj_0034 “HPV-HR-Test” vorliegt.  vorhanden ist.
+Inhalt von FK 3314 = 1 im Obj_0034
 
-K130 Basis W Es kann entweder die FK 8618 oder FK   8619 vorhanden sein.
+“HPV-HR-Test” vorliegt.
+
+vorhanden ist.
+
+K130 Basis
+
+W
+
+Es kann entweder die FK 8618 oder FK 8619 vorhanden sein.
 
 Beide Feldkennungen dürfen nicht  gleichzeitig vorhanden sein.
 
-K131 Basis W Wenn Inhalt von FK 8626 = 2, muss   entweder FK 8627 oder FK 4111  vorhanden sein. Beide Feldkennungen  dürfen gleichzeitig vorhanden sein.
+K131 Basis
 
-Wenn Inhalt von FK 8626 = 1 oder 3, darf  FK 8627 und FK 4111 nicht vorhanden  sein.
+W
 
-Wenn Inhalt von FK 8626 = 3, darf FK  8617, 8618, 8619 und 8620 nicht  vorhanden sein.
+Wenn Inhalt von FK 8626 = 2, muss
 
-K132 Basis W Wenn Inhalt von FK 8626 = 1, muss   innerhalb des entsprechenden Objektes  min. die FK 8617 oder die FK 8631  vorhanden sein. Es kann eine beliebige  Kombination der zwei Feldkennungen  vorhanden sein.
+entweder FK 8627 oder FK 4111
+
+vorhanden sein. Beide Feldkennungen  dürfen gleichzeitig vorhanden sein.
+
+Wenn Inhalt von FK 8626 = 1 oder 3, darf  FK 8627 und FK 4111 nicht vorhanden
+
+sein.
+
+Wenn Inhalt von FK 8626 = 3, darf FK
+
+8617, 8618, 8619 und 8620 nicht
+
+vorhanden sein.
+
+K132 Basis
+
+W
+
+Wenn Inhalt von FK 8626 = 1, muss
+
+innerhalb des entsprechenden Objektes  min. die FK 8617 oder die FK 8631  vorhanden sein. Es kann eine beliebige  Kombination der zwei Feldkennungen  vorhanden sein.
 
 
 ---
@@ -7032,11 +7652,17 @@ Basis
 
 Basis
 
-Wenn im Obj_0062 die FK 7414 vorkommt F  und der Inhalt von FK 7414 ungleich 0 ist,  dann müssen die FK 7405, FK 7406, FK  7407, FK 7408, FK 7409, FK 7410, FK  7411 und FK 7412 vorkommen.
+Wenn im Obj_0062 die FK 7414 vorkommt
+
+F
+
+und der Inhalt von FK 7414 ungleich 0 ist,  dann müssen die FK 7405, FK 7406, FK  7407, FK 7408, FK 7409, FK 7410, FK  7411 und FK 7412 vorkommen.
 
 Wenn im Obj_0062 die FK 7414 nicht  vorkommt, dann dürfen die FK 7405, FK  7406, FK 7407, FK 7408, FK 7409, FK  7410, FK 7411 und FK 7412 nicht  vorkommen.
 
-W Die FK 8632 darf im Obj_0009 und  Obj_0017 nicht vorhanden sein.
+W
+
+Die FK 8632 darf im Obj_0009 und  Obj_0017 nicht vorhanden sein.
 
 Um Fehler  Spezifikation ohne Stichtagsregelung zu verhindern, wird in einem ersten  Schritt die FK 8632 noch nicht entfernt und soll mit dieser Regel bewarnt  werden, falls sie noch in den Datensätzen vorhanden ist.
 
@@ -7045,7 +7671,7 @@ aufgrund einer inkompatiblen Änderung der LDT 3
 
 ---
 
-## LDT
+**LDT**
 
 **11.1**
 
@@ -7081,15 +7707,15 @@ Vorkommen Angaben kann bei der Implementierung
 
 ---
 
-**11.2**
-
-##  Obj_Abrechnung GKV „Obj_0002“
+**11.2** ** Obj_Abrechnung GKV „Obj_0002“**
 
 Hier werden alle Angaben für die Abrechnung von Untersuchungsanforderungen in der GKV gegenüber der KV hinterlegt. Der Patient ist in  Krankenversicherung pflichtversichert oder freiwillig versichert. Der Auftrag für die geplanten Untersuchungen erfolgt über M uster 10/Muster 10A/Muster 39.
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst, die im Regelleistungskatalog der Krankenkassen  vorhanden sind oder anderweitig z.B. über eDMP dem Patienten zugeordnet werden können.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3**
 
@@ -7234,38 +7860,72 @@ VersicherungsschutzEnde
 
 Besondere Personengruppe
 
-eingeschränkter Leistungsanspruch gemäß §16 Abs. 3a SGB   V
+eingeschränkter Leistungsanspruch gemäß §16 Abs. 3a SGB
+
+V
 
 Kurativ / Präventiv / ESS / bei belegärztl. Behandlung
 
 Lebenslange Arztnummer des Erstveranlassers (LANR)
 
-Pseudo-LANR für Krankenhausärzte im Rahmen der ASV-  Abrechnung des Erstveranlassers   (N)BSNR des Erstveranlassers
+Pseudo-LANR für Krankenhausärzte im Rahmen der ASV-
+
+Abrechnung des Erstveranlassers (N)BSNR des Erstveranlassers
 
 ASV-Teamnummer des Erstveranlassers
 
-K088  m  K090
+K088
 
-K022  K  K023   K024
+m
+
+K090
+
+K022
 
 K
 
-K012  K021  m  K031  K032
+K023
 
-K014  m  K041  K014  m  K041  K014  m  K041  K014  m  K041
+K024
+
+K
+
+K012  K021
+
+m
+
+K031  K032
+
+K014
+
+m
+
+K041  K014
+
+m
+
+K041  K014
+
+m
+
+K041  K014
+
+m
+
+K041
 
 
 ---
 
 8003 1
 
-**11.3**
-
-##  Obj_Abrechnung PKV „Obj_0003“
+**11.3** ** Obj_Abrechnung PKV „Obj_0003“**
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst,  bezieht sich auf Patienten, welche bei privaten Krankenkassen versichert sind. Dabei kann der Rechnungsempfänger aber auch ein anderer sein, als der Versicherte.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3**
 
@@ -7295,9 +7955,17 @@ ObjektIdent
 
 Abrechnungsart PKV
 
-Kostentraegername   Gebührenordnung   Unfall, Unfallfolgen   RgEmpfaenger
+Kostentraegername
 
-1  Obj_0048 (Obj_Rechnungsempfaenger)   Objektende
+Gebührenordnung
+
+Unfall, Unfallfolgen
+
+RgEmpfaenger
+
+1  Obj_0048 (Obj_Rechnungsempfaenger)
+
+Objektende
 
 M
 
@@ -7338,9 +8006,7 @@ die GOÄ abgerechnet werden. Das Objekt
 
 ---
 
-**11.4**
-
-##  Obj_Abrechnung Ige-Leistungen „Obj_0004“
+**11.4** ** Obj_Abrechnung Ige-Leistungen „Obj_0004“**
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen  versicherten Patienten erbracht werden können.
 
@@ -7360,13 +8026,13 @@ Vorkommen zusammengefasst, welche als Ige-Leistungen gegenüber gesetzlich
 
 ---
 
-**11.5**
-
-##  Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“
+**11.5** ** Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“**
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst, welche ein Labo r außerhalb der Regelleistungen  EBM und GOÄ erbringen kann. Es werden hierüber auch Leistungen abgerechnet, welche nicht durch medizinische Einsender abgefor betreffen, die nicht humanen Ursprungs sind. Der Rechnungsempfänger ist frei wählbar.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3 4**
 
@@ -7381,7 +8047,9 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 
 8148   1
 
-1   8003 1
+1
+
+8003 1
 
 **Obj_Abrechnung sonstige Kostenuebernahme**
 
@@ -7401,16 +8069,18 @@ dert werden oder die Materialien
 
 **Feldart Regel Erläuterung**
 
-Verweis auf **Obj_0048**  m   (Obj_Rechnungsempfaenger)  m
+Verweis auf **Obj_0048**
+
+m (Obj_Rechnungsempfaenger)
+
+m
 
 M
 
 
 ---
 
-**11.6**
-
-##  Obj_Abrechnung Selektivvertrag „Obj_0006“
+**11.6** ** Obj_Abrechnung Selektivvertrag „Obj_0006“**
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst,  damit außerhalb der budgetären Leistungen erbracht werden. Die Möglichkeit zum Abschluss von Selektivve rträgen besteht im Wesentlichen in der hausarztzentrierten  Versorgung (§ 73 b SGB V), bei strukturierten Behandlungsprogrammen für chronische Erkrankungen (Disease Integrierten Versorgung (§§ 140ff SGB V).
 
@@ -7438,13 +8108,13 @@ Vorkommen -Management-Programme) (§ 137 f SGB V) und in der
 
 ---
 
-**11.7**
-
-##  Obj_Anschrift „Obj_0007
+**11.7** ** Obj_Anschrift „Obj_0007**
 
 Das Objekt Anschrift definiert die Adresse. Dabei kann es sich entweder um ein Postfach oder um eine physische Adresse handel
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2**
 
@@ -7504,9 +8174,7 @@ n.
 
 ---
 
-**11.8**
-
-##  Obj_Adressat „Obj_0008“
+**11.8** ** Obj_Adressat „Obj_0008“**
 
 **FK**
 
@@ -7525,9 +8193,13 @@ n.
 
 1
 
-1   1
+1
 
-1  1
+1
+
+1
+
+1
 
 **Obj_Adressat**
 
@@ -7570,13 +8242,13 @@ K029  K101
 
 ---
 
-**11.9**
-
-## Obj_Abrechnung OEGD „Obj_0009“
+**11.9** **Obj_Abrechnung OEGD „Obj_0009“**
 
 In diesem Objekt werden die Informationen des Musters OEGD abgebildet.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3**
 
@@ -7591,7 +8263,9 @@ In diesem Objekt werden die Informationen des Musters OEGD abgebildet.
 | 8627 |  |  | 1 |  |  | KV-Sonderziffer | m | K131 |  |
 |---|---|---|---|---|---|---|---|---|---|
 
-8617   1
+8617
+
+1
 
 | 4111 |  |  | 1 |  |  | Kostenträgerkennung | m | K131 |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -7661,13 +8335,13 @@ K130  K131  K130  K131
 
 ---
 
-**11.10**
-
-## Obj_Anhang „Obj_0010“
+**11.10** **Obj_Anhang „Obj_0010“**
 
 Im Objekt Anhang können Informationen wie B
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3**
 
@@ -7738,9 +8412,7 @@ K001  K100
 
 ---
 
-**11.11**
-
-## Obj_Antibiogramm „Obj_00
+**11.11** **Obj_Antibiogramm „Obj_00**
 
 In diesem Objekt wird ein Antibiogramm (Matrix) aus dem Bereich Mikrobiologie transportiert.
 
@@ -7812,9 +8484,7 @@ Vorkommen
 
 ---
 
-**11.12**
-
-## Obj_Auftragsinformation „Obj_
+**11.12** **Obj_Auftragsinformation „Obj_**
 
 In diesem Objekt werden übergeordnete Informationen
 
@@ -7849,9 +8519,7 @@ Vorkommen zum Auftrag zusammengefasst sowie zusätzliche Befundwege definiert.
 
 ---
 
-**11.13**
-
-## Obj_Arztidentifikation „Obj_0014“
+**11.13** **Obj_Arztidentifikation „Obj_0014“**
 
 Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 
@@ -7874,9 +8542,7 @@ Vorkommen
 
 ---
 
-**11.14**
-
-## Obj_Befundinformationen „Obj_
+**11.14** **Obj_Befundinformationen „Obj_**
 
 Dieses Objekt bündelt alle Daten zum Befund inklusive aller Kennungen, welche eine eineindeutige Zuordnung von Auftrag und Be
 
@@ -7981,17 +8647,37 @@ Vorkommen fund sicherstellen.
 | Obj_0041 |  | (Obj_Namenskennung) | |
 |  | Objektende |  |  |
 
-n      1         1 1
+n 1
 
 1
 
 1
 
-1      1      1      1
+1
 
-1      1      1
+1
 
-K005  m   K096  K
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+K005
+
+m
+
+K096
+
+K
 
 k
 
@@ -8041,14 +8727,14 @@ K
 
 m
 
-Status (Befund/Bericht) ID der Fallakte oder Studie Bezeichnung der Fallakte oder Studie ID Katalog durchgeführte Leistungen Bezeichnung des verwendeten Kataloges Obj_0031 (Obj_Kommunikationsdaten) zusätzlicher Befundweg Obj_0047 (Obj_Person) Recall empfohlen Obj_0054 (Obj_Timestamp) Obj_0068 (Obj_Fließtext) Obj_0054 (Obj_Timestamp) Obj_0068 (Obj_Fließtext) Obj_0010 (Obj_Anhang) Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) Obj_0041 (Obj_Namenskennung) M
+M
+
+Status (Befund/Bericht) ID der Fallakte oder Studie Bezeichnung der Fallakte oder Studie ID Katalog durchgeführte Leistungen Bezeichnung des verwendeten Kataloges Obj_0031 (Obj_Kommunikationsdaten) zusätzlicher Befundweg Obj_0047 (Obj_Person) Recall empfohlen Obj_0054 (Obj_Timestamp) Obj_0068 (Obj_Fließtext) Obj_0054 (Obj_Timestamp) Obj_0068 (Obj_Fließtext) Obj_0010 (Obj_Anhang) Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) Obj_0041 (Obj_Namenskennung)
 
 
 ---
 
-**11.15**
-
-## Obj_Betriebsstaette „Obj_
+**11.15** **Obj_Betriebsstaette „Obj_**
 
 Dieses Objekt fasst die notwendigen Informationen zur Betriebsstätte von medizinischen Einrichtungen zusammen.
 
@@ -8072,13 +8758,13 @@ Vorkommen
 
 ---
 
-**11.16**
-
-## Obj_Diagnose „Obj_0100
+**11.16** **Obj_Diagnose „Obj_0100**
 
 Mit diesem Objekt können Angaben zu Diagnosen des Patienten übertragen werden.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3 4**
 
@@ -8117,9 +8803,7 @@ Mit diesem Objekt können Angaben zu Diagnosen des Patienten übertragen werden.
 
 ---
 
-**11.17**
-
-## Obj_Einsenderidentifikation „Obj_
+**11.17** **Obj_Einsenderidentifikation „Obj_**
 
 Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 
@@ -8151,9 +8835,7 @@ Vorkommen **0022“**
 
 ---
 
-**11.18**
-
-## Obj_Fehlermeldung/Aufmerksamkeit „Obj_
+**11.18** **Obj_Fehlermeldung/Aufmerksamkeit „Obj_**
 
 Dieses Objekt soll genutzt werden, wenn es aus Sicht des Auftragsnehmers Vorkommnisse im Prozess gegeben hat, die eine zusätz Einsenders erfordern.
 
@@ -8181,13 +8863,13 @@ Vorkommen liche Benachrichtigung des
 
 ---
 
-**11.19**
-
-## Obj_Fließtext „Obj_0068“
+**11.19** **Obj_Fließtext „Obj_0068“**
 
 In diesem Objekt können semantisch zusammenhängende Texte oder Dateien (Base64
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3 4**
 
@@ -8220,9 +8902,7 @@ In diesem Objekt können semantisch zusammenhängende Texte oder Dateien (Base64
 
 ---
 
-**11.20**
-
-## Obj_Koerperkenngroessen
+**11.20** **Obj_Koerperkenngroessen**
 
 In diesem Objekt können Körperkenngrößen zum Patienten (Größe, Gewicht) übertragen werden
 
@@ -8247,13 +8927,13 @@ Vorkommen
 
 ---
 
-**11.21**
-
-## Obj_Kommunikationsdaten „Obj_
+**11.21** **Obj_Kommunikationsdaten „Obj_**
 
 Hier werden alle Informationen zusammengefasst, die eine Kommunikation bspw. Mit einer Einrichtung, Firma, Arzt, einem Patienten ermöglichen.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2**
 
@@ -8301,9 +8981,7 @@ Hier werden alle Informationen zusammengefasst, die eine Kommunikation bspw. Mit
 
 ---
 
-**11.22**
-
-## Obj_Kopfdaten „Obj_003
+**11.22** **Obj_Kopfdaten „Obj_003**
 
 Hier werden alle Informationen zusammengefasst, die
 
@@ -8328,9 +9006,7 @@ Vorkommen im Kontext mit der Erstellung des Datensatzes stehen.
 
 ---
 
-**11.23**
-
-## Obj_Krebsfrueherkennung
+**11.23** **Obj_Krebsfrueherkennung**
 
 In diesem Objekt wird das Muster 39, Grundlage für die Krebsfrüherkennungsuntersuchung Zervix-Karzinom, abgebildet.
 
@@ -8361,9 +9037,7 @@ In diesem Objekt wird das Muster 39, Grundlage für die Krebsfrüherkennungsunte
 | 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 
-## Zervix-Karzinom (Muster 39) „Obj_
-
-Vorkommen **0034“**
+Vorkommen ## Zervix-Karzinom (Muster 39) „Obj_0034“
 
 
 ---
@@ -8396,9 +9070,7 @@ Vorkommen **0034“**
 
 ---
 
-**11.24**
-
-## Obj_Laborergebnisbericht „Obj_
+**11.24** **Obj_Laborergebnisbericht „Obj_**
 
 Im Objekt werden die Untersuchungsergebnisse zusammengefasst.
 
@@ -8440,7 +9112,15 @@ Vorkommen **0035“**
 
 **Vorkommen**
 
-**1 2 3 4**    1   1     1  1
+**1 2 3 4**
+
+1
+
+1
+
+1
+
+1
 
 **Obj_Laborergebnisbericht**
 
@@ -8471,9 +9151,7 @@ M
 
 ---
 
-**11.25**
-
-## Obj_Laborkennung „Obj_
+**11.25** **Obj_Laborkennung „Obj_**
 
 Das Objekt enthält die Angaben zu dem Labor, welches den Auftrag ausgeführt hat.
 
@@ -8496,9 +9174,7 @@ Vorkommen
 
 ---
 
-**11.26**
-
-## Obj_Material „Obj_
+**11.26** **Obj_Material „Obj_**
 
 Im Objekt werden die Informationen zur Identifikation des zu untersuchenden Materials übermittelt sowie Angaben zum Material
 
@@ -8539,7 +9215,9 @@ Im Objekt werden die Informationen zur Identifikation des zu untersuchenden Mate
 
 Timestamp_Materialabnahme_entnahme
 
-Timestamp_Eingangserfassung_Material  1  Obj_0054 (Obj_Timestamp)
+Timestamp_Eingangserfassung_Material 1
+
+Obj_0054 (Obj_Timestamp)
 
 K m
 
@@ -8566,11 +9244,23 @@ Vorkommen
 
 8003 1
 
-1  Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)   Zusaetzliche_Informationen  1  Obj_0068 (Obj_Fließtext)
+1
 
-Anhang  1  Obj_0010 (Obj_Anhang)    Objektende
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
 
-m    K
+Zusaetzliche_Informationen 1
+
+Obj_0068 (Obj_Fließtext)
+
+Anhang 1
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
+
+m
+
+K
 
 m
 
@@ -8583,9 +9273,7 @@ M
 
 ---
 
-**11.27**
-
-## Obj_Medikament „Obj_
+**11.27** **Obj_Medikament „Obj_**
 
 Hier werden Informationen zu Medikamenten zusammengefasst.
 
@@ -8617,9 +9305,7 @@ Vorkommen **0070“**
 
 ---
 
-**11.28**
-
-## Obj_Mutterschaft „Obj_
+**11.28** **Obj_Mutterschaft „Obj_**
 
 Das Objekt Mutterschaft fasst die Angaben zur Mutterschaft zusammen.
 
@@ -8663,9 +9349,7 @@ Das Objekt Mutterschaft fasst die Angaben zur Mutterschaft zusammen.
 
 ---
 
-**11.29**
-
-## Obj_Namenskennung „Obj_0041“
+**11.29** **Obj_Namenskennung „Obj_0041“**
 
 Das Objekt dient der Darstellung und elektronischen Übermittlung von Namenskennzeichnungen.
 
@@ -8685,9 +9369,7 @@ Vorkommen
 
 ---
 
-**11.30**
-
-## Obj_Normalwert „Obj_
+**11.30** **Obj_Normalwert „Obj_**
 
 Mit diesem Objekt werden Norm- und Referenzbereiche strukturiert dargestellt.
 
@@ -8724,9 +9406,7 @@ Vorkommen **0042“**
 
 ---
 
-**11.31**
-
-## Obj_Organisation „Obj_0043“
+**11.31** **Obj_Organisation „Obj_0043“**
 
 Mit diesem Objekt werden Organisationsstrukturen abgebildet.
 
@@ -8752,9 +9432,7 @@ Vorkommen
 
 ---
 
-**11.32**
-
-## Obj_Patient „Obj_
+**11.32** **Obj_Patient „Obj_**
 
 In diesem Objekt werden die Informationen über einen Patienten aufgeführt.
 
@@ -8777,9 +9455,7 @@ Vorkommen **0045“**
 
 ---
 
-**11.33**
-
-## Obj_Person „Obj_
+**11.33** **Obj_Person „Obj_**
 
 Mit dem Objekt Person werden alle die natürlichen Personen dargestellt, deren Daten für die Abwicklung, Abrechnung oder Dokum notwendig sind.
 
@@ -8817,9 +9493,7 @@ Vorkommen entation von Aufträgen und Befunden
 
 ---
 
-**11.34**
-
-## Obj_RgEmpfaenger
+**11.34** **Obj_RgEmpfaenger**
 
 Hier sind alle Angaben zum Rechnungsempfänger enthalten.
 
@@ -8838,20 +9512,18 @@ Hier sind alle Angaben zum Rechnungsempfänger enthalten.
 | 8608 |  | 1 |  |  |  | Kommentar/Aktenzeichen | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-## „Obj_0048“
-
-Vorkommen
+Vorkommen ## „Obj_0048“
 
 
 ---
 
-**11.35**
-
-## Obj_Schwangerschaft „Obj_
+**11.35** **Obj_Schwangerschaft „Obj_**
 
 Dieses Objekt enthält schwangerschaftsspezifische Informationen.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3 4**
 
@@ -8887,9 +9559,7 @@ Dieses Objekt enthält schwangerschaftsspezifische Informationen.
 
 ---
 
-**11.36**
-
-## Obj_Sendendes System „Obj_
+**11.36** **Obj_Sendendes System „Obj_**
 
 Dieses Objekt enthält die Information zum sendenden Softwaresystem, welches
 
@@ -8914,9 +9584,7 @@ Vorkommen den LDT Datensatz erstellt hat.
 
 ---
 
-**11.37**
-
-## Obj_Tier/Sonstiges „Obj_
+**11.37** **Obj_Tier/Sonstiges „Obj_**
 
 Enthält ein Auftrag Materialien, die nicht h
 
@@ -8948,9 +9616,7 @@ Vorkommen umanen Ursprungs sind, so werden die entsprechenden Informationen zur 
 
 ---
 
-**11.38**
-
-**Obj_Timestamp „Obj_**
+**11.38** **Obj_Timestamp „Obj_**
 
 |  |  | | | | | **Obj_Timestamp** |  |  | **OID: noch nicht vergeben** |
 |---|---|---|---|---|---|---|---|---|---|
@@ -8970,9 +9636,7 @@ Vorkommen **0054“**
 
 ---
 
-**11.39**
-
-## Obj_Blutgruppenzugehoerigkeit
+**11.39** **Obj_Blutgruppenzugehoerigkeit**
 
 Dieses Objekt transportiert die Informationen zur Blutgruppenzugehörigkeit.
 
@@ -9001,68 +9665,100 @@ Dieses Objekt transportiert die Informationen zur Blutgruppenzugehörigkeit.
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 | 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
 
-## „Obj_0055“
-
-Vorkommen
+Vorkommen ## „Obj_0055“
 
 
 ---
 
-1   8224  1
+1
 
-1   8225  1
+8224  1
 
-1   8126  1
+1
 
-1   8167  n
+8225  1
 
-1   7429  1
+1
+
+8126  1
+
+1
+
+8167  n
+
+1
+
+7429  1
 
 3473  1
 
 |  | 8158 |  |  | 1 |  |  |  | Untersuchungsabrechnung | k | K071 |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-1   8003 1
+1
 
-Obj_0054 (Obj_Timestamp)    Timestamp_QM_Erfassung   Obj_0054 (Obj_Timestamp)    Timestamp_Messung
+8003 1
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_QM_Erfassung
+
+Obj_0054 (Obj_Timestamp)
+
+Timestamp_Messung
 
 Obj_0054 (Obj_Timestamp)
 
 Fehlermeldung_Aufmerksamkeit
 
-Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)    Zusaetzliche_Informationen   Obj_0068 (Obj_Fließtext)
+Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit)
 
-DRG_Hinweis    Untersuchungsergebnis durch Auftragslaboratorium erstellt
+Zusaetzliche_Informationen
 
-Obj_0058 (Obj_Untersuchungsabrechnung)    Objektende
+Obj_0068 (Obj_Fließtext)
 
-m
+DRG_Hinweis
 
-K
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
 
-m   K076  m  K078  m
+Obj_0058 (Obj_Untersuchungsabrechnung)
 
-K
-
-m
-
-K
+Objektende
 
 m
 
 K
 
+m
+
+K076
+
+m
+
+K078
+
+m
+
 K
 
-m   M
+m
+
+K
+
+m
+
+K
+
+K
+
+m
+
+M
 
 
 ---
 
-**11.40**
-
-## Obj_Tumor „Obj_
+**11.40** **Obj_Tumor „Obj_**
 
 In diesem Objekt können Information zu einem Tumor sowohl für die Beauftragung und für den
 
@@ -9114,11 +9810,19 @@ Vorkommen Befund transportiert werden.
 | 8003 | 1 |  |  |
 | LDT 3 | Satzbeschreibung, | Version | 3.2.19 |
 
-Zusaetzliche_Informationen   Obj_0068 (Obj_Fließtext)
+Zusaetzliche_Informationen
 
-DRG_Hinweis   Untersuchungsergebnis durch Auftragslaboratorium erstellt
+Obj_0068 (Obj_Fließtext)
 
-Anhang   Obj_0010 (Obj_Anhang)   Objektende
+DRG_Hinweis
+
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
+
+Anhang
+
+Obj_0010 (Obj_Anhang)
+
+Objektende
 
 K
 
@@ -9137,13 +9841,13 @@ M
 
 ---
 
-**11.41**
-
-## Obj_Untersuchungsabrechnung „Obj_
+**11.41** **Obj_Untersuchungsabrechnung „Obj_**
 
 Jeder Untersuchung wird direkt eine  sind.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2**
 
@@ -9204,13 +9908,13 @@ K005  K008  K019
 
 ---
 
-**11.42**
-
-## Obj_Untersuchungsanforderung „Obj_
+**11.42** **Obj_Untersuchungsanforderung „Obj_**
 
 In diesem Objekt werden alle Informationen zur Untersuchungsanforderung zusammengefasst.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2**
 
@@ -9271,9 +9975,13 @@ M
 
 K010  K011  K037  K053
 
-K003  K010  K011  K037
+K003
 
-K003   K011  K032  K034  K056  K057  K097  K098  K102  K103  K105  K113  K114
+K010  K011  K037
+
+K003
+
+K011  K032  K034  K056  K057  K097  K098  K102  K103  K105  K113  K114
 
 **OID noch nicht vergeben**
 
@@ -9339,9 +10047,13 @@ M
 
 K
 
-K   K010  k  K037  K
+K
 
-m
+K010
+
+k
+
+K037
 
 K
 
@@ -9355,11 +10067,29 @@ K
 
 m
 
-K K100
+K
 
-m   K
+m
 
-k  m  M  m  K  m
+K
+
+K100
+
+m
+
+K
+
+k
+
+m
+
+M
+
+m
+
+K
+
+m
 
 M
 
@@ -9369,9 +10099,7 @@ Obj_0034 (Obj_Krebsfrueherkennung Zervix-Karzinom Obj_0056 (Obj_Tumor) Obj_0010 
 
 ---
 
-**11.43**
-
-## Obj_Untersuchungsergebnis Klinische Chemie „Obj_
+**11.43** **Obj_Untersuchungsergebnis Klinische Chemie „Obj_**
 
 In diesem Objekt werden die Ergebnisse aus dem Bereich Klinische Chemie übermittelt.
 
@@ -9480,7 +10208,11 @@ Namenskennung
 
 Untersuchungsabrechnung
 
-1   Obj_0058 (Obj_Untersuchungsabrechnung)    DRG_Hinweis    Untersuchungsergebnis durch Auftragslaboratorium erstellt
+1   Obj_0058 (Obj_Untersuchungsabrechnung)
+
+DRG_Hinweis
+
+Untersuchungsergebnis durch Auftragslaboratorium erstellt
 
 Anhang 1   Obj_0010 (Obj_Anhang)
 
@@ -9620,9 +10352,7 @@ ist vorgesehen, dass die HPV -
 
 ---
 
-**11.44**
-
-## Obj_Untersuchungsergebnis Mikrobiologie „Obj_
+**11.44** **Obj_Untersuchungsergebnis Mikrobiologie „Obj_**
 
 In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportiert. Um diese Daten strukturiert zu übertragen hierarchische Vorgehensweise definiert: Ausgangspunkt ist immer das Material und die dazugehörige Anforderung. Aus diesen Anforderungen erfolgt über verschiedene  Nachweisverfahren eine Stufendiagnostik zur Keimbestimmung, optional die Bestimmung der Breakpunkte bzw. MHK´s  Antibiotika. Die Erregermenge wird als semiquantitatives Ergebnis abhängig des Untersuchungsmaterials dargestellt.
 
@@ -9718,9 +10448,7 @@ Vorkommen
 
 ---
 
-**11.45**
-
-## Obj_Untersuchungsergebnis
+**11.45** **Obj_Untersuchungsergebnis**
 
 In diesem Objekt werden die Ergebnisse der Krebsfrüherkennung Zervix-Karzinom übertragen. Die Inhalte richten sich nach dem Muster 39a/b.
 
@@ -9751,9 +10479,7 @@ In diesem Objekt werden die Ergebnisse der Krebsfrüherkennung Zervix-Karzinom �
 | 7413 |  |  | 1 |  |  | Codierung der Gruppe | m |  |  |
 | 3316 |  | 1 |  |  |  | HPV-HR-Testergebnis | K | K122 |  |
 
-## Krebsfrüherkennung Zervix
-
-Vorkommen **-Karzinom „Obj_0062“**
+Vorkommen ## Krebsfrüherkennung Zervix-Karzinom „Obj_0062“
 
 
 ---
@@ -9829,7 +10555,11 @@ Damit der Wert des Grenzwertindikators in Feldkennung 8422 einen eindeutigen Bez
 |  | III-e und III-x und IVa-p und IVa-g und IVb-p und IVb-g und V und V-p und V-g und V-e |  |
 |  | und V-x |  |
 
-**2 3 4**   1  n    1
+**2 3 4**
+
+1
+
+n 1
 
 n 1
 
@@ -9837,15 +10567,25 @@ n 1
 
 1
 
-1    1  1   1
+1
+
+1
+
+1
+
+1
 
 Befundergebnis besitzt, sollten die möglichen Werte AA , A und N entsprechend nachfolgender gleichlautender Regeln für den Anwender
 
-### Prüfung
+#### Prüfung
 
-**Obj_Untersuchungsergebnis Krebsfrüherkennung**   **Zervix-Karzinom**  **Feld-/Objektbezeichnung**
+**Obj_Untersuchungsergebnis Krebsfrüherkennung**
 
-**5**    Obj_0054 (Obj_Timestamp)
+**Zervix-Karzinom**  **Feld-/Objektbezeichnung**
+
+**5**
+
+Obj_0054 (Obj_Timestamp)
 
 Zusaetzliche_Informationen
 
@@ -9895,16 +10635,20 @@ K125
 
 **Erläuterung**
 
-m    K    K    M
+m
 
-### Erläuterung
+K
+
+K
+
+M
+
+#### Erläuterung
 
 
 ---
 
-**11.46**
-
-## Obj_Untersuchungsergebnis Zytologie „Obj_
+**11.46** **Obj_Untersuchungsergebnis Zytologie „Obj_**
 
 In diesem Objekt können weitere Ergebnisse aus dem Bereich Zytologie transportiert werden.
 
@@ -9993,13 +10737,13 @@ Vorkommen
 
 ---
 
-**11.47**
-
-## Obj_Veranlassungsgrund „Obj_0027"
+**11.47** **Obj_Veranlassungsgrund „Obj_0027"**
 
 Mit diesem Objekt können Angaben zum Grund der Veranlassung der laboratoriumsmedizinischen Untersuchung übertragen werden.
 
-**Vorkommen FK**
+**Vorkommen**
+
+**FK**
 
 **1 2 3**
 
@@ -10082,13 +10826,13 @@ Dieses Feld muss in diesem Objekt verwendet  werden um die Diagnosekodierung bez
 
 ---
 
-**11.48**
-
-## Obj_Wirkstoff „Obj_0071“
+**11.48** **Obj_Wirkstoff „Obj_0071“**
 
 Hier werden Informationen zu Wirkstoffen zusammengefasst.
 
-**FK Vorkommen**
+**FK**
+
+**Vorkommen**
 
 **1 2 3 4**
 
@@ -10124,9 +10868,7 @@ Hier werden Informationen zu Wirkstoffen zusammengefasst.
 
 ---
 
-**11.49**
-
-## Obj_BAK „Obj_0072“
+**11.49** **Obj_BAK „Obj_0072“**
 
 In diesem Objekt werden die Ergebnisse bakteriologischer Untersuchungen strukturiert abgebildet.
 
@@ -10155,16 +10897,18 @@ In diesem Objekt werden die Ergebnisse bakteriologischer Untersuchungen struktur
 
 BAK-Ergebniswertbezogene Hinweise
 
-Vorkommen K K100
+K
+
+Vorkommen K100
 
 
 ---
 
-**11.50**
+**11.50** **Obj_Sonstige Untersuchungsergebnisse „Obj_0073“**
 
-## Obj_Sonstige Untersuchungsergebnisse „Obj_0073“
+In diesem Objekt können die Untersuchungsergebnisse transportiert werden, die außerhalb der mit den Objekten 0060 ( Obj_Untersuchungsergebnis_  Klinische_Chemie), 0061
 
-In diesem Objekt können die Untersuchungsergebnisse transportiert werden, die außerhalb der mit den Objekten 0060 ( Obj_Untersuchungsergebnis_  Klinische_Chemie), 0061  (Obj_Untersuchungsergebnis_Zytologie), 0055
+(Obj_Untersuchungsergebnis_Zytologie), 0055
 
 Das jeweilige Fachgebiet wird über die FK 7431 definiert.
 

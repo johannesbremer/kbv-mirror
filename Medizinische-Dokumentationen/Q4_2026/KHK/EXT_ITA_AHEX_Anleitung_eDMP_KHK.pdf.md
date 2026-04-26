@@ -1,48 +1,106 @@
-## Ausfüllanleitung
+# Ausfüllanleitung
 
-## zum indikationsspezifischen Datensatz
+# zum indikationsspezifischen Datensatz
 
-## für das strukturierte Behandlungsprogramm
+# für das strukturierte Behandlungsprogramm
 
-## KHK
+# KHK
 
-Stand der letzten Bearbeitung: 27.08.2025  Version 7.0
+Stand der letzten Bearbeitung: 27.08.2025
+
+Version 7.0
 
 
 ---
 
-## Anamnese- und Befunddaten
+# Anamnese- und Befunddaten
 
-### Angina pectoris
+#### Angina pectoris
 
 Genau eine Angabe ist erforderlich und zulässig.
 
-geben Sie  Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient an einer stabilen Angina pectoris leidet oder  nicht. Falls eine Angina pectoris vorliegt, bitte einen Schweregrad der Belastungstoleranz  an. Die Schweregradeinteilung erfolgt dabei nach der Klassifikation der Canadian Cardiovascular  Society (CCS). Nachstehende Grafik zeigt die CCS -Einteilung. Diese bezieht sich ausschließlich  auf die stabile Angina pectoris.  als Ausprägung akuten ist im Eine Instabile Angina pectoris des Koronarsyndroms  Dokumentationsfeld „Relevante Ereignisse“ zu dokumentieren.
+geben Sie
 
-Langfassung, 1. Auflage.  Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK  Version 7. 2024.    **LDL-Cholesterin**   Genau eine Angabe ist erforderlich und zulässig.  Bitte geben Sie entweder den Wert in mmol/l mit genau einer Nachkommastelle **oder** den Wert in  mg/dl ohne Nachkommastelle ein. Wurde das LDL-Cholesterin nicht untersucht, geben Sie bitte  Nicht bestimmt“ an
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient an einer stabilen Angina pectoris leidet oder  nicht. Falls eine Angina pectoris vorliegt,
+
+bitte einen Schweregrad der Belastungstoleranz
+
+an. Die Schweregradeinteilung erfolgt dabei nach der Klassifikation der Canadian Cardiovascular  Society (CCS). Nachstehende Grafik zeigt die CCS -Einteilung. Diese bezieht sich ausschließlich  auf die stabile Angina pectoris.
+
+als Ausprägung
+
+akuten
+
+ist im
+
+Eine Instabile Angina pectoris
+
+des
+
+Koronarsyndroms
+
+Dokumentationsfeld „Relevante Ereignisse“ zu dokumentieren.
+
+Langfassung, 1. Auflage.
+
+Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK  Version 7. 2024.
+
+**LDL-Cholesterin**
+
+Genau eine Angabe ist erforderlich und zulässig.
+
+Bitte geben Sie entweder den Wert in mmol/l mit genau einer Nachkommastelle **oder** den Wert in
+
+mg/dl ohne Nachkommastelle ein. Wurde das LDL-Cholesterin nicht untersucht, geben Sie bitte  Nicht bestimmt“ an
 
 
 ---
 
-## Relevante Ereignisse
+# Relevante Ereignisse
 
-### Relevante Ereignisse
+#### Relevante Ereignisse
 
-Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind dabei möglich.   Bitte geben Sie an, ob bei Ihrer Patientin oder Ihrem Patienten eines oder mehrere der aufgeführten  Ereignisse (Herzinfarkt / Instabile Angina pectoris / Schlaganfall) eingetreten ist bzw. sind.   Erfolgt die Angabe im Rahmen einer **Erstdokumentation,** Ereignisse aus der Vergangenheit einzubeziehen.   Erfolgt die Angabe im Rahmen einer **Folgedokumentation,** **Dokumentation** **neu** aufgetretene Ereignisse zu berücksichtigen.  Sollte in der Vergangenheit bzw. seit der letzten Dokumentation kein stattgefunden haben, geben Sie bitte zur Vollständigkeit „
+Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind dabei möglich.
 
-### Herzinfarkt innerhalb der letzten 12 Monate
+Bitte geben Sie an, ob bei Ihrer Patientin oder Ihrem Patienten eines oder mehrere der aufgeführten
 
-Genau eine Angabe ist erforderlich und zulässig.   Dieses Feld dient der Erfassung, ob ein Herzinfarkt innerhalb der letzten 12 Monate aufgetreten  ist oder nicht.  Bitte geben Sie „Ja“ nur dann an, wenn bei Ihrer Patientin oder Ihrem Patienten  **letzten 12 Monate vor Erstellung der Dokumentation** innerhalb der letzten 12 Monate kein Herzinfarkt aufgetreten sein, geben Sie hier bitte „Nein“ an.
+Ereignisse (Herzinfarkt / Instabile Angina pectoris / Schlaganfall) eingetreten ist bzw. sind.
 
-### Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation
+Erfolgt die Angabe im Rahmen einer **Erstdokumentation,**
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.   Geben Sie bitte die Anzahl aller ungeplanten vollstationären Aufenthalte an, die seit der letzten  Dokumentation auf Grund der KHK erfolgt sind. Sollte seit der letzten Dokumentation kein  ungeplanter stationärer Aufenthalt notwendig gewesen sein, geben Sie bitte eine „0“ an.
+Ereignisse aus der Vergangenheit einzubeziehen.
+
+Erfolgt die Angabe im Rahmen einer **Folgedokumentation,**
+
+**Dokumentation** **neu** aufgetretene Ereignisse zu berücksichtigen.
+
+Sollte in der Vergangenheit bzw. seit der letzten Dokumentation kein stattgefunden haben, geben Sie bitte zur Vollständigkeit „
+
+## Herzinfarkt innerhalb der letzten 12 Monate
+
+Genau eine Angabe ist erforderlich und zulässig.
+
+Dieses Feld dient der Erfassung, ob ein Herzinfarkt innerhalb der letzten 12 Monate aufgetreten  ist oder nicht.
+
+Bitte geben Sie „Ja“ nur dann an, wenn bei Ihrer Patientin oder Ihrem Patienten
+
+**letzten 12 Monate vor Erstellung der Dokumentation** innerhalb der letzten 12 Monate kein Herzinfarkt aufgetreten sein, geben Sie hier bitte „Nein“ an.
+
+#### Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation
+
+Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
+
+Geben Sie bitte die Anzahl aller ungeplanten vollstationären Aufenthalte an, die seit der letzten  Dokumentation auf Grund der KHK erfolgt sind. Sollte seit der letzten Dokumentation kein
+
+ungeplanter stationärer Aufenthalt notwendig gewesen sein, geben Sie bitte eine „0“ an.
 
 sind hier alle bereits stattgefundenen
 
 sind jeweils nur **seit der letzten**
 
-es der aufgeführten Ereignisse  Nein“ an.
+es der aufgeführten Ereignisse
+
+Nein“ an.
 
 der Herzinfarkt aufgetreten ist. Sollte
 
@@ -52,9 +110,21 @@ der Herzinfarkt aufgetreten ist. Sollte
 
 möglich und ist hier
 
-## Medikamente
+# Medikamente
 
-Die medikamentöse Therapie bei der KHK verfolgt zum einen das Ziel der Reduktion der  Gesamtsterblichkeit und der kardiovaskulären Morbidität (besonders das Vermeiden der  Progression der KHK, von Herzinfarkt en und der Entwicklung einer Herzinsuffizienz) durch eine  prognoseverbessernde Therapie. Zum anderen soll eine Verbesserung der Lebensqualität durch  eine symptomatische Therapie erreicht werden. Dazu zählen unter anderem eine verbesserte  Belastbarkeit sowie eine Linderung krankheitsbedingter Beschwerden wie etwa Angina pectoris und  Luftnot.  Vorrangig sollen unter Berücksichtigung der Kontraindikationen, der Komorbiditäten und der  Patientenpräferenzen Medikamente zur Behandlung der KHK verwendet werden, deren positiver  Effekt und deren Sicherheit in randomisierten, kontrollierten Studien (RCT) nachgewiesen wurden.   Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei „ Nein“ – wo möglich -  zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.  Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
+Die medikamentöse Therapie bei der KHK verfolgt zum einen das Ziel der Reduktion der  Gesamtsterblichkeit und der kardiovaskulären Morbidität (besonders das Vermeiden der
+
+Progression der KHK, von Herzinfarkt en und der Entwicklung einer Herzinsuffizienz) durch eine  prognoseverbessernde Therapie. Zum anderen soll eine Verbesserung der Lebensqualität durch  eine symptomatische Therapie erreicht werden. Dazu zählen unter anderem eine verbesserte  Belastbarkeit sowie eine Linderung krankheitsbedingter Beschwerden wie etwa Angina pectoris und
+
+Luftnot.
+
+Vorrangig sollen unter Berücksichtigung der Kontraindikationen, der Komorbiditäten und der  Patientenpräferenzen Medikamente zur Behandlung der KHK verwendet werden, deren positiver  Effekt und deren Sicherheit in randomisierten, kontrollierten Studien (RCT) nachgewiesen wurden.
+
+Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei „ Nein“ – wo möglich -
+
+zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.
+
+Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
 
 ---
@@ -100,23 +170,49 @@ Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem
 
 ---
 
-b) Schulungsmaßnahmen, die die Patientin oder den Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen die KHK bestmöglich in das eigene Leben zu  integrieren, akute oder langfristige negative Konsequenzen der KHK oder der  Begleiterkrankung(en) zu vermeiden und die Lebensqualität zu erhalten. Hierzu zählen neben  einer KHK-spezifischen Schulung auch Schulungen zu Diabetes oder eine Hypertonie- Schulung  oder auch eine Schulung zu Antikoagulantien.   Eine erneute Teilnahme an einer KHK -relevanten Schulung im Rahmen des DMP ist dadurch  NICHT ausgeschlossen!
+- b) Schulungsmaßnahmen, die die Patientin oder den Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen die KHK bestmöglich in das eigene Leben zu  integrieren, akute oder langfristige negative Konsequenzen der KHK oder der  Begleiterkrankung(en) zu vermeiden und die Lebensqualität zu erhalten. Hierzu zählen neben
 
-### Schulung empfohlen (bei aktueller Dokumentation)
+einer KHK-spezifischen Schulung auch Schulungen zu Diabetes oder eine Hypertonie- Schulung  oder auch eine Schulung zu Antikoagulantien.
 
-Genau eine Angabe ist erforderlich und zulässig.  Wenn Sie ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie bitte hier an eine Diabetes -Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder  KHK-spezifische Schulung handeln, soweit diese in der Vertragsregion vereinbart ist .
+Eine erneute Teilnahme an einer KHK -relevanten Schulung im Rahmen des DMP ist dadurch  NICHT ausgeschlossen!
 
-Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus. In diesem Fall und kreuzen hier bitte  ebenfalls „Ja“ an.   Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an
+#### Schulung empfohlen (bei aktueller Dokumentation)
 
-### Empfohlene Schulung wahrgenommen
+Genau eine Angabe ist erforderlich und zulässig.
 
-Die Angaben zu den Schulungen beziehen sich hier ausschließlich  Schulung(en), die Sie Ihrer Patientin oder Ihrem Patienten bei dem letzten Dokumentationstermin  empfohlen haben, und sind daher nur im Rahmen einer Folgedokumentation möglich und  verpflichtend. Genau eine Angabe ist erforderlich und zulässig.   Hat Ihre Patientin oder Ihr Patient seit der letzten Dokumentation an einer machen Sie bitte die Angabe „Ja“.   War die Teilnahme an einer Schulung innerhalb  nachvollziehbaren Gründen nicht möglich , geben Sie hier bitte „War aktuell nicht möglich“ an.  Solche Gründe können z.B. fehlende Schulungskapazität,  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.   Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorherigen Dokumentation mindestens eine  Schulung empfohlen haben , die Patientin oder der Patient die empfohlene Schulung aber ohne  einen für Sie nachvollziehbaren Grund nicht wahrgenommen Bitte beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versicherten  aus dem Programm führen!   Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  “Bei letzter Dokumentation keine Schulung empfohlen“ Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+Wenn Sie ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie bitte hier an eine Diabetes -Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder  KHK-spezifische Schulung handeln, soweit diese in der Vertragsregion vereinbart ist .
 
-## Behandlungsplan
+Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus. In diesem Fall und kreuzen hier bitte  ebenfalls „Ja“ an.
 
-### Regelmäßiges sportliches Training
+Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an
 
-Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.   Alle Patientinnen und Patienten sollen zu regelmäßiger körperlicher Aktivität motiviert werden. Dies  beinhaltet Alltagsaktivitäten (z.B. Gartenarbeit, Treppensteigen, Spazierengehen) und sportliches
+#### Empfohlene Schulung wahrgenommen
+
+Die Angaben zu den Schulungen beziehen sich hier ausschließlich  Schulung(en), die Sie Ihrer Patientin oder Ihrem Patienten bei dem letzten Dokumentationstermin  empfohlen haben, und sind daher nur im Rahmen einer Folgedokumentation möglich und  verpflichtend. Genau eine Angabe ist erforderlich und zulässig.
+
+Hat Ihre Patientin oder Ihr Patient seit der letzten Dokumentation an einer
+
+machen Sie bitte die Angabe „Ja“.
+
+War die Teilnahme an einer Schulung innerhalb
+
+nachvollziehbaren Gründen nicht möglich , geben Sie hier bitte „War aktuell nicht möglich“ an.
+
+Solche Gründe können z.B. fehlende Schulungskapazität,  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
+
+Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorherigen Dokumentation mindestens eine  Schulung empfohlen haben , die Patientin oder der Patient die empfohlene Schulung aber ohne  einen für Sie nachvollziehbaren Grund nicht wahrgenommen Bitte beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versicherten  aus dem Programm führen!
+
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie dies bitte  “Bei letzter Dokumentation keine Schulung empfohlen“
+
+Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+
+# Behandlungsplan
+
+#### Regelmäßiges sportliches Training
+
+Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
+
+Alle Patientinnen und Patienten sollen zu regelmäßiger körperlicher Aktivität motiviert werden. Dies  beinhaltet Alltagsaktivitäten (z.B. Gartenarbeit, Treppensteigen, Spazierengehen) und sportliches
 
 „Ja“ an, Es kann sich hier um  eine
 
@@ -141,13 +237,31 @@ Nein“ an.
 
 Training. Diese Interventionen sollen so ausgerichtet sein, dass die Patientinnen und Patienten  motiviert sind, das erwünschte positive Bewegungsverhalten eigenverantwortlich und nachhaltig in  ihren Lebensstil zu integrieren. Planung und Intensität der körperlichen Aktivität sind an die  individuelle Belastbarkeit der Patientin oder des Patienten anzupassen.
 
-Patientinnen und mit  kardiovaskulärem
+Patientinnen und
 
-Insbesondere nach Erstdiagnosestellung und sofern eine selbständige Ausübung der sportlichen  Aktivitäten für Patientinnen und Patienten (noch) nicht möglich ist, wird die Teilnahme an einer  Herzsportgruppe empfohlen. Patienten hohem Ereignisrisiko (z.B. im ersten Jahr nach Überleben eines plötzlichen Herztodes mit ICD/überlebter
+mit
 
-Herzstillstand oder mit schwerer Herzinsuffizienz (NYHA III) mit einer LVEF < 40 % oder mit  rezidivierenden ventrikulären Herzrhythmusstörungen), soll die Teilnahme am Rehabilitationssport  in einer „Herzinsuffizienzgruppe“ empfohlen werden. In dieser ist die ständige, persönliche Anwesenheit des Herzgruppenarztes beziehungsweise der -ärztin während der  Übungsveranstaltungen zwingend erforderlich.
+kardiovaskulärem
 
-mindestens zwei  Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für  Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens  zweimal wöchentlich Krafttraining durchgeführt werden.
+Insbesondere nach Erstdiagnosestellung und sofern eine selbständige Ausübung der sportlichen
+
+Aktivitäten für Patientinnen und Patienten (noch) nicht möglich ist, wird die Teilnahme an einer  Herzsportgruppe empfohlen.
+
+Patienten
+
+hohem
+
+Ereignisrisiko (z.B. im ersten Jahr nach Überleben eines plötzlichen Herztodes mit ICD/überlebter
+
+Herzstillstand oder mit schwerer Herzinsuffizienz (NYHA III) mit einer LVEF < 40 % oder mit  rezidivierenden ventrikulären Herzrhythmusstörungen), soll die Teilnahme am Rehabilitationssport  in einer „Herzinsuffizienzgruppe“ empfohlen werden. In dieser ist die ständige, persönliche
+
+Anwesenheit des Herzgruppenarztes beziehungsweise der -ärztin während der
+
+Übungsveranstaltungen zwingend erforderlich.
+
+mindestens zwei
+
+Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für  Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens  zweimal wöchentlich Krafttraining durchgeführt werden.
 
 idität), geben Sie hier bitte „Nicht möglich“ an. Geben Sie bitte
 

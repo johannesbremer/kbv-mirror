@@ -32,9 +32,7 @@
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-**1. Oktober 2024**
-
-### in Kraft.
+**1. Oktober 2024** in Kraft.
 
 VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 5.2.0: 10: Rheuma 11: Osteoporose des verkürzten Personalienfeldes und 30 des Personalienfeldes schlecht VSD-Schema 5.2.0: 7: Chronische Herzinsuffizienz 8: Depression  9: Rückenschmerz nicht auf KVK´s und eGKs mit VSD-Schema 5.1.0 verwendet, die Aufnahme für ein Map- ping entfällt somit. §22 Abs. 3 die gematik
 
@@ -42,9 +40,13 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
-**3INHALTSVERZEICHNIS_____________________________________________________**
+**3**
 
-**4ABBILDUNGSVERZEICHNIS ________________________________________________**
+**INHALTSVERZEICHNIS_____________________________________________________**
+
+**4**
+
+**ABBILDUNGSVERZEICHNIS ________________________________________________**
 
 **TABELLENVERZEICHNIS ___________________________________________________ 5**
 
@@ -60,11 +62,39 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 **2.1** **Übernahme der Versichertenstammdaten in die Abrechnung ..................................................8**
 
-**2.2** **USE-CASES.....................................................................................................................................8**  2.2.1 Einlesen der eGK....................................................................................................................8  *2.2.1.1* *VSD-Version 5.2.0 in KVDT-Referenz-Design mappen ..........................................8*  2.2.2 Einlesen der KVK................................................................................................................. 12  *2.2.2.1* *KVK in KVDT-Referenz-Design mappen .............................................................. 12*  2.2.3 Mobiles Einsatzszenario ...................................................................................................... 14
+**2.2** **USE-CASES.....................................................................................................................................8**
 
-**........................ 152.3** **Bedruckung des Personalienfeldes und des verkürzten Personalienfeldes**   2.3.1 Schriftart .............................................................................................................................. 15  2.3.2 Musterbeispiel für die Bedruckung des Personalienfeldes ................................................. 15  2.3.3 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes ................................ 16  2.3.4 Druckvorschrift ..................................................................................................................... 16  *2.3.4.1* *Ausgangsformat für Druckvorschrift ..................................................................... 16*  *2.3.4.2* *Druckpositionen im Personalienfeld ..................................................................... 16*  *2.3.4.3* *Druckpositionen im verkürzten Personalienfeld ................................................... 18*
+2.2.1 Einlesen der eGK....................................................................................................................8
 
-**2.4** **Sonstige Inhalte der eGK ............................................................................................................ 18**  2.4.1 Prüfungsnachweis zum VSD ............................................................................................... 18
+*2.2.1.1* *VSD-Version 5.2.0 in KVDT-Referenz-Design mappen ..........................................8*
+
+2.2.2 Einlesen der KVK................................................................................................................. 12
+
+*2.2.2.1* *KVK in KVDT-Referenz-Design mappen .............................................................. 12*
+
+2.2.3 Mobiles Einsatzszenario ...................................................................................................... 14
+
+**........................ 15**
+
+**2.3** **Bedruckung des Personalienfeldes und des verkürzten Personalienfeldes**
+
+2.3.1 Schriftart .............................................................................................................................. 15
+
+2.3.2 Musterbeispiel für die Bedruckung des Personalienfeldes ................................................. 15
+
+2.3.3 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes ................................ 16
+
+2.3.4 Druckvorschrift ..................................................................................................................... 16
+
+*2.3.4.1* *Ausgangsformat für Druckvorschrift ..................................................................... 16*
+
+*2.3.4.2* *Druckpositionen im Personalienfeld ..................................................................... 16*
+
+*2.3.4.3* *Druckpositionen im verkürzten Personalienfeld ................................................... 18*
+
+**2.4** **Sonstige Inhalte der eGK ............................................................................................................ 18**
+
+2.4.1 Prüfungsnachweis zum VSD ............................................................................................... 18
 
 **3** **LITERATURVERZEICHNIS ______________________________________________ 19**
 
@@ -73,7 +103,9 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 ---
 
-............................. 6 Abbildung 1: Transformation und Zielformat in Abhängigkeit des Stichtags
+............................. 6
+
+Abbildung 1: Transformation und Zielformat in Abhängigkeit des Stichtags
 
 Abbildung 2: eGK-konforme Bedruckung des Personalienfelds ............................................. 15
 
@@ -84,13 +116,19 @@ Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds ..........
 
 ---
 
-**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C**   Tabelle 1: Mapping VSD in KVDT ............................................................................. 10 520VSD520
+**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C**
+
+Tabelle 1: Mapping VSD in KVDT ............................................................................. 10 520
+
+VSD520
 
 Tabelle 2: Transformation BesonderePersonengruppe VSD
 
 Tabelle 3: Transformation DMP-Kennzeichen VSD
 
-Tabelle 4: Mapping KVK in KVDT ................................................................................. 13 VSD520
+Tabelle 4: Mapping KVK in KVDT ................................................................................. 13
+
+VSD520
 
 Tabelle 5: Transformation DMP-Kennzeichen
 
@@ -127,17 +165,27 @@ Tabelle 11: Prüfungsnachweis zum VSD ..........................................
 
 ---
 
-**1**
+# 1 Einführung
 
-## Einführung
+Verwendung der Versichertenstammdaten, die in der
 
-Verwendung der Versichertenstammdaten, die in der Das vorliegende Dokument beschreibt die Anlage 4a zum BMV-Ä vereinbart sind, in technischer Hinsicht.
+Das vorliegende Dokument beschreibt die Anlage 4a zum BMV-Ä vereinbart sind, in technischer Hinsicht.
 
-das Referenz-Während die vertragsärztlichen Abrechnungsunterlagen gemäß § 291 SGB V in  Design gemäß der aktuellen VSD -Version 5.2.0 überführt werden, müssen für einen Über- gangszeitraum, in dem noch ältere Kartentypen im Umlauf sind, diese in das neue Referenz- ationen geltenden Vor-Design des KVDT transformiert werden. Die für die jeweiligen Transform schriften werden im Folgenden als Tabellen dargestellt.
+das Referenz-
 
-*Mappings* entwickelt Für die Zukunft ist damit zu rechnen, das s für VSD und die eGK weiter  werden. Eine Fortschreibung dieser Technischen Anlage um weitere Transformationsvorschrif- ten und/oder Anpassung des Referenz-Designs für die vertragsärztliche Abrechnung ist somit  zu erwarten.
+Während die vertragsärztlichen Abrechnungsunterlagen gemäß § 291 SGB V in  Design gemäß der aktuellen VSD -Version 5.2.0 überführt werden, müssen für einen Über- gangszeitraum, in dem noch ältere Kartentypen im Umlauf sind, diese in das neue Referenz- ationen geltenden Vor-
 
-den Partnern der Bun-Die Abstimmung der Inhalte dieser Technischen Anlage erfolgt zwischen  desmantelverträge.
+Design des KVDT transformiert werden. Die für die jeweiligen Transform
+
+schriften werden im Folgenden als Tabellen dargestellt.
+
+*Mappings* entwickelt
+
+Für die Zukunft ist damit zu rechnen, das s für VSD und die eGK weiter  werden. Eine Fortschreibung dieser Technischen Anlage um weitere Transformationsvorschrif- ten und/oder Anpassung des Referenz-Designs für die vertragsärztliche Abrechnung ist somit  zu erwarten.
+
+den Partnern der Bun-
+
+Die Abstimmung der Inhalte dieser Technischen Anlage erfolgt zwischen  desmantelverträge.
 
 Regelungsbereich  Anlage 4a (alt)
 
@@ -148,13 +196,27 @@ Regelungsbereich  Anlage 4a (neu),  ab zu vereinba- rendem Stichtag
 
 ---
 
-**1.1 Abgrenzung**
+## 1.1 Abgrenzung
 
-fachlichen Inhalte zur Die in diesem Dokument definierten Vorschriften beziehen sich auf die Verarbeitung der Versichertenstammdaten zum Zwecke der vertragsärztlichen Abrechnung.  sind in der Dokumentation der gematik nach-Weitere Anforderungen der Verarbeitung der eGK zulesen.  ationsvorschriften gelten verbindlich für die Er-Die im weiteren Verlauf dargestellten Transform stellung der vertragsärztlichen Abrechnungsunterlagen. Sie beinhalten jedoch keine Restriktio- nen oder Vorschriften hinsichtlich der Art und Form der Datenhaltung in einem Praxisverwal- tungssystem.
+fachlichen Inhalte zur
 
-**1.2 Gematik-Referenz**
+Die in diesem Dokument definierten Vorschriften beziehen sich auf die Verarbeitung der Versichertenstammdaten zum Zwecke der vertragsärztlichen Abrechnung.  sind in der Dokumentation der gematik nach-
 
--Produktivbetriebs (OPB) der gematik.  Hier getroffenen Festlegungen beziehen sich auf die Dokumentenlandkarte, Kapitel 4.1, Fach- daten VSD des jeweils aktuellen Releases des Online Nähre Informationen unter [https://fachportal.gematik.de/](https://fachportal.gematik.de/).     **1.3 Zeichensatz**
+Weitere Anforderungen der Verarbeitung der eGK zulesen.
+
+ationsvorschriften gelten verbindlich für die Er-
+
+Die im weiteren Verlauf dargestellten Transform stellung der vertragsärztlichen Abrechnungsunterlagen. Sie beinhalten jedoch keine Restriktio-
+
+nen oder Vorschriften hinsichtlich der Art und Form der Datenhaltung in einem Praxisverwal- tungssystem.
+
+## 1.2 Gematik-Referenz
+
+-Produktivbetriebs (OPB) der gematik.
+
+Hier getroffenen Festlegungen beziehen sich auf die Dokumentenlandkarte, Kapitel 4.1, Fach- daten VSD des jeweils aktuellen Releases des Online Nähre Informationen unter [https://fachportal.gematik.de/](https://fachportal.gematik.de/).
+
+## 1.3 Zeichensatz
 
 Aufgrund der Einschränkung der zulässigen Zeichen aus dem 7 -bit-Code gemäß DIN 66003  auf der KVK sowie der Übereinstimmung der Zeichensätze zwischen eGK und KVDT (jeweils  ISO 8859-15) besteht vollständige Kompatibilität zwischen den Zeichensätzen.
 
@@ -166,11 +228,9 @@ Aufgrund der Einschränkung der zulässigen Zeichen aus dem 7 -bit-Code gemäß 
 
 ---
 
-**2**
+# 2 Verwendung der Versichertenstammdaten
 
-## Verwendung der Versichertenstammdaten
-
-**2.1 Übernahme der Versichertenstammdaten in die Abrechnung**
+## 2.1 Übernahme der Versichertenstammdaten in die Abrechnung
 
 Auf der eGK und in der vertragsärztlichen Abrechnung kommen unterschiedliche Schnittstel- lenfamilien zum Einsatz (XML-/xDT-Schnittstellen). Konformität wird auf Datenfeldebene  (KVDT-Referenz-Design) hergestellt, ersetzt jedoch nicht die Übergabe zwischen den Schnitt- stellen.
 
@@ -182,11 +242,11 @@ Im Folgenden werden die notwendigen Zuordnungen und ggf. erforderlichen Transfor
 
 -Versionen sowie der  ferner ein Mapping der Datenobjekte
 
-**2.2 USE-CASES**
+## 2.2 USE-CASES
 
 Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabellen darge- stellt.
 
-**2.2.1 Einlesen der eGK**
+### 2.2.1 Einlesen der eGK
 
 **2.2.1.1 VSD-Version 5.2.0 in KVDT-Referenz-Design mappen**
 
@@ -236,7 +296,7 @@ gung code mer laendercode gung
 | Geschützte Versichertendaten (EF.GVD) |  |  |  |  |  |  |  | | | | |
 | UC_GeschuetzteVersichertendatenXML |  |  |  |  |  |  |  | | | | |
 | CDMVersion | „5.2.0“ | n/a |  |  |  |  |  |  | | | |
-| /BesonderePerso- | 0..1 | 2 | n | 4,6,7,8,9 | Codierung nach Tabelle 2 | 4131 | BesonderePerso- | 1. 1 | 2 | a | 00, 04, 06, |
+| /BesonderePerso- | 0..1 | 2 | n | 4,6,7,8,9 | Codierung nach Tabelle 2 | 4131 | BesonderePerso- | 1..1 | 2 | a | 00, 04, 06, |
 | /DMP_Kennzeich- | 0..1 | 1..2 | n | 1,2,3,4,5,6,7, | Codierung nach Tabelle 3 | 4132 | DMP_Kennzeich- | 1..1 | 2 | a | 00, 01, 02, |
 | /RuhenderLeis- | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | //Beginn | 1..1 | 8 | n | YYYYMMDD | n/a |  |  |  |  |  |  |
@@ -323,7 +383,9 @@ DMP-Kennzeichen VSD 520 Codierung gemäß KVDT VSD520 Bedeutung nary disease)
 
 **Tabelle 3: Transformation DMP-Kennzeichen VSD**
 
-**2.2.2 Einlesen der KVK**  Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der  GKV verloren und darf somit nur noch im Bereich der Sonstigen Kostenträger verarbeitet wer- den.
+### 2.2.2 Einlesen der KVK
+
+Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der  GKV verloren und darf somit nur noch im Bereich der Sonstigen Kostenträger verarbeitet wer- den.
 
 **2.2.2.1 KVK in KVDT-Referenz-Design mappen**
 
@@ -375,7 +437,11 @@ DMP-Kennzeichen VSD 520 Codierung gemäß KVDT VSD520 Bedeutung nary disease)
 | KVK-Codierung | Codierung gemäß KVDT |
 |---|---|
 
-1 liefert ggf. nicht in allen Fällen das optimale Ergebnis zurück  2 liefert nicht in jeglicher Schreibweise das gewünschte Ergebnis, z.B. „103 A“ anstatt „103A“ 3 der Rechtskreis mit den Ausprägungen 1, 9 entfällt
+1 liefert ggf. nicht in allen Fällen das optimale Ergebnis zurück
+
+2 liefert nicht in jeglicher Schreibweise das gewünschte Ergebnis, z.B. „103 A“ anstatt „103A“
+
+3 der Rechtskreis mit den Ausprägungen 1, 9 entfällt
 
 **VSD520**
 
@@ -397,9 +463,13 @@ code code gung ,X,A,C,K,L,E, N,D,F,S,P tains(Straßenname ‚Postfach‘ left(L�
 
 Die Vorgaben zu KVK werden zum nächstmöglichen Zeitpunkt in separate Spezifikationen zur  KVK überführt.
 
-**2.2.3 Mobiles Einsatzszenario**  Im mobilen Einsatzszenario werden zusätzlich die Datenobjekte Einlesedatum (tag ‘91‘) und  Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an die P tusVD) im Zwischenspeicher des Kartenterminals angehängt.
+### 2.2.3 Mobiles Einsatzszenario
 
-Diese Datenobjekte sind gemäß BMV Abrechnungsdatensatz zu übernehmen. Folgende Tabellen zeigen das jeweilige Mapping in  Abhängigkeit der Ausbaustufe des einzusetzenden mobilen Kartenterminals.
+Im mobilen Einsatzszenario werden zusätzlich die Datenobjekte Einlesedatum (tag ‘91‘) und  Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an die P tusVD) im Zwischenspeicher des Kartenterminals angehängt.
+
+Diese Datenobjekte sind gemäß BMV
+
+Abrechnungsdatensatz zu übernehmen. Folgende Tabellen zeigen das jeweilige Mapping in  Abhängigkeit der Ausbaustufe des einzusetzenden mobilen Kartenterminals.
 
 | Mobiles Kartenterminal (Ausbaustufe 1) |  |  | | | | | | | | | |
 | Feld | K | L | T | Ausprä- | Transformation | FK | Name | K | L | T | Ausprä- |
@@ -429,19 +499,29 @@ A - Brustkrebs (  RK 1) S - COPD (  RK 1) C - Brustkrebs (  RK 9) P - COPD (  RK
 
 **Tabelle 8: Zwischenspeicher mobKT  Ausbaustufe 2**
 
-**2.3 Bedruckung des Personalienfeldes und des verkürzten Persona-**
+## 2.3 Bedruckung des Personalienfeldes und des verkürzten Persona- lienfeldes
 
-### lienfeldes
+Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrech- nungsunterlagen maschinell auswertbar, d.h. beleglesefähig, zu erstellen. Zu diesem Zweck  sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.
 
-Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrech- nungsunterlagen maschinell auswertbar, d.h. beleglesefähig, zu erstellen. Zu diesem Zweck  sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.  Die Druckzeilen 3, 4, 5 des Personalienfeldes beinhalten keine fixen Druckpositionen. Die  Druckzeilen werden durch Aneinanderreihung der einzelnen Datenobjekte gefüllt. Die Trennung  der jeweiligen Feldinhalte erfolgt durch Blank. Um die Maximallänge der jeweiligen Druckzeile  nicht zu überschreiten, werden ggf. notwendige Kürzungsregeln festgelegt (siehe Tabelle 9 die überwiegend außerhalb des Regelfalles notwendig werden.
+Die Druckzeilen 3, 4, 5 des Personalienfeldes beinhalten keine fixen Druckpositionen. Die  Druckzeilen werden durch Aneinanderreihung der einzelnen Datenobjekte gefüllt. Die Trennung
 
-**2.3.1 Schriftart**  Vorgegeben sind die Monotype-Schriftarten Courier bzw. Courier New. Bei Einsatz von Nadel- druckern ist zusätzlich der Modus NLQ Mindestvoraussetzung.  Die Zeichendichte ist mit 10 Zeichen/Zoll definiert, das entspricht der Schriftgröße 12.
+der jeweiligen Feldinhalte erfolgt durch Blank. Um die Maximallänge der jeweiligen Druckzeile  nicht zu überschreiten, werden ggf. notwendige Kürzungsregeln festgelegt (siehe Tabelle 9
 
-**2.3.2 Musterbeispiel für die Bedruckung des Personalienfeldes**   123456789012345678901234567890
+die überwiegend außerhalb des Regelfalles notwendig werden.
 
-Zeichendichte:  10 Zeichen/Zoll
+### 2.3.1 Schriftart
 
-Schriftart:  Courier (New), NLQ
+Vorgegeben sind die Monotype-Schriftarten Courier bzw. Courier New. Bei Einsatz von Nadel- druckern ist zusätzlich der Modus NLQ Mindestvoraussetzung.
+
+Die Zeichendichte ist mit 10 Zeichen/Zoll definiert, das entspricht der Schriftgröße 12.
+
+### 2.3.2 Musterbeispiel für die Bedruckung des Personalienfeldes 123456789012345678901234567890
+
+Zeichendichte: 10 Zeichen/Zoll
+
+Schriftart:
+
+Courier (New), NLQ
 
 | 101234567 A123456789    123456789 123456499  01.10.16 | Krankenkasse bzw. Kostenträger   Testort-Musterkasse/SVA     72 |
 |---|---|
@@ -451,28 +531,51 @@ Schriftart:  Courier (New), NLQ
 
 **Abbildung 2: eGK-konforme Bedruckung des Personalienfelds**
 
-VSD520 gung gung 5080601  D 12345 Musterhausen     12/20 Versicherten-Nr. Status Arzt-Nr Datum Erläuterungen:   Zeile 1: KostentraegerName (inkl. KTAB-Kürzel für Besondere Personengruppen gemäß Kos- tenträgerstammdatei der KBV), WOP   Zeile 2: Nachname
+Erläuterungen:
 
+Zeile 1: KostentraegerName (inkl. KTAB-Kürzel für Besondere Personengruppen gemäß Kos- tenträgerstammdatei der KBV), WOP
+
+Zeile 2: Nachname
+
+VSD520 gung gung 5080601  D 12345 Musterhausen     12/20 Versicherten-Nr. Status Arzt-Nr  Datum
 
 ---
 
-Zeile 3: Titel, Vorname, Namenszusatz,  2 Zeichen), Geburtsdatum   Zeile 4: Straßenname, Hausnummer  Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende   Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonen- gruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage  Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum
+Zeile 3: Titel, Vorname, Namenszusatz,
+
+2 Zeichen), Geburtsdatum
+
+Zeile 4: Straßenname, Hausnummer
+
+Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
+
+Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonen- gruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage
+
+Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum
 
 **2.3.3 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes**
 
 |  |  |  |  |
 |---|---|---|---|
 
-|  | Name,  Vorname des Versicherten | Kostenträgerkennung 101234567 | Versicherten-Nr. |
+|  | Name,  Vorname des Versicherten | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
 
 **Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds**
 
-Erläuterungen:   Spalte 1: Nachname, Vorname   Spalte 2: Kostentraegerkennung   Spalte 3: Versicherten_ID
+Erläuterungen:
 
-**2.3.4 Druckvorschrift**
+Spalte 1: Nachname, Vorname
 
-**2.3.4.1 Ausgangsformat für Druckvorschrift**  Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu dru- ckenden Datenobjekte
+Spalte 2: Kostentraegerkennung
+
+Spalte 3: Versicherten_ID
+
+### 2.3.4 Druckvorschrift
+
+#### 2.3.4.1 Ausgangsformat für Druckvorschrift
+
+Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu dru- ckenden Datenobjekte
 
 im Zielformat mit VSD Druckvorschriften daher zunächst ein Mapping, wie in den vora vorzunehmen.
 
@@ -496,11 +599,13 @@ Verlängerung des nutzbaren Bereichs um
 
 ngegangenen Kapiteln erläutert
 
-Schriftart:  Courier (New), NLQ
+Schriftart:
 
-Zeichendichte:  10 Zeichen/Zoll
+Courier (New), NLQ
 
-123456789012345678901234 123456789              123456789012 Mustermann-Müller, Johan A123456789 ab 24 kürzen . VSD-Version bereits
+Zeichendichte: 10 Zeichen/Zoll
+
+123456789012345678901234 123456789              123456789012 Mustermann-Müller, Johan 101234567 A123456789 ab 24 kürzen . VSD-Version bereits
 
 
 ---
@@ -519,7 +624,11 @@ Zeichendichte:  10 Zeichen/Zoll
 |  | Lebenslange Arztnummer | 11-19 | linksbündig, numerisch |
 |  | Tagesdatum | 22-29 | Format TT.MM.JJ |
 
-: „Postfach“ Postfachnummer den:  (Straßenname) = Max 30 - Länge(Hausnummer) handen:  (Straßenname) = Max  (Ort) = 24 Max Länge(Wohnsitzlaendercode)  Länge(Postleitzahl)  (Ort) = 24 Max Länge(Postleitzahl) kennung) < 9  Stringverket- tung(‚10‘, Kostentraegerken- nung) möglich:  1“ satzverordnungskennzei- „11“ 7“ satzverordnungskennzei- „17“ 4“ zeichen mit Ersatzverord- nungskennzeichen „14“ näre Behandlung „06“ kennzeichen 0“ kennzeichen „00“5 nur zulässig, wenn keine Straßenadresse vorhanden  6 nur zulässig, wenn keine Straßenadresse vorhanden  7 Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä
+5 nur zulässig, wenn keine Straßenadresse vorhanden
+
+6 nur zulässig, wenn keine Straßenadresse vorhanden
+
+: „Postfach“ Postfachnummer den:  (Straßenname) = Max 30 - Länge(Hausnummer) handen:  (Straßenname) = Max  (Ort) = 24 Max Länge(Wohnsitzlaendercode)  Länge(Postleitzahl)  (Ort) = 24 Max Länge(Postleitzahl) kennung) < 9  Stringverket- tung(‚10‘, Kostentraegerken- nung) möglich:  1“ satzverordnungskennzei- „11“ 7“ satzverordnungskennzei- „17“ 4“ zeichen mit Ersatzverord- nungskennzeichen „14“ näre Behandlung „06“ kennzeichen 0“ kennzeichen „00“7 Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä
 
 
 ---
@@ -536,11 +645,9 @@ Zeichendichte:  10 Zeichen/Zoll
 
 **Tabelle 10: Druckpositionen im verkürzten Personalienfeld**
 
-**2.4 Sonstige Inhalte der eGK**
+## 2.4 Sonstige Inhalte der eGK
 
-**2.4.1**
-
-**Prüfungsnachweis zum VSD**
+**2.4.1 Prüfungsnachweis zum VSD**
 
 | eGK |  | KVDT | | | | | | | | | |
 | Feld | K | L | T | Ausprä- | Transformation | FK | Name | K | L | T | Ausprä- |
@@ -557,8 +664,32 @@ Leerzeichen getrennt) zen (n ist musterspezifisch) tentraegerkennung) < 9 String
 
 ---
 
-**3**
+# 3 Literaturverzeichnis
 
-### Literaturverzeichnis
+gematik. (2019). *Spezifikation - Technische Vorgaben.*
 
-gematik. (2019). *Spezifikation - Technische Vorgaben.*  [https://fachportal.gematik.de/spezifikationen/](https://fachportal.gematik.de/spezifikationen/).  GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung  - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung  und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00.  GKV-SV, KBV, KZBV. (2009). *Technische Spezifikation der Versichertenkarte;*  *Version 2.08.*  KBV. (2019). *Bundesmantelvertrag - Ärzte (BMV-Ä).*  [http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).  KBV. (2019). *Bundesmantelvertrag (BMV-Ä) Anlage 4a - Vereinbarung zum Inhalt und*  *zur Anwendung der elektronischen Gesindheitskarte.*  [http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).  KBV. (2019). *Datensatzbeschreibung KVDT.* [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Abrechnung/KBV_ITA_VGEX_Datensatzbeschreibung_KVDT.pdf.  KBV. (2019). *Vereinbarung über Vordrucke für die vertragsärztliche Versorgung*  *(Anlage 2 BMV-Ä).* [http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).
+[https://fachportal.gematik.de/spezifikationen/](https://fachportal.gematik.de/spezifikationen/).
+
+GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung  - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung  und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00.
+
+GKV-SV, KBV, KZBV. (2009). *Technische Spezifikation der Versichertenkarte;*
+
+*Version 2.08.*
+
+KBV. (2019). *Bundesmantelvertrag - Ärzte (BMV-Ä).*
+
+[http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).
+
+KBV. (2019). *Bundesmantelvertrag (BMV-Ä) Anlage 4a - Vereinbarung zum Inhalt und*
+
+*zur Anwendung der elektronischen Gesindheitskarte.*
+
+[http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).
+
+KBV. (2019). *Datensatzbeschreibung KVDT.* [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+
+update/Abrechnung/KBV_ITA_VGEX_Datensatzbeschreibung_KVDT.pdf.
+
+KBV. (2019). *Vereinbarung über Vordrucke für die vertragsärztliche Versorgung*
+
+*(Anlage 2 BMV-Ä).* [http://www.kbv.de/html/bundesmantelvertrag.php](http://www.kbv.de/html/bundesmantelvertrag.php).

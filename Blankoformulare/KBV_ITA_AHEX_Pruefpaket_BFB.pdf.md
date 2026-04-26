@@ -20,11 +20,85 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Zertifizierungsdokumente  1.5 Prüfunterlagen  1.5.1 Verzeichnisstruktur  1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente  1.6 Prüfvorgaben  1.6.1 Prüfstammdateien  1.6.2 Vorbereitungen  1.6.3 Versichertendaten  1.6.4 Auflistung der Prüffälle  1.6.5 Praxisdaten/Arztstempel  1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)  1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname:  XML_37)  1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:  XML_40)
+1.1 Rechtsgrundlage
+
+1.2 Zertifizierungsablauf
+
+1.3 Zertifizierungsportal
+
+1.4 Zertifizierungsdokumente
+
+1.5 Prüfunterlagen  1.5.1 Verzeichnisstruktur
+
+1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente
+
+1.6 Prüfvorgaben  1.6.1 Prüfstammdateien 1.6.2 Vorbereitungen
+
+1.6.3 Versichertendaten
+
+1.6.4 Auflistung der Prüffälle 1.6.5 Praxisdaten/Arztstempel
+
+1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)
+
+1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname:  XML_37)
+
+1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:  XML_40)
 
 **2** **PRÜFFÄLLE**
 
-2.1 Muster 02  Verordnung von Krankenhausbehandlung  2.2 Muster 03  Zeugnis über den mutmaßlichen Tag der Entbindung  2.3 Muster 04  Verordnung einer Krankenbeförderung  2.4 Muster 05  Abrechnungsschein  2.5 Muster 06  Überweisungsschein  2.6 Muster 07  Überweisung: Vor Aufnahme einer Psychotherapie zur Abklärung somatischer  Ursachen  2.7 Muster 08  Sehhilfenverordnung  2.8 Muster 08A  Verordnung einer vergrößernden Sehhilfe  2.9 Muster 09  Ärztliche Bescheinigung für die Gewährung von Mutterschaftsgeld bei Frühge burten  2.10 Muster 10 und 10L - Überweisungsschein für Auftragsleistungen  2.11 Muster 10A  Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften 2.12 Muster 11  Bericht für den medizinischen Dienst  2.13 Muster 12  Verordnung häuslicher Krankenpflege  2.14 Muster 13  Heilmittelverordnung  2.15 Muster 15  Ohrenärztliche Verordnung einer Hörhilfe  2.16 Muster 19  Notfall-/Vertretungsschein  2.17 Muster 20  Wiedereingliederung in das Erwerbsleben  2.18 Muster 21  Krankengeld bei Erkrankung eines Kindes  2.19 Muster 22  Konsiliarbericht vor Aufnahme einer Psychotherapie  2.20 Muster 25 - Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten gem. § 23  Abs. 2 SGB V  2.21 Muster 26  Verordnung Soziotherapie gem. § 37a SGB V  2.22 Muster 27  Soziotherapeutischer Betreuungspl. gem. § 37a SGB V  2.23 Muster 28  Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie 2.24 Muster 36  Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V 2.25 Muster 39  Krebsfrüherkennung Zervix-Karzinom
+2.1 Muster 02  Verordnung von Krankenhausbehandlung
+
+2.2 Muster 03  Zeugnis über den mutmaßlichen Tag der Entbindung
+
+2.3 Muster 04  Verordnung einer Krankenbeförderung
+
+2.4 Muster 05  Abrechnungsschein
+
+2.5 Muster 06  Überweisungsschein
+
+2.6 Muster 07  Überweisung: Vor Aufnahme einer Psychotherapie zur Abklärung somatischer
+
+Ursachen
+
+2.7 Muster 08  Sehhilfenverordnung
+
+2.8 Muster 08A  Verordnung einer vergrößernden Sehhilfe
+
+2.9 Muster 09  Ärztliche Bescheinigung für die Gewährung von Mutterschaftsgeld bei Frühge
+
+burten
+
+2.10 Muster 10 und 10L - Überweisungsschein für Auftragsleistungen
+
+2.11 Muster 10A  Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
+
+2.12 Muster 11  Bericht für den medizinischen Dienst
+
+2.13 Muster 12  Verordnung häuslicher Krankenpflege
+
+2.14 Muster 13  Heilmittelverordnung
+
+2.15 Muster 15  Ohrenärztliche Verordnung einer Hörhilfe
+
+2.16 Muster 19  Notfall-/Vertretungsschein
+
+2.17 Muster 20  Wiedereingliederung in das Erwerbsleben
+
+2.18 Muster 21  Krankengeld bei Erkrankung eines Kindes
+
+2.19 Muster 22  Konsiliarbericht vor Aufnahme einer Psychotherapie
+
+2.20 Muster 25 - Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten gem. § 23  Abs. 2 SGB V
+
+2.21 Muster 26  Verordnung Soziotherapie gem. § 37a SGB V
+
+2.22 Muster 27  Soziotherapeutischer Betreuungspl. gem. § 37a SGB V
+
+2.23 Muster 28  Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie
+
+2.24 Muster 36  Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
+
+2.25 Muster 39  Krebsfrüherkennung Zervix-Karzinom
 
 **6**
 
@@ -38,20 +112,68 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 18  19  19
 
-19  20  21  21  22  24  25  26  26  26  27 27  27  28  28  28  29
+19  20  21  21  22  24  25  26  26  26  27 27  27  28
+
+28
+
+28  29
 
 
 ---
 
-Muster 50  Anfrage Zuständigkeit einer anderen Kasse  Muster 51  Anfrage Zuständigkeit eines Sonstigen Kostenträgers  Muster 52  Anfrage bei Fortbestehen der Arbeitsunfähigkeit  2.29 Muster 53  Anfrage zum Zusammenhang von Arbeitsunfähigkeiten  2.30 Muster 55  Bescheinigung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V 2.31 Muster 56  Antrag auf Kostenübernahme  2.32 Muster 61  Verordnung von medizinischer Rehabilitation / Prüfung des zuständigen Rehabi litationsträgers  2.33 Muster 62A  Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw.  Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA  2.34 Muster 62B  Verordnung außerklinischer Intensivpflege  2.35 Muster 62C  Behandlungsplan für außerklinische Intensivpflege  2.36 Muster 63  Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) 2.37 Muster 64  Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V 2.38 Muster 65  Ärztliches Attest Kind  2.39 Muster 70  Behandlungsplan  2.40 Muster 70 A  Folge-Behandlungsplan
+Muster 50  Anfrage Zuständigkeit einer anderen Kasse
+
+Muster 51  Anfrage Zuständigkeit eines Sonstigen Kostenträgers
+
+Muster 52  Anfrage bei Fortbestehen der Arbeitsunfähigkeit
+
+2.29 Muster 53  Anfrage zum Zusammenhang von Arbeitsunfähigkeiten
+
+2.30 Muster 55  Bescheinigung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V
+
+2.31 Muster 56  Antrag auf Kostenübernahme
+
+2.32 Muster 61  Verordnung von medizinischer Rehabilitation / Prüfung des zuständigen Rehabi
+
+litationsträgers
+
+2.33 Muster 62A  Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw.
+
+Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA
+
+2.34 Muster 62B  Verordnung außerklinischer Intensivpflege
+
+2.35 Muster 62C  Behandlungsplan für außerklinische Intensivpflege
+
+2.36 Muster 63  Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
+
+2.37 Muster 64  Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+
+2.38 Muster 65  Ärztliches Attest Kind
+
+2.39 Muster 70  Behandlungsplan
+
+2.40 Muster 70 A  Folge-Behandlungsplan
 
 **3** **MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)**
 
-3.1 Muster PTV 1  Antrag auf Psychotherapie  3.2 Muster PTV2  Angaben Therapeut*in  3.3 Muster PTV 11  Ihre Individuelle information zur Psychotherapeutischen Sprechstunde 3.4 Muster PTV12  Anzeige einer Akutbehandlung
+3.1 Muster PTV 1  Antrag auf Psychotherapie
+
+3.2 Muster PTV2  Angaben Therapeut*in
+
+3.3 Muster PTV 11  Ihre Individuelle information zur Psychotherapeutischen Sprechstunde
+
+3.4 Muster PTV12  Anzeige einer Akutbehandlung
 
 **4** **MUSTER DER KV NORDRHEIN**
 
-4.1 Muster KV5  Aerztlicher_Kurzbericht  4.2 Muster KV6  AAPV_Anlage_3a  4.3 Muster KV7  AAPV_Anlage_3b  4.4 Muster KV9  AAPV_Anlage_2  4.5 Muster KV10  AAPV_Anlage_3
+4.1 Muster KV5  Aerztlicher_Kurzbericht 4.2 Muster KV6  AAPV_Anlage_3a
+
+4.3 Muster KV7  AAPV_Anlage_3b
+
+4.4 Muster KV9  AAPV_Anlage_2
+
+4.5 Muster KV10  AAPV_Anlage_3
 
 | **5** |  | **ÜBERGREIFENDE** | **PRÜFFÄLLE** |  |  | **44** |
 |---|---|---|---|---|---|---|
@@ -69,15 +191,23 @@ Muster 50  Anfrage Zuständigkeit einer anderen Kasse  Muster 51  Anfrage Zustä
 
 **7** **REFERENZIERTE DOKUMENTE**
 
-30  30  30  30  30  31
+30  30  30  30
+
+30  31
 
 31
 
-31  32  33  34  35  36  36  37
+31  32  33
+
+34
+
+35  36  36  37
 
 **38**
 
-38  38  40  41
+38  38
+
+40  41
 
 **42**
 
@@ -90,9 +220,15 @@ Muster 50  Anfrage Zuständigkeit einer anderen Kasse  Muster 51  Anfrage Zustä
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS 8
 
-8 Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster  9 Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L  Abbildung 3: Testdatenvalidierung  Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10  und 10L 54
+Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster 9
+
+Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
+
+Abbildung 3: Testdatenvalidierung  Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10
+
+und 10L 54
 
 
 ---
@@ -113,75 +249,135 @@ Systemdatums sowie der Datumsangaben Systemdatums Muster 12 und 21 Muster 10 der
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Blankoformularbedruckung.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
+
+Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Die Rechtsgrundlage für die Zertifizierung der Blankoformularbedruckung ergibt sich aus § 42 Abs. 1 S. 1  des BMV-Ä.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Blankoformularbedruckung umfasst mehrere Muster, die im Rahmen einer Ergebnisprüfung zertifiziert  werden. Welche dieser Muster der Zertifizierungsgegenstand zur Unterstützung der  Blankoformularbedruckung beinhalten muss, ist vom Einsatzgebiet des Zertifizierungsgegenstandes  abhängig und demzufolge dem Antragsteller freigestellt. Allerdings sind alle Anforderungen zu den  jeweiligen Mustern, die mit dem Antrag auf Zertifizierung beantragt wurden, vollständig und fehlerfrei  umzusetzen.
+Die Blankoformularbedruckung umfasst mehrere Muster, die im Rahmen einer Ergebnisprüfung zertifiziert
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+werden. Welche dieser Muster der Zertifizierungsgegenstand zur Unterstützung der  Blankoformularbedruckung beinhalten muss, ist vom Einsatzgebiet des Zertifizierungsgegenstandes  abhängig und demzufolge dem Antragsteller freigestellt. Allerdings sind alle Anforderungen zu den  jeweiligen Mustern, die mit dem Antrag auf Zertifizierung beantragt wurden, vollständig und fehlerfrei
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung (Ergänzende  Erklärung) mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig  ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV  eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen  und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den  vorab via Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) hochladen.   2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+umzusetzen.
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer
+
+Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung (Ergänzende
+
+- Erklärung) mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig  ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV  eingereicht werden.
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen
+
+und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den  vorab via Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) hochladen.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
+
+- fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 
 ---
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen. Zur Klärung der  meistgestellten Fragen zur Zertifizierung in der Blankoformular-bedruckung haben wir ein FAQ-Dokument  erstellt. Dieses finden Sie auf unserem FTP-Server unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Blankoformulare/KBV_ITA_VGEX_FAQ_BFB.pdf
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen. Zur Klärung der
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+meistgestellten Fragen zur Zertifizierung in der Blankoformular-bedruckung haben wir ein FAQ-Dokument
+
+erstellt. Dieses finden Sie auf unserem FTP-Server unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
+
+update/Blankoformulare/KBV_ITA_VGEX_FAQ_BFB.pdf
+
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung (Ergänzende Erklärung) hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben  (Menüpunkt: „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn  Aktivitäten der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung (Ergänzende Erklärung) hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben  (Menüpunkt: „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn
+
+Aktivitäten der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten
+
+Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung keine Prüfung auf  Vollständigkeit der eingereichten Prüfunterlagen durch.
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 6  berücksichtigt werden.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)  bereit. In diesem Zusammenhang berücksichtigen Sie bitte das vierte Kapitel Referenzierte Dokumente.
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung
+
+als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+
+Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals
+
+genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat  Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 6
+
+berücksichtigt werden.
+
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)
+
+bereit. In diesem Zusammenhang berücksichtigen Sie bitte das vierte Kapitel Referenzierte Dokumente.
 
 
 ---
 
-**PRÜFUNTERLAGEN**
+## PRÜFUNTERLAGEN
 
-In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
+In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden
 
-Der Antrag auf Zertifizierung [Unterschrieben (ohne Zugangsdaten: per Mail) ]  Die zu zertifizierenden Muster [Muster]  Die übergreifenden Prüffälle [Muster und Screenshot]
+Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis, die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
-**1.5.1** **Verzeichnisstruktur**
+- Der Antrag auf Zertifizierung [Unterschrieben (ohne Zugangsdaten: per Mail) ]
 
-Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und  Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung  1„Zert_9_<SystemID> “ erhalten. Die Struktur des ZIP-Archives sollte alle Muster beinhalten, für die im  2Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung angestrebt,  sollte das Paket die folgende Form aufweisen:
+- Die zu zertifizierenden Muster [Muster]
+
+- Die übergreifenden Prüffälle [Muster und Screenshot]
+
+### 1.5.1 Verzeichnisstruktur
+
+Die erstellten Muster sowie der Unterordner „Uebergreifend“, der die übergreifenden Prüffälle und  Screenshots enthält, sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung  1
+
+„Zert_9_<SystemID> “ erhalten. Die Struktur des ZIP-Archives sollte alle Muster beinhalten, für die im  2
+
+Antrag auf Zertifizierung die Prüfung beantragt wurde. Wird eine vollständige Zertifizierung angestrebt,  sollte das Paket die folgende Form aufweisen:
 
 Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster
 
-1 Die SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. 2 Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20,
+1 Die SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer.
+
+2 Gemeint ist die Beantragung der Prüfung der Muster 02, 03, 04, 05, 06, 07, 08, 08A, 09, 10, 10L, 10A, 11, 12, 13, 15, 19, 20,
 
 36, 39, 50, 51, 52, 53, 55, 56, 61, 62, 63, 64, 65, 70, 70A, KV5, KV6, KV7, KV9, KV10, PTV1, PTV2, PTV11 u
 
@@ -196,57 +392,109 @@ Beispiel einer gültigen ZIP-Datei mit den beantragten Mustern „0.2, 04, 10 un
 
 Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
 
-**1.5.2** **Einreichen von Prüfunterlagen als PDF-Dokumente**
+### 1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente
 
-Jede Seite eines jeden Musters wird als separate PDF-Datei erwartet. Die übergreifenden Prüffälle im  Ordner „Uebergreifend“ sind für jede Zertifizierung Pflichtprüffälle, unabhängig von der Zertifizierungsart.  Die geforderten PDF-Dokumente müssen für jedes Muster direkt in dem Hauptverzeichnis abgelegt  werden. Die erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene,  Prüfschema validierbar sein.  Folgende Dateinamenskonvention ist für die PDF-Dokumente verbindlich:  <MusterNr.>.pdf Beispiel: „20a.pdf“, „20b.pdf“, „20c.pdf“ und „20d.pdf“ für das Muster „20“
+Jede Seite eines jeden Musters wird als separate PDF-Datei erwartet. Die übergreifenden Prüffälle im
 
-Der Parameter „MusterNr.“ entspricht dem Kürzel für das jeweilige Muster (siehe dazu Abbildung 1;  „20a.pdf“ entspricht Muster 20a, „20b.pdf“ entspricht Muster 20b, usw.). Die PDF-Dateien aus Abbildung 1,  welche mit „_1“ bzw. „_2“ gekennzeichnet sind, enthalten die einzelnen Seiten der mehrseitigen Muster  (bspw. Muster 13).
+Ordner „Uebergreifend“ sind für jede Zertifizierung Pflichtprüffälle, unabhängig von der Zertifizierungsart.  Die geforderten PDF-Dokumente müssen für jedes Muster direkt in dem Hauptverzeichnis abgelegt  werden. Die erzeugten PDF-Dokumente müssen fehlerfrei gegen das aktuelle, von der KBV vorgegebene,  Prüfschema validierbar sein.
+
+Folgende Dateinamenskonvention ist für die PDF-Dokumente verbindlich:
+
+- <MusterNr.>.pdf Beispiel: „20a.pdf“, „20b.pdf“, „20c.pdf“ und „20d.pdf“ für das Muster „20“
+
+Der Parameter „MusterNr.“ entspricht dem Kürzel für das jeweilige Muster (siehe dazu Abbildung 1;
+
+„20a.pdf“ entspricht Muster 20a, „20b.pdf“ entspricht Muster 20b, usw.). Die PDF-Dateien aus Abbildung 1,
+
+welche mit „_1“ bzw. „_2“ gekennzeichnet sind, enthalten die einzelnen Seiten der mehrseitigen Muster (bspw. Muster 13).
 
 **HINWEIS**
 
 Die eingereichten PDF-Dateien sind exakt so zu benennen, wie in Abbildung 1 zu sehen.
 
-Folgende Dateinamenskonvention ist für die übergreifenden Prüffälle (siehe Kapitel 5) verbindlich:  p<Prüffall>.pdf Beispiel: „p11.pdf“ für den übergreifenden Prüffall 11
+Folgende Dateinamenskonvention ist für die übergreifenden Prüffälle (siehe Kapitel 5) verbindlich:
+
+- p<Prüffall>.pdf Beispiel: „p11.pdf“ für den übergreifenden Prüffall 11
 
 **HINWEIS**
 
-Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für den Zertifizierungsgegenstand  kein Muster 10 zertifiziert ist/wird, verwenden Sie bitte das Muster 6. Sollte dies auch nicht vorliegen,  verwenden Sie für die übergreifenden Prüffälle bitte das Muster 2a.
+Die übergreifenden Prüffälle realisieren Sie bitte auf Muster 10. Wenn für den Zertifizierungsgegenstand
 
-Bei Verwendung der PCL- oder PCX-Dateien können die entsprechenden Muster mit einer Scan-Qualität  von mindestens 600 dpi über das Zertifizierungsportal eingereicht werden.
+kein Muster 10 zertifiziert ist/wird, verwenden Sie bitte das Muster 6. Sollte dies auch nicht vorliegen,  verwenden Sie für die übergreifenden Prüffälle bitte das Muster 2a.
+
+Bei Verwendung der PCL- oder PCX-Dateien können die entsprechenden Muster mit einer Scan-Qualität
+
+von mindestens 600 dpi über das Zertifizierungsportal eingereicht werden.
 
 
 ---
 
-**15.11.2024 04.07.2024** gestellt, sofern bei den einzelnen Prüffällen kein  Das Systemdatum wird auf den  anderes Datum angegeben wird.  Als KBV-Prüfnummer verwenden Sie für das Zertifizierungsverfahren bitte die Folgende:  **Y/9/2407/36/001**
+- **15.11.2024 04.07.2024** gestellt, sofern bei den einzelnen Prüffällen kein
 
-**PRÜFVORGABEN**
+-  Das Systemdatum wird auf den  anderes Datum angegeben wird.
 
-**1.6.1** **Prüfstammdateien**
+- Als KBV-Prüfnummer verwenden Sie für das Zertifizierungsverfahren bitte die Folgende: - **Y/9/2407/36/001**
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+## PRÜFVORGABEN
 
-**1.6.2** **Vorbereitungen**
+### 1.6.1 Prüfstammdateien
 
-Die musterspezifischen Prüffälle und die übergreifenden Prüffälle des Prüfpaketes müssen bearbeitet  2a werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder  eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei  fehlerhafter Eingabe erwartet.
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
 
--Eintrag im ersten Schritt nicht vorzunehmen. Im  Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich,  bewusst eine Fehleingabe zu produzieren oder einen Muss Fehler korrigiert werden. zweiten Schritt müssen die hervorgerufenen  Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und formular-spezifische  Angaben vorgegeben. Diese Angaben müssen in den dafür bestimmten Feldern auf dem BFB-Formular bzw.  3gemäß Vorgabe im Barcode enthalten sein.
+werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung
 
-3 Siehe Vordruck-Vereinbarung Blankoformularbedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] und Technisches Handbuch  Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB]
+bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-EF.VD = allgemeine Versicherungsdaten EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
+### 1.6.2 Vorbereitungen
 
-**1.6.3** **Versichertendaten**
+Die musterspezifischen Prüffälle und die übergreifenden Prüffälle des Prüfpaketes müssen bearbeitet  2a
 
--Dateien zur Verfügung gestellt. Die Archivdatei  Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die (VSD_5.2.0_Testfaelle_Vn.n.zip) folgenden XML-Dateien mit Versichertenstammdaten
+werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder  eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei  fehlerhafter Eingabe erwartet.
+
+-Eintrag im ersten Schritt nicht vorzunehmen. Im
+
+Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich,  bewusst eine Fehleingabe zu produzieren oder einen Muss Fehler korrigiert werden.
+
+zweiten Schritt müssen die hervorgerufenen
+
+Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und formular-spezifische
+
+Angaben vorgegeben. Diese Angaben müssen in den dafür bestimmten Feldern auf dem BFB-Formular bzw.
+
+3
+
+gemäß Vorgabe im Barcode enthalten sein.
+
+3 Siehe Vordruck-Vereinbarung Blankoformularbedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] und Technisches Handbuch
+
+Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB]
+
+-
+
+-  EF.VD = allgemeine Versicherungsdaten
+
+- EF.PD = persönliche Versichertendaten
+
+- EF.GVD = geschützte Versichertendaten
+
+### 1.6.3 Versichertendaten
+
+-Dateien zur Verfügung gestellt. Die Archivdatei
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
+
+(VSD_5.2.0_Testfaelle_Vn.n.zip) folgenden XML-Dateien mit Versichertenstammdaten
 
 **HINWEIS**
 
-Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall-ID der XML-Datei  wird von der Prüffall-ID des Prüffalls abweichen.
+Die einzusetzende XML-Datei ist dem Prüffall zu entnehmen, z.B. (XML_21). Die Prüffall-ID der XML-Datei
+
+wird von der Prüffall-ID des Prüffalls abweichen.
 
 
 ---
 
-**1.6.4** **Auflistung der Prüffälle**
+### 1.6.4 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
 
@@ -309,7 +557,7 @@ Federmannssohn Radëberg
 | 4111 | Kostentraegerkennung | 100609049 |
 | 4134 | Kostentraegername | LKK Mittel- und Ostdeutschland |
 
-**Malta (Siehe XML Verzeichnisname: XML_36)**
+### Malta (Siehe XML Verzeichnisname: XML_36)
 
 
 ---
@@ -384,11 +632,9 @@ Radëberg
 
 ---
 
-2
+# 2 PRÜFFÄLLE
 
-## PRÜFFÄLLE
-
-**MUSTER 02  VERORDNUNG VON KRANKENHAUSBEHANDLUNG**
+## MUSTER 02  VERORDNUNG VON KRANKENHAUSBEHANDLUNG
 
 Prüffälle: 02a, 02b und 02c
 
@@ -404,7 +650,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.2** **MUSTER 03  ZEUGNIS ÜBER DEN MUTMAßLICHEN TAG DER ENTBINDUNG**
+## 2.2 MUSTER 03  ZEUGNIS ÜBER DEN MUTMAßLICHEN TAG DER ENTBINDUNG
 
 Prüffälle: 03a und 03b
 
@@ -418,7 +664,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.3** **MUSTER 04  VERORDNUNG EINER KRANKENBEFÖRDERUNG**
+## 2.3 MUSTER 04  VERORDNUNG EINER KRANKENBEFÖRDERUNG
 
 Prüffall: 04
 
@@ -466,7 +712,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.4** **MUSTER 05  ABRECHNUNGSSCHEIN**
+## 2.4 MUSTER 05  ABRECHNUNGSSCHEIN
 
 Prüffall: 05
 
@@ -485,12 +731,14 @@ Strahlen Ausnahmefall mit b) und … und/oder Einrichtung notwendig ist wegen Qu
 
 **Formularspezifische Angaben:**
 
-Im Rahmen der Blankoformularbedruckung von Muster 5/E dürfen nur die Daten im Personalienfeld und im  Feld für den Vertragsarztstempel ausgedruckt werden. Die abrechnungsrelevanten Felder müssen leer  bleiben, da das Formular ausschließlich zum Verbleib in der Arztpraxis bestimmt ist. Die Abrechnung muss  weiterhin elektronisch erfolgen. Das Muster 5/E enthält keinen Barcode.
+Im Rahmen der Blankoformularbedruckung von Muster 5/E dürfen nur die Daten im Personalienfeld und im  Feld für den Vertragsarztstempel ausgedruckt werden. Die abrechnungsrelevanten Felder müssen leer  bleiben, da das Formular ausschließlich zum Verbleib in der Arztpraxis bestimmt ist. Die Abrechnung muss
+
+weiterhin elektronisch erfolgen. Das Muster 5/E enthält keinen Barcode.
 
 
 ---
 
-**MUSTER 06  ÜBERWEISUNGSSCHEIN**
+## MUSTER 06  ÜBERWEISUNGSSCHEIN
 
 Prüffall: 06
 
@@ -517,7 +765,9 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.6** **MUSTER 07  ÜBERWEISUNG: VOR AUFNAHME EINER PSYCHOTHERAPIE ZUR ABKLÄRUNG**  **SOMATISCHER URSACHEN**
+## 2.6 MUSTER 07  ÜBERWEISUNG: VOR AUFNAHME EINER PSYCHOTHERAPIE ZUR ABKLÄRUNG
+
+## SOMATISCHER URSACHEN
 
 Prüffall: 07
 
@@ -527,12 +777,14 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 |---|---|
 | Ausstellungsdatum | <automatisch> |
 
-Quartal | Jahr 3a SGB V -Zeichensatztest -Zeichensatztest Alle weiteren Formularfelder können beliebig ausgefüllt werden.
+Alle weiteren Formularfelder können beliebig ausgefüllt werden.
+
+Quartal | Jahr 3a SGB V -Zeichensatztest -Zeichensatztest
 
 
 ---
 
-**MUSTER 08  SEHHILFENVERORDNUNG**
+## MUSTER 08  SEHHILFENVERORDNUNG
 
 Prüffall: 08
 
@@ -545,7 +797,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.8** **MUSTER 08A  VERORDNUNG EINER VERGRÖßERNDEN SEHHILFE**
+## 2.8 MUSTER 08A  VERORDNUNG EINER VERGRÖßERNDEN SEHHILFE
 
 Prüffall: 08A
 
@@ -558,7 +810,9 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.9** **MUSTER 09  ÄRZTLICHE BESCHEINIGUNG FÜR DIE GEWÄHRUNG VON MUTTERSCHAFTSGELD BEI**  **FRÜHGEBURTEN**
+## 2.9 MUSTER 09  ÄRZTLICHE BESCHEINIGUNG FÜR DIE GEWÄHRUNG VON MUTTERSCHAFTSGELD BEI
+
+## FRÜHGEBURTEN
 
 Prüffall: 09
 
@@ -578,7 +832,7 @@ geprüft werden  geprüft werden  wesentliche erweiterte Pflegebedürftigkeit we
 
 ---
 
-**MUSTER 10 UND 10L - ÜBERWEISUNGSSCHEIN FÜR**
+## MUSTER 10 UND 10L - ÜBERWEISUNGSSCHEIN FÜR
 
 Prüffälle: 10 und 10L
 
@@ -611,7 +865,7 @@ Das Muster 10-L/E kann nur für den Fall genutzt werden, dass der erstbeauftragt
 
 Bei Nutzung von Muster 10-L/E kann zusätzlich zum Barcode, der durch die  Blankoformularbedruckung vorgegeben ist, ein durch die Laborauftragssysteme generierter Barcode im  Bereich links vom Vertragsarztstempel aufgedruckt werden. Die Angaben für die Felder  Diagnose/Verdachtsdiagnose, Befund/Medikatio des Anforderungssystems gedruckt werden. Um im Klartext die richtige Zuordnung zu gewährleisten, wird  dem Text für Diagnose/Verdachtsdiagnose ein „D:“ vorangestellt, für Befund/Medikation ein „B:“ un Auftragstext ein „A:“.
 
-**AUFTRAGSLEISTUNGEN**
+## AUFTRAGSLEISTUNGEN
 
 n und Auftrag müssen im Klartext lesbar über den Barcode
 
@@ -622,7 +876,9 @@ Quartal | Jahr -Zeichensatztest d dem
 
 ---
 
-**MUSTER 10A  ANFORDERUNGSSCHEIN FÜR LABORATORIUMSUNTERSUCHUNGEN BEI**  **LABORGEMEINSCHAFTEN**
+## MUSTER 10A  ANFORDERUNGSSCHEIN FÜR LABORATORIUMSUNTERSUCHUNGEN BEI
+
+## LABORGEMEINSCHAFTEN
 
 Prüffall: 10A
 
@@ -643,7 +899,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.12** **MUSTER 11  BERICHT FÜR DEN MEDIZINISCHEN DIENST**
+## 2.12 MUSTER 11  BERICHT FÜR DEN MEDIZINISCHEN DIENST
 
 Prüffall: 11
 
@@ -662,7 +918,7 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 ---
 
-**MUSTER 12  VERORDNUNG HÄUSLICHER KRANKENPFLEGE**
+## MUSTER 12  VERORDNUNG HÄUSLICHER KRANKENPFLEGE
 
 Prüffälle: 12a_1, 12a_2, 12b und 12c
 
@@ -749,7 +1005,7 @@ Patient/Angehörige anziehen und säubern des Patienten
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.14** **MUSTER 13  HEILMITTELVERORDNUNG**
+## 2.14 MUSTER 13  HEILMITTELVERORDNUNG
 
 Prüffälle: 13_1 und 13_2
 
@@ -781,7 +1037,7 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 ---
 
-**MUSTER 15  OHRENÄRZTLICHE VERORDNUNG EINER HÖRHILFE**
+## MUSTER 15  OHRENÄRZTLICHE VERORDNUNG EINER HÖRHILFE
 
 Prüffälle: 15_1 und 15_2
 
@@ -802,7 +1058,7 @@ Hörhilfe notwendig ausgefüllt werden.
 
 ---
 
-**MUSTER 19  NOTFALL-/VERTRETUNGSSCHEIN**
+## MUSTER 19  NOTFALL-/VERTRETUNGSSCHEIN
 
 Prüffälle: 19a, 19b und 19c
 
@@ -819,7 +1075,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.17** **MUSTER 20  WIEDEREINGLIEDERUNG IN DAS ERWERBSLEBEN**
+## 2.17 MUSTER 20  WIEDEREINGLIEDERUNG IN DAS ERWERBSLEBEN
 
 Prüffälle: 20a, 20b, 20c und 20d
 
@@ -832,7 +1088,7 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.18** **MUSTER 21  KRANKENGELD BEI ERKRANKUNG EINES KINDES**
+## 2.18 MUSTER 21  KRANKENGELD BEI ERKRANKUNG EINES KINDES
 
 Prüffälle: 21
 
@@ -852,7 +1108,7 @@ Krankheit vom Krankheit bis einschließlich
 
 ---
 
-**MUSTER 22  KONSILIARBERICHT VOR AUFNAHME EINER PSYCHOTHERAPIE**
+## MUSTER 22  KONSILIARBERICHT VOR AUFNAHME EINER PSYCHOTHERAPIE
 
 Prüffälle: 22a, 22b, 22c und 22d
 
@@ -860,7 +1116,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.20** **MUSTER 25 - ANREGUNG EINER AMBULANTEN VORSORGELEISTUNG IN ANERKANNTEN KURORTEN**  **GEM. § 23 ABS. 2 SGB V**
+## 2.20 MUSTER 25 - ANREGUNG EINER AMBULANTEN VORSORGELEISTUNG IN ANERKANNTEN KURORTEN  GEM. § 23 ABS. 2 SGB V
 
 Prüffall: 25
 
@@ -879,7 +1135,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.21** **MUSTER 26  VERORDNUNG SOZIOTHERAPIE GEM. § 37A SGB V**
+## 2.21 MUSTER 26  VERORDNUNG SOZIOTHERAPIE GEM. § 37A SGB V
 
 Prüffälle: 26a, 26b und 26c
 
@@ -896,7 +1152,7 @@ Krankheiten
 
 ---
 
-**MUSTER 27  SOZIOTHERAPEUTISCHER BETREUUNGSPL. GEM. § 37A SGB V**
+## MUSTER 27  SOZIOTHERAPEUTISCHER BETREUUNGSPL. GEM. § 37A SGB V
 
 Prüffälle: 27a, 27b und 27c
 
@@ -904,7 +1160,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.23** **MUSTER 28  VERORDNUNG BEI ÜBERWEISUNG ZUR INDIKATIONSSTELLUNG FÜR SOZIOTHERAPIE**
+## 2.23 MUSTER 28  VERORDNUNG BEI ÜBERWEISUNG ZUR INDIKATIONSSTELLUNG FÜR SOZIOTHERAPIE
 
 Prüffälle: 28a, 28b und 28c
 
@@ -917,7 +1173,9 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.24** **MUSTER 36  EMPFEHLUNG ZUR VERHALTENSBEZOGENEN PRIMÄRPRÄVENTION GEM. § 20 ABS. 5**  **SGB V**
+## 2.24 MUSTER 36  EMPFEHLUNG ZUR VERHALTENSBEZOGENEN PRIMÄRPRÄVENTION GEM. § 20 ABS. 5
+
+## SGB V
 
 Prüffall: 36
 
@@ -935,7 +1193,7 @@ Alle weiteren Formularfelder können beliebig ausgefüllt
 
 ---
 
-**MUSTER 39  KREBSFRÜHERKENNUNG ZERVIX**
+## MUSTER 39  KREBSFRÜHERKENNUNG ZERVIX
 
 Prüffall: 39
 
@@ -965,13 +1223,17 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**-KARZINOM**
+## -KARZINOM
 
 (vollständig/unvollständig/keine/unklar) oder Chemotherap… Genitales - Welche? Genitales - Wann? Hormonanwendung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht
 
 ---
 
-**ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE** **MUSTER 50**
+## ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE
+
+## MUSTER 50
+
+##
 
 Prüffall: 50
 
@@ -979,7 +1241,9 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS** **2.27** **MUSTER 51**
+## ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS
+
+## 2.27 MUSTER 51
 
 Prüffall: 51
 
@@ -987,7 +1251,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.28** **MUSTER 52  ANFRAGE BEI FORTBESTEHEN DER ARBEITSUNFÄHIGKEIT**
+## 2.28 MUSTER 52  ANFRAGE BEI FORTBESTEHEN DER ARBEITSUNFÄHIGKEIT
 
 Prüffall: 52
 
@@ -995,7 +1259,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.29** **MUSTER 53  ANFRAGE ZUM ZUSAMMENHANG VON ARBEITSUNFÄHIGKEITEN**
+## 2.29 MUSTER 53  ANFRAGE ZUM ZUSAMMENHANG VON ARBEITSUNFÄHIGKEITEN
 
 Prüffall: 53_2
 
@@ -1003,7 +1267,9 @@ Personalien Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. § 2.30** **MUSTER 55**  **62 SGB V**
+## BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. §
+
+## 2.30 MUSTER 55  62 SGB V
 
 Prüffall: 55
 
@@ -1020,7 +1286,7 @@ Seit (mindestens 4 Quartale zurückliegend) behandlungsbedürftige Dauerdiagnose
 
 ---
 
-**MUSTER 56  ANTRAG AUF KOSTENÜBERNAHME**
+## MUSTER 56  ANTRAG AUF KOSTENÜBERNAHME
 
 Prüffall: 56_1, 56_2
 
@@ -1028,7 +1294,9 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-**2.32** **MUSTER 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION / PRÜFUNG DES ZUSTÄNDIGEN**  **REHABI-LITATIONSTRÄGERS**
+## 2.32 MUSTER 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION / PRÜFUNG DES ZUSTÄNDIGEN
+
+## REHABI-LITATIONSTRÄGERS
 
 Prüffälle: 61Aa, 61Ab, 61Ba, 61Bb, 61Ca, 61Cb, 61Da
 
@@ -1052,7 +1320,9 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.33** **MUSTER 62A  ERGEBNIS DER ERHEBUNG DES BEATMUNGSENTWÖHNUNGS** **DEKANÜLIERUNGSPOTENZIALS GEMÄß AKI**
+## 2.33 MUSTER 62A  ERGEBNIS DER ERHEBUNG DES BEATMUNGSENTWÖHNUNGS
+
+## DEKANÜLIERUNGSPOTENZIALS GEMÄß AKI
 
 Prüffälle: 62Aa, 62Ab und 62Ac
 
@@ -1066,7 +1336,9 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 , 61Db, 61Ea und 61Eb
 
-**- BZW.**  **-RICHTLINIE DES G-BA**
+## - BZW.
+
+## -RICHTLINIE DES G-BA
 
 Therapieoptimierung Sekret- Speichelmanagement
 
@@ -1081,7 +1353,7 @@ Therapieoptimierung Sekret- Speichelmanagement
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.34** **MUSTER 62B  VERORDNUNG AUßERKLINISCHER INTENSIVPFLEGE**
+## 2.34 MUSTER 62B  VERORDNUNG AUßERKLINISCHER INTENSIVPFLEGE
 
 Prüffälle: 62Ba_1, 62Ba_2, 62Bb und 62Bc
 
@@ -1121,7 +1393,7 @@ perspektivisch vorliegen) festgestellt am) am) Entlassung gemäß § 10 Abs. 4 S
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.35** **MUSTER 62C  BEHANDLUNGSPLAN FÜR AUßERKLINISCHE INTENSIVPFLEGE**
+## 2.35 MUSTER 62C  BEHANDLUNGSPLAN FÜR AUßERKLINISCHE INTENSIVPFLEGE
 
 Prüffälle: 62Ca, 62Cb und 62Cc
 
@@ -1156,18 +1428,22 @@ Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.36** **MUSTER 63  VERORDNUNG SPEZIALISIERTER AMBULANTER PALLIATIVVERSORGUNG (SAPV)**
+## 2.36 MUSTER 63  VERORDNUNG SPEZIALISIERTER AMBULANTER PALLIATIVVERSORGUNG (SAPV)
 
 Prüffalle 63a_1, 63a_2
 
 Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: XML_40)
 
-(Dysphagiemanagement) strumpfhosen Alle Formularfelder können beliebig ausgefüllt werden.
+Alle Formularfelder können beliebig ausgefüllt werden.
+
+(Dysphagiemanagement) strumpfhosen
 
 
 ---
 
-**MUSTER 64  VERORDNUNG MEDIZINISCHER VORSORGE FÜR MÜTTER ODER VÄTER GEMÄß § 24**  **SGB V**
+## MUSTER 64  VERORDNUNG MEDIZINISCHER VORSORGE FÜR MÜTTER ODER VÄTER GEMÄß § 24
+
+## SGB V
 
 Prüffalle: 64Aa, 64Ab, 64Ba und 64Bb
 
@@ -1206,7 +1482,7 @@ Kontextfaktoren) -/) Ausmaß nicht näher bezeichnet Schule, Erziehungsschwierig
 
 ---
 
-**MUSTER 65  ÄRZTLICHES ATTEST KIND**
+## MUSTER 65  ÄRZTLICHES ATTEST KIND
 
 Prüffall: 65a, 65b
 
@@ -1226,7 +1502,7 @@ Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnis
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**2.39** **MUSTER 70  BEHANDLUNGSPLAN**
+## 2.39 MUSTER 70  BEHANDLUNGSPLAN
 
 Prüffälle: 70a und 70b
 
@@ -1243,7 +1519,7 @@ gende) codiert, welches zum Zeitpunkt der
 
 ---
 
-**MUSTER 70 A  FOLGE-BEHANDLUNGSPLAN**
+## MUSTER 70 A  FOLGE-BEHANDLUNGSPLAN
 
 Prüffälle: 70Aa und 70Ab
 
@@ -1253,31 +1529,42 @@ Alle Formularfelder können beliebig ausgefüllt werden.
 
 **HINWEIS**
 
-In den Barcode werden die Angaben des jeweiligen Personalienfeldes codiert, welches zum Zeitpunkt der  Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhalte des ersten Personalienfeldes (Frau Malta) in  den Barcode zu codieren.
+In den Barcode werden die Angaben des jeweiligen Personalienfeldes codiert, welches zum Zeitpunkt der
+
+Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhalte des ersten Personalienfeldes (Frau Malta) in  den Barcode zu codieren.
 
 
 ---
 
-3
+# 3 MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)
 
-## MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)
+Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch  Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV] zu beachten. Die Musterbeispiele
 
-Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch  Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV] zu beachten. Die Musterbeispiele  sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt  werden.
+sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt  werden.
 
 **HINWEIS**
 
-5] ebenfalls zu Über die hier aufgeführten Prüffälle hinaus sind die übergreifenden Prüffälle [Kapitel bearbeiten.
+5] ebenfalls zu
+
+Über die hier aufgeführten Prüffälle hinaus sind die übergreifenden Prüffälle [Kapitel bearbeiten.
 
 Die folgenden Muster zur PTV können zertifiziert werden: -  PTV 1
+
 -  PTV 2
+
 -  PTV 11
+
 -  PTV 12
 
-**ANTRAG AUF PSYCHOTHERAPIE 3.1** **MUSTER PTV 1**
+## ANTRAG AUF PSYCHOTHERAPIE
+
+## 3.1 MUSTER PTV 1
 
 Prüffälle: PTV1a, PTV1b, PTV1c_1 und PTV1c_2
 
--Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37) Personalien: Schimmelpfennig
+-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
+
+Personalien: Schimmelpfennig
 
 | FELDER | INHALT |
 |---|---|
@@ -1290,7 +1577,7 @@ Prüffälle: PTV1a, PTV1b, PTV1c_1 und PTV1c_2
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**3.2** **MUSTER PTV2  ANGABEN THERAPEUT*IN**
+## 3.2 MUSTER PTV2  ANGABEN THERAPEUTIN
 
 Prüffälle: PTV2a, PTV2b und PTV2c
 
@@ -1323,7 +1610,9 @@ Bewilligungsschritt werden beantragt Bewilligungsschritt werden beantragt Einzel
 
 ---
 
-**MUSTER PTV 11  IHRE INDIVIDUELLE INFORMATION ZUR PSYCHOTHERAPEUTISCHEN**  **SPRECHSTUNDE**
+## MUSTER PTV 11  IHRE INDIVIDUELLE INFORMATION ZUR PSYCHOTHERAPEUTISCHEN
+
+## SPRECHSTUNDE
 
 Prüffälle: PTV11a und PTV11b
 
@@ -1351,7 +1640,7 @@ Hausärztin/Hausarzt Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie
 
 ---
 
-**MUSTER PTV12**
+## MUSTER PTV12
 
 Prüffälle: PTV12a und PTV12b
 
@@ -1368,7 +1657,7 @@ Personalien: Schimmelpfennig
 | in anderer Praxis | Ja |
 | Ausstellungsdatum | 15.11.24 |
 
-**ANZEIGE EINER AKUTBEHANDLUNG**
+## ANZEIGE EINER AKUTBEHANDLUNG
 
 -Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
@@ -1377,11 +1666,9 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 ---
 
-4
+# 4 MUSTER DER KV NORDRHEIN
 
-## MUSTER DER KV NORDRHEIN
-
-**MUSTER KV5  AERZTLICHER_KURZBERICHT**
+## MUSTER KV5  AERZTLICHER_KURZBERICHT
 
 Prüffall: KV05
 
@@ -1394,7 +1681,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.2** **MUSTER KV6  AAPV_ANLAGE_3A**
+## 4.2 MUSTER KV6  AAPV_ANLAGE_3A
 
 Prüffall: KV06
 
@@ -1407,7 +1694,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.3** **MUSTER KV7  AAPV_ANLAGE_3B**
+## 4.3 MUSTER KV7  AAPV_ANLAGE_3B
 
 Prüffall: KV07
 
@@ -1425,7 +1712,7 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 ---
 
-**MUSTER KV9  AAPV_ANLAGE_2**
+## MUSTER KV9  AAPV_ANLAGE_2
 
 Prüffall: KV09
 
@@ -1438,7 +1725,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**4.5** **MUSTER KV10**
+## 4.5 MUSTER KV10
 
 Prüffall: KV10
 
@@ -1450,14 +1737,12 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-**AAPV_ANLAGE_3**
+## AAPV_ANLAGE_3
 
 
 ---
 
-5
-
-## ÜBERGREIFENDE PRÜFFÄLLE
+# 5 ÜBERGREIFENDE PRÜFFÄLLE
 
 Die folgenden Prüffälle sind zusätzlich bei jedem Zertifizierungsverfahren mit einzureichen.
 
@@ -1579,9 +1864,9 @@ Personalien: Im Ersatzverfahren zu erfassen
 |  | Bedruckungsname | BKK zum Testen |
 | 4121 | Gebührenordnung | BMÄ (2006 = 1) |
 
-**NR. 12**
+## NR. 12
 
-275 erstellen und Muster mit Personalienfeld **SAM SCHULTE**
+275 erstellen und Muster mit Personalienfeld ## SAM SCHULTE
 
 
 ---
@@ -1666,9 +1951,9 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4111 | Kostentraegerkennung | 109577507 |
 | 4131 | BesonderePersonengruppe | 09 |
 
-**NR. 15**
+## NR. 15
 
-**EIKE FLÜCHTLING**
+## EIKE FLÜCHTLING
 
 
 ---
@@ -1696,9 +1981,9 @@ Personalien: Im Ersatzverfahren zu erfassen
 | 4131 | BesonderePersonengruppe | 07 |
 | 4124 | SKT-Zusatzangabe | AL00001960 |
 
-**NR. 16**
+## NR. 16
 
-**ANDREA LANZ**
+## ANDREA LANZ
 
 
 ---
@@ -1763,20 +2048,28 @@ Personalien: Jonathan Ramirez-Sanchéz-Leon (Siehe XML Verzeichnisname: XML_41
 | 4111 | Kostentraegerkennung | 109519005 |
 | 4134 | Kostentraegername | AOK Nordost - Die Gesundheitskasse |
 
-**NR. 18**
+## NR. 18
 
-**JONATHAN RAMIREZ-SANCHÉZ-LEON**
+## JONATHAN RAMIREZ-SANCHÉZ-LEON
 
 
 ---
 
-6
+# 6 TESTDATENVALIDIERUNG
 
-## TESTDATENVALIDIERUNG
+Alle in den vorherigen Kapiteln beschriebenen Prüffälle können in der Testdatenvalidierung des  Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  Zertifizierung findet nicht statt, demzufolge ist der Ordner „Übergreifend“ im Gegensatz zur Zertifizierung
 
-Alle in den vorherigen Kapiteln beschriebenen Prüffälle können in der Testdatenvalidierung des  Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  Zertifizierung findet nicht statt, demzufolge ist der Ordner „Übergreifend“ im Gegensatz zur Zertifizierung  nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse  werden die Testergebnisse gesendet.
+nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die
 
-“ benannt werden. Die Struktur des zipDas zip-Archiv muss mit „Test_9_<SystemID>-Archives sollte alle zu  testenden Muster beinhalten. Wird eine vollständige Prüfung angestrebt, muss die Verzeichnisstruktur die  folgende Form aufweisen:
+Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse  werden die Testergebnisse gesendet.
+
+“ benannt werden. Die Struktur des zip
+
+Das zip-Archiv muss mit „Test_9_<SystemID>
+
+-Archives sollte alle zu
+
+testenden Muster beinhalten. Wird eine vollständige Prüfung angestrebt, muss die Verzeichnisstruktur die  folgende Form aufweisen:
 
 Abbildung 3: Testdatenvalidierung  Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
 
@@ -1785,9 +2078,7 @@ Bereiche, die nicht getestet werden, dürfen nicht in der .zip-Datei vorkommen.
 
 ---
 
-7
-
-## REFERENZIERTE DOKUMENTE
+# 7 REFERENZIERTE DOKUMENTE
 
 Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendig sind, stehen im Internet  zum Download unter [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/) bere Dateien und Unterlagen in der jeweils aktuellen Version: it. Sie benötigen grundsätzlich die folgenden
 

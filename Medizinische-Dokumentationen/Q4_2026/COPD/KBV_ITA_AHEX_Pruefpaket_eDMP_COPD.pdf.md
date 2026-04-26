@@ -7,26 +7,117 @@
 |  | BUNDESVEREINIGUNG DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.27  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRUEFPAKET EDMP
-
-**-COPD**
+# PRUEFPAKET EDMP-COPD
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_COPD]
 
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
-
 ---
 
 ## INHALT
 
-**ALLGEMEINES 6**
+**ALLGEMEINES**
 
-1.1 Rechtsgrundlage 6  1.2 Zertifizierungsablauf 6  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 7  1.5 Prüfunterlagen 7  1.6 Prüfvorgaben 9  Schnittstellenversionen1.6.1 9  Datumseingaben 1.6.29  1.6.3 Prüfstammdaten 9  Versichertendaten 1.6.410  1.6.5 Praxisdaten/ Arztstempel 10  1.6.6 Krankenhausdaten 10  Prüfnummer 1.6.711  1.6.8 Stammdatei der Datenannahmestellen (SDDA) 11  1.6.9 Auflistung der Prüffälle 11
+**6**
 
-**PRÜFFÄLLE 11**
+1.1 Rechtsgrundlage
 
-2.1 Prüffälle Dokumentation11  2.1.1 Prüffall 8511 11  Prüffall 8512 2.1.214  2.1.3 Prüffall 6520 16  2.2 Prüffall Systemreaktion 21  Prüffall 8514 2.2.121  2.2.2 Prüffall 8515 24  2.3 Weitere Prüffälle zum Anforderungskatalog 25  Prüffall 8530 2.3.125  2.3.2 Prüffall 8540 26
+6
+
+1.2 Zertifizierungsablauf
+
+6
+
+1.3 Zertifizierungsportal
+
+6
+
+1.4 Zertifizierungsdokumente
+
+7
+
+1.5 Prüfunterlagen
+
+7
+
+1.6 Prüfvorgaben
+
+9
+
+Schnittstellenversionen 1.6.1
+
+9
+
+Datumseingaben 1.6.2
+
+9
+
+1.6.3 Prüfstammdaten
+
+9
+
+Versichertendaten 1.6.4
+
+10
+
+1.6.5 Praxisdaten/ Arztstempel
+
+10
+
+1.6.6 Krankenhausdaten
+
+10
+
+Prüfnummer 1.6.7
+
+11
+
+1.6.8 Stammdatei der Datenannahmestellen (SDDA) 11
+
+1.6.9 Auflistung der Prüffälle 11
+
+**PRÜFFÄLLE**
+
+**11**
+
+2.1 Prüffälle Dokumentation
+
+11
+
+2.1.1 Prüffall 8511
+
+11
+
+Prüffall 8512 2.1.2
+
+14
+
+2.1.3 Prüffall 6520
+
+16
+
+2.2 Prüffall Systemreaktion
+
+21
+
+Prüffall 8514 2.2.1
+
+21
+
+2.2.2 Prüffall 8515
+
+24
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 25
+
+Prüffall 8530 2.3.1
+
+25
+
+2.3.2 Prüffall 8540
+
+26
 
 |  |  | **TESTDATENVALIDIERUNG** | **27** |
 |---|---|---|---|
@@ -37,16 +128,23 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 | 4.1 | Versichertendaten | 1 – Ersatzverfahren | 30 |
 | 4.2 | Versichertendaten | 2 – Ersatzverfahren | 31 |
 
-**REFERENZIERTE DOKUMENTE 32**
+**REFERENZIERTE DOKUMENTE**
+
+**32**
 
 Prüffall TDV8518 Versichertendaten 1 Versichertendaten 2
 
-
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8  Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8  Abbildung 3: Testdatenvalidierung 27  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
+
+Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
+
+Abbildung 3: Testdatenvalidierung 27
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 27
 
 
 ---
@@ -70,7 +168,9 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8  Abbild
 | Datumsanpassungen |  | Anpassung an | 11ff |  |  |
 |  |  |  |  | 1.22 |  |
 
-Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts 4.07 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 01.10.2026 4.06 ist ab 01.04.202 4 zu verwenden. wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.202 3 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design / Version: 1.27 / 31. März 2026
+/ Version: 1.27 / 31. März 2026
+
+Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts 4.07 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 01.10.2026 4.06 ist ab 01.04.202 4 zu verwenden. wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.202 3 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
 
 
 ---
@@ -94,12 +194,14 @@ Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüff
 | 1.13 | 15.11.2017 | KBV | Anpassung der Prüffälle  Streichung der Zusatz- | Schnittstellenversion  Übernahme der | 11ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung des Prüfpaketes wegen der übergreifenden 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des Schnittstellenwechsels in Kapitel 2 Zertifizierungsrichtlinie / Version: 1.27 / 31. März 2026
+/ Version: 1.27 / 31. März 2026
+
+Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung des Prüfpaketes wegen der übergreifenden 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des Schnittstellenwechsels in Kapitel 2 Zertifizierungsrichtlinie
 
 
 ---
 
-## ALLGEMEINES
+# ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms „COPD“.
 
@@ -107,21 +209,35 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärztlichen Vereinigungen  und Krankenkassen getroffen.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail  eingereichte Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail  eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
+
+- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -130,9 +246,13 @@ Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](htt
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragsteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+
+Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragsteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -144,36 +264,46 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
-**1.5** **PRÜFUNTERLAGEN**
+## 1.5 PRÜFUNTERLAGEN
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-**COPD-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen.   [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  6520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.    **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
+- **COPD-Unterlagen bestehend aus XML-Dokumenten:**
+
+Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen.
+
+[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  6520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert  werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei verschlüsselt  (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
+
+- **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
 
 ---
 
-### Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention
+### Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540) müssen in
 
-entsprechen. Diese werden durch den Prüfer begutachtet.  12.3
+### einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention
 
-### [PrüffallNr.] _[lfdNr.] .
+entsprechen. Diese werden durch den Prüfer begutachtet.
 
-### Teilnahmeerklärung (Prüffall 8540): TE_EWE_COPD.pdf
+- 1
+
+- 2.3
+
+-  [PrüffallNr.] _[lfdNr.] .*
+
+- Teilnahmeerklärung (Prüffall 8540): TE_EWE_COPD.pdf
 
 ### Alle Prüfunterlagen (COPD-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu
 
-übermitteln. Die
+übermitteln. Die COPD-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert
 
-### COPD-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert
+in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“
 
-in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“  enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in  dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
-
-### Zert_105_SystemID.zip
+enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in  dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden: - Zert_105_SystemID.zip
 
 ### Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
@@ -183,51 +313,125 @@ aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzli
 
 ### alleinige Umsetzung von COPD) dargestellt.
 
-391234511_20261031101010_1_COPD_407.idx   391234511_20261031101010_1_COPD_407.idx.XKM  856215715_20261031101010_1_COPD_407.idx   856215715_20261031101010_1_COPD_407.idx.XKM  Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung   391234511_20240730101010_1_COPD_407.zip.XKM XKM-Datei  COPD       Dokumentation
+391234511_20261031101010_1_COPD_407.idx
 
-IDX-Datei  XKM-Datei  IDX-Datei  XKM-Datei
+391234511_20261031101010_1_COPD_407.idx.XKM
 
-Dateiordner        Dateiordner
+856215715_20261031101010_1_COPD_407.idx
+
+856215715_20261031101010_1_COPD_407.idx.XKM
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+391234511_20240730101010_1_COPD_407.zip.XKM XKM-Datei
+
+COPD
+
+Dokumentation
+
+IDX-Datei
+
+XKM-Datei
+
+IDX-Datei
+
+XKM-Datei
+
+Dateiordner
+
+Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
-**1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild- bzw. Videoformat**
+**1 Nummer des Prüffalls**
+
+**2 Laufende Nummer**
+
+**3 Gängiges Bild- bzw. Videoformat**
 
 
 ---
 
-**1.6** **PRÜFVORGABEN**
+## 1.6 PRÜFVORGABEN
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Das gleiche Datum sollte auch als Kopfdatum (Feld  Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. 9, „origination_dttm“) benutzt werden.
+Das gleiche Datum sollte auch als Kopfdatum (Feld
 
-**1.6.1** **Schnittstellenversionen**
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. 9, „origination_dttm“) benutzt werden.
 
-Indikation **COPD:**   **4.07** verwendet werden. Ab dem **01.10.2026** muss die Schnittstellenversion    Indikation **Diabetes mellitus Typ 1:**  Ab dem **01.10.2026** muss die Schnittstellenversion **5.08** verwendet werden.   Indikation **KHK:**   **4.17** verwendet werden. Ab dem **01.10.2026** muss die Schnittstellenversion
+### 1.6.1 Schnittstellenversionen - Indikation **COPD:**
 
-**1.6.2** **Datumseingaben**
+**4.07** verwendet werden.
 
-**ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  **Gültigkeitsdatum:** Das „letzte Datum“,  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**  : Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  **Erstdokumentationsdatum** Monats, der sechs Monate vor dem aktuellen Monat liegt.  ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**Zum Beispiel: **Aktuelle Monat** **Ausnahme** Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  **auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats. Erstdokumentationsdatum (  Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  **Folgedokumentationsdatum:**  sechs Monate nach dem Erstdokumentationsdatum
+Ab dem **01.10.2026** muss die Schnittstellenversion -
 
-**Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.  **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
+-  Indikation **Diabetes mellitus Typ 1:**
 
-**1.6.3** **Prüfstammdaten**
+Ab dem **01.10.2026** muss die Schnittstellenversion **5.08** verwendet werden.
+
+- Indikation **KHK:**
+
+**4.17** verwendet werden.
+
+Ab dem **01.10.2026** muss die Schnittstellenversion
+
+### 1.6.2 Datumseingaben
+
+- **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
+
+-  **Gültigkeitsdatum:** Das „letzte Datum“,
+
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
+
+-
+
+- : Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+
+-  **Erstdokumentationsdatum** Monats, der sechs Monate vor dem aktuellen Monat liegt.
+
+- ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
+
+- Zum Beispiel: **Aktuelle Monat**
+
+- **Ausnahme**
+
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  **auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+
+- Erstdokumentationsdatum (
+
+- Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+
+-  **Folgedokumentationsdatum:**  sechs Monate nach dem Erstdokumentationsdatum -
+
+- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
+
+- „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
+
+### 1.6.3 Prüfstammdaten
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 
 ---
 
-**1.6.4** **Versichertendaten**
+### 1.6.4 Versichertendaten
 
 Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip erforderlichen Angaben
 
-Dateien sind folgendermaßen aufgebaut:  “ bereitgestellt. Die XML-
+Dateien sind folgendermaßen aufgebaut:
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
+“ bereitgestellt. Die XML-
 
-**1.6.5** **Praxisdaten/ Arztstempel**
+- EF.VD = allgemeine Versicherungsdaten
+
+- EF.PD = persönliche Versichertendaten
+
+- EF.GVD = geschützte Versichertendaten
+
+### 1.6.5 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -242,9 +446,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Telefon | 06151 / 1111111 |
 | Telefax | 06151 / 2222222 |
 
-**1.6.6** **Krankenhausdaten**
+### 1.6.6 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer angegeben werden. Die
+
+Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -258,21 +464,19 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 ---
 
-**1.6.7** **Prüfnummer**
+### 1.6.7 Prüfnummer
 
-Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
+Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - COPD = X/105/2202/36/000
 
-COPD = X/105/2202/36/000
+- KHK = X/102/2202/36/000
 
-KHK = X/102/2202/36/000
+- DM1 = X/104/2202/36/000
 
-DM1 = X/104/2202/36/000
-
-**1.6.8** **Stammdatei der Datenannahmestellen (SDDA)**
+### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
 Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
 
-**1.6.9** **Auflistung der Prüffälle**
+### 1.6.9 Auflistung der Prüffälle
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -286,9 +490,9 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 6520 | Johannes Frônkenstein | Ersatzverfahren (s. Versichertendaten 1 ) |
 | 8515 | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2 ) |
 
-## PRÜFFÄLLE
+# PRÜFFÄLLE
 
-**2.1** **PRÜFFÄLLE DOKUMENTATION**
+## 2.1 PRÜFFÄLLE DOKUMENTATION
 
 **2.1.1** **Prüffall 8511**
 
@@ -302,7 +506,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 **Hinweis**
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**   1. Versichertendaten:  Die Versichertendaten von Viktor Müller (XML_09)
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- 1. Versichertendaten:
+
+Die Versichertendaten von Viktor Müller (XML_09)
 
 Angaben in der SDDA fehlen), kann ein
 
@@ -311,7 +519,7 @@ einlesen und speichern.
 
 ---
 
-2. Anlegen einer Erst- und einer Verlaufsdokumentation
+- 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -483,13 +691,27 @@ Ja Inhalative
 
 ---
 
-**2.1.2** **Prüffall 8512**
+### 2.1.2 Prüffall 8512
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  1. Versichertendaten: Monika Kleinjung (XML_08) einlesen und speichern. Die Versichertendaten von   2. Anlegen einer Erst- und einer Verlaufsdokumentation
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**Prüffall-ID** 8512
+-
 
-**Testziel** Anlage einer Erst- und einer Verlaufsdokumentation
+- 1. Versichertendaten:
+
+Monika Kleinjung (XML_08) einlesen und speichern.
+
+Die Versichertendaten von
+
+- 2. Anlegen einer Erst- und einer Verlaufsdokumentation
+
+**Prüffall-ID**
+
+8512
+
+**Testziel**
+
+Anlage einer Erst- und einer Verlaufsdokumentation
 
 **Voraussetzung**
 
@@ -664,11 +886,17 @@ Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  201,5 Prozent des Soll Ja
 
 ---
 
-**2.1.3** **Prüffall 6520**
+### 2.1.3 Prüffall 6520
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  1. Versichertendaten:  Johannes Frônkenstein (Versichertendaten 1 einlesen und speichern. Die Versichertendaten von
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-2. Anlegen einer Erst- und einer Verlaufsdokumentation
+- 1. Versichertendaten:
+
+Johannes Frônkenstein (Versichertendaten 1 einlesen und speichern.
+
+Die Versichertendaten von
+
+- 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
 **Prüffall-ID**
 
@@ -825,7 +1053,7 @@ Weiteres Risiko für Ulcus Ulkus
 
 Ulkus (Wund)Infektion
 
-Injektionsstellen   (bei Insulintherapie)
+Injektionsstellen (bei Insulintherapie)
 
 | Intervall für künftige Fußinspektionen (bei | alle 6 sechs Monate |  |
 |---|---|---|
@@ -964,7 +1192,9 @@ CCS IV
 
 Nicht bestimmt
 
-Keine der genannten  Ereignisse
+Keine der genannten
+
+Ereignisse
 
 Nein
 
@@ -1156,11 +1386,21 @@ Ja
 
 ---
 
-**2.2** **PRÜFFALL SYSTEMREAKTION**
+## 2.2 PRÜFFALL SYSTEMREAKTION
 
-**2.2.1** **Prüffall 8514**
+### 2.2.1 Prüffall 8514
 
-**durchgeführt werden: Aktionen, die durch den Antragsteller**  1. Versichertendaten:  Die Personalien zu dem Testfall sind frei wählbar.   2. Anlegen einer Erstdokumentation
+**durchgeführt werden:**
+
+**Aktionen, die durch den Antragsteller**
+
+- 1. Versichertendaten:
+
+Die Personalien zu dem Testfall sind frei wählbar.
+
+-
+
+- 2. Anlegen einer Erstdokumentation
 
 **Prüffall-ID**
 
@@ -1245,7 +1485,9 @@ Einschreibung wegen
 
 ---
 
-3. **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
+- 3. **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**
+
+- **abgeschlossen werden kann.**
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -1342,7 +1584,7 @@ Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  Nr. 2
 
 ---
 
-4. Anlegen einer Verlaufsdokumentation am 06.07.2024 15.mm.jjjj:
+- 4. Anlegen einer Verlaufsdokumentation am 06.07.2024 15.mm.jjjj:
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -1429,9 +1671,17 @@ Nr. 15
 
 ---
 
-**2.2.2** **Prüffall 8515**
+### 2.2.2 Prüffall 8515
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  1. Versichertendaten: Martin Gruber (s. Versichertendaten 2 – Ersatzverfahren) im Ersatzverfahren erfassen.   2. Anlegen einer Erstdokumentation
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+-
+
+- 1. Versichertendaten: Martin Gruber (s. Versichertendaten 2 – Ersatzverfahren) im Ersatzverfahren erfassen.
+
+-
+
+- 2. Anlegen einer Erstdokumentation
 
 **Prüffall-ID**
 
@@ -1523,9 +1773,9 @@ Asthma bronchiale, 130 / 78 mmHg Keine der genannten Einschreibung wegen Nr. 17
 
 ---
 
-**2.3** **WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG**
+## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
 
-**2.3.1** **Prüffall 8530**
+### 2.3.1 Prüffall 8530
 
 **Prüffall-ID**
 
@@ -1562,11 +1812,23 @@ Verlaufsdokumentation angelegt.
 
 ---
 
-2.3.2 **Prüffall 8540**
+### 2.3.2 Prüffall 8540
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten** **Lija Malta (XML_36)**Die Versichertendaten von  einlesen und speichern.   gemäß Kapitel 3 des **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+-
+
+- **1.** **Versichertendaten**
+
+**Lija Malta (XML_36)**
+
+Die Versichertendaten von
+
+einlesen und speichern.
+
+- gemäß Kapitel 3 des
+
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 **PrüffallID**
 
@@ -1601,24 +1863,38 @@ COPD 1010
 
 ---
 
-## TESTDATENVALIDIERUNG
+# TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 6520“.  Zusätzlich kann optional auch der Prüffall TDV8518 in der Testdatenvalidierung genutzt werden.  Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 6520“.
+
+Zusätzlich kann optional auch der Prüffall TDV8518 in der Testdatenvalidierung genutzt werden.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
+
+demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
+
+Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_105“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen
+
+des Archivs mit „**Test**_105“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 
 ---
 
-**3.1** **PRÜFFALL TDV8518**
+## 3.1 PRÜFFALL TDV8518
 
-**Prüffall-ID** TDV8518
+**Prüffall-ID**
 
-**Testziel** Anlage einer Erstdokumentation mit der Schnittstellenversion
+TDV8518
+
+**Testziel**
+
+Anlage einer Erstdokumentation mit der Schnittstellenversion
 
 | INDIKATIONS | |
 |---|---|
@@ -1682,9 +1958,9 @@ PEZIFISCHE DATEN Empfehlung teilgenommen
 
 ---
 
-## ANHANG
+# ANHANG
 
-**4.1** **VERSICHERTENDATEN 1 – ERSATZVERFAHREN**
+## 4.1 VERSICHERTENDATEN 1 – ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -1712,7 +1988,7 @@ PEZIFISCHE DATEN Empfehlung teilgenommen
 
 ---
 
-**4.2** **VERSICHERTENDATEN 2 – ERSATZVERFAHREN**
+## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -1739,10 +2015,9 @@ PEZIFISCHE DATEN Empfehlung teilgenommen
 
 und Georg-von-Groscurth-Plaetzchen
 
-
 ---
 
-## REFERENZIERTE DOKUMENTE
+# REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -1765,9 +2040,9 @@ und Georg-von-Groscurth-Plaetzchen
 | VSD_Testfaelle_DMP_Vn.n.zip 4 | eGK Daten |
 | XPM-Paket_COPD | Prüfmodul COPD |
 
-4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0 7 / 31. März 2026
 
--Schnittstellen  - Austausch von XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Testschlüssel Stammdateien zu verwenden. 7 / 31. März 2026
+-Schnittstellen  - Austausch von XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Testschlüssel Stammdateien zu verwenden.
 
 
 ---

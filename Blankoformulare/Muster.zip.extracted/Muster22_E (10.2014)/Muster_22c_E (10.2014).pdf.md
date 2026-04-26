@@ -6,35 +6,69 @@
 
 **Kostenträgerkennung Versicherten-Nr.** **Status**
 
-**Arzt-Nr.Betriebsstätten-Nr.Datum**
+**Arzt-Nr.**
 
-**Es** **sollen** **ggf.** **Angaben** **zu** **folgenden** **Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende** **gleitbehandlung** **und/oder** **psychiatrische**
+**Betriebsstätten-Nr.**
+
+**Datum**
+
+**Es** **sollen** **ggf.** **Angaben** **zu** **folgenden**
+
+**Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen**
+
+**sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische**
+
+**Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende**
+
+**gleitbehandlung** **und/oder** **psychiatrische**
 
 ## Konsiliarbericht
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
-**Auf Veranlassung von:Arztnummer**
+**Auf Veranlassung von:**
 
-**Name des TherapeutenBetriebsstättennummer**
+**Arztnummer**
 
-**Inhalten** **gemacht** **werden** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen**
+**Name des Therapeuten**
 
-**Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasst** **bzw.** **kinder-** **undjugendpsychiatrische** **Untersuchung** **erforderlich**
+**Betriebsstättennummer**
+
+**Inhalten** **gemacht** **werden**
+
+**und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen**
+
+**Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante**
+
+**Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasst**
+
+**bzw.** **kinder-** **undjugendpsychiatrische** **Untersuchung** **erforderlich**
 
 **22**
 
 **insbe-**
 
-**Vor-** **und** **e** **Be-** **machen:**
+**Vor-** **und** **e** **Be-**
 
-**Psychiatrische** **bzw.** **kinder-** **und** **jugendpsychiatrische** **Abklärung** **ist erforderlich nicht erforderlich**
+**machen:**
+
+**Psychiatrische** **bzw.** **kinder-** **und**
+
+**jugendpsychiatrische** **Abklärung** **ist**
+
+**erforderlich**
+
+**nicht erforderlich**
 
 **Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen** **notwendig** **bzw.**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **erzeitd** **Kontra-**
 
-**Ärztliche** **Mitbehandlung** **ist** **erforderlich** **Art der Maßnahme:**
+**indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
+
+**Ärztliche** **Mitbehandlung** **ist** **erforderlich**
+
+**Art der Maßnahme:**
 
 **Ausstellungsdatum**
 
@@ -42,7 +76,9 @@
 
 **Ausfertigung für den Vertragsarzt**
 
-**erfolgt veranlasst**
+**erfolgt**
+
+**veranlasst**
 
 **veranlasst** **und** **ggf.** **welche?**
 

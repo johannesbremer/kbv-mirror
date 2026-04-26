@@ -51,7 +51,7 @@ Bei Fragen wenden Sie sich bitte an:
 
 Deutscher Olympischer Sportbund  Ressort Breiten- und Gesundheitssport
 
-### Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene
+#### Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene
 
 **Ausdauer**
 
@@ -75,13 +75,23 @@ ZUSÄTZLICH
 
 die Arzt Ärztin:
 
-E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)  Internet: gesundheit.dosb.de
+E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)
 
-Ausdauerorientierte Bewegung,  die etwas anstrengend ist,  z.. Nordic Walking, Tanzen,  B Skilanglauf
+Internet: gesundheit.dosb.de
+
+Ausdauerorientierte Bewegung,  die etwas anstrengend ist,
+
+z.. Nordic Walking, Tanzen,  B Skilanglauf
 
 ODER EINE KOMBINATION
 
-Ausdauerorientierte Bewegung,  gend ist, die anstren . Laufen, schnelles Rad Bfahren, z.
+Ausdauerorientierte Bewegung,  gend ist,
+
+die anstren . Laufen, schnelles Rad B
+
+fahren,
+
+z.
 
 schnelles Schwimmen
 

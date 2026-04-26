@@ -13,18 +13,47 @@
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
-
 ---
 
 ## INHALT
 
 **1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Zertifizierungsdokumente  1.5 Prüfunterlagen  1.6 Prüfvorgaben  1.6.1 Prüfstammdaten  1.6.2 Versichertendaten  1.6.3 Praxisdaten/ Arztstempel  1.6.4 Auflistung der Prüffälle
+1.1 Rechtsgrundlage
+
+1.2 Zertifizierungsablauf
+
+1.3 Zertifizierungsportal
+
+1.4 Zertifizierungsdokumente
+
+1.5 Prüfunterlagen
+
+1.6 Prüfvorgaben
+
+1.6.1 Prüfstammdaten
+
+1.6.2 Versichertendaten
+
+1.6.3 Praxisdaten/ Arztstempel
+
+1.6.4 Auflistung der Prüffälle
 
 **2** **PRÜFFÄLLE**
 
-2.1 Prüffall 8001  2.2 Prüffall 8002  2.3 Prüffall 8003  2.4 Prüffall 8004  2.5 Prüffall 8005  2.6 Prüffall 8006  2.7 Konditionaler Prüffall 8007
+2.1 Prüffall 8001
+
+2.2 Prüffall 8002
+
+2.3 Prüffall 8003
+
+2.4 Prüffall 8004
+
+2.5 Prüffall 8005
+
+2.6 Prüffall 8006
+
+2.7 Konditionaler Prüffall 8007
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -38,11 +67,41 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT
 
 **5**
 
-5  5  6  6  6  7  7  8  8  9
+5
+
+5
+
+6
+
+6
+
+6
+
+7
+
+7
+
+8
+
+8
+
+9
 
 **10**
 
-10  11  12  14  16  20  21
+10
+
+11
+
+12
+
+14
+
+16
+
+20
+
+21
 
 **23**
 
@@ -52,9 +111,13 @@ Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
 
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS 7
 
-7 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung  23 Abbildung 2: Testdatenvalidierung  Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 23
+
+Abbildung 2: Testdatenvalidierung
+
+Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
 
 ---
@@ -73,42 +136,64 @@ Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 z
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der e-Dokumentation „Hautkrebs-Screening [eHKS]“.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
+
+Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet die „Richtlinie des Gemeinsamen Bundesausschusses über die Früherkennung  von Krebserkrankungen (Krebsfrüherkennungs-Richtlinie / KFE-RL)“.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-**HINWEIS**
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail (pruefstelle@kbv.de) einreichen. Erst nach Erhalt der
+
+Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
+
+- fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
+
+- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+
+- **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
 
-1.3 ZERTIFIZIERUNGSPORTAL
+## 1.3 ZERTIFIZIERUNGSPORTAL
+
+##
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
+System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte
+
+beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+
+Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur zusammen mit den erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -116,45 +201,83 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei
+
+erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-1.4 ZERTIFIZIERUNGSDOKUMENTE
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente 1.5 PRÜFUNTERLAGEN
+##
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   eHKS - Unterlag en bestehend aus XML - Dokumenten:  Eine Begleitdatei (*.idx) sowie eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im  entsprechenden Verzeichnis enthält. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV  vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe  Kapitel 1.3) hochgeladen und geprüft werden.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
+
+## 1.5 PRÜFUNTERLAGEN
+
+##
+
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+
+- eHKS - Unterlag en bestehend aus XML - Dokumenten:
+
+Eine Begleitdatei (*.idx) sowie eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im
+
+entsprechenden Verzeichnis enthält. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV
+
+vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe
+
+Kapitel 1.3) hochgeladen und geprüft werden.
 
 
 ---
 
-**Videodateien und/oder Screenshots ausgewählter Anforderungen :**  Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „ Screenshots übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.  Screenshot_P_K.pdf  Wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. Szenario steht. Beispielsweise lautet der  Dateiname für Konstellation 1 aus Prüffall 8006 „Screenshot_8006_1.pdf“. Sollte es keine Konstellation  in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der Dateiname bei Prüffall 8006  „Screenshot_8006.pdf“.  -Pakets zur Verfügung zu stellen.  Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
+- **Videodateien und/oder Screenshots ausgewählter Anforderungen :**
+
+Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „ Screenshots übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.
+
+- Screenshot_P_K.pdf
+
+Wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. Szenario steht. Beispielsweise lautet der  Dateiname für Konstellation 1 aus Prüffall 8006 „Screenshot_8006_1.pdf“. Sollte es keine Konstellation  in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der Dateiname bei Prüffall 8006  „Screenshot_8006.pdf“.
+
+- -Pakets zur Verfügung zu stellen.
+
+-  Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
 
 **Ordnerstruktur**
 
-In dem Ordner XPM_Ausgabe müssen Sie alle Protokolle und Statistiken des eingesetzten Prüfmoduls, die  nach den Prüfläufen im Ordner „Listen“ zur Verfügung stehen, ablegen. Die Prüfdateien sind gemäß der  nachfolgenden Ordnerstruktur zur Verfügung zu stellen:
+In dem Ordner XPM_Ausgabe müssen Sie alle Protokolle und Statistiken des eingesetzten Prüfmoduls, die
+
+nach den Prüfläufen im Ordner „Listen“ zur Verfügung stehen, ablegen. Die Prüfdateien sind gemäß der  nachfolgenden Ordnerstruktur zur Verfügung zu stellen:
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-**1.6** **PRÜFVORGABEN**
+## 1.6 PRÜFVORGABEN
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
 
-**1.6.1** **Prüfstammdaten**
+### 1.6.1 Prüfstammdaten
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 
 ---
 
-1.6.2 Versichertendaten
+### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten 1.6.3 Praxisdaten/ Arztstempel
+folgenden XML-Dateien mit Versichertenstammdaten
+
+- EF.VD = allgemeine Versicherungsdaten
+
+- EF.PD = persönliche Versichertendaten
+
+- EF.GVD = geschützte Versichertendaten
+
+### 1.6.3 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -176,10 +299,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 - Bezeichnung: Glücklich/Müller ) Dermatologe Dermatologie Allgemeinmedizin
 
-
 ---
 
-**1.6.4**
+### 1.6.4
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -193,15 +315,13 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | 8005 | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
 | 8007 | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
 
-**Auflistung der Prüffälle**
+### Auflistung der Prüffälle
 
 Freiherr von Schaumberg
 
 ---
 
-2
-
-## PRÜFFÄLLE
+# 2 PRÜFFÄLLE
 
 **2.1** **PRÜFFALL 8001**
 
@@ -213,9 +333,13 @@ Freiherr von Schaumberg
 | Prüfunterlagen | eHKS-Dokumentationsunterlagen |
 | Hinweis |  |
 
-1. Versichertendaten:  Die Versichertendaten von Prof. Dr. Karl-Friedrich Graf Freiherr von Schaumberg (Anhang 4.1) im  Ersatzverfahren erfassen und speichern.
+- 1. Versichertendaten:
 
-2. Anlegen einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen
+Die Versichertendaten von Prof. Dr. Karl-Friedrich Graf Freiherr von Schaumberg (Anhang 4.1) im
+
+Ersatzverfahren erfassen und speichern.
+
+- 2. Anlegen einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen
 
 |  | |
 |---|---|
@@ -252,9 +376,11 @@ erten
 | Prüfunterlagen | › › |
 | Hinweis | Ergänzen Sie die fehlenden Eingaben beliebig und reichen Sie den |
 
-1. Versichertendaten:  Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
+- 1. Versichertendaten:
 
-2. Anlegen einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen
+Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
+
+- 2. Anlegen einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen
 
 |  | |
 |---|---|
@@ -278,7 +404,6 @@ erten
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
 Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten - DERMATOLOGEN - DATEN
-
 
 ---
 
@@ -500,9 +625,11 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Prüfunterlagen | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
 
-1. Versichertendaten: Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfassen und speichern.
+- 1. Versichertendaten:
 
-2. Anlegen von fehlerhaften Hautkrebs
+Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfassen und speichern.
+
+- 2. Anlegen von fehlerhaften Hautkrebs
 
 Konstellation 1:
 
@@ -514,7 +641,9 @@ Konstellation 1:
 |  | |
 | Untersuchungsdatum |  |
 
--Dokumentationen durch einen Dermatologen
+-
+
+- -Dokumentationen durch einen Dermatologen
 
 Konstellation 2:
 
@@ -704,10 +833,11 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 (KBV_ITA_VGEX_Anforderungskatalog_eHKS Es wird eine bereits im System Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
-
 ---
 
-2.7 KONDITIONALER PRÜFFALL 8007
+## 2.7 KONDITIONALER
+
+PRÜFFALL 8007
 
 |  |  |
 |---|---|
@@ -766,7 +896,6 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen - DATEN ERGÄNZENDE VERTRÄGE - Screenings
 
-
 ---
 
 |  | |
@@ -812,13 +941,13 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 ---
 
-3
-
-## TESTDATENVALIDIERUNG
+# 3 TESTDATENVALIDIERUNG
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der
+
+Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -831,11 +960,9 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-4
+# 4 ANHANG
 
-## ANHANG
-
-**4.1** **VERSICHERTENDATEN 1– ERSATZVERFAHREN**
+## 4.1 VERSICHERTENDATEN 1– ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -864,7 +991,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-**4.2** **VERSICHERTENDATEN 2 – ERSATZVERFAHREN**
+## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -893,7 +1020,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-**4.3** **VERSICHERTENDATEN 3 – ERSATZVERFAHREN**
+## 4.3 VERSICHERTENDATEN 3 – ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -923,9 +1050,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-5
-
-## REFERENZIERTE DOKUMENTE
+# 5 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

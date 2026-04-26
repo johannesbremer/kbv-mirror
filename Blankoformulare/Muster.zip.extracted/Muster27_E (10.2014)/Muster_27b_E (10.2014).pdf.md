@@ -18,9 +18,13 @@
 
 **4.**
 
-**Versicherten-Nr.Status**
+**Versicherten-Nr.**
 
-**Arzt-Nr.Datum**
+**Status**
+
+**Arzt-Nr.**
+
+**Datum**
 
 **5.**
 
@@ -40,13 +44,15 @@
 
 **1. Durchschlag zum Verbleib**
 
-### beim soziotherapeutischen Leistungserbringer
+#### beim soziotherapeutischen Leistungserbringer
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-**geb. am** ***(als Anlage zur Verordnung und zur*** ***Weiterleitung an die Krankenkasse)***
+**geb. am**
+
+#### (als Anlage zur Verordnung und zur Weiterleitung an die Krankenkasse)
 
 **IK des Leistungserbringers**
 

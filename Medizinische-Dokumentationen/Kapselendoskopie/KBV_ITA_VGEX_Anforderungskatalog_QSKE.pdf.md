@@ -39,17 +39,13 @@ INHALTSVERZEICHNIS
 
 ### ABBILDUNGSVERZEICHNIS
 
-**1**
-
-### QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5
+**1** **QUALITÄTSSICHERUNGSVEREINBARUNG KAPSELENDOSKOPIE 5**
 
 **1.1** **Zielbestimmung ............................................................................................................................. 5**
 
 **1.2** **Pflichtfunktionen und optionale Funktionen der Software**
 
-**2**
-
-### ÄRZTLICHES DOKUMENTIEREN
+**2** **ÄRZTLICHES DOKUMENTIEREN**
 
 **2.1** **Allgemeine Vorgaben .................................................................................................................... 6**
 
@@ -71,9 +67,7 @@ INHALTSVERZEICHNIS
 
 2.2.3 Verschlüsseln der Daten ...................................................................................................... 11
 
-**3**
-
-### REFERENZIERTE DOKUMENTE
+**3** **REFERENZIERTE DOKUMENTE**
 
 ### FEHLER! TEXTMARKE NICHT DEFINIERT.
 
@@ -105,25 +99,29 @@ INHALTSVERZEICHNIS
 
 ---
 
-**1**
+# 1 Qualitätssicherungsvereinbarung Kapselendoskopie
 
-### Qualitätssicherungsvereinbarung Kapselendoskopie
-
-**1.1 Zielbestimmung**
+## 1.1 Zielbestimmung
 
 Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Kapselendoskopie (QSKE) [1] eingesetzt wird. Es wird eine arztbezogene Jahres- statistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
+
 -  die Kapselendoskopie Jahresstatistik korrekt zu dokumentieren sowie
+
 -  den jährlichen Datentransfer an die Datenannahmestelle zu realisieren.
 
-**1.2 Pflichtfunktionen und optionale Funktionen der Software**
+## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein. **Pflichtfunktionen**
+müssen in der Anwendungssoftware implementiert sein.
 
-**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
+**Pflichtfunktionen**
+
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
+
+dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 
@@ -155,13 +153,11 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 ---
 
-**2**
+# 2 Ärztliches Dokumentieren
 
-### Ärztliches Dokumentieren
+## 2.1 Allgemeine Vorgaben
 
-**2.1 Allgemeine Vorgaben**
-
-**2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten**
+### 2.1.1 Vollständigkeit der Eingaben aller Bewegungsdaten
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -169,7 +165,11 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Kapselendoskopie Jahresstatistik ermöglichen.
 
-Die in der Schnittstellenbeschreibung QS  [KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er- fassbar sein.
+Die in der Schnittstellenbeschreibung QS
+
+[KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er-
+
+fassbar sein.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -183,9 +183,15 @@ führt werden.
 
 Meldequartal: 01.01.-31.03. Das sich an das Untersuchungsjahr anschließende Quartal.
 
-Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal dient den  Korrekturen.
+Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal dient den
 
-01.01 31.12 31.03
+Korrekturen.
+
+- 01.01
+
+- 31.12
+
+- 31.03
 
 ### Untersuchungsjahr
 
@@ -193,7 +199,7 @@ Abbildung 1: Berichtszeiträume
 
 ### Melde- quartal
 
-Kapselendoskopie 30.06
+Kapselendoskopie - 30.06
 
 ### Prüfquartal
 
@@ -218,13 +224,15 @@ Für die Dokumentation der QS Kapselendoskopie werden nur Patienten Krankenversi
 
 der gesetzlichen
 
-**2.1.2 Plausibilitäten**
+### 2.1.2 Plausibilitäten
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
 | P1-200 | Plausibilitäten |
 
-Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten  [KBV_ITA_VGEX_Plausi_QSKE] entsprechen.
+Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten
+
+[KBV_ITA_VGEX_Plausi_QSKE] entsprechen.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -234,7 +242,7 @@ Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSKE] g
 
 Über die Plausibilitäten in den Pflichtfeldern darf der Anwender sich nicht hinwegsetzen, die  nicht valide Dokumentation darf nicht an die Datenannahmestelle weitergereicht werden.
 
-**2.1.3 Darstellung**
+### 2.1.3 Darstellung
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -251,7 +259,9 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuscha
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-**Speichern 2.1.4**
+### Speichern
+
+### 2.1.4
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -259,7 +269,9 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudru
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-**Ändern 2.1.5**
+### Ändern
+
+### 2.1.5
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -270,9 +282,9 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 
 ---
 
-**2.2 Datenübermittlung**
+## 2.2 Datenübermittlung
 
-**2.2.1 Übermittlung**
+### 2.2.1 Übermittlung
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -284,7 +296,9 @@ Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermittel
 |---|---|
 | P2-15 | Korrekturlieferung |
 
-Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSKE] kenntlich gemacht werden.
+Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss dies in der  elektronischen Dokumentation gemäß der Schnittstellenbeschreibung
+
+[KBV_ITA_VGEX_Schnittstelle_QSKE] kenntlich gemacht werden.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -298,11 +312,13 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-(1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
+- (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
 -  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
 
-Anbindung an KV-Connect“ in der stets aktuellen Version -  „KV-Connect  [Anbindung_KV_Connect]
+- Anbindung an KV-Connect“ in der stets aktuellen Version
+
+-  „KV-Connect  [Anbindung_KV_Connect]
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -319,13 +335,21 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-(1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
+- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
 
--  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]   **Bedingung:**
+-  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]
 
-(1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.  (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.  **Hinweis:**
+**Bedingung:**
 
-Wenn eine KV für das Verfahren QSKE das KIM-Verfahren gemäß der  [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
+- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
+
+- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.
+
+**Hinweis:**
+
+Wenn eine KV für das Verfahren QSKE das KIM-Verfahren gemäß der
+
+[Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
 
 | Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -347,13 +371,17 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 **Bedingung:**
 
-(1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.  (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
+- (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
+
+-
+
+- (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
 cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
 
 ---
 
-**2.2.2 Export der Daten**
+### 2.2.2 Export der Daten
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -361,17 +389,17 @@ cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es ha
 
 Das System muss
 
-a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSKE] exportieren,
+- a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSKE] exportieren,
 
-b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga- ben für den Export vorbereiten,
+- b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga- ben für den Export vorbereiten,
 
-c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Kapselendoskopie und der KV-Connect KIM Begleitdatei besteht,
+- c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Kapselendoskopie und der KV-Connect KIM Begleitdatei besteht,
 
-d) exportierte Datensätze innerhalb des Systems kennzeichnen und
+- d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 
-e) den Pfad zur Exportdatei dem Anwender bekannt machen.
+- e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
-**2.2.3 Verschlüsseln der Daten**
+### 2.2.3 Verschlüsseln der Daten
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -384,9 +412,7 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 
 ---
 
-**3**
-
-## Referenzierte Dokumente
+# 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

@@ -4,7 +4,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025  VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# TMZ HI ANFORDERUNGSKATALOG
+# TMZ HI
+
+# ANFORDERUNGSKATALOG
 
 ## [KBV_ITV_VGEX_ANFORDERUNGSKATALOG_TMZ_HI]
 
@@ -13,7 +15,7 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 Die Änderung der Technischen Anlage TMZ HI gelten für die Übermittlung  Jahr 2024.
 
@@ -31,15 +33,27 @@ laufschemas forderungen:  P1-100 P1-110 P1-130 P3-100 P3-200 gaben zur Datenerfa
 
 ## INHALT
 
-**1** **EINLEITUNG 5**
+**1** **EINLEITUNG**
 
-1.1 Zielbestimmung 7  1.2 Pflichtfunktionen und optionale Funktionen der Software 7
+**5**
 
-**2** **ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PATIENTEN** **8**
+1.1 Zielbestimmung
 
-**3** **ERSTELLUNG DER JAHRESSTATISTIK** **14**
+7
 
-**4** **BERECHNUNGSGRUNDLAGEN 30**
+1.2 Pflichtfunktionen und optionale Funktionen der Software 7
+
+**2** **ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PATIENTEN**
+
+**8**
+
+**3** **ERSTELLUNG DER JAHRESSTATISTIK**
+
+**14**
+
+**4** **BERECHNUNGSGRUNDLAGEN**
+
+**30**
 
 
 ---
@@ -50,38 +64,62 @@ Abbildung 1 - Workflow Jahresstatistik für Telemonitoring bei Herzinsuffizienz 
 
 **TABELLENVERZEICHNIS**
 
-Tabelle 1 - Erfassung der behandlungsbezogenen Daten pro Patient (P1-100) 9  Tabelle 2 - Satzartbeschreibung Jahresstatistik Telemonitoring bei Herzinsuffizienz 16
+Tabelle 1 - Erfassung der behandlungsbezogenen Daten pro Patient (P1-100) 9
+
+Tabelle 2 - Satzartbeschreibung Jahresstatistik Telemonitoring bei Herzinsuffizienz 16
 
 
 ---
 
-1
+# 1 EINLEITUNG
 
-## EINLEITUNG
+Die Versorgung von Patientinnen und Patienten mit einer fortgeschrittenen Herzinsuffizienz soll  durch ein Telemonitoring und eine damit verbundene kontinuierliche Betreuung verbessert werden.
 
-Die Versorgung von Patientinnen und Patienten mit einer fortgeschrittenen Herzinsuffizienz soll  durch ein Telemonitoring und eine damit verbundene kontinuierliche Betreuung verbessert werden.  Beim Telemonitoring bei Herzinsuffizienz arbeiten Hausärzte oder Kardiologen als "primär behan- delnde Ärztinnen und Ärzte" (PBA) mit Kardiologinnen und Kardiologen eines telemedizinischen Zent- rums (TMZ) zusammen.
+Beim Telemonitoring bei Herzinsuffizienz arbeiten Hausärzte oder Kardiologen als "primär behan- delnde Ärztinnen und Ärzte" (PBA) mit Kardiologinnen und Kardiologen eines telemedizinischen Zent- rums (TMZ) zusammen.
 
-(QS-V TmHi) vom TMZ an  Der Anforderungskatalog beschreibt die benötigten Daten und deren Beschreibung, um die erfassten  Daten gemäß der QS-Vereinbarung für Telemonitoring bei Herzinsuffizienz
+(QS-V TmHi) vom TMZ an
 
--V TmHi erstellt werden  die zuständige Kassenärztliche Vereinigung (KV) weiterzuleiten. Anschließend sollen diese Daten von  den KVen an die KBV übermittelt werden, damit die Jahresberichte gemäß QS können.
+Der Anforderungskatalog beschreibt die benötigten Daten und deren Beschreibung, um die erfassten  Daten gemäß der QS-Vereinbarung für Telemonitoring bei Herzinsuffizienz -V TmHi erstellt werden
 
-Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien- . Dort werden diese medizi-ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt
+die zuständige Kassenärztliche Vereinigung (KV) weiterzuleiten. Anschließend sollen diese Daten von  den KVen an die KBV übermittelt werden, damit die Jahresberichte gemäß QS können.
 
-teilt informiert der TMZ-Arzt den PBA und emp- nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten  fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und
+Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien- . Dort werden diese medizi-
 
-sollen im Falle erkennbarer Abweichun- weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo- gene Rückmeldung des TMZ an den PBA oder den Patienten gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte- rungen der Erkrankung und vor allem vermeidbare unnötige stationäre Notfallbehandlungen verhin- dert vermieden werden.
+ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt
+
+teilt informiert der TMZ-Arzt den PBA und emp-
+
+nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten  fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und
+
+sollen im Falle erkennbarer Abweichun-
+
+weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo- gene Rückmeldung des TMZ an den PBA oder den Patienten gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte-
+
+rungen der Erkrankung und vor allem vermeidbare unnötige stationäre Notfallbehandlungen verhin-
+
+dert vermieden werden.
 
 Für die Umsetzung des Telemonitorings bei Herzinsuffizienz werden zur Generierung der zu überwa- chenden Daten entweder kardiale Aggregate (implantable cardioverter defibrillator [ICD], cardiac re- synchronization therapy pacemaker [CRT-P], cardiac resynchronization therapy with defibrillation  [CRT-D]) oder externe Messgeräte verwendet. Ferner wird die subjektive Einschätzung des Gesund- heitszustandes vom beim Patienten selbst abgefragt.
 
-(KBV) und dem GKV-Spitzenverband  Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts- sicherung zwischen der Kassenärztlichen Bundesvereinigung  (GKV-SV) getroffen: [https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS)-V_TmHi.pdf
+(KBV) und dem GKV-Spitzenverband
+
+Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts- sicherung zwischen der Kassenärztlichen Bundesvereinigung  (GKV-SV) getroffen: [https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS)-V_TmHi.pdf
 
 Diese Vereinbarung sieht die Erstellung und den Versand einer Jahresstatistik (gem. § 7 Abs. 1 bis 3
 
-4. des Folgejahres ("Berichtsjahr") vom TMZ an  QS-V TmHi) vor. Die Jahresstatistiken der TMZ werden einrichtungsbezogen und pseudonymisiert in  Bezug auf ein sog. Datenjahr spätestens bis zum 30.0 die zuständigen Kassenärztlichen Vereinigungen (KV) und anschließend von diesen jährlich bis zum  30.06. an die KBV übermittelt.
+4. des Folgejahres ("Berichtsjahr") vom TMZ an
 
-Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen Jahresbericht, welche  pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar-
+QS-V TmHi) vor. Die Jahresstatistiken der TMZ werden einrichtungsbezogen und pseudonymisiert in  Bezug auf ein sog. Datenjahr spätestens bis zum 30.0 die zuständigen Kassenärztlichen Vereinigungen (KV) und anschließend von diesen jährlich bis zum
 
-g.  über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügun
+30.06. an die KBV übermittelt.
+
+Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen Jahresbericht, welche
+
+pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar-
+
+g.
+
+über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügun
 
 | der TMZ-Arzt Hinweise zu empfohlenen | ggf. Maßnahmen an | den PBA mit, | so dass | dieser |
 |---|---|---|---|---|
@@ -98,9 +136,11 @@ ABBILDUNG 1 - WORKFLOW FÜR DIE ERSTELLUNG DER JAHRESSTATISTIK FÜR RING BEI HER
 
 ---
 
-**1.1** **ZIELBESTIMMUNG**
+## 1.1 ZIELBESTIMMUNG
 
-Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösungen für das Tele- monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
+Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösungen für das Tele-
+
+monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
 
 | 1. |  | Pati- |  | 3. | Die Übermittlung der Daten aus dem TMZ zur KV |
 |---|---|---|---|---|---|
@@ -122,11 +162,9 @@ Erfassung von Daten pro Patient 2. Erstellung einer in bis zu 4 Strata aufgeteil
 
 ---
 
-2
+# 2 ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA-
 
-## ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA-
-
-## TIENT
+# TIENT
 
 Um softwareseitig die Berechnung der Jahresstatistik gemäß der  Softwaresystem in der Lage sein, die notwendigen behandlungsbezogene TMZ zu erfassen.
 
@@ -207,9 +245,7 @@ STELLEN TÄTSPRÜFUNG kompensation im Datenjahr bei Patienten gemäß Feld- Anga
 
 ---
 
-3
-
-## ERSTELLUNG DER JAHRESSTATISTIK
+# 3 ERSTELLUNG DER JAHRESSTATISTIK
 
 | PFLICHTFUNKTION | P3-100 | Dateinamen der Jahresstatistik |  |  | Die Software erzeugt den Dateinamen der TMZ |
 |---|---|---|---|---|---|
@@ -227,13 +263,39 @@ sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Der Dateiname ist nach
 
 ---
 
-1. Die Datei ist eine csv-Datei mit variabler Nutzdatenlänge.  2. Es wird der Zeichensatz ISO 8859-15 für die Datei verwendet.  3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif- ten zur Ermittlung der erforderlichen Werte. 4. Jede eigene Zeile wird durch die Zeichenfolge CarriageReturn/LineFeed (Hexadezimalcode 0x0D  0x0A) abgeschlossen.  Komma zu verwenden. 5. Als Ganzzahltrennzeichen im Dezimalformat ist ein  a) Die Darstellung von numerischen und Dezimal -Daten erfolgt ohne Tausender -Punkt und ohne  Auffüllung mit führenden Nullen.  “ getrennt. 6. Einzelne Datenfelder werden durch das Trennzeichen Semikolon   a) Die Verwendung von Trennzeichen ist für Textfelder zu unterbinden.  7. Die Datei enthält immer für jede enthaltene TM-Art gem. den Feld-Nr. 03-06 gem. Tab. 1 genau  eine Zeile (entspricht 4 Zeilen).
+- 1. Die Datei ist eine csv-Datei mit variabler Nutzdatenlänge.
 
-a) Jede Zeile entspricht den folgenden Vorgaben:
+- 2. Es wird der Zeichensatz ISO 8859-15 für die Datei verwendet.
+
+- 3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif-
+
+- ten zur Ermittlung der erforderlichen Werte.
+
+- 4. Jede eigene Zeile wird durch die Zeichenfolge CarriageReturn/LineFeed (Hexadezimalcode 0x0D  0x0A) abgeschlossen.
+
+- Komma zu verwenden.
+
+- 5. Als Ganzzahltrennzeichen im Dezimalformat ist ein
+
+- a) Die Darstellung von numerischen und Dezimal -Daten erfolgt ohne Tausender -Punkt und ohne  Auffüllung mit führenden Nullen.
+
+- “ getrennt.
+
+- 6. Einzelne Datenfelder werden durch das Trennzeichen Semikolon -
+
+- a) Die Verwendung von Trennzeichen ist für Textfelder zu unterbinden.
+
+- 7. Die Datei enthält immer für jede enthaltene TM-Art gem. den Feld-Nr. 03-06 gem. Tab. 1 genau  eine Zeile (entspricht 4 Zeilen).
+
+-
+
+- a) Jede Zeile entspricht den folgenden Vorgaben:
 
 **Begründung:**
 
-Die teilnehmenden TMZ dürfen keine patientenbezogenen Daten übersenden, da dies ein Verstoß  gegen den Datenschutz ist. Die QS-V TmHI fordert deswegen die Einsendung aggregierter, d.h. in Be- zug auf die Patienten anonymisierter Daten.
+Die teilnehmenden TMZ dürfen keine patientenbezogenen Daten übersenden, da dies ein Verstoß
+
+gegen den Datenschutz ist. Die QS-V TmHI fordert deswegen die Einsendung aggregierter, d.h. in Be- zug auf die Patienten anonymisierter Daten.
 
 **Akzeptanzkriterien:**
 
@@ -394,20 +456,18 @@ Die Weiterleitung der Jahresstatistik an die verantwortliche KV erfolgt durch da
 
 **Akzeptanzkriterium:**
 
-1. Die Software ermöglicht dem Anwender den Export der  rungen P3-100 und P3-200, an einem vom Anwender gewünschten Ablageort
+- 1. Die Software ermöglicht dem Anwender den Export der  rungen P3-100 und P3-200, an einem vom Anwender gewünschten Ablageort
 
 , sich die Jahresstatistik im csv-Format exportie-
 
-TMZ-Jahresstatistik gemäß den Anforde-
+- TMZ-Jahresstatistik gemäß den Anforde-
 
 Um die Wei-
 
 
 ---
 
-4
-
-BERECHNUNGSGRUNDLAGEN
+4 BERECHNUNGSGRUNDLAGEN
 
 | BEDEUTUNG | DEFINITION / | FORMEL / BERECHNUNG / ERMITTLUNG |
 |---|---|---|
@@ -423,4 +483,10 @@ BESCHREIBUNG tierung der zu betrachten- den Datenwerte nach der Größe der Wert
 
 **Ansprechpartner:**
 
-Dezernat Digitalisierung und IT  Geschäftsbereich IT in der Versorgung Tel.: 030 4005-2077  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Dezernat Digitalisierung und IT
+
+Geschäftsbereich IT in der Versorgung
+
+Tel.: 030 4005-2077
+
+Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

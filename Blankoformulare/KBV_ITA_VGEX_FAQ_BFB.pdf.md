@@ -7,7 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2022 ZU VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# FRAGEN UND ANTWORTEN ZUR  BLANKOFORMULARBEDRUC KUNG
+# FRAGEN UND ANTWORTEN ZUR
+
+# BLANKOFORMULARBEDRUC KUNG
 
 ## [KBV_ITA_VGEX_FAQ_BFB]
 
@@ -18,17 +20,59 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **ALLGEMEINES 4**
+**1** **ALLGEMEINES**
 
-**2** **FRAGEN UND ANTWORTEN ZUR BLANKOFORMULARBEDRUCKUNG 4**
+**4**
 
-**3** **AUFBAU DES FEHLERBRIEFS 6**
+**2** **FRAGEN UND ANTWORTEN ZUR BLANKOFORMULARBEDRUCKUNG**
 
-3.1 Antrag auf Zertifizierung 6  3.2 Personalienfeld 6  3.2.1 Abmessungen 6  3.2.2 Positionierung des Inhaltes 6  3.3 Barcode 7  3.3.1 Codierung 7  3.3.2 Eigenschaften 7  3.4 KBV-Prüfnummer 7  3.5 Stempel 8
+**4**
 
-**4** **ERLÄUTERUNG ZU BEGRIFFLICHKEITEN IM „ANTRAG AUF ZERTIFIZIERUNG“** **8**
+**3** **AUFBAU DES FEHLERBRIEFS**
 
-**5** **REFERENZIERTE DOKUMENTE 9**
+**6**
+
+3.1 Antrag auf Zertifizierung
+
+6
+
+3.2 Personalienfeld
+
+6
+
+3.2.1 Abmessungen
+
+6
+
+3.2.2 Positionierung des Inhaltes 6
+
+3.3 Barcode
+
+7
+
+3.3.1 Codierung
+
+7
+
+3.3.2 Eigenschaften
+
+7
+
+3.4 KBV-Prüfnummer
+
+7
+
+3.5 Stempel
+
+8
+
+**4** **ERLÄUTERUNG ZU BEGRIFFLICHKEITEN IM „ANTRAG AUF ZERTIFIZIERUNG“**
+
+**8**
+
+**5** **REFERENZIERTE DOKUMENTE**
+
+**9**
 
 
 ---
@@ -44,17 +88,13 @@ Fragen und Antworten Anforderungskatalogs
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Die vorliegenden FAQs richten sich an Hersteller von Software, die die Blankoformularbedruckung (BFB) umsetzen oder umsetzen werden. Unter  Blankoformularbedruckung wird der Einsatz der Bedruckung von Mustern, welche durch Anlage 2a des Bundesmantelvertrags-Ärzte [7] festgelegt sind,  mittels Laser- oder Tintenstrahldrucker verstanden.
 
 Diese FAQs dienen ausschließlich zur Orientierung im Themengebiet Blankoformularbedruckung und haben informativen Charakter.
 
-2
-
-FRAGEN UND ANTWORTEN ZUR BLANKOFORMULARBEDRUCKUNG
+2 FRAGEN UND ANTWORTEN ZUR BLANKOFORMULARBEDRUCKUNG
 
 | BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
@@ -79,9 +119,7 @@ Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt
 
 ---
 
-3
-
-## AUFBAU DES FEHLERBRIEFS
+# 3 AUFBAU DES FEHLERBRIEFS
 
 **3.1** **ANTRAG AUF ZERTIFIZIERUNG**
 
@@ -96,7 +134,7 @@ Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt
 |  | Geschäftsführung     (min. Tele.& E-Mail) | Fehler |
 | 4. Kenntnisnahme durch den Antragsteller | Ort, Datum, Unterschrift, Name | OK |
 
-**3.2** **PERSONALIENFELD**
+## 3.2 PERSONALIENFELD
 
 **3.2.1** **Abmessungen**
 
@@ -109,7 +147,7 @@ Schnitttoleranz von +/-1 mm bei der Herstellung der Vordrucke ist einzuhalten
 
 Siehe: Vereinbarung über Vordrucke für die vertragsärztliche Versorgung [4] im Kapitel 1.1.3
 
-**3.2.2** **Positionierung des Inhaltes**
+### 3.2.2 Positionierung des Inhaltes
 
 Der Vordruck darf nicht **überdruckt/berührt**
 
@@ -139,7 +177,7 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.8 Bedrucku
 
 *Fehler sind bei Muster: Nicht OCR konform (Texterkennung)
 
-**3.3** **BARCODE**
+## 3.3 BARCODE
 
 **3.3.1** **Codierung**
 
@@ -202,19 +240,21 @@ Schriftgröße: beliebig
 
 Reihenfolge: beliebig
 
-Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.8 Bedruckung der Formulare 4
+Siehe: Technisches Handbuch Blankoformularbedruckung [1] im Kapitel 2.8 Bedruckung der Formulare
 
-## ERLÄUTERUNG ZU BEGRI ZERTIFIZIERUNG“
+# 4 ERLÄUTERUNG ZU BEGRI ZERTIFIZIERUNG“
 
-Aufgrund häufiger Nachfragen bezüglich des Begriffes „Zertifizierungsgegenstand“ in den  „Antrag auf Zertifizierung“ [5], möchten  ist die Software, ein Softwareteil oder eine Komponente gemeint, die in der vertragsärztlichen Versorgung  zur Anwendung kommt. Das Feld ist analog zum früheren Feld „Name der Software“ zu verwenden.  Weitere Informationen und Begriffserläuterungen entnehmen Sie bitte der „ KBV [6].
+Aufgrund häufiger Nachfragen bezüglich des Begriffes „Zertifizierungsgegenstand“ in den  „Antrag auf Zertifizierung“ [5], möchten
+
+ist die Software, ein Softwareteil oder eine Komponente gemeint, die in der vertragsärztlichen Versorgung  zur Anwendung kommt. Das Feld ist analog zum früheren Feld „Name der Software“ zu verwenden.  Weitere Informationen und Begriffserläuterungen entnehmen Sie bitte der „ KBV [6].
 
 Wir bitten Sie, diese Erläuterung bei der Erstellung eines neuen Antrags auf Zertifizierung zu  berücksichtigen.
 
-## FFLICHKEITEN IM „ANT
+# FFLICHKEITEN IM „ANT
 
 wir diesen Begriff näher erläutern. Mit „Zertifizierungsgegenstand“
 
-## RAG AUF
+# RAG AUF
 
 Dokumenten
 
@@ -223,9 +263,7 @@ Zertifizierungsrichtlinie der
 
 ---
 
-5
-
-REFERENZIERTE DOKUMENTE
+5 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

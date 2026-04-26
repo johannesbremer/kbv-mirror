@@ -1,4 +1,6 @@
-**Name, Vorname des VersichertenKostenträgerkennung**
+**Name, Vorname des Versicherten**
+
+**Kostenträgerkennung**
 
 ### Antrag des Versicherten
 
@@ -36,7 +38,9 @@
 
 **Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist**  **Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen.**
 
-***Auszufüllen, soweit von Seiten der Krankenkasse Bedarf besteht*** **Name, Vorname des Versicherten**
+***Auszufüllen, soweit von Seiten der Krankenkasse Bedarf besteht***
+
+**Name, Vorname des Versicherten**
 
 **Straße, Hausnummer, PLZ, Wohnort**
 
@@ -58,7 +62,9 @@
 
 **Unterschrift des Versicherten / Vertretungsberechtigten**
 
-**biserbracht.**
+**bis**
+
+**erbracht.**
 
 **Stempel / Unterschrift des SAPV-Leistungserbringers**
 

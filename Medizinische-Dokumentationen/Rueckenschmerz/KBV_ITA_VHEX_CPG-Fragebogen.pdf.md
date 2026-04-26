@@ -1,21 +1,29 @@
-### CPG-Fragebogen 1 Wie würden Sie Ihre
+### CPG-Fragebogen
 
-### momentanen
+1 Wie würden Sie Ihre **momentanen**
 
-Skala einschätzen, wenn   [0] [1] [2]
+Skala einschätzen, wenn
 
-Rückenschmerzen, d.h.  *0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
+[0] [1] [2]
+
+Rückenschmerzen, d.h.
+
+*0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
 
 | [3] | [4] | [5] | [6] | [7] |
 |---|---|---|---|---|
 
-Kein   Schmerz
+Kein
 
-Wie würden Sie Ihre **2.**  wenn *0 = kein Schmerz*
+Schmerz
+
+Wie würden Sie Ihre
+
+**2.**  wenn *0 = kein Schmerz*
 
 [0] [1] [2]
 
-### stärksten Rückenschmerzen
+#### stärksten Rückenschmerzen
 
 und *10 = stärkster vorstellbarer Schmerz*
 
@@ -24,7 +32,9 @@ und *10 = stärkster vorstellbarer Schmerz*
 
 Kein  Schmerz
 
-Wie stark waren Ihre Rückenschmerzen **3.**  *0 = kein Schmerz*
+Wie stark waren Ihre Rückenschmerzen
+
+**3.**  *0 = kein Schmerz*
 
 [0] [1]
 
@@ -35,15 +45,19 @@ und *10 = stärkster vorstellbarer Schmerz*
 | [3] | [4] | [5] | [6] | [7] |
 |---|---|---|---|---|
 
-### in den letzten 3 Monaten
+#### in den letzten 3 Monaten
 
-Kein   Schmerz
+Kein
 
-### An wie vielen Tagen
+Schmerz
 
-konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen **4.**  nicht Ihren üblichen Aktivitäten nachgehen (z.B. Arbeit, Schule, Haushalt)?
+#### An wie vielen Tagen konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen
 
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre alltäglichen Aktivitäten **5.**  (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn  und *10 = keine Aktivitäten mehr möglich*
+**4.**  nicht Ihren üblichen Aktivitäten nachgehen (z.B. Arbeit, Schule, Haushalt)?
+
+In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre alltäglichen Aktivitäten
+
+**5.**  (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn  und *10 = keine Aktivitäten mehr möglich*
 
 [0] [1] [2]
 
@@ -58,9 +72,9 @@ Keine
 
 Beeinträchtigung
 
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre **6.**  oder Unternehmungen im
+In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
 
-###  Familien- und Freundeskreis
+**6.**  oder Unternehmungen im** Familien- und Freundeskreis**
 
 *Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
 
@@ -73,7 +87,9 @@ Keine
 
 Beeinträchtigung
 
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre **7.**  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Aktivitäten mehr möglich* bedeuten?
+In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
+
+**7.**  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Aktivitäten mehr möglich* bedeuten?
 
 [0] [1] [2]
 
@@ -88,7 +104,7 @@ Beeinträchtigung
 
 Quelle: Klasen et al. 2004, Seite 12 Appendix B
 
-### jetzt im Augenblick
+#### jetzt im Augenblick
 
 in den letzten 3 Monaten einschätzen,
 
@@ -96,7 +112,7 @@ bedeuten?
 
 bedeuten?
 
-### im Durchschnitt
+**im Durchschnitt**
 
 *0 = keine Beeinträchtigung*
 
@@ -112,7 +128,7 @@ beeinträchtigt, wenn  bedeuten?
 
 Keine Aktivität mehr möglich
 
-### Freizeitaktivitäten
+#### Freizeitaktivitäten
 
 *0 = keine*
 
@@ -120,7 +136,7 @@ Keine Aktivität mehr möglich
 
 Keine Aktivität mehr möglich
 
-### Arbeitsfähigkeit
+#### Arbeitsfähigkeit
 
 und
 

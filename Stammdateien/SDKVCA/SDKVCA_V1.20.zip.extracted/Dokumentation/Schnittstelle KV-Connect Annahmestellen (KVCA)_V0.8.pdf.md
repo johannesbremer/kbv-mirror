@@ -109,32 +109,57 @@ Seite
 
 Dokumentation Schnittstelle KV-Connect Annahmestellen (KVCA)
 
-**AutorKap. ÄnderungStatus**
+**Autor**
 
-kv.digital GmbH 1 - Aufnahme Referenz zur in Kraft Spezifikation  1ClickAbrechnungvia KIM - Entfall Referenz zur SDDA
+**Kap. Änderung**
 
-5 - Korrektur Abbildung 11
+**Status**
+
+kv.digital GmbH 1
+
+- Aufnahme Referenz zur in Kraft
+
+Spezifikation  1ClickAbrechnungvia KIM - Entfall Referenz zur SDDA
+
+5
+
+- Korrektur Abbildung 11
+
 - Aufnahme Erläuterung zur  Verwendung von  <test_email> und  <kim_test_email>
 
 alle redaktionelle Änderungen
 
-kv.digital GmbH 5 - Aufnahme Element außer Kraft <kim_test_email>
+kv.digital GmbH 5 - Aufnahme Element
+
+außer Kraft
+
+<kim_test_email>
+
 - Anpassung  Abbildung 11
 
-kv.digital GmbH 5 - Aufnahme Element außer Kraft <kim_email>
+kv.digital GmbH 5 - Aufnahme Element
+
+außer Kraft
+
+<kim_email>
+
 - Anpassung  Abbildung 11
+
 - Änderung Element  <anwendungsspezifika>
+
 - Löschen  <dmp_liste>
 
 kv.digital GmH
 
 KV Telematik  GmbH - Anpassung  Abbildung 12
 
-7 Anpassung Tabelle 21
+7
 
-alle Änderungen im Kontext der  Umfirmierung der KV  Telematik GmbH in kv.digital  GmbH
+Anpassung Tabelle 21
 
-4 - Korrektur OID  Schlüsseltabelle  S_KBV_Bearbeitungszusta nd
+alle Änderungen im Kontext der  Umfirmierung der KV  Telematik GmbH in kv.digital  GmbH 4
+
+- Korrektur OID  Schlüsseltabelle  S_KBV_Bearbeitungszusta nd
 
 außer Kraft
 
@@ -145,7 +170,9 @@ außer Kraft 4 von 27
 
 **Vers. Datum**
 
-0.4 16.07.2018
+0.4
+
+16.07.2018
 
 0.3
 
@@ -159,7 +186,9 @@ außer Kraft 4 von 27
 
 24.10.2016
 
-**Herausgeber:**  kv.digital GmbH
+**Herausgeber:**
+
+kv.digital GmbH
 
 **Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:**  für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH pages/viewpage.action?pageId=71075847
 
@@ -175,10 +204,16 @@ KV Telematik  GmbH
 
 **Kap. Änderung**
 
-5 - Aufnahme Attribut-Gruppe  gueltigkeit - Anpassung  Abbildung 11
+5
+
+- Aufnahme Attribut-Gruppe  gueltigkeit - Anpassung  Abbildung 11
+
 - Anpassung Tabelle  16
+
 - <version>
+
 - Angabe von max. 2  Elementen möglich
+
 - gueltigkeit kann  gesetzt werden - Anpassung Tabelle  15
 
 alle Überarbeitung nach interner  Kommentierung
@@ -215,9 +250,17 @@ Die Schnittstellen für den Datenaustausch liegen im XML-Format vor. Sie sind ko
 ***Referenzen***
 
 - [ehd]: ehd-Richtlinie (ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/) - [1-Click]:
-- Spezifikation 1-Click-Abrechnung via KV-Connect (Tabelle Spezifikation, https:// partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560)
-- *Spezifikation 1ClickAbrechnung via KIM,* [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-) Abrechnung/KIM/
+
+- Spezifikation 1-Click-Abrechnung via KV-Connect (Tabelle Spezifikation, https://
+
+partnerportal.kv-telematik.de/pages/viewpage.action?pageId=11927560)
+
+- *Spezifikation 1ClickAbrechnung via KIM,* [https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-)
+
+Abrechnung/KIM/
+
 - [KBV_ITA_VGEX_Schnittstelle_SDDA]: Schnittstellenbeschreibung SDDA (ftp://ftp.kbv.de/ita-update/ Stammdateien/SDDA/)
+
 - [Versionierung]: Versionierung von Spezifikationen, [https://partnerportal.kv-telematik.de/pages/](https://partnerportal.kv-telematik.de/pages/) viewpage.action?pageId=24215708 6 27
 
 
@@ -239,17 +282,25 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 **Namepart Erläuterung**
 
-datatyp Datentyp, "Satzart"; Entspricht dem Header-Element <ehd:document_type_cd>
+datatyp
+
+Datentyp, "Satzart"; Entspricht dem Header-Element <ehd:document_type_cd>
 
 Für die Stammdatei KVCA ist der datatyp immer "kvca".
 
-vv.vvVersionsNr. der Datentypbeschreibung; Entspricht dem Element <ehd:version> des Header- Elements <ehd:interface>.
+vv.vv
 
-sender Absender der Lieferung, bzw. wer hat die Daten geliefert;
+VersionsNr. der Datentypbeschreibung; Entspricht dem Element <ehd:version> des Header- Elements <ehd:interface>.
+
+sender
+
+Absender der Lieferung, bzw. wer hat die Daten geliefert;
 
 Entspricht inhaltlich dem Element <person> oder dem Element <organization> des Header- Elements <provider>. Es wird hier die OID der kv.digital GmbH verwendet: 1.2.276.0.76.3.1.64.
 
-tf+timeframe - Zeitraum auf den sich die Daten beziehen.
+tf+
+
+timeframe - Zeitraum auf den sich die Daten beziehen.
 
 Folgende Notation ist für die Stammdatei KVCA vorgesehen:
 
@@ -261,22 +312,26 @@ q.. Quartal
 
 Entspricht inhaltlich dem Header-Element <service_tmr>; Für die Stammdatei KVCA ist i.d.R. das  Quartal angegeben.
 
-nr+number - Nummer der Lieferung. Entspricht dem Header-Element <ehd:version_nbr>. Optional
+nr+
+
+number - Nummer der Lieferung. Entspricht dem Header-Element <ehd:version_nbr>. Optional
 
 Die Nummer muss um 1 hochgezählt werden, wenn der angegebene Zeitraum unter „tf+“ sich bei  der nächsten Lieferung nicht ändert. Bei Änderung des Zeitraumes beginnt die Zählung wieder  mit 1, i.d.R. wird die 1. Lieferung ohne Nummer ausgeliefert.
 
-du+dummy - Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden 7 27
+du+
+
+dummy - Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden 7 27
 
 
 ---
 
-### Namepart
+#### Namepart
 
 <val>
 
 **1 Tabelle: Dateinamenskonvention**
 
-### Erläuterung
+#### Erläuterung
 
 value - Erwarteter Wert 8 27
 
@@ -321,11 +376,17 @@ Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XM
 
 Das Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-attributes EXxs:string
+**Type**
 
-RTxs:string
+attributes EX
+
+xs:string
+
+RT
+
+xs:string
 
 example <ehd:id EX="8adbfaf2-cc71-4cc9-ba3b-d7fc7c077456" RT="1.2.276.0.76.3.1.64"/>
 
@@ -396,7 +457,11 @@ Kürzel, kodierter Wert 11 27
 
 ---
 
-**Name Type Use**
+**Name**
+
+**Type**
+
+**Use**
 
 example <ehd:document_type_cd V="kvca"/>
 
@@ -408,9 +473,15 @@ Das Element <service_tmr> beschreibt den Gültigkeitszeitraum der enthaltenen Da
 
 Das Element hat folgenden Aufbau:
 
-**Name Type Use**
+**Name**
 
-attributes Vzeitraum_typ required
+**Type**
+
+**Use**
+
+attributes V
+
+zeitraum_typ required
 
 example <ehd:service_tmr V="2012-10-01.."/>
 
@@ -422,9 +493,17 @@ Das Element <origination_dttm> beschreibt das Erstellungsdatum der Datei.
 
 Das Element hat folgenden Aufbau:
 
-**Name Type Use**
+**Name**
 
-attributes Vxs:date required
+**Type**
+
+**Use**
+
+attributes V
+
+xs:date
+
+required
 
 example <ehd:origination_dttm V="2012-08-13"/>
 
@@ -466,9 +545,13 @@ organization.nm (Organisationsname)
 
 Das Element <organization.nm> enthält den Namen der Organisation und hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-attributes Vxs:string
+**Type**
+
+attributes V
+
+xs:string
 
 example <ehd:organization.nm V="kv.digital GmbH"/>
 
@@ -492,7 +575,9 @@ Angabe zum Organisationsnamen 14 27
 **5 Abbildung: addr**
 
 In der Stammdatei werden nur die folgenden Kindelemente verwendet: - STR (Straße)
+
 - HNR (Hausnummer)
+
 - ZIP (Postleitzahl)
 
 - CTY (Stadt)
@@ -501,7 +586,9 @@ Werte für diese Elemente werden im V-Attribut angegeben.
 
 Jedes Adressteil-Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
+
+**Type**
 
 attributes
 
@@ -509,11 +596,15 @@ example
 
 **8 Tabelle: STR, HNR, ZIP und CTY**
 
-Vxs:string
+V
+
+xs:string
 
 <ehd:STR V="Herbert-Lewin-Platz"/>  <ehd:HNR V="2"/>  <ehd:ZIP V="10623"/>  <ehd:CTY V="Berlin"/>
 
-**Use Erläuterung**
+**Use**
+
+**Erläuterung**
 
 required Entsprechende Werte für STR, HNR, ZIP sowie CTY.
 
@@ -528,9 +619,15 @@ Dieses Element dient dazu, Telefon- und Faxnummern, Emailadressen und Homepages 
 
 Jedes Kommunikations-Element hat folgenden Aufbau:
 
-**Name Type Use**
+**Name**
 
-attributes Vxs:string required
+**Type**
+
+**Use**
+
+attributes V
+
+xs:string required
 
 example <ehd:telecom V="tel:030 - 45002700"/> <ehd:telecom V="[support@kv.digital](mailto:support@kv.digital)"/>
 
@@ -543,9 +640,13 @@ Das Element <provider> enthält Informationen zum Lieferanten/Sender der Daten u
 **Erläuterung**
 
 Angaben für - tel (Telefon)
+
 - fax (Fax)
+
 - mailto (E-Mail-Adresse)
+
 - http (Homepage)
+
 - ftp (FTP-Server)
 
 16 27
@@ -596,7 +697,11 @@ Menschenlesbarer Klartextname der Schlüsseltabelle.
 
 ---
 
-**Name Type Use**
+**Name**
+
+**Type**
+
+**Use**
 
 example <ehd:state S=" 1.2.276.0.76.5.108" V="TEST" DN="Testdaten - nur für Testverfahren"  SN="S_KBV_BEARBEITUNGSZUSTAND"/>
 
@@ -614,9 +719,13 @@ In diesem Element wird die ID der Schnittstelle angegeben.
 
 Das Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-attributes EXxs:string
+**Type**
+
+attributes EX
+
+xs:string
 
 **Use**
 
@@ -631,11 +740,17 @@ Identifikation der Schnittstelle 18 27
 
 ---
 
-**Name Type**
+**Name**
 
-RTxs:string
+**Type**
 
-version Vxs:string
+RT
+
+xs:string
+
+version V
+
+xs:string
 
 example <ehd:id EX="KVCA" RT="1.2.276.0.76.5.109"/>
 
@@ -647,9 +762,13 @@ Im Element <interface.nm> wird die Bezeichnung der Schnittstelle angegeben.
 
 Das Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-attribute Vxs:string
+**Type**
+
+attribute V
+
+xs:string
 
 example <ehd:interface.nm V="kvca"/>
 
@@ -661,9 +780,13 @@ Im Element <version> wird die Versionsnummer der Schnittstelle angegeben.
 
 Das Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-version Vxs:string
+**Type**
+
+version V
+
+xs:string
 
 example <ehd:version V="1.04"/>
 
@@ -723,11 +846,19 @@ Das Element hat folgenden Aufbau: 20 27
 
 ---
 
-**Name Type Use**
+**Name**
 
-attributes EXxs:string optional
+**Type**
 
-RTxs:string required
+**Use**
+
+attributes EX
+
+xs:string optional
+
+RT
+
+xs:string required
 
 example <kvca:id EX="38" RT="1.2.276.0.76.5.233"/>
 
@@ -770,7 +901,9 @@ attributes EX
 
 xs:string
 
-RTxs:string
+RT
+
+xs:string
 
 example <kvca:id EX="eHKS" RT="1.2.276.0.76.3.1.64.5.1"/>
 
@@ -801,9 +934,13 @@ Zusätzlich kann noch die Gültigkeit angegeben werden, bspw. wenn eine neue Anw
 
 Das Element hat folgenden Aufbau:
 
-**Name Type**
+**Name**
 
-attributes Vxs:string
+**Type**
+
+attributes V
+
+xs:string
 
 gueltig_ab
 
@@ -914,11 +1051,21 @@ Das Element <anwendungsfunktion> enthält die Funktionen der 1ClickAbrechnung, d
 
 Das Element hat folgenden Aufbau:
 
-**Name Type Use**
+**Name**
 
-attributes Vkvca:oneclick required funktion
+**Type**
 
-RTxs:string optional
+**Use**
+
+attributes V
+
+kvca:oneclick required
+
+funktion
+
+RT
+
+xs:string optional
 
 example <kvca:anwendungsfunktion V="Fkt 2" RT="1.2.276.0.76.3.1.1.5.2.34"/>
 
@@ -1040,7 +1187,11 @@ example <key V="1CLICK" DN="1Click Abrechnung" S="1.2.276.0.76.3.1.64.5.1" SV="1
 
 **20 Tabelle: key**
 
-**Type Use Erläuterung**
+**Type**
+
+**Use**
+
+**Erläuterung**
 
 26 27
 
@@ -1051,11 +1202,13 @@ example <key V="1CLICK" DN="1Click Abrechnung" S="1.2.276.0.76.3.1.64.5.1" SV="1
 
 **7.1 Zuordnung OID - Schlüsseltabelle** Die in der Stammdatei KVCA referenzierten Schlüsseltabellen werden nachfolgend aufgeführt.
 
-**ElementOID**
+**Element**
 
-id (kv)1.2.276.0.76.5.233
+**OID**
 
-id (anwendung)1.2.276.0.76.3.1.64.5.1
+id (kv) 1.2.276.0.76.5.233
+
+id (anwendung) 1.2.276.0.76.3.1.64.5.1
 
 **21 Tabelle: Zuordnung OID - Schlüsseltabelle** Die Schlüsseltabellen werden hier verwaltet.
 

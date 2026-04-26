@@ -1,8 +1,8 @@
 **Installationsstatistik - Systeme**
 
-**Instalationsbestand gemäß ADT-Abrechnun**
+**Installationsbestand gemäß ADT-Abrechnun**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Instalationen 2.Q.2025** | **Instalationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
+| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
 |---|---|---|---|---|---|---|---|
 
 4.57 **tomedo**
@@ -27,7 +27,7 @@
 
 4.03 **FIDUS**
 
-4.22 **ClinicCentre Biling (OPD)**
+4.22 **ClinicCentre Billing (OPD)**
 
 2.56 **medavis RIS**
 
@@ -61,9 +61,9 @@
 
 4.21 **EVIDENT**
 
-**gen. Auflistung aler System- und Softwareanbieter. Sortiert n**
+**gen. Auflistung aller System- und Softwareanbieter. Sortiert n**
 
-Zolsoft GmbH
+Zollsoft GmbH
 
 medatixx GmbH & Co. KG
 
@@ -101,7 +101,7 @@ RescuePro Production GmbH & Co. KG
 
 ifa systems AG
 
-KHP Kelm & Homberg Produktionsgeselschaft GmbH & Co.KG
+KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 
 Clinisys Deutschland GmbH
 
@@ -109,7 +109,9 @@ CGM Clinical Europe GmbH
 
 ifa systems AG
 
-**ie**Pegasus Datensysteme
+**ie**
+
+Pegasus Datensysteme
 
 Co-Fox GmbH
 
@@ -406,7 +408,7 @@ EVIDENT GmbH
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Instalationen 2.Q.2025** | **Instalationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
+| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
 |---|---|---|---|---|---|---|---|
 
 6.43 **smartLIS Laborinformationssystem Abrechnungsmodul**
@@ -489,7 +491,7 @@ labsolution S.à.r.l & Co.KG
 
 Haase, Dipl.-Ing. Silvia GbR
 
-4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmit & Partner
+4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner
 
 Doctorly GmbH
 
@@ -507,7 +509,7 @@ Dr. Claudia Neumann
 
 ET Software Developments GmbH
 
-boos-utenthaler-garcia RAD+ Entwicklungsgeselschaft bR
+boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR
 
 CGM LAB International GmbH
 
@@ -527,7 +529,7 @@ imassense Deutschland GmbH
 
 UNISOLO® GmbH
 
-MVZ Labor PD. Dr. Volkmann und Kolegen GBR
+MVZ Labor PD. Dr. Volkmann und Kollegen GBR
 
 projodis GmbH
 
@@ -830,7 +832,7 @@ Austria GmbH 0,0%
 
 4.47 **CARW**
 
-4.54 **PaliDoc**
+4.54 **PalliDoc**
 
 2.78 **MEDOS**
 
@@ -856,13 +858,13 @@ Austria GmbH 0,0%
 
 7.21 **David**
 
-2.76 **RadCentre Biling (OPD)**
+2.76 **RadCentre Billing (OPD)**
 
 7.31 **C-LAB**
 
 2.90 **M-KIS**
 
-4.09 **i/med Biling**
+4.09 **i/med Billing**
 
 3.23 **amasys**
 
@@ -890,7 +892,7 @@ CompuGroup Medical Dentalsysteme GmbH
 
 NEXUS / CHILI GmbH
 
-MVZ Labor Dr. Reising-Ackermann und Kolegen GbR
+MVZ Labor Dr. Reising-Ackermann und Kollegen GbR
 
 CompuGroup Medical Deutschland AG
 
@@ -1016,7 +1018,7 @@ GmbH 3
 
 0,3%
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Instalationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
+| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
 |---|---|---|---|---|---|---|---|
 
 1.3
@@ -1450,7 +1452,7 @@ nder 0,1%
 
 4
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Instalationen 2.Q.2025** | **Instalationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
+| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
 |---|---|---|---|---|---|---|---|
 
 1.60

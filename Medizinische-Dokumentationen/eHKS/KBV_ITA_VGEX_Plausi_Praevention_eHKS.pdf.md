@@ -42,11 +42,11 @@ für den Parameter „Geschlecht der/des Versicherten“
 
 ---
 
-**1 Einleitung**  Der vorliegende Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ konkretisiert  die enthaltenen Plausibilitäten des Gemeinsamen Bundesausschuss (GBA) im Hinblick auf  die technische Umsetzung
+# 1 Einleitung
 
-seitens des Praxissoftwareherstellers sowie
+Der vorliegende Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ konkretisiert  die enthaltenen Plausibilitäten des Gemeinsamen Bundesausschuss (GBA) im Hinblick auf  die technische Umsetzung
 
-im Rahmen des Prüfmoduls.
+- seitens des Praxissoftwareherstellers sowie - im Rahmen des Prüfmoduls.
 
 Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
@@ -54,11 +54,17 @@ Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die
 
 Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys- temanbieter verteilt.
 
-**2 Grundlagen**  Der Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt den Entwicklern  von PVS--, Systemen oder Web Anwendungssystemen ein Hilfsmittel zur Verfügung welches  die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen im  Rahmen der Präventions-eDokumentation spezifiziert.
+# 2 Grundlagen
+
+Der Plausibilitätenkatalog des allgemeinen Datensatzes „Prävention“ stellt den Entwicklern  von PVS--, Systemen oder Web Anwendungssystemen ein Hilfsmittel zur Verfügung welches
+
+die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen Prüfungen im  Rahmen der Präventions-eDokumentation spezifiziert.
 
 Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung er- folgen soll.
 
-Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweiligen Prä- ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zert fizierung der Anwendung.
+Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweiligen Prä- ventions-i-eDokumentation enthalten. Die Anforderungsspezifikation ist Grundlage für die Zert
+
+fizierung der Anwendung.
 
 Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 

@@ -1,6 +1,6 @@
 ### Schlüsseltabelle
 
-### S_KTS_KTGRUPPE
+#### S_KTS_KTGRUPPE
 
 **OID:**
 

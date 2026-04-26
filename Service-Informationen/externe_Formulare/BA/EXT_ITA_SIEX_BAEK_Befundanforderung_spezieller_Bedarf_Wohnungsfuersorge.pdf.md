@@ -1,6 +1,4 @@
-### BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT
-
-gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -10,13 +8,15 @@ Liquidations-ID:
 
 Patient/in befindet sich seit _____________
 
-Letzte Behandlung am _________________
+# Letzte Behandlung am _________________
 
-**Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im**  **Rahmen der Wohnungsfürsorge nach § 22 SGB II)**
+# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im  Rahmen der Wohnungsfürsorge nach § 22 SGB II)
 
-**Aktuelle Beschwerden:**
+# Aktuelle Beschwerden:
 
-**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend**  **erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden?** **Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?**
+# Sofern zutreffend – je nach Fragestellung im Anschreiben:
+
+# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
 
@@ -24,20 +24,28 @@ regelmäßig [ ]
 
 1.12
 
-17 12.2021
+# 17 12.2021
 
 BGL-Nummer: ____________________
 
-gelegentlich  nicht in meiner Behandlung [ ][ ]
+gelegentlich  nicht in meiner Behandlung
 
-**Ist der**
+[ ]
+
+[ ]
+
+# Ist der
 
 
 ---
 
-**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, weshalb ein Umzug in eine andere Wohnung notwendig ist?**
+**Sofern zutreffend – je nach Fragestellung im Anschreiben:**
 
-**Sofern zutreffend – je nach Fragestellung im Anschreiben:**  **Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.**  **Barrierefreiheit, Vorhandensein eines Aufzugs; nur EG möglich, etc.) erfüllen muss?**
+**Liegen aus ärztlicher Sicht Gründe vor, weshalb ein Umzug in eine andere Wohnung notwendig ist?**
+
+# Sofern zutreffend – je nach Fragestellung im Anschreiben:
+
+# Liegen aus ärztlicher Sicht Gründe vor, dass die Wohnung bestimmte Anforderungen (z.B.  Barrierefreiheit, Vorhandensein eines Aufzugs; nur EG möglich, etc.) erfüllen muss?
 
 **Rückruf erbeten** [ ]
 
@@ -49,18 +57,24 @@ Medizinische Unterlagen liegen bei [ ]
 
 Medizinische Unterlagen können ggf. angefordert werden bei: [ ]
 
-**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**  **-Entlassungsberichte, Reha**
+**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
+
+**-Entlassungsberichte, Reha**
 
 __________________________  Ort, Datum 12
 
 **-Entlassungsberichte, Gutachten u. ä.) als**
 
-___________________________  Stempel und Unterschrift
+___________________________
+
+Stempel und Unterschrift
 
 
 ---
 
-**Arzt / Ärztin (Rechnungssteller) Eingang ÄD**
+**Arzt / Ärztin (Rechnungssteller)**
+
+**Eingang ÄD**
 
 An den
 
@@ -70,9 +84,11 @@ An den
 | Steuernummer/  Ust-Id-Nr.: |  |
 | ¹Liquidations-ID ÄD: |  |
 
-Ärztlichen Dienst der  Agentur für Arbeit
+Ärztlichen Dienst der
 
-## Liquidation
+Agentur für Arbeit
+
+# Liquidation
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 

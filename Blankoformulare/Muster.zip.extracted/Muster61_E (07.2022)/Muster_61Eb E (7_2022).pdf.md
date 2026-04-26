@@ -8,21 +8,39 @@ Datum
 
 Vertragsarztstempel / Unterschrift des Arztes
 
-Datum Unterschrift der oder des Versicherten  (des gesetzlichen Vertreters,  des Betreuers, des Bevollmächtigten)
+Datum
 
-Für das Ausstellen der ärztlichen  Verordnung (Teil B-E)   ist die Nr. 01611 EBM berechnungsfähig
+Unterschrift der oder des Versicherten (des gesetzlichen Vertreters,
 
-Name, Vorname
+des Betreuers, des Bevollmächtigten)
 
-PLZOrtStraße, Haus-Nr.
+Für das Ausstellen der ärztlichen  Verordnung (Teil B-E)
 
-Name, Vorname
-
-PLZOrtStraße, Haus-Nr.
+ist die Nr. 01611 EBM berechnungsfähig
 
 Name, Vorname
 
-PLZOrtStraße, Haus-Nr.
+PLZ
+
+Ort
+
+Straße, Haus-Nr.
+
+Name, Vorname
+
+PLZ
+
+Ort
+
+Straße, Haus-Nr.
+
+Name, Vorname
+
+PLZ
+
+Ort
+
+Straße, Haus-Nr.
 
 |  | ja |  |
 |---|---|---|
@@ -31,13 +49,23 @@ PLZOrtStraße, Haus-Nr.
 |  | einrichtungen | wurde |
 |  | ja |  |
 
-Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden Vertragsarzt wurde erteilt.
+Einwilligung der/des Versicherten zur Übermittlung der gutachterlichen Stellungnahme
+
+des Medizinischen Dienstes an die verordnende Vertragsärztin / den verordnenden
+
+Vertragsarzt wurde erteilt.
 
 **A. Erteilte Einwillligungserklärungen**
 
 **B. Angaben der/des Versicherten**
 
-Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nach  § 40 Abs. 3 Satz 8 SGB V. Die erteilten Einwilligungen können jederzeit mit Wirkung für die Zukunft bei Ihrer Krankenkasse oder der verordnenden Ärztin / dem verordnenden Arzt widerrufen werden.
+Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nach
+
+§ 40 Abs. 3 Satz 8 SGB V. Die erteilten Einwilligungen können jederzeit mit
+
+Wirkung für die Zukunft bei Ihrer Krankenkasse oder der verordnenden Ärztin /
+
+dem verordnenden Arzt widerrufen werden.
 
 **Hinweis zur Datenübermittlung und zum Widerrufsrecht**
 
@@ -45,10 +73,20 @@ Die Einwilligung in die Übermittlung erfolgt aufgrund gesetzlicher Vorgaben nac
 
 **2.**
 
-Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und  Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
+Angaben durch die Versicherte/den Versicherten zu Angehörigen und Vertrauenspersonen sowie Pflege- und
 
-***Vor der Weiterleitung des Vordrucks an die Krankenkasse von der/dem Versicherten auszufüllen,*** ***sofern die Einwilligung unter VIII. A. 2. erteilt wurde.***
+Betreuungseinrichtungen, denen die Leistungsentscheidung durch die Krankenkasse übermittelt werden soll (VIII. A. 2.).
 
-Name, Vorname des VersichertenVersicherten-Nr.Kostenträgerkennung
+***Vor der Weiterleitung des Vordrucks an die Krankenkasse von der/dem Versicherten auszufüllen,***
 
-nein nein Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.PRF.NR.  Muster 61 Teil Eb/E (7.2022)
+***sofern die Einwilligung unter VIII. A. 2. erteilt wurde.***
+
+Name, Vorname des Versicherten
+
+Versicherten-Nr.
+
+Kostenträgerkennung
+
+PRF.NR.
+
+nein nein Einwilligung der/des Versicherten zur Übermittlung der Leistungsentscheidung der  Krankenkasse an Angehörige und Vertrauenspersonen sowie Pflege- und Betreuungs- einrichtungen wurde erteilt.Muster 61 Teil Eb/E (7.2022)

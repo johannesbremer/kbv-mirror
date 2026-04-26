@@ -61,15 +61,25 @@ DA, ADMP, KVKol, KV, Dialyse, ZervixZyto, EHKS Unterstützung stützung QSMG, QS
 
 ---
 
-**DOKUMENTENHISTORIE 2**
+**DOKUMENTENHISTORIE**
 
-**INHALTSVERZEICHNIS 4**
+**2**
 
-**ABBILDUNGSVERZEICHNIS 6**
+**INHALTSVERZEICHNIS**
 
-**TABELLENVERZEICHNIS 7**
+**4**
 
-**1** **EINLEITUNG 8**
+**ABBILDUNGSVERZEICHNIS**
+
+**6**
+
+**TABELLENVERZEICHNIS**
+
+**7**
+
+**1** **EINLEITUNG**
+
+**8**
 
 **1.1** **Produktleistung ..............................................................................................................................8**
 
@@ -77,17 +87,29 @@ DA, ADMP, KVKol, KV, Dialyse, ZervixZyto, EHKS Unterstützung stützung QSMG, QS
 
 **1.3** **Nutzungsbedingungen ..................................................................................................................8**
 
-**2** **VERZEICHNISSTRUKTUR 9**
+**2** **VERZEICHNISSTRUKTUR**
 
-**3** **ARBEITEN MIT DEM XKM 10**
+**9**
+
+**3** **ARBEITEN MIT DEM XKM**
+
+**10**
 
 **3.1** **Allgemeine Handhabung ............................................................................................................ 10**
 
-**3.2** **Die Arbeitsmodi ........................................................................................................................... 11**  3.2.1 Vordefinierte Arbeitsmodi .................................................................................................... 11  3.2.2 Benutzerdefinierte Arbeitsmodi ........................................................................................... 14
+**3.2** **Die Arbeitsmodi ........................................................................................................................... 11**
 
-**3.3** **Die Konfigurationsdatei .............................................................................................................. 15**  3.3.1 Konfigurationsschalter ......................................................................................................... 16
+3.2.1 Vordefinierte Arbeitsmodi .................................................................................................... 11
 
-**3.4** **Arbeiten im Kommandozeilenmodus ........................................................................................ 17**  3.4.1 Kommandozeilenparameter ................................................................................................ 18
+3.2.2 Benutzerdefinierte Arbeitsmodi ........................................................................................... 14
+
+**3.3** **Die Konfigurationsdatei .............................................................................................................. 15**
+
+3.3.1 Konfigurationsschalter ......................................................................................................... 16
+
+**3.4** **Arbeiten im Kommandozeilenmodus ........................................................................................ 17**
+
+3.4.1 Kommandozeilenparameter ................................................................................................ 18
 
 **3.5** **Umgebungsvariablen .................................................................................................................. 19**
 
@@ -95,11 +117,19 @@ DA, ADMP, KVKol, KV, Dialyse, ZervixZyto, EHKS Unterstützung stützung QSMG, QS
 
 3.6.1 Der Standard-Dialog ............................................................................................................ 20
 
-**3.7** **Arbeiten mit Wechselmedien (CD, ...) ....................................................................................... 22**  3.7.1 Notwendige Schritte zur Integration eines Wechselmediums ............................................. 22
+**3.7** **Arbeiten mit Wechselmedien (CD, ...) ....................................................................................... 22**
 
-**3.8** **Hilfsprogramme des XKMs ......................................................................................................... 23**  3.8.1 Erzeugen benutzerspezifischer Schlüsselpaare ................................................................. 23  3.8.2 Erzeugen allgemeiner Schlüsselpaare ................................................................................ 23
+3.7.1 Notwendige Schritte zur Integration eines Wechselmediums ............................................. 22
 
-**4** **STARTEN DES XKM 24**
+**3.8** **Hilfsprogramme des XKMs ......................................................................................................... 23**
+
+3.8.1 Erzeugen benutzerspezifischer Schlüsselpaare ................................................................. 23
+
+3.8.2 Erzeugen allgemeiner Schlüsselpaare ................................................................................ 23
+
+**4** **STARTEN DES XKM**
+
+**24**
 
 **4.1** **Starten des XKM von Konsole/Desktop .................................................................................... 24**
 
@@ -166,13 +196,21 @@ Abbildung 4: Konsole Test-Ver-/Entschlüsselung ................................
 
 ---
 
-9Tabelle 1: Übersicht der XKM Ordner .....................................................................................
+9
 
-10Tabelle 2: Aufrufmöglichkeiten des XKM ..............................................................................
+Tabelle 1: Übersicht der XKM Ordner .....................................................................................
 
-11Tabelle 3: Liste der Returnwerte der JAVA Applikation ........................................................
+10
 
-13Tabelle 4: Verwendete Schlüssel des Kryptomoduls ............................................................
+Tabelle 2: Aufrufmöglichkeiten des XKM ..............................................................................
+
+11
+
+Tabelle 3: Liste der Returnwerte der JAVA Applikation ........................................................
+
+13
+
+Tabelle 4: Verwendete Schlüssel des Kryptomoduls ............................................................
 
 Tabelle 5: Konfigurationsschalter ......................................................................................... 17
 
@@ -189,19 +227,17 @@ Tabelle 9: Strukturbeschreibung des XKM Headers ................................
 
 ---
 
-**1**
-
-## Einleitung
+# 1 Einleitung
 
 Dieses Dokument gibt einen kurzen Überblick über die Arbeitsweise und eine genaue Be- schreibung zur Installation und Ausführung des KBV
 
 Das XKM ist auf allen Computersystemen lauffähig, für die die Java Laufzeitumgebung in der  Version 17 oder höher verfügbar ist.
 
-**1.1 Produktleistung**
+## 1.1 Produktleistung
 
 Das XKM dient der Verschlüsselung sensibler Daten, die mittels Speichermedium oder Lei- tung zwischen Arztpraxis und Datenannahmestelle oder zur KV übermittelt werden. Abhängig  von der Berechtigung können die verschlüsselten Daten vom XKM wieder entschlüsselt wer- den. Bei der Datenübermittlung mittels Datenträger unterstützt das XKM das Aufsplitten der  Daten, falls die Kapazität eines einzelnen Datenträgers nicht ausreicht.
 
-**1.2 Systemvoraussetzungen**
+## 1.2 Systemvoraussetzungen
 
 Benötigt wird ein Computersystem, das leistungsmäßig mit einem IBM MB Hauptspeicher und einem Pentium-Prozessor 500Mhz oder höher vergleichbar ist.
 
@@ -209,7 +245,7 @@ Langsamere Prozessoren und weniger Hauptspeicher erhöhen stark die Laufzeit des
 
 Es wird die Java Laufzeitumgebung 17 oder höher benötigt.
 
-**1.3 Nutzungsbedingungen**
+## 1.3 Nutzungsbedingungen
 
 Die KBV übernimmt den Support bei der Verwendung des XKMs in den aufgelisteten Arbeits- modi im Kapitel 3.2.1. Die KBV übernimmt keinen Support bei selbstdefinierten Arbeitsmodi  und bei selbstdefinierten Schlüsseln.
 
@@ -220,9 +256,7 @@ Die KBV übernimmt den Support bei der Verwendung des XKMs in den aufgelisteten 
 
 ---
 
-**2**
-
-## Verzeichnisstruktur
+# 2 Verzeichnisstruktur
 
 Im Installationsverzeichnis befinden sich Batchdateien bzw. Shellskripte, die das KBV - Kryptomodul mit unterschiedlichen Optionen bzw. Konfigurationsdateien ausführen.
 
@@ -248,11 +282,9 @@ konnten. abgelegt, die im Serverbetrieb ohne Löschmodus (-l) verarbeitet wurden
 
 ---
 
-**3**
+# 3 Arbeiten mit dem XKM
 
-## Arbeiten mit dem XKM
-
-**3.1 Allgemeine Handhabung**
+## 3.1 Allgemeine Handhabung
 
 Der Aufruf des XKM-Hauptprogramms erfolgt über die im Installationsverzeichnis mitgeliefer- ten Batch- bzw. Skriptdateien:
 
@@ -294,13 +326,13 @@ moduls erfolgt mittels Konfigurationsdatei und Übergabeparame- ter. rung des Kr
 
 **Tabelle 3: Liste der Returnwerte der JAVA Applikation**
 
-**3.2 Die Arbeitsmodi**
+## 3.2 Die Arbeitsmodi
 
-**3.2.1**
+### 3.2.1 Vordefinierte Arbeitsmodi
 
-### Vordefinierte Arbeitsmodi
+Das XKM unterscheidet zwischen der Ver - und der Entschlüsselung. In der allgemeinsten  Form werden diese Vorgänge durch die beiden Arbeitsmodi  *esselung* repräsentiert. Zusätzlich zu diesen beiden Modi gibt es eine Reihe weiterer vordefi-
 
-Das XKM unterscheidet zwischen der Ver - und der Entschlüsselung. In der allgemeinsten  Form werden diese Vorgänge durch die beiden Arbeitsmodi  *esselung* repräsentiert. Zusätzlich zu diesen beiden Modi gibt es eine Reihe weiterer vordefi- nierter Arbeitsmodi, die bestimmte Aktivitäten wie Dateifilter oder das automatische Anhängen  einer Datei (z.B. Kommunikationssatz) erlauben. Daneben werden diesen Modi unterschiedli- chen Schlüsseldateien zugeordnet.
+nierter Arbeitsmodi, die bestimmte Aktivitäten wie Dateifilter oder das automatische Anhängen  einer Datei (z.B. Kommunikationssatz) erlauben. Daneben werden diesen Modi unterschiedli- chen Schlüsseldateien zugeordnet.
 
 *Verschluesselung* und *Entschlu-*
 
@@ -362,7 +394,9 @@ lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub unterstützt unterstütz
 
 ---
 
-### Erläuterung zum Dateifilter:  Der Dateifilter des Modus ‚Verschluesselung’ übernimmt als
+### Erläuterung zum Dateifilter:
+
+### Der Dateifilter des Modus ‚Verschluesselung’ übernimmt als
 
 mens (Platzhalter ’*’) und hängt nach erfolgter Verschlüsselung das Suffix ‚.XKM’ an. Bei der
 
@@ -404,9 +438,7 @@ beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten A
 
 </arbeitsmodus>
 
-**3.2.2**
-
-### Benutzerdefinierte Arbeitsmodi
+### 3.2.2 Benutzerdefinierte Arbeitsmodi
 
 ### Benutzerdefinierte Arbeitsmodi werden in der XML-Datei  spielhafter Inhalt für je einen Verschlüsselungs
 
@@ -438,18 +470,18 @@ beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten A
 
 ### ateiname wiederhergestellt.
 
-### schluessel.xml
+### schluessel.xml beschrieben. Ein bei-
 
-beschrieben. Ein bei- - und einen Entschlüsselungsmodus:
+- und einen Entschlüsselungsmodus:
 
 
 ---
 
-**3.3 Die Konfigurationsdatei**
+## 3.3 Die Konfigurationsdatei
 
-### Die Steuerung des XKMs erfolgt mit Hilfe einer Konfigurationsdatei, die defaultmäßig Kon- fig/config.xml
+### Die Steuerung des XKMs erfolgt mit Hilfe einer Konfigurationsdatei, die defaultmäßig Kon-
 
-heißt. Eine Konfigurationsdatei mit diversen Vorbelegungen befindet sich nach
+### fig/config.xml heißt. Eine Konfigurationsdatei mit diversen Vorbelegungen befindet sich nach
 
 ### der Installation im Unterverzeichnis ’Konfig’.
 
@@ -459,9 +491,7 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 
 ### relativ zum Installationsverzeichnis betrachtet.
 
-### Der Inhalt einer kompletten config.xml
-
--Datei könnte zum Beispiel wie folgt aussehen:
+### Der Inhalt einer kompletten config.xml-Datei könnte zum Beispiel wie folgt aussehen:
 
 <Konfiguration>
 
@@ -494,9 +524,7 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 
 ---
 
-**3.3.1**
-
-**Konfigurationsschalter**
+**3.3.1** **Konfigurationsschalter**
 
 | Schalter | Zulässige Werte | Funktion |
 |---|---|---|
@@ -525,9 +553,11 @@ DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Ent
 | BearbeitetEntschlues- | Pfadangabe | Ablage für Dateien, die im Servermo- |
 | Temp | Pfadangabe oder | Ablage für temporäre Daten, die wäh- |
 
-**3.4 Arbeiten im Kommandozeilenmodus**
+## 3.4 Arbeiten im Kommandozeilenmodus
 
-Das XKM kann mithilfe von Kommandozeileparametern gesteuert werden, welche die in der  Konfigurations-XML (‚config.xml’) definierten Schalter überschreiben. Bitte beachten Sie, dass  bei einem Aufruf in der Windows-Konsole systembedingt maximal 9 Übergabeparameter mög- lich sind.
+Das XKM kann mithilfe von Kommandozeileparametern gesteuert werden, welche die in der  Konfigurations-XML (‚config.xml’) definierten Schalter überschreiben. Bitte beachten Sie, dass
+
+bei einem Aufruf in der Windows-Konsole systembedingt maximal 9 Übergabeparameter mög- lich sind.
 
 **Tabelle 5: Konfigurationsschalter**
 
@@ -535,9 +565,7 @@ mierung selt selt nimum von 1000. vordefiniert: ‚TEMP’ lenden  Dateien fest.
 
 ---
 
-**3.4.1**
-
-**Kommandozeilenparameter**
+**3.4.1** **Kommandozeilenparameter**
 
 | Übergabepa- | Beschreibung |
 |---|---|
@@ -570,19 +598,27 @@ rameter Konfigurationsdatei. Default: ‚ Konfig/config.xml Schalter ‚Quelle�
 
 ---
 
-**3.5 Umgebungsvariablen**
+## 3.5 Umgebungsvariablen
 
 Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
-Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter D  mitgeteilt werden. Nach dem Einlesen der Konfigurationsdatei werden die Umgebungsvariab- len durch Ihre Werte ersetzt. Findet das XKM eine Umgebungsvariable nicht, wird das Pro- gramm mit einem Konfigurationsfehler abgebrochen.
+Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter D
+
+mitgeteilt werden. Nach dem Einlesen der Konfigurationsdatei werden die Umgebungsvariab- len durch Ihre Werte ersetzt. Findet das XKM eine Umgebungsvariable nicht, wird das Pro- gramm mit einem Konfigurationsfehler abgebrochen.
 
 Mit Hilfe von Umgebungsvariablen kann mehreren Benutzern eine separate Umgebung zur  Verfügung gestellt werden, die auf eine einzige Installation zugreift.
 
 Beispiel:
 
-In der Konfigurationsdatei wird der Pfad für die eingehenden und zur Verschlüsselung be- stimmten Dateien folgendermaßen festgelegt:  <quelle>%DATENEINGANG%/</quelle>
+In der Konfigurationsdatei wird der Pfad für die eingehenden und zur Verschlüsselung be- stimmten Dateien folgendermaßen festgelegt:
 
-Die Umgebungsvariable DATENEINGANG muss dann entweder in einer Batchdatei bzw. ei- nem Shellskript gesetzt werden:  set DATENEINGANG=c:\daten\input
+<quelle>%DATENEINGANG%/</quelle>
+
+Die Umgebungsvariable DATENEINGANG muss dann entweder in einer Batchdatei bzw. ei-
+
+nem Shellskript gesetzt werden:
+
+set DATENEINGANG=c:\daten\input
 
 oder in der aufrufenden Applikation entsprechend gesetzt werden.
 
@@ -593,23 +629,23 @@ java -DDATENEINGANG=%DATENEINGANG% ...
 
 ---
 
-**3.6 Arbeiten mit grafischer Oberfläche**
+## 3.6 Arbeiten mit grafischer Oberfläche
 
 Alternativ zum Kommandozeilen-Betrieb können Sie viele Funktionen des XKM auch mit der  grafischen Oberfläche durchführen. Der Aufruf erfolgt durch  *StartGUIKryptomodul.sh*
 
-**3.6.1** **Der Standard-Dialog**
+### 3.6.1 Der Standard-Dialog
 
-**3.6.1.1 Datei für die Ver- oder Entschlüsselung selektieren**
+#### 3.6.1.1 Datei für die Ver- oder Entschlüsselung selektieren
 
 Bitte drücken Sie den -Knopf und wählen Sie die gewünschte Datei aus.
 
-**3.6.1.2 Ver- oder Entschlüsselung starten**
+#### 3.6.1.2 Ver- oder Entschlüsselung starten
 
 Bitte drücken Sie den
 
 Nach erfolgter Verarbeitung erscheint eine Meldung mit einem entsprechenden Status.
 
-**3.6.1.3 Programm beenden**
+#### 3.6.1.3 Programm beenden
 
 Bitte drücken Sie den
 
@@ -628,17 +664,23 @@ bzw.
 
 ---
 
-**3.6.1.4 Ver- oder Entschlüsselung abbrechen**
+#### 3.6.1.4 Ver- oder Entschlüsselung abbrechen -Knopf vorzeitig abbrechen.
 
--Knopf vorzeitig abbrechen. Eine laufende Verarbeitung können Sie mittels
+Eine laufende Verarbeitung können Sie mittels
 
 Der Konfigurations-Dialog
 
 **Abbildung 2: XKM Kryptomodul im Konfigurations-Dialog**
 
-*Bearbeitung Optionen*Den Konfigurations-Dialog erreichen Sie über die Menüabfolge . Hier  können fast alle Einstellungen, die im Zusammenhang mit den Schaltern der Konfigurations- datei *Konfig/config.xml* beschrieben wurden, angepasst werden.
+*Bearbeitung Optionen*
 
-Sollte die Möglichkeit zur Optionsverwaltung aus Sicherheitsgründen nicht erwünscht sein, so  *<KonfigDialog>Nein</KonfigDialog>* können Sie in der Konfigurationsdatei über den Schalter  den Aufruf dieses Dialogs unterbinden.
+Den Konfigurations-Dialog erreichen Sie über die Menüabfolge . Hier
+
+können fast alle Einstellungen, die im Zusammenhang mit den Schaltern der Konfigurations- datei *Konfig/config.xml* beschrieben wurden, angepasst werden.
+
+Sollte die Möglichkeit zur Optionsverwaltung aus Sicherheitsgründen nicht erwünscht sein, so  *<KonfigDialog>Nein</KonfigDialog>*
+
+können Sie in der Konfigurationsdatei über den Schalter  den Aufruf dieses Dialogs unterbinden.
 
 
 ---
@@ -652,25 +694,41 @@ Sollte die Möglichkeit zur Optionsverwaltung aus Sicherheitsgründen nicht erw�
 |  | sowie | *Quelle* bzw. |  |
 |  |  | *Konfigurationsschalter* | ) |
 
-Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse*  geeignet belegt wer- den. (Siehe hierzu auch das Kapitel
+Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse*
 
-**3.7.1** **Notwendige Schritte zur Integration eines Wechselmediums**
+geeignet belegt wer-
 
-**3.7.1.1 Schalter** ***Paketgroesse:***   Der Schalter *Paketgroesse* orientiert sich an der Kapazität des jeweiligen Mediums. Hier kön- nen Sie im Prinzip beliebige Werte einsetzen. Lediglich 2 Einschränkungen gilt es zu beach- ten, deren Übertretung vom XKM überwacht wird:
+den. (Siehe hierzu auch das Kapitel
+
+### 3.7.1 Notwendige Schritte zur Integration eines Wechselmediums
+
+#### 3.7.1.1 Schalter Paketgroesse:
+
+Der Schalter *Paketgroesse* orientiert sich an der Kapazität des jeweiligen Mediums. Hier kön-
+
+nen Sie im Prinzip beliebige Werte einsetzen. Lediglich 2 Einschränkungen gilt es zu beach- ten, deren Übertretung vom XKM überwacht wird:
 
 -  Die Kapazität eines Mediums muss mindestens 1000 Bytes betragen.
 
 -  Die maximale Anzahl an Einzelpaketen liegt bei 999.
 
-Bei gesplitteten Paketen wird zusätzlich zu der Endung *.XKM* noch ein dreistelliges numeri- sches Suffix angefügt. (*Daten.XKM.001 Daten.XKM.002* usw.)
+Bei gesplitteten Paketen wird zusätzlich zu der Endung *.XKM* noch ein dreistelliges numeri-
 
-**3.7.1.2 Schalter** ***Quelle***** (Verschlüsselung) bzw.** ***Verschluesselt***** (Entschlüsse-** **lung)**  Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die verschlüsselten  Daten laden und sichern kann.
+sches Suffix angefügt. (*Daten.XKM.001 Daten.XKM.002* usw.)
+
+#### 3.7.1.2 Schalter Quelle (Verschlüsselung) bzw. Verschluesselt (Entschlüsse-
+
+#### lung)
+
+Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die verschlüsselten
+
+Daten laden und sichern kann.
 
 Verschluesselt
 
 ---
 
-**3.8 Hilfsprogramme des XKMs**
+## 3.8 Hilfsprogramme des XKMs
 
 Zusätzlich zum XKM-Hauptprogramm gibt es eine Reihe von Hilfsprogrammen, die die Gene- rierung weiterer Schlüsselpaare ermöglichen und die Funktionalität des Hauptprogramms er- weitern.
 
@@ -683,9 +741,17 @@ Zusätzlich zum XKM-Hauptprogramm gibt es eine Reihe von Hilfsprogrammen, die di
 
 **Tabelle 7: Aufruf zum Erzeugen benutzerspezifischer Schlüsselpaare**
 
-Die Hilfsprogramme *ErzeugeBenutzerschluessel* und *ErzeugeGUIBenutzerschluessel* sind in  ihrer Funktion sehr ähnlich. Im ersten Fall wird auf Konsolenebene mithilfe des Übergabe - Parameters *b* ein benutzerspezifisches Schlüsselpaar erzeugt, im zweiten Fall wird der Na- me für das Schlüsselpaar (Benutzerkennung) vor der Generierung im Dialog erfragt.
+Die Hilfsprogramme *ErzeugeBenutzerschluessel* und *ErzeugeGUIBenutzerschluessel* sind in
 
-Zusätzlich zur Schlüsselgenerierung werden in der Datei *System/schluesselintern.xml* zwei  weitere Arbeitsmodi ( *Verschluesselung* und *Entschluesselung*) zu diesen erzeugten Schlüs- seln generiert. Sofern die beiden Arbeitsmodi bereits existieren, erfolgt keine Generierung  neuer Schlüssel.
+ihrer Funktion sehr ähnlich. Im ersten Fall wird auf Konsolenebene mithilfe des Übergabe - Parameters *b* ein benutzerspezifisches Schlüsselpaar erzeugt, im zweiten Fall wird der Na-
+
+me für das Schlüsselpaar (Benutzerkennung) vor der Generierung im Dialog erfragt.
+
+Zusätzlich zur Schlüsselgenerierung werden in der Datei *System/schluesselintern.xml* zwei
+
+weitere Arbeitsmodi ( *Verschluesselung* und *Entschluesselung*) zu diesen erzeugten Schlüs-
+
+seln generiert. Sofern die beiden Arbeitsmodi bereits existieren, erfolgt keine Generierung  neuer Schlüssel.
 
 Die Namen der beiden Schlüssel lauten:
 
@@ -693,7 +759,7 @@ Public Key: schluessel/<benutzerkennung>_oeffentlicher_Schluessel.pub
 
 Private Key: system/keys/<benutzerkennung>_privater_Schluessel.NICHT_weitergeben.pfx
 
-**3.8.2** **Erzeugen allgemeiner Schlüsselpaare**
+### 3.8.2 Erzeugen allgemeiner Schlüsselpaare
 
 Hinweis: Nicht Bestandteil der Auslieferung, nur für den internen Gebrauch bestimmt.
 
@@ -703,7 +769,11 @@ Hinweis: Nicht Bestandteil der Auslieferung, nur für den internen Gebrauch best
 
 **Tabelle 8: Aufruf zum Erzeugen allgemeiner Schlüsselpaare**
 
-Mit dem Hilfsprogramm *ErzeugeSchluesselpaar* lassen sich beliebig neue Schlüsseldateien  generieren. Die Schlüssel werden im Verzeichnis *Schluessel* abgelegt und erhalten als Datei- namen eine Datum/Zeit-Etikette.
+Mit dem Hilfsprogramm *ErzeugeSchluesselpaar* lassen sich beliebig neue Schlüsseldateien
+
+generieren. Die Schlüssel werden im Verzeichnis *Schluessel* abgelegt und erhalten als Datei-
+
+namen eine Datum/Zeit-Etikette.
 
 Zum Beispiel:
 
@@ -714,29 +784,45 @@ mithilfe eines GUI-Dialogs. und einem privaten Schlüssel. Private Key: Schluess
 
 ---
 
-**4**
+# 4 Starten des XKM
 
-## Starten des XKM
+## 4.1 Starten des XKM von Konsole/Desktop
 
-**4.1 Starten des XKM von Konsole/Desktop**
+Zum Starten des XKM gibt es die vordefinierten Batch- bzw. Shellskripte StartGUIKryptomodul
 
-Zum Starten des XKM gibt es die vordefinierten Batch- bzw. Shellskripte StartGUIKryptomodul  und StartKryptomodul. Im Folgenden soll beschrieben werden, wie sie die dort  Parameter anpassen können.
+und StartKryptomodul. Im Folgenden soll beschrieben werden, wie sie die dort  Parameter anpassen können.
 
 Das XKM ist eine Java-Applikation und wird in einer Java Laufzeitumgebung ausgeführt.
 
 Hier ein Beispiel für einen Aufruf:
 
-java -Xmx300m  -Dfile.encoding=8859_1  -classpath "Bin\bcprov-jdk15on-161.jar;Bin\xkm-1.36 de.kbv.xkm.Main  -mVerschluesselung -fquelle\beispieldatei.zip   Der Befehl ‚java’ startet die virtuelle Maschine von Java.
+java -Xmx300m -Dfile.encoding=8859_1
 
-Der Parameter ‚ Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher von bis zu  300 MB zu reservieren. Diese Option garantiert einen stabilen Programmablauf in der Grö- ßenordnung bis ca. 500 MB je Datei.
+-classpath "Bin\bcprov-jdk15on-161.jar;Bin\xkm-1.36
 
-Der Parameter Dfile.encoding=8859_1’ stellt den entsprechenden Zeichensatz ein und er- möglicht hier die Verwendung von deutschen Umlauten.
+de.kbv.xkm.Main
 
-Der Parameter ‚ -classpath "Bin\bcprov-jdk15on-1.61.jar;Bin\xkm-1.35.0.jar" Java-Archive zusammen, die für den Programmablauf benötigt werden.
+-mVerschluesselung -fquelle\beispieldatei.zip
+
+Der Befehl ‚java’ startet die virtuelle Maschine von Java.
+
+Der Parameter ‚ Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher von bis zu
+
+300 MB zu reservieren. Diese Option garantiert einen stabilen Programmablauf in der Grö- ßenordnung bis ca. 500 MB je Datei.
+
+Der Parameter Dfile.encoding=8859_1’ stellt den entsprechenden Zeichensatz ein und er-
+
+möglicht hier die Verwendung von deutschen Umlauten.
+
+Der Parameter ‚ -classpath "Bin\bcprov-jdk15on-1.61.jar;Bin\xkm-1.35.0.jar"
+
+Java-Archive zusammen, die für den Programmablauf benötigt werden.
 
 Der Parameter ‚de.kbv.xkm.Main’ ist der Name der Startklasse.
 
-Die Parameter ‚-mVerschluesselung’ und ‚-fquelle\beispieldatei.zip Übergabeparameter, die an das XKM übergeben werden.
+Die Parameter ‚-mVerschluesselung’ und ‚-fquelle\beispieldatei.zip
+
+Übergabeparameter, die an das XKM übergeben werden.
 
 eingestellten .0.jar“
 
@@ -747,13 +833,17 @@ eingestellten .0.jar“
 
 ---
 
-**5**
+# 5 Schlüssel
 
-## Schlüssel
+Jeder vom XKM verwendete Schlüssel existiert als separate PEM-Dateien mit der Endung  . Zwei zueinander gehörige Teile eines Schlüsselpaars stellen die Endpunkte
 
-Jeder vom XKM verwendete Schlüssel existiert als separate PEM-Dateien mit der Endung  . Zwei zueinander gehörige Teile eines Schlüsselpaars stellen die Endpunkte pub oder „.pfx“ eines Verschlüsselungsszenarios dar.
+pub oder „.pfx“
 
-Der eine Teil ist der öffentliche Schlüssel (enthält die Bezeichnung „oeffentlich“ als Dateina- mensbestandteil), der verteilt und zum verschlüsseln verwendet wird.
+eines Verschlüsselungsszenarios dar.
+
+Der eine Teil ist der öffentliche Schlüssel (enthält die Bezeichnung „oeffentlich“ als Dateina-
+
+mensbestandteil), der verteilt und zum verschlüsseln verwendet wird.
 
 Das passende Gegenstück ist der private Schlüssel (enthält die Bezeichnung „privat“ als Da- teinamensbestandteil), der zum entschlüsseln verwendet wird und keinesfalls weitergegeben  werden darf.
 
@@ -761,7 +851,7 @@ Die beiden Standardschlüsselverzeichnisse sind %XKMROOT%/System/keys/ (hier sol
 
 nichts geändert werden) und %XKMROOT%/Schluessel/, welches zur Ablage nachträglich  erhaltener (in der Regel öffentlicher) Schlüssel verwendet werden kann.
 
-**5.1 Individuelles Benutzerschlüsselpaar**
+## 5.1 Individuelles Benutzerschlüsselpaar
 
 Das individuelle Benutzerschlüsselpaar kann für beliebige Zwecke jenseits der Standardkom- munikationsszenarien verwendet werden. Dabei handelt es sich um ein auf zufälligen Para- metern beruhendes, eindeutiges Schlüsselpaar, das auf Dateinamensebene mittels Benutzer- kennung „personalisiert“ wird.
 
@@ -771,11 +861,15 @@ Die vom XKM des Kommunikationspartners damit verschlüsselten Daten können nur 
 
 Beim Start des XKM mit GUI findet eine Überprüfung auf Existenz eines individuellen Schlüs- selpaares statt. Ist keines vorhanden, wird per Dialog eine Benutzerkennung abgefragt. Diese  Benutzerkennung dient zum Personalisieren der Dateinamen des individuellen öffentlichen  und privaten Schlüssels.
 
-Wenn die Konsolenvariante des XKM verwendet wird, muss die Erzeugung eines individuellen  Schlüsselpaars selbst erfolgen. Hierzu kann der Datei „ErzeugeBenutzerschluessel.*“ mit Pa- rameter , -b’eine Benutzerkennung übergeben werden (alternativ kann die Benutzerkennung  auch per Dialog über „ErzeugeGUIBenutzerschluessel.*“ angegeben werden).
+Wenn die Konsolenvariante des XKM verwendet wird, muss die Erzeugung eines individuellen  Schlüsselpaars selbst erfolgen. Hierzu kann der Datei „ErzeugeBenutzerschluessel.*“ mit Pa- rameter , -b’eine Benutzerkennung übergeben werden (alternativ kann die Benutzerkennung
+
+auch per Dialog über „ErzeugeGUIBenutzerschluessel.*“ angegeben werden).
 
 Nach Erzeugung eines individuellen Benutzerschlüsselpaars stehen 2 neue Arbeitsmodi zur  Verfügung: „Verschluesselung“ und „Entschluesselung“, wobei hauptsächlich letzter relevant  ist, um die in einer anderen XKM-Instanz mit dem vorher dorthin übermittelten eigenen öffent- lichen Schlüssel verschlüsselte Daten wieder entschlüsseln zu können.
 
-**Beispiel:** Erzeugung eines individuellen Schlüsselpaars für die Arztnummer bzw. Betriebs- stättenummer „123456789“
+**Beispiel:** Erzeugung eines individuellen Schlüsselpaars für die Arztnummer bzw. Betriebs-
+
+stättenummer „123456789“
 
 
 ---
@@ -788,7 +882,9 @@ Nach Erzeugung eines individuellen Benutzerschlüsselpaars stehen 2 neue Arbeits
 | Öffentlicher Schlüssel von | •  •  • |
 |  |  |
 
-**Achtung:** Pro Praxis sollte nach Möglichkeit nur ein XKM installiert, und nur ein individuelles  Schlüsselpaar angelegt werden, da ansonsten die Verwaltung externer Schlüssel und des  Benutzerschlüssels Probleme bereiten kann.
+**Achtung:** Pro Praxis sollte nach Möglichkeit nur ein XKM installiert, und nur ein individuelles
+
+Schlüsselpaar angelegt werden, da ansonsten die Verwaltung externer Schlüssel und des  Benutzerschlüssels Probleme bereiten kann.
 
 Dieses Problem kann bei einer Netzwerkinstallation (siehe Kapitel 7.3) umgangen werden.
 
@@ -797,13 +893,17 @@ der XKM- Konsolenvari- ante, Überga- be der Benut- zerkennung mit Parameter Dur
 
 ---
 
-**5.2 Schlüssel für die Standardkommunikationsszenarien der Praxen**
+## 5.2 Schlüssel für die Standardkommunikationsszenarien der Praxen
 
 Für die Datenverschlüsselung im Rahmen der Abrechnung, bei DMP und Koloskopie, so wie  für die Auftrags - und Befundverschlüsselung und -entschlüsselung gibt es vorgefertigte Ar- beitsmodi. D.h. die Zuordnung eines Modusnamens, -typs und weiterer Attribute zu einem  Schlüsseldateinamen existiert in der Datei %XKMROOT%/System/schluesselintern.xml be- reits. Im XPM -Paket stehen diese Standardmodi zunächst noch nicht zur Verfügung, da (an- ders als beim Prüfassistent und beim Kryptomat) noch keine Schlüssel enthalten sind.
 
-**Wichtig:** Vor Auslieferung des XKM-Pakets muss es mit den für den Endanwender relevanten  Schlüsseln bestückt werden.
+**Wichtig:** Vor Auslieferung des XKM-Pakets muss es mit den für den Endanwender relevanten
 
-**Beispiel:** Vorbereitung des XKM -Pakets für Abrechnungsverschlüsselung und Auftrags - und  Befundverschlüsselung und entschlüsselung.
+Schlüsseln bestückt werden.
+
+**Beispiel:** Vorbereitung des XKM -Pakets für Abrechnungsverschlüsselung und Auftrags - und
+
+Befundverschlüsselung und entschlüsselung.
 
 | Schlüssel besorgen | • https://update.kbv.de Internetseite (http://www.kbv.de/html/updates.php ) die notwendigen |
 |---|---|
@@ -813,32 +913,84 @@ Laden Sie von unserem Updateserver Schlüssel in der aktuell gültigen Version O
 
 ---
 
-**6**
+# 6 Schlüsselverwaltung / Arbeitsmodi
 
-## Schlüsselverwaltung / Arbeitsmodi
+zuordnung zu den entsprechenden Modi erfolgt über 2 XML-
 
-zuordnung zu den entsprechenden Modi erfolgt über 2 XML-Die Schlüsselverwaltung und  Dateien: schluesselintern.xml (Standardverzeichnis: %XKMROOT%/System/) und schlues- sel.xml (Standardverzeichnis: %XKMROOT%/Konfig/ ). Die Datei „schluesselintern.xml“ sollte  im Normalfall nicht editiert werden, und muss sich immer in dem Systemverzeichnis befinden,  dessen Pfad und Dateiname konfigurierbar ist. Erweiterungen können über die Datei „schlu- essel.xml“ definiert werden, deren Pfad und Dateiname konfigurierbar ist.
+Die Schlüsselverwaltung und  Dateien: schluesselintern.xml (Standardverzeichnis: %XKMROOT%/System/) und schlues- sel.xml (Standardverzeichnis: %XKMROOT%/Konfig/ ). Die Datei „schluesselintern.xml“ sollte  im Normalfall nicht editiert werden, und muss sich immer in dem Systemverzeichnis befinden,  dessen Pfad und Dateiname konfigurierbar ist. Erweiterungen können über die Datei „schlu- essel.xml“ definiert werden, deren Pfad und Dateiname konfigurierbar ist.
 
-**6.1 Einbinden von Schlüsseln**
+## 6.1 Einbinden von Schlüsseln
 
 Die Standardarbeitsmodi sind bereits in der Datei „schlüsselintern.xml“ definiert. Weitere
 
 Schlüssel können in der Datei „schluessel.xml“ (Standardverzeichnis %XKMROOT%/Konfig/)  eingebunden werden. Dort sind bereits 2 auskommentierte Musterblöcke (Element „Arbeits- modus“ mit Kindelementen) enthalten.
 
-<?xml version="1.0" encoding="ISO-8859-1"?>  <!-- Beispieldatei für benutzerdefinierte Arbeitsmodi -->   <arbeitsmodi>   <!-- Beginn der ersten Auskommentierung -  <arbeitsmodus>  <typ>verschluesselung</typ>  <name>Spezial1_Verschluesselung</name>  <schluessel>Public_Key_allgemein_V01.pub</schluessel>  </arbeitsmodus>  - Ende der ersten Auskommentierung -->   <!-- Beginn der zweiten Auskommentierung -  <arbeitsmodus>  <typ>entschluesselung</typ>  <name>Spezial1_Entschluesselung</name>  <schluessel>Private_Key_allgemein_V01.pfx</schluessel>  </arbeitsmodus>  - Ende der zweiten Auskommentierung -->   </arbeitsmodi>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Beispieldatei für benutzerdefinierte Arbeitsmodi -->
+
+<arbeitsmodi>
+
+<!-- Beginn der ersten Auskommentierung -
+
+<arbeitsmodus>
+
+<typ>verschluesselung</typ>
+
+<name>Spezial1_Verschluesselung</name>
+
+<schluessel>Public_Key_allgemein_V01.pub</schluessel>
+
+</arbeitsmodus>
+
+- Ende der ersten Auskommentierung -->
+
+<!-- Beginn der zweiten Auskommentierung -
+
+<arbeitsmodus>
+
+<typ>entschluesselung</typ>
+
+<name>Spezial1_Entschluesselung</name>
+
+<schluessel>Private_Key_allgemein_V01.pfx</schluessel>
+
+</arbeitsmodus>
+
+- Ende der zweiten Auskommentierung -->
+
+</arbeitsmodi>
 
 Im Element „typ“ wird die Verschlüsselungsart festgelegt, es gibt die beiden Typen „verschlu- esselung“ und „entschluesselung“. Ein einzubindender öffentlicher Schlüssel sollte immer ei- nem Arbeitsmodus vom Typ „verschluesselung“, ein privater Schlüssel immer vom Typ „ent- schluesselung“ sein.
 
-m’, oder Auswahl auf dem GUI-Optionendialog) erfolgt programm- Im Element „name“ wird ein frei wählbarer Modusname festgelegt. Unter diesem Namen  (Übergabe mit Parameter ,- intern die Schlüsselauswahl. Dieser Name muss eindeutig sein (d.h. darf in den Dateien  schluesselintern.xml und schluessel.xml insgesamt nur einmal vorkommen), ansonsten mel- det das XKM beim nächsten Startversuch einen Konfigurationsfehler und kann nicht gestartet  werden.
+m’, oder Auswahl auf dem GUI-Optionendialog) erfolgt programm-
+
+Im Element „name“ wird ein frei wählbarer Modusname festgelegt. Unter diesem Namen  (Übergabe mit Parameter ,- intern die Schlüsselauswahl. Dieser Name muss eindeutig sein (d.h. darf in den Dateien  schluesselintern.xml und schluessel.xml insgesamt nur einmal vorkommen), ansonsten mel- det das XKM beim nächsten Startversuch einen Konfigurationsfehler und kann nicht gestartet  werden.
 
 Im Element „schluessel“ wird der Dateiname des einzubindenden Schlüssels angegeben. Der  einzubindende Schlüssel muss physikalisch unter dem angegebenen Dateinamen „Schlues- sel“ (Standardpfad %XKMROOT%/Schluessel/) abgelegt sein, erst dadurch steht der Modus  unter der im Element „name“ festgelegten Bezeichnung auch tatsächlich zur Verfügung.
 
 
 ---
 
-**6.2 Testen von Ver- und Entschlüsselung**
+## 6.2 Testen von Ver- und Entschlüsselung
 
-Als Hilfestellung sowie zur Verwendung im Rahmen von internen Qualitätssicherungen der  die Datei schluesselintern.xml“ um Arbeitsmodi Softwarehäuser wurde die  TEST_Verschluesselung und TEST_Entschluesselung erweitert. Zugehörig zu den Arbeits- die Schlüssel Privat_Testschluessel_V0 und Oeffent-modi wurden 2.pfx  lich_Testschluessel_V02.pub erzeugt.
+Als Hilfestellung sowie zur Verwendung im Rahmen von internen Qualitätssicherungen der  die Datei schluesselintern.xml“ um
+
+Arbeitsmodi
+
+Softwarehäuser wurde
+
+die
+
+TEST_Verschluesselung und TEST_Entschluesselung erweitert. Zugehörig zu den Arbeits- die Schlüssel
+
+Privat_Testschluessel_V0
+
+und Oeffent-
+
+modi wurden 2.pfx
+
+lich_Testschluessel_V02.pub erzeugt.
 
 Hinweis: Die Arbeitsmodi sowie das Schlüsselpaar sind nur zu TESTZWECKEN zu verwen- den.
 
@@ -851,36 +1003,50 @@ Im Rahmen der Anwendung erfolgt durch das XKM ein Hinweis auf Konsole bzw. im Pr
 
 ---
 
-**7**
+# 7 Konfigurations und Handhabungsempfehlungen
 
-## Konfigurations und Handhabungsempfehlungen
+## 7.1 Backup der Schlüssel und der Schlüsselzuordnung
 
-**7.1 Backup der Schlüssel und der Schlüsselzuordnung**
+Der Prüfassistent verwendet nur einen Schlüssel (für die Abrechnungsverschlüsselung), beim  Kryptomat (s. Kapitel 2) sorgt die Installationsroutine dafür, dass das „Schluessel“-Verzeichnis
 
-Der Prüfassistent verwendet nur einen Schlüssel (für die Abrechnungsverschlüsselung), beim  Kryptomat (s. Kapitel 2) sorgt die Installationsroutine dafür, dass das „Schluessel“-Verzeichnis  und die Zuordnungsdatei „schluessel.xml“ bei einem Programmupdate nicht überschrieben  werden. Dies ist wichtig, um den individuellen privaten und andere eingebundene Schlüssel  nicht zu verlieren. Beim XKM -Paket muss selbst für das entsprechende Backup gesorgt wer- den.
+und die Zuordnungsdatei „schluessel.xml“ bei einem Programmupdate nicht überschrieben  werden. Dies ist wichtig, um den individuellen privaten und andere eingebundene Schlüssel  nicht zu verlieren. Beim XKM -Paket muss selbst für das entsprechende Backup gesorgt wer- den.
 
-Grundsätzlich sollte bei allen Programmvarianten, wenn außer den Standardschlüsseln zu- sätzliche Schlüssel hinzugefügt wurden, regelmäßig Sicherungskopien des „System“ Verzeichnisses, des „Schluessel“ Verzeichnisses und der Zuordnungsdatei „schluessel.xml“  (im Verzeichnis „Konfig“) erfolgen, da bei einem Verlust der Daten alle zusätzlichen Schlüssel  neu besorgt, und alle zusätzlichen Modi wieder neu definiert werden müssen. Ein Verlust des  individuellen privaten Schlüssels führt dazu, dass individuell verschlüsselte Dateien nicht wie- derhergestellt werden können.
+Grundsätzlich sollte bei allen Programmvarianten, wenn außer den Standardschlüsseln zu- sätzliche Schlüssel hinzugefügt wurden, regelmäßig Sicherungskopien des „System“
 
-**7.2 GUI-Optionen für Endanwender sperren**
+Verzeichnisses, des „Schluessel“ Verzeichnisses und der Zuordnungsdatei „schluessel.xml“
 
-Um eine Fehlkonfiguration des XKM durch den Endanwender zu verhindern, kann der Schal- ter „konfigdialog“ in der Konfigurationsdatei (Standardverzeichnis  %XKMROOT%/Konfig/config.xml) auf „nein“ gesetzt sein:  <konfigdialog>nein</konfigdialog>
+(im Verzeichnis „Konfig“) erfolgen, da bei einem Verlust der Daten alle zusätzlichen Schlüssel  neu besorgt, und alle zusätzlichen Modi wieder neu definiert werden müssen. Ein Verlust des  individuellen privaten Schlüssels führt dazu, dass individuell verschlüsselte Dateien nicht wie- derhergestellt werden können.
+
+## 7.2 GUI-Optionen für Endanwender sperren
+
+Um eine Fehlkonfiguration des XKM durch den Endanwender zu verhindern, kann der Schal- ter „konfigdialog“ in der Konfigurationsdatei (Standardverzeichnis
+
+%XKMROOT%/Konfig/config.xml) auf „nein“ gesetzt sein:
+
+<konfigdialog>nein</konfigdialog>
 
 Dadurch kann der Menüpunkt „Optionen“ im Menü „Bearbeitung“ nicht ausgewählt werden.
 
 Alternativ müssen dem Anwender dann aber entsprechende Programmstartmöglichkeiten zur  Verfügung stehen, mit denen er das XKM in den für ihn relevanten Modi aufrufen kann.
 
-**7.3 XKM-Installation auf einem Netzlaufwerk**
+## 7.3 XKM-Installation auf einem Netzlaufwerk
 
-Wenn das XKM auf einem Netzlaufwerk installiert werden soll, auf das von anderen Rechnern  über Netzwerk zugegriffen wird, so muss das „System“-Verzeichnis lokal auf sämtliche Rech- ner kopiert werden von denen aus das XKM verwendet werden soll. Auf diese Verzeichnisse  greift die lokal laufende Java-VM permanent zu.
+Wenn das XKM auf einem Netzlaufwerk installiert werden soll, auf das von anderen Rechnern  über Netzwerk zugegriffen wird, so muss das „System“-Verzeichnis lokal auf sämtliche Rech-
+
+ner kopiert werden von denen aus das XKM verwendet werden soll. Auf diese Verzeichnisse  greift die lokal laufende Java-VM permanent zu.
 
 Da das XKM nicht multi-user fähig ist, würde sonst bei nur einem zentralen Systemverzeichnis  bei gleichzeitiger Benutzung von zwei oder mehr Arbeitsplätzen aus entweder ein Fehler auf- treten und das Kryptomodul würde abbrechen oder es könnten falsche Daten, welche nicht  von dem Anwender selber stammen, verschlüsselt werden.
 
-Hierbei ist zu beachten, dass das „System“ -Verzeichnis erst nach einem erstmaligem Aufruf  der GUI -Variante bzw. nach manuellem Aufruf von „ErzeugeBenutzerschluessel.*“ kopiert  werden sollte, damit alle Installationen denselben individuellen privaten Schlüssel verwenden.
+Hierbei ist zu beachten, dass das „System“ -Verzeichnis erst nach einem erstmaligem Aufruf
+
+der GUI -Variante bzw. nach manuellem Aufruf von „ErzeugeBenutzerschluessel.*“ kopiert
+
+werden sollte, damit alle Installationen denselben individuellen privaten Schlüssel verwenden.
 
 
 ---
 
-**7.4 Starten des XKM aus einem Java-Programm heraus**
+## 7.4 Starten des XKM aus einem Java-Programm heraus
 
 ### Das XKM ist eine Java -Applikation und kann von einem anderen Java -Programm aufgerufen
 
@@ -888,47 +1054,85 @@ werden. Für eine leichtere Anbindung wurde die Klasse de.kbv.xkm.extern.XKMEins
 
 ### Klasse XKMEinstieg:
 
-package XKMEinstiegBeispiel;  import de.kbv.xkm.extern.XKMEinstieg;  import de.kbv.xkm.XKMException;   public class XKMEinstiegBeispiel {   public static void main (String args[]) {   XKMEinstieg xkm = new XKMEinstieg ();  int nRetCode = 0;   System.out.println("Kryptomodul ueber XKMEinstieg gestartet");   try {  xkm.setQuelle("quelle/beispiel_daten.zip");  xkm.setProtokolldatei("listen/MeinProtokoll");  xkm.setProtokollformat("XLS");  xkm.setArbeitsmodus("Verschluesselung");  nRetCode = xkm.start();  System.out.println("XKM mit Returncode " + nRetCode + " beendet");
+package XKMEinstiegBeispiel;
 
-catch (XKMException ex){  nRetCode = ex.getCode();  System.err.println("Fehlercode: " + nRetCode + ". " + ex.getMessage());
+import de.kbv.xkm.extern.XKMEinstieg;
+
+import de.kbv.xkm.XKMException;
+
+public class XKMEinstiegBeispiel {
+
+public static void main (String args[]) {
+
+XKMEinstieg xkm = new XKMEinstieg ();
+
+int nRetCode = 0;
+
+System.out.println("Kryptomodul ueber XKMEinstieg gestartet");
+
+try {
+
+xkm.setQuelle("quelle/beispiel_daten.zip");
+
+xkm.setProtokolldatei("listen/MeinProtokoll");
+
+xkm.setProtokollformat("XLS");
+
+xkm.setArbeitsmodus("Verschluesselung");
+
+nRetCode = xkm.start();
+
+System.out.println("XKM mit Returncode " + nRetCode + " beendet");
+
+catch (XKMException ex){
+
+nRetCode = ex.getCode();
+
+System.err.println("Fehlercode: " + nRetCode + ". " + ex.getMessage());
 
 
 ---
 
-**8**
-
-## Das Verschlüsselungsverfahren des XKM
+# 8 Das Verschlüsselungsverfahren des XKM
 
 Das XKM verwendet ein hybrides Verschlüsselungsverfahren, bei dem die Daten symmet- risch, und der zugehörige symmetrische Schlüssel asymmetrisch verschlüsselt werden. Hier- durch werden die Vorteile der beiden Verfahren auf geeignete Weise kombiniert.
 
 Einige Merkmale des hybriden Verschlüsselungsverfahrens:
 
-a) Performance: Die Nutzdaten werden symmetrisch verschlüsselt, was etwa um den  Faktor 1000 schneller als eine asymmetrische Verschlüsselung durchgeführt werden  kann. Die asymmetrische Verschlüsselung des symmetrischen Schlüssels  selverschlüsselung“) fällt dagegen nicht ins Gewicht.
+- a) Performance: Die Nutzdaten werden symmetrisch verschlüsselt, was etwa um den
 
-b) Sicherheit: Das symmetrische Verfahren wird anhand von AES bei einer Schlüssellän- ge von 256 Bit durchgeführt. Die Größe de s asymmetrischen Schlüssels liegt bei 256  Bit, während das verwendete Verfahren die Ent - oder Verschlüssellung auf Grundlage  des überreichten Schlüsselpaares bestimmt
+- Faktor 1000 schneller als eine asymmetrische Verschlüsselung durchgeführt werden  kann. Die asymmetrische Verschlüsselung des symmetrischen Schlüssels  selverschlüsselung“) fällt dagegen nicht ins Gewicht.
 
-a. Neu generierte Schlüssel über die Hilfsprogramme  und *ErzeugeGUIBenutzerschluessel*
+- b) Sicherheit: Das symmetrische Verfahren wird anhand von AES bei einer Schlüssellän- ge von 256 Bit durchgeführt. Die Größe de s asymmetrischen Schlüssels liegt bei 256  Bit, während das verwendete Verfahren die Ent - oder Verschlüssellung auf Grundlage  des überreichten Schlüsselpaares bestimmt
 
-Kapitel 3.8).
+- a. Neu generierte Schlüssel über die Hilfsprogramme  und *ErzeugeGUIBenutzerschluessel*
 
-c) Schlüssellogistik: Die Zahl der nötigen Schlüssel wächst linear mit der Zahl der Teil- nehmer. Bei rein symmetrischen Systemen ist der Zuwachs dagegen quadratisch.
+- Kapitel 3.8).
 
-d) Eine geheime Übermittlung des Schlüssels  derlich  entfällt. Die Kombination aus Private - und Public -Key ermöglicht spontane  Kommunikation.
+- c) Schlüssellogistik: Die Zahl der nötigen Schlüssel wächst linear mit der Zahl der Teil- nehmer. Bei rein symmetrischen Systemen ist der Zuwachs dagegen quadratisch.
 
-werden im ECC Verfahren erzeugt (siehe
+- d) Eine geheime Übermittlung des Schlüssels
 
-- wie bei symmetrischen Verfahren erfor-
+- derlich  entfällt. Die Kombination aus Private - und Public -Key ermöglicht spontane - Kommunikation.
 
-(„Schlüs-
+-
 
-*ErzeugeBenutzerschluessel*
+-
+
+- werden im ECC Verfahren erzeugt (siehe
+
+- - wie bei symmetrischen Verfahren erfor-
+
+- („Schlüs-
+
+- *ErzeugeBenutzerschluessel*
+
+-
 
 
 ---
 
-**9**
-
-## Aufbau des XKM
+# 9 Aufbau des XKM
 
 Es folgt eine Strukturbeschreibung des 256-Byte grossen XKM-Header, der jedem verschlüs- selten Paket vorangestellt wird:
 
@@ -964,10 +1168,10 @@ Hinweise: -
 
 **Tabelle 9: Strukturbeschreibung des XKM Headers**
 
-Alle Inhalte werden linksbündig in die Felder geschrieben
+- Alle Inhalte werden linksbündig in die Felder geschrieben
 
-Bei Bedarf wird mit Leerzeichen aufgefüllt
+- Bei Bedarf wird mit Leerzeichen aufgefüllt
 
-## Header
+# Header -
 
-triebstättenummer (BSNR) BSNR:’ + Arztnummer bzw. BSNR (Optional) im Format dd.mm.yyyy hh:mm:ss y = Pakete insgesamt XKM verschlüsselte Datei XKM 1.08) Konstante ‚TEST’ Verwendung (ab XKM 1.08) Testschlüsselung
+triebstättenummer (BSNR) BSNR:’ + Arztnummer bzw. BSNR (Optional) im Format dd.mm.yyyy hh:mm:ss y = Pakete insgesamt XKM verschlüsselte Datei XKM 1.08) Konstante ‚TEST’ Verwendung (ab XKM 1.08) Testschlüsselung-

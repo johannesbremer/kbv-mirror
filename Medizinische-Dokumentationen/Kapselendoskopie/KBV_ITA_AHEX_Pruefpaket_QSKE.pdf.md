@@ -13,14 +13,45 @@
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 
-
 ---
 
 ## INHALT
 
-**1** **ALLGEMEINES 5**
+**1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage 5  1.2 Zertifizierungsablauf 5  1.3 Zertifizierungsportal 6  1.4 Zertifizierungsdokumente 6  1.5 Prüfunterlagen 6  1.6 Prüfvorgaben 7  1.6.1 Prüfstammdaten 7  1.6.2 Praxisdaten/ Arztstempel 8
+**5**
+
+1.1 Rechtsgrundlage
+
+5
+
+1.2 Zertifizierungsablauf
+
+5
+
+1.3 Zertifizierungsportal
+
+6
+
+1.4 Zertifizierungsdokumente
+
+6
+
+1.5 Prüfunterlagen
+
+6
+
+1.6 Prüfvorgaben
+
+7
+
+1.6.1 Prüfstammdaten
+
+7
+
+1.6.2 Praxisdaten/ Arztstempel
+
+8
 
 | **2** |  | **PRÜFFÄLLE** | **9** |
 |---|---|---|---|
@@ -28,14 +59,15 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT
 | 2.2 | Prüffall | 2 | 11 |
 | 2.3 | Prüffall | 3 | 14 |
 
-**3** **REFERENZIERTE DOKUME NTE 15**
+**3** **REFERENZIERTE DOKUME NTE**
+
+**15**
 
 Prüffall 1 Prüffall 2 Prüffall 3
 
-
 ---
 
-## ABBILDUNGSVERZEICHNIS
+# ABBILDUNGSVERZEICHNIS
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
@@ -54,9 +86,7 @@ Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungspor
 
 ---
 
-1
-
-## ALLGEMEINES
+# 1 ALLGEMEINES
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Qualitätssicherung „Kapselendoskopie“.
 
@@ -64,15 +94,31 @@ Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antra
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
-naler Blutungen“.  Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V für die Dünndarm-Kapselendoskopie zur Abklärung obskurer gastrointesti
+naler Blutungen“.
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V für die Dünndarm-Kapselendoskopie zur Abklärung obskurer gastrointesti
+
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
-1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.  2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  ssteller 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
+- 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
+
+- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der  Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail  eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
+
+- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- ssteller
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
 
@@ -81,15 +127,19 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
-1.3 ZERTIFIZIERUNGSPORTAL
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der Die Zugangsdaten können direkt über das Portal oder per  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+E-Mail an [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der
 
-den Antrag auf Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
+Die Zugangsdaten können direkt über das Portal oder per  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+
+den Antrag auf
+
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:
 
 „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -101,33 +151,65 @@ Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig
 
 Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
-ENTE 1.4 ZERTIFIZIERUNGSDOKUM
+## ENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente 1.5 PRÜFUNTERLAGEN
+## 1.4 ZERTIFIZIERUNGSDOKUM
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:   Zwei Jahresstatistiken (XML-Dateien), welche in entsprechender Ordnerstruktur in jeweils eine eigene  Archivdatei (*.zip.XKM) verschlüsselt wurden. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV  vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe  Kapitel 1.3) hochgeladen und geprüft werden.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
-Die geforderten Screenshots werden in einem gesonderten Ordner erwartet. Bitte speichern Sie jeden  Screenshot in einer pdf-Datei mit folgender Namenskonvention:  Screenshot_P_K.pdf Wobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beispielsweise lautet der Dateiname für  Konstellation 3 aus Prüffall 2 „Screenshot_2_3.pdf“. Sollte es keine Konstellation in diesem Prüffall
+## 1.5 PRÜFUNTERLAGEN
+
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+
+- Zwei Jahresstatistiken (XML-Dateien), welche in entsprechender Ordnerstruktur in jeweils eine eigene  Archivdatei (*.zip.XKM) verschlüsselt wurden. Die Vorgaben für die Bildung der Dateinamen, die  Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte folgender Quelle:  [KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV
+
+- vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das Zertifizierungsportal (siehe
+
+- Kapitel 1.3) hochgeladen und geprüft werden.
+
+-
+
+- Die geforderten Screenshots werden in einem gesonderten Ordner erwartet. Bitte speichern Sie jeden  Screenshot in einer pdf-Datei mit folgender Namenskonvention: - Screenshot_P_K.pdf
+
+Wobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beispielsweise lautet der Dateiname für  Konstellation 3 aus Prüffall 2 „Screenshot_2_3.pdf“. Sollte es keine Konstellation in diesem Prüffall
 
 
 ---
 
-geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte Dateiname bei Prüffall 3  „Screenshot_3.pdf“. Diese werden durch den Prüfer begutachtet.   Die Archivdateien müssen um die KV -Connect-Begleitdatei ergänzt werden.  Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, bei den abgebildeten  Dateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM Dateien nur beispielhaft   Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:   .zip Zert_60_*SystemID*  Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte Dateiname bei Prüffall 3
+
+„Screenshot_3.pdf“. Diese werden durch den Prüfer begutachtet.
+
+-
+
+-  Die Archivdateien müssen um die KV -Connect-Begleitdatei ergänzt werden.  Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, bei den abgebildeten
+
+- Dateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM Dateien nur beispielhaft
+
+- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden: .zip
+
+Zert_60_*SystemID*
+
+Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-**1.6** **PRÜFVORGABEN**
+## 1.6 PRÜFVORGABEN
 
-Unterlagen unter Verwendung des Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Unterlagen unter Verwendung des
 
-**1.6.1** **Prüfstammdaten**
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+### 1.6.1 Prüfstammdaten
+
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
+
+werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 
 ---
 
-**1.6.2** **Praxisdaten/ Arztstempel**
+### 1.6.2 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -266,7 +348,6 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 
 Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
 
-
 ---
 
 | 7 Kapselendoskopien mit Auslassung | |
@@ -396,9 +477,7 @@ Beurteilbarkeit des Bildmaterials Kapselendoskopien mit nicht eingeschränkter B
 
 ---
 
-3
-
-## REFERENZIERTE DOKUMENTE
+# 3 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

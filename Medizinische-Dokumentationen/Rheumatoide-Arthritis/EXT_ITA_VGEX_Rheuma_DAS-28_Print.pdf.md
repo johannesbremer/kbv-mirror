@@ -2,7 +2,9 @@ Zur Ermittlung des **DAS-28-Wertes** müssen folgende vier Parameter erfasst wer
 
 (1) **Anzahl der druckschmerzhaften Gelenke**
 
-Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite** beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
+Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der linken Körperseite**
+
+beurteilt, sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Beurteilen Sie bitte für jedes  der folgenden 14 Gelenke **jeweils rechts- und linksseitig**
 
 **Gelenk (druckschmerzhaft) R L**
 
@@ -42,7 +44,9 @@ Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der link
 
 (2)
 
-**Gelenk (geschwollen) R L**
+**Gelenk (geschwollen) R**
+
+**L**
 
 1. Schultergelenk
 
@@ -83,7 +87,9 @@ Anzahl der geschwollenen Gelenke Die 14 definierten Gelenke werden sowohl auf de
 
 ---
 
-**Einschätzung der Krankheitsaktivität** in den letzten 7 Tagen  **selbst** auf einer **visuellen Analogskala** (VAS, 0 – 100 mm):
+**Einschätzung der Krankheitsaktivität** in den letzten 7 Tagen
+
+**selbst** auf einer **visuellen Analogskala** (VAS, 0 – 100 mm):
 
 Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 und 100 dargestellt. Die  0 bedeutet dabei „keine Krankheitsaktivität“ und die 100 „stärkst mögliche Krankheitsaktivität“.
 
@@ -98,7 +104,9 @@ Die VAS wird der Patientin oder dem Patienten mit folgender Instruktion vorgeleg
 
 Der Wert kann dort, wo die Patientin ihr oder der Patient sein Kreuz setzt, millimetergenau abgelesen  werden. Dabei entspricht 1 mm einem Punkt. Kann die Skala der Patientin bzw. dem Patienten nicht  vorgelegt werden, können Sie die Stärke der Krankheitsaktivität auch mündlich erfragen und die Patientin  oder den Patienten bitten, eine Zahl zwischen 0 und 100 zu nennen.
 
-(4) **Blutsenkungsgeschwindigkeit (BSG)** in der Einheit mm pro Stunde (mm/h) als aktuelles serologisches  Entzündungszeichen (1-Std.-Wert)
+(4) **Blutsenkungsgeschwindigkeit (BSG)** in der Einheit mm pro Stunde (mm/h) als aktuelles serologisches
+
+Entzündungszeichen (1-Std.-Wert)
 
 Ermittlung des **DAS-28-Wertes**
 
@@ -112,7 +120,9 @@ Aus den vier Werten wird der DAS-28-Wert anhand der folgenden Formel berechnet:
 
 DAS-28-Wert = 0.56* (t28) + 0.28* (sw28) + 0.70*Ln(BSG) + 0.014*VAS
 
-*Legende:* t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher  Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen.
+*Legende:* t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher
+
+Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen.
 
 **durch die Patientin oder den Patienten**
 

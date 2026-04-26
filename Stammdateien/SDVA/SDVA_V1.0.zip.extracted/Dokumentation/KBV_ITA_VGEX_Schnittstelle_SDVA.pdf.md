@@ -7,7 +7,9 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 21. APRIL 2021  VERSION: 1.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG- STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG-
+
+# STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDVA]
 
@@ -17,48 +19,326 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1** **EINLEITUNG 7**
+**1** **EINLEITUNG**
 
-**2** **KONVENTIONEN 7**
+**7**
 
-2.1 Zeichensatz 7  2.2 Namenspace 7  2.3 Root-Schema 7  2.4 Dateinamen 7  2.5 Semantik der verwendeten Diagramm-Symbole 9  2.5.1 Kardinalität 9  2.5.2 Strukturelemente 9  2.5.3 Sonstige Symbole 10
+**2** **KONVENTIONEN**
 
-**3** **EHD-ELEMENT (ROOT-ELEMENT) 11**
+**7**
 
-**4** **HEADER (METADATEN) 12**
+2.1 Zeichensatz
 
-**5** **BODY (INHALTSDATEN) 12**
+7
 
-5.1 va_stammdaten 12  5.2 haupt_zweig_liste 12  5.2.1 haupt_zweig 13  5.2.2 titel 14  5.2.3 nr 14  5.2.4 beschreibung 14  5.2.5 hauptkapitel_liste 14  5.2.6 hauptkapitel 14  5.2.7 titel 15  5.2.8 nr 15  5.2.9 beschreibung 15  5.2.10 kapitel_liste 15  5.2.11 kapitel 16  5.2.12 titel 16  5.2.13 nr 17  5.2.14 beschreibung 17  5.2.15 unterkapitel_liste 17  5.2.16 unterkapitel 17  5.2.17 titel 18  5.2.18 nr 18  5.2.19 beschreibung 18  5.3 beschreibung 18  5.3.1 div 19  5.3.2 ul 20  5.3.2.1 li 20  5.3.3 table 21  5.3.3.1 tr 22  5.3.3.2 th 22  5.3.3.3 td 23  5.3.4 ol 23
+2.2 Namenspace
+
+7
+
+2.3 Root-Schema
+
+7
+
+2.4 Dateinamen
+
+7
+
+2.5 Semantik der verwendeten Diagramm-Symbole 9
+
+2.5.1 Kardinalität
+
+9
+
+2.5.2 Strukturelemente
+
+9
+
+2.5.3 Sonstige Symbole
+
+10
+
+**3** **EHD-ELEMENT (ROOT-ELEMENT)**
+
+**11**
+
+**4** **HEADER (METADATEN)**
+
+**12**
+
+**5** **BODY (INHALTSDATEN)**
+
+**12**
+
+5.1 va_stammdaten
+
+12
+
+5.2 haupt_zweig_liste
+
+12
+
+5.2.1 haupt_zweig
+
+13
+
+5.2.2 titel
+
+14
+
+5.2.3 nr
+
+14
+
+5.2.4 beschreibung
+
+14
+
+5.2.5 hauptkapitel_liste
+
+14
+
+5.2.6 hauptkapitel
+
+14
+
+5.2.7 titel
+
+15
+
+5.2.8 nr
+
+15
+
+5.2.9 beschreibung
+
+15
+
+5.2.10 kapitel_liste
+
+15
+
+5.2.11 kapitel
+
+16
+
+5.2.12 titel
+
+16
+
+5.2.13 nr
+
+17
+
+5.2.14 beschreibung
+
+17
+
+5.2.15 unterkapitel_liste
+
+17
+
+5.2.16 unterkapitel
+
+17
+
+5.2.17 titel
+
+18
+
+5.2.18 nr
+
+18
+
+5.2.19 beschreibung
+
+18
+
+5.3 beschreibung
+
+18
+
+5.3.1 div
+
+19
+
+5.3.2 ul
+
+20
+
+5.3.2.1 li
+
+20
+
+5.3.3 table
+
+21
+
+5.3.3.1 tr
+
+22
+
+5.3.3.2 th
+
+22
+
+5.3.3.3 td
+
+23
+
+5.3.4 ol
+
+23
 
 
 ---
 
-5.3.4.1 li 24  5.3.5 siehe Kapitel 5.3.2.1p 24  5.3.6 br 24  5.4 titel 24  5.5 nr 25
+5.3.4.1 li
 
-**6** **REFERENZIERTE DOKUMENTE 26**
+24
+
+5.3.5 siehe Kapitel 5.3.2.1p
+
+24
+
+5.3.6 br
+
+24
+
+5.4 titel
+
+24
+
+5.5 nr
+
+25
+
+**6** **REFERENZIERTE DOKUMENTE**
+
+**26**
 
 
 ---
 
 ## ABBILDUNGSVERZEICHNIS
 
-ABBILDUNG 1: /EHD (ROOT-ELEMENT) ............................................................................................................................ 11  ABBILDUNG 2 VA_STAMMDATEN ................................................................................................................................... 12  ABBILDUNG 3 HAUPT_ZWEIG_LISTE ............................................................................................................................... 12  ABBILDUNG 4 HAUPT_ZWEIG .......................................................................................................................................... 13  ABBILDUNG 5 HAUPTKAPITEL_LISTE ............................................................................................................................... 14  ABBILDUNG 6: HAUPTKAPITEL .......................................................................................................................................... 15  ABBILDUNG 7: KAPITEL_LISTE ........................................................................................................................................... 15  ABBILDUNG 8: KAPITEL ..................................................................................................................................................... 16  ABBILDUNG 9: UNTERKAPITEL_LISTE ............................................................................................................................... 17  ABBILDUNG 10: UNTERKAPITEL ........................................................................................................................................ 17  ABBILDUNG 11: BESCHREIBUNG ...................................................................................................................................... 18  ABBILDUNG 12: DIV .......................................................................................................................................................... 19  ABBILDUNG 13: UL ............................................................................................................................................................ 20  ABBILDUNG 14: LI ............................................................................................................................................................. 21  ABBILDUNG 15: TABLE ...................................................................................................................................................... 21  ABBILDUNG 16: TR ............................................................................................................................................................ 22  ABBILDUNG 17: TH ........................................................................................................................................................... 22  ABBILDUNG 18: TD ........................................................................................................................................................... 23  ABBILDUNG 19: OL ........................................................................................................................................................... 23  ABBILDUNG 20: P .............................................................................................................................................................. 24  ABBILDUNG 21: BR ........................................................................................................................................................... 24  ABBILDUNG 22: TITEL ....................................................................................................................................................... 25  ABBILDUNG 23: NR ........................................................................................................................................................... 25
+ABBILDUNG 1: /EHD (ROOT-ELEMENT) ............................................................................................................................ 11
+
+ABBILDUNG 2 VA_STAMMDATEN ................................................................................................................................... 12
+
+ABBILDUNG 3 HAUPT_ZWEIG_LISTE ............................................................................................................................... 12
+
+ABBILDUNG 4 HAUPT_ZWEIG .......................................................................................................................................... 13
+
+ABBILDUNG 5 HAUPTKAPITEL_LISTE ............................................................................................................................... 14
+
+ABBILDUNG 6: HAUPTKAPITEL .......................................................................................................................................... 15
+
+ABBILDUNG 7: KAPITEL_LISTE ........................................................................................................................................... 15
+
+ABBILDUNG 8: KAPITEL ..................................................................................................................................................... 16
+
+ABBILDUNG 9: UNTERKAPITEL_LISTE ............................................................................................................................... 17
+
+ABBILDUNG 10: UNTERKAPITEL ........................................................................................................................................ 17
+
+ABBILDUNG 11: BESCHREIBUNG ...................................................................................................................................... 18
+
+ABBILDUNG 12: DIV .......................................................................................................................................................... 19
+
+ABBILDUNG 13: UL ............................................................................................................................................................ 20
+
+ABBILDUNG 14: LI ............................................................................................................................................................. 21
+
+ABBILDUNG 15: TABLE ...................................................................................................................................................... 21
+
+ABBILDUNG 16: TR ............................................................................................................................................................ 22
+
+ABBILDUNG 17: TH ........................................................................................................................................................... 22
+
+ABBILDUNG 18: TD ........................................................................................................................................................... 23
+
+ABBILDUNG 19: OL ........................................................................................................................................................... 23
+
+ABBILDUNG 20: P .............................................................................................................................................................. 24
+
+ABBILDUNG 21: BR ........................................................................................................................................................... 24
+
+ABBILDUNG 22: TITEL ....................................................................................................................................................... 25
+
+ABBILDUNG 23: NR ........................................................................................................................................................... 25
 
 
 ---
 
 ## TABELLENVERZEICHNIS
 
-TABELLE 1: BESCHREIBUNG DER BESTANDTEILE TABELLE 2: BESCHREIBUNG DER KARDINALITÄT TABELLE 3: BESCHREIBUNG DER STRUKTURELEM TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
+TABELLE 1: BESCHREIBUNG DER BESTANDTEILE
+
+TABELLE 2: BESCHREIBUNG DER KARDINALITÄT
+
+TABELLE 3: BESCHREIBUNG DER STRUKTURELEM
+
+TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
 
 ## XML-CODE VERZEICHNIS
 
-FORMEL 1: XML-CODE /EHD ............................................................................................................................................. 11 FORMEL 2: XML-CODE: VA_STAMMDATEN  FORMEL 3: XML-CODE: HAUPT_ZWEIG_LISTE  FORMEL 4: XML-CODE: HAUPT_ZWEIG ............................................................................................................................ 13 FORMEL 5: XML-CODE: HAUPTKAPITEL_LISTE  FORMEL 6: XML-CODE: HAUPTKAPITEL ............................................................................................................................ 15 FORMEL 7: XML-CODE: KAPITEL_LISTE ............................................................................................................................. 16 FORMEL 8: XML-CODE: KAPITEL ....................................................................................................................................... 16 FORMEL 9: XML-CODE: UNTERKAPITEL_LISTE  FORMEL 10: XML-CODE: UNTERKAPITEL .......................................................................................................................... 18 FORMEL 11: XML-CODE: BESCHREIBUNG ......................................................................................................................... 19 FORMEL 12: XML-CODE: DIV ............................................................................................................................................ 20 FORMEL 13: XML-CODE: UL .............................................................................................................................................. 20 FORMEL 14: XML-CODE: LI ............................................................................................................................................... 21 FORMEL 15: XML-CODE: TABLE ........................................................................................................................................ 22 FORMEL 16: XML-CODE: TR .............................................................................................................................................. 22 FORMEL 17: XML-CODE: TH .............................................................................................................................................. 23 FORMEL 18: XML-CODE: TD .............................................................................................................................................. 23 FORMEL 19: XML-CODE: OL .............................................................................................................................................. 24 FORMEL 20: XML-CODE: P ................................................................................................................................................ 24 FORMEL 21: XML-CODE: BR .............................................................................................................................................. 24 FORMEL 22: XML-CODE: TITEL .......................................................................................................................................... 25 FORMEL 23: XML-CODE: NR ............................................................................................................................................. 25
+FORMEL 1: XML-CODE /EHD ............................................................................................................................................. 11
 
-DES DATEINAMENS ................................................................................ 8  EN ............................................................................................................ 9  ENT-SYMBOLE ....................................................................................... 9
+FORMEL 2: XML-CODE: VA_STAMMDATEN
 
-...................................................................................................................... 12  .................................................................................................................. 13   .................................................................................................................. 14
+FORMEL 3: XML-CODE: HAUPT_ZWEIG_LISTE
+
+FORMEL 4: XML-CODE: HAUPT_ZWEIG ............................................................................................................................ 13
+
+FORMEL 5: XML-CODE: HAUPTKAPITEL_LISTE
+
+FORMEL 6: XML-CODE: HAUPTKAPITEL ............................................................................................................................ 15
+
+FORMEL 7: XML-CODE: KAPITEL_LISTE ............................................................................................................................. 16
+
+FORMEL 8: XML-CODE: KAPITEL ....................................................................................................................................... 16
+
+FORMEL 9: XML-CODE: UNTERKAPITEL_LISTE
+
+FORMEL 10: XML-CODE: UNTERKAPITEL .......................................................................................................................... 18
+
+FORMEL 11: XML-CODE: BESCHREIBUNG ......................................................................................................................... 19
+
+FORMEL 12: XML-CODE: DIV ............................................................................................................................................ 20
+
+FORMEL 13: XML-CODE: UL .............................................................................................................................................. 20
+
+FORMEL 14: XML-CODE: LI ............................................................................................................................................... 21
+
+FORMEL 15: XML-CODE: TABLE ........................................................................................................................................ 22
+
+FORMEL 16: XML-CODE: TR .............................................................................................................................................. 22
+
+FORMEL 17: XML-CODE: TH .............................................................................................................................................. 23
+
+FORMEL 18: XML-CODE: TD .............................................................................................................................................. 23
+
+FORMEL 19: XML-CODE: OL .............................................................................................................................................. 24
+
+FORMEL 20: XML-CODE: P ................................................................................................................................................ 24
+
+FORMEL 21: XML-CODE: BR .............................................................................................................................................. 24
+
+FORMEL 22: XML-CODE: TITEL .......................................................................................................................................... 25
+
+FORMEL 23: XML-CODE: NR ............................................................................................................................................. 25
+
+DES DATEINAMENS ................................................................................ 8
+
+EN ............................................................................................................ 9
+
+ENT-SYMBOLE ....................................................................................... 9
+
+...................................................................................................................... 12
+
+.................................................................................................................. 13
+
+.................................................................................................................. 14
 
 .................................................................................................................. 17
 
@@ -114,11 +394,11 @@ Tabelle 1: Beschreibung der Bestandteile des Dateinamens Lieferungen erfolgen ve
 
 ---
 
-**2.5** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
+## 2.5 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
 
-**2.5.1** **Kardinalität**
+### 2.5.1 Kardinalität
 
 Es existieren verschiedene Kardinalitäten:
 
@@ -131,7 +411,7 @@ Es existieren verschiedene Kardinalitäten:
 
 Tabelle 2: Beschreibung der Kardinalitäten
 
-**2.5.2** **Strukturelemente**
+### 2.5.2 Strukturelemente
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** und ***<xs:sequence>***
 
@@ -147,7 +427,7 @@ dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch d
 
 ---
 
-2.5.3 Sonstige Symbole
+### 2.5.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
@@ -165,9 +445,7 @@ BESCHREIBUNG SONSTIG ER SYMBOLE Sym Beschreibung Pluszeichen am Rechteckrand sym
 
 ---
 
-3
-
-## EHD-ELEMENT (ROOT-ELEMENT)
+# 3 EHD-ELEMENT (ROOT-ELEMENT)
 
 Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1: /ehd (root-Element) dargestellt ist. Im header-Element stehen die  spezifischen Informationen zur Schnittstelle. Im body-Element werden die eigentlichen Daten hinterlegt.
 
@@ -182,29 +460,37 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 Formel 1: XML-Code /ehd
 
-ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.  Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.  Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body ***<header>*** liegenden eigentlichen Inhaltsdaten.  ***<body>***  Hier liegen die eigentlichen Inhalte der Datenlieferung.   Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
+ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.
+
+Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.
+
+Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body
+
+***<header>*** liegenden eigentlichen Inhaltsdaten.
+
+***<body>***  Hier liegen die eigentlichen Inhalte der Datenlieferung.
+
+Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
 <?xml version="1.0" encoding="ISO-8859-15"?> <ehd:ehd xmlns="urn:ehd/001" ehd_version="...">
 
 ---
 
-4
-
-## HEADER (METADATEN)
+# 4 HEADER (METADATEN)
 
 Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
 
-5
+# 5 BODY (INHALTSDATEN)
 
-## BODY (INHALTSDATEN)
+Das ***<body*** Element beinhaltet alle Stammdaten in einer strukturierten Hierarchie von Kindelementen. Die
 
-Das ***<body*** Element beinhaltet alle Stammdaten in einer strukturierten Hierarchie von Kindelementen. Die  Hierarchieebenen gliedern sich in Verschlüsselungsanleitungen und die Informationen zu den wesentlichen
+Hierarchieebenen gliedern sich in Verschlüsselungsanleitungen und die Informationen zu den wesentlichen
 
 Änderungen der ICD.
 
 Der Namensraum ist ***„urn:ehd/va/001“***
 
-**5.1** **VA_STAMMDATEN**
+## 5.1 VA_STAMMDATEN
 
 Das Element <va_stammdaten> bildet die oberste Ebene der VA-Stammdaten. Es besitzt immer das  Kindelement <haupt_zweig_liste>.
 
@@ -219,7 +505,7 @@ Element sieht wie folgt aus:
 
 Formel 2: XML-Code: va_stammdaten
 
-**5.2** **HAUPT_ZWEIG_LISTE**
+## 5.2 HAUPT_ZWEIG_LISTE
 
 Unter dem Element <haupt_zweig_liste> befinden sich die Informationen der Verschlüsselungsanleitungen  des BfArMs zu den ICD-10-GM-Kodes gruppiert unter den Kapiteln sowie die Zusammenfassung der  wesentlichen jährlichen Änderungen der ICD-10-GM-Daten.
 
@@ -238,7 +524,7 @@ Der Coderahmen für das <haupt_zweig_liste>-Element sieht wie folgt aus:
 
 Formel 3: XML-Code: haupt_zweig_liste
 
-**5.2.1** **haupt_zweig**
+### 5.2.1 haupt_zweig
 
 Das Element <haupt_zweig> gruppiert aktuell entweder die Informationen der Verschlüsselungsanleitung  des BfArMs zur ICD-10 GM oder die Zusammenfassung der wesentlichen jährlichen Änderungen der ICD-10  GM.
 
@@ -267,19 +553,19 @@ Formel 4: XML-Code: haupt_zweig
 | 1 | Anleitung zur Verschlüsselung |
 | 2 | wesentliche jährliche Änderungen der ICD-10-GM- Daten |
 
-**5.2.2** **titel**
+### 5.2.2 titel
 
 Siehe Kapitel 5.4.
 
-**5.2.3** **nr**
+### 5.2.3 nr
 
 Siehe Kapitel 5.5.
 
-**5.2.4** **beschreibung**
+### 5.2.4 beschreibung
 
 Siehe Kapitel 5.3.
 
-**5.2.5** **hauptkapitel_liste**
+### 5.2.5 hauptkapitel_liste
 
 Das Element <hauptkapitel_liste> umschließt eine Liste von Hauptkapiteln.
 
@@ -294,7 +580,7 @@ Der Coderahmen für das <hauptkapitel_liste>-Element sieht wie folgt aus:
 
 Formel 5: XML-Code: hauptkapitel_liste
 
-**5.2.6** **hauptkapitel**
+### 5.2.6 hauptkapitel
 
 Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Information dar. Im V-Attribut des  Elementes ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM- Kode in der ICD-Stammdatei auf das Hauptkapitel enthalten.
 
@@ -313,19 +599,19 @@ Der Coderahmen für das <hauptkapitel>-Element sieht wie folgt aus.
 
 Formel 6: XML-Code: hauptkapitel
 
-**5.2.7** **titel**
+### 5.2.7 titel
 
 Siehe Kapitel 5.4.
 
-**5.2.8** **nr**
+### 5.2.8 nr
 
 Siehe Kapitel 5.5.
 
-**5.2.9** **beschreibung**
+### 5.2.9 beschreibung
 
 Siehe Kapitel 5.3.
 
-**5.2.10** **kapitel_liste**
+### 5.2.10 kapitel_liste
 
 Das Element <kapitel_liste> umschließt eine Liste von Kapiteln.
 
@@ -344,7 +630,7 @@ Was ist zu verschlüsseln?“ /> <titel V=“ </kapitel_liste> hauptkapitel>
 
 Formel 7: XML-Code: kapitel_liste
 
-**5.2.11** **kapitel**
+### 5.2.11 kapitel
 
 Das Element <kapitel> stellt ein Kapitel der darzustellenden Information dar. Im V-Attribut des Elementes  ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM-Kode in der  ICD-Stammdatei auf das Kapitel enthalten.
 
@@ -359,7 +645,7 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
 Formel 8: XML-Code: kapitel
 
-**5.2.12** **titel**
+### 5.2.12 titel
 
 Siehe Kapitel 5.4.
 
@@ -367,17 +653,19 @@ Gesetzliche Bestimmungen /> _liste _liste
 
 ---
 
-**5.2.13** **nr**
+### 5.2.13 nr
 
 Siehe Kapitel 5.5.
 
-**5.2.14** **beschreibung**
+### 5.2.14 beschreibung
 
 Siehe Kapitel 5.3.
 
-**5.2.15** **unterkapitel_liste**
+### 5.2.15 unterkapitel_liste
 
-Das Element <unterkapitel_liste> umschließt eine Liste von Kapiteln.  Es enthält immer min. ein Kindelement <unterkapitel>.
+Das Element <unterkapitel_liste> umschließt eine Liste von Kapiteln.
+
+Es enthält immer min. ein Kindelement <unterkapitel>.
 
 Abbildung 9: unterkapitel_liste
 
@@ -388,7 +676,7 @@ Der XML-Code für ein <unterkapitel_liste> Element hat folgenden Aufbau:
 
 Formel 9: XML-Code: unterkapitel_liste
 
-**5.2.16** **unterkapitel**
+### 5.2.16 unterkapitel
 
 Das Element <unterkapitel> stellt ein Unterkapitel der darzustellenden Information dar und es ist die  unterste Strukturierungsebene der Datei. Im V-Attribut des Elementes ist die ID der Information für eine  mögliche Referenzierung von einem bestimmten ICD-10-GM-Kode in der ICD-Stammdatei auf das  Unterkapitel enthalten.
 
@@ -407,21 +695,23 @@ Der XML-Code für ein <unterkapitel> Element hat folgenden Aufbau:
 
 Formel 10: XML-Code: unterkapitel
 
-**5.2.17** **titel**
+### 5.2.17 titel
 
 Siehe Kapitel 5.4.
 
-**5.2.18** **nr**
+### 5.2.18 nr
 
 Siehe Kapitel 5.5.
 
-**5.2.19** **beschreibung**
+### 5.2.19 beschreibung
 
 Siehe Kapitel 5.3.
 
-**5.3** **BESCHREIBUNG**
+## 5.3 BESCHREIBUNG
 
-Mithilfe des Elementes <beschreibung> wird der Text für ein entsprechendes Kapitel abgebildet. Die  Struktur des Elementes ist an den Standard HTML angelehnt. Dieses Element besitzt immer ein <div>  Element.  Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwingend eingehalten  werden.
+Mithilfe des Elementes <beschreibung> wird der Text für ein entsprechendes Kapitel abgebildet. Die  Struktur des Elementes ist an den Standard HTML angelehnt. Dieses Element besitzt immer ein <div>  Element.
+
+Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwingend eingehalten  werden.
 
 Abbildung 11: beschreibung
 
@@ -436,7 +726,7 @@ V =“ 11211 “ > V =““ Gesetzliche Bestimmungen  / > V =“1.1.1“  / > <
 
 Formel 11: XML-Code: beschreibung
 
-**5.3.1** **div**
+### 5.3.1 div
 
 Mithilfe des Elementes <div> wird ein Textabsatz abgebildet. Die Struktur des Elementes ist an den  Standard HTML angelehnt.
 
@@ -457,7 +747,7 @@ Der XML-Code für ein <div> Element hat folgenden Aufbau:
 
 Formel 12: XML-Code: div
 
-**5.3.2** **ul**
+### 5.3.2 ul
 
 Mithilfe des Elementes <ul> wird eine ungeordnete Listenstruktur abgebildet. Die Struktur des Elementes  ist an den Standard HTML angelehnt. Dieses Element enthält immer min. ein Kindelement <li>.
 
@@ -468,7 +758,9 @@ Der XML-ulCode für ein < > Element hat folgenden Aufbau:
 | <ul>   <li>in der hausärztlichen Versorgung,</li>      <li>im organisierten Notfalldienst und</li>   <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li> </ul> |
 |---|
 
-Formel 13: XML-Code: ul 5.3.2.1 li
+Formel 13: XML-Code: ul
+
+### 5.3.2.1 li
 
 Mithilfe des Elementes <li> wird ein einzelner Listeneintrag abgebildet. Die Struktur des Elementes ist an  den Standard HTML angelehnt.
 
@@ -487,7 +779,7 @@ Der XML-liCode für ein < > Element hat folgenden Aufbau:
 
 Formel 14: XML-Code: li
 
-**5.3.3** **table**
+### 5.3.3 table
 
 Mithilfe des Elementes <table> wird eine Tabellenstruktur abgebildet. Die Struktur des Elementes ist an  den Standard HTML angelehnt.
 
@@ -504,7 +796,9 @@ li> in der hausärztlichen Versorgung,</li> th> ...</th> th> ...</th> td> ...</t
 
 ---
 
-Formel 15: XML-Code: table 5.3.3.1 tr
+Formel 15: XML-Code: table
+
+### 5.3.3.1 tr
 
 Mithilfe des Elementes <tr> wird eine Zeile der Tabelle abgebildet. Die Struktur des Elementes ist an den  Standard HTML angelehnt.
 
@@ -519,7 +813,9 @@ Der XML-trCode für ein <
 
 > Element hat folgenden Aufbau:
 
-Formel 16: XML-Code: tr 5.3.3.2 th
+Formel 16: XML-Code: tr
+
+### 5.3.3.2 th
 
 Mithilfe des Elementes <th> wird eine Tabellenüberschriftzelle abgebildet. Die Struktur des Elementes ist  an den Standard HTML angelehnt.
 
@@ -538,7 +834,9 @@ Der XML-thCode für ein <
 | <tr>       <th>Diagnose</th>    95 SGB V (ambulante Versorgung)</       <th>§ 301 SGB V (stationäre Versorgung)</th>       </tr> |
 |---|
 
-Formel 17: XML-Code: th 5.3.3.3 td
+Formel 17: XML-Code: th
+
+### 5.3.3.3 td
 
 Mithilfe des Elementes <td> wird eine Tabellenzelle abgebildet. Die Struktur des Elementes ist an den  Standard HTML angelehnt.
 
@@ -546,14 +844,18 @@ Es kann die Kindelemente <br>, <p> oder <div> zur Strukturierung enthalten.
 
 Abbildung 18: td
 
-Code für ein <Der XML-td> Element hat folgenden Aufbau:
+Code für ein <
+
+Der XML-td
+
+> Element hat folgenden Aufbau:
 
 | <tr>       <td>Schnittwunde am linken Unterarm</td>          <td>S51.9 GL</td>       <td>S51.9 L</td> |
 |---|
 
 Formel 18: XML-Code: td
 
-**5.3.4** **ol**
+### 5.3.4 ol
 
 Mithilfe des Elementes <ol> wird eine geordnete Listenstruktur abgebildet. Die Struktur des Elementes ist  an den Standard HTML angelehnt. Dieses Element enthält immer min. ein Kindelement <li>.
 
@@ -568,9 +870,11 @@ Der XML-Code für ein <ol> Element hat folgenden Aufbau:
 
 ---
 
-Formel 19: XML-Code: ol 5.3.4.1 li
+Formel 19: XML-Code: ol
 
-**5.3.5** **siehe Kapitel 5.3.2.1p**
+### 5.3.4.1 li
+
+### 5.3.5 siehe Kapitel 5.3.2.1p
 
 Mithilfe des Elementes <p> wird ein Textblock abgebildet. Die Struktur des Elementes ist an den Standard  HTML angelehnt.
 
@@ -585,7 +889,7 @@ Der XML-Code für ein <p> Element hat folgenden Aufbau:
 
 Formel 20: XML-Code: p
 
-**5.3.6** **br**
+### 5.3.6 br
 
 Mithilfe des Elementes <br> wird ein Textumbruch abgebildet. Die Struktur des Elementes ist an den  Standard HTML angelehnt.
 
@@ -598,7 +902,7 @@ Der XML-Code für ein <br> Element hat folgenden Aufbau:
 
 Formel 21: XML-Code: br
 
-**5.4** **TITEL**
+## 5.4 TITEL
 
 Mit dem Element <titel> wird der Titel eines Kapitels repräsentiert. Im V-Attribut des Elementes ist der Titel  enthalten.
 
@@ -615,7 +919,7 @@ Der XML-Code für ein <titel> Element hat folgenden Aufbau:
 
 Formel 22: XML-Code: titel
 
-**5.5** **NR**
+## 5.5 NR
 
 Mit dem Element <nr> wird die Kapitelnummer eines Kapitels repräsentiert. Im V- die Kapitelnummer enthalten.
 
@@ -636,9 +940,7 @@ Divertikelkrankheit des Darmes />
 
 ---
 
-6
-
-REFERENZIERTE DOKUMENTE
+6 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

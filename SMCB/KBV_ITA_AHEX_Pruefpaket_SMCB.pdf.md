@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 1.5. SEPTEMBER 2025  VERSION: 2.0  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRÜFPAKET SEKTORZULASSUNG SMC
-
-**-B**
+# PRÜFPAKET SEKTORZULASSUNG SMC -B
 
 ## [KBV_ITV_AHEX_PRUEFPAKET_SMCB]
 
@@ -18,7 +16,7 @@ BUNDESVEREINIGUNG   IN DER VERSORGUNG
 
 ---
 
-## DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 Die Änderungen treten zum1
 
@@ -45,44 +43,70 @@ INHALT
 | 1.3 | Zertifizierungsdokumente | 5 |
 | 1.4 | Prüfunterlagen | 5 |
 
-**2** **PRÜFFFÄLLE 6**
+**2** **PRÜFFFÄLLE**
 
-2.1 Benutzerhandbuch für KVen 6  2.2 Umsetzungsnachweis des Antragportals für Praxen und MVZ (Screenshots) 7  2.3 Kostenaufstellung/Angebot des Anbieters 7  2.4 Bestätigung aus gematik Zulassungsverfahren 7
+**6**
 
-**3** **REFERENZIERTE DOKUMENTE** **8**
+2.1 Benutzerhandbuch für KVen
+
+6
+
+2.2 Umsetzungsnachweis des Antragportals für Praxen und MVZ (Screenshots) 7
+
+2.3 Kostenaufstellung/Angebot des Anbieters 7
+
+2.4 Bestätigung aus gematik Zulassungsverfahren 7
+
+**3** **REFERENZIERTE DOKUMENTE**
+
+**8**
 
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+und beinhaltet Prüffälle für die Sektorzulassung
 
-und beinhaltet Prüffälle für die Sektorzulassung Dieses Dokument beschreibt das allgemeine Vorgehen  SMC-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen.
+Dieses Dokument beschreibt das allgemeine Vorgehen  SMC-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechten und Pflichten des Antragstellers definiert, bildet  den Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechten und Pflichten des Antragstellers definiert, bildet
 
-Des Weiteren können dem Antrag auf Zertifizierung „Sektorzulassung SMC B“ [KBV_ITA_FMEX_EE_SMCB]  neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen  werden, die nicht Bestandteil dieses Prüfpaketes sind.
+den Rahmen der Zertifizierung und ist zu beachten.
 
-**1.1** **GRUNDLAGE**
+Des Weiteren können dem Antrag auf Zertifizierung „Sektorzulassung SMC B“ [KBV_ITA_FMEX_EE_SMCB]
 
-Die Grundlage für die Sektorzulassung ergibt sich aus dem Zulassungsverfahren der gematik für Anbieter  von SMC-B, im Speziellen dem Zulassungsverfahren [gemZul_Prod_X509] sowie dem zugehörigen  Produkttypsteckbrief [gemProdT_X.509_TSP_nonQES_SMC-B].
+neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+## 1.1 GRUNDLAGE
+
+Die Grundlage für die Sektorzulassung ergibt sich aus dem Zulassungsverfahren der gematik für Anbieter  von SMC-B, im Speziellen dem Zulassungsverfahren [gemZul_Prod_X509] sowie dem zugehörigen
+
+Produkttypsteckbrief [gemProdT_X.509_TSP_nonQES_SMC-B].
+
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Im Folgenden wird der Zertifizierungsablauf kurz dargestellt:
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
 
-eser muss vollständig ausgefüllt und  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Di unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
+- eser muss vollständig ausgefüllt und
 
-l initiieren und dort den vorab via Mail
+- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Di unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
 
-werden. Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst  den Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsporta eingereichten Antrag auf Zertifizierung hochladen.  2. Der Antragstellerstellt eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung  relevanten Prüfunterlagen [1.4 Prüfunterlagen] auf dem Zertifizierungsportal bereit  3.
+- l initiieren und dort den vorab via Mail
 
-den Antragsteller zur Sichtprüfung auffordern.
+- werden. Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst  den Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsporta eingereichten Antrag auf Zertifizierung hochladen.
 
-Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch die KBV ab) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
+- 2. Der Antragstellerstellt eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung  relevanten Prüfunterlagen [1.4 Prüfunterlagen] auf dem Zertifizierungsportal bereit - 3.
+
+- den Antragsteller zur Sichtprüfung auffordern.
+
+- Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch die KBV ab) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
 
 **HINWEIS**
 
@@ -91,7 +115,7 @@ Nach Eingang des Antrages auf Zertifizierung bei der KBV oder des Prüfprotokoll
 
 ---
 
-1.3 ZERTIFIZIERUNGSPORTAL
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen
 
@@ -99,7 +123,9 @@ Die vorliegende Ergebnisprüfung besteht aus einer manuellen Prüfung durch die 
 
 Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der
+
+Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei eingereicht werden.
 
@@ -107,22 +133,28 @@ Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig
 
 Erst wenn alle Prüfunterlagen vorliegen, erfolgt die Prüfung durch die KBV. Wird hierbei festgestellt, dass  Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/SMCB/ bereit. In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel Referenzierte  Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
 
-**1.5** **PRÜFUNTERLAGEN**
+update/SMCB/ bereit. In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel Referenzierte
 
-In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet:
+Dokumente.
 
-Benutzerhandbuch für KVen  Umsetzungsnachweis des Antragportals für Praxen und MVZ (Screenshots)  Kostenaufstellung/Angebot des Anbieters  Bestätigung aus abgeschlossenem gematik-Zulassungsverfahren
+## 1.5 PRÜFUNTERLAGEN
+
+In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet: - Benutzerhandbuch für KVen
+
+- Umsetzungsnachweis des Antragportals für Praxen und MVZ (Screenshots)
+
+- Kostenaufstellung/Angebot des Anbieters
+
+Bestätigung aus abgeschlossenem gematik-Zulassungsverfahren
 
 
 ---
 
-2
-
-## PRÜFFFÄLLE
+# 2 PRÜFFFÄLLE
 
 **2.1** **BENUTZERHANDBUCH FÜR KVEN**
 
@@ -130,13 +162,43 @@ Benutzerhandbuch für KVen  Umsetzungsnachweis des Antragportals für Praxen und
 |---|
 | Einreichung des Benutzerhandbuchs für KVen sowohl für das Freigabeportal als auch für das |
 
-*Umsetzung der Funktionen (jeweils bezogen auf Portale und  sofern für diese Funktion vorgesehen*   *LEO-TSP-Schnittstelle)*  *Vorbefüllung*  *Antragsstellung*  *Freigabe*  *Lieferung*  *Sperrung*  *Monitoring und Benachrichtigungen*  *Benutzerverwaltung bzw. Registrierung*  *Umsetzung der LEO-TSP-Schnittstelle in Form von*  *Beispielnachrichten (Request und Response)*  *Auflistung der genutzten Fehlercodes*  *Darstellung der Bildung von Vorgangsnummern*
+- *Umsetzung der Funktionen (jeweils bezogen auf Portale und  sofern für diese Funktion vorgesehen*
+
+- *LEO-TSP-Schnittstelle)*
+
+- *Vorbefüllung*
+
+- *Antragsstellung*
+
+- *Freigabe*
+
+- *Lieferung*
+
+- *Sperrung*
+
+- *Monitoring und Benachrichtigungen*
+
+- *Benutzerverwaltung bzw. Registrierung*
+
+- *Umsetzung der LEO-TSP-Schnittstelle in Form von*
+
+- *Beispielnachrichten (Request und Response)*
+
+- *Auflistung der genutzten Fehlercodes*
+
+- *Darstellung der Bildung von Vorgangsnummern*
 
 **Erläuterung**
 
-Die Darstellung ist in dem Umfang zu wählen, dass die Umsetzung der Anforderungen aus  [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und [KBV_ITA_VGEX_Schnittstelle_SMCB] nachvollziehbar  ist.
+Die Darstellung ist in dem Umfang zu wählen, dass die Umsetzung der Anforderungen aus
 
-Auf der Basis des Dokumentes sollen zudem die KVen in die Lage versetzt werden, sowohl die  Aufgabenstellung einer Attributsbestätigung und Sperrung wahrzunehmen als auch bei Kontakt mit den  Antragstellern die Vorgänge der SMC-B Bestellung zu erläutern.
+[KBV_ITA_VGEX_Anforderungskatalog_SMCB] und [KBV_ITA_VGEX_Schnittstelle_SMCB] nachvollziehbar
+
+ist.
+
+Auf der Basis des Dokumentes sollen zudem die KVen in die Lage versetzt werden, sowohl die  Aufgabenstellung einer Attributsbestätigung und Sperrung wahrzunehmen als auch bei Kontakt mit den
+
+Antragstellern die Vorgänge der SMC-B Bestellung zu erläutern.
 
 Das Benutzerhandbuch wird  nach erfolgreicher Zertifizierung  an die KVen weitergeleitet.
 
@@ -155,7 +217,17 @@ Antragsportal. Hier sind mindestens folgende Informationen aufzunehmen:
 |---|
 | Einreichung von Screenshots zur Darstellung der Umsetzung des Antragportals für Praxen und MVZ. |
 
-*Umsetzung der Funktionen*  *Antragstellung nach Vorbefüllung*  *Antragsstellung ohne Vorbefüllung*   *Freischaltung (nach Lieferung)*  *Sperrung*  *Einsichtsmöglichkeit von Antrags- bzw. Kartenstatus*
+- *Umsetzung der Funktionen*
+
+- *Antragstellung nach Vorbefüllung*
+
+- *Antragsstellung ohne Vorbefüllung*
+
+- *Freischaltung (nach Lieferung)*
+
+- *Sperrung*
+
+- *Einsichtsmöglichkeit von Antrags- bzw. Kartenstatus*
 
 **Erläuterung**
 
@@ -187,11 +259,17 @@ Die Information zum Angebot des Anbieters muss formlos über das Zertifizierungs
 
 **Erläuterung**
 
-Der Antragsteller bestätigt, dass er durch die gematik, Gesellschaft für Telematikanwendungen der  Gesundheitskarte mbH, als Anbieter SMC-B zugelassen ist. Sollte diese gematik-Zulassung dem  Antragsteller noch nicht vorliegen, muss dieser mit Einreichung des Zulassungsantrages für die  Sektorzulassung nachweisen, dass er sich im gematik Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der  Prüfnummer notwendig.
+Der Antragsteller bestätigt, dass er durch die gematik, Gesellschaft für Telematikanwendungen der  Gesundheitskarte mbH, als Anbieter SMC-B zugelassen ist. Sollte diese gematik-Zulassung dem
+
+Antragsteller noch nicht vorliegen, muss dieser mit Einreichung des Zulassungsantrages für die  Sektorzulassung nachweisen, dass er sich im gematik Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der
+
+Prüfnummer notwendig.
 
 **Form**
 
 Die Bestätigung muss formlos über das Zertifizierungsportal übermittelt werden.
+
+-
 
 -Dokument auf dem
 
@@ -204,11 +282,13 @@ lässe bei Folgekarten oder zusätzlicher Bestellung
 
 ---
 
-3
+# 3 REFERENZIERTE DOKUMENTE
 
-## REFERENZIERTE DOKUMENTE
+Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendig sind, stehen im Internet
 
-Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendig sind, stehen im Internet  zum Download unter [https://update.kbv.de/ita](https://update.kbv.de/ita)-update/ bereit. Sie benötigen grundsätzlich die folgenden  Dateien und Unterlagen in der jeweils aktuellen Version
+zum Download unter [https://update.kbv.de/ita](https://update.kbv.de/ita)-update/ bereit. Sie benötigen grundsätzlich die folgenden
+
+Dateien und Unterlagen in der jeweils aktuellen Version
 
 | REFERENZ | DOKUMENT |
 |---|---|
@@ -225,6 +305,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Zertifizierungsverfahren von Anbietern von SMC Schnittstelle im KV-System X.509-Zertifikaten, Quelle: www.gematik.de X.509-Zertifikaten auf SMC-B Karten, Quelle:

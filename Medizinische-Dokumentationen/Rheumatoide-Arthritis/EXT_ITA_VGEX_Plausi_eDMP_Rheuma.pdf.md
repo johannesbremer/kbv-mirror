@@ -1,6 +1,8 @@
 - Anlage 22* -
 
-# Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+# Plausibilitätsrichtlinie
+
+# zur Prüfung der Dokumentationsdaten
 
 # des strukturierten Behandlungsprogramms
 
@@ -12,11 +14,15 @@
 
 **gültig ab 01.04.2022**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+**Stand der Bearbeitung:**
 
-**Version: 1.0**
+**Version anzuwenden ab:**
 
-**15.09.2021**   **01.04.2023**
+# Version: 1.0
+
+**15.09.2021**
+
+**01.04.2023**
 
 
 ---

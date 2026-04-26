@@ -4,7 +4,9 @@
 
 **Kostenträgerkennung** **Versicherten-Nr.**
 
-**Betriebsstätten-Nr.Arzt-Nr.**
+**Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **I. Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A. Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkra***
 
@@ -12,17 +14,22 @@
 
 **Status**
 
-### Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+#### Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
 
-**geb. am** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
+**geb. am**
+
+**Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
 **Datum**
 
 ***nkung führen können)***
 
-**II. Vorsorgebedürftigkeit** **A. Kurze Angaben zur Anamnese**
+**II. Vorsorgebedürftigkeit**
+**A. Kurze Angaben zur Anamnese**
 
-**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac***
+
+***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
 
 **C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
 
@@ -42,7 +49,9 @@
 
 **andere Kontextfaktoren; ggf. nähere Erläuterungen**
 
-**Ausfertigung für den Arzt** **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**Ausfertigung für den Arzt**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 ***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
 

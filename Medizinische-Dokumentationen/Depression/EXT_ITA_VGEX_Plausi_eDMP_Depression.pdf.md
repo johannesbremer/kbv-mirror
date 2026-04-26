@@ -1,8 +1,12 @@
-# zur Prüfung der Dokumentationsdaten des strukturierten Behandlungsprogramms
+# zur Prüfung der Dokumentationsdaten
+
+# des strukturierten Behandlungsprogramms
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**  **Version anzuwenden ab:**
+**Stand der Bearbeitung:**
+
+**Version anzuwenden ab:**
 
 - Anlage
 
@@ -14,9 +18,11 @@
 
 **gültig ab 01.01.2020**
 
-**Version:** **1.0**
+# Version: 1.0
 
-**30.04.2020**    **01.04.2021**
+**30.04.2020**
+
+**01.04.2021**
 
 
 ---
@@ -31,7 +37,7 @@
 | 2 | Schweregrad | Leicht / Mittelgradig / Schwer | Bedingtes Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Eine Angabe |
 | 3 | Schweregrad | Aktuell keine depressive Episode / Leicht / Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig |
 
-sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Symptomatik Summenwert PHQ-9 Zahl (0 Beginn aktuellen depressiven Episode Anlage 2* in Feld 10 mindestens die Angabe „  27, ganzzahlig) Beginn aktuellen depressiven Episode Depression“  erfolgt, und kleiner  oder gleich 27  sein. Anlage 18* im Rahmen Erstdokumentation auszufüllen ist. im Rahmen Folgedokumentation ist nicht zulässig einer einer ** Datensatz für die indikationsspezifische Dokumentation**
+sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Symptomatik Summenwert PHQ-9 Zahl (0 Beginn aktuellen depressiven Episode Anlage 2* in Feld 10 mindestens die Angabe „  27, ganzzahlig) Beginn aktuellen depressiven Episode Depression“  erfolgt, und kleiner  oder gleich 27  sein. Anlage 18* im Rahmen Erstdokumentation auszufüllen ist. im Rahmen Folgedokumentation ist nicht zulässig einer einer #  Datensatz für die indikationsspezifische Dokumentation
 
 
 ---

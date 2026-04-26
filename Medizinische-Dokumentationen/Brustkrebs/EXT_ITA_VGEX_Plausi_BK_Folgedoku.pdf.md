@@ -2,17 +2,27 @@
 
 Grundlage:
 
-Stand der Bearbeitung:  Version  anzuwenden ab:
+Stand der Bearbeitung:
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+Version
+
+anzuwenden ab:
+
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## Brustkrebs
 
-## Folgedokumentation
+##### Folgedokumentation
 
-Anlage 4 DMP-A_RL  gültig ab 01.10.2023 19.04.2024
+Anlage 4 DMP-A_RL
 
-8  01.10.2024
+gültig ab 01.10.2023 19.04.2024
+
+8
+
+01.10.2024
 
 
 ---

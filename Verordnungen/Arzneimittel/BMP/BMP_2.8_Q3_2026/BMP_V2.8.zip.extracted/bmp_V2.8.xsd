@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Bundeseinheitlicher Medikationsplan (BMP) (bmp_V2.8.xsd)
-	Oktober 2025, Version 2.8
+	April 2026, Version 2.8
 
 	verantwortliche Organisationen KBV, DAV und BÄK
 
@@ -14,7 +14,7 @@
 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="qualified" version="2.8">
 	<xs:annotation>
-		<xs:documentation xml:lang="de">Bundeseinheitlicher Medikationsplan (BMP) (bmp_V2.8.xsd) vom Januar 2025, Version 2.8 basierend auf Medikationsplan Ultrakurzformat (UKF) In Zusammenarbeit mit: Bundesverband Deutscher Apothekensoftwarehäuser (ADAS e.V.), Bundesverband Gesundheits-IT e.V. (bvitg e.V.), HL7 Deutschland e.V.</xs:documentation>
+		<xs:documentation xml:lang="de">Bundeseinheitlicher Medikationsplan (BMP) (bmp_V2.8.xsd) vom April 2026, Version 2.8 basierend auf Medikationsplan Ultrakurzformat (UKF) In Zusammenarbeit mit: Bundesverband Deutscher Apothekensoftwarehäuser (ADAS e.V.), Bundesverband Gesundheits-IT e.V. (bvitg e.V.), HL7 Deutschland e.V.</xs:documentation>
 	</xs:annotation>
 	<xs:element name="MP">
 		<xs:annotation>
@@ -538,7 +538,7 @@ Validitätskriterium: Die Attribute f und fd dürfen nicht gleichzeitig angegebe
 											<xs:restriction base="xs:string">
 												<xs:minLength value="1"/>
 												<xs:maxLength value="10"/>
-												<xs:pattern value="[a-zA-Z]{1,10}"/>
+												<xs:pattern value="[a-zA-ZäüößÄÜÖ]{1,10}"/>
 											</xs:restriction>
 										</xs:simpleType>
 									</xs:attribute>

@@ -20,13 +20,13 @@ BUNDESVEREINIGUNG IT IN DER VERSORGUNG
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-## SEKTORZULASSUNG SMC-B 1
+## SEKTORZULASSUNG SMC-B
 
-## ALLGEMEINE ANGABEN
+# 1 ALLGEMEINE ANGABEN
 
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
-**1.1** **ANTRAGSSTELLER**
+## 1.1 ANTRAGSSTELLER
 
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
@@ -40,7 +40,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | E-Mail-Adresse |  |
 | Webseite |  |
 
-**1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
 Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
@@ -53,10 +53,9 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 Rechtsform anzugeben] Antragsstellers
 
-
 ---
 
-**1.3** **ZERTIFIZIERUNGSGEGENSTAND**
+## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
 Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
@@ -65,9 +64,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | Bezeichnung |  |
 | Identnummer [die letzten drei |  |
 
-2
-
-BEANTRAGUNG ZUR ZERTIFIZIERUNG
+2 BEANTRAGUNG ZUR ZERTIFIZIERUNG
 
 |  | |
 |---|---|
@@ -77,10 +74,9 @@ BEANTRAGUNG ZUR ZERTIFIZIERUNG
 
 Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartengebundene Praxisausweise, auch SMC-B genannt, anzubieten. [ ] Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Nur mit dieser Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen kartenungebundene Praxisausweise, auch HSM- B genannt, anzubieten. das Vorhandensein einer gültigen Sektorzulassung SMC-B für den Antragssteller. [ ] HSM-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen. Mit dieser kombinierten Zulassung ist es dem Antragsteller gestattet, den Mitgliedern der KVen sowohl kartengebundene Praxisausweise (SMC-B) als auch kartenungebundene Praxisausweise (HSM-B) anzubieten.
 
-
 ---
 
-3
+# 3
 
 **3.1**
 
@@ -97,20 +93,18 @@ Stellen der Prüfnummer, falls vorhanden] [ ] Zuständigkeitsbereich der Kassen�
 | ☐ | Ein Benutzerhandbuch ist durch den Antragssteller erstellt. Zielgruppe des Handbuchs sind die |
 | ☐ | Der Antragssteller bietet Schulungstermin(e) an, an dem/denen Kassenärztliche Vereinigung(en) |
 
-## REALISIERUNG VON ANFORDERUNGEN
+# REALISIERUNG VON ANFORDERUNGEN
 
-**ANFORDERUNGSDOKUMENTE UND NACHWEISE**
+## ANFORDERUNGSDOKUMENTE UND NACHWEISE
 
-**BENUTZERHANDBUCH UND SCHULUNGEN**
+## BENUTZERHANDBUCH UND SCHULUNGEN
 
 [ ] [ ] [ ] Betriebsleistung SMC-B" zugelassen ist.  Einreichung des Zulassungsantrages für die Sektorzulassung nachweisen, dass er sich im gematik- Zulassungsverfahren befindet und den Nachweis der Zulassung durch die gematik unverzüglich nachreichen, sobald dieser vorliegt. Dies ist vor Vergabe der Prüfnummer notwendig. [KBV_ITA_VGEX_Anforderungskatalog_SMCB] und der darin referenzierten Dokumente, in der jeweils aktuellen Fassung eingehalten werden. das Verhältnis zu den Kassenärztlichen Vereinigungen datenschutzkonform umgesetzt ist. [ ] [ ] Kassenärztlichen Vereinigungen als Bediener bzw. Nutzer des Freigabeportals und der TSP- Schnittstelle. Bei relevanten Änderungen der Funktionalitäten verpflichtet sich der Antragssteller eine aktualisierte Version des Benutzerhandbuchs zu erstellen und der KBV zur Verfügung zu stellen. Schulungen zur Bedienung der Schnittstelle erhalten kann/können.
 
 
 ---
 
-4
-
-## ANLAGE ZU DEN KONTAKTDATEN
+# 4 ANLAGE ZU DEN KONTAKTDATEN
 
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
@@ -140,19 +134,17 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 ---
 
-5
+# 5 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-## KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
+- **I.** **Zertifizierungsrahmen**
 
-**I.** **Zertifizierungsrahmen**
+- (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 
-(1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
+- (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung und informiert die gematik über die ausgesprochene Sektorzulassung.
 
-(2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung und informiert die gematik über die ausgesprochene Sektorzulassung.
+- (3) Die Laufzeit der Zulassung beträgt 60 Monate.
 
-(3) Die Laufzeit der Zulassung beträgt 60 Monate.
-
-(4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
+- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
@@ -160,40 +152,39 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | Sektorzulassung HSM-B | Erweiterungszertifizierung | Ergebnisprüfung |  |
 | Sektorzulassung SMC-B u. HSM-B | Neu- oder Rezertifizierung / Erweiterungszertifizierung | Ergebnisprüfung | 2.752,40 € |
 
-**II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
+- **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
-(1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
+- (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
-(2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 
-(3) Führt eine Änderung zur Verletzung der KBV-Anforderungen und wurde diese nicht vorher  angezeigt, so kann dies zum Erlöschen der Zulassung führen.
+- (3) Führt eine Änderung zur Verletzung der KBV-Anforderungen und wurde diese nicht vorher  angezeigt, so kann dies zum Erlöschen der Zulassung führen.
 
-(4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
+- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-**III.** **Update und weitere Vereinbarungen**
+- **III.** **Update und weitere Vereinbarungen**
 
-(1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
+- (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
-(2) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+- (2) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie
 
-(3) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
+- der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+
+- (3) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 688,10 €
 
-
 ---
 
-**IV.** **Sonstiges**
+- **IV.** **Sonstiges**
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
-(2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der
+- (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der - Zulassung bewirken.
 
-Zulassung bewirken.
+- (3) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(3) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-
-(4) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (4) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 |  |  |  |
 |---|---|---|

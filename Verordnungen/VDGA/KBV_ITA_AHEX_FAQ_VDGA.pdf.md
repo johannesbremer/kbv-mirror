@@ -56,9 +56,9 @@ P4-210 Akzeptanzkriterium 2 Abkürzung der Namen der DiGA-Verordnungseinheiten i
 
 ---
 
-1
+# 1 FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR
 
-FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR  VERORDNUNG VON DIGA
+VERORDNUNG VON DIGA
 
 | BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
@@ -142,9 +142,7 @@ die dritte Zeile gedruckt werden. Im Unterschied zur Arzneimittel- verordnung mu
 
 ---
 
-2
-
-REFERENZIERTE DOKUMENTE
+2 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|

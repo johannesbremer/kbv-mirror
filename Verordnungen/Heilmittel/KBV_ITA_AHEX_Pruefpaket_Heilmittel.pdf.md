@@ -33,15 +33,47 @@
 
 **ALLGEMEINES**
 
-Rechtsgrundlage  Zertifizierungsablauf  Zertifizierungsportal  Zertifizierungsdokumente  Prüfunterlagen  Prüfvorgaben  1.6.1 Prüfstammdaten  1.6.2 Versichertendaten  1.6.3 Patientendaten für Prüffälle 01, 06 und 07 [XML_22]  1.6.4 Patientendaten für Prüffälle 02 bis 05 [XML_05]  1.6.5 Praxisdaten  Arztstempel  1.6.6 Heilmittelpreise  1.6.7 Falldarstellung
+Rechtsgrundlage
+
+Zertifizierungsablauf
+
+Zertifizierungsportal
+
+Zertifizierungsdokumente
+
+Prüfunterlagen
+
+Prüfvorgaben 1.6.1 Prüfstammdaten
+
+1.6.2 Versichertendaten
+
+1.6.3 Patientendaten für Prüffälle 01, 06 und 07 [XML_22]
+
+1.6.4 Patientendaten für Prüffälle 02 bis 05 [XML_05]
+
+1.6.5 Praxisdaten  Arztstempel
+
+1.6.6 Heilmittelpreise
+
+1.6.7 Falldarstellung
 
 **PRÜFFÄLLE**
 
-Maßnahmen der Physiotherapie  Maßnahmen der Podologischen therapie  Maßnahmen der Stimm Sprech Sprach und Schlucktherapie  Maßnahmen der Ergotherapie  Maßnahmen der Ernährungstherapie
+Maßnahmen der Physiotherapie
+
+Maßnahmen der Podologischen therapie
+
+Maßnahmen der Stimm Sprech Sprach und Schlucktherapie
+
+Maßnahmen der Ergotherapie
+
+Maßnahmen der Ernährungstherapie
 
 **REFERENZIERTE** **DOKUMENTE**
 
-25            2023
+25
+
+2023
 
 **4**
 
@@ -103,40 +135,94 @@ Solldaten
 
 14, 21,  23
 
-11, 17,  22, 24
+11, 17,
 
-5, 9,  15, 19
+22, 24
+
+5, 9,
+
+15, 19
 
 Alle
 
 
 ---
 
-1
+1 ALLGEMEINES
 
-## ALLGEMEINES
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Heilmittelverordnung.
+Zertifizierungsgegenstandes im Bereich der Heilmittelverordnung.
 
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung
+
+weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 **1.1** **RECHTSGRUNDLAGE**
 
-Vertragsärzte sollen für die Verordnung von Heilmitteln in die Lage versetzt werden, die durch das GKV Versorgungsstärkungsgesetz im  73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+Vertragsärzte sollen für die Verordnung von Heilmitteln in die Lage versetzt werden, die durch das GKV
+
+Versorgungsstärkungsgesetz im  73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
 
 **1.2** **ZERTIFIZIERUNGSABLAUF**
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E Mail  eingereichten Antrag auf Zertifizierung hochladen.  2. Eine Verzeichnis bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+
+1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
+
+Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV
+
+bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
+
+unterschrieben als PDF Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
+
+werden.
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den
+
+Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der
+
+Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E Mail
+
+eingereichten Antrag auf Zertifizierung hochladen.
+
+2. Eine Verzeichnis bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
+
+Prüfunterlagen muss als ZIP Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle
+
+Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als
+
+fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
+
+mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten
+
+Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die
+
+entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des
 
-4  25            2023
+Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.
+
+Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+
+4  25
+
+2023
 
 
 ---
@@ -145,23 +231,59 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
-Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
+Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  Stellen der Prüfnummer) oder des Systemnamens angefordert unter Angabe der System ID (die letzten drei  werden. Bitte beachten Sie, dass pro System bzw. System ID nur ein Account vergeben wird.
+anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP Datei archiviert werden.
+Stellen der Prüfnummer) oder des Systemnamens angefordert
 
-Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+unter Angabe der System ID (die letzten drei
 
-Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
+werden. Bitte beachten Sie, dass pro System bzw. System ID nur ein Account vergeben wird.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log Dateien im .html oder .xml Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
+
+Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine
+
+Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der
+
+Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im
+
+Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten
+
+Prüfunterlagen in Form einer ZIP Datei archiviert werden.
+
+Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung
+
+auf Vollständigkeit der eingereichten Prüfunterlagen durch.
+
+Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden
+
+Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu
+
+beheben bzw. die Lieferung zu vervollständigen.
+
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende
+
+Fehlermeldungsbenachrichtigungen (sogenannte Log Dateien im .html oder .xml Format) erzeugt und
+
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch
+
+das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung
+
+als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,
+
+dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 **1.4** **ZERTIFIZIERUNGSDOKUMENTE**
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter ftp://ftp.kbv.de/ita update/ bereit.  In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel Referenzierte Dokumente.
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter ftp://ftp.kbv.de/ita update/ bereit.
+
+In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel Referenzierte Dokumente.
 
 **1.5** **PRÜFUNTERLAGEN**
 
@@ -169,40 +291,88 @@ Das Prüfpaket umfasst Prüffälle zur Verordnung von Heilmitteln in der vertrag
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist.  Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner  Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
+Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist.
 
-Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF Format bereitzustellen  und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien  werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF Datei bereitgestellt  werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der  Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor  der dokumentierten Verordnung anzuordnen sind.  1<PrüffallNr.> .pdf  z.B. **PF01.pdf**
+Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner
 
-________________  1 Nr. des Prüffalls 5  25            2023
+Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
+
+Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF Format bereitzustellen
+
+und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien
+
+werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF Datei bereitgestellt
+
+werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der
+
+Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor
+
+der dokumentierten Verordnung anzuordnen sind.
+
+1
+
+<PrüffallNr.> .pdf  z.B. **PF01.pdf**
+
+________________
+
+1 Nr. des Prüffalls
+
+5  25
+
+2023
 
 
 ---
 
-Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermittelt werden und sollen  folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
+Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermittelt werden und sollen
+
+folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
 <PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01_1.mp4**
 
-Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP Archiv zu  übermitteln. Das ZIP Archiv muss mit „Zert_495_<SystemID>“ benannt werden. Die SystemID ergibt sich  aus den letzten drei Stellen der Prüfnummer.
+Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP Archiv zu
+
+übermitteln. Das ZIP Archiv muss mit „Zert_495_<SystemID>“ benannt werden. Die SystemID ergibt sich
+
+aus den letzten drei Stellen der Prüfnummer.
 
 Die Struktur des ZIP Archives sollte folgende Form aufweisen:
 
 **HINWEIS**
 
-Die Gesamtheit der von 500 MB nicht  zu erstellen.
+Die Gesamtheit der
 
-im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe  überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung
+von 500 MB nicht
+
+zu erstellen.
+
+im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe
+
+überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung
 
 **1.6** **PRÜFVORGABEN**
 
 **1.6.1** **Prüfstammdaten**
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF”[PRF_Stammdaten] gekennzeichnet.
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
+
+werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung
+
+bzw. der Dateiname mit „PRF”[PRF_Stammdaten] gekennzeichnet.
 
 **1.6.2** **Versichertendaten**
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten  Verzeichnis die folgenden XML Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den
 
-________________  2 Nr. der Anweisung
+Daten des Versicherten und werden als XML Dateien zur Verfügung gestellt. Die Archivdatei
+
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten
+
+Verzeichnis die folgenden XML Dateien mit Versichertenstammdaten:
+
+________________
+
+2 Nr. der Anweisung
 
 3 Gängiges Bild bzw. Videoformat 6  25
 
@@ -211,13 +381,23 @@ ________________  2 Nr. der Anweisung
 
 ---
 
-EF.VD  allgemeine EF.PD  persönliche EF.GVD  geschützte
+EF.VD  allgemeine
 
-Die Erfassung der Patientendaten sogenannten Import Schnittstelle) Ersatzverfahren erfasst werden.
+EF.PD  persönliche
+
+EF.GVD  geschützte
+
+Die Erfassung der Patientendaten
+
+sogenannten Import Schnittstelle)
+
+Ersatzverfahren erfasst werden.
 
 **HINWEIS**
 
-Die Verwendung einer Import unterbunden werden.
+Die Verwendung einer Import
+
+unterbunden werden.
 
 **1.6.3** **Patientendaten** **für**
 
@@ -269,9 +449,15 @@ Die Verwendung einer Import unterbunden werden.
 
 7  25
 
-Versicherungsdaten  Versichertendaten  Versichertendaten
+Versicherungsdaten
 
-in den einzelnen  der XML Datei realisiert
+Versichertendaten
+
+Versichertendaten
+
+in den einzelnen
+
+der XML Datei realisiert
 
 Schnittstelle ist nur für
 
@@ -313,7 +499,9 @@ Althaus
 
 Brigitte
 
-Prüffälle kann entweder über das Einlesen (mit einer  werden oder die Daten können im
+Prüffälle kann entweder über das Einlesen (mit einer
+
+werden oder die Daten können im
 
 Prüfzwecke erlaubt und muss im Produktivbetrieb
 
@@ -497,21 +685,37 @@ X1201
 
 X8002
 
-**Standardisierte** **Heilmittelkombination** X2001
+**Standardisierte** **Heilmittelkombination**
 
-**Stimmtherapie 30** X3102
+X2001
 
-**Stimmtherapie 45** X3103
+**Stimmtherapie 30**
 
-**Thermische** **Anwendungen** X4301
+X3102
 
-**Wärmetherapie** X1530
+**Stimmtherapie 45**
 
-**Wärmetherapie** **mittels** **heiße** **Rolle** X1530
+X3103
 
-**Wärmetherapie** **mittels** **Ultraschall** X1531
+**Thermische** **Anwendungen**
 
-**Warmpackung** X1501
+X4301
+
+**Wärmetherapie**
+
+X1530
+
+**Wärmetherapie** **mittels** **heiße** **Rolle**
+
+X1530
+
+**Wärmetherapie** **mittels** **Ultraschall**
+
+X1531
+
+**Warmpackung**
+
+X1501
 
 Die Anzeige der Heilmittelpreisen im Verordnungsvorgang muss aktiviert sein.
 
@@ -521,21 +725,41 @@ Jeder Prüffall ist nach dem folgenden Schema aufgebaut.
 
 **Überschrift** **des** **Prüffalls**
 
-Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel: 01) ist der einzureichenden PDF bzw. Video Dateien (PDF Datei) zu verwenden.
+Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispiel: 01) ist
+
+der einzureichenden PDF bzw. Video Dateien (PDF Datei) zu verwenden.
 
 **Anweisungen**
 
-Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen ErkennenZur können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Hierzu können eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung gehören. können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
+Überprüfung von Verordnungsvoraussetzungen oder dem softwareseitigen Erkennen
 
-Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
+Zur können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Hierzu können
+
+eines Patienten oder die zu verwendenden Daten einer Heilmittelverordnung gehören.
+
+können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
+
+Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen
+
+eine Heilmittelverordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
 
 **HINWEIS**
 
-Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung, Fehlermeldung Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im Screenshot
+Für die Dokumentation muss ein separater Screenshot für jede Hinweismeldung, Fehlermeldung
 
-Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende Kennzeichnung/Überschrift.
+Eingabemaske erstellt werden. Es muss das gesamte Applikationsfenster im Screenshot
 
-Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit den können. erstellt werden 9  25            2023
+Bitte verwenden Sie zwischen den einzelnen Anweisungen immer eine entsprechende
+
+Kennzeichnung/Überschrift.
+
+Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit den
+
+können.
+
+erstellt werden 9  25
+
+2023
 
 **PREIS** **IN**
 
@@ -569,11 +793,17 @@ Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt mit de
 
 für den Dateinamen
 
-von Fehleingaben  die Festlegung  Einem Prüffall
+von Fehleingaben
+
+die Festlegung
+
+Einem Prüffall
 
 sind. Falls
 
-und  abgebildet werden.
+und
+
+abgebildet werden.
 
 vorgegebenen Daten
 
@@ -582,7 +812,9 @@ vorgegebenen Daten
 
 **Liste** **der** **betroffenen** **Pflichtfunktionen** **des** **Anforderungskatalogs**
 
-Die Pflichtfunktionen, die insbesondere  den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 08 Leitsymptomatik, […]).
+Die Pflichtfunktionen, die insbesondere  den zugeordneten Anweisungen des Prüffalls betroffen sind,
+
+werden mit Nummer und Titel gelistet (z.B.: P3 08 Leitsymptomatik, […]).
 
 10  25
 
@@ -591,21 +823,27 @@ Die Pflichtfunktionen, die insbesondere  den zugeordneten Anweisungen des Prüff
 
 ---
 
-2
-
-## PRÜFFÄLLE
+2 PRÜFFÄLLE
 
 **MAßNAHMEN**
 
-**PRÜFFALL** **01**
+#### PRÜFFALL 01
 
 **DER** **PHYSIOTHERAPIE**
 
 **Anweisung** **1:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten der Heilmittel Stammdatei muss per Freitext ergänzt Erfassungsdialog einschließlich möglicher Hinweissteuerung ausgedruckte Verordnung, sofern dies nach den
+Erstellen Sie eine Verordnung mit folgenden Daten
 
-**FELDER** **MUSTER** **13**   **Patient/Patientin**
+der Heilmittel Stammdatei muss per Freitext ergänzt
+
+Erfassungsdialog einschließlich möglicher Hinweissteuerung
+
+ausgedruckte Verordnung, sofern dies nach den
+
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
 
 **Heilmittelbereich**
 
@@ -617,15 +855,25 @@ Erstellen Sie eine Verordnung mit folgenden Daten der Heilmittel Stammdatei muss
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
 
-**Ergänzendes** **Behandlungseinheiten** **Heilmittel**
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -633,15 +881,25 @@ Erstellen Sie eine Verordnung mit folgenden Daten der Heilmittel Stammdatei muss
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**
 
-**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**
+
+**und** **Hinweise**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
 P3 06 ICD 10 Code 11  25
 
-(siehe Tabelle dieser Anweisung). Das Heilmittel gemäß  werden. Dokumentieren Sie den vollständigen  durch ein Video. Dokumentieren Sie die  Vorgaben möglich ist.
+(siehe Tabelle dieser Anweisung). Das Heilmittel gemäß
+
+werden. Dokumentieren Sie den vollständigen
+
+durch ein Video. Dokumentieren Sie die
+
+Vorgaben möglich ist.
 
 **DATEN**
 
@@ -649,17 +907,25 @@ XML Verzeichnisname: XML_22
 
 S82.21
 
-Fraktur des Tibiaschaftes mit Fraktur der Fibula (jeder  Teil)
+Fraktur des Tibiaschaftes mit Fraktur der Fibula (jeder
+
+Teil)
 
 EX
 
 a) b)
 
-Schädigung/Störung der Gelenkfunktion;  Schädigung/Störung der Muskelfunktion
+Schädigung/Störung der Gelenkfunktion;
 
-KMT *als* *Doppelbehandlung* 6
+Schädigung/Störung der Muskelfunktion
 
-Wärmetherapie 6 1 3x wöch.
+KMT *als* *Doppelbehandlung*
+
+6
+
+Wärmetherapie 6
+
+1 3x wöch.
 
 Nein
 
@@ -674,43 +940,101 @@ Nein
 
 ---
 
-P3 07 Diagnosegruppe  P3 08 Leitsymptomatik  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge P3 12 Behandlungsrelevante Diagnose(n)  P3 13 Therapiefrequenz  P3 14 Hausbesuch  P3 19 Heilmittel nach Maßgabe des Kataloges  P3 21 Verordnung von „vorrangigen Heilmitteln“  P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“ P3 25 Sortierte Auswahlliste der Heilmittel  P3 35 Einbindung von Heilmittelpreisen durch den Software Hersteller
+P3 07 Diagnosegruppe
+
+P3 08 Leitsymptomatik
+
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+P3 12 Behandlungsrelevante Diagnose(n)
+
+P3 13 Therapiefrequenz
+
+P3 14 Hausbesuch
+
+P3 19 Heilmittel nach Maßgabe des Kataloges
+
+P3 21 Verordnung von „vorrangigen Heilmitteln“
+
+P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“
+
+P3 25 Sortierte Auswahlliste der Heilmittel
+
+P3 35 Einbindung von Heilmittelpreisen durch den Software Hersteller
 
 **Anweisung** **2:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende folgende Einträge (siehe Tabelle dieser Anweisung).
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende
 
-Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels Hinweissteuerung durch Screenshots und die ausgedruckte Verordnung, möglich ist.
+folgende Einträge (siehe Tabelle dieser Anweisung).
 
-**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten**
+Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels
 
-**Ergänzendes** **Behandlungseinheiten** Wärmetherapie mittels **Heilmittel**
+Hinweissteuerung durch Screenshots und die ausgedruckte Verordnung,
+
+möglich ist.
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten** Wärmetherapie mittels
+
+**Heilmittel**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 23 Eigenständige Verordnung eines „ergänzenden Heilmittels“ P3 04 Rückgriff auf Vorverordnung
+P3 23 Eigenständige Verordnung eines „ergänzenden Heilmittels“
+
+P3 04 Rückgriff auf Vorverordnung
 
 **Anweisung** **3:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren durch Screenshots sowie die ausgedruckte Verordnung, sofern dies
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende
 
-**FELDER** **MUSTER** **13** **DATEN**
+folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren
 
-**Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination
+durch Screenshots sowie die ausgedruckte Verordnung, sofern dies
 
-**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten** Standardisierte Heilmittelkombination
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 24 Standardisierte Heilmittelkombination 12  25            2023
+P3 24 Standardisierte Heilmittelkombination 12  25
+
+2023
 
 Verordnung (Anweisung 1). Ändern Sie
 
-einschließlich einer möglichen  sofern dies nach den Vorgaben
+einschließlich einer möglichen
+
+sofern dies nach den Vorgaben
 
 Ultraschall 6
 
-Verordnung (Anweisung 2). Ändern Sie  Sie den Dialog der Heilmittelauswahl  nach den Vorgaben möglich ist.
+Verordnung (Anweisung 2). Ändern Sie
+
+Sie den Dialog der Heilmittelauswahl
+
+nach den Vorgaben möglich ist.
 
 6
 
@@ -719,11 +1043,29 @@ Verordnung (Anweisung 2). Ändern Sie  Sie den Dialog der Heilmittelauswahl  nac
 
 **Anweisung** **4:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).  Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung Video.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung
 
-**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im Bewegungsbad)
+folgende Einträge (siehe Tabelle dieser Anweisung).
 
-**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung
+
+Video.
+
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im Bewegungsbad)
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
@@ -731,13 +1073,27 @@ P3 24 Standardisierte Heilmittelkombination
 
 **Anweisung** **5:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung
+
+folgende Einträge (siehe Tabelle dieser Anweisung).
 
 Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
-**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im  Bewegungsbad;MT;Wärmetherapie)
+**FELDER** **MUSTER** **13**
 
-**Ergänzendes** **Behandlungseinheiten**   **Heilmittel**
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten** Standardisierte Heilmittelkombination (KG;KG im
+
+Bewegungsbad;MT;Wärmetherapie)
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
@@ -745,11 +1101,19 @@ P3 24 Standardisierte Heilmittelkombination
 
 **Anweisung** **6:**
 
-Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung denselben Einträgen. Dokumentieren Sie die möglichen Hinweistexte durch Screenshots ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Verordnung
+
+denselben Einträgen. Dokumentieren Sie die möglichen Hinweistexte durch Screenshots
+
+ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 24 Standardisierte Heilmittelkombination 13  25            2023
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+P3 24 Standardisierte Heilmittelkombination 13  25
+
+2023
 
 3). Ändern Sie
 
@@ -772,27 +1136,53 @@ möglich ist.
 
 **Anweisung** **7:**
 
-Erstellen Sie **fünf** Mal eine Verordnung durch Zugriff auf die zurückliegende Verordnung Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren Sie den Erfassungsdialog der **fünften** Verordnung einschließlich möglicher Hinweissteuerung durch
+Erstellen Sie **fünf** Mal eine Verordnung durch Zugriff auf die zurückliegende Verordnung
+
+Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Dokumentieren Sie den
+
+Erfassungsdialog der **fünften** Verordnung einschließlich möglicher Hinweissteuerung durch
 
 Dokumentieren Sie die ausgedruckten Verordnungen, sofern dies nach den Vorgaben möglich
 
-**FELDER** **MUSTER** **13** **DATEN**   **Heilmittel** **Behandlungseinheiten** KG
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten** KG
 
 KG im Bewegungsbad
 
-**Ergänzendes** **Behandlungseinheiten** Warmpackung (z. B. Fango)  **Heilmittel**
+**Ergänzendes**
+
+**Behandlungseinheiten** Warmpackung (z. B. Fango)
+
+**Heilmittel**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 21 Verordnung von „vorrangigen Heilmitteln“  P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+P3 21 Verordnung von „vorrangigen Heilmitteln“
+
+P3 22 Zusätzliche Verordnung eines „ergänzenden Heilmittels“
 
 **Anweisung** **8:**
 
-Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung Anweisung folgende Einträge (siehe Tabelle dieser Anweisung).  Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst
+Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung Anweisung
 
-Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+folgende Einträge (siehe Tabelle dieser Anweisung).
 
-**FELDER** **MUSTER** **13** **DATEN**
+Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst
+
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung
+
+Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
 
 **ICD 10 Code**
 
@@ -800,7 +1190,9 @@ Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
@@ -814,21 +1206,33 @@ ZN
 
 a) b)
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
+
+**Heilmittel**
+
+**Behandlungseinheiten**
 
 **Therapiefrequenz**
 
 14  25
 
-Schädigung/Störung der Bewegungs Sinnesfunktion;  Schädigung/Störung der Muskelfunktion
+Schädigung/Störung der Bewegungs
+
+Sinnesfunktion;
+
+Schädigung/Störung der Muskelfunktion
 
 KG ZNS Kinder 1 3x wöch.
 
 2023
 
-(Anweisung 5).  vollständigen  ein Video.
+(Anweisung 5).
+
+vollständigen
+
+ein Video.
 
 ist.
 
@@ -842,7 +1246,9 @@ ist.
 
 werden.
 
-durch ein  möglich ist.
+durch ein
+
+möglich ist.
 
 und 37
 
@@ -851,15 +1257,29 @@ und 37
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 06 ICD 10 Code  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 06 ICD 10 Code
+
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs
 
 **Anweisung** **9:**
 
-Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung der Anweisung 7. Ändern Sie  folgende Einträge (siehe Tabelle dieser Anweisung).  Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst werden.
+Erstellen Sie eine neue Verordnung durch Zugriff auf die **fünfte** Verordnung der Anweisung 7. Ändern Sie
 
-Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch  Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+folgende Einträge (siehe Tabelle dieser Anweisung).
 
-**FELDER** **MUSTER** **13** **DATEN**
+Es soll ein Akutereignis 1 Jahr vor dem verwendeten Verordnungsdatum liegen/erfasst werden.
+
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch
+
+Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
 
 **ICD 10 Code**
 
@@ -867,7 +1287,9 @@ Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
@@ -881,38 +1303,56 @@ ZN
 
 a) b)
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
+
+**Heilmittel**
+
+**Behandlungseinheiten**
 
 **Therapiefrequenz**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-Schädigung/Störung der Bewegungs und  Sinnesfunktion;  Schädigung/Störung der Muskelfunktion
+Schädigung/Störung der Bewegungs und
+
+Sinnesfunktion;
+
+Schädigung/Störung der Muskelfunktion
 
 KG ZNS Kinder 1 3x wöch.
 
 36
 
-P3 06 ICD 10 Code  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 06 ICD 10 Code
+
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs
 
 **2.2** **MAßNAHMEN**
 
-**PRÜFFALL** **02**
+#### PRÜFFALL 02
 
 **DER** **PODOLOGISCHEN** **THERAPIE**
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie die Verordnung, wenn  möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher 15  25
+Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie die Verordnung, wenn
+
+möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher 15  25
 
 2023
 
 
 ---
 
-Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
+Hinweissteuerung durch Screenshots. Dokumentieren
+
+den Vorgaben möglich ist.
 
 | **DATEN** |
 |---|
@@ -926,7 +1366,9 @@ Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
@@ -934,13 +1376,17 @@ Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
 **(Freitext)**
 
-**Heilmittel** **Behandlungseinheiten**
+**Heilmittel**
+
+**Behandlungseinheiten**
 
 **Heilmittelkatalog**
 
 **Heilmittelkatalog**
 
-**Ergänzendes**  **Heilmittel**
+**Ergänzendes**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -948,9 +1394,13 @@ Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf**
 
-**ggf.** **Therapieziele**  **weitere** **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere**
+
+**und** **Hinweise**
 
 **Behandlungseinheiten**
 
@@ -960,13 +1410,21 @@ Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-P3 08 Leitsymptomatik  P3 11 Höchstmenge je Verordnung, orientierende P3 13 Therapiefrequenz  P3 21 Verordnung von „vorrangigen Heilmitteln“
+P3 08 Leitsymptomatik
+
+P3 11 Höchstmenge je Verordnung, orientierende
+
+P3 13 Therapiefrequenz
+
+P3 21 Verordnung von „vorrangigen Heilmitteln“
 
 16  25
 
 Sie die ausgedruckte Verordnung, sofern dies nach
 
-Diabetes mellitus vom Typ 1 mit Nierenkomplikationen  [N08.3*], nicht als entgleist bezeichnet
+Diabetes mellitus vom Typ 1 mit Nierenkomplikationen
+
+[N08.3*], nicht als entgleist bezeichnet
 
 DF
 
@@ -995,11 +1453,15 @@ FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD Code2023
 
 **MAßNAHMEN** **DER** **STIMM** **SPRECH** **SPRACH**
 
-**PRÜFFALL** **03**
+#### PRÜFFALL 03
 
 **Anweisung** **1:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten gemäß der ICD Stammdatei wird um einen Freitext Screenshots. Dokumentieren Sie die ausgedruckte
+Erstellen Sie eine Verordnung mit folgenden Daten
+
+gemäß der ICD Stammdatei wird um einen Freitext
+
+Screenshots. Dokumentieren Sie die ausgedruckte
 
 | **DATEN** |
 |---|
@@ -1013,15 +1475,25 @@ Erstellen Sie eine Verordnung mit folgenden Daten gemäß der ICD Stammdatei wir
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
 
-**Ergänzendes** **Behandlungseinheiten**  **Heilmittel**
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -1029,19 +1501,35 @@ Erstellen Sie eine Verordnung mit folgenden Daten gemäß der ICD Stammdatei wir
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**
 
-**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**
+
+**und** **Hinweise**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-P3 05 Grundsatz der Vollständigkeit  P3 11 Höchstmenge je Verordnung, orientierende P3 12 Behandlungsrelevante Diagnose(n)  P3 13 Therapiefrequenz  P3 21 Verordnung  „vorrangigen Heilmitteln“
+P3 05 Grundsatz der Vollständigkeit
+
+P3 11 Höchstmenge je Verordnung, orientierende
+
+P3 12 Behandlungsrelevante Diagnose(n)
+
+P3 13 Therapiefrequenz
+
+P3 21 Verordnung  „vorrangigen Heilmitteln“
 
 17  25
 
 **UND** **SCHLUCKTHERAPIE**
 
-(siehe Tabelle dieser Anweisung). ergänzt. Dokumentieren Sie mögliche Verordnung, sofern dies nach den
+(siehe Tabelle dieser Anweisung).
+
+ergänzt. Dokumentieren Sie mögliche
+
+Verordnung, sofern dies nach den
 
 Dissoziative Bewegungsstörungen
 
@@ -1061,7 +1549,11 @@ Nein
 
 Behandlungsmenge 2023
 
-Der ICD 10 Klartext  Hinweise durch  Vorgaben möglich ist.
+Der ICD 10 Klartext
+
+Hinweise durch
+
+Vorgaben möglich ist.
 
 *Psychogene* *Aphonie*
 
@@ -1074,39 +1566,89 @@ FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code5
 
 **Anweisung** **2:**
 
-Auf Basis der Verordnung aus Anweisung 1 wurde ein langfristiger Heilmittelbedarf bei der Krankenkasse  beantragt und genehmigt. Dieser soll nun im System erfasst werden.  Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1). Im  Rahmen des Verordnungsvorgangs ist die patientenspezifische Genehmigung gemäß folgender Tabelle zu  erfassen (gleiche Krankenkasse).
+Auf Basis der Verordnung aus Anweisung 1 wurde ein langfristiger Heilmittelbedarf bei der Krankenkasse
 
-Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein  Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+beantragt und genehmigt. Dieser soll nun im System erfasst werden.
 
-**FELDER** **MUSTER** **13** **DATEN**   ICD 10 Code F44.4
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 1). Im
 
-Diagnosegruppe ST3
+Rahmen des Verordnungsvorgangs ist die patientenspezifische Genehmigung gemäß folgender Tabelle zu
 
-Gültigkeitsdatum Bis 31.12.2025
+erfassen (gleiche Krankenkasse).
+
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung durch ein
+
+Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+ICD 10 Code
+
+F44.4
+
+Diagnosegruppe
+
+ST3
+
+Gültigkeitsdatum
+
+Bis 31.12.2025
 
 genehmigtes Heilmittel
 
-Freitext *Antrag* *vom* *1.1.2020*
+Freitext
+
+*Antrag* *vom* *1.1.2020*
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  P3 37 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  Eingabedialog  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs
+
+P3 37 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  Eingabedialog
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs
 
 **Anweisung** **3:**
 
-Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)  innerhalb des Gültigkeitsdatums der Genehmigung.  Dokumentieren Sie den Erfassungsdialog, aus dem ersichtlich wird, dass die Verordnung als langfristig  genehmigt im Erfassungsdialog sichtbar gekennzeichnet ist per Screenshots.  Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung (Anweisung 2)
+
+innerhalb des Gültigkeitsdatums der Genehmigung.
+
+Dokumentieren Sie den Erfassungsdialog, aus dem ersichtlich wird, dass die Verordnung als langfristig
+
+genehmigt im Erfassungsdialog sichtbar gekennzeichnet ist per Screenshots.
+
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 01 Patientenspezifische Genehmigung des langfristigen Heilmittelbedarfs
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs
 
 **2.4** **MAßNAHMEN** **DER** **ERGOTHERAPIE**
 
-**PRÜFFALL** **04**
+#### PRÜFFALL 04
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegruppe ist der  Heilmittelbereich und die Diagnose (ICD 10 Code) zu erfassen, sofern dies möglich ist Wenn der  Heilmittelbereich nicht separat ausgewählt werden kann, dann ist dies im Rahmen der Dokumentation des  Prüffalls mitzuteilen. Dokumentieren Sie anschließend den vollständigen Erfassungsdialog der  Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegruppe ist der
+
+Heilmittelbereich und die Diagnose (ICD 10 Code) zu erfassen, sofern dies möglich ist Wenn der
+
+Heilmittelbereich nicht separat ausgewählt werden kann, dann ist dies im Rahmen der Dokumentation des
+
+Prüffalls mitzuteilen. Dokumentieren Sie anschließend den vollständigen Erfassungsdialog der
+
+Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Dokumentieren Sie die
+
+ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
 18  25
 
@@ -1127,19 +1669,27 @@ Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegrupp
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **(Freitext)**
+**Leitsymptomatik** **gemäß**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
+
+**Heilmittel**
+
+**Behandlungseinheiten**
 
 **Heilmittelkatalog**
 
 **Heilmittelkatalog**
 
-**Ergänzendes**  **Heilmittel**
+**Ergänzendes**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -1147,9 +1697,13 @@ Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegrupp
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf**
 
-**ggf.** **Therapieziele**  **weitere** **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere**
+
+**und** **Hinweise**
 
 **Behandlungseinheiten**
 
@@ -1159,13 +1713,23 @@ Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegrupp
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-P3 08 Leitsymptomatik  P3 18 Kriterien für Verordnungen aufgrund Heilmittelbedarfs  P3 20 ggf. Therapieziele  weitere med. Befunde
+P3 08 Leitsymptomatik
 
-**PRÜFFALL** **05**
+P3 18 Kriterien für Verordnungen aufgrund
+
+Heilmittelbedarfs
+
+P3 20 ggf. Therapieziele  weitere med. Befunde
+
+#### PRÜFFALL 05
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten Erfassen Sie ein Akutereignis zu dieser Erkrankung, Verordnungsdatum liegt.
+Erstellen Sie eine Verordnung mit folgenden Daten
+
+Erfassen Sie ein Akutereignis zu dieser Erkrankung,
+
+Verordnungsdatum liegt.
 
 19  25
 
@@ -1177,11 +1741,15 @@ ja
 
 Kyphose der BWS
 
-Motorisch funkt. Beh. 5
+Motorisch funkt. Beh.
+
+5
 
 Motorisch funkt. Beh. Gruppe 5
 
-Thermische Anwendungen 10 2 3x wöch.
+Thermische Anwendungen 10
+
+2 3x wöch.
 
 Ja
 
@@ -1197,22 +1765,38 @@ eines besonderen Verordnungsbedarfs/eines langfristigen
 
 und Hinweise
 
-(siehe Tabelle dieser Anweisung).  dass innerhalb von 3 Wochen vor dem
+(siehe Tabelle dieser Anweisung).
+
+dass innerhalb von 3 Wochen vor dem
 
 FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code2023
 
 
 ---
 
-Dokumentieren Sie den vollständigen Erfassungsdialog des Akutereignisses sowie Kennzeichnung eines besonderen Verordnungsbedarfs bzw. eines langfristigen mögliche Hinweise im Rahmen des Verordnungsvorgangs durch ein Video.
+Dokumentieren Sie den vollständigen Erfassungsdialog des Akutereignisses sowie
+
+Kennzeichnung eines besonderen Verordnungsbedarfs bzw. eines langfristigen
+
+mögliche Hinweise im Rahmen des Verordnungsvorgangs durch ein Video.
 
 Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
-**FELDER** **MUSTER** **13** **DATEN**   **Patient/Patientin** XML Verzeichnisname: XML_05
+**FELDER** **MUSTER** **13**
 
-**Heilmittelbereich** Physiotherapie
+**DATEN**
 
-**ICD 10 Code** Z98.8
+**Patient/Patientin**
+
+XML Verzeichnisname: XML_05
+
+**Heilmittelbereich**
+
+Physiotherapie
+
+**ICD 10 Code**
+
+Z98.8
 
 **ICD 10 Code**
 
@@ -1220,11 +1804,15 @@ Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog** **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+
+**(buchstabencodiert)**
 
 Z96.64
 
-Sonstige näher bezeichnete Zustände Eingriffen; Vorhandensein einer
+Sonstige näher bezeichnete Zustände
+
+Eingriffen; Vorhandensein einer
 
 EX
 
@@ -1232,11 +1820,19 @@ a)
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
 
-**Ergänzendes** **Behandlungseinheiten**  **Heilmittel**
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -1244,13 +1840,19 @@ a)
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**  **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**
 
-**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**
+
+**und** **Hinweise**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-P3 18 Kriterien für Verordnungen aufgrund  Heilmittelbedarfs 20  25
+P3 18 Kriterien für Verordnungen aufgrund
+
+Heilmittelbedarfs 20  25
 
 nein
 
@@ -1272,11 +1874,15 @@ Ja
 
 eines besonderen Verordnungsbedarfs/eines 2023
 
-die ggf. erfolgende  Heilmittelbedarfs und
+die ggf. erfolgende
+
+Heilmittelbedarfs und
 
 möglich ist.
 
-nach chirurgischen  Hüftgelenkprothese 10
+nach chirurgischen
+
+Hüftgelenkprothese 10
 
 10
 
@@ -1287,15 +1893,21 @@ langfristigen
 
 ---
 
-**PRÜFFALL** **06**
+#### PRÜFFALL 06
 
 **Anweisung** **1:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten als Blankoverordnung ausgestellt werden.
+Erstellen Sie eine Verordnung mit folgenden Daten
 
-Dokumentieren Sie den vollständigen Erfassungsdialog Video. Dokumentieren Sie die ausgedruckte Verordnung,
+als Blankoverordnung ausgestellt werden.
 
-**FELDER** **MUSTER** **13**   **Patient/Patientin**
+Dokumentieren Sie den vollständigen Erfassungsdialog
+
+Video. Dokumentieren Sie die ausgedruckte Verordnung,
+
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
 
 **Heilmittelbereich**
 
@@ -1307,15 +1919,25 @@ Dokumentieren Sie den vollständigen Erfassungsdialog Video. Dokumentieren Sie d
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
 
-**Ergänzendes** **Behandlungseinheiten** **Heilmittel**
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -1323,17 +1945,25 @@ Dokumentieren Sie den vollständigen Erfassungsdialog Video. Dokumentieren Sie d
 
 **Hausbesuch** **ja/nein**
 
-**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** **14** **Tagen**
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von**
 
-**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**
+
+**und** **Hinweise**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind**
 
-P3 11 Höchstmenge je Verordnung, orientierende P3 16 Blankoverordnung 21  25
+P3 11 Höchstmenge je Verordnung, orientierende
+
+P3 16 Blankoverordnung 21  25
 
 (siehe Tabelle dieser Anweisung). Die Verordnung soll
 
-einschließlich möglicher Hinweissteuerung durch ein  sofern dies nach den Vorgaben möglich ist.
+einschließlich möglicher Hinweissteuerung durch ein
+
+sofern dies nach den Vorgaben möglich ist.
 
 **DATEN**
 
@@ -1345,17 +1975,25 @@ M54.0
 
 Z98.8
 
-Pannikulitis in der Nacken näher bezeichnete Zustände Eingriffen
+Pannikulitis in der Nacken
+
+näher bezeichnete Zustände
+
+Eingriffen
 
 WS
 
 und nach
 
-Rückenregion; Sonstige  chirurgischen
+Rückenregion; Sonstige
+
+chirurgischen
 
 a) b)
 
-Schädigung der Bewegungssegmente;  Schädigung/Störung der Muskelfunktion
+Schädigung der Bewegungssegmente;
+
+Schädigung/Störung der Muskelfunktion
 
 Ja
 
@@ -1372,15 +2010,27 @@ Behandlungsmenge 2023
 
 **Anweisung** **2:**
 
-Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Diese soll entgegen der der zurückliegenden Verordnung nicht als Blankoverordnung ausgestellt Ändern Sie daher folgende Einträge (siehe Tabelle dieser Anweisung).
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung
 
-Dokumentieren Sie den vollständigen Änderungsdialog einschließlich möglicher Hinweissteuerung ein Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+Diese soll entgegen der der zurückliegenden Verordnung nicht als Blankoverordnung ausgestellt
 
-**FELDER** **MUSTER** **13** **DATEN**
+Ändern Sie daher folgende Einträge (siehe Tabelle dieser Anweisung).
 
-**Heilmittel** **Behandlungseinheiten**
+Dokumentieren Sie den vollständigen Änderungsdialog einschließlich möglicher Hinweissteuerung
 
-**Ergänzendes** **Behandlungseinheiten**
+ein Video. Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
 
 **Heilmittel**
 
@@ -1400,15 +2050,27 @@ Wärmetherapie mittels heiße Rolle 1 3x wöch.
 
 **Anweisung** **3:**
 
-Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht Blankoverordnung ausgestellt werden.
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung
 
-Dokumentieren Sie mögliche Hinweise und Abfragen durch Screenshots. Dokumentieren ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht
 
-**FELDER** **MUSTER** **13** **DATEN**
+Blankoverordnung ausgestellt werden.
 
-**Heilmittel** **Behandlungseinheiten** KG
+Dokumentieren Sie mögliche Hinweise und Abfragen durch Screenshots. Dokumentieren
 
-**Ergänzendes** **Behandlungseinheiten**
+ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
+
+**FELDER** **MUSTER** **13**
+
+**DATEN**
+
+**Heilmittel**
+
+**Behandlungseinheiten** KG
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
 
 MT
 
@@ -1416,7 +2078,9 @@ Wärmetherapie mittels heiße Rolle
 
 **Heilmittel**
 
-**Therapiefrequenz** 1 3x wöch.
+**Therapiefrequenz**
+
+1 3x wöch.
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
@@ -1424,15 +2088,27 @@ P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
 
 **Anweisung** **4:**
 
-Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht Blankoverordnung ausgestellt werden. Dokumentieren Sie mögliche Hinweise im Rahmen Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, nach den Vorgaben möglich ist.
+Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung
+
+Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht
+
+Blankoverordnung ausgestellt werden. Dokumentieren Sie mögliche Hinweise im Rahmen
+
+Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung,
+
+nach den Vorgaben möglich ist.
 
 22  25
 
 2023
 
-(Anweisung 1).  werden.
+(Anweisung 1).
 
-durch  möglich ist.
+werden.
+
+durch
+
+möglich ist.
 
 3
 
@@ -1450,14 +2126,22 @@ Sie die 4
 
 8
 
-(Anweisung 3).  als  der Erfassung der  sofern dies
+(Anweisung 3).
+
+als  der Erfassung der
+
+sofern dies
 
 
 ---
 
-**FELDER** **MUSTER** **13**   **Behandlungseinheiten**
+**FELDER** **MUSTER** **13**
 
-**Ergänzendes**  **Heilmittel**
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Heilmittel**
 
 **Therapiefrequenz**
 
@@ -1467,7 +2151,7 @@ P3 11 Höchstmenge
 
 **2.5** **MAßNAHMEN** **DER**
 
-**PRÜFFALL** **07**
+#### PRÜFFALL 07
 
 **Behandlungseinheiten**
 
@@ -1483,7 +2167,9 @@ Erstellen Sie eine Verordnung mit folgenden Daten
 
 Dokumentieren Sie die ausgedruckte Verordnung,
 
-**FELDER** **MUSTER** **13**   **Patient/Patientin**
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
 
 **Datum** **der** **Verordnung**
 
@@ -1497,15 +2183,23 @@ Dokumentieren Sie die ausgedruckte Verordnung,
 
 **Diagnosegruppe**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(buchstabencodiert)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
+
+**(buchstabencodiert)**
 
 **patientenindividuelle** **Leitsymptomatik**
 
-**Leitsymptomatik** **gemäß** **Heilmittelkatalog**  **(Freitext)**
+**Leitsymptomatik** **gemäß** **Heilmittelkatalog**
 
-**Heilmittel** **Behandlungseinheiten**
+**(Freitext)**
 
-**Ergänzendes** **Behandlungseinheiten**
+**Heilmittel**
+
+**Behandlungseinheiten**
+
+**Ergänzendes**
+
+**Behandlungseinheiten**
 
 23  25
 
@@ -1513,7 +2207,9 @@ Dokumentieren Sie die ausgedruckte Verordnung,
 
 KG 7
 
-Wärmetherapie mittels heiße Rolle 7 1 3x wöch.
+Wärmetherapie mittels heiße Rolle 7
+
+1 3x wöch.
 
 **betroffen:**
 
@@ -1537,7 +2233,11 @@ SAS
 
 c)
 
-Störung des Fett Energiestoffwechsels;  *tagesformabhängige* *Appetitlosigkeit* *und* *zeitweise* *Nahrungsverweigerung*
+Störung des Fett Energiestoffwechsels;
+
+*tagesformabhängige* *Appetitlosigkeit* *und* *zeitweise*
+
+*Nahrungsverweigerung*
 
 Ernährungstherapie 2023
 
@@ -1546,25 +2246,45 @@ Ernährungstherapie 2023
 
 ---
 
-**FELDER** **MUSTER** **13** **DATEN**   **Therapiefrequenz**
+**FELDER** **MUSTER** **13**
 
-**Therapiebericht** Ja
+**DATEN**
 
-**Hausbesuch** **ja/nein** Ja
+**Therapiefrequenz**
 
-**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** Nein  **14** **Tagen**
+**Therapiebericht**
 
-**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**  **und** **Hinweise**
+Ja
+
+**Hausbesuch** **ja/nein**
+
+Ja
+
+**Dringlicher** **Behandlungsbedarf** **innerhalb** **von** Nein
+
+**14** **Tagen**
+
+**ggf.** **Therapieziele**  **weitere** **med.** **Befunde**
+
+**und** **Hinweise**
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **sind** **betroffen:**
 
-P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 13 Therapiefrequenz  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
+P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
 
-**PRÜFFALL** **08**
+P3 13 Therapiefrequenz
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs
+
+#### PRÜFFALL 08
 
 **Anweisung** **1:**
 
-Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle 01 07 erstellten Verordnungen per Screenshot(s).
+Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle 01
+
+07 erstellten Verordnungen per Screenshot(s).
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
@@ -1572,28 +2292,40 @@ P3 34 Verordnungsstatistik
 
 **Anweisung** **2:**
 
-Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall  Sie die Darstellung per Screenshot(s). 04 aus. Dokumentieren
+Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall
+
+Sie die Darstellung per Screenshot(s).
+
+04 aus. Dokumentieren
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
-P3 34 Verordnungsstatistik  P3 02 Verordnungsdokumentation
+P3 34 Verordnungsstatistik
+
+P3 02 Verordnungsdokumentation
 
 **Anweisung** **3:**
 
-Filtern Sie die Übersicht nach Anweisung 1, unter Anwendung der Filterkriterien „Kennzeichnung eines  besonderen Verordnungsbedarfs“ und „Kennzeichnung eines langfristigen Heilmittelbedarfs“.  Dokumentieren Sie das Ergebnis als Screenshot.
+Filtern Sie die Übersicht nach Anweisung 1, unter Anwendung der Filterkriterien „Kennzeichnung eines
+
+besonderen Verordnungsbedarfs“ und „Kennzeichnung eines langfristigen Heilmittelbedarfs“.
+
+Dokumentieren Sie das Ergebnis als Screenshot.
 
 **Insbesondere** **folgende** **Pflichtfunktionen** **werden** **in** **diesem** **Prüffall** **geprüft:**
 
-P3 34 Verordnungsstatistik  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs 24  25            2023
+P3 34 Verordnungsstatistik
+
+P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen
+
+Heilmittelbedarfs 24  25
+
+2023
 
 
 ---
 
-3
-
-## REFERENZIERTE
-
-## DOKUMENTE
+3 REFERENZIERTE DOKUMENTE
 
 **Referenz**
 
@@ -1621,9 +2353,15 @@ PRF_Stammdaten
 
 Dezernat Digitalisierung und IT
 
-IT in der Arztpraxis  Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+IT in der Arztpraxis
 
-Kassenärztliche Bundesvereinigung  Herbert Lewin Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de 25  25
+Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung
+
+Herbert Lewin Platz 2, 10623 Berlin
+
+[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de 25  25
 
 **Dokument**
 
@@ -1643,6 +2381,10 @@ Datensatzbeschreibung Heilmittel A
 
 Datensatzbeschreibung ICD 10 GM
 
-Datensatzbeschreibung Heilmittel  Blankoverordnung
+Datensatzbeschreibung Heilmittel
 
-Teststammdateien für die Zertifizie Verfahrens 2023
+Blankoverordnung
+
+Teststammdateien für die Zertifizie
+
+Verfahrens 2023

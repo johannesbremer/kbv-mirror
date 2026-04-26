@@ -22,11 +22,33 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **1** **ALLGEMEINES**
 
-1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Zertifizierungsdokumente  1.5 Prüfunterlagen  1.6 Prüfvorgaben  1.6.1 Prüfstammdaten  1.6.2 Versichertendaten  1.6.3 Auflistung der Prüffälle  1.6.4 Praxisdaten/ Arztstempel
+1.1 Rechtsgrundlage
+
+1.2 Zertifizierungsablauf
+
+1.3 Zertifizierungsportal
+
+1.4 Zertifizierungsdokumente
+
+1.5 Prüfunterlagen
+
+1.6 Prüfvorgaben  1.6.1 Prüfstammdaten 1.6.2 Versichertendaten
+
+1.6.3 Auflistung der Prüffälle 1.6.4 Praxisdaten/ Arztstempel
 
 **2** **PRÜFFÄLLE**
 
-2.1 Voraussetzungen  2.2 Erstellung einer eAU  2.3 Verwendung von KIM  2.4 Darstellung in der Software  2.5 Verhalten beim Empfang von fehlerhaften Daten  2.6 Fallback Szenario bei Störung des Versandes
+2.1 Voraussetzungen
+
+2.2 Erstellung einer eAU
+
+2.3 Verwendung von KIM
+
+2.4 Darstellung in der Software
+
+2.5 Verhalten beim Empfang von fehlerhaften Daten
+
+2.6 Fallback Szenario bei Störung des Versandes
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -72,25 +94,39 @@ Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testzi
 
 ---
 
-1
+# 1 ALLGEMEINES
 
-## ALLGEMEINES
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Digitalen Muster  konkret die elektronische
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Digitalen Muster  konkret die elektronische  Arbeitsunfähigkeitsbescheinigung (eAU).
+Arbeitsunfähigkeitsbescheinigung (eAU).
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
-**1.1** **RECHTSGRUNDLAGE**
+## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet § 295 Abs. 1 des Fünften Buches Sozialgesetzbuch (SGB V).
 
-**1.2** **ZERTIFIZIERUNGSABLAUF**
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer
 
-1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der  Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.   2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.  3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.  4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
+
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
+
+- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt der
+
+Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
 
 **HINWEIS**
 
@@ -99,52 +135,88 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
-**1.3** **ZERTIFIZIERUNGSPORTAL**
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))  unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de))
 
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die  nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle  abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer zip-Datei archiviert werden.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den Antrag auf Zertifizierung  hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine Aufgaben“) die  nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der Zertifizierungsstelle
+
+abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+
+Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten
+
+Prüfunterlagen in Form einer zip-Datei archiviert werden.
 
 Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlichen Prüfung auch eine Prüfung  auf Vollständigkeit der eingereichten Prüfunterlagen durch.
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und
 
-**1.4** **ZERTIFIZIERUNGSDOKUMENTE**
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eAU] bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung  als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
-**1.5** **PRÜFUNTERLAGEN**
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
+
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eAU] bereit. In diesem
+
+Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente.
+
+## 1.5 PRÜFUNTERLAGEN
 
 Das Prüfpaket umfasst zum einen Prüffälle zum Versand von eAU- sowie Storno-Dateien und zum anderem  den Empfang von Fehlernachrichten der Krankenkassen
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-Signierte eAU- und Storno-Dateien  XML-Dateien der eAU- und Storno-Dateien  PDF-Dateien des Ausdrucks der eAU  Screenshots ausgewählter Anforderungen  KIM-Bestätigungsschreiben der gematik
+- Signierte eAU- und Storno-Dateien
 
-Die Teile der Lieferung, welche eine eAU- oder Storno-Datei darstellen, sind im entsprechenden  Dateiformat zu exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu  übertragen. Diese Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall  eine XML-Datei sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
+- XML-Dateien der eAU- und Storno-Dateien
+
+- PDF-Dateien des Ausdrucks der eAU
+
+- Screenshots ausgewählter Anforderungen
+
+- KIM-Bestätigungsschreiben der gematik
+
+Die Teile der Lieferung, welche eine eAU- oder Storno-Datei darstellen, sind im entsprechenden  Dateiformat zu exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu  übertragen. Diese Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall
+
+eine XML-Datei sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
 
 
 ---
 
-<PrüffallNr.> .xml  1 1 Nr. des Prüffalls
+- <PrüffallNr.> .xml  1
 
-<PrüffallNr.> _[lfdNr.] .pdf  2 2 Laufende Nr.
+- 1 Nr. des Prüffalls
 
-z.B. PF01_01.pdf
+- <PrüffallNr.> _[lfdNr.] .pdf  2 - 2 Laufende Nr.
 
-z.B. **PF01.xml**  <PrüffallNr.> .p7s  z.B. **PF01.p7s**
+- z.B. PF01_01.pdf
 
-Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  den Prüfer begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF-Format  übermittelt werden.
+- z.B. **PF01.xml**
 
-und der Ordner „Dokumentation“ sind in einem zip-Archiv zu übermitteln. Das Die gesammelten Dateien  Zert_80_<SystemIDzip- Archiv muss mit „>“ benannt werden. Die SystemID ergibt sich aus den letzten drei  Stellen der Prüfnummer.
+- <PrüffallNr.> .p7s  z.B. **PF01.p7s**
+
+Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  den Prüfer begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF-Format
+
+übermittelt werden.
+
+und der Ordner „Dokumentation“ sind in einem zip-Archiv zu übermitteln. Das
+
+Die gesammelten Dateien  Zert_80_<SystemID
+
+zip- Archiv muss mit „
+
+>“ benannt werden. Die SystemID ergibt sich aus den letzten drei
+
+Stellen der Prüfnummer.
 
 Die Struktur des zip-Archives sollte folgende Form aufweisen:
 
@@ -153,11 +225,15 @@ Die Struktur des zip-Archives sollte folgende Form aufweisen:
 
 ---
 
-EF.VD = allgemeine Versicherungsdaten  EF.PD = persönliche Versichertendaten  EF.GVD = geschützte Versichertendaten
+- EF.VD = allgemeine Versicherungsdaten
 
-**1.6** **PRÜFVORGABEN**
+- EF.PD = persönliche Versichertendaten
 
-**1.6.1** **Prüfstammdaten**
+- EF.GVD = geschützte Versichertendaten
+
+## 1.6 PRÜFVORGABEN
+
+### 1.6.1 Prüfstammdaten
 
 Für die Zertifizierung können die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden.
 
@@ -165,15 +241,17 @@ Prüfstammdateien verwendet
 
 Neben den speziellen Prüfstammdateien können auch die
 
-**1.6.2** **Versichertendaten**
+### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  [VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
+
+[VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel 1.6.3) in einem jeweils separaten
 
 nötigen Angaben zu den
 
 Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
-**1.6.3** **Auflistung der Prüffälle**
+### 1.6.3 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
 
@@ -244,13 +322,11 @@ Federmannssohn
 
 ---
 
-2
-
-## PRÜFFÄLLE
+# 2 PRÜFFÄLLE
 
 Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
 
-**2.1** **VORAUSSETZUNGEN**
+## 2.1 VORAUSSETZUNGEN
 
 Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünsc Szenarien prüfen zu können:
 
@@ -299,7 +375,10 @@ Prüfunterlagen Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt 
 
 **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
-Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU -Dateien auf Basis der eAU FHIR- Profile in der Version 1.2.0 zu erstellen.  Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno
+-
+
+Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU -Dateien auf Basis der eAU FHIR- Profile in der Version 1.2.0 zu erstellen.  Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno -
+
 
 ---
 
@@ -317,12 +396,13 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 | Einzureichende |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML |
 
+-
+
 **Tabelle 3: Prüffalltabelle  Stornonachricht für PF02**
 
 **Tabelle 4: Prüffalltabelle**  **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
 2. Signierte Storno-Datei 3. Screenshot der Betreffzeile Für die Zertifizierung sind die einzureichenden XML Profile in der Version 1.2.0 zu erstellen.  a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G f) ICD-10-GM-Kode = U07.1 G Diagnosetext = Nun die korrekten Informationen 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 4. Die Papierausfertigung für den Versicherten sowie die Papierausfertigung für den Arbeitgeber sollen auf Grundlage der entsprechenden Stylesheets erzeugt werden. 5. Der Anwender druckt die Papierausfertigungen Versicherter und Arbeitgeber aus. 1. XML-Datei der eAU 2. PDF-Datei mit den beiden Papierausfertigungen für den Versicherten und den Arbeitgeber 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: Karl-Friederich Schaumberg“  PF01 bis PF03 erfolgreich ausgeführt Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt › Patient „Karl Prüfunterlagen -Dateien auf Basis der eAU FHIR Profile in der Version 1.2.0 zu erstellen.
-
 
 ---
 
@@ -398,9 +478,11 @@ Prüfunterlagen PF06 ist im System angelegt und als versendet markiert. Die zu v
 | Voraussetzung | Prüffälle PF01 bis PF08 wurden durchgeführt |
 | Einzureichende |  |
 
-abbildet.
+- abbildet.
 
-1. Bitte fügen Sie den Bundle-Identifier aus PF05 in das Feld  extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance) _Practitioner_Bundle_Identifier).value der Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein.
+- 1. Bitte fügen Sie den Bundle-Identifier aus PF05 in das Feld  extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance) _Practitioner_Bundle_Identifier).value der Fehlernachricht ein.
+
+- 2. Der Anwender liest die Fehlernachricht der Krankenkasse ein.
 
 |  |  |
 |---|---|
@@ -408,11 +490,11 @@ abbildet.
 
 **Tabelle 8: Prüffalltabelle  AU eines Arztes in Weiterbildung**
 
-**2.3** **VERWENDUNG VON KIM**
+## 2.3 VERWENDUNG VON KIM
 
 **Tabelle 9: Prüffalltabelle  Einreichung KIM Bestätigungsschreiben der gematik**
 
-**2.4** **DARSTELLUNG IN DER SOFTWARE**
+## 2.4 DARSTELLUNG IN DER SOFTWARE
 
 **Tabelle 10: Prüffalltabelle  Übersicht über die versendeten eAUs**
 
@@ -442,48 +524,70 @@ abbildet.
 | Aktion |  |
 | Einzureichende |  |
 
-zum Ausdruck einer Papierausfertigung für die Krankenkasse.  2. PDF-Datei mit der Papierausfertigung Krankenkasse (inkl. Barcode).
+- zum Ausdruck einer Papierausfertigung für die Krankenkasse.
+
+- 2. PDF-Datei mit der Papierausfertigung Krankenkasse (inkl. Barcode).
 
 **Tabelle 11: Prüffalltabelle  Verhalten beim Empfang von fehlerhaften Daten**
 
-**2.6** **FALLBACK SZENARIO BEI STÖRUNG DES VERSANDES**
+## 2.6 FALLBACK SZENARIO BEI STÖRUNG DES VERSANDES
 
-**den Versicherten Tabelle 12: Prüffalltabelle  Erzeugung einer Papierausfertigung Krankenkasse zur Übermittlung durch**
+**den Versicherten**
+
+**Tabelle 12: Prüffalltabelle  Erzeugung einer Papierausfertigung Krankenkasse zur Übermittlung durch**
 
 1. Screenshot, welcher das Verhalten der Software in diesem Fall darstellt Prüfunterlagen 1. Es soll eine Papierausfertigung auf Grundlage des Stylesheets Ausfertigung Krankenkasse mit dem Barcode erzeugt werden. 2. Der Anwender druckt die Papierausfertigung Krankenkasse aus und übergibt sie dem Versicherten zur Übermittlung an die Krankenkasse. 1. Screenshot bzgl. der Auswahl der versendeten eAU aus PF04 inkl. Aufforderung Übermittlung durch den Versicherten Prüffall PF04 wurde durchgeführt und es ist eine Störung des Versandes aufgetreten. Prüfunterlagen
 
 
 ---
 
-3
+# 3 TESTDATENVALIDIERUNG
 
-## TESTDATENVALIDIERUNG
+-Dateien (FHIR-Instanzen) einzureichen sind,
 
--Dateien (FHIR-Instanzen) einzureichen sind, Für die in Kapitel 2 beschriebenen Prüffälle, für welche XML kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+Für die in Kapitel 2 beschriebenen Prüffälle, für welche XML kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
 Die übermittelten Testdaten (XML-Datei der eAU bzw. eStorno) werden gegen FHIR-Profile validiert.
 
-prüffall-spezifische Soll-Profile validiert  und somit  Zusätzlich zu den deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eAU- spezifischen FHIR-Profilen werden die Testdaten gegen  die Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Unterlagen durch das Referat Zertifizierung Prüfung der signierten Dateien, Screenshots und weiteren  findet nicht statt.
+prüffall-spezifische Soll-Profile validiert  und somit
 
-s der Papierausfertigungen für die Neben den XML-Dateien für die eAU können auch die Barcode Krankenkasse der Prüffälle PF01, PF02, PF05, P06, PF08 und PF12 geprüft werden. Hierfür muss das Zip- Archiv einen Ordner Dokumentation“ mit den entsprechenden PDF-Dateien enthalten Die PDF-Datei des  es sich um dieselbe eAU handelt wie bei Prüffalls PF04 wird nicht separat geprüft, da PF12.
+Zusätzlich zu den deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eAU- spezifischen FHIR-Profilen werden die Testdaten gegen  die Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine
 
-Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Unterlagen durch das Referat Zertifizierung
+
+Prüfung der signierten Dateien, Screenshots und weiteren  findet nicht statt.
+
+s der Papierausfertigungen für die
+
+Neben den XML-Dateien für die eAU können auch die Barcode Krankenkasse der Prüffälle PF01, PF02, PF05, P06, PF08 und PF12 geprüft werden. Hierfür muss das Zip-
+
+Archiv einen Ordner Dokumentation“ mit den entsprechenden PDF-Dateien enthalten Die PDF-Datei des
+
+es sich um dieselbe eAU handelt wie bei
+
+Prüffalls PF04 wird nicht separat geprüft, da
+
+PF12.
+
+Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen
+
+hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 **Abbildung 2: Testdatenvalidierung im Zertifizierungsportal**
 
 
 ---
 
-zip-Archivs. Bitte beachten Sie die folgende Verzeichnisstruktur des
+zip-Archivs.
+
+Bitte beachten Sie die folgende Verzeichnisstruktur des
 
 **Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
 
 
 ---
 
-4
-
-REFERENZIERTE DOKUMENTE
+4 REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
@@ -502,6 +606,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/eAU/KBV_ITA_VGE X_Technische_Anlage_eAU.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf  update/DigitaleMuster/eAU/KBV_ITA_FME X_AAZ_eAU.pdf  Primärsystems zur Konnektorschnittstelle anbieter/primaersysteme  update/Abrechnung/Pruefverfahren/VSD_5 .2.0_Testfaelle_V2.3.zip  update/DigitaleMuster/eAU/

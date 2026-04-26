@@ -6,11 +6,17 @@ für Erwachsene (Erw)
 
 für Kinder und Jugendliche (KiJu)
 
-Analytische  Psychotherapie (AP)
+Analytische
 
-Systemische  Therapie (ST)
+Psychotherapie (AP)
 
-Tiefenpsychologisch  fundierte Psychotherapie (TP)
+Systemische
+
+Therapie (ST)
+
+Tiefenpsychologisch
+
+fundierte Psychotherapie (TP)
 
 Verhaltenstherapie (VT)
 
@@ -22,21 +28,45 @@ Therapieeinheiten mit GOP des EBM
 
 Therapieeinheiten mit GOP des EBM
 
-***Bei Erstanträgen angeben:*** Vor der jetzigen Behandlung wurde innerhalb der letzten 2 Jahre bereits eine KZT1, KZT2 oder LZT durchgeführt ***Bei Erst- und Umwandlungsanträgen angeben:*** Durchführung von  zwei probatorischen Sitzungen: 1. Sitzung am
+***Bei Erstanträgen angeben:***
+
+Vor der jetzigen Behandlung wurde innerhalb der letzten
+
+2 Jahre bereits eine KZT1, KZT2 oder LZT durchgeführt
+
+***Bei Erst- und Umwandlungsanträgen angeben:***
+
+Durchführung von
+
+zwei probatorischen Sitzungen: 1. Sitzung am
 
 2. Sitzung am
 
-**Bisheriger Behandlungsumfang** ***Einzelbehandlung*** Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 50 Minuten)
+**Bisheriger Behandlungsumfang**
 
-***Gruppenbehandlung*** Therapieeinheiten in der KZT1, KZT2  und LZT (1 TE = 100 Minuten)
+***Einzelbehandlung***
+
+Therapieeinheiten in der KZT1, KZT2
+
+und LZT (1 TE = 50 Minuten)
+
+***Gruppenbehandlung***
+
+Therapieeinheiten in der KZT1, KZT2
+
+und LZT (1 TE = 100 Minuten)
 
 ***Akutbehandlung***
 
 Therapieeinheiten (1 TE = 50 Minuten)
 
-**Letztes Gutachten durch** Name
+**Letztes Gutachten durch**
 
-**Erklärung Therapeut*in** Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen  der vertragsärztlichen Versorgung durch und habe von der zuständigen Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
+Name
+
+**Erklärung Therapeut*in**
+
+Ich führe die beantragte Psychotherapie nach den jeweils geltenden Bestimmungen  der vertragsärztlichen Versorgung durch und habe von der zuständigen Kassenärztlichen Vereinigung die hierfür erforderliche Abrechnungsgenehmigung.
 
 **Ausfertigung Krankenkasse**
 
@@ -44,7 +74,9 @@ Therapieeinheiten (1 TE = 50 Minuten)
 
 **Chiffre Patient*in**
 
-***Anfangsbuchstabe***  ***des Familiennamens***
+***Anfangsbuchstabe***
+
+***des Familiennamens***
 
 **Diagnose(n)** ***(ICD-10 - GM endständig)***
 
@@ -64,7 +96,9 @@ Fortführung
 
 ## PTV 2
 
-***Geburtsdatum***  ***6-stellig***
+***Geburtsdatum***
+
+***6-stellig***
 
 ausschließlich Einzeltherapie
 
@@ -72,15 +106,25 @@ ausschließlich Gruppentherapie
 
 Kombinationsbehandlung mit
 
-überwiegend  Einzeltherapie
+überwiegend
 
-überwiegend  Gruppentherapie
+Einzeltherapie
+
+überwiegend
+
+Gruppentherapie
 
 Kombinationsbehandlung  durch zwei Therapeut*innen
 
-**BB**
+**B**
 
-***Bei Anträgen auf LZT angeben:*** Soll nach Abschluss der Behandlung eine   Rezidivprophylaxe durchgeführt werden
+**B**
+
+***Bei Anträgen auf LZT angeben:***
+
+Soll nach Abschluss der Behandlung eine
+
+Rezidivprophylaxe durchgeführt werden
 
 ja, mit voraussichtlich
 
@@ -96,6 +140,8 @@ Datum des Gutachtens
 
 Ausstellungsdatum
 
-Stempel / Unterschrift Therapeut*in  bzw. Ambulanz gemäß § 117 Abs. 3 SGB V
+Stempel / Unterschrift Therapeut*in
+
+bzw. Ambulanz gemäß § 117 Abs. 3 SGB V
 
 PRF.NR. Muster PTV 2a/E (7.2020)

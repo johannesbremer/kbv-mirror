@@ -14,7 +14,6 @@
 
 Version  Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft
 
-
 ---
 
 IT in der Arztpraxis
@@ -34,7 +33,7 @@ Ausfüllhinweise
 
 ---
 
-**INHALTSVERZEICHNIS**
+#### INHALTSVERZEICHNIS
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
@@ -51,11 +50,11 @@ Ausfüllhinweise
 
 ---
 
-**1**
+# 1 Präambel
 
-## Präambel
+### Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird eine  arztbezogene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
-### Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird eine  arztbezogene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.  Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik erforderlich
+### Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik erforderlich
 
 sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, welche für die
 
@@ -64,9 +63,7 @@ sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, wel
 
 ---
 
-**2**
-
-**Eingabedaten**
+**2 Eingabedaten**
 
 | Nr. gem. Plausi- [KBV_ITA_VGEX_ | Ausfüllhinweis |
 |---|---|
@@ -122,9 +119,7 @@ erter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Ausw
 
 ---
 
-**3**
-
-## Referenzierte Dokumente
+# 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|

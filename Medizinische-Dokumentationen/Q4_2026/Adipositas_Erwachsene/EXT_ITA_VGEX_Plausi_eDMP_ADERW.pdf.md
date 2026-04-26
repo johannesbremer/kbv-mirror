@@ -1,22 +1,28 @@
 - Anlage 24* -
 
-## Plausibilitätsrichtlinie  zur Prüfung der Dokumentationsdaten
+## Plausibilitätsrichtlinie
+
+## zur Prüfung der Dokumentationsdaten
 
 ## des strukturierten Behandlungsprogramms
 
 # Adipositas - Erwachsene
 
-**Grundlage: DMP-A-RL**
+**Grundlage:**
+
+**DMP-A-RL**
 
 **gültig ab 01.10.2025**
 
-### Version:
+# Version: 1.0
 
-**1.0**
+**Stand der Bearbeitung:**
 
-**Stand der Bearbeitung: 02.06.2025**
+**02.06.2025**
 
-**Version anzuwenden ab: 01.10.2026**
+**Version anzuwenden ab:**
+
+**01.10.2026**
 
 
 ---

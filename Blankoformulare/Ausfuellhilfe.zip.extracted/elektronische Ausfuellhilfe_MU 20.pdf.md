@@ -4,24 +4,38 @@
 |  |
 |---|
 
-## STUFENWEISE WIEDEREIMUSTER 20 NGLIEDERUNG IN DAS  ERWERBSLEBEN (WIEDEREINGLIEDERUNGSPLAN)
+## STUFENWEISE WIEDEREI
 
-## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
+## MUSTER 20
+
+## NGLIEDERUNG IN DAS
+
+## ERWERBSLEBEN (WIEDEREINGLIEDERUNGSPLAN)
+
+# HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
 
 ---
 
-**ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
+## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
-**1. ZULETZT AUSGEÜBTE TÄTIGKEIT, STUNDEN TÄGLICH**  Hier erfolgt nach Auskunft des Versicherten die Angabe der zuletzt ausgeübten Tätigkeit sowie der Anzahl  der täglichen Arbeitsstunden vor Beginn der Arbeitsunfähigkeit.
+## 1. ZULETZT AUSGEÜBTE TÄTIGKEIT, STUNDEN TÄGLICH
 
-**2. VOM BIS, ART DER TÄTIGKEIT (GGF. EINSCHRÄNKUNGEN), STUNDEN TÄGLICH**  In diesen Feldern werden Empfehlungen zum Zeitraum, zur Tätigkeit, möglichen  Belastungseinschränkungen (bspw. nur sitzend) und täglichen Arbeitszeit während der stufenweisen  Wiedereingliederung in die berufliche Tätigkeit, angegeben. Der letzte Tag der stufenweisen  Wiedereingliederung entspricht in der Regel dem letzten Tag der Arbeitsunfähigkeit. Die  Wiedereingliederung sollte in der Regel einen Zeitraum von sechs Monaten nicht überschreiten.
+Hier erfolgt nach Auskunft des Versicherten die Angabe der zuletzt ausgeübten Tätigkeit sowie der Anzahl  der täglichen Arbeitsstunden vor Beginn der Arbeitsunfähigkeit.
 
-**3. ERKLÄRUNG DES VERSICHERTEN**  Der Versicherte bestätigt sein Einverständnis.
+## 2. VOM BIS, ART DER TÄTIGKEIT (GGF. EINSCHRÄNKUNGEN), STUNDEN TÄGLICH
 
-**4. ERKLÄRUNG DES ARBEITGEBERS**  Der Arbeitgeber bestätigt sein Einverständnis und ergänzt die entsprechenden Angaben.
+In diesen Feldern werden Empfehlungen zum Zeitraum, zur Tätigkeit, möglichen  Belastungseinschränkungen (bspw. nur sitzend) und täglichen Arbeitszeit während der stufenweisen  Wiedereingliederung in die berufliche Tätigkeit, angegeben. Der letzte Tag der stufenweisen  Wiedereingliederung entspricht in der Regel dem letzten Tag der Arbeitsunfähigkeit. Die  Wiedereingliederung sollte in der Regel einen Zeitraum von sechs Monaten nicht überschreiten.
 
-**MEHR INFORMATIONEN**
+## 3. ERKLÄRUNG DES VERSICHERTEN
+
+Der Versicherte bestätigt sein Einverständnis.
+
+## 4. ERKLÄRUNG DES ARBEITGEBERS
+
+Der Arbeitgeber bestätigt sein Einverständnis und ergänzt die entsprechenden Angaben.
+
+## MEHR INFORMATIONEN
 
 Themenseite Arbeitsunfähigkeit: [http://www.kbv.de/629405](http://www.kbv.de/629405)
 

@@ -9,27 +9,33 @@
 
 **Erläuterungen zu den einzelnen Feldern**
 
-**1. IK des Leistungserbringers**
+- **1. IK des Leistungserbringers**
 
 Hier trägt der Soziotherapeut sein Institutionskennzeichen ein.
 
-**2. Therapieziele (Nah- und Fernziele definieren)**
+- **2. Therapieziele (Nah- und Fernziele definieren)**
 
 Hier sind die Therapieziele in Stichworten anzugeben, differenziert nach Nah zum Beispiel die Steigerung der Belastungsfähigkeit und ein Fernziel das Wiedererlangen der Arbeitsfähi keit.
 
-**3. Verordnete und empfohlene Maßnahmen, deren Inanspruchnahme zu koordinieren ist.**
+- **3. Verordnete und empfohlene Maßnahmen, deren Inanspruchnahme zu koordinieren ist.**
 
 Hier sind maximal neun Maßnahmen einzutragen, die den Patienten befähigen sollen, die unter 2. aufg führten Therapieziele zu erreichen (zum Beispiel Inanspruchnahme der Psycho
 
-**4. Durchführung der soziotherapeutischen Maßnahmen**
+- **4. Durchführung der soziotherapeutischen Maßnahmen**
 
 Hier sind die Art der Maßnahmen mit Frequenz pro Woche / Monat un
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php) Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php)
 
-- und Fernzielen. Ein Nahziel ist - oder Ergotherapie).
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung
+
+www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+
+- und Fernzielen. Ein Nahziel ist -
+
+- oder Ergotherapie).
 
 d dem Zeitraum anzugeben.
 
