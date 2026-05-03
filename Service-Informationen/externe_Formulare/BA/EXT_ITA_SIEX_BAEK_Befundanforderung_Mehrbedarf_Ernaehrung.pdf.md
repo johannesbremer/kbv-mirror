@@ -1,8 +1,4 @@
-# Mehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i. S. d. § 21 Abs. 5
-
-# ARBEIT
-
-# SGB II) – BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR
+# Mehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i. S. d. § 21 Abs. 5  SGB II) – BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR  ARBEIT
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -41,9 +37,9 @@ BGL-Nummer: ________________
 
 # Medizinisch indizierte Ernährungsweise/Kostform:
 
-# Proteinzufuhr
+# Erfordert die Erkrankung eine über dem üblichen Bedarf liegende Energiezufuhr und/oder Proteinzufuhr
 
-# Erfordert die Erkrankung eine über dem üblichen Bedarf liegende Energiezufuhr und/oder und/oder Fettzufuhr?
+# und/oder Fettzufuhr?
 
 # Wenn ja, geben Sie bitte nach Möglichkeit ca. den individuellen Bedarf pro Tag an (in kcal/kg KG/Tag  bzw. g/kg KG/Tag bzw. Energieprozent En%)
 
@@ -60,21 +56,13 @@ BGL-Nummer: ________________
 
 ---
 
-**Liegt aufgrund der Erkrankung eine Schluckstörung vor, welche eine Andickung von Getränken mit**
+**Liegt aufgrund der Erkrankung eine Schluckstörung vor, welche eine Andickung von Getränken mit**  **sog. Andickungspulvern medizinisch erforderlich macht?**
 
-**sog. Andickungspulvern medizinisch erforderlich macht?**
-
-# Wenn ja, geben Sie bitte die monatlich benötigte Menge des Andickungspulvers, entsprechend der
-
-# individuell benötigten Flüssigkeitszufuhr und Konsistenzstufe an.
-
-**-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u**
+# Wenn ja, geben Sie bitte die monatlich benötigte Menge des Andickungspulvers, entsprechend der  individuell benötigten Flüssigkeitszufuhr und Konsistenzstufe an.
 
 **Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
 
-**Laborbefunde, Krankenhaus**
-
-**. ä.) als**
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
 
 **Kopie bei, vielen Dank.**
 
@@ -121,7 +109,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -136,4 +124,4 @@ Ich bitte um Überweisung auf das folgende Konto: 12
 | BIC: |
 | Bank/Sparkasse: |
 
-0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

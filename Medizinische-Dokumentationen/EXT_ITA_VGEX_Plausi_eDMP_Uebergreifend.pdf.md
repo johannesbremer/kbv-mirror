@@ -59,30 +59,30 @@ Nr.  Vertragsarzt-Nummer  Institutionskennzeichen  22 sein Angabe notwendig,  An
 
 ---
 
-| 10 | Einschreibung wegen | KHK / Diabetes mellitus Typ 1 / Diabetes mellitus | Pflichtfeld;  mindestens eine Angabe ist erforderlich,    „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  chronischer  Die indikationsübergreifende Dokumentation gemäß  1. Erfolgt eine Angabe zu  „  „  3a. Ergibt die Differenz aus der Datumsangabe in Feld  „ |
+| 10 | Einschreibung wegen | KHK / Diabetes mellitus Typ 1 / Diabetes mellitus | Pflichtfeld;  mindestens eine Angabe ist erforderlich,  „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit  „Asthma bronchiale“ kann nicht gleichzeitig mit „COPD“  „KHK“ kann nicht gleichzeitig mit „  Die indikationsübergreifende Dokumentation gemäß  1. Erfolgt eine Angabe zu  2. Erfolgt eine Angabe zu   3  3a. Ergibt die Differenz aus der Datumsangabe in Feld  4. Erfolgt eine Angabe zu |
 |---|---|---|---|
 
-Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rückenschmerz / Depression / Osteoporose / rheumatoide Arthritis Mehrfachnennungen sind möglich mit folgenden Ausnahmen: „Diabetes mellitus Typ 1“ kann nicht gleichzeitig mit „Diabetes mellitus Typ 2“ angegeben werden angegeben werden „KHK“ kann nicht gleichzeitig mit „ Herzinsuffizienz“ angegeben werden Anlage 2* ist nur gültig in Verbindung mit der jeweiligen indikationsbezogenen Dokumentation. Es gilt: , müssen zusätzlich die Angaben der Anlage 6* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  oder 2. Erfolgt eine Angabe zu , müssen zusätzlich die „Diabetes mellitus Typ 2 Angaben der Anlage 8* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. , müssen 3. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 10* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Asthma bronchiale" nicht 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 1 Jahr, ist die Angabe möglich. , müssen zusätzlich die 4. Erfolgt eine Angabe zu Angaben der Anlage 12* entsprechend den dort
+Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rückenschmerz / Depression / Osteoporose / rheumatoide Arthritis Mehrfachnennungen sind möglich mit folgenden Ausnahmen: „Diabetes mellitus Typ 2“ angegeben werden angegeben werden chronischer Herzinsuffizienz“ angegeben werden Anlage 2* ist nur gültig in Verbindung mit der jeweiligen indikationsbezogenen Dokumentation. Es gilt: , müssen zusätzlich die Angaben der Anlage 6* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  oder Typ 2 , müssen zusätzlich die Angaben der Anlage 8* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3. Erfolgt eine Angabe zu , müssen zusätzlich die Angaben der Anlage 10* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 1 Jahr, ist die Angabe Asthma bronchiale" nicht möglich. , müssen zusätzlich die Angaben der Anlage 12* entsprechend den dort
 
 ---
 
-|  |  |  | 3  4a. Ergibt die Differenz aus der Datumsangabe in Feld  „  „  „  7a. Ergibt die Differenz aus der Datumsangabe in Feld   „Osteoporose“  Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt  Erfolgt in Feld 12 die Angabe „Weiblich“ oder |
+|  |  |  | 3  4a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 4  6. Erfolgt eine Angabe zu  3, 8  7a. Ergibt die Differenz aus der Datumsangabe in Feld   3, 9  8a.  8b. |
 |---|---|---|---|
 
-festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter COPD" nicht möglich. von < 18 Jahren, ist die Angabe chronische Herzinsuffizienz 5. Erfolgt eine Angabe zu müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln  3, 4 erfolgen. chronischer Rückenschmerz 6. Erfolgt eine Angabe zu müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln 3, 7 erfolgen. Depression , müssen 7. Erfolgt eine Angabe zu 3, 8 zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „Depression" nicht möglich. , müssen 8. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 20* entsprechend den 3, 9 dort festgelegten Plausibilitätsregeln erfolgen. 8a. die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 60 Osteoporose" nicht möglich. Jahren, ist die Angabe „ 8b. „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 50 Jahren, ist die Angabe
+festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe 5. Erfolgt eine Angabe zu müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln 3, 7 erfolgen. 7. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „Depression" nicht möglich. COPD" nicht möglich. chronische Herzinsuffizienz chronischer Rückenschmerz Depression , müssen 8. Erfolgt eine Angabe zu „Osteoporose“ , müssen zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 60 Jahren, ist die Angabe „ Osteoporose" nicht möglich. Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 50 Jahren, ist die Angabe
 
 ---
 
-|  |  |  | „Osteoporose  „  9a. Ergibt die Differenz aus der Datumsangabe in Feld |
+|  |  |  | „Osteoporose  9. Erfolgt eine Angabe zu  9a. Ergibt die Differenz aus der Datumsangabe in Feld |
 |---|---|---|---|
 | 11 | (weggefallen) |  |  |
 | 12 | Geschlecht | Männlich / Weiblich / Unbestimmt / Divers | Pflichtfeld; genau eine Angabe ist zulässig |
 |  | Allgemeine Anamnese- und Befunddaten |  | |
 | 13 | Körpergröße | m | Pflichtfeld; Numerische Angabe mit zwei Stellen hinter dem Komma; |
 | 14 | Körpergewicht | kg | Pflichtfeld; Numerische Angabe ohne Komma, Wertebereich 000 - |
-| 15 | Blutdruck | mm Hg | Bedingtes Pflichtfeld;  Numerische Angabe,  „  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“ |
+| 15 |  | mm Hg | Bedingtes Pflichtfeld;  Numerische Angabe,  Wenn in Feld 10 mindestens eine Angabe zu  Enthält Feld 10 die alleinige Angabe „Asthma bronchiale“ |
 
-" nicht möglich. 9. Erfolgt eine Angabe zu rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den 3, 10 dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich. Wertebereich 0,00 - 2,50 300 Wenn in Feld 10 mindestens eine Angabe zu Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“  erfolgt ist, muss hier eine Angabe erfolgen. und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von > =18 Jahren, muss eine  oder COPD hronischer Rückenschmerz oder „rheumatoide  oder KHK  oder chronische  oder
+" nicht möglich. rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den 3, 10 dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich. Blutdruck Wertebereich 0,00 - 2,50 300 Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“  erfolgt ist, muss hier eine Angabe erfolgen. und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von > =18 Jahren, muss eine  oder COPD hronischer Rückenschmerz oder „rheumatoide  oder KHK  oder chronische  oder
 
 ---
 
@@ -102,46 +102,22 @@ Diabetes mellitus / KHK / AVK / / Chronische Herzinsuffizienz / Asthma bronchial
 | 19 | Vom Patienten gewünschte | Tabakverzicht / Ernährungsberatung / Körperliches | Kein Pflichtfeld Mehrfachnennungen sind möglich | |
 | 20 | Dokumentationsintervall | Quartalsweise / Jedes zweite Quartal | Pflichtfeld; nur eine Angabe ist zulässig | |
 | 21 | (weggefallen) |  |  | |
-| 22 | 6 | TT.MM.JJJJ | Pflichtfeld Das Datum muss gleich oder kleiner dem Datum in der |  |
+| 22 | 6 | TT.MM.JJJJ | Pflichtfeld Erfassungsstelle sein |  |
 
-3
+3 Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8 und 9 in den
 
-**<document_type_cd>**
+DMP-Datenstellen ist der Eintrag im Element **<document_type_cd>** des übermittelten Dokumentationsdatensatzes maßgeblich.
 
-Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8 und 9 in den
-
-DMP-Datenstellen ist der Eintrag im Element
-
-des übermittelten Dokumentationsdatensatzes maßgeblich.
-
-4
-
-chronische Herzinsuffizienz ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten.
-
-Eine Angabe zu „
+4 Eine Angabe zu „chronische Herzinsuffizienz ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten.
 
 5 Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen
 
 6Dies ist das „service_tmr“
 
-chronischer Rückenschmerz“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten.
+7 Eine Angabe zu „chronischer Rückenschmerz“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten.
 
-7 Eine Angabe zu „
+8 Eine Angabe zu „Depression“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.
 
-8
+9 Eine Angabe zu „Osteoporose“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.
 
-ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 18* in Kraft treten.
-
-Eine Angabe zu „Depression“
-
-ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 20* in Kraft treten.
-
-9 Eine Angabe zu „Osteoporose“
-
-10
-
-ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten.
-
-Eine Angabe zu „Rheumatoide Arthritis“
-
-Informationsangebote der Krankenkasse Training  Datum der Erstellung Erfassungsstelle sein
+Informationsangebote der Krankenkasse Training  Datum der Erstellung Das Datum muss gleich oder kleiner dem Datum in der 10  Eine Angabe zu „Rheumatoide Arthritis“ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 22* in Kraft treten.

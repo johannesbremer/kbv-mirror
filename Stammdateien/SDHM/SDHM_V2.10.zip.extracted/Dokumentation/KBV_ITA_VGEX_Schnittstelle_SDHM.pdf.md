@@ -501,7 +501,7 @@ XML-Code 45: erforderliche_diagnosen ...........................................
 
 ---
 
-# Einleitung1
+# 1 Einleitung
 
 Die Heilmittelstammdatei, auf Basis der Schnittstellenbeschreibung SDHM , basiert auf der  jeweils gültigen Version der Heilmittel -Richtlinie (HeilM-RL), insbesondere des Heilmittelkata- loges. Der Heilmittelkatalog ist Teil der Heilmittel-Richtlinie und beinhaltet hauptsächlich die  Zuordnung der Heilmittel zu Indikationen. Die Aktualisierung der Stammdatei erfolgt in Abhän- gigkeit der Änderungen der Heilmittel-Richtlinie durch den Gemeinsamen Bundesausschuss  (G-BA).
 
@@ -509,7 +509,7 @@ Die vorliegende Schnittstellenbeschreibung definiert das Format der Heilmittelst
 
 Diese Datei wird den Softwarehäusern , welche Praxisverwaltungssysteme, herstellen vom  Dezernat Digitalisierung und IT der KBV ausschließlich zur Nutzung in der vertragsärztlichen  Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke steht das Dezernat  Ärztliche und veranlasste Leistungen über den Servicedesk der KBV (EMail: KBVService- [Desk@KBV.de](mailto:Desk@KBV.de), Telefon: 030 / 4005-2077) zur Verfügung.
 
-# Konventionen2
+# 2 Konventionen
 
 ## 2.1 Zeichensatz
 
@@ -517,41 +517,41 @@ Standard-Zeichensatz ist ISO-8859-15.
 
 ## 2.2 Namespace
 
-**urn:ehd/sdhm/001**
-
-Standard-Namespace ist
+Standard-Namespace ist **urn:ehd/sdhm/001**
 
 ## 2.3 Root-Schema
 
-**sdhm_root_V2.10.xsd**
+Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt **sdhm_root_V2.10.xsd**
 
-Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt
+## 2.4 Dateinamen
 
-## 2.4 Dateinamen -Richtlinie.
-
-Die Vergabe der Dateinamen erfolgt nach ehd
+Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
 
 Dateinamenskonvention nach ehd-Richtlinie:
 
-**+val_nr+val_du+val.xml**
-
-**[ehd.]datatyp_vv.vv_sender_tf**
+**[ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml**
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
-
 Entspricht dem Header-Element *<document_type_cd>*
 
-vv.vv ......... VersionsNr. der Datentypbeschreibung;
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
 
-Entspricht dem Element *<version>* des Header-Elements *<interface>*
+vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element *<version>* des Header-Elements
 
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw. wer hat die Daten geliefert;
+*<interface>*
+
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw. wer
+
+Daten geliefert;
+
+hat die
 
 Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-
 
-Elements *<provider>*
+*<provider>*
+
+Elements
 
 
 ---
@@ -625,13 +625,17 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 ---
 
-# 3 ehd – Element (root Element)
+# 3 ehd – Element (root
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1: **/ehd (root -Element)** dargestellt ist. Im header -
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1:
 
 Element stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die  eigentlichen Daten hinterlegt.
 
 Für die XML -Dateien ist der Zeichensatz ISO -8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem D okument beschrieben werden, ist es wichtig, die Groß -/Kleinschreibung zu  beachten.
+
+# Element)
+
+**/ehd (root -Element)** dargestellt ist. Im header -
 
 **Abbildung 1:** /ehd (root-Element)
 
@@ -639,9 +643,9 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
--instance" xsi:schemaLocation xmlns="urn:ehd/sdhm/001"  **="urn:ehd/001**
+**<ehd:ehd ehd_version="..." xmlns="urn:ehd/001"**  xmlns:xsi="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema)-instance"
 
-**<ehd:ehd ehd_version="..." xmlns="urn:ehd/001"**  xmlns:xsi="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema) **../Schema/sdhm_root_V2.10.xsd">**
+**../Schema/sdhm_root_V2.10.xsd">**
 
 **<ehd:header>**
 
@@ -657,27 +661,29 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **</ehd:ehd>**
 
-**XML-Code 1:** /ehd -Richtlinie
+**XML-Code 1:** /ehd
 
-ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  Parser Fehler melden.
-
-bis 99.99 festgelegt, anderenfalls wird der
+ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00  bis 99.99 festgelegt, anderenfalls wird der
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
-***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im
-
-body liegenden eigentlichen Inhaltsdaten.
+***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im  body liegenden eigentlichen Inhaltsdaten.
 
 ***<body>***
 
 Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
-Schnittstelle ist zwingend vorgeschrieben:„
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
-Der Namensraum für die ehd-
+xmlns="urn:ehd/sdhm/001"
+
+xsi:schemaLocation**="urn:ehd/001**
+
+Parser Fehler melden.
 
 ***urn:ehd/001***
+
+-Richtlinie
 
 
 ---
@@ -727,9 +733,7 @@ Das Element <kapitel> bildet die einzelnen Kapitel des Heilmittelkataloges ab un
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-**I. A Maßnahmen der Physikalischen Therapie**
-
-**<kapitel V**
+**<kapitel V I. A Maßnahmen der Physikalischen Therapie**
 
 **<diagnosegruppe V="...">**
 
@@ -747,30 +751,22 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
 **</kapitel>**
 
-kapitel
-
-**XML-Code 3:**
+**XML-Code 3:** kapitel
 
 ## 5.3 diagnosegruppe
 
-Das Element < diagnosegruppe> bildet die Diagnosegruppe des Heilmittelkataloges ab . Das
-
-V -Attributes und
-
-V-Attribut enthält die für die Heilmittelverordnung zu verwendenden Diagnosegruppen. Im DN- Attribut sind die ausgeschriebenen Bezeichnungen der Diagnosegruppen enthalten. Die Wer- te des
-
-DN -Attributes entsprechen der Schlüsseltabelle
+Das Element < diagnosegruppe> bildet die Diagnosegruppe des Heilmittelkataloges ab . Das  V-Attribut enthält die für die Heilmittelverordnung zu verwendenden Diagnosegruppen. Im DN- Attribut sind die ausgeschriebenen Bezeichnungen der Diagnosegruppen enthalten. Die Wer- te des V -Attributes und
 
 S_HM_Diagnosegruppe (OID: 1.2.276.0.76.3.1.1.5.2.38). Das S -Attribut enthält immer den  Wert 1.2.276.0.76.3.1.1.5.2.38.
 
 Das Element <diagnosegruppe> enthält die optionalen Elemente <erlaeuterung>, <hin- weis_liste>, <erkrankung_liste> und <erforderliche_diagnosen> sowie d ie Pflichtelemente  <leitsymptomatik_liste> und <heilmittelverordnung>.
 
+DN -Attributes entsprechen der Schlüsseltabelle
+
 
 ---
 
-diagnosegruppe
-
-**Abbildung 4:**
+**Abbildung 4:** diagnosegruppe
 
 Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau:
 
@@ -810,9 +806,7 @@ Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau:
 
 **</diagnosegruppe>**
 
-diagnosegruppe
-
-**XML-Code 4:**
+**XML-Code 4:** diagnosegruppe
 
 
 ---
@@ -827,9 +821,7 @@ Der XML-Code für ein <erlaeuterung> Element hat folgenden Aufbau:
 
 **<erlaeuterung V="mit prognostisch längerdauerndem Behandlungsbedarf (insbesondere Einschrän-** **kungen von relevanten Aktivitäten des täglichen Lebens, multistrukturelle oder funktionelle**  **Schädigung)"/>**
 
-erlaeuterung
-
-**XML-Code 5:**
+**XML-Code 5:** erlaeuterung
 
 ## 5.5 hinweis_liste
 
@@ -849,19 +841,13 @@ Der XML-Code für ein <hinweis_liste> Element hat folgenden Aufbau:
 
 **</hinweis_liste>**
 
-hinweis_liste
+**XML-Code 6:** hinweis_liste
 
-**XML-Code 6:**
-
-### hinweis
-
-### 5.5.1
+### 5.5.1 hinweis
 
 Das Element < hinweis> enthält einen Hinweis zur Diagnosegruppe . Im V-Attribut ist der Hin- weistext enthalten.
 
-hinweis
-
-**Abbildung 7:**
+**Abbildung 7:** hinweis
 
 Der XML-Code für ein <hinweis> Element hat folgenden Aufbau:
 
@@ -870,9 +856,7 @@ Der XML-Code für ein <hinweis> Element hat folgenden Aufbau:
 
 **<hinweis V="Sofern im Einzelfall verlaufsabhängig unmittelbar ein Wechsel von WS1 zu WS2 medi-** **zinisch begründet ist, ist die bereits zu WS1 erfolgte Verordnungsmenge auf die Gesamtverord-** **nungsmenge von WS2 anzurechnen. Ein Wechsel von WS2 zu WS1 ist nicht möglich."/>**
 
-hinweis
-
-**XML-Code 7:**
+**XML-Code 7:** hinweis
 
 ## 5.6 erkrankung_liste
 
@@ -892,13 +876,9 @@ Der XML-Code für ein <erkrankung_liste> Element hat folgenden Aufbau:
 
 **</erkrankung_liste>**
 
-erkrankung_liste
+**XML-Code 8:** erkrankung_liste
 
-**XML-Code 8:**
-
-### erkrankung
-
-### 5.6.1
+### 5.6.1 erkrankung
 
 Das Element < erkrankung> enthält die einer Diagnosegruppe zugeordneten Erkrankungen.  Das V-Attribut enthält die Erkrankung.
 
@@ -984,9 +964,7 @@ Der XML-Code für ein <erlaeuterung_liste> Element hat folgenden Aufbau:
 
 **</erlaeuterung_liste>**
 
-**XML-Code 12:**
-
-erlaeuterung_liste
+**XML-Code 12:** erlaeuterung_liste
 
 ### 5.9.1 erlaeuterung
 
@@ -1333,9 +1311,7 @@ ergaenzen-
 
 ---
 
-ergaenzendes_heilmittel
-
-**Abbildung 27:**
+**Abbildung 27:** ergaenzendes_heilmittel
 
 Der XML-Code für ein <ergaenzendes_heilmittel> Element hat folgenden Aufbau
 
@@ -1355,51 +1331,35 @@ Der XML-Code für ein <ergaenzendes_heilmittel> Element hat folgenden Aufbau
 
 **</ergaenzendes_heilmittel>**
 
-ergaenzendes_heilmittel
+**XML-Code 27:** ergaenzendes_heilmittel
 
-**XML-Code 27:**
-
-#### name
-
-#### 5.11.2.2
+#### 5.11.2.2 name
 
 Siehe Abschnitt 5.11.1.2 name.
 
-#### reihenfolge
-
-#### 5.11.2.3
+#### 5.11.2.3 reihenfolge
 
 Siehe Abschnitt 5.11.1.5 reihenfolge
 
-#### positionsnr_liste
-
-#### 5.11.2.4
+#### 5.11.2.4 positionsnr_liste
 
 Siehe Abschnitt 5.11.1.3 positionsnr_liste
 
-##### positionsnr
-
-##### 5.11.2.4.1
+##### 5.11.2.4.1 positionsnr
 
 Siehe Abschnitt 5.11.1.3.1 positionsnr
 
-#### massagetechnik
-
-#### 5.11.2.5
+#### 5.11.2.5 massagetechnik
 
 Siehe Abschnitt 5.11.1.4 massagetechnik
 
-### standardisierte_heilmittel_kombination
-
-### 5.11.3
+### 5.11.3 standardisierte_heilmittel_kombination
 
 Das Element <standardisierte_heilmittel_kombination> besitzt immer das Kindelement <na-
 
 me> sowie das optionale Kindelement <positionsnr_liste>
 
-standardisierte_heilmittel_kombination
-
-**Abbildung 28:**
+**Abbildung 28:** standardisierte_heilmittel_kombination
 
 
 ---
@@ -1422,39 +1382,27 @@ bau:
 
 **</standardisierte_heilmittel_kombination>**
 
-standardisierte_heilmittel_kombination
+**XML-Code 28:** standardisierte_heilmittel_kombination
 
-**XML-Code 28:**
-
-#### name
-
-#### 5.11.3.1
+#### 5.11.3.1 name
 
 Siehe Abschnitt 5.11.1.2 name.
 
-#### positionsnr_liste
-
-#### 5.11.3.2
+#### 5.11.3.2 positionsnr_liste
 
 Siehe Abschnitt 5.11.1.3 positionsnr_liste
 
 Hinweis: Die enthaltene Positionsnummer muss angesetzt werden, sobald eine standardisier- te Heilmittelverordnung laut Heilmittelkatalog erfolgt. Einzelne Heilmittel werden dabei nicht  berechnet.
 
-##### positionsnr
-
-##### 5.11.3.2.1
+##### 5.11.3.2.1 positionsnr
 
 Siehe Abschnitt 5.11.1.3.1 positionsnr
 
-### frequenzempfehlung_liste
-
-### 5.11.4
+### 5.11.4 frequenzempfehlung_liste
 
 Das Element < frequenzempfehlung_liste> umschließt eine Liste von <frequenzempfehlung>  Elementen und das Kindelement <frequenzempfehlungstyp>
 
-frequenzempfehlung_liste
-
-**Abbildung 29:**
+**Abbildung 29:** frequenzempfehlung_liste
 
 Der XML-Code für ein <frequenzempfehlung_liste> Element hat folgenden Aufbau:
 
@@ -1468,13 +1416,9 @@ Der XML-Code für ein <frequenzempfehlung_liste> Element hat folgenden Aufbau:
 
 **</frequenzempfehlung_liste>**
 
-frequenzempfehlung_liste
+**XML-Code 29:** frequenzempfehlung_liste
 
-**XML-Code 29:**
-
-#### frequenzempfehlung
-
-#### 5.11.4.1
+#### 5.11.4.1 frequenzempfehlung
 
 Das Element <frequenzempfehlung> stellt die Frequenzempfehlung für die Verordnung von  Heilmitteln laut Heilmittelkatalog dar. Die Frequenzempfehlung gilt für alle Heilmittel unter dem
 
@@ -1680,11 +1624,9 @@ Der XML-Code für ein < orientierende_behandlungsmenge_hoechstalter> Element hat
 
 #### 5.11.7.2 hoechstalter_jahre
 
-Das Element < hoechstalter_jahre> definiert ein Höchstalter für die Verordnungsfähigkeit der  menge_hoechstalter> definierten orientierende Ver-
+Das Element < hoechstalter_jahre> definiert ein Höchstalter für die Verordnungsfähigkeit der  im Element < orientierende_behandlungsmenge_hoechstalter> definierten orientierende Ver-
 
-im Element < orientierende_behandlungs ordnungsmenge innerhalb des Verordnungsfalls. Im V -Attribute ist das Höchstalter in Jahren
-
-laut Heilmittelkatalog enthalten.
+ordnungsmenge innerhalb des Verordnungsfalls. Im V -Attribute ist das Höchstalter in Jahren  laut Heilmittelkatalog enthalten.
 
 **Abbildung 39:** hoechstalter_jahre
 
@@ -1694,9 +1636,7 @@ Der XML-Code für ein <hoechstalter_jahre> Element hat folgenden Aufbau:
 
 **XML-Code 39:** hoechstalter_jahre
 
-#### orientierende_behandlungsmenge_icd_code
-
-#### 5.11.7.3
+#### 5.11.7.3 orientierende_behandlungsmenge_icd_code
 
 Das Element <orientierende_behandlungsmenge_icd_code> stellt die orientierende Behand-
 
@@ -1805,9 +1745,7 @@ eine Liste von
 
 ---
 
-nd.
-
-agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit der Heil- mittel, welche der Diagnosegruppe zugeordnet si
+agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit der Heil- mittel, welche der Diagnosegruppe zugeordnet sind.
 
 Das Element besitzt immer das Kindelement <icd_code>.
 
@@ -1825,13 +1763,9 @@ Der XML-Code für ein <erforderliche_diagnosen> Element hat folgenden Aufbau:
 
 **</erforderliche_diagnosen>**
 
-erforderliche_diagnosen
+**XML-Code 45:** erforderliche_diagnosen
 
-**XML-Code 45:**
-
-##### icd_code
-
-##### 5.12.1.1.1
+##### 5.12.1.1.1 icd_code
 
 Siehe Abschnitt 5.11.7.4.1 icd_code.
 

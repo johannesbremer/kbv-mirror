@@ -81,30 +81,30 @@ oder zur Aufrechterhaltung der 1 Ernährungsänderung oder zur Aufrechterhaltung
 
 ---
 
-|  | 8 Adipositas-Schulung empfohlen (bei | | |
+| Eine Angabe im Rahmen einer | 8 Adipositas-Schulung empfohlen (bei | | |
 |---|---|---|---|
 | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |  |
 | 9 Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei Bedingtes Pflichtfeld; | | |
-| Genau eine Angabe ist zulässig |  | Eine Angabe ist erforderlich, wenn die |  |
-| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 Manifester Diabetes mellitus Typ 2 Ja / Nein Bedingtes Pflichtfeld |
+| Genau eine Angabe ist zulässig |  | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer |
+| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 4 Ja / Nein Bedingtes Pflichtfeld |
 | Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die | Eine Angabe ist nicht zulässig, wenn die |  |
 |  |  |  |  |
-| Anlage 24* im Rahmen einer |  |  | 8 Adipositas-Schulung empfohlen (bei Ja / Nein Pflichtfeld; |
+| Anlage 24* im Rahmen einer |  | Eine Angabe im Rahmen einer | 8 Adipositas-Schulung empfohlen (bei Ja / Nein Pflichtfeld; |
 | Genau eine Angabe ist zulässig |  | 9 | Adipositas-Schulung Ja / Nein / War aktuell nicht möglich / Bei Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig |
-|  | Eine Angabe ist erforderlich, wenn die |  |  |
-| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 Manifester Diabetes mellitus Typ 2 Ja / Nein |
+|  | Eine Angabe ist erforderlich, wenn die |  | Eine Angabe im Rahmen einer |
+| Relevante Ereignisse seit der letzten Dokumentation |  |  | 10 4 Ja / Nein |
 | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig | Eine Angabe ist erforderlich, wenn die Eine Angabe ist nicht zulässig, wenn die | | |
 |  |  |  |  |
-|  |  |  | Anlage 24* im Rahmen einer |
+|  |  |  | Anlage 24* im Rahmen einer  Eine Angabe im Rahmen einer |
 | 8 | Adipositas-Schulung empfohlen (bei | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
-| 9 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die |
+| 9 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 | Relevante Ereignisse seit der letzten Dokumentation |  | | |
-| 10 | Manifester Diabetes mellitus Typ 2 | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Eine Angabe ist nicht zulässig, wenn die |
-|  |  |  | Anlage 24* im Rahmen einer |
+| 10 | 4 | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Eine Angabe ist nicht zulässig, wenn die |
+|  |  |  | Anlage 24* im Rahmen einer  Eine Angabe im Rahmen einer |
 | 8 Adipositas-Schulung empfohlen (bei | Ja / Nein Pflichtfeld; | | |
-| Genau eine Angabe ist zulässig | 9 Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die |
+| Genau eine Angabe ist zulässig | 9 Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 
-aktueller Dokumentation)  wahrgenommen Dokumentation keine Schulung empfohlen  Erstdokumentation auszufüllen ist.  Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. letzter Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht zulässig. Folgedokumentation auszufüllen und wenn gleichzeitig in Feld 6 die Angabe „ Ja“ vorhanden ist.
+aktueller Dokumentation)  wahrgenommen Manifester Diabetes mellitus Typ 2 Dokumentation keine Schulung empfohlen  Erstdokumentation auszufüllen ist.  Folgedokumentation ist nicht zulässig. letzter Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Folgedokumentation auszufüllen und wenn gleichzeitig in Feld 6 die Angabe „ Ja“ vorhanden ist.
 
 ---
 

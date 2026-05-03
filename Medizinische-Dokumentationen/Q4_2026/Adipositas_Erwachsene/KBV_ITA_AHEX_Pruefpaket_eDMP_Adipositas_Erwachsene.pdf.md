@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 31. MÄRZ 2026  VERSION: 1.00  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRÜFPAKET EDMP
-
-**- ADIPOSITAS -**
+# PRÜFPAKET EDMP- ADIPOSITAS -
 
 # ERWACHSENE
 
@@ -49,11 +47,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 7
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 7
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 7
 
@@ -61,7 +59,7 @@ Datumseingaben 1.6.2
 
 7
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 7
 
@@ -73,7 +71,7 @@ Versichertendaten 1.6.4
 
 8
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 8
 
@@ -93,7 +91,7 @@ Prüfnummer 1.6.7
 
 10
 
-Prüffall 1112 2.1.2
+2.1.2 Prüffall 1112
 
 12
 
@@ -101,7 +99,7 @@ Prüffall 1112 2.1.2
 
 14
 
-Prüffall 1114 2.2.1
+2.2.1 Prüffall 1114
 
 14
 
@@ -111,7 +109,7 @@ Prüffall 1114 2.2.1
 
 18
 
-Prüffall 1140 2.3.2
+2.3.2 Prüffall 1140
 
 19
 
@@ -245,9 +243,9 @@ für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angabe
 
 ---
 
-- **Videodateien** **Videomitschnitte** **oder Screenshots** **ausgewählter Anforderungenund**
+- **Videodateien Videomitschnitte oder Screenshots ausgewählter Anforderungen und**
 
-#### - Teilnahmeerklärung
+#### - Teilnahmeerklärung:
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 1140) müssen in
 
@@ -313,7 +311,7 @@ ________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nr.**
 
-**3 Gängiges Bild bzw. Videoformat**
+**3 Gängiges Bild- bzw. Videoformat**
 
 
 ---
@@ -332,17 +330,21 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 ### 1.6.2 Datumseingaben
 
-- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der -
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2026**
 
-- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist
+-
 
-- Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum**
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
 
 - **Ausnahme**
 
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das
+
+- Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 
 -
 
@@ -354,7 +356,9 @@ sechs Monate nach dem Erstdokumentationsdatum
 
 - „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
-- **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:**  Erstlieferung bleiben unverändert.
+- **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:** Alle Datumsangaben aus der
+
+- Erstlieferung bleiben unverändert.
 
 ### 1.6.3 Prüfstammdaten
 
@@ -362,29 +366,17 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben
+
+und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
+
+Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 
 - EF.PD = persönliche Versichertendaten
 
-- EF.GVD = geschützte Versichertendaten -
-
-- Schnittstellen
-
-- **01.10.2026**
-
-- jeweils der 15. des
-
-- ist der **15.10.2024**
-
-- liegen würde, dann ist das
-
--
-
-- Alle Datumsangaben aus der
-
-erforderlichen Angaben  “ bereitgestellt. Die XML-
+- EF.GVD = geschützte Versichertendaten
 
 
 ---
@@ -434,13 +426,12 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL | NAME | VERZEICHNISNAME |
+| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
 | 1111 | Katarina Maier | XML_12 |
 | 1112 | Peter Pan | XML_13 |
 | 1140 | Lija Malta | XML_36 |
 
--ID
 
 ---
 
@@ -488,7 +479,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  |  |  |
 |  | Manifester Diabetes mellitus Typ 2 |  |
 |  | Beendigung der DMP |  |
-|  |  | DATEN |
+|  |  | INDIKATIONSPEZIFISCHE |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -498,9 +489,9 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  | | |
 |  |  |  |
 |  |  |  |
-|  | 15.mm.jjjj | 15.mm.jjjj |
+| Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-| DATEN | | |
+| INDIKATIONSPEZIFISCHE | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Therapeutische Maßnahmen | | |
@@ -511,7 +502,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart |  |
 | Ziele zur Ernährungsumstellung oder zur |  | Keine Ziele vereinbart |
 | Adäquat geändertes Ernährungsverhalten | Ja | Nein |
-|  | Nein | Nein |
+| Prädiabetes bei Einschreibung | Nein | Nein |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja | Nein |
@@ -520,7 +511,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Manifester Diabetes mellitus Typ 2 |  |  |
 | Beendigung der DMP |  | Nein |
 
-Datum der Erstellung (Behandlungsdatum) INDIKATIONSPEZIFISCHE Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation -Teilnahme Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein
+DATEN Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation -Teilnahme Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein
 
 
 ---
@@ -530,22 +521,20 @@ Datum der Erstellung (Behandlungsdatum) INDIKATIONSPEZIFISCHE Therapeutische Ma�
 |  |  |
 |---|---|
 | Prüffall-ID | 1112 |
-| Testziel |  |
+| Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | - Erwachsene |
+| Prüfunterlagen | › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten**
 
-einlesen und speichern.
-
-Die Versichertendaten von **Peter Pan (XML_13)**
+Die Versichertendaten von **Peter Pan (XML_13)** einlesen und speichern.
 
 Daten“).
 
-|  | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Administrative Daten | | |
@@ -566,7 +555,7 @@ Daten“).
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas Dokumentationsunterlagen INDIKATIONSÜBERGREIFENDE DATEN Erwachsene Erwachsene Informationsangebote der Krankenkasse
+Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen Erwachsene Erwachsene Informationsangebote der Krankenkasse
 
 ---
 
@@ -653,10 +642,10 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 |  |  |  |
 |  | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
-|  | Quartalsweise |  |
+| Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-|  | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Therapeutische Maßnahmen | | |
@@ -665,15 +654,15 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 | Regelmäßiges körperliches Training | Ja |  |
 | Ziele zur Ernährungsumstellung oder zur | Nein | Nr. 3 |
 | Adäquat geändertes Ernährungsverhalten | Keto | Nr. 4 |
-|  | Ja |  |
+| Prädiabetes bei Einschreibung | Ja |  |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Unbekannt | Nr. 5 |
 | Adipositas-Schulung empfohlen (bei aktueller | Ja |  |
 | Relevante Ereignisse seit der letzten Dokumentation | | |
-|  | Nein | Nr. 6 |
+| Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
 | Beendigung der DMP | Ja | Nr. 7 |
 
-der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Ziele vereinbart Ziele vereinbart  Keto Unbekannt Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
+der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Ziele vereinbart Ziele vereinbart  Keto Unbekannt Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
 
 ---
 
@@ -685,9 +674,9 @@ der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN Ziele z
 | Administrative Daten | | |
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
-|  |  |  |
+| Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
-| Einschreibung wegen |  |  |
+| Einschreibung wegen | Adipositas - Erwachsene |  |
 | Geschlecht | Je nach Auswahl des |  |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,88 m |  |
@@ -696,9 +685,9 @@ der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN Ziele z
 | Raucher | Nein |  |
 | Begleiterkrankungen | Chronische Herzinsuffizienz, |  |
 | Behandlungsplanung | | |
-| Vom Patienten gewünschte Informationsangebote | Körperliches Training |  |
+| Vom Patienten gewünschte Informationsangebote | Tabakverzicht, Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| 2) | 15.mm.jjjj |  |
+| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -719,7 +708,7 @@ der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN Ziele z
 |  | Einschreibung wegen |  |
 |  | Geschlecht |  |
 
-Dokumentation in Vertretung erstellt der Krankenkasse Adipositas - Erwachsene Asthma bronchiale Tabakverzicht, Ernährungsberatung, und körperlichem Training und körperlichem Training seit der letzten Dokumentation
+2) der Krankenkasse 2) Asthma bronchiale Ernährungsberatung, und körperlichem Training und körperlichem Training seit der letzten Dokumentation
 
 ---
 
@@ -753,9 +742,9 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 |  |  |
 |---|---|
 | Prüffall-ID | 1130 |
-| Testziel | › ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung | › |
-| Prüfunterlagen | › |
+| Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -763,13 +752,13 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Anforderung P1 |
+| Es wird eine Folgedokumentation |
 | Szenario 2 |
-| Zeigen Sie die Systemreaktion.  Anforderung KP1 |
+| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Mit diesem Szenario soll die korrekte Umsetzung der |
 | Szenario 3 |
-| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche 1.  3. 4. Anforderung KP2 |
+| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche 1. 2. 3. 4. Mit diesem Szenario soll die korrekte Umsetzung der |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Dieser Testfall ist unterteilt in  drei Szenarien -50  (siehe Es wird eine Folgedokumentation  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. -24  (siehe Mit diesem Szenario soll die korrekte Umsetzung der KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die 2. Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. -510  (siehe Mit diesem Szenario soll die korrekte Umsetzung der KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video Dieser Testfall ist unterteilt in  drei Szenarien s die Eingaben einschließlich der Ergebnisse  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden. -50  (siehe Anforderung KP1 -24  (siehe Anforderung KP2 -510  (siehe
 
 ---
 
@@ -778,7 +767,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV
 |  | |
 |---|---|
 | Prüffall-ID | 1140 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
 | Hinweis | Falls Ihr System die optionale Anforderung O |
@@ -800,7 +789,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1.112 |
 | Datum | 15.10.2026 |
 
-eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Teilnahme- und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 

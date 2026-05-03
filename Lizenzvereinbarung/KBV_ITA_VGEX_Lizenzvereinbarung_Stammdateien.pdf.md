@@ -8,21 +8,17 @@
 
 # §1 GEGENSTAND DER VEREINBARUNG
 
-Diese Vereinbarung betrifft die Einräumung einer Lizenz für Stammdateien durch die Kassenärztliche  grades, soweit die KBV
+Diese Vereinbarung betrifft die Einräumung einer Lizenz für Stammdateien durch die Kassenärztliche
 
-Bundesvereinigung (KBV). Diese Vereinbarung gilt auch für alle Updates und Up
+Bundesvereinigung (KBV). Diese Vereinbarung gilt auch für alle Updates und Upgrades, soweit die KBV Updates
 
-Updates
-
-zur Verfügung stellt.
-
-und/oder Upgrades der Stammdateien
+und/oder Upgrades der Stammdateien zur Verfügung stellt.
 
 # § 2 EIGENTUMSRECHTE
 
-s Urheberrechtsgesetz geschützt. Die KBV besitzt und behält alle
+Die Stammdateien sind insbesondere durch das Urheberrechtsgesetz geschützt. Die KBV besitzt und behält alle
 
-Die Stammdateien sind insbesondere durch da Rechte, das Eigentum und alle Ansprüche an den Stammdateien, einschließlich aller Urheberrechte, Patente,
+Rechte, das Eigentum und alle Ansprüche an den Stammdateien, einschließlich aller Urheberrechte, Patente,
 
 Betriebs- und Geschäftsgeheimnisse, Marken und sonstiger geistiger Eigentumsrechte. Durch die Vereinbarung
 
@@ -32,43 +28,35 @@ Abs. 2 und 3 und 69e UrhG nicht eingeschränkt.
 
 # § 3 NUTZUNGSBESTIMMUNGEN
 
-- einfache, zeitlich unbegrenzte, nicht übertragbare Lizenz zur
+- (1) Die KBV erteilt dem Softwarehersteller eine einfache, zeitlich unbegrenzte, nicht übertragbare Lizenz zur
 
-- (1) Die KBV erteilt dem Softwarehersteller eine - Abweichungen ergeben.
+- Nutzung der Stammdateien, soweit sich aus dieser Vereinbarung keine Abweichungen ergeben.
 
-- Nutzung der Stammdateien, soweit sich aus dieser Vereinbarung keine -
-
-- weitergegeben werden, sofern dies nicht ausdrücklich
-
-- (2) Die Stammdateien dürfen nicht vervielfältigt oder erlaubt ist.
+- (2) Die Stammdateien dürfen nicht vervielfältigt oder weitergegeben werden, sofern dies nicht ausdrücklich - erlaubt ist.
 
 - (3) Es ist untersagt:
 
--
-
 - a) Stammdateien unter zu lizenzieren, zu vermieten, zu verleihen oder zu verleasen;
 
-- z oder teilweise auf den Daten der Stammdateien basieren;
-
-- b) Abgeleitete Werke zu schaffen, die gan
+- b) Abgeleitete Werke zu schaffen, die ganz oder teilweise auf den Daten der Stammdateien basieren;
 
 - c) Eigentümerkennzeichnungen, Seriennummern oder Beschriftungen von den Stammdateien entfernen.
 
 - (4) Es ist dem Softwarehersteller erlaubt die Stammdateien im Rahmen der vertragsärztlichen Versorgung
 
-- einzusetzen und an seine Kunden weiterzugeben. Im Rahmen des Einsatzes und der Weitergabe kann der  Stammdateien unterlizenzieren. Eine Weitergabe und Unterlizensierung insbesondere
+- einzusetzen und an seine Kunden weiterzugeben. Im Rahmen des Einsatzes und der Weitergabe kann der  Softwarehersteller die Stammdateien unterlizenzieren. Eine Weitergabe und Unterlizensierung insbesondere
 
-- Softwarehersteller die  an andere Softwarehersteller ist ausgeschlossen.
+- an andere Softwarehersteller ist ausgeschlossen.
 
-- Stammdateien zu untersagen oder zu
+- (5) Die KBV behält sich alle Rechte vor, um eine unbefugte Nutzung der Stammdateien zu untersagen oder zu
 
-- (5) Die KBV behält sich alle Rechte vor, um eine unbefugte Nutzung der  stoppen, insbesondere Ansprüche auf Unterlassung und Schadensersatz geltend zu machen
+- stoppen, insbesondere Ansprüche auf Unterlassung und Schadensersatz geltend zu machen
 
 # § 4 PFLICHTEN DES SOFTWAREHERSTELLERS
 
-- und Softwareumgebung für die Stammdateien liegt allein in
+Die Einrichtung einer funktionsfähigen Hardware- und Softwareumgebung für die Stammdateien liegt allein in
 
-Die Einrichtung einer funktionsfähigen Hardware der Verantwortung des Softwareherstellers. Dieses gilt gleichermaßen für regelmäßige Datensicherungen in dem  verwendeten IT-System.
+der Verantwortung des Softwareherstellers. Dieses gilt gleichermaßen für regelmäßige Datensicherungen in dem  verwendeten IT-System.
 
 / 15. August 2023
 

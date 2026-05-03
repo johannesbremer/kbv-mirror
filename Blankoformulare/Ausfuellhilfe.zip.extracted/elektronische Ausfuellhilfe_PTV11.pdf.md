@@ -11,7 +11,7 @@
 
 ---
 
-## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN -
+## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
 - **1.** **Datum oder ggf. Daten der letzten 50 Minuten der Sprechstunde**
 
@@ -23,39 +23,41 @@ Geben Sie hier bitte das Datum der letzten Psychotherapeutischen Sprechstunde (5
 
 oder die Daten der letzten beiden Psychotherapeutischen Sprechstunden (zweimal 25 Minuten) jeweils im
 
-nienverfahren grundsätzlich ver-
+Format TTMMJJ an. Eine Psychotherapeutische Sprechstunde (1 x 50 oder 2 x 25 Minuten) ist vor probatori- schen Sitzungen, Akutbehandlung oder Psychotherapie in einem Richtlinienverfahren grundsätzlich ver-
 
-Format TTMMJJ an. Eine Psychotherapeutische Sprechstunde (1 x 50 oder 2 x 25 Minuten) ist vor probatori- schen Sitzungen, Akutbehandlung oder Psychotherapie in einem Richtli pflichtend.
+pflichtend.
 
-Machen Sie hier Angaben zum Ergebnis der Psychotherapeutischen Sprechstunde im Sinne eines vorläufi- Verdacht auf eine psychische Erkran-
+Machen Sie hier Angaben zum Ergebnis der Psychotherapeutischen Sprechstunde im Sinne eines vorläufi-
 
-gen Befundberichts. Wenn Sie eine psychische Erkrankung oder einen  kung feststellen, geben Sie die Diagnose(n) als endständige ICD-10-GM-Codes an. Die Angabe „endständig“
+gen Befundberichts. Wenn Sie eine psychische Erkrankung oder einen Verdacht auf eine psychische Erkran-
 
-macht deutlich, dass die ICD-10-GM-Codes als terminale Schlüsselnummern anzugeben sind (Codes, die  anzugeben (z. B. „V“ für „Ver-
+kung feststellen, geben Sie die Diagnose(n) als endständige ICD-10-GM-Codes an. Die Angabe „endständig“
 
-keine Subcodes mehr enthalten). Darüber hinaus ist die Diagnosesicherheit dachtsdiagnose“). Erläutern Sie im Freitextfeld die festgestellten Diagnosen und Verdachtsdiagnosen in ei-
+macht deutlich, dass die ICD-10-GM-Codes als terminale Schlüsselnummern anzugeben sind (Codes, die  keine Subcodes mehr enthalten). Darüber hinaus ist die Diagnosesicherheit anzugeben (z. B. „V“ für „Ver-
 
-terbehandler relevante Zusatzinfor-
+dachtsdiagnose“). Erläutern Sie im Freitextfeld die festgestellten Diagnosen und Verdachtsdiagnosen in ei- ner für die Patientin oder den Patienten verständlichen Sprache. Im Freitextfeld können Sie für die Patien- tin oder den Patienten bzw. für eine Weiterbehandlerin oder einen Weiterbehandler relevante Zusatzinfor-
 
-ner für die Patientin oder den Patienten verständlichen Sprache. Im Freitextfeld können Sie für die Patien- tin oder den Patienten bzw. für eine Weiterbehandlerin oder einen Wei mationen angeben, wie weitere Hinweise zum Krankheitsbild oder Angaben zu den ggf. bereits durchge-
+mationen angeben, wie weitere Hinweise zum Krankheitsbild oder Angaben zu den ggf. bereits durchge-
 
 führten Maßnahmen (z. B. Ergebnisse von Testverfahren).
 
-Eine Mehrfach-
+Geben Sie der Patientin oder dem Patienten hier Empfehlungen zum weiteren Vorgehen. Eine Mehrfach-
 
-Geben Sie der Patientin oder dem Patienten hier Empfehlungen zum weiteren Vorgehen.  auswahl ist möglich. Wird eine ambulante Psychotherapie empfohlen, muss in Punkt 4 („Ihr nächster Ter-
+auswahl ist möglich. Wird eine ambulante Psychotherapie empfohlen, muss in Punkt 4 („Ihr nächster Ter-
 
-min“) angegeben werden, ob die Psychotherapie zeitnah erforderlich ist oder nicht. Das Ergebnis einer Psy- er eine weitere ärztliche
+min“) angegeben werden, ob die Psychotherapie zeitnah erforderlich ist oder nicht. Das Ergebnis einer Psy-
 
-chotherapeutischen Sprechstunde kann auch sein, dass keine Maßnahme oder ab Abklärung erforderlich ist. Ist eine weitere Abklärung bei einer Fachärztin oder einem Facharzt erforderlich,
+chotherapeutischen Sprechstunde kann auch sein, dass keine Maßnahme oder aber eine weitere ärztliche
+
+Abklärung erforderlich ist. Ist eine weitere Abklärung bei einer Fachärztin oder einem Facharzt erforderlich,
 
 geben Sie das entsprechende Fachgebiet an. Erläutern Sie im Freitextfeld die aus Ihrer Sicht empfohlenen
 
-B. um welche Präventionsmaß-
+Maßnahmen. Machen Sie hier nähere Angaben zur Art der Maßnahme (z. B. um welche Präventionsmaß-
 
-Maßnahmen. Machen Sie hier nähere Angaben zur Art der Maßnahme (z. nahme oder andere Maßnahme handelt es sich?). Handelt es sich bei der Empfehlung um eine Weiterbe- B. „Gruppentherapie sinnvoll“). Bitte achten
+nahme oder andere Maßnahme handelt es sich?). Handelt es sich bei der Empfehlung um eine Weiterbe- handlung, können Sie auch hierzu nähere Angaben machen (z. B. „Gruppentherapie sinnvoll“). Bitte achten
 
-handlung, können Sie auch hierzu nähere Angaben machen (z. Sie auf eine für die Patientin oder den Patienten verständliche Sprache und erläutern Sie der Patientin oder
+Sie auf eine für die Patientin oder den Patienten verständliche Sprache und erläutern Sie der Patientin oder
 
 dem Patienten Ihre Empfehlungen zum Abschluss der Psychotherapeutischen Sprechstunde(n) mündlich.
 

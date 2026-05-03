@@ -39,41 +39,25 @@ Version 10
 
 Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease -Management- Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
 
-Risikofaktoren und
+Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht -medikamentöser Maßnahmen, indikationsbezogener Risikofaktoren und
 
-Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht -medikamentöser Maßnahmen, indikationsbezogener
-
-Kontrolluntersuchungen dienen. Sie stellt einen Informationsspeicher für Sie und Ihren
-
-Patienten dar und hält gemeinsame Zielvereinbarungen fest.
+Kontrolluntersuchungen dienen. Sie stellt einen Informationsspeicher für Sie und Ihren  Patienten dar und hält gemeinsame Zielvereinbarungen fest.
 
 Ein Ausdruck der Dokumentation kann bei notwendigen Über - und Einweisungen als  Begleitbrief dienen.
 
 Schließlich bildet die Dokumentation die Basis für die Gestaltung Ihres individuellen Feedback Berichts, die Durchführung der Qualitätssicherung und für die Programmevaluation.
 
-Die sorgfältige Eintragung der Daten ist daher überaus wichtig und für Sie, Ihre Patientinnen  Ärztinnen und Ärzte von Vorteil.
+Die sorgfältige Eintragung der Daten ist daher überaus wichtig und für Sie, Ihre Patientinnen  und Patienten und alle mitbehandelnden Ärztinnen und Ärzte von Vorteil.
 
-und Patienten und alle mitbehandelnden
+Ab dem 01. Juli 2008 hat der Gesetzgeber die ausschließliche elektronische Datenerfassung  und -übermittlung vorgesehen, um die Datenqualität zu verbessern und die Verzahnung der  Dokumentationen innerhalb der unterschiedlichen Indikationen herzustellen. Zudem sind die  Dokumentationsdaten auf diejenigen Daten beschränkt, die für eine effektive
 
-Ab dem 01. Juli 2008 hat der Gesetzgeber die ausschließliche elektronische Datenerfassung
-
-diejenigen Daten beschränkt, die für
-
-effektive
-
-und -übermittlung vorgesehen, um die Datenqualität zu verbessern und die Verzahnung der  Dokumentationen innerhalb der unterschiedlichen Indikationen herzustellen. Zudem sind die  Dokumentationsdaten auf
-
-eine
-
-Qualitätssicherung genutzt werden können, Aussagen zum Krankheitsverlauf möglich machen
-
-und im Rahmen der Evaluation Anwendung finden.
+Qualitätssicherung genutzt werden können, Aussagen zum Krankheitsverlauf möglich machen  und im Rahmen der Evaluation Anwendung finden.
 
 Für alle DMP -Indikationen sind zunächst die in einer Praxis -Verwaltungs-Software (PVS)  bereits hinterlegten administrativen Daten, Daten zu allgemeiner Anamnese und zu bekannten  Befunden sowie Daten zum Behandlungsplan zu dokumentieren. Im Weiteren kommen dann  diagnosespezifische Daten, wie z. B. der HbA1c -Wert beim Diabetes oder Angaben zur  Medikation, hinzu.
 
-zu
+Die Auswahl und Zusammenführung der Daten erfolgt durch die Dokumentationssoftware. Sie  als dokumentierender Arzt erhalten die notwendigen Dokumentationsparameter durch die  Vorauswahl der von Ihnen zu dokumentierenden Indikationen (siehe auch Erläuterungen zu
 
-Die Auswahl und Zusammenführung der Daten erfolgt durch die Dokumentationssoftware. Sie  als dokumentierender Arzt erhalten die notwendigen Dokumentationsparameter durch die  Vorauswahl der von Ihnen zu dokumentierenden Indikationen (siehe auch Erläuterungen „Einschreibung wegen“). Es entfällt die Notwendigkeit der nach Indikationen getrennten  Dokumentation.
+„Einschreibung wegen“). Es entfällt die Notwendigkeit der nach Indikationen getrennten  Dokumentation.
 
 **Allgemeine Fragen**
 
@@ -108,25 +92,23 @@ DMP gibt es für die Indikationen - Brustkrebs
 
 - Adipositas - Kinder und Jugendliche
 
-den ärztlichen Teilnehmerinnen oder Teilnehmern (z.
+Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit den ärztlichen Teilnehmerinnen oder Teilnehmern
 
-Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit
+B. mit der jeweiligen KV) abgeschlossen haben, und die Patientin oder der Patient muss die  Einschreibekriterien des Programms entsprechend
 
-Programms entsprechend der Vorgaben der Risikostruktur-
-
-B. mit der jeweiligen KV) abgeschlossen haben, und die Patientin oder der Patient muss die  Einschreibekriterien des  Ausgleichsverordnung ( RSAV) und der DMP-Anforderungen-Richtlinie (DMP -A-RL) des
+Ausgleichsverordnung ( RSAV) und der DMP-Anforderungen-Richtlinie (DMP -A-RL) des
 
 gemeinsamen Bundesausschusses erfüllen.
 
 *Wann ist die Dokumentation vollständig?*
 
-Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  sind. Ihre Praxissoftware unterstützt Sie bei der Feststellung der
+Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt Sie
 
-gemacht worden  Vollständigkeit der Angaben.
+Vollständigkeit der Angaben.
 
-Ihrer Patientin oder Ihrem Patienten
+Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und Ihrer Patientin oder
 
-Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und  jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
+jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
 
 Bedenken Sie, dass aufgrund vertraglicher Regelungen nur bei vollständig ausgefüllten  Dokumentationen und bei Einhaltung der Dokumentationsfristen eine Vergütung an Sie  erfolgen kann.
 
@@ -134,29 +116,51 @@ Bedenken Sie, dass aufgrund vertraglicher Regelungen nur bei vollständig ausgef
 
 Die Dokumentationen sind aus Ihrer Praxis elektronisch an die für Sie zuständige Datenstelle  zu übermitteln. Dies kann auf direktem Wege über eine gesicherte Datenleitung erfolgen.  Alternativ können die Daten in einigen Regionen auch online (z.B. auf einem Server der  Datenstelle) erfasst oder aber über den Postversand eines Datenspeichers, wie etwa einer  CD-ROM, übermittelt werden.
 
-**gültige Teilnahme Ihrer**
+**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Patientin oder Ihres Pat ienten es zwingend erforderlich ist, dass**
 
-**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Ihres Pat ienten es zwingend erforderlich ist, dass zusätzlich zur**
+**vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**
 
-**Patientin oder**  **vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**
-
-**beiden unterschrieben und unmittelbar an die zuständige Datenstelle oder**
+**beiden unterschrieben und unmittelbar an die**
 
 **Krankenkasse übermittelt wurde.** Dabei ist sicherzustellen, dass alle drei Ausfertigungen
 
-Unterschriften von Ihnen und der Patientin bzw. dem Patienten tragen
+die jeweils notwendigen Unterschriften von Ihnen und der Patientin bzw.
 
-die jeweils notwendigen  (Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunt erschriften, zweite und dritte Seite als
+(Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunt erschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der
 
-der Patient und ein Exemplar verbleibt bei Ihnen in der
+Patientenakte.
 
-Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder  Patientenakte.
+Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden we lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible
 
-Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder
+der Vorgaben der (z.
+
+Risikostruktur-
+
+bei der Feststellung der
+
+Ihrem Patienten
+
+**gültige Teilnahme**
+
+**zuständige**
+
+dem Patienten tragen
+
+Dokumentation
+
+**zusätzlich zur**
+
+**Datenstelle**
+
+muss
+
+**Ihrer**
+
+**oder**
 
 rden,
 
-unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden we lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible Dokumentation muss inklusive
+inklusive
 
 
 ---
@@ -243,13 +247,11 @@ einer -
 
 ---
 
-Dokumentationstypen zu kombinieren. So können Sie z. B. gleichzeitig eine
+Dokumentationstypen zu kombinieren.
 
 Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes mellitus  Typ 2 erstellen.
 
 **Geschlecht**
-
-Patienten ist
 
 Eine Angabe zum Geschlecht de r teilnehmenden Patientin oder des  verpflichtend.
 
@@ -257,13 +259,9 @@ Eine Angabe zum Geschlecht de r teilnehmenden Patientin oder des  verpflichtend.
 
 Eine Angabe ist verpflichtend.
 
-(m) mit zwei Stellen hinter dem Komma an.
-
 Geben Sie bitte die Körpergröße in Metern
 
 Ist die Körpergröße, z.B. auf Grund einer Amputation, nicht zu erheben, ist eine „0“  einzutragen.
-
-**Adipositas bei Kindern und**
 
 Erfolgt die A ngabe im Rahmen einer Dokumentation zu  **Jugendlichen**, muss die aktuelle Körpergröße bei jeder Dokumentation angegeben
 
@@ -275,29 +273,41 @@ Die Angabe ist verpflichtend und erfolgt in Kilogramm als nummerische Angabe ohn
 
 Ist das Körpergewicht, z.B. auf Grund einer Amputation, nicht zu erheben, ist eine „0“  einzutragen.
 
-**Adipositas bei Erwachsenen**
-
 Erfolgt die Angabe im Rahmen einer Dokumentation zu  muss das aktuelle Körpergewicht bei jeder Dokumentation eingegeben werden. A us den  beiden Angaben zum aktuellen Körpergewicht und zur Körpergröße wird der aktuelle BMI  berechnet und Ihnen angezeigt. Zusätzlich wird die Differenz zwischen dem aktuellen  Körpergewicht und dem Körpergewicht der letzten sowie der Erstdokumentation bzw. der  ersten vorliegenden Folgedokumentation automatisch berechnet und bei der Eingabe des  Feldes „Körpergewicht“ angezeigt. Dies soll Ihnen einen schnellen Überblick über den  aktuellen BMI und die Veränderung des Körpergewichts im Laufe der DMP -Teilnahme  geben.
 
-**Adipositas bei Kindern und**
-
-Erfolgt die Angabe im Rahmen einer Dokumentation zu  **Jugendlichen** muss das aktuelle Körpergewicht bei jeder Dokumentation angegeben
-
-werden. Aus den Angaben zur aktuellen Körpergröße und zum aktuellen Körpergewicht
-
-automatisch befüllt und Sie erhalten zusätzliche Angaben zur Veränderung
-
-wird automatisch der aktuelle BMI-SDS berechnet und das entsprechende Feld in der  Dokumentation  des BMI-SDS im Laufe der DMP-Teilnahme (vgl. indikationsspezifische Dokumentation)
+Erfolgt die Angabe im Rahmen einer Dokumentation zu  **Jugendlichen** werden. Aus den Angaben zur aktuellen Körpergröße und zum aktuellen Körpergewicht  wird automatisch der aktuelle BMI-SDS berechnet und das entsprechende Feld in der  Dokumentation  des BMI-SDS im Laufe der DMP-Teilnahme (vgl. indikationsspezifische Dokumentation)
 
 **Blutdruck**
 
-Bei Kindern und Jugendlichen unter 18 Jahren, die an einem **DMP zu Asthma bronchiale**
-
-teilnehmen sowie bei Teilnehmenden an einem DMP **Adipositas bei Kindern und**
-
-**Jugendlichen**, ist die Angabe optional.
+Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen sowie bei Teilnehmenden an einem DMP  **Jugendlichen**
 
 Bei allen Patientinnen und Patienten ab dem vollendeten 18. Lebensjahren, die an einem  DMP Asthma teilnehmen, ist die Angabe verpflichtend.
+
+muss das aktuelle Körpergewicht bei jeder Dokumentation angegeben
+
+automatisch befüllt und Sie erhalten zusätzliche Angaben zur
+
+, ist die Angabe optional.
+
+So können
+
+(m) mit zwei Stellen hinter dem Komma an.
+
+Sie z. B. gleichzeitig eine
+
+Patienten ist
+
+**Adipositas bei Kindern und**
+
+**Adipositas bei Erwachsenen**
+
+**Adipositas bei Kindern und**
+
+Veränderung
+
+**DMP zu Asthma bronchiale**
+
+**Adipositas bei Kindern und**
 
 
 ---

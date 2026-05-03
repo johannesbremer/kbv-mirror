@@ -1,17 +1,14 @@
 |  |
 |---|
 
-|  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025  VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
-|---|---|
-
-# TMZ HI
-
-# ANFORDERUNGSKATALOG
+# ANFORDERUNGSKATALOG TMZ HI
 
 ## [KBV_ITV_VGEX_ANFORDERUNGSKATALOG_TMZ_HI]
 
-BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
+|  | BUNDESVEREINIGUNG   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2025  VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT |
+|---|---|
 
+KASSENÄRZTLICHE IT IN DER VERSORGUNG
 
 ---
 
@@ -77,23 +74,19 @@ Die Versorgung von Patientinnen und Patienten mit einer fortgeschrittenen Herzin
 
 Beim Telemonitoring bei Herzinsuffizienz arbeiten Hausärzte oder Kardiologen als "primär behan- delnde Ärztinnen und Ärzte" (PBA) mit Kardiologinnen und Kardiologen eines telemedizinischen Zent- rums (TMZ) zusammen.
 
-(QS-V TmHi) vom TMZ an
+Der Anforderungskatalog beschreibt die benötigten Daten und deren Beschreibung, um die erfassten  Daten gemäß der QS-Vereinbarung für Telemonitoring bei Herzinsuffizienz (QS-V TmHi) vom TMZ an
 
-Der Anforderungskatalog beschreibt die benötigten Daten und deren Beschreibung, um die erfassten  Daten gemäß der QS-Vereinbarung für Telemonitoring bei Herzinsuffizienz -V TmHi erstellt werden
+die zuständige Kassenärztliche Vereinigung (KV) weiterzuleiten. Anschließend sollen diese Daten von  den KVen an die KBV übermittelt werden, damit die Jahresberichte gemäß QS-V TmHi erstellt werden
 
-die zuständige Kassenärztliche Vereinigung (KV) weiterzuleiten. Anschließend sollen diese Daten von  den KVen an die KBV übermittelt werden, damit die Jahresberichte gemäß QS können.
+können.
 
-Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien- . Dort werden diese medizi-
+Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien- ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt. Dort werden diese medizi-
 
-ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt
+nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten teilt informiert der TMZ-Arzt den PBA und emp-
 
-teilt informiert der TMZ-Arzt den PBA und emp-
+fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und  weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo- gene Rückmeldung des TMZ an den PBA oder den Patienten sollen im Falle erkennbarer Abweichun-
 
-nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten  fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und
-
-sollen im Falle erkennbarer Abweichun-
-
-weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo- gene Rückmeldung des TMZ an den PBA oder den Patienten gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte-
+gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte-
 
 rungen der Erkrankung und vor allem vermeidbare unnötige stationäre Notfallbehandlungen verhin-
 
@@ -101,25 +94,21 @@ dert vermieden werden.
 
 Für die Umsetzung des Telemonitorings bei Herzinsuffizienz werden zur Generierung der zu überwa- chenden Daten entweder kardiale Aggregate (implantable cardioverter defibrillator [ICD], cardiac re- synchronization therapy pacemaker [CRT-P], cardiac resynchronization therapy with defibrillation  [CRT-D]) oder externe Messgeräte verwendet. Ferner wird die subjektive Einschätzung des Gesund- heitszustandes vom beim Patienten selbst abgefragt.
 
-(KBV) und dem GKV-Spitzenverband
+Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts- sicherung zwischen der Kassenärztlichen Bundesvereinigung (KBV) und dem GKV-Spitzenverband
 
-Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts- sicherung zwischen der Kassenärztlichen Bundesvereinigung  (GKV-SV) getroffen: [https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS)-V_TmHi.pdf
+(GKV-SV) getroffen: [https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS)-V_TmHi.pdf
 
 Diese Vereinbarung sieht die Erstellung und den Versand einer Jahresstatistik (gem. § 7 Abs. 1 bis 3
 
-4. des Folgejahres ("Berichtsjahr") vom TMZ an
+QS-V TmHi) vor. Die Jahresstatistiken der TMZ werden einrichtungsbezogen und pseudonymisiert in  Bezug auf ein sog. Datenjahr spätestens bis zum 30.04. des Folgejahres ("Berichtsjahr") vom TMZ an
 
-QS-V TmHi) vor. Die Jahresstatistiken der TMZ werden einrichtungsbezogen und pseudonymisiert in  Bezug auf ein sog. Datenjahr spätestens bis zum 30.0 die zuständigen Kassenärztlichen Vereinigungen (KV) und anschließend von diesen jährlich bis zum
+die zuständigen Kassenärztlichen Vereinigungen (KV) und anschließend von diesen jährlich bis zum
 
 30.06. an die KBV übermittelt.
 
 Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen Jahresbericht, welche
 
-pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar-
-
-g.
-
-über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügun
+pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar- über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügung.
 
 | der TMZ-Arzt Hinweise zu empfohlenen | ggf. Maßnahmen an | den PBA mit, | so dass | dieser |
 |---|---|---|---|---|
@@ -142,12 +131,12 @@ Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösu
 
 monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
 
-| 1. |  | Pati- |  | 3. | Die Übermittlung der Daten aus dem TMZ zur KV |
+| 1. |  | 2. |  | 3. | Die Übermittlung der Daten aus dem TMZ zur KV |
 |---|---|---|---|---|---|
-| 1.2 | Pflichtfunktionen | müssen implementiert werden, wenn alle jeweils genannten Bedin- | Optionale Funktionen  PFLICHTFUNKTION Px-xxx Funktionsbezeichnung  Ident-Nummer einer Pflichtfunktion 1. Pati- 3. Optionale Funktionen   müssen implementiert werden, wenn alle jeweils genannten Bedin- Optionale Funktionen PFLICHTFUNKTION Px-xxx Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien. Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche  Optionale Funktionen  PFLICHTFUNKTION Px-xxx Funktionsbezeichnung  Ident-Nummer einer Pflichtfunktion KONDITIONALE PFLICHTFUNKTION KONDITIONALE PFLICHTFUNKTION KPx-xxx | Funktionsbezeichnung | Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist, welche be- OPTIONALE FUNKTION Ox-xxx Funktionsbezeichnung  Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien. Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche |
+| 1.2 | Pflichtfunktionen | Konditionale Pflichtfunktionen | Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION Px-xxx Funktionsbezeichnung  Ident-Nummer einer Pflichtfunktion 1. 2. 3. Optionale Funktionen Erläuterung der Funktionsdarstellung: Konditionale Pflichtfunktionen Optionale Funktionen PFLICHTFUNKTION Px-xxx Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien. Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche  Optionale Funktionen Erläuterung der Funktionsdarstellung: PFLICHTFUNKTION Px-xxx Funktionsbezeichnung  Ident-Nummer einer Pflichtfunktion KONDITIONALE PFLICHTFUNKTION KONDITIONALE PFLICHTFUNKTION KPx-xxx | Funktionsbezeichnung | Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist, welche be- OPTIONALE FUNKTION Ox-xxx Funktionsbezeichnung Ident-Nummer einer optionalen Funktion Eine Anforderungsfunktion enthält immer eine Begründung und eine Liste von Akzeptanzkriterien. Eine Anforderungsfunktion kann Hinweise und/oder Beispiele zur Umsetzung enthalten, welche |
 |  |  |  |  |  |  |
 
-Erfassung von Daten pro Patient 2. Erstellung einer in bis zu 4 Strata aufgeteilten, aggregierten Jahresstatistik aus den erfassten entendaten Export der Daten der gem. Nr. 2 erstellten Jahresstatistik  in die lokale Umgebung (zur späteren Weiterleitung)  sowie zur KBV müssen nicht durch  Hersteller imple- mentiert werden. PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE  müssen in der Software implementiert sein. Konditionale Pflichtfunktionen gungen erfüllt sind.  können implementiert werden, wenn alle jeweils genannten Bedingungen er- füllt sind. Erläuterung der Funktionsdarstellung: schrieben sind. Ident-Nummer einer optionalen Funktion Die Begründung soll dem Verständnis für die Gründe der Anforderungserhebung dienen und ist nicht Teil der durch diesen Anforderungskatalog definierten Norm. Die Akzeptanzkriterien sind fachliche Anforderungen, welche Abnahmekriterien darstellen, denen ein Softwareprodukt genügen muss. empfehlenden Charakter haben. | PFLICHTFUNKTION | | |
+Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten, aggregierten Jahresstatistik aus den erfassten Pati- entendaten Export der Daten der gem. Nr. 2 erstellten Jahresstatistik  in die lokale Umgebung (zur späteren Weiterleitung)  sowie zur KBV müssen nicht durch  Hersteller imple- mentiert werden. PFLICHTFUNKTIONEN UND OPTIONALE FUNKTIONEN DER SOFTWARE  müssen in der Software implementiert sein.  müssen implementiert werden, wenn alle jeweils genannten Bedin- gungen erfüllt sind.  können implementiert werden, wenn alle jeweils genannten Bedingungen er- füllt sind. schrieben sind. Die Begründung soll dem Verständnis für die Gründe der Anforderungserhebung dienen und ist nicht Teil der durch diesen Anforderungskatalog definierten Norm. Die Akzeptanzkriterien sind fachliche Anforderungen, welche Abnahmekriterien darstellen, denen ein Softwareprodukt genügen muss. empfehlenden Charakter haben. | PFLICHTFUNKTION | | |
 |---|---|---|
 | Px-xxx | Funktionsbezeichnung |  |
 
@@ -235,10 +224,10 @@ STELLEN TÄTSPRÜFUNG kompensation im Datenjahr bei Patienten gemäß Feld- Anga
 
 | P1-110 | Erfassung des Einsender-Pseudonyms |  | Die Software bietet dem Anwender die Möglichkeit | Begründung: |  |
 |---|---|---|---|---|---|
-| -verarbeitung durch die KVen und durch die KBV setzt ein | Akzeptanzkriterium: | 1. | -Pseudonym für die Erstellung der Jahresstatistik. Beispiele: › › ›  PFLICHTFUNKTION P1-110 Erfassung des Einsender-Pseudonyms  Die Software bietet dem Anwender die Möglichkeit Begründung: -Pseudonym für die Erstellung der Jahresstatistik. Beispiele: › 1. -Pseudonym für die Erstellung der Jahresstatistik. › › › 1.  b) -Pseudonym für die Erstellung der Jahresstatistik. Beispiele: › › ›  PFLICHTFUNKTION Berechnung der Anzahl der Patienten pro TM-Art P1-130 Berechnung der Anzahl der Patienten pro TM-Art |  | Die Software berechnet bzw. zählt die Gesamtzahl der Patienten Begründung:  Akzeptanzkriterium: 1.  b) |
+| Die Datenannahme und | Akzeptanzkriterium: | 1. | a) Beispiele: › › ›  PFLICHTFUNKTION P1-110 Erfassung des Einsender-Pseudonyms  Die Software bietet dem Anwender die Möglichkeit Begründung: a) Beispiele: › 1. a) › › › 1. a) b) a) Beispiele: › › ›  PFLICHTFUNKTION Berechnung der Anzahl der Patienten pro TM-Art P1-130 Berechnung der Anzahl der Patienten pro TM-Art |  | Die Software berechnet bzw. zählt die Gesamtzahl der Patienten Begründung: Für die Berechnung der Statistikwerte zur Erstellung der Jahresstatistik ist es notwendig, dass die Ge- Akzeptanzkriterium: 1. a) b) |
 |  |  |  |  |  |  |
 
-, dass von der KV vergebene Einsender-Pseudo- nym zu erfassen.  Die Datenannahme und e Einsender-Pseudo- nymisierung voraus. Dies ist notwendig, um die Identität des Arztes, der die Jahresstatistik für das TMZ einsendet, gegenüber der KBV zu maskieren, eine anschließende De -Pseudonymisierung durch die zu- ständige KV aber dennoch  zu ermöglichen. Hierfür muss das Einsender-Pseudonym durch die Software erfasst und vorgehalten werden können. Die Software ermöglicht dem Anwender, dass von der KV vergebene Einsender-Pseudonym zu er- fassen und ggf. zu ändern.   a) Die Software verwendet das Einsender 51-8898 20-67HG 17-8H9F im TMZ je Telemonitoring-Art (TM- Art) gemäß den Feld-Nr. 03 bis 06 gem. Tab. 1.  Für die Berechnung der Statistikwerte zur Erstellung der Jahresstatistik ist es notwendig, dass die Ge- samtanzahl der erfassten Patienten im TMZ für den Berichtszeitraum erfasst wird. Die Software berechnet die Gesamtanzahl der Patienten je TM-Art gemäß der Feld-Nr. 03 bis 06 gemäß Tab. 1. a) Die Software berücksichtigt einen Patienten bei der Zählung, falls das entsprechende Feld den Wert „1“ besitzt. Für den Fall, dass die Anzahl der Patienten für eine TM-Art gleich 0 ist, kann die TM-Art in der zu erstellenden csv-Datei entfallen. | PFLICHTFUNKTION | | |
+, dass von der KV vergebene Einsender-Pseudo- nym zu erfassen.  -verarbeitung durch die KVen und durch die KBV setzt ein e Einsender-Pseudo- nymisierung voraus. Dies ist notwendig, um die Identität des Arztes, der die Jahresstatistik für das TMZ einsendet, gegenüber der KBV zu maskieren, eine anschließende De -Pseudonymisierung durch die zu- ständige KV aber dennoch  zu ermöglichen. Hierfür muss das Einsender-Pseudonym durch die Software erfasst und vorgehalten werden können. Die Software ermöglicht dem Anwender, dass von der KV vergebene Einsender-Pseudonym zu er- fassen und ggf. zu ändern.   Die Software verwendet das Einsender -Pseudonym für die Erstellung der Jahresstatistik. 51-8898 20-67HG 17-8H9F im TMZ je Telemonitoring-Art (TM- Art) gemäß den Feld-Nr. 03 bis 06 gem. Tab. 1.  samtanzahl der erfassten Patienten im TMZ für den Berichtszeitraum erfasst wird. Die Software berechnet die Gesamtanzahl der Patienten je TM-Art gemäß der Feld-Nr. 03 bis 06 gemäß Tab. 1. Die Software berücksichtigt einen Patienten bei der Zählung, falls das entsprechende Feld den Wert „1“ besitzt. Für den Fall, dass die Anzahl der Patienten für eine TM-Art gleich 0 ist, kann die TM-Art in der zu erstellenden csv-Datei entfallen. | PFLICHTFUNKTION | | |
 |---|---|---|
 | P1-130 | Berechnung der Anzahl der Patienten pro TM-Art |  |
 
@@ -249,10 +238,10 @@ STELLEN TÄTSPRÜFUNG kompensation im Datenjahr bei Patienten gemäß Feld- Anga
 
 | PFLICHTFUNKTION | P3-100 | Dateinamen der Jahresstatistik |  |  | Die Software erzeugt den Dateinamen der TMZ |
 |---|---|---|---|---|---|
-| Begründung: | Die Bildung des Dateinamens muss nach den | Akzeptanzkriterien: | a) b)  = 4-stellig numerisch (JJJJ) d)  = csv PFLICHTFUNKTION P3-100 Dateinamen der Jahresstatistik    a) b) Akzeptanzkriterien:   b) Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel-  - - -   a) b)  = 4-stellig numerisch (JJJJ) d)  = csv › Beispiel:  › |  | PFLICHTFUNKTION P3-200 Erstellung der Jahresstatistik  Die Software erstellt aus den erfassten behandlungsbezogenen Daten der Patienten Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel-  - - - Dies bedeutet, dass die Software entsprechende Filterkriterien vorweisen muss, mit welchen diese Für den Fall, dass die Anzahl der Patienten für ein Stratum gemäß der Felder 03 bis 06 der Tabelle 1 |
+| Begründung: | Der Dateiname ist nach den vorgegebenen Regeln zu bilden, damit es bei der KV und der KBV zu keinen | Akzeptanzkriterien: | 1. a) b) c) d) e) PFLICHTFUNKTION P3-100 Dateinamen der Jahresstatistik  1. a) b) Akzeptanzkriterien: 1. b) Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - 1. a) b) c) d) e) › Beispiel:  › |  | PFLICHTFUNKTION P3-200 Erstellung der Jahresstatistik  Die Software erstellt aus den erfassten behandlungsbezogenen Daten der Patienten Die Software hat die Jahresstatistik getrennt, in folgende max. vier Strata aufgeteilt gemäß der Fel- - - - - Dies bedeutet, dass die Software entsprechende Filterkriterien vorweisen muss, mit welchen diese Für den Fall, dass die Anzahl der Patienten für ein Stratum gemäß der Felder 03 bis 06 der Tabelle 1 |
 |  |  |  |  |  |  |
 
-sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Der Dateiname ist nach den vorgegebenen Regeln zu bilden, damit es bei der KV und der KBV zu keinen Verwechslungen mit anderen Datenarten kommen kann. Regeln gebildet werden, da Abweichungen des Dateinamens von der Vorgabe zur Ablehnung der An- nahme der Datei führen. 1. Die Software muss den Dateinamen der Jahresstatistik nach dem folgenden Schema erzeugen Satzart>_HI_<Einsender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Satzart = TMZ_HI Einsender_Pseudonym  = 7-stellig alphanumerisch (gemäß P1-110) c) Datenjahr Erstellungsdatum  = 8-stellig numerisch (JJJJMMTT) e) Endung TMZ_HI_17-87H5_2023_20240101.csv Jahresstatik.  dern 03 bis 06 der Tabelle 1 zu erstellen: Telemonitoring mit Implantaten Telemonitoring mit externen Geräten intensiviertes Telemonitoring normales Telemonitoring vier Telemonitoring-Arten identifiziert werden können und auf denen die nachfolgenden Berechnun- gen gem. § 7 Abs. 1 Buchstaben a) bis i) (mit der Berechnung von Medianen und Mittelwerten) erfol- gen können.   ist, müssen die Berechnungen für das betreffende Stratum nicht durchgeführt werden. Das sprechende leere Stratum kann in der zu erstellende csv-Datei entfallen.  -Jahresstatik nach dem Schema Satzart>_HI_<Ein- eine aggregierte ent-| PFLICHTFUNKTION | | |
+sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Verwechslungen mit anderen Datenarten kommen kann. Regeln gebildet werden, da Abweichungen des Dateinamens von der Vorgabe zur Ablehnung der An- nahme der Datei führen. Die Software muss den Dateinamen der Jahresstatistik nach dem folgenden Schema erzeugen Satzart>_HI_<Einsender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Satzart = TMZ_HI Einsender_Pseudonym  = 7-stellig alphanumerisch (gemäß P1-110) Datenjahr  = 4-stellig numerisch (JJJJ) Erstellungsdatum  = 8-stellig numerisch (JJJJMMTT) Endung  = csv TMZ_HI_17-87H5_2023_20240101.csv Jahresstatik.  dern 03 bis 06 der Tabelle 1 zu erstellen: Telemonitoring mit Implantaten Telemonitoring mit externen Geräten intensiviertes Telemonitoring normales Telemonitoring vier Telemonitoring-Arten identifiziert werden können und auf denen die nachfolgenden Berechnun- gen gem. § 7 Abs. 1 Buchstaben a) bis i) (mit der Berechnung von Medianen und Mittelwerten) erfol- gen können.   ist, müssen die Berechnungen für das betreffende Stratum nicht durchgeführt werden. Das sprechende leere Stratum kann in der zu erstellende csv-Datei entfallen.  -Jahresstatik nach dem Schema Satzart>_HI_<Ein- Die Bildung des Dateinamens muss nach den eine aggregierte ent-| PFLICHTFUNKTION | | |
 |---|---|---|
 | P3-100 | Dateinamen der Jahresstatistik |  |
 
@@ -267,27 +256,19 @@ sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Der Dateiname ist nach
 
 - 2. Es wird der Zeichensatz ISO 8859-15 für die Datei verwendet.
 
-- 3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif-
-
-- ten zur Ermittlung der erforderlichen Werte.
+- 3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif- ten zur Ermittlung der erforderlichen Werte.
 
 - 4. Jede eigene Zeile wird durch die Zeichenfolge CarriageReturn/LineFeed (Hexadezimalcode 0x0D  0x0A) abgeschlossen.
 
-- Komma zu verwenden.
-
-- 5. Als Ganzzahltrennzeichen im Dezimalformat ist ein
+- 5. Als Ganzzahltrennzeichen im Dezimalformat ist ein Komma zu verwenden.
 
 - a) Die Darstellung von numerischen und Dezimal -Daten erfolgt ohne Tausender -Punkt und ohne  Auffüllung mit führenden Nullen.
 
-- “ getrennt.
-
-- 6. Einzelne Datenfelder werden durch das Trennzeichen Semikolon -
+- 6. Einzelne Datenfelder werden durch das Trennzeichen Semikolon “ getrennt.
 
 - a) Die Verwendung von Trennzeichen ist für Textfelder zu unterbinden.
 
 - 7. Die Datei enthält immer für jede enthaltene TM-Art gem. den Feld-Nr. 03-06 gem. Tab. 1 genau  eine Zeile (entspricht 4 Zeilen).
-
--
 
 - a) Jede Zeile entspricht den folgenden Vorgaben:
 
@@ -318,10 +299,10 @@ TYP STELLEN ITÄTSPRÜFUNG JAHR der Angabe des Vorjahres des Be- richtsjahres ze
 | FELD-NR. | FELD | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | - 2-stelliger Schlüssel Feld-Nr. 02, ge- |
-| 0.4 | TM_ART | M | nume- | 1 | 1: Telemonitoring mit Im- 2: Telemonitoring mit exter-  4: intensiviertes Telemonito- | 1 oder 2 | Die Feld-Nr. 04 enthält den Wert, Es kann vorkommen, dass Patienten welcher der Patient am längsten |
+| 0.4 | TM_ART | M | nume- | 1 | 1: Telemonitoring mit Im- 2: Telemonitoring mit exter-  4: intensiviertes Telemonito- | oder 3 | Die Feld-Nr. 04 enthält den Wert, Es kann vorkommen, dass Patienten welcher der Patient am längsten |
 | 0.5 | ANZ_PAT | M | nume- | 1-5 | Anzahl der vom TMZ mit Te- P1-130 ) | 34 | maximal fünfstellige Zahl ohne füh- |
 
-BEZEICHNUNG TYP risch risch STELLEN plantaten  nen Geräten 3: normales Telemonitoring lemonitoring versorgten Pa- tienten je TM_Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 (siehe Anforderung oder 3 oder 4 ITÄTSPRÜFUNG folgt von einem Minuszeichen, ge- folgt von einem 4-stelligen alphanu- merischen Zufallskennzeichen welcher die Art des Telemonitorings beschreibt (gem. der Feld-Nr. 03 bis 0.6 der Tab. 1). Die vier verschiede- nen csv-Datenstrings in der jeweili- gen TMZ-Datei ergeben sich aus den Feld-Nr. 03 bis 06 gem. Tab. 1 und werden daraus entsprechend er- zeugt.  in einem Datenjahr sowohl die eine als auch die andere Telemonitoring Art erhalten. In der Jahresstatistik wird die TM-Art ausgewertet, unter während des Datenjahres behandelt wurde. rende Nullen
+BEZEICHNUNG TYP risch risch STELLEN plantaten  nen Geräten 3: normales Telemonitoring lemonitoring versorgten Pa- tienten je TM_Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1 (siehe Anforderung 1 oder 2 oder 4 ITÄTSPRÜFUNG folgt von einem Minuszeichen, ge- folgt von einem 4-stelligen alphanu- merischen Zufallskennzeichen welcher die Art des Telemonitorings beschreibt (gem. der Feld-Nr. 03 bis 0.6 der Tab. 1). Die vier verschiede- nen csv-Datenstrings in der jeweili- gen TMZ-Datei ergeben sich aus den Feld-Nr. 03 bis 06 gem. Tab. 1 und werden daraus entsprechend er- zeugt.  in einem Datenjahr sowohl die eine als auch die andere Telemonitoring Art erhalten. In der Jahresstatistik wird die TM-Art ausgewertet, unter während des Datenjahres behandelt wurde. rende Nullen
 
 ---
 
@@ -334,12 +315,12 @@ TYP STELLEN ITÄTSPRÜFUNG risch denen das TMZ vorüberge- hend die Funktion des
 
 ---
 
-| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER |  | BEISPIEL | HINWEIS / PLAUSIBIL- |
+| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 | 0.8 | MW_PAT_ALTER | M | nume- | Vorkomma: Nachkomma: | Mittelwert des Alters der Pa- Berechnungshinweis:  Die Berechnung des Mittel- | 67.60 67,60 | zweistellige Zahl mit 2 Nachkommas- (es wird kaufmännisch gerundet) |
 | 09 | SD_PAT_ALTER | M | nume- | Vorkomma: Nachkomma: | Standardabweichung des Pa- Berechnungshinweis:  Die Standardabweichungs- | 14.35 14,35 | zweistellige Zahl mit 2 Nachkommas- (es wird kaufmännisch gerundet) |
 
-TYP risch risch STELLEN 1-2, 1-2, BESCHREIBUNG tienten in Jahren, jeweils un- ter Berücksichtigung der TM-Art gemäß der Feld-Nr. 03 bis 06 gem. Tab. 1  werts erfolgt mit den Wer- ten der Feld-Nr. 08 gemäß Tab. 1 unter Berücksichti- gung der Anzahl der Patien- ten der jeweiligen TM-Art gemäß dem Wert aus Feld- Nr. 05 gem. Tab. 2. tientenalters in Jahren für Feld-Nr. 07 gem. Tab. 2 berechnung erfolgt mit den Werten der Feld-Nr. 08 gem. Tab. 1 unter Berücksichti- gung der Anzahl der Patien- ten der jeweiligen TM-Art des Patienten gemäß dem Wert aus Feld-Nr. 05 gem. Tab. 2 ITÄTSPRÜFUNG tellen, ohne führende Nullen tellen, ohne führende Nullen
+TYP risch risch STELLEN 1-2, 1-2, tienten in Jahren, jeweils un- ter Berücksichtigung der TM-Art gemäß der Feld-Nr. 03 bis 06 gem. Tab. 1  werts erfolgt mit den Wer- ten der Feld-Nr. 08 gemäß Tab. 1 unter Berücksichti- gung der Anzahl der Patien- ten der jeweiligen TM-Art gemäß dem Wert aus Feld- Nr. 05 gem. Tab. 2. tientenalters in Jahren für Feld-Nr. 07 gem. Tab. 2 berechnung erfolgt mit den Werten der Feld-Nr. 08 gem. Tab. 1 unter Berücksichti- gung der Anzahl der Patien- ten der jeweiligen TM-Art des Patienten gemäß dem Wert aus Feld-Nr. 05 gem. Tab. 2 ITÄTSPRÜFUNG tellen, ohne führende Nullen tellen, ohne führende Nullen
 
 ---
 
@@ -365,19 +346,19 @@ TYP STELLEN ITÄTSPRÜFUNG Tab. 2  risch Anteils der Tage mit voll- ständiger D
 | FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | unter Berücksichtigung der |
-| 1.4 | MW_ANZ_BNR_PBA | M | nume- | Vorkomma: Nachkomma: | Mittelwert der Anzahl der Berechnungshinweis:  Die Berechnung des Mittel- | 34.56 34,56 | maximal dreistellige Zahl mit 2 (es wird kaufmännisch gerundet) |
-| 1.5 | SD_ANZ_BNR_PBA | M | nume- | Vorkomma: Nachkomma: | Berechnung der Standardab- | 14.53 14,53 | maximal dreistellige Zahl mit 2 (es wird kaufmännisch gerundet) |
+| 1.4 | MW_ANZ_BNR_PBA | M | risch | 1-3, Nachkomma: | Mittelwert der Anzahl der Berechnungshinweis:  Die Berechnung des Mittel- | 34.56 34,56 | Nachkommastellen, ohne führende (es wird kaufmännisch gerundet) |
+| 1.5 | SD_ANZ_BNR_PBA | M | nume- | 1-3, Nachkomma: | Berechnung der Standardab- | 14.53 14,53 | Nachkommastellen, ohne führende (es wird kaufmännisch gerundet) |
 
-TYP STELLEN jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1  Benachrichtigungen an den primär behandelnden Arzt (PBA) unter Berücksichti- gung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. 1-3, risch wertes erfolgt mit den Wer- ten der Feld-Nr. 10 gem. Tab. 1 unter Berücksichti- gung der Anzahl der jeweili- gen TM-Art des Patienten gemäß dem Wert Feld-Nr. risch 1-3, 05 gem. Tab. 2. weichung über die Anzahl der Benachrichtigungen an den primär behandelnden Arzt (PBA) für Feld-Nr. 14 gem. Tab. 2, unter Berück- sichtigung der jeweiligen ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
+TYP STELLEN jeweiligen TM-Art gem. Feld- Nr. 03 bis 06 gem. Tab. 1  Benachrichtigungen an den primär behandelnden Arzt (PBA) unter Berücksichti- gung der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. Vorkomma: 2 wertes erfolgt mit den Wer- ten der Feld-Nr. 10 gem. Tab. 1 unter Berücksichti- gung der Anzahl der jeweili- gen TM-Art des Patienten gemäß dem Wert Feld-Nr. Vorkomma: 2 05 gem. Tab. 2. weichung über die Anzahl der Benachrichtigungen an den primär behandelnden Arzt (PBA) für Feld-Nr. 14 gem. Tab. 2, unter Berück- sichtigung der jeweiligen ITÄTSPRÜFUNG maximal dreistellige Zahl mit 2 Nullen maximal dreistellige Zahl mit 2 Nullen
 
 ---
 
-| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER |  | BEISPIEL | HINWEIS / PLAUSIBIL- |
+| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | TM-Art gem. Feld-Nr. 03 bis Berechnungshinweis:  Die Berechnung der Stan- |
 | 1.6 | ANZ_PAT_STAT_VOR_TMZ | M | nume- | 1-5 | Anzahl der Patienten, die im Berechnungshinweis:  Die Ermittlung des Wertes | 989 | maximal fünfstellige Zahl ohne füh- |
 
-TYP STELLEN BESCHREIBUNG ITÄTSPRÜFUNG 0.6 gem. Tab. 1. dardabweichung erfolgt mit den Werten der Feld-Nr. 10 gemäß Tab. 1 unter Berück- sichtigung der Anzahl der je- weiligen TM-Art des Patien- ten gemäß dem Wert Feld- Nr. 05 gem. Tab. 2. risch  vor Zeitraum eines Jahres Beginn des Telemonitorings mindestens eine stationäre Aufnahme wegen kardialer Dekompensation hatten, gem. Tab. 1, unter Berück- sichtigung der jeweiligen 0.6 gem. Tab. 1 erfolgt durch das Zählen der Werte „1“ aus der Feld 1.1 gemäß Tab. 1 rende Nullen
+TYP STELLEN ITÄTSPRÜFUNG 0.6 gem. Tab. 1. dardabweichung erfolgt mit den Werten der Feld-Nr. 10 gemäß Tab. 1 unter Berück- sichtigung der Anzahl der je- weiligen TM-Art des Patien- ten gemäß dem Wert Feld- Nr. 05 gem. Tab. 2. risch  Zeitraum eines Jahres vor Beginn des Telemonitorings mindestens eine stationäre Aufnahme wegen kardialer Dekompensation hatten, gem. Tab. 1, unter Berück- sichtigung der jeweiligen 0.6 gem. Tab. 1 erfolgt durch das Zählen der Werte „1“ aus der Feld 1.1 gemäß Tab. 1 rende Nullen
 
 ---
 
@@ -390,13 +371,13 @@ TYP STELLEN über die Anzahl der stationä- ren Aufnahmen wegen kar- dialer Deko
 
 ---
 
-| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER |  | BEISPIEL | HINWEIS / PLAUSIBIL- |
+| FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | Die Berechnung des Mittel- |
 | 19 | SD_ANZ_PAT_STAT_VOR_TMZ | M | nume- | Vorkomma: Nachkomma: 2 | Angabe der Standardabwei- Nr. 16  gem. Tab. 2 für Feld- Nr. 18 gemäß Tab. 2. Berechnungshinweis:  Die Berechnung der Stan- | 14.53 14,53 | maximal fünfstellige Zahl mit 2 (es wird kaufmännisch gerundet) |
 | 2.0 | ANZ_PAT_STAT_TMZ | M | nume- | 1-5 | Anzahl der Patienten, die | 533 | maximal fünfstellige Zahl, ohne füh- |
 
-TYP risch  risch  STELLEN 1-5, BESCHREIBUNG wertes erfolgt mit den Wer- ten aus der Feld-Nr. 12 gem. Tab. 1, unter Berücksichti- gung der Anzahl der Patien- ten gemäß dem Wert Feld- Nr. 16 gem. Tab. 2. chung über die Anzahl der stationären Aufnahmen we- gen kardialer Dekompensa- tion bei Patienten gem. Feld- dardabweichung erfolgt mit den Werten der Feld-Nr. 12 gemäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert Feld-Nr. 16 gem. Tab. 2. Berichtszeitraum  mindes- tens eine stationäre Auf- nahme wegen kardialer De- kompensation hatten, unter ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen rende Nullen
+TYP risch  risch  STELLEN 1-5, wertes erfolgt mit den Wer- ten aus der Feld-Nr. 12 gem. Tab. 1, unter Berücksichti- gung der Anzahl der Patien- ten gemäß dem Wert Feld- Nr. 16 gem. Tab. 2. chung über die Anzahl der stationären Aufnahmen we- gen kardialer Dekompensa- tion bei Patienten gem. Feld- dardabweichung erfolgt mit den Werten der Feld-Nr. 12 gemäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert Feld-Nr. 16 gem. Tab. 2. Berichtszeitraum  mindes- tens eine stationäre Auf- nahme wegen kardialer De- kompensation hatten, unter ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen rende Nullen
 
 ---
 
@@ -412,10 +393,10 @@ TYP STELLEN ITÄTSPRÜFUNG gen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1 ans er
 | FELD-NR. | FELDBEZEICHNUNG | FELDART | DATEN- | ANZAHL DER | BESCHREIBUNG | BEISPIEL | HINWEIS / PLAUSIBIL- |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  | 1, unter Berücksichtigung |
-| 2.2 | MW_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma: Nachkomma: | Mittelwert der Anzahl der stationären Aufnahmen we- der Feld-Nr. 20 gem. Tab. 2.; Berechnungshinweis:  Die Berechnung des Mittel- | 102.36 102,36 | maximal fünfstellige Zahl mit 2 (es wird kaufmännisch gerundet) |
+| 2.2 | MW_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma: Nachkomma: | Mittelwert der Anzahl der stationären Aufnahmen we- der Feld-Nr. 20 gem. Tab. 2.; Berechnungshinweis:  Die Berechnung des Mittel- | 102.36 102,36 | Nullen (es wird kaufmännisch gerundet) |
 | 2.3 | SD_ANZ_PAT_STAT_TMZ | M | nume- | Vorkomma: Nachkomma: | Standardabweichung der Anzahl der stationären Auf- ten für gem. der Feldnr. 22 | 14.53 14,53 | maximal fünfstellige Zahl mit 2 (es wird kaufmännisch gerundet) |
 
-TYP STELLEN der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. gen kardialer Dekompensa- tion bei Patienten gemäß unter Berücksichtigung der jeweiligen TM-Art gem. Feld- 1-5, Nr. 03 bis 06 gem. Tab. 1. risch  wertes erfolgt mit den Wer- ten aus der Feld-Nr. 14 ge- mäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert risch  1-5, nahmen wegen kardialer Dekompensation bei Patien- ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nullen Nachkommastellen, ohne führende Nullen
+TYP STELLEN der jeweiligen TM-Art gem. Feld-Nr. 03 bis 06 gem. Tab. 1. gen kardialer Dekompensa- tion bei Patienten gemäß unter Berücksichtigung der jeweiligen TM-Art gem. Feld- 1-5, Nr. 03 bis 06 gem. Tab. 1. risch  wertes erfolgt mit den Wer- ten aus der Feld-Nr. 14 ge- mäß Tab. 1, unter Berück- sichtigung der Anzahl der Patienten gemäß dem Wert risch  1-5, nahmen wegen kardialer Dekompensation bei Patien- ITÄTSPRÜFUNG Nachkommastellen, ohne führende Nachkommastellen, ohne führende
 
 ---
 
@@ -489,4 +470,6 @@ Geschäftsbereich IT in der Versorgung
 
 Tel.: 030 4005-2077
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

@@ -86,18 +86,18 @@ Bitte geben Sie im Folgenden an, welche Client
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
-| ☐ | -Stammdatei |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 [ ]
 
 [ ]
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
 
 Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. Anforderungskatalog  eDMP realisiert.
 
@@ -105,7 +105,7 @@ Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. A
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION JUGENDLICHE |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION JUGENDLICHE LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -114,13 +114,9 @@ Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. A
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
+## - KINDER UND JUGENDLICHE
 
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP
-
-## ADIPOSITAS KINDER UND JUGENDLICHE
-
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ] [ ] NUMMER LT. ANFORDERUNGSKATALOG EDMP ADIPOSITAS - KINDER UND
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] EDMP ADIPOSITAS - KINDER UND
 
 ---
 
@@ -199,8 +195,6 @@ und Jugendliche Rezertifizierung
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-
--
 
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 

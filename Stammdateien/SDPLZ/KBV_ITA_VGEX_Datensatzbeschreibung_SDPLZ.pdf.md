@@ -135,10 +135,10 @@ Kennzeichnung für PLZ-Stammdatei = PLZ
 | 1 | 2 | 3 |  | 4 | 5 |  | 6 | 7 | . | 1 | 2 | 3 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-|  | ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
+| PLZ74_1.202 | mit Beginn des 2. Quartals 2002 eingesetzt werden muss. Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
 |---|---|
 
-PLZ74_1.202 mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird.
+ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die wird.
 
 ---
 
@@ -146,11 +146,11 @@ PLZ74_1.202 mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird.
 
 In einer Satztabelle wird der Aufbau einzelner Sätze definiert. Es werden Anordnung und  Vorkommen der Felder innerhalb eines Satzes festgelegt. Die Felder werden mit einer  “Feldkennung” und einer “Feldbezeichnung” gekennzeichnet.
 
-*Vorkommen* angegeben, wobei die Angabe “n”
+Spalte “Vorkommen”:  Die Häufigkeit des Feldes wird in der Spalte *Vorkommen* angegeben, wobei die Angabe “n”
 
-Spalte “Vorkommen”:  Die Häufigkeit des Feldes wird in der Spalte  diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
+diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird  in der Spalte *Vorkommen* jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
 
-in der Spalte  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 Beispiel:
 
@@ -160,29 +160,23 @@ Beispiel:
 |  | 0150 | 1 | ... | Feld 0150 kann einmal im Satz vorkommen |
 |  | 3116 |  | ... | Feld 3116 kann einmal je Feld 0150 |
 
-Spalte „Feldart“  In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder
+Spalte „Feldart“  In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte *Bedingung* näher spezifiziert werden).
 
-*Bedingung* näher spezifiziert werden).
-
-nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte   Folgende Feldarten werden unterschieden:
+Folgende Feldarten werden unterschieden:
 
 -  **M = unbedingtes Mußfeld**
 
-ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muß dieses Feld
+Ein unbedingtes Mußfeld muß in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* ein mehrfaches bzw. n-faches Auftreten zugelassen sein, so muß dieses Feld
 
-Ein unbedingtes Mußfeld muß in einem Satz vorhanden sein. Sollte in der Spalte  *Vorkommen* mindestens einmal in dem Satz vorkommen.
-
--
+mindestens einmal in dem Satz vorkommen.
 
 -  **m = bedingtes Mußfeld**
 
-Bei einem bedingten Mußfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  ) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
+Bei einem bedingten Mußfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten
 
-*Bedingungen*
+Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Mußfeld muß in einem
 
-*Vorkommen*) gebunden. Ein bedingtes Mußfeld muß in einem
-
-Hierarchiestufe (s. Spalte  Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und
+Satz vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und
 
 erfüllt ist oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
 
@@ -241,9 +235,7 @@ Satz vorhanden sein, wenn entweder in der Spalte  erfüllt ist oder das auf der 
 
 In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-vereinbart, welcher Zeichenvorrat für den Feldinhalt
-
-Zu jedem Feld wird in der Spalte *Typ*
+Zu jedem Feld wird in der Spalte *Typ* vereinbart, welcher Zeichenvorrat für den Feldinhalt
 
 verwendet werden kann. Folgende Typen werden unterschieden:
 
@@ -255,15 +247,11 @@ a
 
 alphanumerische Zeichen
 
-numerische Datumsangaben im Format
-
 d
 
-*TTMMJJJJ*, wobei
+numerische Datumsangaben im Format *TTMMJJJJ*, wobei
 
-*TT* = 01 - 31, *MM* = 01 - 12,
-
-*JJJJ* = 0001 - 9999
+*TT* = 01 - 31, *MM* = 01 - 12, *JJJJ* = 0001 - 9999
 
 In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
@@ -293,18 +281,18 @@ Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei 
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
-| 8000 | Satzart | 4 | a | 505 | PLZ-Headersatz | 2150 |
+| 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
 | 9106 | Verwendeter Zeichensatz | 1 | n | 117 | 3 = ISO 8859-1 | 3 |
 | FK | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren | Beispiele |
 | 68 = Oberpfalz | | | | | | |
-| 8000 | Satzart | 4 | a | 505 | PLZ-Headersatz | 2150 |
+| 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
 | 9106 | Verwendeter Zeichensatz | 1 | n | 117 | 3 = ISO 8859-1 | 3 |
 | 9111 | Gültigkeitsquartal | 5 | n | 016 |  | 22002 |
 | 9212 | Version der | ≤ | a | 031 | PLZ1016.01 | PLZ1016.01 |
 
-Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig plz0 = plz9 = 2150 = PLZ-Endesatz PLZ-Stammsatz Bedeutung
+Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig plz9 = 2150 = PLZ-Headersatz PLZ-Endesatz PLZ-Stammsatz Bedeutung
 
 ---
 
@@ -327,10 +315,10 @@ Folgende Regelklassen lassen sich klassifizieren: 000 – 099 Formatprüfungen
 | Regel- | Kategorie | Prüfung | Erläuterung |
 |---|---|---|---|
 | 016 | Format | QJJJJ | Q = Quartal, JJJJ = Jahr |
-| 031 | Format | [a]aaaMMJJ.nn | [a]aaa = Datenpaketkürzel |
+| 031 | Format | [a]aaaMMJJ.nn | MM = Monat, JJ = Jahr |
 | 117 | erlaubter Inhalt | 3 | verwendeter Zeichensatz |
 | 207 | erlaubter Inhalt | 01-03, 17, 20, 38, 46, 51, 52, 71-73, 74, 78, 83, 88, | KV-Bereich |
 | 505 | erlaubter Inhalt | plz0, plz9, 2150 |  |
 | 507 | erlaubter Inhalt | 01-03, 06-16, 18, 19, 21, 24, 25, 27, 28, 31, 37, 39- | UKV-Kennung bzw. OKV-Kennung bei nicht |
 
-nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 MM = Monat, JJ = Jahr nn = Unterversionsnummer gegliederten KVen
+nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 [a]aaa = Datenpaketkürzel nn = Unterversionsnummer gegliederten KVen

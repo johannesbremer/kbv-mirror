@@ -71,11 +71,11 @@ Prüffall 1 Prüffall 2 Prüffall 3
 
 ---
 
-# ABBILDUNGSVERZEICHNIS 7
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 19
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
-Abbildung 2: Testdatenvalidierung
+Abbildung 2: Testdatenvalidierung 19
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 19
 
@@ -104,13 +104,11 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 ## 1.1 RECHTSGRUNDLAGE
 
-en Verfahren zur Behandlung des benignen Prostatasyndroms (bPS)
+Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zu Nicht-medikamentösen, lokalen Verfahren zur Behandlung des benignen Prostatasyndroms (bPS)
 
-Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zu Nicht-medikamentösen, lokal mittels Holmium-Laser“.
+mittels Holmium-Laser“.
 
-## F
-
-## 1.2 ZERTIFIZIERUNGSABLAU
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
@@ -124,11 +122,11 @@ Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vo
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
 
-- Bei
-
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
 
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
+- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
+
+- Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
 
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
@@ -186,17 +184,13 @@ müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfsch
 
 Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
 
-[PrüffallNr.] _[lfdNr.] .*  1 2.3
+1
 
-1 Nummer des Prüffalls
+2.3
 
-2 Laufende Nr.
+[PrüffallNr.] _[lfdNr.] .*
 
-3 Gängiges Bild- bzw. Videoformat
-
-- “) sind in einem zip-Archiv zu
-
--  Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
+- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
 
 Zert_59_*SystemID*.zip
 
@@ -206,15 +200,23 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ## 1.6 PRÜFVORGABEN
 
-Unterlagen unter Verwendung des
-
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 ### 1.6.1 Prüfstammdaten
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+1 Nummer des Prüffalls
+
+2 Laufende Nr.
+
+3 Gängiges Bild- bzw. Videoformat
+
+- “) sind in einem zip-Archiv zu
+
+Unterlagen unter Verwendung des
+
+verwendet
 
 
 ---
@@ -228,7 +230,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Betriebsstättennummer (BSNR) | 381234511 |
 | (N)BSNR-Bezeichnung: | Praxis Dr. med. Topp-Glücklich |
 | Lebenslange Arztnummer (LANR) | 5553339.67 |
-| Arztname |  |
+| Arztname | Dr. med. Hans Topp-Glücklich, Urologe |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
 | PLZ/Ort | 64283 Darmstadt |
@@ -243,7 +245,6 @@ en den zugehörigen Prüffällen zuzuordnen.
 
 hen Sie dieses
 
-Dr. med. Hans Topp-Glücklich, Urologe
 
 ---
 
@@ -648,14 +649,14 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-2.3 PRÜFFALL 3
+**2.3** **PRÜFFALL 3**
 
 |  |  |
 |---|---|
 | Prüffall-ID | 3 |
 | Testziel | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
-|  | Das Dokumentationsdatum ist der 3 |
-|  | › › |
+| Voraussetzung | Das Dokumentationsdatum ist der 3 |
+| Prüfunterlagen | › › |
 | Hinweis |  |
 
 | KONSTELLATION 4 | |
@@ -666,7 +667,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 50 – 69 ml | 5 |
 | 70 und mehr ml | 5 |
 
-Voraussetzung Prüfunterlagen Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 0.06.2017
+Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 0.06.2017
 
 ---
 

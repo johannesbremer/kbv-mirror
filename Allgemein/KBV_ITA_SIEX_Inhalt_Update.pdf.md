@@ -123,13 +123,13 @@ Kommentierungsversion) Änderungen
 
 | KBV_ITA_FMEX_Softwarevarianten | Nutzung zur Meldung von Softwarevarianten |  |
 |---|---|---|
-| KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | Inhalt zum Update |
+| KBV_ITA_SIEX_Inhalt_Update | Inhaltsverzeichnis | - |
 | KBV_ITA_SIEX_Liesmich_Update | Rundschreiben der KBV | - |
 
 | BLANKOFORMULARE |  |  |
 |---|---|---|
 | Dokument | Erläuterung | Hinweise auf Änderungen |
-| KBV_ITA_AHEX_Kodiertabelle_BFB | - |  |
+| KBV_ITA_AHEX_Kodiertabelle_BFB | „Kodiertabelle von PDF417 |  |
 | KBV_ITA_AHEX_Pruefpaket_BFB | Prüfpaket Blankoformularbedruckung |  |
 | KBV_ITA_FMEX_AAZ_BFB | Antrag auf Zertifizierung für Blankoformularbedruckung |  |
 | KBV_ITA_VGEX_Technisches_Handbuch_BFB | Technisches Handbuch |  |
@@ -145,7 +145,7 @@ Kommentierungsversion) Änderungen
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke im PDF/A-Format und |  |
 | DigitaleMuster.zip | Muster für Digitale Vordrucke im PDF/A-Format |  |
 
-Besonderheiten zum Update „Kodiertabelle von PDF417 von Zervixkarzinomen Codewörtern“ FHIR
+Inhalt zum Update  Besonderheiten zum Update von Zervixkarzinomen Codewörtern“ FHIR
 
 ---
 
@@ -274,8 +274,8 @@ Dokumentation_V2.0.8.pdf Initiale Bereitstellung Initiale Bereitstellung
 
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP | - |
 |---|---|---|
-| EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten |  |
-| EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz |  |
+| EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | - |
+| EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend | Ausfüllanleitung diagnoseübergreifenden allg. Datensatz | - |
 | Adipositas_Erwachsene |  | Inkrafttreten 01.10.2026 |
 | EXT_ITA_AHEX_Anleitung_eDMP_ADERW | Ausfüllanleitung indikationsspezifischer Datensatz Adipositas | - |
 | EXT_ITA_VGEX_Plausi_eDMP_ADERW | Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten | - |
@@ -580,22 +580,22 @@ Einlagen_technische_Hilfen.pdf Ernaehrung.pdf Bedarf_Wohnungsfuersorge.pdf unabw
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDAV | Datensatzbeschreibung SDAV (Arztverzeichnis) |  |
 | SDDA | Stammdatei Datenannahmestellen |  |
 | SDDA_V1.14.zip | Datensatzbeschreibung SDDA (Datenannahmestellen) |  |
-| SDEBM |  |  |
-| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | - |
+| SDEBM | EBM-Stammdatei |  |
+| SDEBM_V1.61.zip | Datensatzbeschreibung SDEBM (EBM-Stammdatei) | Aktualisierung der Schlüsseltabelle |
 | KBV_ITA_SIEX_Codierung_EBM_Zusatznummern | Codierungsziffern zu den Versichertenpauschalen |  |
 | KBV_ITA_SIEX_Codierungstabelle_EBM_Zusatznummern_Narkos | Codierungsziffern zu den EBM Zusatznummern Narkosen |  |
 | GOP_Suffix_tf2026q2_nr1.csv | Mit dieser Datei werden weitere Informationen zu abgleiteten | - |
 | SDHM | Stammdatei Heilmittelkatalog |  |
 | SDHM_V2.10.zip | Datensatzbeschreibung SDHM (Version 2.10) |  |
-| SDHMA |  |  |
+| SDHMA | Stammdatei BVB/LHM |  |
 | SDHMA_V1.30.zip | Datensatzbeschreibung SDHMA |  |
 | SDICD | ICD-10-GM-Stammdatei |  |
 | SDICD_V2.4.0.zip | Datensatzbeschreibung SDICD (ICD-Stammdatei) |  |
-| SDKH |  |  |
+| SDKH | SDKH: Kodierhilfe |  |
 | SDKH_V1.01.zip | Datensatzbeschreibung SDKH (Kodierhilfe Stammdatei) |  |
-| SDKRW |  |  |
+| SDKRW | KRW-Stammdatei |  |
 
-GOPen und deren Bedeutung bereitgestellt (Q2/2026)  Stammdatei BVB/LHM SDKH: Kodierhilfe KRW-Stammdatei Aktualisierung der Schlüsseltabelle S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BAR2_WBO Aktualisierung
+GOPen und deren Bedeutung bereitgestellt (Q2/2026)  S_VDX_VERTRAGSART, S_VDX_KONTENART und S_BAR2_WBO
 
 ---
 
@@ -603,15 +603,15 @@ GOPen und deren Bedeutung bereitgestellt (Q2/2026)  Stammdatei BVB/LHM SDKH: Kod
 |---|---|---|
 | SDKT | Kostenträgerstammdatei |  |
 | SDKT_V1.05.zip | Datensatzbeschreibung KTS (Kostenträgerstammdatei) |  |
-|  |  |  |
+| SDKV | KV-Spezifika-Stammdateien |  |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDKV | Datensatzbeschreibung SDKV (KV-Spezifika-Stammdatei) |  |
-|  |  |  |
+| SDKVCA | Stammdatei Empfängeradressen für KV-Connect |  |
 | SDKVCA_V1.20.zip | Schnittstellenbeschreibung für die SDKVCA |  |
-|  |  |  |
+| SDOPS | Stammdatei der OPS-Kodes |  |
 | SDOPS_V1.00.zip | Datensatzbeschreibung der OPS-Stammdatentabelle |  |
-|  |  |  |
+| SDPLZ | PLZ-Stammdatei |  |
 | KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ | Datensatzbeschreibung SDPLZ (Postleitzahlen) |  |
-|  |  |  |
+| SDVA | SDVA-Stammdatei |  |
 | SDVA_V1.0.zip | Schnittstellenbeschreibung SDVA |  |
 | SDHDRG | SDHDRG-Stammdatei |  |
 | SDHDRG_V2.0.0.zip | Schnittstellenbeschreibung SDHDRG |  |
@@ -622,7 +622,6 @@ GOPen und deren Bedeutung bereitgestellt (Q2/2026)  Stammdatei BVB/LHM SDKH: Kod
 | KBV_ITA_AHEX_Pruefpaket_SMCB | Prüfpaket SMCB |  |
 | KBV_ITA_FMEX_AAZ_SMCB.pdf | Antrag auf Zertifizierung |  |
 
-KV-Spezifika-Stammdateien Stammdatei Empfängeradressen für KV-Connect Stammdatei der OPS-Kodes PLZ-Stammdatei SDVA-Stammdatei
 
 ---
 

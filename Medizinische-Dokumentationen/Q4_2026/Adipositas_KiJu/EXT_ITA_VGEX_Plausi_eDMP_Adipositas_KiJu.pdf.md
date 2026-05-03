@@ -84,18 +84,18 @@ im Alltag seit  der letzten Dokumentation oder zur Aufrechterhaltung der Ernähr
 | Ja / Nein | Pflichtfeld | Genau eine Angabe ist zulässig. |  |
 | Schulung | | | |
 | 6 | Bereits vor Einschreibung in das Ja / Nein | | |
-| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | 7 Adipositas-Schulung |
+| Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer 7 |
 | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig. | 8 Adipositas-Schulung Ja / Nein / War aktuell nicht möglich / |
 |  |  |  | Ernährungsänderung seit |
 | Eine Angabe ist erforderlich, wenn die | Eine Angabe im Rahmen einer | 5 Adäquat geändertes | Ja / Nein Pflichtfeld Genau eine Angabe ist zulässig. |
 | Schulung |  |  | 6 Bereits vor Einschreibung in das |
-| Ja / Nein | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die  7 Adipositas-Schulung |
+| Ja / Nein | Bedingtes Pflichtfeld; | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer 7 |
 | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig. | 8 Adipositas-Schulung |
 |  |  | Ernährungsänderung seit | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
 | 5 | Adäquat geändertes | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig. |
 | Schulung |  | | |
-| 6 | Bereits vor Einschreibung in das | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die |
-| 7 | Adipositas-Schulung | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig. |
+| 6 | Bereits vor Einschreibung in das | Ja / Nein | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer |
+| 7 |  | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig. |
 | 8 | Adipositas-Schulung | Ja / Nein / War aktuell nicht möglich / | Bedingtes Pflichtfeld;  Genau eine Angabe ist zulässig. Eine Angabe ist erforderlich, wenn die |
 |  |  |  | Ernährungsänderung seit |
 | Eine Angabe ist erforderlich, wenn die Eine Angabe im Rahmen einer | 5 Adäquat geändertes | | |

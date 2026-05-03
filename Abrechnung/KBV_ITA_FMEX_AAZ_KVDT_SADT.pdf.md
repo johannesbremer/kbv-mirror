@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.3  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# ABRECHNUNG VON  SCHWANGERSCHAFTSABBRÜCHEN
+# ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNG VON  SCHWANGERSCHAFTSABBRÜCHEN
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_SADT]
 
@@ -79,9 +77,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
-Client-Betriebssysteme unterstützt werden.
-
-Bitte geben Sie im Folgenden an, welche
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -98,7 +94,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 |  |  |
 |---|---|
-| ☐ | g KVDT ist das SADT-Datenpaket realisiert |
+| ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibun |
 | ☐ | Alle für SADT relevanten Pflichtfunktionen des Anforderungskataloges KVDT sind realisiert. |
 
 **2.2** **SATZARTEN**
@@ -124,7 +120,7 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 |  |  |
 |  |  |
 
-[ ] Auf Grundlage der aktuell gültigen Datensatzbeschreibun mit [ ] allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln [ ] [ ] [ ] [ ] [ ] [ ]
+[ ] mit [ ] allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln g KVDT ist das SADT-Datenpaket realisiert [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
@@ -166,10 +162,10 @@ Diese Information ist verpflichtend anzugeben
 
 - (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| SADT | Neu- oder | Sicht- oder | 137,62 [pro Termin] |
-|  | Erweiterungs- | Sicht- oder | 103,22 [pro Satzart] |
+| SADT | Rezertifizierung | Ergebnisprüfung | 137,62 [pro Termin] |
+|  | zertifizierung einer | Ergebnisprüfung | 103,22 [pro Satzart] |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -209,15 +205,15 @@ Diese Information ist verpflichtend anzugeben
 
 -
 
-Rezertifizierung zertifizierung einer neuen Satzart Ergebnisprüfung Ergebnisprüfung
+Neu- oder Erweiterungs- neuen Satzart Sicht- oder Sicht- oder
 
 ---
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-- (6)  Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-- IV. Sonstiges
+- **IV.** **Sonstiges**
 
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und intern stellen, soweit dieses erforderlich ist.
 

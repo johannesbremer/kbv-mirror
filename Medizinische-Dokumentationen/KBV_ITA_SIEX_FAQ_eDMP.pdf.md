@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023 VERSION 1.0 DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# FAQ FÜR SOFTWAREHERSTELLER ZU
-
-# DEN EDMP ANFORDERUNGEN
+# FAQ FÜR SOFTWAREHERSTELLER ZU  DEN EDMP ANFORDERUNGEN
 
 ## [KBV_ITA_SIEX_FAQ_EDMP]
 
@@ -86,35 +84,35 @@ noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinw
 
 ---
 
-### Beispiele: -
+### Beispiele:
 
-- 1. Es liegt ein halbjähriges Dokumentationsintervall vor.  Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben.
+- 1. Es liegt ein halbjähriges Dokumentationsintervall vor.
 
-- die Angabe „Nicht durchgeführt“
+- Der Patient ist bereits seit mehr als 12 Monaten eingeschrieben.
 
 - In der aktuellen und den 2 vorhergehenden Dokumentationen (die erste Dokumentation liegt mehr
 
-- als 12 Monate zurück) ist bei der augenärztlichen Untersuchung -
+- als 12 Monate zurück) ist bei der augenärztlichen Untersuchung die Angabe „Nicht durchgeführt“
 
 - erfolgt.  Es wird eine Hinweismeldung angezeigt.
 
 - 2. Es liegt ein halbjähriges Dokumentationsintervall vor.
 
-- Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da.  augenärztlichen Untersuchung.
+- Der Patient ist nach der Erstuntersuchung das erste Mal zur Folgeuntersuchung da.
 
-- Es erfolgt die Angabe „Nicht durchgeführt“ bei der  Es wird **keine** Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem
+- Es erfolgt die Angabe „Nicht durchgeführt“ bei der augenärztlichen Untersuchung.
 
-- Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren
+- Es wird **keine** Hinweismeldung angezeigt, da der Patient noch nicht 12 Monate vor diesem
 
-- Verlaufsdokumentationen existieren.
+- Dokumentationszeitraum eingeschrieben war und somit auch keine weiteren  Verlaufsdokumentationen existieren.
 
 ## Frage: Warum werden die Zeiträume in den Hinweistexten in Monaten aufgeführt?
 
 ### Antwort der KBV:
 
-spricht den
+Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und entspricht den
 
-Die Angabe von Zeiträumen in Monaten in den Hinweistexten ist sachgerecht und ent Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs bzw. Dokumentationsinhalte.
+Richtlinien. Der Grund dafür ist, dass hier medizinische Inhalte im Vordergrund stehen, nicht Abrechnungs bzw. Dokumentationsinhalte.
 
 **Kontakt:**
 

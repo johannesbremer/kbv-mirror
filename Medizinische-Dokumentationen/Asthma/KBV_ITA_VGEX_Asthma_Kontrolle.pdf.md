@@ -209,11 +209,15 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 
 ---
 
-- A. Feld 1 („In den letzten 4 Wochen: Häufigkeit von Asthma mal wöchentlich“] ODER Feld 1 („In den letzten 4 Wochen: Häufigkeit von Asthma
+- A. Feld 1 („In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber“) = „Häufiger als 2
+
+- mal wöchentlich“] ODER Feld 1 („In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen
 
 - tagsüber“) = „2 mal wöchentlich“ ODER Feld 1 („In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber“) = „1 mal wöchentlich“]
 
-- B. Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatze als 2 mal wöchentlich“ ODER Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der  Bedarfsmedikation“) = „2 mal wöchentlich“ ODER Feld 1a („In den letzten 4 Wochen: Häufigkeit des
+- B. Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation“) = „Häufiger
+
+- als 2 mal wöchentlich“ ODER Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der  Bedarfsmedikation“) = „2 mal wöchentlich“ ODER Feld 1a („In den letzten 4 Wochen: Häufigkeit des
 
 - Einsatzes der Bedarfsmedikation“) = „1 mal wöchentlich“]
 
@@ -231,14 +235,6 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 
 (A UND B UND C UND D)
 
-- Symptomen tagsüber“) = „Häufiger als 2
-
-- s der Bedarfsmedikation“) = „Häufiger -
-
-- -Symptomen
-
--
-
 
 ---
 
@@ -247,7 +243,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen: - **bis < 18 6 Ja
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [DMP-A-RL] | Richtlinie des Gemeinsamen Bundesausschusses zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V DMP-Anforderungen-Richtlinie |
+| [DMP-A-RL] | Richtlinie  zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V DMP-Anforderungen-Richtlinie |
 
 **Ansprechpartner:**
 
@@ -257,4 +253,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung
 
-Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+des Gemeinsamen BundesausschussesHerbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de

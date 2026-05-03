@@ -457,13 +457,13 @@ ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER OSTEOPOROSE BESTEHT:
 |---|---|---|---|---|---|
 | 4.25 | 1.8.06.2024 | KBV | Korrektur des Beispiels (grün  Korrektur der |  | 36,    43 |
 | 4.24 | 1.5.05.2024 | KBV | Anpassung an überarbeitete  Überführung in aktuelles KBV- | Beschluss GBA mit Wirkung | 29, 34, 35, 42, 47ff, 50ff |
-| 4.23 | 26.06.2018 | KBV | Korrekturen |  | 34, 36, |
+| 4.23 | 26.06.2018 | KBV | Korrekturen |  | 42, 43 |
 | 4.22 | 22.05.2018 | KBV | Anpassung an überarbeitete Kapitel 6.1.6 und 6.1.7 in der | Beschluss GBA mit Wirkung | 14ff |
 | 4.20 | 11.12.2017 | KBV | Angleichung der |  |  |
 | 4.00 | 16.10.2013 | KBV | Verwendung des neuen Änderung der Schemaversion | Anpassung des eDoku- |  |
 | 3.00 | 07.05.2012 | KBV | Überarbeitung der Abschnitte, | Die GBA-Richtlinie ersetzt |  |
 
-markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten Format Plausibilitäten Reihenfolge getauscht Versionsnummern von der Schnittstellenbeschreibung und dem Schnittstellenpaket eDoku-Headers: KBV_ITA_VGEX_Schnittstelle_e Header Kapiteln und Parameter. zum 01.10.2024 zum 01.10.2018 Headers an eGK 5.2.0 die RSAV 42, 43
+markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten Format Plausibilitäten Reihenfolge getauscht Versionsnummern von der Schnittstellenbeschreibung und dem Schnittstellenpaket eDoku-Headers: KBV_ITA_VGEX_Schnittstelle_e Header Kapiteln und Parameter. zum 01.10.2024 zum 01.10.2018 Headers an eGK 5.2.0 die RSAV 34, 36,
 
 |  |  |
 |---|---|
@@ -475,19 +475,15 @@ markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten Format Plausi
 
 Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease  Management Programms (DMP) Brustkrebs. Dabei wird auf die Erst-Dokumentation und Folge- Dokumentation eingegangen.
 
-lich für die elektronische Dokumentation benutzt.
-
-Diese Schnittstellenbeschreibung wird ausschließ
+Diese Schnittstellenbeschreibung wird ausschließlich für die elektronische Dokumentation benutzt.
 
 In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte der Dokumentationen  erläutert und es wird erklärt, welcher Schnittstellencode zu erzeugen ist. Es wird erläutert, wie sich die
 
 Eintragungen zur Erst-Dokumentation (ED) und Folge-Dokumentation (FD) Brustkrebs im XML-Code  widerspiegeln.
 
--Dokumentation zweimal abzugeben: Erstmalig bei der
+Es besteht die Möglichkeit für den Arzt, die Erst-Dokumentation zweimal abzugeben: Erstmalig bei der
 
-Es besteht die Möglichkeit für den Arzt, die Erst Einschreibung der Patientin in das DMP-Programm. Für den Fall, dass danach die Operation erfolgte,  -Dokumentation Brustkrebs nachgereicht werden.
-
-können die Angaben zur Operation in einer zweiten Erst
+Einschreibung der Patientin in das DMP-Programm. Für den Fall, dass danach die Operation erfolgte,  können die Angaben zur Operation in einer zweiten Erst-Dokumentation Brustkrebs nachgereicht werden.
 
 Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüllvarianten abbildbar sind. Dies
 
@@ -497,13 +493,13 @@ eingesetzt werden. Nur formal und inhaltlich korrekte Daten dürfen übermittelt
 
 Die Regeln zur Plausibilisierung sind in den jeweiligen Plausibilitätskatalogen zum DMP  Brustkrebs zu
 
-bilitätskataloge sind die Spitzenverbände
+entnehmen. Herausgeber und Verantwortlicher für diese Plausibilitätskataloge sind die Spitzenverbände
 
-entnehmen. Herausgeber und Verantwortlicher für diese Plausi der Krankenkassen [52].
+der Krankenkassen [52].
 
-HL7-Schemata und die KBV-Prüfschemata
+Die XML-Dateien werden gegen die durch die KBV erweiterten HL7-Schemata und die KBV-Prüfschemata
 
-Die XML-Dateien werden gegen die durch die KBV erweiterten  *DMP_Brustkrebs_ED.xsd* und *DMP_Brustkrebs_FD.xsd* geprüft. Erst danach kann gesagt werden, ob eine
+*DMP_Brustkrebs_ED.xsd* und *DMP_Brustkrebs_FD.xsd* geprüft. Erst danach kann gesagt werden, ob eine
 
 Datei und somit die Erst- bzw. Folge-Dokumentation fehlerfrei ist.
 
@@ -517,17 +513,11 @@ Datei und somit die Erst- bzw. Folge-Dokumentation fehlerfrei ist.
 
 Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradokument  beschrieben [KBV_ITA_VGEX_XML-Schnittstellen].
 
-Dokumentation Brustkrebs“
-
 Für den Dateinamen einer einzelnen XML-Datei, welche die Daten der „Erst
 
 enthalten soll, ist folgendes festgelegt: - Das Präfix setzt sich aus
 
--
-
-- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen
-
-- Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen) - der DMP-Fallnummer
+- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9 Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen) - der DMP-Fallnummer
 
 - und dem Datum (Kopfdaten)
 
@@ -539,15 +529,21 @@ zusammen.
 
 Es sind die folgenden Suffixkonventionen festgelegt:
 
-- Für die Erstdokumentation: E - **F**olgedokumentation: F
+- Für die Erstdokumentation: E
 
--  Für die
+- Für die** F**olgedokumentation: F
 
-- Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für Brustkrebs: BK
+- Gefolgt von zwei Buchstaben für die Kennzeichnung des DMP für
 
 Beispiele: - 123456789_123_20210701.EBK
 
 - 123456789_123_20211001.FBK
+
+Dokumentation Brustkrebs“
+
+- -stelligen
+
+- Brustkrebs: BK
 
 |  |  |
 |---|---|
@@ -662,11 +658,7 @@ Spezifikation erlaubt nur innerhalb der Attributwerte nicht erlaubt. -Spezifikat
 
 ---
 
-Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Header“ [
-
-Dokument „Schnittstellenbeschreibung DMP
-
-KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
+Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP Header“ [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
 
 Die Struktur des Elements <body> wird in Kapitel 5 erläutert.
 
@@ -711,25 +703,19 @@ Das <section>-Element setzt sich aus sieben<paragraph>-Elementen zusammen. Ein <
 
 **Abbildung 3:** Grundstruktur section (ED)
 
-Eine Sektion enthält die Abschnitte: „Einschreibung“, „Anamnese und Behandlungsstatus des
+Eine Sektion enthält die Abschnitte: „Einschreibung“, „Anamnese und Behandlungsstatus des  Primärtumors/kontralateralen Brustkrebses“, „Aktueller Befundstatus des Primärtumors/kontralateralen  Brustkrebses“, „Behandlung des Primärtumors/kontralateralen Brustkrebses“, Befunde und Therapie von
 
-krebses“,
+Fernmetastasen „Sonstige Befunde“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-
 
-Primärtumors/kontralateralen Brustkrebses“, „Aktueller Befundstatus des Primärtumors/kontralateralen  Brustkrebses“, „Behandlung des Primärtumors/kontralateralen Brust
-
-Befunde und Therapie von
-
-„Sonstige Befunde“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-
-
-Fernmetastasen Element untergebracht sind.
+Element untergebracht sind.
 
 ### 5.1.1 caption
 
--Block> weggelassen. Die content-Elemente der einzelnen Abschnitte
-
 Zu jedem <paragraph>-Element muss ein Kindelement <caption> mit der Abschnittsüberschrift und ein
 
-Kindelement <content> mit den konkreten Daten übertragen werden. Enthält ein Abschnitt keine Daten, so  wird der entsprechende <paragraph werden in den nächsten Kapiteln erläutert.
+Kindelement <content> mit den konkreten Daten übertragen werden. Enthält ein Abschnitt keine Daten, so  wird der entsprechende <paragraph-Block> weggelassen. Die content-Elemente der einzelnen Abschnitte
+
+werden in den nächsten Kapiteln erläutert.
 
 Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element section wie folgt aus.
 
@@ -750,29 +736,23 @@ Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Elemen
 
 ---
 
-### 5.1.2 content -ssu angegeben. Das Element
+### 5.1.2 content
 
-Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox *ignore* und *descriptor*. Das Attribut  hat den festen
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element
 
-<local_markup> hat die erforderlichen Attribute
-
-*ignore*
+<local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen
 
 Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut
 
 der feste Wert „sciphox“ vorgeschrieben.
 
-Für die Darstellung von Daten des Brustkrebses (Erst- und Folgedokumentation) in XML wird ausschließlich  verwendet. Das Element <sciphox-ssu> hat drei Attribute, die mit den festen
-
-die Sciphox-SSU *observation*
+Für die Darstellung von Daten des Brustkrebses (Erst- und Folgedokumentation) in XML wird ausschließlich  die Sciphox-SSU *observation* verwendet. Das Element <sciphox-ssu> hat drei Attribute, die mit den festen
 
 Werten vorbelegt sind: *type* =“observation“, *country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass
 
 die Sciphox-SSU *observation* in Version v1 verwendet wird. Der Coderahmen für das Element <content> mit
 
-sieht demnach folgendermaßen aus
-
-Sciphox-SSU *observation*
+Sciphox-SSU *observation* sieht demnach folgendermaßen aus
 
 | <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">    </content> |
 |---|
@@ -781,13 +761,11 @@ Sciphox-SSU *observation*
 
 ### 5.1.3 Sciphox-SSU observation
 
-<sciphox:Beobachtungen>, das mehrere
+Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere
 
-Das Element <sciphox-ssu> (observation) enthält das Kindelement  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox:Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,
+Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox:Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Lokalisation>, <sciphox:Ergebnistext>, <sciphox:Normbereich>, <sciphox:Zeitpunkt_dttm> und  <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter> Element muss mindestens eins  dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem  bestimmten Parameter gemacht wurden, wird der komplette <sciphox:Beobachtung>-Block mit dem
 
-<sciphox:Beobachtung>-Block mit dem
-
-<sciphox:Lokalisation>, <sciphox:Ergebnistext>, <sciphox:Normbereich>, <sciphox:Zeitpunkt_dttm> und  <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter> Element muss mindestens eins  dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem  bestimmten Parameter gemacht wurden, wird der komplette  jeweiligen Parameter weggelassen. Die Angabe einer <sciphox:Beobachtung> mit nur einem Element
+jeweiligen Parameter weggelassen. Die Angabe einer <sciphox:Beobachtung> mit nur einem Element
 
 <sciphox:Parameter> ist nicht zulässig.
 
@@ -810,47 +788,53 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 ### Parameter
 
-*DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die
 
-Das Element <Parameter> enthält nur das  (z.B. „Primärtumor Datum der histologischen Sicherung“), zu welchen eine Angabe gemacht werden muss,
+(z.B. „Primärtumor Datum der histologischen Sicherung“), zu welchen eine Angabe gemacht werden muss,
 
-angegeben. Die einzelnen Angaben werden im jeweiligen Element <Ergebnistext>, <Ergebniswert>,
+angegeben. Die einzelnen Angaben werden im jeweiligen Element  <Normbereich> und <Zeitpunkt_dttm> untergebracht.
 
-<Normbereich> und <Zeitpunkt_dttm> untergebracht.
-
-*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*
-
-*den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
+*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML* *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 6:** Parameter
 
 ### Ergebnistext
 
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
+Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
-Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code
-
-zum Element <Ergebnistext> sieht folgendermaßen aus:
-
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
+
+*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
 
 **XML-Code 7:** Ergebnistext
 
 ### Ergebniswert
 
-*V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
+Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
 
-Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als
+Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im
 
-Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)
+Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNI
 
-<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen> <sciphox:Parameter DN="..."/> </sciphox:Beobachtung> <sciphox:Ergebnistext V="..."/> ... </sciphox:Beobachtung>eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+
+Parameter aus dem Datensatz
+
+<Ergebnistext>, <Ergebniswert>,
+
+*-Schnittstelle 1:1 aus*
+
+*V-*Attribut, angegeben. Der XML-Code
+
+*V-*Attribut, angegeben. Als
+
+<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ...T) wird die Einheit (z.B. „m“)
 
 |  |  |
 |---|---|
@@ -858,44 +842,38 @@ Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird d
 
 ---
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
 
 ### Lokalisation
 
--Code zum Element <Lokalisation> sieht
+Das Element <Lokalisation> enthält nur das V-Attribut. In diesem Element wird die Position eines  Körperteils (z.B. „rechts“ bzw. „links“) angegeben. Der XML-Code zum Element <Lokalisation> sieht
 
-Das Element <Lokalisation> enthält nur das V-Attribut. In diesem Element wird die Position eines  Körperteils (z.B. „rechts“ bzw. „links“) angegeben. Der XML folgendermaßen aus:
+folgendermaßen aus:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 9:** Lokalisation
 
 ### Normbereich
 
-<Obergrenze> verwendet. Weitere
+In diesem Element wird der Normbereich (z.B. obere und/oder untere Wertgrenze) zu einem Wert  angegeben. Um die Obergrenze anzugeben, wird das Kindelement  Kindelemente wie <Untergrenze> werden nicht benutzt, daher enthält das Pflicht-Kindelement <Obergrenze>.
 
-In diesem Element wird der Normbereich (z.B. obere und/oder untere Wertgrenze) zu einem Wert  angegeben. Um die Obergrenze anzugeben, wird das Kindelement  Kindelemente wie <Untergrenze> werden nicht benutzt, daher enthält das Element <Normbereich> nur das
+Das Element <Obergrenze> enthält das *V*-, das *DN*- und das *U*-Attribut, die zwingend erforderlich sind. Das
 
-Pflicht-Kindelement <Obergrenze>.
-
-*V*-, das *DN*- und das *U*-Attribut, die zwingend erforderlich sind. Das
-
-Das Element <Obergrenze> enthält das  *DN*- und das *U* Attribut sind mit festen Werten vorbelegt: DN=“oberer Normwert des Labors“, U=“ “. Der
+*DN*- und das *U* Attribut sind mit festen Werten vorbelegt: DN=“
 
 XML-Code zum Element <Normbereich> sieht folgendermaßen aus:
 
-| <sciphox:Beobachtung>    …        </  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>            </  </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 10:** Normbereich
 
 ### Zeitpunkt_dttm
-
-Das
 
 Das Element <Zeitpunkt_dttm> enthält das V-Attribut, in das ein Datum eingetragen werden kann.  Datumsformat entspricht dem Pattern: JJJJ-MM-TT, JJ-MM oder nur JJJJ. Wobei J=Jahr, M=Monat und
 
@@ -904,7 +882,13 @@ T=Tag entsprechen. Der XML-Code zum Element <Zeitpunkt_dttm> sieht folgendermaß
 | <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 |---|
 
-<sciphox:Ergebniswert V="..." U="..."/> </sciphox:Beobachtung> <sciphox:Lokalisation V="..."/> </sciphox:Beobachtung> <sciphox:Normbereich> " U %" DN oberer Normwert des Labors"/> <sciphox:Obergrenze V =" sciphox:Normbereich <sciphox:Zeitpunkt_dttm V="..."/>|  |  |
+<Obergrenze> verwendet. Weitere  Element <Normbereich> nur das
+
+oberer Normwert des Labors“, U=“ “. Der
+
+<sciphox:Ergebniswert V="..." U="..."/> <sciphox:Lokalisation V="..."/> <sciphox:Normbereich> <sciphox:Obergrenze V =" " U %" DN oberer Normwert des Labors"/> sciphox:Normbereich <sciphox:Zeitpunkt_dttm V="..."/>Das
+
+|  |  |
 |---|---|
 
 
@@ -938,7 +922,7 @@ beschrieben.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>      <sciphox:Beobachtungen>    …      …    "/>  …      …      </content> |
+| <content>      <sciphox:Beobachtungen>    …      …      …      …      </content> |
 |---|
 
 **XML-Code 12:** content (Einschreibung) (ED)
@@ -947,7 +931,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Das Element <sciphox:Beobachtung> hat als Kindelemente das Element  konstanten Wert „Primärtumor Datum der histologischen Sicherung“ und ein Element  <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup><sciphox:Parameter> mit dem
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen "/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup><sciphox:Parameter> mit dem
 
 |  |  |
 |---|---|
@@ -957,14 +941,12 @@ Das Element <sciphox:Beobachtung> hat als Kindelemente das Element  konstanten W
 
 Es gilt folgender Coderahmen.
 
-|  |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13:** Primärtumor Datum der histologischen Sicherung (ED)
 
 ### Kontralateraler Brustkrebs Datum der histologischen Sicherung
-
-Sicherung“ und ein Element
 
 Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Kontralateraler Brustkrebs Datum der histologischen
 
@@ -972,48 +954,46 @@ Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Para
 
 Es gilt folgender Coderahmen.
 
-|  |
+Sicherung“ und ein Element
+
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14:** Kontralateraler Brustkrebs Datum der histologischen Sicherung (ED)
 
 ### Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
-Sicherung“ und ein Element
-
 Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Lokoregionäres Rezidiv Datum der histologischen
-
-das Element
 
 <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt  <sciphox:Beobachtung>.
 
 Es gilt folgender Coderahmen.
 
-|  |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15:** Lokoregionäres Rezidiv Datum der histologischen Sicherung (ED)
 
 ### Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen
 
-Fernmetastasen
-
-Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem
-
-konstanten Wert „
-
-Datum der diagnostischen Sicherung von Fernmetastasen“ und ein
+Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit d konstanten Wert „Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen“ und ein
 
 Element <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Es gilt folgender Coderahmen.
 
-|  |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 16:** Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen (ED)
+**XML-Code 16:** Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung "/> <sciphox:Zeitpunkt_dttm V=" "/> </sciphox:Beobachtung> <sciphox:Beobachtung> Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen "/> <sciphox:Parameter DN=" <sciphox:Zeitpunkt_dttm V=" "/> </sciphox:Beobachtung>|  |  |
+Sicherung“ und ein Element  das Element
+
+em
+
+<sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen <sciphox:Zeitpunkt_dttm V=" "/> Sicherung"/> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung <sciphox:Zeitpunkt_dttm V=" "/> "/> <sciphox:Parameter DN=" Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen <sciphox:Zeitpunkt_dttm V=" "/> "/>(ED)
+
+|  |  |
 |---|---|
 
 
@@ -1021,37 +1001,35 @@ Es gilt folgender Coderahmen.
 
 ### 5.1.5 Abschnitt „Anamnese und Behandlungsstatus des Primärtumors/kontralateralen Brustkrebses
 
-Anamnese und Behandlungsstatus des
+Dieses Kapitel beschreibt den Abschnitt Anamnese und Behandlungsstatus des
 
-Dieses Kapitel beschreibt den Abschnitt  Primärtumors/kontralateralen Brustkrebses
+Primärtumors/kontralateralen Brustkrebses
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-Im Element <content> wird die Sciphox-SSU  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Beobachtungen> enthält maximal ein Kindelement <sciphox:Beobachtung> mit dem fest  vorgegebenen <sciphox:Parameter>-Element: Operative Therapie. Wird keine Angabe zu diesem Parameter
-
-gemacht, entfällt der Abschnitt.
+<sciphox:Beobachtungen> enthält maximal ein Kindelement <sciphox:Beobachtung> mit dem fest  vorgegebenen <sciphox:Parameter>-Element: Operative Therapie. Wird keine Angabe zu diesem Parameter  gemacht, entfällt der Abschnitt.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>             </content> |
+| <content>     <sciphox:Beobachtungen>        </content> |
 |---|
 
 **XML-Code 17:** Anamnese und Behandlungsstatus des Primärtumors/kontralateralen Brustkrebses (ED)
 
 ### Operative Therapie
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
 
-Bei diesem Parameter enthält das Element  Tabelle 5. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu diesem  Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+Tabelle 5. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu diesem  Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Operative Therapie"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Operative Therapie"/> <sciphox:Ergebnistext V="OP geplant"/>**XML-Code 18:** Operative Therapie (ED)
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Operative Therapie"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Operative Therapie"/> <sciphox:Ergebnistext V="OP geplant"/>**XML-Code 18:** Operative Therapie (ED)
 
 |  |  |
 |---|---|
@@ -1069,35 +1047,25 @@ Als Beispiel sei hier folgender Code angegeben:
 | OP geplant |
 | OP nicht geplant |
 
-Werte bei Ergebnistext (Operative Therapie ) (ED)
+**Tabelle 5:** Werte bei Ergebnistext (Operative Therapie ) (ED)
 
-**Tabelle 5:**
-
-### Abschnitt „
-
-###
-
-### 5.1.6
-
-### Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses
+### 5.1.6 Abschnitt „Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses
 
 Dieses Kapitel beschreibt den Abschnitt „Aktueller Befundstatus des Primärtumors/kontralateralen
 
 Brustkrebses
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation*
 
-5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  TNM-Klassifizierung“, „T“, „N“, „M“,
-
-vorgegebenen <sciphox:Parameter>-Elementen:
-
-re [IRS])“
-
-„Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Sco
+5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen:  „Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Sco
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
+
+TNM-Klassifizierung“, „T“, „N“, „M“,
+
+re [IRS])“
 
 |  |  |
 |---|---|
@@ -1139,8 +1107,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### T
 
-*V*-Attribut die Feldbezeichnung
-
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 7.
 
 Als Beispiel sei hier folgender Code angegeben:
@@ -1148,11 +1114,9 @@ Als Beispiel sei hier folgender Code angegeben:
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-T (ED)
+**XML-Code 21:** T (ED)
 
-**XML-Code 21:**
-
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Tis |
 | 0 |
@@ -1166,13 +1130,11 @@ T (ED)
 
 ### N
 
-*V*-Attribut die Feldbezeichnung
-
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 8.
 
 Als Beispiel sei hier folgender Code angegeben
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 22:** N (ED)
@@ -1184,7 +1146,11 @@ Als Beispiel sei hier folgender Code angegeben
 | 2 |
 | 3 |
 
-<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>|  |  |
+*V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>*V*-Attribut die Feldbezeichnung
+
+|  |  |
 |---|---|
 
 
@@ -1197,13 +1163,11 @@ Als Beispiel sei hier folgender Code angegeben
 
 ### M
 
-*V*-Attribut die Feldbezeichnung
-
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 9.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 23:** M (ED)
@@ -1217,13 +1181,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS]
 
-*V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 10.
+gemäß Tabelle 10.
 
 Als Beispiel sei hier folgender Code angegeben
 
-| "/>   </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>  "/>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 24:** Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver
@@ -1240,13 +1204,15 @@ Score [IRS]) (ED)
 
 (gemäß Immunreaktiver Score [IRS]" )) (ED)
 
-### Behandlung des Primärtumors/kontralateralen Brustkrebses
+### 5.1.7 Abschnitt „Behandlung des Primärtumors/kontralateralen Brustkrebses
 
-### 5.1.7 Abschnitt „
+Dieses Kapitel beschreibt den Abschnitt Behandlung des Primärtumors/kontralateralen Brustkrebses
 
-<sciphox:Parameter DN="M"/> <sciphox:Ergebnistext V="1"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS]) <sciphox:Ergebnistext V="Positiv"/>Dieses Kapitel beschreibt den Abschnitt Behandlung des Primärtumors/kontralateralen Brustkrebses
+*V*-Attribut die Feldbezeichnung
 
-|  |  |
+*V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN="M"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS]) <sciphox:Ergebnistext V="Positiv"/>|  |  |
 |---|---|
 
 
@@ -1256,15 +1222,13 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Beobachtungen> enthält maximal vier Kindelemente <sciphox:Beobachtung> mit den jeweils fest  „Aktuelle adjuvante endokrine Therapie“,
+<sciphox:Beobachtungen> enthält maximal vier Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Aktuelle adjuvante endokrine Therapie“,
 
-vorgegebenen <sciphox:Parameter>-Elementen:  „Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie“, „Fortführung der adjuvanten  endokrinen Therapie“ und “Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern  töse Therapie einer Osteoporose besteht: DXA Befund“.
-
-die Absicht für eine spezifische medikamen
+„Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie“, „Fortführung der adjuvanten  endokrinen Therapie“ und “Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern  die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA Befund“.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>        "/>               -Befund"/>       </local_markup> </content> |
+| <content>     <sciphox:Beobachtungen>   "/>               Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA       </local_markup> </content> |
 |---|
 
 **XML-Code 25:** content (Behandlung des Primärtumors/kontralateralen Brustkrebses ) (ED)
@@ -1273,24 +1237,24 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  erden. Wird keine Angabe zu
+gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu
 
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben w diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> "/>  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 26:** Aktuelle adjuvante endokrine Therapie (ED)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Aromataseinhibitoren |
 | Tamoxifen |
 | Andere |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie <sciphox:Ergebnistext V="Andere"/> Wert bei Ergebnistext (V="...")|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die -Befund"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie "/> <sciphox:Ergebnistext V="Andere"/>|  |  |
 |---|---|
 
 
@@ -1310,14 +1274,14 @@ Bei diesem Parameter enthält das Element  gemäß Tabelle 12. Wird keine Angabe
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 <sciphox:Ergebnistext> im
 
 **XML-Code 27**: Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie (ED)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Nein |
 | nicht belastend |
@@ -1341,10 +1305,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie <sciphox:Ergebnistext V="Nein"/> "/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Regulär nach 5 Jahren abgeschlossen"/> </sciphox:Beobachtung>**XML-Code 28**: Fortführung der adjuvanten endokrinen Therapie (ED)
+<sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie <sciphox:Ergebnistext V="Nein"/> "/> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Regulär nach 5 Jahren abgeschlossen"/>**XML-Code 28**: Fortführung der adjuvanten endokrinen Therapie (ED)
 
 |  |  |
 |---|---|
@@ -1352,12 +1316,12 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ---
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Vor dem abgeschlossenen 5. Jahr |
 | Regulär nach 5 fünf Jahren abgeschlossen |
-|  |
-| 5 fünf |
+| Aktuell andauernd, seit weniger als 5 Jahren |
+| Aktuell andauernd, Fortführung über |
 | Keine endokrine Therapie durchgeführt |
 
 **Tabelle 13:** Werte bei Ergebnistext ( Fortführung der adjuvanten endokrinen Therapie ) (ED)
@@ -1370,14 +1334,14 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 29**: Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren
 
 Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Auffällig |
 | Unauffällig |
@@ -1399,7 +1363,7 @@ Dieses Kapitel beschreibt den Abschnitt Befunde und Therapie von Fernmetastasen
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-Wert bei Ergebnistext (V="...") abgebrochen Aktuell andauernd, seit weniger als 5 Jahren Aktuell andauernd, Fortführung über Jahre hinaus <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/> Wert bei Ergebnistext (V="...")5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
 |  |  |
 |---|---|
@@ -1413,29 +1377,29 @@ Knochenmetastasen (Bisphosphonate)“ und „Therapie bei Knochenmetastasen (Den
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>                     </content> |
+| <content>     <sciphox:Beobachtungen>                </content> |
 |---|
 
-) (ED)
-
-**XML-Code 30:** content (Befunde und Therapie von Fernmetastasen
+**XML-Code 30:** content (Befunde und Therapie von Fernmetastasen) (ED)
 
 ### Lokalisation von Fernmetastasen
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Wird keine Angabe zu
+gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
 
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu
+
+diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> “/>  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 31:** Lokalisation von Fernmetastasen (ED)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | viszeral |
 | ZNS |
@@ -1444,7 +1408,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 15:** Werte bei Ergebnistext ( Lokalisation von Fernmetastasen ) (ED)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Lokalisation von Fernmetastasen <sciphox:Ergebnistext V="Knochen"/> Wert bei Ergebnistext (V="...")|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Lokalisation von Fernmetastasen “/> <sciphox:Ergebnistext V="Knochen"/> |  |  |
 |---|---|
 
 
@@ -1460,7 +1424,7 @@ diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 32:** Therapie bei Knochenmetastasen (Bisphosphonate) (ED)
@@ -1502,7 +1466,7 @@ rden. Wird keine Angabe zu
 
 **Tabelle 17:** Werte bei Ergebnistext ( Therapie bei Knochenmetastasen (Denosumab)
 
-<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> ) (ED)
+<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> ) (ED)
 
 |  |  |
 |---|---|
@@ -1570,7 +1534,7 @@ gemäß Tabelle 19. Wird keine Angabe zu diesem Parameter gemacht, entfällt das
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> abgegeben"/> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 36**: Empfehlung zu regelmäßigem körperlichen Training abgegeben (ED)
@@ -1586,26 +1550,24 @@ abgegeben) (ED)
 
 ### Z. n. besonders kardiotoxischer Tumortherapie
 
-*V*-Attribut die Feldbezeichnung
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 37:** Z. n. besonders kardiotoxischer Tumortherapie (ED)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Anthrazykline (Doxorubicin, Epirubicin) |
 | Trastuzumab Anti-HER2-Substanzen |
 | linksthorakale Bestrahlung |
 
-erforderlich <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> Wert bei Ergebnistext (V="...")|  |  |
+erforderlich <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> |  |  |
 |---|---|
 
 
@@ -1615,15 +1577,11 @@ erforderlich <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen T
 |---|
 | Nein |
 
-) (ED)
-
 **Tabelle 20:** Werte bei Ergebnistext ( Z. n. besonders kardiotoxischer Tumortherapie
 
 ### Körpergröße
 
-<sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im
-
-Bei diesem Parameter enthält das Element  *U*-Attribut den fest vorgeschriebenen Wert „cm“
+Bei diesem Parameter enthält das Element  *U*-Attribut den fest vorgeschriebenen Wert „
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1634,14 +1592,22 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Körpergewicht
 
-<sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und
-
-Bei diesem Parameter enthält das Element  im *U* Attribut den fest vorgeschriebenen Wert „kg“.
+Bei diesem Parameter enthält das Element  im *U* Attribut den fest vorgeschriebenen Wert „
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
+
+) (ED)
+
+<sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im
+
+cm“
+
+<sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und
+
+kg“.
 
 **XML-Code 39:** Körpergewicht (ED)
 
@@ -1670,13 +1636,11 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Dokumentationsintervall
 
-*V*-Attribut die Feldbezeichnung
-
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 21.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 41**: Dokumentationsintervall (ED)
@@ -1686,11 +1650,11 @@ Als Beispiel sei hier folgender Code angegeben:
 | Halbjährlich oder häufiger |
 | Jährlich |
 
-Werte bei Ergebnistext (Dokumentationsintervall) (ED)
+*V*-Attribut die Feldbezeichnung
 
-**Tabelle 21:**
+**Tabelle 21:** Werte bei Ergebnistext (Dokumentationsintervall) (ED)
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/>
+<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/>
 
 |  |  |
 |---|---|
@@ -1700,13 +1664,11 @@ Werte bei Ergebnistext (Dokumentationsintervall) (ED)
 
 # 6 BODY DER FOLGEDOKUMENTATION
 
-der „Folge Dokumentation“ erläutert. Die Beschriftungen der
+In diesem Kapitel wird der Aufbau des bodys der „Folge Dokumentation“ erläutert. Die Beschriftungen der
 
-In diesem Kapitel wird der Aufbau des bodys
+Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur besseren Übersicht in den
 
-sseren Übersicht in den
-
-Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur be Verzeichnissen das in Klammern gesetzte Kürzel FD für Folge-Dokumentation. Im Element <body> der XML-
+Verzeichnissen das in Klammern gesetzte Kürzel FD für Folge-Dokumentation. Im Element <body> der XML-
 
 Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein
 
@@ -1718,31 +1680,25 @@ Das <section>-Element setzt sich aus sechs <paragraph>-Elementen zusammen. Ein <
 
 **Abbildung 5:** Grundstruktur section (FD)
 
-„Einschreibung erfolgte wegen“, „Behandlungsstatus nach operativer
+Eine Sektion enthält die Abschnitte: „Einschreibung erfolgte wegen“, „Behandlungsstatus nach operativer
 
-Eine Sektion enthält die Abschnitte:  Therapie des Primärtumors/kontralateralen Brustkrebses (adjuvante Therapie)“, „Seit der letzten  „Sonstige Befunde „Behandlung bei fortgeschrittener
+Therapie des Primärtumors/kontralateralen Brustkrebses (adjuvante Therapie)“, „Seit der letzten  Dokumentation neu aufgetretene Ereignisse“, „Sonstige Befunde „Behandlung bei fortgeschrittener
 
-Dokumentation neu aufgetretene Ereignisse“,
-
-und „Behandlungsplanung“
-
-Erkrankung (lokoregionäres Rezidiv/Fernmetastasen
-
-, die jeweils in einem
+Erkrankung (lokoregionäres Rezidiv/Fernmetastasen und „Behandlungsplanung“, die jeweils in einem
 
 <paragraph>-Element untergebracht sind.
 
 ### 6.1.1 caption
 
-r Abschnittsüberschrift und ein
+Zu jedem <paragraph>-Element muss ein Kindelement <caption> mit der Abschnittsüberschrift und ein
 
-Zu jedem <paragraph>-Element muss ein Kindelement <caption> mit de Kindelement <content> mit den konkreten Daten übertragen werden. Enthält ein Abschnitt keine Daten, so  -Block weggelassen. Die <content>-Elemente der einzelnen Abschnitte
+Kindelement <content> mit den konkreten Daten übertragen werden. Enthält ein Abschnitt keine Daten, so  wird der entsprechende <paragraph>-Block weggelassen. Die <content>-Elemente der einzelnen Abschnitte
 
-wird der entsprechende <paragraph> werden in den nächsten Kapiteln erläutert.
+werden in den nächsten Kapiteln erläutert.
 
-sind, sieht der Coderahmen für das Element <section> wie
+Wenn sämtliche Abschnitte Daten enthalten sind, sieht der Coderahmen für das Element <section> wie
 
-Wenn sämtliche Abschnitte Daten enthalten folgt aus.
+folgt aus.
 
 |  |  |
 |---|---|
@@ -1798,15 +1754,15 @@ Bei diesem Parameter enthält das Element < gemäß Tabelle 22.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> "/>  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 44**: Einschreibung erfolgte wegen (FD)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Primärtumors |
-|  |
+| Kontralateralen Brustkrebses |
 | Lokoregionären Rezidivs |
 | Fernmetastasen |
 
@@ -1814,7 +1770,7 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **Tabelle 22:** Werte bei Ergebnistext ( Einschreibung erfolgte wegen ) (FD)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung erfolgte wegen "/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung erfolgte wegen <sciphox:Ergebnistext V="Primärtumors"/> Wert bei Ergebnistext (V="...") Kontralateralen Brustkrebses|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung erfolgte wegen "/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung erfolgte wegen <sciphox:Ergebnistext V="Primärtumors"/> "/>|  |  |
 |---|---|
 
 
@@ -1851,11 +1807,9 @@ Brustkrebses (adjuvante Therapie) (FD)
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
 
-Tabelle 23. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu diesem
+Tabelle 23. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere Elemente  <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu diesem  Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
-Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern -Befund"/> die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA -Befund"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
 
 |  |  |
 |---|---|
@@ -1868,7 +1822,7 @@ Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 **XML-Code 46:** Aktuelle adjuvante endokrine Therapie (FD)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Aromataseinhibitoren |
 | Tamoxifen |
@@ -1880,13 +1834,13 @@ Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 ### Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
 
 gemäß Tabelle 24. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> "/> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 47**: Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie (FD)
@@ -1899,11 +1853,13 @@ Als Beispiel sei hier folgender Code angegeben:
 | stark belastend |
 | nicht erfragt |
 
+*V*-Attribut die Feldbezeichnung
+
 **Tabelle 24:** Werte bei Ergebnistext ( Nebenwirkungen der aktuellen adjuvanten endokrinen
 
 Therapie) (FD)
 
-<sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie "/> <sciphox:Ergebnistext V="Aromataseinhibitoren"/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>|  |  |
+<sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie "/> <sciphox:Ergebnistext V="Aromataseinhibitoren"/> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie <sciphox:Ergebnistext V="Nein"/> "/>|  |  |
 |---|---|
 
 
@@ -1917,7 +1873,7 @@ gemäß Tabelle 25. Wird keine Angabe zu diesem Parameter gemacht, entfällt das
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> "/> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 48**: Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation (FD)
@@ -1926,8 +1882,8 @@ Als Beispiel sei hier folgender Code angegeben:
 |---|
 | Vor dem abgeschlossenen 5. Jahr |
 | Regulär nach 5 fünf Jahren abgeschlossen |
-|  |
-| 5 fünf |
+| Aktuell andauernd, seit weniger als 5 Jahren |
+| Aktuell andauernd, Fortführung über |
 | Keine endokrine Therapie durchgeführt |
 
 **Tabelle 25:** Werte bei Ergebnistext ( Fortführung der adjuvanten endokrinen Therapie seit der
@@ -1936,26 +1892,26 @@ letzten Dokumentation ) (FD)
 
 ### Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine  spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund
 
-*V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 26. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element
+gemäß Tabelle 26. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element
 
 <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-**XML-Code 49**: Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die  -Befund (FD)
+**XML-Code 49**: Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die
 
-Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA
+Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA -Befund (FD)
 
 | Wert bei Ergebnistext (V="...") |
 |---|
 | Auffällig |
 
-<sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation <sciphox:Ergebnistext V="Keine endokrine Therapie durchgeführt"/> </sciphox:Beobachtung> abgebrochen Aktuell andauernd, seit weniger als 5 Jahren Aktuell andauernd, Fortführung über Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/> </sciphox:Beobachtung>|  |  |
+<sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Keine endokrine Therapie durchgeführt"/> abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>|  |  |
 |---|---|
 
 
@@ -1983,7 +1939,7 @@ Fernmetastasen (Datum der diagnostischen Sicherung)“, „Symptomatisches Lymph
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-| <content>                             </local_markup> </content> |
+| <content>     <sciphox:Beobachtungen>                        </local_markup> </content> |
 |---|
 
 **XML-Code 50:** content (Seit der letzten Dokumentation neu aufgetretene Ereignisse ) (FD)
@@ -2002,7 +1958,7 @@ sciphox:Beobachtungen>. Das Element
 
 das Element <sciphox:Parameter> mit dem  Sicherung)“, ein Element
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> "/> "/>*V*-Attribut
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> "/> "/>*V*-Attribut
 
 |  |  |
 |---|---|
@@ -2014,12 +1970,10 @@ gemäß Tabelle 27. Wird keine Angabe zu diesem Parameter gemacht, entfällt das
 
 Es gilt folgender Coderahmen.
 
-| <sciphox:Ergebnistext V=" </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>           <sciphox:Ergebnistext V=" </sciphox:Beobachtung> |
 |---|
 
-Lokoregionäres Rezidiv (Datum der histologischen Sicherung ) (FD)
-
-**XML-Code 51:**
+**XML-Code 51:** Lokoregionäres Rezidiv (Datum der histologischen Sicherung ) (FD)
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -2029,24 +1983,18 @@ Lokoregionäres Rezidiv (Datum der histologischen Sicherung ) (FD)
 
 ### Kontralateraler Brustkrebs (Datum der histologischen Sicherung)
 
-Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  Kontralateraler Brustkrebs (Datum des histologischen Sicherung)“, ein Element
-
-konstanten Wert „
-
-*V*-Attribut
+Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Kontralateraler Brustkrebs (Datum des histologischen Sicherung)
 
 <sciphox:Zeitpunkt_dttm> oder ein Element <sciphox:Ergebnistext> mit der Feldbezeichnung im  gemäß Tabelle 28. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Es gilt folgender Coderahmen.
 
-| "/>         <sciphox:Ergebnistext V=" … </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>          <sciphox:Ergebnistext V="  </sciphox:Beobachtung> |
 |---|
 
-Kontralateraler Brustkrebs (Datum des histologischen Sicherung) (FD)
+**XML-Code 52:** Kontralateraler Brustkrebs (Datum des histologischen Sicherung) (FD)
 
-**XML-Code 52:**
-
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Nein |
 
@@ -2058,29 +2006,27 @@ Sicherung)) (FD)
 
 Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem
 
-Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)
+konstanten Wert „Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)
 
-konstanten Wert „
+mehrere Elemente <sciphox:Ergebnistext> mit der Feldbezeichnung im
+
+optional ein Element <sciphox:Zeitpunkt_dttm>. Wenn bei diesem Parameter mehrere Werte ausgewählt  wurden, können mehrere Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben  werden. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+
+Es gilt folgender Coderahmen.
+
+*V*-Attribut gemäß Tabelle 29 und
+
+“, ein Element  *V*-Attribut
 
 “ ein oder
 
-mehrere Elemente <sciphox:Ergebnistext> mit der Feldbezeichnung im *V*-Attribut gemäß Tabelle 29 und
-
-optional ein Element <sciphox:Zeitpunkt_dttm>. Wenn bei diesem Parameter mehrere Werte ausgewählt
-
-emacht, entfällt das Element <sciphox:Beobachtung>.
-
-wurden, können mehrere Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben  werden. Wird keine Angabe zu diesem Parameter g
-
-<sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) <sciphox:Zeitpunkt_dttm V=" Wert bei Ergebnistext (V="...")Es gilt folgender Coderahmen.
-
-|  |  |
+<sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) "/> <sciphox:Zeitpunkt_dttm V=" "/> "/> |  |  |
 |---|---|
 
 
 ---
 
-| <sciphox:Beobachtung>          <sciphox:Ergebnistext V=" … |
+| <sciphox:Beobachtung>          <sciphox:Ergebnistext V="         <sciphox:Ergebnistext V="  </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 53:** Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) (FD)
@@ -2124,7 +2070,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" </sciphox:Beobachtung> "/> "/> "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -2137,7 +2083,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 55**: Symptomatisches Lymphödem (FD)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja, Kompressionsarmstrumpftherapie |
 | Ja, keine Kompressionsarmstrumpftherapie |
@@ -2166,7 +2112,7 @@ verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 der Coderahmen wie folgt aus:
 
-<sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> Wert bei Ergebnistext (V="...") erforderlich erforderlich <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben </sciphox:Beobachtung> <sciphox:Beobachtung> "/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 56:** content (Sonstige Befunde) (FD)
+<sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> erforderlich erforderlich <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben </sciphox:Beobachtung> <sciphox:Beobachtung> "/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 56:** content (Sonstige Befunde) (FD)
 
 |  |  |
 |---|---|
@@ -2185,7 +2131,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 57**: Empfehlung zu regelmäßigem körperlichen Training abgegeben (FD)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
@@ -2200,7 +2146,7 @@ Bei diesem Parameter enthält das Element  gemäß Tabelle 33. Wenn bei diesem P
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 58:** Z. n. besonders kardiotoxischer Tumortherapie (FD)
@@ -2221,7 +2167,7 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 Werte ausgewählt wurden, können mehrere
 
-<sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben <sciphox:Ergebnistext V="Nein"/> "/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>) (FD)
+<sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben <sciphox:Ergebnistext V="Nein"/> "/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> ) (FD)
 
 |  |  |
 |---|---|
@@ -2292,9 +2238,9 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-gemäß Tabelle 34. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  angegeben werden. Wird keine Angabe zu
+gemäß Tabelle 34. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu
 
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten  diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -2313,15 +2259,15 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Therapie bei Knochenmetastasen (Denosumab)
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 35. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  werden. Wird keine Angabe zu
+gemäß Tabelle 35. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu
 
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben  diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 63:** Therapie bei Knochenmetastasen (Denosumab) (FD)
@@ -2332,7 +2278,7 @@ Als Beispiel sei hier folgender Code angegeben:
 | Nein |
 | Kontraindikation |
 
-<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung>|  |  |
+<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
 |---|---|
 
 
@@ -2344,26 +2290,24 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-Im Element <content> wird die Sciphox-SSU  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
-<sciphox:Beobachtungen> enthält ein Kindelement <sciphox:Beobachtung> mit dem fest vorgegebenen
-
-<sciphox:Parameter>-Element: „Dokumentationsintervall“.
+<sciphox:Beobachtungen> enthält ein Kindelement <sciphox:Beobachtung> mit dem fest vorgegebenen  <sciphox:Parameter>-Element: „Dokumentationsintervall“.
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>             </content> |
+| <content>     <sciphox:Beobachtungen>        </content> |
 |---|
 
 **XML-Code 64:** content (Behandlungsplanung) (FD)
 
 ### Dokumentationsintervall
 
-*V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 36.
+gemäß Tabelle 36.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -2372,14 +2316,14 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 65**: Dokumentationsintervall (FD)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Halbjährlich oder häufiger |
 | Jährlich |
 
 **Tabelle 36:** Werte bei Ergebnistext (Dokumentationsintervall) (FD)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/> Wert bei Ergebnistext (V="...")
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/>
 
 |  |  |
 |---|---|

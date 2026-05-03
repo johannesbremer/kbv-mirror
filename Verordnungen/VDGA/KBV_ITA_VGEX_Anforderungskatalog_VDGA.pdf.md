@@ -97,29 +97,29 @@ tels 1.2 rung P2-020 und P4-311 und des Glossars  rung P2-020 und P4-310 und des
 
 # 1 EINLEITUNG
 
-enötigt wer-
+Daten über verordnungsfähige Digitale Gesundheitsanwendungen (DiGA) sind den Ärzten und Psy- chotherapeuten gemäß § 1a BMV-Ä sowie dem in § 15 Abs. 1 Satz 5 BMV-Ä genannten Personenkreis  (im Weiteren nur als „Ärzte und Psychotherapeuten“ bezeichnet) gemäß den Regelungen dieses An- forderungskatalogs in der Verordnungssoftware in aktueller Form und vollständig zur Verfügung zu  stellen. Verordnungssoftware im Sinne des KBV-Prüfverfahrens sind alle Programme oder Programm- teile zum Zwecke der Eingabe, Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der ver- tragsärztlichen Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V benötigt wer-
 
-Daten über verordnungsfähige Digitale Gesundheitsanwendungen (DiGA) sind den Ärzten und Psy- chotherapeuten gemäß § 1a BMV-Ä sowie dem in § 15 Abs. 1 Satz 5 BMV-Ä genannten Personenkreis  (im Weiteren nur als „Ärzte und Psychotherapeuten“ bezeichnet) gemäß den Regelungen dieses An- forderungskatalogs in der Verordnungssoftware in aktueller Form und vollständig zur Verfügung zu  stellen. Verordnungssoftware im Sinne des KBV-Prüfverfahrens sind alle Programme oder Programm- teile zum Zwecke der Eingabe, Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der ver- tragsärztlichen Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V b den.
+den.
 
-## 1.1 ZIELBESTIMMUNG -Anforderungen, die sich
+## 1.1 ZIELBESTIMMUNG
 
-Dieser Anforderungskatalog gilt für Verordnungssoftware, die in der vertragsärztlichen Versorgung  zur Verordnung von DiGA nach § 33a SGB V zum Einsatz kommen. Software aufgrund von Regelungen in Selektivverträgen ergeben, bleiben von diesem Anforderungskatalog un- berührt. Ärzte und Psychotherapeuten sollen durch zertifizierte Verordnungssoftware in die Lage ver- re
+Dieser Anforderungskatalog gilt für Verordnungssoftware, die in der vertragsärztlichen Versorgung  zur Verordnung von DiGA nach § 33a SGB V zum Einsatz kommen. Software-Anforderungen, die sich
 
-setzt werden, die in § 73 SGB V festgeschriebenen Regelungen zu erfüllen. Die Verordnungssoftwa muss vor ihrem Einsatz durch die KBV zugelassen werden und mit dem jeweils aktuellen Datenstand
+aufgrund von Regelungen in Selektivverträgen ergeben, bleiben von diesem Anforderungskatalog un- berührt. Ärzte und Psychotherapeuten sollen durch zertifizierte Verordnungssoftware in die Lage ver- setzt werden, die in § 73 SGB V festgeschriebenen Regelungen zu erfüllen. Die Verordnungssoftware
 
-lage von § 73 Abs. 9 SGB V. Das Verfahren der Zertifizierung ist im
+muss vor ihrem Einsatz durch die KBV zugelassen werden und mit dem jeweils aktuellen Datenstand  zur Verfügung stehen. Sie sind in regelmäßigen Abständen auf ihre Zulassungskonformität zu prüfen.  Die Zulassung erfolgt auf der Grundlage von § 73 Abs. 9 SGB V. Das Verfahren der Zertifizierung ist im
 
-zur Verfügung stehen. Sie sind in regelmäßigen Abständen auf ihre Zulassungskonformität zu prüfen.  Die Zulassung erfolgt auf der Grund Dokument „Zertifizierungsrichtlinie der KBV“ beschrieben ([https://update.kbv.de/ita-update/Allge-](https://update.kbv.de/ita-update/Allge-) hen,
+Dokument „Zertifizierungsrichtlinie der KBV“ beschrieben ([https://update.kbv.de/ita-update/Allge-](https://update.kbv.de/ita-update/Allge-)
 
-mein/KBV_ITA_RLEX_Zert.pdf). Die KBV ist berechtigt, ein bereits erteiltes Zertifikat zu entzie wenn festgestellt wird, dass zertifizierte Software den Vorgaben dieses Anforderungskatalogs nicht  mehr genügt.
+mein/KBV_ITA_RLEX_Zert.pdf). Die KBV ist berechtigt, ein bereits erteiltes Zertifikat zu entziehen,
+
+wenn festgestellt wird, dass zertifizierte Software den Vorgaben dieses Anforderungskatalogs nicht  mehr genügt.
 
 ## 1.2 INKRAFTTRETEN UND UMSETZUNG
 
 Der geänderte Anforderungskatalog nach § 73 Abs. 9 SGB V für DiGA in der Version 1.3 ist bis auf die  folgende Ausnahme zum 01.10.2025 verpflichtend durch die Hersteller der Verordnungssoftware  umzusetzen.
 
-P4-343 sowie das entsprechende Ak-
-
-Die für die elektronische Verordnung relevante Pflichtfunktion
+Die für die elektronische Verordnung relevante Pflichtfunktion P4-343 sowie das entsprechende Ak-
 
 | zeptanzkriterium 1b) der Pflichtfunktion P4-340, welche die elektronische Verordnung adressieren, |  |
 |---|---|
@@ -158,7 +158,7 @@ konditionalen Pflichtfunktionen ist im Rahmen eines Gutachterverfahrens nachzuwe
 
 Ident-Nummer einer Pflichtfunktion
 
-|  | |
+| KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KPx-xxx | Funktionsbezeichnung |
 
@@ -206,7 +206,7 @@ Die Einstellungen, welche innerhalb der Software durch die nutzenden Ärzte und 
 
 Der zeitliche und bürokratische Aufwand für die Ärzte und  mit dem Einspielen eines Updates soll so gering wie möglich gehalten werden.
 
-KONDITIONALE PFLICHTFUNKTIONPsychotherapeuten im Zusammenhang
+Psychotherapeuten im Zusammenhang
 
 
 ---
@@ -217,7 +217,7 @@ KONDITIONALE PFLICHTFUNKTIONPsychotherapeuten im Zusammenhang
 
 | PFLICHTFUNKTION | | |
 |---|---|---|
-| P1-330 |  |  |
+| P1-330 | Freischaltung einzelner Informationen |  |
 
 Die nutzenden Ärzte und Psychotherapeuten müssen auf alle angebotenen Informationsinhalte zu  digitalen Gesundheitsanwendungen zugreifen können, ohne dass eine gesonderte Freischaltung oder  andere Maßnahmen zur Aktivierung notwendig ist.
 
@@ -230,8 +230,6 @@ Der zeitliche und bürokratische Aufwand für die Ärzte und Psychotherapeuten i
 - 1. Den nutzenden Ärzten und Psychotherapeuten müssen die Informationsinhalte zu digitalen Ge- sundheitsanwendungen gemäß aller Pflicht- und konditionalen Pflichtfunktionen dieses Anforde-
 
 - rungskatalogs ohne die Notwendigkeit der Freischaltung oder anderer Maßnahmen zur Aktivie- rung bereitgestellt werden.
-
-Freischaltung einzelner Informationen
 
 
 ---
@@ -464,7 +462,7 @@ schung der Daten dar, die im Rahmen der vertragsärztlichen Verordnung von DiGA 
 
 3 WERBUNG
 
-|  | |
+| KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KP3-020 | Verhalten der Software bei der Anzeige von Werbung |
 
@@ -512,7 +510,6 @@ Ausgenommen von der Umsetzung dieser Anforderung ist Verordnungssoftware, welche
 
 bung anzeigt.
 
-KONDITIONALE PFLICHTFUNKTION
 
 ---
 
@@ -555,18 +552,6 @@ Die nutzenden Ärzte und Psychotherapeuten der Verordnungssoftware sollen die M�
 
 ---
 
-- -Verordnungseinheit, die den nut-
-
-- 1. Die Verordnungssoftware muss die Daten jeder DiGA bzw. DiGA -
-
-- zenden Ärzten und Psychotherapeuten während des Verordnungsvorgangs in Auswahllisten ange- zeigt werden, in einem einheitlichen Layout darstellen.
-
-- -Verordnungseinheit aus Listen
-
-- 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten während des Ver- ordnungsvorgangs die Möglichkeit bieten, die Auswahl einer DiGA - en Daten des
-
-- vorzunehmen, die ausschließlich auf Grundlage aller in der Software vorgehalten Produktverzeichnisses angezeigt werden.
-
 # 4 ANFORDERUNGEN AN DEN VERORDNUNGVORGANG
 
 **4.1** **ALLGEMEINE ANFORDERUNGEN**
@@ -579,17 +564,17 @@ Von der Verordnungssoftware angezeigte Auswahllisten zur Verordnung von DiGA bes
 
 **Begründung:**
 
-Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  -Verord-
-
-ausschließlich anhand der Daten des Produktverzeichnisses frei zu entscheiden, welche DiGA nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch selektive Hervorhebun-
+Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  ausschließlich anhand der Daten des Produktverzeichnisses frei zu entscheiden, welche DiGA nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch selektive Hervorhebun-
 
 gen einzelner DiGA bzw. deren DiGA-Verordnungseinheiten muss daher unterbleiben.
 
 **Akzeptanzkriterium:**
 
-**Hinweis:**
+- 1. Die Verordnungssoftware muss die Daten jeder DiGA bzw. DiGA-Verordnungseinheit, die den nut-
 
--, Filter- oder
+- zenden Ärzten und Psychotherapeuten während des Verordnungsvorgangs in Auswahllisten ange- zeigt werden, in einem einheitlichen Layout darstellen.
+
+**Hinweis:**
 
 Die Anforderung gilt unabhängig davon, ob die Auswahllisten das Ergebnis eines Such Sortiervorgangs darstellen.
 
@@ -601,13 +586,13 @@ Die Übernahme eines Produktes auf eine Verordnung erfolgt auf Grundlage eines v
 
 **Begründung:**
 
--Verord-
-
-Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  anhand der vollständigen Daten des Produktverzeichnisses frei zu entscheiden, welche DiGA nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch selektive Weglassungen
-
-einzelner DiGA bzw. deren DiGA-Verordnungseinheiten oder deren Daten muss daher unterbleiben.
+Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  anhand der vollständigen Daten des Produktverzeichnisses frei zu entscheiden, welche DiGA nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch selektive Weglassungen  einzelner DiGA bzw. deren DiGA-Verordnungseinheiten oder deren Daten muss daher unterbleiben.
 
 **Akzeptanzkriterium:**
+
+- 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten während des Ver- ordnungsvorgangs die Möglichkeit bieten, die Auswahl einer DiGA-Verordnungseinheit aus Listen
+
+- vorzunehmen, die ausschließlich auf Grundlage aller in der Software vorgehalten Produktverzeichnisses angezeigt werden.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -617,14 +602,16 @@ Die Verordnungssoftware dokumentiert alle durch die nutzenden Ärzte und Psychot
 
 **Begründung:**
 
-Neben den Daten des Personalienfelds und den
+Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, auf die patientenindivi- duelle Verordnungshistorie zurückgreifen zu können Neben den Daten des Personalienfelds und den -Verord-
 
-Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, auf die patientenindivi- duelle Verordnungshistorie zurückgreifen zu können
+-, Filter- oder
+
+-Verord-
+
+- en Daten des
 
 
 ---
-
--
 
 - 1. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,  alle ausgestellten Verordnungen patientenspezifisch zu dokumentieren.
 
@@ -634,9 +621,7 @@ Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, auf d
 
 - b) Ausstellungsdatum der Verordnung
 
-- c) Die gemäß Akzeptanzkriterium P2-020 1 den nutzenden Ärzten und Psychotherapeuten auf  Ebene der PZN zur Verfügung gestellten obligatorischen Informationen für Digitale Gesund- und der „Name der DiGA Verordnungseinheit“
-
-- heitsanwendungen, die „PZN“
+- c) Die gemäß Akzeptanzkriterium P2-020 1 den nutzenden Ärzten und Psychotherapeuten auf  Ebene der PZN zur Verfügung gestellten obligatorischen Informationen für Digitale Gesund- heitsanwendungen, die „PZN“ und der „Name der DiGA Verordnungseinheit“
 
 - d) Die gemäß Akzeptanzkriterium P2-020 2 den nutzenden Ärzten und Psychotherapeuten auf  Ebene der PZN zur Verfügung gestellten Informationen für Digitale Gesundheitsanwendungen - außer:
 
@@ -648,19 +633,17 @@ Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, auf d
 
 - Informationen zu Datenschutz und Datensicherheit
 
-- Informationen zum positiven Versorgungseffekt - zu hinterlegen.
+- Informationen zum positiven Versorgungseffekt
 
-- 3. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten zusätzlich ermögli- chen, ergänzende Information zur Verordnung
+- 3. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten zusätzlich ermögli- chen, ergänzende Information zur Verordnung zu hinterlegen.
 
-- 4. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit
-
-- bieten, auf die dokumentierten Verordnungen zuzugreifen.
+- 4. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, auf die dokumentierten Verordnungen zuzugreifen.
 
 - 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, Verordnungseinheiten Digitaler Gesundheitsanwendungen mindestens nach folgenden  Merkmalen suchen und/oder filtern zu können, soweit zutreffend:
 
-verordneten DiGA-Verordnungseinheit zugeord-
+Daten auf der Verordnung sollen auch weitere der verordneten DiGA-Verordnungseinheit zugeord-
 
-Daten auf der Verordnung sollen auch weitere der  nete Produktdaten zum Zeitpunkt der Verordnung dokumentiert werden, damit die nutzenden Ärzte  und Psychotherapeuten den Verordnungsinhalt auch dann nachträglich detailliert nachvollziehen  können, wenn einzelne Produktdaten geändert worden sind.
+nete Produktdaten zum Zeitpunkt der Verordnung dokumentiert werden, damit die nutzenden Ärzte  und Psychotherapeuten den Verordnungsinhalt auch dann nachträglich detailliert nachvollziehen  können, wenn einzelne Produktdaten geändert worden sind.
 
 **Akzeptanzkriterien:**
 
@@ -670,15 +653,13 @@ Daten auf der Verordnung sollen auch weitere der  nete Produktdaten zum Zeitpunk
 |---|---|
 | P4-210 | Such-/ Rechercheoptionen |
 
-Die nutzenden Ärzte und Psychotherapeuten sollen Verordnungseinheiten Digitaler Gesundheitsan-
-
-wendungen anhand geeigneter Kriterien suchen können.
+Die nutzenden Ärzte und Psychotherapeuten sollen Verordnungseinheiten Digitaler Gesundheitsan- wendungen anhand geeigneter Kriterien suchen können.
 
 **Begründung:**
 
-ähnliche DiGA miteinander
+Um während des Verordnungsvorgangs eine geeignete DiGA finden und ähnliche DiGA miteinander
 
-Um während des Verordnungsvorgangs eine geeignete DiGA finden und  vergleichen zu können, ist die Suche in den Daten des Produktverzeichnisses anhand geeigneter Kri- terien erforderlich.
+vergleichen zu können, ist die Suche in den Daten des Produktverzeichnisses anhand geeigneter Kri- terien erforderlich.
 
 **Akzeptanzkriterien:**
 
@@ -705,13 +686,13 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und  vergleichen 
 
 - 2. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, gleichzeitig nach dem ICD-10-GM-Kode sowie dem Diagnoseklartext des ICD-10-GM-Kodes  mittels Angabe eines einzigen Freitexts zu suchen und/oder zu filtern.
 
-- -10-GM-Kode und dem Diagnoseklartext des
+- a) Zusätzlich kann die Verordnungssoftware die Möglichkeit bieten, dass anhand eines einzigen  angegebenen Freitexts gleichzeitig neben dem ICD-10-GM-Kode und dem Diagnoseklartext des
 
-- a) Zusätzlich kann die Verordnungssoftware die Möglichkeit bieten, dass anhand eines einzigen  angegebenen Freitexts gleichzeitig neben dem ICD ICD-10-GM-Kodes zusätzlich auch nach der PZN, dem DiGA-Namen und/oder dem Namen des  Herstellers gesucht wird.
+- ICD-10-GM-Kodes zusätzlich auch nach der PZN, dem DiGA-Namen und/oder dem Namen des  Herstellers gesucht wird.
 
-- - oder Höchstpreis für
+- 3. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten bei der Angabe  eines Preisbereiches die Möglichkeit bieten, entweder nur einen Mindest- oder Höchstpreis für
 
-- 3. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten bei der Angabe  eines Preisbereiches die Möglichkeit bieten, entweder nur einen Mindest die Suche und/oder Filterung zu spezifizieren.
+- die Suche und/oder Filterung zu spezifizieren.
 
 - 1. Die Verordnungssoftware muss die Auswahllisten nach Pflichtfunktion P4-120 und der Ergebnisse
 
@@ -723,17 +704,13 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und  vergleichen 
 
 - a) Die Liste muss von der Software an ihren Anfang positioniert werden.
 
-- b) Bei der Positionierung muss die Software Hervorhebungen unterlassen, die über die Visualisie-
-
-- rung der Anfangsposition der Auswahlliste hinausgehen.
+- b) Bei der Positionierung muss die Software Hervorhebungen unterlassen, die über die Visualisie- rung der Anfangsposition der Auswahlliste hinausgehen.
 
 - c) Die der Anzeige zugrundeliegende Filterung und Sortierung ist erkennbar anzuzeigen.
 
-- 2. Die Verordnungssoftware muss die Auswahlliste der Ergebnisse einer Suche nach Pflichtfunktion  P4-210 initial als nach dem Preis der DiGA - -10-
+- 2. Die Verordnungssoftware muss die Auswahlliste der Ergebnisse einer Suche nach Pflichtfunktion  P4-210 initial als nach dem Preis der DiGA-Verordnungseinheit aufsteigend sortierte Liste von Pro-
 
-- -Verordnungseinheit aufsteigend sortierte Liste von Pro-
-
-- dukten auf PZN-Ebene anzeigen, falls die Suche mindestens anhand eines der Kriterien ICD
+- dukten auf PZN-Ebene anzeigen, falls die Suche mindestens anhand eines der Kriterien ICD-10-
 
 - GM-Kode und/oder ICD-10-GM-Diagnoseklartext erfolgt ist.
 
@@ -741,9 +718,9 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und  vergleichen 
 
 **Hinweise:**
 
--10-GM-Kode sowie des Diagnoseklartextes des
+Es sind weitere Alternativen der Suche bezüglich ICD-10-GM-Kode sowie des Diagnoseklartextes des
 
-Es sind weitere Alternativen der Suche bezüglich ICD ICD-10-GM-Kodes möglich.
+ICD-10-GM-Kodes möglich.
 
 Die Umsetzung einer Wildcard-Suche bei unvollständigen Eingaben wird empfohlen.
 
@@ -755,15 +732,13 @@ Die Auswahlliste nach Pflichtfunktion P4-120 und die Ergebnisse einer Anwendersu
 
 Akzeptanzkriterium P4-210 1 benannten Kriterien werden als nach dem Namen der DiGA- Verord-
 
--Verordnungseinheit aufsteigend sortierte
+nungseinheit alphabetisch oder nach dem Preis der DiGA-Verordnungseinheit aufsteigend sortierte
 
-nungseinheit alphabetisch oder nach dem Preis der DiGA Liste von Produkten auf PZN-Ebene (entspricht der Ebene der DiGA-Verordnungseinheit) angezeigt.
+Liste von Produkten auf PZN-Ebene (entspricht der Ebene der DiGA-Verordnungseinheit) angezeigt.
 
 **Begründung:**
 
-Produktverzeichnisses frei zu entscheiden, welche DiGA-Verord-
-
-Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  ausschließlich anhand der Daten des
+Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die Möglichkeit haben,  ausschließlich anhand der Daten des Produktverzeichnisses frei zu entscheiden, welche DiGA-Verord-
 
 nungseinheit verordnet wird. Die Beeinflussung des Auswahlprozesses durch speziell manipulierte  Sortierungen des Suchergebnisses muss daher unterbleiben.
 
@@ -916,29 +891,27 @@ vergleichen zu können, ist die Vergleichssuche in den Daten des Produktverzeich
 
 ---
 
-- ie Ergebnisliste
+- 6. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Ergebnisliste
 
-- 6. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten d der indikationsbezogenen Vergleichssuche in der gleichen Form und an der gleichen Position in  der Programmoberfläche anzeigen wie die Ergebnisliste der Anwendersuche gemäß Akzeptanzkri- terium P4-210.
+- der indikationsbezogenen Vergleichssuche in der gleichen Form und an der gleichen Position in  der Programmoberfläche anzeigen wie die Ergebnisliste der Anwendersuche gemäß Akzeptanzkri- terium P4-210.
 
 - a) Dabei ist geeignet anzugeben, dass es sich um die Ergebnisliste einer indikationsbezogenen  Vergleichssuche handelt.
 
-- eder Verordnung mindestens folgende Merkmale
+- 1. Die Verordnungssoftware muss im Rahmen jeder Verordnung mindestens folgende Merkmale
 
-- 1. Die Verordnungssoftware muss im Rahmen j nach Pflichtfunktion P2-020 jeder dargestellten DiGA-Verordnungseinheit nutzenden Ärzten und -
+- nach Pflichtfunktion P2-020 jeder dargestellten DiGA-Verordnungseinheit nutzenden Ärzten und  Psychotherapeuten vor der Auswahl einer DiGA-Verordnungseinheit anzeigen, falls das entspre- chende Informationsmerkmal existiert:
 
-- Psychotherapeuten vor der Auswahl einer DiGA-Verordnungseinheit anzeigen, falls das entspre- chende Informationsmerkmal existiert:
+- 2. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,  sich durch einfache Interaktionen für eine bestimmte DiGA-Verordnungseinheit die Anzeige der
 
-- 2. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,  -Verordnungseinheit die Anzeige der
-
-- sich durch einfache Interaktionen für eine bestimmte DiGA weiteren geforderten Merkmale nach Pflichtfunktion P4-311 aufzurufen.
+- weiteren geforderten Merkmale nach Pflichtfunktion P4-311 aufzurufen.
 
 - a) Es muss für die nutzenden Ärzte und Psychotherapeuten möglich sein, durch maximal eine In- teraktion zur Anzeige der Auswahlliste zurückzukehren, falls die Anzeige aus den Auswahllisten  nach den Pflichtfunktionen P4-120, P4-220 oder P4-230 heraus erfolgt.
 
 ## 4.3 ANFORDERUNGEN AN DIE VERORDNUNG EINER DIGA
 
-Verordnungsinhalte beziehen sich auf den Verord-
+Die im Folgenden beschriebenen Funktionen der Verordnungsinhalte beziehen sich auf den Verord-
 
-Die im Folgenden beschriebenen Funktionen der nungsprozess.
+nungsprozess.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -960,17 +933,17 @@ Bei einem Verordnungsvorgang bzw. der Auswahl einer Verordnungseinheit sollen di
 
 | Merkmal |
 |---|
-|  |
+| Name der DiGA-Verordnungseinheit |
 | PZN |
 | DiGA-Modul-Name |
 | ICD 10-GM Kodes der Indikationen |
-|  |
+| Vorhandensein von Kontraindikationen |
 | Preis |
 | Anwendungsdauer |
-|  |
+| Erforderlichkeit von Zusatzgeräten |
 | Status im DiGA-Verzeichnis |
 
-Erste Ebene Name der DiGA-Verordnungseinheit Vorhandensein von Kontraindikationen Erforderlichkeit von Zusatzgeräten
+Erste Ebene
 
 ---
 
@@ -992,14 +965,14 @@ Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Inf
 
 | Merkmal |
 |---|
-|  |
+| Name der DiGA-Verordnungseinheit |
 | PZN |
 | DiGA-Modul-Name |
 | DiGA-Name |
 | Indikationen |
 | Redaktioneller Steckbrief |
 | Kontraindikationen |
-| - /Patientengruppen |
+| Nicht indizierte Geschlechtskennzeichen der Ziel |
 | Altersgruppen der Ziel- /Patientengruppen |
 | Preis |
 | Zusätzliche Mehrkosten |
@@ -1044,35 +1017,51 @@ angezeigt werden - aus den Daten
 
 - - /Patien-
 
-Zweite Ebene Name der DiGA-Verordnungseinheit Nicht indizierte Geschlechtskennzeichen der Ziel-
+Zweite Ebene -
 
 
 ---
+
+- 1. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,  sich für eine bestimmte DiGA-Verordnungseinheit folgende Merkmale aus den Daten des Produkt-
+
+- verzeichnisses nach Pflichtfunktion P2-020 anzeigen zu lassen, falls das entsprechende Informati-
+
+- onsmerkmal existiert und nicht auf der zweiten Ebene gemäß Pflichtfunktion P4-311 angezeigt - wird:
+
+- 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, die PZN aus einer zurückliegenden Verordnung des jeweiligen Patienten in die aktuelle  Verordnung zu übernehmen.
+
+- 2. Die Verordnungssoftware muss bei Übernahme der PZN aus einer Vorverordnung sicherstellen,
+
+- a) dass keine Übernahme möglich ist, falls die PZN auf Basis der aktuellen Produktdaten nicht ver-
+
+- ordnungsfähig ist, d.h. falls ihr aktuell im DiGA Verzeichnis weder der Status „Vorläufig aufge-
+
+- nommen“ noch „Dauerhaft aufgenommen“ zugeordnet ist oder sie nicht gültig ist.
+
+- b) dass die Angaben nach Pflichtfunktion P2-020 auf Basis der aktuellen Produktdaten erfolgen.
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KP4-312 | Angaben bei erster und wiederholter Verordnung |
 
-Auf Anforderung durch die nutzenden Ärzte und Psychotherapeuten  ware auf dritter Ebene weitere Merkmale aus den Daten des Produktverzeichnisses für eine be- stimmte DiGA-Verordnungseinheit nach Pflichtfunktion P2-020 anzuzeigen.
+Auf Anforderung durch die nutzenden Ärzte und Psychotherapeuten sind durch die Verordnungssoft-
+
+ware auf dritter Ebene weitere Merkmale aus den Daten des Produktverzeichnisses für eine be- stimmte DiGA-Verordnungseinheit nach Pflichtfunktion P2-020 anzuzeigen.
 
 **Begründung:**
 
-Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Informationen, die  für die Verordnung wichtig sein könnten, den nutzenden Ärzten und Psychotherapeuten
+Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Informationen, die  für die Verordnung wichtig sein könnten, den nutzenden Ärzten und Psychotherapeuten angezeigt
 
 werden können.
 
 **Akzeptanzkriterium:**
-
-- 1. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,  sich für eine bestimmte DiGA-Verordnungseinheit folgende Merkmale  verzeichnisses nach Pflichtfunktion P2-020 anzeigen zu lassen, falls das entsprechende
-
-- onsmerkmal existiert und nicht auf der zweiten Ebene gemäß Pflichtfunktion  wird:
 
 | Merkmal |
 |---|
 | Plattformverfügbarkeit und -anforderungen, Versionen |
 | Ansprechpartner des Herstellers |
 | Kontaktdaten des Herstellers |
-|  |
+| Informationen zu Datenschutz und Datensicherheit |
 | Informationen zum positiven Versorgungseffekt |
 
 **Bedingung:**
@@ -1080,14 +1069,6 @@ werden können.
 Die in Akzeptanzkriterium 1 benannten Merkmale aus den Daten des Produktverzeichnisses werden  nicht alle von der Verordnungssoftware auf der zweiten Ebene gemäß Pflichtfunktion P4-311 ange-
 
 zeigt.
-
-sind durch die Verordnungssoft-
-
-angezeigt
-
-- aus den Daten des Produkt- Informati-
-
-- P4-311 angezeigt
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -1103,40 +1084,12 @@ Zur Vereinfachung des Verordnungsvorgangs muss es möglich sein, auf zurücklieg
 
 nung übernommen werden können.
 
-**Akzeptanzkriterien:**
-
-- 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, die PZN aus einer zurückliegenden Verordnung des jeweiligen Patienten in die aktuelle  Verordnung zu übernehmen.
-
-- 2. Die Verordnungssoftware muss bei Übernahme der PZN aus einer Vorverordnung sicherstellen,
-
-- a) dass keine Übernahme möglich ist, falls die PZN auf Basis der aktuellen Produktdaten nicht ver-
-
-- ordnungsfähig ist, d.h. falls ihr aktuell im DiGA Verzeichnis weder der Status „Vorläufig aufge-
-
-- nommen“ noch „Dauerhaft aufgenommen“ zugeordnet ist oder sie nicht gültig ist.
-
-Dritte Ebene Informationen zu Datenschutz und Datensicherheit- b) dass die Angaben nach Pflichtfunktion P2-020 auf Basis der aktuellen Produktdaten erfolgen.
+Dritte Ebene **Akzeptanzkriterien:**
 
 
 ---
 
-- 3. Die Verordnungssoftware muss bei der Übernahme der PZN nach Akzeptanzkriterium 1 die mit
-
-- der zurückliegenden Verordnung dokumentierten Angaben zu den vier Informationsmerkmalen
-
-- 4. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeuten ermöglichen,
-
-- sich für die zu verordnende DiGA-Verordnungseinheit die geforderten Merkmale nach Pflichtfunk- tion P4-311 anzeigen zu lassen.
-
-- 1. Die Verordnungssoftware muss eine Verordnung von DiGA aus den Daten des Produktverzeichnis- ses umsetzen.
-
-- PZN übernommenen Angaben
-
-- 2. Die Verordnungssoftware muss während des Verordnungsvorgangs aus den Daten des Produkt- verzeichnisses sicherstellen, dass eine Änderung der auf Basis der
-
-- durch die nutzenden Ärzte und Psychotherapeuten nicht möglich ist.
-
-- Indikationen
+- 3. Die Verordnungssoftware muss bei der Übernahme der PZN nach Akzeptanzkriterium 1 die mit  der zurückliegenden Verordnung dokumentierten Angaben zu den vier Informationsmerkmalen - Indikationen
 
 - Kontraindikationen
 
@@ -1144,11 +1097,11 @@ Dritte Ebene Informationen zu Datenschutz und Datensicherheit- b) dass die Angab
 
 - Altersgruppen der Ziel-/Patientengruppen
 
-Merkmale, ohne den Workflow zu
+mit den Angaben auf Basis der aktuellen Produktdaten vergleichen und die nutzenden Ärzte und  Psychotherapeuten allgemein unter Angabe der betroffenen Merkmale, ohne den Workflow zu
 
-mit den Angaben auf Basis der aktuellen Produktdaten vergleichen und die nutzenden Ärzte und  Psychotherapeuten allgemein unter Angabe der betroffenen  unterbrechen darauf hinweisen, dass entsprechende Änderungen der Produktdaten vorliegen,
+unterbrechen darauf hinweisen, dass entsprechende Änderungen der Produktdaten vorliegen,  welche die Verordnungsfähigkeit des zu verordnenden Produkts betreffen.
 
-welche die Verordnungsfähigkeit des zu verordnenden Produkts betreffen.
+- 4. Die Verordnungssoftware muss es den nutzenden Ärzten und Psychotherapeute sich für die zu verordnende DiGA-Verordnungseinheit die geforderten Merkmale nach Pflichtfunk- tion P4-311 anzeigen zu lassen.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -1162,23 +1115,33 @@ Nach der Suche und Auswahl eines Produktes ist die Verordnung dieses Produktes d
 
 **Akzeptanzkriterien:**
 
+- 1. Die Verordnungssoftware muss eine Verordnung von DiGA aus den Daten des Produktverzeichnis- ses umsetzen.
+
+- 2. Die Verordnungssoftware muss während des Verordnungsvorgangs aus den Daten des Produkt- verzeichnisses sicherstellen, dass eine Änderung der auf Basis der PZN übernommenen Angaben
+
+- durch die nutzenden Ärzte und Psychotherapeuten nicht möglich ist.
+
 **Hinweis:**
 
-Für die Bedruckung einer papiergebundenen Verordnung ist die Anforderungsfunktion P4-342 zu be-
-
-achten.
+Für die Bedruckung einer papiergebundenen Verordnung ist die Anforderungsfunktion  achten.
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | KP4-322 | Freitext-Verordnung |
 
-Es muss den nutzenden Ärzten und Psychotherapeuten in Ausnahmefällen möglich sein, DiGA-Ver-
-
-ordnungseinheiten zu verordnen, die im Produktverzeichnis aufgrund dessen begrenzter Aktualisie- rungsrate noch nicht enthalten sind.
+Es muss den nutzenden Ärzten und Psychotherapeuten in Ausnahmefällen möglich sein, DiGA ordnungseinheiten zu verordnen, die im Produktverzeichnis aufgrund dessen begrenzter Aktualisie- rungsrate noch nicht enthalten sind.
 
 **Begründung:**
 
-Aufgrund der stets aktuellen Bereitstellung der Daten des Produktverzeichnisses durch das BfArM  kann es vorkommen, dass neu zugelassene DiGA zum Zeitpunkt der Verordnung noch nicht per Up- date in den Datenstand der Verordnungssoftware übernommen worden sind
+Aufgrund der stets aktuellen Bereitstellung der Daten des Produktverzeichnisses durch das BfArM  kann es vorkommen, dass neu zugelassene DiGA zum Zeitpunkt der Verordnung noch nicht per Up- date in den Datenstand der Verordnungssoftware übernommen worden sind -
+
+- n ermöglichen,
+
+-
+
+P4-342 zu be-
+
+-Ver-
 
 
 ---
@@ -1246,15 +1209,13 @@ nden ist. Bei der Bedruck-
 
 ---
 
-- ---“ in passender Anzahl in der Zeile verwendet
-
--  Es müssen zur Verdeutlichung Trennstriche  werden.
+- Es müssen zur Verdeutlichung Trennstriche ---“ in passender Anzahl in der Zeile verwendet - werden.
 
 - e) Zeile 5: Name der DiGA-Verordnungseinheit
 
-- falls der Name der DiGA-Verordnungseinheit in eine Zeile passt - f) Zeile 6: Unbesetzt
+- f) Zeile 6: Unbesetzt  falls der Name der DiGA-Verordnungseinheit in eine Zeile passt
 
-- Es müssen zur Verdeutlichung Trennstriche „---“ in passender Anzahl in der Zeile verwendet - werden.
+- Es müssen zur Verdeutlichung Trennstriche „---“ in passender - werden.
 
 - g) Zeile 6: Name der DiGA-Verordnungseinheit  falls der Name der DiGA-Verordnungseinheit
 
@@ -1264,33 +1225,25 @@ nden ist. Bei der Bedruck-
 
 - den Zeilen 5 und 6 vorhandene Platz nicht ausreicht.
 
--
-
 - 3. Die Software muss sicherstellen, dass nur eine DiGA je Muster 16 verordnet wird.
 
-- 4. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen vollständig abzu-
-
-- bilden.
+- 4. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen vollständi bilden.
 
 - a) Die minimale Schriftgröße beträgt 12 Zeichen/Zoll (10pt.).
 
-- oder eine andere metrisch
-
-- b) Es muss eine der Monotype-Schriftarten Courier bzw. Courier New  Zeichenbreite
-
-- kompatible Nachahmungsschriftart mit regulärer Strichstärke, Stil und  verwendet werden.
+- b) Es muss eine der Monotype-Schriftarten Courier bzw. Courier New  kompatible Nachahmungsschriftart mit regulärer Strichstärke, Stil und  verwendet werden.
 
 - c) Beim Einsatz von Nadeldruckern stellt zusätzlich die Unterstützung des NLQ-Modus eine Min- destvoraussetzung dar.
 
-- Felder auf Muster 16 durch die nutzenden Ärzte
+- 5. Die Software muss sicherstellen, dass folgende Felder auf Muster 16 durch die nutzenden Ärzte
 
-- 5. Die Software muss sicherstellen, dass folgende  und Psychotherapeuten nicht befüllt werden können.
+- und Psychotherapeuten nicht befüllt werden können.
 
 - a) Gebührenpflichtig
 
-- b) Befreiung von der Notdienstgebühr - -, Verband- und Hilfsmitteln
+- b) Befreiung von der Notdienstgebühr
 
-- c) Sonderkennzeichen bei der Verordnung von Arznei - Hilfsmittel
+- c) Sonderkennzeichen bei der Verordnung von Arznei-, Verband- und Hilfsmitteln - Hilfsmittel
 
 - Impfstoff
 
@@ -1302,27 +1255,31 @@ nden ist. Bei der Bedruck-
 
 - f) Aut idem
 
-- 1. Die Verordnungssoftware muss die Vorgaben der Technischen Anlage elektronische Verordnung  von digitalen Gesundheitsanwendung [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA] umsetzen.
-
-- 2. Die Verordnungssoftware muss für die Übertragung der elektronischen Verordnung die Vorgaben  -01 des Dokumentes [KBV_ITA_VGEX_TECHNISCHE_AN-
-
-- der gematik (gemäß Pflichtfunktion P5 LAGE_EVDGA]) umsetzen.
-
 | PFLICHTFUNKTION | |
 |---|---|
 | P4-343 | Allgemeine Vorgaben für die elektronische Verordnung |
 
-Die Verordnungssoftware muss gewährleisten, dass die Verordnung von Digitalen Gesundheitsan-
-
-wendungen in Form einer elektronischen Verordnung erfolgen kann.
+Die Verordnungssoftware muss gewährleisten, dass die Verordnung von Digitalen Gesundheitsan- wendungen in Form einer elektronischen Verordnung erfolgen kann.
 
 **Begründung**
-
-gemäß § 360 Abs. 4
 
 Die Pflicht zur elektronischen Verordnung digitaler Gesundheitsanwendungen ist  SGB V vorgesehen.
 
 **Akzeptanzkriterien:**
+
+- 1. Die Verordnungssoftware muss die Vorgaben der Technischen Anlage elektronische Verordnung  von digitalen Gesundheitsanwendung [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA
+
+- 2. Die Verordnungssoftware muss für die Übertragung der elektronischen Verordnung die Vorgaben  der gematik (gemäß Pflichtfunktion P5-01 des Dokumentes [KBV_ITA_VGEX_TECHNISCHE_AN-
+
+- LAGE_EVDGA]) umsetzen.
+
+- Anzahl in der Zeile verwendet -
+
+- g abzu-
+
+- oder eine andere metrisch  Zeichenbreite
+
+gemäß § 360 Abs. 4 - ] umsetzen.
 
 
 ---
@@ -1399,41 +1356,31 @@ Den nutzenden Ärzten und Psychotherapeuten soll die Möglichkeit gegeben werden
 
 ---
 
-- gegebene Kriterien (nach Punkt b.)
-
-- d) Wenn die angezeigte tabellarische Übersichtsdarstellung gefiltert ist, muss die Filterung mit  einer einzelnen Anwenderaktion ausgeschaltet oder auf vor -
+- d) Wenn die angezeigte tabellarische Übersichtsdarstellung gefiltert ist, muss die Filterung mit  einer einzelnen Anwenderaktion ausgeschaltet oder auf vorgegebene Kriterien (nach Punkt b.)
 
 - beschränkt werden können, um die ungefilterte oder vorgegebene Darstellung anzuzeigen.
 
 - 1. Die Software bietet die Möglichkeit, die dokumentierten Verordnungsdaten (siehe P4-130) in Ta-
 
--
-
 - bellenkalkulationsprogramme zu exportieren.
 
 **Hinweis:**
 
-Darüber hinaus können im Rahmen der Verordnungsstatistik weitere Auswertungen zur Verfügung  ormationen zurückgreifen, die im Rahmen des Verordnungsvorgangs
+Darüber hinaus können im Rahmen der Verordnungsstatistik weitere Auswertungen zur Verfügung  gestellt werden, die auf alle Informationen zurückgreifen, die im Rahmen des Verordnungsvorgangs
 
-gestellt werden, die auf alle Inf
+in der Software dokumentiert wurden. Ein Default-Filterkriterium für den Zeitbezug bei Aufruf der
 
--Filterkriterium für den Zeitbezug bei Aufruf der
-
-in der Software dokumentiert wurden. Ein Default Statistik kann eigenständig vom Hersteller festgelegt werden.
+Statistik kann eigenständig vom Hersteller festgelegt werden.
 
 | PFLICHTFUNKTION | |
 |---|---|
 | P5-020 | Export von Verordnungsdaten |
 
-Die Software muss einen Transfer von allen oder ausgewählten Verordnungsdaten in Tabellenkalku-
-
-lationsprogramme vorsehen.
+Die Software muss einen Transfer von allen oder ausgewählten Verordnungsdaten in Tabellenkalku- lationsprogramme vorsehen.
 
 **Begründung:**
 
-Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüfungen die Möglich-
-
-keit zu haben, eigene Verordnungsdaten auszuwerten und in ein etwaiges Stellungnahmeverfahren  einzubringen, muss ein Export aller Verordnungsdaten möglich sein.
+Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüfungen die Möglich- keit zu haben, eigene Verordnungsdaten auszuwerten und in ein etwaiges Stellungnahmeverfahren  einzubringen, muss ein Export aller Verordnungsdaten möglich sein.
 
 **Akzeptanzkriterium:**
 
@@ -1505,15 +1452,16 @@ Zusatzgeräte enthalten Zusatzgeräte optional Zusatzgeräte benötigt geräte. 
 
 ---
 
+- Werden personenbezogene Daten nach Erfüllung der Zwecke  nach § 4 Absatz 2 Satz 1 Nummer 1 bis 4 nicht weiter gespei- chert?
+
 | BEGRIFF | BEDEUTUNG |
 |---|---|
 |  | Die zusätzlichen Mehrkosten werden nicht direkt im DiGA |
-| Höchstbetrag oder Vergütun | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA öchstbetrag oder |
+| Höchstbetrag oder Vergütun | Der Preis einer DiGA-Verordnungseinheit wird im ersten Jahr ihrer Ein Vergütungsbetrag ist der Preis, zu dem eine DiGA Im DiGA-Verzeichnis wird optional entweder ein H |
 | Ausschlusskriterien | Die Angabe zu den Ausschlusskriterien benennt die Kriterien, bei de- |
 | Informationen zu Datenschutz | Die Informationen zu Datenschutz und Datensicherheit beinhalten |
 
--Verzeich- nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und dem optional im Verzeichnis hinterlegten niedrigerem Höchstbetrag oder Vergütungsbetrag. Falls kein Höchstbetrag oder Vergütungsbetrag im Verzeichnis gelistet ist, ist der Zahlenwert 0,00 für die zusätzlichen Mehrkosten auszuweisen. gsbe- Aufnahme ins DiGA-Verzeichnis oder so lange, wie ihre Erprobungs- zeit anhält (max. 2 Jahre), grundsätzlich alleinig vom Hersteller be- stimmt. Für Gruppen vergleichbarer DiGA gelten al lerdings Höchst- beträge, d. h. Preisgrenzen, bis zu denen die Krankenkassen die Kos- ten einer DiGA-Verordnungseinheit erstatten. Sollte der Hersteller- preis höher als der für die DiGA- Verordnungseinheit relevante Höchstbetrag liegen, fallen für die Versicher ten zusätzliche Mehr- kosten an. -Verordnungs- einheit ab dem 13. Monat ihrer Listung von den gesetzlichen Kran- kenkassen erstattet wird (Wird ein Vergütungsbetrag erst nach dem 13. Monat der Listung vereinbart, so tritt er rückwirkend ab dem 13. Monat der Listung in Kraft). Dieser Vergütungsbetrag tritt an die Stelle des eventuell durch einen Höchstbetrag gedeckelten Preises, den die Hersteller innerhalb der Erprobungszeit für ihre DiGA -Ver- ordnungseinheit selbst bestimmen. Der Vergütungsbetrag wird zwi- schen Hersteller und GKV-Spitzenverband vereinbart. Kommt eine Vereinbarung nicht zustande, legt die zuständige Schiedsstelle die- sen Vergütungsbetrag fest. Im DiGA-Verzeichnis wird optional entweder ein H Vergütungsbetrag hinterlegt. nen die Anwendung der DiGA-Verordnungseinheit einer digitalen Gesundheitsanwendung ausgeschlossen ist. Diese Information der DiGA-Verordnungseinheit zugeordnet. die näheren Angaben des Herstellers zu den wichtigen Anforderun- gen an Datenschutz und Datensicherheit der DiGA, die der DiGA Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Antwor- ten zu vorgegebenen Fragen repräsentiert, die zu den drei mögli- chen Blöcken von Fragen mit den Tite ln „Datenschutz“, „Datensi- cherheit“ und „Zusatzanforderungen bei digitalen Gesundheitsan- wendungen mit sehr hohem Schutzbedarf“ gehören. Diese Informa- tionen sind dem DiGA-Antwortdatensatz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragen- block kann beispielsweise Fragen zu folgenden Einträgen enthalten:- Werden personenbezogene Daten nach Erfüllung der Zwecke  nach § 4 Absatz 2 Satz 1 Nummer 1 bis 4 nicht weiter gespei- chert?
-
+-Verzeich- nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und dem optional im Verzeichnis hinterlegten niedrigerem Höchstbetrag oder Vergütungsbetrag. Falls kein Höchstbetrag oder Vergütungsbetrag im Verzeichnis gelistet ist, ist der Zahlenwert 0,00 für die zusätzlichen Mehrkosten auszuweisen. gsbe- Aufnahme ins DiGA-Verzeichnis oder so lange, wie ihre Erprobungs- zeit anhält (max. 2 Jahre), grundsätzlich alleinig vom Hersteller be- stimmt. Für Gruppen vergleichbarer DiGA gelten al lerdings Höchst- beträge, d. h. Preisgrenzen, bis zu denen die Krankenkassen die Kos- ten einer DiGA-Verordnungseinheit erstatten. Sollte der Hersteller- preis höher als der für die DiGA- Verordnungseinheit relevante Höchstbetrag liegen, fallen für die Versicher ten zusätzliche Mehr- kosten an. -Verordnungs- einheit ab dem 13. Monat ihrer Listung von den gesetzlichen Kran- kenkassen erstattet wird (Wird ein Vergütungsbetrag erst nach dem 13. Monat der Listung vereinbart, so tritt er rückwirkend ab dem 13. Monat der Listung in Kraft). Dieser Vergütungsbetrag tritt an die Stelle des eventuell durch einen Höchstbetrag gedeckelten Preises, den die Hersteller innerhalb der Erprobungszeit für ihre DiGA -Ver- ordnungseinheit selbst bestimmen. Der Vergütungsbetrag wird zwi- schen Hersteller und GKV-Spitzenverband vereinbart. Kommt eine Vereinbarung nicht zustande, legt die zuständige Schiedsstelle die- sen Vergütungsbetrag fest. Vergütungsbetrag hinterlegt. nen die Anwendung der DiGA-Verordnungseinheit einer digitalen Gesundheitsanwendung ausgeschlossen ist. Diese Information der DiGA-Verordnungseinheit zugeordnet. die näheren Angaben des Herstellers zu den wichtigen Anforderun- gen an Datenschutz und Datensicherheit der DiGA, die der DiGA Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Antwor- ten zu vorgegebenen Fragen repräsentiert, die zu den drei mögli- chen Blöcken von Fragen mit den Tite ln „Datenschutz“, „Datensi- cherheit“ und „Zusatzanforderungen bei digitalen Gesundheitsan- wendungen mit sehr hohem Schutzbedarf“ gehören. Diese Informa- tionen sind dem DiGA-Antwortdatensatz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragen- block kann beispielsweise Fragen zu folgenden Einträgen enthalten:
 
 ---
 

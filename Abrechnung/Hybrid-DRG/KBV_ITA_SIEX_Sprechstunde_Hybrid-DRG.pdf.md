@@ -80,7 +80,7 @@ Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025
 
 # FRAGEN UND ANTWORTEN ZU TECHNISCHEN VORGABEN
 
-# SPRECHSTUNDE 2. OKTOBER 2024 1
+# 1 SPRECHSTUNDE 2. OKTOBER 2024
 
 ## Frage:
 
@@ -98,9 +98,9 @@ Wir als KBV werden eine Testdatenvalidierung für Hybrid-DRG über das Zertifizi
 
 ### Antwort der KBV:
 
--Abrechnung. Es ist daher möglich,
+Die KVen legen solche Fristen individuell fest, ähnlich wie bei der ADT-Abrechnung. Es ist daher möglich,
 
-Die KVen legen solche Fristen individuell fest, ähnlich wie bei der ADT dass KVen kürzere Fristen vorgeben.
+dass KVen kürzere Fristen vorgeben.
 
 ## Frage:
 
@@ -110,11 +110,9 @@ Die KVen legen solche Fristen individuell fest, ähnlich wie bei der ADT dass KV
 
 Gemäß dem von der KBV abgestimmten und veröffentlichten Datensatz ist dies nicht vorgesehen
 
-Absatz 6 fest, dass die Vergütung
+Die Berechnung einer Hybrid-DRG über eine ASV-Teamnummer ist nicht möglich. Es handelt sich hier um  zwei vollkommen getrennte Regelungsbereiche. Zudem legt der § 116b Absatz 6 fest, dass die Vergütung
 
-Die Berechnung einer Hybrid-DRG über eine ASV-Teamnummer ist nicht möglich. Es handelt sich hier um  zwei vollkommen getrennte Regelungsbereiche. Zudem legt der § 116b  der Leistungen der ambulanten spezialfachärztlichen Behandlung auf der Grundlage des EBM erfolgt. Eine  andere Vergütungsform für Leistungen der ASV, z.B. über die sektorengleiche Vergütung nach § 115f SGB V,
-
-ist damit ausgeschlossen.
+der Leistungen der ambulanten spezialfachärztlichen Behandlung auf der Grundlage des EBM erfolgt. Eine  andere Vergütungsform für Leistungen der ASV, z.B. über die sektorengleiche Vergütung nach § 115f SGB V,  ist damit ausgeschlossen.
 
 ## Frage:
 
@@ -276,13 +274,11 @@ Eine Budgetierung für Hybrid-DRG-Leistungen ist nicht vorgesehen.
 
 **Ist das Prüfpaket von 25.10.2024 im Zertifizierungsportal aktuell?**
 
-### Antwort der KBV: -Software.
+### Antwort der KBV:
 
 Ja, das Paket vom 25.10.2024 ist die korrigierte Version des Prüfpakets. Dieses kann für die Testvalidierung  verwendet werden. Bitte beachten Sie die Hinweise zur Verwendung der Grouper
 
-Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebnisse der  -Mail an [ita@kbv.de](mailto:ita@kbv.de) mit
-
-Testdatenvalidierung durch die KBV erfolgt, haben Sie die Möglichkeit, uns eine E Fragen zum Prüfpaket zu senden.
+Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebnisse der  Testdatenvalidierung durch die KBV erfolgt, haben Sie die Möglichkeit, uns eine E Fragen zum Prüfpaket zu senden.
 
 ## Frage:
 
@@ -294,15 +290,11 @@ Ist noch in Klärung
 
 ## Frage:
 
-**-DRGs?**
-
 **Existiert in der EBM-Stammdatei eine Kennzeichnung für OPS-Schlüssel für Hybrid**
 
 ### Antwort der KBV:
 
-Die EBM-Stammdatei enthält solche Informationen nicht. Die zukünftige Hybrid-DRG-Stammdatei wird die
-
-zulässigen Hybrid-DRGs sowie für die Leistungsbereiche die OPS-Kodes enthalten.
+Die EBM-Stammdatei enthält solche Informationen nicht. Die  zulässigen Hybrid-DRGs sowie für die Leistungsbereiche die OPS-Kodes enthalten.
 
 ## Frage:
 
@@ -316,6 +308,14 @@ Bei der Abrechnung von Hybrid-DRGs, die einen Quartalswechsel überschreiten, mu
 
 **Der Hybrid-DRG-Datensatz ist im KVDT-Anforderungskatalog bzw. in der KVDT-Datensatzbeschreibung**  **veröffentlicht. Ist dies ein Hinweis darauf, dass eine Zertifizierung zu einem späteren Zeitpunkt, ähnlich**  **der KVDT-Zertifizierung, geplant ist?**
 
+-Software.
+
+-Mail an [ita@kbv.de](mailto:ita@kbv.de) mit
+
+**-DRGs?**
+
+zukünftige Hybrid-DRG-Stammdatei wird die
+
 
 ---
 
@@ -327,21 +327,17 @@ werden alle Hersteller rechtzeitig informiert.
 
 ## Frage:
 
-Darf eine 1ClickHybridDRG Lieferung mehrere Abrechnungen im Quartal beinhalten
+**Darf eine 1ClickHybrid-DRG Lieferung mehrere Abrechnungen im Quartal beinhalten?**
 
 ### Antwort der KBV:
 
 Die Hybrid-DRG Abrechnung ist nicht quartalsbezogen. Beachten Sie die Anforderung
 
-[1HDRG0135]: Das Element " quartal " der Begleitdatei MUSS mit dem Wert "0000
+[1HDRG0135]: Das Element " quartal " der Begleitdatei MUSS mit dem Wert "0000-1" befüllt werden.
 
 ## Frage:
 
-Im HDRG Datensatz gemäß KVDT darf nur ein OPDatum pro Hybrid-
-
-Im Datensatz nach § 115f darf pro OPSCode ein OP-Datum übertragen werden. Ist dieser Unterschied
-
-gewollt oder handelt es sich um einen Fehler im KBVHybridDRG -
+**Im HDRG-Datensatz gemäß KVDT darf nur ein OP-Datum pro Hybrid-DRG-Leistung übertragen werden.**  **Im Datensatz nach § 115f darf pro OPS-Code ein OP-Datum übertragen werden. Ist dieser Unterschied**  **gewollt oder handelt es sich um einen Fehler im KBV-Hybrid-DRG-Datensatz?**
 
 ### Antwort der KBV:
 
@@ -351,37 +347,29 @@ Ein Angleich der Datensätze ist nicht geplant. Es wird davon ausgegangen, dass 
 
 ## Frage:
 
-Was für eine Abrechnungsdatei wird bei der Einreichung einer Hybrid
-
-erwartet?
+**Was für eine Abrechnungsdatei wird bei der Einreichung einer Hybrid-DRG Abrechnung in der KV**  **erwartet?**
 
 ### Antwort der KBV:
 
 Gemäß den Regelungen des KVDT-Anforderungskataloges und der KVDT-Datensatzbeschreibung muss bei
 
-der Abrechnung von Hybrid-DRG eine CON-Datei bei den KVen eingereicht werden.  für die Hybrid-DRG Abrechnungen die Regelungen des Kapitels 6 beachtet werden.
+der Abrechnung von Hybrid-DRG eine CON-Datei bei den KVen eingereicht werden. Insbesondere müssen
+
+für die Hybrid-DRG Abrechnungen die Regelungen des Kapitels 6 beachtet werden.
 
 ## Frage:
 
-Dürfen in einer Abrechnungsdatei (CON -Datei) die Leistungen von verschiedenen Betriebsstätten
-
-enthalten sein (bspw. aus einer Haupt und Nebenbetriebsstätte)?
+**Dürfen in einer Abrechnungsdatei (CON-Datei) die Leistungen von verschiedenen Betriebsstätten**  **enthalten sein (bspw. aus einer Haupt- und Nebenbetriebsstätte)?**
 
 ### Antwort der KBV:
 
-In einer Abrechnungsdatei können die erbrachten Leistungen aus mehreren Betriebsstätten übermittelt  werden. Grundsätzlich gilt, dass pro Satzart „hdrg1“ immer eine erbrachte Hybrid Betriebsstätte abgerechnet werden kann.
+In einer Abrechnungsdatei können die erbrachten Leistungen aus mehreren Betriebsstätten übermittelt  werden. Grundsätzlich gilt, dass pro Satzart „hdrg1“ immer eine erbrachte Hybrid-DRG Leistung aus einer
+
+Betriebsstätte abgerechnet werden kann.
 
 ## Frage:
 
-Sind Korrekturen von eingereichten HybridDRG Abrechnungen elektronisch in den KVen möglich?
-
-DRG -Leistung übertragen werden.
-
-Datensatz?
-
-DRG Abrechnung in der KV -1" befüllt werden.
-
-Insbesondere müssen -DRG Leistung aus einer
+**Sind Korrekturen von eingereichten Hybrid-DRG Abrechnungen elektronisch in den KVen möglich?**
 
 
 ---
@@ -484,11 +472,7 @@ bereits informiert wurde.
 
 ## Frage
 
-tritt das Verfahren zur elektronischen Ersatzbescheinigung in Kraft. Welchen
-
-Zum 01.07.2025
-
-Unterschied gibt es zur eingelesenen Chipkarte und bisherigen Ersatzverfahren?
+**Zum 01.07.2025 tritt das Verfahren zur elektronischen Ersatzbescheinigung in Kraft. Welchen**  **Unterschied gibt es zur eingelesenen Chipkarte und bisherigen Ersatzverfahren?**
 
 ### Antwort der KBV:
 
@@ -500,7 +484,7 @@ Grundsätzlich ist das eEB-Verfahren keine Alternative zur eGK sondern dient nur
 
 ## Frage
 
-Ist die Annahme der HDRG für die KVen verpflichtend? Für welchen KVBereich?
+**Ist die Annahme der HDRG für die KVen verpflichtend? Für welchen KV-Bereich?**
 
 ### Antwort der KBV:
 
@@ -508,9 +492,7 @@ Grundsätzlich ist die Annahme der HDRG-Abrechnung auch für die KVen nicht verp
 
 ## Frage
 
-Die KVen haben kommuniziert, dass so bald eine Beatmungsstunde ungleich „0“ angegeben wird, dass  DRG gilt. Warum kann eine Beatmungsstunde dann im
-
-die erbrachte Leistung dann nicht mehr als Hybrid Datensatz angegeben werden.
+**Die KVen haben kommuniziert, dass so bald eine Beatmungsstunde ungleich „0“ angegeben wird, dass**  **die erbrachte Leistung dann nicht mehr als Hybrid-DRG gilt. Warum kann eine Beatmungsstunde dann im**  **Datensatz angegeben werden.**
 
 ### Antwort der KBV:
 
@@ -522,7 +504,7 @@ Zur Klarstellung wird im kommenden Update eine Anforderung aufgenommen, dass der
 
 ## Frage
 
-Ebenso haben einige KVen kommuniziert, dass Leistungsstart und Leistungsende immer das gleiche  Datum besitzen müssen.
+**Ebenso haben einige KVen kommuniziert, dass Leistungsstart und Leistungsende immer das gleiche**  **Datum besitzen müssen.**
 
 ### Antwort der KBV:
 
@@ -530,7 +512,7 @@ Wir werden für diesen Sachverhalt eine Erläuterung im kommenden Update in den 
 
 ## Frage
 
-Gibt es im Rahmen der Ablösung von OMIM durch HGNC eine offizielle Mappingtabelle?
+**Gibt es im Rahmen der Ablösung von OMIM durch HGNC eine offizielle Mappingtabelle?**
 
 
 ---
@@ -565,7 +547,7 @@ Derzeit befindet sich der verbindliche Umsetzungstermin für das Verfahren eVDGA
 
 Die KBV wird umgehend informieren, wenn ein verbindlicher Umsetzungstermin vereinbart wurde.
 
-# SPRECHSTUNDE 6. MAI 2025 7
+# 7 SPRECHSTUNDE 6. MAI 2025
 
 ## Vorabinformationen zum Verfahren eVDGA
 
@@ -579,28 +561,24 @@ Die KBV empfiehlt, sich bereits jetzt mit dem Thema auseinanderzusetzen, um die 
 
 ## Vorabinformationen zum eEB
 
-Aussage der gematik gewartet.
-
-Es wird aktuell auf eine offizielle konkretisierende
+Es wird aktuell auf eine offizielle konkretisierende Aussage der gematik gewartet.
 
 Bis zur endgültigen Klärung bleiben alle bisher bestehenden Anforderungen der KBV zum Thema eEB  weiterhin gültig. Testmöglichkeiten über die Referenzumgebung der gematik sind weiterhin aktiv. Bei
 
 Fragen empfehlen wir die direkte Kontaktaufnahme mit den Krankenkassen
 
-Nachtrag: -Apps bestehen.
+Nachtrag:
 
-Gemäß der Aussage der gematik von der Aussetzung des Verfahrens nur der Teil Anfrage aus der Arztpraxis  betroffen, somit bleiben die Umsetzungspflichten des eEB gemäß der Technischen Anlage eEB bestehen für  den Teil Anforderung des eEB aus Krankenkassen
+Gemäß der Aussage der gematik von der Aussetzung des Verfahrens nur der Teil Anfrage aus der Arztpraxis  betroffen, somit bleiben die Umsetzungspflichten des eEB gemäß der Technischen Anlage eEB bestehen für  den Teil Anforderung des eEB aus Krankenkassen-Apps bestehen.
 
 
 ---
 
 ## Vorabinformationen zum Hybrid-DRG
 
--Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025
+Mit der Veröffentlichung des KVDT-Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025
 
-Mit der Veröffentlichung des KVDT werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs -/Enddatum
-
-Konkretisierungen vorgenommen.
+werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs -/Enddatum  Konkretisierungen vorgenommen.
 
 Der Parameter Beatmungsstunden bleibt bestehen. Er ist für die Eingabe im Grouper erforderlich. Dabei ist  sicherzustellen, dass der Wert nicht größer als 0 ist, da dieser sonst zur Auslösung einer DRG führen würde.  Es soll eine Hinweismeldung ausgegeben werden, dass Beatmungszeiten, die während einer Narkose  anfallen, nicht angegeben werden dürfen.
 
@@ -618,9 +596,9 @@ Es wird voraussichtlich zum 01.10.2025 eine weitere Anpassung der eRezept-Profil
 
 Nachtrag:
 
--FHIR-Profile wurde am 15. Mai 2025 mit Wirkung zum 1. Oktober 2025
+Die neue Version der eRezept-FHIR-Profile wurde am 15. Mai 2025 mit Wirkung zum 1. Oktober 2025
 
-Die neue Version der eRezept bereitgestellt.
+bereitgestellt.
 
 ## Frage:
 
@@ -638,11 +616,11 @@ Eine entsprechende Regelung wird im Anforderungskatalog aufgenommen.
 
 Nachtrag:
 
--Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein
-
 Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsseltabelle um HGNC-Ketten ist
 
-falsch gewesen. Bei den KBV Gen Eintrag zu betrachten.
+falsch gewesen. Bei den KBV-Einträgen handelt sich um Fusionsgene, dies bedeutet die Einträge sind als ein
+
+Gen Eintrag zu betrachten.
 
 ## Frage:
 
@@ -868,9 +846,9 @@ Beim Thema HGNC wurden bereits einige Regeln aus der OMIM-Kodierung übernommen 
 
 daher wurde auch hier die Bewertung von „Fehler“ auf „Warnung“ geändert.
 
-, werden
+Die Information, dass für bestimmten GOPen die Eingabe zur Art der Erkrankung entfallen kann, werden
 
-Die Information, dass für bestimmten GOPen die Eingabe zur Art der Erkrankung entfallen kann wir von der zuständige Fachabteilung prüfen lassen – Prüfung läuft aktuell noch.
+wir von der zuständige Fachabteilung prüfen lassen – Prüfung läuft aktuell noch.
 
 ## Frage:
 

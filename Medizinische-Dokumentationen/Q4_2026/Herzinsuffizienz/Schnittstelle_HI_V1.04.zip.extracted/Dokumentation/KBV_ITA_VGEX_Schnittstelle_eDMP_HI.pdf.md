@@ -467,17 +467,17 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches meh
 
 # 4 DOKUMENTENSTRUKTUR
 
-die Groß-/Kleinschreibung zu beachten.
-
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu beachten.
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement <levelone>, welches sich aus den  beiden Kindelementen <clinical_document_header> und <body> zusammensetzt, wie es in Abbildung 1
 
 dargestellt ist.
 
-Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in  Elements <levelone> von Chronische Herzinsuffizienz heißt
+Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind im Ordner „Schema“ in
 
-jedem Prüfmodul enthalten. Das Schema des  DMP_ ChronischeHerzinsuffizienz.xsd.
+jedem Prüfmodul enthalten. Das Schema des Elements <levelone> von Chronische Herzinsuffizienz heißt
+
+DMP_ ChronischeHerzinsuffizienz.xsd.
 
 **Abbildung 1:** Grundstruktur levelone
 
@@ -488,11 +488,7 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben
 
 **XML-Code 1:** levelone
 
-Header“ [
-
-Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP
-
-KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
+Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP Header“ [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
 
 Spezielle Unterschiede werden in Kapitel 5 beschrieben.
 
@@ -508,13 +504,11 @@ Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
 ## 5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP CHRONISCHE HERZINSUFFIZIENZ
 
-Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems
+Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender
 
--Attributs ist gemäß Pflichtfunktion P2
+(OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des
 
-AdministrativeGender -52 des
-
-(OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
+Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
 
 |  |  |
 |---|---|
@@ -576,13 +570,9 @@ aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entspreche
 
 ### 6.1.2 content
 
-*ignore descriptor*
-
-hat den festen
-
 Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element
 
-<local_markup> hat die erforderlichen Attribute  und . Das Attribut *ignore*
+<local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen
 
 Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut
 
@@ -596,13 +586,11 @@ der feste Wert „sciphox“ vorgeschrieben.
 
 Für die Darstellung von Daten von Chronische Herzinsuffizienz („erstmalige Dokumentation“ und
 
-*observation* verwendet. Das Element
+Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element
 
-Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,
+<sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,
 
-*version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1
-
-*country*=“de“,
+*country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1
 
 verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach
 
@@ -611,34 +599,28 @@ folgendermaßen aus:
 | <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">   …    </sciphox:sciphox-ssu>   </local_markup> </content> |
 |---|
 
-content mit sciphox -SSU (observation)
-
-**XML-Code 4:**
+**XML-Code 4:** content mit sciphox -SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
-sich aus jeweils genau
+Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau
 
-Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> und <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter>  Kindelemente angegeben werden. Um zu kennzeichnen,
+einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> und <sciphox:Beobachtungen> zusammen. Neben dem <sciphox:Parameter>  Element muss mindestens eins dieser optionalen Kindelemente angegeben werden. Um zu kennzeichnen,
 
-Element muss mindestens eins dieser optionalen dass keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe einer  <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
+dass keine Angaben zu einem bestimmten Parameter gemacht wurden, wird der komplette  <sciphox:Beobachtung>-Block mit dem jeweiligen Parameter weggelassen. Die Angabe einer  <sciphox:Beobachtung> mit nur einem Element <sciphox:Parameter> ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-Aufbau Sciphox-SSU observation
-
-**Abbildung 4:**
+**Abbildung 4:** Aufbau Sciphox-SSU observation
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">           </sciphox:sciphox-ssu> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>        </sciphox:sciphox-ssu> |
 |---|
 
-Beobachtungen
+**XML-Code 5:** Beobachtungen
 
-**XML-Code 5:**
-
-<sciphox:Beobachtungen> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>|  |  |
+<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>|  |  |
 |---|---|
 
 
@@ -646,60 +628,62 @@ Beobachtungen
 
 ### 6.1.3.1 Parameter
 
-*DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die
 
-Das Element <Parameter> enthält nur das  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben
+(z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
-werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
-
-*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*
-
-*den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
+*Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML* *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 6:** Parameter
 
 ### 6.1.3.2 Ergebnistext
 
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
-
-Das Element <Ergebnistext> enthält nur das
-
-*V-*Attribut, angegeben. Der XML-Code
-
-hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
+Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 | <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
+
+*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
 
 **XML-Code 7:** Ergebnistext
 
 ### 6.1.3.3 Ergebniswert
 
-*V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
+Das Element <Ergebniswert> enthält nur das *V-*
 
-Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als
+Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im
 
-Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m
+Dezimaltrennzeichen wird der Dezimalpunkt verwendet. eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
-
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 8:** Ergebniswert
 
 ### 6.1.3.4 Beobachtungen
 
-ter in einem
-
 In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parame Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Beobachtung> <sciphox:Ergebniswert V=". . ." U="..."/>|  |  |
+und *U*-Attribut. Einzelne Ausprägungen, die als Werte im
+
+Im U-Attribut (UNIT) wird di
+
+*V-*Attribut, angegeben. Der XML-Code
+
+Parameter aus dem Datensatz
+
+*-Schnittstelle 1:1 aus*
+
+*V-*Attribut, angegeben. Als  e Einheit (z.B. „m
+
+ter in einem
+
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>|  |  |
 |---|---|
 
 
@@ -709,13 +693,9 @@ In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parame Beobac
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation*
 
-Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und
-
-mindestens ein Kindelement <sciphox:Ergebnistext
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -726,11 +706,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ### 6.1.4.1 Einschreibung wegen
 
-*V*-Attribut die Feldbezeichnung
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  mit entsprechenden Werten angegeben werden.
-
-Elemente <sciphox:Ergebnistext>
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -739,13 +715,19 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 10:** Einschreibung wegen
 
+verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
+
+sciphox:Parameter> und
+
+*V*-Attribut die Feldbezeichnung
+
 <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/>|  |  |
 |---|---|
 
 
 ---
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Asthma bronchiale |
 | KHK |
@@ -760,23 +742,13 @@ Als Beispiel sei hier folgender Code angegeben:
 | Adipositas - Erwachsene |
 | Adipositas - Kinder und Jugendliche |
 
-Werte bei Ergebnistext (Einschreibung wegen)
+**Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
-**Tabelle 4:**
-
-### Abschnitt „Anamnese und Befunddaten“
-
-### 6.1.5
-
-###
+### 6.1.5 Abschnitt „Anamnese und Befunddaten“
 
 Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
-*observation*
-
-Im Element <content> wird die Sciphox-SSU
-
-verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
@@ -784,22 +756,20 @@ verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-Wert bei Ergebnistext (V="...")|  |  |
+|  |  |
 |---|---|
 
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                          <sciphox:Beobachtung>       <sciphox:Parameter DN="Symptomatik"/>          <sciphox:Beobachtung>       <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/>       <sciphox:Ergebnistext V="Nein"/>     </content> |
+| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                          <sciphox:Beobachtung>       <sciphox:Parameter DN="Symptomatik"/>       <sciphox:Ergebnistext V="NYHA II"/>   <sciphox:Beobachtung>       <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/>       <sciphox:Ergebnistext V="Nein"/>     </content> |
 |---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
 
 ### 6.1.5.1 Körpergröße
 
-<sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im
-
-Bei diesem Parameter enthält das Element
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im
 
 *U* Attribut den fest vorgeschriebenen Wert „m“.
 
@@ -812,13 +782,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.2 Körpergewicht
 
-im *V* Attribut das „Körpergewicht“ und
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut das „Körpergewicht“ und
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *U* Attribut den fest vorgeschriebenen Wert „kg“.
+im *U* Attribut den fest vorgeschriebenen Wert „kg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Ergebnistext V="NYHA II"/> </sciphox:Beobachtung> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> |  |  |
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> </sciphox:Beobachtung> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> |  |  |
 |---|---|
 
 
@@ -827,37 +797,31 @@ Als Beispiel sei hier folgender Code angegeben:
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-Körpergewicht
-
-**XML-Code 13:**
+**XML-Code 13:** Körpergewicht
 
 ### 6.1.5.3 Raucher
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 Bei diesem Parameter enthält das Element gemäß Tabelle 5.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14:** Raucher
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
+
+<sciphox:Ergebnistext> im
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
 ### 6.1.5.4 Blutdruck systolisch
 
-*V* Attribut den „systolischen Wert“
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im
-
-und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -868,20 +832,22 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.5 Blutdruck diastolisch
 
-*V* Attribut den „diastolischen Wert“
-
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-Blutdruck diastolisch
+**XML-Code 16:** Blutdruck diastolisch
 
-**XML-Code 16:**
+*V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>|  |  |
+*V* Attribut den „systolischen Wert“
+
+*V* Attribut den „diastolischen Wert“
+
+<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>|  |  |
 |---|---|
 
 
@@ -889,18 +855,16 @@ Blutdruck diastolisch
 
 ### 6.1.5.6 Begleiterkrankungen
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
-Begleiterkrankungen
-
-**XML-Code 17:**
+**XML-Code 17:** Begleiterkrankungen
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -917,18 +881,16 @@ Begleiterkrankungen
 
 ### Symptomatik
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 7.
+gemäß Tabelle 7.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-Symptomatik
-
-**XML-Code 18:**
+**XML-Code 18:** Symptomatik
 
 <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="Symptomatik"/> <sciphox:Ergebnistext V="NYHA II"/>|  |  |
 |---|---|
@@ -936,7 +898,7 @@ Symptomatik
 
 ---
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | NYHA I |
 | NYHA II |
@@ -947,13 +909,13 @@ Symptomatik
 
 ### Serum-Elektrolyte und eGFR in den letzten sechs Monaten
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
 
 gemäß Tabelle 8.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 19:** Raucher
@@ -967,11 +929,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.6 Abschnitt „Relevante Ereignisse“
 
-verwendet, sondern nur bei der
-
 Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht Verlaufsdokumentation, siehe Kapitel 7.1.1.
 
-Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/> <sciphox:Ergebnistext V="Nein "/>|  |  |
+*V*-Attribut die Feldbezeichnung
+
+verwendet, sondern nur bei der
+
+<sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten <sciphox:Ergebnistext V="Nein "/> "/>|  |  |
 |---|---|
 
 
@@ -981,9 +945,9 @@ Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Ser
 
 Dieses Kapitel beschreibt den Abschnitt „Medikamente“.
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
 
 <sciphox:Beobachtungen> enthält minimal vier bis maximal sieben Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> .
 
@@ -996,9 +960,9 @@ Der Coderahmen sieht wie folgt aus:
 
 ### ACE-Hemmer
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1013,7 +977,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 21:** ACE-Hemmer
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
@@ -1030,7 +994,7 @@ gemäß Tabelle 10. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung>  = „  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 22:** Evidenzbasierte Zieldosis ACE -Hemmer oder ARB
@@ -1040,7 +1004,7 @@ Als Beispiel sei hier folgender Code angegeben:
 | Erreicht |
 | Nicht erreicht |
 | Titrationsphase |
-|  |
+| Max. tolerierte Dosis erreicht |
 
 **Tabelle 10:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis ACE -Hemmer oder ARB)
 
@@ -1058,7 +1022,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Tabelle 11. Wenn bei diesem Parameter
 
-Wert bei Ergebnistext (V="...") <sciphox:Parameter DN Evidenzbasierte Zieldosis ACE-Hemmer oder ARB “/> <sciphox:Ergebnistext V Nicht erreicht “/> <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht “/> Max. tolerierte Dosis erreicht|  |  |
+<sciphox:Parameter DN = „ Evidenzbasierte Zieldosis ACE-Hemmer oder ARB “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/>|  |  |
 |---|---|
 
 
@@ -1067,9 +1031,7 @@ Wert bei Ergebnistext (V="...") <sciphox:Parameter DN Evidenzbasierte Zieldosis 
 | <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
-Betablocker
-
-**XML-Code 23:**
+**XML-Code 23:** Betablocker
 
 | Wert bei Ergebnistext (V="...") |
 |---|
@@ -1087,7 +1049,7 @@ gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> = „  = „ </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 24:** Evidenzbasierte Zieldosis Betablocker
@@ -1097,21 +1059,19 @@ Als Beispiel sei hier folgender Code angegeben:
 | Erreicht |
 | Nicht erreicht |
 | Titrationsphase |
-|  |
+| Max. tolerierte Dosis erreicht |
 
 **Tabelle 12:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis Betablocker)
 
 ### Mineralokortikoid-Rezeptor-Antagonist (MRA)
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> Evidenzbasierte Zieldosis Betablocker “/> <sciphox:Parameter DN <sciphox:Ergebnistext V Nicht erreicht “/> Max. tolerierte Dosis erreicht “/> <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht|  |  |
+<sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis Betablocker “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/>|  |  |
 |---|---|
 
 
@@ -1132,15 +1092,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Evidenzbasierte Zieldosis MRA
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> = „  = „ </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>    </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 26:** Evidenzbasierte Zieldosis MRA
@@ -1150,21 +1106,21 @@ Als Beispiel sei hier folgender Code angegeben:
 | Erreicht |
 | Nicht erreicht |
 | Titrationsphase |
-|  |
+| Max. tolerierte Dosis erreicht |
+
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **Tabelle 14:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis MRA)
 
 ### SGLT2  Inhibitor
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> Evidenzbasierte Zieldosis MRA “/> <sciphox:Parameter DN <sciphox:Ergebnistext V Nicht erreicht “/> Max. tolerierte Dosis erreicht “/> <sciphox:Ergebnistext V Max. tolerierte Dosis erreicht|  |  |
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis MRA <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> “/>|  |  |
 |---|---|
 
 
@@ -1223,7 +1179,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 29:** Herzinsuffizienz -spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
@@ -1232,32 +1188,26 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dokumentation) )
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...")|  |  |
+<sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
 ---
 
-### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung
+### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen
 
-### teilgenommen
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 30:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen
 
 Schulung teilgenommen
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
@@ -1266,33 +1216,33 @@ Schulung teilgenommen
 
 teilgenommen
 
-### „Behandlungsplanung“
-
-### 6.1.9 Abschnitt
+### 6.1.9 Abschnitt „Behandlungsplanung“
 
 Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-*observation*
-
-Im Element <content> wird die Sciphox-SSU
-
-verwendet. Der Aufbau dieser SSU ist in Kapitel
-
-6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
-
-<sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  sciphox:Parameter>
-
-Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < und mindestens ein Kindelemente <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < und mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...")|  |  |
+<sciphox:Ergebnistext> im
+
+*observation*
+
+### -spezifischen Schulung
+
+*V*-Attribut die Feldbezeichnung
+
+verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
+
+sciphox:Parameter>
+
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> -spezifischen Schulung |  |  |
 |---|---|
 
 
 ---
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>          "/>          </content> |
+| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>                    </content> |
 |---|
 
 **XML-Code 31:** content (Behandlungsplanung )
@@ -1301,13 +1251,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
-
-Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <sciphox:Beobachtung> der Krankenkasse "/>  </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 32:** Vom Patienten gewünschte Informationsangebote der Krankenkasse
@@ -1324,13 +1272,13 @@ Krankenkasse)
 
 ### 6.1.9.2 Dokumentationsintervall
 
-sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-Bei diesem Parameter enthält das Element < gemäß Tabelle 19.
+gemäß Tabelle 19.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/>|  |  |
+<sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/> der Krankenkasse "/>|  |  |
 |---|---|
 
 
@@ -1341,7 +1289,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 33:** Dokumentationsintervall
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Quartalsweise |
 | Jedes zweite Quartal |
@@ -1356,12 +1304,12 @@ gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, 
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| </sciphox:Beobachtung> |
+| <sciphox:Beobachtung>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 34:** Regelmäßiges körperliches Training
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
@@ -1382,7 +1330,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 35:** Führen eines Gewichtsprotokolls
 
-<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> Wert bei Ergebnistext (V="...") <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
+<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
 |---|---|
 
 
@@ -1422,7 +1370,7 @@ Im Element <content> wird die Sciphox-SSU *observation*
 
 Der Coderahmen sieht wie folgt aus:
 
-| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>   =“     </local_markup>  </content> |
+| <content>   <local_markup ignore="all" descriptor="sciphox">    <sciphox:sciphox-ssu type="observation" country="de" version="v1">     <sciphox:Beobachtungen>        </local_markup>  </content> |
 |---|
 
 **XML-Code 36:** content (Relevante Ereignisse)
@@ -1494,18 +1442,18 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 39:** Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen
 
-|  |
+| Wert bei Ergebnistext (V="...") |
 |---|
 | Ja |
 | Nein |
 | War aktuell nicht möglich |
-|  |
+| Bei letzter Dokumentation keine Schulung empfohlen |
 
 **Tabelle 22:** Werte bei Ergebnistext ( Empfohlene Herzinsuffizienz
 
 wahrgenommen) -spezifische Schulung
 
-<sciphox:Beobachtung> <sciphox:Parameter DN Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> Wert bei Ergebnistext (V="...") Bei letzter Dokumentation keine Schulung empfohlen|  |  |
+<sciphox:Beobachtung> <sciphox:Parameter DN Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
 |---|---|
 
 

@@ -69,7 +69,7 @@ INHALT
 
 3.1 PTV 1: Antrag des Versicherten auf Psychotherapie 10
 
-PTV 1a (7.2020) 3.1.1
+3.1.1 PTV 1a (7.2020)
 
 10
 
@@ -81,17 +81,17 @@ PTV 1a (7.2020) 3.1.1
 
 12
 
-PTV 1c.2 (7.2020) 3.1.4
+3.1.4 PTV 1c.2 (7.2020)
 
 13
 
 3.2 PTV 2: Angaben des Therapeuten zum Antrag des Versicherten 14
 
-PTV 2a (7.2020) 3.2.1
+3.2.1 PTV 2a (7.2020)
 
 14
 
-PTV 2b (7.2020) 3.2.2
+3.2.2 PTV 2b (7.2020)
 
 15
 
@@ -101,17 +101,17 @@ PTV 2b (7.2020) 3.2.2
 
 3.3 PTV 11: Individuelle Patienteninformation zur ambulanten Psychotherapeutischen  Sprechstunde 17
 
-PTV 11a (7.2020) 3.3.1
+3.3.1 PTV 11a (7.2020)
 
 17
 
-PTV 11b (7.2020) 3.3.2
+3.3.2 PTV 11b (7.2020)
 
 18
 
 3.4 PTV 12: Anzeige der Akutbehandlung 19
 
-PTV 12a (7.2020) 3.4.1
+3.4.1 PTV 12a (7.2020)
 
 19
 
@@ -250,7 +250,7 @@ gen entsprechend realisiert werden.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist im Rahmen  des Begutachtungsverfahrens nachzuweisen.
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
 | P3-10 | Funktionsbezeichnung |
 
@@ -266,7 +266,7 @@ Ident-Nummer einer optionalen Funktion
 
 **2.8** **ZULÄSSIGE BFB-FORMULARE**
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
 | P2.8-10 | Verwendung zulässiger BFB-Formulare |
 
@@ -280,7 +280,7 @@ Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT -Formulare a
 
 **2.10** **ÄNDERUNGSDIENST / LOGISTIK**
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
 | P2.10-10 | Änderungsdienst |
 
@@ -288,7 +288,6 @@ Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT -Formulare a
 
 Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherstellen, dass spätestens  mit Beginn des Folgequartals bzw. des genannten Stichtages die in der Praxis betroffenen Formulare ent- sprechend angepasst werden.
 
-PFLICHTFUNKTION BFB PFLICHTFUNKTION BFB PFLICHTFUNKTION BFB
 
 ---
 
@@ -296,33 +295,33 @@ PFLICHTFUNKTION BFB PFLICHTFUNKTION BFB PFLICHTFUNKTION BFB
 
 Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB -Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest- riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a  [KBV_ITA_VGEX_Mapping_KVK] und des KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT].
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
-| P2.11 | Geltungsbereich |
+| P2.11-10 | Geltungsbereich |
 
 Die Anwendungssoftware darf den Ausdruck von psychotherapeutischen BFB -Formularen nur unterstützen  bei Versicherten der
 
 - Gesetzlichen Krankenversicherung (GKV)
 
-| BFB | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
-| P2.10 | Vorgaben aus dem Anforderungskatalog Formularbedruckung |
+| P2.10-11 | Vorgaben aus dem Anforderungskatalog Formularbedruckung |
 
 Die Software muss für den Blankoformulardruck der unterstützten Muster die Vorgaben aus dem Anforde- rungskatalog Formularbedruckung einhalten.
 
-Begründung: Der Anforderungskatalog Formularbedruckung definiert Anforderungen zum korrekten Ge-
+**Begründung:** Der Anforderungskatalog Formularbedruckung definiert Anforderungen zum korrekten Ge-
 
 brauch und Ausdruck vertragsärztlicher Formulare.
 
-Akzeptanzkriterium: Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal-
+**Akzeptanzkriterium:** Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal-
 
 tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskatalog_Formularbe-
 
 druckung] für die unterstützten Muster definierten Anforderungen.
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
-| P2.11 | Ausdruck eines Blankoformulars mit Bewegungsdaten |
+| P2.11-20 | Ausdruck eines Blankoformulars mit Bewegungsdaten |
 
 Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei unterschiedlichen Varianten  unterstützen:
 
@@ -332,17 +331,16 @@ Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei untersc
 
 - Ausdruck des BFB-Formulars ohne personenbezogene Daten (Daten des Personalienfelds oder verkürz- ten Personalienfelds) und ohne formularspezifische Daten
 
-Begründung:
+**Begründung:**
 
 Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzudruckenden Bewegungs- daten variieren.
 
-Akzeptanzkriterium:
+**Akzeptanzkriterium:**
 
 - 1. Die Software ermöglicht den Ausdruck eines BFB-Formulars mit den zulässigen personenbezogenen und  optional beliebigen formularspezifischen Daten.
 
 - 2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten- träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.
 
-PFLICHTF UNKTION BFB -10 PFLICHTF UNKTION -11 PFLICHTF UNKTION BFB -20
 
 ---
 
@@ -364,7 +362,7 @@ PFLICHTF UNKTION BFB -10 PFLICHTF UNKTION -11 PFLICHTF UNKTION BFB -20
 
 - a) In diesem Fall ist nur die Prüfnummer aufzudrucken.
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
 | P2.11-40 | Ausdruck der Prüfnummer |
 
@@ -374,7 +372,7 @@ Für den Ausdruck der Prüfnummer gilt:
 
 Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck -Vereinbarung Blankoformular- bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
 
-|  | |
+| PFLICHTFUNKTION BFB | |
 |---|---|
 | P2.11-41 | Bedruckung von Datumsangaben auf Blankoformularvorlagen |
 
@@ -394,7 +392,6 @@ Da bisherige Formate wie „TTMMJJ“ für Ärzte und Patienten zu Verständnisp
 
 Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im Rahmen der konventionel- len Muster ist das Format durch die jeweilige Vorlage vorgegeben.
 
-PFLICHTFUNKTION BFB PFLICHTFUNKTION BFB
 
 ---
 

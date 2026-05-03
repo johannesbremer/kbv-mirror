@@ -33,7 +33,7 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 | Grad der | kontrolliert | teilweise kontrolliert | unkontrolliert |
 |---|---|---|---|
-| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Mindestens 3 der 4 |
+| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Kriterien des teilweise |
 | Symptome am Tage | ≤ | > 2 x / Woche | > als 2 x / Woche |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
@@ -41,7 +41,7 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 1 Ohne den prophylaktischen Einsatz vor geplanter sportlicher Betätigung
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Bedarfsmedikation Kriterien des teilweise kontrollierten Asthmas
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Bedarfsmedikation Mindestens 3 der 4 kontrollierten Asthmas
 
 ---
 
@@ -49,7 +49,7 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Bedarfsme
 
 | Grad der | kontrolliert | teilweise kontrolliert | unkontrolliert |
 |---|---|---|---|
-| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Mindestens 3 der 4 |
+| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Kriterien des teilweise |
 | Symptome am Tage | < 1 x / Woche | ≥ |  |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
@@ -103,33 +103,25 @@ bzw.
 
 Ihres Patienten zum -
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Kriterien des teilweise kontrollierten Asthmas
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
 
 ---
 
-- “ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient
+- **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient
 
-- **Häufiger als 2 mal wöchentlich** gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen angibt, seine
-
-- Asthma-spezifische Bedarfsmedikation verwendet zu haben.
+- gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen angibt, seine  Asthma-spezifische Bedarfsmedikation verwendet zu haben.
 
 - **„2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
 
-- bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma-
-
-- spezifische Bedarfsmedikation verwendet zu haben.
+- bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
 
 - **1 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer
 
-- bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma-
-
-- spezifische Bedarfsmedikation verwendet zu haben.
+- bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
 
 - **< 1 mal wöchentlich**“ ist anzugeben, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw.
 
-- seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche angibt,
-
-- ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
+- seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche angibt,  ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
 
 - **Keine**“ ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner
 
@@ -141,9 +133,9 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Kriterien
 
 Genau eine Angabe ist erforderlich.
 
-Ihrer Patientin bzw. Ihrem Patienten zu Einschränkungen von
+Geben Sie bitte hier an, ob es bei Ihrer Patientin bzw. Ihrem Patienten zu Einschränkungen von
 
-Geben Sie bitte hier an, ob es bei  Aktivitäten im Alltag gekommen ist, die durch ihr bzw. sein Asthma bronchiale bedingt waren. Die  Angabe bezieht sich dabei auf die Einschätzung des Patienten zum Dokumentationszeitpunkt  rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der Asthmakontrolle.
+Aktivitäten im Alltag gekommen ist, die durch ihr bzw. sein Asthma bronchiale bedingt waren. Die  Angabe bezieht sich dabei auf die Einschätzung des Patienten zum Dokumentationszeitpunkt  rückblickend für die letzten 4 Wochen und dient u. a. der Beurteilung der Asthmakontrolle.
 
 #### In den letzten 4 Wochen: Asthmabedingte Störung des Nachschlafes
 
@@ -153,23 +145,19 @@ Geben Sie bitte hier an, ob es bei Ihrer Patientin bzw. Ihrem Patienten zu asthm
 
 #### Aktueller FEV -Wert (mindestens alle 12 Monate1
 
-Monate zur objektiven Bewertung und Einstufung des Asthma bronchiale
+Die Durchführung einer Lungenfunktionsmessung wird ab dem vollendeten 5. Lebensjahr  mindestens alle 12 Monate zur objektiven Bewertung und Einstufung des Asthma bronchiale
 
-Die Durchführung einer Lungenfunktionsmessung wird ab dem vollendeten 5. Lebensjahr  mindestens alle 12  empfohlen.
+empfohlen.
 
 Genau eine Angabe ist erforderlich.
 
-1-Wert Ihrer Patientin bzw. Ihres Patienten als
+Geben Sie hier bitte den aktuell gemessenen FEV -Wert Ihrer Patientin bzw. Ihres Patienten als 1
 
-Geben Sie hier bitte den aktuell gemessenen FEV es“ mit drei Stellen vor und einer Stelle hinter dem Komma oder „
-
-Prozent-Wert des Sollwert
-
-Nicht
+Prozent-Wert des Sollwertes“ mit drei Stellen vor und einer Stelle hinter dem Komma oder „ Nicht
 
 durchgeführt“ an.
 
-Die Angabe „Nicht durchgeführt“ kann auch dann verwendet werden, wenn eine FEV 1-Messung z.
+Die Angabe „Nicht durchgeführt“ kann auch dann verwendet werden, wenn eine FEV -Messung z. 1
 
 B. aufgrund des Alters bei Kindern nicht valide durchgeführt werden kann.
 
@@ -177,9 +165,9 @@ B. aufgrund des Alters bei Kindern nicht valide durchgeführt werden kann.
 
 #### Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  Asthma bronchiale seit der letzten Dokumentation
 
-**Folgedokumentation** möglich und ist hier
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
+verpflichtend.
 
 
 ---
@@ -208,7 +196,7 @@ Tabelle: Medikamentöses Stufenschema Asthma-Therapie: Erwachsene
 |---|---|---|
 | Stufe 1 | SABA | Keine   Andere Therapieoptionen können unter Beachtung der |
 |  | Stufe 2 | ICS niedrigdosiert |
-| Stufe 3 | SABA oder ICS + Formoterol Dauertherapie) | ICS niedrigdosiert + LABA (1. Wahl) oder ICS mitteldosiert |
+| Stufe 3 | SABA oder ICS + Formoterol (wenn Teil der | ICS niedrigdosiert + LABA (1. Wahl) oder ICS mitteldosiert |
 |  | Stufe 4 | ICS mittel- bis hochdosiert + LABA (1. Wahl) oder ICS mittel- bis hochdosiert + LABA + LAMA |
 |  | Stufe 5 | ICS Höchstdosis + LABA + LAMA Bei unzureichender Kontrolle: Nachrangig: OCS |
 
@@ -222,7 +210,7 @@ nachgewiesen wurden. Dabei sollen
 
 , LABA: Lang wirkende Beta-2-Sympathomimetika,
 
-(wenn Teil der Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper -2-Sympathomimetika, OCS: orale Glukokortikosteroide)
+Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper -2-Sympathomimetika, OCS: orale Glukokortikosteroide)
 
 
 ---
@@ -362,51 +350,45 @@ Ihres Patienten mindestens einmal im
 
 Eine Angabe ist erforderlich.
 
-Ihrer Patientin bzw. Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an
+Wenn Sie Ihrer Patientin bzw. Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an
 
-Wenn Sie  einem Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie
+einem Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie
 
-bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte,  aus und kreuzen hier „Ja“ an.
+bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte,  sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
 
-sprechen Sie die Empfehlung bitte erneut
+Wurde *keine Schulung* empfohlen (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung
 
-*keine Schulung* empfohlen (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung
-
-Wurde
-
-an.
-
-wahrgenommen hat), geben Sie dies bitte entsprechend mit „Nein“
+wahrgenommen hat), geben Sie dies bitte entsprechend mit „Nein“ an.
 
 #### Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
-Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient (bzw. bei (Klein)Kindern ggf. die Eltern bzw.
+Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient (bzw. bei (Klein)Kindern ggf. die Eltern bzw.  die Bezugspersonen) bereits vor ihrer bzw. seiner Teilnahme am DMP Asthma an einer Asthma Schulung teilgenommen hat. Eine Angabe zu diesem Feld ist nur im Rahmen einer
 
-hat. Eine Angabe zu diesem Feld ist nur im Rahmen einer
-
-die Bezugspersonen) bereits vor ihrer bzw. seiner Teilnahme am DMP Asthma an einer Asthma Schulung teilgenommen  **Erstdokumentation** möglich und ist hier verpflichtend. Bei der **Folgedokumentation** ist hier keine
+**Erstdokumentation** möglich und ist hier verpflichtend. Bei der **Folgedokumentation** ist hier keine
 
 Angabe möglich.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
-- a) akkreditierte und für das DMP zugelassene Schulungen, sowie
+- a) akkreditierte und für das DMP zugelassene Schulungen, sowie - b)
 
-- b) andere Schulungsmaßnahmen, die der Patientin bzw. den Patienten (oder bei (Klein)Kindern  die Eltern bzw. Bezugspersonen) durch den Erwerb von Kenntnissen und Fertigkeiten über  die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der Basis eigener  Entscheidungen das Asthma bestmöglich in das eigene Leben zu integrieren, akute oder  langfristige negative Konsequenzen des Asthmas zu vermeiden und die Lebensqualität zu  erhalten.
+- die Eltern bzw. Bezugspersonen) durch den Erwerb von Kenntnissen und Fertigkeiten über  andere Schulungsmaßnahmen, die der Patientin bzw. den Patienten (oder bei (Klein)Kindern
+
+- die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der Basis eigener  Entscheidungen das Asthma bestmöglich in das eigene Leben zu integrieren, akute oder  langfristige negative Konsequenzen des Asthmas zu vermeiden und die Lebensqualität zu  erhalten.
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute  Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!
 
-dokumentieren Sie dies
+Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen, dokumentieren Sie dies
 
-Wurde vor der Einschreibung in das DMP keine Schulung wahrgenommen,  bitte mit der Angabe „Nein“.
+bitte mit der Angabe „Nein“.
 
 #### Empfohlene Asthma-Schulung wahrgenommen
 
 Eine Angabe ist erforderlich.
 
-rückblickend auf eine Schulung, die
+Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die
 
-Die Angaben zur Schulung beziehen sich hier ausschließlich  Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend . Bei der
+Sie Ihrer Patientin bzw. Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend . Bei der
 
 Erstdokumentation ist hier keine Angabe möglich
 
@@ -418,9 +400,9 @@ nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „ Nein“ an
 
 kann bei wiederholter Angabe zum Ausschluss der/des Versicherten aus dem Programm führen!
 
-War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des
+Die Ausprägung „ War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des
 
-Die Ausprägung „ Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
+Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
 
 
 ---

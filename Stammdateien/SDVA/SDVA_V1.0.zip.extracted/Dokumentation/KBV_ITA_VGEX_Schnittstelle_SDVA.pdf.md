@@ -360,9 +360,9 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 |---|---|
 | Bestandteile des | Beschreibung |
 | - | Trennungszeichen zwischen den Namenselementen |
-| Datatyp | Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem |
+| Datatyp | Header-Element <document_type_cd>. |
 | vv.vv | VersionsNr. der Datentypbeschreibung; Entspricht dem Element <version> |
-| Sender | Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der |
+| Sender | Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element |
 | tf+ | timeframe (YYYYqQ) |
 | YYYY | Jahr |
 | q | fix |
@@ -371,7 +371,7 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 | 2.1 | Standard-Zeichensatz ist ISO-8859-15. |
 | 2.2 | Standard-Namespace ist |
 
-EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>.
+EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem des Header-Elements <interface>. Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der <person> oder dem Element <organization> des Header-Elements <provider>.
 
 ---
 
@@ -387,10 +387,10 @@ EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informa
 |  |  |
 | BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 | Q | Quartal |
-| nr+ | number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere |
-| du+ | dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals |
+| nr+ | Lieferungen erfolgen |
+| du+ | verwendet werden |
 
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens Lieferungen erfolgen verwendet werden Beispiel: VA_01.00_74_tf+2022q1_nr+1.xml
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals Beispiel: VA_01.00_74_tf+2022q1_nr+1.xml
 
 ---
 
@@ -431,17 +431,17 @@ dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch d
 
 Es werden außerdem folgende Diagramm-Symbole verwendet:
 
-|  | |
+| BESCHREIBUNG SONSTIGER SYMBOLE | |
 |---|---|
-| bol |  |
+| Symbol | Beschreibung |
 |  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
-|  | Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
+|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 Tabelle 4: Beschreibung sonstiger Symbole
 
-BESCHREIBUNG SONSTIG ER SYMBOLE Sym Beschreibung Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
 ---
 
@@ -455,7 +455,7 @@ Abbildung 1: /ehd (root-Element)
 
 Das ***<ehd>*** - Element hat folgenden Aufbau:
 
-| xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" <ehd:header> ... </ehd:header> <ehd:body> ... </ehd:body> </ehd:ehd> |
+| <?xml version="1.0" encoding="ISO-8859-15"?> <ehd:ehd xmlns="urn:ehd/001" <ehd:header> ... </ehd:header> <ehd:body> ... </ehd:body> </ehd:ehd> |
 |---|
 
 Formel 1: XML-Code /ehd
@@ -472,7 +472,7 @@ Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im bo
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
-<?xml version="1.0" encoding="ISO-8859-15"?> <ehd:ehd xmlns="urn:ehd/001" ehd_version="...">
+xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="...">
 
 ---
 
@@ -498,7 +498,7 @@ Abbildung 2 va_stammdaten
 
 Der Coderahmen für das <va_stammdaten>-
 
-| ... </haupt_zweig_liste> |
+| <va_stammdaten> <haupt_zweig_liste> ... </haupt_zweig_liste>  </va_stammdaten> |
 |---|
 
 Element sieht wie folgt aus:
@@ -515,11 +515,10 @@ Abbildung 3 haupt_zweig_liste
 
 Der Coderahmen für das <haupt_zweig_liste>-Element sieht wie folgt aus:
 
-<va_stammdaten> <haupt_zweig_liste> </va_stammdaten>
 
 ---
 
-| <haupt_zweig_liste> =“Anleitung zur Verschlüsselung“   ... </haupt_zweig> <haupt_zweig V=“2“ DN=“Wesentliche jährliche Änderungen der ICD-10-GM-Daten“>   ... </haupt_zweig> |
+| <haupt_zweig_liste> <haupt_zweig V=“1“ DN>   ... </haupt_zweig> <haupt_zweig V=“2“ DN=“Wesentliche jährliche Änderungen der ICD-10-GM-Daten“>   ... </haupt_zweig> </> |
 |---|
 
 Formel 3: XML-Code: haupt_zweig_liste
@@ -538,12 +537,12 @@ Abbildung 4 haupt_zweig
 
 Der Coderahmen für das <haupt_zweig>- Element sieht wie folgt aus:
 
-| <haupt_zweig V=“1“ DN=“Anleitung zur Verschlüsselung“> Anleitung zur Verschlüsselung /> <nr V=“1“ /> <hauptkapitel_liste>     ...  </> |
+| <haupt_zweig V=“1“ DN=“Anleitung zur Verschlüsselung“> <titel V=““ <nr V=“1“ /> <hauptkapitel_liste>     ... </hauptkapitel_liste> </> |
 |---|
 
 Formel 4: XML-Code: haupt_zweig
 
-<haupt_zweig V=“1“ DN> </> <titel V=““ </hauptkapitel_liste>
+=“Anleitung zur Verschlüsselung“ Anleitung zur Verschlüsselung />
 
 ---
 
@@ -575,7 +574,7 @@ Abbildung 5 hauptkapitel_liste
 
 Der Coderahmen für das <hauptkapitel_liste>-Element sieht wie folgt aus:
 
-| ... </hauptkapitel>      ... </hauptkapitel> |
+| <hauptkapitel_liste> <hauptkapitel V=“...“>    ... </hauptkapitel>  <hauptkapitel V=“...“>    ... </hauptkapitel>  </hauptkapitel_liste> |
 |---|
 
 Formel 5: XML-Code: hauptkapitel_liste
@@ -586,7 +585,7 @@ Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Informati
 
 Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
 
-DN <hauptkapitel_liste> <hauptkapitel V=“...“> <hauptkapitel V=“...“> </hauptkapitel_liste>
+DN
 
 ---
 
@@ -594,7 +593,7 @@ Abbildung 6: hauptkapitel
 
 Der Coderahmen für das <hauptkapitel>-Element sieht wie folgt aus.
 
-| <hauptkapitel V=“112“ >  <nr V=“1.1“ /> <kapitel_liste>     ... |
+| <hauptkapitel V=“112“ > <titel V=“ <nr V=“1.1“ /> <kapitel_liste>     ... </kapitel_liste> < |
 |---|
 
 Formel 6: XML-Code: hauptkapitel
@@ -621,7 +620,7 @@ Abbildung 7: kapitel_liste
 
 Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
 
-Was ist zu verschlüsseln?“ /> <titel V=“ </kapitel_liste> hauptkapitel>
+Was ist zu verschlüsseln?“ /> hauptkapitel>
 
 ---
 
@@ -671,7 +670,7 @@ Abbildung 9: unterkapitel_liste
 
 Der XML-Code für ein <unterkapitel_liste> Element hat folgenden Aufbau:
 
-| ... </unterkapitel>      ... </unterkapitel> |
+| <unterkapitel_liste> <unterkapitel V=“...“>    ... </unterkapitel>  <unterkapitel V=“...“>    ... </unterkapitel>  </unterkapitel> |
 |---|
 
 Formel 9: XML-Code: unterkapitel_liste
@@ -686,11 +685,10 @@ Abbildung 10: unterkapitel
 
 Der XML-Code für ein <unterkapitel> Element hat folgenden Aufbau:
 
-<unterkapitel_liste> <unterkapitel V=“...“> <unterkapitel V=“...“> _liste
 
 ---
 
-| <kapitel <titel <nr      ...  < |
+| <kapitel V=“11211“ > <titel V=““ <nr V=“1.1.1“ /> <beschreibung>     ... </beschreibung> < |
 |---|
 
 Formel 10: XML-Code: unterkapitel
@@ -717,11 +715,11 @@ Abbildung 11: beschreibung
 
 Der XML-Code für ein <beschreibung> Element hat folgenden Aufbau:
 
-V =“ 11211 “ > V =““ Gesetzliche Bestimmungen  / > V =“1.1.1“  / > <beschreibung> </ beschreibung> kapitel>
+Gesetzliche Bestimmungen /> kapitel>
 
 ---
 
-| <beschreibung  <div>           </p         </p              </ul>  </div> </beschreibung> |
+| <beschreibung>  <div>            Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern     </p>      In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    </p>      <li>in der hausärztlichen Versorgung,</li>         <li>im organisierten Notfalldienst und</li>      <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>    </ul>  </div> </beschreibung> |
 |---|
 
 Formel 11: XML-Code: beschreibung
@@ -738,7 +736,7 @@ Abbildung 12: div
 
 Der XML-Code für ein <div> Element hat folgenden Aufbau:
 
-<p> Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern  der ICD- 10- GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige  Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p> In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden <li> in der hausärztlichen Versorgung,</li> <li> im organisierten Notfalldienst und</li> <li> in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>
+<p>      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p>    <ul>
 
 ---
 
@@ -774,7 +772,7 @@ Abbildung 14: li
 
 Der XML-liCode für ein < > Element hat folgenden Aufbau:
 
-| < |
+| <li>in der hausärztlichen Versorgung,</li> |
 |---|
 
 Formel 14: XML-Code: li
@@ -789,10 +787,9 @@ Abbildung 15: table
 
 Der XML-Code für ein <table> Element hat folgenden Aufbau:
 
-| <table    <            </tr>    <            </tr> </table> |
+| <table>    <tr>       <th>...</th>          <th>...</th>       </tr>    <tr>       <td>...</td>          <td>...</td>       </tr> </table> |
 |---|
 
-li> in der hausärztlichen Versorgung,</li> th> ...</th> th> ...</th> td> ...</td> td> ...</td>
 
 ---
 
@@ -808,7 +805,7 @@ Abbildung 16: tr
 
 Der XML-trCode für ein <
 
-| </tr>    <            </tr> |
+| <tr>       <th>...</th>          <th>...</th>       </tr>    <tr>       <td>...</td>          <td>...</td>       </tr> |
 |---|
 
 > Element hat folgenden Aufbau:
@@ -827,11 +824,10 @@ Der XML-thCode für ein <
 
 > Element hat folgenden Aufbau:
 
-< tr > th> ...</th> th> ...</th> td> ...</td> td> ...</td>
 
 ---
 
-| <tr>       <th>Diagnose</th>    95 SGB V (ambulante Versorgung)</       <th>§ 301 SGB V (stationäre Versorgung)</th>       </tr> |
+| <tr>       <th>Diagnose</th>          <th>§ 2th>       <th>§ 301 SGB V (stationäre Versorgung)</th>       </tr> |
 |---|
 
 Formel 17: XML-Code: th
@@ -844,13 +840,9 @@ Es kann die Kindelemente <br>, <p> oder <div> zur Strukturierung enthalten.
 
 Abbildung 18: td
 
-Code für ein <
+Der XML-tdCode für ein < > Element hat folgenden Aufbau:
 
-Der XML-td
-
-> Element hat folgenden Aufbau:
-
-| <tr>       <td>Schnittwunde am linken Unterarm</td>          <td>S51.9 GL</td>       <td>S51.9 L</td> |
+| <tr>       <td>Schnittwunde am linken Unterarm</td>          <td>S51.9 GL</td>       <td>S51.9 L</td>       </tr> |
 |---|
 
 Formel 18: XML-Code: td
@@ -863,10 +855,10 @@ Abbildung 19: ol
 
 Der XML-Code für ein <ol> Element hat folgenden Aufbau:
 
-| <ol>   <li>in der hausärztlichen Versorgung,</li>      <li>im organisierten Notfalldienst und</li>   <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li> |
+| <ol>   <li>in der hausärztlichen Versorgung,</li>      <li>im organisierten Notfalldienst und</li>   <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li> </ol> |
 |---|
 
-<th>§ 2th>    </tr>   </ol>
+95 SGB V (ambulante Versorgung)</
 
 ---
 
@@ -947,7 +939,7 @@ Divertikelkrankheit des Darmes />
 | Referenz | Dokument |
 | [KBV_ITA_VGEX_eHD] | ehd – eHealthData, Richtlinie |
 
-Ansprechpartner
+**Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 

@@ -121,11 +121,11 @@ Die Änderungen der Version 1.05 treten zum 01.10.2023 in Kraft.
 | 1.05 | 15.08.2023 | KBV | Aktualisierung der URLs des |  | 19, 22, 23 |
 | 1.04 | 15.02.2023 | KBV | Ersetzung des CodeSystems |  | Fehle 14, 20, 24 |
 | 1.03 | 15.02.2022 | KBV | Aktualisierung der URL der |  | 19,  22, 23, 24 |
-| 1.02 | 13.02.2020 | KBV |  |  | 12, 23 |
+| 1.02 | 13.02.2020 | KBV | Erweiterung der Suchparameter |  | 12, 23 |
 | 1.01 | 05.08.2019 | KBV | Klarstellung der Länge der LANR |  | 13 |
 | 1.00 | 15.05.2019 | KBV | Neues Dokument |  | alle |
 
-Webservices 74_CS_SFHIR_BPL_ARZTGRUPP E“ durch „74_CS_SFHIR_BAS_ARZTGRUPP E_ALT“ Testinstanz im Internet Erweiterung der Suchparameter in der ID für die Resource PractitionerRole r! Text mark nicht defini ert.
+Webservices 74_CS_SFHIR_BPL_ARZTGRUPP E“ durch „74_CS_SFHIR_BAS_ARZTGRUPP E_ALT“ Testinstanz im Internet in der ID für die Resource PractitionerRole r! Text mark nicht defini ert.
 
 
 ---
@@ -220,7 +220,7 @@ Bedeutung:
 
 - Bezeichnung - Bezeichnung für das entsprechende Thema
 
-| Beispiel:  › ›  › ›   3.2 -Profile erfolgt durch die Angabe einer 74_PR_KS_BEHANDELNDER |
+| Beispiel:  › ›  › ›   3.2 Die KBV-Profile geben Auskunft darüber, wie die Elemente und mit welchen Erweiterungen sowie 74_PR_KS_BEHANDELNDER |
 |---|
 
 | 74_PR_KS_BEHANDELNDER |  |
@@ -231,7 +231,7 @@ Bedeutung:
 
 Tabelle 1: 74_PR_KS_Behandelnder
 
-|  |  |
+| 74_PR_KS_BEHANDELNDERFUNKTION |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/74_PR_KS_BehandelnderFunktion |
 | FHIR®-Ressource | http://hl7.org/fhir/STU3/practitionerrole.html |
@@ -239,7 +239,7 @@ Tabelle 1: 74_PR_KS_Behandelnder
 
 Tabelle 2: 74_PR_KS_BehandelnderFunktion
 
-Dateiname: 74_PR_KS_Behandelnder URL: https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder KBV-PROFILE Die KBV-Profile geben Auskunft darüber, wie die Elemente und mit welchen Erweiterungen sowie Einschränkungen diese zu verwenden sind. Die Identifikation der KBV kanonischen URL. 74_PR_KS_BEHANDELNDERFUNKTION
+Dateiname: 74_PR_KS_Behandelnder URL: https://fhir.kbv.de/StructureDefinition/74_PR_KS_Behandelnder KBV-PROFILE Einschränkungen diese zu verwenden sind. Die Identifikation der KBV -Profile erfolgt durch die Angabe einer kanonischen URL.
 
 ---
 
@@ -328,21 +328,21 @@ Tabelle 11: 74_CS_SFHIR_BAR2_BARRIEREFREIHEIT
 
 Tabelle 12: 74_CS_SFHIR_BAR2_WBO
 
-|  |  |
+| 74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSytem/74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG |
 | Definition | Zusatz-Weiterbildung gemäß der (Muster-)Weiterbildungsordnung |
 
 Tabelle 13: 74_CS_SFHIR_BAR_ZUSATZBEZEICHNUNG
 
-|  |  |
+| 74_CS_SFHIR_BAR_FREMDSPRACHE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSytem/74_CS_SFHIR_BAR_FREMDSPRACHE |
 | Definition | Beinhaltet die aktuell verwendeten Fremdsprachen. |
 
 Tabelle 14: 74_CS_SFHIR_BAR_FREMDSPRACHE
 
-|  |  |
+| 74_CS_SFHIR_BAS_ARZTGRUPPE_ALT |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAS_ARZTGRUPPE_ALT |
 | Definition | Eingeschränkte Auswahl der Arztgruppen für die Bedarfsplanung. |
@@ -368,7 +368,7 @@ liegenden
 
 ---
 
-| VERB [base]/[ressourcetype]/[id] {?_format=[mime · · · · · · · ·  ·  ·  · |
+| VERB [base]/[ressourcetype]/[id] {?_format=[mime · · · · · · · · · · · · · · |
 |---|
 
 # 4 REST-SERVICE
@@ -377,9 +377,9 @@ Der Webservice der KBV stellt die Repräsentanzen, für die in Kapitel 3 „FHIR
 
 Ressourcen dem PVS, über einen REST-Service zur Verfügung. In diesem Zusammenhang fungiert das PVS  als Client. Der vom Server zur Verfügung gestellte REST-Service wird anhand der Spezifikation der
 
-[FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen bzw. Einschränkungen  -Ressourcen
+[FHIR®_RESTful-API] mit den in diesem Kapitel beschriebenen Festlegungen bzw. Einschränkungen  bereitgestellt. Der Webservice-Kollegensuche stellt dabei sicher, dass nur Instanzen von FHIR®-Ressourcen
 
-bereitgestellt. Der Webservice-Kollegensuche stellt dabei sicher, dass nur Instanzen von FHIR® verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR® Definitionen“ entsprechen.
+verarbeitet werden, die den Festlegungen aus Kapitel 3 „FHIR® Definitionen“ entsprechen.
 
 ## 4.1 ALLGEMEINE FESTLEGUNGEN
 
@@ -389,9 +389,7 @@ Grundlage ist das Kapitel „style Guide“ der [FHIR®_RESTful-API].
 
 Es gilt: Zur Beschreibung der REST-Interaktionen wird folgende Notation verwendet
 
-Die von dem PVS und dem Webservice-Kollegensuche genutzten URLs entsprechen dem RFC 3986 Section 6  -Notation codiert).
-
-Appendix A (d. h. spezifische Zeichen werden mit der %
+Die von dem PVS und dem Webservice-Kollegensuche genutzten URLs entsprechen dem RFC 3986 Section 6  Appendix A (d. h. spezifische Zeichen werden mit der %-Notation codiert).
 
 Der „_“ Unterstrich wird zur Kennzeichnung von Schlüsselwörtern in Abgrenzung zu anderen
 
@@ -399,9 +397,11 @@ Bezeichnungen für folgende Fälle genutzt:
 
 - um systemweite Such-Interaktionen von Interaktionen auf FHIR®-Ressoucetypen zu unterscheiden
 
-- um Such- und andere Interaktionen von einer Repräsentanz einer FHIR®-Ressource zu unterscheiden - n einzelner FHIR®-
+- um Such- und andere Interaktionen von einer Repräsentanz einer FHIR®-Ressource zu unterscheiden
 
--  um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparameter Ressourcen zu unterscheiden.
+- um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparametern einzelner FHIR®-
+
+- Ressourcen zu unterscheiden.
 
 [ ] = verpflichtend { } = optional VERB = HTTP-Schlüsselwort für die Interaktion base = Service Base URL ressourcetype = Bezeichnung des Ressourcentyps mime-type = der MimeType der Anfrage id = logische ID der Ressource vid = version ID der Ressource compartment = Bezeichnung des Compartment parameters = URL-Parameter der entsprechenden Interaktion -type]}
 
@@ -477,27 +477,27 @@ erfragt werden. Die Besonderheiten zu den Suchparametern werden im Folgenden bes
 |  |  |
 |---|---|
 | QUERY PARAMETER | BESCHREIBUNG |
-| bsnrLanr | Wert der ID der Ressource Diese setzt sich zusammen als Kombination aus |
+| bsnrLanr | Wert der ID der Ressource Diese setzt sich zusammen als Kombination aus Wichtig: Dieser Wert kann nur allein angegeben werden und |
 | latitude | Wert für den Breitengrad. Angegeben in Dezimalschreibweise.  Der Wert |
 | longitude | Wert für Längengrad. Angegeben in Dezimalschreibweise.  Der Wert |
 | distanz | Distanz wird als Radius für die Suche genutzt, angegeben in |
 | plz | Parameter für die Postleitzahl. Der Wert |
 
-PractitionerRole . Angegeben als 16- stellige Dezimalzahl. der 9-stelligen BSNR und der 7-stelligen LANR ohne den Fachgruppen-Kode (die letzten beiden Stellen der 9-stelligen LANR).  Wichtig: Dieser Wert kann nur allein angegeben werden und nicht in Kombination mit weiteren Suchparametern!  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen.  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen. Kilometern. Der Wert für  muss immer in Kombination mit  und  angegeben werden. Fehlt einer der Werte für  und  wird der Wert  für die Suche ignoriert.  kann als Alternative zu einer Positionsangabe mit  und  genutzt werden. Der Parameter plz sollte immer in Kombination mit dem Parameter  angegeben werden. Fehlt der Parameter , wird ein Standard-Wert von 5km angenommen.
+PractitionerRole . Angegeben als 16- stellige Dezimalzahl. der 9-stelligen BSNR und der 7-stelligen LANR ohne den Fachgruppen-Kode (die letzten beiden Stellen der 9-stelligen LANR).  nicht in Kombination mit weiteren Suchparametern!  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen.  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen. Kilometern. Der Wert für  muss immer in Kombination mit  angegeben werden. Fehlt einer der Werte für  wird der Wert  für die Suche ignoriert.  kann als Alternative zu einer Positionsangabe mit  genutzt werden. Der Parameter plz sollte immer in Kombination mit dem Parameter  angegeben werden. Fehlt der Parameter , wird ein Standard-Wert von 5km angenommen.
 
 ---
 
 |  |  |
 |---|---|
 |  | Wichtig: Der Parameter Die Angabe einer Postleitzahl, ist also eine Alternative |
-| ort | Parameter zum Filtern anhand des Orts.  -Suche mit "offenem" Ende Wichtig: Die Ortssuche ersetzt die Suche nach einer PLZ |
+| ort | Parameter zum Filtern anhand des Orts.  Es wird automatisch eine Wildcard Wichtig: Die Ortssuche ersetzt die Suche nach einer PLZ |
 | family | Parameter zum Filtern anhand des |
 | arztgruppe | Code für die Arztgruppe. Entspricht der Schlüsseltabelle https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAS_ARZTGRUPP |
 | fachgebiet | Code für das Fachgebiet bzw. die Fachgruppe. Entspricht der https://fhir.kbv.de/CodeSystem/ 74_CS_SFHIR_BAR2_WBO aus |
 | zusatzbezeichnung | Code für die Zusatzbezeichnung. Entspricht der Schlüsseltabelle https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR_ZUSATZBEZE |
 | fremdsprache | Code für die Fremdsprache. Entspricht der Schlüsseltabelle https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAR_FREMDSPRA |
 
-plz  wird nicht als Filter in der Suche verwendet. Mit der Postleitzahl wird die geographische Mitte der Postleitzahl ermittelt. Die ermittelte Geokoordiante latitude  und longitude  Werte) wird für eine Umkreissuche (mit Angabe einer Distanz) verwendet.  zur Angabe einer Geo-Koordinate mit Längen- und Breitengraden. Nachdem der Server die PLZ in Geo-Koordinaten umgesetzt hat, erfolgt ebenfalls eine Umkreissuche. So als wären direkt Längen und Breitengrade angegeben worden. Es wird automatisch eine Wildcard durchgeführt. Eine Suche nach "Münch" findet z. B. "München". Zudem können mit * Zeichen weitere Wildcards eingegeben werden.  und/oder nach latitude/longitude, es findet somit keine Umkreissuche statt.  Nachnamen/Familiennamens. Es wird automatisch eine Wildcard-Suche mit "offenem" Ende durchgeführt. Suche nach "Meier" findet also z. B. auch "Meierheinrich". Zudem können mit * Zeichen weitere Wildcards eingegeben werden. E_ALT aus dem Bundesarztregister (BAR). dem Bundesarztregister (BAR). ICHNUNG aus dem Bundesarztregister (BAR). CHE aus dem Bundesarztregister (BAR).Tabelle 17: Suchparameter für PractitionerRole
+plz  wird nicht als Filter in der Suche verwendet. Mit der Postleitzahl wird die geographische Mitte der Postleitzahl ermittelt. Die ermittelte Geokoordiante latitude  und longitude  Werte) wird für eine Umkreissuche (mit Angabe einer Distanz) verwendet.  zur Angabe einer Geo-Koordinate mit Längen- und Breitengraden. Nachdem der Server die PLZ in Geo-Koordinaten umgesetzt hat, erfolgt ebenfalls eine Umkreissuche. So als wären direkt Längen und Breitengrade angegeben worden. -Suche mit "offenem" Ende durchgeführt. Eine Suche nach "Münch" findet z. B. "München". Zudem können mit * Zeichen weitere Wildcards eingegeben werden.  und/oder nach latitude/longitude, es findet somit keine Umkreissuche statt.  Nachnamen/Familiennamens. Es wird automatisch eine Wildcard-Suche mit "offenem" Ende durchgeführt. Suche nach "Meier" findet also z. B. auch "Meierheinrich". Zudem können mit * Zeichen weitere Wildcards eingegeben werden. E_ALT aus dem Bundesarztregister (BAR). dem Bundesarztregister (BAR). ICHNUNG aus dem Bundesarztregister (BAR). CHE aus dem Bundesarztregister (BAR).Tabelle 17: Suchparameter für PractitionerRole
 
 
 ---
@@ -600,15 +600,15 @@ wird übergeben. wird übergeben. ANTWORT CapabilityStatement. CapabilityStateme
 
 - patch (Kapitel 2.21.0.12 aus [FHIR®_RESTful-API])
 
-- conditional create (Kapitel 2.21.0.5.1 aus [FHIR®_RESTful-API]) - [FHIR®_RESTful-API])
+- conditional create (Kapitel 2.21.0.5.1 aus [FHIR®_RESTful-API])
 
--  conditional delete (Kapitel 2.21.0.13.1 aus
+- conditional delete (Kapitel 2.21.0.13.1 aus [FHIR®_RESTful-API])
 
 - batch (Kapitel 2.21.0.17 aus [FHIR®_RESTful-API])
 
-- history (Kapitel 2.21.0.18 aus [FHIR®_RESTful-API]) - [FHIR®_RESTful-API])
+- history (Kapitel 2.21.0.18 aus [FHIR®_RESTful-API])
 
--  transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus
+- transaktion (Kapitel 2.21.0.17 „batch/transaction“ aus [FHIR®_RESTful-API])
 
 - delete (Kapitel „2.21.0.13 delete“ aus [FHIR®_RESTful-API])
 
@@ -616,36 +616,36 @@ wird übergeben. wird übergeben. ANTWORT CapabilityStatement. CapabilityStateme
 
 ### 4.1.7 Paging
 
-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Kapitel 2.21.0.20 „paging“
+Der Webservice-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Kapitel 2.21.0.20 „paging“
 
-Der Webservice- aus [FHIR®_RESTful-API] sind nicht umgesetzt.
+aus [FHIR®_RESTful-API] sind nicht umgesetzt.
 
 ## 4.2 KONFORMITÄT VON RESSOURCEN
 
-Der Webservice-Kollegensuche verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel 3 „FHIR®
+Der Webservice-Kollegensuche verarbeitet nur solche FHIR®-Ressourcen, die den
 
-Definitionen“ definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-Ressourcen
+Definitionen“ definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®
 
 bereitgestellt, die den definierten Profilen entsprechen.
 
 ## 4.3 INTERAKTIONEN AUF DEN RESSOURCEN
 
-Der Webservice-Kollegensuche stellte die in der folgenden Tabelle beschriebenen Interaktionen auf den  FHIR®-Ressourcen über den REST-Service zur Verfügung. Die Interaktionen sind im Kapitel 4.1.6
-
-„Interaktionen auf den Ressourcen“ beschrieben.
+Der Webservice-Kollegensuche stellte die in der folgenden Tabelle beschriebenen Interaktionen auf den  FHIR®-Ressourcen über den REST-Service zur Verfügung. Die Interaktionen sind im  „Interaktionen auf den Ressourcen“ beschrieben.
 
 |  |  |
 |---|---|
 | RESSOURCENTYP (PROFIL) | SUCHEN |
-| PractitionerRole | Ja |
+| PractitionerRole (74_PR_KS_BehandelnderFunktion) | Ja |
 | Practitioner | Nein |
 | Organization (74_PR_KS_Betriebsstaette) | Nein |
 | Bundle (74_PR_KS_Bundle) | Nein |
 | Location (74_PR_KS_Position) | Nein |
 
-Tabelle 20: Interaktionen auf den FHIR® -Ressourcen
+in Kapitel 3 „FHIR® -Ressourcen
 
-(74_PR_KS_BehandelnderFunktion) (74_PR_KS_Behandelnder)
+Kapitel 4.1.6
+
+Tabelle 20: Interaktionen auf den FHIR® -Ressourcen (74_PR_KS_Behandelnder)
 
 ---
 
@@ -701,9 +701,9 @@ Die Base-URL lautet: [https://fhir.kollegensuche.kv-safenet.de/FHIR](https://fhi
 
 ## 5.2 BESCHRÄNKUNG DER SERVER
 
-IP-Adresse und Tag. Wenn das
+### Der Webservice-Kollegensuche beschränkt die möglichen Suchanfragen pro IP-Adresse und Tag. Wenn das
 
-### Der Webservice-Kollegensuche beschränkt die möglichen Suchanfragen pro  Limit erreicht ist, wird die folgende Meldung gesendet:
+### Limit erreicht ist, wird die folgende Meldung gesendet:
 
 <Bundle xmlns="[http://hl7.org/fhir"](http://hl7.org/fhir")>
 
@@ -857,32 +857,32 @@ name">
 
 ---
 
-| Beispiel für eine Suche:   •  •  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=50&plz=10623  3. •  6  Es können auf Grundlage der in Kapitel 4.1.6.1 Suchen |
+| Beispiel für eine Suche:  1. •  •  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=50&plz=10623  3. •  6 Das PVS muss mindestens die in diesem Kapitel genannten Such-Interaktionen in Form von Suchfunktion Es können auf Grundlage der in Kapitel 4.1.6.1 Suchen |
 |---|
 
-| Beispiel für eine Suche:   • • 0 2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.333 3. •  • |
+| Beispiel für eine Suche:  1. • • 0 2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.333 3. •  • |
 |---|
 
-1. Testsystem im Sicheren Netz der KVen: https://fhir.kollegensuche.kbvtest.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 https://fhir-kollegensuche.kbvtest.kv- safenet.de/FHIR/PractitionerRole?latitude=52 Testsystem im Internet: 9554&distanz=30 Produktiver Webservice-Kollegensuche: https://fhir.kollegensuche.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&lon https://fhir-kollegensuche.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 .5134379&longitude=13.3339554&distanz=3 gitude=13.3339554&distanz=3 FESTLEGUNG FÜR DAS PVS Das PVS muss mindestens die in diesem Kapitel genannten Such-Interaktionen in Form von Suchfunktion für Anwender auf die Ressource PractitionerRole anbieten. Suchfunktionen für den Anwender angeboten werden. Ebenso um weitere Parameter ergänzt werden. SUCH-INTERAKTION MITHILFE DES STANDORTES 6.1.1 latitude und longitude Das PVS muss eine Suchfunktion mit den beiden Parametern HINWEIS Wenn bei der Standortsuche der Parameter Kollegensuche den Defaultwert 5 km. 6.1.2 PLZ Das PVS muss eine Suchfunktion mit dem Parameter Testsystem im Sicheren Netz der KVen: https://fhir.kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623 https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623 Testsystem im Internet: Produktiver Webservice-Kollegensuche: https://fhir.kollegensuche.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623  Search genannten Parameter weitere können die genannten Such-Interaktionen latitude longitude  nicht angegeben wird, dann setzt der Webservice  unterstützen.  unterstützen.
+Testsystem im Sicheren Netz der KVen: https://fhir.kollegensuche.kbvtest.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 https://fhir-kollegensuche.kbvtest.kv- safenet.de/FHIR/PractitionerRole?latitude=52 Testsystem im Internet: 9554&distanz=30 Produktiver Webservice-Kollegensuche: https://fhir.kollegensuche.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&lon https://fhir-kollegensuche.kv- safenet.de/FHIR/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 .5134379&longitude=13.3339554&distanz=3 gitude=13.3339554&distanz=3 FESTLEGUNG FÜR DAS PVS für Anwender auf die Ressource PractitionerRole anbieten. Suchfunktionen für den Anwender angeboten werden. Ebenso um weitere Parameter ergänzt werden. SUCH-INTERAKTION MITHILFE DES STANDORTES 6.1.1 latitude und longitude Das PVS muss eine Suchfunktion mit den beiden Parametern HINWEIS Wenn bei der Standortsuche der Parameter Kollegensuche den Defaultwert 5 km. 6.1.2 PLZ Das PVS muss eine Suchfunktion mit dem Parameter Testsystem im Sicheren Netz der KVen: https://fhir.kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623 https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623 Testsystem im Internet: Produktiver Webservice-Kollegensuche: https://fhir.kollegensuche.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623  Search genannten Parameter weitere können die genannten Such-Interaktionen latitude longitude  nicht angegeben wird, dann setzt der Webservice  unterstützen.  unterstützen.
 
 ---
 
-| https://fhir-kollegensuche.kbvtest.kv-  – https://fhir.kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=31 – https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeich • |
+| https://fhir-kollegensuche.kbvtest.kv-  • https://fhir.kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=31 • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeich • |
 |---|
 
-| Beispiel für eine Suche:   • https://fhir.kollegensuche.kbvtest.kv-  – https://fhir.kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=31 – https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeich 3. • https://fhir.kollegensuche.kv- •  6.1.3 ort Beispiel für eine Suche: |
+| Beispiel für eine Suche:  1. • https://fhir.kollegensuche.kbvtest.kv-  • https://fhir.kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  https://fhir-kollegensuche.kbvtest.kv-  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=31 • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeich 3. • https://fhir.kollegensuche.kv- •  6.1.3 Das PVS kann eine Suchfunktion mit dem Parameter Beispiel für eine Suche: |
 |---|
 
 https://fhir-kollegensuche.kv-safenet.de/FHIR/PractitionerRole?distanz=50&plz=10623 HINWEIS Wenn bei der Standortsuche mittels PLZ der Parameter Webservice-Kollegensuche den Defaultwert 5 km. 6.1.3 Ort Das PVS kann eine Suchfunktion mit dem Parameter Beispiel für eine Suche:  1. Testsystem im Sicheren Netz der KVen: https://fhir.kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?ort=Münch https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR/PractitionerRole?ort=Münch Testsystem im Internet: https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?ort=Münch 3. Produktiver Webservice-Kollegensuche: https://fhir.kollegensuche.kv-safenet.de/FHIR/PractitionerRole?ort=Münch https://fhir-kollegensuche.kv-safenet.de/FHIR/PractitionerRole?ort=Münch 6.2 SUCH-INTERAKTION NACH DER FACHRICHTUNG  Das PVS muss eine Suchfunktion mit den Parametern unterstützen. Beide Parameter müssen unterstütz Beispiel für eine Suche:  1. Testsystem im Sicheren Netz der KVen: Fachgebiet - 313 (FA Herzchirurgie): safenet.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=313 safenet.de/FHIR/PractitionerRole?distanz=500&plz=10623&fachgebiet=313 Zusatzbezeichnung  073 (Geriatrie) safenet.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeichnung=073 safenet.de/FHIR/PractitionerRole?distanz=500&plz=10623&zusatzbezeichnung=073 Testsystem im Internet: Fachgebiet - 313 (FA Herzchirurgie):  Zusatzbezeichnung  073 (Geriatrie): nung=073  nicht angegeben wird, dann setzt der ort  unterstützen. t werden.  sowie zusatzbezeichnung Produktiver Webservice-Kollegensuche: Fachgebiet - 313 (FA Herzchirurgie): |  |
 |---|
 
-| Beispiel für eine Suche:   •  •  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?ort=Münch   3. •  • |
+| Beispiel für eine Suche:  1. •  •  2. • https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?ort=Münch   3. •  • |
 |---|
 
 
 ---
 
-| safenet.de/FHIR/PractitionerRole?distanz=1&plz=12435&fachgebiet=200  – https://fhir.kollegensuche.kv- |
+| safenet.de/FHIR/PractitionerRole?distanz=1&plz=12435&fachgebiet=200  • https://fhir.kollegensuche.kv- |
 |---|
 
 <id value="7100000650000065"/>
@@ -935,7 +935,7 @@ value="[https://fhir.kbv.de/CodeSystem/74_CS_SFHIR_BAS_ARZTGRUPPE_ALT"/](https:/
 
 <value value="0989146003"/>
 
-https://fhir-kollegensuche.kv- • Zusatzbezeichnung  073 (Geriatrie):  safenet.de/FHIR/PractitionerRole?distanz=10&plz=12435&zusatzbezeichnung=073 https://fhir-kollegensuche.kv- safenet.de/FHIR/PractitionerRole?distanz=10&plz=12435&zusatzbezeichnung=073 HINWEIS Sinnvoll ist die überwiegende Suche nach nur jeweils einem der Parameter, um eine Fachrichtung zu bestimmen.  6.3 BEISPIEL ANTWORT DES SERVERS  <Bundle xmlns="http://hl7.org/fhir"> <id value="04ae084a-1984-4471-a520-fdac8b0ed197"/> <meta> <extension url="https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit"> <valueInteger value="100"/> </extension> <lastUpdated value="2019-05-31T00:00:00.000+02:00"/> </meta> <type value="searchset"/> <total value="1"/> <link> <relation value="self"/> <url value="https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/ </link> <entry> <fullUrl value="https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/> <resource> <PractitionerRole xmlns="http://hl7.org/fhir"> | https://fhir-kollegensuche.kv- https://fhir-kollegensuche.kv- |
+https://fhir-kollegensuche.kv- Zusatzbezeichnung  073 (Geriatrie):  safenet.de/FHIR/PractitionerRole?distanz=10&plz=12435&zusatzbezeichnung=073 https://fhir-kollegensuche.kv- safenet.de/FHIR/PractitionerRole?distanz=10&plz=12435&zusatzbezeichnung=073 HINWEIS Sinnvoll ist die überwiegende Suche nach nur jeweils einem der Parameter, um eine Fachrichtung zu bestimmen.  6.3 BEISPIEL ANTWORT DES SERVERS  <Bundle xmlns="http://hl7.org/fhir"> <id value="04ae084a-1984-4471-a520-fdac8b0ed197"/> <meta> <extension url="https://fhir.kbv.de/StructureDefinition/74_EX_KS_Resultlimit"> <valueInteger value="100"/> </extension> <lastUpdated value="2019-05-31T00:00:00.000+02:00"/> </meta> <type value="searchset"/> <total value="1"/> <link> <relation value="self"/> <url value="https://api-kollegensuche.kbv.de/FHIR/PractitionerRole?bsnrLanr=7100000650000065"/ </link> <entry> <fullUrl value="https://api-kollegensuche.kbv.de/FHIR/PractitionerRole/7100000650000065"/> <resource> <PractitionerRole xmlns="http://hl7.org/fhir"> | https://fhir-kollegensuche.kv- https://fhir-kollegensuche.kv- |
 |---|
 
 
@@ -1319,7 +1319,7 @@ houseNumber">
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| FHIR®_RESTful-API | Spezifikation der FHIR®-Restful-API gemäß http://hl7.org/fhir/stu3/http.html |
+| FHIR®_RESTful-API | [ http://hl7.org/fhir/stu3/http.html |
 | FHIR® | FHIR-Spezifikation Release 3 STU  http://hl7.org/fhir/stu3 |
 
 **Ansprechpartner:**
@@ -1331,3 +1331,5 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+
+Spezifikation der FHIR®-Restful-API gemäß

@@ -50,12 +50,12 @@ DOKUMENTENHISTORIE
 | 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 14 |
 | 1.41 | 0.5.03.2025 | KBV | Streichung der Frage „  Aufnahme der Frage „ |  | 14 |
 | 1.40 | 14.03.2023 | KBV | Klarstellung der Frage vom | Aussetzung der Version | 5 |
-| 1.40 | 14.02.2023 | KBV | Klarstellung zur |  | Fehle |
+| 1.40 | 14.02.2023 | KBV | Klarstellung zur |  | mark |
 | 1.40 | 15.11.2022 | KBV | Aufnahme einer weiteren |  | 5 |
 | 1.30 | 16.07.2019 | KBV | Überführung des Dokuments in  Redaktionelle Änderungen  Kapitel 2.1  Kapitel 2.2  Kapitel 3 entfernt | Aktualisierung unter | alle |
-| 1.20 | 01.07.2018 | KBV |  | Aktualisierung unter | alle |
+| 1.20 | 01.07.2018 | KBV | Überarbeitung des Dokuments | Aktualisierung unter | alle |
 
-Angabe der Darreichungsform im Barcode“ Aktualisierung der BMP- Spezifikation in der Version 2.7 Verwendung der Daten aus der Referenzdatenbank des BfArM Spezifikationsanpassung Version 2.7 Konkretisierung des Ausdrucks neues Design Punkte 1 und 7 gelöscht Erweiterung Punkt 3 2.7 Berücksichtigung der Version 2.6 der Spezifikation Korrektur Punkt 5 (Speicherung der Arzneimittel und aller notwendiger Inhalte) Aktualisierung Punkt 12 (Versionskompatibilität) Aufnahme Punkt 15 (Umgang mit dem Zeichen Tilde „~“ Überarbeitung des Dokuments Berücksichtigung der r! Text mark nicht defini ert.
+Angabe der Darreichungsform im Barcode“ Aktualisierung der BMP- Spezifikation in der Version 2.7 Verwendung der Daten aus der Referenzdatenbank des BfArM Spezifikationsanpassung Version 2.7 Konkretisierung des Ausdrucks neues Design Punkte 1 und 7 gelöscht Erweiterung Punkt 3 2.7 Berücksichtigung der Version 2.6 der Spezifikation Korrektur Punkt 5 (Speicherung der Arzneimittel und aller notwendiger Inhalte) Aktualisierung Punkt 12 (Versionskompatibilität) Aufnahme Punkt 15 (Umgang mit dem Zeichen Tilde „~“ Berücksichtigung der Fehle r! Text nicht defini ert.
 
 ---
 
@@ -71,19 +71,17 @@ Spezifikation
 
 ## 1.1 ZIELBESTIMMUNG
 
-Hersteller von Software bestimmt, die eine
+Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller von Software bestimmt, die eine
 
-Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans  BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
+Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans  BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz  **Spezifikation** genannt. Diese Liste soll eine Hilfestellung bei der Umsetzung zu speziellen
 
-gelungen in
+Implementierungsfragen bieten. Software-Anforderungen, die sich aufgrund von Regelungen in
 
-**Spezifikation** genannt. Diese Liste soll eine Hilfestellung bei der Umsetzung zu speziellen
+Selektivverträgen oder Modellvorhaben ergeben, bleiben von dieser Liste unberührt.
 
-Implementierungsfragen bieten. Software-Anforderungen, die sich aufgrund von Re Selektivverträgen oder Modellvorhaben ergeben, bleiben von dieser Liste unberührt.
+Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E-Health-Gesetz im
 
--Health-Gesetz im
-
-Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E § 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+§ 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
 
 Diese Software muss vor ihrem Einsatz durch die Kassenärztliche Bundesvereinigung (KBV) zugelassen  werden. Die Zulassung erfolgt auf Grundlage von § 73 SGB V i.V. m. Anlage 23 Bundesmantelvertrag - Ärzte (BMV-Ä).
 
@@ -135,61 +133,41 @@ weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangab
 
 - **3.** **Mehrere Seiten**
 
+**FRAGE:** *Wann ist eine zweite oder dritte Seite zu verwenden?*
+
+**ANTWORT :** Die Software (ggf. in Verbindung mit weiteren Komponenten) soll einen erzeugten
+
+Medikationsplan (ein bis mehrere Seiten) ausdrucken können. Medikationspläne können bis zu drei Seiten  beinhalten. Zweiseitige und dreiseitige BMPs müssen daher eingelesen und wieder ausgedruckt werden  können.
+
+Wenn entweder die Anzahl der Medikationseinträge inkl. der Zwischenüberschriften mehr als 15 beträgt  oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach  Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist darauf
+
+zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der  dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  entsteht, da der gesamte Eintrag auf die nächste Seite gedruckt wird.
+
+Auf jeder Seite des Medikationsplans sind Header (z. B. Patientendaten) und Fußzeile (z. B.  Versionsnummer) redundant im Carrier abgelegt.
+
 - **4.** **Unveränderliche Reihenfolge**
+
+**FRAGE:*** Muss die Reihenfolge der Medikationseinträge von eingelesenen BMPs erhalten bleiben?*
+
+**ANTWORT :** Die Software muss gewährleisten, dass die Reihenfolge der Medikationseinträge nur durch den
+
+Anwender verändert werden kann. D.h. die Reihenfolge von eingelesenen Einträgen muss bis zu deren
+
+Ausdruck erhalten bleiben, es sei denn der Anwender ändert diese explizit. Die Reihenfolge aller  Medikationseinträge soll zwischen eingelesenem Carrier und ausgerucktem Carrier identisch sein.
 
 - **5.** **Darstellung von Brüchen**
 
-- **6.** **PDF verkleinert sich beim Ausdruck**
-
-*Wann ist eine zweite oder dritte Seite zu verwenden?*
-
-**FRAGE:**
-
-Die Software (ggf. in Verbindung mit weiteren Komponenten) soll einen erzeugten
-
-**ANTWORT :** Medikationsplan (ein bis mehrere Seiten) ausdrucken können. Medikationspläne können bis zu drei Seiten  beinhalten. Zweiseitige und dreiseitige BMPs müssen daher eingelesen und wieder ausgedruckt werden  können.
-
-Wenn entweder die Anzahl der Medikationseinträge inkl. der Zwischenüberschriften mehr als 15 beträgt
-
-arauf
-
-oder die Anzahl der Zeichen im Barcode mehr als 1.400 beträgt, müssen die überzähligen Inhalte auf eine  weitere Seite verlagert werden. Zu beachten ist dabei, dass bei einer doppelt hohen Medikationszeile nach  Kapitel 6.2.8 die Gesamtzahl der ausgedruckten Medikationszeilen zu reduzieren ist. Außerdem ist d zu achten, dass gebundene Zusatzzeilen immer auf der gleichen Seite gedruckt werden müssen, wie der  dazugehörige Medikationseintrag. Dadurch kann es vorkommen, dass am Ende der Zeile eine Leerzeile  te gedruckt wird.
-
-entsteht, da der gesamte Eintrag auf die nächste Sei
-
-Auf jeder Seite des Medikationsplans sind Header (z. B. Patientendaten) und Fußzeile (z. B.
-
-Versionsnummer) redundant im Carrier abgelegt.
-
-*Muss die Reihenfolge der Medikationseinträge von eingelesenen BMPs erhalten bleiben?*
-
-**FRAGE:**
-
-Die Software muss gewährleisten, dass die Reihenfolge der Medikationseinträge nur durch den
-
-**ANTWORT :** Anwender verändert werden kann. D.h. die Reihenfolge von eingelesenen Einträgen muss bis zu deren
-
-Ausdruck erhalten bleiben, es sei denn der Anwender ändert diese explizit. Die Reihenfolge aller
-
-Medikationseinträge soll zwischen eingelesenem Carrier und ausgerucktem Carrier identisch sein.
-
-*Kann die Software die Darstellung von Brüchen und Dezimalzahlen anpassen?*
-
-**FRAGE:**
+**FRAGE:** *Kann die Software die Darstellung von Brüchen und Dezimalzahlen anpassen?*
 
 **ANTWORT :** In den Datenfeldern des vierteiligen Dosierschemas (morgens, mittags, abends und zur Nacht)
 
-sind ganze Zahlen, gebrochene Zahlen und Brüche zulässig. Der Datentyp im Carriersegment und im  Ausdruck ist eine Kette mit max. 4 Zeichen. Die Software muss diese vom Anwender eingetragenen Werte  1:1 wiedergeben. D. h. eine automatische Umwandlung von „0,5“ zu „1/2“ oder „1/2“ zu „0,5“ ohne
+sind ganze Zahlen, gebrochene Zahlen und Brüche zulässig. Der Datentyp im Carriersegment und im  Ausdruck ist eine Kette mit max. 4 Zeichen. Die Software muss diese vom Anwender eingetragenen Werte  1:1 wiedergeben. D. h. eine automatische Umwandlung von „0,5“ zu „1/2“ oder „1/2“ zu „0,5“ ohne  Bestätigung durch den Anwender ist unzulässig.
 
-Bestätigung durch den Anwender ist unzulässig.
+Hier gilt die Regel, dass die Dateninhalte des Carriers unverändert auf dem Papierausdruck und umgekehrt  darzustellen sind. Des Weiteren gilt diese Regel auch für die Darstellung am Bildschirm.
 
-Hier gilt die Regel, dass die Dateninhalte des Carriers unverändert auf dem Papierausdruck und umgekehrt
+- **6.** **PDF verkleinert sich beim Ausdruck**
 
-darzustellen sind. Des Weiteren gilt diese Regel auch für die Darstellung am Bildschirm.
-
-*Wie kann man verhindern, dass als PDF erzeugte Medikationspläne durch PDF-Programme beim*
-
-**FRAGE:**
+**FRAGE:*** Wie kann man verhindern, dass als PDF erzeugte Medikationspläne durch PDF-Programme beim*
 
 *Ausdruck verkleinert werden? (mit der Folge, dass die Seitenränder überproportional groß werden)*
 
@@ -197,11 +175,7 @@ darzustellen sind. Des Weiteren gilt diese Regel auch für die Darstellung am Bi
 
 Ausdruck des PDF ist darauf zu achten, dass die Option „Tatsächliche Größe“ gewählt wird. (z. B. unter MS
 
-Größe  Schalter
-
-Windows: Menü Drucken
-
-„Tatsächliche Größe“ setzen).
+Windows: Menü Drucken  Größe  Schalter „Tatsächliche Größe“ setzen).
 
 
 ---
@@ -210,20 +184,18 @@ Windows: Menü Drucken
 
 *Wie kann ich einen BMP unkenntlich machen/anonymisieren?*
 
-machen durch (vollständiges) Durchstreichen des
-
 **ANTWORT** Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die
 
-Patientendaten unkenntlich zu machen. Das Unkenntlich Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
+Patientendaten unkenntlich zu machen. Das Unkenntlich machen durch (vollständiges) Durchstreichen des
+
+Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
 
 
 ---
 
 - Aufteilung des Layouts in der vorgegebenen Struktur (Identifikationsblock,  Administrationsblock, Medikationstabelle etc.),
 
-- und Schriftfarbe,
-
--  Schriftgröße (Regelfall und reduzierte Größe), Schriftart
+- Schriftgröße (Regelfall und reduzierte Größe), Schriftart und Schriftfarbe,
 
 - Positionierung und Ausrichtung der Texte,
 
@@ -270,8 +242,6 @@ In diesem Fall verbleibt im Carrier weiterhin nur die PZN. Im Ausdruck werden di
 
 - **Dezimalzahlen im administrativen Block**
 
-- **11.** **Feldinhalt größer als Spaltenbreite**
-
 *Welche Eigenschaften müssen Dezimalzahlen des Parameterblockes im Carrier und Ausdruck*
 
 *erfüllen?*
@@ -284,23 +254,19 @@ beachten. Diese sind als Maximalwert zu verstehen.
 
 Im **Carrier** müssen die Werte im **englischen Format (Dezimalpunkt)** abgelegt werden.
 
-des Medikationsplans ist der vorgegebene Wert exakt aus dem Carrier zu übernehmen, d.h.
+Im **Ausdruck** des Medikationsplans ist der vorgegebene Wert exakt aus dem Carrier zu übernehmen, d.h.
 
-Im **Ausdruck** die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  usdruck erfolgt jedoch im
-
-ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem A
-
-**deutschen**
+die Anzahl der Nachkommastellen und die Inhalte bleiben identisch. Eine Veränderung dieser Werte ist  ausschließlich dem Anwender vorbehalten. Die Darstellung auf dem Ausdruck erfolgt jedoch im **deutschen**
 
 **Zahlenformat (Dezimalkomma)**
 
-Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeben, es wird aber empfohlen
+Die Darstellung für den Anwender in seiner Software ist nicht explizit vorgegeben, es wird aber empfohlen  die deutsche Zahlenschreibweise (Dezimalkomma) zu verwenden.
 
-die deutsche Zahlenschreibweise (Dezimalkomma) zu verwenden.
+- **11.** **Feldinhalt größer als Spaltenbreite**
 
-*Wie ist zu verfahren, wenn ein Feldinhalt auch bei reduzierter Schriftgröße (10 Punkt) mehr Platz*
+**FRAGE:*** Wie ist zu verfahren, wenn ein Feldinhalt auch bei reduzierter Schriftgröße (10 Punkt) mehr Platz*
 
-**FRAGE:** *benötigt als in der Spalte vorhanden?*
+*benötigt als in der Spalte vorhanden?*
 
 **ANTWORT :** Sofern ein Text auch in reduzierter Schriftgröße (10 pt) nicht in das vorgesehene Feld passt, so
 
@@ -308,9 +274,7 @@ sollte analog der Vorgaben in Kapitel 6.2.7 der Spezifikation verfahren werden. 
 
 Diese Vorgabe gilt nicht für Einträge zur Dosierung. Diese Felder müssen immer vollständig ausgegeben  werden!
 
-Dieses Vorgehen kann unabhängig davon, ob die maximal zulässige Feldlänge für den Ausdruck bereits
-
-erreicht ist, verwendet werden.
+Dieses Vorgehen kann unabhängig davon, ob die maximal zulässige Feldlänge für den Ausdruck bereits  erreicht ist, verwendet werden.
 
 
 ---
@@ -464,25 +428,15 @@ Rezeptschreibung oder dem Anlegen einer Verordnung  ermöglichen.
 
 - **Einlesen fremder MPs**
 
--
-
-- **10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
-
-- **11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
-
-- **12.** **Versionskompatibilität**
-
-- **13.** **Zusatzfunktionen**
-
-* Müssen fremde Medikationspläne per Barcode eingelesen werden?*
+*Müssen fremde Medikationspläne per Barcode eingelesen werden?*
 
 **ANTWORT :** Die Software muss durch Dritte erstellte bzw. aktualisierte Medikationspläne (mit einer oder
 
-mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher
+mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher  Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten müssen einer Nutzung im  MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für einen Patienten auch mehrere Pläne
 
-nen Patienten auch mehrere Pläne
+eingelesen werden können (siehe auch Nr. 12).
 
-Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten müssen einer Nutzung im  MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für ei eingelesen werden können (siehe auch Nr. 12).
+- **10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
 
 **FRAGE:** *Was muss mit einem eingelesenen Plan passieren, wenn bereits ein Plan vorhanden ist?*
 
@@ -490,24 +444,24 @@ Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten m�
 
 vergleichen. Unterschiede müssen optisch dargestellt werden und für diese muss es die Möglichkeit geben,  diese abzulehnen, zu übernehmen oder abzuändern.
 
+- **11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
+
 **FRAGE:** *Wie führt man unterschiedliche Pläne / Daten aus unterschiedlichen Quellen zusammen?*
 
 **ANTWORT :** Die Zusammenführung mehrere Pläne soll schrittweise, d.h. Plan für Plan erfolgen. Die Software
 
 soll hierfür wesentliche Inhalte von Medikationsplänen (intern verfügbare oder von extern eingelesen), die  es zusammenzuführen gilt, in geeigneter Weise nebeneinander (d.h. vergleichend) darstellen.
 
-| iglich |
+| Zur Beachtung: Es sollen nicht die Pläne zwingend nebeneinander gezeigt werden, sondern led |
 |---|
 
-Einträge mit identischer / gleicher PZN / Wirkstoff sollen kenntlich gemacht werden. Es soll eine geeignete
+Einträge mit identischer / gleicher PZN / Wirkstoff sollen kenntlich gemacht werden. Es soll eine geeignete  Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabetisch oder nach ATC-Code). Durch entsprechende
 
-isch oder nach ATC-Code). Durch entsprechende
+Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
 
-Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabet Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
+In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der Krankenkassen) verfahren werden.
 
-rankenkassen) verfahren werden.
-
-In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der K
+- **12.** **Versionskompatibilität**
 
 **FRAGE:** *Welche Versionen des BMP müssen unterstützt werden?*
 
@@ -515,15 +469,15 @@ In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten m
 
 früheren Patch-Version basieren, in die aktuelle Version überführen können.
 
-**FRAGE:** *Darf man zum BMP Zusatzfunktionen anbieten?*
+- **13.** **Zusatzfunktionen**
 
--Prüffunktionen.
+**FRAGE:** *Darf man zum BMP Zusatzfunktionen anbieten?*
 
 **ANTWORT :** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:
 
-Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS
+Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS-Prüffunktionen.
 
-Zur Beachtung: Es sollen nicht die Pläne zwingend nebeneinander gezeigt werden, sondern led die Inhalte verglichen werden können. Wobei nebeneinander hier nicht streng als rechts/links zu interpretieren ist, sondern auch eine andere, geeignete, vergleichende Darstellung zulässig wäre.
+iglich die Inhalte verglichen werden können. Wobei nebeneinander hier nicht streng als rechts/links zu interpretieren ist, sondern auch eine andere, geeignete, vergleichende Darstellung zulässig wäre.
 
 ---
 
@@ -612,7 +566,7 @@ Hintergrund dieser Festlegung ist, dass der Wert des Merkmals 302 sieben Zeichen
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| EXT_ITA_VGEX_BMP_Anlage3 | Spezifikation des bundeseinheitlichen |
+| EXT_ITA_VGEX_BMP_Anlage3 | Medikationsplans Anlage 3 inkl. Schema |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für |
 
@@ -624,4 +578,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-Medikationsplans Anlage 3 inkl. Schema Verordnungssoftware -Datei
+Spezifikation des bundeseinheitlichen Verordnungssoftware -Datei

@@ -78,40 +78,40 @@ Datensatz für die indikationsspezifische Dokumentation: Nr. sind die nachstehen
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Genau eine Angabe ist zulässig | 4 | | |
 | (weggefallen) | 5 | | |
-| Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle Die Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
 | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |  |
 |  | Medikamente |  | 6  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
-| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ | |
-| Nein“ kann alleine oder gleichzeitig mit der Angabe |  | 7 | Betablocker  Ja / Nein / Kontraindikation  Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
+| Die Angabe „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder Die Angabe „Orale Antikoagulation“ kann alleine oder | |
+| Die Angabe „ |  | 7 | Betablocker  Ja / Nein / Kontraindikation  Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
 | 3a | Herzinfarkt innerhalb der letzten 12 | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 | 4 | (weggefallen) |  |  |
-| 5 | Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+| 5 | Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle Die Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 |  | Medikamente |  | |
-| 6 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / O | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ Nein“ kann alleine oder gleichzeitig mit der Angabe |
+| 6 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / O | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Die Angabe „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder Die Angabe „Orale Antikoagulation“ kann alleine oder Die Angabe „ |
 | 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
 |  |  |  | 3a Herzinfarkt innerhalb der letzten 12 Ja / Nein |
-| Pflichtfeld | Genau eine Angabe ist zulässig | 4 | (weggefallen)    5  Ungeplante stationäre Behandlung Anzahl  Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle und kleiner oder gleich Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Pflichtfeld | Genau eine Angabe ist zulässig | 4 | (weggefallen)    5  Ungeplante stationäre Behandlung Anzahl  Bedingtes Pflichtfeld; Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle Die Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
 | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |  |
-|  | Medikamente |  | 6  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder |
-| Ja“ oder „ | Nein“ kann alleine oder gleichzeitig mit der Angabe |  | 7  Betablocker  Ja / Nein / Kontraindikation |
+|  | Medikamente |  | 6  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Die Angabe „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder |
+| Die Angabe „Orale Antikoagulation“ kann alleine oder | Die Angabe „ |  | 7  Betablocker  Ja / Nein / Kontraindikation |
 |  |  |  | 3a Herzinfarkt innerhalb der letzten 12 Ja / Nein |
 | Pflichtfeld | Genau eine Angabe ist zulässig | 4 | (weggefallen)    5  Ungeplante stationäre Behandlung Anzahl  Bedingtes Pflichtfeld; |
-| Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle | und kleiner oder gleich | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
+| Nummerische Angabe | Die Angabe erfolgt ohne Nachkommastelle | Die | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen |
 | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  | Medikamente | |
 |  |  | 6 | Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / O Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
-| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder Ja“ oder „ Nein“ kann alleine oder gleichzeitig mit der Angabe |
+| Die Angabe „ | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder Die Angabe „Orale Antikoagulation“ kann alleine oder Die Angabe „ |
 |  | 7 | Betablocker  Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
 | 3a Herzinfarkt innerhalb der letzten 12 | Ja / Nein Pflichtfeld | Genau eine Angabe ist zulässig 4 | |
 | (weggefallen) |  |  | 5 |
 | Ungeplante stationäre Behandlung | Anzahl | Bedingtes Pflichtfeld; | Nummerische Angabe |
-| Die Angabe erfolgt ohne Nachkommastelle | und kleiner oder gleich | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
+| Die Angabe erfolgt ohne Nachkommastelle | Die | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 |  |  |  | Medikamente   6  Thrombozytenaggregationshemmer |
 
-Nr. Monate wegen KHK seit der letzten Dokumentation  Antikoagulation  Angabe muss gleich oder größer „0“ 99  sein  einer Folgedokumentation auszufüllen ist. Nein“ und / oder „Kontraindikation“ erfolgen. einzeln oder Orale Antikoagulation“ erfolgen rale gleichzeitig mit „Nein“ und /oder „ Orale Antikoagulation“ erfolgen Die Angabe „Orale Antikoagulation“ kann alleine oder Nein“ und/oder „Kontraindikation“ erfolgen. und/oder „O rale Antikoagulation  erfolgen.
+Nr. Monate wegen KHK seit der letzten Dokumentation  Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein  einer Folgedokumentation auszufüllen ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. Ja“ kann einzeln oder gleichzeitig mit „ Antikoagulation“ erfolgen gleichzeitig mit „Nein“ und /oder „ Orale Antikoagulation“ erfolgen gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen. Nein“ kann alleine oder gleichzeitig mit der Angabe und/oder  erfolgen.
 
 ---
 
-|  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe | 8 |
+| Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig |  | Die Angabe „ | 8 |
 |---|---|---|---|
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
@@ -119,36 +119,36 @@ Nr. Monate wegen KHK seit der letzten Dokumentation  Antikoagulation  Angabe mus
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | | |
 | Pflichtfeld;  Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich | | |
-| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | ARB | Die Angabe „ |
+| Die Angabe „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder | Die Angabe „ |
 | 9 | (weggefallen) |  |  |
-| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
-|  | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b | |
+| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
+| Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b | |
 | Aktuelle Therapiestrategie Statin | Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
-|  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe | 8  ACE-Hemmer |
+| Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig |  | Die Angabe „ | 8  ACE-Hemmer |
 | Ja / Nein / Kontraindikation / ARB | Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |
-|  | Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ | ARB  Die Angabe „  9  (weggefallen) |
+|  | Die Angabe „ | Die Angabe „ | Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „  9  (weggefallen) |
 |  | 9a Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / Pflichtfeld | |
-| Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |  | Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig    Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit  9b Aktuelle Therapiestrategie Statin Strategie der festen Dosis (hoch oder |
+| Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |  | Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig  Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit  9b Aktuelle Therapiestrategie Statin Strategie der festen Dosis (hoch oder |
 | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  |  |
-|  |  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe |
-| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „  ARB  Die Angabe „ |
+|  |  |  | Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig  Die Angabe „ |
+| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Die Angabe „ Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „ |
 | 9 | (weggefallen) |  |  |
-| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig    Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit |
+| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig  Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit |
 | 9b | Aktuelle Therapiestrategie Statin | Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. |
-|  |  |  | Nein“ kann alleine oder gleichzeitig mit der Angabe |
-| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Ja“ kann nicht gleichzeitig mit „ Die Angabe „ |
-| ARB |  | Die Angabe „ |  |
+|  |  |  | Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig  Die Angabe „ |
+| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation / ARB | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Die Angabe „ Die Angabe „ |
+| Die Angabe „Kontraindikation“ kann auch alleine oder |  | Die Angabe „ |  |
 | 9  (weggefallen) |  | 9a Aktuelle Statin-Dosis | |
-| Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
-|  |  | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b Aktuelle Therapiestrategie Statin |
+| Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich  Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig |
+| Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig |  | Die Angabe „Kein Statin“ kann alleine oder gleichzeitig mit | 9b Aktuelle Therapiestrategie Statin |
 | Strategie der festen Dosis (hoch oder | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |  |
-|  | Nein“ kann alleine oder gleichzeitig mit der Angabe 8 | ACE-Hemmer  Ja / Nein / Kontraindikation / ARB | |
+| Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig | Die Angabe „ 8 | ACE-Hemmer  Ja / Nein / Kontraindikation / ARB | |
 | Pflichtfeld; | Mindestens eine Angabe ist erforderlich | Mehrfachnennungen sind möglich |  |
-| Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ |  | ARB |
+| Die Angabe „ | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder |
 |  | Die Angabe „ |  | 9 |
 | (weggefallen) |  |  | 9a Aktuelle Statin-Dosis Hoch / Moderat / Niedrig / Kein Statin / Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich |
 
-Nr. Kontraindikation gegen Statin moderat) / Zielwert-Strategie / Keine Strategie vereinbart Erfolgt die Angabe „Ja“ ist keine weitere Angabe zulässig „Kontraindikation“ erfolgen. Nein“ und / oder „Kontraindikation“ erfolgen. „Kontraindikation“ und/oder „ “ erfolgen. Die Angabe „Kontraindikation“ kann auch alleine oder gleichzeitig mit „Nein“ und /oder „ “ erfolgen “ kann alleine oder gleichzeitig mit „ Ja“ oder Nein“ und/oder „Kontraindikation“ erfolgen. Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig Erfolgt die Angabe „Niedrig“ ist keine weitere Angabe zulässig „Kontraindikation gegen Satin“ und umgekehrt erfolgen
+Nr. Kontraindikation gegen Statin moderat) / Zielwert-Strategie / Keine Strategie vereinbart Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen. Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ und/oder „ “ erfolgen. gleichzeitig mit „Nein“ und /oder „ “ erfolgen “ kann alleine oder gleichzeitig mit „ Ja“ oder Nein“ und/oder „Kontraindikation“ erfolgen. „Kontraindikation gegen Satin“ und umgekehrt erfolgen
 
 ---
 

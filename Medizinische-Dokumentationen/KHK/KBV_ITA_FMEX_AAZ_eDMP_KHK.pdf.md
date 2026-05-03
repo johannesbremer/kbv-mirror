@@ -32,7 +32,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -45,14 +45,14 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]/ Version: 4.4 / 15. Mai 2024
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]/ Version: 4.4 / 15. Mai 2024
 
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -72,9 +72,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
--Betriebssysteme unterstützt werden.
-
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -85,14 +83,14 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
-| ☐ | -Stammdatei |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP KHK
 
 Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -100,7 +98,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
 |---|---|
 |  |  |
 |  |  |
@@ -109,11 +107,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP KHK
-
-[ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ] [ ] NUMMER ANFORDERUNGSKATALOG EDMP KHK  LT.
+[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP KHK  LT.
 
 ---
 
@@ -122,7 +116,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
 |  | |
-|  | |
+| Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
 | Name* |  |
 | Telefonnummer* |  |
@@ -138,7 +132,6 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
-Ansprechpartner(in) für das vorliegende Zertifizierungsthema
 
 ---
 
@@ -196,19 +189,15 @@ Rezertifizierung
 
 - **IV.** **Sonstiges**
 
-- ung zu
+- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu
 
-- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfüg stellen, soweit dieses erforderlich ist.
+- stellen, soweit dieses erforderlich ist.
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-
--
 
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-
--
 
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 

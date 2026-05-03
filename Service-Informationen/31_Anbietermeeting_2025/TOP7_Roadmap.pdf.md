@@ -160,7 +160,9 @@ Elektronische Verordnung Heilmittel Gemäß §360 Absatz 7 SGB V ist die elektro
 
 ## - digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
 
-## - Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu  Anfang 2025 das Impulspapier „Impulspapier für digitalen Antrag auf ambulante  Psychotherapie“ erarbeitet
+## - Anfang 2025 das Impulspapier „Impulspapier für digitalen Antrag auf ambulante  Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu
+
+## - Psychotherapie“ erarbeitet
 
 ## - Die KBV hat nun gemeinsam mit dem GKV-SV die konkrete Ausgestaltung eines digitalen  Antragsverfahrens Psychotherapie gestartet.
 

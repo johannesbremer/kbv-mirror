@@ -25,11 +25,7 @@ Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wi
 
 ## 1.1 ANTRAGSSTELLER
 
-ung der in diesem Antrag
-
-Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
-
-bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
+Antragssteller ist die juristische oder natürliche Person, die für die Einhalt bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
@@ -47,7 +43,8 @@ bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]ung der in diesem Antrag
+
 
 ---
 
@@ -90,14 +87,14 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP RA
 
 Folgende optionale eDMP RA Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -105,7 +102,7 @@ Folgende optionale eDMP RA Funktionen sind gem. Anforderungskatalog DMP realisie
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
 |---|---|
 |  |  |
 |  |  |
@@ -114,11 +111,7 @@ Folgende optionale eDMP RA Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## REALISIERTE OPTIONALE FUNKTIONEN EDM P RA
-
-[ ] [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] NUMMER ANFORDERUNGSKATALOG EDMP RA LT.
+[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP RA LT.
 
 ---
 
@@ -200,15 +193,13 @@ Rezertifizierung
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-- en.
-
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen könn
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-- - und
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 
 ---

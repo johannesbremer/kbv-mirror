@@ -84,17 +84,7 @@ nale Pflichtfunktion P2-264 gestrichen Connect gungsweg KV-Connect Spezi- fikati
 
 ---
 
-**BERICHTSZEITRÄUME**
-
-................................................................
-
-6
-
-**ABBILDUNG 1:**
-
-................................
-
-................................
+**ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
 Abbildungsverzeichnis
 
@@ -117,9 +107,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein.
-
-**Pflichtfunktionen**
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
 
@@ -149,9 +137,9 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | K8-30 | Funktionsbezeichnung                                                                            (2-80) |
 
--Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
-Ident-Nummer einer optionalen Funktion Ident (2-70)
+(2-70)
 
 ---
 
@@ -298,19 +286,13 @@ alle Daten zur Jahresstatistik bis Ende
 |---|---|
 | P2-10 | Übermittlung an die Datenannahmestelle |
 
-Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis-
-
-Daten an die Datenannahmestelle senden.
-
-tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete
+Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | P1-265 | QSHLT auf Basis von KV-Connect |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT -
-
-Dokumentationen auf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die  Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung:**
 
@@ -318,25 +300,21 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
--
-
 - (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
 
--  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in
+-  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-
 
 - der stets aktuellen Version **Fehler! Verweisquelle konnte nicht gefunden werden.**
 
-- Anbindung an KV-Connect“ in der stets aktuellen Version [ **Fehler!**
+-  „KV-Connect  Anbindung an KV-Connect“ in der stets aktuellen Version [
 
--  „KV-Connect  **Verweisquelle konnte nicht gefunden werden.**
+- **Verweisquelle konnte nicht gefunden werden.**
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | P1-266 | QSHLT auf Basis von KIM |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT-
-
-Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der  Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -353,6 +331,14 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 **Bedingung:**
 
 - (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
+
+Übertragung der QSHLT -
+
+- Connect“ in
+
+- **Fehler!**
+
+QSHLT-
 
 
 ---
@@ -378,7 +364,7 @@ Es sind folgende Import-Status möglich:
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender  von der aus der Anwender (Arzt) die exportierten Dateien über  hat.
@@ -419,7 +405,7 @@ Adresse geschickt,
 
 KV-Connect KIM übermittelt -
 
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. P1-20) übermittelt. -
+Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. P1-20) übermittelt. -
 
 
 ---

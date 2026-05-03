@@ -4,23 +4,23 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 
 | schema location: | KVTA_Einliefung_Abrechnung_2_0_0.xsd |
 |---|---|
-| attributeFormDefault: |  |
-| elementFormDefault: |  |
-| targetNamespace: |  |
+| attributeFormDefault: | unqualified |
+| elementFormDefault: | qualified |
+| targetNamespace: | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 |  |  |
 
 | Elements |
 |---|
 | einlieferung |
 
-| schema location: | \Schema\KVTA_Datentypen_1_0_4.xsd |
+| schema location: | ..\..\Allgemein_Abrechnung |
 |---|---|
-| attributeFormDefault: |  |
-| elementFormDefault: |  |
-| targetNamespace: |  |
+| attributeFormDefault: | unqualified |
+| elementFormDefault: | qualified |
+| targetNamespace: | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 |  |  |
 
-| Complex types |  |
+| Complex types | Simple types |
 |---|---|
 | Com_typ | Abstrakt_dokumententyp_typ |
 | Einlieferung_typ |  |
@@ -29,7 +29,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 | status_typ |  |
 | Version_typ |  |
 
-unqualified qualified http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 ..\..\Allgemein_Abrechnung unqualified qualified http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Simple types
+\Schema\KVTA_Datentypen_1_0_4.xsd
 
 ---
 
@@ -50,9 +50,9 @@ element **einlieferung/bsnr**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | content complex |
-| attributes | Name  Type  Use  Default  Fixed  Annotation V   derived by: |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   derived by: required |
 
 attribute
 
@@ -65,9 +65,9 @@ element **einlieferung/testdaten**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | content complex |
-| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:boolean |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:boolean required |
 
 attribute
 
@@ -79,11 +79,11 @@ element **einlieferung/lieferungs_zeitpunkt**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | content complex |
-| attributes | Name  Type   Default  Fixed  Annotation V   xs:dateTime |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:dateTime required |
 
-http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 xs:string required  einlieferung/bsnr/@V xs:string http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 required  einlieferung/testdaten/@V http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Use  required
+xs:string einlieferung/bsnr/@V xs:string einlieferung/testdaten/@V
 
 ---
 
@@ -97,17 +97,17 @@ element **einlieferung/dokumenten_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | content complex |
 | attributes | Name  Type  Use  Default  Fixed  Annotation V   Abstrakt_dokumententyp_typ   required |
-| annotation | documentation UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um |
+| annotation | documentation ABRECHNUNG, SAMMELERKLÄRUNG oder ABRECHN |
+
+attribute
 
 | type | Abstrakt_dokumententyp_typ |
 |---|---|
 | properties | use required |
-| facets | Kind Value Annotation enumeration   enumeration ABRECHNUNG HZV  enumeration SAMMELERKLÄRUNG  enumeration   enumeration DMP  enumeration EHKS  enumeration QSMG  enumeration QSHGV  enumeration QSHGVK  enumeration QSHLT  enumeration QSKE |
-
-attribute
+| facets | Kind Value Annotation enumeration ABRECHNUNG  enumeration ABRECHNUNG HZV  enumeration SAMMELERKLÄRUNG  enumeration ABRECHNUNG+SAMMELERKLÄRUNG  enumeration DMP  enumeration EHKS  enumeration QSMG  enumeration QSHGV  enumeration QSHGVK  enumeration QSHLT  enumeration QSKE |
 
 element **einlieferung/quartal**
 
@@ -115,14 +115,14 @@ element **einlieferung/quartal**
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 
-einlieferung/lieferungs_zeitpunkt/@V http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 ABRECHNUNG, SAMMELERKLÄRUNG oder ABRECHN das Dokument einer Gruppe von Dokumenten zuzuordnen). einlieferung/dokumenten_typ/@V ABRECHNUNG+SAMMELERKLÄRUNG
+einlieferung/lieferungs_zeitpunkt/@V UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen). einlieferung/dokumenten_typ/@V
 
 ---
 
 | properties | content complex |
 |---|---|
-| attributes | Name  Type  Use  Default  Fixed  Annotation V   derived by:      appinfo <altova:exampleValues> |
-| annotation | documentation -1 zu übermitteln |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   derived by: required      appinfo <altova:exampleValues> |
+| annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 |
 
 attribute
 
@@ -136,10 +136,10 @@ element **einlieferung/vollstaendig**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | content complex |
-| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:boolean |
-| annotation | documentation |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:boolean required |
+| annotation | documentation True: Abrechnung ist vollständig, Sonst: False ( Z.B. Bei mehreren Teillieferung aus Nebenbetriebsstätten. |
 
 attribute
 
@@ -147,7 +147,7 @@ attribute
 |---|---|
 | properties | use required |
 
-xs:string required  value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 einlieferung/quartal/@V xs:string <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 required  True: Abrechnung ist vollständig, Sonst: False ( Z.B. Bei mehreren Teillieferung aus Nebenbetriebsstätten. einlieferung/vollstaendig/@V
+xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> -1 zu übermitteln einlieferung/quartal/@V xs:string <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V
 
 ---
 
@@ -157,8 +157,8 @@ element **einlieferung/anhang**
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | properties | minOcc 1 maxOcc unbounded content complex |
-| attributes | Name   Use  Default  Fixed  Annotation V     required |
-| annotation | documentation |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:string required |
+| annotation | documentation CON Dokument, XKM und ggf. Sammelerklärung, erkennbar an den Dokumentenendungen. |
 
 attribute
 
@@ -177,7 +177,7 @@ complexType
 
 **Com_typ**
 
-Type  xs:string CON Dokument, XKM und ggf. Sammelerklärung, erkennbar an den Dokumentenendungen. einlieferung/anhang/@V
+einlieferung/anhang/@V
 
 ---
 
@@ -189,19 +189,19 @@ element **Com_typ/version**
 | type | Version_typ |
 | properties | content complex |
 | attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:integer required |
-| annotation |  |
+| annotation | documentation Fortlaufende Nummer um Ergänzungen d.h. Neue Daten von Ersetzenden zu unterscheiden. Zusammen mit der guid |
 
 element **Com_typ/guid**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | type | Guid_typ |
 | properties | content complex |
-| attributes | Type  Use  Default  Fixed  Annotation V   xs:string required |
-| annotation |  |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:string required |
+| annotation | documentation Global eindeuitige ID. Kennzeichent ein Dokument eindeutig. Muss gemäß GUID Definition (Siehe Anforderungskatalog) |
 
-documentation Fortlaufende Nummer um Ergänzungen d.h. Neue Daten von Ersetzenden zu unterscheiden. Zusammen mit der guid wird ein Dokument und seine Version gebildet. http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Name  documentation Global eindeuitige ID. Kennzeichent ein Dokument eindeutig. Muss gemäß GUID Definition (Siehe Anforderungskatalog) gefüllt werden.
+wird ein Dokument und seine Version gebildet. gefüllt werden.
 
 ---
 
@@ -209,7 +209,7 @@ complexType **Einlieferung_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | type | extension of Com_typ |
 | properties | base Com_typ abstract true |
 | children | version guid |
@@ -219,7 +219,7 @@ complexType **Guid_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | used by | element Com_typ/guid |
 | attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:string required |
 
@@ -229,45 +229,41 @@ attribute
 |---|---|
 | properties | use required |
 
-http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 Guid_typ/@V
+Guid_typ/@V
 
 ---
 
-complexType
+complexType **Meldung_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | type | extension of Com_typ |
 | properties | base Com_typ abstract true |
 | children | version guid |
 
-complexType
+complexType **status_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
-|  | Name  Type  Use     ID   derived by: required      documentation Gemeinsam  TYP       STANDARD    documentation Gibt an ob es |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
+| attributes | Name  Type  Use  Default  Fixed  Annotation ID   derived by: required      documentation Gemeinsam  TYP   derived by:   STANDARD    documentation Gibt an ob es |
 
-**Meldung_typ**
-
-**status_typ**
-
-http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 attributes http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 xs:string xs:string Default  Fixed  Annotation vereinbarter Status bezogen auf den Dokumententyp. sich um einen Status handelt der den Beginn, das Ende oder einen Standardzustand innerhalb des
+xs:string vereinbarter Status bezogen auf den Dokumententyp. xs:string sich um einen Status handelt der den Beginn, das Ende oder einen Standardzustand innerhalb des
 
 ---
 
 |  | Workflows  KV_DETAIL   xs:string       documentation Hier können KV |
 |---|---|
-| annotation | documentation |
+| annotation | documentation Ein Status innerhalb eines dokumentenbezogenen Workflows. |
 
 attribute
 
 | type | restriction of |
 |---|---|
 | properties | use required |
-| facets | Kind Value  enumeration SENDEN  enumeration SENDE_FEHLER  enumeration SENDE_FEHLER_P  enumeration SENDE_FEHLER_A  enumeration NEU  enumeration ABRECHNUNGS_BEREIT  enumeration PRUEFUNG_FEHLER  enumeration HONORAR_BEREIT  enumeration ABRECHNUNGS_FEHLER |
-| annotation | documentation |
+| facets | Kind Value Annotation enumeration SENDEN  enumeration SENDE_FEHLER  enumeration SENDE_FEHLER_P  enumeration SENDE_FEHLER_A  enumeration NEU  enumeration ABRECHNUNGS_BEREIT  enumeration PRUEFUNG_FEHLER  enumeration HONORAR_BEREIT  enumeration ABRECHNUNGS_FEHLER |
+| annotation | documentation Gemeinsam vereinbarter Status bezogen auf den Dokumententyp. |
 
 attribute
 
@@ -283,7 +279,7 @@ attribute
 |---|---|
 | annotation | documentation Hier können KV spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. |
 
-Ein Status innerhalb eines dokumentenbezogenen Workflows. handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID xs:string Annotation Gemeinsam vereinbarter Status bezogen auf den Dokumententyp. status_typ/@TYP xs:string Workflows handelt. status_typ/@KV_DETAIL
+handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID xs:string status_typ/@TYP xs:string Workflows handelt. status_typ/@KV_DETAIL
 
 ---
 
@@ -291,9 +287,9 @@ complexType **Version_typ**
 
 | diagram |  |
 |---|---|
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 | used by | element Com_typ/version |
-| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:integer |
+| attributes | Name  Type  Use  Default  Fixed  Annotation V   xs:integer required |
 
 attribute
 
@@ -303,11 +299,11 @@ attribute
 
 simpleType **Abstrakt_dokumententyp_typ**
 
-| namespace |  |
+| namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 |---|---|
 | type | restriction of |
 | properties | base xs:string |
 | used by | attribute einlieferung/dokumenten_typ/@V |
-| facets | Kind Value Annotation enumeration ABRECHNUNG  enumeration ABRECHNUNG HZV  enumeration SAMMELERKLÄRUNG  enumeration   enumeration DMP  enumeration EHKS  enumeration QSMG  enumeration QSHGV  enumeration QSHGVK  enumeration QSHLT  enumeration QSKE |
+| facets | Kind Value Annotation enumeration ABRECHNUNG  enumeration ABRECHNUNG HZV  enumeration SAMMELERKLÄRUNG  enumeration ABRECHNUNG+SAMMELERKLÄRUNG  enumeration DMP  enumeration EHKS  enumeration QSMG  enumeration QSHGV  enumeration QSHGVK  enumeration QSHLT  enumeration QSKE |
 
-http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 required  Version_typ/@V http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 ABRECHNUNG+SAMMELERKLÄRUNGXML Schema documentation generated by **XMLSpy** Schema Editor **[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**
+Version_typ/@VXML Schema documentation generated by **XMLSpy** Schema Editor **[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**

@@ -2,12 +2,12 @@
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  |  |
-|  |  |
-|  | Version |
+|  | 10623 Berlin, Herbert |
+|  | Kassenärztliche Bundesvereinigung |
+|  | 1.04 |
 |  |  |
 
-i- on (eHKS) 10623 Berlin, Herbert -Lewin-Platz 2 Kassenärztliche Bundesvereinigung 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
+i- on (eHKS) -Lewin-Platz 2 Version  Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
 
 
 ---
@@ -27,15 +27,13 @@ für den Parameter „Geschlecht der/des Versicherten“
 
 **1** **EINLEITUNG**
 
+**4**
+
 **2** **GRUNDLAGEN**
 
-**3** **PLAUSIBILITÄTSPRÜFUN**
-
-**GEN ALLGEMEINER DATENSATZ**
-
 **4**
 
-**4**
+**3** **PLAUSIBILITÄTSPRÜFUNGEN ALLGEMEINER DATENSATZ**
 
 **5**
 
@@ -76,8 +74,8 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 | 1.1 | Administrative Daten | | |
 | 1.1.1 | Lebenslange Arztnummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
 | 1.1.2 | Betriebsstättennummer | Nummerisch 9-stellig | Pflichtfeld (voraussichtlich geltend ab 01.07.2008) |
-| 1.2 |  | | |
-| 1.2.1 | Geburtsdatum der/des Versi- | TT.MM.JJJJ | Pflichtfeld Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
+| 1.2 | Personenstammdaten | | |
+| 1.2.1 | Geburtsdatum der/des Versi- Alternativ zum Geburtsdatum | TT.MM.JJJJ | Pflichtfeld Geburtsdatum (1.2.1) muss kleiner gleich dem Un- |
 | 1.2.2 | Geschlecht der/des Versicher- | Weiblich/Männlich/Unbestimmt/Divers | Pflichtfeld Es ist genau eine Angabe erforderlich. |
 | 1.2.3 | Name des Kostenträgers |  | Pflichtfeld Der Name des Kostenträgers muss der Kostenträ- |
 | 1.2.4 | Institutionskennzeichen des | Nummerisch 7-stellig | Pflichtfeld Stammdateiprüfung |
@@ -87,7 +85,7 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
 | 3 Plausibilitätsprüfungen | | | |
 
-Nr. (LANR) (BSNR) Personenstammdaten cherten  Alternativ zum Geburtsdatum der/des Versicherten kann auch das Alter der/des cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-
+Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-
 
 
 ---

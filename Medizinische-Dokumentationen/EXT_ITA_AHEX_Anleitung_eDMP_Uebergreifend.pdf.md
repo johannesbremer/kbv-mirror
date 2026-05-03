@@ -14,9 +14,9 @@
 
 ## Depression, Osteoporose
 
-## und rheumatoide Arthritis 01.10.2023
+## und rheumatoide Arthritis
 
-Gültig ab:
+Gültig ab:    01.10.2023
 
 Stand der letzten Bearbeitung: 22.02.2023
 
@@ -86,57 +86,59 @@ für eine effektive
 
 - Rheumatoide Arthritis
 
-erfüllen.
-
 Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung ( RSAV) und der DMP-Anforderungen- Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses
 
 *Wann ist die Dokumentation vollständig?*
 
-sind. Ihre Praxissoftware unterstützt Sie bei der Feststellung der
+Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt Sie
 
-Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden  Vollständigkeit der Angaben.
-
-Ihrer Patientin oder Ihrem Patienten
+Vollständigkeit der Angaben.
 
 Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und  jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
-
-nur bei vollständig ausgefüllten
 
 Bedenken Sie, dass aufgrund vertraglicher Regelungen  Dokumentationen und bei Einhaltung der Dokumentationsfristen eine Vergütung an Sie  erfolgen kann.
 
 *Wie werden die Dokumentationen weitergeleitet und honoriert?*
 
-für Sie zuständige Datenstelle
-
 Die Dokumentationen sind aus Ihrer Praxis elektronisch an die  zu übermitteln. Dies kann auf direktem Wege über eine gesicherte Datenleitung erfolgen.  Alternativ können die Daten in einigen Regionen auch online (z.B. auf einem Server der  Datenstelle) erfasst oder aber über den Postversan d eines Datenspeichers, wie etwa einer  CD-ROM, übermittelt werden.
 
-**gültige Teilnahme Ihrer**
-
-**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Patientin oder Ihres Pat ienten es zwingend erforderlich ist, dass zusätzlich zur**
+**Bitte beachten Sie, dass für die Weiterleitung der Daten und die** **Patientin oder Ihres Pat ienten es zwingend erforderlich ist, dass**
 
 **vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**
 
-**und unmittelbar an die zuständige Datenstelle oder**
+**beiden unterschrieben und unmittelbar**
 
-**beiden unterschrieben**  **Krankenkasse übermittelt wurde.** Dabei ist sicherzustellen, dass alle drei Ausfertigungen
+**Krankenkasse übermittelt wurde.** Dabei ist sicherzustellen, dass alle drei Ausfertigungen
 
-die jeweils notwendigen Unterschriften von Ihnen und der Patientin bzw. dem Patienten tragen
+die jeweils notwendigen Unterschriften von Ihnen und
 
-(Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunt erschriften, zweite und dritte Seite als
+(Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunt erschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der
 
-der Patient und ein Exemplar verbleibt bei Ihnen in der
+Patientenakte.
 
-Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder  Patientenakte.
-
-Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder
-
-Die vollständige und plausible Dokumentation muss
-
-unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen.
-
-inklusive
+Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und
 
 abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.
+
+erfüllen.
+
+bei der Feststellung der
+
+Ihrer Patientin oder Ihrem Patienten
+
+nur bei vollständig ausgefüllten
+
+für Sie zuständige Datenstelle
+
+**gültige Teilnahme Ihrer**
+
+**zusätzlich zur**
+
+**an die zuständige Datenstelle oder**
+
+der Patientin bzw. dem Patienten tragen
+
+plausible Dokumentation muss inklusive
 
 
 ---
@@ -148,81 +150,81 @@ Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,
 
 **DMP-Fallnummer**
 
-Für jede Patientin und jeden Patienten vergeben Sie als behandelnde Ärztin oder
-
-behandelnder Arzt genau eine **DMP-Fallnummer**, die aus maximal sieben Zeichen
-
-(Zahlen und/oder Buchstaben) bestehen darf. Die Fallnummer darf jeweils nur für eine  Patientin oder einen Patienten verwendet werden. Sie hat den Zweck, das s Sie
+Für jede Patientin und  behandelnder Arzt genau eine  (Zahlen und/oder Buchstaben) bestehen darf. Die Fallnummer darf jeweils nur für eine  Patientin oder einen Patienten verwendet werden. Sie hat den Zweck, das s Sie
 
 Informationen aus den eingehenden Feedback -Berichten trotz Pseudonymisierung der  richtigen Patientin bzw. dem richtigen Patienten zuordnen können und muss daher auch  für die Folgedokumentationen unverändert weitergeführt werden.
 
-Nimmt Ihre Patientin oder Ihr Patient an mehreren DMP teil, können Sie dieselbe DMP
+Nimmt Ihre Patientin oder Ihr Patient an mehreren DMP teil, können Sie dieselbe DMP Fallnummer für diese Patientin oder diesen Patienten für alle DMP verwenden.
 
-Fallnummer für diese Patientin oder diesen Patienten für alle DMP verwenden.
-
-Auch können Sie die DMP -Fallnummer für dieselbe Patientin bzw. denselben Patienten  nach einer erfolgten Programmbeendigung bei einer Wiedereinschreibung erneut
+Auch können Sie die DMP -Fallnummer für dieselbe Patientin bzw. denselben Patienten  nach einer erfolgten
 
 verwenden.
 
+jeden Patienten vergeben Sie als  **DMP-Fallnummer**
+
+Programmbeendigung bei
+
 **Vertragsarzt- und Betriebsstätten-Nummer**
 
-Bitte geben Sie sowohl Ihre (lebenslange) Arzt-, als auch Ihre Betriebsstätten-Nummer an.
+Bitte geben Sie sowohl Ihre (lebenslange) Arzt Sind für Ihre Praxis mehrere Ärztinnen oder Ärzte als koordinierende Leistungserbringer  zugelassen, geben Sie bitte jeweils die Arzt Arztes an, die/der die aktuelle Dokumentation erstellt.
 
-Sind für Ihre Praxis mehrere Ärztinnen oder Ärzte als koordinierende Leistungserbringer  zugelassen, geben Sie bitte jeweils die Arzt -Nummer derjenigen Ärztin oder desjenigen
-
-Arztes an, die/der die aktuelle Dokumentation erstellt.
-
-Ähnliches gilt, wenn Sie als koordinierende Ärztin oder koordinierender Arzt an mehreren  Betriebsstätten beschäftigt sind. In diesem Fall ist (neben Ihrer Arztnummer) jeweils die
-
-Betriebsstätten-Nummer anzugeben, in der die aktuelle Dokumentation erstellt wurde.
+Ähnliches gilt, wenn Sie als koordinierende Ärztin oder koordinierender Arzt an mehreren  Betriebsstätten beschäftigt sind. In diesem Fall ist  Betriebsstätten-Nummer anzugeben, in der die aktuelle Dokumentation erstellt wurde.
 
 **Krankenhaus- Institutionskennzeichen**
 
-Dieses Feld ist für den Fall vorges ehen, dass eine Einschreibung der Teilnehmer durch  Krankenhaus erfolgt. Das teilnehmende
+-, als auch Ihre Betriebsstätten
 
-hier sein
+-Nummer derjenigen Ärztin oder desjenigen
 
-ein
-
-Krankenhaus fügt
+Dieses Feld ist für den Fall vorges ehen, dass eine Einschreibung der Teilnehmer durch  ein Krankenhaus erfolgt. Das
 
 Institutionskennzeichen ein.
 
 **Dokumentation in Vertretung erstellt**
 
-Sollten Sie die Dokumentation in Vertretung (z. B. Urlaubsvertretung ) für den eigentlich
-
-vom Versicherten gewählten koordinierenden Arzt ausstellen, geben Sie dies bitte hier an.
+Sollten Sie die Dokumentation in Vertretung (z. B. Urlaubsvertretung vom Versicherten gewählten koordinierenden Arzt ausstellen, geben Sie dies bitte hier an.
 
 **Einschreibung wegen/Angabe zum Dokumentationstyp**
 
-Über diese Eingabe werden automatisch die zu dokumentierenden indikationsbezogenen  Parameter aufgerufen. Die gleichzeitige Angabe und damit parallele Dokumentation  einer
+Über diese Eingabe werden automatisch die zu dokumentierenden indikationsbezogenen  Parameter aufgerufen. Die gleichzeitige Angabe und damit parallele Dokumentation  mehrerer Indikationen ist dabei möglich. Möchten Sie bei einer Mehrfachteilnahme  Patientin oder eines Patienten aktuell nur eine Indikation dokumentieren, wählen Sie bitte  nur die Indikation aus, für die Sie die Dokumentation erstellen wollen.
 
-mehrerer Indikationen ist dabei möglich. Möchten Sie bei einer Mehrfachteilnahme  Patientin oder eines Patienten aktuell nur eine Indikation dokumentieren, wählen Sie bitte  nur die Indikation aus, für die Sie die Dokumentation erstellen wollen.
-
-dass eine gleichzeitige
-
-Bitte beachten Sie,
-
-Teilnahme für folgende Indikationen
+Bitte beachten Sie, dass eine gleichzeitige
 
 ausgeschlossen ist:
+
+teilnehmende
+
+Teilnahme für
 
 -  Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 -  Asthma bronchiale und COPD
 
 -  KHK und Chronische Herzinsuffizienz
 
-Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst - oder Folgedokumentation) für die jeweils ausgewählte
+Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst - oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die  Dokumentationstypen zu kombinieren. So können
 
-kombinieren.
+behandelnde Ärztin oder
 
-eine
+, die aus maximal sieben Zeichen
 
-Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen
+einer Wiedereinschreibung erneut
 
-Dokumentationstypen zu
+(neben Ihrer Arztnummer) jeweils die
 
-So können Sie z. B. gleichzeitig
+Krankenhaus
+
+folgende Indikationen -
+
+diagnosebezogen unterschiedlichen  Sie z. B.
+
+-Nummer an.
+
+fügt hier sein
+
+) für den eigentlich
+
+einer
+
+gleichzeitig eine
 
 
 ---
@@ -231,17 +233,13 @@ Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes melli
 
 **Geschlecht**
 
-Eine Angabe zum Geschlecht de r teilnehmenden Patientin oder des Patienten ist
-
-verpflichtend.
+Eine Angabe zum Geschlecht de r teilnehmenden Patientin oder des  verpflichtend.
 
 **Körpergröße**
 
 Eine Angabe ist verpflichtend.
 
-(m) mit zwei Stellen hinter dem Komma an.
-
-Geben Sie bitte die Körpergröße in Metern
+Geben Sie bitte die Körpergröße in Metern (m) mit zwei Stellen hinter dem Komma an.
 
 Ist die Körpergröße, z.B. auf Grund einer Amputation, nicht zu erheben, ist eine „0“  einzutragen.
 
@@ -253,21 +251,13 @@ Ist das Körpergewicht, z.B. auf Grund einer Amputation, nicht zu erheben, ist e
 
 **Blutdruck**
 
-**DMP zu Asthma bronchiale**
-
-Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem
-
-vollendeten 18. Lebensjahren, die an einem DMP Asthma teilnehmen, ist die Angabe  verpflichtend.
-
-**DMP zu Diabetes mellitus**
+Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen, ist die Angabe optional. Bei allen  vollendeten 18. Lebensjahren, die an einem DMP Asthma teilnehmen, ist die Angabe  verpflichtend.
 
 Bei Kindern und Jugendlichen unter 1 1 Jahren, die an einem  **Typ 1** teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem
 
-vollendeten 11. Lebensjahr, die an einem DMP Diabetes mellitus Typ 1 teilnehmen, ist die
+vollendeten 11. Lebensjahr, die an einem DMP Diabetes mellitus Typ 1
 
 Angabe verpflichtend.
-
-**übrigen DMP**
 
 Bei allen Patientinnen und Patienten , die an mindestens einem der  teilnehmen, ist eine Angabe verpflichtend.
 
@@ -275,21 +265,31 @@ Geben Sie hier bitte den aktuellen systolischen und diastolischen Blutdruckwert 
 
 **Raucher**
 
-l. Bei allen anderen
-
 Bei Kindern bis zum vollendeten 12. Lebensjahr ist die Angabe optiona
 
-Patientinnen und Patienten ist die Angabe verpflichtend. Geben Sie hier bitte an, ob Ihre  Patientin oder Ihr Patient Raucher ist. Neben dem Zigarettenrauchen sind hier auch  au eine Angabe.
-
-Pfeifen- und Zigarrenrauchen zu erfassen. Machen Sie bitte gen
+Patientinnen und Patienten ist die Angabe verpflichtend. Geben Sie hier bitte an, ob Ihre  Patientin oder Ihr Patient Raucher ist. Neben dem Zigarettenrauchen sind hier auch  Pfeifen- und Zigarrenrauchen zu erfassen. Machen Sie bitte gen
 
 **Begleiterkrankungen**
 
 Eine Angabe ist verpflichtend; dabei sind Mehrfachnennungen möglich.
 
-Hier geben Sie bitte an, ob Ihre Patientin oder Ihr Patient eine oder mehrere der
+Hier geben Sie bitte an, ob Ihre Patientin oder Ihr Patient eine oder mehrere der  aufgeführten Begleiterkrankungen hat. Sollte(n) bei Ihre r Patientin oder Ihrem Patienten  andere als die hier aufgeführten oder gar keine Begleiterkrankungen vorliegen, geben Sie  bitte „Keine der genannten Erkrankungen“ an.
 
-aufgeführten Begleiterkrankungen hat. Sollte(n) bei Ihre r Patientin oder Ihrem Patienten  andere als die hier aufgeführten oder gar keine Begleiterkrankungen vorliegen, geben Sie  bitte „Keine der genannten Erkrankungen“ an.
+Patienten ist
+
+**DMP zu Asthma bronchiale**
+
+Patientinnen und Patienten ab dem
+
+**DMP zu Diabetes mellitus**
+
+teilnehmen, ist die
+
+**übrigen DMP**
+
+l. Bei allen anderen
+
+au eine Angabe.
 
 
 ---

@@ -45,11 +45,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 7
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 8
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 8
 
@@ -57,7 +57,7 @@ Datumseingaben 1.6.2
 
 8
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 8
 
@@ -69,7 +69,7 @@ Versichertendaten 1.6.4
 
 9
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 9
 
@@ -87,7 +87,7 @@ Prüfnummer 1.6.7
 
 11
 
-Prüffall 4512 2.1.2
+2.1.2 Prüffall 4512
 
 13
 
@@ -99,7 +99,7 @@ Prüffall 4512 2.1.2
 
 18
 
-Prüffall 4514 2.2.1
+2.2.1 Prüffall 4514
 
 18
 
@@ -107,7 +107,7 @@ Prüffall 4514 2.2.1
 
 2.3 Weitere Prüffälle zum Anforderungskatalog 22
 
-Prüffall 4530 2.3.1
+2.3.1 Prüffall 4530
 
 22
 
@@ -155,12 +155,12 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.05 | 31.03.2026 | KBV | Anpassung der  Anpassung Prüffall | Schnittstellenversion  Änderung der | 11     23 |
 | 1.04 | 0.9.12.2024 | KBV | Anpassung der  Überarbeitung des | Schnittstellenversion | 11     22 |
-| 1.03 | 1.2.02.2024 | KBV | Anpassung der übergreifenden Prüffälle an COPD-  4.06 | COPD- Schnittstellenversion 4.06 ist ab 01.04.2023 zu verwenden | 11 |
+| 1.03 | 1.2.02.2024 | KBV | Anpassung der übergreifenden Prüffälle an COPD- Schnittstellenversion 4.06 | COPD- Schnittstellenversion 4.06 ist ab 01.04.2023 zu verwenden | 11 |
 | 1.02 | 08.11.2022 | KBV | Datumsanpassungen    Aufnahme eines  Neuer Prüffall 4540 zur | Datumsanpassungen  Schnittstellenversion     Anpassung an | 11     25       23 |
 | 1.01 | 15.02.2021 | KBV | Anpassung der | Schnittstellenversion | 11 |
-| 1.0 | 19.06.2019 | KBV |  | initiale Erstellung | alle |
+| 1.0 | 19.06.2019 | KBV | Dokumenterstellung | initiale Erstellung | alle |
 
-Testfalls 4530 der Prüffälle. Testfalls für die Testdatenvalidierung Umsetzung der Teilnahmeerklärung. Schnittstellenversionen verwenden Dokumenterstellung 1.04 ist ab 01.10.2026 zu Barcodeversion (03) ab 1.10.2026 1.03 ist ab 01.01.2025 zu verwenden. wegen der Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. 1.01 ist ab 01.04.2021 zu
+Testfalls 4530 der Prüffälle. Testfalls für die Testdatenvalidierung Umsetzung der Teilnahmeerklärung. Schnittstellenversionen verwenden 1.04 ist ab 01.10.2026 zu Barcodeversion (03) ab 1.10.2026 1.03 ist ab 01.01.2025 zu verwenden. wegen der Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. 1.01 ist ab 01.04.2021 zu
 
 ---
 
@@ -235,7 +235,7 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update 
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- HI- Unterlagen bestehend aus XML- Dokumenten:
+- **HI-Unterlagen bestehend aus XML-Dokumenten:**
 
 Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen
 
@@ -319,51 +319,45 @@ müssen in
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
-### 1.6.1 Schnittstellenversionen - Indikation Herzinsuffizienz
+### 1.6.1 Schnittstellenversionen
 
-Ab dem 01.10.2026 muss die Schnittstellenversion 1.04 - Indikation COPD :
+- Indikation **Herzinsuffizienz:**
 
-Ab dem 01.10.2026
+Ab dem **01.10.2026** muss die Schnittstellenversion **1.04** verwendet werden.
 
-muss die Schnittstellenversion 4.0
+- Indikation **COPD:**
+
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
 
 ### 1.6.2 Datumseingaben
 
-- Gültigkeitsdatum: Das „letzte Datum“, ab dem alle in diesem Prüfpaket verwendeten Schnittstellen
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der -
-
-- Erstdokumentationsdatum: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
-
-- Monats, der sechs Monate vor dem aktuellen Monat liegt. Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum - Ausnahme
-
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2026**
 
 -
 
-- Folgedokumentationsdatum: Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.
+
+- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
+
+- **Ausnahme**
+
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+
+-
+
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
 
 - sechs Monate nach dem Erstdokumentationsdatum
 
-- Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
+- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
 
 - „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
-- Bei Nachlieferungen bzw . Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei - Erstlieferung
-
-verwendet werden.
-
-7 verwendet werden.
-
-- 01.10.2026
-
--
-
--
-
-- ist der 15.10.2024
-
--
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
 
 ### 1.6.3 Prüfstammdaten
 
@@ -371,15 +365,17 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben
+
+und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
+
+Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 
 - EF.PD = persönliche Versichertendaten
 
 - EF.GVD = geschützte Versichertendaten
-
-erforderlichen Angaben  “ bereitgestellt. Die XML-
 
 
 ---
@@ -467,21 +463,21 @@ Die Versichertendaten von
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
 | DMP-Fallnummer | 4511 | 4511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 | 10.06.2025 |
-| Einschreibung wegen | Chronische | Chronische |
+| Einschreibung wegen | Herzinsuffizienz | Herzinsuffizienz |
 | Geschlecht | Männlich | Männlich |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Arterielle Hypertonie, | Arterielle Hypertonie, |
+| Begleiterkrankungen | COPD | COPD |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Tabakverzicht, Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
@@ -491,7 +487,7 @@ Viktor Müller (XML_09) einlesen
 
 und speichern
 
-INDIKATIONSÜBERGREIFENDE Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz COPD Ernährungsberatung,   15.mm.jjjj   15.mm.jjjj Herzinsuffizienz COPD   15.mm.jjjj
+DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Chronische Arterielle Hypertonie, Ernährungsberatung,   15.mm.jjjj   15.mm.jjjj Chronische Arterielle Hypertonie,   15.mm.jjjj
 
 ---
 
@@ -556,7 +552,7 @@ PEZIFISCHE DATEN Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei a
 | Chronische |  |  |
 | Weiblich |  |  |
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
 | DMP-Fallnummer | 4512 | 4512 |
@@ -570,13 +566,13 @@ PEZIFISCHE DATEN Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei a
 | Körpergewicht | 050 kg | 050 kg |
 | Blutdruck | 100 / 50 mmHg | 100 / 50 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Keine der genannten | COPD |
+| Begleiterkrankungen | Erkrankungen | COPD |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 07.01.2025 | 10.06.2025 |
 
-INDIKATIONSÜBERGREIFENDE Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz Erkrankungen  15.mm.jjjj   15.mm.jjjj Herzinsuffizienz   15.mm.jjjj Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern Anlegen einer Erst- und einer Verlaufsdokumentation PEZIFISCHE DATEN Monaten
+DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz Keine der genannten  15.mm.jjjj   15.mm.jjjj Herzinsuffizienz   15.mm.jjjj Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern Anlegen einer Erst- und einer Verlaufsdokumentation PEZIFISCHE DATEN Monaten
 
 ---
 
@@ -661,7 +657,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | 1 |  | HI |
 |  | HI |  |
 |  |  |  |
-| Kurz wirksame Beta-2-Sympathomimetika |  |  |
+| Kurz wirksame Beta-2-Sympathomimetika | Dauermedikation |  |
 | Evidenzbasierte Zieldosis Betablocker | | |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation |
 |  |  | Inhalationstechnik überprüft |
@@ -686,8 +682,8 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | COPD | Stationäre notfallmäßige Behandlung |  | 1 |
 | HI | Ungeplante stationäre Behandlung, |  | 8 |
 | Medikamente | | | |
-| COPD | Kurz wirksame Beta-2-Sympathomimetika |  |  |
-| COPD | Lang wirksame Beta-2-Sympathomimetika |  | Kontraindikation |
+| COPD | Kurz wirksame Beta-2-Sympathomimetika | Kontraindikation | Dauermedikation |
+| COPD | Lang wirksame Beta-2-Sympathomimetika | Dauermedikation | Kontraindikation |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation | Keine |
 | COPD | Inhalationstechnik überprüft | Nein | Ja |
 | COPD | Sonstige diagnosespezifische Medikation | Theophyllin, Andere | Inhalative |
@@ -711,12 +707,12 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | Stationäre notfallmäßige Behandlung | 1 |  |  |
 | Ungeplante stationäre Behandlung, | 8 |  |  |
 |  |  |  | COPD |
-|  |  |  | COPD |
-|  |  |  | COPD |
+| Kontraindikation |  |  | COPD |
+| Dauermedikation |  |  | COPD |
 | Keine, Kontraindikation |  |  | COPD |
 | Nein |  |  | COPD |
 
-DATEN Informationsangebote der Krankenkasse PEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Medikamente und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  15.mm.jjjj Erstdokumentation 060,0 Prozent des Soll Wertes NYHA IV Dauermedikation Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht   15.mm.jjjj Verlaufsdokumentation 092,0 Prozent des Wertes NYHA III Soll- 8 Dauermedikation Glukokortikosteroide ARB Erreicht
+DATEN Informationsangebote der Krankenkasse PEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Medikamente und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  15.mm.jjjj Erstdokumentation 060,0 Prozent des Soll Wertes NYHA IV Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht   15.mm.jjjj Verlaufsdokumentation 092,0 Prozent des Wertes NYHA III Soll- 8 Glukokortikosteroide ARB Erreicht
 
 ---
 
@@ -775,7 +771,7 @@ PEZIFISCHE DATEN (MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (b
 | Prüffall-ID | 4514 |
 | Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
-| Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| Prüfunterlagen | Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -786,14 +782,14 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erstdokumentation:**
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Aktion |
 | DMP-Fallnummer | 4514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 07.01.2025 |  |
-| Einschreibung wegen | Chronische |  |
+| Einschreibung wegen | Herzinsuffizienz |  |
 | Geschlecht | Je nach Auswahl des |  |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,51 m |  |
@@ -802,19 +798,19 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Raucher |  | Nr. 1 |
 | Begleiterkrankungen |  | Nr. 2 |
 
-Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. INDIKATIONSÜBERGREIFENDE  15.mm.jjjj Herzinsuffizienz Patienten
+Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  DATEN  15.mm.jjjj Chronische Patienten
 
 ---
 
 | BEHANDLUNGSPLANUNG | | |
 |---|---|---|
 | Vom Patienten gewünschte Informationsangebote der |  |  |
-|  | Quartalsweise |  |
-| Datum der Erstellung | 15.mm.jjjj |  |
+| Dokumentationsintervall | Quartalsweise |  |
+| Datum der Erstellung | 07.01.2025 |  |
 
-|  | | |
+| INDIKATIONS | | |
 |---|---|---|
-|  | Erstdokumentation | Aktion |
+| Administrative Daten | Erstdokumentation | Aktion |
 | Serum-Elektrolyte und eGFR in den letzten sechs Monaten | Ja |  |
 | Symptomatik | NYHA II |  |
 | Relevante Ereignisse | | |
@@ -835,13 +831,15 @@ Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktion
 | Regelmäßiges körperliches Training |  | Nr. 9 |
 | Führen eines Gewichtsprotokolls | Ja, Nicht erforderlich | Nr. 10 |
 
-- 3. Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation** **abgeschlossen werden kann.**
 
-- 4. Anlegen einer Verlaufsdokumentation am 10.06.2025 - 15.mm.jjjj
+- **4.** **Anlegen einer Verlaufsdokumentation am 10.06.2025 15.mm.jjjj**
 
 -
 
-Krankenkasse Dokumentationsintervall 07.01.2025 INDIKATIONSSPEZIFISCHE Administrative Daten Herzinsuffizienz, seit der letzten Dokumentation DATEN aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen
+-
+
+Krankenkasse  15.mm.jjjj SPEZIFISCHE DATEN Herzinsuffizienz, seit der letzten Dokumentation aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen
 
 ---
 
@@ -888,7 +886,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation:**
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Aktion |
 | DMP-Fallnummer | 4515 |  |
@@ -898,40 +896,40 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Einschreibung wegen | Chronische | Nr. 17 |
 | Geschlecht | Je nach Auswahl des |  |
 | Behandlungsplanung | | |
-| Informationsangebote der |  |  |
+| Vom Patienten gewünschte |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 07.01.2025 |  |
 
-Eingabefehler verhindert INDIKATIONSÜBERGREIFENDE Vom Patienten gewünschte Krankenkasse  15.mm.jjjj Herzinsuffizienz, KHK Patienten  15.mm.jjjj
+Eingabefehler verhindert  DATEN Informationsangebote der Krankenkasse  15.mm.jjjj Herzinsuffizienz, KHK  15.mm.jjjj
 
 ---
 
-## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG 2.3.1 Prüffall 4530
+## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
+
+**2.3.1** **Prüffall 4530**
 
 |  |  |
 |---|---|
-| Prüffall | 4530 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP ) |
+| Prüffall-ID | 4530 |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
 
-Aktionen, die durch den Ant
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| Symptomatik ). |
+| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
 | Szenario 2 |
-| Evidenzbasierte Zieldosis ). |
+| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
 | Szenario 3 |
-| Evidenzbasierte Zieldosis ). |
+| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
 | Szenario 4 |
-| Evidenzbasierte Zieldosis ). |
+| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ). |
 
-ragsteller durchgeführt werden:
-
-- ID (KBV_ITA_VGEX_Anforderungskatalog_eDMP einer möglichen Hinweissteuerung.  Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 1 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ ACE- Hemmer oder ARB Akzeptanzkriterium 2 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ Betablocker “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 3 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ MRA “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 4 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, “ ermöglicht,
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP einer möglichen Hinweissteuerung.  sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 1 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ACE-Hemmer oder ARB Akzeptanzkriterium 2 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Betablocker “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 3 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP MRA “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Akzeptanzkriterium 4 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1 -48, Symptomatik “ ermöglicht, Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis
 
 ---
 
@@ -940,22 +938,20 @@ ragsteller durchgeführt werden:
 |  | |
 |---|---|
 | Prüffall-ID | 4540 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_HI.pdf“ |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
--
-
 - **1.** **Versichertendaten**
 
-**Lija Malta (XML_36)** einlesen und speichern.
+Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-Die Versichertendaten von - gemäß Kapitel 3 des
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -964,7 +960,7 @@ Die Versichertendaten von - gemäß Kapitel 3 des
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025 |
 
-(KBV_ITA_VGEX_Anforderungskatalog_eDMP der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.   15.10.2026
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Einwilligungserklärung  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.   15.10.2026
 
 ---
 
@@ -980,9 +976,9 @@ demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung ni
 
 Abbildung 3: Testdatenvalidierung
 
--Archivs. Beachten Sie, dass der Dateinamen des
+Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs. Beachten Sie, dass der Dateinamen des
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des zip Archivs mit „*Test* _106“ beginnen muss, sonst schlägt die Validierung fehl.
+Archivs mit „**Test**_106“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
@@ -1052,7 +1048,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 |---|---|
 | INDIKATIONSPEZIFISCHE | |
 |  | Erstdokumentation |
-| Anamnese - | |
+| Anamnese- und Befunddaten | |
 | Serum-Elektrolyte und eGFR in den letzten sechs Monaten | Ja |
 | Symptomatik | NYHA III |
 | Relevante Ereignisse | |
@@ -1071,7 +1067,7 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | Regelmäßiges körperliches Training | Nicht möglich |
 | Führen eines Gewichtsprotokolls | Ja |
 
-DATEN und Befunddaten letzten Dokumentation Dokumentation)
+DATEN letzten Dokumentation Dokumentation)
 
 ---
 
@@ -1098,11 +1094,10 @@ DATEN und Befunddaten letzten Dokumentation Dokumentation)
 | 3110 | Geschlecht | M |
 | 4133 | Versicherungsschutz Beginn |  |
 | 4110 | Versicherungsschutz Ende |  |
-| 4111 |  | 104212505 |
+| 4111 | Kostentraegerkennung | 104212505 |
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 04 |
 
-Kostentraegerkennung
 
 ---
 

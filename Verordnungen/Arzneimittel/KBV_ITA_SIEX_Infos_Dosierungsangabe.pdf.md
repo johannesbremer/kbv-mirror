@@ -64,17 +64,17 @@ Bei der Verordnung von Betäubungsmitteln ist laut unverändert gültiger Betäu
 
 *§ 9 Absatz 1 Nummer 5* *BtMVV*
 
-gemäß schriftlicher Anweisung anstatt des Kürzels Dj . Ein Dj
+Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, erfolgt  softwaregestützt der Aufdruck gemäß schriftlicher Anweisung anstatt des Kürzels Dj . Ein Dj
 
-Im Falle, dass dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, erfolgt  softwaregestützt der Aufdruck  darf softwaregestützt nicht auf BtM-Rezepten aufgebracht werden.
+darf softwaregestützt nicht auf BtM-Rezepten aufgebracht werden.
 
 ## Welche Möglichkeiten muss die Verordnungssoftware bezüglich der Dosierungsangabe verpflichtend  anbieten? Welche Möglichkeiten sind lediglich optional umzusetzen?
 
 **Pflichtanforderung:**
 
-**Freitextfeld** ist hier als Eingabefeld für ÄrztInnen
+Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung jeweils hinter dem  verordneten Produkt am Ende der Verordnungszeile. Ein **Freitextfeld** ist hier als Eingabefeld für ÄrztInnen
 
-Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung jeweils hinter dem  verordneten Produkt am Ende der Verordnungszeile. Ein  als **Mindestvoraussetzung** **verpflichtend.**
+als **Mindestvoraussetzung** **verpflichtend.**
 
 Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen für  verschreibungspflichtige Arzneimittel schaffen:
 
@@ -82,13 +82,11 @@ Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen
 
 - Dj für verschreibungspflichtige Arzneimittel;
 
-- bei Betäubungsmitteln (BtM)
+- gemäß schriftlicher Anweisung bei Betäubungsmitteln (BtM)
 
--  gemäß schriftlicher Anweisung
+- Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept
 
-- Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept -
-
--  z.B.  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen
+- z.B.  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen
 
 - Keine Dosierungsangabe notwendig aufgrund von Abgabe an verschreibende Person (z. B.  Sprechstundenbedarf) - *Keine Angabe*
 
@@ -96,9 +94,9 @@ Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen
 
 Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine strukturierte Dosierungsangabe  erfolgen zum Beispiel in folgender Form:
 
-- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags- abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½ - ½-0 -½
+- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags- abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
 
-- Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette
+- Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 
 
 ---
@@ -154,9 +152,9 @@ Die Dosierungsangabe „Bei Bedarf“ ist aus Sicht der KBV zwar grundsätzlich 
 
 ---
 
-) aus Gründen der
+Bei Bedarf 1 Tablette; maximal 3 am Tag im Abstand von 8 Stunden ) aus Gründen der
 
-Bei Bedarf 1 Tablette; maximal 3 am Tag im Abstand von 8 Stunden Arzneimitteltherapiesicherheit empfehlenswert, um Patienten besser über die anzuwendende Dosierung zu  informieren und etwaige Missverständnisse möglichst zu vermeiden.
+Arzneimitteltherapiesicherheit empfehlenswert, um Patienten besser über die anzuwendende Dosierung zu  informieren und etwaige Missverständnisse möglichst zu vermeiden.
 
 ## Gibt es eine Feldbegrenzung für die Dosierungsangabe? Was geschieht, wenn zwei Zeilen für die  Verordnung inklusive Dosierungsangabe nicht ausreichen?
 
@@ -168,17 +166,17 @@ Notwendige Dosierungsanpassungen im Laufe einer längerfristigen Therapie eines 
 
 Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines BMP ausdrücklich ersetzend für  die Dosierungsangabe auf dem Rezept formuliert – eine entsprechende Kennzeichnung auf dem Rezept ist  in diesem Fall ausreichend. Damit sollte, besonders bei chronisch Kranken, das Problem der Diskrepanz der  Informationen bei einer Dosisanpassung nicht zum Tragen kommen.
 
-Dj zu setzen, anstatt die Dosierungsempfehlung des
+Wir empfehlen ÄrztInnen im Falle, dass für ihre Patienten ein Medikationsplan bzw. eine schriftliche  Dosierungsanweisung vorliegt, ein Dj zu setzen, anstatt die Dosierungsempfehlung des
 
-Wir empfehlen ÄrztInnen im Falle, dass für ihre Patienten ein Medikationsplan bzw. eine schriftliche  Dosierungsanweisung vorliegt, ein  Medikationsplanes auf das Rezept zu kopieren, um ggf. mit der Zeit auseinanderlaufende Dosierungen zu  verhindern.
+Medikationsplanes auf das Rezept zu kopieren, um ggf. mit der Zeit auseinanderlaufende Dosierungen zu  verhindern.
 
-Dj auf dem Rezept auslöst. Die
+Daher wirdSoftwarehäusern gleichsam empfohlen, dass eine Verordnung aus dem BMP heraus  automatisch, d.h. durch Voreinstellung das Kennzeichen Dj auf dem Rezept auslöst. Die
 
-Daher wirdSoftwarehäusern gleichsam empfohlen, dass eine Verordnung aus dem BMP heraus  automatisch, d.h. durch Voreinstellung das Kennzeichen  Wechselmöglichkeit zu einer manuell eingegebenen Dosierung durch ÄrztInnen muss weiterhin gegeben  sein.
+Wechselmöglichkeit zu einer manuell eingegebenen Dosierung durch ÄrztInnen muss weiterhin gegeben  sein.
 
-Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines BMP ausdrücklich ersetzend für  **entsprechende Kennzeichnung >>Dj<< auf dem**
+Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines BMP ausdrücklich ersetzend für  die Dosierungsangabe auf dem Rezept formuliert – eine **entsprechende Kennzeichnung >>Dj<< auf dem**
 
-die Dosierungsangabe auf dem Rezept formuliert – eine  **Rezept ist in diesem Fall ausreichend**
+**Rezept ist in diesem Fall ausreichend**
 
 ## Inwiefern ist eine Voreinstellung der Kennzeichnung Dj möglich?
 
@@ -190,9 +188,7 @@ Patienten ausgehändigt werden.
 
 Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen.
 
-Dj mit nur einem Klick
-
-Die Verordnungssoftware kann ÄrztInnen optional die Möglichkeit bieten, mit einem Klick die Angabe  Dj für alle Verordnungszeilen auf einem Rezept zu setzen, sodass die Angabe
+Die Verordnungssoftware kann ÄrztInnen optional die Möglichkeit bieten, mit einem Klick die Angabe  Dj für alle Verordnungszeilen auf einem Rezept zu setzen, sodass die Angabe Dj mit nur einem Klick
 
 hinter jedem verordneten Produkt jeweils gesetzt wird.
 
@@ -205,9 +201,9 @@ Sofern ÄrztInnen ein Rezept handschriftlich ausstellen und das verschriebene Ar
 
 ---
 
-“ müssen bei handschriftlichen Verordnungen nicht verwendet werden,
+Rezept, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung vorliegt. Letztgenannte  Option kann sowohl mit Worten ausformuliert werden („BMP liegt vor“, „siehe Medikationsplan“, „gemäß  schriftlicher Anweisung“ o.ä.) als auch mit dem Kürzel „Dj“ geschehen. Die von der Software verpflichtend  zu setzenden Zeichen „ “ müssen bei handschriftlichen Verordnungen nicht verwendet werden,
 
-Rezept, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung vorliegt. Letztgenannte  Option kann sowohl mit Worten ausformuliert werden („BMP liegt vor“, „siehe Medikationsplan“, „gemäß  schriftlicher Anweisung“ o.ä.) als auch mit dem Kürzel „Dj“ geschehen. Die von der Software verpflichtend  zu setzenden Zeichen „ allerdings können sie zur sichtbareren Abtrennung analog zur softwaregestützten Umsetzung aufgetragen  werden.
+allerdings können sie zur sichtbareren Abtrennung analog zur softwaregestützten Umsetzung aufgetragen  werden.
 
 ## In welchen Fällen können ApothekerInnen eigenständig fehlende Dosierungsangaben ergänzen?
 

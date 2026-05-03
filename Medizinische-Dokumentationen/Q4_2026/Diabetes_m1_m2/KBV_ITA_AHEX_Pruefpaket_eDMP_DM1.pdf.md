@@ -45,11 +45,11 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 9
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 9
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 9
 
@@ -57,7 +57,7 @@ Datumseingaben 1.6.2
 
 9
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 10
 
@@ -69,7 +69,7 @@ Versichertendaten 1.6.4
 
 10
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 11
 
@@ -85,11 +85,11 @@ Prüfnummer 1.6.7
 
 12
 
-Prüffall 5512 2.1.1
+2.1.1 Prüffall 5512
 
 12
 
-Prüffall 5517 2.1.2
+2.1.2 Prüffall 5517
 
 15
 
@@ -101,7 +101,7 @@ Prüffall 5517 2.1.2
 
 23
 
-Prüffall 5514 2.2.1
+2.2.1 Prüffall 5514
 
 23
 
@@ -111,7 +111,7 @@ Prüffall 5514 2.2.1
 
 2.3 Weitere Prüffälle zum Anforderungskatalog 29
 
-Prüffall 5530 2.3.1
+2.3.1 Prüffall 5530
 
 29
 
@@ -155,22 +155,22 @@ DOKUMENTENHISTORIE
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.24 | 31.03.2026 | KBV | Anpassung der Prüffälle an   Anpassung Prüffall 5540 | Schnittstellenversion 5.0  Änderung der | 9, 12ff    31 |
-| 1.23 | 23.02.2024 | KBV | Überarbeitung des Testfalls  Änderungen der Nummerierung der  Prüffällen 5514 und 5515 |  | 29   23 |
+| 1.23 | 23.02.2024 | KBV | Überarbeitung des Testfalls  Änderungen der Nummerierung der Aktionen in den Prüffällen 5514 und 5515 |  | 29   23 |
 | 1.22 | 12.02.2024 | KBV | Anpassung der  Überarbeitung des Testfalls | COPD-Schnittstellenversion | 12ff  29 |
-| 1.21 | 30.06.2023 | KBV | Anpassung der Prüffälle an  Überarbeitung des Testfalls | 7 Prüffallszenarien für die | 12ff    29 |
+| 1.21 | 30.06.2023 | KBV | Anpassung der Prüffälle an  Überarbeitung des Testfalls | Schnittstellenversion 5.0 Prüffallszenarien für die | 12ff    29 |
 | 1.20 | 22.11.2022 | KBV | Korrektur des Datums der Erstellung der |  | 23, 26, 28 |
-| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der        Neuer Prüffall 5540 zur | Datumsanpassungen wegen  6  Anpassung an Änderungen | 12ff        31 |
+| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der        Neuer Prüffall 5540 zur | Datumsanpassungen wegen  Schnittstellenversion 5.0  Anpassung an Änderungen | 12ff        31 |
 |  |  |  |  |  |  |
 |  |  | 31.03.2026 | KBV | Anpassung der Prüffälle an |  |
 | Schnittstellenversion 5.0 | Änderung der |  | 9, 12ff |  |  |
 |  | 31 |  |  |  | 1.23 |
-| Überarbeitung des Testfalls | Änderungen der | Nummerierung der |  | Prüffällen 5514 und | 5515 |
+| Überarbeitung des Testfalls | Änderungen der | Nummerierung der | Aktionen in den | Prüffällen 5514 und | 5515 |
 |  |  |  | 23 |  |  |
 | 12.02.2024 | Anpassung der |  | Überarbeitung des Testfalls | COPD-Schnittstellenversion | 12ff |
-|  |  |  | 1.21 | 30.06.2023 | KBV Anpassung der Prüffälle an  Überarbeitung des Testfalls 7 Prüffallszenarien für die |
+|  |  |  | 1.21 | 30.06.2023 | KBV Anpassung der Prüffälle an  Überarbeitung des Testfalls Schnittstellenversion 5.0 Prüffallszenarien für die |
 |  |  |  |  | 29 |  |
 
-Schnittstellenversionen 5.08 5530 Aktionen in den übergreifenden Prüffälle an 4.06 5530 Schnittstellenversionen 5.0 5530 Dokumentationen im Prüffall 5514 und 5515. Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 2.10 und KP2-220 der übergreifenden Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog.
+Schnittstellenversionen 5.08 5530 übergreifenden Prüffälle an 4.06 5530 Schnittstellenversionen 5.0 7 5530 Dokumentationen im Prüffall 5514 und 5515. Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden 7 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 2.10 und KP2-220 der übergreifenden Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog.
 
 ---
 
@@ -230,9 +230,9 @@ Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vo
 
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-**HINWEIS**
-
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+**HINWEIS**
 
 
 ---
@@ -271,7 +271,7 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update 
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- DM1 Unterlagen bestehend aus XML-Dokumenten:
+- **DM1-Unterlagen bestehend aus XML-Dokumenten:**
 
 Je Schnittstellenversion und Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei  (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese
 
@@ -385,63 +385,59 @@ müssen in
 
 ## 1.6 PRÜFVORGABEN
 
-Verwendung des
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-### 1.6.1 Schnittstellenversionen -
+### 1.6.1 Schnittstellenversionen
 
--  Indikation Diabetes mellitus Typ 1:
+- Indikation **Diabetes mellitus Typ 1:**
 
-- Ab dem 01.10.2023 muss die Schnittstellenversion 5.07 verwendet werden.
+- Ab dem **01.10.2023** muss die Schnittstellenversion** 5.07** verwendet werden.
 
-Ab dem 01.10.2026 muss die Schnittstellenversion 5.08 verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **5.08** verwendet werden.
 
-- Indikation COPD :
+- Indikation **COPD:**
 
-- 4.06 verwendet werden.
+- Ab dem **01.04.2024** muss die Schnittstellenversion **4.06** verwendet werden.
 
-- Ab dem 01.04.2024 muss die Schnittstellenversion
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
 
-Ab dem 01.10.2026 muss die Schnittstellenversion 4.07 verwendet werden.
+- Indikation **KHK:**
 
-- Indikation KHK:
+- Ab dem **01.04.2023** muss die Schnittstellenversion **4.16** verwendet werden.
 
-- 4.16 verwendet werden.
-
-- Ab dem 01.04.2023 muss die Schnittstellenversion
-
-Ab dem 01.10.2026 muss die Schnittstellenversion 4.17 verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.17** verwendet werden.
 
 ### 1.6.2 Datumseingaben
 
-- ab dem alle in diesem Prüfpaket verwendeten Schnittstellen
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
--  Gültigkeitsdatum: Das „letzte Datum“,
-
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der 01.04.2024 01.10.2026 -
-
-- : Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des -  Erstdokumentationsdatum
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.202 4 01.10.2026**
 
 -
 
-- Monats, der sechs Monate vor dem aktuellen Monat liegt. Zum Beispiel: Aktuelle Monat ist April 2025 ==> Erstdokumentationsdatum ist der 15.10.2024 - Ausnahme
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
 
-- auch in der Zukunft) der 15. des jeweiligen Gültigkeitsmonats.
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.
 
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (
+- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
 
-- Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+- **Ausnahme**
 
--  Folgedokumentationsdatum:  sechs Monate nach dem Erstdokumentationsdatum
-
-- Einlesedatum: Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 
 -
+
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+
+- sechs Monate nach dem Erstdokumentationsdatum
+
+- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
 
 - „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
-- Bei Nachlieferungen bzw . Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei - Erstlieferung
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
 
 ### 1.6.3 Prüfstammdaten
 
@@ -471,7 +467,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | BEZEICHNUNG | INHALT |
 |---|---|
 | Betriebsstättennummer (BSNR) | 391234511 |
-| Lebens | 838382202 |
+| Lebenslange Arztnummer (LANR) | 838382202 |
 | Arztname | Dr. med. Hans Topp-Glücklich |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
@@ -487,14 +483,13 @@ Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Pr
 
 | BEZEICHNUNG | INHALT |
 |---|---|
-| Krankenhaus | 856215715 |
+| Krankenhaus-IK | 856215715 |
 | Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
 | Straße | Am Wehr |
 | Hausnummer | 20 |
 | Postleitzahl und Ort | 10437 Berlin |
 | Telefon | 06151 / 3333333 |
 
-lange Arztnummer (LANR) IK
 
 ---
 
@@ -514,19 +509,19 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL- | NAME | VERZEICHNISNAME |
+| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
 | 5.512 | Eva Kluge | XML_03 |
 | 5.517 | Karl-Friederich Graf Freiherr von | XML_01 |
 | 5540 | Lija Malta | XML_36 |
-| TDV 5518 | Brigitte Althaus | XML_05 |
+| TDV5518 | Brigitte Althaus | XML_05 |
 | Ersatzverfahren | | |
 | 6520 | Johannes Frônkenstein | Versichertendaten 1  - Ersatzverfahren |
 | 5515 | Martin Gruber | Versichertendaten 2  - Ersatzverfahren |
 
 Angaben in der SDDA fehlen), kann ein
 
-ID Schaumberg
+Schaumberg
 
 ---
 
@@ -543,7 +538,7 @@ ID Schaumberg
 | Prüffall-ID | 5512 |
 | Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
 | Voraussetzung |  |
-| Prüfunterlagen | DM1-Dokumentationsunterlagen |
+| Prüfunterlagen |  |
 | Hinweis |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -554,7 +549,7 @@ Die Versichertendaten von Eva Kluge (XML_03)
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
 | DMP-Fallnummer | 5512 | 5512 |
@@ -568,15 +563,15 @@ Die Versichertendaten von Eva Kluge (XML_03)
 | Körpergewicht | 050 kg | 050 kg |
 | Blutdruck (systolisch / diastolisch) | 100 / 50 mmHg | 100 / 50 mmHg |
 | Raucher | Nein | Nein |
-| Begleiterkrankungen | Keine der genannten | KHK |
+| Begleiterkrankungen | Erkrankungen | KHK |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
-|  | Quartalsweise | Quartalsweise |
+| Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
 einlesen und speichern.
 
-INDIKATIONSÜBERGREIFENDE Informationsangebote der Krankenkasse Dokumentationsintervall Erkrankungen
+DM1-Dokumentationsunterlagen  DATEN Informationsangebote der Krankenkasse Keine der genannten
 
 ---
 
@@ -591,17 +586,17 @@ INDIKATIONSÜBERGREIFENDE Informationsangebote der Krankenkasse Dokumentationsin
 | Weiteres Risiko für Ulcus Ulkus | nein | Z. n. Amputation |
 | Ulkus | nein | tief |
 | (Wund)Infektion | nein | ja |
-|  | Nicht untersucht | Unauffällig |
+| Injektionsstellen | Nicht untersucht | Unauffällig |
 | Intervall für künftige Fußinspektionen (bei | alle 3  drei Monate oder häufiger | alle 6  sechs Monate |
 | Spätfolgen |  | Diabetische Retinopathie |
 | Relevante Ereignisse | | |
 | Relevante Ereignisse | Keine der genannten | Keine der genannten |
-|  |  | 0 |
+| Schwere Hypoglykämien seit der letzten |  | 0 |
 | Stationäre notfallmäßige Behandlung wegen |  | 0 |
 | Medikamente | | |
 | Thrombozytenaggregationshemmer | orale Antikoagulation | Nein |
 
-PEZIFISCHE DATEN Injektionsstellen (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Schwere Hypoglykämien seit der letzten Dokumentation Diabetes mellitus seit der letzten Dokumentation
+PEZIFISCHE DATEN (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation
 
 ---
 
@@ -622,45 +617,49 @@ Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten 
 
 ---
 
-2.1.2 Prüffall 5517
+**2.1.2** **Prüffall 5517**
 
 |  |  |
 |---|---|
-| Prüffall | 5517 |
+| Prüffall-ID | 5517 |
 | Testziel | Anlage einer Erst- und einer Verlaufsdokumentation |
 | Voraussetzung |  |
-|  | DM1-Dokumentationsunterlagen |
-|  |  |
+| Prüfunterlagen | DM1-Dokumentationsunterlagen |
+| Hinweis |  |
 
-Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Die Versichertendaten von Karl-Friederich Graf Freiherr von Schaumberg (XML_01) einlesen und
+- 1. Versichertendaten:
 
-speichern.
+Die Versichertendaten von  speichern.
+
+-
+
+Karl-Friederich Graf Freiherr von Schaumberg (XML_01) einlesen und
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufs |
+| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
 | DMP-Fallnummer | 5517 | 5517 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Diabetes mellitus Typ 1 | Diabetes mellitus Typ 1 |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- | | |
+| Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Arterielle Hypertonie, | Arterielle Hypertonie, |
+| Begleiterkrankungen | Chronische | Chronische |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
-ID Prüfunterlagen Hinweis INDIKATIONSÜBERGREIFENDE und Befunddaten Informationsangebote der Krankenkasse Chronische Herzinsuffizienz Ernährungsberatung Chronische Herzinsuffizienz
+DATEN Informationsangebote der Krankenkasse Arterielle Hypertonie,  Herzinsuffizienz Ernährungsberatung Arterielle Hypertonie, Herzinsuffizienz
 
 ---
 
@@ -669,15 +668,15 @@ ID Prüfunterlagen Hinweis INDIKATIONSÜBERGREIFENDE und Befunddaten Information
 | Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation |
 | HbA1c-Wert | 210 mmol/mol | 21,0% |
 | Pathologische Albumin-Kreatinin-Ratio | Ja | Nicht untersucht |
-| eGFR | Nicht bestimmt |  |
+| eGFR | Nicht bestimmt | 55 ml/min/1,73m²KOF |
 | Pulsstatus | Auffällig | Nicht untersucht |
 | Sensibilitätsprüfung | Nicht untersucht | Nicht untersucht |
 | Weiteres Risiko für Ulcus Ulkus | Fußdeformität | Fußdeformität |
 | Ulkus | nein | oberflächlich |
 | (Wund)Infektion | nein | nicht untersucht |
-|  | Nicht untersucht | Unauffällig |
+| Injektionsstellen | Nicht untersucht | Unauffällig |
 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder häufiger | alle 3 drei Monate oder häufiger |
-| Spätfolgen | Diabetische |  |
+| Spätfolgen | Diabetische | Diabetische |
 | Relevante Ereignisse | | |
 | Relevante Ereignisse | Nierenersatztherapie, | Keine der genannten |
 | Schwere Hypoglykämien seit der letzten |  | 99 |
@@ -685,7 +684,7 @@ ID Prüfunterlagen Hinweis INDIKATIONSÜBERGREIFENDE und Befunddaten Information
 | Medikamente | | |
 | Thrombozytenaggregationshemmer | Ja | orale Antikoagulation |
 
-PEZIFISCHE DATEN Injektionsstellen (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation Nephropathie, Diabetische Neuropathie, Diabetische Retinopathie Erblindung, Amputation, Herzinfarkt 55 ml/min/1,73m²KOF Nephropathie, Diabetische Neuropathie, Diabetische Retinopathie
+PEZIFISCHE DATEN (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation Nephropathie, Diabetische Neuropathie, Diabetische Retinopathie Erblindung, Amputation, Herzinfarkt Nephropathie, Diabetische Neuropathie, Diabetische Retinopathie
 
 ---
 
@@ -706,32 +705,34 @@ Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten 
 
 ---
 
-2.1.3 Prüffall 6520
+**2.1.3** **Prüffall 6520**
 
 |  |  |
 |---|---|
-| Prüffall | 6520 |
+| Prüffall-ID | 6520 |
 | Testziel | › |
 | Voraussetzung | › |
 | Prüfunterlagen | › › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Die Versichertendaten von Johannes Frônkenstein (Versichertendaten 1) einlesen und speichern.
+- 1. Versichertendaten:
+
+Die Versichertendaten von
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
-| Administrative Daten | Erstdokumentation | Verlaufs |
+| Administrative Daten | Erstdokumentation | Verlaufsdokumentation |
 | DMP-Fallnummer | 6520 | 6520 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  | Ja |
 | Datum | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | COPD, KHK, Diabetes | COPD, KHK, Diabetes |
 | Geschlecht | Männlich | Männlich |
-| Allgemeine Anamnese- | | |
+| Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,75 m | 1,75 m |
 | Körpergewicht | 064 kg | 062 kg |
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
@@ -742,7 +743,9 @@ Die Versichertendaten von Johannes Frônkenstein (Versichertendaten 1) einlesen 
 |  |  |  |
 |  |  |  |
 
-ID Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung DM1-Dokumentationsunterlagen zusätzlich COPD- und/oder KHK-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikatoren KHK und/oder COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die DM1 Daten zu übermitteln. DATEN mellitus Typ 1 mellitus Typ 1 und Befunddaten Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM1- Dokumentation sind dies KHK und COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM1- Dokumentation sind dies KHK und COPD
+Johannes Frônkenstein (Versichertendaten 1) einlesen und speichern.
+
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschreibung DM1-Dokumentationsunterlagen zusätzlich COPD- und/oder KHK-Dokumentationsunterlagen Sofern das System eine Zulassung für die Indikatoren KHK und/oder COPD verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die DM1 Daten zu übermitteln.  DATEN mellitus Typ 1 Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM1- Dokumentation sind dies KHK und COPD mellitus Typ 1 Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM1- Dokumentation sind dies KHK und COPD
 
 ---
 
@@ -763,31 +766,31 @@ ID Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider Einschre
 |  |  |  |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Tabakverzicht |  |
-|  | Quartalsweise |  |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.mm.jjjj | 15.mm.jjjj |
 
 | INDIKATIONS | | | |
 |---|---|---|---|
 | Anamnese- und Befunddaten | Erstdokumentation | Verlaufsdokumentation | |
-| COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | - | - |
+| COPD | Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des Soll | 092,0 Prozent des Soll |
 | COPD | Klinische Einschätzung des | Nein | Nein |
 |  | | | |
 | DM1 | HbA1c-Wert | 15,2 % | 14,3 % |
 | DM1 | Pathologische Albumin-Kreatinin-Ratio | Nicht untersucht | Nicht untersucht |
-| DM1 | eGFR | Nicht bestimmt |  |
+| DM1 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM1 | Pulsstatus | Auffällig | Unauffällig |
 | DM1 | Sensibilitätsprüfung | Unauffällig | Nicht untersucht |
 | DM1 | Weiteres Risiko für Ulkus | nein | Hyperkeratose mit |
 | DM1 | Ulkus | nein | oberflächlich |
 | DM1 | (Wund)Infektion | nein | nicht untersucht |
-| DM1 |  | Unauffällig | Nicht untersucht |
+| DM1 | Injektionsstellen | Unauffällig | Nicht untersucht |
 | DM1 | Intervall für künftige Fußinspektionen | alle 6 sechs Monate | Jährlich |
 | DM1 | Spätfolgen | Diabetische | Diabetische |
 |  | | | |
 | KHK | Angina pectoris | CCS IV | CCS III |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
 
-Informationsangebote der Krankenkasse Dokumentationsintervall Anamnese- und Befunddaten COPD COPD PEZIFISCHE DATEN Aktueller FEV1-Wert (alle sechs bis zwölf Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulkus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Erstdokumentation 060,0 Prozent des Soll Wertes Nein 15,2 % Nicht untersucht Nicht bestimmt Auffällig Unauffällig nein nein nein Unauffällig alle 6 sechs Monate Diabetische Nephropathie Nicht bestimmt Jedes zweite Quartal Verlaufsdokumentation 092,0 Prozent des Soll Wertes Nein 14,3 % Nicht untersucht 180 ml/min/1,73m²KOF Unauffällig Nicht untersucht Hyperkeratose mit Einblutung oberflächlich nicht untersucht Nicht untersucht Jährlich Diabetische Nephropathie CCS III 20,2 mmol/l
+Informationsangebote der Krankenkasse Anamnese- und Befunddaten COPD COPD PEZIFISCHE DATEN Aktueller FEV1-Wert (alle sechs bis zwölf Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulkus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Erstdokumentation 060,0 Prozent des Soll Wertes Nein 15,2 % Nicht untersucht Nicht bestimmt Auffällig Unauffällig nein nein nein Unauffällig alle 6 sechs Monate Diabetische Nephropathie Nicht bestimmt Verlaufsdokumentation 092,0 Prozent des Soll Wertes Nein 14,3 % Nicht untersucht 180 ml/min/1,73m²KOF Unauffällig Nicht untersucht Hyperkeratose mit Einblutung oberflächlich nicht untersucht Nicht untersucht Jährlich Diabetische Nephropathie CCS III 20,2 mmol/l
 
 ---
 
@@ -797,7 +800,7 @@ Informationsangebote der Krankenkasse Dokumentationsintervall Anamnese- und Befu
 | COPD | Ungeplante, auch notfallmäßige |  | 2 |
 |  | | | |
 | DM1 | Relevante Ereignisse | Keine der | Herzinfarkt |
-| DM1 |  |  | 2 |
+| DM1 | Schwere Hypoglykämien seit der letzten |  | 2 |
 | DM1 | Stationäre notfallmäßige Behandlung |  | 2 |
 |  | | | |
 | KHK | Relevante Ereignisse | Nein | Herzinfarkt, |
@@ -810,9 +813,9 @@ Informationsangebote der Krankenkasse Dokumentationsintervall Anamnese- und Befu
 | COPD | Inhalationstechnik überprüft | Nein | Nein |
 | COPD | Sonstige diagnosespezifische Medikation | Nein | Inhalative |
 |  | | | |
-| DM1 |  | Nein | Kontraindikation, Nein |
+| DM1 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 |  | | | |
-| KHK |  | Nein | Kontraindikation, Nein |
+| KHK | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Betablocker | Ja | Kontraindikation |
 | KHK | ACE-Hemmer | Nein | Nein |
 | KHK | Aktuelle Statin-Dosis | Kein Statin | Kontraindikation gegen |
@@ -821,7 +824,7 @@ Informationsangebote der Krankenkasse Dokumentationsintervall Anamnese- und Befu
 | COPD | Ungeplante, auch notfallmäßige |  | 2 |
 |  |  |  | DM1 |
 | Keine der | | | |
-| DM1 |  |  | 2 |
+| DM1 | Schwere Hypoglykämien seit der letzten |  | 2 |
 | DM1 | Stationäre notfallmäßige Behandlung |  | 2 |
 |  |  |  | KHK |
 | Nein |  |  | KHK |
@@ -842,7 +845,7 @@ Informationsangebote der Krankenkasse Dokumentationsintervall Anamnese- und Befu
 |  | | | |
 |  |  |  |  |
 
-letzten Dokumentation (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Schwere Hypoglykämien seit der letzten Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation wegen KHK seit der letzten Dokumentation Monate und/oder Anticholinergika Thrombozytenaggregationshemmer Thrombozytenaggregationshemmer genannten instabile Angina pectoris Glukokortikosteroide
+letzten Dokumentation (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation wegen KHK seit der letzten Dokumentation Monate und/oder Anticholinergika genannten instabile Angina pectoris Glukokortikosteroide
 
 ---
 
@@ -956,7 +959,7 @@ das Diabetische Fußsyndrom qualifizierten Einrichtung
 
 ---
 
-2.2 PRÜFFALL SYSTEMREAKTION
+**2.2** **PRÜFFALL SYSTEMREAKTION**
 
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
@@ -967,12 +970,12 @@ das Diabetische Fußsyndrom qualifizierten Einrichtung
 | Datum | 15.mm.jjjj |  |
 | Einschreibung wegen | Diabetes mellitus Typ 1 |  |
 | Geschlecht | Je nach Auswahl des |  |
-| Allgemeine Anamnese- | | |
+| Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,79m |  |
 | Körpergewicht | 78kg |  |
 | Blutdruck | 47 / 29 mmHg | Nr. 1 |
 | Raucher | Ja |  |
-|  |  | Nr. 2 |
+| Begleiterkrankungen |  | Nr. 2 |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte |  |  |
 | 2.2.1 |  |  |
@@ -980,13 +983,13 @@ das Diabetische Fußsyndrom qualifizierten Einrichtung
 
 |  |  |
 |---|---|
-| Prüffall | 5514 |
-| Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| Prüffall-ID | 5514 |
+| Testziel | manche Fehleingaben nicht möglich sind. |
 | Voraussetzung | Patient oder Patientin ist mindestens 18 Jahre alt |
 | Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
+| Hinweis | sind. |
 
-ID manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Ant ragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation DATEN und Befunddaten Begleiterkrankungen Informationsangebote der Krankenkasse
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  bzw. Prüfung, dass Prüffall 5514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Informationsangebote der Krankenkasse
 
 ---
 
@@ -1006,7 +1009,7 @@ ID manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwar
 |  |  |  |
 |  |  |  |
 |  | | |
-| Durchgeführt |  | PEZIFISCHE DATEN |
+| Durchgeführt |  | INDIKATIONS |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 15.mm.jjjj |  |
 
@@ -1019,7 +1022,7 @@ ID manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwar
 |  |  |  |
 |  |  |  |
 
-INDIKATIONS Anamnese- und Befunddaten HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulkus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Relevante Ereignisse Relevante Ereignisse Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer ACE-Hemmer Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits wahrgenommen HbA1c-Zielwert Ophthalmologische Netzhautuntersuchung seit der letzten Erstdokumentation 215 mmol/mol Nein 210 ml/min/1,73m²KOF Auffällig Nicht untersucht Z. n. Ulkus oberflächlich ja Nicht untersucht alle 6 sechs Monate Diabetische Nephropathie Ereignisse Hypertonie-Schulung Zielwert erreicht Aktion Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Dokumentation| PEZIFISCHE DATEN | | |
+PEZIFISCHE DATEN Anamnese- und Befunddaten HbA1c-Wert Pathologische Albumin-Kreatinin-Ratio eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulkus Ulkus (Wund)Infektion Injektionsstellen (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Relevante Ereignisse Relevante Ereignisse Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer ACE-Hemmer Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits wahrgenommen HbA1c-Zielwert Ophthalmologische Netzhautuntersuchung seit der letzten Erstdokumentation 215 mmol/mol Nein 210 ml/min/1,73m²KOF Auffällig Nicht untersucht Z. n. Ulkus oberflächlich ja Nicht untersucht alle 6 sechs Monate Diabetische Nephropathie Ereignisse Hypertonie-Schulung Zielwert erreicht Aktion Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Dokumentation| INDIKATIONS | | |
 |---|---|---|
 | Anamnese- und Befunddaten | Erstdokumentation | Aktion |
 | HbA1c-Wert | 215 mmol/mol | Nr. 3 |
@@ -1030,7 +1033,7 @@ INDIKATIONS Anamnese- und Befunddaten HbA1c-Wert Pathologische Albumin-Kreatinin
 | Weiteres Risiko für Ulkus | Z. n. Ulkus |  |
 | Ulkus | oberflächlich |  |
 | (Wund)Infektion | ja |  |
-|  | Nicht untersucht |  |
+| Injektionsstellen | Nicht untersucht |  |
 | Intervall für künftige Fußinspektionen (bei Patientinnen und | alle 6 sechs Monate |  |
 | Spätfolgen | Diabetische Nephropathie |  |
 | Relevante Ereignisse | | |
@@ -1131,19 +1134,19 @@ Fußsyndrom qualifizierten Einrichtung
 
 ---
 
-2.2.2 Prüffall 5515
+**2.2.2** **Prüffall 5515**
 
 |  |  |
 |---|---|
-| - | 5515 |
+| Prüffall-ID | 5515 |
 | Testziel | › |
 | Voraussetzung | › |
-|  | › Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  › Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  › die Eingabefehler verhindert |
-|  | › |
+| Prüfunterlagen | › Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  › Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen.  › die Eingabefehler verhindert |
+| Hinweis | › |
 
-Aktionen, die durch den Ant
+**Aktionen, die durch den Antragsteller**
 
-- 1. VersichertendatenMartin Gruber (
+- 1. **Versichertendaten**: Martin Gruber (Versichertendaten 2) im Ersatzverfahren erfassen.
 
 -
 
@@ -1158,7 +1161,7 @@ Aktionen, die durch den Ant
 | Datum | 15.mm.jjjj |  |
 | Einschreibung wegen | Diabetes mellitus Typ 1 |  |
 | Geschlecht | Männlich |  |
-| Allgemeine Anamnese- | | |
+| Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 2,00 m |  |
 | Körpergewicht | 091 kg |  |
 | Blutdruck |  | Nr. 14 |
@@ -1169,22 +1172,22 @@ Aktionen, die durch den Ant
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 15.mm.jjjj |  |
 
-ragsteller durchgeführt werden:
-
-- Versichertendaten 2) im Ersatzverfahren erfassen.
+**durchgeführt werden:**
 
 -
 
-Prüffall ID Prüfunterlagen Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung Der Patient muss mindestens 11 Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresystem Jahre alt sein. und Befunddaten Krankenkasse DATEN
+Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung Der Patient muss mindestens 11 Jahre alt sein. Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresystem  DATEN Krankenkasse
 
 ---
 
-## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG 2.3.1 Prüffall 5530
+## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
+
+**2.3.1** **Prüffall 5530**
 
 |  |  |
 |---|---|
-| Prüffall | 5530 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges ) |
+| Prüffall-ID | 5530 |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
 | Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
@@ -1192,18 +1195,18 @@ Prüffall ID Prüfunterlagen Kontrolle einer Erstdokumentation mit fehlerhafter 
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| KP1- ).    1. a)  c)  drei Quartale Bitte legen Sie zusätzlich eine Dokumentation an, aus der hervorgeht, dass die letzte komplette Erfassen Sie für das aktuelle Quartal und denselben Patienten eine Verlaufsdokumentation mit de  zwei Quartale vor 8 Monaten |
+| Das System bietet dem Anwender bei dem eDMP Diabetes mellitus Typ 1 und Typ 2 zu spezifischen ).  Die Angaben der anderen Pflichtparameter können beliebig gesetzt werden.  1. a) b) c)  2. Bitte legen Sie zusätzlich eine Dokumentation an, aus der hervorgeht, dass die letzte komplette Erfassen Sie für das aktuelle Quartal und denselben Patienten eine Verlaufsdokumentation mit de  3. Bitte legen Sie zusätzlich eine Dokumentation an, aus der hervorgeht, dass die letzte komplette |
 
-ID (KBV_ITA_VGEX_Anforderungskatalog_eDMP einer möglichen Hinweissteuerung. Das System bietet dem Anwender bei dem eDMP Diabetes mellitus Typ 1 und Typ 2 zu spezifischen Parametern die Möglichkeit, sich die erläuternden Texte gemäß Anforderung 210  anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Die Angaben der anderen Pflichtparameter können beliebig gesetzt werden. Erfassen Sie für das aktuelle Quartal für einen beliebigen Patienten eine Verlaufsdokumentation, in der:  der Parameter „Fußstatus: Ulkus“ auf die Angabe „tief“ gesetzt ist, und zeigen Sie das Systemverhalten. b)  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Unauffällig“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Auffällig“ gesetzt ist, und zeigen Sie das Systemverhalten. 2. Bitte legen Sie für einen beliebigen Patienten für die letzten  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung vor 11 Monaten  durchgeführt wurde. folgenden Parameter: „Fußstatus: (Wund)Infektion“    = „Nicht untersucht“ und zeigen Sie das Systemverhalten. 3. Bitte legen Sie für einen beliebigen Patienten für die letzten  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung  durchgeführt wurde. folgenden Parameter: „Fußstatus: (Wund)Infektion“    = „Nicht untersucht“ und zeigen Sie das Systemverhalten.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges einer möglichen Hinweissteuerung. Parametern die Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP1-210  anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Erfassen Sie für das aktuelle Quartal für einen beliebigen Patienten eine Verlaufsdokumentation, in der:  der Parameter „Fußstatus: Ulkus“ auf die Angabe „tief“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Unauffällig“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Auffällig“ gesetzt ist, und zeigen Sie das Systemverhalten. Bitte legen Sie für einen beliebigen Patienten für die letzten drei Quartale  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung vor 11 Monaten  durchgeführt wurde. folgenden Parameter: „Fußstatus: (Wund)Infektion“    = „Nicht untersucht“ und zeigen Sie das Systemverhalten. Bitte legen Sie für einen beliebigen Patienten für die letzten zwei Quartale  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung vor 8 Monaten  durchgeführt wurde. folgenden Parameter: „Fußstatus: (Wund)Infektion“    = „Nicht untersucht“ und zeigen Sie das Systemverhalten.
 
 ---
 
-| Szenario 2  mellitus Typ 1 zu spezifischen Parametern KBV_ITA_VGEX_Anforderungskatalog_eDMP ).  Die Angaben der anderen Pflichtparameter können beliebig gesetzt werden.  sechs Quartale dass die Angabe  Erfassen Sie für das aktuelle Quartal und denselben Patienten eine Verlaufsdokumentation mit  2. |
+| Szenario 2 Das System bietet dem Anwender bei dem eDMP Diabetes KBV_ITA_VGEX_Anforderungskatalog_eDMP ).  Die Angaben der anderen Pflichtparameter können beliebig gesetzt werden.  1. Bitte legen Sie zusätzlich eine Dokumentation an, aus der hervorgeht,  Erfassen Sie für das aktuelle Quartal und denselben Patienten eine Verlaufsdokumentation mit  2. |
 |---|
 | Szenario 3 |
 | Das System bietet dem Anwender die Möglichkeit, sich die erläuternden Texte zu den Parametern „Intervall für künftige Fußinspektionen“ und „Fußstatus“ bei den Indikationen DM1 und DM2 gemäß ). |
 
-Das System bietet dem Anwender bei dem eDMP Diabetes KP1-220  anzeigen zu lassen (siehe die Möglichkeit, sich die erläuternden Texte gemäß Anforderung 1. Bitte legen Sie für einen beliebigen Patienten für die letzten Verlaufsdokumentationen an, in denen der Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ die Angabe „Nicht Durchgeführt“ hat. Bitte legen Sie zusätzlich eine Dokumentation an, aus der hervorgeht, „Durchgeführt“ bei dem Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten 20 Monaten  gemacht wurde. Dokumentation“ zuletzt in der Dokumentation vor dem Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ = „Nicht Durchgeführt“. Bitte legen Sie für einen beliebigen Patienten eine Verlaufsdokumentation an, in der das System keine Augenuntersuchung ermitteln konnte und zeigen Sie das Systemverhalten. „Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung“,  Anforderung KP2-210 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
+mellitus Typ 1 zu spezifischen Parametern die Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP1-220  anzeigen zu lassen (siehe Bitte legen Sie für einen beliebigen Patienten für die letzten sechs Quartale Verlaufsdokumentationen an, in denen der Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ die Angabe „Nicht Durchgeführt“ hat. dass die Angabe „Durchgeführt“ bei dem Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ zuletzt in der Dokumentation vor 20 Monaten  gemacht wurde. dem Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ = „Nicht Durchgeführt“. Bitte legen Sie für einen beliebigen Patienten eine Verlaufsdokumentation an, in der das System keine Augenuntersuchung ermitteln konnte und zeigen Sie das Systemverhalten. „Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung“,  Anforderung KP2-210 anzeigen zu lassen (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
 ---
 
@@ -1212,26 +1215,20 @@ Das System bietet dem Anwender bei dem eDMP Diabetes KP1-220  anzeigen zu lassen
 |  | |
 |---|---|
 | Prüffall-ID | 5540 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
-| Prüfunterlagen | PDF-Datei „TE_EWE_DM1.pdf“ |
+| Prüfunterlagen | Einwilligungserklärung |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
--
-
 - **1.** **Versichertendaten**
 
-**Lija Malta (XML_36)**
+Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-Die Versichertendaten von
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
 
-einlesen und speichern.
-
-- gemäß Kapitel 3 des
-
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -1240,7 +1237,7 @@ einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.10.2026 |
 
-(KBV_ITA_VGEX_Anforderungskatalog_eDMP  der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP PDF-Datei „TE_EWE_DM1.pdf“  der indikationsübergreifenden Teilnahme- und indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -1250,7 +1247,9 @@ Alle in Prüffälle beschriebenen Prüffälle, bei welchen eine XML-Dokumentatio
 
 Zusätzlich kann optional auch der Prüffall TDV5518 in der Testdatenvalidierung genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV  demzufolge ist der Ordner „Screenshots“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
+
+demzufolge ist der Ordner „Screenshots“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -1258,46 +1257,34 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten S
 
 des Archivs mit „**Test**_104“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Name
+Name                 Typ
 
-**Test**_104_SystemID.zip
+**Test**_104_SystemID.zip            ZIP-komprimierter Ordner
 
-Dokumentation
+Dokumentation            Dateiordner
 
-391234511_20250406101010_1_ DM1_507
+391234511_20250406101010_1_ DM1_507 .idx   IDX-Datei
 
-391234511_20250406101010_1_ DM1_507
+391234511_20250406101010_1_ DM1_507 .idx.XKM XKM-Datei
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV5518 .idx
-
-.idx.XKM
-
-Typ
-
-ZIP-komprimierter Ordner
-
-Dateiordner
-
-IDX-Datei
-
-XKM-Datei
-
-findet nicht statt,
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV5518
 
 
 ---
 
-3.1 PRÜFFALL TDV 5518
+**3.1** **PRÜFFALL TDV5518**
 
 |  |  |
 |---|---|
-| Prüffall | TDV5518 |
+| Prüffall-ID | TDV5518 |
 | Testziel | › |
 | Voraussetzung | › |
 | Prüfunterlagen | › |
 | Hinweis | › daher nicht im Zertifizierungsportal hochgeladen werden. |
 
-Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten:
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- 1. Versichertendaten:
 
 Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 
@@ -1312,7 +1299,7 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 | Datum | 06.04.202 |
 | Einschreibung wegen | Diabetes mellitus Typ 1 |
 | Geschlecht | Weiblich |
-| Allgemeine Anamnese- | |
+| Allgemeine Anamnese- und Befunddaten | |
 | Körpergröße | 1,60 m |
 | Körpergewicht | 0.60 kg |
 | Blutdruck | 120 / 80 mmHg |
@@ -1323,7 +1310,7 @@ Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern.
 | Dokumentationsintervall | Quartalsweise |
 | Datum der Erstellung | 06.04.202 |
 
-ID Anlage einer Erstdokumentation mit der Schnittstellenversion 5.0 7 DM1-Dokumentationsunterlagen Dieser Prüffall ist nur für die Testdatenvalidierung, die Prüfunterlagen müssen DATEN und Befunddaten Erkrankungen
+Anlage einer Erstdokumentation mit der Schnittstellenversion DM1-Dokumentationsunterlagen Dieser Prüffall ist nur für die Testdatenvalidierung, die Prüfunterlagen müssen 5.07  DATEN Erkrankungen
 
 ---
 

@@ -10,9 +10,9 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
-# FÜR DRITTE
+# PRÜFPAKET SCHNITTSTELLE FÜR DRITTE
 
-# PRÜFPAKET SCHNITTSTELLE  GEMÄß § 370A ABS. 2 SGB V
+# GEMÄß § 370A ABS. 2 SGB V
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_SST_370A_ABS2]
 
@@ -77,19 +77,13 @@ zu weiteren einzureichenden Nachweisen Einreichungswegs im Prüffall 2  Prüffä
 
 # 1 ALLGEMEINES
 
-der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB
+Im Folgenden wird die Prüfung der Schnittstelle gemäß § 370A, Abs. 2 Fünften Buches Sozialgesetzbuch (SGB
 
-Im Folgenden wird die Prüfung
+V) beschrieben. Der Zertifizierungsprozess wird nach der Version 1.0 des Anforderungskataloges dargestellt.
 
-Version 1.0 des Anforderungskataloges
+Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine
 
-V) beschrieben. Der Zertifizierungsprozess wird nach der
-
-dargestellt.
-
-Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Nutzer der Schnittstelle korrekt umgesetzt wurden.
-
-Überprüfung, ob die Anforderungen vom jeweiligen
+Überprüfung, ob die Anforderungen vom jeweiligen Nutzer der Schnittstelle korrekt umgesetzt wurden.
 
 
 ---
@@ -108,29 +102,7 @@ Alle einzureichenden Prüfunterlagen sind in einem ZIP-Archiv zu übermitteln. D
 
 - **SW-ID:** Die letzten drei Stellen Ihrer (KVDT-)Prüfnummer
 
-- Sollten Sie zu einem Prüffall mehrere Unterlagen einreichen, so sind diese fortlaufend
-
--  **Laufende Nummer:**  zu nummerieren
-
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss
-
-- wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt  füllt und unterschrieben als PDF-Dokument eingescannt
-
-- bereitgestellt. Dieser muss vollständig ausge über das Zertifizierungsportal bei der KBV eingereicht werden.
-
--
-
-- Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V eingescannt per Mail an
-
-- [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im  Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung  hochladen.
-
-- **2.** Eine Verzeichnis - bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderli chen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden
-
-- **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
-
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
-
-- **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
+- **Laufende Nummer:** Sollten Sie zu einem Prüffall mehrere Unterlagen einreichen, so sind diese fortlaufend - zu nummerieren
 
 Beispiele: PF01_000_01; PF01_000_02
 
@@ -142,6 +114,26 @@ fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss
+
+- wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt
+
+- bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt
+
+- über das Zertifizierungsportal bei der KBV eingereicht werden.
+
+- Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den
+
+- Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V eingescannt per Mail an
+
+- [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im  Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung  hochladen.
+
+- **2.** Eine Verzeichnis - bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderli chen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden
+
+- **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+
+- **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
+
 **Hinweis**: Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV
 
 oder des Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
@@ -152,11 +144,7 @@ Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](htt
 
 Die vorliegende Ergebnisprüfung besteht ausschließlich aus einer manuellen Prüfung durch Mitarbeitende  der KBV.
 
-Die Zugangsdaten können direkt über das Portal oder per E -Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der
-
--ID nur ein Account vergeben wird.
-
-System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System
+Die Zugangsdaten können direkt über das Portal oder per E -Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) unter Angabe der  System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte  beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 
 ---
@@ -165,11 +153,9 @@ Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den 
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln.
 
--Archive) zusammen.
-
 Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,
 
-und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP
+und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
 
 
 ---

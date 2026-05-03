@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -38,7 +38,7 @@
 
 Internet: www.elea.health
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 System mit APK
 
@@ -161,7 +161,7 @@ iOS/Android Linux Mac OS Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -652,7 +652,7 @@ LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler St
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@ Windows
 
 **CompuGroup Medical Dentalsysteme** **GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -823,7 +823,7 @@ Internet: www.rescuepro.de
 
 Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -1554,7 +1554,7 @@ Internet: www.medys.de
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -1680,11 +1680,9 @@ Windows
 
 **medibit**
 
-**Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach
+**Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Internet: www.examion.com
-
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 25. April 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|

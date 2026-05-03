@@ -47,7 +47,7 @@ Die neue indikationsübergreifende TE/EWE wird ab der Umsetzung eines neuen DMP,
 
 wäre es in Einzelfällen möglich, sowohl das neue Formular bereits vor dem Stichtag, als auch alte Formulare  nach dem Stichtag für einen bestimmten Übergangszeitraum zu nutzen. Über die regionale Umsetzung wird  von der zuständigen KV informiert.
 
-Die indikationsspezifischen TE/EWE der übrigen bereits bestehenden DMP werden zukünftig ebenfalls  durch die neue indikationsübergreifende TE/EWE abgelöst. Es ist vorgesehen, dass dies auch zum  01.04.2021 erfolgt.
+Die indikationsspezifischen TE/EWE der übrigen bereits bestehenden DMP werden zukünftig ebenfalls  durch die neue indikationsübergreifende TE/EWE abgelöst. Es ist vorgesehen, dass dies auch zum  **01.04.2021** erfolgt.
 
 Für die neuen DMP-Indikationen, die ebenfalls auf der indikationsübergreifenden TE/EWE angekreuzt  werden können, ist eine Einschreibung jedoch erst dann möglich und gültig, sobald ein Vertrag in der  entsprechenden Region für die jeweilige Indikation in Kraft tritt und somit auch die für die Einschreibung  notwendigen Dokumentationen erstellt werden können. Bei Angabe einer Teilnahme an einem DMP, für  welches in der Region noch kein Vertrag besteht, kann die Patientin bzw. der Patient nicht eingeschrieben
 

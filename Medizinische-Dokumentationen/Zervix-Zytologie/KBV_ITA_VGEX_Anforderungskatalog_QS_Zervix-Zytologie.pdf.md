@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.03 |
+|  | 09.08.2012 |
 
-tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2 Version  Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft
+tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2 Version  1.03 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -86,13 +86,11 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben Optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein.
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
-**Pflichtfunktionen**
+**Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
 
-können implementiert werden, wenn alle genannten Bedingungen zu
-
-**Optionale Funktionen** dieser Funktion erfüllt sind.
+dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
 

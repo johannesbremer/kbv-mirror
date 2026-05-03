@@ -1,17 +1,17 @@
 |  |
 |---|
 
-# ANTRAG AUF ZERTIFIZIERUNG  KODIERUNTERSTÜTZUNG
-
-## [KBV_ITA_FMEX_AAZ_KODIERUNTERSTUETZUNG]
+|  |
+|---|
 
 |  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 1.3  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-/ 15. Mai 2024
+# ANTRAG AUF ZERTIFIZIERUNG  KODIERUNTERSTÜTZUNG
 
-|  |
-|---|
+## [KBV_ITA_FMEX_AAZ_KODIERUNTERSTUETZUNG]
+
+/ 15. Mai 2024
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
@@ -98,7 +98,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | des Einsatzbereiches des |
+| ☐ | Alle Pflichtfunktionen/ Konditionale Pflichtfunktion in Abhängigkeit |
 
 ## 2.2
 
@@ -123,7 +123,7 @@ Folgende optionale Funktionen sind gem. Anforderungskatalog
 
 Kodierunterstützung realisiert.
 
-[ ] [ ] [ ] [ ] [ ] Alle Pflichtfunktionen/ Konditionale Pflichtfunktion in Abhängigkeit [ ] Anforderungskataloges Kodierunterstützung sind realisiert. [ ] [ ] [ ] LT. ANFORDERUNGSKATALOG
+[ ] [ ] [ ] [ ] [ ] [ ] Anforderungskataloges Kodierunterstützung sind realisiert. des Einsatzbereiches des [ ] [ ] [ ] LT. ANFORDERUNGSKATALOG
 
 ---
 

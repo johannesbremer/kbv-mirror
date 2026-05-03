@@ -40,13 +40,9 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
-**3**
+**INHALTSVERZEICHNIS_____________________________________________________ 3**
 
-**INHALTSVERZEICHNIS_____________________________________________________**
-
-**4**
-
-**ABBILDUNGSVERZEICHNIS ________________________________________________**
+**ABBILDUNGSVERZEICHNIS ________________________________________________ 4**
 
 **TABELLENVERZEICHNIS ___________________________________________________ 5**
 
@@ -74,9 +70,7 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 2.2.3 Mobiles Einsatzszenario ...................................................................................................... 14
 
-**........................ 15**
-
-**2.3** **Bedruckung des Personalienfeldes und des verkürzten Personalienfeldes**
+**2.3** **Bedruckung des Personalienfeldes und des verkürzten Personalienfeldes ........................ 15**
 
 2.3.1 Schriftart .............................................................................................................................. 15
 
@@ -103,9 +97,7 @@ VSDM lage zur Bedruckung des Personalienfeldes ren Personengruppe 06 VSD-Schema 
 
 ---
 
-............................. 6
-
-Abbildung 1: Transformation und Zielformat in Abhängigkeit des Stichtags
+Abbildung 1: Transformation und Zielformat in Abhängigkeit des Stichtags ............................. 6
 
 Abbildung 2: eGK-konforme Bedruckung des Personalienfelds ............................................. 15
 
@@ -167,25 +159,23 @@ Tabelle 11: Prüfungsnachweis zum VSD ..........................................
 
 # 1 Einführung
 
-Verwendung der Versichertenstammdaten, die in der
+Das vorliegende Dokument beschreibt die Verwendung der Versichertenstammdaten, die in der
 
-Das vorliegende Dokument beschreibt die Anlage 4a zum BMV-Ä vereinbart sind, in technischer Hinsicht.
+Anlage 4a zum BMV-Ä vereinbart sind, in technischer Hinsicht.
 
-das Referenz-
+Während die vertragsärztlichen Abrechnungsunterlagen gemäß § 291 SGB V in das Referenz-
 
-Während die vertragsärztlichen Abrechnungsunterlagen gemäß § 291 SGB V in  Design gemäß der aktuellen VSD -Version 5.2.0 überführt werden, müssen für einen Über- gangszeitraum, in dem noch ältere Kartentypen im Umlauf sind, diese in das neue Referenz- ationen geltenden Vor-
-
-Design des KVDT transformiert werden. Die für die jeweiligen Transform
+Design gemäß der aktuellen VSD -Version 5.2.0 überführt werden, müssen für einen Über- gangszeitraum, in dem noch ältere Kartentypen im Umlauf sind, diese in das neue Referenz- Design des KVDT transformiert werden. Die für die jeweiligen Transformationen geltenden Vor-
 
 schriften werden im Folgenden als Tabellen dargestellt.
 
-*Mappings* entwickelt
+Für die Zukunft ist damit zu rechnen, das s für VSD und die eGK weiter *Mappings* entwickelt
 
-Für die Zukunft ist damit zu rechnen, das s für VSD und die eGK weiter  werden. Eine Fortschreibung dieser Technischen Anlage um weitere Transformationsvorschrif- ten und/oder Anpassung des Referenz-Designs für die vertragsärztliche Abrechnung ist somit  zu erwarten.
+werden. Eine Fortschreibung dieser Technischen Anlage um weitere Transformationsvorschrif- ten und/oder Anpassung des Referenz-Designs für die vertragsärztliche Abrechnung ist somit  zu erwarten.
 
-den Partnern der Bun-
+Die Abstimmung der Inhalte dieser Technischen Anlage erfolgt zwischen den Partnern der Bun-
 
-Die Abstimmung der Inhalte dieser Technischen Anlage erfolgt zwischen  desmantelverträge.
+desmantelverträge.
 
 Regelungsbereich  Anlage 4a (alt)
 
@@ -198,23 +188,23 @@ Regelungsbereich  Anlage 4a (neu),  ab zu vereinba- rendem Stichtag
 
 ## 1.1 Abgrenzung
 
-fachlichen Inhalte zur
+Die in diesem Dokument definierten Vorschriften beziehen sich auf die fachlichen Inhalte zur
 
-Die in diesem Dokument definierten Vorschriften beziehen sich auf die Verarbeitung der Versichertenstammdaten zum Zwecke der vertragsärztlichen Abrechnung.  sind in der Dokumentation der gematik nach-
+Verarbeitung der Versichertenstammdaten zum Zwecke der vertragsärztlichen Abrechnung.  Weitere Anforderungen der Verarbeitung der eGKsind in der Dokumentation der gematik nach-
 
-Weitere Anforderungen der Verarbeitung der eGK zulesen.
+zulesen.
 
-ationsvorschriften gelten verbindlich für die Er-
+Die im weiteren Verlauf dargestellten Transformationsvorschriften gelten verbindlich für die Er-
 
-Die im weiteren Verlauf dargestellten Transform stellung der vertragsärztlichen Abrechnungsunterlagen. Sie beinhalten jedoch keine Restriktio-
+stellung der vertragsärztlichen Abrechnungsunterlagen. Sie beinhalten jedoch keine Restriktio-
 
 nen oder Vorschriften hinsichtlich der Art und Form der Datenhaltung in einem Praxisverwal- tungssystem.
 
 ## 1.2 Gematik-Referenz
 
--Produktivbetriebs (OPB) der gematik.
+Hier getroffenen Festlegungen beziehen sich auf die Dokumentenlandkarte, Kapitel 4.1, Fach- daten VSD des jeweils aktuellen Releases des Online-Produktivbetriebs (OPB) der gematik.
 
-Hier getroffenen Festlegungen beziehen sich auf die Dokumentenlandkarte, Kapitel 4.1, Fach- daten VSD des jeweils aktuellen Releases des Online Nähre Informationen unter [https://fachportal.gematik.de/](https://fachportal.gematik.de/).
+Nähre Informationen unter [https://fachportal.gematik.de/](https://fachportal.gematik.de/).
 
 ## 1.3 Zeichensatz
 
@@ -286,7 +276,7 @@ gung code mer laendercode gung
 ---
 
 | VSD520 |  | KVDT | | | | | | | | | |
-| Feld | K | L | T | Ausprä- | Transformation | FK | Name | K | L | T | Ausprä- |
+| Feld | K | L | T | gung | Transformation | FK | Name | K | L | T | Ausprä- |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ///Straße | 0..1 | 0..46 | a |  | → | 3107 | Straße | 0..1 | ≤ 46 | a |  |
 | ///Hausnummer | 0..1 | 0..9 | a |  | → | 3109 | Hausnummer | 0..1 | ≤ 9 | a |  |
@@ -297,7 +287,7 @@ gung code mer laendercode gung
 | UC_GeschuetzteVersichertendatenXML |  |  |  |  |  |  |  | | | | |
 | CDMVersion | „5.2.0“ | n/a |  |  |  |  |  |  | | | |
 | /BesonderePerso- | 0..1 | 2 | n | 4,6,7,8,9 | Codierung nach Tabelle 2 | 4131 | BesonderePerso- | 1..1 | 2 | a | 00, 04, 06, |
-| /DMP_Kennzeich- | 0..1 | 1..2 | n | 1,2,3,4,5,6,7, | Codierung nach Tabelle 3 | 4132 | DMP_Kennzeich- | 1..1 | 2 | a | 00, 01, 02, |
+| nung | 0..1 | 1..2 | n | 1,2,3,4,5,6,7, | Codierung nach Tabelle 3 | 4132 | DMP_Kennzeich- | 1..1 | 2 | a | 00, 01, 02, |
 | /RuhenderLeis- | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | //Beginn | 1..1 | 8 | n | YYYYMMDD | n/a |  |  |  |  |  |  |
 | //Ende | 0..1 | 8 | n | YYYYMMDD | n/a |  |  |  |  |  |  |
@@ -321,7 +311,7 @@ gung code mer laendercode gung
 | ////Kostenerstattung | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | /////AerztlicheVer- | 1..1 | 1 | n | 0,1 | n/a |  |  |  |  |  |  |
 
-code nengruppe nung tungsanspruch rechnung_GKV sorgung gung 8,9,10,11,12, 30,31,32,33, 34,35,36,37, 38,39,40,41, 42,43,44,45, 46,47,48,49, 50,51,52,53, 54,55,56,57, 58  20,38,46,51, 52,71,72,73, 78,83,88,93, 98 code nengruppe nung gung 07, 08, 09 03, 04, 05, 06, 07, 08, 09, 10, 11, 12,30 33 34 37 38 42 45 49 50 35 36 39 43 44 47 48 51 53 54 57 58 55 56 17,20,38,46, 47,48,49,50, 51,52,55,60, 61,62,71,72, 73,78,83,88, 93, 98
+code nengruppe /DMP_Kennzeich- tungsanspruch rechnung_GKV sorgung 8,9,10,11,12, 30,31,32,33, 34,35,36,37, 38,39,40,41, 42,43,44,45, 46,47,48,49, 50,51,52,53, 54,55,56,57, 58  20,38,46,51, 52,71,72,73, 78,83,88,93, 98 code nengruppe 07, 08, 09 03, 04, 05, 06, 07, 08, 09, 10, 11, 12,30 33 34 37 38 42 45 49 50 35 36 39 43 44 47 48 51 53 54 57 58 55 56 17,20,38,46, 47,48,49,50, 51,52,55,60, 61,62,71,72, 73,78,83,88, 93, 98
 
 ---
 
@@ -451,13 +441,13 @@ code code gung ,X,A,C,K,L,E, N,D,F,S,P tains(Straßenname ‚Postfach‘ left(L�
 
 |  |  |
 |---|---|
-| [kein Wert vorhanden] M - Diabetes mellitus Typ 2 ( ∪ K - Koronare Herzkrankheit ( E - Diabetes mellitus Typ 1 ( D - Asthma bronchiale ( ∪ X - Diabetes mellitus Typ 2 ( ∪ L - Koronare Herzkrankheit ( N - Diabetes mellitus Typ 1 ( F - Asthma bronchiale ( ∪ | 00 0.1 0.2 0.3 0.4 0.5 0.6 0.1 0.2 0.3 0.4 0.5 0.6 |
+| [kein Wert vorhanden] M - Diabetes mellitus Typ 2 ( A - Brustkrebs ( K - Koronare Herzkrankheit ( E - Diabetes mellitus Typ 1 ( D - Asthma bronchiale ( S - COPD ( X - Diabetes mellitus Typ 2 ( C - Brustkrebs ( L - Koronare Herzkrankheit ( N - Diabetes mellitus Typ 1 ( F - Asthma bronchiale ( P - COPD ( | 00 0.1 0.2 0.3 0.4 0.5 0.6 0.1 0.2 0.3 0.4 0.5 0.6 |
 
 **Tabelle 5: Transformation DMP-Kennzeichen**
 
 | KVK-Codierung | VSD520 |
 |---|---|
-| [kein Wert vorhanden] 1  6 - SER 7 - SVA  8 - SVA 9 | 00 [keine Übernahme]  00 0.4 0.6 0.7 0.8 [keine Übernahme]  00 |
+| [kein Wert vorhanden] 1 4 - Sozialhilfeempfänger, § 264 SGB V 6 - SER 7 - SVA  8 - SVA 9 | 00 [keine Übernahme]  00 0.4 0.6 0.7 0.8 [keine Übernahme]  00 |
 
 **Tabelle 6: Transformation Besondere Personengruppe**
 
@@ -471,7 +461,7 @@ Diese Datenobjekte sind gemäß BMV
 
 Abrechnungsdatensatz zu übernehmen. Folgende Tabellen zeigen das jeweilige Mapping in  Abhängigkeit der Ausbaustufe des einzusetzenden mobilen Kartenterminals.
 
-| Mobiles Kartenterminal (Ausbaustufe 1) |  |  | | | | | | | | | |
+| Mobiles Kartenterminal (Ausbaustufe 1) |  | KVDT | | | | | | | | | |
 | Feld | K | L | T | Ausprä- | Transformation | FK | Name | K | L | T | Ausprä- |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | EF.StatusVD (im Zwischenspeicher mobKT) |  |  |  |  |  |  |  | | | | |
@@ -486,7 +476,7 @@ Abrechnungsdatensatz zu übernehmen. Folgende Tabellen zeigen das jeweilige Mapp
 
 rotokolldaten (EF.Sta-
 
-A - Brustkrebs (  RK 1) S - COPD (  RK 1) C - Brustkrebs (  RK 9) P - COPD (  RK 9)  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9)  West 4 - Sozialhilfeempfänger, § 264 SGB V  Ost Codierung gemäß KVDT gung KVDT VSD520 gung
+RK 1)  RK 1)  RK 9)  RK 9)  RK 1)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9)  West  Ost Codierung gemäß KVDT gung VSD520 gung
 
 ---
 
@@ -541,9 +531,7 @@ VSD520 gung gung 5080601  D 12345 Musterhausen     12/20 Versicherten-Nr. Status
 
 ---
 
-Zeile 3: Titel, Vorname, Namenszusatz,
-
-2 Zeichen), Geburtsdatum
+Zeile 3: Titel, Vorname, Namenszusatz, Vorsatzwort (Verlängerung des nutzbaren Bereichs um 2 Zeichen), Geburtsdatum
 
 Zeile 4: Straßenname, Hausnummer
 
@@ -558,8 +546,14 @@ Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum
 |  |  |  |  |
 |---|---|---|---|
 
+Schriftart:
+
+Courier (New), NLQ
+
 |  | Name,  Vorname des Versicherten | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
+
+Zeichendichte: 10 Zeichen/Zoll
 
 **Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds**
 
@@ -575,37 +569,25 @@ Spalte 3: Versicherten_ID
 
 #### 2.3.4.1 Ausgangsformat für Druckvorschrift
 
-Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu dru- ckenden Datenobjekte
+Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu dru- ckenden Datenobjekte unabhängig von dem eingelesenen Kartentyp bzw. VSD-Version bereits
 
-im Zielformat mit VSD Druckvorschriften daher zunächst ein Mapping, wie in den vora vorzunehmen.
+im Zielformat mit VSD520-Referenz vorliegen. Ggf. ist vor Anwendung der hier dargestellten
 
-unabhängig von dem eingelesenen Kartentyp bzw -Referenz vorliegen. Ggf. ist vor Anwendung der hier dargestellten 520
+Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert
+
+vorzunehmen.
 
 **2.3.4.2 Druckpositionen im Personalienfeld**
 
 | Druckzeile | Feld | Position | Druckvorschrift |
 |---|---|---|---|
-| 1 | KostentraegerName | 1-24 | 4 |
+| 1 | KostentraegerName | 1-24 | ab 24 kürzen |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
 | 3 | Titel Vorname Namenszusatz Vorsatzwort (durch Leerzeichen getrennt) | 1-21 | ab 21 kürzen |
 |  | Geburtsdatum | 23-30 | Format TT.MM.JJ |
 
-Vorsatzwort (
-
-4 Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gel- ten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbe- reich und der Kostenträgerstammdatei
-
-Verlängerung des nutzbaren Bereichs um
-
-ngegangenen Kapiteln erläutert
-
-Schriftart:
-
-Courier (New), NLQ
-
-Zeichendichte: 10 Zeichen/Zoll
-
-123456789012345678901234 123456789              123456789012 Mustermann-Müller, Johan 101234567 A123456789 ab 24 kürzen . VSD-Version bereits
+123456789012345678901234 123456789              123456789012 Mustermann-Müller, Johan 101234567 A1234567894 Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gel- ten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbe- reich und der Kostenträgerstammdatei
 
 
 ---

@@ -9,25 +9,23 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.01 |
+|  | 21.01.2015 |
 |  |  |
 
-Version  Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft
+Version  Datum: Kennzeichnung:  Öffentlich  Status:    In Kraft
 
 ---
 
-IT in der Arztpraxis
+**IT in der Arztpraxis**
 
 ### DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.01 | 21.01.2015 | KBV | Redaktionelle Korrekturen | Überarbeitung der |  |
-| 1.00 | 10.11.2014 | KBV | Initiales Dokument |  |  |
+| 1.01 | 21.01.2015 KBV |  | Redaktionelle Korrekturen | Überarbeitung der |  |
+| 1.00 | 10.11.2014 KBV |  | Initiales Dokument |  |  |
 
-* Version:
-
-***1.01***
+1.01
 
 Ausfüllhinweise
 
@@ -44,8 +42,6 @@ Ausfüllhinweise
 **2** **EINGABEDATEN _______________________________________________________ 5**
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 7**
-
-1.01
 
 
 ---

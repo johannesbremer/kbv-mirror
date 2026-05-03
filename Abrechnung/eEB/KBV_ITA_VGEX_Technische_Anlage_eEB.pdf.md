@@ -52,29 +52,25 @@ Die Version 1.01 tritt spätestens zum 01.07.2025 in Kraft.
 
 # 1 EINLEITUNG
 
--Patienten-Kontakt im Quartal keine elektronische Gesundheitskarte
+Der Gesetzgeber hat im Zuge der Anpassung des § 291 Absatz 9 SGB V festgelegt, dass eine versicherte  Person, die bei dem ersten Arzt-Patienten-Kontakt im Quartal keine elektronische Gesundheitskarte
 
-Der Gesetzgeber hat im Zuge der Anpassung des § 291 Absatz 9 SGB V festgelegt, dass eine versicherte  Person, die bei dem ersten Arzt vorlegen kann, ersatzweise einen Nachweis der Berechtigung zum Leistungsanspruch über eine von ihrer
-
-Krankenkasse angebotene Benutzeroberfläche elektronisch anfordern kann.
+vorlegen kann, ersatzweise einen Nachweis der Berechtigung zum Leistungsanspruch über eine von ihrer  Krankenkasse angebotene Benutzeroberfläche elektronisch anfordern kann.
 
 Die Vertragspartner des Bundesmantelvertrag-Ärzte (BMV-Ä) haben entsprechende Regelungen getroffen,
 
 welche das Verfahren zur Übermittlung der Ersatzbescheinigung in elektronischer Form ermöglichen  kurz
 
-allgemeinen Vorgaben hierzu sind in den Anlagen 4a und 4b
+elektronischen Ersatzbescheinigung (eEB). Die allgemeinen Vorgaben hierzu sind in den Anlagen 4a und 4b
 
-elektronischen Ersatzbescheinigung (eEB). Die  BMV-Ä [Anlage 4a und Anlage 4b] enthalten.
+BMV-Ä [Anlage 4a und Anlage 4b] enthalten.
 
-Grundsätzlich sieht das Verfahren vor, dass Versicherte über die App ihrer Krankenkasse eine Übermittlung  der Versichertendaten (nach § 291a Abs. 2 und 3 SGB V) an eine ausgewählte Praxis veranlassen können.
-
-Die Krankenkassen übermitteln die Daten nach Anforderung als (FHIR-)Datensatz unmittelbar über die
+Grundsätzlich sieht das Verfahren vor, dass Versicherte über die App ihrer Krankenkasse eine Übermittlung  der Versichertendaten (nach § 291a Abs. 2 und 3 SGB V) an eine ausgewählte Praxis veranlassen können.  Die Krankenkassen übermitteln die Daten nach Anforderung als (FHIR-)Datensatz unmittelbar über die
 
 sichere Kommunikation im Medizinwesen (KIM) an die ausgewählte Arztpraxis.
 
-In diesem Dokument werden die für Softwarehersteller relevanten Daten und Prozesse zum Empfang der  -Profile des
+In diesem Dokument werden die für Softwarehersteller relevanten Daten und Prozesse zum Empfang der  eEB definiert. Grundlage bilden hierbei die Vorgaben und referenzierten FHIR-Profile des
 
-eEB definiert. Grundlage bilden hierbei die Vorgaben und referenzierten FHIR [eEB_Implementierungsleitfadens
+[eEB_Implementierungsleitfadens
 
 
 ---
@@ -244,7 +240,7 @@ festgelegt werden.
 
 Dieses Kapitel beschreibt die Vorgaben, die von den Krankenkassen umgesetzt werden müssen.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
 |---|---|
 | P4-01 | Bereitstellung von Funktionen der Versicherten |
 
@@ -270,7 +266,7 @@ Gemäß der § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Ver
 
 - >“Interoperabilitätsvorgaben“ KIM-Nachrichtenstruktur KIM Bescheinigung“ übermittelt wird.
 
-PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG -Apps
+-Apps
 
 
 ---

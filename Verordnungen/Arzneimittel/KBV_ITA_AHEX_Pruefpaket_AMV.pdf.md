@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 12. OKTOBER 2023  VERSION: 1.12  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRÜFPAKET
-
-# ARZNEIMITTELVERORDNUNG
+# PRÜFPAKET  ARZNEIMITTELVERORDNUNG
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_AMV]
 
@@ -220,23 +218,17 @@ Für den Prüfvorgang AMV-eRezept beachten Sie bei einer Neuz Zertifizierung bit
 
 Für eine reibungslose Durchführung der AMV-Sichtprüfung müssen einige Rahmenbedingungen erfüllt sein.
 
-vorgenommen sein bzw.
+Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand vorgenommen sein bzw.
 
-Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand  ermöglicht werden:
+ermöglicht werden:
 
--  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  vorhanden sein (z.B. ist bei einer Sichtprüfung am 18.06.2018
-
-- von 14 Tagen zum Sichtprüfungstermin -
+-  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18.06.2018
 
 - der Arzneimitteldatenstand vom 01.06.2018 vorzuhalten).
 
--  In der Prüfung wird ein Update der Arzneimitteldaten auf den aktuellen Datenstand vom 1. oder 15.  durchgeführt (z.B. ist bei einer Sichtprüfung am 06.2018 der - des aktuellen Monats
+-  In der Prüfung wird ein Update der Arzneimitteldaten auf den aktuellen Datenstand vom 1. oder 15.  des aktuellen Monats durchgeführt (z.B. ist bei einer Sichtprüfung am 18. 06.2018 der
 
-- 18.
-
-- Arzneimitteldatenstand vom 15.06.2018 einzupflegen). Das Update soll so durchgeführt werden, wie
-
-- es die Anwender Ihrer Verordnungssoftware vorzunehmen haben.
+- Arzneimitteldatenstand vom 15.06.2018 einzupflegen). Das Update soll so durchgeführt werden, wie  es die Anwender Ihrer Verordnungssoftware vorzunehmen haben.
 
 -  Es müssen die Stammdaten der Praxen und die Patientendaten aus Kapitel 2.1 eingepflegt sein.
 
@@ -244,29 +236,25 @@ Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand  e
 
 Organisatorisch und technisch müssen die folgenden Rahmenbedingungen beachtet werden:
 
--  Medikationspläne müssen mit einem Barcodescanner eingelesen werden. Ein entsprechender  vorzuhalten.
+-  Medikationspläne müssen mit einem Barcodescanner eingelesen werden. Ein entsprechender  Barcodescanner ist für die Sichtprüfung vorzuhalten.
 
-- Barcodescanner ist für die Sichtprüfung
+-  Die Sichtprüfung findet remote per Zoom Konferenz statt. Die Nutzung des Konferenzsystems Zoom
 
-- erenz statt. Die Nutzung des Konferenzsystems Zoom
+- ist per Browser möglich. Empfohlene Browser sind Google Chrome in der neuesten Version und die  Zoom App für Chrome.
 
--  Die Sichtprüfung findet remote per Zoom Konf ist per Browser möglich. Empfohlene Browser sind Google Chrome in der neuesten Version und die  Zoom App für Chrome.
-
-- reite von
-
--  Es wird eine stabile und schnelle Internetverbindung benötigt mit einer empfohlenen Bandb
+-  Es wird eine stabile und schnelle Internetverbindung benötigt mit einer empfohlenen Bandbreite von
 
 - mindestens 1.5 Mbps/1.5 Mbps (Download/Upload).
 
--  Für die Kommunikation werden ein Lautsprecher und Mikrofon (integriert oder Headset) und  Die Präsentation des zu zertifizierenden
+-  Für die Kommunikation werden ein Lautsprecher und Mikrofon (integriert oder Headset) und  optional eine (HD) Webcam (integriert oder extern) benötigt. Die Präsentation des zu zertifizierenden
 
-- optional eine (HD) Webcam (integriert oder extern) benötigt. Systems erfolgt über die Funktion der Bildschirmfreigabe in Zoom.
+- Systems erfolgt über die Funktion der Bildschirmfreigabe in Zoom.
 
 ## 2.1 ANZULEGENDE PRAXEN UND PATIENTEN
 
 Bereiten Sie Ihr System mit folgenden Praxisdaten vor:
 
-|  | |
+| PRAXISANGABEN PRAXIS 1 | |
 |---|---|
 | Betriebsstättennummer (BSNR) | 781234567 |
 | Lebenslange Arztnummer (LANR) | 123456667 |
@@ -279,7 +267,6 @@ Bereiten Sie Ihr System mit folgenden Praxisdaten vor:
 
 Tabelle 1: Praxisangaben Praxis 1
 
-PRAXISANGABEN PRAXIS 1
 
 ---
 

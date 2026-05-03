@@ -27,26 +27,26 @@
 
 ---
 
-| Lfd. | Dokumentationsparameter | Ausprägung |  |
-| Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe | | | |
+| Nr. | Dokumentationsparameter | Ausprägung | Plausibilitäten |
+| „Osteoporose“ | | | |
 | Anamnese und Befunddaten | | | |
 |---|---|---|---|
 | 1 | Osteoporosebedingte Fraktur in den | Ja / Nein | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 20* im Eine Angabe im Rahmen einer Folgedokumentation ist |
-| 2 | Neu aufgetretene osteoporosebedingte | Ja / Nein | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 20* im |
-| 3 | Lokalisation der osteoporosebedingten | Proximale Femurfraktur / | Bedingtes Pflichtfeld Angabe ist erforderlich. .  die Anlage 20* im   Anlage 20*  Eine Angabe ist erforderlich, wenn die Anlage 20* im |
+| 2 | Neu aufgetretene osteoporosebedingte | Ja / Nein | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 20* im Eine Angabe im Rahmen einer Erstdokumentation ist |
+| 3 | Lokalisation der osteoporosebedingten | Proximale Femurfraktur / | Bedingtes Pflichtfeld Mindestens eine Mehrfachangaben sind möglich  Eine Angabe ist erforderlich, wenn  Eine Angabe ist nicht zulässig, wenn die  Eine Angabe ist erforderlich, wenn die Anlage 20* im |
 
-Nr. nachstehenden Felder der Anlage 20* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen letzten 12 Monaten Fraktur seit der letzten Dokumentation Singuläre Wirbelkörperfraktur / Multiple Wirbelkörperfrakturen / Beckenfraktur / Humerusfraktur / Radiusfraktur / Andere Plausibilitäten „Osteoporose“ Genau eine Angabe ist zulässig. Rahmen einer Erstdokumentation auszufüllen ist. nicht zulässig. Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht zulässig. Mindestens eine Mehrfachangaben sind möglich Rahmen einer Erstdokumentation auszufüllen ist in Feld 1 die Angabe „Ja“ erfolgt ist. Eine Angabe ist nicht zulässig, wenn die im Rahmen einer Erstdokumentation UND in Feld 1 die Angabe „Nein“ erfolgt ist erfolgt, sind die  UND ausgefüllt, ist
+Lfd. Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe nachstehenden Felder der Anlage 20* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen letzten 12 Monaten Fraktur seit der letzten Dokumentation Singuläre Wirbelkörperfraktur / Multiple Wirbelkörperfrakturen / Beckenfraktur / Humerusfraktur / Radiusfraktur / Andere Genau eine Angabe ist zulässig. Rahmen einer Erstdokumentation auszufüllen ist. nicht zulässig. Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Angabe ist erforderlich. Rahmen einer Erstdokumentation auszufüllen ist in Feld 1 die Angabe „Ja“ erfolgt ist. UND in Feld 1 die Angabe „Nein“ erfolgt ist erfolgt, sind die  UND ausgefüllt, ist
 
 ---
 
-|  |  |  | Rahmen einer Folgedokumentation auszufüllen ist   Anlage 20*  „ |
+|  |  |  | Rahmen einer Folgedokumentation auszufüllen ist  Eine Angabe ist nicht zulässig, wenn die  Die Angaben |
 |---|---|---|---|
-| 4 | Stürze in den letzten 6 | Anzahl | Die Angabe muss gleich oder größer „0“  Eine Angabe ist erforderlich, wenn die Anlage 20* im  Folgedokumentation ist |
-| 5 | Stürze seit der letzten Dokumentation | Anzahl | Bedingtes Pflichtfeld Die Angabe muss gleich oder größer „0“ und kleiner  Eine Angabe ist erforderlich, wenn die Anlage 20* im  Erstdokumentation ist |
+| 4 | Stürze in den letzten 6 | Anzahl | Bedingtes Pflichtfeld Die Angabe muss gleich oder größer „0“  Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer |
+| 5 | Stürze seit der letzten Dokumentation | Anzahl | Bedingtes Pflichtfeld Die Angabe muss gleich oder größer „0“ und kleiner  Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer |
 | Sonstige Befunde und nichtmedikamentöse Behandlung |  | | |
-| 6 | Teilnehmerinnen und Teilnehmer ab erhöhtes Sturzrisiko | Ja / Nein | Eine Angabe ist erforderlich, wenn die Differenz aus |
+| 6 | Teilnehmerinnen und Teilnehmer ab erhöhtes Sturzrisiko | Ja / Nein | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Differenz aus |
 
-Monaten 70 Jahre: UND in Feld 2 die Angabe „Ja“ erfolgt ist Eine Angabe ist nicht zulässig, wenn die im Rahmen einer Folgedokumentation ausgefüllt, ist UND in Feld 2 die Angabe „Nein“ erfolgt ist Die Angaben Proximale Femurfraktur Singuläre Wirbelkörperfraktur Multiple Wirbelkörperfrakturen Beckenfraktur Humerusfraktur Radiusfraktur Andere “ können jeweils alleine oder gemeinsam erfolgen. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer nicht zulässig. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer nicht zulässig. Genau eine Angabe ist zulässig. der Datumsangabe in Feld 22 der
+Monaten 70 Jahre: UND in Feld 2 die Angabe „Ja“ erfolgt ist im Rahmen einer Folgedokumentation ausgefüllt, ist UND in Feld 2 die Angabe „Nein“ erfolgt ist Proximale Femurfraktur Singuläre Wirbelkörperfraktur Multiple Wirbelkörperfrakturen Beckenfraktur Humerusfraktur Radiusfraktur Andere “ können jeweils alleine oder gemeinsam erfolgen. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Genau eine Angabe ist zulässig. der Datumsangabe in Feld 22 der
 
 ---
 
@@ -60,20 +60,20 @@ Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2 ein Lebensalter vo
 
 |  |  |  | Feld 6 die Angabe „Nein“ ODER - UND - |
 |---|---|---|---|
-| 8 | Regelmäßiges körperliches Training | Ja / Nein / Nicht möglich | Pflichtfeld    Erfolgt die Angabe „Ja“ ist keine weitere Angabe |
+| 8 | Regelmäßiges körperliches Training | Ja / Nein / Nicht möglich | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Erfolgt die Angabe „Ja“ ist keine weitere Angabe  Die Angaben „Nein“ und „Nicht möglich“ können |
 | Medikamentöse Behandlung |  | | |
-| 9 | Aktuelle osteoporosespezifische | Bisphosphonate / Denosumab / Raloxifen / | Pflichtfeld |
+| 9 | Aktuelle osteoporosespezifische | Bisphosphonate / Denosumab / Raloxifen / | Pflichtfeld Genau eine Angabe ist zulässig. |
 | 10 | Dauer der osteoporosespezifischen | Vor dem abgeschlossenen 3. Jahr abgebrochen | Pflichtfeld |
 | Schulungen |  | | |
-| 11 | Schulung bereits vor | Ja / Nein | Eine Angabe ist erforderlich, wenn die Anlage 20* im |
+| 11 | Schulung bereits vor | Ja / Nein | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 20* im |
 
-Medikation Medikation das DMP wahrgenommen Einschreibung in Teriparatid / Keine Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. zulässig. Die Angaben „Nein“ und „Nicht möglich“ können einzeln oder gemeinsam erfolgen. Genau eine Angabe ist zulässig. Genau eine Angabe ist zulässig. Bedingtes Pflichtfeld Genau eine Angabe ist zulässig. erfolgt ist. Rahmen einer Rahmen einer
+Medikation Medikation das DMP wahrgenommen Einschreibung in Teriparatid / Keine Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist einzeln oder gemeinsam erfolgen. erfolgt ist. Rahmen einer Rahmen einer
 
 ---
 
 |  |  |  | Rahmen einer Erstdokumentation auszufüllen ist.  Eine Angabe im Rahmen einer |
 |---|---|---|---|
 | 12 | Schulung empfohlen (bei aktueller | Ja / Nein | Pflichtfeld |
-| 13 | Empfohlene Schulung wahrgenommen | Ja / Nein / War aktuell nicht möglich / Bei l | Eine Angabe ist erforderlich, wenn die Anlage 20* im  Erstdokumentation ist |
+| 13 | Empfohlene Schulung wahrgenommen | Ja / Nein / War aktuell nicht möglich / Bei l | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die Anlage 20* im  Eine Angabe im Rahmen einer |
 
-Dokumentation) Dokumentation keine Schulung empfohlen Folgedokumentation ist nicht zulässig. Genau eine Angabe ist zulässig. Bedingtes Pflichtfeld etzter Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig.
+Dokumentation) Dokumentation keine Schulung empfohlen Folgedokumentation ist nicht zulässig. Genau eine Angabe ist zulässig. etzter Genau eine Angabe ist zulässig. Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.

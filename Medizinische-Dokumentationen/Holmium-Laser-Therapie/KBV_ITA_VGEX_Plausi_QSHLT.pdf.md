@@ -3,15 +3,15 @@
 |  | Plausibilitätenkatalog Holmium |
 |  | [KBV_ITA_VGEX_Plausi_QSHLT ] |
 |  |  |
-|  | Digitalisierung und IT |
+|  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.01 |
+|  | Version |
 
-Laser-Therapie Dezernat -Lewin-Platz 2 Version  Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
+Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
@@ -28,25 +28,25 @@ gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21,  22, 23, 24, 25, 26, 27, 28, 
 
 ---
 
-INHALTSVERZEICHNIS
+#### INHALTSVERZEICHNIS
 
-***DOKUMENTENHISTORIE ___________________________________________________ 2***
+**DOKUMENTENHISTORIE ___________________________________________________ 2**
 
-***INHALTSVERZEICHNIS_____________________________________________________ 3***
+**INHALTSVERZEICHNIS_____________________________________________________ 3**
 
-***1*** ***PRÄAMBEL ___________________________________________________________ 4***
+**1** **PRÄAMBEL ___________________________________________________________ 4**
 
-***1.1*** ***Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4***
+**1.1** **Qualitätssicherungsvereinbarung Holmium-Laser-Therapie ....................................................4**
 
-***1.2*** ***Hinweise zum Verständnis dieses Dokuments ...........................................................................4***
+**1.2** **Hinweise zum Verständnis dieses Dokuments ...........................................................................4**
 
 1.2.1 Beschreibung der Spalte „Art“ ..............................................................................................4
 
 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“ .............................................................4
 
-***2*** ***BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5***
+**2** **BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5**
 
-***3*** ***REFERENZIERTE DOKUMENTE __________________________________________ 9***
+**3** **REFERENZIERTE DOKUMENTE __________________________________________ 9**
 
 Holmium
 
@@ -298,7 +298,7 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 |  |  |  |  | |
 |  | | | | |
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläut |
-| 33 | Anzahl Entlassungen mit Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |  |
+|  | Spontanmiktion Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |  |
 |  |  |  |  | |
 |  |  |  |  | |
 |  | | | | |
@@ -313,9 +313,9 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-**7** von **9**
 |  |  |  |  | |
 |  | | | | |
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläut |
-| 33 | Anzahl Entlassungen mit | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |
+|  | Spontanmiktion | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |
 
-Spontanmiktion erung) **8** von **9**
+Anzahl Entlassungen mit erung) **8** von **9**
 
 
 ---
@@ -324,6 +324,6 @@ Spontanmiktion erung) **8** von **9**
 
 | Referenz | Dokument |
 |---|---|
-| [1] | Holmium-Laser- |
+| [1] | Qualitätssicherungsvereinbarung |
 
-Qualitätssicherungsvereinbarung Therapie
+Holmium-Laser- Therapie

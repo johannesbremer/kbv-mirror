@@ -23,8 +23,6 @@ Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wi
 
 ## 1.1 ANTRAGSSTELLER
 
-hnet.
-
 Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeic
 
 |  |  | | |
@@ -42,6 +40,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
+
+hnet.
 
 [ ] [ ] [ ]
 
@@ -84,7 +84,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation g_KVDT] zur Kenntnis. |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT |
 
 [ ]
 
@@ -94,7 +94,7 @@ Bitte geben Sie im Folgenden an, welche Client
 
 -Betriebssysteme unterstützt werden.
 
-[ ] [ ] [ ] - 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT [KBV_ITA_VGEX_Anforderungskatalo
+[ ] [ ] [ ] - 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. [KBV_ITA_VGEX_Anforderungskatalo g_KVDT] zur Kenntnis.
 
 ---
 
@@ -196,4 +196,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de -
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

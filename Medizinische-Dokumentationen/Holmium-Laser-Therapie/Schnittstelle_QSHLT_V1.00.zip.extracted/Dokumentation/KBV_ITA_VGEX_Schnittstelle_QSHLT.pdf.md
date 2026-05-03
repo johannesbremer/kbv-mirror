@@ -3,15 +3,15 @@
 |  | Schnittstellenbeschreibung QS |
 |  | [KBV_ITA_VGEX_Schnittstelle_QS |
 |  |  |
-|  | Digitalisierung und IT |
+|  | Dezernat |
 |  |  |
 |  | 10623 Berlin, Herbert |
 |  |  |
 |  |  |
-|  |  |
-|  | Version |
+|  | Kassenärztliche Bundesvereinigung |
+|  | 0.1.04.2014 |
 
-Holmium -Laser-Therapie HLT] Dezernat -Lewin-Platz 2 Kassenärztliche Bundesvereinigung 1.00 Datum: 0.1.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft
+Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 Version  1.00 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -178,50 +178,28 @@ Abbildung 1 - Element ehd ................................ 12 Abbildung 2 - Elem
 
 #### TABELLENVERZEICHNIS
 
-**Tabelle 1 – Beschreibung der Kardinalitäten**
+**Tabelle 1 – Beschreibung der Kardinalitäten ................................................................ .... 10**
 
-**Tabelle 2 – Beschreibung der Strukturelement-Symbole**
+**Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
-**Tabelle 3 – Beschreibung sonstiger Symbole**
-
-**................................................................ .... 10**
-
-**................................................. 10**
-
-**................................................................... 11**
+**Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
 
 
 ---
 
 #### XML- CODE VERZEICHNIS
 
-**XML-Code 1 - ehd Beispiel .................................................................**
+**XML-Code 1 - ehd Beispiel ................................................................................................. 12**
 
-**XML-Code 2 - document_relationship ................................................................**
+**XML-Code 2 - document_relationship ................................................................ .............. 14**
 
-**XML-Code 3 - ehd-header**
+**XML-Code 3 - ehd-header ................................................................... ................................ 15**
 
-**XML-Code 4 - local_header (Software) ................................................................**
+**XML-Code 4 - local_header (Software) ................................................................ .............. 16**
 
-**XML-Code 5 - id (Software)**
+**XML-Code 5 - id (Software) ................................................................................................. 16**
 
-**XML-Code 6 - qshlt dokumentation................................**
-
-**...................................................................**
-
-**.................................................................**
-
-**................................ 12**
-
-**.............. 14**
-
-**................................ 15**
-
-**.............. 16**
-
-**................................ 16**
-
-**.................................................... 19**
+**XML-Code 6 - qshlt dokumentation................................ .................................................... 19**
 
 
 ---
@@ -318,63 +296,43 @@ zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema de
 
 ---
 
-Holmium -Laser -Therapie
+# 4. Beschreibung der ehd-Schnittstelle
 
-# 4. Beschreibung der ehd -Schnittstelle
+Die Schnittstelle „QS Holmium-Laser-Therapie“ basiert auf [KBV_ITA_VGEX_eHD]. Damit  entspricht die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body- Bereich werden eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
 
-Die Schnittstelle „QS Holmium -Laser -Therapie“ basiert auf [KBV_ITA_VGEX_eHD]
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
 
-entspricht die XML- Struktur vom header genau den Vorgaben der EHD
-
-Bereich werden eigene Elemente definiert, die im Kapitel 4.2
-
-beschrieben werden.
-
-Für die XML- Dateien ist der Zeichensatz ISO -8859- 15 vorgeschrieben. Bei allen Elementen,
-
-die in diesem Dokument beschrieben werden, ist es wichtig die Groß- achten.
-
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement ***ehd***
-
-den beiden Kindelementen ***header*** und ***body*** zusammensetzt, wie es in Abbildung 1 darge-
-
-stellt ist.
-
-Abbildung 1 - Element ehd
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen  stellt ist.
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859- 15"?>
+<?xml version="1.0" encoding="ISO -8859-15"?>
 
-<ehd xmlns =" urn:ehd/001" xmlns: qshlt =" urn:ehd/ qshlt /001 " ehd_version=" 1.40 ">
+<ehd xmlns="urn:ehd/001" xmlns:qshlt="urn:ehd/qshlt/001" ehd_version="1.40">
 
-<ehd: header ...
-
-</ehd: header
-
-<ehd: body>
+<ehd:header>
 
 ...
 
-</ ehd: body >
+</ehd:header>
 
-</ ehd >
+<ehd:body>
 
-XML-Code 1 - ehd Beispiel
+...
 
-Das Attribut ehd_version gibt die Ver sion der EHD -Spezifikation [KBV_ITA_VGEX_eHD]
+</ehd:body>
 
-auf der diese Schnittstelle aufbaut.
+</ehd>
 
-. Damit
+Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_eHD] an,  auf der diese Schnittstelle aufbaut.
 
--Richtlinie. Im Body
+*header* und *body* zusammensetzt, wie es in Abbildung 1 darge-
 
-/Kleinschreibung zu be-
+**Abbildung 1 - Element ehd**
 
-, welches sich aus
+**XML-Code 1 - ehd Beispiel**
 
-an,
+*ehd*, welches sich aus
 
 
 ---
@@ -391,11 +349,11 @@ mente eingeschränkt:
 
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 
-- steht die lebenslange Arztnummer (LANR) - o Im RT-Attribut
+- o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
 
 **Abbildung 2 - Element id**
 
-- -Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
+-  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
 
 - o im V-Attribut ist der Wert: „QSHLT“ fest vorgeschrieben.
 
@@ -409,11 +367,7 @@ mente eingeschränkt:
 
 - V-Attribut den Wert „RPLC“
 
-- *document_relationship/related_document/id*
-
-- o Das Element
-
-- enthält den Verweis
+- o Das Element *document_relationship/related_document/id* enthält den Verweis
 
 - auf das *id*-Element des Ursprungsdokuments.
 
@@ -427,17 +381,11 @@ mente eingeschränkt:
 
 **XML-Code 2 - document_relationship**
 
--  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und - Betriebsstätte (BSNR).
+-   Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
 
-- *provider/person*
+- o Die Vorgaben im *provider/person*-Element enthalten:
 
-- o Die Vorgaben im
-
-- -Element enthalten:
-
-Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“)
-
-Arztnummer,
+Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  Arztnummer, RT-Attribut enthält den String „1.2.276.0.76.4.16“)
 
 - o Die Vorgaben im *provider/organization*-Element enthalten:
 
@@ -451,9 +399,9 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 - Attribut enthält den Wert: „1.2.276.0.76.5.109“.
 
-- -Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“
+- o *interface.nm*-Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“
 
-- o *interface.nm* fest vorgeschrieben.
+- fest vorgeschrieben.
 
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
@@ -465,7 +413,7 @@ id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 XML-Beispiel
 
-| </ehd:person>   </ehd:organization>       <ehd:local_header>    EX="..." RT="KBV-Prüfnummer"/>     </ehd:header> |
+| </ehd:person>   </ehd:organization>       <ehd:local_header>       </ehd:header> |
 |---|
 
 **XML-Code 3 - ehd-header**
@@ -474,17 +422,15 @@ XML-Beispiel
 
 Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU
 
-**software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-**
+*software* *v1* dargestellt. Die Angabe *local_header/sciphox-ssu* ist optional. Das Element *sci-*
 
-**phox:Software**hat den Namespace
+*phox:Software* hat den Namespace urn::sciphox-org/sciphox und hat das Kindelement *sci-*
 
-urn::sciphox-org/sciphox und hat das Kindelement **sci-**
-
-**phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
+*phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -508,17 +454,15 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-*sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
 
-Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*
+als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT*
 
-a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
-EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
-
-<sciphox:id
+<sciphox:id EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
 
@@ -527,19 +471,17 @@ EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 ## 4.2 Element body
 
-Das **body**-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
+Das *body*-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
 **Abbildung 8 - Element body**
 
-Das body-Element hat den benutzerdefinierten Typ **qshlt_body_typ**. Das Kindelement in die-
+Das body-Element hat den benutzerdefinierten Typ *qshlt_body_typ*. Das Kindelement in die-
 
 sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
 
-## dokumentation
+## 4.3 Element qshlt_ dokumentation
 
-## 4.3 Element qshlt_
-
-Das Element **qshlt_dokumentation**enthält  die QS Holmium-Laser-Therapie Jahresstatistik.
+Das Element *qshlt_dokumentation* enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 
 **Abbildung 9 - Element qshlt_dokumentation Teil 1**
 
@@ -554,9 +496,9 @@ Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_ei
 
 ---
 
-| <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/>    </qshlt:qshlt_dokumentation>   XML-Code 6 - qshlt dokumentation  anzahl_ersteingriffe Die Anzahl (nonNegativeInteger ) der Ersteingriffe wird hier im V-Attribut angegeben. Der  anzahl_folgeeingriffe Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
+| </qshlt:qshlt_dokumentation>   XML-Code 6 - qshlt dokumentation  4.3.1 Die Anzahl (nonNegativeInteger ) der Ersteingriffe wird hier im V-Attribut angegeben. Der  4.3.2 Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
 |---|
-| <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/>     <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/>    </qshlt:qshlt_dokumentation> |
+| </qshlt:qshlt_dokumentation> |
 
 ### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
@@ -576,7 +518,7 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
 
-<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> 4.3.1 Wert muss zwischen 0 und 99999 liegen. 4.3.2 Wert muss zwischen 0 und 99999 liegen.
+<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen.
 
 ---
 

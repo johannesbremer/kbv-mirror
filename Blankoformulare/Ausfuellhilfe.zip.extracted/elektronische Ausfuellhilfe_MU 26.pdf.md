@@ -11,19 +11,17 @@
 
 **Erläuterungen zu den einzelnen Feldern**
 
-- **Diagnose (ICD-10-Code)**
+- **1. Diagnose (ICD-10-Code)**
 
-- **1.**
+Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver-
 
-r-
-
-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
+schlüsselt nach ICD-10-GM an.
 
 - **2. Schweregrad (laut GAF-Skala)**
 
 Die Fähigkeitsstörungen, die zusammen mit der Diagnose den Anspruch auf eine Soziotherapie begründen,
 
-werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF  -Wert höchs-
+werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF-Wert höchs-
 
 tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens ≤ 40 sein.
 
@@ -31,47 +29,35 @@ tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens �
 
 Sofern bekannt, geben Sie hier das Datum an, seit dem die die Soziotherapie begründende Erkrankung  besteht.
 
-- **Art und Ausprägung der Fähigkeitsstörungen**
-
-- **4.**
+- **4. Art und Ausprägung der Fähigkeitsstörungen**
 
 Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mit dem angegebenen GAF Wert korrespondieren.
 
 - **5. Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
-erhalb des schizophrenen Formenkrei-
+Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 außerhalb des schizophrenen Formenkrei-
 
-Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 auß ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können
+ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können
 
 sowohl psychiatrisch als auch somatisch sein.
 
-- **Angaben des Versicherten**
-
-- **6.**
+- **6. Angaben des Versicherten**
 
 Neben den Kontaktdaten ist hier die Wohnform anzugeben.
 
-- **Angaben des nächsten Angehörigen**
-
-- **7.**
+- **7. Angaben des nächsten Angehörigen**
 
 An dieser Stelle geben Sie bitte die Kontaktdaten eines nahen Angehörigen des Patienten an, damit im Be-
 
 darfsfall Rücksprache mit dieser Person gehalten werden kann.
 
-- **Angaben zum Betreuer**
-
-- **8.**
+- **8. Angaben zum Betreuer**
 
 Sofern ein gesetzlicher Betreuer bestellt worden ist, tragen Sie hier die Ihnen bekannten Angaben ein.
 
-- **Voraussichtliche Anzahl der Therapieeinheiten**
-
-- **9.**
+- **9. Voraussichtliche Anzahl der Therapieeinheiten**
 
 Sofern möglich, geben Sie hier die voraussichtliche Zahl der Therapieeinheiten an, die zur Erreichung des  Therapieziels erforderlich sind.
-
--
 
 - **10. Voraussichtliche Dauer der Therapie**
 

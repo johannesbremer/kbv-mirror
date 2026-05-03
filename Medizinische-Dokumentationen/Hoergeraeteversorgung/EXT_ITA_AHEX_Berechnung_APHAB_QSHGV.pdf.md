@@ -14,7 +14,7 @@
 |  | |
 | Invertierung | Die APHAB-Antwortwerte zu den Fragen 1, 9, 11, 16, 19 und 21 müssen vor |
 |  | |
-| Formeln zur Berechnung der Gesamtbewertung und Verbesserung | |
+| Formeln zur Berechnung der Gesamtbewertung und Verbesserung (ohne AV-Skala, das Hören von lauten Geräuschen wird durch Hörgeräte nicht angenehmer) | |
 | Gesamtbewertung | = (Gesamtbewertung ohne Hörgerät) MINUS (Gesamtbewertung mit      Hörgerät) = {[Summe (EC , BN , RV )] GETEILT 3} MINUS {[Summe (EC , BN , RV )]      GETEILT 3}   Es wird die Differenz der jeweiligen Durchschnittswerte für die drei Skalen gebildet. |
 |  | |
 | Verbesserung der | = Gesamtbewertung {[SUMME (EC , BN , RV )] GETEILT      [SUMME Gesamtbewertung ohne Hörgerät (EC , BN , RV )]} x 100   Die Gesamtbewertung des Nutzens wird ins Verhältnis zur Gesamtbewertung ohne |
@@ -43,4 +43,4 @@
 
 - hearing aids
 
-(ohne AV-Skala, das Hören von lauten Geräuschen wird durch Hörgeräte nicht angenehmer) Hörfähigkeit der Berechnung invertiert werden, weil die Fragen invers formuliert sind. Hörgerät gesetzt.  einer Hörgeräteverordnung nach  einer Hörgeräte-Versorgung- in press)
+Hörfähigkeit der Berechnung invertiert werden, weil die Fragen invers formuliert sind. Hörgerät gesetzt.  einer Hörgeräteverordnung nach  einer Hörgeräte-Versorgung- in press)

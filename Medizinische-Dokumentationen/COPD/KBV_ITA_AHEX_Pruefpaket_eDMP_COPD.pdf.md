@@ -45,11 +45,11 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 9
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 9
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 9
 
@@ -57,7 +57,7 @@ Datumseingaben 1.6.2
 
 9
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 10
 
@@ -69,7 +69,7 @@ Versichertendaten 1.6.4
 
 10
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 11
 
@@ -89,7 +89,7 @@ Prüfnummer 1.6.7
 
 11
 
-Prüffall 8512 2.1.2
+2.1.2 Prüffall 8512
 
 14
 
@@ -101,7 +101,7 @@ Prüffall 8512 2.1.2
 
 21
 
-Prüffall 8514 2.2.1
+2.2.1 Prüffall 8514
 
 21
 
@@ -111,7 +111,7 @@ Prüffall 8514 2.2.1
 
 2.3 Weitere Prüffälle zum Anforderungskatalog 25
 
-Prüffall 8530 2.3.1
+2.3.1 Prüffall 8530
 
 25
 
@@ -233,13 +233,13 @@ Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vo
 
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-**HINWEIS**
-
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
+
+**HINWEIS**
 
 
 ---
@@ -356,53 +356,45 @@ Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Das gleiche Datum sollte auch als Kopfdatum (Feld
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld
 
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. 9, „origination_dttm“) benutzt werden.
+9, „origination_dttm“) benutzt werden.
 
 ### 1.6.1 Schnittstellenversionen - Indikation **COPD:**
 
-**4.07** verwendet werden.
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.07** verwendet werden.
 
-Ab dem **01.10.2026** muss die Schnittstellenversion -
-
--  Indikation **Diabetes mellitus Typ 1:**
+- Indikation **Diabetes mellitus Typ 1:**
 
 Ab dem **01.10.2026** muss die Schnittstellenversion **5.08** verwendet werden.
 
 - Indikation **KHK:**
 
-**4.17** verwendet werden.
-
-Ab dem **01.10.2026** muss die Schnittstellenversion
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.17** verwendet werden.
 
 ### 1.6.2 Datumseingaben
 
-- **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
-
--  **Gültigkeitsdatum:** Das „letzte Datum“,
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
 - (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
 
 -
 
-- : Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
 
--  **Erstdokumentationsdatum** Monats, der sechs Monate vor dem aktuellen Monat liegt.
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.
 
-- ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
-
-- Zum Beispiel: **Aktuelle Monat**
+- Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
 
 - **Ausnahme**
 
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  **auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 
-- Erstdokumentationsdatum (
+-
 
-- Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats
 
--  **Folgedokumentationsdatum:**  sechs Monate nach dem Erstdokumentationsdatum -
+- sechs Monate nach dem Erstdokumentationsdatum
 
 - **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,
 
@@ -695,13 +687,9 @@ Ja Inhalative
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
--
-
 - 1. Versichertendaten:
 
-Monika Kleinjung (XML_08) einlesen und speichern.
-
-Die Versichertendaten von
+Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
@@ -892,9 +880,7 @@ Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  201,5 Prozent des Soll Ja
 
 - 1. Versichertendaten:
 
-Johannes Frônkenstein (Versichertendaten 1 einlesen und speichern.
-
-Die Versichertendaten von
+Die Versichertendaten von Johannes Frônkenstein (Versichertendaten 1 einlesen und speichern.
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
@@ -1390,15 +1376,11 @@ Ja
 
 ### 2.2.1 Prüffall 8514
 
-**durchgeführt werden:**
-
-**Aktionen, die durch den Antragsteller**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - 1. Versichertendaten:
 
 Die Personalien zu dem Testfall sind frei wählbar.
-
--
 
 - 2. Anlegen einer Erstdokumentation
 
@@ -1485,9 +1467,7 @@ Einschreibung wegen
 
 ---
 
-- 3. **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**
-
-- **abgeschlossen werden kann.**
+- 3. **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -1675,11 +1655,9 @@ Nr. 15
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
--
+- 1. Versichertendaten:
 
-- 1. Versichertendaten: Martin Gruber (s. Versichertendaten 2 – Ersatzverfahren) im Ersatzverfahren erfassen.
-
--
+- Martin Gruber (s. Versichertendaten 2 – Ersatzverfahren) im Ersatzverfahren erfassen.
 
 - 2. Anlegen einer Erstdokumentation
 
@@ -1816,21 +1794,15 @@ Verlaufsdokumentation angelegt.
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
--
-
 - **1.** **Versichertendaten**
 
-**Lija Malta (XML_36)**
+Die Versichertendaten von **Lija Malta (XML_36** einlesen und speichern.
 
-Die Versichertendaten von
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
 
-einlesen und speichern.
+- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
-- gemäß Kapitel 3 des
-
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
-
-**PrüffallID**
+**Prüffall-ID**
 
 **Testziel**
 

@@ -22,8 +22,6 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 1.5.11.2023 Kennzeichnu
 
 ---
 
-**2**
-
 | **IT in** | **der Arztpraxis** |  |  |
 |---|---|---|---|
 | FAQ für |  | Softwarehersteller | zur Labordatenkommunikation |
@@ -32,6 +30,8 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 1.5.11.2023 Kennzeichnu
 | **2** | **FAQS** |  |  |
 | **3** |  | **REFERENZIERTE** | **DOKUMENTE** |
 |  | [KBV_ITA_VGEX_FAQ_LDK | * | Version 1.04 |
+
+**2**
 
 **4**
 
@@ -42,23 +42,17 @@ REFERENZIERTE DOKUMENTE **12**
 
 ---
 
-# Allgemeines1
+# 1 Allgemeines
 
-Die vorliegenden FAQ s richten sich an Hersteller von Software, die die (LDK)
+Die vorliegenden FAQ s richten sich an Hersteller von Software, die die
 
-werden. Unter
-
-Labordatenkommunikation
-
-umsetzen oder umsetzen
+Labordatenkommunikation (LDK) umsetzen oder umsetzen werden. Unter
 
 Labordatenkommunikation wird der Einsatz der digitalen Muster 10 , 10A, LDT-Auftrag bzw.
 
 LDT Befund verstanden.
 
-Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommunikation
-
-und haben informativen Charakter.
+Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommunikation  und haben informativen Charakter.
 
 
 ---
@@ -136,10 +130,10 @@ und haben informativen Charakter.
 
 | Systemtyp | Typische Zertifizierungsbereiche |
 |---|---|
-| Praxisverwaltungssysteme (PVS) | • • – • |
-| Laborinformationssysteme (LIS) | – • • • – • – • |
-| Order-Entry-Systeme (OE-System) | – • – |
-| Scan-Systeme | • – – – |
+| Praxisverwaltungssysteme (PVS) | • • • • |
+| Laborinformationssysteme (LIS) | • • • • • • • • |
+| Order-Entry-Systeme (OE-System) | • • • |
+| Scan-Systeme | • • • • |
 
 **Fragestellung: Wann startet die LDK-Zertifizierung?**
 

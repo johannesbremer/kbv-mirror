@@ -220,11 +220,11 @@ Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA
 
 ---
 
-# ABBILDUNGSVERZEICHNIS 8
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster 9
+Abbildung 1: Exemplarische Verzeichnisstruktur bei Einreichung aller Muster 8
 
-Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L
+Abbildung 2: Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10 und 10L 9
 
 Abbildung 3: Testdatenvalidierung  Exemplarische Verzeichnisstruktur bei Einreichung der Muster 2, 4, 10
 
@@ -429,9 +429,9 @@ von mindestens 600 dpi über das Zertifizierungsportal eingereicht werden.
 
 ---
 
-- **15.11.2024 04.07.2024** gestellt, sofern bei den einzelnen Prüffällen kein
+- Das Systemdatum wird auf den **15.11.2024 04.07.2024** gestellt, sofern bei den einzelnen Prüffällen kein
 
--  Das Systemdatum wird auf den  anderes Datum angegeben wird.
+- anderes Datum angegeben wird.
 
 - Als KBV-Prüfnummer verwenden Sie für das Zertifizierungsverfahren bitte die Folgende: - **Y/9/2407/36/001**
 
@@ -447,15 +447,15 @@ bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 ### 1.6.2 Vorbereitungen
 
-Die musterspezifischen Prüffälle und die übergreifenden Prüffälle des Prüfpaketes müssen bearbeitet  2a
+Die musterspezifischen Prüffälle und die übergreifenden Prüffälle des Prüfpaketes müssen bearbeitet
 
-werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder  eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei  fehlerhafter Eingabe erwartet.
+werden. Die übergreifenden Prüffälle sollen möglichst auf den zertifizierten Mustern 10, 6 oder 2a
 
--Eintrag im ersten Schritt nicht vorzunehmen. Im
+eingereicht werden. Bei einigen Prüffällen werden Screenshots von Fehlermeldungen des Systems bei  fehlerhafter Eingabe erwartet.
 
-Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich,  bewusst eine Fehleingabe zu produzieren oder einen Muss Fehler korrigiert werden.
+Um einen Warnhinweis oder eine Fehlermeldung zu erzeugen, ist es bei manchen Prüffällen erforderlich,  bewusst eine Fehleingabe zu produzieren oder einen Muss-Eintrag im ersten Schritt nicht vorzunehmen. Im
 
-zweiten Schritt müssen die hervorgerufenen
+zweiten Schritt müssen die hervorgerufenen Fehler korrigiert werden.
 
 Jedes BFB-Formular wird einzeln geprüft. Zu diesem Zweck werden personen- und formular-spezifische
 
@@ -469,9 +469,7 @@ gemäß Vorgabe im Barcode enthalten sein.
 
 Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB]
 
--
-
--  EF.VD = allgemeine Versicherungsdaten
+- EF.VD = allgemeine Versicherungsdaten
 
 - EF.PD = persönliche Versichertendaten
 
@@ -479,11 +477,11 @@ Blankoformularbedruckung [KBV_ITA_VGEX_Technisches_Handbuch_BFB]
 
 ### 1.6.3 Versichertendaten
 
--Dateien zur Verfügung gestellt. Die Archivdatei
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
 
-(VSD_5.2.0_Testfaelle_Vn.n.zip) folgenden XML-Dateien mit Versichertenstammdaten
+folgenden XML-Dateien mit Versichertenstammdaten
 
 **HINWEIS**
 
@@ -1047,13 +1045,13 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 |---|---|
 | Folgegerät | ja |
 | Diagnose | H91.9 G |
-|  | beiderseits |
+| Hörhilfe notwendig | beiderseits |
 | Unfall/ Unfallfolgen | nein |
 | BVG | nein |
 
 Alle weiteren Formularfelder können beliebig
 
-Hörhilfe notwendig ausgefüllt werden.
+ausgefüllt werden.
 
 
 ---
@@ -1229,11 +1227,7 @@ Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 ---
 
-## ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE
-
-## MUSTER 50
-
-##
+## MUSTER 50  ANFRAGE ZUSTÄNDIGKEIT EINER ANDEREN KASSE
 
 Prüffall: 50
 
@@ -1241,9 +1235,7 @@ Personalien: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeich
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-## ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS
-
-## 2.27 MUSTER 51
+## 2.27 MUSTER 51  ANFRAGE ZUSTÄNDIGKEIT EINES SONSTIGEN KOSTENTRÄGERS
 
 Prüffall: 51
 
@@ -1267,9 +1259,9 @@ Personalien Malta (Siehe XML Verzeichnisname: XML_36)
 
 Alle Formularfelder können beliebig ausgefüllt werden.
 
-## BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. §
+## 2.30 MUSTER 55  BESCHEINIGUNG EINER SCHWERWIEGENDEN CHRONISCHEN ERKRANKUNG GEM. §
 
-## 2.30 MUSTER 55  62 SGB V
+## 62 SGB V
 
 Prüffall: 55
 
@@ -1277,11 +1269,11 @@ Personalien: Malta (Siehe XML Verzeichnisname: XML_36)
 
 | FELDER | INHALT |
 |---|---|
-|  | 04.01.23 |
-|  | J45.9 G, L20.8 G, J31.0 G |
+| Seit (mindestens 4 Quartale zurückliegend) | 04.01.23 |
+| behandlungsbedürftige Dauerdiagnose(n) | J45.9 G, L20.8 G, J31.0 G |
 | Kontinuierliche medizinische Versorgung der oben | 0625 |
 
-Seit (mindestens 4 Quartale zurückliegend) behandlungsbedürftige Dauerdiagnose(n) genannten Erkrankung ist weiterhin erforderlich bis voraussichtlich Alle weiteren Formularfelder können beliebig ausgefüllt werden.
+genannten Erkrankung ist weiterhin erforderlich bis voraussichtlich Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
 
 ---
@@ -1538,13 +1530,9 @@ Formularerstellung gefüllt ist. Im Zweifelsfalle sind die Inhalte des ersten Pe
 
 # 3 MUSTER PSYCHOTHERAPIEVEREINBARUNG (PTV)
 
-Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch  Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV] zu beachten. Die Musterbeispiele
-
-sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt  werden.
+Für die Muster zur Psychotherapievereinbarung sind die Regelungen im Handbuch  Blankoformularbedruckung (PTV) [KBV_ITA_VGEX_Hanbuch_BFB_PTV] sind ebenfalls in dem benannten Dokument aufgeführt. Die Muster können auch einzeln umgesetzt  werden.
 
 **HINWEIS**
-
-5] ebenfalls zu
 
 Über die hier aufgeführten Prüffälle hinaus sind die übergreifenden Prüffälle [Kapitel bearbeiten.
 
@@ -1556,15 +1544,11 @@ Die folgenden Muster zur PTV können zertifiziert werden: -  PTV 1
 
 -  PTV 12
 
-## ANTRAG AUF PSYCHOTHERAPIE
-
-## 3.1 MUSTER PTV 1
+## 3.1 MUSTER PTV 1  ANTRAG AUF PSYCHOTHERAPIE
 
 Prüffälle: PTV1a, PTV1b, PTV1c_1 und PTV1c_2
 
--Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
-
-Personalien: Schimmelpfennig
+Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
 | FELDER | INHALT |
 |---|---|
@@ -1583,7 +1567,9 @@ Prüffälle: PTV2a, PTV2b und PTV2c
 
 Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
-für / als sbehandlung aus Einzel- und Gruppentherapie mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt? Jahren bereits ein bereits eine ambulante psychotherapeutische Behandlung durchgeführt?
+zu beachten. Die Musterbeispiele 5] ebenfalls zu
+
+für / als mindestens 50 Minuten psychotherapeutische Sprechstunde durchgeführt? Jahren bereits ein bereits eine ambulante psychotherapeutische Behandlung durchgeführt? Einzel- und Gruppentherapie sbehandlung aus
 
 ---
 
@@ -1640,11 +1626,11 @@ Hausärztin/Hausarzt Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie
 
 ---
 
-## MUSTER PTV12
+## MUSTER PTV12  ANZEIGE EINER AKUTBEHANDLUNG
 
 Prüffälle: PTV12a und PTV12b
 
-Personalien: Schimmelpfennig
+Personalien: Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
 | FELDER | INHALT |
 |---|---|
@@ -1656,10 +1642,6 @@ Personalien: Schimmelpfennig
 | und ggf. am | 18.10.24 |
 | in anderer Praxis | Ja |
 | Ausstellungsdatum | 15.11.24 |
-
-## ANZEIGE EINER AKUTBEHANDLUNG
-
--Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: XML_37)
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
@@ -2063,11 +2045,7 @@ nicht Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde,
 
 Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse  werden die Testergebnisse gesendet.
 
-“ benannt werden. Die Struktur des zip
-
-Das zip-Archiv muss mit „Test_9_<SystemID>
-
--Archives sollte alle zu
+Das zip-Archiv muss mit „Test_9_<SystemID>“ benannt werden. Die Struktur des zip-Archives sollte alle zu
 
 testenden Muster beinhalten. Wird eine vollständige Prüfung angestrebt, muss die Verzeichnisstruktur die  folgende Form aufweisen:
 
@@ -2113,7 +2091,7 @@ Alle erforderlichen Dokumente, die für die Bearbeitung der Prüffälle notwendi
 |---|---|
 | KBV_ITA_FMEX_AAZ_BFB | Antrag auf Zertifizierung |
 | Muster.zip.XKM | PCL- / PCX - Dateien der BFB- |
-| VSD_5.2.0_Testfaelle_Vn.n .zip | eGK-XML Dateien |
+| 4 | eGK-XML Dateien |
 | Kassenärztliche Vereinigung-Datentransfer (KVDT) | |
 | KBV_ITA_VGEX_Anforderungskatalog_ICD-10 | Anforderungskatalog zur Anwendung |
 | KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT |
@@ -2128,4 +2106,4 @@ Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefst
 
 4 n.n= in der jeweils aktuellen Version
 
-4 Blankoformularbedruckung Formulare der ICD-10-GM
+VSD_5.2.0_Testfaelle_Vn.n .zip Blankoformularbedruckung Formulare der ICD-10-GM

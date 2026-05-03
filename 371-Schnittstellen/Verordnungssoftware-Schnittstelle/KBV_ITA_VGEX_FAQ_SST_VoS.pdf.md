@@ -160,17 +160,15 @@ Die im Zertifizierungsportal hinterlegten Profile, gegen die die eingereichten R
 
 ## 2.3 FRAGESTELLUNG  WIE WIRD DAS E-REZEPT STORNIERT?
 
-Aufrufkontext 12: „Storno eRezept“: aufgenommen. Wenn
+In der Version 2.1.0 der VoS-SST wurde der Aufrufkontext 12: „Storno eRezept“: aufgenommen. Wenn
 
-In der Version 2.1.0 der VoS-SST wurde der  dieser Aufrufkontext vom PVS unterstützt wird, werden die für diesen Prüffall Die erforderlichen Daten,
+dieser Aufrufkontext vom PVS unterstützt wird, werden die für diesen Prüffall Die erforderlichen Daten,
 
 insbesondere das zu stornierende signierte eRezept in Form einer DocumentReference-Instanz + optional
 
 dem unsignierten eRP-Bundle, werden durch das PVS zusammengestellt und über den FHIR-Server der VoS
 
-zur Verfügung gestellt. Das Speicher-Bundle enthält in diesem Fall dann ausschließlich eine Instanz vom Typ
-
-Profil mit dem Profil KBV_PR_VoS_Provenance_ePrescription.
+zur Verfügung gestellt. Das Speicher-Bundle enthält in diesem Fall dann ausschließlich eine Instanz vom Typ  Profil mit dem Profil KBV_PR_VoS_Provenance_ePrescription.
 
 Falls der Aufrufkontext 12 **nicht** umgesetzt ist, gilt der unten gezeigte Weg:
 
@@ -182,9 +180,7 @@ Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungs
 
 Beim Aufruf der VoS übergibt das PVS eine eindeutige ID für die Daten, die sogenannte Kontext-ID, und
 
-stellt gleichzeitig die funktionsrelevanten gesammelten Daten der VoS zur Verfügung. Für die Stornierung  Das E-Rezept kann als Anhang
-
-eines Rezeptes wird der Aufrufkontext = 1 (ohne Aufrufkontext) verwendet.
+stellt gleichzeitig die funktionsrelevanten gesammelten Daten der VoS zur Verfügung. Für die Stornierung  eines Rezeptes wird der Aufrufkontext = 1 (ohne Aufrufkontext) verwendet. Das E-Rezept kann als Anhang
 
 in der DocumentReference übermittelt werden.
 
@@ -438,9 +434,7 @@ finden,
 
 ## 2.12 FRAGESTELLUNG - WER ÜBERNIMMT DIE ZERTIFIZIERUNG DER VERORDNUNGSSOFTWARE SCHNITTSTELLE?
 
-h.“
-
-Nach SGB V §372 Absatz 3, sowie SGB V §387 Absatz 1 „führt das Kompetenzzentrum oder eine  akkreditierte Stelle im Sinne von § 385 Absatz 8 eine Konformitätsbewertung auf die Übereinstimmung des  Systems mit den geltenden Interoperabilitätsanforderungen durc
+Nach SGB V §372 Absatz 3, sowie SGB V §387 Absatz 1 „führt das Kompetenzzentrum oder eine  akkreditierte Stelle im Sinne von § 385 Absatz 8 eine Konformitätsbewertung auf die Übereinstimmung des  Systems mit den geltenden Interoperabilitätsanforderungen durch.“
 
 Für die Zertifizierung ist somit nun das KIG der gematik ([https://www.ina.gematik.de/kig)](https://www.ina.gematik.de/kig)) zuständig. Bitte
 

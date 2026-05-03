@@ -1,17 +1,18 @@
 |  |
 |---|
 
-# ANFORDERUNGSKATALOG HAUTKREBS SCREENING (EHKS)
-
-### [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EHKS]
+|  |
+|---|
 
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025  VERSION: 1.14  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-|  |
-|---|
+# ANFORDERUNGSKATALOG HAUTKREBS SCREENING (EHKS)
+
+### [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EHKS]
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+
 
 ---
 
@@ -35,17 +36,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5
 
-Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten 2.1.1
+2.1.1 Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten 5
 
-5
-
-Vorbelegung von Feldern 2.1.2
+2.1.2 Vorbelegung von Feldern
 
 5
 
 2.1.3 Unterstützung von ergänzenden Verträgen der KVen 5
 
-Plausibilitätenprüfung 2.1.4
+2.1.4 Plausibilitätenprüfung
 
 6
 
@@ -69,7 +68,7 @@ Plausibilitätenprüfung 2.1.4
 
 7
 
-Verschlüsseln der Daten 2.3.3
+2.3.3 Verschlüsseln der Daten
 
 8
 
@@ -156,7 +155,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
-| P1-10 | Stamm- und Bewegungsdaten |
+| P1-10 | Vollständigkeit der Eingaben aller |
 
 - 1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in
 
@@ -200,9 +199,9 @@ Alter (des Versicherten): Das Alter des Versicherten kann systemseitig berechnet
 
 | OPTIONALE FUNKTION EHKS |  |
 |---|---|
-| K1-25 |  |
+| K1-25 | Unterstützung von ergänzenden Verträgen der KVen |
 
-Vollständigkeit der Eingaben aller ionsparameters „Verdachtsdiagno seND“ Unterstützung von ergänzenden Verträgen der KVen
+Stamm- und Bewegungsdaten ionsparameters „Verdachtsdiagno seND“
 
 ---
 
@@ -339,6 +338,12 @@ Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung 
 
 - verschluesselungssoftware\software-hersteller\@V = KBV
 
+- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten
+
+- oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
+
+- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
+
 **2.3.4** **Datenträgerbeschriftung und Transportbegleitzettel**
 
 | PFLICHTFUNKTION EHKS |  |
@@ -352,12 +357,6 @@ beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufklebe
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
 | P2-60 | Erstellung Transportbegleitzettel |
-
-- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten
-
-- oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
-
-- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
 
 
 ---

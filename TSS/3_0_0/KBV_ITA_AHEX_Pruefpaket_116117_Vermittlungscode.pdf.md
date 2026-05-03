@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025  VERSION: 1.01  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# PRUEFPAKET 116117 TERMINSERVICE
-
-# VERMITTLUNGSCODE
+# PRUEFPAKET 116117 TERMINSERVICE  VERMITTLUNGSCODE
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_116117_VERMITTLUNGSCODE]
 
@@ -116,21 +114,15 @@ Textfeldbezeichnung im Prüffall Muster PTV11 **6**
 
 Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des 116117 Terminservice Vermittlungscode.
 
-Pflichten des Antragsstellers definiert, bildet
-
-Die Zertifizierungsrichtlinie der KBV, welche die Rechte und
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet
 
 den Rahmen der Zertifizierung und ist zu beachten.
 
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  ie nicht Bestandteil dieses Prüfpaketes sind.
-
-weitere wichtige Informationen entnommen werden, d
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 ## 1.1 RECHTSGRUNDLAGE
 
-116117 Terminservice Vermittlungscode ergibt sich aus §
-
-Die rechtliche Grundlage für die Zertifizierung des
+Die rechtliche Grundlage für die Zertifizierung des 116117 Terminservice Vermittlungscode ergibt sich aus §
 
 75 SGB V und Anlage 28 des Bundesmantelvertrages.
 
@@ -138,9 +130,7 @@ Die rechtliche Grundlage für die Zertifizierung des
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Dokumentenprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach - bei der KBV eingereicht
-
-- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal werden.
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht - werden.
 
 Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen. Erst nach Erhalt der
 
@@ -150,13 +140,9 @@ eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
 
-- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle - Mitarbeitende der KBV.
+- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 
-- Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch
-
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  Bei
-
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei
 
 - Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 
@@ -218,21 +204,17 @@ beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
 
 ### 1.5.1 Verzeichnisstruktur
 
-**„Zert_171_<SystemID> “**
-
 Die erstellten Muster und die Bestätigung des Audits der kv.digital sind in einem ZIP-Archiv zu übermitteln.
 
-Das ZIP-Archiv muss die Bezeichnung
-
-erhalten. Die SystemID ergibt sich aus den
+Das ZIP-Archiv muss die Bezeichnung **„Zert_171_<SystemID> “** erhalten. Die SystemID ergibt sich aus den
 
 letzten drei Stellen der eigenen Prüfnummer. Die Lieferung des Paketes soll die folgende Form aufweisen:
 
 Abbildung 1: Struktur des ZIP-Archives
 
--Datei) zusammengepackt und in das Zertifizierungsportal
+Als Dateiname ist die Nummer des Prüffalls zu verwenden (zum Beispiel: 01.pdf). Alle Dateien müssen  abschließend in einer Archivdatei (als ZIP-Datei) zusammengepackt und in das Zertifizierungsportal
 
-Als Dateiname ist die Nummer des Prüffalls zu verwenden (zum Beispiel: 01.pdf). Alle Dateien müssen  abschließend in einer Archivdatei (als ZIP hochgeladen werden
+hochgeladen werden
 
 ### 1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente
 
@@ -320,7 +302,7 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 | PRAXISDATEN |  |
 |---|---|
-|  | 198212400 |
+| Betriebsstättennummer (BSNR): | 198212400 |
 | BSNR-Bezeichnung: | Praxis Dr. med. Heribert Topp-Glücklich |
 | Lebenslange Arztnummer (LANR): | 776299002 |
 | Arztname: | Dr. med. Topp-Glücklich |
@@ -330,7 +312,7 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | Telefon: | 0.2151 / 1111111 |
 | Telefax: | 0.2151 / 2222222 |
 
-Betriebsstättennummer (BSNR):|  |  |
+|  |  |
 |---|---|
 
 
@@ -343,7 +325,7 @@ Betriebsstättennummer (BSNR):|  |  |
 |  |  |
 |---|---|
 | Prüffall-ID | 01 |
-| Testziel | Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit |
+| Testziel | „ |
 | Einzureichende | Eine Audit-Bescheinigung der kv.digital GmbH |
 
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in
@@ -352,7 +334,7 @@ Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende
 
 Weitere Informationen zum Ablauf des Audits finden Sie im Partnerportal der kv.digital.
 
-116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung. |  |  |
+Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung. |  |  |
 |---|---|
 
 

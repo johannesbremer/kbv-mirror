@@ -31,7 +31,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -44,13 +44,13 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -70,9 +70,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
--Betriebssysteme unterstützt werden.
-
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -194,15 +192,11 @@ KIM - Software für Softwarehersteller –“ [KBV_ITA_VGEX_Lizenzvereinbarung
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
--
-
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-- ersteller- und
-
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer h
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 
 - zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 

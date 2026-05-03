@@ -320,13 +320,9 @@ Umsetzung Mitte März 2026 -  01.10.2026
 
 ## - Kontrollrechte natürlicher Personen, die Sicherheit, die Integrität und die Anweisungen für die  Bereitstellung, die Installation und die Betriebsverfahren.
 
-- - spezifizieren das Design und die technischen Fähigkeiten,
+## - Interoperabilitätsanforderungen- spezifizieren das Design und die technischen Fähigkeiten,
 
-## - Interoperabilitätsanforderungen die für den sicheren Austausch und Empfang personenbezogener elektronischer  Gesundheitsdaten erforderlich sind, einschließlich der strukturierten Dateneingabe und der
-
-- - oder Exportbeschränkungen.
-
-## - Verhinderung unzulässiger Zugangs
+## - die für den sicheren Austausch und Empfang personenbezogener elektronischer  Gesundheitsdaten erforderlich sind, einschließlich der strukturierten Dateneingabe und der  Verhinderung unzulässiger Zugangs- oder Exportbeschränkungen.
 
 ## - Sicherheits- und Protokollierungsanforderungen- Festlegung robuster Mechanismen für die
 

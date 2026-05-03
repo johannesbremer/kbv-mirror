@@ -47,11 +47,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 7
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 7
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 7
 
@@ -59,7 +59,7 @@ Datumseingaben 1.6.2
 
 7
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 7
 
@@ -71,7 +71,7 @@ Versichertendaten 1.6.4
 
 8
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 8
 
@@ -91,7 +91,7 @@ Prüfnummer 1.6.7
 
 10
 
-Prüffall 2212 2.1.2
+2.1.2 Prüffall 2212
 
 13
 
@@ -99,7 +99,7 @@ Prüffall 2212 2.1.2
 
 15
 
-Prüffall 2214 2.2.1
+2.2.1 Prüffall 2214
 
 15
 
@@ -109,7 +109,7 @@ Prüffall 2214 2.2.1
 
 19
 
-Prüffall 2240 2.3.2
+2.3.2 Prüffall 2240
 
 21
 
@@ -121,9 +121,7 @@ Prüffall 2240 2.3.2
 
 **23**
 
-Ersatzverfahren 4.1 Prüffall 2211
-
-23
+4.1 Prüffall 2211  Ersatzverfahren 23
 
 4.2 Prüffall 2212  Ersatzverfahren 24
 
@@ -352,17 +350,21 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 ### 1.6.2 Datumseingaben
 
-- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen
 
-- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der -
+- (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2026**
 
-- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist
+-
 
-- Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum**
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des
+
+- Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024**
 
 - **Ausnahme**
 
-- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das
+
+- Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 
 -
 
@@ -374,7 +376,9 @@ sechs Monate nach dem Erstdokumentationsdatum
 
 - „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 
-- **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:**  Erstlieferung bleiben unverändert.
+- **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:** Alle Datumsangaben aus der
+
+- Erstlieferung bleiben unverändert.
 
 ### 1.6.3 Prüfstammdaten
 
@@ -382,29 +386,17 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben
+
+und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
+
+Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 
 - EF.PD = persönliche Versichertendaten
 
-- EF.GVD = geschützte Versichertendaten -
-
-- Schnittstellen
-
-- **01.10.2026**
-
-- jeweils der 15. des
-
-- ist der **15.10.2024**
-
-- liegen würde, dann ist das
-
--
-
-- Alle Datumsangaben aus der
-
-erforderlichen Angaben  “ bereitgestellt. Die XML-
+- EF.GVD = geschützte Versichertendaten
 
 
 ---
@@ -416,8 +408,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | BEZEICHNUNG | INHALT |
 |---|---|
 | Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR - | Praxis Dr. med. Heribert Topp |
-| Lebens | 838382202 |
+| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp |
+| Lebenslange Arztnummer (LANR) | 838382202 |
 | Arztname | Dr. med. Hans Topp-Glücklich |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
@@ -431,7 +423,7 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 | BEZEICHNUNG | INHALT |
 |---|---|
-| Krankenhaus | 856215715 |
+| Krankenhaus-IK | 856215715 |
 | Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
 | Straße | Am Wehr |
 | Hausnummer | 20 |
@@ -443,7 +435,6 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - ADKJ = X/112/2610/36/000
 
-Bezeichnung lange Arztnummer (LANR) IK
 
 ---
 
@@ -455,15 +446,15 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL | NAME | VERZEICHNISNAME |
+| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
-| 22.11 | Gertrud Zimmerpflanze | Ersatzverfahren |
-| 22.12 | John Bayer | Ersatzverfahren |
-| 22.40 | Lija Malta | Ersatzverfahren |
+| 2211 | Gertrud Zimmerpflanze | Ersatzverfahren |
+| 2212 | John Bayer | Ersatzverfahren |
+| 2240 | Lija Malta | Ersatzverfahren |
 
 beliebiger Empfänger
 
-- ID (s. Anhang 4.1)  (s. Anhang 4.2)  (s. Anhang 4.3)
+(s. Anhang 4.1)  (s. Anhang 4.2)  (s. Anhang 4.3)
 
 ---
 
@@ -475,7 +466,7 @@ beliebiger Empfänger
 | Administrative Daten | | |
 | DMP-Fallnummer | 2211 | 2211 |
 | Krankenhaus-IK |  |  |
-|  |  |  |
+| Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 | Einschreibung wegen | Adipositas - Kinder und | Adipositas - Kinder und |
 | Geschlecht | Weiblich | Weiblich |
@@ -498,7 +489,7 @@ beliebiger Empfänger
 | Einzureichende Prüfunterlagen | › |
 | Hinweis | › |
 
-Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Antragsteller durchgeführt werden: Aktionen, die durch den 1. Versichertendaten Gertrud Zimmerpflanze ( Die Versichertendaten von Ersatzverfahren – Anhang 4.1  sind im Ersatzverfahren zu erfassen. Dokumentation in Vertretung erstellt Jugendliche Jugendliche
+Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren – Anhang 4.1  sind im Ersatzverfahren zu erfassen. Jugendliche Jugendliche
 
 ---
 
@@ -520,14 +511,14 @@ Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erst
 |  |  |  |
 |  | | |
 | Vom Patienten | Ernährungsberatung | Tabakverzicht |
-|  | Quartalsweise | Jedes zweite Quartal |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall
+gewünschte Informationsangebote der Krankenkasse
 
 ---
 
-| DATEN | | |
+| INDIKATIONSPEZIFISCHE | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Therapeutische Maßnahmen | | |
@@ -545,7 +536,7 @@ gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall
 | Relevante Ereignisse seit der letzten Dokumentation | | |
 | Beendigung der DMP |  | Nein |
 
-INDIKATIONSPEZIFISCHE Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen -Teilnahme oder überprüft oder überprüft
+DATEN Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen -Teilnahme oder überprüft oder überprüft
 
 ---
 
@@ -554,22 +545,20 @@ INDIKATIONSPEZIFISCHE Aufrechterhaltung der Ernährungsänderung Aufrechterhaltu
 |  |  |
 |---|---|
 | Prüffall-ID | 2212 |
-| Testziel |  |
+| Testziel | › |
 | Voraussetzung | › |
-| Prüfunterlagen | - Kinder und Jugendliche |
+| Prüfunterlagen | › |
 | Hinweis | › |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten**
 
-(Ersatzverfahren - Anhang 4.2) sind im Ersatzverfahren
-
-Die Versichertendaten von **John Bayers**
+Die Versichertendaten von **John Bayers** (Ersatzverfahren - Anhang 4.2) sind im Ersatzverfahren
 
 zu erfassen.
 
-|  | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Administrative Daten | | |
@@ -588,9 +577,9 @@ zu erfassen.
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-|  | 15.mm.jjjj | 15.mm.jjjj |
+| Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdokumentation 15,5 Jahre alt (Geburtsdatum liegt 15 Jahre und 6 Monate vor Datum der Erstdokumentation) Dokumentationsunterlagen eDMP Adipositas INDIKATIONSÜBERGREIFENDE DATEN Jugendliche Jugendliche Informationsangebote der Krankenkasse Datum der Erstellung (Behandlungsdatum)
+Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdokumentation 15,5 Jahre alt (Geburtsdatum liegt 15 Jahre und 6 Monate vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen Jugendliche Jugendliche Informationsangebote der Krankenkasse
 
 ---
 
@@ -616,23 +605,25 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 
 ---
 
-## 2.2 PRÜFFALL SYSTEMREAKTION 2.2.1 Prüffall 2214
+## 2.2 PRÜFFALL SYSTEMREAKTION
+
+**2.2.1** **Prüffall 2214**
 
 |  |  |
 |---|---|
-| Prüffall | 2214 |
-| Testziel |  |
+| Prüffall-ID | 2214 |
+| Testziel | › |
 | Voraussetzung | › |
-|  | ›  › |
+| Prüfunterlagen | ›  › |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden: - 1. Versichertendaten
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- **1.** **Versichertendaten**
 
 Die Personalien zu dem Testfall sind frei wählbar.
 
--
-
-- 2. Anlegen einer Erstdokumentation
+- **2.** **Anlegen einer Erstdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -644,7 +635,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Kinder und |  |
 | Geschlecht | Männlich |  |
-| Allgemeine Anamnese- | | |
+| Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,50 m |  |
 | Körpergewicht | 200 kg | Nr. 1 |
 | Blutdruck | 120 / 90 mmHg |  |
@@ -655,7 +646,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 |  |  |  |
 |  |  |  |
 
-ID Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum der Erstdokumentation genau 14 Jahre alt (Geburtsdatum liegt 14 Jahre vor Datum der Erstdokumentation) (z.B.: Datum der Erstellung 15.10.2026 > Patient wurde am 15.10.2012 geboren) Prüfunterlagen Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. 2) Jugendliche und Befunddaten Erkrankungen
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum der Erstdokumentation genau 14 Jahre alt (Geburtsdatum liegt 14 Jahre vor Datum der Erstdokumentation) (z.B.: Datum der Erstellung 15.10.2026 -> Patient wurde am 15.10.2012 geboren) Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. 2) Jugendliche Erkrankungen
 
 ---
 
@@ -667,7 +658,7 @@ ID Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Dat
 |  |  |  |
 | Nein |  |  |
 | Ja |  |  |
-| damit die |  |  |
+| 3. |  |  |
 |  | Aktion | Therapeutische Maßnahmen |
 |  | | |
 |  |  |  |
@@ -677,10 +668,10 @@ ID Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Dat
 |  |  |  |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
-|  | Quartalsweise |  |
+| Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
 
-der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme 3. Korrektur der Daten der Erstdokumentation mit beliebigen Werten, Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 |  | | |
+der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung damit die Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Therapeutische Maßnahmen | | |
@@ -695,7 +686,7 @@ der Krankenkasse Dokumentationsintervall 2) INDIKATIONSSPEZIFISCHE DATEN BMI-SDS
 | Adipositas-Schulung für Kinder und Jugendliche | Ja |  |
 | Adipositas-Schulung für Kinder und | Unbekannt | Nr. 8 |
 | Relevante Ereignisse seit der letzten Dokumentation | | |
-|  | Nein | Nr. 9 |
+| Manifester Diabetes mellitus Typ 2 | Nein | Nr. 9 |
 | Beendigung der DMP | Ja | Nr. 10 |
 
 
@@ -770,30 +761,32 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 
 ---
 
-## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG 2.3.1 Prüffall 2230
+## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
+
+**2.3.1** **Prüffall 2230**
 
 |  |  |
 |---|---|
-| Prüffall | 2230 |
-| Testziel | › ) |
-|  | › |
-|  | › |
+| Prüffall-ID | 2230 |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
+| Voraussetzung | › |
+| Prüfunterlagen | nach einer möglichen Hinweissteuerung. |
 | Hinweis | › |
 
-Aktionen, die durch den Antragsteller durchgeführt werden:
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| angelegt. Zeigen Sie, wie das System die Datenübernahme aus |
-| Szenario |
-| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Anforderung |
-| Szenario |
-| bestehende Verlaufsdokumentation des Prüffalles 2214.  Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI  1. 300“ gemacht. Zeigen Sie die 3. 4. 5. |
+| Es wird eine Folgedokumentation |
+| Szenario 2 |
+| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei Zeigen Sie die Systemreaktion.  Mit diesem Szenario soll die korrekte Umsetzung der |
+| Szenario 3 |
+| Bitte öffnen Sie die Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten Zeigen Sie jeweils den berechneten BMI  1. 2. 3. 4. 5. |
 |  |
 |  |
 
-ID Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Voraussetzung Prüfunterlagen Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Dieser Testfall ist unterteilt in 5 Szenarien einer vorherigen Dokumentation, gemäß Anforderung P1 50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. Mit diesem Szenario soll die korrekte Umsetzung der KP1 -26  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. Bitte öffnen Sie die -SDS Wert und die zugehörigen Hinweismeldungen gemäß Anforderung KP2 -6 10  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Bei dem Parameter „Körpergewicht“ wird die Angabe „ 115“ gemacht. Zeigen Sie die 2. Bei dem Parameter „Körpergewicht“ wird die Angabe „ Bei dem Parameter „Körpergewicht“ wird die Angabe „ 240“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 480“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 65“ gemacht. Zeigen Sie die
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video s die Eingaben einschließlich der Ergebnisse Dieser Testfall ist unterteilt in 5 Szenarien  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 -50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. Anforderung KP1-26  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. bestehende Verlaufsdokumentation des Prüffalles 2214.  -SDS Wert und die zugehörigen Hinweismeldungen gemäß Anforderung KP2 -610  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Bei dem Parameter „Körpergewicht“ wird die Angabe „ 115“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 300“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 240“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 480“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „ 65“ gemacht. Zeigen Sie die
 
 ---
 
@@ -804,20 +797,20 @@ ID Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP (
 |  |
 | 3. |
 |  |
-| 4 |
+| Szenario 4 |
 | SZENARIEN |
-| 85“ gemacht. Zeigen Sie die 105“ gemacht. Zeigen Sie die |
+| 6. 7. |
 
-Anforderung KP2610 AK4 sowie der
+Mit diesem Szenario soll die korrekte Umsetzung der **Anforderung KP2-610 AK4 sowie der**
 
-Mit diesem Szenario soll die korrekte Umsetzung der  übergreifenden Plausibilitäten(siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft
+**übergreifenden Plausibilitäten** (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft
 
 werden.
 
-6. Bei dem Parameter „Körpergewicht“ wird die Angabe „ Systemreaktion.  7. Bei dem Parameter „Körpergewicht“ wird die Angabe „ Systemreaktion.  Szenario 1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist. Zeigen Sie das Systemverhalten. - Kinder und Jugendliche“ für einen 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas Patienten an, welcher 3 Jahre alt ist. Zeigen Sie das Systemverhalten. übergreifenden Plausibilitäten überprüft Mit diesem Szenario soll die korrekte Umsetzung der werden.  Szenario 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentation en an, bis der Patient der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. eine weitere Folgedokumentationen an, in 2. Legen Sie anschließend für den gleichen Patienten welcher der Patient 20 Jahre alt ist.  “ muss die Angabe „Adipositas - Kinder und Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten. | 4 |
+Bei dem Parameter „Körpergewicht“ wird die Angabe „ 85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „ 105“ gemacht. Zeigen Sie die Systemreaktion.  1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist. Zeigen Sie das Systemverhalten. 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 3 Jahre alt ist. Zeigen Sie das Systemverhalten. Mit diesem Szenario soll die korrekte Umsetzung der übergreifenden Plausibilitäten überprüft werden.  Szenario 5 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentation en an, bis der Patient der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in welcher der Patient 20 Jahre alt ist.  “ muss die Angabe „Adipositas - Kinder und Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten. | Szenario 4 |
 |---|
 
-| 5 |
+| Szenario 5 |
 |---|
 
 
@@ -828,7 +821,7 @@ werden.
 |  | |
 |---|---|
 | Prüffall-ID | 2240 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges ) |
+| Testziel | eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_ADKJ.pdf“ der indikationsübergreifenden Teilnahme- |
 | Hinweis | Falls Ihr System die optionale Anforderung O |
@@ -852,7 +845,7 @@ zu erfassen.
 | DMP-Fallnummer | 2240 |
 | Datum | 15.10.2026 |
 
-eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges und Einwilligungserklärung  7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
@@ -864,11 +857,11 @@ Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automat
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „Test _112“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „**Test**_112“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Name
 
-Test_112 _SystemID.zip
+**Test_112**_SystemID.zip
 
 391234511_20261015101010_1_ADKJ_100.zip.XKM
 
@@ -932,7 +925,7 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 ---
 
-4.2 PRÜFFALL 2212 –
+**4.2** **PRÜFFALL 2212 – ERSATZVERFAHREN**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -956,8 +949,6 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 | 4111 | Kostentraegerkennung | 101577500 |
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 00 |
-
-## ERSATZVERFAHREN
 
 (Bsp.: Erstdokumentation am Geburtsdatum 15.04.2011) 15.10.2026,
 
@@ -1016,7 +1007,7 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.1
 
-**Ansprechpartner**
+**Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 

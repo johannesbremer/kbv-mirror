@@ -4,9 +4,7 @@
 |  |
 |---|
 
-## VERORDNUNG VON MEDIZINISCHER REHABILITATION
-
-## MUSTER 61
+## MUSTER 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION
 
 # HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
@@ -16,23 +14,21 @@
 
 - **1.** **Rehabilitationsbegründende und weitere Diagnosen**
 
-- sofern erforderlich mit Seitenlokalisation - als Funktionsdiag-
+Geben Sie hier bitte die relevanten Diagnosen - sofern erforderlich mit Seitenlokalisation - als Funktionsdiag-
 
-Geben Sie hier bitte die relevanten Diagnosen  nosen an, z.B. Coxarthrose re. mit eingeschränkter Gehfähigkeit . Die den Beeinträchtigungen zugrundelie-
+nosen an, z.B. Coxarthrose re. mit eingeschränkter Gehfähigkeit . Die den Beeinträchtigungen zugrundelie-
 
 genden Diagnosen und weitere Diagnosen sind gemäß ICD-10-GM zu verschlüsseln.
 
 - **2.** **Ursache**
 
-Vordruck aufgeführten Ursachen zutrifft, geben Sie dies, so-
+Wenn für die Diagnosen eine der rechts auf dem Vordruck aufgeführten Ursachen zutrifft, geben Sie dies, so-
 
-Wenn für die Diagnosen eine der rechts auf dem fern bekannt, hier bitte an.
+fern bekannt, hier bitte an.
 
 - **3.** **Beratung der/des Versicherten**
 
-Wenn zunächst eine Beratung zum Thema Rehabilitation sowie zu weiteren Leistungen durch die Kranken- hier angegeben werden
-
-kasse sinnvoll erscheint, kann dies
+Wenn zunächst eine Beratung zum Thema Rehabilitation sowie zu weiteren Leistungen durch die Kranken- kasse sinnvoll erscheint, kann dies hier angegeben werden
 
 - **4.** **Prüfung des zuständigen Rehabilitationsträgers**
 
@@ -40,11 +36,9 @@ Wenn unklar ist, ob die Krankenversicherung oder die Rentenversicherung zuständ
 
 - **5.** **ggf. weitere Anmerkungen**
 
-oder Teilhabe am Ar-
+Hier ist Platz für weitere Anmerkungen (z.B. Rückruf durch die Krankenkasse). Sofern Anhaltspunkte für wei- tere Bedarfe an Leistungen zur Teilhabe bestehen (z. B. Leistungen zur sozialen Teilhabe oder Teilhabe am Ar-
 
-Hier ist Platz für weitere Anmerkungen (z.B. Rückruf durch die Krankenkasse). Sofern Anhaltspunkte für wei- tere Bedarfe an Leistungen zur Teilhabe bestehen (z. B. Leistungen zur sozialen Teilhabe  beitsleben), können diese hier benannt werden.
-
--
+beitsleben), können diese hier benannt werden.
 
 - **6.** **Folgender Rehabilitationsträger ist zuständig**
 
@@ -182,9 +176,9 @@ anderen Einrichtung (z.B. Kurzzeitpflege) durch die Krankenkasse/Pflegekasse gew
 
 Hier können Sie weitere Hinweise geben, die für die Durchführung der Rehabilitation erforderlich sind, bei- spielsweise zum Bestehen einer Schwangerschaft oder zu Anhaltspunkten für weitere Bedarfe an Leistungen  zur Teilhabe.
 
-gebedürftigen in der Rehabilitationseinrichtung,
+Sprechen medizinische Gründe (z.B. ein schweres Erschöpfungssyndrom oder depressive Störungen der/des  pflegenden Angehörigen) gegen die Mitaufnahme der/des Pflegebedürftigen in der Rehabilitationseinrichtung,
 
-Sprechen medizinische Gründe (z.B. ein schweres Erschöpfungssyndrom oder depressive Störungen der/des  pflegenden Angehörigen) gegen die Mitaufnahme der/des Pfle ist dies hier zu vermerken.
+ist dies hier zu vermerken.
 
 Wenn Sie einen telefonischen Rückruf der Krankenkasse wünschen, geben Sie dies bitte ebenfalls hier an.
 
@@ -194,9 +188,9 @@ Der Inhalt der abgegebenen Einwilligungen der oder des Versicherten ist durch di
 
 - **22.** **Angaben der/des Versicherten**
 
-2. positiv vornimmt, ist darauf hinzuweisen,
+Sofern die oder der Versicherte die Einwilligung nach Punkt VIII A. 2. positiv vornimmt, ist darauf hinzuweisen,
 
-Sofern die oder der Versicherte die Einwilligung nach Punkt VIII A.  dass vor einer Weitergabe der Verordnung durch die oder den Versicherten konkrete Angaben zu den Angehö- rigen und Vertrauenspersonen sowie Pflege- und Betreuungseinrichtungen vorzunehmen sind. Die jeweiligen
+dass vor einer Weitergabe der Verordnung durch die oder den Versicherten konkrete Angaben zu den Angehö- rigen und Vertrauenspersonen sowie Pflege- und Betreuungseinrichtungen vorzunehmen sind. Die jeweiligen
 
 Angaben sind durch die oder den Versicherten vorzunehmen.
 

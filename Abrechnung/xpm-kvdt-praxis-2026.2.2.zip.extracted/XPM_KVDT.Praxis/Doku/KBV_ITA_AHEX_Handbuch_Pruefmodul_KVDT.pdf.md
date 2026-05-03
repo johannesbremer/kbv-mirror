@@ -25,7 +25,7 @@ Dokumentenhistorie
 | 1.15 | 10.01.2022 | KBV | Beschreibung der Schalter | Neue Schalter | 19 |
 | 1.14 | 20.02.2018 | KBV | Anpassung Dezernatsbe- |  |  |
 | 1.13 | 19.07.2012 | KBV | Dokument an Standard Struktur angepasst |  |  |
-| 1.12 | 19.12.2011 | KBV |  | Java Classpath wird | 7 |
+| 1.12 | 19.12.2011 | KBV | Änderung der SetVariab- | Java Classpath wird | 7 |
 | 1.11 | 05.05.2009 | KBV | Ergänzung Abbruchfehler |  | 19 |
 | 1.10 | 05.05.2008 | KBV | Alle Meldungen werden in PDT-Liste Header-Satz: Bezeichnung der FK 0201 | Bessere Übersichtlichkeit, | 18 14 |
 | 1.09 | 31.10.2007 | KBV | FK 9237 ( | Neues Datenpaket SADT AODT/AODT-Hessen | 13 |
@@ -33,7 +33,7 @@ Dokumentenhistorie
 | 1.07 | 30.04.2007 | KBV | Meldungen aktualisiert | Neues Datenpaket SADT |  |
 | 1.06 | 31.01.2007 | KBV | Redaktionelle Änderungen Meldungen aktualisiert | OPS-Einführung | 4 18 |
 
-gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt Änderung der SetVariab- len.* in SetVersion.* den Dateien Meldun- gen.xml und XDT- Meldungen.xml aufgelis- tet. FK 0211 durch FK 0203 ersetzt. und 0203 geändert. enthaltene Da- tenpakete der Date lichkeit bei Eingabedatei- Kommunikationsdatensatz Hybrid-DRG- oder ADT/SADT/KADT- Datenpakete beschränkt tionen zur ePA- und eRe- zept-Fähigkeit soll immer erfolgen ebenfalls definiert. keine Aktualisierung die- ses Dokumentes mehr nötig. entfallen tung
+gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt len.* in SetVersion.* den Dateien Meldun- gen.xml und XDT- Meldungen.xml aufgelis- tet. FK 0211 durch FK 0203 ersetzt. und 0203 geändert. enthaltene Da- tenpakete der Date lichkeit bei Eingabedatei- Kommunikationsdatensatz Hybrid-DRG- oder ADT/SADT/KADT- Datenpakete beschränkt tionen zur ePA- und eRe- zept-Fähigkeit soll immer erfolgen ebenfalls definiert. keine Aktualisierung die- ses Dokumentes mehr nötig. entfallen tung
 
 ---
 
@@ -127,9 +127,7 @@ Tabelle 1: JVM-Aufruf Parameter ................................................
 
 Tabelle 2: Felder KOMU-Satz .............................................................................................. 14
 
-.............................................................................................
-
-Tabelle 3: Felder Protokollsatz 15
+Tabelle 3: Felder Protokollsatz ............................................................................................. 15
 
 Tabelle 4: Felder PDT-Datei Header Satz ............................................................................ 15
 
@@ -343,17 +341,13 @@ XPM_PAKET_VERSION=%XPM_PAKET_VERSION% XPM_QUARTAL_VERSION=%XPM_QUARTAL_VERSION% 
 
 Hier kann ein existentes Tempverzeichnis angegeben werden, in dem das XPM die temporären Listen anlegt, die  für Klammer- und Sortierzwecke benötigt werden. Der Schalter kann auch auskommentiert werden, dann verwen- det das XPM den Standard-Tempordner des Betriebssystems, falls vorhanden.
 
-<tempdaten>c:/temp/</tempdaten>
-
-Z.B.:
+Z.B.: <tempdaten>c:/temp/</tempdaten>
 
 Wenn das XPM auf einem Netzlaufwerk aufgerufen wird, sollte der Schalter unbedingt auskommentiert sein bzw.  ein lokales Temp-Verzeichnis des aufrufenden Rechners angegeben werden, da sonst die Performanz erheblich  beeinträchtigt ist.
 
 #### 3.3.1.4 Datensatzbeschreibung
 
-Schemadatei wird im Element „**pruefschema**“ festgehalten.
-
-Die Pfadangabe zur XML-
+Die Pfadangabe zur XML-Schemadatei wird im Element „
 
 Z.B.: <pruefschema>Schema/xdtdata_%XPM_QUARTAL_VERSION%.xsd</pruefschema>
 
@@ -369,13 +363,9 @@ Z.B. <warnungen>ja</warnungen>
 
 #### 3.3.1.6 Fehler Begrenzen
 
-Für die PDT-Datei gibt es keine Beschränkung der Meldungsanzahl. Für das Prüfprotokoll kann über diesen Schal-
+Für die PDT-Datei gibt es keine Beschränkung der Meldungsanzahl. Für das Prüfprotokoll kann über diesen Schal- ter festgelegt werden, ob es eine Anzahlbeschränkung geben soll oder nicht. Ist hier der Wert ‚ja’ gesetzt, wird die  Anzahl identischer Meldungen auf 5, die Gesamtzahl möglicher Meldungen auf 1000 beschränkt. Ist der Wert auf  ‚nein’ gesetzt, gibt es keine Beschränkung.
 
-ter festgelegt werden, ob es eine Anzahlbeschränkung geben soll oder nicht. Ist hier der Wert ‚ja’ gesetzt, wird die  Anzahl identischer Meldungen auf 5, die Gesamtzahl möglicher Meldungen auf 1000 beschränkt. Ist der Wert auf  ‚nein’ gesetzt, gibt es keine Beschränkung.
-
-### Abschnitt: Eingabedateien
-
-### 3.3.2
+### 3.3.2 Abschnitt: Eingabedateien
 
 Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en) festgelegt.
 
@@ -393,31 +383,31 @@ Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en
 
 <ICDStamm2024>Kbvtab/ICDStamm2024_%XPM_QUARTAL_VERSION%.bin</ICDStamm2024>
 
-(ICD-Stammdatei für 2024)
-
 <ICDStamm2023>Kbvtab/ICDStamm2023_%XPM_QUARTAL_VERSION%.bin</ICDStamm2023>
-
-(ICD-Stammdatei für 2023, bei Nachzügler-
 
 scheinen aus 2023 greift das XPM automatisch auf diese Datei zurück)
 
-<GOStamm Einlesen="auto">Kbvtab/GOStamm_KV01.bin</GOStamm> (GO-Stammdatei  Das Attribut
+<GOStamm Einlesen="auto">Kbvtab/GOStamm_KV01.bin</GOStamm>  Einlesen steuert die Handhabung der GO-Stammdatei: Durch den Wert „ja“ wird wie angegeben direkt die GO
 
-Stammdatei: Durch den Wert „ja“ wird wie angegeben direkt die GO
+Stammdatei eingelesen. Die GOS wird NICHT eingelesen und keine Existenzprüfung durchgeführt durch die An- gabe des Wertes „nein“. Der angegebene Pfad wird ignoriert. Bei Auslieferung des XPM wird als default der Wert  „auto“ angegeben. Es wird versucht die GOS für den jeweili Kann die GOS nicht gefunden werden, dann wird versucht die GOS GOStamm_KV74.bin einzulesen, wird diese  auch nicht gefunden, dann wird die Meldung KBVDT-RGOS gemeldet.)
 
-Einlesen steuert die Handhabung der GO- Stammdatei eingelesen. Die GOS wird NICHT eingelesen und keine Existenzprüfung durchgeführt durch die An-
-
-gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.
-
-gabe des Wertes „nein“. Der angegebene Pfad wird ignoriert. Bei Auslieferung des XPM wird als default der Wert  „auto“ angegeben. Es wird versucht die GOS für den jeweili Kann die GOS nicht gefunden werden, dann wird versucht die GOS GOStamm_KV74.bin einzulesen, wird diese  auch nicht gefunden, dann wird die Meldung KBVDT-RGOS gemeldet.)
-
-### Abschnitt: Ausgabedateien
-
-### 3.3.3
+### 3.3.3 Abschnitt: Ausgabedateien
 
 Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle festgelegt.
 
 Über das Attribut Format wird das Ausgabeformat festgelegt:
+
+**pruefschema**“ festgehalten.
+
+(ICD-Stammdatei für 2024)
+
+(ICD-Stammdatei für 2023, bei Nachzügler-
+
+(GO-Stammdatei
+
+gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.
+
+Das Attribut
 
 
 ---
@@ -576,11 +566,11 @@ Das KV-Prüfmodul prüft im Anschluss die entschlüsselte Datei. Das KV-Prüfmod
 
 Der Kommunikationssatz hat die Kennung „KOMU“ und folgende Felder:
 
-| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | „KOMU“; Satzart |
 | 9230 | 1 | Prüfmodul-Version | M |  | Format vgl. Schreiben |
-| 9231 | 1 | Steuerdatei-Version | M |  | Format vgl. Schreiben |
+| 9231 | 1 | Steuerdatei-Version | M |  | zu Konvention Datei- |
 
 *KommunikationsSatz*
 
@@ -592,12 +582,12 @@ festgelegt. Standard-
 
 **Kryptomodul (XKM)**
 
-Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul -er Satz angehängt.  -Satz).
+Vorkommen Kommunikationssatz namen Prüfmodul namen Prüfmodul -er Satz angehängt.  -Satz).
 
 
 ---
 
-| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
+| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 9213 | n | Version verwendeter Stammdatei | K |  | Information aus dem |
 | 9237 | n | enthaltene Datenpakete der Datei | M |  | 0 = KVDT-Container |
@@ -638,7 +628,7 @@ Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann
 
 **Dies ist der essentielle Protokollsatz**
 
-| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | 1 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 9420 | 1 | Nummer der Meldung | M |  |  |
@@ -646,7 +636,7 @@ Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann
 
 ### erhält
 
-Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Feldinhalte 3 prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch ### es auch nur die Standard
+Vorkommen Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Vorkommen Feldinhalte 3 prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch ### es auch nur die Standard
 
 
 ---
@@ -686,7 +676,7 @@ Dies ist der Header-Satz der PDT-Datei.
 
 | Feldkennung | 2 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
-| 8000 | 1 | Satzidentifikation | M |  | pro0 |
+| 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 0201 | 1 | Betriebs- (BSNR) oder Ne- | M |  |  |
 | 0203 | 1 | (N)BSNR-Bezeichnung | M |  |  |
 | 9103 | 1 | Datum der Erstellung | M |  | aus con0 |
@@ -694,7 +684,7 @@ Dies ist der Header-Satz der PDT-Datei.
 
 #### Tabelle 4: Felder PDT-Datei Header Satz
 
-Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer (NBSNR) Inhalt
+Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer (NBSNR) pro0
 
 ---
 
@@ -702,11 +692,11 @@ Vorkommen Feldinhalte gelwerk Vorkommen Feldinhalte 4 benbetriebsstättennummer 
 
 Dies ist der Abschluß-Satz der Fehlerprotokolldatei
 
-| Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
+| Feldkennung | 1 | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzidentifikation | M |  | Inhalt |
 | 9230 | 1 | Prüfmodul-Version | M |  |  |
-| 9232 | 1 | Prüfergebnis | M |  | Wert des error- 0 = O.k. |
+| 9232 | 1 | Prüfergebnis | M |  | levels 0 = O.k. |
 | 9234 | 1 | Prüfdatum | M |  |  |
 | 9235 | 1 | Prüfzeit | M |  |  |
 
@@ -766,7 +756,7 @@ festgelegt. Standard-
 
 festgelegt. Stan-
 
-Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
+Vorkommen Feldinhalte pro9 Wert des error- 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
 
 
 ---

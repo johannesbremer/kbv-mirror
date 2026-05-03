@@ -4,9 +4,7 @@
 |  |
 |---|
 
-## ÜBERWEISUNGSSCHEIN FÜR
-
-## MUSTER 10
+## MUSTER 10  ÜBERWEISUNGSSCHEIN FÜR
 
 ## IN-VITRO-DIAGNOSTISCHE AUFTRAGSLEISTUNGEN
 
@@ -14,19 +12,19 @@
 
 ## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
-## BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS
+## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS
 
-## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI  REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
+## REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
 
-men der kurativen Versorgung, der Prävention, der
+Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention, der
 
-Hier ist zu kennzeichnen, ob der Auftrag im Rah Empfängnisregelung/Sterilisation/Schwangerschaftsabbruch oder bei belegärztlicher Behandlung erfolgt.
+Empfängnisregelung/Sterilisation/Schwangerschaftsabbruch oder bei belegärztlicher Behandlung erfolgt.
 
 ## 2. UNFALL, UNFALLFOLGEN
 
-kann die Krankenkassen ggf.
+Wenn die Behandlung aufgrund oder als Folge eines Unfalles erforderlich wird, kann die Krankenkassen ggf.
 
-Wenn die Behandlung aufgrund oder als Folge eines Unfalles erforderlich wird,  Kosten gegenüber Dritten geltend machen.
+Kosten gegenüber Dritten geltend machen.
 
 
 ---
@@ -45,8 +43,6 @@ Knappschaftsärzte tragen für die Veranlassung von Laboratoriumsuntersuchungen 
 
 ## 6.  QUARTAL
 
-ist in der Form „QJJ“ in das betreffende Feld einzutragen.
-
 Das Quartal der Ausstellung der Überweisung
 
 ## 7. GESCHLECHT
@@ -63,15 +59,7 @@ Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen.
 
 ## 10. EINGESCHRÄNKTER LEISTUNGSANSPRUCH GEMÄß § 16 ABSATZ 3A SGB V
 
-(Nachweis der Anspruchsberechtigung bei Ruhen des
-
-Sollte durch den Versicherten ein Muster 85  Anspruchs gemäß § 16 Absatz 3a SGB V) vorgelegt werden, so sind durch den überweisenden Arzt nur
-
-Überweisungen im Rahmen akuter Erkrankungen und Schmerzzuständen sowie bei Schwangerschaft und
-
-spruch gemäß § 16 Absatz 3a SGB V“.
-
-Mutterschaft zu tätigen. Der überweisende Vertragsarzt kennzeichnet dies entsprechend durch Ankreuzen  des Feldes „eingeschränkter Leistungsan
+Sollte durch den Versicherten ein Muster 85  Anspruchs gemäß § 16 Absatz 3a SGB V) vorgelegt werden, so sind durch den überweisende Überweisungen im Rahmen akuter Erkrankungen und Schmerzzuständen sowie bei Schwangerschaft und  Mutterschaft zu tätigen. Der überweisende Vertragsarzt kennzeichnet dies entsprechend durch Ankreuzen  des Feldes „eingeschränkter Leistungsanspruch gemäß § 16 Absatz 3a SGB V“.
 
 ## 11. ABNAHMEDATUM
 
@@ -87,6 +75,10 @@ Der eine Auftragsleistung ausführende Arzt ist berechtigt, Teile dieses Auftrag
 
 ## 14. EILIGE BEFUNDÜBERMITTLUNG
 
+ist in der Form „QJJ“ in das betreffende Feld einzutragen.
+
+(Nachweis der Anspruchsberechtigung bei Ruhen des  n Arzt nur
+
 
 ---
 
@@ -94,21 +86,19 @@ Der überweisende Vertragsarzt kann bei einer eiligen Befundübermittlung diese 
 
 Faxnummer der Befund nachrichtlich zu übermitteln ist.
 
-## BEFUND/MEDIKATION - AUFTRAG
-
-## 15. DIAGNOSE/VERDACHTSDIAGNOSE
+## 15. DIAGNOSE/VERDACHTSDIAGNOSE  BEFUND/MEDIKATION - AUFTRAG
 
 Hier sind nach Nennung der Diagnose/Verdachtsdiagnose, möglichst als ICD-Code, des Befundes bzw. der
 
 Medikation die Auftragsleistungen im Auftragsfeld nach Art und Umfang konkret zu bezeichnen (Angabe
 
-tungsbezeichnung). Es dürfen nur die
+der Gebührenordnungsposition oder der präzisen Leistungsbezeichnung). Es dürfen nur die
 
-der Gebührenordnungsposition oder der präzisen Leis Untersuchungen durchgeführt werden, die im Auftragsfeld angegeben sind. Eine Erweiterung des Auftrages  nach Art oder Umfang bedarf der Zustimmung des überweisenden Vertragsarztes; sie ist auf dem Vordruck  zu vermerken.
+Untersuchungen durchgeführt werden, die im Auftragsfeld angegeben sind. Eine Erweiterung des Auftrages  nach Art oder Umfang bedarf der Zustimmung des überweisenden Vertragsarztes; sie ist auf dem Vordruck  zu vermerken.
 
-erschaftsvorsorge gemäß den Mutterschafts-Richtlinien des
+Die Veranlassung von Leistungen der Mutterschaftsvorsorge gemäß den Mutterschafts-Richtlinien des
 
-Die Veranlassung von Leistungen der Mutt Gemeinsamen Bundesausschusses bei Vertretung, im Notfall oder bei Mit- bzw. Weiterbehandlung nach
+Gemeinsamen Bundesausschusses bei Vertretung, im Notfall oder bei Mit- bzw. Weiterbehandlung nach
 
 den kurativen Gebührenordnungspositionen muss entweder durch Angabe der Kennnummer 32007 oder  durch Angabe im Feld „Auftrag“ kenntlich gemacht werden.
 

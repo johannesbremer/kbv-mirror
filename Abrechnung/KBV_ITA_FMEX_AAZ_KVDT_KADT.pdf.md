@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 15. MAI 2024 VERSION: 4.2  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# KURÄRZTLICHE ABRECHNUNG
+# ANTRAG AUF ZERTIFIZIERUNG  KURÄRZTLICHE ABRECHNUNG
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_KADT]
 
@@ -54,9 +52,9 @@ Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -76,9 +74,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
--Betriebssysteme unterstützt werden.
-
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -95,8 +91,8 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 |  |  |
 |---|---|
-| ☐ | nsatzbeschreibung KVDT ist das K |
-| ☐ |  |
+| ☐ | Auf Grundlage der aktuell gültigen Date |
+| ☐ | Alle Pflichtfunktionen KADT des Anforderungskataloges KVDT sind realisiert. |
 
 **2.2**
 
@@ -133,7 +129,7 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |  |  |
 |  |  |
 
-[ ] [ ] Auf Grundlage der aktuell gültigen Date mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln Alle Pflichtfunktionen KADT des Anforderungskataloges KVDT sind realisiert. ADT-Datenpaket realisiert [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
+[ ] [ ] mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert [ ] [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
 
 ---
 
@@ -177,7 +173,7 @@ Diese Information ist verpflichtend anzugeben
 
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
 | KADT | Neu- oder | Sicht- oder | 344,05 [pro Termin] |
 
@@ -213,9 +209,7 @@ Rezertifizierung Ergebnisprüfung
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-- (6) Der
-
-- KBV_ITA_ VGEX_Lizenzvereinbarung - IV. Sonstiges
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller“ [KBV_ITA_ VGEX_Lizenzvereinbarung - **IV.** **Sonstiges**
 
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 

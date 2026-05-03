@@ -1,14 +1,14 @@
+## zum indikationsspezifischen Datensatz für das struk- turierte Behandlungsprogramm
+
+Stand der letzten Bearbeitung:
+
+Version:
+
 ## Ausfüllanleitung
-
-## turierte Behandlungsprogramm
-
-## zum indikationsspezifischen Datensatz für das struk-
 
 ## Osteoporose 07.06.2021
 
-Stand der letzten Bearbeitung: 1.0
-
-Version:
+1.0
 
 
 ---
@@ -364,75 +364,73 @@ drei Jahre hinaus“ erfolgt.
 
 ---
 
-- weder in der Vergangenheit noch aktuell- eine osteoporosespezifi-
+Wurde zu keinem Zeitpunkt - weder in der Vergangenheit noch
 
-Wurde zu keinem Zeitpunkt  durchgeführt, geben Sie bitte Keine osteoporosespezifische Me-
+sche medikamentöse Therapie durchgeführt, geben Sie
 
-sche medikamentöse Therapie dikation durchgeführt an.
+dikation durchgeführt an.
 
-ebenfalls „Keine osteoporosespezifische Medikation durchgeführtan, wenn Ihrer
+Bitte geben Sie ebenfalls „Keine osteoporosespezifische Medikation durchgeführt
 
-Bitte geben Sie  Patientin eine Hormonersatztherapie (HRT) mit Östrogenen und Gestagenen oder nur mit Öst-
+Patientin eine Hormonersatztherapie (HRT) mit Östrogenen und Gestagenen oder nur mit Öst-
 
 rogenen erhält.
 
 ### Schulungen
 
-folgenden drei Dokumentationsfeldern zu Schulun-
+Bitte machen Sie jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulun-
 
-Bitte machen Sie jeweils eine Angabe zu den  gen
+gen
 
 #### Schulung bereits vor Einschreibung in das DMP wahrgenommen
 
-**Erstdokumentation** möglich und hier ver-
+Eine Angabe in diesem Feld ist nur im Rahmen der  pflichtend **Genau eine Angabe** ist erforderlich und zulässig.
 
-Eine Angabe in diesem Feld ist nur im Rahmen der  **Genau eine Angabe** ist erforderlich und zulässig.
+Bei der Folgedokumentation ist hier keine Angabe möglich.
 
-pflichtend
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an  einer Schulung teilgenommen hat oder nicht.
 
-ist hier keine Angabe möglich.
-
-Bei der Folgedokumentation
-
-Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an
-
-einer Schulung teilgenommen hat oder nicht.
-
-gende Schulungsmaßnahmen:
-
-Gemeint sind hierbei fol
+Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - akkreditierte und für das DMP zugelassene Schulungen, sowie
 
-- Schulungsmaßnahmen, die der Befähigung Ihrer Patientin oder Ihres Patienten zur besseren  Bewältigung des Krankheitsverlaufs und zur selbstverantwortlichen Umsetzung wesentlicher
+- Schulungsmaßnahmen, die der Befähigung Ihrer Patientin oder Ihres Patienten zur besseren  Bewältigung des Krankheitsverlaufs und zur selbstverantwortlichen
 
 Therapiemaßnahmen dienen.
 
-Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch NICHT ausge-
-
-schlossen!
+Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch NICHT ausge- schlossen!
 
 #### Schulung empfohlen (bei aktueller Dokumentation)
 
-ist erforderlich und zulässig.
+**Genau eine Angabe** ist erforderlich und zulässig.
 
-**Genau eine Angabe**
+Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme  an einer Schulung empfohlen haben, geben Sie bitte „Ja“ an. Wenn Sie bereits zuvor eine Schu- lung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Emp-
 
-Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme
-
-uell noch nicht stattfinden konnte, sprechen Sie die Emp-
-
-an einer Schulung empfohlen haben, geben Sie bitte „Ja“ an. Wenn Sie bereits zuvor eine Schu- lung empfohlen haben, diese aber akt fehlung bitte erneut aus und geben hier „Ja“ an.
+fehlung bitte erneut aus und geben hier „Ja“ an.
 
 Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an.
 
 #### Empfohlene Schulung wahrgenommen
 
-**Folgedokumentation** möglich und hier verpflichtend
-
-Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die  Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher  nur im Rahmen einer
+Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die  Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher  nur im Rahmen einer **Folgedokumentation** möglich u
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
+
+aktuell- eine osteoporosespezif
+
+bitte Keine osteoporosespezifische Me-
+
+**Erstdokumentation**
+
+Umsetzung wesentlicher
+
+nd hier verpflichtend
+
+möglich und hier ver-
+
+i-
+
+an, wenn Ihrer
 
 
 ---

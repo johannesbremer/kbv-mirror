@@ -349,9 +349,7 @@ Tabelle 37: Element existenzbeendigung .........................................
 
 Tabelle 38: Element letztes_quartal ............................................................................. 33
 
-r .....................................................
-
-Tabelle 39: Element aufnehmender_kostentraege 33
+Tabelle 39: Element aufnehmender_kostentraeger ..................................................... 33
 
 Tabelle 40: Element adresse_liste ................................................................................. 34
 
@@ -413,9 +411,7 @@ Tabelle 68: Element ortssuchname ...............................................
 
 Tabelle 69: Element gebuehrenordnung........................................................................... 55
 
-...................................................
-
-Tabelle 70: Element kt_abrechnungsbereich_liste 55
+Tabelle 70: Element kt_abrechnungsbereich_liste ................................................... 55
 
 Tabelle 71: Element kt_abrechnungsbereich ................................................................ 56
 
@@ -428,39 +424,39 @@ Tabelle 73: Element gueltigkeit ................................................
 
 Tabelle 74: Element unz_kv_geltungsbereich_liste ................................................. 57
 
-unz_kv_geltungsbereich ..............................................................
-
-Tabelle 75: Element 58
+Tabelle 75: Element unz_kv_geltungsbereich .............................................................. 58
 
 
 ---
 
 # 1 Einleitung
 
-Ele-
+Die folgende Satzbeschreibung definiert einen Überblick über die Inhalte der Schnittstell e für  die Kostenträgerstammdatei. Die Angabe des Pfades für jeden Dateninhalt als XML  ment oder  Attribut erleichtert eine Orientierung innerhalb der Gliederung der Schnittstellen-
 
-Die folgende Satzbeschreibung definiert einen Überblick über die Inhalte der Schnittstell e für  die Kostenträgerstammdatei. Die Angabe des Pfades für jeden Dateninhalt als XML  Attribut erleichtert eine Orientierung innerhalb der Gliederung der Schnittstellen-
+beschreibung.
 
-ment oder  beschreibung.
-
-Die Elemente der Schnittstelle werden zur Vereinfachung des Verständnisses in diesem Do- kument visualisiert. Grundsätzlich liegt für jedes dargestellte Element der Schnittstelle eine
-
-XML  Werkzeugen dienen.
-
-textliche Erläuterung vor. Dies gilt nicht für Elemente, in deren Namen das Wort “_liste“ ent- halten ist, da diese Elemente keinen Inhalt übermitteln, sondern zur automatisierten Verarbei- tungssteuerung mit Standard
+Die Elemente der Schnittstelle werden zur Vereinfachung des Verständnisses in diesem Do- kument visualisiert. Grundsätzlich liegt für jedes dargestellte Element der Schnittstelle eine  textliche Erläuterung vor. Dies gilt nicht für Elemente, in deren Namen das Wort “_liste“ ent- halten ist, da diese Elemente keinen Inhalt übermitteln, sondern zur automatisierten Verarbei- tungssteuerung mit Standard
 
 # 2 Darstellung des Wurzelelements ehd
 
-Die Schnittstelle der Kostenträgerstammdatei ist von der EHD  Schnittstelle abgeleitet und
-
-basiert somit auf der grundsätzlichen Struktur der EHD  Richtlinie [KBV_ITA_VGEX_eHD]
-
-. Dementsprechend heißt das Wurzelelement ehd und umfasst die gesamte Struktur
+Die Schnittstelle der Kostenträgerstammdatei ist von der EHD  basiert somit auf der grundsätzlichen Struktur der EHD  . Dementsprechend heißt das Wurzelelement
 
 der Schnittstelle.
 
 | diagram |  |
 |---|---|
+
+XML  Werkzeugen dienen.
+
+ehd
+
+Schnittstelle abgeleitet und
+
+Richtlinie [KBV_ITA_VGEX_eHD]
+
+und umfasst die gesamte Struktur
+
+Ele-
 
 
 ---
@@ -690,9 +686,9 @@ der XML-Datei verwendet werden. Bei der Entwicklung einer konkreten Schnittstell
 | diagram |  |
 |---|---|
 | namespace urn:ehd/001 |  |
-| annotation | documentation |
+| annotation | documentation Schlüsseltabellen |
 
-Schlüsseltabellen**Tabelle 15: Element keytabs**
+**Tabelle 15: Element keytabs**
 
 
 ---
@@ -918,13 +914,11 @@ Z8) -AEN-DATUM- DATUM-Z8) - Stammsatzeröffnung oder Änderung (V=KK -MASCH--10-
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element vertrags_kv enthält die KV-Nummer der KV, die mit der Kasse  zahlungspflichtigen KV-Landesstelle.
+Beschreibung: Das Element vertrags_kv
 
 den Vertrag geschlossen hat, und ist identisch mit der
 
-Alte Feldbezeichnung: Feldkennungen VERT-KV-X3 und ZPFL-KV-Z2 (DA 100, 105, 900,
-
-905; Zusammenlegung der Felder, da Inhalte identisch
+Alte Feldbezeichnung: Feldkennungen  905; Zusammenlegung der Felder, da Inhalte identisch
 
 Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüsseltabelle ist.
 
@@ -934,28 +928,38 @@ Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüs
 | attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required         documentation VERT-KV-CODE  S   derived by: optional |
 | annotation | documentation Vertragsschließende KV (VERT-KV-X3) |
 
-**vertrags_kv**
-
-**Tabelle 25: Element**
+**Tabelle 25: Element vertrags_kv**
 
 ### 3.1.4 Element abrechnungsstelle
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element abrechnungsstelle enthält die KV -Nummer der KV, die für
+Beschreibung: Das Element abrechnungsstelle
 
 die Aufteilung der Gesamtvergütung zuständig ist.
 
-Alte Feldbezeichnung: Feldkennung NR-GES-VERG-KVA-Z2 (DA 100, 105, 900, 905)
+Alte Feldbezeichnung: Feldkennung NR-GES-VERG-KVA-Z2
 
--Nummer eine gültige Nummer laut Schlüsseltabelle ist.
-
-Prüfung: Es wird geprüft, ob diese KV
+Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüsseltabelle ist.
 
 | diagram |  |
 |---|---|
 | namespace urn:ehd/kts/001 |  |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V   kts:kvnr_typ required         documentation |
+
+enthält die KV-Nummer der KV, die mit der Kasse
+
+VERT-KV-X3
+
+zahlungspflichtigen KV-Landesstelle.
+
+und
+
+enthält die KV -Nummer der KV, die für
+
+ZPFL-KV-Z2 (DA 100, 105, 900, 905)
+
+(DA 100, 105, 900,
 
 xs:string
 
@@ -1516,13 +1520,13 @@ Frühere Datenart: 100, 105, 900, 905
 
 Frühere Datenart: 100, 105, 900, 905
 
-dav ist für jede existierende der drei Datenannahmestellen (ge-
+Beschreibung: Das Element dav ist für jede existierende der drei Datenannahmestellen (ge-
 
-Beschreibung: Das Element  mäß dem DAV -Typ) einer Krankenkasse Bund, Land und Kasse einmal vorhanden. Es ist  aber auch möglich, dass nur eine Datenannahmestelle angegeben wird.
+mäß dem DAV -Typ) einer Krankenkasse Bund, Land und Kasse einmal vorhanden. Es ist  aber auch möglich, dass nur eine Datenannahmestelle angegeben wird.
 
-dav_liste darf jede Datenannahmestellen nur einmal im R-Attribut
+Prüfung: Innerhalb einer dav_liste darf jede Datenannahmestellen nur einmal im R-Attribut
 
-Prüfung: Innerhalb einer  des Elementes dav auftreten: - ASV
+des Elementes dav auftreten: - ASV
 
 verteilstellen - EFN
 
@@ -1944,7 +1948,7 @@ Alte Feldbezeichnung: Feldkennung  S8
 
 | diagram |  |
 |---|---|
-| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: xs:string required         documentation 1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  RT   derived by: required         documentation Bewertungsfeldnummer (1-50)  DN   derived by: xs:string optional         documentation Anzahl der Nachkommastellen  U   derived by: xs:string required         documentation 1 - Punktwert, 2 - Quote |
+| attributes | Name   Type   Use   Default   Fixed   Annotation V   derived by: xs:string required         documentation 1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  RT   derived by: required         documentation Bewertungsfeldnummer (1-50)  DN   derived by: xs:string optional         documentation   U   derived by: xs:string required         documentation 1 - Punktwert, 2 - Quote |
 | annotation | documentation 1-BEW-S9, 2-BEW-S9 ... 50-BEW-S9 documentation Bewertungsfeld |
 
 bewertungsfeld
@@ -1965,7 +1969,7 @@ bis 50-BEW-VZ 4,47 Cent
 
 5,52 Cent
 
-xs:positiveInteger ve dem Vorzeichen und 50-BEW-
+xs:positiveInteger ve dem Vorzeichen Anzahl der Nachkommastellenund 50-BEW-
 
 
 ---

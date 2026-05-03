@@ -17,9 +17,7 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 4**
-
-**1**
+**1** **FELDABBILDUNG ZUR DOKUMENTATION DER FRÜHERKENNUNG VON ZERVIX-KARZINOMEN 4**
 
 **2** **REFERENZIERTE DOKUMENTE**
 
@@ -100,7 +98,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |  |
 | 10 | Kostenträgername | P1 | 4134_Kostentraegername | 4134 | Kostentraegername |  |  |  |
 | 11 | WOP-Kennzeichen | P2 | 3116_WOP | 3116 | WOP |  |  |  |
-| 12 |  | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |  |
+| 12 | Versichertennummer oder | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |  |
 | 13 | Versichertenart | P11 | 3108_Versichertenart | 3108 | Versichertenart |  |  |  |
 | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 | Besondere Personengruppen | 3 | besondere Personengruppe |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
@@ -117,7 +115,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 |  | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |
 |  | 10 | Kostenträgername | P1 | 4134_Kostentraegername | 4134 | Kostentraegername |  |  |
 |  | 11 | WOP-Kennzeichen | P2 | 3116_WOP | 3116 | WOP |  |  |
-|  | 12 |  | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |
+|  | 12 | Versichertennummer oder | P10 | 3119_Versicherten_ID | 3119 | Versicherten_ID | 4 | eGK-Versichertennummer |
 |  | 13 Versichertenart | P11 3108_Versichertenart 3108 | | | | | | |
 | Versichertenart |  |  |  | 14 | Besondere Personengruppe | P12 | 4131_BesonderePersonengruppe | 4131 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
@@ -210,7 +208,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im |  | | | | | |
 | Dokumentationsbogens der Wert „1“ zu | 8 | Versicherungsschutz Ende | P8 | | | | | |
 
-Nummer Versichertennummer oder Versicherten_ID oder SKT-Zusatz Nummer z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen.
+Nummer Versicherten_ID oder SKT-Zusatz Nummer z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „10.2“ des IQTIG- setzen.
 
 ---
 
@@ -348,7 +346,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 |---|---|---|---|---|---|---|---|---|
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | | | | | | | | |
-| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  |
+| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 |
 | Auftragsart | 15 | Art und Anlass der | WENN im LDT3 oder im BFB-Barcode |  | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |  |
@@ -366,7 +364,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-|  | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
+| Fachliche Daten | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
 |  | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening |
 | 8630 | Auftragsart | 15 | Art und Anlass der | WENN im LDT3 oder im BFB-Barcode |  | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |
 |  | bogens der Wert „2“ zu setzen. |  | der Wert „2“ gesetzt werden. | M39_80 | 8630_auftragart_abklärungsdiagnos | 33 | Auftrag | M39_81 |
@@ -383,7 +381,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-|  | | | | | | | | |
+| Fachliche Daten | | | | | | | | |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | | | | | | | |
 | M39_3 | 0000_alterskategorie_ab_35_jahre | | | | | | | |
@@ -396,11 +394,11 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | | | | | | | |
-| P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  | 31 |
+| P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten | 31 |
 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  | M39_2 0000_alterskategorie_30_34_jahre M39_3 0000_alterskategorie_ab_35_jahre 32 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 30 PostfachWohnsitzländercode P7 0000_Wohnsitzlaendercode_PLZ_Or |
-|  |  |  |  |  |  | 31 | Alterskategorie | M39_1 |
+|  |  |  |  |  | Fachliche Daten | 31 | Alterskategorie | M39_1 |
 | 0000_alterskategorie_20_29_jahre | 3322 | | | | | | | |
 | Alterskategorie |  | | | | | | | |
 |  |  | | | | | | | |
@@ -415,7 +413,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-|  | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
+| Fachliche Daten | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |
 |  | M39_2 | | | | | | | |
 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart |
 | 15 | Art und Anlass der | | | | | | | |
@@ -431,7 +429,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
 | 30 | | | | | | | | |
-| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |  |
+| PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  | Fachliche Daten |
 | 31 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  |
 | M39_2 | 0000_alterskategorie_30_34_jahre | | | | | | | |
 | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart | 15 |
@@ -444,7 +442,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 |  |  |  |  |  |  |  |  |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 31 |
+| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | Fachliche Daten 31 |
 | Alterskategorie | M39_1 | | | | | | | |
 | 0000_alterskategorie_20_29_jahre | 3322 | | | | | | | |
 | Alterskategorie |  |  |  | M39_2 | 0000_alterskategorie_30_34_jahre | M39_3 | 0000_alterskategorie_ab_35_jahre | 32 |
@@ -460,7 +458,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 |  |  |  |  |  |  |  |  |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 29 | Postfach | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  |  |
-| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | 31 |
+| 30 | PostfachWohnsitzländercode | P7 | 0000_Wohnsitzlaendercode_PLZ_Or |  |  |  |  | Fachliche Daten 31 |
 | Alterskategorie | M39_1 | 0000_alterskategorie_20_29_jahre | 3322 | Alterskategorie |  |  |  | M39_2 0000_alterskategorie_30_34_jahre M39_3 |
 | 0000_alterskategorie_ab_35_jahre | 32 | Auftragsart | M39_79 | 8630_auftragsart_primaerscreening | 8630 | Auftragsart | 15 | Art und Anlass der WENN im LDT3 oder im BFB-Barcode |
 | mentationsbogens der Wert „1“ zu |  | tationsbogens der Wert „2“ gesetzt |  | bogens der Wert „2“ zu setzen. |  | der Wert „2“ gesetzt werden. | M39_80 | 8630_auftragart_abklärungsdiagnos 33 Auftrag M39_81 8629_auftrag_zytologische_untersu |
@@ -470,7 +468,7 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Doku- setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „16“ des IQTIG-Dokumen- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Dokumentations- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld „16“ des IQTIG-Dokumentationsbogens
+tik chung 16 Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Doku- setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „16“ des IQTIG-Dokumen- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „16“ des IQTIG-Dokumentations- ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld „16“ des IQTIG-Dokumentationsbogens
 
 ---
 
@@ -479,7 +477,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | | | | | | | | |
 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -496,7 +494,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
-| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 |
+| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 |
 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -514,7 +512,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
 | Datum der letzten | | | | | | | | |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |  |  |
@@ -527,13 +525,13 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | | | | | | | |
 | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten | Jahresangabe aus dem BFB-Barcode |
-| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. IQTIG-Dokumentationsbogens gesetzt. |
+| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. IQTIG-Dokumentationsbogens gesetzt. |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen | M39_5 7296_wiederholungsuntersuchung_ 35 Datum der letzten Untersuchung |
 | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe |
 | M39_8 | 7414_gruppe_des_letzten_befunde | | | | | | | |
 | 7414 | Gruppe | | | | | | | |
-| 20.1 | Liegt aus der letzten | | | | | | | |
+| 19 | Liegt aus der letzten | | | | | | | |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |
 |  |  | | | | | | | |
 |  |  |  |  |  |  |  |  |  |
@@ -545,7 +543,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 |
-| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 |
+| Datum der letzten | Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 |
 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode | | | | | | | |
 |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |
 |  |  | | | | | | | |
@@ -562,7 +560,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | | | | | | | | |
 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 | Datum der letzten |
-| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten |
+| Jahresangabe aus dem BFB-Barcode | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten |
 | Wird im Feld „Gruppe“ im BFB-Barcode |  | | | | | | | |
 | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -577,7 +575,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 Datum der letzten Jahresangabe aus dem BFB-Barcode |
 | 36 | Gruppe | | | | | | | |
 | M39_8 | 7414_gruppe_des_letzten_befunde | | | | | | | |
-| 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |
+| 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode |  | IQTIG-Dokumentationsbogens gesetzt. |  | IQTIG-Dokumentationsbogens gesetzt. |
 |  |  | | | | | | | |
 |  |  | | | | | | | |
 |  |  |  |  |  |  |  |  |  |
@@ -591,7 +589,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 34 | Wiederholungsuntersuchung | M39_4 | 7296_wiederholungsuntersuchung_ | 7296 | Wiederholungsuntersuchung | 16 | Liegt ein Befund bzw. liegen |  |
 | M39_5 | 7296_wiederholungsuntersuchung_ | 35 | Datum der letzten Untersuchung | M39_6 | 7297_datum_der_letzten_untersuc | 7297 | Datum der letzten | 18 Datum der letzten Jahresangabe aus dem BFB-Barcode |
-| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20.1 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. |
+| 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 19 | Liegt aus der letzten | Wird im Feld „Gruppe“ im BFB-Barcode IQTIG-Dokumentationsbogens gesetzt. |
 |  | IQTIG-Dokumentationsbogens gesetzt. |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | | | | | |
@@ -600,7 +598,7 @@ Fachliche Daten tik chung 16 Untersuchung der Wert „A“ in Auftragsart übert
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? Liegt ein Vorbefund bzw. liegen Vorbefunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? 22 vorangegangenen 19 vorangegangenen Untersuchung ein zytologischer Befund nach Münchener Nomenklatur III vor? Zytologischer Vorbefund liegt vor muss automatisch auf einen vierstelligen Wert transformiert werden. Im Rahmen der IQTIG Spezifikation muss das Format MM.JJJJ übertragen werden. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird der Wert „1“ des Feldes „20.1“ des oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „20.1“ des
+nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? Liegt ein Vorbefund bzw. liegen Vorbefunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? 22 vorangegangenen 20.1 vorangegangenen Untersuchung ein zytologischer Befund nach Münchener Nomenklatur III vor? Zytologischer Vorbefund liegt vor muss automatisch auf einen vierstelligen Wert transformiert werden. Im Rahmen der IQTIG Spezifikation muss das Format MM.JJJJ übertragen werden. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird der Wert „1“ des Feldes „20.1“ des oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „20.1“ des
 
 ---
 
@@ -610,9 +608,9 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 |  | | | | | | | | |
 | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
+| 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 |
-| Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 |
+| Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 |
 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 |
 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -627,9 +625,9 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 |
-| 3313_hpv_impfung_unklar | 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |
+| 3313_hpv_impfung_unklar | 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |
 |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis |
-| 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder |
+| 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales |
 | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 |  |  |  | | | | | | |
@@ -645,11 +643,11 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | | | | | | | | |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | Liegt ein HPV-HR-Testergebnis | | | | | | | |
+| 38 | vor? | | | | | | | |
 | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | | | | | | | |
 | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des M39_16 3316_hpv_hr_testergebnis_des_vor 3316 HPV-HR-Testergebnis 22 Vorbefund: HPV-Status Es können vom BFB-Barcode oder dem M39_17 |
 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | | | | | | | |
-| 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | | | |
+| 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | | | |
 | Gyn. OP, Strahlen oder | 30 | | | | | | | |
 | Zustand nach |  | | | | | | | |
 | M39_20 | | | | | | | | |
@@ -657,19 +655,19 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG | | | | | | | |
 |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung | 13 |
-| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 Liegt ein HPV-HR-Testergebnis M39_13 3314_hpv_hr_testergebnis_liegt_ni 3314 |
+| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 vor? M39_13 3314_hpv_hr_testergebnis_liegt_ni 3314 |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode “ des IQTIG IQTIG-Dokumentationsbogens gesetzt. |
 | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung | 13 | HPV-Impfung |  |
 | M39_10 | 3313_hpv_impfung_unvollstaendig | | | | | | | |
 | M39_11 | 3313_hpv_impfung_keine | | | | | | | |
 | M39_12 | 3313_hpv_impfung_unklar | | | | | | | |
-| 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
+| 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | | | | | | | |
 | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem |
 | M39_17 | 3316_hpv_hr_testergebnis_des_vor | | | | | | | |
 | M39_18 | 3316_hpv_hr_testergebnis_des_vor | | | | | | | |
-| 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  |
+| 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  |
 | M39_20 | 7336_gyn_op_strahlen_oder_chem | | | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
@@ -677,11 +675,11 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 |
 | HPV-Impfung | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 |
 | 3313_hpv_impfung_unklar | 38 | | | | | | | |
-| Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 |
+| vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 |
 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | | | | | | | |
 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 |
 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | | | | | | | |
-| 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |
+| 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | Zustand nach |
 |  | M39_20 | | | | | | | |
 | 7336_gyn_op_strahlen_oder_chem | | | | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
@@ -693,10 +691,10 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 |  | | | | | | | | |
 | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 | HPV-Impfung |
 | 13 | HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar |
-| 38 | Liegt ein HPV-HR-Testergebnis | | | | | | | |
+| 38 | vor? | | | | | | | |
 | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo |
 | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem |
-| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
+| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
 | Gyn. OP, Strahlen oder | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 | Gyn. OP, Strahlen oder | M39_21 |
 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -707,13 +705,13 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 HPV-Impfung 13 |
 | HPV-Impfung |  | | | | | | | |
 | M39_10 | 3313_hpv_impfung_unvollstaendig | | | | | | | |
-| M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 | Liegt ein HPV-HR-Testergebnis | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 |
+| M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 | vor? | M39_13 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 |
 | HPV-HR-Test | 21 | | | | | | | |
 | Liegt aus der letzten |  | | | | | | | |
 | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 | HPV-HR-Testergebnis des | M39_16 | 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 |
 | Vorbefund: HPV-Status | | | | | | | | |
 | Es können vom BFB-Barcode oder dem | | | | | | | | |
-| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Gyn. OP, Strahlen oder | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
+| M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 | 3316_hpv_hr_testergebnis_des_vor | 40 | Chemotherapie des Genitales | M39_19 | 7336_gyn_op_strahlen_oder_chem | 7336 |
 | Gyn. OP, Strahlen oder | | | | | | | | |
 | 30 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem 7337 Gyn. OP, Strahlen oder |
 |  |  |  |  |  |  |  |  |  |
@@ -721,16 +719,16 @@ nein ja 19 Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegan
 | KBV BFB FELD | KBV DM FELD | KBV QMS LDT FELD | IQTIG FELD | | | | | |
 | 36 | Gruppe | M39_8 | 7414_gruppe_des_letzten_befunde | 7414 | Gruppe | 20 | Zytologischer Vorbefund - | Wird im Feld „Gruppe“ im BFB-Barcode |
 |  | “ des IQTIG |  | IQTIG-Dokumentationsbogens gesetzt. | 37 | HPV-Impfung | M39_9 | 3313_hpv_impfung_vollstaendig | 3313 HPV-Impfung 13 |
-| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 Liegt ein HPV-HR-Testergebnis M39_13 |
+| HPV-Impfung |  | M39_10 | 3313_hpv_impfung_unvollstaendig | M39_11 | 3313_hpv_impfung_keine | M39_12 | 3313_hpv_impfung_unklar | 38 vor? M39_13 |
 | 3314_hpv_hr_testergebnis_liegt_ni | 3314 | HPV-HR-Test | 21 | Liegt aus der letzten |  | M39_14 | 3314_hpv_hr_testergebnis_liegt_vo | 39 HPV-HR-Testergebnis des M39_16 |
-| 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 3316_hpv_hr_testergebnis_des_vor 40 Gyn. OP, Strahlen oder M39_19 |
+| 3316_hpv_hr_testergebnis_des_vor | 3316 | HPV-HR-Testergebnis | 22 | Vorbefund: HPV-Status | Es können vom BFB-Barcode oder dem | M39_17 | 3316_hpv_hr_testergebnis_des_vor | M39_18 3316_hpv_hr_testergebnis_des_vor 40 Chemotherapie des Genitales M39_19 |
 | 7336_gyn_op_strahlen_oder_chem | 7336 | Gyn. OP, Strahlen oder | 30 | | | | | |
 | Zustand nach |  | M39_20 | 7336_gyn_op_strahlen_oder_chem | | | | | |
 | 41 | Gyn. OP, Strahlen oder | M39_21 | 7337_gyn_op_strahlen_oder_chem | 7337 | Gyn. OP, Strahlen oder |  |  |  |
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche Chemotherapie des Genitales Chemotherapie des Genitales – Welche? 23 nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
+Liegt ein HPV-HR-Testergebnis Vorbefundes Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche – Welche? 23 nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „23- Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „23“ des LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
 
 ---
 
@@ -1002,7 +1000,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |
-|  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |
+| 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |
 |  |  | Zusammenfassende Empfehlung |  |  |  |  |  |  |
 | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 | 7415_zytologische_kontrolle |
 |  |  |  |  |  |  | 7415 | Zytologische Kontrolle 40 | Welche Kontrolle/Abklärung Ist die zytologische Kontrolle gesetzt, |
@@ -1019,7 +1017,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 |  | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 |
 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 |
 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |
-|  |  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |
+|  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |
 |  |  |  | Zusammenfassende Empfehlung |  |  |  |  |  |
 |  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 |
 | 7415_zytologische_kontrolle | 7415 Zytologische Kontrolle | 40 Welche Kontrolle/Abklärung Ist die zytologische Kontrolle gesetzt, | | | | | | |
@@ -1037,7 +1035,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | | | | | | | |
 | 37 | HPV-Test-Ergebnis | | | | | | | |
-|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden 3317 HPV-Typ 16/18 38 Liegt HPV-Typ 16 oder HPV-   3317_virustyp_16_18_nicht_differe |
+|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden 3317 HPV-Typ 16/18 38 Liegt HPV-Typ 16 oder HPV-  3317_virustyp_16_18_nein 3317_virustyp_16_18_nicht_differe |
 | Bemerkungen | M39_65 | | | | | | | |
 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  | | | |
 | Zusammenfassende Empfehlung |  | | | | | | | |
@@ -1056,7 +1054,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 | 3316 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | | | | | | | |
-| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |
+| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |
 |  | Bemerkungen | | | | | | | |
 | M39_65 | 8167_bemerkungen | | | | | | | |
 | 8167 | Zusaetzliche_Informationen |  |  |  | Zusammenfassende Empfehlung |  |  |  |
@@ -1069,7 +1067,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | | | | | | | |
 | HPV-HR-Testergebnis | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  |
 | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | | | | | | | |
-| 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |  |
+| 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  |
 | Bemerkungen | M39_65 | | | | | | | |
 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  | Zusammenfassende Empfehlung |  |  |
 |  |  | | | | | | | |
@@ -1085,7 +1083,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | “ des IQTIG Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | | | | | | | |
 | 37 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 |
-| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |
+| M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |
 |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  |
 | Zusammenfassende Empfehlung |  |  |  |  |  |  | 39 | Empfohlene Maßnahme |
 | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 | 7415_zytologische_kontrolle | 7415 | Zytologische Kontrolle |
@@ -1101,7 +1099,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 | M39_63 | 3316_hpv_hr_testergebnis_des_zyt | | | | | | | |
 |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden | 3317 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |
-|  | | | | | | | | |
+| 3317_virustyp_16_18_nein | | | | | | | | |
 | 3317_virustyp_16_18_nicht_differe | | | | | | | | |
 |  | Bemerkungen | M39_65 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  |
 | Zusammenfassende Empfehlung | | | | | | | | |
@@ -1113,14 +1111,14 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | HPV-HR-Testergebnis | 36 | Wurde ein HPV-Test | Wenn einer der jeweiligen “ des IQTIG Dokumentationsbogen |
 | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316 HPV-HR-Testergebnis 37 |
 | HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 3317_virustyp_16_18_vorhanden 3317 |
-| HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  |  | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 8167_bemerkungen 8167 Zusaetzliche_Informationen |
+| HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65 8167_bemerkungen 8167 Zusaetzliche_Informationen |
 |  |  | Zusammenfassende Empfehlung |  | | | | | |
 |  |  |  |  | | | | | |
 |  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden |  | Dokumentationsbogen der Wert „0“ |  | zytologische Kontrolle | M39_66 7415_zytologische_kontrolle 7415 |
 | Zytologische Kontrolle | 40 | Welche Kontrolle/Abklärung | Ist die zytologische Kontrolle gesetzt, | | | | | |
 |  |  |  | zytologische Kontrolle nach | | | | | |
 
-zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efundes ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar 3317_virustyp_16_18_ja 3317_virustyp_16_18_nein nzierbar entzuendungsbehandlung Münchner Nomenklatur III durchgeführt? Typ 18 vor? wird empfohlen? Informationen im DiMus oder LDT3 übertragen wird, dann kann im Feld „18- der Wert „1“ gesetzt werden. Informationen übermittelt wurden, dann kann im Feld „38“ des IQTIG- gesetzt werden. dann ist im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „38“ zu übertragen.
+zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efundes ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar 3317_virustyp_16_18_ja nzierbar entzuendungsbehandlung Münchner Nomenklatur III durchgeführt? Typ 18 vor? wird empfohlen? Informationen im DiMus oder LDT3 übertragen wird, dann kann im Feld „18- der Wert „1“ gesetzt werden. Informationen übermittelt wurden, dann kann im Feld „38“ des IQTIG- gesetzt werden. dann ist im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „38“ zu übertragen.
 
 ---
 
@@ -1256,7 +1254,7 @@ zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efunde
 
 2 REFERENZIERTE DOKUMENTE
 
-| REFERENZIERTE DOKUME |  |
+| REFERENZIERTE DOKUMENTE |  |
 |---|---|
 | Referenz | Dokument |
 | [1] | [KBV_ITA_VGEX_Technisches_Handbuch_BFB]  Technisches Handbuch Blankoformularbedruckung |
@@ -1264,7 +1262,7 @@ zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efunde
 | [3] | [IQTIG-TechDok]  Technischen Dokumentation zu PB-Spezifikationen für |
 | [4] | [EXT_ITA_VGEX_LDT 3_2_X_Gesamtdokument]  LDT 3 Satzbeschreibung |
 
-Ansprechpartner:
+**Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 
@@ -1272,4 +1270,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-NTE Format Leistungserbringer der oKFE-RL 2021 2022
+Format Leistungserbringer der oKFE-RL 2021 2022

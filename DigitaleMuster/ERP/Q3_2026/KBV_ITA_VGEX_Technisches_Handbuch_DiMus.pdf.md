@@ -4583,12 +4583,12 @@ Qualifikation der verant- wortlichen Person
 
 Typ der verantwortlichen  Person
 
-Berufsbezeichnung der  verantwortlichen Person
-
-| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |  |
-|---|---|---|---|---|
-| der verantwortlichen Per- |  | ummer.code.coding.code |  |  |
-| son |  |  |  |  |
+|  | 58 | qualification:Berufsbezeichnung |  |
+|---|---|---|---|
+|  |  | .code.text |  |
+| ASV-Fachgruppennummer | 149 | qualification:ASV-Fachgruppenn |  |
+| der verantwortlichen Per- |  | ummer.code.coding.code |  |
+| son |  |  |  |
 
 | Identifikator der verant- | 52 | Identifier |  |  |
 |---|---|---|---|---|
@@ -4598,11 +4598,7 @@ Berufsbezeichnung der  verantwortlichen Person
 
 51
 
-58
-
 qualification:Typ.code
-
-qualification:Berufsbezeichnung .code.text
 
 Arztnummer der verant- 52a
 
@@ -4624,7 +4620,7 @@ DANN  kann dieser Block vorhanden  sein.
 
 ANSONSTEN  darf dieser Block nicht vorhanden  sein.
 
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“  ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
+WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ und das Feld 51 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“  ist und das Feld 149 Tabelle 52 nicht vorhanden ist,  DANN  ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 149 gemäß Tabelle 52 vor- handen ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. Berufsbezeichnung der verantwortlichen Person WENN das Feld 51 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 52 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. WENN  der Block 52 gemäß Tabelle 52 vor- handen ist und das Feld 51 gemäß
 
 
 ---
@@ -4798,9 +4794,10 @@ ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **Daten**
 
-| Identifikator der Einrich- | 61 | identifier |  |  |
-|---|---|---|---|---|
-| tung |  |  |  |  |
+| Identifikator der Einrich- |  | 61 |  |  | identifier |  | WENN |
+|---|---|---|---|---|---|---|---|
+
+tung
 
 BSNR
 
@@ -4823,6 +4820,12 @@ Standortnummer
 **FHIR®-Element**
 
 **Bedingung**
+
+das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
+
+gemäß Tabelle 52 gleich "00" oder  "01" oder "03" oder "04" ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  ist dieses Feld optional.
 
 identifier:Betriebsstaettennum WENN
 
@@ -4852,7 +4855,7 @@ gemäß Tabelle 52 nicht vorhanden  sind,  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
-WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich "00" oder "01" oder "03" oder "04" ist, DANN ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional. identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
+identifier:Standortnummer WENN  der Block 61 gemäß Tabelle 52 vor- handen ist und die Felder 61a gemäß  Tabelle 52 und 61b gemäß Tabelle  52 und 61c gemäß Tabelle 52 nicht  vorhanden sind,  DANN  ist dieses Feld Pflicht.
 
 
 ---
@@ -5235,17 +5238,14 @@ VersichertenID 19a identifier:versichertenId WENN der Versicherte sich elektroni
 
 **KBV_PR_FOR_PATIENT**
 
-| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |
-|---|---|---|---|
-| cherten |  | Mapping | in diesem Feld ein Datum angege- |
-|  |  | birthDate | ben wird, |
-|  |  | Wenn Wert nicht vorhanden, | DANN |
-|  |  | gilt Mapping | darf das Datum nicht nach dem |
-|  |  | birthDate.extension:data-absen | Ausstellungsdatum liegen. |
-|  |  | t-reason.value[x]:valueCode = |  |
-|  |  | unknown |  |
+| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |  |
+|---|---|---|---|---|
 
-Straßenadresse des Versi- cherten
+cherten
+
+| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
+|---|---|---|---|---|
+| cherten |  |  |  |  |
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -5257,9 +5257,7 @@ Straßenname der Versi- chertenanschrift
 
 Hausnummer der Versi- chertenanschrift
 
-Anschriftenzusatz der Ver- sichertenanschrift 27
-
-28
+Anschriftenzusatz der Ver- sichertenanschrift 28
 
 29
 
@@ -5271,11 +5269,23 @@ Anschriftenzusatz der Ver- sichertenanschrift 27
 
 33
 
-address:Strassenanschrift
+Mapping
 
-WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
+in diesem Feld ein Datum angege-
 
-ANSONSTEN  darf dieser Block nicht angegeben  werden.
+birthDate
+
+ben wird,
+
+Wenn Wert nicht vorhanden, DANN
+
+gilt Mapping
+
+darf das Datum nicht nach dem
+
+birthDate.extension:data-absen Ausstellungsdatum liegen.
+
+t-reason.value[x]:valueCode =  unknown
 
 address:Strassenanschrift.coun
 
@@ -5307,7 +5317,7 @@ address:Strassenanschrift.line[0
 
 Wenn Straßenname und/oder
 
-Hausnummer vorhanden, gilt  Mapping
+WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden. Hausnummer vorhanden, gilt  Mapping
 
 
 ---

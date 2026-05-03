@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2407/36/395
 
@@ -121,7 +121,7 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/169/2410/36/729 | 30.09.2027 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2408/36/706
 
@@ -317,7 +317,7 @@ i/med Billing Dorner GmbH & Co. KG Neuenburger Straße 4 79379 Müllheim Interne
 |---|---|---|---|
 |  | Y/169/2407/36/561 | 30.06.2027 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2408/36/602
 
@@ -351,7 +351,7 @@ Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen
 |---|---|---|---|
 |  | Y/169/2409/36/223 | 31.08.2027 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2507/36/769
 
@@ -385,7 +385,7 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 |---|---|---|---|
 |  | Y/169/2505/36/478 | 30.04.2028 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2408/36/421
 
@@ -611,7 +611,7 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2409/36/375
 
@@ -645,7 +645,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 |---|---|---|---|
 |  | Y/169/2408/36/256 | 31.07.2027 |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2406/36/243
 
@@ -731,7 +731,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2312/37/251
 
@@ -991,7 +991,7 @@ MEDI_LINE Strzata, Dr. med. Norbert Kirschgarten 1 99510 Kapellendorf proLAB Sys
 |---|---|---|---|
 |  | Y/169/2311/36/457 | 31.10.2026 |  |
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026
 
 Y/169/2410/36/498
 
@@ -1019,4 +1019,4 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 |  |  | **gültig bis** | **Betriebssysteme** |
 |  | Y/169/2509/36/768 | 31.08.2028 |  |
 
-tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 25. April 2026
+tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS WindowsSeite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 02. Mai 2026

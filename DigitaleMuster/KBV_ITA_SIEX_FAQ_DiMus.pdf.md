@@ -10,9 +10,7 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
-# FAQ FÜR SOFTWAREHERSTELLER ZU
-
-# DIGITALEN MUSTERN IM FORMAT FHIR
+# FAQ FÜR SOFTWAREHERSTELLER ZU  DIGITALEN MUSTERN IM FORMAT FHIR
 
 ## [KBV_ITA_SIEX_FAQ_DIMUS]
 
@@ -33,49 +31,41 @@ Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens 
 
 # EINFÜHRUNG
 
-digitalen Muster im FHIR®-Format
+Dieses Dokument richtet sich an Hersteller von Software, welche die digitalen Muster im FHIR®-Format
 
-Dieses Dokument richtet sich an Hersteller von Software, welche die  das elektronische Rezept (eRP)
+bspw. die elektronische Arbeitsunfähigkeitsbescheinigung (eAU) oder das elektronische Rezept (eRP)
 
-bspw. die elektronische Arbeitsunfähigkeitsbescheinigung (eAU) oder umsetzen. Es enthält Antworten auf häufig gestellte Fragen.
+umsetzen. Es enthält Antworten auf häufig gestellte Fragen.
 
 # FRAGEN UND ANTWORTEN ZU TECHNISCHEN VORGABEN
 
-## -Dateien überprüfen?
-
-## Frage: Wie kann ich die Validität meiner XML
+## Frage: Wie kann ich die Validität meiner XML-Dateien überprüfen?
 
 ### Antwort der KBV:
 
--Dateien zu prüfen. In diesem Dokument wird
+Es gibt verschiedene Möglichkeiten, die Validität Ihrer XML-Dateien zu prüfen. In diesem Dokument wird
 
-Es gibt verschiedene Möglichkeiten, die Validität Ihrer XML beispielhaft auf die Validierung mit dem HL7 Validator und dem Validator der Simplifier-Plattform
+beispielhaft auf die Validierung mit dem HL7 Validator und dem Validator der Simplifier-Plattform
 
 eingegangen.
 
-([https://zertifizierungsportal2.kbv.de)](https://zertifizierungsportal2.kbv.de)) eine
+Zusätzlich bietet die KBV über das Zertifizierungsportal ([https://zertifizierungsportal2.kbv.de)](https://zertifizierungsportal2.kbv.de)) eine
 
-Zusätzlich bietet die KBV über das Zertifizierungsportal Testdatenvalidierung der im Rahmen der Zertifizierungsverfahren eAU und eRP nachzuweisenden XML-
+Testdatenvalidierung der im Rahmen der Zertifizierungsverfahren eAU und eRP nachzuweisenden XML-
 
-FHIR-Instanzen entsprechenden der zugehörigen Prüfpakete an. Diese Testdatenvalidierung kann
-
-durch das Zertifizierungsportal verpflichtend automatisch.
-
-unabhängig von einem laufenden Zertifizierungsverfahren bei der KBV genutzt werden. Im Rahmen der  Zertifizierungsverfahren erfolgt diese Validierung
+FHIR-Instanzen entsprechenden der zugehörigen Prüfpakete an. Diese Testdatenvalidierung kann  unabhängig von einem laufenden Zertifizierungsverfahren bei der KBV genutzt werden. Im Rahmen der  Zertifizierungsverfahren erfolgt diese Validierung durch das Zertifizierungsportal verpflichtend automatisch.
 
 ## Frage: Wie kann ich die Validität meiner XML-Dateien mit dem HL7 Validator überprüfen?
 
 ### Antwort der KBV:
 
--Profile R4, die KBV-Basis-Profile sowie die Profile des
+Ihre XML-Dateien müssen gegen die deutschen Basis-Profile R4, die KBV-Basis-Profile sowie die Profile des
 
-Ihre XML-Dateien müssen gegen die deutschen Basis Zertifizierungsthemas (z.B. eAU, eRP) - entsprechend der in den technischen Vorgaben definierten  Versionen - valide sein. Das unter [https://update.kbv.de/ita-update/DigitaleMuster](https://update.kbv.de/ita-update/DigitaleMuster) zur Verfügung gestellte  Archiv KBV_FHIR_XXX_Vn.n.n_zur_Validierung.zip enthält diese grundlegenden Profile, gegen die Ihre XML Dateien valide sein müssen. Bitte beachten Sie, dass diese Archive weder die Vollständigkeit noch die
+Zertifizierungsthemas (z.B. eAU, eRP) - entsprechend der in den technischen Vorgaben definierten  Versionen - valide sein. Das unter [https://update.kbv.de/ita-update/DigitaleMuster](https://update.kbv.de/ita-update/DigitaleMuster) zur Verfügung gestellte  Archiv KBV_FHIR_XXX_Vn.n.n_zur_Validierung.zip enthält diese grundlegenden Profile, gegen die Ihre XML Dateien valide sein müssen. Bitte beachten Sie, dass diese Archive weder die Vollständigkeit noch die
 
 Aktualität der tatsächlich benötigten Dateien garantiert. Die Verwendung der korrekten Dateien liegt  alleinig in der Verantwortung der Hersteller. Dies betrifft insbesondere die Einbindung der aktuell gültigen  Versionen der CodeSysteme und ValueSets auf Basis der KBV-Schlüsseltabellen.
 
-Für die Validierung der XML-Dateien können Sie den freien Validator der HL7 Community  ([http://hl7.org/fhir/validator/)](http://hl7.org/fhir/validator/)) nutzen. Hinweise zur Konfiguration des Validators können Sie der  Abschnitt „Validating against an
-
-Dokumentation von HL7 entnehmen - insbesondere in dem
+Für die Validierung der XML-Dateien können Sie den freien Validator der HL7 Community  ([http://hl7.org/fhir/validator/)](http://hl7.org/fhir/validator/)) nutzen. Hinweise zur Konfiguration des Validators können Sie der  Dokumentation von HL7 entnehmen - insbesondere in dem Abschnitt „Validating against an
 
 implementation guide“
 
@@ -85,13 +75,11 @@ implementation guide“
 
 ### Antwort der KBV:
 
--CT-Codes) online zu validieren. Dabei
+Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed-CT-Codes) online zu validieren. Dabei
 
-Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  -Adresse) übertragen und vorübergehend gespeichert. Im
+werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP-Adresse) übertragen und vorübergehend gespeichert. Im
 
-werden jedoch auch personenbezogene Daten (IP Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,
-
-damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
+Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
 
 
 ---
@@ -136,19 +124,19 @@ Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset
 
 ---
 
-| Nr. |  |
+| Nr. | Zu ignorierende Meldungen bei dem eRezept |
 |---|---|
-| 1) | 28, col11): Keiner der |
+| 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line |
 | 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
-| 3) | -Pay Codes' |
+| 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[2].resource.ofType(Medication).code.coding[0] (line 170, col14): |
 | 5) | Information @ |
-| 6) |  |
-| 7) | -3d65-4286-bf06- |
-| 8) | -0fdf-4107-93f6- |
+| 6) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden  Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
+| 7) | Information @ Bundle.entry[4].resource/*Practitioner/bc329f24 |
+| 8) | Information @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
 | 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2 |
 
-Zu ignorierende Meldungen bei dem eRezept Information @ Bundle.entry[0].resource.ofType(Composition).type (line angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFH IR_KBV_FORMULAR_ART#e16A) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wir empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der angegebenen Codes ist im Valueset 'Coverage Type and Self (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder hintenangestellte Leerzeichen enthält. Information @ Bundle.entry[4].resource/*Practitioner/bc329f24 b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) Information @ Bundle.entry[5].resource/*Practitioner/cb7558e2 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt
+28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFH IR_KBV_FORMULAR_ART#e16A) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wir empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self -Pay Codes' (http://hl7.org/fhir/ValueSet/coverage -type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart -de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. -3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practiti oner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) -0fdf-4107-93f6- 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt
 
 ---
 
@@ -228,15 +216,11 @@ im JSON und XML- . Diese -ID
 
 Die Verwendung von XML-Kommentaren in den instanziierten FHIR-Ressourcen sollte vermieden werden.  Dies ist für die Verarbeitung der Datei unnötig und kann ggfs. in den weiterverarbeitenden Systemen zu  Problemen führen.
 
-## -Ressourcen zulässig?
-
-## Frage: Ist die Verwendung eines FHIR-Namespace in den instanziierten FHIR
+## Frage: Ist die Verwendung eines FHIR-Namespace in den instanziierten FHIR-Ressourcen zulässig?
 
 ### Antwort der KBV:
 
--Namespace in den instanziierten FHIR-Ressourcen sollte
-
-Die Definition und Verwendung eines FHIR
+Die Definition und Verwendung eines FHIR-Namespace in den instanziierten FHIR-Ressourcen sollte
 
 vermieden werden. Dies ist für die Verarbeitung der Datei unnötig und kann ggfs. in den  weiterverarbeitenden Systemen zu Problemen führen.
 
@@ -250,13 +234,11 @@ Zur Auswahl des korrekten Kostenträgernamens gelten die bisherigen Vorgaben aus
 
 Dies bedeutet, dass wenn eine eAU oder ein eRezept zulasten einer gesetzlichen Krankenkasse ausgestellt  wird, dass der korrekte Kostenträgername zur Bedruckung aus der Kostenträgerstammdatei ermittelt  werden muss.
 
--Anforderung P2-210 (FALL 1 - IK ist gültig) und P2-220 (FALL 2 -
+In diesem Zusammenhang müssen die KVDT-Anforderung P2-210 (FALL 1 - IK ist gültig) und P2-220 (FALL 2 -
 
-In diesem Zusammenhang müssen die KVDT Aufnehmender Kostenträger, Fusion sowie ggf. die Anforderung) sowie ggf. P2-320 (Versichertenkarten mit
+Aufnehmender Kostenträger, Fusion sowie ggf. die Anforderung) sowie ggf. P2-320 (Versichertenkarten mit
 
-"08", "09") beachtet werden.
-
-Besonderer Personengruppe "00", "04","06", "07",
+Besonderer Personengruppe "00", "04","06", "07", "08", "09") beachtet werden.
 
 Es ist zu beachten, dass bei der Ausstellung einer eAU oder eines eRezepts für einen GKV-Versicherten im
 
@@ -264,25 +246,25 @@ Rahmen eines berufsgenossenschaftlichen Falles (z.B. bei einem Arbeitsunfall) de
 
 des Technischen Handbuches Digitale Muster).
 
-## Frage: Muss immer ein Wert für Versichertenart, DMP-Kennzeichen, Besondere Personengruppe  -Instanz des eRezeptes und der eAU übertragen
+## Frage: Muss immer ein Wert für Versichertenart, DMP-Kennzeichen, Besondere Personengruppe
 
-## und/oder Kennzeichen Rechtsgrundlage in der FHIR werden, auch wenn keine Versichertenkarte eingelesen wurde? Hier gibt es scheinbar Unterschiede
+## und/oder Kennzeichen Rechtsgrundlage in der FHIR-Instanz des eRezeptes und der eAU übertragen
+
+## werden, auch wenn keine Versichertenkarte eingelesen wurde? Hier gibt es scheinbar Unterschiede
 
 ## zwischen den Informationsmodellen in den Technischen Anlagen und den FHIR-Profilen?
 
 ### Antwort der KBV:
 
--Kennzeichen, Besondere Personengruppe und/oder
+Ja, für die Informationen Versichertenart, DMP-Kennzeichen, Besondere Personengruppe und/oder
 
-Ja, für die Informationen Versichertenart, DMP Kennzeichen Rechtsgrundlage muss immer ein Wert in der FHIR-Instanz des eRezeptes oder der eAU
+Kennzeichen Rechtsgrundlage muss immer ein Wert in der FHIR-Instanz des eRezeptes oder der eAU
 
-außer es wird ein Rezept für Sprechstundenbedarf erzeugt. Die Differenz zwischen
+übertragen werden  außer es wird ein Rezept für Sprechstundenbedarf erzeugt. Die Differenz zwischen
 
-übertragen werden  den Technischen Anlagen und den FHIR-Profilen wurde zum 01.07.2023 behoben.
+den Technischen Anlagen und den FHIR-Profilen wurde zum 01.07.2023 behoben.
 
-Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich
-
-sollte die Befüllung wie folgt erfolgen:
+Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
 
 
 ---
@@ -424,15 +406,13 @@ Bei zwei Mehrfachverordnungen jeweils eigener Arzneimittel mit je zwei Teilveror
 
 Abhängigkeit von der Verordnungssituation (bspw. unter Berücksichtigung der Einlösezeiträume oder  Präferenzen des Versicherten) die Bündelung anhand der Arzneimittel oder der beiden Einlösezeiträume  angeboten werden.
 
-## bei eRezepten zu achten?
-
-## Frage: Worauf ist bei der Länge des Handelsnamens
+## Frage: Worauf ist bei der Länge des Handelsnamens bei eRezepten zu achten?
 
 ### Antwort der KBV:
 
--Rezept ist die Länge des Handelsnamens bei einer PZN-Verordnung
+Entsprechend der Technischen Anlage E-Rezept ist die Länge des Handelsnamens bei einer PZN-Verordnung
 
-Entsprechend der Technischen Anlage E auf 100 Zeichen begrenzt. Wenn der Name die maximale Länge überschreitet, soll das System den Namen
+auf 100 Zeichen begrenzt. Wenn der Name die maximale Länge überschreitet, soll das System den Namen
 
 nach 100 Zeichen abschneiden. Sollte ein Handelsname diese Länge überschreiten, so ist dieser auf 97  Zeichen, gefolgt von drei Punkten zu kürzen.
 
@@ -440,17 +420,15 @@ nach 100 Zeichen abschneiden. Sollte ein Handelsname diese Länge überschreiten
 
 ### Antwort der KBV:
 
--Rezept ist die Länge des Wirkstoffnamens derzeit auf 80 Zeichen
+Entsprechend der Technischen Anlage E-Rezept ist die Länge des Wirkstoffnamens derzeit auf 80 Zeichen
 
-Entsprechend der Technischen Anlage E begrenzt. Sollte ein Wirkstoffname diese Länge überschreiten, so ist dieser auf 77 Zeichen, gefolgt von drei  Punkten zu kürzen.
+begrenzt. Sollte ein Wirkstoffname diese Länge überschreiten, so ist dieser auf 77 Zeichen, gefolgt von drei  Punkten zu kürzen.
 
 ## Frage: Was ist bei der Verordnung von Kombipackungen zu beachten?
 
 ### Antwort der KBV:
 
-Kombipackungen sind Produkte mit mehreren Teilpräparaten, wie beispielsweise die Produkte mit den PZN
-
-03435566 (siehe Beispiel 69 der KBV-Beispiele) und 01929005.
+Kombipackungen sind Produkte mit mehreren Teilpräparaten, wie beispielsweise die Produkte mit den PZN  03435566 (siehe Beispiel 69 der KBV-Beispiele) und 01929005.
 
 Als Darreichungsform ist die PZN-bezogene Darreichungsform, bspw. „KPG“ (Kombipackung), anzugeben.
 
@@ -486,20 +464,6 @@ Ersatzwerte:
 
 ---
 
-- **Kollegiale Vertretung** (nach § 20 Musterberufsordnung): Die/der abwesende Ärztin/Arzt lässt sich von
-
-- einem/einer fachgleichen Kollegen/in in dessen Praxis vertreten. Die Abrechnung erfolgt über die  oder Bescheinigung erfolgt
-
-- LANR/BSNR der Vertretung. Im Datensatz der elektronischen Verordnung  keine Kennzeichnung einer Vertretungskonstellation, es werden die Daten der ausstellenden Person
-
-- (Vertretung) und der vertretenden Praxis übermittelt.
-
-- **Persönliche Vertretung**: Ein Vertreter oder eine Vertreterin wird in der Praxis der zu vertretenden
-
-- Person tätig, bspw. als dessen Sicherstellungsassistent/in im Falle von Kindererziehungszeiten.
-
-- Rechtsgrundlage wäre in diesem Fall § 32 Abs. 2, Satz 2 Ärzte-Zulassungsverordnung. Die Abrechnung  erfolgt über die LANR/BSNR der zu vertretenden Person. Es muss eine Kennzeichnung des Vertreters  entsprechend der Vorgaben der Technischen Anlage erfolgen. Es werden die Daten der ausstellenden  Person (Vertretung) sowie der zu vertretenden Person und dessen Praxis übermittelt.
-
 # FRAGEN UND ANTWORTEN ZU INHALTLICHEN VORGABEN
 
 ## Frage: Was ist im Falle von Vertretungskonstellationen zu beachten
@@ -508,35 +472,43 @@ Ersatzwerte:
 
 Es sind mehrere Vertretungskonstellationen zu unterscheiden:
 
+- **Kollegiale Vertretung** (nach § 20 Musterberufsordnung): Die/der abwesende Ärztin/Arzt lässt sich von
+
+- einem/einer fachgleichen Kollegen/in in dessen Praxis vertreten. Die Abrechnung erfolgt über die  LANR/BSNR der Vertretung. Im Datensatz der elektronischen Verordnung oder Bescheinigung erfolgt
+
+- keine Kennzeichnung einer Vertretungskonstellation, es werden die Daten der ausstellenden Person  (Vertretung) und der vertretenden Praxis übermittelt.
+
+- **Persönliche Vertretung**: Ein Vertreter oder eine Vertreterin wird in der Praxis der zu vertretenden
+
+- Person tätig, bspw. als dessen Sicherstellungsassistent/in im Falle von Kindererziehungszeiten.
+
+- Rechtsgrundlage wäre in diesem Fall § 32 Abs. 2, Satz 2 Ärzte-Zulassungsverordnung. Die Abrechnung  erfolgt über die LANR/BSNR der zu vertretenden Person. Es muss eine Kennzeichnung des Vertreters  entsprechend der Vorgaben der Technischen Anlage erfolgen. Es werden die Daten der ausstellenden  Person (Vertretung) sowie der zu vertretenden Person und dessen Praxis übermittelt.
+
 Elektronische Verordnungen oder Bescheinigungen sind immer von der ausstellenden Person mit eigenem  eHBA qualifiziert elektronisch zu signieren.
 
 ## Frage: Was ist bei Ärzten und Ärztinnen in Weiterbildung zu beachten?
 
 ### Antwort der KBV:
 
-(ÄiW) dürfen Verordnungen und Bescheinigungen ausstellen, solange
+Ärzte und Ärztinnen in Weiterbildung (ÄiW) dürfen Verordnungen und Bescheinigungen ausstellen, solange
 
-Ärzte und Ärztinnen in Weiterbildung
+die ordnungsgemäße Überwachung und Anleitung durch die weiterbildende Vertragsärztin bzw. den
 
-die weiterbildende Vertragsärztin bzw. den
-
-die ordnungsgemäße Überwachung und Anleitung durch  weiterbildenden Vertragsarzt gewährleistet ist. Die Leistungen der ÄiW werden der weiterbildenden Person
+weiterbildenden Vertragsarzt gewährleistet ist. Die Leistungen der ÄiW werden der weiterbildenden Person
 
 zugerechnet und diese/r ist für die Leistungen verantwortlich.
 
-Es ist entsprechend der Vorgaben der Technischen Anlage immer die für die Weiterbildung verantwortliche  Person mit anzugeben, wenn ÄiW eine Verordnung ausstellen. Ebenso sind die Praxisdaten der  ist immer für die weiterbildende Person
+Es ist entsprechend der Vorgaben der Technischen Anlage immer die für die Weiterbildung verantwortliche  Person mit anzugeben, wenn ÄiW eine Verordnung ausstellen. Ebenso sind die Praxisdaten der  weiterbildenden Betriebsstätte zu übermitteln. Eine LANR ist immer für die weiterbildende Person
 
-weiterbildenden Betriebsstätte zu übermitteln. Eine LANR  anzugeben. Sofern die ÄiW bereits eine LANR besitzt, sollte diese ebenfalls angegeben werden. ÄiW dürfen
+anzugeben. Sofern die ÄiW bereits eine LANR besitzt, sollte diese ebenfalls angegeben werden. ÄiW dürfen
 
-elektronische Verordnungen und Bescheinigungen qualifiziert elektronisch nur mit ihrem eigenem eHBA  signieren. Insbesondere beim eRezept ist zu beachten, dass die im Datensatz als ausstellend angegebene
-
-Person auch mit ihrem eigenen eHBA signiert, um Zurückweisungen durch Apotheken oder Monita in  nachgelagerter Prozessen zu vermeiden.
+elektronische Verordnungen und Bescheinigungen qualifiziert elektronisch nur mit ihrem eigenem eHBA  signieren. Insbesondere beim eRezept ist zu beachten, dass die im Datensatz als ausstellend angegebene  Person auch mit ihrem eigenen eHBA signiert, um Zurückweisungen durch Apotheken oder Monita in  nachgelagerter Prozessen zu vermeiden.
 
 Sofern die für die Weiterbildung verantwortliche Person längere Zeit  insbesondere bei einer persönlichen
 
-vertreten werden muss, kann die vertretende Person die Rolle der weiterbildenden Person
+Vertretung  vertreten werden muss, kann die vertretende Person die Rolle der weiterbildenden Person
 
-Vertretung  übernehmen und wird dann entsprechend im FHIR-Profil als verantwortliche hinterlegt.
+übernehmen und wird dann entsprechend im FHIR-Profil als verantwortliche hinterlegt.
 
 
 ---
@@ -547,21 +519,9 @@ Vertretung  übernehmen und wird dann entsprechend im FHIR-Profil als verantwort
 
 ### Antwort der KBV:
 
-Versicherten erstellt werden. Die
+Sowohl für die eAU als auch für das eRezept müssen Ausdrucke für die  Bescheinigungen werden als schwarz-weiße Ausdrucke nach Möglichkeit auf normalem Druckerpapier  erstellt. Es gelten ausdrücklich nicht die Anforderungen der Blankoformularbedruckung Niedergelassenen entscheiden selbst, welcher Drucker für die Erstellung der Ausdrucke genutzt wird. Auch  bezüglich des zu verwendenden Papiers werden keine Vorgaben gemacht. Die Ausdrucke können auf dem  Papierformat DIN A4 oder DIN A5 gedruckt werden.
 
-Sowohl für die eAU als auch für das eRezept müssen Ausdrucke für die  Bescheinigungen werden als schwarz-weiße Ausdrucke nach Möglichkeit auf normalem Druckerpapier  erstellt. Es gelten ausdrücklich nicht die Anforderungen der Blankoformularbedruckung. Das heißt, die
-
-Niedergelassenen entscheiden selbst, welcher Drucker für die Erstellung der Ausdrucke genutzt wird. Auch  bezüglich des zu verwendenden Papiers werden keine Vorgaben gemacht. Die Ausdrucke können auf dem  Papierformat DIN A4 oder DIN A5 gedruckt werden.
-
-verzichtet werden. Bei geringerer
-
-Die KBV empfiehlt, den Patientenausdruck des eRezepts mit einer Auflösung von min. 300 dpi zu drucken,  um die Data-Matrix-Codes gut einscanbar zu erstellen. Auf den Eco- oder vergleichbaren Sparmodus der
-
-Drucker sollte beim Ausdruck des Patientenausdruckes des eRezepts
-
-Versicherte führt.
-
-Auflösung oder verschmiertem Druckbild kann es in der Apotheke zu Problemen beim Scannen der Data-
+Die KBV empfiehlt, den Patientenausdruck des eRezepts mit einer Auflösung von min. 300 dpi zu drucken,  um die Data-Matrix-Codes gut einscanbar zu erstellen. Auf  Drucker sollte beim Ausdruck des Patientenausdruckes des eRezepts  Auflösung oder verschmiertem Druckbild kann es in der Apotheke zu Problemen beim Scannen der
 
 Matrix-Codes kommen, was zu erhöhten Aufwänden in Praxen und für
 
@@ -580,3 +540,11 @@ Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 Kassenärztliche Bundesvereinigung
 
 Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Versicherten erstellt werden. Die . Das heißt, die
+
+den Eco- oder vergleichbaren Sparmodus der  verzichtet werden. Bei geringerer
+
+Versicherte führt.
+
+Data-

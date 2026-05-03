@@ -5244,17 +5244,14 @@ VersichertenID 19a identifier:versichertenId WENN der eine Versichertenkarte sic
 
 **KBV_PR_FOR_PATIENT**
 
-| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |
-|---|---|---|---|
-| cherten |  | Mapping | in diesem Feld ein Datum angege- |
-|  |  | birthDate | ben wird, |
-|  |  | Wenn Wert nicht vorhanden, | DANN |
-|  |  | gilt Mapping | darf das Datum nicht nach dem |
-|  |  | birthDate.extension:data-absen | Ausstellungsdatum liegen. |
-|  |  | t-reason.value[x]:valueCode = |  |
-|  |  | unknown |  |
+| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |  |
+|---|---|---|---|---|
 
-Straßenadresse des Versi- cherten
+cherten
+
+| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
+|---|---|---|---|---|
+| cherten |  |  |  |  |
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -5266,9 +5263,7 @@ Straßenname der Versi- chertenanschrift
 
 Hausnummer der Versi- chertenanschrift
 
-Anschriftenzusatz der Ver- sichertenanschrift 27
-
-28
+Anschriftenzusatz der Ver- sichertenanschrift 28
 
 29
 
@@ -5280,7 +5275,7 @@ Anschriftenzusatz der Ver- sichertenanschrift 27
 
 33
 
-address:Strassenanschrift
+Mapping  birthDate  Wenn Wert nicht vorhanden,  gilt Mapping  birthDate.extension:data-absen t-reason.value[x]:valueCode =  unknown
 
 address:Strassenanschrift.coun try
 
@@ -5294,11 +5289,9 @@ address:Strassenanschrift.line[0 ].extension:Hausnummer.value [x]:valueString
 
 Wenn Straßenname und/oder  Hausnummer vorhanden, gilt  Mapping
 
-WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,
+in diesem Feld ein Datum angege- ben wird,
 
-DANN  kann dieser Block angegeben  werden.
-
-ANSONSTEN  darf dieser Block nicht angegeben  werden.
+DANN  darf das Datum nicht nach dem  Ausstellungsdatum liegen.
 
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
 
@@ -5308,14 +5301,15 @@ belle 52 gleich "GKV" oder "BG"  oder "SKT" oder "UK" oder „PKV“  ist,  DANN
 
 ANSONSTEN  ist dieses Feld optional.
 
+WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 
-**KBV_PR_FOR_PATIENT**
+#### KBV_PR_FOR_PATIENT
 
-| Postfachanschrift des Ver- | 34 | address:Postfach |  |  |
-|---|---|---|---|---|
-| sicherten |  |  |  |  |
+Postfachanschrift des Ver- 34
+
+sicherten
 
 Wohnsitzländercode der 35
 
@@ -5341,6 +5335,8 @@ a) Pflichtfelder sind zu befüllen  b) Optionale Felder müssen befüllt werden,
 
 address:Strassenanschrift.line[1 ].extension:Adresszusatz.value[ x]:valueString  Wenn Straßenname und  Hausnummer nicht vorhanden,  gilt Mapping  KBV_PR_FOR_Patient.address:S trassenanschrift.line[0].extensi on:Adresszusatz.value[x]:valueS tring
 
+address:Postfach
+
 address:Postfach.country
 
 address:Postfach.postalCode
@@ -5348,6 +5344,10 @@ address:Postfach.postalCode
 address:Postfach.city
 
 address:Postfach.line.extension :Postfach.value[x]:valueString
+
+WENN  der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
+
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
 
 WENN  der Versicherte sich nicht elektro- nisch ausgewiesen hat und das Feld  7 gemäß Tabelle 52 gleich "GKV"  oder "BG" oder "SKT" oder "UK"  oder „PKV“ ist DANN  ist dieses Feld Pflicht.
 
@@ -5359,7 +5359,6 @@ ist,  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  ist dieses Feld optional.
 
-WENN der Block "Straßenadresse des Ver- sicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden.
 
 ---
 

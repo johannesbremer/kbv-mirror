@@ -32,79 +32,79 @@ Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit B
 
 ---
 
-### INHALTSVERZEICHNIS
+#### INHALTSVERZEICHNIS
 
-### DOKUMENTENHISTORIE
+#### DOKUMENTENHISTORIE
 
-### INHALTSVERZEICHNIS
+#### INHALTSVERZEICHNIS
 
-### ABBILDUNGSVERZEI CHNIS
+#### ABBILDUNGSVERZEICHNIS
 
-### TABELLENVERZEICHNIS
+#### TABELLENVERZEICHNIS
 
-### XML-CODE-VERZEICHNIS 1 EINLEITUNG
+#### XML-CODE-VERZEICHNIS
 
-SD HMA – Stammdatei 2 KONVENTIONEN
+**1** **EINLEITUNG**
 
-2.1 Zeichensatz .................................................................................................................................... 8
+**2** **KONVENTIONEN**
 
-2.2 Namespace ..................................................................................................................................... 8
+**2.1** **Zeichensatz .................................................................................................................................... 8**
 
-2.3 Root -Schema ................................................................................................................................. 8
+**2.2** **Namespace..................................................................................................................................... 8**
 
-2.4 Dateinamen .................................................................................................................................... 8
+**2.3** **Root-Schema ................................................................................................................................. 8**
 
-2.5 Semantik der verwendeten Diagrammsymbole
+**2.4** **Dateinamen .................................................................................................................................... 8**
 
-2.5.1 Kardinalität ................................ ................................
+**2.5** **Semantik der verwendeten Diagrammsymbole**
 
-2.5.2 Strukturel emente ................................
+2.5.1 Kardinalität ............................................................................................................................. 9
 
-2.5.3 Sonstige Symbole ................................
+2.5.2 Strukturelemente ................................................................................................................... 9
 
-3 EHD – ELEMENT (ROOT-ELEMENT) 4 HEADER (METADATEN)
+2.5.3 Sonstige Symbole ................................................................................................................ 10
 
-5 BODY (INHALTSDATEN)
+**3** **EHD – ELEMENT (ROOT-ELEMENT)**
 
-5.1 sdhma_stammdaten .................................................................................................................... 12
+**4** **HEADER (METADATEN)**
 
-5.2 verordnungsbedarf_liste ............................................................................................................ 12
+**5** **BODY (INHALTSDATEN)**
 
-5.3 verordnungsbedarf ..................................................................................................................... 13
+**5.1** **sdhma_stammdaten .................................................................................................................... 12**
 
-5.4 icd_code ....................................................................................................................................... 13
+**5.2** **verordnungsbedarf_liste ............................................................................................................ 12**
 
-5.5 geltungsbereich_kv ..................................................................................................................... 13
+**5.3** **verordnungsbedarf ..................................................................................................................... 13**
 
-5.6 heilmittel_liste ............................................................................................................................. 14
+**5.4** **icd_code ....................................................................................................................................... 13**
 
-5.7 heilmittel ....................................................................................................................................... 14
+**5.5** **geltungsbereich_kv ..................................................................................................................... 13**
 
-* Version 1.31 2
+**5.6** **heilmittel_liste ............................................................................................................................. 14**
 
-3
+**5.7** **heilmittel ....................................................................................................................................... 14**
 
-5
+**2**
 
-6
+**3**
 
-6
+**5**
 
-8
+**6**
 
-8
+**6**
 
-......................................................................... 9
+**8**
 
-................................ ............................. 9
+**8**
 
-................................ ................................ ................... 9
+**......................................................................... 9**
 
-................................ ................................ ................ 10 11
+**11**
 
-11
+**11**
 
-12
+**12**
 
 
 ---
@@ -121,9 +121,7 @@ SD HMA – Stammdatei 2 KONVENTIONEN
 
 **5.13** **zeitraum_akutereignis ................................................................................................................ 18**
 
-**.................................................................................................................................. 18**
-
-**5.14** **kapitel_liste**
+**5.14** **kapitel_liste .................................................................................................................................. 18**
 
 **5.15** **kapitel ........................................................................................................................................... 19**
 
@@ -138,156 +136,112 @@ SD HMA – Stammdatei 2 KONVENTIONEN
 
 ---
 
-*ABBILDUNGSVERZEICHNI S*
+#### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: /ehd (root-Element) ...........................................................................................
+Abbildung 1: /ehd (root-Element) ........................................................................................... 11
 
-11
+Abbildung 2: sdhma_stammdaten .......................................................................................... 12
 
-Abbildung 2: sdhma_stammdaten ..........................................................................................
+Abbildung 3: verordnungsbedarf_liste .................................................................................... 12
 
-12
+Abbildung 4: verordnungsbedarf ............................................................................................ 13
 
-Abbildung 3: verordnungsbedarf_liste ....................................................................................
+Abbildung 5: icd-code ............................................................................................................. 13
 
-12
+Abbildung 6: geltungsbereich_kv ........................................................................................... 14
 
-Abbildung 4: verordnungsbedarf ............................................................................................
+Abbildung 7: heilmittel_liste .................................................................................................... 14
 
-13
+Abbildung 8: heilmittel ............................................................................................................ 15
 
-Abbildung 5: icd-code .............................................................................................................
+Abbildung 9: anlage_heilmittelvereinbarung .......................................................................... 16
 
-13
+Abbildung 10: untere_altersgrenze ........................................................................................ 17
 
-Abbildung 6: geltungsbereich_kv ...........................................................................................
+Abbildung 11: obere_altersgrenze ......................................................................................... 17
 
-14
+Abbildung 12: hinweistext....................................................................................................... 18
 
-Abbildung 7: heilmittel_liste ....................................................................................................
+Abbildung 13: zeitraum_akutereignis ..................................................................................... 18
 
-14
+Abbildung 14: kapitel_liste...................................................................................................... 18
 
-Abbildung 8: heilmittel ............................................................................................................
+Abbildung 15: kapitel .............................................................................................................. 19
 
-15
+Abbildung 16: diagnosegruppe_liste ...................................................................................... 20
 
-Abbildung 9: anlage_heilmittelvereinbarung
-
-..........................................................................
-
-16
-
-Abbildung 10: untere_altersgrenze ........................................................................................
-
-17
-
-Abbildung 11: obere_altersgrenze .........................................................................................
-
-17
-
-Abbildung 12: hinweistext .......................................................................................................
-
-18
-
-Abbildung 13: zeitraum_akutereignis .....................................................................................
-
-18
-
-Abbildung 14: kapitel_liste......................................................................................................
-
-18
-
-Abbildung 15: kapitel ..............................................................................................................
-
-19
-
-Abbildung 16: diagnosegruppe_liste ......................................................................................
-
-20
-
-Abbildung 17: diagnosegruppe...............................................................................................
-
-20
-
-SD HMA – Stammdatei
-
-* Version 1.31
+Abbildung 17: diagnosegruppe............................................................................................... 20
 
 
 ---
 
-*TABELLENVERZEICHNIS*
+#### TABELLENVERZEICHNIS
 
-Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements
+Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements ........................................... 9
 
-........................................... 9
+Tabelle 2: Beschreibung der Strukturelement- Symbole......................................................... 10
 
-Tabelle 2: Beschreibung der Strukturelement- Symbole
+Tabelle 3: Beschreibung sonstiger Symbole .......................................................................... 10
 
-......................................................... 10
+Tabelle 4: Ausprägungen der Attribute des Elements <anlage_heilmittelvereinbarung> ....... 16
 
-Tabelle 3: Beschreibung sonstiger Symbole
+Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze> ....................... 17
 
-..........................................................................
+Tabelle 6: Ausprägungen der Attribute des Elements <kapitel> ............................................ 19
 
-10
-
-Tabelle 4: Ausprägungen der Attribute des Elements <anlage_heilmittelvereinbarung>
-
-....... 16
-
-Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze>
-
-....................... 17
-
-Tabelle 6: Ausprägungen der Attribute des Elements <kapitel>
-
-............................................ 19
-
-Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe>
-
-................ 22
-
-SD HMA – Stammdatei
-
-* Version 1.31
+Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe> ................ 22
 
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | SD | HMA – | Stammdatei |  |  |  |
-| *XML* | *- CODE* | *-* |  | *VERZEICHNIS* | |  |  |
-| XML - | Code 1: /ehd |  |  |  | .................................................................................................................. |  | 11 |
-| XML -Code | 2: | sdhma_stammdaten | |  | ......................................................................................... |  | 12 |
-| XML - | Code 3: | verordnungsbedarf_liste | |  | ................................................................................... |  | 12 |
-| XML -Code | 4: | verordnungsbedarf | |  | ........................................................................................... |  | 13 |
-| XML -- | Code 5: icd | code |  |  | ............................................................................................................ |  | 13 |
-| XML -Code | 6: | geltungsbereich_kv | |  | .......................................................................................... |  | 14 |
-| XML -Code | 7: | heilmittel_liste |  |  | ................................................................................................... |  | 14 |
-| XML -Code | 8: heilmittel |  |  |  | ........................................................................................................... |  | 16 |
-| XML - | Code 9: |  | anlage_heilmittelvereinbarung | | ......................................................................... |  | 16 |
-| XML -Code | 10: | untere_altersgrenze | |  | ....................................................................................... |  | 17 |
-| XML -Code | 11: | obere_altersgrenze | |  | ........................................................................................ |  | 17 |
-| XML -Code | 12: | hinweistext |  |  | ..................................................................................................... |  | 18 |
-| XML - | Code 13: | zeitraum_akutereignis | |  | .................................................................................... |  | 18 |
-| XML - | Code 14: | kapitel_liste |  |  | .................................................................................................... |  | 19 |
-| XML -Code | 15: kapitel |  |  |  | ............................................................................................................. |  | 19 |
-| XML - | Code 16: | diagnosegruppe_liste | |  | ..................................................................................... |  | 20 |
-| XML - | Code 17: | diagnosegruppe |  |  | ............................................................................................. |  | 20 |
-|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 |  | Seite | 7 23von |
+XML- Code 1: /ehd .................................................................................................................. 11
 
-XML -Code 2: sdhma_stammdaten Code 3: verordnungsbedarf_liste XML -Code 4: verordnungsbedarf Code 5: icd code XML -Code 6: geltungsbereich_kv XML -Code 7: XML -Code 8: heilmittel Code 9: anlage_heilmittelvereinbarung XML -Code 10: untere_altersgrenze XML -Code 11: obere_altersgrenze XML -Code 12: hinweistext 13: zeitraum_akutereignis Code 14: kapitel_liste XML -Code 15: kapitel Code 16: diagnosegruppe_liste Code 17: diagnosegruppe XML - CODE - VERZEICHNIS SD HMA – Stammdatei  * Version
+XML-Code 2: sdhma_stammdaten ......................................................................................... 12
+
+XML- Code 3: verordnungsbedarf_liste................................................................................... 12
+
+XML-Code 4: verordnungsbedarf ........................................................................................... 13
+
+XML--Code 5: icd code............................................................................................................ 13
+
+XML-Code 6: geltungsbereich_kv .......................................................................................... 14
+
+XML-Code 7: heilmittel_liste ................................................................................................... 14
+
+XML-Code 8: heilmittel ........................................................................................................... 16
+
+XML- Code 9: anlage_heilmittelvereinbarung ......................................................................... 16
+
+XML-Code 10: untere_altersgrenze ....................................................................................... 17
+
+XML-Code 11: obere_altersgrenze ........................................................................................ 17
+
+XML-Code 12: hinweistext ..................................................................................................... 18
+
+XML- Code 13: zeitraum_akutereignis .................................................................................... 18
+
+XML- Code 14: kapitel_liste .................................................................................................... 19
+
+XML-Code 15: kapitel ............................................................................................................. 19
+
+XML- Code 16: diagnosegruppe_liste..................................................................................... 20
+
+XML- Code 17: diagnosegruppe ............................................................................................. 20
+
+#### XML- CODE- VERZEICHNIS
+
 
 ---
 
-# Einleitung 1
+# 1 Einleitung
 
-Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stellte die Kas- senärztliche Bundesvereinigung die Anlagen zur Heilmittelvereinbarung seit 2015 innerhalb  Stammdatei zur Verfügung.
+Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stellte die Kas- senärztliche Bundesvereinigung die Anlagen zur Heilmittelvereinbarung seit 2015 innerhalb  der ICD- Stammdatei zur Verfügung.
 
-der ICD-
+Ab 2017 befinden sich diese Anlagen in einer separaten Stammdatei, der  mittel Anlage – SDHMA.
+
+Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammdatei der  KBV im XML--Format konform zur ehd Richtlinie [KBV_ITA_VGEX_eHD].
+
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  4005- 2121) an das Dezernat 4 der KBV.
 
 |  | Versorgung | in | Deutschland |
 |---|---|---|---|
@@ -302,39 +256,25 @@ der ICD-
 
 Heil-
 
-Ab 2017 befinden sich diese Anlagen in einer separaten Stammdatei, der  Anlage – SDHMA.
-
-mittel
-
-Format konform zur ehd Richtlinie [KBV_ITA_VGEX_eHD].
-
-Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammdatei der  KBV im XML--
-
-Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /  2121) an das Dezernat 4 der KBV.
-
-4005-
-
 # 2 Konventionen
 
-## Zeichensatz
-
-## 2.1
+## 2.1 Zeichensatz
 
 Standard-Zeichensatz ist ISO-8859-15.
 
-## Namespace
+## 2.2 Namespace
 
-## 2.2
-
-Namespace ist **urn:ehd/sd/001hma**
-
-Standard-
+Standard- Namespace ist
 
 ## 2.3 Root-Schema
 
 Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-
 
-Schemata inkludiert sind, heißt **sdhma_root.xsd**
+Schemata inkludiert sind, heißt
+
+**urn:ehd/sd/001hma**
+
+**sdhma_root.xsd**
 
 ## 2.4 Dateinamen
 
@@ -344,21 +284,21 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 **[ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val .xml**
 
-Trennungszeichen zwischen den Namenselementen
+_ ............. Trennungszeichen zwischen den Namenselementen
 
-_ .............
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  *<document_type_cd>*
 
-Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
+Entspricht dem Header-Element
 
-datatyp .....  Entspricht dem Header-Element **document_type_cd**
+vv.vv ......... VersionsNr. der Datentypbeschreibung;  *<version>* des Header-Elements *<interface>*
 
-VersionsNr. der Datentypbeschreibung;
+Entspricht dem Element
 
-vv.vv .........  Entspricht dem Element **version** des Header-Elements **interface**
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  *<person>* oder dem Element *<organization>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element **person** oder dem Element **organization** des Header
+Entspricht dem Element  Elements *<provider>*
 
-Elements **provider**
+des Header-
 
 
 ---
@@ -409,26 +349,22 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-Tabelle 2: Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 ### 2.5.3 Sonstige Symbole
 
-Es werden außerdem folgende Diagramm -Symbole verwendet:
+Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Element mit Kindelementen Ein Element mit einem oder mehreren |
+|  | Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | Referenzelement Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
-|  | Datentyp Ein R echteck mit zwei abgeflachten Ecken links symbolisiert einen |
+|  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
-Tabelle 3: Beschreibung sonstiger Symbole
+**Tabelle 3:** Beschreibung sonstiger Symbole
 
-SD HMA – Stammdatei
-
-* Version 1.31
-
-<xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp. dar, welches mehrere Elemente zusammenfasst.
+<xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
@@ -491,85 +427,59 @@ Schnittstellenbeschreibung [1] verwiesen.
 
 ---
 
-SD HMA – Stammdatei
+# 5 body (Inhaltsdaten)
 
-# 5 body (Inhaltsdaten
+Das ***<body>*** Element beinhaltet alle SDHMA Stammdaten in einer strukturierten Hierarchie von
 
-Das ***<body>*** Element beinhaltet
+Kindelementen. Die Hierarchieebenen der SDHMA Kodierungen gliedern sich in Kapitel,  Gruppe, Diagnose und Diagnosethesaurus.
 
-Kindelementen . Die Hierarchieebenen der SD
-
-Gruppe, Diagnose und Diagnosethesaurus.
-
-Der Namensraum ist „urn:ehd/sd
+Der Namensraum ist „urn:ehd/sdhma/001“.
 
 ## 5.1 sdhma_stammdaten
 
-Das Element <sd hma _stammdaten>
+Das Element <sdhma_stammdaten> bildet die oberste Ebene der SDHMA-Stammdaten. Hier  befinden sich das Element verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba- rung.
 
-befinden sich das Element verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba-
+**Abbildung 2:** sdhma_stammdaten
 
-rung.
+Der XML-Code für ein <sdhma_stammdaten> Element hat folgenden Aufbau:
 
-Abbildung 2: sdhma _stammdaten
+**<sdhma_stammdaten>**
 
-Der XML -Code für ein <sd hma _stammdaten> Element hat folgenden Aufbau:
+**<verordnungsbedarf_liste>**
 
-*<sdhma_stammdaten>*
+**...**
 
-*verordnungsbedarf_liste>*
+**</ verordnungsbedarf_liste>**
 
-*...*
+**</sdhma_stammdaten>**
 
-*verordnungsbedarf_liste>*
+**XML-Code 2:** sdhma_stammdaten
 
-*</sdhma_stammdaten>*
+## 5.2 verordnungsbedarf_liste
 
-XML-Code 2: sdhma _stammdaten
+Das Element <verordnungsbedarf_liste> umschließt eine Liste von <verordnungsbedarf>  Elementen.
 
-## 5.2 verordnungsbedarf
+**Abbildung 3:** verordnungsbedarf_liste
 
-Das Element <verordnungsbedarf_ Elementen.
+Der XML-Code für ein <verordnungsbedarf_liste> Element hat folgenden Aufbau:
 
-Abbildung 3: verordnungsbedarf _liste
+**<verordnungsbedarf_liste>**
 
-Der XML -Code für ein < verordnungsbedarf_liste
+**<verordnungsbedarf>**
 
-*<verordnungsbedarf_liste>*
+**...**
 
-*<verordnungsbedarf>*
+**</verordnungsbedarf>**
 
-*...*
+**<verordnungsbedarf>**
 
-*</verordnungsbedarf>*
+**</verordnungsbedarf>**
 
-*verordnungsbedarf>*
+**...**
 
-*</verordnungsbedarf>*
+**</verordnungsbedarf_liste>**
 
-*...*
-
-*</verordnungsbedarf_liste>*
-
-XML-Code 3: verordnungsbedarf _liste
-
-* Version
-
-alle SD HMA Stammdaten in einer strukturierten Hierarchie von  HMA Kodierungen gliedern sich in Kapitel,
-
-hma /001“.
-
-bildet die oberste Ebene der SD
-
-## _liste
-
-liste > umschließt eine Liste von
-
-> Element hat folgenden Aufbau: 1.31
-
-HMA -Stammdaten. Hier
-
-<verordnungsbedarf
+**XML-Code 3:** verordnungsbedarf_liste
 
 
 ---
@@ -582,13 +492,13 @@ Das Element <verordnungsbedarf> enthält immer das Element <heilmittel_liste> un
 
 Der XML-Code für ein <verordnungsbedarf> Element hat folgenden Aufbau:
 
-**verordnungsbedarf>**
+**<verordnungsbedarf>**
 
-**< icd_code V="..."/>**
+**<icd_code V="..."/>**
 
-**< geltungsbereich_kv V="..." DN="..."**
+**<geltungsbereich_kv V="..." DN="..."**
 
-**< heilmittel_liste/>**
+**<heilmittel_liste/>**
 
 **</verordnungsbedarf>**
 
@@ -606,13 +516,13 @@ Enthalten sind hier Zeichenketten nach dem Muster:
 
 -  oder Sonderfall 'UUU' (konstant ohne vorgenanntes Muster)
 
-***S="1.2.276.0.76.5.233***
+S="1.2.276.0.76.5.233"
 
 **Abbildung 5:** icd-code
 
 Der XML-Code für ein <icd- code> Element hat folgenden Aufbau:
 
-***<icd_code V="..."/>***
+<icd_code V="..."/>
 
 **XML-Code 5:** icd-code
 
@@ -623,102 +533,79 @@ Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlüsseltabell
 
 ---
 
-SD HMA – Stammdatei
+**Abbildung 6:** geltungsbereich_kv
 
-Abbildung 6: geltungsbereich_kv
+Der XML-Code für ein <geltungsbereich_kv> Element hat folgenden Aufbau:
 
-Der XML -Code für ei n < geltungsbereich_kv
+<geltungsbereich_kv V="..." DN="..." S="1.2.276.0.76.5.233"/>
 
-***<geltungsbereich_kv V="... " DN="***
-
-XML-Code 6: geltungsbereich_kv
+**XML-Code 6:** geltungsbereich_kv
 
 ## 5.6 heilmittel_liste
 
-Das Element <heilmittel_liste>
+Das Element <heilmittel_liste> enthält mindestens ein <heilmittel> Elemente.
 
-Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD weitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD sind. Wenn jedoch den untergeordneten ICD
+Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD-Codes, welcher  weitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD-Codes die diesem untergeordnet  sind. Wenn jedoch den untergeordneten ICD-Codes das Element <heilmittel_liste> zugeord- net ist, dann gelten nur die dem jeweiligen ICD-Code zugeordneten Heilmittel.
 
-net ist, dann gelten nur die dem jeweiligen ICD
+**Abbildung 7: heilmittel_liste**
 
-Abbildung 7: heilmittel_liste
+Der XML-Code für ein <heilmittel_liste> Element hat folgenden Aufbau:
 
-Der XML -Code für ein < heilmittel_liste> Element hat folgenden Aufbau:
+**<heilmittel_liste>**
 
-*<heilmittel_liste>*
+**<heilmittel>**
 
-*<heilmittel>*
+**</heilmittel>**
 
-*</heilmittel>*
+**<heilmittel>**
 
-*heilmittel>*
+**</heilmittel>**
 
-***... " S***
+**<heilmittel>**
 
-enthält mindestens ein <
+**</heilmittel>**
 
-*</heilmittel>*
+**</heilmittel_liste>**
 
-*heilmittel>*
-
-*</heilmittel>*
-
-*</heilmittel_liste>*
-
-XML-Code 7: heilmittel_liste
+**XML-Code 7: heilmittel_liste**
 
 ## 5.7 heilmittel
 
-Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen auf die Art  der Anlage der Heilmittelvereinbarung ( Heilmittelbedarfe), die optionale Elemente-nte-Liste, bestehend aus <sekundaercode>, <u
+Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen auf die Art  der Anlage der Heilmittelvereinbarung (besondere Verordnungsbedarfe oder langfristige  Heilmittelbedarfe), die optionale Elemente-nte-Liste, bestehend aus <sekundaercode>, <u
 
-re_altersgrenze>, <ob,ere_altersgrenze>
+re_altersgrenze>, <ob,ere_altersgrenze> und <h>inweistext und <zeitraum_akutereignis>
 
 sowie das Element <kapitel_liste>.
 
-* Version 1.31
 
-> Element hat folgenden Aufbau:
+---
 
-***="1.2.276.0.76.5.233"/>***
+#### Abbildung 8: heilmittel
 
-heilmittel > Elemente.
+### Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau:
 
--Codes die diesem untergeordnet
+**<heilmittel>**
 
--Codes das Element <heilmittel_liste> zugeord-
+**<anlage_heilmittelvereinbarung V="..." DN="..."/>**
 
--Code zugeordneten Heilmittel.
+**<sekundaercode V="..."/>**
 
--Codes, welcher
+**<untere_altersgrenze V="..." U="..."/>**
 
-besondere Verordnungsbedarfe oder langfristige
+**<ob ere_altersgrenze V="..." U="..."/>**
 
-und <h>inweistext und <zeitraum_akutereignis>
+**<hinweistext V="..."/>**
+
+**<zeitraum_akutereignis V="..." U="..."/>**
+
+**<kapitel_liste>**
+
+**<kapitel V="..." DN="...">**
 
 
 ---
 
-| **IT in der** | **Arztpraxis** |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | | SDHMA – | Stammdatei |  |  |
-| **Abbildung** | **8:** | heilmittel |  |  |  |  |
-| Der | XML-Code für | ein | <heilmittel | > Element | hat | folgenden Aufbau: |
-| **<** | **heilmittel>** |  |  |  |  |  |
-| **<** |  | **anlage_heilmittelvereinbarung** | | **V="..."** | **DN="..."/>** |  |
-| **<** | **sekundaercode** | **V** | **="..."/>** |  |  |  |
-| **<** | **untere_altersgrenze** | | **V="..."** | **U="..."/>** |  |  |
-| **< ob** | **ere_altersgrenze** | | **V="..."** | **U="..."/>** |  |  |
-| **<** | **hinweistext** | **V="..."/>** |  |  |  |  |
-| **<** |  | **zeitraum_akutereignis** | **V** | **="..." U="..."/>** |  |  |
-| **<** | **kapitel_liste>** |  |  |  |  |  |
-| **<** | **kapitel** | **V="..."** |  | **DN="...">** |  |  |
-|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | * | Version 1.31 |  |  |
-
-Abbildung 8: Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau:   < heilmittel> hinweistext V
-
----
-
-**diagnosegruppe>_liste**
+**<diagnosegruppe>_liste**
 
 **<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38**
 
@@ -730,9 +617,9 @@ Abbildung 8: Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau:  
 
 **</>kapitel**
 
-**kapitel V="..." DN="...">**
+**<kapitel V="..." DN="...">**
 
-**diagnosegruppe>_liste**
+**<diagnosegruppe>_liste**
 
 **<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38**
 
@@ -754,7 +641,7 @@ Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeich
 
 Der XML-Code für ein <anlage_heilmittel> Element hat folgenden Aufbau:
 
-**anlage_heilmittelvereinbarung V="..." DN="..."/>**
+**<anlage_heilmittelvereinbarung V="..." DN="..."/>**
 
 **XML-Code 9:** anlage_heilmittelvereinbarung
 
@@ -771,29 +658,23 @@ vgl.: Abschnitt 5.4
 
 ## 5.10 untere_altersgrenze
 
-Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs ( Inhalt des U-Attributs (**U="..."** ) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-
+Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der
 
-heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V-
+Inhalt des U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-
+
+heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V- Attribut eine Altersangabe in Jahren.
 
 Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  **U="Tag"**) und das V- Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
 
-**V="..."** ) gibt einen Zahlenwert an, der
-
-Attribut eine Altersangabe in Jahren.
-
-="... DN ="...
+V="..." DN="..."
 
 ---
 
-untere_altersgrenze
-
-**Abbildung 10:**
+**Abbildung 10:** untere_altersgrenze
 
 Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 
-**V="..." U="..."/>**
-
-**untere_altersgrenze**
+**<untere_altersgrenze V="..." U="..."/>**
 
 **XML-Code 10: untere_altersgrenze**
 
@@ -802,37 +683,29 @@ Der XML-Code für ein <untere_altersgrenze> Element hat folgenden Aufbau:
 | ganze Zahl größer 0 | Jahr |
 | ganze Zahl aus Intervall 0 bis 365 | Tag |
 
-Ausprägungen der Attribute des Elements <untere_altersgrenze>
-
-**Tabelle 5:**
+**Tabelle 5:** Ausprägungen der Attribute des Elements <untere_altersgrenze>
 
 ## 5.11 obere_altersgrenze
 
-**V="..."** ) und des U-
-
-Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze, die für eine  Heilmittelverordnung gilt. Das Format des Inhalts des V-Attributs ( **U="..."** ) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
-
-Attributs (
+Das optionale Element <obere_altersgrenze> enthält die obere Altersgrenze, die für eine  Heilmittelverordnung gilt. Das Format des Inhalts des V-Attributs ( Attributs (**U="..."**) folgt der gleichen Systematik wie beim Element <untere_altersgrenze>.
 
 **Abbildung 11:** obere_altersgrenze
 
 Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
-**V="..." U="..."/>**
+**<obere_altersgrenze V="..." U="..."/>**
 
-**obere_altersgrenze**
-
-obere_altersgrenze
-
-**XML-Code 11:**
+**XML-Code 11:** obere_altersgrenze
 
 ## 5.12 hinweistext
 
-Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord-
+Das Element <hinweistext> enthält im V-  nungsbedarfe bzw. langfristigem Heilmittelbebarf.
 
-nungsbedarfe bzw. langfristigem Heilmittelbebarf.
+Attribut einen Hinweistext zu besonderen Verord-
 
-V ="... U ="...
+**V="..."**) und des U-
+
+V="..." U="..."
 
 ---
 
@@ -840,35 +713,27 @@ V ="... U ="...
 
 Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
-**hinweistext V="..."/>**
+**<hinweistext V="..."/>**
 
-hinweistext
-
-**XML-Code 12:**
+**XML-Code 12:** hinweistext
 
 ## 5.13 zeitraum_akutereignis
 
-**V="..."** ) gibt einen Zah-
+Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum  nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson- deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zah-
 
-Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum  nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson- deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs ( **U="..."**
+lenwert an, der Inhalt des optionalen U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’
 
-lenwert an, der Inhalt des optionalen U-Attributs (
+oder ‚Monat‘). Falls die Zeiteinheit ‚Jahr’ (**U=""Jahr** ) verwendet wird, enthält das V-Attribut
 
-) bestimmt die Zeiteinheit (‚Jahr’
+eine Zeitraumangabe in Jahren. Falls die Zeiteinheit ‚Monat’ (**U="Monat"**) verwendet oder
 
-oder ‚Monat‘). Falls die Zeiteinheit ‚Jahr’ (**U=""Jahr** ) verwendet wird, enthält das V-Attribut  **U="Monat"**) verwendet oder
+nicht angegeben wird, enthält das V-Attribut eine Zeitraumangabe in Monaten.
 
-eine Zeitraumangabe in Jahren. Falls die Zeiteinheit ‚Monat’ ( nicht angegeben wird, enthält das V-Attribut eine Zeitraumangabe in Monaten.
-
-zeitraum_akutereignis
-
-**Abbildung 13:**
+**Abbildung 13:** zeitraum_akutereignis
 
 Der XML-Code für ein < zeitraum_akutereignis > Element hat folgenden Aufbau:
 
-**V=". .." U="..."/>**
-
-**zeitraum_akutereignis**
+**<zeitraum_akutereignis V="..." U="..."/>**
 
 **XML-Code 13:** zeitraum_akutereignis
 
@@ -876,18 +741,16 @@ Der XML-Code für ein < zeitraum_akutereignis > Element hat folgenden Aufbau:
 
 Das Element <kapitel_liste> enthält ein Element <kapitel> und das Listenelement <diagnose- gruppe_liste> für die Elemente <diagnosegruppe> sowie das Element <hinweistext>.
 
-kapitel_liste
-
-**Abbildung 14:**
+**Abbildung 14:** kapitel_liste
 
 Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
 
 
 ---
 
-**kapitel_liste>**
+**<kapitel_liste>**
 
-**kapitel V="I " DN="Maßnahmen der Physiotherapie">**
+**<kapitel V="I" DN="Maßnahmen der Physiotherapie">**
 
 **...**
 
@@ -895,25 +758,21 @@ Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
 
 **</kapitel_liste>**
 
-kapitel_liste
-
-**XML-Code 14:**
+**XML-Code 14:** kapitel_liste
 
 ## 5.15 kapitel
 
 Das Element <kapitel> enthält das Listenelement <diagnosegruppe_liste> für die Elemente  <diagnosegruppe> und im V-Attribut die Kennzeichnung der Art der Therapiegruppe.
 
-kapitel
-
-**Abbildung 15:**
+**Abbildung 15:** kapitel
 
 Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
-**kapitel V="..." DN="..."/>**
+**<kapitel V="..." DN="..."/>**
 
 **XML-Code 15:** kapitel
 
-| V | DN |
+| Wert ( | Bedeutung (optional |
 |---|---|
 | I | Maßnahmen der Physiotherapie |
 | II | Maßnahmen der Podologischen Therapie |
@@ -921,61 +780,61 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 | IV | Maßnahmen der Ergotherapie |
 | V | Maßnahmen der Ernährungstherapie |
 
-Ausprägungen der Attribute des Elements <kapitel>
-
-**Tabelle 6:**
+**Tabelle 6:** Ausprägungen der Attribute des Elements <
 
 ## 5.16 diagnosegruppe_liste
 
 Das Element <diagnosegruppe_liste> enthält die Elemente <diagnosegruppe>.
 
-="... Wert ( ="... Bedeutung (optional
+kapitel>
+
+V="..." DN="..."
 
 ---
 
-| Wert ( | DN |
+| Wert ( | Bezeichnung (optional |
 |---|---|
 | AT1 | Störungen der Atmung |
 | AT2 | Störungen der Atmung |
 | AT3 | Störungen der Atmung bei Mukoviszidose |
-| CS |  |
+| CS | chronifiziertes Schmerzsyndrom |
 | CF | Mukoviszidose (Cystische Fribrose) |
 | DF | Diabetisches Fußsyndrom |
 | EN1 | ZNS-Erkrankungen (Gehirn) und/oder Entwicklungsstörungen |
 | EN2 | ZNS-Erkrankungen  (Rückenmark) / Neuromuskuläre Erkrankungen |
-| EN3 |  |
+| EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
-| EX1 |  |
+| EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
 | GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach Interventioneller / operativer Behandlung) |
-|  | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
-| < | V |
-| DN="..." |  |
-| S |  |
-| < |  |
-| </diagnosegruppe_liste> |  |
-| XML-Code 16: | 5.17 diagnosegruppe  Das Element <diagnosegruppe> enthält im V-Attribut die Kennzeichnung der Art der Thera- |
+| Abbildung 16: | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
+| <diagnosegruppe_liste> | <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> |
 |  |  |
-| Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau: | " DN="Störungen..." S |
-|  | "/> |
+|  |  |
+| <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> | </diagnosegruppe_liste> |
+|  |  |
+| XML-Code 16: | 5.17 diagnosegruppe  Das Element <diagnosegruppe> enthält im V-Attribut die Kennzeichnung der Art der Thera- |
+|  | Abbildung 17: |
+| Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau: | <diagnosegruppe V="AT1" DN="Störungen..." S="1.2.276.0.76.3.1.1.5.2.38"/> |
+|  |  |
 | XML-Code 17: |  |
 | Wert ( |  |
-|  | DN |
+|  | Bezeichnung (optional |
 |  |  |
 | AT1 | Störungen der Atmung |
 | AT2 | Störungen der Atmung |
 | AT3 | Störungen der Atmung bei Mukoviszidose |
-| CS |  |
+| CS | chronifiziertes Schmerzsyndrom |
 | CF | Mukoviszidose (Cystische Fribrose) |
 | DF | Diabetisches Fußsyndrom |
 | EN1 | ZNS-Erkrankungen (Gehirn) und/oder Entwicklungsstörungen |
 | EN2 | ZNS-Erkrankungen |
 |  | (Rückenmark) / Neuromuskuläre Erkrankungen |
-| EN3 |  |
+| EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
-| EX1 |  |
+| EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
@@ -987,75 +846,75 @@ Das Element <diagnosegruppe_liste> enthält die Elemente <diagnosegruppe>.
 |  |  |
 |  |  |
 |  |  |
-|  | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
-| < | V |
-| DN="..." | S |
-| < |  |
+| Abbildung 16: | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
+| <diagnosegruppe_liste> | <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> |
+|  |  |
+| <diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/> | </diagnosegruppe_liste> |
 
-Abbildung 16: piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). ="1.2.276.0.76.3.1.1.5.2.38"/> ="1.2.276.0.76.3.1.1.5.2.38"/> Abbildung 17: ="AT1 ="1.2.276.0.76.3.1.1.5.2.38 Bezeichnung (optional ="1.2.276.0.76.3.1.1.5.2.38" chronifiziertes Schmerzsyndrom Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen - und Bewegungsorgane im Säuglings-, Kleinkind- und Kindesalter
+piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). - und Bewegungsorgane im Säuglings-, Kleinkind- und Kindesalter
 
 ---
 
-| SAS | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch SB2 |
+| SAS Seltene angeborene Stoffwechselerkrankungen | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch SB2 |
 |---|---|
 | SB3 | System- und Autoimmunerkrankungen mit Bindegewebe-, Muskel- und Gefäßbe- |
 | SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisc |
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
-| SB6 |  |
+| SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
-| SC1 |  |
+| SC1 | Krankhafte Störungen des Schluckaktes |
 | SC2 | Schädigungen im Kopf-Hals-Bereich |
 | SF | Störungen der Stimm- und Sprechfunktion SO1 Störung der Dickdarmfunktion |
-| SO2 |  |
+| SO2 | Störungen der Ausscheidung (Stuhlinkontinenz, Harninkontinenz) |
 | SO3 | Schwindel unterschiedlicher Genese und Ätiologie |
 | SO4 | Sekundäre periphere trophische Störungen bei Erkrankungen |
 | SO5 | Prostatitis, Adnexitis |
 | SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklung |
-| SP2 |  |
+| SP2 | Störungen der auditiven Wahrnehmung |
 | SP3 | Störungen der Artikulation SP4 |
 | LY1 | Lymphabflussstörungen |
 | LY2 | Lymphabflussstörungen |
-| LY3 |  |
+| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen |
 | PN | periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
-| PS2 | keiten |
+| PS2 | Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffällig |
 | PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen  / |
 | PS4 | Dementielle Syndrome Psychische und Verhaltensstörungen durch psychotrope |
 | PS5 | Dementielle Syndrome |
 | RE1 | Störungen des Redeflusses (Stottern) |
 | RE2 | Störungen des Redeflusses (Poltern) |
-| SAS |  |
+| SAS | Seltene angeborene Stoffwechselerkrankungen |
 | SB1 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch |
-| SB2 | - |
+| SB2 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch |
 | SB3 | System- und Autoimmunerkrankungen mit Bindegewebe-, Muskel- und Gefäßbe- |
 | SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisc |
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
-| SB6 |  |
+| SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
-| SC1 |  |
+| SC1 | Krankhafte Störungen des Schluckaktes |
 | SC2 | Schädigungen im Kopf-Hals-Bereich |
 | SF | Störungen der Stimm- und Sprechfunktion |
 | SO1 | Störung der Dickdarmfunktion |
-| SO2 |  |
+| SO2 | Störungen der Ausscheidung (Stuhlinkontinenz, Harninkontinenz) |
 | SO3 | Schwindel unterschiedlicher Genese und Ätiologie |
 | SO4 | Sekundäre periphere trophische Störungen bei Erkrankungen |
 | SO5 | Prostatitis, Adnexitis |
 | SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklung |
-| SP2 |  |
+| SP2 | Störungen der auditiven Wahrnehmung |
 | SP3 | Störungen der Artikulation |
 | SP4 | Störungen des Sprechens / der Sprache bei hochgradiger Schwerhörigkeit oder |
 | SP5 | Störungen der Sprache nach Abschlussß der Sprachentwicklung |
 | SP6 | Störungen der Sprechmotorik |
-| ST1 |  |
+| ST1 | Organisch bedingte Erkrankungen der Stimme |
 | ST2 | Funktionell bedingte Erkrankungen der Stimme |
 | ST3 | Psychogene Aphonie Erkrankungen der Stimme |
 | ST4 | Psychogene Dysphonie Erkrankungen der Stimme |
 | LY1 | Lymphabflussstörungen |
 | LY2 | Lymphabflussstörungen |
-| LY3 | PN periphere Nervenläsionen / Muskelerkrankungen |
+| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
-chronische Lymphabflussstörungen bei bösartigen Erkrankungen Kindheit und Jugend Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffällig mit körperlichen Störungen oder Faktoren; Abhängigkeitserkrankungen Substanzen Seltene angeborene Stoffwechselerkrankungen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Krankhafte Störungen des Schluckaktes Störungen der Ausscheidung (Stuhlinkontinenz, Harninkontinenz) Störungen der auditiven Wahrnehmung Taubheit Organisch bedingte Erkrankungen der Stimme              Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
+Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Abhängigkeitserkrankungen Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit keiten  Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
 
 ---
 

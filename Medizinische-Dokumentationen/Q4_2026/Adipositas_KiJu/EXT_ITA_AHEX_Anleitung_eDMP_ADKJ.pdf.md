@@ -2,9 +2,9 @@
 
 ## zum indikationsspezifischen Datensatz  für das strukturierte Behandlungsprogramm
 
-## Adipositas  Kinder und Jugendliche 09.12.2025
+## Adipositas  Kinder und Jugendliche
 
-Stand der letzten Bearbeitung:
+Stand der letzten Bearbeitung: 09.12.2025
 
 Version 1.0
 
@@ -195,33 +195,29 @@ Bei einer Folgedokumentation ist hier keine Angabe möglich.
 
 Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie individuelle Ziele zur Ernährungsumstellung
 
-, wann immer sinnvoll und möglich, mit einbezogen werden.
+vereinbaren. Das häusliche bzw. betreuende und soziale Umfeld spielen bei der Langzeitadhärenz eine  wesentliche Rolle und sollen, wann immer sinnvoll und möglich, mit einbezogen werden.
 
-vereinbaren. Das häusliche bzw. betreuende und soziale Umfeld spielen bei der Langzeitadhärenz eine  wesentliche Rolle und sollen
+Die Ernährung zur Behandlung der Adipositas sollte ausgewogen und abwechslungsreich sein, auch unter  Berücksichtigung der Portionsgrößen. Eine Steigerung der Aufnahme von Gemüse, Obst und
 
-Die Ernährung zur Behandlung der Adipositas sollte ausgewogen und abwechslungsreich sein, auch unter  Portionsgrößen. Eine Steigerung der Aufnahme von Gemüse, Obst und
+ballaststoffreichen Kohlenhydraten und eine Reduktion der Aufnahme an fett und zuckerhaltigen Lebensmitteln
 
-Berücksichtigung der  ballaststoffreichen Kohlenhydraten und eine Reduktion der Aufnahme an fett und zuckerhaltigen Lebensmitteln
-
-werden empfohlen. Insbesondere sollte die Getränkeauswahl zugunsten von Wasser geändert werden. Starre  Diätpläne oder Kostformen mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem
-
-Langzeiterfolg einher und sollten daher nicht angewandt werden.
+werden empfohlen. Insbesondere sollte die Getränkeauswahl zugunsten von Wasser geändert werden. Starre  Diätpläne oder Kostformen mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem  Langzeiterfolg einher und sollten daher nicht angewandt werden.
 
 Bitte geben Sie „Ziel e vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihrem Patienten Ziel e zur
 
 Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbaren.
 
-oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
 
-Sollten Sie mit Ihrer Patientin  Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
+Aufrechterhaltung der Ernährungsänderung vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“
 
 an.
 
 #### Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit  der letzten Dokumentation
 
-den Zeitraum seit der letzten Dokumentation und ist daher nur
+Eine Angabe zu diesem Feld zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung  bezieht sich hier ausschließlich rückblickend auf den Zeitraum seit der letzten Dokumentation und ist daher nur
 
-Eine Angabe zu diesem Feld zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung  bezieht sich hier ausschließlich rückblickend auf  im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend.
+im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend.
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
@@ -229,25 +225,19 @@ Bei einer Erstdokumentation ist hier keine Angabe möglich.
 
 Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie individuelle Ziele zur Ernährungsumstellung  vereinbaren bzw. überprüfen. Das häusliche bzw. betreuende und soziale Umfeld spielen bei der  Langzeitadhärenz eine wesentliche Rolle und sollen wann immer sinnvoll und möglich mit einbezogen werden.
 
-Steigerung der Aufnahme von Gemüse, Obst und ballaststoffreichen
+Bei den Zielen kann es sich z. B. um eine Steigerung der Aufnahme von Gemüse, Obst und ballaststoffreichen
 
-Bei den Zielen kann es sich z. B. um eine  Kohlenhydraten und/oder eine Reduktion der Aufnahme an fett - und zuckerhaltigen Lebensmitteln oder auch  um eine Änderung der Getränkeauswahl zugunsten von Wasser handeln. Starre Diätpläne oder Kostformen  mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem Langzeiterfolg einher und
+Kohlenhydraten und/oder eine Reduktion der Aufnahme an fett - und zuckerhaltigen Lebensmitteln oder auch  um eine Änderung der Getränkeauswahl zugunsten von Wasser handeln. Starre Diätpläne oder Kostformen  mit extremen Nährstoffrelationen gehen mit medizinischen Risiken und fehlendem Langzeiterfolg einher und  sollten daher nicht angewandt werden.
 
-sollten daher nicht angewandt werden.
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im
+Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
 
-Ernährungsumstellung
+geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
-überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
 
-Rahmen dieser Dokumentation  geben Sie bitte „Ziele vereinbart oder überprüft“ an.
-
-oder Ihrem Patienten kein e Ziele zur Ernährungsumstellung oder zur
-
-Sollten Sie mit Ihrer Patientin  Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,
-
-geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
+Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
 
 
 ---
@@ -319,25 +309,21 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 ---
 
-an. War die Teilnahme an einer Adipositas-Schulung für Kinder und Jugendliche innerhalb des
-
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte **„Ja“**
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte **„Ja“** an. War die Teilnahme an einer Adipositas-Schulung für Kinder und Jugendliche innerhalb des
 
 Dokumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich** , geben Sie hier bitte **„War**
 
-**aktuell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere  Teilnahme an einer Adipositas-Schulung für Kinder und Jugendliche
+**aktuell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere
 
-patientenseitige Voraussetzungen für die  nicht gegeben sind. Weitere Gründe können z. B. fehlende Schulungskapazität, Krankenhausaufenthalt Ihrer  Patientin oder Ihres Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
+patientenseitige Voraussetzungen für die Teilnahme an einer Adipositas-Schulung für Kinder und Jugendliche
 
-Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung
+nicht gegeben sind. Weitere Gründe können z. B. fehlende Schulungskapazität, Krankenhausaufenthalt Ihrer  Patientin oder Ihres Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
 
-**„Nein“** an.
+Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung  empfohlen haben, Ihre Patientin oder ihr Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte **„Nein“** an.
 
-empfohlen haben, Ihre Patientin oder ihr Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte
+**Bitte beachten Sie:** Diese Angabe kann bei wiederholter Angabe zum Ausschluss Ihrer Patientin oder Ihres
 
-Diese Angabe kann bei wiederholter Angabe zum Ausschluss Ihrer Patientin oder Ihres
-
-**Bitte beachten Sie:** Patienten aus dem Programm führen!
+Patienten aus dem Programm führen!
 
 Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte **„Bei letzter**
 
@@ -345,9 +331,7 @@ Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben 
 
 Die Angaben **„Ja“ „War aktuell nicht möglich“** und **„Bei letzter Dokumentation keine Schulung**
 
-führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
-
-**empfohlen“**
+**empfohlen“** führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
 
 ## Relevante Ereignisse seit der letzten Dokumentation
 
@@ -357,23 +341,17 @@ Eine Angabe in diesem Feld ist nur im Rahmen einer **Folgedokumentation** mögli
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
-ist hier keine Angabe möglich.
+Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Bei der Erstdokumentation
+Bitte überprüfen Sie **regelmäßig**, ob **Ihre Patientin oder Ihr Patient weiterhin von einer Teilnahme am**
 
-Bitte überprüfen Sie **regelmäßig**, ob **Ihre Patientin oder Ihr Patient weiterhin von einer Teilnahme am**  . Sollten Sie gemeinsam mit Ihrer Patientin oder Ihrem
+**DMP Adipositas - Kinder und Jugendliche profitiert**. Sollten Sie gemeinsam mit Ihrer Patientin oder Ihrem
 
-**DMP Adipositas - Kinder und Jugendliche profitiert** Patienten zu der Auffassung kommen, dass ihre oder seine weitere Teilnahme am DMP Adipositas - Kinder
+Patienten zu der Auffassung kommen, dass ihre oder seine weitere Teilnahme am DMP Adipositas - Kinder
 
 und Jugendliche nicht mehr zielführend ist, können Sie das über dieses Feld dokumentieren .
 
-**hier die Antwort „Ja“ angeben, erfolgt eine**
-
-**DMP -Teilnahme**
-
-**Wenn Sie**
-
-**Beendigung der**
+**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP -Teilnahme**
 
 **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**
 

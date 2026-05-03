@@ -7,9 +7,7 @@
 |  | KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 17. MAI 2024 VERSION: 5.6  DOKUMENTENSTATUS: IN KRAFT |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG
-
-# VERORDNUNG VON ARZNEIMITTELN
+# ANTRAG AUF ZERTIFIZIERUNG  VERORDNUNG VON ARZNEIMITTELN
 
 ## [KBV_ITA_FMEX_AAZ_AMV]
 
@@ -147,11 +145,11 @@ Folgende optionale Funktionen wurden umgesetzt:
 | O36-40 | Festlegung der ausstellenden Person zum Signaturzeitpunkt [siehe Technischen Anlage eRezept] | ☐ |
 | O6-231 | Zwei Patientenausdrucke einer Person auf einem DIN [siehe Technischen Anlage eRezept] | ☐ |
 | O4-100 | Richtgrößen | ☐ |
-| O4-110 |  | ☐ |
+| O4-110 | Controlling: Richtgrößenausschöpfung | ☐ |
 | O4-130 | Weitere Controllingprogramme | ☐ |
-| O4-140 |  | ☐ |
+| O4-140 | Preiszuordnung bei Wirkstoffverordnung | ☐ |
 
-NUMMER -A4- Blatt Controlling: Richtgrößenausschöpfung Preiszuordnung bei Wirkstoffverordnung BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+NUMMER -A4- Blatt BITTE ANKREUZEN [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
@@ -195,7 +193,7 @@ Diese Information ist verpflichtend anzugeben
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| Verordnung von Arznei- | Neu-, Re- oder Er- | Sichtprüfung und | 1.651,44 |
+| Verordnung von Arznei- | Neu-, Re- oder Er- | (Prüfvorgang AMV | 1.651,44 [pro Sichtprüfung] |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -231,19 +229,17 @@ Diese Information ist verpflichtend anzugeben
 
 - Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur
 
-mitteln  weiterungszertifizierung Ergebnisprüfung (Prüfvorgang AMV [pro Sichtprüfung]  eRezept)
+Sichtprüfung und mitteln  weiterungszertifizierung Ergebnisprüfung eRezept)
 
 ---
 
 - Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-- (6) Der
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung
 
--
+- Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-- Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
-
-- IV. Sonstiges
+- **IV.** **Sonstiges**
 
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 

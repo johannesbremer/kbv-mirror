@@ -36,7 +36,7 @@ Der Anforderungskatalog in der Version 5. 8 tritt am 01.10.2025 in Kraft.
 | Version |  | Änderung | Begründung | Seite |
 | 5.8 | 01.10.2025 | Inkrafttreten |  |  |
 |  |  | P2-110 | Aufnahme des neuen Merkmals 023, | 11, 30 |
-|  |  |  | Erweiterung der Kapitel „ | 18  19 |
+|  |  | P2-110 | Erweiterung der Kapitel „ | 18  19 |
 |  |  | K2-155, | Klarstellung zum Thema Hausapotheke | 21, 23 |
 |  |  | P3-141 | Klarstellung zum Thema Rote-Handbriefe | 32 |
 |  |  | P3-621,  O3-622,  P3-624,  P3-700,  P3-720 | Klarstellung der Anforderungen | 46, 47, 48, 55, 57 |
@@ -180,31 +180,23 @@ Produktverzeichnis bzw. den sonstigen genannten Quellen
 
 # 1. Einleitung
 
-Vertragsärzte auch vergleichend über preisgünstige
+Als Grundlage für eine wirtschaftliche Verordnungsweise haben die Kassenärztlichen  Vereinigungen und die Kassenärztliche Bundesvereinigung sowie die Krankenkassen und ihre  Verbände die Vertragsärztinnen und Vertragsärzte auch vergleichend über preisgünstige
 
-Als Grundlage für eine wirtschaftliche Verordnungsweise haben die Kassenärztlichen  Vereinigungen und die Kassenärztliche Bundesvereinigung sowie die Krankenkassen und ihre  Verbände die Vertragsärztinnen und  verordnungsfähige Leistungen einschließlich der jeweiligen Preise und Entgelte zu informieren  sowie nach dem allgemeinen anerkannten Stand der medizinischen Erkenntnisse Hinweise zu  r Ärztin bzw.
+verordnungsfähige Leistungen einschließlich der jeweiligen Preise und Entgelte zu informieren  sowie nach dem allgemeinen anerkannten Stand der medizinischen Erkenntnisse Hinweise zu  Indikation und therapeutischem Nutzen zu geben. Diese Informationen sind de r Ärztin bzw.
 
-Indikation und therapeutischem Nutzen zu geben. Diese Informationen sind de dem Arzt gemäß den Regelungen dieses Anforderungskatalogs in der Verordnungssoftware  in aktueller Form und vollständig zur Verfügung zu stellen. Verordnungssoftware im Sinne des  KBV-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe,  Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der vertragsärztlichen  Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten benötigt werden.
+dem Arzt gemäß den Regelungen dieses Anforderungskatalogs in der Verordnungssoftware  in aktueller Form und vollständig zur Verfügung zu stellen. Verordnungssoftware im Sinne des  KBV-Prüfverfahrens sind alle Programme oder Programmteile zum Zwecke der Eingabe,  Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der vertragsärztlichen  Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten benötigt werden.
 
-sind sämtliche Informationen zu Arzneimitteln nach Maßgabe dieses Anforderungskatalogs Es  jeweils in aufbereiteter Form auf Ebene der Pharmazentralnummer (PZN) zur Verfügung zu  stellen.
+Es sind sämtliche Informationen zu Arzneimitteln nach Maßgabe dieses Anforderungskatalogs  jeweils in aufbereiteter Form auf Ebene der Pharmazentralnummer (PZN) zur Verfügung zu  stellen.
 
-zu gewährleisten, dass sämtliche Informationen zu
-
-Es ist außerdem
+Es ist außerdem zu gewährleisten, dass sämtliche Informationen zu
 
 Arzneimittelvereinbarungen (Rahmenvereinbarungen, Zielvereinbarungen) zur Verfügung  stehen.
 
 ## 1.1 Zielbestimmung
 
-und sonstigen nach § 31 SGB V in die
+Dieser Anforderungskatalog gilt für Verordnungssoftware, die in der vertragsärztl ichen  Versorgung zur Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die
 
-Dieser Anforderungskatalog gilt für Verordnungssoftware, die in der vertragsärztl ichen  Versorgung zur Verordnung von Arzneimitteln  Arzneimittelversorgung einbezogenen Produkten zum Einsatz kommen. Erweiterungen des  Anforderungskatalogs können durch landesspezifische Vereinbarungen, die zwischen den
-
-Software -Anforderungen, die sich aufgrund von Regelungen
-
-Kassenärztlichen Vereinigungen und den Landesverbänden der Krankenkassen getroffen  werden, erfolgen.
-
-in
+Arzneimittelversorgung einbezogenen Produkten zum Einsatz kommen. Erweiterungen des  Anforderungskatalogs können durch landesspezifische Vereinbarungen, die zwischen den  Kassenärztlichen Vereinigungen und den Landesverbänden der Krankenkassen getroffen  werden, erfolgen. Software -Anforderungen, die sich aufgrund von Regelungen in
 
 Selektivverträgen ergeben, bleiben von diesem Anforderungskatalog unberührt.
 
@@ -212,9 +204,9 @@ Selektivverträgen ergeben, bleiben von diesem Anforderungskatalog unberührt.
 
 werden, die in § 73 SGB V und in anderen Rechtsnormen festgeschriebenen Regelungen zu  erfüllen.
 
-sind ist in regelmäßigen
+Die Verordnungssoftware muss vor ihrem Einsatz durch die KBV zugelassen werden und mit  dem jeweils aktuellen Datenstand zur Verfügung stehen. Sie sind ist in regelmäßigen
 
-Die Verordnungssoftware muss vor ihrem Einsatz durch die KBV zugelassen werden und mit  dem jeweils aktuellen Datenstand zur Verfügung stehen. Sie  Abständen auf ihre Zulassungskonformität zu prüfen. Die Zulassung erfolgt auf der Grundlage
+Abständen auf ihre Zulassungskonformität zu prüfen. Die Zulassung erfolgt auf der Grundlage
 
 von § 73 SGB V i. V. m. § 29 Bundesmantelvertrag  Ärzte (BMV-Ä).
 
@@ -222,9 +214,9 @@ Das Verfahren der Zertifizierung ist im Dokument „Zertifizierungsrichtlinie de
 
 beschrieben (www.kbv.de/ita).
 
-, wenn festgestellt wird, dass
+Die KBV ist berechtigt, ein bereits erteiltes Zertifikat zu entziehen, wenn festgestellt wird, dass
 
-Die KBV ist berechtigt, ein bereits erteiltes Zertifikat zu entziehen zertifizierte Software den Vorgaben dieses Anforderungskatalogs nicht mehr genügt.
+zertifizierte Software den Vorgaben dieses Anforderungskatalogs nicht mehr genügt.
 
 
 ---
@@ -273,7 +265,7 @@ Ident-Nummer einer optionalen Funktion (P2-070)
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P1-010 | Benutzerhandbuch |
+| P1-010 |  |
 
 Es muss eine ausreichende Dokumentation zur Verordnungssoftware in elektronischer Form  oder in Form eines Handbuchs zur Verfügung gestellt werden.
 
@@ -287,11 +279,9 @@ Einstellungen der Ärztin bzw. des Arztes müssen bei Aktualisierung der Verordn
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P1-040 | Freischaltung einzelner Informationen zu Arzneimitteln |
+| P1-040 | nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten |
 
-SGB V in die Arzneimittelversorgung einbezogenen Produkten sowie
-
-Alle Inhalte von Pflicht- und konditionalen Pflichtfunktionen zu Informationen zu Arzneimitteln  und sonstigen nach § 31
+Alle Inhalte von Pflicht- und konditionalen Pflichtfunktionen zu Informationen zu Arzneimitteln  und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten sowie
 
 zu Verordnungsinformationen sind ohne Freischaltung bzw. Maßnahmen zur Aktivierung
 
@@ -313,25 +303,23 @@ sind gemäß der in der Schnittstellenbeschreibung beschriebenen Art und Weise a
 
 **Begründung:**
 
-dass Informationen zu Arzneimittelvereinbarungen (ARV)
-
-Es ist zu gewährleisten,
+Es ist zu gewährleisten, dass Informationen zu Arzneimittelvereinbarungen (ARV)
 
 (Rahmenvereinbarungen, Zielvereinbarungen) zur Verfügung stehen.
 
-Diese werden in geeigneter Form durch die Vertragspartner auf Bundes -/Landesebene  reinigung (KBV), GKV-Spitzenverband (GKV-SV), Kassenärztliche
+Diese werden in geeigneter Form durch die Vertragspartner auf Bundes -/Landesebene  (Kassenärztliche Bundesvereinigung (KBV), GKV-Spitzenverband (GKV-SV), Kassenärztliche
 
-(Kassenärztliche Bundesve Vereinigungen, Krankenkassenverbände, Krankenkassen) zur Verfügung gestellt.
+Vereinigungen, Krankenkassenverbände, Krankenkassen) zur Verfügung gestellt.
 
 Die Schnittstelle dient der Übermittlung der Inhalte der regionalen, kollektivvertraglichen  Arzneimittelvereinbarungen in der jeweils aktuellen Version.
 
 Die hierfür erforderliche Schnittstelle ist definiert in der Datensatzbeschreibung ARV  (ftp://ftp.kbv.de/ita-update/Stammdateien/).
 
-oder Ergänzungen der ARV -Schnittstelle aufgrund regionaler
+Sofern Anpassungen oder Ergänzungen der ARV -Schnittstelle aufgrund regionaler
 
-Sofern Anpassungen  Vereinbarungen notwendig werden, die mit der bisherigen Schnittstellenbeschreibung nicht  abbildbar sind, sind diese von den regionalen Vertragspartnern in Form von technisch  nach
+Vereinbarungen notwendig werden, die mit der bisherigen Schnittstellenbeschreibung nicht  abbildbar sind, sind diese von den regionalen Vertragspartnern in Form von technisch  ausspezifizierten Erweiterungen zur Verfügung zu stellen. Diese werden von der KBV nach
 
-und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen Produkten Absatz 1 SGB V ausspezifizierten Erweiterungen zur Verfügung zu stellen. Diese werden von der KBV inhaltlicher und technischer Prüfung in die ARV-Schnittstelle übernommen.
+Benutzerhandbuch Freischaltung einzelner Informationen zu Arzneimitteln und sonstigen Absatz 1 SGB V inhaltlicher und technischer Prüfung in die ARV-Schnittstelle übernommen.
 
 
 ---
@@ -592,74 +580,136 @@ N3 nach der Verordnung nach § 31 -
 
 ---
 
-- 034 Merkmal AVP liegt über, unter oder ist gleich dem Festbetrag (Berechnung durch  Software)
+- 034
 
-- 035 Zuzahlungsbetrag (§ 31 Absatz 3 SGB V) -
+- 035
 
-- 036 Mehrkosten bei Festbetragsarzneimitteln (Berechnung durch Software)
+- 036
 
-- 037 Merkmal Zuzahlungsfreistellung (§ 31 Absatz 3 SGB V)
+- 037
 
-- 038 Merkmal Bestimmung nach §130b Absatz 1c SGB V (Vertraulicher Erstattungsbetrag) -
+- 038
 
-- 039 Zuzahlung nach § 61 Satz 1 SGB V (bei vertraulichem Erstattungsbetrag)
+- 039
 
-**Verordnungshinweise und Inhalte der AM-RL**
+**Verordnungshinweise und Inhalte der**
 
-- 050 Merkmal ehemalige Negativliste  3
+- 050
 
-- 051 Merkmal Lifestyle-Arzneimittel (AM-RL Anlage II)
+- 051
 
-- 052 Merkmal bedingtes Lifestyle-Arzneimittel (AM-RL Anlage II)
+- 052
 
-- 053 Merkmal OTC -Arzneimittel mit Ausnahmeregelungen für Kinder ab 12 Jahren und  Erwachsene (sogenannte OTX -Arzneimittel; AM -RL Anlage I) (Zuordnung er folgt  durch AM-DB-Hersteller) - -130)
+- 053
 
-- 054 Für OTX-Arzneimittel: Texte der AM-RL Anlage I (OTC-Ausnahmeliste), anzuzeigen  bei Kindern ab 12 Jahren und Erwachsenen (siehe P3
+- 054
 
-- 055 Merkmal Verordnungseinschränkungen der AM-RL Anlage III (Rechtsgrundlage [4])  (Zuordnung erfolgt durch AM-DB-Hersteller)
+- 055
 
-- 056 Merkmal Verordnungsausschlüsse der AM-RL Anlage III (Rechtsgrundlagen [1]; [2]  und [3]) (Zuordnung erfolgt durch AM-DB-Hersteller)
+- 056
 
-- die Verordnungseinschränkungen/ -ausschlüssen der AM-RL
+- 057
 
-- 057 Für Arzneimittel,  Anlage III unterliegen: Texte der AM-RL soweit zutreffend als Kombination aus den  Spalten „Rechtliche Grundlagen und Hinweise“ und „Arzneimittel und sonstige  -DB-Hersteller)
+- 058
 
-- Produkte“ (Zuordnung der Texte erfolgt durch AM
+- 059
 
-- 058 Merkmal Therapiehinweis des G-BA (AM-RL Anlage IV) (Zuordnung der Texte erfolgt  durch AM-DB-Hersteller)
+- 060
 
-- 059 Stand des Therapiehinweises (Datum) und Verweis auf den Therapiehinweis als Link  auf das hinterlegte PDF-Dokument - AM-DB-
+- 061
 
-- 060 Merkmal Arzneimittel der AM -RL Anlage VII Teil B (Zuordnung durch  Hersteller)
+- 062
 
-- § 35a SGB V (AM-RL Anlage XII) liegt
+- 063
 
-- 061 Merkmal Beschluss zur Nutzenbewertung nach  vor (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom  G-BA auf den Internetseiten des G-BA)
+**Regionale Arzneimittelvereinbarungen**
 
-- Anforderungen an die Qualität der Anwendung von Arzneimitteln
-
-- 062 Merkmal Richtlinie für  für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für
-
-- Arzneimittel mit Kennzeichen 061 (= Merkmal 109) (Quelle: maschinenlesbare
-
-- Fassung zu den Beschlüssen nach § 35a SGB V vom G-BA auf den Internetseiten des - G-BA)
-
-- 063 Merkmal Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  § 35a Absatz 3b
-
-- „Begleitende Datenerhebung mit Verordnungseinschränkung nach  SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach § 35a
-
-- V“ (= Merkmal 128) (Quelle: maschinenlesbare Fassung zu den
-
-- Absatz 3b SGB  § 35a Absatz 3 SGB V vom G-BA auf den Internetseiten des G-BA) - Beschlüssen nach
+- 080
 
 | 3 Nach | § 34 | Absatz 3 SGB | V: | Anlage 2 |
 |---|---|---|---|---|
 | (sog. | Negativliste) | gilt als |  |  |
 | Teil | der AM-RL. |  |  |  |
 
-**Regionale Arzneimittelvereinbarungen**
+- Merkmal AVP liegt über, unter oder ist gleich dem Festbetrag (Berechnung durch  Software)
 
-Nach § 34 Absatz 3 SGB V: Anlage 2 Nr. 2 bis 6 der Verordnung über unwirtschaftliche Arzneimittel in der GKV (sog. Negativliste) gilt als Verordnungsausschluss und wurde mit der gesetzlichen Neuregelung zum 01.01.2011 Teil der AM-RL.  - 080 Merkmal regionale Arzneimittelvereinbarung nach § 84 Absatz 1 SGB V für dieses  Produkt ( abhängig von KV -Zugehörigkeit ( Zuordnung über Betriebsstättennummer
+- Zuzahlungsbetrag (§ 31 Absatz 3 SGB V)
+
+- Mehrkosten bei Festbetragsarzneimitteln (Berechnung durch Software)
+
+- Merkmal Zuzahlungsfreistellung (§ 31 Absatz 3 SGB V)
+
+- Merkmal Bestimmung nach §130b Absatz 1c SGB V (Vertraulicher Erstattungsbetrag)
+
+- Zuzahlung nach § 61 Satz 1 SGB V (bei vertraulichem Erstattungsbetrag)
+
+**AM-RL**
+
+- 3
+
+- Merkmal ehemalige Negativliste
+
+- Merkmal Lifestyle-Arzneimittel (AM-RL Anlage II)
+
+- Merkmal bedingtes Lifestyle-Arzneimittel (AM-RL Anlage II)
+
+- Merkmal OTC -Arzneimittel mit Ausnahmeregelungen für Kinder ab 12 Jahren und  Erwachsene (sogenannte OTX -Arzneimittel; AM -RL Anlage I) (Zuordnung er folgt  durch AM-DB-Hersteller)
+
+- Für OTX-Arzneimittel: Texte der AM-RL Anlage I (OTC-Ausnahmeliste), anzuzeigen  bei Kindern ab 12 Jahren und Erwachsenen (siehe P3
+
+- Merkmal Verordnungseinschränkungen der AM-RL Anlage III (Rechtsgrundlage [4])  (Zuordnung erfolgt durch AM-DB-Hersteller)
+
+- Merkmal Verordnungsausschlüsse der AM-RL Anlage III (Rechtsgrundlagen [1]; [2]  und [3]) (Zuordnung erfolgt durch AM-DB-Hersteller)
+
+- Für Arzneimittel, die Verordnungseinschränkungen/
+
+- Anlage III unterliegen: Texte der AM-RL soweit zutreffend als Kombination aus den  Spalten „Rechtliche Grundlagen und Hinweise“ und „Arzneimittel und sonstige  Produkte“ (Zuordnung der Texte erfolgt durch AM
+
+- Merkmal Therapiehinweis des G-BA (AM-RL Anlage IV) (Zuordnung der Texte erfolgt  durch AM-DB-Hersteller)
+
+- Stand des Therapiehinweises (Datum) und Verweis auf den Therapiehinweis als Link  auf das hinterlegte PDF-Dokument
+
+- Merkmal Arzneimittel der AM -RL Anlage VII Teil B (Zuordnung durch  Hersteller)
+
+- Merkmal Beschluss zur Nutzenbewertung nach  vor (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom  G-BA auf den Internetseiten des G-BA)
+
+- Merkmal Richtlinie für Anforderungen an die Qualität der Anwendung von Arzneimitteln
+
+- für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für
+
+- Arzneimittel mit Kennzeichen 061 (= Merkmal  Fassung zu den Beschlüssen nach § 35a SGB V vom G - G-BA)
+
+- Merkmal Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  „Begleitende Datenerhebung mit Verordnungseinschränkung nach  SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach  Absatz 3b SGB V“ (= Merkmal 128) (Quelle: maschinenlesbare Fassung zu den
+
+- Beschlüssen nach § 35a Absatz 3 SGB V vom G
+
+- Merkmal regionale Arzneimittelvereinbarung nach § 84 Absatz 1 SGB V für dieses  Produkt ( abhängig von KV -Zugehörigkeit ( Zuordnung über - -130)
+
+- -ausschlüssen der
+
+- -DB-Hersteller)
+
+- § 35a SGB V (AM-RL Anlage XII) liegt
+
+- 109) (Quelle: maschinenlesbare  -BA auf den Internetseiten - -BA auf den Internetseiten
+
+- Betriebsstättennummer
+
+-
+
+-
+
+-
+
+- AM-RL
+
+- AM-DB-
+
+- des
+
+- § 35a Absatz 3b  § 35a
+
+Nach § 34 Absatz 3 SGB V: Anlage 2 Nr. 2 bis 6 der Verordnung über unwirtschaftliche Arzneimittel in der GKV (sog. Negativliste) gilt als Verordnungsausschluss und wurde mit der gesetzlichen Neuregelung zum 01.01.2011 Teil der AM-RL.  - des G-BA)
 
 
 ---
@@ -825,15 +875,11 @@ Die nachfolgend aufgeführten XML bereitgestellte XML-Datei bzw. XSD-Schema.
 
 (XML-Element BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/NAME_WS_
 
-BEW@value) - 117
+BEW@value)
 
-- -Kombination
+- 117 ATC-Code im Falle einer bewerteten Fix-Kombination
 
-- ATC-Code im Falle einer bewerteten Fix (XML-Element
-
-WS_BEW/ATC_WS_FIX_
-
-BE/PAT_GR_INFO_Collection/ID_PAT_GR/
+(XML-Element  BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/ATC_WS_FIX_
 
 KOMB@value)
 
@@ -845,27 +891,23 @@ KOMB@value)
 
 (XML-Element BE/ZUL/NAME_HN@value) - 120 Pharmazentralnummer
 
-/PZN@value)
-
-(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/PZN@value)
 
 - 121 Anatomisch-therapeutisch-chemischer-Code
 
 (XML-Element BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/WS_INFO_
 
-BEW/ATC/ATC_CODE@value) - 122
+BEW/ATC/ATC_CODE@value)
 
--
-
-- Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM
+- 122 Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM
 
 (XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/WS_INFO_
 
 BEW/ASK/ASK_NR@value) - 123 Wirkstoffname
 
-WS_BEW/WS_INFO_BEW/ASK/NAM
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_BEW/WS_INFO_BEW/ASK/NAM
 
-(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ E_ASK@value)
+E_ASK@value)
 
 - 124 Wirkstoffname der Kombinationstherapie lt. Zulassung
 
@@ -873,55 +915,37 @@ WS_BEW/WS_INFO_BEW/ASK/NAM
 
 e)
 
-- 125 Anatomisch-therapeutisch-chemischer-Code (XML-Element
+- 125 Anatomisch-therapeutisch-chemischer-Code
 
-/WS_KOMB/WS_INFO/ATC/ATC_CO
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_KOMB/WS_INFO/ATC/ATC_CO
 
-/BE/PAT_GR_INFO_Collection/ID_PAT_GR DE@value) - 126
+DE@value)
 
--
+- 126 Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM
 
-- Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM (XML-Element
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_KOMB/WS_INFO/ASK/ASK_NR
 
-/WS_KOMB/WS_INFO/ASK/ASK_NR
-
-/BE/PAT_GR_INFO_Collection/ID_PAT_GR @value) - 127 Wirkstoffname
+@value) - 127 Wirkstoffname
 
 (XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/WS_KOMB/WS_INFO/ASK/NAME_A
 
-SK@value) - 128
+SK@value)
 
--
+- 128 Begleitende Datenerhebung nach §35a Absatz 3b SGBV
 
-- Begleitende Datenerhebung nach §35a Absatz 3b SGBV
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/BEGL_DAT_ERH@value)
 
-(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/BEGL_DAT_ERH@value) - 129
+- 129 Text für Verweis auf Hyperlink Internet-Seite des G-BA zur begleitenden - Datenerhebung
 
-- -Seite des G-BA zur begleitenden
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/URL_BEGL_DAT_ERH_VB_TEXT@v
 
-- Text für Verweis auf Hyperlink Internet Datenerhebung (XML-Element
+alue)
 
-/ID_PAT_GR/URL_BEGL_DAT_ERH_VB_TEXT
+- 130 Hyperlink begleitenden Datenerhebung
 
-/BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/URL_BEGL_DAT_ERH_VB@value) - 131 Beschlussdatum
 
-@v
-
-alue) - 130
-
--
-
-- Hyperlink begleitenden Datenerhebung
-
-/ID_PAT_GR/URL_BEGL_DAT_ERH_VB@value)
-
-(XML-Element  /BE/PAT_GR_INFO_Collection - 131 Beschlussdatum
-
-(XML-Element
-
-/ID_PAT_GR/DATUM_BE_VOM@value)
-
-/BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/DATUM_BE_VOM@value)
 
 - 132 Geltungsende des Beschlusses
 
@@ -930,141 +954,79 @@ alue) - 130
 
 ---
 
-- 133
-
-- 134
-
-- 135
-
-- 136
-
-- 137
-
-- 138
-
-- 139
-
-- 140
-
-- 141
-
-- 142
-
-- 143
-
-- 144
-
-- 145
-
-- 146
-
-- 147
-
-- 148
-
-- 149
-
-- 150
-
-- Überschrift zum Zusatznutzen des Arzneimittels
+- 133 Überschrift zum Zusatznutzen des Arzneimittels
 
 (XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/UES_ZVT_ZN@value)
 
-- Zugelassenes Anwendungsgebiet des Beschlusses
+- 134 Zugelassenes Anwendungsgebiet des Beschlusses
 
-(XML-Element  /BE/PAT_GR_INFO_Collection - Patientengruppenname
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/AWG_BESCHLUSS@value) - 135 Patientengruppenname
 
-(XML-Element  /BE/PAT_GR_INFO_Collection - ICD-Kode
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/NAME_PAT_GR@value) - 136 ICD-Kode
 
-(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ICD/ID_ICD@value) - ICD Klartext
+(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ICD/ID_ICD@value) - 137 ICD Klartext
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ICD/NAME_ICD@value)
 
-- Alpha-Identifikationsnummer Code
+- 138 Alpha-Identifikationsnummer Code
 
-(XML-Element  /BE/PAT_GR_INFO_Collection alue)
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ICD/ALPHA_ID/ALPHA_ID_CODE@v
 
-- Klartext Alpha-Identifikationsnummer Code
+alue)
 
-(XML-Element  /BE/PAT_GR_INFO_Collection alue)
+- 139 Klartext Alpha-Identifikationsnummer Code
 
-- Überschrift zur zweckmäßige Vergleichstherapie
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ICD/ALPHA_ID/NAME_ALPHA_ID@v
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+alue)
 
-- Zweckmäßige Vergleichstherapie
+- 140 Überschrift zur zweckmäßige Vergleichstherapie
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_BEST/UES_ZVT@value)
+
+- 141 Zweckmäßige Vergleichstherapie
+
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_BEST/NAME_ZVT_BEST@valu
 
 e)
 
-- Anatomisch-therapeutisch-chemischer-Code
+- 142 Anatomisch-therapeutisch-chemischer-Code
 
-(XML-Element  /BE/PAT_GR_INFO_Collection DE@value)
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_BEST/WS_INFO/ATC/ATC_CO
 
-- Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM
+DE@value)
 
-(XML-Element  /BE/PAT_GR_INFO_Collection @value) - Wirkstoffname
+- 143 Identifikationsnummer-Wirkstoff im Arzneistoffkatalog des BfArM
 
-(XML-Element  /BE/PAT_GR_INFO_Collection SK@value)
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_BEST/WS_INFO/ASK/ASK_NR
 
-- Überschrift Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+@value) - 144 Wirkstoffname
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_BEST/WS_INFO/ASK/NAME_A
 
-- Festgestelltes Ausmaß und Wahrscheinlichkeit des Zusatznutzen
+SK@value)
 
-(XML-Element  /BE/PAT_GR_INFO_Collection - Ausmaß des Zusatznutzens
+- 145 Überschrift Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_ZN/UES_ZN@value)
+
+- 146 Festgestelltes Ausmaß und Wahrscheinlichkeit des Zusatznutzen
+
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_ZN/ZN_TEXT@value)
+
+- 147 Ausmaß des Zusatznutzens
 
 (XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_ZN/ZN_A@value)
 
-- Wahrscheinlichkeit des Zusatznutzens
+- 148 Wahrscheinlichkeit des Zusatznutzens
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_ZN/ZN_W@value)
 
-- Name der zu Grunde gelegten zweckmäßigen Vergleichstherapie
+- 149 Name der zu Grunde gelegten zweckmäßigen Vergleichstherapie
 
-(XML-Element  /BE/PAT_GR_INFO_Collection
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZVT_ZN/NAME_ZVT_ZN@value)
 
-- Anatomisch-therapeutisch-chemischer-Code -
-
--
-
-/ID_PAT_GR/AWG_BESCHLUSS
-
-/ID_PAT_GR/NAME_PAT_GR@value)
-
-/ID_PAT_GR/ICD/NAME_ICD@value)
-
-/ID_PAT_GR/ICD/ALPHA_ID/ALPHA_ID_CODE@v -
-
-/ID_PAT_GR/ICD/ALPHA_ID/NAME_ALPHA_ID@v -
-
-/ID_PAT_GR/ZVT_BEST/UES_ZVT@value) -
-
-/ID_PAT_GR/ZVT_BEST/NAME_ZVT_BEST@valu
-
-/ID_PAT_GR/ZVT_BEST/WS_INFO/ATC/ATC_CO
-
-/ID_PAT_GR/ZVT_BEST/WS_INFO/ASK/ASK_NR
-
-/ID_PAT_GR/ZVT_BEST/WS_INFO/ASK/NAME_A
-
-/ID_PAT_GR/ZVT_ZN/UES_ZN@value)
-
-/ID_PAT_GR/ZVT_ZN/ZN_TEXT@value) -
-
-/ID_PAT_GR/ZVT_ZN/ZN_W@value)
-
-/ID_PAT_GR/ZVT_ZN/NAME_ZVT_ZN@value)
-
-@value) -
-
--
-
--
-
--
+- 150 Anatomisch-therapeutisch-chemischer-Code
 
 
 ---
@@ -1182,7 +1144,9 @@ ue)
 
 - 165 Beschreibung der Ergebnisse der Kategorie Unerwünschte Ereignisse
 
-(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_EP_UE/EP_UE_BES@value)
+/ID_PAT_GR/ZSF_EP_UE/EP_UE_BES@value)
+
+(XML-Element  /BE/PAT_GR_INFO_Collection
 
 - 166 Legende der grafischen Kurzdarstellung der Effekte der Ergebnisse der relevanten  klinischen Endpunkte
 
@@ -1204,7 +1168,7 @@ ue)
 
 - 170 Text Qualitätsgesicherte_Anwendung
 
-(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/QGA@value)
+Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/QGA@value) (XML-
 
 - 171 Verkürztes Anwendungsgebiet
 
@@ -1212,31 +1176,25 @@ Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/AWG_KURZ@value) (XML-
 
 **Produktinformationen für sonstige Arzneimittel**
 
-- und
+-
 
-- sind die verfügbaren Informationen - 199 Bei Homöopathika
-
-- Anthroposophika
-
-- einzustellen.
+- 199 Bei Homöopathika und Anthroposophika sind die verfügbaren Informationen - einzustellen.
 
 **Angaben der Referenzdatenbank nach § 31b SGB V**
 
-Die Angaben der Referenzdatenbank nach § 31b SGB V sind für die Befüllung der
-
-entsprechenden Felder in Medikationsplänen, insbesondere in denen des Bundeseinheitlichen  Medikationsplans BMP, zu verwenden. Sie dürfen nicht zur Verordnung verwendet werden.  Die Referenzdatenbank ist vom BfArM zu beziehen.
+Die Angaben der Referenzdatenbank nach § 31b SGB V sind für die Befüllung der  entsprechenden Felder in Medikationsplänen, insbesondere in denen des Bundeseinheitlichen  Medikationsplans BMP, zu verwenden. Sie dürfen nicht zur Verordnung verwendet werden.  Die Referenzdatenbank ist vom BfArM zu beziehen.
 
 **Hinweis:**
 
-b ereitgestellter Informationen wird geprüft, sobald die
+Derzeit wird nur der Teil der von der Referenzdatenbank bereitgestellten Informationen  übernommen, der zur Befüllung des BMP benötigt wird. Eine Berücksichtigung weiterer von  der Referenzdatenbank b ereitgestellter Informationen wird geprüft, sobald die
 
-Derzeit wird nur der Teil der von der Referenzdatenbank bereitgestellten Informationen  übernommen, der zur Befüllung des BMP benötigt wird. Eine Berücksichtigung weiterer von  der Referenzdatenbank  Weiterentwicklung des elektronischen Medikationsplans als Anwendung in der
+Weiterentwicklung des elektronischen Medikationsplans als Anwendung in der
 
 Telematikinfrastruktur implementiert wurde.
 
-Die Bezeichnungen in den eckig en Klammern entsprechen der maßgeblichen Technischen  § 31b SGB V“. Die Merkmale
+Die Bezeichnungen in den eckig en Klammern entsprechen der maßgeblichen Technischen  Dokumentation „Bereitstellung der Referenzdatenbank gemäß § 31b SGB V“. Die Merkmale
 
-Dokumentation „Bereitstellung der Referenzdatenbank gemäß  300, 301, 302 und 306 kommen jeweils einmal vor; die Merkmale 303, 304 und 305 können  mehrfach vorkommen.
+300, 301, 302 und 306 kommen jeweils einmal vor; die Merkmale 303, 304 und 305 können  mehrfach vorkommen.
 
 300 Kennzeichen Kombipackung [RMP_MULTIPLE_PPT]
 
@@ -1261,11 +1219,9 @@ Beachten Sie die geänderte Abbildung der Kombipräparate in der Referenzdatenba
 
 BfArM-Lieferung“.
 
-**-Hand-Logo nach der**
+**Angaben zu Rote-Hand-Briefen und Schulungsmaterial mit Blaue-Hand-Logo nach der**
 
-**Angaben zu Rote-Hand-Briefen und Schulungsmaterial mit Blaue** **-Verordnung (EAMIV)**
-
-**ersten Änderung der Elektronische Arzneimittelinformationen**
+**ersten Änderung der Elektronische Arzneimittelinformationen-Verordnung (EAMIV)**
 
 350 Merkmal Rote-Hand-Brief nach EAMIV
 
@@ -1285,27 +1241,13 @@ BfArM-Lieferung“.
 
 **Hinweis:**
 
-*Die Anzeige erfolgt*
+Auszug aus § 3 Abs. 3 EAMIV: *Die Anzeige erfolgt*
 
-Auszug aus § 3 Abs. 3 EAMIV:
-
-*1. durch einen Hyperlink zur Stelle der Internetseite der zuständigen Bundesoberbehörde, an*  *des*
-
-*Schulungsmaterials*
-
-*des Rote -Hand-Briefs*
-
-*der der Wortlaut*
-
-*genehmigten*
-
-*oder*
+*1. durch einen Hyperlink zur Stelle der Internetseite der zuständigen Bundesoberbehörde, an*  *der der Wortlaut des genehmigten Schulungsmaterials oder des Rote -Hand-Briefs*
 
 *bereitgestellt wird, oder*
 
-*2. durch ein im elektronischen Programm hinterlegtes Dokument mit dem Wortlaut des*  *-Hand-Briefs im Dateiformat PDF.*
-
-*genehmigten Schulungsmaterials oder des Rote*
+*2. durch ein im elektronischen Programm hinterlegtes Dokument mit dem Wortlaut des*  *genehmigten Schulungsmaterials oder des Rote-Hand-Briefs im Dateiformat PDF.*
 
 Es ist zu beachten, dass pro Fertigarzneimittel mehrere Rote -Hand-Briefe sowie mehrere  Schulungsmaterialien vorliegen können.
 
@@ -1313,17 +1255,13 @@ Es ist zu beachten, dass pro Fertigarzneimittel mehrere Rote -Hand-Briefe sowie 
 
 #### 2.2.2.1 Mindestangaben für Medizinprodukte nach § 31 Absatz 1 Satz 2 SGB V
 
-SGB V fallen) mindestens die folgenden Informationen
+Auf Ebene der PZN ( entspricht der Packungsebene) stehen für Medizinprodukte nach § 31  Absatz 1 Satz 2 (worunter nach Aufnahme in AM -RL Anlage V auch Sonstige Produkte zur  Wundbehandlung nach § 31 Absatz 1a SGB V fallen) mindestens die folgenden Informationen
 
-Auf Ebene der PZN ( entspricht der Packungsebene) stehen für Medizinprodukte nach § 31  Absatz 1 Satz 2 (worunter nach Aufnahme in AM -RL Anlage V auch Sonstige Produkte zur  Wundbehandlung nach § 31 Absatz 1a  zur Verfügung, sofern sie in den Daten nach § 131 Absatz 4 SGB V vorhanden sind: - 201 PZN
-
--
+zur Verfügung, sofern sie in den Daten nach § 131 Absatz 4 SGB V vorhanden sind: - 201 PZN
 
 - 202 Bezeichnung des Medizinprodukts
 
-- 203 Zweckbestimmung einschließlich medizinisch notwendiger Fälle für erstattungsfähige  Medizinprodukte gemäß Medizinprodukte)
-
-- AM-RL Anlage V (Übersicht der verordnungsfähigen
+- 203 Zweckbestimmung einschließlich medizinisch notwendiger Fälle für erstattungsfähige  Medizinprodukte gemäß AM-RL Anlage V (Übersicht der verordnungsfähigen - Medizinprodukte)
 
 - 204 Zusammensetzung nach Art und Menge, wie vom Hersteller/Anbieter angegeben - 205 Darreichungsform
 
@@ -1333,11 +1271,9 @@ Auf Ebene der PZN ( entspricht der Packungsebene) stehen für Medizinprodukte na
 
 - 208 Hersteller/Anbieter
 
--
+- 209 ATC-Klassifizierung nach BfArM, wie vom Hersteller/Anbieter angegeben
 
-- 209 ATC-Klassifizierung nach BfArM, wie vom Hersteller/Anbieter angegeben - AM-RL Anlage V
-
-- 210 Merkmal verordnungsfähiges Medizinprodukt nach
+- 210 Merkmal verordnungsfähiges Medizinprodukt nach AM-RL Anlage V
 
 - 211 Befristung der Verordnungsfähigkeit laut § 92 Absatz 1 Satz 2 Nummer 6 SGB V  (AM-RL Anlage V)
 
@@ -1511,7 +1447,7 @@ Ernährung mindestens die folgenden Informationen zur Verfügung , sofern sie in
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| K2-120 |  |
+| K2-120 | Weitere Inhalte der Arzneimittelstammdaten |
 
 **Weitere Informationen, sofern sie zur Verfügung stehen**
 
@@ -1609,7 +1545,7 @@ sämtliche  Stand der
 
 bestimmt der
 
-Weitere Inhalte der Arzneimittelstammdatenr hinaus
+r hinaus
 
 
 ---
@@ -2012,13 +1948,13 @@ Mehrkosten Arzneimittelvereinbarung betroffen ist SGB V für die Krankenkasse de
 | Merkmal | Inhalt gemäß P2-110 |
 |---|---|
 | - | und nicht 053 |
-| AM-RL Anlage III von der Verordnung | 056 |
-| Kennzeichnung, falls mindestens ein Rote-Hand-Brief nach Bedingung der Anzeige: Beginn der Gültigkeit Anzeige: der Vertragsarzt muss die 5 | 350 |
+| - | 056 |
+| Kennzeichnung, falls mindestens ein Rote-Hand-Brief nach Bedingung der Anzeige: - Anzeige: 1. 2. | 350 |
 | Kennzeichnung, falls Schulungsmaterial nach EAMIV vorliegt Anzeige: 1. 2. | 355 |
 
 5 Link zum Rote-Hand-Symbol [https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/rote_hand.zip](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/rote_hand.zip)
 
-Bei Erwachsenen und Jugendlichen ab Vollendung des 12. 010 ja und 0 11 nein Lebensjahres bis zur Vollendung des 18. Lebensjahres ohne Entwicklungsstörungen: Arzneimittel ist apothekenpflichtig, aber nicht verschreibungspflichtig und nicht auf OTC-Ausnahmeliste (AM-RL Anlage I) Arzneimittel ist nach ausgeschlossen (Rechtsgrundlagen [1], [2] und [3]) Eine Anzeige erfolgt nur, wenn der mindestens eines Rote-Hand-Briefs [Merkmal 351] nicht länger als sechs Monate zurückliegt und, sofern ein Gültigkeitsende [Merkmal 352] vorhanden ist, das Tagesdatum nicht dem Gültigkeitsende entsprechenden Rote-Hand-Briefs liegt. Die Vertragsärztin bzw. Möglichkeit haben sich die Informationen relevanten Roten-Hand-Briefe nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu 1. kann das Logo  des Rote-Hand-Briefs nach EAMIV (Rote-Hand-Logo ) und/ oder die Titel der relevanten Roten-Hand-Briefe (müssen der Bedingung entsprechen) und/ oder Textausschnitte der relevanten Rote-Hand-Briefe (müssen der entsprechen) mitangezeigt werden.  Die Vertragsärztin bzw. Möglichkeit haben sich die Informationen vorliegenden Schulungsmaterials nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu kann das Logo des Schulungsmaterials nach EAMIV (Blaues-Hand-Logo ) und/ oder die Titel der relevanten Schulungsmaterialen und/ oder ein Ausschnitt der relevanten Informationen mitangezeigt werden. Pflichtfunktion 353 356 6 Link zum Blaue-Hand-Symbol [https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/blaue_hand.zip](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/blaue_hand.zip)
+Bei Erwachsenen und Jugendlichen ab Vollendung des 12. 010 ja und 0 11 nein Lebensjahres bis zur Vollendung des 18. Lebensjahres ohne Entwicklungsstörungen: Arzneimittel ist apothekenpflichtig, aber nicht verschreibungspflichtig und nicht auf OTC-Ausnahmeliste (AM-RL Anlage I) Arzneimittel ist nach  AM-RL Anlage III von der Verordnung ausgeschlossen (Rechtsgrundlagen [1], [2] und [3]) Eine Anzeige erfolgt nur, wenn der Beginn der Gültigkeit mindestens eines Rote-Hand-Briefs [Merkmal 351] nicht länger als sechs Monate zurückliegt und, sofern ein Gültigkeitsende [Merkmal 352] vorhanden ist, das Tagesdatum nicht dem Gültigkeitsende entsprechenden Rote-Hand-Briefs liegt. Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben sich die Informationen relevanten Roten-Hand-Briefe nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu 1. kann das Logo  des Rote-Hand-Briefs nach EAMIV (Rote-Hand-Logo ) und/ oder die Titel der relevanten Roten-Hand-Briefe (müssen der Bedingung entsprechen) und/ oder Textausschnitte der relevanten Rote-Hand-Briefe (müssen der entsprechen) mitangezeigt werden.  Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben sich die Informationen vorliegenden Schulungsmaterials nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu kann das Logo des Schulungsmaterials nach EAMIV (Blaues-Hand-Logo ) und/ oder die Titel der relevanten Schulungsmaterialen und/ oder ein Ausschnitt der relevanten Informationen mitangezeigt werden. Pflichtfunktion 353 356 6 Link zum Blaue-Hand-Symbol [https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/blaue_hand.zip](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/blaue_hand.zip)
 
 
 ---
@@ -2072,8 +2008,8 @@ Zweite Ebene Pflichtfunktion zutrifft, dann  BtM oder T-Rezept-Arzneimittel 012 
 | Kennzeichnung, falls dieses Arzneimittel | 055 |
 | Kennzeichnung, falls dieses Arzneimittel | 056 |
 | Kennzeichnung, wenn für dieses Arzneimittel ein Therapiehinweis | 058 |
-|  | Muss berechnet |
-|  | Muss berechnet |
+| Kennzeichnung, falls preisgünstigere Produkte vorliegen | Muss berechnet |
+| Kennzeichnung (sofern ausgewähltes Produkt nicht rabattiert), | Muss berechnet |
 | Kennzeichnung, falls es sich um ein verordnungs | 210 |
 | Kennzeichnung, falls es sich um ein verordnungsfähiges | 410 |
 | 7 | 009 |
@@ -2097,7 +2033,7 @@ Der Status „Zurückgezogen“ bedeutet vereinfacht, dass ein Produkt - Produkt
 
 - **P3-270** erfolgen.
 
-Verordnungseinschränkungen der  AM-RL Anlage III unterliegt Verordnungsausschlüssen der  AM-RL Anlage III unterliegt des G-BA existiert  Kennzeichnung, falls preisgünstigere Produkte vorliegen Kennzeichnung (sofern ausgewähltes Produkt nicht rabattiert), dass andere rabattierte Produkte mit demselben Wirkstoff für die Krankenkasse des jeweiligen Patienten zur Verfügung stehen Medizinprodukt nach § 31 Absatz 1 Nummer 2 SGB V handelt Verbandmittel nach § 31 Absatz 1a SGB V handelt                             Kennzeichnung, falls der Artikelstatus wie folgt heißt: Außer Vertrieb , Nicht verkehrsfähig, Zurückgezogen Pflichtfunktion werden werden -
+Verordnungseinschränkungen der  AM-RL Anlage III unterliegt Verordnungsausschlüssen der  AM-RL Anlage III unterliegt des G-BA existiert  dass andere rabattierte Produkte mit demselben Wirkstoff für die Krankenkasse des jeweiligen Patienten zur Verfügung stehen Medizinprodukt nach § 31 Absatz 1 Nummer 2 SGB V handelt Verbandmittel nach § 31 Absatz 1a SGB V handelt                             Kennzeichnung, falls der Artikelstatus wie folgt heißt: Außer Vertrieb , Nicht verkehrsfähig, Zurückgezogen Pflichtfunktion werden werden -
 
 
 ---
@@ -2106,47 +2042,54 @@ Verordnungseinschränkungen der  AM-RL Anlage III unterliegt Verordnungsausschl�
 |---|---|
 | P3-130 | Anzeige von Hinweisen |
 
-Sofern ein Produkt einer der folgenden Regelungen unterliegt, sind dem Arzt die vollständigen  Texte aus der AM -RL bzw. Hinweise aus Arzneimittelvereinbarungen vor oder während des
-
-Verordnungsvorgangs anzuzeigen:
+Sofern ein Produkt einer der folgenden Regelungen unterliegt, sind dem Arzt die vollständigen  Texte aus der AM -RL bzw. Hinweise aus Arzneimittelvereinbarungen vor oder während des  Verordnungsvorgangs anzuzeigen:
 
 -  Verordnungsausschlüsse der AM-RL Anlage III bei entsprechenden Arzneimitteln (siehe  **P2-110** Merkmal 057)
 
--  Verordnungseinschränkungen der AM-RL Anlage III bei entsprechenden Arzneimitteln
+-  Verordnungseinschränkungen  (siehe **P2-110** Merkmal 057)
 
-- (siehe **P2-110** Merkmal 057)
-
--  Ausnahmeindikation nach OTC-Ausnahmeliste (AM-RL Anlage I; siehe **P2-110** Merkmal
+-  Ausnahmeindikation nach OTC-Ausnahmeliste (AM-RL Anlage I; siehe
 
 - 054) (nur bei Jugendlichen ab Vollendung des 12. Lebensjahres bis zur Vollendung des
+18. Lebensjahres ohne Entwicklungsstörungen und Erwachsenen anzeigen) -  Verordnungsfähigkeit von M
 
-- 18. Lebensjahres ohne Entwicklungsstörungen und Erwachsenen anzeigen)
+- notwendige Fälle und Befristung der Verordnungsfähigkeit, siehe - 211)
 
--  Verordnungsfähigkeit von M edizinprodukten nach AM-RL Anlage V (medizinisch
+-  Hinweise zu Regelungen der Arzneimittelvereinbarungen nach § 84 Absatz 1 SGB V,  sofern hierzu Daten von
 
-- notwendige Fälle und Befristung der Verordnungsfähigkeit, siehe **P2-110** Merkmal 203 und - 211)
+- Leitsubstanzquotenregelung (siehe
 
-- Daten von der Landesebene bereitgestellt sind, z. B.
+Die Anzeige der Hinweise erfolgt in einer deutlich wahrnehmbaren, wiedererkennbaren und  einheitlichen Form, stets an der identischen Stelle der Benutzeroberfläche, ohne zusätzliche  Anwenderinteraktion und darf den Workflow nicht unterbrechen. Liegen mehrere Hinweise vor,  so sind diese in der hier beschriebenen Reihenfolge anzuzeigen.
 
--  Hinweise zu Regelungen der Arzneimittelvereinbarungen nach § 84 Absatz 1 SGB V,  sofern hierzu  Leitsubstanzquotenregelung (siehe **P2-110** Merkmal 080 sowie **P3-610**
+Sofern die Hinweistexte eine Länge
 
-Die Anzeige der Hinweise erfolgt in einer deutlich wahrnehmbaren, wiedererkennbaren und
+überschreiten, sind mindestens die ers ten 250 Zeichen anzuzeigen. Der vollständige  Hinweistext ist auf Anforderung durch eine einzige Anwenderinteraktion anzuzeigen. Die  Gliederung der Hinweistexte der AM-RL durch Absätze,
 
-einheitlichen Form, stets an der identischen Stelle der Benutzeroberfläche, ohne zusätzliche  Anwenderinteraktion und darf den Workflow nicht unterbrechen. Liegen mehrere Hinweise vor,  so sind diese in der hier beschriebenen Reihenfolge anzuzeigen.
-
-Sofern die Hinweistexte eine Länge von 250 Zeichen (einschließlich Leerzeichen)
-
-überschreiten, sind mindestens die ers ten 250 Zeichen anzuzeigen. Der vollständige
-
-AM-RL durch Absätze, Zeilenumbruche Zeilenumbrüche und
-
-Hinweistext ist auf Anforderung durch eine einzige Anwenderinteraktion anzuzeigen. Die  Gliederung der Hinweistexte der  Aufzählungszeichen ist in vergleichbarer Weise wiederzugeben.
+Aufzählungszeichen ist in vergleichbarer Weise wiederzugeben.
 
 Die Ärztin bzw. der Arzt muss bei der Verordnung zusätzlich die Entscheidung treffen können,
 
-dass für Produkte desselben ATC-Codes ein Hinweistext nicht mehr aktiv angezeigt wird. Es
+dass für Produkte desselben ATC-Codes ein Hinweistext nicht mehr aktiv angezeigt wird. Es  muss jedoch erkenntlich sein, dass ein Hinweis existiert, und der entsprechende Hinweistext  muss mit einer Benutzeraktion abrufbar sein. Im Falle von Änderungen eines Hinweises bzw.  Hinweistextes ist der neue Hinweistext zunächst wie in der Voreinstellung erneut anzuzeigen.
 
-muss jedoch erkenntlich sein, dass ein Hinweis existiert, und der entsprechende Hinweistext  muss mit einer Benutzeraktion abrufbar sein. Im Falle von Änderungen eines Hinweises bzw.  Hinweistextes ist der neue Hinweistext zunächst wie in der Voreinstellung erneut anzuzeigen.
+- der AM-RL Anlage III bei entsprechenden Arzneimitteln - edizinprodukten nach
+
+- der Landesebene  **P2-110** Merkmal 080 sowie
+
+von 250 Zeichen
+
+Zeilenumbruche Zeilenumbrüche und - **P2-110** Merkmal
+
+-
+
+- AM-RL Anlage V (medizinisch
+
+- **P2-110** Merkmal 203 und
+
+- bereitgestellt sind, z. B.
+
+- **P3-610**
+
+(einschließlich Leerzeichen)
 
 
 ---
@@ -2155,27 +2098,27 @@ muss jedoch erkenntlich sein, dass ein Hinweis existiert, und der entsprechende 
 |---|---|
 | P3-141 | Anzeige der archivierten Rote-Hand-Briefe |
 
-Die Vertragsärztin bzw.  Verordnungssoftware alle  anzeigen zu lassen.
+Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben sich in der
 
-der Vertragsarzt muss die Möglichkeit haben
+Verordnungssoftware alle Rote-Hand-Briefe nach EAMIV (Archivierte sowie Aktuelle)
 
-Rote-Hand-Briefe nach EAMIV (Archivierte sowie
-
-sich in der  Aktuelle)
+anzeigen zu lassen.
 
 **Begründung:**
 
-Gemäß § 3 Abs. 4 EAMIV
+Gemäß § 3 Abs. 4 EAMIV müssen alle Rote -Hand-Briefe fortlaufend in der
 
 Verordnungssoftware archiviert bzw. aufrufbar sein.
 
-müssen alle
-
 **Akzeptanzkriterium:**
 
-- (1) Die Vertragsärztin bzw. der Vertragsarzt  Möglichkeit haben, sich alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht  wurden, nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen.
+- Möglichkeit haben, sich alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht  (1) Die Vertragsärztin bzw. der Vertragsarzt muss in der Verordnungssoftware die
 
-- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in - tabellarisch) pro Rote
+- wurden, nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen.
+
+- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in  tabellarisch) pro Rote -Hand-Brief
+
+- mindestens  geeigneter Weise (bspw.  die folgenden - nach EAMIV
 
 - Informationen angezeigt:
 
@@ -2183,43 +2126,27 @@ müssen alle
 
 - b. Gültigkeitsbeginn des Rote-Hand-Briefs nach EAMIV [Merkmal 351]
 
-- c. Sofern vorhanden
-
-- -Hand-Brief nach EAMIV
-
-- Gültigkeitsende
-
-- [Merkmal 352]
+- c. Sofern vorhanden Gültigkeitsende des Rote -Hand-Briefs nach EAMIV - [Merkmal 352]
 
 Die Informationen des Rote-Hand-Briefes nach § 3 Abs. 3 EAMIV [Merkmal 353]  müssen pro Eintrag aufrufbar sein.
 
-- (3) Die Verordnungssoftware muss der Vertragsärztin bzw. dem Vertragsarzt für die
+- gemäß Akzeptanzkriterium 2
 
-- gemäß Akzeptanzkriterium 2 geforderten Informationen Filtermöglichkeiten zur - Verfügung stellen.
+- (3) Die Verordnungssoftware muss der Vertragsärztin bzw. dem Vertragsarzt für die  geforderten Informationen Filtermöglichkeiten zur - Verfügung stellen.
 
-- a. Die Verordnungssoftware kann  weitere Filtermöglichkeiten zur Verfügung stellen.
+- a. Die Verordnungssoftware kann der Vertragsärztin bzw. dem Vertragsarzt
+
+- weitere Filtermöglichkeiten zur Verfügung stellen.
 
 **Hinweis:**
 
-Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend  im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote optional möglich. Für alle Rote-Hand-Briefe, die vor dem 01.04.2023 ve keine Zuordnung zu Fertigarzneimitteln notwendig
+Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend  im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote-Hand-Briefe ist jedoch
+
+optional möglich. Für alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, ist
+
+keine Zuordnung zu Fertigarzneimitteln notwendig, jedoch optional möglich.
 
 Für alle Rote-Hand-Briefe, die zum Zeitpunkt des 01.10.2023 älter als sechs Monate sind, ist  keine Zuordnung zu Fertigarzneimitteln notwendig. Die Rote -Hand-Briefe, die zum Zeitpunkt  des 01.10.2023 älter als sechs Monate sind, müssen lediglich im Archiv, als PDF -Dokument  oder per Hyperlink aufrufbar, gelistet werden.
-
-Rote -Hand-Briefe fortlaufend
-
-- muss in der Verordnungssoftware die - des Rote
-
-- der Vertragsärztin bzw. dem Vertragsarzt
-
-, jedoch optional möglich.
-
-in der -
-
-- geeigneter Weise (bspw.  mindestens die folgenden - -Hand-Briefs nach EAMIV
-
--
-
--Hand-Briefe ist jedoch  röffentlicht wurden, ist
 
 
 ---
@@ -2236,17 +2163,17 @@ Zusätzliche Informationen können den Verordnungsprozess sinnvoll unterstützen
 
 **Akzeptanzkriterium:**
 
-- Informationen müssen herstellerunabhängig sein, objektivierbaren
+- (1) Zusätzliche Informationen müssen herstellerunabhängig sein, objektivierbaren
 
-- (1) Zusätzliche  Kriterien folgen und dürfen keinen werbenden Charakter haben.
+- Kriterien folgen und dürfen keinen werbenden Charakter haben.
 
-- ist das Online -Formular des Meldebogens für unerwünschte
+- (2) Erlaubt ist das Online -Formular des Meldebogens für unerwünschte
 
-- (2) Erlaubt  Arzneimittelwirkungen bzw. für Medikationsfehler der Arzneimittelkommission der  deutschen Ärzteschaft (AkdÄ).
+- Arzneimittelwirkungen bzw. für Medikationsfehler der Arzneimittelkommission der  deutschen Ärzteschaft (AkdÄ).
 
-Quellen: - **UAW-Meldebogen der AkdÄ**
+Quellen:
 
--  Link zum Online-Formular zum
+-  Link zum Online-Formular zum **UAW-Meldebogen der AkdÄ**
 
 [https://www.akdae.de/Arzneimittelsicherheit/UAW](https://www.akdae.de/Arzneimittelsicherheit/UAW)-Meldung/UAW-Meldung-
 
@@ -2254,17 +2181,13 @@ online.html
 
 [https://www.dcgma.org/uaw-meldung](https://www.dcgma.org/uaw-meldung)
 
-- **UAW-Meldebogens der AkdÄ**
+-  PDF-Dokument des **UAW-Meldebogens der AkdÄ**
 
--  PDF-Dokument des  [https://www.akdae.de/Arzneimittelsicherheit/UAW](https://www.akdae.de/Arzneimittelsicherheit/UAW)-Meldung/UAW-Berichtsbogen.pdf
+- [https://www.akdae.de/Arzneimittelsicherheit/UAW](https://www.akdae.de/Arzneimittelsicherheit/UAW)-Meldung/UAW-Berichtsbogen.pdf
 
-- **Medikationsfehler-Meldebogens der AkdÄ**
+-  PDF-Dokument des **Medikationsfehler-Meldebogens der AkdÄ**
 
--  PDF-Dokument des
-
-- -Meldung/MF-Berichtsbogen.pdf
-
-- [https://www.akdae.de/Arzneimittelsicherheit/UAW](https://www.akdae.de/Arzneimittelsicherheit/UAW)
+- [https://www.akdae.de/Arzneimittelsicherheit/UAW](https://www.akdae.de/Arzneimittelsicherheit/UAW)-Meldung/MF-Berichtsbogen.pdf
 
 -  PDF-Dokument des Leitfadens **Nebenwirkungen melden  Ein Leitfaden für Ärzte**
 
@@ -2419,37 +2342,31 @@ beschriebenen Inhalte notwendig.
 
 -  Patientengruppenname (Merkmal 135)
 
-- zu „Festgestelltes Ausmaß und Wahrscheinlichkeit des
+-  Wenn die Information zu „Festgestelltes Ausmaß und Wahrscheinlichkeit des
 
--  Wenn die Information  (Merkmal 146) vorhanden ist, muss sie angezeigt werden.
+- Zusatznutzen (Merkmal 146) vorhanden ist, muss sie angezeigt werden.
 
-- Zusatznutzen
+-  Wenn der Name der zu Grunde gelegten zweckmäßigen Vergleichstherapie  (Merkmal 149) leer oder nicht vorhanden ist, nur dann muss die Information  der vom G-BA bestimmten zweckmäßigen Vergleichstherapie (Merkmal 141),
 
--  Wenn der Name der zu Grunde gelegten zweckmäßigen Vergleichstherapie  (Merkmal 149) leer oder nicht vorhanden ist, nur dann muss die Information  Merkmal 141),
+- angezeigt werden, sofern sie vorhanden ist.
 
-- der vom G-BA bestimmten zweckmäßigen Vergleichstherapie ( angezeigt werden, sofern sie vorhanden ist.
-
--  Wenn eine Reserveantibiotikum-Bewertung (Merkmal 114  usmaßes des
-
-- =„Beschluss_antib“) vorliegt, dann wird die Information des A
+-  Wenn eine Reserveantibiotikum-Bewertung (Merkmal 114  =„Beschluss_antib“) vorliegt, dann wird die Information des Ausmaßes des
 
 - Zusatznutzens (Merkmal 147) angezeigt.
 
--  Wenn ein Beschluss als Orphan-Bewertung gekennzeichnet ist (Merkmal 114  dann wird der Text „Orphan Bewertung“ angezeigt - =„Beschluss_orph“)
+-  Wenn ein Beschluss als Orphan-Bewertung gekennzeichnet ist (Merkmal 114  =„Beschluss_orph“) dann wird der Text „Orphan Bewertung“ angezeigt
 
 -  Wenn ein Beschluss als Reserveantibiotikum-Bewertung gekennzeichnet ist  (Merkmal 114 =„Beschluss_antib“), dann wird der Text „Reserveantibiotikum Bewertung“ angezeigt.
 
 -  Wenn die Information zu mindestens einer Endpunktkategorie Mortalität  (Merkmal 155 und 156), Morbidität (Merkmal 158 und 159), Lebensqualität  (Merkmal 161 und 162) oder Unerwünschte Ereignisse (Merkmal 164 und 165)  vorhanden ist, dann muss die Legende der grafischen Kurzdarstellung der  Effekte der Ergebnisse der relevanten klinischen Endpunkte (Merkmal 166)  angezeigt werden.
 
-- ist
+-  Wenn die Information zur Endpunktkategorie Mortalität vorhanden ist
 
--  Wenn die Information zur Endpunktkategorie Mortalität vorhanden  (Merkmal 155 und 156), dann muss mindestens die Graphische Abbildung  (Merkmal 155) und das textuelle Ergebnis (Merkmal 156) angezeigt werden.
+- (Merkmal 155 und 156), dann muss mindestens die Graphische Abbildung  (Merkmal 155) und das textuelle Ergebnis (Merkmal 156) angezeigt werden.
 
-- ist
+-  Wenn die Information zur Endpunktkategorie Morbidität vorhanden ist
 
--  Wenn die Information zur Endpunktkategorie Morbidität vorhanden - Merkmal 159) angezeigt
-
-- (Merkmal 158 und 159), dann muss mindestens die folgende Graphische  Abbildung (Merkmal 158) und das textuelle Ergebnis ( werden.
+- (Merkmal 158 und 159), dann muss mindestens die folgende Graphische  Abbildung (Merkmal 158) und das textuelle Ergebnis (Merkmal 159) angezeigt - werden.
 
 -  Wenn die Information zur Endpunktkategorie Lebensqualität vorhanden ist
 
@@ -2462,9 +2379,9 @@ beschriebenen Inhalte notwendig.
 
 - Graphische Abbildung (Merkmal 164) und das textuelle Ergebnis (Merkmal - 165) angezeigt werden.
 
-- Merkmal 170)
+-  Wenn die Information zur qualitätsgesicherte Anwendung (Merkmal 170)
 
--  Wenn die Information zur qualitätsgesicherte Anwendung ( vorhanden ist, muss sie angezeigt werden.
+- vorhanden ist, muss sie angezeigt werden.
 
 -  Wenn die Information zur begleitenden Datenerhebung nach § 35a Absatz 3b  SGB V (Merkmal 128) vorhanden ist, muss sie angezeigt werden.
 
@@ -2472,39 +2389,31 @@ beschriebenen Inhalte notwendig.
 
 -  Wenn ein Hyperlink Richtlinie Qualitätssicherung ‚ATMP‘ (Merkmal 111)
 
-- (s. auch Merkmal 110 bezüglich
+- vorhanden ist, muss dieser angezeigt werden (s. auch Merkmal 110 bezüglich - des anzuzeigenden Textes).
 
-- vorhanden ist, muss dieser angezeigt werden des anzuzeigenden Textes).
-
--  Wenn eine Zusammenfassung der Tragenden Gründe des Beschlusses des  Merkmal 168) vorhanden ist, muss diese
-
-- Gemeinsamen Bundesausschusses ( angezeigt werden.
+-  Wenn eine Zusammenfassung der Tragenden Gründe des Beschlusses des  Gemeinsamen Bundesausschusses (Merkmal 168) vorhanden ist, muss diese - angezeigt werden.
 
 -  Beschlussdatum (Merkmal 131)
 
-- mit einem davorstehenden „befristet bis“ angezeigt werden.
+-  Wenn ein Geltungsende des Beschlusses (Merkmal 132) vorhanden ist, muss  das Datum mit einem davorstehenden „befristet bis“ angezeigt werden.
 
--  Wenn ein Geltungsende des Beschlusses (Merkmal 132) vorhanden ist, muss  das Datum
+-  Wenn eine Zulassung mit Orphan-Status (Merkmal 105 = „1“) vorliegt, muss
 
--  Wenn eine Zulassung mit Orphan-Status (Merkmal 105 = „1“) vorliegt, muss - Status“ angezeigt werden.
-
-- „Zulassung mit Orphan
+- „Zulassung mit Orphan Status“ angezeigt werden.
 
 -  Wenn eine Zulassung vorbehaltlich besonderer Bedingungen (Merkmal 106 =
 
 - „1“) vorliegt, muss “Zulassung vorbehaltlich besonderer Bedingungen“  angezeigt werden.
 
-- Merkmal 107 = „1“) vorliegt, muss
+-  Wenn eine Zulassung in Ausnahmefällen (Merkmal 107 = „1“) vorliegt, muss
 
--  Wenn eine Zulassung in Ausnahmefällen ( „Zulassung in Ausnahmefällen“ angezeigt werden.
+- „Zulassung in Ausnahmefällen“ angezeigt werden.
 
-- Merkmal 108 =
+-  Wenn eine Zulassung Arzneimittel für neuartige Therapien (Merkmal 108 =
 
--  Wenn eine Zulassung Arzneimittel für neuartige Therapien (
+- „1“) vorliegt, muss „Zulassung Arzneimittel für neuartige Therapien (ATMP)“
 
--
-
-- „1“) vorliegt, muss „Zulassung Arzneimittel für neuartige Therapien (ATMP)“ angezeigt werden.
+- angezeigt werden.
 
 -  ICD-10-GM Kode (Merkmal 136)
 
@@ -2520,9 +2429,9 @@ beschriebenen Inhalte notwendig.
 
 - (2) Die Verordnungssoftware muss folgende Inhalte je Patientengruppe (Merkmal 115) mit
 
-- maximal einer zusätzlichen Interaktion anzeigen können: - (3) Alle weitere unter n
+- maximal einer zusätzlichen Interaktion anzeigen können:
 
-- **P3-250** Akzeptanzkriterium 1 aufgeführten Merkmale der
+- (3) Alle weitere n unter **P3-250** Akzeptanzkriterium 1 aufgeführten Merkmale der
 
 - maschinenlesbaren Fassung zu den Beschlüssen nach § 35a SGB V, die nicht bereits
 
@@ -2639,7 +2548,7 @@ Produkte müssen nach folgenden Merkmalen gesucht werden können, soweit zutreff
 
 - Code) und Wirkstoffgruppenebene (5 -stelliger ATC -Code) (Merkmal 018, 209, 409,  508, 608)
 
--  Bedeutung des ATC-Codes der ATC-Klassifikation nach BfArM (Merkmal 019, 209,  409, 508, 608) -
+-  Bedeutung des ATC-Codes der ATC-Klassifikation nach BfArM (Merkmal 019, 209,  409, 508, 608)
 
 -  Hersteller/Anbieter (Merkmal 017, 208, 408, 507, 607)
 
@@ -2653,15 +2562,11 @@ Produkte müssen nach folgenden Merkmalen gesucht werden können, soweit zutreff
 
 -  Merkmal Zulassungs-/Registrierungs-Nummer vorhanden ja/nein (Merkmal 021)
 
-Suche mit dem ATC-Code und der Bedeutung
+Eine kombinierte Abfrage ist möglich. Ein Produkt oder Wirkstoff kann auch über die Eingabe  der ersten Buchstaben aufgerufen werden. Eine Suche mit dem ATC-Code und der Bedeutung
 
-Eine kombinierte Abfrage ist möglich. Ein Produkt oder Wirkstoff kann auch über die Eingabe  der ersten Buchstaben aufgerufen werden. Eine -Klassifikation erfolgen.
+des ATC -Codes kann entweder durch Eingabe des ATC -Codes (7 - oder 5 -stellig) oder  Auswahl aus einer Baumstruktur der ATC-Klassifikation erfolgen.
 
-des ATC -Codes kann entweder durch Eingabe des ATC -Codes (7 - oder 5 -stellig) oder  Auswahl aus einer Baumstruktur der ATC
-
-Der ICD -10-GM-Kode sowie die Bezeichnung des ICD -10-GM-Kodes müssen mi ttels  Freitextsuche gesucht werden können , weitere Möglichkeiten der Suche bezüglich ICD -10- -10-GM-Kodes sind möglich.
-
-GM-Kode sowie Bezeichnung des ICD
+Der ICD -10-GM-Kode sowie die Bezeichnung des ICD -10-GM-Kodes müssen mi ttels  Freitextsuche gesucht werden können , weitere Möglichkeiten der Suche bezüglich ICD -10- GM-Kode sowie Bezeichnung des ICD-10-GM-Kodes sind möglich.
 
 | OPTIONALE FUNKTION | |
 |---|---|
@@ -2669,13 +2574,9 @@ GM-Kode sowie Bezeichnung des ICD
 
 Weitere Such und Filteroptionen sind zulässig, sofern die Vertragsärztin bzw. der Vertragsarzt
 
-Transparenz über die verwendeten Such- bzw. Filterkriterien hat und die Kriterien auf alle
+Transparenz über die verwendeten Such- bzw. Filterkriterien hat und die Kriterien auf alle  Arzneimittel und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkte gleichermaßen anwendbar sind.
 
-Arzneimittel und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkte gleichermaßen anwendbar sind.
-
-Eine Suche von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkte oder eine Filterung von Suchergebnissen nach P3 -300 kann
-
-beispielsweise nach folgenden Kriterien ausgeführt werden: -  Wirkstärke
+Eine Suche von Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkte oder eine Filterung von Suchergebnissen nach P3 -300 kann  beispielsweise nach folgenden Kriterien ausgeführt werden: -  Wirkstärke
 
 SGB V in die Arzneimittelversorgung einbezogenen Produkten-  Darreichungsform
 
@@ -3765,27 +3666,15 @@ Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen V
 |---|---|
 | P3-721 | Rezeptbedruckung von Verordnungen aus |
 
-Die Verordnungssoftware muss gewährleisten, dass die notwendigen Informationen zu  Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkten aus den Arzneimittelstammdaten (Produkte mit PZN) auf papiergebundenen
+Die Verordnungssoftware muss gewährleisten, dass die notwendigen Informationen zu  Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung einbezogenen  Produkten aus den Arzneimittelstammdaten (Produkte mit PZN) auf
 
 Verordnungen ausgedruckt werden.
 
 **Begründung**
 
-Die Verordnung
+Die Verordnung von Arzneimitteln und sonstigen
 
-und sonstigen nach
-
-SGB V
-
-von Arzneimitteln
-
-§ 31
-
-in die
-
-Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen Vorgaben
-
-Bei der Bedruckung eines Arzneiverordnungsblatts müssen alle verordnungsrelevanten
+Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen Vorgaben Bei der Bedruckung eines Arzneiverordnungsblatts müssen alle verordnungsrelevanten
 
 Informationen aufgedruckt werden.
 
@@ -3797,25 +3686,29 @@ Informationen aufgedruckt werden.
 
 -  Darreichungsform
 
--
-
 -  Packungsgröße (Menge und Einheit) oder Normgröße
+
+Die gleichzeitige Angabe von Packungsgröße und Normgröße ist  zulässig.
 
 - o PZN (in der Form PZN01234567); die PZN muss ohne Zeilenumbruch  aufgedruckt werden.
 
 - o Dosierung (**P3-625**
 
-- o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
-
-- “ (Verordnung im Rahmen künstlicher
-
-- o Verordnung nach § 27a SGB V Befruchtung) - o Abgabehinweise
-
-Die gleichzeitige Angabe von Packungsgröße und Normgröße ist  zulässig.
-
 - (2) Die Verordnungssoftware muss gewährleisten, dass die folgenden Informationen  aufgedruckt werden, wenn die entsprechenden Felder von der Vertragsärztin bzw.  dem Vertragsarzt ausgefüllt bzw. die Kennzeichen gesetzt wurden:
 
-den Arzneimittelstammdaten
+- o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
+
+- o Verordnung nach § 27a SGB V“ (Verordnung im Rahmen künstlicher - Befruchtung)
+
+- o Abgabehinweise
+
+nach § 31
+
+papiergebundenen
+
+SGB V -
+
+den Arzneimittelstammdatenin die
 
 
 ---
@@ -4039,19 +3932,13 @@ das
 
 -  Bei papiergebundener Verordnung gemäß P3-720 muss ein Privat-Rezept  verwendet werden.
 
--  Der Vertragsarzt oder
-
-- der
-
-- die Vertragsärztin kann die Einstellung
+-  Der Vertragsarzt oder die Vertragsärztin kann die Einstellung der
 
 - „Rezeptauswahl“ unter Beachtung der Akzeptanzkriterien 1 bis 4 anpassen.
 
 - (5) Die Verordnungssoftware muss es jederzeit ermöglichen, dass ein Wechsel des  "Rezeptformulars“ gemäß Akzeptanzkriterium 1, 2 und 4 möglich ist ohne dass die
 
 - ausgewählten Produkte verloren gehen.
-
--
 
 - (6) Die Verordnungssoftware muss im Rahmen der Verordnung aus der Patientenhistorie  die „Rezeptauswahl“ der zu wiederholenden Verordnung übernehmen.
 
@@ -4061,13 +3948,9 @@ das
 
 Die papiergebundene Verordnung erfolgt bei Arzneimitteln und sonstigen nach § 31 SGB V in
 
-die Arzneimittelversorgung einbezogenen Produkten zu Lasten der GKV in der Regel auf dem  Arzneiverordnungsblatt, daher ist grundsätzlich eine Muster 16-Voreinstellung vorzunehmen.  Eine abweichen de Voreinstellung des
+die Arzneimittelversorgung einbezogenen Produkten zu Lasten der GKV in der Regel auf dem  Arzneiverordnungsblatt, daher ist grundsätzlich eine Muster 16-Voreinstellung vorzunehmen.
 
-Produkten
-
-Rezeptformulars ist bei folgenden
-
-vorzunehmen:
+vorzunehmen:  Eine abweichen de Voreinstellung des Rezeptformulars ist bei folgenden Produkten
 
 -  BtM-Rezept bei Betäubungsmitteln
 
@@ -4077,21 +3960,17 @@ vorzunehmen:
 
 -  Privat-Rezept bei Lifestyle-Arzneimitteln (Merkmal 051)
 
--  Privat-Rezept bei Arzneimitteln mit Verordnungsausschluss nach AM-RL Anlage III - apothekenpflichtigen
+-  Privat-Rezept bei Arzneimitteln mit Verordnungsausschluss nach AM-RL Anlage III
 
--  Privat-Rezept bei
+-  Privat-Rezept bei apothekenpflichtigen Arzneimitteln (OTC -Arzneimittel) für
 
-- Arzneimitteln (OTC -Arzneimittel) für  nicht als
+- Jugendliche über 12 Jahre ohne Entwicklungsstörungen und Erwachsene, die nicht als
 
-- Jugendliche über 12 Jahre ohne Entwicklungsstörungen und Erwachsene, die
+- OTX-Arzneimittel gekennzeichnet sind (Merkmal 053)
 
-- OTX-Arzneimittel gekennzeichnet sind (Merkmal 053) - der
+-  Bei OTX -Arzneimitteln (Merkmal 053)  bei gleichzeitiger Anzeige des jeweiligen
 
-- eine
-
--  Bei OTX -Arzneimitteln (Merkmal 053)  bei gleichzeitiger Anzeige des jeweiligen - vollständigen Hinweistextes
-
-- Anlage I der AM -RL  ist entweder
+- vollständigen Hinweistextes der Anlage I der AM -RL  ist entweder eine
 
 - Auswahlmöglichkeit zwischen Muster 16 oder Privat-Rezept möglich oder alternativ die
 
@@ -4104,11 +3983,7 @@ vorzunehmen:
 
 Es muss jederzeit die Möglichkeit gegeben werden, das Rezeptformular manuell zu wechseln.  Der Wechsel des Formulars muss ohne Verlust der bereits ausgewählten Positionen möglich  sein.
 
-wiederholten Verordnung
-
-Das System muss ermöglichen, dass bei einer
-
-aus der
+Das System muss ermöglichen, dass bei einer wiederholten Verordnung aus der
 
 Patientenhistorie von den oben genannten Voreinstellungen mit abweichenden Vorgaben zum  Rezeptformular diese automatisch übernommen werden.
 
@@ -4161,15 +4036,13 @@ FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.d
 |---|---|
 | P3-800 | Medikationsplan nach § 31a SGB V |
 
-Die Verordnungssoftware muss die zur Erstellung und Aktualisierung des Medikationsplans
-
-nach § 31a SGB V notwendigen Funktionen und Informationen enthalten.
+Die Verordnungssoftware muss die zur Erstellung und Aktualisierung des Medikationsplans  nach § 31a SGB V notwendigen Funktionen und Informationen enthalten.
 
 Hierfür gelten die Vorgaben und technischen Spezifikationen der zwischen KBV,
 
-Bundesärztekammer (BÄK) und der für die Wahrnehmung der wirtschaftlichen Interessen  gebildete maßgebliche Spitzenorganisation der Apotheker auf Bundesebene geschlossenen  (Quelle: Internetseiten
+Bundesärztekammer (BÄK) und der für die Wahrnehmung der wirtschaftlichen Interessen  gebildete maßgebliche Spitzenorganisation der Apotheker auf Bundesebene geschlossenen  Vereinbarung nach § 31a Absatz 4 SGB V einschließlich ihrer Anlagen (Quelle: Internetseiten
 
-Vereinbarung nach § 31a Absatz 4 SGB V einschließlich ihrer Anlagen der KBV).
+der KBV).
 
 
 ---
@@ -4290,23 +4163,17 @@ r (z. B.
 
 # 5. Abkürzungsverzeichnis
 
-AkdÄ
-
-Arzneimittelkommission der deutschen Ärzteschaft
+AkdÄ  Arzneimittelkommission der deutschen Ärzteschaft
 
 Alpha-ID Alpha-ID zum Alphabetischen Verzeichnis der ICD-10-GM des BfArM
 
 AM-DB Arzneimittel-Datenbank
 
-AMG
-
-Arzneimittelgesetz
+AMG  Arzneimittelgesetz
 
 AMPreisV Arzneimittelpreisverordnung
 
-AM-RL
-
-Arzneimittel-Richtlinie
+AM-RL  Arzneimittel-Richtlinie
 
 AMVV
 
@@ -4356,15 +4223,13 @@ Betäubungsmittel-Verschreibungsverordnung
 
 DDD
 
-Defined Daily Dose -Verordnung
+Defined Daily Dose
 
 EAMIV
 
-Elektronische Arzneimittelinformationen
+Elektronische Arzneimittelinformationen-Verordnung
 
-ICD-10-GM Internationale statistische Klassifikation der Krankheiten und verwandter  ICD-10-GM)
-
-Gesundheitsprobleme, 10. Revision, German Modification (
+ICD-10-GM Internationale statistische Klassifikation der Krankheiten und verwandter  Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM)
 
 G-BA
 
@@ -4458,11 +4323,7 @@ verstehen.
 
 Elektronische Verordnung Die elektronische Verordnung nach § 86 SGB V
 
-Papiergebundene Verordnung
-
-BtM-Rezept, T
-
-Arzneiverordnungsblatt ( Muster 16),
+Papiergebundene Verordnung Arzneiverordnungsblatt ( Muster 16), BtM-Rezept, T
 
 Rezept, Privat-Rezept.
 
@@ -4476,15 +4337,9 @@ Datenbankattribut zu einer PZN hinterlegt sein oder in
 
 Abhängigkeit von einem anderen Attribut erzeugt werden. Die
 
-entsprechenden
-
-oder eines
-
 Anzeige des Textes kann in Form eines Tooltips oder nach
 
-Anklicken einer
-
-Schaltfläche
+Anklicken einer entsprechenden Schaltfläche oder eines
 
 Karteikartenreiters oder auch ohne jede Benutzeraktion
 

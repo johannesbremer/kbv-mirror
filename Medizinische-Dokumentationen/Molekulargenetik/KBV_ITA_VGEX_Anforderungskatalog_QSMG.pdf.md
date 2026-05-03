@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.16 |
+|  | 1.4.11.2025 |
 
-kulargenetik Digitalisierung und IT 10623 Berlin, Version  Datum: 1.4.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft
+kulargenetik Digitalisierung und IT 10623 Berlin, Version  1.16 Datum: Kennzeichnung: Öffentlich  Status: In Kraft
 
 
 ---
@@ -98,10 +98,10 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 |---|---|---|---|---|---|---|---|
 |  | Anforderungskatalog | QS | Molekulargenetik | |  |  |  |
 |  |  |  | **ABBILDUNGSVERZEICHNIS** | | |  |  |
-| A BBILDUNG | :1 B ERICHTSZEITRÄUME |  |  |  |  |  | **................................................................................................................................6** |
+| **ABBILDUNG** | **1:** | **BERICHTSZEITRÄUME** |  |  | ................................................................................................................................ | | 6 |
 |  |  | KBV_ITA_VGEX_Anforderungskatalog_QSMG | | * Version | 1.16 | Seite 4 | von 19 |
 
-1:
+ABBILDUNG 1:
 
 ---
 
@@ -121,9 +121,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein.
-
-**Pflichtfunktionen**
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
 
@@ -205,7 +203,7 @@ dient den Korrekturen.
 
 30.06
 
-### Melde quartal
+### Melde- quartal
 
 ### Prüfquartal
 
@@ -263,11 +261,7 @@ Ein Behandlungsfall kann folgende Arten der Fragestellung haben: -  diagnostisch
 
 -  vorgeburtliche Fragestellung
 
-Fragestellungen
-
-Die unterschiedlichen
-
-sind in den Ausfüllhinweisen beschrieben
+Die unterschiedlichen Fragestellungen sind in den Ausfüllhinweisen beschrieben
 
 [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs-
 
@@ -297,9 +291,7 @@ Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der
 
 ---
 
-unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
-
-Die
+Die unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
 
 [KBV_ITA_AHEX_Ausfuellhinweise_QSMG].
 
@@ -320,9 +312,9 @@ Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP au
 |---|---|
 | P1-90 | Art des Befundes je Leistung |
 
-Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  jeweilige An-
+Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die jeweilige An-
 
-die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die  zahl ist in der Jahresstatistik anzuzeigen.
+zahl ist in der Jahresstatistik anzuzeigen.
 
 Eine durchgeführte Leistung (nach EBM Unterabschnitt 11.4.2) kann im Sinne der einzelnen  Analyse folgende Arten des Befundes haben: - pathologischer Befund
 
@@ -512,9 +504,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuscha
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-### Speichern
-
-### 2.1.7
+### 2.1.7 Speichern
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -522,9 +512,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudru
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-### Ändern
-
-### 2.1.8
+### 2.1.8 Ändern
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -586,9 +574,7 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
-
-- dokumentes bereitstellen:
+- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
 
 -  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]
 
@@ -613,8 +599,8 @@ Es sind folgende Import-Status möglich:
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
+| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
@@ -627,8 +613,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. -
-
+Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. ports führen. Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
 
 ---
 
@@ -661,9 +646,7 @@ Das System muss
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs- seln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-
-
-sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
 
 
 ---

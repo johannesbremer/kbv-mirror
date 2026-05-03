@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -24,15 +24,13 @@
 
 **Arztpraxis Wiegand**
 
-**APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164
-
-55128 Mainz Internet: www.apw-wiegand.de
+**APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
 |  | Y/70/2407/36/078 | 30.06.2027 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2312/36/031
 
@@ -63,9 +61,11 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 |---|---|---|---|---|
 |  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/112
+
+Y/70/2311/36/203
 
 |  |  | **Prüfnummer** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ Y/70/2311/36/112
 
 31.10.2026 B1-Schnittstelle
 
-Y/70/2311/36/203 31.10.2026 B1-Schnittstelle
+31.10.2026 B1-Schnittstelle
 
 Windows
 
@@ -97,9 +97,11 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|---|
 |  | Y/70/2409/36/238 | 31.08.2027 | B1-Schnittstelle |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/280
+
+Y/70/2308/36/262
 
 |  |  | **Prüfnummer** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -108,7 +110,7 @@ Y/70/2311/36/280
 
 31.10.2026 B1-Schnittstelle
 
-Y/70/2308/36/262 31.07.2026 B1-Schnittstelle
+31.07.2026 B1-Schnittstelle
 
 Windows
 
@@ -129,7 +131,7 @@ Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Inter
 |---|---|---|---|---|
 |  | Y/70/2311/36/295 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/488
 
@@ -169,6 +171,8 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 Y/70/2311/36/253
 
+Y/70/2312/36/223
+
 |  |  | **Prüfnummer** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Schnittstellen** |  |
@@ -176,7 +180,7 @@ Y/70/2311/36/253
 
 31.10.2026 B1-Schnittstelle
 
-Y/70/2312/36/223 30.11.2026 B1-Schnittstelle
+30.11.2026 B1-Schnittstelle
 
 Windows
 
@@ -197,7 +201,7 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 |---|---|---|---|---|
 |  | Y/70/2312/36/136 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/244
 
@@ -235,7 +239,7 @@ ifap VoS ifap Service-Institut für Ärzte und Apotheker GmbH Bunsenstraße 7 82
 |---|---|---|---|---|
 |  | Y/70/2308/36/216 | 31.07.2026 | B1-Schnittstelle |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/406
 
@@ -275,6 +279,8 @@ CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Eber
 
 Y/70/2311/36/243
 
+Y/70/2311/36/266
+
 |  |  | **Prüfnummer** |  | **unterstützte** |
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Schnittstellen** |  |
@@ -282,7 +288,7 @@ Y/70/2311/36/243
 
 31.10.2026 B1-Schnittstelle
 
-Y/70/2311/36/266 31.10.2026 B1-Schnittstelle
+31.10.2026 B1-Schnittstelle
 
 Windows
 
@@ -385,7 +391,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 |---|---|---|---|---|
 |  | Y/70/2310/36/230 | 30.09.2026 | B1-Schnittstelle |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 25. April 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 02. Mai 2026
 
 Y/70/2311/36/456
 

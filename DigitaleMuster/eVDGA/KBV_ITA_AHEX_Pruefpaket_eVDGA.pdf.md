@@ -50,7 +50,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 6
 
-Prüfstammdaten 2.6.1
+2.6.1 Prüfstammdaten
 
 6
 
@@ -64,9 +64,7 @@ Prüfstammdaten 2.6.1
 
 7
 
-Version der zu verwendenden FHIR-Profile 2.6.5
-
-8
+2.6.5 Version der zu verwendenden FHIR-Profile 8
 
 **3** **PRÜFFÄLLE**
 
@@ -114,45 +112,23 @@ umzusetzenden FHIR-Version Praxis 1.2.0 Prüffalls PF05 Dokumente verordneten Di
 
 # 2 ALLGEMEINES
 
-Zertifizierung eines
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die  (VDGA)
+Zertifizierungsgegenstandes im Bereich der Verordnung digitaler Gesundheitsanwendungen (VDGA)
 
-Zertifizierungsgegenstandes im Bereich der Verordnung digitaler Gesundheitsanwendungen konkret die elektronische Verordnung digitaler Gesundheitsanwendungen gem. § 33a SGB V (eVDGA) in
+konkret die elektronische Verordnung digitaler Gesundheitsanwendungen gem. § 33a SGB V (eVDGA) in
 
 Form des elektronischen Vordrucks e16D.
 
 Die Zertifizierungsrichtlinie der KBV [KBV_ITA_RLEX_Zert], welche die Rechte und Pflichten des  Antragstellers definiert, bildet den Rahmen der Zertifizierung und ist zu beachten.
 
-werden, die nicht Bestandteil dieses Prüfpaketes sind.
-
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 **HINWEIS**
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang eVDGA initiieren und, sofern noch
+Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das
 
-- den Prüfvorgang Verordnung digitaler
-
-- kein entsprechendes Zertifikat vorliegt, auch Gesundheitsanwendungen initiieren. Die genaue Vorgehensweise wird im Prüfpaket Verordnung
-
-- digitaler Gesundheitsanwendungen [KBV_ITA_AHEX_PRUEFPAKET_VDGA] beschrieben.
-
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Archiv über das Zertifizierungsportal hochgeladen werden. Erst wenn alle -
-
-- Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller
-
-- den Antragsteller zur Sichtprüfung auffordern.
-
-- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV
-
-- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) von beiden Prüfvorgängen kann dem Zertifizierungsgegenstand die entsprechende  Zulassung ausgesprochen werden.
-
-eine Zertifizierung für das
-
-Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche  Zertifizierungsthema „Verordnung digitaler Gesundheitsanwendungen besitzen oder anstreben, siehe
+Zertifizierungsthema „Verordnung digitaler Gesundheitsanwendungen besitzen oder anstreben, siehe
 
 auch [KBV_ITA_AHEX_PRUEFPAKET_VDGA].
 
@@ -164,11 +140,25 @@ Rechtliche Grundlage bildet §73 Absatz 9 des Fünften Buches Sozialgesetzbuch (
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
+- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang eVDGA initiieren und, sofern noch
+
+- kein entsprechendes Zertifikat vorliegt, auch den Prüfvorgang Verordnung digitaler
+
+- Gesundheitsanwendungen initiieren. Die genaue Vorgehensweise wird im Prüfpaket Verordnung
+
+- digitaler Gesundheitsanwendungen [KBV_ITA_AHEX_PRUEFPAKET_VDGA] beschrieben.
+
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Archiv über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) von beiden Prüfvorgängen kann dem Zertifizierungsgegenstand die entsprechende  Zulassung ausgesprochen werden.
+
 **HINWEIS**
 
-auf Zertifizierung VDGA bei der KBV oder
+Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung VDGA bei der KBV oder
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrags  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen
+des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen
 
 vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
@@ -394,7 +384,7 @@ Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- un
 |  |  |
 |---|---|
 | Prüffall-ID | PF01 |
-| Testziel | „ |
+| Testziel | Erstellen und Signieren einer eVDGA für den Patienten |
 | Voraussetzung |  |
 | Aktion |  |
 | Einzureichende |  |
@@ -402,7 +392,7 @@ Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- un
 
 **Tabelle 1: Prüffalltabelle  Verordnung für Patient „Karl-Friederich Schaumberg**
 
-Erstellen und Signieren einer eVDGA für den Patienten Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Karl Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17554323 (Selfapy Angst 001) 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eVDGA vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert die eVDGA mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem d ie visualisierte eVDGA vollständig zu erkennen ist. 5. Der Anwender signiert die eVDGA. XML-Datei der eVDGA Prüfunterlagen Signierte eVDGA-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige der mittels Stylesheet visualisierten eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
+Karl- Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Karl Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17554323 (Selfapy Angst 001) 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eVDGA vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert die eVDGA mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem d ie visualisierte eVDGA vollständig zu erkennen ist. 5. Der Anwender signiert die eVDGA. XML-Datei der eVDGA Prüfunterlagen Signierte eVDGA-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige der mittels Stylesheet visualisierten eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
 
 ---
 
@@ -410,10 +400,10 @@ Erstellen und Signieren einer eVDGA für den Patienten Karl- Friederich Schaumbe
 |---|---|
 | Prüffall-ID | PF02 |
 | Bedingung | Die konditionale Anforderungsfunktion KP4-322 ] wurde umgesetzt. |
-| Testziel | ) für den Patienten „ |
+| Testziel | Erstellen einer eVDGA (Freitextverordnung |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende |  |
+| Prüfunterlagen |  |
 | Hinweis |  |
 
 **Tabelle 2: Prüffalltabelle**
@@ -421,10 +411,10 @@ Erstellen und Signieren einer eVDGA für den Patienten Karl- Friederich Schaumbe
 |  |  |
 |---|---|
 | Prüffall-ID | PF03 |
-| Testziel | für den Patienten „ |
+| Testziel | Erstellen einer eVDGA |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende |  |
+| Prüfunterlagen |  |
 | Hinweis |  |
 
 **Tabelle 3: Prüffalltabelle**
@@ -451,7 +441,7 @@ Erstellen und Signieren einer eVDGA für den Patienten Karl- Friederich Schaumbe
 
 - Die Signatur wird im Prüffall 05 gefordert/erbracht.
 
-Prüfunterlagen [KBV_ITA_VGEX_Anforderungskatalog_VDGA Erstellen einer eVDGA (Freitextverordnung Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Müller “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 09999991 (iuvenis 001) b) Nicht anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER)  XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML Viktor Müller -Dateien auf Basis der eVDGA- Prüfunterlagen Erstellen einer eVDGA Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 2 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18603466 (Kaia Rückenschmerzen 001) b) Anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  **Verordnung für Patient „Viktor Müller**
+Einzureichende [KBV_ITA_VGEX_Anforderungskatalog_VDGA Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Müller “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 09999991 (iuvenis 001) b) Nicht anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER)  XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML ) für den Patienten „ Viktor Müller -Dateien auf Basis der eVDGA- Einzureichende für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 2 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18603466 (Kaia Rückenschmerzen 001) b) Anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- für den Patienten „ Viktor Müller Arzt 1 ist als ausstellender Arzt im System ausgewählt  **Verordnung für Patient „Viktor Müller**
 
 
 ---
@@ -460,7 +450,7 @@ Prüfunterlagen [KBV_ITA_VGEX_Anforderungskatalog_VDGA Erstellen einer eVDGA (Fr
 |---|---|
 |  |  |
 | Aktion |  |
-| Einzureichende |  |
+| Prüfunterlagen |  |
 | Hinweis |  |
 
 **Tabelle 4: Prüffalltabelle**
@@ -471,14 +461,14 @@ Prüfunterlagen [KBV_ITA_VGEX_Anforderungskatalog_VDGA Erstellen einer eVDGA (Fr
 | Testziel | Signieren mehrerer eVDGA mittels Stapelsignatur |
 | Voraussetzung |  |
 | Aktion |  |
-| Einzureichende |  |
+| Prüfunterlagen |  |
 
 **Tabelle 5: Prüffalltabelle**
 
 |  |  |
 |---|---|
 | Prüffall-ID | PF06 |
-| Testziel | für die Patientin „ |
+| Testziel | Erstellen einer eVDGA |
 | Voraussetzung |  |
 | Aktion |  |
 
@@ -500,7 +490,7 @@ Prüfunterlagen [KBV_ITA_VGEX_Anforderungskatalog_VDGA Erstellen einer eVDGA (Fr
 
 - c) Unfalltag entspricht dem Ausstellungsdatum der Verordnung
 
-Prüfunterlagen Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur Erstellen einer eVDGA Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Brigitte Althaus “ ist im System ausgewählt- 2. Der Anwender signiert die eVDGA.
+Einzureichende Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML Einzureichende Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt- 2. Der Anwender signiert die eVDGA.
 
 
 ---
@@ -544,6 +534,10 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 |  |  |
 | Hinweis | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- |
 
+**Tabelle 8: Prüffalltabelle**
+
+**3.3** **BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG EVDGA**
+
 |  |  |
 |---|---|
 | Prüffall-ID | PF09 |
@@ -551,19 +545,17 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 | Voraussetzung |  |
 | Einzureichende |  |
 
+**Tabelle 9: Prüffalltabelle**
+
+**Verordnung für Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn im Rahmen der ASV**
+
 -
 
 - Gesundheitsanwendungen)‘)
 
-**Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn im Rahmen der ASV**
+**Einreichung Bestätigungsschreiben der gematik zur Funktionsumfang eVDGA**
 
-**Tabelle 8: Prüffalltabelle  Verordnung für Patientin**
-
-## 3.3 BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG EVDGA
-
-**Tabelle 9: Prüffalltabelle  Einreichung Bestätigungsschreiben der gematik zur Funktionsumfang eVDGA**
-
-PDF-Datei mit Patientenausdruck der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.   [gemLeit_Best_Konf_eRP] Bestehen des Bestätigungsverfahren der gematik Bestätigungsschreiben der gematik - Bestätigung der Konformität des Typ ‚Muster 16 (Digitale Primärsystems zum Funktionsumfang eVDGA (E-Rezept- Prüfunterlagen
+PDF-Datei mit Patientenausdruck der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.  Prüfunterlagen Bestehen des Bestätigungsverfahren der gematik  [gemLeit_Best_Konf_eRP] Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang eVDGA (E-Rezept- Typ ‚Muster 16 (Digitale
 
 
 ---

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
@@ -164,7 +164,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
 
 Y/53/2501/36/034
 
@@ -273,7 +273,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -320,9 +320,9 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 
 **projodis GmbH** Gebrüder-Freitag-Straße 1 35510 Butzbach Internet: [http://www.projodis.com](http://www.projodis.com)
 
-**PROFIMED**
-
-**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+|  | Y/53/2604/36/247 | 31.03.2029 | Hautkrebs-Screening |  |
+|---|---|---|---|---|
+|  | Y/56/2401/36/247 | 31.12.2026 | QS Hörgeräteversorgung |  |
 
 |  | Y/53/2504/36/456 | 31.03.2028 | Hautkrebs-Screening |  |
 |---|---|---|---|---|
@@ -339,13 +339,7 @@ Y/55/2311/36/609
 
 31.10.2026 QS Molekulargenetik
 
-Y/56/2401/36/247
-
-31.12.2026 QS Hörgeräteversorgung
-
-Windows
-
-RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de iOS/Android Linux Mac OS Sonstige Windows Sonstige WindowsWindows
+PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de Windows RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de iOS/Android Linux Mac OS Sonstige Windows Sonstige WindowsWindows
 
 
 ---
@@ -396,7 +390,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 25. April 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
 
 Y/53/2501/36/313
 

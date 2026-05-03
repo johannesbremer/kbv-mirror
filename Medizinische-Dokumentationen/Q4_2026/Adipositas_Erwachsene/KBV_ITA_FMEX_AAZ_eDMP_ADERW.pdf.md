@@ -105,7 +105,7 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION LT. ANFORDERUNGSKATALOG |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -116,11 +116,11 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 
 # REALISIERUNG VON ANFORDERUNGEN
 
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP
+## REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
 
-## ADIPOSITAS ERWACHSENE
+## -ERWACHSENE
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] NUMMER EDMP ADIPOSITAS- ERWACHSENE
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] EDMP ADIPOSITAS-ERWACHSENE
 
 ---
 
@@ -199,8 +199,6 @@ Erwachsene Rezertifizierung
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-
--
 
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 

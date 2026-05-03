@@ -117,13 +117,19 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 7.1.3 Abschnitt „ohne Name“ ........................................................................................................ 29
 
-7.1.4 Abschnitt „Überweisung im Rahmen des Hautkrebs-Screenings“ ...................................... 29
+Abschnitt „Überweisung im Rahmen des Hautkrebs 7.1.4
+
+-Screenings“ ...................................... 29
 
 *7.1.4.1* *Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings ........... 29*
 
 *7.1.4.2* *Überweisender Arzt hat HKS durchgeführt* *.......................................................... 30*
 
-7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arztes“ ............................ 30
+7.1.5
+
+............................ 30
+
+Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arztes“
 
 *7.1.5.1* *Angabe über die Verdachtsdiagnose liegt vor* *...................................................... 31*
 
@@ -135,7 +141,9 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *7.1.5.5* *anderer Hautkrebs ................................................................................................ 31*
 
-7.1.6 Abschnitt „Verdachtsdiagnose des Dermatologen“ ............................................................. 33
+7.1.6
+
+Abschnitt „Verdachtsdiagnose des Dermatologen“............................................................. 33
 
 *7.1.6.1* *Malignes Melanom ................................................................................................ 33*
 
@@ -145,35 +153,31 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *7.1.6.4* *anderer Hautkrebs ................................................................................................ 34*
 
-*7.1.6.5* *sonstiger mit Biopsie abklärungsbedürftiger Befund............................................ 34*
+*7.1.6.5* *sonstiger mit Biopsie abklärungsbedürftiger Befund* *............................................ 34*
 
 7.1.7 Abschnitt „Biopsie/Exzision“ ................................................................................................ 34
 
-*............. 35*
+*7.1.7.1* *Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt* *............. 35*
 
-*7.1.7.1* *Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt*
-
-*7.1.7.2* *Anzahl der entnommenen Biopsien/Exzisionen................................................... 35*
+*7.1.7.2* *Anzahl der entnommenen Biopsien/Exzisionen* *................................................... 35*
 
 *7.1.7.3* *Anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet ............. 35*
 
 *7.1.7.4* *Derzeit keine weitere Therapie/Diagnostik* *........................................................... 35*
 
-7.1.8 Abschnitt „Histopathologie“ .................................................................................................. 36
+7.1.8
+
+Abschnitt „Histopathologie“.................................................................................................. 36
 
 *7.1.8.1* *Malignes Melanom ................................................................................................ 37*
 
-Klassifikation 7.1.8.1.1
-
-.............................................................................................. 37
+7.1.8.1.1 Klassifikation .............................................................................................. 37
 
 7.1.8.1.2 Tumordicke (Breslow) ................................................................................ 38
 
 *7.1.8.2* *Basalzellkarzinom ................................................................................................. 39*
 
-horizontaler Tumordurchmesser (klinisch) 7.1.8.2.1
-
-................................................. 39
+7.1.8.2.1 horizontaler Tumordurchmesser (klinisch) ................................................. 39
 
 7.1.8.2.2 vertikaler Tumordurchmesser (histologisch) .............................................. 40
 
@@ -200,38 +204,26 @@ horizontaler Tumordurchmesser (klinisch) 7.1.8.2.1
 
 ---
 
-**44**
-
 **9** **REFERENZIERTE DOKUMENTE**
+
+**44**
 
 
 ---
 
-#### ABBILDUNGSVERZEICHNI
+#### ABBILDUNGSVERZEICHNIS
 
-Abbildung 1 - Grundstruktur levelone .....................................................................................
+Abbildung 1 - Grundstruktur levelone ..................................................................................... 14
 
-Abbildung 2 - Grundstruktur body ..........................................................................................
+Abbildung 2 - Grundstruktur body .......................................................................................... 17
 
-Abbildung 3 - Grundstruktur section (HKS-ND / HKS-ND-EV)
+Abbildung 3 - Grundstruktur section (HKS-ND / HKS-ND-EV) ............................................... 17
 
-Abbildung 4 - allgemeiner Aufbau Sciphox-SSU observation
+Abbildung 4 - allgemeiner Aufbau Sciphox-SSU observation ................................................ 19
 
-Abbildung 5 - Grundstruktur body ..........................................................................................
+Abbildung 5 - Grundstruktur body .......................................................................................... 27
 
-Abbildung 6 - Grundstruktur section (HKS-D bzw. HKS-D-EV)
-
-**S**
-
-14
-
-17
-
-............................................... 17
-
-................................................ 19 27
-
-.............................................. 27
+Abbildung 6 - Grundstruktur section (HKS-D bzw. HKS-D-EV) .............................................. 27
 
 
 ---
@@ -560,9 +552,13 @@ Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle
 
 # 4 Dokumentenstruktur
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e-/Kleinschreibung zu b
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  aus den beiden Kindelementen *clinical_document_header* und *body*
+achten.
+
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *levelone*, welches sich
+
+aus den beiden Kindelementen *clinical_document_header* und *body* zusammensetzt, wie es
 
 in Abbildung 1 dargestellt ist.
 
@@ -580,7 +576,11 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 ***<?xml version="1.0" encoding="ISO-8859-15"?>***
 
-***<levelone xmlns="urn::hl7-org/cda"***  ***xmlns:sciphox="urn::sciphox-org/sciphox"***  ***xmlns:xsi="-[http://www.w3.org/2001/XMLSchemainstance"](http://www.w3.org/2001/XMLSchemainstance")>***
+***xmlns:sciphox="urn::sciphox-org/sciphox"***  ***xmlns:xsi="-***
+
+***<levelone xmlns="urn::hl7-org/cda"***
+
+***[http://www.w3.org/2001/XMLSchemainstance"](http://www.w3.org/2001/XMLSchemainstance")>***
 
 ***<clinical_document_header>***
 
@@ -604,12 +604,6 @@ nen in dem Dokument „Schnittstellenbeschreibung eDoku Header“  [KBV_ITA_VGEX
 
 Die Struktur des Elements *body* wird in Kapitel 6 bzw. 7 näher erläutert.
 
-/Kleinschreibung zu b
-
-*levelone*, welches sich
-
-zusammensetzt, wie es
-
 
 ---
 
@@ -617,9 +611,9 @@ zusammensetzt, wie es
 
 ## 5.1 Unterschiede zwischen DMP-Volldatensatz-Header zu eHKS- Header
 
-- *document_type_cd* müssen den Tabellenwerten aus der Doku-
+-  Die Werte im Element *document_type_cd* müssen den Tabellenwerten aus der Doku-
 
--  Die Werte im Element  menttypentabelle entsprechen:
+- menttypentabelle entsprechen:
 
 - o eDokumentation Hautkrebs-Screening – Nicht- Dermatologe :
 
@@ -639,19 +633,11 @@ zusammensetzt, wie es
 
 - o *document_relationship,*
 
--
-
 - o *provider.function_cd,*
-
--
 
 - o *provider.person.person_name,*
 
--
-
 - o *provider.person.addr,*
-
--
 
 - o *provider.person.telecom,*
 
@@ -682,29 +668,27 @@ zusammensetzt, wie es
 
 ---
 
-o patient.GesetzlicheKrankenversicherung.Einlesedatum
+*o patient.GesetzlicheKrankenversicherung.Einlesedatum*
 
 werden nicht verwendet.
 
--  Das Element provider.person.idmuss zweimal vorhanden sein. Als Inhalt des RT - -Attributs
+-  Das Element *provider.person.id* muss zweimal vorhanden sein. Als Inhalt des RT-Attributs
 
 - sind die Werte „BSNR“ und „LANR“ zulässig.
 
--  Das Element patient.person.identhält im EX
-
-- -Attribut die lokal eindeutige bis zu 8-stellige
+-  Das Element *patient.person.id* enthält im EX-Attribut die lokal eindeutige bis zu 8-stellige
 
 - alphanumerische Patientennummer eines Versicherten und im RT--Attribut die 9 stellige - Betriebsstättennummer.
 
--  Das Element patient.birth_dttm ist optional. Es muss jedoch mindestens entweder das
+-  Das Element *patient.birth_dttm* ist optional. Es muss jedoch mindestens entweder das
 
 - Alter des Versicherten (siehe Kapitel 6.1.3.1) oder das Geburtsdatum angegeben werden.  Es sind Nur eine der beide Angaben nebeneinander ist zulässig.
 
--  Das Element service_tmr enthält als Wert das „Untersuchungsdatum“.
+-  Das Element *service_tmr* enthält als Wert das „Untersuchungsdatum“.
 
--  Das Element origination_dttm enthält als Wert das „Erstellungsdatum der Datei“.
+-  Das Element *origination_dttm* enthält als Wert das „Erstellungsdatum der Datei“.
 
--  Das Element administrative_gender_cd(patient) kann zusätzlich den Wert X=Unbestimmt
+-  Das Element *administrative_gender_cd* (patient) kann zusätzlich den Wert X=Unbestimmt
 
 - enthalten. Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kode-
 
@@ -715,15 +699,13 @@ werden nicht verwendet.
 
 # 6 Body - Dokumentation Hautkrebs-Screening - Nicht- Dermatologe
 
-Dermatologe –
+In diesem Kapitel wird der Aufbau des Bodys der „eDokumentation Hautkrebs-Screening –  Nicht-Dermatologe“ bzw. der „eDokumentation Hautkrebs-Screening – Nicht- Dermatologe –
 
-In diesem Kapitel wird der Aufbau des Bodys der „eDokumentation Hautkrebs-Screening –  Nicht-Dermatologe“ bzw. der „eDokumentation Hautkrebs-Screening – Nicht-  **body** der XML-Datei werden die eigentlichen Un-
+Ergänzende Verträge“ erläutert. Im Element *body* der XML-Datei werden die eigentlichen Un-
 
-Ergänzende Verträge“ erläutert. Im Element  tersuchungsdaten aufgeführt.
+tersuchungsdaten aufgeführt.
 
-**body** selbst enthält ein Element **section**. Der Aufbau des Elements **body** ist in
-
-Das Element
+Das Element *body* selbst enthält ein Element *section*. Der Aufbau des Elements *body* ist in
 
 Abbildung 2 dargestellt.
 
@@ -745,40 +727,30 @@ Der Coderahmen für das body-Element sieht wie folgt aus:
 
 ## 6.1 Sektion (section)
 
--Element setzt sich aus zwei bis drei Elementen **paragraph** zusammen. Ein **para-**
+Das *section*-Element setzt sich aus zwei bis drei Elementen *paragraph* zusammen. Ein *para-*
 
-Das **section**
+*graph*-Element setzt sich aus den Kindelementen *caption* und *content* zusammen. Die Grund-
 
-**caption**und  **content**zusammen. Die Grun
-
-d-
-
-**graph**-Element setzt sich aus den Kindelementen
-
-struktur des **section**-Elements ist in Abbildung 3 dargestellt.
+struktur des *section*-Elements ist in Abbildung 3 dargestellt.
 
 **Abbildung 3 - Grundstruktur section (HKS-ND / HKS-ND-EV)**
 
-Die Sektion kann die Abschnitte „ohne Name“, „Verdachtsdiagnose“ und „Gesundheitsunter- -Element untergebracht sind.
-
-suchung“ enthalten, die jeweils in einem **paragraph**
+Die Sektion kann die Abschnitte „ohne Name“, „Verdachtsdiagnose“ und „Gesundheitsunter- suchung“ enthalten, die jeweils in einem *paragraph*-Element untergebracht sind.
 
 
 ---
 
 ### 6.1.1 caption
 
--Element muss ein Kindelement ***caption***mit der Abschnittsüberschrift und
+Zu jedem *paragraph*-Element muss ein Kindelement *caption* mit der Abschnittsüberschrift und
 
-Zu jedem ***paragraph*** mit den konkreten Daten übertragen werden. Enthält ein Abschnitt
+ein Kindelement *content* mit den konkreten Daten übertragen werden. Enthält ein Abschnitt
 
-ein Kindelement ***content***
-
-keine Daten, so wird der entsprechende ***paragraph*** Block weggelassen. Die***content***-Elemente
+keine Daten, so wird der entsprechende *paragraph* Block weggelassen. Die *content*-Elemente
 
 der einzelnen Abschnitte werden in den nächsten Kapiteln erläutert.
 
-Die Werte der einzelnen ***caption_cd***Elemente entsprechen dabei den Abschnittsüberschriften
+Die Werte der einzelnen *caption_cd*-Elemente entsprechen dabei den Abschnittsüberschriften
 
 des Plausibilitätenkataloges. Der Coderahmen für das Element section sieht wie folgt aus:
 
@@ -838,55 +810,59 @@ caption_cd DN="Gesundheitsuntersuchung"/>
 
 ### 6.1.2 content
 
-enthält das Kindelement
+Das Element *content* enthält das Kindelement
 
-***local_markup***, mit welchem eine ***sciphox-ssu***
+verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  Das Element *local_markup* hat die erforderlichen Attribute
 
-Das Element ***content***
+*ignore* hat den festen Wert: “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet
 
-verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben.  hat die erforderlichen Attribute
-
-***ignore***und  ***descriptor.*** Das Attribut
-
-Das Element ***local_markup***
-
-***ignore*** hat den festen Wert: “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet  Attribut der feste Wert: „sciphox“ vorgeschrieben.
-
-werden, ist für das ***descriptor***
+werden, ist für das *descriptor-*Attribut der feste Wert: „sciphox“ vorgeschrieben.
 
 Für die Darstellung der Hautkrebs--Screening Daten in XML, wird ausschließlich die Sciphox-
 
 SSU
 
-***sciphoxssu*** hat drei Attribute, die mit den festen Werten
+*observation* verwendet. Das Element
 
-***observation*** verwendet. Das Element
+vorbelegt sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet,  dass die Sciphox-ssu *observation*
 
-***observation*** in Version ***v1*** verwendet wird. Der Coderahmen für das
+Element *content* mit Sciphox-SSU *observation*
 
-vorbelegt sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet,  dass die Sciphox-ssu  Element ***content*** mit Sciphox-SSU ***observation*** sieht demnach folgendermaßen aus:
+*local_markup*, mit welchem eine *sciphox-ssu*
+
+*ignore* und *descriptor.* Das Attribut
+
+*sciphox-ssu* hat drei Attribute, die mit den festen Werten
+
+in Version *v1* verwendet wird. Der Coderahmen für das  sieht demnach folgendermaßen aus:
 
 
 ---
 
-| <content> <  <sciphox:sciphox-ssu type="observation" country="de" version="v1">             . . .  </local_markup> |
+| <content>   <sciphox:sciphox-ssu type="observation" country="de" version="v1">             . . .   </content> |
 |---|
 
 **XML-Code 4 – content mit sciphox-SSU (observation)**
 
 #### 6.1.2.1 Sciphox-SSU observation
 
-Das Element sciphox ssu (observation)
+Das Element *sciphox-ssu (observation)* enthält das Kindelement *sciphox:Beobachtungen,*
 
-mehrere Kindelemente sciphox:Beobachtung
+mehrere Kindelemente *sciphox:Beobachtung* enthalten kann. Es muss mindestens ein Ele-
 
-ment sciphox:Beobachtung vorkommen. Das Element
+ment *sciphox:Beobachtung* vorkommen. Das Element *sciphox:Beobachtung*
 
-jeweils genau einem Kindelement sciphox:Parameter
+jeweils genau einem Kindelement *sciphox:Parameter* und den optionalen Kindelementen
 
-phox:Ergebniswert, sciphox:Ergebnistext dem sciphox:Parameter Element muss mindestens eins dieser optionalen Kindelemente an-
+*phox:Ergebniswert, sciphox:Ergebnistext* und* sciphox:Beobachtungen*
 
-gegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter  gemacht wurden, wird der komplette  ter weggelassen. Die Angabe einer  phox:Parameter ist nicht zulässig.
+dem *sciphox:Parameter-*Element muss mindestens eins dieser optionalen Kindelemente an-
+
+gegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter  gemacht wurden, wird der komplette *sciphox:Beobachtung-*Block mit dem jeweiligen Parame-
+
+ter weggelassen. Die Angabe einer *sciphox:Beobachtung* mit nur einem Element
+
+*phox:Parameter* ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
@@ -894,32 +870,20 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 Der XML-Code zum Element
 
-| <sciphox:sciphox-ssu type="observation" country="de" version="v1">       <> sciphox:Beobachtungen sciphox:Beobachtung             . . .              </sciphox:Beobachtung>               <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->             . . .              </sciphox:Beobachtung>       </sciphox:Beobachtungen> |
+| <sciphox:sciphox-ssu type="observation" country="de" version="v1">       <> sciphox:Beobachtungen               <>             . . .              </sciphox:Beobachtung>               <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->             . . .              </sciphox:Beobachtung>       </sciphox:Beobachtungen> </sciphox:sciphox-ssu> |
 |---|
 
-sciphox-ssu
-
-enthält das Kindelement sciphox:Beobachtungen,
-
-enthalten kann. Es muss mindestens ein Ele- sciphox:Beobachtung und den optionalen Kindelementen
-
-und  sciphox:Beobachtungen
-
-sciphox:Beobachtung-Block mit dem jeweiligen Parame-
-
-sciphox:Beobachtung mit nur einem Element
-
-sieht folgendermaßen aus:
+*sciphox-ssu* sieht folgendermaßen aus:
 
 das
 
-setzt sich aus  sci-
+setzt sich aus  *sci-*
 
 zusammen. Neben
 
-sci-
+*sci-*
 
-local_markupignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </content> </sciphox:sciphox-ssu>
+local_markupignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup>
 
 ---
 
@@ -977,11 +941,9 @@ gendermaßen aus:
 
 ##### 6.1.2.1.4 Beobachtungen
 
-In einigen Fällen ist es notwendig, weitere Beobachtungen zu einem Parameter in einem Be- ***Beobachtungen***enthält weitere Kindelemente
+In einigen Fällen ist es notwendig, weitere Beobachtungen zu einem Parameter in einem Be- obachtungsblock anzugeben. Das Element *Beobachtungen* enthält weitere Kindelemente *Be-*
 
-***Be-***
-
-obachtungsblock anzugeben. Das Element  ***obachtung.*** Beide Elemente haben den gleichen Aufbau und Kindelemente, wie bereits im
+*obachtung.* Beide Elemente haben den gleichen Aufbau und Kindelemente, wie bereits im
 
 Kapitel 6.1.2.1 beschrieben wurde.
 
@@ -989,33 +951,23 @@ Kapitel 6.1.2.1 beschrieben wurde.
 
 In diesem Kapitel wird der Abschnitt „ohne Name“ beschrieben.
 
-***observation*** verwendet. Der Aufbau dieser SSU ist
-
-Im Element ***content*** wird die Sciphox-SSU
+Im Element *content* wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist
 
 in Kapitel 6.1.2.1 dargestellt.
 
-***sciphox:Beobachtungen***. Das Element ***sci-***
+Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Element *sci-*
 
-Diese SSU enthält genau ein Element
+*phox:Beobachtungen* enthält genau ein Kindelement *sciphox:Beobachtung*. Ein Element *sci-*
 
-***sciphox:Beobachtung***. Ein Element ***sci-***
+*phox:Beobachtung* setzt sich aus genau einem Kindelement *sciphox:Parameter* und einem
 
-***phox:Beobachtungen***enthält genau ein Kindelement
-
-***sciphox:Parameter*** und einem
-
-***phox:Beobachtung***setzt sich aus genau einem Kindelement
-
-Kindelement ***sciphox:Ergebniswert***zusammen. Für das Kindelement
-
-***sciphox:Parameter*** ist
+Kindelement *sciphox:Ergebniswert* zusammen. Für das Kindelement *sciphox:Parameter* ist
 
 der Wert „Alter“ fest vorgegeben.
 
-Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeordnete ***para-***
+Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeordnete *para-*
 
-***graph***-Block.
+*graph*-Block.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1057,15 +1009,11 @@ sciphox:Beobachtung
 
 #### 6.1.3.1 Alter
 
-***sciphox:ErgebniswertV*** Attribut das Alter des
+Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im *V*-Attribut das Alter des
 
-Bei diesem Parameter enthält das Element
+Patienten und im *U*-Attribut den fest vorgeschriebenen Wert „Jahre“. Der Wert im *V*-Attribut
 
-im
-
-Patienten und im ***U***-Attribut den fest vorgeschriebenen Wert „Jahre“. Der Wert im ***V***-Attribut
-
-muss >= 35 sein, sofern im ***V***-Attribut des Elements ***document_type_cd***die Werte „EHKS_ND“
+muss >= 35 sein, sofern im *V*-Attribut des Elements *document_type_cd* die Werte „EHKS_ND“
 
 bzw. „EHKS_D“ angegeben werden.
 
@@ -1082,27 +1030,21 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.4 Abschnitt „Verdachtsdiagnose“
 
-###
+In diesem Kapitel wird der Abschnitt „Verdachtsdiagnose“ beschrieben. Im Element *content*
 
-In diesem Kapitel wird der Abschnitt „Verdachtsdiagnose“ beschrieben. Im Element ***content***
-
-wird die Sciphox-SSU ***observation*** verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1
+wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1
 
 dargestellt.
 
-Diese SSU enthält genau ein Element ***sciphox:Beobachtungen***. Das Element ***sci-***
+Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Element *sci-*
 
-***phox:Beobachtungen***enthäl t mehrere Kindelemente ***sciphox:Beobachtung***. Ein Element ***sci-***
+*phox:Beobachtungen* enthält mehrere Kindelemente *sciphox:Beobachtung*. Ein Element *sci-*
 
-***phox:Beobachtung***setzt sich aus jeweils genau einem Kindelement
+*phox:Beobachtung* setzt sich aus jeweils genau einem Kindelement *sciphox:Parameter* und
 
-***sciphox:Parameter*** und
+jeweils einem Kindelement *sciphox:Ergebnistext* zusammen. Für die Kindelemente *sci-*
 
-jeweils einem Kindelement ***sciphox:Ergebnistext***zusammen. Für die Kindelemente
-
-***sci-***
-
-***phox:Parameter*** sind die Werte: „VerdachtsdiagnoseND“, „Malignes Melanom“, „Basalzellkar-
+*phox:Parameter* sind die Werte: „VerdachtsdiagnoseND“, „Malignes Melanom“, „Basalzellkar-
 
 zinom“, „Spinozelluläres Karzinom“, „anderer Hautkrebs“, „sonstiger dermatologisch abklä- rungsbedürftiger Befund“ und „Screening-Teilnehmer wird an einen Dermatologen überwie- sen“ fest vorgegeben. Der Coderahmen sieht wie folgt aus:
 
@@ -1195,50 +1137,62 @@ sciphox:Beobachtung
 
 #### 6.1.4.1 VerdachtsdiagnoseND
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 12 – VerdachtsdiagnoseND**
 
 #### 6.1.4.2 Malignes Melanom
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
-Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der ge-
-
-samte sciphox:Beobachtung-Block.
+Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der g samte sciphox:Beobachtung-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 13 – Malignes Melanom**
 
 #### 6.1.4.3 Basalzellkarzinom
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der ge- samte sciphox:Beobachtung-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 14 – Basalzellkarzinom**
 
-sciphox:Beobachtung ="VerdachtsdiagnoseND"/> </sciphox:Beobachtung> sciphox:Beobachtung ="Malignes Melanom"/> </sciphox:Beobachtung> sciphox:Beobachtung ="Basalzellkarzinom"/> </sciphox:Beobachtung>
+*sciphox:Ergebnistext* im
+
+*sciphox:Ergebnistext* im
+
+*sciphox:Ergebnistext* im
+
+*V*-Attribut entweder „Ja“
+
+*V*-Attribut entweder „Ja“
+
+e-
+
+*V*-Attribut entweder „Ja“
+
+<sciphox:Parameter DN ="VerdachtsdiagnoseND"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Malignes Melanom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
@@ -1252,7 +1206,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 15 – Spinozelluläres Karzinom**
@@ -1267,7 +1221,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="anderer Hautkrebs"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 16 – anderer Hautkrebs**
@@ -1280,7 +1234,7 @@ Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt word
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="sonstiger dermatologisch abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 17 – sonstiger dermatologisch abklärungsbedürftiger Befund**
@@ -1309,38 +1263,30 @@ e-
 
 *V*-Attribut entweder „Ja“
 
-sciphox:Beobachtung ="Spinozelluläres Karzinom"/> </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+<sciphox:Parameter DN ="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="anderer Hautkrebs"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="sonstiger dermatologisch abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
-| <> <sciphox:Parameter DN- <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 #### XML-Code 18 – Screening-Teilnehmer wird an einen Dermatologen überwiesen
 
-="Screening Teilnehmer wird an einen Dermatologen überwiesen"/>
+<sciphox:Parameter DN- ="Screening Teilnehmer wird an einen Dermatologen überwiesen"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
 ### 6.1.5 Abschnitt „Gesundheitsuntersuchung“
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+In diesem Kapitel wird der Abschnitt „Gesundheitsuntersuchung“ beschrieben. Im Element  *content* wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-In diesem Kapitel wird der Abschnitt „Gesundheitsuntersuchung“ beschrieben. Im Element  *content* wird die Sciphox-SSU
+6.1.2.1 dargestellt. Diese SSU enthält genau ein Element
 
-6.1.2.1 dargestellt. Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Ele-
+ment *sciphox:Beobachtungen* enthält genau ein Kindelement
 
-ment *sciphox:Beobachtungen* enthält genau ein Kindelement *sciphox:Beobachtung*. Das Ele-
+ment *sciphox:Beobachtung* enthält genau ein Kindelement
 
-ment *sciphox:Beobachtung* enthält genau ein Kindelement *sciphox:Parameter* und ein Kin-
-
-Für das Kindelement
-
-ist der Wert: „Gleich-
-
-delement *sciphox:Ergebnistext.*
-
-*sciphox:Parameter*
+delement *sciphox:Ergebnistext.* Für das Kindelement
 
 zeitig Gesundheitsuntersuchung durchgeführt“ fest vorgegeben.
 
@@ -1384,42 +1330,50 @@ sciphox:Beobachtung
 
 #### 6.1.5.1 Gleichzeitig Gesundheitsuntersuchung durchgeführt
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext*
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> |
+| <> |
 |---|
 
 **XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt**
 
-sciphox:Beobachtung <sciphox:Parameter DN <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
+*sciphox:Beobachtungen*. Das Ele-
+
+*sciphox:Beobachtung*. Das Ele-
+
+*sciphox:Parameter* und ein Kin-
+
+*sciphox:Parameter* ist der Wert: „Gleich-
+
+im *V*-Attribut entweder „Ja“
+
+sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
 
 ---
 
-# 7 Body – Dokumentation Hautkrebs-Screening – Dermato- loge
+# 7 Body – Dokumentation Hautkrebs-Screening – Dermato-
 
-**body** der XML-Datei werden die eigentlichen Untersuchungs-
+# loge
 
-In diesem Kapitel wird der Aufbau des Bodys der „eDokumentation Hautkrebs-Screening - Dermatologe“ bzw. der „eDokumentation Hautkrebs-Screening –Dermatologe – Ergänzende  Verträge“ erläutert. Im Element  **body** selbst enthält ein Element **section**
+In diesem Kapitel wird der Aufbau des Bodys der „eDokumentation Hautkrebs-Screening - Dermatologe“ bzw. der „eDokumentation Hautkrebs-Screening –Dermatologe – Ergänzende  Verträge“ erläutert. Im Element *body* der XML-Datei werden die eigentlichen Untersuchungs-
 
-daten aufgeführt. Das Element
+daten aufgeführt. Das Element *body* selbst enthält ein Element
 
-**body** ist in Abbildung 5 dargestellt.
-
-Der Aufbau des Elements
+Der Aufbau des Elements *body* ist in Abbildung 5 dargestellt.
 
 **Abbildung 5 - Grundstruktur body**
 
-Der Coderahmen für das **body**-Element sieht wie folgt aus:
+Der Coderahmen für das
 
 <body>
 
 <section>
 
-...
+*body*-Element sieht wie folgt aus: ...
 
 </section>
 
@@ -1429,19 +1383,21 @@ Der Coderahmen für das **body**-Element sieht wie folgt aus:
 
 ## 7.1 Sektion (section)
 
--Element setzt sich aus drei bis sechs **paragraph**Elementen zusammen. Ein **pa-**
+Das *section*-Element setzt sich aus drei bis sechs
 
-Das **section** -Element beinhaltet die Kindelemente **caption**und  **content.**Die Grundstruktur des
+*ragraph*-Element beinhaltet die Kindelemente *caption*
 
-**sec-**
+*tion*-Elements ist in Abbildung 6 dargestellt.
 
-**ragraph** **tion**-Elements ist in Abbildung 6 dargestellt.
+*section*
+
+*paragraph-*Elementen zusammen. Ein *pa-*
+
+und *content.* Die Grundstruktur des *sec-*
 
 **Abbildung 6 - Grundstruktur section (HKS-D bzw. HKS-D-EV)**
 
-Element untergebracht sind.
-
-Die Sektion kann die Abschnitte „ohne Name“, „Überweisung im Rahmen des Hautkrebs- Screenings“, „Angabe der Verdachtsdiagnose des überweisenden Arztes“, „Verdachtsdiagno- se des Dermatologen“, „Biopsie/Exzision“ und „Histopathologie“ enthalten, die jeweils in einem  **paragraph**
+Die Sektion kann die Abschnitte „ohne Name“, „Überweisung im Rahmen des Hautkrebs- Screenings“, „Angabe der Verdachtsdiagnose des überweisenden Arztes“, „Verdachtsdiagno- se des Dermatologen“, „Biopsie/Exzision“ und „Histopathologie“ enthalten, die jeweils in einem  *paragraph* Element untergebracht sind.
 
 
 ---
@@ -1573,225 +1529,186 @@ siehe Kapitel 6.1.2
 
 siehe Kapitel 6.1.3
 
-### -Screenings“
+### 7.1.4 Abschnitt „Überweisung im Rahmen des Hautkrebs-Screenings“
 
-### 7.1.4 Abschnitt „Überweisung im Rahmen des Hautkrebs
+In diesem Kapitel wird der Abschnitt „Überweisung im Rahmen des Hautkrebs-Screenings“  beschrieben. Im Element *content* wird die Sciphox-SSU *observation* verwendet. Der Aufbau
 
-In diesem Kapitel wird der Abschnitt „Überweisung im Rahmen des Hautkrebs -Screenings“
+dieser SSU ist in Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element *sci-*
 
-beschrieben. Im Element *content* wird die Sciphox -SSU *observation* verwendet. Der Aufbau
+*phox:Beobachtungen*. Das Element *sciphox:Beobachtungen* enthält mehrere Kindelemente
 
-dieser SSU ist in Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element
-
-*sci-*
-
-*phox:Beobachtungen*. Das Element *sciphox:Beobachtungen* enthält mehrere Kindelement e
-
-setzt sich aus jeweils genau einem
-
-*sciphox:Beobachtung*. Ein Element *sciphox:Beobachtung*
+*sciphox:Beobachtung*. Ein Element *sciphox:Beobachtung* setzt sich aus jeweils genau einem
 
 Kindelement *sciphox:Parameter* und jeweils einem Kindelement *sciphox:Ergebnistext* zu-
 
-sammen. Für die Kindelemente *sciphox:Parameter* sind die Wert e: „Patient kommt auf Über-
+sammen. Für die Kindelemente *sciphox:Parameter* sind die Werte: „Patient kommt auf Über-
 
-weisung im Rahmen des Hautkrebs -Screenings“ und „Überweisender Arzt hat HKS durchge-
+weisung im Rahmen des Hautkrebs-Screenings“ und „Überweisender Arzt hat HKS durchge- führt“ fest vorgegeben. Der Coderahmen sieht wie folgt aus:
 
-führt“ fest vorgegeben. Der Coderahmen sieht wie folgt aus:
+<paragraph>
 
-<paragraph
+<caption>
 
-<caption
+caption_cd DN="Überweisung im Rahmen des Hautkrebs-Screenings"/>
 
-caption_cd DN=" Überweisung im Rahmen des Hautkrebs- Screenings"/>
+</caption>
 
-</ caption>
+<content>
 
-<content
+local_markupignore="all" descriptor="sciphox">
 
-local_markup ignore=" all " descriptor =" sciphox
-
-v1">
-
-<sciphox:sciphox -ssu type =" observation" country =" de" version="
+<sciphox:sciphox-ssu type="observation" country="de" version="v1">
 
 sciphox:Beobachtungen
 
-sciphox:Beobachtung -Screenings "/>
+sciphox:Beobachtung
 
-<sciphox:Parameter DN=" Patient kommt auf Überweisung im Rahmen des Hautkrebs . . .
+<sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/>
 
-</ sciphox:Beobachtung>
+. . .
+
+</sciphox:Beobachtung>
 
 sciphox:Beobachtung
 
-"/>
+<sciphox:Parameter DN="Überweisender Arzt hat HKS durchgeführt"/>
 
-<sciphox:Parameter DN=" Überweisender Arzt hat HKS durchgeführt . . .
+. . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
-</ sciphox:Beobachtungen
+</sciphox:Beobachtungen>
 
-</ sciphox:sciphox -ssu>
+</sciphox:sciphox-ssu>
 
-</ local_markup
+</local_markup>
 
-</ content >
+</content>
 
-</ paragraph>
+</paragraph>
 
-XML-Code 23 – Überweisung im Rahmen des Hautkrebs -Screenings
+**XML-Code 23 – Überweisung im Rahmen des Hautkrebs-Screenings**
 
-#### Screenings
+#### 7.1.4.1 Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings
 
-#### 7.1.4.1 Patient kommt auf Überweisung im Rahmen des Hautkrebs-
-
-Bei diesem Parameter enthält das Element
-
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
 oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> Screenings"/> |
+| <> |
 |---|
 
-XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs Screenings -Screening (eHKS)
+**XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings**
 
-sciphox:Beobachtung <sciphox:Parameter  DN=" Patient kommt auf Überweisung im Rahmen des Hautkrebs- <sciphox:Ergebnistext  V =" Nein "/> </ sciphox:Beobachtung>
+sciphox:Beobachtung <sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
 
 ---
-
--Screening (eHKS)
 
 #### 7.1.4.2 Überweisender Arzt hat HKS durchgeführt
 
 Bei diesem Parameter enthält das Element
 
-***sciphox:Ergebnistext***
-
 oder „Nein“.
 
-Als Beispiel sei h ier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
 
-| <> "/>  </ sciphox:Beobachtung> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
-XML-Code 25 – Überweisender Arzt hat HKS durchgeführt
+**XML-Code 25 – Überweisender Arzt hat HKS durchgeführt**
 
-### 7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden  Arztes“
+### 7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden
 
-In diesem Kapitel wird der Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Ar tes“ beschrieben. Im Element ***content*** wird die Sciphox -SSU
+### Arztes“
 
-bau dieser SSU ist in Kapitel 6.1.2.1
+In diesem Kapitel wird der Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arz- tes“ beschrieben. Im Element *content*
 
-dargestellt. Diese SSU enthält genau ein Element
+bau dieser SSU ist in Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element  *phox:Beobachtungen*. Das Element
 
-***phox:Beobachtungen***. Das Element ***sciphox:Beobachtungen***
+*sciphox:Beobachtung*. Ein Element *sciphox:Beobachtung*
 
-***sciphox:Beobachtung***. Ein Element ***sciphox:Beobachtung***
+delement *sciphox:Parameter* und einem Kindelement
 
-delement ***sciphox:Parameter*** und einem Kindelement ***sciphox:Ergebnistext***
+die Kindelemente *sciphox:Parameter*
 
-die Kindelemente ***sciphox :Parameter*** sind die Werte „Angabe über die Verdachtsdiagnose
+liegt vor“, „Malignes Melanom“, „Basalzellkarzinom“, „Spinozelluläres Karzinom“ und „anderer  Hautkrebs“ fest vorgegeben.
 
-liegt vor“, „Malignes Melanom“, „Basalzellkarzinom“
-
-, „Spinozelluläres Karzinom“
-
-Hautkrebs“ fest vorgegeben.
-
-Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeor ***graph***-Block.
+Wenn keine Angabe in diesem Abschnitt gemacht wurde, entfällt der übergeordnete  *graph*-Block.
 
 Der Coderahmen sieht wie folgt aus:
 
-<paragraph
+<paragraph>
 
-<caption
+<caption>
 
-caption_cd DN=" Angabe der Verdachtsdiagnose des überweisenden Arztes"/>
+caption_cd DN="Angabe der Verdachtsdiagnose des überweisenden Arztes"/>
 
-</ caption>
+</caption>
 
-<content
+*sciphox:Ergebnistext* im
 
-local_markup ignore=" all " descriptor
+*V*-Attribut entweder „Ja“
 
-<sciphox:sciphox -ssu type =" observation"
+wird die Sciphox-SSU *observation* verwendet. Der Auf- *sci-*
+
+*sciphox:Beobachtungen* enthält mehrere Kindelemente  setzt sich aus genau einem Kin- *sciphox:Ergebnistext* zusammen. Für
+
+sind die Werte „Angabe über die Verdachtsdiagnose
+
+*para-*
+
+<content>
+
+local_markupignore="all" descriptor="sciphox">
+
+<sciphox:sciphox-ssu type="observation" country="de" version="v1">
 
 sciphox:Beobachtungen
 
 sciphox:Beobachtung
 
-<sciphox:Parameter . . .
-
-</ sciphox:Beobachtung>
-
-sciphox:Beobachtung
-
-<sciphox:Parameter . . .
-
-</ sciphox:Beobachtung>
-
-sciphox:Beobachtung
-
-<sciphox:Parameter . . .
-
-=" sciphox
-
-country =" de" version=" v1">
-
-DN=" Angabe über die Verdachtsdiagnose liegt vor
-
-DN=" Malignes Melanom "/>
-
-DN=" Basalzellkarzinom "/>
-
-</ sciphox:Beobachtung>
-
-sciphox:Beobachtung
-
-<sciphox:Parameter DN=" Spinozelluläres Karzinom "/>
+<sciphox:Parameter DN="Angabe über die Verdachtsdiagnose liegt vor"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN=" anderer Hautkrebs"/>
+<sciphox:Parameter DN="Malignes Melanom"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
-im  ***V***
+sciphox:Beobachtung
 
-***observation***
+<sciphox:Parameter DN="Basalzellkarzinom"/>
 
-enthält
+. . .
 
-mehrere
+</sciphox:Beobachtung>
 
-setzt sich aus genau einem Ki -Attribut entweder „Ja“
+sciphox:Beobachtung
 
-verwendet. Der Auf- ***sci-*** Kindelemente
+<sciphox:Parameter DN="Spinozelluläres Karzinom"/>
 
-zusammen. Für
+. . .
 
-und „anderer
+</sciphox:Beobachtung>
 
-z-
+sciphox:Beobachtung
 
-n-
+<sciphox:Parameter DN="anderer Hautkrebs"/>
 
-dnete ***para-***
+. . .
 
-"/>
+</sciphox:Beobachtung>
 
-<sciphox:Parameter  DN=" Überweisender Arzt hat HKS durchgeführt <sciphox:Ergebnistext  V =" Nein "/>
+<sciphox:Parameter DN="Überweisender Arzt hat HKS durchgeführt"/> <sciphox:Ergebnistext V="Nein"/>
+
 
 ---
 
@@ -1809,17 +1726,13 @@ dnete ***para-***
 
 #### 7.1.5.1 Angabe über die Verdachtsdiagnose liegt vor
 
-*sciphox:Ergebnistext V*-Attribut entweder „Ja“
-
-Bei diesem Parameter enthält das Element
-
-im
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
 oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Angabe über die Verdachtsdiagnose liegt vor"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 27 – Angabe über die Verdachtsdiagnose liegt vor**
@@ -1846,12 +1759,13 @@ Struktur siehe Kapitel 6.1.4.4.
 
 Sofern der Wert „Ja“ zu Parameter „Angabe über die Verdachtsdiagnose liegt vor“ angegeben  wird, muss dieser Beobachtungsblock vorhanden sein. Sofern der Wert „Nein“ zu Parameter
 
+<sciphox:Parameter DN="Angabe über die Verdachtsdiagnose liegt vor"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
-h-
+### „Angabe über die Verdachtsdiagnose liegt vor“ angegeben wird, entfällt dieser Beobach-
 
-### „Angabe über die Verdachtsdiagnose liegt vor“ angegeben wird, entfällt dieser Beobac tungsblock komplett.
+### tungsblock komplett.
 
 ### Struktur siehe Kapitel 6.1.4.5.
 
@@ -1860,11 +1774,7 @@ h-
 
 ### 7.1.6 Abschnitt „Verdachtsdiagnose des Dermatologen“
 
-###
-
-In diesem Kapitel wird der Abschnitt „Verdachtsdiagnose des Dermatologen“ beschrieben. Im  *observation* verwendet. Der Aufbau dieser SSU ist in
-
-Element *content* wird die Sciphox-SSU
+In diesem Kapitel wird der Abschnitt „Verdachtsdiagnose des Dermatologen“ beschrieben. Im  Element *content* wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in
 
 Kapitel 6.1.2.1 dargestellt. Diese SSU enthält genau ein Element *sciphox:Beobachtungen*
 
@@ -1872,11 +1782,9 @@ Das Element *sciphox:Beobachtungen* enthält mehrere Kindelemente *sciphox:Beoba
 
 Ein Element *sciphox:Beobachtung* setzt sich aus jeweils genau einem Kindelement *sci-*
 
-*sciphox:Ergebnistext* zusammen. Für die
+*phox:Parameter* und jeweils einem Kindelement *sciphox:Ergebnistext* zusammen. Für die
 
-*phox:Parameter* und jeweils einem Kindelement  sind die Werte: „Verdachtsdiagnose“ „Malignes Melanom“,
-
-Kindelemente *sciphox:Parameter*
+Kindelemente *sciphox:Parameter* sind die Werte: „Verdachtsdiagnose“ „Malignes Melanom“,
 
 „Basalzellkarzinom“, „Spinozelluläres Karzinom“, „anderer Hautkrebs“ und „sonstiger mit Biop- sie abklärungsbedürftiger Befund“ fest vorgegeben. Der Coderahmen sieht wie folgt aus:
 
@@ -1967,8 +1875,6 @@ Struktur siehe Kapitel 6.1.4.3.
 
 ---
 
--Screening (eHKS)
-
 #### 7.1.6.3 Spinozelluläres Karzinom
 
 Struktur siehe Kapitel 6.1.4.4.
@@ -1979,110 +1885,92 @@ Struktur siehe Kapitel 6.1.4.5.
 
 #### 7.1.6.5 sonstiger mit Biopsie abklärungsbedürftiger Befund
 
-Bei diesem Parameter enthält das Element
-
-***sciphox:Ergebnistext***
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
 oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> abklärungsbedürftiger Befund"/>  </ sciphox:Beobachtung> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
-XML-Code 29 – sonstiger mit Biopsie abklärungsbedürftiger Befund
+**XML-Code 29 – sonstiger mit Biopsie abklärungsbedürftiger Befund**
 
 ### 7.1.7 Abschnitt „Biopsie/Exzision“
 
-###
+In diesem Kapitel wird der Abschnitt „Biopsie/Exzision“ beschrieben. Im Element *content* wird
 
-In diesem Kapitel wird der Abschnitt „Biopsie/Exzision“ beschrieben. Im Element  die Sciphox -SSU ***observation*** verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1
+die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1 darge-
 
-stellt. Diese SSU enthält genau ein Element
+stellt. Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Element *sci-*
 
-***phox:Beobachtungen***enthält  bis zu 4 Kindelemente
+*phox:Beobachtungen* enthält bis zu 4 Kindelemente *sciphox:Beobachtung*. Ein Element *sci-*
 
-***phox:Beobachtung***setzt sich aus genau einem Kindelement
+*phox:Beobachtung* setzt sich aus genau einem Kindelement *sciphox:Parameter* und einem
 
-Kindelement ***sciphox:Ergebnistext***bzw. *** sciphox:Ergebniswert***
+Kindelement *sciphox:Ergebnistext* bzw.* sciphox:Ergebniswert* zusammen.
 
 Der Coderahmen sieht wie folgt aus:
 
-<paragraph
+<paragraph>
 
-<caption
+<caption>
 
-caption_cd DN=" Biopsie/Exzision"/>
+caption_cd DN="Biopsie/Exzision"/>
 
-</ caption>
+</caption>
 
-<content
+<content>
 
-local_markup ignore=" all " descriptor =" sciphox
+local_markupignore="all" descriptor="sciphox">
 
-<sciphox:sciphox -ssu type =" observation" country =" de" version="
+<sciphox:sciphox-ssu type="observation" country="de" version="v1">
 
 sciphox:Beobachtungen
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN=" Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchge-
+<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchge-
 
 führt"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN=" Anzahl der entnommenen Biopsien/Exzisionen"/>
+<sciphox:Parameter DN="Anzahl der entnommenen Biopsien/Exzisionen"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN=" anderweitige Therapie oder Diagnostik vorgenommen bzw. eingele
+<sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingelei-
 
 tet"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN=" derzeit keine weitere Therapie/Diagnostik"/>
+<sciphox:Parameter DN="derzeit keine weitere Therapie/Diagnostik"/>
 
 . . .
 
-</ sciphox:Beobachtung>
+</sciphox:Beobachtung>
 
-</ sciphox:Beobachtungen
+</sciphox:Beobachtungen>
 
-</ sciphox:sciphox -ssu>
+</sciphox:sciphox-ssu>
 
-</ local_markup
+</local_markup>
 
-im  ***V***-Attribut entweder „Ja“
-
-***sciphox:Beobachtungen*** ***sciphox:Beobachtung*** ***sciphox:Parameter*** zusammen.
-
-v1">
-
-***content*** wird  darge-
-
-. Das Element ***sci-***
-
-. Ein Element ***sci-***
-
-und einem
-
-i-
-
-<sciphox:Parameter  DN=" sonstiger mit Biopsie <sciphox:Ergebnistext  V =" Nein "/>
+<sciphox:Parameter DN="sonstiger mit Biopsie abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
@@ -2098,7 +1986,7 @@ Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 31 – Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt**
@@ -2109,7 +1997,7 @@ Bei diesem Parameter enthält das Element  entnommenen Biopsien oder Exzisionen.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 32 – Anzahl der entnommenen Biopsien/Exzisionen**
@@ -2120,7 +2008,7 @@ Bei diesem Parameter enthält das Element  oder „Nein“. Wird keine Angabe ge
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 33 – anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet**
@@ -2147,7 +2035,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut entweder „Ja“
 
-sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet <sciphox:Ergebnistext V="Nein"/> "/>
 
 ---
 
@@ -2158,25 +2046,23 @@ sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobach
 
 ### 7.1.8 Abschnitt „Histopathologie“
 
-In diesem Kapitel wird der Abschnitt „Histopathologie“ beschrieben. Im Element **content** wird
+In diesem Kapitel wird der Abschnitt „Histopathologie“ beschrieben. Im Element *content* wird
 
-die Sciphox-SSU **observation** verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1 darge- **sciphox:Beobachtungen**. Das Element **sci-**
+die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.2.1 darge-
 
-stellt. Diese SSU enthält genau ein Element  **phox:Beobachtungen**enth ält mehrere Kindelemente **sciphox:Beobachtung**. Ein Element **sci-**
+stellt. Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Element *sci-*
 
-**phox:Beobachtung**enthält genau ein Kindel
+*phox:Beobachtungen* enthält mehrere Kindelemente *sciphox:Beobachtung*. Ein Element *sci-*
 
-ement **sciphox:Parameter** und ein Kindelement
+*phox:Beobachtung* enthält genau ein Kindelement *sciphox:Parameter* und ein Kindelement
 
-**sciphox:Ergebnistext**und ggf. zusätzlich ein Kindelement
+*sciphox:Ergebnistext* und ggf. zusätzlich ein Kindelement *sciphox:Beobachtungen*
 
-**sciphox:Beobachtungen**
-
-Für die Kindelemente **sciphox:Parameter** sind die Werte „Malignes Melanom“, „Basalzellkarzi-
+Für die Kindelemente *sciphox:Parameter* sind die Werte „Malignes Melanom“, „Basalzellkarzi-
 
 nom“, „Spinozelluläres Karzinom“, „anderer Hautkrebs“, „atypischer Nävuszellnävus“, „junktio- naler, compound, dermaler atypischer Nävuszellnävus“, „Aktinische Keratose“ und „Andere  hier nicht relevante Hautveränderung“ fest vorgegeben.
 
-Wenn keine Angabe in diesem Abschnitt gemacht wurde bzw. der Parameter „Biopsie zu Ver- dachtsdiagnose entnommen oder Exzision durchgeführt“ den Wert „Nein“ enthält, entfällt der  übergeordnete **paragraph**-Block.
+Wenn keine Angabe in diesem Abschnitt gemacht wurde bzw. der Parameter „Biopsie zu Ver- dachtsdiagnose entnommen oder Exzision durchgeführt“ den Wert „Nein“ enthält, entfällt der  übergeordnete *paragraph*-Block.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -2282,32 +2168,32 @@ Bei diesem Parameter enthält das Element
 
 oder „Nein“.
 
-Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element sciphox:Beobachtungen
+Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element *sciphox:Beobachtungen*
 
-ximal zwei Kindelemente sciphox:Beobachtung.
+ximal zwei Kindelemente *sciphox:Beobachtung.*
 
-genau ein Kindelement sciphox:Parameter und ein Kindelement
+genau ein Kindelement *sciphox:Parameter* und ein Kindelement
 
-Kindelemente sciphox:Parameter sind die Werte “Klassifikation“ und „Tumordicke (Breslow)“
+Kindelemente *sciphox:Parameter* sind die Werte “Klassifikation“ und „Tumordicke (Breslow)“
 
 fest vorgegeben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-sciphox:Ergebnistext
+*sciphox:Ergebnistext*
 
 innerhalb des Blocks enthält minimal ein, ma-
 
 | <>             </sciphox:Beobachtung> |
 |---|
 
-im  V-Attribut entweder „Ja“
+im *V*-Attribut entweder „Ja“
 
-sciphox:Beobachtungen angegeben
+*sciphox:Beobachtungen* angegeben
 
-Ein Element sciphox:Beobachtung enthält
+Ein Element *sciphox:Beobachtung* enthält
 
-sciphox:Ergebnistext. Für die
+*sciphox:Ergebnistext*. Für die
 
 **XML-Code 36 – Malignes Melanom**
 
@@ -2317,23 +2203,21 @@ Bei diesem Parameter enthält das Element  lanoma in situ“ oder „Invasives M
 
 Als Beispiel sei hier folgender Code angegeben:
 
-sciphox:Ergebnistextim  V-Attribut entweder „M e-
+*sciphox:Ergebnistext* im *V*-Attribut entweder „Me-
 
 <sciphox:Parameter DN="Malignes Melanom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> </sciphox:Beobachtungen>
 
 
 ---
 
-| <> <sciphox:Parameter DN"/> <sciphox:Ergebnistext V="Melanoma in situ"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 37 – Klassifikation**
 
-##### Tumordicke (Breslow)
+##### 7.1.8.1.2 Tumordicke (Breslow)
 
-##### 7.1.8.1.2
-
-Bei diesem Parameter enthält das Element **sciphox:Ergebnistext**im **V** -e-Attribut einen Wert g
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-e-Attribut einen Wert g
 
 mäß Tabelle 4.
 
@@ -2341,12 +2225,12 @@ Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsbloc
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Tumordicke (Breslow)"/> <sciphox:Ergebnistext V="1,01-2 mm"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 38 – Tumordicke (Breslow)**
 
-sciphox:Beobachtung ="Klassifikation </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Melanoma in situ"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> <sciphox:Ergebnistext V="1,01-2 mm"/>
 
 ---
 
@@ -2361,55 +2245,59 @@ sciphox:Beobachtung ="Klassifikation </sciphox:Beobachtung> sciphox:Beobachtung 
 
 #### 7.1.8.2 Basalzellkarzinom
 
-sciphox:Ergebnistextim  V-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext*
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
-sciphox:Beobachtungen angegeben
+Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element *sciphox:Beobachtungen*
 
-Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element sciphox:Beobachtungen innerhalb des Blocks enthält minimal ein, ma-
+ximal zwei Kindelemente *sciphox:Beobachtung.*
 
-ximal zwei Kindelemente sciphox:Beobachtung. Ein Element sciphox:Beobachtung enthält
+genau ein Kindelement *sciphox:Parameter* und ein Kindelement
 
-genau ein Kindelement sciphox:Parameter und ein Kindelement sciphox:Ergebniswert. Für die
-
-Kindelemente sciphox:Parameter sind die Werte “horizontaler Tumordurchmesser (klinisch)“
+Kindelemente *sciphox:Parameter* sind die Werte “horizontaler Tumordurchmesser (klinisch)“
 
 und „vertikaler Tumordurchmesser (histologisch)“ fest vorgegeben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>  <sciphox:Ergebnistext V="Ja"/> <>         </sciphox:Beobachtungen> |
+| <>             </sciphox:Beobachtung> |
 |---|
+
+im *V*-Attribut entweder „Ja“
+
+*sciphox:Beobachtungen* angegeben
+
+innerhalb des Blocks enthält minimal ein, ma- Ein Element *sciphox:Beobachtung* enthält
+
+*sciphox:Ergebniswert*. Für die
 
 **XML-Code 39 – Basalzellkarzinom**
 
-##### horizontaler Tumordurchmesser (klinisch)
+##### 7.1.8.2.1 horizontaler Tumordurchmesser (klinisch)
 
-##### 7.1.8.2.1
+Bei diesem Parameter enthält das Element *sciphox:Ergebniswert*
 
-Bei diesem Parameter enthält das Element sciphox:Ergebniswert im V- Attribut den „horizonta-
-
-len Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im U -Attribut
-
-den fest vorgeschriebenen Wert „mm“.
+len Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im  den fest vorgeschriebenen Wert „mm“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 40 – horizontaler Tumordurchmesser (klinisch)**
 
-<sciphox:Parameter DN="Basalzellkarzinom"/> <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> </sciphox:Beobachtung> </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+im *V*-Attribut den „horizonta-
+
+*U*-Attribut
+
+<sciphox:Parameter DN="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> </sciphox:Beobachtungen> <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/>
 
 ---
 
 ##### 7.1.8.2.2 vertikaler Tumordurchmesser (histologisch)
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebniswert*
-
-Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im  fest vorgeschriebenen Wert „mm“.
+Bei diesem Parameter enthält das Element  Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im  fest vorgeschriebenen Wert „mm“.
 
 Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-
 
@@ -2417,8 +2305,10 @@ plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
+
+*sciphox:Ergebniswert*
 
 **XML-Code 41 – vertikaler Tumordurchmesser (histologisch)**
 
@@ -2440,58 +2330,62 @@ ben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <>  <sciphox:Ergebnistext V="Ja"/> <>         </sciphox:Beobachtungen> |
+| <>             </sciphox:Beobachtung> |
 |---|
 
+*sciphox:Beobachtungen*
+
 innerhalb des Blocks enthält minimal ein, ma- Ein Element
-
-im *V*-Attribut den „vertikalen  *U*-Attribut den
-
-im *V*-Attribut entweder „Ja“
-
-*sciphox:Beobachtungen* angegeben
-
-*sciphox:Beobachtung* enthält
-
-*sciphox:Ergebniswert*. Für die
 
 **XML-Code 42 – Spinozelluläres Karzinom**
 
 ##### 7.1.8.3.1 Klassifikation
 
-Bei diesem Parameter enthält das Element  zinoma in situ“ oder „Invasives Karzinom“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext*
+
+zinoma in situ“ oder „Invasives Karzinom“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-*sciphox:Ergebnistext* im
+im *V*-Attribut den „vertikalen  *U*-Attribut den
 
-*V*-Attribut entweder „Kar-
+im *V*-Attribut entweder „Ja“
 
-sciphox:Beobachtung </sciphox:Beobachtung> <sciphox:Parameter DN="Spinozelluläres Karzinom"/> <sciphox:Parameter DN="Klassifikation"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Grading“/> </sciphox:Beobachtung> </sciphox:Beobachtung>
+angegeben
+
+*sciphox:Beobachtung* enthält
+
+*sciphox:Ergebniswert*. Für die
+
+im *V*-Attribut entweder „Kar-
+
+<sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> <sciphox:Parameter DN="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Grading“/> </sciphox:Beobachtungen>
 
 ---
 
-| <> <sciphox:Parameter DN"/> <sciphox:Ergebnistext V="Karzinoma in situ"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 43 – Klassifikation**
 
-##### Grading
+##### 7.1.8.3.2 Grading
 
-##### 7.1.8.3.2
-
-Bei diesem Parameter enthält das Element **sciphox:Ergebnistext**im **V** -e-Attribut einen Wert g
+Bei diesem Parameter enthält das Element
 
 mäß Tabelle 5.
 
-Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom- plett.
+Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-
+
+plett.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 44 – Grading**
+
+*sciphox:Ergebnistext* im *V*
 
 | Wert bei Ergebnistext |
 |---|
@@ -2509,61 +2403,63 @@ Struktur siehe Abschnitt 6.1.4.5.
 
 #### 7.1.8.5 Atypischer Nävuszellnävus
 
-**sciphox:Ergebnistext**im **V** -Attribut entweder „Ja“
-
 Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 45 – atypischer Nävuszellnävus**
 
-sciphox:Beobachtung ="Klassifikation </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+*sciphox:Ergebnistext* im -e-Attribut einen Wert g
+
+*V*-Attribut entweder „Ja“
+
+<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Karzinoma in situ"/> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
 #### 7.1.8.6 junktionaler, compound, dermaler atypischer Nävuszellnävus
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus**
 
 #### 7.1.8.7 Aktinische Keratose
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Aktinische Keratose"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 47 – Aktinische Keratose**
 
 #### 7.1.8.8 Andere hier nicht relevante Hautveränderung
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-| <> <sciphox:Parameter DN="Andere hier nicht relevante Hautveränderung"/> <sciphox:Ergebnistext V="Nein"/> |
+| <>   </sciphox:Beobachtung> |
 |---|
 
 **XML-Code 48 – Andere hier nicht relevante Hautveränderung**
 
-sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung> sciphox:Beobachtung </sciphox:Beobachtung>
+<sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Aktinische Keratose"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Andere hier nicht relevante Hautveränderung"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 

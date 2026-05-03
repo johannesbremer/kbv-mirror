@@ -194,11 +194,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-korrektur 5.31
+5.31 korrektur
 
 32
 
-regel 5.32
+5.32 regel
 
 33
 
@@ -439,9 +439,11 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
+Entspricht dem Header-Element *<document_type_cd>*
 
-vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
+
+vv.vv .........  Entspricht dem Element  VersionsNr. der Datentypbeschreibung;  *<version>* des Header-Elements *<interface>*
 
 sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten  identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements
 
@@ -449,7 +451,9 @@ sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstliefera
 
 tf+..………… timeframe (YYYYqQ)
 
-nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen  erfolgen
+erfolgen
+
+nr+ ............ number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere Lieferungen
 
 du+ ............ dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet werden
 
@@ -603,26 +607,22 @@ Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id -Element eine ein
 
 ***<version_nbr>*** Beinhaltet die jeweilige Lieferungsnummer; relevant bei Korrekturlieferung o.ä.
 
-***<document_type_cd>***
+***<document_type_cd>***  Gibt die Dokumentenart an; hier: krw oder KRW.
 
 ***<service_tmr>*** Definiert den Gültigkeitszeitraum der Stammdatei im Format JJJJ-MM-TT..JJJJ-MM-TT.
 
-***<origination_dttm>***
+***<origination_dttm>***  Gibt das Erstellungsdatum der Stammdatei an.
 
 ***<provider>*** Anbieter der Stammdatei (stets KBV).
 
 ***<interface>*** Enthält Informationen zur Schnittstelle, insbesondere Name und Versionsangabe.
-
-Gibt die Dokumentenart an; hier: krw oder KRW.
-
-Gibt das Erstellungsdatum der Stammdatei an.
 
 
 ---
 
 # 5 BODY (INHALTSDATEN)
 
-Das **< body>** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von
+Das ***<body>*** Element beinhaltet alle KRW Stammdaten in einer strukturierten Hierarchie von
 
 Kindelementen. Die Hierarchieebenen der Kodierregeln gliedern sich in Bedingungen und Prüfungen.
 
@@ -630,31 +630,27 @@ Der Namensraum ist „urn:ehd/krw/001“.
 
 ## 5.1 KODIERREGEL_LISTE
 
-##
-
 Das Element <kodierregel_liste > ist ein Klammerelement für eine Liste von <kodierregel> Elementen.
 
-***Abbildung 3*** kodierregel_liste
+**Abbildung 3:** kodierregel_liste
 
 Der XML-Code für das Element <kodierregel_liste> hat folgenden Aufbau:
 
-< kodierregel_liste
+**<kodierregel_liste>**
 
-< kodierregel
+**<kodierregel>**
 
-</kodierregel
+**</kodierregel>**
 
-< kodierregel
+**<kodierregel>**
 
-</kodierregel
+**</kodierregel>**
 
-</kodierregel_liste
+**</kodierregel_liste>**
 
-***XML - Code 2*** kodierregel_liste
+**XML-Code 2:** kodierregel_liste
 
 ## 5.2 KODIERREGEL
-
-##
 
 Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei enthält es Informationen  zur Identifikation der Regel, zur fachlichen Beschreibung, Einordnung des fachlichen Ursprungs sowie den  zu prüfenden Sachverhalt und die möglichen Korrekturschritte.
 
@@ -674,11 +670,9 @@ Der XML-Code für das Element <kodierregel> hat folgenden Aufbau:
 
 **<service_tmr V="2010-01-01..9999-12-31"/>**
 
-**<beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **, da die ICD-10 einen n**
+**<beschreibung V="Die Regel prüft das Verwenden eines Kodes für einen Akuten Myokardinfarkt mit**  **dem Kustand nach"ennzeichen "Z**
 
-**dem Kustand nach"ennzeichen "Z**
-
-**spezifische Kode für den Folgezustand (alter**
+**, da die ICD-10 einen nspezifische Kode für den Folgezustand (alter**
 
 **Myokardinfarkt) vorsieht."/>**
 
@@ -690,9 +684,7 @@ Der XML-Code für das Element <kodierregel> hat folgenden Aufbau:
 
 **<regelanwendung V="1" DN=""Obligate Regel** **S=""1.2.276.0.76.3.1.1.5.2.52 />**
 
-**Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18**
-
-**<bezugsraum V="7" DN=""**
+**<bezugsraum V="7" DN="" Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18**
 
 **<echtzeitpruefung_liste>**
 
@@ -796,9 +788,9 @@ Der XML-Code für das Element <regelkategorie> hat folgenden Aufbau:
 
 **XML-Code 7:** regelkategorie
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 |---|---|---|
-| 1 | Behandlungsfall-bezogen, ICD | bezieht sich auf das aktuelle Quartal und |
+| 1 | Behandlungsfall-bezogen, ICD | wird durch einen ICD-Kode ausgelöst |
 | 3 | quartalsübergreifend, ICD getriggert | bezieht sich auf einen zurückliegenden |
 
 **Tabelle 4:** Zulässige Werte für das Element regelkategorie
@@ -827,7 +819,7 @@ Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die
 
 **1.2.276.0.76.3.1.1.5.2.51 >**
 
-(S="" 1.2.276.0.76.3.1.1.5.2.50 ) wird durch einen ICD-Kode ausgelöst Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst
+Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst
 
 ---
 
@@ -845,10 +837,10 @@ Der XML-<Code für das Element regelquelle> hat folgenden Aufbau:
 
 **XML-Code 9:** regelquelle
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 |---|---|---|
 | 1 | Kodiervorgaben nach § 295 SGB V | Grundlage für die Regel ist der Beschluss der |
-| 2 | ICD-10-GM | Grundlage für die Regel sind die |
+| 2 | ICD-10-GM | Kodieranweisungen der ICD-10-GM |
 
 **Tabelle 5:** Zulässige Werte für das Element regelquelle
 
@@ -876,34 +868,34 @@ Der XML-Code für das Strukturelement <regelthema_liste> hat folgenden Aufbau:
 
 **XML-Code 10:** regelthema_liste
 
-(S="" 1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 295 Abs. 4 SGB V) Kodieranweisungen der ICD-10-GM
+Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 295 Abs. 4 SGB V) Grundlage für die Regel sind die
 
 ---
 
 | Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
-|  | Abbildung 12: | IX: Krankheiten des Kreislaufsystems S="" |
-|  | Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) | Das DN-Attribut enthält den Bezeichner. |
+| 5.10 | Abbildung 12: | <regelthema V="28" DN="" |
+|  | zu entnehmen sind. | DN: |
 | S: |  | 5.11 |
 
-REGELTHEMA 5.10 Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.   regelthema Der XML-Code für das Element <regelthema> hat folgenden Aufbau: <regelthema V="28" DN="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11:  regelthema V: zu entnehmen sind. DN: Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann.  regelanwendung Abbildung 13: Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: 1.2.276.0.76.3.1.1.5.2.52 /> <regelanwendung V="1" DN="Obligate Regel"  regelanwendung XML-Code 12: 1.2.276.0.76.3.1.1.5.2.52 ) (S=""
+REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.  Der XML-Code für das Element <regelthema> hat folgenden Aufbau: IX: Krankheiten des Kreislaufsystems S="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11: V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) Das DN-Attribut enthält den Bezeichner. Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann. Abbildung 13:  regelanwendung Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: <regelanwendung V="1" DN="Obligate Regel" S="" 1.2.276.0.76.3.1.1.5.2.52 /> XML-Code 12:  regelanwendung (S="" 1.2.276.0.76.3.1.1.5.2.52 )
 
 ---
 
-|  | XML-Code 13: |  |
+|  | XML-Code 13: | Wert (V"...") |
 |---|---|---|
-|  | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 | 1 | Obligate Regel | Bedingung, dass die Kodierregel |
 | 2 | Fakultative Regel | Bedingung, dass die Kodierregel freiwillig |
 
-|  | Bezeichner ( DN="...") | Fachliche Bedeutung; OID ( |
+| Wert (V"...") | Bezeichner ( DN="...") | 1.2.276.0.76.3.1.1.5.2.18 ) |
 |---|---|---|
 | 7 | Behandlungsfall | (Kode analog EBM, Definition laut §21 BMV-Ä) |
 | 21 | Quartal | nur für quartalsübergreifende Prüfung, die Anzahl |
-|  | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+| Wert (V="...") | Bezeichner ( DN="...") | (S="" |
 | 1 | | |
 
-Wert (V="...") Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum Wert (V"...") S=""/> 1.2.276.0.76.3.1.1.5.2.18 (S="" 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID ( S="" 1.2.276.0.76.3.1.1.5.2.18 )
+Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 Fachliche Bedeutung; OID 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID (
 
 ---
 
@@ -911,12 +903,12 @@ Wert (V="...") Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12
 |---|---|---|
 |  |  |  |
 |  |  |  |
-|  | Bezeichner ( DN="...") | Fachliche Bedeutung; OID ( |
+| Wert (V"...") | Bezeichner ( DN="...") | S="" |
 | der retrospektiv zu prüfenden Quartale wird mit | | |
 
 **XML-Code 15:** echtzeitpruefung_liste
 
-Wert (V"...") Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. 1.2.276.0.76.3.1.1.5.2.18 > Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" echtzeitpruefung_liste S="" 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt 1.2.276.0.76.3.1.1.5.2.54 />
+Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. 1.2.276.0.76.3.1.1.5.2.18 > Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt 1.2.276.0.76.3.1.1.5.2.54 />
 
 ---
 
@@ -1027,17 +1019,13 @@ Innerhalb einer Bedingung kann genau nur ein Parametertyp definiert werden. Werd
 
 ---
 
-parameter
-
-**Abbildung 21:**
+**Abbildung 21:** parameter
 
 Der XML-Code für das Element <parameter> hat folgenden Aufbau:
 
 **<parameter V="ICD" S=""1.2.276.0.76.3.1.1.5.2.16 DN="ICD-Diagnose"/>**
 
-parameter
-
-**XML-Code 20:**
+**XML-Code 20:** parameter
 
 | Wert (V="...") | Bezeichner (optional DN="...") | OID (S="" Fachliche Bezug: Feldkennung(en) |
 |---|---|---|
@@ -1047,9 +1035,7 @@ parameter
 
 **Tabelle 10:** Schlüsseltabelle für den Paramtertyp [2]
 
-## OPERATOR
-
-## 5.20
+## 5.20 OPERATOR
 
 Das optionale Element <operator> beschreibt den logischen Operator zur Verknüpfung der Elemente  unterhalb des Elements <value_liste>.
 
@@ -1059,18 +1045,16 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 **<operator V="AND"/>**
 
-operator
-
-**XML-Code 21:**
+**XML-Code 21:** operator
 
 1.2.276.0.76.3.1.1.5.2.16 ) KVDT
 
 ---
 
-| ... | Bedeutung |
+| Wert ( | Bedeutung |
 |---|---|
-| AND | Bedingung setzt UND-Verknüpfung |
-| OR | Bedingung setzt OR-Verknüpfung |
+| AND | der Elemente in der Value-Liste |
+| OR | der Elemente in der Value-Liste |
 
 **Tabelle 11:** Zulässige Werte für den Operator
 
@@ -1090,10 +1074,10 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 **XML-Code 22:** existenz
 
-| ... | Bedeutung |
+| Wert ( | Bedeutung |
 |---|---|
-| TRUE | Bedingung prüft auf Existenz der |
-| FALSE | Bedingung prüft auf Fehlen der |
+| TRUE | Value-Elemente |
+| FALSE | Value-Elemente |
 
 **Tabelle 12:** Zulässige Werte für das Existenzkriterium
 
@@ -1103,7 +1087,7 @@ Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ geset
 
 In Kombination mit mehreren
 
-Wert ( V="" der Elemente in der Value-Liste voraus der Elemente in der Value-Liste voraus Wert ( V="" Value-Elemente Value-Elemente
+V="" ... Bedingung setzt UND-Verknüpfung voraus Bedingung setzt OR-Verknüpfung voraus V="" ... Bedingung prüft auf Existenz der Bedingung prüft auf Fehlen der
 
 ---
 
@@ -1211,65 +1195,63 @@ Das Element <pruefung> ähnelt im Aufbau und der Struktur dem Element <bedingung
 
 ---
 
-Abbildung 27: pruefung
+**Abbildung 27:** pruefung
 
 Der XML-Code für ein Element <pruefung> hat folgenden Aufbau:
 
-**< pruefung>**
+**<pruefung>**
 
-**< parameter V="ICD" S =""/>1.2.276.0.76.3.1.1.5.2.16**
+**<parameter V="ICD" S=""/>1.2.276.0.76.3.1.1.5.2.16**
 
-**< operator V="AND "/>**
+**<operator V="AND"/>**
 
-**< existenz V="TRUE "/>**
+**<existenz V="TRUE"/>**
 
-**< value_liste>**
+**<value_liste>**
 
 **...**
 
 **</value_liste>**
 
-**< subpruefung>**
+**<subpruefung>**
 
 **...**
 
-**</subpruefung**
+**</subpruefung>**
 
 **</pruefung>**
 
-XML -Code 26: pruefung
+**XML-Code 26:** pruefung
 
 ## 5.26 PRUEFUNG_EXISTENZ
 
-Das Element <pruefung_existenz> definiert, *ob ein Wert für den Prüfungsblock vorhanden oder nicht*
+Das Element <pruefung_existenz> definiert, ob ein Wert für den Prüfungsblock vorhanden oder nicht
 
-*vorhanden .sein muss*
+vorhanden .sein muss
 
-Abbildung 28: pruefung_existenz
+**Abbildung 28:** pruefung_existenz
 
 Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
 
-**< pruefung>**
+**<pruefung>**
 
 **...**
 
-**V="TRUE " / >**
-
-**< pruefung_existenz**
+**<pruefung_existenz V="TRUE" />**
 
 **...**
 
-**</pruefung**
+**</pruefung>**
 
-XML -Code 27: pruefung_existenz
+**XML-Code 27:** pruefung_existenz
 
 
 ---
 
-| ... | Bedeutung |
+| Wert ( | Bedeutung |
 |---|---|
-| TRUE | prüft auf Existenz der Value- |
-| FALSE | prüft auf Fehlen der Value- |
+| TRUE | Elemente |
+| FALSE | Elemente |
 
 **Tabelle 13:** Zulässige Werte für das Prüfexistenzkriterium
 
@@ -1277,9 +1259,7 @@ XML -Code 27: pruefung_existenz
 
 Das Element <subpruefung> verhält sich analog zur <subbedingung> und enthält die Kindelemente:  <parameter>, <operator>, <existenz> und <value_liste>. Eine Subpruefungen wird werden immer UND  verknüpft mit der Hauptprüfung . Die Struktur sieht wie folgt aus:
 
-subpruefung
-
-**Abbildung 29:**
+**Abbildung 29:** subpruefung
 
 Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
@@ -1299,9 +1279,7 @@ Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
 **</subpruefung>**
 
-subpruefung
-
-**XML-Code 28:**
+**XML-Code 28:** subpruefung
 
 ## 5.28 FEHLERBEHANDLUNG
 
@@ -1309,7 +1287,7 @@ Das Element <fehlerbehandlung> ist ein Strukturelement, welches die notwendigen 
 
 Die Abarbeitung dieser Struktur setzt zwei Verarbeitungsschritte voraus:
 
-Wert ( V="" Elemente Elemente
+V="" ... prüft auf Existenz der Value- prüft auf Fehlen der Value-
 
 ---
 
@@ -1327,11 +1305,7 @@ Der XML-Code für die Struktur <fehlerbehandlung> hat folgenden Aufbau:
 
 **<hinweis V="..."/>**
 
-**<vorschlag V="..."/>**
-
-**<korrektur>**
-
-**...**
+**<vorschlag V="..."/>**  **<korrektur>**    **...**
 
 **</korrektur>**
 
@@ -1347,9 +1321,7 @@ Das Element <hinweis> beschreibt die technische Korrekturmaßnahme nochmals in W
 
 Der XML-Code für das Element <hinweis> sieht wie folgt aus:
 
-**<hinweis V="Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD einen**
-
-**spezifischen Kode vor."/>**
+**<hinweis V="Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD einen**  **spezifischen Kode vor."/>**
 
 **XML-Code 30:** hinweis
 
@@ -1404,32 +1376,24 @@ values (siehe Kapitel
 |---|---|
 |  |  |
 |  |  |
-| ... | Bedeutung |
+| Wert ( | Bedeutung |
 | REPLACE | Die unter value-Liste aufgeführten Werte können zum |
 
-Erlaubte Inhalte bei Element <regel>
-
-**Tabelle 14:**
+**Tabelle 14:** Erlaubte Inhalte bei Element <regel>
 
 ## 5.33 KURZ_BESCHREIBUNG
 
 Das Element <kurz_beschreibung> beinhaltet die fachliche Beschreibung der Kodierregel in Kurzform
 
-kurz_beschreibung
-
-**Abbildung 35:**
+**Abbildung 35:** kurz_beschreibung
 
 Der XML-Code für das Element <kurz_beschreibung>:
 
-**Sachgerechte Kodierung eines Zustands nach akutem Myokardinfarkt**
+**kurz_beschreibung V=""/> Sachgerechte Kodierung eines Zustands nach akutem Myokardinfarkt**
 
-**kurz_beschreibung V=""/>**
+**XML-Code 34:** kurz_beschreibung
 
-kurz_beschreibung
-
-**XML-Code 34:**
-
-Wert ( V="" Ersetzen einer identifizierten Diagnose verwendet werden.
+V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.
 
 ---
 
@@ -1438,7 +1402,7 @@ Wert ( V="" Ersetzen einer identifizierten Diagnose verwendet werden.
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| [KBV_ITA_VGEX_EHD] | ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und |
+| [KBV_ITA_VGEX_EHD] | Namensgebung beim Entwurf von XML-Schnittstellen |
 | [2] | Schlüsseltabellen der KBV https://applications.kbv.de/overview.xhtml |
 
 **Ansprechpartner:**
@@ -1449,4 +1413,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-Namensgebung beim Entwurf von XML-Schnittstellen
+ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und

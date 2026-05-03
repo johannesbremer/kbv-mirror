@@ -27,7 +27,7 @@
 
 ---
 
-| Lfd. |  | Ausprägung | Plausibilitätsregeln |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, | | |
 |  | Anamnese- und Befunddaten |  | |
@@ -39,13 +39,13 @@
 | 2c | Aktueller FEV -Wert | X Prozent des Soll-Wertes / Nicht durchgeführt | Pflichtfeld; Genau eine Angabe ist zulässig Erfolgt eine Angabe zu „X Prozent des Soll-Wertes“ muss die Wertebereich 010,0 – 299,9 |
 |  | Relevante Ereignisse |  | |
 | 3 | Ungeplante, auch | Anzahl | Bedingtes Pflichtfeld;  Ganzzahlige numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 10 im Rahmen einer Angabe muss gleich oder größer „0“ sein und kleiner oder gleich Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
-| Lfd. |  | Ausprägung | Plausibilitätsregeln |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |  | Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, |  | |
 | Anamnese- und Befunddaten |  | 1 | In den letzten 4 Wochen: Häufiger als 2 mal wöchentlich / 2 mal Pflichtfeld; In den letzten 4 Wochen: |
 | 2a | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig 2b Pflichtfeld; X Prozent des Soll-Wertes / Nicht durchgeführt Erfolgt eine Angabe zu „X Prozent des Soll-Wertes“ muss die |
 | Wertebereich 010,0 – 299,9 |  | Relevante Ereignisse | 3  Ungeplante, auch Anzahl  Angabe muss gleich oder größer „0“ sein und kleiner oder gleich |
 |  |  |  | In den letzten 4 Wochen: Genau eine Angabe ist zulässig |
-| Lfd. |  | Ausprägung | Plausibilitätsregeln |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 | 1a | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld; Genau eine Angabe ist zulässig   Pflichtfeld; |
 | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig 2c |
 | Aktueller FEV -Wert | X Prozent des Soll-Wertes / Nicht durchgeführt | Pflichtfeld; | |
@@ -53,12 +53,12 @@
 |  | 3 | Ungeplante, auch | Anzahl  Bedingtes Pflichtfeld;  Ganzzahlige numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 10 im Rahmen einer |
 | Angabe muss gleich oder größer „0“ sein und kleiner oder gleich | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |
 |  |  |  | |
-| Lfd. |  | Ausprägung | Plausibilitätsregeln |
+| Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |  | Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, |  | Anamnese- und Befunddaten   1 |
 | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld; | Genau eine Angabe ist zulässig 1a Pflichtfeld;  Ja / Nein 2b |
 | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |
 
-Parameter Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine   sind die nachstehenden Felder der Anlage 10 Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
+Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine   sind die nachstehenden Felder der Anlage 10 Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
 
 ---
 
@@ -103,8 +103,8 @@ Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontra
 |  |  | | |
 | kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ |  |  | |
 |  | - |  | „Keine“ und „Kontraindikation“ können einzeln oder gemeinsam |
-| 7 | Sonstige asthmaspezifische | Andere | Pflichtfeld; Mindestens eine Angabe ist notwendig; |
-| Mehrfachnennungen sind möglich |  |  | wenn „Nein“ angekreuzt ist, ist keine weitere Angabe |
+| 7 | Sonstige asthmaspezifische | Nein / / Leukotrien-Rezeptor-Antagonisten / | Pflichtfeld; Mindestens eine Angabe ist notwendig; |
+| Mehrfachnennungen sind möglich |  |  | - |
 |  |  |  | - |
 |  | 8 | Inhalationstechnik überprüft | Ja / Nein  Pflichtfeld; |
 | Genau eine Angabe ist zulässig |  | Schulung | 9  Asthma-Schulung empfohlen Ja / Nein |
@@ -112,12 +112,12 @@ Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontra
 | Asthma-Schulung schon vor | Ja / Nein Bedingtes Pflichtfeld;  Eine Angabe ist erforderlich, wenn die Anlage 10 im Rahmen einer | Genau eine Angabe ist zulässig | Eine Angabe im Rahmen einer Folgedokumentation ist nicht  10  Empfohlene Asthma-Schulung Ja / Nein / War aktuell nicht möglich / Bei |
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |  |  | kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ | |
-|  |  |  | - Sonstige asthmaspezifische Mehrfachnennungen sind möglich wenn „Nein“ angekreuzt ist, ist keine weitere Angabe |
+|  |  |  | - Sonstige asthmaspezifische Mehrfachnennungen sind möglich - |
 |  |  |  | - Ja / Nein  Schulung  Asthma-Schulung empfohlen |
 | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig | 9a Asthma-Schulung schon vor Ja / Nein Genau eine Angabe ist zulässig 10  Bedingtes Pflichtfeld; |
 | Eine Angabe ist erforderlich, wenn die Anlage 10 im Rahmen einer | Genau eine Angabe ist zulässig | Eine Angabe im Rahmen einer Erstdokumentation ist nicht | Behandlungsplanung  kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ - „Keine“ und „Kontraindikation“ können einzeln oder gemeinsam |
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
-| 7 | Sonstige asthmaspezifische | Andere | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind möglich wenn „Nein“ angekreuzt ist, ist keine weitere Angabe - |
+| 7 | Sonstige asthmaspezifische | Nein / / Leukotrien-Rezeptor-Antagonisten / | Pflichtfeld; Mindestens eine Angabe ist notwendig; Mehrfachnennungen sind möglich - - |
 | 8 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
 |  | Schulung |  | |
 | 9 | Asthma-Schulung empfohlen | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
@@ -129,7 +129,7 @@ Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontra
 | - |  |  | „Keine“ und „Kontraindikation“ können einzeln oder gemeinsam 7  Pflichtfeld; |
 | 8 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld; |
 
-Nr. Medikation  (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  Nein / / Leukotrien-Rezeptor-Antagonisten / letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig.
+Nr. Medikation  (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  Andere   letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Nein“ angekreuzt ist, ist keine weitere Angabe möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig.
 
 ---
 

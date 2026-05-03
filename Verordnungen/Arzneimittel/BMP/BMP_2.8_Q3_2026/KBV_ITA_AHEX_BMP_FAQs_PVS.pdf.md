@@ -52,9 +52,9 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.43 | 17.04.2026 | KBV | Fragen und Antworten zum |  | 14 |
 | 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 13 |
-| 1.41 | 0.5.03.2025 | KBV | 16.  Aufnahme der Frage „ |  | 13 |
+| 1.41 | 0.5.03.2025 | KBV | Streichung der Frage „  Aufnahme der Frage „ |  | 13 |
 
-Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ Streichung der Frage „ Aktualisierung der BMP- Spezifikation in der Version 2.7 Verwendung der Daten aus der Referenzdatenbank des BfArM
+Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
 
 
 ---
@@ -63,17 +63,17 @@ Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Ba
 
 ## 1.1 ZIELBESTIMMUNG
 
-nbarung eines bundeseinheitlichen Medikationsplans
+Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller von Software bestimmt, die eine  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Vereinbarung eines bundeseinheitlichen Medikationsplans
 
-Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller von Software bestimmt, die eine  Lösung des bundeseinheitlichen Medikationsplans (BMP) umsetzen. Grundlage der Umsetzung ist die  technische Spezifikation der Vertragspartner der Verei BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
+BMP (Anlage 3 zur Vereinbarung gemäß § 31a SGB V) [EXT_ITA_VGEX_BMP_Anlage3], im Folgenden kurz
 
 **Spezifikation** genannt. Diese Liste soll eine Hilfestellung bei der Umsetzung zu speziellen
 
 Implementierungsfragen bieten. Software-Anforderungen, die sich aufgrund von Regelungen in  Selektivverträgen oder Modellvorhaben ergeben, bleiben von dieser Liste unberührt.
 
--Health-Gesetz im
+Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E-Health-Gesetz im
 
-Ärzte sollen durch das Softwareprodukt in die Lage versetzt werden, die durch das E § 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+§ 31a SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
 
 Diese Software muss vor ihrem Einsatz durch die Kassenärztliche Bundesvereinigung (KBV) zugelassen  werden. Die Zulassung erfolgt auf Grundlage von § 73 SGB V i.V. m. Anlage 23 Bundesmantelvertrag - Ärzte (BMV-Ä).
 
@@ -88,16 +88,6 @@ Für das Zertifizierungsverfahren gilt die Richtlinie „Zertifizierungsrichtlin
 
 - **1.** **Korrekter Ausdruck inkl. 2D-Barcode**
 
-- Einscannen des 2D-Barcodes,
-
-- Sichtprüfung der Druckqualität.
-
-- **2.**
-
-- **-Spezifikation**
-
--  **Weglassen von Wirkstärkenangaben bei BMPs auf Grundlage der Version 2.7 der BMP**
-
 **FRAGE:** *Kann der Ausdruck des BMP auch ohne 2D-Barcode erfolgen?*
 
 **ANTWORT :** Die Software soll einen Papierausdruck nach Kapitel 6 der Spezifikation erstellen können. Dies
@@ -108,7 +98,11 @@ zugehörigen Norm ISO/IEC 15415 für die Druckqualität.
 
 Die Kriterien für den 2D-Barcode auf dem erzeugten Ausdruck sind hinsichtlich Mindestgröße und Qualität  einzuhalten.
 
-Der Barcode soll fehlerfrei ausgedruckt werden. Jegliche Formen von Versetzungen, Farbmuster,  Graustufen, unzureichende Auflösung, Verpixelungen, Deformationen etc. sind unzulässig. Eine Prüfung  kann erfolgen durch:
+Der Barcode soll fehlerfrei ausgedruckt werden. Jegliche Formen von Versetzungen, Farbmuster,  Graustufen, unzureichende Auflösung, Verpixelungen, Deformationen etc. sind unzulässig. Eine Prüfung  kann erfolgen durch: - Einscannen des 2D-Barcodes,
+
+- Sichtprüfung der Druckqualität.
+
+- **2.** **Weglassen von Wirkstärkenangaben bei BMPs auf Grundlage der Version 2.7 der BMP-Spezifikation**
 
 **FRAGE:** *In welchen Fällen wird die Wirkstärkenangabe bei einer Medikationszeile im Ausdruck weggelassen?*
 
@@ -118,13 +112,11 @@ Die Wirkstärkenangabe wird gemäß der Spezifikation bei sog. Mehrkomponenten-P
 
 Kombinationspräparaten mit mehr als drei Wirkstoffen weggelassen. Das entsprechende Feld bleibt dann  im Ausdruck leer.
 
-ben vorgegeben ist. Im Regelfall ist
+In allen anderen Fällen sind die entsprechenden Angaben der Referenzdatenbank unverändert zu  übernehmen, durch die neben den zu verwendenden Wirkstoffbezeichnungen und Wirkstärkenangaben  auch die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben vorgegeben ist. Im Regelfall ist
 
-In allen anderen Fällen sind die entsprechenden Angaben der Referenzdatenbank unverändert zu  übernehmen, durch die neben den zu verwendenden Wirkstoffbezeichnungen und Wirkstärkenangaben  auch die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenanga dann jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zugeordnet und  umgekehrt. In Ausnahmefällen (bei manchen Homöopathika und Medizinprodukten) kann es vorkommen,
+dann jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zugeordnet und  umgekehrt. In Ausnahmefällen (bei manchen Homöopathika und Medizinprodukten) kann es vorkommen,  dass nicht für alle Wirkstoffe eine Stärkenangabe vorliegt. In diesem Fall, wo durch die Referenzdatenbank  keine Angabe der Stärke an dieser Stelle erfolgt, wird die entsprechende Angabe auch im BMP-Ausdruck
 
--Ausdruck
-
-dass nicht für alle Wirkstoffe eine Stärkenangabe vorliegt. In diesem Fall, wo durch die Referenzdatenbank  keine Angabe der Stärke an dieser Stelle erfolgt, wird die entsprechende Angabe auch im BMP weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben (sofern vorhanden)
+weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben (sofern vorhanden)
 
 ist auch in diesem Fall zu beachten, so dass die korrekte Zuordnung der vorhandenen Angaben  gewährleistet ist.
 
@@ -188,21 +180,7 @@ Windows: Menü Drucken  Größe  Schalter „Tatsächliche Größe“ setzen).
 
 - **Anonymisieren von BMPs**
 
-*Wie kann ich einen BMP unkenntlich machen/anonymisieren?*
-
-**ANTWORT :** Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die
-
-Patientendaten unkenntlich zu machen. Das Unkenntlich machen durch (vollständiges) Durchstreichen des
-
-Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
-
 - **8.** **Optische Konformität**
-
-**FRAGE:*** Welchen optischen und grafischen Vorgaben muss der Ausdruck eines BMP genügen, um als*
-
-*konform gewertet zu werden?*
-
-**ANTWORT :** Im Ausdruck müssen insbesondere die Vorgaben für:
 
 - Aufteilung des Layouts in der vorgegebenen Struktur (Identifikationsblock,  Administrationsblock, Medikationstabelle etc.),
 
@@ -216,9 +194,27 @@ Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig i
 
 - (leeres) Freifeld
 
-entsprechend der Spezifikation inkl. der Toleranzen eingehalten sein.
-
 - **9.** **Veränderung von PZN-zugehörige Dateninhalte**
+
+- **Entfernen des PZN-Bezuges**
+
+- **Änderung verwerfen**
+
+*Wie kann ich einen BMP unkenntlich machen/anonymisieren?*
+
+**ANTWORT :** Wird ein MP zur Fehlerprüfung o.ä. an Dritte weitergegeben, kann es notwendig sein, die
+
+Patientendaten unkenntlich zu machen. Das Unkenntlich machen durch (vollständiges) Durchstreichen des
+
+Vornamens, des Nachnamens und des Geburtsdatums ist nicht ausreichend. Wichtig ist, dass auch der 2D Barcode unkenntlich gemacht wird, denn dieser enthält die genannten Daten nochmals. Hierzu ist es  erforderlich, dass grob mindestens die Hälfte des Barcodes zerstört wird. Besser ist das komplette  Unkenntlich machen der Barcodefläche mit einem idealerweise schwarzen Stift.
+
+**FRAGE:*** Welchen optischen und grafischen Vorgaben muss der Ausdruck eines BMP genügen, um als*
+
+*konform gewertet zu werden?*
+
+**ANTWORT :** Im Ausdruck müssen insbesondere die Vorgaben für:
+
+entsprechend der Spezifikation inkl. der Toleranzen eingehalten sein.
 
 **FRAGE:*** Wie ist im Ablauf zu verfahren, wenn der Anwender Dateninhalte, die einer PZN zugeordnet sind,*
 
@@ -232,11 +228,7 @@ Wirkstoffbezeichnung(en), die Wirkstärke(n) und die Darreichungsform. Die Grün
 
 Sofern der Anwender eine solche Anwendung vornimmt, muss die Software explizit auf die Änderung von  PZN-bezogenen Informationen hinweisen. Der Anwender muss anschließend zwischen einer der folgenden  zwei Möglichkeiten entscheiden:
 
-- **Entfernen des PZN-Bezuges**
-
 In diesem Fall wird die PZN aus dem Carrier gelöscht. Sowohl die geänderten Felder als auch  die weiteren Feldinhalte, die über die PZN aus der Arzneimitteldatenbank abgeleitet wurden,  werden im Carrier gespeichert und sind im Ausdruck auszugeben.
-
-- **Änderung verwerfen**
 
 In diesem Fall verbleibt im Carrier weiterhin nur die PZN. Im Ausdruck werden die zur PZN  zugehörigen Dateninhalte über die Arzneimitteldatenbank ermittelt und ausgegeben.
 
@@ -439,29 +431,15 @@ Rezeptschreibung oder dem Anlegen einer Verordnung  ermöglichen.
 
 - **Einlesen fremder MPs**
 
-- **10.**
-
--
-
--  **Vergleich eines eingelesen mit einem vorhandenen Plan**
-
-- **11.**
-
--
-
--  **Zusammenführen von Inhalten unterschiedlicher Pläne**
-
-- **12.** **Versionskompatibilität**
-
-- **13.** **Zusatzfunktionen**
-
-* Müssen fremde Medikationspläne per Barcode eingelesen werden?*
+*Müssen fremde Medikationspläne per Barcode eingelesen werden?*
 
 **ANTWORT :** Die Software muss durch Dritte erstellte bzw. aktualisierte Medikationspläne (mit einer oder
 
-mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher  elesenen Daten müssen einer Nutzung im
+mehreren Seiten) über den 2D-Barcode einlesen können. Dabei sollte es unerheblich sein, in welcher  Reihenfolge die Seiten eines Planes eingelesen werden. Die eingelesenen Daten müssen einer Nutzung im
 
-Reihenfolge die Seiten eines Planes eingelesen werden. Die eing MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für einen Patienten auch mehrere Pläne  eingelesen werden können (siehe auch Nr. 12).
+MP-Modul und im PVS bereitgestellt werden. Ggf. müssen für einen Patienten auch mehrere Pläne  eingelesen werden können (siehe auch Nr. 12).
+
+- **10.** **Vergleich eines eingelesen mit einem vorhandenen Plan**
 
 **FRAGE:** *Was muss mit einem eingelesenen Plan passieren, wenn bereits ein Plan vorhanden ist?*
 
@@ -469,27 +447,23 @@ Reihenfolge die Seiten eines Planes eingelesen werden. Die eing MP-Modul und im 
 
 vergleichen. Unterschiede müssen optisch dargestellt werden und für diese muss es die Möglichkeit geben,  diese abzulehnen, zu übernehmen oder abzuändern.
 
+- **11.** **Zusammenführen von Inhalten unterschiedlicher Pläne**
+
 **FRAGE:** *Wie führt man unterschiedliche Pläne / Daten aus unterschiedlichen Quellen zusammen?*
 
 **ANTWORT :** Die Zusammenführung mehrere Pläne soll schrittweise, d.h. Plan für Plan erfolgen. Die Software
 
-ander (d.h. vergleichend) darstellen.
+soll hierfür wesentliche Inhalte von Medikationsplänen (intern verfügbare oder von extern eingelesen), die  es zusammenzuführen gilt, in geeigneter Weise nebeneinander (d.h. vergleichend) darstellen.
 
-soll hierfür wesentliche Inhalte von Medikationsplänen (intern verfügbare oder von extern eingelesen), die  es zusammenzuführen gilt, in geeigneter Weise nebenein
+Zur Beachtung: Es sollen nicht die Pläne zwingend nebeneinander gezeigt werden, sondern lediglich  die Inhalte verglichen werden können. Wobei nebeneinander hier nicht streng als rechts/links zu  interpretieren ist, sondern auch eine andere, geeignete, vergleichende Darstellung zulässig wäre.
 
-eichende Darstellung zulässig wäre.
+Einträge mit identischer / gleicher PZN / Wirkstoff sollen kenntlich gemacht werden. Es soll eine geeignete  Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabetisch oder nach ATC-Code). Durch entsprechende
 
-Zur Beachtung: Es sollen nicht die Pläne zwingend nebeneinander gezeigt werden, sondern lediglich  die Inhalte verglichen werden können. Wobei nebeneinander hier nicht streng als rechts/links zu  interpretieren ist, sondern auch eine andere, geeignete, vergl
+Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
 
-Einträge mit identischer / gleicher PZN / Wirkstoff sollen kenntlich gemacht werden. Es soll eine geeignete
+In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der Krankenkassen) verfahren werden.
 
-isch oder nach ATC-Code). Durch entsprechende
-
-Systematik für die Sortierung der Medikationseinträge in der vergleichenden Darstellung angeboten  werden (z. B. Sortierung nach Wirkstoffen alphabet Eingaben des Anwenders (Übernahme / Verwerfen / Ändern) entsteht ein zusammengeführter BMP.
-
-rankenkassen) verfahren werden.
-
-In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten mit Daten aus weiteren  Quellen (z.B. eGK, eArztbrief, Abrechnungsdaten der K
+- **12.** **Versionskompatibilität**
 
 **FRAGE:** *Welche Versionen des BMP müssen unterstützt werden?*
 
@@ -497,11 +471,13 @@ In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten m
 
 früheren Patch-Version basieren, in die aktuelle Version überführen können.
 
+- **13.** **Zusatzfunktionen**
+
 **FRAGE:** *Darf man zum BMP Zusatzfunktionen anbieten?*
 
-**ANTWORT :** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:  -Prüffunktionen.
+**ANTWORT :** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:
 
-Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS
+Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS-Prüffunktionen.
 
 
 ---
@@ -577,11 +553,9 @@ nächsten Anpassung des BMPs.
 
 Darf die Zwischenüberschrift „Wöchentliche Anwendung“ mehrfach auf einem BMP vorkommen?
 
-Nein, die Zwischenüberschrift „Wöchentliche Anwendung“ darf nur einmal auf dem BMP
+ANTWORT : Nein, die Zwischenüberschrift „Wöchentliche Anwendung“ darf nur einmal auf dem BMP
 
-ANTWORT : vorkommen, und es müssen alle Medikationseinträge mit einer strukturiert angegebenen wöchentlichen
-
-Dosierung (Vorhandensein des Elementes MP.S.M.wo) unter der Zwischenüberschrift geführt werden.
+vorkommen, und es müssen alle Medikationseinträge mit einer strukturiert angegebenen wöchentlichen  Dosierung (Vorhandensein des Elementes MP.S.M.wo) unter der Zwischenüberschrift geführt werden.
 
 **FRAGE:** Muss die Zwischenüberschrift „Wöchentliche Anwendung“ automatisch gesetzt werden, sobald ein
 
@@ -593,29 +567,19 @@ Medikationseintrag mit wöchentlicher Dosierung (Vorhandensein des Elementes MP.
 
 vorhanden ist.
 
-Darf ein Anwender die Zwischenüberschrift „Wöchentliche Anwendung“
-
-**FRAGE:**
-
-manuell setzen?
+**FRAGE:** Darf ein Anwender die Zwischenüberschrift „Wöchentliche Anwendung“ manuell setzen?
 
 ANTWORT : Das manuelle Setzen der Zwischenüberschrift „Wöchentliche Anwendung“ darf erfolgen, um
 
 auch Medikationseinträge mit der freitextlichen Information einer wöchentlichen Dosierung dieser  zuordnen zu können.
 
-Dürfen unter der Zwischenüberschrift „Wöchentliche Anwendung“
-
-**FRAGE:**
-
-Medikationseinträge mit
+**FRAGE:** Dürfen unter der Zwischenüberschrift „Wöchentliche Anwendung“ Medikationseinträge mit
 
 freitextlicher Dosierung enthalten sein
 
 ANTWORT : Grundsätzlich sollte eine wöchentliche Dosierung strukturiert unter Verwendung des Elements
 
-MP.S.M.wo abgebildet werden. Da jedoch nicht ausgeschlossen werden kann, dass in einem
-
-Medikationsplan auch Medikationseinträge mit der freitextlichen Information einer wöchentlichen  Dosierung vorliegen, dürfen diese manuell der Zwischenüberschrift zugeordnet werden.
+MP.S.M.wo abgebildet werden. Da jedoch nicht ausgeschlossen werden kann, dass in einem  Medikationsplan auch Medikationseinträge mit der freitextlichen Information einer wöchentlichen  Dosierung vorliegen, dürfen diese manuell der Zwischenüberschrift zugeordnet werden.
 
 **FRAGE:** Müssen Softwaresysteme Funktionen implementieren, welche die freitextliche Anlage einer
 
@@ -627,9 +591,7 @@ entsprechende Anlage softwareseitig zu unterbinden.
 
 Allerdings spricht auch nichts dagegen die Anlage einer gleich lautenden Zwischenüberschrift zu  unterbinden. Die KBV wird diese grundsätzlich als sinnvoll erachten.
 
-gelistet werden würden.
-
-Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine Einträge mit wöchentlicher  Dosierung (Vorhandensein des Elementes MP.S.M.wo)
+Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine Einträge mit wöchentlicher  Dosierung (Vorhandensein des Elementes MP.S.M.wo) gelistet werden würden.
 
 
 ---
@@ -654,7 +616,7 @@ Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine 
 |  |  |
 |---|---|
 | Referenz | Dokument |
-| EXT_ITA_VGEX_BMP_Anlage3 | Spezifikation des bundeseinheitlichen |
+| EXT_ITA_VGEX_BMP_Anlage3 | Medikationsplans Anlage 3 inkl. Schema |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für |
 
@@ -666,4 +628,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
-Medikationsplans Anlage 3 inkl. Schema Verordnungssoftware -Datei
+Spezifikation des bundeseinheitlichen Verordnungssoftware -Datei

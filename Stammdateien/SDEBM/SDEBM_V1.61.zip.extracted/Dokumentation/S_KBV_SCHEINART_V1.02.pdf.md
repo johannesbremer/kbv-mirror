@@ -38,4 +38,6 @@ Schlüsseltabelle: S_KBV_SCHEINART
 
 Selbstausstellung Auftragsleistungen Konsiliaruntersuchung
 
-Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung Belegärztliche Mitbehandlung Urlaubs-/Krankheitsvertretung bei belegärztlicher Behandlung Ärztlicher Notfalldienst Urlaubs-/Krankheitsvertretung Notfall Notfalldienst mit Taxi 1
+Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung Belegärztliche Mitbehandlung Urlaubs-/Krankheitsvertretung bei belegärztlicher Behandlung Ärztlicher Notfalldienst Urlaubs-/Krankheitsvertretung
+
+Notfall Notfalldienst mit Taxi 1

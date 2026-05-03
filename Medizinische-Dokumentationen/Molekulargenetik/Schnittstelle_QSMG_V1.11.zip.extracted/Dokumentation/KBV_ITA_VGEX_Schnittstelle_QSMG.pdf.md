@@ -20,7 +20,7 @@ Molekulargenetik -Lewin-Platz 2 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlic
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.12 | 11.04.2014 | KBV | Dokument |  |  |
+| 1.12 | 11.04.2014 | KBV |  |  |  |
 | 1.11 | 14.02.2013 | KBV | redaktionelle Überarbeitung | Korrekturen am Beispielcode | 15, 16 |
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an neues Layout |  |
 | 1.00 | 21.05.2012 | KBV | neues Dokument |  |  |
@@ -127,86 +127,44 @@ bzgl. veralteter Links überarbeitet
 
 #### ABBILDUNGSVERZEICHNIS
 
-**Abbildung 1 - Element ehd .................................................................................................**
+**Abbildung 1 - Element ehd ................................................................................................. 12**
 
-**Abbildung 2 - Element id ....................................................................................................**
+**Abbildung 2 - Element id .................................................................................................... 13**
 
-**Abbildung 3 - Element document_type_cd .......................................................................**
+**Abbildung 3 - Element document_type_cd ....................................................................... 13**
 
-**Abbildung 4 - Element document_relationship**
+**Abbildung 4 - Element document_relationship ................................................................. 13**
 
-**Abbildung 5 - Element provider .........................................................................................**
+**Abbildung 5 - Element provider ......................................................................................... 14**
 
-**Abbildung 6 - Element interface .........................................................................................**
+**Abbildung 6 - Element interface ......................................................................................... 14**
 
-**Abbildung 7 - Element sciphox:Software**
+**Abbildung 7 - Element sciphox:Software .......................................................................... 15**
 
-**Abbildung 8 - Element body ...............................................................................................**
+**Abbildung 8 - Element body ............................................................................................... 17**
 
-**Abbildung 9 - Element qsmg_dokumentation**
+**Abbildung 9 - Element qsmg_dokumentation ................................................................... 17**
 
-**Abbildung 10 - Element diagnostische Fragestellung**
+**Abbildung 10 - Element diagnostische Fragestellung ...................................................... 20**
 
-**Abbildung 11 - Element leistung_liste/leistung.................................................................**
+**Abbildung 11 - Element leistung_liste/leistung................................................................. 21**
 
-**Abbildung 12 - Element fachgruppe_einsender_liste/fachgruppe_einsender**
+**Abbildung 12 - Element fachgruppe_einsender_liste/fachgruppe_einsender ................ 22**
 
-**Abbildung 13 - Element quotient_pathologisch**
+**Abbildung 13 - Element quotient_pathologisch ................................................................ 22**
 
-**Abbildung 14 - Element fachgruppe_einsender_liste/fachgruppe_einsender**
-
-**.................................................................**
-
-**..........................................................................**
-
-**...................................................................**
-
-**................................................................**
-
-**12**
-
-**13**
-
-**13**
-
-**13**
-
-**14**
-
-**14**
-
-**15**
-
-**17**
-
-**17**
-
-**...................................................... 20**
-
-**21**
-
-**................ 22**
-
-**22**
-
-**................ 24**
+**Abbildung 14 - Element fachgruppe_einsender_liste/fachgruppe_einsender ................ 24**
 
 
 ---
 
 #### TABELLENVERZEICHNIS
 
-**Tabelle 1 – Beschreibung der Kardinalitäten**
+**Tabelle 1 – Beschreibung der Kardinalitäten .................................................................... 10**
 
-**Tabelle 2 – Beschreibung der Strukturelement-Symbole**
+**Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
-**Tabelle 3 – Beschreibung sonstiger Symbole**
-
-**.................................................................... 10**
-
-**................................................. 10**
-
-**................................................................... 11**
+**Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
 
 
 ---
@@ -217,19 +175,11 @@ bzgl. veralteter Links überarbeitet
 
 **XML-Code 2 - document_relationship .............................................................................. 14**
 
-**...................................................................................................**
-
-**XML-Code 3 - ehd-header**
-
-**15**
+**XML-Code 3 - ehd-header ................................................................................................... 15**
 
 **XML-Code 4 - local_header (Software) .............................................................................. 16**
 
-**.................................................................................................**
-
-**XML-Code 5 - id (Software)**
-
-**16**
+**XML-Code 5 - id (Software) ................................................................................................. 16**
 
 **XML-Code 6 - qsmg dokumentation ................................................................................... 19**
 
@@ -259,43 +209,23 @@ Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformat
 
 # 2. Dateinamen
 
-***Der Dateiname basiert auf dem Dateinamenskonzept der EHD***
+Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
-qsmg*** ... Datentyp der ehd***
+**qsmg** ... Datentyp der ehd-Schnittstelle
 
-[v]v.vv*** ......... Version der Schnittstelle; Entspricht dem Element***  ***Elements*** *<interface >*
+**[v]v.vv** ......... Version der Schnittstelle; Entspricht dem Element  Elements ***<interface>***
 
-sender*** ...... Absender der Lieferung, entspricht der BSNR des Arztes.***
+**sender** ...... Absender der Lieferung, entspricht der BSNR des Arztes.
 
-***Schnittstelle***
+**du+**...... Zeitstempel ( Datum und Zeitpunkt) der Datei-Erstellung. Das Format ist:  JJJJMMTThhmmss
 
-du+***......***
+T-Tag, M-Monat, J-Jahr, h-Stunden, m-Minuten, s-Sekunden
 
-***Zeitstempel ( Datum und***
+Beispiel:
 
-***JJJJMMTThhmmss***
+-  qsmg_1.00_123456789_du+20120520140200.xml
 
-***T-Tag, M-Monat, J-Jahr, h-***
-
-***Zeitpunkt) der Datei***
-
-***Stunden, m-Minuten, s***
-
-***Beispiel:***
-
-- ***qsmg_1.00_123456789_du+20120520140200.xml***
-
-***-Spezifikation 1.40***
-
-*<version >**** des Header***
-
-***-Erstellung. Das Format***
-
-***-Sekunden***
-
--
-
-***ist***
+***<version>*** des Header-
 
 
 ---
@@ -401,11 +331,11 @@ mente eingeschränkt:
 
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 
-- steht die Betriebsstättennummer (BSNR) - o Im RT-Attribut
+- o Im RT-Attribut steht die Betriebsstättennummer (BSNR)
 
 **Abbildung 2 - Element id**
 
-- -Element wurde der Dokumenttyp festgelegt: -  Im *document_type_cd*
+-  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
 
 - o im V-Attribut ist der Wert: „QSMG“ fest vorgeschrieben.
 
@@ -419,11 +349,7 @@ mente eingeschränkt:
 
 - V-Attribut den Wert „RPLC“
 
-- *document_relationship/related_document/id*
-
-- o Das Element
-
-- enthält den Verweis
+- o Das Element *document_relationship/related_document/id* enthält den Verweis
 
 - auf das *id*-Element des Ursprungsdokuments.
 
@@ -437,17 +363,11 @@ mente eingeschränkt:
 
 **XML-Code 2 - document_relationship**
 
--  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und - Betriebsstätte (BSNR).
+-   Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
 
-- *provider/person*
+- o Die Vorgaben im *provider/person*-Element enthalten:
 
-- o Die Vorgaben im
-
-- -Element enthalten:
-
-Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  RT-Attribut enthält den String „1.2.276.0.76.4.16“)
-
-Arztnummer,
+Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  Arztnummer, RT-Attribut enthält den String „1.2.276.0.76.4.16“)
 
 - o Die Vorgaben im *provider/organization*-Element enthalten:
 
@@ -459,9 +379,7 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- n
 
 - o *id*-Element im EX-Attribut ist der Wert „QSMG“ fest vorgeschrieben. RT-Attribut  enthält den Wert: „1.2.276.0.76.5.109“.
 
-- -Element im V-Attribut ist der Wert: „QS Molekulargenetik“ fest
-
-- o *interface.nm* vorgeschrieben.
+- o *interface.nm*-Element im V-Attribut ist der Wert: „QS Molekulargenetik“ fest - vorgeschrieben.
 
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
@@ -473,7 +391,7 @@ id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/>
 
 XML-Beispiel
 
-| </ehd:person>     </ehd:organization>             <ehd:local_header>     EX="..." RT="KBV-Prüfnummer"/>        </ehd:header> |
+| </ehd:person>     </ehd:organization>             <ehd:local_header>           </ehd:header> |
 |---|
 
 **XML-Code 3 - ehd-header**
@@ -482,15 +400,15 @@ XML-Beispiel
 
 Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU
 
-**software** **v1** dargestellt. Die Angabe **local_header/sciphox-ssu** ist optional. Das Element **sci-**
+*software* *v1* dargestellt. Die Angabe *local_header/sciphox-ssu* ist optional. Das Element *sci-*
 
-**phox:Software** hat den Namespace urn::sciphox-org/sciphox und hat das Kindelement **sci-**
+*phox:Software* hat den Namespace urn::sciphox-org/sciphox und hat das Kindelement *sci-*
 
-**phox:id**. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
+*phox:id*. Die Struktur für dieses Element ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>   </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -502,9 +420,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 <sciphox:Software>
 
-EX="..." RT="KBV-Prüfnummer"/>
-
-<sciphox:id
+<sciphox:id EX="..." RT="KBV-Prüfnummer"/>
 
 </sciphox:Software>
 
@@ -516,11 +432,11 @@ EX="..." RT="KBV-Prüfnummer"/>
 
 #### 4.1.1.1 Software-ID (id)
 
-*sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält
 
-Das Element  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  *RT*
+als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT*
 
-a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das  Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -533,19 +449,17 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 ## 4.2 Element body
 
-Das **body**-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
+Das *body*-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
 **Abbildung 8 - Element body**
 
-Das body-Element hat den benutzerdefinierten Typ **qsmg_body_typ**. Das Kindelement in die-
+Das body-Element hat den benutzerdefinierten Typ *qsmg_body_typ*. Das Kindelement in die-
 
 sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei- det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qsmg/001“.
 
-## dokumentation
+## 4.3 Element qsmg_ dokumentation
 
-## 4.3 Element qsmg_
-
-Das Element **qsmg_dokumentation**enthält  die QS Molekulargenetik Jahresstatistik.
+Das Element *qsmg_dokumentation* enthält die QS Molekulargenetik Jahresstatistik.
 
 **Abbildung 9 - Element qsmg_dokumentation**
 
@@ -560,11 +474,11 @@ xmlns:qsmg ="urn:ehd/qsmg/001 <behandlungsfall_anzahl  V="1500 "/> <diagnostisch
 
 ---
 
-| <befund_anzahl V="400"/>   </quotient_nichtbeurteilbar  <einsender_lanr_anzahl      <einsendungen_anzahl  <fachgruppe_einsender   <einsendungen_anzahl       </fachgruppe_einsender  <produkt1_teilnahmehaufigkeit  </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation  ehandlungsfall_anzahl Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.  diagnostische_fragestellung Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element 1 1 |
+| </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation  4.3.1 b Die Anzahl (nonNegativeInteger ) aller Behandlungsfälle wird hier im V-Attribut angegeben.  4.3.2 Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element 1 1 |
 |---|
-| <quotient_unauffaellig           <befund_anzahl V="400"/>   </quotient_nichtbeurteilbar  <einsender_lanr_anzahl      <einsendungen_anzahl  <fachgruppe_einsender   <einsendungen_anzahl       </fachgruppe_einsender  <produkt1_teilnahmehaufigkeit  </qsmg:qsmg_dokumentation |
+| </qsmg:qsmg_dokumentation |
 
-<quotient V="1.16"/> </quotient_pathologisch <gop_anzahl V="500 <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig <quotient_nichtbeurteilbar <gop_anzahl V="500"/> <quotient V="1.25"/> <unterauftrag_anzahl  V="300"/>  V="120"/> <einsender_bsnr_anzahl  V="90"/> <fachgruppe_einsender_liste <fachgruppe_nummer V="02"/>  V="300"/> <fachgruppe_nummer V="03"/>  V="500"/> <fachgruppe_nummer V="05"/>  V="300"/> </fachgruppe_einsender_liste  V="3"/> <produkt2_ringversuchszertifikat  V="2"/> 4.3.1 b 4.3.2 enthält die folgenden Unterelemente: behandlungsfall_anzahl , pathologischer_befund_anzahl unauffaelliger_befund_anzahl nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
+<quotient V="1.16"/> </quotient_pathologisch <quotient_unauffaellig <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig <quotient_nichtbeurteilbar <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar <unterauftrag_anzahl  V="300"/> <einsender_lanr_anzahl  V="120"/> <einsender_bsnr_anzahl  V="90"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="02"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="500"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="05"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste <produkt1_teilnahmehaufigkeit  V="3"/> <produkt2_ringversuchszertifikat  V="2"/> ehandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
 
 ---
 
@@ -586,31 +500,27 @@ Die Anzahl (nonNegativeInteger) der Behandlungsfälle mit diagnostischer Fragest
 
 Die Anzahl (nonNegativeInteger) der Behandlungsfälle mit diagnostischer Fragestellung und  mit nicht beurteilbarem Befund wird hier im V-Attribut angegeben.
 
-### praediktive_fragestellung
+### 4.3.3 praediktive_fragestellung
 
-### 4.3.3
+Behandlungsfälle mit prädiktiver Fragestellung werden hier dokumentiert. Das Element gleicht  dem Aufbau von <*diagnostische_fragestellung*> und enthält die Daten: *behandlungs-*
 
-**diagnostische_fragestellung**> und enthält die Daten: **behandlungs-**
+*fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl* und *nichtbeurteilba-*
 
-Behandlungsfälle mit prädiktiver Fragestellung werden hier dokumentiert. Das Element gleicht  dem Aufbau von < **fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl** und **nichtbeurteilba-**
+*rer_befund_anzahl*
 
-**rer_befund_anzahl**
+Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie-
 
-**diagnostische_fragestelungl**>, bezie-
+hen sich jedoch auf die Behandlungsfälle mit prädiktiver Fragestellung.
 
-Alle Angaben in den Kindelementen sind ähnlich wie in < hen sich jedoch auf die Behandlungsfälle mit prädiktiver Fragestellung.
+### 4.3.4 vorgeburtliche_fragestellung
 
-### vorgeburtliche_fragestellung
+Behandlungsfälle mit vorgeburtlicher Fragestellung werden hier dokumentiert. Das Element  gleicht dem Aufbau von <*diagnostische_fragestellung*> und enthält die Daten: *behandlungs-*
 
-### 4.3.4
+*fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl* und *nichtbeurteilba-*
 
-**diagnostische_fragestellung**> und enthält die Daten: **behandlungs-**
+*rer_befund_anzahl*
 
-Behandlungsfälle mit vorgeburtlicher Fragestellung werden hier dokumentiert. Das Element  gleicht dem Aufbau von < **fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl** und **nichtbeurteilba-**
-
-**rer_befund_anzahl**
-
-Alle Angaben in den Kindelementen sind ähnlich wie in <**diagnostische_fragestellung**>, bezie-
+Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie-
 
 hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
 
@@ -619,11 +529,9 @@ hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
 
 ### 4.3.5 l eistung_liste/leistung
 
-Die erbrachten Leistungen mit Gebührenordnungsziffer (GOP) werden hier dokumentiert. Das  Element **leistung**kann mehrfachvorkommen. Das Element enthäl
+Die erbrachten Leistungen mit Gebührenordnungsziffer (GOP) werden hier dokumentiert. Das  Element *leistung* kann mehrfachvorkommen. Das Element enthält die folgenden Unterelemen-
 
-te: **gop, gop_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl**
-
-**teilbarer_befund_anzahl** und optional **fachgruppe_einsender_liste**
+te: *gop, gop_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl, nichtbeur-* *teilbarer_befund_anzahl* und optional *fachgruppe_einsender_liste*
 
 **Abbildung 11 - Element leistung_liste/leistung**
 
@@ -637,11 +545,15 @@ Die Anzahl ( nonNegativeInteger) der erbrachten Leistungen (GOP) aus Kapitel 4.3
 
 #### 4.3.5.3 pathologischer_befund_anzahl
 
-Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1 thologischen Befund geführt haben, wird hier im V-Attribut angegeben.
+Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1, die zu einem pa-
+
+thologischen Befund geführt haben, wird hier im V-Attribut angegeben.
 
 #### 4.3.5.4 unauffaelliger_befund_anzahl
 
-Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1 auffälligen Befund geführt haben, wird hier im V-Attribut angegeben.
+Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1, die zu einem un-
+
+auffälligen Befund geführt haben, wird hier im V-Attribut angegeben.
 
 #### 4.3.5.5 nichtbeurteilbarer_befund_anzahl
 
@@ -651,16 +563,10 @@ Die Anzahl ( nonNegativeInteger) der Leistungen (GOP) aus Kapitel 4.3.5.1, die z
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je  Behandlungsfall wird die Fachgruppe (8.-9. Stelle der LANR) bestimmt.
 
-t die folgenden Unterelemen- **, nichtbeur-**
-
-, die zu einem pa-
-
-, die zu einem un-
-
 
 ---
 
-Das optionale Element fachgruppe_einsender_liste wird nur dann gefüllt, wenn  >= 150 ist. Wurden mehrere Fachgruppen ermittelt, wird für jede Fachgruppe das Element  **fachgruppe_einsender** und die Anzahl der Einsendungen angegeben.
+Das optionale Element fachgruppe_einsender_liste wird nur dann gefüllt, wenn  >= 150 ist. Wurden mehrere Fachgruppen ermittelt, wird für jede Fachgruppe das Element  *fachgruppe_einsender* und die Anzahl der Einsendungen angegeben.
 
 **Abbildung 12 - Element fachgruppe_einsender_liste/fachgruppe_einsender**
 
@@ -674,7 +580,7 @@ Die Anzahl (nonNegativeInteger) der Einsendungen wird hier im V-Attribut angegeb
 
 ### 4.3.6 quotient_pathologisch
 
-Aus der Anzahl der Behandlungsfälle mit pathologischem Befund und den zugehörigen er- brachten Leistungen wird ein Quotient berechnet. Die Kindelemente sind  **fund_anzahlquotient.**
+Aus der Anzahl der Behandlungsfälle mit pathologischem Befund und den zugehörigen er- brachten Leistungen wird ein Quotient berechnet. Die Kindelemente sind  *fund_anzahl, quotient.*
 
 **Abbildung 13 - Element quotient_pathologisch**
 
@@ -688,13 +594,13 @@ Die Anzahl der Behandlungsfälle mit pathologischem Befund. Angabe erfolgt im V-
 
 #### 4.3.6.3 quotient
 
-Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  **befund_anzahl** Die Angabe erfolgt im V-Attribut.
+Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  *befund_anzahl.* Die Angabe erfolgt im V-Attribut.
 
-**gop_anzahl**
+*gop_anzahl*
 
-**gop_anzahl, be-**
+*gop_anzahl, be-*
 
-**gop_anzahl**
+*gop_anzahl /*
 
 
 ---
@@ -713,7 +619,7 @@ Die Anzahl der Behandlungsfälle mit unauffälligem Befund. Die Angabe erfolgt i
 
 #### 4.3.7.3 quotient
 
-Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  **befund_anzahl** Angabe erfolgt im V-Attribut.
+Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  *befund_anzahl* Angabe erfolgt im V-Attribut.
 
 ### 4.3.8 quotient_nichtbeurteilbar
 
@@ -729,7 +635,7 @@ Die Anzahl der Behandlungsfälle mit nicht beurteilbarem Befund. Angabe erfolgt 
 
 #### 4.3.8.3 quotient
 
-Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  **befund_anzahl** Die Angabe erfolgt im V-Attribut.
+Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  *befund_anzahl.* Die Angabe erfolgt im V-Attribut.
 
 ### 4.3.9 unterauftrag_anzahl
 
@@ -739,30 +645,26 @@ Die Anzahl (nonNegativeInteger) der Behandlungsfälle, für die ein Unterauftrag
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller LANR n, für die eine Überwei-
 
-**quotient_pathologisch**(Kapitel  4.3.6) iden-
+*quotient_pathologisch* (Kapitel 4.3.6) iden-
 
-**gop_anzahl**
+*gop_anzahl /*
 
-**quotient_pathologisch**(Kapitel  4.3.6) iden-
+*quotient_pathologisch* (Kapitel 4.3.6) iden-
 
-**gop_anzahl**
+*gop_anzahl /*
 
 
 ---
 
 sung existiert, wird hier im V-Attribut angegeben. Es werden nur die unterschiedlichen LANRn  berücksichtigt, identische LANRn werden nur einmal gezählt.
 
-### einsender_bsnr_anzahl
-
-### 4.3.11
+### 4.3.11 einsender_bsnr_anzahl
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller BSNRn, für die eine Überwei- sung existiert, wird hier im V-Attribut angegeben. Es werden nur die unterschiedlichen BSNRn  berücksichtigt, identische BSNRn werden nur einmal gezählt.
 
-### fachgruppe_einsender_liste/fachgruppe_einsender
+### 4.3.12 fachgruppe_einsender_liste/fachgruppe_einsender
 
-### 4.3.12
-
-Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je Behandlungsfall wird  die Fachgruppe (8.-9. Stelle der LANR) ermittelt. Das Element **fachgruppe_einsender** wird
+Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je Behandlungsfall wird  die Fachgruppe (8.-9. Stelle der LANR) ermittelt. Das Element *fachgruppe_einsender* wird
 
 mehrfach angegeben, wenn mehrere Fachgruppen ermittelt wurden. Für jede ermittelte Fach- gruppe ist die Anzahl der Einsendungen anzugeben.
 
@@ -772,21 +674,15 @@ mehrfach angegeben, wenn mehrere Fachgruppen ermittelt wurden. Für jede ermitte
 
 Die Nummer der Fachgruppe (nonNegativeInteger, 2-stellig) wird hier im V-Attribut angege- ben.
 
-#### einsendungen_anzahl
-
-#### 4.3.12.2
+#### 4.3.12.2 einsendungen_anzahl
 
 Die Anzahl (nonNegativeInteger) der Einsendungen wird hier im V-Attribut angegeben.
 
-### Produkt1_teilnahmehaufigkeit
-
-### 4.3.13
+### 4.3.13 Produkt1_teilnahmehaufigkeit
 
 Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und der Anzahl  der Teilnahmehäufigkeit im Jahr für die Untersuchung wird hier im V-Attribut angegeben.
 
-### Produkt2_ringversuchszertifikat
-
-### 4.3.14
+### 4.3.14 Produkt2_ringversuchszertifikat
 
 Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und erteilter Zer- tifikate im Jahr für diese Untersuchung wird hier im V-Attribut angegeben.
 

@@ -92,7 +92,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -109,4 +109,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 | BIC: |
 | Bank/Sparkasse: |
 
-0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

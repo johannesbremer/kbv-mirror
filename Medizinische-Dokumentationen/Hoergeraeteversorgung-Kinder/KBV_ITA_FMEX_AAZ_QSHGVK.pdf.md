@@ -47,7 +47,7 @@ Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [ ] [ ] [ ]
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
 Nur anzugeben, wenn abweichend von Abschnitt
 
@@ -60,7 +60,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
+Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
@@ -68,8 +68,6 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | Identnummer [die letzten drei |  |
 
 ## 1.4  BETRIEBSSYSTEME
-
--Betriebssysteme unterstützt werden.
 
 Bitte geben Sie im Folgenden an, welche Client
 
@@ -82,10 +80,16 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Quartalsbeginn zur Verfügung steht. |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger -Stammdatei der KBV den Anwendern rechtzeitig vor Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ]
+1.1.
+
+vorhanden) des Zertifizierungsgegenstandes an.
+
+-Betriebssysteme unterstützt werden.
+
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] [ ] der KBV den Anwendern rechtzeitig vor [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. Quartalsbeginn zur Verfügung steht. -Stammdatei
 
 ---
 

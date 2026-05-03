@@ -23,8 +23,6 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 # 1 ALLGEMEINE ANGABEN
 
-initiiert.
-
 Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV)
 
 ## 1.1 ANTRAGSSTELLER
@@ -46,6 +44,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
+
+initiiert.
 
 Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
@@ -88,14 +88,14 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN
 
 Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -103,7 +103,7 @@ Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisie
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
 |---|---|
 |  |  |
 |  |  |
@@ -112,11 +112,9 @@ Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
+## EDMP DE
 
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP DE
-
-[ ] [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] NUMMER ANFORDERUNGSKATALOG EDMP DE LT.
+[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP DE LT.
 
 ---
 
@@ -200,13 +198,9 @@ Rezertifizierung
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-- eisen können.
-
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückw
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-
--
 
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 

@@ -21,7 +21,7 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Dig
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.02 | 14.08.2019 | KBV | • |  | 6 |
-| 2.01 | 19.10.2018 | KBV | • • | - - |  |
+| 2.01 | 19.10.2018 | KBV | • • • | - - |  |
 | 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | 5, 6 |
 | 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | 6 |
 
@@ -60,11 +60,7 @@ Bei Erstellung der Stammdatei durch die Landesebene sind einige wichtige Punkte 
 
 - 1. Jede neue ARV-Stammdatei sollte vor der Veröffentlichung ein Testverfahren durch- laufen, um die Qualität der Daten zu verbessern. Im Rahmen dieses Testverfahrens  wird die ARV-Stammdatei durch mindestens 2 Softwareanbieter auf die formale und  inhaltliche Konsistenz der Daten hin überprüft. Aus dem Dateinamen muss bereits er- kennbar sein, in welchem Zustand die Datei sich befindet. Wenn der Dateinamen auf  „st+TEST“ endet, handelt es sich um eine Datei für das Testverfahren, endet der Da- teinamen auf „st+RELEASE“, handelt es sich um eine Datei für den Produktivbetrieb,  die von der KBV veröffentlicht wird. Alle Anbieter von Arzneimittelverordnungssyste- men Verordnungssoftware können als Tester am Testverfahren teilnehmen und wer- den gebeten, sich mit Angabe der E-Mail-Adressen beim Postfach [arv@kbv.de](mailto:arv@kbv.de) anzu- melden.
 
-- 2.
-
-- *<telecom>*
-
-- Im Header der ARV-Stammdatei sollte im Element -  neben der zentralen Te-
+- 2. Im Header der ARV-Stammdatei sollte im Element *<telecom>* neben der zentralen Te-
 
 - lefonnummer der KV mindestens die Telefonnummer und Email-Adresse des für die  Stammdatei verantwortlichen KV-Mitarbeiters angegeben sein, so dass die Software- häuser gegebenenfalls direkt Kontakt aufnehmen können.
 
@@ -72,23 +68,15 @@ Bei Erstellung der Stammdatei durch die Landesebene sind einige wichtige Punkte 
 
 Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von der  KV zurückgezogen wird, und diese KV für das laufende Jahr keine Regelungen mehr  veröffentlichen möchte, so muss diese KV eine ARV-Stammdatei zur Verfügung stel- len, welche keine Regelungen enthält.
 
-- 4. Wir möchten die KVen ausdrücklich darauf hinweisen, dass die Angabe von ATC- Codes und PZN (die allerdings schnell veraltet sein können), bei der Definition der
+- 4. Wir möchten die KVen ausdrücklich darauf hinweisen, dass die Angabe von ATC- Codes und PZN (die allerdings schnell veraltet sein können), bei der Definition der  Arzneimittel in den meisten Fällen die eindeutigste Lösung ist. Bei der Verwendung der  Elemente *<standardaggregat>* und *<handelsnamen>* zur Definition von Regeln kann
 
-- *<standardaggregat> <handelsnamen>* zur Definition von Regeln kann
+- es infolge abweichender Schreibweisen in den Arzneimitteldatenbanken der PVS- Anbieter zu Unschärfen kommen, so dass bestimmte Arzneimittel möglicherweise  nicht gefunden werden. Die folgenden Anweisungen betreffen nur diejenigen KVen,  die die Elemente *<standardaggregat>* und/oder *<handelsnamen>* verwenden.
 
-- Arzneimittel in den meisten Fällen die eindeutigste Lösung ist. Bei der Verwendung der  Elemente -  und
+**Beispiel:** Würde zum Beispiel “Zyprexa„ als Standardaggregat angegeben, so ist in
 
-- es infolge abweichender Schreibweisen in den Arzneimitteldatenbanken der PVS- Anbieter zu Unschärfen kommen, so dass bestimmte Arzneimittel möglicherweise
+der Regel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrö- ßen sowie alle Reimporte einzubeziehen. Um dies als Suchdefinition darzustellen, soll- te hier im Element *<standardaggregat>* an den Namen ein Leerzeichen und als Joker
 
-- *<standardaggregat>* und/oder
-
-- nicht gefunden werden. Die folgenden Anweisungen betreffen nur diejenigen KVen,  die die Elemente - *<handelsnamen>* verwenden.
-
-Würde zum Beispiel “Zyprexa„ als Standardaggregat angegeben, so ist in
-
-**Beispiel:** der Regel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrö- ßen sowie alle Reimporte einzubeziehen. Um dies als Suchdefinition darzustellen, soll- *<standardaggregat>* an den Namen ein Leerzeichen und als Joker
-
-te hier im Element  für eine beliebige Zeichenkette ein „*“ angegeben werden, also “Zyprexa *“. Im Einzel- fall sollte durch die KV sichergestellt sein, dass bei dieser Suchdefinition keine unge- wollten Präparate im Ergebnis vorkommen.
+für eine beliebige Zeichenkette ein „*“ angegeben werden, also “Zyprexa *“. Im Einzel- fall sollte durch die KV sichergestellt sein, dass bei dieser Suchdefinition keine unge- wollten Präparate im Ergebnis vorkommen.
 
 Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sicher- gestellt sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombina- tionspräparate auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat  „Fempress®“ als auch das Kombinationspräparat „Fempress plus®“ mit erfasst. Glei-
 
@@ -97,7 +85,7 @@ ches gilt für „Rasilez®“ und „Rasilez® plus“.
 
 ---
 
-Mit der Kennzeichnung “**Name Leerzeichen Sternchen** wird ein bestimmtes Stan-
+Mit der Kennzeichnung “*Name Leerzeichen Sternchen*„ wird ein bestimmtes Stan-
 
 dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels- name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han- delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati- opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag- gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels- name jedoch bei vollständiger Angabe des Handelsnamens nicht.
 
@@ -105,7 +93,7 @@ dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Ha
 
 - durch ein Leerzeichen zu ersetzen.
 
-- 6. Hinweistexte sollten möglichst kurz gehalten werden. Bitte begrenzen Sie möglichst  auch die Anzahl und Länge der PDF-Dokumente, die beispielsweise bei dem Elemen- ten **behandlungsalternativenregelung** hinterlegt werden können. Alternativ könnten
+- 6. Hinweistexte sollten möglichst kurz gehalten werden. Bitte begrenzen Sie möglichst  auch die Anzahl und Länge der PDF-Dokumente, die beispielsweise bei dem Elemen- ten *<behandlungsalternativenregelung>* hinterlegt werden können. Alternativ könnten
 
 - Sie einen Internet-Link angeben, bei dem sich der Arzt das entsprechende Dokument  herunterladen kann.
 

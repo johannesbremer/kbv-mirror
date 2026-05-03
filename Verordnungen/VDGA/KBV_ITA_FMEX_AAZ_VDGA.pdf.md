@@ -33,7 +33,7 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -48,13 +48,13 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 
 / Version: 1.2 / 21. Februar 2024
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
@@ -74,9 +74,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
--Betriebssysteme unterstützt werden.
-
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -93,7 +91,7 @@ Antragstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 |  |  |
 |---|---|
-| ☐ | nach § 73 Abs. 9 |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskatalogs |
 
 ## 2.2 KONDITIONALE PFLICHTFUNKTIONEN
 
@@ -117,15 +115,15 @@ Folgende optionale Funktionen wurden umgesetzt:
 
 wurden umgesetzt:
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskatalogs [ ] SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN [ ] [ ] [ ] NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN [ ] [ ] [ ]
+[ ] SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V nach § 73 Abs. 9  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN [ ] [ ] [ ] NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN [ ] [ ] [ ]
 
 ---
 
 # 3 ANLAGE ZU DEN KONTAKTDATEN
 
-Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die
+Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die
 
-Es ist zwingend notwendig den  „Geschäftsführung“ zu benennen.
+„Geschäftsführung“ zu benennen.
 
 |  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
@@ -205,13 +203,11 @@ Rezertifizierung
 
 - **IV.** **Sonstiges**
 
-- in, seine Stellungnahmen den
+- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den
 
-- (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht e Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+- Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-
--
 
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 

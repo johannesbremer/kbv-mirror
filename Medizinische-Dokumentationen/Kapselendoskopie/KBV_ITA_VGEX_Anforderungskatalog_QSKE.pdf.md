@@ -86,16 +86,14 @@ INHALTSVERZEICHNIS
 
 ---
 
-| IT in | der Arztpraxis |  |  |  |  |
-|---|---|---|---|---|---|
-|  | Anforderungskatalog | QS | Kapselendoskopie |  |  |
-|  | Abbildungsverzeichnis | |  |  |  |
-| *ABBILDUNG* | *:1 B ERICHTSZEITRÄUME* |  | ................................................................................................................................ |  |  |
-|  |  | KBV_ITA_VGEX_Anforderungskatalog_QS | | KE * | Version 1.03 |
+| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | Anforderungskatalog | QS | Kapselendoskopie | |  |  |  |
+|  | Abbildungsverzeichnis | |  |  |  |  |  |
+| **ABBILDUNG** | **1:** | **BERICHTSZEITRÄUME** |  |  | ................................................................................................................................ | | 6 |
+|  |  | KBV_ITA_VGEX_Anforderungskatalog_QSKE | | * Version | 1.03 | Seite 4 | von 12 |
 
-6
-
-1: KE * Version 1.03
+ABBILDUNG 1:
 
 ---
 
@@ -115,9 +113,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein.
-
-**Pflichtfunktionen**
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
 
@@ -259,9 +255,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuscha
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
-### Speichern
-
-### 2.1.4
+### 2.1.4 Speichern
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -269,9 +263,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudru
 
 Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehlerhafte  Daten zur Jahresstatistik speichern kann. Ein späterer Abruf dieser Daten zur nachträglichen  Bearbeitung muss dem Anwender bis Ende des Prüfquartals ermöglicht werden.
 
-### Ändern
-
-### 2.1.5
+### 2.1.5 Ändern
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -316,9 +308,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 -  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku]
 
-- Anbindung an KV-Connect“ in der stets aktuellen Version
-
--  „KV-Connect  [Anbindung_KV_Connect]
+-  „KV-Connect Anbindung an KV-Connect“ in der stets aktuellen Version - [Anbindung_KV_Connect]
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -335,7 +325,9 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
+- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
+
+- dokumentes bereitstellen:
 
 -  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM]
 
@@ -347,7 +339,7 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Hinweis:**
 
-Wenn eine KV für das Verfahren QSKE das KIM-Verfahren gemäß der
+Wenn eine KV für das Verfahren QSKE das KIM
 
 [Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein- trag.
 
@@ -362,8 +354,8 @@ Es sind folgende Import-Status möglich:
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
-| Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht |
+| Datei existiert bereits | cher Zuordnung (ID, BSNR, LANR) vorhanden ist. |
+| Fehlgeschlagen | gespeichert werden konnte. Es handelt sich entweder um Plausibi- |
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
@@ -373,11 +365,14 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 
--
-
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt.
+-
+
+-Verfahren gemäß der
+
+Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) übermittelt. -
+
 
 ---
 

@@ -91,7 +91,9 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 
 ---
 
-# 2 2.1
+# 2
+
+**2.1**
 
 |  |  | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -99,18 +101,18 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | 20 = Selbstausstellung | | | | | | |
 | ☐ | 21 = Auftragsleistungen (Defaultwert bei Einsendepraxen) | | | | | | |
 | ☐ | 23 = Konsiliaruntersuchung | | | | | | |
-| ☐ |  | | | | | | |
+| ☐ | 24 = Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) | | | | | | |
 | ☐ | 26 = Stationäre Mitbehandlung, Vergütung nach ambulanten | | | | | | |
-| ☐ |  | | | | | | |
+| ☐ | 27 = Überweisungsschein für Laboratoriumsuntersuchungen als Auftragsleistung | | | | | | |
 | ☐ | 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften | | | | | | |
 | ☐ | 30 = Belegärztliche Behandlung | | | | | | |
 | ☐ | 31 = Belegärztliche Mitbehandlung | | | | | | |
-| ☐ |  | | | | | | |
-| ☐ |  | | | | | | |
+| ☐ | 32 = Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher Behandlung | | | | | | |
+| ☐ | 41 = Ärztlicher Notfalldienst (Defaultwert) | | | | | | |
 | ☐ | 42 = Urlaubs- /bzw. Krankheitsvertretung | | | | | | |
 | ☐ | 43 = Notfall | | | | | | |
 | ☐ | 44 = Notfalldienst mit Taxi | | | | | | |
-| ☐ |  | | | | | | |
+| ☐ | 45 = Notarzt-/Rettungswagen (Rettungsdienst) | | | | | | |
 | ☐ | 46 = Zentraler Notfalldienst | | | | | | |
 
 [ ]
@@ -147,7 +149,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 
 [ ]
 
-2.2
+**2.2**
 
 |  |  |
 |---|---|
@@ -166,7 +168,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 
 / Version: 4.4 / 15. Mai 2024
 
-(Ambulante Behandlung) [ ] (Überweisung) [ ] 24 = Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) 27 = Überweisungsschein für Laboratoriumsuntersuchungen als Auftragsleistung 32 = Urlaubs- bzw. Krankheitsvertretung bei belegärztlicher Behandlung 41 = Ärztlicher Notfalldienst (Defaultwert) 45 = Notarzt-/Rettungswagen (Rettungsdienst) (Belegärztliche Behandlung) Grundsätzen [ ] (Notfalldienst)
+(Ambulante Behandlung) [ ] (Überweisung) [ ] (Belegärztliche Behandlung) Grundsätzen [ ] (Notfalldienst)
 
 ---
 
@@ -175,7 +177,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 |  |  |
 |---|---|
 | ☐ | Alle Ausprägungen zum Feld 4122 sind realisiert. |
-| ☐ |  |
+| ☐ | Nur folgende Ausprägungen zum Feld 4122 sind realisiert: |
 | ☐ | 00 = kein besonderes Abrechnungsgebiet (Defaultwert) |
 | ☐ | 01 = Dialyse-Arztkosten |
 | ☐ | 02 = Dialyse-Sachkosten |
@@ -235,7 +237,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 
 ## ANFORDERUNGSDOKUMENTE
 
-Nur folgende Ausprägungen zum Feld 4122 sind realisiert: nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
+nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
 
 ---
 
@@ -249,7 +251,7 @@ Nur folgende Ausprägungen zum Feld 4122 sind realisiert: nsatzbeschreibung KVDT
 
 |  |  |
 |---|---|
-| ☐ |  |
+| ☐ | Die konditionale Pflichtfunktion KP2-185 wurde im ADT umgesetzt. |
 
 [ ]
 
@@ -274,7 +276,7 @@ Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisie
 
 ## ADT
 
-[ ] Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. Die konditionale Pflichtfunktion KP2-185 wurde im ADT umgesetzt. [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
+[ ] Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. [ ] [ ] [ ] ADT LT. ANFORDERUNGSKATALOG
 
 ---
 
@@ -334,12 +336,10 @@ Diese Information ist verpflichtend anzugeben
 
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| ADT | Neu- oder | Sichtprüfung | 1.238,58 [pro Termin] |
+| ADT | Rezertifizierung | Sichtprüfung | 1.238,58 [pro Termin] |
 |  | Erweiterungs- | Sicht- oder | 344,05 [pro Satzart] |
-
--
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -383,19 +383,17 @@ Diese Information ist verpflichtend anzugeben
 
 -
 
-Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung
+Neu- oder zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung
 
 ---
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-- (6)
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung
 
--
+- Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-- Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
-
-- IV. Sonstiges
+- **IV.** **Sonstiges**
 
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu
 

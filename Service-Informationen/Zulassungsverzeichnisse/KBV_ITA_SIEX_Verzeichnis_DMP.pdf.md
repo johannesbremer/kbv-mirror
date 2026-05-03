@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -48,7 +48,7 @@
 |  | Y/105/2401/36/081 | 31.12.2026 | eDMP COPD |  |
 |  | X/101/2401/36/934 | 31.12.2026 | DMP Brustkrebs |  |
 
-EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
+EVA Abasoft EDV-Programme GmbH Gründelbachstraße 10 71691 Freiberg am Neckar Internet: www.abasoft.de Windows APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de iOS/Android Linux Mac OS Windows Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de ODSeasy asthenis GmbH Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de Windows WindowsSeite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 02. Mai 2026
 
 
 ---
@@ -115,7 +115,7 @@ D-Doc axaris-software & systeme GmbH Max-Eyth-Weg 2 89160 Dornstadt Internet: ww
 |  | Y/101/2412/37/060 | 31.12.2027 | DMP Brustkrebs |  |
 |  | Y/109/2410/36/060 | 30.09.2027 | eDMP Osteoporose |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 02. Mai 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -178,8 +178,9 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |  | Y/104/2401/36/295 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/295 | 31.12.2026 | eDMP COPD |  |
 
-|  | Y/102/2410/36/223 | 30.09.2027 | eDMP Koronare Herzkrankheit |  |
+|  | Y/104/2604/24/223 | 31.03.2028 | eDMP Diabetes melitus Typ 1 |  |
 |---|---|---|---|---|
+|  | Y/102/2410/36/223 | 30.09.2027 | eDMP Koronare Herzkrankheit |  |
 |  | Y/100/2307/36/223 | 30.06.2026 | eDMP Diabetes melitus Typ 2 |  |
 
 |  | Y/107/2405/38/034 | 30.06.2027 | eDMP Rückenschmerz |  |
@@ -429,7 +430,7 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |  | Y/104/2401/36/171 | 31.12.2026 | eDMP Diabetes melitus Typ 1 |  |
 |  | Y/105/2401/36/171 | 31.12.2026 | eDMP COPD |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 25. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 02. Mai 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|

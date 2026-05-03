@@ -119,19 +119,15 @@ r- b-
 
 **Abbildung 2: Regeltyp „sub_gop_liste“**
 
-#### XML-Beispiel
-
-#### 1.1.1.4
+#### 1.1.1.4 XML-Beispiel
 
 Das vorliegende XML -Beispiel veranschaulicht die Verknüpfung und Systematik zwischen  Versichertenpauschale und den altersklassenspezifischen Sub-GOP.
 
 **Abbildung 3: Verknüpfung zwischen Versichertenpauschale und Sub-GOP**
 
--GOP referenziert werden.
+Die jeweilige Altersbedingung ist direkt in der  Patientenalter kann somit direkt auf die jeweilige Sub
 
-Die jeweilige Altersbedingung ist direkt in der *sub_gop_liste* verknüpft. In Abhängigkeit vom
-
-Patientenalter kann somit direkt auf die jeweilige Sub
+*sub_gop_liste* verknüpft. In Abhängigkeit vom -GOP referenziert werden.
 
 
 ---
@@ -140,9 +136,7 @@ Patientenalter kann somit direkt auf die jeweilige Sub
 
 Für fachärztliche Leistungen, die im Rahmen der Grundversorgung erbracht werden, wurden  Zusatzpauschalen für die fachärztliche Grundversorgung (PFG) eingeführt , z.B. 05220 . Die  Pauschale kann im Behandlungsfall als Zuschlag abgerechnet werden, wenn im Behand- lungsfall keine der Grundversorgung untypische Leistungen abgerechnet wurden
 
-Die Zusatzpauschalen beinhalten die jeweilige Versichertenpauschale als Grundleistungsre-
-
-gel und sind somit eindeutig als Zuschläge identifizierbar.
+Die Zusatzpauschalen beinhalten die jeweilige Versichertenpauschale als Grundleistungsre- gel und sind somit eindeutig als Zuschläge identifizierbar.
 
 Um die grundversorgungsfremden Leistungen direkt filtern zu können, sind diese Leistungen  1
 
@@ -164,9 +158,9 @@ Um die GOP-Art in Abhängigkeit der diesbezüglichen Entwicklung flexibel und un
 
 **Abbildung 4: Abbildung der GOP-Art über das Element gnr_type_cd**
 
-. Perspektivisch ist vorgesehen, dass die GOP-Art auch für kv -spezifische Leis-
+Die GOP -Art ist derzeit optional, wird aber durch die KBV initial für alle GOP ausgeliefert.  EBM-Leistungen ohne besondere Merkmale werden dabei standardmäßig mit der GOP -Art  „EBM“ belegt. Perspektivisch ist vorgesehen, dass die GOP-Art auch für kv -spezifische Leis-
 
-Die GOP -Art ist derzeit optional, wird aber durch die KBV initial für alle GOP ausgeliefert.  EBM-Leistungen ohne besondere Merkmale werden dabei standardmäßig mit der GOP -Art  „EBM“ belegt tungen angegeben wird.
+tungen angegeben wird.
 
 Im Anhang 3 des EBM sind diese Leistungen mit einem * hinter der Nummer hervorgehoben.
 

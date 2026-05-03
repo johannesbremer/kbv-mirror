@@ -195,9 +195,19 @@ Diese Information ist verpflichtend anzugeben
 
 Zulassung. (3) Die Laufzeit der Zulassung beträgt 36 Monate. (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
-| **ZERTIFIZIERUNGSART** | **PRÜFUNGSART** |
-|---|---|
-| Neu- oderRezertifizierung | Ergebnisprüfung |
+**THEMA**
+
+**ZERTIFIZIERUNGSART PRÜFUNGSART**
+
+**KOSTEN IN €**
+
+DMP-Brustkrebs
+
+Neu- oder
+
+Ergebnisprüfung 275,24
+
+Rezertifizierung
 
 **II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
@@ -219,15 +229,13 @@ der Zulassung führen.
 
 (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen Abrechnungsbestimmungen zu umgehen.
 
-(3)
-
-KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+(3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 
 (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-THEMA DMP-Brustkrebs 275,24 (6) Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 
 ---

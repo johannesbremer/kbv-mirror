@@ -1,16 +1,12 @@
-## zum indikationsspezifischen Datensatz
-
 ## Ausfüllanleitung
 
-## Behandlungsprogramm
+## zum indikationsspezifischen Datensatz
+
+## für das strukturierte Behandlungsprogramm
 
 ## Rheumatoide Arthritis
 
-## für das strukturierte
-
-letzten Bearbeitung: 01.07.2022
-
-Stand der
+Stand der letzten Bearbeitung: 01.07.2022
 
 Version 1.0
 
@@ -89,9 +85,9 @@ Beurteilen Sie bitte für jedes der folgenden 14 Gelenke **jeweils rechts- und l
 |---|---|
 | 5. | 9. Fingermittelgelenk |
 | 6. | 10. Fingermittelgelenk PIP 2 |
-| MCP 1 |  |
-| 5. Fingergrundgelenk MCP 2 |  |
-| MCP 3 |  |
+| 4. Fingergrundgelenk | 11. Fingermittelgelenk PIP 3 |
+| 5. Fingergrundgelenk MCP 2 | 12. Fingermittelgelenk PIP 4 |
+| 6. Fingergrundgelenk | 13. Fingermittelgelenk PIP 5 |
 | 7. Fingergrundgelenk MCP 4 | 14. Kniegelenk |
 
 Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht  druckschmerzhaft, druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig
@@ -124,7 +120,7 @@ Bei der Eingabe der vier Parameter des DAS-28 in Ihre PVS wird der DAS-28-Wert (
 
 interpretiert werden kann.
 
-1. Schultergelenk 2. Ellenbogengelenk PIP 1 3. Handgelenk 4. Fingergrundgelenk 11. Fingermittelgelenk PIP 3 12. Fingermittelgelenk PIP 4 6. Fingergrundgelenk 13. Fingermittelgelenk PIP 5In der folgenden Tabelle sehen Sie die Einordnung der Krankheitsaktivität anhand des DAS-28-Wertes.
+1. Schultergelenk 2. Ellenbogengelenk PIP 1 3. Handgelenk MCP 1  MCP 3In der folgenden Tabelle sehen Sie die Einordnung der Krankheitsaktivität anhand des DAS-28-Wertes.
 
 
 ---
@@ -134,57 +130,51 @@ Tabelle 1: Interpretation des DAS -28-Wertes
 | DAS-28-Wert | Krankheitsaktivität |
 |---|---|
 | < 2,6 | Remission |
-|  | Niedrige Krankheitsaktivität |
+| ≥ 2,6 bis < 3,2 | Niedrige Krankheitsaktivität |
 | ≥ 3,2 bis ≤ 5,1 | Moderate Krankheitsaktivität |
 | > 5,1 | Hohe Krankheitsaktivität |
 
 Tabelle 2: Berechnung des DAS-28-Wertes
 
-|  |
+| DAS-28- |
 |---|
 | Legende: |
 
--28-Wertes können Sie die Änderungen der
+Mit der kontinuierlichen und standardisierten Erhebung des DAS-28-Wertes können Sie die Änderungen der
 
-Mit der kontinuierlichen und standardisierten Erhebung des DAS Krankheitsaktivität verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation angezeigt, ob eine **relevante**
+Krankheitsaktivität verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation angezeigt, ob eine **relevante**
 
-**zum DAS-28-Wert der vorhergehenden Dokumentation** vorliegt. Dafür wird die Differenz
+**Veränderung zum DAS-28-Wert der vorhergehenden Dokumentation** vorliegt. Dafür wird die Differenz
 
-**Veränderung**  zwischen dem aktuellen DAS -28-Wert und dem DAS-28-Wert der letzten Dokumentation automatisch
+zwischen dem aktuellen DAS -28-Wert und dem DAS-28-Wert der letzten Dokumentation automatisch
 
-berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt. Hierdurch können Sie direkt  sehen, **ob und wie stark sich die Krankheitsaktivität bei Ihrer Patientin bzw. Ihrem Patienten im Vergleich**  **mentation verändert hat**
+berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt. Hierdurch können Sie direkt  sehen, **ob und wie stark sich die Krankheitsaktivität bei Ihrer Patientin bzw. Ihrem Patienten im Vergleich**
 
-**zur letzten Doku**
+**zur letzten Dokumentation verändert hat**
 
-Bei einem DAS-28-Wert von 3,5 in der aktuellen Dokumentation und einem
+*Beispiel für die Ergebnisanzeige* Bei einem DAS-28-Wert von 3,5 in der aktuellen Dokumentation und einem
 
-*Beispiel für die Ergebnisanzeige*
+Wert von 4,2 in der letzten Dokumentation wird Ihnen automatisch folgendes angezeigt: ***„Aktueller DAS-28-***
 
-folgendes angezeigt: ***„Aktueller DAS-28-***
-
-Wert von 4,2 in der letzten Dokumentation wird Ihnen automatisch ***Wert: Moderate Krankheitsaktivität. Relevante Verbesserung zur letzten Dokumentation (moderates***
+***Wert: Moderate Krankheitsaktivität. Relevante Verbesserung zur letzten Dokumentation (moderates***
 
 ***Therapieansprechen)***
 
 #### Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation)
 
-ist erforderlich und zulässig.
+**Genau eine Angabe** ist erforderlich und zulässig.
 
-**Genau eine Angabe**
+Geben Sie hier an, seit wann die RA bei Ihrer Patientin oder Ihrem Patienten besteht. Geben Sie dabei an, ob
 
-Geben Sie hier an, seit wann die RA bei Ihrer Patientin oder Ihrem Patienten besteht. Geben Sie dabei an, ob  „Weniger als zwei Jahre oder Zwei Jahre oder mehr“ beträgt.
-
-die Erkrankungsdauer zum aktuellen Zeitpunkt
+die Erkrankungsdauer zum aktuellen Zeitpunkt „Weniger als zwei Jahre oder Zwei Jahre oder mehr“ beträgt.
 
 #### Klinische Einschätzung des Osteoporoserisikos durchgeführt
 
-**abe** ist erforderlich und zulässig.
+**Genau eine Angabe** ist erforderlich und zulässig.
 
-**Genau eine Ang**
+Die **klinische Einschätzung des Osteoporoserisiko** soll **mindestens einmal im Jahr** erfolgen. Geben Sie
 
-**Osteoporoserisiko** soll **mindestens einmal im Jahr** erfolgen. Geben Sie
-
-Die **klinische Einschätzung des**  „Ja“ an, wenn Sie das Osteoporoserisiko eingeschätzt h aben. Geben Sie „Nein“ an, wenn Sie das
+„Ja“ an, wenn Sie das Osteoporoserisiko eingeschätzt h aben. Geben Sie „Nein“ an, wenn Sie das
 
 Osteoporoserisiko nicht eingeschätzt haben. Es wird damit **nicht** abgefragt, ob Ihre Patientin bzw. Ihr Patient
 
@@ -194,7 +184,7 @@ Eine RA ist bei Frauen und Männern ein unabhängiger Risikofaktor für Frakture
 
 Glukokortikoidtherapie und andere klinischen Risikofaktoren das Auftreten einer Osteoporose. Die individuelle  Risikokonstellation bezüglich des Auftretens einer Osteoporose sollte daher einmal jährlich bei allen
 
-≥ 2,6 bis < 3,2 DAS-28- Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
+Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
 
 
 ---

@@ -160,9 +160,9 @@ Ort, Datum
 
 Stempel und Unterschrift 12
 
-[ ]
+**Rückruf erbeten** [ ]
 
-[ ]
+**Bitte senden Sie mir Ihr Gutachten / Ihre gutachterliche Äußerung zu**[ ] (Eine Erklärung der Patientin / des Patienten über die Entbindung des Ärztlichen Dienstes der  Bundesagentur für Arbeit von der ärztlichen Schweigepflicht lege ich bei oder reiche ich nach)
 
 [ ]
 
@@ -193,7 +193,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -208,4 +208,4 @@ Ich bitte um Überweisung auf das folgende Konto: 12
 | BIC: |
 | Bank/Sparkasse: |
 
-0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

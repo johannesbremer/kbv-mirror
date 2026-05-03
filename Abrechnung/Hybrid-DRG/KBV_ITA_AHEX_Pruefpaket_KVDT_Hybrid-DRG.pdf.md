@@ -206,14 +206,14 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 |---|---|
 | Betriebsstättennummer (BSNR): | 198209700 |
 | Lebenslange Arztnummer (LANR): |  |
-| Name: |  |
+| Name: | House |
 | Vorname: | Gregory |
 | Strasse: | Herbert-Lewin-Platz 2 |
 | PLZ Ort: | 10623 Berlin |
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
 
-004110101 HouseBevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
+004110101 Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
 
 
 ---
@@ -227,9 +227,9 @@ der dazu bestimmte Testschlüssel zu verwenden.
 
 # 4 PRÜFFÄLLE
 
-jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die
+Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die
 
-Durch das Feld „Versichertendaten“ Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige
+Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige
 
 Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. In den Prüffällen nicht genannte
 
@@ -237,15 +237,13 @@ bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu �
 
 Bei Verwenden eines Groupers wird  abweichend von Regelungen für Krankenhäuser  die
 
-mit der Jahreszahl des Tags der Durchführung der
+Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der
 
-Grouperversion für den vertragsärztlichen Bereich  Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am
+Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am
 
 09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
 
-Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung
-
-die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
+Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung  die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
 
 Die Prüffälle wurden mit dem Webgrouper der DRG-Research-Group getestet ([https://www.drg-research-](https://www.drg-research-)
 

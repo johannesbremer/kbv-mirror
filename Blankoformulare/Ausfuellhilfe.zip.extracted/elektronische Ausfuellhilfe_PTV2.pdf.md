@@ -141,23 +141,23 @@ Hat vor dem Zeitpunkt der jetzigen Antragstellung bereits eine Gutachterin oder 
 
 - **Erklärung Therapeut*in**
 
-nach den jeweils geltenden Best-
+Durch das Ankreuzen erklären Sie, dass Sie die beantragte Psychotherapie nach den jeweils geltenden Best-
 
-Durch das Ankreuzen erklären Sie, dass Sie die beantragte Psychotherapie immungen der vertragsärztlichen Versorgung (u. a. Psychotherapie-Richtlinie, Psychotherapie-Vereinba- Ärzte) durchführen und von der zuständigen
+immungen der vertragsärztlichen Versorgung (u. a. Psychotherapie-Richtlinie, Psychotherapie-Vereinba-
 
-rung sowie weitere Bestimmungen im Bundesmantelvertrag
+rung sowie weitere Bestimmungen im Bundesmantelvertrag  Ärzte) durchführen und von der zuständigen
 
-Ausführung und Abrechnung
+Kassenärztlichen Vereinigung die hierfür erforderlichen Genehmigungen zur Ausführung und Abrechnung
 
-Kassenärztlichen Vereinigung die hierfür erforderlichen Genehmigungen zur  erhalten haben.
-
-- und Weiterbildung zu bestätigen; in diesem
+erhalten haben.
 
 Bei Durchführung der Psychotherapie durch Teilnehmende einer Aus- oder Weiterbildung ist diese Erklä-
 
-rung ebenfalls durch die oder den Teilnehmende/n der Aus Fall ist im Unterschriftenfeld der Stempel und die zusätzliche Unterschrift der Ambulanz gemäß Para- graf 117 Absätze 3 bis 3b SGB V bzw. der Person erforderlich, die die Genehmigungen zur Durchführung  und Abrechnung hat (z. B. der Praxisinhaberin oder des Praxisinhabers mit einer bzw. einem genehmigten  nd/oder im Bericht an die Gut-
+rung ebenfalls durch die oder den Teilnehmende/n der Aus- und Weiterbildung zu bestätigen; in diesem
 
-Weiterbildungsassistentin bzw. -assistenten). Aus den Antragsunterlagen u achterin oder den Gutachter muss eindeutig hervorgehen, wer die Psychotherapie durchführt und wer die  Fallverantwortung hat (z. B. zuständige*r Supervisor*in).
+Fall ist im Unterschriftenfeld der Stempel und die zusätzliche Unterschrift der Ambulanz gemäß Para- graf 117 Absätze 3 bis 3b SGB V bzw. der Person erforderlich, die die Genehmigungen zur Durchführung  und Abrechnung hat (z. B. der Praxisinhaberin oder des Praxisinhabers mit einer bzw. einem genehmigten  Weiterbildungsassistentin bzw. -assistenten). Aus den Antragsunterlagen und/oder im Bericht an die Gut-
+
+achterin oder den Gutachter muss eindeutig hervorgehen, wer die Psychotherapie durchführt und wer die  Fallverantwortung hat (z. B. zuständige*r Supervisor*in).
 
 ## MEHR INFORMATIONEN
 

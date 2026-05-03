@@ -66,7 +66,7 @@ histologischen Nachweises histologischen Nachweises diagnostischen Sicherung von
 
 ---
 
-|  |  | Pathologisch | -  - . |
+|  |  | Pathologisch | -  - |
 |---|---|---|---|
 | 16 | T | X / Tis/ 0 / 1 / 2 / 3 / 4 | Pflichtfeld; Nur eine Angabe ist zulässig |
 | 17 | N | X / 0 / 1 / 2 / 3 | Pflichtfeld;  Nur eine Angabe ist zulässig |
@@ -85,13 +85,13 @@ histologischen Nachweises histologischen Nachweises diagnostischen Sicherung von
 |---|---|---|---|
 | 23 | Bei Patientinnen unter | Auffällig/Unauffällig/Unb | -  Nur eine Angabe ist zulässig |
 | Befunde und Therapie von Fernmetastasen | | | |
-| 24 | Lokalisation von | Knochen / viszeral/ | - |
+| 24 | Lokalisation von | Knochen / viszeral/ | -  Mehrfachnennungen sind möglich |
 | 25 | Therapie bei | a) Bisphosphonate: Ja  b) b)   Denosumab: | -  Mehrfachnennungen sind möglich |
 | Sonstige Befunde | | | |
 | 26 | Symptomatisches | Ja, | -  Nur eine Antwort ist zulässig |
 | 27 | Empfehlung zu | Ja/ Nein | -  Nur eine Antwort ist zulässig |
 
-Therapie durchgeführt adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund  ekannt Optionale Angabe ZNS/ Andere  Optionale Angabe Knochenmetastasen / Nein / Kontraindikation Ja / Nein / Kontraindikation Optionale Angabe Lymphödem  Kompressionsarmstrum pftherapie erforderlich / Ja, keine Kompressionsarmstrum pftherapie erforderlich / Optionale Angabe regelmäßigem körperlichen Training abgegeben Optionale Angabe
+adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund  Knochenmetastasen Lymphödem  regelmäßigem körperlichen Training abgegeben Therapie durchgeführt ekannt ZNS/ Andere  / Nein / Kontraindikation Ja / Nein / Kontraindikation Kompressionsarmstrum pftherapie erforderlich / Ja, keine Kompressionsarmstrum pftherapie erforderlich / Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe Optionale Angabe
 
 ---
 

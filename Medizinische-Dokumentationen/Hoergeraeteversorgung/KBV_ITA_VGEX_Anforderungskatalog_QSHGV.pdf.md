@@ -38,25 +38,17 @@ Schlüssels   nale Pflichtfunktion KP1-264 Schlüssels   Schlüssels   Schlüsse
 
 ---
 
-**2**
+**DOKUMENTENHISTORIE ___________________________________________________ 2**
 
-**DOKUMENTENHISTORIE ___________________________________________________**
+**INHALTSVERZEICHNIS_____________________________________________________ 3**
 
-**3**
-
-**INHALTSVERZEICHNIS_____________________________________________________**
-
-**4**
-
-**ABBILDUNGSVERZEICHNIS ________________________________________________**
+**ABBILDUNGSVERZEICHNIS ________________________________________________ 4**
 
 **1** **QUALITÄTSSICHERUNGSVEREINBARUNG HÖRGERÄTEVERSORGUNG _______ 5**
 
 **1.1** **Zielbestimmung ..............................................................................................................................5**
 
-**........................................................5**
-
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ........................................................5**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN _________________________________________ 6**
 
@@ -112,17 +104,13 @@ Abbildung 1 Berichtszeiträume .................................................
 
 ## 1.1 Zielbestimmung
 
-(Qualitätssicherungsvereinbarung Hörgeräteversorgung
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Hörgeräteversorgung (Qualitätssicherungsvereinbarung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Hörgeräteversorgung  01.04.2012) eingesetzt wird. Es wird quartalsweise eine elektronische Dokumentation zur Hör-
-
-geräteversorgung an die zuständige Datenannahmestelle übermittelt.
+01.04.2012) eingesetzt wird. Es wird quartalsweise eine elektronische Dokumentation zur Hör- geräteversorgung an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
--  die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachversorgung kor- rekt zu dokumentieren sowie -
-
--
+-  die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachversorgung kor- rekt zu dokumentieren sowie
 
 -  den quartalsweisen Datentransfer an die Datenannahmestelle zu realisieren.
 
@@ -130,9 +118,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Kategorien  zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und daneben  optionale Funktionen.
 
-müssen in der Anwendungssoftware implementiert sein.
-
-**Pflichtfunktionen**
+**Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu
 
@@ -162,8 +148,11 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | K8-30 | Funktionsbezeichnung                                                                            (2 |
 
-(2-70) -80) Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident -Nummer einer älteren Version
 
+Hörgeräteversorgung -
+
+(2-70) -80)
 
 ---
 
@@ -177,9 +166,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | P1-10 | Vollständigkeit der Eingaben aller Bewegungsdaten |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller relevan-
-
-ten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung ermöglichen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller relevan- ten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung ermöglichen.
 
 Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [ KBV_ITA_VGEX_Schnitt-
 
@@ -189,9 +176,9 @@ stelle_QSHGV] festgelegten Datenelemente müssen vollständig erfassbar sein.
 |---|---|
 | K1-15 | Vorbelegung von Datenfeldern |
 
-Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit sicher-
+Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit sicher-
 
-Eine Vorbelegung von  gestellt ist, dass die Daten korrekt übernommen werden.
+gestellt ist, dass die Daten korrekt übernommen werden.
 
 Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
 
@@ -201,24 +188,22 @@ Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Dat
 
 Die (Vor) Verordnungen/ Nach Verordnungen werden ab 01.04.2013 quartalsweise erfasst.
 
-wird als auch das Quartal, in dem die Nachuntersuchung / Nachsorge
+Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die Nachuntersuchung / Nachsorge  durchgeführt wird
 
-Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt
+Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal.  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
 
-durchgeführt wird
+Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS-Datensätze ausgewertet.
 
-Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin-
+### Meldequartal
 
-den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
-
-Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS -Datensätze ausgewertet.
+## Verordnungsquartal
 
 **Abbildung 1 Berichtszeiträume**
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung |
 |---|
 
-## Verordnungsquartal Meldequartal
+In ihm fin-
 
 ### Auswertungs- quartal
 
@@ -350,7 +335,7 @@ unterschiedlich kennzeichnen.
 
 | Optionale FUNKTION QS Hörgeräteversorgung | |
 |---|---|
-| K1-136 | Datenübernahme aus dem PVS 1 |
+| K1-136 | Datenübernahme aus dem PVS 1 1 |
 
 Plausibilität
 
@@ -529,9 +514,7 @@ Schnittstellenbeschreibung
 
 ## 2.2 Versicherteninformationen
 
-### Administratives Geschlecht des Patienten
-
-**2.2.1**
+**2.2.1 Administratives Geschlecht des Patienten**
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung | |
 |---|---|
@@ -545,9 +528,11 @@ Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermit
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss das administrative Geschlechts des Patienten im Element <admi-
+- 1.
 
 - nistrative_gender_cd> als Teil der administrativen Daten übermitteln.
+
+- Das System muss das administrative Geschlechts des Patienten im Element <admi-
 
 Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - Schnittstelle (siehe Kapitel 6.10.6.2 KBV_ITA_VGEX_Schnittstelle_eHeader) abhängig.
 
@@ -559,23 +544,21 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML - S
 | divers | - | UN |
 | unbestimmt | UN | X |
 
-**Tabelle 1** Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1)
+Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1)
+
+**Tabelle 1**
 
 ## 2.3 Datenübermittlung
 
-### Übermittlung
-
-### 2.3.1
+### 2.3.1 Übermittlung
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung | |
 |---|---|
 | P1-250 | Übermittlung an die Datenannahmestelle |
 
-Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme-
+Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme- stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequartals
 
-artals
-
-stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequ auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle sen- den.
+auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle sen- den.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung | |
 |---|---|
@@ -604,7 +587,7 @@ Wenn KV für das Verfahren QSHGV das KIM-Verfahren gemäß der [Spezifikation_eD
 
 unterstützt, dann enthält die SDKVCA einen entsprechenden Eintrag.
 
-| KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung | |
+|  | |
 |---|---|
 | KP1-264 | Importstatus von der Datenannahmestelle |
 
@@ -623,7 +606,7 @@ Es sind folgende Import-Status möglich:
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
+| OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese übermittelt. |
 
@@ -647,7 +630,7 @@ Das PVS muss dem Anwender den Importstatus in geeigneter Weise anzeigen.
 
 Das System muss
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
+KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
 
 
 ---

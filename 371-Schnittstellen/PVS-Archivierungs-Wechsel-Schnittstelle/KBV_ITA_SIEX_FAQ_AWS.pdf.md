@@ -102,13 +102,9 @@ Selbstzahler) abgebildet?
 
 4.3 Labordatenkommunikation - LDT 10
 
-4.4 Wie Müssen die Dateien beim Export in deR ablagestruktur zur Verfügung gestellt werden?
+4.4 Wie Müssen die Dateien beim Export in deR ablagestruktur zur Verfügung gestellt werden? 10
 
-10
-
-Verordnungen von Hilfsmitteln mit Muster 16 übertragen 4.5 Wie werden die
-
-11
+4.5 Wie werden die Verordnungen von Hilfsmitteln mit Muster 16 übertragen 11
 
 4.6 Es kann nur ein oder kein Datum einer Anlage im System gespeichert werden 11
 
@@ -130,7 +126,7 @@ Verordnungen von Hilfsmitteln mit Muster 16 übertragen 4.5 Wie werden die
 
 5.4 Darstellen der Provenienzen (Änderungsinformation) 14
 
-5.4.1 Anforderungen
+Anforderungen 5.4.1
 
 14
 
@@ -138,9 +134,11 @@ Verordnungen von Hilfsmitteln mit Muster 16 übertragen 4.5 Wie werden die
 
 15
 
-5.4.3 System ohne Benutzerverwaltung.
+5.4.3
 
 15
+
+System ohne Benutzerverwaltung.
 
 **6** **VALIDIERUNG**
 
@@ -176,7 +174,7 @@ BEKANNTE FEHLER KBV_Profil KBV_PR_AW_Report_Import
 
 ---
 
-| Version | Datum | Autor |  | Begründung | Seite |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.10.001 | 01.08.2019 | KBV | Initiale Erstellung | Neues Dokument | alle |
 | 1.10.002 | 01.11.2019 | KBV | Div. Ergänzungen |  | alle |
@@ -184,37 +182,31 @@ BEKANNTE FEHLER KBV_Profil KBV_PR_AW_Report_Import
 | 1.2.0 | 05.02.2021 | KBV | Kapitel 5.1 aktualisiert |  | 9 |
 | 1.2.0 | 18.06.2021 | KBV | Kapitel 1.3, 5 und 6 |  | alle |
 | 1.2.0 | 14.07.2021 | KBV | Neue Kapitel 4.6 |  | 11, 14, 18, 19 |
-| 1.2.0 | 15.11.2021 | KBV | „Alternativwerte | Aufnahme in |  |
+| 1.2.0 | 15.11.2021 | KBV | Kapitel 7.3 | Aufnahme in |  |
 | 1.3 | 13.05.2022 | KBV | Kapitel 6.2 |  | 17 |
 
 - UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
-eingefügt aktualisiert. , 5.4, 7.3 und 8. Kapitel 7.3 entfernt und 6.3 eingefügt   von STU3 auf R4 Anforderungs - katalog
+eingefügt aktualisiert. , 5.4, und 8. „Alternativwerte entfernt und 6.3 eingefügt   von STU3 auf R4 Anforderungs - katalog
 
 
 ---
 
-# 0
-
-# FAQ ZUR VERSION 1.2.
+# FAQ ZUR VERSION 1.2.0
 
 In diesem Dokument werden häufige Fragen zur Archiv - und Wechselschnittstelle erläutert.
 
 # 1 ALLGEMEIN
 
-## UEN VERSION 1.2.0
+## 1.1 VERFÜGBARKEIT DER NEUEN VERSION 1.2.0
 
-## 1.1 VERFÜGBARKEIT DER NE
-
-Die neue Version 1.2.0 bildet die vollständige Umstellung von FHIR STU3 auf R4 ab. Zusätzlich wurde  ein Bugfix durchgeführt. Die Version
-
-kleinere Erweiterungen vorgenommen sowie 1.2.0 beinhaltet zudem
-
-Dieser Funktionsumfang wird nach Erreichen der
+Die neue Version 1.2.0 bildet die vollständige Umstellung von FHIR STU3 auf R4 ab. Zusätzlich wurde  kleinere Erweiterungen vorgenommen sowie ein Bugfix durchgeführt. Die Version 1.2.0 beinhaltet zudem
 
 die Besonderheit, dass nur einige administrative Profile verpflichtend als Basisversion bis zum Stichtag
 
-umgesetzt und zertifiziert werden müssen.  Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung des erweiterten Umfangs
+umgesetzt und zertifiziert werden müssen. Dieser Funktionsumfang wird nach Erreichen der
+
+Umsetzungsfrist sukzessive durch die KBV erweitert. Eine erneute Zertifizierung des erweiterten Umfangs
 
 dieser Version ist nicht mehr notwendig. Die Version 1.2.0. ersetzt die Vorversion 1.10.001.
 
@@ -224,29 +216,25 @@ dieser Version ist nicht mehr notwendig. Die Version 1.2.0. ersetzt die Vorversi
 
 **Fall 1: PVS A hat gleichen Funktionsumfang wie PVS B**
 
-enerellen Anforderungen für den Wechsel von PVS
+Für den Fall des gleichen Funktionsumfangs gelten die g enerellen Anforderungen für den Wechsel von PVS
 
-Für den Fall des gleichen Funktionsumfangs gelten die g A nach PVS B
+A nach PVS B
 
 **Export** aus PVS A
 
-- n Informationen müssen exportiert werden
+- Alle in der Hoheit des PVS liegende n Informationen müssen exportiert werden
 
--  Alle in der Hoheit des PVS liegende (KBV_ITA_VGEX_Anforderungsk atalog_AW-SST (ANF_AWS) **P6-00**
+- (KBV_ITA_VGEX_Anforderungsk atalog_AW-SST (ANF_AWS) **P6-00**
 
-- **P6-01**
-
--  Strukturierte Daten (ANF_AWS
+- Strukturierte Daten (ANF_AWS **P6-01**
 
 - Unstrukturierte Daten (ANF_AWS **P6-02)**
 
-**Import** in PVS B -
+**Import** in PVS B
 
--  ANF_AWS **P7-00 und folgende**
+- ANF_AWS **P7-00 und folgende**
 
-**PVS B**
-
-**Fall 2: PVS A hat größeren Funktionsumfang als**
+**Fall 2: PVS A hat größeren Funktionsumfang als PVS B**
 
 Funktionsumfang von PVS A: - Patientendaten
 
@@ -256,17 +244,15 @@ Funktionsumfang von PVS A: - Patientendaten
 
 Funktionsumfang von PVS B: - Patientendaten
 
--
-
--  Arzt-Patientenkontakt (Begegnung)
+- Arzt-Patientenkontakt (Begegnung)
 
 **Export** aus PVS A - Patientendaten
 
+- FHIR -Ressourcen Patient (74_PR_AW_Patient)
+
+- FHIR -Ressourcen Arzt -Patientenkontakt (74_PR_AW_Begegnung) -
+
 -
-
--  FHIR -Ressourcen Patient (74_PR_AW_Patient) -
-
--  FHIR -Ressourcen Arzt -Patientenkontakt (74_PR_AW_Begegnung)
 
 - UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
@@ -275,55 +261,45 @@ Funktionsumfang von PVS B: - Patientendaten
 
 - Terminplan
 
--
-
--  FHIR -Ressourcen (74_PR_AW_Termin) - eDMP
+- FHIR -Ressourcen (74_PR_AW_Termin) - eDMP
 
 - FHIR -Ressourcen Anlage (74_PR_AW_Anlage)
 
-**Import** in PVS B - **P7-01**
+**Import** in PVS B
 
--  Patientendaten sind relevant nach
+- Patientendaten sind relevant nach **P7-01**
 
 - Ressourcen Patient in **strukturierte Datenbank**
 
-- -mal in **strukturierte Datenbank**
-
--  Ressourcen Arzt -Patientenkontakt (Begegnung) x
+- Ressourcen Arzt -Patientenkontakt (Begegnung) x -mal in
 
 - Terminplan ist nach ANF -AWS** P07-01** nicht unbedingt relevant
 
 - Müssen/Können nicht importiert werden
 
-- Profil KBV -Profil 74_PR_AW_Report_Import -  Eintrag in Instanz von
+- Eintrag in Instanz von Profil KBV -Profil 74_PR_AW_Report_Import
 
 - Nach ANF-AWS **P07-01 Satz 5**
 
-- eDMP nach ANF -AWS **P07-01** relevant -  Patientenbezogene
-
-- Müssen importiert werden
+- Patientenbezogene eDMP nach ANF -AWS **P07-01** relevant - Müssen importiert werden
 
 - Als Anlage mit Profil 74_PR_AW_Anlage
 
-- DMPs sind nach ANF-AWS** P07-01** nicht unbedingt relevant -  Betriebsstättenbezogene e
+- Betriebsstättenbezogene eDMPs sind nach ANF-AWS** P07-01**
 
 - Müssen nicht importiert werden
 
-- Profil KBV -Profil 74_PR_AW_Report_Import -  Eintrag in Instanz von
+- Eintrag in Instanz von Profil KBV -Profil 74_PR_AW_Report_Import
 
 - Nach ANF-AWS **P07-01 Satz 5**
 
-**PVS B**
-
-**Fall 3: PVS A hat kleineren Funktionsumfang als**
+**Fall 3: PVS A hat kleineren Funktionsumfang als PVS B**
 
 In diesem Fall sind alle Inhalte des Exports von PVS A in das PVS B zu übernehmen.
 
-## 1.3 WIE MUSS MIT INFORMA TIONEN UMGEGANGEN WE RDEN, DIE NICHT DIREKT IMPORTIERT
+## 1.3 WIE MUSS MIT INFORMA TIONEN UMGEGANGEN WE RDEN, DIE NICHT DIRE WERDEN KÖNNEN?
 
-## WERDEN KÖNNEN?
-
-Ist ein Import der I nformationen in direkt dafür vorhergesehene Felder nicht möglich, wird generell  zwischen zwei Fällen unterschieden: -
+Ist ein Import der I nformationen in direkt dafür vorhergesehene Felder nicht möglich, wird generell  zwischen zwei Fällen unterschieden:
 
 - 1. Behandlungsrelevante Informationen (nach BGB 630f) bspw.: -  Patientenakte
 
@@ -335,22 +311,30 @@ Ist ein Import der I nformationen in direkt dafür vorhergesehene Felder nicht m
 
 -  Befunde
 
+Behandlungsreleva nte Informationen , Inklusive deren Berichtigungen und Änderungen bleiben. D.h. diese Informationen müssen im Zielsystem integriert werden, dazu gibt es zwei grundsätzliche
+
+Ansätze. Zum einen können die Informationen fachlich sinnvoll  werden oder als Anlage (z.B. PDF) ebenfalls fachlich sinnvoll  bedeutet dies, dass Informationen z.B. aus dem Profil KBV_PR_AW_Patient, KBV_PR_AW_Begegnung,  KBV_PR_AW_Diagnose, usw. übernommen werden müssen. Siehe auch [P7
+
+fachlich zusammenhängenden Informationen bspw. in einer PDF
+
+- UND WECHSELSCHNITTSTELLE / 13. Mai 2022 - **strukturierte Datenbank**
+
+-
+
+- nicht unbedingt relevant
+
+-
+
+## KT IMPORTIERT -
+
 , müssen erhalten
 
-Behandlungsreleva nte Informationen , Inklusive deren Berichtigungen und Änderungen bleiben. D.h. diese Informationen müssen im Zielsystem integriert werden, dazu gibt es zwei grundsätzliche  zugeo rdnet in Freitextfeldern o.Ä. hinterlegt
+zugeo rdnet in Freitextfeldern o.Ä. hinterlegt  zugeordnet angehängt werden. Für die AWS -01]. Ein Zusammenfassen von
 
-Ansätze. Zum einen können die Informationen fachlich sinnvoll  werden oder als Anlage (z.B. PDF) ebenfalls fachlich sinnvoll zugeordnet angehängt werden. Für die AWS
-
-bedeutet dies, dass Informationen z.B. aus dem Profil KBV_PR_AW_Patient, KBV_PR_AW_Begegnung,  KBV_PR_AW_Diagnose, usw. übernommen werden müssen. Siehe auch [P7 -01]. Ein Zusammenfassen von
-
-fachlich zusammenhängenden Informationen bspw. in einer PDF -Anlage ist ebenfalls möglich.
-
-- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
+-Anlage ist ebenfalls möglich.
 
 
 ---
-
--
 
 - 2. Nicht Behandlungsrelevante Informationen (bspw.): -  Terminverwaltung
 
@@ -358,45 +342,43 @@ fachlich zusammenhängenden Informationen bspw. in einer PDF -Anlage ist ebenfal
 
 -  Behandlungsbaustein
 
-**könnenin der Report_Import**
+**Grundsätzlich müssen Informationen, die nicht direkt importiert werden können , in der Report_Import**
 
-**Grundsätzlich müssen Informationen, die nicht direkt importiert werden**  **aufgeführt und die Änderung** **(z.B. Anlage als Anhang) erläutert werden.**
+**aufgeführt und die Änderung** **(z.B. Anlage als Anhang) erläutert werden.**
 
-lsystem integriert werden.
-
-Nicht Behandlungsrelevante Informationen müssen nicht zwangsläufig ins Zie
+Nicht Behandlungsrelevante Informationen müssen nicht zwangsläufig ins Zie lsystem integriert werden.
 
 Gemäß [P7 -01 Punkt 6] müssen die Anlagen aus dem Profil KBV_PR_AW_Anlage an einem vom Anwender  auswählbaren Ort erhalten bleiben.
 
-## ER SCHNITTSTELLE ABW ÄRTSKOMPATIBEL?
-
-## 1.4 SIND DIE VERSIONEN D
+## 1.4 SIND DIE VERSIONEN D ER SCHNITTSTELLE ABWÄRTSKOMPATIBEL?
 
 Die AW-SST ist derzeit nicht abwärtskompat ibel, der Anwender muss die Kompatibilität von Export - und
 
-Importsystem selbstständig herstellen können. Dazu sind dem Anwender beim Export alle vom System  Format „X.X.X“ zur Auswahl anzuzeigen (siehe P6-
+Importsystem selbstständig herstellen können. Dazu sind dem Anwender beim Export alle vom System
 
-unterstützten/zertifizierten Schnittstellenversionen im  20).
+unterstützten/zertifizierten Schnittstellenversionen im Format „X.X.X“ zur Auswahl anzuzeigen (siehe P6-
 
--SST erfolgen , die im Export -Verzeichnis vorliegt (siehe
+20).
 
-Der Import darf nur mit der gleichen Version der AW P7-07).
+Der Import darf nur mit der gleichen Version der AW -SST erfolgen , die im Export -Verzeichnis vorliegt (siehe
 
--Version (letzte Stelle) „X.X.**X**
+P7-07).
 
-Zu einem späteren Zeitpunkt soll eine Abwärtskompatibilität mit der Minor hergestellt werden, sodass der Export/Import nur noch mit der gleichen Major -Version „**X.X**.X“ (ersten
+Zu einem späteren Zeitpunkt soll eine Abwärtskompatibilität mit der Minor -Version (letzte Stelle) „X.X.**X**
+
+hergestellt werden, sodass der Export/Import nur noch mit der gleichen Major -Version „**X.X**.X“ (ersten
 
 beiden Stellen) gefordert wird.
 
 Hinweis: Die Abwärtskompatibilität bei der reinen Archivierung ist immer über den menschenlesbaren Teil  (PDF) gewährleistet.
 
-## IE MENSCHENLESBAREN P DFS DEAKTIVIERT WERD EN?
+## 1.5 KÖNNEN BEIM EXPORT D IE MENSCHENLESBAREN PDFS DEAKTIVIERT WERDEN?
 
-## 1.5 KÖNNEN BEIM EXPORT D
+In der aktuellen Version der AW -SST müssen die menschenlesbaren PDFs immer generiert werden. Es wird
 
-In der aktuellen Version der AW -SST müssen die menschenlesbaren PDFs immer generiert werden.  ein zusätzliche r Status für den Export (Testexport) ein geführt, mit dem für Testzwecke  Es wird
+in der Version 1.2.0 ein zusätzliche r Status für den Export (Testexport) ein geführt, mit dem für Testzwecke
 
-in der Version 1.2.0  die menschenlesbaren PDFs deaktiviert werden könn ten.
+die menschenlesbaren PDFs deaktiviert werden könn ten.
 
 - UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
@@ -460,9 +442,7 @@ Hinweis: Die technische Möglichkeit den Multiplikator durch Wiederholen des Ele
 
 ## 3.2 WIE WERDEN GOPN AUS NICHT IN DER AW -SST DEFNIE RTEN CODESYSTEMEN (Z.B. HEILPRAKTIKER
 
-## ABGEBILDET?
-
-## ODER SELBSTZAHLER
+## ODER SELBSTZAHLER ABGEBILDET?
 
 GOPn (Rechnungspositionen) aus nicht spezifizierten Codesystemen können im KBV -Profil
 
@@ -474,31 +454,23 @@ Das eigene Codesystem muss mit einer Bezeichnung, dem Code und einer aussagekrä
 
 bekannt gemacht und nach [P5 -02] (Akzeptanzkriterium 2) bereitgestellt werden.
 
-## - UND SACHKOSTEN MIT ANZAHL > 1 ABGEBILDE T WERDEN?
+## 3.3 WIE SOLLEN MATERIAL- UND SACHKOSTEN MIT ANZAHL > 1 ABGEBILDE T WERDEN?
 
-## 3.3 WIE SOLLEN MATERIAL
+Die Material- und Sachkosten mit Anzahl > 1 müssen durch wiederholen des Claim.item.detail [ 0..* ] im
 
-Die Material- und Sachkosten mit Anzahl > 1 müssen durch wiederholen des Claim.item.detail [ 0..*  dargestellt werden.
-
-] im
-
-KBV-Profils KBV_PR_AW_Abrechnung_vorlaeufig
+KBV-Profils KBV_PR_AW_Abrechnung_vorlaeufig dargestellt werden.
 
 ## 3.4 WIE SOLLEN MEHRERE OP-SCHLÜSSEL ABGEBILDET WERDEN?
 
-n der KBV -Profile
+Mehrere OP-Schlüssel werden in einer Kombinatio n der KBV -Profile
 
-Mehrere OP-Schlüssel werden in einer Kombinatio
+KBV_PR_AW_Ambulante_Operation_General und KBV_PR_AW_Ambulante_Operation abgebildet. Der  erste OP-Schlüssel wird im Element Procedure.code im KBV -Profil
 
-KBV_PR_AW_Ambulante_Operation_General und KBV_PR_AW_Ambulante_Operation abgebildet. Der  -Profil
+KBV_PR_AW_Ambulante_Operation_General abgebildet. Alle weiteren OP-Schlüssel (2 bis unendlich)
 
-erste OP-Schlüssel wird im Element Procedure.code im KBV -Schlüssel (2 bis unendlich)
+werden im Element Procedure.code im KBV-Profil KBV_PR_AW_Ambulante_Operation dargestellt. Für
 
-KBV_PR_AW_Ambulante_Operation_General abgebildet. Alle weiteren OP werden im Element Procedure.code im KBV-Profil KBV_PR_AW_Ambulante_Operation dargestellt. Für
-
-ist eine separate Ressource KBV_PR_AW_Ambulante_Operation zu erstellen
-
-jeden weiteren OP-Schlüssel
+jeden weiteren OP-Schlüssel ist eine separate Ressource KBV_PR_AW_Ambulante_Operation zu erstellen
 
 und im Element Procedure.partOf mit der Ressource KBV_ PR_AW_Ambulante_Operation_General zu
 
@@ -506,29 +478,27 @@ verknüpfen.
 
 ## 3.5 WIE WIRD EIN TNM-CODE ÜBERTRAGEN?
 
-soll mit R- und G-Code nach UICC -Stadium der Tumorerkrankung angegeben
-
 Ein TNM -Code soll im Profil KBV_PR_AW_Diagnose im Attribut „note“ (Diagnoseerlaeuterung ) übertragen
 
-werden. Der TNM-Status  werden.
+werden. Der TNM-Status soll mit R- und G-Code nach UICC -Stadium der Tumorerkrankung angegeben
+
+werden.
 
 Beispiel: rT1N2M1G2R1
 
-## KBV-PROFIL KBV_PR_AW_ABRECHNUNG_VORLAEUFIG
+## 3.6 BESONDERHEIT BEI DEM KBV-PROFIL KBV_PR_AW_ABRECHNUNG_VORLAEUFIG
 
-## 3.6 BESONDERHEIT BEI DEM
+Es darf je maximal eine Instanz der KBV -Profile, KBV_PR_AW_Abrechnung_Privat,
 
-Es darf je maximal eine Instanz der KBV -Profile, KBV_PR_AW_Abrechnung_Privat,  orgung_Selektiv,
+KBV_PR_AW_Abrechnung_BG, KBV_PR_AW_Abrechnung_HzV_BesondereVersorgung_Selektiv,
 
-KBV_PR_AW_Abrechnung_BG, KBV_PR_AW_Abrechnung_HzV_BesondereVers -Profil KBV_PR_AW_Abrechnung_Vorlaeufig
+KBV_PR_AW_Abrechnung_Vertragsaerztlich je KBV-Profil KBV_PR_AW_Abrechnung_Vorlaeufig
 
-KBV_PR_AW_Abrechnung_Vertragsaerztlich je KBV auftreten/referenziert werden
+auftreten/referenziert werden
 
--goae, hzv_selektiv) sollte ein gesondertes KBV-Profil
+Pro Gebührenordnung (bmae, e -go, ebm, goae, uv-goae, hzv_selektiv) sollte ein gesondertes KBV-Profil
 
-Pro Gebührenordnung (bmae, e -go, ebm, goae, uv vorliegen.
-
-KBV_PR_AW_Abrechnung_V orlaeufig
+KBV_PR_AW_Abrechnung_V orlaeufig vorliegen.
 
 - UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
@@ -673,9 +643,9 @@ wird in der kommenden AWS -Version als optionales Element mit „must support“
 
 ## 5.1 ÜBERBLICK
 
-den Provenance - Ressourcen für die jeweiligen Unterscheidungen in
+Die folgenden Illustrationen sollen einen kurzen Überblick über die verschiedenen Funktionalitäten und  Zusammenhänge von Ressourcen und den Provenance - Ressourcen für die jeweiligen Unterscheidungen in
 
-Die folgenden Illustrationen sollen einen kurzen Überblick über die verschiedenen Funktionalitäten und  Zusammenhänge von Ressourcen und  Bezug auf Versionierung un d Benutzerverwaltung je System zeigen.
+Bezug auf Versionierung un d Benutzerverwaltung je System zeigen.
 
 Die Felderlegende besteht aus Ressourcen und Provenance -Ressourcen .
 
@@ -690,21 +660,13 @@ gespeichert. Eine direkte Nachverfolgung und ggf. Rekonstruktion der Gegebenheit
 
 ---
 
-: Das System verfügt über weder eine Versionierung / Historis
-
-**Fall Nr. 2**
-
-ierung, noch über eine
+**Fall Nr. 2** : Das System verfügt über weder eine Versionierung / Historisierung, noch über eine
 
 Benutzerverwaltung. Jede Ressource existiert nur in seiner aktuellen Form, ggf. mit der dazugehörigen
 
 Versionsnummer und der Information über die letzte Änderung.
 
-: Das System verfügt über eine Versionierung, aber keine Benutzerverwaltung. Die
-
-**Fall Nr. 3**
-
-einzelnen
+**Fall Nr. 3**: Das System verfügt über eine Versionierung, aber keine Benutzerverwaltung. Die einzelnen
 
 Versionen der Ressourcen sind vorhanden, die dazugehörigen Änderungen der Benutzer jedoch nicht.
 
@@ -754,69 +716,63 @@ Es sind alle behandlungsrelevanten Informationen zu importieren [Anforderung P7 
 
 ---
 
-*unmittelbarem zeitlichen*
+§ 630f Dokumentation der Beha ndlung BGB  *(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in unmittelbarem zeitlichen*
 
-§ 630f Dokumentation der Beha ndlung BGB  *(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in*  *Zusammenhang mit der Behandlung eine Patientenakte in Papierform oder elektronisch zu führen.*  *Berichtigungen und Änderungen von Eintragungen in der Pa tientenakte sind nur zulässig, wenn neben dem*
-
-*ursprünglichen Inhalt erkennbar bleibt, wann sie vorgenommen worden sind. Dies ist auch für elektronisch*  *geführte Patientenakten sicherzustellen.*
+*Zusammenhang mit der Behandlung eine Patientenakte in Papierform oder elektronisch zu führen.*  *Berichtigungen und Änderungen von Eintragungen in der Pa tientenakte sind nur zulässig, wenn neben dem*  *ursprünglichen Inhalt erkennbar bleibt, wann sie vorgenommen worden sind. Dies ist auch für elektronisch*  *geführte Patientenakten sicherzustellen.*
 
 Export:
 
-venienzen) zu exportieren. [Anforderung P6 -00]
-
-Es sind vollständig alle vorhandenen Inhalte (hier Pro
+Es sind vollständig alle vorhandenen Inhalte (hier Pro venienzen) zu exportieren. [Anforderung P6 -00]
 
 ### 5.4.2 System mit Benutzerverwaltung.
 
-oder zumindest
+Das System verfügt über die notwendige Funktionalität die Änderungsinformation an allen oder zumindest
 
-Das System verfügt über die notwendige Funktionalität die Änderungsinformation an allen  strukturiert zu speichern.
+an den behandlungsrelevanten Informationen strukturiert zu speichern.
 
-an den behandlungsrelevanten Informationen
-
-Ressourcen des KBV-Profils
-
-Import: Es sind die Inhalte aus allen bzw. der behandlungsrelevanten
+Import: Es sind die Inhalte aus allen bzw. der behandlungsrelevanten Ressourcen des KBV-Profils
 
 KBV_PR_AW_Provenienz strukturiert in das System zu übernehmen.
 
 Hinweis: Werden nur die behandlungsrelevanten Ressourcen übernommen, verliert der Anwender seine
 
-muss dies im Report zum Import entsprechend dokumentier t und dem Nutzer
+ursprüngliche Information , muss dies im Report zum Import entsprechend dokumentier t und dem Nutzer
 
-ursprüngliche Information ,  angezeigt werden. [Anforderung KP7 -05]
+angezeigt werden. [Anforderung KP7 -05]
 
-im System vorhandenen Änderungsinformation in die Instanzen des KBV -Profils
+Export : Es sind alle im System vorhandenen Änderungsinformation in die Instanzen des KBV -Profils
 
-Export : Es sind alle  zu exportieren. Dazu gehören sowohl die unveränderten Informationen zu
+KBV_PR_AW_Provenienz zu exportieren. Dazu gehören sowohl die unveränderten Informationen zu
 
-KBV_PR_AW_Provenienz  ursprünglichen Provenienzen von einem möglichen Import als auch die im System erzeugten  Ressourcen. Der aktuelle Z ustand wird im Element
+ursprünglichen Provenienzen von einem möglichen Import als auch die im System erzeugten  Änderungsinformation zu neuen oder geänderten Ressourcen. Der aktuelle Z ustand wird im Element
 
-Änderungsinformation zu neuen oder geänderten  Provenance.activity.coding.code bspw. mit create (neu erstellt) oder update (geändert) dargestellt.
+Provenance.activity.coding.code bspw. mit create (neu erstellt) oder update (geändert) dargestellt.
 
 ### 5.4.3 System ohne Benutzerverwaltung.
 
-strukturiert zu
+Das System verfügt nicht über die notwendige Funktionalität die Änderungsinformation strukturiert zu
 
-Das System verfügt nicht über die notwendige Funktionalität die Änderungsinformation  speichern.
+speichern.
 
-Import : Es sind die Inhalte aller Ressourcen oder mindestens aller behandlungsrelevanten Ressourcen des  in das System zu übernehmen. Dazu können die folgenden Varianten
+Import : Es sind die Inhalte aller Ressourcen oder mindestens aller behandlungsrelevanten Ressourcen des
 
-KBV-Profils KBV_PR_AW_Provenienz  genutzt werden: - 1. Speichern als Anlage
+KBV-Profils KBV_PR_AW_Provenienz in das System zu übernehmen. Dazu können die folgenden Varianten
 
-Ebenso
+genutzt werden: - 1. Speichern als Anlage
 
-Die Inhalte der Provenienzen kö nnen in einer Anlage bspw. im PDF-Format übernommen werden.  könnten die Provenienzen unverändert im FHIR -XML-Format übernommen werden.
+Die Inhalte der Provenienzen kö nnen in einer Anlage bspw. im PDF-Format übernommen werden. Ebenso
+
+könnten die Provenienzen unverändert im FHIR -XML-Format übernommen werden.
 
 Für diese Anlagen ist zu beachten, dass alle Informationen und vorhandenen Beziehungen zu erhalten sind.
 
-zu einer Ressource in einer Anlage
+D.h. dass die Änderungsinformation bspw. eines Patienten als separate Anlage zum Patienten importiert  werden muss. Es empfiehlt sich, die gesamte Änderungsinformation zu einer Ressource in einer Anlage
 
-D.h. dass die Änderungsinformation bspw. eines Patienten als separate Anlage zum Patienten importiert  werden muss. Es empfiehlt sich, die gesamte Änderungsinformation  zusammenzufassen und zu verknüpfen .
+zusammenzufassen und zu verknüpfen .
 
-Hinweis: Es ist zu beachten , dass Begegnungs -Provenienz -Ressourcen nicht in einer Anlage  zu unterschiedlichen Begegnungen verknüpft worden sind.
+Hinweis: Es ist zu beachten , dass Begegnungs -Provenienz -Ressourcen nicht in einer Anlage  zusammengefasst werden, die ursprünglich zu unterschiedlichen Begegnungen verknüpft worden sind.
 
-zusammengefasst werden, die ursprünglich - UND WECHSELSCHNITTSTELLE /
+- UND WECHSELSCHNITTSTELLE /
 
 
 ---

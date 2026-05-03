@@ -19,31 +19,17 @@ Version 7.0
 
 Genau eine Angabe ist erforderlich und zulässig.
 
-geben Sie
-
-Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient an einer stabilen Angina pectoris leidet oder  nicht. Falls eine Angina pectoris vorliegt,
-
-bitte einen Schweregrad der Belastungstoleranz
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient an einer stabilen Angina pectoris leidet oder  nicht. Falls eine Angina pectoris vorliegt, geben Sie bitte einen Schweregrad der Belastungstoleranz
 
 an. Die Schweregradeinteilung erfolgt dabei nach der Klassifikation der Canadian Cardiovascular  Society (CCS). Nachstehende Grafik zeigt die CCS -Einteilung. Diese bezieht sich ausschließlich  auf die stabile Angina pectoris.
 
-als Ausprägung
-
-akuten
-
-ist im
-
-Eine Instabile Angina pectoris
-
-des
-
-Koronarsyndroms
+Eine Instabile Angina pectoris als Ausprägung des akuten Koronarsyndroms ist im
 
 Dokumentationsfeld „Relevante Ereignisse“ zu dokumentieren.
 
-Langfassung, 1. Auflage.
+Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK  Langfassung, 1. Auflage.
 
-Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK  Version 7. 2024.
+Version 7. 2024.
 
 **LDL-Cholesterin**
 
@@ -155,7 +141,7 @@ Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchge
 
 |  | Eine Angabe zu diesem Feld ist nur |
 |---|---|
-| Bei der | Die Angabe „Ja“ soll nur erfolgen, wenn zum |
+| Bei der | Bitte geben Sie an |
 |  |  |
 |  | Gemeint sind hierbei folgende Schulungsmaßnahmen: |
 | a) akkreditierte und für das DMP zugelassene Schulungen, sowie |  |
@@ -166,7 +152,7 @@ Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchge
 | Hoch (relative LDL- | Atorvastatin 40-80 mg |
 |  | Rosuvastatin 20-40 mg |
 
-Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem Feld ist erforderlich und zulässig Dosis“ die Angabe „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist. Bei der Verordnung von Statinen wird empfohlen, dass Dosis (hoch oder moderat ) oder alternativ eine Zielwert-Strategie gemeinsam mit der Patientin oder dem Patienten unter Berücksichtigung des Nutzen-Schadens-Risikos vereinbart werden. Strategie der festen Dosis  sollte allen Patientinnen oder Patienten mit KHK eine Statintherapie in fester Dosis empfohlen werden, sofern keine Kontraindikationen bestehen. die Dosierung (hohe vs. mittlere Dosis) soll partizipativ entschieden werden. Mit der Zielwert-Strategie soll der LDL -Wert auf den Zielwert < 55 mg/dl (< 1,4 mmol/l) gesenkt werden oder eine mindestens 50%ige Reduktion erzielt werden. Bitte geben Sie an, welche Strategie Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten für die Therapie mit einem Statin vereinbart haben. Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Strategie vereinbart haben, geben Sie bitte Grund für niedrige Statin-Dosis Genau eine Angabe ist erforderlich und zulässig Angabe „Niedrig“ erfolgt ist. Bitte geben Sie den Grund für eine niedrige Statin-Dosis an. Befindet sich Ihre Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL Sie bitte „LDL Zielwert erreicht“ an. Besteht eine Kontraindikation gegen eine moderate Dosis , geben Sie bitte „Kontraindikation gegen gilt auch für Unverträglichkeiten. Wird eine feste hohe oder moderate Dosis durch Ihre Patientin oder Ihren Patienten abgelehnt, geben Sie bitte „Ablehnung durch Patienten“ an. genannten Antworten zu, geben Sie bitte „Keine Begründung“ an Schulung bereits vor Einschreibung in DMP wahrgenommen im Rahmen einer verpflichtend. Genau eine Angabe ist erforderlich.  Folgedokumentation  ist hier keine Angabe zulässig Bitte geben Sie an , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer KHK-relevanten Schulung teilgenommen hat. Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des Patienten auszugehen ist. Bei einer KHK -relevante Schulung kann es sich um eine Diabetes - Schulung, eine Hypertonie -Schulung, eine Antikoagulations -Schulung oder eine KHK -spezifische Schulung handeln.  , wenn im Feld „Aktuelle Statin vorzugsweise eine Strategie der festen “Keine Strategie vereinbart“ , wenn im Feld „Aktuelle Statin hohe oder moderate Dosis -Zielwert aktuell bereits erreicht, geben hohe oder moderate Dosis Erstdokumentation Über an. Dosis“ möglich hohe oder “ an. Dies  Trifft keine der  möglich und ist hier
+Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem Feld ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ die Angabe „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist. Bei der Verordnung von Statinen wird empfohlen, dass vorzugsweise eine Strategie der festen Dosis (hoch oder moderat ) oder alternativ eine Zielwert-Strategie gemeinsam mit der Patientin oder dem Patienten unter Berücksichtigung des Nutzen-Schadens-Risikos vereinbart werden. Strategie der festen Dosis  sollte allen Patientinnen oder Patienten mit KHK eine Statintherapie in fester Dosis empfohlen werden, sofern keine Kontraindikationen bestehen. Über die Dosierung (hohe vs. mittlere Dosis) soll partizipativ entschieden werden. Mit der Zielwert-Strategie soll der LDL -Wert auf den Zielwert < 55 mg/dl (< 1,4 mmol/l) gesenkt werden oder eine mindestens 50%ige Reduktion erzielt werden. Bitte geben Sie an, welche Strategie Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten für die Therapie mit einem Statin vereinbart haben. Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Strategie vereinbart haben, geben Sie bitte “Keine Strategie vereinbart“ an. Grund für niedrige Statin-Dosis Genau eine Angabe ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ Angabe „Niedrig“ erfolgt ist. Bitte geben Sie den Grund für eine niedrige Statin-Dosis an. Befindet sich Ihre Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine hohe oder moderate Dosis möglich ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL -Zielwert aktuell bereits erreicht, geben Sie bitte „LDL Zielwert erreicht“ an. Besteht eine Kontraindikation gegen eine hohe oder moderate Dosis , geben Sie bitte „Kontraindikation gegen hohe oder moderate Dosis “ an. Dies gilt auch für Unverträglichkeiten. Wird eine feste hohe oder moderate Dosis durch Ihre Patientin oder Ihren Patienten abgelehnt, geben Sie bitte „Ablehnung durch Patienten“ an.  Trifft keine der genannten Antworten zu, geben Sie bitte „Keine Begründung“ an Schulung bereits vor Einschreibung in DMP wahrgenommen im Rahmen einer Erstdokumentation  möglich und ist hier verpflichtend. Genau eine Angabe ist erforderlich.  Folgedokumentation  ist hier keine Angabe zulässig , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des Patienten auszugehen ist. Bei einer KHK -relevante Schulung kann es sich um eine Diabetes - Schulung, eine Hypertonie -Schulung, eine Antikoagulations -Schulung oder eine KHK -spezifische Schulung handeln.
 
 ---
 
@@ -237,32 +223,20 @@ Nein“ an.
 
 Training. Diese Interventionen sollen so ausgerichtet sein, dass die Patientinnen und Patienten  motiviert sind, das erwünschte positive Bewegungsverhalten eigenverantwortlich und nachhaltig in  ihren Lebensstil zu integrieren. Planung und Intensität der körperlichen Aktivität sind an die  individuelle Belastbarkeit der Patientin oder des Patienten anzupassen.
 
-Patientinnen und
-
-mit
-
-kardiovaskulärem
-
 Insbesondere nach Erstdiagnosestellung und sofern eine selbständige Ausübung der sportlichen
 
-Aktivitäten für Patientinnen und Patienten (noch) nicht möglich ist, wird die Teilnahme an einer  Herzsportgruppe empfohlen.
+Aktivitäten für Patientinnen und Patienten (noch) nicht möglich ist, wird die Teilnahme an einer  Herzsportgruppe empfohlen. Patientinnen und Patienten mit hohem kardiovaskulärem
 
-Patienten
-
-hohem
-
-Ereignisrisiko (z.B. im ersten Jahr nach Überleben eines plötzlichen Herztodes mit ICD/überlebter
-
-Herzstillstand oder mit schwerer Herzinsuffizienz (NYHA III) mit einer LVEF < 40 % oder mit  rezidivierenden ventrikulären Herzrhythmusstörungen), soll die Teilnahme am Rehabilitationssport  in einer „Herzinsuffizienzgruppe“ empfohlen werden. In dieser ist die ständige, persönliche
+Ereignisrisiko (z.B. im ersten Jahr nach Überleben eines plötzlichen Herztodes mit ICD/überlebter  Herzstillstand oder mit schwerer Herzinsuffizienz (NYHA III) mit einer LVEF < 40 % oder mit  rezidivierenden ventrikulären Herzrhythmusstörungen), soll die Teilnahme am Rehabilitationssport  in einer „Herzinsuffizienzgruppe“ empfohlen werden. In dieser ist die ständige, persönliche
 
 Anwesenheit des Herzgruppenarztes beziehungsweise der -ärztin während der
 
 Übungsveranstaltungen zwingend erforderlich.
 
-mindestens zwei
+Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für mindestens zwei
 
-Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für  Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens  zweimal wöchentlich Krafttraining durchgeführt werden.
+Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens  zweimal wöchentlich Krafttraining durchgeführt werden.
 
-idität), geben Sie hier bitte „Nicht möglich“ an. Geben Sie bitte
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient regelmäßiges sportliches Training betreibt.  Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges sportliches Training nicht möglich  sein (z.B. aufgrund einer Komorb idität), geben Sie hier bitte „Nicht möglich“ an. Geben Sie bitte
 
-Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient regelmäßiges sportliches Training betreibt.  Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges sportliches Training nicht möglich  sein (z.B. aufgrund einer Komorb „Nein“ an, wenn Ihre Patientin oder Ihr Patient sportlich nicht aktiv ist und dafür keine  nachvollziehbaren Gründe bestehen.
+„Nein“ an, wenn Ihre Patientin oder Ihr Patient sportlich nicht aktiv ist und dafür keine  nachvollziehbaren Gründe bestehen.

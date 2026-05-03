@@ -19,9 +19,7 @@ Unterschrift der Patientin / des Patienten
 
 подпис на пациентката пациента
 
-**Bitte vollständig und leserlich ausfüllen.**  **попълнете** **изцяло** **и** **четливо**
-
-**Моля**
+**Bitte vollständig und leserlich ausfüllen. Моля** **попълнете** **изцяло** **и** **четливо**
 
 Ich bestätige, dass ich nicht zum Zwecke der Behandlung nach Deutschland eingereist bin.
 
@@ -71,9 +69,7 @@ oder
 
 Datum / Дата
 
-кралство което представя
-
-на лице осигурено в страна от ЕС или ЕИП в Швейцария или Обединеното
+на лице осигурено в страна от ЕС или ЕИП в Швейцария или Обединеното кралство което представя
 
 **Европейска** **здравноосигурителна** **карта ЕЗОК), Global Health Insurance Card (GHIC)** или **Удостоверение** **за**
 
@@ -1945,11 +1941,7 @@ männlich
 
 Datum / * Dátum*
 
-*čiarsku alebo v Spojenom kráľovstve, ktorá je držiteľom*
-
-*osoba poistená v inej krajine EÚ alebo EHP, vo Švaj*
-
-***európskeho***
+*osoba poistená v inej krajine EÚ alebo EHP, vo Švajčiarsku alebo v Spojenom kráľovstve, ktorá je držiteľom* ***európskeho***
 
 ***preukazu zdravotného poistenia (EHIC)***
 

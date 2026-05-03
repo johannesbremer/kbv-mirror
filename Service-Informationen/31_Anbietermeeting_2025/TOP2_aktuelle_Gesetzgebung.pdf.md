@@ -151,9 +151,9 @@ Veröffentlicht am 26.05.
 
 ## - dringlichen Bedarf werden in die Regelversorgung vermittelt.
 
-## - als „digitale Multi-Channel-Versorgungsplattform“;
+## - Weiterentwicklung und Ausbau der 116117 als „digitale Multi-Channel-Versorgungsplattform“;
 
-## - Weiterentwicklung und Ausbau der 116117 mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
+## - mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
 ## - Für die ambulante Akut- und Notdienstversorgung bedarf es einer angemessenen
 

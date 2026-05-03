@@ -426,7 +426,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  | hochgradig schwerhörig | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Hörreste | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Taubheit | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 15. | > | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 15. | Hörstörung | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts | true / false | nein | mehrere Antworten möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | links | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | 16. | Sonstige versorgungsrelevante | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -457,7 +457,7 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  | offene Versorgung |  | nein | Ex Hörer | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | andere |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | rechts |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | > | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  | Hörstörung | Freitext | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | 14b. |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |

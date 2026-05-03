@@ -8,13 +8,13 @@
 
 **gültig ab:**
 
-**Code** DIFF EBM
+**Code** DIFF
 
-HW LGV MOD
+EBM HW LGV MOD
 
 | NEU | kv-spezifische neue GOP ohne Referenz |
 |---|---|
-| PSEUDO | Pseudoleistungen (technische Ziffern wie z.B. |
+| PSEUDO | Pseudoleistungen (technische Ziffern wie z.B. Ausnahmeziffern |
 
 TL_BHF+
 
@@ -36,12 +36,4 @@ Differenzierung normale EBM-Leistung
 
 Höchstwerte Vergütungsanteil 1 (LGV) Modifizierung (GOP nach einer Ableitung aus einer GOP)
 
-Labor und MRSA-Ziffern, Vertragsleistungen nach §73b und
-
-§73c SGB V) Vergütungsanteil 3 (TL_BHF, TL-Zuschlag bis best. BHF) für
-
-mehr als eine GOP Vergütungsanteil 3 (TL_BHF, TL-Zuschlag bis best. BHF) für
-
-eine GOP Vergütungsanteil 2 (TL_EL, TL-Zuschlag bis best. LH)
-
-Pseudoleistungen (technische Ziffern wie z.B. Ausnahmeziffern1
+Labor und MRSA-Ziffern, Vertragsleistungen nach §73b und §73c SGB V) Vergütungsanteil 3 (TL_BHF, TL-Zuschlag bis best. BHF) für mehr als eine GOP Vergütungsanteil 3 (TL_BHF, TL-Zuschlag bis best. BHF) für eine GOP Vergütungsanteil 2 (TL_EL, TL-Zuschlag bis best. LH) 1

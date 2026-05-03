@@ -11,7 +11,7 @@ Ansprechpartner KV Nordrhein:
 | Herr Joachim Averdung | Frau Leuschner |
 |---|---|
 
-8509 Fon (0211) 5970 Fax (0211) 5970  9509 eMail: joachim.averdung@kvno.de Fon (02 11) 59 70  8010 Fax (02 11) 59 70  9010 eMail: heike.leuschner@kvno.de
+Fon (0211) 5970  8509 Fax (0211) 5970  9509 eMail: joachim.averdung@kvno.de Fon (02 11) 59 70  8010 Fax (02 11) 59 70  9010 eMail: heike.leuschner@kvno.de
 
 ---
 
@@ -274,13 +274,9 @@ komplex
 
 Das Element vertretungszeit_liste ist wie folgt zu verwenden:
 
-### Angestellte Ärzte
+### 3.2.3 Angestellte Ärzte
 
-### 3.2.3
-
-werden sowohl die Zeiten als auch die Per-
-
-Mit dem Element angestellter_arzt_liste
+Mit dem Element angestellter_arzt_liste werden sowohl die Zeiten als auch die Per-
 
 sonen genannt, die in der eigenen Praxis als angestellte Ärzte tätig waren.
 
@@ -290,42 +286,32 @@ kann folgende Struktur verwendet werden:
 
 Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben
 
-Element als Kindelement zum Element true
-
 werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen angestellten Ärzten angegeben werden; pro Beschäftigungszeitraum ist ein
 
-komplex
-
-anzulegen.
+komplex Element als Kindelement zum Element true anzulegen.
 
 
 ---
 
 Das Element angestellter_arzt_liste ist wie folgt zu verwenden:
 
-### Organisierter Notfalldienst
+### 3.2.4 Organisierter Notfalldienst
 
-### 3.2.4
-
-werden die Notfalldienstzeiten angegeben,
-
-Mit dem Element org_notdienstzeit_liste
+Mit dem Element org_notdienstzeit_liste werden die Notfalldienstzeiten angegeben,
 
 an denen die Ärzte der Praxis teilgenommen haben.
 
-rden.
+Wurde an keinem Notfalldienst teilgenommen, kann dies auf zwei Arten angezeigt werden.
 
-Wurde an keinem Notfalldienst teilgenommen, kann dies auf zwei Arten angezeigt we Zum einen kann das Element org_notdienstzeit_liste komplett fehlen, zum anderen
+Zum einen kann das Element org_notdienstzeit_liste komplett fehlen, zum anderen
 
 kann folgende Struktur verwendet werden:
 
-Wurde hingegen am Notdienst teilgenommen, muss der Zeitraum bzw. der Tag, an dem der  n-
+Wurde hingegen am Notdienst teilgenommen, muss der Zeitraum bzw. der Tag, an dem der  Notdienst stattfand, angegeben werden. Es können beliebig viele Zeiträume bzw. Tage an-
 
-Notdienst stattfand, angegeben werden. Es können beliebig viele Zeiträume bzw. Tage a gegeben werden; pro Zeitangabe ist ein komplex Element als Kindelement zum Element
+gegeben werden; pro Zeitangabe ist ein komplex Element als Kindelement zum Element
 
-anzulegen.
-
-true
+true anzulegen.
 
 
 ---
@@ -336,35 +322,30 @@ Drei verschiedene Datumsformate sind zulässig:
 |---|---|---|
 | Zeitraum | 2014-04-16+16:00..2014-04-17+01:00 | vom 16.04.2014 16:00 Uhr |
 | Tag | 2014-05-22 | 22. Mai.2014 |
-| Zeitraum | 2014-06-23..2014-06-24 | vom 23.06.2014 |
+| Zeitraum | 2014-06-23..2014-06-24 | bis 24.06.2014 |
 
 Das Element org_notdienstzeit_liste ist wie folgt zu verwenden:
 
 ### 3.2.5 Assistenten
 
-Mit dem Element assistent_liste
+Mit dem Element assistent_liste werden sowohl die Zeiten als auch die Personen ge-
 
-nannt, die in der eigenen Praxis als Assistenten tätig  Wurden keine Assistenten beschäftigt, kann dies auf zwei Arten angezeigt werden. Zum e nen kann das Element assistent_liste
+nannt, die in der eigenen Praxis als Assistenten tätig waren.
+
+Wurden keine Assistenten beschäftigt, kann dies auf zwei Arten angezeigt werden. Zum ei-
+
+nen kann das Element assistent_liste komplett fehlen, zum anderen kann folgende
 
 Struktur verwendet werden:
 
-Haben Beschäftigungen stattgefunden, muss der Zeit werden und die Person, die beschäftigt wurde. Es können beliebig vi dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein  Element als Kindelement zum Element
+Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben
 
-werden sowohl die Zeiten als auch die Personen g waren.
+werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den
 
-komplett fehlen, zum anderen kann folgende
+dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein komplex
 
-raum der Beschäftigung angegeben
+bis 17.04.2014 01:00 Uhr vom 23.06.2014 Element als Kindelement zum Element true anzulegen.
 
-true anzulegen.
-
-ele Zeiträume mit den  komplex
-
-e-
-
-i-
-
-bis 17.04.2014 01:00 Uhr bis 24.06.2014
 
 ---
 
@@ -431,21 +412,11 @@ t einzutragen. Das
 
 ## 4.2 Unterschiede im Bereich body-Element
 
-*ermächtigte Ärzte*
+Für die Ausprägung *ermächtigte Ärzte* ist nur das Element fall_statistik zu implemen-
 
-zu implemen-
+tieren. Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung  der Sammelerklärung **nicht** auf.
 
-Für die Ausprägung
-
-ist nur das Element fall_statistik
-
-tieren. Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung  **nicht** auf.
-
-der Sammelerklärung
-
--Elemente in der Sammelerklärung
-
-Demnach treten folgende XML - Ausprägung ermächtige-
+Demnach treten folgende XML-Elemente in der Sammelerklärung - Ausprägung ermächtige-
 
 te Ärzte - der KV Nordrhein auf:
 
@@ -506,13 +477,7 @@ intended_recipient . Das
 
 ## 5.2 Unterschiede im Bereich body-Element
 
-*Krankenhaus*
-
-zu implementieren.
-
-Für die Ausprägung
-
-ist nur das Element fall_statistik
+Für die Ausprägung *Krankenhaus* ist nur das Element fall_statistik zu implementieren.
 
 Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung der
 
@@ -552,31 +517,23 @@ n-
 
 ---
 
-- ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml - und
+- ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml  wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur  Schnittstelle ab Version 1.21 zu verwenden ist und
 
-- wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur  Schnittstelle ab Version 1.21 zu verwenden ist wobei für den Platzhalter {BSNR}, eine konkrete BSNR einzusetzen ist und
+- wobei für den Platzhalter {BSNR}, eine konkrete BSNR einzusetzen ist und
 
-- wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJ stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1 - JJ’q‘Q einzu-
+- wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJJJ’q‘Q einzu-
 
-- setzen ist (4-
-
-- -stellige Quartalszahl).
+- setzen ist (4-stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1-stellige Quartalszahl).
 
 -  Ein beispielhafter Dateiname wäre: ese_1.21_274412300_tf+2014q4.xml
 
 - 3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Alle drei Varianten der
 
-- Sammelerklärung werden mit demselben XSD-Schema validiert. Die Schemadateien  . Das Wurzel-Schema ist die Datei
+- Sammelerklärung werden mit demselben XSD-Schema validiert. Die Schemadateien  wurden durch die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei - eSE_root.xsd
 
-- wurden durch die KV Telematik ARGE erstellt -
+- 4) Vorliegen der Stylesheetdatei kvnoSammelFOfuerPDFA-1b.xsl, der JPG-Datei
 
-- eSE_root.xsd
-
-- 4) Vorliegen der Stylesheetdatei kvnoSammelFOfuerPDFA-1b.xsl, der JPG-Datei - und der JPG-Datei
-
-- KVNO_Logo_FIN_RGB_Claim.jpg
-
-- aufzaehlung.jpg die von
+- KVNO_Logo_FIN_RGB_Claim.jpg und der JPG-Datei aufzaehlung.jpg die von
 
 - der KV Nordrhein bereitgestellt werden.
 
@@ -588,13 +545,9 @@ n-
 
 - Die Datei _ese_1.21_274412300_tf+2014q4.fo als Zwischenprodukt ist ein Do-
 
-- -FO) Standard.
+- kument nach dem XSL Formatting Objects (XSL-FO) Standard.
 
-- kument nach dem XSL Formatting Objects (XSL
-
-- _ese_1.21_274412300_tf+2014q4.
-
-- 6) Generierung der PDF/A-Datei mit einem XSL Formatter. Als Inputdatei erhält der XSL  Formatter die Datei - fo. PDF/A ist ein Archi-
+- 6) Generierung der PDF/A-Datei mit einem XSL Formatter. Als Inputdatei erhält der XSL  Formatter die Datei _ese_1.21_274412300_tf+2014q4.fo. PDF/A ist ein Archi-
 
 - vierungsformat nach ISO 19005-1:2005; weitere Informationen bzgl. des PDF/A  Standards finden sie unter [pdfa] .
 
@@ -608,9 +561,7 @@ eines normalen PDF-Dokuments.
 
 - Die notwendigen Informationen sind bereits im Styelsheet kvnoSammelFOfuerPD-
 
-- enthalten (siehe Element <declarations>
-
-- FA-1b.xsl
+- FA-1b.xsl enthalten (siehe Element <declarations>
 
 - 2. Zum anderen wird im Stylesheet kvnoSammelFOfuerPDFA-1b.xsl nur die Schrift-
 
@@ -642,14 +593,16 @@ nen, müssen aber nicht verwendet werden.
 
 -
 
-- tware Foundation (
+- **Falls der Formatter Apache FOP ve**
 
 |  | **wendet** | **wird, ist** | **die** ***Version*** | ***2.7*** |
 |---|---|---|---|---|
 |  | XSL-FO | Prozessoren | | bieten zum |
 |  |  | (http://www.antennahouse.com/) | | und |
 
-- **Falls der Formatter Apache FOP ver-**
+- tware Foundation (
+
+- **r-**
 
 AntennaHouse
 
@@ -657,7 +610,7 @@ AntennaHouse
 |---|---|---|---|---|
 |  |  | http://xmlgraphics.apache.org/fop/resources.html | | |
 
-kostenfreier XSL Formatter: Formatting Objects Processor (FOP) der Apache Sof http://xmlgraphics.apache.org/fop/ ) verwendet. Version 2.7 wendet wird, ist die  relevant. Weitere XSL-FO Prozessoren bieten zum Beispiel die Firmen (http://www.antennahouse.com/) und RenderX (http://www.renderx.com/) an.  auch zu Produkten - finden Sie unter Weitere Informationen
+kostenfreier XSL Formatter: Formatting Objects Processor (FOP) der Apache Sof http://xmlgraphics.apache.org/fop/ ) verwendet. wendet wird, ist die Version 2.7  relevant. Weitere XSL-FO Prozessoren bieten zum Beispiel die Firmen (http://www.antennahouse.com/) und RenderX (http://www.renderx.com/) an. Weitere Informationen  auch zu Produkten - finden Sie unter
 
 ---
 

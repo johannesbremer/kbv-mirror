@@ -51,26 +51,20 @@ Mobilitätsbeeinträchtigung, Pflegegrad 4 oder 5 für Fahrten mit Taxi, oder Mi
 
 ## ❻ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSFREIE FAHRTEN: C) ANDERER GRUND
 
-❻ zu erfassen. Die Begründung für eine stationsersetzende Durchführung sowie den
+Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig, wenn es sich  um eine Fahrt ins Hospiz, in eine Kurzzeitpflegeeinrichtung als Leistung der Krankenkasse oder um eine  Fahrt zu einer stationsersetzenden ambulanten Operation, einschließlich Vor- oder Nachbehandlung,  handelt. Bei ambulanten Operationen ist Voraussetzung, dass dadurch eine aus medizinischen Gründen  notwendige stationäre Krankenhausbehandlung vermieden wird oder diese nicht ausführbar ist, weil der  Patient sich bewusst gegen die stationäre Krankenhausbehandlung entscheidet. Der Anlass der Fahrt ist in  der Freitextzeile ❻ zu erfassen. Die Begründung für eine stationsersetzende Durchführung sowie den
 
-Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig, wenn es sich  um eine Fahrt ins Hospiz, in eine Kurzzeitpflegeeinrichtung als Leistung der Krankenkasse oder um eine  Fahrt zu einer stationsersetzenden ambulanten Operation, einschließlich Vor- oder Nachbehandlung,  handelt. Bei ambulanten Operationen ist Voraussetzung, dass dadurch eine aus medizinischen Gründen  notwendige stationäre Krankenhausbehandlung vermieden wird oder diese nicht ausführbar ist, weil der  Patient sich bewusst gegen die stationäre Krankenhausbehandlung entscheidet. Der Anlass der Fahrt ist in  der Freitextzeile  Operationstag tragen Sie bitte im Freitextfeld unter 4. Begründung/Sonstiges ⓱ ein.
+Operationstag tragen Sie bitte im Freitextfeld unter 4. Begründung/Sonstiges ⓱ ein.
 
 
 ---
 
 ## ❼ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSPFLICHTIGE FAHRTEN: D) HOCHFREQUENTE  BEHANDLUNG, VERGLEICHBARER AUSNAHMEFALL
 
-⓱, ggf. unter Angabe des ICD-10-Codes.
-
-Bedürfen Patienten einer Dialyse, onkologischer Chemo- oder Strahlentherapie in hoher  Behandlungsfrequenz ist die Verordnung der Fahrt möglich. Vor Fahrtantritt muss der Patient eine  Genehmigung der Krankenkasse einholen. Ein vergleichbarer Ausnahmefall liegt vor, wenn Patienten mit  einem durch die Grunderkrankung vorgegebenen Therapieschema behandelt werden, das eine hohe  Behandlungsfrequenz über einen längeren Zeitraum aufweist. Die Vergleichbarkeit begründen Sie bitte in  dem Freitextfeld unter 4. Begründung/Sonstiges
+Bedürfen Patienten einer Dialyse, onkologischer Chemo- oder Strahlentherapie in hoher  Behandlungsfrequenz ist die Verordnung der Fahrt möglich. Vor Fahrtantritt muss der Patient eine  Genehmigung der Krankenkasse einholen. Ein vergleichbarer Ausnahmefall liegt vor, wenn Patienten mit  einem durch die Grunderkrankung vorgegebenen Therapieschema behandelt werden, das eine hohe  Behandlungsfrequenz über einen längeren Zeitraum aufweist. Die Vergleichbarkeit begründen Sie bitte in  dem Freitextfeld unter 4. Begründung/Sonstiges ⓱, ggf. unter Angabe des ICD-10-Codes.
 
 ## ❽ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSPFLICHTIGE FAHRTEN: E) DAUERHAFTE  MOBILITÄTSBEEINTRÄCHTIGUNG VERGLEICHBAR MIT B) UND BEHANDLUNGSDAUER MINDESTENS 6  MONATE
 
-Bei einer Mobilitätsbeeinträchtigung, die mit den unter b) genannten Beeinträchtigungen vergleichbar ist,
-
-⓱
-
-kann eine Verordnung erfolgen, wenn die Dauer der Behandlung mindestens 6 Monate beträgt. Bitte  begründen Sie die Vergleichbarkeit unter Angabe des relevanten ICD-10-Codes im Freitextfeld unter 4.  Begründung/Sonstiges
+Bei einer Mobilitätsbeeinträchtigung, die mit den unter b) genannten Beeinträchtigungen vergleichbar ist,  kann eine Verordnung erfolgen, wenn die Dauer der Behandlung mindestens 6 Monate beträgt. Bitte  begründen Sie die Vergleichbarkeit unter Angabe des relevanten ICD-10-Codes im Freitextfeld unter 4.  Begründung/Sonstiges ⓱
 
 ## ❾ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSPFLICHTIGE FAHRTEN: F) ANDERER GRUND FÜR FAHRT  MIT KTW
 
@@ -78,11 +72,7 @@ Die Beförderung im KTW kann verordnet werden, wenn Patienten während der Fahrt
 
 ## ❿ BEHANDLUNGSTAG/BEHANDLUNGSFREQUENZ UND NÄCHSTERREICHBARE, GEEIGNETE  BEHANDLUNGSSTÄTTE
 
-Bitte geben Sie hier den voraussichtlichen Behandlungstag / die Behandlungsfrequenz sowie die
-
-⓱
-
-Behandlungsstätte an. Ist der Behandlungstag bei genehmigungsfreien Fahrten nicht bekannt, kann im  Einzelfall auf die Angabe des Behandlungstages verzichtet werden, z. B. wenn beim Hausbesuch die  Notwendigkeit eines Facharztbesuches festgestellt wird oder eine Terminvergabe über die  Terminservicestelle erfolgt. Bitte begründen Sie dies im Freitextfeld unter 4. Begründung/Sonstiges
+Bitte geben Sie hier den voraussichtlichen Behandlungstag / die Behandlungsfrequenz sowie die  Behandlungsstätte an. Ist der Behandlungstag bei genehmigungsfreien Fahrten nicht bekannt, kann im  Einzelfall auf die Angabe des Behandlungstages verzichtet werden, z. B. wenn beim Hausbesuch die  Notwendigkeit eines Facharztbesuches festgestellt wird oder eine Terminvergabe über die  Terminservicestelle erfolgt. Bitte begründen Sie dies im Freitextfeld unter 4. Begründung/Sonstiges ⓱
 
 ## ⓫ ART UND AUSSTATTUNG DER BEFÖRDERUNG: TAXI/MIETWAGEN
 
@@ -94,9 +84,9 @@ Die Beförderung im KTW ist nur verordnungsfähig, wenn während der Fahrt eine 
 
 ## ⓭ ART UND AUSSTATTUNG DER BEFÖRDERUNG: ROLLSTUHL, TRAGESTUHL, LIEGEND
 
-ehfähiger Patient im eigenen Rollstuhl oder im
+„Rollstuhl“ ist anzukreuzen, wenn ein nicht gehfähiger Patient im eigenen Rollstuhl oder im
 
-„Rollstuhl“ ist anzukreuzen, wenn ein nicht g Krankenfahrsessel befördert werden muss (Fahrzeug mit rollstuhlgerechter Ausstattung). „Tragestuhl“ ist  anzukreuzen, wenn es sich um einen nicht gehfähigen Patienten handelt, der sitzend befördert werden
+Krankenfahrsessel befördert werden muss (Fahrzeug mit rollstuhlgerechter Ausstattung). „Tragestuhl“ ist  anzukreuzen, wenn es sich um einen nicht gehfähigen Patienten handelt, der sitzend befördert werden
 
 
 ---

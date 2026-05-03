@@ -10,9 +10,7 @@ Mit dem Flag -no-extensible-binding-warnings lassen sich die Anzahl der Hinweise
 
 Folgende Hinweise und Errors sind nach unserer Meinung nicht durch die Profilierung entstanden:
 
--------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Abrechnung_BG.xml
+-- Beispiele\BSP_KBV_PR_AW_Abrechnung_BG.xml -------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
@@ -26,9 +24,9 @@ Warning @ Claim.identifier[0].type (line 87, col9) : Keiner der angegebenen Code
 
 Success: 0 errors, 1 warnings, 0 notes
 
-type ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) type, und ein
+Warning @ Claim.identifier[0].type (line 71, col9) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/identifier--](http://hl7.org/fhir/ValueSet/identifier--)type ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) type, und ein
 
-Warning @ Claim.identifier[0].type (line 71, col9) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/identifier--](http://hl7.org/fhir/ValueSet/identifier--) Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =
+Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =
 
 [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Abrechnung_Identifiertyp#Rechnungsnummer)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Abrechnung_Identifiertyp#Rechnungsnummer))
 
@@ -40,9 +38,9 @@ Warning @ Claim.identifier[0].type (line 71, col9) : Keiner der angegebenen Code
 
 Success: 0 errors, 1 warnings, 0 notes
 
-Warning @ Claim.identifier[0].type (line 76, col9) : Keiner der angegebenen Codes ist im Values type ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) type, und ein  et
+Warning @ Claim.identifier[0].type (line 76, col9) : Keiner der angegebenen Codes ist im Valueset
 
-[http://hl7.org/fhir/ValueSet/identifier--](http://hl7.org/fhir/ValueSet/identifier--)
+[http://hl7.org/fhir/ValueSet/identifier--](http://hl7.org/fhir/ValueSet/identifier--)type ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) type, und ein
 
 
 ---
@@ -73,9 +71,7 @@ Information @ Claim.item[0].detail[0].productOrService.coding[0] (line 179, col1
 
 --------------------------------------------------------------------------------------------------------------
 
---------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Allergie.xml
+-- Beispiele\BSP_KBV_PR_AW_Allergie.xml --------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -305,37 +301,29 @@ Information @ Organization.address[0].country (line 64, col23) : Der angegebene 
 
 ---
 
-und es wird empfohlen, einen Code aus diesem Valueset zu verwenden) (error message = Attempt to  access unknown value "D" from map tx.countrycode (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4))) -0203#BSNR)
+und es wird empfohlen, einen Code aus diesem Valueset zu verwenden) (error message = Attempt to  access unknown value "D" from map tx.countrycode (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
 Warning @ Organization.identifier[0].type (line 20, col9) : Keiner der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type) ([http://hl7.org/fh](http://hl7.org/fh)ir/ValueSet/identifier-type,
 
-und ein Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code)  (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2)
+und ein Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code)  (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2)-0203#BSNR)
 
 Warning @ Organization.identifier[1].type (line 30, col9) : Keiner der angegebenen Codes ist im
 
-Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type) ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type),
-
--0203#XX)
-
-und ein Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code)  (Codes = [http://terminology.h](http://terminology.h)l7.org/CodeSystem/v2
+Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type) ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type),  und ein Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code)  (Codes = [http://terminology.h](http://terminology.h)l7.org/CodeSystem/v2-0203#XX)
 
 ------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Betriebsstaette_Ort.xml
+-- Beispiele\BSP_KBV_PR_AW_Betriebsstaette_Ort.xml -------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
--ServiceDeliveryLocationRoleType, und ein Code sollte aus
+Warning @ Location.type[0] (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType](http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType)  ([http://terminology.hl7.org/ValueSet/v3](http://terminology.hl7.org/ValueSet/v3)-ServiceDeliveryLocationRoleType, und ein Code sollte aus
 
-Warning @ Location.type[0] (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType](http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType)  ([http://terminology.hl7.org/ValueSet/v3](http://terminology.hl7.org/ValueSet/v3) diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3)-RoleCode#AMB)
+diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3)-RoleCode#AMB)
 
 ----------------------------------------------------------------------------------------------------------
 
-------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Bezugsperson.xml
+-- Beispiele\BSP_KBV_PR_AW_Bezugsperson.xml ------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -343,9 +331,7 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------
 
------------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Bundle_Adressbuch.xml
+-- Beispiele\BSP_KBV_PR_AW_Bundle_Adressbuch.xml -----------------------------------------------------
 
 Success: 0 errors, 4 warnings, 4 notes
 
@@ -358,11 +344,15 @@ Information @ Bundle.entry[1].resource.ofType(Practitioner).address[0].country (
 
 ---
 
-zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4))) -1-2
+zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
-Information @ Bundle.entry[2].resource.ofType(Organization).address[0].country (line 203, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166) ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4))) -1-2
+Information @ Bundle.entry[2].resource.ofType(Organization).address[0].country (line 203, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166)-1-2
 
-Information @ Bundle.entry[4].resource.ofType(Organization).address[0].country (line 323, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166) ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
+([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
+
+Information @ Bundle.entry[4].resource.ofType(Organization).address[0].country (line 323, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166)-1-2
+
+([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
 Warning @ Bundle.entry[1].resource.ofType(Practitioner).identifier[0].type (line 58, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#LANR)
 
@@ -385,13 +375,13 @@ Success: 0 errors, 8 warnings, 6 notes
 
 Information @ Bundle.entry[0].resource.ofType(Practitioner).name[0].family.extension[1] (line 42,  col79) : Dieses Element stimmt mit keinem bekannten Slice defined in the profile  [https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Behandelnder](https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Behandelnder) überein.
 
--1-2
+Information @ Bundle.entry[0].resource.ofType(Practitioner).address[0].country (line 68, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166)-1-2
 
-Information @ Bundle.entry[0].resource.ofType(Practitioner).address[0].country (line 68, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166) ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
+([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
-t im Valueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)
+Information @ Bundle.entry[10].resource.ofType(Organization).address[0].country (line 603, col23)  : Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)
 
-Information @ Bundle.entry[10].resource.ofType(Organization).address[0].country (line 603, col23)  : Der angegebene Wert ("D") ist nich ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
+([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
 Information @ Bundle.entry[2].resource.ofType(ActivityDefinition).code.coding[0] (line 212, col11) :  Code System URI "[http://fhir.de/CodeSystem/dimdi/icd-10-gm"](http://fhir.de/CodeSystem/dimdi/icd-10-gm") ist unbekannt, so dass der Code  nicht validiert werden kann
 
@@ -405,52 +395,42 @@ der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-t
 
 0203#LANR)
 
--type
+Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[0].type (line 559, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type
 
-Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[0].type (line 559, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type, und ein Code sollte aus diesem Valueset stammen, es
+([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type, und ein Code sollte aus diesem Valueset stammen, es
 
-sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#BSNR) -type
+sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#BSNR)
 
-Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[1].type (line 569, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#XX)
+Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[1].type (line 569, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type
 
-Warning @ Bundle.entry[1].resource.ofType(PlanDefinition) (line 107, col107) : pdf 0: Name should  n
+([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#XX)
 
-be usable as an identifier for the module by machine processing applications such as code generatio [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
+Warning @ Bundle.entry[1].resource.ofType(PlanDefinition) (line 107, col107) : pdf 0: Name should  be usable as an identifier for the module by machine processing applications such as code generation
+
+[name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
 
 ---
 
-Warning @ Bundle.entry[2].resource.ofType(ActivityDefinition) (line 188, col188) : adf 0: Name -Z]([A-Za-z0-9_]){0,254}')]
+Warning @ Bundle.entry[2].resource.ofType(ActivityDefinition) (line 188, col188) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
-should be usable as an identifier for the module by machine processing applications such as code  generation [name.matches('[A
+Warning @ Bundle.entry[3].resource.ofType(ActivityDefinition) (line 229, col229) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
-Warning @ Bundle.entry[3].resource.ofType(ActivityDefinition) (line 229, col229) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  hes('[A-Z]([A-Za-z0-9_]){0,254}')]
+Warning @ Bundle.entry[4].resource.ofType(ActivityDefinition) (line 269, col269) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
-generation [name.matc
-
-Warning @ Bundle.entry[4].resource.ofType(ActivityDefinition) (line 269, col269) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  A-Z]([A-Za-z0-9_]){0,254}')]
-
-generation [name.matches('[
-
-Warning @ Bundle.entry[5].resource.ofType(ActivityDefinition) (line 307, col307) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  -Z]([A-Za-z0-9_]){0,254}')]
-
-generation [name.matches('[A
+Warning @ Bundle.entry[5].resource.ofType(ActivityDefinition) (line 307, col307) : adf 0: Name  should be usable as an identifier for the module by machine processing applications such as code  generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
 ------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Bundle_Patientenakte.xml
+-- Beispiele\BSP_KBV_PR_AW_Bundle_Patientenakte.xml --------------------------------------------------------
 
 *FAILURE*: 0 errors, 6 warnings, 13 notes
 
 Information @ Bu (l 479, ndle.entry[6].resource.ofType(Practitioner).name[0].family.extension[1] ine
 
-lement stimm
+col79) : Et mit keinem bekannten S iDieses lement stimm
 
 lice defined n the profile
-
-col79) : Et mit keinem bekannten S iDieses
 
 [https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Behandelnder](https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Behandelnder) überein.
 
@@ -460,25 +440,21 @@ ner
 
 der angegebenen Codest im V h-d is alueset ttp://hl7.org/fhir/ValueSet/c80 oc-typecodes
 
-mpfohlen,
+([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80) -doc-typecodes, und es wird e einen Code aus dmpfohlen,
 
 ieserm
 
-([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80) -doc-typecodes, und es wird e einen Code aus d Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung))
+Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung))
 
-ndle.entry[6].resource.ofType(Practitioner).address[0].country
+Information @ Bu ( 505,ndle.entry[6].resource.ofType(Practitioner).address[0].country line col23)
 
-col23)
-
-Information @ Bu ( 505,
-
-line
-
-Der angegebene Wert ("D") ist nicht im V-1-2 alueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166) Code aus diesem Veinen
-
-alueset
+Der angegebene Wert ("D") ist nicht im V-1-2 alueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166)
 
 ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es empfohlen,wird
+
+Code aus diesem Veinen
+
+alueset
 
 
 ---
@@ -580,37 +556,31 @@ Information @ Bundle.entry[4].resource.ofType(Practitioner).name[0].family.exten
 
 ---
 
-Information @ Bundle.entry[2].resource.ofType(Organization).address[0].country (line 182, col23) :
+Information @ Bundle.entry[2].resource.ofType(Organization).address[0].country (line 182, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)  ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode
 
-untrycode
+(from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
-Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)  ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.co (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
-
-Information @  Bundle.entry[3].resource.ofType(Patient).extension[4].extension[2].value.ofType(Address).country
-
-(line 267, col26) : Der angegebene Wert ("D") ist nicht im Valueset  [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2) ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird  empfohlen, einen Code aus diesem Valueset zu verwenden) (error message = Attempt to access  unknown value "D" from map tx.countrycode (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
+Information @  Bundle.entry[3].resource.ofType(Patient).extension[4].extension[2].value.ofType(Address).country  (line 267, col26) : Der angegebene Wert ("D") ist nicht im Valueset  [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2) ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird  empfohlen, einen Code aus diesem Valueset zu verwenden) (error message = Attempt to access  unknown value "D" from map tx.countrycode (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
 Information @ Bundle.entry[3].resource.ofType(Patient).address[0].country (line 335, col23) : Der  angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166](http://hl7.org/fhir/ValueSet/iso3166)-1-2
 
 ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhir.org/r4))](http://tx.fhir.org/r4)))
 
-alueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)
+Information @ Bundle.entry[4].resource.ofType(Practitioner).address[0].country (line 444, col23) :  Der angegebene Wert ("D") ist nicht im Valueset [http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2)
 
-Information @ Bundle.entry[4].resource.ofType(Practitioner).address[0].country (line 444, col23) :  Der angegebene Wert ("D") ist nicht im V ([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhi](http://tx.fhi)r.org/r4))
+([http://hl7.org/fhir/ValueSet/iso3166-1-2](http://hl7.org/fhir/ValueSet/iso3166-1-2), und es wird empfohlen, einen Code aus diesem Valueset  zu verwenden) (error message = Attempt to access unknown value "D" from map tx.countrycode  (from [http://tx.fhi](http://tx.fhi)r.org/r4))
 
 Warning @ Bundle.entry[1].resource.ofType(Location).type[0] (line 96, col8) : Keiner der  angegebenen Codes ist im Valueset [http://terminology.hl7.org/ValueSet/v3](http://terminology.hl7.org/ValueSet/v3) ServiceDeliveryLocationRoleType ([http://terminology.hl7.org/ValueSet/v3-](http://terminology.hl7.org/ValueSet/v3-) ServiceDeliveryLocationRoleType, und ein Code sollte aus diesem Valueset stammen, es sei denn, er  enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3) RoleCode#AMB)
 
-Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[0].type (line 138, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)
-
-e) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2)
-
-([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Cod 0203#BSNR)
+Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[0].type (line 138, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#BSNR)
 
 Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[1].type (line 148, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#XX)
 
-Warning @ Bundle.entry[3].resource.ofType(Patient).identifier[0].type (line 275, col9) : Keiner der  -type
+Warning @ Bundle.entry[3].resource.ofType(Patient).identifier[0].type (line 275, col9) : Keiner der
 
-angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es
+angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type
+
+([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es
 
 
 ---
@@ -695,7 +665,7 @@ diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Hersteller_Software.xml -------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Hersteller_Software.xml
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -711,8 +681,6 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------
 
--------------------------------------------------------
-
 -- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung.xml
 
 Success: 0 errors, 0 warnings, 1 notes
@@ -721,9 +689,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung_42019.xml ------------------------------------------------
-
--------------
+-- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung_42019.xml  -------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -731,15 +697,21 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krankenversicherungsverhaeltnis.xml -------------------------------------------
-
-------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krankenversicherungsverhaeltnis.xml  ------------------------
 
 Success: 0 errors, 3 warnings, 1 notes
 
 Information @ Coverage.type (line 110, col8) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/coverage-type](http://hl7.org/fhir/ValueSet/coverage-type) ([http://hl7.org/fhir/ValueSet/coverage-type](http://hl7.org/fhir/ValueSet/coverage-type), und es wird  empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [http://fhir.de/CodeSystem/versicherungsart-de-basis#GKV)](http://fhir.de/CodeSystem/versicherungsart-de-basis#GKV))
 
 Warning @ Coverage.extension[9].extension[1].value.ofType(Coding) (line 83, col17) : A code with  no system has no defined meaning. A system should be provided
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+------------------------------------------------
+
+-------------------------------------------
 
 
 ---
@@ -860,9 +832,9 @@ Information @ ?? : All OK
 
 -------------------------------------------------------------------------------------------------------------------------------------- --------------------------
 
----------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Diagnose.xml ---------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Diagnose.xml  ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -870,9 +842,9 @@ Information @ ?? : All OK
 
 -------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
 
---------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Operation.xml --------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Operation.xml  --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -883,9 +855,9 @@ Information @ ?? : All OK
 
 ---
 
--------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Impfung_2020.xml -------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Impfung_2020.xml  ---------------------------------------------------------------------
+---------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -893,23 +865,21 @@ Information @ ?? : All OK
 
 -------------------------------------------------------------------------------------------------------------------------------------- --------------------------
 
---------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020.xml --------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020.xml  --- ----------------------------------------------------------------------------
+--- ----------------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
-ung_Frauen_HPV_HR#virus1618)
-
 Warning @ Observation.component[0].interpretation[0] (line 39, col19) : Keiner der angegebenen  Codes ist im Valueset [http://hl7.org/fhir/ValueSet/observation-interpretation](http://hl7.org/fhir/ValueSet/observation-interpretation)  ([http://hl7.org/fhir/ValueSet/observation](http://hl7.org/fhir/ValueSet/observation)-interpretation, und ein Code sollte aus diesem Valueset
 
-stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn)
+stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn)ung_Frauen_HPV_HR#virus1618)
 
 -------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
 
-PV_HR_Testergebnis_2020_2.xml ----
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020_2.xml ----
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_H -------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -917,9 +887,9 @@ Information @ ?? : All OK
 
 -------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 
------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund.xml -----------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund.xml  ------------------------------------------------------------------
+------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1053,9 +1023,11 @@ Information @ ?? : All OK
 
 -------------------
 
-Success: 0 errors, 0 warnings, 1 notes -typecodes, und es wird
+Success: 0 errors, 0 warnings, 1 notes
 
-Information @ Composition.type (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/doc-typecodes](http://hl7.org/fhir/ValueSet/doc-typecodes) ([http://hl7.org/fhir/ValueSet/doc](http://hl7.org/fhir/ValueSet/doc) empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Krebsfrueherkennung_Maenner)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Krebsfrueherkennung_Maenner))
+Information @ Composition.type (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/doc-typecodes](http://hl7.org/fhir/ValueSet/doc-typecodes) ([http://hl7.org/fhir/ValueSet/doc](http://hl7.org/fhir/ValueSet/doc)-typecodes, und es wird
+
+empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Krebsfrueherkennung_Maenner)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Krebsfrueherkennung_Maenner))
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -1069,9 +1041,9 @@ Information @ ?? : All OK
 
 -------------------------------------------------------------------------------------------------------------------------------------- --------------------------
 
----------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Auftrag.xml ---------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Auftrag.xml  --------------------------------------
+--------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1108,8 +1080,6 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------
 
-------------------------------------------------------
-
 -- Beispiele\BSP_KBV_PR_AW_Kur_Kurgenehmigung.xml
 
 Success: 0 errors, 0 warnings, 1 notes
@@ -1117,8 +1087,6 @@ Success: 0 errors, 0 warnings, 1 notes
 Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------
-
---------------------------------------------------------
 
 -- Beispiele\BSP_KBV_PR_AW_Kur_Kurverlaengerung.xml
 
@@ -1128,9 +1096,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Heilmittel.xml --------------------------------------------------
-
--------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Heilmittel.xml  -------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1138,13 +1104,19 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Psychotherapie.xml ------------------------------------------
-
--------------------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Psychotherapie.xml  -------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
+
+------------------------------------------------------
+
+--------------------------------------------------------
+
+--------------------------------------------------
+
+------------------------------------------
 
 
 ---
@@ -1171,9 +1143,7 @@ Information @  CoverageEligibilityResponse.insurance[0].item[0].authorizationSup
 
 -------------------------------------------------------------------------------------------------------------------------------------- ----
 
---------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Material_Sache.xml
+-- Beispiele\BSP_KBV_PR_AW_Material_Sache.xml --------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1181,9 +1151,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------------
 
-------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Medikament_1.xml
+-- Beispiele\BSP_KBV_PR_AW_Medikament_1.xml ------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1210,9 +1178,9 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------
 
---------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Notfallbenachrichtigter.xml --------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Notfallbenachrichtigter.xml  ---
+---
 
 *FAILURE*: 1 errors, 2 warnings, 0 notes
 
@@ -1226,9 +1194,7 @@ Warning @ Consent.category[0] (line 21, col12) : Keiner der angegebenen Codes is
 
 ------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Observation_Anamnese.xml
+-- Beispiele\BSP_KBV_PR_AW_Observation_Anamnese.xml -------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1245,9 +1211,9 @@ Information @ ?? : All OK
 
 Success: 0 0 werrors, arnings, 1 notes
 
-ll OK
-
 @ : AInformation
+
+ll OK
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -1257,11 +1223,7 @@ Success: 0 0 werrors, arnings, 1 notes
 
 @ : KInformation Observation.category[0] (line 15, col12) einer der angegebenen Codes ist im
 
-Valueset [http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category)  empfohlen, einen
-
-([http://hl7.org/fhir/ValueSet/observation](http://hl7.org/fhir/ValueSet/observation)-category, und es wird C
-
-ode aus dieserm
+Valueset [http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category)  ([http://hl7.org/fhir/ValueSet/observation](http://hl7.org/fhir/ValueSet/observation)-category, und es wird Cempfohlen, einen ode aus dieserm
 
 Valueset vzu erwenden) = (Codes
 
@@ -1271,7 +1233,7 @@ Valueset vzu erwenden) = (Codes
 
 -- \BBeispiele SP_KBV_PR_AW_Observation_Blutdruck.xml
 
----------------------------------------------------------  00
+---------------------------------------------------------  Success: 0 errors, 0 warnings, 1 notes
 
 -- \BBeispiele SP_KBV_PR_AW_Observation_Hueftumfang.xml
 
@@ -1279,9 +1241,9 @@ Valueset vzu erwenden) = (Codes
 
 Success: 0 errors, 0 warnings, 1 notes
 
-ll OK
-
 @ : AInformation
+
+ll OK
 
 @ : AInformation
 
@@ -1302,9 +1264,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-----------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Observation_Puls.xml
+-- Beispiele\BSP_KBV_PR_AW_Observation_Puls.xml ----------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1322,9 +1282,9 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------------------
 
-----------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Observation_Schwangerschaft.xml ----------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Observation_Schwangerschaft.xml  -----------------
+-----------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1332,9 +1292,7 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Organisation_1.xml
+-- Beispiele\BSP_KBV_PR_AW_Organisation_1.xml --------------------------------------------------
 
 Success: 0 errors, 1 warnings, 1 notes
 
@@ -1378,9 +1336,7 @@ Warning @ Patient.identifier[0].type (line 80, col9) : Keiner der angegebenen Co
 
 ---
 
---------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Person_1.xml
+-- Beispiele\BSP_KBV_PR_AW_Person_1.xml --------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1388,9 +1344,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------
 
-----------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Provenienz.xml
+-- Beispiele\BSP_KBV_PR_AW_Provenienz.xml ----------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1398,9 +1352,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------
 
--------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Report_Export.xml
+-- Beispiele\BSP_KBV_PR_AW_Report_Export.xml -------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1408,9 +1360,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------
 
--------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Report_Import.xml
+-- Beispiele\BSP_KBV_PR_AW_Report_Import.xml -------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1449,17 +1399,13 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------------
 
-------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Termin.xml
+-- Beispiele\BSP_KBV_PR_AW_Termin.xml ------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK --------------------------------------------------------------------------------
 
---------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Therapie.xml
+-- Beispiele\BSP_KBV_PR_AW_Therapie.xml --------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1523,13 +1469,9 @@ Error @ Location.type[0] (line 15, col8) : Keiner der bereitgestellten Codes ist
 
 ValueSet ist erforderlich) (Codes = [http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3)-RoleCode#ACC)
 
-Warning @ Location.type[0] (line 15, col8) : Keiner der angegebenen Codes ist im Valueset
+Warning @ Location.type[0] (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType](http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType)  ([http://terminology.hl7.org/ValueSet/v3](http://terminology.hl7.org/ValueSet/v3)-ServiceDeliveryLocationRoleType, und ein Code sollte aus
 
--ServiceDeliveryLocationRoleType, und ein Code sollte aus
-
-[http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType](http://terminology.hl7.org/ValueSet/v3-ServiceDeliveryLocationRoleType)  ([http://terminology.hl7.org/ValueSet/v3](http://terminology.hl7.org/ValueSet/v3) diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  -RoleCode#ACC)
-
-[http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3)
+diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [http://terminology.hl7.org/CodeSystem/v3](http://terminology.hl7.org/CodeSystem/v3)-RoleCode#ACC)
 
 ----------------------------------------------------------------------------------------
 
@@ -1551,9 +1493,9 @@ Information @ ServiceRequest.reasonCode[0].coding[0] (line 43, col11) : Code Sys
 
 --------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Verordnung_Arzneimittel.xml -----------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Verordnung_Arzneimittel.xml  ------
+------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1561,9 +1503,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------
-
--- Beispiele\BSP_KBV_PR_AW_Verordnung_Heilmittel.xml
+-- Beispiele\BSP_KBV_PR_AW_Verordnung_Heilmittel.xml --------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 2 notes
 

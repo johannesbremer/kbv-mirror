@@ -54,11 +54,11 @@ Praxisdaten/ Arztstempel Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 
 
 ---
 
-# ABBILDUNGSVERZEICHNIS 7
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 27
+Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien 7
 
-Abbildung 2: Testdatenvalidierung
+Abbildung 2: Testdatenvalidierung 27
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 27
 
@@ -89,9 +89,7 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zur Hörgeräteversorgung“.
 
-## F
-
-## 1.2 ZERTIFIZIERUNGSABLAU
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
@@ -337,7 +335,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere 2. Anlegen einer Nach Verordnu
 | Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
 | Hinweis |  |
 
-PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
+PRÜFFALL 5602 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
 ---
 
@@ -439,18 +437,18 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 | Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
 | Hinweis |  |
 
-PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLSA; GÖSA; anderes
+PRÜFFALL 5603 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLSA; GÖSA; anderes
 
 ---
 
 |  |  |
 |---|---|
 |  | |
-|  | Patienten-ID |
+| Patientenangaben | Patienten-ID |
 | Ac13762434 | Geburtsjahr |
 | 191.1 | Geschlecht |
 | weiblich | |
-| Nach | Untersuchungsdatum (Nachsorge) |
+| Nach Verordnung | Untersuchungsdatum (Nachsorge) |
 | 25-03-2020 | Die Hörgeräteversorgung entspricht |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
@@ -478,13 +476,13 @@ PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verordnung: anderes OLSA; G�
 
 - 2.
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: Patientenangaben Verordnung % (E/Z) dB (SVS) Fragebogen(vor / nach HG -Versorgung): ____ %  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät Versorgung; Ex Hörer Knochenleitungsgerät |  |  |
+Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: % (E/Z) dB (SVS) Fragebogen(vor / nach HG -Versorgung): ____ %  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät Versorgung; Ex Hörer Knochenleitungsgerät |  |  |
 |---|---|
-|  | |
+| Patientenangaben | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr | 191.1 |
 | Geschlecht | weiblich |
-| Nach | |
+| Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 25-03-2020 |
 | Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
@@ -567,7 +565,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Anlegen einer Nach Verordnung: Patientenanga
 | Prüfunterlagen | QSHGV-Dokumentationsunterlagen |
 | Hinweis |  |
 
-einer Nach Verordnung PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
+einer Nach Verordnung PRÜFFALL 5604 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
 ---
 
@@ -575,7 +573,7 @@ einer Nach Verordnung PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verord
 |---|---|
 | Geburtsjahr | |
 | 1960 | Geschlecht |
-| weiblich | Nach |
+| weiblich | Nach Verordnung |
 | Untersuchungsdatum (Nachsorge) | 26-03-2020 |
 | Die Hörgeräteversorgung entspricht | |
 | dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
@@ -604,13 +602,13 @@ einer Nach Verordnung PRÜFFALL 1. Anlegen einer Vor Verordnung und einer Verord
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung |  |
 |  |  |
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientenangaben Verordnung Fragebogen(vor / nach HG -Versorgung): ____ %  |  |  |
+Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientenangaben Fragebogen(vor / nach HG -Versorgung): ____ %  |  |  |
 |---|---|
 | Patientenangaben | |
 | Patienten-ID | 5604 |
 | Geburtsjahr | 1960 |
 | Geschlecht | weiblich |
-| Nach | |
+| Nach Verordnung | |
 | Untersuchungsdatum (Nachsorge) | 26-03-2020 |
 | Die Hörgeräteversorgung entspricht dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | offene Versorgung |
@@ -628,14 +626,14 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 
 ---
 
-2.5 PRÜFFALL 5605
+**2.5** **PRÜFFALL 5605**
 
 |  |  |
 |---|---|
 | Prüffall-ID | 5605 |
 | Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | Voraussetzung |  |
-|  | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
+| Prüfunterlagen | verhindert |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
@@ -652,15 +650,15 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  2. Anlegen einer Nach Verordnung: Patientena
 | Datenfeld | Wert | Screenshot |
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB (SVS) | 101 dB (SVS) | Screenshot2 |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG / | 0 m / 11 m | Screenshot3 |
-| - | -9801 % | Screenshot4 |
+| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB | -9801 % | Screenshot4 |
 
-Prüfunterlagen verhindert diese nicht vorgegeben mit HG Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB Fragebogen (vor / nach HG-Versorgung): ____ %
+Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese nicht vorgegeben mit HG Fragebogen (vor / nach HG-Versorgung): ____ %
 
 ---
 
 | KONSTELLATION |  |
 |---|---|
-| Vor | |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
 | Hörgeräteerstversorgung | nein, nicht bekannt |
 | Wenn Vorversorgung, wann | 2011 |
@@ -700,7 +698,7 @@ Prüfunterlagen verhindert diese nicht vorgegeben mit HG Nutzen (Verbesserung de
 | Bauform | HdO |
 |  |  |
 
-verhindert Eingabefehler -1 5606 andere PRÜFFALL 5606 -3 andere
+verhindert Eingabefehler -1  5606-2 andere PRÜFFALL 5606  5606-3 andere
 
 ---
 
@@ -832,15 +830,15 @@ anderes KONSTELLATION  5606-4 Hörgeräteerstversorgung Wenn Vorversorgung, wann
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System |
+| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei |
 | Szenario 2 |
-| P1-170 bis P1 |
+| Weisen Sie die korrekte Systemfunktionalität laut |
 | Szenario 3 |
 | Für eine der Dokumentationen der Prüffälle 5601 bis 5604 ist per Screenshot oder als |
 | Szenario 4 |
-| oder Änderung der im Prüffall 5603 erstellten |
+| Zeigen Sie mittels Screenshots, dass eine Korrektur |
 
-Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei Angabe der Patienten darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Weisen Sie die korrekte Systemfunktionalität laut Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Zeigen Sie mittels Screenshots, dass eine Korrektur Dokumentation am 01.07. 2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). -190 nach. Es werden Screenshots vom -ID nicht PDF-Dokument
+Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Angabe der Patienten darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Dokumentation am 01.07. -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System 2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). P1-170 bis P1 -190 nach. Es werden Screenshots vom  oder Änderung der im Prüffall 5603 erstellten -ID nicht PDF-Dokument
 
 ---
 
@@ -885,7 +883,7 @@ Hörgeräteversorgung (siehe KBV_ITA_VGEX_Anforderungskatalog_QSHGV Es wird eine
 | Prüfunterlagen | › › |
 | Hinweis |  |
 
-Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_Plausi_QSHGV Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei PRÜFFALL 5609 (OPTIO 1. Anlegen einer Vor Verordnung und einer Verordnung: NAL) andere anderes
+Erkennung von Verletzungen gegen optionale Plausibilitäten (siehe KBV_ITA_VGEX_Plausi_QSHGV Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei PRÜFFALL 5609 (OPTIONAL) 1. Anlegen einer Vor Verordnung und einer Verordnung: andere anderes
 
 ---
 
@@ -926,9 +924,9 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 
 ---
 
-| APHAB |  |  |
+| APHAB-BOGEN |  |  |
 |---|---|---|
-| Frage | (Vor) | Nach |
+| Frage | Verordnung | Nach |
 | Frage 1: Wenn ich in einem belebten Lebensmittelgeschäft mit der | A | G |
 | Frage 2: Es entgeht mir viel Information, wenn ich einen Vortrag anhöre. | A | D |
 | Frage 3: Unerwartete Geräusche, wie einen Rauchmelder oder eine | B | F |
@@ -941,28 +939,28 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | Frage 10: Wenn ich in einem kleinen Büroraum Fragen stelle oder | G | A |
 | Frage 11: Wenn ich im Kino oder Theater bin und die Leute um mich | A | G |
 | Frage 12: Wenn ich mich mit einem Freund in einer ruhigen Umgebung | G | A |
-| KONDITIONAL |  |  |
+| 2.9 |  |  |
 | Prüffall-ID | 5610 | Testziel |
 | Kontrolle der optionalen Funktionen K1 | KBV_ITA_VGEX_Anforderungskatalog_QSHGV | ) |
-| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter und Berechnungen im | Prüfunterlagen |
-| Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung |  | ) ermittelt wird |
+| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter | Prüfunterlagen |
+| der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift |  | ) ermittelt wird |
 | Hinweis |  |  |
 |  |  |  |
 |  |  |  |
 |  |  | 1. |
 |  |  |  |
 |  |  |  |
-|  |  | APHAB |
+|  |  | APHAB-BOGEN |
 
 |  |  |
 |---|---|
 | Prüffall-ID | 5610 |
 | Testziel | Kontrolle der optionalen Funktionen K1 KBV_ITA_VGEX_Anforderungskatalog_QSHGV ) |
-| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter und Berechnungen im |
-| Prüfunterlagen | Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung ) ermittelt wird |
+| Voraussetzung | Nur zu bearbeiten, wenn in der Software die Parameter |
+| Prüfunterlagen | der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift ) ermittelt wird |
 | Hinweis |  |
 
--95 und K1-96 (siehe Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV 2.9 PRÜFFALL 5610 ( Anlegen einer Vor Verordnung und einer Verordnung: -BOGEN Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. Verordnung Verordnung
+-95 und K1-96 (siehe und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung (EXT_ITA_AHEX_Berechnung_APHAB_QSHGV PRÜFFALL 5610 (KONDITIONAL Anlegen einer Vor Verordnung und einer Verordnung: Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. (Vor)
 
 ---
 

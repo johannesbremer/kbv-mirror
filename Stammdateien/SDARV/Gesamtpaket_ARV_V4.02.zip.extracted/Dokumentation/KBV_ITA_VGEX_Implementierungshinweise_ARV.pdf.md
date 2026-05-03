@@ -317,7 +317,7 @@ Wirtschaftlichkeitsgesetz (AVWG) EXT_ITA_VGEX_Anforderungskatalog_AVWG, den der 
 
 Um die Voraussetzung für die Implementierung der regionalen Vereinbarungen zu schaffen,  hat die Kassenärztliche Bundesvereinigung mit der ARV-Schnittstelle ein bundeseinheitliches  Datensatzformat definiert, in dem sich die Regelungen aus den KV-Bereichen, die sich mit der  Software abbilden lassen, wiederfinden. Die Bereitstellung der Arzneimittelvereinbarungen in  Form einer zur Schnittstelle passenden XML--Datei, deren Inhalte von den Software Anbietern
 
-ins AVS in die VoS eingebunden werden, obliegt der Landeseben**e.**
+ins AVS in die VoS eingebunden werden, obliegt der Landeseben*e.*
 
 Die aktuellen XML-Dateien, welche als ARV-Stammdateien bezeichnet werden, können von  den Internet-Seiten der KBV als komprimiertes Paket heruntergeladen werden
 
@@ -336,11 +336,9 @@ funktionen, welche arztindividuelle Berechnungen ermöglichen, und die vom AVS v
 
 ## 2.1 Anzeigen der regional geltenden Arzneimittelvereinbarungen
 
-Die Regelungen in den Arzneimittelvereinbarungen unterscheiden sich in den KV Bezirken,  zum Teil sind sie auch deckungsgleich. Nach dem Vertragsarztrechtsänderungsgesetz  (VändG) kann ein Vertragsarzt in verschiedenen Bundesländern tätig sein. Es gilt der Grund- satz: Leistungsrecht am Leistungsort. Das AVS Die VoS muss dem Vertragsarzt am jeweili- gen Standort automatisch die regional geltenden Regelungen anzeigen. Es dürfen keine an-
+Die Regelungen in den Arzneimittelvereinbarungen unterscheiden sich in den KV Bezirken,  zum Teil sind sie auch deckungsgleich. Nach dem Vertragsarztrechtsänderungsgesetz  (VändG) kann ein Vertragsarzt in verschiedenen Bundesländern tätig sein. Es gilt der Grund- satz: Leistungsrecht am Leistungsort. Das AVS Die VoS muss dem Vertragsarzt am jeweili- gen Standort automatisch die regional geltenden Regelungen anzeigen. Es dürfen keine an- deren Arzneimittelvereinbarungen außer den regional gültigen angezeigt werden. Dazu gleicht  das AVS die VoS die Angabe im Element „geltungsbereich_kv“ mit der Betriebstättennummer  (BSNR) ab. Hierbei ist zu beachten, dass es sich bei den ersten beiden Ziffern der BSNR um  eine UKV-Kennung handeln kann. In diesem Fall muss die Ziffer auf eine OKV-b-Kennung a
 
-Kennung a
-
-deren Arzneimittelvereinbarungen außer den regional gültigen angezeigt werden. Dazu gleicht  das AVS die VoS die Angabe im Element „geltungsbereich_kv“ mit der Betriebstättennummer  (BSNR) ab. Hierbei ist zu beachten, dass es sich bei den ersten beiden Ziffern der BSNR um  eine UKV-Kennung handeln kann. In diesem Fall muss die Ziffer auf eine OKV-b- gebildet werden. Hierfür verwenden Sie bitte die Zuordnungstabelle unter
+gebildet werden. Hierfür verwenden Sie bitte die Zuordnungstabelle unter
 
 [KBV_ITA_AHEX_UKV2OKV_V01.02].
 
@@ -356,9 +354,9 @@ Der Anwender des AVS der VoS muss das Erstellungsdatum (Element „origination_d
 
 ## 2.4 Verwendung der regional geltenden Arzneimittelvereinbarungen  nur während des Gültigkeitszeitraumes
 
-Falls eine in Verwendung befindliche Stammdatei im nächsten Jahr weiter gü
+Eine ARV-Stammdatei darf nur während ihrer Gültigkeitsdauer (Element „service_tmr“) einge- setzt werden. (l-Falls eine in Verwendung befindliche Stammdatei im nächsten Jahr weiter gü
 
-Eine ARV-Stammdatei darf nur während ihrer Gültigkeitsdauer (Element „service_tmr“) einge- setzt werden. (l- tig sein soll, muss ihre Gültigkeitsdauer durch die Landesebene explizit verlängert werden.  Das heißt, eine neue Lieferung und Veröffentlichung der ARV- Stammdatei wäre notwendig).
+tig sein soll, muss ihre Gültigkeitsdauer durch die Landesebene explizit verlängert werden.  Das heißt, eine neue Lieferung und Veröffentlichung der ARV- Stammdatei wäre notwendig).
 
 ## 2.5 Bei der Anzeige von Arzneimittelvereinbarungen wird die Priori- tät berücksichtigt
 
@@ -375,9 +373,9 @@ Das Leerzeichen vor dem Stern soll verhindern, dass in Fällen, in denen Arzneim
 
 Die Suche wird so durchgeführt, wie von der Landesebene vorgegeben. In den Fällen, in de- nen sie kein Ergebnis liefert, ist der Ansprechpartner in der betreffenden KV (mit CC an die  KBV) zu informieren, damit der Sachverhalt geklärt werden kann.
 
-bei der Suche nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu
+Im Element „standardaggregat“ sind die Sonderzeichen für Trademark ™ oder für Registrie- rung  bei der Suche nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu
 
-Im Element „standardaggregat“ sind die Sonderzeichen für Trademark ™ oder für Registrie- rung  ersetzen, damit ist zum Beispiel Omeprazol® bei der Suche nach „Omeprazol *“ ein Sucher- gebnis.
+ersetzen, damit ist zum Beispiel Omeprazol® bei der Suche nach „Omeprazol *“ ein Sucher- gebnis.
 
 
 ---
@@ -425,9 +423,9 @@ Die entsprechenden Hinweistexte sind optional von der Landesebene zu definieren.
 
 hinweis_ersetzung“ bzw. „hinweis_verordnung_identisch“.
 
-kann ein Hinweistext („warnhinweis_ersetzung“) für
+In dem Unterelement „fachgruppenquote kann ein Hinweistext („warnhinweis_ersetzung“) für
 
-In dem Unterelement „fachgruppenquote alle Ärzte von der Landesebene formuliert werden. Dieser Hinweis muss dann vom AVS von  der VoS angezeigt werden, wenn der Arzt ein Präparat verordnet, das nicht Leitsubstanz ist.  Zusätzlich kann ein Hinweistext („hinweis_verordnung_identisch“) von der Landesebene defi- niert werden, wenn der Arzt ein Präparat verordnet, das bereits die Leitsubstanz darstellt. Die- ser muss dann durch das AVS die VoS angezeigt werden.
+alle Ärzte von der Landesebene formuliert werden. Dieser Hinweis muss dann vom AVS von  der VoS angezeigt werden, wenn der Arzt ein Präparat verordnet, das nicht Leitsubstanz ist.  Zusätzlich kann ein Hinweistext („hinweis_verordnung_identisch“) von der Landesebene defi- niert werden, wenn der Arzt ein Präparat verordnet, das bereits die Leitsubstanz darstellt. Die- ser muss dann durch das AVS die VoS angezeigt werden.
 
 ## 3.4 Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzei- gen eines Hinweistextes für den Arzt
 
@@ -437,9 +435,7 @@ Es besteht die Möglichkeit, dass sich die Hinweistexte auf alle Ärzte oder nur
 
 Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein- barten Zielquote ab.
 
-„fachgruppenquote“ in den optionalen Elementen „quote_leitsubstanz_ddd“ oder
-
-Wenn die Landesebene ein arztindividuelles Controlling unterstützen möchte, ist unter „leit- substanz“
+Wenn die Landesebene ein arztindividuelles Controlling unterstützen möchte, ist unter „leit- substanz“  „fachgruppenquote“ in den optionalen Elementen „quote_leitsubstanz_ddd“ oder
 
 
 ---
@@ -543,25 +539,19 @@ der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunkt
 
 # 5 Umsetzung der Me-too-Regelungen
 
-Mithilfe der im Element „me_too_regelung“ beschriebenen Datenfelder müssen vom AVS die
+Mithilfe der im Element „me_too_regelung“ beschriebenen Datenfelder müssen vom AVS die  in den folgenden Abschnitten beschriebenen konditionalen Pflichtfunktionen implementiert  werden (siehe auch die Funktionen K3--- 610, K3 620, K3 630 in dem AVWG-
 
-K3--- 610, K3 620, K3 630 in dem AVWG-
-
-in den folgenden Abschnitten beschriebenen konditionalen Pflichtfunktionen implementiert  werden (siehe auch die Funktionen  Anforderungskatalog KBV_ITA_VGEX_Schnittstelle_ARV). Die Implementierung der Control- lingfunktion Me-too-AVS Quote ist für das optional. Wenn die Controllingfunktion jedoch im-
+Anforderungskatalog KBV_ITA_VGEX_Schnittstelle_ARV). Die Implementierung der Control- lingfunktion Me-too-AVS Quote ist für das optional. Wenn die Controllingfunktion jedoch im-
 
 plementiert wird, muss sie auch fachgruppenspezifisch möglich sein (siehe 3.6).
 
-## Kennzeichnung in der Datenbank
+## 5.1 Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank
 
-## 5.1 Konditionale Pflichtfunktion:
+Mit dem Element „me_too_liste“ wird die Regelung zu Me-Too wie folgt abgebildet: In der Arz- neimitteldatenbank und in der Hausapotheke sind vom AVS die Me--Too Präparate für den
 
-Mit dem Element „me_too_liste“ wird die Regelung zu Me-Too wie folgt abgebildet: In der Arz-
+Arzt erkennbar zu kennzeichnen Die Kennzeichnung in der Datenbank richtet sich nach der
 
-Die Kennzeichnung in der Datenbank richtet sich nach der
-
-neimitteldatenbank und in der Hausapotheke sind vom AVS die Me--Too Präparate für den
-
-Arzt erkennbar zu kennzeichnen Kassenärztlichen Vereinigung, in der die Me-Too-Regelung implementiert werden soll. Bei der  Kennzeichnung in der Arzneimitteldatenbank wird keine Unterscheidung nach Fachgruppen  getroffen.
+Kassenärztlichen Vereinigung, in der die Me-Too-Regelung implementiert werden soll. Bei der  Kennzeichnung in der Arzneimitteldatenbank wird keine Unterscheidung nach Fachgruppen  getroffen.
 
 ## 5.2 Konditionale Pflichtfunktion:  Anzeigen der Verordnungsalternative
 
@@ -571,19 +561,17 @@ Es muss für den Arzt möglich sein, sich bei der Verordnung eines Me-Too-Präpa
 
 ## Anzeigen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinweis_ersetzung“) zu
+Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinweis_ersetzung“) zu  implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen, wenn er ein Me-Too- Präparat verordnet. Der entsprechende Hinweistext ist von der Landesebene zu definieren  und muss vom AVS angezeigt werden, wenn der Arzt ein unter eine Me-too-n-Regelung falle
 
-Regelung falle
-
-implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen, wenn er ein Me-Too- Präparat verordnet. Der entsprechende Hinweistext ist von der Landesebene zu definieren  und muss vom AVS angezeigt werden, wenn der Arzt ein unter eine Me-too-n- des Präparat verordnet.
+des Präparat verordnet.
 
 ## 5.4 Konditionale Pflichtfunktion:
 
 ## Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin- Bereich hinweisen
+Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin- weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-, Bereich hinweisen
 
-weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-,  wenn er ein Me-Too-Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach- gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren. Die für  den KV- Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Me-Too-Präparate < 5%
+wenn er ein Me-Too-Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach- gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren. Die für  den KV- Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Me-Too-Präparate < 5%
 
 
 ---
@@ -647,11 +635,7 @@ gewünscht, wird die Quote
 
 # 6 Umsetzung der DDD-Kostenregelung
 
-Mithilfe der im Element „kostenvergleich_ddd“ beschriebenen Datenfelder müssen vom AVS
-
-in
-
-von der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen  implementiert werden (siehe auch die Funktionen P3 -610 K3 -610, K3 --630 620, K3
+Mithilfe der im Element „kostenvergleich_ddd“ beschriebenen Datenfelder müssen vom AVS  von der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen  implementiert werden (siehe auch die Funktionen P3 -610 K3 -610, K3 --630
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWGdem AVWG-Anforderungskatalog
 
@@ -659,27 +643,19 @@ KBV_ITA_VGEX_Schnittstelle_ARV).
 
 ## 6.1 Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank  Verordnungssoftware
 
-Werte zu verwenden.
-
-In der Arzneimitteldatenbank und in der Hausapotheke In der VoS sind neben dem Apothe- kenverkaufspreis die Kosten pro DDD bzw. pro PDD (prescribed daily doses) für die Präpara- te anzuzeigen und, soweit von der Landesebene definiert, für den Arzt erkennbar zu kenn- zeichnen, ob diese unter, auf oder über den Zielkosten („zielkosten_je_ddd“) liegen. Für den  Fall, dass die Landesebene PZN-bezogene DDD bzw. PDD-Werte für die betroffenen Arznei- mittel zur Verfügung stellt, sind nur diese und nicht in der VoS im Arzneimittelsystem evtl. vor- handene DDD-
+In der Arzneimitteldatenbank und in der Hausapotheke In der VoS sind neben dem Apothe- kenverkaufspreis die Kosten pro DDD bzw. pro PDD (prescribed daily doses) für die Präpara- te anzuzeigen und, soweit von der Landesebene definiert, für den Arzt erkennbar zu kenn- zeichnen, ob diese unter, auf oder über den Zielkosten („zielkosten_je_ddd“) liegen. Für den  Fall, dass die Landesebene PZN-bezogene DDD bzw. PDD-Werte für die betroffenen Arznei- mittel zur Verfügung stellt, sind nur diese und nicht in der VoS im Arzneimittelsystem evtl. vor- handene DDD- Werte zu verwenden.
 
 Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog nach § 73  SGB V für Verordnungssoftware (siehe Funktion O2-145), sofern diese in der VoS enthalten  sind.
 
 ## 6.2 Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für  den Arzt
 
-Kosten („zielkosten_je_ddd“) überschreiten.
-
-Sofern von der Landesebene definiert, wird dem Arzt bei der Verordnung eines Präparates ein  Hinweis gegeben, wenn die tatsächlichen DDD- bzw. PDD-Kosten des Präparates die von der  Landesebene definierten DDD- bzw. PDD-
-
-(„katego-
+Sofern von der Landesebene definiert, wird dem Arzt bei der Verordnung eines Präparates ein  Hinweis gegeben, wenn die tatsächlichen DDD- bzw. PDD-Kosten des Präparates die von der  Landesebene definierten DDD- bzw. PDD- Kosten („zielkosten_je_ddd“) überschreiten.
 
 Hierbei kann die Landesebene einen Startwert oder Toleranzgrenzen  rie_ddd_kostenvergleich“) vorgeben, wann ein Hinweis erscheinen soll.
 
-## 6.3 Konditionale Pflichtfunktion:
+## 6.3 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
-## Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
-
-Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-
+Das Format bietet die Möglichkeit, fachgruppenspezifische
 
 weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-
 
@@ -689,6 +665,12 @@ Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Gen
 
 Siehe auch Kapitel 3.4.
 
+620, K3 in
+
+(„katego-
+
+Warnhinweise („warnhin-
+
 
 ---
 
@@ -696,11 +678,15 @@ Siehe auch Kapitel 3.4.
 
 Controlling-Funktionen sind optional vom AVSvon der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein- barten Zielquote ab.
 
-**auf Basis der Anzahl verordneter DDD bzw. PDD** vom
+Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD bzw. PDD** vom
 
-Die tatsächliche Quote lässt sich  AVS von der VoS ermitteln.
+AVS von der VoS ermitteln.
 
-*Anzahl DDD / PDD Wirkstoffgruppe Zielpreis*
+*Anzahl DDD / PDD*
+
+*Zielpreis*
+
+*Wirkstoffgruppe*
 
 *Quote (%)*
 
@@ -719,9 +705,7 @@ Siehe Abschnitt Kapitel 3.6 .
 
 # 7 Umsetzung der Generikaquotenregelungen
 
-die in den folgenden Abschnitten Kapiteln beschriebenen konditionalen
-
-Mithilfe der im Element „generikaquotenregelung“ beschriebenen Datenfelder müssen vom  AVS von der VoS
+Mithilfe der im Element „generikaquotenregelung“ beschriebenen Datenfelder müssen vom  AVS von der VoS die in den folgenden Abschnitten Kapiteln beschriebenen konditionalen
 
 Pflichtfunktionen implementiert werden (siehe auch die Funktion P3 -610K3 ---610K3 620, K3
 
@@ -741,9 +725,9 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 
 ## 7.2 Konditionale Pflichtfunktion:  Anzeigen der generischen Wirkstoffalternative
 
-Präparates die g
+Es muss für den Arzt möglich sein, sich bei der Verordnung eines Original-e-Präparates die g
 
-Es muss für den Arzt möglich sein, sich bei der Verordnung eines Original-e- nerischen Wirkstoffalternative(n) anzeigen zu lassen. Macht er hiervon Gebrauch, sind alle  Wirkstoffe in allen Wirkstärken und Normgrößen zu berücksichtigen. Der Arzt hat die Möglich- keit, die Liste der Alternativen auf den bevorzugten Wirkstoff in der passenden Stärke und  Normgröße zu beschränken. Weitere sinnvolle Filterkriterien wie z.B. Darreichungsform kön- nen eingesetzt werden. Die Präparate werden gruppiert nach Wirkstoff, Darreichungsform,  Wirkstärke und Normgröße aufsteigend nach dem Preis sortiert angezeigt. Die günstigsten  Präparate einer jeden Gruppe werden hervorgehoben dargestellt. Sind mehrere Präparate  preisidentisch, ist der ganze Bereich zu markieren (siehe auch  [EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3 - 420).
+nerischen Wirkstoffalternative(n) anzeigen zu lassen. Macht er hiervon Gebrauch, sind alle  Wirkstoffe in allen Wirkstärken und Normgrößen zu berücksichtigen. Der Arzt hat die Möglich- keit, die Liste der Alternativen auf den bevorzugten Wirkstoff in der passenden Stärke und  Normgröße zu beschränken. Weitere sinnvolle Filterkriterien wie z.B. Darreichungsform kön- nen eingesetzt werden. Die Präparate werden gruppiert nach Wirkstoff, Darreichungsform,  Wirkstärke und Normgröße aufsteigend nach dem Preis sortiert angezeigt. Die günstigsten  Präparate einer jeden Gruppe werden hervorgehoben dargestellt. Sind mehrere Präparate  preisidentisch, ist der ganze Bereich zu markieren (siehe auch  [EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3 - 420).
 
 ## 7.3 Konditionale Pflichtfunktion:  Anzeigen eines Hinweistextes für den Arzt
 
@@ -754,7 +738,9 @@ Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinwei
 
 ## 7.4 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit,  weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-
+Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-
+
+weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-
 
 gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren.
 
@@ -766,78 +752,64 @@ Siehe auch Abschnitt Kapitel 3.4.
 
 Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con- trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein- barten Zielquote ab.
 
-Die tatsächliche Quote lässt sich  **verordneten Packungen** oder **auf Basis des Bruttoumsatzes**
+Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD auf Basis der**
+
+**verordneten Packungen** oder **auf Basis des Bruttoumsatzes** vom AVS von der VoS ermit-
 
 teln.
 
-Wird von der Landesebene gewünscht, dass die Generika-r  DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Original-
+Wird von der Landesebene gewünscht, dass die Generika-r Quotenregelung auf Basis de
 
-DDDverordneteGenerika
+DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Original- Präparate.
 
-Quote (%)
+*DDDverordneteGenerika*
 
-fachgruppenspezifische
+*Quote (%)*
 
-**auf Basis der Anzahl verordneter DDD**
+*100
 
-Präparate.
+*DDDVergleichsgruppe*
 
-**100*
+Je nach Vereinbarung kann sich eine definierte Generika-s-Quote auch auf den Verordnung
 
-Je nach Vereinbarung kann sich eine definierte Generika-s- anteil beziehen. Dann gilt die Formel:
+anteil beziehen. Dann gilt die Formel:
 
-Quote (%)
+*VerordnungenGenerika*
 
-DDDVergleichsgruppe
+*Quote (%)*
 
-VerordnungenGenerika
+** 100*
 
-VerordnungenVergleichsgruppe
+*VerordnungenVergleichsgruppe*
 
 Wird bei „quote_generika_verordnungen“ zwar eine Quote angegeben, aber keine zusätzli- chen Angaben zur Vergleichsgruppe gemacht, ist der Anteil im Verhältnis zu allen vom Arzt  über die GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
 Wird ein arztindividuelles Controlling auf Basis Bruttoumsatz gewünscht, wird die Quote nach  folgender Formel berechnet:
 
-Quote auch auf den Verordnung
-
-* 100
-
-Warnhinweise („warnhin-
-
-**auf Basis der**
-
-vom AVS von der VoS ermit-
-
-Quotenregelung auf Basis de
-
 
 ---
 
-Quote (%) Bruttoumsatz
+*BruttoumsatzGenerika*
 
-Bruttoumsatz
+*Quote (%)*
 
-Vergleichsgruppe
+*100
 
-Generika **100*
+*BruttoumsatzVergleichsgruppe*
 
 Wird bei „quote_generika_bruttoumsatz“ zwar eine Quote angegeben, aber keine zusätzlichen  Angaben zur Vergleichsgruppe gemacht, ist der Anteil ins Verhältnis zum Bruttoumsatz aller  vom Arzt über die GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
-**zu den verordneten DDD**
+Sollen die verordneten DDD der Original-Präparate im Verhältnis **zu den verordneten DDD**
 
-Sollen die verordneten DDD der Original-Präparate im Verhältnis  der Vergleichsgruppe durch das AVS die VoS gemessen werden, ist im Element „quo- te_generika_ddd“ das Attribut „V“ von der Landesebene zu füllen. Zusätzlich sind die PZN und  DDD für die Vergleichsgruppe inklusive der Original-Präparate von der Landesebene bereit zu  stellen. Die Vergleichsgruppe kann eine definierte Arzneimittelgruppe oder aber der Gesamt- markt sein.
+der Vergleichsgruppe durch das AVS die VoS gemessen werden, ist im Element „quo- te_generika_ddd“ das Attribut „V“ von der Landesebene zu füllen. Zusätzlich sind die PZN und  DDD für die Vergleichsgruppe inklusive der Original-Präparate von der Landesebene bereit zu  stellen. Die Vergleichsgruppe kann eine definierte Arzneimittelgruppe oder aber der Gesamt- markt sein.
 
-**auf Basis der verordneten Packungen**
-
-Wird eine Controllingfunktion
-
-von der Landesebene
+Wird eine Controllingfunktion **auf Basis der verordneten Packungen** von der Landesebene
 
 gewünscht, ist im optionalen Element „quote_generika_verordnungen“ im Attribut „V“ die Quo- te anzugeben. Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimit- telgruppe (Vergleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5- Code, Wirkstoffgruppen, ATC 4-Code, Handelsnamen, Standardaggregat oder PZN von der  Landesebene zu definieren. Werden keine Angaben zur Vergleichsgruppe gemacht, wird das  Controlling auf alle vom Arzt getätigten Verordnungen bezogen.
 
-**auf Basis des Bruttoumsatzes** von der Landesebene ge-
+Wird eine Controllingfunktion **auf Basis des Bruttoumsatzes** von der Landesebene ge-
 
-Wird eine Controllingfunktion  wünscht, ist im optionalen Feld „quote_generika_bruttoumsatz“ im Attribut „V“ eine Quote an-
+wünscht, ist im optionalen Feld „quote_generika_bruttoumsatz“ im Attribut „V“ eine Quote an-
 
 zugeben. Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittel- gruppe (Vergleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5- Code, Wirkstoffgruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu defi- nieren. Werden keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf den  Bruttoumsatz aller vom Arzt getätigten Verordnungen aus dem Gesamtmarkt bezogen.
 
@@ -899,17 +871,17 @@ teln.
 
 Wird von der Landesebene gewünscht, dass die Höchstquotenregelung auf Basis der DDD  ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal- tet auch die entsprechenden Präparate, welche von der Höchstquotenregelung betroffen sind.
 
-DDD Höchstquotenpräparat e
+*DDD* *Höchstquotenpräparat e*
 
-Quote (%)
+*Quote (%)*
 
-DDDVergleichsgruppe
+*DDDVergleichsgruppe*
 
 Je nach Vereinbarung kann sich eine definierte Höchstquote auch auf den Verordnungsanteil  beziehen. Dann gilt die Formel:
 
 fachgruppenspezifische Warnhinweise („warnhin-
 
-**100*
+*100
 
 **auf Basis der**
 
@@ -918,23 +890,25 @@ vom AVS von der VoS ermit-
 
 ---
 
-Höchstquotenpräparat e
+*Höchstquotenpräparat e*
 
-Verordnungen (%)
+*Verordnungen*
 
-Quote
+*(%)*
 
-VerordnungenVergleichsgruppe
+*Quote*
+
+*VerordnungenVergleichsgruppe*
 
 Wird bei „hoechstquote_verordnungen“ zwar eine Quote angegeben, aber keine zusätzliche  Angabe zur Vergleichsgruppe gemacht, ist der Anteil im Verhältnis zu allen vom Arzt über die  GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
 Wird ein arztindividuelles Controlling auf Basis Bruttoumsatz gewünscht, wird die Quote nach  folgender Formel berechnet:
 
-BruttoumsatzHöchstquotenpräparat e
+*BruttoumsatzHöchstquotenpräparat e*
 
-Quote (%)
+*Quote (%)*
 
-BruttoumsatzVergleichsgruppe
+*BruttoumsatzVergleichsgruppe*
 
 Wird bei „hoechstquote_bruttoumsatz“ zwar eine Quote angegeben, aber keine zusätzliche  Angabenzur Vergleichsgruppe gemacht, ist der Anteil ins Verhältnis zum Bruttoumsatz aller  vom Arzt über die GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
@@ -956,9 +930,9 @@ den keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf den Bru
 
 Siehe Abschnitt Kapitel 3.6 .
 
-**100*
+*100
 
-**100*
+*100
 
 ruttoumsatz“ im Attribut „V“ eine Quote anzu-
 
@@ -973,11 +947,7 @@ von der Landesebene ge-
 
 # 9 Umsetzung der Biosimilarquotenregelungen
 
-Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS von der VoS die
-
-AVWG-
-
-in den folgenden Abschnitten beschriebenen konditionalen Pflichtfunktionen implementiert  werden (siehe auch die Funktionen P3 -610K3 ---630 610, K3 620, K3 in dem
+Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS von der VoS die  in den folgenden Abschnitten beschriebenen konditionalen Pflichtfunktionen implementiert  werden (siehe auch die Funktionen P3 -610K3 ---630 610, K3 620, K3 in dem AVWG-
 
 Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG). Die Implementierung  der Controllingfunktion Biosimilarquotenregelung ist für das AVS die VoS optional. Wenn die  Controllingfunktion jedoch implementiert wird, muss sie auch fachgruppenspezifisch möglich  sein.
 
@@ -989,19 +959,15 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 
 ## 9.2 Konditionale Pflichtfunktion: Anzeigen der Biosimilars
 
-Wirk-
+Es muss für den Arzt möglich sein, sich bei der Verordnung eines Präparates die passenden  Biosimilars anzeigen zu lassen. Macht er hiervon Gebrauch, sind alle Wirkstoffe in allen Wirk-
 
-Es muss für den Arzt möglich sein, sich bei der Verordnung eines Präparates die passenden  Biosimilars anzeigen zu lassen. Macht er hiervon Gebrauch, sind alle Wirkstoffe in allen  stärken und Normgrößen zu berücksichtigen. Der Arzt hat die Möglichkeit, die Liste der Biosi- milars auf den bevorzugten Wirkstoff in der passenden Stärke und Normgröße zu beschrän- ken. Weitere sinnvolle Filterkriterien wie z.B. Darreichungsform können eingesetzt werden.  Die Präparate werden gruppiert nach Wirkstoff, Darreichungsform, Wirkstärke und Normgröße  aufsteigend nach dem Preis sortiert angezeigt. Die günstigsten Präparate einer jeden Gruppe  werden hervorgehoben dargestellt. Sind mehrere Präparate preisidentisch, ist der ganze Be- reich zu markieren (siehe auch [EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3- 420).
+stärken und Normgrößen zu berücksichtigen. Der Arzt hat die Möglichkeit, die Liste der Biosi- milars auf den bevorzugten Wirkstoff in der passenden Stärke und Normgröße zu beschrän- ken. Weitere sinnvolle Filterkriterien wie z.B. Darreichungsform können eingesetzt werden.  Die Präparate werden gruppiert nach Wirkstoff, Darreichungsform, Wirkstärke und Normgröße  aufsteigend nach dem Preis sortiert angezeigt. Die günstigsten Präparate einer jeden Gruppe  werden hervorgehoben dargestellt. Sind mehrere Präparate preisidentisch, ist der ganze Be- reich zu markieren (siehe auch [EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3- 420).
 
 ## 9.3 Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für
 
 ## den Arzt
 
-Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  (z.B. Regelung zu den Erythropoetinen) hinweist, wenn er ein Präparat (z.B. Aranesp ) ver- ordnet, das kein Biosimilar ist. Der entsprechende Hinweistext ist optional und wird von der  Landesebene definiert. Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil
-
-„fach-
-
-an Biosimilars bei den Eryhtropoetinen bei Internisten) kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text- feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist unter „biosimilar“
+Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  (z.B. Regelung zu den Erythropoetinen) hinweist, wenn er ein Präparat (z.B. Aranesp ) ver- ordnet, das kein Biosimilar ist. Der entsprechende Hinweistext ist optional und wird von der  Landesebene definiert. Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil  an Biosimilars bei den Eryhtropoetinen bei Internisten) kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text- feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist unter „biosimilar“  „fach-
 
 
 ---
@@ -1024,41 +990,41 @@ bereit zu stellen.
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars. Die Vergleichsgruppe ist bei einer Biosimilarquotenregelung die Arzneimittelgrup- pe, die unterhalb des Elementes „biosimilarquotenregelung“ angegeben wird.
 
-DDDverordneteBiosimilar
+*DDDverordneteBiosimilar*
 
-Quote (%)
+*Quote (%)*
 
 oder **auf Basis des Bruttoumsatzes**
 
 **auf Basis der Anzahl verordneter DDD**
 
-**100*
+*100
 
 **auf Basis der**
 
 vom AVS von der VoS ermit-
 
-DDDVergleichsgruppe
+*DDDVergleichsgruppe*
 
 Je nach Vereinbarung kann sich eine definierte Biosimilar-Quote auch  **nungsanteil** beziehen. Dann gilt die Formel:
 
-VerordnungenBiosimilar
+*VerordnungenBiosimilar*
 
-Quote (%)
+*Quote (%)*
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars.
 
-VerordnungenVergleichsgruppe
+*VerordnungenVergleichsgruppe*
 
 Wird ein arztindividuelles Controlling **auf Basis Bruttoumsatz**
 
 nach folgender Formel berechnet:
 
-BruttoumsatzBiosimilar
+*BruttoumsatzBiosimilar*
 
-Quote (%)
+*Quote (%)*
 
-BruttoumsatzVergleichsgruppe
+*BruttoumsatzVergleichsgruppe*
 
 Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entsprechenden  Biosimilars.
 
@@ -1066,9 +1032,9 @@ Sollen die verordneten DDD der Biosimilar-Präparate im Verhältnis zu den veror
 
 und DDD für die Vergleichsgruppe inklusive der Biosimilar von der Landesebene bereit zu  stellen. Wird eine Controllingfunktion auf Basis der verordneten Packungen von der Landes- ebene gewünscht, ist im optionalen Element  „V“ die Quote anzugeben. Das Controlling wird auf die Anzahl aller vom Arzt über die GKV
 
-**100*
+*100
 
-**100*
+*100
 
 **„quote_biosimilar_verordnungen“**
 
@@ -1139,17 +1105,17 @@ Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS die in 
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG).
 
-## Konditionale Pflichtfunktion:
+## 11.1 Konditionale Pflichtfunktion:
 
-## 11.1  Kennzeichnung in der Arzneimitteldatenbank
+## Kennzeichnung in der Arzneimitteldatenbank
 
 In der Arzneimitteldatenbank und in der Hausapotheke sind vom AVS die unter die Qualitäts- sicherungsmaßnahmenregelung fallenden Präparate entsprechend für den Arzt erkennbar zu  kennzeichnen. Die Kennzeichnung in der Datenbank richtet sich nach der Kassenärztlichen  Vereinigung, in der die Qualitätssicherungsmaßnahmenregelung implementiert werden soll.  Bei der Kennzeichnung in der Arzneimitteldatenbank wird keine Unterscheidung nach Fach- gruppen getroffen.
 
 Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
-## Konditionale Pflichtfunktion:
+## 11.2 Konditionale Pflichtfunktion:
 
-## 11.2  Anzeigen eines Hinweistextes für den Arzt
+## Anzeigen eines Hinweistextes für den Arzt
 
 Siehe Abschnitt 10.2.
 
@@ -1164,17 +1130,17 @@ Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS die in 
 
 G).
 
-## Konditionale Pflichtfunktion:
+## 12.1 Konditionale Pflichtfunktion:
 
-## 12.1  Kennzeichnung in der Arzneimitteldatenbank
+## Kennzeichnung in der Arzneimitteldatenbank
 
 In der Arzneimitteldatenbank und in der Hausapotheke sind vom AVS die unter eine Studien- regelung fallenden Präparate entsprechend für den Arzt erkennbar zu kennzeichnen. Die  Kennzeichnung in der Datenbank richtet sich nach der Kassenärztlichen Vereinigung, in der  die Studienregelung implementiert werden soll. Bei der Kennzeichnung in der Arzneimittelda- tenbank wird keine Unterscheidung nach Fachgruppen getroffen.
 
 Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
-## Konditionale Pflichtfunktion:
+## 12.2 Konditionale Pflichtfunktion:
 
-## 12.2  Anzeigen eines Hinweistextes für den Arzt
+## Anzeigen eines Hinweistextes für den Arzt
 
 Siehe Abschnitt 10.2.
 
@@ -1187,9 +1153,9 @@ Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVSvon der 
 
 Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG).
 
-## Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimit-
+## 13.1 Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimit-
 
-## 13.1  teldatenbank Verordnungssoftware
+## teldatenbank Verordnungssoftware
 
 In der Arzneimitteldatenbank und in der Hausapotheke sind vom AVS In der VoS sind die un- ter eine Behandlungsalternativenregelung fallenden Präparate entsprechend für den Arzt er- kennbar zu kennzeichnen. Die Kennzeichnung in der Datenbank Verordnungssoftware richtet  sich nach der Kassenärztlichen Vereinigung, in der die Behandlungsalternativenregelung im- plementiert werden soll. Bei der Kennzeichnung in der Arzneimitteldatenbank Verordnungs- software wird keine Unterscheidung nach Fachgruppen getroffen.
 
@@ -1197,9 +1163,9 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 
 Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
-## Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für
+## 13.2 Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für
 
-## 13.2  den Arzt
+## den Arzt
 
 Siehe Abschnitt Kapitel 10.2.
 
@@ -1233,63 +1199,59 @@ Der Anwender soll in seinem Arbeitsablauf durch den Einsatz der IWW nicht durch 
 
 ## 14.1 Pflichtfunktion: Darstellung des Indikationsbaumes
 
-Ist in den regionalen ARV--Stammdateien das XML Element <iww_indikationsbaum> vorhan-
+Ist in den regionalen ARV-- den, muss dem Anwender der Medikationskatalog in Form einer Baumstruktur zur Verfügung  Stammdateien das XML Element <iww_indikationsbaum> vorhan-
 
-den, muss dem Anwender der Medikationskatalog in Form einer Baumstruktur zur Verfügung  gestellt werden:
+gestellt werden:
 
 -  Dem Anwender muss die Bezeichnung (XML-Element  …/iww_metadaten/@indikationsbaum_bezeichnung) des Indikationsbaumes anzeigt  werden, sofern dieser in der ARV- Stammdatei hinterlegt ist.
 
 -  Die Beschriftung der einzelnen Baumknoten erfolgt anhand des Inhaltes des XML- Elementes ../kapitel/text.
 
--  Wenn das XML- Element ../kapitel/anmerkung enthalten ist, dass muss der Textdes
-
 - Elementes im Zusammenhang mit dem jeweiligen Baumknoten angezeigt werden.
+
+-  Wenn das XML- Element ../kapitel/anmerkung enthalten ist, dass muss der Textdes
 
 -  Wird ein Baumknoten ausgewählt, müssen die folgenden Informationen, sofern vor- handen, angezeigt werden:
 
 - o Der Inhalt des Elementes <anmerkung> muss dem Anwender als Hinweistext  angezeigt werden können, sofern der Anwender das möchte.
 
-- ../kapitel/verweis_dokument anzeigen zu las-
+- o Der Anwender muss die Möglichkeit haben, sich mögliche referenzierte Doku- mente aus den XML-en Element ../kapitel/verweis_dokument anzeigen zu las-
 
-- o Der Anwender muss die Möglichkeit haben, sich mögliche referenzierte Doku- mente aus den XML-en Element - sen.
+- sen.
 
-- Element . /kapitel/wirkstoff) müssen aufge-
+- o Alle enthaltenen Wirkstoffe (XML-.Element . /kapitel/wirkstoff) müssen aufge-
 
-- o Alle enthaltenen Wirkstoffe (XML-. listet werden. Dabei müssen bei den Wirkstoffen mindestens die Attribute „be- zeichnung“ und „iww_kategorie“ angezeigt werden sowie die entsprechend zu- geordnete Farbe (XML-Element  „../geltungsbereich_kv/iww_kategorien/kategorie/@color“) angezeigt werden.
+- listet werden. Dabei müssen bei den Wirkstoffen mindestens die Attribute „be- zeichnung“ und „iww_kategorie“ angezeigt werden sowie die entsprechend zu- geordnete Farbe (XML-Element  „../geltungsbereich_kv/iww_kategorien/kategorie/@color“) angezeigt werden.
 
-- o Die unter einem Baumknoten enthaltenen Wirkstoffe sind wie folgt zu sortieren: - _kategorie
+- o Die unter einem Baumknoten enthaltenen Wirkstoffe sind wie folgt zu sortieren:
 
-- 1. Aufsteigend nach der IWW-Kategorie (XML-Element  ../wirkstoff/@iww)
+- 1. Aufsteigend nach der IWW-Kategorie (XML-Element  ../wirkstoff/@iww) _kategorie
 
-- 2. Alphabetisch nach dem Namen des Wirkstoffes (XML-Element  ../wirkstoff/@bezeichnung) - Element
+- 2. Alphabetisch nach dem Namen des Wirkstoffes (XML-Element  ../wirkstoff/@bezeichnung)
 
-- o Bei Auswahl eines Wirkstoffes muss der Anwender die Möglichkeit haben, sich  mögliche referenzierte Dokumente aus den XML-en  ..//wirkstoff/verweis_dokument anzeigen zu lassen.  Ebenso müssen die Informationen des Elementes <iww _anmerkung> ange-
+- o Bei Auswahl eines Wirkstoffes muss der Anwender die Möglichkeit haben, sich  mögliche referenzierte Dokumente aus den XML-en Element
+
+- ..//wirkstoff/verweis_dokument anzeigen zu lassen.  Ebenso müssen die Informationen des Elementes <iww _anmerkung> ange-
 
 - zeigt werden. Dabei ist folgendes zu beachten:
 
-- _anmerkung besitzt das optionale Kindelement
+- Das Element <iww>_anmerkung besitzt das optionale Kindelement
 
--  Das Element <iww> <link>. Der Inhalt dieses Kindelementes muss dem Anwender als Aus- wahlmöglichkeit dargestellt werden. Das Element kann beliebig oft vor- kommen.
+- <link>. Der Inhalt dieses Kindelementes muss dem Anwender als Aus- wahlmöglichkeit dargestellt werden. Das Element kann beliebig oft vor- kommen.
 
-- Elemente kann in den Text des Elementes
+- Der Inhalt des <link>-sElemente kann in den Text des Elementes
 
--  Der Inhalt des <link>-s <iww>_anmerkung (Wert des Attributes „V“ des XML-Elementes
+- <iww>_anmerkung (Wert des Attributes „V“ des XML-Elementes
 
 - <iww>_anmerkung ) als direkter Link integriert werden.
 
 - Dafür müssen die Textstellen „=>*Wirkstoffbezeichnung*“ des
 
-- - Elementes mit den ATC-Codes des - <iww>_anmerkung
+- <iww>_anmerkung - Elementes mit den ATC-Codes des
 
-- <link>-Elementes verlinkt werden (Verlinkung:  *Wirkstoffbezeichnung“*
+- <link>-Elementes verlinkt werden (Verlinkung:  ../iww_anmerkung/@V[Textstellen „=>*Wirkstoffbezeichnung“*] gleich
 
-- ../iww_anmerkung/@V[Textstellen „=>
-
-- ] gleich
-
-- ../iww_anmerkung/link/@beschreibung). Durch einen Klick auf den  Code gesucht werden.
-
-- Wirkstoff kann direkt nach den ATC-s
+- ../iww_anmerkung/link/@beschreibung). Durch einen Klick auf den  Wirkstoff kann direkt nach den ATC-sCode gesucht werden.
 
 - Sollten mehrere <link>-Elemente mit gleicher Beschreibung vorhanden  sein, muss die Suche für alle angegebenen ATC-Codes erfolgen.
 
@@ -1300,11 +1262,11 @@ den, muss dem Anwender der Medikationskatalog in Form einer Baumstruktur zur Ver
 
 - schluss“ des XML-Elementes ../iww_anmerkung/link/darreichungsform/)  bei der Suche berücksichtigt werden.
 
-- *o* Enthält das XML- Element <kapitel> ein Kindelement <verweise , muss dessen
+- o Enthält das XML- Element <kapitel> ein Kindelement <verweise , muss dessen
 
 - Inhalt als Link auf die Indikationen angezeigt werden, auf die verwiesen wird.  Sind benannte Indikationen in den Daten nicht enthalten, müssen diese als  Text angezeigt werden.
 
-- *o* Bei der Auswahl eines Wirkstoffes (../kapitel/wirkstoff/) müssen dem Anwender  alle Präparate aufgelistet und zur Auswahl angeboten werden, die dem ent- sprechenden ATC-Code (../kapitel/wirkstoff/atc/@V) zugeordnet sind.  Die Auswahl der Präparate muss die Informationen zur Darreichungsform aus  dem XML- Element <darreichungsform> (../wirkstoff/darreichungsform) berück-
+- o Bei der Auswahl eines Wirkstoffes (../kapitel/wirkstoff/) müssen dem Anwender  alle Präparate aufgelistet und zur Auswahl angeboten werden, die dem ent- sprechenden ATC-Code (../kapitel/wirkstoff/atc/@V) zugeordnet sind.  Die Auswahl der Präparate muss die Informationen zur Darreichungsform aus  dem XML- Element <darreichungsform> (../wirkstoff/darreichungsform) berück-
 
 - sichtigen, wobei das Attribut „V“ die Darreichungsform benennt und das Attribut  „einschluss“ anzeigt, ob die Darreichungsform eingeschlossen („true“) oder  ausgeschlossen („false“) wird.  Ebenso kann eine zusätzliche Beschränkung der Auswahl anhand des Status  „verschreibungspflicht“ (../wirkstoff/atc/@verschreibungspflicht) erfolgen. Wenn  das Attribut „verschreibungspflicht“ nicht angegeben ist, dann darf keine Be- schränkung anhand der Verschreibungspflicht erfolgen.
 
@@ -1324,13 +1286,13 @@ Suche muss folgendes berücksichtigt werden:
 
 -  Die Verschreibungspflicht (Attribut  ../iww_liste/iwwliste/verordnungen/@verschreibungspflicht). Der Wert „true“ beschreibt,  ob das Präparat verschreibungspflichtig ist. Fehlt das Attribut, dann darf die Verschrei- bungspflicht nicht berücksichtigt werden.
 
--  Dem Anwender müssen zu dem Präparat die folgenden Informationen angezeigt wer- den: - *o* Handelsname
+-  Dem Anwender müssen zu dem Präparat die folgenden Informationen angezeigt wer- den: - o Handelsname
 
-- *o* bei Wirkstoffverordnung der Wirkstoff - *o* ATC-Code
+- o bei Wirkstoffverordnung der Wirkstoff - o ATC-Code
 
-- *o* Bedeutung des ATC-Codes
+- o Bedeutung des ATC-Codes
 
-- *o* ggf. Darreichungsform und Verschreibungspflicht, falls diese für die Suche rele- vant sind
+- o ggf. Darreichungsform und Verschreibungspflicht, falls diese für die Suche rele- vant sind
 
 Dem Anwender muss die Möglichkeit geboten werden, im Rahmen des Navigierens in  den IWW-.Anmerkungen das ursprünglich gewählte Präparat erneut auszuwählen
 
@@ -1341,17 +1303,13 @@ Das ausgewählte Präparat kann direkt auf das Rezept übernommen werden.
 
 -  Alle ermittelten möglichen Verordnungen werden nach den hinterlegten Indikationen  (siehe: XML-:Element
 
-- ../iww_liste/iwwliste/bedingungs_liste/bedingung/iww_indikationen/indikationen) grup- piert für den Anwender dargestellt. Dabei muss der Name der Indikation ersichtlich  sein: - Codes muss die
+- ../iww_liste/iwwliste/bedingungs_liste/bedingung/iww_indikationen/indikationen) grup- piert für den Anwender dargestellt. Dabei muss der Name der Indikation ersichtlich  sein:
 
-- o Zu den einzelnen ATC-IWW-
-
-- Kategorie (Attribut
+- o Zu den einzelnen ATC-IWW-Codes muss die Kategorie (Attribut
 
 - „iww-_kategorie“ des XML Elementes ../iww_liste/iwwliste/verordnungen/atc5/)  angezeigt werden sowie die entsprechend zugeordnete Farbe (XML-Element  „../geltungsbereich_kv/iww_kategorien/kategorie/@color“) angezeigt werden.
 
-- ../verordnungen/verweis_dokument anzeigen
-
-- o Der Anwender muss die Möglichkeit haben, sich mögliche referenzierte Doku- mente aus den XML-en Element - zu lassen.
+- o Der Anwender muss die Möglichkeit haben, sich mögliche referenzierte Doku- mente aus den XML-en Element ../verordnungen/verweis_dokument anzeigen - zu lassen.
 
 - o Ebenso müssen die Informationen des Kindelementes <iww_anmerkung> pro  ATC-Code angezeigt werden:
 
@@ -1359,27 +1317,25 @@ Das ausgewählte Präparat kann direkt auf das Rezept übernommen werden.
 
 - <link>. Der Inhalt dieses Kindelementes muss dem Anwender als Aus- wahlmöglichkeit dargestellt werden. Das Element kann beliebig oft vor- kommen.
 
-- *Wirkstoffbezeichnung*“ des
-
 - Der Inhalt des <link> Elementes kann in den Text des Elementes  <iww-_anmerkung> (Wert des Attributes „V“ des XML Elementes
 
 - <iww _anmerkung>) als direkter Link integriert werden.
 
-- Dafür müssen die Textstellen „=> <iww_anmerkung> - Elementes mit den ATC-- Codes des <link> Ele-
+- Dafür müssen die Textstellen „=>*Wirkstoffbezeichnung*“ des
 
-- ] gleich
+- <iww_anmerkung> - Elementes mit den ATC-- Codes des <link> Ele-
 
-- mentes verlinkt werden (Verlinkung: ../iww_anmerkung/@V[Textstellen  „=>*Wirkstoffbezeichnung“* ../iww_anmerkung/link/@beschreibung). Durch einen Klick auf den  Codes gesucht werden.
+- mentes verlinkt werden (Verlinkung: ../iww_anmerkung/@V[Textstellen  „=>*Wirkstoffbezeichnung“*] gleich
 
-- Wirkstoff kann direkt nach den ATC-
+- ../iww_anmerkung/link/@beschreibung). Durch einen Klick auf den  Wirkstoff kann direkt nach den ATC- Codes gesucht werden.
 
 - Sollten mehrere <link> - Elemente mit gleicher Beschreibung vorhanden  sein, muss die Suche für alle angegebenen ATC-Codes erfolgen.
 
 - Wenn das Element <link> ein oder mehrere Kindelemente <darrei- chungsform> besitzt, müssen die Informationen (Attribute „V“ und „ein- schluss“ des XML-Elementes ../iww_anmerkung/link/darreichungsform/)  bei der Suche berücksichtigt werden.
 
-- *#Indikationstext#*
+- o Das XML-Element <iww_anmerkung> kann textuelle Verweise auf Indikationen  enthalten. Diese sind wie folgt gekennzeichnet „*#Indikationstext#*
 
-- o Das XML-Element <iww_anmerkung> kann textuelle Verweise auf Indikationen  enthalten. Diese sind wie folgt gekennzeichnet „ Der textuelle Verweis muss soll durch einen Link auf den entsprechenden  Baumknoten ersetzt werden.
+- Der textuelle Verweis muss soll durch einen Link auf den entsprechenden  Baumknoten ersetzt werden.
 
 -  Wenn ein XML-r-Element <verordnungsalternative> enthalten ist, dann muss die Ve
 
@@ -1424,40 +1380,40 @@ Für die Leitsubstanz- Ziele
 
 - 1. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“.
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“.
 
 - 2. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V=“false“ ist und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V=“false“ ist und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V=“true“ ist und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V=“true“ ist und
 
-- für die PZN ein Rabattvertrag (Datenelement 043 und/oder 044 siehe Anforde- rung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
+-  für die PZN ein Rabattvertrag (Datenelement 043 und/oder 044 siehe Anforde- rung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
 
 Für die Generika-Ziele
 
 - 1. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
 
-- für die PZN ein Rabattvertrag (Datenelement 043 und/oder 044 siehe Anforde- rung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
+-  für die PZN ein Rabattvertrag (Datenelement 043 und/oder 044 siehe Anforde- rung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
 
 - 2. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
 
 ---
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
 
-- der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) <= Festbetrag (Datenelement  013, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]).
+-  der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) <= Festbetrag (Datenelement  013, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]).
 
 Die Kennzeichnung als **unerwünschtes** Präperate erfolgt wie folgt:
 
@@ -1465,21 +1421,21 @@ Für die Leitsubstanz- Ziele
 
 - 1. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
 
 - 2. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “L“ (Leitsubstanz-Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
 
-- für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe Anfor-
+-  für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe Anfor-
 
 - derung P2-110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
 
@@ -1487,54 +1443,54 @@ Für die Generika-Ziele
 
 - 1. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
 
-- für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe Anfor-
+-  für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe Anfor-
 
 - derung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
 
 - 2. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
 
-- der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG])
+-  der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG])
 
 - Festbetrag (Datenelement 013, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “true“ und
 
-- für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe
+-  für die PZN **kein** Rabattvertrag (Datenelement 043 und/oder 044 siehe
 
 - Anforderung P2-.110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt
 
 - 3. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
 
 
 ---
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
 
 - 4. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
-- …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
+-  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
+-  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
 
-- der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG])
+-  der AVP (Datenelement 09, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG])
 
 - Festbetrag (Datenelement 013, siehe Anforderung P2-110 im  [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) und
 
-- …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
+-  …/kombi_verordnungsziel/pzn_liste/pzn/rabatt_gueltig/@V ist “false“.
 
 Alle genannten Kennzeichnungen erfolgen, wenn:
 
@@ -1553,9 +1509,9 @@ Beispielhafte Abbildung der Regelungen:
 
 Bei einem als erwünscht gekennzeichnten Präparat muss der Anwender die Möglichkeit ha- ben, sich anzeigen zu lassen:
 
-- welcher Wirkstoffvereinbarung (XML-Element: …/kombi_verordnungsziel/@V und  @DN) dieses Präparat unterliegt sowie die.
+-  welcher Wirkstoffvereinbarung (XML-Element: …/kombi_verordnungsziel/@V und  @DN) dieses Präparat unterliegt sowie die.
 
-- möglichen hinterlegten Dokumente (XML-Element:  (…/kombi_verordnungsziel/verweis_dokument/@V) zu dem Präparat.
+-  möglichen hinterlegten Dokumente (XML-Element:  (…/kombi_verordnungsziel/verweis_dokument/@V) zu dem Präparat.
 
 
 ---

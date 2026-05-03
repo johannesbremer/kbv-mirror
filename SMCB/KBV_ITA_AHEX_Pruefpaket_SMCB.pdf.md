@@ -66,9 +66,9 @@ INHALT
 
 # 1 ALLGEMEINES
 
-und beinhaltet Prüffälle für die Sektorzulassung
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Sektorzulassung
 
-Dieses Dokument beschreibt das allgemeine Vorgehen  SMC-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen.
+SMC-B im Zuständigkeitsbereich der Kassenärztlichen Vereinigungen.
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechten und Pflichten des Antragstellers definiert, bildet
 
@@ -76,9 +76,7 @@ den Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung „Sektorzulassung SMC B“ [KBV_ITA_FMEX_EE_SMCB]
 
-neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen
-
-werden, die nicht Bestandteil dieses Prüfpaketes sind.
+neben Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen  werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 ## 1.1 GRUNDLAGE
 
@@ -90,21 +88,15 @@ Produkttypsteckbrief [gemProdT_X.509_TSP_nonQES_SMC-B].
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Im Folgenden wird der Zertifizierungsablauf kurz dargestellt:
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
 
-- eser muss vollständig ausgefüllt und
+- unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden. Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst  den Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail
 
-- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Di unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht
+- eingereichten Antrag auf Zertifizierung hochladen.
 
-- l initiieren und dort den vorab via Mail
+- 2. Der Antragstellerstellt eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung  relevanten Prüfunterlagen [1.4 Prüfunterlagen] auf dem Zertifizierungsportal bereit
 
-- werden. Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst  den Antrag auf Zertifizierung eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsporta eingereichten Antrag auf Zertifizierung hochladen.
-
-- 2. Der Antragstellerstellt eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung  relevanten Prüfunterlagen [1.4 Prüfunterlagen] auf dem Zertifizierungsportal bereit - 3.
-
-- den Antragsteller zur Sichtprüfung auffordern.
-
-- Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch die KBV ab) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
 

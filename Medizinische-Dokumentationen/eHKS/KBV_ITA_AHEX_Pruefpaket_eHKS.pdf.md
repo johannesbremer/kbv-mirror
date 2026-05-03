@@ -111,11 +111,11 @@ Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
 
 ---
 
-# ABBILDUNGSVERZEICHNIS 7
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 23
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
-Abbildung 2: Testdatenvalidierung
+Abbildung 2: Testdatenvalidierung 23
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
@@ -179,8 +179,6 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
-##
-
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
@@ -209,17 +207,13 @@ Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-##
-
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
 ## 1.5 PRÜFUNTERLAGEN
 
-##
-
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- eHKS - Unterlag en bestehend aus XML - Dokumenten:
+- **eHKS-Unterlagen bestehend aus XML-Dokumenten:**
 
 Eine Begleitdatei (*.idx) sowie eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im
 
@@ -240,9 +234,9 @@ Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Or
 
 Wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. Szenario steht. Beispielsweise lautet der  Dateiname für Konstellation 1 aus Prüffall 8006 „Screenshot_8006_1.pdf“. Sollte es keine Konstellation  in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der Dateiname bei Prüffall 8006  „Screenshot_8006.pdf“.
 
-- -Pakets zur Verfügung zu stellen.
+- Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM-Pakets zur Verfügung zu stellen.
 
--  Außerdem sind alle Protokolle und Statistiken des eingesetzten XPM Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
+- Nach Durchführung eines Prüflaufs sind diese im Ordner „Listen“ zu finden.
 
 **Ordnerstruktur**
 
@@ -284,8 +278,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | BEZEICHNUNG | INHALT |
 |---|---|
 | Betriebsstättennummer (BSNR) | 391111122 |
-| (N)BSNR | Gemeinschaftspraxis Dr. med. Topp- |
-| Lebens | 839123101 |
+| (N)BSNR-Bezeichnung: | Gemeinschaftspraxis Dr. med. Topp- |
+| Lebenslange Arztnummer (LANR) Dermatologe | 839123101 |
 | Arztname | Dr. med. Hans Topp-Glücklich, Facharzt für |
 | Lebenslange Arztnummer (LANR): | 839123121 |
 | Arztname: | Dr. med. Otto Müller, Facharzt für |
@@ -297,7 +291,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | Dokumentationsdatum (Kopfdatum): | 07.01.2020  07.01.2024 |
 | Zu verwendende Prüfnummer: | Y/53/0807/36/001 |
 
-- Bezeichnung: Glücklich/Müller ) Dermatologe Dermatologie Allgemeinmedizin
+-
+
+-
+
+Glücklich/Müller Dermatologie Allgemeinmedizin
 
 ---
 
@@ -366,11 +364,11 @@ erten
 
 ---
 
-2.2 PRÜFFALL 8002
+**2.2** **PRÜFFALL 8002**
 
 |  |  |
 |---|---|
-| Prüffall - ID | 8002 |
+| Prüffall-ID | 8002 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Nicht-Dermatologen und |
 | Voraussetzung |  |
 | Prüfunterlagen | › › |
@@ -390,7 +388,7 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | Untersuchungsdatum | |
 | Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
 
-| NICHT | |
+| NICHT-DERMATOLOGEN-DATEN | |
 |---|---|
 | Verdachtsdiagnose | |
 | Verdachtsdiagnose Nicht-Dermatologe | Ja |
@@ -403,23 +401,23 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | Gesundheitsuntersuchung | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
-Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten - DERMATOLOGEN - DATEN
+Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten
 
 ---
 
-2.3 PRÜFFALL  8003
+**2.3** **PRÜFFALL 8003**
 
 |  |  |
 |---|---|
-| Prüffall - ID | 8003 |
+| Prüffall-ID | 8003 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
 | Voraussetzung |  |
 | Prüfunterlagen | eHKS-Dokumentationsunterlagen |
 | Hinweis |  |
 
-| DERMATOLOGEN | |
+| DERMATOLOGEN-DATEN | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs | |
+| Überweisung im Rahmen des Hautkrebs-Screenings | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Nein |
 | Überweisender Arzt hat HKS durchgeführt | Nein |
 | Angabe der Verdachtsdiagnose des überweisenden Arztes | |
@@ -464,7 +462,7 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 | Untersuchungsdatum | |
 | Untersuchungsdatum | 0.6.01.2020  06.01.2024 |
 
-erten Versichertendaten: Die Versichertendaten von 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen Viktor Müller (XML_09) einlesen und speichern - DATEN - Screenings
+erten Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
 
@@ -511,19 +509,19 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 ---
 
-2.4 PRÜFFALL 8004
+**2.4** **PRÜFFALL 8004**
 
 |  |  |
 |---|---|
-| Prüffall - ID | 8004 |
+| Prüffall-ID | 8004 |
 | Testziel | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
 | Voraussetzung |  |
 | Prüfunterlagen | eHKS-Dokumentationsunterlagen |
 | Hinweis |  |
 
-| DERMATOLOGEN | |
+| DERMATOLOGEN-DATEN | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs | |
+| Überweisung im Rahmen des Hautkrebs-Screenings | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
 | Überweisender Arzt hat HKS durchgeführt | Ja |
 | Angabe der Verdachtsdiagnose des überweisenden Arztes | |
@@ -568,7 +566,7 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Untersuchungsdatum | |
 | Untersuchungsdatum | 0.2.01.2020  02.01.2024 |
 
-erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs - DATEN - Screenings
+erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs
 
 ---
 
@@ -615,11 +613,11 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 
 ---
 
-2.5 PRÜFFALL 8005
+**2.5** **PRÜFFALL 8005**
 
 |  |  |
 |---|---|
-| Prüffall - ID | 8005 |
+| Prüffall-ID | 8005 |
 | Testziel | Kontrolle der Erkennung von Fehleingaben |
 | Voraussetzung | Die Dokumentation wird durch einen Dermatologen ausgefüllt . Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
 | Prüfunterlagen | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
@@ -631,36 +629,36 @@ Die Versichertendaten von Dr. Guido Tils (Anhang 4.2) im Ersatzverfahren erfasse
 
 - 2. Anlegen von fehlerhaften Hautkrebs
 
-Konstellation 1:
-
-|  | |
-|---|---|
-|  | |
-| Patientennummer | 8005 |
-| Geschlecht der/des Versich | Männlich |
-|  | |
-| Untersuchungsdatum |  |
+**Konstellation 1:**
 
 -
 
 - -Dokumentationen durch einen Dermatologen
 
-Konstellation 2:
+|  | |
+|---|---|
+| Allgemeine Daten | |
+| Patientennummer | 8005 |
+| Geschlecht der/des Versich | Männlich |
+| Untersuchungsdatum | |
+| Untersuchungsdatum |  |
+
+**Konstellation 2:**
 
 |  | |
 |---|---|
 | 1. Prüfschritt: Geburtsdatum erfassen | 24.10.1995 |
 | 2. Prüfschritt: Geburtsdatum erfassen | 24.10.1960 |
 
-Konstellation 3:
+**Konstellation 3:**
 
-| DERMATOLOGEN | |
+| DERMATOLOGEN-DATEN | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs | |
+| Überweisung im Rahmen des Hautkrebs-Screenings | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings |  |
 | Überweisender Arzt hat HKS durchgeführt |  |
 
-softwareseitig erkannt werden sind. orgegeben Allgemeine Daten erten - DATEN - Screenings
+softwareseitig erkannt werden sind. orgegeben erten
 
 ---
 
@@ -827,29 +825,27 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| vorhandene Patientennummer (EDV) eingegeben. Es wird eine |
+| Es wird eine bereits im System |
 | Szenario 2 |
 | Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1 |
 
-(KBV_ITA_VGEX_Anforderungskatalog_eHKS Es wird eine bereits im System Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
+(KBV_ITA_VGEX_Anforderungskatalog_eHKS vorhandene Patientennummer (EDV) eingegeben. Es wird eine Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
 ---
 
-## 2.7 KONDITIONALER
-
-PRÜFFALL 8007
+**2.7** **KONDITIONALER PRÜFFALL 8007**
 
 |  |  |
 |---|---|
-| Prüffall - ID | 8007 |
+| Prüffall-ID | 8007 |
 | Testziel | Anlage einer Dokumentation im Rahmen von ergänzenden Verträgen durch einen |
 | Voraussetzung | Es wurde die optionale Funktion K1-25 (Unterstützung von ergänzenden Verträgen |
 | Prüfunterlagen | › › |
 | Hinweis | Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |
 
-| DERMATOLOGEN | |
+| DERMATOLOGEN-DATEN ERGÄNZENDE VERTRÄGE | |
 |---|---|
-| Überweisung im Rahmen des Hautkrebs | |
+| Überweisung im Rahmen des Hautkrebs-Screenings | |
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
 | Überweisender Arzt hat HKS durchgeführt | Nein |
 | Angabe der Verdachtsdiagnose des überweisenden Arztes | |
@@ -894,7 +890,7 @@ PRÜFFALL 8007
 | Untersuchungsdatum | |
 | Untersuchungsdatum | 01.01.2020 |
 
-Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen - DATEN ERGÄNZENDE VERTRÄGE - Screenings
+Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen
 
 ---
 

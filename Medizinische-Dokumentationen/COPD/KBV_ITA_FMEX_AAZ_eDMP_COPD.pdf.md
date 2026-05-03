@@ -32,7 +32,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -45,7 +45,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] [ ] [ ] [ ]
 
 ---
 
@@ -86,14 +86,14 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
-| ☐ | verbindlichen Kostenträger |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN
 
 Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -101,7 +101,7 @@ Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realis
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
 |---|---|
 |  |  |
 |  |  |
@@ -110,11 +110,9 @@ Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realis
 |  |  |
 |  |  |
 
-# REALISIERUNG VON ANFORDERUNGEN
+## EDMP COPD
 
-## REALISIERTE OPTIONALE FUNKTIONEN EDMP COPD
-
-[ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie P lausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] NUMMER ANFORDERUNGSKATALOG EDMP COPD LT.
+[ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie P verbindlichen Kostenträger lausibilitätsrichtlinien erfüllt sind. -Stammdatei [ ] [ ] [ ] ANFORDERUNGSKATALOG EDMP COPD LT.
 
 ---
 
@@ -123,7 +121,7 @@ Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realis
 Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die  „Geschäftsführung“ zu benennen.
 
 |  | |
-|  | |
+| Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
 | Name* |  |
 | Telefonnummer* |  |
@@ -139,7 +137,6 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
-Ansprechpartner(in) für das vorliegende Zertifizierungsthema
 
 ---
 
@@ -200,15 +197,13 @@ Rezertifizierung - Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenz
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
--
-
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-- teller- und
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hers zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 
 ---

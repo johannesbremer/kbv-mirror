@@ -46,11 +46,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 6
 
-Prüfstammdaten 1.6.1
+1.6.1 Prüfstammdaten
 
 6
 
-Versichertendaten 1.6.2
+1.6.2 Versichertendaten
 
 6
 
@@ -58,9 +58,7 @@ Versichertendaten 1.6.2
 
 7
 
-Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
-
-1.6.2.2
+1.6.2.2 Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
 
 7
 
@@ -70,7 +68,7 @@ Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
 
 8
 
-Falldarstellung 1.6.5
+1.6.5 Falldarstellung
 
 9
 
@@ -235,11 +233,11 @@ der dokumentierten Verordnung anzuordnen sind.
 
 ---
 
-z.B. **PF01.pdf**
-
 1
 
-<PrüffallNr.> .pdf 1 Nr. des Prüffalls
+<PrüffallNr.> .pdf  z.B. **PF01.pdf**
+
+1 Nr. des Prüffalls
 
 2 Nr. der Anweisung
 
@@ -249,7 +247,9 @@ Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermitt
 
 folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
-<PrüffallNr.> _[AnweisungsNr.] .*  2.3 z.B. **PF01.mp4**
+2.3
+
+<PrüffallNr.> _[AnweisungsNr.] .*  z.B. **PF01.mp4**
 
 Die dokumentierten Verordnungen und Screenshots und die Videomitschnitte sind in einem ZIP-Archiv zu
 
@@ -267,9 +267,9 @@ Die Struktur des ZIP-Archives sollte folgende Form aufweisen:
 
 - EF.GVD = geschützte Versichertendaten
 
-bereitgestellten Prüfunterlagen darf eine maximale Größe
+Die Gesamtheit der im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe
 
-Die Gesamtheit der im Zertifizierungsverfahren von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung
+von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung
 
 zu erstellen.
 
@@ -277,17 +277,15 @@ zu erstellen.
 
 ### 1.6.1 Prüfstammdaten
 
-Prüfstammdateien verwendet
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  [PRF_Stammdaten] gekennzeichnet.
-
-bzw. der Dateiname mit „PRF”
+werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” [PRF_Stammdaten] gekennzeichnet.
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  -Dateien zur Verfügung gestellt. Die Archivdatei
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei
 
-Daten des Versicherten und werden als XML (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
+(VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die
 
 folgenden XML-Dateien mit Versichertenstammdaten
 
@@ -381,7 +379,7 @@ aktuellen Daten des DiGA-
 
 ---
 
-|  | PZN | PRÜFFÄLLE |
+| DIGITALE GESUNDHEITSANWENDUNG | PZN | PRÜFFÄLLE |
 |---|---|---|
 | Selfapys Online-Kurs bei Generalisierter Angststörung | 17554323 | PF01 |
 | Velibra | 16879359 | PF02 |
@@ -424,23 +422,8 @@ Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es 
 
 , […]).
 
-DIGITALE GESUNDHEITSANWENDUNG
 
 ---
-
-- Daten des Produktverzeichnisses
-
--  P2-010 Vollständigkeit und Aktualität der -
-
--
-
-- dass die Werbung nicht mit Funktionen hinterlegt ist, die unmittelbar oder mittelbar zur Auswahl oder  Erfassung der Verordnungsdaten oder
-
-- zur Ausstellung einer Verordnung oder - führt.
-
--  zu einer Veränderung der Grundeinstellungen bzw. der Konfiguration der Verordnungssoftware
-
-- die Möglichkeit besteht, angezeigte Werbefenster durch eine einzige Aktion auszuschalten.
 
 # 2 PRÜFFÄLLE
 
@@ -451,17 +434,17 @@ DIGITALE GESUNDHEITSANWENDUNG
 
 **Anweisung 1:**
 
-durch Screenshots.
-
-Dokumentieren Sie den vollständigen Anwendungsdialog zur Anzeige des Datums des Datenstands des  Produktverzeichnisses einschließlich möglicher Hinweissteuerung
+Dokumentieren Sie den vollständigen Anwendungsdialog zur Anzeige des Datums des Datenstands des  Produktverzeichnisses einschließlich möglicher Hinweissteuerung durch Screenshots.
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen**
 
+- P2-010 Vollständigkeit und Aktualität der Daten des Produktverzeichnisses
+
 **Anweisung 2:**
 
-(siehe Tabelle dieser Anweisung). Die DiGA-
+Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Die DiGA-
 
-Erstellen Sie eine Verordnung mit folgenden Daten Verordnungseinheit soll nach einer Suche im Produktverzeichnis mit den angegebenen Suchkriterien
+Verordnungseinheit soll nach einer Suche im Produktverzeichnis mit den angegebenen Suchkriterien
 
 ausgewählt werden.
 
@@ -469,19 +452,21 @@ Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher
 
 angezeigter Werbung durch ein Video. Dabei sollen für die zu verordnende Verordnungseinheit alle in den
 
-Daten des Produktverzeichnisses verfügbaren Information vollständig zur Anzeige gebracht werden, die  laut Pflichtfunktionen P4-311 und KP4-312 mindestens auf der zweiten und dritten Ebene angezeigt  werden müssen. Von der Anzeige der gesamten Informationen zu Datenschutz und Datensicherheit bzw.
+Daten des Produktverzeichnisses verfügbaren Information vollständig zur Anzeige gebracht werden, die  laut Pflichtfunktionen P4-311 und KP4-312 mindestens auf der zweiten und dritten Ebene angezeigt  werden müssen. Von der Anzeige der gesamten Informationen zu Datenschutz und Datensicherheit bzw.  zum positiven Versorgungseffekt (gemäß KP4-312) müssen im Video des Prüffalles nur die Fragen und  deren Antworten gemäß der untenstehenden Tabelle gezeigt werden.
 
-gezeigt werden.
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist. Dabei sind
 
-zum positiven Versorgungseffekt (gemäß KP4-312) müssen im Video des Prüffalles nur die Fragen und  deren Antworten gemäß der untenstehenden Tabelle
+die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
 
-rdnung, sofern dies nach den Vorgaben möglich ist. Dabei sind
+Falls die konditionale Pflichtfunktion KP3-020 unterstützt werden muss, ist während des  Verordnungsvorgangs Werbung anzuzeigen und in geeigneter Weise zu demonstrieren,
 
-Dokumentieren Sie die ausgedruckte Vero die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
+- dass die Werbung nicht mit Funktionen hinterlegt ist, die unmittelbar oder mittelbar zur Auswahl oder  Erfassung der Verordnungsdaten oder
 
-und in geeigneter Weise zu demonstrieren,
+- zur Ausstellung einer Verordnung oder
 
-Falls die konditionale Pflichtfunktion KP3-020 unterstützt werden muss, ist während des  Verordnungsvorgangs Werbung anzuzeigen
+- zu einer Veränderung der Grundeinstellungen bzw. der Konfiguration der Verordnungssoftware führt.
+
+- die Möglichkeit besteht, angezeigte Werbefenster durch eine einzige Aktion auszuschalten.
 
 | Felder Muster 16 | Daten |
 |---|---|
@@ -500,7 +485,7 @@ der Indikationen
 
 | Fragenkatalog | Frage |
 |---|---|
-| Datenschutz und Datensicherheit | Erzwingt die digitale Gesundheitsanwendung, dass eine |
+| Datenschutz und Datensicherheit | die digitale Gesundheitsanwendung nutzende Person |
 | Positiver Versorgungseffekt | Die digitale Gesundheitsanwendung enthält ein |
 
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
@@ -572,7 +557,7 @@ einschließlich möglicher Hinweissteuerung oder
 
 den Vorgaben möglich ist. Dabei sind (Prüffall PF01). Dabei sollen
 
-die digitale Gesundheitsanwendung nutzende Person die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument in den
+Erzwingt die digitale Gesundheitsanwendung, dass eine die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument in den
 
 
 ---

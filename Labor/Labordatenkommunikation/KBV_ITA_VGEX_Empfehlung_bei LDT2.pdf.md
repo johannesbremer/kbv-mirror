@@ -80,8 +80,8 @@ Daten bzgl. des Muster 10C oder OEDG aufgenommen werden:
 | FK | VORKOMMEN 1 2 3 4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | 8616 | 1 | Testungen | K |  |
-| 8626 | 1 | Rechtsgrundlage der | k | Entweder darf FK 8626 oder FK 8624  Wenn Inhalt von FK 8626 = 1 oder 3, Wenn Inhalt von FK 8626 = 3, darf FK Wenn Inhalt von FK 8626 = 1, muss FK |
-| 8627 | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 1 oder 3, |
+| 8626 | 1 | Rechtsgrundlage der | k | Entweder darf FK 8626 oder FK 8624 Wenn Inhalt von FK 8626 = 2, muss Wenn Inhalt von FK 8626 = 1 oder 3, Wenn Inhalt von FK 8626 = 3, darf FK Wenn Inhalt von FK 8626 = 1, muss FK |
+| 8627 | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 2, muss Wenn Inhalt von FK 8626 = 1 oder 3, |
 | 8617 | 1 | Beauftragungsgrund | m | Wenn Inhalt von FK 8626 = 1, muss Entweder darf FK 8617 oder FK 8624 Wenn Inhalt von FK 8626 = 3, darf FK |
 
 einigen Stellen
@@ -90,7 +90,7 @@ von Laborinformationen mittels LDT2
 
 Standards durch die KBV anzusehen.
 
-vorhanden sein.  Wenn Inhalt von FK 8626 = 2, muss entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. 8617, 8618, 8619 und 8620 nicht vor- handen sein. 8617 vorhanden sein. Wenn Inhalt von FK 8626 = 2, muss entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine be- liebige Kombination der zwei drei Feld- kennungen vorhanden sein. vorhanden sein.  8617 nicht vorhanden sein.
+vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. 8617, 8618, 8619 und 8620 nicht vor- handen sein. 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine be- liebige Kombination der zwei drei Feld- kennungen vorhanden sein. vorhanden sein.  8617 nicht vorhanden sein.
 
 ---
 
@@ -130,11 +130,11 @@ min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldke
 | 8632 | Virusvarianten- diagnostik | 1 | num | 1 = Varianten-PCR nach § 4b Satz 2 TestV nach positivem PCR-Test | Muster OEDG |
 | 8618 | Betreut/unter- | 1 | num | 1 = ja | Muster 10C Muster OEDG |
 | 8619 | Tätigkeit in Ein- | 1 | num | 1 = ja | Muster 10C Muster OEDG |
-| 8620 | Betroffene Ein- | 1 | num | 1 = Medizinischen Einrichtungen 2 = Pflege- und anderen Wohneinrich-  4 = Sonstigen Einrichtungen | Muster 10C Muster OEDG |
+| 8620 | Betroffene Ein- | 1 | num | 1 = Medizinischen Einrichtungen 2 = Pflege- und anderen Wohneinrich- 3 = Gemeinschaftseinrichtungen 4 = Sonstigen Einrichtungen | Muster 10C Muster OEDG |
 | 8621 | Einverständnis | 1 | num | 1 = ja | Muster 10C Muster OEDG |
 | 8622 | Corona-GUID | 4.3 | alnum | Die eindeutige GUID wird nach den  o   | Muster 10C Muster OEDG |
 
-mer des Getes- teten grund gebracht in / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest 3 = Gemeinschaftseinrichtungen folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann.
+mer des Getes- teten grund gebracht in / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann.
 
 ---
 
@@ -167,11 +167,7 @@ Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, da
 
 ## 2.2 ERWEITERUNG DER SATZART 8201
 
-sollte die folgende Feldkennung
-
-Nach der Feldkennung **8311**
-
-ergänzt werden:
+Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 
 | FK | VORKOMMEN 1 2 3 4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|

@@ -149,7 +149,7 @@ Diese Information ist verpflichtend anzugeben
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| – | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
+| Digitales Muster 6 | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | Digitales Muster 6 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | Digitales Muster 10 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | Digitales Muster 10 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
@@ -159,8 +159,8 @@ Diese Information ist verpflichtend anzugeben
 | Digitales Muster 39 - | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Auftrag - Export | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 | LDT-Auftrag - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
-| – Vollständig | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
-| – Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
+| LDT-Befund Vollständig | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
+| LDT-Befund Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Befund - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 
 1 LDT-Befund-Export Vollständig beinhaltet LDT
@@ -233,7 +233,7 @@ Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszer
 |---|---|---|
 | Ort, Datum |  | Unterschrift |
 |  |  |  |
-|  |  |  |
+|  |  | Name in Druckbuchstaben |
 
 **Ansprechpartner:**
 
@@ -243,4 +243,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung
 
-Name in DruckbuchstabenHerbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de

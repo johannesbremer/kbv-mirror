@@ -87,17 +87,11 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2  SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und K indern“.
 
-## F
-
-## 1.2 ZERTIFIZIERUNGSABLAU
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach
-
-- er muss vollständig ausgefüllt und
-
-- Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dies
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und
 
 - unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den
 
@@ -105,9 +99,9 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 - eingereichten Antrag auf Zertifizierung hochladen.
 
-- und für die Zertifizierung erforderlichen
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen
 
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle
+- Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle
 
 - Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
 
@@ -124,25 +118,17 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierun
 
 ---
 
-## L
-
-## 1.3 ZERTIFIZIERUNGSPORTA
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung durch das Referat Zertifizierung.
 
-Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-n Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf
 
-unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert  werden. Bitte beachte
-
-d den Antrag auf
-
-Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert un Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine
-
-Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
+Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln. Vor jedem Upload im  Zertifizierungsportal muss die komplette vorgegebene Verzeichnisstruktur mit den von Ihnen erstellten  Prüfunterlagen in Form einer ZIP-Datei archiviert werden.
 
@@ -150,19 +136,15 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, werden  Sie vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler zu  beheben bzw. die Lieferung zu vervollständigen.
 
--Format) erzeugt und
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML oder XML-Format) erzeugt und
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML oder XML
+Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung
 
-er Prüfautomatisierung
-
-Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft. Erst wenn alle Prüfunterlagen vorliegen und von d als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
-
-dierung die Hinweise in Kapitel 3
+als fehlerfrei erkannt wurden, erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt,  dass Dateien fehlerhaft sind, werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung durch das Referat
 
-Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvali
+Zertifizierung nicht stattfindet. Des Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3
 
 berücksichtigt werden.
 
@@ -172,15 +154,11 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update 
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
+Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet: - 1
 
-- Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis - -Schnittstellen] (im Archiv
+-  Eine Archivdatei (*.zip.XKM) , welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen] (im Archiv
 
-- KBV_ITA_VGEX_XML
-
-- „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das - 1
-
-- enthält. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte folgender Quelle: [
+- „Austausch von XML-Daten“) Kapitel 3.4 „Dateinamen“. Die XML-Dateien müssen fehlerfrei gegen das
 
 1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
 
@@ -213,7 +191,7 @@ Der 5807 ist nur dann verpflichtend zu bearbeiten und einzureichen, wenn im Antr
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
-|  | INHALT |
+| BEZEICHNUNNG | INHALT |
 |---|---|
 | Betriebsstättennummer (BSNR): | 391234511 |
 | BSNR-Bezeichnung: | Praxis Dr. med. Heribert Topp-Glücklich |
@@ -227,7 +205,6 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 rderte
 
-BEZEICHNUNNG
 
 ---
 
@@ -296,7 +273,7 @@ Versorgungskonzept andere
 
 ---
 
-2.2 PRÜFFALL 5802
+**2.2** **PRÜFFALL 5802**
 
 |  |  |
 |---|---|
@@ -310,12 +287,12 @@ Versorgungskonzept andere
 
 |  |  |
 |---|---|
-| Allgemeine und | |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5802 |
 | Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
-| Vor Verordnun | |
+| Vor Verordnung | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
@@ -331,7 +308,7 @@ Versorgungskonzept andere
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Patientenangaben andere Ursache
+andere Ursache
 
 ---
 
@@ -359,7 +336,7 @@ Versorgungskonzept andere
 
 ---
 
-2.3 PRÜFFALL 5803
+**2.3** **PRÜFFALL 5803**
 
 |  |  |
 |---|---|
@@ -373,7 +350,7 @@ Versorgungskonzept andere
 
 |  |  |
 |---|---|
-| Allgemeine und | |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | Ac13762434 |
 | Geburtsjahr des Kindes | 2009 |
 | Geburtsmonat des Kindes | 04 |
@@ -383,7 +360,7 @@ Versorgungskonzept andere
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2012 |
 | Sprachentwicklungsstörung | ja, andere Ursache |
-|  | Andere |
+|  | Andere Ursache |
 | Verordnung | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
@@ -394,7 +371,7 @@ Versorgungskonzept andere
 |  | Andere Gerätetechnik Luftleitung |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Kopfbügel / Stirnband; |
 
-Patientenangaben teilimplantiertes Knochenleitungsgerät
+teilimplantiertes Knochenleitungsgerät
 
 ---
 
@@ -422,7 +399,7 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 
 ---
 
-2.4 PRÜFFALL 5804
+**2.4** **PRÜFFALL 5804**
 
 |  |  |
 |---|---|
@@ -436,7 +413,7 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 
 |  |  |
 |---|---|
-| Allgemeine und | |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5804 |
 | Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
@@ -457,7 +434,7 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | teilimplantiertes Knochenleitungsgerät |
 
-Patientenangaben andere Ursache andere
+andere Ursache andere
 
 ---
 
@@ -485,7 +462,7 @@ Versorgungskonzept Testverfahren
 
 ---
 
-2.5 PRÜFFALL
+**2.5** **PRÜFFALL 5805**
 
 |  |  |
 |---|---|
@@ -494,8 +471,6 @@ Versorgungskonzept Testverfahren
 | Voraussetzung |  |
 | Prüfunterlagen | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
 | Hinweis | Konkrete Dokumentationsdat |
-
-## 5805
 
 | KONSTELLATION 5805 |  |
 |---|---|
@@ -523,7 +498,7 @@ Versorgungskonzept Testverfahren
 | Sprachentwicklungsstörung | nein; nicht beurteilbar |
 |  |  |
 
-verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1 5805 andere Ursache -3 andere Ursache
+verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 andere Ursache -3 andere Ursache
 
 ---
 
@@ -593,19 +568,19 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1 5805 and
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| egt. Bei |
+| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angel |
 | Szenario 2 |
 | Weisen Sie die korrekte Systemfunktionalität nach P1 |
 | Szenario 3 |
-| PDF-Dokument |
+| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als |
 | Szenario 4 |
 | Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
 
-Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angel Angabe der Patienten -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. -170 bis P1-190 nach. Es werden Screenshots vom Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneute Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01. 2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). -ID nicht n Aufruf dieser
+Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Angabe der Patienten -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. -170 bis P1-190 nach. Es werden Screenshots vom Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneute Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01. 2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). egt. Bei -ID nicht n Aufruf dieser PDF-Dokument
 
 ---
 
-2.7 PRÜFFALL 5807 (OPTIONAL)
+**2.7** **PRÜFFALL 5807 (OPTIONAL)**
 
 |  |  |
 |---|---|
@@ -619,7 +594,7 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird
 
 |  |  |
 |---|---|
-| Allgemeine und | |
+| Allgemeine und Patientenangaben | |
 | Patienten-ID | 5807 |
 | Geburtsjahr des Kindes | 2017 |
 | Geburtsmonat des Kindes | 01 |
@@ -630,7 +605,7 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | ja, andere Ursache |
 |  |  |
-| Ve | |
+| Verordnung | |
 | Schallempfindungsschwerhörigkeit | links |
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit | rechts |
@@ -640,7 +615,7 @@ Hörgeräteversorgung Kinder (s. KBV_ITA_VGEX_Anforderungskatalog_QSHGVK Es wird
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei  Patientenangaben
+Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei
 
 ---
 

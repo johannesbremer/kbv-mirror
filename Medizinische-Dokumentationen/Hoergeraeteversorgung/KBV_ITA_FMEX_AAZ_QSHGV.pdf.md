@@ -30,7 +30,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 |  |  | | |
 |---|---|---|---|
 | Name des Antragstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -43,11 +43,11 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | Telefonnummer |  | | |
 | E-Mail-Adresse |  | | |
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] [ ] Systempfleger vom Antragsteller abweicht] [ ] [ ]
+Rechtsform anzugeben] [ ] Systempfleger vom Antragsteller abweicht] [ ] [ ]
 
 ---
 
-## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE 1.1.
+## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
 Nur anzugeben, wenn abweichend von Abschnitt
 
@@ -60,7 +60,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
+Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 |  |  |
 |---|---|
@@ -68,8 +68,6 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | Identnummer [die letzten drei |  |
 
 ## 1.4  BETRIEBSSYSTEME
-
--Betriebssysteme unterstützt werden.
 
 Bitte geben Sie im Folgenden an, welche Client
 
@@ -82,10 +80,16 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Quartalsbeginn zur Verfügung steht. |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger -Stammdatei der KBV den Anwendern rechtzeitig vor Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. [ ] [ ]
+1.1.
+
+vorhanden) des Zertifizierungsgegenstandes an.
+
+-Betriebssysteme unterstützt werden.
+
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ] [ ] der KBV den Anwendern rechtzeitig vor [ ] Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. Quartalsbeginn zur Verfügung steht. -Stammdatei
 
 ---
 
@@ -171,15 +175,15 @@ Rezertifizierung
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-- gegenstand erstellten Daten zurückweisen können.
-
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungs
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-- zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+-
+
+- weiterer hersteller- und
 
 |  |  |  |
 |---|---|---|

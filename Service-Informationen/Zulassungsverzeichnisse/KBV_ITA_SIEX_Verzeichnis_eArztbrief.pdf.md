@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|
 |  | Y/63/2601/36/081 | 31.12.2028 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2408/36/395
 
@@ -57,7 +57,7 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/63/2402/36/459 | 31.01.2027 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2308/36/078
 
@@ -91,7 +91,7 @@ i.s.h.med eArztbrief-Lösung Cerner Health Services Deutschland GmbH Siemensdamm
 |---|---|---|---|
 |  | Y/63/2310/36/112 | 30.09.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2402/36/226
 
@@ -125,7 +125,7 @@ Co-Fox Pathologie (LIMS) Co-Fox GmbH Wilhelm-Saucke-Straße 12 29227 Celle Inter
 |---|---|---|---|
 |  | Y/63/2309/36/280 | 31.08.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2310/36/203
 
@@ -291,7 +291,7 @@ Internet: www.garrio.de
 |---|---|---|---|
 |  | Y/63/2603/36/298 | 28.02.2029 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2406/36/403
 
@@ -357,7 +357,7 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 |---|---|---|---|
 |  | Y/63/2409/36/065 | 31.08.2027 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2507/36/406
 
@@ -449,11 +449,19 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 **medigration GmbH** Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de
 
-|  | Y/63/2311/36/030 | 31.10.2026 |  |
+**Praxis-Programm**
+
+**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
+
+|  | Y/63/2604/36/087 | 31.03.2029 |  |
 |---|---|---|---|
 |  | Y/63/2402/36/192 | 31.01.2027 |  |
 
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
+
 Y/63/2311/36/446
+
+Y/63/2311/36/030
 
 |  |  | **Prüfnummer** | **unterstützte** |
 |---|---|---|---|
@@ -462,7 +470,11 @@ Y/63/2311/36/446
 
 31.10.2026
 
-Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Windows WindowsWindows
+31.10.2026
+
+Windows
+
+MEDIPX MEDITEC Medizinische Datentechnologie GmbH Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Linux Windows WindowsWindows
 
 
 ---
@@ -503,7 +515,7 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de RadCen
 |---|---|---|---|
 |  | Y/63/2308/36/299 | 31.07.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2505/36/422
 
@@ -607,7 +619,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 |---|---|---|---|
 |  | Y/63/2507/36/498 | 30.06.2028 |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 25. April 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 02. Mai 2026
 
 Y/63/2401/36/261
 

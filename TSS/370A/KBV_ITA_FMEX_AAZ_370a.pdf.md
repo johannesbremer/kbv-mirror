@@ -27,9 +27,7 @@
 
 # 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe
-
-dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
 ## 1.1 ANTRAGSSTELLER
 
@@ -38,7 +36,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 |  |  | | |
 |---|---|---|---|
 | Name des Antragsstellers [bei juristischen Personen ist die |  | | |
-|  |  | | |
+| Geschäftsbereich [falls vorhanden] |  | | |
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 | Telefonnummer |  | | |
@@ -53,8 +51,9 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 / Version: 1.3 / 15. April 2026
 
-Rechtsform anzugeben] Geschäftsbereich [falls vorhanden] Systempfleger vom Antragssteller abweicht] [x] [x] [x]
+Übergabe
 
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [x] [x] [x]
 
 ---
 
@@ -83,9 +82,9 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 ---
 
 |  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
-|  |  |
+| 2 2.1 |  |
 |---|---|
-| ☐ | start |
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
@@ -93,19 +92,19 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die technischen und organisatorischen Maßnahmen (TOMs) |
-| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden  dem Anforderungskatalog „Anforderungskatalog Schnittstelle gemäß §370a Abs. 2 SGB V“ ] zu entnehmen. |
+| ☐ | Der Antragsteller versichert, dass die technischen und organisatorischen Maßnahmen (TOMs) Prüfnummer wird nur bei vollständiger Erfüllung vergeben. |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden Anforderungsdokumente und Schnittstellenbeschreibungen erfüllt sind. Diese Dokumente sind dem Anforderungskatalog „Anforderungskatalog Schnittstelle gemäß §370a Abs. 2 SGB V“ ] zu entnehmen. |
 
 |  |  |
 |---|---|
-| ☐ | Telemedizinische Leistungen |
+| ☐ | Alle Anforderungen zur optionalen Funktion |
 | ☐ | Alle Anforderungen zur optionalen Funktion |
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine Prüfnummer wird nur bei vollständiger Erfüllung vergeben. Anforderungsdokumente und Schnittstellenbeschreibungen erfüllt sind. Diese Dokumente sind [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V [ ] [ ]  wurden umgesetzt. Behandlungstermin wurden umgesetzt. 2 REALISIERUNG VON ANFORDERUNGEN 2.1 ANFORDERUNGSDOKUMENTE 2.2 REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der  (unter Schnittstelle gemäß § 370A Abs.2 SGB V https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c ) realisiert. 2.2.1 Telemedizinische Leistungen Telemedizinische Leistungen umgesetzt: Folgende optionale Erweiterungen wurden zur Funktion  ende postleitzahl leistungsmerkmal [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[ ] [ ] gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V Telemedizinische Leistungen Behandlungstermin  wurden umgesetzt. wurden umgesetzt. 2.2 Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c [ ] [ ] 2.2.1 Folgende optionale Erweiterungen wurden zur Funktion [ ] [ ] [ ] [ ] [ ] REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE REALISIERTE OPTIONALE FUNKTIONEN  (unter Telemedizinische Leistungen postleitzahl leistungsmerkmal [ ] ) realisiert. Telemedizinische Leistungen umgesetzt: [ ]  start  ende
 
 ---
 
@@ -116,7 +115,7 @@ gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurde
 |  |  |
 |  |  |
 |  |  |
-| ☐ | - Suchparameter |
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) |
 
 [ ]
 
@@ -132,8 +131,8 @@ Folgende optionale Erweiterungen wurden zur Funktion
 
 |  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
 |---|---|
-| ☐ | ) - Suchparameter |
-| ☐ | ) - Suchparameter |
+| ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
+| ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search |
 
 [ ]
 
@@ -147,7 +146,7 @@ Behandlungstermin umgesetzt:
 
 [ ]
 
-Videosprechstundenterminslots abrufen (Video Consultation Slot Search) suchradius Präsenztermine abrufen (Attendance Appointment Slot Search leistungsmerkmal Präsenztermine abrufen (Attendance Appointment Slot Search  suchradius
+suchradius - Suchparameter leistungsmerkmal ) - Suchparameter ) - Suchparameter  suchradius
 
 ---
 
@@ -186,7 +185,7 @@ Ansprechpartner(in): Produktmanagement
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-- I. Zertifizierungsrahmen und Gebühren
+- **I.** **Zertifizierungsrahmen und Gebühren**
 
 - (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 
@@ -198,13 +197,13 @@ Ansprechpartner(in): Produktmanagement
 
 - (5) Weitere Gebühren und Auslagen insbesondere im Zusammenhang mit der produktiven Nutzung  der Schnittstelle ergeben sich ebenfalls aus der o.g. Gebührenverordnung Antragssteller zu begleichen.
 
-| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART |  |
+| THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| SST 370A ABS2 | Einrichtung des Zugangs |  | 34,00 |
+| SST 370A ABS2 | zum Zertifizierungsportal |  | 34,00 |
 |  | Neu-, Re- und einschließlich der automatischen | Ergebnisprüfung | 1.222,10 |
 |  | Neu-, Re- und einschließlich der | Sichtprüfung | 681,04 |
 
-- II. Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung
+- **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 
 - (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 
@@ -216,7 +215,7 @@ Ansprechpartner(in): Produktmanagement
 
 - (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
-- III. Update und weitere Vereinbarungen
+- **III.** **Update und weitere Vereinbarungen**
 
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
@@ -236,11 +235,11 @@ Ansprechpartner(in): Produktmanagement
 
 -
 
-zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
+Einrichtung des Zugangs falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung
 
 ---
 
-- (3)  Zertifizierung der Umsetzung der Vorgaben zur Nutzung der Schnittstelle gemäß §370a Abs. 2 SGB  V durch Nutzer der Schnittstelle VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V
+- (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „ Zertifizierung der Umsetzung der Vorgaben zur Nutzung der Schnittstelle gemäß §370a Abs. 2 SGB  V durch Nutzer der Schnittstelle“ [VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V
 
 - zukünftige Aktualisierungen dieser Richtlinie.
 
@@ -248,9 +247,9 @@ zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Reze
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-- (6)  Software für Softwarehersteller KBV_ITA_ VGEX_Lizenzvereinbarung].
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
-- IV. Sonstiges
+- **IV.** **Sonstiges**
 
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
@@ -264,7 +263,7 @@ zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Reze
 
 Ort, Datum
 
-Ansprechpartner
+**Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 

@@ -55,25 +55,21 @@ Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 |  |  |
 |---|---|
-| Bestell- bzw. Auftragsnummer des |  |
+| Bestell- bzw. Auftragsnummer des Antragsstellers |  |
 | Name |  |
 | Straße und Hausnummer |  |
 | PLZ, Ort |  |
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
-
-Bitte geben Sie die
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  |
 |---|---|
 | Bezeichnung |  |
 | Identnummer [die letzten drei Stellen der Prüfnummer, falls vorhanden] |  |
 
-## 1.4  BETRIEBSSYSTEME
-
-Client-Betriebssysteme unterstützt werden.
+## 1.4
 
 Bitte geben Sie im Folgenden an, welche
 
@@ -82,21 +78,29 @@ Bitte geben Sie im Folgenden an, welche
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/ Android | ☐ | Sonstige | | |
 
-# 2 REALISIERUNG VON ANFORDERUNGEN
+[ ]
 
-**2.1** **ZERTIFIZIERUNGSGEGENSTAND**
+## BETRIEBSSYSTEME
+
+[ ]
+
+# 2
+
+**2.1**
 
 |  |  |
 |---|---|
-| ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der KBV_ITA_VGEX_Anforderungskatalog_KVDT |
+| ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der Der Antragsteller nimmt die Anforderungen K2-512, KP2-512, KP2-513 und P6-804 des |
 
 [ ]
 
-[ ]
+# REALISIERUNG VON ANFORDERUNGEN
 
-[ ]
+## ZERTIFIZIERUNGSGEGENSTAND
 
-Antragsstellers [ ] [ ] Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS S] umgesetzt sind. ] zur Kenntnis. Der Antragsteller nimmt die Anforderungen K2-512, KP2-512, KP2-513 und P6-804 des Anforderungskataloges KVDT [ [ ]
+Client-Betriebssysteme unterstützt werden.
+
+[ ] [ ] [ ] Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS Anforderungskataloges KVDT [ S] umgesetzt sind. KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zur Kenntnis.
 
 ---
 

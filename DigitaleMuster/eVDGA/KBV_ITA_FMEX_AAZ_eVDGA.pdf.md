@@ -105,30 +105,32 @@ Folgende optionale Funktionen wurden umgesetzt:
 
 ---
 
-# ANLAGE ZU DEN KONTAKTDATEN 3
+# 3 ANLAGE ZU DEN KONTAKTDATEN
 
-Es ist zwingend notwendig den
+Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizierungsthema“ sowie die
+
+„Geschäftsführung“ zu benennen.
 
 |  | |
 | Ansprechpartner(in) für das vorliegende Zertifizierungsthema | |
 |---|---|
-| Name * |  |
-| Telefonnummer * |  |
-| - * |  |
+| Name* |  |
+| Telefonnummer* |  |
+| E-Mail-Adresse* |  |
 | Ansprechpartner(in): Geschäftsführung | |
-| Name * |  |
+| Name* |  |
 | Telefonnummer |  |
-| - * |  |
+| E-Mail-Adresse* |  |
 | Ansprechpartner(in): Produktmanagement | |
 | Name |  |
 | Telefonnummer |  |
-| - |  |
+| E-Mail-Adresse |  |
 
 Diese Information ist verpflichtend anzugeben
 
 ________________
 
-Adresse E- Mail Adresse E- Mail Adresse E- Mail8
+8
 
 
 ---
@@ -190,7 +192,7 @@ Rezertifizierung 8
 
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-**8**
+8
 
 
 ---
@@ -209,4 +211,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-/ Version: 1.0 / 1**8**
+/ Version: 1.0 / 18

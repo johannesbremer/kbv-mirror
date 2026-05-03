@@ -47,177 +47,151 @@ einem separaten Verzeichnis erstellt zer hots  aktuelles Quartal begrenzt rückw
 
 inhaltsverzeichnis
 
-### DOKUMENTENHISTORIE 2
+### DOKUMENTENHISTORIE
 
-### INHALTSVERZEICHNIS 3
+**2**
 
-### ABBILDUNGSVERZEICHNI S 4
+### INHALTSVERZEICHNIS
 
-### TABELLENVERZEICHNIS 5
+**3**
 
-1 HINWEISE
+### ABBILDUNGSVERZEICHNIS
 
-6
+**4**
 
-1.1 Betriebssysteme .............................................................................................................................6
+### TABELLENVERZEICHNIS
 
-1.2 Haftung ............................................................................................................................................6
+**5**
 
-1.3 Support ............................................................................................................................................6 2 INSTALLATION WINDOWS
+**1** **HINWEISE**
 
-6
+**6**
 
-2.1 Vorbereitung der Installation ........................................................................................................6
+**1.1** **Betriebssysteme .............................................................................................................................6**
 
-2.2 Installation des KBV -Prüfassistenten ..........................................................................................8
+**1.2** **Haftung ............................................................................................................................................6**
 
-2.3 Update des KBV – Prüfassistenten ........................................................................................... 10
+**1.3** **Support ............................................................................................................................................6**
 
-3 INSTALLATION AUF NICHT -WINDOWS-SYSTEMEN 11
+**2** **INSTALLATION WINDOWS**
 
-3.1 Vorbereitung der Installation ..................................................................................................... 11
+**6**
 
-3.2 Installation des KBV -Prüfassistenten ....................................................................................... 12
+**2.1** **Vorbereitung der Installation ........................................................................................................6**
 
-4 ARBEITEN MIT DEM PRÜFASSISTENTEN 15
+**2.2** **Installation des KBV-Prüfassistenten ..........................................................................................8**
 
-4.1 Den KBV -Prüfassistenten starten .............................................................................................. 15
+**2.3** **Update des KBV – Prüfassistenten ........................................................................................... 10**
 
-4.2 Abrechnungsdatei bestimmen ................................................................................................... 15
+**3** **INSTALLATION AUF NICHT-WINDOWS-SYSTEMEN**
 
-4.2.1 Öffnen- Dialog .......................................................................................................................
+**11**
 
-16
+**3.1** **Vorbereitung der Installation ..................................................................................................... 11**
 
-4.2.2 Datei selektieren ..................................................................................................................
+**3.2** **Installation des KBV-Prüfassistenten ....................................................................................... 12**
 
-16
+**4** **ARBEITEN MIT DEM PRÜFASSISTENTEN**
 
-4.2.3 Konfiguration des KBV
+**15**
 
-- Prüfassistenten ..............................................................................
+**4.1** **Den KBV-Prüfassistenten starten .............................................................................................. 15**
 
-17
+**4.2** **Abrechnungsdatei bestimmen ................................................................................................... 15**
 
-4.2.4 Prüfung starten ....................................................................................................................
+4.2.1 Öffnen-Dialog ....................................................................................................................... 16
 
-18
+4.2.2 Datei selektieren .................................................................................................................. 16
 
-4.3 Prüfstatus und Statistik .............................................................................................................. 19 4.3.1 Ergebnis der Prüfung
+4.2.3 Konfiguration des KBV-Prüfassistenten .............................................................................. 17
 
-...........................................................................................................
+4.2.4 Prüfung starten .................................................................................................................... 18
 
-19
+**4.3** **Prüfstatus und Statistik .............................................................................................................. 19**
 
-4.3.2 Prüfbericht und Statistiklisten anzeigen
+4.3.1 Ergebnis der Prüfung ........................................................................................................... 19
 
-..............................................................................
+4.3.2 Prüfbericht und Statistiklisten anzeigen .............................................................................. 19
 
-19
+4.3.3 Verschlüsselung vorbereiten ............................................................................................... 21
 
-4.3.3 Verschlüsselung vorbereiten
-
-...............................................................................................
-
-21
-
-4.3.4 Zielverzeichnis wählen ........................................................................................................
-
-21
-
-* Version 1 3 von 31
+4.3.4 Zielverzeichnis wählen ........................................................................................................ 21
 
 
 ---
 
-4.3.5 Verschlüsselte Datei aufspalten
+4.3.5 Verschlüsselte Datei aufspalten .......................................................................................... 23
 
-..........................................................................................
+4.3.6 Verschlüsselung starten ...................................................................................................... 23
 
-4.3.6 Verschlüsselung starten ......................................................................................................
+4.3.7 Qualitätssicherung der verschlüsselten Datei ..................................................................... 24
 
-4.3.7 Qualitätssicherung der verschlüsselten Datei
+4.3.8 Verschlüsselung und Prüfassistent beenden ...................................................................... 24
 
-.....................................................................
+**4.4** **Deinstallation ............................................................................................................................... 25**
 
-4.3.8 Verschlüsselung und Prüfassistent beenden
+**5** **VERZEICHNISSTRUKTUR**
 
-......................................................................
+**27**
 
-4.4 Deinstallation ............................................................................................................................... 25 5 VERZEICHNISSTRUKTUR
+**5.1** **Ordner 'Bin' .................................................................................................................................. 27**
 
-5.1 Ordner 'Bin' .................................................................................................................................. 27
+**5.2** **Ordner 'Codiert' ........................................................................................................................... 27**
 
-5.2 Ordner 'Codiert' ........................................................................................................................... 27
+**5.3** **Dokumentation ............................................................................................................................ 27**
 
-5.3 Dokumentation ............................................................................................................................ 27
+**5.4** **Ordner 'Kbvtab' ............................................................................................................................ 27**
 
-5.4 Ordner 'Kbvtab' ............................................................................................................................ 27
+**5.5** **Ordner 'Listen' ............................................................................................................................. 27**
 
-5.5 Ordner 'Listen' ............................................................................................................................. 27
+**5.6** **Ordner 'Schema' .......................................................................................................................... 27**
 
-5.6 Ordner 'Schema' .......................................................................................................................... 27
+**5.7** **Ordner 'System' ........................................................................................................................... 28**
 
-5.7 Ordner 'System' ........................................................................................................................... 28 6 FEHLERBEHEBUNG
+**6** **FEHLERBEHEBUNG**
 
-7 ANHANG
+**28**
 
-7.1 Konfigurationsdateien ................................................................................................................ 30
+**7** **ANHANG**
 
-7.2 XPM Konfigurationsdatei ............................................................................................................ 30
+**30**
 
-7.3 XKM Konfigurationsdatei ........................................................................................................... 31
+**7.1** **Konfigurationsdateien ................................................................................................................ 30**
+
+**7.2** **XPM Konfigurationsdatei ............................................................................................................ 30**
+
+**7.3** **XKM Konfigurationsdatei ........................................................................................................... 31**
 
 Abbildungsverzeichnis
 
-Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
-
-* Version 1 23
-
-23
-
-24
-
-24
-
-27
-
-28
-
-30
-
-4 von 31
+#### Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
 
 
 ---
 
-hnis
+| **IT in** | **der Arztpraxis** |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | KBV-Prüfassistent | Handbuch |  |  |  |  |  |
+|  | Tabellenverzeichnis |  |  |  |  |  |  |
+| **Es** | **konnten** | **keine Einträge** | **für** | **ein Tabellenv** | **erzeichnis** | **gefunden** | **werden.** |
+|  |  | KBV_ITA_AHEX_Handbuch_Prüfassistent | * | Version 2.11 |  |  |  |
 
-Tabellenverzeic
-
-### Tabellen
-
-### Es konnten keine Einträge für ein
-
-v erzeichnis gefunden werden.
-
-* Version 1 5 31
-
+Es konnten keine Einträge für ein Tabellenv erzeichnis gefunden werden.
 
 ---
 
 # 1 Hinweise
 
-Der KBV-Prüfassistent vereint das KVDT schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
+Der KBV-Prüfassistent vereint das KVDT-Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi-
 
-|  | Mit dem KBVPrüfassisten |
+schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
+
+|  | Mit dem KBV-Prüfassistenten können neben dem aktuellen Quartal auch drei vorherige Abrechnungs- |
 |---|---|
 
 ## 1.1 Betriebssysteme
 
-Der KBVPrüfassistent kann unter folgenden Betriebssystemen eingesetzt werden: - a) Windows Server
-
--
+Der KBV-Prüfassistent kann unter folgenden Betriebssystemen eingesetzt werden: - a) Windows Server
 
 - b) Windows Vista
 
@@ -225,11 +199,7 @@ Der KBVPrüfassistent kann unter folgenden Betriebssystemen eingesetzt werden: -
 
 - d) Windows 8
 
-Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi-
-
 - e) Windows 8.1
-
--
 
 - f) Windows 10
 
@@ -237,112 +207,92 @@ Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi-
 
 - h) MAC OS
 
--
-
 Das Betriebssystem Windows 95 wird nicht mehr unterstützt. Der Grund hierfür liegt in der fehlenden Unterstüt- zung seitens der Firma Sun, welche die Java Laufzeitumgebung entwickelt.
 
 ## 1.2 Haftung
 
 Eine Haftung der KBV für entgangenen Gewinn, unterbliebene Einsparungen, mittelbare Schäden und Folgeschä-
 
-den durch den Einsatz des KBV
+den durch den Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den
 
-Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den
+Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflichtet, entsprechende Sicherungs-
 
-Einsatz des KBVPrüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflicht kopien anzulegen.
+kopien anzulegen.
 
 ## 1.3 Support
 
-Die KBV stellt das Prüfmodul ausschließlich über ihre Web
+Die KBV stellt das Prüfmodul ausschließlich über ihre Web-Seiten zur Verfügung. Unterstützungsleistungen kön-
 
-Seiten zur Verfügung. Unterstützungsleistungen kön-
+nen weder telefonisch noch schriftlich angeboten. Sofern solche Dienste gewünscht werden, muss die KBV auf
 
-nen weder telefonisch noch schriftlich angeboten. Sofern solche Dienste gewünscht werden, mus den kommerziellen Markt verweisen, der derartige Dienste anbietet.
+den kommerziellen Markt verweisen, der derartige Dienste anbietet.
 
 # 2 Installation Windows
 
 ## 2.1 Vorbereitung der Installation
 
-Das I nstallationspaket zum download befindet sich auf der ITA
+Das Installationspaket zum download befindet sich auf der ITA-Update Webseite. Es kann direkt unter
 
-[http://update.kbv.de/ita](http://update.kbv.de/ita)update/KBV
+[http://update.kbv.de/ita](http://update.kbv.de/ita)-update/KBV-Software/Pruefassistent/
 
-Software/Pruefassistent/
-
-heruntergeladen werden, alternativ kann m
-
-an auch von der Update-
+heruntergeladen werden, alternativ kann man auch von der Update-Webseite [https://www.kbv.de/html/updates.php](https://www.kbv.de/html/updates.php)
 
 dahin navigieren:
 
-et, entsprechende Sicherungs-
-
-Update Webseite. Es kann direkt unter
-
-Webseite [https://www.kbv](https://www.kbv)
-
-s die KBV auf .de/html/updates.php
-
-* Version 1
-
-quartale geprüft werden. ten können neben dem aktuellen Quartal auch drei vorherige Abrechnungs-6 von 31
-
+quartale geprüft werden.
 
 ---
 
 |  |  |
 |---|---|
-| Abbildung 1: Link zum download des Prüfassistent | Auf der Download Seite stehen zwei Installationspakete |
+| Abbildung 1: Link zum download des Prüfassistenten auf der KBV-Homepage | Auf der Download Seite stehen zwei Installationspakete |
 
-* Version 1
-
-en auf der KBV - Homepage zur Verfügung, eine für die Windows Plattform (.exe Datei und eine weitere plattformunabhängig  (.jarDatei) Die ausgewählte Datei wird zunächst gespeichert und der Prüfassistent wird anschließend wie im Folgenden be- schrieben installiert. e Datei Starten Sie die Installation mit einem Doppelklick auf die entsprechend „KBV -Prüfassistent_V20aa.b.c.exe“7 von 31
-
+zur Verfügung, eine für die Windows Plattform (.exe-Datei) und eine weitere plattformunabhängig e (.jar-Datei).  Die ausgewählte Datei wird zunächst gespeichert und der Prüfassistent wird anschließend wie im Folgenden be- schrieben installiert. Starten Sie die Installation mit einem Doppelklick auf die entsprechend e Datei  „KBV-Prüfassistent_V20aa.b.c.exe“
 
 ---
 
-| Lesen Sie sich die Lizenzverein- |  |
+| Lesen Sie sich die Lizenzverein- | Drücken Sie auf |
 |---|---|
-| Nach kurzer Zeit sehen Sie den Installations- |  |
+| Nach kurzer Zeit sehen Sie den Installations- Drücken Sie auf |  |
 
-| Lesen Sie sich die Lizenzverein- |  |
+| Lesen Sie sich die Lizenzverein- Drücken Sie auf |  |
 |---|---|
 
-assistenten, der Sie durch den Installations- vorgang begleitet. um den Vor- Drücken Sie auf gang fortzusetzen. 2.2 Installation des KBV- Prüfassistenten barungen genau durch und    bestätigen Sie Ihre Zustimmung indem Sie das entsprechende Feld auswählen. Drücken Sie auf um die Installation des KBV - Prüfassistenten fortzusetzen.
+assistenten, der Sie durch den Installations- vorgang begleitet. um den Vor- gang fortzusetzen. 2.2 Installation des KBV- Prüfassistenten barungen genau durch und    bestätigen Sie Ihre Zustimmung indem Sie das entsprechende Feld auswählen. um die Installation des KBV - Prüfassistenten fortzusetzen.
 
 ---
 
-| Wählen Sie nun Ihren Installati-  „Vollständig“ Wählen Sie Drücken Sie auf |  |
+| Wählen Sie nun Ihren Installati-  Wenn Sie Wählen Sie Drücken Sie auf |  |
 |---|---|
-|  | UHinweisU In den meisten Fällen ist eine Anpassung des Installationsverzeichnisses nicht notwendig, so dass eine |
+|  | UHinweisU  sinnvoll ist. |
 |  |  |
-| Nach kurzer Zeit ist der Vorgang |  |
-| Der Installationsassistent beseitigt nun zum Abschluss noch die zur Installation benötigten Dateien. Dies geschieht automatisch und kann einen Augenblick in Anspruch nehmen. Das obenstehende Fenster schließt danach automatisch. | |
+| Nach kurzer Zeit ist der Vorgang Drücken Sie auf |  |
+| Der Installationsassistent beseitigt nun zum Abschluss noch die zur Installation benötigten Dateien. Dies geschieht automatisch und kann einen Augenblick in Anspruch nehmen. Das obenstehende Fenster schließt danach automatisch. Bitte betätigen Sie während dieser Zeit weder die Maus noch die Tastatur. | |
 
-onstyp aus,  oder „Benutzerdefiniert“ Wenn Sie  wählen, wird der Assistent automatisch in das Standardverzeichnis, unter C:\Programme\KBV\KBV Prüfassistent“  installiert. „Benutzerdefiniert“ um selbst zu entscheiden, in welchem Verzeichnis der  KBV – Prüfassistent installiert wird. Im nachfolgenden Dialog können Sie dann mit einem Klick auf „Ändern...“  das Installationsver- zeichnis nach Ihren Wünschen anpassen. um die Installation des KBV - Prüfassistenten zu starten. vollständige Installation  sinnvoll ist. abgeschlossen.  um den Installationsassistenten zu beenden. Bitte betätigen Sie während dieser Zeit weder die Maus noch die Tastatur.
+onstyp aus, „Vollständig“  oder „Benutzerdefiniert“ „Vollständig“  wählen, wird der Assistent automatisch in das Standardverzeichnis, unter C:\Programme\KBV\KBV Prüfassistent“  installiert. „Benutzerdefiniert“ um selbst zu entscheiden, in welchem Verzeichnis der  KBV – Prüfassistent installiert wird. Im nachfolgenden Dialog können Sie dann mit einem Klick auf „Ändern...“  das Installationsver- zeichnis nach Ihren Wünschen anpassen. um die Installation des KBV - Prüfassistenten zu starten. In den meisten Fällen ist eine Anpassung des Installationsverzeichnisses nicht notwendig, so dass eine vollständige Installation abgeschlossen.  um den Installationsassistenten zu beenden.
 
 ---
 
-| „KBV Prüfassistent“ |
+| Das Programm ist nun vollständig installiert und Sie haben zwei Möglichkeiten, das Programm zu starten. Mit ei- |
 |---|
-| Oder unter  „Start“ |
+| Oder unter „Start“ „Start“ |
 
 **2.3 Update des KBV – Prüfassistenten**
 
 | Starten Sie das Update mit einem |  |
 |---|---|
 
-Das Programm ist nun vollständig installiert und Sie haben zwei Möglichkeiten, das Programm zu starten. Mit ei- nem Doppelklick auf  „Alle Programme“  „KBV Prüfassistent“ (XP)  „Programme“  „KBV“  „KBV Prüfassistent“ (ältere Windowsversionen) Doppelklick auf die neuste Version (z.B. im Internet unter TU http://www.kbv.de/ita UT  ) der Datei  „KBV- PrüfassistentPaketInstallati- on.exe“
+nem Doppelklick auf „KBV Prüfassistent“  „Alle Programme“  „KBV Prüfassistent“  „KBV Prüfassistent“ (XP)  „Programme“  „KBV“  „KBV Prüfassistent“ (ältere Windowsversionen) Doppelklick auf die neuste Version (z.B. im Internet unter TU http://www.kbv.de/ita UT  ) der Datei  „KBV- PrüfassistentPaketInstallati- on.exe“
 
 ---
 
 | Nach kurzer Zeit sehen Sie den Drücken Sie auf |  |
 |---|---|
-| Nach kurzer Zeit ist der Vorgang |  |
+| Nach kurzer Zeit ist der Vorgang Drücken Sie auf |  |
 
 |  |  |
 |---|---|
-| Nach kurzer Zeit sehen Sie den Drücken Sie auf  Nach kurzer Zeit ist der Vorgang |  |
+| Nach kurzer Zeit sehen Sie den Drücken Sie auf  Nach kurzer Zeit ist der Vorgang | Drücken Sie auf |
 
 Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen
 
@@ -350,44 +300,31 @@ Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang
 
 | KBV-Prüfassistenten | fortzusetzen. |
 |---|---|
-| Nach kurzer Zeit sehen Sie den   um den Vorgang fortzusetzen. |  |
+| Nach kurzer Zeit sehen Sie den Drücken Sie auf  um den Vorgang fortzusetzen. |  |
 
-| enzverein- Drücken Sie auf  um die Installation des KBV-Prüfassistenten fortzusetzen. |  |
+| Lesen Sie sich die Lizenzverein- Drücken Sie auf  um die Installation des KBV-Prüfassistenten fortzusetzen. |  |
 |---|---|
 
-* Version 1 12
-
-Installationsassistenten der Sie durch den Installationsvorgang begleitet. Drücken Sie auf 3.2 Installation des KBV enzverein- Lesen Sie sich die Liz barungen genau durch und bestä- tigen Sie Ihre Zustimmung indem Sie das entsprechende Feld aus- wählen. Drücken Sie auf um die Installation des31
-
+Installationsassistenten der Sie durch den Installationsvorgang begleitet. 3.2 Installation des KBV- Lesen Sie sich die Lizenzverein- barungen genau durch und bestä- tigen Sie Ihre Zustimmung indem Sie das entsprechende Feld aus- wählen. um die Installation des
 
 ---
 
-| Geben Sie in dem Eingabefeld Alternativ können sie auf drücken, um den Installationspfad Drücken Sie danach auf |  |
+| Geben Sie in dem Eingabefeld Alternativ können sie auf drücken, um den Installationspfad |  |
 |---|---|
 | Wenn der ausgewählte Installationspfad noch nicht existiert, bestätigen Sie Drücken von |  |
-| Mit der Betätigung von |  |
+| gelangen Sie zum |  |
 
-1
-
-13
-
-den Installationspfad an, z.B. /home/U ser/KBV/KBV Pruefas- sistent ". (1) mittels Navigation durch das Da- teisystem auszuwählen. (2) Erstellung bitte durch  gelangen Sie zum nächsten Schritt. Ihre 31
-
+den Installationspfad an, z.B. /home/User/KBV/KBV Pruefas- sistent ". (1) mittels Navigation durch das Da- teisystem auszuwählen. (2) Drücken Sie danach auf   Ihre Erstellung bitte durch Mit der Betätigung von nächsten Schritt.
 
 ---
 
 | Mit der Betätigung von |  |
 |---|---|
-| Der Installationsfortschritt wird N |  |
+| Der Installationsfortschritt wird Nach der Installation kann mit  zum nächsten Dialog gewechselt |  |
 | Die Installation ist nun abge-  Das Programm ist nun vollständig |  |
 |  |  |
 
-1
-
-14
-
-gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angezeigt. ach der Installation kann mit zum nächsten Dialog gewechselt werden. schlossen. Beenden Sie das In- stallationsprogramm durch Drü- cken auf installiert und kann von Ihrem Desktop aus, mit einem Doppel- klick auf „ KBV Prüfassistent gestartet werden.31
-
+gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angezeigt. werden. schlossen. Beenden Sie das In- stallationsprogramm durch Drü- cken auf installiert und kann von Ihrem Desktop aus, mit einem Doppel- klick auf „ KBV Prüfassistent gestartet werden.
 
 ---
 
@@ -395,10 +332,10 @@ gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angeze
 
 **4.1 Den KBV-Prüfassistenten starten**
 
-|  |  |
+| Starten Sie das Programm, wie |  |
 |---|---|
 | 1) Informationsbereich | Hier sehen Sie den nächsten Arbeitsschritt |
-| 2) Eingabefeld | Hier finden Sie die Pfadangabe zu Ihrer Abrechnungsdatei und deren Name |
+| 2) Eingabefeld |  |
 | 3) Button zum Öffnen | Hiermit kommen Sie in den „Öffnen |
 | 4) KBV-Prüfnummer: | Hier erscheint die KBV |
 | Abrechnung von: | Das Datum der Abrechnung |
@@ -410,28 +347,26 @@ gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angeze
 |  | UHinweisU Sollten Sie keine genaue Kenntnis über den Speicherort Ihrer Abrechnungsdateien haben, schlagen |
 |---|---|
 
-Starten Sie das Programm, wie oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- -Dialog -Dialog“ -Prüfnummer Ihrer Abrechnungsdatei Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems Softwarehaus. nach oder wenden Sie sich an Ihr
+oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- rechnungsdatei -Dialog Hier finden Sie die Pfadangabe zu Ihrer Abrechnungsdatei und deren Name -Dialog“ -Prüfnummer Ihrer Abrechnungsdatei Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems Softwarehaus. nach oder wenden Sie sich an Ihr
 
 ---
 
 **4.2.1 Öffnen-Dialog**
 
-| Durch das Öffnen wird die zu Bitte drücken Sie „Öffnen-Dialog“ |  |
+| Durch das Öffnen wird die zu Bitte drücken Sie |  |
 |---|---|
-|  | UHinweisU Im |
+|  | UHinweisU  werden alle Dateien angez |
 
-### Datei selektieren
-
-### 4.2.2
+**4.2.2 Datei selektieren**
 
 | Navigieren Sie, mit Hilfe der Der Speicherort Ihr |  |
 |---|---|
 
-prüfende Datei selektiert. , um in den  zu ge- langen  werden alle Dateien angez eigt. Bitte wählen Sie eine Datei mit der Endung „.con“ Dies sind Abrechnungsdateien.  Funktion, in den Ordner „Su- chen in“ in dem Ihre Abrechnungsdateien erstellt bzw. gespeichert sind. er Abrech- nungsdateien ist vom PVS abhän- gig. Bitte schauen Sie im Anwen- derhandbuch ihres PVS nach oder kontaktieren Sie Ihr Softwarehaus.
+prüfende Datei selektiert. , um in den „Öffnen-Dialog“  zu ge- langen Im „Öffnen-Dialog“ Dies sind Abrechnungsdateien. eigt. Bitte wählen Sie eine Datei mit der Endung „.con“ „Su- chen in“  Funktion, in den Ordner in dem Ihre Abrechnungsdateien erstellt bzw. gespeichert sind. er Abrech- nungsdateien ist vom PVS abhän- gig. Bitte schauen Sie im Anwen- derhandbuch ihres PVS nach oder kontaktieren Sie Ihr Softwarehaus.
 
 ---
 
-| Selektieren Sie nun eine Abrech- . ODER Doppelklicken Sie auf die ge- „Öffnen -Dialog“ |  |
+| Selektieren Sie nun eine Abrech- . ODER Doppelklicken Sie auf die ge- In beiden Fällen schließt sich da- |  |
 |---|---|
 
 **4.2.3 Konfiguration des KBV-**
@@ -444,24 +379,19 @@ prüfende Datei selektiert. , um in den  zu ge- langen  werden alle Dateien ange
 | Die Ausgabe kann auf maximal |  |
 |---|---|
 
-nungsdatei indem Sie sie mit ei- nem Mausklick markieren, und bestätigen Sie Ihre Ausw ahl mit wünschte Datei um sie Auszuwäh- len.  In beiden Fällen schließt sich da- raufhin der ten den Schalter KBV-Prüfassistenten zu konfigurie- ren. fünf Fehler pro Fehlerart oder auf die interne Patienten -Nummer begrenzt werden.
+nungsdatei indem Sie sie mit ei- nem Mausklick markieren, und bestätigen Sie Ihre Ausw ahl mit wünschte Datei um sie Auszuwäh- len.  raufhin der „Öffnen-Dialog“ ten den Schalter KBV-Prüfassistenten zu konfigurie- ren. fünf Fehler pro Fehlerart oder auf die interne Patienten -Nummer begrenzt werden.
 
 ---
 
-| Für die Fehlerausgabe kann der - I nfos, Warnungen und Fehler - Infos und Fehler - Warnungen und Fehler  Die Konfiguration der Fehleraus-  bestätigt werden. |  |
+| Für die Fehlerausgabe kann der - Infos, Warnungen und Fehler - Infos und Fehler - Warnungen und Fehler - Nur Fehler Die Konfiguration der Fehleraus-  bestätigt werden. |  |
 |---|---|
 
-4.2.4 Prüfung starten
+**4.2.4 Prüfung starten**
 
 | Drücken Sie nun im Prüfassisten- , Bitte haben Sie jetzt etwas Geduld. |  |
 |---|---|
 
-1
-
-18
-
-Prüfassistent wie folgt konfiguriert werden: - Nur Fehler gabe  muss mit ten den Schalter um d ie Prüfung durchzuführen. Je nach Größe der Abrechnungs- datei kann die Prüfung einige Mi- nuten dauern.31
-
+Prüfassistent wie folgt konfiguriert werden:  gabe  muss mit ten den Schalter um die Prüfung durchzuführen. Je nach Größe der Abrechnungs- datei kann die Prüfung einige Mi- nuten dauern.
 
 ---
 
@@ -469,7 +399,7 @@ Prüfassistent wie folgt konfiguriert werden: - Nur Fehler gabe  muss mit ten de
 
 **4.3.1 Ergebnis der Prüfung**
 
-|  |  |
+| Nachdem die Prüfung durchlaufen |  |
 |---|---|
 | Statusbereich | Bitte beachten Sie, dass Bei |
 |  | Mit dem Status „Warnung“ ist eine Verschlüsselung zwar möglich, eine Abrechnungsprüfung sollte den- |
@@ -480,20 +410,18 @@ Prüfassistent wie folgt konfiguriert werden: - Nur Fehler gabe  muss mit ten de
 | In dem Menü unterhalb des dem Diese lassen sich mit einem Druck  zur Ansicht Ist eine Fehlermeldung bei der |  |
 |---|---|
 
-Nachdem die Prüfung durchlaufen ist, wird der Prüfstatus angezeigt noch durchgeführt werden, um die Richtigkeit der Abrechnung sicher zu stellen. nur dann  mit der Verschlüsselung fortgefahren wer- den kann, wenn der Status mit „Ok“  bzw.  angegeben ist. „Abgelehnt“  bzw. „Abbruch“  ist eine Korrektur der Abrechnung und eine erneute Prüfung notwendig! Fortschrittsbalkens wird nach der Prüfung eine Auswahl von Proto- kollen angezeigt. auf öffnen. Abrechnung erschienen, können Sie an dieser Stelle auch das Fehlerprotokoll einsehen, um ge- gebenenfalls genauere Angaben zum Fehler zu erhalten.
+ist, wird der Prüfstatus angezeigt noch durchgeführt werden, um die Richtigkeit der Abrechnung sicher zu stellen. nur dann  mit der Verschlüsselung fortgefahren wer- den kann, wenn der Status mit „Ok“  bzw.  angegeben ist. „Abgelehnt“  bzw. „Abbruch“  ist eine Korrektur der Abrechnung und eine erneute Prüfung notwendig! Fortschrittsbalkens wird nach der Prüfung eine Auswahl von Proto- kollen angezeigt. auf öffnen. Abrechnung erschienen, können Sie an dieser Stelle auch das Fehlerprotokoll einsehen, um ge- gebenenfalls genauere Angaben zum Fehler zu erhalten.
 
 ---
 
 #### 4.3.2.1 Anzeigeprogramm
 
-„Drucken“ aus dem „Datei-Menü“
-
-Im Anzeigeprogramm können Sie die sich die Prüfmodulprotokolle betrachten. Zum Ausdrucken wählen Sie den  Menüpunkt
+Im Anzeigeprogramm können Sie die sich die Prüfmodulprotokolle betrachten. Zum Ausdrucken wählen Sie den  Menüpunkt ***„Drucken“*** aus dem ***„Datei-Menü“***
 
 | Nachdem Sie die Protokolle ausgedruckt oder durchgesehen haben, beenden Sie das Anzeigeprogramm mit dem |
 |---|
 
-„Beenden“  aus dem „Datei -Menü“ Menüpunkt
+Menüpunkt „Beenden“  aus dem „Datei-Menü“
 
 ---
 
@@ -516,10 +444,10 @@ kolle gesichtet und gegebenenfalls ausgedruckt haben, können Sie die Verschlüs
 
 | Natürlich können Sie auch jedes Hierzu drücken Sie bitte , |  |  |
 |---|---|---|
-| Mit einem Druck auf  übernehmen |  |  |
+| Hier können Sie dann den Spei- Mit einem Druck auf  übernehmen |  |  |
 |  | UHinweis  (näheres hierzu in Kapitel 5) |  |
 
-andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die verschlüsselten Abrechnungsdateien evtl. später gesammelt der KV zu übergeben.  um in den „Öffnen-Dialog“  zu ge- langen. Hier können Sie dann den Spei- cherort Ihrer Verschlüsselten Datei angeben bzw. auswählen. Sie den Speicherort für Ihre ver- schlüsselte Abrechnungsdatei Zusätzlich werden Sicherheitskopien Ihrer verschlüsselten Abrechnungsdateien im Ordner erzeugt; diese bleiben auch nach einer Deinstallation erhalten. „Codiert“
+andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die verschlüsselten Abrechnungsdateien evtl. später gesammelt der KV zu übergeben.  um in den „Öffnen-Dialog“  zu ge- langen. cherort Ihrer Verschlüsselten Datei angeben bzw. auswählen. Sie den Speicherort für Ihre ver- schlüsselte Abrechnungsdatei Zusätzlich werden Sicherheitskopien Ihrer verschlüsselten Abrechnungsdateien im Ordner erzeugt; diese bleiben auch nach einer Deinstallation erhalten. „Codiert“
 
 ---
 
@@ -557,7 +485,7 @@ MB 3,5“ Diskette“. Dies entspricht einer herkömmlichen Standarddis- kette. 
 
 **4.3.7 Qualitätssicherung der verschlüsselten Datei**
 
-| Nachdem die Abrechnungsdatei   gestartet wird |  |
+| Nachdem die Abrechnungsdatei  Bitte entfernen und legen Sie die |  |
 |---|---|
 |  | Falls bei der Datenprüfung ein Fehler festgestellt wurde, darf diese Diskette |
 
@@ -568,7 +496,7 @@ MB 3,5“ Diskette“. Dies entspricht einer herkömmlichen Standarddis- kette. 
 | Drücken Sie den Schalter   um das Programm zu beenden. Bitte entfernen Sie |  |
 |  | Sie haben jetzt erfolgreich eine Abrechnungsdatei geprüft, verschlüsselt und gespeichert. Bitte beschrif- |
 
-auf Diskette geschrieben wurde, erfolgt eine Prüfung der gespei- cherten Daten. Bitte entfernen und legen Sie die Diskette erneut ein bevor die Prü- fung mit werden und der Prüf- und Verschlüsselungsvorgang ist zu wiederholen. nicht  weitergegeben reich war, erhalten Sie die neben- stehende Endanzeige. Druck auf die Disketten aus dem Laufwerk. ten Sie die Diskette(n) (sofern erstellt) mit den Daten Ihrer Praxis und geben Sie die Diskette(n) bei Ihrer KV ab.
+auf Diskette geschrieben wurde, erfolgt eine Prüfung der gespei- cherten Daten. Diskette erneut ein bevor die Prü- fung mit  gestartet wird werden und der Prüf- und Verschlüsselungsvorgang ist zu wiederholen. nicht  weitergegeben reich war, erhalten Sie die neben- stehende Endanzeige. Druck auf die Disketten aus dem Laufwerk. ten Sie die Diskette(n) (sofern erstellt) mit den Daten Ihrer Praxis und geben Sie die Diskette(n) bei Ihrer KV ab.
 
 ---
 
@@ -584,12 +512,12 @@ auf Diskette geschrieben wurde, erfolgt eine Prüfung der gespei- cherten Daten.
 
 ---
 
-| olgende Si- |  |
+| Bestätigen Sie die f |  |
 |---|---|
 |  |  |
 |  | UHinweis Die Verzeichnisse „Listen“ und „Codiert“ im Installationsverzei |
 
-Bestätigen Sie die f cherheitsabfrage mit einem Klick auf , wenn Sie den Prüfassistenten wirklich deinstallie- ren wollen. Beenden Sie den Deinstallations- assistenten mit einem Klick auf chnis werden nicht gelöscht, wenn sich darin noch Dateien befinden. Näheres hierzu können Sie im     Kapitel 5 nachlesen.
+olgende Si- cherheitsabfrage mit einem Klick auf , wenn Sie den Prüfassistenten wirklich deinstallie- ren wollen. Beenden Sie den Deinstallations- assistenten mit einem Klick auf chnis werden nicht gelöscht, wenn sich darin noch Dateien befinden. Näheres hierzu können Sie im     Kapitel 5 nachlesen.
 
 ---
 
@@ -659,10 +587,10 @@ Dieser Ordner beinhaltet die Verzeichnisse Disk, Keys und works.
 
 | UProblem: | Erscheint nicht |
 |---|---|
-| ULösung: | 1. Schritt |
-|  | 2. Schritt |
+| ULösung: • | 1. Schritt |
+| • | 2. Schritt |
 
-UEs wurde ein Fehler bei der Qualitätssi- cherung der verschlüssel- ten Abrechnungsdatei festgestellt Laufwerk entfernt wurde. keine Schreib- und Leseaktivitäten mehr anzeigt.  Nach dem Verschlüsse- lungsvorgang scheint das Pro- gramm nicht weiterzuarbeiten, und ich erhalte keine Endanzeige über die erfolgreiche Verschlüsselung. Bitte klicken Sie mit der rechten Maustaste auf das Symbol KBV Prüfassistent  in der Taskleiste. Im Aufklapp- Menü wählen Sie Mini- nieren. Bitte klicken Sie mit der rechten Maustaste auf das Symbol KBV Prüfassistent  in der Taskleiste. Im Aufklapp- Menü wählen Sie Wie- derherstellen.
+UEs wurde ein Fehler bei der Qualitätssi- cherung der verschlüssel- ten Abrechnungsdatei festgestellt Laufwerk entfernt wurde. keine Schreib- und Leseaktivitäten mehr anzeigt.  Nach dem Verschlüsse- lungsvorgang scheint das Pro- gramm nicht weiterzuarbeiten, und ich erhalte keine Endanzeige über die erfolgreiche Verschlüsselung. Bitte klicken Sie mit der rechten Maustaste auf das Symbol KBV- Prüfassistent  in der Taskleiste. Im Aufklapp- Menü wählen Sie Mini- nieren. Bitte klicken Sie mit der rechten Maustaste auf das Symbol KBV- Prüfassistent  in der Taskleiste. Im Aufklapp- Menü wählen Sie derherstellen. Wie-
 
 ---
 
@@ -679,45 +607,41 @@ Daraufhin ist die Endan- zeige wieder sichtbar. Bestätigen Sie diese mit einem 
 | pruefdaten | Verzeichnis mit Prüfdateien |
 | tempdaten | Verzeichnis für temporäre Dateien |
 | pruefschema | XML-Schemadatei der Datensatzbeschreibung |
-| info | Mögliche Werte: ja, nein |
+| info | Schalter zum ein- bzw. ausschalten der Informationsmeldungen. Mögliche Werte: ja, nein |
 | warnungen | Schalter zum Ein- bzw. Ausschalten der Warnungen. Mögliche Werte: ja, nein |
 | fehler_begrenzen | Schalter zum Begrenzen der Anzahl der Fehlermeldungen auf einen vor- Mögliche Werte: ja, nein |
 | log_datei | Protokolldatei |
 | eingabedateien | Dieser Schalter enthält die Pfade zu Steuertabellen und Stammdaten |
-| ausgabedateien | -KVDT_Ergaenzungshandbuch.pdf’, die im |
-|  | Wird diesem Konfigurationsschalter der Wert ’ja zugewiesen, so werden in |
+| ausgabedateien | Alle Ausgabelisten des Prüfmoduls. Nähere Angaben finden Sie in der |
+| adt_interne_patientennummer | Wird diesem Konfigurationsschalter der Wert ’ja zugewiesen, so werden in |
 | 7 Anhang | |
 | 7.1 Konfigurationsdateien | Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem |
 
-Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme \KBV\Assistent) werden nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ folgende Konfigurationsschalter: Schalter zum ein- bzw. ausschalten der Informationsmeldungen. gegebenen maximalen Wert begrenzen. Alle Ausgabelisten des Prüfmoduls. Nähere Angaben finden Sie in der Dokumentation ‚E015_XPM KVDT-Prüfpaket enthalten ist. adt_interne_patientennummer Abgabeliste und Doku Abgabeliste statt des den Dokumenten Schein Patientennamens und Vornamens die systeminterne Patientennummer
+Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul folgende Konfigurationsschalter: mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM -KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer \KBV\Assistent) werden
 
 ---
 
 | quellpfad | Verzeichnis mit Prüfdateien |
 |---|---|
 | zielpfad | Verzeichnis mit verschlüsselten Prüfd |
-|  | Diskettenlaufwerk bzw. Verzeichnis mit verschlüsselten Prüfdateien, nach dem Auf- |
+| floppy | Diskettenlaufwerk bzw. Verzeichnis mit verschlüsselten Prüfdateien, nach dem Auf- |
 | dateilaenge | Maximale Dateilänge bei Disketten/CD |
-|  | Protokolldatei |
-|  | Kommunikationssatz |
+| protokoll | Protokolldatei |
+| pruefinfo | Kommunikationssatz |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-| ausgegeben. | |
-| icd_zusatz_pruefung | ICD Codes werden zusätzlich gegen die Stammdatei geprüft. Die Kann- |
+| (Feldkennung 3000) ausgegeben. Mögliche Werte: ja, nein | |
+| icd_zusatz_pruefung | ICD Codes werden zusätzlich gegen die Stammdatei geprüft. Die Kann- Mögliche Werte: ja, nein |
 
-* Version 1 31
-
-(Feldkennung 3000) Mögliche Werte: ja, nein prüfungen beziehen sich auf Altersbegrenzung, Geschlecht und exotische Krankheiten. Mögliche Werte: ja, nein 7.3 XKM Konfigurationsda Die Konfigurationsdatei für das Kryptomodul mit dem Namen ’konfigKryptomodul.xml’ bzw. ’konfigXKM.xml’ enthält folgende Konfigurationsschalter: Schalter Beschreibung ateien, vor dem Aufsplitten floppy splitten ROMs protokoll pruefinfo31
-
-|  | Beschreibung |
+prüfungen beziehen sich auf Altersbegrenzung, Geschlecht und exotische Krankheiten. 7.3 XKM Konfigurationsdatei Die Konfigurationsdatei für das Kryptomodul mit dem Namen ’konfigKryptomodul.xml’ bzw. ’konfigXKM.xml’ enthält folgende Konfigurationsschalter: Schalter Beschreibung ateien, vor dem Aufsplitten splitten -ROMs | Schalter | Beschreibung |
 |---|---|
 | quellpfad | Verzeichnis mit Prüfdateien |
 | zielpfad | Verzeichnis mit verschlüsselten Prüfd |
-|  | Diskettenlaufwerk bzw. Verzeichnis mit verschlüsselten Prüfdateien, nach dem Auf- |
+| floppy | Diskettenlaufwerk bzw. Verzeichnis mit verschlüsselten Prüfdateien, nach dem Auf- |
 | dateilaenge | Maximale Dateilänge bei Disketten/CD |
-|  | Protokolldatei |
-|  | Kommunikationssatz |
+| protokoll | Protokolldatei |
+| pruefinfo | Kommunikationssatz |

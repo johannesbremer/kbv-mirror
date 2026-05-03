@@ -31,9 +31,9 @@ BGL-Nummer: _______________
 
 ---
 
-**relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
+**Bitte fügen Sie diesem Befundbericht relevante medizinische Unterlagen (Arztbriefe, Befundberichte,**
 
-**Bitte fügen Sie diesem Befundbericht**  **Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**
 
 **Kopie bei, vielen Dank.**
 
@@ -80,21 +80,19 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
 | Gesamtsumme: |  | = | € |
 |  |  |  |  |
 
-Ich bitte um Überweisung auf das folgende Konto:
-
-A 12112
+Ich bitte um Überweisung auf das folgende Konto: 12
 
 | Kontoinhaber/in |
 |---|
 | IBAN:  D E 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 |
 | BIC: |
-|  |
+| Bank/Sparkasse: |
 
-für die ersten 50 Seiten  für jede weitere Seite Bank/Sparkasse:¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten  für jede weitere Seite ¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

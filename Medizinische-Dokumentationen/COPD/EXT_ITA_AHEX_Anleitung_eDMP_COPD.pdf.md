@@ -4,13 +4,13 @@
 
 # für das strukturierte Behandlungsprogramm
 
-# COPD 06.09.2023
+# COPD
 
-Stand der letzten Bearbeitung:
+Stand der letzten Bearbeitung: 06.09.2023
 
-Version 5 01.04.2024
+Version 5
 
-Anzuwenden ab:
+Anzuwenden ab:   01.04.2024
 
 
 ---
@@ -163,9 +163,9 @@ holinergikums -2-Sympathomimetikums besteht.
 
 Mindestens eine Angabe ist erforderlich.
 
-Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob eine
+Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit langwirksamen Anticholinergika  durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob eine
 
-Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit langwirksamen Anticholinergika  durchgeführt wird.  Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ht. Diese Angabe  ist für die Qualitätssicherung notwendig.
+Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ht. Diese Angabe  ist für die Qualitätssicherung notwendig.
 
 #### Inhalationstechnik überprüft
 
@@ -175,31 +175,27 @@ Nach einer initialen Einweisung in die Applikationstechnik soll die Inhalationst
 
 Dies kann bspw. mittels Simulation geschehen: Die Patientin bzw. der Patient zeigt Ihnen, wie sie  bzw. er das Device hält und simuliert das Auslösen eines Hubes. Dabei überprüfen Sie die  Inhalationstechnik (Ein-/Ausatemtechnik). Die Simulation kann in ähnlicher Weise auch ohne ein  Device durchgeführt werden.
 
-„Ja“ an, wenn Sie dies bei der aktuellen DMP Konsultation getan haben.
-
-Geben Sie hier bitte
+Geben Sie hier bitte „Ja“ an, wenn Sie dies bei der aktuellen DMP Konsultation getan haben.
 
 #### Sonstige diagnosespezifische Medikation
 
 Mindestens eine Angabe ist erforderlich. Sofern Sie „Nein“ angegeben haben, darf keine weitere  Angabe erfolgen.
 
-oder andere bzw.
-
-Sollte Ihr Patient inhalative oder systemische Glukokortikosteroide
+Sollte Ihr Patient inhalative oder systemische Glukokortikosteroide oder andere bzw.
 
 weitere Medikamente zur Behandlung der COPD erhalten, geben Sie dies bitte hier an.
 
-Der Wirkstoff Theophyllin wird wegen seiner geringen therapeutischen Breite und aufgrund des  - und Dauertherapie nicht
+Der Wirkstoff Theophyllin wird wegen seiner geringen therapeutischen Breite und aufgrund des  Nebenwirkungsprofils zur Behandlung der COPD im Rahmen der Bedarfs- und Dauertherapie nicht
 
-Nebenwirkungsprofils zur Behandlung der COPD im Rahmen der Bedarfs mehr empfohlen. Für den Fall, dass Sie Patienten haben, die Theophyllin erhalten, kreuzen Sie hier
+mehr empfohlen. Für den Fall, dass Sie Patienten haben, die Theophyllin erhalten, kreuzen Sie hier
 
 bitte „Andere“ an. Unter der Angabe „Andere“ sind ebenfalls z.B. mukoaktive Substanzen wie z. B.
 
 Acetylcystein, Ambroxol oder Carbocystein zu erfassen.
 
-„Inhalative Glukokortikosteroide" und/oder Systemische Glukokortikosteroide
+Die Angaben zu „Inhalative Glukokortikosteroide" und/oder Systemische Glukokortikosteroide
 
-Die Angaben zu  sowie „Andere“ können einzeln oder gemeinsam erfolgen.
+sowie „Andere“ können einzeln oder gemeinsam erfolgen.
 
 # Schulung
 
@@ -207,19 +203,13 @@ Die Angaben zu  sowie „Andere“ können einzeln oder gemeinsam erfolgen.
 
 Genau eine Angabe ist erforderlich.
 
-Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Wenn Sie bereits zuvor
+Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie bereits zuvor
 
-Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die
+eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die  Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
 
-Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
+Wurde *keine Schulung* empfohlen (z. B., weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung
 
-*keine Schulung* empfohlen (z. B., weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung
-
-Wurde
-
-geben Sie dies bitte mit „Nein“ an.
-
-wahrgenommen hat),
+wahrgenommen hat), geben Sie dies bitte mit „Nein“ an.
 
 #### Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
@@ -306,41 +296,23 @@ möglich und verpflichtend. Sollte Ihr Patient eine empfohlene Schulung haben, k
 
 Wenn Sie bereits zuvor eine Teilnahme an einem Tabakentwöhnungsprogramm empfohlen haben,  diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Empfehlung bitte erneut aus und  kreuzen hier „Ja“ an.
 
-ausgesprochen, geben Sie dies bitte mit „Nein“ an.
+Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.
 
-Wurde keine Empfehlung
-
-Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie
-
-z. B.
-
-unter www .zentrale-pruefstelle-
-
-geeignete Tabakentwöhnungsprogramme
-
-im Internet
+Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie  geeignete Tabakentwöhnungsprogramme z. B. im Internet unter www .zentrale-pruefstelle-
 
 praevention.de oder auch direkt über die Internetseiten der Krankenkassen.
 
-**nicht** zum Ausschluss des Patienten aus dem Programm.
-
-Eine Angabe in diesen Feldern führt
+Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus dem Programm.
 
 #### An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen
 
 Genau eine Angabe ist bei allen aktiven Rauchern erforderlich und nur im Rahmen einer  Folgedokumentation möglich und hier verpflichtend.
 
-Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat
-
-kentwöhnungsprogramm
-
-und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt  ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Taba
+Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat  und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt  ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Taba kentwöhnungsprogramm
 
 bisher nicht möglich gewesen sein, machen Sie bitte die Angabe „War aktuell nicht möglich“.
 
-**nicht** zum Ausschluss des Patienten aus dem Programm.
-
-Eine Angabe in diesen Feldern führt
+Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus dem Programm.
 
 #### Empfehlung zum körperlichen Training ausgesprochen
 
@@ -348,14 +320,10 @@ Genau eine Angabe ist erforderlich.
 
 Körperliches Training führt in der Regel zu einer Verringerung der COPD -Symptomatik und der  Exazerbationsrate, zur Besserung der Belastbarkeit und kann zur Verbesserung der Lebensqualität  oder Verringerung der Morbidität beitragen.
 
-mindestens einmal wöchentliches Training soll
-
-Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von  körperlichen Aktivitäten hinweisen und zur Teilnahme an geeigneten Trainingsmaßnahmen  motivieren (z. B. im Rahmen ambulanter Rehabilitations - und Funktionssportgruppen, wie z. B.  „Lungensportgruppen“). Ein regelmäßiges,
+Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die Bedeutung von  körperlichen Aktivitäten hinweisen und zur Teilnahme an geeigneten Trainingsmaßnahmen  motivieren (z. B. im Rahmen ambulanter Rehabilitations - und Funktionssportgruppen, wie z. B.  „Lungensportgruppen“). Ein regelmäßiges, mindestens einmal wöchentliches Training soll
 
 empfohlen werden.
 
 Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) eine Empfehlung zum körperlichen  Training ausgesprochen haben, geben Sie dies bitte hier mit „Ja“ an.
 
-ausgesprochen, geben Sie dies bitte hier mit „Nein“ an.
-
-Wurde keine Empfehlung
+Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte hier mit „Nein“ an.

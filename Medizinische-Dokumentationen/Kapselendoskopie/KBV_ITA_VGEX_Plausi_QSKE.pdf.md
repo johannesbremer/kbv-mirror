@@ -9,10 +9,10 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.01 |
+|  | 21.01.2015 |
 |  |  |
 
-selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Kennzeichnung: Status:   21.01.2015 Öffentlich  In Kraft
+selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Kennzeichnung: Status:   Öffentlich  In Kraft
 
 ---
 
@@ -20,14 +20,12 @@ selendoskopie Informationstechnik, Telematik und Telemedizin Version  Datum: Ken
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.01 | 21.01.2015 KBV |  | Plausibilitäten bei Para- Redaktionelle Korrektur | Möglichkeit der Doppe | 6, 7  5 |
+| 1.01 | 21.01.2015 KBV |  | Plausibilitäten bei Para- | Möglichkeit der Doppe | 6, 7  5 |
 | 1.00 | 31.07.2014 KBV |  | Initiales Dokument |  |  |
 
 * Version:
 
-*1*
-
-metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksichtigt
+metergruppen 5 und 7 angepasst Redaktionelle Korrektur l- nennung bei Parameter 5 in Plausis berücksichtigt
 
 ---
 
@@ -54,7 +52,7 @@ metergruppen 5 und 7 angepasst l- nennung bei Parameter 5 in Plausis berücksich
 
 ---
 
-# Präambel 1
+# 1 Präambel
 
 ## 1.1 Qualitätssicherungsvereinbarung Kapselendoskopie
 
@@ -66,13 +64,9 @@ Zum Verständnis der unten stehenden Plausibilitätstabelle helfen nachfolgende 
 
 Die Tabelle in Abschnitt 2 ist entsprechend §8 der QS-Vereinbarung QSKE [1] nummeriert.
 
-### Beschreibung der Spalte „Art“
+### 1.2.1 Beschreibung der Spalte „Art“
 
-### 1.2.1
-
-In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung
-
-geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
+In der Spalte „Art“ wird über ein Buchstabenkürzel angegeben, ob ein Feld in einem Formular  vorhanden sein muss oder nicht und ob dieses Vorhandensein an eine bestimmte Bedingung  geknüpft ist. Diese Bedingung ist dann in der Spalte „Beschreibung“ näher zu spezifizieren.
 
 **M = Mussfeld (Pflichtfeld)**
 
@@ -82,9 +76,9 @@ Ein Mussfeld muss in einem Formular vorhanden sein.
 
 Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
 
-Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung
+**Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung
 
-**Hinweis:**  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
+nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
 **K = Kannfeld (optionales Feld)**
 
@@ -92,13 +86,11 @@ Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei 
 
 **k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-**darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld  **nicht** erfüllt ist.
+**nicht** erfüllt ist.
 
-### Beschreibung der Begriffe „Fehler“ und „Warnung“
-
-### 1.2.2
+### 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“
 
 **Fehler**
 
@@ -173,7 +165,7 @@ Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter
 |  | 5.a |  |  | |
 | Ganzzahl 0-99999 |  |  | 5.b.I | |
 |  | | | | |
-|  |  |  | 5.b.II  …wegen eingeschränkter Sicht | Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) |
+|  |  |  | 5.b.II  …wegen eingeschränkter Sicht | Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht)    Anzahl vollständiger Untersuchungen |
 | Fehler, wenn |  |  |  | |
 | Nr. | Feldbezeichnung | Ausprägung/ Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 | 4. Befundklassifikation | | | | |
@@ -186,7 +178,7 @@ Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter
 | 5.b.I |  | Ganzzahl 0-99999 | M | |
 | 5.b.II  …wegen eingeschränkter Sicht |  | Ganzzahl 0-99999 | M | |
 | 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) | | | | |
-|  | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) | | | |
+| Anzahl vollständiger Untersuchungen | Fehler, wenn  (Feld 6.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld 6.b.II + Feld 6.b.III + Feld 6.b.IV) ungleich (Feld 3.a + Feld 3.b) | | | |
 | 6.a | chungen | Ganzzahl 0-99999 | M | |
 | Anzahl unvollständiger Untersuchungen | | | | |
 | unvollständig aufgrund von Retention im Magen | | | | |
@@ -201,9 +193,9 @@ Beschreibung der Felder und Plausibilitäten  LANR  BSNR  Anzahl durchgeführter
 |  | | | | |
 |  |  |  | Fehler, wenn Feld 5.b.II größer als (Feld 3.a + Feld 3.b - Feld 5.a) | |
 |  | | | | |
-|  |  |  |  | 5.a nicht eingeschränkter Beurteil-  Ganzzahl 0-99999 M    Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- 5.b.I  Ganzzahl 0-99999 M 5.b.II  …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht) |
+|  |  |  |  | 5.a nicht eingeschränkter Beurteil-  Ganzzahl 0-99999 M    Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop- 5.b.I  Ganzzahl 0-99999 M 5.b.II  …wegen eingeschränkter Sicht  Ganzzahl 0-99999 M 6. Status Vollständigkeit der Untersuchung (Zökum erreicht)    Anzahl vollständiger Untersuchungen |
 
-Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich) ……  …wegen technischer Probleme    Anzahl vollständiger Untersuchungen  Anzahl vollständiger Untersu- geben)  bis zu unter 1 Stunde im Magen  (nur einen Hauptgrund an-
+Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle pelnennung möglich) ……  …wegen technischer Probleme  Anzahl vollständiger Untersu- geben)  bis zu unter 1 Stunde im Magen  (nur einen Hauptgrund an-
 
 ---
 

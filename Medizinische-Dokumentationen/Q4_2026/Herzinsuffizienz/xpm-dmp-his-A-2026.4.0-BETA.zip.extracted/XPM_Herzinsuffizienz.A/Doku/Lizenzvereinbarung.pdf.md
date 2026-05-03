@@ -188,27 +188,17 @@ die die KBV nach dem Produkthaftungsgesetz haftet. In allen anderen Fällen ist 
 
 satzpflicht der KBV auf die Verletzung wesentlicher Vertragspflichten beschränkt. Wesentliche
 
-Pflichten sind nur solche Pflichten, deren Erfüllung die ordnungsgemäße Ausführung
+Pflichten sind nur solche Pflichten, deren Erfüllung die ordnungsgemäße Ausführung der Verein-
 
-die Softwarehersteller vertrauen dürfen.
+barung erst ermöglicht und auf deren Erfüllung die Softwarehersteller vertrauen dürfen.
 
-der Verein-
-
-barung erst ermöglicht und auf deren Erfüllung
-
-r-
-
-(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforde
+(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforder-
 
 lichen Aufwendungen beschränkt, die normal und üblich sind, wenn Sicherungskopien erstellt
 
 wurden.
 
-agspflichten durch
-
-(3) Im Falle einer fahrlässigen Verletzung wesentlicher Vertr
-
-die KBV ist die
+(3) Im Falle einer fahrlässigen Verletzung wesentlicher Vertragspflichten durch die KBV ist die
 
 Haftung auf vorhersehbare, vertragstypische Schäden beschränkt.
 
@@ -218,41 +208,27 @@ Haftung auf vorhersehbare, vertragstypische Schäden beschränkt.
 
 (1) Mündliche Nebenabreden zu dieser Vereinbarung sind nicht getroffen. Jegliche Änderung
 
-lt auch für die Aufhebung dieser Schriftformverein-
-
-oder Ergänzung bedarf der Schriftform. Dies gi
+oder Ergänzung bedarf der Schriftform. Dies gilt auch für die Aufhebung dieser Schriftformverein-
 
 barung.
 
-m-
-
-(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Besti
+(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Bestim-
 
 mungen erhalten, bleibt seine Wirksamkeit im Übrigen davon unberührt. Die Parteien verpflichten
 
 sich, anstelle der unwirksamen, undurchführbaren, anfechtbaren oder nichtigen Bestimmungen
 
-g-
-
-eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfol
+eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfolg-
 
 ten wirtschaftlichen Zweck am Nächsten kommt.
 
-iften in dieser Vereinbarung wurden der leichteren Lesbarkeit
-
-(3) Die beschreibenden Überschr
+(3) Die beschreibenden Überschriften in dieser Vereinbarung wurden der leichteren Lesbarkeit
 
 wegen eingefügt, und die Auslegung dieser Vereinbarung wird durch sie nicht eingeschränkt oder
 
 auf sonstige Weise berührt.
 
-Vereinbarung dürfen nicht ohne ausdrückliche
-
-i-
-
-(4) Die Rechte aus dieser
-
-schriftliche Genehm
+(4) Die Rechte aus dieser Vereinbarung dürfen nicht ohne ausdrückliche schriftliche Genehmi-
 
 gung der KBV abgetreten werden.
 

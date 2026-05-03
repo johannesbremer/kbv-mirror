@@ -78,11 +78,11 @@ Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4
 
 ---
 
-# ABBILDUNGSVERZEICHNIS 7
+# ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 23
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
 
-Abbildung 2: Testdatenvalidierung
+Abbildung 2: Testdatenvalidierung 23
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
@@ -108,17 +108,13 @@ Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle f�
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
-ntnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
-
-Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen e
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 ## 1.1 RECHTSGRUNDLAGE
 
 Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB  V zur Erbringung von molekulargenetischen Untersuchungen bei monogenen Erkrankungen“.
 
-## F
-
-## 1.2 ZERTIFIZIERUNGSABLAU
+## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
@@ -145,9 +141,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
-## 1.3 ZERTIFIZIERUNGSPORTA
-
-## L
+## 1.3 ZERTIFIZIERUNGSPORTAL
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -171,9 +165,7 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
-## 1.4 ZERTIFIZIERUNGSDOKUM
-
-## ENTE
+## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
 Alle erforderlichen Unterlagen stehen im Internet zum Download unter ITA-Update bereit. In diesem
 
@@ -183,7 +175,7 @@ Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-- Zwei Jahresstatistiken bestehend aus XML-Dokumenten:
+- **Zwei Jahresstatistiken bestehend aus XML-Dokumenten:**
 
 Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis
 
@@ -274,9 +266,9 @@ Glücklich/Müller
 |---|---|
 | Prüffall-ID | 1 |
 | Testziel | › |
-| Voraussetzung |  |
-| Prüfunterlagen | › |
-| Hinweis | nach Anlage eines jeweils entsprechenden |
+| Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 |
+| Prüfunterlagen | › › |
+| Hinweis | Es werden |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -297,7 +289,7 @@ Glücklich/Müller
 
 -
 
-Das Dokumentationsdatum ist der 31.03.2018 Es werden Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle
+Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle  nach Anlage eines jeweils entsprechenden
 
 ---
 
@@ -478,14 +470,14 @@ NG GEMÄß § 5 NR. 2
 
 ---
 
-2.2 PRÜFFALL 2
+**2.2** **PRÜFFALL 2**
 
 |  |  |
 |---|---|
 | Prüffall-ID | 2 |
 | Testziel | › |
 | Voraussetzung | Das Dokumentationsdatum ist der 3 |
-| Prüfunterlagen | › › › |
+| Prüfunterlagen | › › |
 | Hinweis | Der Prüffall ist in 8 Fehlerkonstellationen aufgeteilt  Alle nicht vorgegebenen Angaben jeder einzelnen Konstellation sind immer aus der  Anhang 4.1 zu entnehmen |
 
 Aktionen, die durch den Antragsteller durchgeführt werden:
@@ -500,15 +492,15 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 | 1 | | | |
 | Gesamtzahl der Behandlungsfälle nach | 1501 |  | |
 |  | | | |
+| Konstellation 2 | | | |
 | 2 | | | |
-| 2 | | | |
-| s | keine Angabe | davon pathologische | keine Angabe |
+| dabei Behandlungsfälle mit | keine Angabe | davon pathologische | keine Angabe |
 |  |  | davon unauffällige | keine Angabe |
 |  |  | davon nicht beurteilbare | keine Angabe |
 
 - lerhaften / unvollständigen Daten trotzdem zu
 
-1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM -Unterabschnitt 11.4.2 dabei Behandlung fälle mit diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde
+1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde
 
 ---
 
@@ -583,34 +575,34 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | JAHRESSTATISTIK | | | |
 |---|---|---|---|
 | 1 | | | |
-|  | keine Angabe |  | |
+| Gesamtzahl der Behandlungsfälle | keine Angabe |  | |
 |  | | | |
 | 2 | | | |
-| s | 2 | davon pathologische | 1 |
+| dabei Behandlungsfälle mit | 2 | davon pathologische | 1 |
 |  |  | davon unauffällige | 1 |
 |  |  | davon nicht beurteilbare | keine Angabe |
 |  | | | |
-|  | | | |
+| 5 Anzahl der Untersuchungen je GOP | | | |
 | 11380 | 2 | davon pathologische | 1 |
 |  |  | davon unauffällige | 1 |
 |  |  | davon nicht beurteilbare | keine Angabe |
 |  | | | |
-|  | | | |
+| 6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund) | | | |
 | Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle | Quotient |
-| 3 | | | |
+| 2.3 | | | |
 |  |  |  | Prüffall-ID |
 | 3 | Testziel | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann | Voraussetzung |
-| Das Dokumentationsdatum ist der 31.03.2018 |  |  |  |
+| Das Dokumentationsdatum ist der 31.03.2018 | Prüfunterlagen |  |  |
 
 |  |  |
 |---|---|
 | Prüffall-ID | 3 |
 | Testziel | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann |
 | Voraussetzung | Das Dokumentationsdatum ist der 31.03.2018 |
-|  | › › |
+| Prüfunterlagen | › › |
 | Hinweis |  |
 
-Prüfunterlagen 1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) 2.3 PRÜFFALL Aktionen, die durch den Antragsteller durchgeführt werden: Erfassung der Jahresstatistik Gesamtzahl der Behandlungsfälle nach EBM -Unterabschnitt 11.4.2 dabei Behandlung fälle mit diagnostischer Fragestellung 5 Anzahl der Untersuchungen je GOP 6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund) (pathologisch) Behandlungsfällen mit pathologischem mit pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefund
+1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) PRÜFFALL 3 Aktionen, die durch den Antragsteller durchgeführt werden: Erfassung der Jahresstatistik nach EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung (pathologisch) Behandlungsfällen pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde mit pathologischem Endbefund
 
 ---
 
@@ -645,7 +637,7 @@ Prüfunterlagen 1. Screenshot, dass die Erfassung der geforderten Jahresstatisti
 | Szenario 1 |
 | Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
 | Szenario 2 |
-| en  2.  Arten von |
+| 1.  2.  3. |
 | Szenario 3 |
 | Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:  • • |
 | 2.4 |
@@ -660,7 +652,7 @@ Prüfunterlagen 1. Screenshot, dass die Erfassung der geforderten Jahresstatisti
 | Prüfunterlagen | › |
 | Hinweis | Dieser Testfall ist unterteilt in vier Szenarien |
 
-1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  PRÜFFALL 4 Aktionen, die durch den Antragsteller durchgeführt werden: Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). 1. Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für d Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1 3. Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss. -70).
+1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  PRÜFFALL 4 Aktionen, die durch den Antragsteller durchgeführt werden: Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für d Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1 Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss. -70).  Arten von
 
 ---
 
@@ -692,11 +684,9 @@ Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv 
 
 Abbildung 2: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
-ZIP-Archives.
 
 
 ---
@@ -769,14 +759,14 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | 1,00 | | | |
 | Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 | 400 | 1,25 |
-| 7 |  | 300 |  |
+| 7 | Anzahl der Behandlungsfälle mit | 300 |  |
 | 8 Anzahl der Einsender | | | |
-|  | 120 |  | Anzahl BSNR |
-| 90 |  | 9 Anzahl der Einsendungen je Facharztgruppe |  |
-| 500 |  |  | 300 |
+| Anzahl LANR | 120 |  | Anzahl BSNR |
+| 90 |  | 9 Anzahl der Einsendungen je Facharztgruppe | 04 (Anästhesiologie) |
+| 500 |  | 22 (Humangenetik) | 300 |
 |  | | | |
-|  | 300 |  | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 |
-|  | 3 |  | Gesamtanzahl der Zertifikate |
+| 62 (Radiologie) | 300 |  | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 |
+| Gesamtanzahl der Untersuchungen | 3 |  | Gesamtanzahl der Zertifikate |
 | 2 |  | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden | 11 Anzahl der Einsendungen je Facharztgruppe für diese GOP |
 | 11395 |  |  |  |
 | 04 (Anästhesiologie) | 300 |  |  |
@@ -791,16 +781,16 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 |  | 500 | 400 | 1,25 |
 | 7 | | | |
-|  | 300 |  | |
+| Anzahl der Behandlungsfälle mit | 300 |  | |
 | 8 Anzahl der Einsender | | | |
-|  | 120 |  | |
+| Anzahl LANR | 120 |  | |
 | Anzahl BSNR | 90 |  | |
 | 9 Anzahl der Einsendungen je Facharztgruppe | | | |
-|  | 500 |  | |
-|  | 300 |  | |
-|  | 300 |  | |
+| 04 (Anästhesiologie) | 500 |  | |
+| 22 (Humangenetik) | 300 |  | |
+| 62 (Radiologie) | 300 |  | |
 | 10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2 | | | |
-|  | 3 |  | |
+| Gesamtanzahl der Untersuchungen | 3 |  | |
 | Gesamtanzahl der Zertifikate | 2 |  | |
 | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden 11 Anzahl der Einsendungen je Facharztgruppe für diese GOP | | | |
 | 11395 |  |  | |
@@ -811,7 +801,7 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | 700 |  | 600 | 1,17 |
 | Quotient | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 
-(pathologisch) (unauffällig) (nicht beurteilbar) Anzahl der Behandlungsfälle mit mindestens einem Unterauftrag Anzahl LANR 22 (Humangenetik) 62 (Radiologie) Gesamtanzahl der Untersuchungen FALL 2 Behandlungsfällen pathologischem Behandlungsfällen mit unauffälligem Behandlungsfällen mit nicht beurteilbarem pathologischem Endbefund unauffälligem Endbefund nicht beurteilbarem
+(pathologisch) (unauffällig) (nicht beurteilbar) mindestens einem Unterauftrag FALL 2 Behandlungsfällen pathologischem Behandlungsfällen mit unauffälligem Behandlungsfällen mit nicht beurteilbarem pathologischem Endbefund unauffälligem Endbefund nicht beurteilbarem
 
 ---
 

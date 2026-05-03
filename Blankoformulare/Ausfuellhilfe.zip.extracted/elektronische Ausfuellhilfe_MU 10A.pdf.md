@@ -21,13 +21,13 @@ Hier wird der Laborgemeinschaft durch Ankreuzen des Unfallfeldes mitgeteilt, wen
 
 ---
 
-## KNAPPSCHAFTSKENNZIFFER3.
+## 3. KNAPPSCHAFTSKENNZIFFER
 
 Knappschaftsärzte tragen für die Veranlassung von Laboratoriumsuntersuchungen bei  Knappschaftsversicherten die Ziffer 87777 ein.
 
-**GESCHLECHT4.**
+**4. GESCHLECHT** Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W =
 
-Das Geschlecht des Patienten wird durch einen Buchstaben angegeben (D = divers, M = männlich, W = weiblich, X = unbestimmt).
+weiblich, X = unbestimmt).
 
 **5. SSW**
 
@@ -35,7 +35,7 @@ Bei einer vorliegenden Schwangerschaft ist die Schwangerschaftswoche in diesem F
 
 **6. ABNAHMEDATUM** Das Abnahmedatum ist einzhier utragen.
 
-**ABNAHMEZEIT7.**
+**7. ABNAHMEZEIT**
 
 Die Abnahmezeit ist hier einzutragen.
 
@@ -45,25 +45,21 @@ Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigen
 
 ne Untersuchung wesentliche
 
-Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Medikationen
+Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Clearance, oder andere übermitteltMedikationen
 
 zusätzliche Informationen
 
 werden.
 
-Clearance, oder andere übermittelt
+**9. AUFTRAGSFELD** Der anfordernde Vertragsarzt hat d maie Auftragsleistungen nuell durch Auftragsfeld zuStriche im
 
-**9. AUFTRAGSFELD**
+vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors
 
-ie Auftragsleistungen nuell durch Auftragsfeld zuStriche im
-
-Der anfordernde Vertragsarzt hat d ma vermerken. Unter „Sonstiges“ sind die nicht im Auftragsfeld benannten Leistungen des Allgemeinlabors
-
-usführende Laborgemeinschaft
+beziehbar. Die die Auftragsleistung a darf nur dusführende Laborgemeinschaft
 
 ie Untersuchungen
 
-beziehbar. Die die Auftragsleistung a darf nur d durchführen, angegeben sdie im Auftragsfeld
+durchführen, angegeben sdie im Auftragsfeld
 
 ind.
 

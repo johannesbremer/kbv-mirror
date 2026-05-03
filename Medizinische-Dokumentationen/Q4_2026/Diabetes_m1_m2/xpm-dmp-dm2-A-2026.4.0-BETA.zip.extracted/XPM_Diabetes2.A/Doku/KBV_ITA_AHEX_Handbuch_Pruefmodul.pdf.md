@@ -208,13 +208,9 @@ Zeichensatzkonverter ...........................................................
 
 ---
 
-**S**
+#### ABBILDUNGSVERZEICHNIS
 
-#### ABBILDUNGSVERZEICHNI
-
-.................................................................... 20
-
-Abbildung 1: XPM Prüfmodul für KVDT Prüfung
+Abbildung 1: XPM Prüfmodul für KVDT Prüfung .................................................................... 20
 
 Abbildung 2: XPM Prüfmodul für Brustkrebs Prüfung ............................................................ 20
 
@@ -287,17 +283,15 @@ Tabelle 3: Übergabeparameter ..................................................
 
 - spezifisch.
 
-- : Hiermit ist meist die neuste Version des KVDT-XPM-Pakets
-
--  **"das neue KBV-Prüfmodul"** gemeint.
+- **"das neue KBV-Prüfmodul"**: Hiermit ist meist die neuste Version des KVDT-XPM-Pakets - gemeint.
 
 - **"Java-Prüfmodul"**: Früherer Arbeitsname für den XPM-Kernel, weil dafür die Program-
 
 - miersprache JAVA verwendet wird
 
-- : Das Gesamtpaket enthält alle relevanten Dokumente und
+- **"Gesamtpaket xxx Vf.gg"**: Das Gesamtpaket enthält alle relevanten Dokumente und
 
--  **"Gesamtpaket xxx Vf.gg"** Software für eine Schnittstelle bzw. Indikation. Achtung! Die Versionsnummer eines Ge- samtpakets ist nicht zu verwechseln mit der Versionsnummer der Schnittstelle oder des  Prüfmoduls
+- Software für eine Schnittstelle bzw. Indikation. Achtung! Die Versionsnummer eines Ge- samtpakets ist nicht zu verwechseln mit der Versionsnummer der Schnittstelle oder des  Prüfmoduls
 
 ## 1.2 Systemvoraussetzungen
 
@@ -314,9 +308,7 @@ Langsamere Prozessoren und wenig Hauptspeicher erhöhen stark die Laufzeit des P
 
 Im Installationsverzeichnis befinden sich Batchdateien bzw. Shellskripte, die das KBV- Prüfmodul mit unterschiedlichen Optionen bzw. Konfigurationsdateien ausführen.
 
-Die Verzeichnisstruktur des KBV-bau:
-
-Prüfmoduls hat folgenden Auf
+Die Verzeichnisstruktur des KBV-bau: Prüfmoduls hat folgenden Auf
 
 ## 2.1 Ordner 'Bin'
 
@@ -338,17 +330,15 @@ In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfigu
 
 ## 2.4 Ordner 'Geprueft/Abgelehnt'
 
-Dieser Ordner dient als Ablage für  einigen Prüfprojekten entfallen.
+Dieser Ordner dient als Ablage für **nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei
+
+einigen Prüfprojekten entfallen.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
-**nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei
-
 ## 2.5 Ordner 'Geprueft/NichtAbgelehnt'
 
-Dieser Ordner dient als Ablage für korrekt geprüfte Dateien. Dieser Ordner kann bei einigen
-
-Prüfprojekten entfallen.
+Dieser Ordner dient als Ablage für korrekt geprüfte Dateien. Dieser Ordner kann bei einigen  Prüfprojekten entfallen.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
@@ -408,78 +398,74 @@ Im allgemeinen Teil werden allgemeine Informationen zum Prüflauf eingestellt.
 
 #### 3.1.1.1 Installationsverzeichnis
 
-Das Installationsverzeichnis wird im Element „**pruefpfad**“ festgelegt.
+Das Installationsverzeichnis wird im Element „
 
-Z.B.: **<pruefpfad>C:/KBV_Pruefmodul/</pruefpfad>**
+Z.B.: <pruefpfad>C:/KBV_Pruefmodul/</pruefpfad>
 
 #### 3.1.1.2 Prüfdatenverzeichnis
 
-Das Verzeichnis mit Prüfdateien wird im Element „**pruefdaten**“ festgelegt.
+Das Verzeichnis mit Prüfdateien wird im Element „
 
-Z.B.: **<pruefdaten>Daten/</pruefdaten>**
+Z.B.: <pruefdaten>Daten/</pruefdaten>
+
+**pruefpfad**“ festgelegt.
+
+**pruefdaten**“ festgelegt.
 
 
 ---
 
 #### 3.1.1.3 Geprüft-OK-Verzeichnis
 
-Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ bzw. ‘fehlerhaft’ in die- **okdaten**
+Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ bzw. ‘fehlerhaft’ in die- ses Verzeichnis verschoben. Pfadangabe erfolgt im Element „
 
-ses Verzeichnis verschoben. Pfadangabe erfolgt im Element „
-
-**<okdaten>Fehlerfrei/</okdaten>**
-
-Z.B.:
+Z.B.: <okdaten>Fehlerfrei/</okdaten>
 
 #### 3.1.1.4 Ausschussverzeichnis
 
-**fehlerdaten**
-
 Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘abgelehnt’ bzw. ‘abbruch’ in  dieses Verzeichnis verschoben. Pfadangabe erfolgt im Element „
 
-**<fehlerdaten>Fehler/</fehlerdaten>**
-
-Z.B.:
+Z.B.: <fehlerdaten>Fehler/</fehlerdaten>
 
 #### 3.1.1.5 Temporäres Verzeichnis
 
-**tempdaten**“ spezifiziert. Fehlt
-
 Während der Prüfung (XPM-KVDT-Paket) werden einige Daten in temporären Dateien gehal- ten. Dieses Verzeichnis wird durch Pfadangabe im Element „ dieser Schalter so wird das standardmäßige, betriebssystem-spezifische Verzeichnis genom- men.
 
-**<tempdaten>Fehler/</tempdaten>**
-
-Z.B.:
+Z.B.: <tempdaten>Fehler/</tempdaten>
 
 #### 3.1.1.6 Protokolldatei
 
-**log_datei**“ angegeben werden. Bei einem eventuellen
+Bei jedem Prüflauf wird eine Protokolldatei geschrieben. Der Pfad der Protokolldatei kann in  der Konfigurationsdatei im Element „**log_datei**“ angegeben werden. Bei einem eventuellen
 
-Bei jedem Prüflauf wird eine Protokolldatei geschrieben. Der Pfad der Protokolldatei kann in  der Konfigurationsdatei im Element „ fehlerhaften Programmablauf befinden sich in dieser Datei Informationen zu genauen Fehler- ursache.
+fehlerhaften Programmablauf befinden sich in dieser Datei Informationen zu genauen Fehler- ursache.
 
-**<log_datei>Listen/XPM_Logfile.log</log_datei>**
-
-Z.B.:
+Z.B.: <log_datei>Listen/XPM_Logfile.log</log_datei>
 
 #### 3.1.1.7 Dateifilter
 
-**datei_filter**“ eingegrenzt wer-
-
 Die Menge der zu prüfenden Dateien kann über das Element „ den.
 
-Z.B.: **<datei_filter>*.ED2</datei_filter>**
+Z.B.: <datei_filter>*.ED2</datei_filter>
 
 #### 3.1.1.8 Datensatzbeschreibung
 
 Die Datensatzbeschreibung wird in Form einer XML-Schemadatei spezifiziert.
 
-**pruefschema**“ festgehalten.
-
 Die Pfadangabe zur XML-Schemadatei wird im Element „
 
-Z.B.: **<pruefschema>Konfig/koloskopie.xsd</pruefschema>**
+Z.B.: <pruefschema>Konfig/koloskopie.xsd</pruefschema>
 
 Hinweis: Solle in der Pfadangabe des XML-Schemas das ‘%’-Zeichen verwendet werden, so  muss dieses durch die Zeichenkette ‘%25’ ersetzt werden.
+
+**okdaten**
+
+**fehlerdaten**
+
+**tempdaten**“ spezifiziert. Fehlt
+
+**datei_filter**“ eingegrenzt wer-
+
+**pruefschema**“ festgehalten.
 
 
 ---
@@ -490,7 +476,7 @@ Diese Einstellung ermöglicht es das Protokollieren der Informationsmeldungen ei
 
 Wertebereich: „ja“, „nein“.
 
-Z.B. **<info>ja</info>**
+Z.B. <info>ja</info>
 
 #### 3.1.1.10 Warnungen
 
@@ -498,7 +484,7 @@ Diese Einstellung ermöglicht es das Protokollieren der Warnungen ein- bzw. ausz
 
 Wertebereich: „ja“, „nein“.
 
-Z.B. **<warnungen>ja</warnungen>**
+Z.B. <warnungen>ja</warnungen>
 
 #### 3.1.1.11 Fehler
 
@@ -506,7 +492,7 @@ Diese Einstellung ermöglicht es das Protokollieren der Fehler ein- bzw. auszusc
 
 Wertebereich: „ja“, „nein“.
 
-Z.B. **<fehler>ja</fehler>**
+Z.B. <fehler>ja</fehler>
 
 **Warnung:** Eine Deaktivierung der Fehlerausgabe sollte nur zu Testzwecken genutzt werden.
 
@@ -518,76 +504,50 @@ Standardmäßig begrenzt XPM die gemeldeten Fehler einer bestimmten Meldungsnumm
 
 Wertebereich: „ja“, „nein“.
 
-Z.B. **<fehler_begrenzen>nein</fehler_begrenzen>**
+Z.B. <fehler_begrenzen>nein</fehler_begrenzen>
 
 #### 3.1.1.13 Abbruch nach Überschreitung einer bestimmten Anzahl von Fehlern
 
 Das XPM kann während der Laufzeit abgebrochen werden, wenn eine vorher festgelegte An- zahl von Fehlern erreicht wird. Diese Einstellung ermöglicht die Prüfung von sehr großen Da- teien vorzeitig abzubrechen, wenn bereits vor dem Ende der Prüfung feststeht, dass eine Prü- fung nicht erfolgreich sein wird.
 
-Z.B. **<fehler_abbruch>10</fehler_abbruch>**
+Z.B. <fehler_abbruch>10</fehler_abbruch>
 
 
 ---
 
 #### 3.1.1.14 Spaltenangabe
 
-Eine Einstellung, ob zusätzlich zu den Zeilenangeben auch die Spaltenangaben bei den je- weiligen Meldungen in der Protokolldatei erscheinen sollen, werden im Element „spalten“ fest-
-
-gelegt.
+Eine Einstellung, ob zusätzlich zu den Zeilenangeben auch die Spaltenangaben bei den je- weiligen Meldungen in der Protokolldatei erscheinen sollen, werden im Element „spalten“ fest- gelegt.
 
 Wertebereich: „ja“, „nein“.
 
-Z.B. ***<spalten>nein</spalten>***
+Z.B. <spalten>nein</spalten>
 
 #### 3.1.1.15 Dokumentation
 
 Mit dieser Einstellung kann auf eine alternative Dokumentationsdatei verwiesen werden, wel- che in der GUI unter „Hilfe / Hilfe“ verlinkt ist.
 
-Z.B. ***<dokumentation>Doku/E014_XPM_Anwenderhandbuch.pdf</dokumentation>***
+Z.B. <dokumentation>Doku/E014_XPM_Anwenderhandbuch.pdf</dokumentation>
 
 ### 3.1.2 Abschnitt: Eingabedateien
 
-Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en) festge- legt. Die Steuertabelle für das XPM, im Element „kbv_tabelle“ spezifiziert,
-
-muss in der Konfi-
-
-gurationsdatei angegeben werden.
+Im Abschnitt Eingabedateien werden die Pfade zur Steuertabelle und Stammdatei(en) festge- legt. Die Steuertabelle für das XPM, im Element „kbv_tabelle“ spezifiziert, muss in der Konfi- gurationsdatei angegeben werden.
 
 Z.B.:
 
-***<kbv_tabelle>Kbvtab/kbv_tabelle.bin</kbv_tabelle>***
+<kbv_tabelle>Kbvtab/kbv_tabelle.bin</kbv_tabelle>
 
-Die Steuertabelle und die Prüfbibliotek (z.B. die Datei pruefungKVDT_V1.xx_Q07x_x.jar im  müssen
+Die Steuertabelle und die Prüfbibliotek (z.B. die Datei pruefungKVDT_V1.xx_Q07x_x.jar im  Ordner Bin) **müssen** aus ein und dem selben XPM-Paket stammen. Andernfalls kommt es
 
-Ordner Bin)
+zum Programmabbruch mit der Meldung: „Das Laden der Prüfklasse  'de.kbv.pruefmodul.generiert.xyz.XPMAdapter'ist fehlgeschlagen!“
 
-aus ein und dem selben XPM
-
--Paket stammen. Andernfalls kommt es
-
-zum Programmabbruch mit der Meldung: „Das Laden der Prüfklasse
-
-'de.kbv.pruefmodul.generiert.xyz.XPMAdapter'ist fehlgeschlagen!“
-
-Über das Attribut Einlesen wird das Ladeverhalten des XPM’s für die jeweilige Eingabedatei  t hier der Wert „ja“ eingetragen wird die Stammdatei zur Prüfung herangezogen.
-
-gesteuert. Is Beim Wert „nein“ erfolgt keinerlei Prüfung gegen diese Stammdatei. Der Wert „auto“ veran-
-
--Bereich einzeln vorliegt.
-
-lasst das XPM selbständig nach einer gültigen Stammdatei zu suchen, diese dann zu laden  und für eine Prüfung bereitzustellen. Diese Einstellung wird für Stammdaten benötigt, die in  mehreren Versionen vorliegen, wie z.B. die GOS, die für jeden KV Die Einstellung „auto“ darf nur im Zusammenhang mit Stammdaten verwendet
-
-werden, die die
-
-automatische Handhabung auch vorsieht, andernfalls würde die Prüfung gegen diese
-
-Stammdatei ausgeschaltet werden. Wird das Attribut Einlesen ausgelassen, so wird die  Stammdatei standardmäßig geladen und zur Prüfung herangezogen.
+Über das Attribut Einlesen wird das Ladeverhalten des XPM’s für die jeweilige Eingabedatei  gesteuert. Ist hier der Wert „ja“ eingetragen wird die Stammdatei zur Prüfung herangezogen.  Beim Wert „nein“ erfolgt keinerlei Prüfung gegen diese Stammdatei. Der Wert „auto“ veran- lasst das XPM selbständig nach einer gültigen Stammdatei zu suchen, diese dann zu laden  und für eine Prüfung bereitzustellen. Diese Einstellung wird für Stammdaten benötigt, die in  mehreren Versionen vorliegen, wie z.B. die GOS, die für jeden KV-Bereich einzeln vorliegt.  Die Einstellung „auto“ darf nur im Zusammenhang mit Stammdaten verwendet werden, die die  automatische Handhabung auch vorsieht, andernfalls würde die Prüfung gegen diese  Stammdatei ausgeschaltet werden. Wird das Attribut Einlesen ausgelassen, so wird die  Stammdatei standardmäßig geladen und zur Prüfung herangezogen.
 
 Z.B.:
 
-***<KTStamm Einlesen=“ja“>Kbvtab/KTStamm.bin</KTStamm>***
+<KTStamm Einlesen=“ja“>Kbvtab/KTStamm.bin</KTStamm>
 
-Warnung: Vor dem Ausschalten der Prüfung gegen eine Stammdatei wird dringend abgera-
+**Warnung:** Vor dem Ausschalten der Prüfung gegen eine Stammdatei wird dringend abgera-
 
 ten, da dies das Prüfergebnis verfälschen kann!
 
@@ -595,52 +555,48 @@ ten, da dies das Prüfergebnis verfälschen kann!
 
 Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle festge- legt.
 
-Über das Attribut Format wird das Ausgabeformat festgelegt: 1.34
+Über das Attribut Format wird das Ausgabeformat festgelegt:
 
 
 ---
 
--  Kommaseparierte Ausgabe, über das Attribut ’Trennzeichen’
-
--  CSV    lässt sich das Trennzeichen zwischen den Spalten festlegen.
-
--  Standardmäßig ist hier das Komma voreingestellt.
+- CSV
 
 -
 
-- HTML- Format
+-
 
--  HTML
+- HTML
 
-- JRPRINT  Internes Ausgabeformat, kann vom Prüfmodul angezeigt und
+- JRPRINT
 
--   gedruckt werden (Spätere Versionen)
+-
 
-- PDF   Portable Document Format
+- PDF
 
-- Direktausgabe auf den Drucker -  PRINTER
+- PRINTER
 
-- PRINTER_DIALOG Direktausgabe auf den Drucker mit Einstellungsfenster
+- PRINTER_DIALOG
 
-- RTF   Rich Text Format, formatiertes Textformat
+- RTF
 
-- TEXT  ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die Seiten
+- TEXT
 
--  breite in Zeichen festlegen. Standardmäßig ist hier die Breite von
+-
 
--    80 Zeichen voreingestellt. Ein ansprechendes Layout erreicht
+-
 
--     man, in dem die Breite auf den Wert 120 setzt wird.
+-
 
-- XLS   Microsoft Excel- Format - XML   XML-Format
+- XLS
+
+- XML
 
 Z.B.:
 
 <FehlerListe Format="PDF">Listen/Fehler.pdf</FehlerListe>
 
-PDF Dateien können angezeigt und gedruckt werden. Alles, was dazu benötigt wird, ist der  Adobe Reader®, der kostenlos unter [http://www.adobe.de/products/acrobat/readstep2.html](http://www.adobe.de/products/acrobat/readstep2.html)
-
-heruntergeladen werden kann. XPM erzeugt PDF Dokumente, die vom Acrobat Reader® ab  der Version 5.0 und angezeigt werden können.
+PDF Dateien können angezeigt und gedruckt werden. Alles, was dazu benötigt wird, ist der  Adobe Reader®, der kostenlos unter  heruntergeladen werden kann. XPM erzeugt PDF Dokumente, die vom Acrobat Reader® ab  der Version 5.0 und angezeigt werden können.
 
 Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabedateien  vom Prüfmodul eigenständig umbenannt. Der Name der Ausgabedatei setzt sich zusammen  aus dem Namen der Prüfdatei und den vorgegebenen Dateinamen. Diese Vorgehensweise  verhindert das Überschreiben bereits erzeugter Protokolle.
 
@@ -653,30 +609,50 @@ Bei Fehlerprotokollen fügt das XPM noch ein Präfix, der den Errorlevel der Pr�
 | 2 | Fehler_ |
 | 3 | Abbruch_ |
 
-**Tabelle 1: ErrorLevel**
-
 So wird bei einer Prüfdatei mit dem Namen ‘Test.xml’ und dem Errorlevel 1 der Name „War- nung_Test.xml.Fehler.pdf“ für die Fehlerliste vergeben.
 
 Zusätzlich wurde eine zweite flexiblere Umbenennungsmethode integriert.
 
-*${DA-*
-
-Sobald im Namen einer Ausgabedatei die Variable *${DATEI_NAME}* verwendet wird, dann
-
-ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *TEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausgabedatei einge-
+Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *TEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausgabedatei einge-
 
 fügt.
+
+- Kommaseparierte Ausgabe, über das Attribut ’Trennzeichen’  lässt sich das Trennzeichen zwischen den Spalten festlegen.
+
+- Standardmäßig ist hier das Komma voreingestellt.
+
+- HTML- Format
+
+- Internes Ausgabeformat, kann vom Prüfmodul angezeigt und  gedruckt werden (Spätere Versionen) - Portable Document Format
+
+- Direktausgabe auf den Drucker
+
+- Direktausgabe auf den Drucker mit Einstellungsfenster
+
+- Rich Text Format, formatiertes Textformat
+
+- ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die Seiten breite in Zeichen festlegen. Standardmäßig ist hier die Breite von  80 Zeichen voreingestellt. Ein ansprechendes Layout erreicht  man, in dem die Breite auf den Wert 120 setzt wird.
+
+- Microsoft Excel- Format
+
+- XML-Format
+
+[http://www.adobe.de/products/acrobat/readstep2.html](http://www.adobe.de/products/acrobat/readstep2.html)
+
+**Tabelle 1: ErrorLevel**
+
+*${DATEI_NAME}* verwendet wird, dann
+
+*${DA-*
 
 
 ---
 
-Bei der Umbenennung von Fehlerprotokollen kann man mit der Variablen ***${STATUS}***
+Bei der Umbenennung von Fehlerprotokollen kann man mit der Variablen *${STATUS}* den
 
-den
+Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die Variable *${STA-*
 
-Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die Variable ***${STA-***
-
-***TUS}***, dann wird der Fehlerstatus als erstes im Namen der Ausgabedatei eingefügt.
+*TUS}*, dann wird der Fehlerstatus als erstes im Namen der Ausgabedatei eingefügt.
 
 #### 3.1.3.1 Statistikdatei
 
@@ -684,13 +660,11 @@ Im Abschnitt Ausgabedateien Element ‘StatistikListe’ wird der Pfad für eine
 
 Z.B.:
 
-*<StatistikListe Format="PDF">Listen/Statistik.pdf</StatistikListe>*
+<StatistikListe Format="PDF">Listen/Statistik.pdf</StatistikListe>
 
 In der Statistikliste werden für jede Prüfdatei, für die eine Meldung des Prüfmoduls erfolgte,  eine Meldungsstatistik ausgegeben. Die mit dem Status ‘ok’ geprüften Dateien tauchen in der  Statistikliste nicht auf.
 
-Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Programm- fehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte enthält, die erst
-
-zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten kann.
+Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Programm- fehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte enthält, die erst  zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten kann.
 
 Z.B.:
 
@@ -698,51 +672,29 @@ Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
 
 #### 3.1.3.2 Zusätzliche Ausgabelisten
 
-In vielen Prüfpaketen existieren zusätzliche Ausgabel
-
-isten, die Informationen bzw. Statistiken
-
-über den Prüfling enthalten.
+In vielen Prüfpaketen existieren zusätzliche Ausgabelisten, die Informationen bzw. Statistiken  über den Prüfling enthalten.
 
 Alle diese Listen werden über einen entsprechenden Schalter im Abschnitt Ausgabedateien  spezifiziert.
 
 Z.B.:
 
-*<XXXListe Format="PDF">Listen/ZusatzStatistik.pdf</XXXListe>*
+<XXXListe Format="PDF">Listen/ZusatzStatistik.pdf</XXXListe>
 
 Das Kürzel XXX steht hier für eine bestimmte Liste des jeweiligen Prüfpaketes.
 
 ### 3.1.4 Abschnitt: Schalter
 
-Über die Konfigurationsschalter kann der Programmablauf modifiziert werden. Die Schalter  sind Einstellungsmöglichkeiten, die prüfprojekt-
+Über die Konfigurationsschalter kann der Programmablauf modifiziert werden. Die Schalter  sind Einstellungsmöglichkeiten, die prüfprojekt-spezifisch sind. Bitte beachten Sie auch die  Kommentare in den jeweiligen Konfigurationsdateien selbst.
 
-spezifisch sind. Bitte beachten Si
+Im KVDT- Projekt wird beispielsweise folgender Schalter definiert:
 
-e auch die
-
-Kommentare in den jeweiligen Konfigurationsdateien selbst.
-
-Im KVDT Projekt wird beispielsweise folgender Schalter definiert:
-
-*<adt_interne_patientennummer>ja</adt_interne_patientennummer>*
+<adt_interne_patientennummer>ja</adt_interne_patientennummer>
 
 ### 3.1.5 Umgebungsvariablen
 
-Jedes Element der Konfigurationsdatei
+Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
-darf Umgebungsvariablen enthalten.
-
-Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter –
-
-D
-
-übergeben werden. Nach dem Einlesen der Konfigurationsdatei werden die Umgebungsvari- ablen durch ihre Werte ersetzt. Findet das XPM eine Umge
-
-bungsvariable nicht wird der Prüf-
-
-lauf abgebrochen.
-
-1.34
+Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter –D  übergeben werden. Nach dem Einlesen der Konfigurationsdatei werden die Umgebungsvari- ablen durch ihre Werte ersetzt. Findet das XPM eine Umgebungsvariable nicht wird der Prüf- lauf abgebrochen.
 
 
 ---
@@ -753,13 +705,13 @@ Beispiel:
 
 In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 
-**<pruefpfad>%INSTALLATION%/%UMGEBUNG%/</pruefpfad>**
+<pruefpfad>%INSTALLATION%/%UMGEBUNG%/</pruefpfad>
 
 Die zwei Umgebungsvariablen INSTALLATION und UMGEBUNG müssen entweder in einer  Batchdatei bzw. einem Shellskript:
 
-**set INSTALLATION=C:\**
+set INSTALLATION=C:\Projekte\JavaPruefmodul\Test
 
-**set UMGEBUNG=KVDT.Praxis**
+set UMGEBUNG=KVDT.Praxis
 
 oder in der aufrufenden Applikation entsprechend gesetzt werden.
 
@@ -767,15 +719,7 @@ Jetzt muss nur noch dafür gesorgt werden, dass die Umgebungsvariablen der JavaV
 
 Über den folgenden Aufruf werden die Umgebungsvariablen unter gleichem Namen dem XPM  bekannt gegeben.
 
-**java DINSTALLATION=%INSTALLATION%**
-
-**Projekte\**
-
-**JavaPruefmodul\**
-
-**DUMGEBUNG=%UMGEBUNG% ...**
-
-**Test**
+java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
 
 ---
@@ -820,29 +764,19 @@ Nun folgen 3 Beispiele für den Aufruf des XPM.
 
 Übergabeparameter:
 
-**c Konfig/konfig.xml -**
-
-**f Daten/X0112345.CON**
+-c Konfig/konfig.xml -f Daten/X0112345.CON
 
 XPM liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die Datei ‘Da- ten/X0112345.CON’. Anschließend wird XPM beendet.
 
 2. Prüfen eines Verzeichnisses.
 
-Übergabeparameter:
-
-**c Konfig/konfig.xml –**
-
-**s - e**
+Übergabeparameter: -c Konfig/konfig.xml –s -e
 
 XPM liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft das komplette Verzeichnis,  welches in der Konfigurationsdatei unter dem Konfigurationsschalter ’pruefdaten’ angegeben  wurde. Anschließend wird XPM beendet.
 
 3. Prüfen eines Verzeichnisses (Kein automatisches Beenden).
 
-Übergabeparameter:
-
-**s**
-
-**c Konfig/konfig.xml –**
+Übergabeparameter: -c Konfig/konfig.xml –s
 
 XPM liest die Konfigurationsdatei ’Konfig/konfig.xml’ ein und prüft das komplette Verzeichnis,  welches in der Konfigurationsdatei unter dem Konfigurationsschalter ’pruefdaten’ angegeben  wurde. Alle 30 Sekunden wird das angegebene Verzeichnis abgeprüft.
 
@@ -850,19 +784,15 @@ XPM liest die Konfigurationsdatei ’Konfig/konfig.xml’ ein und prüft das kom
 
 Übergabeparameter:
 
-**p FehlerListe=Listen/Protokoll.xml -**
-
-**p FehlerListe@Format=XML**
+-p FehlerListe=Listen/Protokoll.xml -p FehlerListe@Format=XML
 
 Die Ausgabeliste mit dem Namen ’FehlerListe’ bekommt den Pfad ’Listen/Protokoll.xml’ zuge- wiesen. Das Format der Ausgabeliste wird auf XML gesetzt.
 
 ## 3.3 Arbeiten mit grafischer Oberfläche
 
-Die grafische Oberfläche stellt eine Alternative zum Kommandozeilen-Programm. Für die  KVDT-Prüfung ist die grafische Oberfläche ausschließlich zur Prüfung einzelner Dateien aus-
+Die grafische Oberfläche stellt eine Alternative zum Kommandozeilen-Programm. Für die  KVDT-Prüfung ist die grafische Oberfläche ausschließlich zur Prüfung einzelner Dateien aus- gelegt. Für die anderen Schnittstellen-Prüfungen (Brustkrebs, DM1, DM2, VDX und andere)  können sowohl Verzeichnisse als auch Zip-
 
 Archive geprüft werden.
-
-gelegt. Für die anderen Schnittstellen-Prüfungen (Brustkrebs, DM1, DM2, VDX und andere)  können sowohl Verzeichnisse als auch Zip-
 
 
 ---
@@ -886,9 +816,7 @@ Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fort
 
 ### den Prüfstatus.
 
-### Prüfung abbrechen
-
-### 3.3.3
+### 3.3.3 Prüfung abbrechen
 
 ### Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf eine Prüfung vor- zeitig abzubrechen.
 
@@ -900,13 +828,13 @@ Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fort
 | -q <Dateiname> | Der Dateiname der zu konvertierenden Datei bzw. Verzeichnisname. |
 | -z <Dateiname> | Der Dateiname der umgewandelten Datei bzw. Verzeichnisname. |
 | -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll. Mögliche Werte: 7Bit IBM ISO-8859-1 ISO-8859-15 |
-| 4 Zusatzprogramme 4.1 Zeichensatzkonverter | java -Xmx300m |
+| 4 Zusatzprogramme 4.1 Zeichensatzkonverter | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
 |  | -classpath "Bin/xpm-core-4.2.15.jar" |
 |  |  |
 | de.kbv.xpm.core.converter.CharsetConverter |  |
 | -q Daten\Z05123456699_31.03.2010_12.00.CON | -z Daten\Umgewandelt\ |
 
-Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. Hier ein Beispiel für einen Aufruf: -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-5.1 Programmen wird im Kapitel ausführlich erläutert. Der Parameter ‘ se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM ’ ist der Name einer Klas- erzeugt. • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt.
+Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-5.1 Programmen wird im Kapitel ausführlich erläutert. Der Parameter ‘ se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM ’ ist der Name einer Klas- erzeugt. • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt.
 
 
 ---
@@ -930,7 +858,7 @@ Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- te
 
 # 5 Anhang
 
-## 5.1 Starten eines Java- Programms
+## 5.1 Starten eines Java-Programms
 
 Das KBV--Prüfmodul ist eine Java Applikation und wird in einer Java Laufzeitumgebung aus-
 
@@ -938,65 +866,41 @@ geführt.
 
 Hier ein Beispiel für einen Aufruf:
 
-***java Xmx300m***
+java -Xmx300m -Dfile.encoding=8859_1
 
-***Dfile.encoding=8859_1***
+-classpath "Bin/xpm-dmp-dm2-2022.2.0;..."
 
-***classpath "Bin/xpm-***
+de.kbv. xpm.modul.dmp.dm2.StartGUI
 
-***dmp- dm2- 2022.2.0;..."***
-
-***de.kbv.***
-
-***xpm.modul.dmp.dm2.StartGUI***
-
-***c Konfig/konfig.xml -***
-
-***f Daten/X1312345.CON***
+-c Konfig/konfig.xml -f Daten/X1312345.CON
 
 Der Befehl ‘java’ startet die virtuelle Maschine von Java.
 
-Der Parameter*** ‘–Xmx300m’***
-
-erlaubt der Java Laufzeitumgebung einen Hauptspeicher von
+Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher von
 
 bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf bei Ab- rechnungsdateien in der Größenordnung bis ca. 300 MB.
 
-Der Parameter ***Dfile.encoding=8859_1’***
-
-stellt den entsprechenden Zeichensatz ein
+Der Parameter ‘-Dfile.encoding=8859_1’ stellt den entsprechenden Zeichensatz ein
 
 und ermöglicht hier die Verwendung von deutschen Umlauten.
 
-Der Parameter ***classpath "Bin/xpm-***
+Der Parameter ‘-classpath "Bin/xpm-dmp-dm2-2022.2.0.jar;..."’ stellt alle Ja-
 
-***dmp- dm2- 2022.2.0.jar;..."’***
+va- Archive zusammen, die für den Programmablauf benötigt werden.
 
-stellt alle Ja-
-
-va - Archive zusammen, die für den Programmablauf benötigt werden.
-
-Der Parameter ***‘de.kbv.xpm.modul.dmp.dm2.StartGUI’***
-
-ist der Name einer Klasse,
+Der Parameter ‘de.kbv.xpm.modul.dmp.dm2.StartGUI’ ist der Name einer Klasse,
 
 die das XPM startet.
 
-Die Parameter ‘ c’ und ‘ f’ sind die eigentlichen Übergabeparameter, die an das Prüfpro-
+Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter, die an das Prüfpro- gramm übergeben werden.
 
-gramm übergeben werden.
+## 5.2 Starten des Prüfmoduls aus einem Java-Programm
 
-## 5.2 Starten des Prüfmoduls aus einem Java Programm
+Das KBV--Prüfmodul ist eine Java Applikation und kann von einem anderem Java-Programm
 
-Das KBV--Prüfmodul ist eine Java Applikation und kann von einem anderem Java -Programm
-
-aufger ufen werden. Für eine leichtere Anbindung wurde die Klasse
-
-*de.kbv.xpm.core.extern.XPMEinstieg* implementiert. Diese Klasse ist im Java-Archiv pruefmo-
+aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse  *de.kbv.xpm.core.extern.XPMEinstieg* implementiert. Diese Klasse ist im Java-Archiv pruefmo-
 
 dul.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu die Methode ‘main’ etwas ge- nauer an.
-
-1.34
 
 
 ---

@@ -15,6 +15,10 @@
 
 - **1.** **Akutbehandlung für / Beginn am**
 
+- **2.** **Diagnose(n)**
+
+- **3.** **Weitere Angaben zum bisherigen Behandlungsverlauf**
+
 Geben Sie hier an, ob die Akutbehandlung bei einer bzw. einem Erwachsenen (Erwachsenenbehandlung)
 
 oder bei einem Kind oder einer bzw. einem Jugendlichen (Kinder- und Jugendlichenbehandlung) durchge-
@@ -33,8 +37,6 @@ Geben Sie den Beginn der Psychotherapeutischen Akutbehandlung im Format TTMMJJ a
 
 lung muss spätestens am Tag ihres Beginns angezeigt werden.
 
-- **2.** **Diagnose(n)**
-
 Geben Sie hier die für die Akutbehandlung maßgeblichen Diagnose(n) an. Die Angabe „endständig“ macht  deutlich, dass die ICD-10-GM-Codes als terminale Schlüsselnummern anzugeben sind (Codes, die keine Sub-
 
 codes mehr enthalten). Darüber hinaus ist die Diagnosesicherheit anzugeben (z. B. „G“ für „gesicherte Diag-
@@ -44,8 +46,6 @@ nose“). Handelt es sich bei der Patientin oder dem Patienten um eine Erwachsen
 mit Intelligenzminderung (Diagnose nach F70-F79 ICD-10-GM), muss dies ebenfalls angegeben werden,  wenn die für diese Personengruppe vorgesehenen zusätzlichen Kontingente für den Einbezug von Bezugs-
 
 personen durchgeführt werden sollen.
-
-- **3.** **Weitere Angaben zum bisherigen Behandlungsverlauf**
 
 Für eine Akutbehandlung muss eine entsprechende Indikation im Sinne der Psychotherapie-Richtlinie gege-
 

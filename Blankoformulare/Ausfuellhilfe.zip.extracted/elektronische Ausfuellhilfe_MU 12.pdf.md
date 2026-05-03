@@ -84,81 +84,93 @@ Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häus
 
 ---
 
--
+#### - Blutzuckermessung -
 
--  **Blutzuckermessung**
-
-Bei der Verordnung von Leistungen zur Blutzuckermessung beachten Sie bitte Nr. 11 des
+Bei der Verordnung von Leistungen zur Blutzuckermessung
 
 Leistungsverzeichnisses der Häusliche Krankenpflege -Richtlinie. Bitte geben Sie an , ob es sich um  Blutzuckermessungen aufgrund einer Erst - oder Neueinstellung oder einer intensivierten Insulintherapie  handelt.
 
--
-
-- 12. **Kompressionsbehandlung**
-
-Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 b des Leistungsverzeichnisses
-
-der Häusliche Krankenpflege -Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
-
-- 13. **Wundversorgung**
-
-Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Wundversorgung einer akuten Wunde sowie 31a Wundversorgung einer
-
-Dekubitusbehandlung, 31  chronischen und schwer heilenden Wunde des Leistun gsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
+#### - Kompressionsbehandlung 12.
 
 -
 
-- 14. **Sonstige Maßnahmen der Behandlungspflege**
+Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 der Häusliche Krankenpflege -Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
 
-10. bis 13. genannten Maßnahmen des Leistungsverzeichnisses
-
-Hier können weitere oder andere als die unter  der Häusliche Krankenpflege-Richtlinie verordnet werden.
+#### - Wundversorgung 13.
 
 -
 
-- 15. **Anleitung zur Behandlungspflege**
+Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde sowie
+
+chronischen und schwer heilenden Wunde des Leistun gsverzeichnisses der Häusliche Krankenpflege - Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
+
+#### - Sonstige Maßnahmen der Behandlungspflege 14.
+
+-
+
+Hier können weitere oder andere als die unter 10. bis 13. genannten Maßnahmen des Leistungsverzeichnis
+
+der Häusliche Krankenpflege-Richtlinie verordnet werden.
+
+#### - Anleitung zur Behandlungspflege 15.
+
+-
 
 Sofern die Patientin/ der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst
 
 angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
+#### - Grundpflege und hauswirtschaftliche Versorgung 16.
+
 -
 
-- 16. **Grundpflege und hauswirtschaftliche Versorgung**
+Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für Unterstützungspflege oder der Krankenhausvermeidungspflege
 
-Unterstützungspflege oder der Krankenhausvermeidungspflege gegeben sind . Als
+Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
 
-Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für  Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
+- **17. Unterstützungspflege nach § 37 Abs. 1a SGB V**
 
-- **17.** **Unterstützungspflege nach § 37 Abs. 1a SGB V**
+Unterstützungspflege kann verordnet werden bei schwerer Krankheit oder wegen akuter  einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder  nach einer ambulanten Krankenhausbehandlung, soweit keine Pflegebedürftigkeit mit Pflegegrad 2
 
-Verschlimmerung
+Geben Sie bitte zusätzlich an, ob nur Grundpflege oder auch hauswirtschaftliche Versorgung erforderlich ist.  Ein Anspruch auf Unterstützungspflege besteht bis zu 4 Wochen je Krankheitsfall.
 
-Unterstützungspflege kann verordnet werden bei schwerer Krankheit oder wegen akuter
+#### - Krankenhausvermeidungspflege nach § 37 Abs. 1 SGB V 18.
 
-dlung, soweit keine Pflegebedürftigkeit mit Pflegegrad 2 - 5 vorliegt.
+-
 
-einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder  nach einer ambulanten Krankenhausbehan Geben Sie bitte zusätzlich an, ob nur Grundpflege oder auch hauswirtschaftliche Versorgung erforderlich ist.  Ein Anspruch auf Unterstützungspflege besteht bis zu 4 Wochen je Krankheitsfall.
+Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung geboten, aber nicht  ausführbar ist. Dies ist z. B. der Fall, wenn Patienten die Zustimmung zur Krankenhauseinweisung verweigern
 
-- 18. **Krankenhausvermeidungspflege nach § 37 Abs. 1 SGB V**
+oder wenn dadurch eine Krankenhausbehandlung vermieden
 
-Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung geboten, aber nicht
-
-B. der Fall, wenn Patienten die Zustimmung zur Krankenhauseinweisung verweigern
-
-ausführbar ist. Dies ist z. oder wenn dadurch eine Krankenhausbehandlung vermieden oder verkürzt wird. Die
-
-Krankenhausvermeidungspflege umfasst Behandlungs und Grundpflege sowie hauswirtschaftliche
+Krankenhausvermeidungspflege umfasst Behandlungs und Grundpflege
 
 Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden sollen. Ein Anspruch auf  Krankenhausvermeidungspflege besteht bis zu 4 Wochen je Krankheitsfall.
 
-- 19. **Grundpflege**
+#### - Grundpflege 19.
 
-. Die
+-
 
-Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität sind im Leistungsverzeichnis der Häusliche Krankenpflege -Richtlinie
+Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität verordnungsfähigen Leistungen sind im Leistungsverzeichnis der Häusliche (Nr. 1 - 4) aufgeführt.
 
-verordnungsfähigen Leistungen  (Nr. 1 - 4) aufgeführt.
+beachten Sie
+
+b des Leistungsverzeichnisses
+
+bitte Nr. 11 des 31a Wundversorgung einer
+
+ses
+
+gegeben sind . Als
+
+Verschlimmerung
+
+oder verkürzt  sowie hauswirtschaftliche
+
+Krankenpflege - 5 vorliegt.
+
+wird. Die . Die
+
+-Richtlinie
 
 
 ---

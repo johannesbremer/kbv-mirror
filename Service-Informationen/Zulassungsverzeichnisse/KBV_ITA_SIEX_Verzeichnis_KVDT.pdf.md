@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -33,7 +33,7 @@
 
 **APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 02. Mai 2026
 
 System mit APK
 
@@ -248,7 +248,7 @@ Windows
 
 **AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 25. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 25. April 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -1396,7 +1396,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 25. April 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -1460,7 +1460,7 @@ Windows
 
 **NEXUS SWISSLAB GmbH** Sachsendamm 2-7 10829 Berlin Internet: [http://www.nexus-](http://www.nexus-) swisslab.de
 
-Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 25. April 2026
+Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 02. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|

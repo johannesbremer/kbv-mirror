@@ -45,9 +45,9 @@
 | 1 | HbA1c-Wert | Wert in % / mmol/mol | Pflichtfeld Nur eine Angabe ist möglich. Numerische Angabe  Erfolgt die Angabe im Feld „Wert in %“: Wertebereich 0,0 bis 21,0.  Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210. |
 | 1a | Nur bei Diabetes mellitus  Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 | 2 | (weggefallen) | (weggefallen) |  |
-| 2a | eGFR | ml/min/1,73m KOF / Nicht bestimmt | Pflichtfeld Genau eine Angabe ist zulässig. |
+| 2a | eGFR | 2 | Pflichtfeld Genau eine Angabe ist zulässig. |
 |  |  |  | Parameter Ausprägung Plausibilitäten |
-|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten   1  HbA1c-Wert  Wert in % / mmol/mol Pflichtfeld Nur eine Angabe ist möglich. Numerische Angabe  Erfolgt die Angabe im Feld „Wert in %“: Wertebereich 0,0 bis 21,0.  Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.  1a Nur bei Diabetes mellitus  Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  2  (weggefallen) (weggefallen)  2a eGFR ml/min/1,73m KOF / Nicht bestimmt Pflichtfeld Genau eine Angabe ist zulässig. |
+|  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | Anamnese- und Befunddaten   1  HbA1c-Wert  Wert in % / mmol/mol Pflichtfeld Nur eine Angabe ist möglich. Numerische Angabe  Erfolgt die Angabe im Feld „Wert in %“: Wertebereich 0,0 bis 21,0.  Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.  1a Nur bei Diabetes mellitus  Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  2  (weggefallen) (weggefallen)  2a eGFR 2 Pflichtfeld Genau eine Angabe ist zulässig. |
 |  |  |  | Parameter Ausprägung Plausibilitäten |
 | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  |  | Anamnese- und Befunddaten   1  HbA1c-Wert  Wert in % / mmol/mol Pflichtfeld Nur eine Angabe ist möglich. Numerische Angabe  Erfolgt die Angabe im Feld „Wert in %“: Wertebereich 0,0 bis 21,0. |
 |  | Erfolgt die Angabe in Feld „mmol/mol“: Anga | Wertebereich 0 bis 210. | 1a Nur bei Diabetes mellitus  Pathologische Albumin-Kreatinin- |
@@ -56,7 +56,7 @@
 |  |  | Anamnese- und Befunddaten | 1  HbA1c-Wert  Wert in % / mmol/mol Pflichtfeld |
 | Nur eine Angabe ist möglich. | Numerische Angabe |  | Erfolgt die Angabe im Feld „Wert in %“: Wertebereich 0,0 bis 21,0.  Erfolgt die Angabe in Feld „mmol/mol“: Anga Wertebereich 0 bis 210.  1a Nur bei Diabetes mellitus |
 | Pathologische Albumin-Kreatinin- | Ja / Nein / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
-|  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  2  (weggefallen) (weggefallen)  2a eGFR ml/min/1,73m KOF / Nicht bestimmt |
+|  | Eine Angabe ist erforderlich, wenn in Feld 10 der Anlage |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  2  (weggefallen) (weggefallen)  2a eGFR 2 |
 | Parameter Ausprägung | Plausibilitäten | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* | |
 |  | Anamnese- und Befunddaten |  | 1  HbA1c-Wert  Wert in % / mmol/mol Pflichtfeld Nur eine Angabe ist möglich. Numerische Angabe |
 |  | Erfolgt die Angabe im Feld „Wert in %“: | Wertebereich 0,0 bis 21,0. |  |
@@ -83,7 +83,7 @@
 |  |  |  | Parameter Ausprägung Plausibilitäten |
 |  | Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* |  | Anamnese- und Befunddaten |
 
-Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der Diabetes mellitus Typ 1 und in Feld 10 mindestens die Angabe „Diabetes mellitus Diabetes mellitus Typ 2 einer Stelle hinter dem Komma; Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Angabe mit be ohne
+Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der ml/min/1,73m KOF / Nicht bestimmt Diabetes mellitus Typ 1 und in Feld 10 mindestens die Angabe „Diabetes mellitus Diabetes mellitus Typ 2 einer Stelle hinter dem Komma; Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.  Angabe mit be ohne
 
 ---
 
@@ -158,106 +158,106 @@ Nr. Erfolgt die Angabe im Feld „ml/min/1,73m KOF“: nummerischer Wert; Angabe
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |  | 3a | | |
 | Injektionsstellen (bei Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn | |
-| – |  | ODER | –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Monate Bedingtes Pflichtfeld |
+| – |  | ODER | –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Jährlich / alle sechs Monate / alle drei Bedingtes Pflichtfeld |
 | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Differenz aus der | 4 | Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.  Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
-|  | 3a | Injektionsstellen (bei Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn –  ODER –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Monate Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der | 4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
+|  | 3a | Injektionsstellen (bei Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn –  ODER –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Jährlich / alle sechs Monate / alle drei Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der | 4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.  Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 | 3a | Injektionsstellen (bei | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn –  ODER –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe |
-| 3b | Intervall für künftige | Monate | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der |
+| 3b | Intervall für künftige | Jährlich / alle sechs Monate / alle drei | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der |
 | 4 | Spätfolgen | Diabetische Nephropathie / Diabetische | Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
 | zu 4. Ulkus: genau eine Angabe ist zulässig. | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. | 3a Injektionsstellen (bei | |
 | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn –  ODER – |
-|  |  | Eine Angabe ist nicht zulässig, wenn | in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Monate Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der |
+|  |  | Eine Angabe ist nicht zulässig, wenn | in Feld 10 der Anlage 2* mindestens die Angabe  3b Intervall für künftige Jährlich / alle sechs Monate / alle drei Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der |
 |  | 4 | Spätfolgen | Diabetische Nephropathie / Diabetische |
 | Kein Pflichtfeld; | Mehrfachnennungen sind möglich. |  |  |
 | zu 4. Ulkus: genau eine Angabe ist zulässig. | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. | 3a Injektionsstellen (bei | |
 | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig. |  | Eine Angabe ist erforderlich, wenn –  ODER – |
 | Eine Angabe ist nicht zulässig, wenn | in Feld 10 der Anlage 2* mindestens die Angabe |  | 3b |
-| Intervall für künftige | Monate | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
+| Intervall für künftige | Jährlich / alle sechs Monate / alle drei | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
 |  |  |  |  |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.  Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 | 3a | Injektionsstellen (bei Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn –  ODER –   Eine Angabe ist nicht zulässig, wenn   in Feld 10 der Anlage 2* mindestens die Angabe |
-| 3b | Intervall für künftige Monate | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
+| 3b | Intervall für künftige Jährlich / alle sechs Monate / alle drei | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig. |
 | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |  | 3a | Injektionsstellen (bei Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn –  ODER –   Eine Angabe ist nicht zulässig, wenn |
-| in Feld 10 der Anlage 2* mindestens die Angabe | 3b | Intervall für künftige Monate | Bedingtes Pflichtfeld |
+| in Feld 10 der Anlage 2* mindestens die Angabe | 3b | Intervall für künftige Jährlich / alle sechs Monate / alle drei | Bedingtes Pflichtfeld |
 | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn die Differenz aus der | 4 | Spätfolgen |
 | Diabetische Nephropathie / Diabetische | Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |  |  |
 |  |  |  |  |
 | zu 4. Ulkus: genau eine Angabe ist zulässig. | Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. | 3a Injektionsstellen (bei | |
 | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn –  ODER – |
-| Eine Angabe ist nicht zulässig, wenn | in Feld 10 der Anlage 2* mindestens die Angabe |  | 3b Intervall für künftige Monate Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4 |
+| Eine Angabe ist nicht zulässig, wenn | in Feld 10 der Anlage 2* mindestens die Angabe |  | 3b Intervall für künftige Jährlich / alle sechs Monate / alle drei Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4 |
 | Spätfolgen | Diabetische Nephropathie / Diabetische | Kein Pflichtfeld;  Mehrfachnennungen sind möglich. |  |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.  Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig.  3a Injektionsstellen (bei |
 | Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. | Eine Angabe ist erforderlich, wenn – | |
 |  | ODER | – | Eine Angabe ist nicht zulässig, wenn |
-| in Feld 10 der Anlage 2* mindestens die Angabe |  | 3b | Intervall für künftige Monate Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld; |
+| in Feld 10 der Anlage 2* mindestens die Angabe |  | 3b | Intervall für künftige Jährlich / alle sechs Monate / alle drei Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn die Differenz aus der  4  Spätfolgen  Diabetische Nephropathie / Diabetische Kein Pflichtfeld; |
 | Mehrfachnennungen sind möglich. |  |  |  |
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.  Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 |  | 3a Injektionsstellen (bei | Unauffällig / Auffällig / Nicht untersucht Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
 
-Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Jährlich / alle sechs Monate / alle drei oder häufiger Neuropathie / Diabetische Retinopathie  „Diabetes mellitus Typ 1“ erfolgt ist „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe „ Ja“ erfolgt ist Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe Nein“ erfolgt ist Datumsangabe in Feld 22 der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von   größer oder gleich 18 Jahren ergibt.
+Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) oder häufiger Neuropathie / Diabetische Retinopathie  „Diabetes mellitus Typ 1“ erfolgt ist „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe „ Ja“ erfolgt ist Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe Nein“ erfolgt ist Datumsangabe in Feld 22 der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von   größer oder gleich 18 Jahren ergibt.
 
 ---
 
 | Plausibilitäten |  |  |  |
 |---|---|---|---|
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
-| Lfd. |  | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Relevante Ereignisse |  | | |
-| 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. | |
-| Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | 6    Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
-|  | „  7 | (weggefallen) | (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe |
+| 5 | Relevante Ereignisse Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. | |
+| Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | 6  Schwere Hypoglykämien seit der Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist |
+|  | Angabe muss gleich oder größer „0“ sein und kleiner  7 | (weggefallen) | (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  | Angabe muss gleich oder größer „0“ sein und kleiner |  |  |
 |  |  |  |  |
-| Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7 | (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
+| Relevante Ereignisse |  | 5  Relevante Ereignisse Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner  7 | (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
-|  |  | 5 | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe |
-|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist  „  7 |
+|  |  | 5 | Relevante Ereignisse Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der Anzahl  Bedingtes Pflichtfeld numerische Angabe |
+|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner  7 |
 | (weggefallen) | (weggefallen) |  | 8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld |
 |  | Relevante Ereignisse |  | |
-| 5 |  | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „ |
-| 6 |  | Anzahl | Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „ |
+| 5 | Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „ |
+| 6 | Schwere Hypoglykämien seit der | Anzahl | Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 | 7 | (weggefallen) | (weggefallen) |  |
 | 8 | Stationäre notfallmäßige | Anzahl | Bedingtes Pflichtfeld numerische Angabe  Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  | Relevante Ereignisse |  | |
-| 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6 |
+| 5 | Relevante Ereignisse Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der |
 | Anzahl | Bedingtes Pflichtfeld | numerische Angabe |  |
-| Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist | „  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld |
+| Eine Angabe ist erforderlich, wenn die Anlage 8* im |  | Eine Angabe im Rahmen einer Erstdokumentation ist | Angabe muss gleich oder größer „0“ sein und kleiner  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld |
 | numerische Angabe |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
-|  | 5 | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl  Bedingtes Pflichtfeld numerische Angabe |
-|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist | „  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige |
+|  | 5  Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der Anzahl  Bedingtes Pflichtfeld numerische Angabe |
+|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist | Angabe muss gleich oder größer „0“ sein und kleiner  7  (weggefallen) (weggefallen)  8  Stationäre notfallmäßige |
 |  |  |  |  |
-|  | Relevante Ereignisse |  | 5   Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6    Anzahl |
+|  | Relevante Ereignisse |  | 5  Relevante Ereignisse Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der Anzahl |
 | Bedingtes Pflichtfeld | numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist |
-|  | „ | 7  (weggefallen) | (weggefallen) |
+|  | Angabe muss gleich oder größer „0“ sein und kleiner | 7  (weggefallen) | (weggefallen) |
 |  | 8  Stationäre notfallmäßige | Anzahl  Bedingtes Pflichtfeld | numerische Angabe |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im | Eine Angabe im Rahmen einer Erstdokumentation ist | Angabe muss gleich oder größer „0“ sein und kleiner |
 |  | Relevante Ereignisse |  | |
-| 5 |  | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6 |
-| Anzahl | Bedingtes Pflichtfeld | numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7  (weggefallen) |
+| 5 | Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  6  Schwere Hypoglykämien seit der |
+| Anzahl | Bedingtes Pflichtfeld | numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner  7  (weggefallen) |
 | (weggefallen) |  | 8  Stationäre notfallmäßige Anzahl  Bedingtes Pflichtfeld numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner |
 |  |  |  | Relevante Ereignisse |
-| 5 | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | |
-|  | Wenn die Angabe „ |  | 6    Anzahl |
-| Bedingtes Pflichtfeld | numerische Angabe |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  „  7  (weggefallen) (weggefallen)  8 |
+| 5  Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | |
+|  | Wenn die Angabe „ |  | 6  Schwere Hypoglykämien seit der Anzahl |
+| Bedingtes Pflichtfeld | numerische Angabe |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im  Eine Angabe im Rahmen einer Erstdokumentation ist  Angabe muss gleich oder größer „0“ sein und kleiner  7  (weggefallen) (weggefallen)  8 |
 | Stationäre notfallmäßige | Anzahl | Bedingtes Pflichtfeld numerische Angabe | Eine Angabe ist erforderlich, wenn die Anlage 8* im |
 |  |  |  |  |
-| Relevante Ereignisse |  | 5 | Nierenersatztherapie / Erblindung / Amputation / |
+| Relevante Ereignisse |  | 5  Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / |
 
-Parameter Nr. Schwere Hypoglykämien seit der letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Herzinfarkt / Schlaganfall / Keine der genannten Keine der genannten Ereignisse“ erfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein.
+Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Herzinfarkt / Schlaganfall / Keine der genannten Keine der genannten Ereignisse“ erfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein.
 
 ---
 
@@ -332,48 +332,48 @@ Nr. Metformin  Sonstige antidiabetische Medikation 2* mindestens eine Angabe zu 
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |  | 12a | | |
 | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich. | |
-|  | mindestens eine Angabe zu „Diabetes |  | Ja“ kann nicht gleichzeitig mit „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation |
-| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes |  | Ja“ kann nicht gleichzeitig mit „  Nein“ kann alleine oder gleichzeitig mit der |
+|  | Mindestens eine Angabe ist erforderlich, wenn in Feld |  | Die Angabe „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation |
+| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld |  | Die Angabe „  Die Angabe „ |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  | 2*  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-|  | 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor  Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes | Ja“ kann nicht gleichzeitig mit „  Nein“ kann alleine oder gleichzeitig mit der |
+|  | 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor  Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld | Die Angabe „  Die Angabe „ |
 |  |  |  | 2*  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| 12a | Nur bei Diabetes mellitus Typ 2: | SGLT2-Inhibitor | Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| 12b | Nur bei Diabetes mellitus Typ 2: | GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes |
-|  | Ja“ kann nicht gleichzeitig mit „ |  | Nein“ kann alleine oder gleichzeitig mit der |
+| 12a | Nur bei Diabetes mellitus Typ 2: | SGLT2-Inhibitor | Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
+| 12b | Nur bei Diabetes mellitus Typ 2: | GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld |
+|  | Die Angabe „ |  | Die Angabe „ |
 | 2* | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 12a Nur bei Diabetes mellitus Typ 2: | |
-| SGLT2-Inhibitor |  | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „ |
+| SGLT2-Inhibitor |  | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „ |
 |  | Die Angabe „ |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich. |
-| mindestens eine Angabe zu „Diabetes |  | Ja“ kann nicht gleichzeitig mit „ |  |
-| Nein“ kann alleine oder gleichzeitig mit der |  |  |  |
+| Mindestens eine Angabe ist erforderlich, wenn in Feld |  | Die Angabe „ |  |
+| Die Angabe „ |  |  |  |
 | 2* | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 12a Nur bei Diabetes mellitus Typ 2: | |
-| SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „ |
+| SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
 |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12b |
-| Nur bei Diabetes mellitus Typ 2: | GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Nein“ kann alleine oder gleichzeitig mit der |
+| Nur bei Diabetes mellitus Typ 2: | GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
 |  |  |  |  |
 |  |  |  | 2*  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| 12b | Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Nein“ kann alleine oder gleichzeitig mit der |
+| 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
+| 12b | Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
 |  |  |  | 2* |
-| Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor  Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „ |
+| Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12a | Nur bei Diabetes mellitus Typ 2: SGLT2-Inhibitor  Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
 | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 12b | Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist | Ja / Nein / Kontraindikation |
-| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | mindestens eine Angabe zu „Diabetes | Ja“ kann nicht gleichzeitig mit „ |
-|  | Nein“ kann alleine oder gleichzeitig mit der |  |  |
+| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | Mindestens eine Angabe ist erforderlich, wenn in Feld | Die Angabe „ |
+|  | Die Angabe „ |  |  |
 |  |  |  |  |
 | 2* | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 12a Nur bei Diabetes mellitus Typ 2: | |
-| SGLT2-Inhibitor |  | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Die Angabe „ |
-|  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes |
-| Ja“ kann nicht gleichzeitig mit „ |  | Nein“ kann alleine oder gleichzeitig mit der |  |
+| SGLT2-Inhibitor |  | Ja / Nein / Kontraindikation | Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
+|  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12b Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld |
+| Die Angabe „ |  | Die Angabe „ |  |
 |  |  |  | 2*  Eine Angabe ist nicht zulässig, wenn in Feld 10 der  12a Nur bei Diabetes mellitus Typ 2: |
 | SGLT2-Inhibitor | Ja / Nein / Kontraindikation Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | |
-| mindestens eine Angabe zu „Diabetes |  | Ja“ kann nicht gleichzeitig mit „ | Die Angabe „ |
-| Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12b | Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  mindestens eine Angabe zu „Diabetes  Ja“ kann nicht gleichzeitig mit „  Nein“ kann alleine oder gleichzeitig mit der |
+| Mindestens eine Angabe ist erforderlich, wenn in Feld |  | Die Angabe „ | Die Angabe „ |
+| Eine Angabe ist nicht zulässig, wenn in Feld 10 der |  | 12b | Nur bei Diabetes mellitus Typ 2: GLP-1-Rezeptoragonist Ja / Nein / Kontraindikation Bedingtes Pflichtfeld  Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn in Feld  Die Angabe „  Die Angabe „ |
 |  |  |  |  |
 |  |  |  | 2*  Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 |  | 12a Nur bei Diabetes mellitus Typ 2: | SGLT2-Inhibitor | Ja / Nein / Kontraindikation |
 
-Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Mindestens eine Angabe ist erforderlich, wenn in Feld 10 der Anlage 2* mellitus Typ 2“ erfolgt ist Nein“ und/ oder „Kontraindikation“ erfolgen Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Mindestens eine Angabe ist erforderlich, wenn in Feld 10 der Anlage 2* mellitus Typ 2“ erfolgt ist Nein“ und/ oder „Kontraindikation“ erfolgen Angabe „Kontraindikation“ erfolgen
+Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen
 
 ---
 
@@ -389,49 +389,49 @@ Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | | |
-| Pflichtfeld Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale | |
-|  | Nein“ kann alleine oder gleichzeitig mit der |  | Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder  14  (weggefallen)  (weggefallen) |
+| Pflichtfeld Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Die Angabe „ Die Angabe „ | |
+|  | Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „  14  (weggefallen)  (weggefallen) |
 | 15 | (weggefallen)  (weggefallen) |  | 16  (weggefallen)  (weggefallen) |
 | 17 | (weggefallen) |  | (weggefallen) |
 |  |  |  |  |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  13 |
-| Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder  14  (weggefallen)  (weggefallen)   15  (weggefallen)  (weggefallen) | 16  (weggefallen)  (weggefallen)   17  (weggefallen)  (weggefallen) |
+| Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „  14  (weggefallen)  (weggefallen)   15  (weggefallen)  (weggefallen) | 16  (weggefallen)  (weggefallen)   17  (weggefallen)  (weggefallen) |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  13  Thrombozytenaggregationshemmer |
-| Ja / Nein / Kontraindikation / orale | Pflichtfeld | Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich.  Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder  14  (weggefallen) |
+| Ja / Nein / Kontraindikation / orale | Pflichtfeld | Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich.  Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „  14  (weggefallen) |
 |  | (weggefallen) |  | 15  (weggefallen)  (weggefallen) |
 |  |  | 16 | (weggefallen)  (weggefallen) |
 | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 13  Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale Pflichtfeld | |
-| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. |  | Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder |
-|  | orale Antikoagulation“ kann alleine oder |  | 14  (weggefallen)  (weggefallen)   15  (weggefallen) |
+| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. |  | Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder |
+|  | Die Angabe „ |  | 14  (weggefallen)  (weggefallen)   15  (weggefallen) |
 | (weggefallen) |  |  | 16 |
 | (weggefallen) |  | (weggefallen) | 17  (weggefallen)  (weggefallen) |
 | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 13  Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale Pflichtfeld | |
-| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Ja“ kann nicht gleichzeitig mit „ | Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder |
+| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Die Angabe „ | Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „ |
 |  | 14 | (weggefallen) |  |
 | (weggefallen) |  |  | 15  (weggefallen)  (weggefallen)   16  (weggefallen)  (weggefallen) |
 |  | 17 | (weggefallen) | (weggefallen) |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  13  Thrombozytenaggregationshemmer |
-| Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |  | Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder  14  (weggefallen) |
+| Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |  | Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „  14  (weggefallen) |
 |  | (weggefallen) |  | 15  (weggefallen)  (weggefallen)   16  (weggefallen) |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
-| 13 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder |
+| 13 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale | Pflichtfeld Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „ |
 | 14 | (weggefallen) | (weggefallen) |  |
 | 15 | (weggefallen) | (weggefallen) |  |
 | 16 | (weggefallen) | (weggefallen) |  |
 | 17 | (weggefallen) | (weggefallen) |  |
 | Eine Angabe ist nicht zulässig, wenn in Feld 10 der | 13  Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale Pflichtfeld | |
-| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. |  | Ja“ kann nicht gleichzeitig mit „ Ja“ kann auch gleichzeitig mit „orale  Nein“ kann alleine oder gleichzeitig mit der  Die Angabe „Kontraindikation“ kann auch alleine oder  orale Antikoagulation“ kann alleine oder |
+| Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. |  | Die Angabe „ Die Angabe „  Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „ |
 |  | 14 | (weggefallen) | (weggefallen)   15  (weggefallen)  (weggefallen) |
 |  | 16 | (weggefallen)  (weggefallen)   17 | (weggefallen)  (weggefallen) |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  13  Thrombozytenaggregationshemmer  Ja / Nein / Kontraindikation / orale Pflichtfeld |
-| Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | Ja“ kann nicht gleichzeitig mit „ | Ja“ kann auch gleichzeitig mit „orale | |
-| Nein“ kann alleine oder gleichzeitig mit der |  | Die Angabe „Kontraindikation“ kann auch alleine oder | orale Antikoagulation“ kann alleine oder |
+| Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | Die Angabe „ | Die Angabe „ | |
+| Die Angabe „ |  | Die Angabe „Kontraindikation“ kann auch alleine oder | Die Angabe „ |
 | 14 | (weggefallen) |  | (weggefallen)   15  (weggefallen)  (weggefallen)   16  (weggefallen) |
 |  | (weggefallen) |  | 17  (weggefallen) |
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der  13 |
 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |  |
 
-Nr. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Nein“ und/ oder „Kontraindikation“ erfolgen Antikoagulation“ erfolgen und/oder erfolgen. gleichzeitig mit „Nein“ und /oder „orale Antikoagulation“ erfolgen. Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen.
+Nr. Antikoagulation Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Ja“ kann auch gleichzeitig mit „orale Antikoagulation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der und/oder Antikoagulation“ erfolgen. gleichzeitig mit „Nein“ und /oder „orale Antikoagulation“ erfolgen. orale Antikoagulation“ kann alleine oder gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen.
 
 ---
 
@@ -448,52 +448,52 @@ Nr. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Nein“ und/
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Schulung |  | | |
 | 18 | Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. | |
-| Mehrfachnennungen sind möglich. |  | Keine“ erfolgt ist, kann nicht | -  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die |
-|  | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  - |  | 19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter   Hypertonie-Schulung: |
+| Mehrfachnennungen sind möglich. |  | Wenn die Angabe „ | Die Angabe „Diabetes  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die |
+|  | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes |  | 19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter   Hypertonie-Schulung: |
 | Ja / Nein / War aktuell nicht möglich / Bei letzter | Bedingtes Pflichtfeld |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im |
 | Eine Angabe im Rahmen einer Erstdokumentation ist |  |  |  |
 |  |  |  |  |
-| Schulung |  | 18  Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  -  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  - | 19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter   Hypertonie-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
+| Schulung |  | 18  Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes | 19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter   Hypertonie-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  |  |  | Schulung |
-|  |  | 18 | Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  -  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / |
-| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. |  | Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  - |
+|  |  | 18 | Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / |
+| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. |  | Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes |
 |  | 19 | Empfohlene Schulung(en) | Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |
 |  | Schulung |  | |
-| 18 | Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht |
-| - |  | 18a | Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht |
-| - |  | 19 | Empfohlene Schulung(en) |
+| 18 | Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „ |
+| Die Angabe „Diabetes |  | 18a | Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht |
+| Die Angabe „Diabetes |  | 19 | Empfohlene Schulung(en) |
 | Diabetes-Schulung: | Ja / Nein / War aktuell nicht möglich / Bei letzter |  | Hypertonie-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  | Schulung |  | |
-| 18 | Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  - |
+| 18 | Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes |
 | 18a | Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / | Bedingtes Pflichtfeld |
-| Mehrfachnennungen sind möglich. |  | Mindestens eine Angabe ist erforderlich, wenn die | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  -  19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |
+| Mehrfachnennungen sind möglich. |  | Mindestens eine Angabe ist erforderlich, wenn die | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes  19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |
 | Hypertonie-Schulung: | Ja / Nein / War aktuell nicht möglich / Bei letzter | Bedingtes Pflichtfeld | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  |  |  | Schulung |
-|  | 18  Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  -  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / |
-| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | Mindestens eine Angabe ist erforderlich, wenn die | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  -  19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |
+|  | 18  Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes  18a Schulung schon vor Einschreibung Diabetes-Schulung / Hypertonie-Schulung / |
+| Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | Mindestens eine Angabe ist erforderlich, wenn die | Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes  19  Empfohlene Schulung(en) Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |
 |  |  |  |  |
-|  | Schulung |  | 18  Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  -  18a |
+|  | Schulung |  | 18  Schulung empfohlen (bei aktueller Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes  18a |
 | Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich. | Mindestens eine Angabe ist erforderlich, wenn die |
-|  | Wenn die Angabe „Keine“ erfolgt ist, kann nicht | - | 19 |
+|  | Wenn die Angabe „Keine“ erfolgt ist, kann nicht | Die Angabe „Diabetes | 19 |
 | Empfohlene Schulung(en) | Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter |  | Hypertonie-Schulung: |
 | Ja / Nein / War aktuell nicht möglich / Bei letzter | Bedingtes Pflichtfeld | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |  |
 |  | Schulung |  | |
-| 18 | Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Keine“ erfolgt ist, kann nicht  - |
-| 18a | Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / | Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  - |
+| 18 | Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / | Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Wenn die Angabe „  Die Angabe „Diabetes |
+| 18a | Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / | Bedingtes Pflichtfeld Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes |
 | 19 | Empfohlene Schulung(en) | Diabetes-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter   Hypertonie-Schulung: Ja / Nein / War aktuell nicht möglich / Bei letzter | Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
 |  |  |  | Schulung |
 | 18  Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / Pflichtfeld | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. | |
-|  | Keine“ erfolgt ist, kann nicht |  | -  18a |
-| Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / | Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  -  19  Empfohlene Schulung(en) Diabetes-Schulung: |
+|  | Wenn die Angabe „ |  | Die Angabe „Diabetes  18a |
+| Schulung schon vor Einschreibung | Diabetes-Schulung / Hypertonie-Schulung / | Bedingtes Pflichtfeld | Mehrfachnennungen sind möglich.  Mindestens eine Angabe ist erforderlich, wenn die  Wenn die Angabe „Keine“ erfolgt ist, kann nicht  Die Angabe „Diabetes  19  Empfohlene Schulung(en) Diabetes-Schulung: |
 | Ja / Nein / War aktuell nicht möglich / Bei letzter |  | Hypertonie-Schulung: | Ja / Nein / War aktuell nicht möglich / Bei letzter Bedingtes Pflichtfeld |
 |  |  |  |  |
 | Schulung |  | 18  Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / |
 
-Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Die Angabe „Diabetes Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Anlage 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Die Angabe „Diabetes Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig.
+Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Anlage 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig.
 
 ---
 
-| Plausibilitäten | Genau jeweils eine Angabe ist für die "Diabetes- |  | - |
+| Plausibilitäten | Genau jeweils eine Angabe ist für die "Diabetes- |  | Genau jeweils eine Angabe zu „Diabetes |
 |---|---|---|---|
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
 | Lfd. | Parameter | Ausprägung | Plausibilitäten |
@@ -507,47 +507,47 @@ Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation ke
 |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | | |
 |  |  | Behandlungsplanung | |
 |  | 20 | HbA1c-Zielwert | Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig.  21  Ophthalmologische Durchgeführt / Nicht durchgeführt / Veranlasst  Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |
-|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist | Wenn „ | Veranlasst“ angekreuzt ist, kann gleichzeitig  22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst |
+|  | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist | Wenn „ | Wenn „  22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst |
 | Pflichtfeld | Mindestens eine Angabe ist erforderlich. |  |  |
 |  |  |  |  |
-|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  - |
-|  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig.  21  Ophthalmologische Durchgeführt / Nicht durchgeführt / Veranlasst  Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist | Wenn „  Veranlasst“ angekreuzt ist, kann gleichzeitig  22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst  Pflichtfeld Mindestens eine Angabe ist erforderlich. |
-|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  - |
+|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  Genau jeweils eine Angabe zu „Diabetes |
+|  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig.  21  Ophthalmologische Durchgeführt / Nicht durchgeführt / Veranlasst  Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist | Wenn „  Wenn „  22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst  Pflichtfeld Mindestens eine Angabe ist erforderlich. |
+|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  Genau jeweils eine Angabe zu „Diabetes |
 | Die Angaben zu „Diabetes Schulung“ und „Hypertonie |  |  | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig.  21  Ophthalmologische |
 | Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld | Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
-| Wenn „ |  | Veranlasst“ angekreuzt ist, kann gleichzeitig | 22  Behandlung/Mitbehandlung in einer |
-| Genau jeweils eine Angabe ist für die "Diabetes- | - | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
+| Wenn „ |  | Wenn „ | 22  Behandlung/Mitbehandlung in einer |
+| Genau jeweils eine Angabe ist für die "Diabetes- | Genau jeweils eine Angabe zu „Diabetes | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
 |  |  |  | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht |
 | Pflichtfeld | Genau eine Angabe ist zulässig. |  | 21  Ophthalmologische Durchgeführt / Nicht durchgeführt / Veranlasst  Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist |
-|  | Wenn „ |  | Veranlasst“ angekreuzt ist, kann gleichzeitig |
+|  | Wenn „ |  | Wenn „ |
 |  | 22 | Behandlung/Mitbehandlung in einer | Ja / Nein / Veranlasst  Pflichtfeld Mindestens eine Angabe ist erforderlich. |
-| Genau jeweils eine Angabe ist für die "Diabetes- | - | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
+| Genau jeweils eine Angabe ist für die "Diabetes- | Genau jeweils eine Angabe zu „Diabetes | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
 |  |  | Behandlungsplanung | 20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig. |
 |  | 21 | Ophthalmologische | Durchgeführt / Nicht durchgeführt / Veranlasst |
-| Bedingtes Pflichtfeld | Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Veranlasst“ angekreuzt ist, kann gleichzeitig  22  Behandlung/Mitbehandlung in einer |
+| Bedingtes Pflichtfeld | Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Wenn „  22  Behandlung/Mitbehandlung in einer |
 | Ja / Nein / Veranlasst | Pflichtfeld | Mindestens eine Angabe ist erforderlich. |  |
-|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  - |
+|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  Genau jeweils eine Angabe zu „Diabetes |
 | Die Angaben zu „Diabetes Schulung“ und „Hypertonie |  |  | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig.  21  Ophthalmologische |
-| Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Veranlasst“ angekreuzt ist, kann gleichzeitig  22 |
+| Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Wenn „  22 |
 |  |  |  | Genau jeweils eine Angabe ist für die "Diabetes- |
-| - |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig. |
+| Genau jeweils eine Angabe zu „Diabetes |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig. |
 | 21 | Ophthalmologische Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. | Mehrfachnennungen sind möglich. |
 |  | Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist | Wenn „ |  |
-| Veranlasst“ angekreuzt ist, kann gleichzeitig | 22 | Behandlung/Mitbehandlung in einer | Ja / Nein / Veranlasst |
+| Wenn „ | 22 | Behandlung/Mitbehandlung in einer | Ja / Nein / Veranlasst |
 | Pflichtfeld | Mindestens eine Angabe ist erforderlich. |  |  |
-| Genau jeweils eine Angabe ist für die "Diabetes- | - | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
+| Genau jeweils eine Angabe ist für die "Diabetes- | Genau jeweils eine Angabe zu „Diabetes | Die Angaben zu „Diabetes Schulung“ und „Hypertonie | |
 |  |  |  | Behandlungsplanung  20  HbA1c-Zielwert  Zielwert erreicht / Zielwert noch nicht erreicht  Pflichtfeld Genau eine Angabe ist zulässig. |
 |  | 21 | Ophthalmologische | Durchgeführt / Nicht durchgeführt / Veranlasst  Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „ |
-|  | Veranlasst“ angekreuzt ist, kann gleichzeitig | 22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst  Pflichtfeld | Mindestens eine Angabe ist erforderlich. |
-|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  -  Die Angaben zu „Diabetes Schulung“ und „Hypertonie |
+|  | Wenn „ | 22  Behandlung/Mitbehandlung in einer  Ja / Nein / Veranlasst  Pflichtfeld | Mindestens eine Angabe ist erforderlich. |
+|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  Genau jeweils eine Angabe zu „Diabetes  Die Angaben zu „Diabetes Schulung“ und „Hypertonie |
 |  | Behandlungsplanung |  | |
 | 20 | HbA1c-Zielwert | Zielwert erreicht / Zielwert noch nicht erreicht | Pflichtfeld Genau eine Angabe ist zulässig. |
-| 21 | Ophthalmologische | Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Veranlasst“ angekreuzt ist, kann gleichzeitig |
+| 21 | Ophthalmologische | Durchgeführt / Nicht durchgeführt / Veranlasst | Bedingtes Pflichtfeld  Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.  Eine Angabe ist erforderlich, wenn die Anlage 8* im Eine Angabe im Rahmen einer Erstdokumentation ist  Wenn „  Wenn „ |
 | 22 | Behandlung/Mitbehandlung in einer | Ja / Nein / Veranlasst | Pflichtfeld Mindestens eine Angabe ist erforderlich. |
-|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  - |
+|  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-  Genau jeweils eine Angabe zu „Diabetes |
 |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie |  |  |
 
-Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung  Schulung" und für die "Hypertonie-Schulung" Genau jeweils eine Angabe zu „Diabetes Hypertonie- Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Durchgeführt“ angekreuzt ist, kann nicht gleichzeitig „ Nicht durchgeführt“ angekreuzt sein Durchgeführt“ oder „ Nicht durchgeführt“ angekreuzt sein.
+Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung  Schulung" und für die "Hypertonie-Schulung" Hypertonie- Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Durchgeführt“ angekreuzt ist, kann nicht gleichzeitig „ Nicht durchgeführt“ angekreuzt sein Veranlasst“ angekreuzt ist, kann gleichzeitig Durchgeführt“ oder „ Nicht durchgeführt“ angekreuzt sein.
 
 ---
 

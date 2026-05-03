@@ -16,17 +16,15 @@
 
 | 01F11 | Fachärzte für Augenheilkunde ohne GOP 06225 EBM |
 |---|---|
-| 01F12 | Fachärzte für Chirurgie, für Kinderchirurgie, für |
+| 01F12 | Fachärzte für Chirurgie, für Kinderchirurgie, für Plastische |
 
 01F13 01F14
 
 | 01F16 | Fachärzte für Hals-, Nasen- und Ohren- Heilkunde |
 |---|---|
-| 01F17 | Fachärzte für Phoniatrie und Pädaudiologie lt. WBO |
+| 01F17 | Fachärzte für Phoniatrie und Pädaudiologie lt. WBO Fachärzte |
 
-01F18
-
-01F19 01F20 01F21 01F22 01F23
+01F18 01F19 01F20 01F21 01F22 01F23
 
 | 01F24 | Fachärzte für Neurologie |
 |---|---|
@@ -54,16 +52,14 @@ Chirurgie Fachärzte für Neurochirurgie Fachärzte für Frauenheilkunde und Geb
 
 für Sprach-, Stimm- und kindliche Hörstörungen (Phoniater und Pädaudiologen) Fachärzte für Haut- und Geschlechtskrankheiten Fachärzte für Mund-, Kiefer- und Gesichtschirurgie Fachärzte für Nervenheilkunde Fachärzte für Orthopädie Fachärzte für Physikalisch- Rehabilitative Medizin Fachärzte für Urologie
 
-fachärztlichen Versorgungsbereich angehören Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Endokrinologie/Diabetologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Gastroenterologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Hämato-/ Onkologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Nephrologie
-
-Fachärzte für Chirurgie, für Kinderchirurgie, für Plastische Fachärzte für Phoniatrie und Pädaudiologie lt. WBO Fachärzte1
+fachärztlichen Versorgungsbereich angehören Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Endokrinologie/Diabetologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Gastroenterologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Hämato-/ Onkologie Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt Nephrologie 1
 
 
 ---
 
 | **Code** | **Bezeichnung** |
 |---|---|
-| 01F37 | Fachärzte für Innere Medizin mit (Versorgungs-) |
+| 01F37 | Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt |
 
 01F38
 
@@ -117,9 +113,7 @@ Laboratoriumsmedizin, Mikrobiologie, Virologie und Infektionsepidemiologie Fach�
 
 Praktische Ärzte, Fachärzte für Innere Medizin, die dem hausärztlichen Versorgungsbereich angehören
 
-Kinderkardiologie Fachärzte für Kinder- und Jugendmedizin mit Schwerpunkt Kinder- Lungen- u. Bronchialheilkunde oder Zusatzbereich Kinder- Pneumologie Organisierter Bereitschaftsdienst Kinderärztlicher organisierter Bereitschaftsdienst Praktischer Arzt Arzt Allgemeinmedizin
-
-Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt2
+Kinderkardiologie Fachärzte für Kinder- und Jugendmedizin mit Schwerpunkt Kinder- Lungen- u. Bronchialheilkunde oder Zusatzbereich Kinder- Pneumologie Organisierter Bereitschaftsdienst Kinderärztlicher organisierter Bereitschaftsdienst Praktischer Arzt Arzt Allgemeinmedizin 2
 
 
 ---
@@ -136,7 +130,9 @@ Fachärzte für Innere Medizin mit (Versorgungs-) Schwerpunkt2
 |---|---|
 | 02144 | Psychotherapeutisch tätiger Arzt |
 
-Augenheilkunde Chirurgie Teilgebiet Kinderchirurgie Schwerpunkt Unfallchirurgie Schwerpunkt Gefäßchirurgie Teilgebiet Plastische Chirurgie Teilgebiet Thorax- und Kardiovascularchirurgie Schwerpunkt Thoraxchirurgie Teilgebiet Herz- und Gefäßchirurgie Schwerpunkt Viszeralchirurgie Frauenheilkunde und Geburtshilfe Hals-Nasen-Ohrenheilkunde Teilgebiet Phoniatrie und Pädaudiologie Teilgebiet Audiologie Teilgebiet Phoniatrie Haut- und Geschlechtskrankheiten Innere Medizin Schwerpunkt Gastroenterologie Schwerpunkt Kardiologie Schwerpunkt Pneumologie Schwerpunkt Endokrinologie Teilgebiet Hämatologie Schwerpunkt Nephrologie Schwerpunkt Rheumatologie Teilgebiet Diabetologie Teilgebiet Infektions- und Tropenmedizin Kinderheilkunde Schwerpunkt Kinder-Kardiologie Teilgebiet Kinderneuropsychiatrie Schwerpunkt Neonatologie Teilgebiet Kindergastroenterologie Teilgebiet Kinderhämatologie Teilgebiet Kindernephrologie Teilgebiet Kinderlungen- und Bronchialheilkunde Teilgebiet Kinderrheumatologie Teilgebiet Kinderdiabetologie Kinder- und Jugendpsychiatrie Kinder- und Jugendpsychiatrie und -psychotherapie Laboratoriumsmedizin Mikrobiologie und Infektionsepidemiologie Teilgebiet Mikrobiologie Lungenarzt Magenarzt Mund-Kiefer-Gesichtschirurgie Kieferchirurgie Nervenheilkunde Psychiatrie 3
+Augenheilkunde Chirurgie Teilgebiet Kinderchirurgie Schwerpunkt Unfallchirurgie Schwerpunkt Gefäßchirurgie Teilgebiet Plastische Chirurgie Teilgebiet Thorax- und Kardiovascularchirurgie Schwerpunkt Thoraxchirurgie Teilgebiet Herz- und Gefäßchirurgie Schwerpunkt Viszeralchirurgie Frauenheilkunde und Geburtshilfe Hals-Nasen-Ohrenheilkunde Teilgebiet Phoniatrie und Pädaudiologie Teilgebiet Audiologie Teilgebiet Phoniatrie Haut- und Geschlechtskrankheiten Innere Medizin Schwerpunkt Gastroenterologie Schwerpunkt Kardiologie Schwerpunkt Pneumologie Schwerpunkt Endokrinologie Teilgebiet Hämatologie Schwerpunkt Nephrologie Schwerpunkt Rheumatologie Teilgebiet Diabetologie Teilgebiet Infektions- und Tropenmedizin Kinderheilkunde Schwerpunkt Kinder-Kardiologie Teilgebiet Kinderneuropsychiatrie Schwerpunkt Neonatologie Teilgebiet Kindergastroenterologie Teilgebiet Kinderhämatologie Teilgebiet Kindernephrologie Teilgebiet Kinderlungen- und Bronchialheilkunde Teilgebiet Kinderrheumatologie Teilgebiet Kinderdiabetologie Kinder- und Jugendpsychiatrie Kinder- und Jugendpsychiatrie und -psychotherapie Laboratoriumsmedizin Mikrobiologie und Infektionsepidemiologie Teilgebiet Mikrobiologie Lungenarzt
+
+Magenarzt Mund-Kiefer-Gesichtschirurgie Kieferchirurgie Nervenheilkunde Psychiatrie 3
 
 
 ---
@@ -155,21 +151,17 @@ Augenheilkunde Chirurgie Teilgebiet Kinderchirurgie Schwerpunkt Unfallchirurgie 
 
 Neurologie und Psychiatrie Teilgebiet Kinderneuropsychiatrie Psychiatrie und Psychotherapie Psychotherapeutische Medizin Neurologie und Psychiatrie und Psychotherapie Neurochirurgie
 
-Orthopädie Schwerpunkt Rheumatologie
-
-Pathologie Teilgebiet Neuropathologie Pharmakologie und Toxikologie Teilgebiet Klinische Pharmakologie
+Orthopädie Schwerpunkt Rheumatologie Pathologie Teilgebiet Neuropathologie Pharmakologie und Toxikologie Teilgebiet Klinische Pharmakologie
 
 Radiologie Teilgebiet Strahlentherapie Teilgebiet Neuroradiologie Radiologische Diagnostik Diagnostische Radiologie Schwerpunkt Kinderradiologie Schwerpunkt Neuroradiologie Strahlentherapie und Radiologische Diagnostik
 
-Urologie Arbeitsmedizin Nuklearmedizin Öffentliches Gesundheitswesen
+Urologie Arbeitsmedizin Nuklearmedizin Öffentliches Gesundheitswesen Rechtsmedizin Hygiene und Umweltmedizin Neuropathologie Klinische Pharmakologie Strahlentherapie Anatomie
 
-Rechtsmedizin Hygiene und Umweltmedizin Neuropathologie Klinische Pharmakologie Strahlentherapie Anatomie
+Biochemie Transfusionsmedizin Kinderchirurgie Medizinische Genetik Medizinische Informatik Pathologische Physiologie Physiologie Physiotherapie Psychotherapie Sozialhygiene
 
-Biochemie Transfusionsmedizin Kinderchirurgie Medizinische Genetik Medizinische Informatik Pathologische Physiologie Physiologie Physiotherapie Psychotherapie Sozialhygiene Sportmedizin
+Sportmedizin
 
-Herzchirurgie
-
-Humangenetik
+Herzchirurgie Humangenetik
 
 Immunologie Physiologische Chemie Schwerpunkt Thoraxchirurgie Schwerpunkt Echokardiologie herznaher Gefäße 4
 
@@ -180,7 +172,7 @@ Immunologie Physiologische Chemie Schwerpunkt Thoraxchirurgie Schwerpunkt Echoka
 
 | 02360 | Fachzahnarzt für Kieferchirurgie (§ 6 Abs. 1 BMV) |
 |---|---|
-| 02361 | Fachzahnarzt für theoretisch-experimentelle Medizin (§ |
+| 02361 | Fachzahnarzt für theoretisch-experimentelle Medizin (§ 6 Abs. 2 |
 
 02371 02372
 
@@ -204,11 +196,13 @@ Biophysik Geschichte der Medizin Industrietoxikologie Klinische Strahlenphysik M
 
 BMV) Fachwissenschaftler Chemie und Labordiagnostik Fachwissenschaftler Genetik Fachwissenschaftler Immunologie Fachwissenschaftler ZytologieHistologie Psychologische Psychotherapie Kinder- und Jugendlichenpsychotherapie Code gesperrt
 
-Code gesperrt Arbeitshygiene Blutspende und Transfusionsmedizin Hygiene Schwerpunkt Infektiologie Teilgebiet Lungen- und Bronchialheilkunde Schwerpunkt Infektiologie Pathologische Anatomie Allgemeine Chirurgie Gefäßchirurgie Orthopädie und Unfallchirurgie Thoraxchirurgie Visceralchirurgie
+Code gesperrt Arbeitshygiene Blutspende und Transfusionsmedizin
 
-Reproduktionsmedizin Schwerpunkt Spezielle Geburtshilfe und Perinatalmedizin Sprach-, Stimm- und kindliche Hörstörungen
+Hygiene Schwerpunkt Infektiologie Teilgebiet Lungen- und Bronchialheilkunde Schwerpunkt Infektiologie Pathologische Anatomie Allgemeine Chirurgie Gefäßchirurgie Orthopädie und Unfallchirurgie Thoraxchirurgie
 
-Fachzahnarzt für theoretisch-experimentelle Medizin (§ 6 Abs. 25
+Visceralchirurgie
+
+Reproduktionsmedizin Schwerpunkt Spezielle Geburtshilfe und Perinatalmedizin Sprach-, Stimm- und kindliche Hörstörungen 5
 
 
 ---
@@ -225,13 +219,9 @@ Fachzahnarzt für theoretisch-experimentelle Medizin (§ 6 Abs. 25
 |---|---|
 | 200049 | FA Mikrobiologie, Virologie und Infektionsepidemiologie |
 
-Innere Medizin und SP Endokrinologie und Diabetologie Innere Medizin und SP Gastroenterologie Innere Medizin und SP Hämatologie und Onkologie Innere Medizin und SP Kardiologie Innere Medizin und SP Nephrologie Innere Medizin und SP Pneumologie Innere Medizin und SP Rheumatologie Teilgebiet Kardiologie und Angiologie Schwerpunkt Kinder-Hämatologie und -Onkologie Schwerpunkt Neuropädiatrie Mikrobiologie, Virologie und Infektionsepidemiologie Schwerpunkt Forensische Psychiatrie Psychosomatische Medizin und Psychotherapie
+Innere Medizin und SP Endokrinologie und Diabetologie Innere Medizin und SP Gastroenterologie Innere Medizin und SP Hämatologie und Onkologie Innere Medizin und SP Kardiologie Innere Medizin und SP Nephrologie Innere Medizin und SP Pneumologie Innere Medizin und SP Rheumatologie Teilgebiet Kardiologie und Angiologie Schwerpunkt Kinder-Hämatologie und -Onkologie Schwerpunkt Neuropädiatrie Mikrobiologie, Virologie und Infektionsepidemiologie Schwerpunkt Forensische Psychiatrie Psychosomatische Medizin und Psychotherapie Radiologie Schwerpunkt Kinder-Endokrinologie und -Diabetologie Schwerpunkt Kinder-Gastroenterologie Schwerpunkt Kinder-Nephrologie Schwerpunkt Kinder-Pneumologie Innere Medizin und SP gesamte Innere Medizin Innere Medizin und SP Geriatrie Plastische und Ästhetische Chirurgie Schwerpunkt Endokrinologie und Diabetologie Allgemeinchirurgie Teilgebiet Nephrologie FA Allgemeinmedizin FA Innere Medizin (hausärztlich) FA Anästhesiologie FA Augenheilkunde FA Chirurgie
 
-Radiologie Schwerpunkt Kinder-Endokrinologie und -Diabetologie Schwerpunkt Kinder-Gastroenterologie Schwerpunkt Kinder-Nephrologie Schwerpunkt Kinder-Pneumologie Innere Medizin und SP gesamte Innere Medizin Innere Medizin und SP Geriatrie Plastische und Ästhetische Chirurgie Schwerpunkt Endokrinologie und Diabetologie Allgemeinchirurgie Teilgebiet Nephrologie FA Allgemeinmedizin FA Innere Medizin (hausärztlich) FA Anästhesiologie FA Augenheilkunde FA Chirurgie
-
-FA Orthopädie FA Frauenheilkunde und Geburtshilfe FA Hals-Nasen-Ohrenheilkunde FA Phoniatrie und Pädaudiologie FA Haut- und Geschlechtskrankheiten
-
-FA Humangenetik FA Innere Medizin (fachärztlich ohne Schwerpunkt) FA Innere Medizin SP Angiologie FA Innere Medizin SP Endokrinologie und Diabetologie FA Innere Medizin SP Gastroenterologie FA Innere Medizin SP Hämatologie und Onkologie FA Innere Medizin SP Kardiologie FA Innere Medizin SP Nephrologie FA Innere Medizin SP Pneumologie FA Innere Medizin SP Rheumatologie FA Kinder- und Jugendmedizin (hausärztlich) FA Kinder- und Jugendmedizin (fachärztlich) FA Kinder- und Jugendpsychiatrie und - psychotherapie 6
+FA Orthopädie FA Frauenheilkunde und Geburtshilfe FA Hals-Nasen-Ohrenheilkunde FA Phoniatrie und Pädaudiologie FA Haut- und Geschlechtskrankheiten FA Humangenetik FA Innere Medizin (fachärztlich ohne Schwerpunkt) FA Innere Medizin SP Angiologie FA Innere Medizin SP Endokrinologie und Diabetologie FA Innere Medizin SP Gastroenterologie FA Innere Medizin SP Hämatologie und Onkologie FA Innere Medizin SP Kardiologie FA Innere Medizin SP Nephrologie FA Innere Medizin SP Pneumologie FA Innere Medizin SP Rheumatologie FA Kinder- und Jugendmedizin (hausärztlich) FA Kinder- und Jugendmedizin (fachärztlich) FA Kinder- und Jugendpsychiatrie und - psychotherapie 6
 
 
 ---
@@ -242,7 +232,7 @@ FA Humangenetik FA Innere Medizin (fachärztlich ohne Schwerpunkt) FA Innere Med
 
 | 3835 | Unfallchirurgie |
 |---|---|
-| 3836 | Fachärzte für Angiologie, die in gefäßchirurgischen |
+| 3836 | Fachärzte für Angiologie, die in gefäßchirurgischen Praxen tätig |
 
 3840
 
@@ -256,9 +246,9 @@ FA Humangenetik FA Innere Medizin (fachärztlich ohne Schwerpunkt) FA Innere Med
 |---|---|
 | 3882 | Innere Med.-Kardiologie |
 
-FA Mund-, Kiefer- und Gesichtschirurgie FA Nervenheilkunde FA Neurochirurgie FA Neurologie
+FA Mund-, Kiefer- und Gesichtschirurgie FA Nervenheilkunde FA Neurochirurgie
 
-FA Nuklearmedizin
+FA Neurologie FA Nuklearmedizin
 
 FA Pathologie FA Physikalische und Rehabilitative Medizin FA Psychiatrie und Psychotherapie Fachärzte für Psychosomatische Medizin und Psychotherapie Psychotherapeutisch tätige Vertragsärzte
 
@@ -274,11 +264,7 @@ Augenheilkunde Nuklearmedizin Physik.-Reha. Medizin Humangenetik Chirurgie/ Kind
 
 sind
 
-Gynäkologie Gyn. mit WB Endokrin. u. Reprod.-Med. HNO-Heilkunde Phoniatrie und Pädaud.
-
-Dermatologie Innere-/Allgemein-/Prakt. Ärzte - Hausärzte Psych. Psychotherapeuten Kinder und Jugendlichen PT Psychosom. Medizin ausschließlich psych. tätige Ärzte FA Innere Medizin
-
-Fachärzte für Angiologie, die in gefäßchirurgischen Praxen tätig7
+Gynäkologie Gyn. mit WB Endokrin. u. Reprod.-Med. HNO-Heilkunde Phoniatrie und Pädaud. Dermatologie Innere-/Allgemein-/Prakt. Ärzte - Hausärzte Psych. Psychotherapeuten Kinder und Jugendlichen PT Psychosom. Medizin ausschließlich psych. tätige Ärzte FA Innere Medizin 7
 
 
 ---
@@ -287,7 +273,7 @@ Fachärzte für Angiologie, die in gefäßchirurgischen Praxen tätig7
 
 | 38999 | nicht-RLV-relevante AG |
 |---|---|
-| 5101 | Fachärzte für Allgemeinmedizin, hausärztlich tätige |
+| 5101 | Fachärzte für Allgemeinmedizin, hausärztlich tätige Internisten |
 
 5102 5103 5104 5105 5106
 
@@ -309,7 +295,7 @@ Fachärzte für Angiologie, die in gefäßchirurgischen Praxen tätig7
 
 | 5117 | Fachärzte für Innere Medizin mit SP Kardiologie |
 |---|---|
-| 5118 | Fachärzte für Innere Medizin mit SP Kardiologie mit |
+| 5118 | Fachärzte für Innere Medizin mit SP Kardiologie mit invasiver |
 
 5119
 
@@ -339,34 +325,32 @@ Internistische Onkologie
 
 Tätigkeit Fachärzte für Innere Medizin mit SP Pneumologie
 
-psychotherapie Fachärzte für Mund-Kiefer-Gesichtschirurgie Fachärzte für Nervenheilkunde Fachärzte für Neurologie Fachärzte für Nuklearmedizin Fachärzte für Orthopädie Fachärzte für Pathologie Fachärzte für Psychiatrie und Psychotherapie
-
-Fachärzte für Allgemeinmedizin, hausärztlich tätige Internisten Fachärzte für Innere Medizin mit SP Kardiologie mit invasiver8
+psychotherapie Fachärzte für Mund-Kiefer-Gesichtschirurgie Fachärzte für Nervenheilkunde Fachärzte für Neurologie Fachärzte für Nuklearmedizin Fachärzte für Orthopädie Fachärzte für Pathologie Fachärzte für Psychiatrie und Psychotherapie 8
 
 
 ---
 
 | **Code** | **Bezeichnung** |
 |---|---|
-| 5131 | psychologische Psychotherapeuten, psychotherapeutisch |
+| 5131 | psychologische Psychotherapeuten, psychotherapeutisch tätiger |
 
 5132 5133 5134
 
-| 5135 | Fachärzte für Diagnostische Radiologie, überwiegend |
+| 5135 | Fachärzte für Diagnostische Radiologie, überwiegend MRT |
 |---|---|
-| 5136 | Fachärzte für Diagnostische Radiologie, überwiegend CT |
+| 5136 | Fachärzte für Diagnostische Radiologie, überwiegend CT und |
 
 5137 5138 5139 5140 5141
 
-| 5142 | Fachärzte für Nervenheilkunde mit psychiatrischem |
+| 5142 | Fachärzte für Nervenheilkunde mit psychiatrischem Schwerpunkt |
 |---|---|
-| 5143 | Fachärzte für Psychiatrie und Psychotherapie mit Anteil |
+| 5143 | Fachärzte für Psychiatrie und Psychotherapie mit Anteil PT > 30 |
 
 5144 5147 5150 5155 5160 5172 5173 5174 5198
 
 | 5199 | Ermächtigte Ärzte |
 |---|---|
-| 710010 | Fachärzte für Allgemeinmedizin, Praktische Ärzte, |
+| 710010 | Fachärzte für Allgemeinmedizin, Praktische Ärzte, Fachärzte für |
 
 710011
 
@@ -374,7 +358,7 @@ Fachärzte für Allgemeinmedizin, hausärztlich tätige Internisten Fachärzte f
 
 | 710030 | Fachärzte für Augenheilkunde |
 |---|---|
-| 710040 | Fachärzte für Chirurgie, Fachärzte für Herzchirurgie, |
+| 710040 | Fachärzte für Chirurgie, Fachärzte für Herzchirurgie, Fachärzte |
 
 710041
 
@@ -382,7 +366,7 @@ Fachärzte für Allgemeinmedizin, hausärztlich tätige Internisten Fachärzte f
 
 | 710070 | Fachärzte für Hals-Nasen-Ohrenheilkunde |
 |---|---|
-| 710071 | Fachärzte für Phoniatrie und Pädaudiologie, Fachärzte |
+| 710071 | Fachärzte für Phoniatrie und Pädaudiologie, Fachärzte für |
 
 710080
 
@@ -390,28 +374,20 @@ Arzt Kinder- und Jugendlichenpsychotherapeuten Fachärzte für Diagnostische Rad
 
 MRT Fachärzte für Urologie Fachärzte für Physikalische und Rehab. Medizin Fachärzte für Laboratoriumsmedizin nur schmerztherapeutisch tätige Praxen - FA diabetologische Schwerpunktpraxen - HA
 
-übrige Vertragsärzte nur PT tätig Fachärzte für invasive Angiologie Laborgemeinschaften
-
-Strahlentherapeut Mammographie - Screening
-
-BDZ Notfallambulanz Krankenhaus Krankenhäuser / Institute Default Arztgruppe
+übrige Vertragsärzte nur PT tätig Fachärzte für invasive Angiologie Laborgemeinschaften Strahlentherapeut Mammographie - Screening BDZ Notfallambulanz Krankenhaus Krankenhäuser / Institute Default Arztgruppe
 
 Innere Medizin, die an der hausärztlichen Versorgung teilnehmen Fachärzte für Kinder- und Jugendmedizin ohne Schwerpunkt und fachärztlich tätige Fachärzte für Kinder- und Jugendmedizin Fachärzte für Anästhesiologie
 
 für Kinderchirurgie, Fachärzte für Plastische Chirurgie, Fachärzte für Plastische Chirurgie und Ästhetische Chirurgie, Fachärzte für Thoraxchirurgie sowie Fachärzte für Visceralchirurgie Fachärzte für Chirurgie mit Schwerpunkt Gefäßchirurgie, Fachärzte für Gefäßchirurgie Fachärzte für Neurochirurgie Fachärzte für Frauenheilkunde
 
-Sprach-, Stimm- und kindliche Hörstörung, Mehrfachzulassungen aus der Kombination als Facharzt für Hals-Nasen- Ohrenheilkunde und als Facharzt für Phoniatrie und Pädaudiologie bzw. Facharzt für Sprach-, Stimm- und kindliche
-
-Hörstörung Fachärzte für Haut- und Geschlechtskrankheiten
-
-psychologische Psychotherapeuten, psychotherapeutisch tätiger Fachärzte für Diagnostische Radiologie, überwiegend MRT Fachärzte für Diagnostische Radiologie, überwiegend CT und Fachärzte für Nervenheilkunde mit psychiatrischem Schwerpunkt Fachärzte für Psychiatrie und Psychotherapie mit Anteil PT > 30 Fachärzte für Allgemeinmedizin, Praktische Ärzte, Fachärzte für Fachärzte für Chirurgie, Fachärzte für Herzchirurgie, Fachärzte Fachärzte für Phoniatrie und Pädaudiologie, Fachärzte für9
+Sprach-, Stimm- und kindliche Hörstörung, Mehrfachzulassungen aus der Kombination als Facharzt für Hals-Nasen- Ohrenheilkunde und als Facharzt für Phoniatrie und Pädaudiologie bzw. Facharzt für Sprach-, Stimm- und kindliche Hörstörung Fachärzte für Haut- und Geschlechtskrankheiten 9
 
 
 ---
 
 | **Code** | **Bezeichnung** |
 |---|---|
-| 710100 | Fachärzte für Innere Medizin ohne Schwerpunkt, die an |
+| 710100 | Fachärzte für Innere Medizin ohne Schwerpunkt, die an der |
 
 710101
 
@@ -451,7 +427,7 @@ psychologische Psychotherapeuten, psychotherapeutisch tätiger Fachärzte für D
 
 | 710300 | Kuratorium für Dialyse und Nierentransplantation |
 |---|---|
-| 88010 | FÄ für Innere Medizin und Allgemeinmedizin, FÄ für |
+| 88010 | FÄ für Innere Medizin und Allgemeinmedizin, FÄ für Innere |
 
 88020
 
@@ -461,24 +437,22 @@ Unfallchirurgie Fachärzte für Psychiatrie, Fachärzte für Psychiatrie und Psy
 
 Fachärzte für Physiologie, Fachärzte für Physiotherapie
 
-Medizin (hausärztlich tätig), FÄ f. Allgemeinmedizin, Praktische Ärzte Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit dem Versorgungsauftrag der hausärztlich Inneren und Allgemeinmedizin
-
-Fachärzte für Innere Medizin ohne Schwerpunkt, die an der FÄ für Innere Medizin und Allgemeinmedizin, FÄ für Innere10
+Medizin (hausärztlich tätig), FÄ f. Allgemeinmedizin, Praktische Ärzte Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit dem Versorgungsauftrag der hausärztlich Inneren und Allgemeinmedizin 10
 
 
 ---
 
 | 88030 | FÄ für Kinderheilkunde |
 |---|---|
-| 88040 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88040 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88050 | FÄ für Anästhesie |
 |---|---|
-| 88080 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88080 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88090 | FÄ für Augenheilkunde (operativ tätig) |
 |---|---|
-| 88100 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88100 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88102 | FÄ für Augenheilkunde, ausschließlich konservativ tätig |
 |---|---|
@@ -488,19 +462,19 @@ Fachärzte für Innere Medizin ohne Schwerpunkt, die an der FÄ für Innere Medi
 
 | 88140 | FÄ für MKG - Chirurgie |
 |---|---|
-| 88150 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88150 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88160 | FÄ für Neurochirurgie |
 |---|---|
-| 88170 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88170 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88180 | FÄ für Gynäkologie und Geburtshilfe |
 |---|---|
-| 88190 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88190 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88200 | FÄ für HNO / FÄ für Phoniatrie und Pädaudiologie |
 |---|---|
-| 88220 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88220 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88250
 
@@ -508,19 +482,19 @@ Fachärzte für Innere Medizin ohne Schwerpunkt, die an der FÄ für Innere Medi
 
 | 88270 | FÄ für Innere Medizin mit SP* Angiologie |
 |---|---|
-| 88271 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88271 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88280 | FÄ für Innere Medizin mit SP* Endokrinologie |
 |---|---|
-| 88281 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88281 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88290 | FÄ für Innere Medizin mit SP* Gastroenterologie |
 |---|---|
-| 88291 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88291 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88300 | FÄ für Innere Medizin mit SP* Kardiologie |
 |---|---|
-| 88301 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88301 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88320
 
@@ -546,28 +520,26 @@ dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Endokrinologie
 
 dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Gastroenterologie
 
-dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Kardiologie FÄ für Innere Medizin mit SP* Nephrologie
-
-Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit11
+dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Kardiologie FÄ für Innere Medizin mit SP* Nephrologie 11
 
 
 ---
 
 | **Code** | **Bezeichnung** |
 |---|---|
-| 88321 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88321 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88330 | FÄ für Innere Medizin mit SP* Pneumologie |
 |---|---|
-| 88331 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88331 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88350 | FÄ für Innere Medizin mit SP* Rheumatologie |
 |---|---|
-| 88351 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88351 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
-| 88360 | FÄ für Innere Medizin mit SP* Hämatologie u. / o. SP* |
+| 88360 | FÄ für Innere Medizin mit SP* Hämatologie u. / o. SP* Onkologie |
 |---|---|
-| 88361 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88361 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88370
 
@@ -577,11 +549,11 @@ Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ
 
 | 88400 | FÄ für Neurologie |
 |---|---|
-| 88410 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88410 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88420 | FÄ für Kinder- und Jugendpsychiatrie |
 |---|---|
-| 88430 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88430 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88440
 
@@ -591,17 +563,17 @@ Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ
 
 | 88470 | FÄ für Orthopädie |
 |---|---|
-| 88480 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88480 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88530
 
 | 88540 | FÄ für Nuklearmedizin |
 |---|---|
-| 88550 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88550 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88560 | FÄ für Urologie |
 |---|---|
-| 88570 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88570 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88580
 
@@ -615,36 +587,30 @@ dem Versorgungsauftrag fachärztliche Innere Medizin mit SP Hämatologie u./o. S
 
 dem Versorgungsauftrag Neurologie
 
-dem Versorgungsauftrag Kinder- und Jugendpsychiatrie Fachärzte für Psychiatrie und Psychotherapie mit einem Leistungsanteil der Richtlinien-Psychotherapie von höchstens
-
-30% Fachärzte für Psychiatrie und Psychotherapie mit einem Leistungsanteil der Richtlinien-Psychotherapie von mehr als 30%
-
-bis 90% Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit dem Versorgungsauftrag Psychiatrie
+dem Versorgungsauftrag Kinder- und Jugendpsychiatrie Fachärzte für Psychiatrie und Psychotherapie mit einem Leistungsanteil der Richtlinien-Psychotherapie von höchstens 30% Fachärzte für Psychiatrie und Psychotherapie mit einem Leistungsanteil der Richtlinien-Psychotherapie von mehr als 30% bis 90% Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit dem Versorgungsauftrag Psychiatrie
 
 dem Versorgungsauftrag Orthopädie Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit dem Versorgungsauftrag Radiologie
 
 dem Versorgungsauftrag Nuklearmedizin
 
-dem Versorgungsauftrag Urologie FÄ für Physikalische Rehabilitative Medizin
-
-Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit FÄ für Innere Medizin mit SP* Hämatologie u. / o. SP* Onkologie Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit12
+dem Versorgungsauftrag Urologie FÄ für Physikalische Rehabilitative Medizin 12
 
 
 ---
 
 | **Code** | **Bezeichnung** |
 |---|---|
-| 88590 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88590 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 | 88600 | FÄ für Humangenetik |
 |---|---|
-| 88610 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88610 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88690 88750
 
 | 88760 | FÄ für Strahlentherapie |
 |---|---|
-| 88770 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen |
+| 88770 | Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit |
 
 88780 88782 9303 9304 9305 9306 9307 9308 9309 9310 9311 9312 9313.0 9313.1
 
@@ -662,6 +628,4 @@ dem Versorgungsauftrag Strahlentherapie Überwiegend bzw. ausschließlich histol
 
 HNO-Ärzte Hautärzte Humangenetiker Laborärzte Internisten ohne SP Angiologen Endokrinologen Gastroenderologen Hämatologen/ Onkologen Kardiologen Nephrologen Pneumologen Rheumatologen KJ-Psychiater
 
-MKG-Chirurgen Neurologen Nuklearmediziner Orthopäden Pathologen Phoniater Pädaudiologen Psychiater Psychotherapeuten Radiologen Strahlentherapeuten
-
-Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit Ermächtigte FÄ/Krankenhäuser/Institutionen/Einrichtungen mit13
+MKG-Chirurgen Neurologen Nuklearmediziner Orthopäden Pathologen Phoniater Pädaudiologen Psychiater Psychotherapeuten Radiologen Strahlentherapeuten 13

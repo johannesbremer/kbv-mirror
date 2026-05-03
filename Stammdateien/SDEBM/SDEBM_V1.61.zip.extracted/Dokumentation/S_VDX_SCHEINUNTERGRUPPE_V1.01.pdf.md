@@ -10,7 +10,7 @@
 
 **Code** 00 20 21 23
 
-| 24 | Mit-/Weiterbehandlung (Defaultwert; außer bei |
+| 24 | Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) |
 |---|---|
 | 26 | Stationäre Mitbehandlung, Vergütung nach ambulanten |
 
@@ -42,6 +42,4 @@ Schlüsseltabelle: S_VDX_SCHEINUNTERGRUPPE
 
 Grundsätzen Überweisungs-/Abrechnungsschein für Laboratoriumsuntersuchungen als Auftragsleistung Anforderungschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Belegärztliche Behandlung (Defaultwert)
 
-Behandlung Ärztlicher Notfalldienst (Defaultwert) Urlaubs-/bzw. Krankheitsvertretung Notfall Notfalldienst mit Taxi
-
-Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen)1
+Behandlung Ärztlicher Notfalldienst (Defaultwert) Urlaubs-/bzw. Krankheitsvertretung Notfall Notfalldienst mit Taxi 1

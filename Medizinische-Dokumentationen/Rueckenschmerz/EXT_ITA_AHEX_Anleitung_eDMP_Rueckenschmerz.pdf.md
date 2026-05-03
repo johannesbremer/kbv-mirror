@@ -1,16 +1,12 @@
-## zum indikationsspezifischen Datensatz
-
 ## Ausfüllanleitung
 
-## Behandlungsprogramm
+## zum indikationsspezifischen Datensatz
+
+## für das strukturierte Behandlungsprogramm
 
 ## chronischer Rückenschmerz
 
-## für das strukturierte
-
-letzten Bearbeitung: 09.07.2020
-
-Stand der
+Stand der letzten Bearbeitung: 09.07.2020
 
 Version 1.0
 
@@ -88,91 +84,81 @@ geben Sie bitte je nach Dauer der Medikation „Ja, länger als 12 Wochen“ ode
 
 ---
 
-an. Dauert die Behandlung aktuell exakt 12 Wochen an, geben Sie bitte „Ja, weniger als 12 Wochen “ an
-
-Erhält Ihre Patientin oder Ihr Patient keine kreuzschmerzbedingte Schmerzmedikation mit Opioiden, geben  Sie bitte „Nein“ an.
+an. Dauert die Behandlung aktuell exakt 12 Wochen an, geben Sie bitte „Ja, weniger als 12 Wochen Erhält Ihre Patientin oder Ihr Patient keine kreuzschmerzbedingte Schmerzmedikation mit Opioiden, geben  Sie bitte „Nein“ an.
 
 #### Aktuelle kreuzschmerzbedingte Schmerzmedikation:
 
 #### Nicht-Opioidanalgetika
 
-ist erforderlich
+**Genau eine Angabe** ist erforderlich und zulässig
 
-**Genau eine Angabe**
+Das Dokumentationsfeld bezieht sich auf alle Nicht dies in der möglichst niedrigsten wirksamen Dosierung geschehen. COX -2-Hemmer können als Alternative  erwogen werden, wenn NSAR nicht vertragen werden. **wie möglich**, unter Berücksichtigung des gastrointestinalen und kardiovaskulären Risikoprofils sowie unter
 
-und zulässig
-
-**so kurzzeitig**
-
-Das Dokumentationsfeld bezieht sich auf alle Nicht-Opioidanalgetika. Sofern NSAR eingesetzt werden, sollte
-
-dies in der möglichst niedrigsten wirksamen Dosierung geschehen. COX -2-Hemmer können als Alternative  erwogen werden, wenn NSAR nicht vertragen werden. NSAR und COX-2-Hemmer sollen dabei
-
-**wie möglich**, unter Berücksichtigung des gastrointestinalen und kardiovaskulären Risikoprofils sowie unter
-
-Beachtung der arzneimittelrechtlichen Zulassung eingesetzt werden. Metamizol kann bei Kontraindikationen  unter
-
-für NSAR erwogen werden. Auch hier gilt der Grundsatz: **Niedrigste Dosis so kurzzeitig wie möglich**
-
-Berücksichtigung der Warnhinweise. Paracetamol sollte nicht zur Behandlung von nicht -spezifischen
+Beachtung der arzneimittelrechtlichen Zulassung eingesetzt werden. Metamizol kann bei Kontraindikationen  für NSAR erwogen werden. Auch hier gilt der Grundsatz:  Berücksichtigung der Warnhinweise. Paracetamol sollte nicht zur Behandlung von nicht -spezifischen
 
 Kreuzschmerzen eingesetzt werden.
 
-hier
+Bitte geben Sie hier an, ob eine aktuelle
 
-mit Nicht
+Opioidanalgetika erfolgt, und falls ja, ob diese **Dauerhaft**
 
-Bitte geben Sie
-
-an, ob eine aktuelle kreuzschmerzbedingte Schm erzmedikation
-
-erfolgt, und falls ja, ob diese
-
-Opioidanalgetika
-
-**Dauerhaft** oder **„Bei Bedarf** erfolgt. Bitte beachten Sie, dass
-
-hier auch eine **Selbstmedikation zu dokumentieren** ist. Erfolgt aktuell keine aktuelle kreuzschmerzbedingte
+hier auch eine **Selbstmedikation zu dokumentieren**
 
 Schmerzmedikation mit Nicht-Opioidanalgetika, geben Sie bitte „Nein“ an.
 
+“ an
+
+-Opioidanalgetika. Sofern NSAR eingesetzt werden, sollte
+
+NSAR und COX-2-Hemmer sollen dabei **so kurzzeitig**
+
+**Niedrigste Dosis so kurzzeitig wie möglich** unter
+
+kreuzschmerzbedingte Schm erzmedikation mit Nicht
+
+oder **„Bei Bedarf** erfolgt. Bitte beachten Sie, dass
+
+ist. Erfolgt aktuell keine aktuelle kreuzschmerzbedingte
+
 ## Schulung
 
-in diesem DMP dar.
-
-Multimodale kreuzschmerz-spezifischen Schulungen stellen eine **zentrale Maßnahme**
-
-Daher soll jede Patientin und jeder Patient Zugang zu einer kreuzschmerz-spezifischen Schulung erhalten.
-
-Bitte machen Sie jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulungen:
+Multimodale kreuzschmerz-spezifischen Schulungen stellen eine  Daher soll jede Patientin und jeder Patient Zugang zu einer  Bitte machen Sie jeweils eine Angabe zu den folgenden drei Dokum
 
 #### Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen
 
-Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend
+Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation**
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
 Bei der Folgedokumentation ist hier keine Angabe möglich.
 
-, dass
+Bitte geben Sie an , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen kreuzschmerz -bedingten Schulung teilgenommen h mindestens ein somatisches und ein psychisch orientiertes Modul , die aufeinander abgestimmt sind in der  Schulung enthalten sein sollte.
 
-Bitte geben Sie an , ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen kreuzschmerz -bedingten Schulung teilgenommen h at. „Multimodal“ bedeutet hier
-
-mindestens ein somatisches und ein psychisch orientiertes Modul , die aufeinander abgestimmt sind in der  Schulung enthalten sein sollte.
-
-Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch NICHT ausgeschlossen!
+Eine erneute Teilnahme an einer Schulung im Rahmen des DMP
 
 #### Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-ist erforderlich und zulässig.
+**Genau eine Angabe** ist erforderlich und zulässig.
 
-**Genau eine Angabe**
-
-Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einer  kreuzschmerz-spezifischen Schulung empfohlen haben, geben Sie bitte „Ja“ an. Wenn Sie bereits zuvor eine
+Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einer  kreuzschmerz-spezifischen Schulung empfohlen haben, geben Sie bitte
 
 Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die Empfehlung  bitte erneut aus und kreuzen hier „Ja“ an.
 
-Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an.
+Sollten Sie keine Schulung empfohlen haben, geben Sie bitte
+
+**zentrale Maßnahme** in diesem DMP dar.
+
+kreuzschmerz-spezifischen Schulung erhalten.  entationsfeldern zu Schulungen:
+
+möglich und hier verpflichtend
+
+at. „Multimodal“ bedeutet hier , dass
+
+ist dadurch NICHT ausgeschlossen!
+
+„Ja“ an. Wenn Sie bereits zuvor eine
+
+„Nein“ an.
 
 
 ---
@@ -323,50 +309,40 @@ den Sie
 
 ---
 
-Bitte lassen Sie Ihre Patientin oder Ihren P atienten auf einer  **Maße die Rückenschmerzen in den letzten den Monaten**  **(Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt haben**
+Bitte lassen Sie Ihre Patientin oder Ihren P atienten auf einer **Skala von 0 bis 10** einschätzen, **in** **welchem**
 
-Dabei steht die Zahl ***0*** für ***keine Beeinträchtigung***
+**Maße die Rückenschmerzen in den letzten den Monaten ihre bzw. seine alltäglichen Aktivitäten**
+
+**(Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt haben**
+
+Dabei steht die Zahl ***0*** für ***keine Beeinträchtigung*** und die Zahl ***10*** für ***Maximale Beeinträchtigung /***
 
 ***keine Aktivitäten mehr möglich***
 
-Geben Sie die Angabe als ganze Zahl in diesem Feld ein. Eine Angabe kleiner als  nicht möglich.
+Geben Sie die Angabe als ganze Zahl in diesem Feld ein. Eine Angabe kleiner als 0 und größer als 10 ist
+
+nicht möglich.
 
 #### Beendigung der DMP-Teilnahme vereinbart
 
-Eine Angabe in diesem Feld ist nur im Rahmen einer  **Genau eine Angabe** ist erforderlich und zulässig.
+Eine Angabe in diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend
+
+**Genau eine Angabe** ist erforderlich und zulässig.
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Anders als bei anderen Erkrankungen, bei denen von einem lebenslangen chronischen Verlauf auszugehen  ist, sind beim chronischen Rückenschmerz bei manchen Patienten Besserungen in einem Ausmaß möglich,  die einen weiteren Verbleib im DMP nicht mehr zweckmäßig ersc **regelmäßig überprüfen** , ob **die Patientin oder der Patient weiterhin von einer Teilnahme am DMP**
+Anders als bei anderen Erkrankungen, bei denen von einem lebenslangen chronischen Verlauf auszugehen  ist, sind beim chronischen Rückenschmerz bei manchen Patienten Besserungen in einem Ausmaß möglich,  die einen weiteren Verbleib im DMP nicht mehr zweckmäßig erscheinen lassen. Aus diesem Grund sollen Sie
 
-**profitieren kann**. Sollten Sie gemeinsam mit der Patientin oder der Patient zu der
+**regelmäßig überprüfen** , ob **die Patientin oder der Patient weiterhin von einer Teilnahme am DMP**
 
-ihre oder seine weitere Teilnahme am DMP nicht sinnvoll ist,
+**profitieren kann**. Sollten Sie gemeinsam mit der Patientin oder der Patient zu der Auffassung kommen, dass
 
-**Wenn Sie hier die Antwort „Ja“ angeben,**
+ihre oder seine weitere Teilnahme am DMP nicht sinnvoll ist, können Sie das über dieses Feld dokumentieren.
 
-**(Ausschreibung!) durch die Krankenkasse** **mit dem**
+**Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP -Teilnahme**
+
+**(Ausschreibung!) durch die Krankenkasse** **mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**
 
 **Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden, daher nicht mehr**  **vergütet werden.**
 
 Eine erneute Teilnahme ist bei Vorliegen der Einschlusskriterien möglich.
-
-**Skala von 0 bis 10**  **ihre bzw. seine alltäglichen Aktivitäten**
-
-und die Zahl ***10*** für ***Maximale Beeinträchtigung /***
-
-einschätzen, **in** **welchem**
-
-0 und größer als 10 ist
-
-**Folgedokumentation** möglich und hier verpflichtend
-
-heinen lassen. Aus diesem Grund sollen Sie
-
-Auffassung kommen, dass
-
-können Sie das über dieses Feld dokumentieren.
-
-**erfolgt eine Beendigung der DMP -Teilnahme**
-
-**Erstelldatum dieser Dokumentation.** **Bitte beachten**

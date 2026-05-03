@@ -1,4 +1,6 @@
-# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
+# BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR ARBEIT  17 12 2021
+
+# gem. Vereinbarung zwischen der Bundesagentur für Arbeit und der Bundesärztekammer vom
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -6,39 +8,45 @@ Kundennummer: ___________________
 
 Liquidations-ID:
 
-Patient/in befindet sich seit _____________
+Patient/in befindet sich seit _____________ regelmäßig  gelegentlich  nicht in meiner Behandlung
 
 # Letzte Behandlung am _________________
 
 # Diagnosen:
 
-regelmäßig [ ]
-
 # Aktuelle Beschwerden und Funktionseinschränkungen:
 
 # Aktuelle Therapie:
 
-Physiotherapie [ ]
+Physiotherapie
 
-Medikation (Medikamente bitte angeben): [ ]
+Psychotherapie
 
-Psychotherapie [ ]
+Medikation (Medikamente bitte angeben):
 
-Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.): [ ]
+Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.):
 
-**Hilfsmittel:** [ ]
+**Hilfsmittel:**
 
 AM 6 ÄD – 1900.8_Befundbericht_BÄK_21.12
 
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
 BGL-Nummer: ______________
 
-gelegentlich  nicht in meiner Behandlung
-
 [ ]
 
 [ ]
-
-# 17 12 2021
 
 
 ---
@@ -63,15 +71,9 @@ Sonstiges:
 
 # Spezielle Maßnahmen erforderlich? (fakultativ):
 
-**medizinische**
+**Bitte fügen Sie diesem Befundbericht relevante Umedizinische nterlagen (Arztbriefe, Befundberichte,**
 
-**Bitte fügen Sie diesem Befundbericht relevante U**
-
-**nterlagen (Arztbriefe, Befundberichte,**
-
-**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **, vielen Dank.**
-
-**Kopie bei**
+**Laborbefunde, Krankenhaus-Entlassungsberichte, Reha-Entlassungsberichte, Gutachten u. ä.) als**  **Kopie bei, vielen Dank.**
 
 Medizinische Unterlagen liegen bei
 
@@ -134,7 +136,7 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   für die ersten 50 Seiten 0,15 € | ____  Seiten á ____  Seiten á | = = | __________  €    __________  € |
+| Fotokopierkosten:  0,50 € 0,15 € | ____  Seiten á 0,15 € | = = | __________  €    __________  € |
 |---|---|---|---|
 | Ausstellung des vollständigen Befundberichts und Übermittlung an den Ärztlichen Dienst: | 32,50 € | = | € |
 | Portokosten: |  | = | € |
@@ -149,4 +151,4 @@ Ich bitte um Überweisung auf das folgende Konto: 12
 | BIC: |
 | Bank/Sparkasse: |
 
-0,50 € für jede weitere Seite 0,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

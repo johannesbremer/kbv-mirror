@@ -32,14 +32,14 @@ Die Änderungen treten zum 1. Oktober 2025 in Kraft
 | 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | 12, 16, 26  16 12, 14, 16, 26 |
 | 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz Erweiterung des Formats der Version |  | 11, 14, 26 24 |
 | 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im Aktualisierung des Transportbegleit- |  | 14  30 |
-| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | tur des Brustkrebsschemas | 14 |
+| 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit Aufgrund einer Fehlerkorrek- | aktualisiert | 14 |
 | 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit Aktualisierung des DMP Streichung der Diskette als Datenträ- | Brustkrebs | 14   29, 29, 30 |
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | 14 |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | 14 |
 
 **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-esselungssoftware der Begleitdatei eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs der Endung *422 für die Übergangs- regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- tur Komponentennummer im XML-Schema wurde die Versionsnummer aktualisiert wurde die Versionsnummer aktualisiert
+esselungssoftware der Begleitdatei eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs der Endung *422 für die Übergangs- regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- tur Komponentennummer im XML-Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer
 
 ---
 
@@ -250,36 +250,30 @@ XML-Code 23  bis................................................................
 
 # 1 Einleitung
 
-Mit den Spitzenverbänden der Krankenkassen wurden die Regularien zum Datenaustausch
-
-mit den Datenstellen verbindlich vereinbart und sind nachfolgend beschrieben.
+Mit den Spitzenverbänden der Krankenkassen wurden die Regularien zum Datenaustausch  mit den Datenstellen verbindlich vereinbart und sind nachfolgend beschrieben.
 
 Alle Informationen (Dokumentationen), die zu einem definierten Zeitpunkt übertragen werden,  werden in einem ZIP-Archiv zusammengefasst. Da ca. 65.000 einzelne XML-Dateien mit Ver- zeichnisangabe in eine ZIP -Archivdatei gepackt werden können, wird in dem hier dargestell- ten Konzept auch berücksichtigt, dass eine Datenlieferung mehrere ZIP -Archive umfassen  kann. Die einzelnen ZIP-Archive sind mit dem KBV-Kryptomodul (XKM) zu verschlüsseln. De- taillierte Erläuterungen zum Erstellen des ZIP-Archivs sind dem Kapitel 3.4.2 zu entnehmen.
 
-Zu jeder Datenlieferung *(Ausnahmen siehe Abschnitt 3.4.3 )*
+Zu jeder Datenlieferung *(Ausnahmen siehe Abschnitt 3.4.3 )* wird eine entsprechende Anzahl
 
--Archiven ent-
+von Begleitdateien erstellt, welche u.a. Informationen zu diesen einzelnen ZIP -Archiven ent-
 
-wird eine entsprechende Anzahl
+halten. Dazu gehören Archivdateiname, Verzeichnispfad und Zeitraumangabe. Die Begleitda- teien werden separat zusammen mit den Archiven übermittelt und ermöglichen somit eine  Vorabprüfung der Datenlieferung.
 
-von Begleitdateien erstellt, welche u.a. Informationen zu diesen einzelnen ZIP halten. Dazu gehören Archivdateiname, Verzeichnispfad und Zeitraumangabe. Die Begleitda- teien werden separat zusammen mit den Archiven übermittelt und ermöglichen somit eine  Vorabprüfung der Datenlieferung.
+Grundsätzlich sind alle Nutzdaten (ZIP -Archive), die von einer Arztpraxis übermittelt werden,  mit Hilfe des KBV -Kryptomoduls (XKM) zu verschlüsseln. Die Begleitdateien werden **nicht**
 
-**nicht**
-
-Grundsätzlich sind alle Nutzdaten (ZIP -Archive), die von einer Arztpraxis übermittelt werden,  mit Hilfe des KBV -Kryptomoduls (XKM) zu verschlüsseln. Die Begleitdateien werden  verschlüsselt.
+verschlüsselt.
 
 Die hier beschriebenen Sachverhalte sind so angelegt, dass sie gleichermaßen für den Da- tenaustausch der Arztpraxis mit der Kassenärztlichen Vereinigung aber auch mit der Daten- stelle genutzt werden können.
 
 
 ---
 
-# Symbole
-
 # 2 Semantik der verwendeten Diagramm
 
-Zur Visualisierung der verwendeten XML -Schemata werden Diagramme verwendet, deren
+Zur Visualisierung der verwendeten XML -Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
 
-Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
+# Symbole
 
 ## 2.1 Kardinalität
 
@@ -287,15 +281,17 @@ Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
-| 0..1 |  | Optionales Element: Element wird als Rechteck mit gestrichelter |
+| 0..1 |  | Linie dargestellt. Es kann kein oder einmal vorkommen |
 | 1 |  | Musselement:  Rechteck mit durchgezogner |
 | n...m |  | Multielement: enthält mindestens n aber maximal m Elemente, |
-
-**Tabelle 1  Beschreibung der Kardinalitäten**
 
 ## 2.2 Strukturelemente
 
 Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet:  Choice und Sequence.
+
+**Tabelle 1**
+
+**Beschreibung der Kardinalitäten**
 
 | Symbol | Beschreibung |
 |---|---|
@@ -304,16 +300,18 @@ Die Elemente eines Schema -Diagramms werden über sogenannte Strukturelemente mi
 
 **Tabelle 2  Beschreibung der Strukturelement-Symbole**
 
-## 2.3 Sonstige Symbole -Symbole verwendet:
+## 2.3 Sonstige Symbole
 
 Es werden außerdem folgende Diagramm
 
 | Symbol | Beschreibung |
 |---|---|
-|  | Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen |
+|  |  |
 |  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
 
-Linie dargestellt. Es kann kein oder einmal vorkommen Linie. Das Element muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. verschiedenen Kindelementen genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
+-Symbole verwendet:
+
+Optionales Element: Element wird als Rechteck mit gestrichelter muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. Linie. Das Element genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. verschiedenen Kindelementen Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
 
 ---
 
@@ -395,7 +393,11 @@ Dialyse  Öffentliche Schlüssel
 | QS Holmiumlaser-Therapie | QSHLT/Dokumentation |
 | QS Kapselendoskopie | QSKE/Dokumentation |
 
-Weitere DMPs (wie bspw. KHK oder Asthma bronchiale) sowie elektronische Dokumentatio- nen (wie bspw. QS Zervix -Zyto) sind in der Abbildung 1 nicht berücksichtigt. Schematisch ist  das Vorgehen für diese Schnittstellen identisch. Die Angabe der zulässigen Pfade ist der  belle 4 zu entnehmen.
+**Tabelle 4 - Zulässige relative Pfade**
+
+Weitere DMPs (wie bspw. KHK oder Asthma bronchiale) sowie elektronische Dokumentatio- nen (wie bspw. QS Zervix -Zyto) sind in der Abbildung 1 nicht berücksichtigt. Schematisch ist  das Vorgehen für diese Schnittstellen identisch. Die Angabe der zulässigen Pfade ist der Ta-
+
+belle 4 zu entnehmen.
 
 ## 3.2 Komprimierungsalgorithmus
 
@@ -405,28 +407,20 @@ Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die V
 
 lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer- umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  abgerufen werden: [http://www.info-zip.org/](http://www.info-zip.org/) .
 
-Bei der Anwendung von „Info 65.000 Einzeldateien und Verzeichnisse komprimiert werden sollen, denn das Programm ach- tet nicht auf diese Grenze und erzeugt fehlerhafte Archive.
+Bei der Anwendung von „Info ZIP“ muss unbedingt im Vorhinein geprüft werden, ob mehr als
 
-**Tabelle 4 - Zulässige relative Pfade**
-
-Ta-
-
-ZIP“ muss unbedingt im Vorhinein geprüft werden, ob mehr als
+65.000 Einzeldateien und Verzeichnisse komprimiert werden sollen, denn das Programm ach- tet nicht auf diese Grenze und erzeugt fehlerhafte Archive.
 
 
 ---
 
-ausgegangen, dass „Info-ZIP“ als Komprimierungs
-
-In den folgenden Kapiteln wird davon
-
-soft-
+In den folgenden Kapiteln wird davon ausgegangen, dass „Info-ZIP“ als Komprimierungssoft-
 
 ware eingesetzt wird.
 
-ZIP“ ver-
+Folgendes Beispiel soll die Erstellung der Archivdateien unter Verwendung von „Info ZIP“ ver-
 
-Folgendes Beispiel soll die Erstellung der Archivdateien unter Verwendung von „Info deutlichen:
+deutlichen:
 
 - 1. Wechseln Sie in das Rootverzeichnis (siehe Abbildung 2)
 
@@ -440,9 +434,7 @@ Der allgemeine Aufbau des Befehls zip sieht demzufolge so aus:
 
 ***zip [ -options] [archivname] [Liste mit Verzeichnissen bzw. Dateien, die komprimiert***  ***werden sollen]***
 
-***zip***
-
-Eine Übersicht über die Konfigurationsmöglichkeiten und weiteren Befehlen erhalten Sie,  wenn Sie einfach den Befehl  in die Kommandozeile eingeben. Sie bekommen dann fol-
+Eine Übersicht über die Konfigurationsmöglichkeiten und weiteren Befehlen erhalten Sie,  wenn Sie einfach den Befehl ***zip*** in die Kommandozeile eingeben. Sie bekommen dann fol-
 
 gende Ausgabe:
 
@@ -453,9 +445,7 @@ gende Ausgabe:
 
 ## 3.3 eVersandliste
 
-Beim optionalen Einsatz des elektronischen Versandlisten-Verfahrens (EVL) wird eine XML-
-
-Datei automatisch dem Archiv zugefügt. Damit befindet sich in der Archivdatei zusätzlich eine  Datei „eVersandliste.xml“, die die Prüfsummen aller Dokumentationen im Archiv enthält. Das  Verfahren kann nur dann genutzt werden, wenn entsprechend regional Vereinbarungen ge- troffen wurden und die Datenannahmestellen eVersandlisten akzeptieren.
+Beim optionalen Einsatz des elektronischen Versandlisten-Verfahrens (EVL) wird eine XML- Datei automatisch dem Archiv zugefügt. Damit befindet sich in der Archivdatei zusätzlich eine  Datei „eVersandliste.xml“, die die Prüfsummen aller Dokumentationen im Archiv enthält. Das  Verfahren kann nur dann genutzt werden, wenn entsprechend regional Vereinbarungen ge- troffen wurden und die Datenannahmestellen eVersandlisten akzeptieren.
 
 HINWEIS: Für eDMP und Brustkrebs entfällt die Arztunterschrift und damit die eVersandliste.  Andere Vereinbarungen (eHKS, usw.) sind davon nicht betroffen. Bei diesen Vereinbarungen  gelten weiterhin die regionalen Vereinbarungen.
 
@@ -463,9 +453,7 @@ HINWEIS: Für eDMP und Brustkrebs entfällt die Arztunterschrift und damit die e
 
 Für den strukturierten Datenaustausch ist es notwendig Vorgaben für die Benennung der ein- zelnen Dateien zu machen. Diese Vorgaben sind in diesem Kapitel zusammengefasst.
 
-### Die einzelne XML-Datei
-
-### 3.4.1
+### 3.4.1 Die einzelne XML-Datei
 
 Mehrere XML-Dateien einer Dokumentationsart eines Zeitraumes werden in ein Verzeichnis  und in ein Archiv abgelegt. Zusammen mit der Pfadangabe werden die ersten 65.000 Dateien  in eine Archivdatei gepackt. Die nächsten maximal 65.000 Dateien werden in eine weitere  Archivdatei gepackt usw. Die Gesamtlieferung, die mehrere Archivdateien sowohl von einer  wie auch von unterschiedlichen Dokumentationsarten enthalten kann, wird zusammen mit den  entsprechenden Begleitdateien *(Ausnahmen siehe Abschnitt 3.4.3 )*, welche die Informationen
 
@@ -473,29 +461,23 @@ der einzelnen Dateiarchive enthalten, an den Empfänger übermittelt.
 
 Vorgaben zum Aufbau des Dateinamens einer Dokumentation definiert die jeweilige Schnitt- stellenbeschreibung.
 
-### Die Archivdatei
-
-### 3.4.2
+### 3.4.2 Die Archivdatei
 
 Für den Namen einer Archivdatei, welche die einzelnen XML -Dateien einer Dokumentations-
 
-art enthalten soll, wird folgendes festgelegt. Der Name soll die Attribute „Absender“, „Datum  der Erstellung“, eine laufende Nummer für diese Datenlieferung sowie ein Kürzel für die Do- kumentationsart beinhalten. Die Dateiendung muss „.zip“ sein. Daraus ergibt sich folgender  Aufbau: .zip
+art enthalten soll, wird folgendes festgelegt. Der Name soll die Attribute „Absender“, „Datum  der Erstellung“, eine laufende Nummer für diese Datenlieferung sowie ein Kürzel für die Do- kumentationsart beinhalten. Die Dateiendung muss „.zip“ sein. Daraus ergibt sich folgender  Aufbau:
 
-*Absender_JJJJMMTTHHMMSS_N_K*
+*Absender_JJJJMMTTHHMMSS_N_K*.zip
 
 Anstelle von *Absender* muss die konkrete (N)BSNR des Tätigkeitsortes, an dem die Archivda-
 
--IK sind neun Stellen lang.
-
-tei erstellt wurde bzw. das konkrete Krankenhaus -IK des Krankenhauses als Absender der  Daten stehen. Die (N)BSNR sowie das Krankenhaus
+tei erstellt wurde bzw. das konkrete Krankenhaus -IK des Krankenhauses als Absender der  Daten stehen. Die (N)BSNR sowie das Krankenhaus-IK sind neun Stellen lang.
 
 *JJJJMMTTHHMMSS* enthält das Erstellungsdatum und die Uhrzeit (Stunden, Minuten, Se-
 
 kunden) der Archivdatei.
 
-*N* steht für eine laufende Nummer, damit mehrere Dateiarchive eines Absenders, welche zum
-
-Zeitpunkt JJJJMMTT erstellt wurden und in einer Datenlieferung enthalten sind, unterschieden  werden können. Die laufende Nummer sollte pro Indikation gezählt werden.
+*N* steht für eine laufende Nummer, damit mehrere Dateiarchive eines Absenders, welche zum  Zeitpunkt JJJJMMTT erstellt wurden und in einer Datenlieferung enthalten sind, unterschieden  werden können. Die laufende Nummer sollte pro Indikation gezählt werden.
 
 *K* steht für das Kürzel der Dokumentationsart, welche ausschließlich in diesem Archiv enthal- ten ist. Die Übersicht der Kürzel kann der Tabelle 5 entnommen werden.
 
@@ -617,27 +599,27 @@ Spezifikation erlaubt Spezifikation nur innerhalb der Attri- butwerte nicht erla
 
 ---
 
-# Aufbau der Begleitdatei
+# 4 Aufbau der Begleitdatei
 
-# 4
+In den folgenden Abschnitten soll konkret der Aufbau der Begleitdateien erläutert werden. Das  Wurzelelement heißt *begleitdatei*. Es besteht aus den verpflichtenden Kindelementen *erstel-*
 
-*begleitdatei*. Es besteht aus den verpflichtenden Kindelementen *erstel-*
-
-In den folgenden Abschnitten soll konkret der Aufbau der Begleitdateien erläutert werden. Das  Wurzelelement heißt  *lungsdatum-datei empfaenger absender komprimierungssoftware verschluesselungssoft-*
+*lungsdatum-datei empfaenger absender komprimierungssoftware verschluesselungssoft-*
 
 *ware* und *archiv* sowie dem optionalen Kindelement *verschluesselungssoftware.*
 
-*verschluesselungssoftware* muss verpflichtend angegeben werden, wenn die
+Das Element *verschluesselungssoftware* muss verpflichtend angegeben werden, wenn die
 
-Das Element  Datenlieferung verschlüsselt ist.
+Datenlieferung verschlüsselt ist.
 
 Die grundsätzliche Struktur einer Begleitdatei ist in Abbildung 3 dargestellt.
 
-**Abbildung 3  Grundstruktur begleitdatei**
+**Grundstruktur begleitdatei**
 
-*begleitdatei* wie
+**Abbildung 3**
 
-Wenn alle Kindelemente vorkommen, sieht der Coderahmen für das Element  folgt aus:
+Wenn alle Kindelemente vorkommen, sieht der Coderahmen für das Element *begleitdatei* wie
+
+folgt aus:
 
 
 ---
@@ -899,7 +881,9 @@ mit der OID
 
 ---
 
-**Abbildung 6  Grundstruktur komprimierungssoftware**
+**Grundstruktur komprimierungssoftware**
+
+**Abbildung 6**
 
 Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie folgt aus:
 
@@ -917,13 +901,11 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie f
 
 **XML-Code 8  komprimierungssoftware**
 
-### Name der Software (software-name)
+### 4.4.1 Name der Software (software-name)
 
-### 4.4.1
+Das Element *software-name* enthält als Wert den konkreten Namen der verwendeten Soft-
 
-*software-name* enthält als Wert den konkreten Namen der verwendeten Soft-
-
-Das Element  ware. Es handelt sich dabei um einen String.
+ware. Es handelt sich dabei um einen String.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -931,9 +913,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 9  software-name**
 
-### Version der Software (software-version)
-
-### 4.4.2
+### 4.4.2 Version der Software (software-version)
 
 Das Element *software-version* enthält als Wert die konkrete Versionsnummer der verwende-
 
@@ -945,9 +925,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 10  software-version**
 
-### Hersteller der Software (software-hersteller)
-
-### 4.4.3
+### 4.4.3 Hersteller der Software (software-hersteller)
 
 Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es
 
@@ -1251,19 +1229,13 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 # 5 Datenträgeraustausch
 
-Zwischen den Spitzenverbänden der Krankenkassen und der KBV ist zur Übermittlung von  Datenträgern im Rahmen des elektronischen Datenaustauschs von DMP -Daten zwischen  Arztpraxis bzw. Krankenhaus und Datenannahmestelle ein einheitliches Verfahren vereinbart
+Zwischen den Spitzenverbänden der Krankenkassen und der KBV ist zur Übermittlung von  Datenträgern im Rahmen des elektronischen Datenaustauschs von DMP -Daten zwischen  Arztpraxis bzw. Krankenhaus und Datenannahmestelle ein einheitliches Verfahren vereinbart  worden. Dieses Verfahren ist innerhalb dieses Kapitels beschrieben und enthält Vorgaben zur  Verwendung und Beschriftung der Datenträger sowie zur Erstellung eines Transportbegleitzet- tels. Diese Kapitel finden ebenfalls bei Dokumentationen zur Früherkennungs -Koloskopie so- wie bei weiteren elektronischen Dokumentationen Anwendung.
 
-worden. Dieses Verfahren ist innerhalb dieses Kapitels beschrieben und enthält Vorgaben zur  Verwendung und Beschriftung der Datenträger sowie zur Erstellung eines Transportbegleitzet- tels. Diese Kapitel finden ebenfalls bei Dokumentationen zur Früherkennungs -Koloskopie so- wie bei weiteren elektronischen Dokumentationen Anwendung.
-
-Die einheitliche Beschriftung der Datenträger sowie die Nutzung von Transportbegleitzetteln  dient zum einen der leichteren und einheitlichen Archivierung der Datenträger und somit auch
-
-der besseren Wiederauffindbarkeit, zum anderen ist es so möglich den Absender defekter  Datenträger schnell zu ermitteln, um die nötige Nachlieferung anzufordern.
+Die einheitliche Beschriftung der Datenträger sowie die Nutzung von Transportbegleitzetteln  dient zum einen der leichteren und einheitlichen Archivierung der Datenträger und somit auch  der besseren Wiederauffindbarkeit, zum anderen ist es so möglich den Absender defekter  Datenträger schnell zu ermitteln, um die nötige Nachlieferung anzufordern.
 
 Für die zu übermittelnden Daten im Rahmen der Früherkennungs -Koloskopie sowie weiterer
 
-elektronischer Dokumentationen werden ebenfalls Datenträgerbeschriftungen und Transport- begleitzettel zum Einsatz kommen. Die unten angegebenen Daten zum Empfänger („KV Nummer“) und zur Bezeichnung des Datenübermittlungsverfahrens („Elektronische Dokumen-
-
-tation „eDOKUMENTATION““) sind für diese Einsatzzwecke zu verwenden.
+elektronischer Dokumentationen werden ebenfalls Datenträgerbeschriftungen und Transport- begleitzettel zum Einsatz kommen. Die unten angegebenen Daten zum Empfänger („KV Nummer“) und zur Bezeichnung des Datenübermittlungsverfahrens („Elektronische Dokumen- tation „eDOKUMENTATION““) sind für diese Einsatzzwecke zu verwenden.
 
 „eDOKUMENTATION“ ist als Platzhalter zu verstehen und muss durch folgende Werte ent- sprechend ersetzt werden: Früherkennungs-Koloskopie oder QS Zervix-Zyto oder Hautkrebs- Screening
 
@@ -1271,13 +1243,11 @@ tation „eDOKUMENTATION““) sind für diese Einsatzzwecke zu verwenden.
 
 Zur Verwendung als Datenträger kann beispielsweise das Medium CD-ROM (Compact Disc- Read-Only Memory) genutzt werden.
 
-### 5.1.1 CD-ROM -CD-ROMs zu verwenden.
+### 5.1.1 CD-ROM
 
-Es sind handelsübliche Recordable
+Es sind handelsübliche Recordable-CD-ROMs zu verwenden.
 
-Auf der CD-ROM dürfen keine Unterverzeichnisse eingerichtet werden. Alle auf dem Daten-
-
-träger befindlichen Dateien müssen sich im Wurzelverzeichnis befinden.
+Auf der CD-ROM dürfen keine Unterverzeichnisse eingerichtet werden. Alle auf dem Daten- träger befindlichen Dateien müssen sich im Wurzelverzeichnis befinden.
 
 Es dürfen sich mehrere Dateien auf einer CD-ROM befinden.
 
@@ -1339,8 +1309,6 @@ Erstellt am 15.07.2019
 
 ### 5.3.2 Transportbegleitzettel
 
-**CD**
-
 ## Transportbegleitzettel
 
 ### Elektronische DMP-Dokumentation
@@ -1353,7 +1321,7 @@ Erstellt am 15.07.2019
 
 **Inhalt der Datenlieferung:**
 
--  **012345678_20190715120100_1_DM1_503.idx**
+-  **012345678_20190715120100_1_DM1_503.idx  CD**
 
 -  **012345678_20190715120110_1_DM1_503.zip.XKM  CD**
 

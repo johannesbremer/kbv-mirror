@@ -192,31 +192,31 @@ Standards
 
 # 3 FHIR®-DEFINITIONEN
 
--Ressourcen, welche in verschiedenen Bereichen des
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis
+Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der elektronischen Verordnung
 
-elektronischen Verordnung
+digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro-
 
-Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der  digitaler Gesundheitsanwendungen wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Pro-
+file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.
 
-file erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind.  -Profilen und den KBV-Basisprofilen verwendet wer-
+Folglich müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet wer-
 
-Folglich müssen diese Profile mit den deutschen Basis den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente
+den. Die FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente
 
 finden sich unter: [http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/). Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses  Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften  sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile].
 
 Sie finden die Profile unter: [https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/) sowie auf der Web- seite Simplifier unter [https://simplifier.net/evdga](https://simplifier.net/evdga).
 
-werden. Diese CodeSysteme und ValueSets
+In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen  kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt werden. Diese CodeSysteme und ValueSets
 
-In den definierten FHIR®-Profilen für die elektronische Verordnung digitaler Gesundheitsanwendungen  kommen CodeSysteme und ValueSets zur Anwendung, welche nicht im Rahmen der elektronischen Verord- nung digitaler Gesundheitsanwendungen definiert und gepflegt müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter [https://simpli-](https://simpli-)
+müssen immer in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versi- onsänderung der Profile der elektronischen Verordnung digitaler Gesundheitsanwendungen bedarf. Die  von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind abrufbar unter [https://simpli-](https://simpli-)
 
 fier.net/kbvschluesseltabellen.
 
--Profile der elektroni-
+Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®-Profile der elektroni-
 
-Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR® schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile
+schen Verordnung digitaler Gesundheitsanwendungen und somit zu einer neuen Version der FHIR®-Profile
 
 führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rah-
 
@@ -224,15 +224,15 @@ men der Veröffentlichung definiert.
 
 Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung
 
--Version, einer Minor-Version und
+basierend auf der Semantic-Versioning Syntax bestehend aus einer Major-Version, einer Minor-Version und
 
-basierend auf der Semantic-Versioning Syntax bestehend aus einer Major einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen-
+einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das Referen-
 
 zieren der Profil-Version im eVDGA-FHIR-Projekt erfolgt ohne Angabe der Patch Version (z.B. „1.2“). Somit
 
-wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- -Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt
+wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das Weg- lassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die Imple- mentierung der Erstellung der FHIR-Instanzen nicht angepasst werden, sofern die Erstellung bereits korrekt
 
-mentierung der Erstellung der FHIR umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
+umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
 
 ## 3.1 DATEINAME FHIR-PROFILE
 
@@ -242,9 +242,7 @@ Die Dateinamen der FHIR-Profile setzen sich wie folgt zusammen.
 
 Bedeutung: - Kürzel
 
--
-
--  KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert - Kategorie
+- KBV steht für Kassenärztliche Bundesvereinigung und ist ein fester Wert - Kategorie
 
 - PR Profil
 
@@ -256,9 +254,7 @@ Bedeutung: - Kürzel
 
 - Thema
 
-- -Verordnung
-
--  EVDGA steht für elektronische Gesundheitsanwendungen
+- EVDGA steht für elektronische Gesundheitsanwendungen-Verordnung
 
 
 ---
@@ -298,7 +294,7 @@ Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind, um 
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
-| Definition | Bundle zur Definition der gesamthaften Inhalte |
+| Definition | taler Gesundheitsanwendungen |
 | Version | 1.2.2 |
 | Hinweis | Beinhaltet die Abbildung aller Instanzen der |
 
@@ -312,7 +308,7 @@ sind die folgenden formularübergrei-
 
 der elektronischen Verord-
 
-Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifenden Patienteninformationen taler Gesundheitsanwendungen elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_Bundle   der elektronischen Verordnung digi- benötigten Profile für die Inhalte der ischen URL.
+Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifenden Patienteninformationen Bundle zur Definition der gesamthaften Inhalte elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_Bundle   der elektronischen Verordnung digi- benötigten Profile für die Inhalte der ischen URL.
 
 
 ---
@@ -321,16 +317,16 @@ Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifenden Patienteninf
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EVDGA_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
-| Definition | Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- |
+| Definition | sundheitsanwendungen |
 | Version | 1.2.2 |
 
 **Tabelle 2: KBV_PR_EVDGA_Composition**
 
-|  |  |
+| KBV_PR_EVDGA_HEALTHAPPREQUEST |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/DeviceRequest |
-| Definition | Darstellung der spezifischen Informationen |
+| Definition | Gesundheitsanwendungen |
 | Version | 1.2.2 |
 
 **Tabelle 3: KBV_PR_EVDGA_HealthAppRequest**
@@ -344,7 +340,7 @@ Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeute
 | KBV_CS_EVDGA_SECTION_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ |
-| Definition | Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- |
+| Definition | fils „ |
 | Version | 1.2.2 |
 
 **Tabelle 4: KBV_CS_EVDGA_Section_Type**
@@ -367,7 +363,7 @@ en), um anzugeben, welche Codes
 |---|---|
 | P35-11 | Verwendung der FOR- und EVDGA-Profile |
 
-sundheitsanwendungen KBV_PR_EVDGA_HEALTHAPPREQUEST der elektronischen Verordnung digitaler Gesundheitsanwendungen EVDGA_HealthAppRequest  fils „ KBV_PR_EVDGA_Composition EVDGA_Section_Type
+Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- Darstellung der spezifischen Informationen der elektronischen Verordnung digitaler EVDGA_HealthAppRequest  Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- KBV_PR_EVDGA_Composition EVDGA_Section_Type
 
 ---
 
@@ -421,7 +417,7 @@ oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Ext
 
 folgt.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-12 | Umgang mit der Eigenschaft |
 
@@ -435,7 +431,7 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 - 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN „mustSupport“- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
+„mustSupport“- mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
 
 
 ---
@@ -448,7 +444,7 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN „mus
 
 - Konkrete Ausnahmen zu Akzeptanzkriterium 1 werden durch entsprechende Anforderungen definiert.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-13 | Einsatz der deutschen Basis-Profile von HL7 sowie der KBV-Basis-Profile |
 
@@ -466,7 +462,7 @@ Die Software muss zur Validierung
 
 - 2. sowie die KBV [KBV-Basis-Profile] in der Version 1.7.0 einbinden.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-14 | Übergangsregelung für EVDGA-Verordnungsdatensätze in den Versionen 1. |
 
@@ -506,7 +502,7 @@ werden.
 
 -
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN 2.2 - -Verordnungsdatensätze der Version
+2.2 - -Verordnungsdatensätze der Version
 
 
 ---
@@ -561,7 +557,7 @@ Festlegung des zu verwendenden Formates für alle verarbeitenden Systeme notwend
 
 - Je Verordnung wird eine Instanz des Bundles KBV_PR_EVDGA_Bundle erstellt.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-22 | Instanziierung KBV_PR_EVDGA_HealthAppRequest |
 
@@ -569,7 +565,7 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 **Begründung:**
 
--Profile und FOR-Profile PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteile einer Gesundheitsanwen- dungen-Verordnung ab.
+-Profile und FOR-Profile Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteile einer Gesundheitsanwen- dungen-Verordnung ab.
 
 
 ---
@@ -585,8 +581,8 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 | SER | 84 | extension:SER.value[x]:value- Boolean |  |
 | Unfallinformationen | 72 | extension:Unfallinformationen |  |
 | Unfallkennzeichen | 73 | extension:Unfallinformatio- |  |
-| Unfalltag | 74 | extension:Unfallinformatio- | WENN    ANSONSTEN  WENN |
-| Name des Unfallbetriebs | 75 | extension:Unfallinformatio- | WENN     ANSONSTEN |
+| Unfalltag | 74 | extension:Unfallinformatio- | WENN das Feld ID 73 gleich "1" oder   ANSONSTEN  WENN |
+| Name des Unfallbetriebs | 75 | extension:Unfallinformatio- | WENN das Feld ID 73 gleich "2" ist,   ANSONSTEN |
 | Spezifische Verordnungs- | 81 | code[x] |  |
 | ID der Verordnungseinheit | 82 | code[x]:codeCodeableCon- cept.coding.code |  |
 | Name der Verordnungsein- | 83 | code[x]:codeCodeableCon- |  |
@@ -607,16 +603,22 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 - 1 aufgeführten Datenfelder zu befül-
 
-daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
+daten (PZN) nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
 
 
 ---
 
+- 1. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Composition muss wie folgt  erfolgen:
+
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium 1 aufgeführten Datenfelder zu befül-
+
+- len.
+
 | KBV_PR_EVDGA_HEALTHAPPREQUEST | | | |
 |---|---|---|---|
-| Referenzierte Instanz | ID gemäß Ta- belle 11 |  | Bedingung |
+| Referenzierte Instanz | ID gemäß Ta- belle 11 | FHIR®-Element | Bedingung |
 | KBV_PR_FOR_Coverage | 7 + 9-12 + | insurance.reference = <UUID der Instanz> | Instanz gemäß P4-04 aus sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference = <UUID der Instanz> | Instanz gemäß P4-05 aus sches_Handbuch_DiMus] |
+| KBV_PR_FOR_Patient | 33 + 35-38 | subject.reference = <UUID der Instanz> | Instanz gemäß P4-05 aus sches_Handbuch_DiMus] |
 | KBV_PR_FOR_Practitioner | 41 + 42a/b/c | requester.reference = <UUID der Instanz> | Instanz gemäß P4-01 aus sches_Handbuch_DiMus] |
 
 **Tabelle 7: Referenzierte Instanzen KBV_PR_EVDGA_HealthAppRequest**
@@ -631,22 +633,16 @@ Die Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Composition als fachl
 
 Die Composition definiert die Gesamtheit von Informationen, die zu einem einzigen logischen Dokument  zusammengefügt werden sollen und bildet den fachlichen Rahmen der elektronischen Verordnung digitaler  Gesundheitsanwendungen.
 
-#### Akzeptanzkriterium:
-
-- 1. Das Mapping der Informationen aus Kapitel 4 auf das Profil KBV_PR_EVDGA_Composition muss wie folgt  erfolgen:
+**Akzeptanzkriterium:**
 
 | KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
-|  | IDs gemäß Tabelle 11 |  | Bedingung (Feldnr. = IDs gemäß Tabelle 11) |
+| Daten | IDs gemäß Tabelle 11 | FHIR®-Mapping | Bedingung (Feldnr. = IDs gemäß Tabelle 11) |
 | Dokumententyp | 2 | type = „e16 |  |
-| Prüfnummer | 4 | author.type = „Device“   author.identifier | WENN     ANSONSTEN |
+| Prüfnummer | 4 | author.type = „Device“   author.identifier | WENN  das Feld ID 7 gleich "GKV" oder   ANSONSTEN |
 | Kennzeichen Rechtsgrund- | 17 | extension:rechtsgrundlage.va- | WENN     ANSONSTEN |
 
-**Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
-
-- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium  len.
-
-14-16 + 26 33 + 35-38 + 44 - 49, 147 FHIR®-Element [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- [KBV_ITA_VGEX_Techni- Daten FHIR®-Mapping lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. - 1 aufgeführten Datenfelder zu befül-
+14-16 + 26 [KBV_ITA_VGEX_Techni- 19a-25 + 28- [KBV_ITA_VGEX_Techni- + 44 - 49, 147 [KBV_ITA_VGEX_Techni- „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR _EVDGA_Composition**
 
 
 ---
@@ -662,11 +658,11 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 | KBV_PR_EVDGA_COMPOSITION | | | |
 |---|---|---|---|
 | Referenzierte Instanz | ID gemäß Ta- belle 11 | FHIR®-Element | Bedingung |
-| KBV_PR_EVDGA_HealthAp | 72-75 + 77 + | section:Verordnung_e-  <UUID | Instanz gemäß P35-22 |
+| KBV_PR_EVDGA_HealthAp | 72-75 + 77 + | section:Verordnung_e-  section:Verordnung_e- | Instanz gemäß P35-22 |
 | KBV_PR_FOR_Patient | 19a-25 + 28- | subject.reference = <UUID der Instanz> | Instanz gemäß P4-05 aus sches_Handbuch_DiMus] |
-| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | author .type = „Practitioner“   author.reference = | Instanz gemäß P4-01 aus sches_Handbuch_DiMus] |
+| KBV_PR_FOR_Practitioner | 41 + 42a/b/c | author .type = „Practitioner“   author.reference =  <UUID der Instanz> | Instanz gemäß P4-01 aus sches_Handbuch_DiMus] |
 | KBV_PR_FOR_Practitioner | 51 + 52a/c | attester.party.reference = | Instanz gemäß P4-01 aus sches_Handbuch_DiMus]  P35-31 ist zu berücksichtigen |
-| KBV_PR_FOR_Coverage | 7 + 9-12 + | section:Krankenversicherungs- | Instanz gemäß P4-04 aus sches_Handbuch_DiMus] |
+| KBV_PR_FOR_Coverage | 7 + 9-12 + | section:Krankenversicherungs-  section:Krankenversicherungs- | Instanz gemäß P4-04 aus sches_Handbuch_DiMus] |
 | KBV_PR_FOR_Organization | 61a/b/c/d/e | custodian.reference = <UUID der Instanz> | Instanz gemäß P4-03 aus sches_Handbuch_DiMus] |
 | KBV_PR_FOR_Practitioner- | 43 | section:ASV-Ausue- bung.code.coding.code = „FOR_PractitionerRole“   section:ASV-Ausuebung.en- try.reference = <UUID der In- stanz> | Instanz gemäß P4-02 aus sches_Handbuch_DiMus] |
 
@@ -681,15 +677,9 @@ pRequest 80, 82-83 DiGA.code.coding.code = Prescription DiGA.entry.reference = 3
 
 ---
 
-**Begründung:**
+- 1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen muss die Soft-
 
-Das Bundle ermöglicht das Zusammentragen von KBV FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet.
-
-Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der elektronischen Verord- nung digitaler Gesundheitsanwendungen in die TI gemäß den Vorgaben der gematik [gemSysL_eRp].
-
-**Akzeptanzkriterium:**
-
-- 1. Für die Übermittlung der elektronischen Verordnung digitaler Gesundheitsanwendungen ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.
+- ware ein Bundle gemäß KBV_PR_EVDGA_Bundle mit den vollständigen Instanzen der erforderlichen  KBV-Profile erstellen können.
 
 - a) Dieses Profil muss unter dem FHIR Element „entry.resource“ zuerst die Instanz des Profils
 
@@ -699,14 +689,34 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 
 - folgen:
 
+- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder automa-
+
+- tisch befüllt werden.
+
+- 1. Die Software muss in dem Profil KBV_PR_EVDGA_Composition ermöglichen, dass neben der ausstellen-
+
+- den Person (über Element „author.reference“ und Element „author.type = „Practitioner“) auch die ver-
+
+- antwortliche Person (über Element „attester.party.reference hinterlegt werden kann.
+
+- a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type = „Practitioner“ im Profil
+
+**Begründung:**
+
+Das Bundle ermöglicht das Zusammentragen von KBV-Profilen mit Kontext in einer einzigen Instanz. In
+
+FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet.
+
+Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der elektronischen Verord- nung digitaler Gesundheitsanwendungen in die TI gemäß den Vorgaben der gematik [gemSysL_eRp].
+
+**Akzeptanzkriterium:**
+
 | KBV_PR_EVDGA_BUNDLE | | | |
 |---|---|---|---|
 | Daten | IDs gemäß Tabelle 11 | FHIR®-Mapping | Bedingung |
-| Dokumenten-ID | 5 | identifier | gemäß den Vorgaben der gematik nenten der TI  P35-32 ist zu berücksichtigen |
+| Dokumenten-ID | 5 | identifier | [gemILF_PS_eRP] über die Kompo- nenten der TI  P35-32 ist zu berücksichtigen |
 
 **Tabelle 10: Mapping KBV_PR_EVDGA_Bundle**
-
-- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium  tisch befüllt werden.
 
 **3.5.3** **Spezifische Vorgaben zum Umgang mit den Profilen einer elektronischen Gesundheitsanwen-** **dungen-Verordnung**
 
@@ -714,35 +724,17 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 |---|---|
 | P35-31 | Abbildung verantwortliche Person in KBV_PR_EVDGA_ |
 
-Die elektronische Verordnung digitaler Gesundheitsanwendungen die Verordnung ausstellt, auch zusätzlich eine für die Verordnung verantwortliche Person zu hinterlegen.
+Die elektronische Verordnung digitaler Gesundheitsanwendungen ermöglicht es neben der Person, welche
+
+die Verordnung ausstellt, auch zusätzlich eine für die Verordnung verantwortliche Person zu hinterlegen.
 
 **Begründung:**
 
-Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weiterbildung handelt, ist es  ggfs. nötig, den zur Weiterbildung ermächtigten Arzt (im vertragsärztlichen Bereich hinterlegen. Gleiches gilt im Rahmen von Vertretungssituationen. In Papierform ermöglicht bisher der Arzt- stempel eine Zuordnung zum verantwortlichen Vertragsarzt / Facharzt.
+Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weiterbildung handelt, ist es  ggfs. nötig, den zur Weiterbildung ermächtigten Arzt (im vertragsärztlichen Bereich und im Krankenhaus) zu
 
-**Akzeptanzkriterium:**
+hinterlegen. Gleiches gilt im Rahmen von Vertretungssituationen. In Papierform ermöglicht bisher der Arzt- stempel eine Zuordnung zum verantwortlichen Vertragsarzt / Facharzt.
 
-- 1. Die Software muss in dem Profil KBV_PR_EVDGA_ den Person (über Element „author.reference“ und Element „
-
-- antwortliche Person (über Element „attester.party.reference
-
-- a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type
-
--Profilen mit Kontext in einer einzigen Instanz. In - muss die Soft-
-
--
-
-- 2 aufgeführten Datenfelder automa-
-
-ermöglicht es neben der Person, welche
-
-und im Krankenhaus) zu
-
-- Composition ermöglichen, dass neben der ausstellen- author.type = „Practitioner“) auch die ver-
-
-- hinterlegt werden kann.
-
-[gemILF_PS_eRP] über die Kompo- Composition - = „Practitioner“ im Profil
+gemäß den Vorgaben der gematik Composition **Akzeptanzkriterium:**
 
 
 ---
@@ -765,7 +757,7 @@ und im Krankenhaus) zu
 
 - Die Angabe einer verantwortlichen Person ist in der zahnärztlichen Versorgung weder im Rahmen der  Weiterbildung noch im Vertretungsfall notwendig. Eine Klarstellung dieses Sachverhaltes ist in der Wei- terentwicklung der FHIR-Profile vorgesehen.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-32 | Zu hinterlegender Identifikator in der Bundle-Instanz |
 
@@ -787,7 +779,7 @@ Durch die Verwendung einer Rezept-ID, welche vom E-Rezept-Fachdienst der gematik
 
 - KBV_PR_EVDGA_Bundle hinterlegen.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-33 | Vorgaben für die elektronische Verordnung zu Lasten einer gesetzlichen Unfallversicherung |
 
@@ -805,7 +797,7 @@ Die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversich
 
 - a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
+- KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
 
 
 ---
@@ -846,7 +838,7 @@ Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRP] Anforderung A_22893).
 
 - 2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
 
-|  |  |
+| OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | O35-35 | Festlegung der ausstellenden Person zum Signaturzeitpunkt |
 
@@ -866,7 +858,7 @@ Für eine valide Verordnung muss, die im FHIR-Verordnungsdatensatz hinterlegte a
 
 - 1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver-
 
-OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
+- ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
 
 
 ---
@@ -895,7 +887,7 @@ OPTIONALE FUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN- or
 
 - b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische Aktualisie- rung zu deaktivieren.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P35-37 | Vorgaben für die elektronische Verordnung zu Lasten einer privaten Krankenversicherung |
 
@@ -916,8 +908,6 @@ Die privaten Krankenversicherungen nehmen nicht am Verfahren der elektronischen 
 - b) Die Software muss sicherstellen, dass das Element „identifier.type.coding.code“ im Profil  KBV_PR_FOR_Patient nicht mit dem Wert „PKV“ versehen werden kann.
 
 - c) Die Software muss sicherstellen, dass das Element „extension.value[x].system“ im Profil  KBV_PR_FOR_Composition nicht mit dem Wert „[https://fhir.kbv.de/CodeSys-](https://fhir.kbv.de/CodeSys-) tem/KBV_CS_SFHIR_KBV_PKV_TARIFF“ versehen werden kann.
-
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 
 ---
@@ -952,7 +942,7 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 - 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung  Rezept [gemILF_PS_eRP] zu entnehmen.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P4-02 | Darstellung der xHTML-Repräsentation vor Signierung |
 
@@ -978,7 +968,7 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 Weise anzeigen - [eVDGA-Stylesheet] anzeigen
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - -Repräsentation auf Basis
+- -Repräsentation auf Basis
 
 
 ---
@@ -994,7 +984,7 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - -Rep
 
 | PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
-| P5-01 | Umsetzung der Vorgaben der gematik zur |
+| P5-01 | nung |
 
 Die Übertragung der elektronischen Verordnung digitaler Gesundheitsanwendungen erfolgt in der TI über
 
@@ -1044,7 +1034,7 @@ muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen
 
 nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor- gungssituationen, wie bspw. Haus- und Heimbesuchen.
 
-elektronischen Gesundheitsanwendungen-Verord- nung
+Umsetzung der Vorgaben der gematik zur elektronischen Gesundheitsanwendungen-Verord-
 
 
 ---
@@ -1075,7 +1065,7 @@ Für die fehlerfreie Weiterverarbeitung der elektronischen Verordnung digitaler 
 
 **4.2** **BEREITSTELLUNG EINES PATIENTENAUSDRUCKS**
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-01 | Bereitstellung eines „Ausdruck zur Einlösung |
 
@@ -1117,7 +1107,7 @@ die Gesundheitsanwendun-
 
 -
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Ihres E-Rezeptes Ihrer Verordnung: DIGA-
+Ihres E-Rezeptes Ihrer Verordnung: DIGA-
 
 
 ---
@@ -1284,7 +1274,7 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss der 
 
 - Nachname des Versicherten
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-06 | Aufzudruckende |
 
@@ -1320,7 +1310,7 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das 
 
 - gemäß Ta-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Informationen in dem Bereich „geb oren am“
+Informationen in dem Bereich „geb oren am“
 
 ---
 
@@ -1328,7 +1318,7 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Inform
 
 - 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25 - hinterlegen.
 
-|  | |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN | |
 |---|---|
 | P62-14 | Aufzudruckende Informationen in dem Bereich "Versichertennummer" |
 
@@ -1344,7 +1334,7 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss die 
 
 - a) VersichertenID (ID 19a gemäß Tabelle 58)
 
-|  | |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN | |
 |---|---|
 | P62-15 | Aufzudruckende Informationen in der Überschrift des Patientenausdruckes |
 
@@ -1400,7 +1390,7 @@ DiGA aufdrucken.
 
 , muss aufgedruckt wer-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN - ge-
+- ge-
 
 
 ---
@@ -1433,9 +1423,9 @@ Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt s
 
 - Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in wel- chem die Verordnung ausgestellt wurde.
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
-| P62-08 |  |
+| P62-08 | Aufzudruckende Informationen in dem Block „ausgestellt am“ |
 
 Die Software muss auf dem Ausdruck das Ausstellungsdatum der Verordnung aufdrucken.
 
@@ -1475,11 +1465,10 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 
 - gemäß Ta-
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN Aufzudruckende Informationen in dem Block „ausgestellt am“
 
 ---
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-09 | Aufzudruckende Verordnungsdaten einer Gesundheitsanwendungen-Verordnung |
 
@@ -1547,12 +1536,12 @@ Verord-
 
 - 1
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN -
+-
 
 
 ---
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-10 | Vorgaben für den 2D-Code-Aufdruck für den Einzeltoken |
 
@@ -1620,11 +1609,10 @@ Gesundheitsanwendungen-Verordnungen erfolgen soll, muss nur dieser 2D-Code gesca
 
 - mindestens 3mm vorhanden ist.
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 ---
 
-|  |  |
+| PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN |  |
 |---|---|
 | P62-12 | Vorgaben für den Informationsbereich |
 
@@ -1684,7 +1672,6 @@ Schriftgröße und Schriftart definiert.
 
 - 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben
 
-PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 ---
 
@@ -1695,17 +1682,15 @@ PFLICHTFUNKTION ELEKTRONISCHE VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
 
 # 4 ABZUBILDENDE INFORMATIONEN
 
-In der nachfolgenden Tabelle 11 sind sämtliche für die Abbildung der elektronischen Verordnung digitaler
-
-Gesundheitsanwendungen relevanten Informationen in Form einer Felderliste enthalten.
+In der nachfolgenden Tabelle 11 sind sämtliche für die Abbildung der elektronischen Verordnung digitaler  Gesundheitsanwendungen relevanten Informationen in Form einer Felderliste enthalten.
 
 Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 - Fortlaufende Zeilen-Nummer zum besseren Mapping der Inhalte der Tabelle 11 - **1; 2; 3; 4; 5 und 6**
 
-- Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Blö- cken -
+- Darstellung von Hierarchieebenen, zur fachlogischen Gruppierung der einzelnen Feldinhalte zu Blö- cken
 
--  6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
+- 6 entspricht der kleinsten Hierarchieebene, 1 entspricht der höchsten
 
 - Durch ein Kreuz in der entsprechenden Zeile erfolgt die Zuordnung zu einer Ebene.
 
@@ -1715,23 +1700,21 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 - Angabe zur zulässigen Zeilenlänge (Zeichenanzahl inklusive Leerzeichen) des Inhaltes; Besondere - Ausprägungen sind:
 
--  sofern ein Boolean-Wert vorliegt -  „Bool“:
+- „Bool“:  sofern ein Boolean-Wert vorliegt
 
-- sofern der Inhalt kodiert übertragen wird -  „Kodiert“:
+- „Kodiert“:  sofern der Inhalt kodiert übertragen wird
 
 - Leer:  sofern es sich um einen Block handelt - **Wiederh.**
 
--
+- Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:
 
--  Abbildung der Kardinalitäten; die folgenden Ausprägungen sind möglich:
+- 1..1 Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin-
 
-- Feld muss genau einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw. Bedin-
+- gung des zugeordneten Blocks
 
--  1..1  gung des zugeordneten Blocks
+- 1..n Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
 
-- Feld muss mindestens einmal vorhanden sein, ggfs. in Abhängigkeit der Kardinalität bzw.
-
--  1..n  Bedingung des zugeordneten Blocks
+- Bedingung des zugeordneten Blocks
 
 - 0..1 Feld kann maximal einmal vorhanden sein, ggfs. in Abhängigkeit der dem Feld zugeordne-
 
@@ -1739,9 +1722,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 - **Beschreibung**
 
--
-
--  Ggfs. detaillierte Beschreibung des Feldes, sofern nötig - **Bedingung**
+- Ggfs. detaillierte Beschreibung des Feldes, sofern nötig - **Bedingung**
 
 - Logische Bedingung, an welche die Befüllung eines Feldes oder eines gesamten Blocks geknüpft ist
 
@@ -1790,77 +1771,77 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des Un- | WENN    ANSONSTEN  WENN |
 | 75 |  |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des Ar- | WENN     ANSONSTEN |
 | 13 |  | x |  |  |  |  | Versichertenstatus | Kodiert | 0..1 | Dieser Block enthält Angaben zum | WENN     ANSONSTEN |
-| 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der Versi- |  |
+| 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | cherung, z.B. ob der Versicherte Fami- |  |
 | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere Per- |  |
 
-(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. cherung, z.B. ob der Versicherte Fami- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional.
+(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. Dieses Feld enthält die Art der Versi- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease-Ma- |  |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  |
+| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | nagement-Programm (DMP), in dem |  |
+| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | lage, auf Basis derer die Leistung er- |  |
 | 26 |  |  | x |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |
 | 18 | x |  |  |  |  |  | Versicherter |  | 1..1 | Dieser Block enthält Daten zum Versi- |  |
 | 19 |  | x |  |  |  |  | Identifikator des Versicherten |  | 0..1 | Dieser Block enthält den Identifikator | WENN    ANSONSTEN |
 | 19a |  |  | x |  |  |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID |  |
 | 140 |  | x |  |  |  |  | Name des Versicherten |  | 1..1 | Dieser Block enthält die Bestandteile |  |
 
-(GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). lage, auf Basis derer die Leistung er- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. cherten. der Person, z.B. die Krankenversiche- rungsnummer der GKV. der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  ist dieser Block Pflicht.  ist dieser Block optional.
+(GRAU = BLOCK) DERH. Dieses Feld enthält das Disease-Ma- der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). Dieses Feld enthält die Rechtsgrund- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. cherten. der Person, z.B. die Krankenversiche- rungsnummer der GKV. der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  ist dieser Block Pflicht.  ist dieser Block optional.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Nachnamen |  |
+| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Versicherten; mehrere Vornamen sind |  |
+| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | des Versicherten. |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den akademischen |  |
-| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
+| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | als Bestandteil des Nachnamens, z.B. |  |
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das Geburtsdatum | WENN |
+| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | oder | 1..1 | des Versicherten. | dieses Feld ein Datum enthält, |
 | 27 |  | x |  |  |  |  | Straßenadresse des Versicher- |  | 0..1 | Dieser Block enthält Informationen zur | WENN ANSONSTEN |
 | 28 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
 
-(GRAU = BLOCK) chertenanschrift oder NULL DERH. Versicherten; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. des Versicherten. Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“. als Bestandteil des Nachnamens, z.B. „Freiherr“, „Gräfin“; mehrere Namens- zusätze sind durch Blank getrennt. Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“ ; mehrere Vor- satzwörter sind durch Blank getrennt. des Versicherten. Straßenadresse des Versicherten. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
+(GRAU = BLOCK) chertenanschrift 4..10 NULL DERH. Dieses Feld enthält den Vornamen des durch Blank oder Bindestrich getrennt. Dieses Feld enthält den Nachnamen Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“. Dieses Feld enthält den Namenszusatz „Freiherr“, „Gräfin“; mehrere Namens- zusätze sind durch Blank getrennt. „von“, „von der“, „zu“ ; mehrere Vor- satzwörter sind durch Blank getrennt. Dieses Feld enthält das Geburtsdatum Straßenadresse des Versicherten. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). DANN darf dieses nicht nach dem Ausstellungsdatum liegen. der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN   ANSONSTEN WENN   ANSONSTEN |
+| 29 |  |  | x |  |  |  | Postleitzahl der Versichertenan- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN das Feld "Kostenträgertyp" gleich "GKV"  ANSONSTEN WENN   ANSONSTEN |
 | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 31 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  |
 | 32 |  |  | x |  |  |  | Hausnummer der Versicherten- | 1..9 | 0..1 | Dieses Feld enthält die Hausnummer. |  |
 | 33 |  |  | x |  |  |  | Anschriftenzusatz der Versicher- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
 | 34 |  | x |  |  |  |  | Postfachanschrift des Versi- |  | 0..1 | Dieser Block enthält Informationen zur | WENN ANSONSTEN |
 
-(GRAU = BLOCK) tenanschrift DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Postfachanschrift des Versicherten. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. der Block "Straßenadresse des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
+(GRAU = BLOCK) tenanschrift DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Postfachanschrift des Versicherten. der Versicherte sich nicht elektronisch ausgewiesen hat und oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. der Block "Straßenadresse des Versicherten" nicht angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert 1..3 | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
-| 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN   ANSONSTEN WENN   ANSONSTEN |
+| 35 |  |  | x |  |  |  | Wohnsitzländercode der Versi- | Kodiert 1..3 | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
+| 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN hat und  ANSONSTEN WENN   ANSONSTEN |
 | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. |  |
 | 38 |  |  | x |  |  |  | Postfach der Versicherten-Post- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |
 | 39 | x |  |  |  |  |  | Stempelinformationen |  | 1..1 | Die Angaben in diesem Block entspre- |  |
 | 40 |  | x |  |  |  |  | Ausstellende/ verschreibende |  | 1..1 | Dieser Block enthält die Daten der |  |
 | 146 |  |  | x |  |  |  | Qualifikation der ausstellen- |  | 1..1 | Dieser Block enthält Informationen |  |
 
-(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person den/ verschreibenden Person DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. ausstellenden/ verschreibenden Per- son. über die Qualifikation der ausstellen- den/ verschreibenden Person der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional.
+(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person den/ verschreibenden Person DERH. Dieses Feld enthält den Wohnsitzlän- dercode (entsprechend Gemeinsames Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. ausstellenden/ verschreibenden Per- son. über die Qualifikation der ausstellen- den/ verschreibenden Person der Versicherte sich nicht elektronisch ausgewiesen das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- |  |
+| 41 |  |  |  | x |  |  | Typ der ausstellenden/ ver- | Kodiert | 1..1 | z.B. Arzt, Arzt in Weiterbildung. |  |
 | 49 |  |  |  | x |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN  ANSONSTEN |
 | 42 |  |  | x |  |  |  | Identifikator der ausstellenden/ |  | 0..1 | Dieser Block enthält den Identifikator | WENN   ANSONSTEN WENN  ANSONSTEN |
 
-(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. zeichnung der verschreibenden Person, z.B. Arzt, Arzt in Weiterbildung. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppennummer der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional.
+(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. Dieses Feld enthält einen Typ zur Kenn- zeichnung der verschreibenden Person, zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppennummer der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional.
 
 ---
 
@@ -1878,49 +1859,49 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 141 |  |  | x |  |  |  | Name der ausstellenden/ ver- |  | 1..1 | Dieser Block enthält den Namen der |  |
-| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
+| 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Blank oder Bindestrich getrennt. |  |
 | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
+| 46 |  |  |  | x |  |  | Titel der ausstellenden/ ver- | 1..100 | 0..1 | rer. nat.“. |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der ausstellen- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
 
-(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. der Person. Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank getrennt.
+(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Dieses Feld enthält den Vornamen der Person; mehrere Vornamen sind durch der Person. Dieses Feld enthält den akademischen Grad der Person, z.B. „Dr. med.“, „Dr. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 50 |  | x |  |  |  |  | Verantwortliche Person |  | 0..1 | Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre- | WENN   ANSONSTEN WENN   ANSONSTEN |
+| 50 |  | x |  |  |  |  | Verantwortliche Person |  | 0..1 | Dieser Block enthält die Daten der ver- Der Block dient dazu, die entspre- | WENN   ist und das Feld "Identifikator   ANSONSTEN |
 | 148 |  |  | x |  |  |  | Qualifikation der verantwortli- |  | 1..1 | Dieser Block enthält Informationen |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen Per- | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur Kenn- | Das Feld „Typ der verantwortlichen Person“ darf |
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der verant- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  |
 
-(GRAU = BLOCK) DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. über die Qualifikation der verantwort- lichen Person. zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. das Feld „Typ der ausstellenden/ verschreiben- den Person" gleich „03“ ist und das Feld "Identifi- kator der ausstellenden/ verschreibenden Per- son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.
+(GRAU = BLOCK) DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. über die Qualifikation der verantwort- lichen Person. zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. das Feld „Typ der ausstellenden/ verschreiben- den Person" gleich „03“ ist und das Feld "Identifi- kator der ausstellenden/ verschreibenden Per- son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. ANSONSTEN WENN das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN  ANSONSTEN |
-| 52 |  |  | x |  |  |  | Identifikator der verantwortli- |  | 0..1 | Dieser Block enthält den Identifikator | WENN     ANSONSTEN |
+| 52 |  |  | x |  |  |  | Identifikator der verantwortli- |  | 0..1 | Dieser Block enthält den Identifikator | WENN   ANSONSTEN WENN  ANSONSTEN |
 | 52a |  |  |  | x |  |  | Arztnummer der verantwortli- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN ANSONSTEN |
 
-(GRAU = BLOCK) verantwortlichen Person chen Person chen Person DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppen- nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+(GRAU = BLOCK) verantwortlichen Person chen Person chen Person DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV -Fachgruppen- nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN ANSONSTEN |
+| 52b |  |  |  | x |  |  | Zahnarztnummer der verant- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | „01“ ist, ANSONSTEN |
 | 52c |  |  |  | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |
 | 142 |  |  | x |  |  |  | Name der verantwortlichen |  | 1..1 | Dieser Block enthält den Namen der |  |
-| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  |
+| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | mehrere Vornamen sind durch Blank |  |
 | 54 |  |  |  | x |  |  | Nachname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | Dieses Feld enthält den akademischen |  |
+| 55 |  |  |  | x |  |  | Titel der verantwortlichen Per- | 1..100 | 0..1 | rer. nat.“. |  |
 | 56 |  |  |  | x |  |  | Namenszusatz der verantwortli- | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz |  |
 | 57 |  |  |  | x |  |  | Vorsatzwort der verantwortli- | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
 
-(GRAU = BLOCK) DERH. wortlichen Person Person eine Zahnarztnummer (ZANR). das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. chen Person Person eine Telematik-ID. Person Person. Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person der Person. son Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. chen Person als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. chen Person Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt.
+(GRAU = BLOCK) wortlichen Person chen Person Person Person Person son chen Person chen Person DERH. Person eine Zahnarztnummer (ZANR). Person eine Telematik-ID. Person. Dieses Feld enthält den Vornamen der Person; oder Bindestrich getrennt. der Person. Dieses Feld enthält den akademischen Grad der Person, z.B. „Dr. med.“, „Dr. als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt. WENN das Feld „Typ der verantwortlichen Person“ gleich DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden.
 
 ---
 
@@ -1936,35 +1917,35 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab: - **ID**
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein Institutions- | WENN ANSONSTEN |
+| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | kennzeichen (IK), welches von der | WENN ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN ANSONSTEN |
 | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN ANSONSTEN |
 | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID |  |
 | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 | 0..1 | Dieses Feld enthält die Bezeichnung |  |
 | 143 |  |  | x |  |  |  | Straßenadresse der Einrichtung |  | 1..1 | Dieser Block enthält Daten zur Stra- |  |
 
-(GRAU = BLOCK) DERH. kennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+(GRAU = BLOCK) DERH. Dieses Feld enthält ein Institutions- ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
 
 ---
 
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Dieses Feld enthält den Wohnsitzlän- |  |
+| 63 |  |  |  | x |  |  | Wohnsitzländercode der Ein- | Kodiert | 0..1 | Rundschreiben DEÜV Anlage 08). |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
-| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  |
+| 65 |  |  |  | x |  |  | Ortsname der Einrichtung | 1..40 | 1..1 | Mehrere Namensbestandteile sind |  |
 | 66 |  |  |  | x |  |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den Straßennamen. |  |
 | 67 |  |  |  | x |  |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die Hausnummer. |  |
 | 68 |  |  |  | x |  |  | Anschriftenzusatz der Einrich- | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzu- |  |
-| 144 |  |  | x |  |  |  | Kontaktdaten der Einrichtung |  | 1..1 | Dieser Block enthält die Kontaktdaten |  |
-| 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die Telefonnum- |  |
+| 144 |  |  | x |  |  |  | Kontaktdaten der Einrichtung |  | 1..1 | der Einrichtung. |  |
+| 69 |  |  |  | x |  |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | mer. |  |
 | 70 |  |  |  | x |  |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die Faxnummer. |  |
-| 71 |  |  |  | x |  |  | E-Mail der Einrichtung | 1..256 | 0..1 | Dieses Feld enthält die E-Mail-Adresse |  |
+| 71 |  |  |  | x |  |  | E-Mail der Einrichtung | 1..256 | 0..1 | der Einrichtung. |  |
 | 78 | x |  |  |  |  |  | Verordnungsdaten |  | 1..1 | In diesem Block werden alle Verord- |  |
-| 79 |  | x |  |  |  |  | Allgemeine Verordnungsdaten |  | 1..1 | Dieser Block enthält die allgemeinen |  |
+| 79 |  | x |  |  |  |  | Allgemeine Verordnungsdaten |  | 1..1 | Verordnungsdaten. |  |
 | 80 |  |  | x |  |  |  | Ausstellungsdatum der Verord- | 10 | 1..1 | Dieses Feld enthält das Ausstellungsda- |  |
 | 84 |  |  | x |  |  |  | SER |  | 1..1 | Dieses Feld enthält die Kennzeichnung, |  |
 
-(GRAU = BLOCK) DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. der Einrichtung. der Einrichtung. nungsdaten angegeben. Verordnungsdaten. tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt.
+(GRAU = BLOCK) DERH. Dieses Feld enthält den Wohnsitzlän- dercode (entsprechend Gemeinsames Dieses Feld enthält den Ortsnamen. durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Dieser Block enthält die Kontaktdaten Dieses Feld enthält die Telefonnum- Dieses Feld enthält die E-Mail-Adresse nungsdaten angegeben. Dieser Block enthält die allgemeinen tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt.
 
 ---
 

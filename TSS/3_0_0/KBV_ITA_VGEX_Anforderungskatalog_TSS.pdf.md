@@ -84,9 +84,11 @@ Vermittlungscode bei Muster 6 und PTV 11 03 PTV 11 Vorgaben P4-04 und P4-05 4107
 
 ---
 
-# 1 EINLEITUNG - und -
+# 1 EINLEITUNG
 
-Gemäß § 75 SGB V und Anlage 28 des Bundesmantelvertrages müssen Vertragsärzten psychotherapeuten mittels einer definierten Schnittstelle mit den Terminservicestellen kommunizieren  können.
+Gemäß § 75 SGB V und Anlage 28 des Bundesmantelvertrages müssen Vertragsärzten- und -
+
+psychotherapeuten mittels einer definierten Schnittstelle mit den Terminservicestellen kommunizieren  können.
 
 ## 1.1 ZIELBESTIMMUNG
 
@@ -102,9 +104,9 @@ Eine **konditionale Pflichtfunktion** dagegen muss nur dann umgesetzt werden, we
 
 Bedingungen zutreffen. Diese werden am Ende direkt nach Festlegung der Anforderung beschrieben.
 
-Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die  Softwareherstellers.
+Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetzt werden können. Die
 
-Entscheidung hierzu liegt im Ermessen des jeweiligen
+Entscheidung hierzu liegt im Ermessen des jeweiligen Softwareherstellers.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
@@ -114,7 +116,7 @@ Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 Konditionale Pflichtfunktionen sind wie folgt gekennzeichnet:
 
-|  |  |
+| KONDITIONALE PFLICHTFUNKTION |  |
 |---|---|
 | KP4-15 | Funktionsbezeichnung |
 
@@ -124,8 +126,6 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | O4-20 | Funktionsbezeichnung |
 
-KONDITIONALE PFLICHTFUNKTION
-
 
 ---
 
@@ -133,7 +133,7 @@ KONDITIONALE PFLICHTFUNKTION
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P2-01 | Umsetzung der Terminservicestellen-Schnittstelle zur Anforderung von Vermittlungscodes auf |
+| P2-01 | Basis von KV-Connect |
 
 Die Software muss dem Anwender die Funktionen des eTerminservices auf Basis von KV-Connect
 
@@ -189,7 +189,7 @@ darstellen.
 
 -psycho-
 
-Basis von KV-Connect  AUDITS DER KV.DIGITAL GMBH. PFLICHTFUNKTION
+Umsetzung der Terminservicestellen-Schnittstelle zur Anforderung von Vermittlungscodes auf AUDITS DER KV.DIGITAL GMBH. PFLICHTFUNKTION
 
 ---
 
@@ -260,7 +260,7 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-Wenn der Anwender eine akute und/ oder probatorisch ambulante Psychotherapie bei einem  Psychotherapeuten als zeitnah erforderlich einstuft, muss die Software einen Vermittlungscode verwenden
+Wenn der Anwender eine akute und/ oder probatorisch ambulante Psychotherapie bei einem  Psychotherapeuten als zeitnah erforderlich einstuft, muss die Software einen Vermittlung
 
 und diesen auf PTV11 drucken.
 
@@ -268,23 +268,15 @@ und diesen auf PTV11 drucken.
 |---|---|
 | P3-06 | Bedruckung des Vermittlungscodes auf PTV 11 |
 
-Die Software muss den Vermittlungscode auf Musters PTV 11 drucken.
+Die Software muss den Vermittlungscode auf Musters PTV 11
 
 **Begründung:**
 
-Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, muss dieser auf
-
-Muster PTV 11 gedruckt werden.
+Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, muss dieser auf  Muster PTV 11 gedruckt werden.
 
 **Akzeptanzkriterium:**
 
-- (www.116117.de) sowie der bundesweit
-
-- 1. Das System muss die zurückgegebenen Werte für den Vermittlungscode und URL des
-
-- Terminservices der Internetadresse des eTerminservice  einheitlichen Rufnummer 116117 des Ärztlichen Notdienst Bereitschaftsdienstes in das Freitextfeld - auf PTV11 drucken.
-
-- „Ihr nächster Termin“
+- 1. Das System muss die zurückgegebenen Werte für den Vermittlungscode Terminservices der Internetadresse des eTerminservice  einheitlichen Rufnummer 116117 des Ärztlichen  „Ihr nächster Termin“ auf PTV11 drucken.
 
 **Beispiel:**
 
@@ -292,24 +284,28 @@ Zu 1:
 
 **HINWEIS**
 
+Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode
+
+drucken.
+
+- (www.116117.de) sowie der bundesweit
+
+- Notdienst Bereitschaftsdienstes in das Freitextfeld
+
 und die URL bei der Bedruckung.
 
-Für den Fall, das aufgrund eines Fehlers z.B. fehlerhafte Internetverbindung, kein Vermittlungscode  abgerufen werden konnte, entfällt nur der Vermittlungscode
+scode verwenden - und URL des
 
 
 ---
 
-- „Spezifikation KV-Connect Anwendungsdienst eTerminservice  TSS-116117 Terminservice -
+# 4 UMSETZUNG DER SPEZIFIKATION  TSS-116117 TERMINSERVICE
 
-- Abrechnungsinformation“ in der stets aktuellen Version Version 2.0 [Spec_Terminservice_Abr - Spec_Abrechnungsinformation]
-
-# TSS-116117 TERMINSERVICE
-
-4 UMSETZUNG DER SPEZIFIKATION  ABRECHNUNGSINFORMATION
+ABRECHNUNGSINFORMATION
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P4-01 | – |
+| P4-01 | Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von |
 
 Die Software muss dem Anwender die Schnittstellen-Funktionen des eTerminservices  TSS-
 
@@ -323,15 +319,15 @@ Gemäß § 87a Absatz 3 SGB V erfolgt eine extrabudgetäre Vergütung für Behan
 
 **Akzeptanzkriterium:**
 
-folgender Anforderungsdokumente bereit:
+Die Software stellt dem Anwender die Funktionen gemäß folgender Anforderungsdokumente bereit:
 
-Die Software stellt dem Anwender die Funktionen gemäß
+- „Spezifikation KV-Connect Anwendungsdienst eTerminservice  TSS-116117 Terminservice -
+
+- Abrechnungsinformation“ in der stets aktuellen Version Version 2.0 [Spec_Terminservice_Abr - Spec_Abrechnungsinformation]
 
 **HINWEIS**
 
-kv.digital GmbH.
-
-Der Nachweis der Umsetzung erfolgt im Rahmen eines Audits der
+Der Nachweis der Umsetzung erfolgt im Rahmen eines Audits der kv.digital GmbH.
 
 **4.1** **SUCHFUNKTIONEN FÜR TSS-ABRECHNUNGSINFORMATIONEN**
 
@@ -345,15 +341,11 @@ seine Praxis aus dem System heraus abzurufen.
 
 **Begründung:**
 
-, die über die Terminservicestelle gebuchten Termine abzurufen.
-
-Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstützen, muss der  Anwender die Möglichkeit haben
+Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstützen, muss der  Anwender die Möglichkeit haben, die über die Terminservicestelle gebuchten Termine abzurufen.
 
 **Akzeptanzkriterium:**
 
 - 1) Die Software stellt dem Anwender über die Schnittstelle nach P4-01 die Suchparameter zur Verfügung.
-
--
 
 - a) Die Software speichert alle abgefragten Termine der Terminservicestelle.
 
@@ -363,13 +355,11 @@ Um den Anwender bei seinem Praxismanagement sowie der Abrechnung zu unterstütze
 
 - 2) Alle aus Akzeptanzkriterium (1) umgesetzten Suchparameter können vom Anwender beliebig - kombiniert werden.
 
-- , ohne dass eine erneute
-
-- 3) Der Anwender hat stets Zugriff, auf die in der Software hinterlegten Ergebnisse
+- 3) Der Anwender hat stets Zugriff, auf die in der Software hinterlegten Ergebnisse, ohne dass eine erneute
 
 - Abfrage bei der Terminservicestelle erfolgen muss.
 
-TSS- Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von  Abrechnungsinformationen auf Basis von KV-Connect  - a) Dem Anwender wird das Datum und die Uhrzeit der letzten Aktualisierung angezeigt.
+TSS- Abrechnungsinformationen auf Basis von KV-Connect  - a) Dem Anwender wird das Datum und die Uhrzeit der letzten Aktualisierung angezeigt.
 
 
 ---
@@ -378,7 +368,7 @@ TSS- Umsetzung der eTerminservicestellen-Schnittstelle zur Anforderung von  Abre
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| P4-03 |  |
+| P4-03 | Darstellung der Abfrageergebnisse |
 
 Die Software stellt dem Anwender die Ergebnisse der Abfrage in einer übersichtlichen Form dar.
 
@@ -442,7 +432,7 @@ Software anzuzeigen.
 
 - Termine der Terminservicestelle nach den folgenden Kriterien anzeigen zu lassen, um die Termine
 
-Darstellung der Abfrageergebnisse- manuell einem Schein zuzuordnen:
+- manuell einem Schein zuzuordnen:
 
 
 ---

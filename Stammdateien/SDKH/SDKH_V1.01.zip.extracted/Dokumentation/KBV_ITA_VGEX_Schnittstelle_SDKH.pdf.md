@@ -99,21 +99,19 @@ SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnun
 
 ---
 
-*ABBILDUNGSVERZEICHNI S*
+#### ABBILDUNGSVERZEICHNIS
 
 Abbildung 1 Grundstruktur ehd ................................................................................................
 
 Abbildung 2 Element id ............................................................................................................
 
-Abbildung 3 Element document_type_cd
-
-...............................................................................
+Abbildung 3 Element document_type_cd ...............................................................................
 
 Abbildung 4 Element provider ................................................................................................
 
 Abbildung 5 Element interface ...............................................................................................
 
-* Version 1.01 9
+9
 
 9
 
@@ -126,51 +124,33 @@ Abbildung 5 Element interface ..................................................
 
 ---
 
-*TABELLENVERZEICHNIS*
+#### TABELLENVERZEICHNIS
 
 Tabelle 1 Beschreibung der Kardinalitäten
 
-..............................................................................
-
-7
-
-Tabelle 2 Beschreibung der Strukturelement- Symbole
-
-............................................................ 8
+Tabelle 2 Beschreibung der Strukturelement-
 
 Tabelle 3 Beschreibung sonstiger Symbole
 
-.............................................................................
+.............................................................................. 7
 
-8
+Symbole............................................................ 8
 
-* Version 1.01
+............................................................................. 8
 
 
 ---
 
-*XML - CODE VERZEICHNIS*
+| **IT in** | **der** | **Arztpraxis** |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  |  | Schnittstellenbeschreibung | SDKH |  | (Kodierhilfe-Stammdatei) |  |  |
+|  | **XML-** | **CODE** |  |  | **VERZEICHNIS** |  |  |
+| XML-Code | 1 ehd |  |  |  | Beispiel......................................................................................................... | | 9 |
+|  | XML--headerCode | 2 ehd |  |  | ........................................................................................................ | | 11 |
+|  | XML--bodyCode | 3 ehd |  |  | ........................................................................................................... | | 13 |
+|  |  | **KBV_ITA_VGEX_Schnittstelle_SDKH** | | * | Version 1.01 | Seite | 6 14von |
 
-XML -Code 1 ehd Beispiel .........................................................................................................
-
-9
-
-Code 2 ehd
-
-XML --header
-
-........................................................................................................
-
-11
-
-XML --bodyCode 3 ehd
-
-...........................................................................................................
-
-13
-
-* Version 1.01
-
+XML- CODE VERZEICHNIS XML-Code 1 ehd Beispiel......................................................................................................... Code 2 ehd Code 3 ehd
 
 ---
 
@@ -252,9 +232,11 @@ Die Schnittstelle Stammdatei Kodierhilfe basiert auf der EHD-Richtlinie V1.40
 
 den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden eigene Elemente definiert, die im  Kapitel 4.2 beschrieben werden.
 
-Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  /Kleinschreibung zu b
+Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,
 
-die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
+die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e-/Kleinschreibung zu b
+
+achten.
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus
 
@@ -290,13 +272,13 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation [KBV_ITA_VGEX_EH
 
 ## 4.1 Element header
 
-Spezifikation. Die genaue Beschre
+Der header ist eine Untermenge vom header der EHD-i-Spezifikation. Die genaue Beschre
 
-Der header ist eine Untermenge vom header der EHD-i- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
+bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
 
-- Stammdatei ist die KBV, in das Dokument
+-  Id-Element: Der Herausgeber der XML--Stammdatei ist die KBV, in das Dokument
 
--  Id-Element: Der Herausgeber der XML-- id Element sind folgende Daten anzugeben:
+- id Element sind folgende Daten anzugeben:
 
 - o id-Element im EX-Attribut steht eine eindeutige id (GUID)
 
@@ -319,23 +301,15 @@ z.B. “2010-01-01..“
 
 -  Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or- ganisation (KBV). Die Vorgaben im organization-Element enthalten:
 
-- Element EX- Attribut enthält die Nummer „74“, RT-t-
+- o organization.id-:Element EX- Attribut enthält die Nummer „74“, RT-t-Attribut en
 
-- o organization.id-:
-
-- Attribut en
-
-- 1.2.276.0.76.5.233
-
-- hält den String „“)
+- hält den String „“) 1.2.276.0.76.5.233
 
 - o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes- vereinigung”)
 
 - o (optional) organization.addr-Element Adresse der Organisation („Herbertle- winstr 2, 10623 Berlin“)
 
-- Element Telefonnummer der Organisation
-
-- o (optional) organization.telecom-  („03040052121“)
+- o (optional) organization.telecom- Element Telefonnummer der Organisation - („03040052121“)
 
 **Abbildung 4 Element provider**
 
@@ -345,47 +319,41 @@ z.B. “2010-01-01..“
 
 - o interface.nm-Element im V-Attribut ist der Wert: „Stammdatei Kodierhilfe“ fest  vorgeschrieben.
 
-- Attribut wird die Version der Kodierhilfe Schemata eingetragen
-
-- o version im V--  (z.B. „1.00“).
+- o version im V-- Attribut wird die Version der Kodierhilfe Schemata eingetragen - (z.B. „1.00“).
 
 
 ---
 
-Abbildung 5 Element interface
+**Abbildung 5 Element interface**
 
-XML -Beispiel
+XML-Beispiel
 
-| EX=" ag111105-       </ organization>       </ header > |
+| </organization>       </header> |
 |---|
 
-XML-Code 2 ehd-header
+**XML-Code 2 ehd-header**
 
 ## 4.2 body (Datenbereich)
 
 Im Bereich ***<body>*** liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann
 
-der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh /001“.
+der Schnittstellenerfinder seine eigenen Strukturen definieren. Der Namensraum ist  „urn:ehd/sdkh/001“.
 
-## 4.3 diagnose n_liste
+## 4.3 diagnosen_liste
 
-beinhaltet eine Liste der Diagnosen.
-
-Das Element ***<diagnosen_liste>***
+Das Element ***<diagnosen_liste>*** beinhaltet eine Liste der Diagnosen.
 
 | diagram |  |
 |---|---|
-| namespace | urn:ehd/evl/001 |
+| namespace urn:ehd/evl/001 |  |
 
 ### 4.3.1 diagnose
 
--e-10 Kode, eine Liste mit Hinweisen und eine Liste mit Krit
+Eine Diagnose enthält einen ICD-e-10 Kode, eine Liste mit Hinweisen und eine Liste mit Krit
 
-Eine Diagnose enthält einen ICD rien.
+rien.
 
-* Version 1.01
-
-<header > 2d51- 4016- 831e- cbd9e1a318h9"/> <id RT =" 1.2.276.0.76.5.3.1.1" document_type_cd V =" SDKH "/> <service_tmr  V =" 2011- 01- 01.."/> <origination_dttm  V =" 2011- 02- 02"/> <provider <organization <id EX =" 74" RT =" 1.2.276.0.76.5.233"/> </ provider interface <id EX =" SDKH " RT =" 1.2.276.0.76.5.109"/> <interface.nm  V =" Stammdatei Kodierhilfe"/> version V =" 1.0 0"/> </ interface>
+<header> <id RT="1.2.276.0.76.5.3.1.1" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> document_type_cd V="SDKH"/> <service_tmr V="2011-01-01.."/> <origination_dttm V="2011-02-02"/> <provider> <organization> <id EX="74" RT="1.2.276.0.76.5.233"/> </provider> interface <id EX="SDKH" RT="1.2.276.0.76.5.109"/> <interface.nm V="Stammdatei Kodierhilfe"/> version V="1.00"/> </interface>
 
 ---
 
@@ -395,19 +363,19 @@ Eine Diagnose enthält einen ICD rien.
 
 |  |
 |---|
-| diagram  namespace urn:ehd/evl/001  4.3.2 Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- 10 Kode Das Format: ([A Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei. Z.B.   4.3.3 Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut 4.3.4 Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert 4.3.4.1 id Das Element <id> enthält die Kriteriennummer. Im EX-n- 4.3.4.2 notwendig Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom 4.3.4.3 text Im Element <text>, im V- |
+| diagram  namespace urn:ehd/evl/001  4.3.2 Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- Im V-Attribut steht formatiert der ICD--Z]( Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei. Z.B.   4.3.3 Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut 4.3.4 Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert 4.3.4.1 id Das Element <id> enthält die Kriteriennummer. Im EX-n- 4.3.4.2 notwendig Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom 4.3.4.3 text Im Element <text>, im V- |
 
-10 Kode sind Hinweise und Kriterien zugeordnet.  Im V-Attribut steht formatiert der ICD--Z]( \d{1,2})?(\.)?(\d)?(\d|[\*\+\- usw.) ])?)|UUU  - (z.B. A00.0, A00. ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384 ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388 hinweis_liste/hinweis steht. Eine Diagnose kann mehrere Hinweise haben.  kriterien_liste/kriterium weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben. Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.  Datentyp boolean.  Attribut steht der Kriterientext. XML-Beispiel <ehd:body> diagnosen_liste <diagnose> icd_code V="I21.0"/> <hinweis_liste> <text V="Akute Notfallsituation"/>
+10 Kode sind Hinweise und Kriterien zugeordnet.  10 Kode Das Format: ([A \d{1,2})?(\.)?(\d)?(\d|[\*\+\- ])?)|UUU  - (z.B. A00.0, A00. usw.) ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384 ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388 hinweis_liste/hinweis steht. Eine Diagnose kann mehrere Hinweise haben.  kriterien_liste/kriterium weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben. Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.  Datentyp boolean.  Attribut steht der Kriterientext. XML-Beispiel <ehd:body> diagnosen_liste <diagnose> icd_code V="I21.0"/> <hinweis_liste> <text V="Akute Notfallsituation"/>
 
 ---
 
 |  |
 |---|
-| "/> |
+|  |
 
 #### XML-Code 3 ehd-body
 
-</hinweis> hinweis <text V="Akute Brustschmerzen"/> </hinweis> </hinweis_liste> kriterien_liste <kriterium> <id EX="231141" RT="1.2.276.0.76.3.1.1.5.4.4"/>  notwendig V="true"/>  <text V="Akut oder bis zu vier Wochen (28 Tage) zurückliegend </kriterium> <kriterium> <id EX="231242" RT="1.2.276.0.76.3.1.1.5.4.4"/> notwendig V="true"/>  <text V="ST-Anhebung, Lokalisation im EKG"/> </kriterium> </kriterien_liste> </diagnose> </diagnosen_liste> </ehd:body>
+</hinweis> hinweis <text V="Akute Brustschmerzen"/> </hinweis> </hinweis_liste> kriterien_liste <kriterium> <id EX="231141" RT="1.2.276.0.76.3.1.1.5.4.4"/>  notwendig V="true"/>  <text V="Akut oder bis zu vier Wochen (28 Tage) zurückliegend "/> </kriterium> <kriterium> <id EX="231242" RT="1.2.276.0.76.3.1.1.5.4.4"/> notwendig V="true"/>  <text V="ST-Anhebung, Lokalisation im EKG"/> </kriterium> </kriterien_liste> </diagnose> </diagnosen_liste> </ehd:body>
 
 ---
 

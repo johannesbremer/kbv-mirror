@@ -56,11 +56,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT
 
 2.5 Semantik der verwendeten Diagrammsymbole 6
 
-Kardinalität 2.5.1
+2.5.1 Kardinalität
 
 6
 
-Strukturelemente 2.5.2
+2.5.2 Strukturelemente
 
 6
 
@@ -140,13 +140,17 @@ unter dem XML-Zweig <leistungsbereich> unter dem XML-Element <sdhdrg_stammdaten>
 
 # 1 EINLEITUNG
 
-Die Stammdatei Hybrid-DRG basiert auf der Schnittstellenbeschreibung SDHDRG Hybrid-DRG-Vergütungsvereinbarung in Anlage 1 gelisteten Operationen- und Prozedurenschlüssel (OPS)  sowie die in Anlage 2 genannten Hybrid-DRGs ab.
+Die Stammdatei Hybrid-DRG basiert auf der Schnittstellenbeschreibung SDHDRG und bildet die in der
+
+Hybrid-DRG-Vergütungsvereinbarung in Anlage 1 gelisteten Operationen- und Prozedurenschlüssel (OPS)  sowie die in Anlage 2 genannten Hybrid-DRGs ab.
 
 Die in der Stammdatei enthaltenen Daten können von Softwareherstellenden zur Unterstützung der  Anwendenden bei der Abrechnung von Hybrid-DRGs eingesetzt werden. Es gilt zu beachten, dass die
 
 Stammdatei nicht die Funktionen eines Groupers ersetzt.
 
-Die vorliegende Schnittstellenbeschreibung definiert das Format der Hybrid XML-Format, konform zur ehd-Richtlinie [KBV_ITA_VGEX_eHD
+Die vorliegende Schnittstellenbeschreibung definiert das Format der Hybrid-DRG Stammdatei der KBV im
+
+XML-Format, konform zur ehd-Richtlinie [KBV_ITA_VGEX_eHD
 
 Diese Datei wird den Softwareherstellenden von Praxisverwaltungssystemen vom Dezernat Digitalisierung  und IT der KBV zur Verfügung gestellt.
 
@@ -162,7 +166,7 @@ Standard-Namespace ist urn:ehd/sdhdrg/001.
 
 ## 2.3 ROOT-SCHEMA
 
-Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata
 
 inkludiert sind, heißt sdhdrg_root_V1.0.0.xsd.
 
@@ -176,27 +180,27 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; *<document_type_cd>*
+*<document_type_cd>*
 
-vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element  *<interface>*
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt; Entspricht dem Header-Element
 
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element  *<organization>* des Header-Elements
+*<interface>*
+
+vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element *<version>* des Header-Elements
+
+bzw. wer hat die Daten geliefert; Entspricht dem Element
+
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Daten identisch)
+
+*<person>* oder dem Element
+
+*<provider>*
+
+*<organization>* des Header-Elements
 
 tf+..………… timeframe (YYYYqQ)
 
 YYYY ........ Jahr
-
-und bildet die in der -DRG Stammdatei der KBV im
-
-*<provider>*
-
--Schemata
-
-Entspricht dem Header-Element
-
-*<version>* des Header-Elements
-
-*<person>* oder dem Element
 
 
 ---
@@ -265,15 +269,11 @@ Tabelle 3: Beschreibung sonstiger Symbole
 
 ---
 
-# ELEMENT (ROOT-ELEMENT)
+# 3 EHD  ELEMENT (ROOT-ELEMENT)
 
-# 3 EHD
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  „body“, wie es in Abbildung 1:** /ehd (root-Element)** dargestellt ist. Im header-Element stehen die
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „header“ und  **/ehd (root-Element)** dargestellt ist. Im header-Element stehen die
-
-„body“, wie es in Abbildung 1: spezifischen Informationen zur Schnittstelle. Im body-Element werden die eigentlichen Daten hinterlegt.
-
--/Kleinschreibung zu beachten.
+spezifischen Informationen zur Schnittstelle. Im body-Element werden die eigentlichen Daten hinterlegt.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen, die in diesem  Dokument beschrieben werden, ist es wichtig, die Groß
 
@@ -283,9 +283,9 @@ Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
 
-xmlns:xsi **[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/XMLSchema-instance)**
+**<ehd ehd_version="..." xmlns="urn:ehd/001"** xmlns:xsi
 
-**<ehd ehd_version="..." xmlns="urn:ehd/001"**  **xsi:schemaLocation="urn:ehd/001 ../Schema/sdhdrg_root_V2.0.0.xsd">**
+**xsi:schemaLocation="urn:ehd/001 ../Schema/sdhdrg_root_V2.0.0.xsd">**
 
 **<header>**
 
@@ -303,9 +303,9 @@ xmlns:xsi **[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/X
 
 XML-Code 1: /ehd
 
-Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des
+ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd
 
-ehd_version:  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls  wird der Parser Fehler melden.
+verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls  wird der Parser Fehler melden.
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version vorgegeben.
 
@@ -315,11 +315,17 @@ Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im bo
 
 ***<body>***
 
-Hier liegen die eigentlichen Inhalte der Datenlieferung.
+Hier liegen die eigentlichen Inhalte der
+
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: -/Kleinschreibung zu beachten.
+
+**[http://www.w3.org/2001/XMLSchema-instance](http://www.w3.org/2001/XMLSchema-instance)**
+
+Datenlieferung.
 
 ***urn:ehd/001***
 
-Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:
+-Richtlinie bzw. des
 
 
 ---
@@ -525,21 +531,17 @@ Element hat folgenden Aufbau:
 
 Abbildung 7: bezeichnung
 
-***<name>*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein ***<name>*** Element hat folgenden Aufbau:
 
 **<name V="..."/>**
 
 XML-Code 7: name
 
-#### bewertung
+#### 5.3.1.2 bewertung
 
-#### 5.3.1.2
+Das Element ***<bewertung>*** beinhaltet die möglichen Fallpauschalen einer Hybrid-DRG gemäß der Anlage 2 der
 
-Das Element ***<bewertung>*** beinhaltet die möglichen Fallpauschalen einer Hybrid-DRG gemäß der Anlage 2 der  2025.
-
-Hybrid-DRG-Vergütungsvereinbarung für das jeweilige Jahr gemäß Gültigkeitszeitraum
+Hybrid-DRG-Vergütungsvereinbarung für das jeweilige Jahr gemäß Gültigkeitszeitraum 2025.
 
 Diese Vereinbarung legt unterschiedliche Hybrid-DRG-Pauschalen in Abhängigkeit davon fest, ob die
 
@@ -547,21 +549,19 @@ postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-
 
 Vergütungsvereinbarung durchführende Krankenhaus erfolgt oder durch den Vertragsarzt.
 
-Krankenhäuser, die sowohl eine Leistung gemäß Anlage 1 als auch die postoperative Nachbehandlung  € erhöhte Fallpauschale ab. Sobald Vertragsärzte die
+Krankenhäuser, die sowohl eine Leistung gemäß Anlage 1 als auch die postoperative Nachbehandlung  durchführen, rechnen dafür die jeweils um 30,00 € erhöhte Fallpauschale ab. Sobald Vertragsärzte die
 
-durchführen, rechnen dafür die jeweils um 30,00 postoperative Nachbehandlung durchführen, gilt der Grundpreis der Hybrid-DRG-Pauschale, weil dann die
+postoperative Nachbehandlung durchführen, gilt der Grundpreis der Hybrid-DRG-Pauschale, weil dann die
 
-***<ohne_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch den
+postoperative Nachbehandlung gesondert über Gebührenordnungspositionen des Einheitlichen  Bewertungsmaßstabes berechnet wird. Die Fallpauschalen werden dementsprechend durch die  Kindelemente ***<ohne_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch den
 
-postoperative Nachbehandlung gesondert über Gebührenordnungspositionen des Einheitlichen  Bewertungsmaßstabes berechnet wird. Die Fallpauschalen werden dementsprechend durch die  Kindelemente  und ***<mit_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch das
+Vertragsarzt und ***<mit_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch das
 
-Vertragsarzt Krankenhaus abgebildet. Das Element ***<bewertung>*** besitzt mindestens das Kindelement ***<ohne_postoperativ>***
+Krankenhaus abgebildet. Das Element ***<bewertung>*** besitzt mindestens das Kindelement ***<ohne_postoperativ>***
 
 Abbildung 8: bewertung
 
-***bewertung>*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein  ***bewertung>*** Element hat folgenden Aufbau:
 
 **<bewertung>**
 
@@ -577,16 +577,14 @@ XML-Code 8: bewertung
 
 Das Element ***<ohne_postoperativ>*** enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die
 
-postoperative Nachbehandlung durch den Vertragsarzt erfolgt. Im V-Attribut ist der numerische Wert der  S_KBV_VALUTAEINHEIT
-
-Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle
+postoperative Nachbehandlung durch den Vertragsarzt erfolgt. Im V-Attribut ist der numerische Wert der  Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle S_KBV_VALUTAEINHEIT
 
 
 ---
 
--Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der
+mit dem Wert 2 (Euro) angegeben. Im S-Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der
 
-mit dem Wert 2 (Euro) angegeben. Im S Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
+Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
 
 Abbildung 9: ohne_postoperativ
 
@@ -598,25 +596,21 @@ XML-Code 9: ohne_postoperativ
 
 #### 5.3.1.4 mit_postoperativ
 
-***<mit_postoperativ>***
-
-Das Element
-
-enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die
+Das Element ***<mit_postoperativ>*** enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die
 
 postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-DRG-
 
-Vergütungsvereinbarung durchführende Krankenhaus erfolgt. Im V-Attribut ist der numerische Wert der  S_KBV_VALUTAEINHEIT
+Vergütungsvereinbarung durchführende Krankenhaus erfolgt. Im V-Attribut ist der numerische Wert der
 
-Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle  -Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der
+Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle S_KBV_VALUTAEINHEIT
 
-mit dem Wert 2 (Euro) angegeben. Im S Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
+mit dem Wert 2 (Euro) angegeben. Im S-Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der
+
+Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
 
 Abbildung 10: mit_postoperativ
 
-***<mit_postoperativ>*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein ***<mit_postoperativ>*** Element hat folgenden Aufbau:
 
 **<mit_postoperativ V="1000.00" U="2" S="1.2.276.0.76.5.236" />**
 
@@ -624,22 +618,18 @@ XML-Code 10: mit_postoperativ
 
 ## 5.4 OPS_LISTE
 
-***<ops_liste>*** beinhaltet die OPS-Kodes, welche eine Hybrid-DRG auslösen können, eines
+Das Element ***<ops_liste>*** beinhaltet die OPS-Kodes, welche eine Hybrid-DRG auslösen können, eines
 
-Das Element
+Leistungsbereichs gemäß der Anlage 1 der Hybrid-DRG-Vergütungsvereinbarung und enthält mindestens
 
--DRG-Vergütungsvereinbarung und enthält mindestens
-
-Leistungsbereichs gemäß der Anlage 1 der Hybrid ein Kindelement ***<ops >***
+ein Kindelement ***<ops >***
 
 
 ---
 
 Abbildung 11: ops_liste
 
-***<ops_liste>*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein ***<ops_liste>*** Element hat folgenden Aufbau:
 
 **<ops_liste>**
 
@@ -655,21 +645,15 @@ XML-Code 11: ops_liste
 
 ### 5.4.1 ops
 
-***<ops >*** bildet die einzelnen OPS-Kodes ab. Das V-Attribut enthält den Klassentitel des OPS-
+Das Element ***<ops >*** bildet die einzelnen OPS-Kodes ab. Das V-Attribut enthält den Klassentitel des OPS-
 
-Das Element  Kodes.
+Kodes.
 
-***<ops >*** kann das Element ***<hinweis>***
-
-Das Element
-
-enthalten.
+Das Element ***<ops >*** kann das Element ***<hinweis>*** enthalten.
 
 Abbildung 12: ops
 
-***<ops >*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein ***<ops >*** Element hat folgenden Aufbau:
 
 **<ops V="..."/>**
 
@@ -679,17 +663,13 @@ Der XML-Code für ein
 
 XML-Code 12: ops
 
-#### hinweis
-
-#### 5.4.1.1
+#### 5.4.1.1 hinweis
 
 Das Element ***<hinweis>*** enthält nähere Hinweise zum OPS-Kode. Im V-Attribut ist der Hinweistext enthalten.
 
 Abbildung 13: hinweis
 
-***<hinweis>*** Element hat folgenden Aufbau:
-
-Der XML-Code für ein
+Der XML-Code für ein ***<hinweis>*** Element hat folgenden Aufbau:
 
 **<hinweis V="..."/>**
 
@@ -711,6 +691,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung
+
+Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de), www.kbv.de
 
 eHealthData, Richtlinie  Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zip

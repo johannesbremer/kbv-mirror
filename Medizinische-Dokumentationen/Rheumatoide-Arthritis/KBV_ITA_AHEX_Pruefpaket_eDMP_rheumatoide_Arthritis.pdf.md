@@ -47,11 +47,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 7
 
-Schnittstellenversionen 1.6.1
+1.6.1 Schnittstellenversionen
 
 7
 
-Datumseingaben 1.6.2
+1.6.2 Datumseingaben
 
 7
 
@@ -59,7 +59,7 @@ Datumseingaben 1.6.2
 
 7
 
-Versichertendaten 1.6.4
+1.6.4 Versichertendaten
 
 7
 
@@ -71,7 +71,7 @@ Versichertendaten 1.6.4
 
 8
 
-Prüfnummer 1.6.7
+1.6.7 Prüfnummer
 
 8
 
@@ -87,11 +87,11 @@ Prüfnummer 1.6.7
 
 10
 
-Prüffall 7211 2.1.1
+2.1.1 Prüffall 7211
 
 10
 
-Prüffall 7212 2.1.2
+2.1.2 Prüffall 7212
 
 13
 
@@ -103,13 +103,13 @@ Prüffall 7212 2.1.2
 
 20
 
-Prüffall 7214 2.2.1
+2.2.1 Prüffall 7214
 
 20
 
 2.3 Weitere Prüffälle zum Anforderungskatalog 24
 
-Prüffall 7230 2.3.1
+2.3.1 Prüffall 7230
 
 24
 
@@ -187,15 +187,15 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 
-- ssteller
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller
 
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antrag mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
+- mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
 
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
-
 **HINWEIS**
+
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 
 ---
@@ -432,8 +432,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | BEZEICHNUNG | INHALT |
 |---|---|
 | Betriebsstättennummer (BSNR) | 391234511 |
-| BSNR - | Praxis Dr. med. Heribert Topp-Glücklich |
-| Lebens | 838382202 |
+| BSNR-Bezeichnung | Praxis Dr. med. Heribert Topp-Glücklich |
+| Lebenslange Arztnummer (LANR) | 838382202 |
 | Arztname | Dr. med. Hans Topp-Glücklich |
 | Straße | Musterstr. |
 | Hausnummer | 1 |
@@ -449,7 +449,7 @@ bsender (Kranken
 
 | BEZEICHNUNG | INHALT |
 |---|---|
-| Krankenhaus | 856215715 |
+| Krankenhaus-IK | 856215715 |
 | Name des Krankenhauses | Test-Krankenhaus, Pneumologie |
 | Straße | Am Wehr |
 | Hausnummer | 20 |
@@ -461,7 +461,6 @@ bsender (Kranken
 
 Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden: - RA = X/110/2304/36/000
 
-Bezeichnung lange Arztnummer (LANR) IK
 
 ---
 
@@ -475,14 +474,13 @@ Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automat
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
-| PRÜFFALL- | NAME | VERZEICHNISNAME |
+| PRÜFFALL-ID | NAME | VERZEICHNISNAME |
 |---|---|---|
 | 7211 | Katarina Maier | XML_12 |
 | 7212 | Peter Pan | XML_13 |
 | 7220 | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
 | 7240 | Lija Malta | XML_36 |
 
-ID
 
 ---
 
@@ -529,7 +527,7 @@ aufgezeichnet werden. Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebe
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
-|  | | |
+| Administrative Daten | | |
 | DMP-Fallnummer | 7211 | 7211 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
@@ -539,22 +537,22 @@ aufgezeichnet werden. Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebe
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,53 m | 1,53 m |
 | Körpergewicht | 46 kg | 56 kg |
-| Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg |  |
+| Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
-|  | Diabetes mellitus |  |
+| Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
-|  | Quartalsweise | Jedes zweite Quartal |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
 / Version: 1.04 / 31. März 2026
 
-DATEN Administrative Daten Begleiterkrankungen Informationsangebote der Krankenkasse Dokumentationsintervall 120 / 90 mmHg
+DATEN Informationsangebote der Krankenkasse
 
 
 ---
 
-| PEZIFISCHE DATEN | | |
+| INDIKATIONS | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Anamnese- und Befunddaten | | |
@@ -563,14 +561,14 @@ DATEN Administrative Daten Begleiterkrankungen Informationsangebote der Krankenk
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Ja |
 | Medikamentöse und sonstige Maßnahmen | | |
 | Aktuelle | Ja, bis zu 6 Monate lang | Ja, länger als 6 Monate |
-| -Therapie | Ja | Therapiepause vereinbart |
+| Aktuelle DMARD | Ja | Therapiepause vereinbart |
 | Regelmäßige körperliche Aktivität | Nein | Ja |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Ja |  |
 | Rheuma-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Rheuma-Schulung wahrgenommen |  | War aktuell nicht möglich |
 
-INDIKATIONS 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt Glukokortikoidtherapie wegen rheumatoider Arthritis Aktuelle DMARD Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
+PEZIFISCHE DATEN 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt Glukokortikoidtherapie wegen rheumatoider Arthritis -Therapie Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
 
 ---
 
@@ -613,7 +611,7 @@ Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebe
 | INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
-|  | | |
+| Administrative Daten | | |
 | DMP-Fallnummer | 7212 | 7212 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
@@ -625,16 +623,16 @@ Dokumentationsunterlagen (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebe
 | Körpergewicht | 1.10 kg | 1.05 kg |
 | Blutdruck | 180 / 101 mmHg | 1.50 / 90 mmHg |
 | Raucher | Nein | Nein |
-|  | Diabetes mellitus | Diabetes mellitus |
+| Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 |  |  |  |
 | Behandlungsplanung | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Körperliches Training |
-|  | Quartalsweise | Quartalsweise |
+| Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj | 15.mm.jjjj |
 
 / Version: 1.04 / 31. März 2026
 
-DATEN Administrative Daten Begleiterkrankungen Informationsangebote der Krankenkasse Dokumentationsintervall
+DATEN Informationsangebote der Krankenkasse
 
 
 ---
@@ -643,12 +641,12 @@ DATEN Administrative Daten Begleiterkrankungen Informationsangebote der Krankenk
 |---|---|---|
 |  | Erstdokumentation | Folgedokumentation |
 | Anamnese- und Befunddaten | | |
-| Krankheitsaktivität - DAS-28-Wert | Automatische DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
+| Aktuelle | Übernahme aus dem DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
 | Erkrankungsdauer der rheumatoiden Arthritis | Zwei Jahre oder mehr | Zwei Jahre oder mehr |
 | Klinische Einschätzung des Osteoporoserisikos | Nein | Nein |
 | Medikamentöse und sonstige Maßnahmen | | |
 | Aktuelle Glukokortikoidtherapie wegen | Ja, bis zu 6 Monate lang | Ja, länger als 6 Monate |
-| DMARD-Therapie | Kontraindikation | Nein |
+| Aktuelle | Kontraindikation | Nein |
 | Regelmäßige körperliche Aktivität | Nein | Nein |
 | Schulung | | |
 | Bereits vor Einschreibung in das DMP an einer | Nein |  |
@@ -657,7 +655,7 @@ DATEN Administrative Daten Begleiterkrankungen Informationsangebote der Krankenk
 
 / Version: 1.04 / 31. März 2026
 
-PEZIFISCHE DATEN (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem Dokumentation keine
+PEZIFISCHE DATEN Krankheitsaktivität - DAS-28-Wert (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis DMARD-Therapie Rheuma-Schulung teilgenommen Dokumentation) Dokumentation keine
 
 
 ---
@@ -733,23 +731,23 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 | RA | Aktuelle Krankheitsaktivität - DAS-28-Wert | Automatische DAS-28-Fragebogen | Automatische DAS-28-Fragebogen |
 | RA | Erkrankungsdauer der rheumatoiden | Weniger als zwei Jahre | Zwei Jahre oder mehr |
 | RA | Klinische Einschätzung des | Nein | Nein |
-| DM2 | HbA1c-Wert | 8,0 % |  |
+| DM2 | HbA1c-Wert | 8,0 % | 160 mmol/mol |
 | DM2 | eGFR | 160 ml/min/1,73m²KOF | Nicht bestimmt |
 | DM2 | Pulsstatus | Auffällig | Nicht untersucht |
 | DM2 | Sensibilitätsprüfung | Nicht untersucht | Nicht untersucht |
-| DM2 | Weiteres Risiko für Ulcus Ulkus | Fußdeformität |  |
+| DM2 | Weiteres Risiko für Ulcus Ulkus | Fußdeformität | Fußdeformität, |
 | DM2 | Ulkus | nein | tief |
 | DM2 | (Wund)Infektion | nein | ja |
-| DM2 |  |  | Unauffällig |
+| DM2 | Injektionsstellen |  | Unauffällig |
 | DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder häufiger | Jährlich |
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
 | Relevante Ereignisse | | | |
 | DM2 | Relevante Ereignisse | Nierenersatztherapie | Keine der genannten |
-| DM2 |  |  | 5 |
+| DM2 | Schwere Hypoglykämien seit der letzten |  | 5 |
 | DM2 | Stationäre notfallmäßige Behandlung |  | 2 |
 | Medikamentöse und sonstige Maßnahmen (Nicht-medikamentöse) | | | |
 | RA | Aktuelle Glukokortikoidtherapie wegen | Ja, länger als 6 Monate | Ja, länger als 6 Monate |
-| RA | -Therapie | Nein | Ja |
+| RA | Aktuelle DMARD | Nein | Ja |
 | RA | Regelmäßige körperliche Aktivität | Ja | Ja |
 | Stationäre notfallmäßige Behandlung | | | |
 |  |  |  |  |
@@ -762,7 +760,7 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 |  | 160 ml/min/1,73m²KOF | Nicht bestimmt |  |
 |  | Auffällig | Nicht untersucht |  |
 |  | Nicht untersucht | Nicht untersucht |  |
-|  | Fußdeformität |  |  |
+|  | Fußdeformität | Fußdeformität, |  |
 |  | nein | tief |  |
 |  | nein | ja |  |
 |  |  | Unauffällig |  |
@@ -772,7 +770,7 @@ DATEN Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die 
 |  | Nierenersatztherapie | Keine der genannten |  |
 |  |  |  |  |
 
-PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchgeführt Injektionsstellen (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Schwere Hypoglykämien seit der letzten Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation rheumatoider Arthritis Aktuelle DMARD Übernahme aus dem Übernahme aus dem 160 mmol/mol Fußdeformität, Hyperkeratose mit Einblutung
+PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchgeführt (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation rheumatoider Arthritis -Therapie Übernahme aus dem Übernahme aus dem Hyperkeratose mit Einblutung
 
 ---
 
@@ -787,7 +785,7 @@ PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporo
 |  |  | Bereits vor Einschreibung in das DMP an | Ja |
 |  |  | Rheuma-Schulung empfohlen (bei | Ja |
 |  |  | Rheuma-Schulung wahrgenommen |  |
-|  |  |  | Diabetes-Schulung |
+|  |  | Schulung empfohlen (bei aktueller | Diabetes-Schulung |
 |  |  | Schulung schon vor Einschreibung ins | Hypertonie-Schulung |
 |  |  | Empfohlene Diabetes-Schulung |  |
 |  |  | Empfohlene Hypertonie-Schulung |  |
@@ -812,23 +810,23 @@ PEZIFISCHE DATEN Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporo
 | RA | Bereits vor Einschreibung in das DMP an | Ja |  |
 | RA | Rheuma-Schulung empfohlen (bei | Ja | Nein |
 | RA | Rheuma-Schulung wahrgenommen |  | Nein |
-| DM2 |  | Diabetes-Schulung | Keine |
+| DM2 | Schulung empfohlen (bei aktueller | Diabetes-Schulung | Keine |
 | DM2 | Schulung schon vor Einschreibung ins | Hypertonie-Schulung |  |
 | DM2 | Empfohlene Diabetes-Schulung |  | Ja |
 | DM2 | Empfohlene Hypertonie-Schulung |  | Bei der letzten |
 | Behandlungsplanung | | | |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
-| DM2 |  |  | Durchgeführt |
+| DM2 | Ophthalmologische |  | Durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer für | Nein | Ja, Veranlasst |
 | DM2 | Diabetesbezogene stationäre Einweisung | Nein | Nein |
 
-orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation) Schulung empfohlen (bei aktueller Dokumentation) DMP bereits wahrgenommen Ophthalmologische Netzhautuntersuchung seit letzter Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
+orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation) Dokumentation) DMP bereits wahrgenommen Netzhautuntersuchung seit letzter Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
 
 ---
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Administrative Daten | | |
@@ -837,13 +835,13 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | Dokumentation in Vertretung erstellt |  |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | rheumatoide Arthritis |  |
-| Geschlecht | Je nach Auswahl des |  |
+| Geschlecht | Patienten |  |
 | Allgemeine Anamnese- und Befunddaten | | |
 | Körpergröße | 1,68 m |  |
 | Körpergewicht | 79 kg |  |
 | Blutdruck | 120 / 90 mmHg |  |
 | Raucher |  | Nr. 1 |
-| Begleiterkrankungen | Keine der genannten |  |
+| Begleiterkrankungen | Erkrankungen |  |
 | Behandlungsplanung | | |
 | 2.2.1 |  |  |
 |  |  |  |
@@ -854,10 +852,10 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | Prüffall-ID | 7214 |
 | Testziel | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | Voraussetzung |  |
-| Prüfunterlagen | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| Prüfunterlagen | Fehlermeldungen.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | Hinweis | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE Patienten Erkrankungen
+Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Je nach Auswahl des Keine der genannten
 
 ---
 
@@ -870,7 +868,7 @@ Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachl
 |  | Rheuma-Schulung empfohlen (bei aktueller |  |
 |  | Rheuma-Schulung wahrgenommen |  |
 |  |  |  |
-|  | SPEZIFISCHE DATEN |  |
+|  | INDIKATIONS |  |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -884,7 +882,7 @@ Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachl
 
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 
-| SPEZIFISCHE DATEN | | |
+| INDIKATIONS | | |
 |---|---|---|
 |  | Erstdokumentation | Aktion |
 | Anamnese- und Befunddaten | | |
@@ -900,7 +898,7 @@ Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachl
 | Rheuma-Schulung empfohlen (bei aktueller | Ja |  |
 | Rheuma-Schulung wahrgenommen | Ja | Nr. 7 |
 
-Krankenkasse INDIKATIONS Anamnese- und Befunddaten Aktuelle Krankheitsaktivität - DAS-28-Wert Pflichtfeld Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Klinische Einschätzung des Osteoporoserisikos durchgeführt Medikamentöse und sonstige Maßnahmen Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis Aktuelle DMARD-Therapie Regelmäßige körperliche Aktivität Schulung teilgenommen Dokumentation) Erstdokumentation 10,1 Zwei Jahre Therapiepause vereinbart Nicht möglich Ja Ja Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
+Krankenkasse SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Krankheitsaktivität - DAS-28-Wert Pflichtfeld Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Klinische Einschätzung des Osteoporoserisikos durchgeführt Medikamentöse und sonstige Maßnahmen Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis Aktuelle DMARD-Therapie Regelmäßige körperliche Aktivität Schulung teilgenommen Dokumentation) Erstdokumentation 10,1 Zwei Jahre Therapiepause vereinbart Nicht möglich Ja Ja Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
 
 ---
 
@@ -956,12 +954,14 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 
 ## 2.3 WEITERE PRÜFFÄLLE ZUM ANFORDERUNGSKATALOG
 
-**2.3.1** **Prüffall 7230**
+### 2.3.1
+
+**Prüffall 7230**
 
 |  |  |
 |---|---|
 | Prüffall-ID | 7230 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | Dokumentieren Sie durch Video |
 | Hinweis | Dieser Testfall ist unterteilt in drei Szenarien |
@@ -969,15 +969,15 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 | SZENARIEN |
 |---|
 | Szenario 1 |
-| angelegt. Zeigen Sie, wie das System die Datenübernahme |
+| Es wird eine Folgedokumentation |
 | Szenario 2 |
-| 1.  vor der Erstellung einer Erstdokumentation für das eDMP b) c) , Anforderung 2. -28) mittels aller vier in b) c) |
+| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.  1. a) b) c) , Anforderung 2. a) b) c) |
 |  |
-| 7230 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP |
+| 7230 (KBV_ITA_VGEX_Anforderungskatalog_eDMP |
 |  |
 | Aktionen, die durch den Antragsteller durchgeführt werden: |
 
-(KBV_ITA_VGEX_Anforderungskatalog_eDMP s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung. Es wird eine Folgedokumentation „Aktuelle DMARD-Therapie“ mit weiteren Anamnese - und Befunddaten aus einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vornimmt. Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211. Es wird eine Erstdokumentation angelegt. a) Zeigen Sie, dass der Anwender rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS -28-Score automatisch Anforderung KP2-30 berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow „Aktuelle Krankheitsaktivität unterbrochen wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP KP2-01, Akzeptanzkriterium 1 Es wird eine Folgedokumentation angelegt. a) Zeigen Sie, dass der Anwender vor der Erstellung einer Folgedokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Anforderung KP2-20 Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS -28-Score automatisch Anforderung KP2-30 berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters „Aktuelle – DAS-28-Wert“ Krankheitsaktivität
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP s die Eingaben einschließlich der Ergebnisse nach einer möglichen Hinweissteuerung.  angelegt. Zeigen Sie, wie das System die Datenübernahme „Aktuelle DMARD-Therapie“ mit weiteren Anamnese - und Befunddaten aus einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP vornimmt. Es wird eine Erstdokumentation angelegt. Zeigen Sie, dass der Anwender  vor der Erstellung einer Erstdokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP Akzeptanzkriterium 1 Es wird eine Folgedokumentation angelegt. Zeigen Sie, dass der Anwender vor der Erstellung einer Folgedokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ -28) mittels aller vier in -28-Score automatisch Anforderung KP2-30 KP2-01, -28) mittels aller vier in -28-Score automatisch Anforderung KP2-30
 
 ---
 
@@ -990,9 +990,9 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 | SZENARIEN |
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP , Anforderung  KBV_ITA_VGEX_Anforderungskatalog_eDMP , Anforderung |
 | Szenario 3 |
-| -28)  gemäß KBV_ITA_VGEX_Anforderungskatalog_eDMP ). Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
+| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS gemäß KBV_ITA_VGEX_Anforderungskatalog_eDMP ). Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
 
-die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS KP2-10  ermöglicht (siehe Berechnung des DAS-28-Scores eintragen kann. KP2-01, Akzeptanzkriterium 2 KP2-01, Akzeptanzkriterium 3 7212  zur
+die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KP2-10  ermöglicht (siehe Berechnung des DAS-28-Scores eintragen kann. KP2-01, Akzeptanzkriterium 2 KP2-01, Akzeptanzkriterium 3 -28)  7212  zur
 
 ---
 
@@ -1001,26 +1001,20 @@ die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anz
 |  | |
 |---|---|
 | Prüffall-ID | 7240 |
-| Testziel | Kontrolle der korrekten Umsetzung von Teilen des ) |
+| Testziel | (KBV_ITA_VGEX_Anforderungskatalog_eDMP ) |
 | Voraussetzung |  |
 | Prüfunterlagen | PDF-Datei „TE_EWE_RA.pdf“ der indikationsübergreifenden Teilnahme- und |
 | Hinweis | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
-**durchgeführt werden:**
-
-**Aktionen, die durch den Antragsteller**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten**
 
-**Lija Malta (XML_36)**
+Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-Die Versichertendaten von
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des
 
-einlesen und speichern.
-
-- gemäß Kapitel 3 des
-
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+- Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
 
 |  |  |
 |---|---|
@@ -1029,27 +1023,27 @@ einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025  15.10.2026 |
 
-Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
 
 ---
 
 # TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 7220“.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 7220“.
+
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,
+
+demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „**Test**_110“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen
+
+des Archivs mit „**Test**_110“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
--Dokumentation das Ergebnis ist, können
-
-findet nicht statt,
-
--Archives. Beachten Sie, dass der Dateinamen
 
 
 ---

@@ -29,11 +29,9 @@ regionalen Formulars f ür die KV Bayerns
 
 ## INHALT
 
-**ALLGEMEIN**
+**1** **ALLGEMEIN**
 
 **4**
-
-**1**
 
 **2** **ÜBERSICHT DER BEREITGESTELLTEN FORMULARE**
 
@@ -50,9 +48,9 @@ freiwillig den Praxen der jeweiligen KV-Region zur Nutzung zur Verfügung gestel
 
 Wenn Softwarehersteller ihren Kunden die jeweiligen Formulare in ihren Softwareprodukten zur Verfügung  stellen, sollte ebenfalls eine automatische Bedruckung der Formularfelder von den Softwareherstellern  unterstützt werden. Bei den Bedruckungsregelungen kann sich an den bestehenden Regelungen der  Bedruckung der vertragsärztlichen Formulare orientiert werden.
 
--Formularen von
+Bitte beachten sie, dass neben den in diesem Verzeichnis bereitgestellten regionalen KV-Formularen von
 
-Bitte beachten sie, dass neben den in diesem Verzeichnis bereitgestellten regionalen KV den KVen weitere regionale Formulare auf den Webseiten zur Verfügung stehen können.
+den KVen weitere regionale Formulare auf den Webseiten zur Verfügung stehen können.
 
 Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 

@@ -57,38 +57,38 @@ Nr. Monate wegen KHK seit der letzten Dokumentation  „Instabile Angina pectori
 
 ---
 
-| Lfd. | Parameter | Ausprägung |  |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-| 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;   Mehrfachnennungen sind möglich Erfolgt die Angabe „Ja“ ist keine weitere Ang  Nein“ kann alleine oder gleichzeitig mit der Angabe |
-| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation | Pflichtfeld;   Mehrfachnennungen sind möglich  „ Nein“ kann alleine oder gleichzeitig mit der Angabe  Die Angabe „Kontraindikation“ kann auch alleine oder  ARB |
+| 7 | Betablocker | Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich Erfolgt die Angabe „Ja“ ist keine weitere Ang  Die Angabe „ |
+| 8 | ACE-Hemmer | Ja / Nein / Kontraindikation | Pflichtfeld;  Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich  Die Angabe Die Angabe „  Die Angabe „Kontraindikation“ kann auch alleine oder  Die Angabe „ |
 | 9 | (weggefallen) |  |  |
-| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld rderlich Mehrfachnennungen sind möglich    Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Niedrig“ ist keine w  ann alleine oder gleichzeitig mit |
+| 9a | Aktuelle Statin-Dosis | Hoch / Moderat / Niedrig / Kein Statin / | Pflichtfeld Mindestens eine Angabe ist erfo Mehrfachnennungen sind möglich  Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Moderat“ ist keine weitere Angabe zulässig  Erfolgt die Angabe „Niedrig“ ist keine w  Die Angabe „Kein Statin“ k |
 
-Nr. Plausibilitäten Mindestens eine Angabe ist erforderlich „Kontraindikation“ erfo lgen.  / ARB  Mindestens eine Angabe ist erforderlich Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. „Kontraindikation“ und/oder „ “ erfol gen. it „Nein“ und /oder „ “ erfolgen “ kann alleine oder gleichzeitig mit „ Ja“ oder Nein“ und/oder „Kontraindikation“ erfolgen. Kontraindikation gegen Mindestens eine Angabe ist erfo Erfolgt die Angabe „Hoch“ ist keine weitere Angabe zulässig Die Angabe „Kein Statin“ k „Kontraindikation gegen Satin“ und umgekehrt erfolgen
+Nr. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfo lgen.  / ARB  Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ und/oder „ ARB “ erfol gen. gleichzeitig m it „Nein“ und /oder „ ARB “ erfolgen ARB “ kann alleine oder gleichzeitig mit „ Ja“ oder Nein“ und/oder „Kontraindikation“ erfolgen. Kontraindikation gegen ann alleine oder gleichzeitig mit „Kontraindikation gegen Satin“ und umgekehrt erfolgen
 
 ---
 
-| Lfd. |  | Ausprägung | Plausibilitäten |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-| 9b | Aktuelle Therapiestrategie Statin | Feste Hochdosis | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.   Eine Angabe ist erforderlich  Feld 9a die Angabe |
-| 9c | Grund für moderate o | Aufdosierungsphase / LDL | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Angabe  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
-| 10 |  |  |  |
+| 9b | Aktuelle Therapiestrategie Statin | Feste Hochdosis | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.   Eine Angabe ist erforderlich  Eine Angabe ist nicht zulässig, wenn in |
+| 9c | Grund für moderate o | Aufdosierungsphase / LDL | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig.  Eine Angabe ist erforderlich, wenn in Feld 9a die  Eine Angabe ist nicht zulässig, wenn in Feld 9a die Angabe |
+| 10 | (weggefallen) |  |  |
 |  | Schulung |  | |
-| 10a |  | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig  . Eine Angabe im Rahmen e |
+| 10a | Schulung bereits vor Einschreibung | Ja / Nein | Bedingtes Pflichtfeld Genau eine Angabe ist zulässig  Eine Angabe ist erforderlich, Eine Angabe im Rahmen e |
 | 11 | Schulung empfohlen (bei aktueller | Ja / Nein | Pflichtfeld; Genau eine Angabe ist zulässig |
 | 12 | Empfohlene Schulung(en) | Ja / Nein / War aktuell nicht möglich / Bei | Bedingtes Pflichtfeld; Genau eine Angabe ist zulässig Eine Angabe ist erforderlich, wenn die Anlage Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 
-Nr. Parameter Statin-Dosis (weggefallen) Schulung bereits vor Einschreibung in DMP wahrgenommen Dokumentation)  wahrgenommen der niedrige -Strategie / Zielwert Strategie / Keine Strategie erreicht / Kontraindikation gegen Hochdosis / Ablehnung durch Patienten Keine Begründung letzter Dokumentation keine Schulung vereinbart -Zielwert „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ Kontraindikation gegen Eine Angabe ist erforderlich, wenn in Feld 9a die „Moderat“ oder „Niedrig“ erfolgt ist „Hoch“ oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist einer Erstdokumentation auszufüllen ist iner Folgedokumentation ist nicht einer Folgedokumentation auszufüllen ist wenn die Anlage 6* im Rahmen erfolgt ist Statin“ erfolgt ist 6* im Rahmen
+Nr. Statin-Dosis in DMP wahrgenommen Dokumentation)  wahrgenommen der niedrige -Strategie / Zielwert Strategie / Keine Strategie erreicht / Kontraindikation gegen Hochdosis / Ablehnung durch Patienten Keine Begründung letzter Dokumentation keine Schulung vereinbart -Zielwert „Hoch“ oder „Moderat“ oder „Niedrig“ „Kein Statin“ Kontraindikation gegen „Moderat“ oder „Niedrig“ erfolgt ist „Hoch“ oder „Kein Statin“ oder „Kontraindikation gegen Statin“ erfolgt ist einer Erstdokumentation auszufüllen ist iner Folgedokumentation ist nicht einer Folgedokumentation auszufüllen ist wenn die Anlage 6* im Rahmen erfolgt ist Statin“ erfolgt ist 6* im Rahmen
 
 ---
 
-| Lfd. |  | Ausprägung |  |
+| Lfd. | Parameter | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 |  |  |  | zulässig |
-|  |  |  | |
-| 13 |  |  |  |
-| 13a |  |  |  |
-| 14 |  |  |  |
-| 15 | Regelmäßiges sportl | Ja / Nein / Nicht möglich | Pflichtfeld    Mehrfachnennungen sind möglich  Erfolgt die Anga Die Angaben |
+|  | Behandlungsplanung |  | |
+| 13 | (weggefallen) |  |  |
+| 13a | (weggefallen) |  |  |
+| 14 | (weggefallen) |  |  |
+| 15 | Regelmäßiges sportl | Ja / Nein / Nicht möglich | Pflichtfeld    Mehrfachnennungen sind möglich  be „ Die Angaben |
 
-Nr. Parameter Plausibilitäten Behandlungsplanung (weggefallen) (weggefallen) (weggefallen) iches Traini Mindestens eine Angabe ist erforderlich be „ Ja“ ist keine weitere Angabe z gemeinsam erfolgen „Nein“ und „Nicht möglich“  können einzeln oder
+Nr. iches Traini Mindestens eine Angabe ist erforderlich Erfolgt die Anga Ja“ ist keine weitere Angabe z gemeinsam erfolgen „Nein“ und „Nicht möglich“  können einzeln oder

@@ -164,36 +164,36 @@ Regelkonfiguration gesperrt sein. im Rahmen der
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| 10- | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
-| ICD | Diagnosesicherheit |
+| ICD-10-GM-Kode | Diagnosesicherheit |
 | J06.9 | G |
 | I21.2 | Z |
 | J44.19 | G |
 | R52.2 | G |
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| Nach der Beendigung des Kodiervorgangs |
+| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-01-001“ ausgelöst |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: I21.2 Z |
-| Anzeige des folgenden Hinweistextes: Myokardinfarkt sieht die ICD |
-| Anzeige des folgenden Vorschlagstextes: : I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G  I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.22 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.22 mit der |
 
-| ERGEBNIS DATEN | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
-| ICD | Zusatzkennzeichen für die Diagnosensicherheit |
+| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
 | J06.9 | G |
 | I25.22 | G |
 | J44.19 | G |
 | R52.2 | G |
 
-EINGABE VON ICD - G M - KODES DURCH DEN GM Kode ANWENDER ERWARTETE REAKTION D wird Für die Abbildung eines Zustandes nach akutem vor. Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem Zusatzkennzeichen "G" I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G die Kodierreg el mit der ID „01 -10 einen spezifischen Kode 01- 001“ ERWARTETE REAKTION D Diagnosensicherheit G ersetzt. ERWARTETE 10- GM Kode
+vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt.
 
 ---
 
@@ -228,28 +228,28 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 Nach Eingabe der Diagnosen aus UseCase 2 ändert der Anwender bei dem ICD-10-GM-Kode I21.0 das  Zusatzkennzeichen „G“ für die Diagnosensicherheit auf „Z“.
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| des |
+| Nach der Änderung des Zusatzkennzeichens für die Diagnosensicherheit wird die Kodierregel mit der |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: I21.0 Z |
-| Anzeige des folgenden Hinweistextes: -10 einen spezifischen Kode |
-| Anzeige des folgenden Vorschlagstextes: : I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD-10 einen spezifischen Kode |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem I25.20 (Alter Myokardinfarkt, 29 Tage bis unter 4 Monate zurückliegend) G I25.21 (Alter Myokardinfarkt, 4 Monate bis unter 1 Jahr zurückliegend) G I25.22 (Alter Myokardinfarkt, 1 Jahr und länger zurückliegend) G I25.29 (Alter Myokardinfarkt, nicht näher bezeichnet) G |
 
 Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und bestätigt die Auswahl.
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.29 mit der |
 
-| TEN | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
-| ICD | Zusatzkennzeichen für die Diagnosensicherheit |
+| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
 | J06.9 | G |
 | I25.29 | G |
 | J44.19 | G |
 | R52.2 | G |
 
-ERWARTETE REAKTION D Zusatzkennzeichens für die Diagnosensicherheit wird die K Nach der Änderung odierregel mit der ID „01 01- 001“ Für die Abbildung eines Zustandes nach akutem Myokardinfarkt sieht die ICD vor. Sofern zutreffend, ersetzen Sie bitte den Kode durch einen der folgenden Kodes mit dem Zusatzkennzeichen "G" Jahr zurückliegend) G ERWARTETE REAKTION D Diagnosensicherheit G ersetzt. ERWARTETE ERGEBNISDA 10- GM Kode
+ID „01-01-001“ ausgelöst vor. Zusatzkennzeichen "G": Diagnosensicherheit G ersetzt.
 
 ---
 
@@ -257,36 +257,35 @@ ERWARTETE REAKTION D Zusatzkennzeichens für die Diagnosensicherheit wird die K 
 
 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden.
 
-| 10- | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
-| ICD | Diagnosesicherheit |
+| ICD-10-GM-Kode | Diagnosesicherheit |
 | M54.2 | G |
 | E04.9 | G |
 | E11.30 | G |
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| Nach der Beendigung des Kodiervorgangs |
+| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-011“ ausgelöst |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.30 G |
-| Anzeige des folgenden Hinweistextes: - |
-| Anzeige des folgenden Vorschlagstextes:  ) H36.0 |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 (Diabetische Katarakt) H36.0 (Retinopathia diabetica) |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
 Der Anwender wählt den Kode H28.0 mit dem Kennzeichen „G“ aus.
 
-| ER SOFTWARE |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Der ICD-10-GM-Kode H28.0 mit der Diagnosesicherheit G wird ergänzt. |
 
-| TEN | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
-| ICD | Zusatzkennzeichen für die Diagnosensicherheit |
+| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
 | M54.2 | G |
 | E04.9 | G |
 | E11.30 | G |
 | H28.0 | G |
 
-EINGABE VON ICD - G M - KODES DURCH DEN AN GM Kode WENDER ERWARTETE REAKTION D wird Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD Sofern zutref fend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 Diabetische Katarakt Retinopathia diabetica ergänzen die Kodierregel mit der ID „01 02- 011“ 10 spezifische Kodes vor. ERWARTETE REAKTION D ERWARTETE ERGEBNISDA 10- GM Kode
 
 ---
 
@@ -317,74 +316,74 @@ Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wir
 
 ---
 
-| ERWARTETE E | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
-| ICD | Zusatzkennzeichen für die Diagnosensicherheit |
+| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | G |
 | H36.0 | G |
 | 1.1.6 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-|  | WENDER |
+|  | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER |
 
-| WENDER | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
-| ICD | Diagnosesicherheit |
+| ICD-10-GM-Kode | Diagnosesicherheit |
 | M17.9 | G |
 | R52.2 | G |
 | E11.30 | G |
 | H36.0 | G |
 | E11.31 | G |
 
-| ERWARTETE REAKTION D |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
-|  |
-| Nach der Beendigung des Kodiervorgangs |
-| Falls die Prüfung |
-| Eingabe der Diagnose |
+| Falls die Prüfung gegen das Kodierregelwerk nach Eingabe aller Kodes erfolgt: |
+| Nach der Beendigung des Kodiervorgangs wird keine Kodierregel ausgelöst |
+| Falls die Prüfung gegen das Kodierregelwerk direkt nach der Eingabe eines Kodes erfolgt, können die |
+| Eingabe der Diagnosen E11.30 G und / oder E11.31 G vor der Diagnose H36.0 G: Auslösen der |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.30 G bzw. E11.31 G |
-| Anzeige des folgenden Hinweistextes: - |
-| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 ( H36.0 (Retinopathia diabetica) |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD-10 spezifische Kodes vor. |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: H28.0 (Diabetische Katarakt) H36.0 (Retinopathia diabetica) |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu Hinweis für die Prüfung der Umsetzung:  Bitte wählen Sie das Zusatzkennzeichen „G“. |
 
-EINGABE VON ICD - 10- GM Kode 10- G M - KODES DURCH DEN AN ER SOFTWARE gegen das Kodierregelwerk nach Eingabe aller Kodes erfolgt: gegen das Kodierregelwerk direkt nach folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden und / Kodierregel mit der ID 01 02- 011 Für die Abbildung von diabetischen Augenkomplikationen sieht die ICD Diabetische Katarakt ergänzen. wird keine Kodierregel ausgelöst der Eingabe eines Kodes erfolgt, können die oder E11.31 G vor der Diagnose H36.0 G : Auslösen der 10 spezifische Kodes vor. „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. RGEBNISDATEN 10- GM Kode
+folgenden Regeln in Abhängigkeit von der Eingabereihenfolge ausgelöst werden Kodierregel mit der ID 01-02-011 ergänzen. UseCase 6 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden.
 
 ---
 
 | Der Anwender quittiert den Hinweis ohne eine der vorgeschlagenen Änderungen anzunehmen. | |
 |---|---|
-|  |  |
+| ERWARTETE REAKTION DER SOFTWARE |  |
 | Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |  |
-|  | ERWARTETE ERGEBNISDA |
-|  | ICD |
+|  | ERWARTETE ERGEBNISDATEN |
+|  | ICD-10-GM-Kode |
 | Zusatzkennzeichen für die Diagnosensicherheit | G43.9 |
-|  | |
+| ERWARTETE ERGEBNISDATEN | |
 | E11.31 | G |
 
-RGEBNISDATEN 1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD - 10- G M - KODES DURCH DEN AN 10- GM I10.90 E11.40 ERWARTETE REAKTION D ER SOFTWARE Nach der Beendigung des Kodiervorgangs wird Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Kodes vor Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 ( Diabetische Mononeuropathie G63.2 ( Diabetische Polyneuropathie G73.0 ( Myastheniesyndrome bei endokrinen Krankheiten G99.00 Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen ERWARTETE REAKTION D ER SOFTWARE TEN 10- GM WENDER Diagnosesicherheit die K odierregel mit der ID „01 Diabetes mellitus sieht d 02- 012“ ausgelöst ie ICD -10 spezifische | WENDER | |
+1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER I10.90 E11.40 Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische Kodes vor. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu ergänzen Diagnosesicherheit | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
-| ICD | Diagnosesicherheit |
+| ICD-10-GM-Kode | Diagnosesicherheit |
 | G43.9 | G |
 | I10.90 | G |
 | E11.40 | G |
 
-|  |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| wird |
+| Nach der Beendigung des Kodiervorgangs wird die Kodierregel mit der ID „01-02-012“ ausgelöst |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.40 G |
-| Anzeige des folgenden Hinweistextes: Diabetes mellitus sieht d |
-| Anzeige des folgenden Vorschlagstextes:  G59.0 ( ) G73.0 (  G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung von neurologischen Komplikationen bei Diabetes mellitus sieht die ICD-10 spezifische |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: G59.0 (Diabetische Mononeuropathie) G63.2 (Diabetische Polyneuropathie) G73.0 (Myastheniesyndrome bei endokrinen Krankheiten) G99.00 (Gastroparese bei autonomer Neuropathie bei endokrinen und Stoffwechselkrankheiten) G99.08 (Sonstige autonome Neuropathie bei endokrinen und Stoffwechselkrankheiten) |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu |
 
-|  |
+| ERWARTETE REAKTION DER SOFTWARE |
 |---|
 | Es werden keine Änderungen an den eingegebenen Kodes durchgeführt. |
 
-| ERWARTETE ERGEBNISDA | |
+| ERWARTETE ERGEBNISDATEN | |
 |---|---|
-| ICD | Zusatzkennzeichen für die Diagnosensicherheit |
+| ICD-10-GM-Kode | Zusatzkennzeichen für die Diagnosensicherheit |
 | G43.9 | G |
-|  | |
+| ERWARTETE ERGEBNISDATEN | |
 | E11.31 | G |
 | 1.1.7 | Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle |
 
@@ -402,23 +401,23 @@ RGEBNISDATEN 1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherte
 
 ---
 
-| E | |
+| ERWARTETE REAKTION DER SOFTWARE | |
 |---|---|
 | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G | |
-| Anzeige des folgenden Hinweistextes: - | |
-| Anzeige des folgenden Vorschlagstextes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10 | |
+| Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. | |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | |
-| Falls | |
+| Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und die Diagnose | |
 | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: N08.3 G | |
-| Anzeige des folgenden Hinweistextes: -10 nur in Verbindung mit einem Kode für den | |
-| Anzeige des folgenden Vorschlagstextes:  E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist  E11.20 (N | |
+| Anzeige des folgenden Hinweistextes: Der Kode für diabetische Nierenkomplikationen ist laut ICD-10 nur in Verbindung mit einem Kode für den | |
+| Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: E10.20 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen [N08.3*], nicht als entgleist E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*]) E11.20 (Nicht primär insulinabhängiger Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, | |
 | 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-| KODES DURCH DEN AN ICD Diagnosesicherheit J30.1 G E11.20 G N08.3 G M54.5 G E10.20 G  E Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G Anzeige des folgenden Hinweistextes: - Anzeige des folgenden Vorschlagstextes:  N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10 | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER ICD-10-GM-Kode Diagnosesicherheit J30.1 G E11.20 G N08.3 G M54.5 G E10.20 G  ERWARTETE REAKTION DER SOFTWARE Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G Anzeige des folgenden Hinweistextes: Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD-10 einen spezifischen Kode vor.. Anzeige des folgenden Vorschlagstextes: Sofern zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: N08.3 (Glomeruläre Krankheiten bei Diabetes mellitus  (E10-E14+, vierte Stelle .2)) | |
 | 1.1.8 Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle | |
-| KODES DURCH DEN AN | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |  | |
-| ICD | |
+| ICD-10-GM-Kode | |
 | Diagnosesicherheit | J30.1 |
 | G | E11.20 |
 | G | |
@@ -426,18 +425,18 @@ RGEBNISDATEN 1.1.7 UseCase 7 Dieser UseCase geht davon aus, dass ein Versicherte
 | M54.5 | G |
 | E10.20 | |
 | G |  |
-| E | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G |
+| ERWARTETE REAKTION DER SOFTWARE | Falls die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und eine der Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: E11.20 G bzw. E10.20 G |
 
-| KODES DURCH DEN AN | |
+| EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
-| ICD | Diagnosesicherheit |
+| ICD-10-GM-Kode | Diagnosesicherheit |
 | J30.1 | G |
 | E11.20 | G |
 | N08.3 | G |
 | M54.5 | G |
 | E10.20 | G |
 
-EINGABE VON ICD - 10- GM Kode 10- G M - WENDER „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. ERWARTETE REAKTION DER SOFTWAR Diagnosen E10.20 G und E11.20 G vor der Diagnose N08.3 G erfasst wurde, wird die Kodierregel mit der ID „01 02- 010“ ausgelöst: Für die Abbildung von diabetischen Nierenkomplikationen sieht die ICD 10 einen spezifischen Kode vor.. Sofe rn zutreffend, ergänzen Sie bitte einen oder mehrere Kodes: E14+, vierte Stelle .2)) ergänzen die Diagnosen direkt nach der Eingabe der Einzeldiagnosen geprüft werden und die Diagnose N08.3 G vor einer der Diagnosen E10.20 G oder E11.20 G erfasst wurde, wird die Kodierregel mit der ID „01 01- 017“ ausgelöst: Der Kode für diabetische Nierenkomplikationen ist laut ICD Diabetes mellitus anzugeben. Sofern zutreffend , ergänzen Sie bitte einen oder mehrere Kodes: bezeichnet) E10.21 (Diabetes mellitus vom Typ 1 mit Nierenkomplikationen, als entgleist bezeichnet [N08.3*]) icht primär insulinabhängiger Diabetes mellitus [Typ -Diabetes] mit Nierenkomplikationen, -2 nicht als entgleist bezeichnet [N08.3*])
+UseCase 8 „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den Versicherten kodiert werden. Diagnosen E10.20 G und E11.20 G vor der Diagnose N08.3 G erfasst wurde, wird die Kodierregel mit der ID „01-02-010“ ausgelöst: N08.3 G vor einer der Diagnosen E10.20 G oder E11.20 G erfasst wurde, wird die Kodierregel mit der ID „01-01-017“ ausgelöst: Diabetes mellitus anzugeben. bezeichnet) nicht als entgleist bezeichnet [N08.3*])
 
 ---
 
@@ -479,7 +478,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | ERWARTETE REAKTION DER SOFTWARE | |
 |  | |
 | Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. | |
-| 01-01-025 | |
+| Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen | |
 | ERWARTETE ERGEBNISDATEN | |
 | ICD-10-GM-Kode Zusatzkennzeichen für die Diagnosensicherheit J30.1 G | |
 | ERWARTETE REAKTION DER SOFTWARE | |
@@ -506,9 +505,9 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit |
 | Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: |
 
-ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
+ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
 |---|
-| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. 01-01-025 |
+| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt. Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
 
 
 ---
@@ -964,16 +963,16 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 | I21.0 G | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|
 | Quartal -4 | | | | | | | | | |
-| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |  | | | | | |
-| DS |  | DS |  | DS |  | DS | ICD-10- | DS | I63.9 |
+| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | | | | | |
+| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 |
 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 |
 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G | I21.0 |
 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |  |
 |  | E11.90 | G |  |  |  |  | I63.9 | G |  |
 |  | I21.0 | G |  |  |  |  | I21.0 | G | Patient 4 |
 | Quartal -4 | | | | | | | | | |
-| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |  | | | | | |
-| DS |  | DS |  | DS |  | DS | ICD-10- | DS | I64 |
+| Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | | | | | |
+| DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I64 |
 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 |
 | G | I64 | Z | I64 | Z | I25.12 | G | I10.90 | G |  |
 | TESTDATEN | | | | | | | | | |
@@ -982,7 +981,7 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 |  |  |  |  |  |  |  |  | I21.0 | G |
 | Patient 3 | | | | | | | | | |
 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-|  | DS |  | DS |  | DS |  | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
 | I63.9 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I63.9 | G | I63.9 | G | I25.12 | G | I10.90 | G |
 | I21.0 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
@@ -990,7 +989,7 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 |  |  | I21.0 | G |  |  |  |  | I21.0 | G |
 | Patient 4 | | | | | | | | | |
 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-|  | DS |  | DS |  | DS |  | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
 | I64 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I64 | Z | I64 | Z | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I64 | Z | E11.90 | G |
@@ -998,7 +997,7 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 |  |  |  |  |  |  |  |  | I21.0 | G |
 | Patient 5 | | | | | | | | | |
 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | | | | | |
-|  | DS |  | DS |  | DS |  | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | ICD-10- | DS |
 | I62.02 | G | I25.12 | G | I10.90 | G | E11.90 | G | J44.9- | G |
 | I10.90 | G | I62.02 | G | I62.02 | G | I25.12 | G | I10.90 | G |
 |  |  | I10.90 | G | J44.9- | G | I62.02 | G | E11.90 | G |
@@ -1010,24 +1009,24 @@ QUARTALSÜBERGREIFENDE REGELN KONFIGURATION DER KODIERREGELN UseCase 13 gegen di
 |  |  | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 3 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |  | DS |  | DS |
-|  | DS |  | DS | ICD-10- | DS | I63.9 | G | I25.12 | G |
+| Patient 3 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I63.9 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I63.9 | G |
 | I63.9 | | | | | | | | | |
 | G | I25.12 | G | I10.90 | G | | | | | |
 | I21.0 | G | I10.90 | G | J44.9- | G | I63.9 | G | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I63.9 | G |
 |  |  | I21.0 | G |  |  |  |  | I21.0 | G |
-| Patient 4 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |  | DS |  | DS |
-|  | DS |  | DS | ICD-10- | DS | I64 | G | I25.12 | G |
+| Patient 4 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I64 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I64 | Z |
 | I64 | | | | | | | | | |
 | Z | I25.12 | G | I10.90 | G | | | | | |
 |  |  | I10.90 | G | J44.9- | G | I64 | Z | E11.90 | G |
 |  |  | E11.90 | G |  |  |  |  | I64 | G |
 |  |  |  |  |  |  |  |  | I21.0 | G |
-| Patient 5 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal |  | DS |  | DS |
-|  | DS |  | DS | ICD-10- | DS | I62.02 | G | I25.12 | G |
+| Patient 5 | Quartal -4 | Quartal -3 | Quartal -2 | Quartal -1 | Aktuelles Quartal | ICD-10- | DS | ICD-10- | DS |
+| ICD-10- | DS | ICD-10- | DS | ICD-10- | DS | I62.02 | G | I25.12 | G |
 | I10.90 | G | E11.90 | G | J44.9- | G | I10.90 | G | I62.02 | G |
 
 / Version: 1.02 /
@@ -1175,7 +1174,7 @@ Der Anwender entscheidet sich, die Diagnose "E66.00 G" als Dauerdiagnose in die 
 |---|---|---|
 | ICD-10-GM-Kode | Diagnosenklartext | |
 | Q3/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |
-| Q4/2022 | E66.01 G | Adipositas durch übermäßige Kalorienzufuhr Grad II (WHO) bei |
+| Q4/2022 | E66.01 G | Patienten von 18 Jahren und älter |
 | Q1/2023 | E66.00 G | Adipositas durch übermäßige Kalorienzufuhr Grad I (WHO) bei |
 | Q2/2023 | E66.00 G | Adipositas durch übermäßige Kalorienzufuhr Grad I (WHO) bei |
 
@@ -1187,25 +1186,15 @@ mit der Diagnosensicherheit "G" zur Übernahme angeboten.
 
 **KP10 -200** und **KP10 -240** sei hier an einem Beispiel beschrieben:
 
-GM-Kode und älter und älter QUARTAL Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter Patienten von 18 Jahren und älter
+GM-Kode und älter und älter QUARTAL
 
 ---
 
 Bei der Durchsicht der medizinischen Patientendokumentation kann der Anwender den Krankheitsverlauf  über die je Schein gespeicherte(n) Dauerdiagnose(n) nachvollziehen, siehe Tabelle.
 
-## UM A
+## 4.2 FRAGEN / ANTWORTEN ZUM ANFORDERUNGSKATALOG ZUR ANWENDUNG DER ICD-10-GM
 
-## UR ANWENDUNG DER ICD
-
-## 4.2 FRAGEN / ANTWORTEN Z
-
-## NFORDERUNGSKATALOG Z
-
-## -10-GM
-
-### 4.2.1 Wie unterscheiden sich behandlungsfallbezogenen und quartalsübergreifenden Kodierregeln
-
-### zur gleichen Behandlungsdiagnose?
+### 4.2.1 Wie unterscheiden sich behandlungsfallbezogenen und quartalsübergreifenden Kodierregeln  zur gleichen Behandlungsdiagnose?
 
 Die Kodierregeln mit den IDs - 01-01-001
 
@@ -1213,23 +1202,15 @@ Die Kodierregeln mit den IDs - 01-01-001
 
 können durch den ICD-10-GM-Kode I21.0 G ausgelöst werden.
 
-G sondern bspw. I21.0 mit dem Zusatzkennzeichen Z
+Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 -  kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
 
-Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 -  kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen
+Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen **G**) daraufhin überprüft
 
-Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  G) daraufhin überprüft
-
-Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen  werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
+werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
 
 Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD -10 -  GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2 - mit dem Zusatzkennzeichen G zu ändern ist.
 
-### odierregel ausK
-
-###
-
-### 4.2.2 Kann eine Diagnose mehr als eine
-
-### lösen?
+### 4.2.2 Kann eine Diagnose mehr als eine Kodierregel auslösen?
 
 Grundsätzlich kann es vorkommen, dass für einen ICD-10-GM-Kode mehr als eine Kodierregel ausgelöst  werden. Dann sind alle Korrekturmöglichkeiten anzuzeigen.
 

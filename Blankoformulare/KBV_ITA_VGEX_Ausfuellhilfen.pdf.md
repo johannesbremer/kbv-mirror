@@ -25,75 +25,72 @@
 
 ---
 
-### INHALTSVERZEICHNIS 1 EINLEITUNG
+### INHALTSVERZEICHNIS
 
-2 KONVENTIONEN
+**1** **EINLEITUNG**
 
-2.1 Zeichensatz .................................................................................................................................... 7
+**7**
 
-2.2 Namespace ..................................................................................................................................... 7
+**2** **KONVENTIONEN**
 
-2.3 Root -Schema ................................................................................................................................. 7
+**7**
 
-2.4 Dateinamen .................................................................................................................................... 7
+**2.1** **Zeichensatz .................................................................................................................................... 7**
 
-2.5 Semantik der verwendeten Diagrammsymbole
+**2.2** **Namespace..................................................................................................................................... 7**
 
-2.5.1 Kardinalität ................................
+**2.3** **Root-Schema ................................................................................................................................. 7**
 
-2.5.2 Strukturelemente
+**2.4** **Dateinamen .................................................................................................................................... 7**
 
-2.5.3 Sonstige Symbole
+**2.5** **Semantik der verwendeten Diagrammsymbole ......................................................................... 8**
 
-3 EHD – ELEMENT (ROOT-ELEMENT) 4 HEADER (METADATEN)
+2.5.1 Kardinalität ............................................................................................................................. 8
 
-5 BODY (INHALTSDATEN)
+2.5.2 Strukturelemente ................................................................................................................... 9
 
-5.1
+2.5.3 Sonstige Symbole .................................................................................................................. 9
 
-|  | ausfuellhilfen | ............................................................................................................................... | 11 |
+**3** **EHD – ELEMENT (ROOT-ELEMENT)**
+
+**10**
+
+**4** **HEADER (METADATEN)**
+
+**11**
+
+**5** **BODY (INHALTSDATEN)**
+
+**11**
+
+**5.1**
+
+|  | **ausfuellhilfen** | **...............................................................................................................................** | **11** |
 |---|---|---|---|
-| feld_liste |  | ....................................................................................................................................... | 12 |
-| feld |  | ................................................................................................................................................ | 12 |
-| nummer |  | ........................................................................................................................................ | 13 |
-| name |  | ............................................................................................................................................. | 13 |
-| hinweistext | | ................................................................................................................................... | 13 |
-|  | REFERENZIERTE | DOKUMENTE | 14 |
+| **feld_liste** |  | **.......................................................................................................................................** | **12** |
+| **feld** |  | **................................................................................................................................................** | **12** |
+| **nummer** |  | **........................................................................................................................................** | **13** |
+| **name** |  | **.............................................................................................................................................** | **13** |
+| **hinweistext** | | **...................................................................................................................................** | **13** |
+|  | **REFERENZIERTE** | **DOKUMENTE** | **14** |
 
-5.2
+**5.2**
 
-5.3
+**5.3**
 
-5.4
+**5.4**
 
-5.5
+**5.5**
 
-5.6
+**5.6**
 
-6
+**6**
 
-7
-
-7
-
-......................................................................... 8
-
-................................ ................................ ............................. 8
-
-................................ ................................ ................................ ................... 9
-
-................................ ................................ ................................ .................. 9 10
-
-11
-
-11
-
-............................................................................................................................... 11 ....................................................................................................................................... 12 ................................................................................................................................................ 12 ........................................................................................................................................ 13 ............................................................................................................................................. 13 ................................................................................................................................... 13 REFERENZIERTE DOKUMENTE 1.00
-
+............................................................................................................................... 11 ....................................................................................................................................... 12 ................................................................................................................................................ 12 ........................................................................................................................................ 13 ............................................................................................................................................. 13 ................................................................................................................................... 13 REFERENZIERTE DOKUMENTE
 
 ---
 
-*ABBILDUNGSVERZEICHNI S*
+#### ABBILDUNGSVERZEICHNIS
 
 Abbildung 1: /ehd (root-Element) ...........................................................................................
 
@@ -109,8 +106,6 @@ Abbildung 6: name ..............................................................
 
 Abbildung 7: hinweistext.........................................................................................................
 
-1.00
-
 10
 
 11
@@ -126,77 +121,59 @@ Abbildung 7: hinweistext........................................................
 
 ---
 
-*TABELLENVERZEICHNIS*
+#### TABELLENVERZEICHNIS
 
 Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements
 
-Tabelle 2: Beschreibung der Strukturelement- Symbole
+Tabelle 2: Beschreibung der Strukturelement-
 
 Tabelle 3: Beschreibung sonstiger Symbole
 
 ........................................... 8
 
-........................................................... 9
+Symbole........................................................... 9
 
-............................................................................
-
-9
-
-1.00
+............................................................................ 9
 
 
 ---
 
-| IT in der | Arztpraxis |  |  |
-|---|---|---|---|
-| Ausfüllhilfen |  |  |  |
-| *XML* | *- CODE* | *-* | *VERZEICHNIS* |
-| XML - | Code 1: /ehd |  | .................................................................................................................. |
-| XML - | Code 2: | ausfuellhilfen | .................................................................................................... |
-| XML -Code | 3: | feld_liste | ........................................................................................................... |
-| XML -Co | de 4: feld |  | ................................................................................................................... |
-| XML -Code | 5: nummer |  | ............................................................................................................ |
-| XML -Code | 6: nummer |  | ............................................................................................................ |
-| XML -Code | 7: hinweistext |  | ....................................................................................................... |
-| KBV_ITA_VGEX_ |  | Ausfuellhilfen * Version | 1.00 |
+#### XML- CODE- VERZEICHNIS
 
-10
+XML- Code 1: /ehd .................................................................................................................. 10
 
-11
+XML- Code 2: ausfuellhilfen .................................................................................................... 11
 
-12
+XML-Code 3: feld_liste ........................................................................................................... 12
 
-12
+XML-Code 4: feld ................................................................................................................... 12
 
-13
+XML-Code 5: nummer ............................................................................................................ 13
 
-13
+XML-Code 6: nummer ............................................................................................................ 13
 
-13
+XML-Code 7: hinweistext ....................................................................................................... 13
 
-XML - CODE - VERZEICHNIS Code 2: ausfuellhilfen XML -Code 3: XML -Co de 4: feld XML -Code 5: nummer XML -Code 6: nummer XML -Code 7: hinweistext
 
 ---
 
 # 1 Einleitung
 
-Format, en
+Die Kommunikation zwischen Arztpraxen, Arzt und Patient oder Arzt und Krankenkasse wird  häufig mit Hilfe von Formularen (Muster) abgehandelt. Um die korrekte Befüllung der Muster  zu unterstützen, wurden die sogenannten Ausfüllhilfen, ursprünglich rein im PDF-t-Format, en
 
-Die Kommunikation zwischen Arztpraxen, Arzt und Patient oder Arzt und Krankenkasse wird  häufig mit Hilfe von Formularen (Muster) abgehandelt. Um die korrekte Befüllung der Muster  zu unterstützen, wurden die sogenannten Ausfüllhilfen, ursprünglich rein im PDF-t- wickelt.
+wickelt.
 
-Spitzenverband konse
+Im Gegensatz zu den Vordruckerläuterungen, welche mit dem GKV-n-Spitzenverband konse
 
-Im Gegensatz zu den Vordruckerläuterungen, welche mit dem GKV-n- tiert werden, handelt es sich bei den Ausfüllhilfen nicht um verbindliche Vorgaben, sondern  um eine Hilfestellung, die Ärzten das Ausfüllen der Formulare erleichtern soll.
+tiert werden, handelt es sich bei den Ausfüllhilfen nicht um verbindliche Vorgaben, sondern  um eine Hilfestellung, die Ärzten das Ausfüllen der Formulare erleichtern soll.
 
-Mit der in diesem Dokument beschriebenen XML-Struktur werden die Informationen der Aus- im XML-Format zur maschinellen Verarbeitung bereitgestellt. Die PDF-
+Mit der in diesem Dokument beschriebenen XML-Struktur werden die Informationen der Aus- füllhilfen im XML-Format zur maschinellen Verarbeitung bereitgestellt. Die PDF-
 
-füllhilfen  Veröffentlichungen sind nach wie vor einzusetzen, da sich die Informationen der XML-Dateien  auf die Abbildung der PDF-Dateien beziehen.
+Veröffentlichungen sind nach wie vor einzusetzen, da sich die Informationen der XML-Dateien  auf die Abbildung der PDF-Dateien beziehen.
 
-Format
+Die vorliegende Beschreibung definiert das Format der Ausfüllhilfen der KBV im XML-,Format
 
-Die vorliegende Beschreibung definiert das Format der Ausfüllhilfen der KBV im XML-, Richtlinie [KBV_ITA_VGEX_eHD
-
-konform zur ehd-
+konform zur ehd- Richtlinie [KBV_ITA_VGEX_eHD
 
 Diese Datei wird den Softwarehäusern, welche Praxisverwaltungssysteme herstellen, vom  Dezernat 6 der KBV ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Ver- fügung gestellt.
 
@@ -208,21 +185,13 @@ Standard-Zeichensatz ist ISO-8859-15.
 
 ## 2.2 Namespace
 
-Namespace ist
-
-Standard-
-
-**urn:ehd/afhi/001**
+Standard- Namespace ist **urn:ehd/afhi/001**
 
 ## 2.3 Root-Schema
 
-Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-
 
-Das Root--
-
-**afhi_root_V1.00.xsd**
-
-Schemata inkludiert sind, heißt
+Schemata inkludiert sind, heißt **afhi_root_V1.00.xsd**
 
 ## 2.4 Dateinamen
 
@@ -230,13 +199,11 @@ Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
 
 Dateinamenskonvention nach ehd-Richtlinie:
 
-**.xml**
-
-**[ehd.]datatyp_vv.vv_sender_MU+val_nr+val_du+val**
+**[ehd.]datatyp_vv.vv_sender_MU+val_nr+val_du+val .xml**
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp , "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element **document_type_cd**
+datatyp ..... Datentyp , "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
 
 
 ---
@@ -283,22 +250,20 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 
 Die Elemente eines Schema-i-Diagramms werden über sogenannte Strukturelemente mite
 
-nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:
+nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>***
 
-*<xs:choice>*
-
-und *<xs:sequence>*
+und ***<xs:sequence>***
 
 | Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-Tabelle 2: Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 ### 2.5.3 Sonstige Symbole
 
-Es werden außerdem folgende Diagramm -Symbole verwendet:
+Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
@@ -307,83 +272,73 @@ Es werden außerdem folgende Diagramm -Symbole verwendet:
 |  | Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
-Tabelle 3: Beschreibung sonstiger Symbole 1.00
+**Tabelle 3:** Beschreibung sonstiger Symbole
 
-<xs:choice> zeigt an, dass zwischen verschiedenen Ki n- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fes t- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp. dar, welches mehrere Elemente zusammenfasst.
+<xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
-# Element)
+# 3 ehd – Element (root- Element)
 
-# 3 ehd – Element (root -
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1:  Element stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1: /ehd (root -Element) dargestellt ist. Im header
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
-Element stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die
+**/ehd (root-Element)** dargestellt ist. Im header-
 
-eigentlichen Daten hinterlegt.
-
-Für die XML-Dateien ist der Zeichensatz ISO
-
--8859-1 5 vorgeschrieben. Bei allen Elementen,
-
-die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
-
--Element)
-
-Abbildung 1: /ehd (root
+**Abbildung 1:** /ehd (root-Element)
 
 Das ***<ehd>*** - Element hat folgenden Aufbau:
 
-*<?-xml version="1.0" encoding="ISO*
+**<?-xml version="1.0" encoding="ISO 8859-15"?>**
 
-*8859- 15"?>*
+**<ehd:ehd ehd_version="..." xmlns="" urn:ehd/001**
 
-*xmlns="" urn:ehd/001* instance" xsi:schemaLocation xmlns =" urn:ehd/afhi *="urn:ehd/001*
+xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance") **../Schema/afhi"_root_V1.00.xsd >**
 
-*<ehd:ehd ehd_version="..."*
+**<ehd:header>**
 
-/001"
+**...**
 
-xmlns:xsi =" [http://www.w3.org/2001/XMLSchema-](http://www.w3.org/2001/XMLSchema-)
+xmlns="urn:ehd/afhi/001"
 
-*../Schema/afhi"_root_V1.00.xsd*
+xsi:schemaLocation**="urn:ehd/001**
 
-*<ehd:header>*
+**</ehd:header>**
 
-*...*
+**<ehd:body>**
 
-*</ehd:header>*
+**...**
 
-*<ehd:body>*
+**</ehd:body>**
 
-*...*
+**</ehd:ehd>**
 
-*</ehd:body>*
+**XML-Code 1:**
 
-*</ehd:ehd>*
+ehd_version:
 
-XML-Code 1: /ehd
+***<header>***
 
-File wird die Versionsnummer zur zugrundeliegenden ehd Richtlinie
+***<body>***
 
-ehd_version: Im XML bzw. des verwendeten ehd- Schemas angeben. Der Wertebereich wird auf 0.00
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
+
+/ehd
+
+Im XML--File wird die Versionsnummer zur zugrundeliegenden ehd Richtlinie
+
+bzw. des verwendeten ehd- Schemas angeben. Der Wertebereich wird auf 0.00
 
 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
-***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im  bo dy liegenden eigentlichen Inhaltsdaten.
-
-***<body>***
+Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im  bo dy liegenden eigentlichen Inhaltsdaten.
 
 Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 ***urn:ehd/001***
-
-Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
-
-1.00
 
 
 ---
@@ -435,7 +390,7 @@ Der XML-Code für ein <feld_liste> Element hat folgenden Aufbau:
 
 **<feld_liste>**
 
-**< feld>**
+**<feld>**
 
 **...**
 
@@ -455,24 +410,26 @@ Der XML-Code für ein <feld> Element hat folgenden Aufbau:
 
 **<feld>**
 
-**< nummer V="..." / >**
+**<nummer V="..."/>**
 
-**< name V="..." / >**
+**<name V="..."/>**
 
-**< hinweistext V=“...“ / >**
+**<hinweistext V=“...“/>**
 
 **</feld>**
 
-**XML-Code 4:** feld
+**XML-Code 4:**
+
+feld
 
 
 ---
 
 ## 5.4 nummer
 
-Attribut die Nummer des jeweils beschriebenen Feldes.
+Das Element <nummer> enthält im V- Attribut die Nummer des jeweils beschriebenen Feldes.
 
-Das Element <nummer> enthält im V-  Diese Nummer bezeichnet die aus dem PDF-Dokument ersichtliche Feldnummer.
+Diese Nummer bezeichnet die aus dem PDF-Dokument ersichtliche Feldnummer.
 
 **Abbildung 5:** nummer
 
@@ -502,11 +459,9 @@ Das Element <hinweistext> enthält im V-eAttribut den Hinweistext für das besch
 
 Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
-**liegt vor, wenn der Versicherte mindestens ein Jahr**
-
 **<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-**
 
-**handlung befindet. Eine**Dauerbehandlung
+**handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**
 
 **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
 

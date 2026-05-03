@@ -1,24 +1,18 @@
 **Intern**
 
-## ÜBERWEISUNGSSCHEIN
-
-## MUSTER 6
+## MUSTER 6  ÜBERWEISUNGSSCHEIN
 
 # HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
-
-eines
 
 **ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN**
 
 **1.** **KURATIV, PRÄVENTIV, BEHANDLUNG GEM. § 116B SGB V, BEI BELEGÄRZTL. BEHANDLUNG**
 
-Bitte geben Sie an, ob die Überweisung zur kurativen Versorgung, zur Prävention, zur Hinzuziehung  Arztes bei belegärztlicher Behandlung oder als Zuweisung zu einer Behandlung gemäß § 116b SGB V erfolgt.
+Bitte geben Sie an, ob die Überweisung zur kurativen Versorgung, zur Prävention, zur Hinzuziehung eines
 
-**2.** **QUARTAL** as Quartal der Ausstellung der Überweisung in d
+Arztes bei belegärztlicher Behandlung oder als Zuweisung zu einer Behandlung gemäß § 116b SGB V erfolgt.
 
-Bitte tragen Sie d
-
-er Form „QJJ“ ein. Überweisungen sind
+**2.** **QUARTAL** Bitte tragen Sie das Quartal der Ausstellung der Überweisung in der Form „QJJ“ ein. Überweisungen sind
 
 grundsätzlich quartalsübergreifend gültig. Auch wenn die Behandlung erst im Folgequartal aufgenommen  wird oder sich über mehrere Quartale erstreckt, ist keine erneute Überweisung erforderlich.
 
@@ -35,17 +29,15 @@ Wenn die Behandlung als Folge eines Unfalls erforderlich wird, kann die Krankenk
 
 ---
 
-verwenden Sie das Muster 6 bitte nicht. Die
+Bei Arbeitsunfällen, Berufskrankheiten und Schülerunfällen verwenden Sie das Muster 6 bitte nicht. Die
 
-Bei Arbeitsunfällen, Berufskrankheiten und Schülerunfällen  Abrechnung der Behandlung ist in diesen Fällen mit dem zuständigen Unfallversicherungsträger  vorzunehmen. Hierfür ist die „Ärztliche Unfallmeldung“ (Formtext F 1050) nach dem Vertrag
-
-Ärzte/Unfallversicherungsträger zu verwenden. Unter Schülerunfällen sind auch Unfälle von Kindern in  Kindergärten und von Studierenden während des Studiums zu verstehen.
+Abrechnung der Behandlung ist in diesen Fällen mit dem zuständigen Unfallversicherungsträger  vorzunehmen. Hierfür ist die „Ärztliche Unfallmeldung“ (Formtext F 1050) nach dem Vertrag  Ärzte/Unfallversicherungsträger zu verwenden. Unter Schülerunfällen sind auch Unfälle von Kindern in  Kindergärten und von Studierenden während des Studiums zu verstehen.
 
 ## 4. DATUM DER OP BEI LEISTUNGEN NACH ABSCHNITT 31.2
 
-geben Sie bitte das Datum der
+Wurden ambulante Operationen nach dem Abschnitt 31.2 EBM erbracht, geben Sie bitte das Datum der
 
-Wurden ambulante Operationen nach dem Abschnitt 31.2 EBM erbracht,  Operation in der Form „TTMMJJ“ an.
+Operation in der Form „TTMMJJ“ an.
 
 ## 5. GESCHLECHT
 
@@ -67,23 +59,19 @@ Die Überweisung zur Ausführung von Auftragsleistungen erfordert
 
 ## 8. KONSILIARUNTERSUCHUNG
 
-Mit der Überweisung zur Konsiliaruntersuchung werden diagnostische Leistungen veranlasst, über deren
+Mit der Überweisung zur Konsiliaruntersuchung werden diagnostische Leistungen veranlasst, über deren  Art und Umfang der ausführende Arzt entscheidet. Der Grund für die Untersuchung ist einzutragen. Der  ausführende Arzt ist in der Wahl seiner diagnostischen Schritte frei. Therapeutische Maßnahmen sind nicht
 
-Schritte frei. Therapeutische Maßnahmen sind nicht
-
-Art und Umfang der ausführende Arzt entscheidet. Der Grund für die Untersuchung ist einzutragen. Der  ausführende Arzt ist in der Wahl seiner diagnostischen berechnungsfähig.
+berechnungsfähig.
 
 ## 9. MIT-/ WEITERBEHANDLUNG
 
-/Weiterbehandlung“ anzukreuzen.
-
-Bei einer Überweisung zur Weiterbehandlung wird die gesamte diagnostische und therapeutische Tätigkeit  dem weiterbehandelnden Arzt übertragen. Auch bei Überweisungen zur Durchführung ambulanter  Operationen ist das Feld „Mit
+Bei einer Überweisung zur Weiterbehandlung wird die gesamte diagnostische und therapeutische Tätigkeit  dem weiterbehandelnden Arzt übertragen. Auch bei Überweisungen zur Durchführung ambulanter  Operationen ist das Feld „Mit /Weiterbehandlung“ anzukreuzen.
 
 ## 10. AU BIS
 
-ben, informieren Sie bitte den auf Überweisung tätig
+Falls Sie eine Arbeitsunfähigkeit bescheinigt haben, informieren Sie bitte den auf Überweisung tätig
 
-Falls Sie eine Arbeitsunfähigkeit bescheinigt ha werdenden Arzt über das Datum des voraussichtlichen Endes der Arbeitsunfähigkeit in der Form „TTMMJJ“.
+werdenden Arzt über das Datum des voraussichtlichen Endes der Arbeitsunfähigkeit in der Form „TTMMJJ“.
 
 Diese Angabe ist nur dann erforderlich, wenn die Behandlungsführung auf den weiterbehandelnden Arzt  übergehen soll.
 
@@ -96,11 +84,11 @@ Wenn Ihnen bekannt ist, dass der Patient wegen Rückständen bei den Mitgliedsbe
 
 ---
 
-für die Behandlung und zur Vermeidung von
-
 Unter „Diagnose/Verdachtsdiagnose“, „Befund/Medikation“ bzw. „Auftrag“ geben Sie bitte Informationen
 
-an, die der auf Überweisung tätig werdende Arzt  Mehrfachuntersuchungen benötigt. Hierzu zählen auch bisher erhobene Befunde und
+an, die der auf Überweisung tätig werdende Arzt für die Behandlung und zur Vermeidung von
+
+Mehrfachuntersuchungen benötigt. Hierzu zählen auch bisher erhobene Befunde und
 
 Behandlungsmaßnahmen.
 

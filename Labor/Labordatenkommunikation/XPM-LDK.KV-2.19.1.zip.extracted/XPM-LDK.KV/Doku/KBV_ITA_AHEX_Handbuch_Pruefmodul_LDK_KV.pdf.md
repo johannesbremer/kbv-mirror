@@ -1,19 +1,19 @@
-|  |  |
+|  | XPM-LDK.KV |
 |---|---|
-|  |  |
+|  | Handbuch Prüfmodul |
 |  | [ |
 |  |  |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  |  |
-|  | -Lewin-Platz 2 |
+|  | 10623 Berlin, Herbert |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | 1.0.3 |
+|  | Version |
 
 #### DOKUMENTENHISTORIE
 
-XPM-LDK.KV Handbuch Prüfmodul KBV_ITA_AHEX_Handbuch_Pruefmodul _LDK_KV Dezernat Digitalisierung und IT 10623 Berlin, Herbert Version  Datum: 01.03.2018 Klassifizierung: Extern  Status: In Kraft
+KBV_ITA_AHEX_Handbuch_Pruefmodul _LDK_KV -Lewin-Platz 2 1.0.3 Datum: 01.03.2018 Klassifizierung: Extern  Status: In Kraft
 
 
 ---
@@ -129,9 +129,9 @@ Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java 
 
 ## 1.1 Begriffsklärung
 
-- : LDK steht für Labordatenkommunikation. Unter diesem Begriff sind der
+- **XPM_LDK**: LDK steht für Labordatenkommunikation. Unter diesem Begriff sind der
 
--  **XPM_LDK** LDT3.0 und digitale Muster 10 bzw. 10A zusammengefasst. Das XPM_LDK steht als  Synonym für das Prüfmodul der digitalen Muster 10 und 10 A sowie für den LDT 3.0  Datensatz.
+- LDT3.0 und digitale Muster 10 bzw. 10A zusammengefasst. Das XPM_LDK steht als  Synonym für das Prüfmodul der digitalen Muster 10 und 10 A sowie für den LDT 3.0  Datensatz.
 
 - **XPM_LDK-Paket**: Ein Paket des LDK-Prüfmoduls bestehend aus folgenden Teilen :
 
@@ -145,30 +145,28 @@ Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java 
 
 - Batchdateien und Shellskripte (Beispiele für den kommandozeilenorientierten  Aufruf in verschiedenen Modi)
 
-- : Schnittstellenspezifisches Prüfmodulpaket für digitale Muster.
+- **XPM-LDK.KV-Va.b.c**: Schnittstellenspezifisches Prüfmodulpaket für digitale Muster.
 
--  **XPM-LDK.KV-Va.b.c** Prüfmodul-Version a.b.c auch "das aktuelle LDK-Prüfmodul" genannt.
+- Prüfmodul-Version a.b.c auch "das aktuelle LDK-Prüfmodul" genannt.
 
 - **XPM_LDK-Prüfprojekt**: Tabellen und Codeelemente, die die schnittstellenspezifi-
 
 - sche Konfiguration enthalten; schnittstellenspezifischer Bestandteil des XPM_ LDK - Pakets.
 
-- : Programm zum Interpretieren des XPM_LDK-Prüfprojektes, der Kernel
+- **XPM-Kernel**: Programm zum Interpretieren des XPM_LDK-Prüfprojektes, der Kernel
 
--  **XPM-Kernel** ist ohne verfahrensspezifisches Prüfprojekt nicht verwendbar; XPM-allgemeiner Be- standteil des XPM_LDK-Pakets.
+- ist ohne verfahrensspezifisches Prüfprojekt nicht verwendbar; XPM-allgemeiner Be- standteil des XPM_LDK-Pakets.
 
-- : Bezeichnet die Version des XPM_LDK-Paketes.
-
--  **"Prüfmodul-Version"**
+- **"Prüfmodul-Version"**: Bezeichnet die Version des XPM_LDK-Paketes.
 
 
 ---
 
 - **"das aktuelle LDK-Prüfmodul"**: Hiermit ist meist die neuste Version des - XPM_LDK-Pakets gemeint.
 
-- : Das Gesamtpaket enthält alle relevanten
+- **"Gesamtpaket XPM-LDK.praxis-Va.b.c"**: Das Gesamtpaket enthält alle relevanten
 
--  **"Gesamtpaket XPM-LDK.praxis-Va.b.c"** Dokumente und Software für die LDT-Schnittstelle und die digitalen Muster. Ach- tung! Die Versionsnummer des Gesamtpakets ist nicht zu verwechseln mit der Ver- sionsnummer des technischen Handbuchs oder des Prüfmoduls.
+- Dokumente und Software für die LDT-Schnittstelle und die digitalen Muster. Ach- tung! Die Versionsnummer des Gesamtpakets ist nicht zu verwechseln mit der Ver- sionsnummer des technischen Handbuchs oder des Prüfmoduls.
 
 ## 1.2 Systemvoraussetzungen
 
@@ -205,25 +203,17 @@ Dieser Ordner dient als Ablage für geprüfte Dateien. Hier werden die Dateien a
 
 Dieser Ordner dient als Ablage für geprüfte Dateien. Hier werden die Dateien abgelegt,  die fehlerfrei sind.
 
-## 2.6
+## 2.6 Ordner 'Konfig'
 
 Dieser Ordner enthält Konfigurationsdatei(en) im XML-Format.
 
-## 2.7
+## 2.7 Ordner 'Listen'
 
 In diesem Ordner werden alle Ausgaben des Prüfmoduls generiert.
 
-## 2.8
+## 2.8 Ordner 'Schema'
 
-In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat definieren.  Die Schemadateien (*.xsd) dürfen
-
-## Ordner 'Konfig'
-
-## Ordner 'Listen'
-
-## Ordner 'Schema'
-
-**nicht** verändert werden.
+In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat definieren.  Die Schemadateien (*.xsd) dürfen **nicht** verändert werden.
 
 
 ---
@@ -271,78 +261,68 @@ Im allgemeinen Teil werden allgemeine Informationen zum Prüflauf eingestellt.
 
 #### 3.3.1.1 Installationsverzeichnis
 
-**pruefpfad**“ festgelegt.
-
 Das Installationsverzeichnis wird im Element „
 
 z.B.: <pruefpfad>./</pruefpfad>
 
 #### 3.3.1.2 Prüfdatenverzeichnis
 
-“ festgelegt.
-
-Das Verzeichnis mit Prüfdateien wird im Element „**pruefdaten**
+Das Verzeichnis mit Prüfdateien wird im Element „
 
 z.B.: <pruefdaten>Daten/</pruefdaten>
 
 #### 3.3.1.3 Geprüft-OK-Verzeichnis
 
-Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in dieses Ver- **okdaten**
-
-zeichnis kopiert. Die Pfadangabe erfolgt im Element „
+Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in dieses Ver- zeichnis kopiert. Die Pfadangabe erfolgt im Element „
 
 z.B.: <okdaten>Geprueft/NichtAbgelehnt/</okdaten>
 
 #### 3.3.1.4 Ausschlussverzeichnis
 
-Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘abgelehnt’ bzw. ‘ab- **fehler-**
+Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘abgelehnt’ bzw. ‘ab- bruch’ in dieses Verzeichnis verschoben. Die Pfadangabe erfolgt im Element „ **daten**
 
-bruch’ in dieses Verzeichnis verschoben. Die Pfadangabe erfolgt im Element „ **daten**
+<fehlerdaten>Geprueft/Abgelehnt/</fehlerdaten>
 
-z.B.: <fehlerdaten>Geprueft/Abgelehnt/</fehlerdaten>
+z.B.:
 
 #### 3.3.1.5 Protokolldatei
 
-**log_datei**“ angegeben werden. Bei einem
-
 Bei jedem Prüflauf wird eine Protokolldatei geschrieben. Der Pfad der Protokolldatei  kann in der Konfigurationsdatei im Element „ eventuellen fehlerhaften Programmablauf befinden sich in dieser Datei Informationen  zur genauen Fehlerursache.
 
-z.B.: <log_datei>Listen/XPM_Logfile.log</log_datei>
+<log_datei>Listen/XPM_Logfile.log</log_datei>
+
+z.B.:
+
+**pruefpfad**“ festgelegt.
+
+**pruefdaten**“ festgelegt.
+
+**okdaten**
+
+**log_datei**“ angegeben werden. Bei einem
+
+**fehler-**
 
 
 ---
 
-#### Dateifilter
+#### 3.3.1.6 Dateifilter
 
-#### 3.3.1.6
-
-“ eingegrenzt
-
-Die Menge der zu prüfenden Dateien kann über das Element „**datei_filter**
-
-werden.
+Die Menge der zu prüfenden Dateien kann über das Element „ werden.
 
 z.B.: <datei_filter>*.LDT</datei_filter>
 
 #### 3.3.1.7 PDF-Dateifilter
 
-**pdf_datei_filter**
-
 Die Menge der zu prüfenden PDF-Dateien kann über das Element „ eingegrenzt werden.
 
-<pdf_datei_filter>*.PDF</pdf_datei_filter>
-
-z.B.:
+z.B.: <pdf_datei_filter>*.PDF</pdf_datei_filter>
 
 Hinweis: Solle in der Pfadangabe des Schemas das ‘%’-Zeichen verwendet werden, so muss  dieses durch die Zeichenkette ‘%25’ ersetzt werden.
 
-#### Warnungen
+#### 3.3.1.8 Warnungen
 
-#### 3.3.1.8
-
-**„warnungen“** festgelegt.
-
-Diese Einstellung ermöglicht es, das Protokollieren der Warnungen ein- bzw. auszu- schalten. Die Konfiguration wird im Element
+Diese Einstellung ermöglicht es, das Protokollieren der Warnungen ein- bzw. auszu- schalten. Die Konfiguration wird im Element **„warnungen“**
 
 Wertebereich: „ja“, „nein“.
 
@@ -354,19 +334,13 @@ Standardmäßig begrenzt das XPM_ LDK die gemeldeten Fehler einer bestimmten Mel
 
 Wertebereich: „ja“, „nein“.
 
-<fehler_begrenzen>ja</fehler_begrenzen>
+z.B.: <fehler_begrenzen>ja</fehler_begrenzen>
 
-z.B.:
-
-#### Dokumentation
-
-#### 3.3.1.10
+#### 3.3.1.10 Dokumentation
 
 Mit dieser Einstellung kann auf eine alternative Dokumentationsdatei verwiesen werden,  welche in der GUI unter „Hilfe / Hilfe“ verlinkt ist.
 
-<dokumentation>Doku/
-
-z.B.:
+z.B.: <dokumentation>Doku/
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_KV.pdf</dokumentation>
 
@@ -378,6 +352,12 @@ Im Abschnitt Eingabedateien wird der Pfad zur Steuertabelle festgelegt. Die Steu
 
 z.B.:
 
+**datei_filter**“ eingegrenzt
+
+**pdf_datei_filter**
+
+festgelegt.
+
 
 ---
 
@@ -388,7 +368,7 @@ z.B.:
 | 3.3.3 | Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle |
 | Über das Attribut Format wird das Ausgabeformat festgelegt: |  |
 
-|  | Kommaseparierte Ausgabe, über das Attribut ’Trennzei- |
+|  | chen’  lässt sich das Trennzeichen zwischen den Spal- |
 |---|---|
 |  | HTML-Format |
 |  | Internes Ausgabeformat, kann vom Prüfmodul ange- |
@@ -396,11 +376,11 @@ z.B.:
 |  | Direktausgabe auf den Drucker |
 |  | Direktausgabe auf den Drucker mit Einstellungsfenster |
 |  | Rich Text Format, formatiertes Textformat |
-|  | ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die |
+|  | Seitenbreite in Zeichen festlegen. Standardmäßig ist |
 |  | Microsoft Excel-Format |
 |  | XML-Format |
 
-CSV JRPRINT PDF PRINTER PRINTER_DIALOG RTF TEXT XLS chen’  lässt sich das Trennzeichen zwischen den Spal- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. zeigt und gedruckt werden Seitenbreite in Zeichen festlegen. Standardmäßig ist hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. Abschnitt: Ausgabedateien festgelegt. Tabelle 1: Ausgabeformate z.B.: <FehlerListe Format="PDF">Listen/Protokoll.pdf</FehlerListe> PDF Dateien können angezeigt und gedruckt werden.  Alles, was dazu benötigt wird, ist der Adobe Reader®, der kostenlos unter https://get.adobe.com/de/reader/ PDF Dokumente, die vom Acrobat Reader® ab der Version 5.0 und höher angezeigt werden können.  Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabe- dateien vom Prüfmodul eigenständig umbenannt. Der Name der Ausgabedatei setzt sich zusammen aus dem Namen der Prüfdatei und den vorgegebenen Dateinamen. Diese Vorgehensweise verhindert das Überschreiben bereits erzeugter Protokolle. Bei Fehlerprotokollen fügt das XPM noch ein Präfix hinzu, das den Errorlevel der Prü- fung kennzeichnet. Es werden folgende Präfixe verwendet: heruntergeladen werden kann. XPM_LDK erzeugt
+CSV Kommaseparierte Ausgabe, über das Attribut ’Trennzei- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. JRPRINT zeigt und gedruckt werden PDF PRINTER PRINTER_DIALOG RTF TEXT ASCII Text, über das Attribut ‘Seitenbreite’ lässt sich die hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. XLS Abschnitt: Ausgabedateien festgelegt. Tabelle 1: Ausgabeformate z.B.: <FehlerListe Format="PDF">Listen/Protokoll.pdf</FehlerListe> PDF Dateien können angezeigt und gedruckt werden.  Alles, was dazu benötigt wird, ist der Adobe Reader®, der kostenlos unter https://get.adobe.com/de/reader/ heruntergeladen werden kann. XPM_LDK erzeugt PDF Dokumente, die vom Acrobat Reader® ab der Version 5.0 und höher angezeigt werden können.  Beim Verarbeiten von Massendaten (Servermodus, zip-Archive) werden die Ausgabe- dateien vom Prüfmodul eigenständig umbenannt. Der Name der Ausgabedatei setzt sich zusammen aus dem Namen der Prüfdatei und den vorgegebenen Dateinamen. Diese Vorgehensweise verhindert das Überschreiben bereits erzeugter Protokolle. Bei Fehlerprotokollen fügt das XPM noch ein Präfix hinzu, das den Errorlevel der Prü- fung kennzeichnet. Es werden folgende Präfixe verwendet:
 
 ---
 
@@ -417,25 +397,15 @@ So wird bei einer Prüfdatei mit dem Namen ‘Test.xml’ und dem Errorlevel 1 d
 
 Zusätzlich wurde eine zweite flexiblere Umbenennungsmethode integriert.
 
-*${DATEI_NAME}* verwendet wird,
+Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *${DATEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausga-
 
-Sobald im Namen einer Ausgabedatei die Variable
-
-, dann wird der Name der Prüfdatei als erstes im Namen der Ausga-
-
-ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *${DATEI_NAME}* bedatei eingefügt.
-
-*${STATUS}*
+bedatei eingefügt.
 
 Bei der Umbenennung von Fehlerprotokollen kann man mit der Variablen  den Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die Variable  *${STATUS}*, dann wird der Fehlerstatus als erstes im Namen der Ausgabedatei einge-
 
 fügt.
 
-#### Statistikdatei
-
-#### 3.3.3.1
-
-wird der Pfad für eine Statistik-
+#### 3.3.3.1 Statistikdatei
 
 Im Abschnitt Ausgabedateien Element **‘Fehlerstatistik’**
 
@@ -451,13 +421,9 @@ eine Meldungsstatistik ausgegeben. Die mit dem Status ‘ok’ geprüften Dateie
 
 Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Pro- grammfehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte ent- hält, die erst zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten  kann.
 
-Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
+z.B.: Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
 
-z.B.:
-
-### Umgebungsvariablen
-
-### 3.3.4
+### 3.3.4 Umgebungsvariablen
 
 Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
@@ -469,6 +435,14 @@ Beispiel:
 
 In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 
+*${DATEI_NAME}*
+
+wird der Pfad für eine Statistik-
+
+verwendet wird,
+
+*${STATUS}*
+
 
 ---
 
@@ -479,13 +453,13 @@ In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 | -f | Hinter dieser Option sollte die Pfadangabe einer Prüfdatei ste- |
 | -h | Das Prüfmodul gibt einen Hilfetext aus und beendet sich an- |
 |  | Die zwei Umgebungsvariablen INSTALLATION und UMGEBUNG müssen entweder in |
-| JavaPruefmodul\ | set UMGEBUNG=LDK oder in der aufrufenden Applikation entsprechend gesetzt werden. Jetzt muss  nur noch dafür gesorgt werden, dass die Umgebungsvariablen der JavaVM |
-|  | java |
-|  |  |
+| set INSTALLATION=C:\Projekte\JavaPruefmodul\Test | set UMGEBUNG=LDK.Praxis oder in der aufrufenden Applikation entsprechend gesetzt werden. Jetzt muss  nur noch dafür gesorgt werden, dass die Umgebungsvariablen der JavaVM |
+| Über den folgenden Aufruf werden die Umgebungsvariablen unter gleichem Namen | java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ... |
+|  | 3.4 |
 | Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden. |  |
-|  | Übergabeparameter Beschreibung |
+| 3.4.1 | Übergabeparameter Beschreibung |
 
-<pruefpfad>%INSTALLATION%/%UMGEBUNG%/</pruefpfad> einer Batchdatei bzw. einem Shellskript: set INSTALLATION=C:\ Projekte\ Test .Praxis bekannt sind. Über den folgenden Aufruf werden die Umgebungsvariablen unter gleichem Namen dem XPM_LDK bekannt gegeben. - DINSTALLATION=%INSTALLATION% - DUMGEBUNG=%UMGEBUNG% ... 3.4 Arbeiten im Kommandozeilenmodus Der Lauf des Prüfmoduls wird mithilfe von Übergabeparametern gesteuert. Es folgt eine Auflistung aller Übergabeparameter. 3.4.1 XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses und be- endet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist opti- onal. hea- n, die vom Prüfmodul bearbeitet wird. Dieser Übergabep rameter ist optional. schließend.
+<pruefpfad>%INSTALLATION%/%UMGEBUNG%/</pruefpfad> einer Batchdatei bzw. einem Shellskript: bekannt sind. dem XPM_LDK bekannt gegeben. Arbeiten im Kommandozeilenmodus Der Lauf des Prüfmoduls wird mithilfe von Übergabeparametern gesteuert. Es folgt eine Auflistung aller Übergabeparameter. XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses und be- endet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist opti- onal. hea- n, die vom Prüfmodul bearbeitet wird. Dieser Übergabep rameter ist optional. schließend.
 
 
 ---
@@ -508,9 +482,7 @@ In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 
 ---
 
-- **Beispiel 1: Prüfen einer einzelnen Datei**
-
-- **3.2.2.1.**
+- **3.2.2.1.** **Beispiel 1: Prüfen einer einzelnen Datei**
 
 Übergabeparameter:
 
@@ -518,9 +490,7 @@ In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 
 XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die Datei ‘Da- ten/Muster_10.pdf’. Anschließend wird XPM_LDK beendet.
 
-- **Beispiel 2: Prüfen eines Verzeichnisses**
-
-- **3.2.2.2.**
+- **3.2.2.2.** **Beispiel 2: Prüfen eines Verzeichnisses**
 
 Übergabeparameter:
 
@@ -528,17 +498,13 @@ XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die
 
 XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft das komplette  Verzeichnis, welches in der Konfigurationsdatei unter dem Konfigurationsschalter  ’pruefdaten’ angegeben wurde. Anschließend wird XPM_LDK beendet.
 
-- **Beispiel 3: Prüfen eines Verzeichnisses (ohne automatisches Beenden)**
-
-- **3.2.2.3.**
+- **3.2.2.3.** **Beispiel 3: Prüfen eines Verzeichnisses (ohne automatisches Beenden)**
 
 Übergabeparameter: -c Konfig/konfig.xml –s -i
 
 XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft das komplette  Verzeichnis, welches in der Konfigurationsdatei unter dem Konfigurationsschalter  ’pruefdaten’ angegeben wurde. Alle 30 Sekunden wird das angegebene Verzeichnis  abgeprüft.
 
-- **Beispiel 4: Setzen des Pfades und des Formates einer Ausgabeliste**
-
-- **3.2.2.4.**
+- **3.2.2.4.** **Beispiel 4: Setzen des Pfades und des Formates einer Ausgabeliste**
 
 Übergabeparameter:
 
@@ -567,23 +533,19 @@ de.kbv.pruefmodul.modul.ldk.start.StartKonsole
 
 Der Befehl ‘java’ startet die virtuelle Maschine von Java.
 
-‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher
+Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher
 
-Der Parameter von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
+von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
 
-‘-Dfile.encoding=8859_15’ stellt den entsprechenden Zeichensatz
+Der Parameter ‘-Dfile.encoding=8859_15’ stellt den entsprechenden Zeichensatz
 
-Der Parameter  ein und ermöglicht hier die Verwendung von deutschen Umlauten.
+ein und ermöglicht hier die Verwendung von deutschen Umlauten.
 
 Der Parameter ‘-cp "Bin/*"’ spezifiziert alle Java-Archive, die für den Programmab-
 
 lauf benötigt werden.
 
-‘de.kbv.pruefmodul.modul.ldk.start.StartKonsole’
-
-Der Parameter
-
-ist der
+Der Parameter ‘de.kbv.pruefmodul.modul.ldk.start.StartKonsole’ ist der
 
 Name einer Klasse, die das XPM startet.
 
@@ -592,67 +554,47 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 ---
 
-## 4.2 Starten des Prüfmoduls aus einem Java
+## 4.2 Starten des Prüfmoduls aus einem Java-Programm
 
-### Das LDK -Prüfmodul ist eine Java- Applikation und kann von einem anderen Java-
+### Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java-
 
 Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
 
-### de.kbv.pruefmodul.core.extern.XPMEinstiegimplementiert. Diese Klasse ist im Java
+### de.kbv.pruefmodul.core.extern.XPMEinstieg implementiert. Diese Klasse ist im Java-Archiv
 
-### xpm -core- <Versionsnummer >.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu
+xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu
 
 ### die Methode ‘main’ etwas genauer an.
 
 ### Beispielaufruf:
 
-*package de.org.beispiel*
+**package** de.org.beispiel
 
-*import* *de.kbv.pruefmodul.core.extern.XPMEinstieg;*
+**import** de.kbv.pruefmodul.core.extern.XPMEinstieg;
 
-*import* *de.kbv.pruefmodul.modul.ldk.XPMAdapter;*
+**import** de.kbv.pruefmodul.modul.ldk.XPMAdapter;
 
-*public* *class XpmEin stiegTest {*
+**public** **class** XpmEinstiegTest {
 
-*public* *static* *void* *main(String[] args*
+**public** **static** **void** **main**(String[] args) **throws** XPMException {
 
-*TODO Auto - generated method stub*
+**TODO** Auto-generated method stub
 
-*System.* **out** *println "user.dir: "*
+System.***out*** **println**("user.dir: " + System.getProperty("user.dir"));
 
-*XPMEinstieg xpm new* *XPMEinstieg*
+XPMEinstieg **xpm new** **XPMEinstieg**("src/test/resources/Konfig/konfig.xml"
 
-*"src/test/resources/Daten/Z01Auftrag.ldt"*
+"src/test/resources/Daten/Z01Auftrag.ldt", **new** **XPMAdapter**());
 
-*xpm setServer false*
+**xpm setServer false**
 
-*xpm setZipFile false*
+**xpm setZipFile false**
 
-*int* *nStatus xpm pruefe ();*
+**int** **nStatus xpm pruefe**();
 
-*System.* **out** *println "Einzel- Prüfung mit Status "*
+System.***out*** **println**("Einzel-Prüfung mit Status " + **nStatus** + " beendet.");
 
-*System.* **out** *println();*
-
-## -Programm
-
-*throws XPMException {*
-
-*+ System. getProperty(*
-
-*( "src/test/resources/Konfig/konfig.xml"*
-
-*nStatus*
-
-*"user.dir"*
-
--Archiv
-
-*));*
-
-*new* *XPMAdapter());*
-
-*+ " beendet."*
+System.***out*** **println**();
 
 
 ---
@@ -703,9 +645,7 @@ control:Formularversion="07.2017"/>
 
 In diesem Abschnitt werden die Prüfregeln aufgeführt, die das Prüfmodul bei der Analy- se eines digitalen Musters prüft.
 
-## s Modus „Digitales Muster“ oder
-
-## 5.1 Allgemeine Prüfung bei Verwendung de
+## 5.1 Allgemeine Prüfung bei Verwendung des Modus „Digitales Muster“ oder
 
 ## „Digitales Muster mit Verzeichnisprüfung“
 
@@ -734,7 +674,7 @@ Das Prüfmodul prüft, ob die in PDF-Feld „4111_Kostentraegerkennung“ angege
 
 Ist dies nicht der Fall, wird ein entsprechender Hinweistext ausgegeben.
 
-#### 5.1.1.2 BSNR -Prüfung
+#### 5.1.1.2 BSNR-Prüfung
 
 Das Prüfmodul prüft, ob die im PDF-Feld „0000_Betriebsstättennummer“ angegebene  BSNR genau neun Stellen hat.
 
@@ -756,20 +696,20 @@ Dabei ist „n“ jeweils eine Ziffer „mm“ beliebig und „kk“ ein Wert au
 
 Bei einer fehlerhaften Prüfung wird ein entsprechender Hinweis ausgegeben.
 
-#### 5.1.1.3 BSNR -ErstveranlasserPrüfung
+#### 5.1.1.3 BSNR-Erstveranlasser-Prüfung
 
 Das Prüfmodul führt die Prüfungen durch, die schon im Abschnitt 5.1.1.2 beschrieben  wurden. Die Unterscheidung der Fälle erfolgt jeweils durch die ersten beiden Ziffern der  BSNR:
 
 
 ---
 
-- 00 entspricht ASV-Fall
+-  00 entspricht ASV-Fall
 
-- 35 entspricht TSS-Fall
+-  35 entspricht TSS-Fall
 
-- 74 entspricht SAPV-Fall
+-  74 entspricht SAPV-Fall
 
-- Alle anderen Werte sind alle hier nicht erwähnten Fälle
+-  Alle anderen Werte sind alle hier nicht erwähnten Fälle
 
 Ist das nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
@@ -803,16 +743,16 @@ Ist das nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
 Das Prüfmodul prüft, ob Werte für die Eintragungen nur die erlaubten Wertebereiche  einhalten.
 
-- Versichertenart (PDF: 3108_Versichertenart): 1, 3, oder 5
+-  Versichertenart (PDF: 3108_Versichertenart): 1, 3, oder 5
 
 
 ---
 
-- Besondere Personengruppe (PDF: 4131_BesonderePersonengruppe): „leer“, 4,  6, 7, 8, 9 oder „leer“
+-  Besondere Personengruppe (PDF: 4131_BesonderePersonengruppe): „leer“, 4,  6, 7, 8, 9 oder „leer“
 
-- DMP-Kennzeichnung (PDF: 4132_DMP_Kennzeichnung): „leer“, 1, 2, 3, 4, 5, 6 ^
+-  DMP-Kennzeichnung (PDF: 4132_DMP_Kennzeichnung): „leer“, 1, 2, 3, 4, 5, 6 ^
 
-- ASV_TSS_Kennzeichen: (PDF: 000_weitere_Kennzeichen): „leer“, 1, 7 oder  „leer“
+-  ASV_TSS_Kennzeichen: (PDF: 000_weitere_Kennzeichen): „leer“, 1, 7 oder  „leer“
 
 Ist das nicht der Fall gibt das Prüfmodul jeweils einen entsprechenden Hinweistext aus.
 
@@ -830,15 +770,15 @@ Liegt ein Muster 10A vor, führt das Prüfmodul nachfolgend genannte Prüffälle
 
 Für ein Muster 10A führt das Prüfmodul folgende Prüfungen durch, die bereits für Mus- ter 10 beschrieben wurden:
 
-- Aufbau der Kostenträgerkennung (Abschnitt: 5.1.1.1)
+-  Aufbau der Kostenträgerkennung (Abschnitt: 5.1.1.1)
 
-- BSNR-Prüfung (Abschnitt: 5.1.1.2)
+-  BSNR-Prüfung (Abschnitt: 5.1.1.2)
 
-- LANR-Prüfung (Abschnitt: 5.1.1.4)
+-  LANR-Prüfung (Abschnitt: 5.1.1.4)
 
-- Aufbau der Versichertennummer (Abschnitt: 5.1.1.6)
+-  Aufbau der Versichertennummer (Abschnitt: 5.1.1.6)
 
-- Wertebereich des Statusfelds (Abschnitt: 5.1.1.7)
+-  Wertebereich des Statusfelds (Abschnitt: 5.1.1.7)
 
 #### 5.1.2.1 Sonstige Aufträge gefüllt
 

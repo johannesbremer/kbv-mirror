@@ -153,13 +153,11 @@ Nebenbetriebsstätte(n).
 | Das | vorliegende | Dokument | führt |
 | sich in | der genannten |  | Schnittstelle |
 
-ist
+ist die Schnittstellenbeschreibung „elektronische
 
-Schnittstellenbeschreibung „elektronische
+-übergreifenden Arbeitsgruppe der KV Telematik ARGE
 
-die  -übergreifenden Arbeitsgruppe der KV Telematik ARGE
-
-Mitgeltende Dokumente “, die im Rahmen einer KV Sammelerklärung (eSE) im Jahr 2010 definiert wurde.  Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und sich in der genannten Schnittstelle wiederfinden. 1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)  Sammelerklärung.zip
+Mitgeltende Dokumente Sammelerklärung (eSE) “, die im Rahmen einer KV im Jahr 2010 definiert wurde.  Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und sich in der genannten Schnittstelle wiederfinden. 1 [https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)  Sammelerklärung.zip
 
 
 ---
@@ -175,23 +173,13 @@ Folgende XML-Elemente werden für die Sammelerklärung benötigt
 
 ## 5.2 Ausfüllhinweise zum header-Bereich
 
-sind in Abhängigkeit des
-
-Arztes
-
-Folgende Felder
-
-erklärenden
-
-in der Vorlage
+Folgende Felder sind in Abhängigkeit des erklärenden Arztes in der Vorlage
 
 ese_1.21_01_tf+2025q4_nr+1_du+Vorlagedatei.xml anzupassen.
 
 ### 5.2.1 header/id
 
-**id** ist das Dokument eindeutig zuordenbar.
-
-Mit dem Element
+Mit dem Element** id** ist das Dokument eindeutig zuordenbar.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -199,9 +187,9 @@ Das Element ist wie folgt zu verwenden:
 
 ### 5.2.2 header/service_tm
 
-**service_tm** ist der Quartalsbezug anzugeben. Es ist der erste Tag und der letzte Tag
+Mit dem Element** service_tm** ist der Quartalsbezug anzugeben. Es ist der erste Tag und der letzte Tag
 
-Mit dem Element des Quartals anzugeben. Aus diesen Angaben wird für die PDF-Darstellung der Sammelerklärung (auf Basis  des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
+des Quartals anzugeben. Aus diesen Angaben wird für die PDF-Darstellung der Sammelerklärung (auf Basis  des XSL-FO Stylesheets) das entsprechende Quartal ermittelt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -209,9 +197,9 @@ Das Element ist wie folgt zu verwenden:
 
 ### 5.2.3 header/origination_dttm
 
-**origination_dttm** wird das Erstellungsdatum der Sammelerklärung angegeben.
+Mit dem Element** origination_dttm** wird das Erstellungsdatum der Sammelerklärung angegeben.
 
-Mit dem Element Das Datum wird bei der PDF -Darstellung der Sammelerklärung (auf Basis des XSL -FO Stylesheets)  berücksichtigt.
+Das Datum wird bei der PDF -Darstellung der Sammelerklärung (auf Basis des XSL -FO Stylesheets)  berücksichtigt.
 
 Das Element ist wie folgt zu verwenden:
 
@@ -219,9 +207,9 @@ Das Element ist wie folgt zu verwenden:
 
 ### 5.2.4 header/provider
 
-**provider** werden die benötigten Angaben zur erklärenden Person sowie
+Mit den Elementen im Element** provider** werden die benötigten Angaben zur erklärenden Person sowie
 
-Mit den Elementen im Element der Praxis übergeben.
+der Praxis übergeben.
 
 Das Element enthält zwei Unterelemente und ist wie folgt zu verwenden:
 

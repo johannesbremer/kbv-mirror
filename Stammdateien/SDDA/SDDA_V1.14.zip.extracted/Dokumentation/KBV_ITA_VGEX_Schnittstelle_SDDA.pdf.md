@@ -19,17 +19,17 @@ stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Stat
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.14 | 22.11.2024 | KBV | Streichung des Elemen- Anpassung der Version Redaktionelle Anpassung | Datenannahmestellen   Verbesserung der Zuord- | 29, 31  29, 30  23 |
+| 1.14 | 22.11.2024 | KBV | Element Streichung des Elemen- Anpassung der Version Redaktionelle Anpassung | Datenannahmestellen   Verbesserung der Zuord- | 29, 31  29, 30  23 |
 | 1.13 | 11.12.2017 | KBV | Dokumentenversion und |  |  |
 | 1.10 | 04.11.2015 | KBV | Korrektur des Beispiels | Attribut | 19 |
-| 1.09 | 24.04.2015 | KBV | Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | Datenannahmestellen Das Element Verbesserung der Konsis- | 31  32  23 |
+| 1.09 | 24.04.2015 | KBV | Element Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | können auch über KV- Das Element Verbesserung der Konsis- | 31  32  23 |
 | 1.08 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
 **K** **U** **M** **E** **N** **T** **E** **N**
 
 **H** **I** **S** **T** **O**  **R** **I** **E**
 
-kim_email hinzugefügt tes d2d_kennung Paket Version einheitlich für Element telecom kv_connect hinzugefügt Erläuterung für Element service_tmr schnitts Schlüsseltabellen können auch über KIM erreicht werden nung der Kapitel USE  existiert nicht für Element telecom können auch über KV- Connect erreicht werden ser- vice_tmr  wird als optio- nales Element in ver- schiedenen Elementen verwendet tenz
+kim_email hinzugefügt tes d2d_kennung Paket Version einheitlich für Element telecom kv_connect hinzugefügt Erläuterung für Element service_tmr schnitts Schlüsseltabellen können auch über KIM erreicht werden nung der Kapitel USE  existiert nicht für Element telecom Connect erreicht werden ser- vice_tmr  wird als optio- nales Element in ver- schiedenen Elementen verwendet tenz
 
 ---
 
@@ -149,44 +149,26 @@ kim_email hinzugefügt tes d2d_kennung Paket Version einheitlich für Element te
 
 ---
 
-**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I**
+Abbildung 1 /ehd (root-Element) ................................................................................................ 8
 
-Abbildung 1 /ehd (root-Element) ................................................................................................
+Abbildung 2 <person> .............................................................................................................. 14
 
-Abbildung 2 <person> ..............................................................................................................
+Abbildung 3 <person_name> ................................................................................................... 16
 
-Abbildung 3 <person_name> ...................................................................................................
+Abbildung 4 <addr> .................................................................................................................. 18
 
-Abbildung 4 <addr> ..................................................................................................................
+Abbildung 5 <local_header>..................................................................................................... 20
 
-Abbildung 5 <local_header>.....................................................................................................
+Abbildung 6 <organization>...................................................................................................... 20
 
-Abbildung 6 <organization>......................................................................................................
+Abbildung 7 <interface> ........................................................................................................... 22
 
-Abbildung 7 <interface> ...........................................................................................................
-
-**S**
-
-8
-
-14
-
-16
-
-18
-
-20
-
-20
-
-22
+**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 
 ---
 
-17
-
-Tabelle 1  Erläuterungen PFX ................................................................................................
+Tabelle 1  Erläuterungen PFX ................................................................................................ 17
 
 Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten ...................................................... 19
 
@@ -195,7 +177,7 @@ Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten ........................
 
 ---
 
-# Einleitung1
+# 1 Einleitung
 
 Die vorliegende Schnittstellenbeschreibung gibt den Inhalt einer Stammdatei der DMP -
 
@@ -205,7 +187,7 @@ Mit Hilfe dieser Schnittstelle soll es ermöglicht werden, Daten für die Adress
 
 Die Schnittstellen für den Datenaustausch liegen im XML -Format vor. Sie sind zur ehd - Richtlinie konform.
 
-# Allgemein2
+# 2 Allgemein
 
 ## 2.1 Zeichensatz
 
@@ -219,9 +201,9 @@ Standard-Namespace ist
 
 ## 2.3 Root-Schema
 
--Schemata sowie die projektbezogenen body
+Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die projektbezogenen body
 
-Das Root-Schema, worin die abgeleiteten ehd Schemata inkludiert sind, heißt **sdda_root.xsd.**
+Schemata inkludiert sind, heißt **sdda_root.xsd.**
 
 # 3 Dateinamenskonvention
 
@@ -233,29 +215,31 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 **datatyp_vv.vv_sender.xml**
 
-Trennungszeichen zwischen den Namenselementen
-
-_ .............
-
-datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
+_ ............. Trennungszeichen zwischen den Namenselementen
 
 Entspricht dem Header-Element *<document_type_cd>*
 
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;
+
 vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer
+
+die Daten geliefert;
+
+hat
 
 Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-
 
-Elements *<provider>*
+*<provider>*
+
+Elements
 
 Beispiel:
 
 sdda_01.00_kbv.xml
 
-# ehd – Element (root4
-
-# Element)
+# 4 ehd – Element (root Element)
 
 Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1 **/ehd (root-Element)** dargestellt ist. Im header-Element
 
@@ -686,11 +670,13 @@ Das Element hat folgende Attribute:
 
 V:  hier wird der Wert eingetragen
 
-QUAL: Ein kodierter Wert kann angegeben werden, um die Daten näher zu beschrei- ben. So zum Element ***<PFX>*** kann es zusätzliche Werte „AC“ und „NB“ geben:
+ben. So zum Element ***<PFX>*** kann es zusätzliche Werte „AC“ und „NB“ geben:
+
+QUAL: Ein kodierter Wert kann angegeben werden, um die Daten näher zu beschrei-
 
 | Code | Definition | Ausprägung |
 |---|---|---|
-| AC | academic | Akademischer Grad, Zusatz beim Element PFX (mehrere Titel |
+| AC | academic | sind durch Leerzeichen getrennt) |
 | NB | nobility | Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere |
 
 **Tabelle 1  Erläuterungen PFX**
@@ -731,7 +717,7 @@ V: hier wird der Wert eingetragen
 
 #### 5.5.4.4 addr (Adresse)
 
-sind durch Leerzeichen getrennt) Namenszusätze sind durch Leerzeichen getrennt) Die Adresse wird in diesem Element erfasst.
+Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) Die Adresse wird in diesem Element erfasst.
 
 
 ---
@@ -860,19 +846,13 @@ Die Grundstruktur des ***<local_header>***-Elements:
 
 **Abbildung 5 <local_header>**
 
-***<any>*** Elements kann in der konkreten ehd
+Anstatt des ***<any>*** Elements kann in der konkreten ehd -Schnittstellen-Implementierung, jedes
 
-Anstatt des
+beliebige Element verwendet werden. Dazu wird der Basistyp: local_header -cont.model mit  ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemente hinzugefügt.
 
--Schnittstellen-Implementierung, jedes
+Ein Beispiel für die Verwendung des ***<local_header>***-Elements mit zwei erfundenen Elementen,
 
-beliebige Element verwendet werden. Dazu wird der Basistyp: local_header -cont.model mit  eingeschränkt und die schnittstellenspezifische Elemente hinzugefügt.
-
-***<xs:restriction>***
-
-***<local_header>***-Elements mit zwei erfundenen Elementen,
-
-Ein Beispiel für die Verwendung des  die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
+die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
 
 <local_header ignore="markup" descriptor="KBV">
 
@@ -886,23 +866,19 @@ Ein Beispiel für die Verwendung des  die Kurzbeschreibung (descriptor) kennzeic
 
 ### 5.5.5 organization (Organisationsdaten)
 
-wieder-
+Generell können Organisationsdaten in diesem Element untergebracht werden. Dieses Ele- ment wird an mehreren Stellen, wo Organisationsangaben übermittelt werden sollen, wieder-
 
-Generell können Organisationsdaten in diesem Element untergebracht werden. Dieses Ele- ment wird an mehreren Stellen, wo Organisationsangaben übermittelt werden sollen,  verwendet. Im Header beschreibt es die Organisation „KBV“.
+verwendet. Im Header beschreibt es die Organisation „KBV“.
 
 **Abbildung 6 <organization>**
 
 ***<id>***   Die Identifikation einer Organisation.
 
-Angabe zu dem Organisationsnamen
-
-***<organization.nm>***
-
-Angabe zu der Adresse, in der die Organisation den Sitz hat. (siehe
+***<organization.nm>*** Angabe zu dem Organisationsnamen
 
 ***<addr>***
 
-5.5.4.4)
+Angabe zu der Adresse, in der die Organisation den Sitz hat. (siehe  5.5.4.4)
 
 
 ---
@@ -1053,9 +1029,9 @@ dem Wert „1.2.276.0.76.5.109“ belegt.
 
 ### 5.6.2 interface.nm (Name der Schnittstelle)
 
-***<interface.nm>*** enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
+Das Element ***<interface.nm>*** enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
 
-Das Element  entsprechenden Schnittstellenbezeichnung steht. Naheliegend ist, dass dieser Text Teile des  DN (Displayname) von document_type_cd enthält.
+entsprechenden Schnittstellenbezeichnung steht. Naheliegend ist, dass dieser Text Teile des  DN (Displayname) von document_type_cd enthält.
 
 Das Element hat folgende Attribute:
 
@@ -1073,11 +1049,7 @@ Der Name der Stammdatei und damit auch der Wert des V-Attributes ist „SDDA“.
 
 ### 5.6.3 version (Versionsnummer der Schnittstelle)
 
-***<version>***
-
-Das Element
-
-enthält die Versionsnummer der Schnittstellenbezeichnung. Da sich
+Das Element ***<version>*** enthält die Versionsnummer der Schnittstellenbezeichnung. Da sich
 
 von Version zu Version auch Struktur und Inhaltsbedeutung der Daten ändern kann, sind zur  Kennzeichnung einer Schnittstelle immer Bezeichnung und Versionsnummer erforderlich.
 
@@ -1118,17 +1090,23 @@ Der
 
 ## 6.1 datenannahmestellen_liste
 
-Die <datenannahmestellen_liste> umschließt die ei nzelnen Datenannahmestellen
+Die <datenannahmestellen_liste>
 
-Stammsätze, die <intendend_recipient> - Strukturen.
+die
+
+Stammsätze, die <intendend_recipient> - Strukturen.  umschließt
+
+ei nzelnen Datenannahmestellen
 
 **element** datenannahmestellen_liste
 
 | diagram |  |
 |---|---|
-| XML-Rahmen | <datenannahmestellen_liste>     <intended_recipient>         ...     </intended_recipient> … |
+| XML-Rahmen | <datenannahmestellen_liste>     <intended_recipient>         ...     </intended_recipient> … <datenannahmestellen_liste> |
 
-***<intended_recipient>***  ***Datenannahmestellen-Stammsatz***
+***Datenannahmestellen-Stammsatz***
+
+***<intended_recipient>***
 
 Das Element <intended_recipient> enthält jeweils einen Datenannahmestellen -Stammsatz.  Die genaue Struktur gibt die folgende Abbildung wieder.
 
@@ -1136,7 +1114,7 @@ Das Element <intended_recipient> enthält jeweils einen Datenannahmestellen -Sta
 
 | diagram |  |
 |---|---|
-| XML- | <intended_recipient>     <person>             </person>     <organization>             </organization>     <local_header>             </local_header> |
+| XML- | <intended_recipient>     <person>             </person>     <organization>             </organization>     <local_header>             </local_header> </intended_recipient> |
 
 <person>  Ansprechpartner der Datenannahmestelle
 
@@ -1148,7 +1126,7 @@ Das Element <intended_recipient> enthält jeweils einen Datenannahmestellen -Sta
 
 Das Element <person> stellt den Ansprechpartner der Datenannahmestelle dar. Der Inhalt  dieses Elements ist wie in der folgenden Abbildung dargestellt, aufgebaut.
 
-Rahmen </intended_recipient>
+Rahmen
 
 ---
 
@@ -1200,19 +1178,23 @@ Rahmen
 
 | diagram |  |
 |---|---|
-| XML- | <organization>     <id RT=" …      <addr>             </addr>     <telecom V="..."/> </organization> |
+| XML- | <organization>     <id RT="     <organization.nm V="      <addr>             </addr>     <telecom V="..."/> </organization> |
 
-<id>
+<id>   Institutionskennzeichen der Datenannahmestelle
 
-<organization.nm>
+<organization.nm> Name der Datenannahmestelle
 
 <addr>
 
-<telecom>
+Adresse der Datenannahmestelle
+
+<telecom>  Kommunikationsmöglichkeiten der Datenannahmestelle
 
 #### 6.1.2.1 id
 
-Im Attribut RT dieses Elementes steht das Institutionskennzeichen der Datenannahmestelle.  Ist aktuell kein gültiges Institutionskennzeichen bekannt, wird die Dummy - verwendet.
+Im Attribut RT dieses Elementes steht das Institutionskennzeichen der Datenannahmestelle.  Ist aktuell kein gültiges Institutionskennzeichen bekannt, wird die Dummy -IK „999999999“
+
+verwendet.
 
 **element** datenannahmestellen_liste/intended_recipient/organization
 
@@ -1221,21 +1203,11 @@ Im Attribut RT dieses Elementes steht das Institutionskennzeichen der Datenannah
 | attributes | Name   Type   Use   Default   Fixed   Annotation EX   xs:string optional           RT   xs:string required           RTV   xs:string optional |
 | example | <id RT="109989162"/> |
 
-Institutionskennzeichen der Datenannahmestelle
-
-Name der Datenannahmestelle
-
-Adresse der Datenannahmestelle
-
-Kommunikationsmöglichkeiten der Datenannahmestelle
-
 #### 6.1.2.2 organization.nm
 
 In diesem Element steht der Name der Datenannahmestelle.
 
-**element** datenannahmestellen_liste/intended_recipient/organization/organization.nm
-
-Rahmen     <organization.nm V="IK „999999999“
+Rahmen **element** datenannahmestellen_liste/intended_recipient/organization/organization.nm
 
 
 ---

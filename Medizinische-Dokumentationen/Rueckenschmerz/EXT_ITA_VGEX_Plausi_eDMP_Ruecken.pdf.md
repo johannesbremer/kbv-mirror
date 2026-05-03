@@ -44,24 +44,24 @@ Rückenschmerz  erfolgt, sind die nachstehenden Felder der Anlage 16* entspreche
 
 | Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
 |---|---|---|---|
-| 3 | Aktuelle kreuzschmerzbedingte 2 | Dauerhaft / Bei Bedarf / Nein | Pflichtfeld |
+| 3 | Aktuelle kreuzschmerzbedingte Nicht-Opioidanalgetika | Dauerhaft / Bei Bedarf / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 | Schulung |  | | |
-| 4 | Bereits vor Einschreibung in das DMP Ja / Nein |  | zulässig Rahmen Eine Angabe im Rahmen einer |
-| 5 | -spezifische S | Ja / Nein | Genau eine Angabe ist zulässig |
+| 4 | Bereits vor Einschreibung in das DMP Ja / Nein |  | Bedingtes Pflichtfeld Genau eine Angabe ist Eine Angabe ist erforderlich, wenn die Anlage Eine Angabe im Rahmen einer |
+| 5 |  | Ja / Nein | Pflichtfeld Genau eine Angabe ist zulässig |
 | 6 | Kreuzschmerz | Ja / Nein / War | Bedingtes Pflichtfeld Eine Angabe ist erforderlich, wenn die Anlage Eine Angabe im Rahmen einer |
 
-Nummer Schmerzmedikation: Nicht-Opioidanalgetika an einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) -spezifische Schulung 1 wahrgenommen letzter Dokumentation keine Schulung empfohlen aktuell nicht möglich 16* im auszufüllen ist. Folgedokumentation ist nicht zulässig Erstdokumentation zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
+Nummer Schmerzmedikation: 2 an einer multimodalen Schulung teilgenommen -spezifische S empfohlen (bei aktueller Dokumentation) -spezifische Schulung 1 wahrgenommen letzter Dokumentation keine Schulung empfohlen aktuell nicht möglich 16* im auszufüllen ist. Folgedokumentation ist nicht zulässig Erstdokumentation zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
 
 ---
 
 | Laufende Dokumentationsparameter |  | Ausprägung | Plausibilitäten |
 |---|---|---|---|
 | Sonstige Behandlung |  | | |
-| 7 | Regelmäßig körperlich aktiv | Ja / Nein / Nicht möglich | Pflichtfeld Mindestens eine Angabe ist erforderlich  Erfolgt die Angabe „ Die Angabe „Nein“ und „Nicht möglich“ können |
-| 8 | Erreichung | Mindestens ein Ziel erreicht / N | Bedingtes Pflichtfeld Eine Angabe ist |
-| 9 | CPG Item 3: Durchschnittliche Stärke Zahl (0 (0 = | – | Pflichtfeld Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle.  Die Angabe muss gleich oder größer „0“ und |
+| 7 | Regelmäßig körperlich aktiv | Ja / Nein / Nicht möglich | Pflichtfeld Mindestens eine Angabe ist erforderlich Mehrfachnennungen sind möglich Erfolgt die Angabe „ Die Angabe „Nein“ und „Nicht möglich“ können |
+| 8 | letzten Dokumentation | Mindestens ein Ziel erreicht / N | Bedingtes Pflichtfeld Eine Angabe ist Eine Angabe im Rahmen einer |
+| 9 | der Kreuzschmerzen in den letzten (0 = | – | Pflichtfeld Nummerische Angabe  Die Angabe erfolgt ohne Nachkommastelle.  Die Angabe muss gleich oder größer „0“ und |
 
-mindestens eines individuell vereinbarten Ziele seit der 1 letzten Dokumentation der Kreuzschmerzen in den letzten drei Monaten „Keine“ bis 10 = „Stärkster Schmerz“) Kein Ziel überprüft / K vereinbart  10, ganzzahlig) Mehrfachnennungen sind möglich Ja“ ist keine weitere Angabe zulässig einzeln oder gleichzeitig erfolgen och kein Ziel Genau eine Angabe ist zulässig. erforderlich, wenn die Anlage 16* im Rahmen einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht zulässig. kleiner oder gleich 10  sein.
+Erreichung mindestens eines individuell vereinbarten Ziele seit der 1 CPG Item 3: Durchschnittliche Stärke Zahl (0 drei Monaten „Keine“ bis 10 = „Stärkster Schmerz“) Kein Ziel überprüft / K vereinbart  10, ganzzahlig) Ja“ ist keine weitere Angabe zulässig einzeln oder gleichzeitig erfolgen och kein Ziel Genau eine Angabe ist zulässig. erforderlich, wenn die Anlage 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. kleiner oder gleich 10  sein.
 
 ---
 

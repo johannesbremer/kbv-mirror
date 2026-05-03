@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | .00 |
+|  | 13.10.2014 |
 
-Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 Version  2 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status:
+Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 Version  2 .00 Datum: Kennzeichnung: Öffentlich  In Kraft Status:
 
 
 ---
@@ -51,21 +51,17 @@ header hinsichtlich der Elemente person_name und addr, welche bereits in der Sch
 
 **3.3** **Sonstige Symbole ..........................................................................................................................9**
 
-**_____________________________________________**
-
-**4** **BESCHREIBUNG VON EHD**
-
-**10**
+**4** **BESCHREIBUNG VON EHD _____________________________________________ 10**
 
 **4.1** **Element header ............................................................................................................................ 10**
 
 4.1.1 Software (local_header) ...................................................................................................... 12
 
-*..................................................................................................... 13*
+*4.1.1.1* *Software-ID (id) ..................................................................................................... 13*
 
-*4.1.1.1* *Software-ID (id)*
+*........................................................................... 13*
 
-*4.1.1.2* *Softwarename (SoftwareName) ........................................................................... 13*
+*4.1.1.2* *Softwarename (SoftwareName)*
 
 *4.1.1.3* *Softwareversion (SoftwareVersion) ...................................................................... 14*
 
@@ -279,33 +275,19 @@ Die zu übermittelnden Datenfelder sind in Anlage 2 abgebildet.
 
 # 2 Dateinamen
 
-***-Spezifikation 1.40***
+Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
-***Der Dateiname basiert auf dem Dateinamenskonzept der EHD***
+**qszervixzyto** ..... Datentyp der ehd-Schnittstelle
 
-***..... Datentyp der ehd***
+**vv.vv** ......... Version der Schnittstelle;  ***<version>*** des Header-Elements ***<interface>***
 
-qszervixzyto
+Entspricht dem Element
 
-***Schnittstelle***
+**sender** ...... Absender der Lieferung, entspricht der Betriebsstättennummer.
 
-vv.vv*** ......... Version der Schnittstelle;***  *<version >*
+Beispiel:
 
-*<interface >*
-
-***Entspricht dem Element***
-
-*** des Header-Elements***
-
-***...... Absender der Lieferung, entspricht der Betriebsstättennummer.***
-
-sender
-
-***Beispiel:***
-
-- ***qszervixzyto_2.00_123456789.xml***
-
-***2.00***
+-  qszervixzyto_2.00_123456789.xml
 
 
 ---
@@ -358,13 +340,9 @@ Die Schnittstelle zur Qualitätssicherungs-Vereinbarung Zervix-Zytologie basiert
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
 
-*header* und *body* zusammensetzt, wie es in Abbildung 1 darge-
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen *header*
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus
-
-den beiden Kindelementen  stellt ist.
-
-**Abbildung 1 Grundstruktur ehd**
+stellt ist.
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
@@ -386,8 +364,6 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 </ehd>
 
-**XML-Code 1 – ehd Beispiel**
-
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation auf der diese Schnittstelle  aufbaut an.
 
 ## 4.1 Element header
@@ -398,82 +374,62 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Besc
 
 -  Im document_type_cd-Element wurde der Dokumenttyp festgesetzt:
 
-- o document_type_cd im V-Attribut ist der Wert: „QSZERVIXZYTO“ fest vorge-
-
-- schrieben.
-
-**Abbildung 2 Element document_type_cd**
+- o document_type_cd im V-Attribut ist der Wert: „QSZERVIXZYTO“ fest vorg schrieben.
 
 -  Im Interface-Element werden die Schnittstellendaten eingegeben:
 
 - o id-Element im EX-Attribut ist der Wert „QSZERVIXZYTO“ fest vorgeschrieben.  RT-Attribut enthält den Wert: „1.2.276.0.76.5.109“.
 
+**Abbildung 2 Element document_type_cd**
 
----
+und *body* zusammensetzt, wie es in Abbildung 1 darge-
 
-- *o* ***interface.nm-Element im V***
+**Abbildung 1 Grundstruktur ehd**
 
-- ***fest vorgeschrieben.***
+**XML-Code 1 – ehd Beispiel**
 
-- *o* ***version im V-Attribut wird die Version der Zyto***
-
-- ***(z.B. „1.01“).***
-
-- ***-Attribut ist der Wert: „QS***
-
-Abbildung 3 Element interface
-
-- ***Das provider-Element ist Pflichtelement und enthält Angaben zu dem erstellenden***
-
-- ***Arzt. Die Vorgaben enthalten:***
-
-- *o* ***Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-***
-
-- ***nummer, RT-Attribut enthält den String „BSNR“)***
-
-- *o* ***Vorname und Nachname des Arztes (person_name***
-
-- *o* ***Adresse der Arztpraxis (addr-Element)***
-
-- *o* ***Telefonnummer (telecom-Element)***
-
-***XML-Beispiel***
-
-Abbildung 4 Element provider
-
-***2.00***
-
-- ***ZervixZyto Bericht an KV“***
-
-- ***Zervix-Schematas eingetragen***
-
--
-
-- ***-Element)***
+*ehd*, welches sich aus - e-
 
 
 ---
 
-| "> |
+- o interface.nm-Element im V-Attribut ist der Wert: „QSZervixZyto Bericht an KV“  fest vorgeschrieben.
+
+- o version im V-Attribut wird die Version der Zyto-Zervix-Schematas eingetragen  (z.B. „1.01“).
+
+**Abbildung 3 Element interface**
+
+-  Das provider-Element ist Pflichtelement und enthält Angaben zu dem erstellenden  Arzt. Die Vorgaben enthalten:
+
+- o Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer, RT-Attribut enthält den String „BSNR“)
+
+- o Vorname und Nachname des Arztes (person_name -Element)
+
+- o Adresse der Arztpraxis (addr-Element)
+
+- o Telefonnummer (telecom-Element)
+
+**Abbildung 4 Element provider**
+
+XML-Beispiel
+
+
+---
+
+| <local_header ignore="all" descriptor="sciphox |
 |---|
 
 **XML-Code 2 – ehd-header**
 
 ### 4.1.1 Software (local_header)
 
-Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  **sciphox:Software**
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-*
 
-**sci-**
+*phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-*
 
-**software** **v1** dargestellt. Das Element
+*phox:Kontakt* zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
 
-setzt sich aus den Kindelementen
-
-**phox:id sciphox:SoftwareNamesciphox:SoftwareVersionsciphox:SoftwareTypsci-**
-
-**phox:Kontakt** zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
-
-<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449 -0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <local_header ignore="all" descriptor="sciphox <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header>
+<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449 -0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header>
 
 ---
 
@@ -544,11 +500,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 #### 4.1.1.3 Softwareversion (SoftwareVersion)
 
-*sciphox:SoftwareVersion*
-
-Das Element
-
-erhält als Wert die Versionsnummer der eingesetzten
+Das Element *sciphox:SoftwareVersion* erhält als Wert die Versionsnummer der eingesetzten
 
 Software. Es handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
 
@@ -560,11 +512,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 #### 4.1.1.4 Softwaretyp (SoftwareTyp)
 
-*sciphox:SoftwareTyp*
-
-Das Element
-
-erhält als Wert den Typ der eingesetzten Software. Es wird
+Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Software. Es wird
 
 zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmodul) un- terschieden. Hier ist die Angabe „PVS“ fest vorgeschrieben. Als Beispiel sei hier folgender  Code angegeben:
 
@@ -575,28 +523,22 @@ zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmod
 | Code | Display Name | Definition |
 |---|---|---|
 | PVS | Arztpraxissoftware | Arztpraxissoftware |
-| XSD | XML-Schnittstelle | XML-Daten wurden gemäß dieser XML |
-| XPM | Prüfmodul |  |
+| XSD | XML-Schnittstelle |  |
+| XPM | Prüfmodul | (KBV) Prüfmodul |
 
 **Tabelle 4 SoftwareTyp**
 
 #### 4.1.1.5 Softwarekontakt (Kontakt)
 
-*sciphox:Kontakt*
+Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-
 
-Das Element
-
-enthält die zwingend erforderlichen Angaben zu dem Software-
-
-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be- *cda:organization.nm*, evtl.
-
-steht aus den Komponenten *sciphox:Kontakttyp*
+verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be- steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.
 
 *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*
 
 bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
 
-Schnittstelle erzeugt. (KBV) Prüfmodul
+XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.
 
 ---
 
@@ -611,17 +553,15 @@ Die Coderahmen für dieses Element sieht wie folgt aus:
 
 ##### 4.1.1.5.1 Kontakttyp
 
-*V*-Attribut als kodierter Wert angegeben. Die Werte können aus
+Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus
 
-Hier wird der Kontakttyp im  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester
+der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester
 
-Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko- dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantworlichen ist zwingend ein- *Kontakttyp* der Wert „SOFTV“ an-
+Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko- dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantworlichen ist zwingend ein- mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an-
 
-mal erforderlich. Deshalb muss genau einmal im Element  gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
+gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
-"/>
-
-<sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher
+<sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>
 
 **XML-Code 9 – Kontakttyp**
 
@@ -643,9 +583,11 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ##### 4.1.1.5.3 Name der Person (person_name)
 
-Das Element *person_name* enthält das Element *nm*, welches im nächsten Abschnitt konkreti-
+Das Element *person_name* enthält das Element
 
 siert wird. Die Grundstruktur dieses Elements ist in Abbildung 7 dargestellt.
+
+*nm*, welches im nächsten Abschnitt konkreti-
 
 **Abbildung 7 Grundstruktur person_name (Arzt)**
 
@@ -667,29 +609,23 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 **XML-Code 11 – person_name (Arzt)**
 
-###### Namensbestandteile (nm)
-
-*4.1.1.5.3.1*
+*4.1.1.5.3.1* *Namensbestandteile (nm)*
 
 | Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
-| GIV | Vornamen der Person (mehrere Vornamen sind String mit | min. 1 und  0..1 |  |
+| GIV | durch Bindestriche oder Leerzeichen getrennt) | max. 45 Zeichen |  |
 | FAM | Familiennamen der Person | String mit |  |
-| PFX | führender Namenszusatz, wie z.B. „Dr. med“, String mit max. | 20 0..10 |  |
+| PFX | führender Namenszusatz, wie z.B. „Dr. med“, String mit max. | Zeichen |  |
 
 **Tabelle 5 Erläuterungen nm (Arzt)**
 
-*PFX*
-
-*V*-Attribut das *QUAL*-Attribut mit den folgenden
-
-Zu dem Element  kann es zusätzlich zum
+Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mit den folgenden
 
 Ausprägungen geben:
 
 | Code | Definition | Ausprägung |
 |---|---|---|
-| AC | academic | Akademischer Grad, Zusatz beim Element PFX (mehrere Titel |
+| AC | academic | sind durch Leerzeichen getrennt) |
 | VV | voorvoegsel | Vorsatzwort, z.B. „von“ vgl. Anlage 6 DEÜV |
 | NB | nobility | Adelszusatz zum Element PFX, z.B. „Gräfin“ und „von“ (mehrere |
 
@@ -697,7 +633,7 @@ Ausprägungen geben:
 
 Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen- den XML-Elemente:
 
-Das Element nm  kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) max. 45 Zeichen min. 1 und  1..1 max. 45 Zeichen und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ Zeichen sind durch Leerzeichen getrennt) Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7
+Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind String mit min. 1 und  0..1 min. 1 und  1..1 20 0..10 und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7
 
 ---
 
@@ -707,7 +643,7 @@ Das Element nm  kann folgende Elemente enthalten: durch Bindestriche oder Leerze
 | Vorname | <GIV V="..."/> |
 | Vorsatzwort | <PFX V="..." QUAL="VV"/> |
 | Namenszusatz | <PFX V="..." QUAL="NB"/> |
-| Nachname |  |
+| Nachname | <FAM V="..."/> |
 
 **Tabelle 7 Abbildung von Personennamen**
 
@@ -761,7 +697,6 @@ In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 
 *addr* erläutert und ihre Kardinalitäten
 
-<FAM V="..."/>
 
 ---
 
@@ -822,16 +757,17 @@ Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt
 
 | Code | Definition | Beispiel |
 |---|---|---|
-| tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
+| tel | Telefon/Mobiltelefon |  |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
 | mailto | Emailadresse | <telecom V="mailto:info@kbv.de" USE="WP"/> |
 | http | Homepage | <telecom V="http://www.kbv.de |
 | ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de |
 
-Das **USE**-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
+Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
 **Tabelle 10 Erläuterungen telecom**
 
+<telecom V="tel:(0221)4449-0" USE="WP"/>
 
 ---
 
@@ -861,7 +797,7 @@ Das Element qszervixzyto_bericht enthält den Zervix-Zyto Bericht.
 
 ---
 
-| <zz:anzahl_praeparate V="306"/>         <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/>         <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/>         <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/>         <zz:anzahl_endometriumca V="2"/> </zz:gr2a>           <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/>         </zz:gr5x> |
+|  |
 |---|
 
 **XML-Code 14 – QSZervixZyto Bericht**
@@ -879,7 +815,7 @@ strichpräparate der Zervix uteri für den Zeitraum vom 01.01. -31.12. des Beric
 
 **Tabelle 12 Element anzahl_praeparate**
 
-<body> <zz:qszervixzyto_bericht> <zz:anzahl_nv_praeparate V="2"/> <zz:anzahl_frauen V="304"/> <zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> </zz:gr1> <zz:gr2a> <zz:anzahl_frauen V="16"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> …….. <zz:gr5x> <zz:anzahl_frauen V="16"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> </zz:qszervixzyto_bericht> </body>
+<body> <zz:qszervixzyto_bericht> <zz:anzahl_praeparate V="306"/> <zz:anzahl_nv_praeparate V="2"/> <zz:anzahl_frauen V="304"/> <zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> <zz:gr2a> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr2a> …….. <zz:gr5x> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr5x> </zz:qszervixzyto_bericht> </body>
 
 ---
 

@@ -77,8 +77,6 @@
 
 ---
 
--
-
 - (5) Wenn der Antragsteller nach Erhalt einer Zulassung die Zulassung des Zertifizierungsgegenstandes für  das entsprechende Zertifizierungsthema um weitere Anforderungen erweitern möchte, kann diese  Prüfung im Rahmen einer Erweiterungszertifizierung erfolgen. Die KBV legt fest, ob hierfür eine  Ergebnis- oder Sichtprüfung erforderlich ist.
 
 - (6) Die Zulassung ist der erfolgreiche Abschluss des Zertifizierungsverfahrens, welche dem Antragsteller i.
@@ -91,33 +89,25 @@
 
 - (9) Im Rahmen einer Sichtprüfung werden die Anforderungen direkt am Zertifizierungsgegenstand  überprüft.
 
-- rderungen anhand von eingereichten
-
-- (10) Im Rahmen einer Ergebnisprüfung werden die Anfo Prüfunterlagen überprüft.
+- (10) Im Rahmen einer Ergebnisprüfung werden die Anforderungen anhand von eingereichten - Prüfunterlagen überprüft.
 
 - (11) Eine außerordentliche Kontrollprüfung ist eine Überprüfung der Vorgaben außerhalb der normalen  Prüfungstermine und -zyklen. Die KBV legt fest, ob hierfür eine Ergebnis- oder Sichtprüfung erforderlich - ist.
 
 # § 3 ANTRAG AUF ZERTIFIZIERUNG
 
-- izierung. Die Beantragung hat
+- (1) Das Zertifizierungsverfahren beginnt mit der Beantragung der Zertifizierung. Die Beantragung hat - elektronisch zu erfolgen.
 
-- (1) Das Zertifizierungsverfahren beginnt mit der Beantragung der Zertif elektronisch zu erfolgen.
-
-- (2) Für eine Rezertifizierung muss der Antragsteller vor Ablauf der bisherigen, noch aktuell gültigen
-
-- Zulassung den Antrag auf Zertifizierung einreichen.
+- (2) Für eine Rezertifizierung muss der Antragsteller vor Ablauf der bisherigen, noch aktuell gültigen  Zulassung den Antrag auf Zertifizierung einreichen.
 
 # § 4 DURCHFÜHRUNG DER ZERTIFIZIERUNG
 
-- - und/oder Sichtprüfung notwendig
+- (1) Die KBV legt fest, ob für die anstehende Zertifizierung eine Ergebnis- und/oder Sichtprüfung notwendig
 
-- (1) Die KBV legt fest, ob für die anstehende Zertifizierung eine Ergebnis ist. Die Festlegung erfolgt pro Zertifizierungsverfahren und ist unter [https://update.kbv.de](https://update.kbv.de)  verfahrensbezogen veröffentlicht.
+- ist. Die Festlegung erfolgt pro Zertifizierungsverfahren und ist unter [https://update.kbv.de](https://update.kbv.de)  verfahrensbezogen veröffentlicht.
 
-- (2) Für die Durchführung einer Prüfung stellt der Antragsteller das vollständige, lauffähig implementiert - und Software zur Verfügung.
+- (2) Für die Durchführung einer Prüfung stellt der Antragsteller das vollständige, lauffähig implementierte
 
-- e
-
-- System zusammen mit der notwendigen Hard
+- System zusammen mit der notwendigen Hard- und Software zur Verfügung.
 
 - (3) Die Sichtprüfungen finden in den Räumen der KBV in Berlin statt. Sichtprüfungen können auch in  virtuellen Räumen der KBV durchgeführt werden. Für die Durchführung der Sichtprüfungen in virtuellen
 
@@ -144,17 +134,15 @@ Wenn erforderliche Prüfunterlagen nicht innerhalb einer angemessenen Frist beig
 
 # § 7 LAUFZEIT DER ZULASSUNG
 
-- traum von maximal fünf Jahren befristet.
+- (1) Die Zulassung ist nach deren Vergabe auf einen Zeitraum von maximal fünf Jahren befristet.
 
-- (1) Die Zulassung ist nach deren Vergabe auf einen Zei
+- (2) Die KBV kann die Zulassung verkürzen oder verlängern, sofern hierfür besondere Gründe schon zum  Zeitpunkt der Erteilung der Zulassung bekannt sind. Dies ist insbesondere der Fall, wenn gesetzliche
 
-- (2) Die KBV kann die Zulassung verkürzen oder verlängern, sofern hierfür besondere Gründe schon zum  Dies ist insbesondere der Fall, wenn gesetzliche
+- Änderungen eintreten oder erwartet werden.
 
-- Zeitpunkt der Erteilung der Zulassung bekannt sind. Änderungen eintreten oder erwartet werden.
+- (3) Die KBV kann die bereits ausgesprochene Zulassung verkürzen, wenn in absehbarer Zeit Änderungen  von Anforderungen aufgrund gesetzlicher Neuerungen bevorstehen. In diesem Zusammenhang kann
 
-- (3) Die KBV kann die bereits ausgesprochene Zulassung verkürzen, wenn in absehbarer Zeit Änderungen  bevorstehen. In diesem Zusammenhang kann
-
-- von Anforderungen aufgrund gesetzlicher Neuerungen die KBV den Antragsteller zu einer Zertifizierung auffordern.
+- die KBV den Antragsteller zu einer Zertifizierung auffordern.
 
 - (4) Die KBV kann die bereits ausgesprochene Zulassung verlängern (automatische Rezertifizierung)
 
@@ -162,9 +150,9 @@ Wenn erforderliche Prüfunterlagen nicht innerhalb einer angemessenen Frist beig
 
 # § 8 AUßERORDENTLICHE KONTROLLPRÜFUNG
 
-Die KBV kann bei einem konkreten Verdacht auf einen Verstoß gegen die Anforderungen an den  hführen. Die KBV entscheidet je
+Die KBV kann bei einem konkreten Verdacht auf einen Verstoß gegen die Anforderungen an den  Zertifizierungsgegenstand eine außerordentliche Kontrollprüfung durchführen. Die KBV entscheidet je
 
-Zertifizierungsgegenstand eine außerordentliche Kontrollprüfung durc Einzelfall über Art, Umfang und Durchführung der Kontrollprüfung.
+Einzelfall über Art, Umfang und Durchführung der Kontrollprüfung.
 
 
 ---
@@ -175,16 +163,16 @@ Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach d
 
 | Position | Verwaltungshandlung | Kostenhöhe |
 |---|---|---|
-| 1. | für Neu-, Re- und | 68,00 |
+| 1. | Ergebnisprüfung | 68,00 |
 | 2. | Sichtprüfung | 68,00 |
-| 3. |  | 34,00 |
+| 3. | Beendigung der Zertifizierung ohne Zulassung | themenspezifischen Kosten des |
 | 4. | Entzug der Zulassung | 68,00 |
-| 5. | 5.1 - je DIN A4-Kopie-SW 5.2 - je DIN A3-Kopie-SW 5.3 - je DIN A4-Farbkopie 5.4 - je DIN A3-Farbkopie | 0,10 0,15 0,50 0,75 € |
+| 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW 5.2 - je DIN A3-Kopie-SW 5.3 - je DIN A4-Farbkopie 5.4 - je DIN A3-Farbkopie | 0,10 0,15 0,50 0,75 € |
 | 6. | Herstellung von Kopien auf sonstigen Datenträgern | In voller Höhe |
-| 7. | Widerspruchs. | Bis zur Höhe der für den |
-| 8. | Beförderung | In voller Höhe |
+| 7. | Vollständige oder teilweise Zurückweisung eines Widerspruchs. | angefochtenen Verwaltungsakt |
+| 8. | Aufwand für besondere Verpackung und besondere Beförderung | In voller Höhe |
 
-Ergebnisprüfung Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung Beendigung der Zertifizierung ohne Zulassung Herstellung von Abschriften und Ausdrucken Vollständige oder teilweise Zurückweisung eines Aufwand für besondere Verpackung und besondere € bis 4.000,00 € bis 4.000,00 € bis zu  25 % der themenspezifischen Kosten des Verfahrens € bis 4.000,00 angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens €, höchstens 350,00 €
+für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 34,00 € bis zu  25 % der Verfahrens € bis 4.000,00 Bis zur Höhe der für den festgesetzten Gebühr; mindestens €, höchstens 350,00 €
 
 
 ---
@@ -197,21 +185,15 @@ Der Antragsteller ist verpflichtet alle Änderungen seiner Angaben im Antrag auf
 
 Die KBV kann Zulassungen insbesondere dann entziehen, wenn
 
-- 1. diese von anderen Zertifizierungsthemen abhängig sind und der Hersteller hierfür keine fristgerechte
-
-- Umsetzung der Anforderungen nachgewiesen hat,
+- 1. diese von anderen Zertifizierungsthemen abhängig sind und der Hersteller hierfür keine fristgerechte  Umsetzung der Anforderungen nachgewiesen hat,
 
 - 2. die Zertifizierung für das vorliegende Zertifizierungsthema nicht fristgerecht erfolgreich abgeschlossen  wird,
-
--
 
 - 3. der Antragsteller noch vor Ablauf der Zulassung die Pflege des Zertifizierungsgegenstandes einstellt,
 
 - 4. der Antragsteller den Anwendern keine Updates zur Verfügung stellt,
 
-- 5. sich im Rahmen einer außerordentlichen Kontrollprüfung herausstellt, dass keine fehlerfreie Version
-
-- des Zertifizierungsgegenstandes zur Verfügung steht.
+- 5. sich im Rahmen einer außerordentlichen Kontrollprüfung herausstellt, dass keine fehlerfreie Version  des Zertifizierungsgegenstandes zur Verfügung steht.
 
 # § 12 INKRAFTSETZUNG
 
@@ -229,8 +211,6 @@ Die Kassenärztliche Bundesvereinigung (KBV) vertritt die pol itischen Interesse
 
 teilnehmenden Ärzte und Psychotherapeuten auf Bundesebene. Sie ist der Dachverband der 17 Kassenärztlichen Vereinigungen (KVen), die die ambulante medizinische Versorgung für 70 Millionen ge setzlich Versicherte in Deutschland sicherstellen. Die KBV schließt mit den gesetzlichen
 
-Krankenkassen und anderen Sozialversicherungsträgern Vereinbarungen, beispielsweise s zur Honorierung der niedergelassenen Ärzte und
+Krankenkassen und anderen Sozialversicherungsträgern Vereinbarungen, beispielsweise Psychotherapeuten sowie zum Leistun gsspektrum der gesetzlichen Krankenkassen. Die KVen und die KBV sind als Einrichtung der ärztlichen Selbstverwaltung Körperschaften des öffentlichen Rechts.
 
-Psychotherapeuten sowie zum Leistun gsspektrum der gesetzlichen Krankenkassen. Die KVen und die KBV sind als Einrichtung der ärztlichen
-
-Selbstverwaltung Körperschaften des öffentlichen Rechts.
+s zur Honorierung der niedergelassenen Ärzte und

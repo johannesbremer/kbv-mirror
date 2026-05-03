@@ -100,21 +100,27 @@ J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhaus�
 
 ---
 
-**Krankenkasse bzw. Kostenträger**
+Krankenkasse bzw. Kostenträger
 
-**Name, Vorname des Versicherten**
+Name, Vorname des Versicherten
 
-**Kostenträgerkennung**
+geb. am
 
-**Versicherten-Nr.**
+Kostenträgerkennung Versicherten-Nr. Status
 
-**Betriebsstätten-Nr.** **Arzt-Nr.**
+Betriebsstätten-Nr. Arzt-Nr.
 
-Diabetes mellitus Typ 1
+Datum
+
+Diabetes mellitus Typ 1  Koronare Herzkrankheit
 
 oder
 
-Diabetes mellitus Typ 2
+oder
+
+Diabetes mellitus Typ 2  Herzinsuffizienz
+
+**1. Teilnahmeerklärung:**
 
 Hiermit erkläre ich, dass ich die angegebene Ärztin/den angegebenen Arzt als koordinierende Ärztin/koordinierenden Arzt wähle.
 
@@ -122,24 +128,26 @@ Ich wurde ausführlich und umfassend über die Inhalte der DMP und die Teilnahme
 
 Mir ist bekannt, dass ich freiwillig am Programm teilnehme und dass für die Teilnahme auch die nachfolgende Einwilligung  erforderlich ist. Ich weiß, welche Mitwirkung meinerseits erforderlich ist und bin bereit, mich aktiv an der Behandlung zu  beteiligen. Ich kann jederzeit ohne Angabe von Gründen die Teilnahme am Programm bei meiner Krankenkasse kündigen.  Bei Nichtteilnahme oder Kündigung werde ich genauso gut betreut wie bisher. Mir ist auch bekannt, wann und wie meine  Teilnahme an dem Programm (z. B. durch meine fehlende Mitwirkung) beendet werden kann. Ich weiß, dass ich von meiner  Krankenkasse eine Übersicht der am Programm teilnehmenden Leistungserbringer erhalten kann.
 
+**2. Einwilligungserklärung:**
+
 Ich willige in die Verarbeitung meiner im Programm erhobenen medizinischen und persönlichen Daten, die in der Daten schutzinformation aufgeführt sind, durch meine oben genannte Krankenkasse zum Zweck der Betreuung im Rahmen der  DMP freiwillig ein.
 
 Ich weiß, dass ich diese Einwilligung jederzeit bei meiner Krankenkasse mit Wirkung für die Zukunft widerrufen und aus dem  Programm austreten kann. Mir ist bekannt, dass dies nicht die Rechtmäßigkeit der bisher auf der Grundlage dieser  Einwilligung erfolgten Verarbeitung berührt. Die erhobenen und gespeicherten Daten werden bei meinem Ausscheiden aus  dem Programm gemäß der dann gültigen Rechtsvorschriften gelöscht.
 
-- ich möchte gemäß den Ausführungen an einem Programm entsprechend der
+**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der
 
 nehmen und bestätige dies mit meiner Unterschrift.
 
-- ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
+**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
 
-weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me.   ­ € ‚ ƒ„
+weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
 Bitte das heutige Datum eintragen.
 
 | **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
 |---|---|---|---|---|---|---|---|
 
-|  |  |  | …ƒ |  |  |  |  |
+|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
 | Ich |  | bestätige, |  |  | dass | für |  |
 |  | sprechend |  | den |  |  | rechtlichen |  |
@@ -149,23 +157,17 @@ Bitte das heutige Datum eintragen.
 | Bitte | das | heutige |  | Datum |  |  | eintragen. |
 | **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
 
-**geb. am**
-
-**Status**
-
-**Datum**
-
-Koronare Herzkrankheit
-
-oder
-
-Herzinsuffizienz 070E
-
 gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
 
 Unterschrift
 
+# Erklärung
+
+### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+
 **Krankenhaus-IK**
+
+070E
 
 Asthma
 
@@ -177,47 +179,48 @@ Brustkrebs
 
 Rücken-  schmerz
 
-Depression  Rheumatoide
+Depression  Rheumatoide Arthritis
 
 Osteoporose
 
- 
+**oben genannten Diagnose(n)**
 
 Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 Stempel Ärztin/Arzt
 
-ˆ
-
-Arthritis
-
 teil-
 
 ent -
 
-J	J	J	J …ƒ
-†‡ƒ
-ˆ
-‰‡‰	… Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J**06.05.2020 TEEWE**
+### Exemplar für den Arzt
+
+J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
 
 
 ---
 
-**Krankenkasse bzw. Kostenträger**
+Krankenkasse bzw. Kostenträger
 
-**Name, Vorname des Versicherten**
+Name, Vorname des Versicherten
 
-**Kostenträgerkennung**
+geb. am
 
-**Versicherten-Nr.**
+Kostenträgerkennung Versicherten-Nr. Status
 
-**Betriebsstätten-Nr.** **Arzt-Nr.**
+Betriebsstätten-Nr. Arzt-Nr.
 
-Diabetes mellitus Typ 1
+Datum
+
+Diabetes mellitus Typ 1  Koronare Herzkrankheit
 
 oder
 
-Diabetes mellitus Typ 2
+oder
+
+Diabetes mellitus Typ 2  Herzinsuffizienz
+
+**1. Teilnahmeerklärung:**
 
 Hiermit erkläre ich, dass ich die angegebene Ärztin/den angegebenen Arzt als koordinierende Ärztin/koordinierenden Arzt wähle.
 
@@ -225,24 +228,26 @@ Ich wurde ausführlich und umfassend über die Inhalte der DMP und die Teilnahme
 
 Mir ist bekannt, dass ich freiwillig am Programm teilnehme und dass für die Teilnahme auch die nachfolgende Einwilligung  erforderlich ist. Ich weiß, welche Mitwirkung meinerseits erforderlich ist und bin bereit, mich aktiv an der Behandlung zu  beteiligen. Ich kann jederzeit ohne Angabe von Gründen die Teilnahme am Programm bei meiner Krankenkasse kündigen.  Bei Nichtteilnahme oder Kündigung werde ich genauso gut betreut wie bisher. Mir ist auch bekannt, wann und wie meine  Teilnahme an dem Programm (z. B. durch meine fehlende Mitwirkung) beendet werden kann. Ich weiß, dass ich von meiner  Krankenkasse eine Übersicht der am Programm teilnehmenden Leistungserbringer erhalten kann.
 
+**2. Einwilligungserklärung:**
+
 Ich willige in die Verarbeitung meiner im Programm erhobenen medizinischen und persönlichen Daten, die in der Daten schutzinformation aufgeführt sind, durch meine oben genannte Krankenkasse zum Zweck der Betreuung im Rahmen der  DMP freiwillig ein.
 
 Ich weiß, dass ich diese Einwilligung jederzeit bei meiner Krankenkasse mit Wirkung für die Zukunft widerrufen und aus dem  Programm austreten kann. Mir ist bekannt, dass dies nicht die Rechtmäßigkeit der bisher auf der Grundlage dieser  Einwilligung erfolgten Verarbeitung berührt. Die erhobenen und gespeicherten Daten werden bei meinem Ausscheiden aus  dem Programm gemäß der dann gültigen Rechtsvorschriften gelöscht.
 
-- ich möchte gemäß den Ausführungen an einem Programm entsprechend der
+**zu 1.: Ja,** ich möchte gemäß den Ausführungen an einem Programm entsprechend der
 
 nehmen und bestätige dies mit meiner Unterschrift.
 
-- ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
+**zu 2.: Ja,** ich habe die „Information zum Datenschutz “ (Fassung vom 25.05.2018) erhalten und zur Kenntnis genommen und
 
-weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me.   ­ € ‚ ƒ„
+weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
 Bitte das heutige Datum eintragen.
 
 | **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
 |---|---|---|---|---|---|---|---|
 
-|  |  |  | …ƒ |  |  |  |  |
+|  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
 | Ich |  | bestätige, |  |  | dass | für |  |
 |  | sprechend |  | den |  |  | rechtlichen |  |
@@ -252,23 +257,17 @@ Bitte das heutige Datum eintragen.
 | Bitte | das | heutige |  | Datum |  |  | eintragen. |
 | **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
 
-**geb. am**
-
-**Status**
-
-**Datum**
-
-Koronare Herzkrankheit
-
-oder
-
-Herzinsuffizienz 070E
-
 gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft
 
 Unterschrift
 
+# Erklärung
+
+### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+
 **Krankenhaus-IK**
+
+070E
 
 Asthma
 
@@ -280,26 +279,23 @@ Brustkrebs
 
 Rücken-  schmerz
 
-Depression  Rheumatoide
+Depression  Rheumatoide Arthritis
 
 Osteoporose
 
- 
+**oben genannten Diagnose(n)**
 
 Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters zu 1. und 2.
 
 Stempel Ärztin/Arzt
 
-Arthritis
-
 teil-
 
 ent -
 
-J	J	J	J …ƒ
-†‡ƒ
-ˆ
-‰‡‰	… Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J**06.05.2020 TEEWE**
+### Exemplar für den Patienten
+
+J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
 
 
 ---

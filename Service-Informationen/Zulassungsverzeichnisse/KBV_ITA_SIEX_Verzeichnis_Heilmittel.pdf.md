@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. APRIL 2026**
+**02. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,7 +32,7 @@
 |---|---|---|---|
 |  | Y/495/2401/36/081 | 31.12.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/062
 
@@ -59,7 +59,7 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/495/2401/36/324 | 31.12.2026 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/078
 
@@ -93,7 +93,7 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/495/2401/36/203 | 31.12.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/346
 
@@ -129,7 +129,7 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|
 |  | Y/495/2401/36/060 | 31.12.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/023
 
@@ -163,7 +163,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |---|---|---|---|
 |  | Y/495/2509/37/677 | 30.09.2028 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/254
 
@@ -257,9 +257,7 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 
 **garrioPRO**
 
-**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart
-
-Internet: www.garrio.de
+**garrio GmbH** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
 
 |  | Y/495/2401/36/298 | 31.12.2026 |  |
 |---|---|---|---|
@@ -297,7 +295,7 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de i
 |---|---|---|---|
 |  | Y/495/2401/36/320 | 31.12.2026 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/210
 
@@ -515,7 +513,7 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 |---|---|---|---|
 |  | Y/495/2401/36/230 | 31.12.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 25. April 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 02. Mai 2026
 
 Y/495/2401/36/261
 

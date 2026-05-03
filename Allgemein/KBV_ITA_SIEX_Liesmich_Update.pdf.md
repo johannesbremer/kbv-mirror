@@ -97,13 +97,11 @@ zum KBV-Update am Mittwoch, den
 
 ---
 
-## OKTOBER 2026
+## DMP: BEREITSTELLUNG GEÄNDERTER EDMP VORGABEN FÜR DEN 1. OKTOBER 2026
 
-## DMP: BEREITSTELLUNG GEÄNDERTER EDMP VORGABEN FÜR DEN 1.
+Zum 1. Oktober 2026 werden die neuen eDMP-Schnittstellen Adipositas Erwachsene und Adipositas Kinder  und Jugendliche eingeführt. Im Rahmen dieser Einführung waren ebenfalls Anpassungen an den  übergreifenden Plausibilitäten notwendig, weshalb Anpassungen an allen eDMP-Schnittstellen
 
-Zum 1. Oktober 2026 werden die neuen eDMP-Schnittstellen Adipositas Erwachsene und Adipositas Kinder -Schnittstellen
-
-und Jugendliche eingeführt. Im Rahmen dieser Einführung waren ebenfalls Anpassungen an den  übergreifenden Plausibilitäten notwendig, weshalb Anpassungen an allen eDMP vorgenommen werden mussten.
+vorgenommen werden mussten.
 
 Zum 1. Oktober 2026 treten ebenso die G-BA Anpassung der DMP Diabetes 1 und 2 sowie KHK in Kraft.
 
@@ -119,19 +117,21 @@ In der FOR-Version 1.3.1 wurden in die folgenden Constraints Korrekturen vorgeno
 
 - -for-adresszeilenAufbauPatientRessource-1 im Profil KBV_PR_FOR_Patient
 
-- Integration der FOR-Version 1.3.1 - Streichung der Constraints
-
-- -erp-angabeKZV-AbrechnungsnummerPflicht und -erp-angabeKZV-AbrechnungsnummerVerbot im - Profil KBV_PR_ERP_Bundle
-
 Wir haben Ihnen heute das Korrekturrelease in der Version 1.3.1 unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-)
 
 update/DigitaleMuster/ERP/Q3_2026/ sowie [https://simplifier.net/for](https://simplifier.net/for) bereitgestellt.
 
-## EREZEPT: KORREKTUR-RELEASE DER EREZEPT-PROFILE IN DER VERSION 1.4.1 ZUM 1. JULI 2026 -FHIR-Profile in der
+## EREZEPT: KORREKTUR-RELEASE DER EREZEPT-PROFILE IN DER VERSION 1.4.1 ZUM 1. JULI 2026
 
-Wir möchten Sie hiermit über die Bereitstellung des Korrekturrelease der eRezept Version 1.4.1 informieren.
+Wir möchten Sie hiermit über die Bereitstellung des Korrekturrelease der eRezept-FHIR-Profile in der
+
+Version 1.4.1 informieren.
 
 In der eRezept-Version 1.4.1 wurden folgenden Anpassungen vorgenommen:
+
+- Integration der FOR-Version 1.3.1 - Streichung der Constraints
+
+- -erp-angabeKZV-AbrechnungsnummerPflicht und -erp-angabeKZV-AbrechnungsnummerVerbot im - Profil KBV_PR_ERP_Bundle
 
 Im Zusammenhang mit dieser Aktualisierung wurden auch Anpassungen am Patientenausdruck für das  eRezept vorgenommen.
 
@@ -141,11 +141,9 @@ Sie finden die Aktualisierung der Vorgaben unter [https://simplifier.net/erezept
 
 Hinweis:
 
-Um die Aufwände bei allen am Prozess Beteiligten zu reduzieren, haben wir uns gemeinsam mit dem GKV
+Um die Aufwände bei allen am Prozess Beteiligten zu reduzieren, haben wir uns gemeinsam mit dem GKV SV, gegen eine Aktualisierung der FHIR-Profile für die Projekte eAU und eVDGA aufgrund der neuen FOR- Profile entschieden. Eine Angleichung der FOR-Version in den eFormular-Projekten eAU, eRezept und
 
--Version in den eFormular-Projekten eAU, eRezept und
-
-SV, gegen eine Aktualisierung der FHIR-Profile für die Projekte eAU und eVDGA aufgrund der neuen FOR- Profile entschieden. Eine Angleichung der FOR eVDGA erfolgt mit der Einführung des VSDM 2.0.
+eVDGA erfolgt mit der Einführung des VSDM 2.0.
 
 
 ---
@@ -173,37 +171,23 @@ update/Abrechnung/Kollegensuche/STU3 kann noch bis 30.06.2026 genutzt werden.
 
 ---
 
-# ÜBERBLICK DER ÄNDERUNGEN GEGENÜBER DEM UPDATE VOM 14.
-
-# NOVEMBER 2025
+# ÜBERBLICK DER ÄNDERUNGEN GEGENÜBER DEM UPDATE VOM 1 NOVEMBER 2025
 
 ## KVDT: WEITERENTWICKLUNG DER KVDT-DATENSATZBESCHREIBUNG UND DES KVDT ANFORDERUNGSKATALOGES
 
-Im Rahmen der allgemeinen Weiterentwicklung der Anforderungen des KVDT wurden Anpassungen bzw.
+Im Rahmen der allgemeinen Weiterentwicklung der Anforderungen  Klarstellungen an den Anforderungen KP8-08, P2-68, KP2-616, P2-400 und KP2-565 vorgenommen.
 
-Klarstellungen an den Anforderungen KP8-08, P2-68, KP2-616, P2-400 und KP2-565 vorgenommen.
-
-Bei der Anforderung KP2-565 wurde zwei Akzeptanzkriterien zur Prüfung der Datumsangabe ergänzt. Diese  beiden Akzeptanzkriterien wurden inhaltlich auch als die neuen Regeln 899 und 900 in der KVDT
-
-Datensatzbeschreibung abgebildet.
+Bei der Anforderung KP2-565 wurde zwei Akzeptanzkriterien zur Prüfung der Datumsangabe ergänzt. Diese  beiden Akzeptanzkriterien wurden inhaltlich auch als die neuen Regeln 899 und 900 in der KVDT Datensatzbeschreibung abgebildet.
 
 Die detaillierten Änderungen finden Sie im KVDT-Anforderungskatalog sowie in der KVDT
 
 Datensatzbeschreibung in der Dokumentenhistorie sowie in den Dokumenten unter  [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/).
 
-## APRIL 2026
-
 ## EARZTBRIEF: AKTUALISIERUNG DES ANFORDERUNGSKATALOGES EARZTRBRIEF ZUM 1.
 
-Aufgrund Ihrer Rückmeldungen wurden Verbesserungen bzw. Klarstellungen im Zusammenhang mit der  P41-01,
+Aufgrund Ihrer Rückmeldungen wurden Verbesserungen  Verarbeitung und Erstellung von eArztbriefen vorgenommen. Hierfür wurden die Anforderungen  P43-03 und P44-01 überarbeitet.
 
-Verarbeitung und Erstellung von eArztbriefen vorgenommen. Hierfür wurden die Anforderungen  P43-03 und P44-01 überarbeitet.
-
-Sie finden den aktualisierten Anforderungskatalog unter [https://update.kbv.de/ita](https://update.kbv.de/ita)
-
-update/Abrechnung/eArztbrief/.
-
-## ZWEITEN QUARTAL 2026
+Sie finden den aktualisierten Anforderungskatalog unter  update/Abrechnung/eArztbrief/.
 
 ## HGNC: BEREITSTELLUNG DER SCHLÜSSELTABELLE FÜR HGNC KODIERUNG ZUM
 
@@ -211,17 +195,29 @@ Im Rahmen des Updates zum zweiten Quartal 2026 stellen wir Ihnen die Schlüsselt
 
 Sie finden die HGNC-Schlüsseltabelle (74E26201.sdhgnc.zip) als Bestandteil des JAR-Archives  (kbv_stammdateien.2026.2.0.jar) unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Stammdateien/KBV_Stammdateien/
 
-## DAS ZWEITE QUARTAL 2026
-
 ## SDKVCA: AKTUALISIERUNG DER STAMMDATEI KVCA (SDKVCA) FÜR
 
-Mit Beginn des zweiten Quartals 2026 wird die KV Mecklenburg-Vorpommern auch eHKS-
+Mit Beginn des zweiten Quartals 2026 wird die KV Mecklenburg-Vorpommern auch eHKS- Dokumentationen via KIM annehmen.
 
-Dokumentationen via KIM annehmen.
-
-Bei der KV Baden-Württemberg ändert sich zum 01.04.2026 die KIM-Adresse für die Annahme von QSPB.
+Bei der KV Baden-Württemberg ändert sich zum 01.04.2026 die KIM
 
 Sie finden die SDKVCA-Stammdatei (74E26201.sdkvca.zip) als Bestandteil des JAR-Archives  (kbv_stammdateien.2026.2.0.jar) unter [https://update.kbv.de/ita-](https://update.kbv.de/ita-) update/Stammdateien/KBV_Stammdateien/
+
+# 4.
+
+des KVDT wurden Anpassungen bzw.
+
+## APRIL 2026
+
+bzw. Klarstellungen im Zusammenhang mit der  P41-01,
+
+[https://update.kbv.de/ita](https://update.kbv.de/ita)
+
+## ZWEITEN QUARTAL 2026
+
+## DAS ZWEITE QUARTAL 2026
+
+-Adresse für die Annahme von QSPB.
 
 
 ---

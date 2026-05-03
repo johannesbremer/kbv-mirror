@@ -1,9 +1,9 @@
 | [AWS-142] Profile Report Import und Report Export | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
-|  | Vollständig angenommen |  |  |
+| Lösung: | Vollständig angenommen |  |  |
 | Stichwörter: | Schnittstellenfestlegung | | |
 | Organisation: | Gematik GmbH | | |
 | Veroeffentlichung: | zugestimmt | | |
@@ -15,7 +15,7 @@
 | In den Profilen Report Import und Report Export soll das Narrativ erlaubt sein. Das ist im |
 |---|
 
-Projekt: Lösung: §291d Absatz 1 Beschreibung Moment nicht der Fall und sollte angepasst werden.
+§291d Absatz 1 Beschreibung Moment nicht der Fall und sollte angepasst werden.
 
 
 ---
@@ -23,9 +23,9 @@ Projekt: Lösung: §291d Absatz 1 Beschreibung Moment nicht der Fall und sollte 
 | [AWS-141] Unterstützung aller xDT-Formate | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
-|  | Vollständig angenommen |  |  |
+| Lösung: | Vollständig angenommen |  |  |
 | Stichwörter: | Schnittstellenfestlegung | | |
 | Organisation: | Gematik GmbH | | |
 | Veroeffentlichung: | zugestimmt | | |
@@ -35,7 +35,7 @@ Projekt: Lösung: §291d Absatz 1 Beschreibung Moment nicht der Fall und sollte 
 |---|---|
 | In der AWS |  |
 
-Projekt: §291d Absatz 1 Lösung:  Explizite Codes für ADT und GDT wurden ergänzt.  Beschreibung werden bisher nicht alle xDT- Formate unterstützt. Dies sollte angepasst werden.
+§291d Absatz 1  Explizite Codes für ADT und GDT wurden ergänzt.  Beschreibung werden bisher nicht alle xDT- Formate unterstützt. Dies sollte angepasst werden.
 
 
 ---
@@ -80,19 +80,19 @@ Projekt: §291d Absatz 1 Lösung:  Explizite Codes für ADT und GDT wurden ergä
 
 | [AWS-138] Metadaten zu Anlagendokumenten | | | |
 |---|---|---|---|
-|  | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Status: | Bearbeitung abgeschlossen | | |
+| Projekt: | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Teilweise angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
-|  | zugestimmt | | |
-|  | Ein Dokument in der EPA kann nach der | | |
+| Veroeffentlichung: | zugestimmt | | |
+| Kommentierungsergebnis: | Ein Dokument in der EPA kann nach der | | |
 
 |  |  |
 |---|---|
 | In Kap. 4.2.3 wird beschrieben, wie Anlagen bzw. Dokumente abgelegt werden. Das |  |
 
-Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: gemSpec_DM_ePA_V1.4.0 eindeutig mit einer URI wiedergefunden werden. Diese URI kann in der AWS in der Anlage direkt hinterlegt werden. Wir haben allerdings noch einen neuen Anlagetypen (EPA_Dokument) erzeugt. Zusätzlich kann z.B. der Formatcode unter der Spezifikationsversion hinterlegt werden.  Beschreibung betrifft auch patientenaktenbezogene Daten wie Daten aus der ePA des Patienten, seine NFD, eMP oder andere Daten aus der TI. Falls Dokumente für den Versicherten ursprünglich aus der elektronischen Patientenakte nach § 291a stammen, sollte es möglich sein, auch Metadaten der ePA mit dem ePA -Anlagendokument zu verknüpfen. Zur Verknüpfung von Anlagen und Metadaten fehlen in der aktuellen Fassung noch Festlegungen, auch unter Verweis auf Festlegungen in [gemSpec_DM_ePA] ("gematik: Datenmodell ePA") und im Dokument "IHE Deutschland (2018): Value Sets für Aktenprojekte im deutschen Gesundheitswesen. Die Verwendung von Metadaten zu Anlagedokumenten könnten auch für andere Anwendungsdaten nützlich sein.
+§291d Absatz 1 gemSpec_DM_ePA_V1.4.0 eindeutig mit einer URI wiedergefunden werden. Diese URI kann in der AWS in der Anlage direkt hinterlegt werden. Wir haben allerdings noch einen neuen Anlagetypen (EPA_Dokument) erzeugt. Zusätzlich kann z.B. der Formatcode unter der Spezifikationsversion hinterlegt werden.  Beschreibung betrifft auch patientenaktenbezogene Daten wie Daten aus der ePA des Patienten, seine NFD, eMP oder andere Daten aus der TI. Falls Dokumente für den Versicherten ursprünglich aus der elektronischen Patientenakte nach § 291a stammen, sollte es möglich sein, auch Metadaten der ePA mit dem ePA -Anlagendokument zu verknüpfen. Zur Verknüpfung von Anlagen und Metadaten fehlen in der aktuellen Fassung noch Festlegungen, auch unter Verweis auf Festlegungen in [gemSpec_DM_ePA] ("gematik: Datenmodell ePA") und im Dokument "IHE Deutschland (2018): Value Sets für Aktenprojekte im deutschen Gesundheitswesen. Die Verwendung von Metadaten zu Anlagedokumenten könnten auch für andere Anwendungsdaten nützlich sein.
 
 
 ---
@@ -123,14 +123,14 @@ Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: gemSpec_DM_e
 | Komponente(n): | Keine | | |
 | Lösung: | Nicht angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
-|  | zugestimmt | | |
+| Veroeffentlichung: | zugestimmt | | |
 | Kommentierungsergebnis: | Die AWS steht am Ende der Ableitungshierarchie und sollte | | |
 
 |  |  |
 |---|---|
 | Resource.meta.profile ist in allen Profilen auf 1..1 begrenzt und mit einem FixedValue Neben dem FixedValue sollten unbegrenzt weitere profile-Elemente erlaubt werden |  |
 
-§291d Absatz 1 Veroeffentlichung: daher nicht noch weiter zur Ableitung dienen. Die gleichzeitige Konformität weiterer Profilen wäre möglich, aber das Problem ist, dass wenn ein fixed Value angegeben worden ist, alle Einträge diesem genügen müssten. Ein Slicing ist hier nur sehr schwierig möglich. Beschreibung versehen. Dies schließt die Kompatibilität zu jeglichen weiteren Profilen aus. Zusätzliche Kompatibilitätsangaben könnten hier helfen, Daten austauschbar zu machen, die über die AWS Spezifikation hinausgehen. Bsp.: "Diese Ressource erfüllt die Anforderungen der AWS, enthält jedoch zusätzliche Informationen/Codierungen gemäß MI-I". Durch diese Angabe in einer exportierten Ressource, könnte beim Import eine erweiterte Datenübernahme getriggert werden.
+§291d Absatz 1 daher nicht noch weiter zur Ableitung dienen. Die gleichzeitige Konformität weiterer Profilen wäre möglich, aber das Problem ist, dass wenn ein fixed Value angegeben worden ist, alle Einträge diesem genügen müssten. Ein Slicing ist hier nur sehr schwierig möglich. Beschreibung versehen. Dies schließt die Kompatibilität zu jeglichen weiteren Profilen aus. Zusätzliche Kompatibilitätsangaben könnten hier helfen, Daten austauschbar zu machen, die über die AWS Spezifikation hinausgehen. Bsp.: "Diese Ressource erfüllt die Anforderungen der AWS, enthält jedoch zusätzliche Informationen/Codierungen gemäß MI-I". Durch diese Angabe in einer exportierten Ressource, könnte beim Import eine erweiterte Datenübernahme getriggert werden.
 
 
 ---
@@ -161,14 +161,14 @@ Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: gemSpec_DM_e
 | Komponente(n): | Keine | | |
 | Lösung: | Nicht angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
-|  | zugestimmt | | |
+| Veroeffentlichung: | zugestimmt | | |
 | Kommentierungsergebnis: | Im AFK P7-01 der AWS ist definiert: "Ist eine Ressource oder | | |
 
 |  |  |
 |---|---|
 | Die Semantik von MustSupport in Kombination mit Condition.code ist unklar. Dass beim |  |
 
-§291d Absatz 1 Veroeffentlichung: ein Element einer Ressource im Zielsystem unbekannt bzw. lässt sich diese nicht abbilden, so ist mindestens der Inhalt aus dem menschenlesbaren Teil des Elements „Ressourcentyp.text“ in das Zielsystem zu übernehmen." D.h. auch für diesen Fall ist ein Import möglich und nötig. Beschreibung Export sämtliche Codierungen geliefert werden müssen, die dem System bekannt sind, ist verständlich. Aber wie solle in System beim Import mit unbekannten/nicht unterstützen Codierungen umgehen? Gilt dort auch MustSupport? Falls ja: Besteht tatsächlich die Erwartung, dass PVS-Systeme künftig sowohl mit ICD, SNOMED, AlphaID als auch Orphanet umgehen können müssen? Falls nein, dann sollten die Displaywerte beim Export erzwungen werden, damit beim Import von Diagnosen mit nicht unterstützten Codierungen zumindest diese übernommen werden können.
+§291d Absatz 1 ein Element einer Ressource im Zielsystem unbekannt bzw. lässt sich diese nicht abbilden, so ist mindestens der Inhalt aus dem menschenlesbaren Teil des Elements „Ressourcentyp.text“ in das Zielsystem zu übernehmen." D.h. auch für diesen Fall ist ein Import möglich und nötig. Beschreibung Export sämtliche Codierungen geliefert werden müssen, die dem System bekannt sind, ist verständlich. Aber wie solle in System beim Import mit unbekannten/nicht unterstützen Codierungen umgehen? Gilt dort auch MustSupport? Falls ja: Besteht tatsächlich die Erwartung, dass PVS-Systeme künftig sowohl mit ICD, SNOMED, AlphaID als auch Orphanet umgehen können müssen? Falls nein, dann sollten die Displaywerte beim Export erzwungen werden, damit beim Import von Diagnosen mit nicht unterstützten Codierungen zumindest diese übernommen werden können.
 
 
 ---
@@ -176,18 +176,18 @@ Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: gemSpec_DM_e
 | [AWS-Zusatz5] KBV_PR_AW_Patient | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Später umsetzen |  |  |
 | Organisation: | Gematik GmbH | | |
-|  | zugestimmt | | |
-|  | In der Tat sollte und könnte hier eine Harmonisierung | | |
+| Veroeffentlichung: | zugestimmt | | |
+| Kommentierungsergebnis: | In der Tat sollte und könnte hier eine Harmonisierung | | |
 
 |  |  |
 |---|---|
 | Das Binding von Address.country (DEÜV Anlage8) steht in Konflikt mit dem preferred Hier sollte eine deutschlandweite Harmonisierung angestrebt werden. Alternativ: Dort wo |  |
 
-Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: angestrebt werden, allerdings ist der Standard in der vertragsärztlichen Versorgung derzeit DEÜV Beschreibung Binding in FHIR Core, den Deutschen Basisprofilen, der MI-I und IsiK (ISO- Ländercodes). DEÜV benötigt wird country ungebunden lassen und den DEÜV-Code in einer Extension anhängen, um beide Codierungen zu erlauben.
+§291d Absatz 1 angestrebt werden, allerdings ist der Standard in der vertragsärztlichen Versorgung derzeit DEÜV Beschreibung Binding in FHIR Core, den Deutschen Basisprofilen, der MI-I und IsiK (ISO- Ländercodes). DEÜV benötigt wird country ungebunden lassen und den DEÜV-Code in einer Extension anhängen, um beide Codierungen zu erlauben.
 
 
 ---
@@ -195,7 +195,7 @@ Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: angestrebt w
 | [AWS-Zusatz6] KBV_PR_AW_Patient 2 | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel- | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -206,7 +206,7 @@ Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: angestrebt w
 |---|---|
 | Patient.generalPractitioner.identifier könnte/sollte das DE_Basisprofil Keine Inkompatibilität, nur ein Modellierungshinweis... |  |
 
-Schnittstelle gemäß Projekt: §291d Absatz 1 verwenden Beschreibung  für LANR
+Schnittstelle gemäß §291d Absatz 1 verwenden Beschreibung  für LANR
 
 
 ---
@@ -252,9 +252,9 @@ Schnittstelle gemäß Projekt: §291d Absatz 1 verwenden Beschreibung  für LANR
 | [AWS-Zusatz9] KBV_PR_AW_Patient 5 | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel- | | |
 | Komponente(n): | Keine | | |
-|  | Angenommen |  |  |
+| Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
 | Veroeffentlichung: | zugestimmt | | |
 | Kommentierungsergebnis: | Angenommen | | |
@@ -263,7 +263,7 @@ Schnittstelle gemäß Projekt: §291d Absatz 1 verwenden Beschreibung  für LANR
 |---|---|
 | Patient.contact.telecom hat mustSupport Flags, Patient.telecom jedoch nicht. |  |
 
-Schnittstelle gemäß Projekt: Lösung: §291d Absatz 1 Beschreibung
+Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 
 ---
@@ -271,7 +271,7 @@ Schnittstelle gemäß Projekt: Lösung: §291d Absatz 1 Beschreibung
 | [AWS-Zusatz10] KBV_EX_AW_Patient_Vsdm_Zusatzinformationen | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -282,7 +282,7 @@ Schnittstelle gemäß Projekt: Lösung: §291d Absatz 1 Beschreibung
 |---|---|
 | Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen |  |
 
-Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
+§291d Absatz 1 anstelle nur des relevanten) Beschreibung
 
 
 ---
@@ -290,7 +290,7 @@ Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
 | [AWS-Zusatz11] KBV_EX_AW_Patient_Zusatzinformationen | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Teilweise angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -301,7 +301,7 @@ Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
 |---|---|
 | Es ist unklar, warum die Extension "Religionszugehörigkeit" hier verschachtelt wurde. |  |
 
-Projekt: §291d Absatz 1 gedacht. Die Überarbeitung des Types wurde angenommen. Beschreibung Warum nicht als eingeständige Extension? Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen anstelle nur des relevanten)
+§291d Absatz 1 gedacht. Die Überarbeitung des Types wurde angenommen. Beschreibung Warum nicht als eingeständige Extension? Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen anstelle nur des relevanten)
 
 
 ---
@@ -309,7 +309,7 @@ Projekt: §291d Absatz 1 gedacht. Die Überarbeitung des Types wurde angenommen.
 | [AWS-Zusatz12] KBV_EX_AW_Patient_Aktuelle_Taetigkeit | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -320,7 +320,7 @@ Projekt: §291d Absatz 1 gedacht. Die Überarbeitung des Types wurde angenommen.
 |---|---|
 | Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen |  |
 
-Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
+§291d Absatz 1 anstelle nur des relevanten) Beschreibung
 
 
 ---
@@ -328,7 +328,7 @@ Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
 | [AWS-Zusatz13] KBV_PR_AW_Krankenversicherungsverhaeltnis | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -339,7 +339,7 @@ Projekt: §291d Absatz 1 anstelle nur des relevanten) Beschreibung
 |---|---|
 | Die Modellierung von Coverage.payor wird auf Anregung des GKV in den Basisprofilen Harmonisierung |  |
 
-Projekt: §291d Absatz 1 angepasst (payor 1..1 und abrechnendeIK als Extension) Beschreibung
+§291d Absatz 1 angepasst (payor 1..1 und abrechnendeIK als Extension) Beschreibung
 
 
 ---
@@ -366,18 +366,18 @@ Projekt: §291d Absatz 1 angepasst (payor 1..1 und abrechnendeIK als Extension) 
 | [AWS-Zusatz15] KBV_PR_AW_Ambulante_Operation | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
 | Veroeffentlichung: | zugestimmt | | |
-|  | Angenommen | | |
+| Kommentierungsergebnis: | Angenommen | | |
 
 |  |  |
 |---|---|
 | Die Seitenlokalisation ist, wie bei der ICD -10 Kodierung, als Bestandteil des Codes und nicht der Entsprechen der Vorgaben der Deutschen Basisprofile sollte eine Extension |  |
 
-Projekt: §291d Absatz 1 Kommentierungsergebnis: bodySite zu betrachten. (https://simplifier.net/basisprofil-de-r4/extension-seitenlokalisation) and Procdure.code.coding verwendet werden. Beschreibung
+§291d Absatz 1 bodySite zu betrachten. (https://simplifier.net/basisprofil-de-r4/extension-seitenlokalisation) and Procdure.code.coding verwendet werden. Beschreibung
 
 
 ---
@@ -385,7 +385,7 @@ Projekt: §291d Absatz 1 Kommentierungsergebnis: bodySite zu betrachten. (https:
 | [AWS-Zusatz16] KBV_PR_AW_Behandelnder | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Angenommen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -396,7 +396,7 @@ Projekt: §291d Absatz 1 Kommentierungsergebnis: bodySite zu betrachten. (https:
 |---|---|
 | Das Slice für Practitioner.qualification:practitioner_speciality ist invalide. Das Slicing muss |  |
 
-Projekt: §291d Absatz 1 Beschreibung vor dem eigemtlich Slice ein Slice -Intro mit Informationen rund um den Discriminator enthalten. "practitioner_speciality" darf nicht direkt auf obester Ebene erscheinen.
+§291d Absatz 1 Beschreibung vor dem eigemtlich Slice ein Slice -Intro mit Informationen rund um den Discriminator enthalten. "practitioner_speciality" darf nicht direkt auf obester Ebene erscheinen.
 
 
 ---
@@ -404,18 +404,18 @@ Projekt: §291d Absatz 1 Beschreibung vor dem eigemtlich Slice ein Slice -Intro 
 | [AWS-Zusatz17] KBV_PR_AW_Observation_Blutdruck | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Später umsetzen |  |  |
 | Organisation: | Gematik GmbH | | |
 | Veroeffentlichung: | zugestimmt | | |
-|  | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
+| Kommentierungsergebnis: | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
 
 |  |  |
 |---|---|
 | LOINC Kodierung sollte für Blutdruck-Komponenten verwendet werden um mit den Übernahme der LOINC Codes aus https://www.hl7.org/fhir/bp.html |  |
 
-Projekt: §291d Absatz 1 Kommentierungsergebnis: und sobald diese verfügbar sind in die AWS integriert. internationalen HL7 VitalSign Profilen und anderen nationalen Projekten (Siehe COCOS Initative) interoperabel zu bleiben. Beschreibung
+§291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. internationalen HL7 VitalSign Profilen und anderen nationalen Projekten (Siehe COCOS Initative) interoperabel zu bleiben. Beschreibung
 
 
 ---
@@ -423,7 +423,7 @@ Projekt: §291d Absatz 1 Kommentierungsergebnis: und sobald diese verfügbar sin
 | [AWS-Zusatz18] KBV_PR_AW_Observation_Bauchumfang | | | |
 |---|---|---|---|
 | Status: | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Später umsetzen |  |  |
 | Organisation: | Gematik GmbH | | |
@@ -434,23 +434,23 @@ Projekt: §291d Absatz 1 Kommentierungsergebnis: und sobald diese verfügbar sin
 |---|---|
 | Observation.valueQuantity sollte eine Einschränkung der Unit enthalten. Es sollte |  |
 
-Projekt: §291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. festgelegt werden in welcher Maßeinheit gemessen wird um eine Validierung zu ermöglichen. Beschreibung
+§291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. festgelegt werden in welcher Maßeinheit gemessen wird um eine Validierung zu ermöglichen. Beschreibung
 
 
 ---
 
 | [AWS-Zusatz19] KBV_PR_AW_Observation_Raucherstatus | | | |
 |---|---|---|---|
-|  | Bearbeitung abgeschlossen | | |
-|  | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| Status: | Bearbeitung abgeschlossen | | |
+| Projekt: | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | Komponente(n): | Keine | | |
 | Lösung: | Später umsetzen |  |  |
 | Organisation: | Gematik GmbH | | |
-|  | zugestimmt | | |
-|  | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
+| Veroeffentlichung: | zugestimmt | | |
+| Kommentierungsergebnis: | Die Vitalzeichen werden gerade sektorübergreifend erarbeitet | | |
 
 |  |  |
 |---|---|
 | LOINC Kodierung sollte für Raucherstatus verwendet werden um mit interrnationalen  Das folgende LOINC Answer Set sollte verwendet werden: https://loinc.org/LL2201-3/. Ein Code für "Unbekannt" kann auf Basis des Data-Absent-Reason CodeSystem o.Ä. in ein |  |
 
-Projekt: §291d Absatz 1 Veroeffentlichung: Kommentierungsergebnis: und sobald diese verfügbar sind in die AWS integriert. Beschreibung Initativen interoperable zu belieben. ValueSet gebunden werden.
+§291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. Beschreibung Initativen interoperable zu belieben. ValueSet gebunden werden.

@@ -173,13 +173,7 @@ Ident-Nummer einer optionalen Funktion Ident -
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli- chen.
 
-Schnittstellenbeschr eibung
-
-Hörgeräteversorgung Kinder
-
-Die in der
-
-QS
+Die in der Schnittstellenbeschr eibung QS Hörgeräteversorgung Kinder
 
 [KBV_ITA_VGEX_Schnittstelle_QSHGVK] festgelegten Datenelemente müssen vollständig
 
@@ -189,9 +183,7 @@ erfassbar sein.
 |---|---|
 | K1-15 | Vorbelegung von Datenfeldern |
 
-Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si-
-
-chergestellt ist, dass die Daten korrekt übernommen werden.
+Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si- chergestellt ist, dass die Daten korrekt übernommen werden.
 
 Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
 
@@ -201,11 +193,17 @@ Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Dat
 
 Die Verordnungen/ Nachsorgen werden ab 01.07.2013 quartalsweise erfasst.
 
-Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach- sorge durchgeführt wird.
+wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach-
 
-Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin-
+Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt
 
-Melde-/Prüfquartal:  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
+sorge durchgeführt wird.
+
+den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und
+
+Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin-
+
+Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
 
 Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS -Datensätze ausgewertet.
 
@@ -318,7 +316,7 @@ Dokumentationen
 
 | Optionale FUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
-| K1-136 | Datenübernahme aus dem PVS 1 |
+| K1-136 | Datenübernahme aus dem PVS 1 1 |
 
 Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. 2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig [KBV_ITA_VGEX_PLAUSI_QSHGVK] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_ Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.  K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1-140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung des Nutzers [KBV_ITA_VGEX_PLAUSI_QSHGVK] der gesamten Dokumentation(en) durchführen können. a) Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld) muss dem Nutzer zur Korrektur zur Verfügung gestellt werden. Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts -Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich. Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- sibilitäten“  vor, kann der Arzt sich über diese hinwegsetzen. b) Wurden die Prüfungen plausibel abgeschlossen, so  Praxisverwaltungssystem QSHGVK] enthält die Spalten: eine  wird dies dem Nutzer angezeigt. auf Nutzer zu diesem direkt Plausibilitätenprüfung Spalte „optional Plau- Plausibilität -
 
@@ -502,7 +500,7 @@ Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenann
 
 ---
 
-| PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
+|  | |
 |---|---|
 | P1-266 | QSHGVK auf Basis von KIM |
 
@@ -541,8 +539,8 @@ Es sind folgende Import-Status möglich:
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| OK (implausibel) | es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- |
+| Datei existiert bereits | cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, daher konnte diese übermittelt. |
 
 Die KIM-Nachricht mit der Rückmeldung wird an die Absender  aus der Anwender (Arzt) die exportierten Dateien über
@@ -569,7 +567,7 @@ der
 
 Versand  ] an -
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
+PFLICHTFUNKTION QS Hörgeräteversorgung Kinder Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. ports führen. Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. P1-20) -
 
 
 ---

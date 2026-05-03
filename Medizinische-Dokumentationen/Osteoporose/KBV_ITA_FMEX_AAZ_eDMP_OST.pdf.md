@@ -88,7 +88,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] [ ] [ ] [ ] [ ] [ ]
 
 |  |  |
 |---|---|
-| ☐ | Kostenträger-Stammdatei |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 ## 2.1
@@ -99,7 +99,7 @@ Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisie
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT- | BEZEICHNUNG DER OPTIONALEN |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION DMP OST LT. |
 |---|---|
 |  |  |
 |  |  |
@@ -112,7 +112,7 @@ Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisie
 
 ## REALISIERTE OPTIONALE FUNKTIONEN DMP OST
 
-[ ] [ ] Der Antragsteller versichert, dass die aktuelle Version der verbindlichen der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts richtlinien erfüllt sind. [ ] [ ] [ ] NUMMER ANFORDERUNGSKATALOG FUNKTION DMP OST LT.
+[ ] [ ] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts Kostenträger-Stammdatei richtlinien erfüllt sind. [ ] [ ] [ ] ANFORDERUNGSKATALOG
 
 ---
 
@@ -194,15 +194,13 @@ Rezertifizierung
 
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
-- en.
-
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen könn
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-- - und
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und
 
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 
 ---

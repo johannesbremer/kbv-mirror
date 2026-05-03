@@ -28,9 +28,7 @@ Formulars bei der Kassenärztliche Bundesvereinigung (KBV) bekanntgegeben.
 
 ## 1.1 SOFTWAREVERANTWORTLICHER
 
-Softwareverantwortlich im Sinne dieses Formulars ist die juristische oder natürliche Person, die für die  aufgeführten Vorgaben
-
-Bekanntgabe der Softwarevarianten und die Einhaltung der in diesem Formular  gegenüber der KBV verantwortlich zeichnet.
+Softwareverantwortlich im Sinne dieses Formulars ist die juristische oder natürliche Person, die für die  Bekanntgabe der Softwarevarianten und die Einhaltung der in diesem Formular  gegenüber der KBV verantwortlich zeichnet.
 
 Die Angaben in diesem Formular müssen mit den Daten des Antragstellers für die Zertifizierung der
 
@@ -51,7 +49,8 @@ Basissoftware übereinstimmen.
 | Straße und Hausnummer |  | | |
 | PLZ, Ort |  | | |
 
-[ ] [ ] [ ]
+[ ] [ ] [ ]aufgeführten Vorgaben
+
 
 ---
 
@@ -62,9 +61,9 @@ Basissoftware übereinstimmen.
 
 ## 1.2 ANGABEN ZUR ZERTIFIZIERTE SOFTWARE
 
-nd Ident-Nummer der zertifizierten Software an und die existierende
+Bitte geben Sie die Bezeichnung und Ident-Nummer der zertifizierten Software an und die existierende
 
-Bitte geben Sie die Bezeichnung u KBV-Prüfnummer der Software. Die zertifizierte Software gilt als Basisvariante der in diesem Formular
+KBV-Prüfnummer der Software. Die zertifizierte Software gilt als Basisvariante der in diesem Formular
 
 bekanntzugebenden Varianten.
 
@@ -77,17 +76,15 @@ bekanntzugebenden Varianten.
 
 ## 2.1  VARIANTEN DER SOFTWARE
 
-und/ oder Namen und/ oder den Funktionen von der
+Eine Softwarevariante kann sich im Design und/ oder Namen und/ oder den Funktionen von der
 
-Eine Softwarevariante kann sich im Design Basissoftware unterscheiden, verfügt aber über die von der KBV zertifizierten Funktionalitäten der  Basissoftware.
+Basissoftware unterscheiden, verfügt aber über die von der KBV zertifizierten Funktionalitäten der  Basissoftware.
 
-Bekanntgabe vorgesehenen
+Nennen Sie nachfolgend die von Ihnen angebotenen und hiermit für die Bekanntgabe vorgesehenen
 
-Nennen Sie nachfolgend die von Ihnen angebotenen und hiermit für die Softwarevarianten, welche unter einem anderen Namen auf dem Markt erhältlich sind.
+Softwarevarianten, welche unter einem anderen Namen auf dem Markt erhältlich sind.
 
-Sofern die Softwarevariante von einem anderen Unternehmen vertrieben wird, geben Sie den Namen des  [Unternehmen])
-
-Unternehmens bitte ebenfalls mit an ([Name der Softwarevariante]
+Sofern die Softwarevariante von einem anderen Unternehmen vertrieben wird, geben Sie den Namen des  Unternehmens bitte ebenfalls mit an ([Name der Softwarevariante]  [Unternehmen])
 
 | LISTE DER SOFTWAREVARIANTEN |
 |---|
@@ -97,17 +94,13 @@ Unternehmens bitte ebenfalls mit an ([Name der Softwarevariante]
 
 # 3 KENNTNISNAHME DURCH DEN SOFTWAREVERANTWORTLICHEN
 
-bekanntgegebenen
+Die Prüfnummer der Basissoftware gilt auch für die in diesem Formular bekanntgegebenen
 
-Die Prüfnummer der Basissoftware gilt auch für die in diesem Formular  Softwarevarianten. Wenn die Prüfnummer für die Basissoftware abgelaufen ist oder entzogen wurde,
+Softwarevarianten. Wenn die Prüfnummer für die Basissoftware abgelaufen ist oder entzogen wurde,
 
-für die Softwarevarianten.
+verliert sie ihre Gültigkeit auch für die Softwarevarianten.
 
-verliert sie ihre Gültigkeit auch
-
-- **und der Angaben im Formular**
-
-- **I.** **Änderungen an der Softwarevarianten**
+- **I.** **Änderungen an der Softwarevarianten und der Angaben im Formular**
 
 
 ---
@@ -120,45 +113,31 @@ verliert sie ihre Gültigkeit auch
 
 - Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der Antragsteller der KBV  mit, welche Änderungen an den Softwarevarianten vorgenommen wurden.
 
-- -Vorgaben führen, kann zum Erlöschen
+- (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen - der Zulassung führen.
 
-- (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV der Zulassung führen.
-
-- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen
-
-- und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
-
--
+- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 
 - **II.** **Update und weitere Vereinbarungen**
 
-- (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2
+- (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 
-- Wochen) zur Verfügung gestellt werden.
-
-- (2) Die Softwarevarianten dürfen keine Applikationen enthalten, die vertragsärztlichen
-
-- Abrechnungsbestimmungen zu umgehen.
+- (2) Die Softwarevarianten dürfen keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
 - (3) Der Softwareverantwortlicher akzeptiert die aktuellen Bedingungen aus dem Dokument
 
 - „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser - Richtlinie.
 
-- (4) Werden im Produktivbetrieb Fehler in einer Softwarevariante festgestellt, so muss der Antragsteller  t und die fehlerfreie Version den Anwendern
+- (4) Werden im Produktivbetrieb Fehler in einer Softwarevariante festgestellt, so muss der Antragsteller  dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern
 
-- dafür sorgen, dass diese Fehler umgehend beseitig schnellstmöglich zur Verfügung gestellt werden. Fehler, die von Anwendern für die Basisvariante
+- schnellstmöglich zur Verfügung gestellt werden. Fehler, die von Anwendern für die Basisvariante
 
-- gemeldet werden, müssen von den Softwareverantwortlichen sowohl in der Basis als auch in der  Varianten überprüft, ggf. korrigiert werden. Die KBV kann in diesem Zusammenhang den  Stellungnahmen von der KBV müssen sowohl für
-
-- Antragsteller zu einer Stellungnahme auffordern.
+- gemeldet werden, müssen von den Softwareverantwortlichen sowohl in der Basis als auch in der  Varianten überprüft, ggf. korrigiert werden. Die KBV kann in diesem Zusammenhang den  Antragsteller zu einer Stellungnahme auffordern. Stellungnahmen von der KBV müssen sowohl für
 
 - Basis als auch für Softwarevarianten abgegeben werden.
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten
 
-- Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  nen Zeitpunkt umgesetzt werden.
-
-- veröffentlicht, müssen zum vorgesehe
+- Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
 - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung
 

@@ -21,7 +21,7 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 1.5.08.2025 Kennzeichnung: Öffent
 | Version Datum |  | Autor Änderung |  | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.37 | 15.08.2025 KBV |  | Aktualisierung der Referenzen auf |  | 16 |
-| 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | Inkrafttreten des An- |  |
+| 1.36 | 15.08.2024 KBV |  | Streichung der Anforderung KP7-140 | forderungskatalogs |  |
 | 1.35 | 15.05.2024 KBV |  | Klarstellung der Anforderung KP7-82 |  | 9 |
 | 1.34 | 15.02.2024 KBV |  | Klarstellung der Anforderung KP7-81 |  | 8 |
 | 1.33 | 13.05.2022 KBV |  | Aktualisierung der Anforderung P7- |  | 13 |
@@ -33,12 +33,12 @@ bedruckung _Formular- bedruckung] 1.37 Datum: 1.5.08.2025 Kennzeichnung: Öffent
 | 1.27 | 14.08.2020 KBV |  | Klarstellung der Anforderung KP7- |  |  |
 | 1.26 | 28.05.2020 KBV |  | Klarstellung der Umsetzungspflicht |  |  |
 | 1.25 | 13.05.2020 KBV |  | Aktualisierung der Anforderungen Aufnahme von Verordnung von digi- |  | 6, 6, 13 |
-| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | Der Ersatzwert „UUU“ | 9 |
+| 1.24 | 13.11.2019 KBV |  | P7-90: aktualisiert | entfällt zum 1. Januar | 9 |
 | 1.23 | 15.11.2018 KBV |  | P7-10: red. Hinweis ergänzt |  | 5 |
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O**  **R** **I** **E**
 
-die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen forderungskatalogs VDGA entfällt zum 1. Januar
+die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen Inkrafttreten des An- VDGA Der Ersatzwert „UUU“
 
 ---
 
@@ -170,25 +170,21 @@ Schwangerschaftsabbrüchen“ (SADT) dokumen-
 
 ---
 
-# Bedruckung von vertragsärztlichen Formularen
+# 2  Bedruckung von vertragsärztlichen Formularen
 
-# 2
+Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen entnehmen  Sie bitte der „Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ [2] bzw. der
 
-Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen entnehmen  bitte der „Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ Sie
+„Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ (kurz
 
-[2] bzw. der  (kurz
+*Vordruckerläuterungen*) [3].
 
-„Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ *Vordruckerläuterungen*) [3].
+Ebenso können sich auch Funktionen für die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- rungen enthalten. Diese Verweise werden in diesem Dokument in der Form *VE 52* oder *VE*
 
-Ebenso können sich auch Funktionen für die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- *VE 52* oder *VE*
+*52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer
 
-rungen enthalten. Diese Verweise werden in diesem Dokument in der Form  *52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer
+des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  (in dem Beispiel Hinweis 1 zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-*
 
-des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-*
-
-(in dem Beispiel Hinweis 1 des Musters 52)
-
-*unfähigkeit?*
+*unfähigkeit?* des Musters 52)
 
 **2.1 Bedruckung des Personalienfeldes**
 
@@ -196,17 +192,9 @@ des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen
 |---|---|
 | P7-10 | Maschinenlesbarer Ausdruck des Personalienfeldes |
 
-Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare, muss ab dem  „Bedruckung des
+Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare, muss ab dem  1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt „Bedruckung des
 
-1.10.2014 gemäß den verbindlichen Bedruckungsvorschriften im Abschnitt  eldes“ in der Technischen
-
-zur 4a (BMV -Ä) erfolgen
-
-Personalienf
-
-Anlage
-
-Anlage
+Personalienfeldes“ in der Technischen Anlage zur Anlage 4a (BMV -Ä) erfolgen
 
 [KBV_ITA_VGEX_Mapping_KVK].
 
@@ -216,11 +204,11 @@ Eine Änderung der Zeichengröße im Personalienfeld über das Praxisverwaltungs
 
 Priorisierung der Straßenadresse
 
-Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra- Details siehe Kapitel
+Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra- ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität, Details siehe Kapitel
 
-ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität,  “ in der Technischen Anlage zur Anlage 4a (BMV-Ä) [KBV_ITA_VGEX_Map-
+Druckpositionen“ in der Technischen Anlage zur Anlage 4a (BMV-Ä) [KBV_ITA_VGEX_Map-
 
-Druckpositionen ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in [KBV_ITA_VGEX_Daten-
+ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in [KBV_ITA_VGEX_Daten-
 
 satzbeschreibung_KVDT].
 
@@ -232,9 +220,9 @@ satzbeschreibung_KVDT].
 
 - zusatz und Vorsatzwort gebildet (in dieser Reihenfolge). Die Trennung der jeweiligen Fel- dinhalte erfolgt durch je ein Blank.
 
-- (2) Ist diese Zeile länger als 21 Zeichen, so werden die restlichen Zeichen im Ausdruck unter-
+- (2) Ist diese Zeile länger als 21 - drückt.
 
-- drückt.
+- Zeichen, so werden die restlichen Zeichen im Ausdruck unter-
 
 
 ---
@@ -401,7 +389,7 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| KP7-82 | Ausdruck von Namens- und Adressinformationen bei den Mustern 5, 6, 7, 10, 10A, 19, 39 |
+| KP7-82 | Ausdruck von Namens- und Adressinformationen bei den Mustern |
 
 Bei Überweisungs - /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
@@ -437,7 +425,7 @@ eitwohn-
 
 echnung in einem frem-
 
--10-Diagnosen einhalten.
+5, 6, 7, 10, 10A, 19, 39-10-Diagnosen einhalten.
 
 
 ---
@@ -482,9 +470,9 @@ zutrifft:
 
 Die Software muss diese Formate für die Formularinhalte der folgenden Muster unterstützen:
 
-|  | Felder |
+| Muster | Felder |
 |---|---|
-| 39a/b | • • |
+| 39a/b | tales (Wann?) • |
 
 -
 
@@ -512,7 +500,7 @@ hinaus, so gilt:
 
 - rechenzentren nicht überdruckt werden.
 
-Wertebereich in Formularin- halten Muster Gynäkologische OP, Strahlen tales (Wann?) - oder Chemotherapie des Geni- Letzte Periode - 9 statt mit einem Kreuz („X“) mit den ent-
+Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemotherapie des Geni- Letzte Periode - 9 statt mit einem Kreuz („X“) mit den ent-
 
 
 ---
@@ -592,7 +580,7 @@ Achtung: im aktuellen Quartal lag kein gültiger Versicherungsnachweis vor. Ohne
 
 | PFLICHTFUNKTION | |
 |---|---|
-| P7-100 | Quartalswechsel |
+| P7-100 |  |
 
 Ein Patient kommt zu Beginn des Quartals ohne Versicherungsnachweis in die Arztpraxis. Der  Arzt möchte - in Kenntnis über mögliche Regressforderungen - den Patienten behandeln und  ein vertragsärztliches Formular ausstellen.
 
@@ -640,6 +628,7 @@ Die Software muss dem Anwender den Ausdruck eines Diagnosefreitextes ermögliche
 
 - in dem For-
 
+Quartalswechsel
 
 ---
 
@@ -720,7 +709,7 @@ Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
 |---|---|---|---|---|---|---|---|
 | kommt | im | Rahmen der | ASV nicht | zur Anwendung. |  |  |  |
 
-„Behandlung gemäß Teamnummer kennzeichnen. Das Ankreuzfeld § 116b SGB V“ kommt im Rahmen der ASV nicht zur Anwendung.
+Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“ kommt im Rahmen der ASV nicht zur Anwendung.
 
 
 ---
@@ -735,13 +724,13 @@ Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
 | ASV-AV | erforderlichen Vordrucke für |
 | Diagnosefreitext | Zum Verständnis der Diagnose relevante und über die ICD |
 | Diagnoseklartext | Beschreibung des ICD-10-Codes laut des systematischen Verzeichnis- |
-| DIMDI |  |
+| DIMDI | Deutsches Institut für Medizinische Dokumentation und Information |
 | eGK | elektronische Gesundheitskarte |
 | FK | Feldkennung |
-| Formularinhalt |  |
+| Formularinhalt | Alle Felder außerhalb des Personalienfeldes |
 | GKV | Gesetzliche Krankenversicherung |
 | ICD-10-Diagnose | ICD-10-Code aus dem Katalog ICD-10-GM |
-| IK 5 5 |  |
+| IK 5 5 | 9-stellige, numerische Krankenkassennummer |
 | KT | Kostenträger |
 | KT-Stammdatei | Kostenträger-Stammdatei |
 | KTAB | Kostenträger-Abrechnungsbereich |
@@ -749,9 +738,9 @@ Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
 | KVK | Krankenversichertenkarte |
 | SKT TSS | Sonstige Kostenträger Terminservicestelle |
 | VKNR | 5-stellige Kassennummer |
-| VKNR-KTAB-Kom- |  |
+| VKNR-KTAB-Kom- | Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs- |
 
-Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- halt des Abrechnungsverfahrens sowie die die ambulante spezialfachärztliche Versorgung -10-Diagno- sen hinausgehende Informationen. der SDICD ses des DIMDI ( siehe auch Element „bezeichnung“ in Deutsches Institut für Medizinische Dokumentation und Information Alle Felder außerhalb des Personalienfeldes des DIMDI, Diagnosesi- cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde)  In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 -stelliges Institutionskennzeichen (IK); 9-stellige, numerische Krankenkassennummer bination Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs-
+In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9 Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V über Form und In- halt des Abrechnungsverfahrens sowie die die ambulante spezialfachärztliche Versorgung sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde) -stelliges Institutionskennzeichen (IK); -10-Diagno- der SDICD des DIMDI, Diagnosesi-
 
 ---
 
