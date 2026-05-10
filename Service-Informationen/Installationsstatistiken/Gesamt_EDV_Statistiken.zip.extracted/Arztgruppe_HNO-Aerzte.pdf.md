@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -58,6 +59,8 @@ Duria eG
 S3 Praxiscomputer GmbH / Maximilian Flender
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 4.65
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 6.6
 
+**Installationen 1.Q.2025**
+
 4.54
 
 2.80
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 8.6
 
 6.7
+
+**Differenz**
 
 1.1
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.66 **x.comfort**
 
@@ -157,6 +163,8 @@ CompuGroup Medical Deutschland AG 1
 
 0.83 **PegaMed**
 
+**Anbieter**
+
 medatixx GmbH & Co. KG
 
 Frey ADV GmbH
@@ -170,6 +178,8 @@ SAP SE
 medatixx GmbH & Co. KG
 
 PEGA Elektronik GmbH 2
+
+**Installationen 2.Q.2025**
 
 6.4
 
@@ -185,6 +195,8 @@ PEGA Elektronik GmbH 2
 
 2.8
 
+**Installationen 1.Q.2025**
+
 6.5
 
 6.3
@@ -198,6 +210,8 @@ PEGA Elektronik GmbH 2
 4.1
 
 2.8
+
+**Differenz**
 
 -1
 

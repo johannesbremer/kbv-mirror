@@ -2,8 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 30.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.20.25** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 1.12 **TURBOMED**
 
@@ -32,6 +31,8 @@
 0.60 **Data-AL**
 
 1.35 **EL - Elaphe Longissima**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -63,6 +64,8 @@ medatixx GmbH & Co. KG 1
 
 **Fachgruppe mit den höchsten Installationszahlen.**
 
+**Installationen 2.Q.2025**
+
 2.05
 
 1.85
@@ -91,6 +94,8 @@ medatixx GmbH & Co. KG 1
 
 4.2
 
+**Installationen 1.Q.2**
+
 2.20
 
 1.94
@@ -118,6 +123,8 @@ medatixx GmbH & Co. KG 1
 5.3
 
 4.2
+
+**0.25 Differenz**
 
 -15
 
@@ -150,8 +157,7 @@ medatixx GmbH & Co. KG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 3.48 **psyprax**
 
@@ -165,6 +171,8 @@ medatixx GmbH & Co. KG 1
 
 2.61 **S3-Win**
 
+**Anbieter**
+
 psyprax GmbH
 
 Bitron GmbH Technologiesysteme
@@ -176,6 +184,8 @@ Zollsoft GmbH
 PEGA Elektronik GmbH
 
 S3 Praxiscomputer GmbH / Maximilian Flender 2
+
+**Installationen 2.Q.2025**
 
 3.1
 
@@ -189,6 +199,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 1.9
 
+**Installationen 1.Q.2025**
+
 3.3
 
 2.3
@@ -200,6 +212,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 2.1
 
 1.9
+
+**Differenz**
 
 -2
 

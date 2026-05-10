@@ -12,11 +12,7 @@
 
 **dass ich bisher noch keine Sehhilfe gehabt habedass meine bisherige Sehhilfe verlorengegangen ist**
 
-|  | **Unterschrift** | **des Empfängers** |
-|---|---|---|
-| **und Unterschrift** |  |  |
-|  | **Gläser bzw.** |  |
-|  | **EmpfangsbestätigungSonstiges:Datum** |  |
+**Glas / Gläser bzw. Kontaktlinsen**
 
 **in Höhe des geltenden Festbetragesin Höhe von**
 
@@ -24,7 +20,7 @@
 
 **Die Kosten werden übernommen**
 
-**Erklärung des VersichertenEntscheidung der Krankenkasse**
+**Erklärung des VersichertenEntscheidung der KrankenkasseEmpfangsbestätigung**
 
 **Datum**
 
@@ -51,6 +47,12 @@
 **IK des Leistungserbringers**
 
 **Sehhilfenverordnung**
+
+**Unterschrift des Empfängers (Vor- und Zuname)**
+
+**Bescheinigung des Leistungserbringers**
+
+**Sonstiges:Datum**
 
 **Betrag Euro**
 
@@ -114,7 +116,7 @@
 
 **e**
 
-**angIch versichere, dass die gelieferte Sehhilfe**
+**Die Sehhilfe wurde gemäß vorstehenderangIch versichere, dass die gelieferte Sehhilfe**
 
 **Empfangsbestätder Verordnung entspricht.Datum**
 
@@ -128,4 +130,4 @@
 
 **R**
 
-Glas / Gläser bzw. Kontaktlinsen Unterschrift des Empfängers (Vor- und Zuname) Bescheinigung des Leistungserbringers Die Sehhilfe wurde gemäß vorstehender Unterschrift des Versicherten**L** **N**
+Unterschrift des Versicherten**L** **N**

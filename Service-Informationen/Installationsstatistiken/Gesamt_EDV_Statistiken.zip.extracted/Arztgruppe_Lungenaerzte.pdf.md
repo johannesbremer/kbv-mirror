@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.80
 
@@ -31,6 +30,8 @@
 
 2.10
 
+**Praxissoftware**
+
 **CGM MEDISTAR BLACK PRO**
 
 **TURBOMED**
@@ -54,6 +55,8 @@
 **medatixx**
 
 **Medical Office**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -79,34 +82,38 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
-7
-
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-2
-
-1
-
-1
-
-1
+**Installationen 2.Q.2025**
 
 7
 
 5
 
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+**Installationen 1.Q.2025**
+
+7
+
+5
+
 3
 
 4
@@ -126,6 +133,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 1
 
 1
+
+**Differenz**
 
 0
 
@@ -154,8 +163,7 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.66
 
@@ -165,6 +173,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
 2.61
 
+**Praxissoftware**
+
 **x.comfort**
 
 **Praxis-Programm**
@@ -172,6 +182,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 **DATA VITAL**
 
 **S3-Win**
+
+**Anbieter**
 
 medatixx GmbH & Co. KG
 
@@ -181,7 +193,7 @@ CompuGroup Medical Deutschland AG
 
 S3 Praxiscomputer GmbH / Maximilian Flender 2
 
-1
+**Installationen 2.Q.2025**
 
 1
 
@@ -191,11 +203,17 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 1
 
+**Installationen 1.Q.2025**
+
+1
+
 1
 
 1
 
 1
+
+**Differenz**
 
 0
 

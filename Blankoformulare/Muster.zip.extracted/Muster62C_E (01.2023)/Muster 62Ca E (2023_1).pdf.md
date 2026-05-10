@@ -1,8 +1,8 @@
-| Tracheotomie | Trachealkanüle | Befeuchtung |
-|---|---|---|
-|  | Innendurch- |  |
-|  | Hersteller |  |
-|  | messer in mm , |  |
+Befeuchtung
+
+Trachealkanüle
+
+Tracheotomie
 
 ## Behandlungsplan
 
@@ -38,6 +38,8 @@ Maßnahmen der Heilmitteltherapie zur Unterstützung der  Therapieziele im Rahme
 
 Physiotherapie
 
+dilatativ chirurgisch
+
 Absauggerät
 
 ja nein
@@ -47,6 +49,10 @@ ja
 nein
 
 Notfallversorgung
+
+passiv
+
+aktiv
 
 Ergotherapie
 
@@ -62,10 +68,7 @@ Leistung
 
 Dauer
 
-| tgl. | wtl. | mtl. | vom |
-|---|---|---|---|
-
-bis
+tgl. wtl. mtl. vom bis
 
 **Benennung der zu erfassenden und zu bewertenden Vitalparameter**
 
@@ -87,6 +90,8 @@ Name des Arztes / der Ärztin
 
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
 
+Innendurch- messer in mm
+
 Häufigkeit
 
 pro Tag
@@ -103,10 +108,12 @@ Medikament/
 
 Substanz
 
+Hersteller
+
 | mit Beatmung |  | unter Spontanatmung |  | Mobilität |
 |---|---|---|---|---|
 | Dauer |  | Dauer |  | Dauer |
-| l/minFlow |  | Flow l/min |  | l/minFlow |
+| Flow l/min |  | Flow l/min |  | Flow l/min |
 | h/tgl. |  | h/tgl. |  | h/tgl. |
 
 ärztliche Unterschrift
@@ -115,4 +122,4 @@ Substanz
 
 PRF.NR.
 
-dilatativ chirurgisch passiv aktivMuster 62Ca/E (1.2023)
+Muster 62Ca/E (1.2023)

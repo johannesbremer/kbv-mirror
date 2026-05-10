@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 1.35 **EL - Elaphe Longissima**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 Zollsoft GmbH
@@ -58,6 +59,8 @@ Frey ADV GmbH
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 3.93
 
@@ -85,6 +88,8 @@ medatixx GmbH & Co. KG 1
 
 5.6
 
+**Installationen 1.Q.2025**
+
 3.98
 
 2.45
@@ -110,6 +115,8 @@ medatixx GmbH & Co. KG 1
 7.3
 
 5.8
+
+**Differenz**
 
 -5
 
@@ -140,8 +147,7 @@ medatixx GmbH & Co. KG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.54 **ORBIS®**
 
@@ -157,6 +163,8 @@ medatixx GmbH & Co. KG 1
 
 0.30 **Praxis-Programm**
 
+**Anbieter**
+
 Dedalus HealthCare GmbH
 
 MEDYS GmbH
@@ -170,6 +178,8 @@ Duria eG
 PEGA Elektronik GmbH
 
 MediSoftware Computersysteme für Ärzte 2
+
+**Installationen 2.Q.2025**
 
 4.1
 
@@ -185,6 +195,8 @@ MediSoftware Computersysteme für Ärzte 2
 
 2.4
 
+**Installationen 1.Q.2025**
+
 4.2
 
 3.7
@@ -198,6 +210,8 @@ MediSoftware Computersysteme für Ärzte 2
 2.5
 
 2.4
+
+**Differenz**
 
 -1
 

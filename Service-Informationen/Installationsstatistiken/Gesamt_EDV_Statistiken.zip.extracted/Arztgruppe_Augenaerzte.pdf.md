@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 2.03 **ALBIS**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 FIDUS Software Entwicklungs-GmbH
@@ -58,6 +59,8 @@ SAP SE
 medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 5.25
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.6
 
+**Installationen 1.Q.2025**
+
 5.31
 
 5.12
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 2.7
 
 2.6
+
+**Differenz**
 
 -6
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.26 **CGM MEDICO**
 
@@ -156,6 +162,8 @@ CompuGroup Medical Deutschland AG 1
 2.61 **S3-Win**
 
 2.66 **x.comfort**
+
+**Anbieter**
 
 CGM Clinical Europe GmbH
 
@@ -173,6 +181,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender
 
 medatixx GmbH & Co. KG 2
 
+**Installationen 2.Q.2025**
+
 2.5
 
 2.3
@@ -187,6 +197,8 @@ medatixx GmbH & Co. KG 2
 
 1.2
 
+**Installationen 1.Q.2025**
+
 2.6
 
 2.2
@@ -200,6 +212,8 @@ medatixx GmbH & Co. KG 2
 1.4
 
 1.2
+
+**Differenz**
 
 -1
 

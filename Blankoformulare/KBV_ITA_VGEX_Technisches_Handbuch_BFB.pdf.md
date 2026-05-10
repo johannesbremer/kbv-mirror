@@ -311,8 +311,7 @@ Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün
 
 4.61
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Datum**
 
 14.11.2025
 
@@ -320,10 +319,7 @@ Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün
 |---|---|---|---|
 |  |  | zu 9a |  |
 
-| 16.08.2024 | KBV | Redaktionelle Korrektur der |  |
-|---|---|---|---|
-|  |  | Formularversion von Muster |  |
-|  |  | 12 und 21 (grün markiert) |  |
+16.08.2024
 
 | 15.05.2024 | KBV | Anpassung der möglichen |  |
 |---|---|---|---|
@@ -340,15 +336,9 @@ Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün
 |  |  | und 10L |  |
 | 15.05.2023 | KBV | Streichung des Barcodes in | Muster 20c/E ist gemäß |
 
-| 14.11.2022 | KBV | Redaktionelle Korrektur von |  |
-|---|---|---|---|
-|  |  | Kapitel 4.2 |  |
-|  |  | Anpassung von P4.8-50 |  |
+14.11.2022
 
-| 22.09.2022 | KBV | Aktualisierung des Musters |  |
-|---|---|---|---|
-|  |  | 56 |  |
-|  |  | Anpassung von P4.8-50 |  |
+22.09.2022
 
 05.07.2022
 
@@ -357,19 +347,37 @@ Die Änderungen vom 15.08.2025 (Version 4.72) und 14.11.2025 (Version 4.73 grün
 |  |  | 61 |  |
 | 11.08.2021 | KBV | Streichung des Musters 1 | Einführung der eAU |
 
+**Autor**
+
+KBV
+
 KBV
 
 KBV
 
 KBV
+
+KBV
+
+KBV
+
+**Änderung**
 
 Aktualisierung der Anforde- rung P4.8-50   Klarstellung Muster 2a und  2b
+
+Redaktionelle Korrektur der  Formularversion von Muster  12 und 21 (grün markiert)
 
 Redaktionelle Korrektur der  Bemerkung zu den Barcode- Feldern 58 und 59 auf Mus- ter 12
 
 Muster 20c/E
 
+Redaktionelle Korrektur von  Kapitel 4.2  Anpassung von P4.8-50
+
+Aktualisierung des Musters 56  Anpassung von P4.8-50
+
 Einführung Muster 62
+
+**Begründung**
 
 Anlage 2a BMV-Ä nicht  mit einem Barcode ver- sehen.
 
@@ -439,15 +447,15 @@ Anlage 2a BMV-Ä nicht  mit einem Barcode ver- sehen.
 |  |  |  | vom 03.09.2020 |
 | 03.09.2020 | KBV | Rücknahme der Änderungen | Verschiebung des In- |
 
-| 12.08.2020 | KBV | Anpassung der Abbildung |  |
-|---|---|---|---|
-|  |  | von Barcodefeld 38 des |  |
-|  |  | Musters 10A auf KVDT/LDT |  |
-|  |  | Feldkennung |  |
-| 12.05.2020 | KBV | Anpassung von Muster 10 |  |
-|  |  | Anpassung von Muster 10L |  |
+12.08.2020
+
+12.05.2020
 
 zeichnung und Anpassung  der Version von Muster 1, 2,  3, 4, 6, 8, 8A, 9, 10, 10L, 10A,  11, 12, 13, 15, 19, 20, 21, 25,  26, 27, 28, 36, 39, 50, 51, 52,  53, 55, 56, 61, 63, 64, 65, 70  und 70A
+
+KBV
+
+KBV
 
 KBV
 
@@ -456,6 +464,10 @@ Klarstellung der Bedruckung  des verkürzten Personalien- felds
 Anpassung von Kapitel 1
 
 vom 21.01.2020 (Version  4.53)
+
+Anpassung der Abbildung  von Barcodefeld 38 des  Musters 10A auf KVDT/LDT  Feldkennung
+
+Anpassung von Muster 10  Anpassung von Muster 10L
 
 Management-Pro- gramme Rheuma
 
@@ -490,21 +502,29 @@ und  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70
 
 4.50
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Datum**
 
-|  |  | Anpassung von Muster 10A |  |
-|---|---|---|---|
-|  |  | Anpassung von Muster 12 |  |
-| 21.01.2020 | KBV | Anpassung von Muster 13 | Änderung der Heilmittel- |
+21.01.2020
 
-04.03.2020 KBV
+04.03.2020
 
-Entfernung von Muster 14  und 18
+**Autor**
+
+KBV
+
+KBV
+
+**Änderung**
+
+Anpassung von Muster 10A  Anpassung von Muster 12
+
+Anpassung von Muster 13  Entfernung von Muster 14  und 18
 
 Anpassung von Muster 4
 
-Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019
+**Begründung**
+
+Änderung der Heilmittel-  Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019
 
 **Seite**
 
@@ -594,8 +614,7 @@ Die laufende Nummer "Nr." der ersten Spalte einer Satztabelle ist nicht eindeuti
 
 6/E (Diagnose/Verdachtsdiagnose).
 
-| **FELDBEZEICHNUNG** | **FELDLÄNGE** | **TYP** | **ERLAUBTE INHALTE** |
-|---|---|---|---|
+**NR. FELDBEZEICHNUNG FELDLÄNGE** **TYP ERLAUBTE INHALTE** **FORMAT/ BEMERKUNG**
 
 Die Feldbezeichnung stellt die Bedeutung des Barcode-Inhaltes dar. Die Feldlänge entspricht der tatsächli-
 
@@ -605,7 +624,7 @@ Es existieren zwei Feldtypen: Typ "a" (= alphanumerisch) und Typ "n" (=numerisch
 
 Die Spalte "erlaubte Inhalte" benennt die Inhalte, die im Barcode des betreffenden Formulars codiert wer- den dürfen.  Die Spalte "Format/Bemerkung" erläutert z.B. die Bedeutung der erlaubten Inhalte oder es werden beson- dere Formatvorgaben dargestellt.  Die optionalen Spalten „KVDT Feld“ und „LDT Feld“ benennen die Kennung des KVDT- und LDT-Feldes, in
 
-NR. FORMAT/ BEMERKUNG dem der Inhalt des Barcodefeldes bei der Abrechnung bzw. Labordatenkommunikation übertragen wird.
+dem der Inhalt des Barcodefeldes bei der Abrechnung bzw. Labordatenkommunikation übertragen wird.
 
 
 ---
@@ -1482,30 +1501,61 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr 49 Zeichen einhalten si
 
 **218 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 03 |  |
-| a | a |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   Format : JJJJMMTT   Format : JJJJMMTT   **TYP 3**
+n 03
+
+a a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,
+
+09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+n
+
+n
+
+a
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 3**
 
 
 ---
@@ -2520,27 +2570,49 @@ Platzbedarf: Um die automatisierte Erfassung des Überweisungsscheins in den Fac
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 08 |  |
-| a |  |  |
-| n | 09 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 08
+
+a
+
+n 09
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -2649,27 +2721,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 08 |  |
-| a | A |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 08
+
+a A
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -4287,8 +4381,7 @@ Das Feld ist mit der BFB- Prüfnummer zu belegen.  Format:  A/9/JJMM/NN/NNN 1=ja
 
 9
 
-| 8 | n |  |  | JJJJMMTT | 4102 |
-|---|---|---|---|---|---|
+8
 
 1
 
@@ -4323,6 +4416,8 @@ a
 n
 
 a
+
+n
 
 n
 
@@ -4370,6 +4465,8 @@ Entsprechend der  Bedruckung im Per- sonalienfeld
 
 Nr.
 
+JJJJMMTT
+
 M=männlich  W=weiblich  X=unbestimmt  D=divers
 
 NN
@@ -4409,6 +4506,8 @@ NN
 4218
 
 4242
+
+4102
 
 3110
 
@@ -4575,10 +4674,7 @@ NN
 
 <=60
 
-| <=60 | a |  |  | nur bei Auftrag „61“ | 4205 |
-|---|---|---|---|---|---|
-
-15
+<=60 15
 
 2
 
@@ -4618,6 +4714,8 @@ a
 
 a
 
+a
+
 n
 
 **ERLAUBTE**  **INHALTE**
@@ -4643,6 +4741,8 @@ Falls das Feld 28  leer ist
 JJJJMMTT
 
 hhmm
+
+nur bei Auftrag „61“
 
 Das Feld ist mit der  BFB-Prüfnummer zu  belegen.  Format:  A/9/JJMM/NN/NNN
 
@@ -4685,6 +4785,8 @@ NN
 8433
 
 4209
+
+4205
 
 8434/
 
@@ -4832,27 +4934,49 @@ als Abschluss zu codieren sind.
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 11 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 11
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -5357,22 +5481,35 @@ Format: MMTT
 
 **TYP**
 
-| n |  |  |
-|---|---|---|
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+a
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -5380,7 +5517,11 @@ Format: MMTT
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt
 
@@ -5394,9 +5535,17 @@ Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
-r = rechts  l = links  b = beidseits 1 = angekreuzt
+r, l, b
+
+r = rechts  l = links  b = beidseits 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 50  und/oder 51 befüllt ist
 
@@ -5404,7 +5553,7 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
+Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 
 ---
@@ -5485,51 +5634,73 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 
 4
 
-| **TYP** |  |  |
-|---|---|---|
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **Stützende und stabilisierende** 1
+
+n
 
 **Verbände**
 
 **Häufigkeit/Dauer von Pflege-** 1
 
+n
+
 **fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
+
+n
 
 **bände)**
 
 **Häufigkeit wöchentlich (Stütz-** 2
 
+n
+
 **verbände)**
 
 **Häufigkeit monatlich (Stützver-** 2
 
+n
+
 **bände)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 58  und/oder 59 befüllt ist
 
@@ -5541,7 +5712,11 @@ Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 66  befüllt ist
 
@@ -5549,7 +5724,7 @@ Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 
 ---
@@ -5765,28 +5940,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 5
 
-| **TYP** |  |  |
-|---|---|---|
-| a |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+a
 
 **Unterstützungspflege/**
 
 1
+
+a
 
 **Krankenhausvermeidungs-**
 
@@ -5796,55 +5958,93 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
+n
+
 **Häufigkeit wöchentlich (Grund-** 2
+
+n
 
 **pflege)**
 
 **Häufigkeit monatlich (Grund-** 2
 
+n
+
 **pflege)**
 
 **Zeitraum von (Grundpflege)** 4
 
+n
+
 **Zeitraum bis (Grundpflege)** 4
+
+n
 
 **Hauswirtschaftliche Versorgung** 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
 **Häufigkeit täglich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Häufigkeit wöchentlich (Haus-** 2
+
+n
 
 **wirtschaftliche Versorgung)**
 
 **Häufigkeit monatlich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Zeitraum von (Hauswirtschaftli-** 4
+
+n
 
 **che Versorgung)**
 
 **Zeitraum bis (Hauswirtschaftli-** 4
 
+n
+
 **che Versorgung)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
+
+xxxxx
 
 Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
+u, k
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -5856,7 +6056,11 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
+
+1 =angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -5868,7 +6072,7 @@ Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
-ERLAUBTE INHALTE xxxxx u, k Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 
 ---
@@ -6384,22 +6588,35 @@ Format: MMTT
 
 **TYP**
 
-| n |  |  |
-|---|---|---|
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+a
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -6407,7 +6624,11 @@ Format: MMTT
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt
 
@@ -6421,9 +6642,17 @@ Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
-r = rechts  l = links  b = beidseits 1 = angekreuzt
+r, l, b
+
+r = rechts  l = links  b = beidseits 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 50  und/oder 51 befüllt ist
 
@@ -6431,7 +6660,7 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
+Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 
 ---
@@ -6512,51 +6741,73 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 
 4
 
-| **TYP** |  |  |
-|---|---|---|
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **Stützende und stabilisierende** 1
+
+n
 
 **Verbände**
 
 **Häufigkeit/Dauer von Pflege-** 1
 
+n
+
 **fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
+
+n
 
 **bände)**
 
 **Häufigkeit wöchentlich (Stütz-** 2
 
+n
+
 **verbände)**
 
 **Häufigkeit monatlich (Stützver-** 2
 
+n
+
 **bände)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 58  und/oder 59 befüllt ist
 
@@ -6568,7 +6819,11 @@ Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 66  befüllt ist
 
@@ -6576,7 +6831,7 @@ Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 
 ---
@@ -6792,28 +7047,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 5
 
-| **TYP** |  |  |
-|---|---|---|
-| a |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+a
 
 **Unterstützungspflege/**
 
 1
+
+a
 
 **Krankenhausvermeidungs-**
 
@@ -6823,55 +7065,93 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
+n
+
 **Häufigkeit wöchentlich (Grund-** 2
+
+n
 
 **pflege)**
 
 **Häufigkeit monatlich (Grund-** 2
 
+n
+
 **pflege)**
 
 **Zeitraum von (Grundpflege)** 4
 
+n
+
 **Zeitraum bis (Grundpflege)** 4
+
+n
 
 **Hauswirtschaftliche Versorgung** 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
 **Häufigkeit täglich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Häufigkeit wöchentlich (Haus-** 2
+
+n
 
 **wirtschaftliche Versorgung)**
 
 **Häufigkeit monatlich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Zeitraum von (Hauswirtschaftli-** 4
+
+n
 
 **che Versorgung)**
 
 **Zeitraum bis (Hauswirtschaftli-** 4
 
+n
+
 **che Versorgung)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
+
+xxxxx
 
 Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
+u, k
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -6883,7 +7163,11 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
+
+1 =angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -6895,7 +7179,7 @@ Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
-ERLAUBTE INHALTE xxxxx u, k Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 
 ---
@@ -7411,22 +7695,35 @@ Format: MMTT
 
 **TYP**
 
-| n |  |  |
-|---|---|---|
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+a
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **ERLAUBTE FORMAT/ BEMERKUNG**
 
@@ -7434,7 +7731,11 @@ Format: MMTT
 
 Nur zu befüllen wenn Feld 34  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 34  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt
 
@@ -7448,9 +7749,17 @@ Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 42  oder 43 befüllt ist
 
-r = rechts  l = links  b = beidseits 1 = angekreuzt
+r, l, b
+
+r = rechts  l = links  b = beidseits 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 50  und/oder 51 befüllt ist
 
@@ -7458,7 +7767,7 @@ Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
+Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
 
 ---
@@ -7539,51 +7848,73 @@ r, l, b Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt i
 
 4
 
-| **TYP** |  |  |
-|---|---|---|
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
 
 **Stützende und stabilisierende** 1
+
+n
 
 **Verbände**
 
 **Häufigkeit/Dauer von Pflege-** 1
 
+n
+
 **fachkraft (Stützverbände)**
 
 **Häufigkeit täglich (Stützver-** 2
+
+n
 
 **bände)**
 
 **Häufigkeit wöchentlich (Stütz-** 2
 
+n
+
 **verbände)**
 
 **Häufigkeit monatlich (Stützver-** 2
 
+n
+
 **bände)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
 
 Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 50  und/oder 51 und nicht Feld 52  befüllt ist 1
 
 1 = angekreuzt
+
+1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 58  und/oder 59 befüllt ist
 
@@ -7595,7 +7926,11 @@ Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1 = angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 58  und/oder 59 und nicht Feld 60  befüllt ist 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 66  befüllt ist
 
@@ -7603,7 +7938,7 @@ Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
-ERLAUBTE INHALTE Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
+Nur zu befüllen wenn Feld 66  und nicht Feld 67 befüllt ist
 
 
 ---
@@ -7819,28 +8154,15 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 5
 
-| **TYP** |  |  |
-|---|---|---|
-| a |  |  |
-| a |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP**
+
+a
 
 **Unterstützungspflege/**
 
 1
+
+a
 
 **Krankenhausvermeidungs-**
 
@@ -7850,55 +8172,93 @@ Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 
 
 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Grundpflege)**
 
 **Häufigkeit täglich (Grundpflege)** 2
 
+n
+
 **Häufigkeit wöchentlich (Grund-** 2
+
+n
 
 **pflege)**
 
 **Häufigkeit monatlich (Grund-** 2
 
+n
+
 **pflege)**
 
 **Zeitraum von (Grundpflege)** 4
 
+n
+
 **Zeitraum bis (Grundpflege)** 4
+
+n
 
 **Hauswirtschaftliche Versorgung** 1
 
+n
+
 **Häufigkeit/Dauer von Pflege-** 1
+
+n
 
 **fachkraft (Hauswirtschaftliche**  **Versorgung)**
 
 **Häufigkeit täglich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Häufigkeit wöchentlich (Haus-** 2
+
+n
 
 **wirtschaftliche Versorgung)**
 
 **Häufigkeit monatlich (Hauswirt-** 2
 
+n
+
 **schaftliche Versorgung)**
 
 **Zeitraum von (Hauswirtschaftli-** 4
+
+n
 
 **che Versorgung)**
 
 **Zeitraum bis (Hauswirtschaftli-** 4
 
+n
+
 **che Versorgung)**
 
-**FORMAT/ BEMERKUNG**
+**ERLAUBTE FORMAT/ BEMERKUNG**
+
+**INHALTE**
+
+xxxxx
 
 Die Zeichenfolge "xxxxx" steht  hier als Platzhalter. Hier sollen  die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde.
 
-u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1 = angekreuzt
+u, k
+
+u = Unterstützungspflege  k = Krankenhausvermeidungs- pflege 1
+
+1 = angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 89  befüllt ist
 
@@ -7910,7 +8270,11 @@ Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist
 
-Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1 =angekreuzt
+Format: MMTT  Nur zu befüllen wenn Feld 89  und nicht Feld 90 befüllt ist 1
+
+1 =angekreuzt
+
+1
 
 1 = angekreuzt  Nur zu befüllen wenn Feld 96  befüllt ist
 
@@ -7922,7 +8286,7 @@ Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
-ERLAUBTE INHALTE xxxxx u, k Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
+Format: MMTT  Nur zu befüllen wenn Feld 96  und nicht Feld 97 befüllt ist
 
 
 ---
@@ -8116,10 +8480,9 @@ a
 
 a
 
-| a |  |  |
-|---|---|---|
-| a | a, b, c, ab, bc, ac, |  |
-|  | abc |  |
+a
+
+a a, b, c, ab, bc, ac,  abc
 
 **FORMAT/ BEMERKUNG**
 
@@ -8133,7 +8496,8 @@ Format : JJJJMMTT
 
 1 = Physiotherapie  2 = Podologische Thera- pie  3 = Stimm-, Sprech-,  Sprach- und  Schlucktherapie  4 = Ergotherapie  5 = Ernährungstherapie
 
-a = a angekreuzt b = b angekreuzt c = c angekreuzt ab = a und b angekreuzt
+a = a angekreuzt  b = b angekreuzt  c = c angekreuzt  ab = a und b angekreuzt
+
 
 ---
 
@@ -8404,33 +8768,69 @@ Der gesamte bedruckte  Feldinhalt der dritten  Zeile 1 = angekreuzt
 
 **218 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 15 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1; 2 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1; 2 |  |
-| a |  |  |
-| a | r; l; b |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   1 = ja 2 = nein 1 = angekreuzt 1 = angekreuzt 1 = ICD 2 = Klartext r = rechts l = links b = beiderseits  **TYP 3**
+n 15
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+n 1; 2
+
+n 1
+
+n 1
+
+n 1; 2
+
+a
+
+a r; l; b
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT 1 = ja  2 = nein
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+1 = ICD  2 = Klartext
+
+r = rechts  l = links  b = beiderseits
+
+**TYP 3**
 
 
 ---
@@ -8563,31 +8963,65 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **247 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 19 |  |
-| a | a |  |
-| n | 1.1 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1; 2; 3 |  |
-| n | 1 |  |
-| a | M, W, U, X, D |  |
-| a |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Muster Abrechnungsschein Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   1 = Ärztlicher Notfall- dienst 2 = Urlaub 3 = Notfall 1 = angekreuzt U = unbekannt M = männlich W = weiblich X = unbestimmt D = divers Trennzeichen ist Komma **TYP 3**
+n 19
+
+a a
+
+n 1.1
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+n 1; 2; 3
+
+n 1
+
+a M, W, U, X, D
+
+a
+
+**FORMAT/ BEMERKUNG**
+
+Muster
+
+Abrechnungsschein
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+1 = Ärztlicher Notfall- dienst  2 = Urlaub  3 = Notfall 1 = angekreuzt
+
+U = unbekannt  M = männlich  W = weiblich  X = unbestimmt  D = divers
+
+Trennzeichen ist Komma
+
+**TYP 3**
 
 
 ---
@@ -8724,33 +9158,71 @@ Muster Abrechnungsschein Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM0
 
 **336 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 19 |  |
-| a | b |  |
-| n | 11 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1; 2; 3 |  |
-| n | 1 |  |
-| a | M, W, U, X, D |  |
-| a |  |  |
-| n |  |  |
-| a |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Für weiterbehandelnden Arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   1 = Ärztlicher Notfall- dienst 2 = Urlaub 3 = Notfall 1 = angekreuzt U = unbekannt M = männlich W = weiblich X = unbestimmt D = divers Trennzeichen ist Komma Format: JJJJMMTT **TYP 3**
+n 19
+
+a b
+
+n 11
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+n 1; 2; 3
+
+n 1
+
+a M, W, U, X, D
+
+a
+
+n
+
+a
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Für weiterbehandelnden  Arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+1 = Ärztlicher Notfall- dienst  2 = Urlaub  3 = Notfall 1 = angekreuzt
+
+U = unbekannt  M = männlich  W = weiblich  X = unbestimmt  D = divers
+
+Trennzeichen ist Komma
+
+Format: JJJJMMTT
+
+**TYP 3**
 
 
 ---
@@ -8872,27 +9344,51 @@ unbekannt („U“ im Barcode) sein. In Ausnahme zu
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 20 |  |
-| a | b |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Verbleib bei Kranken- kasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 20
+
+a b
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Verbleib bei Kranken- kasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -9258,35 +9754,77 @@ Format : JJJJMMTT 1 = ja
 
 **218 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 25 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| n | 1 |  |
-| n | 1 |  |
-| n | 1 |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n |  |  |
-| n | 1; 2 |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   1 = angekreuzt 1 = angekreuzt 1 = angekreuzt JJMMTT JJMMTT 1 = ja 2 = nein **TYP 3**
+n 25
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,
+
+09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+n 1
+
+n 1
+
+n 1
+
+n
+
+n
+
+a
+
+n
+
+n 1; 2
+
+**TYP**
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT 1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+JJMMTT
+
+JJMMTT 1 = ja  2 = nein
+
+**3**
 
 
 ---
@@ -9395,27 +9933,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 26 |  |
-| a | a |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 26
+
+a a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -9520,27 +10080,51 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 26 |  |
-| a | b |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für soziotherapeutischen Leistungserbringer Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 26
+
+a b
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für soziotherapeutischen  Leistungserbringer
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -9645,27 +10229,51 @@ Nr. des Musters für soziotherapeutischen Leistungserbringer Format : JJJJMMTT z
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 26 |  |
-| a | c |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 26
+
+a c
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für verordnenden Arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -9774,27 +10382,51 @@ Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebere
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 27 |  |
-| a | a |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für Kasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 27
+
+a a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für Kasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -9899,27 +10531,51 @@ Nr. des Musters für Kasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJM
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 27 |  |
-| a | b |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für soziotherapeutischen Leistungserbringer Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 27
+
+a b
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für soziotherapeutischen  Leistungserbringer
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -10024,27 +10680,51 @@ Nr. des Musters für soziotherapeutischen Leistungserbringer Format : JJJJMMTT z
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 27 |  |
-| a | c |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 27
+
+a c
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr des Musters
+
+für verordnenden Arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -10153,27 +10833,51 @@ Nr des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Werteberei
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 28 |  |
-| a | a |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr des Musters für Kasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 28
+
+a a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr des Musters
+
+für Kasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -10278,27 +10982,51 @@ Nr des Musters für Kasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 28 |  |
-| a | b |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für den soziotherapeuti- schen Leistungserbringer Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 28
+
+a b
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für den soziotherapeuti- schen Leistungserbringer
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -10403,27 +11131,51 @@ Nr. des Musters für den soziotherapeuti- schen Leistungserbringer Format : JJJJ
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 28 |  |
-| a | c |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 28
+
+a c
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für verordnenden Arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -10532,27 +11284,49 @@ Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebere
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 36 |  |
-| a |  |  |
-| n | 05 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT wenn vorhanden Format : JJJJMMTT   **TYP 1**
+n 36
+
+a
+
+n 05
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT  wenn vorhanden
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -11955,27 +12729,49 @@ Freitext
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 50 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 50
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12084,27 +12880,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 51 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Muster Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 51
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Muster
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12213,27 +13031,49 @@ Muster Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 52 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 52
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12342,27 +13182,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 53 |  |
-| a |  |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 53
+
+a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12471,27 +13333,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 55 |  |
-| a |  |  |
-| n | 05 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT wenn vorhanden Format : JJJJMMTT   **TYP 1**
+n 55
+
+a
+
+n 05
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT  wenn vorhanden
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12600,27 +13484,49 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 56 |  |
-| a |  |  |
-| n | 09 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 56
+
+a
+
+n 09
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12729,27 +13635,51 @@ Nr. des Musters Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ00
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 61 |  |
-| a | Ab |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Durchschlag zum Verbleib bei der Krankenkasse Format: JJJJMMTT zusätzlicher Wertebe- reich:  JJJJMM00, JJJJ0000, 00000000 Format: JJJJMMTT Format: JJJJMMTT   **TYP 1**
+n 61
+
+a Ab
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Durchschlag zum Verbleib  bei der Krankenkasse
+
+Format: JJJJMMTT  zusätzlicher Wertebe- reich: JJJJMM00,  JJJJ0000, 00000000
+
+Format: JJJJMMTT
+
+Format: JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12854,27 +13784,51 @@ Nr. des Musters Durchschlag zum Verbleib bei der Krankenkasse Format: JJJJMMTT z
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 61 |  |
-| a | Ea |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Original für die Kranken- kasse Format: JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 61
+
+a Ea
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Original für die Kranken- kasse
+
+Format: JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -12983,27 +13937,51 @@ Nr. des Musters Original für die Kranken- kasse Format: JJJJMMTT zusätzlicher 
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 62 |  |
-| a | Aa |  |
-| n | 02 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 62
+
+a Aa
+
+n 02
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für die Krankenkasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13108,27 +14086,51 @@ Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Werteberei
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 62 |  |
-| a | Ba |  |
-| n | 02 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 62
+
+a Ba
+
+n 02
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für die Krankenkasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13237,27 +14239,51 @@ Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Werteberei
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 63 |  |
-| a | a |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 63
+
+a a
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für die Krankenkasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13362,27 +14388,51 @@ Nr. des Musters für die Krankenkasse Format : JJJJMMTT zusätzlicher Werteberei
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 63 |  |
-| a | b |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für den spezialisierten Leistungserbringer Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 63
+
+a b
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für den spezialisierten  Leistungserbringer
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13487,27 +14537,51 @@ Nr. des Musters für den spezialisierten Leistungserbringer Format : JJJJMMTT zu
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 63 |  |
-| a | c |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für die Abrechnung des spezialisierten Leistungs- erbringers Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 63
+
+a c
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für die Abrechnung des  spezialisierten Leistungs- erbringers
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13612,27 +14686,51 @@ Nr. des Musters für die Abrechnung des spezialisierten Leistungs- erbringers Fo
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 63 |  |
-| a | d |  |
-| n | 07 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 63
+
+a d
+
+n 07
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für verordnenden Arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13741,27 +14839,51 @@ Nr. des Musters für verordnenden Arzt Format : JJJJMMTT zusätzlicher Wertebere
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 64 |  |
-| a | Ba |  |
-| n | 04 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Ausfertigung für die Kran- kenkasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT wenn vorhanden Format : JJJJMMTT   **TYP 1**
+n 64
+
+a Ba
+
+n 04
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Ausfertigung für die Kran- kenkasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT  wenn vorhanden
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13870,27 +14992,51 @@ Nr. des Musters Ausfertigung für die Kran- kenkasse Format : JJJJMMTT zusätzli
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 65 |  |
-| a | a |  |
-| n | 04 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters Ausfertigung für die Kran- kenkasse Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT wenn vorhanden Format : JJJJMMTT   **TYP 1**
+n 65
+
+a a
+
+n 04
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Ausfertigung für die Kran- kenkasse
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT  wenn vorhanden
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -13999,27 +15145,51 @@ Nr. des Musters Ausfertigung für die Kran- kenkasse Format : JJJJMMTT zusätzli
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 70 |  |
-| a | a |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters nach Genehmigung zum Verbleib beim Vertrags- arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 70
+
+a a
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+nach Genehmigung zum  Verbleib beim Vertrags- arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -14124,27 +15294,51 @@ Ausstellungsdatum
 
 **163 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 70 |  |
-| a | b |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr des Musters für die KV Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 70
+
+a b
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr des Musters
+
+für die KV
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -14253,27 +15447,51 @@ Nr des Musters für die KV Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJM
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 70 |  |
-| a | Aa |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters nach Genehmigung zum Verbleib beim Vertrags- arzt Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 70
+
+a Aa
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+nach Genehmigung zum  Verbleib beim Vertrags- arzt
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -14378,27 +15596,51 @@ Nr. des Musters nach Genehmigung zum Verbleib beim Vertrags- arzt Format : JJJJM
 
 **164 + TABS**
 
-| **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |
-|---|---|---|
-| n | 70 |  |
-| a | Ab |  |
-| n | 08 |  |
-| a |  |  |
-| a |  |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
-| a |  |  |
-| n | 1,3,5 |  |
-| n | 00, 04, 06, 07, 08, |  |
-|  | 09 |  |
-| n | Siehe Standardbar- |  |
-|  | code-Typ 1 |  |
-| n |  |  |
-| n |  |  |
-| n |  |  |
+**TYP ERLAUBTE INHALTE**
 
-Nr. des Musters für die KV Format : JJJJMMTT zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Format : JJJJMMTT Format : JJJJMMTT   **TYP 1**
+n 70
+
+a Ab
+
+n 08
+
+a
+
+a
+
+n
+
+n
+
+n
+
+a
+
+n 1,3,5
+
+n 00, 04, 06, 07, 08,  09
+
+n Siehe Standardbar- code-Typ 1
+
+n
+
+n
+
+n
+
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+für die KV
+
+Format : JJJJMMTT  zusätzlicher Wertebereich  : JJJJMM00, JJJJ0000,  00000000
+
+Format : JJJJMMTT
+
+Format : JJJJMMTT
+
+**TYP 1**
 
 
 ---
@@ -15309,10 +16551,7 @@ g (x) =(x-3)(x-3 )(x-3 )(x-3 ) 4 2
 
 **17 18 19 20 21 22 23 24 25 26 27 28 29 30 31**
 
-| 494 | 263 | 147 | 593 | 800 | 571 | 320 | 803 | 133 | 231 | 390 | 685 | 330 | 63 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-410
+494 263 147 593 800 571 320 803 133 231 390 685 330 63 410
 
 n-1
 

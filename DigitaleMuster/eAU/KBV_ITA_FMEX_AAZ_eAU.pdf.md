@@ -129,14 +129,22 @@ Der Antragsteller versichert, dass alle Pflichtfunktionen der  [ ] [KBV_ITA_VGEX
 
 Folgende optionale eAU Funktionen sind gem. der Technischen Anlage  [KBV_ITA_VGEX_Technische_Anlage_eAU] realisiert.
 
-| KEINE | ☐ | ALLE | ☐ |
-|---|---|---|---|
+KEINE
+
+ALLE
+
+[ ]
+
+[ ]
 
 **IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU**
 
 Technischen Anlage
 
-[ ] [ ] Laut nachfolgender Liste [ ]
+Laut nachfolgender Liste
+
+[ ]
+
 
 ---
 

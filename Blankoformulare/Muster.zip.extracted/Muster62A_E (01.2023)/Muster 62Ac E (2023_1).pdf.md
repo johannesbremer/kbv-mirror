@@ -44,14 +44,13 @@ der Lebensqualität ist nicht mehr angezeigt.
 
 ## Ergebnis der Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß
 
-**AKI-Richtlinie des G-BA**
+## AKI-Richtlinie des G-BA
 
-|  | zur Beatmungsentwöhnung |  |
-|---|---|---|
-|  | in folgenden spezialisierten |  |
-|  | zur Beatmungsentwöhnung |  |
-| ***Lagerungstherapie,*** | ***Mobilisation, Physiotherapie,*** | ***Logopädie,*** |
-|  | zur Beatmungsentwöhnung |  |
+zur Beatmungsentwöhnung
+
+zur Beatmungsentwöhnung
+
+zur Beatmungsentwöhnung
 
 Ergebnis der Erhebung  festgestellt am
 

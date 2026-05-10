@@ -539,8 +539,7 @@ Die Änderungen vom 13.02.2026 (Version 6.05) und vom 09.03.2026 (Version 6.06) 
 
 6.02
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Datum**
 
 09.03.2026
 
@@ -555,6 +554,10 @@ Die Änderungen vom 13.02.2026 (Version 6.05) und vom 09.03.2026 (Version 6.06) 
 1.5.08.2025
 
 treten zum
+
+**Autor Änderung**
+
+**Begründung**
 
 KBV
 
@@ -627,10 +630,11 @@ Aktualisierung der Anforderung P2-820  und K2-860 2. Quartal
 
 ---
 
-**Version**
+**Version** **Datum**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Autor Änderung**
+
+**Begründung**
 
 Anpassung und Aktualisierung von  Relaunch
 
@@ -703,13 +707,17 @@ Alle  108 115,  116
 
 5.80
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
-| 31.01.2025 | KBV |  | Streichung der |
-|  |  | › Anpassung der Anforderung P2-40 |  |
-|  |  |  | OMIM- |
-|  |  | › Anpassung des Kapitels 2.3.7.3 |  |
-|  |  |  | Kodierung |
+**Datum**
+
+31.01.2025
+
+**Autor Änderung**
+
+KBV  Anpassung der Anforderung P2-40  Anpassung des Kapitels 2.3.7.3
+
+**Begründung**
+
+Streichung der  OMIM- Kodierung
 
 **Seite**
 
@@ -1993,14 +2001,6 @@ Geschützte Versichertendaten WOP (-Kennzeichen)
 
 Name
 
-|  | Straße | Postfach |
-|---|---|---|
-|  | Hausnummer | PostfachWohnsitz- |
-|  |  | laendercode |
-|  | Anschriftenzusatz |  |
-|  | Wohnsitzlaender- |  |
-|  | code |  |
-
 Geschlecht
 
 Vorsatzwort
@@ -2052,6 +2052,18 @@ Bei der Bedruckung Ausstellung von vertragsärztlichen Formularen ist zu beachte
 [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung
 
 Beachten Sie bitte auch die Anforderungen P2-140, P2-150, KP2-557 und P2-558.
+
+Straße
+
+Postfach
+
+Hausnummer PostfachWohnsitz- laendercode
+
+Anschriftenzusatz
+
+Wohnsitzlaender-
+
+code
 
 Charakter unverändert und patientenbezogen anzeigen,
 
@@ -5721,15 +5733,17 @@ Konkret obliegt dies der Regelungshoheit der Kassenärztlichen Vereinigungen.
 | genau eine optionale | jeweils genau eine | mindestens eine |
 | Angabe | Angabe | Angabe eines |
 
-|  |  | gültigen ICD-10-GM |
-|---|---|---|
-| Keine Übertragung | Keine Übertragung | mindestens eine |
-|  |  | Angabe eines |
-|  |  | gültigen ICD-10-GM |
+Keine Übertragung
 
 **-612, KP2-613, KP2-614, KP2-615, KP2-616, KP2-617, KP2-618**
 
+Keine Übertragung
+
 KV-spezifischen Gebührennummer im Rahmen
+
+gültigen ICD-10-GM
+
+mindestens eine  Angabe eines  gültigen ICD-10-GM
 
 Funktion
 
@@ -7130,18 +7144,19 @@ indem sie zu bestimmten Zeitpunkten auf die mögliche Übermittlung einer Kennze
 
 13 gibt eine Übersicht darüber, unter welchen Bedingungen diese Hinweise bzgl. der jeweiligen GOP  gegeben werden sollen.
 
-**Hinweis auf**
+**Hinweis auf** Anzahl
 
-|  | Zeitpunkt der |  |
-|---|---|---|
-|  |  | Restkontingent |
-|  | Hinweisgabe | vorhanden |
+Zeitpunkt der
 
-Anforderungsfunktion
+Restkontingent Anforderungsfunktion
 
-**Pseudo-GOP**
+**Pseudo-GOP** vergangener
 
-35
+Hinweisgabe
+
+vorhanden
+
+Quartale ohne APK 35
 
 88130
 
@@ -7171,18 +7186,17 @@ KP2-967 88131
 
 KP2-968
 
-|  | von |  |
-|---|---|---|
-|  | Rezidivprophylaxe |  |
-| 0 | Abrechnungserstellung | Ja |
+von  Rezidivprophylaxe 88131
 
-88131
+0
+
+Abrechnungserstellung Ja
 
 KP2-970
 
 35 Die Anzahl der vergangenen Quartale ohne APK ist für die Erinnerungsfunktion unerheblich, falls die Hinweisgabe während der
 
-Anzahl vergangener Quartale ohne APK Leistungserfassung erfolgt.  36 Die Höhe des Restkontingents nach der Leistungserfassung ist für die Erinnerungsfunktion gemäß KP2-968 unerheblich
+Leistungserfassung erfolgt.  36 Die Höhe des Restkontingents nach der Leistungserfassung ist für die Erinnerungsfunktion gemäß KP2-968 unerheblich
 
 
 ---

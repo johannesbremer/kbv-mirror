@@ -361,10 +361,7 @@ Die Änderungen vom 13.02.2026, 20.02.2026 sowie 09.03.2026 treten zum 01.04.202
 
 2. Quartals 2026 u.ff. in Kraft.
 
-**Version**
-
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Version Datum**
 
 6.03 09.03.2026
 
@@ -374,13 +371,17 @@ Die Änderungen vom 13.02.2026, 20.02.2026 sowie 09.03.2026 treten zum 01.04.202
 
 6.00 14.11.2025
 
-KBV
+**Autor**
 
 KBV
 
 KBV
 
 KBV
+
+KBV
+
+**Änderung**
 
 Anpassung der Regel 900 (Ände- rung grün markiert)
 
@@ -405,6 +406,8 @@ Anpassung der Regel 177
 **ADT-Datenpaket**
 
 FK 9212 angepasst  Aktualisierung der FK 4114  Anpassung der FK 4101  Anpassung der FK 5041   Aufnahme der Regel 178  Aufnahme der Regel 706
+
+**Begründung**
 
 Rückmeldung  aus der In- dustrie/von  Laboren
 
@@ -1724,17 +1727,9 @@ Betriebsstättendaten ”besa”Relevant bei bereichs- fremden LG-Mitglie- dern
 
 0209  1
 
-0218
+0218  1
 
-| 1 | E-Mail der Betriebs- | k |  |
-|---|---|---|---|
-|  | stätte/Praxis/ Krankenhaus |  |  |
-| 1 | Produkttypversion des | m |  |
-|  |  |  | Falls die In- |
-|  | Konnektors |  |  |
-|  |  |  | formation |
-
-0224
+0224  1
 
 Feldbezeichnung 3
 
@@ -1756,6 +1751,12 @@ Telefonnummer
 
 Telefaxnummer
 
+E-Mail der Betriebs-
+
+stätte/Praxis/ Krankenhaus
+
+Produkttypversion des  Konnektors
+
 Feldart
 
 k
@@ -1776,7 +1777,13 @@ m
 
 k
 
+k
+
+m
+
 Bedingung
+
+Falls die In- formation
 
 Erläuterung
 
@@ -2008,14 +2015,11 @@ Vorkommen 1 2 vgl. Kapitel 7
 
 ponente
 
-| 1 | Systemunterstützung / Aus- | m |  |
-|---|---|---|---|
-|  | stattung der Praxis |  |  |
-| **Satzart:** |  |  |  |
+Systemunterstützung / Aus-
 
-0226
+0226   1  stattung der Praxis
 
-**2.2.4**
+**2.2.4** **Satzart: Ringversuchszertifikate „rvsa“**
 
 **RVSA**
 
@@ -2023,8 +2027,7 @@ ponente
 
 Feldart 1 2 3 4 5
 
-|  | 1 |  |  |  |  | Satzart | m | Regel 743 |  |
-|---|---|---|---|---|---|---|---|---|---|
+8000 1     Satzart
 
 0201 n    (N)BSNR
 
@@ -2042,7 +2045,11 @@ Abrechnung von (zertifikats-
 
 Regel 862
 
+m
+
 Bedingung
+
+m Regel 743
 
 M
 
@@ -2066,11 +2073,13 @@ vgl. Kapitel 7
 
 Erläuterung
 
+Satzart Ringver- suchszertifikate
+
 Information zur Ab- rechnung von Labor- leistungen innerhalb  der Betriebsstätte
 
 Information zur unit- use-Verwendung
 
-8000 Satzart Ringver- suchszertifikate Vorkommen 3 Satzart: Ringversuchszertifikate „rvsa“
+Vorkommen 3
 
 ---
 
@@ -2094,10 +2103,7 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 
 **CONTAINER-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | Bedeutung der erlaubten Inhalte |
-|---|---|---|---|---|
+**FK** Feldbezeichnung
 
 0201 Betriebs- (BSNR) oder  Nebenbetriebsstät- tennummer (NBSNR) 0203
 
@@ -2121,7 +2127,7 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 
 Analysen (z.B. gemäß Kapitel B2 der o. g. Richtlinie) sind nicht do-
 
-9
+Länge Typ 9
 
 60
 
@@ -2130,6 +2136,8 @@ Analysen (z.B. gemäß Kapitel B2 der o. g. Richtlinie) sind nicht do-
 60
 
 -Datensatz.
+
+Regel Bedeutung der erlaubten Inhalte
 
 n (049)
 
@@ -2153,48 +2161,37 @@ Nordstr. 4 0221/47396 2
 
 0221/47456 2
 
-Hansen
-
-Feldbezeichnung Länge  Typ 123456699
+Hansen 123456699
 
 
 ---
 
 **CONTAINER-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | Bedeutung der erlaubten Inhalte |
-|---|---|---|---|---|
-
-0213 Krankenhaus-IK (im 9
+**FK** Feldbezeichnung Länge Typ 0213 Krankenhaus-IK (im 9
 
 Rahmen der ASV-Ab- rechnung) 0214 KV-Bereich
 
 2
 
-762  836  875
+Regel 762  836  875
 
 n 857
 
 n 532
 
+Bedeutung der erlaubten Inhalte
+
 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  18 = Dortmund  19 = Münster  20 = Dortmund  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = Rheinland-Pfalz  55 = Karlsruhe  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt u. Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz
 
 Beispiel 261102323
 
-Feldbezeichnung Länge  Typ
 
 ---
 
 **CONTAINER-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | Bedeutung der erlaubten Inhalte |
-|---|---|---|---|---|
-
-0215
+**FK** Feldbezeichnung 0215
 
 | PLZ der (N)BSNR-/ |  7 | a |  |  |
 |---|---|---|---|---|
@@ -2225,13 +2222,17 @@ Feldbezeichnung Länge  Typ
 
 3 bis 8 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Prüfziffer ergibt sich aus der Differenz der Summe der Produkte zum nächs- ten Vielfachen von 10, das gleich oder größer als die Summe der Produkte ist. (Wenn die Summe der Produkte genau ein ganzes V
 
-darstellt, dann ist die Differenz 0.) 60
+darstellt, dann ist die Differenz 0.)
+
+Länge Typ 60
 
 100
 
 45
 
 9
+
+Regel Bedeutung der erlaubten Inhalte
 
 69 = Niederbayern  70 = Schwaben
 
@@ -2263,17 +2264,14 @@ Hans
 
 von 001234566
 
-Feldbezeichnung Länge  Typ ielfaches von 10
+ielfaches von 10
 
 
 ---
 
 **CONTAINER-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | Bedeutung der erlaubten Inhalte |
-|---|---|---|---|---|
+**FK** Feldbezeichnung
 
 Rahmen der ASV-Ab- rechnung 0224
 
@@ -2284,7 +2282,7 @@ Rahmen der ASV-Ab- rechnung 0224
 
 0225  TI-Komponente
 
-0226 Systemunterstützung 1
+Länge Typ 0226 Systemunterstützung 1
 
 / Ausstattung der
 
@@ -2329,7 +2327,11 @@ Praxis 0227
 
 4 ePA4all
 
+Regel
+
 n 147 740  741
+
+Bedeutung der erlaubten Inhalte
 
 3 = NFDM  4 = eMP  5 = KIM  6 = eAU  7 = eArztbrief  8 = Kartenterminal  9 = SMC-B  10 = eHBA  4
 
@@ -2349,9 +2351,7 @@ iConnector  Pro 1
 
 Gerät A 5673
 
-Firma
-
-Feldbezeichnung Länge  Typ 004
+Firma 004
 
 
 ---
@@ -2456,33 +2456,9 @@ Kategorie Feldbezeichnung Länge  Typ hnet. Die Prüfziffer ergibt sich aus
 |---|---|---|
 | Format | 00nnnnnnP | I |
 
-|  | mit |  |
-|---|---|---|
-|  | 00 = ASV-ID-Kürzel |  |
-|  | nnnnnn = eindeutige Nummer |  |
-|  | P = Prüfziffer |  |
-| Format | 35kknnnnn | F |
+Format
 
-|  | mit |  |
-|---|---|---|
-|  | 35 = Krankenhäuser, die Leistun- |  |
-|  | gen im Rahmen von § 75 Absatz |  |
-|  | 1a SGB V erbringen |  |
-|  | kk = erlaubter Inhalt gemäß Re- |  |
-|  | gel 162 |  |
-|  | nnnnn = Seriennummer |  |
-| Format | 74kknnn63 | F |
-
-063
-
-|  | mit |  |
-|---|---|---|
-|  | 74 = KBV |  |
-|  | kk = erlaubter Inhalt gemäß Re- |  |
-|  | gel 162 |  |
-|  | nnn = Seriennummer |  |
-|  | 63 = Kennzeichnung SAPV |  |
-| Format | 555555nff | F |
+Format 063 Format
 
 100 erlaubter Inhalt
 
@@ -2500,7 +2476,13 @@ Kategorie Feldbezeichnung Länge  Typ hnet. Die Prüfziffer ergibt sich aus
 
 Pseudo-Arztnummer an Leistungserbringer der spezialisierten Palliativversorgung (SAPV) gemäß § 132 d Abs. 1 SGB V … (SAPV
 
-mit  555555= Pseudo-Arztnummer  für Krankenhausärzte im Rah- men der ASV-Abrechnung  n = Ordnungsnummer  ff = Fachgruppencode gemäß  der jeweils gültigen Anlage 2 der  Richtlinie der Kassenärztlichen  Bundesvereinigung nach § 75  Abs. 7 SGB V zur Vergabe der  Arzt-, Betriebsstätten- und Pra- xisnetznummern 0
+mit  00 = ASV-ID-Kürzel  nnnnnn = eindeutige Nummer  P = Prüfziffer
+
+35kknnnnn  mit  35 = Krankenhäuser, die Leistun- gen im Rahmen von § 75 Absatz  1a SGB V erbringen  kk = erlaubter Inhalt gemäß Re- gel 162  nnnnn = Seriennummer 74kknnn63  mit
+
+74 = KBV  kk = erlaubter Inhalt gemäß Re- gel 162  nnn = Seriennummer  63 = Kennzeichnung SAPV
+
+555555nff  mit  555555= Pseudo-Arztnummer  für Krankenhausärzte im Rah- men der ASV-Abrechnung  n = Ordnungsnummer  ff = Fachgruppencode gemäß  der jeweils gültigen Anlage 2 der  Richtlinie der Kassenärztlichen  Bundesvereinigung nach § 75  Abs. 7 SGB V zur Vergabe der  Arzt-, Betriebsstätten- und Pra- xisnetznummern 0
 
 0, 1, 2
 
@@ -2512,11 +2494,11 @@ Verfahren zur Bestimmung der  3
 
 Prüfziffer vgl.
 
-(N)BSNR KH, die Leistungen im  Rahmen der Terminservicestelle  erbringen (Anlage 28 BMV-Ä)  Struktur der BSNR vgl.
+F (N)BSNR KH, die Leistungen im  Rahmen der Terminservicestelle  erbringen (Anlage 28 BMV-Ä)  Struktur der BSNR vgl.
 
-(N)BSNR SAPV  Struktur der BSNR vgl.
+F (N)BSNR SAPV  Struktur der BSNR vgl.
 
-Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fach- gruppencodierungen)
+F Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fach- gruppencodierungen)
 
 Wertevorrat:  n ::= 0 1 9
 
@@ -2555,70 +2537,41 @@ Kategorie -BSNR-Vereinbarung)
 
 211
 
-532
+532 erlaubter Inhalt
 
-|  | tifikat, OID |  |
-|---|---|---|
-|  | 1.2.276.0.76.3.1.1.5.2.22 |  |
-| erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, 24, 25, | F |
+740 Kontext
 
-740
+741 Kontext
 
-|  | 27, 28, 31, 37, 39-45, 47-51, 55, |  |
-|---|---|---|
-|  | 60-70, 72, 73, 78-81, 83, 85-87, |  |
-|  | 93-96, 99 |  |
-| Kontext | Wenn Feldinhalt von FK 0300 = | W |
+743 Kontext
 
-741
+748 Kontext
 
-|  | 1, dann muss Feld 0301 und |  |
-|---|---|---|
-|  | mindestens ein Feld 0304 vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn Feldinhalt von FK 0301 = 1 | W |
+750 Kontext
 
-743
-
-|  | oder 2, dann muss Feld 0302 |  |
-|---|---|---|
-|  | vorhanden sein. |  |
-| Kontext | Wenn Feldinhalt von FK 8000 = | W |
-
-748
-
-|  | con0 und Feldinhalt von FK 9132 |  |
-|---|---|---|
-|  | = 1 und wenn ein Feld 0201 in |  |
-|  | der SA „besa“ (Inhalt von FK |  |
-|  | 8000 = besa) vorhanden ist, |  |
-|  | dann muss ein Satz „rvsa“ (Inhalt |  |
-|  | von FK 8000 = rvsa) vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn Feldinhalt von FK 0305 = 2 | W |
-
-750
-
-|  | vorhanden ist, dann muss min- |  |
-|---|---|---|
-|  | destens ein Feld 0302 vorhan- |  |
-|  | den sein |  |
-| Kontext | Der Wert in FK 0201 der SA | W |
-
-762
-
-|  | „rvsa“ muss mit einem der |  |
-|---|---|---|
-|  | Werte aus FK 0201 der SA |  |
-|  | „besa“ übereinstimmen. |  |
-| Kontext | Der (Ersatz-)wert „888888800“ | F |
-|  | ist obsolet und als Feldinhalt von |  |
-|  | FK 0212, 4241, 4242, 5099 unzu- |  |
-|  | lässig. |  |
+762 Kontext
 
 37-73, 78-81, 83, 85-88, 93-96,  98, 99
 
 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 4
+
+tifikat, OID  1.2.276.0.76.3.1.1.5.2.22
+
+01-03, 17, 18, 19, 20, 21, 24, 25,  27, 28, 31, 37, 39-45, 47-51, 55,  60-70, 72, 73, 78-81, 83, 85-87,  93-96, 99
+
+Wenn Feldinhalt von FK 0300 =  1, dann muss Feld 0301 und  mindestens ein Feld 0304 vor- handen sein.
+
+Wenn Feldinhalt von FK 0301 = 1  oder 2, dann muss Feld 0302  vorhanden sein.
+
+Wenn Feldinhalt von FK 8000 =  con0 und Feldinhalt von FK 9132  = 1 und wenn ein Feld 0201 in  der SA „besa“ (Inhalt von FK  8000 = besa) vorhanden ist,  dann muss ein Satz „rvsa“ (Inhalt  von FK 8000 = rvsa) vorhanden  sein.
+
+Wenn Feldinhalt von FK 0305 = 2  vorhanden ist, dann muss min- destens ein Feld 0302 vorhan- den sein
+
+Der Wert in FK 0201 der SA  „rvsa“ muss mit einem der  Werte aus FK 0201 der SA  „besa“ übereinstimmen.
+
+Der (Ersatz-)wert „888888800“
+
+ist obsolet und als Feldinhalt von  FK 0212, 4241, 4242, 5099 unzu- lässig.
 
 Erläuterung
 
@@ -2628,11 +2581,22 @@ F
 
 F ISO 8859-15
 
-RVSA-Datensatz an die Existenz  des ADT-Datenpaketes gekop- 2
+F
+
+W
+
+W
+
+W RVSA-Datensatz an die Existenz  des ADT-Datenpaketes gekop- 2
 
 pelt, vgl.
 
-Kategorie
+W
+
+W
+
+Kategorie F
+
 
 ---
 
@@ -2646,75 +2610,61 @@ Kategorie
 
 Erläuterung 819
 
-|  | des Feldes 0201 = 35, dann gilt | gel |
-|---|---|---|
-|  | für den Inhalt des Feldes 0201 | 049 |
-|  | die Formatregel 061. |  |
-|  |  | 061 |
-|  | Wenn der Inhalt der Stellen 1-2 |  |
-|  |  | 062 |
-|  | des Feldes 0201 = 74, dann gilt |  |
-|  | für den Inhalt des Feldes 0201 |  |
-|  | die Formatregel 062. |  |
-|  | Wenn der Inhalt der Stellen 1-2 |  |
-|  | des Feldes 0201 ≠ 35 oder ≠ 74, |  |
-|  | dann gilt für den Inhalt des Fel- |  |
-|  | des 0201 die Formatregel 049. |  |
-| Kontext | Es muss mindestens ein Feld FK | F |
+des Feldes 0201 = 35, dann gilt
 
-836
+gel
 
-|  | 0212 oder ein Feld FK 0223 vor- |  |
-|---|---|---|
-|  | handen sein. Es können auch |  |
-|  | beide Feldkennungen vorkom- |  |
-|  | men. |  |
-| Kontext | Entweder das Feld 0201 oder | F |
+für den Inhalt des Feldes 0201 049
 
-857
+die Formatregel 061.
 
-|  | das Feld 0213 muss mindestens |  |
-|---|---|---|
-|  | einmal (im Satz) vorhanden sein. |  |
-|  | Es können auch beide Feldken- |  |
-|  | nungen vorkommen. |  |
-| Kontext | Im Feld 0225 (TI-Fachanwen- | F |
+061
 
-858
+Wenn der Inhalt der Stellen 1-2 062
 
-|  | dung / TI-Komponente) muss je- |  |
-|---|---|---|
-|  | der erlaubte Wert der Feldken- |  |
-|  | nung 0225 gemäß der Regel 177 |  |
-|  | genau einmal zu jeder (N)BSNR |  |
-|  | (FK 0201) bzw. Krankenhaus-IK |  |
-|  | (FK 0213) vorkommen. |  |
-| Kontext | Im Feld 0225 (TI-Fachanwen- | F |
+des Feldes 0201 = 74, dann gilt  für den Inhalt des Feldes 0201  die Formatregel 062.  Wenn der Inhalt der Stellen 1-2  des Feldes 0201 ≠ 35 oder ≠ 74,  dann gilt für den Inhalt des Fel- des 0201 die Formatregel 049.
 
-862
+836 Kontext
 
-|  | dung Fachanwendung / TI-Kom- |  |
-|---|---|---|
-|  | ponente) darf jeder Wert der |  |
-|  | Feldkennung 0225 gemäß der |  |
-|  | Regel 177 maximal einmal zu je- |  |
-|  | der (N)BSNR (FK 0201) bzw. |  |
-|  | Krankenhaus-IK (FK 0213) vor- |  |
-|  | kommen. |  |
-| Kontext | Wenn **das** Feld 0224 übertragen | F |
+Es muss mindestens ein Feld FK
 
-872
+F
 
-|  | wird, dann muss auch das Feld |  |
-|---|---|---|
-|  | 0227 übertragen werden. |  |
-| Kontext | Wenn **das** Feld 0224 übertragen | W |
-|  | wird, dann muss auch das Feld |  |
-|  | 0228 übertragen werden. |  |
+0212 oder ein Feld FK 0223 vor- handen sein. Es können auch  beide Feldkennungen vorkom- men.
 
-874
+Entweder das Feld 0201 oder 857 Kontext
 
-Kategorie
+F
+
+das Feld 0213 muss mindestens  einmal (im Satz) vorhanden sein.  Es können auch beide Feldken- nungen vorkommen.
+
+858 Kontext
+
+Im Feld 0225 (TI-Fachanwen-
+
+F
+
+dung / TI-Komponente) muss je- der erlaubte Wert der Feldken- nung 0225 gemäß der Regel 177  genau einmal zu jeder (N)BSNR  (FK 0201) bzw. Krankenhaus-IK  (FK 0213) vorkommen.
+
+862 Kontext
+
+Im Feld 0225 (TI-Fachanwen-
+
+F
+
+dung Fachanwendung / TI-Kom- ponente) darf jeder Wert der  Feldkennung 0225 gemäß der  Regel 177 maximal einmal zu je- der (N)BSNR (FK 0201) bzw.  Krankenhaus-IK (FK 0213) vor- kommen.
+
+Wenn **das** Feld 0224 übertragen 872 Kontext
+
+F
+
+wird, dann muss auch das Feld  0227 übertragen werden.
+
+874 Kontext
+
+Wenn **das** Feld 0224 übertragen W
+
+Kategorie wird, dann muss auch das Feld  0228 übertragen werden.
 
 
 ---
@@ -2729,15 +2679,13 @@ Kategorie
 
 875
 
-|  | darf nur einmal unter einer |  |
-|---|---|---|
-|  | „(N)BSNR“ (FK 0201) vorkom- |  |
-|  | men. |  |
-| Kontext | Der Wert einer „(N)BSNR“ (FK | W |
-|  | 0201) darf nur einmal im Besa- |  |
-|  | Datensatz vorkommen. |  |
+darf nur einmal unter einer  „(N)BSNR“ (FK 0201) vorkom-
 
-878
+men.
+
+878 Kontext
+
+Der Wert einer „(N)BSNR“ (FK  0201) darf nur einmal im Besa- Datensatz vorkommen.
 
 Erläuterung
 
@@ -2745,7 +2693,9 @@ Eine LANR repräsentiert immer  nur eine Person, daher darf sie  pro BSNR nur ei
 
 werden.
 
-Kategorie Eine BSNR darf nur einmal im  Besa-Datensatz übertragen wer- den.
+Eine BSNR darf nur einmal im
+
+Kategorie W  Besa-Datensatz übertragen wer- den.
 
 
 ---
@@ -3240,11 +3190,11 @@ vgl. Kapitel 7
 
 Vorkommen 1 2
 
-| 1 | Versichertennummer | m | Regel 776 |
-|---|---|---|---|
+1
 
-| 1 | Versicherten_ID | m | Regel 776 |
-|---|---|---|---|
+1
+
+1
 
 1
 
@@ -3252,30 +3202,19 @@ Vorkommen 1 2
 
 1
 
-| 1 | PLZ | m | Regel 479 |
-|---|---|---|---|
-
-| 1 | Wohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
+1
 
 1
 
-| 1 | PostfachPLZ | m | Regel 479 |
-|---|---|---|---|
+1
 
 1
 
 3123 1
 
-3124
+3124 1
 
-| 1 | PostfachWohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
-
-3116
-
-| 1 | WOP | m | Regel 774 |
-|---|---|---|---|
+3116 1
 
 3108 1
 
@@ -3298,17 +3237,31 @@ Vorkommen 1 2
 
 Feldbezeichnung 3 4
 
+Versichertennummer
+
+Versicherten_ID
+
 Straße
 
 Hausnummer
 
 Anschriftenzusatz
 
+PLZ
+
+Wohnsitzlaendercode
+
 Ort
+
+PostfachPLZ
 
 PostfachOrt
 
 Postfach
+
+PostfachWohnsitzlaendercode
+
+WOP
 
 Versichertenart
 
@@ -3322,7 +3275,9 @@ Abrechnungs-VKNR
 
 Feldart Bedingung
 
-K
+m Regel 776
+
+m Regel 776
 
 K
 
@@ -3330,9 +3285,21 @@ K
 
 K
 
+m Regel 479
+
+m Regel 784
+
+K
+
+m Regel 479
+
 K
 
 K
+
+m Regel 784
+
+m Regel 774
 
 M
 
@@ -3403,18 +3370,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 |---|---|---|---|
 | 1 | Letzter Einlesetag der Versicher- | m | falls Versi- |
 
-| 1 | eEB vorhanden | K | Regel 895 |
-|---|---|---|---|
+1
 
-| 1 | VersicherungsschutzBeginn | m | Regel 775 |
-|---|---|---|---|
+1
 
 1
 
 1
 
-| 1 | Kostentraegername | m | Regel 777 |
-|---|---|---|---|
+1
 
 1
 
@@ -3457,9 +3421,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 tenkarte im Quartal
 
+eEB vorhanden
+
+VersicherungsschutzBeginn
+
 VersicherungsschutzEnde
 
 Kostentraegerkennung
+
+Kostentraegername
 
 BesonderePersonengruppe
 
@@ -3481,9 +3451,15 @@ Mutmaßlicher Tag der Entbindung
 
 cherten- karte ein- gelesen  wurde  Regel 876
 
+K Regel 895
+
+m Regel 775
+
 K
 
 M
+
+m Regel 777
 
 M
 
@@ -3625,10 +3601,7 @@ Das Feld enthält die  Anzahl (quartalsüber- greifend für die bean- tragte The
 
 Vorkommen 1 2
 
-| 1 | Abklärung somatischer Ursachen | K |  |
-|---|---|---|---|
-|  | vor Aufnahme einer Psychothera- |  |  |
-|  | pie |  |  |
+1
 
 | 1 | Scheinuntergruppe | M |  |
 |---|---|---|---|
@@ -3654,9 +3627,6 @@ n 5001  n
 
 5005
 
-| 1 | Multiplikator | k | Regel 894 |
-|---|---|---|---|
-
 5006
 
 5008
@@ -3664,9 +3634,6 @@ n 5001  n
 5009
 
 5010
-
-| 1 | Chargennummer | m | Regel 868 |
-|---|---|---|---|
 
 5012
 
@@ -3684,17 +3651,23 @@ n 5001  n
 
 Feldbezeichnung 3 4
 
+Abklärung somatischer Ursachen  vor Aufnahme einer Psychothera- pie
+
 Leistungstag
 
 GNR 1  Art der Untersuchung
+
+1  Multiplikator
 
 1  Um-Uhrzeit
 
 1  DKM
 
-n  freier Begründungstext
+n  freier Begründungstext 1  Chargennummer
 
 Feldart Bedingung
+
+K
 
 Regel 877
 
@@ -3706,11 +3679,15 @@ m
 
 k
 
-k
+k Regel 894
 
 k
 
 k
+
+k
+
+m Regel 868
 
 Erläuterung
 
@@ -3777,9 +3754,6 @@ Vorkommen 1 2
 
 5035
 
-| 1 | Seitenlokalisation OPS | k | Regel 706 |
-|---|---|---|---|
-
 5041
 
 | n | GNR als Begründung | k |  |
@@ -3820,7 +3794,7 @@ Wiederholungsuntersuchung 1
 
 1  OP-Datum
 
-n  OP-Schlüssel
+n  OP-Schlüssel 1 Seitenlokalisation OPS
 
 Feldart
 
@@ -3850,7 +3824,11 @@ k
 
 k
 
+k
+
 Bedingung
+
+Regel 706
 
 Erläuterung
 
@@ -3886,29 +3864,13 @@ Vorkommen 1 2
 |  | tation Hautkrebs-Screening |  |  |
 | n | Melde-ID Implantateregister | m | Regel 888 |
 
-| 1 | Hash-String Implantateregister | m | Regel 889 |
-|---|---|---|---|
-
-| 1 | Hash-Wert Implantateregister | m | Regel 890 |
-|---|---|---|---|
-
 | 1 | Maßeinheit KM /AM | m |  |
 |---|---|---|---|
 | n | HGNC-Gensymbol | m | Regel 770 |
 
-|  |  |  | Regel 891 |
-|---|---|---|---|
-|  |  |  | Regel 893 |
-| n | Art der Erkrankung | m | Regel 770 |
-
 5078
 
 5079
-
-|  | erbringung |  |  |
-|---|---|---|---|
-| 1 | Krankenhaus-IK (im Rahmen der | m | Regel 859 |
-|  | ASV-Abrechnung) |  |  |
 
 5098
 
@@ -3916,17 +3878,37 @@ Vorkommen 1 2
 
 Feldbezeichnung 3 4
 
+1 Hash-String Implantateregister 1 Hash-Wert Implantateregister
+
 1  Mengenangabe KM /AM
+
+n Gen-Name
+
+n  Art der Erkrankung
+
+1  (N)BSNR des Ortes der Leistungs- erbringung
+
+1  Krankenhaus-IK (im Rahmen der  ASV-Abrechnung)
 
 Feldart Bedingung
 
 Regel 894
 
+m Regel 889
+
+m Regel 890
+
 k
 
 Regel 816  Regel 828  Regel 829  Regel 830  Regel 834  Regel 843  Regel 854  Regel 892
 
-Regel 816  Regel 828  Regel 834  Regel 843  Regel 847  Regel 848  Regel 854
+m Regel 816  Regel 891  Regel 893
+
+m Regel 770  Regel 816  Regel 828  Regel 834  Regel 843  Regel 847  Regel 848  Regel 854
+
+m Regel 859
+
+m Regel 859
 
 Erläuterung
 
@@ -3934,7 +3916,6 @@ Nur bei Hautkrebs- Screening
 
 Die exakte 10-stellige  alphanumerische ID  der Meldebestätigung
 
-Gen-Name Regel 816 (N)BSNR des Ortes der Leistungs-
 
 ---
 
@@ -3958,11 +3939,6 @@ Gen-Name Regel 816 (N)BSNR des Ortes der Leistungs-
 |---|---|---|---|
 | 1 | Lebenslange Arztnummer (LANR) | m | Regel 837 |
 
-|  | des Vertragsarztes/Vertragspsy- |  |  |
-|---|---|---|---|
-|  | chotherapeuten |  |  |
-| 1 | Pseudo-LANR (für Krankenhaus- | m | Regel 837 |
-
 | 1 | ASV-Teamnummer des Vertrags- | K |  |
 |---|---|---|---|
 |  | arztes |  |  |
@@ -3974,15 +3950,9 @@ Gen-Name Regel 816 (N)BSNR des Ortes der Leistungs-
 
 6006  n
 
-6008
+6008  n
 
-| n | Diagnosenausnahmetatbestand | m | Regel 491 |
-|---|---|---|---|
-
-3673
-
-| n | Dauerdiagnose (ICD-Code) | m | Regel 486 |
-|---|---|---|---|
+3673 n
 
 3674
 
@@ -4002,7 +3972,9 @@ Gen-Name Regel 816 (N)BSNR des Ortes der Leistungs-
 
 3677
 
-ärzte im Rahmen der ASV-Abrech- nung) des LE
+des Vertragsarztes/Vertragspsy- chotherapeuten
+
+1  Pseudo-LANR (für Krankenhaus- ärzte im Rahmen der ASV-Abrech- nung) des LE
 
 Diagnosensicherheit
 
@@ -4010,7 +3982,13 @@ Seitenlokalisation
 
 Diagnosenerläuterung
 
+Diagnosenausnahmetatbestand
+
+Dauerdiagnose (ICD-Code)
+
 Seitenlokalisation Dauerdiagnose
+
+m Regel 837
 
 Regel 828  Regel 829  Regel 830  Regel 843  Regel 854
 
@@ -4019,6 +3997,10 @@ m
 k
 
 k
+
+m Regel 491
+
+m Regel 486
 
 k
 
@@ -4169,15 +4151,9 @@ vgl. Kapitel 7
 
 **FK** Vorkommen 1 2
 
-3105
+3105 1
 
-| 1 | Versichertennummer | m | Regel 776 |
-|---|---|---|---|
-
-3119
-
-| 1 | Versicherten_ID | m | Regel 776 |
-|---|---|---|---|
+3119 1
 
 3107 1
 
@@ -4185,36 +4161,21 @@ vgl. Kapitel 7
 
 3115 1
 
-3112
+3112 1
 
-| 1 | PLZ | m | Regel 479 |
-|---|---|---|---|
-
-3114
-
-| 1 | Wohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
+3114 1
 
 3113 1
 
-3121
-
-| 1 | PostfachPLZ | m | Regel 479 |
-|---|---|---|---|
+3121 1
 
 3122 1
 
 3123 1
 
-3124
+3124 1
 
-| 1 | PostfachWohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
-
-3116
-
-| 1 | WOP | m | Regel 774 |
-|---|---|---|---|
+3116 1
 
 3108 1
 
@@ -4241,17 +4202,31 @@ vgl. Kapitel 7
 
 Feldbezeichnung 3 4
 
+Versichertennummer
+
+Versicherten_ID
+
 Straße
 
 Hausnummer
 
 Anschriftenzusatz
 
+PLZ
+
+Wohnsitzlaendercode
+
 Ort
+
+PostfachPLZ
 
 PostfachOrt
 
 Postfach
+
+PostfachWohnsitzlaendercode
+
+WOP
 
 Versichertenart
 
@@ -4261,7 +4236,9 @@ Abrechnungs-VKNR
 
 Feldart Bedingung
 
-K
+m Regel 776
+
+m Regel 776
 
 K
 
@@ -4269,9 +4246,21 @@ K
 
 K
 
+m Regel 479
+
+m Regel 784
+
+K
+
+m Regel 479
+
 K
 
 K
+
+m Regel 784
+
+m Regel 774
 
 M
 
@@ -4320,24 +4309,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 4109
 
-4112
+4112 1
 
-| 1 | eEB vorhanden | K | Regel 895 |
-|---|---|---|---|
-
-4133
-
-| 1 | VersicherungsschutzBeginn | m | Regel 775 |
-|---|---|---|---|
+4133 1
 
 4110 1
 
 4111 1
 
-4134
-
-| 1 | Kostentraegername | m | Regel 777 |
-|---|---|---|---|
+4134 1
 
 4131 1
 
@@ -4385,9 +4365,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 tenkarte im Quartal
 
+eEB vorhanden
+
+VersicherungsschutzBeginn
+
 VersicherungsschutzEnde
 
 Kostentraegerkennung
+
+Kostentraegername
 
 BesonderePersonengruppe
 
@@ -4411,9 +4397,15 @@ Diagnose/Verdachtsdiagnose
 
 cherten- karte ein- gelesen  wurde  Regel 876
 
+K Regel 895
+
+m Regel 775
+
 K
 
 M
+
+m Regel 777
 
 M
 
@@ -4461,10 +4453,7 @@ Vorkommen 2 3 4
 |---|---|---|---|
 |  | gen |  |  |
 
-4217
-
-| 1 | (N)BSNR des Erstveranlassers | k | Regel 431 |
-|---|---|---|---|
+4217 1
 
 4241
 
@@ -4487,10 +4476,7 @@ Vorkommen 2 3 4
 |---|---|---|---|
 | 1 | Pseudo-LANR (für Krankenhaus- | m | Regel 844 |
 
-4218
-
-| 1 | (N)BSNR des Überweisers | m | Regel 328 |
-|---|---|---|---|
+4218 1
 
 4242
 
@@ -4513,10 +4499,7 @@ Vorkommen 2 3 4
 |---|---|---|---|
 | 1 | Pseudo-LANR (für Krankenhaus- | m | Regel 845 |
 
-4219
-
-| 1 | Überweisung von anderen Ärzten | m | Regel 328 |
-|---|---|---|---|
+4219 1
 
 4220
 
@@ -4536,11 +4519,23 @@ Feldbezeichnung
 
 Feldart 3 4
 
-ärzte im Rahmen der ASV-Abrech- nung) des Erstveranlassers
+(N)BSNR des Erstveranlassers
+
+ärzte im Rahmen der ASV-Abrech- nung) des Erstveranlassers (N)BSNR des Überweisers
 
 ärzte im Rahmen der ASV-Abrech- nung) des Überweisers
 
-Bedingung Erläuterung
+Überweisung von anderen Ärzten
+
+Bedingung
+
+k Regel 431
+
+m Regel 328
+
+m Regel 328
+
+Erläuterung
 
 Arztnummer / Arzt- kennzeichen oder tex- tuelle Bezeichnung des  überweisenden Leis- tungserbringers, so- fern keine BSNR vor- liegt von anderen Ärz- ten (z.B. Zahnärzten).
 
@@ -4688,9 +4683,6 @@ Das Feld enthält die  Anzahl (quartalsüber- greifend für die bean- tragte The
 
 5005
 
-| 1 | Multiplikator | k | Regel 894 |
-|---|---|---|---|
-
 5006
 
 5008
@@ -4707,6 +4699,8 @@ Leistungstag
 
 GNR 1  Art der Untersuchung
 
+1  Multiplikator
+
 1  Um-Uhrzeit
 
 Regel 853
@@ -4720,6 +4714,8 @@ M
 m
 
 k
+
+k Regel 894
 
 k
 
@@ -4744,9 +4740,6 @@ Vorkommen 2 3 4
 **FK** Vorkommen 1 2
 
 5010
-
-| 1 | Chargennummer | m | Regel 868 |
-|---|---|---|---|
 
 5012
 
@@ -4808,6 +4801,8 @@ Vorkommen 2 3 4
 
 Feldbezeichnung 3 4
 
+1  Chargennummer
+
 n Sachkosten-Bezeichnung 1 Name Hersteller/ Lieferant
 
 1 Artikel-/ Modellnummer
@@ -4831,6 +4826,8 @@ n  Name des Arztes 1  Besuchsort bei Hausbesuchen
 1  Entlassungsdatum
 
 Feldart
+
+m
 
 m
 
@@ -4860,6 +4857,8 @@ k
 
 Bedingung
 
+Regel 868
+
 Erläuterung
 
 Übertragung entspre- chend P21-015 in  KVDT-Anforderungska- talog
@@ -4872,9 +4871,6 @@ Erläuterung
 **ÜBERWEISUNG - 0102**
 
 **FK** Vorkommen 1 2
-
-| 1 | Seitenlokalisation OPS | k | Regel 706 |
-|---|---|---|---|
 
 5041
 
@@ -4897,13 +4893,7 @@ Erläuterung
 
 5050
 
-| 1 | Hash-String Implantateregister | m | Regel 889 |
-|---|---|---|---|
-
 5051
-
-| 1 | Hash-Wert Implantateregister | m | Regel 890 |
-|---|---|---|---|
 
 5052
 
@@ -4923,7 +4913,13 @@ Erläuterung
 
 Feldbezeichnung 3 4
 
-n  Komplikation 1  Mengenangabe KM / AM
+1 Seitenlokalisation OPS
+
+n  Komplikation
+
+1 Hash-String Implantateregister 1 Hash-Wert Implantateregister
+
+1  Mengenangabe KM / AM
 
 n Gen-Name
 
@@ -4931,11 +4927,17 @@ n  Art der Erkrankung
 
 Feldart Bedingung
 
+k Regel 706
+
 eingriff
 
 k
 
 Regel 894
+
+m Regel 889
+
+m Regel 890
 
 k
 
@@ -4976,11 +4978,6 @@ Die exakte 10-stellige  alphanumerische ID  der Meldebestätigung
 
 5099
 
-|  | des Vertragsarztes/Vertragspsy- |  |  |
-|---|---|---|---|
-|  | chotherapeuten |  |  |
-| 1 | Pseudo-LANR (für Krankenhaus- | m | Regel 837 |
-
 5101
 
 | 1 | ASV-Teamnummer des Vertrags- | K |  |
@@ -4998,15 +4995,9 @@ Die exakte 10-stellige  alphanumerische ID  der Meldebestätigung
 
 6006  n
 
-6008
+6008  n
 
-| n | Diagnosenausnahmetatbestand | m | Regel 491 |
-|---|---|---|---|
-
-3673
-
-| n | Dauerdiagnose (ICD-Code) | m | Regel 486 |
-|---|---|---|---|
+3673 n
 
 3674
 
@@ -5030,7 +5021,9 @@ Feldbezeichnung
 
 Feldart 3 4
 
-ärzte im Rahmen der ASV-Abrech- nung) des LE
+des Vertragsarztes/Vertragspsy- chotherapeuten
+
+1  Pseudo-LANR (für Krankenhaus- ärzte im Rahmen der ASV-Abrech- nung) des LE
 
 Diagnosensicherheit
 
@@ -5038,9 +5031,15 @@ Seitenlokalisation
 
 Diagnosenerläuterung
 
+Diagnosenausnahmetatbestand
+
+Dauerdiagnose (ICD-Code)
+
 Seitenlokalisation Dauerdiagnose
 
 Bedingung
+
+m Regel 837
 
 Regel 828  Regel 829  Regel 830  Regel 843  Regel 854
 
@@ -5049,6 +5048,10 @@ m
 k
 
 k
+
+m Regel 491
+
+m Regel 486
 
 k
 
@@ -5184,15 +5187,9 @@ vgl. Kapitel 7
 
 3104 1
 
-3105
+3105 1
 
-| 1 | Versichertennummer | m | Regel 776 |
-|---|---|---|---|
-
-3119
-
-| 1 | Versicherten_ID | m | Regel 776 |
-|---|---|---|---|
+3119 1
 
 3107 1
 
@@ -5200,36 +5197,21 @@ vgl. Kapitel 7
 
 3115 1
 
-3112
+3112 1
 
-| 1 | PLZ des Patienten | m | Regel 479 |
-|---|---|---|---|
-
-3114
-
-| 1 | Wohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
+3114 1
 
 3113 1
 
-3121
-
-| 1 | PostfachPLZ | m | Regel 479 |
-|---|---|---|---|
+3121 1
 
 3122 1
 
 3123 1
 
-3124
+3124 1
 
-| 1 | PostfachWohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
-
-3116
-
-| 1 | WOP | m | Regel 774 |
-|---|---|---|---|
+3116 1
 
 3108 1
 
@@ -5254,17 +5236,31 @@ Feldbezeichnung 3 4
 
 Titel
 
+Versichertennummer
+
+Versicherten_ID
+
 Straße
 
 Hausnummer
 
 Anschriftenzusatz
 
+PLZ des Patienten
+
+Wohnsitzlaendercode
+
 Ort
+
+PostfachPLZ
 
 PostfachOrt
 
 Postfach
+
+PostfachWohnsitzlaendercode
+
+WOP
 
 Versichertenart
 
@@ -5280,7 +5276,9 @@ Feldart Bedingung
 
 K
 
-K
+m Regel 776
+
+m Regel 776
 
 K
 
@@ -5288,9 +5286,21 @@ K
 
 K
 
+m Regel 479
+
+m Regel 784
+
+K
+
+m Regel 479
+
 K
 
 K
+
+m Regel 784
+
+m Regel 774
 
 M
 
@@ -5341,24 +5351,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 4109
 
-4112
+4112 1
 
-| 1 | eEB vorhanden | K | Regel 895 |
-|---|---|---|---|
-
-4133
-
-| 1 | VersicherungsschutzBeginn | m | Regel 775 |
-|---|---|---|---|
+4133 1
 
 4110 1
 
 4111 1
 
-4134
-
-| 1 | Kostentraegername | m | Regel 777 |
-|---|---|---|---|
+4134 1
 
 4131 1
 
@@ -5380,17 +5381,9 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 4202 1
 
-4204
+4204 1
 
-| 1 | eingeschränkter Leistungsan- | K |  |
-|---|---|---|---|
-|  | spruch gemäß § 16 Abs. 3a SGB |  |  |
-|  | V |  |  |
-
-4205
-
-| n | Auftrag | m | Regel 746 |
-|---|---|---|---|
+4205 n
 
 4206
 
@@ -5398,15 +5391,9 @@ Zulassungsnummer  (mobiles Lesegerät)
 |---|---|---|---|
 |  | dung |  |  |
 
-4207
+4207 n
 
-| n | Diagnose/Verdachtsdiagnose | m | Regel 746 |
-|---|---|---|---|
-
-4208
-
-| n | Befund/Medikation | m | Regel 746 |
-|---|---|---|---|
+4208 n
 
 4218
 
@@ -5419,9 +5406,15 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 tenkarte im Quartal
 
+eEB vorhanden
+
+VersicherungsschutzBeginn
+
 VersicherungsschutzEnde
 
 Kostentraegerkennung
+
+Kostentraegername
 
 BesonderePersonengruppe
 
@@ -5437,25 +5430,47 @@ SKT-Bemerkungen
 
 Unfall, Unfallfolgen
 
+eingeschränkter Leistungsan- spruch gemäß § 16 Abs. 3a SGB  V
+
+Auftrag
+
+Diagnose/Verdachtsdiagnose
+
+Befund/Medikation
+
 cherten- karte ein- gelesen  wurde  Regel 876
 
-K
+K Regel 895
 
-M
-
-M
-
-M
-
-M
-
-M
+m Regel 775
 
 K
 
+M
+
+m Regel 777
+
+M
+
+M
+
+M
+
+M
+
 K
 
 K
+
+K
+
+K
+
+m Regel 746
+
+m Regel 746
+
+m Regel 746
 
 Erläuterung
 
@@ -5513,9 +5528,6 @@ Vorkommen 2 3 4
 
 5005
 
-| 1 | Multiplikator | k | Regel 894 |
-|---|---|---|---|
-
 5006
 
 5008
@@ -5523,9 +5535,6 @@ Vorkommen 2 3 4
 5009
 
 5010
-
-| 1 | Chargennummer | m | Regel 868 |
-|---|---|---|---|
 
 5012
 
@@ -5549,11 +5558,13 @@ Leistungstag
 
 GNR 1  Art der Untersuchung
 
+1  Multiplikator
+
 1  Um-Uhrzeit
 
 1  DKM
 
-n  freier Begründungstext
+n  freier Begründungstext 1  Chargennummer
 
 n Sachkosten-Bezeichnung
 
@@ -5567,11 +5578,15 @@ m
 
 k
 
-k
+k Regel 894
 
 k
 
 k
+
+k
+
+m Regel 868
 
 m
 
@@ -5620,11 +5635,6 @@ Vorkommen 1 2 Übertragung entspre- chend P21-015 in
 
 5024
 
-| 1 | GNR-Zusatzkennzeichen für | k |  |
-|---|---|---|---|
-|  | poststationär erbrachte Leistun- |  |  |
-|  | gen |  |  |
-
 5025
 
 5026
@@ -5632,9 +5642,6 @@ Vorkommen 1 2 Übertragung entspre- chend P21-015 in
 5034
 
 5035
-
-| 1 | Seitenlokalisation OPS | k | Regel 706 |
-|---|---|---|---|
 
 5041
 
@@ -5680,7 +5687,11 @@ k 1  Wiederholungsuntersuchung
 
 k 1  GO-Nummern-Zusatz
 
-k 1  Aufnahmedatum
+k 1  GNR-Zusatzkennzeichen für
+
+k
+
+poststationär erbrachte Leistun- gen 1  Aufnahmedatum
 
 k 1  Entlassungsdatum
 
@@ -5694,7 +5705,11 @@ n
 
 k
 
-OP-Schlüssel
+OP-Schlüssel 1
+
+k Regel 706
+
+Seitenlokalisation OPS
 
 eingriff (GSNZ)
 
@@ -5719,13 +5734,7 @@ Die exakte 10-stellige  alphanumerische ID
 
 **FK** Vorkommen 1 2
 
-| 1 | Hash-String Implantateregister | m | Regel 889 |
-|---|---|---|---|
-
 5051
-
-| 1 | Hash-Wert Implantateregister | m | Regel 890 |
-|---|---|---|---|
 
 5052
 
@@ -5739,11 +5748,6 @@ Die exakte 10-stellige  alphanumerische ID
 
 5077
 
-|  |  |  | Regel 891 |
-|---|---|---|---|
-|  |  |  | Regel 893 |
-| n | Art der Erkrankung | m | Regel 770 |
-
 5078
 
 5079
@@ -5754,36 +5758,47 @@ Die exakte 10-stellige  alphanumerische ID
 
 5098
 
-| 1 | Lebenslange Arztnummer | M |  |
-|---|---|---|---|
-|  | (LANR) des Vertragsarztes/Ver- |  |  |
-|  | tragspsychotherapeuten |  |  |
-| n | ICD-Code | m | Regel 486 |
-|  |  |  | Regel 828 |
-|  |  |  | Regel 829 |
-|  |  |  | Regel 830 |
-
 5099
 
-6001
+6001 n
 
 Feldbezeichnung 3 4
 
+1 Hash-String Implantateregister 1 Hash-Wert Implantateregister
+
 1  Mengenangabe KM /AM
 
+n Gen-Name
+
+n  Art der Erkrankung
+
+1  Lebenslange Arztnummer  (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten
+
+ICD-Code
+
 Feldart Bedingung
+
+m Regel 889
+
+m Regel 890
 
 k
 
 Regel 816  Regel 828  Regel 829  Regel 830  Regel 834  Regel 843  Regel 854  Regel 892
 
-Regel 816  Regel 828  Regel 834  Regel 843  Regel 847  Regel 848  Regel 854
+m Regel 816  Regel 891  Regel 893
+
+m Regel 770  Regel 816  Regel 828  Regel 834  Regel 843  Regel 847  Regel 848  Regel 854
+
+M
+
+m Regel 486  Regel 828  Regel 829  Regel 830
 
 Erläuterung
 
 der Meldebestäti- gung
 
-Gen-Name Regel 816 vgl. Kapitel 4.5.1
+vgl. Kapitel 4.5.1
 
 
 ---
@@ -5798,15 +5813,9 @@ Gen-Name Regel 816 vgl. Kapitel 4.5.1
 
 6006  n
 
-6008
+6008  n
 
-| n | Diagnosenausnahmetatbestand | m | Regel 491 |
-|---|---|---|---|
-
-3673
-
-| n | Dauerdiagnose (ICD-Code) | m | Regel 486 |
-|---|---|---|---|
+3673 n
 
 3674
 
@@ -5864,6 +5873,10 @@ Seitenlokalisation
 
 Diagnosenerläuterung
 
+Diagnosenausnahmetatbestand
+
+Dauerdiagnose (ICD-Code)
+
 Dauerdiagnose
 
 Feldbezeichnung 3 4
@@ -5883,6 +5896,10 @@ M
 k
 
 k
+
+m Regel 491
+
+m Regel 486
 
 Feldart Bedingung
 
@@ -5943,15 +5960,9 @@ Satzart: Notfalldienst/Vertretung/Notfall ”0104” NOTFALLDIENST/VERTRETUNG/NO
 
 3104 1
 
-3105
+3105 1
 
-| 1 | Versichertennummer | m | Regel 776 |
-|---|---|---|---|
-
-3119
-
-| 1 | Versicherten_ID | m | Regel 776 |
-|---|---|---|---|
+3119 1
 
 3107 1
 
@@ -5981,6 +5992,10 @@ Geburtsdatum
 
 Titel
 
+Versichertennummer
+
+Versicherten_ID
+
 Straße
 
 Feldart Bedingung
@@ -6002,6 +6017,10 @@ M
 M
 
 K
+
+m Regel 776
+
+m Regel 776
 
 K
 
@@ -6034,36 +6053,21 @@ Hausnummer der Pa- tientenadresse
 
 **FK** Vorkommen 1 2
 
-3112
+3112 1
 
-| 1 | PLZ | m | Regel 479 |
-|---|---|---|---|
-
-3114
-
-| 1 | Wohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
+3114 1
 
 3113 1
 
-3121
-
-| 1 | PostfachPLZ | m | Regel 479 |
-|---|---|---|---|
+3121 1
 
 3122 1
 
 3123 1
 
-3124
+3124 1
 
-| 1 | PostfachWohnsitzlaendercode | m | Regel 784 |
-|---|---|---|---|
-
-3116
-
-| 1 | WOP | m | Regel 774 |
-|---|---|---|---|
+3116 1
 
 3108 1
 
@@ -6087,15 +6091,9 @@ Hausnummer der Pa- tientenadresse
 
 4109
 
-4112
+4112 1
 
-| 1 | eEB vorhanden | K | Regel 895 |
-|---|---|---|---|
-
-4133
-
-| 1 | VersicherungsschutzBeginn | m | Regel 775 |
-|---|---|---|---|
+4133 1
 
 4110 1
 
@@ -6111,11 +6109,21 @@ Hausnummer der Pa- tientenadresse
 
 Feldbezeichnung 3 4
 
+PLZ
+
+Wohnsitzlaendercode
+
 Ort
+
+PostfachPLZ
 
 PostfachOrt
 
 Postfach
+
+PostfachWohnsitzlaendercode
+
+WOP
 
 Versichertenart
 
@@ -6127,17 +6135,31 @@ Abrechnungs-VKNR
 
 tenkarte im Quartal
 
+eEB vorhanden
+
+VersicherungsschutzBeginn
+
 VersicherungsschutzEnde
 
 Kostentraegerkennung
 
 Feldart Bedingung
 
+m Regel 479
+
+m Regel 784
+
 K
+
+m Regel 479
 
 K
 
 K
+
+m Regel 784
+
+m Regel 774
 
 M
 
@@ -6148,6 +6170,10 @@ M
 M
 
 cherten- karte ein- gelesen  wurde  Regel 876
+
+K Regel 895
+
+m Regel 775
 
 K
 
@@ -6232,9 +6258,6 @@ Zulassungsnummer  (mobiles Lesegerät)
 
 5005
 
-| 1 | Multiplikator | k | Regel 894 |
-|---|---|---|---|
-
 5006
 
 | 1 | Um-Uhrzeit | k |  |
@@ -6265,6 +6288,8 @@ Leistungstag
 
 GNR 1  Art der Untersuchung
 
+1  Multiplikator
+
 Feldart
 
 M
@@ -6289,11 +6314,15 @@ m
 
 k
 
+k
+
 Bedingung
 
 Regel 877
 
 Regel 886  Regel 887
+
+Regel 894
 
 Erläuterung
 
@@ -6313,9 +6342,6 @@ Gebührennummer,  vgl. Kapitel 4.5.1
 5009
 
 5010
-
-| 1 | Chargennummer | m | Regel 868 |
-|---|---|---|---|
 
 5012
 
@@ -6359,11 +6385,6 @@ Gebührennummer,  vgl. Kapitel 4.5.1
 
 5024
 
-| 1 | GNR-Zusatzkennzeichen für | k |  |
-|---|---|---|---|
-|  | poststationär erbrachte Leistun- |  |  |
-|  | gen |  |  |
-
 5025
 
 5026
@@ -6376,7 +6397,7 @@ Gebührennummer,  vgl. Kapitel 4.5.1
 
 Feldbezeichnung 3 4
 
-n  freier Begründungstext
+n  freier Begründungstext 1  Chargennummer
 
 n Sachkosten-Bezeichnung 1 Name Hersteller/ Lieferant
 
@@ -6396,11 +6417,15 @@ n  Name des Arztes 1  Besuchsort bei Hausbesuchen
 
 1  GO-Nummern-Zusatz
 
-1  Aufnahmedatum
+1  GNR-Zusatzkennzeichen für  poststationär erbrachte Leistun-
+
+gen 1  Aufnahmedatum
 
 Feldart
 
 k
+
+m
 
 m
 
@@ -6426,7 +6451,11 @@ k
 
 k
 
+k
+
 Bedingung
+
+Regel 868
 
 Erläuterung
 
@@ -6442,9 +6471,6 @@ Erläuterung
 **FK** Vorkommen 1 2
 
 5035
-
-| 1 | Seitenlokalisation OPS | k | Regel 706 |
-|---|---|---|---|
 
 5041
 
@@ -6467,13 +6493,7 @@ Erläuterung
 
 5050
 
-| 1 | Hash-String Implantateregister | m | Regel 889 |
-|---|---|---|---|
-
 5051
-
-| 1 | Hash-Wert Implantateregister | m | Regel 890 |
-|---|---|---|---|
 
 5052
 
@@ -6493,9 +6513,15 @@ Erläuterung
 
 Feldbezeichnung 3 4
 
-n  OP-Schlüssel (GSNZ)
+n  OP-Schlüssel 1 Seitenlokalisation OPS
 
-n  Komplikation 1  Mengenangabe KM /AM
+(GSNZ)
+
+n  Komplikation
+
+1 Hash-String Implantateregister 1 Hash-Wert Implantateregister
+
+1  Mengenangabe KM /AM
 
 n Gen-Name
 
@@ -6505,11 +6531,17 @@ Feldart Bedingung
 
 k
 
+k Regel 706
+
 eingriff
 
 k
 
 Regel 894
+
+m Regel 889
+
+m Regel 890
 
 k
 
@@ -6532,18 +6564,11 @@ Die exakte 10-stellige  alphanumerische ID  der Meldebestäti- gung
 
 **FK** Vorkommen 1 2
 
-|  |  |  | Regel 843 |
-|---|---|---|---|
-|  |  |  | Regel 847 |
-|  |  |  | Regel 848 |
-|  |  |  | Regel 854 |
-| 1 | (N)BSNR des Ortes der Leis- | m | Regel 859 |
-
-5098
-
 |  | tungserbringung |  |  |
 |---|---|---|---|
 | 1 | Krankenhaus-IK (im Rahmen der | m | Regel 859 |
+
+5098
 
 5102
 
@@ -6552,11 +6577,6 @@ Die exakte 10-stellige  alphanumerische ID  der Meldebestäti- gung
 | 1 | Lebenslange Arztnummer | m | Regel 837 |
 
 5099
-
-|  | (LANR) des Vertragsarztes/Ver- |  |  |
-|---|---|---|---|
-|  | tragspsychotherapeuten |  |  |
-| 1 | Pseudo-LANR (für Krankenhaus- | m | Regel 837 |
 
 5101
 
@@ -6575,15 +6595,9 @@ Die exakte 10-stellige  alphanumerische ID  der Meldebestäti- gung
 
 6006  n
 
-6008
+6008  n
 
-| n | Diagnosenausnahmetatbestand | m | Regel 491 |
-|---|---|---|---|
-
-3673
-
-| n | Dauerdiagnose (ICD-Code) | m | Regel 486 |
-|---|---|---|---|
+3673 n
 
 3674
 
@@ -6605,7 +6619,9 @@ Feldbezeichnung
 
 Feldart 3 4
 
-ärzte im Rahmen der ASV-Ab- rechnung) des LE
+(LANR) des Vertragsarztes/Ver- tragspsychotherapeuten
+
+1  Pseudo-LANR (für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung) des LE
 
 Diagnosensicherheit
 
@@ -6613,7 +6629,15 @@ Seitenlokalisation
 
 Diagnosenerläuterung
 
+Diagnosenausnahmetatbestand
+
+Dauerdiagnose (ICD-Code)
+
 Bedingung
+
+Regel 843  Regel 847  Regel 848  Regel 854
+
+m Regel 837
 
 Regel 828  Regel 829  Regel 830  Regel 843  Regel 854
 
@@ -6623,6 +6647,10 @@ k
 
 k
 
+m Regel 491
+
+m Regel 486
+
 Erläuterung
 
 vgl. Kapitel 4.5.1
@@ -6631,8 +6659,7 @@ vgl. Kapitel 4.5.1
 
 vgl. Kapitel 4.5.1
 
-vgl. Kapitel 4.5.1
-
+vgl. Kapitel 4.5.1 (N)BSNR des Ortes der Leis-
 
 ---
 
@@ -6671,12 +6698,7 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 
 0103 Software
 
-0105
-
-| KBV-Prüfnummer | 15 -17 | a | 052 |  |
-|---|---|---|---|---|
-|  |  |  | 204 |  |
-|  |  |  | 213 |  |
+0105 KBV-Prüfnummer
 
 0111
 
@@ -6703,6 +6725,10 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 schrittweise Einführung ist abhängig von
 
 a 60
+
+15 -17 a 052
+
+204  213
 
 a 60
 
@@ -6889,12 +6915,7 @@ Feldbezeichnung
 
 3102 Vorname
 
-3103
-
-| Geburtsdatum | 8 | n | 021 |  |
-|---|---|---|---|---|
-|  |  |  | 304 |  |
-|  |  |  | 313 |  |
+3103 Geburtsdatum
 
 3104 Titel
 
@@ -6951,6 +6972,8 @@ Feldbezeichnung
 
 45
 
+8
+
 20
 
 40
@@ -6963,9 +6986,11 @@ a
 
 a
 
-a
+n
 
 a
+
+a 021  304  313
 
 kvx3
 
@@ -7080,14 +7105,9 @@ Feldbezeichnung
 
 3676 Diagnosenerläute- 60
 
-rung Dauerdiag- nose 3677
+rung Dauerdiag- nose 3677 Diagnosenausnah- 60
 
-| Diagnosenausnah- |  60 | a | 491 |  |
-|---|---|---|---|---|
-| metatbestand Dau- |  |  |  |  |
-| erdiagnosen |  |  |  |  |
-
-4101 Quartal
+metatbestand Dau- erdiagnosen 4101 Quartal
 
 5
 
@@ -7111,6 +7131,8 @@ Beispiel 728  729
 L = links  B = beidseitig
 
 a
+
+a 491
 
 n 016 324  480
 
@@ -7139,18 +7161,15 @@ Feldbezeichnung Diagnosensicher- 109 G = gesicherte Diagnose 201  212  763  790
 |---|---|---|---|---|
 |  |  |  |  | tung |
 
-4105
+4105 Ergänzende Infor- mationen zur Ver- mittlungs-/Kontakt-
 
-| Ergänzende Infor- | ≤ 60 | a |  |  |
-|---|---|---|---|---|
-| mationen zur Ver- |  |  |  |  |
-| mittlungs-/Kontakt- |  |  |  |  |
-| art |  |  |  |  |
-| Kostenträger-Ab- | 2 | n | 174 | 00 = Primärabrechnung |
+≤ 60
 
-4106  rechnungsbereich  (KTAB)
+art 4106 Kostenträger-Ab-
 
-410.8
+2
+
+rechnungsbereich  (KTAB) 410.8
 
 | Zulassungsnummer | ≤ 40 | a |  |  |
 |---|---|---|---|---|
@@ -7178,6 +7197,10 @@ der Versicherten- karte im Quartal 4110
 |  |  |  | 895 |  |
 |---|---|---|---|---|
 | Vermittlungscode | 14 | a |  |  |
+
+a
+
+n 174 00 = Primärabrechnung
 
 778 01 = Sozialversicherungsabkommen 779  780  818  827  kvx2
 
@@ -7355,12 +7378,7 @@ Feldbezeichnung 1
 |  |  |  |  | tung |
 | eingeschränkter | 1 | n | 142 | 1 = ja |
 
-4204  Leistungsanspruch  gemäß §16 Abs. 3a  SGB V 4205
-
-| Auftrag |  60 | a | 744 |  |
-|---|---|---|---|---|
-|  |  |  | 746 |  |
-|  |  |  | 755 |  |
+4204  Leistungsanspruch  gemäß §16 Abs. 3a  SGB V 4205 Auftrag
 
 4206
 
@@ -7374,10 +7392,7 @@ Feldbezeichnung 1
 |---|---|---|---|---|
 | Verdachtsdiagnose |  |  |  |  |
 
-4208
-
-| Befund/Medikation |  60 | a | 746 |  |
-|---|---|---|---|---|
+4208 Befund/Medikation
 
 4209
 
@@ -7391,7 +7406,11 @@ Feldbezeichnung 1
 |---|---|---|---|---|
 | IVD-Leistungen |  |  | 900 |  |
 
-4217 (N)BSNR des Erst- veranlassers 9
+4217 (N)BSNR des Erst- veranlassers 60
+
+60
+
+9
 
 4218 (N)BSNR des Über- 9
 
@@ -7412,6 +7431,10 @@ weisers 4219
 |  |  |  |  | tion, Schwangerschaftsabbruch |
 
 4221
+
+a 744 746  755
+
+a 746
 
 n (049) (061)  319  431  820
 
@@ -7562,15 +7585,11 @@ Feldbezeichnung
 | Überweisers |  |  |  |  |
 | Kombinationsbe- | 1 | n | 142 | 1 = ja |
 
-4250
+4250  handlung aus Einzel-  und Gruppenthera-
 
-| handlung aus Einzel- |  |  |  |  |
-|---|---|---|---|---|
-| und Gruppenthera- |  |  |  |  |
-| pie |  |  |  |  |
-| Durchführungsart | 1 | n | 176 | 1 = Alleinige Durchführung mit über- |
+pie 4251 Durchführungsart 1
 
-4251  der Kombinations- behandlung
+der Kombinations- behandlung
 
 4252 Gesamtanzahl be- willigter Therapie- einheiten für den  Versicherten
 
@@ -7606,6 +7625,8 @@ Feldbezeichnung
 ≤ 3
 
 Beispiel
+
+n 176 1 = Alleinige Durchführung mit über-
 
 wiegend Einzeltherapie  2 = Alleinige Durchführung mit über- wiegend Gruppentherapie  3 = Einzeltherapie-Anteil bei Durch- führung durch zwei Psychotherapeu-
 
@@ -7689,10 +7710,7 @@ Feldbezeichnung 1215
 |---|---|---|---|---|
 |  |  |  |  | tung |
 
-5008
-
-| DKM |  3 | n | kvx1 |  |
-|---|---|---|---|---|
+5008 DKM
 
 5009
 
@@ -7700,10 +7718,7 @@ Feldbezeichnung 1215
 |---|---|---|---|---|
 | dungstext |  |  |  |  |
 
-5010
-
-| Chargennummer |  60 | a | 868 |  |
-|---|---|---|---|---|
+5010 Chargennummer
 
 5011
 
@@ -7733,10 +7748,7 @@ Feldbezeichnung 1215
 
 5017
 
-5018
-
-| Zone bei Besuchen | 2 | a | 111 |  |
-|---|---|---|---|---|
+5018 Zone bei Besuchen
 
 5019
 
@@ -7748,14 +7760,7 @@ Feldbezeichnung 1215
 
 5020  tersuchung
 
-5021
-
-| Jahr der letzten | 4 | n | 027 |  |
-|---|---|---|---|---|
-| Krebsfrüherken- |  |  |  |  |
-| nungs-untersuchung |  |  |  |  |
-
-5023
+5021 Jahr der letzten  Krebsfrüherken- nungs-untersuchung 5023
 
 | GO-Nummern-Zu- | 1 | a |  |  |
 |---|---|---|---|---|
@@ -7764,15 +7769,35 @@ Feldbezeichnung 1215
 
 5024  chen für poststatio-
 
+3
+
 60
 
 60
+
+60
+
+2
+
+4
+
+n
+
+n
 
 kvx1
 
+kvx1
+
+a 868
+
 a
 
-a 1 = ja
+a
+
+a 111 027
+
+1 = ja
 
 när erbrachte Leis- tungen 5025 Aufnahmedatum
 
@@ -7827,12 +7852,7 @@ Feldbezeichnung 20191003
 
 5035 OP-Schlüssel
 
-5036
-
-| GNR als Begründung | 5, 6 | a | 042 |  |
-|---|---|---|---|---|
-|  |  |  | 702 |  |
-|  |  |  | 704 |  |
+5036 GNR als Begründung
 
 5037
 
@@ -7842,16 +7862,7 @@ Feldbezeichnung 20191003
 
 5038 Komplikation
 
-5040
-
-| Patientennummer |  8 | a |  |  |
-|---|---|---|---|---|
-| der eDokumenta- |  |  |  |  |
-| tion Hautkrebs- |  |  |  |  |
-| Screening |  |  |  |  |
-| Seitenlokalisation | 1 | a | 110 | R = rechts |
-
-5041
+5040 Patientennummer  der eDokumenta- tion Hautkrebs- Screening 5041
 
 | OPS |  |  | 178 | L = links |
 |---|---|---|---|---|
@@ -7903,9 +7914,17 @@ Feldbezeichnung 20191003
 
 8
 
+5, 6
+
 60
 
+8
+
 a 223 702  703  705
+
+a 042 702  704
+
+a
 
 a 2 = mg  3 = µg
 
@@ -7921,7 +7940,7 @@ R 80
 
 1
 
-Feldbezeichnung
+Feldbezeichnung Seitenlokalisation 110 R = rechts
 
 ---
 
@@ -7993,14 +8012,11 @@ Feldbezeichnung
 
 5101 Pseudo-LANR (für  Krankenhausärzte  im Rahmen der ASV- Abrechnung) des LE
 
-| Krankenhaus-IK (im | 9 | n | 859 |  |
-|---|---|---|---|---|
-| Rahmen der ASV- |  |  |  |  |
-| Abrechnung) |  |  |  |  |
+Krankenhaus-IK (im
 
-5102
+5102  Rahmen der ASV- Abrechnung) 6001 ICD-Code
 
-6001 ICD-Code
+9
 
 9
 
@@ -8023,6 +8039,8 @@ Feldbezeichnung
 837
 
 n 063 837  839
+
+n 859
 
 a 022 486  489
 
@@ -8095,10 +8113,7 @@ Feldbezeichnung 27
 |---|---|---|---|---|
 | ADT-Datenpaket |  |  |  |  |
 
-9204
-
-| Abrechnungsquartal | 5 | n | 016 |  |
-|---|---|---|---|---|
+9204 Abrechnungsquartal 5
 
 9212 Version
 
@@ -8130,7 +8145,9 @@ der Satzbeschrei- bung 9250
 
 Beispiel
 
-94 = Chemnitz  95 = Dresden  96 = Leipzig  99 = Knappschaft 20191001
+94 = Chemnitz  95 = Dresden  96 = Leipzig  99 = Knappschaft
+
+n 016 20191001
 
 22020
 
@@ -8267,13 +8284,9 @@ Feldbezeichnung nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV S
 
 Format
 
-| Format | [a]aaaMMJJ.nn | F |
-|---|---|---|
-| Format | G-alpha[n[n[n[n]]][K-al- | F |
-|  | pha[aerw]]][/Lkz] |  |
-|  | oder |  |
-|  | [G-alpha]n[n[n[n]]][K-al- |  |
-|  | pha[aerw]][/Lkz] |  |
+Format
+
+Format
 
 Prüfung
 
@@ -8283,7 +8296,15 @@ ann, ann.n, ann.nn, ann.n-
 
 JJJJ
 
+[a]aaaMMJJ.nn
+
+G-alpha[n[n[n[n]]][K-al- pha[aerw]]][/Lkz]  oder  [G-alpha]n[n[n[n]]][K-al- pha[aerw]][/Lkz]
+
 Prüfstatus
+
+F
+
+F
 
 F
 
@@ -8351,15 +8372,11 @@ Prüfstatus 042
 
 049
 
-|  | mit |  |
-|---|---|---|
-|  | kk = erlaubter Inhalt ge- |  |
-|  | mäß Regel 162 |  |
-|  | nnnnn = Seriennummer |  |
-|  | mm = [undefiniert] |  |
-| Format | nnnnnnmff | F |
+mit  kk = erlaubter Inhalt ge- mäß Regel 162  nnnnn = Seriennummer  mm = [undefiniert]
 
-050
+050 Format
+
+nnnnnnmff
 
 mit  nnnnnn = ID, wobei „nnn- nnn“ ungleich „555555“
 
@@ -8371,20 +8388,15 @@ a/n[n][n]/JJMM/nn/aaa 053 Format
 
 nnnnnn[n][n][n][n][n][n]
 
-annnnnnnnP 055
+annnnnnnnP 055 Format
 
-| Format | n[n][n].n[n][n].n[n][n] | F |
-|---|---|---|
-| Format | nnnnnnmff | W |
-|  | mit |  |
-|  | nnnnnn = ID, wobei „nnn- |  |
-|  | nnn“ ungleich „555555“ |  |
-|  | sein muss |  |
-|  | m = Prüfziffer |  |
-|  | ff = erlaubter Inhalt ge- |  |
-|  | mäß Anlage 35 des BAR- |  |
+056 Format
 
-056
+n[n][n].n[n][n].n[n][n]
+
+nnnnnnmff
+
+mit  nnnnnn = ID, wobei „nnn- nnn“ ungleich „555555“  sein muss  m = Prüfziffer  ff = erlaubter Inhalt ge- mäß Anlage 35 des BAR-
 
 | Erläuterung |  |  |  |
 |---|---|---|---|
@@ -8412,7 +8424,13 @@ F
 
 F
 
-G-alpha ::= A Verfahren zur Bestimmung der Prüfziffer vgl.  a = [V, X, Y, Z] n = numerisch MM = Monat aaa = alphanumerisch n = numerisch a = A-Z (ohne Umlaute) n = numerisch P = Prüfziffer, numerisch Verfahren zur Bestimmung der Prüfziffer vgl. Erläuterung auf Seite 189 n = numerisch Verfahren zur Bestimmung der Prüfziffer vgl.  F
+F
+
+F
+
+F
+
+G-alpha ::= A Verfahren zur Bestimmung der Prüfziffer vgl.  a = [V, X, Y, Z] n = numerisch MM = Monat aaa = alphanumerisch n = numerisch a = A-Z (ohne Umlaute) n = numerisch P = Prüfziffer, numerisch Verfahren zur Bestimmung der Prüfziffer vgl. Erläuterung auf Seite 189 n = numerisch Verfahren zur Bestimmung der Prüfziffer vgl.  W
 
 
 ---
@@ -8443,20 +8461,9 @@ nnnnnn = eindeutige  Nummer  P = Prüfziffer 060
 
 061
 
-|  | mit |  |
-|---|---|---|
-|  | 35 = Krankenhäuser, die |  |
-|  | Leistungen im Rahmen |  |
-|  | von § 75 Absatz 1a SGB V |  |
-|  | erbringen |  |
-|  | kk = erlaubter Inhalt ge- |  |
-|  | mäß Regel 162 |  |
-|  | nnnnn = Seriennummer |  |
-| Format | 74kknnn63 | F |
+mit  35 = Krankenhäuser, die  Leistungen im Rahmen  von § 75 Absatz 1a SGB V  erbringen  kk = erlaubter Inhalt ge- mäß Regel 162  nnnnn = Seriennummer 062 Format
 
-062
-
-mit  74 = KBV  kk = erlaubter Inhalt ge- mäß Regel 162  nnn = Seriennummer  63 = Kennzeichnung SAPV 063 Format
+74kknnn63  mit  74 = KBV  kk = erlaubter Inhalt ge- mäß Regel 162  nnn = Seriennummer  63 = Kennzeichnung SAPV 063 Format
 
 555555nff  mit  555555= Pseudo-Arzt- nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung  n = Ordnungsnummer  ff = Fachgruppencode ge- mäß der jeweils gültigen  Anlage 2 der Richtlinie der
 
@@ -8484,6 +8491,8 @@ mit  74 = KBV  kk = erlaubter Inhalt ge- mäß Regel 162  nnn = Seriennummer  63
 
 F
 
+F
+
 TT = Tag, MM = Monat, JJJJ = Jahr Verfahren zur Bestimmung der JJJJ = Jahr, MM = Monat, TT = Tag, hh = Stunde, mm = Minute, ss = Sekunde (N)BSNR KH, die Leistungen im Rahmen der Terminservicestelle erbringen (Anlage 28 BMV-Ä) Struktur der BSNR vgl.  (N)BSNR SAPV Struktur der BSNR vgl.  Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 n ::= 0
 
 ---
@@ -8496,17 +8505,9 @@ Prüfung
 
 Prüfstatus
 
-|  | Kassenärztlichen Bundes- |  |
-|---|---|---|
-|  | vereinigung nach § 75 |  |
-|  | Abs. 7 SGB V zur Vergabe |  |
-|  | der Arzt-, Betriebsstätten- |  |
-|  | und Praxisnetznummern |  |
-| Format | 555555nff | W |
+Kassenärztlichen Bundes- vereinigung nach § 75  Abs. 7 SGB V zur Vergabe  der Arzt-, Betriebsstätten-  und Praxisnetznummern 064 Format
 
-064
-
-mit  555555= Pseudo-Arzt- nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung  n = Ordnungsnummer  ff = Fachgruppencode ge- mäß der jeweils gültigen  Anlage 2 der Richtlinie der  Kassenärztlichen Bundes- vereinigung nach § 75  Abs. 7 SGB V zur Vergabe  der Arzt-, Betriebsstätten-  und Praxisnetznummern 106 erlaubter Inhalt 1, 2, 3
+555555nff  mit  555555= Pseudo-Arzt- nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung  n = Ordnungsnummer  ff = Fachgruppencode ge- mäß der jeweils gültigen  Anlage 2 der Richtlinie der  Kassenärztlichen Bundes- vereinigung nach § 75  Abs. 7 SGB V zur Vergabe  der Arzt-, Betriebsstätten-  und Praxisnetznummern 106 erlaubter Inhalt 1, 2, 3
 
 108 erlaubter Inhalt 1, 2, 3, 4, 6
 
@@ -8539,18 +8540,13 @@ mit  555555= Pseudo-Arzt- nummer für Krankenhaus- ärzte im Rahmen der ASV- Abr
 
 149
 
-|  | Erläuterung |  |  |
-|---|---|---|---|
-|  | Pseudo-LANR | für | Krankenhaus- |
-| ärzte | im | Rahmen der | ASV-Ab- |
-|  | rechnung | (ASV-AV | Anlage 3 |
-|  |  | Fachgruppencodierungen) | |
-|  | Wertevorrat: |  |  |
-| n ::= | 01... | 9 |  |
-|  | Wegegeldzonen | |  |
-|  | Abrechnungsgebiet | |  |
-|  | Personenkreis | / | Untersuchungs- |
-|  | kategorie |  |  |
+Erläuterung
+
+W
+
+Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3  Fachgruppencodierungen)
+
+Wertevorrat:  n ::= 0 1 ... 9
 
 F
 
@@ -8562,13 +8558,19 @@ F
 
 F
 
-F
+Wegegeldzonen
 
 F
 
 F
 
-Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 n ::= 0 Personenkreis / Untersuchungs-F
+Abrechnungsgebiet
+
+F
+
+F
+
+Personenkreis / Untersuchungs- kategorie
 
 
 ---
@@ -8583,12 +8585,7 @@ Pseudo-LANR für Krankenhaus- ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anla
 
 162
 
-|  | 28, 31, 37-73, 78-81, 83, |  |
-|---|---|---|
-|  | 85-88, 93-96, 98, 99 |  |
-| erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06, | F |
-
-174
+28, 31, 37-73, 78-81, 83,  85-88, 93-96, 98, 99 174
 
 |  | 07, 08, 09 |  |
 |---|---|---|
@@ -8660,7 +8657,7 @@ Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  in Anbieterstamm
 
 HGNC-Gensymbol (Inhalt FK  5077) in Element /key/@DN
 
-Kategorie OP-Schlüssel (Inhalt FK 5035) in  Element  *../opscode_liste/opscode/@V*
+Kategorie 00, 01, 02, 03, 04, 05, 06, OP-Schlüssel (Inhalt FK 5035) in  Element  *../opscode_liste/opscode/@V*
 
 
 ---
@@ -8681,12 +8678,9 @@ Kategorie OP-Schlüssel (Inhalt FK 5035) in  Element  *../opscode_liste/opscode/
 
 307
 
-|  | 3119 vorhanden sind und |  |
-|---|---|---|
-|  | Inhalt von FK 4239  21, |  |
-|  | 27, 28, muss FK 3006 vor- |  |
-|  | handen sein. |  |
-| Kontext | Feldinhalt von FK 3006 >= | W |
+3119 vorhanden sind und  Inhalt von FK 4239  21,
+
+27, 28, muss FK 3006 vor- handen sein.
 
 308
 
@@ -8702,30 +8696,23 @@ Kategorie OP-Schlüssel (Inhalt FK 5035) in  Element  *../opscode_liste/opscode/
 
 315
 
-|  | ist, dann gilt: |  |
-|---|---|---|
-|  | Leistungsdatum (FK 5000) |  |
-|  |  Versicherungsschutz |  |
-|  | Ende (FK 4110) |  |
-| Kontext | Inhalt Feld 4218 darf nicht | F |
+ist, dann gilt:  Leistungsdatum (FK 5000)  Versicherungsschutz  Ende (FK 4110)
 
-319
+Inhalt Feld 4218 darf nicht 319 Kontext
 
-|  | identisch sein mit Inhalt |  |
-|---|---|---|
-|  | Feld 4217 |  |
-| Kontext | Wenn Feldinhalt von FK | F |
+F
 
-320
+identisch sein mit Inhalt  Feld 4217 320 Kontext
 
-|  | 8000 = 0102, dann gilt: FK |  |
-|---|---|---|
-|  | 4220 muss nur dann vor- |  |
-|  | handen sein, wenn Feldin- |  |
-|  | halt von FK 4239  27, 28 |  |
-| Kontext | Der Inhalt des Feldes 5000 | F |
+Wenn Feldinhalt von FK
 
-324
+F
+
+8000 = 0102, dann gilt: FK  4220 muss nur dann vor- handen sein, wenn Feldin- halt von FK 4239  27, 28 324 Kontext
+
+Der Inhalt des Feldes 5000
+
+F
 
 muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des  Quartals (4101) definiert  ist 328 Kontext
 
@@ -8745,7 +8732,7 @@ F
 | „Laborauftrag | an | Facharzt-La- |
 | bor“ |  |  |
 
-Kategorie Vermeidung von Fehleingaben Vermeidung von Fehleingaben Vermeidung von Fehleingaben Vermeidung von Fehleingaben Erläuterung vgl. Kapitel 3.6.1 Laborauftrag an Facharzt-La-
+Kategorie Feldinhalt von FK 3006 >= W Vermeidung von Fehleingaben Vermeidung von Fehleingaben Vermeidung von Fehleingaben Vermeidung von Fehleingaben Erläuterung vgl. Kapitel 3.6.1 Laborauftrag an Facharzt-La-
 
 ---
 
@@ -8765,69 +8752,69 @@ Kategorie Vermeidung von Fehleingaben Vermeidung von Fehleingaben Vermeidung von
 |---|---|---|
 | Kontext | Wenn Feldinhalt von 8000 | F |
 
-|  | = 0101, dann ist als Inhalt |  |
-|---|---|---|
-|  | von FK 4239 00 erlaubt. |  |
-| Kontext | Wenn Feldinhalt von 4239 | F |
+Kontext
 
-|  | = 30, dann muss das Feld |  |
-|---|---|---|
-|  | 4233 vorhanden sein |  |
-| Kontext | Wenn Inhalt von 8000 = | F |
+Kontext
 
-|  | 0102, dann sind als Inhalte |  |
-|---|---|---|
-|  | von 4239 20, 21, 23, 24, |  |
-|  | 26, 27, 28 erlaubt |  |
-| Kontext | Der Inhalt des Feldes 5000 | F |
+Kontext
 
-|  | (Leistungstag) muss in |  |
-|---|---|---|
-|  | dem Zeitraum liegen, wel- |  |
-|  | cher durch die Angabe in |  |
-|  | Feld 4125 (Gültigkeitszeit- |  |
-|  | raum von ... bis ...) defi- |  |
-|  | niert ist |  |
-| Kontext | Wenn Feldinhalt von FK | F |
+= 0101, dann ist als Inhalt  von FK 4239 00 erlaubt.
 
-404
+Wenn Feldinhalt von 4239
 
-|  | 4239 = 27, 28, dann muss |  |
-|---|---|---|
-|  | das Feld 4221 vorhanden |  |
-|  | sein. |  |
-|  | Feld 4221 darf nicht vor- |  |
-|  | handen sein, wenn Feldin- |  |
-|  | halt von FK 4239 27, 28. |  |
-| Kontext | Wenn der Feldinhalt von | F |
+F
 
-405
+= 30, dann muss das Feld  4233 vorhanden sein
 
-|  | FK 4239 = 27 oder FK 4239 |  |
-|---|---|---|
-|  | = 28 ist, dann muss das |  |
-|  | Feld 4102 vorhanden sein |  |
-| Kontext | Wenn FK 4102 vorhanden | F |
+Wenn Inhalt von 8000 =
 
-406
+F
 
-|  | ist, dann gilt: |  |
-|---|---|---|
-|  | Ausstellungsdatum (FK |  |
-|  | 4102)  Erstellungsdatum |  |
-|  | (FK 9103, SA „con0“) |  |
-| Kontext | Wenn Inhalt von 8000 = | F |
+0102, dann sind als Inhalte  von 4239 20, 21, 23, 24,  26, 27, 28 erlaubt
+
+Der Inhalt des Feldes 5000
+
+F
+
+(Leistungstag) muss in  dem Zeitraum liegen, wel- cher durch die Angabe in  Feld 4125 (Gültigkeitszeit- raum von ... bis ...) defi-
+
+niert ist
+
+Wenn Feldinhalt von FK 404 Kontext
+
+F
+
+4239 = 27, 28, dann muss  das Feld 4221 vorhanden  sein.  Feld 4221 darf nicht vor- handen sein, wenn Feldin- halt von FK 4239 27, 28.
+
+405 Kontext
+
+Wenn der Feldinhalt von
+
+F
+
+FK 4239 = 27 oder FK 4239  = 28 ist, dann muss das  Feld 4102 vorhanden sein 406 Kontext
+
+Wenn FK 4102 vorhanden
+
+F
+
+ist, dann gilt:  Ausstellungsdatum (FK  4102)  Erstellungsdatum (FK 9103, SA „con0“)
 
 426
 
 427
 
-|  | 0103, dann sind als Inhalte |  |
-|---|---|---|
-|  | von 4239 30, 31, 32 er- |  |
-|  | laubt |  |
-| Kontext | Wenn Inhalt von 8000 = | F |
-|  | 0104, dann sind als Inhalte |  |
+Kontext
+
+Kontext
+
+Wenn Inhalt von 8000 =  0103, dann sind als Inhalte  von 4239 30, 31, 32 er- laubt
+
+Wenn Inhalt von 8000 =  0104, dann sind als Inhalte
+
+F
+
+F
 
 | Erläuterung |  |  |
 |---|---|---|
@@ -8851,41 +8838,19 @@ Kategorie Vermeidung von Fehleingaben Ausstellungsdatum ist älter oder gleich d
 
 Prüfung
 
-|  | von 4239 41, 42, 43, 44, |  |
-|---|---|---|
-|  | 45, 46 erlaubt |  |
-| Kontext | Nur wenn FK 4239 = 27, | F |
+von 4239 41, 42, 43, 44,  45, 46 erlaubt 431 Kontext
 
-431
+Nur wenn FK 4239 = 27,  kann entweder FK 4217  oder FK 4225 vorhanden  sein.
 
-|  | kann entweder FK 4217 |  |
-|---|---|---|
-|  | oder FK 4225 vorhanden |  |
-|  | sein. |  |
-| Kontext | Nur wenn FK 4239 = 27 | F |
+432 Kontext
 
-432
+Nur wenn FK 4239 = 27  oder 28, darf FK 4229 vor- handen sein 478 Kontext
 
-|  | oder 28, darf FK 4229 vor- |  |
-|---|---|---|
-|  | handen sein |  |
-| Kontext | Wenn FK 3112 vorhanden | F |
+Wenn FK 3112 vorhanden  ist, dann gilt:  Wenn Inhalt von 4106 =  00 und ist kein  Einlesedatum (FK 4109)  vorhanden, dann muss die  PLZ in FK 3112 in der  SDPLZ vorhanden sein.
 
-478
+479 Kontext
 
-|  | ist, dann gilt: |  |
-|---|---|---|
-|  | Wenn Inhalt von 4106 = |  |
-|  | 00 und ist kein |  |
-|  | Einlesedatum (FK 4109) |  |
-|  | vorhanden, dann muss die |  |
-|  | PLZ in FK 3112 in der |  |
-|  | SDPLZ vorhanden sein. |  |
-| Kontext | Das Feld 3112 und/oder | F |
-
-479
-
-3121 muss (je Satz 0101
+Das Feld 3112 und/oder  3121 muss (je Satz 0101
 
 0104) vorhanden sein.  **Ausnahmen** Nur wenn FK 3114 vor- handen und der Feldinhalt  ungleich „D“ ist, dann gilt:
 
@@ -8898,6 +8863,14 @@ Ist ein Einlesedatum (FK  4109) vorhanden, dann  muss die FK 3121 nicht  vorhand
 Der Inhalt des Feldes 4109  (Einlesedatum) muss in  dem Zeitraum liegen, wel- cher durch die Angabe in  Feld 4101 (Quartal) defi- niert ist.
 
 Prüfstatus
+
+F
+
+F
+
+F
+
+F
 
 W
 
@@ -8916,12 +8889,13 @@ Erläuterung
 
 Erläuterung 486
 
-|  | der 6001 oder 3673 muss |  |
-|---|---|---|
-|  | vorhanden sein. |  |
-| Kontext | Wenn zu dem ICD-Code | W |
+der 6001 oder 3673 muss  vorhanden sein.
 
-489
+489 Kontext
+
+Wenn zu dem ICD-Code
+
+W
 
 SDICD (FK 6001/3673) in der
 
@@ -9008,21 +8982,9 @@ Kategorie und diese Bedingung nicht  mit dem Geschlecht des  Patienten (FK 3110)
 |---|---|---|
 | Kontext | Wenn zu einer Diagnose | F |
 
-|  | (FK 6001 /3673) in der |  |
-|---|---|---|
-|  | SDICD das Element |  |
-|  | „schlüsselnum- |  |
-|  | mer_mit_inhalt_belegt“ |  |
-|  | mit Inhalt „n“ existiert, |  |
-|  | darf diese nicht übertra- |  |
-|  | gen werden |  |
-| Kontext | Wenn Feldinhalt von 4121 | F |
+Kontext
 
-|  | = 3, dann gilt für den In- |  |
-|---|---|---|
-|  | halt des Feldes 5001 Regel |  |
-|  | 035. |  |
-| Kontext | Wenn Feldinhalt von 4121 | F |
+Kontext
 
 erlaubter Inhalt
 
@@ -9030,12 +8992,7 @@ erlaubter Inhalt
 |---|---|---|
 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | F |
 
-|  | 46, (47), (48), (49), (50), |  |
-|---|---|---|
-|  | 51, 52, (55), (60), (61), |  |
-|  | (62), 71, 72, 73, 78, 83, 88, |  |
-|  | 93, 98 |  |
-| erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, | F |
+erlaubter Inhalt
 
 erlaubter Inhalt
 
@@ -9049,9 +9006,25 @@ erlaubter Inhalt
 |---|---|---|
 | Kontext | Wenn FK 4121 ≠ 3: | W |
 
+(FK 6001 /3673) in der  SDICD das Element  „schlüsselnum- mer_mit_inhalt_belegt“  mit Inhalt „n“ existiert,  darf diese nicht übertra- gen werden
+
+Wenn Feldinhalt von 4121
+
+F
+
+= 3, dann gilt für den In- halt des Feldes 5001 Regel 035.
+
+Wenn Feldinhalt von 4121
+
+F
+
 = 0 oder 1 oder 2, dann  gilt für den Inhalt des Fel- des 5001 die Regel 042.
 
 N
+
+F
+
+46, (47), (48), (49), (50),  51, 52, (55), (60), (61),  (62), 71, 72, 73, 78, 83, 88,  93, 98 01-03, 17, 18, 19, 20, 21,
 
 F
 
@@ -9065,20 +9038,17 @@ F
 
 07, 08, 09, 10, 11, 12, 30,  31, 32, 33, 34, 35, 36, 37,  38, 39, 40, 41, 42, 43, 44,  45, 46, 47, 48, 49, 50, 51,  52, 53, 54, 55, 56, 57, 58
 
-|  | Erläuterung |  |  |
-|---|---|---|---|
-| SDICD |  |  |  |
-| WOP |  |  |  |
-| ( ) | fusioniert, |  | teilweise aber |
-| noch | in | Gebrauch | (bspw. KVK- |
-| WOP) |  |  |  |
-|  | Empfänger | der | Abrechnung: |
-|  | UKV-OKV-Kennungen | | zulässiger |
-|  |  | Abrechnungsempfänger | |
-| + | Kennung | für | Knappschaft |
-|  |  | Multiplikator/Anzahl |  |
+Erläuterung
 
-Kategorie ( ) fusioniert, teilweise aber noch in Gebrauch (bspw. KVK- Empfänger der Abrechnung: UKV-OKV-Kennungen zulässiger + Kennung für Knappschaft
+SDICD
+
+WOP  ( ) fusioniert, teilweise aber  noch in Gebrauch (bspw. KVK- WOP)
+
+Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger  Abrechnungsempfänger  + Kennung für Knappschaft
+
+Multiplikator/Anzahl
+
+Kategorie
 
 ---
 
@@ -9088,15 +9058,11 @@ Kategorie ( ) fusioniert, teilweise aber noch in Gebrauch (bspw. KVK- Empfänger
 
 Prüfung
 
-|  | Wenn zu der Ziffer unter |  |
-|---|---|---|
-|  | FK 5001 gemäß SDEBM |  |
-|  | die Zusatzangabe “5034” |  |
-|  | definiert ist, muss FK 5034 |  |
-|  | vorhanden sein. |  |
-| Kontext | Wenn FK 4121 ≠ 3: | W |
+Wenn zu der Ziffer unter  FK 5001 gemäß SDEBM  die Zusatzangabe “5034”  definiert ist, muss FK 5034  vorhanden sein.
 
-702
+702 Kontext
+
+Wenn FK 4121 ≠ 3:
 
 Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei ausschließlich  das XML-Element  ../gnr_zusatzan- gabe/@V=“5035“ bzw.  ../gnr_zusatzan- gabe/@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden ist,  muss mindestens ein Feld  FK 5035 bzw. ein Feld FK  5036 vorhanden sein.  Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei die XML-Ele- mente ../gnr_zusatzan- gabe/@V=“5035“ und  ../gnr_zusatzan- gabe/@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden  sind, muss mindestens  entweder ein Feld FK 5035  oder ein Feld FK 5036 vor- handen sein.
 
@@ -9112,6 +9078,8 @@ Prüfstatus
 
 W
 
+W
+
 Erläuterung
 
 
@@ -9123,13 +9091,11 @@ Erläuterung
 
 Prüfung
 
-|  | dun- |  |
-|---|---|---|
-|  | gen_liste/ops_liste/kate- |  |
-|  | gorie/ops entsprechen. |  |
-| Kontext | Wenn FK 4121 ≠ 3: | W |
+dun- gen_liste/ops_liste/kate- gorie/ops entsprechen.
 
-704
+704 Kontext
+
+Wenn FK 4121 ≠ 3:
 
 Wenn für die GOP in Feld  FK 5001 gemäß Regel 702  mindestens ein Feld FK  5036 vorhanden sein  muss und min. das XML- Element ..* /begruendun-*
 
@@ -9137,43 +9103,25 @@ Wenn für die GOP in Feld  FK 5001 gemäß Regel 702  mindestens ein Feld FK  50
 
 handen ist, dann sollte  mindestens ein Inhalt des  Feldes FK 5036 einem In- halt des Attributs /@V des  XML-Elements ../begruen- dun- gen_liste/gnr_liste/gnr  entsprechen.
 
-705
+705 Kontext
 
-|  | Wenn der Inhalt von FK |  |
-|---|---|---|
-|  | 5035 gemäß SDOPS- |  |
-|  | Stammdatei mit |  |
-|  | “kzseite=J” definiert ist, |  |
-|  | muss zu dieser FK 5035 |  |
-|  | ein Feld FK 5041 existie- |  |
-|  | ren. |  |
-| Kontext | Wenn der Wert der FK | F |
+Wenn FK 4121 ≠ 3:
 
-706
+Wenn der Inhalt von FK  5035 gemäß SDOPS- Stammdatei mit  “kzseite=J” definiert ist,  muss zu dieser FK 5035  ein Feld FK 5041 existie- ren.
 
-|  | 4101 < „12026“ ist, dann |  |
-|---|---|---|
-|  | ist der erlaubte Wertebe- |  |
-|  | reich der FK 5041 gleich |  |
-|  | Regel 110. |  |
-|  | Wenn der Wert der FK |  |
-|  | 4101 >= „12026“ ist, dann |  |
-|  | ist der erlaubte Wertebe- |  |
-|  | reich der FK 5041 gleich |  |
-|  | Regel 178. |  |
-| Kontext | Wenn FK 5042 existiert, | W |
+706 Kontext
 
-707
+Wenn der Wert der FK  4101 < „12026“ ist, dann  ist der erlaubte Wertebe- reich der FK 5041 gleich  Regel 110.  Wenn der Wert der FK  4101 >= „12026“ ist, dann  ist der erlaubte Wertebe- reich der FK 5041 gleich  Regel 178.
 
-|  | darf keine FK 5005 vor- |  |
-|---|---|---|
-|  | handen sein |  |
-| Kontext | Inhalt von FK 5012 ≤ | W |
-|  | 999999 |  |
+707 Kontext
 
-710
+Wenn FK 5042 existiert,  darf keine FK 5005 vor- handen sein 710 Kontext
+
+Inhalt von FK 5012 ≤  999999
 
 Prüfstatus
+
+W
 
 |  | Erläuterung |  |  |
 |---|---|---|---|
@@ -9190,7 +9138,14 @@ Prüfstatus
 | Prüfung | auf | realistische | Sach- |
 | kosten |  |  |  |
 
-Wenn FK 4121 ≠ 3: Für Behandlungsfälle bis ein- schließlich Q4/2025 kann der Wertebereich der Seitenlokali- sation von OPS-Kodes L, R und B Für Behandlungsfälle ab Q1/2026 kann der Wertebe- reich der Seitenlokalisation von OPS-Kodes L und R sein. Kein Multiplikator zulässig Prüfung auf realistische Sach-
+W
+
+F
+
+W
+
+Für Behandlungsfälle bis ein- schließlich Q4/2025 kann der Wertebereich der Seitenlokali- sation von OPS-Kodes L, R und B Für Behandlungsfälle ab Q1/2026 kann der Wertebe- reich der Seitenlokalisation von OPS-Kodes L und R sein. Kein Multiplikator zulässig Prüfung auf realistische Sach-W
+
 
 ---
 
@@ -9204,49 +9159,35 @@ Wenn FK 4121 ≠ 3: Für Behandlungsfälle bis ein- schließlich Q4/2025 kann de
 
 715
 
-|  | 28: Der Wert in FK 5099 |  |
-|---|---|---|
-|  | muss mit einem der |  |
-|  | Werte aus FK 0212 (SA |  |
-|  | „besa“) übereinstimmen, |  |
-|  | sofern der Wert in FK |  |
-|  | 5099 ungleich |  |
-|  | „999999900“ (Inhalt von |  |
-|  | FK 4101 = FK 9204 (adt0)) |  |
-| Kontext | Wenn Inhalt von 4239 ≠ | F |
+28: Der Wert in FK 5099  muss mit einem der  Werte aus FK 0212 (SA  „besa“) übereinstimmen,  sofern der Wert in FK  5099 ungleich  „999999900“ (Inhalt von  FK 4101 = FK 9204 (adt0)) 716 Kontext
 
-716
+Wenn Inhalt von 4239 ≠
 
-|  | 28: |  |
-|---|---|---|
-|  | Der Wert in FK 5098 muss |  |
-|  | mit einem der Werte aus |  |
-|  | FK 0201 (SA „besa“) über- |  |
-|  | einstimmen, sofern kein |  |
-|  | Vorquartalsfall vorliegt |  |
-|  | (Inhalt von FK 4101 = FK |  |
-|  | 9204 (adt0)). |  |
-| Kontext | Wenn FK 4239 = 28 und | F |
+F
 
-720
+28:  Der Wert in FK 5098 muss  mit einem der Werte aus  FK 0201 (SA „besa“) über- einstimmen, sofern kein  Vorquartalsfall vorliegt  (Inhalt von FK 4101 = FK  9204 (adt0)).
 
-|  | wenn Feld 4218 vorhan- |  |
-|---|---|---|
-|  | den ist, dann müssen die |  |
-|  | Inhalte von FK 4218 und |  |
-|  | 5098 identisch sein. |  |
-| Kontext | Wenn FK 4239 = 28 und | F |
+720 Kontext
 
-721
+Wenn FK 4239 = 28 und
 
-|  | wenn Feld 4242 vorhan- |  |
-|---|---|---|
-|  | den ist, dann müssen die |  |
-|  | Inhalte von FK 4242 und |  |
-|  | 5099 identisch sein. |  |
-| Kontext | Wenn Inhalt von 4239 = | W |
+F
 
-723
+wenn Feld 4218 vorhan- den ist, dann müssen die  Inhalte von FK 4218 und  5098 identisch sein.
+
+721 Kontext
+
+Wenn FK 4239 = 28 und
+
+F
+
+wenn Feld 4242 vorhan- den ist, dann müssen die  Inhalte von FK 4242 und  5099 identisch sein.
+
+723 Kontext
+
+Wenn Inhalt von 4239 =
+
+W
 
 28: Der Wert in FK 5099  muss mit einem der  Werte aus FK 0212 (SA  „besa“) übereinstimmen,  sofern der Wert in FK  5099 ungleich  „999999900“
 
@@ -9286,15 +9227,7 @@ Kategorie Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen (analog Regel
 
 725
 
-|  | = 28, dann gilt für den In- | 056 |
-|---|---|---|
-|  | halt des Feldes 5099 die |  |
-|  | Formatregel 056. |  |
-|  | Wenn Inhalt von FK 4239 |  |
-|  | ≠ 28, dann gilt für den In- |  |
-|  | halt des Feldes 5099 die |  |
-|  | Formatregel 050. |  |
-| Kontext | Der Inhalt von FK | F |
+= 28, dann gilt für den In- halt des Feldes 5099 die  Formatregel 056.  Wenn Inhalt von FK 4239 056
 
 | Erläuterung |  |  |
 |---|---|---|
@@ -9307,18 +9240,27 @@ Kategorie Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen (analog Regel
 |  | nenkennziffer bei | dem bundes- |
 | weiten | SKT | Bundeswehr |
 
-728
+≠ 28, dann gilt für den In- halt des Feldes 5099 die  Formatregel 050.
 
-|  | 6001/3673 muss als Ele- |  |
-|---|---|---|
-|  | ment „*icd_code*“ und dem |  |
-|  | Kindelement „*abrechen-* |  |
-|  | *bar*“ mit dem Inhalt V=“j“ |  |
-|  | in der SDICD vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn zu einer Diagnose | F |
+728 Kontext
 
-729
+Der Inhalt von FK
+
+F
+
+6001/3673 muss als Ele- ment „*icd_code*“ und dem
+
+Kindelement „*abrechen-*
+
+*bar*“ mit dem Inhalt V=“j“  in der SDICD vorhanden
+
+sein.
+
+729 Kontext
+
+Wenn zu einer Diagnose
+
+F
 
 (FK 6001 /3673) das Ele- ment „*notationskennzei-*
 
@@ -9328,18 +9270,13 @@ Kategorie Prüfung gegen Besa-Satz bei ak- tuellen Quartalsfällen (analog Regel
 
 oder wenn vorhanden,  mit Inhalt „+“ (=Primär- code) vorhanden sein.
 
-|  | 0101, 0102, 0103, 0104 |  |
-|---|---|---|
-|  | und der Kostenträger der |  |
-|  | KT-Gruppe 75 entspricht |  |
-|  | (Element /kostentraeger- |  |
-|  | gruppe (kts)), dann muss |  |
-|  | der Inhalt des Feldes 4124 |  |
-|  | dem Format „TTMMJJann- |  |
-|  | nnn“ entsprechen. |  |
-| Kontext | Der Inhalt von FK 9261 | F |
+Wenn FK 8000 mit Inhalt 734 Kontext
 
-734
+W
+
+0101, 0102, 0103, 0104  und der Kostenträger der  KT-Gruppe 75 entspricht
+
+(Element /kostentraeger- gruppe (kts)), dann muss  der Inhalt des Feldes 4124  dem Format „TTMMJJann-
 
 738
 
@@ -9347,18 +9284,32 @@ oder wenn vorhanden,  mit Inhalt „+“ (=Primär- code) vorhanden sein.
 
 746
 
-|  | muss <= dem Inhalt von |  |
-|---|---|---|
-|  | FK 9260 sein. |  |
-| Kontext | Wenn Feldinhalt von 4239 | F |
+Kontext
 
-|  | = 21, dann muss das Feld |  |
-|---|---|---|
-|  | 4205 vorhanden sein. |  |
-| Kontext | Wenn Feldinhalt von 4239 | F |
-|  | = 31, dann muss das Feld |  |
+Kontext
 
-Kategorie Wenn FK 8000 mit Inhalt W Berücksichtigt Erfassungsfehler bei SUG 28, wenn aus Überwei- ser-LANR stammend Plausibilitätsprüfung der Perso- nenkennziffer bei dem bundes- weiten SKT Bundeswehr
+Kontext
+
+nnn“ entsprechen.
+
+Der Inhalt von FK 9261
+
+F
+
+muss <= dem Inhalt von  FK 9260 sein.
+
+Wenn Feldinhalt von 4239
+
+F
+
+= 21, dann muss das Feld  4205 vorhanden sein.
+
+Wenn Feldinhalt von 4239
+
+F
+
+Kategorie Berücksichtigt Erfassungsfehler bei SUG 28, wenn aus Überwei- ser-LANR stammend Plausibilitätsprüfung der Perso- nenkennziffer bei dem bundes- weiten SKT Bundeswehr = 31, dann muss das Feld
+
 
 ---
 
@@ -9370,14 +9321,13 @@ Prüfung
 
 Prüfstatus
 
-|  | 4218 und mindestens ei- |  |
-|---|---|---|
-|  | nes der Felder 4205, 4207 |  |
-|  | oder 4208 vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | W |
+4218 und mindestens ei- nes der Felder 4205, 4207  oder 4208 vorhanden  sein.
 
-749
+749 Kontext
+
+Wenn der Inhalt des Fel-
+
+W
 
 des 5001 dem Inhalt des  Attributs* /@gop* eines Ele-
 
@@ -9389,21 +9339,27 @@ ments */key* mit Feld 0305
 
 = „1“ oder „2“ vorhanden  sein.
 
-754
+754 Kontext
 
-|  | = 28, dann muss Inhalt |  |
-|---|---|---|
-|  | von 4221 ungleich 3 sein. |  |
-| Kontext | Wenn Feldinhalt von 4239 | F |
+Wenn Feldinhalt von 4239
 
-755
+F
 
-|  | = 27, dann muss das Feld |  |
-|---|---|---|
-|  | 4205 vorhanden sein. |  |
-| Kontext | Wenn Feldinhalt von 4239 | W |
+= 28, dann muss Inhalt  von 4221 ungleich 3 sein.
 
-756
+755 Kontext
+
+Wenn Feldinhalt von 4239
+
+F
+
+= 27, dann muss das Feld  4205 vorhanden sein.
+
+756 Kontext
+
+Wenn Feldinhalt von 4239
+
+W
 
 = 28, dann kann das Feld  4209 vorhanden sein.  Ansonsten darf es nicht  vorhanden sein.
 
@@ -9448,62 +9404,53 @@ Prüfung
 
 Prüfstatus
 
-|  | Der Inhalt von Element |  |
-|---|---|---|
-|  | „*altersbezug_fehlerart*“ ist |  |
-|  | „k“. |  |
-|  | *) das Höchstalter wird |  |
-|  | prüfmodulseitig zu Quar- |  |
-|  | talsbeginn und Mindestal- |  |
-|  | ter zu Quartalsende be- |  |
-|  | rechnet |  |
-| Kontext | Der (Ersatz-)wert | F |
+Der Inhalt von Element  *altersbezug_fehlerart*“ ist
 
-762
+„k“.  das Höchstalter wird  prüfmodulseitig zu Quar- talsbeginn und Mindestal- ter zu Quartalsende be- rechnet 762 Kontext
 
-|  | „888888800“ ist obsolet |  |
-|---|---|---|
-|  | und als Feldinhalt von FK |  |
-|  | 0212, 4241, 4242, 5099 |  |
-|  | und 4299 unzulässig. |  |
-| Kontext | Der, aus dem Inhalt der | W |
+Der (Ersatz-)wert
 
-763
+F
+
+„888888800“ ist obsolet  und als Feldinhalt von FK  0212, 4241, 4242, 5099  und 4299 unzulässig.
+
+763 Kontext
+
+Der, aus dem Inhalt der
+
+W
 
 Stellen 1-2 der FK 0201  abgeleitete, KV-Bereich  darf nicht dem Inhalt des  Attributs@V des Elements  /kostentrae- ger/unz_kv_geltungsbe- reich_liste/unz_kv_gel- tungsbereich der Kosten- trägerstammdatei (SDKT)  entsprechen.
 
-770
+770 Kontext
 
-|  | = 11511[G-alpha], |  |
-|---|---|---|
-|  | 11512[G-alpha], 11516[G- |  |
-|  | alpha], 11517[G-alpha], |  |
-|  | 11518[G-alpha] oder |  |
-|  | 11521[G-alpha], dann |  |
-|  | müssen die Felder 5077 |  |
-|  | und 5079 genau einmal |  |
-|  | vorhanden sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | F |
+Wenn Feldinhalt von 5001
 
-774
+W
 
-|  | des 3006 > = 5.2.0, dann |  |
-|---|---|---|
-|  | muss das Feld 3116 vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn FK 4109 und FK | F |
+= 11511[G-alpha],  11512[G-alpha], 11516[G- alpha], 11517[G-alpha],  11518[G-alpha] oder  11521[G-alpha], dann  müssen die Felder 5077  und 5079 genau einmal  vorhanden sein.
 
-775
+774 Kontext
 
-|  | 3006 vorhanden sind, |  |
-|---|---|---|
-|  | dann muss das Feld 4133 |  |
-|  | vorhanden sein. |  |
-| Kontext | Falls FK 4109 vorhanden | 776 |
-|  | ist und der Inhalt der Stel- |  |
-|  | len 3 - 5 des Feldes 4104 < |  |
+Wenn der Inhalt des Fel-
 
-776
+F
+
+des 3006 > = 5.2.0, dann  muss das Feld 3116 vor- handen sein.
+
+775 Kontext
+
+Wenn FK 4109 und FK
+
+F
+
+3006 vorhanden sind,  dann muss das Feld 4133  vorhanden sein.
+
+776 Kontext
+
+Falls FK 4109 vorhanden 776
+
+ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 <
 
 |  | Erläuterung |  |  |
 |---|---|---|---|
@@ -9519,7 +9466,7 @@ Stellen 1-2 der FK 0201  abgeleitete, KV-Bereich  darf nicht dem Inhalt des  Att
 | mit |  | Buchstabensuffix |  |
 |  | Kontext |  |  |
 
-Wenn Feldinhalt von 5001 Prüfung gegen Kostenträger- (vgl. Anforderungskatalog KVDT, P2-265) G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei den genannten GOPen mit Buchstabensuffix
+Prüfung gegen Kostenträger- (vgl. Anforderungskatalog KVDT, P2-265) G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei den genannten GOPen mit Buchstabensuffix
 
 ---
 
@@ -9531,76 +9478,65 @@ Prüfung
 
 Prüfstatus
 
-|  | 800, dann muss das Feld |  |
-|---|---|---|
-|  | 3119 vorhanden sein. |  |
-|  | Falls FK 4109 vorhanden |  |
-|  | ist und der Inhalt der Stel- |  |
-|  | len 3 - 5 des Feldes 4104 |  |
-|  | >= 800, dann muss entwe- |  |
-|  | der das Feld 3105 oder |  |
-|  | 3119 vorhanden sein. |  |
-| Kontext | Falls FK 4109 vorhanden | F |
+800, dann muss das Feld  3119 vorhanden sein.  Falls FK 4109 vorhanden  ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104  >= 800, dann muss entwe- der das Feld 3105 oder  3119 vorhanden sein.
 
-777
+777 Kontext
 
-|  | ist und Feldinhalt von FK |  |
-|---|---|---|
-|  | 4239  21, 27, 28, muss |  |
-|  | das Feld 4134 vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn Feldinhalt von FK | F |
+Falls FK 4109 vorhanden
 
-778
+F
 
-|  | 4131 ="07” oder "08", |  |
-|---|---|---|
-|  | dann muss Feldinhalt von |  |
-|  | FK 4106 = "01" oder „09“ |  |
-|  | sein. |  |
-| Kontext | Wenn Feldinhalt von FK | F |
+ist und Feldinhalt von FK  4239  21, 27, 28, muss
 
-779
+das Feld 4134 vorhanden  sein.
 
-|  | 4131 ="06”, dann muss |  |
-|---|---|---|
-|  | Feldinhalt von FK 4106 = |  |
-|  | "02" oder „09“ sein. |  |
-| Kontext | Wenn Feldinhalt von FK | F |
+778 Kontext
 
-780
+Wenn Feldinhalt von FK
 
-|  | 4131 ="04”, dann muss |  |
-|---|---|---|
-|  | Feldinhalt von FK 4106 = |  |
-|  | "00" oder „09“ sein. |  |
-| Kontext | Wenn FK 3121 vorhanden | F |
+F 4131 ="07” oder "08",
 
-783
+dann muss Feldinhalt von  FK 4106 = "01" oder „09“  sein.
 
-|  | ist, dann gilt: |  |
-|---|---|---|
-|  | Wenn Inhalt von FK 4106 |  |
-|  | = 00 und ist kein |  |
-|  | Einlesedatum (FK 4109) |  |
-|  | vorhanden, dann muss die |  |
-|  | PLZ in FK 3121 in der |  |
-|  | SDPLZ vorhanden sein. |  |
-| Kontext | Wenn FK 4109 und FK | F |
+779 Kontext
 
-784
+Wenn Feldinhalt von FK
 
-|  | 3006 vorhanden sind, |  |
-|---|---|---|
-|  | muss das Feld 3114 |  |
-|  | und/oder Feld 3124 vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn Feld 5100 vorhan- | W |
-|  | den ist, dann gilt: |  |
-|  | Der Wert in FK 5100 muss |  |
-|  | mit einem der Werte aus |  |
+F
 
-789
+4131 ="06”, dann muss  Feldinhalt von FK 4106 =  "02" oder „09“ sein.
+
+780 Kontext
+
+Wenn Feldinhalt von FK
+
+F
+
+4131 ="04”, dann muss  Feldinhalt von FK 4106 =  "00" oder „09“ sein.
+
+783 Kontext
+
+Wenn FK 3121 vorhanden
+
+F
+
+ist, dann gilt:  Wenn Inhalt von FK 4106  = 00 und ist kein  Einlesedatum (FK 4109)  vorhanden, dann muss die  PLZ in FK 3121 in der  SDPLZ vorhanden sein.
+
+784 Kontext
+
+Wenn FK 4109 und FK
+
+F
+
+3006 vorhanden sind,  muss das Feld 3114  und/oder Feld 3124 vor- handen sein.
+
+789 Kontext
+
+Wenn Feld 5100 vorhan-
+
+W
+
+den ist, dann gilt:  Der Wert in FK 5100 muss  mit einem der Werte aus
 
 |  | Erläuterung |  |  |
 |---|---|---|---|
@@ -9624,72 +9560,55 @@ Prüfung
 
 Prüfstatus
 
-|  | FK 0222 (SA „besa“) über- |  |
-|---|---|---|
-|  | einstimmen, sofern kein |  |
-|  | Vorquartalsfall vorliegt |  |
-|  | (Inhalt von FK 4101 = FK |  |
-|  | 9204 (adt0)) |  |
-| Kontext | Wenn FK 4109 vorhanden | F |
+FK 0222 (SA „besa“) über- einstimmen, sofern kein  Vorquartalsfall vorliegt  (Inhalt von FK 4101 = FK  9204 (adt0)) 790 Kontext
 
-790
+Wenn FK 4109 vorhanden  ist und FK 3006 nicht vor- handen, dann muss der In- halt der Stellen 3 - 5 der  FK 4104 >= 800 sein.
 
-|  | ist und FK 3006 nicht vor- |  |
-|---|---|---|
-|  | handen, dann muss der In- |  |
-|  | halt der Stellen 3 - 5 der |  |
-|  | FK 4104 >= 800 sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | W |
+813 Kontext
 
-813
+Wenn der Inhalt des Fel- des 8000 = adt0 ist, dann  muss der Inhalt des Feldes  9212 der aktuellen Versi- onsangabe entsprechen.
 
-|  | des 8000 = adt0 ist, dann |  |
-|---|---|---|
-|  | muss der Inhalt des Feldes |  |
-|  | 9212 der aktuellen Versi- |  |
-|  | onsangabe entsprechen. |  |
-| Kontext | Wenn Feldinhalt von 5001 | W |
+816 Kontext
 
-816
+Wenn Feldinhalt von 5001  = 11233[G-alpha], dann  muss das Feld 5079 vor- handen sein.  Zusätzlich gilt:  Die Felder 5077 und 5078  dürfen nicht vorhanden  sein.
 
-|  | = 11233[G-alpha], dann |  |
-|---|---|---|
-|  | muss das Feld 5079 vor- |  |
-|  | handen sein. |  |
-|  | Zusätzlich gilt: |  |
-|  | Die Felder 5077 und 5078 |  |
-|  | dürfen nicht vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn zu einem ICD-Code | W |
+817 Kontext
 
-817
-
-(Feldinhalt FK 6001 bzw.  3673) in der SDICD das  Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge- schlechtsbezug_fehlerart“  = „k“ ist und kein Feld  6008 / 3677 vorhanden  ist, dann muss das Ge- schlecht in FK 3110 (so- fern 3110  U, X, D) zu der
+Wenn zu einem ICD-Code  (Feldinhalt FK 6001 bzw.  3673) in der SDICD das  Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge- schlechtsbezug_fehlerart“  = „k“ ist und kein Feld  6008 / 3677 vorhanden  ist, dann muss das Ge- schlecht in FK 3110 (so- fern 3110  U, X, D) zu der
 
 Angabe unter Element  „geschlechtsbezug“  (SDICD) passen.
 
-|  | 4131 ="09”, dann soll Fel- |  |
-|---|---|---|
-|  | dinhalt von FK 4106 = "00" |  |
-|  | oder „09“ sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | siehe Regel |
-|  | des 8000 = 0102 und | 049 |
+Wenn Feldinhalt von FK 818 Kontext
 
-818
+4131 ="09”, dann soll Fel- dinhalt von FK 4106 = "00"  oder „09“ sein.
 
-820
+820 Kontext
+
+Wenn der Inhalt des Fel-
+
+siehe Regel
+
+des 8000 = 0102 und 049
 
 Erläuterung
 
+F
+
 KVK ab 01.01.2015 nur zulässig  bei „originären“ SKT
+
+W
+
+W
 
 G-alpha ::= A B ... Z
 
 [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
 
+W
+
 Stimmt das Geschlecht des Pati- enten nicht mit der Angabe im  Element „geschlechtsbezug“  überein, ist vom PVS darauf hin- zuweisen (vgl.  KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)   SDICD
 
-Wenn Feldinhalt von FK (N)BSNR des Erstveranlassers
+W (N)BSNR des Erstveranlassers
 
 
 ---
@@ -9700,47 +9619,33 @@ Wenn Feldinhalt von FK (N)BSNR des Erstveranlassers
 
 Prüfung
 
-|  | wenn Feld 4217 vorhan- | 061 |
-|---|---|---|
-|  | den ist und der Inhalt der |  |
-|  | Stellen 1-2 des Feldes |  |
-|  | 4217 = 35, dann gilt für |  |
-|  | den Inhalt des Feldes 4217 |  |
-|  | die Formatregel 061. |  |
-|  | Wenn Inhalt des Feldes |  |
-|  | 8000 = 0102 und wenn |  |
-|  | Feld 4217 vorhanden ist |  |
-|  | und der Inhalt der Stellen |  |
-|  | 1-2 des Feldes 4217 ≠ 35, |  |
-|  | dann gilt für den Inhalt |  |
-|  | des Feldes 4217 die For- |  |
-|  | matregel 049. |  |
-| Kontext | Wenn der Inhalt des Fel- | siehe Regel |
+wenn Feld 4217 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4217 = 35, dann gilt für  den Inhalt des Feldes 4217  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4217 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4217 ≠ 35,  dann gilt für den Inhalt  des Feldes 4217 die For- matregel 049.
 
-821
+821 Kontext
 
-des 8000 = 0102 und  wenn Feld 4218 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4218 = 35, dann gilt für  den Inhalt des Feldes 4218  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 ≠ 35  und ≠ 77, dann gilt für den  Inhalt des Feldes 4218 die  Formatregel 049.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 = 77,  dann gilt für den Inhalt  des Feldes 4218 gleich  777777700.
+Wenn der Inhalt des Fel- des 8000 = 0102 und  wenn Feld 4218 vorhan- den ist und der Inhalt der  Stellen 1-2 des Feldes  4218 = 35, dann gilt für  den Inhalt des Feldes 4218  die Formatregel 061.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 ≠ 35  und ≠ 77, dann gilt für den  Inhalt des Feldes 4218 die  Formatregel 049.  Wenn Inhalt des Feldes  8000 = 0102 und wenn  Feld 4218 vorhanden ist  und der Inhalt der Stellen  1-2 des Feldes 4218 = 77,  dann gilt für den Inhalt  des Feldes 4218 gleich  777777700.
 
-822
+822 Kontext
 
-|  | 8000 = 0103 und wenn | 049 |
-|---|---|---|
-|  | Feld 4218 vorhanden ist, |  |
-|  | dann gilt für den Inhalt |  |
-|  | des Feldes 4218 die For- |  |
-|  | matregel 049. |  |
-| Kontext | Wenn der Inhalt der Stel- | siehe Regel 049 |
-|  | len 1-2 des Feldes 5098 = | 061 |
+Wenn Inhalt des Feldes  8000 = 0103 und wenn  Feld 4218 vorhanden ist,  dann gilt für den Inhalt  des Feldes 4218 die For- matregel 049.
 
-823
+823 Kontext
 
-Prüfstatus 049  061
+Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 =
+
+Prüfstatus 061
+
+siehe Regel  049  061
+
+siehe Regel  049
+
+siehe Regel 049 061
 
 Erläuterung (N)BSNR des Überweisers
 
 (N)BSNR des Überweisers
 
-Wenn Inhalt des Feldes (N)BSNR des Ortes der Leis- tungserbringung
+(N)BSNR des Ortes der Leis- tungserbringung
 
 
 ---
@@ -9751,50 +9656,23 @@ Wenn Inhalt des Feldes (N)BSNR des Ortes der Leis- tungserbringung
 
 Prüfung
 
-Prüfstatus
+Prüfstatus 062
 
-|  | 35, dann gilt für den Inhalt | 062 |
-|---|---|---|
-|  | des Feldes 5098 die For- |  |
-|  | matregel 061. |  |
-|  | Wenn der Inhalt der Stel- |  |
-|  | len 1-2 des Feldes 5098 = |  |
-|  | 74, dann gilt für den Inhalt |  |
-|  | des Feldes 5098 die For- |  |
-|  | matregel 062. |  |
-|  | Wenn der Inhalt der Stel- |  |
-|  | len 1-2 des Feldes 5098 ≠ |  |
-|  | 35 und ≠ 74, dann gilt für |  |
-|  | den Inhalt des Feldes 5098 |  |
-|  | die Formatregel 049. |  |
-| Kontext | Falls Feld 4109 vorhanden | W |
+35, dann gilt für den Inhalt  des Feldes 5098 die For- matregel 061.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 =  74, dann gilt für den Inhalt  des Feldes 5098 die For- matregel 062.  Wenn der Inhalt der Stel- len 1-2 des Feldes 5098 ≠
 
-827
+35 und ≠ 74, dann gilt für  den Inhalt des Feldes 5098  die Formatregel 049.
 
-|  | ist und Feld 4131 = 00, |  |
-|---|---|---|
-|  | dann muss der Feldinhalt |  |
-|  | von Feld 4106 = 00 oder |  |
-|  | 09 sein. |  |
-| Kontext | Wenn Feldinhalt des Fel- | W |
+827 Kontext
 
-828
+Falls Feld 4109 vorhanden  ist und Feld 4131 = 00,  dann muss der Feldinhalt  von Feld 4106 = 00 oder  09 sein.
 
-|  | des 5001 = 11302[G-al- |  |
-|---|---|---|
-|  | pha], 11303[G-alpha] oder |  |
-|  | 19402[G-alpha], dann |  |
-|  | muss mindestens ein Feld |  |
-|  | 6001 mit einem Inhalt un- |  |
-|  | gleich „Z01.7“ vorhanden |  |
-|  | sein und die Felder 5077 |  |
-|  | und 5079 dürfen nicht |  |
-|  | übertragen werden. |  |
-| Kontext | Wenn Feldinhalt von Feld | W |
+828 Kontext
 
-829
+Wenn Feldinhalt des Fel- des 5001 = 11302[G-al- pha], 11303[G-alpha] oder  19402[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
 
-5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann  muss das Feld 5077 genau  einmal je Feld 5001 vor- handen sein **und** es muss
+829 Kontext
+
+Wenn Feldinhalt von Feld  5001 = 19421[G-alpha],  19451[G-alpha] oder  19452[G-alpha], dann  muss das Feld 5077 genau  einmal je Feld 5001 vor- handen sein **und** es muss
 
 mindestens ein Feld 6001  mit einem Inhalt ungleich  „Z01.7“ vorhanden sein.
 
@@ -9824,6 +9702,12 @@ es muss mindestens ein
 | auch bei | der genannten | GOP |
 | mit | Buchstabensuffix |  |
 
+W
+
+W
+
+W
+
 G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix W
 
 
@@ -9837,45 +9721,23 @@ Prüfung
 
 Prüfstatus
 
-|  | Feld 6001 mit einem In- |  |
-|---|---|---|
-|  | halt ungleich „Z01.7“ vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn der Feldinhalt des | W |
+Feld 6001 mit einem In- halt ungleich „Z01.7“ vor- handen sein.
 
-834
+834 Kontext
 
-|  | Feldes 5001 = 11522[G-al- |  |
-|---|---|---|
-|  | pha] oder 11513[G-alpha], |  |
-|  | müssen die Felder FK 5077 |  |
-|  | und FK 5079 mindestens |  |
-|  | einmal je Feld 5001 vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | F |
+Wenn der Feldinhalt des  Feldes 5001 = 11522[G-al- pha] oder 11513[G-alpha],  müssen die Felder FK 5077  und FK 5079 mindestens  einmal je Feld 5001 vor- handen sein.
 
-837
+837 Kontext
 
-|  | des 8000 = 0101, 0102 |  |
-|---|---|---|
-|  | oder 0104, dann gilt: |  |
-|  | Es muss entweder das |  |
-|  | Feld 5099 oder das Feld |  |
-|  | 5101 vorhanden sein. |  |
-| Kontext | Wenn Feld 4239 = 28 und | I |
+Wenn der Inhalt des Fel- des 8000 = 0101, 0102  oder 0104, dann gilt:  Es muss entweder das  Feld 5099 oder das Feld  5101 vorhanden sein.
 
-838
+838 Kontext
 
-|  | wenn Feld 4226 vorhan- |  |
-|---|---|---|
-|  | den ist, dann müssen die |  |
-|  | Inhalte der Felder 4226 |  |
-|  | und 5100 identisch sein. |  |
-| Kontext | Wenn Feld 5101 vorhan- | I |
+Wenn Feld 4239 = 28 und  wenn Feld 4226 vorhan- den ist, dann müssen die  Inhalte der Felder 4226  und 5100 identisch sein.
 
-839
+839 Kontext
 
-den ist, dann gilt:  der Wert in Feld 5101  muss mit einem der  Werte aus Feld 0223 (SA  „besa“) übereinstimmen,  sofern kein Vorquartalsfall  vorliegt (Inhalt von Feld  4101 = Feld 9204 (adt0)).
+Wenn Feld 5101 vorhan- den ist, dann gilt:  der Wert in Feld 5101  muss mit einem der  Werte aus Feld 0223 (SA  „besa“) übereinstimmen,  sofern kein Vorquartalsfall  vorliegt (Inhalt von Feld  4101 = Feld 9204 (adt0)).
 
 840 Kontext
 
@@ -9895,11 +9757,19 @@ entsprechen
 
 Erläuterung
 
+W
+
 G-alpha ::= A B ... Z
 
 [ ] - optional  Dokumentationspflicht besteht  auch bei der genannten GOP  mit Buchstabensuffix
 
+F
+
+I
+
 „Einweisender Arzt“ ist auch  „durchführender“ Arzt
+
+I
 
 Prüfung gegen besa-Satz bei ak- tuellen Quartalsfällen
 
@@ -9928,18 +9798,13 @@ enkombination
 
 des 5001 = 32901[G-al- pha], 32902[G-alpha],  32904[G-alpha], 32906[G- alpha], 32908[G-alpha],  32910[G-alpha] oder  32911[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden  sein und die Felder 5077  und 5079 dürfen nicht  übertragen werden.
 
-844
+844 Kontext
 
-|  | handen ist, dann muss |  |
-|---|---|---|
-|  | entweder ein Feld 4241 |  |
-|  | oder ein Feld 4248 vor- |  |
-|  | handen sein. |  |
-| Kontext | Wenn Feldinhalt von 4239 | W |
+Wenn ein Feld 4225 vor- handen ist, dann muss  entweder ein Feld 4241  oder ein Feld 4248 vor- handen sein.
 
-845
+845 Kontext
 
-≠ 28 und wenn ein Feld  4226 vorhanden ist, dann  muss entweder ein Feld  4242 oder ein Feld 4249  vorhanden sein.  Wenn Feldinhalt von 4239  = 28 und wenn ein Feld  4226 vorhanden ist, dann  muss ein Feld 4242 vor- handen sein. Das Feld  4249 darf nicht vorhanden  sein.
+Wenn Feldinhalt von 4239  ≠ 28 und wenn ein Feld  4226 vorhanden ist, dann  muss entweder ein Feld  4242 oder ein Feld 4249  vorhanden sein.  Wenn Feldinhalt von 4239  = 28 und wenn ein Feld  4226 vorhanden ist, dann  muss ein Feld 4242 vor- handen sein. Das Feld  4249 darf nicht vorhanden  sein.
 
 847 Kontext
 
@@ -9970,9 +9835,13 @@ dann sollte das Feld 5079  mindestens einmal je Feld  5001 vorhanden sein.
 | auch bei | der genannten | GOP |
 | mit | Buchstabensuffix |  |
 
+W
+
+W
+
 I
 
-Kategorie Wenn ein Feld 4225 vor- G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix vgl. Erläuterung Kapitel 3.6.2 G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix I
+Kategorie G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix vgl. Erläuterung Kapitel 3.6.2 G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix I
 
 
 ---
@@ -9987,36 +9856,25 @@ Kategorie Wenn ein Feld 4225 vor- G-alpha ::= A [ ] - optional Dokumentationspfl
 
 850
 
-|  | dürfen nur gemeinsam |  |
-|---|---|---|
-|  | übertragen werden. |  |
-| Kontext | Die Felder 4255 und 4256 | F |
+dürfen nur gemeinsam  übertragen werden.
 
-851
+851 Kontext
 
-|  | dürfen nur gemeinsam |  |
-|---|---|---|
-|  | übertragen werden. |  |
-| Kontext | Wenn das Feld 4255 be- | F |
+Die Felder 4255 und 4256  dürfen nur gemeinsam  übertragen werden.
 
-852
+852 Kontext
 
-|  | füllt ist, muss auch das |  |
-|---|---|---|
-|  | Feld 4252 befüllt sein. |  |
-| Kontext | Im Feld 4253 dürfen GNR | F |
+Wenn das Feld 4255 be- füllt ist, muss auch das  Feld 4252 befüllt sein.
 
-853
+853 Kontext
 
-|  | nicht mehrfach übertra- |  |
-|---|---|---|
-|  | gen werden. |  |
-|  | Im Feld 4256 dürfen GNR |  |
-|  | nicht mehrfach übertra- |  |
-|  | gen werden. |  |
-| Kontext | Wenn Feldinhalt des Fel- | W |
+Im Feld 4253 dürfen GNR  nicht mehrfach übertra- gen werden.  Im Feld 4256 dürfen GNR  nicht mehrfach übertra- gen werden.
 
-854
+854 Kontext
+
+Wenn Feldinhalt des Fel-
+
+W
 
 des 5001 = 32915[G-al- pha],32916[G-alpha],  32917[G-alpha] oder  32918[G-alpha], dann  muss mindestens ein Feld  6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden
 
@@ -10058,6 +9916,12 @@ FK 6001 = “Z01.7“, dann
 | auch | bei der |  | genannten | GOP |
 | mit |  | Buchstabensuffix | |  |
 
+F
+
+F
+
+F
+
 Kategorie Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4256 ist Die Übertragung der Ziffer 35401 in der FK 4253 und 35401B in der FK 4256 ist zu- Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4253 ist nicht zulässig. Die Übertragung der Ziffer 35401 in der FK 4256 und die Übertragung der Ziffer 35401B in der FK 4256 ist zu- G-alpha ::= A [ ] - optional Dokumentationspflicht besteht auch bei der genannten GOP mit Buchstabensuffix
 
 ---
@@ -10068,55 +9932,27 @@ Kategorie Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Über
 
 Prüfung
 
-|  | muss der Feldinhalt von |  |
-|---|---|---|
-|  | FK 6003 = „G“ sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | F |
+muss der Feldinhalt von  FK 6003 = „G“ sein.
 
-859
+859 Kontext
 
-|  | des 8000 = 0101, 0102 |  |
-|---|---|---|
-|  | oder 0104, dann gilt: |  |
-|  | Es muss entweder das |  |
-|  | Feld FK 5098 oder das |  |
-|  | Feld FK 5102 vorhanden |  |
-|  | sein. |  |
-| Kontext | Der Inhalt des Feldes 3673 | W |
-
-860
+Wenn der Inhalt des Fel- des 8000 = 0101, 0102  oder 0104, dann gilt:  Es muss entweder das  Feld FK 5098 oder das  Feld FK 5102 vorhanden  sein.
 
 |  | darf nicht „Z01.7“ sein. |  |
 |---|---|---|
 | Kontext | Der Inhalt des Feldes 3010 | W |
 
+860
+
 864
 
-|  | muss in dem umschriebe- |  |
-|---|---|---|
-|  | nen Zeitraum liegen, wel- |  |
-|  | cher durch die Angabe des |  |
-|  | Quartals (4101) definiert |  |
-|  | ist |  |
-| Kontext | Wenn für die GOP in Feld | W |
+muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des  Quartals (4101) definiert  ist 868 Kontext
 
-868
+Wenn für die GOP in Feld  5001 in der EBM-Stamm- datei das XML-Element  ../gnr_zusatzanga- ben/gnr_zusatzanga- ben_liste/gnr_zusatzan- gabe/@V=“5010“ vorhan- den ist, dann muss das  Feld 5010 einmal je Feld  5001 vorhanden sein.
 
-|  | 5001 in der EBM-Stamm- |  |
-|---|---|---|
-|  | datei das XML-Element |  |
-|  | ../gnr_zusatzanga- |  |
-|  | ben/gnr_zusatzanga- |  |
-|  | ben_liste/gnr_zusatzan- |  |
-|  | gabe/@V=“5010“ vorhan- |  |
-|  | den ist, dann muss das |  |
-|  | Feld 5010 einmal je Feld |  |
-|  | 5001 vorhanden sein. |  |
-| Kontext | Sofern kein Vorquartalsfall | W |
+869 Kontext
 
-869
-
-vorliegt (Inhalt von FK  4101 = FK 9204 (adt0))  gilt:  Wenn in einem Datensatz  die FK 3010 vorhanden ist,  dann muss für min. eine  der unter FK 5098 angege- benen (N)BSNR in der SA  „besa“ zu dieser (N)BSNR  (FK 5098 gleich FK 0201)  das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.
+Sofern kein Vorquartalsfall  vorliegt (Inhalt von FK  4101 = FK 9204 (adt0))  gilt:  Wenn in einem Datensatz  die FK 3010 vorhanden ist,  dann muss für min. eine  der unter FK 5098 angege- benen (N)BSNR in der SA  „besa“ zu dieser (N)BSNR  (FK 5098 gleich FK 0201)  das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.
 
 870 Kontext
 
@@ -10126,8 +9962,15 @@ Prüfstatus
 
 F
 
+W
+
+W
+
+F
+
 Erläuterung
 
+Der Inhalt des Feldes 3673
 
 ---
 
@@ -10151,77 +9994,63 @@ Prüfstatus
 | tives | altes | Datum | eingegeben |
 | wurde. |  |  |  |
 
-|  | muss der Inhalt des Feldes |  |
-|---|---|---|
-|  | 8000 = 0102 sein. |  |
-| Kontext | Wenn die FK 3010 vorhan- | W |
+muss der Inhalt des Feldes  8000 = 0102 sein.
 
-876
+876 Kontext
 
-|  | den ist, dann muss auch |  |
-|---|---|---|
-|  | die FK 4109 vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn der Feldinhalt von | W |
+Wenn die FK 3010 vorhan-
 
-877
+W
 
-|  | FK 4103 = 3, dann muss |  |
-|---|---|---|
-|  | die FK 4115 vorhanden |  |
-|  | sein. |  |
-| Kontext | Das Datum in FK 4115 darf | W |
+den ist, dann muss auch  die FK 4109 vorhanden  sein.
 
-886
+877 Kontext
 
-|  | nicht mehr als 60 Tage vor |  |
-|---|---|---|
-|  | dem Datum in FK 5000 lie- |  |
-|  | gen. |  |
-|  | Hinweis: Wenn in der be- |  |
-|  | troffenen Satzart mehr als |  |
-|  | eine FK 5000 enthalten ist, |  |
-|  | dann erfolgt die Prüfung |  |
-|  | gegen den ältesten Feldin- |  |
-|  | halt der FK 5000. |  |
-| Kontext | Das Datum im Feld FK | W |
+Wenn der Feldinhalt von
 
-887
+W
 
-|  | 4115 darf nicht größer als |  |
-|---|---|---|
-|  | das Systemdatum sein. |  |
-| Kontext | Wenn FK 4121 ≠ 3: | W |
+FK 4103 = 3, dann muss  die FK 4115 vorhanden  sein.
 
-888
+886 Kontext
 
-|  | Wenn für die GOP in Feld |  |
-|---|---|---|
-|  | FK 5001 in der EBM- |  |
-|  | Stammdatei das XML-Ele- |  |
-|  | ment ../gnr_zusatzan- |  |
-|  | gabe/@V=“5050“ vorhan- |  |
-|  | den ist, muss das Feld FK |  |
-|  | 5050 vorhanden sein. |  |
-| Kontext | Wenn FK 4121 ≠ 3: | W |
+Das Datum in FK 4115 darf
 
-889
+W
 
-|  | Wenn für die GOP in Feld |  |
-|---|---|---|
-|  | FK 5001 in der EBM- |  |
-|  | Stammdatei das XML-Ele- |  |
-|  | ment ../gnr_zusatzan- |  |
-|  | gabe/@V=“5051“ vorhan- |  |
-|  | den ist, muss das Feld FK |  |
-|  | 5051 vorhanden sein. |  |
-| Kontext | Wenn FK 4121 ≠ 3: | W |
-|  | Wenn für die GOP in Feld |  |
-|  | FK 5001 in der EBM- |  |
+nicht mehr als 60 Tage vor  dem Datum in FK 5000 lie- gen.  Hinweis: Wenn in der be- troffenen Satzart mehr als  eine FK 5000 enthalten ist,  dann erfolgt die Prüfung  gegen den ältesten Feldin- halt der FK 5000.
 
-890
+887 Kontext
 
-Bei Hausarzt-Vermittlungsfällen ist der Tag der durch den Haus- arzt festgestellten Behandlungs- notwendigkeit anzugeben. Der Anwender soll einen Hin- weis erhalten, dass für den Tag der Terminvermittlung ein rela- tives altes Datum eingegeben
+Das Datum im Feld FK
+
+W
+
+4115 darf nicht größer als  das Systemdatum sein.
+
+888 Kontext
+
+Wenn FK 4121 ≠ 3:
+
+W
+
+Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5050“ vorhan- den ist, muss das Feld FK  5050 vorhanden sein.
+
+889 Kontext
+
+Wenn FK 4121 ≠ 3:
+
+W
+
+Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5051“ vorhan- den ist, muss das Feld FK  5051 vorhanden sein.
+
+890 Kontext
+
+Wenn FK 4121 ≠ 3:
+
+W
+
+Bei Hausarzt-Vermittlungsfällen ist der Tag der durch den Haus- arzt festgestellten Behandlungs- notwendigkeit anzugeben. Der Anwender soll einen Hin- weis erhalten, dass für den Tag der Terminvermittlung ein rela- tives altes Datum eingegeben Wenn für die GOP in Feld  FK 5001 in der EBM-
 
 
 ---
@@ -10234,64 +10063,39 @@ Prüfung
 
 Prüfstatus
 
-|  | Stammdatei das XML-Ele- |  |
-|---|---|---|
-|  | ment ../gnr_zusatzan- |  |
-|  | gabe/@V=“5052“ vorhan- |  |
-|  | den ist, muss das Feld FK |  |
-|  | 5052 vorhanden sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | W |
+Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5052“ vorhan- den ist, muss das Feld FK  5052 vorhanden sein.
 
-891
+891 Kontext
 
-|  | des 5077 = “999999”, |  |
-|---|---|---|
-|  | dann muss mindestens ein |  |
-|  | Feld 5078 vorhanden sein. |  |
-| Kontext | Wenn für die GOP in Feld | W |
+Wenn der Inhalt des Fel- des 5077 = “999999”,  dann muss mindestens ein  Feld 5078 vorhanden sein.
 
-892
+892 Kontext
 
-|  | FK 5001 in der EBM- |  |
-|---|---|---|
-|  | Stammdatei das XML-Ele- |  |
-|  | ment ../gnr_zusatzan- |  |
-|  | gabe/@V=“5077“ vorhan- |  |
-|  | den ist, muss das Feld FK |  |
-|  | 5077 mindestens einmal |  |
-|  | vorhanden sein. |  |
-| Kontext | Wenn der Inhalt des Fel- | W |
+Wenn für die GOP in Feld  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5077“ vorhan-
 
-893
+den ist, muss das Feld FK  5077 mindestens einmal  vorhanden sein.
 
-|  | des 5077 ungleich |  |
-|---|---|---|
-|  | “999999”, dann darf das |  |
-|  | Feld 5078 nicht vorhan- |  |
-|  | den sein. |  |
-| Kontext | Wenn die FK 5050 und die | W |
+893 Kontext
 
-894
+Wenn der Inhalt des Fel- des 5077 ungleich  “999999”, dann darf das  Feld 5078 nicht vorhan-
 
-|  | FK 5005 vorhanden sind, |  |
-|---|---|---|
-|  | dann muss die Anzahl der |  |
-|  | vorhandenen FK 5050 |  |
-|  | gleich dem Wert der FK |  |
-|  | 5005 entsprechen. |  |
-| Kontext | Wenn die FK 4112 vorhan- | W |
+den sein.
+
+894 Kontext
+
+Wenn die FK 5050 und die  FK 5005 vorhanden sind,  dann muss die Anzahl der  vorhandenen FK 5050  gleich dem Wert der FK  5005 entsprechen.
 
 895
 
 897
 
-|  | den ist, dann dürfen die |  |
-|---|---|---|
-|  | FK 4109 und FK 3010 und |  |
-|  | FK 4108 und FK 3006 nicht |  |
-|  | vorhanden sein. |  |
-| Kontext | Wenn die FK 4235 vorhan- | W |
-|  | den ist, dann sollte auch |  |
+Kontext
+
+Kontext
+
+Wenn die FK 4112 vorhan- den ist, dann dürfen die  FK 4109 und FK 3010 und  FK 4108 und FK 3006 nicht  vorhanden sein.
+
+Wenn die FK 4235 vorhan- den ist, dann sollte auch
 
 |  | Erläuterung |  |  |
 |---|---|---|---|
@@ -10310,7 +10114,20 @@ Prüfstatus
 | mit | einem | Wert | mindestens |
 | 002 | vorkommen. | |  |
 
+W
+
+W
+
+W
+
+W
+
+W
+
+W
+
 - Die FK 5050 ist einmal vorhan- den und die FK 5005 ist nicht - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist vor- handen, dann muss die FK 5005 den Wert 002 besitzen.  - Die FK 5050 ist zweimal vor- handen und die FK 5005 ist nicht vorhanden.  Die FK 5005 kann nur mit einem Wert mindestens 002 vorkommen.
+
 
 ---
 
@@ -10322,30 +10139,19 @@ Prüfung
 
 Prüfstatus
 
-|  | die FK 4252 und FK 4253 |  |
-|---|---|---|
-|  | vorhanden sein |  |
-| Kontext | Das Datum der FK 4214 | W |
+die FK 4252 und FK 4253  vorhanden sein 899 Kontext
 
-899
+Das Datum der FK 4214  darf nicht größer dem Da- tum der FK 5000 sein.
 
-|  | darf nicht größer dem Da- |  |
-|---|---|---|
-|  | tum der FK 5000 sein. |  |
-| Kontext | Das Datum der FK 4214 | W |
+900 Kontext
 
-900
+Das Datum der FK 4214  darf nicht mehr als einen  Monat 60 Tage kleiner als  dem das Datum der FK  5000 sein.
 
-|  | darf nicht mehr als einen |  |
-|---|---|---|
-|  | Monat 60 Tage kleiner als |  |
-|  | dem das Datum der FK |  |
-|  | 5000 sein. |  |
-| besondere Hin- | wird von KV überlesen, |  |
-| weise | kann in jeder Satzart |  |
-|  | mehrfach vorkommen |  |
+999* besondere Hin- wird von KV überlesen,
 
-999*
+weise
+
+kann in jeder Satzart  mehrfach vorkommen
 
 **3.6** **BESONDERE HINWEISE**
 
@@ -10373,7 +10179,11 @@ chen Versorgung teilnehmenden Ärzten übertragen werden. In den Feldern FK 4225
 
 Erläuterung
 
+W
+
 Zulässig:  FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  20260424  Unzulässig:  FK 5000 gleich 20260425  FK 4214 gleich 20260426
+
+W
 
 Für Praxiscomp. bei Rücksen- dung -Teamnummer. Es ist
 
@@ -11038,12 +10848,7 @@ Vorkommen 2 3 vgl. Kapitel 7
 
 **FK** Vorkommen 1 2
 
-3011
-
-| 1 | Ergebnis der Onlineprüfung | m |  |
-|---|---|---|---|
-|  | und |  |  |
-|  | -aktualisierung |  |  |
+3011  1
 
 3012  1
 
@@ -11061,10 +10866,7 @@ Vorkommen 2 3 vgl. Kapitel 7
 
 3104 1
 
-3119
-
-| 1 | Versicherten_ID | m | Regel 791 |
-|---|---|---|---|
+3119 1
 
 3107 1
 
@@ -11086,6 +10888,8 @@ Vorkommen 2 3 vgl. Kapitel 7
 
 Feldbezeichnung 3
 
+Ergebnis der Onlineprüfung  und  -aktualisierung
+
 Error-Code
 
 Prüfziffer des Fachdienstes
@@ -11102,6 +10906,8 @@ Geburtsdatum
 
 Titel
 
+Versicherten_ID
+
 Straße
 
 Hausnummer
@@ -11116,10 +10922,12 @@ Feldart Bedingung
 
 ner durchge- führten On- lineprüfung  und -aktuali- sierung auf  der eGK ge- speichert  wurde, vor- handen  Regel 876
 
-k
+m
 
 k
 
+k
+
 K
 
 K
@@ -11131,6 +10939,8 @@ M
 M
 
 K
+
+m Regel 791
 
 K
 
@@ -11197,24 +11007,15 @@ PLZ der Postfachadresse
 
 4109
 
-4112
+4112 1
 
-| 1 | eEB vorhanden | K | Regel 895 |
-|---|---|---|---|
-
-4133
-
-| 1 | VersicherungsschutzBeginn | m | Regel 791 |
-|---|---|---|---|
+4133 1
 
 4110 1
 
 4111 1
 
-4134
-
-| 1 | Kostentraegername | m | Regel 791 |
-|---|---|---|---|
+4134 1
 
 4131 1
 
@@ -11263,9 +11064,15 @@ Abrechnungs-VKNR
 
 chertenkarte im Quartal
 
+eEB vorhanden
+
+VersicherungsschutzBeginn
+
 VersicherungsschutzEnde
 
 Kostentraegerkennung
+
+Kostentraegername
 
 BesonderePersonengruppe
 
@@ -11291,9 +11098,15 @@ M
 
 chertenkarte  eingelesen  wurde  Regel 876
 
+K Regel 895
+
+m Regel 791
+
 K
 
 M
+
+m Regel 791
 
 M
 
@@ -11367,10 +11180,7 @@ Zulassungsnummer (mo- biles Lesegerät)
 |---|---|---|---|
 |  | nahmen durchgeführt |  |  |
 
-4271
-
-| 1 | Kompaktkur nicht möglich | k | Regel 383 |
-|---|---|---|---|
+4271 1
 
 5000 n
 
@@ -11404,6 +11214,8 @@ Kurabbruch am
 
 Refresher
 
+Kompaktkur nicht möglich
+
 Leistungstag
 
 GNR
@@ -11421,6 +11233,8 @@ Feldart Bedingung
 M
 
 K
+
+k Regel 383
 
 M
 
@@ -11585,12 +11399,7 @@ Feldbezeichnung Vorkommen 2 3 [test@kbv.de](mailto:test@kbv.de)
 
 3003 Schein-ID
 
-3006
-
-| CDM Version | 5-11 | a | 055 |  |
-|---|---|---|---|---|
-|  |  |  | 308 |  |
-|  |  |  | 791 |  |
+3006 CDM Version
 
 3010 Datum und Uhrzeit der  Onlineprüfung und  -aktualisierung (Ti- mestamp)
 
@@ -11613,6 +11422,8 @@ Feldbezeichnung Vorkommen 2 3 [test@kbv.de](mailto:test@kbv.de)
 20
 
 60
+
+5-11
 
 14
 
@@ -11638,9 +11449,13 @@ a
 
 a
 
+a
+
 n
 
-n 060  865  866  867  876
+n 055  308  791
+
+060  865  866  867  876
 
 528
 
@@ -11694,12 +11509,7 @@ Feldbezeichnung
 
 3102 Vorname
 
-3103
-
-| Geburtsdatum | 8 | n | 021 |  |
-|---|---|---|---|---|
-|  |  |  | 304 |  |
-|  |  |  | 313 |  |
+3103 Geburtsdatum
 
 3104 Titel
 
@@ -11739,6 +11549,8 @@ Feldbezeichnung
 
 45
 
+8
+
 20
 
 10
@@ -11753,11 +11565,13 @@ a
 
 a
 
-a
+n
 
 a
 
 a
+
+a 021  304  313
 
 4 = Authentifizierungszertifikat eGK  ungültig  5 = Onlineprüfung des Authentifizie- rungszertifikats technisch nicht  möglich  6 = Aktualisierung VSD auf eGK  technisch nicht möglich und ma- ximaler Offline-Zeitraum über- schritten
 
@@ -11813,12 +11627,7 @@ Feldbezeichnung Hinterhaus
 
 4102 Ausstellungsdatum
 
-4104
-
-| Abrechnungs-VKNR | 5 | n | 017 |  |
-|---|---|---|---|---|
-|  |  |  | 201 |  |
-|  |  |  | 212 |  |
+4104 Abrechnungs-VKNR
 
 4108
 
@@ -11835,6 +11644,8 @@ Feldbezeichnung Hinterhaus
 8
 
 8
+
+5
 
 4109
 
@@ -11880,6 +11691,8 @@ a 791  537
 a
 
 d
+
+n 017  201  212
 
 Beispiel
 
@@ -12021,14 +11834,11 @@ Feldbezeichnung
 |---|---|---|---|---|
 | Maßnahmen angeregt |  |  |  |  |
 
-4270
+4270 Verhaltenspräventive 1
 
-| Verhaltenspräventive | 1 | n | 101 |  |
-|---|---|---|---|---|
-| Maßnahmen durchge- |  |  |  |  |
-| führt |  |  |  |  |
+Maßnahmen durchge-
 
-4271
+führt 4271
 
 | Kompaktkur nicht | 1 | n | 101 |  |
 |---|---|---|---|---|
@@ -12049,6 +11859,8 @@ bei Refresher
 d 885
 
 318  867  883  885
+
+n 101
 
 n 101  317  318  382  383  866  881  882  883  884  885
 
@@ -12130,18 +11942,13 @@ Feldbezeichnung L50.0
 
 6003
 
-|  |  |  | 817 |  |
-|---|---|---|---|---|
-|  |  |  | 856 |  |
-| Diagnosensicherheit | 1 | a | 109 | V = Verdacht auf |
-
-6004
-
 |  |  |  | 856 | Z = Zustand nach |
 |---|---|---|---|---|
 |  |  |  |  | A = Ausschluss |
 |  |  |  |  | G = gesicherte Diagnose |
 | Seitenlokalisation | 1 | a | 110 | R = rechts |
+
+6004
 
 6006 Diagnosenerläuterung
 
@@ -12167,10 +11974,7 @@ Feldbezeichnung L50.0
 |---|---|---|---|---|
 | KADT-Datenpaket |  |  |  |  |
 
-9204
-
-| Abrechnungsquartal | 5 | n | 016 |  |
-|---|---|---|---|---|
+9204 Abrechnungsquartal
 
 | Version |  11 | a | 031 |  |
 |---|---|---|---|---|
@@ -12198,9 +12002,15 @@ Feldbezeichnung L50.0
 
 Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitungs lichen Vereinigungen, nicht für die Abrechnungssoftware relevant.
 
-60 a
+60
 
-kvx0
+5
+
+a
+
+n 817  856
+
+kvx0 016
 
 L = links  B = beidseitig -Software der Kassenärzt-
 
@@ -12216,7 +12026,7 @@ Y/1/1901/36/id9
 
 Y/2/1912/36/xxx
 
-Feldbezeichnung abcd/q<rs
+Feldbezeichnung Diagnosensicherheit 109 V = Verdacht auf abcd/q<rs
 
 
 ---
@@ -12297,12 +12107,7 @@ Format
 |---|---|---|
 | Format | kknnnnnmm | F |
 
-|  | mit |  |
-|---|---|---|
-|  | kk = erlaubter Inhalt gemäß Regel |  |
-|  | 162 |  |
-|  | mm = [undefiniert] |  |
-| Format | Nnnnnnmff | F |
+Format
 
 Format
 
@@ -12320,7 +12125,9 @@ ann, ann.n, ann.nn, ann.n-
 
 [a]aaaMMJJ.nn
 
-mit  m = Prüfziffer, wobei „nnnnnn“ un- gleich „555555“ sein muss
+mit  kk = erlaubter Inhalt gemäß Regel  162  mm = [undefiniert]
+
+Nnnnnnmff  mit  m = Prüfziffer, wobei „nnnnnn“ un- gleich „555555“ sein muss
 
 ff = erlaubter Inhalt gemäß Anlage  35 des BAR-Schlüsselverzeichnisses,  tolerierter Ersatzwert für die Ziffern  8  9: 00
 
@@ -12340,7 +12147,7 @@ F
 
 F [a]aaa = Datenpaketkürzel, MM  = Monat, JJ = Jahr, nn = Unter- versionsnummer
 
-Verfahren zur Bestimmung der  5
+F Verfahren zur Bestimmung der  5
 
 Prüfziffer vgl.
 
@@ -12452,10 +12259,9 @@ fung
 |---|---|---|
 | Existenzprü- | Anbieterstammdatei | W |
 
-| fung |  |  |
-|---|---|---|
-| erlaubter In- |  74799 | F |
-| halt |  |  |
+fung
+
+erlaubter In- halt 74799
 
 Erläuterung 1 = Feld angekreuzt = Ja
 
@@ -12467,7 +12273,7 @@ Krankenkassennummer (IK) vor- handen und 9-stellig
 
 Prüfnummer existent und gültig
 
-Kategorie GO-Stammdatei Der Kostenträger mit der VKNR  74799 darf in der Abrechnung  nicht an die KVen übermittelt  werden
+Kategorie GO-Stammdatei F Der Kostenträger mit der VKNR  74799 darf in der Abrechnung  nicht an die KVen übermittelt  werden
 
 
 ---
@@ -12511,47 +12317,43 @@ Kontext
 |---|---|---|
 | Kontext | Falls FK 4110 vorhanden ist, dann | W |
 
-|  | gilt: |  |
-|---|---|---|
-|  | Leistungsdatum (FK 5000)  Versi- |  |
-|  | cherungsschutz Ende (FK 4110) |  |
-| Kontext | Leistungsdatum (FK 5000)  Anrei- | F |
-
 |  | setag (FK 4264) |  |
 |---|---|---|
 | Kontext | Wenn die FK 4272 nicht vorhanden | F |
 
-|  | ist, dann gilt: |  |
-|---|---|---|
-|  | Leistungsdatum (FK 5000)  Abrei- |  |
-|  | setag (FK 4265) |  |
-| Kontext | Wenn die FK 4272 nicht vorhanden | F |
+Kontext
 
-|  | ist und die FK 4266 vorhanden ist, |  |
-|---|---|---|
-|  | dann gilt: |  |
-|  | Leistungsdatum (FK 5000)  Kurab- |  |
-|  | bruch am (FK 4266) |  |
-| Kontext | Nur wenn Inhalt von 4261 = 1 oder | F |
+Kontext
 
-|  | 2, darf das Feld 4262 oder 4272 |  |
-|---|---|---|
-|  | vorhanden sein |  |
-| Kontext | Nur wenn Feld 4262 oder 4272 vor- | F |
+Kontext
 
-|  | handen ist, darf das Feld 4271 vor- |  |
-|---|---|---|
-|  | handen sein |  |
-| Kontext | Wenn zu dem ICD-Code (FK | W |
-|  | 6001/3673) in der SDICD die Ele- |  |
-|  | mente „*untere_altersgrenze*“ |  |
-|  | und/oder „*obere_altersgrenze*“ |  |
-|  | existieren, dann muss das aus dem |  |
-|  | Geburtsdatum FK 3103 berechnete |  |
+Kontext
 
 Datum  Maschinendatum
 
 Feldinhalt von FK 3006 >= 5.2.0
+
+gilt:  Leistungsdatum (FK 5000)  Versi-
+
+cherungsschutz Ende (FK 4110)
+
+ist, dann gilt:  Leistungsdatum (FK 5000)  Abrei-
+
+setag (FK 4265)
+
+Wenn die FK 4272 nicht vorhanden  ist und die FK 4266 vorhanden ist,  dann gilt:  Leistungsdatum (FK 5000)  Kurab-
+
+bruch am (FK 4266)
+
+Nur wenn Inhalt von 4261 = 1 oder  2, darf das Feld 4262 oder 4272  vorhanden sein
+
+Nur wenn Feld 4262 oder 4272 vor- handen ist, darf das Feld 4271 vor- handen sein
+
+Wenn zu dem ICD-Code (FK  6001/3673) in der SDICD die Ele- mente „*untere_altersgrenze*
+
+und/oder „*obere_altersgrenze*
+
+existieren, dann muss das aus dem  Geburtsdatum FK 3103 berechnete
 
 Erläuterung
 
@@ -12565,7 +12367,13 @@ Vermeidung von Fehleingaben
 
 Vermeidung von Fehleingaben
 
-Kategorie SDICD
+F
+
+F
+
+F
+
+Kategorie Leistungsdatum (FK 5000) Anrei-W SDICD
 
 
 ---
@@ -12590,45 +12398,11 @@ Kategorie SDICD
 
 Kategorie
 
-|  | *)Alter oberhalb der „*unteren_al-* |  |
-|---|---|---|
-|  | *tersgrenze*“ und unterhalb der |  |
-|  | „*obere_altersgrenze*“ liegen. |  |
-|  | Der Inhalt von Element „*altersbe-* |  |
-|  | *zug_fehlerart*“ ist „m“. |  |
-|  | *) das Höchstalter wird prüfmodul- |  |
-|  | seitig zu Quartalsbeginn und Min- |  |
-|  | destalter zu Quartalsende berech- |  |
-|  | net |  |
-| Kontext | Wenn zu dem ICD-Code (FK | W |
+Kontext
 
-|  | 6001/3673) in der SDICD das Ele- |  |
-|---|---|---|
-|  | ment „*krankheit_in_mitteleu-* |  |
-|  | *ropa_sehr_selten*“ mit Inhalt V=“j“ |  |
-|  | existiert, dann Warnhinweis „*Bitte* |  |
-|  | *Kodierung überprüfen: Diagnosen* |  |
-|  | *dieses Kodes sind in Mitteleuropa* |  |
-|  | *sehr selten*.“ |  |
-| Kontext | Wenn zu dem ICD-Code (FK 6001 / | W |
+Kontext
 
-|  | 3673) in der SDICD das Element |  |
-|---|---|---|
-|  | „*geschlechtsbezug*“ existiert und |  |
-|  | der Inhalt von „*geschlechtsbe-* |  |
-|  | *zug_fehlerart*“ mit V=“m“ definiert |  |
-|  | ist , und diese Bedingung nicht mit |  |
-|  | dem Geschlecht des Patienten (FK |  |
-|  | 3110) übereinstimmt, muss FK 6008 |  |
-|  | bzw. 3677 vorhanden sein |  |
-| Kontext | Wenn zu einer Diagnose (FK 6001 | F |
-
-|  | /3673) in der SDICD das Element |  |
-|---|---|---|
-|  | „schlüsselnummer_mit_inhalt_be- |  |
-|  | legt“ mit Inhalt „n“ existiert, darf |  |
-|  | diese nicht übertragen werden |  |
-| erlaubter In- | 1, 2, 3, 4, 5, 6 | F |
+Kontext
 
 | halt |  |  |
 |---|---|---|
@@ -12638,25 +12412,53 @@ Kategorie
 |---|---|---|
 | erlaubter In- | M, W, U, X, D | F |
 
-| halt |  |  |
-|---|---|---|
-| erlaubter In- | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09, | F |
-| halt | 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, |  |
-|  | 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, |  |
-|  | 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, |  |
-|  | 57, 58 |  |
+halt
+
+erlaubter In- halt
 
 Prüfung
+
+Alter oberhalb der „*unteren_al-*
+
+*tersgrenze*“ und unterhalb der
+
+*obere_altersgrenze*“ liegen.
+
+Der Inhalt von Element „*altersbe-*
+
+*zug_fehlerart*“ ist „m“.
+
+das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net
+
+Wenn zu dem ICD-Code (FK  6001/3673) in der SDICD das Ele- ment „*krankheit_in_mitteleu-*
+
+*ropa_sehr_selten*“ mit Inhalt V=“j“
+
+existiert, dann Warnhinweis „*Bitte*
+
+*Kodierung überprüfen: Diagnosen*  *dieses Kodes sind in Mitteleuropa*  *sehr selten*
+
+Wenn zu dem ICD-Code (FK 6001 /  3673) in der SDICD das Element  *geschlechtsbezug*“ existiert und
+
+der Inhalt von „*geschlechtsbe-*
+
+*zug_fehlerart*“ mit V=“m“ definiert
+
+ist , und diese Bedingung nicht mit  dem Geschlecht des Patienten (FK  3110) übereinstimmt, muss FK 6008  bzw. 3677 vorhanden sein
+
+Wenn zu einer Diagnose (FK 6001  /3673) in der SDICD das Element  „schlüsselnummer_mit_inhalt_be- legt“ mit Inhalt „n“ existiert, darf  diese nicht übertragen werden
+
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09,  10, 11, 12, 30, 31, 32, 33, 34, 35, 36,  37, 38, 39, 40, 41, 42, 43, 44, 45, 46,  47, 48, 49, 50, 51, 52, 53, 54, 55, 56,  57, 58
 
 Prüf- Erläuterung
 
 status
 
-SDICD
+W SDICD
 
-SDICD
+W SDICD
 
-SDICD
+F SDICD 1, 2, 3, 4, 5, 6 F
 
 
 ---
@@ -12680,43 +12482,45 @@ Erläuterung 537
 
 SDICD
 
-|  | als Element „*icd_code*“ und dem In- |  |
-|---|---|---|
-|  | halt V=“j“ von Kindelement „*abre-* |  |
-|  | *chenbar*“ in der SDICD vorhanden |  |
-|  | sein. |  |
-| Kontext | Wenn zu einer Diagnose (FK 6001 | F |
+als Element „*icd_code*“ und dem In-
 
-729
+halt V=“j“ von Kindelement „*abre-*
 
-SDICD
+*chenbar*“ in der SDICD vorhanden
 
-|  | /3673) das Element „*notations-* |  |
-|---|---|---|
-|  | *kennzeichen*“ (SDICD) mit Inhalt „*“ |  |
-|  | oder „!“ existiert (=Sekundärcode), |  |
-|  | muss mind. ein ICD-Code FK |  |
-|  | 6001/3673 ohne „*notationskennzei-* |  |
-|  | *chen*“ (SDICD) oder wenn vorhan- |  |
-|  | den, mit Inhalt „+“ (=Primärcode) |  |
-|  | vorhanden sein. |  |
-| Kontext | Der Wert in FK 5098 muss mit ei- | F |
+sein.
 
-730
+729 Kontext
 
-Prüfung gegen Besa-Satz bei ak-
+Wenn zu einer Diagnose (FK 6001 F SDICD
 
-|  | nem der Werte aus FK 0201 (SA |  |
-|---|---|---|
-|  | „besa“) übereinstimmen, sofern |  |
-|  | kein Vorquartalsfall vorliegt (Inhalt |  |
-|  | von FK 5000 liegt innerhalb von FK |  |
-|  | 9204 (kadt0)). |  |
-| Kontext | Der Wert in FK 5099 muss mit ei- | W |
+/3673) das Element „*notations-*
 
-tuellen Quartalsfällen (nicht bei  Vorquartalsfällen) 731
+*kennzeichen*“ (SDICD) mit Inhalt „*“
 
-Prüfung gegen Besa-Satz bei ak-
+oder „!“ existiert (=Sekundärcode),  muss mind. ein ICD-Code FK  6001/3673 ohne „*notationskennzei-*
+
+*chen*“ (SDICD) oder wenn vorhan- den, mit Inhalt „+“ (=Primärcode)  vorhanden sein.
+
+730 Kontext
+
+Der Wert in FK 5098 muss mit ei-
+
+F Prüfung gegen Besa-Satz bei ak-
+
+nem der Werte aus FK 0201 (SA
+
+tuellen Quartalsfällen (nicht bei
+
+„besa“) übereinstimmen, sofern
+
+Vorquartalsfällen)
+
+kein Vorquartalsfall vorliegt (Inhalt  von FK 5000 liegt innerhalb von FK  9204 (kadt0)).
+
+731 Kontext
+
+Der Wert in FK 5099 muss mit ei- W Prüfung gegen Besa-Satz bei ak-
 
 nem der Werte aus FK 0212 (SA
 
@@ -12744,7 +12548,7 @@ existieren, dann muss das aus dem  Geburtsdatum FK 3103 berechnete  Alter oberha
 
 Der Inhalt von Element „*altersbe-*
 
-Kategorie “  in der SDICD vorhanden “ (SDICD) mit Inhalt  „*“ “ (SDICD) oder  wenn vorhan- den, mit Inhalt „+“  (=Primärcode) *zug_fehlerart*“ ist „k“.
+Kategorie *zug_fehlerart*“ ist „k“.
 
 
 ---
@@ -12757,40 +12561,27 @@ Prüf- Erläuterung
 
 status
 
-|  | *) das Höchstalter wird prüfmodul- |  |
-|---|---|---|
-|  | seitig zu Quartalsbeginn und Min- |  |
-|  | destalter zu Quartalsende berech- |  |
-|  | net |  |
-| Kontext | Der (Ersatz-)wert „888888800“ ist | F |
+das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net 762 Kontext
 
-762
+Der (Ersatz-)wert „888888800“ ist F
 
-|  | obsolet und als Feldinhalt von FK |  |
-|---|---|---|
-|  | 0212, 4241, 4242, 5099 unzulässig. |  |
-| Kontext | Falls FK 4109 vorhanden ist, dann | F |
+obsolet und als Feldinhalt von FK  0212, 4241, 4242, 5099 unzulässig.
 
-791
+791 Kontext
 
-KVK für GKV-Versicherten unzu- lässig ab 01.01.2015
+Falls FK 4109 vorhanden ist, dann F KVK für GKV-Versicherten unzu- lässig ab 01.01.2015
 
-|  | müssen die Felder 3006, 3119, 4133 |  |
-|---|---|---|
-|  | und 4134 vorhanden sein. |  |
-| Kontext | Wenn der Inhalt des Feldes 8000 = | W |
+müssen die Felder 3006, 3119, 4133  und 4134 vorhanden sein.
 
-814
+814 Kontext
 
-|  | kad0 ist, dann muss der Inhalt des |  |
-|---|---|---|
-|  | Feldes 9212 der aktuellen Versions- |  |
-|  | angabe entsprechen. |  |
-| Kontext | Wenn zu einem ICD-Code (Feldin- | W |
+Wenn der Inhalt des Feldes 8000 = W
 
-817
+kad0 ist, dann muss der Inhalt des  Feldes 9212 der aktuellen Versions- angabe entsprechen.
 
-SDICD
+817 Kontext
+
+Wenn zu einem ICD-Code (Feldin- W SDICD
 
 halt FK 6001 bzw. 3673) in der  SDICD das Element „*geschlechtsbe-*
 
@@ -12798,14 +12589,15 @@ halt FK 6001 bzw. 3673) in der  SDICD das Element „*geschlechtsbe-*
 
 *art*“ = „k“ ist und kein Feld 6008 /  3677 vorhanden ist, dann muss das  Geschlecht in FK 3110 (sofern 3110  U, X, D) zu der Angabe unter Ele- ment „geschlechtsbezug“ (SDICD)  passen.
 
-856
+856 Kontext
 
-|  | “Z01.7“ ist, dann muss der Feldin- |  |
-|---|---|---|
-|  | halt von FK 6003 = „G“ sein. |  |
-| Kontext | Datum und Uhrzeit der Onlineprü- | W |
+Wenn der Feldinhalt von FK 6001 = W
 
-865
+“Z01.7“ ist, dann muss der Feldin- halt von FK 6003 = „G“ sein.
+
+865 Kontext
+
+Datum und Uhrzeit der Onlineprü- W
 
 fung und -aktualisierung (Ti- mestamp) (FK 3010) Anreisetag (FK 4264)
 
@@ -12815,7 +12607,7 @@ Wenn die FK 4272 nicht vorhanden W
 
 ist, dann gilt:  Datum und Uhrzeit der Onlineprü- fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag
 
-Wenn der Feldinhalt von FK 6001 = (FK 4265)   Wenn die FK 4272 vorhanden ist,  dann gilt:
+(FK 4265)   Wenn die FK 4272 vorhanden ist,  dann gilt:
 
 
 ---
@@ -12828,28 +12620,25 @@ Prüf- Erläuterung
 
 status
 
-|  | Datum und Uhrzeit der Onlineprü- |  |
-|---|---|---|
-|  | fung und -aktualisierung (Ti- |  |
-|  | mestamp) (FK 3010) **<=** Abreisetag |  |
-|  | (FK 4277) |  |
-| Kontext | Wenn die Feldkennung 4266 vor- | W |
+Datum und Uhrzeit der Onlineprü- fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag (FK 4277)
 
-867
+867 Kontext
 
-handen ist,  dann muss die Feldkennung Datum  und Uhrzeit der Onlineprüfung und  -aktualisierung (Timestamp) (FK  3010) <= Kurabbruch am (FK 4266)  sein   Wenn die Feldkennung 4278 vor- handen ist,  dann muss die Feldkennung Datum  und Uhrzeit der Onlineprüfung und  -aktualisierung (Timestamp) (FK  3010) <= Kurabbruch am als Teil 2  bei Refresher (FK 4278) sein 876
+Wenn die Feldkennung 4266 vor- W
 
-|  | dann muss auch die FK 4109 vor- |  |
-|---|---|---|
-|  | handen sein. |  |
-| Kontext | Wenn Feld 4272 vorhanden ist, | W |
+handen ist,  dann muss die Feldkennung Datum  und Uhrzeit der Onlineprüfung und  -aktualisierung (Timestamp) (FK  3010) <= Kurabbruch am (FK 4266)  sein   Wenn die Feldkennung 4278 vor- handen ist,  dann muss die Feldkennung Datum  und Uhrzeit der Onlineprüfung und  -aktualisierung (Timestamp) (FK  3010) <= Kurabbruch am als Teil 2  bei Refresher (FK 4278) sein 876 Kontext
 
-879
+Wenn die FK 3010 vorhanden ist, W
 
-|  | müssen dann dürfen die Felder |  |
-|---|---|---|
-|  | 4276 und 4277 vorhanden sein. |  |
-| Kontext | Wenn Feld 4272 vorhanden ist, darf | W |
+dann muss auch die FK 4109 vor- handen sein.
+
+879 Kontext
+
+Wenn Feld 4272 vorhanden ist,
+
+W
+
+müssen dann dürfen die Felder  4276 und 4277 vorhanden sein.
 
 880
 
@@ -12867,21 +12656,31 @@ handen ist,  dann muss die Feldkennung Datum  und Uhrzeit der Onlineprüfung und
 
 Bildet den Fall einer Kompaktkur
 
-|  | dann gilt: |  |
-|---|---|---|
-|  | Das Leistungsdatum (FK 5000) kann |  |
-|  | in den folgenden Zeiträumen lie- |  |
-|  | gen: |  |
-|  | 1. FK 5000 muss >= FK 4264 und |  |
-|  | <= 4265 |  |
-|  | 2. FK 5000 muss >= 4276 und <= |  |
-|  | 4277 |  |
-| Kontext | Wenn die FK 4272 und die FK 4266 | W |
-|  | vorhanden sind, dann gilt: |  |
+dann gilt:
 
-als Refresher ab.  Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur 883
+als Refresher ab.
 
-Wenn die FK 3010 vorhanden ist, Bildet den Fall einer Kompaktkur  als Refresher ab.
+Das Leistungsdatum (FK 5000) kann
+
+Der Versicherte kommt zum ers-
+
+in den folgenden Zeiträumen lie-
+
+ten sowie zum zweiten Teil der
+
+gen:
+
+Kur
+
+1. FK 5000 muss >= FK 4264 und  <= 4265
+
+2. FK 5000 muss >= 4276 und <=  4277 883 Kontext
+
+Wenn die FK 4272 und die FK 4266 W Bildet den Fall einer Kompaktkur
+
+vorhanden sind, dann gilt:
+
+Wenn Feld 4272 vorhanden ist, darf als Refresher ab.
 
 
 ---
@@ -12890,47 +12689,29 @@ Wenn die FK 3010 vorhanden ist, Bildet den Fall einer Kompaktkur  als Refresher 
 
 **R-Nr** Kategorie Prüfung
 
-|  | Das Leistungsdatum (FK 5000) kann |  |
-|---|---|---|
-|  | in den folgenden Zeiträumen lie- |  |
-|  | gen: |  |
-|  | 1. FK 5000 muss >= FK 4264 und |  |
-|  | <= 4265 |  |
-|  | und <= 4266 |  |
-|  | 2. FK 5000 muss >= 4276 und <= |  |
-|  | 4277 sein |  |
-| Kontext | Wenn die FK 4272 und die FK 4278 | W |
-
-884
-
-|  | vorhanden sind, dann gilt |  |
-|---|---|---|
-|  | Das Leistungsdatum (FK 5000) kann |  |
-|  | in den folgenden Zeiträumen lie- |  |
-|  | gen: |  |
-|  | 1. FK 5000 muss >= FK 4264 und |  |
-|  | <= 4265 |  |
-|  | 2. FK 5000 muss >= 4276 und <= |  |
-|  | 4277 und |  |
-|  | <= 4278 |  |
-| Kontext | Wenn die FK 4272 und FK 4266 und | W |
-
-885
-
-die FK 4278 vorhanden sind, dann  gilt  Das Leistungsdatum (FK 5000) kann  in den folgenden Zeiträumen lie- gen:
+Das Leistungsdatum (FK 5000) kann  in den folgenden Zeiträumen lie- gen:
 
 1. FK 5000 muss >= FK 4264 und  <= 4265  und <= 4266
 
-2. FK 5000 muss >= 4276 und <=  4277 und  <= 4278 895
+2. FK 5000 muss >= 4276 und <=  4277 sein 884 Kontext
 
-|  | dann dürfen die FK 4109 und FK |  |
-|---|---|---|
-|  | 3010 und FK 4108 und FK 3006 |  |
-|  | nicht vorhanden sein. |  |
-| besondere | wird von KV überlesen, kann in je- |  |
-| Hinweise | der Satzart mehrfach vorkommen |  |
+Wenn die FK 4272 und die FK 4278  vorhanden sind, dann gilt  Das Leistungsdatum (FK 5000) kann  in den folgenden Zeiträumen lie- gen:
 
-999*
+1. FK 5000 muss >= FK 4264 und  <= 4265
+
+2. FK 5000 muss >= 4276 und <=  4277 und  <= 4278 885 Kontext
+
+Wenn die FK 4272 und FK 4266 und  die FK 4278 vorhanden sind, dann  gilt  Das Leistungsdatum (FK 5000) kann  in den folgenden Zeiträumen lie- gen:
+
+1. FK 5000 muss >= FK 4264 und  <= 4265  und <= 4266
+
+2. FK 5000 muss >= 4276 und <=  4277 und  <= 4278 895 Kontext
+
+Wenn die FK 4112 vorhanden ist,  dann dürfen die FK 4109 und FK  3010 und FK 4108 und FK 3006  nicht vorhanden sein.
+
+999* besondere wird von KV überlesen, kann in je-
+
+Hinweise der Satzart mehrfach vorkommen
 
 **4.8** **VORDRUCKMUSTER ”KURARZTSCHEIN”**
 
@@ -12942,11 +12723,13 @@ status
 
 Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur. Allerdings wird der erste  Teil vorzeitig abgebrochen.
 
-Bildet den Fall einer Kompaktkur  als Refresher ab.  Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur. Allerdings wird der zweite  Teil vorzeitig abgebrochen.
+W Bildet den Fall einer Kompaktkur  als Refresher ab.  Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur. Allerdings wird der zweite  Teil vorzeitig abgebrochen.
 
-Bildet den Fall einer Kompaktkur  als Refresher ab.  Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur. Allerdings werden der erste  und zweite Teil abgebrochen.
+W Bildet den Fall einer Kompaktkur  als Refresher ab.  Der Versicherte kommt zum ers- ten sowie zum zweiten Teil der  Kur. Allerdings werden der erste  und zweite Teil abgebrochen.
 
-Kontext Wenn die FK 4112 vorhanden ist, W Für Praxiscomp. Bei Rücksen- dung
+W
+
+Für Praxiscomp. Bei Rücksen- dung
 
 
 ---
@@ -13626,12 +13409,7 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 
 **SADT-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung |
-|---|---|---|---|---|
-
-0102
+**FK** Feldbezeichnung Länge Typ 0102
 
 | Softwareverantwort- |  60 | a |  |  |
 |---|---|---|---|---|
@@ -13680,7 +13458,7 @@ a 60
 
 0126
 
--Spezifika-Stammdatei.
+Regel erlaubte Inhalte und deren Bedeutung -Spezifika-Stammdatei.
 
 Erläuterung -Regeltabelle bzw. in un-
 
@@ -13700,19 +13478,14 @@ Koblenz 0261/4094
 
 0261/40943
 
-Feldbezeichnung Vorkommen 2 4 Fa. Datasoft
+Vorkommen 2 4 Fa. Datasoft
 
 
 ---
 
 **SADT-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung |
-|---|---|---|---|---|
-
-0127 Straße des SB
+**FK** Feldbezeichnung 0127 Straße des SB
 
 0128 PLZ des SB
 
@@ -13742,19 +13515,9 @@ Feldbezeichnung Vorkommen 2 4 Fa. Datasoft
 |---|---|---|---|---|
 |  |  |  | 709 |  |
 
-4101
+4101 Quartal
 
-| Quartal | 5 | n | 016 |  |
-|---|---|---|---|---|
-|  |  |  | 324 |  |
-|  |  |  | kvx0 |  |
-
-4104
-
-| Abrechnungs-VKNR | 5 | n | 017 |  |
-|---|---|---|---|---|
-|  |  |  | 201 |  |
-|  |  |  | 212 |  |
+4104 Abrechnungs-VKNR
 
 | Kostentraegerken- | 9 | n | 202 |  |
 |---|---|---|---|---|
@@ -13801,17 +13564,21 @@ Feldbezeichnung Vorkommen 2 4 Fa. Datasoft
 
 5011
 
-60
+Länge 60
 
 7
 
 60
 
-60
+5
+
+5
 
 60
 
-a
+60
+
+Typ
 
 a
 
@@ -13819,7 +13586,21 @@ a
 
 a
 
+n
+
+n
+
 a
+
+a
+
+Regel erlaubte Inhalte und deren Bedeutung 016
+
+324  kvx0
+
+017
+
+201  212
 
 Beispiel
 
@@ -13839,19 +13620,14 @@ Radiologen 13100
 
 Neuerkran- kung
 
-Feldbezeichnung Norm-Silber- stift
+Norm-Silber- stift
 
 
 ---
 
 **SADT-FELDTABELLE**
 
-**FK**
-
-|  | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung |
-|---|---|---|---|---|
-
-5012
+**FK** Feldbezeichnung 5012
 
 | Sachkosten / Materi- |  10 | n | 710 |  |
 |---|---|---|---|---|
@@ -13866,7 +13642,7 @@ Feldbezeichnung Norm-Silber- stift
 | der Leistungserbrin- |  |  | 732 |  |
 | gung |  |  |  |  |
 
-20
+Länge 20
 
 5099
 
@@ -13888,10 +13664,7 @@ Feldbezeichnung Norm-Silber- stift
 |---|---|---|---|---|
 | SADT-Datenpaket |  |  |  |  |
 
-9204
-
-| Abrechnungsquartal | 5 | n | 016 |  |
-|---|---|---|---|---|
+9204 Abrechnungsquartal
 
 9212
 
@@ -13918,9 +13691,17 @@ Feldbezeichnung Norm-Silber- stift
 
 2
 
+5
+
+Typ Regel
+
 a 524
 
 n  kvx0
+
+n 016
+
+erlaubte Inhalte und deren Bedeutung
 
 sad9 = SADT-Datenpaket-Abschluss  sad1 = SADT-ambulante Behandlung  sad2 = SADT-Überweisung  sad3 = SADT-belegärztliche Behand- lung
 
@@ -13936,7 +13717,7 @@ Y/1/1901/36/ id9
 
 Y/2/1912/36/ xxx
 
-Feldbezeichnung abcd/q<rs
+abcd/q<rs
 
 
 ---
@@ -14007,21 +13788,9 @@ Kategorie
 |---|---|---|
 | Format | nddddddnnnnnnnnnnnnna[a][a][a][a | F |
 
-|  | ][a][a] |  |
-|---|---|---|
-|  | erlaubte Inhalte: |  |
-|  | Stelle 1 0, 1 |  |
-|  | Stellen 2-7 TTMMJJ |  |
-|  | Stellen 8-20 numerisch |  |
-|  | Stellen 21-27 alphanumerisch |  |
-| Format | kknnnnnmm | F |
+Format
 
-|  | mit |  |
-|---|---|---|
-|  | kk = erlaubter Inhalt gemäß Regel |  |
-|  | 162 |  |
-|  | mm = [undefiniert] |  |
-| Format | nnnnnnmff | F |
+Format
 
 | Format | a/n[n][n]/JJMM/nn/aaa | F |
 |---|---|---|
@@ -14033,7 +13802,17 @@ Kategorie
 
 Prüfung
 
-mit  m = Prüfziffer, wobei „nnnnnn“ un- gleich „555555“ sein muss
+][a][a]   erlaubte Inhalte:   Stelle 1 0, 1
+
+Stellen 2-7 TTMMJJ
+
+Stellen 8-20 numerisch
+
+Stellen 21-27 alphanumerisch
+
+kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel  162  mm = [undefiniert]
+
+nnnnnnmff  mit  m = Prüfziffer, wobei „nnnnnn“ un- gleich „555555“ sein muss
 
 ff = erlaubter Inhalt gemäß Anlage 35  des BAR-Schlüsselverzeichnisses, to- lerierter Ersatzwert für die Ziffern 8 9: 00
 
@@ -14045,7 +13824,9 @@ status
 
 [a]aaa = Datenpaketkürzel, MM =  Monat, JJ = Jahr, nn = Unterversi- onsnummer
 
-Verfahren zur Bestimmung der  5
+F
+
+F Verfahren zur Bestimmung der  5
 
 Prüfziffer vgl.
 
@@ -14118,22 +13899,17 @@ erlaubter Inhalt
 |---|---|---|
 | Kontext | Der Wert in FK 5098 muss mit einem | F |
 
-|  | der Werte aus FK 0201 (SA „besa“) |  |
-|---|---|---|
-|  | übereinstimmen, sofern kein Vor- |  |
-|  | quartalsfall vorliegt (Inhalt von FK |  |
-|  | 4101 = FK 9204 (sad0)). |  |
-| Kontext | Der Wert in FK 5099 muss mit einem | F |
-|  | der Werte aus FK 0212 (SA „besa“) |  |
-|  | übereinstimmen, sofern der Wert in |  |
-|  | FK 5099 ungleich „999999900“ (In- |  |
-|  | halt von FK 4101 = FK 9204 (sad0)) |  |
+Kontext
 
 dem umschriebenen Zeitraum liegen,  welcher durch die Angabe des Quar- tals (4101) definiert ist
 
 sad0, sad9, sad1, sad2, sad3
 
 dann keine Abrechnung über SADT  möglich.
+
+der Werte aus FK 0201 (SA „besa“)  übereinstimmen, sofern kein Vor- quartalsfall vorliegt (Inhalt von FK  4101 = FK 9204 (sad0)).
+
+Der Wert in FK 5099 muss mit einem  der Werte aus FK 0212 (SA „besa“)  übereinstimmen, sofern der Wert in  FK 5099 ungleich „999999900“ (In- halt von FK 4101 = FK 9204 (sad0))
 
 Prüf- Erläuterung
 
@@ -14163,7 +13939,7 @@ Prüfung auf realistische Sachkosten
 
 Keine Prüfung gegen Besa-Satz bei  Nachzüglerfällen.
 
-Keine Prüfung gegen Besa-Satz bei  Nachzüglerfällen.
+F Keine Prüfung gegen Besa-Satz bei  Nachzüglerfällen.
 
 
 ---
@@ -14179,23 +13955,19 @@ Keine Prüfung gegen Besa-Satz bei  Nachzüglerfällen.
 
 762
 
-815
+815 Kontext
 
-|  | obsolet und als Feldinhalt von FK |  |
-|---|---|---|
-|  | 0212, 4241, 4242, 5099 unzulässig. |  |
-| Kontext | Wenn der Inhalt des Feldes 8000 = | W |
+999* besondere Hin- weise
 
-999*
+obsolet und als Feldinhalt von FK  0212, 4241, 4242, 5099 unzulässig.
 
-|  | sad0 ist, dann muss der Inhalt des |  |
-|---|---|---|
-|  | Feldes 9212 der aktuellen Versions- |  |
-|  | angabe entsprechen. |  |
-| besondere Hin- | wird von KV überlesen, kann in jeder |  |
-| weise | Satzart mehrfach vorkommen |  |
+Wenn der Inhalt des Feldes 8000 =  sad0 ist, dann muss der Inhalt des  Feldes 9212 der aktuellen Versions- angabe entsprechen.
+
+wird von KV überlesen, kann in jeder  Satzart mehrfach vorkommen
 
 Erläuterung
+
+W
 
 Kategorie Für Praxiscomp. Bei Rücksendung
 
@@ -14394,12 +14166,7 @@ Vorkommen 2 3 Vorkommen 2 3 Satzart Hybrid-DRG
 
 3010
 
-3011
-
-| 1 | Ergebnis der Onlineprüfung | m |  |
-|---|---|---|---|
-|  | und |  |  |
-|  | -aktualisierung |  |  |
+3011  1
 
 3012  1
 
@@ -14431,6 +14198,10 @@ Patientennummer
 
 lineprüfung und -aktualisie- rung (Timestamp)
 
+Ergebnis der Onlineprüfung
+
+und  -aktualisierung
+
 Error-Code
 
 Prüfziffer des Fachdienstes
@@ -14452,6 +14223,8 @@ Feldart Bedingung
 K
 
 eingelesen  wurde  und falls  Daten- satz, der  zum Nach- weis einer  durchge- führten  Onlineprü- fung und - aktualisie- rung auf  der eGK  gespei- chert  wurde,  vorhan- den  Regel 876
+
+m
 
 k
 
@@ -14543,15 +14316,7 @@ vgl. Kapitel 7
 
 4109
 
-4112
-
-|  | chertenkarte im Quartal |  | cherten- |
-|---|---|---|---|
-|  |  |  | karte ein- |
-|  |  |  | gelesen |
-|  |  |  | wurde |
-|  |  |  | Regel 876 |
-| 1 | eEB vorhanden | K | Regel 895 |
+4112 1
 
 Feldbezeichnung 3
 
@@ -14583,6 +14348,10 @@ Aufnahmegewicht
 
 Abrechnungs-VKNR
 
+chertenkarte im Quartal
+
+eEB vorhanden
+
 Feldart Bedingung
 
 K
@@ -14612,6 +14381,10 @@ M
 k
 
 M
+
+cherten- karte ein- gelesen  wurde  Regel 876
+
+K Regel 895
 
 Erläuterung
 
@@ -14670,10 +14443,7 @@ Aufnahmegewicht in  Gramm bei Kleinkin- dern bis zu 1 Jahr
 
 5027 1
 
-5028
-
-| 1 | Datum Beginn der Leistung | M | Regel 706 |
-|---|---|---|---|
+5028  1
 
 5029  1
 
@@ -14687,20 +14457,13 @@ Aufnahmegewicht in  Gramm bei Kleinkin- dern bis zu 1 Jahr
 
 n 5035
 
-| 1 | Seitenlokalisation OPS | k | Regel 706 |
-|---|---|---|---|
-
 5041
 
-| 1 | (N)BSNR des Ortes der Leis- | M |  |
-|---|---|---|---|
-|  | tungserbringung |  |  |
-| 1 | Lebenslange Arztnummer | M |  |
-|  | (LANR) des Vertragsarz- |  |  |
-|  | tes/Vertragspsychothera- |  |  |
-|  | peuten |  |  |
+1
 
 5098
+
+1
 
 5099
 
@@ -14722,6 +14485,8 @@ SKT-Bemerkungen (N)BSNR des Überweisers
 
 Hybrid-DRG Leistung
 
+Datum Beginn der Leistung
+
 Datum Ende der Leistung
 
 Beatmungsstunden
@@ -14730,7 +14495,11 @@ freier Begründungstext
 
 OP-Datum
 
-OP-Schlüssel
+OP-Schlüssel 1 Seitenlokalisation OPS
+
+(N)BSNR des Ortes der Leis- tungserbringung
+
+Lebenslange Arztnummer  (LANR) des Vertragsarz- tes/Vertragspsychothera- peuten
 
 Feldart Bedingung
 
@@ -14752,6 +14521,8 @@ K
 
 M
 
+M Regel 706
+
 M
 
 K
@@ -14759,6 +14530,12 @@ K
 K
 
 K
+
+M
+
+k Regel 706
+
+M
 
 M
 
@@ -14815,10 +14592,7 @@ Feldbezeichnung 0103 Software
 
 0104 Grouper-Software
 
-0105
-
-| KBV-Prüfnummer | 15 -17 | a | 052 |  |
-|---|---|---|---|---|
+0105 KBV-Prüfnummer
 
 0132
 
@@ -14828,18 +14602,15 @@ Feldbezeichnung 0103 Software
 
 3000 Patientennummer
 
-3006
-
-| CDM Version | 5-11 | a | 055 |  |
-|---|---|---|---|---|
-|  |  |  | 308 |  |
-|  |  |  | 790 |  |
+3006 CDM Version
 
 a 60
 
-≤ 60 a
+≤ 60 a 15 -17 a
 
 a 20
+
+5-11 a
 
 3010
 
@@ -14854,6 +14625,10 @@ a 20
 | tualisierung |  |  |  |  |
 
 3011
+
+052
+
+055  308  790
 
 Feldart Bedingung
 
@@ -14980,10 +14755,7 @@ Feldbezeichnung
 
 3110
 
-3111
-
-| Aufnahmegewicht | ≤ 5 | n | 390 |  |
-|---|---|---|---|---|
+3111 Aufnahmegewicht
 
 3112 PLZ
 
@@ -15001,7 +14773,7 @@ Feldbezeichnung
 
 3119 Versicherten_ID
 
-10
+≤ 5 10
 
 40
 
@@ -15009,7 +14781,9 @@ Feldbezeichnung
 
 10
 
-a
+n
+
+a 390
 
 W = weiblich  X = unbestimmt  D = divers
 
@@ -15064,24 +14838,19 @@ Feldbezeichnung 776  537
 |---|---|---|---|---|
 | endercode |  |  |  |  |
 
-4104
+4104 Abrechnungs-VKNR
 
-| Abrechnungs-VKNR | 5 | n | 017 |  |
-|---|---|---|---|---|
-|  |  |  | 201 |  |
-|  |  |  | 212 |  |
-|  |  |  | 790 |  |
-| Kostenträger-Ab- | 2 | n | 174 | 00 = Primärabrechnung |
-
-4106  rechnungsbereich  (KTAB)
-
-20
+4106 Kostenträger-Ab- rechnungsbereich  (KTAB) 20
 
 10
 
 40
 
 8
+
+5
+
+2
 
 4109
 
@@ -15118,9 +14887,13 @@ a
 
 a
 
-a 778  779  780  818  827
+a
 
-01 = Sozialversicherungsabkommen  (SVA)  02 = Bundesversorgungsgesetz
+n 017  201  212  790
+
+n 174  778  779  780  818  827
+
+00 = Primärabrechnung  01 = Sozialversicherungsabkommen  (SVA)  02 = Bundesversorgungsgesetz
 
 (BVG)  03 = Bundesentschädigungsgesetz  (BEG)  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS)  06 = Sozialhilfeträger, ohne Asyl- stellen (SHT)  07 = Bundesvertriebenengesetz
 
@@ -15264,10 +15037,7 @@ Feldbezeichnung
 |---|---|---|---|---|
 | Leistung |  |  |  |  |
 
-5030
-
-| Beatmungsstunden | ≤4 | n | 896 |  |
-|---|---|---|---|---|
+5030 Beatmungsstunden ≤4
 
 5034 OP-Datum
 
@@ -15286,14 +15056,9 @@ Feldbezeichnung
 |  |  |  | 706 | B = beidseitig (Behandlungen bis |
 |  |  |  |  | 31.12.2025) |
 
-5098
+5098 (N)BSNR des Ortes 9
 
-| (N)BSNR des Ortes | 9 | n | 049 |  |
-|---|---|---|---|---|
-| der Leistungserbrin- |  |  |  |  |
-| gung |  |  |  |  |
-
-5099 Lebenslange Arzt-
+der Leistungserbrin- gung 5099 Lebenslange Arzt-
 
 9
 
@@ -15301,7 +15066,11 @@ nummer (LANR) des  Vertragsarztes/Ver- tragspsychothera- peuten 6009 Hauptdiagno
 
 (ICD-10-GM-Kode)
 
+n 896
+
 d 314  321  322  364
+
+n 049
 
 n 056  764
 
@@ -15342,17 +15111,9 @@ Feldbezeichnung J09.6
 |---|---|---|---|---|
 | Seitenlokalisation | 1 | a | 110 | R = rechts |
 
-Hauptdiagnose 6011
+Hauptdiagnose
 
-| Nebendiagnose | 3, 5, 6 | a | 024 |  |
-|---|---|---|---|---|
-| (ICD-10-GM-Kode) |  |  | 493 |  |
-|  |  |  | 494 |  |
-|  |  |  | 498 |  |
-|  |  |  | 499 |  |
-|  |  |  | 735 |  |
-|  |  |  | 737 |  |
-| Seitenlokalisation | 1 | a | 110 | R = rechts |
+6011 Nebendiagnose  (ICD-10-GM-Kode) 3, 5, 6
 
 6012
 
@@ -15393,7 +15154,7 @@ Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitung
 
 017
 
-824
+a 024  493  494  498  499  735  737 824
 
 d
 
@@ -15407,7 +15168,7 @@ nn = KV-Kennung  mmm = Seriennummer
 
 Beispiel 20240502
 
-Kategorie Feldbezeichnung abcd/q<rs
+Kategorie Feldbezeichnung Seitenlokalisation 1 110 R = rechts abcd/q<rs
 
 
 ---
@@ -15685,12 +15446,11 @@ sind, muss FK 3006 vorhanden sein.
 
 321
 
-|  | OP-Datum (FK 5034)  Versicherungs- |  |
-|---|---|---|
-|  | schutz Ende (FK 4110) |  |
-| Kontext | Falls FK 4133 vorhanden ist, dann gilt: | W |
+OP-Datum (FK 5034)  Versicherungs-
 
-322
+schutz Ende (FK 4110) 322 Kontext
+
+Falls FK 4133 vorhanden ist, dann gilt:
 
 Prüf- Erläuterung
 
@@ -15726,7 +15486,7 @@ Vermeidung von Fehleingaben
 
 Vermeidung von Fehleingaben
 
-Vermeidung von Fehleingaben
+W Vermeidung von Fehleingaben
 
 
 ---
@@ -15741,59 +15501,41 @@ Prüf- Erläuterung
 
 status
 
-|  | OP-Datum (FK 5034) >= Versicherungs- |  |
-|---|---|---|
-|  | schutz Beginn (FK 4133) |  |
-| Kontext | Wenn das Feld 4125 vorhanden ist, | W |
+OP-Datum (FK 5034) >= Versicherungs- schutz Beginn (FK 4133) 364 Kontext
 
-364
+Wenn das Feld 4125 vorhanden ist,
 
-Vermeidung von Fehleingaben
+W Vermeidung von Fehleingaben
 
-|  | dann muss das Datum des Feldes 5034 |  |
-|---|---|---|
-|  | (OP-Datum) in dem Zeitraum liegen, |  |
-|  | welcher durch die Angabe in Feld 4125 |  |
-|  | (Gültigkeitszeitraum von ... bis ...) defi- |  |
-|  | niert ist. |  |
-| Kontext | Wenn das Feld 4125 vorhanden ist, | W |
+dann muss das Datum des Feldes 5034  (OP-Datum) in dem Zeitraum liegen,  welcher durch die Angabe in Feld 4125  (Gültigkeitszeitraum von ... bis ...) defi- niert ist.
 
-365
+365 Kontext
 
-Vermeidung von Fehleingaben
+Wenn das Feld 4125 vorhanden ist,
 
-|  | dann muss das Datum des Feldes 5028 |  |
-|---|---|---|
-|  | (Datum Beginn der Leistung) in dem |  |
-|  | Zeitraum liegen, welcher durch die An- |  |
-|  | gabe in Feld 4125 (Gültigkeitszeitraum |  |
-|  | von ... bis ...) definiert ist. |  |
-| Kontext | Wenn das Feld 4125 vorhanden ist, | W |
+W Vermeidung von Fehleingaben
 
-366
+dann muss das Datum des Feldes 5028  (Datum Beginn der Leistung) in dem  Zeitraum liegen, welcher durch die An- gabe in Feld 4125 (Gültigkeitszeitraum  von ... bis ...) definiert ist.
 
-Vermeidung von Fehleingaben
+366 Kontext
 
-|  | dann muss das Datum des Feldes 5029 |  |
-|---|---|---|
-|  | (Datum Ende der Leistung) in dem Zeit- |  |
-|  | raum liegen, welcher durch die Angabe |  |
-|  | in Feld 4125 (Gültigkeitszeitraum von ... |  |
-|  | bis ...) definiert ist. |  |
-| Kontext | Wenn das Alter des Versicherten ≤ 1 | W |
+Wenn das Feld 4125 vorhanden ist,
 
-390
+W Vermeidung von Fehleingaben
 
-|  | Jahr (FK 5028 (Datum Beginn der Leis- |  |
-|---|---|---|
-|  | tung) - FK 3103 (Geburtsdatum)) ist, |  |
-|  | muss das Feld 3111 (Aufnahmegewicht) |  |
-|  | vorhanden sein. |  |
-| Kontext | Wenn zu dem ICD-Code (FK 6009/ 6011) | W |
+dann muss das Datum des Feldes 5029  (Datum Ende der Leistung) in dem Zeit- raum liegen, welcher durch die Angabe  in Feld 4125 (Gültigkeitszeitraum von ...  bis ...) definiert ist.
 
-493
+390 Kontext
 
-SDICD
+Wenn das Alter des Versicherten ≤ 1
+
+W
+
+Jahr (FK 5028 (Datum Beginn der Leis- tung) - FK 3103 (Geburtsdatum)) ist,  muss das Feld 3111 (Aufnahmegewicht)  vorhanden sein.
+
+Wenn zu dem ICD-Code (FK 6009/ 6011) 493 Kontext
+
+W SDICD
 
 in der SDICD die Elemente „*untere_al-*
 
@@ -15832,11 +15574,7 @@ Prüfung
 
 Prüf- status
 
-|  | „*Bitte Kodierung überprüfen: Diagnosen* |  |
-|---|---|---|
-|  | *dieses Kodes sind in Mitteleuropa sehr* |  |
-|  | *selten*.“ |  |
-| Kontext | Wenn zu einer Diagnose (FK 6009/ | F |
+*Bitte Kodierung überprüfen: Diagnosen*  *dieses Kodes sind in Mitteleuropa sehr*
 
 498
 
@@ -15858,14 +15596,15 @@ Prüf- status
 
 706
 
-|  | 6011) in der SDICD das Element „schlüs- |  |
-|---|---|---|
-|  | selnummer_mit_inhalt_belegt“ mit In- |  |
-|  | halt „n“ existiert, darf diese nicht über- |  |
-|  | tragen werden |  |
-| Kontext | Der Inhalt von FK 6009/ 6011 muss als | F |
+*selten*
 
-Element „icd_code“ und dem Kindele- ment „abrechenbar“ mit dem Inhalt  V=“j“ in der SDICD vorhanden sein.
+Kontext
+
+Wenn zu einer Diagnose (FK 6009/  6011) in der SDICD das Element „schlüs- selnummer_mit_inhalt_belegt“ mit In- halt „n“ existiert, darf diese nicht über- tragen werden
+
+Kontext
+
+Der Inhalt von FK 6009/ 6011 muss als  Element „icd_code“ und dem Kindele- ment „abrechenbar“ mit dem Inhalt  V=“j“ in der SDICD vorhanden sein.
 
 erlaubter Inhalt 1, 2, 3, 4, 5, 6
 
@@ -15899,9 +15638,9 @@ Wenn zu einer Diagnose (FK 6009/  6011) das Element „*notationskennzei-*
 
 Erläuterung
 
-SDICD
+F SDICD
 
-SDICD
+F SDICD
 
 F
 
@@ -15917,9 +15656,6 @@ Für Behandlungsfälle ab  01.01.2026 kann der Wertebe- reich der Seitenlokalisa
 
 F SDICD
 
-| 539 |  | erlaubter Inhalt |  | 00, 04, 06, 07, 09 | F |  |
-|---|---|---|---|---|---|---|
-
 
 ---
 
@@ -15933,82 +15669,77 @@ Prüf- Erläuterung
 
 status
 
-|  | vorhanden, mit Inhalt „+“ (=Primär- |  |
-|---|---|---|
-|  | code) vorhanden sein |  |
-| Kontext | Wenn der Kostenträger der KT-Gruppe | W |
+vorhanden, mit Inhalt „+“ (=Primär- code) vorhanden sein 734 Kontext
 
-734
+Wenn der Kostenträger der KT-Gruppe W Plausibilitätsprüfung der Perso-
 
-Plausibilitätsprüfung der Perso-
+75 entspricht (Element /kostentraeger-
 
-|  | 75 entspricht (Element /kostentraeger- |  |
-|---|---|---|
-|  | gruppe (kts)), dann muss der Inhalt des |  |
-|  | Feldes 4124 dem Format „TTMMJJann- |  |
-|  | nnn“ entsprechen. |  |
-| Kontext | Der (Ersatz-)wert „888888800“ ist obso- | F |
+nenkennziffer bei dem bundes-
 
-nenkennziffer bei dem bundes- weiten SKT Bundeswehr 764
+gruppe (kts)), dann muss der Inhalt des
 
-|  | let und als Feldinhalt von 4242 und |  |
-|---|---|---|
-|  | 5099 unzulässig. |  |
-| Kontext | Wenn FK 4109 und FK 3006 vorhanden | F |
+weiten SKT Bundeswehr
 
-775
+Feldes 4124 dem Format „TTMMJJann-
 
-|  | sind, dann muss das Feld 4133 vorhan- |  |
-|---|---|---|
-|  | den sein. |  |
-| Kontext | Falls FK 4109 vorhanden ist und der In- | F |
+nnn“ entsprechen.
 
-776
+764 Kontext
 
-|  | halt der Stellen 3 - 5 des Feldes 4104 < |  |
-|---|---|---|
-|  | 800, dann muss das Feld 3119 vorhan- |  |
-|  | den sein. |  |
-|  | Falls FK 4109 vorhanden ist und der In- |  |
-|  | halt der Stellen 3 - 5 des Feldes 4104 >= |  |
-|  | 800, dann muss entweder das Feld 3105 |  |
-|  | oder das Feld 3119 vorhanden sein. |  |
-| Kontext | Wenn Feldinhalt von FK 4131 ="07” | F |
+Der (Ersatz-)wert „888888800“ ist obso- F
 
-778
+let und als Feldinhalt von 4242 und  5099 unzulässig.
 
-|  | oder "08", dann muss Feldinhalt von FK |  |
-|---|---|---|
-|  | 4106 = "01" oder „09“ sein. |  |
-| Kontext | Wenn Feldinhalt von FK 4131 ="06”, | F |
+775 Kontext
 
-779
+Wenn FK 4109 und FK 3006 vorhanden F
 
-|  | dann muss Feldinhalt von FK 4106 = |  |
-|---|---|---|
-|  | "02" oder „09“ sein. |  |
-| Kontext | Wenn Feldinhalt von FK 4131 ="04”, | F |
+sind, dann muss das Feld 4133 vorhan- den sein.
 
-780
+776 Kontext
 
-|  | dann muss Feldinhalt von FK 4106 = |  |
-|---|---|---|
-|  | "00" oder „09“ sein. |  |
-| Kontext | Wenn FK 4109 und FK 3006 vorhanden | F |
+Falls FK 4109 vorhanden ist und der In- F
 
-784
+halt der Stellen 3 - 5 des Feldes 4104 <  800, dann muss das Feld 3119 vorhan- den sein.  Falls FK 4109 vorhanden ist und der In- halt der Stellen 3 - 5 des Feldes 4104 >=  800, dann muss entweder das Feld 3105  oder das Feld 3119 vorhanden sein.
 
-|  | sind, muss das Feld 3114 und/oder Feld |  |
-|---|---|---|
-|  | 3124 vorhanden sein. |  |
-| Kontext | Wenn FK 4109 vorhanden ist und FK | F |
-|  | 3006 nicht vorhanden, dann muss der |  |
-|  | Inhalt der Stellen 3 - 5 der FK 4104 >= |  |
-|  | 800 sein. |  |
+778 Kontext
 
-790
+Wenn Feldinhalt von FK 4131 ="07”
 
-vorhanden, mit Inhalt „+“  (=Primär-KVK ab 01.01.2015 nur zulässig  bei „originären“ SKT
+F
+
+oder "08", dann muss Feldinhalt von FK  4106 = "01" oder „09“ sein.
+
+779 Kontext
+
+Wenn Feldinhalt von FK 4131 ="06”,
+
+F
+
+dann muss Feldinhalt von FK 4106 =  "02" oder „09“ sein.
+
+780 Kontext
+
+Wenn Feldinhalt von FK 4131 ="04”,
+
+F
+
+dann muss Feldinhalt von FK 4106 =  "00" oder „09“ sein.
+
+784 Kontext
+
+Wenn FK 4109 und FK 3006 vorhanden F
+
+sind, muss das Feld 3114 und/oder Feld  3124 vorhanden sein.
+
+790 Kontext
+
+Wenn FK 4109 vorhanden ist und FK
+
+F KVK ab 01.01.2015 nur zulässig  bei „originären“ SKT
+
+3006 nicht vorhanden, dann muss der  Inhalt der Stellen 3 - 5 der FK 4104 >=  800 sein.
 
 
 ---
@@ -16024,37 +15755,23 @@ vorhanden, mit Inhalt „+“  (=Primär-KVK ab 01.01.2015 nur zulässig  bei �
 
 824
 
-|  | hdrg0 ist, dann muss der Inhalt des Fel- |  |
-|---|---|---|
-|  | des 9212 der aktuellen Versionsangabe |  |
-|  | entsprechen. |  |
-| Kontext | Wenn zu einem ICD-Code (Feldinhalt FK | W |
+hdrg0 ist, dann muss der Inhalt des Fel- des 9212 der aktuellen Versionsangabe  entsprechen.
 
-737
+737 Kontext
 
-|  | 6009 bzw. 6011) in der SDICD das Ele- |  |
-|---|---|---|
-|  | ment „geschlechtsbezug“ existiert und |  |
-|  | der Inhalt von Element „geschlechtsbe- |  |
-|  | zug_fehlerart“ = „k“ ist, dann muss das |  |
-|  | Geschlecht in FK 3110 (sofern 3110  X, |  |
-|  | D) zu der Angabe unter Element „ge- |  |
-|  | schlechtsbezug“ (SDICD) passen. |  |
-| Kontext | Wenn Feldinhalt von FK 4131 ="09”, | W |
+Wenn zu einem ICD-Code (Feldinhalt FK  6009 bzw. 6011) in der SDICD das Ele- ment „geschlechtsbezug“ existiert und  der Inhalt von Element „geschlechtsbe- zug_fehlerart“ = „k“ ist, dann muss das  Geschlecht in FK 3110 (sofern 3110  X,
 
-818
+D) zu der Angabe unter Element „ge- schlechtsbezug“ (SDICD) passen.
 
-|  | dann soll Feldinhalt von FK 4106 = "00" |  |
-|---|---|---|
-|  | oder „09“ sein. |  |
-| Kontext | Falls Feld 4109 vorhanden ist und Feld | W |
+Wenn Feldinhalt von FK 4131 ="09”,
 
-827
+818 Kontext
 
-|  | 4131 = 00, dann muss der Feldinhalt von |  |
-|---|---|---|
-|  | Feld 4106 = 00 oder 09 sein. |  |
-| Kontext | Wenn die FK 3010 vorhanden ist, dann | W |
+dann soll Feldinhalt von FK 4106 = "00"  oder „09“ sein.
+
+Falls Feld 4109 vorhanden ist und Feld 827 Kontext
+
+4131 = 00, dann muss der Feldinhalt von  Feld 4106 = 00 oder 09 sein.
 
 876
 
@@ -16064,17 +15781,11 @@ vorhanden, mit Inhalt „+“  (=Primär-KVK ab 01.01.2015 nur zulässig  bei �
 
 895
 
-|  | dürfen die FK 4109 und FK 3010 und FK |  |
-|---|---|---|
-|  | 3006 nicht vorhanden sein. |  |
-| Kontext | Wenn die FK 5030 vorhanden ist, dann | W |
+dürfen die FK 4109 und FK 3010 und FK  3006 nicht vorhanden sein.
 
-896
+896 Kontext
 
-|  | darf diese nicht mit einem Wert >0 be- |  |
-|---|---|---|
-|  | füllt werden. |  |
-| Kontext | Wenn die FK 4109 vorhanden ist, dann | siehe |
+Wenn die FK 5030 vorhanden ist, dann  darf diese nicht mit einem Wert >0 be- füllt werden.
 
 898
 
@@ -16089,13 +15800,21 @@ vorhanden, mit Inhalt „+“  (=Primär-KVK ab 01.01.2015 nur zulässig  bei �
 
 999*
 
+W
+
+W
+
+W
+
+W
+
 Erläuterung
 
 Stimmt das Geschlecht des Pati- enten nicht mit der Angabe im  Element „geschlechtsbezug“  überein, ist vom PVS darauf hin- zuweisen (vgl.  KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)   SDICD
 
 Falls eine Beatmung notwendig  ist, dann wird die Leistung zu  DRG-Leistungen und nicht zu  Hybrid-DRG-Leistungen grup- piert.
 
-Kategorie zug_fehlerart“ =  „k“ ist, dann muss das Für Praxiscomp. bei Rücksen- dung
+Kategorie Wenn die FK 3010 vorhanden ist, dann Kontext Wenn die FK 4109 vorhanden ist, dann siehe Für Praxiscomp. bei Rücksen- dung
 
 
 ---
@@ -16124,10 +15843,7 @@ Feldtyp,  Vorkommen in Satzart,  teilweise ergänzende Erläuterung.
 
 0103
 
-0104
-
-| Grouper-Software | ≤ 60 | a | hdrg0 |
-|---|---|---|---|
+0104 Grouper-Software
 
 0105
 
@@ -16145,30 +15861,50 @@ Feldtyp,  Vorkommen in Satzart,  teilweise ergänzende Erläuterung.
 
 0126
 
-| KBV-Prüfnummer | 15 – 17 | a | adt0, kad0, sad0, hdrg0 |
-|---|---|---|---|
+KBV-Prüfnummer
 
-| Email-Adresse des SV |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Email-Adresse des SV
 
-| Straße des SV |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Straße des SV
 
-| PLZ des SV |  7 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+PLZ des SV
 
-| Ort des SV |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Ort des SV
 
-| Telefonnummer des SV |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Telefonnummer des SV
 
 | Telefaxnummer des SV |  60 | a | adt0, kad0, sad0 |
 |---|---|---|---|
 | Regionaler Systembe- |  60 | a | adt0, kad0, sad0 |
 | treuer (SB) |  |  |  |
 
+≤ 60 15  17
+
+60
+
+60
+
+7
+
+60
+
+60
+
 hdrg0
+
+a hdrg0
+
+a adt0, kad0, sad0, hdrg0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
 
 Erläuterung
 
@@ -16211,17 +15947,13 @@ Feldbezeichnung Regionaler Systembetreuer  ist die juristische oder natür- lich
 
 „Alt Gr“ und „<“ erzeugt
 
-| Straße des SB |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Straße des SB
 
-| PLZ des SB |  7 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+PLZ des SB
 
-| Ort des SB |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Ort des SB
 
-| Telefonnummer des SB |  60 | a | adt0, kad0, sad0 |
-|---|---|---|---|
+Telefonnummer des SB
 
 | Telefaxnummer des SB |  60 | a | adt0, kad0, sad0 |
 |---|---|---|---|
@@ -16231,10 +15963,7 @@ Feldbezeichnung Regionaler Systembetreuer  ist die juristische oder natür- lich
 |---|---|---|---|
 | Betriebs- (BSNR) oder Ne- | 9 | n | besa, rvsa |
 
-| benbetriebsstättennum- |  |  |  |
-|---|---|---|---|
-| mer (NBSNR) |  |  |  |
-| (N)BSNR-/Krankenhaus- |  60 | a | besa |
+benbetriebsstättennum- mer (NBSNR)
 
 | Bezeichnung |  |  |  |
 |---|---|---|---|
@@ -16242,13 +15971,32 @@ Feldbezeichnung Regionaler Systembetreuer  ist die juristische oder natür- lich
 
 /Krankenhaus-Adresse
 
-| Telefonnummer |  60 | a | besa |
-|---|---|---|---|
+Telefonnummer
 
 | Telefaxnummer |  60 | a | besa |
 |---|---|---|---|
 | Arztname oder Erläute- |  60 | a | besa |
 | rung |  |  |  |
+
+60
+
+7
+
+60
+
+60
+
+60
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a adt0, kad0, sad0
+
+a besa
 
 des Softwareverantwortli- chen Dienstleistungen bzgl.  der zugelassenen Software  vornimmt.
 
@@ -16258,7 +16006,7 @@ Dieses Feld dient grundsätz- lich zur Übertragung des Re- lease-Stands der Sof
 
 25-60: sonstige Informatio- nen
 
-enkombination
+(N)BSNR-/Krankenhaus-enkombination
 
 
 ---
@@ -16289,10 +16037,7 @@ enkombination
 
 Lebenslange Arztnummer  (LANR)  **Ersatzwert**: 999999900
 
-| Krankenhaus-IK (im Rah- | 9 | n | besa |
-|---|---|---|---|
-
-men der ASV-Abrech- nung)
+Krankenhaus-IK (im Rah- men der ASV-Abrech- nung)
 
 | KV-Bereich | 2 | n | besa |
 |---|---|---|---|
@@ -16308,28 +16053,41 @@ men der ASV-Abrech- nung)
 
 Praxis/Krankenhaus
 
-| Titel des Arztes |  100 | a | besa |
-|---|---|---|---|
+Titel des Arztes
 
-| Arztvorname |  45 | a | besa |
-|---|---|---|---|
+Arztvorname
 
-| Namenszusatz des Arztes |  20 | a | besa |
-|---|---|---|---|
+Namenszusatz des Arztes
 
 | ASV-Teamnummer | 9 | n | besa |
 |---|---|---|---|
 | Pseudo-LANR für Kranken- | 9 | n | besa |
 
-| hausärzte im Rahmen der |  |  |  |
-|---|---|---|---|
-| ASV-Abrechnung |  |  |  |
-| Produkttypversion des |  20 | a | besa |
-| Konnektors |  |  |  |
+hausärzte im Rahmen der  ASV-Abrechnung
+
+Produkttypversion des  Konnektors 9
 
 9
 
+100
+
+45
+
+20
+
+20
+
 n besa
+
+n besa
+
+a besa
+
+a besa
+
+a besa
+
+a besa
 
 | Die |  | Produkttypversion | des |
 |---|---|---|---|
@@ -16379,9 +16137,6 @@ Die Produkttypversion des Konnektors kann über die Außenschnittstelle der Tele
 
 3000
 
-| TI-Fachanwendung / TI- | 1-2 | n | besa |
-|---|---|---|---|
-
 | Komponente |  |  |  |
 |---|---|---|---|
 | Systemunterstützung / | 1 | n | besa |
@@ -16400,22 +16155,34 @@ Die Produkttypversion des Konnektors kann über die Außenschnittstelle der Tele
 
 katspflichtigen) Laborleis- tungen
 
-| pnSD/uu-Analysen | 1 | n | rvsa |
-|---|---|---|---|
+pnSD/uu-Analysen
 
-| Gerätetyp |  60 | a | rvsa |
-|---|---|---|---|
+Gerätetyp
 
-| Hersteller |  60 | a | rvsa |
-|---|---|---|---|
+Hersteller
 
-| Analyt-ID | 3 | n | rvsa |
-|---|---|---|---|
+Analyt-ID
 
 | RV-Zertifikat | 1 | n | rvsa |
 |---|---|---|---|
 | Patientennummer |  20 | a | 0101, 0102, 0103, 0104, |
 |  |  |  | 0109, hdrg1 |
+
+1
+
+60
+
+60
+
+3
+
+n rvsa
+
+a rvsa
+
+a rvsa
+
+n rvsa
 
 Eine manuelle Erfassung  durch den Anwender ist nicht  zu ermöglichen.
 
@@ -16423,15 +16190,12 @@ Dieses Feld dient zur Kenn- zeichnung der TI-Fachanwen- dung bzw. der TI-Kompo- 
 
 Dieses Feld dient zum Nach- weis, dass in einer Betriebs- stätte ein Primärsystem zur  Verfügung steht, welches die  Funktionsmerkmale der in FK  0225 angegebenen TI-Fach- anwendung unterstützt bzw.  die in FK 0225 angegebene  TI-Komponente unterstützt  hat.  Dieses Feld muss automa- tisch vorbelegt werden. Eine  manuelle Erfassung durch  den Anwender ist zu ermögli- chen.
 
-Dieses Feld dient zur Über- tragung der praxisinternen  Patientennummer. Diese An- gabe kann im Rahmen der  Fehlerprotokoll-Schnittstelle
+TI-Fachanwendung / TI- 1-2 Dieses Feld dient zur Über- tragung der praxisinternen  Patientennummer. Diese An- gabe kann im Rahmen der  Fehlerprotokoll-Schnittstelle
 
 
 ---
 
-3003
-
-| Schein-ID |  60 | a | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
+3003 Schein-ID
 
 3005
 
@@ -16442,7 +16206,11 @@ Dieses Feld dient zur Über- tragung der praxisinternen  Patientennummer. Diese 
 
 3006
 
-14 CDM = Abkürzung für Common Data Model 0109
+14 CDM = Abkürzung für Common Data Model 60
+
+a 0101, 0102, 0103, 0104,
+
+0109
 
 des ADT-Prüfmoduls verwen- det werden, vgl. ADT-Prüf- modul-Handbuch.
 
@@ -16468,9 +16236,6 @@ Laut Auskunft der gematik  sind die Schemaversionen  dieser Dateien untereinande
 3100
 
 Datum und Uhrzeit der  Onlineprüfung und -aktu- alisierung (Timestamp)
-
-| Ergebnis der Onlineprü- | 1 | n | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
 
 | fung und -aktualisierung |  |  | 0109, hdrg1 |
 |---|---|---|---|
@@ -16509,7 +16274,7 @@ Inhalt von Element */PN/EC*
 
 Inhalt von Element /PN/PZ
 
-Codierung gemäß DEÜV, An- lage 07 (Tabelle der gültigen  Namenszusätze) unter  [http://www.gkv-datenaus-](http://www.gkv-datenaus-) tausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
+Ergebnis der Onlineprü-Codierung gemäß DEÜV, An- lage 07 (Tabelle der gültigen  Namenszusätze) unter  [http://www.gkv-datenaus-](http://www.gkv-datenaus-) tausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
 
 
 ---
@@ -16528,9 +16293,6 @@ Codierung gemäß DEÜV, An- lage 07 (Tabelle der gültigen  Namenszusätze) unt
 
 Name
 
-| Vorname |  45 | a | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
-
 |  |  |  | 0109, hdrg1 |
 |---|---|---|---|
 | Geburtsdatum | 8 | n | 0101, 0102, 0103, 0104, |
@@ -16543,12 +16305,15 @@ Name
 |---|---|---|---|
 | Versichertennummer | 6-12 | n | 0101, 0102, 0103, 0104, |
 
-|  |  |  | hdrg1 |
-|---|---|---|---|
-| Straße |  46 | a | 0101, 0102, 0103, 0104, |
-|  |  |  | 0109, hdrg1 |
+Straße 45
 
-45 a 0101, 0102, 0103, 0104,  0109, hdrg1
+46
+
+a 0101, 0102, 0103, 0104,  0109, hdrg1
+
+hdrg1
+
+a 0101, 0102, 0103, 0104,  0109, hdrg1
 
 Transformationsempfehlung  bei Erfassung eines Geburts- datums im Ersatzverfahren  ohne Arzt-Patienten-Kontakt:  Das in Druckzeile 3, Position  23  30 ausgedruckte Ge- burtsdatum im Format  „TT.MM.JJ“ muss in die Form  „JJJJMMTT“ transformiert  werden.  Wenn JJ <= 3.-4.Stelle der ak- tuellen vierstelligen Jahres- zahl und Datumsangabe <  Systemdatum, dann JJJJ =  Verkettung (‘20‘,JJ), sonst JJJJ  = Verkettung (‘19‘,JJ).
 
@@ -16556,7 +16321,7 @@ Geburtsdaten in der Form  JJJJMM00, JJJJ0000 und  00000000 sind gültige Da- tum
 
 Dieses Feld dient zur Über- tragung der KVK-Versicher- tennummer.
 
-Auf der eGK sind unter- schiedliche Strukturen für die  Aufnahme einer Straßenad- resse und/oder einer Post- fachadresse definiert. Falls  beide Adresstyen auf einer  eGK vorhanden sind, können  sowohl die Straßenadresse  (FK 3107, 3109, 3112, 3113,  3114, 3115) als auch die  Postfachadresse (FK 3121
+Vorname  45 Auf der eGK sind unter- schiedliche Strukturen für die  Aufnahme einer Straßenad- resse und/oder einer Post- fachadresse definiert. Falls  beide Adresstyen auf einer  eGK vorhanden sind, können  sowohl die Straßenadresse  (FK 3107, 3109, 3112, 3113,  3114, 3115) als auch die  Postfachadresse (FK 3121
 
 
 ---
@@ -16577,9 +16342,6 @@ Auf der eGK sind unter- schiedliche Strukturen für die  Aufnahme einer Straßen
 
 15 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs nung - DEÜV)
 
-| Versichertenart | 1 | n | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
-
 |  |  |  | 0109, hdrg1 |
 |---|---|---|---|
 | Hausnummer |  9 | a | 0101, 0102, 0103, 0104, |
@@ -16596,12 +16358,11 @@ Auf der eGK sind unter- schiedliche Strukturen für die  Aufnahme einer Straßen
 |---|---|---|---|
 | Ort |  40 | a | 0101, 0102, 0103, 0104, |
 
-|  |  |  | 0109, hdrg1 |
-|---|---|---|---|
-| Wohnsitzlaendercode |  3 | a | 0101, 0102, 0103, 0104, |
-|  |  |  | 0109, hdrg1 |
+Wohnsitzlaendercode  3 0109, hdrg1
 
 0109, hdrg1
+
+a 0101, 0102, 0103, 0104,  0109, hdrg1
 
 3124) in einem Datensatz  010x vorhanden sein. Die  Straßenadresse hat im Rah- men der Bedruckung eines  Personalienfeldes Priorität,  vgl. „Mappingtabelle_KVK“  [KBV_ITA_VGEX_Map- ping_KVK]   Gemäß der Dokumentation  zum eGK-Schema VSD 5.2.0  gilt zum Element ///Strasse  folgendes: Gibt den Namen  der Strasse an. Wenn die  Hausnummer nicht separat  abgelegt werden kann, ist es  zulässig, die Hausnummer in  das Feld Straße zu überneh- men. Anlage 9.4 (…)
 
@@ -16611,7 +16372,7 @@ Sofern auf einer eGK der  Straßenname und die Haus- nummer in einem Element  //
 
 Codierung gemäß DEÜV Anlage 08 (Staatsangehörig- keit und Länderkennzeichen  für Auslandsanschriften) un- ter [http://www.gkv-daten-](http://www.gkv-daten-) austausch.de/arbeitge-
 
-- und -Übermittlungsverord-
+Versichertenart - und -Übermittlungsverord-
 
 
 ---
@@ -16624,9 +16385,6 @@ Codierung gemäß DEÜV Anlage 08 (Staatsangehörig- keit und Länderkennzeichen
 
 3120
 
-| Anschriftenzusatz |  40 | a | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
-
 |  |  |  | 0109, hdrg1 |
 |---|---|---|---|
 | WOP | 2 | n | 0101, 0102, 0103, 0104, |
@@ -16635,10 +16393,11 @@ Codierung gemäß DEÜV Anlage 08 (Staatsangehörig- keit und Länderkennzeichen
 |---|---|---|---|
 | Versicherten_ID | 10 | a | 0101, 0102, 0103, 0104, |
 
-|  |  |  | 0109, hdrg1 |
-|---|---|---|---|
-| Vorsatzwort |  20 | a | 0101, 0102, 0103, 0104, |
-|  |  |  | 0109, hdrg1 |
+Vorsatzwort 20
+
+0109, hdrg1
+
+a 0101, 0102, 0103, 0104,  0109, hdrg1
 
 ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
 
@@ -16656,7 +16415,7 @@ B. Überweisungsschein im La- bor) **kann** eine Überprüfung
 
 zur Vermeidung von Tipp-  bzw. Lesefehlern (OCR) erfol- gen.
 
-Codierung gemäß DEÜV, An- lage 06 (Tabelle der gültigen
+Anschriftenzusatz  40 a Codierung gemäß DEÜV, An- lage 06 (Tabelle der gültigen
 
 
 ---
@@ -16684,9 +16443,6 @@ Codierung gemäß DEÜV, An- lage 06 (Tabelle der gültigen
 16 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs
 
 nung - DEÜV)
-
-| PostfachPLZ |  10 | a | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
 
 |  |  |  | 0109, hdrg1 |
 |---|---|---|---|
@@ -16718,12 +16474,13 @@ code
 |---|---|---|---|
 | Diagnosenausnahmetat- |  60 | a | 0101, 0102, 0103, 0104 |
 
-| bestand Dauerdiagnosen |  |  |  |
-|---|---|---|---|
-| Quartal | 5 | n | 0101, 0102, 0103, 0104, |
-|  |  |  | sad1, sad2, sad3 |
+bestand Dauerdiagnosen
+
+Quartal 5
 
 0109, hdrg1
+
+n 0101, 0102, 0103, 0104,  sad1, sad2, sad3
 
 Vorsatzworte) unter  [http://www.gkv-datenaus-](http://www.gkv-datenaus-) tausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
 
@@ -16731,7 +16488,9 @@ Dieses Feld dient zur Über- tragung der Postfach**nummer**
 
 ohne beschreibendes Schlüs- selwort.  Beispiel:  Übertragung der Postfach- nummer "12345"  Falsch: 0173123Postf 12  Falsch: 0173123Postfach  Korrekt: 014312312345 16
 
-Codierung gemäß DEÜV Anlage 08 (Staatsangehörig- keit und Länderkennzeichen  für Auslandsanschriften) un- ter [http://www.gkv-daten-](http://www.gkv-daten-) austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp - und -übermittlungsverord-
+Codierung gemäß DEÜV Anlage 08 (Staatsangehörig- keit und Länderkennzeichen  für Auslandsanschriften) un- ter [http://www.gkv-daten-](http://www.gkv-daten-) austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
+
+PostfachPLZ - und -übermittlungsverord-
 
 
 ---
@@ -16772,17 +16531,9 @@ Ausstellungsdatum
 |---|---|---|---|
 | Abrechnungs-VKNR | 5 | n | 0101, 0102, 0103, 0104, |
 
-|  |  |  | 0109, sad1, sad2, sad3, |
-|---|---|---|---|
-|  |  |  | hdrg1 |
-| Ergänzende Informatio- |  60 | a | 0101, 0102, 0103, 0104 |
+Ergänzende Informatio- nen zur Vermittlungs- /Kontaktart
 
-| nen zur Vermittlungs- |  |  |  |
-|---|---|---|---|
-| /Kontaktart |  |  |  |
-| Kostenträger-Abrech- | 2 | n | 0101, 0102, 0103, 0104, |
-
-nungsbereich (KTAB)
+Kostenträger-Abrech- nungsbereich (KTAB)
 
 | Vermittlungscode | 14 | a | 0101, 0102, 0103, 0104 |
 |---|---|---|---|
@@ -16800,19 +16551,13 @@ nungsbereich (KTAB)
 |---|---|---|---|
 | Kostentraegerkennung | 9 | n | 0101, 0102, 0103, 0104, |
 
-|  |  |  | 0109, sad1, sad2, sad3, |
-|---|---|---|---|
-|  |  |  | hdrg1 |
-| eEB vorhanden | 1 | n | 0101, 0102, 0103, 0104, |
-
 |  |  |  | 0109, hdrg1 |
 |---|---|---|---|
 | Tag der Terminvermitt- | 8 | d | 0101, 0102, 0103, 0104 |
 
 lung
 
-| Gebührenordnung | 1 | n | 0101, 0102, 0103, 0104, |
-|---|---|---|---|
+Gebührenordnung
 
 | Abrechnungsgebiet | 2 | n | 0101, 0102, 0103, 0104, |
 |---|---|---|---|
@@ -16821,7 +16566,19 @@ lung
 
 8
 
-d 0101, 0102, 0103, 0109
+60
+
+2
+
+1
+
+d 0101, 0102, 0103, 0109 0109, sad1, sad2, sad3,
+
+hdrg1
+
+a 0101, 0102, 0103, 0104
+
+n 0101, 0102, 0103, 0104,
 
 hdrg1
 
@@ -16831,8 +16588,15 @@ Transformation des KVK-Fel- des „Bis-Datum der Gültig-
 
 keit“ im Format „MMJJ“ in  die Form „JJJJMMTT“ not- wendig, wobei TT = letzter  möglicher Tag dieses Monats  und JJJJ = Verkettung (’20‘,JJ),  vgl. Mappingtabelle_KVK  [KBV_ITA_VGEX_Map-
 
+0109, sad1, sad2, sad3,
+
+hdrg1
+
+n 0101, 0102, 0103, 0104,
+
 ping_KVK]
 
+eEB vorhanden 0101, 0102, 0103, 0104,
 
 ---
 
@@ -16853,9 +16617,6 @@ ping_KVK]
 4202
 
 SKT-Zusatzangaben
-
-| Gültigkeitszeitraum von … | 16 | n | 0101, 0102, 0104, |
-|---|---|---|---|
 
 | bis … |  |  | hdrg1 |
 |---|---|---|---|
@@ -16893,6 +16654,7 @@ eGK:
 
 2. Priorität:  Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz /Kostentrae- ger/Name  Das Feld muss übertragen  werden, wenn eine Versi- chertenkarte eingelesen  wurde. Dies gilt auch, wenn  die Daten von einem mobilen  Kartenterminal in ein PVS  übernommen werden.  Eine manuelle Erfassung  durch den Anwender im Er- satzverfahren ist nicht gefor- dert, da faktisch nicht mög- lich.  Auch der aus der KT-Stamm- datei abgeleitete "Kassen- name zur Bedruckung" darf  nicht übertragen werden.
 
+Gültigkeitszeitraum von … 16 0101, 0102, 0104,
 
 ---
 
@@ -17002,9 +16764,6 @@ Dieses Feld dient zur Kenn- zeichnung von Fällen mit „eingeschränktem Leistu
 
 Zusätzliche Angaben zu  Untersuchungen
 
-| Behandlungstag bei IVD- | 8 | d | 0102 |
-|---|---|---|---|
-
 | Leistungen |  |  |  |
 |---|---|---|---|
 | (N)BSNR des Erstveranlas- | 9 | n | 0102 |
@@ -17015,19 +16774,13 @@ sers
 |---|---|---|---|
 | Überweisung von anderen |  60 | a | 0102 |
 
-| Ärzten |  |  |  |
-|---|---|---|---|
-| **Ersatzwert**: unbekannt |  |  |  |
-| Überweisung an |  60 | a | 0102, sad2 |
+Ärzten  **Ersatzwert**: unbekannt
 
 | 17**Ersatzwert**: kA. |  |  |  |
 |---|---|---|---|
 | Kurativ / Präventiv / ESS / | 1 | n | 0102 |
 
-| bei belegärztlicher Be- |  |  |  |
-|---|---|---|---|
-| handlung |  |  |  |
-| ASV-Teamnummer des | 9 | n | 0102 |
+bei belegärztlicher Be- handlung
 
 | Erstveranlassers |  |  |  |
 |---|---|---|---|
@@ -17055,14 +16808,17 @@ sers
 
 Ursachen vor Aufnahme  einer Psychotherapie
 
-| Scheinuntergruppe | 2 | n | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
-| Lebenslange Arztnummer | 9 | n | 0102 |
-| (LANR) des Erstveranlas- |  |  |  |
-| sers |  |  |  |
-| **Ersatzwert:** 999999900 |  |  |  |
+Scheinuntergruppe 2
+
+Lebenslange Arztnummer 9
+
+(LANR) des Erstveranlas- sers  **Ersatzwert:** 999999900
 
 a 0102
+
+n 0101, 0102, 0103, 0104
+
+n 0102
 
 Technische Kennziffer zur  Kennzeichnung von Knapp- schaftsfällen
 
@@ -17072,6 +16828,7 @@ Datum des Anerkennungsbe- scheides des Kostenträgers
 
 Ankreuzfeld
 
+Behandlungstag bei IVD- 8 Überweisung an   60 0102, sad2
 
 ---
 
@@ -17109,9 +16866,6 @@ Lebenslange Arztnummer 9
 
 des Überweisers  **Ersatzwert:** 999999900
 
-| Weiterbehandelnder Arzt |  60 | a | 0104 |
-|---|---|---|---|
-
 | **Ersatzwert**: unbekannt |  |  |  |
 |---|---|---|---|
 | Antragsdatum (des Aner- | 8 | d | 0101, 0102 |
@@ -17120,45 +16874,31 @@ des Überweisers  **Ersatzwert:** 999999900
 |---|---|---|---|
 | Pseudo-LANR (für Kran- | 9 | n | 0102 |
 
-| kenhausärzte im Rahmen |  |  |  |
-|---|---|---|---|
-| der ASV-Abrechnung) des |  |  |  |
-| Erstveranlassers |  |  |  |
-| Pseudo-LANR (für Kran- | 9 | n | 0102 |
+kenhausärzte im Rahmen  der ASV-Abrechnung) des  Erstveranlassers
 
-| kenhausärzte im Rahmen |  |  |  |
-|---|---|---|---|
-| der ASV-Abrechnung) des |  |  |  |
-| Überweisers |  |  |  |
-| Kombinationsbehandlung | 1 | n | 0101, 0102 |
+Pseudo-LANR (für Kran- 9
 
-| aus Einzel- und Gruppen- |  |  |  |
-|---|---|---|---|
-| therapie |  |  |  |
-| Durchführungsart der | 1 | n | 0101, 0102 |
+kenhausärzte im Rahmen  der ASV-Abrechnung) des  Überweisers
+
+Kombinationsbehandlung 1
+
+aus Einzel- und Gruppen- therapie
 
 | Kombinationsbehandlung |  |  |  |
 |---|---|---|---|
 | Gesamtanzahl bewilligter |  3 | n | 0101, 0102 |
 
-| Therapieeinheiten für den |  |  |  |
-|---|---|---|---|
-| Versicherten |  |  |  |
-| Bewilligte GOP für den | 5, 6 | a | 0101, 0102 |
+Therapieeinheiten für den  Versicherten
 
 | Versicherten |  |  |  |
 |---|---|---|---|
 | Anzahl der abgerechneten |  3 | n | 0101, 0102 |
 
-| GOPen für den Versicher- |  |  |  |
-|---|---|---|---|
-| ten |  |  |  |
-| Gesamtanzahl bewilligter |  3 | n | 0101, 0102 |
+GOPen für den Versicher- ten
 
-| Therapieeinheiten für die |  |  |  |
-|---|---|---|---|
-| Bezugsperson |  |  |  |
-| Bewilligte GOP für die Be- | 5, 6 | a | 0101, 0102 |
+Gesamtanzahl bewilligter  3
+
+Therapieeinheiten für die  Bezugsperson
 
 | zugsperson |  |  |  |
 |---|---|---|---|
@@ -17173,6 +16913,13 @@ GOPen für die Bezugsper- son
 
 n 0102, 0103, sad2, hdrg1
 
+n 0102
+
+n 0101, 0102
+
+n 0101, 0102
+
+Weiterbehandelnder Arzt  60 0104 Durchführungsart der Bewilligte GOP für den 5, 6 Bewilligte GOP für die Be- 5, 6
 
 ---
 
@@ -17216,11 +16963,9 @@ n 0102, 0103, sad2, hdrg1
 
 genehmigte Kurdauer in  Wochen
 
-| Anreisetag | 8 | d | 0109 |
-|---|---|---|---|
+Anreisetag
 
-| Abreisetag | 8 | d | 0109 |
-|---|---|---|---|
+Abreisetag
 
 | Kurabbruch am | 8 | d | 0109 |
 |---|---|---|---|
@@ -17278,9 +17023,17 @@ Maßnahmen durchge- führt
 
 2
 
+8
+
+8
+
 bzw.  5, 6
 
-n 0109 0109, sad1, sad2, sad3
+n 0109
+
+d 0109
+
+d 0109 0109, sad1, sad2, sad3
 
 Dieses Feld dient dazu, ein  mehrfaches Ansetzen der in
 
@@ -17313,8 +17066,7 @@ Dieses Feld dient dazu, ein  mehrfaches Ansetzen der in
 
 5020
 
-| Um-Uhrzeit | 4 | n | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Um-Uhrzeit
 
 | DKM |  3 | n | 0101, 0102, 0103, 0104 |
 |---|---|---|---|
@@ -17330,11 +17082,9 @@ Dieses Feld dient dazu, ein  mehrfaches Ansetzen der in
 
 ten in Cent
 
-| Prozent der Leistung | 3 | n | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Prozent der Leistung
 
-| Organ |  60 | a | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Organ
 
 | Name des Arztes |  60 | a | 0101, 0102, 0103, 0104 |
 |---|---|---|---|
@@ -17346,14 +17096,27 @@ chen
 |---|---|---|---|
 | Erbringungsort/Standort |  60 | a | 0101, 0102, 0103, 0104 |
 
-| des Gerätes |  |  |  |
-|---|---|---|---|
-| Wiederholungsuntersu- | 1 | n | 0101, 0102, 0103, 0104 |
-| chung |  |  |  |
+des Gerätes
+
+Wiederholungsuntersu- chung 4
+
+3
+
+60
+
+1
+
+n 0101, 0102, 0103, 0104
 
 sad1, sad2, sad3, hdrg1
 
 sad1, sad2, sad3
+
+n 0101, 0102, 0103, 0104
+
+a 0101, 0102, 0103, 0104
+
+n 0101, 0102, 0103, 0104
 
 FK 5001 erfassten Leistung zu  kennzeichnen.  Darüber hinaus kann das Feld  zusätzlich ein mehrfaches An- setzen der in FK 5012 erfass- ten Sach- und Materialkosten  kennzeichnen, falls dies von  der zuständigen Kassenärztli- chen Vereinigung individuell  je Gebührenordnungsposi- tion festgelegt wird.
 
@@ -17412,11 +17175,9 @@ Jahr der letzten Krebs- früherkennungsuntersu- chung
 
 poststationär erbrachte  Leistungen
 
-| Aufnahmedatum | 8 | d | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Aufnahmedatum
 
-| Entlassungsdatum | 8 | d | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Entlassungsdatum
 
 | Hybrid-DRG Leistung | 4 | a | hdrg1 |
 |---|---|---|---|
@@ -17424,8 +17185,7 @@ poststationär erbrachte  Leistungen
 
 tung
 
-| Datum Ende der Leistung | 8 | d | hdrg1 |
-|---|---|---|---|
+Datum Ende der Leistung
 
 | Beatmungsstunden | ≤4 | n | hdrg1 |
 |---|---|---|---|
@@ -17445,13 +17205,11 @@ tung
 |---|---|---|---|
 | Patientennummer der e- |  8 | a | 0101, 0102, 0103, 0104 |
 
-| Dokumentation Haut- |  |  |  |
-|---|---|---|---|
-| krebs-Screening |  |  |  |
-| Seitenlokalisation OPS | 1 | a | 0101, 0102, 0103, 0104, |
+Dokumentation Haut- krebs-Screening
 
-| Mengenangabe KM /AM | ≤ 5 | n | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Seitenlokalisation OPS
+
+Mengenangabe KM /AM
 
 | Maßeinheit KM /AM | 1 | n | 0101, 0102, 0103, 0104 |
 |---|---|---|---|
@@ -17461,18 +17219,37 @@ tung
 |---|---|---|---|
 | Hash-String Implantatere- | ≤ 512 | a | 0101, 0102, 0103, 0104 |
 
-| gister |  |  |  |
-|---|---|---|---|
-| Hash-Wert Implantatere- | 64 | a | 0101, 0102, 0103, 0104 |
-| gister |  |  |  |
+gister
 
-4
+Hash-Wert Implantatere- gister 4
+
+8
+
+8
+
+8
+
+1
+
+≤ 5 64
 
 n 0101, 0102, 0103, 0104
 
-hdrg1
+d 0101, 0102, 0103, 0104
+
+d 0101, 0102, 0103, 0104
+
+d hdrg1
 
 hdrg1
+
+a 0101, 0102, 0103, 0104,
+
+hdrg1
+
+n 0101, 0102, 0103, 0104
+
+a 0101, 0102, 0103, 0104
 
 
 ---
@@ -17521,8 +17298,7 @@ Name Hersteller/ Liefe- rant
 
 Ersatzwert: 999999
 
-| Gen-Name |  60 | a | 0101, 0102, 0103, 0104 |
-|---|---|---|---|
+Gen-Name
 
 | Art der Erkrankung |  60 | a | 0101, 0102, 0103, 0104 |
 |---|---|---|---|
@@ -17544,16 +17320,9 @@ Ersatzwert: 999999
 |---|---|---|---|
 | Pseudo-LANR (für Kran- | 9 | n | 0101, 0102, 0104 |
 
-| kenhausärzte im Rahmen |  |  |  |
-|---|---|---|---|
-| der ASV-Abrechnung) des |  |  |  |
-| LE |  |  |  |
-| Krankenhaus-IK (im Rah- | 9 | n | 0101, 0102, 0104 |
+kenhausärzte im Rahmen  der ASV-Abrechnung) des  LE
 
-| men der ASV-Abrech- |  |  |  |
-|---|---|---|---|
-| nung) |  |  |  |
-| ICD-Code | 3,5,6 | a | 0101, 0102, 0103, 0104, |
+Krankenhaus-IK (im Rah- men der ASV-Abrech- nung)
 
 |  |  |  | 0109 |
 |---|---|---|---|
@@ -17572,8 +17341,19 @@ Ersatzwert: 999999
 | Diagnosenausnahmetat- |  60 | a | 0101, 0102, 0103, 0104, |
 | bestand |  |  | 0109 |
 
-60 a 0101, 0102, 0103, 0104
+60
 
+60
+
+9
+
+a 0101, 0102, 0103, 0104
+
+a 0101, 0102, 0103, 0104
+
+n 0101, 0102, 0104
+
+ICD-Code 3,5,6
 
 ---
 
@@ -17615,9 +17395,6 @@ Ersatzwert: 999999
 
 Hauptdiagnose (ICD-10- GM-Kode)
 
-| Seitenlokalisation Haupt- | 1 | a | hdrg1 |
-|---|---|---|---|
-
 | diagnose |  |  |  |
 |---|---|---|---|
 | Nebendiagnose (ICD-10- | 3, 5, 6 | a | hdrg1 |
@@ -17628,14 +17405,11 @@ Hauptdiagnose (ICD-10- GM-Kode)
 
 diagnose
 
-| Satzart | 4 | a | alle Satzarten |
-|---|---|---|---|
+Satzart
 
-| Empfänger | 2 | n | adt0, kad0, sad0 |
-|---|---|---|---|
+Empfänger
 
-| Erstellungsdatum | 8 | d | con0 |
-|---|---|---|---|
+Erstellungsdatum
 
 | verwendeter Zeichensatz | 1 | n | con0 |
 |---|---|---|---|
@@ -17673,23 +17447,41 @@ AVS
 |---|---|---|---|
 | Anzahl Teilabrechnungen | 2 | n | adt0 |
 
-3, 5, 6 a hdrg1
+3, 5, 6
+
+4
+
+2
+
+8
+
+a hdrg1
+
+a alle Satzarten
+
+n adt0, kad0, sad0
+
+d con0
 
 Dieses Feld definiert die Da- tenpakete, die in einer KVDT- Datei enthalten sind. Jedes  Datenpaket darf nur genau  einmal je Datei vorhanden  sein.  Das Feld muss mindestens  einmal vorhanden sein.
 
 Prüfnummer der eingesetz- ten Arzneimittelverordnungs- software, falls vorhanden
 
+Seitenlokalisation Haupt-
 
 ---
 
 9261 Abrechnungsteil x von y 2
 
-n adt0 9901
+n adt0 9901 Systeminterner Parameter
 
-| Systeminterner Parameter |  60 | a | alle Satzarten |
-|---|---|---|---|
+a alle Satzarten
 
-Dieses Feld unterscheidet  sich von allen anderen Fel- dern dadurch, dass es von  den Kassenärztlichen Vereini- gungen überlesen wird. Da- mit ist es möglich, Daten ab- zuspeichern, die nur system- intern relevant sind. Dieses  Feld kann in jeder Satzart an  beliebiger Stelle in beliebiger  Anzahl übertragen werden,  aber nicht als allererstes Feld  einer Datei.
+Dieses Feld unterscheidet 60
+
+sich von allen anderen Fel-
+
+dern dadurch, dass es von  den Kassenärztlichen Vereini- gungen überlesen wird. Da- mit ist es möglich, Daten ab- zuspeichern, die nur system- intern relevant sind. Dieses  Feld kann in jeder Satzart an  beliebiger Stelle in beliebiger  Anzahl übertragen werden,  aber nicht als allererstes Feld  einer Datei.
 
 
 ---

@@ -105,8 +105,7 @@ am
 
 **Diagnosen, Schädigungen, Funktionsstörungen, Befunde, Risikofaktoren, Regulations-/Befindlichkeitsstörungen**
 
-| **7** | **8** | **9** | **10 11** | **12** |
-|---|---|---|---|---|
+**7**
 
 Fax
 
@@ -120,7 +119,15 @@ Verhaltenspräventive Maßnahmen angeregt
 
 **4**
 
+**8**
+
+**9**
+
+**10** **11**
+
 **5**
+
+**12**
 
 **Freigabe 05.11.2014**
 

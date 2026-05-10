@@ -285,12 +285,9 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik  PHQ-9 Summenwert)
 
-Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle
+Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert)
 
-| Krankheitsaktivität – DAS-28-Wert) |  |
-|---|---|
-| Tabelle 8: Nähere Parameter-Erläuterungen | Folgedokumentation Rheumatoide Arthritis (Aktuelle |
-| Krankheitsaktivität – DAS-28-Wert) |  |
+Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert)
 
 Tabelle 9: NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)
 
@@ -400,7 +397,6 @@ Erfassung von 38
 
 78
 
-Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle
 
 ---
 

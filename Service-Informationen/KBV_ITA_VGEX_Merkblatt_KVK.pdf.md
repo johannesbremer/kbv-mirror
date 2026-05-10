@@ -25,20 +25,23 @@ Merkblatt Krankenversichertenkarte
 
 ### DOKUMENTENHISTORIE
 
-|  | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
-|---|---|---|---|---|---|---|
-
-2.05 20.07.2012 KBV
+#### Version Datum Autor 2.05 20.07.2012 KBV
 
 2.04 16.10.2002 KBV
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05 Seite 2 von 25
 
+#### Änderung
+
 Anpassung an Standardlayout
 
 Datenstruktur  Versichertendaten
 
+#### Begründung
+
 Redaktionelle Änderung
+
+#### Seite
 
 
 ---
@@ -202,10 +205,7 @@ Blank getrennt)
 
 '88' 8 GeburtsDatum (TTMMJJJJ)
 
-| '89' | 2-28 | StraßenName&HausNummer (durch Blank getrennt) O | AN |  |  |  |
-|---|---|---|---|---|---|---|
-
-3)
+'89' 2-28 StraßenName&HausNummer (durch Blank getrennt) O 3)
 
 '8A' 1-3 WohnsitzLänderCode (Datenobjekt entfällt bei Defaultwert = D) O  3)
 
@@ -243,9 +243,11 @@ AN
 
 AN
 
+AN
+
 N
 
-tag length Daten- typ '89' 2-28 '8D' 4 GültigkeitsDatum (MMJJ) PrüfSumme (XOR) über das gesamte VersichertenDaten-Template N AN
+tag length Daten- typ '8D' 4 GültigkeitsDatum (MMJJ) PrüfSumme (XOR) über das gesamte VersichertenDaten-Template N AN
 
 
 ---
@@ -310,11 +312,13 @@ Leerzeichen (Space) '20'
 
 kommerzielles Und
 
-| ' | Apostroph '27' |  | ( | Klammer auf '28' |  |
-|---|---|---|---|---|---|
+' Apostroph '27'
 
-| ) | Klammer zu '29' |  | + | plus '2B' |  |
-|---|---|---|---|---|---|
+( Klammer auf
+
+) Klammer zu '29'
+
++ plus '2B'
 
 | - | Bindestrich '2D' |  | . | Punkt '2E' |  |
 |---|---|---|---|---|---|
@@ -390,7 +394,7 @@ j k l 7A 7B 7C
 
 z ä ö
 
-'26'
+'26'  '28'
 
 2D 2E 2F
 
@@ -416,7 +420,7 @@ m n o 7D 7E 7F
 
 5 6 7
 
-Zeichen Bezeichnung Hex- Zeichen Bezeichnung Hex- ' Apostroph '27' ( Klammer auf ) Klammer zu + plus '2B' - Bindestrich '2D' . Punkt / Schrägstrich '2F' _ Unterstreichung '5F' ü ß
+Zeichen Bezeichnung Hex- Zeichen Bezeichnung Hex- - Bindestrich '2D' . Punkt / Schrägstrich '2F' _ Unterstreichung '5F' ü ß
 
 
 ---
@@ -451,12 +455,9 @@ Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).  RTS- u
 
 ** LEN**
 
-| **NAD** | **PCB** | **LEN** | **INF EDC** |  |
-|---|---|---|---|---|
+**NAD PCB LEN INF EDC**
 
 **EDC = Error Detection Code NAD = Node Adress Byte**  **INF = Information Field PCB = Protocol Control Byte**  **LEN = Length (0 - 254 byte)**  **Abbildung 1: T=1 Übertragungsblock**
-
-NAD PCB LEN
 
 
 ---
@@ -546,20 +547,20 @@ Der Sende-Sequenz-Zähler ist ein Sicherheitsmerkmal zur Erkennung des Verlustes
 
 Der Daten-Kettungs-Mechanismus (More data bit) ist ebenfalls zu unterstützen, so daß  Anwendungseinheiten (z.B. die Antwort auf ein READ BINARY-Kommando) über die Länge  eines einzelnen Blocks hinausgehen können. Die Information wird hierbei auf n Blöcke  aufgeteilt, wobei (n-1) Blöcke eine Länge entsprechend der Information Field Size haben und  der n-te Block die restlichen Bytes ( Information Field Size) enthält.
 
-| **0** | **0** | **0** | **0** | **0** |
-|---|---|---|---|---|
-
 
 ---
 
 Da beim Senden aufeinander folgender Informationsblöcke Flußkontrolle benötigt wird, ist ein  I-Block mit M-Bit=1 mit einem Receive Ready-Block (R-Block) zu quittieren. Abb. 4 zeigt  einen Kommunikationsablauf mit Chaining.
 
-| **Host** |  |  |
-|---|---|---|
-| **(PC oder** | I-Block |  |
-| **Workstation)** |  | **Card-Terminal** |
-|  | I-Block |  |
-|  | R-Block |  |
+**Host**
+
+**(PC oder**
+
+I-Block
+
+**Workstation)**
+
+I-Block   R-Block
 
 I-Block
 
@@ -577,41 +578,46 @@ Die PCB-Codierung des R-Blocks zeigt Abb. 5. Das Informationsfeld ist bei einem 
 
 **R-Block indication**  **Abbildung 5: PCB-Codierung des R-Blocks**
 
+**Card-Terminal**
+
 **Error indication (01=EDC/**  **parity error, 10 = other**
 
 **Fehlerfreie**  **Übertragung**  **mit Chaining**
-
-| **0** | **0** | **X** | **X** |
-|---|---|---|---|
 
 
 ---
 
 **2.1.1.2 Übertragung**  Wird ein fehlerhafter I-Block empfangen, ist dies dem Kommunikationspartner mit einem R- Block anzuzeigen (siehe Abb. 6). Hierbei hat Bit b5 des R-Blocks den Wert der Send  Sequence Number des Blocks, der wiederholt werden soll.
 
-| **Host** |  |  |
-|---|---|---|
-|  | R-Block |  |
-| **(PC oder** |  | **Card-** |
-| **Workstation)** | I-Block | **Terminal** |
-|  | I-Block |  |
-|  | I-Block |  |
-|  | I-Block |  |
-|  | R-Block |  |
-|  | I-Block |  |
-| **Host** |  |  |
-| **(PC oder** |  | **Card-** |
-| **Workstation)** |  | **Terminal** |
+**Host**  **(PC oder**  **Workstation)**
 
 **mit Fehlerbehandlung**
 
 I-Block
+
+R-Block
+
+I-Block  I-Block
+
+I-Block  I-Block
+
+R-Block
+
+I-Block
+
+**Card-**  **Terminal**
+
+**Host**
+
+**(PC oder**  **Workstation)**
 
 **Abb. 6: Behandlung von Übertragungsfehlern**
 
 Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resynchronisation  durchzuführen (siehe Abschnitt 4). Auch in anderen Fehlersituationen (z.B. falscher R-Block  oder Timeout) ist eine Resynchronisation anzustoßen. Blöcke, deren Adressen im NAD-Byte  fehlerhaft sind, werden vom CardTerminal ignoriert, d.h. es wird keine Antwort gesendet.
 
 **2.1.1.3. Antwortzeit-Verlängerung**  Empfängt das Karten-Terminal ein Kommando, dessen Ausführung länger als die Block  Waiting Time von 1000 ms dauert (das kommt z.B. beim Anfordern der Chipkarte vor), dann  sendet das Karten-Terminal einen WTX request (WTX = Waiting Time Extension), der vom  Host her mit einem WTX response zu beantworten ist. WTX request/response werden mit  einem S-Block (Supervisory block) übertragen (PCB-Codierung siehe Abb. 7), wobei im INF- Feld der 1-byte-lange Multiplikator des BWT-Wertes angegeben wird. Für die KVK- Anwendung soll dieser Multiplikator auf den festen Wert 1 gesetzt werden. Die Waiting Time  Extension beginnt, nachdem das letzte Byte der WTX response empfangen wurde. Sie  bezieht sich grundsätzlich nur auf den nächsten zu übertragenden Antwort-Block.
+
+**Card-**  **Terminal**
 
 **Fehlerhafter**  **I-Block Host/CT:**
 
@@ -627,8 +633,7 @@ Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resyn
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
-| **1** | **1** | **0** | **0** | **0** | **0** | **1** | **1** |
-|---|---|---|---|---|---|---|---|
+**1 1 0 0 0 0 1 1**
 
 |  |  |  |  |  |  | WTX | request |
 |---|---|---|---|---|---|---|---|
@@ -646,14 +651,13 @@ Ein WTX request kann auch vom Host abgelehnt werden. In diesem Fall wird als Ant
 
 **2.1.1.4. Resynchronisation** Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten- Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH- Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz- Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
 
-1 1 0 0 0 0 1 1 WTX request S-Block indication b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 1 1
+WTX request S-Block indication b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 1 1
 
 ---
 
 **b8 b7 b6 b5 b4 b3 b2 b1**
 
-| **1** | **1** | **0** | **0** | **0** | **0** | **0** | **0** |
-|---|---|---|---|---|---|---|---|
+**1 1 0 0 0 0 0 0**
 
 |  |  |  |  |  |  | **RESYNCH** |  |
 |---|---|---|---|---|---|---|---|
@@ -675,7 +679,7 @@ Im Informationsfeld wird das Kommando bzw. die Antwort auf das Kommando übertra
 
 #### S-Block indication
 
-1 1 0 0 0 0 0 0 b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 0 0 S-Block indication request#### response
+b8 b7 b6 b5 b4 b3 b2 b1 1 1 1 0 0 0 0 0 S-Block indication request#### response
 
 
 ---
@@ -692,8 +696,7 @@ Command (cmd):
 
 Header (4 bytes) and body (mandatory*) (optional)
 
-| CLA | INS | P1 | P2 | L | Data |
-|---|---|---|---|---|---|
+CLA INS P1 P2 L Data
 
 Response (rsp):
 
@@ -720,7 +723,7 @@ b) L = Lc: Le not send, because known  Status byte 1 (cmd processing status)  St
 
 Trailer  (mandatory)
 
-CLA INS P1 P2 L Data for transmission
+for transmission
 
 
 ---
@@ -743,8 +746,7 @@ Mit diesem Kommando kann das CardTerminal auf Anwendungsebene zurückgesetzt  we
 
 CLA INS P1 P2
 
-| '20' |  | '11' |  | 'FU' |  | 'CQ' | '00' |
-|---|---|---|---|---|---|---|---|
+'20' '11' 'FU' 'CQ' '00'
 
 RESET CT
 
@@ -758,7 +760,7 @@ Functional Unit:  '00' = Card Terminal
 
 **Tabelle 7: Reset CT**  Status Bytes:  '9000' = Reset successful
 
-'20' '11' 'FU' 'CQ' '00' '6400' = Reset not successful
+'6400' = Reset not successful
 
 
 ---
@@ -769,10 +771,7 @@ Mit diesem Kommando wird die Chipkarte angefordert. Nach Einführung der Chipkar
 
 **Command:**
 
-Lc  CLA INS P1 P2
-
-| '20' | '12' | 'FU' | 'CQ' | Lc | T |
-|---|---|---|---|---|---|
+Lc  CLA INS P1 P2  '20' '12' 'FU' 'CQ' Lc
 
 REQUEST ICC
 
@@ -780,7 +779,7 @@ REQUEST ICC
 
 SW1 SW2
 
-L
+L   T
 
 Optional data field:  Time in seconds  (1 byte, default value 60  sec)  for presenting the ICC
 
@@ -792,7 +791,7 @@ Status Bytes:  '9000' = synchronous ICC presented,  reset successful
 
 '6200' = Warning: no card presented  within specified time
 
-'20' '12' 'FU' 'CQ' Lc '6400' = Reset not successful
+'6400' = Reset not successful
 
 
 ---
@@ -801,10 +800,7 @@ Status Bytes:  '9000' = synchronous ICC presented,  reset successful
 
 Das Kommando steuert die Kontaktiereinheit und ggf. vorhandene Signalgeber. Der Timer T  ist auf '01' (=1 Sekunde) zu setzen. Im L-Byte ist dann ebenfalls '01' (Length = 1 Byte)  anzugeben. Gesetzte Indikatoren (LEDs und/oder akustisches Signal) werden nach  Herausnahme der Karte bzw. nach Ablauf des Application Timers, wenn die Karte nicht  entnommen wurde, gelöscht.
 
-**Command:**  Lc  CLA INS P1 P2
-
-| '20' | '15' | 'FU' | 'CQ' | Lc | T |
-|---|---|---|---|---|---|
+**Command:**  Lc  CLA INS P1 P2  '20' '15' 'FU' 'CQ' Lc
 
 EJECT ICC
 
@@ -812,7 +808,7 @@ EJECT ICC
 
 SW1 SW2
 
-L
+L   T
 
 Optional data field:  Time in seconds  (1 byte, default value 60 sec) for removing the ICC
 
@@ -823,8 +819,6 @@ Functional Unit:  '01' = CardTerminal port 1
 Status Bytes:  '9000' = Command successful  '9001' = Command successful, card  removed
 
 '6200' = Warning: Card not removed  within specified time
-
-'20' '15' 'FU' 'CQ' Lc
 
 
 ---
@@ -867,10 +861,7 @@ Das Kommando dient zum Lesen des VersichertenDatenTemplates. Das Offset wird  fo
 
 **Command:**
 
-CLA INS P1 P2
-
-| '00' | | 'xx' | 'xx' | Le |
-|---|---|---|---|---|
+CLA INS P1 P2  '00' 'BO' 'xx' 'xx'
 
 READ BINARY
 
@@ -882,7 +873,7 @@ a) Lesen des VD-Templates mit einem einzigen READ BINARY-Kommando
 
 Als Offset ist im READ BINARY-Kommando  Adresse '0000' (= Anfangsadresse der Anwendungsdaten, beginnend mit dem Tag '60')  gelesen werden. Als Länge ist '00' anzugeben, d.h. es soll der komplette zur Anwendung  gehörende Datenbereich, also das gesamte VD-Template, beginnend mit Tag '60' und  endend mit dem XOR-Prüfbyte des ASN.1-Elements 'Prüfsumme', gelesen werden. Die  Länge des VD-Templates und damit das logische Ende (EOF) des zur Anwendung  gehörenden Datenbereichs ergibt sich aus dem Längenbyte nach Tag '60'. Das  VersichertenDatenTemplate wird in einem Block übertragen, falls die Informationsfeldgröße  ausreichend ist (ansonsten in geketteten Blöcken), und mit den Status-Bytes '6282'  abgeschlossen.
 
-L
+L  Le
 
 Length of data to be read  ('00' = read available data  until End-of-File (EOF)  out max. up to 256 bytes)
 
@@ -896,7 +887,7 @@ Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reach
 
 '6B00' = Wrong offset
 
-'00' 'BO' 'xx' 'xx' '0000' anzugeben, d.h. es soll ab logischer
+'0000' anzugeben, d.h. es soll ab logischer
 
 
 ---

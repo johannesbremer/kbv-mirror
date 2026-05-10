@@ -523,10 +523,11 @@ Krankenhaus-IK
 
 Dokumentation in Vertretung erstellt
 
-|  | 06.04.2024 15.mm.jjjj |  |
-|---|---|---|
-|  | COPD |  |
-| Geschlecht | Männlich |  |
+Datum
+
+Einschreibung wegen
+
+Geschlecht
 
 **Allgemeine Anamnese- und Befunddaten**
 
@@ -570,7 +571,11 @@ Kurz wirksame Beta-2-Sympathomimetika  und/oder Anticholinergika
 
 8511
 
-2,01 m
+06.04.2024 15.mm.jjjj
+
+COPD
+
+Männlich 2,01 m
 
 126 kg
 
@@ -596,7 +601,11 @@ Kontraindikation
 
 8511
 
-2,01 m
+06.07.2024 15.mm.jjjj
+
+COPD
+
+Männlich 2,01 m
 
 120 kg
 
@@ -618,7 +627,6 @@ Ja 0
 
 Keine
 
-Datum Einschreibung wegen 06.07.2024  15.mm.jjjj
 
 ---
 
@@ -650,12 +658,13 @@ An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 Empfehlung zum körperlichen Training  ausgesprochen
 
-| Dauermedikation |  |
-|---|---|
-| Keine, Kontraindikation |  |
-| Nein |  |
-| Glukokortikosteroide, |  |
-| Andere |  |
+Dauermedikation
+
+Keine, Kontraindikation
+
+Nein
+
+Glukokortikosteroide Andere
 
 Ja
 
@@ -667,6 +676,14 @@ Ja
 
 Ja
 
+Kontraindikation
+
+Keine
+
+Ja
+
+Inhalative  Glukokortikosteroide
+
 Nein
 
 Ja
@@ -679,7 +696,6 @@ Ja
 
 Ja
 
-Ja Inhalative
 
 ---
 
@@ -717,10 +733,11 @@ Krankenhaus-IK
 
 Dokumentation in Vertretung erstellt
 
-|  | 06.04.2024 15.mm.jjjj |  |
-|---|---|---|
-|  | COPD |  |
-| Geschlecht | Weiblich |  |
+Datum
+
+Einschreibung wegen
+
+Geschlecht
 
 **Allgemeine Anamnese- und Befunddaten**
 
@@ -746,7 +763,11 @@ Datum der Erstellung
 
 8512
 
-1,50 m
+06.04.2024 15.mm.jjjj
+
+COPD
+
+Weiblich 1,50 m
 
 050 kg
 
@@ -764,7 +785,11 @@ Quartalsweise 06.04.2024 15.mm.jjjj
 
 8512
 
-1,51 m
+06.07.2024 15.mm.jjjj
+
+COPD
+
+Weiblich 1,51 m
 
 050 kg
 
@@ -776,7 +801,6 @@ KHK
 
 Quartalsweise 06.07.2024 15.mm.jjjj
 
-Datum Einschreibung wegen 06.07.2024  15.mm.jjjj
 
 ---
 
@@ -784,11 +808,9 @@ Datum Einschreibung wegen 06.07.2024  15.mm.jjjj
 
 **Anamnese- und Befunddaten**
 
-|  | 299,9 Prozent des Soll- |  |
-|---|---|---|
-|  | Wertes |  |
-| Klinische Einschätzung des Osteoporoserisikos | Nein |  |
-| durchgeführt |  |  |
+Aktueller FEV1-Wert (alle sechs bis zwölf Monate)
+
+Klinische Einschätzung des Osteoporoserisikos  durchgeführt
 
 **Relevante Ereignisse**
 
@@ -828,6 +850,10 @@ Empfehlung zum körperlichen Training  ausgesprochen
 
 **Erstdokumentation**
 
+299,9 Prozent des Soll Wertes
+
+Nein
+
 Bei Bedarf,  Dauermedikation
 
 Keine
@@ -850,7 +876,9 @@ Nein
 
 **Verlaufsdokumentation**
 
-99
+201,5 Prozent des Soll Wertes
+
+Ja 99
 
 2
 
@@ -870,7 +898,6 @@ War aktuell nicht möglich
 
 Nein
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  201,5 Prozent des Soll Ja
 
 ---
 
@@ -906,10 +933,9 @@ Dokumentation in Vertretung erstellt
 
 Datum
 
-|  | COPD, KHK, Diabetes |  |
-|---|---|---|
-|  | mellitus Typ 1 |  |
-| Geschlecht | Männlich |  |
+Einschreibung wegen
+
+Geschlecht
 
 **Allgemeine Anamnese- und Befunddaten**
 
@@ -937,7 +963,9 @@ Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,
 
 06.04.2024 15.mm.jjjj
 
-1,75 m
+COPD, KHK, Diabetes  mellitus Typ 1
+
+Männlich 1,75 m
 
 064 kg
 
@@ -955,7 +983,9 @@ Sollte das
 
 06.07.2024 15.mm.jjjj
 
-1,75 m
+COPD, KHK, Diabetes  mellitus Typ 1
+
+Männlich 1,75 m
 
 062 kg
 
@@ -963,7 +993,6 @@ Sollte das
 
 Nein
 
-Einschreibung wegen
 
 ---
 
@@ -1041,12 +1070,9 @@ Ulkus (Wund)Infektion
 
 Injektionsstellen (bei Insulintherapie)
 
-| Intervall für künftige Fußinspektionen (bei | alle 6 sechs Monate |  |
-|---|---|---|
-| Patientinnen und Patienten ab dem |  |  |
-| vollendeten 18. Lebensjahr) |  |  |
-| Spätfolgen | Diabetische |  |
-|  | Nephropathie |  |
+Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)
+
+Spätfolgen
 
 Tabakverzicht
 
@@ -1072,6 +1098,10 @@ nein
 
 Unauffällig
 
+alle 6 sechs Monate
+
+Diabetische  Nephropathie
+
 Jedes zweite Quartal 06.07.2024 15.mm.jjjj
 
 **Verlaufsdokumentation**
@@ -1092,7 +1122,9 @@ nicht untersucht
 
 Nicht untersucht
 
-Jährlich 092,0 Prozent des Soll
+Jährlich
+
+Diabetische  Nephropathie 092,0 Prozent des Soll
 
 ---
 
@@ -1202,29 +1234,36 @@ Nein
 
 Ja
 
-| CCS III |  |  |
-|---|---|---|
-| 20,2 | mmol/l |  |
-| 3 |  |  |
-| 2 |  |  |
-|  | Herzinfarkt |  |
-| 2 |  |  |
-| 2 |  |  |
-|  | Herzinfarkt, |  |
-| instabile | Angina | pectoris |
-| 3 |  |  |
-| Ja |  |  |
-| Keine |  |  |
-| Keine |  |  |
-|  | Dauermedikation |  |
-| Nein |  |  |
-| Inhalative | |  |
-|  | Glukokortikosteroide | |
-|  | Kontraindikation, | Nein |
-|  | Kontraindikation, | Nein |
-|  | Kontraindikation |  |
+CCS III 20,2 mmol/l
 
-20,2 mmol/l instabile Angina pectoris Kontraindikation, Nein Kontraindikation, Nein
+3
+
+2
+
+Herzinfarkt 2
+
+2
+
+Herzinfarkt,  instabile Angina pectoris 3
+
+Ja
+
+Keine
+
+Keine
+
+Dauermedikation
+
+Nein
+
+Inhalative  Glukokortikosteroide
+
+Kontraindikation, Nein
+
+Kontraindikation, Nein
+
+Kontraindikation
+
 
 ---
 
@@ -1272,10 +1311,9 @@ COPD
 
 COPD-Schulung empfohlen (bei aktueller  Dokumentation)
 
-| COPD-Schulung schon vor Einschreibung | Nein |  |
-|---|---|---|
-| in DMP bereits wahrgenommen |  |  |
-| Empfohlene Schulung wahrgenommen |  |  |
+COPD-Schulung schon vor Einschreibung  in DMP bereits wahrgenommen
+
+Empfohlene Schulung wahrgenommen
 
 Schulung empfohlen (bei aktueller  Dokumentation)
 
@@ -1293,16 +1331,13 @@ Schulung bereits vor Einschreibung in  DMP wahrgenommen
 
 Empfehlung zum Tabakverzicht  ausgesprochen
 
-| Empfehlung zur Teilnahme an | Ja |  |
-|---|---|---|
-| Tabakentwöhnungsprogramm |  |  |
-| ausgesprochen |  |  |
+Empfehlung zur Teilnahme an  Tabakentwöhnungsprogramm  ausgesprochen
 
-| An einem Tabakentwöhnungsprogram seit |  |  |
-|---|---|---|
-| der letzten Empfehlung teilgenommen |  |  |
-| Empfehlung zum körperlichen Training | Nein |  |
-| ausgesprochen |  |  |
+An einem Tabakentwöhnungsprogram seit  der letzten Empfehlung teilgenommen
+
+Empfehlung zum körperlichen Training  ausgesprochen
+
+Nein
 
 Nein
 
@@ -1318,6 +1353,12 @@ Ja
 
 Ja
 
+Nein
+
+Ja
+
+Bei letzter  Dokumentation keine  Schulung empfohlen
+
 Keine
 
 Bei letzter  Dokumentation keine  Schulung empfohlen
@@ -1328,7 +1369,11 @@ Nein
 
 Bei letzter  Dokumentation keine  Schulung empfohlen
 
-Ja Ja Bei letzter Dokumentation keine Schulung empfohlen Kontraindikation gegen
+Ja
+
+Ja
+
+Kontraindikation gegen
 
 ---
 
@@ -1365,9 +1410,6 @@ Zielwert erreicht
 Nicht durchgeführt
 
 Ja
-
-| DM1 |  | Diabetesbezogene stationäre Einweisung |  | Nein |  | Nein |
-|---|---|---|---|---|---|---|
 
 
 ---
@@ -1406,10 +1448,9 @@ Dokumentation in Vertretung erstellt
 
 Datum
 
-|  | COPD |  |
-|---|---|---|
-| Geschlecht | Je nach Auswahl des |  |
-|  | Patienten |  |
+Einschreibung wegen
+
+Geschlecht
 
 **Allgemeine Anamnese- und Befunddaten**
 
@@ -1449,7 +1490,9 @@ Dokumentationsintervall
 
 06.04.2024 15.mm.jjjj
 
-2,51 m
+COPD
+
+Je nach Auswahl des  Patienten 2,51 m
 
 301 kg
 
@@ -1463,7 +1506,6 @@ Quartalsweise
 
 Nr. 1
 
-Einschreibung wegen
 
 ---
 
@@ -1477,10 +1519,9 @@ Datum der Erstellung
 
 **Anamnese- und Befunddaten**
 
-|  | 300,0 Prozent des Soll- |  |
-|---|---|---|
-|  | Wertes |  |
-| Klinische Einschätzung des Osteoporoserisikos durchgeführt | Nein |  |
+Aktueller FEV1-Wert (alle sechs bis zwölf Monate)
+
+Klinische Einschätzung des Osteoporoserisikos durchgeführt
 
 **Relevante Ereignisse**
 
@@ -1522,7 +1563,9 @@ Empfehlung zum körperlichen Training ausgesprochen 06.04.2024 15.mm.jjjj
 
 **Erstdokumentation**
 
-3
+300,0 Prozent des Soll Wertes
+
+Nein 3
 
 Bei Bedarf
 
@@ -1542,6 +1585,8 @@ Ja
 
 **Aktion**
 
+Nr. 2
+
 Nr. 3
 
 Nr. 4
@@ -1560,7 +1605,6 @@ Nr. 10
 
 Nr. 11
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  Nr. 2
 
 ---
 
@@ -1697,10 +1741,9 @@ Einschreibung wegen
 
 **DATEN**
 
-|  | Asthma bronchiale, |  |
-|---|---|---|
-|  | COPD |  |
-| Geschlecht | Männlich |  |
+Einschreibung wegen
+
+Geschlecht
 
 **Allgemeine Anamnese- und Befunddaten**
 
@@ -1728,26 +1771,28 @@ Datum der Erstellung
 
 06.04.2024 15.mm.jjjj
 
-| Asthma |  | bronchiale, |
-|---|---|---|
-| COPD |  |  |
-| Männlich |  |  |
-| 2,00 m |  |  |
-| 091 kg |  |  |
-| 130 / 78 | mmHg |  |
-| Nein |  |  |
-| Keine der |  | genannten |
-| Krankheiten |  |  |
-| Quartalsweise |  |  |
-| 06.04.2024 |  |  |
+COPD
 
-06.04.2024 15.mm.jjjj
+Asthma bronchiale,  COPD
+
+Männlich 2,00 m
+
+091 kg
+
+130 / 78 mmHg
+
+Nein
+
+Keine der genannten  Krankheiten
+
+Quartalsweise 06.04.2024 15.mm.jjjj
 
 **Screenshot**
 
 Nr. 16
 
-Asthma bronchiale, 130 / 78 mmHg Keine der genannten Einschreibung wegen Nr. 17
+Nr. 17
+
 
 ---
 

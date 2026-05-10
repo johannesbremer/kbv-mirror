@@ -109,43 +109,43 @@ Die Änderungen der Version 1.69 treten zum 27.01.2026 in Kraft.
 |---|---|---|---|
 | 18.12.2025 | KBV | Aktualisierung der | Bereitstellung eines |
 
-|  |  | Versionsnummer der FHIR-Profile | BugFix-Release |
-|---|---|---|---|
-|  |  |  | (aufgrund Anpassung |
-|  |  |  | in FOR-Profilen) |
-|  |  | Anpassung der Bedingung des |  |
-|  |  | Feldes 61c |  |
-| 14.11.2025 | KBV | Klarstellung der Anforderung P5-01 | Umgang mit |
-
 |  |  | (hellgrau markiert) | Sonstigen |
 |---|---|---|---|
 |  |  |  | Kostenträgern |
 |  |  |  | konkretisiert |
 | 15.08.2025 | KBV | Anpassung der Anforderung P5-01 | Versicherte der |
 
-|  |  | (blau markiert) | Sonstigen |
-|---|---|---|---|
-|  |  |  | Kostenträger können |
-|  |  |  | erst zum 01.01.2026 |
-|  |  |  | das eRezept nutzen |
-| 17.06.2025 | KBV | Korrektur der FHIR-Version der | Bugfix-Korrektur des |
+17.06.2025
 
 15.05.2025
 
-| 25.03.2025 | KBV | Änderung der Anforderung P36-21 |  |
-|---|---|---|---|
-|  |  | Rückgängigmachen der Streichung |  |
-|  |  | von Feld 52b |  |
-| 24.02.2025 | KBV | Kardinalität Hausnummer der |  |
-|  |  | Einrichtung (Feld 67) geändert |  |
+25.03.2025
+
+24.02.2025
 
 KBV
 
-eRezept-Profile auf 1.3.2
+KBV
+
+KBV
+
+KBV
+
+Versionsnummer der FHIR-Profile    Anpassung der Bedingung des  Feldes 61c (blau markiert)
+
+Korrektur der FHIR-Version der  eRezept-Profile auf 1.3.2
 
 Anpassung der Anforderungen  P36-22, P36-23 und K6-28  Aufnahme der Anforderung P36-41  Anpassung des  Informationsmodells  Aktualisierung der FHIR-Profile auf  Version 1.3.0
 
-Constraints „-erp-
+Änderung der Anforderung P36-21  Rückgängigmachen der Streichung  von Feld 52b
+
+Kardinalität Hausnummer der  Einrichtung (Feld 67) geändert
+
+BugFix-Release  (aufgrund Anpassung  in FOR-Profilen)
+
+Sonstigen  Kostenträger können  erst zum 01.01.2026  das eRezept nutzen
+
+Bugfix-Korrektur des  Constraints „-erp-
 
 angabeUnfallkennzeic henArbeitsunfallBeruf skrankheitVerbot“ im
 
@@ -171,7 +171,7 @@ Anpassung und  Konkretisierung der  Abbildung von  Wirkstoffen
 
 19  36, 59
 
-59
+14.11.2025 Klarstellung der Anforderung P5-01 Umgang mit 59
 
 
 ---
@@ -1109,14 +1109,15 @@ Rezeptierdaten
 
 Wirkstoffverordnung
 
-|  | 118 | Medication.ingredient.item[x]: |  |
-|---|---|---|---|
-|  |  | itemCodeableConcept.coding: |  |
-|  |  | askCode.code |  |
-| Wirkstoffname | 119 | Medication.ingredient.item[x]: |  |
-|  |  | itemCodeableConcept.text |  |
+Wirkstoffnummer
 
-Wirkstärke 120
+Wirkstoffname
+
+Wirkstärke 118
+
+119
+
+120
 
 **FHIR®-Mapping**
 
@@ -1124,9 +1125,14 @@ Medication.extension:Arzneim ittelkategorie.value[x]:valueCo ding.code
 
 Medication.extension:Impfstof f.value[x]:valueBoolean
 
+Medication.ingredient.item[x]:
+
+itemCodeableConcept.coding: askCode.code
+
+Medication.ingredient.item[x]: itemCodeableConcept.text
+
 **Bedingung**  **(Feldnr. = IDs gemäß Tabelle 38)**
 
-Wirkstoffnummer
 
 ---
 
@@ -1521,24 +1527,15 @@ ANSONSTEN  darf es nicht gesetzt werden.
 
 **KBV_PR_ERP_PRESCRIPTION**
 
-Beginn Einlösefrist der
-
-|  | ehrfachverordnung.extension:Ze |  |
-|---|---|---|
-|  | itraum.value[x]:valuePeriod.star |  |
-|  | t |  |
-| 91 | MedicationRequest.extension:M |  |
+Beginn Einlösefrist der 90
 
 Verordnung
 
-Ende Einlösefrist der Verordnung
+Ende Einlösefrist der 91
 
-Verschreiber-ID
+Verordnung
 
-|  | ehrfachverordnung.extension:Ze |  |
-|---|---|---|
-|  | itraum.value[x]:valuePeriod.end |  |
-| 155 | MedicationRequest.extension:V |  |
+Verschreiber-ID 155
 
 **Tabelle 31: Mapping KBV_PR_ERP_Prescription**
 
@@ -1556,7 +1553,9 @@ KBV_PR_ERP_Medication_Compounding
 
 KBV_PR_ERP_Medication_PZN
 
-WENN
+MedicationRequest.extension:M WENN
+
+ehrfachverordnung.extension:Ze itraum.value[x]:valuePeriod.star t
 
 das Feld 87 gleich „true“ ist,
 
@@ -1564,11 +1563,15 @@ DANN  muss dieses Feld angegeben  werden.
 
 ANSONSTEN  darf es nicht gesetzt werden.
 
-WENN  das Feld 87 gleich „true“ ist,
+MedicationRequest.extension:M WENN
 
-DANN  muss dieses Feld angegeben  werden.
+ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist,
+
+itraum.value[x]:valuePeriod.end DANN  muss dieses Feld angegeben  werden.
 
 ANSONSTEN  darf es nicht gesetzt werden.
+
+MedicationRequest.extension:V
 
 erschreiberID
 
@@ -1592,7 +1595,7 @@ Instanz gemäß P36-25   P36-31 ist zu berücksichtigen
 
 Instanz gemäß K36-24   P36-31 ist zu berücksichtigen
 
-90 Instanz gemäß P36-22   P36-31 ist zu berücksichtigen
+Instanz gemäß P36-22   P36-31 ist zu berücksichtigen
 
 
 ---
@@ -2456,29 +2459,25 @@ Auf Wunsch des Versicherten muss die Einlösung eines ERP in einer Apotheke auch
 
 00
 
-| Ingredient |  |
-|---|---|
-| KBV_PR_ERP_Medication_ |  |
-| Compounding |  |
-| KBV_PR_ERP_Medication_ |  |
-| FreeText |  |
-| KBV_PR_ERP_Prescription | MedicationRequest.ext |
+Ingredient
 
-false
+KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_ FreeText
+
+KBV_PR_ERP_Prescription MedicationRequest.ext false
 
 ension:Notdienstgebue hr.value[x]:valueBoolea n
 
-| Ingredient |  |
-|---|---|
-| KBV_PR_ERP_Medication_ |  |
-| Compounding |  |
-| KBV_PR_ERP_Medication_ |  |
-| FreeText |  |
-| KBV_PR_ERP_Prescription | MedicationRequest.ext |
+KBV_PR_ERP_Medication_ Medication.extension:I false
 
-false
+PZN
 
-false
+mpfstoff.value[x]:value
+
+KBV_PR_ERP_Medication_ Boolean
+
+Ingredient  KBV_PR_ERP_Medication_ Compounding  KBV_PR_ERP_Medication_ FreeText
+
+KBV_PR_ERP_Prescription MedicationRequest.ext false
 
 ension:SER.value[x]:val ueBoolean
 
@@ -2490,7 +2489,7 @@ KBV_PR_ERP_Prescription MedicationRequest.sub true
 
 stitution.allowed[x]:allo wedBoolean
 
-Medication.extension:I PZN mpfstoff.value[x]:value Boolean Ihres E-Rezeptes
+Ihres E-Rezeptes
 
 
 ---
@@ -3332,25 +3331,39 @@ ID 12 x 72 x (GRAU = FELDGRUPPE) WOP Unfallinformationen Kodiert DERH. 0..1 0..1
 
 **76**  **x**
 
-| 77 |  |  | x |  |  |  | Zuzahlungsstatus | Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+77
+
+x
 
 **138**  **x**
 
-| 139 |  |  | x |  |  |  | PKV-Tarifart | Kodiert | 1..1 | Dieses Feld enthält die PKV-Tarifart des |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+139
+
+x
 
 **13**  **x**
 
 **Informationen GKV**
 
+Zuzahlungsstatus
+
 **Informationen PKV**
+
+PKV-Tarifart
 
 **Versichertenstatus**
 
-**0..1**
+Kodiert
+
+Kodiert
 
 **0..1**
+
+1..1
+
+**0..1**
+
+1..1
 
 **0..1**
 
@@ -3358,7 +3371,11 @@ Einflussbereich sich der Unfall (auch  Wegeunfall) ereignete.
 
 **Dieser Block enthält spezifische**  **Informationen zur gesetzlichen**  **Krankenversicherung.**
 
+Dieses Feld enthält den Zuzahlungsstatus  für die Verordnung.
+
 **Dieser Block enthält spezifische**  **Informationen zur privaten**  **Krankenversicherung.**
+
+Dieses Feld enthält die PKV-Tarifart des  Versicherten.
 
 **Dieser Block enthält Angaben zum**  **Versichertenstatus.**
 
@@ -3372,11 +3389,15 @@ ANSONSTEN  darf dieses Feld nicht übertragen werden.
 
 **ANSONSTEN**  **ist dieser Block optional.**
 
+WENN  das Feld „Unfallkennzeichen“ gleich „2“ oder „4“  ist,  DANN  muss in diesem Feld der Wert „1“ übertragen
+
+werden.
+
 **WENN**  **das Feld "Kostenträgertyp" gleich "PKV" ist,**  **DANN**  **ist dieser Block optional**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
-Versicherten. für die Verordnung. WENN das Feld „Unfallkennzeichen“ gleich „2“ oder „4“   ist, DANN muss in diesem Feld der Wert „1“ übertragen werden. ID **WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder „PKV“ ist und**
+ID **WENN**  **das Feld "Kostenträgertyp" gleich "GKV" oder**  **"BG" oder "SKT" oder "UK" oder „PKV“ ist und**
 
 
 ---
@@ -3472,8 +3493,7 @@ Dieses Feld enthält das Datum des Endes  des Versicherungsschutzes, wenn die  D
 
 **x**
 
-| 19a |  |  | x |  |  |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID der |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+19a   x
 
 **140**  **x**
 
@@ -3491,6 +3511,8 @@ x
 
 **Identifikator des**  **Versicherten**
 
+VersichertenID
+
 **Name des Versicherten**
 
 Vorname des Versicherten
@@ -3501,7 +3523,9 @@ Titel des Versicherten
 
 Namenszusatz des  Versicherten
 
-Vorsatzwort des  Versicherten 1..45
+Vorsatzwort des  Versicherten 10
+
+1..45
 
 1..45
 
@@ -3512,6 +3536,8 @@ Vorsatzwort des  Versicherten 1..45
 1..20
 
 **1..1**
+
+1..1
 
 **1..1**
 
@@ -3526,6 +3552,8 @@ Vorsatzwort des  Versicherten 1..45
 0..1
 
 **Dieses Feld enthält den Identifikator der**  **Person, z.B. die**  **Krankenversicherungsnummer der GKV**  **oder PKV.**
+
+Dieses Feld enthält die VersichertenID der  gesetzlichen Krankenversicherung, der  privaten Krankenversicherung oder eines  sonstigen Kostenträgers (unveränderlicher  Teil der einheitlichen  Krankenversicherungsnummer KVNR der  GKV gemäß § 290 und § 362 SGB V).
 
 **Dieser Block enthält die Bestandteile des**  **Namens des Versicherten.**
 
@@ -3549,7 +3577,7 @@ sind durch Blank getrennt.
 
 **ANSONSTEN**  **ist dieses Feld optional.**
 
-gesetzlichen Krankenversicherung, der privaten Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer KVNR der GKV gemäß § 290 und § 362 SGB V). ID BEDINGUNGEN
+ID BEDINGUNGEN
 
 ---
 
@@ -3616,10 +3644,7 @@ ID ANSONSTEN  ist dieses Feld optional.
 
 ---
 
-**ID**
-
-| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID 1 2 3**
 
 30
 
@@ -3639,7 +3664,7 @@ x 36
 
 x
 
-**(GRAU = FELDGRUPPE)**
+**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 Ortsname der  Versichertenanschrift
 
@@ -3653,7 +3678,11 @@ Anschriftenzusatz der  Versichertenanschrift
 
 Wohnsitzländercode der  Versicherten- Postfachanschrift
 
-Postleitzahl der  Versicherten- Postfachanschrift 1..40
+Postleitzahl der  Versicherten- Postfachanschrift
+
+**LÄNGE**
+
+1..40
 
 1..46
 
@@ -3663,7 +3692,7 @@ Postleitzahl der  Versicherten- Postfachanschrift 1..40
 
 Kodiert  1..3 1..10
 
-**DERH.**
+**WIE-** **DERH.**
 
 0..1
 
@@ -3679,6 +3708,8 @@ Kodiert  1..3 1..10
 
 0..1
 
+**BESCHREIBUNG**
+
 Dieses Feld enthält den Ortsnamen.  Mehrere Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
 
 Dieses Feld enthält den Straßennamen.
@@ -3692,6 +3723,8 @@ Dieses Feld enthält den Anschriftenzusatz,  z.B. Hinterhaus.
 Dieses Feld enthält den  Wohnsitzländercode (entsprechend  Gemeinsames Rundschreiben DEÜV Anlage  08).
 
 Dieses Feld enthält die Postleitzahl.
+
+**BEDINGUNGEN**
 
 **WENN**  **der Block "Straßenadresse des Versicherten" nicht**  **angegeben ist,**  **DANN**  **muss dieser Block angegeben werden.**
 
@@ -3838,10 +3871,7 @@ ID BEDINGUNGEN **ANSONSTEN**  **ist dieser Block optional.**
 
 ---
 
-**ID**
-
-| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|
+**ID 1 2 3**
 
 42a
 
@@ -3852,6 +3882,10 @@ ID BEDINGUNGEN **ANSONSTEN**  **ist dieser Block optional.**
 43
 
 x
+
+**4 5 6 FELDNAME**
+
+**LÄNGE**
 
 **(GRAU = FELDGRUPPE)**
 
@@ -3869,7 +3903,7 @@ ausstellenden/  verschreibenden Person
 
 ASV-Teamnummer 9
 
-**DERH.**
+**WIE-** **DERH.**
 
 0..1
 
@@ -3878,6 +3912,8 @@ ASV-Teamnummer 9
 0..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält als Identifikator der  Person eine Arztnummer (Lebenslange  Arztnummer LANR).
 
@@ -3888,6 +3924,8 @@ Dieses Feld enthält als Identifikator der  Person eine Telematik-ID.
 Dieses Feld wird im Rahmen einer  ambulanten spezialfachärztlichen  Versorgung (ASV) genutzt. Jedes ASV-Team  erhält von der ASV-Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV- Ärzte die Leistungen oder Verordnungen,  die sie in der ASV durchführen. Die  Teamnummer umfasst neun Ziffern und ist  wie eine Betriebsstättennummer (BSNR)  aufgebaut. Sie wird vergeben, sobald die  Ärzte eine ASV-Berechtigung haben
 
 zusätzlich zur BSNR und zur lebenslangen  Arztnummer.
+
+**BEDINGUNGEN**
 
 WENN  der Block „Identifikator der ausstellenden/
 
@@ -4251,8 +4289,7 @@ Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,
 
 ---
 
-| **2 3** | | | **FELDNAME(GRAU = FELDGRUPPE)** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |
-|---|---|---|---|---|---|---|
+**ID 1 2 3**
 
 | x | | BSNR | 9 | 0..1 | Dieses Feld enthält eineBetriebsstättennummer (BSNR) zurIdentifikation einer Einrichtung. Imvertragsärztlichen Bereich ist das Feld eineVoraussetzung für die Abrechnungzwischen Leistungserbringern undKostenträgern. |
 |---|---|---|---|---|---|
@@ -4260,7 +4297,15 @@ Dieses Feld enthält das Vorsatzwort der  Person als Bestandteil des Nachnamens,
 | x | | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eineAbrechnungsnummer derKassenzahnärztlichen Vereinigung (KZV).Abrechnungsnummern des Zahnarztes/derZahnärztin mit weniger als 9 Stellen sindmit vorangestellten Nullen entsprechendzu füllen. |
 | x | | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnummereines Krankenhauses. |
 
-ID 1 4 5 6 BEDINGUNGEN 61a 61b 61c 61d WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN Block „Identifikator der Einrichtung“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist , die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK-**ANSONSTEN**  **ist dieser Block optional.**
+**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+**LÄNGE WIE-** **DERH.**
+
+**BESCHREIBUNG**
+
+**BEDINGUNGEN**
+
+61a 61b 61c 61d WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN Block „Identifikator der Einrichtung“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist , die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht ANSONSTEN darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK-**ANSONSTEN**  **ist dieser Block optional.**
 
 
 ---
@@ -4374,10 +4419,7 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 ---
 
-**ID**
-
-| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|
+**ID 1 2 3**
 
 69
 
@@ -4399,7 +4441,7 @@ x 83
 
 x
 
-**(GRAU = FELDGRUPPE)**
+**4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x   Telefonnummer der  Einrichtung
 
@@ -4417,7 +4459,11 @@ Kategorie
 
 Noctu
 
-Sprechstundenbedarf 1..30
+Sprechstundenbedarf
+
+**LÄNGE**
+
+1..30
 
 1..30
 
@@ -4431,7 +4477,7 @@ Bool
 
 Bool
 
-**DERH.**
+**WIE-** **DERH.**
 
 1..1
 
@@ -4450,6 +4496,8 @@ Bool
 0..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält die Telefonnummer.
 
@@ -4468,6 +4516,8 @@ Dieses Feld enthält die Kennzeichnung der  Verordnungskategorie, bspw. für ein
 Dieses Feld enthält die Kennzeichnung, ob  diese Verordnung auch während der  allgemeinen Ladenschlusszeiten beliefert  werden soll, verbunden mit der Erhebung  der Noctu-Gebühr (Notdienstgebühr) zu  Lasten der Krankenkasse gemäß  Arzneimittelpreisverordnung.
 
 Dieses Feld enthält die Kennzeichnung, ob  es sich um die Verordnung von  Sprechstundenbedarf an Arzneimitteln und  sonstigen nach § 31 SGB V in die  Arzneimittelversorgung einbezogenen  Produkten handelt.
+
+**BEDINGUNGEN**
 
 WENN  KEIN "Sprechstundenbedarf" verordnet wird,  DANN  ist dieses Feld Pflicht.
 
@@ -4722,8 +4772,7 @@ ANSONSTEN  darf es befüllt werden.
 
 107
 
-| 108 |  |  |  | x |  |  | Dosieranweisung | 1..500 | 0..1 | Dieses Feld enthält eine Dosieranweisung. |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+108
 
 **109**
 
@@ -4739,6 +4788,10 @@ x
 
 Kennzeichen Dosierung
 
+x
+
+Dosieranweisung
+
 **Packungsgröße**
 
 x
@@ -4747,7 +4800,7 @@ Packungsgröße nach N- Bezeichnung
 
 **LÄNGE**
 
-Bool
+Bool 1..500
 
 Kodiert
 
@@ -4756,6 +4809,8 @@ Kodiert
 **0..1**
 
 1..1
+
+0..1
 
 **0..1**
 
@@ -4769,6 +4824,8 @@ Verschreiber-ID angegeben wurde.
 
 Dieses Feld enthält ein Kennzeichen zur  Dosierung und beschreibt, ob eine  Dosieranweisung übermittelt oder ein  Medikationsplan mitgegeben wird.
 
+Dieses Feld enthält eine Dosieranweisung.
+
 **Dieser Block enthält Angaben zur**  **Packungsgröße.**
 
 Dieses Feld enthält die Normgröße der  therapiegerechten Packung (z.B. N1).
@@ -4779,11 +4836,17 @@ Dieses Feld enthält die Normgröße der  therapiegerechten Packung (z.B. N1).
 
 **ANSONSTEN**  **darf dieser Block nicht vorhanden sein.**
 
+WENN  das Feld "Kennzeichen Dosierung" gleich "true" ist,
+
+DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN  darf es nicht angegeben werden.
+
 **WENN**  **der Block "Rezeptierdaten PZN-Verordnung"**  **gesetzt ist oder der Block "Rezeptierdaten**  **Wirkstoffverordnung" gesetzt ist,**  **DANN**  **ist dieser Block Pflicht**
 
 **ANSONSTEN**  **darf dieser Block nicht angegeben werden.**
 
-WENN das Feld "Kennzeichen Dosierung" gleich "true" ist, DANN  ist dieses Feld Pflicht. ANSONSTEN darf es nicht angegeben werden.WENN  das Feld "Packungsgröße nach abgeteilter Menge"  nicht angegeben ist,
+WENN  das Feld "Packungsgröße nach abgeteilter Menge"  nicht angegeben ist,
 
 
 ---
@@ -5263,15 +5326,33 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht angegeben werd
 
 ---
 
-| **2 3** | | | **FELDNAME(GRAU = FELDGRUPPE)** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |
-|---|---|---|---|---|---|---|
+**ID 1 2 3 4**
 
-| x | | Freitextverordnung | 1..500 | 1..1 | Dieses Feld enthält den Text einerFreitextverordnung. |
-|---|---|---|---|---|---|
+137
+
+x
 
 **Tabelle 38: Auflistung der abzubildenden Felder für das ERP**
 
-ID 1 4 5 6 BEDINGUNGEN 137 **ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
+**5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+Freitextverordnung
+
+**LÄNGE**
+
+1..500
+
+**WIE-** **DERH.**
+
+1..1
+
+**BESCHREIBUNG**
+
+Dieses Feld enthält den Text einer  Freitextverordnung.
+
+**BEDINGUNGEN**
+
+**ODER**  **der Block "Rezeptierdaten Freitextverordnung"**  **vorhanden sein.**
 
 
 ---

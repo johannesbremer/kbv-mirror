@@ -193,10 +193,11 @@ Kostenträgern  konkretisiert
 
 ---
 
-**Version**
+**Version Datum**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Autor Änderung**
+
+**Begründung**
 
 Anpassung der  Übergangsregelung   eAU Ermöglichung Sonstige  Kostenträger   Zeitliche Einschränkung des  Stornoversandes   Anpassung des Mappings des  Barcodes   Erläuterung der Versionierung in  den FHIR-Profilen   Anpassung Informationsmodell  redaktionelle Änderungen der  IDs 3, 9, 26, 29, 34, 36, 37, 38,  61a, 64 und 67 sowie  Verbesserungen/Klarstellung bei  den IDs 19a, 19b, 25, 27, 35, 42,  43, 50, 52, 61c und 81 1.21
 
@@ -261,10 +262,11 @@ Akzeptanzkriterium 16   Ergänzung eines Hinweises zu  P310-02
 
 ---
 
-**Version**
+**Version Datum**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Autor Änderung**
+
+**Begründung**
 
 1.20 28.09.2022 KBV Aufnahme einer
 
@@ -534,18 +536,25 @@ Version
 
 Tabelle 9: KBV_PR_EAU_Storno_Composition
 
-**3.5**
+**3.5** **SPEZIFISCHE EAU-PROFILE FÜR DIE KASSE-ARZT-NACHRICHT**
 
-| **EAU-PROFILE** |  |
-|---|---|
-| **KBV_PR_EAU_HEALTH_INSURANCE_PRACTITIONER** |  |
-| Dient | der |
+**KBV_PR_EAU_HEALTH_INSURANCE_PRACTITIONER**
 
-1.2.0 1.2.1
+Kanonische URL
+
+FHIR®-Ressource
+
+Definition 1.2.0 1.2.1
+
+[https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_health_insurance_Practitioner](https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_health_insurance_Practitioner)
 
 |  | von | der Krankenkasse an die |  |
 |---|---|---|---|
 | den |  | FHIR®-Ressourcen vorgenommen. |  |
+
+[http://hl7.org/fhir/R4/operationoutcome.html](http://hl7.org/fhir/R4/operationoutcome.html)
+
+Dient der Übermittlung möglicher Fehlermeldung von der Krankenkasse an die  Arztpraxis
 
 Version 1.2.0 1.2.1
 
@@ -563,11 +572,9 @@ Definition
 
 Version
 
-| Extensions |  |
-|---|---|
-| Darstellung |  |
-| vorliegt. |  |
-| 1.2.0 |  |
+[https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_7_weeks](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_7_weeks)
+
+Darstellung der Information, dass die Arbeitsunfähigkeit seit mind. 7 Wochen  vorliegt.
 
 1.2.0 1.2.1
 
@@ -597,7 +604,6 @@ Tabelle 12: KBV_EX_EAU_unemployability
 
 Kanonische URL [https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_admission_date](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_admission_date)
 
-https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_7_weeks  Darstellung der Information, dass die Arbeitsunfähigkeit seit mind. 7 Wochen SPEZIFISCHE EAU-PROFILE FÜR DIE KASSE-ARZT-NACHRICHT Kanonische URL FHIR®-Ressource Definition https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_health_insurance_Practitioner http://hl7.org/fhir/R4/operationoutcome.html    Dient der Übermittlung möglicher Fehlermeldung von der Krankenkasse an die Arztpraxis
 
 ---
 
@@ -667,10 +673,11 @@ Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünfti
 
 1.2.0 1.2.1
 
-| seine | berufliche |
-|---|---|
-| ausüben |  |
-| 1.2.0 |  |
+ServiceRequest
+
+[https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_partially_employable](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_partially_employable)
+
+Dieses Datum gibt an, ab wann eine PKV-Versicherte ihre / ein PKV-Versicherter  seine berufliche Tätigkeit nach medizinischem Befund teilweise  ausüben kann.
 
 1.2.0 1.2.1
 
@@ -684,7 +691,6 @@ Dieses Datum gibt an, ab wann die Wiedereingliederung starten soll/kann.
 
 ServiceRequest
 
-ServiceRequest https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_partially_employable Dieses Datum gibt an, ab wann eine PKV-Versicherte ihre / ein PKV-Versicherter seine berufliche Tätigkeit nach medizinischem Befund teilweise ausüben kann.
 
 ---
 
@@ -1092,10 +1098,9 @@ Mit diesem Profil kann der Diagnosetext ergänzend zu mindestens einem ICD-10-GM
 
 1. Das Mapping der Informationen aus Kapitel 8 auf das Profil KBV_PR_EAU_Condition_Text muss wie folgt  erfolgen:  **KBV_PR_EAU_CONDITION_TEXT**
 
-| **Daten** |  | **ID gemäß** |  |  | **FHIR®-Element** |  | **Bedingung** |
-|---|---|---|---|---|---|---|---|
+**Daten**
 
-**Tabelle 23**
+**ID gemäß**  **Tabelle 23**
 
 Diagnosetext 89
 
@@ -1125,6 +1130,8 @@ D-Arzt-zugewiesen 78
 
 Leistungen Reha 83
 
+**FHIR®-Element**
+
 code.text
 
 „Diagnosetext“ nicht mehr als 70 Zeichen übertragen
@@ -1134,6 +1141,8 @@ code.text
 code.coding.code = „d_arzt“
 
 code.coding.code = „reha“
+
+**Bedingung**
 
 **Bedingung**
 
@@ -2768,28 +2777,23 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
 Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
 
-| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |  |
-|---|---|---|---|---|---|---|
+**NR.**
 
-|  | Formularcode | 2 | n | 01 | Nr. des Musters |  |
-|---|---|---|---|---|---|---|
+01
 
-|  | Formularcodeergänzung | 1 | a | a | Ausfertigung der Krankenkasse |  |
-|---|---|---|---|---|---|---|
+02
 
 |  | Versionsnummer | 2 | n | 12 | Barcode-Version des Formulars |  |
 |---|---|---|---|---|---|---|
 |  |  |  |  |  | für die eAU |  |
 
-|  | Versicherungsschutz Ende | 8 | n |  | Format: JJJJMMTT |  |
-|---|---|---|---|---|---|---|
+04
 
 05
 
 06
 
-|  | Versichertenart | 1 | n | 1, 3, 5 |  |  |
-|---|---|---|---|---|---|---|
+07
 
 08
 
@@ -2797,25 +2801,61 @@ Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
 
 10
 
+**FELDBEZEICHNUNG**
+
+Formularcode
+
+Formularcodeergänzung
+
+Versicherungsschutz Ende
+
 Kostenträgerkennung
 
 Versicherten-ID
+
+Versichertenart
 
 Besondere  Personengruppe
 
 DMP-Kennzeichnung (N)BSNR
 
+**LÄNGE**
+
+2
+
+1
+
+8
+
 9
 
-<=12 2
+<=12 1
+
+2
 
 2
 
 9
 
+**TYP**
+
 n
 
 a
+
+n
+
+**ERLAUBTE INHALTE**
+
+01
+
+a
+
+n
+
+a
+
+n 1, 3, 5
 
 n 00, 04, 06, 07, 08, 09
 
@@ -2823,101 +2863,263 @@ n 00, 01, 02, 03, 04, 05,  06, 07, 08, 09, 10, 11,  12, 30, 31, 32, 33, 34,  35,
 
 n
 
+**FORMAT/ BEMERKUNG**
+
+Nr. des Musters
+
+Ausfertigung der
+
+Format: JJJJMMTT
+
+**X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**
+
+konstanter Wert
+
+Krankenkasse konstanter Wert
+
+Coverage/period/end/@value
+
 Coverage/payor/identifier[system/@value='[http://fhir.d](http://fhir.d) e/sid/arge-ik/iknr']/value/@value
 
 Patient/identifier/value/@value
+
+Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/StructureDefini) tion/gkv/versichertenart']/valueCoding[system/@value= '[https://fhir.kbv.de/CodeSystem](https://fhir.kbv.de/CodeSystem)  /KBV_CS_SFHIR_KBV_VERSICHERTENSTATUS]/code/@va lue
 
 Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/StructureDefini) tion/gkv/besondere-personengruppe']  /valueCoding[system/@value='[https://fhir.kbv.de/CodeS](https://fhir.kbv.de/CodeS) ystem  /KBV_CS_SFHIR_KBV_PERSONENGRUPPE']/code/@value
 
 Coverage/extension[@url='[http://fhir.de/StructureDefini](http://fhir.de/StructureDefini) tion/gkv/dmp-kennzeichen']  /valueCoding[system/@value='[https://fhir.kbv.de/CodeS](https://fhir.kbv.de/CodeS) ystem/KBV_CS_SFHIR_KBV_DMP']/code/@value
 
-X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ konstanter Wert 02 konstanter Wert 03 konstanter Wert 04 Coverage/period/end/@value 07 Coverage/extension[@url='http://fhir.de/StructureDefini tion/gkv/versichertenart']/valueCoding[system/@value= 'https://fhir.kbv.de/CodeSystem /KBV_CS_SFHIR_KBV_VERSICHERTENSTATUS]/code/@va lue Bedingung:  Wenn vorhanden, dann:  PractitionerRole/organization/identifier[system/@value
+03 konstanter Wert Bedingung:  Wenn vorhanden, dann:  PractitionerRole/organization/identifier[system/@value
 
 
 ---
 
-| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |  |
-|---|---|---|---|---|---|---|
+**NR.**
 
 11
 
-|  | Ausstellungsdatum | 8 | n |  | Format: JJJJMMTT |  |
-|---|---|---|---|---|---|---|
+12
 
-|  | Erstbescheinigung | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+13
 
-|  | Folgebescheinigung | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+14
 
-|  | Arbeitsunfall | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+15
 
-|  | Durchgangsarzt | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+16
 
-|  | arbeitsunfähig seit | 8 | n |  | Format: JJJJMMTT |  |
-|---|---|---|---|---|---|---|
+17
 
-|  | voraussichtliche AU bis | 8 | n |  | Format: JJJJMMTT |  |
-|---|---|---|---|---|---|---|
+18
 
 |  | festgestellt am | 8 | n |  | Format: JJJJMMTT |  |
 |---|---|---|---|---|---|---|
 |  | sonstiger Unfall | 1 | n | 1 | 1 = angekreuzt |  |
 
-LANR 9 n
+**FELDBEZEICHNUNG**
 
-='[http://fhir.de/NamingSystem/asv/teamnummer'](http://fhir.de/NamingSystem/asv/teamnummer')]  /value/@value  sonst:  Organization/identifier/value/@value
+LANR
 
-12 Composition/date/@value 13 Composition/type/coding/code[@value='ERST' or @value='ERST_END']  14 Composition/type/coding/code[@value='FOLGE' or @value='FOLGE_END'] 15 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2]/e xtension[@url='http://hl7.org/fhir/StructureDefinition/c ondition-dueTo'] /valueCodeableConcept/coding/code[@value='2'] 16 ServiceRequest/code/coding/code[@value='d_arzt'] 17 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 '] /onsetPeriod/start/@value 18 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 '] /onsetPeriod/end/@value 19 20 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.'] /extension[@url='http://hl7.org/fhir/StructureDefinition /condition-assertedDate']/valueDateTime/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2'] /extension[@url='http://hl7.org/fhir/StructureDefinition X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ Practitioner/identifier/value/@value  Hinweis: bei mehreren LANR jene, welche in der  Composition als Autor referenziert ist
+Ausstellungsdatum
+
+Erstbescheinigung
+
+Folgebescheinigung
+
+Arbeitsunfall
+
+Durchgangsarzt
+
+arbeitsunfähig seit
+
+voraussichtliche AU bis
+
+**LÄNGE**
+
+9
+
+8
+
+1
+
+1
+
+1
+
+1
+
+8
+
+8
+
+**TYP**
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+n
+
+**ERLAUBTE INHALTE**
+
+1
+
+1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+Format: JJJJMMTT 1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+Format: JJJJMMTT
+
+Format: JJJJMMTT
+
+**X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**  ='[http://fhir.de/NamingSystem/asv/teamnummer'](http://fhir.de/NamingSystem/asv/teamnummer')]  /value/@value  sonst:  Organization/identifier/value/@value
+
+Practitioner/identifier/value/@value  Hinweis: bei mehreren LANR jene, welche in der  Composition als Autor referenziert ist
+
+Composition/date/@value
+
+Composition/type/coding/code[@value='ERST' or  @value='ERST_END']
+
+Composition/type/coding/code[@value='FOLGE' or  @value='FOLGE_END']
+
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2]/e xtension[@url='[http://hl7.org/fhir/StructureDefinition/c](http://hl7.org/fhir/StructureDefinition/c) ondition-dueTo']  /valueCodeableConcept/coding/code[@value='2']
+
+ServiceRequest/code/coding/code[@value='d_arzt']
+
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 ']  /onsetPeriod/start/@value
+
+19 20 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.'] /extension[@url='http://hl7.org/fhir/StructureDefinition /condition-assertedDate']/valueDateTime/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2'] /extension[@url='http://hl7.org/fhir/StructureDefinitionCondition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 ']  /onsetPeriod/end/@value
 
 
 ---
 
-| **NR.** | **FELDBEZEICHNUNG** | **LÄNGE** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** |  |
-|---|---|---|---|---|---|---|
+**NR.**
 
-|  | SER | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+21
 
-|  | Rehabilitation | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+22
 
-|  | Wiedereingliederung | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+23
 
-|  | sonstige Maßnahmen | <=70 | a |  | Freitext |  |
-|---|---|---|---|---|---|---|
+24
 
-|  | Krankengeldfall | 1 | n | 1 | 1 = angekreuzt |  |
-|---|---|---|---|---|---|---|
+25
 
 26
 
 27
 
+**FELDBEZEICHNUNG**
+
+SER
+
+Rehabilitation
+
+Wiedereingliederung
+
+sonstige Maßnahmen
+
+Krankengeldfall
+
 Endbescheinigung
 
-Diagnosen 1
+Diagnosen
+
+**LÄNGE**
+
+1
+
+1
+
+1
+
+<=70 1
+
+1
 
 <=70
 
+**TYP**
+
 n
 
-a 1
+n
+
+n
+
+a
+
+n
+
+n
+
+a
+
+**ERLAUBTE INHALTE**
+
+1
+
+1
+
+1
+
+1
+
+1
+
+**FORMAT/ BEMERKUNG**
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+1 = angekreuzt
+
+Freitext 1 = angekreuzt
 
 1 = angekreuzt
 
 max. 6 ICD-10-Diagnosen;  mehrere Angaben sind durch ein  Komma und ein Leerzeichen  getrennt (siehe P7-03)
 
-/condition-dueTo']/valueCodeableConcept  /coding/code[@value='1']
+**X-PATH AUSDRUCK AUSGEHEND VON**  **BUNDLE/ENTRY/RESOURCE/**  /condition-dueTo']/valueCodeableConcept  /coding/code[@value='1']
+
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='[http://hl7.org/fhir/StructureDefinition/](http://hl7.org/fhir/StructureDefinition/) condition-dueTo']/valueCodeableConcept  /coding/code[@value='3']
+
+ServiceRequest/code/coding/code[@value='reha']
+
+ServiceRequest/code/coding  /code[@value='wiedereingliederung']
+
+ServiceRequest/code/text/@value
+
+Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='[https://fhir.kbv.de/StructureDefinition/](https://fhir.kbv.de/StructureDefinition/) KBV_EX_EAU_7_weeks']/valueBoolean/@value='true'
 
 Composition/type/coding/code[@value='FOLGE_END' or  @value='ERST_END']
 
 ICD-10:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2‘]/
 
-21 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ condition-dueTo']/valueCodeableConcept /coding/code[@value='3'] 22 ServiceRequest/code/coding/code[@value='reha'] 23 ServiceRequest/code/coding /code[@value='wiedereingliederung'] 24 ServiceRequest/code/text/@value 25 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
+code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
 
 
 ---
@@ -2926,13 +3128,7 @@ ICD-10:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.d
 |---|---|---|---|---|---|---|
 |  | Hinweise zur Diagnose | <=70 | a |  | Freitext |  |
 
-28 X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ Condition[meta/profile/@value='https://fhir.kbv.de/Stru ctureDefinition/KBV_PR_EAU_Condition_Text|1.2' ]/code/text/@value | **X-PATH** | **AUSDRUCK** | **AUSGEHEND** | **VON** |
-|---|---|---|---|
-|  | **BUNDLE/ENTRY/RESOURCE/** | |  |
-|  |  |  | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |
-|  |  |  | ctureDefinition/KBV_PR_EAU_Condition_Text\|1.2' |
-|  | ]/code/text/@value | |  |
-
+28 X-PATH AUSDRUCK AUSGEHEND VON  BUNDLE/ENTRY/RESOURCE/ Condition[meta/profile/@value='https://fhir.kbv.de/Stru ctureDefinition/KBV_PR_EAU_Condition_Text|1.2' ]/code/text/@value
 
 ---
 
@@ -3101,8 +3297,9 @@ WENN  das Feld "Kostenträgertyp"  gleich "BG" oder "UK" ist,  DANN  kann das Fe
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 12
 
@@ -3116,7 +3313,7 @@ WENN  das Feld "Kostenträgertyp"  gleich "BG" oder "UK" ist,  DANN  kann das Fe
 
 16
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x
 
@@ -3130,6 +3327,8 @@ x    Besondere Personengruppe
 
 x    DMP-Kennzeichen
 
+**LÄNGE**
+
 Kodiert
 
 **Kodiert**
@@ -3138,7 +3337,11 @@ Kodiert
 
 Kodiert
 
-Kodiert 0..1
+Kodiert
+
+**WIE-DERH.**
+
+0..1
 
 **0..1**
 
@@ -3147,6 +3350,8 @@ Kodiert 0..1
 1..1
 
 1..1
+
+**BESCHREIBUNG**
 
 Anlage 4a BMV-Ä" Kapitel "2.3  Bedruckung des Personalienfeldes  und des verkürzten  Personalienfeldes".
 
@@ -3160,6 +3365,8 @@ Dieses Feld enthält die besondere  Personengruppe, zu der der  Versicherte geh�
 
 Dieses Feld enthält das Disease- Management-Programm (DMP),  in dem der Versicherte
 
+**BEDINGUNGEN**
+
 WENN  eine eGK mit VSD-Schema >=  5.2.0 eingelesen wurde,  DANN  ist dieses Feld  verpflichtend zu  übertragen.  ANSONSTEN  kann dieses Feld übertragen  werden.
 
 **WENN**  **das Feld "Kostenträgertyp"**  **gleich "GKV" oder "BG"**  **oder "SKT" oder "UK" oder**  **„PKV“ ist**
@@ -3169,8 +3376,9 @@ WENN  eine eGK mit VSD-Schema >=  5.2.0 eingelesen wurde,  DANN  ist dieses Feld
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 17
 
@@ -3182,12 +3390,13 @@ x
 
 **x**
 
-| **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**19**
+
+**x**
 
 19a
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x    Kennzeichen Rechtsgrundlage
 
@@ -3195,11 +3404,19 @@ Versicherungsschutz Ende
 
 **Versicherter**
 
+**Identifikator des Versicherten**
+
 x    VersichertenID
+
+**LÄNGE**
 
 Kodiert 10
 
+**6..12**
+
 10
+
+**WIE-DERH.**
 
 1..1
 
@@ -3207,7 +3424,11 @@ Kodiert 10
 
 **0..1**
 
+**0..1**
+
 0..1
+
+**BESCHREIBUNG**
 
 eingeschrieben ist (§ 284 Abs. 1  Satz 1 Nr. 14 SGB V).
 
@@ -3217,39 +3438,56 @@ Dieses Feld enthält das Datum des  Endes des Versicherungsschutzes,  wenn die D
 
 **Dieser Block enthält Daten zum**  **Versicherten.**
 
+**Dieses Feld enthält den**  **Identifikator der Person, z.B. die**  **Krankenversicherungsnummer**  **der GKV oder PKV.**
+
 Dieses Feld enthält die  VersichertenID der gesetzlichen  Krankenversicherung oder der  privaten Krankenversicherung  oder eines sonstigen  Kostenträgers (unveränderlicher  Teil der einheitlichen
+
+**BEDINGUNGEN**
+
+**WENN**  **der Versicherte sich**  **elektronisch ausgewiesen**  **hat und das Feld**  **"Kostenträgertyp" gleich**  **"GKV" oder "BG" oder**  **"SKT" oder "UK" oder “PKV“**
+
+**DANN**  **ist dieses Feld Pflicht.**  **ANSONSTEN**  **ist dieses Feld optional.**
 
 WENN  das Feld „Identifikator des  Versicherten“ vorhanden ist  und das Feld  "Kostenträgertyp" gleich  "GKV" oder „PKV“ ist oder
 
-Identifikator der Person, z.B. die Krankenversicherungsnummer der GKV oder PKV. WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ DANN  ist dieses Feld Pflicht. ANSONSTEN  ist dieses Feld optional.der Block „Identifikator des
+der Block „Identifikator des
 
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 19c
 
 **140**  **x**
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x    KVK-Versichertennummer
 
 **Name des Versicherten**
 
+**LÄNGE**
+
 6..12
+
+**WIE-DERH.**
 
 0..1
 
 **1..1**
+
+**BESCHREIBUNG**
 
 Krankenversicherungsnummer  der GKV gemäß § 290 und § 362  SGB V).
 
 Dieses Feld enthält die  Versichertennummer der  Krankenversichertenkarte.
 
 **Dieser Block enthält die**  **Bestandteile des Namens des**  **Versicherten.**
+
+**BEDINGUNGEN**
 
 Versicherten“ vorhanden ist  und das Feld „KVK
 
@@ -3367,15 +3605,24 @@ WENN  in diesem Feld ein Datum  angegeben wird,  DANN  darf das Datum nicht in  
 
 ---
 
-| **2 3** | | | **FELDNAME(GRAU = FELDGRUPPE)** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |
-|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 | x | | | Wohnsitzländercode derVersichertenanschrift | Kodiert 1..3 | 0..1 | Dieses Feld enthält denWohnsitzländercode(entsprechend GemeinsamesRundschreiben DEÜV Anlage 08). |
 |---|---|---|---|---|---|---|
 | x | | | Postleitzahl derVersichertenanschrift | 1..10 | 0..1 | Dieses Feld enthält diePostleitzahl. |
 | x | | | Ortsname derVersichertenanschrift | 1..40 | 0..1 | Dieses Feld enthält denOrtsnamen. Mehrere |
 
-ID 1 4 5 6 BEDINGUNGEN 28 29 3.0 WENN der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.   ANSONSTEN WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ANSONSTEN ist dieses Feld optional. **muss dieser Block**  **angegeben werden.**  **ANSONSTEN**  **darf dieser Block nicht**  **angegeben werden.**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+**LÄNGE WIE-DERH.**
+
+**BESCHREIBUNG**
+
+**BEDINGUNGEN**
+
+28 29 3.0 WENN der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.   ANSONSTEN WENN der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ANSONSTEN ist dieses Feld optional. **muss dieser Block**  **angegeben werden.**  **ANSONSTEN**  **darf dieser Block nicht**  **angegeben werden.**
 
 
 ---
@@ -3593,17 +3840,39 @@ BEDINGUNGEN **der ausstellenden /**  **verschreibenden Person“**  **gleich „
 
 ---
 
-| **2 3** | | | **FELDNAME(GRAU = FELDGRUPPE)** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** |
-|---|---|---|---|---|---|---|
+**ID**
 
-| x | | Arztnummer der ausstellenden/verschreibenden Person | 9 | 0..1 | Dieses Feld enthält alsIdentifikator der Person eineArztnummer (LebenslangeArztnummer LANR). |
-|---|---|---|---|---|---|
+**1 2**
+
+42a
+
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+x   Arztnummer der ausstellenden/  verschreibenden Person
+
+**LÄNGE**
+
+9
+
+**WIE-DERH.**
+
+0..1
+
+**BESCHREIBUNG**
+
+Dieses Feld enthält als  Identifikator der Person eine  Arztnummer (Lebenslange  Arztnummer LANR).
+
+**BEDINGUNGEN**
 
 **Fachgruppennummer der**  **ausstellenden/**  **verschreibenden Person“**  **nicht vorhanden ist,**  **DANN**  **ist dieser Block Pflicht.**  **ANSONSTEN WENN**  **das Feld "Kostenträgertyp"**  **gleich "GKV" oder "BG"**  **oder "SKT" oder "UK" oder**  **“PKV“ ist** **und das Feld „Typ**
 
 **der ausstellenden /**  **verschreibenden Person“**  **gleich „03“ ist und der Block**  **„Verantwortliche Person“**  **nicht vorhanden ist,**  **DANN**  **ist dieser Block Pflicht.**  **ANSONSTEN WENN**  **das Feld „Typ der**  **ausstellenden /**  **verschreibenden Person“**  **gleich „02“ ist oder das Feld**  **„ASV-Fachgruppennummer**
 
-ID 1 4 5 6 BEDINGUNGEN 42a WENN der Block „Identifikator der verschreibenden Person“ **der ausstellenden/**  **verschreibenden Person“**  **vorhanden ist,**  **DANN**  **darf dieser Block nicht**  **angegeben werden.**  **ANSONSTEN**  **ist dieser Block optional.**
+**der ausstellenden/**  **verschreibenden Person“**  **vorhanden ist,**  **DANN**  **darf dieser Block nicht**  **angegeben werden.**  **ANSONSTEN**  **ist dieser Block optional.**
+
+WENN  der Block „Identifikator der
+
+ausstellenden/  verschreibenden Person“
 
 
 ---
@@ -3641,8 +3910,9 @@ DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werd
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 43
 
@@ -3656,7 +3926,7 @@ DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werd
 
 47
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x
 
@@ -3678,7 +3948,11 @@ Titel der ausstellenden/  verschreibenden Person
 
 x
 
-Namenszusatz der  ausstellenden/ verschreibenden  Person 9
+Namenszusatz der  ausstellenden/ verschreibenden  Person
+
+**LÄNGE**
+
+9
 
 1..45
 
@@ -3687,6 +3961,10 @@ Namenszusatz der  ausstellenden/ verschreibenden  Person 9
 1..100
 
 1..20
+
+**WIE-DERH.**
+
+**BESCHREIBUNG**
 
 0..1
 
@@ -3711,6 +3989,8 @@ Dieses Feld enthält den  akademischen Grad der Person,  z.B. „Dr. med.“, �
 0..1
 
 Dieses Feld enthält den  Namenszusatz als Bestandteil des  Nachnamens der Person z.B.  „Freiherr“, „Gräfin“; mehrere
+
+**BEDINGUNGEN**
 
 WENN  das Feld „Kennzeichen  Rechtsgrundlage“ den Wert  "01" oder "11" besitzt,  DANN  muss dieses Feld  übertragen werden.  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
@@ -3874,8 +4154,9 @@ BEDINGUNGEN WENN  der Block „Identifikator der  verantwortlichen Person“
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 52b
 
@@ -3887,7 +4168,7 @@ BEDINGUNGEN WENN  der Block „Identifikator der  verantwortlichen Person“
 
 54
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x   Zahnarztnummer der  verantwortlichen Person
 
@@ -3903,13 +4184,19 @@ Vorname der verantwortlichen  Person
 
 x
 
-Nachname der  verantwortlichen Person 9
+Nachname der  verantwortlichen Person
+
+**LÄNGE**
+
+9
 
 1..128
 
 1..45
 
 1..45
+
+**WIE-DERH.**
 
 0..1
 
@@ -3920,6 +4207,8 @@ Nachname der  verantwortlichen Person 9
 1..1
 
 1..1
+
+**BESCHREIBUNG**
 
 Arztnummer (Lebenslange  Arztnummer LANR).
 
@@ -3933,6 +4222,8 @@ Dieses Feld enthält den Vornamen  der Person;  mehrere Vornamen sind durch  Bla
 
 Dieses Feld enthält den  Familiennamen der Person
 
+**BEDINGUNGEN**
+
 vorhanden ist und das Feld  „Typ der verantwortlichen  Person“ gleich „00“ oder  „04“ ist,
 
 DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
@@ -3944,8 +4235,9 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht  angegeben wer
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 55
 
@@ -3959,7 +4251,7 @@ DANN  ist dieses Feld Pflicht.  ANSONSTEN  darf dieses Feld nicht  angegeben wer
 
 **61**
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x
 
@@ -3979,6 +4271,8 @@ Vorsatzwort der  verantwortlichen Person
 
 **Identifikator der Einrichtung**
 
+**LÄNGE**
+
 1..100
 
 1..20
@@ -3986,6 +4280,10 @@ Vorsatzwort der  verantwortlichen Person
 1..20
 
 **9**
+
+**WIE-DERH.**
+
+**BESCHREIBUNG**
 
 0..1
 
@@ -4009,6 +4307,8 @@ Dieses Feld enthält das  Vorsatzwort der Person als  Bestandteil des Nachnamens
 
 **Form einer**  **Betriebsstättennummer (BSNR),**  **IK-Nummer, KZV-** **Abrechnungsnummer oder**  **Standortnummer und kann**  **zusätzlich eine Telematik-ID**  **enthalten.**
 
+**BEDINGUNGEN**
+
 WENN  das Feld "Kostenträgertyp"  gleich "GKV" oder „PKV“  oder "BG" oder "SKT" oder  "UK" ist und das Feld "Typ  der ausstellenden/  verschreibenden Person"  gleich "00" oder "01" oder  "03" oder „04“ ist,
 
 DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
@@ -4016,8 +4316,9 @@ DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 61a
 
@@ -4025,19 +4326,27 @@ DANN  ist dieser Block Pflicht.  ANSONSTEN  ist dieser Block optional.
 
 61c
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x   BSNR
 
 x   IK-Nummer
 
-x   KZV-Abrechnungsnummer 9
+x   KZV-Abrechnungsnummer
+
+**LÄNGE**
 
 9
 
 9
+
+9
+
+**WIE-DERH.**
 
 0..1
+
+**BESCHREIBUNG**
 
 Dieses Feld enthält eine  Betriebsstättennummer (BSNR)  zur Identifikation einer  Einrichtung. Im vertragsärztlichen  Bereich ist das Feld eine  Voraussetzung für die Abrechnung  zwischen Leistungserbringern und  Kostenträgern.
 
@@ -4048,6 +4357,8 @@ Dieses Feld enthält ein  Institutionskennzeichen (IK),  welches von der ARGE·I
 0..1
 
 Dieses Feld enthält eine  Abrechnungsnummer der  Kassenzahnärztlichen Vereinigung  (KZV).  Abrechnungsnummern des  Zahnarztes/der Zahnärztin mit  weniger als 9 Stellen sind mit  vorangestellten Nullen  entsprechend zu füllen.
+
+**BEDINGUNGEN**
 
 WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "IK-Nummer"  und "KZV- Abrechnungsnummer" und  "Standortnummer" nicht  vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
@@ -4137,8 +4448,9 @@ WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Feld
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 66
 
@@ -4164,7 +4476,7 @@ x 74
 
 x
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x Straßenname der Einrichtung
 
@@ -4184,7 +4496,11 @@ x E-Mail der Einrichtung
 
 Ausstellungsdatum
 
-AU-seit 1..46
+AU-seit
+
+**LÄNGE**
+
+1..46
 
 1..9
 
@@ -4200,6 +4516,8 @@ AU-seit 1..46
 
 10
 
+**WIE-DERH.**
+
 1..1
 
 1..1
@@ -4219,6 +4537,8 @@ AU-seit 1..46
 1..1
 
 0..1
+
+**BESCHREIBUNG**
 
 Namensbestandteile sind durch  Blank/Sonderzeichen getrennt.
 
@@ -4241,6 +4561,8 @@ Dieses Feld enthält die E-Mail -  Adresse der Einrichtung  Bei grenzüberschrei
 Dieses Feld enthält das  Ausstellungsdatum der AU- Bescheinigung.
 
 Dieses Feld enthält das Datum, ab  dem die Arbeitsunfähigkeit  bescheinigt wird (Beginn der AU).
+
+**BEDINGUNGEN**
 
 WENN  das Feld „AU "ERST" oder „ERST_END“ ist
 
@@ -4322,8 +4644,9 @@ DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht geset
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 82
 
@@ -4335,7 +4658,7 @@ x 97
 
 x
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x    Sonstiger Unfall, Unfallfolgen
 
@@ -4345,6 +4668,8 @@ AU-Art
 
 Berufsunfähigkeit
 
+**LÄNGE**
+
 Kodiert
 
 Kodiert
@@ -4352,6 +4677,10 @@ Kodiert
 Kodiert
 
 Bool
+
+**WIE-DERH.**
+
+**BESCHREIBUNG**
 
 Entschädigungsrecht - SER  vorliegt.
 
@@ -4370,6 +4699,8 @@ Dieses Feld beschreibt die Art der,  AU (  Erstbescheinigung,  Folgebescheinigun
 0..1
 
 Dieses Feld gibt an, ob eine PKV- Versicherte/ein PKV-Versicherter  nach  medizinischem Befund im bisher  ausgeübten Beruf auf nicht  absehbare Zeit  mehr als 50 % erwerbsunfähig ist  und somit eine Berufsunfähigkeit  vorliegt.
+
+**BEDINGUNGEN**
 
 WENN  das Feld "Kostenträgertyp"  gleich „PKV“ ist
 
@@ -4496,8 +4827,9 @@ DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht geset
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
+
+**1 2**
 
 85
 
@@ -4523,7 +4855,7 @@ DANN  darf dieses Feld gesetzt  werden.  ANSONSTEN  darf dieses Feld nicht geset
 
 91
 
-**(GRAU = FELDGRUPPE)**
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
 
 x    Sonstige
 
@@ -4545,6 +4877,8 @@ x    Diagnosetext
 
 x    7. AU-Woche
 
+**LÄNGE**
+
 Kodiert 1..70
 
 3..6
@@ -4555,7 +4889,11 @@ Kodiert 4
 
 1..70
 
-Bool 0..1
+Bool
+
+**WIE-DERH.**
+
+0..1
 
 1..1
 
@@ -4574,6 +4912,10 @@ Bool 0..1
 **0..1**
 
 0..1
+
+**BESCHREIBUNG**
+
+**BEDINGUNGEN**
 
 Dieses Feld beschreibt, ob ein
 
@@ -4618,10 +4960,17 @@ voraussichtlich um einen  Krankengeldfall (ab 7. Woche der
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME** | **LÄNGE** | **WIE-DERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**ID**
 
-**(GRAU = FELDGRUPPE)**
+**1 2**
+
+**3 4 5 6 FELDNAME**  **(GRAU = FELDGRUPPE)**
+
+**LÄNGE WIE-DERH.**
+
+**BESCHREIBUNG**
+
+**BEDINGUNGEN**
 
 Arbeitsunfähigkeit oder sonstiger  Krankengeldfall) handelt.
 

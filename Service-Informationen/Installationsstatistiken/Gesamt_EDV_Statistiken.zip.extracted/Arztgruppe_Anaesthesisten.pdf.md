@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.99 **SMARTY**
 
@@ -33,6 +32,8 @@
 
 2.03 **ALBIS**
 
+**Anbieter**
+
 New Media Company GmbH & Co. KG
 
 Dedalus HealthCare GmbH
@@ -58,6 +59,8 @@ CGM Clinical Europe GmbH
 Frey ADV GmbH
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 2.21
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 5.0
 
+**Installationen 1.Q.2025**
+
 2.22
 
 1.54
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 5.7
 
 5.3
+
+**Differenz**
 
 -1
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.52 **CGM M1 PRO**
 
@@ -157,6 +163,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.47 **PROFIMED**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 T2med GmbH & Co. KG
@@ -170,6 +178,8 @@ Deutsche Telekom Clinical Solutions GmbH
 S3 Praxiscomputer GmbH / Maximilian Flender
 
 PRO MEDISOFT AG 2
+
+**Installationen 2.Q.2025**
 
 4.7
 
@@ -185,6 +195,8 @@ PRO MEDISOFT AG 2
 
 3.3
 
+**Installationen 1.Q.2025**
+
 4.4
 
 4.5
@@ -198,6 +210,8 @@ PRO MEDISOFT AG 2
 3.5
 
 3.6
+
+**Differenz**
 
 3
 

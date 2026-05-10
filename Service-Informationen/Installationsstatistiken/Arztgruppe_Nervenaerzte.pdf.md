@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 1.12
 
@@ -31,6 +30,8 @@
 
 2.98
 
+**Praxissoftware**
+
 **TURBOMED**
 
 **x.isynet**
@@ -54,6 +55,8 @@
 **T2med**
 
 **Elefant**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -79,6 +82,8 @@ T2med GmbH & Co. KG
 
 HASOMED GmbH 1
 
+**Installationen 2.Q.2025**
+
 3.97
 
 3.57
@@ -103,6 +108,8 @@ HASOMED GmbH 1
 
 1.45
 
+**Installationen 1.Q.2025**
+
 3.99
 
 3.62
@@ -126,6 +133,8 @@ HASOMED GmbH 1
 1.58
 
 1.47
+
+**Differenz**
 
 -2
 
@@ -154,8 +163,7 @@ HASOMED GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.44
 
@@ -173,6 +181,8 @@ HASOMED GmbH 1
 
 0.86
 
+**Praxissoftware**
+
 **QUINCY WIN**
 
 **CGM M1 PRO**
@@ -188,6 +198,8 @@ HASOMED GmbH 1
 **CGM MEDICO**
 
 **DURIA**
+
+**Anbieter**
 
 Frey ADV GmbH
 
@@ -207,6 +219,8 @@ CGM Clinical Europe GmbH
 
 Duria eG 2
 
+**Installationen 2.Q.2025**
+
 1.26
 
 1.25
@@ -223,6 +237,8 @@ Duria eG 2
 
 7.0
 
+**Installationen 1.Q.2025**
+
 1.30
 
 1.27
@@ -238,6 +254,8 @@ Duria eG 2
 6.8
 
 7.1
+
+**Differenz**
 
 -4
 

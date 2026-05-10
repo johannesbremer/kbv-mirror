@@ -4,9 +4,6 @@ in Deutschland aufzuhalten.
 
 Възнамерявам да пребивавам в Германия до
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
-
 ## Patientenerklärung Europäische Krankenversicherung
 
 ## Декларация на пациента Европейско здравно осигуряване
@@ -18,6 +15,8 @@ PRF.NR.
 Unterschrift der Patientin / des Patienten
 
 подпис на пациентката пациента
+
+## T T M M J J
 
 **Bitte vollständig und leserlich ausfüllen. Моля** **попълнете** **изцяло** **и** **четливо**
 
@@ -131,7 +130,7 @@ der im EU- bzw. EWR-Ausland, in der Schweiz oder im Vereinigten Königreich vers
 
 Datum
 
-T T M M J JArztstempel / ärztliche Unterschrift
+Arztstempel / ärztliche Unterschrift
 
 
 ---
@@ -142,8 +141,7 @@ Unterschrift der Patientin / des Patienten
 
 *patientens underskrift*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Udfyldes fuldstændigt og let læseligt.***
 
@@ -247,7 +245,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -592,8 +589,7 @@ Unterschrift der Patientin / des Patienten
 
 *Signature du/de la patient(e)*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Veuillez remplir entièrement et lisiblement.***
 
@@ -701,7 +697,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -826,8 +821,7 @@ Unterschrift der Patientin / des Patienten
 
 *Firma della / del paziente*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Si prega di compilare il modul interamente e in modo leggibile.***
 
@@ -933,7 +927,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -1284,8 +1277,7 @@ Unterschrift der Patientin / des Patienten
 
 *Handtekening van de patiënt*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. s.v.p. volledig en leesbaar invullen***
 
@@ -1389,7 +1381,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -1405,8 +1396,7 @@ Unterschrift der Patientin / des Patienten
 
 *podpis pacjentki / pacjenta*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Proszę wypełnić formularz w sposób pełny i czytelny.***
 
@@ -1506,7 +1496,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -1635,8 +1624,7 @@ Unterschrift der Patientin / des Patienten
 
 *Semnătura pacientei / pacientului*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. A se completa în întregime şi în mod lizibil.***
 
@@ -1736,7 +1724,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -2143,8 +2130,7 @@ Nr.
 
 *o un*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 Datum /
 
@@ -2194,7 +2180,6 @@ Unterschrift der Patientin / des Patienten
 
 *Firma del/de la paciente*
 
-T T M M J J
 
 ---
 
@@ -2210,8 +2195,7 @@ Unterschrift der Patientin / des Patienten
 
 *Podpis pacientky / pacienta*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Prosíme o úplné a čitelné vyplnění údajů.***
 
@@ -2313,7 +2297,6 @@ Nr.
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
 
-T T M M J J
 
 ---
 
@@ -2329,8 +2312,7 @@ Unterschrift der Patientin / des Patienten
 
 *a beteg aláírása*
 
-| **T** | **T** | **M** | **M** | **J** | **J** |  |  |
-|---|---|---|---|---|---|---|---|
+## T T M M J J
 
 ***Bitte vollständig und leserlich ausfüllen. Kérjük hiánytalanul és olvashatóan töltse ki.***
 
@@ -2427,5 +2409,3 @@ Nr.
 ***Ab hier von der Praxis auszufüllen.***
 
 **Name der behandelnden Ärztin / des behandelnden Arztes**
-
-T T M M J J

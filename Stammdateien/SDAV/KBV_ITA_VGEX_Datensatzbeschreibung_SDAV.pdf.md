@@ -397,12 +397,15 @@ Sonderprüfungen
 
 Feld im Datensatz
 
-| FK | Bez. | Länge | Typ | Regelnr. |
-|---|---|---|---|---|
+FK
 
 Länge Feldkennung Inhalt
 
+Bez. Länge Typ
+
 Feldtabelle
+
+Regelnr.
 
 Regelnummer Regelinhalt
 

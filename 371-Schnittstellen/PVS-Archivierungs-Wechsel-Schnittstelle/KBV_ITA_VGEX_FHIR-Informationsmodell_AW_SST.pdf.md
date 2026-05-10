@@ -34,23 +34,53 @@ Begegnung ::**Befund(Observation )**
 
 -Patient
 
-|  | Sonstige::**Abrechnung _BG(Claim)Claim)** |  |
-|---|---|---|
-| Begegnung ::**Abrechnung _vorläufig(Claim)** |  | Sonstige::**Abrechnung _Vertragsaerztlich (Claim)** |
-| -Patient |  |  |
-|  |  | -Patient |
+Sonstige::**Abrechnung _HzV_BesondereVersorgung _Selektiv(**
 
 Begegnung ::**Notfall(ServiceRequest )**
 
+Sonstige::**Abrechnung _BG(Claim)**
+
+**Claim)**
+
 Begegnung ::**Ueberweisung _KH-Einweisung (ServiceRequest )**
+
+Begegnung ::**Abrechnung _vorläufig(Claim)**
 
 Sonstige::**Leistungsgenehmigung _Heilmittel(Eligibilityresponse )**
 
--BehandelnderFunktion -Behandelnder -Betriebsstaette
+Sonstige::**Abrechnung _Vertragsaerztlich (Claim)**
+
+Sonstige::**Abrechnung _Privat(Claim)**
+
+-BehandelnderFunktion
+
+-Organisation
+
+-Organisation
+
+-Patient
+
+-Weiterbehandlung _durch
+
+-Behandelnder
+
+-Betriebsstaette
+
+-Betriebsstaette
+
+-Betriebsstaette
+
+-Organisation
+
+-Patient
 
 Sonstige::**Leistungsgenehmigung _Psychotherapie (Eligibilityresponse )**
 
 -Betriebsstaette
+
+-Weiterbehandlung _durch
+
+-Patient
 
 -Organisation
 
@@ -142,12 +172,15 @@ Begegnung ::**Verordnung Hilfsmittel (ServiceRequest )**
 
 Sonstige::**Krankenversicherungsverhaeltnis (Coverage)**
 
-|  | -Organisation |  |
-|---|---|---|
-| Begegnung ::**Ambulante _Operation(Procedure )** |  | Sonstige::**Bezugsperson (RelatedPerson )** |
-| -Patient |  |  |
+-Organisation
+
+Sonstige::**Bezugsperson (RelatedPerson )**
+
+Begegnung ::**Ambulante _Operation(Procedure )**
 
 Begegnung ::**Verordnung Arbeitsunfähigkeit (ServiceRequest )**
+
+-Patient
 
 -Patient
 
@@ -419,4 +452,4 @@ Sonstige::**Personen(Person)**
 
 Sonstige::**Organisation (Organization )**
 
-Abrechnung _HzV_BesondereVersorgung _Selektiv( Abrechnung _Privat(Claim) -Organisation -Organisation -Weiterbehandlung _durch -Betriebsstaette -Betriebsstaette -Organisation -Weiterbehandlung _durch Koerpergewicht (KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur , Hueftumfang ,Bauchumfang ,Raucherstatus ,Puls,# Adressbuch
+Koerpergewicht (KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur , Hueftumfang ,Bauchumfang ,Raucherstatus ,Puls,# Adressbuch

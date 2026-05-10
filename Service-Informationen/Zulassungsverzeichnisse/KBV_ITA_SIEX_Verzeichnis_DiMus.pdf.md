@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**02. MAI 2026**
+**09. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 02. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
 
 Y/80/2407/24/062
 
@@ -373,7 +373,7 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 |---|---|---|---|---|
 |  | Y/80/2409/24/400 | 31.08.2026 | eAU |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 02. Mai 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
 
 Y/80/2603/24/749
 
@@ -509,7 +509,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 02. Mai 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
 
 Y/80/2408/24/266
 
@@ -817,7 +817,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 02. Mai 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 09. Mai 2026
 
 Y/80/2407/24/313
 

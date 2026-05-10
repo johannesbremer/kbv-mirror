@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.98
 
@@ -31,6 +30,8 @@
 
 2.44
 
+**Praxissoftware**
+
 **Elefant**
 
 **psyprax**
@@ -54,6 +55,8 @@
 **Med7**
 
 **QUINCY WIN**
+
+**Anbieter**
 
 HASOMED GmbH
 
@@ -79,6 +82,8 @@ Bitron GmbH Technologiesysteme
 
 Frey ADV GmbH 1
 
+**Installationen 2.Q.2025**
+
 1.0.652
 
 1.0.283
@@ -103,6 +108,8 @@ Frey ADV GmbH 1
 
 8.7
 
+**Installationen 1.Q.2025**
+
 1.0.667
 
 1.0.339
@@ -126,6 +133,8 @@ Frey ADV GmbH 1
 1.00
 
 8.5
+
+**Differenz**
 
 -15
 
@@ -154,8 +163,7 @@ Frey ADV GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 1.12
 
@@ -173,6 +181,8 @@ Frey ADV GmbH 1
 
 0.15
 
+**Praxissoftware**
+
 **TURBOMED**
 
 **Medical Office**
@@ -188,6 +198,8 @@ Frey ADV GmbH 1
 **CGM M1 PRO**
 
 **MEDYS**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -205,6 +217,8 @@ CompuGroup Medical Deutschland AG
 
 MEDYS GmbH 2
 
+**Installationen 2.Q.2025**
+
 7.4
 
 6.2
@@ -221,6 +235,8 @@ MEDYS GmbH 2
 
 2.4
 
+**Installationen 1.Q.2025**
+
 7.7
 
 5.6
@@ -236,6 +252,8 @@ MEDYS GmbH 2
 2.5
 
 2.7
+
+**Differenz**
 
 -3
 

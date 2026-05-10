@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 1.12
 
@@ -31,6 +30,8 @@
 
 2.52
 
+**Praxissoftware**
+
 **TURBOMED**
 
 **CGM MEDISTAR BLACK PRO**
@@ -54,6 +55,8 @@
 **tomedo**
 
 **CGM M1 PRO**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -79,6 +82,8 @@ Zollsoft GmbH
 
 CompuGroup Medical Deutschland AG 1
 
+**Installationen 2.Q.2025**
+
 1.991
 
 1.951
@@ -103,6 +108,8 @@ CompuGroup Medical Deutschland AG 1
 
 7.02
 
+**Installationen 1.Q.2025**
+
 2.060
 
 1.942
@@ -126,6 +133,8 @@ CompuGroup Medical Deutschland AG 1
 7.48
 
 7.22
+
+**Differenz**
 
 -69
 
@@ -154,8 +163,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 0.86
 
@@ -173,6 +181,8 @@ CompuGroup Medical Deutschland AG 1
 
 0.62
 
+**Praxissoftware**
+
 **DURIA**
 
 **EL - Elaphe Longissim**
@@ -188,6 +198,8 @@ CompuGroup Medical Deutschland AG 1
 **Praxis-Programm**
 
 **EVA**
+
+**Anbieter**
 
 Duria eG
 
@@ -207,6 +219,8 @@ MediSoftware Computersysteme für Ärzte
 
 Abasoft EDV-Programme GmbH 2
 
+**Installationen 2.Q.2025**
+
 6.13
 
 5.06
@@ -223,6 +237,8 @@ Abasoft EDV-Programme GmbH 2
 
 1.68
 
+**Installationen 1.Q.2025**
+
 6.08
 
 5.17
@@ -238,6 +254,8 @@ Abasoft EDV-Programme GmbH 2
 2.03
 
 1.68
+
+**Differenz**
 
 5
 
@@ -262,10 +280,9 @@ Abasoft EDV-Programme GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.99 **SMARTY**
 
@@ -293,6 +310,8 @@ Abasoft EDV-Programme GmbH 2
 
 2.03 **ALBIS**
 
+**Anbieter**
+
 New Media Company GmbH & Co. KG
 
 Dedalus HealthCare GmbH
@@ -318,6 +337,8 @@ CGM Clinical Europe GmbH
 Frey ADV GmbH
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 2.21
 
@@ -345,6 +366,8 @@ CompuGroup Medical Deutschland AG 1
 
 5.0
 
+**Installationen 1.Q.2025**
+
 2.22
 
 1.54
@@ -370,6 +393,8 @@ CompuGroup Medical Deutschland AG 1
 5.7
 
 5.3
+
+**Differenz**
 
 -1
 
@@ -470,9 +495,6 @@ PRO MEDISOFT AG 2
 
 -3
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -480,10 +502,9 @@ PRO MEDISOFT AG 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -511,6 +532,8 @@ PRO MEDISOFT AG 2
 
 2.03 **ALBIS**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 FIDUS Software Entwicklungs-GmbH
@@ -536,6 +559,8 @@ SAP SE
 medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 5.25
 
@@ -563,6 +588,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.6
 
+**Installationen 1.Q.2025**
+
 5.31
 
 5.12
@@ -588,6 +615,8 @@ CompuGroup Medical Deutschland AG 1
 2.7
 
 2.6
+
+**Differenz**
 
 -6
 
@@ -690,9 +719,6 @@ medatixx GmbH & Co. KG 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -700,10 +726,9 @@ medatixx GmbH & Co. KG 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.54 **ORBIS®**
 
@@ -731,6 +756,8 @@ medatixx GmbH & Co. KG 2
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 Dedalus HealthCare GmbH
 
 CompuGroup Medical Deutschland AG
@@ -756,6 +783,8 @@ medatixx GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 5.92
 
@@ -783,6 +812,8 @@ CompuGroup Medical Deutschland AG 1
 
 9.0
 
+**Installationen 1.Q.2025**
+
 5.81
 
 2.82
@@ -808,6 +839,8 @@ CompuGroup Medical Deutschland AG 1
 1.03
 
 9.0
+
+**Differenz**
 
 1.1
 
@@ -908,9 +941,6 @@ medatixx GmbH & Co. KG 2
 
 -2
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -918,10 +948,9 @@ medatixx GmbH & Co. KG 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -949,6 +978,8 @@ medatixx GmbH & Co. KG 2
 
 2.44 **QUINCY WIN**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG
@@ -974,6 +1005,8 @@ T2med GmbH & Co. KG
 CGM Clinical Europe GmbH
 
 Frey ADV GmbH 1
+
+**Installationen 2.Q.2025**
 
 1.706
 
@@ -1001,6 +1034,8 @@ Frey ADV GmbH 1
 
 1.60
 
+**Installationen 1.Q.2025**
+
 1.740
 
 7.86
@@ -1026,6 +1061,8 @@ Frey ADV GmbH 1
 1.87
 
 1.62
+
+**Differenz**
 
 -34
 
@@ -1126,9 +1163,6 @@ MEDYS GmbH 2
 
 -4
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -1136,10 +1170,9 @@ MEDYS GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -1167,6 +1200,8 @@ MEDYS GmbH 2
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -1192,6 +1227,8 @@ Duria eG
 S3 Praxiscomputer GmbH / Maximilian Flender
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 4.65
 
@@ -1219,6 +1256,8 @@ CompuGroup Medical Deutschland AG 1
 
 6.6
 
+**Installationen 1.Q.2025**
+
 4.54
 
 2.80
@@ -1244,6 +1283,8 @@ CompuGroup Medical Deutschland AG 1
 8.6
 
 6.7
+
+**Differenz**
 
 1.1
 
@@ -1344,9 +1385,6 @@ PEGA Elektronik GmbH 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -1354,10 +1392,9 @@ PEGA Elektronik GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -1385,6 +1422,8 @@ PEGA Elektronik GmbH 2
 
 1.35 **EL - Elaphe Longissima**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 Zollsoft GmbH
@@ -1410,6 +1449,8 @@ Frey ADV GmbH
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 3.93
 
@@ -1437,6 +1478,8 @@ medatixx GmbH & Co. KG 1
 
 5.6
 
+**Installationen 1.Q.2025**
+
 3.98
 
 2.45
@@ -1462,6 +1505,8 @@ medatixx GmbH & Co. KG 1
 7.3
 
 5.8
+
+**Differenz**
 
 -5
 
@@ -1562,9 +1607,6 @@ MediSoftware Computersysteme für Ärzte 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -1572,10 +1614,9 @@ MediSoftware Computersysteme für Ärzte 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -1603,6 +1644,8 @@ MediSoftware Computersysteme für Ärzte 2
 
 2.66 **x.comfort**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -1628,6 +1671,8 @@ Zollsoft GmbH
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 1.595
 
@@ -1655,6 +1700,8 @@ medatixx GmbH & Co. KG 1
 
 4.00
 
+**Installationen 1.Q.2025**
+
 1.606
 
 1.431
@@ -1680,6 +1727,8 @@ medatixx GmbH & Co. KG 1
 4.73
 
 4.18
+
+**Differenz**
 
 -11
 
@@ -1780,9 +1829,6 @@ PEGA Elektronik GmbH 2
 
 -3
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -1790,10 +1836,9 @@ PEGA Elektronik GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.95
 
@@ -1819,6 +1864,8 @@ PEGA Elektronik GmbH 2
 
 2.80
 
+**Praxissoftware**
+
 **Epikur**
 
 **TURBOMED**
@@ -1842,6 +1889,8 @@ PEGA Elektronik GmbH 2
 **Medical Office**
 
 **CGM MEDISTAR BLACK PRO**
+
+**Anbieter**
 
 Epikur Software GmbH & Co. KG
 
@@ -1867,6 +1916,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 CompuGroup Medical Deutschland AG 1
 
+**Installationen 2.Q.2025**
+
 1.14
 
 9.1
@@ -1891,6 +1942,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.7
 
+**Installationen 1.Q.2025**
+
 1.13
 
 9.4
@@ -1914,6 +1967,8 @@ CompuGroup Medical Deutschland AG 1
 2.9
 
 2.8
+
+**Differenz**
 
 1
 
@@ -2040,9 +2095,6 @@ Data-AL GmbH 2.7
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -2050,10 +2102,9 @@ Data-AL GmbH 2.7
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -2081,6 +2132,8 @@ Data-AL GmbH 2.7
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
@@ -2106,6 +2159,8 @@ SAP SE
 Frey ADV GmbH
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 7.04
 
@@ -2133,6 +2188,8 @@ CompuGroup Medical Deutschland AG 1
 
 1.27
 
+**Installationen 1.Q.2025**
+
 7.21
 
 5.71
@@ -2158,6 +2215,8 @@ CompuGroup Medical Deutschland AG 1
 1.41
 
 1.27
+
+**Differenz**
 
 -17
 
@@ -2258,9 +2317,6 @@ PEGA Elektronik GmbH 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -2268,10 +2324,9 @@ PEGA Elektronik GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 7.06 **MOLIS**
 
@@ -2299,6 +2354,8 @@ PEGA Elektronik GmbH 2
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
+**Anbieter**
+
 CGM LAB International GmbH
 
 Medat Computersysteme GmbH
@@ -2324,6 +2381,8 @@ NEXUS SWISSLAB GmbH
 Limbach Gruppe SE
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 2.8
 
@@ -2351,6 +2410,8 @@ CompuGroup Medical Deutschland AG 1
 
 6
 
+**Installationen 1.Q.2025**
+
 3.1
 
 1.7
@@ -2376,6 +2437,8 @@ CompuGroup Medical Deutschland AG 1
 7
 
 8
+
+**Differenz**
 
 -3
 
@@ -2476,9 +2539,6 @@ Doc Cirrus GmbH 5
 
 1
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -2486,10 +2546,9 @@ Doc Cirrus GmbH 5
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.80
 
@@ -2515,6 +2574,8 @@ Doc Cirrus GmbH 5
 
 2.10
 
+**Praxissoftware**
+
 **CGM MEDISTAR BLACK PRO**
 
 **TURBOMED**
@@ -2538,6 +2599,8 @@ Doc Cirrus GmbH 5
 **medatixx**
 
 **Medical Office**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -2563,34 +2626,38 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 
-7
-
-5
-
-4
-
-4
-
-3
-
-3
-
-2
-
-2
-
-2
-
-1
-
-1
-
-1
+**Installationen 2.Q.2025**
 
 7
 
 5
 
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+**Installationen 1.Q.2025**
+
+7
+
+5
+
 3
 
 4
@@ -2610,6 +2677,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 1
 1
 
 1
+
+**Differenz**
 
 0
 
@@ -2686,9 +2755,6 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -2696,10 +2762,9 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 4.21
 
@@ -2725,6 +2790,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 4.22
 
+**Praxissoftware**
+
 **EVIDENT**
 
 **DS-WIN-PLUS (DS-WIN-MED)**
@@ -2749,6 +2816,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **ClinicCentre Billing (OPD)**
 
+**Anbieter**
+
 EVIDENT GmbH
 
 DAMPSOFT GmbH
@@ -2771,7 +2840,11 @@ Dedalus HealthCare GmbH
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Mesalvo Mannheim GmbH 7.12
+Mesalvo Mannheim GmbH
+
+**Installationen 2.Q.2025**
+
+7.12
 
 8.9
 
@@ -2797,6 +2870,8 @@ Mesalvo Mannheim GmbH 7.12
 
 1
 
+**Installationen 1.Q.2025**
+
 7.10
 
 8.4
@@ -2820,6 +2895,8 @@ Mesalvo Mannheim GmbH 7.12
 3
 
 1
+
+**Differenz**
 
 2
 
@@ -2944,9 +3021,6 @@ MediSoftware Computersysteme für Ärzte 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -2954,10 +3028,9 @@ MediSoftware Computersysteme für Ärzte 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 1.12
 
@@ -2983,6 +3056,8 @@ MediSoftware Computersysteme für Ärzte 2
 
 2.98
 
+**Praxissoftware**
+
 **TURBOMED**
 
 **x.isynet**
@@ -3006,6 +3081,8 @@ MediSoftware Computersysteme für Ärzte 2
 **T2med**
 
 **Elefant**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -3031,6 +3108,8 @@ T2med GmbH & Co. KG
 
 HASOMED GmbH 1
 
+**Installationen 2.Q.2025**
+
 3.97
 
 3.57
@@ -3055,6 +3134,8 @@ HASOMED GmbH 1
 
 1.45
 
+**Installationen 1.Q.2025**
+
 3.99
 
 3.62
@@ -3078,6 +3159,8 @@ HASOMED GmbH 1
 1.58
 
 1.47
+
+**Differenz**
 
 -2
 
@@ -3204,9 +3287,6 @@ Duria eG 2
 
 -1
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -3214,10 +3294,9 @@ Duria eG 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -3245,6 +3324,8 @@ Duria eG 2
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -3270,6 +3351,8 @@ T2med GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 6.4
 
@@ -3297,6 +3380,8 @@ CompuGroup Medical Deutschland AG 1
 
 1.4
 
+**Installationen 1.Q.2025**
+
 6.5
 
 5.9
@@ -3322,6 +3407,8 @@ CompuGroup Medical Deutschland AG 1
 1.5
 
 1.3
+
+**Differenz**
 
 -1
 
@@ -3422,9 +3509,6 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -3432,10 +3516,9 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.56 **medavis RIS**
 
@@ -3463,6 +3546,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 0.62 **EVA**
 
+**Anbieter**
+
 medavis GmbH
 
 CompuGroup Medical Deutschland AG
@@ -3488,6 +3573,8 @@ SAP SE
 Mesalvo Mannheim GmbH
 
 Abasoft EDV-Programme GmbH 1
+
+**Installationen 2.Q.2025**
 
 2.9
 
@@ -3515,6 +3602,8 @@ Abasoft EDV-Programme GmbH 1
 
 5
 
+**Installationen 1.Q.2025**
+
 3.0
 
 2.1
@@ -3540,6 +3629,8 @@ Abasoft EDV-Programme GmbH 1
 6
 
 5
+
+**Differenz**
 
 -1
 
@@ -3640,9 +3731,6 @@ H 3
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -3650,10 +3738,9 @@ H 3
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -3681,6 +3768,8 @@ H 3
 
 4.98 **T2med**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -3706,6 +3795,8 @@ CGM Clinical Europe GmbH
 SAP SE
 
 T2med GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 9.19
 
@@ -3733,6 +3824,8 @@ T2med GmbH & Co. KG 1
 
 1.08
 
+**Installationen 1.Q.2025**
+
 9.32
 
 4.18
@@ -3758,6 +3851,8 @@ T2med GmbH & Co. KG 1
 1.17
 
 1.08
+
+**Differenz**
 
 -13
 
@@ -3858,9 +3953,6 @@ Doc Cirrus GmbH 2
 
 -2
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -3868,8 +3960,7 @@ Doc Cirrus GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 3.45 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
@@ -3901,6 +3992,8 @@ Doc Cirrus GmbH 2
 
 5.61 **EISHISTO**
 
+**Anbieter**
+
 NEXUS / DIGITAL PATHOLOGY GmbH
 
 NEXUS / DIGITAL PATHOLOGY GmbH
@@ -3930,6 +4023,8 @@ SAP SE
 NEXUS SWISSLAB GmbH
 
 EI Systems, Andreas Eicker 1
+
+**Installationen 2.Q.2025**
 
 7.1
 
@@ -3961,6 +4056,8 @@ EI Systems, Andreas Eicker 1
 
 2
 
+**Installationen 1.Q.2025**
+
 6.9
 
 6.5
@@ -3990,6 +4087,8 @@ EI Systems, Andreas Eicker 1
 2
 
 2
+
+**Differenz**
 
 2
 
@@ -4074,9 +4173,6 @@ Bitron GmbH Technologiesysteme 2
 
 -1
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -4084,8 +4180,7 @@ Bitron GmbH Technologiesysteme 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 30.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.20.25** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 1.12 **TURBOMED**
 
@@ -4114,6 +4209,8 @@ Bitron GmbH Technologiesysteme 2
 0.60 **Data-AL**
 
 1.35 **EL - Elaphe Longissima**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -4145,6 +4242,8 @@ medatixx GmbH & Co. KG 1
 
 **Fachgruppe mit den höchsten Installationszahlen.**
 
+**Installationen 2.Q.2025**
+
 2.05
 
 1.85
@@ -4173,6 +4272,8 @@ medatixx GmbH & Co. KG 1
 
 4.2
 
+**Installationen 1.Q.2**
+
 2.20
 
 1.94
@@ -4200,6 +4301,8 @@ medatixx GmbH & Co. KG 1
 5.3
 
 4.2
+
+**0.25 Differenz**
 
 -15
 
@@ -4292,9 +4395,6 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 0
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -4302,10 +4402,9 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.98
 
@@ -4331,6 +4430,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 2.44
 
+**Praxissoftware**
+
 **Elefant**
 
 **psyprax**
@@ -4354,6 +4455,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 **Med7**
 
 **QUINCY WIN**
+
+**Anbieter**
 
 HASOMED GmbH
 
@@ -4379,6 +4482,8 @@ Bitron GmbH Technologiesysteme
 
 Frey ADV GmbH 1
 
+**Installationen 2.Q.2025**
+
 1.0.652
 
 1.0.283
@@ -4403,6 +4508,8 @@ Frey ADV GmbH 1
 
 8.7
 
+**Installationen 1.Q.2025**
+
 1.0.667
 
 1.0.339
@@ -4426,6 +4533,8 @@ Frey ADV GmbH 1
 1.00
 
 8.5
+
+**Differenz**
 
 -15
 
@@ -4550,9 +4659,6 @@ MEDYS GmbH 2
 
 -3
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -4560,8 +4666,7 @@ MEDYS GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.56 **medavis RIS**
 
@@ -4593,6 +4698,8 @@ MEDYS GmbH 2
 
 4.87 **NEXUS RIS**
 
+**Anbieter**
+
 medavis GmbH
 
 Dedalus HealthCare GmbH
@@ -4622,6 +4729,8 @@ KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 CompuGroup Medical Deutschland AG
 
 NEXUS / CHILI GmbH 1
+
+**Installationen 2.Q.2025**
 
 2.16
 
@@ -4653,6 +4762,8 @@ NEXUS / CHILI GmbH 1
 
 2.4
 
+**Installationen 1.Q.2025**
+
 2.08
 
 1.86
@@ -4682,6 +4793,8 @@ NEXUS / CHILI GmbH 1
 2.8
 
 2.5
+
+**Differenz**
 
 8
 
@@ -4766,9 +4879,6 @@ Abasoft EDV-Programme GmbH 2
 
 -1
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -4776,8 +4886,7 @@ Abasoft EDV-Programme GmbH 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.10 **Medical Office**
 
@@ -4807,6 +4916,8 @@ Abasoft EDV-Programme GmbH 2
 
 3.08 **RescuePro**
 
+**Anbieter**
+
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Dedalus HealthCare GmbH
@@ -4834,6 +4945,8 @@ Duria eG
 KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
 RescuePro Production GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 6.90
 
@@ -4863,6 +4976,8 @@ RescuePro Production GmbH & Co. KG 1
 
 9.0
 
+**Installationen 1.Q.2025**
+
 6.64
 
 6.42
@@ -4890,6 +5005,8 @@ RescuePro Production GmbH & Co. KG 1
 9.4
 
 8.5
+
+**Differenz**
 
 2.6
 
@@ -4982,9 +5099,6 @@ CompuGroup Medical Deutschland AG 2
 
 1
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
-
 
 ---
 
@@ -4992,10 +5106,9 @@ CompuGroup Medical Deutschland AG 2
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -5023,6 +5136,8 @@ CompuGroup Medical Deutschland AG 2
 
 2.26 **CGM MEDICO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -5048,6 +5163,8 @@ T2med GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CGM Clinical Europe GmbH 1
+
+**Installationen 2.Q.2025**
 
 2.77
 
@@ -5075,6 +5192,8 @@ CGM Clinical Europe GmbH 1
 
 4.5
 
+**Installationen 1.Q.2025**
+
 2.94
 
 1.79
@@ -5100,6 +5219,8 @@ CGM Clinical Europe GmbH 1
 6.9
 
 4.3
+
+**Differenz**
 
 -17
 
@@ -5199,6 +5320,3 @@ MEDYS GmbH 2
 0
 
 -1
-
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|

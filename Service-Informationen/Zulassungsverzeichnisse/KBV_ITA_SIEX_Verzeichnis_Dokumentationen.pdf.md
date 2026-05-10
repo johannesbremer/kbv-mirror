@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**02. MAI 2026**
+**09. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
@@ -164,7 +164,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
 
 Y/53/2501/36/034
 
@@ -273,7 +273,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
 
 |  |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|
@@ -390,7 +390,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 02. Mai 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 09. Mai 2026
 
 Y/53/2501/36/313
 

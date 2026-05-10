@@ -342,12 +342,17 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..*
 
-|  | -enthält |  |  |
-|---|---|---|---|
-| **Te rmin** |  | **Patie** | **nt** |
-|  | 0..*0..* |  |  |
+-enthält
+
+**Te** **rmin**
+
+**Patie** **nt**
 
 -findet statt
+
+0..*
+
+0..*
 
 1
 
@@ -473,7 +478,7 @@ Begegnung ::**Behandlung_im_Auf** **trag_Überweisung (ServiceRequest )**
 
 |  | -Medikament |  |
 |---|---|---|
-| Begegnung ::**Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,PulsBlutdruck (Obse rva tion)**-Patient | **), Koerpertemperatur,,** | Begegnung ::**Dia gnose(Condition)**-Patient |
+| Begegnung ::**Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisHueftumfang,Bauchumfang,Raucherstatus,Puls**-Patient**Blutdruck (Obse rva tion)** | **), Koerpertemperatur,,** | Begegnung ::**Dia gnose(Condition)**-Patient |
 
 -Patient
 
@@ -499,10 +504,7 @@ Begegnung ::**Ueberweisung_KH-Einweisung (ServiceRequest )**
 
 Begegnung ::**Abrechnung_vorläufig (Claim )**
 
-Sonstige ::**Abrechnung_Privat (Claim )** -Organisation-Organisation
-
-| -Weiterbehandlung-Patient | _durch | Sonstige | ::**Leis tungsge ne hmigungibilityresponse )_Psychothe ra pie(Elig** |  |
-|---|---|---|---|---|
+Sonstige ::**Abrechnung_Privat (Claim )** -Organisation-Organisation -Weiterbehandlung _durch
 
 Sonstige ::**Abrechnung_Vertragsaerztlich (Claim )**
 
@@ -512,7 +514,9 @@ Sonstige ::**Leis** **tungsge** **ne** **hmigung_Heilmittel (Elig** **ibilityres
 
 -Betriebsstaette -Organisation
 
--Organisation -Patient -Betriebsstaette -Patient -Betriebsstaette -Weiterbehandlung _durch -Patient
+-Organisation -Patient -Betriebsstaette -Patient -Betriebsstaette -Weiterbehandlung _durch -Patient -Patient
+
+Sonstige ::**Leis** **tungsge** **ne** **hmigung_Psychothe** **ra** **pie(Elig** **ibilityresponse )**
 
 -Patient -Behandelnder -Diagnos e -Medikament -Patient
 
@@ -840,7 +844,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
--Weiterbehandlung _durch Sonstige :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
+Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
 
 ---
 

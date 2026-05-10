@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.95
 
@@ -31,6 +30,8 @@
 
 2.80
 
+**Praxissoftware**
+
 **Epikur**
 
 **TURBOMED**
@@ -54,6 +55,8 @@
 **Medical Office**
 
 **CGM MEDISTAR BLACK PRO**
+
+**Anbieter**
 
 Epikur Software GmbH & Co. KG
 
@@ -79,6 +82,8 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 CompuGroup Medical Deutschland AG 1
 
+**Installationen 2.Q.2025**
+
 1.14
 
 9.1
@@ -103,6 +108,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.7
 
+**Installationen 1.Q.2025**
+
 1.13
 
 9.4
@@ -126,6 +133,8 @@ CompuGroup Medical Deutschland AG 1
 2.9
 
 2.8
+
+**Differenz**
 
 1
 
@@ -154,8 +163,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 2.44
 
@@ -173,6 +181,8 @@ CompuGroup Medical Deutschland AG 1
 
 0.60
 
+**Praxissoftware**
+
 **QUINCY WIN**
 
 **EL - Elaphe Longissim**
@@ -188,6 +198,8 @@ CompuGroup Medical Deutschland AG 1
 **PROFIMED**
 
 **Data-AL**
+
+**Anbieter**
 
 Frey ADV GmbH
 
@@ -205,7 +217,11 @@ medatixx GmbH & Co. KG
 
 PRO MEDISOFT AG
 
-Data-AL GmbH 2.7
+Data-AL GmbH
+
+**Installationen 2.Q.2025**
+
+2.7
 
 1.4
 
@@ -223,6 +239,8 @@ Data-AL GmbH 2.7
 
 2
 
+**Installationen 1.Q.2025**
+
 2.8
 
 1.4
@@ -238,6 +256,8 @@ Data-AL GmbH 2.7
 9
 
 8
+
+**Differenz**
 
 -1
 

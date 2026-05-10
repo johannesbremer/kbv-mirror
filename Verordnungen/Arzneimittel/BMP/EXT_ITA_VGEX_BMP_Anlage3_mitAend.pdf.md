@@ -417,25 +417,6 @@ vom/von der Anwender*in definierte Überschriften dauerhaft als Textbaustein fü
 
 abzuspeichern.
 
-| den/die | Anwender*in |  |
-|---|---|---|
-|  | Medikationsplans |  |
-|  | hinweisen, |  |
-|  | der Patienten- |  |
-|  | PZN-basierte |  |
-|  | Inhalten | der |
-|  | dieses |  |
-|  | muss dem/der |  |
-|  | die folgenden |  |
-|  | Medikations- |  |
-|  | als auch | die |
-|  | abgeleitet wurden, |  |
-|  | Anpassungen nicht |  |
-|  | über | die |
-|  | Medikationsplans | die |
-|  | ermöglichen. | Für |
-| dem/der | Anwender*in |  |
-
 
 ---
 
@@ -779,9 +760,6 @@ darzustellen. Durch entsprechende Auswahl-möglichkeiten ist dem/der Anwender*in
 Möglichkeit zur Ablehnung, Übernahme oder Abänderung der festgestellten
 
 Unterschiede zu geben.
-
-| Der/die | Patient*in |  | hat bereits einen Medikationsplan und legt diesen beim/bei | der |
-|---|---|---|---|---|
 
 
 ---
@@ -2736,8 +2714,7 @@ In der folgenden Tabelle sind die Datenfelder für die Verwendung im 2D-Barcode 
 
 Seitenzahl MP.a 1.2
 
-| 1.3 | Gesamtseitenzahl | MP.z |  | Entsprechend |  |
-|---|---|---|---|---|---|
+1.3 Gesamtseitenzahl
 
 2.1 Vorname (des  Patienten/der  Patient*in)
 
@@ -2749,6 +2726,8 @@ Titel MP.P.t 2.22
 
 Namenszusatz MP.P.z 2.24
 
+MP.z
+
 MP.P.g
 
 MP.P.f
@@ -2757,23 +2736,21 @@ Die Instanz-ID ist eine GUID  (Global Unique Identifier), die  bei jeder Erstell
 
 Aktuelle Seite, mit 1 startend;  muss bei mehrseitigen  Plänen auf jeder Seite im  Carrier verwendet werden;  bei einseitigem Plan muss es  weggelassen werden.
 
+Gesamtseitenzahl; nur bei  mehrseitigen Plänen zu  verwenden; bei einseitigem  Plan muss es weggelassen  werden
+
 Vorname des Patienten/der  Patient*in, entsprechend der  eGK-Spezifikation (VSD)
 
-Nachname des Patienten/der
+Nachname des Patienten/der  Patient*in, entsprechend der  eGK-Spezifikation (VSD)
 
-| (des/der |  | Patient*in, |
-|---|---|---|
-|  |  | eGK-Spezifikation |
-|  |  | Titel des |
-|  |  | Patient*in, |
-
-eGK-Spezifikation (VSD)
+Titel des Patienten/der  Patient*in, entsprechend der  eGK-Spezifikation (VSD)
 
 Vorsatzwort zum Namen des  Patienten/der Patient*in,  entsprechend der eGK- Spezifikation (VSD)
 
 Namenszusatz zum Namen  des Patienten/der Patient*in,  entsprechend der eGK- Spezifikation (VSD)
 
 Keine Entsprechung
+
+Entsprechend
 
 Entsprechend
 
@@ -2791,7 +2768,7 @@ Ggf. im Ausdruck  gekürzt
 
 Entsprechend dem  Ausdruck, wenn  ausreichend Platz
 
-Identität zu Ausdruck 1.3 Gesamtseitenzahl Gesamtseitenzahl; nur bei mehrseitigen Plänen zu verwenden; bei einseitigem Plan muss es weggelassen werden Patient*in, entsprechend der eGK-Spezifikation (VSD) Titel des Patienten/der Patient*in, entsprechend der Ggf. im Ausdruck  gekürzt
+Identität zu Ausdruck Ggf. im Ausdruck  gekürzt
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -2799,9 +2776,6 @@ Identität zu Ausdruck 1.3 Gesamtseitenzahl Gesamtseitenzahl; nur bei mehrseitig
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **code** | **Datenfeld** | **Attribut** |  |  |
 |---|---|---|---|---|
@@ -2821,16 +2795,15 @@ Identität zu Ausdruck 1.3 Gesamtseitenzahl Gesamtseitenzahl; nur bei mehrseitig
 |  |  |  |  | gekürzt |
 | 6.10 | Lebenslange | MP.A.lanr | 9-stellige lebenslange | Keine Entsprechung |
 
-|  | Arztnummer |  | Arztnummer (LANR). |  |
-|---|---|---|---|---|
-|  |  |  | Optional, wenn zutreffend. |  |
-|  |  |  | Entweder lanr, idf oder kik |  |
-|  |  |  | darf angegeben werden. |  |
-| 6.11 | Apotheken-IDF | MP.A.idf | 7-stellige | Keine Entsprechung |
+6.11
 
 6.13 Krankenhaus-
 
 Geschlecht (des  Patienten/der  Patient*in)
+
+Arztnummer
+
+Apotheken-IDF MP.A.idf 7-stellige
 
 Institutions- kennzeichen
 
@@ -2842,6 +2815,8 @@ lebenslange  Identifikationsnummer des  Patienten/der Patient*in,  entsprechend 
 
 Geschlecht des Patienten/der  Patient*in  - M oder  - W oder  - D oder  - X   Wenn nicht angegeben,  muss das Attribut  weggelassen werden.
 
+Arztnummer (LANR).  Optional, wenn zutreffend.  Entweder lanr, idf oder kik  darf angegeben werden.
+
 Apothekenidentifikationsnum merApothekenidentifikations- nummer.  Optional, wenn zutreffend.  Entweder lanr, idf oder kik  darf angegeben werden.
 
 Krankenhausinstitutskennzei chenKrankenhausinstitutsken n-zeichen.  Optional, wenn zutreffend.  Entweder lanr, idf oder kik  darf angegeben werden.
@@ -2850,7 +2825,9 @@ Entsprechend
 
 Im Druck mit  - „Geschl.: m“ oder  - „Geschl.: w“ oder  - „Geschl.: divers“  oder  - „Geschl.:  unbestimmt“   (Kap. A.2.3)
 
-2.3 Patienten-ID MP.P.egk 2.4 Geburtsdatum MP.P.b Geburtsdatum des Inhalt identisch, 2.5 AusdruckenderAu MP.A.n Name der aktuell MP.A.lanr 9-stellige lebenslange Entsprechend Apotheken-IDF MP.A.idf 7-stellige Keine Entsprechung
+Keine Entsprechung
+
+Feld- 2.3 Patienten-ID MP.P.egk Bezeichnung Datenfeld. Beschreibung Identität zu Ausdruck 2.4 Geburtsdatum MP.P.b Geburtsdatum des Inhalt identisch, 2.5 AusdruckenderAu MP.A.n Name der aktuell MP.A.lanr 9-stellige lebenslange Entsprechend Keine Entsprechung
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -2858,9 +2835,6 @@ Im Druck mit  - „Geschl.: m“ oder  - „Geschl.: w“ oder  - „Geschl.: di
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -2889,32 +2863,41 @@ Im Druck mit  - „Geschl.: m“ oder  - „Geschl.: w“ oder  - „Geschl.: di
 |  |  |  |  | gekürzt |
 | 2.11 | Datum und | MP.A.t | Datum und Uhrzeit an dem | Inhalt identisch, |
 
-| 2.12 | Erläuterung zum | Aus den im |  | Entsprechend |
-|---|---|---|---|---|
-|  | Parameterblock |  |  |  |
-|  |  |  |  | Ggf. im Ausdruck |
-|  |  |  |  | gekürzt |
-| 2.13 | Gewicht (des | MP.O.w | Gewicht des Patienten /der | Inhalt identisch, |
-|  | Patienten/der |  | Patient*in in kg. | Format angepasst. |
-|  | Patient*in) |  | Wenn nicht angegeben, |  |
-|  |  |  |  | Im Druck „Gew.: {} kg“ |
-|  |  |  | muss das Attribut |  |
-|  |  |  | weggelassen werden. |  |
+2.12 Erläuterung zum
+
+2.13 Gewicht (des
 
 |  | Uhrzeit des |  | derdes Medikationsplan | Format angepasst. |
 |---|---|---|---|---|
 |  | Ausdruckes |  | ausgedruckt wurde- | Sekunden werden |
 |  |  |  | Ausdrucks. | nicht ausgedruckt. |
 
+Parameterblock
+
+Patienten/der  Patient*in)
+
+Aus den im Folgenden (2.13–
+
+MP.O.w
+
 ausdruckenden  Person/Institution
 
-2.6 Straße MP.A.s Postleitzahl des Ortes der Ort der aktuell 2.9 Telefonnummer 2.10 E-Mail E-Mail-Adresse der aktuell ausdruckenden Person/Institution 2.12 Erläuterung zum 2.13 Gewicht (des  Aus den im Folgenden (2.13– 2.20) beschriebenen Attributen werden – soweit vorhanden – im Ausdruck 3 Textpassagen zu je 25 Zeichen erzeugt (vgl. Kap. 6.2.2) unter Verwendung der Schlüsselworte aus Tabelle  A 2.3 Schlüsselworte: (Code 264) Allergien und Unverträglichkeiten (Code 266) Status schwanger (Code 267) Status stillend (Code 261) Gewicht (Code 268) Größe (Code 262) Kreatinin (Code 263) Geschlecht (Feld 6.5, aus Feld MP.P) Ausdruck
+2.20) beschriebenen  Attributen werden – soweit  vorhanden – im Ausdruck 3  Textpassagen zu je 25  Zeichen erzeugt (vgl. Kap.  6.2.2) unter Verwendung der  Schlüsselworte aus Tabelle  A 2.3 Schlüsselworte:  (Code 264) Allergien und  Unverträglichkeiten  (Code 266) Status  schwanger  (Code 267) Status stillend  (Code 261) Gewicht  (Code 268) Größe  (Code 262) Kreatinin  (Code 263) Geschlecht (Feld  6.5, aus Feld MP.P)
+
+Gewicht des Patienten /der  Patient*in in kg.  Wenn nicht angegeben,  muss das Attribut  weggelassen werden.
+
+Ausdruck
+
+Entsprechend
+
+Ggf. im Ausdruck  gekürzt
+
+Inhalt identisch,  Format angepasst.
+
+2.6 Straße MP.A.s Postleitzahl des Ortes der Ort der aktuell 2.9 Telefonnummer 2.10 E-Mail E-Mail-Adresse der aktuell ausdruckenden Person/Institution Im Druck „Gew.: {} kg“
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -2928,24 +2911,23 @@ ausdruckenden  Person/Institution
 |  |  |  |  | cm“ |
 | 2.15 | Kreatininwert | MP.O.c | Kreatininwert des Patienten | Inhalt identisch, |
 
-|  | (desPatienten/der |  | /der Patient*in in mg/dl. | Format angepasst. |
-|---|---|---|---|---|
-|  | Patient*in) |  | Wenn nicht angegeben, |  |
-|  |  |  |  | Im Druck „Krea.: {} |
-|  |  |  | muss das Attribut |  |
-|  |  |  |  | mg/dl“ |
-|  |  |  | weggelassen werden. |  |
-| 2.16 | Allergien & | MP.O.ai | Allergie(n) & | Inhalt identisch, |
+2.16
 
 2.18 Stillend
 
 2.19 Schwanger
 
-Unverträglich- keiten (des  Patienten/der  Patient*in)
+(desPatienten/der  Patient*in)
+
+Allergien &  Unverträglich- keiten (des  Patienten/der  Patient*in)
 
 MP.O.b
 
 MP.O.p
+
+MP.O.ai Allergie(n) &
+
+/der Patient*in in mg/dl.  Wenn nicht angegeben,  muss das Attribut  weggelassen werden.
 
 Unverträglichkeiten des  Patienten/der Patient*in.  Wenn nicht angegeben,  muss das Attribut  weggelassen werden.
 
@@ -2955,6 +2937,10 @@ Information darüber, ob die  Patientin aktuell schwanger  ist. Wenn zutreffend 
 
 Format angepasst.
 
+Im Druck „Krea.: {}  mg/dl“
+
+Inhalt identisch,  Format angepasst.
+
 Im Druck „Allerg./Unv.:  {}“  Mehrere Allergien oder  Unverträglichkeiten  sollen durch ein  Komma ohne  Leerzeichen getrennt  werden
 
 Inhalt identisch,  Format angepasst.
@@ -2963,13 +2949,10 @@ Im Druck, falls  zutreffend, „stillend“  drucken.
 
 Inhalt identisch,  Format angepasst.
 
-2.14 Körpergröße (des 2.15 Kreatininwert MP.O.h Körpergröße desPatienten/der Patient*in in cm. Wenn nicht angegeben, muss das Attribut weggelassen werden. MP.O.ai Allergie(n) & Im Druck, falls  zutreffend,  „schwanger“ drucken.
+2.14 Körpergröße (des 2.15 Kreatininwert MP.O.h Körpergröße desPatienten/der Patient*in in cm. Wenn nicht angegeben, muss das Attribut weggelassen werden. Im Druck, falls  zutreffend,  „schwanger“ drucken.
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **code** | **Datenfeld** | **Attribut** |  |  |
 |---|---|---|---|---|
@@ -2997,7 +2980,7 @@ Keine Entsprechung
 
 Inhalt identisch,  Format angepasst.
 
-2.20 Parameter MP.O.x Freitext, um Parameter zu Absolut identisch zum  Ausdruck
+Feld- 2.20 Parameter Bezeichnung Datenfeld. Beschreibung MP.O.x Freitext, um Parameter zu Identität zu Ausdruck Absolut identisch zum  Ausdruck
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -3006,19 +2989,11 @@ Inhalt identisch,  Format angepasst.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
-
 | **code** | **Datenfeld** | **Attribut** |  |  |
 |---|---|---|---|---|
 | 4.3 | Wirkstärke | MP.S.M.W.s | Angabe der Wirkstärke und | Inhalt identisch, |
 
-| 4.4 | Darreichungsform | MP.S.M.f |  | Absolut identisch zum |
-|---|---|---|---|---|
-|  |  |  |  | Ausdruck |
-|  |  |  |  | (Anhang 3) |
-
-4.4
+4.4 Darreichungsform MP.S.M.f Bezeichnung einer 4.4
 
 4.5 Dosierschema
 
@@ -3027,6 +3002,14 @@ Darreichungsform  Freitext
 der Wirkstärkeneinheit des  jeweils zugehörigen  Wirkstoffes/der jeweils  zugehörigen Wirkstoffe.
 
 Die Wirkstärke kann definiert  oder fehlend sein (wenn  fehlend, ggf. bei Ausdruck  aus der PZN ableiten).
+
+Darreichungsform in Form  des IFA-Codes.gemäß  Referenzdatenbank
+
+Die Darreichungsform kann  definiert oder fehlend sein  (wenn fehlend, ggf. bei  Ausdruck aus der PZN
+
+ableiten).
+
+Darf nicht gleichzeitig mit  MP.S.M.fd (=  Freitextdarreichungsform)  angegeben werden.
 
 MP.S.M.fd Freie Bezeichnung einer  Darreichungsform in  patientenverständlicher  Kurzschreibweise.
 
@@ -3040,19 +3023,18 @@ Ein konkretes Dosierschema.
 
 Format angepasst.  (Kap. A 2.10  Schreibweise  Wirkstärke)
 
+Absolut identisch zum  Ausdruck (Anhang 3)
+
 Absolut identisch zum  Ausdruck
 
 Absolut identisch zum  AusdruckKeine  Entsprechung
 
-4.3 Wirkstärke MP.S.M.W.s Darreichungsform MP.S.M.f Bezeichnung einer Darreichungsform in Form des IFA-Codes.gemäß Referenzdatenbank Die Darreichungsform kann definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). Darf nicht gleichzeitig mit MP.S.M.fd (= Freitextdarreichungsform) angegeben werden. | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
+Feld- 4.3 Wirkstärke MP.S.M.W.s Bezeichnung Datenfeld. Beschreibung Identität zu Ausdruck | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
 | **code** |  | **Datenfeld** |  | **Attribut** |  |  |  |  |
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -3121,9 +3103,6 @@ Darf nicht gleichzeitig mit  MP.S.M.t (= Freitext- dosierung) angegeben  werden.
 
 ---
 
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
-
 | **code** | **Datenfeld** | **Attribut** |  |  |
 |---|---|---|---|---|
 | 4.5 | Freitextdosierung | MP.S.M.t Stellt | die Freitextdosierung | Absolut identisch mit |
@@ -3176,7 +3155,7 @@ Absolut identisch mit  Ausdruck
 
 Absolut identisch mit  Ausdruck
 
-4.5 Freitextdosierung Stellt die Freitextdosierung Absolut identisch mit  Ausdruck
+Feld- Bezeichnung Datenfeld. Beschreibung 4.5 Freitextdosierung Stellt die Freitextdosierung Identität zu Ausdruck Absolut identisch mit  Ausdruck
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -3184,9 +3163,6 @@ Absolut identisch mit  Ausdruck
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -3200,12 +3176,13 @@ Absolut identisch mit  Ausdruck
 |  |  |  |  | )6 |
 | 5.1 | Freitextzwischen- | MP.S.t | Eine vom/von der | Absolut identisch mit |
 
-|  | überschrift |  | Anwender*in frei definierte | Ausdruck |
-|---|---|---|---|---|
-|  |  |  | Zwischenüberschrift. |  |
-|  |  |  | Darf nicht gleichzeitig mit |  |
-|  |  |  | MP.S.c angegeben werden. |  |
-| 5.2 | Freitextzeile | MP.S.X.t | Allgemeine Hinweise, | dieAbsolut identisch mit |
+Anwender*in frei definierte
+
+überschrift
+
+Zwischenüberschrift.  Darf nicht gleichzeitig mit  MP.S.c angegeben werden.
+
+Freitextzeile MP.S.X.t Allgemeine Hinweise, die 5.2
 
 nicht einzelnen  Medikationseinträgen  zugewiesen sind.
 
@@ -3217,24 +3194,20 @@ Darf maximal 1 Umbruch  enthalten „~“. Das  Verwenden des  Tildezeichens „
 
 Ausdruck
 
-5.1 Zwischenüber- MP.S.c Standardzwischenüberschrift zur Kategorisierung der Medikationen auf dem Plan. Vgl. Anhang 2, Tabelle 6: Schlüsselworte für Zwischenüberschriften Darf nicht gleichzeitig mit MP.S.t (= Freitextzwischen- überschrift) angegeben werden. 5.1 Freitextzwischen- Freitextzeile MP.S.X.t Allgemeine Hinweise, die Absolut identisch mit  Ausdruck
+Absolut identisch mit  Ausdruck
+
+5.1 Zwischenüber- MP.S.c Standardzwischenüberschrift zur Kategorisierung der Medikationen auf dem Plan. Vgl. Anhang 2, Tabelle 6: Schlüsselworte für Zwischenüberschriften Darf nicht gleichzeitig mit MP.S.t (= Freitextzwischen- überschrift) angegeben werden. 5.1 Freitextzwischen-Absolut identisch mit  Ausdruck
 
 
 ---
-
-| **Feld-** | **Bezeichnung** | **Datenfeld.** | **Beschreibung** | **Identität zu Ausdruck** |
-|---|---|---|---|---|
 
 | **code** | **Datenfeld** | **Attribut** |  |  |
 |---|---|---|---|---|
 | 5.4 | Gebundene | MP.S.R.x | Allgemeine Hinweise, | dieAbsolut identisch mit |
 
-|  |  |  | Spezifikation des | Format angepasst |
-|---|---|---|---|---|
-|  |  |  | Medikationsplans. |  |
-|  |  |  | Format xxy, beim Druck wird |  |
-|  |  |  | aus 022 eine 2.2 |  |
-| 6.12 | Patchnummer MP.p | Versionsnummer | der | Keine Entsprechung |
+6.1
+
+6.12
 
 6.3  6.4
 
@@ -3242,13 +3215,21 @@ Tabelle 3: Beschreibung, wie die Datenfelder im Carriersegment zu befüllen sind
 
 Zusatzzeile  (Rezeptureintrag)
 
+Versionsnummer MP.v
+
+Patchnummer MP.p
+
 Sprachkenn- zeichen – Länderkenn- zeichen
 
 MP.l nach RFC-3066 (ISO 631-
 
 sich auf den vorhergehenden  Rezeptureintrag beziehen.  Der Rezeptureintrag und die  gebundene Zusatzzeile sind  untrennbar  aneinandergeknüpft.  Darf maximal 1 Umbruch  enthalten „~“. Das  Verwenden des  Tildezeichens „~“ ist bei der  Eingabe des Freitextes durch  den/die Endanwender*in  nicht erlaubt.
 
-Spezifikation des Patches
+Versionsnummer der  Spezifikation des  Medikationsplans.
+
+Format xxy, beim Druck wird  aus 022 eine 2.2
+
+Versionsnummer der  Spezifikation des Patches
 
 Eine fortlaufende Nummer 0 -
 
@@ -3258,7 +3239,11 @@ Eine fortlaufende Nummer 0 -
 
 Ausdruck
 
-5.4 Gebundene MP.S.R.x Allgemeine Hinweise, die Versionsnummer  MP.v Patchnummer  MP.p Versionsnummer der Versionsnummer der Inhalt identisch, Absolut identisch mit  Ausdruck
+Inhalt identisch,  Format angepasst
+
+Keine Entsprechung
+
+Feld- 5.4 Gebundene Bezeichnung Datenfeld. MP.S.R.x Allgemeine Hinweise, die Beschreibung Identität zu Ausdruck Absolut identisch mit  Ausdruck
 
 | **Feld-** |  | **Bezeichnung** |  | **Datenfeld.** |  | **Beschreibung** |  | **Identität zu Ausdruck** |
 |---|---|---|---|---|---|---|---|---|
@@ -3593,10 +3578,7 @@ Felder.
 
 1.1 Identifikationsname
 
-| 1.2 | Seitenzahl | aktuelle |  |  |  | ja |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|
-
-1.3 Gesamtseitenzahl Gesamtseitenzahl  1.4 Zertifizierungs- kennung 2.1 Vorname
+1.2 Seitenzahl aktuelle Seitenzahl  1.3 Gesamtseitenzahl Gesamtseitenzahl  1.4 Zertifizierungs- kennung 2.1 Vorname
 
 2.2 Nachname
 
@@ -3622,7 +3604,7 @@ Felder.
 
 **Bedeutung**
 
-Die Instanz-ID ist eine GUID  (Global Unique Identifier), die bei  jedem Ausdruck (mit oder ohne  Planänderung) neu erzeugt wird.  Auf jeder Seite des mehrseitigen  Ausdrucks erscheint die gleiche  Instanz-ID.  Bezeichnung, die den  bundeseinheitlichen  Medikationsplan eindeutig als  solchen identifiziert.
+Die Instanz-ID ist eine GUID  (Global Unique Identifier), die bei  jedem Ausdruck (mit oder ohne  Planänderung) neu erzeugt wird.  Auf jeder Seite des mehrseitigen  Ausdrucks erscheint die gleiche  Instanz-ID.  Bezeichnung, die den  bundeseinheitlichen  Medikationsplan eindeutig als  solchen identifiziert.  ja
 
 ja
 
@@ -3654,7 +3636,7 @@ ausdruckenden  Person/Institution  Datum und Uhrzeit, an dem der  des Medikation
 
 ja ja
 
-ja
+ja  ja
 
 nein nein
 
@@ -3682,7 +3664,7 @@ ja ja
 
 ja ja
 
-1.2 Seitenzahl aktuelle Seitenzahl ja ja
+ja ja
 
 
 ---
@@ -3802,11 +3784,7 @@ AM-Code  (PZN) vorliegt  (Kap. 3.1 ist  zu beachten)
 
 **Bezeichnung**  **Datenfeld**
 
-| 4.5 | Dosierschema ein | konkretes Dosierschema ja | ja |  |  |  |
-|---|---|---|---|---|---|---|
-
-| 4.6 | Dosiereinheit Bezeichnung | einer Dosiereinheit ja | ja (Code oder |  |  |  |
-|---|---|---|---|---|---|---|
+4.5 Dosierschema  4.6 Dosiereinheit Bezeichnung einer Dosiereinheit
 
 4.7 Hinweise relevante Hinweise zum 4.8 Behandlungsgrund
 
@@ -3820,17 +3798,9 @@ AM-Code  (PZN) vorliegt  (Kap. 3.1 ist  zu beachten)
 
 6.3 Länderkennzeichen Länderkennzeichen des
 
-| 6.4 | Sprachkennzeichen | Sprache des | Medikationsplansja |  |  |  |
-|---|---|---|---|---|---|---|
+6.4 Sprachkennzeichen Sprache des Medikationsplans ja  6.6 Herstellerbereich 6.7 Freifeld Im Ausd
 
-6.6 Herstellerbereich
-
-6.7 Freifeld Im Ausd
-
-| 6.9 Disclaimer | Schlüsseltext | aus Anlage 2.3ja | nein |  |  |  |
-|---|---|---|---|---|---|---|
-
-6.10 Lebenslange
+6.9 Disclaimer Schlüsseltext aus Anlage 2.3 6.10 Lebenslange
 
 Arztnummer 6.11 Apotheken-IDF 7-stellige
 
@@ -3839,6 +3809,8 @@ Arztnummer 6.11 Apotheken-IDF 7-stellige
 **Bedeutung**
 
 Darreichungsform (in  patientenverständlicher  Kurzschreibweise)
+
+ein konkretes Dosierschema ja
 
 Arzneimittel (z.B. Anwendung,  Einnahme, Lagerung etc.)
 
@@ -3858,6 +3830,8 @@ grafisches/textuelles Objekt des  Herstellers, reservierte Fläche  ruck: freizu
 
 Feld, nicht zu bedruckende  Fläche
 
+ja
+
 9-stellige lebenslange  Arztnummer.  Optional, wenn zutreffend.
 
 Apothekenidentifikationsnummer.  Optional, wenn zutreffend.  9-stelliges Krankenhaus- Institutskennzeichen.  Optional, wenn zutreffend.
@@ -3866,7 +3840,7 @@ Fortlaufende Nummer des  Patches
 
 **Verwendung im**  **Ausdruck 2D-Barcode**
 
-ja ja
+ja  ja ja (Code oder
 
 ja ja
 
@@ -3881,12 +3855,16 @@ ja ja
 ja ja
 
 ja ja
+
+ja ja
+
+ja
 
 ja nein
 
 ja nein
 
-nein ja
+nein  nein ja
 
 nein ja
 
@@ -3894,7 +3872,9 @@ nein ja
 
 nein ja
 
-4.5 Dosierschema ein konkretes Dosierschema  4.6 Dosiereinheit Bezeichnung einer Dosiereinheit Freitext) 6.4 Sprachkennzeichen Sprache des Medikationsplans ja Schlüsseltext aus Anlage 2.3 AM-Code  (PZN) vorliegt  (Code oder  Freitext)  (Kap. 3.1 ist  zu beachten)
+AM-Code  (PZN) vorliegt  (Code oder  Freitext)  (Kap. 3.1 ist  zu beachten)
+
+Freitext)
 
 
 ---
@@ -3942,12 +3922,7 @@ Zu jedem Code gibt es eine eindeutige zulässige Benennung. Interpunktionen sind
 
 **Parametertexte:**
 
-261 Gewicht Gew.: {} kg  262 Kreatinin
-
-| 263 |  | Geschl.: {m \| w \| divers \| | O |
-|---|---|---|---|
-|  | Geschlecht |  |  |
-|  |  | unbestimmt} |  |
+261 Gewicht Gew.: {} kg  262 Kreatinin 263  Geschlecht
 
 | 264 | Allergien und | Allerg./Unv.: {} O |  |
 |---|---|---|---|
@@ -3971,11 +3946,13 @@ M
 
 O
 
-Krea.: {} mg/dl O
+Krea.: {} mg/dl O  Geschl.: {m | w | divers |
 
 **tional**  **p**
 
-Geschl.: {m | w | divers | 264 Allergien und 266 Status schwanger schwanger O stillend O **/o** **mandatory**
+**/o** **mandatory**
+
+264 Allergien und unbestimmt} 266 Status schwanger schwanger O stillend O O
 
 
 ---
@@ -4095,24 +4072,19 @@ zusammengesetzte Bruchschreibweise ist zulässig (z. B. ½ wird zu 1/2 oder
 
 ### umgekehrt zu überführen, ist ohne Anwenderinteraktion nicht zulässig.
 
-| **Nr.** | **Bezeich-** | **Bedeutung** | **Zeichen** | **ISO** | **Alternative** | **Alternative Schreib-** |
-|---|---|---|---|---|---|---|
+**Nr. Bezeich- Bedeutung Zeichen ISO**
 
 **nung**
 
 **8859-1**
 
-| 1 | ½ | ein | Halb½ | 189 | „1/2“ | „0,5“ |
-|---|---|---|---|---|---|---|
+1 ½ ein Halb ½ 189
 
-| 2 | 1/3 | ein | Drittel⅓ |  | „1/3“ | „0,33“ |
-|---|---|---|---|---|---|---|
+2 1/3 ein Drittel ⅓
 
-| 3 | ¼ ein |  | Viertel | ¼ | 188„1/4“ | „0,25“ |
-|---|---|---|---|---|---|---|
+3 ¼ ein Viertel ¼ 188
 
-| 4 | 2/3 | zwei | Drittel⅔ |  | „2/3“ | „0,66“ |
-|---|---|---|---|---|---|---|
+4 2/3 zwei Drittel ⅔
 
 | 5 | ¾ | drei | Viertel | ¾ | 190„3/4“ | „0,75“ |
 |---|---|---|---|---|---|---|
@@ -4120,11 +4092,27 @@ zusammengesetzte Bruchschreibweise ist zulässig (z. B. ½ wird zu 1/2 oder
 
 Tabelle 7: Liste der zugelassenen Brüche und deren Darstellung
 
-**Schreibweise**  **(automatische nur durch**  **Ersetzung**  **zulässig)**
+**Alternative**  **Schreibweise**  **(automatische nur durch**  **Ersetzung**  **zulässig)**
 
-**weise (Ersetzung**
+„1/2“
 
-Nr. Bezeich- Bedeutung Zeichen ISO 1 ½ ein Halb ½ 189 2 1/3 ein Drittel 3 ¼ ein Viertel ¼ 188 4 2/3 zwei Drittel 5 ¾ drei Viertel ¾ 190 6 1/8 ein Achtel **Anwenderinteraktion**  **zulässig)**
+„1/3“
+
+„1/4“
+
+„2/3“
+
+**Alternative Schreib-** **weise (Ersetzung**
+
+**Anwenderinteraktion**  **zulässig)**
+
+„0,5“
+
+„0,33“
+
+„0,25“
+
+5 ¾ drei Viertel ¾ 190 6 1/8 ein Achtel „0,66“
 
 
 ---
@@ -4620,10 +4608,7 @@ finden und in den Annotationen des XML-Schemas aus Anhang 8 benannt sind:
 |---|---|---|---|
 | 2 | Seitenzahl Die erste | Seite eines mehrseitigen Planes | MUSS |
 
-|  |  | muss mit 1 starten und das Attribut muss bei |  |
-|---|---|---|---|
-|  |  | mehrseitigen Plänen verwendet werden. |  |
-| 3 | Seitenzahl Bei einseitigem | Plan muss das Attribut | MUSS |
+muss mit 1 starten und das Attribut muss bei  mehrseitigen Plänen verwendet werden.
 
 |  |  | weggelassen werden. |  |
 |---|---|---|---|
@@ -4641,12 +4626,9 @@ finden und in den Annotationen des XML-Schemas aus Anhang 8 benannt sind:
 |---|---|---|---|
 | 7 | Versicherten-ID, Format | und Inhalte sind analog VSDM | MUSS |
 
-|  | Vorname, Name, | umzusetzen. |  |
-|---|---|---|---|
-|  | Titel, Vorsatzwort, |  |  |
-|  | Namenszusatz, |  |  |
-|  | Geburtsdatum |  |  |
-| 8 | Versicherten-ID Sind | Werte der eGK verfügbar, so sind diese | SOLL |
+umzusetzen.
+
+Vorname, Name,  Titel, Vorsatzwort,  Namenszusatz,  Geburtsdatum
 
 |  |  | zu nutzen. |  |
 |---|---|---|---|
@@ -4681,14 +4663,15 @@ Deutschen Post sind zu beachten.
 |---|---|---|---|
 | 17 Block | Ab dem 2. Block | muss entweder eine | MUSS |
 
-|  |  | Überschrift als Code oder als Freitext gewählt |  |
-|---|---|---|---|
-|  |  | werden. |  |
-| 18 | Zwischenüberschrift | Für einen Block darf entweder nur eine | MUSS |
-|  | codiert oder Freitext | Zwischenüberschrift als Code oder Freitext |  |
-|  |  | angegeben werden. |  |
+Überschrift als Code oder als Freitext gewählt  werden.
 
-Nr. XML-Datenfeld(er) Regeltext  1 Instanz-ID Der Daten-Typ ist GUID (Global Unique 2 Seitenzahl Die erste Seite eines mehrseitigen Planes 3 Seitenzahl Bei einseitigem Plan muss das Attribut 4 Seitenzahl Die Seitenzahl ist kleiner gleich der 5 Gesamtseitenzahl Das Attribut muss bei mehrseitigen Plänen 6 Gesamtseitenzahl Bei einseitigem Plan muss das Attribut 7 Versicherten-ID, Format und Inhalte sind analog VSDM 8 Versicherten-ID Sind Werte der eGK verfügbar, so sind diese 9 Geschlecht Die Angaben zum Geschlecht dürfen nicht 10 LANR/IDF/ Aufbau und Prüfziffern sind zu beachten. Die aktuellen Werte des PLZ-Kataloges der Die Regeln laut Anhang 1 sind einzuhalten. 15 Instanz-ID / 16 Parameterfreitext Der Text darf nicht mehr als 2 Tildezeichen Ab dem 2. Block muss entweder eine 18 Zwischenüberschrift KANN
+18 Zwischenüberschrift Für einen Block darf entweder nur eine
+
+codiert oder Freitext Zwischenüberschrift als Code oder Freitext  angegeben werden.
+
+KANN
+
+Nr. XML-Datenfeld(er) Regeltext  1 Instanz-ID Der Daten-Typ ist GUID (Global Unique 2 Seitenzahl Die erste Seite eines mehrseitigen Planes 3 Seitenzahl Bei einseitigem Plan muss das Attribut 4 Seitenzahl Die Seitenzahl ist kleiner gleich der 5 Gesamtseitenzahl Das Attribut muss bei mehrseitigen Plänen 6 Gesamtseitenzahl Bei einseitigem Plan muss das Attribut 7 Versicherten-ID, Format und Inhalte sind analog VSDM 8 Versicherten-ID Sind Werte der eGK verfügbar, so sind diese 9 Geschlecht Die Angaben zum Geschlecht dürfen nicht SOLL 10 LANR/IDF/ Aufbau und Prüfziffern sind zu beachten. Die aktuellen Werte des PLZ-Kataloges der Die Regeln laut Anhang 1 sind einzuhalten. 15 Instanz-ID / 16 Parameterfreitext Der Text darf nicht mehr als 2 Tildezeichen Ab dem 2. Block muss entweder eine MUSS
 
 
 ---
@@ -4702,11 +4685,6 @@ Nr. XML-Datenfeld(er) Regeltext  1 Instanz-ID Der Daten-Typ ist GUID (Global Uni
 |  | als Code |  |  |
 | 21 | Darreichungsform Ein | Medikationseintrag darf entweder nur eine | MUSS |
 
-|  |  | Darreichungsform als Code oder Freitext |  |
-|---|---|---|---|
-|  |  | enthalten. |  |
-| 22 | Dosierschema | Ein Medikationseintrag darf entweder nur ein | MUSS |
-
 |  | strukturiert oder | Dosierschema strukturiert oder Freitext |  |
 |---|---|---|---|
 |  | Freitext | enthalten. |  |
@@ -4715,11 +4693,6 @@ Nr. XML-Datenfeld(er) Regeltext  1 Instanz-ID Der Daten-Typ ist GUID (Global Uni
 |  | Code | zu verwenden. |  |
 |---|---|---|---|
 | 24 | Dosiereinheit Ein | Medikationseintrag darf entweder nur eine | MUSS |
-
-|  |  | Dosiereinheit als Code oder Freitext |  |
-|---|---|---|---|
-|  |  | enthalten. |  |
-| 25 | Hinweis Der Text darf | nicht mehr als 1 Tildezeichen | MUSS |
 
 |  |  | („~“) enthalten. |  |
 |---|---|---|---|
@@ -4733,11 +4706,18 @@ Nr. XML-Datenfeld(er) Regeltext  1 Instanz-ID Der Daten-Typ ist GUID (Global Uni
 |---|---|---|---|
 | 28 | Freitextzeile Der Text | darf nicht mehr als 1 Tildezeichen | MUSS |
 
-|  |  | („~“) enthalten. |  |
-|---|---|---|---|
-| 29 | Rezeptur Der Text darf | nicht mehr als 1 Tildezeichen | MUSS |
-|  |  | („~“) enthalten. |  |
+29 Rezeptur Der Text darf nicht mehr als 1 Tildezeichen
 
 Tabelle 10: Liste an Regeln, die ergänzend zum XML-Schema auf den Daten/Inhalten anzuwenden  sind
 
-Nr. XML-Datenfeld(er) Regeltext  19 Modifizierte PZN Es sind die aktuellen PZNs analog der 20 Darreichungsform Es sind die IFA-Kürzel zu verwenden. MUSS 21 Darreichungsform Ein Medikationseintrag darf entweder nur eine 22 Dosierschema 23 Dosiereinheit als 24 Dosiereinheit Ein Medikationseintrag darf entweder nur eine 25 Hinweis Der Text darf nicht mehr als 1 Tildezeichen 26 Behandlungsgrund Der Text darf nicht mehr als 1 Tildezeichen 27 Gebundene 28 Freitextzeile Der Text darf nicht mehr als 1 Tildezeichen 29 Rezeptur Der Text darf nicht mehr als 1 Tildezeichen Arzneimitteldatenbank zu verwenden, wobei  die führenden Nullen entfernt werden.
+Arzneimitteldatenbank zu verwenden, wobei  die führenden Nullen entfernt werden.
+
+Darreichungsform als Code oder Freitext  enthalten.
+
+Dosiereinheit als Code oder Freitext  enthalten.
+
+(„~“) enthalten.
+
+(„~“) enthalten.
+
+Nr. XML-Datenfeld(er) Regeltext  19 Modifizierte PZN Es sind die aktuellen PZNs analog der 20 Darreichungsform Es sind die IFA-Kürzel zu verwenden. MUSS 21 Darreichungsform Ein Medikationseintrag darf entweder nur eine 22 Dosierschema 23 Dosiereinheit als Ein Medikationseintrag darf entweder nur ein 24 Dosiereinheit Ein Medikationseintrag darf entweder nur eine 25 Hinweis Der Text darf nicht mehr als 1 Tildezeichen 26 Behandlungsgrund Der Text darf nicht mehr als 1 Tildezeichen 27 Gebundene 28 Freitextzeile Der Text darf nicht mehr als 1 Tildezeichen MUSS

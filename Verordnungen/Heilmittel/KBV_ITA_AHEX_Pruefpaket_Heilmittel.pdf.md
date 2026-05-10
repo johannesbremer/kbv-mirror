@@ -1354,11 +1354,13 @@ Hinweissteuerung durch Screenshots. Dokumentieren
 
 den Vorgaben möglich ist.
 
-| **DATEN** |
-|---|
-| XML Verzeichnisname: XML_05 |
-| Podologie |
-| E10.20 |
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
+
+**Heilmittelbereich**
+
+**ICD 10 Code**
 
 **ICD 10 Code**
 
@@ -1422,6 +1424,16 @@ P3 21 Verordnung von „vorrangigen Heilmitteln“
 
 Sie die ausgedruckte Verordnung, sofern dies nach
 
+**DATEN**
+
+XML Verzeichnisname:
+
+Podologie
+
+XML_05
+
+E10.20
+
 Diabetes mellitus vom Typ 1 mit Nierenkomplikationen
 
 [N08.3*], nicht als entgleist bezeichnet
@@ -1444,9 +1456,7 @@ Nein
 
 **betroffen:**
 
-Behandlungsmenge
-
-FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD Code2023
+Behandlungsmenge 2023
 
 
 ---
@@ -1463,11 +1473,13 @@ gemäß der ICD Stammdatei wird um einen Freitext
 
 Screenshots. Dokumentieren Sie die ausgedruckte
 
-| **DATEN** |
-|---|
-| XML Verzeichnisname: XML_05 |
-| Stimm‐, Sprech,‐ Sprach‐ und Schlucktherapie |
-| F44.4 |
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
+
+**Heilmittelbereich**
+
+**ICD 10 Code**
 
 **ICD 10 Code**
 
@@ -1531,6 +1543,14 @@ ergänzt. Dokumentieren Sie mögliche
 
 Verordnung, sofern dies nach den
 
+**DATEN**
+
+XML Verzeichnisname: XML_05
+
+Stimm Sprech, Sprach und Schlucktherapie
+
+F44.4
+
 Dissoziative Bewegungsstörungen
 
 ST3
@@ -1559,7 +1579,7 @@ Vorgaben möglich ist.
 
 5
 
-FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code5
+5
 
 
 ---
@@ -1657,11 +1677,13 @@ ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
 ---
 
-| **DATEN** |
-|---|
-| XML Verzeichnisname: XML_05 |
-| Ergotherapie |
-| M45.0‐ |
+**FELDER** **MUSTER** **13**
+
+**Patient/Patientin**
+
+**Heilmittelbereich**
+
+**ICD 10 Code**
 
 **ICD 10 Code**
 
@@ -1733,6 +1755,16 @@ Verordnungsdatum liegt.
 
 19  25
 
+**DATEN**
+
+XML Verzeichnisname:
+
+Ergotherapie
+
+M45.0
+
+XML_05
+
 Spondylitis ankylosans
 
 SB1
@@ -1767,9 +1799,7 @@ und Hinweise
 
 (siehe Tabelle dieser Anweisung).
 
-dass innerhalb von 3 Wochen vor dem
-
-FELDER MUSTER 13 Patient/Patientin Heilmittelbereich ICD 10 Code2023
+dass innerhalb von 3 Wochen vor dem 2023
 
 
 ---

@@ -46,12 +46,11 @@ der Lebensqualität ist nicht mehr angezeigt.
 
 **62A**
 
-|  | zur Beatmungsentwöhnung |  |
-|---|---|---|
-|  | in folgenden spezialisierten |  |
-|  | zur Beatmungsentwöhnung |  |
-| ***Lagerungstherapie,*** | ***Mobilisation, Physiotherapie,*** | ***Logopädie,*** |
-|  | zur Beatmungsentwöhnung |  |
+zur Beatmungsentwöhnung
+
+zur Beatmungsentwöhnung
+
+zur Beatmungsentwöhnung
 
 Ergebnis der Erhebung  festgestellt am
 

@@ -82,18 +82,17 @@ Beschluss aus dem AK7 (Ver- besserung der Schnittstellen- struktur)
 |---|---|---|---|---|---|
 | 1.40 | 04.07.2013 | KBV | - Kennzeichen arztpraxis | Änderung von Typ Bool in String | **95** |
 
-|  |  |  |  | sowie Referenz auf Schlüsseltab- |  |
-|---|---|---|---|---|---|
-|  |  |  |  | elle |  |
-| 1.40 | 06.06.2013 | KBV | - Regel: Sub-GOP | Referenz auf verknüpfte Leistun- | **86** |
+1.40  Beta
 
-Beta 1.32
+1.32
 
 17.04.2015 KBV
 
 06.01.2015 KBV
 
 19.12.2014 KBV
+
+06.06.2013 KBV
 
 26.07.2012 KBV
 
@@ -103,7 +102,7 @@ Entfernung der Elemente  maximalhaeufigkeit und  minimalhaeufigkeit
 
 Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen  Entfernung des rlv Kennzei- chens aus dem KBV Teil
 
-Regel: PFG-Ausschluss  gnr_type_cd
+Regel: Sub-GOP  Regel: PFG-Ausschluss  gnr_type_cd
 
 Layout
 
@@ -111,7 +110,9 @@ Aufgrund der ASV muss der Kur- züberlick der EBM-Systematik  angepasst werden
 
 fehlerhafter Inhalt
 
-gen Ausschluss fachärztl. Grund- pauschale  Verweis auf Schlüsseltabelle
+sowie Referenz auf Schlüsseltab- elle
+
+Referenz auf verknüpfte Leistun- gen Ausschluss fachärztl. Grund- pauschale  Verweis auf Schlüsseltabelle
 
 redaktionell
 
@@ -125,7 +126,7 @@ redaktionell
 
 **98**
 
-**88**
+**86**  **88**
 
 **95**
 
@@ -567,10 +568,7 @@ bedingung
 |---|---|---|
 | kv | teilweise | GOP-Art |
 
-|  |  | Abrechnungskennzeichen |
-|---|---|---|
-|  |  | Arztpraxis |
-| vdx | vollständig |  |
+vdx
 
 **3.2 KV -> KBV (Satzart 851)**
 
@@ -597,6 +595,8 @@ vollständig
 
 möglichst vollständig
 
+vollständig
+
 Elemente
 
 vollständig
@@ -606,6 +606,8 @@ möglichst vollständig
 möglichst vollständig -Richtlinie vereinbart:
 
 Beispiel
+
+Abrechnungskennzeichen  Arztpraxis
 
 Hinzusetzung der kv -spezifischen,
 
@@ -663,11 +665,9 @@ möglichst vollständig
 |---|---|---|
 | kv | teilweise | GOP-Art |
 
-|  |  | Abrechnungskennzeichen |
-|---|---|---|
-|  |  | Arztpraxis |
-| vdx | vollständig | KV-Gruppierungsfeld |
-|  |  | Kontenart |
+vdx
+
+vollständig
 
 Beispiel
 
@@ -676,6 +676,12 @@ Gültigkeitszeitraum
 Legende
 
 Beispiel
+
+Abrechnungskennzeichen  Arztpraxis
+
+KV-Gruppierungsfeld
+
+Kontenart
 
 
 ---
@@ -7438,10 +7444,21 @@ documentation Beinhaltet den Code der jeweiligen Bezirksstelle.
 
 annotation
 
-| den vorgestellt: |  |
-|---|---|
-| element | **as_ktgruppen_liste** |
-| diagram |  |
+***V***   Code für die Bezirksstelle
+
+***S***   OID der Schlüsseltabelle
+
+**14.8 Element: as_ktgruppen_liste**
+
+Gesetzt den Fall, dass gegen eine Abrechnungsstelle diverse Kostenträgergruppen gesperrt  sind, kann ein sogenannter „Abrechnungsstellenbezogender
+
+Ausschluss“ als Positiv- oder Negativliste definiert werden. Dieses Konstrukt wird im Folgen-
+
+den vorgestellt:
+
+element** as_ktgruppen_liste**
+
+diagram
 
 Fixed
 
@@ -7449,11 +7466,11 @@ Selector  go:abrechnungsstelle @V
 
 Fixed   1.2.276.0.76.5.2 30
 
+Kostenträgergruppen
+
 Annotation   Field(s)
 
 Annotation
-
-V Code für die Bezirksstelle S OID der Schlüsseltabelle 14.8  Element: as_ktgruppen_liste Gesetzt den Fall, dass gegen eine Abrechnungsstelle diverse Kostenträgergruppen gesperrt sind, kann ein sogenannter „Abrechnungsstellenbezogender Ausschluss“ als Positiv - oder Negativliste definiert werden. Dieses Konstrukt wird im Folgen- Kostenträgergruppen
 
 
 ---

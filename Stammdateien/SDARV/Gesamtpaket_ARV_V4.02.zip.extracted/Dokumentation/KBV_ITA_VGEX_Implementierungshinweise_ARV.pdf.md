@@ -512,12 +512,7 @@ in die Berechnung miteinbeziehen, welche für seine Fachgruppe definiert sind. W
 
 # 4 Umsetzung der Zielpreisregelungen
 
-Mithilfe der im Element „zielpreisregelung“ beschriebenen Datenfelder müssen von den AVS
-
-| der |  | VoS | die in | den Kapiteln |
-|---|---|---|---|---|
-
-mentiert werden (siehe auch die Funktionen P3-610 K3 -610, K3 --630 620, K3 in dem AVWG-
+Mithilfe der im Element „zielpreisregelung“ beschriebenen Datenfelder müssen von den AVS  der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen imple- mentiert werden (siehe auch die Funktionen P3-610 K3 -610, K3 --630 620, K3 in dem AVWG-
 
 Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG).
 
@@ -533,7 +528,6 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 
 Sofern von der Landesebene gewünscht, wird dem Arzt bei der Verordnung eines Präparates  mit einem Zielpreis ein Hinweis gegeben. Hierbei kann die Landesebene festlegen, bei wel- cher Abweichung des Apothekenverkaufspreises vom Zielpreis welcher Hinweis gegeben  wird. Die Hinweistexte werden ebenfalls von der Landesebene vorgegeben.
 
-der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen imple-
 
 ---
 

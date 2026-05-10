@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 4.21
 
@@ -31,6 +30,8 @@
 
 4.22
 
+**Praxissoftware**
+
 **EVIDENT**
 
 **DS-WIN-PLUS (DS-WIN-MED)**
@@ -55,6 +56,8 @@
 
 **ClinicCentre Billing (OPD)**
 
+**Anbieter**
+
 EVIDENT GmbH
 
 DAMPSOFT GmbH
@@ -77,7 +80,11 @@ Dedalus HealthCare GmbH
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Mesalvo Mannheim GmbH 7.12
+Mesalvo Mannheim GmbH
+
+**Installationen 2.Q.2025**
+
+7.12
 
 8.9
 
@@ -103,6 +110,8 @@ Mesalvo Mannheim GmbH 7.12
 
 1
 
+**Installationen 1.Q.2025**
+
 7.10
 
 8.4
@@ -126,6 +135,8 @@ Mesalvo Mannheim GmbH 7.12
 3
 
 1
+
+**Differenz**
 
 2
 
@@ -154,8 +165,7 @@ Mesalvo Mannheim GmbH 7.12
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 0.15
 
@@ -173,6 +183,8 @@ Mesalvo Mannheim GmbH 7.12
 
 0.30
 
+**Praxissoftware**
+
 **MEDYS**
 
 **CGM M1 PRO**
@@ -188,6 +200,8 @@ Mesalvo Mannheim GmbH 7.12
 **Elefant**
 
 **Praxis-Programm**
+
+**Anbieter**
 
 MEDYS GmbH
 
@@ -205,7 +219,7 @@ HASOMED GmbH
 
 MediSoftware Computersysteme für Ärzte 2
 
-1
+**Installationen 2.Q.2025**
 
 1
 
@@ -220,6 +234,10 @@ MediSoftware Computersysteme für Ärzte 2
 1
 
 1
+
+1
+
+**Installationen 1.Q.2025**
 
 1
 
@@ -236,6 +254,8 @@ MediSoftware Computersysteme für Ärzte 2
 1
 
 1
+
+**Differenz**
 
 0
 

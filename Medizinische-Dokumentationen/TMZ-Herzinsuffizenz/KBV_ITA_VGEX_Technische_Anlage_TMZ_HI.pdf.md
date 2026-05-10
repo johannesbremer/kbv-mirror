@@ -110,9 +110,6 @@ Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen 
 
 pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar- über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügung.
 
-| der TMZ-Arzt Hinweise zu empfohlenen | ggf. Maßnahmen an | den PBA mit, | so dass | dieser |
-|---|---|---|---|---|
-
 
 ---
 

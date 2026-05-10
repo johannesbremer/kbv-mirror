@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -58,6 +59,8 @@ T2med GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 6.4
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 1.4
 
+**Installationen 1.Q.2025**
+
 6.5
 
 5.9
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 1.5
 
 1.3
+
+**Differenz**
 
 -1
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 0.15 **MEDYS**
 
@@ -157,6 +163,8 @@ CompuGroup Medical Deutschland AG 1
 
 2.61 **S3-Win**
 
+**Anbieter**
+
 MEDYS GmbH
 
 Schwerdtner Medizin-Software GmbH
@@ -171,6 +179,8 @@ medatixx GmbH & Co. KG
 
 S3 Praxiscomputer GmbH / Maximilian Flender 2
 
+**Installationen 2.Q.2025**
+
 8
 
 8
@@ -185,6 +195,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 
 5
 
+**Installationen 1.Q.2025**
+
 8
 
 8
@@ -198,6 +210,8 @@ S3 Praxiscomputer GmbH / Maximilian Flender 2
 6
 
 5
+
+**Differenz**
 
 0
 

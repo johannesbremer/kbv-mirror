@@ -24,15 +24,13 @@
 
 **Ärztliche Behandlung (EBM-Positionen)**
 
-| **Summe ÄrztlicheBehandlung** | **Summe Ärztliche** |
-|---|---|
-| **(Euro)** |  |
-| **Sachkosten undSprechstunden-** |  |
-| **bedarf (Euro)** |  |
-| **Gesamtsummefür einmalig imReproduktionsfall** |  |
-| **anfallende** |  |
+**Summe Ärztliche** **Summe Ärztliche**
 
-**Leistungen (Euro)** **Ort** **Datum**
+**Behandlung** **(Euro)**
+
+**Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
+
+**Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort** **Datum**
 
 ### IV Genehmigung durch die Krankenkasse(n)
 
@@ -106,19 +104,19 @@
 
 **Ärztliche Behandlung**
 
-| **Behandlung** |
-|---|
-| **(Euro)** |
-| **Medikamenten-kosten** |
-| **(Euro)** |
-| **Sachkosten undSprechstunden-** |
-| **bedarf (Euro)** |
-| **Gesamtsummepro Zyklusfall** |
-| **(Euro)** |
+**Behandlung** **(Euro)**
+
+**Medikamenten-** **kosten**
 
 **eistungen)**
 
 **(EBM-Positionen)**
+
+**(Euro)**
+
+**Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
+
+**Gesamtsumme** **pro Zyklusfall** **(Euro)**
 
 **Der Behandlungs-/Kostenplan wird**
 

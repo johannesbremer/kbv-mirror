@@ -2,8 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.10 **Medical Office**
 
@@ -33,6 +32,8 @@
 
 3.08 **RescuePro**
 
+**Anbieter**
+
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Dedalus HealthCare GmbH
@@ -60,6 +61,8 @@ Duria eG
 KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
 RescuePro Production GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 6.90
 
@@ -89,6 +92,8 @@ RescuePro Production GmbH & Co. KG 1
 
 9.0
 
+**Installationen 1.Q.2025**
+
 6.64
 
 6.42
@@ -116,6 +121,8 @@ RescuePro Production GmbH & Co. KG 1
 9.4
 
 8.5
+
+**Differenz**
 
 2.6
 
@@ -148,8 +155,7 @@ RescuePro Production GmbH & Co. KG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.08 **NEXUS / KIS**
 
@@ -163,6 +169,8 @@ RescuePro Production GmbH & Co. KG 1
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 NEXUS AG
 
 Zollsoft GmbH
@@ -174,6 +182,8 @@ medatixx GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 2
+
+**Installationen 2.Q.2025**
 
 8.2
 
@@ -187,6 +197,8 @@ CompuGroup Medical Deutschland AG 2
 
 5.3
 
+**Installationen 1.Q.2025**
+
 7.9
 
 6.6
@@ -198,6 +210,8 @@ CompuGroup Medical Deutschland AG 2
 6.4
 
 5.2
+
+**Differenz**
 
 3
 

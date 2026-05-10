@@ -90,12 +90,10 @@ Fon (0211) 5970  8509 Fax (0211) 5970  9509 eMail: joachim.averdung@kvno.de Fon 
 | **8** | **ANLAGE** | **A** |
 | Seite 3 | von 20 |  |
 
-|  |  | **20** |
-|---|---|---|
-|  |  | **20** |
-| Stand: |  | 10.08.2022 |
+**20**
 
-ANLAGE A
+ANLAGE A **20**
+
 
 ---
 

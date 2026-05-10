@@ -28,8 +28,13 @@ Datum
 
 **xE**
 
-|  | Diabetes Typ 1 |  | KHK |  | Asthma |  | Adipositas Erw. |  | Brustkrebs |  |
-|---|---|---|---|---|---|---|---|---|---|---|
+Diabetes Typ 1
+
+KHK
+
+Asthma Adipositas Erw.
+
+Brustkrebs
 
 Depression
 
@@ -99,8 +104,7 @@ Bitte das heutige Datum eintragen.
 
 bzw. des gesetzlichen Vertreters zu 1. und 2.
 
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+**T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -120,7 +124,7 @@ Indikationsüber 24.04.2025 TEEWE
 
 Unterschrift
 
-T T M M J J J J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
 
 
 ---
@@ -155,8 +159,13 @@ Datum
 
 070F
 
-|  | Diabetes Typ 1 |  | KHK |  | Asthma |  | Adipositas Erw. |  | Brustkrebs |  |
-|---|---|---|---|---|---|---|---|---|---|---|
+Diabetes Typ 1
+
+KHK
+
+Asthma Adipositas Erw.
+
+Brustkrebs
 
 Depression
 
@@ -226,8 +235,7 @@ Bitte das heutige Datum eintragen.
 
 bzw. des gesetzlichen Vertreters zu 1. und 2.
 
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+**T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -245,7 +253,7 @@ eifend gr 24.04.2025 TEEWE
 
 Unterschrift
 
-T T M M J J J J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
 
 
 ---
@@ -282,8 +290,13 @@ Datum
 
 **xE**
 
-|  | Diabetes Typ 1 |  | KHK |  | Asthma |  | Adipositas Erw. |  | Brustkrebs |  |
-|---|---|---|---|---|---|---|---|---|---|---|
+Diabetes Typ 1
+
+KHK
+
+Asthma Adipositas Erw.
+
+Brustkrebs
 
 Depression
 
@@ -353,8 +366,7 @@ Bitte das heutige Datum eintragen.
 
 bzw. des gesetzlichen Vertreters zu 1. und 2.
 
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+**T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -372,7 +384,7 @@ eifend gr 24.04.2025 TEEWE
 
 Unterschrift
 
-T T M M J J J J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte V sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit- wirkung und T eilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. T T M M J J J JStempel Ärztin/Arzt
 
 
 ---

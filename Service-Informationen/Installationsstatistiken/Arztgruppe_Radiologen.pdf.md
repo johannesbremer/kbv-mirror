@@ -2,8 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.56 **medavis RIS**
 
@@ -35,6 +34,8 @@
 
 4.87 **NEXUS RIS**
 
+**Anbieter**
+
 medavis GmbH
 
 Dedalus HealthCare GmbH
@@ -64,6 +65,8 @@ KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 CompuGroup Medical Deutschland AG
 
 NEXUS / CHILI GmbH 1
+
+**Installationen 2.Q.2025**
 
 2.16
 
@@ -95,6 +98,8 @@ NEXUS / CHILI GmbH 1
 
 2.4
 
+**Installationen 1.Q.2025**
+
 2.08
 
 1.86
@@ -124,6 +129,8 @@ NEXUS / CHILI GmbH 1
 2.8
 
 2.5
+
+**Differenz**
 
 8
 
@@ -158,8 +165,7 @@ NEXUS / CHILI GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 1.12 **TURBOMED**
 
@@ -171,6 +177,8 @@ NEXUS / CHILI GmbH 1
 
 0.62 **EVA**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 EDL Software Deutschland GmbH
@@ -180,6 +188,8 @@ EDL Software Deutschland GmbH
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Abasoft EDV-Programme GmbH 2
+
+**Installationen 2.Q.2025**
 
 2.2
 
@@ -191,6 +201,8 @@ Abasoft EDV-Programme GmbH 2
 
 1.5
 
+**Installationen 1.Q.2025**
+
 2.4
 
 1.7
@@ -200,6 +212,8 @@ Abasoft EDV-Programme GmbH 2
 1.6
 
 1.6
+
+**Differenz**
 
 -2
 

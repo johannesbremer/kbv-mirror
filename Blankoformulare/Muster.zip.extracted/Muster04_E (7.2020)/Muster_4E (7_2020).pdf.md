@@ -154,26 +154,43 @@ Krankenbeförderung wurde vorgelegt
 
 nein
 
-| von |
-|---|
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
-| nach |
-| von |
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
+
+nach
+
+von
 
 nach
 

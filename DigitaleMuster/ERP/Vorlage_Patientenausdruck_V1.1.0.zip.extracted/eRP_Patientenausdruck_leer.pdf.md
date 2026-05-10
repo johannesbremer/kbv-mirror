@@ -1,7 +1,8 @@
-| **Ausdruck** | **zur** | **Einlösung Ihres** | **E-Rezeptes** |
-|---|---|---|---|
-| **für** |  |  |  |
-| **ausgestellt von** |  |  |  |
+**Ausdruck zur Einlösung Ihres E-Rezeptes**
+
+**für**
+
+**ausgestellt von**
 
 **geboren am**
 
@@ -21,4 +22,4 @@ online auf www.das-e-rezept-fuer-deutschland.de und
 
 bei der technischen Hotline 0800 277 377 7
 
-Ausdruck zur Einlösung Ihres E-RezeptesTokenausdruck DIN A5 (7.2023)
+Tokenausdruck DIN A5 (7.2023)

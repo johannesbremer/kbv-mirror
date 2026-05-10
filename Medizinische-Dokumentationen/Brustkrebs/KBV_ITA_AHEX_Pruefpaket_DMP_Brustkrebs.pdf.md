@@ -148,12 +148,9 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 |  |  | Schnittstellenversion | unterstützt |
 |  |  | 4.21 |  |
 
-| 27.01.2022 | KBV | Korrektur des Datums |  |
-|---|---|---|---|
-|  |  | der Erstellung der |  |
-|  |  | Erstdokumentation im |  |
-|  |  | Prüffall 2617 |  |
-| 1.2.08.2021 | KBV | Überarbeitung des | Überführung ins neue |
+27.01.2022
+
+1.2.08.2021
 
 | 28.02.2019 | KBV | redaktionelle Korrektur |  |
 |---|---|---|---|
@@ -170,6 +167,10 @@ Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
 KBV
 
+KBV
+
+KBV
+
 Schnittstelle 4.25 4.25 ist ab 01.10.2024
 
 zu verwenden
@@ -181,6 +182,14 @@ den Prüffällen.
 TDV- Testfall zur
 
 Überprüfung der alten  Schnittstellenversion  4.23
+
+Korrektur des Datums
+
+der Erstellung der  Erstdokumentation im  Prüffall 2617
+
+Überarbeitung des
+
+Überführung ins neue
 
 Layouts
 
@@ -222,13 +231,18 @@ Zertifizier ungsablau f
 
 4.19
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Datum**
 
 |  |  | 4.21 |  |
 |---|---|---|---|
 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der |
 |  |  | des Prüfpakets | Zertifizierungsrichtlinie |
+
+**Autor**
+
+**Änderung**
+
+**Begründung**
 
 **Seite**
 
@@ -602,18 +616,19 @@ Viktoria Romanowski
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
 
-2612
+Datum der Erstellung 2612
 
 Anlage einer Erst- und einer Verlaufsdokumentation
 
 Brustkrebs -Dokumentationsunterlagen
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -643,11 +658,16 @@ Ersatzverfahren)
 
 **Erstdokumentation**
 
+PRF2612 15.04.2023 15.10.2024
+
+Halbjährlich oder häufiger 170 1,70
+
+065
+
 05.04.2023 05.10.2024
 
 BET, Mastektomie, Sentinel- Lymphknoten-Biopsie, Axilläre  Lymphonodektomie, Anderes  Vorgehen
 
-PRF2612 15.04.2023  15.10.2024 Halbjährlich oder häufiger 170  1,70 065
 
 ---
 
@@ -718,14 +738,17 @@ Anthrazykline (Doxorubicin,  Epirubicin), Anti-HER2- Substanzen, linksthorakale 
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
 
 **BRUSTKREBS**
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -767,6 +790,12 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
+PRF2612 15.10.2023 15.04.2025
+
+Halbjährlich oder häufiger 170 1,70
+
+0.70
+
 Primärtumors
 
 Tamoxifen
@@ -793,7 +822,6 @@ Nein, Kontraindikation
 
 Nein, Kontraindikation
 
-PRF2612 15.10.2023  15.04.2025 Halbjährlich oder häufiger 170  1,70 0.70
 
 ---
 
@@ -813,12 +841,15 @@ PRF2612 15.10.2023  15.04.2025 Halbjährlich oder häufiger 170  1,70 0.70
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -842,11 +873,16 @@ Bitte achten Sie an dieser Stelle auf die Hinweise in  KBV_ITA_VGEX_Schnittstell
 
 **Erstdokumentation**
 
+PRF2613 15.04.2023 15.10.2024
+
+Halbjährlich oder häufiger 1.65 1,65
+
+0.80
+
 19.11.2021 19.05.2023
 
 13.02.2022 13.08.2023
 
-PRF2613 15.04.2023  15.10.2024   Halbjährlich oder häufiger 1.65  1,65 0.80
 
 ---
 
@@ -923,11 +959,13 @@ Nein
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -973,6 +1011,12 @@ Therapie bei Knochenmetastasen (Bisphosphonate)
 
 **Erstdokumentation**
 
+PRF2613 29.06.2023 29.12.2024
+
+165 1,65
+
+0.80
+
 OP nicht geplant (c) Klinisch
 
 0
@@ -989,7 +1033,6 @@ stark belastend
 
 Regulär nach fünf 5 Jahren  abgeschlossen
 
-PRF2613 29.06.2023  29.12.2024 165  1,65 0.80
 
 ---
 
@@ -1009,14 +1052,17 @@ Z. n. besonders kardiotoxischer Tumortherapie
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
 
 abgegeben
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -1056,6 +1102,12 @@ Nein
 
 **Folgedokumentation**
 
+PRF2613 15.10.2023 15.04.2025
+
+Halbjährlich oder häufiger 165 1,65
+
+0.85
+
 Kontralateralen Brustkrebses
 
 Keine
@@ -1072,7 +1124,6 @@ Ja
 
 Nein
 
-PRF2613 15.10.2023  15.04.2025 Halbjährlich oder häufiger 165  1,65 0.85
 
 ---
 
@@ -1102,13 +1153,17 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Krankenhaus-Institutionskennzeichen: |  |
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Krankenhaus-Institutionskennzeichen:
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -1136,11 +1191,18 @@ M
 
 **Erstdokumentation**
 
+PRF2614 856215715
+
+15.04.2023 15.10.2024
+
+Halbjährlich oder häufiger 1.80 1,80
+
+065
+
 28.02.2022 28.08.2023
 
 02.07.2022 02.01.2024
 
-PRF2614 856215715 15.04.2023  15.10.2024 Halbjährlich oder häufiger 1.80  1,80 065
 
 ---
 
@@ -1187,13 +1249,17 @@ Nein
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Krankenhaus-Institutionskennzeichen: |  |
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Krankenhaus-Institutionskennzeichen:
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -1235,6 +1301,14 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
+PRF2614 856215715
+
+15.10.2023 15.04.2025
+
+Jährlich 1.80 1,80
+
+0.65
+
 Lokoregionären Rezidivs
 
 Nein 10.09.2022 10.03.2024
@@ -1251,7 +1325,6 @@ Trastuzumab Anti-HER2- Substanzen
 
 **Rezidiv / Fernmetastasen)**
 
-PRF2614 856215715 15.10.2023  15.04.2025   Jährlich 1.80  1,80 0.65
 
 ---
 
@@ -1277,12 +1350,15 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -1312,6 +1388,12 @@ Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Sco
 
 **Erstdokumentation**
 
+PRF2615 15.04.2023 15.10.2024
+
+Halbjährlich oder häufiger 1.65 1,65
+
+0.73
+
 01.01.2022 01.07.2023
 
 01.10.2022 01.04.2024
@@ -1320,7 +1402,6 @@ Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Sco
 
 25.11.2022 25.05.2024
 
-PRF2615 15.04.2023  15.10.2024 Halbjährlich oder häufiger 1.65  1,65 0.73
 
 ---
 
@@ -1373,12 +1454,15 @@ Unbekannt
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -1420,6 +1504,12 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
+PRF2615 15.10.2023 15.04.2025
+
+Halbjährlich oder häufiger 1.65 1,65
+
+0.71
+
 Fernmetastasen
 
 Nein
@@ -1438,7 +1528,6 @@ Ja
 
 Ja
 
-PRF2615 15.10.2023  15.04.2025 Halbjährlich oder häufiger 1.65  1,65 0.71
 
 ---
 
@@ -1466,12 +1555,15 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -1499,6 +1591,12 @@ M
 
 **Erstdokumentation**
 
+PRF2616 15.04.2023 15.10.2024
+
+Halbjährlich oder häufiger 1.74 1,74
+
+0.65
+
 2022 2023
 
 02.01.2023 02.07.2024
@@ -1511,7 +1609,6 @@ Mastektomie
 
 0
 
-PRF2616 15.04.2023  15.10.2024 Halbjährlich oder häufiger 1.74  1,74 0.65
 
 ---
 
@@ -1562,12 +1659,15 @@ Unbekannt
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -1609,6 +1709,12 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
+PRF2616 15.10.2023 15.04.2025
+
+Halbjährlich oder häufiger 1.74 1,74
+
+0.75
+
 Kontralateralen Brustkrebses
 
 Keine, Endokrine Therapie  geplant
@@ -1625,7 +1731,6 @@ Ja
 
 Nein
 
-PRF2616 15.10.2023  15.04.2025 Halbjährlich oder häufiger 1.74  1,74 0.75
 
 ---
 
@@ -1653,12 +1758,15 @@ Brustkrebs -Dokumentationsunterlagen
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -1690,6 +1798,12 @@ Ersatzverfahren.
 
 **Erstdokumentation**
 
+PRF2617 30.04.2023 30.10.2024
+
+Halbjährlich oder häufiger 1.75 1,75
+
+0.68
+
 08.02.2023 08.08.2024
 
 Sentinel-Lymphknoten-Biopsie
@@ -1700,7 +1814,6 @@ X 0
 
 Positiv
 
-PRF2617 30.04.2023  30.10.2024 Halbjährlich oder häufiger 1.75  1,75 0.68
 
 ---
 
@@ -1753,12 +1866,15 @@ Unbekannt
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Dokumentationsintervall |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
+
+Datum der Erstellung
+
+Dokumentationsintervall
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung erfolgte wegen**
 
@@ -1800,6 +1916,12 @@ Therapie bei Knochenmetastasen (Denosumab)
 
 **Folgedokumentation**
 
+PRF2617 30.10.2023 30.04.2025
+
+Halbjährlich oder häufiger 1.75 1,75
+
+0.70
+
 Primärtumors
 
 Endokrine Therapie geplant
@@ -1820,7 +1942,6 @@ Nein
 
 Nein
 
-PRF2617 30.10.2023  30.04.2025 Halbjährlich oder häufiger 1.75  1,75 0.70
 
 ---
 
@@ -1889,12 +2010,13 @@ Fernmetastasen
 
 **Einschreibung**
 
-| Primärtumor Datum der histologischen Sicherung |  |
-|---|---|
-| Kontralateraler Brustkrebs Datum der histologischen Sicherung |  |
-| Lokoregionäres Rezidiv Datum der histologischen Sicherung |  |
-| Fernmetastasen Datum der diagnostischen Sicherung von |  |
-| Fernmetastasen |  |
+Primärtumor Datum der histologischen Sicherung
+
+Kontralateraler Brustkrebs Datum der histologischen Sicherung
+
+Lokoregionäres Rezidiv Datum der histologischen Sicherung
+
+Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 
 #### Szenario 4
 
@@ -1918,7 +2040,9 @@ Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
 Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
-Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.03.2023 10.09.2024
+Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.04.2023 10.10.2024
+
+10.03.2023 10.09.2024
 
 10.03.2023 10.09.2024
 
@@ -1931,8 +2055,6 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.03.2023
 17.07.2022
 
 01.07.2022 01.01.2024
-
-10.04.2023  10.10.2024
 
 
 ---
@@ -1959,10 +2081,19 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.03.2023
 
 Primärtumor Datum der histologischen
 
-|  | von |  |
-|---|---|---|
-|  | **/ kontralateralen** |  |
-| Primärtumor Datum der histologischen Sicherung |  | 01.08.2024 |
+Fernmetastasen Datum der diagnostischen Sicherung von
+
+Fernmetastasen
+
+**Anamnese und Behandlungsstatus des Primärtumors / kontralateralen**  **Brustkrebses**
+
+Operative Therapie
+
+#### Szenario 2
+
+**Einschreibung**
+
+Primärtumor Datum der histologischen
 
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen**  **Brustkrebses**
 
@@ -1978,17 +2109,22 @@ Dieser Testfall ist unterteilt in zehn Szenarien
 
 Sicherung
 
+Sicherung
+
 ation und einer Fehleingabe zur
 
 aufgeführten Fehleingaben,
 
 01.08.2024
 
+01.03.2023 01.09.2024
+
+OP geplant 01.08.2024
+
 OP geplant, Anderes Vorgehen -Pakets DMP
 
 Allgemeines
 
-Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen Anamnese und Behandlungsstatus des Primärtumors / kontralateralen Brustkrebses Operative Therapie Szenario 2 Einschreibung Primärtumor Datum der  histologischen 01.03.2023  01.09.2024 OP geplant
 
 ---
 
@@ -2313,13 +2449,13 @@ Brustkrebs-Dokumentationsunterlagen
 
 **Administrative Daten**
 
-| DMP-Fallnummer |  |
-|---|---|
-| Datum der Erstellung |  |
-| Körpergröße |  |
-| Körpergewicht |  |
+DMP-Fallnummer
 
-(Versichertendaten 2
+Datum der Erstellung (Versichertendaten 2
+
+Körpergröße
+
+Körpergewicht
 
 **Einschreibung**
 
@@ -2341,11 +2477,16 @@ Ersatzverfahren
 
 **Erstdokumentation**
 
+TDV2630 13.04.2024
+
+170
+
+065
+
 03.04.2023
 
 BET, Mastektomie, Sentinel Lymphknoten-Biopsie, Axilläre  Lymphonodektomie
 
-TDV2630 13.04.2024  170 065
 
 ---
 

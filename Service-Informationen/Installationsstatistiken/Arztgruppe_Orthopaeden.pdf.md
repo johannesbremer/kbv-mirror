@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 4.98 **T2med**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -58,6 +59,8 @@ CGM Clinical Europe GmbH
 SAP SE
 
 T2med GmbH & Co. KG 1
+
+**Installationen 2.Q.2025**
 
 9.19
 
@@ -85,6 +88,8 @@ T2med GmbH & Co. KG 1
 
 1.08
 
+**Installationen 1.Q.2025**
+
 9.32
 
 4.18
@@ -110,6 +115,8 @@ T2med GmbH & Co. KG 1
 1.17
 
 1.08
+
+**Differenz**
 
 -13
 
@@ -140,8 +147,7 @@ T2med GmbH & Co. KG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.44 **QUINCY WIN**
 
@@ -157,6 +163,8 @@ T2med GmbH & Co. KG 1
 
 4.88 **inSuite**
 
+**Anbieter**
+
 Frey ADV GmbH
 
 Deutsche Telekom Clinical Solutions GmbH
@@ -170,6 +178,8 @@ medatixx GmbH & Co. KG
 S3 Praxiscomputer GmbH / Maximilian Flender
 
 Doc Cirrus GmbH 2
+
+**Installationen 2.Q.2025**
 
 8.5
 
@@ -185,6 +195,8 @@ Doc Cirrus GmbH 2
 
 3.3
 
+**Installationen 1.Q.2025**
+
 8.6
 
 7.6
@@ -198,6 +210,8 @@ Doc Cirrus GmbH 2
 3.8
 
 3.5
+
+**Differenz**
 
 -1
 

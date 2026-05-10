@@ -2,8 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **3.0.06.2025**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 3.45 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
@@ -35,6 +34,8 @@
 
 5.61 **EISHISTO**
 
+**Anbieter**
+
 NEXUS / DIGITAL PATHOLOGY GmbH
 
 NEXUS / DIGITAL PATHOLOGY GmbH
@@ -64,6 +65,8 @@ SAP SE
 NEXUS SWISSLAB GmbH
 
 EI Systems, Andreas Eicker 1
+
+**Installationen 2.Q.2025**
 
 7.1
 
@@ -95,6 +98,8 @@ EI Systems, Andreas Eicker 1
 
 2
 
+**Installationen 1.Q.2025**
+
 6.9
 
 6.5
@@ -124,6 +129,8 @@ EI Systems, Andreas Eicker 1
 2
 
 2
+
+**Differenz**
 
 2
 
@@ -158,8 +165,7 @@ EI Systems, Andreas Eicker 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 4.55 **imassense ISG**
 
@@ -171,6 +177,8 @@ EI Systems, Andreas Eicker 1
 
 0.78 **Med7**
 
+**Anbieter**
+
 imassense Deutschland GmbH
 
 medatixx GmbH & Co. KG
@@ -181,6 +189,8 @@ CompuGroup Medical Deutschland AG
 
 Bitron GmbH Technologiesysteme 2
 
+**Installationen 2.Q.2025**
+
 2
 
 2
@@ -190,6 +200,8 @@ Bitron GmbH Technologiesysteme 2
 1
 
 1
+
+**Installationen 1.Q.2025 Differenz**
 
 2
 

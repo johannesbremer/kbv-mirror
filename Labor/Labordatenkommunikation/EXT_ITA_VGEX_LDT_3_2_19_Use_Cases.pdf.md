@@ -1973,62 +1973,32 @@ Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0069  Au
 
 Obj_0013  47112345678  47112345678  3  Person  Obj_0047  10  Zusatzarzt
 
-|  | Objektattribut |  |
-|---|---|---|
-|  | ObjektIdent |  |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| Status | Person |  |
-|  | Namenszusatz |  |
-|  | Vorsatzwort |  |
-| Nachname |  |  |
-| Vorname |  |  |
-|  | Geburtsdatum |  |
-| Titel |  |  |
-|  | Geschlecht |  |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| PLZ |  |  |
-| Ort |  |  |
-| Straße |  |  |
-|  | Hausnummer |  |
-|  | Anschriftenzusatz |  |
-|  | Wohnsitzländercode |  |
-|  | Objektende |  |
-|  | Objektende |  |
-|  | Versicherten-ID |  |
-|  | Patientennummer |  |
-|  | Objektende |  |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| Größe | der Person |  |
-| Einheit | des | Meßwertes |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| Datum | des | Timestamp |
-| Uhrzeit | des | Timestamp |
-| Zeitzone |  |  |
-|  | Objektende |  |
-| Gewicht | der | Person |
-| Einheit | des | Meßwertes |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| Datum | des | Timestamp |
-| Uhrzeit | des | Timestamp |
-| Zeitzone |  |  |
-|  | Objektende |  |
-|  | Objektende |  |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-|  | Auftragsnummer | des Einsenders |
-| ID | Auftragsnummer | des Labors |
-|  | zusätzlicher | Befundweg |
-|  | Objektattribut |  |
-|  | ObjektIdent |  |
-| Status | Person |  |
-|  | Nachname |  |
+Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
 
-Status Person Größe der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Gewicht der Person Einheit des Meßwertes Datum des Timestamp Uhrzeit des Timestamp Auftragsnummer des Einsenders ID Auftragsnummer des Labors zusätzlicher Befundweg Status Person
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende  Objektende  Versicherten-ID  Patientennummer  Objektende  Objektattribut  ObjektIdent
+
+Größe der Person
+
+Einheit des Meßwertes
+
+Objektattribut
+
+ObjektIdent
+
+Datum des Timestamp
+
+Uhrzeit des Timestamp
+
+Zeitzone
+
+Objektende
+
+Gewicht der Person
+
+Einheit des Meßwertes
+
+Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzone  Objektende  Objektende  Objektattribut  ObjektIdent  Auftragsnummer des Einsenders  ID Auftragsnummer des Labors  zusätzlicher Befundweg  Objektattribut  ObjektIdent  Status Person  Nachname
+
 
 ---
 

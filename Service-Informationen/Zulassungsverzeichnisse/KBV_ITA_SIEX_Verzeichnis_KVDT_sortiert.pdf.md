@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**02. MAI 2026**
+**09. MAI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -38,7 +38,7 @@
 
 Internet: www.elea.health
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 System mit APK
 
@@ -161,7 +161,7 @@ iOS/Android Linux Mac OS Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -209,8 +209,9 @@ iOS/Android Linux Mac OS Windows
 
 ---
 
-|  | System ohne APK | Y/200/2306/36/643 | 31.05.2026 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**smartLIS Laborinformationssystem** **Abrechnungsmodul**
+
+**labdock GmbH** Helenenstieg 4 22765 Hamburg Internet: www.labdock.de
 
 **GenLAB8**
 
@@ -229,15 +230,21 @@ iOS/Android Linux Mac OS Windows
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
-System mit APK
+System ohne APK
 
 System mit APK
 
 System mit APK
+
+System mit APK
+
+Y/200/2306/36/643
 
 Y/202/2307/36/609
 
 Y/203/2307/36/636
+
+31.05.2026 Satzart: Überweisung
 
 Satzart: Ambulante Behandlung
 
@@ -251,11 +258,13 @@ Satzart: Ambulante Behandlung
 
 30.06.2026 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
-Windows
+Linux Mac OS Windows
 
 Windows
 
-smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de Linux Mac OS WindowsLinux Mac OS Windows
+Windows
+
+Linux Mac OS Windows
 
 
 ---
@@ -264,8 +273,9 @@ smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-|  | System ohne APK | Y/200/2307/36/525 | 30.06.2026 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**QuickCON**
+
+**BS software development GmbH &** **Co.KG** Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de
 
 **apraxos**
 
@@ -284,15 +294,21 @@ Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
 System mit APK
 
+System ohne APK
+
 System mit APK
 
 System ohne APK
 
 Y/1/2507/36/626
 
+Y/200/2307/36/525
+
 Y/1/2401/36/602
 
 Y/203/2507/36/493 30.06.2028
+
+30.06.2026
 
 31.12.2026
 
@@ -300,15 +316,19 @@ Y/203/2507/36/493 30.06.2028
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
+Satzart: Überweisung
+
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
 iOS/Android Linux Mac OS Sonstige Windows
 
+Mac OS Windows
+
 Linux
 
-QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de Mac OS WindowsLinux Sonstige Windows
+Linux Sonstige Windows
 
 
 ---
@@ -317,8 +337,9 @@ QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm In
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-|  | System ohne APK | Y/207/2501/36/478 | 31.12.2027 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**PathoFlow**
+
+**Florian Kaiser** Klosteranger 15 83629 Weyarn
 
 **inSuite**
 
@@ -335,15 +356,21 @@ QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm In
 
 System mit APK
 
+System ohne APK
+
 System mit APK
 
 System mit APK
 
 Y/1/2501/36/498 Y/500/2501/36/498
 
+Y/207/2501/36/478
+
 Y/1/2407/36/488
 
 Y/1/2407/36/494 31.12.2027 31.12.2027
+
+31.12.2027
 
 30.06.2027
 
@@ -351,15 +378,19 @@ Y/1/2407/36/494 31.12.2027 31.12.2027
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
 
+Satzart: Überweisung
+
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 iOS/Android Linux Mac OS Windows
 
+Windows
+
 iOS/Android Linux Mac OS Sonstige Windows
 
-PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn WindowsWindows
+Windows
 
 
 ---
@@ -368,8 +399,9 @@ PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn WindowsWindows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
 
-|  | System ohne APK | Y/200/2402/36/466 | 31.01.2027 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**CGM VT**
+
+**CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
 **PalliDoc**
 
@@ -390,17 +422,25 @@ System ohne APK
 
 System ohne APK
 
+System ohne APK
+
 Y/1/2401/36/487
+
+Y/200/2402/36/466
 
 Y/1/2403/36/454
 
 Y/207/2307/36/455 31.12.2026
+
+31.01.2027
 
 28.02.2027
 
 30.06.2026
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Überweisung
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
@@ -410,7 +450,9 @@ Windows
 
 Windows
 
-CGM VT CGM LAB International GmbH Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com WindowsLinux Sonstige Windows
+Windows
+
+Linux Sonstige Windows
 
 
 ---
@@ -607,8 +649,9 @@ Windows
 
 ---
 
-|  | System ohne APK | Y/200/2601/36/395 | 31.12.2028 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**LIS++**
+
+**4labs software gmbh, c/o MVZ Dr.** **Klein Dr. Schmitt & Partner** Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu
 
 **CLASSY RT**
 
@@ -625,13 +668,23 @@ Windows
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
+System ohne APK
+
 System mit APK
 
-Y/1/2501/36/385 31.12.2027
+Y/200/2601/36/395
+
+Y/1/2501/36/385 31.12.2028
+
+31.12.2027
+
+Satzart: Überweisung
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu Linux Windows H&S Laborsoftware Limbach Gruppe SE Marktstraße 32 - 34 65428 Rüsselsheim Internet: www.hus-soft.de proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Sonstige Windows WindowsWindows
+Linux Windows
+
+H&S Laborsoftware Limbach Gruppe SE Marktstraße 32 - 34 65428 Rüsselsheim Internet: www.hus-soft.de proLAB SysTek GmbH Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de Linux Sonstige Windows WindowsWindows
 
 
 ---
@@ -652,7 +705,7 @@ LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler St
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -716,7 +769,7 @@ Windows
 
 **CompuGroup Medical Dentalsysteme** **GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -764,8 +817,9 @@ Windows
 
 ---
 
-|  | System ohne APK | Y/200/2309/36/475 | 31.08.2026 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**Pegasus Software für Pathologie und** **Zytologie**
+
+**Pegasus Datensysteme** Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de
 
 **amasys**
 
@@ -780,15 +834,23 @@ Windows
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
+System ohne APK
+
 System mit APK
 
 System mit APK
+
+Y/200/2309/36/475
 
 Y/1/2307/36/323
 
-Y/1/2601/36/320 30.06.2026
+Y/1/2601/36/320 31.08.2026
+
+30.06.2026
 
 31.12.2028
+
+Satzart: Überweisung
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
@@ -796,7 +858,9 @@ Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Beh
 
 Windows
 
-Pegasus Software für Pathologie und Zytologie Pegasus Datensysteme Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de WindowsWindows
+Windows
+
+Windows
 
 
 ---
@@ -823,7 +887,7 @@ Internet: www.rescuepro.de
 
 Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -877,8 +941,9 @@ Windows
 
 Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
-|  | System ohne APK | Y/200/2307/36/730 | 30.06.2026 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**SYLAB**
+
+**Labor Dr. von Froreich GmbH** Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de
 
 **GLIMS**
 
@@ -899,13 +964,19 @@ System mit APK
 
 System ohne APK
 
+System ohne APK
+
 System mit APK
 
 Y/500/2601/36/298 Y/1/2601/36/298
 
+Y/200/2307/36/730
+
 Y/201/2402/36/729
 
 Y/500/2307/36/295 Y/1/2307/36/295 Y/7/2507/36/295 31.12.2028 31.12.2028
+
+30.06.2026
 
 31.01.2027
 
@@ -913,15 +984,19 @@ Y/500/2307/36/295 Y/1/2307/36/295 Y/7/2507/36/295 31.12.2028 31.12.2028
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
+Satzart: Überweisung
+
 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst NDT
 
 Windows
 
+Linux
+
 Windows
 
-SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de LinuxLinux Mac OS Windows
+Linux Mac OS Windows
 
 
 ---
@@ -930,8 +1005,9 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
 
-|  | System ohne APK | Y/200/2501/36/728 | 31.12.2027 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**EKM-LAB**
+
+**Medizinisches Labor Ostsachsen** **MVZ eGbR** Flinzstraße 1 02625 Bautzen Internet: www.labor-ostsachsen.de
 
 **EISHISTO**
 
@@ -958,13 +1034,19 @@ System mit APK
 
 System ohne APK
 
+System ohne APK
+
 System mit APK
 
 Y/1/2601/36/290
 
+Y/200/2501/36/728
+
 Y/207/2507/36/561
 
 Y/1/2407/36/280 Y/500/2412/36/280 31.12.2028
+
+31.12.2027
 
 30.06.2028
 
@@ -974,13 +1056,17 @@ Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Beh
 
 Satzart: Überweisung
 
+Satzart: Überweisung
+
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
 
 Windows
 
 Windows
 
-EKM-LAB Medizinisches Labor Ostsachsen MVZ eGbR Flinzstraße 1 02625 Bautzen Internet: www.labor-ostsachsen.de WindowsWindows
+Windows
+
+Windows
 
 
 ---
@@ -1489,8 +1575,9 @@ Windows
 
 **CompuGroup Medical Deutschland** **AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-|  | System ohne APK | Y/200/2501/36/473 | 31.12.2027 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
+**KVDT (ADT)**
+
+**IFMS - Institut für medizinische** **Software GmbH** Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de
 
 **J-MED**
 
@@ -1507,15 +1594,21 @@ Windows
 
 System mit APK
 
+System ohne APK
+
 System mit APK
 
 System mit APK
 
 Y/500/2407/36/203 Y/1/2407/36/203
 
+Y/200/2501/36/473
+
 Y/1/2407/36/195
 
 Y/1/2308/36/192 30.06.2027 30.06.2027
+
+31.12.2027
 
 30.06.2027
 
@@ -1523,6 +1616,8 @@ Y/1/2308/36/192 30.06.2027 30.06.2027
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
+Satzart: Überweisung
+
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
@@ -1531,7 +1626,9 @@ Windows
 
 Windows
 
-KVDT (ADT) IFMS - Institut für medizinische Software GmbH Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de WindowsWindows
+Windows
+
+Windows
 
 
 ---
@@ -1554,7 +1651,7 @@ Internet: www.medys.de
 
 **NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|
@@ -1682,7 +1779,7 @@ Windows
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 02. Mai 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 09. Mai 2026
 
 |  | **Arzt-Patienten-** |  | **Prüfnummer(n)** |  | **unterstützte** |
 |---|---|---|---|---|---|

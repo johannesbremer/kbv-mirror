@@ -177,25 +177,39 @@ Gesetzliche Spezifikationsaufträge  der IOP-Governance Verordnung
 
 ### aktueller IOP-
 
-**Standards**
+### Standards
 
-|  | **erbringende** |  |
-|---|---|---|
-| Erhöhung der Produktqualität |  |  |
-|  | Rückversicherung über | Sicherheit des Daten- |
-| durch Sicherung aktueller IOP- |  |  |
-|  | Einhaltung von IOP-Standards | austauschs |
-| Standards |  |  |
-|  | Harmonisierte | Mündigkeit über |
-| Bewegung im Markt & |  |  |
+### Industrie
+
+Erhöhung der Produktqualität
+
+durch Sicherung aktueller IOP-
+
+Standards
+
+Bewegung im Markt &
 
 Innovationskraft
 
-### Leistungs-
+### Leistungs- erbringende
+
+Rückversicherung über
+
+Einhaltung von IOP-Standards
+
+Harmonisierte
 
 Versorgungsabläufe
 
-Industrie Patient:innenDatenqualität
+### Patient:innen
+
+Sicherheit des Daten-
+
+austauschs
+
+Mündigkeit über
+
+Datenqualität
 
 
 ---

@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
@@ -33,6 +32,8 @@
 
 2.44 **QUINCY WIN**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG
@@ -58,6 +59,8 @@ T2med GmbH & Co. KG
 CGM Clinical Europe GmbH
 
 Frey ADV GmbH 1
+
+**Installationen 2.Q.2025**
 
 1.706
 
@@ -85,6 +88,8 @@ Frey ADV GmbH 1
 
 1.60
 
+**Installationen 1.Q.2025**
+
 1.740
 
 7.86
@@ -110,6 +115,8 @@ Frey ADV GmbH 1
 1.87
 
 1.62
+
+**Differenz**
 
 -34
 
@@ -140,8 +147,7 @@ Frey ADV GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 3.43 **SAP Ambulatory Care Management**
 
@@ -157,6 +163,8 @@ Frey ADV GmbH 1
 
 0.15 **MEDYS**
 
+**Anbieter**
+
 SAP SE
 
 Deutsche Telekom Clinical Solutions GmbH
@@ -170,6 +178,8 @@ medatixx GmbH & Co. KG
 PEGA Elektronik GmbH
 
 MEDYS GmbH 2
+
+**Installationen 2.Q.2025**
 
 1.48
 
@@ -185,6 +195,8 @@ MEDYS GmbH 2
 
 8.5
 
+**Installationen 1.Q.2025**
+
 1.57
 
 1.36
@@ -198,6 +210,8 @@ MEDYS GmbH 2
 9.6
 
 8.9
+
+**Differenz**
 
 -9
 

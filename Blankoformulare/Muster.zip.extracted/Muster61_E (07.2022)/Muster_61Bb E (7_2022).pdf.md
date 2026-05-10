@@ -117,7 +117,7 @@ Krankenkasse bzw. Kostenträger
 | **Mobilität** | **Kognition** | **Schmerz** | **Herz-/Lungenfunktion** |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
-| TUGsek **+**sek | MMST / 30 | / 10 | ErgometrieWatt |
+| TUGsek **+**sek | MMST / 30 | / 10 | WattErgometrie |
 | Rise |  | skala |  |
 | Hand- |  |  |  |
 | kg **oder**kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |

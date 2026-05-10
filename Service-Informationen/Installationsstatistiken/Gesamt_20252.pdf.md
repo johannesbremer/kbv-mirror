@@ -2,8 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnun**
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
-|---|---|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 4.57 **tomedo**
 
@@ -62,6 +61,8 @@
 4.21 **EVIDENT**
 
 **gen. Auflistung aller System- und Softwareanbieter. Sortiert n**
+
+**Anbieter**
 
 Zollsoft GmbH
 
@@ -123,6 +124,8 @@ EVIDENT GmbH
 
 **ach Veränderungen zum Vorquartal. Datenstand: 30.06.2025**
 
+**%Anteil 2.Q.2025**
+
 3,3%
 
 4,6%
@@ -181,6 +184,8 @@ EVIDENT GmbH
 
 1
 
+**Installationen 2.Q.2025**
+
 3.883
 
 5.493
@@ -236,6 +241,8 @@ EVIDENT GmbH
 7.4
 
 7.20
+
+**Installationen 1.Q.2025**
 
 3.628
 
@@ -293,6 +300,8 @@ EVIDENT GmbH
 
 7.18
 
+**Differenz**
+
 2.55
 
 2.26
@@ -348,6 +357,8 @@ EVIDENT GmbH
 2
 
 2
+
+**Differenz in % zum 1.Q.2025**
 
 7,0%
 
@@ -408,8 +419,7 @@ EVIDENT GmbH
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
-|---|---|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 6.43 **smartLIS Laborinformationssystem Abrechnungsmodul**
 
@@ -479,6 +489,8 @@ EVIDENT GmbH
 
 **CGM CLINICAL**
 
+**Anbieter**
+
 labdock GmbH
 
 LABLIONS software & solutions GmbH
@@ -545,7 +557,11 @@ Müritz COMP Greifswald Computersystemhaus GmbH
 
 Fresenius Medical Care Deutschland GmbH
 
-CGM Clinical Deutschland GmbH 0,0%
+CGM Clinical Deutschland GmbH
+
+**%Anteil 2.Q.2025**
+
+0,0%
 
 0,0%
 
@@ -613,6 +629,8 @@ Austria GmbH 0,0%
 
 2
 
+**Installationen 2.Q.2025**
+
 4
 
 3.7
@@ -679,6 +697,8 @@ Austria GmbH 0,0%
 
 1
 
+**Installationen 1.Q.2025**
+
 2
 
 3.5
@@ -744,6 +764,8 @@ Austria GmbH 0,0%
 5
 
 1
+
+**Differenz Differenz in % zum 1.Q.2025**
 
 2 >100%
 
@@ -1018,8 +1040,7 @@ GmbH 3
 
 0,3%
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
-|---|---|---|---|---|---|---|---|
+**Installationen 2.Q.2025**
 
 1.3
 
@@ -1086,6 +1107,8 @@ GmbH 3
 1.04
 
 3.53
+
+**Installationen 1.Q.2025**
 
 1.3
 
@@ -1452,8 +1475,7 @@ nder 0,1%
 
 4
 
-| **Id** | **Praxissoftware** | **Anbieter** | **%Anteil 2.Q.2025** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** | **Differenz in % zum 1.Q.2025** |
-|---|---|---|---|---|---|---|---|
+**Installationen 2.Q.2025**
 
 1.60
 
@@ -1507,6 +1529,8 @@ nder 0,1%
 
 6.710
 
+**Installationen 1.Q.2025**
+
 1.65
 
 2.067
@@ -1558,6 +1582,8 @@ nder 0,1%
 6.464
 
 6.930
+
+**Differenz**
 
 -5
 

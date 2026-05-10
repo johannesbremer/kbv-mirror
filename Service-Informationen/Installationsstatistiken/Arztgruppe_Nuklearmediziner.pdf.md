@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.56 **medavis RIS**
 
@@ -33,6 +32,8 @@
 
 0.62 **EVA**
 
+**Anbieter**
+
 medavis GmbH
 
 CompuGroup Medical Deutschland AG
@@ -58,6 +59,8 @@ SAP SE
 Mesalvo Mannheim GmbH
 
 Abasoft EDV-Programme GmbH 1
+
+**Installationen 2.Q.2025**
 
 2.9
 
@@ -85,6 +88,8 @@ Abasoft EDV-Programme GmbH 1
 
 5
 
+**Installationen 1.Q.2025**
+
 3.0
 
 2.1
@@ -110,6 +115,8 @@ Abasoft EDV-Programme GmbH 1
 6
 
 5
+
+**Differenz**
 
 -1
 
@@ -140,8 +147,7 @@ Abasoft EDV-Programme GmbH 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 0.23 **DATA VITAL**
 
@@ -157,6 +163,8 @@ Abasoft EDV-Programme GmbH 1
 
 2.30 **QMED.PRAXIS**
 
+**Anbieter**
+
 CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
@@ -170,6 +178,8 @@ Deutsche Telekom Clinical Solutions Gmb
 T2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH 2
+
+**Installationen 2.Q.2025**
 
 4
 
@@ -185,6 +195,8 @@ H 3
 
 3
 
+**Installationen 1.Q.2025**
+
 4
 
 4
@@ -198,6 +210,8 @@ H 3
 2
 
 3
+
+**Differenz**
 
 0
 

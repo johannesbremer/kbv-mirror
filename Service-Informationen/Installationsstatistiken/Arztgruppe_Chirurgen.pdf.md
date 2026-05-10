@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.54 **ORBIS®**
 
@@ -33,6 +32,8 @@
 
 2.52 **CGM M1 PRO**
 
+**Anbieter**
+
 Dedalus HealthCare GmbH
 
 CompuGroup Medical Deutschland AG
@@ -58,6 +59,8 @@ medatixx GmbH & Co. KG
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 5.92
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 9.0
 
+**Installationen 1.Q.2025**
+
 5.81
 
 2.82
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 1.03
 
 9.0
+
+**Differenz**
 
 1.1
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 2.08 **NEXUS / KIS**
 
@@ -157,6 +163,8 @@ CompuGroup Medical Deutschland AG 1
 
 1.35 **EL - Elaphe Longissima**
 
+**Anbieter**
+
 NEXUS AG
 
 T2med GmbH & Co. KG
@@ -170,6 +178,8 @@ Frey ADV GmbH
 Duria eG
 
 medatixx GmbH & Co. KG 2
+
+**Installationen 2.Q.2025**
 
 6.1
 
@@ -185,6 +195,8 @@ medatixx GmbH & Co. KG 2
 
 2.9
 
+**Installationen 1.Q.2025**
+
 5.6
 
 4.8
@@ -198,6 +210,8 @@ medatixx GmbH & Co. KG 2
 3.2
 
 3.1
+
+**Differenz**
 
 5
 

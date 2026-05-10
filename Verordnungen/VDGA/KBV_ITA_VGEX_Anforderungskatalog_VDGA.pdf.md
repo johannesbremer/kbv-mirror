@@ -121,11 +121,13 @@ Der geänderte Anforderungskatalog nach § 73 Abs. 9 SGB V für DiGA in der Vers
 
 Die für die elektronische Verordnung relevante Pflichtfunktion P4-343 sowie das entsprechende Ak-
 
-| zeptanzkriterium 1b) der Pflichtfunktion P4-340, welche die elektronische Verordnung adressieren, |  |
-|---|---|
-| gilt Folgendes: Bis zum 01.01.2026 muss die Umsetzung der genannten Anforderungen der KBV im |  |
-| Verfahren eVDGA nachgewiesen werden und zur Verfügung stehen. Eine Freischaltung der Funktion |  |
-| zur elektronischen Verordnung an die Ärzte und Psychotherapeuten darf erst dann erfolgen, wenn |  |
+zeptanzkriterium 1b) der Pflichtfunktion P4-340, welche die elektronische Verordnung adressieren,
+
+gilt Folgendes: Bis zum 01.01.2026 muss die Umsetzung der genannten Anforderungen der KBV im
+
+Verfahren eVDGA nachgewiesen werden und zur Verfügung stehen. Eine Freischaltung der Funktion
+
+zur elektronischen Verordnung an die Ärzte und Psychotherapeuten darf erst dann erfolgen, wenn
 
 die gematik den produktiven Einsatz des Fachdienstes eRezept für den Vordruck e16D verkündet hat.
 

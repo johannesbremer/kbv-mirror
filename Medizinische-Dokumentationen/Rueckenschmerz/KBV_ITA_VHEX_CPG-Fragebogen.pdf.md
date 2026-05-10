@@ -10,8 +10,7 @@ Rückenschmerzen, d.h.
 
 *0 = kein Schmerz* und *10 = stärkster vorstellbarer Schmerz*
 
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[3] [4] [5]
 
 Kein
 
@@ -27,8 +26,7 @@ Wie würden Sie Ihre
 
 und *10 = stärkster vorstellbarer Schmerz*
 
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[3] [4] [5]
 
 Kein  Schmerz
 
@@ -40,12 +38,11 @@ Wie stark waren Ihre Rückenschmerzen
 
 und *10 = stärkster vorstellbarer Schmerz*
 
-[2]
-
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[2] [3]
 
 #### in den letzten 3 Monaten
+
+[4] [5]
 
 Kein
 
@@ -59,14 +56,13 @@ In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre alltäglic
 
 **5.**  (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn  und *10 = keine Aktivitäten mehr möglich*
 
-[0] [1] [2]
-
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[0] [1] [2] [3] [4]
 
 an etwa ______Tagen
 
 bedeuten?
+
+[5]
 
 Keine
 
@@ -78,10 +74,7 @@ In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
 
 *Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
 
-[0] [1] [2]
-
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[0] [1] [2] [3] [4] [5]
 
 Keine
 
@@ -91,12 +84,11 @@ In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
 
 **7.**  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Aktivitäten mehr möglich* bedeuten?
 
-[0] [1] [2]
-
-| [3] | [4] | [5] | [6] | [7] |
-|---|---|---|---|---|
+[0] [1] [2] [3] [4]
 
 *0 = keine Beeinträchtigung*
+
+[5]
 
 Keine
 
@@ -106,17 +98,33 @@ Quelle: Klasen et al. 2004, Seite 12 Appendix B
 
 #### jetzt im Augenblick
 
+[6] [7]
+
 in den letzten 3 Monaten einschätzen,
 
-bedeuten?
+[6]
 
 bedeuten?
+
+[6]
+
+bedeuten?
+
+[7]
 
 **im Durchschnitt**
 
+[7]
+
 *0 = keine Beeinträchtigung*
 
+[6] [7]
+
 beeinträchtigt, wenn  bedeuten?
+
+[6] [7]
+
+[6] [7]
 
 [8]
 

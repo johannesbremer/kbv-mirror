@@ -110,14 +110,15 @@ Substanz
 
 Häufigkeit
 
-| tgl. | wtl. | mtl. | vom |
-|---|---|---|---|
+tgl. wtl. mtl.
 
 Dauer
 
 h/tgl.
 
 Dauer
+
+vom
 
 ärztliche Unterschrift
 

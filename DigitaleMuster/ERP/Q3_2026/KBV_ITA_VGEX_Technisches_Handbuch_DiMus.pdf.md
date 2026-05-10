@@ -283,42 +283,35 @@ Abbildung 8: Formularfelder des digitalen Musters 39
 
 Die Änderungen der Versionen 2.30 und 2.31 treten zum 01.07.2026 in Kraft.
 
-**Version**
+**Version Datum Autor Änderung**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Begründung**
 
-2.31
+2.31 09.02.2026 KBV Korrektur der Bedingung für die KZV-Ab-
 
-| 09.02.2026 | KBV | Korrektur der Bedingung für die KZV-Ab- |  |
-|---|---|---|---|
-|  |  | rechnungsnummer (Feld 61c) |  |
-|  |  |  | Bereitstellung ei- |
-|  |  | Aktualisierung der Versionsnummer der |  |
-|  |  |  | nes BugFix-Re- |
-|  |  | FHIR-Profile |  |
-|  |  |  | lease |
-| 06.11.2025 | KBV | Aktualisierung der Profilversion auf 1.3.0 | Aufnahme des |
+rechnungsnummer (Feld 61c)
 
-2.30
+Bereitstellung ei-
 
-Elementes
+Aktualisierung der Versionsnummer der  nes BugFix-Re-
+
+FHIR-Profile
+
+lease
+
+2.30 06.11.2025 KBV Aktualisierung der Profilversion auf 1.3.0 Aufnahme des  Elementes
 
 meta.versionId
 
-Aufnahme der Anforderung P4-08 2.25
+Aufnahme der Anforderung P4-08
 
-| 18.12.2025 | KBV | Korrektur der Bedingung für die KZV-Ab- |  |
-|---|---|---|---|
-|  |  | rechnungsnummer |  |
-|  |  | Anpassung FHIR-Versionsnummer |  |
+2.25 18.12.2025 KBV Korrektur der Bedingung für die KZV-Ab-
 
-2.24
+rechnungsnummer   Anpassung FHIR-Versionsnummer
 
-| 11.03.2025 | KBV | Aufhebung der Streichung von Feld |  |
-|---|---|---|---|
-|  |  | „Zahnarztnummer der verantwortlichen |  |
-|  |  | Person“ (Feldnr. 52b) |  |
+2.24 11.03.2025 KBV Aufhebung der Streichung von Feld
+
+Zahnarztnummer der verantwortlichen  Person“ (Feldnr. 52b)
 
 2.23 24.02.2025 KBV Anpassung der Kardinalität des Feld
 
@@ -334,17 +327,15 @@ der 19, 29, 36, 42 und 50 des Informati- onsmodells  Redaktionelle Anpassungen
 
 sion 1.2.0 (Anforderungen P4-01, P4-02,  P4-03, P4-04 und P4-05)
 
-Anpassung des Informationsmodells der  Formularübergreifenden Daten 2.20
+Anpassung des Informationsmodells der  Formularübergreifenden Daten
 
-| 20.01.2025 | KBV | Verweis auf die elektronische Verord- |  |
-|---|---|---|---|
-|  |  | nung digitaler Gesundheitsanwendun- |  |
-|  |  | gen |  |
-| 15.02.2024 | KBV | Redaktionelle Korrekturen von Tabelle |  |
-|  |  | 52 (Block 50 und Feld 61a) |  |
-|  |  | Aktualisierung Muster 10 |  |
+2.20 20.01.2025 KBV Verweis auf die elektronische Verord-
 
-2.19
+nung digitaler Gesundheitsanwendun- gen
+
+2.19 15.02.2024 KBV Redaktionelle Korrekturen von Tabelle 52 (Block 50 und Feld 61a)
+
+Aktualisierung Muster 10
 
 **Seite**
 
@@ -374,15 +365,14 @@ Anpassung des Informationsmodells der  Formularübergreifenden Daten 2.20
 
 **79**
 
-52  (Block 50 und Feld 61a) **35ff**
+**35ff**
 
 
 ---
 
-**Version**
+**Version Datum Autor Änderung**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Begründung**
 
 Akzeptanzkriterium 3 der Anforderung Durch die Umstel-
 
@@ -487,10 +477,9 @@ gung der Informationen der Kostenträ- ger zur Anforderung P4-04
 
 ---
 
-**Version**
+**Version Datum Autor Änderung**
 
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Begründung**
 
 Anpassung der Beschreibung des Feldes  Betriebsstätte im Informationsmodell
 
@@ -591,10 +580,7 @@ giert.
 
 ---
 
-**Version**
-
-| **Datum** | **Autor** | **Änderung** | **Begründung** |
-|---|---|---|---|
+**Version Datum Autor Änderung**
 
 Korrektur der Feldbezeichnung  „0000_KBV Pruefnummer“ in
 
@@ -621,21 +607,21 @@ Korrektur der Feldbezeichnungen  „8630_auftragart_abklärungsdiagnos- tik“, 
 |---|---|---|---|
 |  |  | textfeld M10A_68 des Musters 10A |  |
 
-2.06
+2.06 24.07.2020 KBV Anpassung Muster 10
 
-| 24.07.2020 | KBV | Anpassung Muster 10 |  |
-|---|---|---|---|
-|  |  | Anpassung Muster 10A |  |
-| 14.11.2019 | KBV | Aufnahme von Muster 39 | Umstellung der |
-|  |  |  | Dokumentation |
-|  |  | Umbenennung der Prüfnummer |  |
-|  |  |  | zur Früherken- |
-|  |  |  | nung des Zervix- |
-|  |  | Verweis auf Lizenzbedingung | karzinoms |
-|  |  | Ergänzung der Zertifizierungshinweise zu |  |
-|  |  | Muster 39 |  |
+Anpassung Muster 10A
 
-2.05
+2.05 14.11.2019 KBV Aufnahme von Muster 39
+
+Umbenennung der Prüfnummer
+
+Verweis auf Lizenzbedingung
+
+Ergänzung der Zertifizierungshinweise zu  Muster 39
+
+**Begründung**
+
+Umstellung der  Dokumentation  zur Früherken- nung des Zervix- karzinoms
 
 **Seite**
 
@@ -1042,10 +1028,15 @@ Anzahl_Zeichen_Post- leitzahl
 
 Anzahl_Zei-
 
-| Ganze Zahl |  |
-|---|---|
-| (inkl. 0) |  |
-| Positive ganze | 0 |
+Positive 0
+
+Ganze Zahl  (inkl. 0)
+
+Positive ganze 0
+
+Zahl (inkl. 0)
+
+Positive ganze 0
 
 Zahl (inkl. 0)
 
@@ -1057,12 +1048,11 @@ Positive ganze 0
 
 Zahl (inkl. 0)
 
-| Zahl (inkl. 0) |  |
-|---|---|
-| Positive ganze | 0 |
-| Zahl (inkl. 0) |  |
+Positive ganze 0
 
-chen_Wohnsitzla- endercode
+chen_Wohnsitzla- Zahl (inkl. 0)
+
+endercode
 
 **Tabelle 1: Vom Softwarehersteller zu pflegende Metadaten**
 
@@ -2480,14 +2470,17 @@ Typ
 
 Standardwert Inhalt
 
-Auftragsnummer_Einsender
+Auftragsnummer_Einsender Alpha-numerisch 0
 
-| Alpha-numerisch | 0 |
-|---|---|
-| maximal 60 Zei- |  |
-| chen |  |
+Eine vom Einsender vergebene
 
-Eine vom Einsender vergebene  Identifikation für den Auftrag. Die  Befüllung dieses Metadatums ist  optional.
+maximal 60 Zei-
+
+Identifikation für den Auftrag. Die
+
+chen
+
+Befüllung dieses Metadatums ist  optional.
 
 **Tabelle 14: Spezifische Metadaten für Muster 10**
 
@@ -3523,14 +3516,11 @@ Typ
 
 Standardwert
 
-Auftragsnummer_Einsen-
-
-| Alpha-numerisch | 0 |
-|---|---|
-| maximal 60 Zei- |  |
-| chen |  |
+Auftragsnummer_Einsen- Alpha-numerisch 0
 
 der
+
+maximal 60 Zei- chen
 
 **Tabelle 23: Spezifische Metadaten für Muster 39**
 
@@ -3663,37 +3653,47 @@ NR. M39_33 M39_84 M39_85 M39_47 siehe Kapitel 3.4.2.18  M39_48 M39_50 M39_51 M39
 
 M39_63 3316_hpv_hr_testergeb- Ankreuzfeld
 
-|  |  | bündig |
-|---|---|---|
-|  |  | Schriftgröße: |
-|  |  | siehe Kapitel |
-|  |  | 3.4.2.27 |
-| 2 | 2 | Courier 12 pt, |
-|  |  | linksbündig |
+Stil: Kreuz
 
 nis_des_zytologischen_be- fundes_nicht_verwertbar
 
 M39_64 3317_virustyp_16_18_ja Ankreuzfeld
 
+Stil: Kreuz
+
 M39_86 3317_virustyp_16_18_nein Ankreuzfeld
+
+Stil: Kreuz
 
 M39_87 3317_virus-
 
 Ankreuzfeld
 
+Stil: Kreuz
+
 typ_16_18_nicht_differen- zierbar
 
 M39_65 8167_bemerkungen
 
-Mehrzeiliges Text- feld
+Mehrzeiliges Text- Schriftgrößen-abhängig: Courier, links-
+
+feld
+
+siehe Kapitel 3.4.2.27 bündig  Schriftgröße:  siehe Kapitel  3.4.2.27
 
 M39_66 7415_zytologische_kontrolle Ankreuzfeld
 
+Stil: Kreuz
+
 M39_67 7416_zytologische_kon- Ankreuzfeld
+
+Stil: Kreuz
 
 trolle_nach_entzuendungs- behandlung
 
 M39_68 7416_zytologische_kon- Ankreuzfeld
+
+Stil: Kreuz
 
 trolle_nach_oestrogenbe- handlung
 
@@ -3701,11 +3701,17 @@ M39_69 3318_hpv_test
 
 Ankreuzfeld
 
+Stil: Kreuz
+
 M39_70 3319_ko_test
 
 Ankreuzfeld
 
+Stil: Kreuz
+
 M39_71 7417_abklaerungskolposko- Ankreuzfeld
+
+Stil: Kreuz
 
 pie
 
@@ -3713,9 +3719,13 @@ M39_72 0000_zeitraum
 
 Ankreuzfeld
 
+Stil: Kreuz
+
 M39_73 3321_in_monaten
 
-Einzeiliges Textfeld
+Einzeiliges Textfeld 2 2
+
+Courier 12 pt,  linksbündig
 
 M39_74 3320_sofort
 
@@ -3735,7 +3745,7 @@ pel_1
 
 3.4.2.1 M39_01: 0000_alterskategorie_20_29_jahre, M39_02: 0000_alterskategorie_30_34_jahre und  M39_03: 0000_alterskategorie_ab_35_jahre
 
-Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Schriftgrößen-abhängig: Courier, links- siehe Kapitel 3.4.2.27 Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Stil: Kreuz Es muss entweder das Feld 0000_alterskategorie_20_29_jahre oder 0000_alterskategorie_30_34_jahre  oder 0000_alterskategorie_ab_35_jahre angekreuzt sein.
+Es muss entweder das Feld 0000_alterskategorie_20_29_jahre oder 0000_alterskategorie_30_34_jahre  oder 0000_alterskategorie_ab_35_jahre angekreuzt sein.
 
 
 ---
@@ -4465,10 +4475,9 @@ erfolgen:
 
 ---
 
-**KBV_PR_FOR_PRACTITIONER**
+#### KBV_PR_FOR_PRACTITIONER
 
-| **Daten** |  |  | **ID gemäß** |  |  | **FHIR®-Element** |  | **Bedingung** |
-|---|---|---|---|---|---|---|---|---|
+**Daten**
 
 Ausstellende / Verschreibende Person
 
@@ -4476,30 +4485,45 @@ Qualifikation der ausstel- lenden/ verschreibenden  Person
 
 Typ der ausstellenden/  verschreibenden Person
 
-Berufsbezeichnung der  ausstellenden/ verschrei- benden Person
+|  | 49 | qualification: |  |
+|---|---|---|---|
+|  |  | Berufsbezeichnung.code.text |  |
+| ASV-Fachgruppennummer | 147 | qualification:ASV- |  |
+| der ausstellenden/ ver- |  | Fachgruppennummer.code.codi |  |
+| schreibenden Person |  | ng.code |  |
 
-| ASV-Fachgruppennummer | 147 | qualification:ASV- |  |  |
-|---|---|---|---|---|
-| der ausstellenden/ ver- |  | Fachgruppennummer.code.codi |  |  |
-| schreibenden Person |  | ng.code |  |  |
+Identifikator der ausstel- lenden/ verschreibenden  Person
 
-| Identifikator der ausstel- | 42 | identifier |  |  |
-|---|---|---|---|---|
-| lenden/ verschreibenden |  |  |  |  |
-
-**Tabelle 52**
+**ID gemäß**  **Tabelle 52**
 
 146
 
 41
 
-49
+42
+
+**FHIR®-Element**
 
 qualification:Typ.code
 
-qualification:  Berufsbezeichnung.code.text
+identifier
 
-Person WENN das Feld 7 gemäß Tabelle 52 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „00“ oder „01“ oder „04“ ist und das Feld 147 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 7 gemäß Tabelle 52 gleich „GKV“ oder „BG“ oder „SKT“ oder „UK“ oder „PKV“ ist und das Feld 41 gemäß Tabelle 52 gleich „03“ ist und der Block 50 gemäß Tabelle 52 nicht vorhanden ist, DANN ist dieses Feld Pflicht. ANSONSTEN WENN das Feld 41 gemäß Tabelle 52 gleich „02“ ist oder das Feld 147 gemäß Tabelle 52 vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ANSONSTEN ist dieses Feld optional. WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden.
+**Bedingung**
+
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder „PKV“ ist und das Feld
+
+41 gemäß Tabelle 52 gleich „00“
+
+oder „01“ oder „04“ ist und das  Feld 147 gemäß Tabelle 52 nicht  vorhanden ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN WENN  das Feld 7 gemäß Tabelle 52 gleich  „GKV“ oder „BG“ oder „SKT“ oder  „UK“ oder „PKV“ ist und das Feld  41 gemäß Tabelle 52 gleich „03“ ist
+
+und der Block 50 gemäß Tabelle 52  nicht vorhanden ist,  DANN  ist dieses Feld Pflicht.
+
+ANSONSTEN WENN  das Feld 41 gemäß Tabelle 52  gleich „02“ ist oder das Feld 147  gemäß Tabelle 52 vorhanden ist,  DANN  darf dieses Feld nicht angegeben  werden.
+
+Berufsbezeichnung der ausstellenden/ verschrei- WENN das Feld 41 gemäß Tabelle 52 gleich „00“ oder „04“  und das Feld 17 gemäß Tabelle 52 gleich „01“ oder „11“ ist und das Feld 42 ge- mäß Tabelle 52 nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. ANSONSTEN darf dieses Feld nicht angegeben werden. ANSONSTEN  ist dieses Feld optional.
+
 
 ---
 
@@ -4794,10 +4818,7 @@ ANSONSTEN  darf dieses Feld nicht angegeben  werden.
 
 **Daten**
 
-| Identifikator der Einrich- |  | 61 |  |  | identifier |  | WENN |
-|---|---|---|---|---|---|---|---|
-
-tung
+Identifikator der Einrich- tung
 
 BSNR
 
@@ -4808,6 +4829,8 @@ KZV-Abrechnungsnum- mer
 Standortnummer
 
 **ID gemäß**  **Tabelle 52**
+
+61
 
 61a
 
@@ -4821,7 +4844,9 @@ Standortnummer
 
 **Bedingung**
 
-das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
+identifier
+
+WENN  das Feld 7 gemäß Tabelle 52 gleich  "GKV" oder "BG" oder "SKT" oder  "UK" oder “PKV“ ist und das Feld 41
 
 gemäß Tabelle 52 gleich "00" oder  "01" oder "03" oder "04" ist,  DANN  ist dieses Feld Pflicht.
 
@@ -5238,14 +5263,17 @@ VersichertenID 19a identifier:versichertenId WENN der Versicherte sich elektroni
 
 **KBV_PR_FOR_PATIENT**
 
-| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |  |
-|---|---|---|---|---|
+| Geburtsdatum des Versi- | 25 | Wenn Wert vorhanden, gilt | WENN |
+|---|---|---|---|
+| cherten |  | Mapping | in diesem Feld ein Datum angege- |
+|  |  | birthDate | ben wird, |
+|  |  | Wenn Wert nicht vorhanden, | DANN |
+|  |  | gilt Mapping | darf das Datum nicht nach dem |
+|  |  | birthDate.extension:data-absen | Ausstellungsdatum liegen. |
+|  |  | t-reason.value[x]:valueCode = |  |
+|  |  | unknown |  |
 
-cherten
-
-| Straßenadresse des Versi- | 27 | address:Strassenanschrift |  |  |
-|---|---|---|---|---|
-| cherten |  |  |  |  |
+Straßenadresse des Versi- cherten
 
 Wohnsitzländercode der  Versichertenanschrift
 
@@ -5257,7 +5285,9 @@ Straßenname der Versi- chertenanschrift
 
 Hausnummer der Versi- chertenanschrift
 
-Anschriftenzusatz der Ver- sichertenanschrift 28
+Anschriftenzusatz der Ver- sichertenanschrift 27
+
+28
 
 29
 
@@ -5269,23 +5299,11 @@ Anschriftenzusatz der Ver- sichertenanschrift 28
 
 33
 
-Mapping
+address:Strassenanschrift
 
-in diesem Feld ein Datum angege-
+WENN  der Block "Postfachanschrift des  Versicherten" nicht angegeben ist,  DANN  kann dieser Block angegeben  werden.
 
-birthDate
-
-ben wird,
-
-Wenn Wert nicht vorhanden, DANN
-
-gilt Mapping
-
-darf das Datum nicht nach dem
-
-birthDate.extension:data-absen Ausstellungsdatum liegen.
-
-t-reason.value[x]:valueCode =  unknown
+ANSONSTEN  darf dieser Block nicht angegeben  werden.
 
 address:Strassenanschrift.coun
 
@@ -5317,7 +5335,7 @@ address:Strassenanschrift.line[0
 
 Wenn Straßenname und/oder
 
-WENN der Block "Postfachanschrift des Versicherten" nicht angegeben ist, DANN kann dieser Block angegeben werden. ANSONSTEN darf dieser Block nicht angegeben werden. Hausnummer vorhanden, gilt  Mapping
+Hausnummer vorhanden, gilt  Mapping
 
 
 ---
@@ -5544,10 +5562,9 @@ Bedingung
 
 **Tabelle 52: Informationsmodell**
 
-**ID 1 2 3 4 5 6 FELDNAME**
+#### ID 1 2 3 4 5 6 FELDNAME
 
-| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|
+#### LÄNGE
 
 #### (GRAU = FELD- GRUPPE)
 
@@ -5563,7 +5580,9 @@ Kodiert
 
 kenkasse
 
-10   x    IK des Kostenträgers 9 1..1
+10   x    IK des Kostenträgers 9
+
+#### WIEDERH. BESCHREIBUNG 1..1
 
 Dieser Block enthält Daten  zum Kostenträger.
 
@@ -5583,6 +5602,8 @@ Dieses Feld enthält das Insti- tutionskennzeichen (IK) der  zuständigen Kranke
 
 Dieses Feld enthält das Insti- tutionskennzeichen (IK) und  wird verwendet, wenn der  Kostenträger nicht die zu- ständige Krankenkasse ist,  bspw. eine Berufsgenossen- schaft (BG) oder eine Unfall- kasse (UK).
 
+#### BEDINGUNGEN
+
 WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist,
 
 DANN  ist dieses Feld Pflicht.
@@ -5598,10 +5619,7 @@ ANSONSTEN  darf das Feld nicht übertragen werden.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-11   x
+#### ID 1 2 3 11   x
 
 12   x
 
@@ -5611,6 +5629,10 @@ ANSONSTEN  darf das Feld nicht übertragen werden.
 
 74
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 Name des Kostenträ- gers
 
 WOP
@@ -5619,13 +5641,17 @@ Unfallinformationen
 
 x   Unfallkennzeichen
 
-x   Unfalltag 1..45
+x   Unfalltag
+
+#### LÄNGE 1..45
 
 Kodiert
 
 Kodiert 4..10
 
-1..1
+#### WIEDERH. BESCHREIBUNG
+
+#### BEDINGUNGEN 1..1
 
 Dieses Feld enthält den Na-
 
@@ -5663,15 +5689,12 @@ kann dieses Feld übertragen werden.
 
 das Feld "Unfallkennzeichen" gleich "1" oder "2"  ist,
 
-FELDNAME (GRAU = FELD- GRUPPE) DANN  ist dieses Feld Pflicht.
+DANN  ist dieses Feld Pflicht.
 
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-75
+#### ID 1 2 3 75
 
 76  x
 
@@ -5681,6 +5704,10 @@ FELDNAME (GRAU = FELD- GRUPPE) DANN  ist dieses Feld Pflicht.
 
 14   x
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 x   Name des Unfallbe- triebs
 
 Informationen GKV
@@ -5689,11 +5716,17 @@ Zuzahlungsstatus
 
 Versichertenstatus
 
-Versichertenart 1..45
+Versichertenart
+
+#### LÄNGE 1..45
 
 Kodiert
 
-Kodiert 0..1
+Kodiert
+
+#### WIEDERH.
+
+0..1
 
 0..1
 
@@ -5702,6 +5735,8 @@ Kodiert 0..1
 0..1
 
 1..1
+
+#### BESCHREIBUNG
 
 Dieses Feld enthält den Na- men des Arbeitgebers oder  Dienstherrn, in dessen Ein- flussbereich sich der Unfall  (auch Wegeunfall) ereig- nete.
 
@@ -5712,6 +5747,8 @@ In diesem Feld wird der Zu- zahlungsstatus für die Ver- ordnung angegeben.
 Dieser Block enthält Anga- ben zum Versichertenstatus.
 
 Dieses Feld enthält die Art  der Versicherung, z.B. ob  der Versicherte Familienver- sicherter, Mitglied oder  Rentner ist.
+
+#### BEDINGUNGEN
 
 ANSONSTEN  darf dieses Feld nicht übertragen werden.
 
@@ -5727,14 +5764,10 @@ DANN  ist dieser Block Pflicht.
 
 ANSONSTEN  ist dieser Block optional.
 
-FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-15   x
+#### ID 1 2 3 15   x
 
 16   x
 
@@ -5745,6 +5778,10 @@ FELDNAME (GRAU = FELD- GRUPPE)
 138  x
 
 139   x
+
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
 
 Besondere Personen- gruppe
 
@@ -5758,13 +5795,19 @@ Informationen PKV
 
 PKV-Tarifart
 
+#### LÄNGE
+
 Kodiert
 
 Kodiert
 
 Kodiert 10
 
-Kodiert 1..1
+Kodiert
+
+#### WIEDERH.
+
+1..1
 
 1..1
 
@@ -5773,6 +5816,8 @@ Kodiert 1..1
 0..1
 
 0..1
+
+#### BESCHREIBUNG
 
 Dieses Feld enthält die be- sondere Personengruppe,  zu der der Versicherte ge- hört (§ 264 SGB V).
 
@@ -5788,11 +5833,13 @@ Dieser Block enthält Infor- mationen zur privaten Kran- kenversicherung.
 
 Dieses Feld enthält die PKV- Tarifart des Versicherten.
 
+#### BEDINGUNGEN
+
 WENN  das Feld "Kostenträgertyp" gleich "PKV" ist DANN  ist dieser Block optional.
 
 ANSONSTEN  darf dieser Block nicht angegeben
 
-FELDNAME (GRAU = FELD- GRUPPE) werden.
+werden.
 
 
 ---
@@ -5819,12 +5866,11 @@ KVK-Versichertennum- mer
 
 Name des Versicherten
 
-| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|
-
-10
+#### LÄNGE 10
 
 6..12
+
+#### WIEDERH.
 
 0..1
 
@@ -5836,6 +5882,8 @@ Name des Versicherten
 
 1..1
 
+#### BESCHREIBUNG
+
 Dieser Block enthält Daten  zum Versicherten.
 
 Dieses Feld enthält den  Identifikator der Person, z.B.  die Krankenversicherungs- nummer der GKV oder PKV.
@@ -5845,6 +5893,8 @@ Dieses Feld enthält die Ver- sichertenID der gesetzlichen  Krankenversicherung 
 Dieses Feld enthält die Ver- sichertennummer der Kran- kenversichertenkarte.
 
 Dieser Block enthält die Be- standteile des Namens des  Versicherten.
+
+#### BEDINGUNGEN
 
 WENN  der Versicherte sich elektronisch ausgewiesen hat  und das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ DANN  ist dieser Block Pflicht.
 
@@ -5863,10 +5913,7 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-20   x
+#### ID 1 2 3 20   x
 
 21   x
 
@@ -5878,6 +5925,10 @@ ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
 25  x
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 Vorname des Versicher- ten
 
 Nachname des Versi- cherten
@@ -5888,7 +5939,9 @@ Namenszusatz des Ver- sicherten
 
 Vorsatzwort des Versi- cherten
 
-Geburtsdatum des Ver- sicherten 1..45
+Geburtsdatum des Ver- sicherten
+
+#### LÄNGE 1..45
 
 1..45
 
@@ -5900,7 +5953,7 @@ Geburtsdatum des Ver- sicherten 1..45
 
 4..10  oder  NULL
 
-1..1
+#### WIEDERH. BESCHREIBUNG 1..1
 
 Dieses Feld enthält den Vor- namen des Versicherten;  mehrere Vornamen sind  durch Blank oder Binde- strich getrennt.
 
@@ -5924,7 +5977,9 @@ Dieses Feld enthält das Vor- satzwort als Bestandteil des  Nachnamens des Versi
 
 Dieses Feld gibt das Ge- burtsdatum des Versicher- ten an.
 
-FELDNAME (GRAU = FELD- GRUPPE) WENN  in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.
+#### BEDINGUNGEN
+
+WENN  in diesem Feld ein Datum angegeben wird,  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.
 
 
 ---
@@ -5949,20 +6004,23 @@ Postleitzahl der Versi- chertenanschrift
 
 Ortsname der Versi- chertenanschrift
 
-| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|
+#### LÄNGE
 
 Kodiert  1..3 1..10
 
 1..40
 
-0..1
+#### WIEDERH.
 
 0..1
 
 0..1
 
 0..1
+
+0..1
+
+#### BESCHREIBUNG
 
 Dieser Block enthält Infor- mationen zur Straßenad- resse des Versicherten.
 
@@ -5971,6 +6029,8 @@ Dieses Feld enthält den  Wohnsitzländercode (ent- sprechend Gemeinsames  Runds
 In Dieses Feld enthält die  Postleitzahl.
 
 In Dieses Feld enthält den  Ortsnamen. Mehrere Na- mensbestandteile sind
+
+#### BEDINGUNGEN
 
 WENN  der Block "Postfachanschrift des Versicherten"  nicht angegeben ist,
 
@@ -5991,10 +6051,7 @@ ANSONSTEN  ist dieses Feld optional.
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-31   x
+#### ID 1 2 3 31   x
 
 32   x
 
@@ -6006,6 +6063,10 @@ ANSONSTEN  ist dieses Feld optional.
 
 36   x
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 Straßenname der Versi- chertenanschrift
 
 Hausnummer der Versi- chertenanschrift
@@ -6016,7 +6077,9 @@ Postfachanschrift des  Versicherten
 
 Wohnsitzländercode  der Versicherten-Post- fachanschrift
 
-Postleitzahl der Versi- cherten-Postfachan- schrift 1..46
+Postleitzahl der Versi- cherten-Postfachan- schrift
+
+#### LÄNGE 1..46
 
 1..9
 
@@ -6024,7 +6087,7 @@ Postleitzahl der Versi- cherten-Postfachan- schrift 1..46
 
 Kodiert  1..3 1..10
 
-0..1
+#### WIEDERH.
 
 0..1
 
@@ -6035,6 +6098,10 @@ Kodiert  1..3 1..10
 0..1
 
 0..1
+
+0..1
+
+#### BESCHREIBUNG
 
 durch Blank/Sonderzeichen  getrennt.
 
@@ -6050,6 +6117,8 @@ Dieses Feld enthält den  Wohnsitzländercode (ent- sprechend Gemeinsames  Runds
 
 Dieses Feld enthält die Post- leitzahl.
 
+#### BEDINGUNGEN
+
 WENN  der Block "Straßenadresse des Versicherten"  nicht angegeben ist,
 
 DANN  muss dieser Block angegeben werden.
@@ -6060,15 +6129,12 @@ WENN  der Versicherte sich nicht elektronisch ausgewie- sen hat und das Feld "Ko
 
 DANN  ist dieses Feld Pflicht.
 
-FELDNAME (GRAU = FELD- GRUPPE) ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat
+ANSONSTEN WENN  der Versicherte sich elektronisch ausgewiesen hat
 
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-37   x
+#### ID 1 2 3 37   x
 
 38   x
 
@@ -6079,6 +6145,12 @@ FELDNAME (GRAU = FELD- GRUPPE) ANSONSTEN WENN  der Versicherte sich elektronisch
 146   x
 
 41
+
+**4 5 6 FELDNAME**
+
+#### LÄNGE
+
+#### (GRAU = FELD- GRUPPE)
 
 Ortsname der Versi- cherten-Postfachan- schrift
 
@@ -6098,7 +6170,11 @@ stellenden/ verschrei- benden Person
 
 x   Typ der ausstellenden/ Kodiert
 
-verschreibenden Person 0..1
+verschreibenden Person
+
+#### WIEDERH.
+
+0..1
 
 0..1
 
@@ -6109,6 +6185,8 @@ verschreibenden Person 0..1
 1..1
 
 1..1
+
+#### BESCHREIBUNG
 
 Dieses Feld enthält den  Ortsnamen. Mehrere Na- mensbestandteile sind  durch Blank/Sonderzeichen  getrennt.
 
@@ -6122,34 +6200,38 @@ Dieser Block enthält Infor- mationen über die Qualifi- kation der ausstellende
 
 Dieses Feld enthält einen  Typ zur Kennzeichnung der  verschreibenden Person,  z.B. Arzt, Arzt in Weiterbil- dung.
 
+#### BEDINGUNGEN
+
 und das Feld „Wohnsitzländercode der Versicher- ten-Postfachanschrift“ gleich „D“ und das Feld  "Kostenträgertyp" gleich "GKV" oder "BG" oder  "SKT" oder "UK" oder „PKV“ ist
 
 DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  ist dieses Feld optional.
 
-FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-49
+#### ID 1 2 3 49
 
 147
 
 42   x
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 x   Berufsbezeichnung der  ausstellenden/ ver- schreibenden Person
 
 x   ASV-Fachgruppennum- mer der ausstellenden/  verschreibenden Person
 
-Identifikator der aus- stellenden/ verschrei- benden Person 1..100
+Identifikator der aus- stellenden/ verschrei- benden Person
+
+#### LÄNGE 1..100
 
 9
 
-1..1
+#### WIEDERH. BESCHREIBUNG 1..1
 
 Dieses Feld enthält eine  Freitextangabe zur Berufs- bezeichnung, z. B. Facharzt  für Allgemeinmedizin, Prak- tischer Arzt.
 
@@ -6160,6 +6242,8 @@ Dieses Feld enthält die ASV- Fachgruppennummer ge- mäß der ASV-Vereinbarung  
 0..1
 
 Dieser Block enthält den  Identifikator der Person, z.B.  eine Arztnummer (Lebens- lange Arztnummer LANR)  oder Zahnarztnummer  (ZANR) und kann zusätzlich  eine Telematik-ID enthalten.
+
+#### BEDINGUNGEN
 
 WENN  das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „00“ oder „04“ ist und das
 
@@ -6177,32 +6261,36 @@ vorhanden ist,  DANN  ist dieser Block Pflicht.  ANSONSTEN WENN  das Feld "Koste
 
 und das Feld „Typ der ausstellenden / verschrei- benden Person“ gleich „03“ ist und der Block  „Verantwortliche Person“ nicht vorhanden ist,
 
-FELDNAME (GRAU = FELD- GRUPPE) DANN  ist dieser Block Pflicht.
+DANN  ist dieser Block Pflicht.
 
 
 ---
 
-| **1** | **2** | **3** | **4** | **5** | **6** | **FELDNAME(GRAU = FELD-GRUPPE)** | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** |
-|---|---|---|---|---|---|---|---|---|---|
+**ID 1 2 3**
 
 | x |  |  | Arztnummer der aus-stellenden/ verschrei-benden Person | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eineArztnummer (LebenslangeArztnummer LANR). |
 |---|---|---|---|---|---|---|
 | x |  |  | Zahnarztnummer derder ausstellenden/ ver-schreibenden Person | 9 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person, eineZahnarztnummer (ZANR). |
 | x |  |  | Telematik-ID der aus-stellenden/ verschrei-benden Person | 1..128 | 0..1 | Dieses Feld enthält als Iden-tifikator der Person eine Te-lematik-ID. |
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
+#### LÄNGE WIEDERH. BESCHREIBUNG
+
+#### BEDINGUNGEN
+
 ANSONSTEN WENN  das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist,
 
 DANN  darf dieser Block nicht angegeben werden.
 
-ID BEDINGUNGEN 42a 42b 42c WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Per- son“ gleich „00“ oder „03“ oder „04“  ist, DANN ist dieses Feld Pflicht. ANSONSTEN  darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden. ANSONSTEN  ist dieser Block optional.
+42a 42b 42c WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Per- son“ gleich „00“ oder „03“ oder „04“  ist, DANN ist dieses Feld Pflicht. ANSONSTEN  darf dieses Feld nicht angegeben werden. WENN der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  ANSONSTEN darf dieses Feld nicht angegeben werden. ANSONSTEN  ist dieser Block optional.
 
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-43   x
+#### ID 1 2 3 43   x
 
 141   x
 
@@ -6211,6 +6299,10 @@ ID BEDINGUNGEN 42a 42b 42c WENN der Block „Identifikator der ausstellenden/ ve
 45
 
 46
+
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
 
 ASV-Teamnummer
 
@@ -6222,7 +6314,9 @@ x   Vorname der ausstel- lenden/ verschreiben- den Person
 
 x   Nachname der ausstel- lenden/ verschreiben- den Person
 
-x   Titel der ausstellenden/  verschreibenden Person 9
+x   Titel der ausstellenden/  verschreibenden Person
+
+#### LÄNGE 9
 
 1..45
 
@@ -6230,7 +6324,7 @@ x   Titel der ausstellenden/  verschreibenden Person 9
 
 1..100
 
-0..1
+#### WIEDERH. BESCHREIBUNG 0..1
 
 Dieses Feld wird im Rahmen  einer ambulanten spezial- fachärztlichen Versorgung  (ASV) genutzt. Jedes ASV- Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr kenn- zeichnen ASV-Ärzte die Leis- tungen oder Verordnungen,  die sie in der ASV durchfüh- ren. Die Teamnummer um- fasst neun Ziffern und ist  wie eine Betriebsstätten- nummer (BSNR) aufgebaut.  Sie wird vergeben, sobald  die Ärzte eine ASV-Berechti- gung haben  zusätzlich zur
 
@@ -6252,30 +6346,36 @@ Dieses Feld enthält den Fa- miliennamen der Person.
 
 Dieses Feld enthält den aka- demischen Grad der Person,
 
+#### BEDINGUNGEN
+
 WENN  das Feld „Kennzeichen Rechtsgrundlage“ den  Wert "01" oder "11" besitzt,  DANN  muss dieses Feld übertragen werden.
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
-FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-47
+#### ID 1 2 3 47
 
 48
 
 50  x
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 x   Namenszusatz der aus- stellenden/ verschrei- benden Person
 
 x   Vorsatzwort der aus- stellenden/ verschrei- benden Person
 
-Verantwortliche Person 1..20
+Verantwortliche Person
+
+#### LÄNGE 1..20
 
 1..20
+
+#### WIEDERH. BESCHREIBUNG
 
 z.B. „Dr. med.“, „Dr. rer.
 
@@ -6295,6 +6395,8 @@ Dieser Block enthält die Da- ten der verantwortlichen  Person, z.B. des zur Wei
 
 Der Block dient dazu, die  entsprechende Konstella- tion des Arztstempels abzu- bilden und eine Zuordnung  zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu  ermöglichen.
 
+#### BEDINGUNGEN
+
 WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" gleich „03“ ist und das Feld "Identifikator  der ausstellenden/ verschreibenden Person“  nicht vorhanden ist und das Feld „Typ der verant- wortlichen Person“ gleich „00“ oder „01“oder
 
 „04“ ist,
@@ -6305,7 +6407,7 @@ ANSONSTEN WENN  das Feld „Typ der ausstellenden/ verschreibenden  Person" glei
 
 der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist  oder das Feld „Typ der ausstellenden/ verschrei-
 
-FELDNAME (GRAU = FELD- GRUPPE) benden Person" gleich „04“ ist und das Feld „Typ
+benden Person" gleich „04“ ist und das Feld „Typ
 
 
 ---
@@ -6428,10 +6530,7 @@ x   Vorsatzwort der verant- wortlichen Person
 
 Einrichtung
 
-| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|
-
-1..45
+#### LÄNGE 1..45
 
 1..45
 
@@ -6441,7 +6540,9 @@ Einrichtung
 
 1..20
 
-1..1
+#### WIEDERH. BESCHREIBUNG
+
+#### BEDINGUNGEN 1..1
 
 Dieser Block enthält den Na-
 
@@ -6498,8 +6599,7 @@ der Einrichtung / Institution,  z.B. eine Betriebsstätte /  Praxis.
 
 **4 5 6 FELDNAME**
 
-| **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|
+#### LÄNGE
 
 #### (GRAU = FELD- GRUPPE)
 
@@ -6513,7 +6613,9 @@ x   IK-Nummer 9
 
 x   KZV-Abrechnungsnum- 9
 
-mer 0..1
+mer
+
+#### WIEDERH. BESCHREIBUNG 0..1
 
 Dieser Block enthält einen  Identifikator einer Einrich- tung in Form einer Betriebs- stättennummer (BSNR), IK- Nummer, KZV-Abrechnungs- nummer oder Standortnum- mer und kann zusätzlich  eine Telematik-ID enthalten.
 
@@ -6528,6 +6630,8 @@ Dieses Feld enthält ein Insti- tutionskennzeichen (IK),  welches von der ARGE·
 0..1
 
 Dieses Feld enthält eine Ab- rechnungsnummer der Kas- senzahnärztlichen Vereini-
+
+#### BEDINGUNGEN
 
 WENN  das Feld "Kostenträgertyp" gleich "GKV" oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist und das  Feld "Typ der ausstellenden/ verschreibenden  Person" gleich "00" oder "01" oder "03" oder  "04" ist,  DANN  ist dieser Block Pflicht.
 
@@ -6548,10 +6652,7 @@ schreibenden Person“ gleich „01“ ist, die Felder
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-61d
+#### ID 1 2 3 61d
 
 61e
 
@@ -6563,6 +6664,10 @@ schreibenden Person“ gleich „01“ ist, die Felder
 
 64
 
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
+
 x   Standortnummer
 
 x   Telematik-ID der Ein- richtung
@@ -6573,13 +6678,17 @@ Straßenadresse der Ein- richtung
 
 x   Wohnsitzländercode  der Einrichtung
 
-x   Postleitzahl der Einrich- tung 9
+x   Postleitzahl der Einrich- tung
+
+#### LÄNGE 9
 
 1..128
 
 1..60
 
 Kodiert 1..10
+
+#### WIEDERH.
 
 0..1
 
@@ -6592,6 +6701,8 @@ Kodiert 1..10
 0..1
 
 0..1
+
+#### BESCHREIBUNG
 
 gung (KZV). Abrechnungs- nummern des Zahnarz- tes/der Zahnärztin mit weni- ger als 9 Stellen sind mit vo- rangestellten Nullen ent- sprechend zu füllen.
 
@@ -6607,6 +6718,8 @@ Dieses Feld enthält den  Wohnsitzländercode (ent- sprechend Gemeinsames  Runds
 
 In Dieses Feld enthält die  Postleitzahl.
 
+#### BEDINGUNGEN
+
 "BSNR" und "IK-Nummer" und "Standortnum- mer" nicht vorhanden sind  DANN  ist dieses Feld Pflicht.
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
@@ -6615,14 +6728,10 @@ WENN  der Block „Identifikator der Einrichtung“ vorhan- den ist und die Feld
 
 ANSONSTEN  darf dieses Feld nicht angegeben werden.
 
-FELDNAME (GRAU = FELD- GRUPPE)
 
 ---
 
-| **ID** | **1** | **2** | **3** | **4** | **5** | **6** |  |  | **LÄNGE** | **WIEDERH.** | **BESCHREIBUNG** | **BEDINGUNGEN** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-65
+#### ID 1 2 3 65
 
 66
 
@@ -6637,6 +6746,10 @@ FELDNAME (GRAU = FELD- GRUPPE)
 70
 
 71
+
+**4 5 6 FELDNAME**
+
+#### (GRAU = FELD- GRUPPE)
 
 x   Ortsname der Einrich- tung
 
@@ -6654,7 +6767,9 @@ x   Faxnummer der Einrich-
 
 tung
 
-x   E-Mail der Einrichtung 1..40
+x   E-Mail der Einrichtung
+
+#### LÄNGE 1..40
 
 1..46
 
@@ -6668,13 +6783,9 @@ x   E-Mail der Einrichtung 1..40
 
 1..256
 
-1..1
+#### WIEDERH.
 
 1..1
-
-1..1
-
-0..1
 
 1..1
 
@@ -6682,7 +6793,17 @@ x   E-Mail der Einrichtung 1..40
 
 0..1
 
+1..1
+
+1..1
+
 0..1
+
+0..1
+
+#### BESCHREIBUNG
+
+#### BEDINGUNGEN
 
 Dieses Feld enthält den
 
@@ -6714,7 +6835,7 @@ nummer.
 
 Dieses Feld enthält die E-
 
-FELDNAME (GRAU = FELD- GRUPPE) Mail - Adresse der Einrich- tung.  Bei grenzüberschreitender  Einlösung einer Arzneimit- telverordnung ist diese  zwingend anzugeben.
+Mail - Adresse der Einrich- tung.  Bei grenzüberschreitender  Einlösung einer Arzneimit- telverordnung ist diese  zwingend anzugeben.
 
 
 ---

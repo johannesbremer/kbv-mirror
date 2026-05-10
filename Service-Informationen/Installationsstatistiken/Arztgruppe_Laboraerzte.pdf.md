@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 7.06 **MOLIS**
 
@@ -33,6 +32,8 @@
 
 2.80 **CGM MEDISTAR BLACK PRO**
 
+**Anbieter**
+
 CGM LAB International GmbH
 
 Medat Computersysteme GmbH
@@ -58,6 +59,8 @@ NEXUS SWISSLAB GmbH
 Limbach Gruppe SE
 
 CompuGroup Medical Deutschland AG 1
+
+**Installationen 2.Q.2025**
 
 2.8
 
@@ -85,6 +88,8 @@ CompuGroup Medical Deutschland AG 1
 
 6
 
+**Installationen 1.Q.2025**
+
 3.1
 
 1.7
@@ -110,6 +115,8 @@ CompuGroup Medical Deutschland AG 1
 7
 
 8
+
+**Differenz**
 
 -3
 
@@ -140,8 +147,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id Praxissoftware**
 
 7.03 **ELADIS**
 
@@ -157,6 +163,8 @@ CompuGroup Medical Deutschland AG 1
 
 4.88 **inSuite**
 
+**Anbieter**
+
 LabKom Biochemische Dienstleistungen GmbH
 
 medatixx GmbH & Co. KG
@@ -169,7 +177,11 @@ SAP SE
 
 CompuGroup Medical Deutschland AG
 
-Doc Cirrus GmbH 5
+Doc Cirrus GmbH
+
+**Installationen 2.Q.2025**
+
+5
 
 4
 
@@ -184,6 +196,8 @@ Doc Cirrus GmbH 5
 3
 
 2
+
+**Installationen 1.Q.2025 Differenz**
 
 5
 

@@ -40,10 +40,7 @@ nehmen und bestätige dies mit meiner Unterschrift.
 
 weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
-Bitte das heutige Datum eintragen.
-
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -95,7 +92,7 @@ ent -
 
 Indikationsübergreifend
 
-J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
 
 
 ---
@@ -142,10 +139,7 @@ nehmen und bestätige dies mit meiner Unterschrift.
 
 weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
-Bitte das heutige Datum eintragen.
-
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -195,7 +189,7 @@ ent -
 
 ### Exemplar für den Arzt
 
-J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
 
 
 ---
@@ -242,10 +236,7 @@ nehmen und bestätige dies mit meiner Unterschrift.
 
 weiß, dass ich detaillierte Informationen zeitnah mit meinen Einschreibungsunterlagen durch meine Krankenkasse bekom me. **Ich bin mit der darin beschriebenen Verarbeitung meiner Behandlungsdaten im Rahmen meiner Teilnahme am**  **Programm einverstanden und bestätige dies mit meiner Unterschrift.**
 
-Bitte das heutige Datum eintragen.
-
-| **T** | **T** | **M** | **M** | **J** | **J** | **J** | **J** |
-|---|---|---|---|---|---|---|---|
+Bitte das heutige Datum eintragen. **T T M M J J J J**
 
 |  | **–** | **von** |  | **der** |  |  | **behandelnden** |
 |---|---|---|---|---|---|---|---|
@@ -295,7 +286,7 @@ ent -
 
 ### Exemplar für den Patienten
 
-J	J	J	J – von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
+– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen – Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) sprechend den rechtlichen Anforderungen wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung profitieren kann. Bitte das heutige Datum eintragen. J	J	J	J06.05.2020 TEEWE
 
 
 ---

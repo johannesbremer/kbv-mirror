@@ -2,10 +2,9 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-**Datenstand: 30.06.2025**
+#### Datenstand: 30.06.2025
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 1.12
 
@@ -31,6 +30,8 @@
 
 2.52
 
+**Praxissoftware**
+
 **TURBOMED**
 
 **CGM MEDISTAR BLACK PRO**
@@ -54,6 +55,8 @@
 **tomedo**
 
 **CGM M1 PRO**
+
+**Anbieter**
 
 CompuGroup Medical Deutschland AG
 
@@ -79,6 +82,8 @@ Zollsoft GmbH
 
 CompuGroup Medical Deutschland AG 1
 
+**Installationen 2.Q.2025**
+
 1.991
 
 1.951
@@ -103,6 +108,8 @@ CompuGroup Medical Deutschland AG 1
 
 7.02
 
+**Installationen 1.Q.2025**
+
 2.060
 
 1.942
@@ -126,6 +133,8 @@ CompuGroup Medical Deutschland AG 1
 7.48
 
 7.22
+
+**Differenz**
 
 -69
 
@@ -154,8 +163,7 @@ CompuGroup Medical Deutschland AG 1
 
 ---
 
-| **Id** | **Praxissoftware** | **Anbieter** | **Installationen 2.Q.2025** | **Installationen 1.Q.2025** | **Differenz** |
-|---|---|---|---|---|---|
+**Id**
 
 0.86
 
@@ -173,6 +181,8 @@ CompuGroup Medical Deutschland AG 1
 
 0.62
 
+**Praxissoftware**
+
 **DURIA**
 
 **EL - Elaphe Longissim**
@@ -188,6 +198,8 @@ CompuGroup Medical Deutschland AG 1
 **Praxis-Programm**
 
 **EVA**
+
+**Anbieter**
 
 Duria eG
 
@@ -207,6 +219,8 @@ MediSoftware Computersysteme für Ärzte
 
 Abasoft EDV-Programme GmbH 2
 
+**Installationen 2.Q.2025**
+
 6.13
 
 5.06
@@ -223,6 +237,8 @@ Abasoft EDV-Programme GmbH 2
 
 1.68
 
+**Installationen 1.Q.2025**
+
 6.08
 
 5.17
@@ -238,6 +254,8 @@ Abasoft EDV-Programme GmbH 2
 2.03
 
 1.68
+
+**Differenz**
 
 5
 
